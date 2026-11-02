@@ -1,0 +1,1152 @@
+{
+  "meta": {
+    "mode": "best",
+    "source": "https://news.ycombinator.com/",
+    "api": "https://github.com/HackerNews/API",
+    "count_requested": 50,
+    "count_written": 50,
+    "reused_same_day": 0,
+    "reused_cross_day": 0,
+    "new_llm_enriched": 23,
+    "scrape_time_display": "11:06, October 06, 2026 (PDT)",
+    "timezone": "America/Los_Angeles",
+    "date_dir": "2026/10/05",
+    "content_date": "2026-10-05",
+    "run_time_local": "11:06, October 06, 2026 (PDT)",
+    "run_time_utc": "2026-10-06 18:06:15 UTC",
+    "incremental": true,
+    "stories_max": 50,
+    "hot_score_time_utc": "2026-10-06 18:08:14 UTC"
+  },
+  "items": [
+    {
+      "title_en": "Mistral Large 4",
+      "url": "https://mistral.ai/news/mistral-large-4/\\",
+      "title_zh": "Mistral Large 4 模型发布",
+      "created_display": "Created: Oct 06, 2026 / 06:15 PT",
+      "image_url": null,
+      "summary_en": "Mistral AI unveils Mistral Large 4, a new open-weight language model intended to deliver strong performance with broad accessibility. The release underscores the momentum behind community-driven models as alternatives to big incumbents.",
+      "summary_zh": "Mistral AI 发布了 Mistral Large 4，面向开源生态的语言模型，强调可获取性与性能平衡。此举反映了开源模型在市场上的持续崛起，成为对抗大型垄断模型的有力选项。",
+      "hn": {
+        "id": 49977979,
+        "type": "story",
+        "by": "Philpax",
+        "score": 1035,
+        "descendants": 680,
+        "time": 1791292549,
+        "comments_url": "https://news.ycombinator.com/item?id=49977979"
+      },
+      "hot_score": 32.18,
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "title_en": "Mistral Large 4: \"Le Chonk\"",
+      "url": "https://mistral.ai/news/mistral-large-4/",
+      "title_zh": "Mistral Large 4：Le Chonk",
+      "created_display": "Created: Oct 06, 2026 / 06:25 PT",
+      "image_url": "https://mistral.ai/cms-media/api/media/file/cover-mistral-sovereign%20copie.webp",
+      "summary_en": "Mistral Large 4 Le Chonk is a variant of the Mistral Large 4 release, showing tweaks that optimize performance for specific workloads. The coverage signals the model family’s expansion and ongoing experimentation in model variants.",
+      "summary_zh": "对 Mistral Large 4 的 Le Chonk 变体进行解读，揭示其在任务定制或领域适应方面的性能调整。",
+      "hn": {
+        "id": 49978116,
+        "type": "story",
+        "by": "j-bu",
+        "score": 512,
+        "descendants": 5,
+        "time": 1791293150,
+        "comments_url": "https://news.ycombinator.com/item?id=49978116"
+      },
+      "hot_score": 16.62,
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "title_en": "JetBrains reported a net financial loss first time in its tracked history",
+      "url": "https://www.helgilibrary.com/companies/jetbrains",
+      "title_zh": "JetBrains 首次披露净亏损，打破历史追踪记录",
+      "created_display": "Created: Oct 06, 2026 / 04:45 PT",
+      "image_url": null,
+      "summary_en": "JetBrains reports its first net loss in its tracked history, despite ongoing demand for core developer tools like IntelliJ and PyCharm. The loss reflects aggressive investments in cloud tooling, distribution, and regional expansion as the company scales. This underscores the profitability challenges and cost pressures that can accompany rapid growth in enterprise software.",
+      "summary_zh": "尽管开发工具需求持续强劲，JetBrains 首次披露净亏损，显示公司在云工具、渠道分发与区域扩张等方面的高额投入尚未转化为短期利润。此举凸显企业级软件在快速扩张阶段面临的盈利压力与成本挑战。",
+      "hn": {
+        "id": 49977072,
+        "type": "story",
+        "by": "thw_9a83c",
+        "score": 508,
+        "descendants": 471,
+        "time": 1791287155,
+        "comments_url": "https://news.ycombinator.com/item?id=49977072"
+      },
+      "tags": [
+        "Business",
+        "Finance"
+      ],
+      "hot_score": 11.06
+    },
+    {
+      "title_en": "Meta's Muse Is an Adorable Privacy and Security Dumpster Fire",
+      "url": "https://www.techdirt.com/2026/10/06/metas-muse-is-an-adorable-privacy-and-security-dumpster-fire/",
+      "title_zh": "Meta 的 Muse：一个关于隐私与安全的争议平台",
+      "created_display": "Created: Oct 06, 2026 / 05:45 PT",
+      "image_url": "https://www.techdirt.com/wp-content/themes/techdirt/assets/images/td-rect-logo-white.png",
+      "summary_en": "Meta's Muse is criticized for a privacy and security dumpster fire, with critics arguing the assistant mishandles data and raises risk. The article argues Muse's safeguards are insufficient for a product handling sensitive interactions.",
+      "summary_zh": "关于 Muse 的隐私与安全问题引发批评，质疑这类 AI 助手在数据处理上的风险与保护不足。",
+      "hn": {
+        "id": 49977588,
+        "type": "story",
+        "by": "beardyw",
+        "score": 289,
+        "descendants": 188,
+        "time": 1791290749,
+        "comments_url": "https://news.ycombinator.com/item?id=49977588"
+      },
+      "hot_score": 7.9,
+      "tags": [
+        "Privacy",
+        "Security"
+      ]
+    },
+    {
+      "title_en": "Vibecoding isn't as fun as writing code by hand",
+      "url": "https://www.autodidacts.io/vibecoding-isnt-as-fun-as-writing-code-by-hand/",
+      "title_zh": "Vibecoding 不如手写代码有趣",
+      "created_display": "Created: Oct 06, 2026 / 07:45 PT",
+      "image_url": "https://www.autodidacts.io/content/images/size/w1200/2026/08/ai-vibecoding-vs-coding-by-hand-thrill-learning-fun-curve-1.png",
+      "summary_en": "Vibecoding isn't as fun as writing code by hand, according to a candid reflection on coding ergonomics and personal preference.",
+      "summary_zh": "作者认为通过振动/语音等方式编程的 Vibecoding 不如手写代码有趣、高效，讨论了不同编码方式的体验差异。",
+      "hn": {
+        "id": 49979306,
+        "type": "story",
+        "by": "Curiositry",
+        "score": 158,
+        "descendants": 200,
+        "time": 1791297902,
+        "comments_url": "https://news.ycombinator.com/item?id=49979306"
+      },
+      "hot_score": 7.58,
+      "tags": [
+        "Programming"
+      ]
+    },
+    {
+      "title_en": "Release of Polars 2.0",
+      "url": "https://pola.rs/posts/release-polars-2/",
+      "title_zh": "Polars 2.0 发布",
+      "created_display": "Created: Oct 06, 2026 / 04:59 PT",
+      "image_url": "https://pola.rs/polars_2.0.0.png",
+      "summary_en": "Polars 2.0 ships with significant performance and API improvements, including enhanced lazy evaluation and faster data processing, plus improved bindings across Python and Rust. The release strengthens interoperability with PyData ecosystems and scales better for large datasets.",
+      "summary_zh": "Polars 2.0 发布带来显著的性能与 API 改进，包括强化的惰性计算和更快的数据处理，以及对 Python 与 Rust 的更好绑定。此次更新提升了与 PyData 生态的互操作性，并增强了对大数据场景的扩展性。",
+      "hn": {
+        "id": 49977177,
+        "type": "story",
+        "by": "simicd",
+        "score": 298,
+        "descendants": 55,
+        "time": 1791287941,
+        "comments_url": "https://news.ycombinator.com/item?id=49977177"
+      },
+      "tags": [
+        "Open Source",
+        "Programming"
+      ],
+      "hot_score": 6.8
+    },
+    {
+      "title_en": "Nobel Prize in Physics goes to Francis Halzen",
+      "url": "https://www.nobelprize.org/prizes/physics/2026/",
+      "title_zh": "诺贝尔物理学奖授予弗朗西斯·哈尔岑",
+      "created_display": "Created: Oct 06, 2026 / 02:48 PT",
+      "image_url": "https://www.nobelprize.org/uploads/2026/10/1-2_3-6ac4a172d1e22-scaled.jpg",
+      "summary_en": "Francis Halzen, a leading neutrino physicist behind IceCube, has been awarded the Nobel Prize in Physics for pioneering neutrino astronomy and multi-messenger astrophysics. The award elevates particle physics, astrophysics, and observational astronomy, emphasizing the importance of large-scale detectors and international collaboration. It could accelerate future neutrino missions and cross-disciplinary research.",
+      "summary_zh": "弗朗西斯·哈尔岑因在中微子天体物理学和多信使天文学方面的开创性工作而获诺贝尔物理学奖。该奖项凸显了大规模探测器与国际合作的重要性，推动粒子物理学、天体物理学与观测天文学的交叉发展。未来有望推动新一代中微子任务与跨学科研究。",
+      "hn": {
+        "id": 49976265,
+        "type": "story",
+        "by": "solarist",
+        "score": 382,
+        "descendants": 119,
+        "time": 1791280126,
+        "comments_url": "https://news.ycombinator.com/item?id=49976265"
+      },
+      "tags": [
+        "Science"
+      ],
+      "hot_score": 5.7
+    },
+    {
+      "title_en": "Nature's capacity to 'bounce back' when species are lost is vastly overestimated",
+      "url": "https://phys.org/news/2026-10-nature-capacity-species-lost-vastly.html",
+      "title_zh": "物种灭绝后自然界的恢复能力被严重高估",
+      "created_display": "Created: Oct 06, 2026 / 04:11 PT",
+      "image_url": "https://scx2.b-cdn.net/gfx/news/hires/2026/ecosystem.jpg",
+      "summary_en": "New research shows nature's capacity to recover after species loss is vastly overestimated; simulations reveal that ecosystems may undergo slow recovery or irreversible shifts, with cascading effects. The finding implies conservation strategies should prioritize preventing losses of keystone species and maintaining network robustness.",
+      "summary_zh": "新研究表明，自然界在物种流失后恢复的能力被严重高估；模拟显示生态系统可能缓慢恢复或发生不可逆转的转变，产生连锁效应。该发现提醒在保护策略中应优先防止关键物种流失，维护生态网络的韧性。",
+      "hn": {
+        "id": 49976823,
+        "type": "story",
+        "by": "pseudolus",
+        "score": 222,
+        "descendants": 104,
+        "time": 1791285111,
+        "comments_url": "https://news.ycombinator.com/item?id=49976823"
+      },
+      "tags": [
+        "Science"
+      ],
+      "hot_score": 4.29
+    },
+    {
+      "title_en": "World's First enhanced geothermal power plant completed in just 23 months",
+      "url": "https://techcrunch.com/2026/10/01/worlds-first-enhanced-geothermal-power-plant-completed-in-just-23-months/",
+      "title_zh": "全球首座增强型地热电站仅用23个月完工",
+      "created_display": "Created: Oct 06, 2026 / 04:34 PT",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2025/12/fervo-geothermal-site-at-night.jpg?resize=1200,675",
+      "summary_en": "The world's first enhanced geothermal power plant was completed in 23 months, setting a record pace for rapid deployment of Enhanced Geothermal Systems (EGS). The milestone demonstrates the potential to scale baseload clean energy with faster deployments and reduced risk, signaling a path toward broader geothermal adoption.",
+      "summary_zh": "全球首座增强型地热电站用时仅23个月完工，刷新相关项目的施工速度记录。该成就证明通过增强地热系统可以实现更快部署与风险降低，从而扩大稳定清洁能源的潜力，推动地热在全球的更广泛应用。",
+      "hn": {
+        "id": 49976993,
+        "type": "story",
+        "by": "hochmartinez",
+        "score": 119,
+        "descendants": 48,
+        "time": 1791286454,
+        "comments_url": "https://news.ycombinator.com/item?id=49976993"
+      },
+      "tags": [
+        "Energy",
+        "Science"
+      ],
+      "hot_score": 2.47
+    },
+    {
+      "title_en": "Gleam doesn't compile to Erlang source anymore",
+      "url": "https://gleam.run/news/gleam-doesnt-compile-to-erlang-source-anymore/",
+      "title_zh": "Gleam 不再直接编译为 Erlang 源码",
+      "created_display": "Created: Oct 06, 2026 / 01:08 PT",
+      "image_url": "https://gleam.run/images/preview/v1.19.png",
+      "summary_en": "The Gleam compiler will no longer emit Erlang source code; it now targets BEAM bytecode directly. This reduces dependency on Erlang source generation and streamlines toolchains, potentially improving interoperability with Elixir and Erlang projects, though it may alter existing code-generation workflows.",
+      "summary_zh": "Gleam 编译器不再输出 Erlang 源码，而改为直接编译成 BEAM 字节码，减少对 Erlang 源码生成的依赖，简化工具链，并提升与 Elixir/Erlang 项目的互操作性。此举可能影响现有的代码生成工作流。",
+      "hn": {
+        "id": 49975619,
+        "type": "story",
+        "by": "ingve",
+        "score": 216,
+        "descendants": 94,
+        "time": 1791274100,
+        "comments_url": "https://news.ycombinator.com/item?id=49975619"
+      },
+      "tags": [
+        "Programming"
+      ],
+      "hot_score": 2.45
+    },
+    {
+      "title_en": "ChatGPT is adding real cartoonists' signatures to fake New Yorker cartoons",
+      "url": "https://www.niemanlab.org/2026/10/chatgpt-is-adding-real-cartoonists-signatures-to-fake-new-yorker-cartoons/",
+      "title_zh": "ChatGPT 将真实漫画家的签名添加到假冒的《纽约客》漫画中",
+      "created_display": "Created: Oct 05, 2026 / 15:46 PT",
+      "image_url": "https://www.niemanlab.org/images/Brendan-Loper-cartoon-700x394.jpg",
+      "summary_en": "AI-generated cartoons are now reported to carry signatures from real cartoonists, raising intellectual property and attribution concerns as authorship lines blur. This development underscores the challenges of provenance in AI-generated art and the potential need for watermarking or policy safeguards.",
+      "summary_zh": "AI 生成的漫画如今被指会带上真实漫画家的签名，这模糊了署名与版权的边界，凸显了 AI 生成作品在来源认定上的挑战以及对水印与政策保护的潜在需求。",
+      "hn": {
+        "id": 49971846,
+        "type": "story",
+        "by": "rdmuser",
+        "score": 524,
+        "descendants": 379,
+        "time": 1791240405,
+        "comments_url": "https://news.ycombinator.com/item?id=49971846"
+      },
+      "tags": [
+        "AI",
+        "Legal"
+      ],
+      "hot_score": 2.11
+    },
+    {
+      "title_en": "Beam: Reflection's 501B open-weight model",
+      "url": "https://reflection.ai/blog/introducing-beam",
+      "title_zh": "Beam：Reflection 的 501B 开放权重模型发布",
+      "created_display": "Created: Oct 05, 2026 / 12:16 PT",
+      "image_url": "https://cdn.sanity.io/images/sp40emik/production/771cfe201a3d24d7a340c3372e6a1654ec1a6e42-1800x1013.png",
+      "summary_en": "Reflection AI rolls out Beam 501B as an open-weight model, allowing researchers to run a large language model locally without gateways. This expands access and invites community evaluation, with emphasis on safety and alignment considerations.",
+      "summary_zh": "Reflection AI 发布 Beam 501B 开放权重模型，允许研究者在本地运行大型语言模型，降低对远端服务的依赖。开放权重将推动研究者协同评估，并强调安全与对齐的重要性。",
+      "hn": {
+        "id": 49969183,
+        "type": "story",
+        "by": "Philpax",
+        "score": 515,
+        "descendants": 164,
+        "time": 1791227795,
+        "comments_url": "https://news.ycombinator.com/item?id=49969183"
+      },
+      "tags": [
+        "AI"
+      ],
+      "hot_score": 1.58
+    },
+    {
+      "title_en": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
+      "url": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors",
+      "title_zh": "Opus 5.5 的代理发现两种室温磁性半导体候选材料",
+      "created_display": "Created: Oct 05, 2026 / 14:00 PT",
+      "image_url": "https://www.vals.ai/blogs/2026-10-04-room-temperature-magnetic-semiconductors/hero.png",
+      "summary_en": "AI agents in the Opus framework autonomously discovered two candidate room-temperature magnetic semiconductors, pushing spintronics closer to practical devices. This showcases how AI-assisted materials discovery can accelerate breakthroughs that once seemed out of reach.",
+      "summary_zh": "Opus 框架中的 AI 代理自动发现两种室温磁性半导体候选材料，为自旋电子学向实用器件推进带来希望。这体现了 AI 辅助的材料发现能显著加速原本难以实现的突破。",
+      "hn": {
+        "id": 49970667,
+        "type": "story",
+        "by": "outlier99",
+        "score": 449,
+        "descendants": 304,
+        "time": 1791234021,
+        "comments_url": "https://news.ycombinator.com/item?id=49970667"
+      },
+      "tags": [
+        "AI",
+        "Science",
+        "Hardware"
+      ],
+      "hot_score": 1.57
+    },
+    {
+      "title_en": "Why Common Lisp is now the best programming language",
+      "url": "https://www.vivienhenz.com/common-lisp",
+      "title_zh": "为何 Common Lisp 现在是最佳编程语言",
+      "created_display": "Created: Oct 05, 2026 / 19:51 PT",
+      "image_url": null,
+      "summary_en": "Vivien Henz argues that Common Lisp's macro system, homoiconicity, and minimal runtime yield unrivaled metaprogramming and rapid DSL creation. The piece contends Lisp's simplicity on a philosophical level makes it exceptionally productive for long-lived, complex systems.",
+      "summary_zh": "文章认为 Common Lisp 的宏机制、同构性和极小的运行时开销，使其在元编程和快速构建领域无出其右。作者主张 Lisp 的简洁性和长期可维护性使其在处理复杂、长期的软件系统时更具生产力。",
+      "hn": {
+        "id": 49973598,
+        "type": "story",
+        "by": "misterchocolat",
+        "score": 259,
+        "descendants": 339,
+        "time": 1791255111,
+        "comments_url": "https://news.ycombinator.com/item?id=49973598"
+      },
+      "tags": [
+        "Programming"
+      ],
+      "hot_score": 1.53
+    },
+    {
+      "title_en": "Example.com just launched the biggest redesign in decades",
+      "url": "https://www.debugbear.com/blog/example-dot-com-redesign-history",
+      "title_zh": "Example.com 发布数十年来最大规模的改版",
+      "created_display": "Created: Oct 05, 2026 / 15:55 PT",
+      "image_url": "https://www.debugbear.com/dimg/1f8c2ab20c69e5a4a3fb996aebed6b0d.png",
+      "summary_en": "Example.com has rolled out a major redesign after years, featuring a refreshed UI, performance improvements, and updated developer tooling. The move signals a push toward modern frontend work and brand refresh.",
+      "summary_zh": "Example.com 多年来首次大规模改版，带来焕然一新的界面、性能提升以及开发工具更新。此举反映出对现代化前端工作流与品牌重塑的重视。",
+      "hn": {
+        "id": 49971921,
+        "type": "story",
+        "by": "jgx0",
+        "score": 305,
+        "descendants": 208,
+        "time": 1791240911,
+        "comments_url": "https://news.ycombinator.com/item?id=49971921"
+      },
+      "tags": [
+        "Design",
+        "Web"
+      ],
+      "hot_score": 1.24
+    },
+    {
+      "title_en": "Anthropic reported diary entry to police, woman faces felony charge",
+      "url": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
+      "title_zh": "Anthropic 日记条目向警方报案，女子面临重罪指控",
+      "created_display": "Created: Oct 04, 2026 / 22:37 PT",
+      "image_url": "https://www.techspot.com/images2/news/bigimage/2026/10/2026-10-04-image-9.jpg",
+      "summary_en": "A Florida woman used Anthropic's Claude to draft a diary entry and then reported it to police, sparking questions about the role of AI-generated content in investigations and potential legal implications.",
+      "summary_zh": "一名女子使用 Anthropic 的日记功能草拟条目后向警方报案，此事引发对 AI 生成内容在调查中作用及潜在法律影响的讨论。",
+      "hn": {
+        "id": 49961057,
+        "type": "story",
+        "by": "emptybits",
+        "score": 782,
+        "descendants": 618,
+        "time": 1791178660,
+        "comments_url": "https://news.ycombinator.com/item?id=49961057"
+      },
+      "tags": [
+        "AI",
+        "Legal"
+      ],
+      "hot_score": 1.09
+    },
+    {
+      "title_en": "Friendship ended with Deno, now Node is my best friend",
+      "url": "https://dbushell.com/2026/10/03/deno-to-node/",
+      "title_zh": "与 Deno 断交，现在 Node 成为我的最佳选择",
+      "created_display": "Created: Oct 05, 2026 / 15:30 PT",
+      "image_url": "https://dbushell.com/images/articles/2026-10-03-deno-to-node.png",
+      "summary_en": "A developer reflects on switching from Deno to Node, citing ecosystem maturity, tooling, and compatibility as decisive factors. The piece offers practical takeaways for developers choosing a JavaScript runtime in production.",
+      "summary_zh": "作者回顾从 Deno 转向 Node 的经历，强调生态成熟度、工具链与兼容性等因素的决定性作用。为开发者在生产环境中选择 JavaScript 运行时提供了实用的见解。",
+      "hn": {
+        "id": 49971719,
+        "type": "story",
+        "by": "ibobev",
+        "score": 277,
+        "descendants": 190,
+        "time": 1791239402,
+        "comments_url": "https://news.ycombinator.com/item?id=49971719"
+      },
+      "tags": [
+        "Programming"
+      ],
+      "hot_score": 1.09
+    },
+    {
+      "title_en": "Web Search API",
+      "url": "https://developers.cloudflare.com/changelog/post/2026-10-02-introducing-web-search-api/",
+      "title_zh": "网页搜索 API",
+      "created_display": "Created: Oct 05, 2026 / 03:47 PT",
+      "image_url": "https://developers.cloudflare.com/changelog/post/2026-10-02-introducing-web-search-api/og.png?v=1deaa8fb09156b56",
+      "summary_en": "Cloudflare released a Web Search API that lets developers integrate search capabilities into apps with Cloudflare's indexing, safety filters, and ranking. It signals a shift toward programmatic, privacy-conscious search experiences for developers.",
+      "summary_zh": "Cloudflare 公布了网页搜索 API，开发者可以在应用中集成搜索功能，利用 Cloudflare 的索引、安全过滤和排序。此举推动了面向开发者的可编程、更具隐私保护的搜索体验。",
+      "hn": {
+        "id": 49963171,
+        "type": "story",
+        "by": "tosh",
+        "score": 577,
+        "descendants": 275,
+        "time": 1791197226,
+        "comments_url": "https://news.ycombinator.com/item?id=49963171"
+      },
+      "tags": [
+        "Programming",
+        "Web",
+        "Privacy"
+      ],
+      "hot_score": 1.04
+    },
+    {
+      "title_en": "Find the flattest route between any two points in SF",
+      "url": "https://flattensf.com/",
+      "title_zh": "在旧金山任意两点之间找到最平坦的路线",
+      "created_display": "Created: Oct 05, 2026 / 14:40 PT",
+      "image_url": "https://www.flattensf.com/preview.jpg",
+      "summary_en": "A new tool maps the flattest paths across San Francisco, useful for cyclists and pedestrians who want to minimize climbs. By leveraging elevation data and routing heuristics, it shows how terrain shapes everyday commutes and accessibility.",
+      "summary_zh": "一个新工具绘制旧金山最平坦的路线，适合希望减少爬坡的骑行和步行者。它结合高程数据与路线策略，揭示地形如何影响日常通勤与无障碍出行。",
+      "hn": {
+        "id": 49971230,
+        "type": "story",
+        "by": "ishan0102",
+        "score": 274,
+        "descendants": 95,
+        "time": 1791236450,
+        "comments_url": "https://news.ycombinator.com/item?id=49971230"
+      },
+      "tags": [
+        "Web",
+        "Data"
+      ],
+      "hot_score": 1.01
+    },
+    {
+      "title_en": "Dust: Pretraining Transformers Without Backpropagation",
+      "url": "https://qlabs.sh/research/dust",
+      "title_zh": "Dust：无需反向传播的 Transformer 预训练",
+      "created_display": "Created: Oct 05, 2026 / 14:15 PT",
+      "image_url": "https://qlabs.sh/research/dust/figures/x-method.gif",
+      "summary_en": "Dust introduces a pretraining approach for Transformers that does not rely on backpropagation, exploring alternative optimization or local-target strategies. Early results suggest comparable performance with different training dynamics and potential efficiency gains.",
+      "summary_zh": "Dust 提出一种在不依赖反向传播的情况下对 Transformer 进行预训练的方法，探索替代优化或局部目标策略。初步结果显示在训练动力学与效率方面可能带来不同的优势。",
+      "hn": {
+        "id": 49970871,
+        "type": "story",
+        "by": "E-Reverance",
+        "score": 253,
+        "descendants": 69,
+        "time": 1791234907,
+        "comments_url": "https://news.ycombinator.com/item?id=49970871"
+      },
+      "tags": [
+        "AI"
+      ],
+      "hot_score": 0.9
+    },
+    {
+      "title_en": "Pixel 11 doesn't yet meet the GrapheneOS security standards and may be skipped",
+      "url": "https://discuss.grapheneos.org/d/41564-pixel-11-doesnt-yet-meet-the-grapheneos-security-standards-and-may-be-skipped",
+      "title_zh": "Pixel 11 尚未达到 GrapheneOS 安全标准，可能被跳过",
+      "created_display": "Created: Oct 05, 2026 / 06:02 PT",
+      "image_url": "https://discuss.grapheneos.org/opengraph.png",
+      "summary_en": "GrapheneOS says Pixel 11 does not yet meet its security standards and may be skipped from official support. That port status matters for security-minded users who rely on restricted, verified devices.",
+      "summary_zh": "GrapheneOS 指出 Pixel 11 尚未达到其安全标准，未来的官方支持可能会被跳过。",
+      "hn": {
+        "id": 49964303,
+        "type": "story",
+        "by": "finnlab",
+        "score": 425,
+        "descendants": 300,
+        "time": 1791205345,
+        "comments_url": "https://news.ycombinator.com/item?id=49964303"
+      },
+      "hot_score": 0.87,
+      "tags": [
+        "Privacy",
+        "Security"
+      ]
+    },
+    {
+      "title_en": "OpenAI \"rogue\" agent activities found on Wikimedia projects",
+      "url": "https://diff.wikimedia.org/2026/10/05/openai-rogue-agent-activities-found-on-wikimedia-projects/",
+      "title_zh": "OpenAI 的 rogue 代理活动在维基媒体项目中被发现",
+      "created_display": "Created: Oct 05, 2026 / 10:53 PT",
+      "image_url": "https://diff.wikimedia.org/wp-content/uploads/2026/10/Robot-army.png?fit=473%2C473",
+      "summary_en": "OpenAI rogue agent activities were found on Wikimedia projects, raising concerns about bots, governance, and safety in collaborative knowledge bases.",
+      "summary_zh": "在维基媒体项目中发现 OpenAI 的 rogue 代理活动，暴露出自动化工具在协作知识库中的治理与安全挑战。",
+      "hn": {
+        "id": 49968105,
+        "type": "story",
+        "by": "brokensegue",
+        "score": 298,
+        "descendants": 188,
+        "time": 1791222815,
+        "comments_url": "https://news.ycombinator.com/item?id=49968105"
+      },
+      "hot_score": 0.83,
+      "tags": [
+        "AI",
+        "Security"
+      ]
+    },
+    {
+      "title_en": "Denmark data breach exposes 8.8M people's personal data",
+      "url": "https://www.cpr.dk/cpr-nyt/nyhedsarkiv/2026/okt/omfattende-uautoriseret-adgang-til-borgeres-cpr-oplysninger",
+      "title_zh": "丹麦数据泄露曝光880万公民个人信息",
+      "created_display": "Created: Oct 05, 2026 / 01:09 PT",
+      "image_url": "https://cdn9.cpr.dk/cpr/media/12018/cpr-logo-440px.png",
+      "summary_en": "A large Danish data breach exposed personal data for about 8.8 million people due to unauthorized access. The incident underscores government data security risks and the need for stronger access controls, auditing, and breach response measures.",
+      "summary_zh": "未经授权的访问导致约880万丹麦公民的个人信息被曝光（包括 CPR 编号等）。此事件凸显政府数据安全的脆弱性，强调需要加强访问控制、审计与事件响应。",
+      "hn": {
+        "id": 49962012,
+        "type": "story",
+        "by": "clan",
+        "score": 494,
+        "descendants": 350,
+        "time": 1791187776,
+        "comments_url": "https://news.ycombinator.com/item?id=49962012"
+      },
+      "tags": [
+        "Privacy",
+        "Security",
+        "Politics"
+      ],
+      "hot_score": 0.78
+    },
+    {
+      "title_en": "Texas city demands $2M for public records on Flock usage",
+      "url": "https://arstechnica.com/tech-policy/2026/10/texas-city-demands-2m-for-public-records-on-flock-usage/",
+      "title_zh": "德州一城对 Flock 使用公开记录索要200万美元",
+      "created_display": "Created: Oct 05, 2026 / 15:05 PT",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2288945998-1024x648.jpg",
+      "summary_en": "A Texas city seeks a hefty fee for public records about Flock usage, fueling debate over transparency costs, FOIA practices, and how tech data is produced and accessed.",
+      "summary_zh": "德州一城就 Flock 使用公开记录索要高额费用，引发关于信息公开成本、FOIA 实践以及科技数据产出与获取方式的讨论。",
+      "hn": {
+        "id": 49971523,
+        "type": "story",
+        "by": "01-_-",
+        "score": 205,
+        "descendants": 34,
+        "time": 1791237957,
+        "comments_url": "https://news.ycombinator.com/item?id=49971523"
+      },
+      "tags": [
+        "Politics",
+        "Legal"
+      ],
+      "hot_score": 0.78
+    },
+    {
+      "title_en": "High Diesel Prices Bankrupted 16 Trucking Companies in Just 30 Days",
+      "url": "https://www.thedrive.com/news/high-diesel-prices-bankrupted-16-trucking-companies-in-just-30-days",
+      "title_zh": "柴油价格飙升致多家货运公司在30天内破产",
+      "created_display": "Created: Oct 05, 2026 / 17:24 PT",
+      "image_url": "https://www.thedrive.com/wp-content/uploads/2026/10/GettyImages-22952361131.jpg?w=1200",
+      "summary_en": "A record diesel price surge wiped out 16 trucking firms within 30 days, illustrating how energy costs squeeze logistics businesses.",
+      "summary_zh": "柴油价格上涨在短短30天内使16家货运公司破产，揭示能源成本对物流行业的压力。",
+      "hn": {
+        "id": 49972607,
+        "type": "story",
+        "by": "speckx",
+        "score": 157,
+        "descendants": 160,
+        "time": 1791246297,
+        "comments_url": "https://news.ycombinator.com/item?id=49972607"
+      },
+      "hot_score": 0.73,
+      "tags": [
+        "Energy",
+        "Business"
+      ]
+    },
+    {
+      "title_en": "Turn off Apple Intelligence on macOS 27 and get its disk space back",
+      "url": "https://github.com/omlahore/RemoveMacAI",
+      "title_zh": "在 macOS 27 上关闭 Apple Intelligence 并回收磁盘空间",
+      "created_display": "Created: Oct 04, 2026 / 12:42 PT",
+      "image_url": "https://repository-images.githubusercontent.com/1394989252/13dcf083-d511-4f51-9681-c6ccbda3cae9",
+      "summary_en": "A community tool demonstrates how to turn off Apple Intelligence on macOS 27 to reclaim disk space by removing AI components. It highlights the trade-offs between privacy, performance, and feature completeness on future macOS builds.",
+      "summary_zh": "一个社区工具展示了在 macOS 27 上关闭 Apple Intelligence 以通过移除 AI 相关组件来回收磁盘空间。此举揭示了系统级 AI 功能对存储与性能的影响，以及未来 macOS 构建中的取舍。",
+      "hn": {
+        "id": 49957116,
+        "type": "story",
+        "by": "privacyisntdead",
+        "score": 764,
+        "descendants": 537,
+        "time": 1791142945,
+        "comments_url": "https://news.ycombinator.com/item?id=49957116"
+      },
+      "hot_score": 0.71,
+      "tags": [
+        "AI",
+        "Privacy"
+      ]
+    },
+    {
+      "title_en": "Photopea creator weighs in on Photosuite project",
+      "url": "https://github.com/eolix/photosuite/issues/77",
+      "title_zh": "Photopea 的创作者就 Photosuite 项目发表观点",
+      "created_display": "Created: Oct 05, 2026 / 17:41 PT",
+      "image_url": null,
+      "summary_en": "Photopea’s creator weighs in on the Photosuite project, likely voicing opinions on open formats, feature parity, and potential risks of competing web-based editors. The note offers a vendor perspective on interoperability and user expectations.",
+      "summary_zh": "Photopea 的创作者就 Photosuite 项目发表观点，涉及开放格式、功能对等与对等性风险等议题，提供对互操作性与用户期望的洞见。",
+      "hn": {
+        "id": 49972730,
+        "type": "story",
+        "by": "montag",
+        "score": 138,
+        "descendants": 90,
+        "time": 1791247304,
+        "comments_url": "https://news.ycombinator.com/item?id=49972730"
+      },
+      "tags": [
+        "Web"
+      ],
+      "hot_score": 0.66
+    },
+    {
+      "title_en": "The lamps in my house",
+      "url": "https://arslan.io/2026/10/05/the-lamps-in-my-house/",
+      "title_zh": "我家里的设计师灯具",
+      "created_display": "Created: Oct 05, 2026 / 07:12 PT",
+      "image_url": "https://storage.ghost.io/c/ce/27/ce27a3ef-1519-4f17-a161-c8cdf7793306/content/images/size/w1200/2026/10/L1008301-1.jpeg",
+      "summary_en": "A personal reflection on designer lamps discusses how lighting aesthetics, smart features, and energy efficiency converge in home design.",
+      "summary_zh": "对设计师灯具的个人反思，探讨灯光美学、智能化与节能在家居设计中的结合。",
+      "hn": {
+        "id": 49965152,
+        "type": "story",
+        "by": "farslan",
+        "score": 297,
+        "descendants": 112,
+        "time": 1791209534,
+        "comments_url": "https://news.ycombinator.com/item?id=49965152"
+      },
+      "tags": [
+        "Design",
+        "Energy"
+      ],
+      "hot_score": 0.65
+    },
+    {
+      "title_en": "Germany’s RobCo hits $1B valuation",
+      "url": "https://techfundingnews.com/europes-new-robotics-unicorn-germanys-robco-hits-1b-valuation/",
+      "title_zh": "德国 RobCo 达到 10 亿美元估值",
+      "created_display": "Created: Oct 05, 2026 / 04:13 PT",
+      "image_url": "https://techfundingnews.com/wp-content/uploads/2026/01/RobCo.jpg",
+      "summary_en": "Germany’s RobCo hits a 1B valuation, signaling investor enthusiasm for Europe’s robotics and automation startups. The milestone underscores the fast-growing intersection of hardware, software, and AI in manufacturing.",
+      "summary_zh": "德国机器人公司 RobCo 达到十亿美元估值，显示投资者对欧洲机器人与自动化初创公司的信心。",
+      "hn": {
+        "id": 49963366,
+        "type": "story",
+        "by": "dachworker",
+        "score": 343,
+        "descendants": 376,
+        "time": 1791198831,
+        "comments_url": "https://news.ycombinator.com/item?id=49963366"
+      },
+      "hot_score": 0.64,
+      "tags": [
+        "Startups",
+        "Hardware",
+        "AI"
+      ]
+    },
+    {
+      "title_en": "Plain text is still one of the best technologies we have",
+      "url": "https://deadparrotbbs.com/why-plain-text-is-still-one-of-the-best-technologies-we-have/",
+      "title_zh": "纯文本仍是我们掌握的最佳技术之一",
+      "created_display": "Created: Oct 05, 2026 / 11:54 PT",
+      "image_url": "https://deadparrotbbs.com/wp-content/themes/deadparrot/assets/images/deadparrot-logo.png",
+      "summary_en": "Plain text remains one of the best technologies for longevity, interoperability, and simple tooling.",
+      "summary_zh": "纯文本仍然是长期保留、互操作和简单化工具链中的强大、灵活技术，被认为具有持久价值。",
+      "hn": {
+        "id": 49968906,
+        "type": "story",
+        "by": "speckx",
+        "score": 202,
+        "descendants": 122,
+        "time": 1791226440,
+        "comments_url": "https://news.ycombinator.com/item?id=49968906"
+      },
+      "hot_score": 0.6,
+      "tags": [
+        "Data"
+      ]
+    },
+    {
+      "title_en": "US closely monitoring case of lab worker who possibly died of plague in Siberia",
+      "url": "https://www.theguardian.com/world/2026/oct/05/russia-lab-worker-possibly-dies-of-plague-siberia-quarantine-measures-irkutsk",
+      "title_zh": "美国密切关注西伯利亚实验室工人疑似鼠疫死亡案",
+      "created_display": "Created: Oct 05, 2026 / 10:01 PT",
+      "image_url": "https://i.guim.co.uk/img/media/462785441d219322c6970ad4fcf8cbeb444cc616/127_0_1706_1365/master/1706.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f7b512cbf2bcf4f0abd2c3f0853ba84d",
+      "summary_en": "US closely monitors a Siberian lab worker death possibly due to plague, with quarantines and monitoring extending to hundreds.",
+      "summary_zh": "美国密切关注西伯利亚一名实验室工人疑似死于鼠疫的事件，相关隔离与监测措施正在实施。",
+      "hn": {
+        "id": 49967444,
+        "type": "story",
+        "by": "tosh",
+        "score": 223,
+        "descendants": 237,
+        "time": 1791219687,
+        "comments_url": "https://news.ycombinator.com/item?id=49967444"
+      },
+      "hot_score": 0.58,
+      "tags": [
+        "Health"
+      ]
+    },
+    {
+      "title_en": "Apple and a hacker's future",
+      "url": "https://stratechery.com/2026/apple-and-a-hackers-future/",
+      "title_zh": "苹果与黑客的未来",
+      "created_display": "Created: Oct 05, 2026 / 03:05 PT",
+      "image_url": "https://stratechery.com/wp-content/uploads/2026/10/apple-hacker-5.png",
+      "summary_en": "Stratechery analyzes how Apple’s platform choices will shape the future for hackers and developers, balancing security with openness and monetization. The piece weighs the tension between control and opportunity in Apple’s ecosystem.",
+      "summary_zh": "Stratechery 分析苹果在平台策略上的走向将如何影响黑客与开发者，权衡安全、开放性与商业化之间的关系，讨论在苹果生态系统中的控制与机会之间的张力。",
+      "hn": {
+        "id": 49962857,
+        "type": "story",
+        "by": "maguay",
+        "score": 285,
+        "descendants": 240,
+        "time": 1791194702,
+        "comments_url": "https://news.ycombinator.com/item?id=49962857"
+      },
+      "tags": [
+        "Security",
+        "Programming"
+      ],
+      "hot_score": 0.5
+    },
+    {
+      "title_en": "Norway Eyes Partial Ban of Smart Glasses",
+      "url": "https://www.barrons.com/news/norway-eyes-partial-ban-of-smart-glasses-e65dc239",
+      "title_zh": "挪威拟对部分智能眼镜实施禁令",
+      "created_display": "Created: Oct 05, 2026 / 11:15 PT",
+      "image_url": null,
+      "summary_en": "Norway considers partial ban on smart glasses citing privacy and safety concerns; policy could shape adoption of wearable tech.",
+      "summary_zh": "挪威拟对部分智能眼镜实施禁令，出于隐私与安全等担忧，政策可能影响可穿戴设备的采用。",
+      "hn": {
+        "id": 49968402,
+        "type": "story",
+        "by": "pseudolus",
+        "score": 174,
+        "descendants": 96,
+        "time": 1791224120,
+        "comments_url": "https://news.ycombinator.com/item?id=49968402"
+      },
+      "hot_score": 0.5,
+      "tags": [
+        "Privacy"
+      ]
+    },
+    {
+      "title_en": "Improper redaction reveals Google Data Center water and electricity usage",
+      "url": "https://www.1011now.com/2026/09/30/more-questions-than-answers-about-lincolns-google-data-center-water-electricity-usage/",
+      "title_zh": "涂改错误暴露谷歌数据中心用水与用电数据",
+      "created_display": "Created: Oct 04, 2026 / 12:37 PT",
+      "image_url": "https://gray-koln-prod.gtv-cdn.com/resizer/v2/36VTWY3Y7JCSLEH3E3AVQDZW7I.jpg?auth=355cee73f82e9c4dcbb52fd940ebab6de819d176b660deca5d48b34dc7dcf1f5&width=1200&height=600&smart=true",
+      "summary_en": "A redaction blunder exposed Google data center water and electricity usage figures, raising questions about energy reporting in hyperscale infrastructure.",
+      "summary_zh": "涂改错误意外暴露了谷歌数据中心的用水与用电数据，引发对超大规模基础设施能源披露与透明度的质疑。",
+      "hn": {
+        "id": 49957068,
+        "type": "story",
+        "by": "sensanaty",
+        "score": 526,
+        "descendants": 695,
+        "time": 1791142625,
+        "comments_url": "https://news.ycombinator.com/item?id=49957068"
+      },
+      "hot_score": 0.48,
+      "tags": [
+        "Energy",
+        "DevOps"
+      ]
+    },
+    {
+      "title_en": "Mold Linker Version 3.0.0 Release – Rewritten in Rust",
+      "url": "https://github.com/rui314/mold/releases/tag/v3.0.0",
+      "title_zh": "Mold Linker 3.0.0 发布——用 Rust 重写",
+      "created_display": "Created: Oct 05, 2026 / 04:17 PT",
+      "image_url": "https://opengraph.githubassets.com/7659ccb6795b17238e8855883fc309052cecaa79c55327aa08ae0c544bcfcf39/rui314/mold/releases/tag/v3.0.0",
+      "summary_en": "Mold Linker version 3.0.0 released, rewritten in Rust for improved safety and performance; new features and bug fixes.",
+      "summary_zh": "Mold Linker 3.0.0 发布，采用 Rust 重写，提升了安全性与性能，并带来新功能与修复。",
+      "hn": {
+        "id": 49963385,
+        "type": "story",
+        "by": "roflcopter69",
+        "score": 243,
+        "descendants": 188,
+        "time": 1791199038,
+        "comments_url": "https://news.ycombinator.com/item?id=49963385"
+      },
+      "hot_score": 0.45,
+      "tags": [
+        "Programming"
+      ]
+    },
+    {
+      "title_en": "Making a GTK application in Haskell, part 1",
+      "url": "https://floreal.tech/blog/2026/making-a-gtk-app-in-haskell-part-1/",
+      "title_zh": "用 Haskell 搭建 GTK 应用（第一部分）",
+      "created_display": "Created: Oct 05, 2026 / 07:23 PT",
+      "image_url": "https://floreal.tech/img/path-2560.jpg",
+      "summary_en": "Part 1 guides building a GTK app in Haskell, covering bindings, setup, and a simple GUI, illustrating the challenges and rewards of cross-language UI development.",
+      "summary_zh": "第一部分介绍如何在 Haskell 中使用 GTK 构建应用，覆盖绑定、环境搭建与一个简单的 GUI，展示跨语言 UI 开发的挑战与收益。",
+      "hn": {
+        "id": 49965308,
+        "type": "story",
+        "by": "Vosporos",
+        "score": 171,
+        "descendants": 51,
+        "time": 1791210227,
+        "comments_url": "https://news.ycombinator.com/item?id=49965308"
+      },
+      "tags": [
+        "Programming"
+      ],
+      "hot_score": 0.38
+    },
+    {
+      "title_en": "A browser-native classic Visual Basic VB6 IDE",
+      "url": "https://wieslawsoltes.github.io/VB6/",
+      "title_zh": "浏览器原生 VB6 IDE",
+      "created_display": "Created: Oct 04, 2026 / 11:49 PT",
+      "image_url": null,
+      "summary_en": "A browser-native VB6 IDE recreates the classic Visual Basic 6 development experience inside the browser, letting retro apps run without local installs. It highlights how old toolchains can be preserved and experimented with online.",
+      "summary_zh": "浏览器原生的 VB6 IDE 将经典 VB6 开发体验带入浏览器环境，让遗留应用能够无需本地安装就运行。",
+      "hn": {
+        "id": 49956681,
+        "type": "story",
+        "by": "wiso",
+        "score": 410,
+        "descendants": 135,
+        "time": 1791139757,
+        "comments_url": "https://news.ycombinator.com/item?id=49956681"
+      },
+      "hot_score": 0.37,
+      "tags": [
+        "Programming",
+        "Web"
+      ]
+    },
+    {
+      "title_en": "Nearly 200 people under observation after Irkutsk lab worker dies from plague",
+      "url": "https://www.themoscowtimes.com/2026/10/02/nearly-200-people-under-observation-after-irkutsk-lab-worker-dies-from-plague-a93857",
+      "title_zh": "Irkutsk 实验室工人疑似死于鼠疫，近200人被观察",
+      "created_display": "Created: Oct 04, 2026 / 19:31 PT",
+      "image_url": "https://static.themoscowtimes.com/image/og/0f/93857__0f14653f3a4ec7cfb9db0da62deba05b.jpg",
+      "summary_en": "Nearly 200 people are under observation after a lab worker in Irkutsk died from plague, prompting health authorities to trace exposures. The outbreak reaction illustrates the ongoing sensitivity of infectious disease surveillance near research facilities.",
+      "summary_zh": "伊尔库茨克一名实验室工人疑似死于鼠疫引发关注，近200人进入观察和暴露监测，触发公共卫生响应。",
+      "hn": {
+        "id": 49960084,
+        "type": "story",
+        "by": "ericmay",
+        "score": 303,
+        "descendants": 323,
+        "time": 1791167505,
+        "comments_url": "https://news.ycombinator.com/item?id=49960084"
+      },
+      "hot_score": 0.37,
+      "tags": [
+        "Health",
+        "Privacy"
+      ]
+    },
+    {
+      "title_en": "The Future of Mathematics",
+      "url": "https://terrytao.wordpress.com/2026/10/05/the-future-of-mathematics/",
+      "title_zh": "数学的未来",
+      "created_display": "Created: Oct 05, 2026 / 12:22 PT",
+      "image_url": "https://secure.gravatar.com/blavatar/bd4bda4207561b6998f10dec44b570f04ff4072b20f89162d525b186dfca3e49?s=200&ts=1791235359",
+      "summary_en": "Terry Tao outlines future directions for mathematics, including computation-assisted proofs, data-driven conjectures, and deeper collaboration between theory and computation.",
+      "summary_zh": "Terry Tao 展望数学未来，强调借助计算辅助证明、数据驱动的猜想，以及理论与计算的深度协作。",
+      "hn": {
+        "id": 49969256,
+        "type": "story",
+        "by": "smilelamp",
+        "score": 121,
+        "descendants": 79,
+        "time": 1791228160,
+        "comments_url": "https://news.ycombinator.com/item?id=49969256"
+      },
+      "tags": [
+        "Science"
+      ],
+      "hot_score": 0.37
+    },
+    {
+      "title_en": "Powerless F1 drivers frustrated by Bahrain F1 software glitch",
+      "url": "https://www.motorsport.com/f1/news/horrible-totally-unacceptable-powerless-f1-drivers-frustrated-by-bahrain-f1-software-glitch/10861968/",
+      "title_zh": "巴林 F1 的软件故障让车手无力",
+      "created_display": "Created: Oct 04, 2026 / 18:54 PT",
+      "image_url": "https://cdn-8.motorsport.com/images/amp/68Vw9aB2/s6/max-verstappen-red-bull-racing.jpg",
+      "summary_en": "A software glitch in Bahrain F1 left drivers feeling powerless as systems failed; engineers are frustrated by the reliability issues of race-day software.",
+      "summary_zh": "巴林 F1 比赛出现软件故障，导致车手在比赛中感到无力，车队要求提升竞赛科技的可靠性。",
+      "hn": {
+        "id": 49959869,
+        "type": "story",
+        "by": "llm_nerd",
+        "score": 288,
+        "descendants": 249,
+        "time": 1791165248,
+        "comments_url": "https://news.ycombinator.com/item?id=49959869"
+      },
+      "hot_score": 0.34,
+      "tags": [
+        "Programming"
+      ]
+    },
+    {
+      "title_en": "The future of independence is interdependence",
+      "url": "https://onlys.ky/independence-is-interdependence/",
+      "title_zh": "独立的未来在于互依与互助",
+      "created_display": "Created: Oct 05, 2026 / 08:30 PT",
+      "image_url": "https://storage.ghost.io/c/fa/20/fa2069bf-dcc2-4609-a3ef-598d2e50517d/content/images/2026/08/joan-m-JYfLlOKRMaE-unsplash.jpg",
+      "summary_en": "The future of independence is interdependence, arguing that sustainable autonomy in tech relies on collaboration, shared standards, and networks.",
+      "summary_zh": "独立的未来在于互相依赖，科技生态的进步需要协作、标准和共享基础设施。",
+      "hn": {
+        "id": 49966163,
+        "type": "story",
+        "by": "eustoria",
+        "score": 141,
+        "descendants": 109,
+        "time": 1791214208,
+        "comments_url": "https://news.ycombinator.com/item?id=49966163"
+      },
+      "hot_score": 0.33,
+      "tags": [
+        "Politics"
+      ]
+    },
+    {
+      "title_en": "Qualcomm licenses patents on Huawei’s LogicFolding chip tech",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-05/qualcomm-licenses-patents-on-huawei-s-logicfolding-chip-tech",
+      "title_zh": "高通就华为 LogicFolding 芯片技术授权专利",
+      "created_display": "Created: Oct 05, 2026 / 00:46 PT",
+      "image_url": null,
+      "summary_en": "Qualcomm signs a patent licensing deal related to Huawei’s LogicFolding chip technology, reflecting ongoing cross-licensing amid geopolitical tech competition.",
+      "summary_zh": "高通就华为 LogicFolding 芯片技术相关专利完成许可安排，体现全球科技竞争背景下的跨公司许可策略。",
+      "hn": {
+        "id": 49961861,
+        "type": "story",
+        "by": "0xedb",
+        "score": 202,
+        "descendants": 127,
+        "time": 1791186370,
+        "comments_url": "https://news.ycombinator.com/item?id=49961861"
+      },
+      "tags": [
+        "Business",
+        "Hardware",
+        "Legal"
+      ],
+      "hot_score": 0.31
+    },
+    {
+      "title_en": "Linux containers in 500 lines of code (2016)",
+      "url": "https://blog.lizzie.io/linux-containers-in-500-loc.html",
+      "title_zh": "用 500 行代码实现 Linux 容器（2016）",
+      "created_display": "Created: Oct 05, 2026 / 07:09 PT",
+      "image_url": null,
+      "summary_en": "A concise 2016 piece demonstrates Linux containers in about 500 lines of code, highlighting core ideas like namespaces and cgroups and offering a grassroots view of container tech.",
+      "summary_zh": "一篇 2016 年的简短文章用约 500 行代码展示了 Linux 容器的核心原理，强调命名空间与资源控制的要点，提供了对容器技术的朴素理解。",
+      "hn": {
+        "id": 49965118,
+        "type": "story",
+        "by": "mkornaukhov",
+        "score": 136,
+        "descendants": 37,
+        "time": 1791209355,
+        "comments_url": "https://news.ycombinator.com/item?id=49965118"
+      },
+      "tags": [
+        "Programming"
+      ],
+      "hot_score": 0.3
+    },
+    {
+      "title_en": "Picard 3.0",
+      "url": "https://blog.metabrainz.org/2026/10/04/picard-3-0-released/",
+      "title_zh": "Picard 3.0 发布",
+      "created_display": "Created: Oct 05, 2026 / 07:03 PT",
+      "image_url": "https://blog.metabrainz.org/wp-content/uploads/2018/11/cropped-twitter-banner-1500x500-1.jpg",
+      "summary_en": "Picard 3.0 released, delivering updates to the MusicBrainz tagger with improved metadata handling and performance.",
+      "summary_zh": "Picard 3.0 发布，带来对 MusicBrainz 标签管理的改进、元数据处理和性能增强。",
+      "hn": {
+        "id": 49965047,
+        "type": "story",
+        "by": "Tomte",
+        "score": 136,
+        "descendants": 47,
+        "time": 1791208981,
+        "comments_url": "https://news.ycombinator.com/item?id=49965047"
+      },
+      "hot_score": 0.29,
+      "tags": [
+        "Open Source"
+      ]
+    },
+    {
+      "title_en": "\"I'm Embarrassed on Behalf of the Tech Industry\"",
+      "url": "https://blog.jim-nielsen.com/2026/embarrassed-by-tech/",
+      "title_zh": "我代表科技行业感到尴尬",
+      "created_display": "Created: Oct 05, 2026 / 07:39 PT",
+      "image_url": "https://cdn.jim-nielsen.com/blog/2026/embarassed.png",
+      "summary_en": "Jim Nielsen says he is embarrassed on behalf of the tech industry, urging accountability and better practices in the wake of recent missteps.",
+      "summary_zh": "吉姆·尼尔森就科技行业的现状表达尴尬与失望，呼吁对行业行为更加自省与负责任。",
+      "hn": {
+        "id": 49965497,
+        "type": "story",
+        "by": "Brajeshwar",
+        "score": 117,
+        "descendants": 126,
+        "time": 1791211175,
+        "comments_url": "https://news.ycombinator.com/item?id=49965497"
+      },
+      "hot_score": 0.26,
+      "tags": [
+        "Culture"
+      ]
+    },
+    {
+      "title_en": "In the wake of Tippett Studios’ closure, a digital archive appears online",
+      "url": "https://filmstories.co.uk/news/tippett-studios-in-the-wake-of-its-closure-a-digital-archive-of-animated-materials-appears-online/",
+      "title_zh": "Tippett Studios 关闭后数字档案在网上出现",
+      "created_display": "Created: Oct 04, 2026 / 14:01 PT",
+      "image_url": "https://spaces.filmstories.co.uk/uploads/2019/10/phil-tippett.jpg",
+      "summary_en": "After Tippett Studios' closure, a digital archive of its animated materials appears online, preserving a portion of the studio's legacy.",
+      "summary_zh": "Tippett Studios 关闭后，其数字档案意外在网上出现，保留了其动画材料以供粉丝和研究者访问。",
+      "hn": {
+        "id": 49957812,
+        "type": "story",
+        "by": "rdmuser",
+        "score": 247,
+        "descendants": 33,
+        "time": 1791147688,
+        "comments_url": "https://news.ycombinator.com/item?id=49957812"
+      },
+      "hot_score": 0.24,
+      "tags": [
+        "Culture"
+      ]
+    },
+    {
+      "title_en": "2026 Nobel Prize in Physiology or Medicine: Deisseroth, Hegemann, Nagel",
+      "url": "https://www.nobelprize.org/prizes/medicine/2026/summary/",
+      "title_zh": "2026 年诺贝尔生理学或医学奖：德塞洛斯特、赫格曼、纳格尔",
+      "created_display": "Created: Oct 05, 2026 / 02:33 PT",
+      "image_url": "https://www.nobelprize.org/uploads/2026/10/NP_POM_2026_3-2_01-1024x683.jpg",
+      "summary_en": "The 2026 Nobel Prize in Physiology or Medicine honors breakthroughs in optogenetics and neural circuit control, highlighting how light-based techniques enable precise modulation of brain activity and potential therapies.",
+      "summary_zh": "2026 年诺贝尔生理学或医学奖表彰在光遗传学与神经回路控制方面的突破，强调光基技术在精确调控脑活动与潜在治疗中的作用。",
+      "hn": {
+        "id": 49962572,
+        "type": "story",
+        "by": "lode",
+        "score": 144,
+        "descendants": 48,
+        "time": 1791192793,
+        "comments_url": "https://news.ycombinator.com/item?id=49962572"
+      },
+      "tags": [
+        "Science"
+      ],
+      "hot_score": 0.24
+    },
+    {
+      "title_en": "Nobel Prize in Physiology or Medicine 2026",
+      "url": "https://www.nobelprize.org/prizes/medicine/2026/press-release/",
+      "title_zh": "2026 年诺贝尔生理学或医学奖公布",
+      "created_display": "Created: Oct 05, 2026 / 03:35 PT",
+      "image_url": "https://www.nobelprize.org/uploads/2026/10/NP_POM_2026_3-2_01-1024x683.jpg",
+      "summary_en": "Nobel Prize in Physiology or Medicine 2026 announced, highlighting the laureates and their breakthrough contributions.",
+      "summary_zh": "2026 年诺贝尔生理学或医学奖公布，聚焦获奖者及其突破性贡献。",
+      "hn": {
+        "id": 49963094,
+        "type": "story",
+        "by": "Anon84",
+        "score": 135,
+        "descendants": 1,
+        "time": 1791196559,
+        "comments_url": "https://news.ycombinator.com/item?id=49963094"
+      },
+      "hot_score": 0.24,
+      "tags": [
+        "Science"
+      ]
+    },
+    {
+      "title_en": "The technology to eradicate mosquito-borne disease exists",
+      "url": "https://worksinprogress.co/issue/mosquitoes-are-a-choice/",
+      "title_zh": "消灭蚊媒疾病的技术已经存在",
+      "created_display": "Created: Oct 04, 2026 / 11:06 PT",
+      "image_url": "https://worksinprogress.co/wip-image/uploads/2026/09/Mosquito_Sharecard_V2-1.jpg",
+      "summary_en": "The piece argues that proven tools—such as Wolbachia-infected mosquitoes, gene drives, and sterile insect techniques—could dramatically reduce mosquito-borne diseases, with governance considerations.",
+      "summary_zh": "文章认为通过 Wolbachia 等技术、基因驱动和昆虫性诱惑等手段，完全消灭蚊媒疾病是可实现的，但需要妥善治理与公众参与。",
+      "hn": {
+        "id": 49956290,
+        "type": "story",
+        "by": "benbreen",
+        "score": 270,
+        "descendants": 225,
+        "time": 1791137164,
+        "comments_url": "https://news.ycombinator.com/item?id=49956290"
+      },
+      "tags": [
+        "Science",
+        "Health"
+      ],
+      "hot_score": 0.23
+    },
+    {
+      "title_en": "Self-hosted HTTP tunnels with SSH and Nginx",
+      "url": "https://vincent.bernat.ch/en/blog/2026-http-over-ssh",
+      "title_zh": "用 SSH 与 Nginx 自托管的 HTTP 隧道",
+      "created_display": "Created: Oct 04, 2026 / 15:25 PT",
+      "image_url": "https://d2pzklc15kok91.cloudfront.net/images/covers/en/blog/2026-http-over-ssh.922a043bebfeb0.jpg",
+      "summary_en": "A guide to self-hosted HTTP tunnels using SSH and Nginx; practical steps to expose internal services securely without relying on cloud proxies.",
+      "summary_zh": "介绍如何用 SSH 和 Nginx 搭建自托管的 HTTP 隧道，实用步骤帮助安全地将内网服务暴露出来。",
+      "hn": {
+        "id": 49958569,
+        "type": "story",
+        "by": "renehsz",
+        "score": 199,
+        "descendants": 44,
+        "time": 1791152710,
+        "comments_url": "https://news.ycombinator.com/item?id=49958569"
+      },
+      "hot_score": 0.2,
+      "tags": [
+        "DevOps"
+      ]
+    }
+  ]
+}

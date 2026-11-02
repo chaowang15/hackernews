@@ -1,0 +1,1155 @@
+{
+  "meta": {
+    "mode": "best",
+    "source": "https://news.ycombinator.com/",
+    "api": "https://github.com/HackerNews/API",
+    "count_requested": 50,
+    "count_written": 50,
+    "reused_same_day": 0,
+    "reused_cross_day": 19,
+    "new_llm_enriched": 11,
+    "scrape_time_display": "06:22, July 18, 2026 (PDT)",
+    "timezone": "America/Los_Angeles",
+    "date_dir": "2026/07/17",
+    "content_date": "2026-07-17",
+    "run_time_local": "06:22, July 18, 2026 (PDT)",
+    "run_time_utc": "2026-07-18 13:22:40 UTC",
+    "incremental": true,
+    "stories_max": 50,
+    "hot_score_time_utc": "2026-07-18 13:23:35 UTC"
+  },
+  "items": [
+    {
+      "title_en": "Why do AI company logos look like buttholes? (2025)",
+      "url": "https://velvetshark.com/ai-company-logos-that-look-like-buttholes",
+      "title_zh": "AI公司标志为何看起来像肛门？（2025）",
+      "created_display": "Created: Jul 18, 2026 / 04:06 PT",
+      "image_url": "https://velvetshark.com/images/ai-company-logos-that-look-like-buttholes/why-do-AI-company-logos-look-like-buttholes.png",
+      "summary_en": "AI company logos are trending toward circular motifs and negative space that resemble a certain anatomical shape. It highlights the tension between simple design and cultural signaling in AI branding.",
+      "summary_zh": "AI公司标志日渐采用圆形和空白区来营造简约风格，却意外产生具争议性的联想。文章探讨这种极简设计如何影响品牌记忆点与形象认知，以及在AI品牌中需要权衡的文化信号。",
+      "hn": {
+        "id": 48956924,
+        "type": "story",
+        "by": "miniBill",
+        "score": 282,
+        "descendants": 86,
+        "time": 1784372810,
+        "comments_url": "https://news.ycombinator.com/item?id=48956924"
+      },
+      "hot_score": 20.52,
+      "tags": [
+        "AI",
+        "Design"
+      ]
+    },
+    {
+      "title_en": "LG monitors silently install software through Windows Update without consent",
+      "url": "https://videocardz.com/newz/lg-monitors-silently-install-software-through-windows-update-without-user-consent",
+      "title_zh": "LG显示器通过Windows更新在未征得同意的情况下悄悄安装软件",
+      "created_display": "Created: Jul 18, 2026 / 03:21 PT",
+      "image_url": "https://cdn.videocardz.com/1/2026/07/LG-MONITORS-MCAFFE.jpg",
+      "summary_en": "LG monitors were found to silently install companion software through Windows Update without explicit user consent. The bundled software can run in the background and may raise privacy and security concerns, creating a potential for bloat. Readers should review update offers, remove unwanted components, and consider blocking vendor software when possible.",
+      "summary_zh": "研究发现，LG显示器通过Windows Update在未明确同意的情况下安装附带软件。该软件可能后台运行，带来隐私与安全风险，并可能造成系统臃肿。读者应在更新时谨慎勾选、移除不需要的组件，并在可行时阻止厂商软件推送。",
+      "hn": {
+        "id": 48956688,
+        "type": "story",
+        "by": "baranul",
+        "score": 322,
+        "descendants": 165,
+        "time": 1784370079,
+        "comments_url": "https://news.ycombinator.com/item?id=48956688"
+      },
+      "hot_score": 17.48,
+      "tags": [
+        "Security",
+        "Privacy"
+      ]
+    },
+    {
+      "title_en": "Regressive JPEGs",
+      "url": "https://maurycyz.com/projects/bad_jpeg/",
+      "title_zh": "回归式 JPEG 图像",
+      "created_display": "Created: Jul 17, 2026 / 20:14 PT",
+      "image_url": "https://maurycyz.com/projects/bad_jpeg/cats.jpg",
+      "summary_en": "A provocative look at JPEG compression artifacts and how regressive techniques alter image quality.",
+      "summary_zh": "这篇文章探讨 JPEG 压缩中的伪影，以及回归式方法如何改变或揭示这种压缩行为。",
+      "hn": {
+        "id": 48954851,
+        "type": "story",
+        "by": "vitaut",
+        "score": 461,
+        "descendants": 45,
+        "time": 1784344460,
+        "comments_url": "https://news.ycombinator.com/item?id=48954851"
+      },
+      "tags": [
+        "Science"
+      ],
+      "hot_score": 5.13
+    },
+    {
+      "title_en": "Kaiser nurses say AI, surveillance are making their jobs and patient care worse",
+      "url": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/",
+      "title_zh": "凯撒医疗系统护士称 AI 与监控让工作和病人护理变得更糟",
+      "created_display": "Created: Jul 17, 2026 / 15:26 PT",
+      "image_url": "https://i0.wp.com/localnewsmatters.org/wp-content/uploads/2026/07/LNM-20260713-MATTERSKAISER-01.jpg?fit=2000%2C1333&ssl=1",
+      "summary_en": "Frontline nurses report that AI decision-support and surveillance systems add administrative burden and impair patient interaction, potentially harming care quality. The piece underscores calls for better governance, transparency, and careful deployment of automation in healthcare.",
+      "summary_zh": "一线护士表示人工智能决策支持和工作场所监控增加了工作负担，影响与病人互动，可能损及护理质量。文章强调需要更好的治理、透明度，以及在医疗领域更谨慎地部署自动化。",
+      "hn": {
+        "id": 48952880,
+        "type": "story",
+        "by": "gnabgib",
+        "score": 524,
+        "descendants": 348,
+        "time": 1784327190,
+        "comments_url": "https://news.ycombinator.com/item?id=48952880"
+      },
+      "tags": [
+        "Health",
+        "AI",
+        "Privacy"
+      ],
+      "hot_score": 3.21
+    },
+    {
+      "title_en": "AWS: Inaccurate Estimated Billing Data – $1.7 billion",
+      "url": "https://news.ycombinator.com/item?id=48945241",
+      "title_zh": "AWS：估算账单数据不准确，涉额17亿美元",
+      "created_display": "Created: Jul 17, 2026 / 02:42 PT",
+      "image_url": "https://news.ycombinator.com/y18.svg",
+      "summary_en": "Amazon Web Services disclosed inaccuracies in its estimated billing data, leading to charges totaling about $1.7B across customers. The incident highlights how cloud-cost visibility can fail at scale and underscores the need for robust auditing, refund mechanisms, and better tooling for cost governance in large cloud environments.",
+      "summary_zh": "云成本监控在大规模云环境中暴露出不足，估算账单数据存在不准确之处，涉案金额约17亿美元。此事凸显需要更强的成本可视化、审计与退款流程，并推动改进的成本管理工具与治理方法。",
+      "hn": {
+        "id": 48945241,
+        "type": "story",
+        "by": "nprateem",
+        "score": 1223,
+        "descendants": 716,
+        "time": 1784281325,
+        "comments_url": "https://news.ycombinator.com/item?id=48945241"
+      },
+      "tags": [
+        "Finance",
+        "Business"
+      ],
+      "hot_score": 2.73
+    },
+    {
+      "title_en": "Thanks HN for 15 years of support and helping me find my life's work",
+      "url": "https://news.ycombinator.com/item?id=48949551",
+      "title_zh": "感谢 HN 15 年的支持，帮助我找到毕生事业",
+      "created_display": "Created: Jul 17, 2026 / 09:57 PT",
+      "image_url": "https://news.ycombinator.com/y18.svg",
+      "summary_en": "A personal reflection on how Hacker News shaped the writer’s career and life’s work. The post credits the community’s thoughtful feedback and diverse perspectives for guiding important decisions and helping uncover a vocation.",
+      "summary_zh": "这是一篇关于 Hacker News 如何影响作者职业与人生方向的个人反思。作者感谢社区的深思熟虑评论与多元观点，帮助自己找到真正热爱的事业并做出关键决定。",
+      "hn": {
+        "id": 48949551,
+        "type": "story",
+        "by": "nicholasjbs",
+        "score": 677,
+        "descendants": 79,
+        "time": 1784307447,
+        "comments_url": "https://news.ycombinator.com/item?id=48949551"
+      },
+      "tags": [
+        "Culture",
+        "Career"
+      ],
+      "hot_score": 2.5
+    },
+    {
+      "title_en": "Kimi K3: Open Frontier Intelligence",
+      "url": "https://www.kimi.com/blog/kimi-k3",
+      "title_zh": "Kimi K3：开放前沿情报",
+      "created_display": "Created: Jul 16, 2026 / 07:46 PT",
+      "image_url": "https://kimi-file.moonshot.cn/prod-chat-kimi/kfs/4/2/2026-07-16/1d9ccb76dcmosb3rn6vk0?x-tos-process=image%2Fauto-orient%2C1%2Fstrip%2Fignore-error%2C1",
+      "summary_en": "Kimi unveils K3 as an Open Frontier Intelligence platform, outlining its architecture and potential use cases in open data exploration. It emphasizes agent-driven workflows and scalable data access, signaling a push toward more transparent, configurable intelligence tooling.",
+      "summary_zh": "Kimi 发表 K3，作为一个开放前沿情报平台，概述了其架构与在开放数据探索中的潜在应用场景。强调代理驱动的工作流与可扩展的数据访问，预示向更透明、可配置的情报工具迈进。",
+      "hn": {
+        "id": 48935342,
+        "type": "story",
+        "by": "vincent_s",
+        "score": 2041,
+        "descendants": 1181,
+        "time": 1784213165,
+        "comments_url": "https://news.ycombinator.com/item?id=48935342"
+      },
+      "tags": [
+        "Data",
+        "Open Source"
+      ],
+      "hot_score": 1.88
+    },
+    {
+      "title_en": "First atmosphere found on Earth-like planet in habitable zone of distant star",
+      "url": "https://www.bbc.com/news/articles/cy4kdd1e0ejo",
+      "title_zh": "在遥远恒星的宜居带首次发现地球样行星的大气",
+      "created_display": "Created: Jul 17, 2026 / 07:06 PT",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/2cd8/live/f3f60290-81d1-11f1-926f-c90d1bcfbc84.jpg",
+      "summary_en": "Astronomers detected atmospheric signals on an Earth-like planet in a distant star’s habitable zone, marking a milestone in characterizing rocky worlds beyond our solar system. The finding invigorates plans for future telescopes to search for biosignatures and assess habitability on exoplanets.",
+      "summary_zh": "天文学家在遥远恒星的宜居带内探测到地球样行星的大气信号，标志着对系外岩石行星表征的重大进展。此发现将推动未来望远镜在星际尺度上寻找生物征兆并评估宜居性。",
+      "hn": {
+        "id": 48947560,
+        "type": "story",
+        "by": "neversaydie",
+        "score": 476,
+        "descendants": 280,
+        "time": 1784297173,
+        "comments_url": "https://news.ycombinator.com/item?id=48947560"
+      },
+      "tags": [
+        "Space",
+        "Science",
+        "Energy"
+      ],
+      "hot_score": 1.42
+    },
+    {
+      "title_en": "The state of open source AI",
+      "url": "https://stateofopensource.ai/",
+      "title_zh": "Mozilla：开源 AI 的现状",
+      "created_display": "Created: Jul 17, 2026 / 07:31 PT",
+      "image_url": "https://stateofopensource.ai/assets/img/moz-logo.png",
+      "summary_en": "Open-source AI platforms are maturing, with new models, licensing debates, and governance challenges shaping the ecosystem. The piece benchmarks how open tooling stacks up against proprietary options and why safety, transparency, and community norms matter for long-term viability.",
+      "summary_zh": "开源 AI 正在走向成熟，新的模型、许可与治理挑战共同塑造生态。相较于商业垄断，开放工具链在安全性、透明度和社区规范方面的表现将决定其长期可用性与影响力。",
+      "hn": {
+        "id": 48947825,
+        "type": "story",
+        "by": "rellem",
+        "score": 460,
+        "descendants": 336,
+        "time": 1784298670,
+        "comments_url": "https://news.ycombinator.com/item?id=48947825"
+      },
+      "tags": [
+        "Open Source",
+        "AI"
+      ],
+      "hot_score": 1.41
+    },
+    {
+      "title_en": "Evidence of inconsistencies in evaluation process and selection of winners",
+      "url": "https://www.kaggle.com/competitions/kaggle-measuring-agi/discussion/724918#3498423",
+      "title_zh": "评估过程与获胜者选择中的不一致证据",
+      "created_display": "Created: Jul 17, 2026 / 04:30 PT",
+      "image_url": "https://www.kaggle.com/open-graph/images/Competitions/128852",
+      "summary_en": "Discrepancies in evaluation and winner selection in a competition raise questions about scoring integrity and reproducibility. The discussion underscores the need for transparent benchmarks, audit trails, and robust review processes.",
+      "summary_zh": "评估与获胜者选取过程中的不一致引发对评分公正性和可复现性的质疑。讨论强调需要透明的基准、可审计轨迹，以及健全的评审流程。",
+      "hn": {
+        "id": 48946010,
+        "type": "story",
+        "by": "twerkmeister",
+        "score": 461,
+        "descendants": 292,
+        "time": 1784287800,
+        "comments_url": "https://news.ycombinator.com/item?id=48946010"
+      },
+      "tags": [
+        "Science"
+      ],
+      "hot_score": 1.15
+    },
+    {
+      "title_en": "Texas wins court order to suspend domain name for violating age-verification law",
+      "url": "https://www.texasattorneygeneral.gov/news/releases/attorney-general-ken-paxton-secures-landmark-legal-victory-lock-pornographic-website-domain-and",
+      "title_zh": "德州法院裁定暂停因年龄验证法违规的域名",
+      "created_display": "Created: Jul 17, 2026 / 15:35 PT",
+      "image_url": "https://www.texasattorneygeneral.gov/sites/default/files/images/admin/images/2019/PR-Twitter-Card.png",
+      "summary_en": "Texas won a court order to suspend a domain for violating age-verification requirements for adult content, signaling aggressive enforcement of online identity policies. The ruling highlights the tension between access and compliance online.",
+      "summary_zh": "德州法院裁定暂停因违反年龄验证法而相关的域名，显示对在线身份政策的强力执法。此裁决凸显了网络访问与合规之间的紧张关系。",
+      "hn": {
+        "id": 48952939,
+        "type": "story",
+        "by": "letmevoteplease",
+        "score": 185,
+        "descendants": 253,
+        "time": 1784327755,
+        "comments_url": "https://news.ycombinator.com/item?id=48952939"
+      },
+      "tags": [
+        "Politics",
+        "Legal"
+      ],
+      "hot_score": 1.15
+    },
+    {
+      "title_en": "The Zilog Z80 has turned 50",
+      "url": "https://goliath32.com/blog/z80.html",
+      "title_zh": "Zilog Z80 已迎来50周年",
+      "created_display": "Created: Jul 17, 2026 / 12:41 PT",
+      "image_url": "https://goliath32.com/img/return.gif",
+      "summary_en": "Fifty years after its debut, the Z80 remains a touchstone in retro computing and embedded design. Its 8-bit architecture powered countless machines—from home computers to early game consoles—and its era-defining instruction set continues to influence hobbyist projects today. The milestone highlights the longevity and enduring influence of a well-crafted CPU design.",
+      "summary_zh": "自首次亮相50年前，Z80 已成为复古计算和嵌入式设计的重要基石。它的8位架构支撑了大量家用电脑和早期游戏主机，如今仍在爱好者项目中产生影响。这个纪念日凸显了一个精心设计的CPU在软硬件生态中的长期生命力。",
+      "hn": {
+        "id": 48951461,
+        "type": "story",
+        "by": "st_goliath",
+        "score": 242,
+        "descendants": 97,
+        "time": 1784317262,
+        "comments_url": "https://news.ycombinator.com/item?id=48951461"
+      },
+      "tags": [
+        "Hardware"
+      ],
+      "hot_score": 1.13
+    },
+    {
+      "title_en": "Kimi K3, and what we can still learn from the pelican benchmark",
+      "url": "https://simonwillison.net/2026/Jul/16/kimi-k3/",
+      "title_zh": "Kimi K3 与 Pelican 基准测试中的可学到的教训",
+      "created_display": "Created: Jul 17, 2026 / 07:21 PT",
+      "image_url": "https://static.simonwillison.net/static/2026/kimi-3-pelican.jpg",
+      "summary_en": "Revisits Kimi K3 alongside the Pelican benchmark to draw practical lessons about benchmarking practice. It emphasizes reproducibility, transparent metrics, and which signals actually matter to real-world performance.",
+      "summary_zh": "重新审视 Kimi K3 与 Pelican 基准测试，提炼出对基准实践的实用见解。强调可重复性、指标透明度，以及对实际性能有用的关键信号。",
+      "hn": {
+        "id": 48947717,
+        "type": "story",
+        "by": "droidjj",
+        "score": 363,
+        "descendants": 192,
+        "time": 1784298111,
+        "comments_url": "https://news.ycombinator.com/item?id=48947717"
+      },
+      "tags": [
+        "Programming"
+      ],
+      "hot_score": 1.1
+    },
+    {
+      "title_en": "Learning a few things about running SQLite",
+      "url": "https://jvns.ca/blog/2026/07/17/learning-about-running-sqlite/",
+      "title_zh": "学习关于运行 SQLite 的一些事情",
+      "created_display": "Created: Jul 17, 2026 / 10:45 PT",
+      "image_url": null,
+      "summary_en": "Offers practical insights into how SQLite operates in practice, from understanding transactions and locking to performance considerations and tooling. The post distills lessons useful for developers embedding SQLite in apps or building data-driven services.",
+      "summary_zh": "分享关于 SQLite 在实际场景中的工作原理与实用要点，涵盖事务、锁、性能以及工具链等方面。整理出对在应用中嵌入 SQLite 或构建数据驱动服务的开发者有用的要点。",
+      "hn": {
+        "id": 48950122,
+        "type": "story",
+        "by": "surprisetalk",
+        "score": 276,
+        "descendants": 75,
+        "time": 1784310341,
+        "comments_url": "https://news.ycombinator.com/item?id=48950122"
+      },
+      "tags": [
+        "Programming"
+      ],
+      "hot_score": 1.09
+    },
+    {
+      "title_en": "Apple targets dozens of OpenAI employees with legal letters",
+      "url": "https://www.ft.com/content/1b8c9d52-88a9-426b-ba47-f1811f859166",
+      "title_zh": "苹果致函多名 OpenAI 员工",
+      "created_display": "Created: Jul 17, 2026 / 05:02 PT",
+      "image_url": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fimages.ft.com%2Fv3%2Fimage%2Fraw%2Fhttps%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Feb588ccd-457b-4974-bfab-ca7ca8563612.jpg%3Fsource%3Dnext-barrier-page%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1?source=next-barrier-page",
+      "summary_en": "Apple sent legal letters to a number of OpenAI employees, touching IP and contractual concerns tied to AI tooling usage. The move signals intensified corporate scrutiny over AI research and the boundaries of innovation, IP, and employment.",
+      "summary_zh": "苹果就 AI 工具使用相关的知识产权与合约事宜，对多名 OpenAI 员工发出法律函。此举凸显企业对 AI 研究的更强监管，以及创新、知识产权与雇佣关系之间的边界。",
+      "hn": {
+        "id": 48946303,
+        "type": "story",
+        "by": "merksittich",
+        "score": 396,
+        "descendants": 352,
+        "time": 1784289759,
+        "comments_url": "https://news.ycombinator.com/item?id=48946303"
+      },
+      "tags": [
+        "Legal",
+        "Business",
+        "AI"
+      ],
+      "hot_score": 1.02
+    },
+    {
+      "title_en": "FAA lets Boeing sign off on 737 MAX, 787 airworthiness certificates again",
+      "url": "https://www.cnbc.com/2026/07/17/faa-boeing-737-max-787.html",
+      "title_zh": "FAA 再次允许波音就 737 MAX 与 787 发放适航证书",
+      "created_display": "Created: Jul 17, 2026 / 14:22 PT",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108250215-1767906239901-gettyimages-2249102626-BOEING_737_MAX.jpeg?v=1768321273&w=1920&h=1080",
+      "summary_en": "Regulatory oversight has allowed Boeing to sign off on airworthiness certificates for the 737 MAX and 787 again, signaling a normalization after extensive safety reviews. The move underscores how certification processes can rebound after high-profile scrutiny.",
+      "summary_zh": "监管机构允许波音再次就 737 MAX 和 787 发放适航证书，标志着在广泛安全审查后的规范化过程重新开始。此举凸显了在高关注度调查后，认证流程有望回归常态。",
+      "hn": {
+        "id": 48952439,
+        "type": "story",
+        "by": "hmm37",
+        "score": 182,
+        "descendants": 109,
+        "time": 1784323373,
+        "comments_url": "https://news.ycombinator.com/item?id=48952439"
+      },
+      "tags": [
+        "Politics"
+      ],
+      "hot_score": 0.99
+    },
+    {
+      "title_en": "TP-Link Kasa cameras leaked home GPS via unauthenticated UDP for 6 years",
+      "url": "https://github.com/BadChemical/IoT-Vulnerability-Research-Public/blob/main/TP-Link_Kasa_EC71/Kasa_EC71.md",
+      "title_zh": "TP-Link Kasa 摄像头六年来通过未认证的 UDP 泄露家庭位置信息",
+      "created_display": "Created: Jul 17, 2026 / 14:42 PT",
+      "image_url": "https://opengraph.githubassets.com/b109ed0a1ab99434f27464484d7cbd39236dfe5e7e536c7abac1559e66d49512/BadChemical/IoT-Vulnerability-Research-Public",
+      "summary_en": "TP-Link Kasa EC71 cameras were exposed to a long‑standing vulnerability where unauthenticated UDP traffic could leak sensitive GPS data. The issue underscores risks in legacy IoT designs and the need for firmware updates and network isolation.",
+      "summary_zh": "TP-Link Kasa EC71 摄像头长期存在未认证的 UDP 漏洞，可能泄露家庭位置信息。此事凸显了旧式物联网设计的风险，以及对固件更新和网络隔离的迫切需要。",
+      "hn": {
+        "id": 48952565,
+        "type": "story",
+        "by": "BadChemical",
+        "score": 158,
+        "descendants": 58,
+        "time": 1784324563,
+        "comments_url": "https://news.ycombinator.com/item?id=48952565"
+      },
+      "tags": [
+        "Security",
+        "Privacy"
+      ],
+      "hot_score": 0.89
+    },
+    {
+      "title_en": "Microsoft Comic Chat is now open source",
+      "url": "https://opensource.microsoft.com/blog/2026/07/16/microsoft-comic-chat-is-now-open-source/",
+      "title_zh": "微软 Comic Chat 现已开源",
+      "created_display": "Created: Jul 16, 2026 / 09:06 PT",
+      "image_url": "https://opensource.microsoft.com/blog/wp-content/uploads/2026/07/Microsoft365-FY26-Consumer-C2-ArtStudio-2749-RGB-scaled.jpg",
+      "summary_en": "Microsoft released the classic Comic Chat client as open source, reviving a piece of 1990s online chat UI and protocol. The release provides a sandbox for experimentation with vintage software, preserving artifacts and teaching UX evolution.",
+      "summary_zh": "微软将经典的 Comic Chat 客户端开源，重现了 1990 年代的在线聊天界面和协议。此次发布为复古软件的实验、保存与研究提供了机会，也揭示了聊天用户体验的演变。",
+      "hn": {
+        "id": 48936426,
+        "type": "story",
+        "by": "jervant",
+        "score": 798,
+        "descendants": 173,
+        "time": 1784217987,
+        "comments_url": "https://news.ycombinator.com/item?id=48936426"
+      },
+      "tags": [
+        "Open Source"
+      ],
+      "hot_score": 0.77
+    },
+    {
+      "title_en": "Three ways people respond to a problem (other than solving it)",
+      "url": "https://improvesomething.today/responses-to-problems/",
+      "title_zh": "除了真正解决问题之外，人们对问题的三种应对方式",
+      "created_display": "Created: Jul 17, 2026 / 07:00 PT",
+      "image_url": "https://storage.ghost.io/c/0b/84/0b8469de-9291-421d-a2ea-8f6dac76e930/content/images/size/w1200/2026/05/IMG_0482.jpeg",
+      "summary_en": "Three common non-solution responses to problems—avoidance, blame, and workaround-focused procrastination—which can derail teams. The piece offers perspectives on recognizing these patterns and steering efforts toward proactive problem-solving.",
+      "summary_zh": "三种对待问题但并非解决本身的常见行为：回避、指责与应急式拖延，可能拖累团队进度。文中点出识别这些模式的重要性，并提出将注意力引导回到积极解决问题的路径。",
+      "hn": {
+        "id": 48947490,
+        "type": "story",
+        "by": "surprisetalk",
+        "score": 259,
+        "descendants": 150,
+        "time": 1784296804,
+        "comments_url": "https://news.ycombinator.com/item?id=48947490"
+      },
+      "tags": [
+        "Culture"
+      ],
+      "hot_score": 0.76
+    },
+    {
+      "title_en": "Static search trees: 40x faster than binary search (2024)",
+      "url": "https://curiouscoding.nl/posts/static-search-tree/",
+      "title_zh": "静态搜索树：2024 年比二分查找快 40 倍",
+      "created_display": "Created: Jul 17, 2026 / 13:24 PT",
+      "image_url": "https://curiouscoding.nl/ox-hugo/1-binary-search.svg",
+      "summary_en": "Static search trees claim up to 40x speedups over binary search for certain workloads by precomputing query structures. The approach could reshape performance-critical code paths in compilers, databases, and real-time systems.",
+      "summary_zh": "静态搜索树声称在某些工作负载下比二分查找快多达 40 倍，通过预计算查询结构实现。此方法可能改变编译器、数据库和实时系统中的关键性能路径。",
+      "hn": {
+        "id": 48951898,
+        "type": "story",
+        "by": "lalitmaganti",
+        "score": 149,
+        "descendants": 10,
+        "time": 1784319895,
+        "comments_url": "https://news.ycombinator.com/item?id=48951898"
+      },
+      "tags": [
+        "Programming"
+      ],
+      "hot_score": 0.74
+    },
+    {
+      "title_en": "Open Book Touch: open-source e-reader",
+      "url": "https://www.crowdsupply.com/oddly-specific-objects/open-book-touch",
+      "title_zh": "Open Book Touch：开源电子书阅读器",
+      "created_display": "Created: Jul 17, 2026 / 13:47 PT",
+      "image_url": "https://www.crowdsupply.com/img/7a19/ea41febb-029e-492e-bb3b-5953813c7a19_open-graph.jpg",
+      "summary_en": "Open Book Touch is an open-source e-reader funded by crowdsourcing, aiming to provide a customizable, privacy-respecting alternative to proprietary devices. It emphasizes openness in hardware, software, and content.",
+      "summary_zh": "Open Book Touch 是一个通过众筹资助的开源电子书阅读器，旨在提供可定制、注重隐私的替代方案。强调硬件、软件与内容的开放性。",
+      "hn": {
+        "id": 48952135,
+        "type": "story",
+        "by": "surprisetalk",
+        "score": 140,
+        "descendants": 44,
+        "time": 1784321277,
+        "comments_url": "https://news.ycombinator.com/item?id=48952135"
+      },
+      "tags": [
+        "Open Source",
+        "Hardware",
+        "Privacy"
+      ],
+      "hot_score": 0.72
+    },
+    {
+      "title_en": "Decoy Font",
+      "url": "https://www.mixfont.com/experiments/decoy-font",
+      "title_zh": "Decoy 字体",
+      "created_display": "Created: Jul 16, 2026 / 09:18 PT",
+      "image_url": "https://static.mixfont.com/assets/20260715-083635-decoy-font-og-ctfx685m.webp",
+      "summary_en": "Decoy Font is an experimental typeface designed to confuse automated readers and OCR systems by mapping glyphs in unusual ways. It highlights typography’s impact on AI text detectors and reveals current recognition limits.",
+      "summary_zh": "Decoy 字体是一种实验性字体，通过以异常的方式映射字形来混淆自动识别系统与 OCR。它揭示排版对 AI 文本检测的影响与当前识别能力的边界。",
+      "hn": {
+        "id": 48936584,
+        "type": "story",
+        "by": "ray__",
+        "score": 705,
+        "descendants": 157,
+        "time": 1784218701,
+        "comments_url": "https://news.ycombinator.com/item?id=48936584"
+      },
+      "tags": [
+        "Design",
+        "AI"
+      ],
+      "hot_score": 0.69
+    },
+    {
+      "title_en": "Lego building instructions through time",
+      "url": "https://www.lego.com/en-us/history/articles/d-lego-building-instructions-through-time",
+      "title_zh": "乐高搭建指令的历史演变",
+      "created_display": "Created: Jul 17, 2026 / 11:21 PT",
+      "image_url": null,
+      "summary_en": "Lego building instructions have evolved from paper manuals to digital formats, influencing how builders learn and construct. The evolution reflects broader shifts in accessibility, standards, and user experience.",
+      "summary_zh": "乐高搭建指令从纸质手册演变到数字化形式，影响了玩家的学习与搭建方式。此次演变反映了可访问性、标准化和用户体验的更广泛变革。",
+      "hn": {
+        "id": 48950518,
+        "type": "story",
+        "by": "NaOH",
+        "score": 144,
+        "descendants": 37,
+        "time": 1784312474,
+        "comments_url": "https://news.ycombinator.com/item?id=48950518"
+      },
+      "tags": [
+        "Design"
+      ],
+      "hot_score": 0.59
+    },
+    {
+      "title_en": "A Road to Lisp: Which Lisp",
+      "url": "https://scotto.me/blog/2026-07-17-which-lisp/",
+      "title_zh": "走向 Lisp 的路：到底选哪一种 Lisp？",
+      "created_display": "Created: Jul 17, 2026 / 06:56 PT",
+      "image_url": "https://scotto.me/og/2026-07-17-which-lisp.png",
+      "summary_en": "A Road to Lisp surveys the Lisp family and tooling to help readers decide which dialect fits their goals. It weighs factors like macro systems, ecosystems, syntax, and interoperability. The piece clarifies Lisp choices beyond the familiar Common Lisp and Scheme paths.",
+      "summary_zh": "本文梳理 Lisp 家族及工具链，帮助读者根据目标选择合适的方言。比较宏系统、生态、语法与互操作性等要点，超越对 Common Lisp 或 Scheme 的常规认知，给出选型指引。",
+      "hn": {
+        "id": 48947455,
+        "type": "story",
+        "by": "silcoon",
+        "score": 191,
+        "descendants": 150,
+        "time": 1784296564,
+        "comments_url": "https://news.ycombinator.com/item?id=48947455"
+      },
+      "hot_score": 0.56,
+      "tags": [
+        "Programming"
+      ]
+    },
+    {
+      "title_en": "Short sellers notch $8.7B profit as SpaceX shares dip to IPO price",
+      "url": "https://www.reuters.com/business/media-telecom/short-sellers-rack-up-87-bln-profit-spacex-slips-below-ipo-price-ortex-2026-07-16/",
+      "title_zh": "做空者在 SpaceX 股价跌回 IPO 价位时赚取 87 亿美元",
+      "created_display": "Created: Jul 17, 2026 / 08:17 PT",
+      "image_url": null,
+      "summary_en": "Short sellers posted about $8.7B in profits as SpaceX shares drifted back toward their IPO price. The move underscores how even high-growth tech names can see sharp pullbacks that reward bears, revealing investment dynamics around private-to-public transitions and valuation skepticism. It highlights market volatility and the limits of hype.",
+      "summary_zh": "做空者在 SpaceX 股价回落至 IPO 价位附近时实现约87亿美元利润，展现出高成长科技股也可能因估值回落而让做空方获利的市场特性，反映从私有到上市过程中的估值怀疑与投资者情绪波动。",
+      "hn": {
+        "id": 48948435,
+        "type": "story",
+        "by": "1vuio0pswjnm7",
+        "score": 160,
+        "descendants": 177,
+        "time": 1784301474,
+        "comments_url": "https://news.ycombinator.com/item?id=48948435"
+      },
+      "hot_score": 0.52,
+      "tags": [
+        "Finance",
+        "Business",
+        "Space"
+      ]
+    },
+    {
+      "title_en": "Frame – Linux X server in Assembly",
+      "url": "https://isene.org/2026/07/Frame.html",
+      "title_zh": "Frame：在汇编中实现的 Linux X 服务器",
+      "created_display": "Created: Jul 17, 2026 / 08:31 PT",
+      "image_url": "https://isene.org/assets/images/geirisene.png",
+      "summary_en": "Frame is an experiment building an X server for Linux entirely in assembly language, pushing the boundaries of low-level optimization. The project delves into performance considerations and the trade-offs of hand-written assembly in a modern GUI stack. It serves as a provocative exploration rather than a practical replacement for current servers.",
+      "summary_zh": "Frame 是一个在 Linux 上用汇编语言实现 X 服务器的实验，旨在探索底层优化的极限。该项目讨论了性能考量以及手写汇编在现代 GUI 架构中的权衡，更多是一种挑衅性探索而非现有服务器的实际替代方案。",
+      "hn": {
+        "id": 48948597,
+        "type": "story",
+        "by": "guybedo",
+        "score": 151,
+        "descendants": 101,
+        "time": 1784302282,
+        "comments_url": "https://news.ycombinator.com/item?id=48948597"
+      },
+      "hot_score": 0.5,
+      "tags": [
+        "Programming"
+      ]
+    },
+    {
+      "title_en": "Show HN: Watch bots interact with an SSH honeypot in real time",
+      "url": "https://honeypotlive.cc/",
+      "title_zh": "Show HN：看机器人与 SSH 蜜罐实时互动",
+      "created_display": "Created: Jul 17, 2026 / 07:05 PT",
+      "image_url": null,
+      "summary_en": "Live footage of bots interacting with an SSH honeypot reveals attacker automation patterns and defender signals in real time. The stream provides tangible lessons for threat hunting, anomaly detection, and hardened SSH configurations.",
+      "summary_zh": "实时演示显示机器人与 SSH 蜜罐的互动，揭示攻击者的自动化行为与防守信号。此直播为威胁猎杀、异常检测和 SSH 安全加固提供了具体的教训。",
+      "hn": {
+        "id": 48947548,
+        "type": "story",
+        "by": "tusksm",
+        "score": 164,
+        "descendants": 58,
+        "time": 1784297115,
+        "comments_url": "https://news.ycombinator.com/item?id=48947548"
+      },
+      "tags": [
+        "Show HN",
+        "Security"
+      ],
+      "hot_score": 0.49
+    },
+    {
+      "title_en": "Ask HN: Any AWS billing issues known? Amazon forecast of 3 billion dollars",
+      "url": "https://news.ycombinator.com/item?id=48945681",
+      "title_zh": "Ask HN：有哪些已知的 AWS 计费问题？亚马逊对 AWS 的支出预测为30亿美元",
+      "created_display": "Created: Jul 17, 2026 / 03:45 PT",
+      "image_url": null,
+      "summary_en": "A Hacker News thread centers on known AWS billing issues and questions about unexpected charges. The discussion surfaces common cloud-cost pitfalls, such as untagged resources and data transfer fees, and offers practical tips for budgets, alerts, and governance. The takeaway is to implement proactive cost controls and continuous monitoring.",
+      "summary_zh": "讨论聚焦于 AWS 计费问题及潜在的未预期费用，揭示常见的云成本陷阱（如未打标签的资源、数据传输费等）并给出预算、警报和治理的实用建议。核心在于建立主动的成本控制与持续监控。",
+      "hn": {
+        "id": 48945681,
+        "type": "story",
+        "by": "mstolpm",
+        "score": 203,
+        "descendants": 1,
+        "time": 1784285121,
+        "comments_url": "https://news.ycombinator.com/item?id=48945681"
+      },
+      "hot_score": 0.48,
+      "tags": [
+        "Business",
+        "Finance"
+      ]
+    },
+    {
+      "title_en": "EEG shows brain can simultaneous encode two speech streams",
+      "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003876",
+      "title_zh": "脑电图显示大脑能同时编码两路语音",
+      "created_display": "Created: Jul 16, 2026 / 22:51 PT",
+      "image_url": "https://journals.plos.org/plosbiology/article/figure/image?id=10.1371/journal.pbio.3003876.g004&size=inline",
+      "summary_en": "Researchers used EEG to demonstrate that the brain can track two concurrent speech streams, indicating parallel encoding rather than strictly serial processing. This challenges simple models of auditory processing and could influence future hearing-aid design and multi-speech decoding systems.",
+      "summary_zh": "研究通过脑电图证明大脑能够同时跟踪两路语音信号，表明存在并行编码而非串行处理。这一发现挑战了简单的听觉处理模型，并可能推动未来助听器设计和多语音解码系统的发展。",
+      "hn": {
+        "id": 48943745,
+        "type": "story",
+        "by": "giuliomagnifico",
+        "score": 251,
+        "descendants": 168,
+        "time": 1784267470,
+        "comments_url": "https://news.ycombinator.com/item?id=48943745"
+      },
+      "tags": [
+        "Science"
+      ],
+      "hot_score": 0.45
+    },
+    {
+      "title_en": "$100 AI Music Video: Claude Fable 5 vs. GPT-5.6 Sol",
+      "url": "https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6",
+      "title_zh": "100美元AI音乐视频：Claude Fable 5 与 GPT-5.6 Sol",
+      "created_display": "Created: Jul 16, 2026 / 13:03 PT",
+      "image_url": "https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6/opengraph-image-yqks0s?3313ef8f7f360358",
+      "summary_en": "A comparison of AI music video generation costs and capabilities, with Claude Fable 5 and GPT-5.6 Sol producing contenders.",
+      "summary_zh": "以 Claude Fable 5 和 GPT-5.6 Sol 为对手，比较低成本生成音乐视频的质量与成本。文章探讨创作 AI 在质量、规模与限制方面的表现。",
+      "hn": {
+        "id": 48939524,
+        "type": "story",
+        "by": "hershyb_",
+        "score": 391,
+        "descendants": 525,
+        "time": 1784232203,
+        "comments_url": "https://news.ycombinator.com/item?id=48939524"
+      },
+      "tags": [
+        "AI"
+      ],
+      "hot_score": 0.44
+    },
+    {
+      "title_en": "Pebble Mega Update – July 2026",
+      "url": "https://repebble.com/blog/pebble-mega-update-july-2026",
+      "title_zh": "Pebble 巨大更新：2026 年 7 月",
+      "created_display": "Created: Jul 16, 2026 / 20:53 PT",
+      "image_url": "https://repebble.com/assets/pebble-mega-update-july-2026-0-cleanshot_2026-07-14_at_07.14.362x-social.jpg",
+      "summary_en": "Pebble releases a comprehensive July 2026 Mega Update detailing major firmware and app ecosystem improvements, performance tweaks, and new features for Pebble devices.",
+      "summary_zh": "Pebble 公布 2026 年 7 月的重大更新，涵盖固件、应用生态、性能优化和新功能，旨在提升设备使用体验。",
+      "hn": {
+        "id": 48943174,
+        "type": "story",
+        "by": "crazysaem",
+        "score": 266,
+        "descendants": 182,
+        "time": 1784260418,
+        "comments_url": "https://news.ycombinator.com/item?id=48943174"
+      },
+      "tags": [
+        "Hardware"
+      ],
+      "hot_score": 0.43
+    },
+    {
+      "title_en": "Claude Code: Anatomy of a Misfeature",
+      "url": "https://www.olafalders.com/2026/07/17/claude-code-anatomy-of-a-misfeature/",
+      "title_zh": "Claude Code：一个设计缺陷的解析",
+      "created_display": "Created: Jul 17, 2026 / 07:26 PT",
+      "image_url": "https://www.olafalders.com/2026/07/17/claude-code-anatomy-of-a-misfeature/featured.jpeg",
+      "summary_en": "Claude Code reveals a notable misfeature that undermines its reliability as a coding assistant. The post dissects how the feature arises from core design choices and discusses practical workarounds and expectations for users and developers. It serves as a cautionary look at how UX decisions can shape tool trust.",
+      "summary_zh": "对 Claude Code 的分析聚焦于一个明显的设计缺陷，影响其作为代码助手的可靠性。文章剖析该特性如何源自核心设计选择，并探讨对用户与开发者的现实应对与期望，提醒用户界面决策会如何影响工具的可信度。",
+      "hn": {
+        "id": 48947776,
+        "type": "story",
+        "by": "oalders",
+        "score": 140,
+        "descendants": 118,
+        "time": 1784298418,
+        "comments_url": "https://news.ycombinator.com/item?id=48947776"
+      },
+      "hot_score": 0.43,
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "title_en": "The human-in-the-loop is tired",
+      "url": "https://pydantic.dev/articles/the-human-in-the-loop-is-tired",
+      "title_zh": "人机协同中的在环机制已疲惫",
+      "created_display": "Created: Jul 16, 2026 / 17:21 PT",
+      "image_url": "https://pydantic.dev/articles/the-human-in-the-loop-is-tired/og.png",
+      "summary_en": "The piece argues that human-in-the-loop systems are reaching a fatigue point due to repetitive tasks and heavy cognitive load. It calls for redesigned tooling, clearer task boundaries, and smarter automation to keep humans in the loop where they add the most value.",
+      "summary_zh": "文章指出在环人机系统正因重复性任务和认知负荷过大而感到疲惫。呼吁改进工具、划分清晰任务边界，并通过更智能的自动化来让人类在最具价值的环节保持参与。",
+      "hn": {
+        "id": 48942000,
+        "type": "story",
+        "by": "haritha1313",
+        "score": 306,
+        "descendants": 198,
+        "time": 1784247669,
+        "comments_url": "https://news.ycombinator.com/item?id=48942000"
+      },
+      "tags": [
+        "AI"
+      ],
+      "hot_score": 0.42
+    },
+    {
+      "title_en": "How Has Roman Concrete Lasted for Millennia? 1,900-Year-Old Latrine Offers Clues",
+      "url": "https://www.smithsonianmag.com/smart-news/how-has-roman-concrete-lasted-for-millennia-a-1900-year-old-latrine-offers-new-clues-about-the-materials-impressive-durability-180989115/",
+      "title_zh": "罗马混凝土为何能持久千年？1900 年历史的厕所揭示线索",
+      "created_display": "Created: Jul 16, 2026 / 20:48 PT",
+      "image_url": "https://th-thumbnailer.cdn-si-edu.com/ZudUQfnkrl8Fi4cI7JTX8GvHVxo=/fit-in/1600x0/filters:focal(1024x683:1025x684)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/f8/ef/f8ef2bbf-1984-46d7-9fba-cb9324c82871/3917.jpg",
+      "summary_en": "An analysis of a 1,900-year-old Roman latrine reveals enduring durability due to a pozzolanic mix with volcanic ash that forms durable minerals in seawater. The findings offer lessons for modern, lower-carbon concretes and more durable infrastructure.",
+      "summary_zh": "对一座1900年历史的罗马厕所进行分析，揭示其混凝土耐久性源于掺入火山灰等火山灰质材料的火山灰质混合物，在海水环境中会形成耐久矿物。研究为现代低碳混凝土设计和长期基础设施耐久性提供启示。",
+      "hn": {
+        "id": 48943142,
+        "type": "story",
+        "by": "divbzero",
+        "score": 260,
+        "descendants": 216,
+        "time": 1784260106,
+        "comments_url": "https://news.ycombinator.com/item?id=48943142"
+      },
+      "tags": [
+        "Science",
+        "DevOps"
+      ],
+      "hot_score": 0.42
+    },
+    {
+      "title_en": "LM Studio Bionic: the AI agent for open models",
+      "url": "https://lmstudio.ai/blog/introducing-lm-studio-bionic",
+      "title_zh": "LM Studio Bionic：面向开放模型的AI代理",
+      "created_display": "Created: Jul 16, 2026 / 13:18 PT",
+      "image_url": "https://files.lmstudio.ai/bionic/lm-studio-bionic-og.jpg",
+      "summary_en": "LM Studio launches Bionic, an AI agent framework designed to run with open models. It enables orchestration, tool use, and safety controls in an open-model ecosystem.",
+      "summary_zh": "LM Studio 推出 Bionic，一套面向开放模型的 AI 代理框架，支持对开放模型的编排、工具调用及安全控制，推动开放模型生态的发展。",
+      "hn": {
+        "id": 48939662,
+        "type": "story",
+        "by": "minimaxir",
+        "score": 324,
+        "descendants": 127,
+        "time": 1784233095,
+        "comments_url": "https://news.ycombinator.com/item?id=48939662"
+      },
+      "tags": [
+        "AI",
+        "Open Source"
+      ],
+      "hot_score": 0.37
+    },
+    {
+      "title_en": "More Bounce to the Ounce",
+      "url": "https://mceglowski.substack.com/p/more-bounce-to-the-ounce",
+      "title_zh": "More Bounce to the Ounce — Maciej Cegłowski 的回顾",
+      "created_display": "Created: Jul 17, 2026 / 06:32 PT",
+      "image_url": null,
+      "summary_en": "Maciej Cegłowski delivers a provocative take on the web’s future, privacy, and governance, challenging readers to rethink surveillance capitalism and digital resilience. The essay blends tech critique with a call to action for sustainable online ecosystems.",
+      "summary_zh": "Maciej Cegłowski 对网络未来、隐私与治理提出挑衅性观点，促使读者重新思考监控资本主义与数字韧性。文章将技术批评与对可持续网络生态的行动呼吁结合在一起。",
+      "hn": {
+        "id": 48947201,
+        "type": "story",
+        "by": "pavel_lishin",
+        "score": 128,
+        "descendants": 54,
+        "time": 1784295131,
+        "comments_url": "https://news.ycombinator.com/item?id=48947201"
+      },
+      "tags": [
+        "Privacy",
+        "Culture"
+      ],
+      "hot_score": 0.36
+    },
+    {
+      "title_en": "NotebookLM is now Gemini Notebook",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-notebook/notebooklm-gemini-notebook/",
+      "title_zh": "NotebookLM 现名为 Gemini Notebook",
+      "created_display": "Created: Jul 16, 2026 / 09:08 PT",
+      "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-notebook__cover.width-1300.png",
+      "summary_en": "Google rebrands NotebookLM as Gemini Notebook and ties it more closely to the Gemini AI ecosystem, signaling deeper integration for note-taking, research, and AI-assisted idea capture.",
+      "summary_zh": "Google 将 NotebookLM 重命名为 Gemini Notebook，并与 Gemini AI 生态系统更紧密地整合，强化笔记、研究与 AI 辅助记录的能力。",
+      "hn": {
+        "id": 48936451,
+        "type": "story",
+        "by": "xnx",
+        "score": 365,
+        "descendants": 181,
+        "time": 1784218093,
+        "comments_url": "https://news.ycombinator.com/item?id=48936451"
+      },
+      "tags": [
+        "AI"
+      ],
+      "hot_score": 0.35
+    },
+    {
+      "title_en": "Trump Media to sell instant access to 'market-moving' social posts",
+      "url": "https://www.bbc.com/news/articles/c79gw4lj89eo",
+      "title_zh": "特朗普媒体将出售“即时访问”能引发市场波动的社交帖子",
+      "created_display": "Created: Jul 17, 2026 / 00:58 PT",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/3a36/live/a22ce670-817e-11f1-a087-3f9df20b4f8a.jpg",
+      "summary_en": "Trump Media plans to monetize instant access to market-moving social posts, selling real-time, potentially price-sensitive content. The move raises questions about market integrity, disclosure norms, and platform monetization in politically charged contexts. It signals how real-time content could become a financial product.",
+      "summary_zh": "特朗普媒体计划将“即时访问”可能影响市场的社交帖子变现，出售实时且可能涉及价格敏感的信息。此举引发市场公信力、披露规范及在政治场景中的平台变现等问题，反映了实时内容或许成为一种金融产品的趋势。",
+      "hn": {
+        "id": 48944487,
+        "type": "story",
+        "by": "NikxDa",
+        "score": 167,
+        "descendants": 115,
+        "time": 1784275099,
+        "comments_url": "https://news.ycombinator.com/item?id=48944487"
+      },
+      "hot_score": 0.34,
+      "tags": [
+        "Politics",
+        "Business"
+      ]
+    },
+    {
+      "title_en": "Immersive Linear Algebra Book with Interactive Figures (2015)",
+      "url": "https://immersivemath.com/ila/",
+      "title_zh": "带交互图的沉浸式线性代数书（2015）",
+      "created_display": "Created: Jul 16, 2026 / 08:32 PT",
+      "image_url": null,
+      "summary_en": "Immersive Linear Algebra, a 2015 project, offers interactive figures to explore linear algebra concepts, foreshadowing the rise of web-based math visualization.",
+      "summary_zh": "2015 年的沉浸式线性代数书通过互动图形讲解概念，预示了网页化数学可视化的崛起。",
+      "hn": {
+        "id": 48935951,
+        "type": "story",
+        "by": "srean",
+        "score": 287,
+        "descendants": 30,
+        "time": 1784215943,
+        "comments_url": "https://news.ycombinator.com/item?id=48935951"
+      },
+      "tags": [
+        "Education"
+      ],
+      "hot_score": 0.27
+    },
+    {
+      "title_en": "The Little Book of Reinforcement Learning",
+      "url": "https://github.com/alxndrTL/little-book-rl/",
+      "title_zh": "强化学习小册子",
+      "created_display": "Created: Jul 16, 2026 / 15:27 PT",
+      "image_url": "https://opengraph.githubassets.com/6436aee9482009e3836c7a26f0ef95adb7de8a3e5983c6d5df25583360ef24c6/alxndrTL/little-book-rl",
+      "summary_en": "A compact, practical primer on reinforcement learning covers core ideas, common algorithms, and pitfalls with approachable explanations and examples for real-world use.",
+      "summary_zh": "这本简短的入门书系统讲解了强化学习的核心概念、常用算法及常见误区，配有易于理解的示例，帮助开发者在实际项目中落地 RL。",
+      "hn": {
+        "id": 48941104,
+        "type": "story",
+        "by": "mustaphah",
+        "score": 207,
+        "descendants": 26,
+        "time": 1784240842,
+        "comments_url": "https://news.ycombinator.com/item?id=48941104"
+      },
+      "tags": [
+        "AI"
+      ],
+      "hot_score": 0.26
+    },
+    {
+      "title_en": "GrapheneOS recommended for domestic abuse victims",
+      "url": "https://privacypros.com.au/privacy-hub/articles/dv-safe-phone-australia/",
+      "title_zh": "GrapheneOS：家暴受害者的安全选择",
+      "created_display": "Created: Jul 16, 2026 / 18:36 PT",
+      "image_url": "https://privacypros.com.au/wp-content/uploads/2026/01/DV-Safe-Phone-Australia-support.jpg",
+      "summary_en": "GrapheneOS is recommended for domestic-abuse victims due to its strong security, privacy controls, and app hardening that reduce risk when devices are under coercive control.",
+      "summary_zh": "GrapheneOS 因具备强健的安全性、隐私控制和应用加固等特性，被推荐给家暴受害者，以降低在控制环境中被监控或数据暴露的风险。文章举例说明其对应用隔离与低数据回传等的实际保护作用。",
+      "hn": {
+        "id": 48942454,
+        "type": "story",
+        "by": "aussieguy1234",
+        "score": 176,
+        "descendants": 198,
+        "time": 1784252212,
+        "comments_url": "https://news.ycombinator.com/item?id=48942454"
+      },
+      "tags": [
+        "Privacy",
+        "Security"
+      ],
+      "hot_score": 0.25
+    },
+    {
+      "title_en": "Detecting LLM-Generated Texts with “Classical” Machine Learning",
+      "url": "https://blog.lyc8503.net/en/post/llm-classifier/",
+      "title_zh": "用传统机器学习检测大语言模型生成文本",
+      "created_display": "Created: Jul 16, 2026 / 09:41 PT",
+      "image_url": "https://blog.lyc8503.net/en/post/llm-classifier/ppl.png",
+      "summary_en": "Even with powerful LLMs, traditional machine learning classifiers can help detect AI-generated text using features like syntax patterns and punctuation. The approach often provides interpretable signals that complement neural detectors.",
+      "summary_zh": "即使面对强大的大语言模型，传统机器学习分类器也能通过句法模式、标点等特征识别 AI 生成文本，提供可解释的信号，常与神经检测相互补充。",
+      "hn": {
+        "id": 48936880,
+        "type": "story",
+        "by": "uneven9434",
+        "score": 241,
+        "descendants": 173,
+        "time": 1784220097,
+        "comments_url": "https://news.ycombinator.com/item?id=48936880"
+      },
+      "tags": [
+        "AI",
+        "Data"
+      ],
+      "hot_score": 0.24
+    },
+    {
+      "title_en": "Mathematics of Data Science",
+      "url": "https://arxiv.org/abs/2607.11938",
+      "title_zh": "数据科学的数学基础",
+      "created_display": "Created: Jul 16, 2026 / 13:38 PT",
+      "image_url": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+      "summary_en": "The arXiv preprint surveys core mathematical themes in data science, including optimization, statistics, high-dimensional geometry, and generalization. It connects theory to practical algorithm design and highlights where intuition can mislead.",
+      "summary_zh": "这篇 arXiv 预印本梳理数据科学中的核心数学主题，如优化、统计、高维几何与泛化等，并将理论与实际算法设计联系起来，指出直觉可能误导的地方。",
+      "hn": {
+        "id": 48939896,
+        "type": "story",
+        "by": "Anon84",
+        "score": 210,
+        "descendants": 14,
+        "time": 1784234328,
+        "comments_url": "https://news.ycombinator.com/item?id=48939896"
+      },
+      "tags": [
+        "Data",
+        "Science"
+      ],
+      "hot_score": 0.24
+    },
+    {
+      "title_en": "My car’s OTA update broke Android Auto",
+      "url": "https://imdanielkendall.com/the-great-software-regress-how-move-fast-and-break-things-broke-our-lives/",
+      "title_zh": "我的车载 OTA 更新把 Android Auto 搞坏了",
+      "created_display": "Created: Jul 16, 2026 / 15:29 PT",
+      "image_url": "https://imdanielkendall.com/static/og-image.png",
+      "summary_en": "An in-car OTA update broke Android Auto, disrupting users’ connected experience. The incident highlights the fragility of software ecosystems in modern vehicles and the need for robust regression testing, clear rollback paths, and careful update governance.",
+      "summary_zh": "一次车载系统 OTA 更新导致 Android Auto 功能失效，打乱了用户的智能互联体验。此事凸显现代汽车软件生态的脆弱性，强调需要更可靠的回归测试、可回滚机制以及谨慎的更新治理。",
+      "hn": {
+        "id": 48941129,
+        "type": "story",
+        "by": "Expletive4138",
+        "score": 162,
+        "descendants": 205,
+        "time": 1784240984,
+        "comments_url": "https://news.ycombinator.com/item?id=48941129"
+      },
+      "tags": [
+        "Programming"
+      ],
+      "hot_score": 0.2
+    },
+    {
+      "title_en": "CD sales growth outpaced vinyl in the first half of 2026",
+      "url": "https://consequence.net/2026/07/the-cd-revival-is-getting-hard-to-ignore/",
+      "title_zh": "2026 年前六个月 CD 销售增速超过黑胶唱片",
+      "created_display": "Created: Jul 16, 2026 / 10:19 PT",
+      "image_url": "https://consequence.net/wp-content/uploads/2026/07/CDs.jpeg",
+      "summary_en": "Compact discs posted faster growth than vinyl in the first half of 2026, signaling a small but real revival in physical media. Industry observers point to nostalgia, pricing dynamics, and collector activity as drivers, with implications for retailers and artists alike. The trend matters for how physical formats coexist with streaming.",
+      "summary_zh": "2026 年上半年，CD 销量增速超过黑胶，显示物理介质的复兴虽小但确有迹象。分析称怀旧情绪、定价与收藏热是推动力，这对零售商和艺术家均有影响，也揭示了实体格式与流媒体的共存趋势。",
+      "hn": {
+        "id": 48937398,
+        "type": "story",
+        "by": "speckx",
+        "score": 186,
+        "descendants": 209,
+        "time": 1784222356,
+        "comments_url": "https://news.ycombinator.com/item?id=48937398"
+      },
+      "hot_score": 0.19,
+      "tags": [
+        "Business",
+        "Entertainment"
+      ]
+    },
+    {
+      "title_en": "Helium escaping from atmosphere of nearby rocky exoplanet in a habitable zone",
+      "url": "https://www.science.org/doi/10.1126/science.aea9708",
+      "title_zh": "来自近邻的岩质系外行星大气中氦气正在逸出，处于宜居带",
+      "created_display": "Created: Jul 16, 2026 / 13:24 PT",
+      "image_url": null,
+      "summary_en": "Helium is escaping from the atmosphere of a nearby rocky exoplanet in the habitable zone, offering clues about atmospheric loss and planetary evolution. The finding informs models of exoplanet habitability and demonstrates the power of high-resolution spectroscopy in studying small worlds. It adds a data point in understanding how rocky planets retain atmospheres.",
+      "summary_zh": "来自最近的处于宜居带的岩质系外行星大气中氦气正在逸出，为行星大气损失与演化提供线索。此发现有助于改进系外行星宜居性模型，并凸显高分辨率光谱在研究小型星球方面的能力，增加了岩质行星大气维持的实证点。",
+      "hn": {
+        "id": 48939742,
+        "type": "story",
+        "by": "anyonecancode",
+        "score": 146,
+        "descendants": 54,
+        "time": 1784233442,
+        "comments_url": "https://news.ycombinator.com/item?id=48939742"
+      },
+      "hot_score": 0.17,
+      "tags": [
+        "Science",
+        "Space"
+      ]
+    },
+    {
+      "title_en": "42% of adults rely on their parents for financial support",
+      "url": "https://www.cnbc.com/2026/07/16/42percent-of-adults-rely-on-their-parents-for-financial-supportthere-are-no-bad-guys-here-says-financial-therapist.html",
+      "title_zh": "42% 的成年人依赖父母提供经济支持",
+      "created_display": "Created: Jul 16, 2026 / 10:11 PT",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/106877435-1620063592262-gettyimages-1160943786-2018_09_17_best_ager_j13_1828.jpeg?v=1620063622&w=1920&h=1080",
+      "summary_en": "A striking 42% of adults rely on parental financial support, reflecting rising living costs and debt pressures.",
+      "summary_zh": "约有 42% 的成年人仍依赖父母提供经济援助，反映日益上涨的生活成本和债务压力。文章探讨此现象对长期理财与独立性的影响，并结合金融治疗师的建议，提出建立健康边界与有序支持的思路。",
+      "hn": {
+        "id": 48937288,
+        "type": "story",
+        "by": "root-parent",
+        "score": 156,
+        "descendants": 269,
+        "time": 1784221918,
+        "comments_url": "https://news.ycombinator.com/item?id=48937288"
+      },
+      "tags": [
+        "Finance"
+      ],
+      "hot_score": 0.16
+    },
+    {
+      "title_en": "Goes-19 weather satellite enters Safe Hold mode",
+      "url": "https://www.spaceweather.gov/news/goes-19-safe-hold",
+      "title_zh": "GOES-19 天气卫星进入安全待机模式",
+      "created_display": "Created: Jul 16, 2026 / 06:30 PT",
+      "image_url": "https://www.spaceweather.gov/themes/custom/swpc/images/logos/noaa_logo.svg",
+      "summary_en": "GOES-19 has entered Safe Hold mode after a detected anomaly, pausing normal ops. In Safe Hold, the satellite conserves power and awaits ground control to restore full operations, potentially reducing near-term weather data.",
+      "summary_zh": "GOES-19 天气卫星因检测到异常进入安全待机模式，暂停常规操作。处于安全待机状态时，卫星会节省能源并等待地面控制重新启动全性能作业，可能短暂影响近实时天气数据的获取。",
+      "hn": {
+        "id": 48934286,
+        "type": "story",
+        "by": "yabones",
+        "score": 175,
+        "descendants": 89,
+        "time": 1784208600,
+        "comments_url": "https://news.ycombinator.com/item?id=48934286"
+      },
+      "tags": [
+        "Space"
+      ],
+      "hot_score": 0.15
+    },
+    {
+      "title_en": "How to Train a Gen AI Kick Drum Model on Your Old Linux Desktop with 6GB VRAM",
+      "url": "https://www.zhinit.dev/blog/training-a-kick-drum-diffusion-model",
+      "title_zh": "在 6GB VRAM 的旧 Linux 桌面上训练生成式 AI 的踢鼓模型",
+      "created_display": "Created: Jul 16, 2026 / 08:13 PT",
+      "image_url": null,
+      "summary_en": "A guide showing how to train a generative AI kick-drum model on a consumer-grade GPU (6GB VRAM) using compact architectures and optimization tricks. It demonstrates that hobbyist hardware can still produce tangible audio synthesis with the right techniques.",
+      "summary_zh": "一篇指南展示如何在仅有 6GB VRAM 的消费级显卡上，结合紧凑架构与优化技巧，训练一个踢鼓声生成模型。通过这些方法，业余硬件也能实现可用的音频合成。",
+      "hn": {
+        "id": 48935687,
+        "type": "story",
+        "by": "zhinit",
+        "score": 158,
+        "descendants": 82,
+        "time": 1784214780,
+        "comments_url": "https://news.ycombinator.com/item?id=48935687"
+      },
+      "tags": [
+        "AI",
+        "Hardware"
+      ],
+      "hot_score": 0.15
+    },
+    {
+      "title_en": "German AI consortium releases Soofi S, an open 30B model that tops benchmarks",
+      "url": "https://the-decoder.com/german-ai-consortium-releases-soofi-s-an-open-30b-model-that-tops-benchmarks-in-both-english-and-german/",
+      "title_zh": "德国 AI 联盟发布 Soofi S：开源 30B 模型在基准测试中名列前茅",
+      "created_display": "Created: Jul 16, 2026 / 10:44 PT",
+      "image_url": "https://the-decoder.com/wp-content/uploads/2026/07/soofi-s-german-llm-nano-banana-pro.jpg",
+      "summary_en": "Germany's AI consortium releases Soofi S, an open 30B model that tops benchmarks in both English and German. The open-weight release highlights Europe’s push toward independent AI tooling and multilingual capabilities. It could influence open AI ecosystems and benchmarking standards globally.",
+      "summary_zh": "德国 AI 联盟发布 Soofi S，一款开源 30B 参数模型，在英语和德语基准测试中名列前茅。此开源发布凸显欧洲在独立 AI 工具与多语言能力方面的努力，或对全球的开源 AI 生态和基准标准产生影响。",
+      "hn": {
+        "id": 48937756,
+        "type": "story",
+        "by": "amai",
+        "score": 144,
+        "descendants": 34,
+        "time": 1784223886,
+        "comments_url": "https://news.ycombinator.com/item?id=48937756"
+      },
+      "hot_score": 0.15,
+      "tags": [
+        "AI",
+        "Open Source"
+      ]
+    }
+  ]
+}

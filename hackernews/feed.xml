@@ -1,0 +1,651 @@
+<?xml version="1.0" ?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>Hacker News Daily</title>
+    <link>https://chaowang15.github.io/hackernews/</link>
+    <description>Curated daily digest of top Hacker News stories with AI-generated summaries, tags, and bilingual translations.</description>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 02 Nov 2026 10:50:19 +0000</lastBuildDate>
+    <generator>Hacker News Daily RSS Builder</generator>
+    <atom:link href="https://chaowang15.github.io/hackernews/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Patrick Stewart has died</title>
+      <link>https://www.nytimes.com/2026/10/29/arts/television/patrick-stewart-dead.html</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50294702</guid>
+      <dc:creator>j4mie</dc:creator>
+      <pubDate>Thu, 29 Oct 2026 19:41:39 +0000</pubDate>
+      <category>Entertainment</category>
+      <description>&lt;p&gt;Patrick Stewart, beloved for Star Trek's Captain Picard and a long career in theatre and film, has died. His work helped redefine leadership in science fiction and mentored generations of actors. The news prompts reflection on a prolific career that bridged stage, screen, and iconic franchises.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;帕特里克·斯图尔特因病去世，曾因星际迷航中帕克船长等角色而家喻户晓。其横跨舞台、电视和电影的职业生涯对科幻与表演行业产生深远影响。人们由此缅怀这位多产演员及其对文化的贡献。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 3103 · 💬 661 · Entertainment&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50294702&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/10/30/top_stories_10302026#story-50294702&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>HackerTube: YouTube built from videos recommended by HN</title>
+      <link>https://karpathy.bearblog.dev/hacker-tube/</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50319510</guid>
+      <dc:creator>karpathy</dc:creator>
+      <pubDate>Sat, 31 Oct 2026 19:56:53 +0000</pubDate>
+      <category>Web</category>
+      <description>&lt;p&gt;HackerTube presents a YouTube-style interface for 6,454 videos sourced from 39,834 Hacker News comments dating back to 2007. The collection is available through hackertube.org. It turns years of community recommendations into a browsable video archive.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;HackerTube 提供了一个 YouTube 风格的界面，收录了自 2007 年以来从 39,834 条 Hacker News 评论中提取的 6,454 个视频。该视频集合可通过 hackertube.org 浏览。它将多年社区推荐整理成了一个可探索的视频档案。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 2589 · 💬 572 · Web&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50319510&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/02/top_stories_11022026#story-50319510&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Binance-hacker-1029 – $5.6B stolen from Binance</title>
+      <link>https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50296470</guid>
+      <dc:creator>Tiberium</dc:creator>
+      <pubDate>Thu, 29 Oct 2026 21:38:59 +0000</pubDate>
+      <category>Security</category>
+      <category>Finance</category>
+      <description>&lt;p&gt;A $5.6B theft linked to Binance highlights the ongoing scale of crypto-exchange breaches. On-chain tracing attempts to map the stolen funds as they move through wallets and mixers, showing how investigators pursue assets long after a hack. The lesson for builders is to strengthen custody security (multi-sig, cold storage) and incident response readiness.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;涉及币安的巨额盗窃案，金额约56亿美元，凸显集中交易所安全风险。链上追踪尝试绘出赃款去向，显示即便多年后仍有追踪的可能。对系统设计者的启示是加强资产托管安全（多签、冷存储）与快速事件响应能力。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 1750 · 💬 1240 · Security · Finance&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50296470&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/10/31/top_stories_10312026#story-50296470&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>We're releasing the weights of Mistral Large 4</title>
+      <link>https://mistral.ai/news/mistral-large-4-oss/</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50289418</guid>
+      <dc:creator>kuberwastaken</dc:creator>
+      <pubDate>Thu, 29 Oct 2026 14:13:21 +0000</pubDate>
+      <category>AI</category>
+      <category>Open Source</category>
+      <description>&lt;p&gt;Mistral AI has released the weights for Mistral Large 4, enabling researchers to run and fine-tune the model locally. This move reduces reliance on hosted APIs and accelerates experimentation, but also brings licensing, safety, and governance considerations to the fore in open-weight AI projects.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Mistral Large 4 的权重已对外公开，研究者和开发者可以在本地部署与微调。此举降低对 API 的依赖，促进实验，但也引发许可、安全与治理方面的讨论。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 1719 · 💬 439 · AI · Open Source&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50289418&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/02/top_stories_11022026#story-50289418&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Anthropic S-1</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50242939</guid>
+      <dc:creator>SiNTEx</dc:creator>
+      <pubDate>Mon, 26 Oct 2026 13:04:50 +0000</pubDate>
+      <category>Business</category>
+      <category>AI</category>
+      <category>Finance</category>
+      <description>&lt;p&gt;Anthropic has filed an S-1 with the SEC, signaling plans for an IPO. The filing will reveal business metrics, product roadmap, and risk factors as the company scales its AI safety-focused offerings. Investors will weigh profitability trajectory, capital needs, and competitive positioning in a crowded AI market.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Anthropic 已向美国证券交易委员会提交 S-1 文件，表明公司计划上市。文件将披露业务数据、产品路线图与风险因素，显示其在 AI 安全领域的扩张。投资者将评估盈利前景、资金需求以及在竞争激烈的 AI 市场中的定位。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 1631 · 💬 1555 · Business · AI · Finance&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50242939&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/10/27/top_stories_10272026#story-50242939&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Why is this fingerprinting script creating bioweapons?</title>
+      <link>https://nullpt.rs/fingerprinting-bioweapons</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50276998</guid>
+      <dc:creator>hazebooth</dc:creator>
+      <pubDate>Wed, 28 Oct 2026 17:13:29 +0000</pubDate>
+      <category>Privacy</category>
+      <category>Security</category>
+      <category>Web</category>
+      <description>&lt;p&gt;The author describes investigating browser fingerprinting scripts, from libraries such as FingerprintJS to anti-bot systems used by Cloudflare Turnstile and Akamai. They then considered crawling the web, intercepting fingerprinting-related browser API calls, and mapping what was found. The title connects this investigation with scripts that appear to be creating bioweapons, though the supplied material does not provide further details.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;作者介绍了对浏览器指纹识别脚本的调查，范围从 FingerprintJS 等常见库到 Cloudflare Turnstile 和 Akamai 使用的反机器人系统。随后，作者考虑抓取网页、拦截与指纹识别相关的浏览器 API 调用，并绘制其分布图。标题将这项调查与似乎正在制造生物武器的脚本联系起来，但现有内容未提供更多细节。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 1581 · 💬 306 · Privacy · Security · Web&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50276998&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/10/31/top_stories_10312026#story-50276998&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Show HN: HackerBooks – HackerTube, but for books mentioned on HN</title>
+      <link>https://hackerbooks.org</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50326821</guid>
+      <dc:creator>roansh</dc:creator>
+      <pubDate>Sun, 01 Nov 2026 15:58:28 +0000</pubDate>
+      <category>Show HN</category>
+      <category>Data</category>
+      <description>&lt;p&gt;HackerBooks catalogs about 16,500 books mentioned by at least two different Hacker News commenters between 2007 and today. Each book links back to the comments that mentioned it, and the dataset can be downloaded from the about page. The creator notes that the system counts mentions without distinguishing praise from criticism, so some entries may be missing or mismatched.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;HackerBooks 收录了 2007 年至今至少被两名不同 Hacker News 评论者提到过的约 1.65 万本书。每本书都链接回提及它的评论，数据集也可从关于页面下载。创建者说明，系统只统计提及次数，不区分赞扬和批评，因此部分书籍可能遗漏或匹配错误。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 1407 · 💬 235 · Show HN · Data&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50326821&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/02/top_stories_11022026#story-50326821&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Ghostty 1.4</title>
+      <link>https://ghostty.org/docs/install/release-notes/1-4-0</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50261998</guid>
+      <dc:creator>deaux</dc:creator>
+      <pubDate>Tue, 27 Oct 2026 16:51:22 +0000</pubDate>
+      <category>Programming</category>
+      <description>&lt;p&gt;Ghostty 1.4.0 marks an incremental release, bringing new features and bug fixes to the project.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Ghostty 1.4.0 标志着一次增量更新，带来新功能和错误修复。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 1327 · 💬 421 · Programming&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50261998&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/10/29/top_stories_10292026#story-50261998&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Apple's git still trusts the compromised eMudhra certificates</title>
+      <link>https://emudhra.we-have-a-problem.com/apple.html</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50271640</guid>
+      <dc:creator>galadran</dc:creator>
+      <pubDate>Wed, 28 Oct 2026 11:03:40 +0000</pubDate>
+      <category>Security</category>
+      <category>Privacy</category>
+      <category>Programming</category>
+      <description>&lt;p&gt;Apple's git still trusts compromised eMudhra certificates, leaving room for potential man-in-the-middle attacks on TLS and code signing trust. This highlights how supply chain security depends on up-to-date trust stores, and warrants prompt certificate revocation and rotation.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;苹果的 Git 仍信任被妥协的 eMudhra 证书，增加了 TLS 与代码签名信任被滥用的风险。这凸显供应链安全对最新信任存储的依赖，应尽快撤销并轮换相关证书。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 1173 · 💬 403 · Security · Privacy · Programming&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50271640&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/10/28/top_stories_10282026#story-50271640&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Evidence of a spying operation by ICE against left-wing social movements</title>
+      <link>https://www.wired.com/story/ice-is-running-one-of-the-largest-anti-left-surveillance-operations-in-us-history/</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50272749</guid>
+      <dc:creator>zzzeek</dc:creator>
+      <pubDate>Wed, 28 Oct 2026 12:49:45 +0000</pubDate>
+      <category>Politics</category>
+      <category>Privacy</category>
+      <description>&lt;p&gt;New documents and whistleblower testimony reveal ICE conducted a sprawling surveillance operation targeting left-wing social movements, leveraging internal data and informants across decades. The findings raise questions about civil liberties, oversight, and the balance between border enforcement and political dissent.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;新的文档和告密者证词揭示ICE长期针对左翼社会运动执行大规模监视行动，动用了内部数据和线人。相关证据推动对公民自由、监督机制以及边境执法与政治异议之间平衡的讨论。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 1165 · 💬 987 · Politics · Privacy&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50272749&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/10/28/top_stories_10282026#story-50272749&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Three new discoveries in mathematics, computer science, and physics</title>
+      <link>https://openai.com/index/building-scientific-understanding-with-academic-communities/</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50251344</guid>
+      <dc:creator>jonluca</dc:creator>
+      <pubDate>Mon, 26 Oct 2026 21:35:28 +0000</pubDate>
+      <category>Science</category>
+      <description>&lt;p&gt;Three new discoveries span mathematics, computer science, and physics, highlighting cross-disciplinary progress in fundamental science. The announcement hints at novel methods and insights that could influence both theory and practice across disciplines.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;宣布涵盖数学、计算机科学与物理学的三项新发现，凸显跨学科合作在基础科学领域的进展。公告暗示可能的新方法与洞见，影响理论到实践的研究路径。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 1143 · 💬 687 · Science&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50251344&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/10/27/top_stories_10272026#story-50251344&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>US Government is hiding a secret court ruling about how it spies on Americans</title>
+      <link>https://www.wired.com/story/the-us-government-is-hiding-a-secret-court-ruling-about-how-it-spies-on-americans/</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50259604</guid>
+      <dc:creator>helterskelter2</dc:creator>
+      <pubDate>Tue, 27 Oct 2026 14:06:42 +0000</pubDate>
+      <category>Politics</category>
+      <category>Privacy</category>
+      <category>Security</category>
+      <category>Legal</category>
+      <description>&lt;p&gt;An undisclosed court ruling governs how the government collects data on Americans, and officials have kept it secret. The ruling highlights ongoing friction between security powers and civil liberties, underscoring the demand for greater transparency and robust oversight.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;尚未公开的法院裁决规定政府如何监控美国民众的数据，相关信息被隐瞒。该裁决暴露出国家安全权力与公民自由之间的矛盾，也凸显对更大透明度和强有力监督的诉求。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 1053 · 💬 423 · Politics · Privacy · Security · Legal&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50259604&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/10/27/top_stories_10272026#story-50259604&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Genie 4</title>
+      <link>https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50261319</guid>
+      <dc:creator>acossta</dc:creator>
+      <pubDate>Tue, 27 Oct 2026 16:06:01 +0000</pubDate>
+      <category>AI</category>
+      <description>&lt;p&gt;Genie 4 from DeepMind represents a leap in world-simulation tech, enabling more realistic, scalable environments for AI training and planning. It aims to accelerate progress in robotics, game AI, and simulation-to-real transfer by providing richer, more controllable environments.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;DeepMind 的 Genie 4 提供更真实、更可控的世界仿真能力，为 AI 训练和规划提供更丰富的环境，有望加速机器人、游戏 AI 以及从仿真到现实的迁移。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 1031 · 💬 583 · AI&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50261319&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/10/29/top_stories_10292026#story-50261319&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Backdoor in Claude Code for VS Code extension on the Cursor Marketplace</title>
+      <link>https://phorion.io/blog/offical-claude-code-vsx-compromise/</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50300683</guid>
+      <dc:creator>_chall</dc:creator>
+      <pubDate>Fri, 30 Oct 2026 07:09:12 +0000</pubDate>
+      <category>Security</category>
+      <category>AI</category>
+      <description>&lt;p&gt;The title reports a backdoor in a Claude Code extension for VS Code distributed through the Cursor Marketplace. The supplied context provides no further reliable details.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;标题称，Cursor Marketplace 上分发的 Claude Code for VS Code 扩展中存在后门。提供的上下文没有更多可靠细节。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 1002 · 💬 553 · Security · AI&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50300683&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/02/top_stories_11022026#story-50300683&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Gemini 4 Carbon</title>
+      <link>https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50276792</guid>
+      <dc:creator>acossta</dc:creator>
+      <pubDate>Wed, 28 Oct 2026 17:01:23 +0000</pubDate>
+      <category>AI</category>
+      <description>&lt;p&gt;Gemini 4 Carbon is Google's latest in the Gemini family, focusing on efficiency and safety with improved inference and reliability for enterprise apps. It demonstrates ongoing progress in AI model scaling, with Carbon as a more efficient variant for dense workloads.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Gemini 4 Carbon 作为谷歌 Gemini 系列的新一代模型，强调在企业应用中的推理效率与安全性提升。该系列继续推动大模型规模化，Carbon 版本在高密度任务中更具效率。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 990 · 💬 791 · AI&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50276792&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/10/28/top_stories_10282026#story-50276792&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Microsoft offers mass buyouts for roughly a quarter of its workforce</title>
+      <link>https://www.seattletimes.com/business/microsoft/microsoft-offers-mass-buyouts-for-roughly-a-quarter-of-its-workforce/</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50245524</guid>
+      <dc:creator>doctorzook</dc:creator>
+      <pubDate>Mon, 26 Oct 2026 15:35:12 +0000</pubDate>
+      <category>Business</category>
+      <category>AI</category>
+      <description>&lt;p&gt;Microsoft is offering voluntary buyouts to roughly a quarter of its workforce, a major headcount reduction without forced layoffs. The move fits into broader tech-sector efficiency drives as AI investments continue and macro pressures persist. It could reshape compensation bands, talent flow, and project prioritization across divisions.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;微软向约四分之一员工提供自愿离职计划，属于不强制裁员的大规模裁员。此举与科技行业的整体效率提升趋势相吻合，AI 投资与宏观压力并行推动成本优化。人力结构、人才流向和项目优先级可能因此调整。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 967 · 💬 949 · Business · AI&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50245524&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/10/27/top_stories_10272026#story-50245524&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Serbia just elected the world's brainiest parliament</title>
+      <link>https://www.science.org/content/article/serbia-just-elected-world-s-brainiest-parliament</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50314654</guid>
+      <dc:creator>input_sh</dc:creator>
+      <pubDate>Sat, 31 Oct 2026 10:21:30 +0000</pubDate>
+      <category>Politics</category>
+      <description>&lt;p&gt;The title reports that Serbia has elected what it calls the world’s brainiest parliament.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;标题称，塞尔维亚刚刚选出了“世界上最聪明的议会”。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 909 · 💬 504 · Politics&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50314654&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/02/top_stories_11022026#story-50314654&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>We should be more ambitious with the software we build</title>
+      <link>https://danluu.com/ambitious/</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50225695</guid>
+      <dc:creator>ltratt</dc:creator>
+      <pubDate>Sat, 24 Oct 2026 21:47:31 +0000</pubDate>
+      <category>Programming</category>
+      <description>&lt;p&gt;Software projects often settle for incremental gains; the piece argues for embracing bigger, riskier problems that unlock substantial leaps. Ambition needs disciplined constraints, longer horizons, and tolerance for failure, but can reshape teams' capabilities and the value they create. Expect practical guidance on bet-sizing, architecture, and collaboration to support bold bets.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;很多软件项目止步于小修小补。作者主张在软件开发上要敢于挑战更大、风险更高的问题，以实现更大的跃迁。实现这种野心需要清晰的约束、长期投入与对失败的容忍，进而改变团队能力与创造的价值。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 892 · 💬 769 · Programming&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50225695&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/10/27/top_stories_10272026#story-50225695&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>An Italian farmer found some unknown seeds in his attic and planted them</title>
+      <link>https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50320963</guid>
+      <dc:creator>ecares</dc:creator>
+      <pubDate>Sat, 31 Oct 2026 22:41:06 +0000</pubDate>
+      <category>Science</category>
+      <description>&lt;p&gt;In the early 1990s, Parma farmer Claudio Grossi found an unidentified sack of seeds that likely belonged to his great-grandfather, who founded the farm around 1915. After he discarded the seeds in manure, several types of wheat unexpectedly sprouted. One variety grew about six feet tall and produced seven ears, unlike the single-ear commercial wheat Grossi knew.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;20 世纪 90 年代初，帕尔马农民克劳迪奥·格罗西发现了一袋无法辨认的种子，可能是其约于 1915 年创建农场的曾祖父留下的。他把种子倒进肥料堆后，几种小麦竟意外发芽。其中一个品种长到约六英尺高，并结出七个麦穗，不同于格罗西熟悉的单穗商业小麦。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 825 · 💬 210 · Science&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50320963&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/02/top_stories_11022026#story-50320963&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The Exponential Time Hypothesis Is False [pdf]</title>
+      <link>https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50251661</guid>
+      <dc:creator>vok</dc:creator>
+      <pubDate>Mon, 26 Oct 2026 21:59:15 +0000</pubDate>
+      <category>Science</category>
+      <description>&lt;p&gt;A new paper argues that the Exponential Time Hypothesis is false, upending a long-standing conditional lower-bound assumption in complexity theory. If ETH fails, widespread implications follow for algorithm design and hardness results, potentially enabling faster solutions for some NP-hard problems.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;一篇新论文提出指数时间假设不成立，动摇了长期支撑 NP 问题下界的核心假设。若 ETH 不再成立，算法设计与复杂性界限将被重新评估，某些 NP-hard 问题或将获得更高效的解法。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 792 · 💬 295 · Science&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50251661&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/10/27/top_stories_10272026#story-50251661&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>StackOverflow now gets fewer than 1000 questions a month</title>
+      <link>https://data.stackexchange.com/stackoverflow/query/1926661#graph?t=1</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50282454</guid>
+      <dc:creator>babelfish</dc:creator>
+      <pubDate>Wed, 28 Oct 2026 23:35:02 +0000</pubDate>
+      <category>Data</category>
+      <description>&lt;p&gt;Stack Overflow now reports fewer than 1,000 questions per month, a dramatic drop that signals a major shift in how developers seek help online. The decline could reflect migration to other communities, changes in data collection, or platform strategy.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Stack Overflow 现每月提问不足一千条，显示开发者在线求助方式的显著转变。下降可能源于迁移到其他社区、数据收集变化或平台策略调整。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 743 · 💬 655 · Data&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50282454&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/10/29/top_stories_10292026#story-50282454&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Sebastian Raschka's from-scratch video course on building reasoning models</title>
+      <link>https://magazine.sebastianraschka.com/p/building-reasoning-models</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50245138</guid>
+      <dc:creator>sgiannopoulos</dc:creator>
+      <pubDate>Mon, 26 Oct 2026 15:11:59 +0000</pubDate>
+      <category>Education</category>
+      <category>AI</category>
+      <description>&lt;p&gt;Renowned ML educator Sebastian Raschka releases a hands-on video course teaching how to build reasoning models from scratch. The course emphasizes end-to-end design, debugging, and practical coding patterns to improve model reasoning capabilities. It provides a useful bridge between theory and implementation for AI researchers and engineers.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;知名机器学习教育者 Sebastian Raschka 推出从零开始构建推理模型的视频课程，聚焦端到端设计与调试。课程强调实际编码模式，帮助提升模型推理能力。对 AI 研究者和工程师来说，这是理论到实现的有用桥梁。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 734 · 💬 101 · Education · AI&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50245138&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/10/27/top_stories_10272026#story-50245138&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8</title>
+      <link>https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50319143</guid>
+      <dc:creator>oger</dc:creator>
+      <pubDate>Sat, 31 Oct 2026 19:16:30 +0000</pubDate>
+      <category>Security</category>
+      <description>&lt;p&gt;CVE-2026-98432 is a critical remote use-after-free vulnerability in Linux's IPv4 TCP handshake, reachable by an unauthenticated network peer. Stable kernels fixed it in October 2026, with patches for versions including 5.10.272 through 7.3, but the flaw dates back to Linux 4.4. At the reported time, Ubuntu still marked every release as vulnerable, while Red Hat listed RHEL 8, 9, and 10 as affected without a fix.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;CVE-2026-98432 是 Linux IPv4 TCP 握手中的严重远程释放后使用漏洞，未经身份验证的网络对端即可触发。稳定版内核已于 2026 年 10 月修复，补丁覆盖 5.10.272 至 7.3 等版本，但该缺陷可追溯至 Linux 4.4。报道所述时间点，Ubuntu 仍将所有版本标为易受攻击，Red Hat 也列出受影响的 RHEL 8、9 和 10，尚未提供修复。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 718 · 💬 329 · Security&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50319143&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/02/top_stories_11022026#story-50319143&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Restrooms along the Norwegian Scenic Routes</title>
+      <link>https://www.visitnorway.com/plan-your-trip/travel-tips-a-z/norwegian-scenic-routes/worlds-best-toilets/</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50324388</guid>
+      <dc:creator>giuliomagnifico</dc:creator>
+      <pubDate>Sun, 01 Nov 2026 10:47:58 +0000</pubDate>
+      <category>Design</category>
+      <description>&lt;p&gt;The restrooms along Norway’s Scenic Routes are presented as architectural landmarks designed to work with the surrounding landscape. Most were designed by established or emerging Norwegian architecture firms. Examples include Snøhetta’s small Eggum stop in Lofoten and Reiulf Ramstad’s facility at Selvika.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;挪威风景公路沿线的卫生间被视为与周围自然环境协调的建筑地标。大多数设施由知名或新兴的挪威建筑事务所设计。例如，罗弗敦群岛 Eggum 休息点由 Snøhetta 设计，Selvika 的设施则由 Reiulf Ramstad 设计。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 692 · 💬 413 · Design&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50324388&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/02/top_stories_11022026#story-50324388&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5</title>
+      <link>https://divagr.com/blog/qwenputer</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50282838</guid>
+      <dc:creator>csmantle</dc:creator>
+      <pubDate>Thu, 29 Oct 2026 00:25:45 +0000</pubDate>
+      <category>Hardware</category>
+      <category>AI</category>
+      <description>&lt;p&gt;Qwenputer reveals a functioning, deterministic RISC-V CPU embedded inside Qwen3.5. The project demonstrates hardware-level determinism within a language-model environment, hinting at reproducible compute and new sandboxing possibilities for AI systems.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Qwenputer 展示了一个在 Qwen3.5 内部实现的可运行且确定性的 RISC-V CPU。此举表明可以在语言模型环境中进行硬件级别的确定性仿真，为可重复计算和 AI 系统的安全沙箱打开新可能。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 668 · 💬 141 · Hardware · AI&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50282838&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/10/29/top_stories_10292026#story-50282838&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>AI isn't replacing SREs, it's deskilling them</title>
+      <link>https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50305693</guid>
+      <dc:creator>dorianniemiec</dc:creator>
+      <pubDate>Fri, 30 Oct 2026 15:52:18 +0000</pubDate>
+      <category>AI</category>
+      <category>DevOps</category>
+      <description>&lt;p&gt;The piece asks whether engineers become less capable when AI handles 95% of incident response, leaving humans with only the most difficult 5%. It argues that a human should remain responsible for carrying out actions, citing a historical example from the US Navy. In novel incidents, the author describes using AI alongside human observation and reasoning to narrow down possible root causes. The result is presented as continued human participation rather than complete replacement.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;文章提出疑问：如果 AI 处理了95%的事故响应，人类只面对最关键的5%，工程师是否会因此变得不那么熟练。文章援引美国海军的历史案例，主张始终应由人类负责执行操作。面对新型事故时，作者会结合自身观察和推理使用 AI，以逐步排除可能的根因。文中描述的是人机协作，而不是完全取代人类。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 662 · 💬 482 · AI · DevOps&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50305693&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/01/top_stories_11012026#story-50305693&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>AI promised less work. I've never worked more</title>
+      <link>https://oioannou.com/blog/ai-promised-less-work/</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50257325</guid>
+      <dc:creator>oorestisime</dc:creator>
+      <pubDate>Tue, 27 Oct 2026 11:08:14 +0000</pubDate>
+      <category>AI</category>
+      <category>Career</category>
+      <description>&lt;p&gt;AI promised to reduce our workload, but real-world use has often done the opposite. The piece traces how integrating AI into daily work creates new bottlenecks—tool fragmentation, data wrangling, and constant monitoring—so total effort climbs rather than falls. For technologists, the takeaway is to redesign workflows to balance human oversight with AI, rather than chasing blind efficiency gains.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;AI 原本承诺能减轻工作量，现实使用却让工作量进一步增加。把 AI 融入日常工作带来工具碎片化、数据整理和持续监控等新负担，导致总投入上升。对技术人员而言，关键在于重新设计工作流，平衡人机协同，而不是盲目追求表面的效率提升。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 656 · 💬 649 · AI · Career&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50257325&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/10/27/top_stories_10272026#story-50257325&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>GPT-6.1 Terra</title>
+      <link>https://openai.com/index/introducing-gpt-6-1-terra/</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50248124</guid>
+      <dc:creator>meetpateltech</dc:creator>
+      <pubDate>Mon, 26 Oct 2026 18:01:17 +0000</pubDate>
+      <category>AI</category>
+      <description>&lt;p&gt;OpenAI releases GPT-6.1 Terra, continuing the model family with improvements in reasoning, safety controls, and developer tooling. The update affects how teams deploy and integrate AI into products, with potential API changes and new capabilities for multi-model orchestration.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;OpenAI 发布 GPT-6.1 Terra，延续模型家族并在推理能力、安全控制和开发者工具方面带来改进。这一更新将影响团队在产品中部署与集成 AI 的方式，可能伴随 API 变更与多模型编排的新功能。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 630 · 💬 425 · AI&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50248124&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/10/27/top_stories_10272026#story-50248124&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>MacBook Pro with PROLED XDR Display and Touch</title>
+      <link>https://www.apple.com/macbook-pro/proled-xdr-display/</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50276940</guid>
+      <dc:creator>etothet</dc:creator>
+      <pubDate>Wed, 28 Oct 2026 17:10:37 +0000</pubDate>
+      <category>Hardware</category>
+      <category>Design</category>
+      <description>&lt;p&gt;Apple unveils a MacBook Pro featuring a new PROLED XDR display and touch input, promising vibrant color, high brightness, and responsive interaction. The move signals a push toward higher-end display tech and more interactive laptops.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;苹果推出搭载全新 PROLED XDR 显示屏与触控输入的 MacBook Pro，承诺带来更丰富的色彩、极高的亮度与灵敏的交互体验，标志着对高端显示技术与触控交互的进一步推进。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 607 · 💬 1052 · Hardware · Design&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50276940&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/10/28/top_stories_10282026#story-50276940&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The $6.3B Binance hack was pulled off in just 20 minutes</title>
+      <link>https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50303172</guid>
+      <dc:creator>domhudson</dc:creator>
+      <pubDate>Fri, 30 Oct 2026 12:50:01 +0000</pubDate>
+      <category>Security</category>
+      <category>Finance</category>
+      <description>&lt;p&gt;Hackers siphoned roughly $6.3 billion in cryptocurrency from wallets belonging to Binance across multiple blockchains in about 20 minutes. Binance suspended deposits and withdrawals and began investigating, while the exchange and other crypto firms said they had frozen around half of the stolen funds. Much of the remaining cryptocurrency may not be recoverable through freezing.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;黑客在约 20 分钟内从币安所属的钱包中跨多个区块链转走了约 63 亿美元的加密货币。币安暂停了存款和提现并展开调查；该交易所及其他加密行业公司称，已冻结约一半被盗资金。剩余的大部分加密货币可能无法通过冻结追回。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 591 · 💬 444 · Security · Finance&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50303172&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/02/top_stories_11022026#story-50303172&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Start Doing Graph Theory</title>
+      <link>https://vertex.degree/</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50208960</guid>
+      <dc:creator>ibobev</dc:creator>
+      <pubDate>Fri, 23 Oct 2026 13:49:50 +0000</pubDate>
+      <category>Education</category>
+      <category>Security</category>
+      <description>&lt;p&gt;A practical nudge to dive into graph theory, highlighting how graphs underpin networks, algorithms, and data structures. The piece outlines intuitions, common pitfalls, and approachable starting points—paths, connectivity, flows—to build powerful problem-solving habits. Grasping graph concepts can sharpen software design, optimization, and security analysis.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;文章鼓励直接入门图论，强调图在网络、算法与数据结构中的核心作用。给出直观要点与易上手的起始主题（如路经、连通性、流等），以培养强大的问题解决思维。掌握图论对软件设计、优化与安全分析都有帮助。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 582 · 💬 126 · Education · Security&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50208960&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/10/28/top_stories_10282026#story-50208960&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Anthropic trained Claude on illegally obtained Stanford professors' books</title>
+      <link>https://stanforddaily.com/2026/10/27/professors-books-pirated-to-train-claude/</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50260814</guid>
+      <dc:creator>car</dc:creator>
+      <pubDate>Tue, 27 Oct 2026 15:28:26 +0000</pubDate>
+      <category>Legal</category>
+      <category>AI</category>
+      <description>&lt;p&gt;Anthropic reportedly trained Claude on pirated books from Stanford professors, raising ethics concerns and potential legal risks.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;据报道，Anthropic 使用了从斯坦福教授处非法获取的书籍来训练 Claude，这引发伦理担忧并可能带来法律风险。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 559 · 💬 282 · Legal · AI&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50260814&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/10/27/top_stories_10272026#story-50260814&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Python's experimental JIT to be removed</title>
+      <link>https://lwn.net/SubscriberLink/1102102/0c00e4d550f25f8c/</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50257419</guid>
+      <dc:creator>f311a</dc:creator>
+      <pubDate>Tue, 27 Oct 2026 11:17:57 +0000</pubDate>
+      <category>Programming</category>
+      <description>&lt;p&gt;The Python core developers plan to remove the experimental JIT after evaluating its benefits and maintenance burden. The decision suggests Python will focus on language-level optimizations and alternative runtimes, while users needing JIT performance should rely on projects like PyPy or other tooling.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;CPython 的实验性 JIT 将被移除，原因在于实际收益不足以覆盖维护成本。这意味着 Python 将继续以解释器层优化为主，用户若需要 JIT 性能可转向 PyPy 等替代实现。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 555 · 💬 309 · Programming&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50257419&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/10/27/top_stories_10272026#story-50257419&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Claude Code regularly sends each background agent’s transcript to its model</title>
+      <link>https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50284255</guid>
+      <dc:creator>NikZaal</dc:creator>
+      <pubDate>Thu, 29 Oct 2026 03:33:42 +0000</pubDate>
+      <category>Privacy</category>
+      <category>Data</category>
+      <category>AI</category>
+      <description>&lt;p&gt;Claude Code transmits each background agent’s transcripts to its model, raising privacy and data-use concerns for developers. This telemetry behavior highlights how data sharing can impact confidentiality in code tools.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Claude Code 会将后台代理的对话记录发送给模型，引发隐私与数据使用方面的担忧。此类遥测行为凸显了代码工具在数据共享方面的潜在风险。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 536 · 💬 216 · Privacy · Data · AI&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50284255&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/10/28/top_stories_10282026#story-50284255&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Survival LLM: AI assistant and emergency library that runs on your own computer</title>
+      <link>https://www.brangus.io/survival-llm</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50264853</guid>
+      <dc:creator>Luc</dc:creator>
+      <pubDate>Tue, 27 Oct 2026 19:55:06 +0000</pubDate>
+      <category>AI</category>
+      <category>Privacy</category>
+      <description>&lt;p&gt;Survival LLM provides an AI assistant and an offline knowledge library that runs entirely on your own computer. This design emphasizes privacy, resilience, and disaster-scenario readiness, letting teams access critical information without cloud dependence.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Survival LLM 提供一个可在本地运行的 AI 助手和应急知识库，完全在本地计算机上运作。此设计强调隐私与韧性，支持在没有云端的情况下访问关键信息，提升灾害情景下的可用性。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 535 · 💬 200 · AI · Privacy&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50264853&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/10/28/top_stories_10282026#story-50264853&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Oldest GUI application that still runs on Windows 11</title>
+      <link>https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11/</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50248055</guid>
+      <dc:creator>enlyth</dc:creator>
+      <pubDate>Mon, 26 Oct 2026 17:56:55 +0000</pubDate>
+      <category>Programming</category>
+      <description>&lt;p&gt;A legacy GUI application still running on Windows 11 demonstrates the platform's backward compatibility strengths.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;一款极早的 GUI 应用仍能在 Windows 11 上正常运行，展示了该平台对旧软件的向后兼容性。文章讨论了仿真与兼容性机制如何让遗留应用继续可用，并对 IT 战略和长期软件支持有何影响。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 535 · 💬 325 · Programming&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50248055&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/10/27/top_stories_10272026#story-50248055&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Birdwatching rewires the brain and slows cognitive decline</title>
+      <link>https://www.bbc.com/future/article/20261019-birdwatching-rewires-the-brain-and-slows-cognitive-decline</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50215997</guid>
+      <dc:creator>cisc</dc:creator>
+      <pubDate>Fri, 23 Oct 2026 22:04:55 +0000</pubDate>
+      <category>Science</category>
+      <category>Health</category>
+      <description>&lt;p&gt;Watching birds engages attention and memory networks, promoting neuroplasticity in aging brains. Emerging evidence suggests nature-based, cognitively engaging hobbies may help slow cognitive decline and support mental well-being.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;观鸟能激活大脑的注意力与记忆网络，促进老年人群的神经可塑性。日益增多的证据表明，参与自然和认知挑战性的爱好可能有助于减缓认知衰退并提升心理健康。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 532 · 💬 207 · Science · Health&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50215997&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/10/27/top_stories_10272026#story-50215997&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The Grid, a factory-scale robot in Massachusetts that builds PCBs on demand</title>
+      <link>https://www.circuithub.com/post/unveiling-the-grid</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50243060</guid>
+      <dc:creator>seddona</dc:creator>
+      <pubDate>Mon, 26 Oct 2026 13:13:31 +0000</pubDate>
+      <category>Hardware</category>
+      <category>Business</category>
+      <description>&lt;p&gt;Describes a factory-scale robotic system that fabricates PCBs on demand, signaling progress toward distributed, on‑demand manufacturing. It raises questions about throughput, quality control, and the economics of localized PCB production.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;介绍一套支持按需制造 PCB 的工厂级机器人系统，显示出分布式、按需生产的潜力。引发对产能、质控和本地化 PCB 生产经济性的讨论。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 517 · 💬 232 · Hardware · Business&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50243060&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/10/29/top_stories_10292026#story-50243060&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>CNC Stone Carving</title>
+      <link>https://carmelitegothic.com/cnc-stone-carving/</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50274409</guid>
+      <dc:creator>bschne</dc:creator>
+      <pubDate>Wed, 28 Oct 2026 14:38:22 +0000</pubDate>
+      <category>Hardware</category>
+      <category>Design</category>
+      <description>&lt;p&gt;CNC stone carving blends automation with traditional craftsmanship, enabling precise, repeatable stonework for architecture and sculpture.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;CNC 石材雕刻将自动化与传统工艺结合，实现建筑与雕塑领域的高精度、可重复加工。内容涵盖工作流、工具选型以及材料要点，以提升雕刻质量。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 515 · 💬 142 · Hardware · Design&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50274409&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/10/28/top_stories_10282026#story-50274409&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Emacs Turns 50</title>
+      <link>https://www.technologyreview.com/2026/10/20/1145399/emacs-turns-50/</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50273171</guid>
+      <dc:creator>internet_points</dc:creator>
+      <pubDate>Wed, 28 Oct 2026 13:25:11 +0000</pubDate>
+      <category>Programming</category>
+      <description>&lt;p&gt;Emacs turns 50, celebrating half a century of extensible, Lisp-based text editing that has influenced code editors and development workflows. Despite aging interfaces, its ecosystem endures through deep customization and a dedicated user base.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Emacs迎来50周年，庆祝这款基于 Lisp 的可扩展文本编辑器在代码编辑和开发工作流中的长期影响力。尽管界面相对陈旧，其通过深度定制和忠实用户群体仍保持生态活力。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 507 · 💬 226 · Programming&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50273171&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/10/28/top_stories_10282026#story-50273171&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>LLM Voice</title>
+      <link>https://martinfowler.com/bliki/LLM-Voice.html</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50290177</guid>
+      <dc:creator>ibobev</dc:creator>
+      <pubDate>Thu, 29 Oct 2026 14:57:55 +0000</pubDate>
+      <category>AI</category>
+      <description>&lt;p&gt;LLM Voice examines how language models function in voice-based interfaces, separate from text prompts, emphasizing the need to address speech recognition, latency, and user expectations. It argues for treating voice as a distinct modality with tailored UX and safety considerations.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;LLM 在语音场景中的交互方式需要和文本输入不同的设计原则。本文强调处理语音识别、延迟和用户预期的重要性，并提出面向语音的 UX 和安全性设计要点。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 506 · 💬 265 · AI&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50290177&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/10/30/top_stories_10302026#story-50290177&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Lenovo's 'encrypted' fingerprint USB is just an unencrypted SD card in a case</title>
+      <link>https://www.reddit.com/r/technology/comments/1xl2pr3/lenovos_encrypted_fingerprint_usb_drive_is_just/</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50326099</guid>
+      <dc:creator>entryleveljobsc</dc:creator>
+      <pubDate>Sun, 01 Nov 2026 14:34:43 +0000</pubDate>
+      <category>Security</category>
+      <category>Hardware</category>
+      <description>&lt;p&gt;The title alleges that Lenovo’s fingerprint-protected USB device is not an encrypted drive, but an unencrypted SD card placed inside a casing. It identifies a potential mismatch between the product’s security description and its underlying storage design.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;标题指称，联想这款受指纹保护的 USB 设备并非加密硬盘，而只是装在外壳中的未加密 SD 卡。这表明产品的安全描述可能与其底层存储设计不一致。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 494 · 💬 166 · Security · Hardware&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50326099&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/02/top_stories_11022026#story-50326099&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>CSS-Tricks has a new owner</title>
+      <link>https://css-tricks.com/css-tricks-has-a-new-owner/</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50245831</guid>
+      <dc:creator>edent</dc:creator>
+      <pubDate>Mon, 26 Oct 2026 15:51:23 +0000</pubDate>
+      <category>Design</category>
+      <category>Web</category>
+      <description>&lt;p&gt;CSS-Tricks, the long-running web design site, has changed ownership, hinting at possible shifts in editorial voice, monetization, or product strategy. The buyer’s priorities may influence tutorials, paid content, and community engagement. Existing readers will watch for changes in tone and quality.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;长期运营的网页设计站点 CSS-Tricks 完成易主，可能带来编辑风格、商业化或产品策略的变化。买家的重点将影响教程、付费内容和社区互动。读者将关注语气、内容质量的变化。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 494 · 💬 106 · Design · Web&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50245831&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/10/27/top_stories_10272026#story-50245831&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Wikipedia's Cleanup of AI-Generated Content</title>
+      <link>https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50257326</guid>
+      <dc:creator>rbanffy</dc:creator>
+      <pubDate>Tue, 27 Oct 2026 11:08:15 +0000</pubDate>
+      <category>AI</category>
+      <category>Culture</category>
+      <description>&lt;p&gt;Wikipedia launches a cleanup initiative aimed at AI-generated edits, emphasizing provenance and reliable sourcing. The move highlights governance questions for large collaborative knowledge projects as AI-assisted contributions grow.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;维基百科启动针对 AI 生成内容的清理行动，强调来源证明与可靠的引用。随着 AI 助力的投稿增多，这项举措凸显了大型协作知识库在治理方面的挑战。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 493 · 💬 227 · AI · Culture&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50257326&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/10/27/top_stories_10272026#story-50257326&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Kentucky man becomes the first humanist granted religious exemption from AI</title>
+      <link>https://religionnews.com/2026/10/26/in-a-first-a-humanist-granted-a-religious-exemption-from-using-ai/</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50273396</guid>
+      <dc:creator>danso</dc:creator>
+      <pubDate>Wed, 28 Oct 2026 13:41:30 +0000</pubDate>
+      <category>Legal</category>
+      <category>AI</category>
+      <category>Politics</category>
+      <description>&lt;p&gt;A Kentucky humanist obtained a religious exemption to use AI, marking a notable legal milestone in how religious beliefs intersect with workplace AI policies. The decision signals how courts and regulators may rethink AI usage rules in diverse belief systems.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;肯塔基一位人文主义者获得了使用 AI 的宗教豁免，这是宗教信仰与工作场所 AI 使用规则交叉的一个重要里程碑。此举可能推动对 AI 使用政策在不同信仰体系中的再考量。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 479 · 💬 514 · Legal · AI · Politics&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50273396&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/10/28/top_stories_10282026#story-50273396&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Postgres 19 is late because so many more bugs are being found now</title>
+      <link>http://rhaas.blogspot.com/2026/10/postgres-19-is-late-and-its-ais-fault.html</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50312408</guid>
+      <dc:creator>soheilpro</dc:creator>
+      <pubDate>Sat, 31 Oct 2026 01:38:56 +0000</pubDate>
+      <category>Programming</category>
+      <description>&lt;p&gt;Postgres 19 is late because many more bugs are being found during development. The title identifies the delay and attributes it to the increased discovery of defects.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Postgres 19 的发布出现延期，原因是开发过程中发现的错误数量大幅增加。标题将这次延迟归因于缺陷发现增多。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 478 · 💬 301 · Programming&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50312408&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/02/top_stories_11022026#story-50312408&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Northflank Breached</title>
+      <link>https://status.northflank.com</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50305025</guid>
+      <dc:creator>js4ever</dc:creator>
+      <pubDate>Fri, 30 Oct 2026 15:10:31 +0000</pubDate>
+      <category>Security</category>
+      <category>DevOps</category>
+      <description>&lt;p&gt;Northflank says secret rotation for MySQL and Redis is now available to all customers and advises customers to rotate secrets if they have not already. It has also enabled audit logs for all customers, including free users.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Northflank 表示，所有客户现在都可以轮换 MySQL 和 Redis 密钥，并建议尚未操作的客户立即轮换。该平台还为包括免费用户在内的所有客户启用了审计日志。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 477 · 💬 361 · Security · DevOps&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50305025&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/01/top_stories_11012026#story-50305025&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Roblox downloaded 145GB models from us (including adult content) without asking</title>
+      <link>https://open3dlab.com/news/roblox-downloaded-145-gb-of-models-from-our-sites/</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50256985</guid>
+      <dc:creator>choult</dc:creator>
+      <pubDate>Tue, 27 Oct 2026 10:27:50 +0000</pubDate>
+      <category>Gaming</category>
+      <category>Privacy</category>
+      <description>&lt;p&gt;Roblox clients downloaded 145GB of user-uploaded 3D models without permission, including adult content. This underscores challenges around asset provenance and moderation on large user-generated platforms, and highlights the need for stronger safeguards and provenance tracking in download flows.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Roblox 客户端未获同意便下载了约145GB的用户上传3D模型，其中还包含成人内容。这突显了大规模用户生成内容平台在资产溯源和分发治理方面的难题，需要加强下载保护与溯源机制。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 477 · 💬 271 · Gaming · Privacy&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50256985&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/10/27/top_stories_10272026#story-50256985&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Anthropic blocks users for anything touching training larger models</title>
+      <link>https://twitter.com/jiahaoshao1/status/2116475922190922088</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50319358</guid>
+      <dc:creator>pretext</dc:creator>
+      <pubDate>Sat, 31 Oct 2026 19:39:19 +0000</pubDate>
+      <category>AI</category>
+      <category>Legal</category>
+      <category>Open Source</category>
+      <description>&lt;p&gt;A user says Anthropic blocked their account after flagging work involving reinforcement fine-tuning, supervised fine-tuning, or training larger models as “training a competitor.” The user says Claude only helped submit jobs and analyze results, while the rollouts came from an open-source model. They also report being downgraded from Opus 5.5.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;一名用户称，Anthropic 将其涉及强化微调、监督微调或训练更大模型的工作标记为“训练竞争对手”，并屏蔽了其账户。该用户表示，Claude 只帮助提交任务和分析结果，实际生成过程使用的是开源模型。用户还称自己的账户被降级，无法继续使用 Opus 5.5。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 471 · 💬 262 · AI · Legal · Open Source&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50319358&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/02/top_stories_11022026#story-50319358&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>DoorDash to acquire Instacart</title>
+      <link>https://about.doordash.com/en-us/news/doordash-to-acquire-instacart</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50287919</guid>
+      <dc:creator>WalterSobchak</dc:creator>
+      <pubDate>Thu, 29 Oct 2026 12:33:05 +0000</pubDate>
+      <category>Business</category>
+      <category>Legal</category>
+      <description>&lt;p&gt;DoorDash announced plans to acquire Instacart, creating a larger player in on-demand grocery delivery. The merger could reshape competition, pricing, and last-mile logistics, while triggering antitrust scrutiny and integration challenges for both platforms.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;DoorDash 宣布收购 Instacart，将打造更强的即时送货生态。合并可能改变市场竞争格局、定价与末端配送效率，同时面临潜在的反垄断审查和整合挑战。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 471 · 💬 632 · Business · Legal&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50287919&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/10/30/top_stories_10302026#story-50287919&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,2292 @@
+{
+  "meta": {
+    "mode": "top",
+    "source": "https://news.ycombinator.com/",
+    "api": "https://github.com/HackerNews/API",
+    "count_requested": 50,
+    "count_written": 100,
+    "reused_same_day": 37,
+    "reused_cross_day": 0,
+    "new_llm_enriched": 13,
+    "scrape_time_display": "17:49, October 27, 2026 (PDT)",
+    "timezone": "America/Los_Angeles",
+    "date_dir": "2026/10/27",
+    "content_date": "2026-10-27",
+    "run_time_local": "17:49, October 27, 2026 (PDT)",
+    "run_time_utc": "2026-10-28 00:49:08 UTC",
+    "incremental": true,
+    "stories_max": 100,
+    "hot_score_time_utc": "2026-10-28 00:50:23 UTC"
+  },
+  "items": [
+    {
+      "title_en": "Ghostty 1.4",
+      "url": "https://ghostty.org/docs/install/release-notes/1-4-0",
+      "title_zh": "Ghostty 1.4.0 版本发布",
+      "created_display": "Created: Oct 27, 2026 / 09:51 PT",
+      "image_url": "https://ghostty.org/social-share-card.jpg",
+      "summary_en": "Ghostty 1.4.0 marks an incremental release, bringing new features and bug fixes to the project.",
+      "summary_zh": "Ghostty 1.4.0 标志着一次增量更新，带来新功能和错误修复。",
+      "hn": {
+        "id": 50261998,
+        "type": "story",
+        "by": "deaux",
+        "score": 721,
+        "descendants": 220,
+        "time": 1793119882,
+        "comments_url": "https://news.ycombinator.com/item?id=50261998"
+      },
+      "tags": [
+        "Programming"
+      ],
+      "hot_score": 11.44
+    },
+    {
+      "title_en": "Genie 4",
+      "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
+      "title_zh": "Genie 4：世界仿真的新一代",
+      "created_display": "Created: Oct 27, 2026 / 09:06 PT",
+      "image_url": "https://lh3.googleusercontent.com/i7iotPkcMbMubxRzAdriO5wsIsowROonBvjLNnmPbOaRgEb1k4LKTBqay5VrcPpZi0R4il_bYCCsPYQ0Gy_-XbAw66azAGEfE-E6_9Izz5apP0BMJVE=w1200-h630-n-nu-rw",
+      "summary_en": "Genie 4 from DeepMind represents a leap in world-simulation tech, enabling more realistic, scalable environments for AI training and planning. It aims to accelerate progress in robotics, game AI, and simulation-to-real transfer by providing richer, more controllable environments.",
+      "summary_zh": "DeepMind 的 Genie 4 提供更真实、更可控的世界仿真能力，为 AI 训练和规划提供更丰富的环境，有望加速机器人、游戏 AI 以及从仿真到现实的迁移。",
+      "hn": {
+        "id": 50261319,
+        "type": "story",
+        "by": "acossta",
+        "score": 701,
+        "descendants": 424,
+        "time": 1793117161,
+        "comments_url": "https://news.ycombinator.com/item?id=50261319"
+      },
+      "tags": [
+        "AI"
+      ],
+      "hot_score": 9.76
+    },
+    {
+      "title_en": "US Government is hiding a secret court ruling about how it spies on Americans",
+      "url": "https://www.wired.com/story/the-us-government-is-hiding-a-secret-court-ruling-about-how-it-spies-on-americans/",
+      "title_zh": "美国政府隐瞒关于监控美国人的秘密法院裁决",
+      "created_display": "Created: Oct 27, 2026 / 07:06 PT",
+      "image_url": "https://media.wired.com/photos/6adbe0039bde53c96a68d73b/191:100/w_1280,c_limit/Security_Trump%20Officials%20are%20Sitting%20on%20a%20Secret%20Surveillance%20Court%20Ruling_v1.jpg",
+      "summary_en": "An undisclosed court ruling governs how the government collects data on Americans, and officials have kept it secret. The ruling highlights ongoing friction between security powers and civil liberties, underscoring the demand for greater transparency and robust oversight.",
+      "summary_zh": "尚未公开的法院裁决规定政府如何监控美国民众的数据，相关信息被隐瞒。该裁决暴露出国家安全权力与公民自由之间的矛盾，也凸显对更大透明度和强有力监督的诉求。",
+      "hn": {
+        "id": 50259604,
+        "type": "story",
+        "by": "helterskelter2",
+        "score": 768,
+        "descendants": 274,
+        "time": 1793110002,
+        "comments_url": "https://news.ycombinator.com/item?id=50259604"
+      },
+      "tags": [
+        "Privacy",
+        "Politics",
+        "Security",
+        "Legal"
+      ],
+      "hot_score": 7.87
+    },
+    {
+      "title_en": "Anthropic trained Claude on illegally obtained Stanford professors' books",
+      "url": "https://stanforddaily.com/2026/10/27/professors-books-pirated-to-train-claude/",
+      "title_zh": "Anthropic 在 Claude 的训练中使用了非法获得的斯坦福教授书籍",
+      "created_display": "Created: Oct 27, 2026 / 08:28 PT",
+      "image_url": "https://stanforddaily.com/wp-content/uploads/2026/10/Green-Library.png",
+      "summary_en": "Anthropic reportedly trained Claude on pirated books from Stanford professors, raising ethics concerns and potential legal risks.",
+      "summary_zh": "据报道，Anthropic 使用了从斯坦福教授处非法获取的书籍来训练 Claude，这引发伦理担忧并可能带来法律风险。",
+      "hn": {
+        "id": 50260814,
+        "type": "story",
+        "by": "car",
+        "score": 448,
+        "descendants": 256,
+        "time": 1793114906,
+        "comments_url": "https://news.ycombinator.com/item?id=50260814"
+      },
+      "tags": [
+        "AI",
+        "Legal"
+      ],
+      "hot_score": 5.63
+    },
+    {
+      "title_en": "Tailscale SSH: Investigation and remediation update",
+      "url": "https://tailscale.com/ssh-investigation-update",
+      "title_zh": "Tailscale SSH：调查进展与整改更新",
+      "created_display": "Created: Oct 27, 2026 / 12:55 PT",
+      "image_url": "https://tailscale.com/files/images/og-image.png",
+      "summary_en": "Tailscale has published an investigation update on a security incident affecting its SSH feature. The update outlines the root cause, affected components, and remediation steps, including patches and credential rotation. The incident underscores the importance of timely updates and access-control hygiene in zero-trust environments.",
+      "summary_zh": "Tailscale 已发布关于影响其 SSH 功能的安全事件调查更新。更新概述了根本原因、受影响的组件与整改措施，包括补丁与凭证轮换。此事件凸显在零信任环境中及时更新和访问控制的重要性。",
+      "hn": {
+        "id": 50264857,
+        "type": "story",
+        "by": "figmert",
+        "score": 176,
+        "descendants": 100,
+        "time": 1793130921,
+        "comments_url": "https://news.ycombinator.com/item?id=50264857"
+      },
+      "tags": [
+        "Security"
+      ],
+      "hot_score": 5.38
+    },
+    {
+      "title_en": "Discord will soon let anyone find public server messages through Google",
+      "url": "https://discord.com/blog/making-content-from-discoverable-servers-easier-to-discover",
+      "title_zh": "Discord 即将允许通过 Google 搜索公开服务器消息",
+      "created_display": "Created: Oct 27, 2026 / 11:44 PT",
+      "image_url": "https://cdn.prod.website-files.com/5f9072399b2640f14d6a2bf4/6ad92479d769414a9fb9c916_bloghero_1800x720.png",
+      "summary_en": "Discord plans to make content from discoverable servers indexable by Google, improving discoverability but raising moderation and privacy concerns.",
+      "summary_zh": "Discord 将使公开服务器的内容可被 Google 索引，提升可发现性，但也引发监管与隐私方面的担忧。",
+      "hn": {
+        "id": 50263854,
+        "type": "story",
+        "by": "DeepLogin",
+        "score": 228,
+        "descendants": 128,
+        "time": 1793126657,
+        "comments_url": "https://news.ycombinator.com/item?id=50263854"
+      },
+      "tags": [
+        "Web",
+        "Privacy"
+      ],
+      "hot_score": 5.25
+    },
+    {
+      "title_en": "Police are using AI to pull over drivers for 'suspicious' behavior",
+      "url": "https://gizmodo.com/police-are-using-ai-to-pull-over-drivers-for-suspicious-behavior-2000831220",
+      "title_zh": "警方正在使用 AI 以可疑行为拦车",
+      "created_display": "Created: Oct 27, 2026 / 09:40 PT",
+      "image_url": null,
+      "summary_en": "Law enforcement agencies are deploying AI systems to flag suspicious driving patterns and pull people over. The approach raises civil liberties concerns, potential bias, and questions about accountability and accuracy in real-world use.",
+      "summary_zh": "执法机构正在部署 AI 系统以标记可疑的驾驶模式并拦下车辆。这种做法引发公民自由、潜在偏见以及现实应用中的问责与准确性等问题。",
+      "hn": {
+        "id": 50261819,
+        "type": "story",
+        "by": "gumby",
+        "score": 336,
+        "descendants": 269,
+        "time": 1793119215,
+        "comments_url": "https://news.ycombinator.com/item?id=50261819"
+      },
+      "tags": [
+        "AI",
+        "Privacy",
+        "Politics"
+      ],
+      "hot_score": 5.15
+    },
+    {
+      "title_en": "Survival LLM: AI assistant and emergency library that runs on your own computer",
+      "url": "https://www.brangus.io/survival-llm",
+      "title_zh": "Survival LLM：可在本地运行的 AI 助手与应急知识库",
+      "created_display": "Created: Oct 27, 2026 / 12:55 PT",
+      "image_url": "https://www.brangus.io/survival-llm/social-card.png",
+      "summary_en": "Survival LLM provides an AI assistant and an offline knowledge library that runs entirely on your own computer. This design emphasizes privacy, resilience, and disaster-scenario readiness, letting teams access critical information without cloud dependence.",
+      "summary_zh": "Survival LLM 提供一个可在本地运行的 AI 助手和应急知识库，完全在本地计算机上运作。此设计强调隐私与韧性，支持在没有云端的情况下访问关键信息，提升灾害情景下的可用性。",
+      "hn": {
+        "id": 50264853,
+        "type": "story",
+        "by": "Luc",
+        "score": 160,
+        "descendants": 94,
+        "time": 1793130906,
+        "comments_url": "https://news.ycombinator.com/item?id=50264853"
+      },
+      "tags": [
+        "AI",
+        "Privacy"
+      ],
+      "hot_score": 4.89
+    },
+    {
+      "title_en": "Early progress on accelerating drug development with Claude",
+      "url": "https://www.anthropic.com/research/early-progress-drug-development",
+      "title_zh": "使用 Claude 加速药物开发的初步进展",
+      "created_display": "Created: Oct 27, 2026 / 13:50 PT",
+      "image_url": "https://www-cdn.anthropic.com/images/4zrzovbb/website/6a50f5ba4c0931f8d2c411f26d860955c1efeae7-1200x630.jpg",
+      "summary_en": "Early results show Claude assisting with drug development tasks such as literature synthesis, hypothesis generation, and experimental design. While promising, the work highlights ongoing questions about reliability, regulatory compliance, and the need for human oversight in AI-augmented drug discovery.",
+      "summary_zh": "初步结果显示 Claude 能协助药物开发任务，如文献综述、假设生成和实验设计。前景虽乐观，但也暴露在可靠性、监管合规性，以及 AI 辅助药物发现需人类监督等方面的持续问题。",
+      "hn": {
+        "id": 50265609,
+        "type": "story",
+        "by": "dataking",
+        "score": 109,
+        "descendants": 93,
+        "time": 1793134242,
+        "comments_url": "https://news.ycombinator.com/item?id=50265609"
+      },
+      "tags": [
+        "AI",
+        "Health",
+        "Politics"
+      ],
+      "hot_score": 4.3
+    },
+    {
+      "title_en": "New 14‑inch MacBook Pro with M6",
+      "url": "https://www.apple.com/in/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/",
+      "title_zh": "苹果推出新款 14 吋 MacBook Pro，配备 M6",
+      "created_display": "Created: Oct 27, 2026 / 09:08 PT",
+      "image_url": "https://www.apple.com/newsroom/images/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/tile/Apple-MacBook-Pro-14-in-with-M6-hero-261027-lp.jpg.og.jpg?202610271357",
+      "summary_en": "Apple unveils the 14-inch MacBook Pro with the M6, highlighting performance gains, display improvements, and efficiency, continuing the high-end laptop lineup.",
+      "summary_zh": "苹果发布搭载 M6 的 14 吋 MacBook Pro，强调性能提升、显示效果与能效优化，丰富了高端笔记本产品线。",
+      "hn": {
+        "id": 50261352,
+        "type": "story",
+        "by": "beex",
+        "score": 275,
+        "descendants": 327,
+        "time": 1793117312,
+        "comments_url": "https://news.ycombinator.com/item?id=50261352"
+      },
+      "tags": [
+        "Hardware"
+      ],
+      "hot_score": 3.85
+    },
+    {
+      "title_en": "Amazon Is Gutting Its AI Division After Sustained Failure",
+      "url": "https://futurism.com/artificial-intelligence/amazon-ai-division-failure-nova",
+      "title_zh": "亚马逊在持续失败后缩减其 AI 部门",
+      "created_display": "Created: Oct 27, 2026 / 09:25 PT",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/07/amazon-gutting-ai-division-failure.jpg?w=1200",
+      "summary_en": "Amazon is downsizing its AI division after sustained underperformance, signaling a strategic rethink and resource reallocation.",
+      "summary_zh": "亚马逊在持续表现不佳后缩减 AI 部门，标志着其策略性调整与资源再分配。",
+      "hn": {
+        "id": 50261589,
+        "type": "story",
+        "by": "dpflan",
+        "score": 241,
+        "descendants": 147,
+        "time": 1793118330,
+        "comments_url": "https://news.ycombinator.com/item?id=50261589"
+      },
+      "tags": [
+        "Business",
+        "AI"
+      ],
+      "hot_score": 3.54
+    },
+    {
+      "title_en": "Raspberry Pi Zero 3W and Pi 4 Model A spotted in device trees",
+      "url": "https://bret.dk/raspberry-pi-zero-3-w-pi-4-model-a/",
+      "title_zh": "在设备树中发现 Raspberry Pi Zero 3W 与 Pi 4 Model A",
+      "created_display": "Created: Oct 27, 2026 / 13:48 PT",
+      "image_url": "https://bret.dk/wp-content/uploads/2026/10/image.png",
+      "summary_en": "Device tree entries hint at two new Raspberry Pi models: Zero 3W and Pi 4 Model A. If launched, they would extend the ultra-accessible, low-power lineup with new specs and price points, affecting hobbyists and edge deployments.",
+      "summary_zh": "设备树中出现 Raspberry Pi Zero 3W 与 Pi 4 Model A 的迹象。若推出，将拓展极具性价比的低功耗阵容，并带来新的规格与定价，或影响爱好者与边缘计算场景。",
+      "hn": {
+        "id": 50265594,
+        "type": "story",
+        "by": "sthlmb",
+        "score": 86,
+        "descendants": 32,
+        "time": 1793134129,
+        "comments_url": "https://news.ycombinator.com/item?id=50265594"
+      },
+      "tags": [
+        "Hardware"
+      ],
+      "hot_score": 3.35
+    },
+    {
+      "title_en": "Python's experimental JIT to be removed",
+      "url": "https://lwn.net/SubscriberLink/1102102/0c00e4d550f25f8c/",
+      "title_zh": "Python 实验性 JIT 将被移除",
+      "created_display": "Created: Oct 27, 2026 / 04:17 PT",
+      "image_url": "https://static.lwn.net/images/logo/barepenguin-70.webp",
+      "summary_en": "The Python core developers plan to remove the experimental JIT after evaluating its benefits and maintenance burden. The decision suggests Python will focus on language-level optimizations and alternative runtimes, while users needing JIT performance should rely on projects like PyPy or other tooling.",
+      "summary_zh": "CPython 的实验性 JIT 将被移除，原因在于实际收益不足以覆盖维护成本。这意味着 Python 将继续以解释器层优化为主，用户若需要 JIT 性能可转向 PyPy 等替代实现。",
+      "hn": {
+        "id": 50257419,
+        "type": "story",
+        "by": "f311a",
+        "score": 438,
+        "descendants": 233,
+        "time": 1793099877,
+        "comments_url": "https://news.ycombinator.com/item?id=50257419"
+      },
+      "tags": [
+        "Programming"
+      ],
+      "hot_score": 3.13
+    },
+    {
+      "title_en": "Wikipedia's Cleanup of AI-Generated Content",
+      "url": "https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup",
+      "title_zh": "维基百科对 AI 生成内容的清理",
+      "created_display": "Created: Oct 27, 2026 / 04:08 PT",
+      "image_url": "https://spectrum.ieee.org/media-library/surreal-collage-of-a-womans-face-with-geometric-shapes-pencil-and-wikipedia-globe.png?id=68486571&width=1200&height=600&coordinates=0%2C167%2C0%2C168",
+      "summary_en": "Wikipedia launches a cleanup initiative aimed at AI-generated edits, emphasizing provenance and reliable sourcing. The move highlights governance questions for large collaborative knowledge projects as AI-assisted contributions grow.",
+      "summary_zh": "维基百科启动针对 AI 生成内容的清理行动，强调来源证明与可靠的引用。随着 AI 助力的投稿增多，这项举措凸显了大型协作知识库在治理方面的挑战。",
+      "hn": {
+        "id": 50257326,
+        "type": "story",
+        "by": "rbanffy",
+        "score": 443,
+        "descendants": 203,
+        "time": 1793099295,
+        "comments_url": "https://news.ycombinator.com/item?id=50257326"
+      },
+      "tags": [
+        "AI",
+        "Legal"
+      ],
+      "hot_score": 3.11
+    },
+    {
+      "title_en": "Roblox downloaded 145GB models from us (including adult content) without asking",
+      "url": "https://open3dlab.com/news/roblox-downloaded-145-gb-of-models-from-our-sites/",
+      "title_zh": "Roblox 未经授权从我们的网站下载了145GB模型（含成人内容）",
+      "created_display": "Created: Oct 27, 2026 / 03:27 PT",
+      "image_url": "https://thumbcdn.open3dlab.com/newsitem/3200w.webp",
+      "summary_en": "Roblox clients downloaded 145GB of user-uploaded 3D models without permission, including adult content. This underscores challenges around asset provenance and moderation on large user-generated platforms, and highlights the need for stronger safeguards and provenance tracking in download flows.",
+      "summary_zh": "Roblox 客户端未获同意便下载了约145GB的用户上传3D模型，其中还包含成人内容。这突显了大规模用户生成内容平台在资产溯源和分发治理方面的难题，需要加强下载保护与溯源机制。",
+      "hn": {
+        "id": 50256985,
+        "type": "story",
+        "by": "choult",
+        "score": 446,
+        "descendants": 266,
+        "time": 1793096870,
+        "comments_url": "https://news.ycombinator.com/item?id=50256985"
+      },
+      "tags": [
+        "Privacy",
+        "Data"
+      ],
+      "hot_score": 2.9
+    },
+    {
+      "title_en": "A 28-Year-Old DOGE Operative Gutted USAID. HR Had No Record of Him Working There",
+      "url": "https://www.wired.com/story/a-28-year-old-doge-operative-gutted-usaid-hr-had-no-record-of-him-working-there/",
+      "title_zh": "一名 28 岁的 DOGE 行动人员摧毁了 USAID，HR 未记录其任职",
+      "created_display": "Created: Oct 27, 2026 / 09:38 PT",
+      "image_url": "https://media.wired.com/photos/6acf8c83ca8681083870745e/191:100/w_1280,c_limit/GettyImages-2253183585.jpg",
+      "summary_en": "A 28-year-old DOGE operative reportedly damaged USAID operations, with HR lacking records of the person working there, raising questions about vetting and intelligence operations.",
+      "summary_zh": "据报道，一名28岁的 DOGE 行动人员据称对 USAID 构成打击，但人力资源部没有记录其任职记录，引发对背景审查与情报行动的质疑。",
+      "hn": {
+        "id": 50261784,
+        "type": "story",
+        "by": "ck2",
+        "score": 187,
+        "descendants": 103,
+        "time": 1793119088,
+        "comments_url": "https://news.ycombinator.com/item?id=50261784"
+      },
+      "tags": [
+        "Politics",
+        "Security"
+      ],
+      "hot_score": 2.84
+    },
+    {
+      "title_en": "Reviewers rarely talk about reliability. Owners bring it up twice as often",
+      "url": "https://www.bettascore.ai/research/reliability-reviewers-vs-owners",
+      "title_zh": "评测者与所有者对可靠性的看法差异",
+      "created_display": "Created: Oct 27, 2026 / 15:31 PT",
+      "image_url": "https://www.bettascore.ai/research/reliability-reviewers-vs-owners/image/16x9",
+      "summary_en": "A study uncovers a gap between what reviewers discuss and what owners report about reliability. Owners report reliability concerns more frequently, suggesting reviews may understate real-world durability and maintenance issues.",
+      "summary_zh": "研究揭示评测者在可靠性话题上的关注往往少于实际所有者的反馈。所有者更频繁地报告可靠性问题，表明评测在现实耐用性和维护难点上的覆盖可能不足。",
+      "hn": {
+        "id": 50266780,
+        "type": "story",
+        "by": "tsxng",
+        "score": 40,
+        "descendants": 43,
+        "time": 1793140275,
+        "comments_url": "https://news.ycombinator.com/item?id=50266780"
+      },
+      "hot_score": 2.8,
+      "tags": [
+        "Data"
+      ]
+    },
+    {
+      "title_en": "New iMac with M6",
+      "url": "https://www.apple.com/imac/",
+      "title_zh": "搭载 M6 的新款 iMac",
+      "created_display": "Created: Oct 27, 2026 / 06:02 PT",
+      "image_url": "https://www.apple.com/v/imac/x/images/meta/imac__kaqcgp2n4duu_og.png?202610261111",
+      "summary_en": "Apple unveils a refreshed iMac featuring the M6 chip, promising improved CPU/GPU performance and energy efficiency. The update also brings display and port refinements, signaling Apple's continued focus on the all-in-one desktop experience.",
+      "summary_zh": "苹果推出搭载 M6 芯片的新款 iMac，承诺在 CPU/GPU 性能与能效方面带来显著提升。此次更新还对显示与接口进行改进，体现苹果对一体机的持续关注。",
+      "hn": {
+        "id": 50258538,
+        "type": "story",
+        "by": "notfried",
+        "score": 306,
+        "descendants": 370,
+        "time": 1793106122,
+        "comments_url": "https://news.ycombinator.com/item?id=50258538"
+      },
+      "tags": [
+        "Hardware",
+        "Energy"
+      ],
+      "hot_score": 2.71
+    },
+    {
+      "title_en": "Three new discoveries in mathematics, computer science, and physics",
+      "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities/",
+      "title_zh": "宣布数学、计算机科学与物理学三项新发现",
+      "created_display": "Created: Oct 26, 2026 / 14:35 PT",
+      "image_url": "https://images.ctfassets.net/kftzwdyauwt9/5HKwJOTURosg0IoKJA21s8/88eefd210a578266fca1a9d9454daadc/from-ai-results-to-scientific-understanding-social.png?w=1600&h=900&fit=fill",
+      "summary_en": "Three new discoveries span mathematics, computer science, and physics, highlighting cross-disciplinary progress in fundamental science. The announcement hints at novel methods and insights that could influence both theory and practice across disciplines.",
+      "summary_zh": "宣布涵盖数学、计算机科学与物理学的三项新发现，凸显跨学科合作在基础科学领域的进展。公告暗示可能的新方法与洞见，影响理论到实践的研究路径。",
+      "hn": {
+        "id": 50251344,
+        "type": "story",
+        "by": "jonluca",
+        "score": 1125,
+        "descendants": 656,
+        "time": 1793050528,
+        "comments_url": "https://news.ycombinator.com/item?id=50251344"
+      },
+      "tags": [
+        "Science"
+      ],
+      "hot_score": 2.58
+    },
+    {
+      "title_en": "Classification of Finite Simple Groups Formalized in Lean",
+      "url": "https://cfsg.axiommath.ai/",
+      "title_zh": "Lean 中形式化的有限简单群分类",
+      "created_display": "Created: Oct 27, 2026 / 09:29 PT",
+      "image_url": "https://cfsg.axiommath.ai/site/og.png",
+      "summary_en": "The Classification of Finite Simple Groups has been formalized in Lean, enabling machine-checked proofs of this landmark result. This milestone demonstrates Lean's maturity for large-scale mathematical formalization and could accelerate future formal proofs.",
+      "summary_zh": "Lean 已完成对有限简单群分类定理的形式化，使该里程碑性成果可以通过计算机进行逐步验证。这一里程碑展示了 Lean 在大规模数学形式化方面的成熟度，并可能加速未来的形式化证明。",
+      "hn": {
+        "id": 50261647,
+        "type": "story",
+        "by": "pfdietz",
+        "score": 161,
+        "descendants": 42,
+        "time": 1793118542,
+        "comments_url": "https://news.ycombinator.com/item?id=50261647"
+      },
+      "tags": [
+        "Programming"
+      ],
+      "hot_score": 2.38
+    },
+    {
+      "title_en": "Anthropic S-1",
+      "url": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm",
+      "title_zh": "Anthropic 的 S-1 招股书",
+      "created_display": "Created: Oct 26, 2026 / 06:04 PT",
+      "image_url": null,
+      "summary_en": "Anthropic has filed an S-1 with the SEC, signaling plans for an IPO. The filing will reveal business metrics, product roadmap, and risk factors as the company scales its AI safety-focused offerings. Investors will weigh profitability trajectory, capital needs, and competitive positioning in a crowded AI market.",
+      "summary_zh": "Anthropic 已向美国证券交易委员会提交 S-1 文件，表明公司计划上市。文件将披露业务数据、产品路线图与风险因素，显示其在 AI 安全领域的扩张。投资者将评估盈利前景、资金需求以及在竞争激烈的 AI 市场中的定位。",
+      "hn": {
+        "id": 50242939,
+        "type": "story",
+        "by": "SiNTEx",
+        "score": 1631,
+        "descendants": 1555,
+        "time": 1793019890,
+        "comments_url": "https://news.ycombinator.com/item?id=50242939"
+      },
+      "tags": [
+        "Business",
+        "AI",
+        "Finance"
+      ],
+      "hot_score": 2.36
+    },
+    {
+      "title_en": "Software may be getting worse, but it used to be horrible",
+      "url": "https://www.bitlog.com/2026/10/27/software-may-be-getting-worse-but-it-used-to-be-horrible/",
+      "title_zh": "软件可能在变糟，但过去其实更糟",
+      "created_display": "Created: Oct 27, 2026 / 04:30 PT",
+      "image_url": "https://www.bitlog.com/media/fecabf30-3bef-42c9-98d7-337657a2f509/v2/640.jpg",
+      "summary_en": "The piece argues that while modern software often feels buggy, earlier eras suffered far worse reliability and UX. Progress came from better tooling, standardization, and automation, but rising complexity now brings new failure modes—so focus on robust testing, observability, and thoughtful UX improvements.",
+      "summary_zh": "文章认为，尽管如今的软件常被感觉不稳定，但过去的软件在可靠性与易用性方面往往更糟。借助更好的工具链、标准化和自动化，软件质量有所提升，但复杂性上升又带来新型故障模式，因此应加强测试、可观测性和用户体验改进。",
+      "hn": {
+        "id": 50257548,
+        "type": "story",
+        "by": "jakevoytko",
+        "score": 297,
+        "descendants": 313,
+        "time": 1793100635,
+        "comments_url": "https://news.ycombinator.com/item?id=50257548"
+      },
+      "tags": [
+        "Culture"
+      ],
+      "hot_score": 2.17
+    },
+    {
+      "title_en": "Four Months of Zig",
+      "url": "https://gracefulliberty.com/articles/four-months-of-zig/",
+      "title_zh": "四个月的 Zig：一段学习与实践之路",
+      "created_display": "Created: Oct 27, 2026 / 13:13 PT",
+      "image_url": "https://gracefulliberty.com/avatar.png",
+      "summary_en": "Four months into exploring Zig, the author shares hands-on experiences with its tooling, portability, and performance characteristics. The write-up weighs Zig’s advantages in simplicity and control against ecosystem maturity and library support.",
+      "summary_zh": "在学习 Zig 的四个月里，作者分享了对工具链、可移植性和性能的实际体验。文中评估了 Zig 在简洁性与可控性方面的优势，以及生态成熟度与库支持方面的挑战。",
+      "hn": {
+        "id": 50265128,
+        "type": "story",
+        "by": "ibobev",
+        "score": 65,
+        "descendants": 38,
+        "time": 1793132007,
+        "comments_url": "https://news.ycombinator.com/item?id=50265128"
+      },
+      "tags": [
+        "Programming"
+      ],
+      "hot_score": 2.13
+    },
+    {
+      "title_en": "Is my data used for model training?",
+      "url": "https://privacy.claude.com/en/articles/7996868-is-my-data-used-for-model-training",
+      "title_zh": "我的数据会被用于模型训练吗？",
+      "created_display": "Created: Oct 27, 2026 / 06:56 PT",
+      "image_url": "https://privacy.claude.com/assets/favicon",
+      "summary_en": "Claude explains whether user data is used for training, including privacy controls and opt-out options.",
+      "summary_zh": "Claude 解释了用户数据是否会用于训练模型，并介绍了隐私控制与选择退出的选项。",
+      "hn": {
+        "id": 50259406,
+        "type": "story",
+        "by": "jonpizza",
+        "score": 207,
+        "descendants": 91,
+        "time": 1793109375,
+        "comments_url": "https://news.ycombinator.com/item?id=50259406"
+      },
+      "tags": [
+        "AI",
+        "Privacy"
+      ],
+      "hot_score": 2.06
+    },
+    {
+      "title_en": "Introducing LFM3: Every Modality for Specialized Intelligence",
+      "url": "https://www.liquid.ai/blog/lfm3",
+      "title_zh": "LFM3：面向专门智能的全模态能力",
+      "created_display": "Created: Oct 27, 2026 / 10:04 PT",
+      "image_url": "https://www.liquid.ai/og/og-default.jpg",
+      "summary_en": "LFM3 integrates multiple modalities into a single framework to enable specialized AI capabilities across data types. It aims to streamline multimodal reasoning and improve performance on domain-specific tasks.",
+      "summary_zh": "LFM3 将多模态信息整合到一个统一框架中，旨在提升在特定领域任务上的 AI 能力和聚合推理能力。该方案强调在跨数据类型上的高效协同与性能提升。",
+      "hn": {
+        "id": 50262229,
+        "type": "story",
+        "by": "Philpax",
+        "score": 116,
+        "descendants": 43,
+        "time": 1793120690,
+        "comments_url": "https://news.ycombinator.com/item?id=50262229"
+      },
+      "tags": [
+        "AI"
+      ],
+      "hot_score": 1.9
+    },
+    {
+      "title_en": "The Mythical Man-Month in the Age of AI",
+      "url": "https://j11g.com/the-mythical-man-month-in-the-age-of-ai",
+      "title_zh": "AI时代的人月神话",
+      "created_display": "Created: Oct 26, 2026 / 23:25 PT",
+      "image_url": "https://j11g.com/content/images/cern-resized.jpg",
+      "summary_en": "The discussion applies Brooks’ classic Man-Month ideas to AI-enabled work, arguing that AI tools can boost productivity but don’t eliminate coordination, architecture, or integration costs. Planning must account for coupling, learning curves, and human-in-the-loop decisions rather than assuming AI shortens all timelines.",
+      "summary_zh": "将《人月神话》理念应用于 AI 助力的工作，认为 AI 能提升生产力但无法消除协作、架构与集成成本。 项目估算应考虑耦合、学习曲线以及人机协作的决策，而非假设 AI 能缩短所有周期。",
+      "hn": {
+        "id": 50255298,
+        "type": "story",
+        "by": "ilreb",
+        "score": 428,
+        "descendants": 304,
+        "time": 1793082337,
+        "comments_url": "https://news.ycombinator.com/item?id=50255298"
+      },
+      "tags": [
+        "AI"
+      ],
+      "hot_score": 1.87
+    },
+    {
+      "title_en": "The Exponential Time Hypothesis Is False [pdf]",
+      "url": "https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf",
+      "title_zh": "指数时间假设不成立",
+      "created_display": "Created: Oct 26, 2026 / 14:59 PT",
+      "image_url": "https://opengraph.githubassets.com/9c8f408fa180ff619b1a10b59401aff152b396feccc1b9e6d6880ee408716cf5/openai/math",
+      "summary_en": "A new paper argues that the Exponential Time Hypothesis is false, upending a long-standing conditional lower-bound assumption in complexity theory. If ETH fails, widespread implications follow for algorithm design and hardness results, potentially enabling faster solutions for some NP-hard problems.",
+      "summary_zh": "一篇新论文提出指数时间假设不成立，动摇了长期支撑 NP 问题下界的核心假设。若 ETH 不再成立，算法设计与复杂性界限将被重新评估，某些 NP-hard 问题或将获得更高效的解法。",
+      "hn": {
+        "id": 50251661,
+        "type": "story",
+        "by": "vok",
+        "score": 773,
+        "descendants": 279,
+        "time": 1793051955,
+        "comments_url": "https://news.ycombinator.com/item?id=50251661"
+      },
+      "tags": [
+        "Science"
+      ],
+      "hot_score": 1.82
+    },
+    {
+      "title_en": "A $300B 'Debt Wall' Is Looming over Private-Equity Backed Companies",
+      "url": "https://www.wsj.com/finance/investing/a-300-billion-debt-wall-is-looming-over-private-equity-backed-companies-d6359497",
+      "title_zh": "私募股权支持企业的3000亿美元债务墙即将来临",
+      "created_display": "Created: Oct 27, 2026 / 08:09 PT",
+      "image_url": null,
+      "summary_en": "A looming $300B debt wall threatens PE-backed firms as refinancing windows shrink, signaling risk to private markets and lenders.",
+      "summary_zh": "随着再融资窗口收窄，私募股权支持企业正面临约3000亿美元的债务墙，对私募市场与借贷方构成潜在风险。",
+      "hn": {
+        "id": 50260526,
+        "type": "story",
+        "by": "JumpCrisscross",
+        "score": 151,
+        "descendants": 55,
+        "time": 1793113767,
+        "comments_url": "https://news.ycombinator.com/item?id=50260526"
+      },
+      "tags": [
+        "Business",
+        "Finance"
+      ],
+      "hot_score": 1.8
+    },
+    {
+      "title_en": "PHP2Shell: Exploitation attempts and remediation trends",
+      "url": "https://www.wiz.io/blog/php2shell-exploitation-so-far",
+      "title_zh": "PHP2Shell：攻击利用与修复趋势",
+      "created_display": "Created: Oct 27, 2026 / 06:52 PT",
+      "image_url": "https://www.datocms-assets.com/75231/1793110810-threat-update-pink-subtitle_custom-1.jpeg?fm=webp",
+      "summary_en": "Security researchers track exploitation attempts against PHP2Shell, with trends showing attacker exfiltration techniques and recommended patches or mitigations.",
+      "summary_zh": "安全研究人员追踪 PHP2Shell 的利用尝试，指出攻击者的漏洞利用趋势，并给出修补方法与缓解建议。",
+      "hn": {
+        "id": 50259343,
+        "type": "story",
+        "by": "acossta",
+        "score": 181,
+        "descendants": 59,
+        "time": 1793109132,
+        "comments_url": "https://news.ycombinator.com/item?id=50259343"
+      },
+      "tags": [
+        "Security"
+      ],
+      "hot_score": 1.79
+    },
+    {
+      "title_en": "Microsoft offers mass buyouts for roughly a quarter of its workforce",
+      "url": "https://www.seattletimes.com/business/microsoft/microsoft-offers-mass-buyouts-for-roughly-a-quarter-of-its-workforce/",
+      "title_zh": "微软为约四分之一员工提供大规模自愿离职计划",
+      "created_display": "Created: Oct 26, 2026 / 08:35 PT",
+      "image_url": null,
+      "summary_en": "Microsoft is offering voluntary buyouts to roughly a quarter of its workforce, a major headcount reduction without forced layoffs. The move fits into broader tech-sector efficiency drives as AI investments continue and macro pressures persist. It could reshape compensation bands, talent flow, and project prioritization across divisions.",
+      "summary_zh": "微软向约四分之一员工提供自愿离职计划，属于不强制裁员的大规模裁员。此举与科技行业的整体效率提升趋势相吻合，AI 投资与宏观压力并行推动成本优化。人力结构、人才流向和项目优先级可能因此调整。",
+      "hn": {
+        "id": 50245524,
+        "type": "story",
+        "by": "doctorzook",
+        "score": 967,
+        "descendants": 949,
+        "time": 1793028912,
+        "comments_url": "https://news.ycombinator.com/item?id=50245524"
+      },
+      "tags": [
+        "Business",
+        "AI"
+      ],
+      "hot_score": 1.58
+    },
+    {
+      "title_en": "Hex Raises $100M",
+      "url": "https://hex.tech/blog/hex-new-era/",
+      "title_zh": "Hex 获得1亿美元融资",
+      "created_display": "Created: Oct 27, 2026 / 13:36 PT",
+      "image_url": "https://cdn.sanity.io/images/e92memrj/production/e4ceb1ed89c009f5c5fe1a73f13b13086eb14608-1800x930.png?w=1200&auto=format",
+      "summary_en": "Crypto startup Hex announces a $100 million funding round to accelerate product development and user growth. The move signals continued investor interest in crypto-native platforms, even as the broader market teeters.",
+      "summary_zh": "区块链创业公司 Hex 宣布完成1亿美元融资，加速产品开发与用户增长。此举表明投资者对基于加密的应用仍有兴趣，尽管市场整体环境波动。",
+      "hn": {
+        "id": 50265413,
+        "type": "story",
+        "by": "tomwphillips",
+        "score": 43,
+        "descendants": 23,
+        "time": 1793133398,
+        "comments_url": "https://news.ycombinator.com/item?id=50265413"
+      },
+      "hot_score": 1.56,
+      "tags": [
+        "Startups"
+      ]
+    },
+    {
+      "title_en": "Here be monsters: What do you still need to know when agents do the work?",
+      "url": "https://blog.adrq.dev/here-be-monsters-what-do-you-still-need-to-know-when-agents-do-the-work",
+      "title_zh": "怪物之地：代理人完成工作后你还需要知道什么",
+      "created_display": "Created: Oct 27, 2026 / 06:23 PT",
+      "image_url": "https://cdn.hashnode.com/uploads/og-images/69b44e3d6e27dd07d92bbf57/3a278202-0f64-4cf0-9a32-bfd202f3a073.png",
+      "summary_en": "The piece argues that relying on AI agents doesn't eliminate the need for human oversight. It discusses what questions remain about reliability, accountability, and the limits of delegated work.",
+      "summary_zh": "该文認為即使将任务交给 AI 代理也不能完全放手，仍需人类监督。讨论了在可靠性、问责与委托工作界限方面尚需解决的问题。",
+      "hn": {
+        "id": 50258868,
+        "type": "story",
+        "by": "adrq",
+        "score": 151,
+        "descendants": 78,
+        "time": 1793107402,
+        "comments_url": "https://news.ycombinator.com/item?id=50258868"
+      },
+      "tags": [
+        "AI"
+      ],
+      "hot_score": 1.39
+    },
+    {
+      "title_en": "New 14‑inch MacBook Pro with M6",
+      "url": "https://www.apple.com/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/",
+      "title_zh": "新款 14 吋 MacBook Pro，搭载 M6",
+      "created_display": "Created: Oct 27, 2026 / 06:01 PT",
+      "image_url": "https://www.apple.com/newsroom/images/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/tile/Apple-MacBook-Pro-14-in-with-M6-hero-261027-lp.jpg.og.jpg?202610271831",
+      "summary_en": "Apple unveils the new 14-inch MacBook Pro with the M6, emphasizing performance, battery life, and display quality.",
+      "summary_zh": "苹果发布新款 14 吋 MacBook Pro，搭载 M6，强调性能、续航和显示表现。",
+      "hn": {
+        "id": 50258521,
+        "type": "story",
+        "by": "meetpateltech",
+        "score": 155,
+        "descendants": 186,
+        "time": 1793106067,
+        "comments_url": "https://news.ycombinator.com/item?id=50258521"
+      },
+      "tags": [
+        "Hardware",
+        "Energy"
+      ],
+      "hot_score": 1.36
+    },
+    {
+      "title_en": "Three TLS Bugs in GoAhead",
+      "url": "https://foxio.io/blog/choose-your-backend-three-tls-bugs-in-goahead",
+      "title_zh": "GoAhead 的三处 TLS 漏洞",
+      "created_display": "Created: Oct 27, 2026 / 11:33 PT",
+      "image_url": "https://framerusercontent.com/images/PZZxAfRozIks13F8wNYf8GKDve0.png",
+      "summary_en": "Three TLS bugs were found in GoAhead, a compact embedded web server. The post explains the flaws, their impact on security, and how to patch or mitigate them.",
+      "summary_zh": "在 GoAhead 这款嵌入式 Web 服务器中发现了三处 TLS 漏洞，可能影响加密通信的安全性。文中给出漏洞影响、修补与缓解建议。",
+      "hn": {
+        "id": 50263701,
+        "type": "story",
+        "by": "owenshen24",
+        "score": 59,
+        "descendants": 12,
+        "time": 1793126028,
+        "comments_url": "https://news.ycombinator.com/item?id=50263701"
+      },
+      "tags": [
+        "Security"
+      ],
+      "hot_score": 1.29
+    },
+    {
+      "title_en": "Sebastian Raschka's from-scratch video course on building reasoning models",
+      "url": "https://magazine.sebastianraschka.com/p/building-reasoning-models",
+      "title_zh": "Sebastian Raschka 的从零开始构建推理模型的视频课程",
+      "created_display": "Created: Oct 26, 2026 / 08:11 PT",
+      "image_url": "https://substackcdn.com/image/fetch/$s_!1SoS!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F519db120-1320-411b-adec-a88865345f2c_4083x2916.jpeg",
+      "summary_en": "Renowned ML educator Sebastian Raschka releases a hands-on video course teaching how to build reasoning models from scratch. The course emphasizes end-to-end design, debugging, and practical coding patterns to improve model reasoning capabilities. It provides a useful bridge between theory and implementation for AI researchers and engineers.",
+      "summary_zh": "知名机器学习教育者 Sebastian Raschka 推出从零开始构建推理模型的视频课程，聚焦端到端设计与调试。课程强调实际编码模式，帮助提升模型推理能力。对 AI 研究者和工程师来说，这是理论到实现的有用桥梁。",
+      "hn": {
+        "id": 50245138,
+        "type": "story",
+        "by": "sgiannopoulos",
+        "score": 734,
+        "descendants": 101,
+        "time": 1793027519,
+        "comments_url": "https://news.ycombinator.com/item?id=50245138"
+      },
+      "tags": [
+        "Education",
+        "AI"
+      ],
+      "hot_score": 1.18
+    },
+    {
+      "title_en": "GPT-6.1 Terra",
+      "url": "https://openai.com/index/introducing-gpt-6-1-terra/",
+      "title_zh": "GPT-6.1 Terra",
+      "created_display": "Created: Oct 26, 2026 / 11:01 PT",
+      "image_url": "https://cdn.openai.com/mdx-assets/71f084db-a08b-48c5-b96e-5fbdc21a1a00/terra-art-card-16x9.0394724b.png",
+      "summary_en": "OpenAI releases GPT-6.1 Terra, continuing the model family with improvements in reasoning, safety controls, and developer tooling. The update affects how teams deploy and integrate AI into products, with potential API changes and new capabilities for multi-model orchestration.",
+      "summary_zh": "OpenAI 发布 GPT-6.1 Terra，延续模型家族并在推理能力、安全控制和开发者工具方面带来改进。这一更新将影响团队在产品中部署与集成 AI 的方式，可能伴随 API 变更与多模型编排的新功能。",
+      "hn": {
+        "id": 50248124,
+        "type": "story",
+        "by": "meetpateltech",
+        "score": 600,
+        "descendants": 378,
+        "time": 1793037677,
+        "comments_url": "https://news.ycombinator.com/item?id=50248124"
+      },
+      "tags": [
+        "AI"
+      ],
+      "hot_score": 1.12
+    },
+    {
+      "title_en": "Gforth 1.0",
+      "url": "https://gforth.org/manual/1.0/NEWS.html",
+      "title_zh": "Gforth 1.0 发布",
+      "created_display": "Created: Oct 27, 2026 / 03:23 PT",
+      "image_url": null,
+      "summary_en": "Gforth 1.0 marks a milestone for this long-running Forth implementation, delivering a more mature, standards-aligned experience with updated documentation and likely performance improvements. It signals continued vitality for niche language ecosystems and hobbyist tooling.",
+      "summary_zh": "Gforth 1.0 标志着这一长期实现的里程碑，带来更成熟的标准化体验、更新的文档以及可能的性能提升。这体现了小众语言生态与爱好者工具的持续活力。",
+      "hn": {
+        "id": 50256952,
+        "type": "story",
+        "by": "joshcsimmons",
+        "score": 153,
+        "descendants": 12,
+        "time": 1793096601,
+        "comments_url": "https://news.ycombinator.com/item?id=50256952"
+      },
+      "tags": [
+        "Programming"
+      ],
+      "hot_score": 0.98
+    },
+    {
+      "title_en": "Oldest GUI application that still runs on Windows 11",
+      "url": "https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11/",
+      "title_zh": "仍在 Windows 11 上运行的最古老 GUI 应用",
+      "created_display": "Created: Oct 26, 2026 / 10:56 PT",
+      "image_url": "https://blog.enlyth.com/_astro/image.Bg57xYSH_1uh08L.webp",
+      "summary_en": "A legacy GUI application still running on Windows 11 demonstrates the platform's backward compatibility strengths.",
+      "summary_zh": "一款极早的 GUI 应用仍能在 Windows 11 上正常运行，展示了该平台对旧软件的向后兼容性。文章讨论了仿真与兼容性机制如何让遗留应用继续可用，并对 IT 战略和长期软件支持有何影响。",
+      "hn": {
+        "id": 50248055,
+        "type": "story",
+        "by": "enlyth",
+        "score": 457,
+        "descendants": 264,
+        "time": 1793037415,
+        "comments_url": "https://news.ycombinator.com/item?id=50248055"
+      },
+      "tags": [
+        "Programming"
+      ],
+      "hot_score": 0.85
+    },
+    {
+      "title_en": "One year of Dioxus fullstack in production: the good, the painful",
+      "url": "https://oxidt.com/blog/one-year-of-dioxus-fullstack-in-production-the-good-the-painful",
+      "title_zh": "Dioxus 全栈在生产一年：优点与痛点",
+      "created_display": "Created: Oct 27, 2026 / 14:19 PT",
+      "image_url": "https://oxidt.com/blog/og/post/one-year-of-dioxus-fullstack-in-production-the-good-the-painful.png",
+      "summary_en": "One year in production with Dioxus Fullstack reveals strong performance and developer ergonomics, while the ecosystem still strains under maturity gaps.",
+      "summary_zh": "在生产环境使用Dioxus Fullstack一年后，系统表现出色、开发者体验良好，但生态与成熟度仍存在短板。文章给出团队在评估新兴Rust为主的全栈UI方案时的实际经验教训。",
+      "hn": {
+        "id": 50265960,
+        "type": "story",
+        "by": "hauju",
+        "score": 19,
+        "descendants": 10,
+        "time": 1793135955,
+        "comments_url": "https://news.ycombinator.com/item?id=50265960"
+      },
+      "hot_score": 0.83,
+      "tags": [
+        "Programming"
+      ]
+    },
+    {
+      "title_en": "CSS-Tricks has a new owner",
+      "url": "https://css-tricks.com/css-tricks-has-a-new-owner/",
+      "title_zh": "CSS-Tricks 迎来新所有者",
+      "created_display": "Created: Oct 26, 2026 / 08:51 PT",
+      "image_url": "https://css-tricks.com/wp-content/uploads/2019/12/css-tricks-logo-gradient-outline.png",
+      "summary_en": "CSS-Tricks, the long-running web design site, has changed ownership, hinting at possible shifts in editorial voice, monetization, or product strategy. The buyer’s priorities may influence tutorials, paid content, and community engagement. Existing readers will watch for changes in tone and quality.",
+      "summary_zh": "长期运营的网页设计站点 CSS-Tricks 完成易主，可能带来编辑风格、商业化或产品策略的变化。买家的重点将影响教程、付费内容和社区互动。读者将关注语气、内容质量的变化。",
+      "hn": {
+        "id": 50245831,
+        "type": "story",
+        "by": "edent",
+        "score": 494,
+        "descendants": 106,
+        "time": 1793029883,
+        "comments_url": "https://news.ycombinator.com/item?id=50245831"
+      },
+      "tags": [
+        "Design",
+        "Web"
+      ],
+      "hot_score": 0.82
+    },
+    {
+      "title_en": "PHP2Shell, LiteLLM, GitLab: Find What You Need to Patch",
+      "url": "https://cloudsleuth.io/blog/php2shell-litellm-gitlab-find-what-you-run/",
+      "title_zh": "PHP2Shell、LiteLLM、GitLab：找到需要修补的点",
+      "created_display": "Created: Oct 27, 2026 / 09:25 PT",
+      "image_url": "https://cloudsleuth.io/blog/php2shell-litellm-gitlab-find-what-you-run-og.png",
+      "summary_en": "A guide highlighting notable vulnerabilities affecting PHP2Shell, LiteLLM, and GitLab, with practical tips to identify exposure and patch quickly.",
+      "summary_zh": "本文聚焦 PHP2Shell、LiteLLM 与 GitLab 等软件的关键漏洞，提供识别暴露点与快速修补的实用建议。",
+      "hn": {
+        "id": 50261583,
+        "type": "story",
+        "by": "bigfish2026",
+        "score": 54,
+        "descendants": 12,
+        "time": 1793118312,
+        "comments_url": "https://news.ycombinator.com/item?id=50261583"
+      },
+      "tags": [
+        "Security"
+      ],
+      "hot_score": 0.78
+    },
+    {
+      "title_en": "Code-execution flaw in UEFI firmware threatens most servers on planet Earth",
+      "url": "https://arstechnica.com/security/2026/10/code-execution-flaw-in-uefi-firmware-threatens-most-servers-on-planet-earth/",
+      "title_zh": "全球大多数服务器的UEFI固件代码执行漏洞",
+      "created_display": "Created: Oct 27, 2026 / 13:35 PT",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/malware.jpg",
+      "summary_en": "A critical code-execution vulnerability in UEFI firmware could allow attackers to run arbitrary code before the OS loads, potentially compromising most servers worldwide. Vendors will need to release firmware patches and implement mitigations, and admins should plan an update window.",
+      "summary_zh": "UEFI 固件中的一处关键代码执行漏洞可能在操作系统加载前执行任意代码，威胁全球多数服务器。厂商需发布固件补丁并实施缓解措施，管理员应安排更新窗口。",
+      "hn": {
+        "id": 50265393,
+        "type": "story",
+        "by": "DamnInteresting",
+        "score": 20,
+        "descendants": 3,
+        "time": 1793133309,
+        "comments_url": "https://news.ycombinator.com/item?id=50265393"
+      },
+      "hot_score": 0.7,
+      "tags": [
+        "Security",
+        "Hardware"
+      ]
+    },
+    {
+      "title_en": "I will no longer upload to NEW",
+      "url": "https://lists.debian.org/debian-devel/2026/10/msg00263.html",
+      "title_zh": "我将不再向 NEW 提交软件包",
+      "created_display": "Created: Oct 27, 2026 / 02:59 PT",
+      "image_url": null,
+      "summary_en": "A Debian developer announces stepping back from submitting packages to the NEW queue, citing gatekeeping and backlog. The stance highlights ongoing tensions between onboarding new software and maintaining quality controls in large distributions.",
+      "summary_zh": "一位 Debian 开发者宣布不再向 NEW 队列提交软件包，原因包括门槛与积压问题。此举凸显在大型发行版中引入新包与维持质量控制之间的持续张力。",
+      "hn": {
+        "id": 50256738,
+        "type": "story",
+        "by": "edward",
+        "score": 110,
+        "descendants": 40,
+        "time": 1793095145,
+        "comments_url": "https://news.ycombinator.com/item?id=50256738"
+      },
+      "hot_score": 0.68,
+      "tags": [
+        "Open Source"
+      ]
+    },
+    {
+      "title_en": "Data Recovery CEO Indicted for Allegedly Scamming Ransomware Victims",
+      "url": "https://www.propublica.org/article/zohar-pinhasi-monstercloud-ransomware-indictment",
+      "title_zh": "数据恢复公司首席执行官因诈骗勒索受害者被起诉",
+      "created_display": "Created: Oct 27, 2026 / 08:39 PT",
+      "image_url": "https://www.propublica.org/wp-content/uploads/2026/10/20190515-ransomware-1200x630_maxHeight_3000_maxWidth_3000.jpg?w=1200",
+      "summary_en": "Data Recovery CEO indicted for allegedly scamming ransomware victims.",
+      "summary_zh": "数据恢复公司的首席执行官因涉嫌诈骗勒索 ransomware 受害者而被起诉。",
+      "hn": {
+        "id": 50260960,
+        "type": "story",
+        "by": "hn_acker",
+        "score": 49,
+        "descendants": 9,
+        "time": 1793115569,
+        "comments_url": "https://news.ycombinator.com/item?id=50260960"
+      },
+      "hot_score": 0.62,
+      "tags": [
+        "Legal",
+        "Security",
+        "Business"
+      ]
+    },
+    {
+      "title_en": "Solar power is becoming bigger than nuclear",
+      "url": "https://www.bbc.com/future/article/20261023-how-solar-became-bigger-than-nuclear",
+      "title_zh": "太阳能产能超过核电，成为更大规模的能源来源",
+      "created_display": "Created: Oct 26, 2026 / 08:26 PT",
+      "image_url": "https://ychef.files.bbci.co.uk/624x351/p0pjn1gz.jpg",
+      "summary_en": "Solar power is growing to exceed nuclear in capacity, marking a major shift in the energy landscape.",
+      "summary_zh": "太阳能在容量方面正超越核电，成为更大的能源来源，标志着能源结构的重大转变。文章讨论成本下降、部署加速以及并网挑战，对科技基础设施和气候目标影响深远。",
+      "hn": {
+        "id": 50245385,
+        "type": "story",
+        "by": "geox",
+        "score": 372,
+        "descendants": 538,
+        "time": 1793028377,
+        "comments_url": "https://news.ycombinator.com/item?id=50245385"
+      },
+      "tags": [
+        "Energy"
+      ],
+      "hot_score": 0.6
+    },
+    {
+      "title_en": "The EPA Is Quietly Killing Its Web Archive",
+      "url": "https://www.motherjones.com/environment/2026/10/epa-online-archive-deletion-zeldin-camp-lejeune-trump-clean-power/",
+      "title_zh": "环保署悄悄清理其网页档案",
+      "created_display": "Created: Oct 26, 2026 / 12:05 PT",
+      "image_url": "https://www.motherjones.com/wp-content/uploads/2026/10/GettyImages-2200850898-fotor-20261023844.png?w=1200&h=630&crop=1",
+      "summary_en": "An investigative piece argues the EPA is truncating its online archives, undermining transparency and historic record access. The move raises questions about FOIA effectiveness and the long-term availability of environmental data.",
+      "summary_zh": "调查报道认为环保署正在削减在线档案，削弱透明度与历史记录的访问。此举引发对信息自由获取及长期环境数据可用性的担忧。",
+      "hn": {
+        "id": 50249275,
+        "type": "story",
+        "by": "robtherobber",
+        "score": 285,
+        "descendants": 52,
+        "time": 1793041541,
+        "comments_url": "https://news.ycombinator.com/item?id=50249275"
+      },
+      "tags": [
+        "Politics"
+      ],
+      "hot_score": 0.56
+    },
+    {
+      "title_en": "Maine banned phones in schools to help teens focus and connect. It's working",
+      "url": "https://apnews.com/article/maine-cellphone-ban-positive-changes-83bb538cf45879ce6ab4639c6cc73b7b",
+      "title_zh": "缅因州在学校禁用手机以帮助青少年专注与社交：效果显现",
+      "created_display": "Created: Oct 27, 2026 / 10:46 PT",
+      "image_url": null,
+      "summary_en": "Maine’s ban on smartphones in schools appears to improve attention and reduce social media distractions among teens, according to early data. The program underscores potential benefits and implementation challenges of device restrictions in education.",
+      "summary_zh": "初步数据表明，缅因州在学校禁用手机有助于提升青少年专注度、降低社交媒体干扰。此举为教育领域的设备管理政策提供了潜在收益与实施挑战的实践观察。",
+      "hn": {
+        "id": 50262950,
+        "type": "story",
+        "by": "jethronethro",
+        "score": 29,
+        "descendants": 3,
+        "time": 1793123208,
+        "comments_url": "https://news.ycombinator.com/item?id=50262950"
+      },
+      "hot_score": 0.53,
+      "tags": [
+        "Education"
+      ]
+    },
+    {
+      "title_en": "JetBrains IDEs are now powered by libghostty",
+      "url": "https://blog.jetbrains.com/platform/2026/10/jetbrains-terminal-now-uses-ghostty/",
+      "title_zh": "JetBrains IDEs 现在由 libghostty 提供动力",
+      "created_display": "Created: Oct 27, 2026 / 08:22 PT",
+      "image_url": "https://blog.jetbrains.com/wp-content/uploads/2026/10/JB-social-BlogSocialShare-1280x720-1-8.png",
+      "summary_en": "JetBrains IDEs now powered by libghostty, indicating backend shifts in terminal handling.",
+      "summary_zh": "JetBrains 的集成开发环境现由 libghostty 提供底层支撑，标志着终端处理的后端变更。",
+      "hn": {
+        "id": 50260714,
+        "type": "story",
+        "by": "paaloeye",
+        "score": 43,
+        "descendants": 5,
+        "time": 1793114533,
+        "comments_url": "https://news.ycombinator.com/item?id=50260714"
+      },
+      "hot_score": 0.52,
+      "tags": [
+        "Programming",
+        "Web"
+      ]
+    },
+    {
+      "title_en": "Concerning behavior from a popular open-weight AI model",
+      "url": "https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model",
+      "title_zh": "来自热门开源重量级 AI 模型的令人担忧的行为",
+      "created_display": "Created: Oct 26, 2026 / 09:35 PT",
+      "image_url": "https://cdn.sanity.io/images/rjtqmwfu/web3-prod/b966213f9f46bb9cec6ec5a3406e893530b8b292-1200x630.png?w=1200&h=630&q=80&fit=crop&auto=format",
+      "summary_en": "A security/ethics brief highlights problematic behaviors from a widely used open-weight AI model, such as leakage of sensitive data or unsafe outputs.",
+      "summary_zh": "简报指出广泛使用的开源权重 AI 模型存在令人担忧的行为，如敏感数据泄露或不安全输出。文章探讨治理、安全机制以及开源传播的权衡。",
+      "hn": {
+        "id": 50246658,
+        "type": "story",
+        "by": "matthieu_bl",
+        "score": 289,
+        "descendants": 115,
+        "time": 1793032544,
+        "comments_url": "https://news.ycombinator.com/item?id=50246658"
+      },
+      "tags": [
+        "AI",
+        "Security"
+      ],
+      "hot_score": 0.5
+    },
+    {
+      "title_en": "Type Server Protocol",
+      "url": "https://github.com/microsoft/pylance-release/blob/main/docs/tsp/type-server-protocol.md",
+      "title_zh": "微软推出 Type Server Protocol，扩展语言服务器协议",
+      "created_display": "Created: Oct 26, 2026 / 11:14 PT",
+      "image_url": "https://opengraph.githubassets.com/c482e5876732c92835c657e382f6a99cef4291eea737496a516350a309baf7f5/microsoft/pylance-release",
+      "summary_en": "Microsoft unveils Type Server Protocol, a new layer that augments the Language Server Protocol. The protocol enables editors and language servers to exchange richer typing information and state, improving performance and scalability for multi-language toolchains. This move could help unify editor experiences across languages and tooling ecosystems.",
+      "summary_zh": "微软推出 Type Server Protocol，为语言服务器协议引入一层新接口，允许编辑器与语言服务器更丰富地交换类型信息与状态。此举有望提升多语言工具链的性能与可扩展性，并统一编辑器体验。",
+      "hn": {
+        "id": 50248371,
+        "type": "story",
+        "by": "adamnemecek",
+        "score": 249,
+        "descendants": 169,
+        "time": 1793038489,
+        "comments_url": "https://news.ycombinator.com/item?id=50248371"
+      },
+      "tags": [
+        "Programming"
+      ],
+      "hot_score": 0.47
+    },
+    {
+      "title_en": "Websites Should Be Printable",
+      "url": "https://brennenputh.me/blog/printable-websites/",
+      "title_zh": "网页应可打印",
+      "created_display": "Created: Oct 26, 2026 / 03:32 PT",
+      "image_url": "https://brennenputh.me/print_icon.svg",
+      "summary_en": "Web pages should offer printer-friendly versions that preserve core content while removing navigation and clutter. Printer-focused CSS enables clean, readable copies for receipts, manuals, or offline reading. Embracing print-friendly design improves accessibility and productivity across devices.",
+      "summary_zh": "网页应提供可打印版本，在保持核心内容的同时去除导航与多余元素。打印专用的 CSS 能让复制品整洁易读，适用于收据、手册或离线阅读。采用可打印设计有助于提升跨设备的可访问性与工作效率。",
+      "hn": {
+        "id": 50241664,
+        "type": "story",
+        "by": "bagatelle",
+        "score": 355,
+        "descendants": 204,
+        "time": 1793010734,
+        "comments_url": "https://news.ycombinator.com/item?id=50241664"
+      },
+      "tags": [
+        "Design",
+        "Web"
+      ],
+      "hot_score": 0.46
+    },
+    {
+      "title_en": "ChatGPT Keeps Telling People 404 Media Can Solve Their Tech Support Problems",
+      "url": "https://www.404media.co/chatgpt-keeps-telling-people-404-media-can-solve-their-tech-support-problems/",
+      "title_zh": "ChatGPT 一直称 404 Media 能解决技术支持问题",
+      "created_display": "Created: Oct 26, 2026 / 10:32 PT",
+      "image_url": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/10/Untitled-1.png",
+      "summary_en": "A look at how AI-generated guidance can misdirect users to niche outlets, revealing gaps in training data and the risk of AI hallucinations in support contexts.",
+      "summary_zh": "AI 给出建议时往往把用户引导到特定的小众媒体，暴露了训练数据的局限与在技术支持场景中的幻觉风险。文章探讨了 AI 辅助技术支持质量的影响。",
+      "hn": {
+        "id": 50247630,
+        "type": "story",
+        "by": "cdrnsf",
+        "score": 244,
+        "descendants": 88,
+        "time": 1793035936,
+        "comments_url": "https://news.ycombinator.com/item?id=50247630"
+      },
+      "tags": [
+        "AI"
+      ],
+      "hot_score": 0.44
+    },
+    {
+      "title_en": "Radio-tagged Monarch butterflies",
+      "url": "https://news.vt.edu/articles/2026/10/cmi-monarchs.html",
+      "title_zh": "带无线标签的君主蝶迁徙研究",
+      "created_display": "Created: Oct 27, 2026 / 10:48 PT",
+      "image_url": "https://news.vt.edu/content/dam/news_vt_edu/articles/2026/10/cnre/CMI-butterfly-tagging-2.jpg.transform/l-medium/image.jpg",
+      "summary_en": "Scientists attach radio tags to monarch butterflies to track their migration paths across continents. The data illuminate routes, stopover habitats, and threats, informing conservation strategies for this iconic species.",
+      "summary_zh": "研究人员给君主蝶安装无线标签，以追踪其跨大洲的迁徙路径。数据揭示迁徙路线、停栖栖息地与威胁情况，为保护这一标志性物种提供科学依据。",
+      "hn": {
+        "id": 50262982,
+        "type": "story",
+        "by": "rdmuser",
+        "score": 23,
+        "descendants": 6,
+        "time": 1793123295,
+        "comments_url": "https://news.ycombinator.com/item?id=50262982"
+      },
+      "hot_score": 0.42,
+      "tags": [
+        "Science"
+      ]
+    },
+    {
+      "title_en": "I still teach OpenGL ES 3.0",
+      "url": "https://eliasfarhan.ch/graphics/cpp/2026/01/27/why-i-teach-opengles.html",
+      "title_zh": "我仍在教授 OpenGL ES 3.0",
+      "created_display": "Created: Oct 26, 2026 / 19:15 PT",
+      "image_url": null,
+      "summary_en": "OpenGL ES 3.0 remains a solid teaching foundation even as newer APIs emerge. The author argues for teaching 3.0 to instill core concepts like the programmable pipeline, shader stages, and cross-platform practice, before tackling newer APIs. This approach helps students build a durable mental model of graphics rendering.",
+      "summary_zh": "作者认为即便有更新的 API，OpenGL ES 3.0 仍是学习图形编程的扎实基础。文中讨论了从3.0着手的教学要点、如何传授可移植性以及为何要在入门阶段打好管线和着色器等核心概念。",
+      "hn": {
+        "id": 50253939,
+        "type": "story",
+        "by": "majorchord",
+        "score": 132,
+        "descendants": 83,
+        "time": 1793067310,
+        "comments_url": "https://news.ycombinator.com/item?id=50253939"
+      },
+      "tags": [
+        "Programming",
+        "Education"
+      ],
+      "hot_score": 0.41
+    },
+    {
+      "title_en": "A Man from the Future: Why Johnny Can't Stop Abstracting",
+      "url": "http://muratbuffalo.blogspot.com/2026/10/the-man-from-future-why-johnny-cant.html",
+      "title_zh": "来自未来的人：为什么 Johnny 不能停止抽象化",
+      "created_display": "Created: Oct 26, 2026 / 10:49 PT",
+      "image_url": "https://blogger.googleusercontent.com/img/a/AVvXsEgUV8paJsfBDCdaizCxyZLf_tgGZc_L1c6HYhST-bupV3snzItwcj-3TzIJnc20dDeTmoFeMaEHxyZpxrqsgI80le-78m0BN7QqcMGPBkhwTLTu-BaWTc0DQ9rpXsag-tonr1n-TYZXz2sRYCk7HQaB94VGFboZ8sPvIL9_mIPGhBpOqL3B_42ueVNyq9o=w393-h400",
+      "summary_en": "A forthcoming critique of software cognition argues that developers constantly abstract complexity, sometimes to the detriment of clarity. The piece contrasts helpful abstractions with over-engineering and urges mindful layering.",
+      "summary_zh": "对软件认知的前瞻性批评认为开发者不断通过抽象来简化复杂性，但有时会牺牲可读性。文章对有益的抽象与过度工程化进行了对比，并倡导在分层时保持清晰。",
+      "hn": {
+        "id": 50247928,
+        "type": "story",
+        "by": "aray07",
+        "score": 215,
+        "descendants": 91,
+        "time": 1793036995,
+        "comments_url": "https://news.ycombinator.com/item?id=50247928"
+      },
+      "tags": [
+        "Programming"
+      ],
+      "hot_score": 0.4
+    },
+    {
+      "title_en": "US designates helium as a critical material",
+      "url": "https://apnews.com/article/energy-critical-materials-minerals-helium-43da160adc1bad389fba0b9ffbd14c3c",
+      "title_zh": "美国将氦气列为关键材料",
+      "created_display": "Created: Oct 26, 2026 / 11:31 PT",
+      "image_url": null,
+      "summary_en": "The designation formalizes helium as a strategic resource amid supply constraints, with implications for semiconductors, MRI scanners, and aerospace. Government policy signals tighter controls and could affect pricing and procurement strategies for tech supply chains.",
+      "summary_zh": "将氦气列为关键材料彰显了供应紧张背景下的战略性资源地位，对半导体、磁共振成像和航天等领域具有直接影响。政策动向可能带来更严格的采购与定价现实。",
+      "hn": {
+        "id": 50248665,
+        "type": "story",
+        "by": "rbanffy",
+        "score": 204,
+        "descendants": 119,
+        "time": 1793039499,
+        "comments_url": "https://news.ycombinator.com/item?id=50248665"
+      },
+      "tags": [
+        "Energy",
+        "Business",
+        "Politics"
+      ],
+      "hot_score": 0.39
+    },
+    {
+      "title_en": "16-bit Windows (Windows 1.x, 2.x, 3.0, 3.1, etc.) on 64-bit Windows",
+      "url": "https://github.com/otya128/winevdm",
+      "title_zh": "在64位 Windows 上运行16位 Windows 应用（1.x/2.x/3.0/3.1 等）",
+      "created_display": "Created: Oct 26, 2026 / 18:15 PT",
+      "image_url": "https://opengraph.githubassets.com/0b0b8e179b49c4b2f40eb8f39317e8fe1c2a7d260496387139be363075e9c83c/otya128/winevdm",
+      "summary_en": "WineVDM provides a pathway to run 16-bit Windows apps (Windows 1.x, 2.x, 3.0/3.1) on 64-bit Windows by using a dedicated compatibility runtime. It illustrates how modern Windows still lacks native 16-bit support, leaving preservation-focused projects to recreate the old environment. This matters for running legacy software, archaeology of software, and niche users who still rely on early Windows programs.",
+      "summary_zh": "该项目通过 winevdm 在64位 Windows 上实现对16位 Windows 应用（1.x、2.x、3.0、3.1 等）的运行。与现代 Windows 不再原生支持16位应用不同，兼容层/运行时的实现让老旧软件得以保存与使用，但仍存在兼容性与性能限制。",
+      "hn": {
+        "id": 50253529,
+        "type": "story",
+        "by": "doener",
+        "score": 131,
+        "descendants": 31,
+        "time": 1793063704,
+        "comments_url": "https://news.ycombinator.com/item?id=50253529"
+      },
+      "tags": [
+        "Programming",
+        "Open Source"
+      ],
+      "hot_score": 0.38
+    },
+    {
+      "title_en": "We should be more ambitious with the software we build",
+      "url": "https://danluu.com/ambitious/",
+      "title_zh": "在软件开发上应更具野心",
+      "created_display": "Created: Oct 24, 2026 / 14:47 PT",
+      "image_url": null,
+      "summary_en": "Software projects often settle for incremental gains; the piece argues for embracing bigger, riskier problems that unlock substantial leaps. Ambition needs disciplined constraints, longer horizons, and tolerance for failure, but can reshape teams' capabilities and the value they create. Expect practical guidance on bet-sizing, architecture, and collaboration to support bold bets.",
+      "summary_zh": "很多软件项目止步于小修小补。作者主张在软件开发上要敢于挑战更大、风险更高的问题，以实现更大的跃迁。实现这种野心需要清晰的约束、长期投入与对失败的容忍，进而改变团队能力与创造的价值。",
+      "hn": {
+        "id": 50225695,
+        "type": "story",
+        "by": "ltratt",
+        "score": 892,
+        "descendants": 769,
+        "time": 1792878451,
+        "comments_url": "https://news.ycombinator.com/item?id=50225695"
+      },
+      "tags": [
+        "Programming"
+      ],
+      "hot_score": 0.36
+    },
+    {
+      "title_en": "Pharo 14",
+      "url": "https://pharo.org/news/2026-10-26-Pharo14Release.html",
+      "title_zh": "Pharo 14 发布",
+      "created_display": "Created: Oct 26, 2026 / 04:15 PT",
+      "image_url": "https://pharo.org/files/pharo-logo-small.png",
+      "summary_en": "Pharo 14 marks the latest release of the Smalltalk-inspired image-based programming environment, bringing improved performance, new tooling, and updated libraries. The release cements Pharo's role as a lean, dynamic environment for live programming, teaching, and research. Community activity around the release often includes tooling updates and tutorials.",
+      "summary_zh": "Pharo 14 发布，作为基于 Smalltalk 的图像化编程环境的最新版本，带来性能提升、新工具链和更新的库。此版本巩固了 Pharo 在实时编程、教学和研究中的优势。社区围绕新版本的工具更新与教程也在持续活跃。",
+      "hn": {
+        "id": 50241925,
+        "type": "story",
+        "by": "xkriva11",
+        "score": 268,
+        "descendants": 79,
+        "time": 1793013350,
+        "comments_url": "https://news.ycombinator.com/item?id=50241925"
+      },
+      "tags": [
+        "Programming",
+        "Open Source"
+      ],
+      "hot_score": 0.36
+    },
+    {
+      "title_en": "Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)",
+      "url": "https://blog.cloudflare.com/kv-cache-exposure-remediation/",
+      "title_zh": "GLM-5.3 工作节点的跨请求 KV 缓存暴露",
+      "created_display": "Created: Oct 26, 2026 / 15:41 PT",
+      "image_url": "https://blog.cloudflare.com/_emdash/api/media/file/01M5X2YJT16K16BFFJGEMCAXRS.01M5X2YM62P3YQRBGRP96FS4P6.png",
+      "summary_en": "Cross-request exposure of a KV cache in the GLM-5.3 Workers AI model allows data to leak between requests, exposing a security risk in AI inference workloads. Remediation focuses on stricter cache isolation and access controls to prevent leakage in production.",
+      "summary_zh": "在 GLM-5.3 工作节点中发现跨请求 KV 缓存暴露漏洞，可能导致请求之间的数据泄露，给 AI 推理工作负载带来安全风险。修复聚焦于加强缓存隔离、改进访问控制，以及在生产环境中实现更严格的隔离与审计。",
+      "hn": {
+        "id": 50252159,
+        "type": "story",
+        "by": "wondersky",
+        "score": 145,
+        "descendants": 47,
+        "time": 1793054508,
+        "comments_url": "https://news.ycombinator.com/item?id=50252159"
+      },
+      "tags": [
+        "AI",
+        "Security"
+      ],
+      "hot_score": 0.35
+    },
+    {
+      "title_en": "Nietzschian Debugger",
+      "url": "https://github.com/DilawarShafiq/nietzschian-debugger",
+      "title_zh": "尼采式调试器",
+      "created_display": "Created: Oct 26, 2026 / 10:25 PT",
+      "image_url": "https://opengraph.githubassets.com/152be97e099452e96da44b634e34160794ba5b4a5475b0763acfff28d1ffdea2/DilawarShafiq/nietzschian-debugger",
+      "summary_en": "A playful experimental debugger that applies Nietzschean prompts to guide debugging strategies, offering a philosophical UX to debugging workflows. It’s a thought-provoking take on making debugging less mechanical and more narrative.",
+      "summary_zh": "一个将尼采式提示应用于调试策略的实验性调试器，提供哲学化的调试体验。它挑战传统的机械式排错，试图让调试过程更具叙事性。",
+      "hn": {
+        "id": 50247493,
+        "type": "story",
+        "by": "dilawargopang",
+        "score": 188,
+        "descendants": 56,
+        "time": 1793035530,
+        "comments_url": "https://news.ycombinator.com/item?id=50247493"
+      },
+      "tags": [
+        "Programming"
+      ],
+      "hot_score": 0.34
+    },
+    {
+      "title_en": "Writing about pratt parsing so I remember it",
+      "url": "https://www.unix.dog/~yosh/blog/2026-10-25_pratt-parsing.html",
+      "title_zh": "为了记住 Pratt 解析法而写下笔记",
+      "created_display": "Created: Oct 26, 2026 / 23:02 PT",
+      "image_url": "https://unix.dog/~yosh/img/renard_lftanthology.png",
+      "summary_en": "A personal post about Pratt parsing serves as a memory aid; Pratt parsing is a practical operator-precedence technique used to implement expression grammars. The notes share mental models and coding tips that help readers build compact, readable parsers.",
+      "summary_zh": "博主写下关于 Pratt 解析法的笔记，以帮助记忆并厘清思路；Pratt 解析是一种处理运算符优先级和结合性的自顶向下解析方法。文中分享了直观模型与实现要点，对实现紧凑而易读的解析器很有帮助。",
+      "hn": {
+        "id": 50255177,
+        "type": "story",
+        "by": "dverlaeckt80",
+        "score": 78,
+        "descendants": 7,
+        "time": 1793080943,
+        "comments_url": "https://news.ycombinator.com/item?id=50255177"
+      },
+      "tags": [
+        "Programming"
+      ],
+      "hot_score": 0.33
+    },
+    {
+      "title_en": "Vicious Cycles: Theses on a philosophy of news (2020)",
+      "url": "https://harpers.org/archive/2020/01/vicious-cycles-theses-on-a-philosophy-of-news/",
+      "title_zh": "新闻的恶性循环：关于新闻哲学的论断",
+      "created_display": "Created: Oct 27, 2026 / 09:27 PT",
+      "image_url": "https://wp.harpers.org/wp-content/uploads/2019/12/032__HA0120_32-7-thumb-1.jpg",
+      "summary_en": "An essay on the philosophy of news, examining how cycles, biases, and business incentives shape reporting and public perception.",
+      "summary_zh": "这篇文章讨论新闻哲学，剖析新闻如何受循环、偏见与商业动机驱动，从而影响报道和公众认知。",
+      "hn": {
+        "id": 50261623,
+        "type": "story",
+        "by": "eustoria",
+        "score": 23,
+        "descendants": 8,
+        "time": 1793118449,
+        "comments_url": "https://news.ycombinator.com/item?id=50261623"
+      },
+      "tags": [
+        "Culture"
+      ],
+      "hot_score": 0.33
+    },
+    {
+      "title_en": "New iPad mini",
+      "url": "https://www.apple.com/newsroom/2026/10/apple-gives-ipad-mini-its-biggest-update-ever/",
+      "title_zh": "新一代 iPad mini 发布",
+      "created_display": "Created: Oct 26, 2026 / 06:13 PT",
+      "image_url": "https://www.apple.com/newsroom/images/2026/10/apple-gives-ipad-mini-its-biggest-update-ever/tile/Apple-iPad-mini-hero-261026-lp.jpg.og.jpg?202610261839",
+      "summary_en": "Apple's iPad mini gets its biggest update ever, with a refreshed design and modern internals. The upgrade signals Apple’s commitment to maintaining a compact tablet line alongside the iPad Pro and standard iPad.",
+      "summary_zh": "苹果宣布 iPad mini 史上最大的更新，提升显示与性能，并可能引入 USB-C、Apple Pencil 等新特性。这体现了苹果在小型平板市场的持续升级和生态系统整合策略。",
+      "hn": {
+        "id": 50243061,
+        "type": "story",
+        "by": "soheilpro",
+        "score": 219,
+        "descendants": 534,
+        "time": 1793020416,
+        "comments_url": "https://news.ycombinator.com/item?id=50243061"
+      },
+      "tags": [
+        "Hardware"
+      ],
+      "hot_score": 0.32
+    },
+    {
+      "title_en": "Show HN: Specification First Agentic Development Plugin and Prove",
+      "url": "https://spec-first.dev/",
+      "title_zh": "Show HN：Specification First 的代理开发插件及证明工具",
+      "created_display": "Created: Oct 27, 2026 / 08:12 PT",
+      "image_url": "https://spec-first.dev/og.png",
+      "summary_en": "A Show HN introducing a plugin that supports specification-first development for agentic AI and includes tooling to prove properties.",
+      "summary_zh": "一个 Show HN 项目，展示一个以规范为先的代理开发插件，并附带可证明性的工具以验证属性。",
+      "hn": {
+        "id": 50260571,
+        "type": "story",
+        "by": "hleichsenring",
+        "score": 26,
+        "descendants": 18,
+        "time": 1793113940,
+        "comments_url": "https://news.ycombinator.com/item?id=50260571"
+      },
+      "tags": [
+        "Show HN",
+        "Programming",
+        "AI"
+      ],
+      "hot_score": 0.3
+    },
+    {
+      "title_en": "Behind the scenes at the NeXT Computer office",
+      "url": "https://exhibits.stanford.edu/menuez/browse/next-computer-inc?per_page=96&sort=pub_year_isi+asc%2C+title_sort+asc&view=masonry",
+      "title_zh": "NeXT 计算机办公室幕后故事",
+      "created_display": "Created: Oct 25, 2026 / 20:31 PT",
+      "image_url": null,
+      "summary_en": "A peek behind the scenes at the NeXT Computer office reveals the era's distinctive hardware-centric design culture. The material highlights product typography, aesthetic decisions, and the DNA that influenced later Apple design ethos.",
+      "summary_zh": "NeXT 计算机办公室幕后故事提供了关于当时工作环境和设计理念的珍贵洞察。内容揭示了产品排版、美学取舍，以及后来影响苹果设计风格的基因。",
+      "hn": {
+        "id": 50238763,
+        "type": "story",
+        "by": "Austin_Conlon",
+        "score": 258,
+        "descendants": 155,
+        "time": 1792985471,
+        "comments_url": "https://news.ycombinator.com/item?id=50238763"
+      },
+      "tags": [
+        "Hardware",
+        "Design"
+      ],
+      "hot_score": 0.25
+    },
+    {
+      "title_en": "Show HN: Hob - Open-source, on device alternative to Claude Cowork and ChatGPT",
+      "url": "https://github.com/FrigadeHQ/hob",
+      "title_zh": "Hob：开源的本地替代，面向 Claude Cowork 与 ChatGPT",
+      "created_display": "Created: Oct 26, 2026 / 09:12 PT",
+      "image_url": "https://repository-images.githubusercontent.com/1419901875/bef3a5ac-8f6b-4f29-8f2a-30f31c1771d7",
+      "summary_en": "Hob enables an on-device AI experience, offering an open-source alternative to Claude Cowork and ChatGPT that runs entirely locally. It demonstrates the feasibility of private, offline inference on consumer hardware, though model size and compute demands remain practical constraints.",
+      "summary_zh": "Hob 开源本地化 AI 体验，提供面向 Claude Cowork 与 ChatGPT 的本地替代方案。它展示了在消费级硬件上实现私有、离线推理的可行性，但模型规模与计算需求仍是实际制约。",
+      "hn": {
+        "id": 50246238,
+        "type": "story",
+        "by": "pancomplex",
+        "score": 148,
+        "descendants": 34,
+        "time": 1793031149,
+        "comments_url": "https://news.ycombinator.com/item?id=50246238"
+      },
+      "tags": [
+        "Show HN",
+        "Open Source",
+        "AI",
+        "Hardware"
+      ],
+      "hot_score": 0.25
+    },
+    {
+      "title_en": "Fixing Tool-Call Accuracy in vLLM",
+      "url": "https://www.ubicloud.com/blog/fixing-tool-call-accuracy-in-vllm",
+      "title_zh": "修正 vLLM 中的工具调用准确性",
+      "created_display": "Created: Oct 26, 2026 / 05:59 PT",
+      "image_url": "https://cdn.prod.website-files.com/64f9d9b4e737e7b37d4e39a4/6ace25a7011f2d0bca7a06ea_LLM-inference.png",
+      "summary_en": "The post outlines improvements to tool-calling accuracy in vLLM-based systems, addressing misrouting and erroneous tool usage. These changes enhance reliability when integrating external tools into LLM workflows.",
+      "summary_zh": "文中介绍了在基于 vLLM 的系统中改进工具调用准确性的工作，解决了错误路由与错误的工具使用问题，提高了在LLM工作流中整合外部工具的可靠性。",
+      "hn": {
+        "id": 50242870,
+        "type": "story",
+        "by": "coffeemug",
+        "score": 166,
+        "descendants": 68,
+        "time": 1793019588,
+        "comments_url": "https://news.ycombinator.com/item?id=50242870"
+      },
+      "tags": [
+        "AI",
+        "Programming"
+      ],
+      "hot_score": 0.24
+    },
+    {
+      "title_en": "There are now 5 inference providers for abliterated DeepSeek",
+      "url": "https://allmodels.io/llm/abliterated",
+      "title_zh": "现有5个推断提供商支持 abliterated DeepSeek",
+      "created_display": "Created: Oct 26, 2026 / 21:53 PT",
+      "image_url": "https://allmodels.io/assets/og/llm-abliterated-pixels-v1.png",
+      "summary_en": "Five inference providers now support abliterated DeepSeek, expanding deployment options across environments. This diversification improves resilience and allows users to compare latency, throughput, and costs among providers.",
+      "summary_zh": "现已有5个推断提供商支持 abliterated DeepSeek，为在不同环境中部署模型提供更多选择。此举带来性能、延迟及资源消耗的权衡，提升了部署的灵活性。",
+      "hn": {
+        "id": 50254836,
+        "type": "story",
+        "by": "moeadham",
+        "score": 61,
+        "descendants": 66,
+        "time": 1793076832,
+        "comments_url": "https://news.ycombinator.com/item?id=50254836"
+      },
+      "hot_score": 0.23,
+      "tags": [
+        "AI",
+        "DevOps"
+      ]
+    },
+    {
+      "title_en": "Why Micron Is Suddenly Ditching 4F² DRAM as Rivals Double Down",
+      "url": "https://hothardware.com/news/why-micron-is-suddenly-ditching-4f-dram",
+      "title_zh": "美光突然放弃 4F² DRAM，竞争对手加码",
+      "created_display": "Created: Oct 26, 2026 / 08:05 PT",
+      "image_url": "https://images.hothardware.com/contentimages/newsitem/71935/content/16x9_2133x1200_highres-micron-boise-fab-photo.jpg",
+      "summary_en": "Micron is reportedly ditching its 4F² DRAM process as rivals push to scale advanced DRAM nodes. The move could affect supply dynamics and pricing as vendors fight for yield and performance.",
+      "summary_zh": "美光据称放弃 4F² DRAM 制程，竞争对手正加码推进更先进的 DRAM 芯片。此举可能改变供给格局和定价，因厂商之间在良率与性能方面展开角力。",
+      "hn": {
+        "id": 50245014,
+        "type": "story",
+        "by": "rbanffy",
+        "score": 136,
+        "descendants": 22,
+        "time": 1793027104,
+        "comments_url": "https://news.ycombinator.com/item?id=50245014"
+      },
+      "tags": [
+        "Hardware",
+        "Business"
+      ],
+      "hot_score": 0.22
+    },
+    {
+      "title_en": "SIMD-accelerated computer vision on a $2 microcontroller",
+      "url": "https://shraiwi.com/blog/simd-fast-esp32s3/",
+      "title_zh": "在2美元微控制器上实现的 SIMD 加速计算机视觉",
+      "created_display": "Created: Oct 25, 2026 / 15:29 PT",
+      "image_url": null,
+      "summary_en": "An ESP32-S3 or similar microcontroller demonstrates SIMD-accelerated computer vision workloads at rock-bottom cost. The post shows how tight loops and vector instructions enable edge AI tasks on tiny hardware, hinting at new pervasive-vision edge devices.",
+      "summary_zh": "在极低成本的微控制器上实现 SIMD 加速的计算机视觉任务。文章展示了通过矢量指令和高效循环，在微小的硬件上实现边缘人工智能处理，预示着普及型边缘设备的可能性。",
+      "hn": {
+        "id": 50236681,
+        "type": "story",
+        "by": "zdw",
+        "score": 216,
+        "descendants": 61,
+        "time": 1792967387,
+        "comments_url": "https://news.ycombinator.com/item?id=50236681"
+      },
+      "tags": [
+        "Hardware",
+        "Programming",
+        "AI"
+      ],
+      "hot_score": 0.17
+    },
+    {
+      "title_en": "How to grow a cacao tree at home (2024)",
+      "url": "https://www.cocoterra.com/guide-on-how-to-grow-chocolate-at-home/",
+      "title_zh": "在家种植可可树（2024）",
+      "created_display": "Created: Oct 26, 2026 / 00:50 PT",
+      "image_url": "https://www.cocoterra.com/wp-content/uploads/cocoterra-social-share-1.jpg",
+      "summary_en": "A home cacao-growing guide outlines conditions for container-friendly cacao trees, including light, soil, and humidity, plus pruning and pests. While yields are modest, the article shows how enthusiasts can experiment with chocolate-making from tree to bar.",
+      "summary_zh": "该指南介绍在家培育可可树的要点，包括光照、土壤、湿度、修剪和虫害管理，以及从树到巧克力的潜在产出。家养可可产量通常有限，但适合爱好者尝试和学习。",
+      "hn": {
+        "id": 50240465,
+        "type": "story",
+        "by": "felipevb",
+        "score": 144,
+        "descendants": 43,
+        "time": 1793001017,
+        "comments_url": "https://news.ycombinator.com/item?id=50240465"
+      },
+      "tags": [
+        "Science"
+      ],
+      "hot_score": 0.16
+    },
+    {
+      "title_en": "Birdwatching rewires the brain and slows cognitive decline",
+      "url": "https://www.bbc.com/future/article/20261019-birdwatching-rewires-the-brain-and-slows-cognitive-decline",
+      "title_zh": "观鸟能重新塑造大脑并减缓认知衰退",
+      "created_display": "Created: Oct 23, 2026 / 15:04 PT",
+      "image_url": "https://ychef.files.bbci.co.uk/624x351/p0pj6qr2.jpg",
+      "summary_en": "Watching birds engages attention and memory networks, promoting neuroplasticity in aging brains. Emerging evidence suggests nature-based, cognitively engaging hobbies may help slow cognitive decline and support mental well-being.",
+      "summary_zh": "观鸟能激活大脑的注意力与记忆网络，促进老年人群的神经可塑性。日益增多的证据表明，参与自然和认知挑战性的爱好可能有助于减缓认知衰退并提升心理健康。",
+      "hn": {
+        "id": 50215997,
+        "type": "story",
+        "by": "cisc",
+        "score": 532,
+        "descendants": 207,
+        "time": 1792793095,
+        "comments_url": "https://news.ycombinator.com/item?id=50215997"
+      },
+      "tags": [
+        "Science",
+        "Health"
+      ],
+      "hot_score": 0.13
+    },
+    {
+      "title_en": "UK to charge universities $1,200 per international student",
+      "url": "https://africa.businessinsider.com/local/markets/uk-to-charge-universities-dollar1200-per-international-student-including-those-from/qe5rqbe",
+      "title_zh": "英国拟对国际学生征收每名1200美元的附加费用",
+      "created_display": "Created: Oct 26, 2026 / 22:13 PT",
+      "image_url": "https://ocdn.eu/pulscms-transforms/1/nNTktkpTURBXy8wMzZkZjViN2Q4YTdmZjkzYzhlMDhhYzRlYzkxYWNmNy5qcGeSlQMNAM0C_M0BrpMFzQSwzQJ2",
+      "summary_en": "UK plans to charge universities about 1,200 USD per international student, reshaping funding models for higher education. The policy could influence international enrollment, research capacity, and the competitiveness of UK universities.",
+      "summary_zh": "英国拟向高校对国际学生征收每名约1200美元的附加费用，这将影响高校经费结构和国际生的招生趋势。政策实施可能改变研究产出和英国高校的全球竞争力。",
+      "hn": {
+        "id": 50254935,
+        "type": "story",
+        "by": "teleforce",
+        "score": 29,
+        "descendants": 7,
+        "time": 1793077988,
+        "comments_url": "https://news.ycombinator.com/item?id=50254935"
+      },
+      "hot_score": 0.11,
+      "tags": [
+        "Education",
+        "Politics"
+      ]
+    },
+    {
+      "title_en": "Is PHP Running on Your ColdFusion Server? How to Check, and Remove It",
+      "url": "https://www.gregoryalexander.com/blog/2026/10/23/is-php-quietly-running-on-your-coldfusion-server-how-to-check-and-remove-it",
+      "title_zh": "你的 ColdFusion 服务器上是否悄悄运行着 PHP？如何检查并清除",
+      "created_display": "Created: Oct 26, 2026 / 15:27 PT",
+      "image_url": "https://www.gregoryalexander.com/blog/enclosures/facebook/phpBug.jpg",
+      "summary_en": "A security-focused guide explains how PHP may be running on a ColdFusion server via misconfigurations or misapplied loaders, how to detect it, and how to remove it, and what to watch out for. It helps reduce attack surfaces in legacy stacks.",
+      "summary_zh": "这篇安全指南说明如何检测并移除 ColdFusion 服务器上可能运行的 PHP 组件，揭示遗留配置带来的潜在风险。提供排查步骤与清理建议，帮助降低攻击面。",
+      "hn": {
+        "id": 50252008,
+        "type": "story",
+        "by": "rmason",
+        "score": 42,
+        "descendants": 34,
+        "time": 1793053637,
+        "comments_url": "https://news.ycombinator.com/item?id=50252008"
+      },
+      "tags": [
+        "Security",
+        "Programming"
+      ],
+      "hot_score": 0.1
+    },
+    {
+      "title_en": "SS United States to be sunk as largest artificial reef",
+      "url": "https://divemagazine.com/scuba-diving-news/ss-united-states-to-be-sunk-as-worlds-largest-artificial-reef-in-november",
+      "title_zh": "SS United States 将被沉没，成为全球最大的人工礁",
+      "created_display": "Created: Oct 25, 2026 / 21:41 PT",
+      "image_url": "https://divemagazine.com/wp-content/uploads/ss-united-states-at-anchor-2017.webp",
+      "summary_en": "Plans to sink the SS United States to become the world’s largest artificial reef aim to create a new underwater habitat and attract divers. The project also seeks to preserve parts of the ship’s legacy for historical and educational purposes.",
+      "summary_zh": "将SS United States沉入海底，打造全球最大的人工礁，旨在为海洋生物提供新栖息地并促进潜水旅游。该项目还计划保留船体的历史遗产以供教育与纪念。",
+      "hn": {
+        "id": 50239214,
+        "type": "story",
+        "by": "geox",
+        "score": 68,
+        "descendants": 46,
+        "time": 1792989675,
+        "comments_url": "https://news.ycombinator.com/item?id=50239214"
+      },
+      "hot_score": 0.07,
+      "tags": [
+        "Science"
+      ]
+    },
+    {
+      "title_en": "Microsoft and others tell crypto platform not to tokenize their stocks",
+      "url": "https://gizmodo.com/microsoft-mcdonalds-verizon-and-others-tell-crypto-platform-not-to-tokenize-their-stocks-2000830368",
+      "title_zh": "微软等要求加密平台不要对他们的股票进行代币化",
+      "created_display": "Created: Oct 25, 2026 / 08:28 PT",
+      "image_url": null,
+      "summary_en": "Microsoft, McDonald's, Verizon and other firms asked crypto platforms not to tokenize their stocks, citing regulatory and investor-protection concerns.",
+      "summary_zh": "微软、麦当劳、Verizon 等公司已要求加密平台不要对其股票进行代币化，担心监管与投资者保护方面的问题。",
+      "hn": {
+        "id": 50232604,
+        "type": "story",
+        "by": "gumby",
+        "score": 96,
+        "descendants": 105,
+        "time": 1792942120,
+        "comments_url": "https://news.ycombinator.com/item?id=50232604"
+      },
+      "tags": [
+        "Business",
+        "Finance",
+        "Legal",
+        "Politics"
+      ],
+      "hot_score": 0.06
+    },
+    {
+      "title_en": "Land Value Capture in Practice: Ethiopia's Urban Land Lease System",
+      "url": "https://blog.landeconomics.org/p/land-value-capture-in-practice-reflections",
+      "title_zh": "实践中的土地增值收益：埃塞俄比亚的城市用地租赁制度",
+      "created_display": "Created: Oct 26, 2026 / 06:20 PT",
+      "image_url": "https://substackcdn.com/image/fetch/$s_!rgF0!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F107fb97c-2c5b-4fe3-bd75-a2f33037d125_4032x3024.jpeg",
+      "summary_en": "It discusses design choices, fiscal implications, and potential equity concerns for urban residents.",
+      "summary_zh": "文章分析埃塞俄比亚的城市用地租赁制度，作为土地增值收益在城市融资中的具体应用案例，讨论设计选项、财政影响及对城市居民的潜在公平性担忧。",
+      "hn": {
+        "id": 50243153,
+        "type": "story",
+        "by": "surprisetalk",
+        "score": 40,
+        "descendants": 6,
+        "time": 1793020804,
+        "comments_url": "https://news.ycombinator.com/item?id=50243153"
+      },
+      "tags": [
+        "Business",
+        "Politics"
+      ],
+      "hot_score": 0.06
+    },
+    {
+      "title_en": "Blaise Pascal invented fixed route public transport (2024)",
+      "url": "https://humantransit.org/2024/12/one-of-the-greatest-inventions-in-the-history-of-human-transport.html",
+      "title_zh": "布莱斯·帕斯卡发明了固定路线公共交通（2024）",
+      "created_display": "Created: Oct 22, 2026 / 12:52 PT",
+      "image_url": null,
+      "summary_en": "A historical note revisits Blaise Pascal's early fixed-route transit ideas and how these notions prefigure modern public transport planning. The piece links historical thinking to contemporary route optimization and urban mobility debates.",
+      "summary_zh": "回顾布莱兹·帕斯卡早期关于固定路线公共交通的设想，揭示其如何预示现代公共交通规划的思路。文章将历史思考与当代路由优化、城市交通讨论联系起来。",
+      "hn": {
+        "id": 50200152,
+        "type": "story",
+        "by": "skadamat",
+        "score": 295,
+        "descendants": 151,
+        "time": 1792698770,
+        "comments_url": "https://news.ycombinator.com/item?id=50200152"
+      },
+      "tags": [
+        "Science",
+        "Culture"
+      ],
+      "hot_score": 0.05
+    },
+    {
+      "title_en": "OpenLDK: Bringing the Java World into Common Lisp",
+      "url": "https://atgreen.github.io/repl-yell/posts/openldk-java-in-common-lisp/",
+      "title_zh": "OpenLDK：把 Java 世界带进 Common Lisp",
+      "created_display": "Created: Oct 25, 2026 / 07:45 PT",
+      "image_url": null,
+      "summary_en": "OpenLDK aims to bridge Java and Common Lisp, enabling Lisp programs to call Java libraries and run on the Java platform.",
+      "summary_zh": "OpenLDK 旨在把 Java 世界引入 Common Lisp，使 Lisp 程序能够调用 Java 库并运行在 Java 平台上。",
+      "hn": {
+        "id": 50232101,
+        "type": "story",
+        "by": "atgreen",
+        "score": 85,
+        "descendants": 9,
+        "time": 1792939513,
+        "comments_url": "https://news.ycombinator.com/item?id=50232101"
+      },
+      "tags": [
+        "Programming"
+      ],
+      "hot_score": 0.05
+    },
+    {
+      "title_en": "LISPy things you can do in 64K bytes of core (2019)",
+      "url": "https://t3x.org/lisp64k/index.html",
+      "title_zh": "64K 核心内存中的 LISPy 技巧（2019）",
+      "created_display": "Created: Oct 25, 2026 / 05:53 PT",
+      "image_url": "https://t3x.org/lisp64k/toroids-x50-s.jpg",
+      "summary_en": "A tour of 64K Lisp demonstrates compact, self-contained Lisp systems—tiny interpreters, macros, and mini compilers designed to fit in limited RAM. The piece celebrates Lisp's expressive power and the fun of code golf-style constraints.",
+      "summary_zh": "64K 核心内存中的 LISPy 技巧展示了在极小内存下的 Lisp 系统设计：紧凑的解释器、宏和小型编译器等。文章庆祝 Lisp 的表达力与在代码极简约约束下的乐趣。",
+      "hn": {
+        "id": 50231041,
+        "type": "story",
+        "by": "andsoitis",
+        "score": 63,
+        "descendants": 13,
+        "time": 1792932827,
+        "comments_url": "https://news.ycombinator.com/item?id=50231041"
+      },
+      "tags": [
+        "Programming"
+      ],
+      "hot_score": 0.04
+    },
+    {
+      "title_en": "Nvidia and Micron Make Up 34% of America's Earnings Boom",
+      "url": "https://www.wsj.com/finance/stocks/the-earnings-boom-is-heavily-reliant-on-just-a-handful-of-stocks-21decb53",
+      "title_zh": "英伟达与美光引领美国盈利增长",
+      "created_display": "Created: Oct 25, 2026 / 14:07 PT",
+      "image_url": null,
+      "summary_en": "A couple of semiconductor giants dominate a large share of the earnings surge, illustrating how a narrow set of stocks can drive macro-level profits.",
+      "summary_zh": "两家半导体巨头在美股盈利大涨中占据主导地位，凸显少数股票对宏观盈利的拉动效应。此现象对市场多元化与科技股的风险集中度带来重要启示。",
+      "hn": {
+        "id": 50236073,
+        "type": "story",
+        "by": "JumpCrisscross",
+        "score": 50,
+        "descendants": 5,
+        "time": 1792962458,
+        "comments_url": "https://news.ycombinator.com/item?id=50236073"
+      },
+      "hot_score": 0.04,
+      "tags": [
+        "Business",
+        "Finance",
+        "Hardware"
+      ]
+    },
+    {
+      "title_en": "Diamond Transistor",
+      "url": "https://www.df.com/diamond-transistor",
+      "title_zh": "钻石晶体管",
+      "created_display": "Created: Oct 23, 2026 / 07:20 PT",
+      "image_url": "https://cdn.prod.website-files.com/6a96e5c74cce21a226992e29/6ac00c59fff6a4c32add55dd_OpenGraph.jpg",
+      "summary_en": "Diamond-based transistors promise superior thermal conductivity and wide bandgap, enabling higher power density and faster switching. Real-world adoption faces fabrication challenges and cost, but the approach could influence high-frequency and power electronics.",
+      "summary_zh": "基于钻石的晶体管承诺提供优越的热导性和宽带隙，带来更高的功率密度和更快的开关速度。实际应用仍受制于制造工艺与成本，但其潜力会影响高频与電力电子领域。",
+      "hn": {
+        "id": 50209525,
+        "type": "story",
+        "by": "Gravityloss",
+        "score": 155,
+        "descendants": 86,
+        "time": 1792765215,
+        "comments_url": "https://news.ycombinator.com/item?id=50209525"
+      },
+      "tags": [
+        "Hardware"
+      ],
+      "hot_score": 0.03
+    },
+    {
+      "title_en": "A Printer Printing onto Paper",
+      "url": "https://twitter.com/macrofying/status/2112904628509528219",
+      "title_zh": "打印机在纸上打印",
+      "created_display": "Created: Oct 22, 2026 / 22:01 PT",
+      "image_url": "https://pbs.twimg.com/media/HVKLjpBWAAAuXvq?format=webp&name=large",
+      "summary_en": "A tiny demonstration shows a printer printing onto paper—the classic self-referential quirk that reveals how printers render text and graphics onto physical media. The snippet offers a lightweight look at hardware behavior and timing in everyday devices.",
+      "summary_zh": "一个小演示显示打印机在纸上进行打印——自指现象揭示了打印硬件如何将文本与图像呈现到物理介质上。这个片段为日常设备的硬件行为与时序提供了轻松的观察。",
+      "hn": {
+        "id": 50204697,
+        "type": "story",
+        "by": "MrBuddyCasino",
+        "score": 146,
+        "descendants": 33,
+        "time": 1792731690,
+        "comments_url": "https://news.ycombinator.com/item?id=50204697"
+      },
+      "tags": [
+        "Hardware"
+      ],
+      "hot_score": 0.03
+    },
+    {
+      "title_en": "Colorfigures",
+      "url": "https://april-zhu.com/colorfigures",
+      "title_zh": "Colorfigures",
+      "created_display": "Created: Oct 23, 2026 / 07:22 PT",
+      "image_url": "https://april-zhu.com/colorfigures/og-2.jpg",
+      "summary_en": "A creative project exploring color in data visualization or typography; the piece discusses experiments with color figures, showing how color encodes information or communicates aesthetic.",
+      "summary_zh": "一个关于数据可视化或排版中颜色应用的创意项目，探讨颜色在信息传达与美学表达中的作用与实验。",
+      "hn": {
+        "id": 50209573,
+        "type": "story",
+        "by": "the-mitr",
+        "score": 137,
+        "descendants": 20,
+        "time": 1792765343,
+        "comments_url": "https://news.ycombinator.com/item?id=50209573"
+      },
+      "tags": [
+        "Data",
+        "Design"
+      ],
+      "hot_score": 0.03
+    },
+    {
+      "title_en": "Show HN: Encarta 95 Web",
+      "url": "https://benwinding.github.io/encarta_95_web/#/article/Art",
+      "title_zh": "Show HN：Encarta 95 Web",
+      "created_display": "Created: Oct 24, 2026 / 00:18 PT",
+      "image_url": null,
+      "summary_en": "A project recreates Encarta 95 as a web app, offering a retro multimedia encyclopedia experience with search and navigation features. It showcases nostalgia-driven preservation and demonstrates how browser-based emulations can revive classic knowledge interfaces.",
+      "summary_zh": "一个项目把 Encarta 95 重现为网页应用，提供带有搜索与导航的怀旧多媒体知识百科体验。此举体现了以怀旧为驱动的知识保存，以及浏览器仿真重现经典知识界面的可行性。",
+      "hn": {
+        "id": 50218975,
+        "type": "story",
+        "by": "gitgud",
+        "score": 110,
+        "descendants": 57,
+        "time": 1792826317,
+        "comments_url": "https://news.ycombinator.com/item?id=50218975"
+      },
+      "tags": [
+        "Show HN",
+        "Web"
+      ],
+      "hot_score": 0.03
+    },
+    {
+      "title_en": "An examination of lost firefly species of the US and Canada",
+      "url": "https://journaloflostspecies.org/index.php/jls/article/view/37/33",
+      "title_zh": "美国和加拿大的已失传萤火虫物种研究",
+      "created_display": "Created: Oct 24, 2026 / 12:04 PT",
+      "image_url": "https://journaloflostspecies.org/public/site/images/mforister/sociallogowborder.png",
+      "summary_en": "New research catalogs firefly species in the US and Canada that are extinct or likely extinct, discussing drivers like habitat loss and climate pressures. The paper highlights gaps in monitoring and the need for conservation data to guide policy and citizen science.",
+      "summary_zh": "研究汇总了美国和加拿大已灭绝或可能灭绝的萤火虫物种，讨论栖息地丧失和气候压力等驱动因素。论文强调监测缺口及保护数据在制定政策和推动公民科学中的作用。",
+      "hn": {
+        "id": 50224079,
+        "type": "story",
+        "by": "bryanrasmussen",
+        "score": 82,
+        "descendants": 12,
+        "time": 1792868682,
+        "comments_url": "https://news.ycombinator.com/item?id=50224079"
+      },
+      "tags": [
+        "Science"
+      ],
+      "hot_score": 0.03
+    },
+    {
+      "title_en": "A Stackless Floodfill Automaton",
+      "url": "https://t3x.org/files/floodfill.pdf",
+      "title_zh": "无栈的 Floodfill 自动机",
+      "created_display": "Created: Oct 25, 2026 / 13:18 PT",
+      "image_url": null,
+      "summary_en": "A stackless flood-fill automaton proposes a memory-efficient approach to region-filling algorithms, useful for image processing and pathfinding.",
+      "summary_zh": "提出一种无栈的 FloodFill 自动机，提供更节省内存的区域填充算法，适用于图像处理与路径规划等场景。",
+      "hn": {
+        "id": 50235661,
+        "type": "story",
+        "by": "andsoitis",
+        "score": 46,
+        "descendants": 23,
+        "time": 1792959537,
+        "comments_url": "https://news.ycombinator.com/item?id=50235661"
+      },
+      "tags": [
+        "Programming"
+      ],
+      "hot_score": 0.03
+    },
+    {
+      "title_en": "APC says let there be light, with standards to speed up photonics manufacturing",
+      "url": "https://www.nextplatform.com/connect/2026/10/23/apc-says-let-there-be-light-with-raft-of-standards-to-speed-up-photonics-manufacturing/5304950",
+      "title_zh": "APC 提倡通过标准化加速光子制造",
+      "created_display": "Created: Oct 25, 2026 / 11:43 PT",
+      "image_url": "https://image.nextplatform.com/5304953.jpg?imageId=5304953&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+      "summary_en": "APC advocates standardization to speed up photonics manufacturing, with a raft of standards covering components, testing, and data. The move aims to reduce ramp time for photonic devices, from integrated circuits to optical sensors, by enabling interoperability and scalable supply chains.",
+      "summary_zh": "APC推动通过标准化来加速光子制造，涵盖组件、测试和数据格式等标准。此举旨在提升互操作性和供应链扩张，缩短光子器件的投产周期。",
+      "hn": {
+        "id": 50234707,
+        "type": "story",
+        "by": "rbanffy",
+        "score": 39,
+        "descendants": 8,
+        "time": 1792953781,
+        "comments_url": "https://news.ycombinator.com/item?id=50234707"
+      },
+      "tags": [
+        "Business",
+        "Science"
+      ],
+      "hot_score": 0.03
+    },
+    {
+      "title_en": "Rosettes and Other Hidden Traces of Hamburg's Tram",
+      "url": "https://alsterrunde.com/rosettes-and-other-hidden-traces-of-hamburgs-tram/",
+      "title_zh": "汉堡有轨电车的花纹与隐藏痕迹",
+      "created_display": "Created: Oct 25, 2026 / 23:54 PT",
+      "image_url": "https://cdn.synaps.media/alsterrunde/content/images/size/w1200/2026/10/HHA.7.Rath.VG-1.jpg",
+      "summary_en": "A visual exploration of hidden traces and decorative features in Hamburg's tram network, revealing how transportation infrastructure contains historical and aesthetic stories.",
+      "summary_zh": "对汉堡有轨电车系统的隐藏痕迹与装饰元素进行视觉化探索，揭示交通基础设施中蕴藏的历史与美学故事。",
+      "hn": {
+        "id": 50240041,
+        "type": "story",
+        "by": "mertbio",
+        "score": 30,
+        "descendants": 1,
+        "time": 1792997673,
+        "comments_url": "https://news.ycombinator.com/item?id=50240041"
+      },
+      "tags": [
+        "Culture",
+        "Design",
+        "DevOps"
+      ],
+      "hot_score": 0.03
+    },
+    {
+      "title_en": "188-Year-Old Mystery of Photography's First Human Subjects Solved",
+      "url": "https://news.artnet.com/art-world/daguerre-photograph-subjects-location-2826596",
+      "title_zh": "188 年前的摄影第一批人物的身份之谜终于被破解",
+      "created_display": "Created: Oct 24, 2026 / 05:50 PT",
+      "image_url": null,
+      "summary_en": "Researchers have identified the subjects in one of the earliest photographs, ending a long-standing mystery about the first people captured by photography.",
+      "summary_zh": "研究人员揭示了早期摄影中第一批人物图像的拍摄对象身份，结束了这个长期未解之谜。",
+      "hn": {
+        "id": 50220782,
+        "type": "story",
+        "by": "bookofjoe",
+        "score": 48,
+        "descendants": 9,
+        "time": 1792846242,
+        "comments_url": "https://news.ycombinator.com/item?id=50220782"
+      },
+      "tags": [
+        "Science",
+        "Culture"
+      ],
+      "hot_score": 0.02
+    },
+    {
+      "title_en": "Virtual and Real World Combine at LAN Party (1998)",
+      "url": "https://www.latimes.com/archives/la-xpm-1998-aug-10-mn-11870-story.html",
+      "title_zh": "1998 年的 LAN 聚会：虚拟与现实的融合",
+      "created_display": "Created: Oct 24, 2026 / 17:07 PT",
+      "image_url": "https://ca-times.brightspotcdn.com/dims4/default/64e287b/2147483647/strip/true/crop/2400x1260+0+0/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fdf%2F45%2F57d858144a2a88575fa2b03080bb%2Flatlogo-ss.jpg",
+      "summary_en": "The 1998 LAN party story captures how virtual gaming networks and in-person communities blend, foreshadowing the social and esports trends that followed. It highlights early hobbyist culture meeting mainstream tech interest.",
+      "summary_zh": "1998 年的新闻报道记录了局域网聚会将虚拟世界与线下社交相结合的场景，揭示了早期玩家文化如何与主流科技趋势交汇。此类活动被视为后续电子竞技和玩家社区发展的前奏。",
+      "hn": {
+        "id": 50226808,
+        "type": "story",
+        "by": "npunt",
+        "score": 47,
+        "descendants": 6,
+        "time": 1792886839,
+        "comments_url": "https://news.ycombinator.com/item?id=50226808"
+      },
+      "tags": [
+        "Gaming",
+        "Culture"
+      ],
+      "hot_score": 0.02
+    },
+    {
+      "title_en": "New 'Circadian' Subtype of Depression Affecting 1 in 4 Patients",
+      "url": "https://www.sciencealert.com/researchers-identify-new-circadian-subtype-of-depression-affecting-1-in-4-patients",
+      "title_zh": "新型昼夜节律抑郁症，影响约四分之一患者",
+      "created_display": "Created: Oct 22, 2026 / 07:50 PT",
+      "image_url": "https://www.sciencealert.com/images/2026/10/GettyImages-2280049531-2560x1440-1.jpg",
+      "summary_en": "Researchers identify a circadian subtype of depression affecting about 25% of patients, linked to disruptions in daily rhythms. This points to timing-aware treatments and chronotherapy as potential avenues for diagnosis and management.",
+      "summary_zh": "研究人员发现一种新的昼夜节律型抑郁症亚型，约影响四分之一患者，与日常节律紊乱相关。这为以时间为导向的治疗和昼夜节律治疗提供了潜在的新方向。",
+      "hn": {
+        "id": 50196212,
+        "type": "story",
+        "by": "gmays",
+        "score": 77,
+        "descendants": 52,
+        "time": 1792680622,
+        "comments_url": "https://news.ycombinator.com/item?id=50196212"
+      },
+      "hot_score": 0.01,
+      "tags": [
+        "Health",
+        "Science"
+      ]
+    },
+    {
+      "title_en": "Sigma Says the Compact, Modular FP2 Is the Ultimate Hybrid Camera",
+      "url": "https://petapixel.com/2026/10/22/sigma-says-the-compact-modular-fp2-is-the-ultimate-hybrid-camera/",
+      "title_zh": "Sigma 称紧凑、模块化 FP2 是终极混合相机",
+      "created_display": "Created: Oct 23, 2026 / 09:41 PT",
+      "image_url": "https://petapixel.com/assets/uploads/2026/10/sigma-fp2-featured.jpg",
+      "summary_en": "Sigma pitches the FP2 as a modular hybrid camera blending stills, video, and computational features in a compact form. The approach mirrors a broader trend toward lightweight, configurable cameras for creators and professionals.",
+      "summary_zh": "Sigma 将 FP2 描述为紧凑、模块化的混合相机，集静态拍摄、视频与计算功能于一体。该设计体现了面向创作者与专业人士的轻量化、可配置相机趋势。",
+      "hn": {
+        "id": 50211780,
+        "type": "story",
+        "by": "thm",
+        "score": 54,
+        "descendants": 75,
+        "time": 1792773701,
+        "comments_url": "https://news.ycombinator.com/item?id=50211780"
+      },
+      "tags": [
+        "Hardware",
+        "Design"
+      ],
+      "hot_score": 0.01
+    },
+    {
+      "title_en": "Native Prometheus Integration with Nginx",
+      "url": "https://categorica.io/blog/2026.10.16_nginx-stats-prometheus/",
+      "title_zh": "Nginx 的原生 Prometheus 集成",
+      "created_display": "Created: Oct 23, 2026 / 11:38 PT",
+      "image_url": "https://categorica.io/_app/immutable/assets/ctg_banner.DMSiAwkS.svg",
+      "summary_en": "Prometheus-native metrics for Nginx simplify observability for high-traffic services. The integration may use embedded metrics endpoints, reducing external exporters and configuration burden. This enables more actionable latency and error monitoring.",
+      "summary_zh": "Nginx 的 Prometheus 原生指标集成简化了对高流量服务的观测工作。新集成可能采用内置指标端点，减少对外部导出器的依赖，并降低配置复杂度。这样可以让延迟和错误监控更加直观且可操作。",
+      "hn": {
+        "id": 50213502,
+        "type": "story",
+        "by": "foxhill",
+        "score": 50,
+        "descendants": 10,
+        "time": 1792780693,
+        "comments_url": "https://news.ycombinator.com/item?id=50213502"
+      },
+      "tags": [
+        "DevOps",
+        "Programming"
+      ],
+      "hot_score": 0.01
+    },
+    {
+      "title_en": "An incremental approach to JIT construction",
+      "url": "https://dl.acm.org/doi/10.1145/3830440.3832304",
+      "title_zh": "对 JIT 构造的渐进式方法",
+      "created_display": "Created: Oct 24, 2026 / 09:27 PT",
+      "image_url": null,
+      "summary_en": "The paper advocates an incremental strategy for building just-in-time systems, reducing downtime and enabling iterative optimization. It highlights practical implications for compiler design and runtime performance.",
+      "summary_zh": "论文提出逐步构建即时系统的策略，降低停机时间并便于迭代优化。对编译器设计与运行时性能具有实际意义。",
+      "hn": {
+        "id": 50222794,
+        "type": "story",
+        "by": "andsoitis",
+        "score": 41,
+        "descendants": 5,
+        "time": 1792859238,
+        "comments_url": "https://news.ycombinator.com/item?id=50222794"
+      },
+      "tags": [
+        "Programming"
+      ],
+      "hot_score": 0.01
+    },
+    {
+      "title_en": "World Wars I and II Military Aviation Museum Collection",
+      "url": "https://www.militaryaviationmuseum.org/our-collection/",
+      "title_zh": "一战二战军事航空博物馆藏品",
+      "created_display": "Created: Oct 23, 2026 / 13:35 PT",
+      "image_url": "https://www.militaryaviationmuseum.org/wp-content/uploads/P51-6.jpg",
+      "summary_en": "A tour of World Wars I and II military aviation museum collections highlighting aircraft, artifacts, and stories from early air combat. The collection serves as a resource for historians, enthusiasts, and engineers studying aviation history.",
+      "summary_zh": "对一战与二战军事航空博物馆藏品的导览，聚焦飞机、文物与早期空中作战故事，为历史学者、爱好者与工程师提供研究与欣赏的资料。",
+      "hn": {
+        "id": 50214967,
+        "type": "story",
+        "by": "NaOH",
+        "score": 37,
+        "descendants": 12,
+        "time": 1792787740,
+        "comments_url": "https://news.ycombinator.com/item?id=50214967"
+      },
+      "tags": [
+        "Science",
+        "Culture"
+      ],
+      "hot_score": 0.01
+    },
+    {
+      "title_en": "Txoko: Basques' traditional feast a gastronomic peek into a culture (2024)",
+      "url": "https://johnhendersontravel.com/txoko/",
+      "title_zh": "Txoko：巴斯克人的传统盛宴——一次对文化的美食探访（2024）",
+      "created_display": "Created: Oct 23, 2026 / 10:37 PT",
+      "image_url": "https://johnhendersontravel.com/wp-content/uploads/2024/12/IMG_3851-scaled.jpg",
+      "summary_en": "A visit to a Txoko showcases Basque private gastronomic clubs, revealing how home-style cooking, hospitality, and social ritual shape regional culture. The piece doubles as a foodie travelogue and cultural snapshot.",
+      "summary_zh": "Txoko 指的是巴斯克地区私家美食会所，是理解当地饮食文化的一扇窗。文章描述成员通过自家烹饪、分享餐食和社交仪式维系社区，这反映了风味传统与待客之道。",
+      "hn": {
+        "id": 50212625,
+        "type": "story",
+        "by": "jxub",
+        "score": 30,
+        "descendants": 10,
+        "time": 1792777025,
+        "comments_url": "https://news.ycombinator.com/item?id=50212625"
+      },
+      "tags": [
+        "Culture"
+      ],
+      "hot_score": 0.01
+    },
+    {
+      "title_en": "In Context [video]",
+      "url": "https://www.youtube.com/watch?v=P5eO7BNyJao",
+      "title_zh": "In Context 视频",
+      "created_display": "Created: Oct 23, 2026 / 11:12 PT",
+      "image_url": null,
+      "summary_en": "In Context video presents ideas in practical context to help viewers connect theory with real-world use.",
+      "summary_zh": "In Context 视频将观点置于实际情境中呈现，帮助观众将理论与现实应用联系起来。",
+      "hn": {
+        "id": 50213147,
+        "type": "story",
+        "by": "adityaathalye",
+        "score": 28,
+        "descendants": 2,
+        "time": 1792779133,
+        "comments_url": "https://news.ycombinator.com/item?id=50213147"
+      },
+      "tags": [
+        "Education"
+      ],
+      "hot_score": 0.01
+    },
+    {
+      "title_en": "Kauldron: Modular, scalable library to train ML models",
+      "url": "https://github.com/google-research/kauldron",
+      "title_zh": "Kauldron：可模块化、可扩展的 ML 模型训练库",
+      "created_display": "Created: Oct 25, 2026 / 12:53 PT",
+      "image_url": "https://opengraph.githubassets.com/e992b7dae81fa634f5a3a67e57cfd678da9f736f1a07ff916ad012546ef4d6e9/google-research/kauldron",
+      "summary_en": "Kauldron is a modular, scalable library for training machine learning models, aimed at simplifying large-scale training and experimentation.",
+      "summary_zh": "Kauldron 是一个模块化、可扩展的机器学习模型训练库，旨在简化大规模训练与实验流程。",
+      "hn": {
+        "id": 50235449,
+        "type": "story",
+        "by": "nateb2022",
+        "score": 21,
+        "descendants": 2,
+        "time": 1792958013,
+        "comments_url": "https://news.ycombinator.com/item?id=50235449"
+      },
+      "hot_score": 0.01,
+      "tags": [
+        "Programming",
+        "Open Source",
+        "AI"
+      ]
+    }
+  ]
+}

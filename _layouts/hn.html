@@ -1,0 +1,27 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{{ page.title }}</title>
+    <link rel="stylesheet" href="/hackernews/assets/hn/hn.css?v=20261102index1">
+    <link rel="alternate" type="application/rss+xml" title="Hacker News Daily RSS" href="/hackernews/feed.xml">
+    <!-- Google Analytics 4 -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-S94YYNZWEY"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-S94YYNZWEY');
+    </script>
+</head>
+
+<body>
+    <div class="hn-wrap">
+        {{ content }}
+    </div>
+    <script src="/hackernews/assets/hn/hn.js?v=20261102index1"></script>
+</body>
+
+</html>

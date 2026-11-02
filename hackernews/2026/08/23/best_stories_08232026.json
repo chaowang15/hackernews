@@ -1,0 +1,1145 @@
+{
+  "meta": {
+    "mode": "best",
+    "source": "https://news.ycombinator.com/",
+    "api": "https://github.com/HackerNews/API",
+    "count_requested": 50,
+    "count_written": 50,
+    "reused_same_day": 0,
+    "reused_cross_day": 17,
+    "new_llm_enriched": 10,
+    "scrape_time_display": "05:55, August 24, 2026 (PDT)",
+    "timezone": "America/Los_Angeles",
+    "date_dir": "2026/08/23",
+    "content_date": "2026-08-23",
+    "run_time_local": "05:55, August 24, 2026 (PDT)",
+    "run_time_utc": "2026-08-24 12:55:40 UTC",
+    "incremental": true,
+    "stories_max": 50,
+    "hot_score_time_utc": "2026-08-24 12:57:06 UTC"
+  },
+  "items": [
+    {
+      "title_en": "Andreessen Horowitz is investing billions into a bleak future",
+      "url": "https://www.modelrepublic.org/articles/a16z-portfolio",
+      "title_zh": "A16z在黯淡未来中投出数十亿美元",
+      "created_display": "Created: Aug 23, 2026 / 23:57 PT",
+      "image_url": "https://framerusercontent.com/images/uNIrxXkbxFMlxJRgNjZm1lfmI.jpg?width=1200&height=675",
+      "summary_en": "Andreessen Horowitz is deploying billions into bets on a purportedly bleak future, backing AI, crypto, and frontier tech across its portfolio. The piece analyzes why a16z-funded bets persist despite macro headwinds, and what it implies for startups, competition, and policy shaping.",
+      "summary_zh": "A16z正向其投资组合投放数十亿美元，覆盖AI、加密等前沿领域，押注一个被描绘为艰难的未来。文章分析在宏观环境不确定的情况下为何仍持续进行此类长期赌注，以及这对初创公司、竞争格局与政策走向意味着什么。",
+      "hn": {
+        "id": 49416055,
+        "type": "story",
+        "by": "reasonableklout",
+        "score": 307,
+        "descendants": 111,
+        "time": 1787554621,
+        "comments_url": "https://news.ycombinator.com/item?id=49416055"
+      },
+      "hot_score": 7.24,
+      "tags": [
+        "AI",
+        "Startups",
+        "Business"
+      ]
+    },
+    {
+      "title_en": "Everything I own, owned",
+      "url": "https://schlarp.com/posts/everything-i-own-owned/",
+      "title_zh": "我所拥有的一切，终究被拥有",
+      "created_display": "Created: Aug 23, 2026 / 15:41 PT",
+      "image_url": "https://schlarp.com/posts/everything-i-own-owned/webcam.jpg",
+      "summary_en": "Explores what it means to own things in a world where ownership can be distributed and intangible.",
+      "summary_zh": "探讨在一个所有权可以分散且无形的世界里，拥有到底意味着什么。",
+      "hn": {
+        "id": 49413320,
+        "type": "story",
+        "by": "schlarpc",
+        "score": 1077,
+        "descendants": 294,
+        "time": 1787524864,
+        "comments_url": "https://news.ycombinator.com/item?id=49413320"
+      },
+      "tags": [
+        "Culture"
+      ],
+      "hot_score": 7.1
+    },
+    {
+      "title_en": "New EU-wide product repair rules come into force",
+      "url": "https://www.rte.ie/news/business/2026/0824/1588931-repair-rules/",
+      "title_zh": "欧盟范围的新产品维修规则已生效",
+      "created_display": "Created: Aug 23, 2026 / 22:47 PT",
+      "image_url": "https://www.rte.ie/images/0024e2c3-1600.jpg",
+      "summary_en": "New EU repair rules take effect, aiming to improve product longevity and reduce waste across the bloc. Expect requirements around spare parts availability, repair information, and consumer rights that empower independent repair shops and users.",
+      "summary_zh": "覆盖欧盟的新维修规则开始生效，旨在提升产品寿命、降低电子垃圾。规则将要求提供易得的备件、可获取的修理信息，并加强消费者对维修的权利，推动独立维修市场。",
+      "hn": {
+        "id": 49415621,
+        "type": "story",
+        "by": "austinallegro",
+        "score": 164,
+        "descendants": 98,
+        "time": 1787550447,
+        "comments_url": "https://news.ycombinator.com/item?id=49415621"
+      },
+      "tags": [
+        "Legal"
+      ],
+      "hot_score": 3.02
+    },
+    {
+      "title_en": "Executable Is a SQLite Database",
+      "url": "https://fzakaria.com/2026/08/23/your-executable-is-a-sqlite-database",
+      "title_zh": "可执行文件就是一个 SQLite 数据库",
+      "created_display": "Created: Aug 23, 2026 / 21:48 PT",
+      "image_url": "https://fzakaria.com/assets/images/get-better-material-sqlite.png",
+      "summary_en": "Treating an executable as a SQLite database reframes how we analyze and store binary code, enabling structured querying and tooling. The perspective suggests new ways to inspect, modify, or reason about binaries without abandoning traditional formats.",
+      "summary_zh": "把可执行程序当作 SQLite 数据库来看待，能以结构化的方式对二进制代码进行分析、查询和工具化操作。这一视角可能带来新的二进制分析方法，促进对现有格式的补充性思考。",
+      "hn": {
+        "id": 49415271,
+        "type": "story",
+        "by": "setheron",
+        "score": 178,
+        "descendants": 22,
+        "time": 1787546900,
+        "comments_url": "https://news.ycombinator.com/item?id=49415271"
+      },
+      "hot_score": 2.73,
+      "tags": [
+        "Programming",
+        "Data"
+      ]
+    },
+    {
+      "title_en": "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
+      "url": "https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245",
+      "title_zh": "Anthropic 的最佳 AI 模型在吸引用户方面遇冷，便宜工具更受欢迎",
+      "created_display": "Created: Aug 23, 2026 / 11:16 PT",
+      "image_url": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Ff6698aa8-cd7a-44bb-b641-a76a0ecbe302.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
+      "summary_en": "Reports that Anthropic's top AI model is failing to attract users as cheaper competitors gain traction, raising questions about pricing, UX, and use-case fit. The piece suggests that access cost and ease of integration matter as much as raw capability for adoption.",
+      "summary_zh": "报道显示Anthropic 的顶尖 AI 模型在市场上难以吸引用户，便宜的竞争对手更具吸引力。这提出定价、用户体验和用例匹配等因素与能力同等重要的结论。",
+      "hn": {
+        "id": 49411102,
+        "type": "story",
+        "by": "naves",
+        "score": 599,
+        "descendants": 533,
+        "time": 1787508997,
+        "comments_url": "https://news.ycombinator.com/item?id=49411102"
+      },
+      "tags": [
+        "AI",
+        "Business"
+      ],
+      "hot_score": 2.56
+    },
+    {
+      "title_en": "How I find problems to solve as a staff engineer",
+      "url": "https://lalitm.com/post/find-problems-staff-engineer/",
+      "title_zh": "我在担任资深工程师时如何发现待解决的问题",
+      "created_display": "Created: Aug 23, 2026 / 12:23 PT",
+      "image_url": "https://lalitm.com/social-cards/find-problems-staff-engineer.png",
+      "summary_en": "Learn a practical framework for identifying high-leverage problems as a staff engineer by combining system signals, user pain points, and business impact. The piece emphasizes partnering with product and ops, triaging by impact and effort, and turning findings into scoped initiatives with measurable outcomes.",
+      "summary_zh": "本文介绍在担任资深工程师时如何通过系统信号、用户痛点和业务影响来发现高杠杆的问题，提供实用框架。强调与产品和运维协作、按影响与投入进行优先级排序，并将发现转化为有明确可衡量目标的计划。",
+      "hn": {
+        "id": 49411643,
+        "type": "story",
+        "by": "vanpra",
+        "score": 445,
+        "descendants": 136,
+        "time": 1787513009,
+        "comments_url": "https://news.ycombinator.com/item?id=49411643"
+      },
+      "tags": [
+        "Career"
+      ],
+      "hot_score": 2.1
+    },
+    {
+      "title_en": "I spent $266 and four AI models to own my tablet. GLM-5.3 finished it in a day",
+      "url": "https://ericpardee.github.io/fire-hd-ownership/",
+      "title_zh": "我花266美元和四个AI模型搞定我的平板，GLM-5.3一天就完成了",
+      "created_display": "Created: Aug 23, 2026 / 07:23 PT",
+      "image_url": "https://ericpardee.github.io/fire-hd-ownership/blog-assets/kimi-we-found-a-working-bug.png",
+      "summary_en": "An enthusiast spent 266 dollars across four AI models to tackle a tablet task, with GLM-5.3 emerging as the fastest solution, finishing the job in a day. The experiment underscores how open-weight models can rapidly displace more expensive, closed options for hands-on device tinkering.",
+      "summary_zh": "一位爱好者用266美元、并借助四个AI模型完成对平板的某项挑战，结果由GLM-5.3在一天内解决。此举凸显开源权重模型在成本和速度上的竞争力，适合个人或小团队进行硬件与软件的快速试验。",
+      "hn": {
+        "id": 49409073,
+        "type": "story",
+        "by": "dr_pardee",
+        "score": 662,
+        "descendants": 281,
+        "time": 1787494989,
+        "comments_url": "https://news.ycombinator.com/item?id=49409073"
+      },
+      "hot_score": 2.08,
+      "tags": [
+        "AI",
+        "Open Source"
+      ]
+    },
+    {
+      "title_en": "Google Workspace thinks my domain is an email provider (2025)",
+      "url": "https://blog.elis.cc/articles/google-workspace-thinks-my-domain-is-an-email-provider/",
+      "title_zh": "Google Workspace 把我的域名误判为邮件提供商",
+      "created_display": "Created: Aug 23, 2026 / 12:29 PT",
+      "image_url": "https://blog.elis.cc/_astro/Screenshot%202026-08-23%20170337.DMZ2man9_1b1eRS.webp",
+      "summary_en": "Describes a misclassification by Google Workspace that labels a domain as an email provider, causing unexpected behavior in domain management and security settings.",
+      "summary_zh": "描述 Google Workspace 将某域名错误标注为电子邮件提供商，导致域名管理和安全设置方面出现异常。文中分析此错判对身份与托管配置的影响，以及对协作工作流的干扰。",
+      "hn": {
+        "id": 49411717,
+        "type": "story",
+        "by": "el1s7",
+        "score": 336,
+        "descendants": 114,
+        "time": 1787513372,
+        "comments_url": "https://news.ycombinator.com/item?id=49411717"
+      },
+      "tags": [
+        "Security"
+      ],
+      "hot_score": 1.6
+    },
+    {
+      "title_en": "What Is a Harness?",
+      "url": "https://earendil.com/posts/what-is-a-harness/",
+      "title_zh": "What Is a Harness？",
+      "created_display": "Created: Aug 23, 2026 / 07:24 PT",
+      "image_url": "https://earendil.com/static/og/posts/what-is-a-harness.png",
+      "summary_en": "A harness is a framework for coordinating and running software tasks, experiments, or deployments.",
+      "summary_zh": "Harness 是用于协调和运行软件任务、实验或部署的框架。",
+      "hn": {
+        "id": 49409092,
+        "type": "story",
+        "by": "tosh",
+        "score": 483,
+        "descendants": 157,
+        "time": 1787495061,
+        "comments_url": "https://news.ycombinator.com/item?id=49409092"
+      },
+      "tags": [
+        "DevOps"
+      ],
+      "hot_score": 1.52
+    },
+    {
+      "title_en": "I built a low-latency AI companion that plays Skyrim with me",
+      "url": "https://pantel.is/projects/ai-gaming-companion/",
+      "title_zh": "我做了一个能和我一起玩《上古卷轴》的低延迟AI伙伴",
+      "created_display": "Created: Aug 23, 2026 / 16:18 PT",
+      "image_url": "https://pantelis.s3.us-west-2.amazonaws.com/0/varkos/varkos-share.png",
+      "summary_en": "A low-latency AI companion that plays Skyrim with me demonstrates real-time in-game AI copilots. Leveraging optimized inference and streaming, it keeps up with fast gameplay, enabling a more interactive single-player experience. This kind of tech hints at future AI partners that can co-create with players.",
+      "summary_zh": "一个低延迟的AI伴侣可以与玩家在《上古卷轴》中实时互动，对战斗和探索提供即时协助。通过优化推理和实时流传输实现高响应性，提升单人游戏的沉浸感。这种技术暗示未来AI伙伴可能与玩家共同创造游戏体验。",
+      "hn": {
+        "id": 49413561,
+        "type": "story",
+        "by": "pantelisk",
+        "score": 215,
+        "descendants": 41,
+        "time": 1787527097,
+        "comments_url": "https://news.ycombinator.com/item?id=49413561"
+      },
+      "tags": [
+        "AI",
+        "Gaming"
+      ],
+      "hot_score": 1.52
+    },
+    {
+      "title_en": "My agent.md to improve LLM-assisted code quality",
+      "url": "https://fabiensanglard.net/agent.md/index.html",
+      "title_zh": "我的 agent.md：提升 LLM 助力代码质量",
+      "created_display": "Created: Aug 23, 2026 / 10:59 PT",
+      "image_url": null,
+      "summary_en": "Proposes a structured 'agent.md' approach to guide LLM-assisted coding, using clear prompts, tool integration, and verification steps to raise code quality. It discusses building an autonomous agent that can plan, execute edits, and audit results, plus safety and reliability checks.",
+      "summary_zh": "提出将 agent.md 作为框架来组织 LLM 辅助编码，利用清晰的提示、工具集成和审核步骤提升代码质量。讨论构建具备计划、执行修改与结果审计能力的代理，以及安全与可靠性方面的考量。",
+      "hn": {
+        "id": 49410932,
+        "type": "story",
+        "by": "ibobev",
+        "score": 332,
+        "descendants": 144,
+        "time": 1787507992,
+        "comments_url": "https://news.ycombinator.com/item?id=49410932"
+      },
+      "tags": [
+        "Programming",
+        "AI"
+      ],
+      "hot_score": 1.39
+    },
+    {
+      "title_en": "A website for debloated open source alternatives",
+      "url": "https://debloat.dev/",
+      "title_zh": "去臃肿的开源替代品网站",
+      "created_display": "Created: Aug 23, 2026 / 09:54 PT",
+      "image_url": "https://debloat.dev/og.png",
+      "summary_en": "Debloat.dev curates lighter, less feature-heavy open-source replacements for popular apps, aiming to reduce resource usage without sacrificing utility. The site helps users bypass bloatware and regain control over performance, privacy, and autonomy. For power users and older devices, it can be a practical shortcut to leaner software choices.",
+      "summary_zh": "Debloat.dev 汇集了主流应用的更轻量、功能负担较低的开源替代品，目标是减少资源占用同时保留实用性。该站点帮助用户规避臃肿软件，提升性能、隐私与自主性。对于追求高效的高级用户和老旧设备，这是一条实用的替代路径。",
+      "hn": {
+        "id": 49410362,
+        "type": "story",
+        "by": "ryanvogel",
+        "score": 361,
+        "descendants": 114,
+        "time": 1787504050,
+        "comments_url": "https://news.ycombinator.com/item?id=49410362"
+      },
+      "tags": [
+        "Open Source",
+        "Privacy"
+      ],
+      "hot_score": 1.37
+    },
+    {
+      "title_en": "I were 17, I'd learn how to build LLMs from scratch",
+      "url": "https://twitter.com/paulg/status/2091544343589060625",
+      "title_zh": "如果我17岁，我会从零开始学习如何构建大语言模型",
+      "created_display": "Created: Aug 23, 2026 / 13:38 PT",
+      "image_url": "https://pbs.twimg.com/profile_images/1824002576/pg-railsconf_200x200.jpg",
+      "summary_en": "Learning the fundamentals now pays off later. Hands-on practice building LLMs from scratch builds intuition about architectures, data, and training dynamics. The takeaway is to focus on practical experimentation rather than relying solely on prebuilt APIs.",
+      "summary_zh": "如果年轻时就动手学习并从零开始构建LLMs，能更好掌握原理和局限。文章强调要认真理解架构、数据与训练过程，而不仅仅依赖现成的API。如此能培养工程直觉与创新能力。",
+      "hn": {
+        "id": 49412396,
+        "type": "story",
+        "by": "bilsbie",
+        "score": 245,
+        "descendants": 354,
+        "time": 1787517489,
+        "comments_url": "https://news.ycombinator.com/item?id=49412396"
+      },
+      "tags": [
+        "Education"
+      ],
+      "hot_score": 1.3
+    },
+    {
+      "title_en": "Slovakia finds Russian backdoor in traffic speed cameras",
+      "url": "https://risky.biz/risky-bulletin-slovakia-finds-russian-backdoor-in-traffic-speed-cameras/",
+      "title_zh": "斯洛伐克在交通测速摄像头中发现俄罗斯后门",
+      "created_display": "Created: Aug 23, 2026 / 07:38 PT",
+      "image_url": "https://risky.biz/static/img/RB-OG-Social.jpg",
+      "summary_en": "Slovakia detected a backdoor in Russian-made traffic speed cameras, potentially giving attackers remote access to live feeds and device data. The find highlights ongoing supply-chain risks in critical public infrastructure and the need for rigorous security audits and timely updates.",
+      "summary_zh": "斯洛伐克在一批俄罗斯制造的交通测速摄像头中发现后门，可能让攻击者获得远程访问摄像头数据。此事暴露了关键公共基础设施中的供应链风险，强调对相关设备进行严格的安全审计与及时更新的重要性。",
+      "hn": {
+        "id": 49409200,
+        "type": "story",
+        "by": "dredmorbius",
+        "score": 379,
+        "descendants": 151,
+        "time": 1787495905,
+        "comments_url": "https://news.ycombinator.com/item?id=49409200"
+      },
+      "hot_score": 1.21,
+      "tags": [
+        "Security",
+        "DevOps"
+      ]
+    },
+    {
+      "title_en": "Over 170k Nonprofits Lost All Their Data. Is Microsoft to Blame?",
+      "url": "https://slate.com/technology/2026/08/microsoft-software-nonprofit-data-delete.html",
+      "title_zh": "超过17万家非营利组织丢失全部数据：微软该负责吗？",
+      "created_display": "Created: Aug 23, 2026 / 11:55 PT",
+      "image_url": "https://compote.slate.com/images/6ee722e0-9927-467f-b919-0c0a9217bae5.jpeg?crop=1560%2C1040%2Cx0%2Cy0&width=1560",
+      "summary_en": "Reports a large-scale data loss affecting more than 170k nonprofits, raising questions about data retention policies and risk management for cloud services. The piece analyzes responsibility, data portability, and the need for better backups and vendor accountability.",
+      "summary_zh": "报道超过十七万家非营利组织遭遇数据全部丢失，引发对云端服务的数据保留策略和风险管理的质疑。文章分析责任归属、数据可携带性，以及提升备份与供应商问责制的需求。",
+      "hn": {
+        "id": 49411395,
+        "type": "story",
+        "by": "tchalla",
+        "score": 268,
+        "descendants": 140,
+        "time": 1787511354,
+        "comments_url": "https://news.ycombinator.com/item?id=49411395"
+      },
+      "tags": [
+        "Data",
+        "Legal"
+      ],
+      "hot_score": 1.21
+    },
+    {
+      "title_en": "How Complex Systems Fail (1998)",
+      "url": "https://how.complexsystems.fail/",
+      "title_zh": "复杂系统如何失效（1998）",
+      "created_display": "Created: Aug 23, 2026 / 08:13 PT",
+      "image_url": null,
+      "summary_en": "The paper exposes how complex socio-technical systems fail through hidden interactions and cascading errors, not just individual faults. It argues for redesigns that emphasize safety culture, simple explanations for failures, and robust risk management—lessons that still apply to modern software and infrastructure. Understanding these dynamics helps teams anticipate cascades and improve resilience.",
+      "summary_zh": "该论文揭示了复杂社会技术系统如何通过隐藏的相互作用和级联错误而失败，而非仅仅是个别故障。它主张在设计上强调安全文化、对故障的简单解释以及强健的风险管理——这些教训至今仍适用于现代软件和基础设施。理解这些动力学有助于团队预测级联效应并提升韧性。",
+      "hn": {
+        "id": 49409473,
+        "type": "story",
+        "by": "shortcrct",
+        "score": 337,
+        "descendants": 72,
+        "time": 1787498011,
+        "comments_url": "https://news.ycombinator.com/item?id=49409473"
+      },
+      "tags": [
+        "Science",
+        "DevOps"
+      ],
+      "hot_score": 1.12
+    },
+    {
+      "title_en": "GLM-5.3 (open-weight) beat Anthropic/OpenAI models – for 1/5 the cost",
+      "url": "https://reinvently.co.uk/tools/ed-o-meter/",
+      "title_zh": "GLM-5.3（开源权重）以五分之一成本击败 Anthropic/OpenAI 模型",
+      "created_display": "Created: Aug 23, 2026 / 09:24 PT",
+      "image_url": "https://reinvently.co.uk/images/hero-ed-o-meter-leaderboard.jpg",
+      "summary_en": "GLM-5.3 open-weight outperforms Anthropic and OpenAI models while costing only about one-fifth as much. The result demonstrates the viability of open-weight LLMs for cost-sensitive applications and could shift enterprise procurement and research economics.",
+      "summary_zh": "GLM-5.3开源权重在成本仅约五分之一的情况下，超越了Anthropic和OpenAI的模型。此结果凸显开源大模型在成本敏感场景中的可行性，可能影响企业采购策略和研究经济学。",
+      "hn": {
+        "id": 49410097,
+        "type": "story",
+        "by": "ed-is-ai",
+        "score": 235,
+        "descendants": 109,
+        "time": 1787502261,
+        "comments_url": "https://news.ycombinator.com/item?id=49410097"
+      },
+      "hot_score": 0.86,
+      "tags": [
+        "AI",
+        "Open Source"
+      ]
+    },
+    {
+      "title_en": "I gave Qwen 3.8 27B a reverse-engineering job and it finished in 30 minutes",
+      "url": "https://www.xda-developers.com/qwen-3-8-27b-reverse-engineering-job-frontier-model/",
+      "title_zh": "我给 Qwen 3.8 27B 指派做反向工程任务，30 分钟就完成",
+      "created_display": "Created: Aug 23, 2026 / 03:02 PT",
+      "image_url": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/02/lenovo-thinkstation-pgx-2.jpg?w=1600&h=900&fit=crop",
+      "summary_en": "Hands-on test shows a 27B LLM can perform a reverse-engineering task quickly, highlighting AI assistance for code analysis and problem solving. It demonstrates potential speedups in tasks like malware analysis or binary comprehension, while reminding that verification and safety checks remain essential.",
+      "summary_zh": "亲身测试显示 Qwen 3.8 27B 能在短时间内完成反向工程任务，展现了 AI 对代码分析与问题求解的辅助潜力。虽然可能带来分析效率的提升，但仍需谨慎验证并注意安全与准确性。",
+      "hn": {
+        "id": 49407507,
+        "type": "story",
+        "by": "raybb",
+        "score": 349,
+        "descendants": 147,
+        "time": 1787479371,
+        "comments_url": "https://news.ycombinator.com/item?id=49407507"
+      },
+      "tags": [
+        "AI",
+        "Security"
+      ],
+      "hot_score": 0.82
+    },
+    {
+      "title_en": "Fable and the end of the free lunch",
+      "url": "https://www.dbreunig.com/2026/08/23/fable-the-end-of-moore-s-law.html",
+      "title_zh": "Fable 与免费午餐时代的终结",
+      "created_display": "Created: Aug 23, 2026 / 12:06 PT",
+      "image_url": "https://www.dbreunig.com/img/sf_beach_og.jpg",
+      "summary_en": "Argues that the era of 'free lunch'—easy, cheap AI progress—may be ending as hardware, data, and energy costs scale with model improvements. It weighs bottlenecks and suggests a shift toward more efficient architectures, smarter training, and software optimization to keep AI advancing affordably.",
+      "summary_zh": "作者认为，依赖简单、廉价的 AI 进步的“免费午餐”时代似乎结束，硬件、数据与能耗成本在模型规模扩张中上升。文中讨论了瓶颈，并提出更高效的架构、更聪明的训练以及软件优化以维持经济可行的AI发展。",
+      "hn": {
+        "id": 49411468,
+        "type": "story",
+        "by": "dbreunig",
+        "score": 177,
+        "descendants": 166,
+        "time": 1787511969,
+        "comments_url": "https://news.ycombinator.com/item?id=49411468"
+      },
+      "tags": [
+        "AI",
+        "Hardware",
+        "Energy"
+      ],
+      "hot_score": 0.81
+    },
+    {
+      "title_en": "My favorite nonfiction books about cults, scams, and schemes",
+      "url": "https://bookdna.com/best-books/nonfiction-about-cults-scams-and-schemes",
+      "title_zh": "我最喜欢的关于邪教、骗局和阴谋的非虚构书籍",
+      "created_display": "Created: Aug 23, 2026 / 06:51 PT",
+      "image_url": null,
+      "summary_en": "Curated nonfiction works about cults, scams, and schemes, offering deep dives into manipulation, social psychology, and fraud. The selections help readers recognize misinformation, understand how scams unfold, and improve critical thinking for evaluating tech hype and online narratives.",
+      "summary_zh": "精选关于邪教、骗局与阴谋的非虚构著作，深入探讨操控、社会心理与欺诈机制。帮助读者提升识别错误信息的能力，理解骗局如何运作，并在评估科技领域的热点话题和网络叙事时保持清醒判断。",
+      "hn": {
+        "id": 49408858,
+        "type": "story",
+        "by": "bwb",
+        "score": 248,
+        "descendants": 96,
+        "time": 1787493070,
+        "comments_url": "https://news.ycombinator.com/item?id=49408858"
+      },
+      "tags": [
+        "Culture"
+      ],
+      "hot_score": 0.75
+    },
+    {
+      "title_en": "To become a better writer, read as much as you can",
+      "url": "https://nappertime.com/the-golden-rule-of-becoming-a-better-writer/",
+      "title_zh": "多读书，写作更好",
+      "created_display": "Created: Aug 22, 2026 / 20:32 PT",
+      "image_url": "https://nappertime.com/wp-content/uploads/2026/08/reading-books.png",
+      "summary_en": "Advocates reading widely as the fastest path to improve writing, emphasizing deliberate reading, note-taking, and analyzing style. The piece offers practical steps to turn reading into better sentence craft and ideas.",
+      "summary_zh": "文章主张通过广泛阅读来提升写作能力，强调有目的的阅读、做笔记和分析风格的重要性，并给出将阅读转化为写作技巧的实用步骤。",
+      "hn": {
+        "id": 49405870,
+        "type": "story",
+        "by": "andsoitis",
+        "score": 456,
+        "descendants": 259,
+        "time": 1787455945,
+        "comments_url": "https://news.ycombinator.com/item?id=49405870"
+      },
+      "tags": [
+        "Education"
+      ],
+      "hot_score": 0.74
+    },
+    {
+      "title_en": "Malware infects Android-based automotive head unit firmware",
+      "url": "https://securelist.com/android-head-unit-malware/121106/",
+      "title_zh": "Android 汽车中控固件被木马感染",
+      "created_display": "Created: Aug 23, 2026 / 06:05 PT",
+      "image_url": "https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2026/08/21071446/android-head-unit-malware-scaled.jpg",
+      "summary_en": "Malware has compromised an Android-based automotive head unit, showing that infotainment firmware can be a doorway into a car's ecosystem. The attack likely leverages insecure update pathways or compromised apps, enabling persistence and potential control of connected features. This case underscores the need for stronger supply-chain security, code signing, and robust OTA verification in modern vehicles.",
+      "summary_zh": "研究发现基于 Android 的汽车中控固件被木马入侵，显现信息娱乐系统也可能成为进入车载生态的入口。攻击链可能利用不安全的更新机制或被篡改的应用，从而实现持久化和对连接功能的潜在控制。这凸显了在现代汽车中加强供应链安全、代码签名和鲁棒 OTA 验证的重要性。",
+      "hn": {
+        "id": 49408550,
+        "type": "story",
+        "by": "campuscodi",
+        "score": 249,
+        "descendants": 126,
+        "time": 1787490338,
+        "comments_url": "https://news.ycombinator.com/item?id=49408550"
+      },
+      "tags": [
+        "Security"
+      ],
+      "hot_score": 0.71
+    },
+    {
+      "title_en": "The Vibe Tax",
+      "url": "https://insufferable.dev/posts/vibe-tax/",
+      "title_zh": "氛围税",
+      "created_display": "Created: Aug 23, 2026 / 11:31 PT",
+      "image_url": "https://insufferable.dev/insufferable-og.png",
+      "summary_en": "Argues that intangible 'vibe' costs—time and cognitive load spent maintaining appearances—are a real, overlooked tax on productivity and well-being. It suggests strategies to reduce unnecessary social signaling and focus on substantive work.",
+      "summary_zh": "作者指出维持‘氛围’所带来的无形成本其实是一种隐性税，影响生产力和身心健康。提出减少不必要的社交信号、聚焦实质工作的应对之道。",
+      "hn": {
+        "id": 49411199,
+        "type": "story",
+        "by": "allisdust",
+        "score": 153,
+        "descendants": 133,
+        "time": 1787509862,
+        "comments_url": "https://news.ycombinator.com/item?id=49411199"
+      },
+      "tags": [
+        "Culture"
+      ],
+      "hot_score": 0.67
+    },
+    {
+      "title_en": "Explain it to me like I'm ten",
+      "url": "https://timharford.com/2026/08/explain-it-to-me-like-im-ten/",
+      "title_zh": "像对十岁儿童解释一样",
+      "created_display": "Created: Aug 23, 2026 / 11:08 PT",
+      "image_url": null,
+      "summary_en": "Tim Harford argues for explaining complex topics in plain language, using simple analogies and step-by-step reasoning to make ideas accessible without losing accuracy.",
+      "summary_zh": "蒂姆·哈福德主张用通俗语言解释复杂概念，借助简单的类比和分步推理，使观点更易理解且不失准确性。该文强调这种表达方式有助于提升公众理解力，帮助人们做出更明智的决定。",
+      "hn": {
+        "id": 49411020,
+        "type": "story",
+        "by": "bookofjoe",
+        "score": 156,
+        "descendants": 58,
+        "time": 1787508493,
+        "comments_url": "https://news.ycombinator.com/item?id=49411020"
+      },
+      "tags": [
+        "Education"
+      ],
+      "hot_score": 0.66
+    },
+    {
+      "title_en": "Why Sal Khan't: On Learning by Making but Teaching by Telling",
+      "url": "https://punyamishra.com/2026/04/16/why-sal-khant-on-learning-by-making-but-teaching-by-telling/",
+      "title_zh": "萨尔·汗为何：学习要通过动手实践，但教学却偏向讲授",
+      "created_display": "Created: Aug 23, 2026 / 08:59 PT",
+      "image_url": "https://punyamishra.com/wp-content/uploads/2026/04/salkhant1.jpg",
+      "summary_en": "The piece argues for learning-by-doing and constructing knowledge through making, not just being told. It critiques over-reliance on lectures and advocates balancing exploration with explicit explanation to improve retention and transfer. The takeaway is that education benefits from hands-on practice paired with thoughtful guidance.",
+      "summary_zh": "文章主张通过动手实践来学习、通过做中建构知识，而不仅仅是被告知。它批评对讲授的过度依赖，提倡将探索与清晰讲解相结合，以提升记忆与迁移能力。核心观点是教育应在动手练习与引导性讲解之间取得平衡。",
+      "hn": {
+        "id": 49409862,
+        "type": "story",
+        "by": "the-mitr",
+        "score": 183,
+        "descendants": 106,
+        "time": 1787500748,
+        "comments_url": "https://news.ycombinator.com/item?id=49409862"
+      },
+      "tags": [
+        "Education"
+      ],
+      "hot_score": 0.65
+    },
+    {
+      "title_en": "Wi-Fi 8 is the first wireless upgrade in years that isn't chasing speed",
+      "url": "https://www.xda-developers.com/wi-fi-8-first-wireless-upgrade-years-isnt-chasing-speed-home-networks-need-it/",
+      "title_zh": "Wi-Fi 8：多年升级不再全力追求速度",
+      "created_display": "Created: Aug 22, 2026 / 23:41 PT",
+      "image_url": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/router.jpg?w=1600&h=900&fit=crop",
+      "summary_en": "Wi-Fi 8 shifts priorities from raw speed toward reliability, coverage, energy efficiency, and security features amid rising smart home needs.",
+      "summary_zh": "Wi‑Fi 8 将优先关注可靠性、覆盖、能效与安全性等特性，而非追逐更高速度，适应物联网家庭需求。",
+      "hn": {
+        "id": 49406539,
+        "type": "story",
+        "by": "taubek",
+        "score": 323,
+        "descendants": 266,
+        "time": 1787467311,
+        "comments_url": "https://news.ycombinator.com/item?id=49406539"
+      },
+      "tags": [
+        "Security",
+        "Energy"
+      ],
+      "hot_score": 0.62
+    },
+    {
+      "title_en": "Coconut oil jet fuel matches kerosene's efficiency in engine tests",
+      "url": "https://studyfinds.com/coconut-oil-jet-fuel-matches-kerosenes-efficiency-in-engine-tests/",
+      "title_zh": "椰子油喷气燃料在发动机测试中与煤油效率相当",
+      "created_display": "Created: Aug 23, 2026 / 08:50 PT",
+      "image_url": "https://studyfinds.com/wp-content/uploads/2024/01/Coconut-oil.jpg?ver=1787499183",
+      "summary_en": "Tests show coconut-oil-based jet fuel delivering comparable efficiency to kerosene in engines, signaling a potential sustainable alternative for aviation fuel. However, questions remain about scalability, supply chains, and lifecycle emissions. If scalable, natural-feedstock fuels could diversify aviation fuel options.",
+      "summary_zh": "发动机测试显示以椰子油为基础的喷气燃料在效率上与煤油相当，提示其可能成为航空燃料的可持续替代方案。但关于规模化、供应链和全生命周期排放等仍有待解决；若可规模化，天然原料燃料能为航空燃料选项带来更多样性。",
+      "hn": {
+        "id": 49409780,
+        "type": "story",
+        "by": "mdp2021",
+        "score": 176,
+        "descendants": 204,
+        "time": 1787500218,
+        "comments_url": "https://news.ycombinator.com/item?id=49409780"
+      },
+      "tags": [
+        "Energy",
+        "Science"
+      ],
+      "hot_score": 0.61
+    },
+    {
+      "title_en": "Why your local LLM feels dumber than it is",
+      "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
+      "title_zh": "本地大模型为何看起来不那么聪明",
+      "created_display": "Created: Aug 22, 2026 / 11:14 PT",
+      "image_url": "https://level1techs.us-east-1.linodeobjects.com/original/4X/d/8/7/d87c01532439840126d90ea94abfdfcf6501f42f.png",
+      "summary_en": "A local LLM may feel less capable than a hosted model because of limited compute, memory, and latency constraints that force smaller context windows and cruder prompting. The discussion covers practical ways to tune performance, including speed-accuracy trade-offs, quantization, and tool integration.",
+      "summary_zh": "本地大模型因计算、内存和延迟受限，导致上下文窗口变小、提示粗糙，从而感知上不如云端模型智能。内容给出提升性能的实际做法，包括速度与准确性的权衡、量化和工具集成。",
+      "hn": {
+        "id": 49402232,
+        "type": "story",
+        "by": "felineflock",
+        "score": 493,
+        "descendants": 201,
+        "time": 1787422456,
+        "comments_url": "https://news.ycombinator.com/item?id=49402232"
+      },
+      "tags": [
+        "AI",
+        "Programming"
+      ],
+      "hot_score": 0.53
+    },
+    {
+      "title_en": "ElevenLabs, TwelveLabs, ThirteenLabs",
+      "url": "https://quantumi.sh/public/labs.html",
+      "title_zh": "十一实验室、十二实验室与十三实验室",
+      "created_display": "Created: Aug 22, 2026 / 07:54 PT",
+      "image_url": null,
+      "summary_en": "Explores a growing pattern of AI labs using sequential numbers in their branding, analyzing why founders gravitate to numeric names and what it signals about the AI ecosystem’s identity and competition.",
+      "summary_zh": "探讨越来越多的 AI 实验室采用连续数字作为品牌名的趋势，分析创始人为何偏好数字命名，以及这对 AI 生态系统身份与竞争的意味。",
+      "hn": {
+        "id": 49400408,
+        "type": "story",
+        "by": "jemoka",
+        "score": 489,
+        "descendants": 148,
+        "time": 1787410447,
+        "comments_url": "https://news.ycombinator.com/item?id=49400408"
+      },
+      "tags": [
+        "AI"
+      ],
+      "hot_score": 0.46
+    },
+    {
+      "title_en": "Scrap (2006)",
+      "url": "https://twitter.com/moxie/status/2091218652133732491",
+      "title_zh": "Scrap（2006）",
+      "created_display": "Created: Aug 22, 2026 / 11:08 PT",
+      "image_url": "https://pbs.twimg.com/profile_images/1904271714370158592/N1nB2x1O_200x200.jpg",
+      "summary_en": "Scrap (2006)",
+      "summary_zh": "回顾 2006 年的 Scrap，最近在网上讨论中被提及。",
+      "hn": {
+        "id": 49402189,
+        "type": "story",
+        "by": "tosh",
+        "score": 416,
+        "descendants": 222,
+        "time": 1787422136,
+        "comments_url": "https://news.ycombinator.com/item?id=49402189"
+      },
+      "tags": [
+        "Programming"
+      ],
+      "hot_score": 0.44
+    },
+    {
+      "title_en": "MartyPC is a cross-platform emulator of early PCs written in Rust",
+      "url": "https://martypc.net/",
+      "title_zh": "MartyPC：用 Rust 编写的早期 PC 跨平台模拟器",
+      "created_display": "Created: Aug 22, 2026 / 20:13 PT",
+      "image_url": "https://martypc.net/assets/marty_logo_about_twitter.png",
+      "summary_en": "MartyPC is a cross-platform emulator of early PCs, implemented in Rust, highlighting modern language choices for system emulation.",
+      "summary_zh": "MartyPC 是用 Rust 编写的早期个人电脑跨平台模拟器，展示了用现代语言实现系统仿真的趋势。",
+      "hn": {
+        "id": 49405816,
+        "type": "story",
+        "by": "boilerupnc",
+        "score": 213,
+        "descendants": 95,
+        "time": 1787454796,
+        "comments_url": "https://news.ycombinator.com/item?id=49405816"
+      },
+      "tags": [
+        "Programming"
+      ],
+      "hot_score": 0.34
+    },
+    {
+      "title_en": "The End of an Athlon",
+      "url": "http://www.os2museum.com/wp/the-end-of-an-athlon/",
+      "title_zh": "Athlon 的终结",
+      "created_display": "Created: Aug 22, 2026 / 22:51 PT",
+      "image_url": "http://www.os2museum.com/wp/wp-content/uploads/2012/02/os2floppy.jpg",
+      "summary_en": "Explains the end of the Athlon era, perhaps due to shifts in market and architecture; nostalgia for x86 era.",
+      "summary_zh": "解释 Athlon 时代的终结，讨论市场与架构变化带来的影响，并带来对 x86 时代的怀旧。",
+      "hn": {
+        "id": 49406333,
+        "type": "story",
+        "by": "userbinator",
+        "score": 177,
+        "descendants": 89,
+        "time": 1787464261,
+        "comments_url": "https://news.ycombinator.com/item?id=49406333"
+      },
+      "tags": [
+        "Hardware"
+      ],
+      "hot_score": 0.32
+    },
+    {
+      "title_en": "The Sloppification of Peptides",
+      "url": "https://henryaj.substack.com/p/the-sloppification-of-peptides",
+      "title_zh": "肽研究的草率化趋势",
+      "created_display": "Created: Aug 23, 2026 / 02:32 PT",
+      "image_url": null,
+      "summary_en": "A critical look at how sloppy practices in peptide science are affecting reproducibility and reliability, from synthesis errors to data reporting. The piece advocates for stricter standards, better documentation, and reproducible workflows in peptide research.",
+      "summary_zh": "从肽合成错误到数据报告不规范，批评肽领域的草率化做法如何损害可重复性与可靠性。倡导更严格的标准、完整的记录以及可重复的工作流程。",
+      "hn": {
+        "id": 49407341,
+        "type": "story",
+        "by": "henryaj",
+        "score": 140,
+        "descendants": 136,
+        "time": 1787477574,
+        "comments_url": "https://news.ycombinator.com/item?id=49407341"
+      },
+      "tags": [
+        "Science"
+      ],
+      "hot_score": 0.32
+    },
+    {
+      "title_en": "Thinking in Python",
+      "url": "https://thinkinginpython.com/",
+      "title_zh": "用 Python 思考",
+      "created_display": "Created: Aug 22, 2026 / 11:10 PT",
+      "image_url": null,
+      "summary_en": "Offers a practical guide to thinking in Python, emphasizing idiomatic patterns, problem decomposition, and Pythonic design.",
+      "summary_zh": "提供关于用 Python 思维来解决问题的实用指南，强调代码风格、问题分解和 Python 的惯用设计。",
+      "hn": {
+        "id": 49402202,
+        "type": "story",
+        "by": "pjacotg",
+        "score": 294,
+        "descendants": 60,
+        "time": 1787422249,
+        "comments_url": "https://news.ycombinator.com/item?id=49402202"
+      },
+      "tags": [
+        "Programming"
+      ],
+      "hot_score": 0.31
+    },
+    {
+      "title_en": "JIT Compiling Code in 5μs",
+      "url": "https://malisper.me/jit-compiling-code-in-5-us/",
+      "title_zh": "5微秒内实现JIT编译的代码",
+      "created_display": "Created: Aug 22, 2026 / 23:04 PT",
+      "image_url": "https://malisper.me/wp-content/uploads/2026/08/pgrust-jit-featured-simple-1200x630-1.png",
+      "summary_en": "An exploration of techniques that push Just-In-Time compilation into the microsecond range, challenging latency assumptions for dynamic languages. The piece weighs the trade-offs between compilation speed and code quality, with implications for interactive apps and language runtimes.",
+      "summary_zh": "介绍将 JIT 编译推向微秒级别的技术路径，挑战动态语言对延迟的传统认知。讨论编译速度与代码质量之间的权衡，以及对交互式应用和语言运行时的潜在影响。",
+      "hn": {
+        "id": 49406387,
+        "type": "story",
+        "by": "zX41ZdbW",
+        "score": 161,
+        "descendants": 98,
+        "time": 1787465091,
+        "comments_url": "https://news.ycombinator.com/item?id=49406387"
+      },
+      "tags": [
+        "Programming"
+      ],
+      "hot_score": 0.3
+    },
+    {
+      "title_en": "The Art and Beauty of Blade Runner (2015)",
+      "url": "https://nappertime.com/the-art-of-and-beauty-of-blade-runner/",
+      "title_zh": "Blade Runner（2015）的艺术与美学",
+      "created_display": "Created: Aug 22, 2026 / 17:56 PT",
+      "image_url": "https://nappertime.com/wp-content/uploads/2014/07/blade-runner-cityscape.jpg",
+      "summary_en": "A tribute to the visual artistry of Blade Runner (2015), exploring design, atmosphere, and the craft of world-building.",
+      "summary_zh": "致敬 Blade Runner（2015）的视觉艺术与美学，探讨设计、氛围与世界观营造。",
+      "hn": {
+        "id": 49405331,
+        "type": "story",
+        "by": "cocacola1",
+        "score": 180,
+        "descendants": 113,
+        "time": 1787446563,
+        "comments_url": "https://news.ycombinator.com/item?id=49405331"
+      },
+      "tags": [
+        "Design",
+        "Entertainment"
+      ],
+      "hot_score": 0.26
+    },
+    {
+      "title_en": "Sydney Marathon medal mistakenly depicts Munich stadium",
+      "url": "https://www.bbc.com/news/articles/cvg92y1wzn8o",
+      "title_zh": "悉尼马拉松奖牌误印为慕尼黑体育场",
+      "created_display": "Created: Aug 23, 2026 / 03:14 PT",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/e4ac/live/054e6c20-9dd0-11f1-b109-879e35c24276.jpg",
+      "summary_en": "A Sydney Marathon medal design error printed Munich Stadium instead of a Sydney landmark, prompting a recall and public embarrassment for the organizers. The mishap highlights QA failures in mass-produced event swag and the need for design review processes.",
+      "summary_zh": "悉尼马拉松奖牌在设计中将慕尼黑体育场错印成了悉尼地标，导致发放错误并需要召回。此事凸显大规模周边商品设计与质量控制的挑战。",
+      "hn": {
+        "id": 49407576,
+        "type": "story",
+        "by": "epestr",
+        "score": 106,
+        "descendants": 71,
+        "time": 1787480088,
+        "comments_url": "https://news.ycombinator.com/item?id=49407576"
+      },
+      "hot_score": 0.25,
+      "tags": [
+        "Design"
+      ]
+    },
+    {
+      "title_en": "New MCP Roadmap",
+      "url": "https://blog.modelcontextprotocol.io/posts/mcp-roadmap/",
+      "title_zh": "MCP 新路线图",
+      "created_display": "Created: Aug 22, 2026 / 06:31 PT",
+      "image_url": "https://blog.modelcontextprotocol.io/og-image.png",
+      "summary_en": "Shares the latest MCP roadmap, detailing upcoming milestones, API changes, and plans for broader ecosystem support.",
+      "summary_zh": "公布最新 MCP 路线图，涵盖即将到来的里程碑、API 变更及对更广泛生态系统的支持计划。",
+      "hn": {
+        "id": 49399591,
+        "type": "story",
+        "by": "pentagrama",
+        "score": 268,
+        "descendants": 156,
+        "time": 1787405494,
+        "comments_url": "https://news.ycombinator.com/item?id=49399591"
+      },
+      "tags": [
+        "Programming"
+      ],
+      "hot_score": 0.24
+    },
+    {
+      "title_en": "A Friendly Introduction to Racket",
+      "url": "https://geometridae.bearblog.dev/a-friendly-introduction-to-racket/",
+      "title_zh": "友好的 Racket 入门",
+      "created_display": "Created: Aug 22, 2026 / 07:08 PT",
+      "image_url": "https://geometridae.bearblog.dev/static/og-image.png",
+      "summary_en": "An approachable primer to Racket, the Lisp-family language used for teaching CS and scripting. It covers syntax, primitives, and how to get started, with examples that illustrate functional programming concepts.",
+      "summary_zh": "这是一篇友好的 Racket 入门，介绍 Lisp 族语言的基本语法、核心概念和入门示例，帮助初学者快速上手。",
+      "hn": {
+        "id": 49399898,
+        "type": "story",
+        "by": "signa11",
+        "score": 266,
+        "descendants": 180,
+        "time": 1787407699,
+        "comments_url": "https://news.ycombinator.com/item?id=49399898"
+      },
+      "tags": [
+        "Programming"
+      ],
+      "hot_score": 0.24
+    },
+    {
+      "title_en": "Tragically, as many as 9625 out of every 10k individuals may be neurotypical",
+      "url": "https://erikengdahl.se/autism/isnt/",
+      "title_zh": "悲观地看，每万名中约有9625人是神经典型",
+      "created_display": "Created: Aug 23, 2026 / 01:48 PT",
+      "image_url": null,
+      "summary_en": "A provocative look at autism prevalence argues that about 96% of people may be neurotypical, and analyzes how such labels shape education, workplaces, and policy. The piece calls for careful interpretation of statistics and broader inclusion of neurodiversity realities.",
+      "summary_zh": "这篇观点文章用约96%的神经典型比例作为讨论起点，探讨社会如何界定神经多样性以及在教育和职场中的影响。它呼吁对统计数据进行更细致的解读，超越简单的标签。",
+      "hn": {
+        "id": 49407143,
+        "type": "story",
+        "by": "verisimi",
+        "score": 112,
+        "descendants": 121,
+        "time": 1787474914,
+        "comments_url": "https://news.ycombinator.com/item?id=49407143"
+      },
+      "hot_score": 0.24,
+      "tags": [
+        "Health",
+        "Education"
+      ]
+    },
+    {
+      "title_en": "Anthropic appears to be A/B testing reduced effort levels in Claude Code",
+      "url": "https://twitter.com/argofowl/status/2091150597374537729",
+      "title_zh": "Anthropic 在 Claude Code 上测试降低输出努力等级的 A/B 测试",
+      "created_display": "Created: Aug 22, 2026 / 09:58 PT",
+      "image_url": "https://pbs.twimg.com/profile_images/2046948500206940161/qOR9xYkA_200x200.jpg",
+      "summary_en": "Signals that Anthropic is running A/B tests to lower the effort/quality level in Claude Code, potentially affecting output quality or cost.",
+      "summary_zh": "表明 Anthropic 正在对 Claude Code 进行 A/B 测试，降低输出质量或投入成本的水平。这可能影响开发者在编码任务中的体验。",
+      "hn": {
+        "id": 49401549,
+        "type": "story",
+        "by": "matthieu_bl",
+        "score": 206,
+        "descendants": 185,
+        "time": 1787417929,
+        "comments_url": "https://news.ycombinator.com/item?id=49401549"
+      },
+      "tags": [
+        "AI"
+      ],
+      "hot_score": 0.21
+    },
+    {
+      "title_en": "hdiutil is deprecated in macOS 27 Golden Gate",
+      "url": "https://lapcatsoftware.com/articles/2026/8/7.html",
+      "title_zh": "macOS 27 将弃用 hdiutil",
+      "created_display": "Created: Aug 22, 2026 / 12:04 PT",
+      "image_url": null,
+      "summary_en": "macOS 27 deprecates hdiutil, the disk image utility, signaling developers to migrate to alternative tooling.",
+      "summary_zh": "macOS 27 将弃用 hdiutil，提示开发者迁移到替代工具。",
+      "hn": {
+        "id": 49402741,
+        "type": "story",
+        "by": "zdw",
+        "score": 188,
+        "descendants": 88,
+        "time": 1787425481,
+        "comments_url": "https://news.ycombinator.com/item?id=49402741"
+      },
+      "tags": [
+        "Programming"
+      ],
+      "hot_score": 0.21
+    },
+    {
+      "title_en": "A Kantian Critique of \"Sorry\" by Justin Bieber",
+      "url": "https://decodingvibes.com/blog/a-kantian-critique-of-sorry-by-justin-bieber/",
+      "title_zh": "对 Justin Bieber 的《Sorry》的康德式批判",
+      "created_display": "Created: Aug 22, 2026 / 06:24 PT",
+      "image_url": null,
+      "summary_en": "Examines expressions of apology in the Bieber track through Kantian ethics, focusing on sincerity, moral law, and duties.",
+      "summary_zh": "用康德伦理学分析 Bieber 的《Sorry》中的道歉表达，聚焦于真诚、道德法则与义务。",
+      "hn": {
+        "id": 49399524,
+        "type": "story",
+        "by": "altmanaltman",
+        "score": 230,
+        "descendants": 101,
+        "time": 1787405046,
+        "comments_url": "https://news.ycombinator.com/item?id=49399524"
+      },
+      "tags": [
+        "Culture"
+      ],
+      "hot_score": 0.2
+    },
+    {
+      "title_en": "Fast and Hard Code",
+      "url": "https://lucumr.pocoo.org/2026/8/22/fast-hard-code/",
+      "title_zh": "快速与硬核的代码",
+      "created_display": "Created: Aug 22, 2026 / 22:39 PT",
+      "image_url": "https://lucumr.pocoo.org/social/2026-08-22-fast-hard-code-social.png",
+      "summary_en": "Fast and Hard Code argues for a pragmatic balance between performance and reliability, advocating profiling-driven optimizations and robust abstractions. The piece suggests you design for what users actually notice as fast while keeping the code maintainable.",
+      "summary_zh": "这篇文章主张在追求性能的同时保持代码的可靠性，强调以剖析驱动的优化和稳健的抽象来实现快速且可维护的代码。作者建议以用户实际感知的速度为目标，并坚持可维护性。",
+      "hn": {
+        "id": 49406285,
+        "type": "story",
+        "by": "tosh",
+        "score": 113,
+        "descendants": 78,
+        "time": 1787463546,
+        "comments_url": "https://news.ycombinator.com/item?id=49406285"
+      },
+      "hot_score": 0.2,
+      "tags": [
+        "Programming"
+      ]
+    },
+    {
+      "title_en": "I dream of quieter computing",
+      "url": "https://henry.codes/writing/i-dream-of-quieter-computing/",
+      "title_zh": "我梦想着更安静的计算",
+      "created_display": "Created: Aug 22, 2026 / 19:33 PT",
+      "image_url": "https://v1.screenshot.11ty.dev/https%3A%2F%2Fhenry.codes%2Fopengraph%2Fwriting%2Fi-dream-of-quieter-computing/opengraph",
+      "summary_en": "The essay surveys how hardware noise—from fans to hard drives—disrupts the workspace and argues for quieter computing designs. It explores practical steps like quieter cooling, fan curve tuning, and considering passive cooling or sound-dampening setups.",
+      "summary_zh": "文章探讨了计算硬件的噪声如何影响工作环境，并提出更安静的计算设计思路。讨论了降低噪声的具体做法，如安静散热、风扇调速和被动冷却等。",
+      "hn": {
+        "id": 49405682,
+        "type": "story",
+        "by": "Sir_Twist",
+        "score": 121,
+        "descendants": 119,
+        "time": 1787452402,
+        "comments_url": "https://news.ycombinator.com/item?id=49405682"
+      },
+      "tags": [
+        "Hardware"
+      ],
+      "hot_score": 0.19
+    },
+    {
+      "title_en": "Hook, hold, harvest and hide: Meta's alleged strategy laid out in first week",
+      "url": "https://www.theguardian.com/technology/2026/aug/22/meta-trial-children-privacy",
+      "title_zh": "Hook、Hold、Harvest 与 Hide：Meta 首周策略曝光",
+      "created_display": "Created: Aug 22, 2026 / 05:07 PT",
+      "image_url": "https://i.guim.co.uk/img/media/5fe3c6e2663c1940dc067dd6bc16c1117ac663b4/955_0_4016_3213/master/4016.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d230dbeb5c6c85168c698cf5d9542f3f",
+      "summary_en": "Describes alleged Meta strategy in the first week of a privacy trial—hook users, hold engagement, harvest data, and hide practices.",
+      "summary_zh": "据称在隐私诉讼首周，Meta 的策略是钩住用户、提高粘性、收集数据并隐瞒做法。",
+      "hn": {
+        "id": 49398904,
+        "type": "story",
+        "by": "sbulaev",
+        "score": 218,
+        "descendants": 191,
+        "time": 1787400426,
+        "comments_url": "https://news.ycombinator.com/item?id=49398904"
+      },
+      "tags": [
+        "Privacy"
+      ],
+      "hot_score": 0.18
+    },
+    {
+      "title_en": "NetBSD and my life (2005)",
+      "url": "https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html",
+      "title_zh": "NetBSD 与我的生活（2005）",
+      "created_display": "Created: Aug 22, 2026 / 12:07 PT",
+      "image_url": null,
+      "summary_en": "A reflective piece tying NetBSD usage in 2005 to the author’s career and hobbyist milestones.",
+      "summary_zh": "以 2005 年使用 NetBSD 的经历为线索，讲述作者职业与业余生活的里程碑。",
+      "hn": {
+        "id": 49402781,
+        "type": "story",
+        "by": "gnyeki",
+        "score": 152,
+        "descendants": 43,
+        "time": 1787425666,
+        "comments_url": "https://news.ycombinator.com/item?id=49402781"
+      },
+      "tags": [
+        "Open Source",
+        "Culture"
+      ],
+      "hot_score": 0.17
+    },
+    {
+      "title_en": "NanoGPT Speedrun Frontier",
+      "url": "https://www.primeintellect.ai/research/nanogpt-speedrun",
+      "title_zh": "NanoGPT 速度挑战前沿",
+      "created_display": "Created: Aug 22, 2026 / 15:14 PT",
+      "image_url": "https://primeintellect.ai/research/nanogpt-speedrun-preview.png",
+      "summary_en": "Explores speedrunning with NanoGPT, likely benchmarks and optimization tricks to push performance.",
+      "summary_zh": "聚焦 NanoGPT 的性能极限探索，涵盖基准测试与优化技巧。",
+      "hn": {
+        "id": 49404380,
+        "type": "story",
+        "by": "stared",
+        "score": 137,
+        "descendants": 38,
+        "time": 1787436867,
+        "comments_url": "https://news.ycombinator.com/item?id=49404380"
+      },
+      "tags": [
+        "AI"
+      ],
+      "hot_score": 0.17
+    },
+    {
+      "title_en": "Figmimic – A bookmarklet to copy any webpage into Figma as editable layers",
+      "url": "https://marcua.net/minitools/figmimic/",
+      "title_zh": "Figmimic：把任意网页导入 Figma 的书签工具",
+      "created_display": "Created: Aug 22, 2026 / 11:11 PT",
+      "image_url": null,
+      "summary_en": "Figmimic is a bookmarklet that converts any webpage into editable Figma layers, preserving structure and assets for rapid prototyping. It accelerates design handoffs, though results may vary for dynamic content.",
+      "summary_zh": "Figmimic 是一个书签工具，可以把任意网页导入到 Figma，并以可编辑图层保留结构和素材，便于快速原型设计。该工具提高了设计交付效率，但对动态内容的处理可能参差不齐。",
+      "hn": {
+        "id": 49402213,
+        "type": "story",
+        "by": "speckx",
+        "score": 128,
+        "descendants": 20,
+        "time": 1787422300,
+        "comments_url": "https://news.ycombinator.com/item?id=49402213"
+      },
+      "hot_score": 0.14,
+      "tags": [
+        "Design"
+      ]
+    },
+    {
+      "title_en": "Belgian car salesman becomes prince after DNA test proves royal parentage",
+      "url": "https://www.cnn.com/2026/08/22/europe/prince-belgium-secret-son-scli-intl",
+      "title_zh": "比利时汽车销售员经DNA检测证明王室血统，成为王子",
+      "created_display": "Created: Aug 22, 2026 / 10:09 PT",
+      "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/sipausa-66517102.jpg?c=16x9&q=w_800,c_fill",
+      "summary_en": "A Belgian car salesman learns he is royalty after a DNA test, becoming a prince. The story raises questions about royal succession, public fascination with bloodlines, and how genetics can reshape social status.",
+      "summary_zh": "一名比利时汽车销售员通过DNA检测确认王室血统，成为王子。此事揭示了王位继承、血统观念在现代社会的影响，以及基因学如何改变个人身份。",
+      "hn": {
+        "id": 49401621,
+        "type": "story",
+        "by": "MilnerRoute",
+        "score": 108,
+        "descendants": 98,
+        "time": 1787418567,
+        "comments_url": "https://news.ycombinator.com/item?id=49401621"
+      },
+      "hot_score": 0.11,
+      "tags": [
+        "Science",
+        "Culture"
+      ]
+    }
+  ]
+}

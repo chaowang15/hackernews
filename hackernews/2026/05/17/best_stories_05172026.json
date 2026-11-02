@@ -1,0 +1,1167 @@
+{
+  "meta": {
+    "mode": "best",
+    "source": "https://news.ycombinator.com/",
+    "api": "https://github.com/HackerNews/API",
+    "count_requested": 50,
+    "count_written": 50,
+    "reused_same_day": 0,
+    "reused_cross_day": 0,
+    "new_llm_enriched": 29,
+    "scrape_time_display": "08:40, May 18, 2026 (PDT)",
+    "timezone": "America/Los_Angeles",
+    "date_dir": "2026/05/17",
+    "content_date": "2026-05-17",
+    "run_time_local": "08:40, May 18, 2026 (PDT)",
+    "run_time_utc": "2026-05-18 15:40:25 UTC",
+    "incremental": true,
+    "stories_max": 50,
+    "hot_score_time_utc": "2026-05-18 15:41:55 UTC"
+  },
+  "items": [
+    {
+      "title_en": "Show HN: Files.md – Open-source alternative to Obsidian",
+      "url": "https://github.com/zakirullin/files.md",
+      "title_zh": "Show HN：Files.md——Obsidian 的开源替代品",
+      "created_display": "Created: May 18, 2026 / 06:33 PT",
+      "image_url": "https://opengraph.githubassets.com/30308ac6761a5ff5c50c73982d8565b8f9aeb568fbd990d650f65b14c762ebad/zakirullin/files.md",
+      "summary_en": "Files.md is an open-source knowledge management app pitched as an Obsidian alternative, focusing on local Markdown files and a lightweight footprint. It appeals to users seeking privacy and ownership of their data.",
+      "summary_zh": "Files.md 是一款开源知识管理应用，被定位为 Obsidian 的替代方案，注重本地 Markdown 文件与轻量化。它吸引那些寻求隐私和对数据拥有权的用户。",
+      "hn": {
+        "id": 48179677,
+        "type": "story",
+        "by": "zakirullin",
+        "score": 192,
+        "descendants": 110,
+        "time": 1779111213,
+        "comments_url": "https://news.ycombinator.com/item?id=48179677"
+      },
+      "hot_score": 14.81,
+      "tags": [
+        "Show HN",
+        "Open Source",
+        "Privacy"
+      ]
+    },
+    {
+      "title_en": "Show HN: Auto-identity-remove – Automated data broker opt-out runner for macOS",
+      "url": "https://github.com/stephenlthorn/auto-identity-remove",
+      "title_zh": "Show HN：Auto-identity-remove——用于 macOS 的自动化数据经纪人退出工具",
+      "created_display": "Created: May 18, 2026 / 04:32 PT",
+      "image_url": "https://opengraph.githubassets.com/ebd25087195d8e6382677a6bea8153dab7134997328ead9953ea11338f4e0c6d/stephenlthorn/auto-identity-remove",
+      "summary_en": "Auto-identity-remove is an open-source macOS tool that automates opt-out requests to data brokers, aiming to reduce personal data exposure. It demonstrates a practical approach to privacy hygiene with automation.",
+      "summary_zh": "Auto-identity-remove 是一个开源的 macOS 工具，自动化向数据经纪人提交退出请求，旨在降低个人数据暴露。它展示了通过自动化实现隐私卫生的实用方法。",
+      "hn": {
+        "id": 48178184,
+        "type": "story",
+        "by": "stephenlthorn",
+        "score": 293,
+        "descendants": 114,
+        "time": 1779103962,
+        "comments_url": "https://news.ycombinator.com/item?id=48178184"
+      },
+      "hot_score": 11.09,
+      "tags": [
+        "Show HN",
+        "Open Source",
+        "Privacy"
+      ]
+    },
+    {
+      "title_en": "Eric Schmidt speech about AI booed during graduation",
+      "url": "https://www.nbcnews.com/tech/tech-news/former-google-ceo-booed-graduation-speech-ai-rcna345585",
+      "title_zh": "前 Google CEO 施密特在毕业典礼就 AI 的讲话遭遇哄笑",
+      "created_display": "Created: May 18, 2026 / 03:50 PT",
+      "image_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-05/260517-Eric-Schmidt-vl-358p-b8fb07.jpg",
+      "summary_en": "Eric Schmidt’s AI-themed graduation remarks were booed, signaling skepticism about the AI hype among students. The moment reflects broader tensions between industry optimism and concerns about automation's impact on jobs and society.",
+      "summary_zh": "施密特在毕业典礼上就 AI 的讲话遭遇嘘声，显示学生群体对 AI 热潮的怀疑情绪。此刻折射出行业乐观情绪与对自动化对就业及社会影响的担忧之间的紧张。",
+      "hn": {
+        "id": 48177785,
+        "type": "story",
+        "by": "nothrowaways",
+        "score": 305,
+        "descendants": 314,
+        "time": 1779101425,
+        "comments_url": "https://news.ycombinator.com/item?id=48177785"
+      },
+      "hot_score": 9.5,
+      "tags": [
+        "AI",
+        "Culture"
+      ]
+    },
+    {
+      "title_en": "AI eats the world (Spring 26) [pdf]",
+      "url": "https://static1.squarespace.com/static/50363cf324ac8e905e7df861/t/6a0af5d0484fbf5fe9a7743e/1779103184855/2026-Spring-AI.pdf",
+      "title_zh": "AI 吃掉了世界（2026 春季版）[PDF]",
+      "created_display": "Created: May 18, 2026 / 05:49 PT",
+      "image_url": null,
+      "summary_en": "A 2026 AI landscape report surveying adoption, risks, and policy implications across industries, offering a snapshot of how AI investments are evolving globally.",
+      "summary_zh": "一份2026年 AI 现状报告，梳理各行业的普及、风险与政策含义，提供全球 AI 投资演变的快照。",
+      "hn": {
+        "id": 48179021,
+        "type": "story",
+        "by": "topherjaynes",
+        "score": 119,
+        "descendants": 67,
+        "time": 1779108568,
+        "comments_url": "https://news.ycombinator.com/item?id=48179021"
+      },
+      "hot_score": 6.82,
+      "tags": [
+        "AI",
+        "Business"
+      ]
+    },
+    {
+      "title_en": "Linux security mailing list 'almost unmanageable'",
+      "url": "https://www.theregister.com/security/2026/05/18/linus-torvalds-says-ai-powered-bug-hunters-have-made-linux-security-mailing-list-almost-entirely-unmanageable/5241633",
+      "title_zh": "Linux 安全邮件列表几乎难以管理",
+      "created_display": "Created: May 18, 2026 / 05:20 PT",
+      "image_url": "https://image.theregister.com/234872.jpg?imageId=234872&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+      "summary_en": "Linus Torvalds says AI-powered bug hunters have made the Linux security mailing list almost unmanageable due to volume and noise. The note highlights the tension between openness and signal quality in security discourse.",
+      "summary_zh": "托瓦尔兹表示 AI 驱动的漏洞猎人让 Linux 安全邮件列表几乎难以管理，原因是信息量大且噪声较多。这体现了开放性与信息质量之间的张力。",
+      "hn": {
+        "id": 48178692,
+        "type": "story",
+        "by": "jonbaer",
+        "score": 117,
+        "descendants": 49,
+        "time": 1779106850,
+        "comments_url": "https://news.ycombinator.com/item?id=48178692"
+      },
+      "hot_score": 5.67,
+      "tags": [
+        "Security",
+        "Open Source",
+        "AI"
+      ]
+    },
+    {
+      "title_en": "Where Are the Vibecoded Photoshops?",
+      "url": "https://indiepixel.de/blog/posts/where-are-the-vibecoded-photoshops/",
+      "title_zh": "在哪里能找到 Vibecoded Photoshop 图像？",
+      "created_display": "Created: May 18, 2026 / 02:28 PT",
+      "image_url": "https://indiepixel.de/blog/images/vibecodedPhotoshop.jpg",
+      "summary_en": "The piece investigates the status of Vibecoded Photoshop works and what it means for image provenance and authenticity amid evolving manipulation tech.",
+      "summary_zh": "本文探究 Vibecoded Photoshop 图像的现状，以及在日益成熟的图像操控技术背景下，对图像出处与真实性可能带来的影响。",
+      "hn": {
+        "id": 48177228,
+        "type": "story",
+        "by": "gizmo64k",
+        "score": 223,
+        "descendants": 296,
+        "time": 1779096536,
+        "comments_url": "https://news.ycombinator.com/item?id=48177228"
+      },
+      "hot_score": 5.01,
+      "tags": [
+        "Privacy",
+        "Culture"
+      ]
+    },
+    {
+      "title_en": "Multiple commencement speakers booed for AI comments during graduation speeches",
+      "url": "https://www.nbcnews.com/video/multiple-commencement-speakers-booed-for-ai-comments-during-graduation-speeches-263486021518",
+      "title_zh": "多位毕业典礼演讲者因AI言论被观众嘘声",
+      "created_display": "Created: May 18, 2026 / 02:12 PT",
+      "image_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/mpx/2704722219/2026_05/1779059495883_wnn_vca_commencment_speakers_booed_260517_S3_1920x1080-i60agb.jpg",
+      "summary_en": "Several commencement speakers faced boos after bringing up AI, highlighting a divide over AI's role in society and education. The reactions illustrate how the AI conversation can polarize audiences, even in celebratory settings, as institutions weigh automation's implications.",
+      "summary_zh": "多名毕业典礼发言人在提及人工智能后遭遇观众嘘声，凸显社会与教育领域对 AI 角色的分歧。此类反应显示人工智能话题已成为公众关注的焦点，即使在庆祝场合也会引发两极化讨论。",
+      "hn": {
+        "id": 48177107,
+        "type": "story",
+        "by": "wrxd",
+        "score": 136,
+        "descendants": 135,
+        "time": 1779095530,
+        "comments_url": "https://news.ycombinator.com/item?id=48177107"
+      },
+      "tags": [
+        "AI",
+        "Education"
+      ],
+      "hot_score": 2.87
+    },
+    {
+      "title_en": "GenCAD",
+      "url": "https://gencad.github.io/",
+      "title_zh": "GenCAD",
+      "created_display": "Created: May 17, 2026 / 14:40 PT",
+      "image_url": "https://gencad.github.io/static/images/403.png",
+      "summary_en": "GenCAD appears to be a project centered on automated CAD generation and design workflows.",
+      "summary_zh": "GenCAD 似乎是一个专注于自动化 CAD 生成与设计工作流的项目。",
+      "hn": {
+        "id": 48173429,
+        "type": "story",
+        "by": "dagenix",
+        "score": 396,
+        "descendants": 104,
+        "time": 1779054035,
+        "comments_url": "https://news.ycombinator.com/item?id=48173429"
+      },
+      "tags": [
+        "Design"
+      ],
+      "hot_score": 1.79
+    },
+    {
+      "title_en": "It is time to give up the dualism introduced by the debate on consciousness",
+      "url": "https://www.noemamag.com/there-is-no-hard-problem-of-consciousness/",
+      "title_zh": "放弃意识辩论中引入的二元论",
+      "created_display": "Created: May 17, 2026 / 19:59 PT",
+      "image_url": "https://noemamag.imgix.net/2026/05/Noema_FlorianMeissner_2.jpg?fit=crop&fm=pjpg&h=628&ixlib=php-3.3.1&w=1200&wpsize=noema-social-facebook&s=1967d5f91d8af468ce455230916d2bcd",
+      "summary_en": "Philosophical piece urging readers to drop the traditional mind–body dualism invoked by debates about consciousness. It argues for a monist or non-dual framework that treats consciousness as emergent from physical processes, challenging long-standing dichotomies.",
+      "summary_zh": "本文呼吁放弃在意识辩论中常见的二元论思维，主张以更贴近物理过程的单一框架来理解意识。通过将意识视为物理过程的涌现，挑战长期存在的二分法。",
+      "hn": {
+        "id": 48175140,
+        "type": "story",
+        "by": "ahalbert4",
+        "score": 197,
+        "descendants": 513,
+        "time": 1779073174,
+        "comments_url": "https://news.ycombinator.com/item?id=48175140"
+      },
+      "tags": [
+        "Science"
+      ],
+      "hot_score": 1.55
+    },
+    {
+      "title_en": "I don't think AI will make your processes go faster",
+      "url": "https://frederickvanbrabant.com/blog/2026-05-15-i-dont-think-ai-will-make-your-processes-go-faster/",
+      "title_zh": "我不认为AI会让你的流程更快",
+      "created_display": "Created: May 17, 2026 / 05:13 PT",
+      "image_url": "https://frederickvanbrabant.com/images/posts/2026-05-15%20I%20don%27t%20think%20AI%20will%20make%20your%20processes%20go%20faster/header.jpg",
+      "summary_en": "The piece argues that AI alone rarely speeds up human or team processes; gains depend on processes, governance, and integration work. It emphasizes thoughtful workflow redesign and measurable outcomes rather than chasing hype.",
+      "summary_zh": "文章认为单纯依赖 AI 很难直接让工作流程更快，成效取决于流程设计、治理与集成工作。强调在追赶热度前，先进行工作流再设计并设定可衡量的结果。",
+      "hn": {
+        "id": 48168221,
+        "type": "story",
+        "by": "TheEdonian",
+        "score": 638,
+        "descendants": 430,
+        "time": 1779020025,
+        "comments_url": "https://news.ycombinator.com/item?id=48168221"
+      },
+      "tags": [
+        "AI",
+        "Business",
+        "Programming"
+      ],
+      "hot_score": 1.44
+    },
+    {
+      "title_en": "Security researcher says Microsoft built a Bitlocker backdoor, releases exploit",
+      "url": "https://www.techspot.com/news/112410-security-researcher-microsoft-secretly-built-backdoor-bitlocker-releases.html",
+      "title_zh": "安全研究员称微软在 BitLocker 中内置后门并公开漏洞利用代码",
+      "created_display": "Created: May 17, 2026 / 06:42 PT",
+      "image_url": null,
+      "summary_en": "A security researcher claims Microsoft secretly built a BitLocker backdoor and has released an exploit. If true, it raises serious questions about encryption trust, potential covert access, and the need for independent audits of enterprise Windows components. The disclosure underscores why robust patch accountability and verifiable security assurances matter for widespread disk encryption.",
+      "summary_zh": "一名安全研究员声称微软在 BitLocker 中秘密内置后门并公开了利用代码。若属实，将引发对磁盘加密信任、潜在隐蔽访问和对企业 Windows 组件进行独立审计的必要性等重大疑问。此事凸显对修补程序可追溯性和可验证安全性的需求。",
+      "hn": {
+        "id": 48168856,
+        "type": "story",
+        "by": "nolok",
+        "score": 576,
+        "descendants": 259,
+        "time": 1779025350,
+        "comments_url": "https://news.ycombinator.com/item?id=48168856"
+      },
+      "hot_score": 1.43,
+      "tags": [
+        "Security"
+      ]
+    },
+    {
+      "title_en": "At least 25 Flock cameras have been destroyed in five states since April 2025",
+      "url": "https://stateofsurveillance.org/news/flock-cameras-destroyed-nationwide-ice-backlash-2026/",
+      "title_zh": "自2025年4月起，至少有25台 Flock 摄像头在五个州被毁",
+      "created_display": "Created: May 17, 2026 / 10:09 PT",
+      "image_url": null,
+      "summary_en": "At least 25 Flock cameras have been destroyed across five states since April 2025. The incidents highlight tensions around public surveillance, civil liberties, and the politics of security infrastructure in urban areas. The pattern suggests that security deployments can become flashpoints in local policy debates.",
+      "summary_zh": "自2025年4月以来，五个州至少有25台 Flock 摄像头被毁，反映出公共监控、公民自由与城市安全基础设施之间的紧张态势。此类事件模式表明安防部署可能成为地方政策辩论中的焦点。",
+      "hn": {
+        "id": 48170798,
+        "type": "story",
+        "by": "rolph",
+        "score": 435,
+        "descendants": 306,
+        "time": 1779037755,
+        "comments_url": "https://news.ycombinator.com/item?id=48170798"
+      },
+      "hot_score": 1.37,
+      "tags": [
+        "Privacy",
+        "Politics",
+        "Security",
+        "DevOps"
+      ]
+    },
+    {
+      "title_en": "Mozilla to UK regulators: VPNs are essential privacy and security tools",
+      "url": "https://blog.mozilla.org/netpolicy/2026/05/15/mozilla-to-uk-regulators-vpns-are-essential-privacy-and-security-tools-and-should-not-be-undermined/",
+      "title_zh": "Mozilla致英国监管机构：VPN是必需的隐私与安全工具",
+      "created_display": "Created: May 16, 2026 / 23:17 PT",
+      "image_url": "https://blog.mozilla.org/netpolicy/wp-content/themes/frontierline/img/place-thumb.png",
+      "summary_en": "Mozilla argues regulators should preserve VPNs as essential tools for privacy and security, outlining risks of weakening VPN access and potential impact on freedom of expression. It highlights the role of open standards and consumer rights.",
+      "summary_zh": "Mozilla 呼吁监管机构维护 VPN 的核心地位，强调其在隐私和安全方面的作用，同时警惕限制 VPN 访问对言论自由和安全的潜在影响。",
+      "hn": {
+        "id": 48166459,
+        "type": "story",
+        "by": "WithinReason",
+        "score": 784,
+        "descendants": 339,
+        "time": 1778998646,
+        "comments_url": "https://news.ycombinator.com/item?id=48166459"
+      },
+      "tags": [
+        "Privacy",
+        "Security",
+        "Politics"
+      ],
+      "hot_score": 1.27
+    },
+    {
+      "title_en": "Show HN: Semble – Code search for agents that uses 98% fewer tokens than grep",
+      "url": "https://github.com/MinishLab/semble",
+      "title_zh": "Show HN: Semble——面向代理的代码搜索，使用的 token 比 grep 少 98%",
+      "created_display": "Created: May 17, 2026 / 08:37 PT",
+      "image_url": "https://opengraph.githubassets.com/6748fdb20e33fce62fa68e8bc3ecaca4c90d570a24495d071dfd77e2a3f0c3ff/MinishLab/semble",
+      "summary_en": "Semble is a code search tool designed for agents that uses far fewer tokens than grep, enabling more efficient code discovery in AI agent workflows. It demonstrates how smarter indexing can reduce prompt sizes.",
+      "summary_zh": "Semble 是一个为代理优化的代码搜索工具，其所需 token 远少于 grep，提升了 AI 代理工作流中的代码发现效率。展示了更智能的索引如何减小提示尺寸。",
+      "hn": {
+        "id": 48169874,
+        "type": "story",
+        "by": "Bibabomas",
+        "score": 399,
+        "descendants": 132,
+        "time": 1779032227,
+        "comments_url": "https://news.ycombinator.com/item?id=48169874"
+      },
+      "tags": [
+        "Show HN",
+        "Programming",
+        "AI"
+      ],
+      "hot_score": 1.12
+    },
+    {
+      "title_en": "Two EA-18 fighter jets collide at Mountain Home airshow, pilots ejected safely",
+      "url": "https://idahonews.com/news/local/two-f-18-fighter-jets-have-crashed-during-an-airshow-at-mountain-home-air-force-base",
+      "title_zh": "山地家园空军基地航空表演中两架 EA-18 战斗机相撞，飞行员均安全弹出",
+      "created_display": "Created: May 17, 2026 / 14:45 PT",
+      "image_url": "https://idahonews.com/resources/media2/16x9/922/1320/100x1/90/c2f82f89-feb1-4f16-a22d-5b2789a14048-Crash1.jpg",
+      "summary_en": "Two EA-18 fighter jets collided during an air show at Mountain Home AFB, with both pilots ejecting safely. The incident will trigger an official investigation and could affect future safety procedures at civilian-military air shows.",
+      "summary_zh": "在 Mountain Home 空军基地的航空表演中，两架 EA-18 战斗机相撞，飞行员均安全弹出。事件将启动官方调查，可能影响未来军民航空表演的安全措施。",
+      "hn": {
+        "id": 48173468,
+        "type": "story",
+        "by": "ChrisArchitect",
+        "score": 236,
+        "descendants": 237,
+        "time": 1779054330,
+        "comments_url": "https://news.ycombinator.com/item?id=48173468"
+      },
+      "tags": [
+        "Science"
+      ],
+      "hot_score": 1.08
+    },
+    {
+      "title_en": "AI is a technology not a product",
+      "url": "https://daringfireball.net/2026/05/ai_is_technology_not_a_product",
+      "title_zh": "AI是技术不是产品",
+      "created_display": "Created: May 17, 2026 / 06:11 PT",
+      "image_url": "https://daringfireball.net/graphics/df-wide-card.png",
+      "summary_en": "This essay argues that AI is a technology stack rather than a finished product, with implications for regulation, safety, and how organizations adopt AI capabilities rather than chasing packaged apps.",
+      "summary_zh": "文章认为 AI 只是技术堆栈而非成品，强调在监管、安全和组织采用方面应关注能力而非追逐现成的产品。",
+      "hn": {
+        "id": 48168626,
+        "type": "story",
+        "by": "ch_sm",
+        "score": 441,
+        "descendants": 192,
+        "time": 1779023480,
+        "comments_url": "https://news.ycombinator.com/item?id=48168626"
+      },
+      "tags": [
+        "AI",
+        "Science",
+        "Politics"
+      ],
+      "hot_score": 1.06
+    },
+    {
+      "title_en": "I turned a $80 RK3562 Android tablet into a Debian Linux workstation",
+      "url": "https://github.com/tech4bot/rk3562deb",
+      "title_zh": "把 80 美元的 RK3562 Android 平板改造成 Debian 工作站",
+      "created_display": "Created: May 17, 2026 / 06:16 PT",
+      "image_url": "https://opengraph.githubassets.com/0ea6e6a451fcaaa0d5e1b6e7cea66fed8546d35a4c6c45a53913012782160c3b/tech4bot/rk3562deb",
+      "summary_en": "A budget-friendly hack demonstrates how a low-end Android tablet can become a functional Debian workstation, shedding light on hardware limits, driver support, and the potential for repurposing consumer devices. It shows that with the right setup, cheap hardware can become viable for light development tasks.",
+      "summary_zh": "用一块低价平板就能跑 Debian，展示了硬件极限、驱动与开源生态对再利用的影响。通过合适的设置，廉价设备也能胜任轻量开发工作。",
+      "hn": {
+        "id": 48168668,
+        "type": "story",
+        "by": "tech4bot",
+        "score": 414,
+        "descendants": 209,
+        "time": 1779023787,
+        "comments_url": "https://news.ycombinator.com/item?id=48168668"
+      },
+      "tags": [
+        "Hardware",
+        "Programming"
+      ],
+      "hot_score": 1.0
+    },
+    {
+      "title_en": "Native all the way, until you need text",
+      "url": "https://justsitandgrin.im/posts/native-all-the-way-until-you-need-text/",
+      "title_zh": "追求原生体验，直到你需要文本输入",
+      "created_display": "Created: May 17, 2026 / 04:49 PT",
+      "image_url": "https://justsitandgrin.im/posts/native-all-the-way-until-you-need-text/index.png",
+      "summary_en": "A debate about when to embrace native interfaces versus web/web-based solutions; native UX reigns for performance and feel, but text input and rich typography often push developers toward web tech. A prudent middle-ground emerges for pragmatic product design.",
+      "summary_zh": "就原生界面与网页技术的取舍展开讨论：原生 UX 在性能与手感上更强，但文本输入和排版需求常使人转向网页技术。实用的设计取舍在于权衡场景与需求。",
+      "hn": {
+        "id": 48168058,
+        "type": "story",
+        "by": "dive",
+        "score": 437,
+        "descendants": 288,
+        "time": 1779018586,
+        "comments_url": "https://news.ycombinator.com/item?id=48168058"
+      },
+      "tags": [
+        "Programming",
+        "Web"
+      ],
+      "hot_score": 0.96
+    },
+    {
+      "title_en": "WriteUp: 16 Bytes of x86 that turn Matrix rain into sound",
+      "url": "https://hellmood.111mb.de//wake_up_16b_writeup.html",
+      "title_zh": "写作笔记：16 字节的 x86 将矩阵雨变成声音",
+      "created_display": "Created: May 17, 2026 / 16:10 PT",
+      "image_url": "https://content.pouet.net/files/screenshots/00106/00106210.jpg",
+      "summary_en": "A write-up demonstrates how 16 bytes of x86 code can synthesize audible sound from the Matrix rain visualization, illustrating extreme code-golf techniques and low-level audio synthesis. The result highlights how tiny snippets can produce multimedia.",
+      "summary_zh": "这篇写作展示了用仅仅16字节的 x86 代码就能把矩阵雨可转成声音，体现了极简编码与多媒体合成的极限。对于低级编程与代码高球爱好者而言，这是一个有趣的演示，展示了紧凑代码如何实现音频合成。",
+      "hn": {
+        "id": 48173962,
+        "type": "story",
+        "by": "HellMood",
+        "score": 175,
+        "descendants": 31,
+        "time": 1779059409,
+        "comments_url": "https://news.ycombinator.com/item?id=48173962"
+      },
+      "tags": [
+        "Programming"
+      ],
+      "hot_score": 0.91
+    },
+    {
+      "title_en": "AI subscriptions are a ticking time bomb for enterprise",
+      "url": "https://www.thestateofbrand.com/news/ai-subscription-time-bomb",
+      "title_zh": "AI 订阅对企业而言是隐性定时炸弹",
+      "created_display": "Created: May 17, 2026 / 04:49 PT",
+      "image_url": "https://cdn.prod.website-files.com/69d68fe7dde9e79d19ddf151/6a02492bc7c745f849372fe4_364ffc2a-1a23-423f-b62a-3764e12ce6ab.webp",
+      "summary_en": "Enterprise AI subscriptions are piling up with opaque pricing and frequent increases, creating budgeting surprises as usage scales. Without governance, costs can spiral and vendor lock-in may worsen. The piece argues for stronger subscription management and clear sunset provisions.",
+      "summary_zh": "企业的 AI 订阅在定价不透明、涨价频繁的情况下不断累积，随着使用规模扩大，预算会出现意外。若缺乏治理，成本可能失控且厂商锁定问题恶化。文章主张加强订阅治理并设定明确的淘汰条款。",
+      "hn": {
+        "id": 48168056,
+        "type": "story",
+        "by": "mooreds",
+        "score": 403,
+        "descendants": 393,
+        "time": 1779018571,
+        "comments_url": "https://news.ycombinator.com/item?id=48168056"
+      },
+      "hot_score": 0.89,
+      "tags": [
+        "AI",
+        "Business"
+      ]
+    },
+    {
+      "title_en": "Most Americans don't trust AI – or the people in charge of it (2025)",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/644853/pew-gallup-data-americans-dont-trust-ai",
+      "title_zh": "大多数美国人不信任 AI 及掌控者（2025）",
+      "created_display": "Created: May 17, 2026 / 18:39 PT",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK_414_AI_CHATBOT_R2_CVirginia_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "summary_en": "Pew/Gallup data show broad American distrust of AI and the people shaping it in 2025. The sentiment spans technology, governance, and corporate motives, posing legitimacy challenges for AI initiatives.",
+      "summary_zh": "皮尤/盖洛普数据表明，2025 年多数美国人对 AI 及其掌控者缺乏信任，涉及科技、治理与企业动机，给 AI 项目带来公信力挑战。",
+      "hn": {
+        "id": 48174808,
+        "type": "story",
+        "by": "cdrnsf",
+        "score": 118,
+        "descendants": 80,
+        "time": 1779068370,
+        "comments_url": "https://news.ycombinator.com/item?id=48174808"
+      },
+      "hot_score": 0.79,
+      "tags": [
+        "AI",
+        "Politics"
+      ]
+    },
+    {
+      "title_en": "WHO declares Ebola outbreak a global health emergency",
+      "url": "https://www.nytimes.com/2026/05/17/world/africa/ebola-congo-uganda-who-public-health-emergency.html",
+      "title_zh": "世卫组织将埃博拉疫情列为全球卫生紧急事件",
+      "created_display": "Created: May 17, 2026 / 06:22 PT",
+      "image_url": null,
+      "summary_en": "The WHO declares an Ebola outbreak as a global health emergency of international concern. The designation mobilizes cross-border coordination and funding but also spotlights regional containment challenges in Africa. The situation remains fragile and requires sustained international collaboration.",
+      "summary_zh": "世卫组织将埃博拉疫情列为国际关注的全球卫生紧急事件，促使跨境协作与资金调动，但也凸显非洲地区的防控挑战。局势仍然脆弱，需要持续的国际合作。",
+      "hn": {
+        "id": 48168708,
+        "type": "story",
+        "by": "zzzeek",
+        "score": 315,
+        "descendants": 207,
+        "time": 1779024134,
+        "comments_url": "https://news.ycombinator.com/item?id=48168708"
+      },
+      "hot_score": 0.76,
+      "tags": [
+        "Health",
+        "Politics"
+      ]
+    },
+    {
+      "title_en": "Prolog Coding Horror",
+      "url": "https://www.metalevel.at/prolog/horror",
+      "title_zh": "Prolog 编程的恐惧",
+      "created_display": "Created: May 17, 2026 / 14:15 PT",
+      "image_url": "https://www.metalevel.at/prolog/videos/t_antipatterns.png",
+      "summary_en": "Prolog has a reputation for a steep learning curve and quirky behavior that makes debugging a headache. This piece highlights Prolog's backtracking and logic-first mindset, arguing many developers find it a painful fit for real-world projects.",
+      "summary_zh": "本文直陈 Prolog 的学习曲线陡峭、行为怪异且回溯机制复杂，调试常常令人头疼。文章聚焦其逻辑驱动的工作方式，认为在实际项目中，许多开发者会因此感到深刻的“编码恐惧”。",
+      "hn": {
+        "id": 48173268,
+        "type": "story",
+        "by": "RohanAdwankar",
+        "score": 173,
+        "descendants": 67,
+        "time": 1779052551,
+        "comments_url": "https://news.ycombinator.com/item?id=48173268"
+      },
+      "tags": [
+        "Programming"
+      ],
+      "hot_score": 0.75
+    },
+    {
+      "title_en": "Apple Silicon costs more than OpenRouter",
+      "url": "https://www.williamangel.net/blog/2026/05/17/offline-llm-energy-use.html",
+      "title_zh": "Apple Silicon 成本高于 OpenRouter",
+      "created_display": "Created: May 17, 2026 / 05:09 PT",
+      "image_url": "https://www.williamangel.net/blog/2026/05/17/2026-05-17-offline-llm-energy-use.png.",
+      "summary_en": "A comparison of energy efficiency and cost when running offline LLMs shows that consumer Apple Silicon may incur higher energy use or cost than purpose-built OpenRouter setups. Practical implications for on-device AI planning and hardware strategy.",
+      "summary_zh": "对离线运行的 AI 模型进行能耗与成本比较，表明 Apple Silicon 在离线推理上可能不如专用的 OpenRouter 设置高效或经济。为在设备端部署 AI 的硬件策略提供实际启示。",
+      "hn": {
+        "id": 48168198,
+        "type": "story",
+        "by": "datadrivenangel",
+        "score": 327,
+        "descendants": 279,
+        "time": 1779019763,
+        "comments_url": "https://news.ycombinator.com/item?id=48168198"
+      },
+      "tags": [
+        "Hardware",
+        "Energy",
+        "AI"
+      ],
+      "hot_score": 0.74
+    },
+    {
+      "title_en": "Zerostack – A Unix-inspired coding agent written in pure Rust",
+      "url": "https://crates.io/crates/zerostack/1.0.0",
+      "title_zh": "Zerostack——用纯Rust编写的类 Unix 编码助手",
+      "created_display": "Created: May 16, 2026 / 15:23 PT",
+      "image_url": null,
+      "summary_en": "Zerostack is a Unix-inspired coding agent built in Rust, aiming to streamline command-line tooling and automation. It demonstrates how safety and performance-friendly Rust can empower developer tooling.",
+      "summary_zh": "Zerostack 是一个用纯 Rust 编写、受 Unix 启发的编码助手，旨在提升命令行工具与自动化的效率，展示了 Rust 在开发者工具中的潜力。",
+      "hn": {
+        "id": 48164287,
+        "type": "story",
+        "by": "gidellav",
+        "score": 553,
+        "descendants": 307,
+        "time": 1778970230,
+        "comments_url": "https://news.ycombinator.com/item?id=48164287"
+      },
+      "tags": [
+        "Programming"
+      ],
+      "hot_score": 0.63
+    },
+    {
+      "title_en": "Meta deletes popular 1M follower account after Kuwaiti request",
+      "url": "https://twitter.com/ryangrim/status/2055992439031185782",
+      "title_zh": "Meta 在科威特请求后删除了1M粉丝的热门账号",
+      "created_display": "Created: May 17, 2026 / 10:10 PT",
+      "image_url": "https://pbs.twimg.com/profile_images/2051393897515872256/es0CAJUG_200x200.jpg",
+      "summary_en": "Meta deleted a popular account with about a million followers following a Kuwaiti government request, illustrating platform compliance with state demands. The move spotlights censorship, geopolitics, and platform accountability in a global social web.",
+      "summary_zh": "Meta 在科威特政府请求后删除了一个拥有约一百万粉丝的热门账号，凸显平台对政府要求的合规性。这一举动引发对全球社交网络中文章审查、地缘政治与平台问责的讨论。",
+      "hn": {
+        "id": 48170810,
+        "type": "story",
+        "by": "bhouston",
+        "score": 202,
+        "descendants": 142,
+        "time": 1779037848,
+        "comments_url": "https://news.ycombinator.com/item?id=48170810"
+      },
+      "hot_score": 0.63,
+      "tags": [
+        "Politics"
+      ]
+    },
+    {
+      "title_en": "VoIP brings back old-fashioned pay phones to rural Vermont (2025)",
+      "url": "https://spectrum.ieee.org/payphone-voip",
+      "title_zh": "VoIP 技术在佛蒙特州农村重新部署电话亭（2025）",
+      "created_display": "Created: May 17, 2026 / 12:39 PT",
+      "image_url": "https://spectrum.ieee.org/media-library/image.jpg?id=62186532&width=1200&height=600&coordinates=0%2C166%2C0%2C653",
+      "summary_en": "A pilot uses VoIP-based payphones to fill gaps in rural Vermont where mobile coverage is spotty. Internet-connected kiosks offer emergency calling and everyday use, reviving a classic public amenity with modern networking.",
+      "summary_zh": "VoIP 技术在佛蒙特州农村重新部署电话亭，弥补移动覆盖薄弱带来的通信盲区。借助互联网连接，这些亭子既能提供紧急呼叫，也能完成日常通话，展示用现代网络改造旧有基础设施的尝试。",
+      "hn": {
+        "id": 48172505,
+        "type": "story",
+        "by": "bookofjoe",
+        "score": 162,
+        "descendants": 56,
+        "time": 1779046750,
+        "comments_url": "https://news.ycombinator.com/item?id=48172505"
+      },
+      "tags": [
+        "Hardware"
+      ],
+      "hot_score": 0.61
+    },
+    {
+      "title_en": "CUDA Books",
+      "url": "https://github.com/alternbits/awesome-cuda-books",
+      "title_zh": "CUDA 书籍合集",
+      "created_display": "Created: May 17, 2026 / 05:52 PT",
+      "image_url": "https://opengraph.githubassets.com/2bd4c3e7bc1dd50ab08b29408dcb2c82874f02baecd3ff0f34dfabc4f25a2255/alternbits/awesome-cuda-books",
+      "summary_en": "A curated round-up of CUDA-focused books for developers, outlining topics from fundamentals to advanced GPU programming. It serves as a quick learning path for accelerating workloads on GPUs.",
+      "summary_zh": "收集整理了专注于 CUDA 的书籍，涵盖从入门到高级的 GPU 编程主题，为加速工作负载提供了快速学习路径。",
+      "hn": {
+        "id": 48168485,
+        "type": "story",
+        "by": "dariubs",
+        "score": 219,
+        "descendants": 56,
+        "time": 1779022326,
+        "comments_url": "https://news.ycombinator.com/item?id=48168485"
+      },
+      "tags": [
+        "Programming",
+        "Hardware"
+      ],
+      "hot_score": 0.51
+    },
+    {
+      "title_en": "The History of ThinkPad: From IBM’s Bento Box to Lenovo’s AI Workstations",
+      "url": "https://www.jdhodges.com/blog/thinkpad-history/",
+      "title_zh": "ThinkPad 的历史：从 IBM 的 Bento Box 到 Lenovo 的 AI 工作站",
+      "created_display": "Created: May 17, 2026 / 14:56 PT",
+      "image_url": "https://www.jdhodges.com/wp-content/uploads/2026/05/thinkpad-trackpoint-macro-x220-jd-2011-1200x795.webp",
+      "summary_en": "A retrospective traces ThinkPad's journey from IBM's era and its iconic 'Bento Box' design to Lenovo's modern shift toward AI-accelerated workstations.",
+      "summary_zh": "本文回顾 ThinkPad 的发展史：从 IBM 时代的标志性设计到联想在 AI 时代的工作站定位的转变。通过设计与定位的变迁，揭示了企业移动性与硬件设计文化的演进。",
+      "hn": {
+        "id": 48173547,
+        "type": "story",
+        "by": "zdw",
+        "score": 106,
+        "descendants": 51,
+        "time": 1779055000,
+        "comments_url": "https://news.ycombinator.com/item?id=48173547"
+      },
+      "tags": [
+        "Design",
+        "AI"
+      ],
+      "hot_score": 0.49
+    },
+    {
+      "title_en": "EU weighs restricting use of US cloud platforms to process government data",
+      "url": "https://www.osnews.com/story/144943/eu-weighs-restricting-use-of-us-cloud-platforms-to-process-sensitive-government-data/",
+      "title_zh": "欧盟考虑限制将美国云平台用于政府数据 processing",
+      "created_display": "Created: May 17, 2026 / 10:29 PT",
+      "image_url": null,
+      "summary_en": "EU policymakers weigh restricting US cloud platforms for processing government data due to sovereignty and security concerns. The move could spur local cloud alternatives and reshape global cloud dynamics.",
+      "summary_zh": "欧盟在主权与安全担忧驱动下，权衡限制美国云平台处理政府数据。此举可能推动本地云方案的兴起并重塑全球云格局。",
+      "hn": {
+        "id": 48171015,
+        "type": "story",
+        "by": "abdelhousni",
+        "score": 149,
+        "descendants": 70,
+        "time": 1779038978,
+        "comments_url": "https://news.ycombinator.com/item?id=48171015"
+      },
+      "hot_score": 0.48,
+      "tags": [
+        "Politics",
+        "Security"
+      ]
+    },
+    {
+      "title_en": "Tesla Solar Roof is on life support as it pivot to panels",
+      "url": "https://electrek.co/2026/05/14/tesla-solar-roof-promise-vs-reality-pivot-panels/",
+      "title_zh": "特斯拉太阳能屋顶陷入生死边缘，转而聚焦太阳能板",
+      "created_display": "Created: May 16, 2026 / 21:09 PT",
+      "image_url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2019/08/Tesla-Solar-Roof-quote.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "summary_en": "Tesla Solar Roof is on life support as it pivots to traditional panels; the premium roof product has faced cost and installation hurdles, pushing the company to focus on conventional PV. This shift may accelerate adoption of standard panels and reshape expectations for building-integrated photovoltaics.",
+      "summary_zh": "特斯拉太阳能屋顶在成本与安装难题面前陷入难题，转而重点推进传统太阳能板。此举或将加速传统面板的普及，并改变建筑一体化光伏的市场预期。",
+      "hn": {
+        "id": 48165980,
+        "type": "story",
+        "by": "celsoazevedo",
+        "score": 296,
+        "descendants": 321,
+        "time": 1778990992,
+        "comments_url": "https://news.ycombinator.com/item?id=48165980"
+      },
+      "tags": [
+        "Energy",
+        "Business"
+      ],
+      "hot_score": 0.43
+    },
+    {
+      "title_en": "A nicer voltmeter clock",
+      "url": "https://lcamtuf.substack.com/p/a-nicer-voltmeter-clock",
+      "title_zh": "更好看的电压表时钟",
+      "created_display": "Created: May 16, 2026 / 15:45 PT",
+      "image_url": null,
+      "summary_en": "An electronics project that pairs a voltmeter display with a clock, delivering a visually appealing, informative gadget. It showcases playful hardware tinkering and practical time-keeping.",
+      "summary_zh": "一个电子制作项目，将电压表显示与时钟结合，呈现出既美观又实用的小装置，展示了有趣的硬件玩家精神与实用计时。",
+      "hn": {
+        "id": 48164432,
+        "type": "story",
+        "by": "surprisetalk",
+        "score": 352,
+        "descendants": 47,
+        "time": 1778971516,
+        "comments_url": "https://news.ycombinator.com/item?id=48164432"
+      },
+      "tags": [
+        "Hardware"
+      ],
+      "hot_score": 0.4
+    },
+    {
+      "title_en": "Ten Signs of Fascism. America has all of them",
+      "url": "https://rutgerbregman.substack.com/p/10-signs-of-fascism-america-has-all",
+      "title_zh": "极权主义的十个征兆，美国具备全部特征",
+      "created_display": "Created: May 17, 2026 / 00:50 PT",
+      "image_url": null,
+      "summary_en": "A provocative list identifies ten warning signs of fascism and argues America currently exhibits all of them. It calls for vigilance over power consolidation, media control, and civil liberties erosion.",
+      "summary_zh": "这篇挑衅性文章列出十条极权主义的警示征兆，声称美国已具备全部特征，呼吁警惕权力集中、媒体控制和公民自由的侵蚀。",
+      "hn": {
+        "id": 48166877,
+        "type": "story",
+        "by": "fredski42",
+        "score": 208,
+        "descendants": 96,
+        "time": 1779004257,
+        "comments_url": "https://news.ycombinator.com/item?id=48166877"
+      },
+      "hot_score": 0.37,
+      "tags": [
+        "Politics"
+      ]
+    },
+    {
+      "title_en": "The occasional ECONNRESET",
+      "url": "https://movq.de/blog/postings/2026-05-05/1/POSTING-en.html",
+      "title_zh": "The occasional ECONNRESET",
+      "created_display": "Created: May 17, 2026 / 10:09 PT",
+      "image_url": "https://movq.de/blog/postings/2026-05-05/1/t/dump1.png.jpg",
+      "summary_en": "A blog post reflecting on intermittent network errors and practical approaches to diagnosing ECONNRESET in modern web apps.",
+      "summary_zh": "博文回顾间歇性网络错误以及诊断现代 Web 应用中 ECONNRESET 的实用方法。",
+      "hn": {
+        "id": 48170799,
+        "type": "story",
+        "by": "zdw",
+        "score": 114,
+        "descendants": 25,
+        "time": 1779037776,
+        "comments_url": "https://news.ycombinator.com/item?id=48170799"
+      },
+      "hot_score": 0.36,
+      "tags": [
+        "Programming"
+      ]
+    },
+    {
+      "title_en": "OpenAI and Government of Malta partner to roll out ChatGPT Plus to all citizens",
+      "url": "https://openai.com/index/malta-chatgpt-plus-partnership/",
+      "title_zh": "OpenAI 与马耳他政府合作，向全体公民推广 ChatGPT Plus",
+      "created_display": "Created: May 16, 2026 / 13:14 PT",
+      "image_url": "https://images.ctfassets.net/kftzwdyauwt9/25iIHzkpMZU6D9guaSf5JD/fdbc74ef48943e248e832d406c68695c/SEO_Card__2_.png?w=1600&h=900&fit=fill",
+      "summary_en": "OpenAI partners with the Government of Malta to offer ChatGPT Plus to every citizen, signaling a bold public AI access initiative. The program raises questions about data privacy, governance, and how governments balance utility with safeguards at scale. It could influence subsequent digital public services experiments.",
+      "summary_zh": "OpenAI 与马耳他政府合作，向所有公民提供 ChatGPT Plus，标志着一项大胆的公共 AI 普及行动。该计划引发关于数据隐私、治理以及在大规模应用中如何在便利性与安全之间取舍的问题，或将影响后续的数字公共服务试验。",
+      "hn": {
+        "id": 48163392,
+        "type": "story",
+        "by": "bookofjoe",
+        "score": 321,
+        "descendants": 329,
+        "time": 1778962446,
+        "comments_url": "https://news.ycombinator.com/item?id=48163392"
+      },
+      "hot_score": 0.33,
+      "tags": [
+        "AI",
+        "Privacy",
+        "Politics"
+      ]
+    },
+    {
+      "title_en": "HTML Lists",
+      "url": "https://blog.frankmtaylor.com/2026/05/13/you-dont-know-html-lists/",
+      "title_zh": "HTML 列表",
+      "created_display": "Created: May 16, 2026 / 09:58 PT",
+      "image_url": "https://blog.frankmtaylor.com/wp-content/uploads/2026/05/image-1024x545.png",
+      "summary_en": "The piece challenges conventional use of HTML lists and emphasizes semantics for accessibility and structure. It covers when to employ ordered versus unordered lists, nesting, and ARIA roles to improve navigation for assistive tech.",
+      "summary_zh": "文章挑战了对 HTML 列表的常规用法，强调语义在无障碍与页面结构中的作用。讨论何时使用有序与无序列表、嵌套关系以及 ARIA 角色，以提升辅助技术的导航体验。",
+      "hn": {
+        "id": 48161861,
+        "type": "story",
+        "by": "speckx",
+        "score": 350,
+        "descendants": 87,
+        "time": 1778950706,
+        "comments_url": "https://news.ycombinator.com/item?id=48161861"
+      },
+      "hot_score": 0.32,
+      "tags": [
+        "Programming",
+        "Web"
+      ]
+    },
+    {
+      "title_en": "Mistral's CEO: Europe has 2 years to stop becoming America's AI 'vassal state'",
+      "url": "https://www.businessinsider.com/mistral-ceo-warns-europe-2-years-avoid-us-ai-dependence-2026-5",
+      "title_zh": "Mistral 的 CEO：欧洲需要两年时间避免成为美国 AI 的附庸",
+      "created_display": "Created: May 17, 2026 / 09:04 PT",
+      "image_url": "https://i.insider.com/6a05bbfdecd7cc1332baf9d9?width=1200&format=jpeg",
+      "summary_en": "Mistral AI's CEO warns Europe has two years to diversify away from US AI dominance to avoid becoming a vassal state, urging local ecosystems, talent, and policy autonomy.",
+      "summary_zh": "Mistral AI 的首席执行官警告欧洲只有两年时间来减少对美国 AI 的依赖，否则将沦为附庸，呼吁建设本地生态、人才与政策自主。",
+      "hn": {
+        "id": 48170122,
+        "type": "story",
+        "by": "LelouBil",
+        "score": 111,
+        "descendants": 190,
+        "time": 1779033868,
+        "comments_url": "https://news.ycombinator.com/item?id=48170122"
+      },
+      "hot_score": 0.32,
+      "tags": [
+        "Politics",
+        "AI",
+        "Business"
+      ]
+    },
+    {
+      "title_en": "Hosting a website on an 8-bit microcontroller",
+      "url": "https://maurycyz.com/projects/mcusite/",
+      "title_zh": "在 8 位微控制器上托管网站",
+      "created_display": "Created: May 16, 2026 / 18:25 PT",
+      "image_url": "https://maurycyz.com/projects/mcusite/webscale.jpg",
+      "summary_en": "Running a website from an 8-bit microcontroller demonstrates extreme constraints and ingenuity; while practical for tiny pages, it reveals limitations in networking, memory, and software ecosystems. A niche but instructive look at minimal hardware hosting.",
+      "summary_zh": "在 8 位微控制器上托管网站展示了极端的资源限制和创意实现。虽然适用于极简页面，但暴露了网络、内存与软件生态的局限性。",
+      "hn": {
+        "id": 48165295,
+        "type": "story",
+        "by": "zdw",
+        "score": 244,
+        "descendants": 22,
+        "time": 1778981126,
+        "comments_url": "https://news.ycombinator.com/item?id=48165295"
+      },
+      "tags": [
+        "Hardware"
+      ],
+      "hot_score": 0.31
+    },
+    {
+      "title_en": "Trials on veterans suggest ibogaine could provide a new treatment for PTSD",
+      "url": "https://www.bbc.com/future/article/20260514-how-hallucinogenic-ibogaine-helps-veterans-overcome-ptsd",
+      "title_zh": "退伍军人研究表明 ibogaine 可能为 PTSD 提供新治疗方法",
+      "created_display": "Created: May 17, 2026 / 05:03 PT",
+      "image_url": "https://ychef.files.bbci.co.uk/624x351/p0nl9sxf.jpg",
+      "summary_en": "Early trials suggest ibogaine could offer a new treatment for PTSD in veterans, possibly via neuroplasticity mechanisms. More research is needed to establish safety, dosing, and long-term outcomes.",
+      "summary_zh": "在退伍军人中的早期试验表明 ibogaine 可能为 PTSD 提供新疗法，或通过促进神经可塑性实现缓解。仍需进一步研究以确定安全性、剂量和长期效果。",
+      "hn": {
+        "id": 48168159,
+        "type": "story",
+        "by": "bushwart",
+        "score": 106,
+        "descendants": 119,
+        "time": 1779019384,
+        "comments_url": "https://news.ycombinator.com/item?id=48168159"
+      },
+      "tags": [
+        "Health"
+      ],
+      "hot_score": 0.24
+    },
+    {
+      "title_en": "DeepSeek-V4-Flash means LLM steering is interesting again",
+      "url": "https://www.seangoedecke.com/steering-vectors/",
+      "title_zh": "DeepSeek-V4-Flash 重新点燃对 LLM 引导（steering） 的兴趣",
+      "created_display": "Created: May 16, 2026 / 07:58 PT",
+      "image_url": "https://www.seangoedecke.com/og-image.jpg",
+      "summary_en": "DeepSeek-V4-Flash revives interest in steering language models through vector or prompt-based guidance. It highlights ongoing work to reliably shape model outputs while balancing safety and flexibility.",
+      "summary_zh": "DeepSeek-V4-Flash 重新点燃了通过向量或提示引导来控制语言模型输出的兴趣，体现了在可控性与灵活性之间取得平衡的持续研究。",
+      "hn": {
+        "id": 48160807,
+        "type": "story",
+        "by": "Brajeshwar",
+        "score": 271,
+        "descendants": 75,
+        "time": 1778943496,
+        "comments_url": "https://news.ycombinator.com/item?id=48160807"
+      },
+      "hot_score": 0.23,
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "title_en": "Fisker went bankrupt and owners built an open source car company from the ashes",
+      "url": "https://electrek.co/2026/05/16/fisker-ocean-open-source-ev-story-after-bankruptcy/",
+      "title_zh": "Fisker 破产后，车主在残骸中创建了一个开源汽车公司",
+      "created_display": "Created: May 16, 2026 / 16:59 PT",
+      "image_url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2026/05/fisker-foa-hero-1400x700-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "summary_en": "After Fisker bankruptcy, owners started an open-source car venture built on community collaboration around hardware and software. The story illustrates resilience and a shift toward open automotive innovation.",
+      "summary_zh": "Fisker 破产后，车主们在余烬中发起了一个以开源为核心的汽车创业，强调硬件与软件的社区协作。此事体现了韧性与向开放汽车创新转型的趋势。",
+      "hn": {
+        "id": 48164891,
+        "type": "story",
+        "by": "breve",
+        "score": 172,
+        "descendants": 65,
+        "time": 1778975987,
+        "comments_url": "https://news.ycombinator.com/item?id=48164891"
+      },
+      "hot_score": 0.21,
+      "tags": [
+        "Startups",
+        "Open Source",
+        "Hardware"
+      ]
+    },
+    {
+      "title_en": "Halt and Catch Fire",
+      "url": "https://unstack.io/halt-and-catch-fire",
+      "title_zh": "Halt and Catch Fire",
+      "created_display": "Created: May 16, 2026 / 11:16 PT",
+      "image_url": "https://unstack.io/assets/images/us-logo.svg",
+      "summary_en": "Exploring the phrase as a lens on modern systems that stall, crash, or become opaque, the piece ties historical computing quirks to contemporary debugging and resilience.",
+      "summary_zh": "以“Halt and Catch Fire”为视角，探讨现代系统为何会停摆、崩溃或变得难以理解，将历史性计算趣闻与当代调试和韧性联系起来。",
+      "hn": {
+        "id": 48162468,
+        "type": "story",
+        "by": "ScottWRobinson",
+        "score": 206,
+        "descendants": 108,
+        "time": 1778955389,
+        "comments_url": "https://news.ycombinator.com/item?id=48162468"
+      },
+      "hot_score": 0.2,
+      "tags": [
+        "DevOps"
+      ]
+    },
+    {
+      "title_en": "Playing Atari ST Music on the Amiga with Zero CPU",
+      "url": "https://arnaud-carre.github.io/2026-05-15-ym-fast-emu/",
+      "title_zh": "在 Amiga 上用零 CPU 播放 Atari ST 音乐",
+      "created_display": "Created: May 17, 2026 / 01:00 PT",
+      "image_url": "https://arnaud-carre.github.io/assets/img/ymemu/fastym_title.jpg",
+      "summary_en": "A project demonstrates running Atari ST music on the Amiga with zero CPU overhead, highlighting clever emulation techniques and performance tricks.",
+      "summary_zh": "一个项目展示在 Amiga 上以零 CPU 开销播放 Atari ST 的音乐，凸显巧妙的仿真技术与性能优化。",
+      "hn": {
+        "id": 48166920,
+        "type": "story",
+        "by": "z303",
+        "score": 110,
+        "descendants": 44,
+        "time": 1779004804,
+        "comments_url": "https://news.ycombinator.com/item?id=48166920"
+      },
+      "hot_score": 0.19,
+      "tags": [
+        "Programming",
+        "Hardware"
+      ]
+    },
+    {
+      "title_en": "US is starting to see heavy job losses in roles exposed to AI",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-15/us-is-starting-to-see-heavy-job-losses-in-roles-exposed-to-ai",
+      "title_zh": "美国开始出现受 AI 影响的岗位大量流失",
+      "created_display": "Created: May 16, 2026 / 10:59 PT",
+      "image_url": null,
+      "summary_en": "Early indicators show heavy job losses in roles exposed to AI as automation accelerates across industries. The trend underscores the need for retraining and policy responses to mitigate worker displacement.",
+      "summary_zh": "AI 自动化加速之下，相关岗位开始出现大规模流失。趋势强调需要开展再培训并制定政策以缓解对工人的冲击。",
+      "hn": {
+        "id": 48162354,
+        "type": "story",
+        "by": "elsewhen",
+        "score": 163,
+        "descendants": 273,
+        "time": 1778954385,
+        "comments_url": "https://news.ycombinator.com/item?id=48162354"
+      },
+      "hot_score": 0.15,
+      "tags": [
+        "Business",
+        "AI"
+      ]
+    },
+    {
+      "title_en": "MCP Hello Page",
+      "url": "https://www.hybridlogic.co.uk/blog/2026/05/mcp-hello-page",
+      "title_zh": "MCP Hello Page",
+      "created_display": "Created: May 16, 2026 / 15:25 PT",
+      "image_url": null,
+      "summary_en": "MCP Hello Page presents a concise entry point for a new MCP project, outlining goals and how to get started.",
+      "summary_zh": "MCP Hello Page 提供了一个新项目的简要入口，概述目标并说明如何入门。",
+      "hn": {
+        "id": 48164294,
+        "type": "story",
+        "by": "Dachande663",
+        "score": 130,
+        "descendants": 48,
+        "time": 1778970333,
+        "comments_url": "https://news.ycombinator.com/item?id=48164294"
+      },
+      "hot_score": 0.15,
+      "tags": [
+        "Programming"
+      ]
+    },
+    {
+      "title_en": "Technofascism",
+      "url": "https://third-bit.com/2026/05/15/technofascism/",
+      "title_zh": "科技法西斯主义",
+      "created_display": "Created: May 16, 2026 / 10:10 PT",
+      "image_url": "https://third-bit.com/assets/icons/envelope.svg",
+      "summary_en": "A critical examination of technofascism argues that technology-enabled power can erode democratic norms and civil liberties, touching on surveillance, automation, and corporate influence.",
+      "summary_zh": "对科技法西斯主义的批判性分析认为，技术驱动的权力可能侵蚀民主规范与公民自由，涉及监控、自动化和企业影响等方面。",
+      "hn": {
+        "id": 48161974,
+        "type": "story",
+        "by": "speckx",
+        "score": 151,
+        "descendants": 53,
+        "time": 1778951456,
+        "comments_url": "https://news.ycombinator.com/item?id=48161974"
+      },
+      "hot_score": 0.14,
+      "tags": [
+        "Politics",
+        "Privacy"
+      ]
+    },
+    {
+      "title_en": "Kioxia and Dell cram 10 PB into slim 2RU server",
+      "url": "https://www.blocksandfiles.com/flash/2026/05/14/kioxia-and-dell-cram-10-pb-into-slim-2ru-server/5240574",
+      "title_zh": "Kioxia 与 Dell 将 10PB 打包进 slim 2U 服务器",
+      "created_display": "Created: May 16, 2026 / 10:12 PT",
+      "image_url": "https://image.blocksandfiles.com/5240590.jpg?imageId=5240590&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+      "summary_en": "Kioxia and Dell unveil a 2U server capable of 10 petabytes of storage, signaling a push toward dense, scalable data appliances for hyperscale workloads. The design prioritizes capacity with trade-offs in cooling and reliability.",
+      "summary_zh": "Kioxia 与 Dell 推出能在 2U 尺寸内提供 10PB 存储的服务器，标志着面向超大规模工作负载的高密度数据设备发展。设计在容量优先的同时需权衡散热与可靠性。",
+      "hn": {
+        "id": 48161997,
+        "type": "story",
+        "by": "rbanffy",
+        "score": 136,
+        "descendants": 110,
+        "time": 1778951578,
+        "comments_url": "https://news.ycombinator.com/item?id=48161997"
+      },
+      "hot_score": 0.12,
+      "tags": [
+        "Hardware"
+      ]
+    },
+    {
+      "title_en": "PART Telescopes – Bringing radio astronomy within reach of rural schools",
+      "url": "https://mag.openrockets.com/p/how-an-australian-teen-team-is-making-radio-astronomy-affordable-for-rural-schools-4894opuisyhfdisubgi/?b=2",
+      "title_zh": "PART 天文望远镜——让农村学校接触射电天文学",
+      "created_display": "Created: May 16, 2026 / 08:12 PT",
+      "image_url": null,
+      "summary_en": "PART Telescopes bring affordable radio astronomy tools to rural schools, enabling hands-on STEM learning and citizen science with community support and curricula.",
+      "summary_zh": "PART 天文望远镜把廉价射电天文学工具带给农村学校，促进动手学习和公民科学，并提供社区支持与课程。",
+      "hn": {
+        "id": 48160914,
+        "type": "story",
+        "by": "openrockets",
+        "score": 128,
+        "descendants": 35,
+        "time": 1778944337,
+        "comments_url": "https://news.ycombinator.com/item?id=48160914"
+      },
+      "hot_score": 0.11,
+      "tags": [
+        "Education",
+        "Science"
+      ]
+    },
+    {
+      "title_en": "Japan’s robot wolf sells out as record bear attacks drive demand",
+      "url": "https://www.independent.co.uk/asia/japan/japan-robot-wolf-bear-attacks-ohta-seiki-b2975670.html",
+      "title_zh": "日本的机器人狼因熊袭击创纪录而热销",
+      "created_display": "Created: May 16, 2026 / 12:10 PT",
+      "image_url": "https://static.independent.co.uk/s3fs-public/thumbnails/image/2018/03/09/13/robot-wolves.jpg?width=1200&height=800&crop=1200:800",
+      "summary_en": "Japan's robot wolf sells out as record bear attacks drive demand for non-lethal deterrents, illustrating how robotics can address wildlife management and safety concerns.",
+      "summary_zh": "日本的机器人狼因创纪录的熊袭击而售罄，需求上升反映出机器人在野生动物管理和公共安全领域的应用潜力。",
+      "hn": {
+        "id": 48162882,
+        "type": "story",
+        "by": "bookofjoe",
+        "score": 116,
+        "descendants": 68,
+        "time": 1778958638,
+        "comments_url": "https://news.ycombinator.com/item?id=48162882"
+      },
+      "hot_score": 0.11,
+      "tags": [
+        "Hardware"
+      ]
+    },
+    {
+      "title_en": "Show HN: Rocksky – Music scrobbling and discovery on the AT Protocol",
+      "url": "https://tangled.org/rocksky.app/rocksky",
+      "title_zh": "Show HN：Rocksky——在 AT 协议上进行音乐收藏与发现",
+      "created_display": "Created: May 16, 2026 / 10:00 PT",
+      "image_url": "https://tangled.org/rocksky.app/rocksky/opengraph",
+      "summary_en": "Rocksky builds music scrobbling and discovery on the AT Protocol, showcasing a decentralized approach to social music experiences.",
+      "summary_zh": "Rocksky 基于 AT 协议实现音乐记录与发现，展示去中心化的社交音乐体验。",
+      "hn": {
+        "id": 48161881,
+        "type": "story",
+        "by": "tsiry",
+        "score": 112,
+        "descendants": 44,
+        "time": 1778950841,
+        "comments_url": "https://news.ycombinator.com/item?id=48161881"
+      },
+      "hot_score": 0.1,
+      "tags": [
+        "Show HN",
+        "Web"
+      ]
+    }
+  ]
+}

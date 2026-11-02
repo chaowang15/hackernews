@@ -1,0 +1,1167 @@
+{
+  "meta": {
+    "mode": "best",
+    "source": "https://news.ycombinator.com/",
+    "api": "https://github.com/HackerNews/API",
+    "count_requested": 50,
+    "count_written": 50,
+    "reused_same_day": 0,
+    "reused_cross_day": 19,
+    "new_llm_enriched": 8,
+    "scrape_time_display": "06:18, August 13, 2026 (PDT)",
+    "timezone": "America/Los_Angeles",
+    "date_dir": "2026/08/12",
+    "content_date": "2026-08-12",
+    "run_time_local": "06:18, August 13, 2026 (PDT)",
+    "run_time_utc": "2026-08-13 13:18:11 UTC",
+    "incremental": true,
+    "stories_max": 50,
+    "hot_score_time_utc": "2026-08-13 13:19:09 UTC"
+  },
+  "items": [
+    {
+      "title_en": "ChatGPT Desktop (Codex Desktop) for Linux",
+      "url": "https://openai.com/codex/",
+      "title_zh": "Linux 上的 ChatGPT 桌面客户端（Codex Desktop）发布",
+      "created_display": "Created: Aug 12, 2026 / 21:53 PT",
+      "image_url": "https://images.ctfassets.net/kftzwdyauwt9/2Z64goaCYuEmGe825kLJFB/ccd8ea0a41e98a3a273357ae621dfe72/codex-og-image.png?w=1600&h=900&fit=fill",
+      "summary_en": "OpenAI released a Linux-native ChatGPT Desktop (Codex Desktop), giving Linux users a native app instead of a browser wrapper. The move improves performance, integrates better with Linux desktops, and signals broader platform parity for AI tools.",
+      "summary_zh": "OpenAI 推出 Linux 版的 ChatGPT 桌面客户端（Codex Desktop），为 Linux 用户提供原生应用体验而不是浏览器包装。此举提升了性能与桌面集成，标志着 AI 工具在更多平台上的对等性在进一步推进。",
+      "hn": {
+        "id": 49281916,
+        "type": "story",
+        "by": "allanrbo",
+        "score": 271,
+        "descendants": 177,
+        "time": 1786596821,
+        "comments_url": "https://news.ycombinator.com/item?id=49281916"
+      },
+      "tags": [
+        "AI",
+        "Web"
+      ],
+      "hot_score": 3.97
+    },
+    {
+      "title_en": "Tracking down the 16-year-old WAL-reset SQLite bug",
+      "url": "https://tailscale.com/blog/sqlite-wal-reset-bug",
+      "title_zh": "追踪这起持续16年的 SQLite WAL 重置漏洞",
+      "created_display": "Created: Aug 12, 2026 / 07:22 PT",
+      "image_url": "https://tailscale.com/api/og-image?id=45389fc1-da6e-4e0d-82f6-140651c6ba57",
+      "summary_en": "Researchers zero in on a long-standing SQLite WAL reset bug that has persisted for 16 years. The issue can cause data integrity problems when the write-ahead logging file resets under certain conditions, impacting apps using WAL mode. The takeaway is to test WAL edge cases and ensure robust backup/restore paths, highlighting SQLite quirks in real-world apps.",
+      "summary_zh": "研究人员锁定一宗持续了16年的 SQLite WAL 重置漏洞。该问题在特定条件下会导致写入前日志文件重置时的数据完整性问题，影响使用 WAL 模式的应用程序。建议开发者测试 WAL 的边界情况，并确保备份/恢复路径健全，凸显实际应用中 SQLite 的潜在坑点。",
+      "hn": {
+        "id": 49272832,
+        "type": "story",
+        "by": "ropbear",
+        "score": 1115,
+        "descendants": 207,
+        "time": 1786544550,
+        "comments_url": "https://news.ycombinator.com/item?id=49272832"
+      },
+      "hot_score": 3.41,
+      "tags": [
+        "Programming",
+        "Privacy"
+      ]
+    },
+    {
+      "title_en": "DeepSeek V4 Pro 0813",
+      "url": "https://openrouter.ai/deepseek/deepseek-v4-pro-0813",
+      "title_zh": "DeepSeek V4 Pro 0813",
+      "created_display": "Created: Aug 12, 2026 / 09:04 PT",
+      "image_url": "https://openrouter.ai/deepseek/deepseek-v4-pro-0813/opengraph-image-1oizug?abd1ffaa6102aa5f",
+      "summary_en": "DeepSeek releases V4 Pro 0813, a major update that enhances on-device AI performance and search speed. The release focuses on faster indexing, improved privacy controls, and enterprise-friendly features for large-scale data workflows.",
+      "summary_zh": "DeepSeek 发布 V4 Pro 0813，显著提升本地 AI 性能与检索速度，强调更快的索引与更强的隐私控制，并为大规模数据工作流提供企业级特性。",
+      "hn": {
+        "id": 49274600,
+        "type": "story",
+        "by": "explosion-s",
+        "score": 979,
+        "descendants": 422,
+        "time": 1786550690,
+        "comments_url": "https://news.ycombinator.com/item?id=49274600"
+      },
+      "tags": [
+        "AI",
+        "Privacy"
+      ],
+      "hot_score": 3.4
+    },
+    {
+      "title_en": "AI is removing the middle class of software engineering?",
+      "url": "https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html",
+      "title_zh": "AI 正在吞并软件工程的中产阶层",
+      "created_display": "Created: Aug 12, 2026 / 06:20 PT",
+      "image_url": null,
+      "summary_en": "A viewpoint argues that AI is eroding the middle tier of software engineering by automating routine tasks and raising productivity. It questions career ladders and suggests that engineers must adapt by focusing on higher-level design, system architecture, and AI-augmented workflows.",
+      "summary_zh": "观点认为 AI 正通过自动化日常任务和提高生产率，削弱软件工程的中层岗位。文章讨论职业晋升路径的变化，建议工程师在高层设计、系统架构以及与 AI 协作的工作流中寻找新机会。",
+      "hn": {
+        "id": 49271994,
+        "type": "story",
+        "by": "florianherrengt",
+        "score": 918,
+        "descendants": 824,
+        "time": 1786540805,
+        "comments_url": "https://news.ycombinator.com/item?id=49271994"
+      },
+      "tags": [
+        "AI",
+        "Career"
+      ],
+      "hot_score": 2.61
+    },
+    {
+      "title_en": "Delta",
+      "url": "https://zed.dev/blog/introducing-delta",
+      "title_zh": "Delta",
+      "created_display": "Created: Aug 12, 2026 / 11:19 PT",
+      "image_url": "https://images.zed.dev/blog/introducing-delta/thumbnail.webp",
+      "summary_en": "Delta introduces a new concept or product in the project's lineup, signaling a potential shift in how it handles data or workflows. The announcement invites readers to anticipate more details on capabilities, integrations, and use cases.",
+      "summary_zh": "Delta 引入了该项目的新概念/产品，可能改变数据处理或工作流方式。公告预计将提供更多关于功能、集成与应用场景的细节。",
+      "hn": {
+        "id": 49276574,
+        "type": "story",
+        "by": "khy",
+        "score": 602,
+        "descendants": 220,
+        "time": 1786558799,
+        "comments_url": "https://news.ycombinator.com/item?id=49276574"
+      },
+      "tags": [
+        "Startups"
+      ],
+      "hot_score": 2.51
+    },
+    {
+      "title_en": "Qwen3.8-2.4T",
+      "url": "https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B",
+      "title_zh": "Qwen3.8-2.4T-A95B 模型",
+      "created_display": "Created: Aug 12, 2026 / 08:01 PT",
+      "image_url": "https://cdn-thumbnails.huggingface.co/social-thumbnails/models/Qwen/Qwen3.8-2.4T-A95B.png",
+      "summary_en": "Qwen3.8-2.4T-A95B is a large language model configured for 2.4 trillion parameters, optimized for inference on A95B hardware. The release underscores ongoing scaling and hardware-specific optimizations in modern LLMs.",
+      "summary_zh": "Qwen3.8-2.4T-A95B 是一个 2.4 万亿参数的语言模型，针对 A95B 硬件进行推理优化，凸显了当下大模型的规模化与硬件定制优化。",
+      "hn": {
+        "id": 49273478,
+        "type": "story",
+        "by": "Philpax",
+        "score": 674,
+        "descendants": 156,
+        "time": 1786546877,
+        "comments_url": "https://news.ycombinator.com/item?id=49273478"
+      },
+      "tags": [
+        "AI",
+        "Hardware"
+      ],
+      "hot_score": 2.16
+    },
+    {
+      "title_en": "Grok 4.6",
+      "url": "https://x.ai/news/grok-4-6",
+      "title_zh": "Grok 4.6",
+      "created_display": "Created: Aug 12, 2026 / 08:32 PT",
+      "image_url": "https://x.ai/images/news/grok-4-6-og.png",
+      "summary_en": "Grok 4.6 updates the AI assistant with refinements to conversational ability, integration options, and developer-facing tooling. The release highlights ongoing efforts to evolve AI assistants into more capable, context-aware productivity partners.",
+      "summary_zh": "Grok 4.6 对AI助手进行了若干改进，提升对话能力并扩展集成与开发工具。此次发布凸显了让AI助手成为更具情境感知的高效生产力伙伴的持续努力。",
+      "hn": {
+        "id": 49274027,
+        "type": "story",
+        "by": "iLuddite",
+        "score": 594,
+        "descendants": 546,
+        "time": 1786548770,
+        "comments_url": "https://news.ycombinator.com/item?id=49274027"
+      },
+      "tags": [
+        "AI"
+      ],
+      "hot_score": 1.98
+    },
+    {
+      "title_en": "License plate reader searches should require a warrant",
+      "url": "https://andrewpwheeler.com/2026/08/12/license-plate-reader-searches-should-require-a-warrant/",
+      "title_zh": "车牌识别搜索应当获得授权才可进行",
+      "created_display": "Created: Aug 12, 2026 / 07:43 PT",
+      "image_url": "https://andrewpwheeler.com/wp-content/uploads/2017/06/apwface.png?w=200",
+      "summary_en": "Policy arguments are made for requiring warrants to search license plate data collected by LPR systems. It argues targeted, lawfully justified access over generic bulk surveillance.",
+      "summary_zh": "提出在使用车牌识别（LPR）系统检索数据时应当获得搜查令的政策主张。文章强调公民自由与滥用风险、数据保留与共享的隐私边界，以及应优先实现有针对性且合法授权的访问，而非大规模监控。",
+      "hn": {
+        "id": 49273165,
+        "type": "story",
+        "by": "apwheele",
+        "score": 593,
+        "descendants": 357,
+        "time": 1786545819,
+        "comments_url": "https://news.ycombinator.com/item?id=49273165"
+      },
+      "tags": [
+        "Privacy",
+        "Legal"
+      ],
+      "hot_score": 1.86
+    },
+    {
+      "title_en": "uBlock Origin Is Giving Up the Fight to Keep Ads Off Facebook",
+      "url": "https://digitalescapetools.com/2026/08/ublock-origin-stops-chasing-facebook-ads.html",
+      "title_zh": "uBlock Origin 放弃对 Facebook 广告的拦截",
+      "created_display": "Created: Aug 12, 2026 / 04:28 PT",
+      "image_url": null,
+      "summary_en": "uBlock Origin reportedly stops fighting Facebook ads as Facebook arms itself with anti-adblock techniques. The move shifts the burden to site owners and raises questions about the future of comprehensive ad blocking on social networks.",
+      "summary_zh": "称为 Facebook 引入对抗广告拦截措施后，uBlock Origin 不再继续拦截 Facebook 广告。此举将拦截责任转向站点所有者，并引发对社交平台上全面广告屏蔽未来的讨论。",
+      "hn": {
+        "id": 49270726,
+        "type": "story",
+        "by": "Markoff",
+        "score": 611,
+        "descendants": 726,
+        "time": 1786534107,
+        "comments_url": "https://news.ycombinator.com/item?id=49270726"
+      },
+      "tags": [
+        "Open Source",
+        "Privacy"
+      ],
+      "hot_score": 1.53
+    },
+    {
+      "title_en": "Principia Mathematica is modern and insightful",
+      "url": "https://okmij.org/ftp/Computation/Impressions/PrincipiaMathematica.html",
+      "title_zh": "《Principia Mathematica》现代且富有洞见",
+      "created_display": "Created: Aug 12, 2026 / 16:26 PT",
+      "image_url": null,
+      "summary_en": "Principia Mathematica laid the rigorous groundwork for modern logic and foundational mathematics. Its ideas underpin contemporary automated reasoning, formal verification, and type systems in programming languages, and its layered approach to axioms and inference still informs how we build reliable software today.",
+      "summary_zh": "《Principia Mathematica》奠定了现代逻辑与基础数学的坚实框架，其内容在自动推理、形式化验证和编程语言的类型系统中仍具影响力。其对公理与推理的层次化思路，至今为构建可靠软件提供了宝贵的借鉴。",
+      "hn": {
+        "id": 49279928,
+        "type": "story",
+        "by": "matt_d",
+        "score": 215,
+        "descendants": 91,
+        "time": 1786577181,
+        "comments_url": "https://news.ycombinator.com/item?id=49279928"
+      },
+      "tags": [
+        "Science",
+        "Programming"
+      ],
+      "hot_score": 1.48
+    },
+    {
+      "title_en": "2026 Eclipse Webcams",
+      "url": "https://jonty.github.io/2026_eclipse_webcams/",
+      "title_zh": "2026 年日食网络摄像头",
+      "created_display": "Created: Aug 12, 2026 / 04:53 PT",
+      "image_url": null,
+      "summary_en": "Coincident with the 2026 eclipse, a collection of live webcams aggregates feeds from observatories and public viewing sites. The roundup helps observers plan timings, compare streams, and prepare for potential bandwidth spikes during peak moments. It’s a handy resource for remote viewers who want real-time visuals without leaving home.",
+      "summary_zh": "与2026年日食同时上线的多路直播摄像头汇集了来自观测站与公共观测点的画面。该清单帮助观众规划观看时间、比较画面质量，并预测日食高光时段的带宽压力。对于希望在家远程观看的用户，这是一个实用的实时画面资源。",
+      "hn": {
+        "id": 49270953,
+        "type": "story",
+        "by": "zoenolan",
+        "score": 500,
+        "descendants": 134,
+        "time": 1786535581,
+        "comments_url": "https://news.ycombinator.com/item?id=49270953"
+      },
+      "tags": [
+        "Science",
+        "Web"
+      ],
+      "hot_score": 1.29
+    },
+    {
+      "title_en": "Grok 4.6 scores 61 on the Artificial Analysis Intelligence Index",
+      "url": "https://artificialanalysis.ai/articles/grok-4-6-benchmarks-and-analysis",
+      "title_zh": "Grok 4.6 在人工分析智能指数上得到61分",
+      "created_display": "Created: Aug 12, 2026 / 09:54 PT",
+      "image_url": "https://cdn.sanity.io/images/6vfeftx9/articles/c65c69aedff721b918591059a76f55147f87d9ef-716x668.png?w=1200&auto=format",
+      "summary_en": "Grok 4.6 scores 61 on the Artificial Analysis Intelligence Index, shedding light on where the model excels at analytical tasks and where it stumbles. The benchmark reveals strengths and limitations in reasoning reliability and error susceptibility, with implications for data-heavy workflows. It also prompts reflection on how well such indexes map to real-world problem solving in AI assistants.",
+      "summary_zh": "Grok 4.6 在人工分析智能指数上得到61分，揭示模型在分析任务中的强项与弱点。基准测试显示推理可靠性与对错误的易感性，为数据密集型工作流提供洞察，也引发关于此类指数与实际问题求解能力之间关系的思考。",
+      "hn": {
+        "id": 49275385,
+        "type": "story",
+        "by": "wertyk",
+        "score": 334,
+        "descendants": 383,
+        "time": 1786553665,
+        "comments_url": "https://news.ycombinator.com/item?id=49275385"
+      },
+      "hot_score": 1.23,
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "title_en": "Flutter 3.47",
+      "url": "https://flutter.dev/blog/whats-new-in-flutter-3-47",
+      "title_zh": "Flutter 3.47 新特性一览",
+      "created_display": "Created: Aug 12, 2026 / 16:46 PT",
+      "image_url": "https://flutter.dev/assets/hero_image.049a8f4d89d8082a040f98f1d74b91b2.gif",
+      "summary_en": "Flutter 3.47 ships with refinements across performance, tooling, and platform support, making it easier to build fast, beautiful apps across mobile, web, and desktop. The update emphasizes compile-time improvements, better UX tooling, and evolving widgets to meet developer needs.",
+      "summary_zh": "Flutter 3.47 在性能、工具链和跨平台支持方面带来改进，便于在移动、网页和桌面端快速打造高效美观的应用。 更新强调编译时优化、用户体验工具和组件演进，以满足开发者需求。",
+      "hn": {
+        "id": 49280061,
+        "type": "story",
+        "by": "gumby271",
+        "score": 151,
+        "descendants": 161,
+        "time": 1786578360,
+        "comments_url": "https://news.ycombinator.com/item?id=49280061"
+      },
+      "tags": [
+        "Programming"
+      ],
+      "hot_score": 1.07
+    },
+    {
+      "title_en": "Controversial creators are benefiting from monetization programs run by Meta",
+      "url": "https://www.abc.net.au/news/2026-08-06/ragebait-how-facebook-is-paying-controversial-creators/106940696",
+      "title_zh": "争议性创作者从 Meta 的变现计划获利",
+      "created_display": "Created: Aug 12, 2026 / 02:35 PT",
+      "image_url": "https://live-production.wcms.abc-cdn.net.au/181e08c853385e4663d404d34dbfb1df?impolicy=wcms_watermark_news&cropH=766&cropW=1362&xPos=379&yPos=202&width=862&height=485&imformat=generic",
+      "summary_en": "Meta’s monetization programs reportedly pay controversial creators, illustrating the tension between engagement-driven revenue and platform moderation. The arrangement raises questions about incentives, content policy, and where to draw the line between free expression and harmful rhetoric. For builders and platform operators, it underscores the need for transparent rules and auditing of funded content.",
+      "summary_zh": "据称 Meta 的变现计划向争议性创作者支付报酬，凸显以参与度驱动的创收与平台治理之间的张力。这一安排引发关于激励机制、内容政策以及言论自由与有害言论界限的讨论。对于开发者和平台运营者而言，强调了规则透明和对受资助内容进行审计的重要性。",
+      "hn": {
+        "id": 49269818,
+        "type": "story",
+        "by": "robtherobber",
+        "score": 474,
+        "descendants": 331,
+        "time": 1786527330,
+        "comments_url": "https://news.ycombinator.com/item?id=49269818"
+      },
+      "hot_score": 1.05,
+      "tags": [
+        "Business"
+      ]
+    },
+    {
+      "title_en": "Why tiny JPEGs look different in Chrome",
+      "url": "https://guillaumetech.github.io/posts/jpg-scaling-chrome/",
+      "title_zh": "Chrome 中小尺寸 JPEG 的显示差异原因",
+      "created_display": "Created: Aug 12, 2026 / 07:00 PT",
+      "image_url": "https://guillaumetech.github.io/_astro/compare.DJwphvWD_1VRb2.webp",
+      "summary_en": "Tiny JPEGs can render differently in Chrome due to the browser's image downscaling and color subsampling behavior. Chrome's decoding and scaling pipeline, along with DPR and subpixel rendering, can yield color shifts or sharpness changes compared with other browsers. Understanding this helps designers make consistent thumbnails and image previews.",
+      "summary_zh": "Chrome 在对小尺寸 JPEG 进行缩放时的解码与渲染策略会导致呈现与其他浏览器略有差异。浏览器的下采样、放大算法以及设备像素比等因素可能带来颜色偏差或清晰度变化。了解原因有助于设计师在缩略图和图片预览时实现更一致的显示。",
+      "hn": {
+        "id": 49272549,
+        "type": "story",
+        "by": "gutechh",
+        "score": 323,
+        "descendants": 66,
+        "time": 1786543254,
+        "comments_url": "https://news.ycombinator.com/item?id=49272549"
+      },
+      "tags": [
+        "Web"
+      ],
+      "hot_score": 0.96
+    },
+    {
+      "title_en": "LinkedIn CringeBot 3000",
+      "url": "https://www.cringebot3000.com/",
+      "title_zh": "领英尴尬机器人 3000",
+      "created_display": "Created: Aug 11, 2026 / 23:30 PT",
+      "image_url": "https://www.cringebot3000.com/centered_cringebot_face.jpg",
+      "summary_en": "A bot named LinkedIn CringeBot 3000 that automates cringe-worthy LinkedIn posts. It serves as a tongue-in-cheek look at social media automation and the allure of flashy, shareable content.",
+      "summary_zh": "一个自称为 LinkedIn CringeBot 3000 的机器人自动生成让人尴尬的领英帖子，讽刺了社交媒体自动化与追逐高曝光度内容的趋势。",
+      "hn": {
+        "id": 49268564,
+        "type": "story",
+        "by": "theanonymousone",
+        "score": 471,
+        "descendants": 202,
+        "time": 1786516249,
+        "comments_url": "https://news.ycombinator.com/item?id=49268564"
+      },
+      "tags": [
+        "Programming"
+      ],
+      "hot_score": 0.88
+    },
+    {
+      "title_en": "Thanks to social media, canned sardines are a scarcity on the supermarket shelf",
+      "url": "https://corneroffifth.studio/why-cant-you-find-canned-sardines-right-now/",
+      "title_zh": "多亏社交媒体，罐头沙丁鱼成了超市货架上的稀缺品",
+      "created_display": "Created: Aug 12, 2026 / 14:45 PT",
+      "image_url": "https://corneroffifth.studio/wp-content/uploads/2026/07/Fish_Graphics3.jpg",
+      "summary_en": "A social media stir has driven sudden demand for canned sardines, leading to shortages in supermarkets. The story highlights how online chatter can disrupt traditional supply and reveal fragilities in niche food supply chains, even for everyday staples.",
+      "summary_zh": "社媒的热议推动了罐头沙丁鱼的突增需求，导致不少超市缺货。这一现象揭示了网络话题如何冲击传统供应链，暴露了对日常必需品的脆弱性。",
+      "hn": {
+        "id": 49279013,
+        "type": "story",
+        "by": "carabiner",
+        "score": 153,
+        "descendants": 200,
+        "time": 1786571129,
+        "comments_url": "https://news.ycombinator.com/item?id=49279013"
+      },
+      "tags": [
+        "Business"
+      ],
+      "hot_score": 0.87
+    },
+    {
+      "title_en": "Tim King, AmigaDOS developer, has died",
+      "url": "https://amiga-news.de/en/news/AN-2026-08-00070-EN.html",
+      "title_zh": "AmigaDOS 开发者 Tim King 去世",
+      "created_display": "Created: Aug 12, 2026 / 07:09 PT",
+      "image_url": "https://amiga-news.de/images/kinne300x65.jpg",
+      "summary_en": "Tim King, a pivotal figure behind AmigaDOS, has passed away. His work helped shape retro computing and inspired generations of hobbyists and OS enthusiasts.",
+      "summary_zh": "AmigaDOS 关键人物 Tim King 去世；他的工作塑造了复古计算，并启发了众多爱好者与操作系统爱好者。",
+      "hn": {
+        "id": 49272655,
+        "type": "story",
+        "by": "doener",
+        "score": 287,
+        "descendants": 35,
+        "time": 1786543751,
+        "comments_url": "https://news.ycombinator.com/item?id=49272655"
+      },
+      "tags": [
+        "Culture"
+      ],
+      "hot_score": 0.86
+    },
+    {
+      "title_en": "Someone is running mass vulnerability scans, spoofing AI bots like ClaudeBot",
+      "url": "https://knownagents.com/insights",
+      "title_zh": "有人在进行大规模漏洞扫描，伪装成 ClaudeBot 等 AI 机器人",
+      "created_display": "Created: Aug 12, 2026 / 07:02 PT",
+      "image_url": "https://knownagents.com/assets/hero.png",
+      "summary_en": "Threat researchers report mass vulnerability scanning that spoofs AI bots like ClaudeBot to evade detection. The practice complicates attribution, strains rate limits, and can hamper legitimate AI services that rely on bot-like traffic patterns. For defenders, it underscores the need for robust fingerprinting and anomaly detection.",
+      "summary_zh": "安全研究者发现有人在进行大规模漏洞扫描，并伪装成像 ClaudeBot 这样的 AI 机器人以逃避检测。此举增加了追责难度，可能挤占限流资源，并干扰依赖机器人流量模式的服务。对防御方而言，这凸显了加强指纹识别和异常流量检测的必要性。",
+      "hn": {
+        "id": 49272569,
+        "type": "story",
+        "by": "gavinhking",
+        "score": 287,
+        "descendants": 220,
+        "time": 1786543366,
+        "comments_url": "https://news.ycombinator.com/item?id=49272569"
+      },
+      "tags": [
+        "Security",
+        "AI"
+      ],
+      "hot_score": 0.85
+    },
+    {
+      "title_en": "HTML over WebSockets: real-time SPAs with barely any JavaScript",
+      "url": "https://en.andros.dev/blog/ef4968f5/html-over-websockets-real-time-spas-with-barely-any-javascript/",
+      "title_zh": "通过 WebSockets 的 HTML：几乎不需要 JavaScript 的实时单页应用",
+      "created_display": "Created: Aug 12, 2026 / 09:51 PT",
+      "image_url": "https://img.andros.dev/BAgJju9f1byRsxHd4cb1hRGJP0Y=/600x0/filters:format(avif):quality(85)/https://andros.dev/media/thumbnails/kier-in-sight-archives-Sbxf5Dbyerk-unsplash.jpg",
+      "summary_en": "A blog demonstrates real-time SPAs by delivering HTML over WebSockets, reducing client-side JS and bundle sizes. The approach offers a lightweight alternative when interactivity can be server-driven.",
+      "summary_zh": "一篇博文展示通过 WebSockets 传送 HTML 来实现实时 SPAs，显著减少客户端 JavaScript 与包体大小，适用于服务器驱动的轻量化场景。",
+      "hn": {
+        "id": 49275335,
+        "type": "story",
+        "by": "redbell",
+        "score": 224,
+        "descendants": 158,
+        "time": 1786553485,
+        "comments_url": "https://news.ycombinator.com/item?id=49275335"
+      },
+      "tags": [
+        "Programming",
+        "Web"
+      ],
+      "hot_score": 0.82
+    },
+    {
+      "title_en": "Compression is prediction",
+      "url": "https://ngrok.com/blog/compression-is-prediction",
+      "title_zh": "压缩即预测",
+      "created_display": "Created: Aug 11, 2026 / 12:49 PT",
+      "image_url": "https://ngrok.com/blog-assets/images/2026-08-11-compression-is-prediction/og.png",
+      "summary_en": "Data compression is fundamentally about predicting the next symbol; improving a compressor equates to a better predictor.",
+      "summary_zh": "数据压缩本质上是对下一个符号的预测；提升压缩效果等同于改进预测能力。这一观点对机器学习、数据存储与推理具有实际启示，适用于希望把压缩思路融入模型设计的开发者。",
+      "hn": {
+        "id": 49263497,
+        "type": "story",
+        "by": "nikolay",
+        "score": 651,
+        "descendants": 283,
+        "time": 1786477784,
+        "comments_url": "https://news.ycombinator.com/item?id=49263497"
+      },
+      "tags": [
+        "Data"
+      ],
+      "hot_score": 0.73
+    },
+    {
+      "title_en": "Show HN: Woxi - Open-source Mathematica / Wolfram Language reimplementation",
+      "url": "https://woxi.ad-si.com",
+      "title_zh": "Show HN：Woxi：开源的 Mathematica / Wolfram Language 重实现",
+      "created_display": "Created: Aug 12, 2026 / 03:06 PT",
+      "image_url": "https://woxi.ad-si.com/images/social-preview.png",
+      "summary_en": "Woxi offers an open-source reimplementation of Mathematica/Wolfram Language aimed at researchers and educators who want an accessible, libre alternative. It provides a scripting and computation environment that mimics core Wolfram features and symbolic computation. The project could lower barriers for experimentation and education in computational math.",
+      "summary_zh": "Woxi 提供开源实现，旨在为研究者与教育者提供一个可访问的替代 Mathematica/Wolfram Language 的计算环境，模仿核心符号计算与脚本能力。该项目可能降低在计算性数学教育和研究中的门槛，并扩展自由工具的使用场景。",
+      "hn": {
+        "id": 49270040,
+        "type": "story",
+        "by": "adius",
+        "score": 302,
+        "descendants": 43,
+        "time": 1786529189,
+        "comments_url": "https://news.ycombinator.com/item?id=49270040"
+      },
+      "tags": [
+        "Show HN",
+        "Open Source",
+        "Education"
+      ],
+      "hot_score": 0.69
+    },
+    {
+      "title_en": "Shade Map",
+      "url": "https://shademap.app",
+      "title_zh": "Shade Map 阴影地图",
+      "created_display": "Created: Aug 12, 2026 / 06:01 PT",
+      "image_url": null,
+      "summary_en": "Shade Map provides a focused tool for visualizing shading data, whether for photography, architecture, or solar planning. The app emphasizes real-time or asset-based shading calculations and exportable charts.",
+      "summary_zh": "Shade Map 提供一个专注于可视化遮阴数据的工具，适用于摄影、建筑或太阳能规划等场景。该应用强调实时或基于资源的遮阴计算和可导出的图表。",
+      "hn": {
+        "id": 49271757,
+        "type": "story",
+        "by": "fredley",
+        "score": 227,
+        "descendants": 56,
+        "time": 1786539681,
+        "comments_url": "https://news.ycombinator.com/item?id=49271757"
+      },
+      "tags": [
+        "Design",
+        "Energy"
+      ],
+      "hot_score": 0.63
+    },
+    {
+      "title_en": "llama.cpp",
+      "url": "https://llama.app",
+      "title_zh": "llama.cpp 项目",
+      "created_display": "Created: Aug 11, 2026 / 21:51 PT",
+      "image_url": "https://llama.app/og-image-llama-cpp.png",
+      "summary_en": "llama.cpp is an open-source project that enables running Meta's LLaMA models efficiently on CPU with minimal dependencies. It unlocks offline AI use cases and makes local inference accessible without GPUs, which matters for privacy-focused developers and hobbyists alike. It also broadens access for researchers and small teams.",
+      "summary_zh": "llama.cpp 是一个开源项目，使 LLaMA 模型能够在 CPU 上高效运行，依赖尽量精简。它为离线 AI 场景提供了可行性，便于在没有 GPU 的本地环境中推理，并扩大了研究者与小团队的接触面。",
+      "hn": {
+        "id": 49267928,
+        "type": "story",
+        "by": "kristianpaul",
+        "score": 356,
+        "descendants": 159,
+        "time": 1786510319,
+        "comments_url": "https://news.ycombinator.com/item?id=49267928"
+      },
+      "tags": [
+        "Open Source",
+        "AI",
+        "Privacy",
+        "Hardware"
+      ],
+      "hot_score": 0.61
+    },
+    {
+      "title_en": "Stealing Reasoning Traces from Proprietary LLM APIs",
+      "url": "https://stolen-thoughts.com/",
+      "title_zh": "从专有大语言模型 API 窃取推理痕迹",
+      "created_display": "Created: Aug 11, 2026 / 06:22 PT",
+      "image_url": "https://stolen-thoughts.com/assets/fig1-extraction-fidelity.svg",
+      "summary_en": "Researchers demonstrate that proprietary LLM APIs can leak traces of reasoning, exposing intermediate prompts and steps. This raises privacy and security concerns about using hosted models and underscores the need for defenses against leakage.",
+      "summary_zh": "研究者展示了专有大语言模型 API 可能泄露推理痕迹，暴露中间提示和推理步骤。这对使用托管模型的隐私与安全构成挑战，凸显防止信息泄露的必要性。",
+      "hn": {
+        "id": 49257876,
+        "type": "story",
+        "by": "quantumgarbage",
+        "score": 686,
+        "descendants": 301,
+        "time": 1786454520,
+        "comments_url": "https://news.ycombinator.com/item?id=49257876"
+      },
+      "tags": [
+        "Security",
+        "Privacy",
+        "AI"
+      ],
+      "hot_score": 0.6
+    },
+    {
+      "title_en": "What sort of maths are LLMs good at?",
+      "url": "https://gowers.wordpress.com/2026/08/12/what-sort-of-maths-are-llms-good-at/",
+      "title_zh": "大型语言模型擅长哪些数学领域？",
+      "created_display": "Created: Aug 12, 2026 / 03:04 PT",
+      "image_url": "https://s0.wp.com/i/blank.jpg?m=1383295312i",
+      "summary_en": "LLMs show proficiency in certain math domains, especially structured, rule-based tasks, but struggle with novel proofs and deep abstraction. The discussion maps which areas align with training data and inference patterns, and why prompting and tooling matter for boosting performance. It helps readers decide when to rely on LLMs for math versus formal proof systems.",
+      "summary_zh": "大型语言模型在某些数学领域表现出色，尤其是结构化、规则性强的任务，但在新颖证明和深层抽象方面存在短板。讨论梳理了哪些数学领域与训练数据及推理模式更契合，以及为何通过提示与工具能提升表现。帮助读者判断在数学任务中应如何在依赖 LLM 与使用正式证明系统之间取舍。",
+      "hn": {
+        "id": 49270022,
+        "type": "story",
+        "by": "ColinWright",
+        "score": 258,
+        "descendants": 150,
+        "time": 1786529065,
+        "comments_url": "https://news.ycombinator.com/item?id=49270022"
+      },
+      "hot_score": 0.59,
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "title_en": "Pixel Watch 5",
+      "url": "https://blog.google/products-and-platforms/devices/pixel/pixel-watch-5/",
+      "title_zh": "Pixel Watch 5",
+      "created_display": "Created: Aug 12, 2026 / 09:14 PT",
+      "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Active_Band_Olive_Flat_Lay_-_Edited.width-1300.png",
+      "summary_en": "Google unveils Pixel Watch 5 with upgraded sensors and performance, reinforcing wearables as a core pillar of health and productivity features on Android.",
+      "summary_zh": "Google 发布 Pixel Watch 5，传感器与性能升级，将可穿戴设备进一步确立为 Android 健康与生产力功能的核心支柱。",
+      "hn": {
+        "id": 49274757,
+        "type": "story",
+        "by": "ortusdux",
+        "score": 153,
+        "descendants": 318,
+        "time": 1786551277,
+        "comments_url": "https://news.ycombinator.com/item?id=49274757"
+      },
+      "tags": [
+        "Hardware",
+        "Health"
+      ],
+      "hot_score": 0.53
+    },
+    {
+      "title_en": "Lovable raises $400M Series C",
+      "url": "https://lovable.dev/blog/series-c",
+      "title_zh": "Lovable 完成4亿美元C轮融资",
+      "created_display": "Created: Aug 12, 2026 / 09:20 PT",
+      "image_url": "https://assets.lovable.dev/content/news/covers/series-c.webp",
+      "summary_en": "Lovable has closed a $400M Series C, fueling growth, expansion, and product development. The funding marks strong investor belief in the startup's vision and market traction.",
+      "summary_zh": "Lovable 完成4亿美元C轮融资，为扩张、产品迭代和雇用提供充足资金。此轮融资体现投资人对其愿景与市场潜力的信心。",
+      "hn": {
+        "id": 49274858,
+        "type": "story",
+        "by": "thoughtpeddler",
+        "score": 151,
+        "descendants": 170,
+        "time": 1786551634,
+        "comments_url": "https://news.ycombinator.com/item?id=49274858"
+      },
+      "tags": [
+        "Startups",
+        "Business"
+      ],
+      "hot_score": 0.53
+    },
+    {
+      "title_en": "Facebook ads are so hard to block that uBlock Origin stopped filtering them",
+      "url": "https://www.neowin.net/news/facebook-ads-are-so-hard-to-block-that-ublock-origin-stopped-filtering-them/",
+      "title_zh": "Facebook 广告难以拦截，uBlock Origin 停止过滤",
+      "created_display": "Created: Aug 12, 2026 / 05:07 PT",
+      "image_url": "https://cdn.neowin.com/news/images/uploaded/2026/08/1786534055_facebook_ublock_origin_story.webp",
+      "summary_en": "Facebook ads have become so hard to block that a popular ad blocker stopped filtering them, illustrating an ongoing arms race between platform monetization and ad-blocking tools. The episode highlights the challenges of keeping users from unwanted ads and the limits of browser-based privacy tools. It invites questions about user choice, transparency, and blocking effectiveness.",
+      "summary_zh": "Facebook 广告变得难以拦截，知名广告拦截工具甚至停止了对其过滤，凸显了平台变现策略与广告拦截工具之间的持续博弈。这一事件凸显了让用户屏蔽广告的难度以及浏览器隐私工具的局限性，也引发关于用户选择、透明度与拦截效果的讨论。",
+      "hn": {
+        "id": 49271126,
+        "type": "story",
+        "by": "bundie",
+        "score": 195,
+        "descendants": 2,
+        "time": 1786536436,
+        "comments_url": "https://news.ycombinator.com/item?id=49271126"
+      },
+      "hot_score": 0.51,
+      "tags": [
+        "Privacy",
+        "Web"
+      ]
+    },
+    {
+      "title_en": "England set to be one of the first countries to eliminate hepatitis C",
+      "url": "https://www.bbc.com/news/articles/c75gk620r22o",
+      "title_zh": "英格兰有望成为首批根除丙型肝炎的国家之一",
+      "created_display": "Created: Aug 11, 2026 / 05:41 PT",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/f1b4/live/9d52a710-94e4-11f1-a7ab-8b30adf0800a.jpg",
+      "summary_en": "England is poised to become one of the first countries to eliminate hepatitis C, a milestone driven by broad screening and highly effective antiviral treatments. If achieved, it would validate scalable public-health strategies and could influence targets for other nations facing HCV challenges.",
+      "summary_zh": "英格兰有望成为首批根除丙型肝炎的国家之一，这一成就依赖广泛筛查和高效抗病毒治疗的组合。若实现，将验证可复制的公共卫生策略，并可能激励其他国家设定相似目标。",
+      "hn": {
+        "id": 49257377,
+        "type": "story",
+        "by": "stevekemp",
+        "score": 559,
+        "descendants": 400,
+        "time": 1786452119,
+        "comments_url": "https://news.ycombinator.com/item?id=49257377"
+      },
+      "tags": [
+        "Health",
+        "Science"
+      ],
+      "hot_score": 0.48
+    },
+    {
+      "title_en": "OpenAI’s head of ethics leaves less than a year after joining",
+      "url": "https://www.ft.com/content/e49dfb75-f841-4466-a577-f7aaff8779a0",
+      "title_zh": "OpenAI 道德与伦理主管任职不足一年即离职",
+      "created_display": "Created: Aug 11, 2026 / 05:23 PT",
+      "image_url": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F9c0f12b6-f040-44b5-96a2-4c1e7ec6bd1d.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
+      "summary_en": "OpenAI's chief ethics officer resigns after less than a year, signaling volatility in steering responsible AI at a leading lab. The move may recalibrate internal governance and external trust around AI safety, policy, and company commitments.",
+      "summary_zh": "OpenAI 的伦理负责人在不到一年任期后离职，揭示这家研究机构在负责任 AI 的治理上面临的变动。此举可能影响内部治理与外部对 AI 安全、政策与承诺的信任度。",
+      "hn": {
+        "id": 49257160,
+        "type": "story",
+        "by": "ilamont",
+        "score": 515,
+        "descendants": 478,
+        "time": 1786450987,
+        "comments_url": "https://news.ycombinator.com/item?id=49257160"
+      },
+      "tags": [
+        "Business",
+        "Politics",
+        "AI"
+      ],
+      "hot_score": 0.43
+    },
+    {
+      "title_en": "Go is an ideal language for AI-assisted software engineering",
+      "url": "https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/",
+      "title_zh": "为何 Go 是 AI 辅助软件工程的理想语言",
+      "created_display": "Created: Aug 11, 2026 / 09:57 PT",
+      "image_url": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/Go_Logo_-_Blue.2e16d0ba.fill-1200x600.png",
+      "summary_en": "Go's simplicity, strong concurrency, fast compilation, and reliability make it well-suited for building AI-assisted software tooling, such as code analysis, automations, and integration pipelines. The post argues Go's ecosystem and predictable performance help teams ship AI-powered developer tools with fewer surprises.",
+      "summary_zh": "Go 的简洁性、强大的并发模型、快速编译和稳定性使其非常适合构建 AI 辅助的开发工具，如代码分析、自动化和集成管道。文章认为 Go 的生态和可预测性能有助于团队更稳妥地发布 AI 驱动的开发者工具。",
+      "hn": {
+        "id": 49261133,
+        "type": "story",
+        "by": "0xedb",
+        "score": 431,
+        "descendants": 520,
+        "time": 1786467429,
+        "comments_url": "https://news.ycombinator.com/item?id=49261133"
+      },
+      "tags": [
+        "Programming",
+        "AI"
+      ],
+      "hot_score": 0.43
+    },
+    {
+      "title_en": "Mojo 1.0",
+      "url": "https://www.modular.com/blog/modular-26-5-mojo-1-0-is-here",
+      "title_zh": "Mojo 1.0 发布",
+      "created_display": "Created: Aug 11, 2026 / 09:56 PT",
+      "image_url": "https://cdn.prod.website-files.com/68c9c3107effc2ea46e1a82c/6a7b1bf1bd5b664c84aac08f_Blog-26.5-sm.jpeg",
+      "summary_en": "Modular announces Mojo 1.0, marking the language's transition from preview to a stable release. Mojo combines Python-like ergonomics with a systems-level performance model, targeting AI/ML workloads and high-throughput apps, with a growing toolchain and libraries.",
+      "summary_zh": "Modular 宣布 Mojo 1.0 正式发布，标志着这门面向 AI/ML 及高吞吐场景的系统编程语言进入稳定阶段。Mojo 将 Python 式易用性与系统级性能结合，伴随逐步完善的工具链与库，旨在提升开发效率与运行效率。",
+      "hn": {
+        "id": 49261128,
+        "type": "story",
+        "by": "dayanruben",
+        "score": 426,
+        "descendants": 236,
+        "time": 1786467406,
+        "comments_url": "https://news.ycombinator.com/item?id=49261128"
+      },
+      "tags": [
+        "Programming",
+        "AI"
+      ],
+      "hot_score": 0.43
+    },
+    {
+      "title_en": "Delphi 13 Community Edition Is Now Available",
+      "url": "https://blogs.embarcadero.com/delphi-13-community-edition-is-now-available/",
+      "title_zh": "Delphi 13 社区版现已可用",
+      "created_display": "Created: Aug 12, 2026 / 04:13 PT",
+      "image_url": "https://blogs.embarcadero.com/wp-content/uploads/2026/08/01_EMBT-CE-13-Release-_Delphi-13-CE-Learn-More-1200x628-1.png",
+      "summary_en": "Delphi 13 Community Edition is now available, offering a free route for developers to explore the latest Pascal-based successor with modern IDE enhancements. It lowers barriers for hobbyists and startups to experiment with the language and tools.",
+      "summary_zh": "Delphi 13 社区版现已推出，为开发者提供了使用 Pascal 为基础的现代化工具链的免费入口。该版本降低了爱好者和初创团队探索语言与开发环境的门槛。",
+      "hn": {
+        "id": 49270621,
+        "type": "story",
+        "by": "layer8",
+        "score": 174,
+        "descendants": 138,
+        "time": 1786533216,
+        "comments_url": "https://news.ycombinator.com/item?id=49270621"
+      },
+      "tags": [
+        "Programming"
+      ],
+      "hot_score": 0.43
+    },
+    {
+      "title_en": "Grok Bot",
+      "url": "https://x.ai/bot",
+      "title_zh": "Grok Bot",
+      "created_display": "Created: Aug 11, 2026 / 10:23 PT",
+      "image_url": "https://x.ai/images/news/introducing-grok-bot-og-2.png",
+      "summary_en": "Grok Bot is an AI assistant from X.AI designed to handle emails, scheduling, and other productivity tasks with natural language understanding and proactive suggestions.",
+      "summary_zh": "Grok Bot 是 X.AI 推出的 AI 助手，能够通过自然语言理解处理电子邮件、日程等生产力任务，并提供主动建议。",
+      "hn": {
+        "id": 49261514,
+        "type": "story",
+        "by": "rvz",
+        "score": 339,
+        "descendants": 324,
+        "time": 1786468989,
+        "comments_url": "https://news.ycombinator.com/item?id=49261514"
+      },
+      "tags": [
+        "AI"
+      ],
+      "hot_score": 0.34
+    },
+    {
+      "title_en": "WorldClaw Agentic 3D open-world generation at scale",
+      "url": "https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw/",
+      "title_zh": "WorldClaw Agentic：大规模3D开放世界生成",
+      "created_display": "Created: Aug 11, 2026 / 14:56 PT",
+      "image_url": "https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw/assets/worldclaw-share.jpg",
+      "summary_en": "WorldClaw Agentic introduces scalable 3D open-world generation powered by AI agents. It demonstrates a pipeline for large-scale content creation, streaming, and dynamic world building suitable for games, simulations, or metaverse platforms; the key takeaway is the role of agentic AI in automating complex, scalable environments.",
+      "summary_zh": "WorldClaw Agentic 展示了利用 AI 代理实现的大规模3D开放世界生成。该方案面向游戏、仿真和元宇宙等对海量内容需求场景，强调了自动化、可扩展的世界构建与内容流的潜在价值。",
+      "hn": {
+        "id": 49265051,
+        "type": "story",
+        "by": "EwanG",
+        "score": 271,
+        "descendants": 86,
+        "time": 1786485378,
+        "comments_url": "https://news.ycombinator.com/item?id=49265051"
+      },
+      "tags": [
+        "AI",
+        "Gaming"
+      ],
+      "hot_score": 0.33
+    },
+    {
+      "title_en": "CFTC declares market emergency, orders Kalshi to continue to operate in New York",
+      "url": "https://www.cftc.gov/PressRoom/PressReleases/9281-26",
+      "title_zh": "CFTC 宣布市场紧急状态，命令 Kalshi 在纽约继续运营",
+      "created_display": "Created: Aug 11, 2026 / 17:17 PT",
+      "image_url": "https://www.cftc.gov/sites/default/files/2025/06/1750109430/cftc-logo-square.png",
+      "summary_en": "The CFTC has invoked emergency authority to ensure Kalshi can keep operating in New York amid market disruptions. The move underscores how regulators manage access to emerging event-based trading platforms while preserving market integrity.",
+      "summary_zh": "美国商品期货交易委员会宣布在市场混乱时行使紧急权力，确保 Kalshi 能在纽约继续运营。此举凸显监管机构在新兴事件驱动交易平台的准入与市场完整性之间的权衡。",
+      "hn": {
+        "id": 49266277,
+        "type": "story",
+        "by": "michaefe",
+        "score": 221,
+        "descendants": 180,
+        "time": 1786493879,
+        "comments_url": "https://news.ycombinator.com/item?id=49266277"
+      },
+      "tags": [
+        "Finance",
+        "Legal",
+        "Politics"
+      ],
+      "hot_score": 0.3
+    },
+    {
+      "title_en": "Launch HN: Discovered Materials (YC P26) – AI agents to discover new materials",
+      "url": "https://discoveredmaterials.com/research/",
+      "title_zh": "Launch HN：Discovered Materials – 用 AI 代理发现新材料",
+      "created_display": "Created: Aug 12, 2026 / 00:51 PT",
+      "image_url": "https://discoveredmaterials.com/assets/og-image.png",
+      "summary_en": "Discovered Materials, a YC startup, uses AI agents to accelerate materials discovery, combining domain knowledge with automated experimentation. The project aims to shorten R&D cycles and push breakthroughs in materials science.",
+      "summary_zh": "Discovered Materials（YC 第26期）利用 AI 代理来加速新材料发现，结合领域知识与自动化实验，旨在缩短研发周期并推动材料科学的突破。",
+      "hn": {
+        "id": 49269090,
+        "type": "story",
+        "by": "advaith08",
+        "score": 149,
+        "descendants": 32,
+        "time": 1786521080,
+        "comments_url": "https://news.ycombinator.com/item?id=49269090"
+      },
+      "tags": [
+        "AI",
+        "Startups"
+      ],
+      "hot_score": 0.3
+    },
+    {
+      "title_en": "Nvidia Nemotron 3.5 Lightning and NeMo Switchyard",
+      "url": "https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx/",
+      "title_zh": "英伟达 Nemotron 3.5 Lightning 与 NeMo Switchyard",
+      "created_display": "Created: Aug 11, 2026 / 12:35 PT",
+      "image_url": "https://blogs.nvidia.com/wp-content/uploads/2026/08/image1.jpeg",
+      "summary_en": "Nvidia expands Nemotron 3.5 with Lightning and introduces NeMo Switchyard to improve deployment and orchestration for AI workloads across DGX clusters. The update emphasizes streamlined model serving, unified management, and higher throughput for large-scale inference. For enterprises building AI-powered apps, it suggests a more integrated, scalable path from model development to production.",
+      "summary_zh": "英伟达推出 Nemotron 3.5 的 Lightning 版本并引入 NeMo Switchyard，优化在 DGX 集群上的 AI 部署与编排。升级聚焦统一管理、提升推理吞吐，帮助企业将模型从开发到生产的落地更高效。",
+      "hn": {
+        "id": 49263340,
+        "type": "story",
+        "by": "droidjj",
+        "score": 259,
+        "descendants": 135,
+        "time": 1786476952,
+        "comments_url": "https://news.ycombinator.com/item?id=49263340"
+      },
+      "tags": [
+        "AI",
+        "DevOps"
+      ],
+      "hot_score": 0.29
+    },
+    {
+      "title_en": "New Bedford police officer accused of using Flock cameras to track ex-partner",
+      "url": "https://newbedfordlight.org/new-bedford-police-officer-accused-of-using-flock-cameras-to-track-and-follow-ex-romantic-partner/",
+      "title_zh": "新贝德福德警官被指控使用 Flock 摄像头追踪前伴侣",
+      "created_display": "Created: Aug 11, 2026 / 18:42 PT",
+      "image_url": "https://newbedfordlight.org/wp-content/uploads/2026/08/flock-officer-2.jpg",
+      "summary_en": "An officer from New Bedford is accused of abusing Flock camera feeds to monitor an ex-partner. The case raises concerns about surveillance network governance and potential misuse by law enforcement.",
+      "summary_zh": "新贝德福德的一名警官被控滥用 Flock 摄像头监视前伴侣。这一案件突显了监控网络的治理不足和执法部门可能的滥用风险。",
+      "hn": {
+        "id": 49266899,
+        "type": "story",
+        "by": "newsomix9xl",
+        "score": 201,
+        "descendants": 95,
+        "time": 1786498966,
+        "comments_url": "https://news.ycombinator.com/item?id=49266899"
+      },
+      "tags": [
+        "Privacy",
+        "Legal"
+      ],
+      "hot_score": 0.29
+    },
+    {
+      "title_en": "Company Offering '100% Human-Written, Never AI' Medical Research Is 100% AI",
+      "url": "https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai/",
+      "title_zh": "声称‘100% 人工撰写、从不使用 AI’ 的医学研究公司 实际上 全部由 AI 生成",
+      "created_display": "Created: Aug 11, 2026 / 19:05 PT",
+      "image_url": "https://images.unsplash.com/photo-1581093577421-f561a654a353?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDExfHxyZXNlYXJjaGVyfGVufDB8fHx8MTc4NjM2OTE1Mnww&ixlib=rb-4.1.0&q=80&w=2000",
+      "summary_en": "A company claiming to publish '100% human-written, never AI' medical research is revealed to be entirely AI-generated. The revelation underscores risks of misleading scientific communication and pressures on peer review.",
+      "summary_zh": "一家公司声称提供‘100% 人工撰写、从不使用 AI’ 的医学研究，但事实却是全部由 AI 生成。这一发现突显了科学传播中的误导风险，以及对同行评审体系的压力。",
+      "hn": {
+        "id": 49267057,
+        "type": "story",
+        "by": "Anon84",
+        "score": 195,
+        "descendants": 48,
+        "time": 1786500342,
+        "comments_url": "https://news.ycombinator.com/item?id=49267057"
+      },
+      "tags": [
+        "AI",
+        "Science",
+        "Health"
+      ],
+      "hot_score": 0.29
+    },
+    {
+      "title_en": "Apple Silicon and macOS VMs: Faster LLM Inference with llama.cpp",
+      "url": "https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md",
+      "title_zh": "Apple Silicon 与 macOS 虚拟机：借助 llama.cpp 实现更快的 LLM 推理",
+      "created_display": "Created: Aug 11, 2026 / 07:50 PT",
+      "image_url": "https://opengraph.githubassets.com/cd831ac511183cbabd8d9359bbf0cdbd499329fb0257b497795ad7c264beec61/trycua/cua",
+      "summary_en": "Apple Silicon machines running macOS VMs can use GPU passthrough to speed up LLM inference with llama.cpp. The setup shows how Macs can squeeze more AI throughput for local or private-cloud workflows, though it comes with VM stability and driver caveats. Practical tips and pitfalls accompany the approach for developers exploring on-device AI.",
+      "summary_zh": "在 Apple Silicon 的 Mac 上，通过为 macOS 虚拟机启用 GPU 直通，可以用 llama.cpp 加速大语言模型推理。这种方案展示了在 Mac 上提升 AI 处理能力的可行性，便于实现本地化或私有云推理。实施中的现实挑战包括虚拟机稳定性、驱动兼容性以及功耗与散热等问题。",
+      "hn": {
+        "id": 49259339,
+        "type": "story",
+        "by": "frabonacci",
+        "score": 304,
+        "descendants": 43,
+        "time": 1786459833,
+        "comments_url": "https://news.ycombinator.com/item?id=49259339"
+      },
+      "tags": [
+        "Programming",
+        "AI",
+        "Hardware"
+      ],
+      "hot_score": 0.28
+    },
+    {
+      "title_en": "The Human Is the Loop",
+      "url": "https://brentfitzgerald.com/posts/the-human-is-the-loop/",
+      "title_zh": "人是循环中的一环",
+      "created_display": "Created: Aug 11, 2026 / 19:15 PT",
+      "image_url": null,
+      "summary_en": "The Human Is the Loop argues humans remain essential in AI systems, not as optional add-ons but as core control and interpretation nodes. It discusses practical patterns for humane, effective human-in-the-loop workflows, including feedback, oversight, and accountability. The takeaway is to balance automation with human judgment to build robust systems.",
+      "summary_zh": "《人是循环中的一环》认为人类在 AI 系统中仍然不可或缺，不是可选的附加环节，而是核心的控制与解读节点。文中探讨了高效的人机循环工作流的实际做法，包括反馈、监督与问责等要素。核心观点是在自动化与人类判断之间找到平衡，以构建更稳健的系统。",
+      "hn": {
+        "id": 49267108,
+        "type": "story",
+        "by": "burnto",
+        "score": 189,
+        "descendants": 91,
+        "time": 1786500901,
+        "comments_url": "https://news.ycombinator.com/item?id=49267108"
+      },
+      "hot_score": 0.28,
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "title_en": "US hires over 2k video gamers as air traffic controllers",
+      "url": "https://www.cbsnews.com/news/video-gamer-air-traffic-controllers-faa-recruitment-sean-duffy/",
+      "title_zh": "美国雇用两千多名视频游戏玩家担任空中交通管制员",
+      "created_display": "Created: Aug 11, 2026 / 16:26 PT",
+      "image_url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/08/11/2c3b1f38-9648-4daf-9f50-fd630d3b3a21/thumbnail/1200x630/d2ce9c81e57a883803e3d5377231db87/gettyimages-2257297641.jpg",
+      "summary_en": "The FAA is recruiting over 2,000 video gamers as air traffic controllers, tapping fast pattern recognition and rapid decision-making skills from gaming. The move demonstrates how gaming experience can translate to high-stakes, real-time work, while raising questions about training pipelines and safety guarantees. Expect debate over qualification standards and how to best staff critical infrastructure.",
+      "summary_zh": "美国联邦航空局正在招募超过2000名视频游戏玩家担任空中交通管制员，意在利用他们在游戏中培养的快速模式识别与决策能力。这一举措显示了游戏经验向高压实时工作转化的潜力，同时也引发对培训流程与安全保障的讨论。关于资质标准以及如何更好地为关键基础设施配备人力，将展开广泛讨论。",
+      "hn": {
+        "id": 49265879,
+        "type": "story",
+        "by": "shagie",
+        "score": 206,
+        "descendants": 156,
+        "time": 1786490777,
+        "comments_url": "https://news.ycombinator.com/item?id=49265879"
+      },
+      "hot_score": 0.27,
+      "tags": [
+        "Gaming",
+        "Career",
+        "DevOps"
+      ]
+    },
+    {
+      "title_en": "Woman pulled over twice after Flock-linked software connected her to homicide",
+      "url": "https://guessingheadlights.com/yall-failed-me-woman-pulled-over-at-gunpoint-twice-after-flock-camera-glitch/",
+      "title_zh": "Flock 系统误将她与凶杀案相关联，导致她两次被拦下",
+      "created_display": "Created: Aug 11, 2026 / 10:02 PT",
+      "image_url": "https://guessingheadlights.com/wp-content/uploads/2026/08/Guessing-Headlights-Viral-89.png",
+      "summary_en": "A woman says a Flock surveillance alert linked her to a homicide, leading to two police stops. The incident highlights the risk of misidentification in automated policing tools and the real-world consequences for civilians.",
+      "summary_zh": "一名女性称，Flock 监控系统的警报将她与一起凶杀案相关联，导致她两次被警方拦下。这一事件凸显了自动化警务工具在误识别方面的风险，以及对平民造成的现实后果。",
+      "hn": {
+        "id": 49261218,
+        "type": "story",
+        "by": "cdrnsf",
+        "score": 261,
+        "descendants": 240,
+        "time": 1786467779,
+        "comments_url": "https://news.ycombinator.com/item?id=49261218"
+      },
+      "tags": [
+        "Privacy",
+        "Legal"
+      ],
+      "hot_score": 0.26
+    },
+    {
+      "title_en": "Making holograms with a pen plotter",
+      "url": "https://blog.jordan.matelsky.com/Penplotter-holography/",
+      "title_zh": "用笔绘图机制作全息图",
+      "created_display": "Created: Aug 11, 2026 / 11:51 PT",
+      "image_url": "https://avatars0.githubusercontent.com/u/693511?v=3&s=460",
+      "summary_en": "A maker demonstrates how a standard pen plotter can be repurposed to generate holographic light patterns, illustrating accessible DIY optics that blend hardware hacking with creative visuals.",
+      "summary_zh": "一位创客展示如何将普通的笔绘图机改造成产生全息光场的设备，演示开源硬件在光学实验中的潜力。该项目降低了 DIY 全息成像的门槛，或为教育与创意展示提供新思路。",
+      "hn": {
+        "id": 49262811,
+        "type": "story",
+        "by": "DemiGuru",
+        "score": 182,
+        "descendants": 24,
+        "time": 1786474295,
+        "comments_url": "https://news.ycombinator.com/item?id=49262811"
+      },
+      "tags": [
+        "Hardware",
+        "Design"
+      ],
+      "hot_score": 0.2
+    },
+    {
+      "title_en": "U of Michigan drops first-semester grades to ‘curb mental health crisis’",
+      "url": "https://www.wsj.com/us-news/education/university-of-michigan-grades-mental-health-1a5701d4",
+      "title_zh": "密歇根大学将第一学期成绩下调以缓解心理健康危机",
+      "created_display": "Created: Aug 11, 2026 / 08:54 PT",
+      "image_url": null,
+      "summary_en": "University of Michigan lowers first-semester grades to curb mental health crisis, exploring the impact of grading policies on student well-being.",
+      "summary_zh": "密歇根大学为缓解心理健康危机而下调第一学期成绩，探讨评分政策对学生福祉的影响。文章分析在学术标准与学生支持之间的平衡问题。",
+      "hn": {
+        "id": 49260250,
+        "type": "story",
+        "by": "cwwc",
+        "score": 181,
+        "descendants": 512,
+        "time": 1786463675,
+        "comments_url": "https://news.ycombinator.com/item?id=49260250"
+      },
+      "tags": [
+        "Education",
+        "Health"
+      ],
+      "hot_score": 0.17
+    },
+    {
+      "title_en": "How we used to get jobs: A newspaper classifieds story",
+      "url": "https://ironicsans.ghost.io/how-we-used-to-get-jobs/",
+      "title_zh": "找工作往事：报纸刊登的分类广告",
+      "created_display": "Created: Aug 11, 2026 / 11:09 PT",
+      "image_url": "https://storage.ghost.io/c/99/08/9908ec0b-b3d5-476b-bc3c-632c5b087809/content/images/size/w1200/2026/08/absolutvision-bSlHKWxxXak-unsplash.jpg",
+      "summary_en": "A nostalgia-soaked look at how people used to get jobs via newspaper classifieds, before online boards took over. It contrasts that era with today’s platforms and notes enduring lessons from classifieds.",
+      "summary_zh": "回顾在互联网崛起前，人们通过报纸分类广告找工作的往事。文章揭示了早期就业市场中的信息不对称、摩擦与社交动态，并将与今天在线平台的差异进行对比，同时指出从 classifieds 中留存的经验教训。",
+      "hn": {
+        "id": 49262211,
+        "type": "story",
+        "by": "speckx",
+        "score": 163,
+        "descendants": 135,
+        "time": 1786471796,
+        "comments_url": "https://news.ycombinator.com/item?id=49262211"
+      },
+      "hot_score": 0.17,
+      "tags": [
+        "Career",
+        "Culture"
+      ]
+    },
+    {
+      "title_en": "Manus will return to operating as an independent company",
+      "url": "https://manus.im/blog/a-note-to-our-users",
+      "title_zh": "Manus 将重新以独立公司身份运营",
+      "created_display": "Created: Aug 11, 2026 / 07:14 PT",
+      "image_url": "https://files.manuscdn.com/assets/dashboard/materials/2026/08/06/6fff945a50397f337dd4c74478366d843e1e75cde81c866875c119792265bc15.webp",
+      "summary_en": "Manus plans to operate as an independent company again, signaling a strategic shift after prior corporate changes. The move may affect customers and partners, while allowing focused product development and governance.",
+      "summary_zh": "Manus 宣布将再次以独立公司身份运营，标志着在先前公司结构调整后的策略重聚焦。此举可能影响现有客户与合作伙伴，并为产品路线和治理带来更明确的方向。",
+      "hn": {
+        "id": 49258764,
+        "type": "story",
+        "by": "thm",
+        "score": 167,
+        "descendants": 89,
+        "time": 1786457693,
+        "comments_url": "https://news.ycombinator.com/item?id=49258764"
+      },
+      "tags": [
+        "Business"
+      ],
+      "hot_score": 0.15
+    },
+    {
+      "title_en": "Show HN: Git-knife – Edit commit messages, authors, and dates like a spreadsheet",
+      "url": "https://github.com/TheRealYT/git-knife",
+      "title_zh": "Git-knife：像电子表格一样编辑提交信息、作者和日期",
+      "created_display": "Created: Aug 11, 2026 / 08:09 PT",
+      "image_url": "https://opengraph.githubassets.com/147f8c105fea0c583d3dde99c129521e5909741b34f9f25db255a470953f07b9/TheRealYT/git-knife",
+      "summary_en": "Git-knife provides a spreadsheet-like interface to edit commit messages, authors, and dates across a repository. This can dramatically simplify history rewrites and cleanup tasks, making it easier to maintain consistent metadata without manual git rebase.",
+      "summary_zh": "Git-knife 提供像电子表格一样的界面，方便在整个仓库中编辑提交信息、作者和日期。它可以大幅简化历史重写与元数据整理的工作，让维护者以更直观的方式保持一致性。",
+      "hn": {
+        "id": 49259611,
+        "type": "story",
+        "by": "YonathanTesfaye",
+        "score": 163,
+        "descendants": 101,
+        "time": 1786460974,
+        "comments_url": "https://news.ycombinator.com/item?id=49259611"
+      },
+      "tags": [
+        "Show HN",
+        "Programming"
+      ],
+      "hot_score": 0.15
+    }
+  ]
+}

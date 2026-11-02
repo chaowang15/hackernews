@@ -1,0 +1,1172 @@
+{
+  "meta": {
+    "mode": "best",
+    "source": "https://news.ycombinator.com/",
+    "api": "https://github.com/HackerNews/API",
+    "count_requested": 50,
+    "count_written": 50,
+    "reused_same_day": 0,
+    "reused_cross_day": 23,
+    "new_llm_enriched": 27,
+    "scrape_time_display": "05:52, August 19, 2026 (PDT)",
+    "timezone": "America/Los_Angeles",
+    "date_dir": "2026/08/18",
+    "content_date": "2026-08-18",
+    "run_time_local": "05:52, August 19, 2026 (PDT)",
+    "run_time_utc": "2026-08-19 12:52:47 UTC",
+    "incremental": true,
+    "stories_max": 50,
+    "hot_score_time_utc": "2026-08-19 12:56:31 UTC"
+  },
+  "items": [
+    {
+      "title_en": "OpenLogi",
+      "url": "https://openlogi.org/en",
+      "title_zh": "OpenLogi",
+      "created_display": "Created: Aug 18, 2026 / 18:58 PT",
+      "image_url": "https://openlogi.org/social-preview.png",
+      "summary_en": "OpenLogi presents a logistics stack aimed at simplifying e‑commerce fulfillment with developer-friendly APIs, inventory routing and connector integrations. Its approach lowers the barrier for merchants to orchestrate distributed warehousing and shipping without building their own backend operations.",
+      "summary_zh": "OpenLogi 提供面向開發者的物流堆疊，通過 API、庫存路由和多個倉配連接來簡化電商履約流程。它讓商家在不自建後端物流的情況下，也能協調分散倉儲和出貨。",
+      "hn": {
+        "id": 49355606,
+        "type": "story",
+        "by": "amatheus",
+        "score": 996,
+        "descendants": 273,
+        "time": 1787104708,
+        "comments_url": "https://news.ycombinator.com/item?id=49355606"
+      },
+      "hot_score": 9.88,
+      "tags": [
+        "Programming",
+        "Business",
+        "Web"
+      ]
+    },
+    {
+      "title_en": "The Amazon tax",
+      "url": "https://seths.blog/2026/08/the-amazon-tax/",
+      "title_zh": "亞馬遜稅",
+      "created_display": "Created: Aug 18, 2026 / 06:22 PT",
+      "image_url": "https://seths.blog/wp-content/uploads/2018/06/seth_godin_ogimages_v02_18061312.jpg",
+      "summary_en": "Selling on Amazon often requires giving up margin, control, and customer relationships to platform fees, advertising costs, and algorithmic visibility. That cumulative cost — the 'Amazon tax' — forces sellers to optimize for the marketplace's incentives rather than their own brand or customers, with long-term competitive and dependency risks.",
+      "summary_zh": "在亞馬遜上銷售意味著要承擔平臺費用、廣告支出以及算法能見度帶來的成本，從而侵蝕利潤並削弱與顧客的直接關係。這種「亞馬遜稅」會讓賣家為了迎合平臺而非建立自有品牌或體驗，增加長期依賴與競爭風險。",
+      "hn": {
+        "id": 49345263,
+        "type": "story",
+        "by": "herbertl",
+        "score": 1234,
+        "descendants": 639,
+        "time": 1787059358,
+        "comments_url": "https://news.ycombinator.com/item?id=49345263"
+      },
+      "hot_score": 3.61,
+      "tags": [
+        "Business",
+        "Finance"
+      ]
+    },
+    {
+      "title_en": "Sticky wage norms and the real wage cost of unexpected inflation",
+      "url": "https://bfi.uchicago.edu/wp-content/uploads/2026/08/BFI_WP_2026-108-1.pdf",
+      "title_zh": "僵化工資規範與意外通膨的實際工資成本",
+      "created_display": "Created: Aug 18, 2026 / 17:53 PT",
+      "image_url": null,
+      "summary_en": "The paper models how sticky wage norms affect employers' real labor costs when inflation surprises occur, finding that wage rigidities can shift much of the burden away from firms and onto workers via eroded real wages. Quantifying that transfer helps explain labor‑market frictions and informs policy on inflation stabilization and wage indexation.",
+      "summary_zh": "該研究建模分析在意外通貨膨脹下僵化工資規範如何影響雇主的實際勞動成本，發現工資黏性會透過實質薪資下降將負擔大量轉嫁給勞工。對這種轉移進行量化有助理解勞動市場摩擦，並為通膨穩定與工資指數化政策提供依據。",
+      "hn": {
+        "id": 49355142,
+        "type": "story",
+        "by": "jplusequalt",
+        "score": 367,
+        "descendants": 234,
+        "time": 1787100831,
+        "comments_url": "https://news.ycombinator.com/item?id=49355142"
+      },
+      "hot_score": 3.15,
+      "tags": [
+        "Science"
+      ]
+    },
+    {
+      "title_en": "Meta's blockbuster trial draws parallels to big tobacco",
+      "url": "https://www.economist.com/business/2026/08/18/metas-blockbuster-trial-draws-parallels-to-big-tobacco",
+      "title_zh": "Meta 的重磅審判被比擬為大型煙草公司案件",
+      "created_display": "Created: Aug 18, 2026 / 19:24 PT",
+      "image_url": null,
+      "summary_en": "The trial frames Meta's conduct in a manner reminiscent of big‑tobacco litigation—alleging the company knew about harms from its products and prioritized growth over safety. The comparison raises stakes about internal research, regulatory scrutiny, and potential remedies if the court finds corporate culpability similar to past public‑health cases.",
+      "summary_zh": "審判將 Meta 的行為比作大型煙草案件，指控公司可能知悉其產品造成的傷害卻優先追求成長。這種比擬提高了內部研究揭露、監管審查與若法院認定公司有責任時可能採取補救措施的嚴重性。",
+      "hn": {
+        "id": 49355825,
+        "type": "story",
+        "by": "newsomix9xl",
+        "score": 272,
+        "descendants": 223,
+        "time": 1787106274,
+        "comments_url": "https://news.ycombinator.com/item?id=49355825"
+      },
+      "hot_score": 2.86,
+      "tags": [
+        "Business",
+        "Legal",
+        "Health",
+        "Politics"
+      ]
+    },
+    {
+      "title_en": "Cerebras CS-4",
+      "url": "https://www.cerebras.ai/cs4",
+      "title_zh": "Cerebras CS‑4",
+      "created_display": "Created: Aug 18, 2026 / 17:28 PT",
+      "image_url": "https://cdn.sanity.io/images/e4qjo92p/production/21fa43f6d541115e57887beb1155bddc7541ae71-2400x1260.jpg?w=1200&h=630&fit=max&auto=format",
+      "summary_en": "The Cerebras CS‑4 is the latest wafer‑scale AI accelerator offering massive on‑chip memory and compute for training very large models without heavy distributed overhead. Its architecture targets organizations building foundation models, promising throughput gains and simpler scaling compared with multi‑chip clusters, but at significant power and cost profiles.",
+      "summary_zh": "Cerebras CS‑4 是新一代晶圓級 AI 加速器，提供巨量片上記憶體與運算能力，能在較少分散式開銷下訓練超大模型。對於構建基礎模型的機構來說，它在吞吐量與擴展性上有優勢，但也伴隨較高的功耗與成本。",
+      "hn": {
+        "id": 49354949,
+        "type": "story",
+        "by": "sunils34",
+        "score": 348,
+        "descendants": 214,
+        "time": 1787099298,
+        "comments_url": "https://news.ycombinator.com/item?id=49354949"
+      },
+      "hot_score": 2.83,
+      "tags": [
+        "AI",
+        "Hardware"
+      ]
+    },
+    {
+      "title_en": "Scientists stunned by children's lung recovery in ultra low emission zone",
+      "url": "https://www.bbc.com/news/articles/c1l1r1zne1ro",
+      "title_zh": "科學家驚訝於超低排放區內兒童肺功能恢復",
+      "created_display": "Created: Aug 18, 2026 / 17:48 PT",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/4dc6/live/93fc0f30-9ad4-11f1-aed2-8d6da8d75094.jpg",
+      "summary_en": "Imposing an ultra low emission zone led to measurable improvements in children's lung function, with researchers surprised by the rapid and significant health gains. The result provides strong empirical evidence that local pollution‑control policies can deliver near‑term public‑health benefits for vulnerable populations.",
+      "summary_zh": "設立超低排放區後，孩童的肺功能在短期內顯著改善，令科學家感到驚訝。這一發現為地方性污染管制政策能在短期內為弱勢族群帶來公共健康效益提供了有力實證。",
+      "hn": {
+        "id": 49355105,
+        "type": "story",
+        "by": "dabinat",
+        "score": 323,
+        "descendants": 258,
+        "time": 1787100503,
+        "comments_url": "https://news.ycombinator.com/item?id=49355105"
+      },
+      "hot_score": 2.74,
+      "tags": [
+        "Health",
+        "Politics"
+      ]
+    },
+    {
+      "title_en": "Beware Management Consultants",
+      "url": "https://about.iceland.co.uk/our-story/the-dark-ages/beware-management-consultants/",
+      "title_zh": "當心管理顧問",
+      "created_display": "Created: Aug 18, 2026 / 12:29 PT",
+      "image_url": "https://about.iceland.co.uk/wp-content/uploads/2017/11/logo-1.png",
+      "summary_en": "Management consultants can deliver frameworks and quick fixes, but they also risk imposing one‑size‑fits‑all solutions, high fees, and disruptions that hollow out internal capability. Skepticism and clear metrics are needed before outsourcing strategy or transformation work to avoid short‑term gains at the expense of long‑term resilience.",
+      "summary_zh": "管理顧問雖能提供框架與速效方案，但也可能強行套用通用解法、收取高額費用並削弱內部能力。對外包策略或轉型工作應保持懷疑、設定明確指標，以免短期收益代價是長期抗壓力下降。",
+      "hn": {
+        "id": 49351324,
+        "type": "story",
+        "by": "KolmogorovComp",
+        "score": 569,
+        "descendants": 149,
+        "time": 1787081391,
+        "comments_url": "https://news.ycombinator.com/item?id=49351324"
+      },
+      "hot_score": 2.72,
+      "tags": [
+        "Business"
+      ]
+    },
+    {
+      "title_en": "A 3D fruit fly on macOS desktop powered by the real FlyWire connectome",
+      "url": "https://github.com/DenisSergeevitch/desktop-fly",
+      "title_zh": "以真實 FlyWire 連接體為動力的 macOS 桌面 3D 果蠅",
+      "created_display": "Created: Aug 18, 2026 / 14:50 PT",
+      "image_url": "https://opengraph.githubassets.com/16f506e97fb29db92b0a5585c8c75e00a70ec6c2cd32a605a55d5f0469349ba3/DenisSergeevitch/desktop-fly",
+      "summary_en": "This macOS widget renders a 3D fruit‑fly on the desktop whose neuronal activity is driven by the FlyWire connectome data, turning real connectomic wiring into live visual behavior. It's a playful but impressive demo of making scientific connectome datasets interactive and tangible on a personal computer.",
+      "summary_zh": "這個 macOS 小工具在桌面上呈現一隻 3D 果蠅，其神經活動由 FlyWire 連接體資料驅動，將真實的連接體網絡轉化為即時可視的行為。這是把科學連接體資料互動化並帶到個人電腦上的趣味而令人印象深刻的示範。",
+      "hn": {
+        "id": 49353221,
+        "type": "story",
+        "by": "phoenix120",
+        "score": 316,
+        "descendants": 130,
+        "time": 1787089833,
+        "comments_url": "https://news.ycombinator.com/item?id=49353221"
+      },
+      "hot_score": 1.9,
+      "tags": [
+        "Science",
+        "Programming"
+      ]
+    },
+    {
+      "title_en": "How does IKEA come up with names for its products?",
+      "url": "https://www.ikea.com/se/en/customer-service/knowledge/articles/6f564c4d-2ccc-46de-b643-545a3948dc79.html",
+      "title_zh": "宜家如何為產品命名？",
+      "created_display": "Created: Aug 18, 2026 / 11:11 PT",
+      "image_url": "https://www.ikea.com/global/assets/logos/brand/ikea.svg",
+      "summary_en": "IKEA uses a systematic naming convention—assigning Swedish words and categories to products based on type, taxonomy, and sometimes whimsical themes—rather than serial numbers. That approach simplifies cataloging across thousands of SKUs while creating memorable, brand‑specific names that double as identifiers.",
+      "summary_zh": "宜家採用系統化的命名規則，依產品類型與分類以瑞典語單詞（有時帶有俏皮主題）來命名，而非純數字編碼。這種做法在數千個 SKU 中既便於分類管理，也能產生具品牌辨識度且易記的名稱。",
+      "hn": {
+        "id": 49349984,
+        "type": "story",
+        "by": "NaOH",
+        "score": 385,
+        "descendants": 268,
+        "time": 1787076713,
+        "comments_url": "https://news.ycombinator.com/item?id=49349984"
+      },
+      "hot_score": 1.64,
+      "tags": [
+        "Design"
+      ]
+    },
+    {
+      "title_en": "Google has acquired the data of failed US airline Spirit",
+      "url": "https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962",
+      "title_zh": "谷歌買下倒閉航空公司的資料",
+      "created_display": "Created: Aug 18, 2026 / 03:13 PT",
+      "image_url": "https://image.theregister.com/5273664.jpg?imageId=5273664&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+      "summary_en": "Google reportedly purchased operational and passenger data from a failed U.S. airline at auction, potentially to train models or analyze transportation systems. That acquisition raises privacy and legal questions about using sensitive passenger records for AI research or commercial products without clear consent or protections.",
+      "summary_zh": "據稱谷歌在破產拍賣中買下了一家倒閉美國航空公司的運營與乘客資料，可能用於模型訓練或運輸分析。這種做法帶出隱私與法律問題：敏感乘客紀錄被用於 AI 或商業用途時，是否具有明確同意與適當保護。",
+      "hn": {
+        "id": 49343559,
+        "type": "story",
+        "by": "pseudolus",
+        "score": 586,
+        "descendants": 408,
+        "time": 1787048008,
+        "comments_url": "https://news.ycombinator.com/item?id=49343559"
+      },
+      "hot_score": 1.39,
+      "tags": [
+        "Privacy",
+        "Legal",
+        "AI",
+        "Business"
+      ]
+    },
+    {
+      "title_en": "And then the men with guns tell you to do it anyway",
+      "url": "https://shkspr.mobi/blog/2026/08/and-then-the-men-with-guns-tell-you-to-do-it-anyway/",
+      "title_zh": "然後有拿槍的人告訴你還是照做",
+      "created_display": "Created: Aug 18, 2026 / 10:11 PT",
+      "image_url": "https://shkspr.mobi/blog/wp-content/uploads/2026/08/fire-alert.webp",
+      "summary_en": "Legal rights or principles can be rendered moot in practice when armed authorities compel a different action, underscoring the gap between theory and enforced reality. The sentence warns that coercive enforcement often determines outcomes regardless of legal correctness.",
+      "summary_zh": "理論上的權利在面對持械執法時可能無法體現，強制力往往決定實際結果。這句話提醒人們：被執行的現實常常凌駕於法理之上。",
+      "hn": {
+        "id": 49348912,
+        "type": "story",
+        "by": "_djo_",
+        "score": 350,
+        "descendants": 261,
+        "time": 1787073088,
+        "comments_url": "https://news.ycombinator.com/item?id=49348912"
+      },
+      "hot_score": 1.37,
+      "tags": [
+        "Legal",
+        "Politics"
+      ]
+    },
+    {
+      "title_en": "AI;DR (AI; Didn't Read)",
+      "url": "https://www.rickmanelius.com/p/aidr-ai-didnt-read",
+      "title_zh": "AI；DR（AI 没看完）",
+      "created_display": "Created: Aug 17, 2026 / 12:47 PT",
+      "image_url": "https://substackcdn.com/image/fetch/$s_!v6i6!,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Frickmanelius.substack.com%2Ftwitter%2Fsubscribe-card.jpg%3Fv%3D-1034328908%26version%3D9",
+      "summary_en": "A compact, opinionated take on AI topics in bite-sized form.",
+      "summary_zh": "对 AI 相关议题给出简短、带观点的要点摘要。",
+      "hn": {
+        "id": 49336573,
+        "type": "story",
+        "by": "mooreds",
+        "score": 1079,
+        "descendants": 676,
+        "time": 1786996035,
+        "comments_url": "https://news.ycombinator.com/item?id=49336573"
+      },
+      "tags": [
+        "AI"
+      ],
+      "hot_score": 1.23
+    },
+    {
+      "title_en": "Israel creates fake think tank in likely attempt to dupe AI chatbots",
+      "url": "https://responsiblestatecraft.org/israel-influence-chatgpt/",
+      "title_zh": "以色列创建假智库，可能意在欺骗 AI 聊天机器人",
+      "created_display": "Created: Aug 17, 2026 / 13:46 PT",
+      "image_url": "https://responsiblestatecraft.org/media-library/screenshot-of-the-hanover-institute-s-website-taken-on-aug-16-2026.png?id=67630219&width=1200&height=600&coordinates=0%2C0%2C0%2C65",
+      "summary_en": "A state-backed fake think tank was allegedly set up to feed misleading information to AI chatbots. The episode underscores how misinformation can seep into AI systems and policy discussions, highlighting the need for source verification in AI training data.",
+      "summary_zh": "据称，一家由国家背景支持的假智库被设立用于向 AI 聊天机器人提供误导信息。此事件揭示了错误信息如何进入 AI 系统和政策讨论，凸显对训练数据源进行核验的重要性。",
+      "hn": {
+        "id": 49337392,
+        "type": "story",
+        "by": "DeepLogin",
+        "score": 1028,
+        "descendants": 777,
+        "time": 1786999570,
+        "comments_url": "https://news.ycombinator.com/item?id=49337392"
+      },
+      "tags": [
+        "Politics",
+        "Security",
+        "AI"
+      ],
+      "hot_score": 1.22
+    },
+    {
+      "title_en": "Field measurements of neighborhood-scale air temperature impacts of data centers",
+      "url": "https://asmedigitalcollection.asme.org/sustainablebuildings/article/7/2/024501/1233035/Data-Center-Waste-Heat-as-an-Emerging-Urban",
+      "title_zh": "資料中心對鄰里尺度空氣溫度影響的實地測量",
+      "created_display": "Created: Aug 18, 2026 / 10:24 PT",
+      "image_url": null,
+      "summary_en": "Field measurements show that data centers' waste heat can raise neighborhood‑scale air temperatures, contributing to local urban warming. The study quantifies the magnitude and spatial footprint of that effect, informing siting decisions and the need to consider waste‑heat management in urban planning.",
+      "summary_zh": "實地觀測顯示資料中心排放的廢熱會使周邊社區的空氣溫度上升，加劇局部的城市熱化。該研究量化了影響的強度與空間範圍，為選址決策與城市規劃中廢熱管理提供依據。",
+      "hn": {
+        "id": 49349147,
+        "type": "story",
+        "by": "cwwc",
+        "score": 305,
+        "descendants": 465,
+        "time": 1787073893,
+        "comments_url": "https://news.ycombinator.com/item?id=49349147"
+      },
+      "hot_score": 1.21,
+      "tags": [
+        "Science",
+        "Energy"
+      ]
+    },
+    {
+      "title_en": "Using the railway network as a flatbed scanner",
+      "url": "https://philo.gay/linecam/",
+      "title_zh": "把鐵路網當成平板掃描器使用",
+      "created_display": "Created: Aug 18, 2026 / 05:43 PT",
+      "image_url": "https://philo.gay/linecam/blogpics_1x/cranes-edit.jpg",
+      "summary_en": "This project turns motion along railways into a giant line‑scanner: mounting a camera to capture sequential slices as trains move creates ultra‑wide, high‑resolution imagery of infrastructure. It's an inventive hack that treats transportation motion as a sensing mechanism for mapping and visualization at scale.",
+      "summary_zh": "該項目利用火車運動作為線掃描器：在列車上安裝攝影機，隨行進擷取序列切片，拼接出超寬高解析度的基礎設施影像。這種巧思將交通運動視為大尺度感測手段，用於地圖與視覺化。",
+      "hn": {
+        "id": 49344825,
+        "type": "story",
+        "by": "otherayden",
+        "score": 430,
+        "descendants": 70,
+        "time": 1787057034,
+        "comments_url": "https://news.ycombinator.com/item?id=49344825"
+      },
+      "hot_score": 1.2,
+      "tags": [
+        "Science",
+        "DevOps"
+      ]
+    },
+    {
+      "title_en": "Fixing a bricked Framework laptop",
+      "url": "https://quantum5.ca/2026/08/16/fixing-bricked-amd-7040-series-framework-13-laptop-with-20-tools/",
+      "title_zh": "修復磚化的 Framework 筆電",
+      "created_display": "Created: Aug 18, 2026 / 06:18 PT",
+      "image_url": "https://quantum5.ca/assets/fwbios/framework-bad-flash-751da0b6e55fd26c1fd6d7ef7cb0cba2912c22b56cc32d139128d6f64c9957a4a0591d4ce488b52a5cbb72570b33fc878e2703cd95ed494f661d5a4eb62c4737.webp",
+      "summary_en": "A hardware‑level walkthrough shows how to recover a bricked Framework 13 (AMD 7040 series) laptop using external programmers, test‑point access, and a detailed toolset. The guide highlights that modular, repairable designs still require advanced skills and hardware to fix firmware‑level failures, but recovery is possible with patience and the right equipment.",
+      "summary_zh": "這篇硬體層級的教學示範如何用外接燒錄器、測試點與一套專門工具修復磚化的 Framework 13（AMD 7040）。它指出即便是可維修的模組化設計，遇到韌體級故障仍需要專業技能與儀器，但只要有耐心和合適工具是能夠恢復的。",
+      "hn": {
+        "id": 49345220,
+        "type": "story",
+        "by": "jp_sc",
+        "score": 407,
+        "descendants": 278,
+        "time": 1787059120,
+        "comments_url": "https://news.ycombinator.com/item?id=49345220"
+      },
+      "hot_score": 1.18,
+      "tags": [
+        "Hardware"
+      ]
+    },
+    {
+      "title_en": "Norway should buy OpenAI",
+      "url": "https://www.onethousandmeans.com/p/norway-should-buy-openai",
+      "title_zh": "挪威應該買下 OpenAI",
+      "created_display": "Created: Aug 18, 2026 / 12:30 PT",
+      "image_url": "https://substackcdn.com/image/fetch/$s_!kfb6!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F10158e80-df81-412d-ba5e-acefd5e353ad_2560x1920.jpeg",
+      "summary_en": "The proposal argues that Norway—or another public actor—should acquire OpenAI to steer advanced AI toward public interest goals rather than purely commercial incentives. Advocates claim national ownership could align priorities on safety, transparency, and equitable benefit distribution, though the logistics and political feasibility remain major hurdles.",
+      "summary_zh": "該主張認為挪威或其他公共實體應收購 OpenAI，以將先進 AI 的發展導向公共利益，而非僅受商業驅動。支持者認為國有化能調整安全性、透明度與利益分配的優先順序，但在執行面與政治可行性上仍有諸多障礙。",
+      "hn": {
+        "id": 49351330,
+        "type": "story",
+        "by": "alexeigannon",
+        "score": 243,
+        "descendants": 257,
+        "time": 1787081429,
+        "comments_url": "https://news.ycombinator.com/item?id=49351330"
+      },
+      "hot_score": 1.16,
+      "tags": [
+        "Politics",
+        "Business",
+        "AI"
+      ]
+    },
+    {
+      "title_en": "Turbovec – Google's TurboQuant for vector search in Rust",
+      "url": "https://github.com/RyanCodrai/turbovec",
+      "title_zh": "Turbovec：用 Rust 實作的 Google TurboQuant 向量搜尋",
+      "created_display": "Created: Aug 18, 2026 / 11:07 PT",
+      "image_url": "https://repository-images.githubusercontent.com/1192555574/000b661c-3519-42a5-9609-d5051c50c2f0",
+      "summary_en": "Turbovec is a Rust implementation of TurboQuant for compressed vector search, aiming to speed up nearest‑neighbor queries with lower memory footprints. It's useful for embedding search workflows that need efficient on‑disk or in‑memory storage with fast distance computations in production systems.",
+      "summary_zh": "Turbovec 是用 Rust 實作的 TurboQuant 向量搜尋庫，致力於在降低記憶體使用的同時加速最近鄰查詢。對需在生產環境中以高效方式儲存嵌入並快速計算距離的應用來說十分實用。",
+      "hn": {
+        "id": 49349898,
+        "type": "story",
+        "by": "fittingopposite",
+        "score": 266,
+        "descendants": 32,
+        "time": 1787076441,
+        "comments_url": "https://news.ycombinator.com/item?id=49349898"
+      },
+      "hot_score": 1.12,
+      "tags": [
+        "Programming",
+        "Data"
+      ]
+    },
+    {
+      "title_en": "Linux 7.3 improves performance when running out of vRAM",
+      "url": "https://pixelcluster.dev/VRAM-Overcommit/",
+      "title_zh": "Linux 7.3 在虚拟内存不足时提升性能",
+      "created_display": "Created: Aug 18, 2026 / 00:51 PT",
+      "image_url": "https://pixelcluster.dev/assets/images/RDNA3Microbench.png",
+      "summary_en": "Linux 7.3 introduces improvements for overcommit and memory management to squeeze extra performance when VRAM is exhausted, benefiting GPU-heavy workloads and servers.",
+      "summary_zh": "Linux 7.3 在内存超额承诺与管理方面有所改进，在显存耗尽时提升性能，利于 GPU 密集型工作负载。",
+      "hn": {
+        "id": 49342719,
+        "type": "story",
+        "by": "flaburgan",
+        "score": 530,
+        "descendants": 297,
+        "time": 1787039510,
+        "comments_url": "https://news.ycombinator.com/item?id=49342719"
+      },
+      "tags": [
+        "DevOps",
+        "Hardware"
+      ],
+      "hot_score": 1.09
+    },
+    {
+      "title_en": "Claude Code May–August 2026 weekly limits promotion",
+      "url": "https://support.claude.com/en/articles/15910845-claude-code-may-august-2026-weekly-limits-promotion",
+      "title_zh": "Claude Code 2026 年 5–8 月週用量限制優惠",
+      "created_display": "Created: Aug 18, 2026 / 10:02 PT",
+      "image_url": "https://downloads.intercomcdn.com/i/o/lupk8zyo/792494/717b10d3ebd874823db64841659b/76f3062d78ebbb04863fb1de3ef9cca0.png",
+      "summary_en": "There's a limited‑time promotion increasing weekly usage limits for Claude Code users from May through August 2026, temporarily raising the available compute or token caps. Users should check the exact week‑by‑week limits and expiration to take advantage during the promotional window.",
+      "summary_zh": "Claude Code 在 2026 年 5 到 8 月提供限時週用量上限提升的促銷，暫時增加可用的運算或 token 限額。使用者需留意各週的具體上限與期限，以便在促銷期內充分利用。",
+      "hn": {
+        "id": 49348751,
+        "type": "story",
+        "by": "tyre",
+        "score": 279,
+        "descendants": 253,
+        "time": 1787072535,
+        "comments_url": "https://news.ycombinator.com/item?id=49348751"
+      },
+      "hot_score": 1.07,
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "title_en": "Fairphone is now officially available in the United States",
+      "url": "https://www.fairphone.com/nl/stories/the-fairphone-gen-6-is-all-about-giving-you-more",
+      "title_zh": "Fairphone 正式在美國上市",
+      "created_display": "Created: Aug 18, 2026 / 05:42 PT",
+      "image_url": "https://www.fairphone.com/web/content/fairphone.story/192/thumbnail/FP6+Launch-Blog-Header.jpg",
+      "summary_en": "Fairphone's Gen 6 is now officially sold in the U.S., giving American consumers access to a modular, repairable smartphone designed for longer lifecycles and improved supply‑chain ethics. Availability signals growing market appetite for sustainable hardware, though distribution and after‑sales ecosystems will determine mainstream traction.",
+      "summary_zh": "Fairphone 第六代已在美國正式販售，讓美國消費者能買到以模組化與可維修性為核心、注重供應鏈倫理與延長使用壽命的手機。此舉顯示市場對永續硬體的需求上升，但能否普及還取決於銷售與售後服務網絡的完整度。",
+      "hn": {
+        "id": 49344811,
+        "type": "story",
+        "by": "Vinnl",
+        "score": 380,
+        "descendants": 180,
+        "time": 1787056973,
+        "comments_url": "https://news.ycombinator.com/item?id=49344811"
+      },
+      "hot_score": 1.06,
+      "tags": [
+        "Hardware"
+      ]
+    },
+    {
+      "title_en": "How Bluesky draws its logo on screenshots",
+      "url": "https://timmarinin.net/2026/bluesky-screenshots/",
+      "title_zh": "Bluesky 如何在截屏上绘制其标志",
+      "created_display": "Created: Aug 17, 2026 / 15:20 PT",
+      "image_url": "https://timmarinin.net/2026/bluesky-screenshots/skeet.jpg",
+      "summary_en": "Bluesky overlays its logo onto screenshots, a design choice that brands shared content but can affect user experience. The piece breaks down how this watermarking works and what it implies for privacy and UX.",
+      "summary_zh": "Bluesky 在截屏上覆盖其标志作为品牌标识，这个设计选择影响了共享内容的用户体验。文中解释了 watermark 的实现方式及其对隐私和 UX 的潜在影响。",
+      "hn": {
+        "id": 49338459,
+        "type": "story",
+        "by": "gavide",
+        "score": 696,
+        "descendants": 434,
+        "time": 1787005240,
+        "comments_url": "https://news.ycombinator.com/item?id=49338459"
+      },
+      "tags": [
+        "Design",
+        "Privacy"
+      ],
+      "hot_score": 0.88
+    },
+    {
+      "title_en": "Babies born under sugar rationing grew into adults with lower cancer risk",
+      "url": "https://theconversation.com/babies-born-under-sugar-rationing-grew-into-adults-with-lower-cancer-risk-289873",
+      "title_zh": "在糖類配給期間出生的嬰兒長大後罹癌率較低",
+      "created_display": "Created: Aug 18, 2026 / 07:06 PT",
+      "image_url": "https://images.theconversation.com/files/754389/original/file-20260817-50-s3fxyn.jpg?ixlib=rb-4.1.1&rect=0%2C389%2C5086%2C2543&q=45&auto=format&w=1356&h=668&fit=crop",
+      "summary_en": "People born during historical sugar rationing periods showed lower adult cancer rates, suggesting early‑life nutrition affects long‑term cancer risk. The finding adds to evidence that prenatal and childhood dietary environments can have lasting epidemiological consequences.",
+      "summary_zh": "在糖類配給期間出生的人長大後罹癌率較低，顯示早年營養環境會影響長期癌症風險。這一結論補強了產前與兒童期飲食會對人口健康產生持久影響的證據。",
+      "hn": {
+        "id": 49345843,
+        "type": "story",
+        "by": "zeristor",
+        "score": 280,
+        "descendants": 57,
+        "time": 1787062010,
+        "comments_url": "https://news.ycombinator.com/item?id=49345843"
+      },
+      "hot_score": 0.86,
+      "tags": [
+        "Health",
+        "Science"
+      ]
+    },
+    {
+      "title_en": "Apple announces changes for apps in the European Union",
+      "url": "https://www.apple.com/newsroom/2026/08/apple-announces-changes-for-apps-in-the-european-union/",
+      "title_zh": "蘋果宣布針對歐盟應用程式的變更",
+      "created_display": "Created: Aug 18, 2026 / 09:21 PT",
+      "image_url": "https://www.apple.com/newsroom/images/2026/08/apple-announces-changes-for-apps-in-the-european-union/tile/Apple-App-Store-compliance-hero-lp.jpg.og.jpg?202608181559",
+      "summary_en": "Apple announced App Store changes for the EU to comply with regional regulations, loosening some platform restrictions like alternative app distribution and payment options. The updates aim to balance regulatory compliance with platform security and business models, but details of implementation and developer costs will determine their real impact.",
+      "summary_zh": "蘋果針對歐盟發布了 App Store 的變更，以符合當地法規，放寬了部分限制，例如允許替代應用分發與支付選項。這些更新試圖在遵法、平台安全與商業模式間取得平衡，但實際影響取決於落地細節與對開發者的成本影響。",
+      "hn": {
+        "id": 49348055,
+        "type": "story",
+        "by": "newusertoday",
+        "score": 231,
+        "descendants": 318,
+        "time": 1787070094,
+        "comments_url": "https://news.ycombinator.com/item?id=49348055"
+      },
+      "hot_score": 0.84,
+      "tags": [
+        "Business",
+        "Legal",
+        "Security",
+        "Politics"
+      ]
+    },
+    {
+      "title_en": "Universal health coverage could save $1T and 114k lives a year: study",
+      "url": "https://ysph.yale.edu/news-article/universal-health-coverage-could-save-one-trillion-dollars-and-114000-lives-every-year/",
+      "title_zh": "耶鲁研究：全民医保每年可节省1万亿美元并挽救11.4万条生命",
+      "created_display": "Created: Aug 17, 2026 / 08:49 PT",
+      "image_url": "https://ysm-res.cloudinary.com/image/upload/c_limit,f_jpg,h_630,q_auto,w_1200/v1/yms/prod/2678383b-f910-4164-833a-e287b5fed96e",
+      "summary_en": "A Yale study argues universal health coverage could save about $1 trillion annually and prevent roughly 114,000 deaths per year. The findings offer a data-driven case for policy reforms that blend health IT with broader economic benefits.",
+      "summary_zh": "耶鲁的研究显示全民医保每年或可节省约1万亿美元并挽救约11.4万条生命，为将健康 IT 与更广泛的经济效益结合的政策改革提供数据支撑。",
+      "hn": {
+        "id": 49332981,
+        "type": "story",
+        "by": "karakoram",
+        "score": 851,
+        "descendants": 887,
+        "time": 1786981797,
+        "comments_url": "https://news.ycombinator.com/item?id=49332981"
+      },
+      "tags": [
+        "Health"
+      ],
+      "hot_score": 0.83
+    },
+    {
+      "title_en": "GPT-5.6 Sol Pricing Cut by 50% on OpenRouter",
+      "url": "https://openrouter.ai/openai/gpt-5.6-sol",
+      "title_zh": "GPT-5.6 Sol 价格下调 50%",
+      "created_display": "Created: Aug 17, 2026 / 14:03 PT",
+      "image_url": "https://openrouter.ai/openai/gpt-5.6-sol/opengraph-image-1oizug?abd1ffaa6102aa5f",
+      "summary_en": "OpenAI-compatible GPT-5.6 Sol has its pricing cut by half, making inference and experimentation cheaper for developers. The move could accelerate adoption in cost-sensitive AI workloads and broaden the competitive landscape for AI runtimes.",
+      "summary_zh": "GPT-5.6 Sol 的价格下降了 50%，让开发者在推理和试验阶段成本更低。这一举措可能推动低成本 AI 工作负载的采用，并改变 AI 运行时的竞争格局。",
+      "hn": {
+        "id": 49337602,
+        "type": "story",
+        "by": "Topfi",
+        "score": 624,
+        "descendants": 445,
+        "time": 1787000598,
+        "comments_url": "https://news.ycombinator.com/item?id=49337602"
+      },
+      "tags": [
+        "AI"
+      ],
+      "hot_score": 0.75
+    },
+    {
+      "title_en": "Meta Files Patent for Facial Recognition, Automatic Recording of People",
+      "url": "https://www.privacyguides.org/news/2026/08/17/meta-files-patent-for-facial-recognition-automatic-recording-of-people/",
+      "title_zh": "Meta 申請臉部辨識與自動錄影專利",
+      "created_display": "Created: Aug 18, 2026 / 05:23 PT",
+      "image_url": "https://images.unsplash.com/photo-1572635196237-14b3f281503f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDF8fHJheSUyMGJhbnN8ZW58MHx8fHwxNzg3MDA1MjE5fDA&ixlib=rb-4.1.0&q=80&w=2000",
+      "summary_en": "A newly filed patent describes systems for facial recognition combined with automatic recording of people, which could automate capture and tagging in physical spaces. Such technology raises privacy and surveillance concerns, especially around consent, data retention, and potential misuse in public or private settings.",
+      "summary_zh": "一項新申請的專利描述了結合臉部辨識與自動錄影的系統，可在實體空間中自動化捕捉與標記人物。這類技術在同意、資料保存和濫用風險方面引發隱私與監控的疑慮，無論在公共或私人場域皆需慎重考量。",
+      "hn": {
+        "id": 49344654,
+        "type": "story",
+        "by": "DeepLogin",
+        "score": 256,
+        "descendants": 171,
+        "time": 1787055835,
+        "comments_url": "https://news.ycombinator.com/item?id=49344654"
+      },
+      "hot_score": 0.7,
+      "tags": [
+        "Privacy",
+        "Security",
+        "Legal"
+      ]
+    },
+    {
+      "title_en": "Memory prices climb 500% in 12 months",
+      "url": "https://www.tomshardware.com/pc-components/ram/memory-prices-climb-500-percent-in-12-months-up-to-10x-the-lowest-ever-tracked-prices-128gb-of-ddr5-now-usd3-399",
+      "title_zh": "記憶體價格 12 個月飆升 500%",
+      "created_display": "Created: Aug 17, 2026 / 10:52 PT",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/tpcMxmS65pozfyjCrFmyWZ-2560-80.jpg",
+      "summary_en": "DRAM and DDR5 module prices have skyrocketed — some parts up to 500% year‑over‑year — driven by surging demand from AI/data centers, capacity constraints, and supply consolidation. The spike is forcing higher system costs for PC builders and enterprises and may change procurement and upgrade timelines for months to come.",
+      "summary_zh": "由於生成式 AI 與資料中心需求激增、產能有限及供應端集中，DRAM 與 DDR5 模組價格在一年內暴漲，有些零件漲幅達到 500%。這波漲價推高了個人電腦與企業系統的採購成本，並可能影響未來數月的升級與採購計畫。",
+      "hn": {
+        "id": 49334960,
+        "type": "story",
+        "by": "haunter",
+        "score": 621,
+        "descendants": 507,
+        "time": 1786989157,
+        "comments_url": "https://news.ycombinator.com/item?id=49334960"
+      },
+      "hot_score": 0.65,
+      "tags": [
+        "Hardware",
+        "Business",
+        "AI"
+      ]
+    },
+    {
+      "title_en": "Incident with Github.com",
+      "url": "https://www.githubstatus.com/incidents/zkxwbgr0cnmx",
+      "title_zh": "Github.com 发生故障事件",
+      "created_display": "Created: Aug 17, 2026 / 06:40 PT",
+      "image_url": "https://dka575ofm4ao0.cloudfront.net/pages-twitter_logos/original/36420/GitHub-Mark-120px-plus.png",
+      "summary_en": "GitHub experienced a service incident that disrupted core features like repository access and pull requests. Engineers investigated, mitigated the issue, and restored normal service.",
+      "summary_zh": "GitHub 遭遇服务故障，核心功能如仓库访问和拉取请求受到影响。工程团队进行了排查、修复并恢复正常服务。",
+      "hn": {
+        "id": 49330684,
+        "type": "story",
+        "by": "kevcampb",
+        "score": 718,
+        "descendants": 2,
+        "time": 1786974055,
+        "comments_url": "https://news.ycombinator.com/item?id=49330684"
+      },
+      "tags": [
+        "DevOps",
+        "Programming"
+      ],
+      "hot_score": 0.64
+    },
+    {
+      "title_en": "A Preview of DuckDB v2.0",
+      "url": "https://duckdb.org/2026/08/17/duckdb-20-highlights",
+      "title_zh": "DuckDB 2.0 预览",
+      "created_display": "Created: Aug 17, 2026 / 06:46 PT",
+      "image_url": "https://duckdb.org/images/blog/thumbs/duckdb-preview-2-0.png",
+      "summary_en": "DuckDB 2.0 previews show stronger analytics performance and broader SQL compatibility. The release signals a push toward production-ready analytics embedded in apps and data pipelines.",
+      "summary_zh": "DuckDB 2.0 预览展示了更强的分析性能和更广的 SQL 兼容性。此次发布表明其正向着可嵌入应用和数据管道的生产就绪分析方向发展。",
+      "hn": {
+        "id": 49330781,
+        "type": "story",
+        "by": "ibotty",
+        "score": 706,
+        "descendants": 128,
+        "time": 1786974387,
+        "comments_url": "https://news.ycombinator.com/item?id=49330781"
+      },
+      "tags": [
+        "Data",
+        "Open Source"
+      ],
+      "hot_score": 0.64
+    },
+    {
+      "title_en": "Claude writing a macOS driver for my obscure HP printer built only for Windows",
+      "url": "https://twitter.com/kuberwastaken/status/2089377982536388964",
+      "title_zh": "Claude 為我僅供 Windows 的罕見 HP 印表機撰寫 macOS 驅動",
+      "created_display": "Created: Aug 18, 2026 / 05:22 PT",
+      "image_url": "https://pbs.twimg.com/media/HP72MdaaEAAAX7z.jpg:large",
+      "summary_en": "An AI (Claude) generated a macOS driver for an obscure HP printer that originally only supported Windows, demonstrating how large models can assist in reverse‑engineering and driver creation. The example showcases practical AI‑assisted engineering for niche hardware, but also raises questions about correctness, testing, and maintainability.",
+      "summary_zh": "一則示例顯示 AI（Claude）為一款原本只支援 Windows 的罕見 HP 印表機生成了 macOS 驅動，證明大型模型能協助逆向工程與驅動開發。這凸顯了 AI 在利基硬體上提供實務協助的潛力，但也帶出正確性、測試與可維護性的疑慮。",
+      "hn": {
+        "id": 49344643,
+        "type": "story",
+        "by": "porridgeraisin",
+        "score": 235,
+        "descendants": 178,
+        "time": 1787055778,
+        "comments_url": "https://news.ycombinator.com/item?id=49344643"
+      },
+      "hot_score": 0.64,
+      "tags": [
+        "AI",
+        "Programming",
+        "Hardware"
+      ]
+    },
+    {
+      "title_en": "Quake Shareware, a CD-ROM just a little too full",
+      "url": "https://fabiensanglard.net/quake_shareware_cd/index.html",
+      "title_zh": "《Quake》分享版光盘有点装得太满",
+      "created_display": "Created: Aug 17, 2026 / 15:06 PT",
+      "image_url": "https://fabiensanglard.net/quake_shareware_cd/compusa.webp",
+      "summary_en": "A look back at the Quake shareware CD-ROM and the packaging constraints that left little room for content. The piece captures the nostalgia and constraints of early PC game distribution.",
+      "summary_zh": "回顾《Quake》分享版光盘及其打包容量的限制，使内容显得过于拥挤。文章捕捉了早期PC游戏发行的怀旧与约束。",
+      "hn": {
+        "id": 49338328,
+        "type": "story",
+        "by": "shdon",
+        "score": 485,
+        "descendants": 218,
+        "time": 1787004374,
+        "comments_url": "https://news.ycombinator.com/item?id=49338328"
+      },
+      "tags": [
+        "Gaming"
+      ],
+      "hot_score": 0.61
+    },
+    {
+      "title_en": "Cursor launches Origin, GitHub alternative",
+      "url": "https://cursor.com/changelog/origin-code-hosting",
+      "title_zh": "Cursor 推出 Origin：GitHub 替代方案",
+      "created_display": "Created: Aug 17, 2026 / 10:02 PT",
+      "image_url": "https://ptht05hbb1ssoooe.public.blob.vercel-storage.com/assets/og/og-origin-code-hosting-08-17-26-iibBEcxTigpnjXaBULY8Du327sx4P1.png",
+      "summary_en": "Cursor launched Origin, a code‑hosting service positioned as an alternative to traditional platforms by integrating collaborative editing, code intelligence, and hosting into one product. The move targets developers who want tighter editor‑to‑host workflows and built‑in tooling instead of stitching multiple services together.",
+      "summary_zh": "Cursor 推出 Origin，將協作編輯、程式碼智能與代碼託管整合為一體，作為傳統代碼平台的替代選擇。這針對希望編輯器與託管有更緊密整合、並內建工具鏈而不想拼接多個服務的開發者。",
+      "hn": {
+        "id": 49334209,
+        "type": "story",
+        "by": "tomasreimers",
+        "score": 569,
+        "descendants": 423,
+        "time": 1786986164,
+        "comments_url": "https://news.ycombinator.com/item?id=49334209"
+      },
+      "hot_score": 0.58,
+      "tags": [
+        "Programming",
+        "Web"
+      ]
+    },
+    {
+      "title_en": "Ask HN: Alternatives to GitHub",
+      "url": "https://news.ycombinator.com/item?id=49331033",
+      "title_zh": "Ask HN：GitHub 的替代方案有哪些",
+      "created_display": "Created: Aug 17, 2026 / 06:59 PT",
+      "image_url": "https://news.ycombinator.com/y18.svg",
+      "summary_en": "A discussion collecting alternatives to GitHub, from self-hosted options to competing services. Users share migration tips, pricing considerations, and real-world tradeoffs.",
+      "summary_zh": "讨论汇总了 GitHub 的替代方案，从自托管到竞争平台。用户分享迁移经验、定价考量，以及实际使用中的权衡。",
+      "hn": {
+        "id": 49331033,
+        "type": "story",
+        "by": "dhruv3006",
+        "score": 632,
+        "descendants": 425,
+        "time": 1786975157,
+        "comments_url": "https://news.ycombinator.com/item?id=49331033"
+      },
+      "tags": [
+        "Programming"
+      ],
+      "hot_score": 0.57
+    },
+    {
+      "title_en": "Incident with Github.com [resolved]",
+      "url": "https://www.githubstatus.com/incidents/zkxwbgr0cnmx",
+      "title_zh": "Github.com 事件（已解决）",
+      "created_display": "Created: Aug 17, 2026 / 06:35 PT",
+      "image_url": "https://dka575ofm4ao0.cloudfront.net/pages-twitter_logos/original/36420/GitHub-Mark-120px-plus.png",
+      "summary_en": "GitHub’s outage has been resolved after a period of disruption affecting developer workflows. Post-incident notes describe scope and the quick mitigation steps taken.",
+      "summary_zh": "GitHub 的宕机在一段时间的影响开发工作流后已被解决。事后公告描述了影响范围和修复的要点。",
+      "hn": {
+        "id": 49330597,
+        "type": "story",
+        "by": "SpyCoder77",
+        "score": 558,
+        "descendants": 966,
+        "time": 1786973706,
+        "comments_url": "https://news.ycombinator.com/item?id=49330597"
+      },
+      "tags": [
+        "DevOps",
+        "Programming"
+      ],
+      "hot_score": 0.5
+    },
+    {
+      "title_en": "Rethinking Database Programming",
+      "url": "https://acadia.engineering/blog/rethinking-database-programming",
+      "title_zh": "重新思考資料庫程式設計",
+      "created_display": "Created: Aug 18, 2026 / 00:28 PT",
+      "image_url": null,
+      "summary_en": "The piece argues for shifting database programming toward higher‑level, developer-friendly abstractions that reduce impedance between application logic and data operations. Emphasizing composability, better type safety, and clearer semantics can help developers write safer, more maintainable data‑intensive code without wrestling raw SQL or brittle ORMs.",
+      "summary_zh": "文章主張將資料庫程式設計提升到更高階、對開發者友善的抽象層，以減少應用邏輯與資料操作之間的不協調。強調可組合性、更好的型別安全與清晰語意，有助於開發者在不必苦鬥原始 SQL 或脆弱 ORM 的情況下撰寫更可靠且易維護的資料密集型程式碼。",
+      "hn": {
+        "id": 49342530,
+        "type": "story",
+        "by": "honungsburk",
+        "score": 248,
+        "descendants": 141,
+        "time": 1787038107,
+        "comments_url": "https://news.ycombinator.com/item?id=49342530"
+      },
+      "hot_score": 0.5,
+      "tags": [
+        "Programming",
+        "Data"
+      ]
+    },
+    {
+      "title_en": "Finger: the 1971 social network that never died",
+      "url": "https://en.andros.dev/blog/54572bc7/finger-the-1971-social-network-that-never-died/",
+      "title_zh": "Finger：1971 年誕生卻未消失的社交網路",
+      "created_display": "Created: Aug 18, 2026 / 00:21 PT",
+      "image_url": "https://img.andros.dev/rH0oYj_cZ0wTERmKJDdUQxzQ45Y=/600x0/filters:format(avif):quality(85)/https://andros.dev/media/thumbnails/franco-antonio-giovanella-Lzys6r1xFD8-unsplash.jpg",
+      "summary_en": "The Finger protocol—an early internet 'who's‑there' service from 1971—has persisted culturally and technically as a lightweight social tool and identity lookup. Revisiting it highlights how simple, text‑first protocols can foster social interaction without heavy infrastructure, offering lessons for minimal‑surface social systems today.",
+      "summary_zh": "Finger 協定，這個 1971 年的早期網路「誰在線」服務，至今仍以輕量的社交與身份查詢功能留存於文化與技術層面。重新審視它顯示出簡單的文本優先協定如何在無需繁重基礎設施下促成社交互動，對當代追求最小接觸面的社交系統具有啟發意義。",
+      "hn": {
+        "id": 49342472,
+        "type": "story",
+        "by": "andros",
+        "score": 244,
+        "descendants": 77,
+        "time": 1787037695,
+        "comments_url": "https://news.ycombinator.com/item?id=49342472"
+      },
+      "hot_score": 0.49,
+      "tags": [
+        "Culture",
+        "DevOps"
+      ]
+    },
+    {
+      "title_en": "AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's Jira",
+      "url": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
+      "title_zh": "AI 生成的 Copilot 自动修复 使 Snowflake Jira 出现漏洞",
+      "created_display": "Created: Aug 17, 2026 / 07:18 PT",
+      "image_url": "https://www.datocms-assets.com/75231/1786964856-image.png?fm=webp",
+      "summary_en": "AI-generated Copilot autofix reportedly enabled a security compromise in Snowflake’s Jira instance, illustrating how automation can introduce new attack paths in CI/CD and issue tracking.",
+      "summary_zh": "据称 AI 生成的 Copilot 自动修复导致 Snowflake 的 Jira 出现安全漏洞，揭示自动化在持续集成/持续交付和问题追踪中可能带来的新攻击路径。",
+      "hn": {
+        "id": 49331423,
+        "type": "story",
+        "by": "galnagli",
+        "score": 422,
+        "descendants": 155,
+        "time": 1786976318,
+        "comments_url": "https://news.ycombinator.com/item?id=49331423"
+      },
+      "tags": [
+        "AI",
+        "Security",
+        "Programming",
+        "Privacy",
+        "DevOps"
+      ],
+      "hot_score": 0.39
+    },
+    {
+      "title_en": "Qwen3.8 27B scores 52 on Artificial Analysis",
+      "url": "https://artificialanalysis.ai/models/qwen3-8-27b",
+      "title_zh": "Qwen3.8 27B 在 Artificial Analysis 评分为 52",
+      "created_display": "Created: Aug 17, 2026 / 10:25 PT",
+      "image_url": "https://artificialanalysis.ai/en/models/qwen3-8-27b/opengraph-image?76c5a1db7097b9e1",
+      "summary_en": "Qwen3.8 at 27B parameters scores 52 on a well-known AI evaluation, providing a data point in the ongoing debate about small-model capabilities versus larger models. The score helps calibrate expectations for future 27B-class systems.",
+      "summary_zh": "27B 参数的 Qwen3.8 在 Artificial Analysis 的评分为 52，为小模型性能与大模型的对比提供一个基准。该分数有助于校准未来 27B 级系统的预期。",
+      "hn": {
+        "id": 49334544,
+        "type": "story",
+        "by": "anana_",
+        "score": 373,
+        "descendants": 176,
+        "time": 1786987517,
+        "comments_url": "https://news.ycombinator.com/item?id=49334544"
+      },
+      "tags": [
+        "AI"
+      ],
+      "hot_score": 0.39
+    },
+    {
+      "title_en": "Ask HN: Does anyone else feel like nothing matters anymore?",
+      "url": "https://news.ycombinator.com/item?id=49340013",
+      "title_zh": "Ask HN：还有人觉得一切都无关紧要吗？",
+      "created_display": "Created: Aug 17, 2026 / 18:28 PT",
+      "image_url": "https://news.ycombinator.com/y18.svg",
+      "summary_en": "A candid Hacker News thread about existential feelings in tech work, sparking reflections on motivation, meaning, and the pace of change.",
+      "summary_zh": "一则关于科技工作中存在的存在感危机的直率讨论，激发人们对动力、意义和变革速度的反思。",
+      "hn": {
+        "id": 49340013,
+        "type": "story",
+        "by": "ramesh31",
+        "score": 260,
+        "descendants": 166,
+        "time": 1787016528,
+        "comments_url": "https://news.ycombinator.com/item?id=49340013"
+      },
+      "tags": [
+        "Culture"
+      ],
+      "hot_score": 0.38
+    },
+    {
+      "title_en": "Fairphone 6 and PostmarketOS working main camera",
+      "url": "https://catcrafts.net/posts/fairphone-6-postmarketos-working-main-camera",
+      "title_zh": "Fairphone 6 与 PostmarketOS 主摄像头已工作",
+      "created_display": "Created: Aug 17, 2026 / 15:01 PT",
+      "image_url": "https://catcrafts.net/media/7027ecea2bdfd549.webp",
+      "summary_en": "Progress on mobile Linux devices: the Fairphone 6 with PostmarketOS now has a functional main camera, improving the device’s usability for Linux enthusiasts.",
+      "summary_zh": "在移动 Linux 设备方面取得进展：Fairphone 6 配合 PostmarketOS 的主摄像头现已工作，提升了对 Linux 爱好者的可用性。",
+      "hn": {
+        "id": 49338285,
+        "type": "story",
+        "by": "pizzaiolo",
+        "score": 281,
+        "descendants": 74,
+        "time": 1787004077,
+        "comments_url": "https://news.ycombinator.com/item?id=49338285"
+      },
+      "tags": [
+        "Hardware",
+        "Open Source"
+      ],
+      "hot_score": 0.35
+    },
+    {
+      "title_en": "GPT 5.6 Sol is the best \"vision\" model OpenAI ever released",
+      "url": "https://blog.roboflow.com/openai-gpt-5-6/",
+      "title_zh": "GPT-5.6 Sol 是 OpenAI 有史以来最出色的视觉模型",
+      "created_display": "Created: Aug 17, 2026 / 05:09 PT",
+      "image_url": "https://storage.ghost.io/c/2c/8d/2c8d8c0d-1c15-4b6d-825e-02b78d61d40a/content/images/2026/07/img-blog-gpt-5-6-sol-best-vision-model-to-date.jpg",
+      "summary_en": "A take that GPT-5.6 Sol represents OpenAI’s best-performing vision-capable model to date, highlighting progress in multimodal AI and potential use cases in image understanding, captioning, and more.",
+      "summary_zh": "观点认为 GPT-5.6 Sol 代表 OpenAI 至今在视觉能力方面最强的模型，凸显多模态 AI 的进展及在图像理解、描述等方面的潜在用途。",
+      "hn": {
+        "id": 49329575,
+        "type": "story",
+        "by": "plurby",
+        "score": 361,
+        "descendants": 166,
+        "time": 1786968582,
+        "comments_url": "https://news.ycombinator.com/item?id=49329575"
+      },
+      "tags": [
+        "AI"
+      ],
+      "hot_score": 0.31
+    },
+    {
+      "title_en": "How to disable or avoid intrusive AI",
+      "url": "https://www.librarian.net/notoai/",
+      "title_zh": "如何禁用或避免侵入式 AI",
+      "created_display": "Created: Aug 17, 2026 / 07:07 PT",
+      "image_url": "https://www.librarian.net/wp-content/uploads/2026/07/48920624132_01c82cd654_b-600x880.jpg",
+      "summary_en": "A practical guide to reducing exposure to intrusive AI features, with privacy-first strategies and tooling to opt out of tracking and data collection.",
+      "summary_zh": "实用指南，介绍如何减少暴露于侵入式 AI 的影响，提供隐私优先的策略和避免追踪的数据工具。",
+      "hn": {
+        "id": 49331220,
+        "type": "story",
+        "by": "ColinWright",
+        "score": 335,
+        "descendants": 195,
+        "time": 1786975676,
+        "comments_url": "https://news.ycombinator.com/item?id=49331220"
+      },
+      "tags": [
+        "Privacy",
+        "AI"
+      ],
+      "hot_score": 0.31
+    },
+    {
+      "title_en": "An update on leaving Gmail for Fastmail",
+      "url": "https://moddedbear.com/an-update-on-leaving-gmail-for-fastmail/",
+      "title_zh": "离开 Gmail 转向 Fastmail 的更新",
+      "created_display": "Created: Aug 17, 2026 / 10:15 PT",
+      "image_url": "https://moddedbear.com/images/share.png",
+      "summary_en": "A personal update on migrating from Gmail to Fastmail, covering migration steps, privacy considerations, and the trade-offs involved.",
+      "summary_zh": "分享从 Gmail 转向 Fastmail 的个人更新，涉及迁移步骤、隐私考量以及取舍。",
+      "hn": {
+        "id": 49334409,
+        "type": "story",
+        "by": "neogodless",
+        "score": 305,
+        "descendants": 205,
+        "time": 1786986920,
+        "comments_url": "https://news.ycombinator.com/item?id=49334409"
+      },
+      "tags": [
+        "Privacy"
+      ],
+      "hot_score": 0.31
+    },
+    {
+      "title_en": "Sun Clock",
+      "url": "https://sunclock.net/",
+      "title_zh": "日光时钟",
+      "created_display": "Created: Aug 17, 2026 / 09:37 PT",
+      "image_url": "https://api.virtualgeoff.com/noscript.gif",
+      "summary_en": "Sun Clock is a project that tells time by the sun’s position, offering a nature-inspired way to read time.",
+      "summary_zh": "日光时钟是一个依据日出日落与太阳位置来显示时间的项目，提供自然风格的计时方式。",
+      "hn": {
+        "id": 49333824,
+        "type": "story",
+        "by": "Gecko4072",
+        "score": 282,
+        "descendants": 90,
+        "time": 1786984674,
+        "comments_url": "https://news.ycombinator.com/item?id=49333824"
+      },
+      "tags": [
+        "Science"
+      ],
+      "hot_score": 0.28
+    },
+    {
+      "title_en": "Ask HN: GitHub employees what's going on? Why?",
+      "url": "https://news.ycombinator.com/item?id=49332495",
+      "title_zh": "Ask HN：GitHub 員工發生了什麼事？為何如此？",
+      "created_display": "Created: Aug 17, 2026 / 08:19 PT",
+      "image_url": "https://news.ycombinator.com/y18.svg",
+      "summary_en": "Community members are asking GitHub employees for insider explanations about recent changes—likely organizational shifts, policy updates, or layoffs—and seeking context behind decisions affecting users and staff. The thread reflects typical transparency demands from a developer community when a major platform's direction feels abrupt or opaque.",
+      "summary_zh": "社群在向 GitHub 員工徵求內情，關切近期可能的組織調整、政策變動或裁員，以及這些決策對使用者與員工的影響。該討論反映出當大型平臺方向突變或資訊不透明時，開發者社群對透明度的強烈要求。",
+      "hn": {
+        "id": 49332495,
+        "type": "story",
+        "by": "sharts",
+        "score": 282,
+        "descendants": 229,
+        "time": 1786979971,
+        "comments_url": "https://news.ycombinator.com/item?id=49332495"
+      },
+      "hot_score": 0.27,
+      "tags": [
+        "Business",
+        "Programming"
+      ]
+    },
+    {
+      "title_en": "GitHub down again? no PR access",
+      "url": "https://news.ycombinator.com/item?id=49330632",
+      "title_zh": "GitHub 再宕机？无法访问拉取请求",
+      "created_display": "Created: Aug 17, 2026 / 06:37 PT",
+      "image_url": "https://news.ycombinator.com/y18.svg",
+      "summary_en": "Discussion about GitHub outages and PR access issues, with community notes on workarounds and the reliability of code-hosting platforms.",
+      "summary_zh": "讨论关于 GitHub 的宕机和拉取请求访问问题，社区给出应对方案和对代码托管平台可靠性的看法。",
+      "hn": {
+        "id": 49330632,
+        "type": "story",
+        "by": "yodon",
+        "score": 290,
+        "descendants": 2,
+        "time": 1786973848,
+        "comments_url": "https://news.ycombinator.com/item?id=49330632"
+      },
+      "tags": [
+        "DevOps",
+        "Programming"
+      ],
+      "hot_score": 0.26
+    },
+    {
+      "title_en": "GPU Offload in Rust: Portable, Safe, and Fast",
+      "url": "https://arxiv.org/abs/2608.13759",
+      "title_zh": "Rust 中的 GPU 卸载：可移植、Safe、快速",
+      "created_display": "Created: Aug 17, 2026 / 10:54 PT",
+      "image_url": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+      "summary_en": "A domain paper argues for GPU offload in Rust as a portable and safe approach, with potential performance benefits for GPU-accelerated Rust workloads.",
+      "summary_zh": "论文提出在 Rust 中实现 GPU 卸载的可移植性与安全性，显示对 GPU 加速 Rust 工作负载的潜在性能提升。",
+      "hn": {
+        "id": 49334991,
+        "type": "story",
+        "by": "linggen",
+        "score": 240,
+        "descendants": 63,
+        "time": 1786989299,
+        "comments_url": "https://news.ycombinator.com/item?id=49334991"
+      },
+      "tags": [
+        "Programming",
+        "Hardware"
+      ],
+      "hot_score": 0.25
+    },
+    {
+      "title_en": "Apple's App Tracking Transparency treated its own apps better than rivals",
+      "url": "https://www.bundeskartellamt.de/SharedDocs/Meldung/EN/Pressemitteilungen/2026/08_17_2026_Apple_ATTF.html",
+      "title_zh": "苹果的应用跟踪透明度对自家应用比对手更友好",
+      "created_display": "Created: Aug 17, 2026 / 07:07 PT",
+      "image_url": "https://www.bundeskartellamt.de/SiteGlobals/Frontend/Images/logo.svg?__blob=normal&v=4",
+      "summary_en": "A regulator concluded that App Tracking Transparency was applied more leniently to Apple’s own apps than to rivals, with implications for enforcement and platform fairness.",
+      "summary_zh": "监管机构发现苹果对自家应用相较于竞争对手，在应用跟踪透明度方面执行更宽松，涉及执法公平性的问题。",
+      "hn": {
+        "id": 49331222,
+        "type": "story",
+        "by": "nyku",
+        "score": 258,
+        "descendants": 97,
+        "time": 1786975679,
+        "comments_url": "https://news.ycombinator.com/item?id=49331222"
+      },
+      "tags": [
+        "Privacy",
+        "Politics"
+      ],
+      "hot_score": 0.23
+    },
+    {
+      "title_en": "Judge sets framework for Nine PBS to retrieve archival data",
+      "url": "https://current.org/2026/08/judge-sets-framework-for-nine-pbs-to-retrieve-archival-data/",
+      "title_zh": "法官为 Nine PBS 检索档案数据设定框架",
+      "created_display": "Created: Aug 17, 2026 / 09:11 PT",
+      "image_url": "https://current.org/wp-content/uploads/2026/08/Gavel-iStock-2248362348-e1786652801546.jpg",
+      "summary_en": "A judge establishes a framework for Nine PBS to retrieve archival data, signaling how public broadcasters navigate data access and preservation obligations.",
+      "summary_zh": "法官为 Nine PBS 检索档案数据设定框架，显示公共广播机构在数据获取与保存义务方面的合规路径。",
+      "hn": {
+        "id": 49333344,
+        "type": "story",
+        "by": "qingcharles",
+        "score": 182,
+        "descendants": 73,
+        "time": 1786983097,
+        "comments_url": "https://news.ycombinator.com/item?id=49333344"
+      },
+      "tags": [
+        "Legal",
+        "Data"
+      ],
+      "hot_score": 0.18
+    }
+  ]
+}

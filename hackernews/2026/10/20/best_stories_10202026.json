@@ -1,0 +1,1171 @@
+{
+  "meta": {
+    "mode": "best",
+    "source": "https://news.ycombinator.com/",
+    "api": "https://github.com/HackerNews/API",
+    "count_requested": 50,
+    "count_written": 50,
+    "reused_same_day": 0,
+    "reused_cross_day": 19,
+    "new_llm_enriched": 12,
+    "scrape_time_display": "09:52, October 21, 2026 (PDT)",
+    "timezone": "America/Los_Angeles",
+    "date_dir": "2026/10/20",
+    "content_date": "2026-10-20",
+    "run_time_local": "09:52, October 21, 2026 (PDT)",
+    "run_time_utc": "2026-10-21 16:52:02 UTC",
+    "incremental": true,
+    "stories_max": 50,
+    "hot_score_time_utc": "2026-10-21 16:53:10 UTC"
+  },
+  "items": [
+    {
+      "title_en": "PHP 8.2.35",
+      "url": "https://github.com/php/php-src/releases/tag/php-8.2.35",
+      "title_zh": "PHP 8.2.35 发布",
+      "created_display": "Created: Oct 21, 2026 / 06:45 PT",
+      "image_url": "https://opengraph.githubassets.com/b382b97f570c6673dfdefc3fb9a0a772f2031a00c0a2d8b99a13a55cda4b0645/php/php-src/releases/tag/php-8.2.35",
+      "summary_en": "PHP 8.2.35 is a maintenance release that patches several security and stability issues in the 8.2 line. It’s a standard part of the PHP patch cycle, and upgrading helps close vulnerabilities and improve reliability. If you run PHP 8.2 in production, apply the update to stay supported and secure.",
+      "summary_zh": "这是对 8.2 分支的维护性更新，包含若干安全修复与错误修正。强烈建议在生产环境尽快升级，以降低潜在漏洞并提升稳定性。",
+      "hn": {
+        "id": 50180873,
+        "type": "story",
+        "by": "tuyuri",
+        "score": 669,
+        "descendants": 264,
+        "time": 1792590333,
+        "comments_url": "https://news.ycombinator.com/item?id=50180873"
+      },
+      "hot_score": 35.24,
+      "tags": [
+        "Programming",
+        "Security"
+      ]
+    },
+    {
+      "title_en": "The No Kings Takedown Is Why You Shouldn't Rent Your Megaphone from Zuck",
+      "url": "https://www.techdirt.com/2026/10/20/accident-or-not-the-no-kings-takedown-is-why-you-shouldnt-rent-your-megaphone-from-zuck/",
+      "title_zh": "No Kings Takedown：你不该把扩音器租给扎克伯格",
+      "created_display": "Created: Oct 21, 2026 / 07:01 PT",
+      "image_url": "https://www.techdirt.com/wp-content/themes/techdirt/assets/images/td-rect-logo-white.png",
+      "summary_en": "TechDirt's piece argues that relying on a single gatekeeper for reach—like Facebook's megaphone—is risky. It uses the No Kings takedown to illustrate how platform power can backfire on users and why diverse channels matter.",
+      "summary_zh": "TechDirt 讨论 No Kings takedown，强调别把话语权交给单一平台（如 Zuckerberg 的平台）可能带来的风险。该事件凸显平台垄断力量对创作者的潜在打压，强调多渠道传播的重要性。",
+      "hn": {
+        "id": 50181137,
+        "type": "story",
+        "by": "robtherobber",
+        "score": 370,
+        "descendants": 282,
+        "time": 1792591285,
+        "comments_url": "https://news.ycombinator.com/item?id=50181137"
+      },
+      "hot_score": 21.41,
+      "tags": [
+        "Politics",
+        "Business"
+      ]
+    },
+    {
+      "title_en": "PHP2Shell: AI uncovers critical RCE in PHP",
+      "url": "https://www.wiz.io/blog/php2shell-php-rce",
+      "title_zh": "PHP2Shell：AI 发现 PHP 的关键远程代码执行漏洞",
+      "created_display": "Created: Oct 21, 2026 / 06:43 PT",
+      "image_url": "https://www.datocms-assets.com/75231/1792534907-img_7274.png?fm=webp",
+      "summary_en": "AI-driven tool PHP2Shell uncovers a critical PHP RCE vulnerability, illustrating how AI can accelerate security research and the importance of secure coding practices. The finding underscores the need for rigorous input validation and timely patching of PHP deployments.",
+      "summary_zh": "AI 驱动的工具 PHP2Shell 发现了一个严重的 PHP 远程执行漏洞，展示了 AI 在安全研究中的潜力与风险。此发现强调对 PHP 部署进行严格的输入校验与快速修补的重要性。",
+      "hn": {
+        "id": 50180836,
+        "type": "story",
+        "by": "danlark1",
+        "score": 363,
+        "descendants": 121,
+        "time": 1792590199,
+        "comments_url": "https://news.ycombinator.com/item?id=50180836"
+      },
+      "hot_score": 18.85,
+      "tags": [
+        "AI",
+        "Security"
+      ]
+    },
+    {
+      "title_en": "PHP 8.5.12, 8.4.27, 8.3.36 and 8.2.35 out",
+      "url": "https://www.php.net/index.php",
+      "title_zh": "PHP 8.5.12、8.4.27、8.3.36 和 8.2.35 发布",
+      "created_display": "Created: Oct 21, 2026 / 06:50 PT",
+      "image_url": "https://www.php.net/images/meta-image.png",
+      "summary_en": "Updates across four PHP branches—8.5.12, 8.4.27, 8.3.36, and 8.2.35—ship with security fixes and bug fixes. Administrators should plan upgrades to mitigate vulnerabilities and improve stability across deployments.",
+      "summary_zh": "同时发布了四个 PHP 版本分支的更新，包含安全和错误修正。建议管理员安排升级以降低漏洞风险并提升部署的稳定性。",
+      "hn": {
+        "id": 50180943,
+        "type": "story",
+        "by": "timvdalen",
+        "score": 275,
+        "descendants": 119,
+        "time": 1792590605,
+        "comments_url": "https://news.ycombinator.com/item?id=50180943"
+      },
+      "hot_score": 14.85,
+      "tags": [
+        "Programming",
+        "Security"
+      ]
+    },
+    {
+      "title_en": "DuckDB 2.0.0 LTS “Cinnamon Teal”",
+      "url": "https://duckdb.org/2026/10/21/announcing-duckdb-200",
+      "title_zh": "DuckDB 2.0.0 LTS Cinnamon Teal 发布",
+      "created_display": "Created: Oct 21, 2026 / 07:01 PT",
+      "image_url": "https://duckdb.org/images/blog/thumbs/duckdb-release-2-0-0.png",
+      "summary_en": "DuckDB 2.0.0 LTS, nicknamed Cinnamon Teal, arrives with long-term support for analytics workloads, along with stability and performance improvements. It’s a solid choice for embedded analytics and BI workflows.",
+      "summary_zh": "DuckDB 2.0.0 LTS（代号 Cinnamon Teal）正式发布，提供对分析工作负载的长期支持，以及稳定性与性能改进。适合嵌入式分析和 BI 工作流。",
+      "hn": {
+        "id": 50181136,
+        "type": "story",
+        "by": "nnx",
+        "score": 204,
+        "descendants": 23,
+        "time": 1792591282,
+        "comments_url": "https://news.ycombinator.com/item?id=50181136"
+      },
+      "hot_score": 11.78,
+      "tags": [
+        "Open Source",
+        "Data"
+      ]
+    },
+    {
+      "title_en": "Eight Bits of Trust; eMudhra's CA keys cracked in milliseconds",
+      "url": "https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/",
+      "title_zh": "信任的八位字节：eMudhra 的 CA 密钥在毫秒内被破解",
+      "created_display": "Created: Oct 21, 2026 / 02:08 PT",
+      "image_url": "https://storage.ghost.io/c/ee/88/ee889f88-37ef-43e5-9180-f9b88ee6261d/content/images/size/w1200/2026/10/emudhra.png",
+      "summary_en": "Researchers demonstrate that eMudhra's CA keys can be cracked in milliseconds, challenging TLS trust assumptions. The result highlights how certificate authorities' key management and cryptographic agility impact the security of the entire chain, pushing for shorter certificate lifetimes and stronger hardware protections. It also underscores the need for tougher CA audits and improved trust-chain resilience.",
+      "summary_zh": "研究者显示 eMudhra 的 CA 钥匙可在毫秒内被破解，挑战了 TLS 信任的基本假设。此现象突显证书颁发机构在密钥管理与加密灵活性方面对整个信任链安全的影响，推动对更短证书有效期和更强硬件保护的需求，同时强调对 CA 审计和信任链韧性的改进。",
+      "hn": {
+        "id": 50177916,
+        "type": "story",
+        "by": "hkc",
+        "score": 608,
+        "descendants": 267,
+        "time": 1792573688,
+        "comments_url": "https://news.ycombinator.com/item?id=50177916"
+      },
+      "tags": [
+        "Security",
+        "Privacy",
+        "Hardware"
+      ],
+      "hot_score": 10.07
+    },
+    {
+      "title_en": "The 1.5°C goal of the Paris Agreement is no longer viable",
+      "url": "https://unric.org/en/unep-emissions-gap-report-2026-1-5-degree-overshoot/",
+      "title_zh": "巴黎协定的1.5°C目标不再可行",
+      "created_display": "Created: Oct 21, 2026 / 02:07 PT",
+      "image_url": "https://e4k4c4x9.delivery.rocketcdn.me/en/wp-content/uploads/sites/15/2026/10/city-smog.jpg",
+      "summary_en": "A new emissions gap report indicates current policies are unlikely to meet the Paris Agreement’s 1.5°C target. Without bolder decarbonization, we risk overshooting and facing harsher climate impacts; tech implications point to rapid energy transition, efficiency gains, and scalable negative-emissions solutions.",
+      "summary_zh": "最新的减排差距报告显示，现有政策难以实现巴黎协定的1.5°C目标。如果不加速减排，可能超出目标并带来更严重的气候影响；对科技的启示包括快速推进能源转型、提升能效，以及扩大负排放技术的应用。",
+      "hn": {
+        "id": 50177911,
+        "type": "story",
+        "by": "velo_aprx",
+        "score": 572,
+        "descendants": 690,
+        "time": 1792573669,
+        "comments_url": "https://news.ycombinator.com/item?id=50177911"
+      },
+      "tags": [
+        "Science",
+        "Energy"
+      ],
+      "hot_score": 9.46
+    },
+    {
+      "title_en": "Dutch National Cyber Security Center is Offline because it uses PHP",
+      "url": "https://www.ncsc.nl/actueel",
+      "title_zh": "荷兰国家网络安全中心因使用 PHP 而离线",
+      "created_display": "Created: Oct 21, 2026 / 05:31 PT",
+      "image_url": "https://www.ncsc.nl/images/rijkslogo.svg",
+      "summary_en": "A post claims the Dutch National Cyber Security Center went offline because of PHP, fueling a broader debate about language choices for critical infrastructure. The claim highlights security and reliability questions around using PHP in national-grade systems.",
+      "summary_zh": "有帖文称荷兰国家网络安全中心因使用 PHP 而离线，点燃了对关键基础设施语言选择的辩论。此说法突显在国家级系统中使用 PHP 所带来的安全性与可靠性疑问。",
+      "hn": {
+        "id": 50179828,
+        "type": "story",
+        "by": "jacquesm",
+        "score": 245,
+        "descendants": 86,
+        "time": 1792585888,
+        "comments_url": "https://news.ycombinator.com/item?id=50179828"
+      },
+      "hot_score": 8.73,
+      "tags": [
+        "Security",
+        "Programming",
+        "DevOps"
+      ]
+    },
+    {
+      "title_en": "Qwen3-Coder writes less secure code when told it's for a US persona",
+      "url": "https://www.hirundo.io/blog/qwen3-coder-vulnerabilities",
+      "title_zh": "当被要求以美国人设输出时，Qwen3-Coder 代码更不安全",
+      "created_display": "Created: Oct 21, 2026 / 05:22 PT",
+      "image_url": "https://cdn.prod.website-files.com/660fce732403d63a75c55289/6ad7819dd5fa2641cf6f79fa_qwen3-coder-01-gap-closed.png",
+      "summary_en": "Qwen3-Coder outputs less secure code when asked to adopt a US persona, revealing how persona constraints can impact security; emphasizes need for safeguards and cross-checks in AI coding tools.",
+      "summary_zh": "当被要求按美国人设输出代码时，Qwen3-Coder 的代码安全性下降，揭示角色设定可能对安全性造成负面影响。强调需要对 AI 编码工具加入保护措施与交叉检查。",
+      "hn": {
+        "id": 50179706,
+        "type": "story",
+        "by": "mattifrank",
+        "score": 228,
+        "descendants": 115,
+        "time": 1792585359,
+        "comments_url": "https://news.ycombinator.com/item?id=50179706"
+      },
+      "hot_score": 7.79,
+      "tags": [
+        "AI",
+        "Security"
+      ]
+    },
+    {
+      "title_en": "Upcoming critical PHP security release (CVE-2026-109618 / -109619)",
+      "url": "https://news-web.php.net/php.announce/509",
+      "title_zh": "即将发布的关键 PHP 安全更新",
+      "created_display": "Created: Oct 20, 2026 / 13:15 PT",
+      "image_url": "https://www.php.net/images/logos/php-logo.svg",
+      "summary_en": "PHP has announced an upcoming critical security release to patch multiple high-risk vulnerabilities, including potential remote code execution vectors. Admins should plan to apply the update promptly to mitigate exposure in PHP-based apps, underscoring the ongoing security risk in the PHP ecosystem.",
+      "summary_zh": "PHP 公布将发布一轮关键安全更新，修补多处高危险漏洞，可能含远程代码执行向量。管理员应尽早应用该更新以降低基于 PHP 的应用暴露风险，凸显 PHP 生态持续的安全挑战。",
+      "hn": {
+        "id": 50172041,
+        "type": "story",
+        "by": "xd",
+        "score": 1459,
+        "descendants": 615,
+        "time": 1792527350,
+        "comments_url": "https://news.ycombinator.com/item?id=50172041"
+      },
+      "tags": [
+        "Programming",
+        "Security"
+      ],
+      "hot_score": 5.32
+    },
+    {
+      "title_en": "DeepInfer: High-performance inference framework for DeepSeek models",
+      "url": "https://github.com/deepseek-ai/DeepInfer",
+      "title_zh": "DeepInfer：面向 DeepSeek 模型的高性能推理框架",
+      "created_display": "Created: Oct 20, 2026 / 02:08 PT",
+      "image_url": "https://opengraph.githubassets.com/195b8b8fb7958f4674a9572c0560957f560ad659631e35c412917fdf16e8a4ce/deepseek-ai/DeepInfer",
+      "summary_en": "DeepInfer is a new high-performance inference framework designed for DeepSeek models, aiming to maximize throughput on modern hardware. It emphasizes modular backends and optimized runtimes to speed up deployment of large-scale AI.",
+      "summary_zh": "DeepInfer 是面向 DeepSeek 模型的高性能推理框架，旨在于现代硬件上实现最大的吞吐量。它通过模块化后端与优化运行时来提升大规模 AI 推理的部署效率。",
+      "hn": {
+        "id": 50163277,
+        "type": "story",
+        "by": "ggcr",
+        "score": 2285,
+        "descendants": 875,
+        "time": 1792487334,
+        "comments_url": "https://news.ycombinator.com/item?id=50163277"
+      },
+      "tags": [
+        "AI",
+        "Programming",
+        "Hardware"
+      ],
+      "hot_score": 4.06
+    },
+    {
+      "title_en": "The Future of CSS",
+      "url": "https://www.joshwcomeau.com/css/interop-2027/",
+      "title_zh": "CSS 的未来",
+      "created_display": "Created: Oct 20, 2026 / 18:47 PT",
+      "image_url": "https://www.joshwcomeau.com/images/og-interop-2027.png",
+      "summary_en": "CSS is evolving toward stronger cross‑browser interoperability and more programmable styling. Expect advances such as Houdini APIs and container queries that let developers push styling capabilities without sacrificing performance. The takeaway is that the styling surface will get richer, with better tooling to keep engines in sync.",
+      "summary_zh": "CSS 将在跨浏览器互操作性和可编程样式方面变得更强大。预计会有 Houdini API、容器查询等新特性，帮助开发者在不牺牲性能的前提下扩展样式能力。核心要点是样式体系将更丰富，工具链与引擎之间的协作也将同步提升。",
+      "hn": {
+        "id": 50175070,
+        "type": "story",
+        "by": "soheilpro",
+        "score": 548,
+        "descendants": 228,
+        "time": 1792547248,
+        "comments_url": "https://news.ycombinator.com/item?id=50175070"
+      },
+      "tags": [
+        "Design",
+        "Web"
+      ],
+      "hot_score": 3.3
+    },
+    {
+      "title_en": "Show HN: SimCity, but with Permits",
+      "url": "https://permit.petercai.com/",
+      "title_zh": "带许可制度的模拟城市",
+      "created_display": "Created: Oct 20, 2026 / 11:29 PT",
+      "image_url": "https://permit.petercai.com/marketing/og.jpg",
+      "summary_en": "A playful project adds permit bureaucracy to a SimCity-like environment, showing how permit delays shape growth, zoning decisions, and development timelines. The result offers a tangible look at how administrative friction can influence urban planning experiments and policy outcomes.",
+      "summary_zh": "一个将许可制度引入类似 SimCity 的模拟环境的有趣项目，展示许可拖延如何影响城市增长、分区决策与开发节奏。该成果为官僚摩擦如何影响城市规划实验与政策结果提供了直观的观察。",
+      "hn": {
+        "id": 50170593,
+        "type": "story",
+        "by": "pcai",
+        "score": 883,
+        "descendants": 398,
+        "time": 1792520949,
+        "comments_url": "https://news.ycombinator.com/item?id=50170593"
+      },
+      "tags": [
+        "Show HN"
+      ],
+      "hot_score": 2.81
+    },
+    {
+      "title_en": "eMudhra intermediate CA compromise",
+      "url": "https://emudhra.we-have-a-problem.com/",
+      "title_zh": "EMudhra 中级证书颁发机构遭到妥协",
+      "created_display": "Created: Oct 20, 2026 / 06:58 PT",
+      "image_url": null,
+      "summary_en": "EMudhra reports compromise of its Intermediate Certificate Authority, potentially enabling issuance of fraudulent certificates. The incident highlights PKI supply-chain risk and the need for aggressive revocation, transparency, and improved security controls.",
+      "summary_zh": "EMudhra 报告其中级证书颁发机构遭到妥协，可能导致伪造证书的签发。这一事件凸显公钥基础设施供应链风险，以及需要更快速的撤销、透明披露和改进的安全控制措施。",
+      "hn": {
+        "id": 50166579,
+        "type": "story",
+        "by": "galadran",
+        "score": 1157,
+        "descendants": 444,
+        "time": 1792504713,
+        "comments_url": "https://news.ycombinator.com/item?id=50166579"
+      },
+      "tags": [
+        "Security",
+        "Privacy"
+      ],
+      "hot_score": 2.71
+    },
+    {
+      "title_en": "Voxtral 3",
+      "url": "https://mistral.ai/news/voxtral-3/",
+      "title_zh": "Voxtral 3 上线",
+      "created_display": "Created: Oct 20, 2026 / 09:02 PT",
+      "image_url": "https://mistral.ai/cms-media/api/media/file/hero-blog-voxtral.png",
+      "summary_en": "Mistral AI unveils Voxtral 3, the latest entry in its Voxtral family. The release signals continued momentum in open-weight models and the trend toward more capable, accessible AI cores.",
+      "summary_zh": "Mistral AI 发布 Voxtral 3，是 Voxtral 系列的最新版本。该发布体现了开源权重模型的持续发展，以及更强大、易接入的 AI 核心的趋势。",
+      "hn": {
+        "id": 50168396,
+        "type": "story",
+        "by": "ilreb",
+        "score": 748,
+        "descendants": 194,
+        "time": 1792512127,
+        "comments_url": "https://news.ycombinator.com/item?id=50168396"
+      },
+      "tags": [
+        "AI",
+        "Open Source"
+      ],
+      "hot_score": 2.0
+    },
+    {
+      "title_en": "Muse exposes users' personal and business secrets when they share conversations",
+      "url": "https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/",
+      "title_zh": "Muse 在共享对话时暴露用户的个人与商业秘密",
+      "created_display": "Created: Oct 20, 2026 / 17:45 PT",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/ai-robot-hand-caution-1152x648.jpg",
+      "summary_en": "Muse reportedly exposes sensitive personal and business secrets when conversations are shared, highlighting a privacy risk in collaborative AI tools. The issue underscores the need for stronger data handling and access controls in shared contexts. Enterprises using such tools should re-evaluate data exposure surfaces and mitigate accordingly.",
+      "summary_zh": "Muse 在共享对话时暴露了用户的个人和商业秘密，凸显协作型 AI 工具中的隐私风险。问题强调需要在共享场景中加强数据处理与访问控制。使用此类工具的企业应重新评估数据暴露面并采取缓解措施。",
+      "hn": {
+        "id": 50174687,
+        "type": "story",
+        "by": "gumby",
+        "score": 313,
+        "descendants": 144,
+        "time": 1792543559,
+        "comments_url": "https://news.ycombinator.com/item?id=50174687"
+      },
+      "tags": [
+        "Privacy",
+        "Security",
+        "AI"
+      ],
+      "hot_score": 1.7
+    },
+    {
+      "title_en": "What shall I teach my son?",
+      "url": "https://stevekrouse.com/ends",
+      "title_zh": "我应该教我的儿子什么？",
+      "created_display": "Created: Oct 20, 2026 / 10:25 PT",
+      "image_url": null,
+      "summary_en": "A personal reflection on what to teach your child, urging emphasis on critical thinking, empathy, and problem-solving over rote metrics.",
+      "summary_zh": "一篇关于该教儿子什么的个人反思，强调批判性思维、同理心与解决问题能力的重要性，而非死记硬背的指标。",
+      "hn": {
+        "id": 50169707,
+        "type": "story",
+        "by": "Curiositry",
+        "score": 455,
+        "descendants": 585,
+        "time": 1792517107,
+        "comments_url": "https://news.ycombinator.com/item?id=50169707"
+      },
+      "tags": [
+        "Education"
+      ],
+      "hot_score": 1.34
+    },
+    {
+      "title_en": "Apple broke an essential presentation feature of iPads",
+      "url": "https://teddysvoronos.com/2026-10-19-apple-broke-an-essential-presentation-feature-of-ipads/",
+      "title_zh": "苹果损坏了 iPad 的一个核心演示功能",
+      "created_display": "Created: Oct 20, 2026 / 05:17 PT",
+      "image_url": "https://teddysvoronos.com/assets/img/headshot-nav.jpg",
+      "summary_en": "Apple has broken a core presentation feature on iPads, disrupting how users run slides and demos from the device. The change affects educators, sales teams, and event hosts who rely on iPad-based presentation workflows, highlighting tensions between feature updates and long-standing workflows.",
+      "summary_zh": "苹果在 iPad 上破坏了一个核心演示功能，影响用户用设备进行幻灯片与现场演示。此变动冲击依赖 iPad 演示流程的教师、销售与活动组织者，凸显了更新与长期工作流之间的矛盾。",
+      "hn": {
+        "id": 50165208,
+        "type": "story",
+        "by": "evanb",
+        "score": 591,
+        "descendants": 292,
+        "time": 1792498648,
+        "comments_url": "https://news.ycombinator.com/item?id=50165208"
+      },
+      "tags": [
+        "Design"
+      ],
+      "hot_score": 1.25
+    },
+    {
+      "title_en": "The Other Epidemic: Trying to get off benzodiazepines",
+      "url": "https://www.thebeliever.net/the-other-epidemic/",
+      "title_zh": "另一种流行病：戒除苯二氮卓类药物的挑战",
+      "created_display": "Created: Oct 20, 2026 / 16:04 PT",
+      "image_url": null,
+      "summary_en": "An intimate look at the challenge of tapering off benzodiazepines, highlighting withdrawal symptoms, relapse risk, and the gaps in care for people seeking to discontinue. The piece reframes prescription dependence as a broader public-health issue, urging safer tapering, patient-centered support, and better clinician guidance.",
+      "summary_zh": "这篇文章用个人视角揭示戒除苯二氮卓类药物的艰难过程，强调戒断症状、复发风险，以及医疗体系在扶持中的不足。它把处方药依赖看作广泛的公共卫生议题，呼吁更安全的减药路径、以患者为中心的支持，以及更清晰的临床指引。",
+      "hn": {
+        "id": 50173891,
+        "type": "story",
+        "by": "gaplong",
+        "score": 270,
+        "descendants": 218,
+        "time": 1792537449,
+        "comments_url": "https://news.ycombinator.com/item?id=50173891"
+      },
+      "tags": [
+        "Health"
+      ],
+      "hot_score": 1.24
+    },
+    {
+      "title_en": "Facebook Pages require paid subscription to post more than two links per month",
+      "url": "https://mastodon.gamedev.place/@AshleyGullen/117473851565913919",
+      "title_zh": "Facebook 页面：每月发布超过两个链接需付费订阅",
+      "created_display": "Created: Oct 20, 2026 / 08:06 PT",
+      "image_url": "https://cdn.masto.host/mastodongamedevplace/media_attachments/files/117/473/851/121/967/109/original/2fb667edf9ac327a.png",
+      "summary_en": "Facebook is gating link posting on Pages behind a paid subscription, limiting to two links per month. This marks a shift toward subscription-based reach for Page administrators. It raises concerns for marketers and developers who rely on organic link sharing.",
+      "summary_zh": "Facebook 对 Pages 的链接发布实施付费门槛，每月仅限发布两条链接，超过部分需订阅。此举体现了平台对可变盈利模式的推动，也可能影响依赖页面曝光的营销和开发者。",
+      "hn": {
+        "id": 50167536,
+        "type": "story",
+        "by": "AshleysBrain",
+        "score": 456,
+        "descendants": 395,
+        "time": 1792508768,
+        "comments_url": "https://news.ycombinator.com/item?id=50167536"
+      },
+      "hot_score": 1.15,
+      "tags": [
+        "Business"
+      ]
+    },
+    {
+      "title_en": "Feds suspect ransom negotiator ran ShinyHunters extortion site",
+      "url": "https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/",
+      "title_zh": "联邦调查人员怀疑勒索谈判者运营 ShinyHunters 的勒索网站",
+      "created_display": "Created: Oct 20, 2026 / 15:21 PT",
+      "image_url": "https://krebsonsecurity.com/b-doppel/17.png",
+      "summary_en": "US prosecutors allege a ransom negotiator ran the extortion site used by the ShinyHunters gang, acting as the broker between victims and attackers. If true, the case exposes a monetization choke point in cybercrime and could shape how authorities disrupt extortion ecosystems and pursue suspects. It underscores how sophisticated threat actors rely on intermediaries to pressure victims and extract payments.",
+      "summary_zh": "美国检方指控一名勒索谈判人运营被 ShinyHunters 用来施压受害者的勒索网站，充当攻击者与受害者之间的中介。若指控成立，这一角色揭示了网络犯罪生态中的货币化环节，可能影响执法机构打击勒索网络的策略。事件凸显威胁行为体对中间人依赖以推动敲诈和索取赎金的作业流程。",
+      "hn": {
+        "id": 50173487,
+        "type": "story",
+        "by": "Bender",
+        "score": 254,
+        "descendants": 128,
+        "time": 1792534865,
+        "comments_url": "https://news.ycombinator.com/item?id=50173487"
+      },
+      "tags": [
+        "Security",
+        "Legal"
+      ],
+      "hot_score": 1.1
+    },
+    {
+      "title_en": "Google open-sources TorchTPU, a native PyTorch back end for TPUs",
+      "url": "https://github.com/google-pytorch/torch_tpu",
+      "title_zh": "Google 开源 TorchTPU：面向 TPUs 的原生 PyTorch 后端",
+      "created_display": "Created: Oct 20, 2026 / 09:40 PT",
+      "image_url": "https://opengraph.githubassets.com/32a1a94e5709ac3832cc25069cf7deaa4e3ef2a1f281b3be9fd463181d81fd11/google-pytorch/torch_tpu",
+      "summary_en": "Google open-sources TorchTPU, a native PyTorch backend for TPUs, making TPUs feel like a first-class citizen for PyTorch users. This lowers the barrier to running PyTorch models on Google's accelerators and could shift performance comparisons across ML stacks.",
+      "summary_zh": "Google 将 TorchTPU 开源，提供对 TPUs 的原生 PyTorch 后端，使 PyTorch 用户能够直接在 TPUs 上运行模型。此举降低了在 TPU 上运行 PyTorch 的门槛，可能改变不同 ML 堆栈间的性能对比。",
+      "hn": {
+        "id": 50169053,
+        "type": "story",
+        "by": "ilreb",
+        "score": 373,
+        "descendants": 86,
+        "time": 1792514424,
+        "comments_url": "https://news.ycombinator.com/item?id=50169053"
+      },
+      "tags": [
+        "Open Source",
+        "Programming",
+        "Web"
+      ],
+      "hot_score": 1.04
+    },
+    {
+      "title_en": "Ofcom concedes defeat in 4chan case",
+      "url": "https://prestonbyrne.com/2026/10/20/ofcom-concedes-defeat/",
+      "title_zh": "Ofcom 在 4chan 案件中认输",
+      "created_display": "Created: Oct 20, 2026 / 07:30 PT",
+      "image_url": "https://prestonbyrne.com/wp-content/uploads/2026/10/hamster.jpg",
+      "summary_en": "In a high-profile regulatory dispute, Ofcom concedes defeat in a case involving 4chan, underscoring the limits of national regulators to police global platforms. The outcome may recalibrate expectations for cross-border moderation obligations.",
+      "summary_zh": "在一起备受关注的监管案件中，Ofcom 就 4chan 案件认输，凸显英国监管机构对全球性平台治理的有限能力。此结果可能重新校准对跨境内容治理的期待。",
+      "hn": {
+        "id": 50167028,
+        "type": "story",
+        "by": "iamnothere",
+        "score": 411,
+        "descendants": 377,
+        "time": 1792506631,
+        "comments_url": "https://news.ycombinator.com/item?id=50167028"
+      },
+      "tags": [
+        "Politics",
+        "Legal"
+      ],
+      "hot_score": 0.99
+    },
+    {
+      "title_en": "Tsrs: A Port of TypeScript to Rust",
+      "url": "https://blog.cloudflare.com/typescript-rust-port/",
+      "title_zh": "Tsrs：TypeScript 到 Rust 的移植",
+      "created_display": "Created: Oct 20, 2026 / 06:18 PT",
+      "image_url": "https://blog.cloudflare.com/_emdash/api/media/file/01M5C82XAYSWX571T82A8AZRKS.png",
+      "summary_en": "Tsrs is a port of TypeScript tooling to Rust, enabling TypeScript-like workflows to run on a Rust-based runtime. The project promises safer memory guarantees and potential performance gains, inviting developers to re-evaluate toolchains.",
+      "summary_zh": "Tsrs 将 TypeScript 的工具链移植到 Rust，使 TypeScript 工作流能够在 Rust 运行时上运行。该项目可能带来更安全的内存管理与潜在的性能提升，促使开发者重新评估工具链选择。",
+      "hn": {
+        "id": 50165953,
+        "type": "story",
+        "by": "hnisjafx40",
+        "score": 425,
+        "descendants": 207,
+        "time": 1792502287,
+        "comments_url": "https://news.ycombinator.com/item?id=50165953"
+      },
+      "tags": [
+        "Programming",
+        "Open Source"
+      ],
+      "hot_score": 0.95
+    },
+    {
+      "title_en": "How I got over 300 Tor exit nodes removed",
+      "url": "https://kaba.cx/posts/20261020_Tor/",
+      "title_zh": "我如何移除了超过 300 个 Tor 出口节点",
+      "created_display": "Created: Oct 20, 2026 / 06:39 PT",
+      "image_url": "https://kaba.cx/img/tor/relays_offline_hero.png",
+      "summary_en": "A developer explains how they managed to have more than 300 Tor exit nodes removed from service endpoints, illustrating how abuse contacts and moderation policies intersect with anonymity networks. The piece offers practical insights into the ongoing arms race between access controls and Tor.",
+      "summary_zh": "作者介绍了如何让超过 300 个 Tor 出口节点从服务端点下架，揭示滥用联系渠道与匿名网络治理的交叉点。内容展示了访问控制与 Tor 之间持续博弈的实用见解。",
+      "hn": {
+        "id": 50166257,
+        "type": "story",
+        "by": "kabakabakaba",
+        "score": 385,
+        "descendants": 97,
+        "time": 1792503564,
+        "comments_url": "https://news.ycombinator.com/item?id=50166257"
+      },
+      "tags": [
+        "Privacy",
+        "Security"
+      ],
+      "hot_score": 0.88
+    },
+    {
+      "title_en": "Sixteen years after Deepwater Horizon, deep sea life shows few signs of recovery",
+      "url": "https://e360.yale.edu/digest/deepwater-horizon-deep-sea-recovery",
+      "title_zh": "深海生物在深水地平线事件六分之一处恢复缓慢的证据",
+      "created_display": "Created: Oct 20, 2026 / 08:59 PT",
+      "image_url": "https://yale-threesixty.transforms.svdcdn.com/production/Deepwater-Horizon-Spill_Wikipedia.jpg?w=1200&q=60&auto=format&fit=max&dm=1792489301&s=ff36b6fd91e134824960f411e3836588",
+      "summary_en": "Sixteen Years After Deepwater Horizon, Deep Sea Life Shows Few Signs of Recovery",
+      "summary_zh": "深海生命在深水地平线事件后16年几乎没有显现显著恢复的证据。",
+      "hn": {
+        "id": 50168357,
+        "type": "story",
+        "by": "speckx",
+        "score": 314,
+        "descendants": 177,
+        "time": 1792511946,
+        "comments_url": "https://news.ycombinator.com/item?id=50168357"
+      },
+      "tags": [
+        "Science"
+      ],
+      "hot_score": 0.84
+    },
+    {
+      "title_en": "WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
+      "url": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions",
+      "title_zh": "WhatsApp 帮助页面隐藏了 LLM 指令：不建议监管机构",
+      "created_display": "Created: Oct 19, 2026 / 16:22 PT",
+      "image_url": "https://redact.dev/blog-images/2026/10/whatsapp-hidden-ai-notes-robot-puppeteer.jpg",
+      "summary_en": "Internal prompts reportedly steered WhatsApp's LLM-enabled help content to avoid recommending regulators. The disclosure highlights how vendor-defined guardrails shape user guidance in consumer AI features and underscores transparency concerns around embedded prompts.",
+      "summary_zh": "据称 WhatsApp 的 LLM 助手帮助页面中存在引导指令，要求其避免向用户推荐监管机构。这揭示了厂商设定的安全边界如何影响用户指引，以及对嵌入式提示透明度的担忧。",
+      "hn": {
+        "id": 50159341,
+        "type": "story",
+        "by": "ds",
+        "score": 735,
+        "descendants": 212,
+        "time": 1792452138,
+        "comments_url": "https://news.ycombinator.com/item?id=50159341"
+      },
+      "tags": [
+        "AI",
+        "Legal",
+        "Politics"
+      ],
+      "hot_score": 0.82
+    },
+    {
+      "title_en": "Publish fake stats, get cited in LLMs",
+      "url": "https://peec.ai/blog/publish-stats-get-cited-the-tactic-that-put-my-data-all-over-the-web",
+      "title_zh": "发表伪造统计数据，易被大语言模型引用",
+      "created_display": "Created: Oct 20, 2026 / 06:06 PT",
+      "image_url": "https://framerusercontent.com/images/g61nppL2S0T51TuBYG0bTxac2U.png?width=2150&height=1126",
+      "summary_en": "A tactic is described where fake statistics are published to be cited by large language models, illustrating how misinformation can leak into AI training data.",
+      "summary_zh": "文中描述了一种策略：发布伪造的统计数据以被大型语言模型引用，揭示了错误信息如何进入 AI 训练数据并影响模型输出。文中讨论了来源可追溯性、防护措施，以及当虚假数据被当作事实时对模型可靠性的风险。",
+      "hn": {
+        "id": 50165801,
+        "type": "story",
+        "by": "robtherobber",
+        "score": 353,
+        "descendants": 201,
+        "time": 1792501582,
+        "comments_url": "https://news.ycombinator.com/item?id=50165801"
+      },
+      "tags": [
+        "AI",
+        "Data"
+      ],
+      "hot_score": 0.78
+    },
+    {
+      "title_en": "Google Cloud outage affects almost all banking and other operations in Europe",
+      "url": "https://www.neowin.net/news/google-cloud-outage-takes-down-hsbc-revolut-bank-of-scotland-llyods-equifax-more/",
+      "title_zh": "Google Cloud 故障影响欧洲几乎所有银行及其他业务",
+      "created_display": "Created: Oct 20, 2026 / 03:26 PT",
+      "image_url": null,
+      "summary_en": "A Google Cloud outage disrupted services across Europe, hitting banking operations and other critical apps. The incident underscores how deeply industries rely on major cloud providers and the potential domino effects of service outages.",
+      "summary_zh": "Google Cloud 故障波及欧洲多国，影响银行业务及其他关键应用。此事件凸显各行业对大型云服务商的高度依赖，以及服务中断可能带来的连锁影响。",
+      "hn": {
+        "id": 50163961,
+        "type": "story",
+        "by": "paweladamczuk",
+        "score": 396,
+        "descendants": 203,
+        "time": 1792491962,
+        "comments_url": "https://news.ycombinator.com/item?id=50163961"
+      },
+      "hot_score": 0.75,
+      "tags": [
+        "DevOps",
+        "Business"
+      ]
+    },
+    {
+      "title_en": "Academics have a duty to defend open knowledge systems like Wikipedia",
+      "url": "https://blogs.lse.ac.uk/impactofsocialsciences/2026/10/19/academics-have-a-duty-to-defend-open-knowledge-systems-like-wikipedia/",
+      "title_zh": "学者有义务捍卫开放知识体系，如维基百科",
+      "created_display": "Created: Oct 20, 2026 / 11:51 PT",
+      "image_url": null,
+      "summary_en": "An opinion piece argues academics bear responsibility to defend open knowledge ecosystems; discusses openness vs. enclosure debates and suggests actions for scholars to support open knowledge.",
+      "summary_zh": "观点文章认为学者有责任捍卫开放知识体系，如维基百科，讨论开放与封闭之争，并提出支持开放知识的行动方向。",
+      "hn": {
+        "id": 50170917,
+        "type": "story",
+        "by": "jruohonen",
+        "score": 219,
+        "descendants": 129,
+        "time": 1792522300,
+        "comments_url": "https://news.ycombinator.com/item?id=50170917"
+      },
+      "hot_score": 0.71,
+      "tags": [
+        "Open Source",
+        "Education"
+      ]
+    },
+    {
+      "title_en": "AfD Leak: What 421,179 Hacked Emails Show about the German Far Right",
+      "url": "https://www.heistberlin.com/news/afd-leak-what-421-179-hacked-emails-show-about-the-german-far-right/",
+      "title_zh": "AfD 泄露：421,179 封被盗邮件揭示德国极右翼的网络与协作",
+      "created_display": "Created: Oct 20, 2026 / 02:35 PT",
+      "image_url": "https://storage.ghost.io/c/98/53/98532a3a-3542-4bcd-a05e-a2672d5c28c1/content/images/size/w1200/2026/10/x-card--31--2.png",
+      "summary_en": "The leak includes correspondence from AfD members and affiliates, shedding light on fundraising schemes, alliances, and internal strategies. It raises questions about political influence networks online and the role of data breaches in exposing extremism.",
+      "summary_zh": "泄露邮件涉及 AfD 成员及关联方的通信，揭示筹资手段、联盟与内部策略等。信息披露点出极右翼网络的运作模式，以及数据泄露在揭露极端主义中的作用。",
+      "hn": {
+        "id": 50163502,
+        "type": "story",
+        "by": "firefax",
+        "score": 382,
+        "descendants": 549,
+        "time": 1792488940,
+        "comments_url": "https://news.ycombinator.com/item?id=50163502"
+      },
+      "tags": [
+        "Politics",
+        "Security",
+        "Data"
+      ],
+      "hot_score": 0.69
+    },
+    {
+      "title_en": "Tell HN: 2x PHP RCE CVEs with CVSS 10.0 Incoming",
+      "url": "https://news.ycombinator.com/item?id=50167754",
+      "title_zh": "Tell HN：两起 PHP RCE CVE 即将来袭，CVSS 10.0 评分",
+      "created_display": "Created: Oct 20, 2026 / 08:20 PT",
+      "image_url": null,
+      "summary_en": "Two PHP remote code execution CVEs with CVSS 10.0 are incoming, signaling an urgent patch priority for many PHP apps. Expect rapid advisories and widespread vendor updates as the community coordinates mitigations.",
+      "summary_zh": "两起 PHP 远程代码执行漏洞，CVSS 评分高达 10.0，正迅速逼近。众多 PHP 应用将面临紧急修补，社区和厂商将协调推出缓解措施。",
+      "hn": {
+        "id": 50167754,
+        "type": "story",
+        "by": "petecooper",
+        "score": 258,
+        "descendants": 41,
+        "time": 1792509635,
+        "comments_url": "https://news.ycombinator.com/item?id=50167754"
+      },
+      "hot_score": 0.66,
+      "tags": [
+        "Programming",
+        "Security"
+      ]
+    },
+    {
+      "title_en": "MicroG: Free-libre re-implementation of Google's proprietary Android user space",
+      "url": "https://github.com/microg/GmsCore/wiki",
+      "title_zh": "MicroG：对 Google Android 用户空间的自由开源实现",
+      "created_display": "Created: Oct 19, 2026 / 23:37 PT",
+      "image_url": "https://opengraph.githubassets.com/ac3cc3fa2e0b9af52f07bdef0024029835dfc06e1311dc682cb6f6212f67b610/microg/GmsCore",
+      "summary_en": "MicroG offers a libre reimplementation of Google Mobile Services, enabling Android runs without proprietary Google binaries. It supports many apps and services while prioritizing privacy, empowering custom ROMs and privacy-focused devices, though some apps may rely on proprietary features.",
+      "summary_zh": "MicroG 提供对 Google 移动服务的自由开源再实现，使用户在不使用官方谷歌二进制的情况下运行 Android。尽管兼容性可能有限，但它为隐私友好的设备与自定义 ROM 提供了可行选项，某些应用仍可能依赖专有特性。",
+      "hn": {
+        "id": 50162177,
+        "type": "story",
+        "by": "theanonymousone",
+        "score": 416,
+        "descendants": 130,
+        "time": 1792478227,
+        "comments_url": "https://news.ycombinator.com/item?id=50162177"
+      },
+      "tags": [
+        "Open Source",
+        "Privacy"
+      ],
+      "hot_score": 0.65
+    },
+    {
+      "title_en": "OpenBSD 8.0",
+      "url": "https://www.openbsd.org/80.html",
+      "title_zh": "OpenBSD 8.0 发布",
+      "created_display": "Created: Oct 19, 2026 / 19:06 PT",
+      "image_url": "https://www.openbsd.org/images/blowfishonbike-s.gif",
+      "summary_en": "OpenBSD 8.0 arrives as the newest stable release in the security-focused family, pushing forward on correctness and minimal attack surface. It brings base-system updates, improved hardware support, and ongoing hardening features that appeal to sysadmins who prioritize reliability and security.",
+      "summary_zh": "OpenBSD 8.0 作为该安全优先发行线的最新稳定版本，继续强调正确性与较小的攻击面。该版本包含基线系统更新、对更多硬件的支持提升，以及持续的安全强化，适合追求高可靠性和稳健性的系统管理员。",
+      "hn": {
+        "id": 50160494,
+        "type": "story",
+        "by": "privong",
+        "score": 480,
+        "descendants": 156,
+        "time": 1792462000,
+        "comments_url": "https://news.ycombinator.com/item?id=50160494"
+      },
+      "tags": [
+        "Open Source",
+        "Security",
+        "Hardware"
+      ],
+      "hot_score": 0.6
+    },
+    {
+      "title_en": "IKEA – 3D Guide",
+      "url": "https://sael.net/flatpack/",
+      "title_zh": "IKEA – 3D 指南",
+      "created_display": "Created: Oct 20, 2026 / 08:42 PT",
+      "image_url": "https://sael.net/flatpack/og.png",
+      "summary_en": "A 3D guide for IKEA assembly instructions offers more interactive, AR-enhanced experience to assemble flat-pack furniture.",
+      "summary_zh": "IKEA 的 3D 指南通过三维/增强现实方式提升家具组装体验，使用户更直观地理解平板包装家具的组装步骤。",
+      "hn": {
+        "id": 50168096,
+        "type": "story",
+        "by": "punnerud",
+        "score": 194,
+        "descendants": 68,
+        "time": 1792510965,
+        "comments_url": "https://news.ycombinator.com/item?id=50168096"
+      },
+      "tags": [
+        "Design"
+      ],
+      "hot_score": 0.51
+    },
+    {
+      "title_en": "DeepSeek banned from U.S. federal civilian agencies under new DHS order",
+      "url": "https://www.reuters.com/technology/us-banning-chinese-ai-deepseek-government-agency-it-systems-2026-10-19/",
+      "title_zh": "DeepSeek 被 DHS 新令禁止进入美国联邦民用机构 IT 系统",
+      "created_display": "Created: Oct 19, 2026 / 09:16 PT",
+      "image_url": null,
+      "summary_en": "A DHS order bans DeepSeek from U.S. federal civilian agency IT systems, signaling tighter controls on AI tools used in government networks. The move could impact procurement decisions, vendor risk, and how agencies vet third-party AI solutions.",
+      "summary_zh": "国土安全部的新令禁止 DeepSeek 进入美国联邦民用机构的 IT 系统，表明政府对政府网络中 AI 工具的管控在加强。此举可能影响采购决策、供应商风险，以及各机构对第三方 AI 解决方案的评估流程。",
+      "hn": {
+        "id": 50154244,
+        "type": "story",
+        "by": "cmrdporcupine",
+        "score": 573,
+        "descendants": 533,
+        "time": 1792426606,
+        "comments_url": "https://news.ycombinator.com/item?id=50154244"
+      },
+      "tags": [
+        "Politics",
+        "Security",
+        "AI"
+      ],
+      "hot_score": 0.49
+    },
+    {
+      "title_en": "My Friend Bob Cringely",
+      "url": "https://tyma.com/my-cringe-story/",
+      "title_zh": "我的朋友 Bob Cringely",
+      "created_display": "Created: Oct 20, 2026 / 07:13 PT",
+      "image_url": null,
+      "summary_en": "A cringe-filled personal tale involving tech scribe Bob Cringely offers a candid look at industry hype, credibility, and how to navigate past personas in tech culture.",
+      "summary_zh": "一段关于科技作家 Bob Cringely 的尴尬往事，揭示科技圈的 hype 与可信度问题，以及在行业朋友圈中识别人物的经验教训。",
+      "hn": {
+        "id": 50166794,
+        "type": "story",
+        "by": "zinxq",
+        "score": 206,
+        "descendants": 53,
+        "time": 1792505629,
+        "comments_url": "https://news.ycombinator.com/item?id=50166794"
+      },
+      "tags": [
+        "Culture",
+        "Entertainment"
+      ],
+      "hot_score": 0.49
+    },
+    {
+      "title_en": "An ad-free Android TV",
+      "url": "https://cretezy.com/2026/ad-free-android-tv",
+      "title_zh": "无广告的 Android TV",
+      "created_display": "Created: Oct 19, 2026 / 15:32 PT",
+      "image_url": "https://cretezy.com/_astro/icon.ENfHzoRg_2cjnkz.webp",
+      "summary_en": "A project or article advocates for an ad-free Android TV experience, arguing it improves privacy, performance, and user focus. It discusses the tradeoffs of monetization, app discovery, and potential routes like custom ROMs or curated app ecosystems to remove ads.",
+      "summary_zh": "该文章倡议打造无广告的 Android TV 体验，主张提升隐私、性能与用户专注度。讨论了广告商业化、应用发现的权衡，以及通过定制 ROM 或精心管理的应用生态来实现无广告的可行路径。",
+      "hn": {
+        "id": 50158942,
+        "type": "story",
+        "by": "CraftThatBlock",
+        "score": 425,
+        "descendants": 184,
+        "time": 1792449157,
+        "comments_url": "https://news.ycombinator.com/item?id=50158942"
+      },
+      "tags": [
+        "Privacy",
+        "Design"
+      ],
+      "hot_score": 0.46
+    },
+    {
+      "title_en": "MiniMax M3.1 Flash",
+      "url": "https://www.minimax.io/blog/minimax-m31f",
+      "title_zh": "MiniMax M3.1 Flash 发布",
+      "created_display": "Created: Oct 19, 2026 / 09:39 PT",
+      "image_url": "https://filecdn.minimax.chat/public/m31-flash-zh-1-1792403273121.png?x-oss-process=image/format,webp",
+      "summary_en": "MiniMax introduces the M3.1 Flash, a new hardware release likely targeting compact storage modules for embedded and edge devices. It highlights updated specs and practical uses, underscoring the ongoing push for high-performance, small-form-factor storage solutions.",
+      "summary_zh": "MiniMax 推出 M3.1 Flash 新型硬件，面向嵌入式与边缘设备的紧凑存储模块。文中强调更新规格与实际应用，折射出高性能小型存储的持续需求。",
+      "hn": {
+        "id": 50154540,
+        "type": "story",
+        "by": "jtg",
+        "score": 514,
+        "descendants": 218,
+        "time": 1792427949,
+        "comments_url": "https://news.ycombinator.com/item?id=50154540"
+      },
+      "tags": [
+        "Hardware"
+      ],
+      "hot_score": 0.44
+    },
+    {
+      "title_en": "I no longer care to work on any Ruby gems so I've archived all my repositories",
+      "url": "https://po-ru.com/2026/10/18/why-im-no-longer-updating-this-repository",
+      "title_zh": "我不再维护 Ruby gem，全部仓库已归档",
+      "created_display": "Created: Oct 19, 2026 / 09:37 PT",
+      "image_url": null,
+      "summary_en": "A developer announces archiving all Ruby gem repositories, effectively stepping back from maintenance. The move highlights open-source maintenance burnout and the fragility of ecosystems when maintainers disengage.",
+      "summary_zh": "一位开发者宣布将归档所有 Ruby gem 仓库，等于退出维护。此举凸显开源维护的倦怠问题，以及在维护者退出时生态系统的脆弱性。",
+      "hn": {
+        "id": 50154518,
+        "type": "story",
+        "by": "phoronixrly",
+        "score": 514,
+        "descendants": 508,
+        "time": 1792427830,
+        "comments_url": "https://news.ycombinator.com/item?id=50154518"
+      },
+      "tags": [
+        "Open Source"
+      ],
+      "hot_score": 0.44
+    },
+    {
+      "title_en": "2026 is an exciting year for the Rust compiler (and me)",
+      "url": "https://yoyo-code.com/2026-is-exciting-year-for-rust-compiler-and-me/",
+      "title_zh": "2026 年将是 Rust 编译器的重要一年（也让作者兴奋）",
+      "created_display": "Created: Oct 20, 2026 / 06:53 PT",
+      "image_url": null,
+      "summary_en": "2026 is shaping up as an exciting year for the Rust compiler, with anticipated improvements to const generics, compiler performance, and tooling. The author shares enthusiasm about the trajectory and possible impact on systems programming.",
+      "summary_zh": "2026 年将成为 Rust 编译器的重要一年，预计在常量泛型、编译器性能和工具链等方面带来改进。作者对这一发展轨迹及其对系统编程的潜在影响表示兴奋。",
+      "hn": {
+        "id": 50166502,
+        "type": "story",
+        "by": "panstromek",
+        "score": 189,
+        "descendants": 105,
+        "time": 1792504428,
+        "comments_url": "https://news.ycombinator.com/item?id=50166502"
+      },
+      "tags": [
+        "Programming"
+      ],
+      "hot_score": 0.44
+    },
+    {
+      "title_en": "NixOS is making me less afraid",
+      "url": "https://entropicthoughts.com/nixos-is-making-me-less-afraid",
+      "title_zh": "NixOS 让我不再那么害怕",
+      "created_display": "Created: Oct 20, 2026 / 05:43 PT",
+      "image_url": "https://entropicthoughts.com/image/banner/nixos-is-making-me-less-afraid.jpg",
+      "summary_en": "A veteran user shares how NixOS improves confidence in system management through reproducible configurations and safe rollbacks, reducing fear of drift and dependency hell. The post argues for declarative, hermetic system design.",
+      "summary_zh": "一位用户分享 NixOS 如何通过可重复的配置和安全回滚，提升对系统管理的信心，减轻系统漂移和依赖地狱的担忧。文中倡导声明式、封闭式的系统设计。",
+      "hn": {
+        "id": 50165484,
+        "type": "story",
+        "by": "ibobev",
+        "score": 190,
+        "descendants": 128,
+        "time": 1792500185,
+        "comments_url": "https://news.ycombinator.com/item?id=50165484"
+      },
+      "hot_score": 0.41,
+      "tags": [
+        "Open Source",
+        "DevOps"
+      ]
+    },
+    {
+      "title_en": "Lula supporters protest against Meta to denounce its 'electoral interference'",
+      "url": "https://efe.com/english/latest-news/2026-10-20/lula-supporters-protest-against-meta-to-denounce-its-electoral-interference/",
+      "title_zh": "卢拉支持者抗议Meta，指控其干预选举",
+      "created_display": "Created: Oct 19, 2026 / 17:53 PT",
+      "image_url": null,
+      "summary_en": "Supporters of Brazilian president Luiz Inácio Lula da Silva protested Meta, accusing the social network of influencing the electoral process. The action underscores rising scrutiny of platform policies around political content and the real-world stakes of algorithmic moderation ahead of elections.",
+      "summary_zh": "巴西总统卢拉的支持者就Meta被指干预选举进行抗议，指控其在选举中操纵舆论。此举凸显社交平台在政治内容治理上的持续关注，以及选举前对算法审核和信息流管理带来的现实影响。",
+      "hn": {
+        "id": 50159993,
+        "type": "story",
+        "by": "jumpocelot",
+        "score": 290,
+        "descendants": 187,
+        "time": 1792457632,
+        "comments_url": "https://news.ycombinator.com/item?id=50159993"
+      },
+      "tags": [
+        "Politics"
+      ],
+      "hot_score": 0.35
+    },
+    {
+      "title_en": "Android apps running native on macOS",
+      "url": "https://github.com/kksimp/Mac.apk",
+      "title_zh": "Android 应用在 macOS 上原生运行",
+      "created_display": "Created: Oct 19, 2026 / 09:45 PT",
+      "image_url": "https://opengraph.githubassets.com/f5881ec2a90d87f6fd04da7dfe17cbec59e511b6b43b6f8ed683bc89213e4776/kksimp/Mac.apk",
+      "summary_en": "A project demonstrates running Android apps natively on macOS, potentially removing emulation overhead. If mature, this could blur platform boundaries for developers and users, enabling smoother access to Android ecosystems on Apple Silicon.",
+      "summary_zh": "一个项目展示在 macOS 上原生运行 Android 应用，或许能消除仿真开销。若成熟，将模糊开发者与用户的跨平台边界，使 Android 生态在 Apple Silicon 上获得更顺畅的体验。",
+      "hn": {
+        "id": 50154624,
+        "type": "story",
+        "by": "flocked",
+        "score": 344,
+        "descendants": 191,
+        "time": 1792428330,
+        "comments_url": "https://news.ycombinator.com/item?id=50154624"
+      },
+      "tags": [
+        "Programming"
+      ],
+      "hot_score": 0.3
+    },
+    {
+      "title_en": "Putting Linux on my RTX Spark laptop because I don't have a Microsoft account",
+      "url": "https://josie.lol/blog/linux-rtx-spark",
+      "title_zh": "没有微软账户就把 RTX Spark 笔记本装上 Linux",
+      "created_display": "Created: Oct 19, 2026 / 14:08 PT",
+      "image_url": "https://josie.lol/screenshot.png?v=20261019",
+      "summary_en": "Linux on the RTX Spark laptop is used to avoid Microsoft account requirements. The post recounts the installation, hardware compatibility, and day-to-day usability, illustrating Linux viability on niche hardware and privacy benefits of not signing into Windows.",
+      "summary_zh": "在 RTX Spark 笔记本上安装 Linux，以绕开微软账户的限制。文中描述了安装过程、硬件兼容性与日常使用体验，凸显在这类硬件上的 Linux 可行性以及避免 Windows 登录带来的隐私与控制优势。",
+      "hn": {
+        "id": 50158100,
+        "type": "story",
+        "by": "pfeifferj",
+        "score": 285,
+        "descendants": 140,
+        "time": 1792444098,
+        "comments_url": "https://news.ycombinator.com/item?id=50158100"
+      },
+      "tags": [
+        "Open Source",
+        "Privacy",
+        "Hardware"
+      ],
+      "hot_score": 0.29
+    },
+    {
+      "title_en": "France's supermarket fridges were vulnerable online for months",
+      "url": "https://ipinfo.io/blog/france-fridges-hack",
+      "title_zh": "法国超市冷藏柜数月暴露在网上存在漏洞",
+      "created_display": "Created: Oct 19, 2026 / 17:00 PT",
+      "image_url": "https://website-cdn.assets.ipinfo.io/images/og/og_blog.png",
+      "summary_en": "Security researchers found that connected fridge units in French supermarkets had misconfigurations or insecure access exposed online for months, enabling potential manipulation of inventory data or remote control. The incident underscores how consumer hardware in retail can be entry points for cyberattacks, and highlights need for better IoT management and firmware hygiene.",
+      "summary_zh": "研究人员发现法国多家超市的连网冷柜数月暴露在公开网络中，可能被未经授权的访问者远程操控或篡改库存数据。事件暴露零售业物联网设备的安全薄弱点，也凸显加强设备管理、固件更新和网络分段的重要性。",
+      "hn": {
+        "id": 50159616,
+        "type": "story",
+        "by": "emot",
+        "score": 242,
+        "descendants": 221,
+        "time": 1792454449,
+        "comments_url": "https://news.ycombinator.com/item?id=50159616"
+      },
+      "tags": [
+        "Security",
+        "Hardware"
+      ],
+      "hot_score": 0.28
+    },
+    {
+      "title_en": "How abliterated models can get you pwned",
+      "url": "https://projectdiscovery.io/research/how-abliterated-models-can-get-you-pwned",
+      "title_zh": "被抹除的模型如何让你中招",
+      "created_display": "Created: Oct 19, 2026 / 16:08 PT",
+      "image_url": "https://projectdiscovery.io/images/ProjectDiscovery_share.png",
+      "summary_en": "Researchers discuss how ablated or simplified models can be exploited to compromise systems, bypass safeguards, or leak data. The piece outlines attack vectors and practical mitigations for deploying ML models safely.",
+      "summary_zh": "研究者讨论被抹除/简化的模型如何被利用，以绕过安全防护、窃取数据或造成系统被攻破。文中列出攻击向量及在部署 ML 模型时可采取的实际缓解措施。",
+      "hn": {
+        "id": 50159245,
+        "type": "story",
+        "by": "chatmasta",
+        "score": 244,
+        "descendants": 137,
+        "time": 1792451332,
+        "comments_url": "https://news.ycombinator.com/item?id=50159245"
+      },
+      "tags": [
+        "AI",
+        "Security"
+      ],
+      "hot_score": 0.27
+    },
+    {
+      "title_en": "Mercury 3: Diffusion at scale",
+      "url": "https://www.inceptionlabs.ai/blog/introducing-mercury-3",
+      "title_zh": "Mercury 3：大规模扩散模型",
+      "created_display": "Created: Oct 19, 2026 / 10:27 PT",
+      "image_url": "https://framerusercontent.com/images/Zgp1I1AaILVgkXF4Xlk7iImaE.png?width=1200&height=630",
+      "summary_en": "Mercury 3 aims to scale diffusion-model workloads, delivering higher throughput and more efficient resource use for large-scale image generation. It reflects a broader push to production-grade diffusion at enterprises, with implications for cost, latency, and model deployment in AI pipelines.",
+      "summary_zh": "Mercury 3 旨在实现扩散模型工作负载的大规模扩展，提升吞吐量并提高大规模图像生成的资源利用效率。此举反映了企业级生产化扩散模型的趋势，对成本、时延和AI流水线中的模型部署产生深远影响。",
+      "hn": {
+        "id": 50155245,
+        "type": "story",
+        "by": "cmrdporcupine",
+        "score": 256,
+        "descendants": 91,
+        "time": 1792430831,
+        "comments_url": "https://news.ycombinator.com/item?id=50155245"
+      },
+      "tags": [
+        "AI",
+        "DevOps"
+      ],
+      "hot_score": 0.23
+    },
+    {
+      "title_en": "The reverts will continue until morale improves",
+      "url": "http://peter.eisentraut.org/blog/2026/10/09/the-reverts-will-continue-until-morale-improves",
+      "title_zh": "回滚将继续，直至士气改善",
+      "created_display": "Created: Oct 19, 2026 / 11:42 PT",
+      "image_url": null,
+      "summary_en": "This piece argues that frequent code reversions are symptomatic of governance and morale issues in the development team. It suggests balancing stability with progress, noting that ongoing reverts can undermine confidence and slow feature delivery.",
+      "summary_zh": "此文将频繁回滚视为治理与士气问题的信号，强调在稳定与进展之间寻求平衡。持续回滚可能削弱团队信心并拖慢新功能交付。",
+      "hn": {
+        "id": 50156206,
+        "type": "story",
+        "by": "hans_castorp",
+        "score": 234,
+        "descendants": 47,
+        "time": 1792435352,
+        "comments_url": "https://news.ycombinator.com/item?id=50156206"
+      },
+      "tags": [
+        "Culture"
+      ],
+      "hot_score": 0.22
+    },
+    {
+      "title_en": "Germany's far-right AfD: half a million internal documents leaked",
+      "url": "https://hexane.cc/",
+      "title_zh": "德国极右 AfD 内部约50万份文件泄露",
+      "created_display": "Created: Oct 19, 2026 / 13:31 PT",
+      "image_url": null,
+      "summary_en": "Half a million internal AfD documents were leaked, revealing details of the party's internal organization, operations, and data practices. The leak could affect fundraising oversight, internal power dynamics, and how the party targets voters.",
+      "summary_zh": "大约50万份 AfD 内部文件被泄露，揭示该党的内部组织、运作和数据实践细节。此次泄露可能影响资金监管、内部权力结构，以及对选民动员的策略。",
+      "hn": {
+        "id": 50157664,
+        "type": "story",
+        "by": "else42",
+        "score": 213,
+        "descendants": 111,
+        "time": 1792441865,
+        "comments_url": "https://news.ycombinator.com/item?id=50157664"
+      },
+      "tags": [
+        "Politics",
+        "Security",
+        "Data"
+      ],
+      "hot_score": 0.21
+    }
+  ]
+}

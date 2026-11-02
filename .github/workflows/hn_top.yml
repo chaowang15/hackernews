@@ -1,0 +1,104 @@
+name: HN Top Stories (Incremental)
+
+on:
+  workflow_dispatch:
+    inputs:
+      edition:
+        description: "Edition to publish"
+        required: true
+        default: "full"
+        type: choice
+        options:
+          - morning
+          - full
+  # Schedules stay disabled until the production cutover to avoid duplicate
+  # scrapes and API usage while the original repository remains active.
+
+
+permissions:
+  contents: write
+
+concurrency:
+  group: hn-top-stories
+  cancel-in-progress: false
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install deps
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Run scraper (top stories, incremental)
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+        run: |
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            EDITION="${{ inputs.edition }}"
+          elif [ "${{ github.event.schedule }}" = "0 15 * * *" ]; then
+            EDITION="morning"
+          else
+            EDITION="full"
+          fi
+          echo "Publishing edition: $EDITION"
+          python news_scraper/main.py top "$EDITION"
+
+      - name: Pipeline summary
+        run: |
+          echo "## 📊 Pipeline Run Summary" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "| Metric | Value |" >> $GITHUB_STEP_SUMMARY
+          echo "|--------|-------|" >> $GITHUB_STEP_SUMMARY
+          echo "| Mode | Daily Top Stories |" >> $GITHUB_STEP_SUMMARY
+          echo "| Trigger | ${{ github.event_name }} |" >> $GITHUB_STEP_SUMMARY
+          echo "| Time (UTC) | $(date -u '+%Y-%m-%d %H:%M:%S') |" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "### Latest outputs" >> $GITHUB_STEP_SUMMARY
+          echo '```' >> $GITHUB_STEP_SUMMARY
+          find hackernews -type f \( -name "top_stories_*.md" -o -name "top_stories_*.json" \) | sort | tail -n 10 >> $GITHUB_STEP_SUMMARY
+          echo '```' >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          if [ -f logs/scrape_run_log.md ]; then
+            echo "### Scrape Run Log (today)" >> $GITHUB_STEP_SUMMARY
+            echo '```' >> $GITHUB_STEP_SUMMARY
+            tail -n 5 logs/scrape_run_log.md >> $GITHUB_STEP_SUMMARY
+            echo '```' >> $GITHUB_STEP_SUMMARY
+          fi
+          echo "" >> $GITHUB_STEP_SUMMARY
+          if [ -f logs/openai_token_usage_log.md ]; then
+            echo "### Token Usage (latest batch)" >> $GITHUB_STEP_SUMMARY
+            echo '```' >> $GITHUB_STEP_SUMMARY
+            tail -n 10 logs/openai_token_usage_log.md >> $GITHUB_STEP_SUMMARY
+            echo '```' >> $GITHUB_STEP_SUMMARY
+          fi
+          
+      - name: Commit & push
+        run: |
+          set -euxo pipefail
+          git config user.name "hn-news-bot"
+          git config user.email "hn-news-bot@users.noreply.github.com"
+
+          git add -A
+          echo "Git status:"
+          git status --porcelain
+          if [ -z "$(git status --porcelain)" ]; then
+            echo "No changes to commit."
+            exit 0
+          fi
+          git commit -m "Update HN Top Stories (incremental)"
+
+          # Pull --rebase AFTER commit so there are no unstaged changes
+          git pull --rebase origin main || true
+
+          git push
+

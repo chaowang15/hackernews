@@ -1,0 +1,1172 @@
+{
+  "meta": {
+    "mode": "best",
+    "source": "https://news.ycombinator.com/",
+    "api": "https://github.com/HackerNews/API",
+    "count_requested": 50,
+    "count_written": 50,
+    "reused_same_day": 0,
+    "reused_cross_day": 20,
+    "new_llm_enriched": 14,
+    "scrape_time_display": "06:04, March 29, 2026 (PDT)",
+    "timezone": "America/Los_Angeles",
+    "date_dir": "2026/03/28",
+    "content_date": "2026-03-28",
+    "run_time_local": "06:04, March 29, 2026 (PDT)",
+    "run_time_utc": "2026-03-29 13:04:45 UTC",
+    "incremental": true,
+    "stories_max": 50,
+    "hot_score_time_utc": "2026-03-29 13:06:27 UTC"
+  },
+  "items": [
+    {
+      "title_en": "Overestimation of microplastics potentially caused by scientists' gloves",
+      "url": "https://news.umich.edu/nitrile-and-latex-gloves-may-cause-overestimation-of-microplastics-u-m-study-reveals/",
+      "title_zh": "科学家手套可能导致对微塑料的高估",
+      "created_display": "Created: Mar 29, 2026 / 02:46 PT",
+      "image_url": null,
+      "summary_en": "A Michigan study finds lab gloves shed plastic fibers that can contaminate microplastic measurements, potentially inflating estimates. The result calls for improved lab controls and updated protocols to ensure accurate environmental data.",
+      "summary_zh": "密歇根大学的一项研究发现，研究人员的手套会释放微塑料纤维，可能污染测量结果、高估微塑料水平。研究者因此呼吁加强实验室控制与方法修订，以确保环境数据的准确性。",
+      "hn": {
+        "id": 47561711,
+        "type": "story",
+        "by": "giuliomagnifico",
+        "score": 113,
+        "descendants": 45,
+        "time": 1774777618,
+        "comments_url": "https://news.ycombinator.com/item?id=47561711"
+      },
+      "hot_score": 5.52,
+      "tags": [
+        "Science"
+      ]
+    },
+    {
+      "title_en": "Founder of GitLab battles cancer by founding companies",
+      "url": "https://sytse.com/cancer/",
+      "title_zh": "GitLab 创始人通过创办新公司对抗癌症",
+      "created_display": "Created: Mar 28, 2026 / 10:39 PT",
+      "image_url": "https://sytse.com/wp-content/uploads/2026/01/Screenshot-2026-01-15-at-12.59.23-PM-967x1024.png",
+      "summary_en": "GitLab's cofounder is battling cancer and continues pushing forward by launching new companies. This shows entrepreneurship can be a coping mechanism and a way to channel energy during treatment. The story highlights resilience at the intersection of health and leadership.",
+      "summary_zh": "GitLab 联合创始人正在与癌症作斗争，但仍通过创办新公司继续前进。这一做法凸显创业在治疗期间用以应对压力的作用，以及在健康挑战中保持生产力的能力。",
+      "hn": {
+        "id": 47556729,
+        "type": "story",
+        "by": "bob_theslob646",
+        "score": 1155,
+        "descendants": 223,
+        "time": 1774719589,
+        "comments_url": "https://news.ycombinator.com/item?id=47556729"
+      },
+      "tags": [
+        "Startups",
+        "Health",
+        "Energy"
+      ],
+      "hot_score": 4.63
+    },
+    {
+      "title_en": "South Korea Mandates Solar Panels for Public Parking Lots",
+      "url": "https://www.reutersconnect.com/item/south-korea-mandates-solar-panels-for-public-parking-lots/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMU5VUlBITzAwMFZKRjFZQQ",
+      "title_zh": "韩国强制公共停车场安装太阳能板",
+      "created_display": "Created: Mar 28, 2026 / 16:29 PT",
+      "image_url": null,
+      "summary_en": "South Korea is mandating solar canopies over public parking lots as part of a broader clean energy push, potentially adding significant solar capacity and reducing urban heat island effects. The policy will require coordination with grid operators and may influence parking infrastructure and public budgeting.",
+      "summary_zh": "韩国将公共停车场覆盖太阳能板作为清洁能源计划的一部分，预计新增大量光伏容量并降低城市热岛效应。 这一政策需要与电网运营方协同，或影响停车场基础设施与公共预算。",
+      "hn": {
+        "id": 47558997,
+        "type": "story",
+        "by": "_____k",
+        "score": 321,
+        "descendants": 179,
+        "time": 1774740544,
+        "comments_url": "https://news.ycombinator.com/item?id=47558997"
+      },
+      "tags": [
+        "Energy",
+        "DevOps"
+      ],
+      "hot_score": 2.27
+    },
+    {
+      "title_en": "AI overly affirms users asking for personal advice",
+      "url": "https://news.stanford.edu/stories/2026/03/ai-advice-sycophantic-models-research",
+      "title_zh": "AI 对寻求个人建议的用户过度拍马奉承",
+      "created_display": "Created: Mar 28, 2026 / 07:08 PT",
+      "image_url": null,
+      "summary_en": "Researchers show that AI models trained to please users tend to provide flattering, agreeable personal advice, even when it's not optimal. This sycophantic behavior can mislead users and undermine critical judgment, underscoring challenges in aligning AI with reliable guidance.",
+      "summary_zh": "研究发现，为讨好用户而优化的对话模型在给出个人建议时往往过度拍马奉承，即便不最优也会认可用户观点。这种拍马奉承行为可能误导用户、削弱批判性判断，凸显让 AI 输出可靠建议的对齐难题。",
+      "hn": {
+        "id": 47554773,
+        "type": "story",
+        "by": "oldfrenchfries",
+        "score": 682,
+        "descendants": 533,
+        "time": 1774706913,
+        "comments_url": "https://news.ycombinator.com/item?id=47554773"
+      },
+      "tags": [
+        "AI"
+      ],
+      "hot_score": 2.08
+    },
+    {
+      "title_en": "CSS is DOOMed",
+      "url": "https://nielsleenheer.com/articles/2026/css-is-doomed-rendering-doom-in-3d-with-css/",
+      "title_zh": "CSS 注定走向末日",
+      "created_display": "Created: Mar 28, 2026 / 13:39 PT",
+      "image_url": "https://nielsleenheer.com/wp-content/uploads/2026/03/css-doomed.png",
+      "summary_en": "CSS-based 3D rendering is hitting fundamental limits in performance and reliability. As visual demands grow, CSS alone won’t suffice, pushing developers toward GPU-accelerated approaches like WebGL or Canvas for real 3D effects.",
+      "summary_zh": "CSS 在实现真实 3D 与复杂视觉效果时面临性能与可靠性的根本上限。随着渲染需求提升，单靠 CSS 已难以胜任，开发者应转向 GPU 加速的 WebGL 或 Canvas 等方案来实现真实的 3D 效果。",
+      "hn": {
+        "id": 47557960,
+        "type": "story",
+        "by": "msephton",
+        "score": 392,
+        "descendants": 91,
+        "time": 1774730341,
+        "comments_url": "https://news.ycombinator.com/item?id=47557960"
+      },
+      "tags": [
+        "Programming",
+        "Web",
+        "Hardware"
+      ],
+      "hot_score": 2.06
+    },
+    {
+      "title_en": "Spanish legislation as a Git repo",
+      "url": "https://github.com/EnriqueLop/legalize-es",
+      "title_zh": "把西班牙立法当作 Git 仓库来管理",
+      "created_display": "Created: Mar 28, 2026 / 05:01 PT",
+      "image_url": "https://opengraph.githubassets.com/f671ea93f0a5af02ebd2321612a94339f51cd5ab08aff21aa52c04a5e1d9ba5a/EnriqueLop/legalize-es",
+      "summary_en": "A project treats Spanish legislation as a versioned Git repository, enabling collaborative drafting, review workflows, and audit trails. It demonstrates 'law as code' can improve transparency and governance while highlighting implementation challenges.",
+      "summary_zh": "一个项目把西班牙立法作为可版本化的 Git 仓库来管理，支持协同起草、审查和变更追踪。这样的“法治即代码”理念提升透明度与治理效率，同时也暴露了实现方面的挑战。",
+      "hn": {
+        "id": 47553798,
+        "type": "story",
+        "by": "enriquelop",
+        "score": 760,
+        "descendants": 225,
+        "time": 1774699287,
+        "comments_url": "https://news.ycombinator.com/item?id=47553798"
+      },
+      "tags": [
+        "Legal",
+        "Open Source",
+        "Programming",
+        "Politics"
+      ],
+      "hot_score": 2.0
+    },
+    {
+      "title_en": "I decompiled the White House's new app",
+      "url": "https://thereallo.dev/blog/decompiling-the-white-house-app",
+      "title_zh": "我对白宫新应用进行了反编译",
+      "created_display": "Created: Mar 28, 2026 / 08:37 PT",
+      "image_url": null,
+      "summary_en": "A decompilation write-up analyzes the White House's new app, revealing insights into its security posture and data flows. The findings point to hardening opportunities and complexities in government software ecosystems.",
+      "summary_zh": "对白宫新应用的反编译分析揭示了其安全姿态与数据流的细节，指出了加强政府软件安全性的机会与挑战。",
+      "hn": {
+        "id": 47555556,
+        "type": "story",
+        "by": "amarcheschi",
+        "score": 552,
+        "descendants": 199,
+        "time": 1774712237,
+        "comments_url": "https://news.ycombinator.com/item?id=47555556"
+      },
+      "tags": [
+        "Security",
+        "Politics"
+      ],
+      "hot_score": 1.88
+    },
+    {
+      "title_en": "Alzheimer's disease mortality among taxi and ambulance drivers (2024)",
+      "url": "https://www.bmj.com/content/387/bmj-2024-082194",
+      "title_zh": "出租车与救护车司机的阿尔茨海默病死亡率（2024）",
+      "created_display": "Created: Mar 28, 2026 / 17:53 PT",
+      "image_url": "https://www.bmj.com/sites/default/files/highwire/bmj/392/8484.cover-source.jpg",
+      "summary_en": "A 2024 BMJ study examines mortality from Alzheimer's disease among taxi and ambulance drivers. It highlights possible occupational risk factors, such as long-term exposure to stress, shift work, and sleep disruption, underscoring broader implications for workforce health and aging drivers. It suggests targeted prevention and screening strategies for high-risk professions.",
+      "summary_zh": "2024 年 BMJ 的研究聚焦出租车与救护车司机中阿尔茨海默病的死亡率。研究指向职业因素（如长期高压、轮班制与睡眠干扰）可能与风险增加相关，强调对高风险行业的健康监护与早筛的重要性，并提出针对性的预防策略。",
+      "hn": {
+        "id": 47559481,
+        "type": "story",
+        "by": "bookofjoe",
+        "score": 151,
+        "descendants": 101,
+        "time": 1774745610,
+        "comments_url": "https://news.ycombinator.com/item?id=47559481"
+      },
+      "tags": [
+        "Health"
+      ],
+      "hot_score": 1.26
+    },
+    {
+      "title_en": "I Built an Open-World Engine for the N64 [video]",
+      "url": "https://www.youtube.com/watch?v=lXxmIw9axWw",
+      "title_zh": "我为 N64 构建开放世界引擎",
+      "created_display": "Created: Mar 28, 2026 / 04:49 PT",
+      "image_url": null,
+      "summary_en": "A developer demonstrates an open-world engine running on the Nintendo 64 hardware, illustrating how modern streaming techniques and world-building ideas map onto an era of tight memory and fixed pipelines. The video offers a playful look at retro hardware with current-engine concepts and could inspire hobbyists and researchers exploring hardware-limited game design.",
+      "summary_zh": "开发者在任天堂64硬件上展示一个开放世界引擎，展示了将现代流式加载和世界构建思路映射到记忆有限、固定管线的老平台。该视频以复古硬件为载体，考察了在资源受限环境下的引擎设计理念，或启发爱好者与研究者进行相关探索。",
+      "hn": {
+        "id": 47553717,
+        "type": "story",
+        "by": "msephton",
+        "score": 408,
+        "descendants": 68,
+        "time": 1774698568,
+        "comments_url": "https://news.ycombinator.com/item?id=47553717"
+      },
+      "tags": [
+        "Programming",
+        "Gaming",
+        "Hardware"
+      ],
+      "hot_score": 1.06
+    },
+    {
+      "title_en": "Britain today generating 90%+ of electricity from renewables",
+      "url": "https://grid.iamkate.com/",
+      "title_zh": "英国今日可再生能源发电占比超过90%",
+      "created_display": "Created: Mar 28, 2026 / 04:06 PT",
+      "image_url": "https://grid.iamkate.com/banner.png",
+      "summary_en": "Britain is today generating more than 90% of its electricity from renewable sources, a milestone for a grid that must balance variable supply. The day highlights the role of wind and solar, paired with flexible demand and storage, while reminding that variability still requires backup capacity and cross-border balancing.",
+      "summary_zh": "英国在某一天的用电中来自可再生能源的比例超过90%，成为电网脱碳的里程碑。风能、太阳能的快速扩张配合灵活的需求管理与储能正在推动车网迈向更高的可再生比重，但日间波动仍需后备容量与跨境调度来平衡。",
+      "hn": {
+        "id": 47553484,
+        "type": "story",
+        "by": "rwmj",
+        "score": 401,
+        "descendants": 281,
+        "time": 1774696004,
+        "comments_url": "https://news.ycombinator.com/item?id=47553484"
+      },
+      "hot_score": 0.99,
+      "tags": [
+        "Energy"
+      ]
+    },
+    {
+      "title_en": "Further human + AI + proof assistant work on Knuth's \"Claude Cycles\" problem",
+      "url": "https://twitter.com/BoWang87/status/2037648937453232504",
+      "title_zh": "在 Knuth 的“Claude Cycles”问题上进一步的人机协作与证明助手工作",
+      "created_display": "Created: Mar 28, 2026 / 11:38 PT",
+      "image_url": "https://pbs.twimg.com/media/HEctRDvacAA3vQY.png:large",
+      "summary_en": "Building on prior attempts, this piece documents continued human-AI collaboration with proof systems to tackle Knuth's Claude Cycles problem. It highlights how proof assistants and interactive reasoning are changing how difficult mathematical proofs are approached and validated.",
+      "summary_zh": "继续记录在人机协作的基础上，借助证明助手和交互式推理处理 Knuth 的 Claude Cycles 问题的进展，展示形式化验证在解决高难度数学难题中的作用。",
+      "hn": {
+        "id": 47557166,
+        "type": "story",
+        "by": "mean_mistreater",
+        "score": 224,
+        "descendants": 153,
+        "time": 1774723139,
+        "comments_url": "https://news.ycombinator.com/item?id=47557166"
+      },
+      "tags": [
+        "AI",
+        "Science"
+      ],
+      "hot_score": 0.97
+    },
+    {
+      "title_en": "Private equity turned vulnerable elderly people into human ATMs",
+      "url": "https://www.theguardian.com/society/2026/mar/28/the-great-care-home-cash-grab-how-private-equity-turned-vulnerable-elderly-people-into-human-atms",
+      "title_zh": "私募股权把脆弱老人变成现金提款机",
+      "created_display": "Created: Mar 28, 2026 / 14:43 PT",
+      "image_url": "https://i.guim.co.uk/img/media/3c136383e6b9556737cfafd7c8884d5161538dc5/0_0_5887_4709/master/5887.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5294bee6efb1c73fe7cb6663c7ed87bc",
+      "summary_en": "Private equity ownership of care homes is laid bare as debt-fueled, profit-driven strategies degrade care and transfer costs to residents and public purse. The piece links financial engineering to deteriorating outcomes for elderly residents and staff, highlighting governance gaps in essential services.",
+      "summary_zh": "私募股权对养老护理机构的收购以债务驱动、以利润为导向的策略削弱护理质量，并将成本转嫁给居民与公共资金。文章将金融工程与老人护理结果恶化联系起来，凸显关键公共服务治理中的漏洞。",
+      "hn": {
+        "id": 47558372,
+        "type": "story",
+        "by": "mordechai9000",
+        "score": 161,
+        "descendants": 103,
+        "time": 1774734180,
+        "comments_url": "https://news.ycombinator.com/item?id=47558372"
+      },
+      "tags": [
+        "Finance",
+        "Health",
+        "Business"
+      ],
+      "hot_score": 0.94
+    },
+    {
+      "title_en": "Folk are getting dangerously attached to AI that always tells them they're right",
+      "url": "https://www.theregister.com/2026/03/27/sycophantic_ai_risks/",
+      "title_zh": "人们对总是肯定他们观点的 AI 依赖性越来越强",
+      "created_display": "Created: Mar 28, 2026 / 07:49 PT",
+      "image_url": "https://regmedia.co.uk/2024/02/02/robot_shutterstock.jpg",
+      "summary_en": "People are increasingly relying on AI that always confirms their views, creating a dangerous bias loop. The piece warns that calibrated, skeptical AI and stronger guardrails are needed to prevent echo chambers and misinformation from taking root.",
+      "summary_zh": "越来越多的人依赖那种总是肯定他们观点的 AI，形成危险的偏见回路。文章警告若缺乏校准与防护，将使回音室效应和错误信息蔓延，需建立更强的边界与审查机制。",
+      "hn": {
+        "id": 47555090,
+        "type": "story",
+        "by": "Brajeshwar",
+        "score": 273,
+        "descendants": 215,
+        "time": 1774709365,
+        "comments_url": "https://news.ycombinator.com/item?id=47555090"
+      },
+      "hot_score": 0.87,
+      "tags": [
+        "AI",
+        "Culture"
+      ]
+    },
+    {
+      "title_en": "If you don't opt out by Apr 24 GitHub will train on your private repos",
+      "url": "https://news.ycombinator.com/item?id=47548243",
+      "title_zh": "如果你在4月24日前不选择退出，GitHub 将在你的私有仓库上用于训练",
+      "created_display": "Created: Mar 27, 2026 / 14:04 PT",
+      "image_url": "https://news.ycombinator.com/y18.svg",
+      "summary_en": "Developers face a policy change: if you don't opt out by the deadline, GitHub will use contents of private repos to train its AI models. This raises privacy and IP concerns for individual developers and teams, and highlights the trade-off between model quality and data rights; opting out may require action and may affect tooling.",
+      "summary_zh": "如果你未在截止日期前完成退出，GitHub 将把私有仓库的代码用于训练其人工智能模型。这将引发对隐私和知识产权的担忧，并可能影响企业对代码资产的控制。开发者需要了解退出流程与潜在影响。",
+      "hn": {
+        "id": 47548243,
+        "type": "story",
+        "by": "vmg12",
+        "score": 721,
+        "descendants": 310,
+        "time": 1774645491,
+        "comments_url": "https://news.ycombinator.com/item?id=47548243"
+      },
+      "tags": [
+        "Privacy",
+        "AI",
+        "Programming"
+      ],
+      "hot_score": 0.86
+    },
+    {
+      "title_en": "Go hard on agents, not on your filesystem",
+      "url": "https://jai.scs.stanford.edu/",
+      "title_zh": "把精力放在代理上，而不是文件系统",
+      "created_display": "Created: Mar 27, 2026 / 17:39 PT",
+      "image_url": "https://jai.scs.stanford.edu/assets/logo.C7a5JZI0.svg",
+      "summary_en": "This view argues that you should design around lightweight agents that orchestrate tasks and data flows rather than stuffing complexity into the filesystem. It outlines practical patterns like event-driven architecture, actor-model boundaries, and ephemeral storage to improve reproducibility and security in AI-powered automation. Tradeoffs are discussed and guidance provided for when to adopt agent-centric designs.",
+      "summary_zh": "该观点主张围绕轻量代理来编排任务和数据流，而不是把复杂性堆在文件系统上。文中给出事件驱动架构、演员模型边界、瞬态存储等实用模式，以提升可重复性、安全性和在 AI 自动化中的可组合性。还讨论了权衡以及在何种场景应采用以代理为中心的设计。",
+      "hn": {
+        "id": 47550282,
+        "type": "story",
+        "by": "mazieres",
+        "score": 600,
+        "descendants": 312,
+        "time": 1774658394,
+        "comments_url": "https://news.ycombinator.com/item?id=47550282"
+      },
+      "tags": [
+        "AI",
+        "Programming",
+        "Security"
+      ],
+      "hot_score": 0.84
+    },
+    {
+      "title_en": "The first 40 months of the AI era",
+      "url": "https://lzon.ca/posts/other/thoughts-ai-era/",
+      "title_zh": "AI 时代的前40个月",
+      "created_display": "Created: Mar 28, 2026 / 11:42 PT",
+      "image_url": "https://lzon.ca/img/og-image.jpg",
+      "summary_en": "A reflective overview of what the first 40 months since AI's breakout have delivered: rapid productization, surging compute for models, and new platform dynamics, alongside safety and governance concerns. The piece argues AI is reshaping competitive strategy and infrastructure choices across tech ecosystems.",
+      "summary_zh": "回顾自 AI 崛起以来的前40个月：产品化速度加快、模型计算需求飙升，以及新兴的平台生态，同时伴随安全与治理的挑战。 AI 正在重塑技术生态中的竞争策略与基础设施选择。",
+      "hn": {
+        "id": 47557185,
+        "type": "story",
+        "by": "jpmitchell",
+        "score": 190,
+        "descendants": 112,
+        "time": 1774723328,
+        "comments_url": "https://news.ycombinator.com/item?id=47557185"
+      },
+      "tags": [
+        "AI",
+        "DevOps"
+      ],
+      "hot_score": 0.83
+    },
+    {
+      "title_en": "Linux is an interpreter",
+      "url": "https://astrid.tech/2026/03/28/0/linux-is-an-interpreter/",
+      "title_zh": "Linux 实质上是一个解释器",
+      "created_display": "Created: Mar 28, 2026 / 09:59 PT",
+      "image_url": "https://s3.us-west-000.backblazeb2.com/nyaabucket/5444b66f2d9fc260b2bbf702c60183298fe390fc094e3f2821942148d526c487/umbreon.png",
+      "summary_en": "A provocative piece argues that Linux acts like an interpreter, translating kernel interactions, system calls, and filesystem semantics at runtime. It reframes OS design as a continuous translation layer, with implications for performance, security, and developer mental models.",
+      "summary_zh": "这篇观点文章认为 Linux 实质上像一个解释器，在运行时对内核交互、系统调用和文件系统语义进行翻译。这种看法重新定义了操作系统的设计，使得性能和安全性以及开发者心智模型产生新的考量。",
+      "hn": {
+        "id": 47556359,
+        "type": "story",
+        "by": "frizlab",
+        "score": 217,
+        "descendants": 52,
+        "time": 1774717174,
+        "comments_url": "https://news.ycombinator.com/item?id=47556359"
+      },
+      "tags": [
+        "Programming",
+        "Security"
+      ],
+      "hot_score": 0.82
+    },
+    {
+      "title_en": "Cocoa-Way – Native macOS Wayland compositor for running Linux apps seamlessly",
+      "url": "https://github.com/J-x-Z/cocoa-way",
+      "title_zh": "Cocoa-Way：原生 macOS Wayland 合成器，实现 Linux 应用无缝运行",
+      "created_display": "Created: Mar 28, 2026 / 03:06 PT",
+      "image_url": "https://opengraph.githubassets.com/e2cc0811937b47ebdaa814ed1040f41fd71cab62c3d6d4c7f2bda05b0aaf4761/J-x-Z/cocoa-way",
+      "summary_en": "Cocoa-Way aims to be a native macOS Wayland compositor to run Linux apps with minimal friction, integrating with Cocoa for window management and rendering. If matured, it could blur the boundary between Linux development environments and macOS workstations, reducing reliance on X.org or VM-based workarounds.",
+      "summary_zh": "Cocoa-Way 旨在成为原生 macOS 的 Wayland 合成器，以最小化摩擦地在 macOS 上运行 Linux 应用，并与 Cocoa 进行窗口管理和渲染整合。若成熟，将模糊 Linux 开发环境与 macOS 工作站之间的边界，减少对 Xorg 或虚拟机的依赖。",
+      "hn": {
+        "id": 47553185,
+        "type": "story",
+        "by": "OJFord",
+        "score": 309,
+        "descendants": 104,
+        "time": 1774692373,
+        "comments_url": "https://news.ycombinator.com/item?id=47553185"
+      },
+      "tags": [
+        "Programming",
+        "Open Source"
+      ],
+      "hot_score": 0.72
+    },
+    {
+      "title_en": "OpenCiv1 – open-source rewrite of Civ1",
+      "url": "https://github.com/rajko-horvat/OpenCiv1",
+      "title_zh": "OpenCiv1：Civ1 的开源重写",
+      "created_display": "Created: Mar 28, 2026 / 11:22 PT",
+      "image_url": "https://opengraph.githubassets.com/49b29524971b9ae0fb9406cb8b76358ed00100ebf947f7840f4dcffc1dddc8d3/rajko-horvat/OpenCiv1",
+      "summary_en": "OpenCiv1 is an open-source rewrite of Civilization I, reimplementing its mechanics with modern code. It serves as a case study in retro game preservation and how modern tooling can re-create classics with improved modability and portability.",
+      "summary_zh": "OpenCiv1 是 Civilization I 的开源重写，使用现代代码重新实现其机制。它展示了通过现代工具对经典游戏进行保存与再创作，并提升了可修改性与跨平台性。",
+      "hn": {
+        "id": 47557064,
+        "type": "story",
+        "by": "caminanteblanco",
+        "score": 160,
+        "descendants": 50,
+        "time": 1774722165,
+        "comments_url": "https://news.ycombinator.com/item?id=47557064"
+      },
+      "tags": [
+        "Open Source",
+        "Gaming"
+      ],
+      "hot_score": 0.68
+    },
+    {
+      "title_en": "People inside Microsoft are fighting to drop mandatory Microsoft Account",
+      "url": "https://www.windowscentral.com/microsoft/windows-11/people-inside-microsoft-are-fighting-to-drop-windows-11s-mandatory-microsoft-account-requirements-during-setup",
+      "title_zh": "微软内部推动取消 Windows 11 的强制微软账户",
+      "created_display": "Created: Mar 27, 2026 / 06:54 PT",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/JCodoJxkyaJ8XW3FU9wbEB-1376-80.png",
+      "summary_en": "Inside Microsoft, discussions are intensifying about dropping Windows 11's mandatory Microsoft Account requirement, signaling a possible shift in setup flow and user choice. The change would ease initial sign-in friction for many users and enterprises.",
+      "summary_zh": "微软内部对取消 Windows 11 强制微软账户的讨论日益激烈，显示安装流程和用户选择可能放宽。此举将降低大量用户和企业在初始登录时的阻力。",
+      "hn": {
+        "id": 47542695,
+        "type": "story",
+        "by": "breve",
+        "score": 749,
+        "descendants": 605,
+        "time": 1774619675,
+        "comments_url": "https://news.ycombinator.com/item?id=47542695"
+      },
+      "tags": [
+        "Privacy"
+      ],
+      "hot_score": 0.67
+    },
+    {
+      "title_en": "CERN uses ultra-compact AI models on FPGAs for real-time LHC data filtering",
+      "url": "https://theopenreader.org/Journalism:CERN_Uses_Tiny_AI_Models_Burned_into_Silicon_for_Real-Time_LHC_Data_Filtering",
+      "title_zh": "CERN 在 FPGA 上使用超紧凑 AI 模型进行实时 LHC 数据筛选",
+      "created_display": "Created: Mar 28, 2026 / 01:06 PT",
+      "image_url": null,
+      "summary_en": "CERN runs ultra-compact AI models burned into silicon on FPGAs to filter the LHC's real-time data streams. This approach delivers ultra-low latency and energy efficiency, illustrating how edge AI accelerates high-energy physics.",
+      "summary_zh": "CERN 将极小型、固化在硅上的 AI 模型部署在 FPGA 上，用于实时筛选 LHC 数据。此举实现极低延迟和能耗效率，展示边缘 AI 在高能物理中的应用潜力。",
+      "hn": {
+        "id": 47552562,
+        "type": "story",
+        "by": "TORcicada",
+        "score": 314,
+        "descendants": 143,
+        "time": 1774685179,
+        "comments_url": "https://news.ycombinator.com/item?id=47552562"
+      },
+      "tags": [
+        "AI",
+        "Hardware",
+        "Science",
+        "Energy"
+      ],
+      "hot_score": 0.65
+    },
+    {
+      "title_en": "Make macOS consistently bad unironically",
+      "url": "https://lr0.org/blog/p/macos/",
+      "title_zh": "让 macOS 真正变得一贯糟糕",
+      "created_display": "Created: Mar 27, 2026 / 12:15 PT",
+      "image_url": "https://lr0.org/i/2026-03-27_19-51-20_screenshot.png",
+      "summary_en": "The piece argues for a deliberate shift toward consistent macOS behavior, framing trade-offs between polish and reliability.",
+      "summary_zh": "文章主张让 macOS 的行为更具一致性，权衡光鲜体验与可靠性之间的取舍。",
+      "hn": {
+        "id": 47547009,
+        "type": "story",
+        "by": "speckx",
+        "score": 524,
+        "descendants": 354,
+        "time": 1774638919,
+        "comments_url": "https://news.ycombinator.com/item?id=47547009"
+      },
+      "tags": [
+        "Design"
+      ],
+      "hot_score": 0.58
+    },
+    {
+      "title_en": "Android’s new sideload settings will carry over to new devices",
+      "url": "https://www.androidauthority.com/android-sideload-carry-over-3652845/",
+      "title_zh": "Android 新的侧载设置将随设备迁移",
+      "created_display": "Created: Mar 28, 2026 / 13:28 PT",
+      "image_url": "https://www.androidauthority.com/wp-content/uploads/2019/04/Install-from-Unknown-Sources-2.jpg",
+      "summary_en": "Android is rolling over sideload allowances across devices, so users enabling unknown sources won't have to re-enable on every new device. The convenience comes with higher security risk, potentially broadening attack surfaces if devices are compromised or when switching accounts. It also signals a shift toward service- or account-level preferences rather than device-level toggles.",
+      "summary_zh": "Android 将把侧载设置跨设备携带，用户在换设备时不再需要重新开启未知来源。此举提高了使用便利性，但也提升了安全风险，若设备被攻破或账户切换时可能增加攻击面。体现了将偏好与设置从单一设备迁移到账户/服务级别的趋势。",
+      "hn": {
+        "id": 47557901,
+        "type": "story",
+        "by": "croemer",
+        "score": 111,
+        "descendants": 155,
+        "time": 1774729683,
+        "comments_url": "https://news.ycombinator.com/item?id=47557901"
+      },
+      "hot_score": 0.57,
+      "tags": [
+        "Security",
+        "Privacy"
+      ]
+    },
+    {
+      "title_en": "Anatomy of the .claude/ folder",
+      "url": "https://blog.dailydoseofds.com/p/anatomy-of-the-claude-folder",
+      "title_zh": ".claude/ 文件夹结构解析",
+      "created_display": "Created: Mar 27, 2026 / 07:35 PT",
+      "image_url": "https://substackcdn.com/image/fetch/$s_!ITpM!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b81cc25-df87-4ea8-a11b-9a719d5836b1_1166x1176.png",
+      "summary_en": "Explores Claude's internal working directory layout, showing how data, models, caches, and tooling are organized. The breakdown offers takeaways on configuration management and potential security or privacy implications for AI deployments.",
+      "summary_zh": "解析 Claude 内部工作目录的结构，展示数据、模型、缓存与工具的组织方式。该细节提供了关于配置管理以及人工智能部署中的潜在安全与隐私影响的启示。",
+      "hn": {
+        "id": 47543139,
+        "type": "story",
+        "by": "freedomben",
+        "score": 602,
+        "descendants": 255,
+        "time": 1774622145,
+        "comments_url": "https://news.ycombinator.com/item?id=47543139"
+      },
+      "tags": [
+        "Security",
+        "Data",
+        "AI",
+        "Privacy"
+      ],
+      "hot_score": 0.56
+    },
+    {
+      "title_en": "The 'paperwork flood': How I drowned a bureaucrat before dinner",
+      "url": "https://sightlessscribbles.com/posts/the-paperwork-flood/",
+      "title_zh": "“纸上洪流”：我在晚餐前把官僚打败",
+      "created_display": "Created: Mar 27, 2026 / 05:46 PT",
+      "image_url": null,
+      "summary_en": "A humorous, first-person account of wrestling with bureaucratic red tape as the author builds a metaphorical 'paperwork flood'. It reads as a practical reminder that reducing friction in forms and approvals pays off. The takeaway is to seek efficient processes to avoid bureaucratic bottlenecks.",
+      "summary_zh": "这篇以“纸上洪流”为题的博客故事，讲述作者如何对付繁琐的官僚流程。通过一连串讽刺与经验教训，揭示繁文缛节的痛点及应对思路。核心在于在文书工作中寻求高效、低摩擦的处理方式，避免被繁琐拖垮。",
+      "hn": {
+        "id": 47542057,
+        "type": "story",
+        "by": "robin_reala",
+        "score": 578,
+        "descendants": 472,
+        "time": 1774615609,
+        "comments_url": "https://news.ycombinator.com/item?id=47542057"
+      },
+      "tags": [
+        "Culture"
+      ],
+      "hot_score": 0.5
+    },
+    {
+      "title_en": "AMD's Ryzen 9 9950X3D2 Dual Edition crams 208MB of cache into a single chip",
+      "url": "https://arstechnica.com/gadgets/2026/03/amds-ryzen-9-9950x3d2-dual-edition-crams-208mb-of-cache-into-a-single-chip/",
+      "title_zh": "AMD Ryzen 9 9950X3D2 双版将208MB缓存塞进单芯片",
+      "created_display": "Created: Mar 27, 2026 / 19:17 PT",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/9950x3d2-1152x648.jpeg",
+      "summary_en": "AMD debuts Ryzen 9 9950X3D2 Dual Edition, packing 208MB of cache onto a single chip to boost cache-heavy workloads and gaming. The move highlights cache as a key lever for top-end performance, while prompting questions about power, yields, and real-world gains versus existing high-end parts.",
+      "summary_zh": "AMD 推出 Ryzen 9 9950X3D2 双版，单芯片内置208MB缓存，旨在提升缓存密集型工作负载与游戏性能。这一举动凸显缓存对高端性能的作用，同时也引发关于功耗、良品率及实际收益与现有高端芯片相比的讨论。",
+      "hn": {
+        "id": 47550878,
+        "type": "story",
+        "by": "zdw",
+        "score": 305,
+        "descendants": 165,
+        "time": 1774664224,
+        "comments_url": "https://news.ycombinator.com/item?id=47550878"
+      },
+      "tags": [
+        "Hardware",
+        "Gaming"
+      ],
+      "hot_score": 0.46
+    },
+    {
+      "title_en": "Desk for people who work at home with a cat",
+      "url": "https://soranews24.com/2026/03/27/japan-now-has-a-special-desk-for-people-who-work-at-home-with-a-pet-catphotos/",
+      "title_zh": "适合在家工作且养猫人群的办公桌",
+      "created_display": "Created: Mar 27, 2026 / 08:31 PT",
+      "image_url": "https://soranews24.com/wp-content/uploads/sites/3/2026/03/ch-1.jpg?w=1000&h=525&crop=1",
+      "summary_en": "Introduces a desk designed for remote workers who share their space with a cat, featuring cat-friendly add-ons and cable management that keep both humans and pets comfortable. It illustrates how home-office furniture is evolving to accommodate pets as co-workers.",
+      "summary_zh": "介绍一款为家中同住猫咪的远程工作者设计的办公桌，具备猫友好附加件和线缆管理等功能，兼顾人宠需求。展现了居家办公家具如何向让宠物成为同事的方向演进。",
+      "hn": {
+        "id": 47543943,
+        "type": "story",
+        "by": "zdw",
+        "score": 451,
+        "descendants": 162,
+        "time": 1774625480,
+        "comments_url": "https://news.ycombinator.com/item?id=47543943"
+      },
+      "tags": [
+        "Design"
+      ],
+      "hot_score": 0.43
+    },
+    {
+      "title_en": "Iran-linked hackers breach FBI director's personal email",
+      "url": "https://www.reuters.com/world/us/iran-linked-hackers-claim-breach-of-fbi-directors-personal-email-doj-official-2026-03-27/",
+      "title_zh": "与伊朗相关的黑客入侵 FBI 局长的个人邮箱",
+      "created_display": "Created: Mar 27, 2026 / 07:38 PT",
+      "image_url": null,
+      "summary_en": "Iran-linked hackers claim a breach of the FBI director's personal email, illustrating how personal accounts can become an attack surface for high-profile figures. DOJ officials say an investigation is underway and the incident underscores risk to operations and sensitive communications.",
+      "summary_zh": "伊朗关联黑客声称入侵 FBI 局长的个人邮箱，揭示高层个人账户也可能成为攻击入口。司法部官员表示正在展开调查，事件凸显对行动与敏感通信的潜在风险。",
+      "hn": {
+        "id": 47543167,
+        "type": "story",
+        "by": "m-hodges",
+        "score": 432,
+        "descendants": 518,
+        "time": 1774622308,
+        "comments_url": "https://news.ycombinator.com/item?id=47543167"
+      },
+      "tags": [
+        "Security"
+      ],
+      "hot_score": 0.4
+    },
+    {
+      "title_en": "AI got the blame for the Iran school bombing. The truth is more worrying",
+      "url": "https://www.theguardian.com/news/2026/mar/26/ai-got-the-blame-for-the-iran-school-bombing-the-truth-is-far-more-worrying",
+      "title_zh": "AI被指控参与伊朗校园爆炸？真相更令人担忧",
+      "created_display": "Created: Mar 27, 2026 / 09:39 PT",
+      "image_url": "https://i.guim.co.uk/img/media/c698c95ce425500a4e3856b0a7c149aec3ebcf29/394_0_4246_3397/master/4246.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=86f134309770e28ed011323704f6b523",
+      "summary_en": "Argues that blaming AI for the Iran school bombing misses deeper issues around attribution, misinformation, and systemic security gaps. The piece cautions against overreliance on AI as a scapegoat while urging rigorous investigation.",
+      "summary_zh": "认为将伊朗校园爆炸归咎于 AI 忽视了归因、信息误导与系统性安全漏洞等更深层次的问题。文章警示不要把 AI 当成替罪羊，同时呼吁进行严格调查。",
+      "hn": {
+        "id": 47544980,
+        "type": "story",
+        "by": "cptroot",
+        "score": 403,
+        "descendants": 373,
+        "time": 1774629572,
+        "comments_url": "https://news.ycombinator.com/item?id=47544980"
+      },
+      "tags": [
+        "AI",
+        "Security"
+      ],
+      "hot_score": 0.4
+    },
+    {
+      "title_en": "Wikipedia bans AI-generated content in its online encyclopedia",
+      "url": "https://www.theguardian.com/technology/2026/mar/27/wikipedia-bans-ai",
+      "title_zh": "维基百科禁止 AI 生成的内容",
+      "created_display": "Created: Mar 28, 2026 / 09:34 PT",
+      "image_url": "https://i.guim.co.uk/img/media/11bdcbd79d2083cd3ae980e805b8cdfd7e27fb80/325_0_2849_2279/master/2849.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0c0c88259743c38f11278f4322df1496",
+      "summary_en": "Wikipedia bans AI-generated content to preserve verifiability and human-centric editing. The move pushes contributors to rely on transparent, citable sources and may accelerate tooling to verify provenance.",
+      "summary_zh": "维基百科宣布禁止 AI 生成内容，以维护可验证性和由人编辑的标准。此举促使编辑者坚持使用可追溯的来源，并可能推动对内容出自与出处的工具化验证。",
+      "hn": {
+        "id": 47556116,
+        "type": "story",
+        "by": "Brajeshwar",
+        "score": 92,
+        "descendants": 19,
+        "time": 1774715644,
+        "comments_url": "https://news.ycombinator.com/item?id=47556116"
+      },
+      "hot_score": 0.33,
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "title_en": "DOJ confirms FBI Director Kash Patel's personal email was hacked",
+      "url": "https://arstechnica.com/tech-policy/2026/03/doj-confirms-fbi-director-kash-patels-personal-email-was-hacked/",
+      "title_zh": "司法部确认 FBI 局长 Kash Patel 的个人邮箱遭黑客入侵",
+      "created_display": "Created: Mar 27, 2026 / 14:41 PT",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-2266689842-1024x648.jpg",
+      "summary_en": "The DOJ confirmed that the personal email of FBI Director Kash Patel was hacked, underscoring security risks around high-profile officials' private accounts. The breach could expose correspondence, contacts, and other sensitive information, fueling scrutiny of how personal endpoints are safeguarded. It spotlights ongoing cyber threats and the need for robust personal-security measures for public figures.",
+      "summary_zh": "司法部确认 FBI 局长 Kash Patel 的私人邮箱遭黑客入侵，凸显高官私人账户安全风险。该事件可能暴露私人通信、联系人及其他敏感信息，促使社会各界关注个人端点的防护。再次强调对公职人员的网络威胁及强化个人安全措施的需求。",
+      "hn": {
+        "id": 47548670,
+        "type": "story",
+        "by": "sebastian_z",
+        "score": 263,
+        "descendants": 7,
+        "time": 1774647701,
+        "comments_url": "https://news.ycombinator.com/item?id=47548670"
+      },
+      "tags": [
+        "Security"
+      ],
+      "hot_score": 0.32
+    },
+    {
+      "title_en": "Treason in the Futures Markets",
+      "url": "https://paulkrugman.substack.com/p/treason-in-the-futures-markets",
+      "title_zh": "期货市场中的背叛行为",
+      "created_display": "Created: Mar 28, 2026 / 03:49 PT",
+      "image_url": null,
+      "summary_en": "Paul Krugman argues that incentives and structural flaws in futures markets threaten price discovery and market integrity. He points to regulatory gaps and opaque practices that reward short-term bets over transparent risk pricing, calling for reforms to restore trust and stability. The piece blends economics with policy implications for investors and regulators.",
+      "summary_zh": "保罗·克鲁格曼指出，期货市场的激励结构与制度缺陷正在损害价格发现与市场诚信。某些不透明的做法让短期投机优先于透明的风险定价，暴露监管空白，他呼吁改革以重建信任与稳定。该文将经济学观点与监管对策结合起来，为投资者与监管机构提供洞见。",
+      "hn": {
+        "id": 47553403,
+        "type": "story",
+        "by": "Gasp0de",
+        "score": 134,
+        "descendants": 60,
+        "time": 1774694984,
+        "comments_url": "https://news.ycombinator.com/item?id=47553403"
+      },
+      "hot_score": 0.32,
+      "tags": [
+        "Finance",
+        "Politics"
+      ]
+    },
+    {
+      "title_en": "Meow.camera",
+      "url": "https://meow.camera/#4258783365322591678",
+      "title_zh": "Meow.camera 猫咪摄像头",
+      "created_display": "Created: Mar 27, 2026 / 07:41 PT",
+      "image_url": null,
+      "summary_en": "Meow.camera is a cat-focused camera project aimed at helping owners monitor and engage with their pets.",
+      "summary_zh": "Meow.camera 是一个面向猫咪的摄像设备/项目，帮助主人远程观察并与猫咪互动。",
+      "hn": {
+        "id": 47543204,
+        "type": "story",
+        "by": "surprisetalk",
+        "score": 320,
+        "descendants": 68,
+        "time": 1774622462,
+        "comments_url": "https://news.ycombinator.com/item?id=47543204"
+      },
+      "tags": [
+        "Design"
+      ],
+      "hot_score": 0.3
+    },
+    {
+      "title_en": "Gaza toddler returned with alleged torture wounds after Israeli detention",
+      "url": "https://www.independent.co.uk/news/world/middle-east/gaza-toddler-torture-idf-israel-detention-b2947167.html",
+      "title_zh": "加沙幼童在以色列拘留后归还，疑似遭遇酷刑伤痕",
+      "created_display": "Created: Mar 28, 2026 / 04:25 PT",
+      "image_url": "https://static.independent.co.uk/2026/03/27/15/44/shutterstock_editorial_16788485d.jpeg?trim=322,0,189,0&width=1200&height=800&crop=1200:800",
+      "summary_en": "Reports claim a Gaza toddler, after detention by Israeli authorities, returned with injuries suggesting torture. This incident fuels ongoing debates about civilian protection and accountability in a volatile conflict, with investigations and medical assessments critical to verify claims.",
+      "summary_zh": "据报道，一名加沙地区幼童在以色列拘留后返回，身上疑似遭遇酷刑伤痕。这一事件再度引发关于平民保护与问责的辩论，需通过独立调查与医疗评估来核实指控。",
+      "hn": {
+        "id": 47553573,
+        "type": "story",
+        "by": "ghd_",
+        "score": 105,
+        "descendants": 54,
+        "time": 1774697128,
+        "comments_url": "https://news.ycombinator.com/item?id=47553573"
+      },
+      "hot_score": 0.26,
+      "tags": [
+        "Politics",
+        "Health"
+      ]
+    },
+    {
+      "title_en": "ISBN Visualization",
+      "url": "https://annas-archive.gd/isbn-visualization?",
+      "title_zh": "ISBN 可视化：Annas Archive",
+      "created_display": "Created: Mar 27, 2026 / 13:02 PT",
+      "image_url": "https://annas-archive.gd/isbn-visualization/assets/screenshot2-DHitP56u.png",
+      "summary_en": "A visualization project exploring ISBN data from Anna's Archive, revealing patterns in publishers, publication years, and bibliographic metadata. It demonstrates how scalable visualizations can illuminate large bibliographic collections for researchers and librarians.",
+      "summary_zh": "这是一个对 Anna's Archive 的 ISBN 数据进行可视化的项目，揭示出版社、出版年份等元数据中的模式。展示了可扩展可视化在研究人员与图书馆工作中对大型书目数据集的洞察能力。",
+      "hn": {
+        "id": 47547508,
+        "type": "story",
+        "by": "Cider9986",
+        "score": 222,
+        "descendants": 39,
+        "time": 1774641725,
+        "comments_url": "https://news.ycombinator.com/item?id=47547508"
+      },
+      "tags": [
+        "Data"
+      ],
+      "hot_score": 0.25
+    },
+    {
+      "title_en": "Fear and denial in Silicon Valley over social media addiction trial",
+      "url": "https://www.bbc.com/news/articles/c86e3eglv2go",
+      "title_zh": "硅谷对社交媒体成瘾试验的恐惧与否认",
+      "created_display": "Created: Mar 27, 2026 / 18:50 PT",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/9939/live/8db26d80-2a05-11f1-af48-7dd725bb0b8b.jpg",
+      "summary_en": "The BBC piece examines how Silicon Valley players respond to looming social media addiction trials, often framing them as political overreach or timing misalignment. It discusses industry concerns about regulation, public health labeling, and potential impacts on product design and revenue models.",
+      "summary_zh": "BBC 报道探讨硅谷对即将到来的社交媒体成瘾相关试验的恐惧与否认，揭示行业对监管、公共卫生标签及其对产品设计与商业模式的潜在影响的担忧。",
+      "hn": {
+        "id": 47550726,
+        "type": "story",
+        "by": "1659447091",
+        "score": 160,
+        "descendants": 219,
+        "time": 1774662619,
+        "comments_url": "https://news.ycombinator.com/item?id=47550726"
+      },
+      "tags": [
+        "Politics",
+        "Health",
+        "Business"
+      ],
+      "hot_score": 0.24
+    },
+    {
+      "title_en": "Slovenia becomes first EU country to introduce fuel rationing",
+      "url": "https://www.bbc.com/news/articles/c77m4zx6zvmo",
+      "title_zh": "斯洛文尼亚成为欧盟首个实施燃料配给的国家",
+      "created_display": "Created: Mar 27, 2026 / 13:51 PT",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/3cf4/live/dc1fbeb0-26da-11f1-934f-036468834728.jpg",
+      "summary_en": "Slovenia has become the first EU member to impose fuel rationing, signaling a new lever governments may use to manage energy supply. The move could affect logistics, transportation, and price dynamics, and may influence how tech and industrial sectors plan operations under energy constraints.",
+      "summary_zh": "斯洛文尼亚成为欧盟首个实施燃料配给的成员国。这一举措将影响物流和交通、改变燃料价格结构，也可能改变高科技与工业部门在能源紧张时期的运营计划。",
+      "hn": {
+        "id": 47548087,
+        "type": "story",
+        "by": "measurablefunc",
+        "score": 193,
+        "descendants": 331,
+        "time": 1774644663,
+        "comments_url": "https://news.ycombinator.com/item?id=47548087"
+      },
+      "tags": [
+        "Energy"
+      ],
+      "hot_score": 0.23
+    },
+    {
+      "title_en": "Velxio 2.0 – Emulate Arduino, ESP32, and Raspberry Pi 3 in the Browser",
+      "url": "https://github.com/davidmonterocrespo24/velxio",
+      "title_zh": "Velxio 2.0：在浏览器中模拟 Arduino、ESP32 与 Raspberry Pi 3",
+      "created_display": "Created: Mar 27, 2026 / 13:44 PT",
+      "image_url": "https://opengraph.githubassets.com/1cd7809684aabb1a1730f177c55ba5768bfc7bd4b657ca519a61d8e6d244890c/davidmonterocrespo24/velxio",
+      "summary_en": "Velxio 2.0 is a browser-based emulation tool that lets you run Arduino, ESP32, and Raspberry Pi 3 environments directly in the browser. It enables rapid prototyping, offline testing, and education, while highlighting current limitations of browser emulation.",
+      "summary_zh": "Velxio 2.0 是一个基于浏览器的仿真工具，允许在浏览器中直接运行 Arduino、ESP32 和 Raspberry Pi 3 的环境。它加速原型设计、离线测试与教学，同时也揭示了浏览器仿真的局限性。",
+      "hn": {
+        "id": 47548013,
+        "type": "story",
+        "by": "dmcrespo",
+        "score": 190,
+        "descendants": 58,
+        "time": 1774644273,
+        "comments_url": "https://news.ycombinator.com/item?id=47548013"
+      },
+      "tags": [
+        "Programming",
+        "Hardware",
+        "Web",
+        "Education"
+      ],
+      "hot_score": 0.22
+    },
+    {
+      "title_en": "Show HN: Twitch Roulette – Find live streamers who need views the most",
+      "url": "https://twitchroulette.net/",
+      "title_zh": "Show HN：Twitch Roulette——发现最需要曝光的直播主",
+      "created_display": "Created: Mar 27, 2026 / 15:22 PT",
+      "image_url": null,
+      "summary_en": "Show HN: Twitch Roulette surfaces under-viewed streams to boost visibility, aggregating stream data to help creators reach new audiences. It reshapes discovery by highlighting creators who could benefit most from additional views.",
+      "summary_zh": "Show HN: Twitch Roulette 将曝光度不足的直播间推向前台，帮助创作者接触新观众并提升可见度。该工具通过聚合数据来发现最需要曝光的主播，改变了观众的发现方式。",
+      "hn": {
+        "id": 47549160,
+        "type": "story",
+        "by": "ellg",
+        "score": 174,
+        "descendants": 95,
+        "time": 1774650140,
+        "comments_url": "https://news.ycombinator.com/item?id=47549160"
+      },
+      "tags": [
+        "Show HN",
+        "Web"
+      ],
+      "hot_score": 0.22
+    },
+    {
+      "title_en": "Installing a Let's Encrypt TLS certificate on a Brother printer with Certbot",
+      "url": "https://owltec.ca/Other/Installing+a+Let%27s+Encrypt+TLS+certificate+on+a+Brother+printer+automatically+with+Certbot+(%26+Cloudflare)",
+      "title_zh": "用 Certbot 为 Brother 打印机安装 Let's Encrypt TLS 证书",
+      "created_display": "Created: Mar 27, 2026 / 06:49 PT",
+      "image_url": "https://ogimage.obsidian.md/og-image.png?title=Installing+a+Let%27s+Encrypt+TLS+certificate+on+a+Brother+printer+automatically+with+Certbot+%28%26+Cloudflare%29&description=%282025%2F12%2F09%29+%23Brother+%23Certificates+%23Cloudflare+%23Tailscale+%23Printer+Article+inspiration%3A+https%3A%2F%2Fblog.poggs.com%2F2020%2F03%2F18%2Fprinter-security-installing-tls-certificates-on-hp-printers-automatically%2F+h%E2%80%A6&logoUrl=https%3A%2F%2Fpublish-01.obsidian.md%2Faccess%2F42ca5dc38a1a3318b53b2c9b5ffdc715%2Ffavicon-196x196.png&siteName=OwlTec",
+      "summary_en": "A practical guide showing how to secure a Brother network printer with a Let's Encrypt TLS certificate using Certbot and Cloudflare DNS challenges. The steps cover certificate issuance, renewal, and how to configure the printer's web interface. It highlights the growing trend of securing IoT-like devices even without dedicated vendors' support.",
+      "summary_zh": "实用指南演示如何借助 Certbot 与 Cloudflare DNS 挑战，为一台 Brother 网络打印机部署 Let's Encrypt TLS 证书。步骤涵盖证书申请、续期及打印机网页界面的配置，同时指出在缺乏厂商支持的情况下，为类似物联网设备加固安全的趋势。",
+      "hn": {
+        "id": 47542644,
+        "type": "story",
+        "by": "8organicbits",
+        "score": 240,
+        "descendants": 54,
+        "time": 1774619391,
+        "comments_url": "https://news.ycombinator.com/item?id=47542644"
+      },
+      "tags": [
+        "Security",
+        "DevOps"
+      ],
+      "hot_score": 0.21
+    },
+    {
+      "title_en": "Adults Lose Skills to AI. Children Never Build Them",
+      "url": "https://www.psychologytoday.com/us/blog/the-algorithmic-mind/202603/adults-lose-skills-to-ai-children-never-build-them",
+      "title_zh": "成年人因 AI 失去技能，孩子们却从不培养这些技能",
+      "created_display": "Created: Mar 28, 2026 / 01:17 PT",
+      "image_url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2026-03/vitaly-gariev-_uijcldvewc-unsplash.jpg?itok=XzXN5TLH",
+      "summary_en": "AI-assisted workflows are eroding certain adult skills, from memory to basic calculation, while children may not develop those skills due to overreliance on automation. The piece warns about long-term cognitive and educational impacts and urges balanced use and targeted skill-building.",
+      "summary_zh": "AI 辅助的工作流程正在侵蚀成年人部分技能，如记忆与基本计算，而儿童也可能因过度依赖自动化而未能培养相应能力。文章警示长期的认知与教育影响，并呼吁实现平衡使用与有针对性的技能培养。",
+      "hn": {
+        "id": 47552617,
+        "type": "story",
+        "by": "ndr42",
+        "score": 92,
+        "descendants": 84,
+        "time": 1774685872,
+        "comments_url": "https://news.ycombinator.com/item?id=47552617"
+      },
+      "hot_score": 0.19,
+      "tags": [
+        "AI",
+        "Education"
+      ]
+    },
+    {
+      "title_en": "Last gasps of the rent seeking class?",
+      "url": "https://geohot.github.io//blog/jekyll/update/2026/02/26/the-last-gasps-of-the-rent-seeking-class.html",
+      "title_zh": "租金寻租阶层的最后喘息？",
+      "created_display": "Created: Mar 27, 2026 / 07:40 PT",
+      "image_url": null,
+      "summary_en": "This provocative piece argues that a segment of the tech-policy ecosystem is in decline as regulation and market dynamics shift, suggesting the era of rent-seeking may be ending and outlining potential implications for the industry.",
+      "summary_zh": "这篇文章对科技行业中的租金寻租现象提出质疑，认为随着监管和市场格局的变化，这类获利方式正走向尾声。作者强调这会影响行业的商业模式和创新生态，并促使业界反思治理路径。",
+      "hn": {
+        "id": 47543201,
+        "type": "story",
+        "by": "surprisetalk",
+        "score": 168,
+        "descendants": 158,
+        "time": 1774622457,
+        "comments_url": "https://news.ycombinator.com/item?id=47543201"
+      },
+      "tags": [
+        "Politics"
+      ],
+      "hot_score": 0.15
+    },
+    {
+      "title_en": "Iran-linked hackers have breached FBI director's personal emails",
+      "url": "https://www.cnn.com/2026/03/27/politics/iran-linked-hackers-fbi-director-patel",
+      "title_zh": "与伊朗相关的黑客入侵了 FBI 局长的个人邮箱",
+      "created_display": "Created: Mar 27, 2026 / 09:42 PT",
+      "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/2026-03-18t151251z-396901067-rc237kawmud9-rtrmadp-3-iran-crisis-usa-intelligence.jpg?c=16x9&q=w_800,c_fill",
+      "summary_en": "Iran-linked hackers breached the FBI director's personal emails, illustrating persistent risks from state-backed cyber actors and prompting renewed emphasis on secure personal accounts and separation from official work channels.",
+      "summary_zh": "与伊朗相关的黑客入侵了 FBI 局长的私人邮箱，凸显来自国家级网络行为者的持续风险，并促使加强对个人账户的安全防护与与工作邮箱分离的政策考量。",
+      "hn": {
+        "id": 47545032,
+        "type": "story",
+        "by": "vrganj",
+        "score": 153,
+        "descendants": 3,
+        "time": 1774629722,
+        "comments_url": "https://news.ycombinator.com/item?id=47545032"
+      },
+      "tags": [
+        "Security"
+      ],
+      "hot_score": 0.15
+    },
+    {
+      "title_en": "Colorado House passes bill to limit surveillance pricing and wage setting",
+      "url": "https://coloradonewsline.com/briefs/surveillance-pricing-wage-setting/",
+      "title_zh": "科罗拉多州众议院通过法案，限制基于监控数据的定价与工资设定",
+      "created_display": "Created: Mar 27, 2026 / 13:10 PT",
+      "image_url": null,
+      "summary_en": "Colorado's bill targets how data gathered through surveillance affects pricing and pay decisions. It would restrict dynamic pricing practices and the use of real-time data for setting pay, with aims of reducing discrimination and increasing transparency. If enacted, it could push companies to redesign data pipelines towards fairness.",
+      "summary_zh": "科罗拉多州众议院通过法案，限制利用监控数据进行定价与工资决策的做法。法案拟约束基于数据的动态定价以及用实时数据设定薪酬的行为，旨在减少歧视并提高透明度。若成为法律，可能促使企业重构数据流程，以提升公正性。",
+      "hn": {
+        "id": 47547602,
+        "type": "story",
+        "by": "jprs",
+        "score": 126,
+        "descendants": 54,
+        "time": 1774642242,
+        "comments_url": "https://news.ycombinator.com/item?id=47547602"
+      },
+      "hot_score": 0.14,
+      "tags": [
+        "Politics",
+        "Privacy"
+      ]
+    },
+    {
+      "title_en": "Hong Kong police can now demand phone passwords under new security rules",
+      "url": "https://www.gadgetreview.com/hong-kong-police-can-now-demand-phone-passwords-under-new-security-rules",
+      "title_zh": "香港警方在新安全规则下可强制索取手机密码",
+      "created_display": "Created: Mar 27, 2026 / 06:57 PT",
+      "image_url": "https://www.gadgetreview.com/wp-content/uploads/Depositphotos_169835510_XL-scaled.jpg",
+      "summary_en": "New security rules expand police powers to request phone passwords, often with minimal safeguard requirements. Civil-liberties advocates warn this could erode privacy protections and set a precedent for broader surveillance. The change will influence how individuals defend their devices and how tech platforms design access controls.",
+      "summary_zh": "新安全规则扩大了警方对手机密码的索取权，通常几乎不设太多防护措施。公民自由倡导者警告这可能侵蚀隐私保护并为更广泛的监控定下先例。此举将影响个人如何捍卫设备、安全工具与平台的访问控制设计。",
+      "hn": {
+        "id": 47542722,
+        "type": "story",
+        "by": "vidyesh",
+        "score": 137,
+        "descendants": 159,
+        "time": 1774619856,
+        "comments_url": "https://news.ycombinator.com/item?id=47542722"
+      },
+      "hot_score": 0.12,
+      "tags": [
+        "Security",
+        "Privacy"
+      ]
+    },
+    {
+      "title_en": "I am leaving the AI party after one drink",
+      "url": "https://lara-aigmueller.at/thoughts/leaving-the-ai-party/",
+      "title_zh": "我喝了一口就离开 AI 派对",
+      "created_display": "Created: Mar 27, 2026 / 09:41 PT",
+      "image_url": null,
+      "summary_en": "After a measured taste of AI's capabilities, the author decides to step away from the AI hype. The piece argues for disciplined governance, clear use-cases, and attention to long-term societal risks rather than chasing every new AI fad.",
+      "summary_zh": "在短暂接触 AI 能力后，作者决定离开 AI 热潮。文章主张制定克制的治理框架、明确的使用场景，以及对长期社会风险的关注，而不是盲目追逐新兴的 AI 热潮。",
+      "hn": {
+        "id": 47545030,
+        "type": "story",
+        "by": "speckx",
+        "score": 120,
+        "descendants": 128,
+        "time": 1774629719,
+        "comments_url": "https://news.ycombinator.com/item?id=47545030"
+      },
+      "hot_score": 0.12,
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "title_en": "Why are executives enamored with AI, but ICs aren't?",
+      "url": "https://johnjwang.com/post/2026/03/27/why-are-executives-enabled-with-ai-but-ics-arent/",
+      "title_zh": "为何高管迷恋 AI，但一线工程师并不热衷？",
+      "created_display": "Created: Mar 27, 2026 / 16:19 PT",
+      "image_url": null,
+      "summary_en": "Executives chase AI for strategic leverage and measurable impact, but ICs worry about rising toil, opaque ROI, and skill erosion. The note argues for aligning incentives, reducing friction in workflows, and delivering tooling that genuinely eases engineers’ workloads.",
+      "summary_zh": "高管热衷于 AI，追求战略性杠杆和可衡量的影响；而一线工程师则担心工作负担增加、收益不透明和技能被边缘化。文章呼吁对齐激励、简化工作流程，并提供真正能减轻工程师负担的工具。",
+      "hn": {
+        "id": 47549649,
+        "type": "story",
+        "by": "johnjwang",
+        "score": 92,
+        "descendants": 160,
+        "time": 1774653558,
+        "comments_url": "https://news.ycombinator.com/item?id=47549649"
+      },
+      "hot_score": 0.12,
+      "tags": [
+        "AI",
+        "Business"
+      ]
+    },
+    {
+      "title_en": "OpenBSD on Motorola 88000 Processors",
+      "url": "http://miod.online.fr/software/openbsd/stories/m88k1.html",
+      "title_zh": "OpenBSD 在 Motorola 88000 处理器上的移植",
+      "created_display": "Created: Mar 27, 2026 / 07:39 PT",
+      "image_url": "http://miod.online.fr/software/openbsd/stories/t_MVME180.jpg",
+      "summary_en": "OpenBSD has an experimental port to the Motorola 88000 (M88000) architecture, a retro RISC design from the 1990s. The effort showcases how modern cryptography and security features can be exercised on legacy hardware, and it reflects the ongoing interest in supporting obscure architectures for research and preservation. The port also highlights challenges in toolchains and drivers for this vintage CPU.",
+      "summary_zh": "OpenBSD 在 Motorola 88000 架构上完成实验性移植，这颗来自1990年代的老牌 RISC 处理器仍具研究与保留价值。此工作展示了在老硬件上实现现代安全特性与工具链的可行性，同时揭示了古老 CPU 在驱动和工具链方面的挑战。",
+      "hn": {
+        "id": 47543186,
+        "type": "story",
+        "by": "rbanffy",
+        "score": 108,
+        "descendants": 15,
+        "time": 1774622391,
+        "comments_url": "https://news.ycombinator.com/item?id=47543186"
+      },
+      "tags": [
+        "Open Source",
+        "Security",
+        "Hardware"
+      ],
+      "hot_score": 0.1
+    },
+    {
+      "title_en": "Apple says no one using Lockdown Mode has been hacked with spyware",
+      "url": "https://techcrunch.com/2026/03/27/apple-says-no-one-using-lockdown-mode-has-been-hacked-with-spyware/",
+      "title_zh": "苹果称使用锁定模式的用户尚未被间谍软件入侵",
+      "created_display": "Created: Mar 27, 2026 / 09:11 PT",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2024/12/apple-ios-lockdown-mode-2024.jpg?resize=1200,800",
+      "summary_en": "Apple says there have been no verified hacks of Lockdown Mode users, reinforcing the feature as a high-security option against targeted spyware. While encouraging, it also highlights the continuous adversarial arms race and that Lockdown Mode remains a best-effort safeguard for the most exposed users.",
+      "summary_zh": "苹果表示正在使用锁定模式的用户尚未被间谍软件入侵，强调该功能对高风险目标具有防护效力。尽管这是一项积极信号，但也凸显攻击方的持续攻防博弈——锁定模式并非全能，且仅对最暴露的用户有显著帮助。",
+      "hn": {
+        "id": 47544614,
+        "type": "story",
+        "by": "jbegley",
+        "score": 104,
+        "descendants": 75,
+        "time": 1774627887,
+        "comments_url": "https://news.ycombinator.com/item?id=47544614"
+      },
+      "hot_score": 0.1,
+      "tags": [
+        "Security",
+        "Privacy"
+      ]
+    },
+    {
+      "title_en": "The Future of SCIP",
+      "url": "https://sourcegraph.com/blog/the-future-of-scip",
+      "title_zh": "SCIP 的未来",
+      "created_display": "Created: Mar 27, 2026 / 08:46 PT",
+      "image_url": "https://cdn.prod.website-files.com/6750d0c3f154999a486dade7/69c2ca5d1dbb72f19081e850_sourcegraph-x-scip-announcement.jpg",
+      "summary_en": "SCIP's future outlines how the Software Component Identity Protocol will evolve to standardize component identities, improve SBOM usefulness, and streamline tooling across ecosystems.",
+      "summary_zh": "SCIP 的未来展望软件组件身份协议如何演进，以提升软件供应链安全、互操作性和可溯源性。文章探讨治理、采用挑战，以及这对开发者、厂商和安全团队的影响。",
+      "hn": {
+        "id": 47544238,
+        "type": "story",
+        "by": "jdorfman",
+        "score": 94,
+        "descendants": 23,
+        "time": 1774626410,
+        "comments_url": "https://news.ycombinator.com/item?id=47544238"
+      },
+      "hot_score": 0.09,
+      "tags": [
+        "Open Source",
+        "Security"
+      ]
+    }
+  ]
+}

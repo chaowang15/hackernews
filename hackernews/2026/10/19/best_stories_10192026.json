@@ -1,0 +1,1167 @@
+{
+  "meta": {
+    "mode": "best",
+    "source": "https://news.ycombinator.com/",
+    "api": "https://github.com/HackerNews/API",
+    "count_requested": 50,
+    "count_written": 50,
+    "reused_same_day": 0,
+    "reused_cross_day": 22,
+    "new_llm_enriched": 9,
+    "scrape_time_display": "09:34, October 20, 2026 (PDT)",
+    "timezone": "America/Los_Angeles",
+    "date_dir": "2026/10/19",
+    "content_date": "2026-10-19",
+    "run_time_local": "09:34, October 20, 2026 (PDT)",
+    "run_time_utc": "2026-10-20 16:34:17 UTC",
+    "incremental": true,
+    "stories_max": 50,
+    "hot_score_time_utc": "2026-10-20 16:35:16 UTC"
+  },
+  "items": [
+    {
+      "title_en": "DeepSeek just open-sourced its inference engine",
+      "url": "https://github.com/deepseek-ai/DeepInfer",
+      "title_zh": "DeepSeek 将其推理引擎开源",
+      "created_display": "Created: Oct 20, 2026 / 02:08 PT",
+      "image_url": "https://opengraph.githubassets.com/6dadfadd2fff0a5002e5e188c3bf9af01a9dee56d51f5f2c8c1aec5dec5b6d47/deepseek-ai/DeepInfer",
+      "summary_en": "DeepSeek released its inference engine as open source, giving researchers and developers a reference backend compatible with their models. The project could lower the barrier to running efficient AI inference at edge and on CPU, inviting community contributions and broader adoption.",
+      "summary_zh": "DeepSeek 公布其推理引擎开源，提供一个可用于研究和开发的后端实现。此举有望降低在边缘设备和 CPU 上运行高效推理的门槛，促进社区贡献和生态扩展。",
+      "hn": {
+        "id": 50163277,
+        "type": "story",
+        "by": "ggcr",
+        "score": 1677,
+        "descendants": 610,
+        "time": 1792487334,
+        "comments_url": "https://news.ycombinator.com/item?id=50163277"
+      },
+      "tags": [
+        "AI",
+        "Open Source",
+        "Hardware",
+        "Web"
+      ],
+      "hot_score": 29.47
+    },
+    {
+      "title_en": "Facebook now charging to post more than 2 links a month",
+      "url": "https://mastodon.gamedev.place/@AshleyGullen/117473851565913919",
+      "title_zh": "Facebook 现对每月发布超过两条链接收费",
+      "created_display": "Created: Oct 20, 2026 / 08:06 PT",
+      "image_url": "https://cdn.masto.host/mastodongamedevplace/media_attachments/files/117/473/851/121/967/109/original/2fb667edf9ac327a.png",
+      "summary_en": "Facebook reportedly introduces a fee for posts containing more than two external links per month, effectively monetizing basic user sharing. The policy change raises questions about platform incentives, creator workflows, and the economics of social media.",
+      "summary_zh": "据报道，Facebook 对每月包含超过两条外部链接的帖子收取费用，实质性地对普通分享进行变现。此政策引发对平台激励、创作者工作流程以及社媒经济学的讨论。",
+      "hn": {
+        "id": 50167536,
+        "type": "story",
+        "by": "AshleysBrain",
+        "score": 227,
+        "descendants": 142,
+        "time": 1792508768,
+        "comments_url": "https://news.ycombinator.com/item?id=50167536"
+      },
+      "hot_score": 23.88,
+      "tags": [
+        "Business"
+      ]
+    },
+    {
+      "title_en": "EMudhra Intermediate CA Compromise",
+      "url": "https://emudhra.we-have-a-problem.com/",
+      "title_zh": "EMudhra 中级证书颁发机构遭到妥协",
+      "created_display": "Created: Oct 20, 2026 / 06:58 PT",
+      "image_url": null,
+      "summary_en": "EMudhra reports compromise of its Intermediate Certificate Authority, potentially enabling issuance of fraudulent certificates. The incident highlights PKI supply-chain risk and the need for aggressive revocation, transparency, and improved security controls.",
+      "summary_zh": "EMudhra 报告其中级证书颁发机构遭到妥协，可能导致伪造证书的签发。这一事件凸显公钥基础设施供应链风险，以及需要更快速的撤销、透明披露和改进的安全控制措施。",
+      "hn": {
+        "id": 50166579,
+        "type": "story",
+        "by": "galadran",
+        "score": 159,
+        "descendants": 64,
+        "time": 1792504713,
+        "comments_url": "https://news.ycombinator.com/item?id=50166579"
+      },
+      "hot_score": 10.08,
+      "tags": [
+        "Security"
+      ]
+    },
+    {
+      "title_en": "Apple broke an essential presentation feature of iPads",
+      "url": "https://teddysvoronos.com/2026-10-19-apple-broke-an-essential-presentation-feature-of-ipads/",
+      "title_zh": "苹果损坏了 iPad 的一个核心演示功能",
+      "created_display": "Created: Oct 20, 2026 / 05:17 PT",
+      "image_url": "https://teddysvoronos.com/assets/img/headshot-nav.jpg",
+      "summary_en": "Apple has broken a core presentation feature on iPads, disrupting how users run slides and demos from the device. The change affects educators, sales teams, and event hosts who rely on iPad-based presentation workflows, highlighting tensions between feature updates and long-standing workflows.",
+      "summary_zh": "苹果在 iPad 上破坏了一个核心演示功能，影响用户用设备进行幻灯片与现场演示。此变动冲击依赖 iPad 演示流程的教师、销售与活动组织者，凸显了更新与长期工作流之间的矛盾。",
+      "hn": {
+        "id": 50165208,
+        "type": "story",
+        "by": "evanb",
+        "score": 259,
+        "descendants": 143,
+        "time": 1792498648,
+        "comments_url": "https://news.ycombinator.com/item?id=50165208"
+      },
+      "hot_score": 9.4,
+      "tags": [
+        "Design"
+      ]
+    },
+    {
+      "title_en": "Publish fake stats, get cited in LLMs",
+      "url": "https://peec.ai/blog/publish-stats-get-cited-the-tactic-that-put-my-data-all-over-the-web",
+      "title_zh": "发表伪造统计数据，易被大语言模型引用",
+      "created_display": "Created: Oct 20, 2026 / 06:06 PT",
+      "image_url": "https://framerusercontent.com/images/g61nppL2S0T51TuBYG0bTxac2U.png?width=2150&height=1126",
+      "summary_en": "A tactic is described where fake statistics are published to be cited by large language models, illustrating how misinformation can leak into AI training data.",
+      "summary_zh": "文中描述了一种策略：发布伪造的统计数据以被大型语言模型引用，揭示了错误信息如何进入 AI 训练数据并影响模型输出。文中讨论了来源可追溯性、防护措施，以及当虚假数据被当作事实时对模型可靠性的风险。",
+      "hn": {
+        "id": 50165801,
+        "type": "story",
+        "by": "robtherobber",
+        "score": 162,
+        "descendants": 90,
+        "time": 1792501582,
+        "comments_url": "https://news.ycombinator.com/item?id=50165801"
+      },
+      "hot_score": 7.53,
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "title_en": "AfD Leak: What 421,179 Hacked Emails Show about the German Far Right",
+      "url": "https://www.heistberlin.com/news/afd-leak-what-421-179-hacked-emails-show-about-the-german-far-right/",
+      "title_zh": "AfD 泄露：421,179 封被盗邮件揭示德国极右翼的网络与协作",
+      "created_display": "Created: Oct 20, 2026 / 02:35 PT",
+      "image_url": "https://storage.ghost.io/c/98/53/98532a3a-3542-4bcd-a05e-a2672d5c28c1/content/images/size/w1200/2026/10/x-card--31--2.png",
+      "summary_en": "The leak includes correspondence from AfD members and affiliates, shedding light on fundraising schemes, alliances, and internal strategies. It raises questions about political influence networks online and the role of data breaches in exposing extremism.",
+      "summary_zh": "泄露邮件涉及 AfD 成员及关联方的通信，揭示筹资手段、联盟与内部策略等。信息披露点出极右翼网络的运作模式，以及数据泄露在揭露极端主义中的作用。",
+      "hn": {
+        "id": 50163502,
+        "type": "story",
+        "by": "firefax",
+        "score": 338,
+        "descendants": 478,
+        "time": 1792488940,
+        "comments_url": "https://news.ycombinator.com/item?id=50163502"
+      },
+      "tags": [
+        "Politics",
+        "Data"
+      ],
+      "hot_score": 6.46
+    },
+    {
+      "title_en": "Google cloud outage takes down banks",
+      "url": "https://www.neowin.net/news/google-cloud-outage-takes-down-hsbc-revolut-bank-of-scotland-llyods-equifax-more/",
+      "title_zh": "Google Cloud 故障致多家银行受影响",
+      "created_display": "Created: Oct 20, 2026 / 03:26 PT",
+      "image_url": null,
+      "summary_en": "A Google Cloud outage disrupted operations for several banks and fintechs, revealing how much financial services rely on cloud regions. The incident underscores the need for robust disaster recovery and regional redundancy.",
+      "summary_zh": "谷歌云故障导致多家银行及金融科技公司运营受影响，暴露出金融服务对云区域的高度依赖。事件强调需要健全的灾难恢复和区域冗余策略。",
+      "hn": {
+        "id": 50163961,
+        "type": "story",
+        "by": "paweladamczuk",
+        "score": 205,
+        "descendants": 94,
+        "time": 1792491962,
+        "comments_url": "https://news.ycombinator.com/item?id=50163961"
+      },
+      "tags": [
+        "DevOps"
+      ],
+      "hot_score": 4.67
+    },
+    {
+      "title_en": "WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
+      "url": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions",
+      "title_zh": "WhatsApp 帮助页面隐藏了 LLM 指令：不建议监管机构",
+      "created_display": "Created: Oct 19, 2026 / 16:22 PT",
+      "image_url": "https://redact.dev/blog-images/2026/10/whatsapp-hidden-ai-notes-robot-puppeteer.jpg",
+      "summary_en": "Internal prompts reportedly steered WhatsApp's LLM-enabled help content to avoid recommending regulators. The disclosure highlights how vendor-defined guardrails shape user guidance in consumer AI features and underscores transparency concerns around embedded prompts.",
+      "summary_zh": "据称 WhatsApp 的 LLM 助手帮助页面中存在引导指令，要求其避免向用户推荐监管机构。这揭示了厂商设定的安全边界如何影响用户指引，以及对嵌入式提示透明度的担忧。",
+      "hn": {
+        "id": 50159341,
+        "type": "story",
+        "by": "ds",
+        "score": 667,
+        "descendants": 187,
+        "time": 1792452138,
+        "comments_url": "https://news.ycombinator.com/item?id=50159341"
+      },
+      "tags": [
+        "AI",
+        "Politics"
+      ],
+      "hot_score": 3.26
+    },
+    {
+      "title_en": "MicroG: Free-libre re-implementation of Google's proprietary Android user space",
+      "url": "https://github.com/microg/GmsCore/wiki",
+      "title_zh": "MicroG：对 Google Android 用户空间的自由开源实现",
+      "created_display": "Created: Oct 19, 2026 / 23:37 PT",
+      "image_url": "https://opengraph.githubassets.com/ac3cc3fa2e0b9af52f07bdef0024029835dfc06e1311dc682cb6f6212f67b610/microg/GmsCore",
+      "summary_en": "MicroG offers a libre reimplementation of Google Mobile Services, enabling Android runs without proprietary Google binaries. It supports many apps and services while prioritizing privacy, empowering custom ROMs and privacy-focused devices, though some apps may rely on proprietary features.",
+      "summary_zh": "MicroG 提供对 Google 移动服务的自由开源再实现，使用户在不使用官方谷歌二进制的情况下运行 Android。尽管兼容性可能有限，但它为隐私友好的设备与自定义 ROM 提供了可行选项，某些应用仍可能依赖专有特性。",
+      "hn": {
+        "id": 50162177,
+        "type": "story",
+        "by": "theanonymousone",
+        "score": 285,
+        "descendants": 42,
+        "time": 1792478227,
+        "comments_url": "https://news.ycombinator.com/item?id=50162177"
+      },
+      "tags": [
+        "Open Source",
+        "Privacy"
+      ],
+      "hot_score": 3.26
+    },
+    {
+      "title_en": "OpenBSD 8.0",
+      "url": "https://www.openbsd.org/80.html",
+      "title_zh": "OpenBSD 8.0 发布",
+      "created_display": "Created: Oct 19, 2026 / 19:06 PT",
+      "image_url": "https://www.openbsd.org/images/blowfishonbike-s.gif",
+      "summary_en": "OpenBSD 8.0 arrives as the newest stable release in the security-focused family, pushing forward on correctness and minimal attack surface. It brings base-system updates, improved hardware support, and ongoing hardening features that appeal to sysadmins who prioritize reliability and security.",
+      "summary_zh": "OpenBSD 8.0 作为该安全优先发行线的最新稳定版本，继续强调正确性与较小的攻击面。该版本包含基线系统更新、对更多硬件的支持提升，以及持续的安全强化，适合追求高可靠性和稳健性的系统管理员。",
+      "hn": {
+        "id": 50160494,
+        "type": "story",
+        "by": "privong",
+        "score": 422,
+        "descendants": 135,
+        "time": 1792462000,
+        "comments_url": "https://news.ycombinator.com/item?id=50160494"
+      },
+      "tags": [
+        "Security",
+        "Open Source",
+        "Hardware"
+      ],
+      "hot_score": 2.72
+    },
+    {
+      "title_en": "Lula supporters protest against Meta to denounce its 'electoral interference'",
+      "url": "https://efe.com/english/latest-news/2026-10-20/lula-supporters-protest-against-meta-to-denounce-its-electoral-interference/",
+      "title_zh": "卢拉支持者抗议Meta，指控其干预选举",
+      "created_display": "Created: Oct 19, 2026 / 17:53 PT",
+      "image_url": null,
+      "summary_en": "Supporters of Brazilian president Luiz Inácio Lula da Silva protested Meta, accusing the social network of influencing the electoral process. The action underscores rising scrutiny of platform policies around political content and the real-world stakes of algorithmic moderation ahead of elections.",
+      "summary_zh": "巴西总统卢拉的支持者就Meta被指干预选举进行抗议，指控其在选举中操纵舆论。此举凸显社交平台在政治内容治理上的持续关注，以及选举前对算法审核和信息流管理带来的现实影响。",
+      "hn": {
+        "id": 50159993,
+        "type": "story",
+        "by": "jumpocelot",
+        "score": 277,
+        "descendants": 169,
+        "time": 1792457632,
+        "comments_url": "https://news.ycombinator.com/item?id=50159993"
+      },
+      "hot_score": 1.57,
+      "tags": [
+        "Politics"
+      ]
+    },
+    {
+      "title_en": "An ad-free Android TV",
+      "url": "https://cretezy.com/2026/ad-free-android-tv",
+      "title_zh": "无广告的 Android TV",
+      "created_display": "Created: Oct 19, 2026 / 15:32 PT",
+      "image_url": "https://cretezy.com/_astro/icon.ENfHzoRg_2cjnkz.webp",
+      "summary_en": "A project or article advocates for an ad-free Android TV experience, arguing it improves privacy, performance, and user focus. It discusses the tradeoffs of monetization, app discovery, and potential routes like custom ROMs or curated app ecosystems to remove ads.",
+      "summary_zh": "该文章倡议打造无广告的 Android TV 体验，主张提升隐私、性能与用户专注度。讨论了广告商业化、应用发现的权衡，以及通过定制 ROM 或精心管理的应用生态来实现无广告的可行路径。",
+      "hn": {
+        "id": 50158942,
+        "type": "story",
+        "by": "CraftThatBlock",
+        "score": 344,
+        "descendants": 153,
+        "time": 1792449157,
+        "comments_url": "https://news.ycombinator.com/item?id=50158942"
+      },
+      "tags": [
+        "Privacy"
+      ],
+      "hot_score": 1.55
+    },
+    {
+      "title_en": "MiniMax M3.1 Flash",
+      "url": "https://www.minimax.io/blog/minimax-m31f",
+      "title_zh": "MiniMax M3.1 Flash 发布",
+      "created_display": "Created: Oct 19, 2026 / 09:39 PT",
+      "image_url": "https://filecdn.minimax.chat/public/m31-flash-zh-1-1792403273121.png?x-oss-process=image/format,webp",
+      "summary_en": "MiniMax introduces the M3.1 Flash, a new hardware release likely targeting compact storage modules for embedded and edge devices. It highlights updated specs and practical uses, underscoring the ongoing push for high-performance, small-form-factor storage solutions.",
+      "summary_zh": "MiniMax 推出 M3.1 Flash 新型硬件，面向嵌入式与边缘设备的紧凑存储模块。文中强调更新规格与实际应用，折射出高性能小型存储的持续需求。",
+      "hn": {
+        "id": 50154540,
+        "type": "story",
+        "by": "jtg",
+        "score": 504,
+        "descendants": 213,
+        "time": 1792427949,
+        "comments_url": "https://news.ycombinator.com/item?id=50154540"
+      },
+      "tags": [
+        "Hardware"
+      ],
+      "hot_score": 1.43
+    },
+    {
+      "title_en": "I no longer care to work on any Ruby gems so I've archived all my repositories",
+      "url": "https://po-ru.com/2026/10/18/why-im-no-longer-updating-this-repository",
+      "title_zh": "我不再维护 Ruby gem，全部仓库已归档",
+      "created_display": "Created: Oct 19, 2026 / 09:37 PT",
+      "image_url": null,
+      "summary_en": "A developer announces archiving all Ruby gem repositories, effectively stepping back from maintenance. The move highlights open-source maintenance burnout and the fragility of ecosystems when maintainers disengage.",
+      "summary_zh": "一位开发者宣布将归档所有 Ruby gem 仓库，等于退出维护。此举凸显开源维护的倦怠问题，以及在维护者退出时生态系统的脆弱性。",
+      "hn": {
+        "id": 50154518,
+        "type": "story",
+        "by": "phoronixrly",
+        "score": 495,
+        "descendants": 484,
+        "time": 1792427830,
+        "comments_url": "https://news.ycombinator.com/item?id=50154518"
+      },
+      "tags": [
+        "Open Source",
+        "Career"
+      ],
+      "hot_score": 1.41
+    },
+    {
+      "title_en": "Wine ported to OpenBSD",
+      "url": "https://marc.info/?l=openbsd-ports&m=179236125692175",
+      "title_zh": "Wine 已移植到 OpenBSD",
+      "created_display": "Created: Oct 19, 2026 / 06:35 PT",
+      "image_url": null,
+      "summary_en": "Wine has been ported to OpenBSD, expanding Windows app compatibility on a security-focused OS. While progress improves accessibility for Windows software, users should expect occasional compatibility gaps and performance trade-offs.",
+      "summary_zh": "Wine 已成功移植到 OpenBSD，扩展了在这一注重安全的操作系统上运行 Windows 应用的能力。虽然兼容性在持续改善，但用户仍需预期个别程序可能存在不兼容或性能折中。",
+      "hn": {
+        "id": 50152307,
+        "type": "story",
+        "by": "iamnothere",
+        "score": 603,
+        "descendants": 203,
+        "time": 1792416934,
+        "comments_url": "https://news.ycombinator.com/item?id=50152307"
+      },
+      "tags": [
+        "Open Source",
+        "Security"
+      ],
+      "hot_score": 1.4
+    },
+    {
+      "title_en": "DeepSeek banned from U.S. federal civilian agencies under new DHS order",
+      "url": "https://www.reuters.com/technology/us-banning-chinese-ai-deepseek-government-agency-it-systems-2026-10-19/",
+      "title_zh": "DeepSeek 被 DHS 新令禁止进入美国联邦民用机构 IT 系统",
+      "created_display": "Created: Oct 19, 2026 / 09:16 PT",
+      "image_url": null,
+      "summary_en": "A DHS order bans DeepSeek from U.S. federal civilian agency IT systems, signaling tighter controls on AI tools used in government networks. The move could impact procurement decisions, vendor risk, and how agencies vet third-party AI solutions.",
+      "summary_zh": "国土安全部的新令禁止 DeepSeek 进入美国联邦民用机构的 IT 系统，表明政府对政府网络中 AI 工具的管控在加强。此举可能影响采购决策、供应商风险，以及各机构对第三方 AI 解决方案的评估流程。",
+      "hn": {
+        "id": 50154244,
+        "type": "story",
+        "by": "cmrdporcupine",
+        "score": 487,
+        "descendants": 405,
+        "time": 1792426606,
+        "comments_url": "https://news.ycombinator.com/item?id=50154244"
+      },
+      "tags": [
+        "Politics",
+        "Security",
+        "AI"
+      ],
+      "hot_score": 1.35
+    },
+    {
+      "title_en": "Ousted Savannah police officer gave ICE agent husband access to Flock system",
+      "url": "https://www.wjcl.com/article/savannah-police-officer-ice-agent-flock-access/74135816",
+      "title_zh": "被罢免的萨凡纳警官让 ICE 代理人丈夫获得 Flock 系统访问权限",
+      "created_display": "Created: Oct 19, 2026 / 03:45 PT",
+      "image_url": "https://kubrick.htvapps.com/htv-prod/images/59afd81a-246a-4dd8-be64-a0263cee209e.png?crop=1.00xw%3A1.00xh%3B0%2C0&resize=1200%3A*",
+      "summary_en": "Reports say an ousted Savannah police officer gave her ICE agent husband access to the Flock surveillance system. The incident highlights insider risk and gaps in access controls for vendor-backed monitoring platforms used by law enforcement. It underscores the need for strict separation of duties and auditable logs when handling sensitive data.",
+      "summary_zh": "据称，一名被罢免的萨凡纳警官让她的 ICE 代理人丈夫获得了 Flock 监控系统的访问权限。此事凸显了对敏感数据的内部风险与对供应商监控平台访问控制的不足，也强调在执法场景中需要严格的职责分离与可审计日志。",
+      "hn": {
+        "id": 50150750,
+        "type": "story",
+        "by": "DeepLogin",
+        "score": 645,
+        "descendants": 368,
+        "time": 1792406714,
+        "comments_url": "https://news.ycombinator.com/item?id=50150750"
+      },
+      "tags": [
+        "Security",
+        "Privacy"
+      ],
+      "hot_score": 1.27
+    },
+    {
+      "title_en": "I built a drone with only one motor [video]",
+      "url": "https://www.youtube.com/watch?v=Ndftcft6XhU",
+      "title_zh": "我用单个马达打造了一架无人机",
+      "created_display": "Created: Oct 19, 2026 / 02:05 PT",
+      "image_url": null,
+      "summary_en": "A maker built a drone with only one motor, a bold design that challenges conventional drone biomechanics. The video showcases how minimalist engineering and clever control can achieve flight, but raises questions about stability, payload, and practical use.",
+      "summary_zh": "创客用单电机打造了一架无人机，这一极简设计挑战了传统无人机的结构。视频展示了通过巧妙控制实现飞行的可能性，同时引发对稳定性、载荷与实际应用的讨论。",
+      "hn": {
+        "id": 50150089,
+        "type": "story",
+        "by": "hakonjdjohnsen",
+        "score": 646,
+        "descendants": 141,
+        "time": 1792400707,
+        "comments_url": "https://news.ycombinator.com/item?id=50150089"
+      },
+      "tags": [
+        "Hardware"
+      ],
+      "hot_score": 1.16
+    },
+    {
+      "title_en": "France's supermarket fridges were vulnerable online for months",
+      "url": "https://ipinfo.io/blog/france-fridges-hack",
+      "title_zh": "法国超市冷藏柜数月暴露在网上存在漏洞",
+      "created_display": "Created: Oct 19, 2026 / 17:00 PT",
+      "image_url": "https://website-cdn.assets.ipinfo.io/images/og/og_blog.png",
+      "summary_en": "Security researchers found that connected fridge units in French supermarkets had misconfigurations or insecure access exposed online for months, enabling potential manipulation of inventory data or remote control. The incident underscores how consumer hardware in retail can be entry points for cyberattacks, and highlights need for better IoT management and firmware hygiene.",
+      "summary_zh": "研究人员发现法国多家超市的连网冷柜数月暴露在公开网络中，可能被未经授权的访问者远程操控或篡改库存数据。事件暴露零售业物联网设备的安全薄弱点，也凸显加强设备管理、固件更新和网络分段的重要性。",
+      "hn": {
+        "id": 50159616,
+        "type": "story",
+        "by": "emot",
+        "score": 223,
+        "descendants": 203,
+        "time": 1792454449,
+        "comments_url": "https://news.ycombinator.com/item?id=50159616"
+      },
+      "tags": [
+        "Security",
+        "Hardware"
+      ],
+      "hot_score": 1.15
+    },
+    {
+      "title_en": "Timestral: Mistral's time-series foundation models",
+      "url": "https://mistral.ai/news/timestral/",
+      "title_zh": "Timestral：Mistral 的时序基础模型",
+      "created_display": "Created: Oct 19, 2026 / 02:59 PT",
+      "image_url": "https://mistral.ai/cms-media/api/media/file/og-timestral.webp",
+      "summary_en": "Timestral is Mistral's family of time-series foundation models designed for forecasting tasks, enabling scalable analytics on structured data. By specializing in temporal patterns, these models aim to outperform generic LLMs in finance, IoT, and operations.",
+      "summary_zh": "Timestral 是 Mistral 面向时间序列的基础模型家族，专注于预测任务。通过对时间模式的建模，这类模型为金融、物联网与运营数据的分析提供可扩展的 AI 解决方案，可能在某些领域优于通用 LLM。",
+      "hn": {
+        "id": 50150434,
+        "type": "story",
+        "by": "groar",
+        "score": 605,
+        "descendants": 116,
+        "time": 1792403972,
+        "comments_url": "https://news.ycombinator.com/item?id=50150434"
+      },
+      "tags": [
+        "AI",
+        "Finance",
+        "Data"
+      ],
+      "hot_score": 1.14
+    },
+    {
+      "title_en": "Ask HN: How to deal with shipping AI-written code you don't understand?",
+      "url": "https://news.ycombinator.com/item?id=50151036",
+      "title_zh": "Ask HN：如何处理你不完全理解的 AI 生成代码？",
+      "created_display": "Created: Oct 19, 2026 / 04:24 PT",
+      "image_url": null,
+      "summary_en": "Ask HN thread on handling AI-written code when you don’t fully understand it, covering risk assessment, documentation, and governance practices.",
+      "summary_zh": "关于在不了解 AI 生成代码细节时如何处理的讨论，涵盖风险评估、文档与治理实践。",
+      "hn": {
+        "id": 50151036,
+        "type": "story",
+        "by": "rzk",
+        "score": 557,
+        "descendants": 668,
+        "time": 1792409074,
+        "comments_url": "https://news.ycombinator.com/item?id=50151036"
+      },
+      "tags": [
+        "Programming",
+        "AI"
+      ],
+      "hot_score": 1.14
+    },
+    {
+      "title_en": "Putting Linux on my RTX Spark laptop because I don't have a Microsoft account",
+      "url": "https://josie.lol/blog/linux-rtx-spark",
+      "title_zh": "没有微软账户就把 RTX Spark 笔记本装上 Linux",
+      "created_display": "Created: Oct 19, 2026 / 14:08 PT",
+      "image_url": "https://josie.lol/screenshot.png?v=20261019",
+      "summary_en": "Linux on the RTX Spark laptop is used to avoid Microsoft account requirements. The post recounts the installation, hardware compatibility, and day-to-day usability, illustrating Linux viability on niche hardware and privacy benefits of not signing into Windows.",
+      "summary_zh": "在 RTX Spark 笔记本上安装 Linux，以绕开微软账户的限制。文中描述了安装过程、硬件兼容性与日常使用体验，凸显在这类硬件上的 Linux 可行性以及避免 Windows 登录带来的隐私与控制优势。",
+      "hn": {
+        "id": 50158100,
+        "type": "story",
+        "by": "pfeifferj",
+        "score": 267,
+        "descendants": 133,
+        "time": 1792444098,
+        "comments_url": "https://news.ycombinator.com/item?id=50158100"
+      },
+      "tags": [
+        "Privacy",
+        "Open Source",
+        "Hardware"
+      ],
+      "hot_score": 1.07
+    },
+    {
+      "title_en": "Ukraine claims first drone evacuation of wounded soldier",
+      "url": "https://www.nbcnews.com/world/ukraine/ukraine-first-drone-evacuation-wounded-soldier-frontlines-hexacopter-rcna604310",
+      "title_zh": "乌克兰宣布首次用无人机从前线撤离受伤士兵",
+      "created_display": "Created: Oct 19, 2026 / 08:31 PT",
+      "image_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261019-drone-rs-bd64e5.jpg",
+      "summary_en": "Ukraine reports the first drone-assisted evacuation of a wounded soldier from the front lines, signaling a potential new use case for unmanned aircraft in casualty extraction under combat conditions. While not replacing medevac helicopters, it could speed triage, reduce risk to human responders, and influence battlefield logistics and tech procurement.",
+      "summary_zh": "乌克兰声称在前线首次实现受伤士兵的无人机撤离，标志着无人机在战场救援中的新应用。该做法并非取代直升机医撤，但可能加速分级救治、降低人类救援人员暴露风险，并影响未来的战场后勤与相关技术采购。",
+      "hn": {
+        "id": 50153664,
+        "type": "story",
+        "by": "yzydserd",
+        "score": 394,
+        "descendants": 298,
+        "time": 1792423894,
+        "comments_url": "https://news.ycombinator.com/item?id=50153664"
+      },
+      "tags": [
+        "Health"
+      ],
+      "hot_score": 1.04
+    },
+    {
+      "title_en": "Linux 7.3",
+      "url": "https://lwn.net/Articles/1101143/",
+      "title_zh": "Linux 7.3 版本发布",
+      "created_display": "Created: Oct 19, 2026 / 00:23 PT",
+      "image_url": "https://static.lwn.net/images/logo/barepenguin-70.webp",
+      "summary_en": "Linux 7.3 continues the ongoing 7.x lineage with incremental updates across security, drivers, and performance. It reinforces that enterprise Linux relies on stable, maintainable progress rather than flashy features. System administrators should test new kernels in staging before upgrading production environments.",
+      "summary_zh": "Linux 7.3 作为 7.x 系列的持续更新，带来在安全、驱动和性能方面的渐进改进。企业级 Linux 依赖的是稳定、可维护的升级，而非浮夸的新特性。系统管理员在升级生产环境前应在测试环境完成兼容性验证。",
+      "hn": {
+        "id": 50149392,
+        "type": "story",
+        "by": "cjd8",
+        "score": 624,
+        "descendants": 290,
+        "time": 1792394637,
+        "comments_url": "https://news.ycombinator.com/item?id=50149392"
+      },
+      "tags": [
+        "Open Source",
+        "DevOps",
+        "Security"
+      ],
+      "hot_score": 1.03
+    },
+    {
+      "title_en": "How abliterated models can get you pwned",
+      "url": "https://projectdiscovery.io/research/how-abliterated-models-can-get-you-pwned",
+      "title_zh": "被抹除的模型如何让你中招",
+      "created_display": "Created: Oct 19, 2026 / 16:08 PT",
+      "image_url": "https://projectdiscovery.io/images/ProjectDiscovery_share.png",
+      "summary_en": "Researchers discuss how ablated or simplified models can be exploited to compromise systems, bypass safeguards, or leak data. The piece outlines attack vectors and practical mitigations for deploying ML models safely.",
+      "summary_zh": "研究者讨论被抹除/简化的模型如何被利用，以绕过安全防护、窃取数据或造成系统被攻破。文中列出攻击向量及在部署 ML 模型时可采取的实际缓解措施。",
+      "hn": {
+        "id": 50159245,
+        "type": "story",
+        "by": "chatmasta",
+        "score": 211,
+        "descendants": 127,
+        "time": 1792451332,
+        "comments_url": "https://news.ycombinator.com/item?id=50159245"
+      },
+      "tags": [
+        "AI",
+        "Security"
+      ],
+      "hot_score": 1.01
+    },
+    {
+      "title_en": "Android apps running native on macOS",
+      "url": "https://github.com/kksimp/Mac.apk",
+      "title_zh": "Android 应用在 macOS 上原生运行",
+      "created_display": "Created: Oct 19, 2026 / 09:45 PT",
+      "image_url": "https://opengraph.githubassets.com/f5881ec2a90d87f6fd04da7dfe17cbec59e511b6b43b6f8ed683bc89213e4776/kksimp/Mac.apk",
+      "summary_en": "A project demonstrates running Android apps natively on macOS, potentially removing emulation overhead. If mature, this could blur platform boundaries for developers and users, enabling smoother access to Android ecosystems on Apple Silicon.",
+      "summary_zh": "一个项目展示在 macOS 上原生运行 Android 应用，或许能消除仿真开销。若成熟，将模糊开发者与用户的跨平台边界，使 Android 生态在 Apple Silicon 上获得更顺畅的体验。",
+      "hn": {
+        "id": 50154624,
+        "type": "story",
+        "by": "flocked",
+        "score": 339,
+        "descendants": 183,
+        "time": 1792428330,
+        "comments_url": "https://news.ycombinator.com/item?id=50154624"
+      },
+      "tags": [
+        "Programming"
+      ],
+      "hot_score": 0.97
+    },
+    {
+      "title_en": "CERN and Mistral sign a statement of intent to establish a strategic partnership",
+      "url": "https://home.cern/cern-and-mistral-join-forces-to-accelerate-ai-for-science/",
+      "title_zh": "CERN 与 Mistral 签署建立战略伙伴关系的意向书",
+      "created_display": "Created: Oct 19, 2026 / 08:28 PT",
+      "image_url": "https://home.cern/wp-content/themes/cern/public/images/logo-white.svg",
+      "summary_en": "CERN and Mistral sign a statement of intent to collaborate on AI for science, aiming to accelerate research with advanced AI models and shared compute resources. The partnership signals how AI could speed up data analysis in physics and related fields.",
+      "summary_zh": "CERN 与 Mistral 签署战略伙伴关系意向书，计划在科学领域共同推动 AI 的应用，通过先进模型与共享计算资源加速研究。此举体现 AI 有望提升物理等学科的数据分析效率。",
+      "hn": {
+        "id": 50153630,
+        "type": "story",
+        "by": "kensai",
+        "score": 354,
+        "descendants": 59,
+        "time": 1792423704,
+        "comments_url": "https://news.ycombinator.com/item?id=50153630"
+      },
+      "tags": [
+        "AI",
+        "Science"
+      ],
+      "hot_score": 0.93
+    },
+    {
+      "title_en": "Mercury 3: Diffusion at scale",
+      "url": "https://www.inceptionlabs.ai/blog/introducing-mercury-3",
+      "title_zh": "Mercury 3：大规模扩散模型",
+      "created_display": "Created: Oct 19, 2026 / 10:27 PT",
+      "image_url": "https://framerusercontent.com/images/Zgp1I1AaILVgkXF4Xlk7iImaE.png?width=1200&height=630",
+      "summary_en": "Mercury 3 aims to scale diffusion-model workloads, delivering higher throughput and more efficient resource use for large-scale image generation. It reflects a broader push to production-grade diffusion at enterprises, with implications for cost, latency, and model deployment in AI pipelines.",
+      "summary_zh": "Mercury 3 旨在实现扩散模型工作负载的大规模扩展，提升吞吐量并提高大规模图像生成的资源利用效率。此举反映了企业级生产化扩散模型的趋势，对成本、时延和AI流水线中的模型部署产生深远影响。",
+      "hn": {
+        "id": 50155245,
+        "type": "story",
+        "by": "cmrdporcupine",
+        "score": 252,
+        "descendants": 91,
+        "time": 1792430831,
+        "comments_url": "https://news.ycombinator.com/item?id=50155245"
+      },
+      "hot_score": 0.76,
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "title_en": "The reverts will continue until morale improves",
+      "url": "http://peter.eisentraut.org/blog/2026/10/09/the-reverts-will-continue-until-morale-improves",
+      "title_zh": "回滚将继续，直至士气改善",
+      "created_display": "Created: Oct 19, 2026 / 11:42 PT",
+      "image_url": null,
+      "summary_en": "This piece argues that frequent code reversions are symptomatic of governance and morale issues in the development team. It suggests balancing stability with progress, noting that ongoing reverts can undermine confidence and slow feature delivery.",
+      "summary_zh": "此文将频繁回滚视为治理与士气问题的信号，强调在稳定与进展之间寻求平衡。持续回滚可能削弱团队信心并拖慢新功能交付。",
+      "hn": {
+        "id": 50156206,
+        "type": "story",
+        "by": "hans_castorp",
+        "score": 229,
+        "descendants": 45,
+        "time": 1792435352,
+        "comments_url": "https://news.ycombinator.com/item?id=50156206"
+      },
+      "hot_score": 0.75,
+      "tags": [
+        "Culture"
+      ]
+    },
+    {
+      "title_en": "Germany's far-right AfD: half a million internal documents leaked",
+      "url": "https://hexane.cc/",
+      "title_zh": "德国极右 AfD 内部约50万份文件泄露",
+      "created_display": "Created: Oct 19, 2026 / 13:31 PT",
+      "image_url": null,
+      "summary_en": "Half a million internal AfD documents were leaked, revealing details of the party's internal organization, operations, and data practices. The leak could affect fundraising oversight, internal power dynamics, and how the party targets voters.",
+      "summary_zh": "大约50万份 AfD 内部文件被泄露，揭示该党的内部组织、运作和数据实践细节。此次泄露可能影响资金监管、内部权力结构，以及对选民动员的策略。",
+      "hn": {
+        "id": 50157664,
+        "type": "story",
+        "by": "else42",
+        "score": 188,
+        "descendants": 89,
+        "time": 1792441865,
+        "comments_url": "https://news.ycombinator.com/item?id=50157664"
+      },
+      "hot_score": 0.71,
+      "tags": [
+        "Politics",
+        "Security"
+      ]
+    },
+    {
+      "title_en": "OpenBSD 8.0 release will have inteldrm/radeondrm/amdgpu drivers from Linux 6.18",
+      "url": "https://bsd.network/@brynet/117407035545900963",
+      "title_zh": "OpenBSD 8.0 将集成 Linux 6.18 的 inteldrm/radeondrm/amdgpu 驱动",
+      "created_display": "Created: Oct 19, 2026 / 14:11 PT",
+      "image_url": "https://media.bsd.network/accounts/avatars/000/001/413/original/d113a02fb84e4f5a.jpg",
+      "summary_en": "OpenBSD 8.0 will import Linux 6.18 GPU drivers (inteldrm, radeondrm, amdgpu), expanding support for Intel/AMD GPUs. This move improves hardware compatibility and potentially performance on OpenBSD, but raises questions about Linux code dependencies, licensing, and security boundaries.",
+      "summary_zh": "OpenBSD 8.0 将把 Linux 6.18 的 GPU 驱动（inteldrm、radeondrm、amdgpu）引入到自身代码库中，扩大对英特尔/AMD 显卡的支持。这一举措提升了硬件兼容性与潜在性能，但也带来对 Linux 代码依赖、许可证与安全边界的讨论。",
+      "hn": {
+        "id": 50158138,
+        "type": "story",
+        "by": "doener",
+        "score": 174,
+        "descendants": 43,
+        "time": 1792444305,
+        "comments_url": "https://news.ycombinator.com/item?id=50158138"
+      },
+      "tags": [
+        "Hardware",
+        "Open Source",
+        "Security"
+      ],
+      "hot_score": 0.7
+    },
+    {
+      "title_en": "Alternatives to animal testing are finally taking off",
+      "url": "https://spectrum.ieee.org/alternatives-to-animal-testing",
+      "title_zh": "替代动物测试正在显著推进",
+      "created_display": "Created: Oct 19, 2026 / 04:10 PT",
+      "image_url": "https://spectrum.ieee.org/media-library/a-photo-shows-a-hand-holding-a-small-clear-plastic-device-with-red-and-blue-lines-inside-it.jpg?id=67819184&width=1200&height=600&coordinates=0%2C834%2C0%2C834",
+      "summary_en": "Advances such as organ-on-a-chip, sophisticated in vitro models, and in silico simulations are accelerating the replacement of animal testing. Regulatory acceptance is growing, reducing reliance on animal data in drug development and safety assessment.",
+      "summary_zh": "器官芯片、先进体外模型以及计算模拟等技术正在加速替代动物测试的进展。监管认可度提升，药物开发与安全评估中对动物数据的依赖正在下降。",
+      "hn": {
+        "id": 50150927,
+        "type": "story",
+        "by": "rbanffy",
+        "score": 341,
+        "descendants": 110,
+        "time": 1792408254,
+        "comments_url": "https://news.ycombinator.com/item?id=50150927"
+      },
+      "tags": [
+        "Science",
+        "Health",
+        "Hardware",
+        "Politics"
+      ],
+      "hot_score": 0.69
+    },
+    {
+      "title_en": "Starcraft: Ashfall",
+      "url": "https://starcraft-shooter-2026.pages.dev/",
+      "title_zh": "星际争霸：Ashfall",
+      "created_display": "Created: Oct 18, 2026 / 18:18 PT",
+      "image_url": "https://starcraft-shooter-2026.pages.dev/share-card.jpg",
+      "summary_en": "A new StarCraft shooter titled Ashfall promises a cross-genre experience, blending RTS roots with shooter mechanics. Early previews and development chatter point to innovative creature design and competitive modes that could energize the franchise.",
+      "summary_zh": "一款名为 Ashfall 的星际争霸衍生射击游戏正在开发，尝试在经典 RTS 上引入射击玩法。初步预览与开发讨论显示出独特的生物设计和竞争模式，或将为系列注入新活力。",
+      "hn": {
+        "id": 50147233,
+        "type": "story",
+        "by": "debo_",
+        "score": 544,
+        "descendants": 180,
+        "time": 1792372682,
+        "comments_url": "https://news.ycombinator.com/item?id=50147233"
+      },
+      "tags": [
+        "Gaming"
+      ],
+      "hot_score": 0.67
+    },
+    {
+      "title_en": "Namecheap just seized and disabled all my domains",
+      "url": "https://www.reddit.com/r/sysadmin/comments/1x8cycd/namecheap_just_seized_and_disabled_all_my_domains/",
+      "title_zh": "Namecheap 竟然没收并禁用我所有的域名",
+      "created_display": "Created: Oct 18, 2026 / 09:56 PT",
+      "image_url": null,
+      "summary_en": "A user claims Namecheap seized and disabled all domains, raising questions about registrar control, ownership, and due process.",
+      "summary_zh": "用户称 Namecheap 竟然没收并禁用了他所有的域名，暴露了注册商对域名控制、所有权与流程的潜在风险。",
+      "hn": {
+        "id": 50142866,
+        "type": "story",
+        "by": "sashk",
+        "score": 689,
+        "descendants": 359,
+        "time": 1792342616,
+        "comments_url": "https://news.ycombinator.com/item?id=50142866"
+      },
+      "tags": [
+        "Legal",
+        "Privacy"
+      ],
+      "hot_score": 0.61
+    },
+    {
+      "title_en": "Maybe There Was an Egg Cartel After All",
+      "url": "https://www.politico.com/news/magazine/2026/10/18/egg-prices-conspiracy-affordability-issue-01100411",
+      "title_zh": "也许真的存在蛋价卡特尔",
+      "created_display": "Created: Oct 19, 2026 / 07:31 PT",
+      "image_url": null,
+      "summary_en": "Politico examines whether egg price volatility points to cartel-like conduct in a staple market.",
+      "summary_zh": "《政治家》刊文探讨蛋价波动是否暴露出基础食品市场的卡特尔行为。文章分析市场力量与供应动态如何影响价格可负担性，以及监测价格所依赖的数据信号。",
+      "hn": {
+        "id": 50152970,
+        "type": "story",
+        "by": "iamnothere",
+        "score": 223,
+        "descendants": 131,
+        "time": 1792420271,
+        "comments_url": "https://news.ycombinator.com/item?id=50152970"
+      },
+      "tags": [
+        "Politics",
+        "Business"
+      ],
+      "hot_score": 0.55
+    },
+    {
+      "title_en": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
+      "url": "https://arxiv.org/abs/2610.18861",
+      "title_zh": "混合推理代理：在潜在空间思考、通过文本执行行动的 LLM 代理",
+      "created_display": "Created: Oct 18, 2026 / 13:48 PT",
+      "image_url": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+      "summary_en": "Researchers propose Hybrid Reasoning Agents that operate by thinking in a latent space while taking actions via text. The approach blends neural representations with text-based control to enable scalable, interpretable planning in complex tasks.",
+      "summary_zh": "研究者提出混合推理代理，其在潜在空间中进行推理，并通过文本执行行动。这种方法将神经表示与文本控制结合，提升在复杂任务中的可扩展性与可解释性。",
+      "hn": {
+        "id": 50145337,
+        "type": "story",
+        "by": "allinonai",
+        "score": 511,
+        "descendants": 238,
+        "time": 1792356494,
+        "comments_url": "https://news.ycombinator.com/item?id=50145337"
+      },
+      "tags": [
+        "AI"
+      ],
+      "hot_score": 0.52
+    },
+    {
+      "title_en": "Let's Encrypt is adding two additional remote perspectives for domain validation",
+      "url": "https://community.letsencrypt.org/t/lets-encrypt-is-adding-two-additional-remote-perspectives-for-domain-validation/252166",
+      "title_zh": "Let's Encrypt 为域名验证增加两种远程验证视角",
+      "created_display": "Created: Oct 19, 2026 / 03:53 PT",
+      "image_url": "https://global.discourse-cdn.com/letsencrypt/original/3X/4/c/4c5760509a18adfc3bc657ba8bd49b301faaa66b.png",
+      "summary_en": "Let's Encrypt plans to add two additional remote perspectives for domain validation to improve robustness and accessibility. The move aims to diversify validation pathways, reduce reliance on a single validation method, and help users in constrained networks.",
+      "summary_zh": "Let’s Encrypt 将为域名验证新增两种远程验证视角，以提升鲁棒性与可访问性。此举旨在丰富验证路径，降低对单一验证方式的依赖，并帮助在受限网络环境中完成验证。",
+      "hn": {
+        "id": 50150809,
+        "type": "story",
+        "by": "gslin",
+        "score": 264,
+        "descendants": 95,
+        "time": 1792407219,
+        "comments_url": "https://news.ycombinator.com/item?id=50150809"
+      },
+      "tags": [
+        "Security",
+        "Web"
+      ],
+      "hot_score": 0.52
+    },
+    {
+      "title_en": "Plex vulnerabilities being exploited in the wild to drop a cryptominer",
+      "url": "http://www.boredhackerblog.info/2026/10/plex-vulnerabilities-being-exploited-in.html",
+      "title_zh": "Plex 漏洞在现实环境中被利用来部署矿工",
+      "created_display": "Created: Oct 19, 2026 / 06:36 PT",
+      "image_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi3tUKB_Vp0xqfjedxvomT5LC4IfbyHTmtcE5mc_57DEPoEXL9DSq7f2T4HMJ26wf-VkPNPyBKzIm5jMIXoWzT4Rcchapu9cpzeT14d1MYmHhhyphenhyphenlfY0ASPbRYzyumorq6xHJ-0WMIarOSDjhpa_W0XI6o8WuIp_T1wzQgKzIGfFdiwMdf5FAiffEzavMK4/w1200-h630-p-k-no-nu/image.png",
+      "summary_en": "Plex vulnerabilities are being exploited in the wild to drop a cryptominer, highlighting active threat activity in consumer media server software and the need to patch promptly.",
+      "summary_zh": "Plex 漏洞在实际环境中被利用以部署加密货币矿工，凸显消费者媒体服务器软件的实时威胁活动与及时打补丁的必要性。",
+      "hn": {
+        "id": 50152321,
+        "type": "story",
+        "by": "mindracer",
+        "score": 210,
+        "descendants": 103,
+        "time": 1792417003,
+        "comments_url": "https://news.ycombinator.com/item?id=50152321"
+      },
+      "tags": [
+        "Security"
+      ],
+      "hot_score": 0.49
+    },
+    {
+      "title_en": "Europe EV sales rose 70.3% in September, 32.6% of market share",
+      "url": "https://www.reuters.com/business/europe-ev-sales-rose-70-september-almost-30-market-share-2026-10-19/",
+      "title_zh": "欧洲电动车九月销量增58.3%，市场份额达32.6%",
+      "created_display": "Created: Oct 19, 2026 / 10:30 PT",
+      "image_url": null,
+      "summary_en": "European EV sales surged 70.3% in September, capturing 32.6% of the market as automakers accelerate electrification. The momentum underscores policy support, charging infrastructure expansion, and the ongoing shift away from internal combustion engines across Europe.",
+      "summary_zh": "欧洲电动车九月销量同比上涨约70.3%，市场份额达到32.6%。这一势头反映了政策支持、充电基础设施扩张以及欧洲向内燃机车逐步退出的转型。",
+      "hn": {
+        "id": 50155291,
+        "type": "story",
+        "by": "giuliomagnifico",
+        "score": 162,
+        "descendants": 165,
+        "time": 1792431026,
+        "comments_url": "https://news.ycombinator.com/item?id=50155291"
+      },
+      "hot_score": 0.49,
+      "tags": [
+        "Business",
+        "DevOps",
+        "Energy"
+      ]
+    },
+    {
+      "title_en": "Someone behind the software",
+      "url": "https://karrisaarinen.com/posts/someone-behind-the-software/",
+      "title_zh": "软件背后的人",
+      "created_display": "Created: Oct 18, 2026 / 09:32 PT",
+      "image_url": "https://karrisaarinen.com/static/linear-assets/081de7ffce667bb13cb63d8b2a1d312e19d747ea1d3818af2c5cc1e5a9445e21.webp",
+      "summary_en": "It argues that progress in tech depends as much on people and processes as on algorithms or architectures.",
+      "summary_zh": "文本聚焦于塑造软件的人员与组织因素，强调工具选择、团队激励等比代码更能决定成败。它认为科技进步在很大程度上取决于人和流程，而不仅仅是算法或架构。",
+      "hn": {
+        "id": 50142573,
+        "type": "story",
+        "by": "tosh",
+        "score": 546,
+        "descendants": 195,
+        "time": 1792341120,
+        "comments_url": "https://news.ycombinator.com/item?id=50142573"
+      },
+      "tags": [
+        "Culture"
+      ],
+      "hot_score": 0.48
+    },
+    {
+      "title_en": "Degraded availability for GitHub Actions, GitHub Pages and Webhooks",
+      "url": "https://www.githubstatus.com/incidents/8tzbpcnl75jp",
+      "title_zh": "GitHub Actions、Pages 与 Webhooks 服务可用性下降",
+      "created_display": "Created: Oct 19, 2026 / 08:52 PT",
+      "image_url": "https://dka575ofm4ao0.cloudfront.net/pages-twitter_logos/original/36420/GitHub-Mark-120px-plus.png",
+      "summary_en": "GitHub Actions, Pages, and Webhooks experienced degraded availability, disrupting CI/CD pipelines and site deployments. The incident highlights reliance on cloud services and the ripple effects when critical development tooling falters.",
+      "summary_zh": "GitHub Actions、Pages 与 Webhooks 服 务可用性下降，打断持续集成/部署流程和站点部署。事件凸显对云端服务的依赖，以及关键开发工具故障时的连锁影响。",
+      "hn": {
+        "id": 50153934,
+        "type": "story",
+        "by": "gateauxd",
+        "score": 157,
+        "descendants": 131,
+        "time": 1792425146,
+        "comments_url": "https://news.ycombinator.com/item?id=50153934"
+      },
+      "tags": [
+        "DevOps",
+        "Programming"
+      ],
+      "hot_score": 0.42
+    },
+    {
+      "title_en": "Show HN: Qwen3-4B with the AI writing tics trained out",
+      "url": "https://100toolkit.com/blog/deslop-model/",
+      "title_zh": "Show HN：Qwen3-4B 去除写作口癖的版本",
+      "created_display": "Created: Oct 19, 2026 / 06:00 PT",
+      "image_url": "https://100toolkit.com/blog/deslop-model/og.png",
+      "summary_en": "Show HN showcases a Qwen3-4B variant trained to suppress common AI writing tics, resulting in more natural, readable output. It demonstrates progress toward less artificial-sounding generation and may influence model evaluation.",
+      "summary_zh": "Show HN 展示了对 Qwen3-4B 的变体，训练目标是抑制常见的 AI 写作口癖，从而产出更自然、易读的文本。表明了让生成更具自然感的进展，并可能影响对模型的评估。",
+      "hn": {
+        "id": 50151928,
+        "type": "story",
+        "by": "erikkannike",
+        "score": 154,
+        "descendants": 110,
+        "time": 1792414847,
+        "comments_url": "https://news.ycombinator.com/item?id=50151928"
+      },
+      "tags": [
+        "Show HN",
+        "AI"
+      ],
+      "hot_score": 0.34
+    },
+    {
+      "title_en": "William Gibson and the trademarking of cyberspace",
+      "url": "https://colo.to/cyberspace.html",
+      "title_zh": "威廉·吉布森与网络空间的商标化",
+      "created_display": "Created: Oct 18, 2026 / 16:37 PT",
+      "image_url": "https://colo.to/pix/guell.jpg",
+      "summary_en": "William Gibson coined cyberspace in his cyberpunk fiction, helping define a cultural concept that later became a marketable asset. The article traces how the term migrated from literary prose to trademarked real estate, shaping IP strategy and branding in tech and policy. It highlights the friction between imaginative language and legal ownership in the digital era.",
+      "summary_zh": "威廉·吉布森在科幻作品中首次提出“网络空间”这一概念，塑造了一个后来成为品牌资产的文化术语。文章追溯这一术语如何从文学创作转变为可注册商标，影响科技公司在品牌与法务上的策略。揭示了想象语言与数字时代法律产权之间的张力。",
+      "hn": {
+        "id": 50146625,
+        "type": "story",
+        "by": "Eric_Gullichsen",
+        "score": 283,
+        "descendants": 124,
+        "time": 1792366677,
+        "comments_url": "https://news.ycombinator.com/item?id=50146625"
+      },
+      "tags": [
+        "Culture",
+        "Legal"
+      ],
+      "hot_score": 0.32
+    },
+    {
+      "title_en": "If you don't run your own LLM proxy, how do you know whats going on?",
+      "url": "https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/",
+      "title_zh": "如果你不运行自己的 LLM 代理，你如何知道发生了什么？",
+      "created_display": "Created: Oct 18, 2026 / 14:09 PT",
+      "image_url": null,
+      "summary_en": "Relying on hosted LLM APIs hides the model's behavior and data flows; running your own proxy gives visibility into prompts, responses, and potential data leakage. It enables you to enforce policies, audit usage, and protect privacy, especially in regulated or sensitive environments. The piece argues that governance starts with visibility into the model's operations.",
+      "summary_zh": "依赖云端 LLM API 让你看不到模型内部的行为和数据流动。自行搭建代理可让你监控输入输出、发现数据泄露风险，并执行策略与合规审查，尤其在受监管或敏感场景中尤为重要。",
+      "hn": {
+        "id": 50145507,
+        "type": "story",
+        "by": "amrrs",
+        "score": 298,
+        "descendants": 213,
+        "time": 1792357752,
+        "comments_url": "https://news.ycombinator.com/item?id=50145507"
+      },
+      "tags": [
+        "Privacy",
+        "Security",
+        "AI",
+        "Politics"
+      ],
+      "hot_score": 0.31
+    },
+    {
+      "title_en": "DeepSeek V4.1 Flash 1017 (Max)",
+      "url": "https://artificialanalysis.ai/models/deepseek-v4-1-flash-1017",
+      "title_zh": "DeepSeek V4.1 Flash 1017（Max）",
+      "created_display": "Created: Oct 18, 2026 / 21:41 PT",
+      "image_url": "https://artificialanalysis.ai/en/models/deepseek-v4-1-flash-1017/opengraph-image?3850766eb2d567bc",
+      "summary_en": "DeepSeek v4.1 introduces the Flash 1017 (Max) update, signaling a performance and feature refresh.",
+      "summary_zh": "DeepSeek v4.1 引入 Flash 1017（Max）更新，标志着性能与功能的提升。",
+      "hn": {
+        "id": 50148452,
+        "type": "story",
+        "by": "theanonymousone",
+        "score": 188,
+        "descendants": 91,
+        "time": 1792384906,
+        "comments_url": "https://news.ycombinator.com/item?id=50148452"
+      },
+      "tags": [
+        "AI"
+      ],
+      "hot_score": 0.27
+    },
+    {
+      "title_en": "Tmux and Claude Code: Sessions, Send-Keys, and the Ceiling",
+      "url": "https://crystl.dev/guides/tmux-for-ai-agents/",
+      "title_zh": "Tmux 与 Claude Code：会话管理、发送按键与瓶颈",
+      "created_display": "Created: Oct 18, 2026 / 22:55 PT",
+      "image_url": "https://crystl.dev/og.png?v=3",
+      "summary_en": "Using tmux to host Claude Code sessions enables managing AI-assisted coding workflows inside terminal multiplexed environments. The guide covers sessions, sending keys, and practical limits, highlighting throughput and latency bottlenecks.",
+      "summary_zh": "在 tmux 会话中运行 Claude Code，可将 AI 辅助的编码工作流整合进终端多路复用环境。文章介绍如何管理会话、发送按键，以及当前的吞吐与延迟瓶颈。",
+      "hn": {
+        "id": 50148855,
+        "type": "story",
+        "by": "ankitg12",
+        "score": 161,
+        "descendants": 123,
+        "time": 1792389331,
+        "comments_url": "https://news.ycombinator.com/item?id=50148855"
+      },
+      "tags": [
+        "Programming",
+        "AI"
+      ],
+      "hot_score": 0.24
+    },
+    {
+      "title_en": "Free Pascal compiler now supports dynamic packages",
+      "url": "https://www.getlazarus.org/dynamic/",
+      "title_zh": "Free Pascal 编译器现已支持动态包",
+      "created_display": "Created: Oct 18, 2026 / 11:48 PT",
+      "image_url": null,
+      "summary_en": "The Free Pascal compiler now supports dynamic packages, enabling runtime-loading of modular components and plugins. This makes it easier to distribute extensible Pascal apps and reduces binary bloat by loading code on demand, aligning with Lazarus/LF project workflows.",
+      "summary_zh": "Free Pascal 编译器现已支持动态包，允许在运行时加载模块和插件，提升可扩展性并降低初始二进制体积。此举与 Lazarus、跨平台 Pascal 应用的生态更紧密结合。",
+      "hn": {
+        "id": 50144066,
+        "type": "story",
+        "by": "sysrpl",
+        "score": 200,
+        "descendants": 52,
+        "time": 1792349284,
+        "comments_url": "https://news.ycombinator.com/item?id=50144066"
+      },
+      "tags": [
+        "Programming",
+        "Open Source"
+      ],
+      "hot_score": 0.19
+    },
+    {
+      "title_en": "Florida's HOAs and condo associations are making the housing crisis worse",
+      "url": "https://hoaspy.com/hoa/fl/florida-hoa-housing-crisis.html",
+      "title_zh": "佛罗里达州的 HOA 与公寓协会正在加剧住房危机",
+      "created_display": "Created: Oct 18, 2026 / 11:40 PT",
+      "image_url": "https://hoaspy.com/og-image.png",
+      "summary_en": "Florida HOAs and condo associations constrain housing supply via rules and fees, worsening the state's housing affordability crisis. The piece argues for policy reforms and smarter, scalable housing development approaches.",
+      "summary_zh": "佛罗里达州的业主协会和公寓协会通过规则和费用限制住房供应，进一步加剧了该州的可负担性危机。文章主张进行政策改革与更高效、可扩展的住房开发。",
+      "hn": {
+        "id": 50144005,
+        "type": "story",
+        "by": "lovewins",
+        "score": 198,
+        "descendants": 398,
+        "time": 1792348816,
+        "comments_url": "https://news.ycombinator.com/item?id=50144005"
+      },
+      "tags": [
+        "Politics",
+        "Business"
+      ],
+      "hot_score": 0.19
+    },
+    {
+      "title_en": "Superlite: A Faster Alternatie to Superpowers",
+      "url": "https://contextfirst.blog/superlite-hand-an-agent-a-spec/",
+      "title_zh": "Superlite：比 Superpowers 更快的替代方案",
+      "created_display": "Created: Oct 18, 2026 / 19:01 PT",
+      "image_url": "https://static.ghost.org/v5.0.0/images/publication-cover.jpg",
+      "summary_en": "Superlite offers a faster alternative to Superpowers.",
+      "summary_zh": "Superlite 提供比 Superpowers 更快的替代方案。",
+      "hn": {
+        "id": 50147492,
+        "type": "story",
+        "by": "iheatuchriswogu",
+        "score": 152,
+        "descendants": 69,
+        "time": 1792375276,
+        "comments_url": "https://news.ycombinator.com/item?id=50147492"
+      },
+      "tags": [
+        "AI",
+        "Startups"
+      ],
+      "hot_score": 0.19
+    },
+    {
+      "title_en": "PalmOS Lemmings",
+      "url": "https://github.com/ardiri/palmos-lemmings",
+      "title_zh": "Aaron Ardiri 的 PalmOS Lemmings",
+      "created_display": "Created: Oct 18, 2026 / 10:56 PT",
+      "image_url": "https://opengraph.githubassets.com/dd1a3d063d8b3df1448cdfeb31b73e09b4715e3d2905992188ec6a568bafc317/ardiri/palmos-lemmings",
+      "summary_en": "Aaron Ardiri has released PalmOS Lemmings, a faithful PalmOS port of the classic puzzle game Lemmings. It highlights retro game preservation and the ongoing hobbyist effort to run vintage software on aging mobile platforms.",
+      "summary_zh": "Aaron Ardiri 发布了 PalmOS Lemmings，这是对经典解谜游戏 Lemmings 的 PalmOS 版本移植，展示了对复古游戏的保护与在老旧移动平台上运行早期软件的热情。",
+      "hn": {
+        "id": 50143536,
+        "type": "story",
+        "by": "memalign",
+        "score": 156,
+        "descendants": 35,
+        "time": 1792346219,
+        "comments_url": "https://news.ycombinator.com/item?id=50143536"
+      },
+      "tags": [
+        "Gaming"
+      ],
+      "hot_score": 0.14
+    }
+  ]
+}

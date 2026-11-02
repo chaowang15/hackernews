@@ -1,0 +1,1168 @@
+{
+  "meta": {
+    "mode": "best",
+    "source": "https://news.ycombinator.com/",
+    "api": "https://github.com/HackerNews/API",
+    "count_requested": 50,
+    "count_written": 50,
+    "reused_same_day": 0,
+    "reused_cross_day": 18,
+    "new_llm_enriched": 12,
+    "scrape_time_display": "06:27, May 10, 2026 (PDT)",
+    "timezone": "America/Los_Angeles",
+    "date_dir": "2026/05/09",
+    "content_date": "2026-05-09",
+    "run_time_local": "06:27, May 10, 2026 (PDT)",
+    "run_time_utc": "2026-05-10 13:27:04 UTC",
+    "incremental": true,
+    "stories_max": 50,
+    "hot_score_time_utc": "2026-05-10 13:27:56 UTC"
+  },
+  "items": [
+    {
+      "title_en": "Debian must ship reproducible packages",
+      "url": "https://lists.debian.org/debian-devel-announce/2026/05/msg00001.html",
+      "title_zh": "Debian 必须提供可重复构建的软件包",
+      "created_display": "Created: May 09, 2026 / 22:26 PT",
+      "image_url": null,
+      "summary_en": "Debian is pushing to ship reproducible packages, enabling anyone to rebuild binaries and verify their integrity. Reproducible builds help catch tampering and improve supply-chain transparency across the Debian ecosystem. The push will require changes to build processes and tooling, with implications for maintainers and CI pipelines.",
+      "summary_zh": "Debian 正在推动发布可重复构建的软件包，使任何人都能重建二进制文件并验证完整性。可重复构建有助于发现篡改并提升供应链透明度，覆盖整个 Debian 生态。此举将要求构建流程和工具链的变更，影响维护者与持续集成管线。",
+      "hn": {
+        "id": 48081245,
+        "type": "story",
+        "by": "robalni",
+        "score": 236,
+        "descendants": 86,
+        "time": 1778390763,
+        "comments_url": "https://news.ycombinator.com/item?id=48081245"
+      },
+      "tags": [
+        "Open Source"
+      ],
+      "hot_score": 3.7
+    },
+    {
+      "title_en": "Show HN: Building a web server in assembly to give my life (a lack of) meaning",
+      "url": "https://github.com/imtomt/ymawky",
+      "title_zh": "Show HN：用汇编语言构建网络服务器以寻求生活意义",
+      "created_display": "Created: May 09, 2026 / 20:01 PT",
+      "image_url": "https://opengraph.githubassets.com/8bf79907f2a3d50813c871a692131dd5132ce31a07baf38b3be42d8aeac0be20/imtomt/ymawky",
+      "summary_en": "A programmer builds a web server entirely in assembly, using the project as a personal experiment to explore the extremes of low-level computing and to find a sense of meaning. The effort highlights the practical challenges of implementing networking purely in assembly and offers reflections on abstraction costs and developer discipline.",
+      "summary_zh": "开发者用汇编语言从零实现一个网络服务器，将其作为自我探索的一种方式。该项目揭示了使用汇编实现网络功能的实际挑战，以及对抽象层成本与开发自律的思考。",
+      "hn": {
+        "id": 48080587,
+        "type": "story",
+        "by": "imtomt",
+        "score": 325,
+        "descendants": 155,
+        "time": 1778382104,
+        "comments_url": "https://news.ycombinator.com/item?id=48080587"
+      },
+      "tags": [
+        "Show HN",
+        "Programming"
+      ],
+      "hot_score": 3.47
+    },
+    {
+      "title_en": "Meta's embrace of AI is making its employees miserable",
+      "url": "https://www.nytimes.com/2026/05/08/technology/meta-ai-employees-miserable.html",
+      "title_zh": "Meta 对 AI 的拥抱让员工感到痛苦",
+      "created_display": "Created: May 09, 2026 / 11:33 PT",
+      "image_url": null,
+      "summary_en": "NYT reports that Meta's push into AI is harming morale, with employees facing heightened expectations, reshuffles, and surveillance-like monitoring.",
+      "summary_zh": "纽约时报报道指出，Meta 大力推进 AI 策略正在侵蚀员工士气，导致高压工作环境、职责调整和对绩效的强化监控。文章强调 AI 为先的路线图对员工福祉的代价，并可能带来留任挑战。",
+      "hn": {
+        "id": 48077126,
+        "type": "story",
+        "by": "JumpCrisscross",
+        "score": 403,
+        "descendants": 446,
+        "time": 1778351616,
+        "comments_url": "https://news.ycombinator.com/item?id=48077126"
+      },
+      "tags": [
+        "AI",
+        "Privacy"
+      ],
+      "hot_score": 1.69
+    },
+    {
+      "title_en": "Internet Archive Switzerland",
+      "url": "https://blog.archive.org/2026/05/06/internet-archive-switzerland-expanding-a-global-mission-to-preserve-knowledge/",
+      "title_zh": "瑞士互联网档案馆",
+      "created_display": "Created: May 09, 2026 / 05:00 PT",
+      "image_url": "https://internetarchive.ch/wp-content/uploads/2026/04/logo-wordmark-1-340x123.png",
+      "summary_en": "Switzerland hosts a local Internet Archive project that provides native access to the digital library.",
+      "summary_zh": "瑞士的互联网档案馆：在本地提供对数字藏品的访问。",
+      "hn": {
+        "id": 48074265,
+        "type": "story",
+        "by": "hggh",
+        "score": 641,
+        "descendants": 105,
+        "time": 1778328030,
+        "comments_url": "https://news.ycombinator.com/item?id=48074265"
+      },
+      "tags": [
+        "Education"
+      ],
+      "hot_score": 1.65
+    },
+    {
+      "title_en": "I’ve banned query strings",
+      "url": "https://chrismorgan.info/no-query-strings",
+      "title_zh": "我已禁止查询字符串",
+      "created_display": "Created: May 09, 2026 / 09:28 PT",
+      "image_url": null,
+      "summary_en": "A developer bans query strings to improve cacheability and determinism in URLs. This approach reduces cache fragmentation and enables more aggressive CDN caching, though it requires rethinking how parameters and analytics are handled. The post shares practical steps and trade-offs from their experience.",
+      "summary_zh": "开发者宣布禁用查询字符串以提升 URL 的缓存性和确定性。这一做法减少了缓存碎片，使 CDN 能更有效地缓存资源，但需要重新考虑参数和分析信息的处理方式。文中分享了基于其经验的实践要点与取舍。",
+      "hn": {
+        "id": 48076173,
+        "type": "story",
+        "by": "susam",
+        "score": 459,
+        "descendants": 238,
+        "time": 1778344116,
+        "comments_url": "https://news.ycombinator.com/item?id=48076173"
+      },
+      "tags": [
+        "Programming",
+        "Data"
+      ],
+      "hot_score": 1.62
+    },
+    {
+      "title_en": "Google broke reCAPTCHA for de-googled Android users",
+      "url": "https://reclaimthenet.org/google-broke-recaptcha-for-de-googled-android-users",
+      "title_zh": "谷歌对去谷歌化 Android 用户的 reCAPTCHA 失效",
+      "created_display": "Created: May 08, 2026 / 11:45 PT",
+      "image_url": "https://reclaimthenet.org/wp-content/uploads/2026/05/BAPiBKSUNDTJ-scaled.jpg",
+      "summary_en": "A report claims reCAPTCHA no longer functions on de-Googled Android devices, highlighting how privacy-focused setups can clash with anti-bot protections. The piece raises questions about platform control, user privacy, and the trade-offs of relying on third-party verification.",
+      "summary_zh": "报道称去谷歌化 Android 设备上的 reCAPTCHA 功能不再工作，凸显隐私保护设置与反机器人机制之间的冲突。文章提出对平台控制、用户隐私以及依赖第三方验证所带来的权衡的质疑。",
+      "hn": {
+        "id": 48067119,
+        "type": "story",
+        "by": "anonymousiam",
+        "score": 1475,
+        "descendants": 551,
+        "time": 1778265958,
+        "comments_url": "https://news.ycombinator.com/item?id=48067119"
+      },
+      "tags": [
+        "Privacy",
+        "Security"
+      ],
+      "hot_score": 1.58
+    },
+    {
+      "title_en": "Bun's experimental Rust rewrite hits 99.8% test compatibility on Linux x64 glibc",
+      "url": "https://twitter.com/jarredsumner/status/2053047748191232310",
+      "title_zh": "Bun 的 Rust 重写在 Linux x64 glibc 上实现 99.8% 的测试兼容性",
+      "created_display": "Created: May 09, 2026 / 03:12 PT",
+      "image_url": "https://pbs.twimg.com/media/HH3kDB4b0AA6w5C.jpg:large",
+      "summary_en": "Bun's experimental Rust rewrite aims to improve startup and performance for the JavaScript runtime. Hitting 99.8% test compatibility on Linux x64 glibc signals strong parity with the current build, though a small gap remains. If realized, the rewrite could influence Bun's future architecture and ecosystem adoption.",
+      "summary_zh": "Bun 的实验性 Rust 重写旨在提升 JavaScript 运行时的启动速度与性能。在 Linux x64 glibc 上达到 99.8% 的测试兼容性，表明与现有实现的对齐性很高，但仍存在小幅差距。这一进展可能影响 Bun 的未来架构选择和生态系统的采用路径。",
+      "hn": {
+        "id": 48073680,
+        "type": "story",
+        "by": "heldrida",
+        "score": 618,
+        "descendants": 592,
+        "time": 1778321575,
+        "comments_url": "https://news.ycombinator.com/item?id=48073680"
+      },
+      "tags": [
+        "Programming",
+        "Startups"
+      ],
+      "hot_score": 1.42
+    },
+    {
+      "title_en": "Gemini API File Search is now multimodal",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanded-gemini-api-file-search-multimodal-rag/",
+      "title_zh": "Gemini API 文件搜索现已支持多模态",
+      "created_display": "Created: May 09, 2026 / 20:22 PT",
+      "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_File-Search_Social-Share_1920x1080.width-1300.png",
+      "summary_en": "The Gemini API file search now supports multimodal inputs, enabling richer queries over documents and media with retrieval-augmented generation. This broadens how developers build search interfaces on Gemini and signals a trend toward multimodal tooling in AI APIs.",
+      "summary_zh": "Gemini API 文件搜索现已支持多模态输入，允许对文档和多媒体内容进行更丰富的查询，并结合检索增强的生成能力。此举拓展了开发者在 Gemini 上构建搜索界面的方式，体现了 AI API 多模态工具的发展趋势。",
+      "hn": {
+        "id": 48080702,
+        "type": "story",
+        "by": "gmays",
+        "score": 122,
+        "descendants": 22,
+        "time": 1778383322,
+        "comments_url": "https://news.ycombinator.com/item?id=48080702"
+      },
+      "tags": [
+        "AI",
+        "Web"
+      ],
+      "hot_score": 1.36
+    },
+    {
+      "title_en": "France moves to break encrypted messaging",
+      "url": "https://reclaimthenet.org/france-moves-to-break-encrypted-messaging",
+      "title_zh": "法国推动破解端对端加密通讯",
+      "created_display": "Created: May 09, 2026 / 15:14 PT",
+      "image_url": "https://reclaimthenet.org/wp-content/uploads/2026/05/6M0h4AJN7yyk-scaled.jpg",
+      "summary_en": "France contemplates measures to weaken or break encrypted messaging as part of law enforcement and national security priorities, signaling renewed regulatory pressure on end-to-end encryption. The move raises questions about privacy, safety, and innovation.",
+      "summary_zh": "法国在打击犯罪和国家安全背景下，拟采取措施削弱或破坏端对端加密通讯，显示出对加密的再度监管压力。这引发对隐私、公共安全和创新的讨论。",
+      "hn": {
+        "id": 48078811,
+        "type": "story",
+        "by": "Cider9986",
+        "score": 225,
+        "descendants": 116,
+        "time": 1778364875,
+        "comments_url": "https://news.ycombinator.com/item?id=48078811"
+      },
+      "tags": [
+        "Privacy",
+        "Politics",
+        "Security"
+      ],
+      "hot_score": 1.33
+    },
+    {
+      "title_en": "Getting arrested in Japan",
+      "url": "https://sundaicity.com/blogs/getting-arrested-in-japan",
+      "title_zh": "在日本被逮捕",
+      "created_display": "Created: May 09, 2026 / 14:56 PT",
+      "image_url": "http://static1.squarespace.com/static/605f04a61395e21d304e636a/t/69c8d480c2f49f1bfc842d8d/1774769280050/japan+detention+center.jpeg?format=1500w",
+      "summary_en": "A personal account of navigating Japan's legal system, detailing experiences around arrest or detainment, and offering practical takeaways for travelers or tech workers abroad. It sheds light on procedures, rights, and cultural differences.",
+      "summary_zh": "作者分享在日本与法律体系打交道的个人经历，描述被逮捕/被扣留的过程，并给出出国工作和旅行者的实用建议。内容凸显了程序、权利与文化差异。",
+      "hn": {
+        "id": 48078647,
+        "type": "story",
+        "by": "bane",
+        "score": 217,
+        "descendants": 262,
+        "time": 1778363779,
+        "comments_url": "https://news.ycombinator.com/item?id=48078647"
+      },
+      "tags": [
+        "Legal"
+      ],
+      "hot_score": 1.25
+    },
+    {
+      "title_en": "EU Parliamentary Research Service calls VPNs \"a loophole that needs closing\"",
+      "url": "https://cyberinsider.com/eu-calls-vpns-a-loophole-that-needs-closing-in-age-verification-push/",
+      "title_zh": "法国推动破解端对端加密通讯",
+      "created_display": "Created: May 08, 2026 / 22:52 PT",
+      "image_url": "https://cyberinsider.com/wp-content/uploads/2026/05/73592.jpg",
+      "summary_en": "France considers measures that could weaken or undermine encrypted messaging as part of a broader digital regulation push, signaling renewed regulatory scrutiny of end-to-end encryption and its privacy vs. safety implications.",
+      "summary_zh": "法国在打击犯罪和国家安全背景下，拟采取措施削弱或破坏端对端加密通讯，显示出对加密的再度监管压力。这引发对隐私、公共安全和创新的讨论。",
+      "hn": {
+        "id": 48072190,
+        "type": "story",
+        "by": "muse900",
+        "score": 592,
+        "descendants": 402,
+        "time": 1778305932,
+        "comments_url": "https://news.ycombinator.com/item?id=48072190"
+      },
+      "tags": [
+        "Politics",
+        "Privacy",
+        "Security"
+      ],
+      "hot_score": 1.06
+    },
+    {
+      "title_en": "The hypocrisy of cyberlibertarianism",
+      "url": "https://matduggan.com/the-intolerable-hypocrisy-of-cyberlibertarianism/",
+      "title_zh": "网络自由主义的虚伪",
+      "created_display": "Created: May 09, 2026 / 06:48 PT",
+      "image_url": "https://matduggan.com/content/images/2026/05/image.png",
+      "summary_en": "A critique argues that cyberlibertarianism's rhetoric about freedom often clashes with real-world power dynamics, surveillance, and corporate control. The piece calls for a more nuanced view that reconciles privacy with accountability.",
+      "summary_zh": "本文指出网络自由主义者的自由论调往往与现实中的权力结构、监控与平台控制发生冲突，显露出虚伪之处。作者呼吁以更务实的视角看待隐私、自由与责任之间的平衡。",
+      "hn": {
+        "id": 48074952,
+        "type": "story",
+        "by": "ColinWright",
+        "score": 362,
+        "descendants": 320,
+        "time": 1778334512,
+        "comments_url": "https://news.ycombinator.com/item?id=48074952"
+      },
+      "tags": [
+        "Privacy",
+        "Politics"
+      ],
+      "hot_score": 1.05
+    },
+    {
+      "title_en": "Distributing Mac software is increasing my cortisol levels",
+      "url": "https://blog.kronis.dev/blog/apple-is-increasing-my-cortisol-levels",
+      "title_zh": "在分发 Mac 软件时，我的压力越来越大",
+      "created_display": "Created: May 09, 2026 / 07:40 PT",
+      "image_url": "https://blog.kronis.dev/user/pages/blog/apple-is-increasing-my-cortisol-levels/01-quarantine.jpg",
+      "summary_en": "Sharing the emotional burden of distributing Mac software, from signing and notarization to dealing with Gatekeeper prompts and new Apple requirements. The piece details the friction points developers face and how these policies affect release cycles and automation.",
+      "summary_zh": "作者分享在将 Mac 软件分发到用户手中时感受到的压力，覆盖签名、Notarization、Gatekeeper 等流程以及 Apple 日益严格的要求。文章指出这些政策对发布周期和自动化工作流带来的阻力，并给出应对建议。",
+      "hn": {
+        "id": 48075366,
+        "type": "story",
+        "by": "LorenDB",
+        "score": 332,
+        "descendants": 230,
+        "time": 1778337658,
+        "comments_url": "https://news.ycombinator.com/item?id=48075366"
+      },
+      "tags": [
+        "Programming"
+      ],
+      "hot_score": 1.02
+    },
+    {
+      "title_en": "A recent experience with ChatGPT 5.5 Pro",
+      "url": "https://gowers.wordpress.com/2026/05/08/a-recent-experience-with-chatgpt-5-5-pro/",
+      "title_zh": "最近使用 ChatGPT 5.5 Pro 的体验",
+      "created_display": "Created: May 08, 2026 / 19:41 PT",
+      "image_url": "https://s0.wp.com/i/blank.jpg?m=1383295312i",
+      "summary_en": "Firsthand take on ChatGPT 5.5 Pro, noting noticeable speed gains and steadier responses, plus improved handling of long conversations. Highlights advantages for developers and power users, but cautions that accuracy can still slip and prompts require careful framing.",
+      "summary_zh": "分享了对 ChatGPT 5.5 Pro 的最新使用感受，指出响应更快、对话更连贯，长上下文处理也有所改善。强调这对开发者和高阶用户有实用价值，但仍需警惕输出的不准确性，并在使用时保持批判性。",
+      "hn": {
+        "id": 48071262,
+        "type": "story",
+        "by": "_alternator_",
+        "score": 654,
+        "descendants": 476,
+        "time": 1778294502,
+        "comments_url": "https://news.ycombinator.com/item?id=48071262"
+      },
+      "tags": [
+        "AI"
+      ],
+      "hot_score": 0.99
+    },
+    {
+      "title_en": "Zed Editor Theme-Builder",
+      "url": "https://zed.dev/theme-builder",
+      "title_zh": "Zed 编辑器主题生成器",
+      "created_display": "Created: May 09, 2026 / 10:30 PT",
+      "image_url": "https://zed.dev/api/og?title=Theme%20Builder",
+      "summary_en": "Zed Editor Theme-Builder lets you craft and preview themes for the Zed Editor, enabling consistent, accessible syntax highlighting. It lowers the barrier to creating polished editor themes and sharing them with the community.",
+      "summary_zh": "Zed 编辑器主题生成器可用于设计并预览 Zed 的主题，便于实现一致且易读的语法高亮。降低了创作与分享高质量编辑器主题的门槛。",
+      "hn": {
+        "id": 48076651,
+        "type": "story",
+        "by": "cuechan",
+        "score": 248,
+        "descendants": 73,
+        "time": 1778347839,
+        "comments_url": "https://news.ycombinator.com/item?id=48076651"
+      },
+      "tags": [
+        "Design"
+      ],
+      "hot_score": 0.95
+    },
+    {
+      "title_en": "LLMs corrupt your documents when you delegate",
+      "url": "https://arxiv.org/abs/2604.15597",
+      "title_zh": "当你让大语言模型处理文档时，文档可能被污染",
+      "created_display": "Created: May 09, 2026 / 01:44 PT",
+      "image_url": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+      "summary_en": "The paper demonstrates that delegating document editing to LLMs can introduce subtle, hard-to-detect changes to content and structure. Such corruptions can affect citations, formatting, and data provenance, undermining automated workflows. It argues for stronger verification, provenance tooling, and robust evaluation when integrating LLMs into document pipelines.",
+      "summary_zh": "本文展示在将文档处理任务委托给大语言模型时，内容和结构可能出现细微且难以察觉的改变。这类污染会影响引用、格式和数据可追溯性，削弱自动化工作流的可信度。文章提出加强验证、溯源工具和在文档管线中引入鲁棒评估的建议。",
+      "hn": {
+        "id": 48073246,
+        "type": "story",
+        "by": "rbanffy",
+        "score": 433,
+        "descendants": 171,
+        "time": 1778316274,
+        "comments_url": "https://news.ycombinator.com/item?id=48073246"
+      },
+      "tags": [
+        "AI",
+        "Data"
+      ],
+      "hot_score": 0.91
+    },
+    {
+      "title_en": "GrapheneOS fixes Android VPN leak Google refused to patch",
+      "url": "https://cyberinsider.com/grapheneos-fixes-android-vpn-leak-google-refused-to-patch/",
+      "title_zh": "GrapheneOS 修复 Android VPN 漏洞，Google 拒绝修补",
+      "created_display": "Created: May 09, 2026 / 07:11 PT",
+      "image_url": "https://cyberinsider.com/wp-content/uploads/2026/05/73173.png",
+      "summary_en": "GrapheneOS released a fix for an Android VPN leakage flaw after Google declined to patch it upstream. The bug could allow traffic or DNS leaks that bypass the VPN's protections, undermining user privacy. The episode underscores gaps in upstream patching and the value of independent hardening in privacy-focused ROMs.",
+      "summary_zh": "GrapheneOS 为 Android 的 VPN 泄露漏洞修复提供补丁，而 Google 未在上游修补。该漏洞可能让 VPN 连接中的流量或 DNS 请求暴露，削弱隐私保护。事件凸显上游修补的局限，以及开源自定义系统在提升隐私安全方面的作用。",
+      "hn": {
+        "id": 48075144,
+        "type": "story",
+        "by": "Georgelemental",
+        "score": 300,
+        "descendants": 116,
+        "time": 1778335870,
+        "comments_url": "https://news.ycombinator.com/item?id=48075144"
+      },
+      "hot_score": 0.89,
+      "tags": [
+        "Privacy",
+        "Security"
+      ]
+    },
+    {
+      "title_en": "Poland is now among the 20 largest economies",
+      "url": "https://apnews.com/article/poland-economy-growth-g20-gdp-26fe06e120398410f8d773ba5661e7aa",
+      "title_zh": "波兰现已跻身全球前二十大经济体：原因何在",
+      "created_display": "Created: May 08, 2026 / 05:30 PT",
+      "image_url": "https://dims.apnews.com/dims4/default/909dda7/2147483647/strip/true/crop/4923x3280+3+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fe4%2Fdf%2F057b32831d24160d51408147c477%2F88cbd023c7c44085abb11287ab911ccf",
+      "summary_en": "Poland has entered the global top 20 economies by GDP, driven by resilient domestic demand, investment, and productivity gains from reforms and EU funding. This shift reshapes European dynamics and could influence policy in energy, labor, and technology sectors.",
+      "summary_zh": "波兰凭借国内需求韧性、投资增长以及改革与欧盟资金带来的生产力提升，GDP规模跃入全球前二十。此举重新塑造了欧洲格局，未来在能源、劳动力与科技领域的政策走向值得关注。",
+      "hn": {
+        "id": 48062117,
+        "type": "story",
+        "by": "surprisetalk",
+        "score": 1034,
+        "descendants": 837,
+        "time": 1778243405,
+        "comments_url": "https://news.ycombinator.com/item?id=48062117"
+      },
+      "tags": [
+        "Business",
+        "Energy"
+      ],
+      "hot_score": 0.87
+    },
+    {
+      "title_en": "Local privilege escalation via execve()",
+      "url": "https://www.freebsd.org/security/advisories/FreeBSD-SA-26:13.exec.asc",
+      "title_zh": "FreeBSD：通过 Execve() 实现的本地提权漏洞",
+      "created_display": "Created: May 09, 2026 / 13:31 PT",
+      "image_url": null,
+      "summary_en": "FreeBSD advisory details a local privilege escalation via the execve() syscall, enabling a user with limited privileges to gain higher access. Users should apply patches and review program binaries for potential misuse; it's a reminder to enforce least privilege.",
+      "summary_zh": "FreeBSD 公告披露了通过 execve() 系统调用实现的本地权限提升漏洞，可能让最低权限用户获得更高权限。应尽快应用修补并检查二进制行为，强调最小权限与进程隔离的重要性。",
+      "hn": {
+        "id": 48077971,
+        "type": "story",
+        "by": "Deeg9rie9usi",
+        "score": 175,
+        "descendants": 83,
+        "time": 1778358681,
+        "comments_url": "https://news.ycombinator.com/item?id=48077971"
+      },
+      "tags": [
+        "Security"
+      ],
+      "hot_score": 0.87
+    },
+    {
+      "title_en": "Show HN: Rust but Lisp",
+      "url": "https://github.com/ThatXliner/rust-but-lisp",
+      "title_zh": "Show HN：用 Lisp 风格实现的 Rust",
+      "created_display": "Created: May 09, 2026 / 14:46 PT",
+      "image_url": "https://opengraph.githubassets.com/1e5128c59bd7e31f5e6d15a3ee9a5dc96518a325d37639f8defc9fee35744840/ThatXliner/rust-but-lisp",
+      "summary_en": "An experimental project that blends Lisp-inspired syntax or macro systems with Rust’s performance-oriented design. It offers a provocative look at language design trade-offs and how different paradigms can coexist.",
+      "summary_zh": "一个尝试将 Lisp 样式语法/宏系统与 Rust 的性能和安全性相结合的语言实验。展示了对 Rust 设计的重新思考，提供对语言设计权衡的有趣探索。",
+      "hn": {
+        "id": 48078575,
+        "type": "story",
+        "by": "thatxliner",
+        "score": 154,
+        "descendants": 68,
+        "time": 1778363187,
+        "comments_url": "https://news.ycombinator.com/item?id=48078575"
+      },
+      "tags": [
+        "Show HN",
+        "Programming"
+      ],
+      "hot_score": 0.87
+    },
+    {
+      "title_en": "Using Claude Code: The unreasonable effectiveness of HTML",
+      "url": "https://twitter.com/trq212/status/2052809885763747935",
+      "title_zh": "使用 Claude Code：HTML 的非同寻常高效",
+      "created_display": "Created: May 08, 2026 / 21:53 PT",
+      "image_url": "https://pbs.twimg.com/media/HHz_ftzaIAAwkQs.jpg:large",
+      "summary_en": "Claude Code demonstrates that HTML's simple, deterministic structure can yield reliable, quick wins for AI-assisted frontend tasks. HTML's straightforward nature makes it a practical starting point for AI-driven UI prototyping and code generation. This highlights HTML as a durable substrate for AI copilots in frontend work.",
+      "summary_zh": "Claude Code 展示了 HTML 的简单、确定性结构在 AI 辅助前端任务中能带来可靠且快速的收益。HTML 的直接性使其成为 AI 驱动的 UI 原型和代码生成的实际起点。此现象凸显了 HTML 在前端工作中作为 AI 协作工具的持久价值。",
+      "hn": {
+        "id": 48071940,
+        "type": "story",
+        "by": "pretext",
+        "score": 479,
+        "descendants": 262,
+        "time": 1778302432,
+        "comments_url": "https://news.ycombinator.com/item?id=48071940"
+      },
+      "tags": [
+        "AI",
+        "Web"
+      ],
+      "hot_score": 0.81
+    },
+    {
+      "title_en": "Show HN: I made a Clojure-like language in Go, boots in 7ms",
+      "url": "https://github.com/nooga/let-go",
+      "title_zh": "Show HN：用 Go 实现的类似 Clojure 的语言，启动仅 7ms",
+      "created_display": "Created: May 09, 2026 / 10:52 PT",
+      "image_url": "https://repository-images.githubusercontent.com/340518175/b16d0200-7540-11eb-9ca9-1b74271ac6f7",
+      "summary_en": "A Lisp-inspired language implemented in Go boots astonishingly fast at 7ms, showcasing how Go's startup speed can power lightweight runtimes. It illustrates the feasibility of building a minimal, expressive language with modern tooling and invites feedback from the community.",
+      "summary_zh": "Show HN：用 Go 实现的类似 Clojure 的语言，启动仅 7ms，展示了 Go 的快速启动能力如何支撑轻量级运行时。该项目展示了在简洁与表达力之间的可行设计，并邀请社区给出反馈。",
+      "hn": {
+        "id": 48076815,
+        "type": "story",
+        "by": "marcingas",
+        "score": 201,
+        "descendants": 55,
+        "time": 1778349133,
+        "comments_url": "https://news.ycombinator.com/item?id=48076815"
+      },
+      "tags": [
+        "Show HN",
+        "Programming",
+        "Startups"
+      ],
+      "hot_score": 0.79
+    },
+    {
+      "title_en": "Google Cloud Fraud Defence is just WEI repackaged",
+      "url": "https://privatecaptcha.com/blog/google-cloud-fraud-defence-wei/",
+      "title_zh": "Google Cloud Fraud Defence 实为 WEI 的再包装",
+      "created_display": "Created: May 08, 2026 / 06:56 PT",
+      "image_url": "https://privatecaptcha.com/images/pc-logo-dark.svg",
+      "summary_en": "Google Cloud Fraud Defence appears to be a repackaged Web Environment Integrity solution. It signals a push to apply browser-attestation concepts to cloud fraud, but raises questions about privacy, cross-platform effectiveness, and how it will be validated in real-world workloads.",
+      "summary_zh": "Google Cloud Fraud Defence 看似把 Web Environment Integrity 技术打包成云端反欺诈服务。这一动向将浏览器端的认证思想带入云环境，但也引发隐私、跨设备有效性和实际场景落地的质疑。",
+      "hn": {
+        "id": 48063199,
+        "type": "story",
+        "by": "ribtoks",
+        "score": 695,
+        "descendants": 354,
+        "time": 1778248570,
+        "comments_url": "https://news.ycombinator.com/item?id=48063199"
+      },
+      "tags": [
+        "Security",
+        "Privacy",
+        "Web"
+      ],
+      "hot_score": 0.62
+    },
+    {
+      "title_en": "A web page that shows you everything the browser told it without asking",
+      "url": "https://sinceyouarrived.world/taken",
+      "title_zh": "一个网页在未征询许可的情况下透露浏览器所有信息",
+      "created_display": "Created: May 08, 2026 / 05:37 PT",
+      "image_url": "https://sinceyouarrived.world/api/og-taken",
+      "summary_en": "A web page demonstrates exactly what data a site can read from your browser without explicit permission. It highlights passive data leakage and fingerprinting risks, reinforcing the case for stricter sandboxing, fewer default disclosures, and privacy-focused browsing defaults.",
+      "summary_zh": "一个网页演示网站在未获得明确同意的情况下能够读取的浏览器信息全貌，凸显被动数据泄露和指纹识别风险。此事强调需要更严格的沙箱、降低默认披露、以及更隐私导向的浏览器设置。",
+      "hn": {
+        "id": 48062178,
+        "type": "story",
+        "by": "mwheelz",
+        "score": 602,
+        "descendants": 292,
+        "time": 1778243825,
+        "comments_url": "https://news.ycombinator.com/item?id=48062178"
+      },
+      "tags": [
+        "Privacy",
+        "Web"
+      ],
+      "hot_score": 0.51
+    },
+    {
+      "title_en": "CPanel's Black Week: 3 New Vulnerabilities Patched After Attack on 44k Servers",
+      "url": "https://www.copahost.com/blog/cpanels-black-week-three-new-vulnerabilities-patched-after-ransomware-attack-on-44000-servers/",
+      "title_zh": "cPanel 的黑色周：对 4.4 万台服务器的攻击后修补三处新漏洞",
+      "created_display": "Created: May 09, 2026 / 10:06 PT",
+      "image_url": "https://www.copahost.com/blog/wp-content/uploads/2026/05/9d592da9-48e6-4f09-b972-a73a543c754a.png",
+      "summary_en": "Following a ransomware incident that hit tens of thousands of cPanel servers, three new vulnerabilities were patched. The quick fix underscores how exposed control panels remain and why rapid patching and monitoring are crucial after breaches.",
+      "summary_zh": "在针对数万台服务器的勒索攻击后，cPanel 修补了三处新漏洞。此次快速修复凸显了远程管理面板仍是关键攻击面，强调在漏洞披露后要加速打补丁和监控。",
+      "hn": {
+        "id": 48076465,
+        "type": "story",
+        "by": "ggallas",
+        "score": 131,
+        "descendants": 72,
+        "time": 1778346406,
+        "comments_url": "https://news.ycombinator.com/item?id=48076465"
+      },
+      "tags": [
+        "Security"
+      ],
+      "hot_score": 0.48
+    },
+    {
+      "title_en": "AI is breaking two vulnerability cultures",
+      "url": "https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures",
+      "title_zh": "AI 正在打破两种漏洞文化",
+      "created_display": "Created: May 08, 2026 / 10:55 PT",
+      "image_url": "https://www.jefftk.com/jefftk-glyph-framed.jpg",
+      "summary_en": "AI is accelerating vulnerability research and patching, collapsing the old divide between offensive and defensive security cultures. The post argues AI tools change how bugs are discovered, validated, and fixed, urging teams to rethink disclosure, testing, and risk modeling in software.",
+      "summary_zh": "AI 正在加速漏洞研究与修复，打破了旧有的攻击者与防御者漏洞文化之分。AI 工具改变了漏洞的发现、验证与修复方式，促使团队重新审视披露、测试和风险建模等软件开发实践。",
+      "hn": {
+        "id": 48066524,
+        "type": "story",
+        "by": "speckx",
+        "score": 419,
+        "descendants": 169,
+        "time": 1778262908,
+        "comments_url": "https://news.ycombinator.com/item?id=48066524"
+      },
+      "tags": [
+        "AI",
+        "Security"
+      ],
+      "hot_score": 0.43
+    },
+    {
+      "title_en": "Bun ported to Rust in 6 days",
+      "url": "https://twitter.com/jarredsumner/status/2053047748191232310",
+      "title_zh": "Bun 6 天内移植到 Rust",
+      "created_display": "Created: May 09, 2026 / 11:47 PT",
+      "image_url": "https://pbs.twimg.com/media/HH3kDB4b0AA6w5C.jpg:large",
+      "summary_en": "Bun was ported to Rust in six days, illustrating rapid cross-language porting and potential gains in safety and performance. The anecdote reflects trends in rewriting performance-critical runtimes in Rust and what it means for the JavaScript ecosystem.",
+      "summary_zh": "Bun 在六天内完成对 Rust 的移植，展示了快速跨语言移植的可行性以及在安全性和性能方面的潜在收益。此事反映出用 Rust 重写性能关键运行时组件的趋势及其对 JavaScript 生态的影响。",
+      "hn": {
+        "id": 48077231,
+        "type": "story",
+        "by": "qprofyeh",
+        "score": 100,
+        "descendants": 5,
+        "time": 1778352478,
+        "comments_url": "https://news.ycombinator.com/item?id=48077231"
+      },
+      "hot_score": 0.42,
+      "tags": [
+        "Programming",
+        "Open Source"
+      ]
+    },
+    {
+      "title_en": "Cartoon Network Flash Games",
+      "url": "https://www.webdesignmuseum.org/flash-game-exhibitions/cartoon-network-flash-games",
+      "title_zh": "卡通网络的 Flash 游戏",
+      "created_display": "Created: May 08, 2026 / 09:29 PT",
+      "image_url": "https://www.webdesignmuseum.org/uploaded/exhibitions/cover-flash-games/cartoon-network-flash-games-preview.png",
+      "summary_en": "A retrospective on Cartoon Network's Flash-era games, many of which are now part of digital heritage as browsers retire Flash.",
+      "summary_zh": "回顾卡通网络在 Flash 时代推出的网页游戏，如今随着浏览器逐步淘汰 Flash，这些游戏成为数字遗产的一部分。文中强调游戏的艺术性和玩法对早期网络游戏文化的影响，以及为未来保存这些作品所进行的努力。",
+      "hn": {
+        "id": 48065360,
+        "type": "story",
+        "by": "willmeyers",
+        "score": 411,
+        "descendants": 128,
+        "time": 1778257792,
+        "comments_url": "https://news.ycombinator.com/item?id=48065360"
+      },
+      "tags": [
+        "Web",
+        "Culture"
+      ],
+      "hot_score": 0.4
+    },
+    {
+      "title_en": "Meta Shuts Down End-to-End Encryption for Instagram Messaging",
+      "url": "https://www.pcmag.com/news/meta-shuts-down-end-to-end-encryption-for-instagram-dms-messaging",
+      "title_zh": "Meta 关闭 Instagram 消息端到端加密",
+      "created_display": "Created: May 08, 2026 / 14:47 PT",
+      "image_url": "https://i.pcmag.com/imagery/articles/01VCs6SZdta2WftLSUptXTG-1.fit_lim.size_1200x630.v1778247916.jpg",
+      "summary_en": "Meta has disabled end-to-end encryption for Instagram direct messages, citing policy enforcement and safety considerations. The change enables company access to message content for law enforcement and platform moderation, sparking debate over user privacy and the trade-offs of security versus safety.",
+      "summary_zh": "Meta 已对 Instagram 私信关闭端到端加密，表示出于合规执法和安全考量需要对信息进行访问。此举引发对隐私与安全的权衡辩论，质疑用户隐私性是否应让位于平台监控和执法需求。",
+      "hn": {
+        "id": 48069192,
+        "type": "story",
+        "by": "tcp_handshaker",
+        "score": 324,
+        "descendants": 219,
+        "time": 1778276867,
+        "comments_url": "https://news.ycombinator.com/item?id=48069192"
+      },
+      "tags": [
+        "Privacy",
+        "Security"
+      ],
+      "hot_score": 0.39
+    },
+    {
+      "title_en": "All my clients wanted a carousel, now it's an AI chatbot",
+      "url": "https://adele.pages.casa/md/blog/all-my-clients-wanted-a-carousel-now-it-s-an-ai-chatbot.md",
+      "title_zh": "从轮播图到 AI 聊天机器人：客户需求的转变",
+      "created_display": "Created: May 09, 2026 / 00:23 PT",
+      "image_url": null,
+      "summary_en": "A designer notes that client demand shifted from simple carousels to AI chatbots, signaling a broader move toward conversational interfaces. AI-enabled experiences are reshaping product strategy, forcing designers to think about safety, usability, and maintainable AI integrations.",
+      "summary_zh": "作者描述客户需求从轮播图转向 AI 聊天机器人，折射出对对话式界面的日益关注。AI 驱动的体验正在改变产品策略，促使设计师在可用性、可控性与可维护的 AI 集成方面下功夫。",
+      "hn": {
+        "id": 48072720,
+        "type": "story",
+        "by": "edent",
+        "score": 182,
+        "descendants": 76,
+        "time": 1778311420,
+        "comments_url": "https://news.ycombinator.com/item?id=48072720"
+      },
+      "hot_score": 0.35,
+      "tags": [
+        "AI",
+        "Design"
+      ]
+    },
+    {
+      "title_en": "Forking the Web",
+      "url": "https://dillo-browser.org/lab/web-fork/",
+      "title_zh": "对 Web 的分叉实验",
+      "created_display": "Created: May 09, 2026 / 04:33 PT",
+      "image_url": null,
+      "summary_en": "Researchers experiment with 'forking the Web' by building a lab-oriented browser environment to test alternate security models, policies, and performance trade-offs. The effort highlights how modular, forkable architectures can reveal assumptions baked into modern browsers and the web platform.",
+      "summary_zh": "研究者在实验室环境中通过构建面向实验的浏览器环境，测试替代的安全模型、策略与性能权衡，以实现对 Web 的分叉实验。此举强调模块化、可分叉架构如何暴露现代浏览器与网络平台中的隐性假设。",
+      "hn": {
+        "id": 48074087,
+        "type": "story",
+        "by": "wrxd",
+        "score": 129,
+        "descendants": 131,
+        "time": 1778326387,
+        "comments_url": "https://news.ycombinator.com/item?id=48074087"
+      },
+      "tags": [
+        "Web",
+        "Security"
+      ],
+      "hot_score": 0.32
+    },
+    {
+      "title_en": "Teaching Claude Why",
+      "url": "https://www.anthropic.com/research/teaching-claude-why",
+      "title_zh": "教会 Claude 为什么",
+      "created_display": "Created: May 08, 2026 / 10:59 PT",
+      "image_url": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20Knot&backgroundColor=cactus",
+      "summary_en": "Anthropic explores methods to teach Claude to explain its reasoning, enhancing transparency and user trust in large language models. By prompting for justifications and training for verifiable reasoning, the approach aims to reduce hallucinations and improve debuggability in practice.",
+      "summary_zh": "Anthropic 探讨让 Claude 解释自己推理过程的方法，以提高透明度和信任度。通过引导性提示和可验证推理的训练，旨在减少幻觉并提升调试性。",
+      "hn": {
+        "id": 48066592,
+        "type": "story",
+        "by": "pretext",
+        "score": 256,
+        "descendants": 146,
+        "time": 1778263181,
+        "comments_url": "https://news.ycombinator.com/item?id=48066592"
+      },
+      "tags": [
+        "AI",
+        "Education"
+      ],
+      "hot_score": 0.26
+    },
+    {
+      "title_en": "Over 97% of the 'Linux' Foundation's Budget Goes Not to Linux",
+      "url": "https://techrights.org/n/2026/05/08/Over_97_of_the_Linux_Foundation_s_Budget_Goes_Not_to_Linux.shtml",
+      "title_zh": "Linux 基金会预算中97%流向非 Linux 项目",
+      "created_display": "Created: May 08, 2026 / 20:21 PT",
+      "image_url": "https://techrights.org/images/header-pillars.jpg",
+      "summary_en": "Claims the Linux Foundation allocates over 97% of its budget away from Linux work, prompting questions about governance and funding priorities in open-source ecosystems. Sparks discussion about how foundations balance stewardship, vendor relations, and core project investment.",
+      "summary_zh": "批评 Linux 基金会的预算分配，称97%并非用于 Linux 核心项目，引发关于开源治理和资金优先级的讨论。探讨基金会在治理、商业关系与核心工程投资之间的权衡。",
+      "hn": {
+        "id": 48071496,
+        "type": "story",
+        "by": "esaym",
+        "score": 163,
+        "descendants": 104,
+        "time": 1778296866,
+        "comments_url": "https://news.ycombinator.com/item?id=48071496"
+      },
+      "tags": [
+        "Open Source",
+        "Business"
+      ],
+      "hot_score": 0.25
+    },
+    {
+      "title_en": "Serving a website on a Raspberry Pi Zero running in RAM",
+      "url": "https://btxx.org/posts/memory/",
+      "title_zh": "在 RAM 中运行的 Raspberry Pi Zero 托管网站",
+      "created_display": "Created: May 08, 2026 / 08:10 PT",
+      "image_url": "https://btxx.org/public/images/pi-zero.png",
+      "summary_en": "Introduction to serving a site from RAM on a Raspberry Pi Zero, using a memory-based filesystem to achieve fast, wear-free hosting. The approach trades persistence for low latency and reduced SD card wear, making it suitable for ephemeral demos and low-traffic setups.",
+      "summary_zh": "介绍在 Raspberry Pi Zero 的内存中运行并托管一个网站，利用内存文件系统实现快速、减少写入磨损的托管。此方法以牺牲持久性换取低延迟和降低 SD 卡磨损，适合短期演示和低流量场景。",
+      "hn": {
+        "id": 48064312,
+        "type": "story",
+        "by": "xngbuilds",
+        "score": 246,
+        "descendants": 97,
+        "time": 1778253035,
+        "comments_url": "https://news.ycombinator.com/item?id=48064312"
+      },
+      "tags": [
+        "Hardware",
+        "Web"
+      ],
+      "hot_score": 0.23
+    },
+    {
+      "title_en": "Apple, Intel have reached preliminary chip-making deal",
+      "url": "https://www.reuters.com/business/apple-intel-have-reached-preliminary-chip-making-deal-wsj-reports-2026-05-08/",
+      "title_zh": "苹果与英特尔达成初步芯片制造协议",
+      "created_display": "Created: May 08, 2026 / 10:25 PT",
+      "image_url": null,
+      "summary_en": "Apple and Intel have reportedly reached a preliminary agreement to collaborate on chip manufacturing. If confirmed, the partnership could broaden Apple’s access to additional fabrication capacity and diversify its supply chain, complementing its reliance on TSMC for most chips.",
+      "summary_zh": "据称苹果与英特尔已就芯片制造达成初步协议。若成真，可能帮助苹果获得更多代工产能、分散供应风险，并补充其对台积电的现有依赖。",
+      "hn": {
+        "id": 48066169,
+        "type": "story",
+        "by": "scrlk",
+        "score": 227,
+        "descendants": 144,
+        "time": 1778261121,
+        "comments_url": "https://news.ycombinator.com/item?id=48066169"
+      },
+      "tags": [
+        "Business",
+        "Hardware"
+      ],
+      "hot_score": 0.23
+    },
+    {
+      "title_en": "You gave me a u32. I gave you root. (io_uring ZCRX freelist LPE)",
+      "url": "https://ze3tar.github.io/post-zcrx.html",
+      "title_zh": "你给我一个 u32，我就能拿到 root：基于 io_uring freelist 的本地提权漏洞",
+      "created_display": "Created: May 08, 2026 / 12:40 PT",
+      "image_url": null,
+      "summary_en": "Researchers describe a local privilege escalation using io_uring's freelist, where a crafted u32 value can corrupt kernel state and grant root access. The bug exposes a class of LPE vectors in async I/O subsystems and stresses the importance of robust freelist validation and timely kernel fixes. Practitioners should monitor for upstream patches and consider mitigations in environments exposing io_uring to untrusted inputs.",
+      "summary_zh": "研究者发现借助 io_uring 的 freelist 可以通过伪造的 u32 值实现本地提权，获得 root 权限。该漏洞暴露了异步 I/O 子系统中 freelist 处理的安全漏洞，凸显需要加强对 freelist 的校验与及时的内核修复。企业应关注上游补丁并在受信任输入环境中实施缓解。",
+      "hn": {
+        "id": 48067734,
+        "type": "story",
+        "by": "MrBruh",
+        "score": 211,
+        "descendants": 139,
+        "time": 1778269239,
+        "comments_url": "https://news.ycombinator.com/item?id=48067734"
+      },
+      "tags": [
+        "Security",
+        "Programming"
+      ],
+      "hot_score": 0.23
+    },
+    {
+      "title_en": "I returned to AWS, and was reminded why I left",
+      "url": "http://fourlightyears.blogspot.com/2026/05/i-returned-to-aws-and-was-reminded-hard.html",
+      "title_zh": "我回到 AWS，被提醒了为何离开",
+      "created_display": "Created: May 09, 2026 / 01:37 PT",
+      "image_url": "https://resources.blogblog.com/img/icon18_edit_allbkg.gif",
+      "summary_en": "A first-hand account of returning to AWS exposure to cost, vendor lock-in, or outages, highlighting the tradeoffs of cloud choices. The post contrasts AWS with other cloud approaches and stresses the importance of cost management and operational simplicity.",
+      "summary_zh": "作者回到 AWS 的体验再次提醒他为何离开，涉及成本、锁定和运维复杂性等问题。文章对比了 AWS 与其他云方案，强调成本控制与简化运维的重要性。",
+      "hn": {
+        "id": 48073201,
+        "type": "story",
+        "by": "andrewstuart",
+        "score": 105,
+        "descendants": 49,
+        "time": 1778315861,
+        "comments_url": "https://news.ycombinator.com/item?id=48073201"
+      },
+      "hot_score": 0.22,
+      "tags": [
+        "Business"
+      ]
+    },
+    {
+      "title_en": "The React2Shell Story",
+      "url": "https://lachlan.nz/blog/the-react2shell-story/",
+      "title_zh": "React2Shell 的故事",
+      "created_display": "Created: May 08, 2026 / 09:39 PT",
+      "image_url": "https://lachlan.nz/post-images/r2s/Server%20Actions.png",
+      "summary_en": "Tells the backstory of the React2Shell project, illustrating cross-pollination between web UI ideas and shell-like interfaces. Highlights the overheads and surprising insights that emerge when translating React components into a shell-style workflow.",
+      "summary_zh": "讲述 React2Shell 项目的起源和发展，展示 Web UI 思路与 shell 风格工作流之间的交叉。揭示在把 React 组件映射到类 shell 的实现中产生的额外开销和意外收获。",
+      "hn": {
+        "id": 48065511,
+        "type": "story",
+        "by": "mufeedvh",
+        "score": 218,
+        "descendants": 47,
+        "time": 1778258388,
+        "comments_url": "https://news.ycombinator.com/item?id=48065511"
+      },
+      "tags": [
+        "Web",
+        "Design"
+      ],
+      "hot_score": 0.21
+    },
+    {
+      "title_en": "Tesla is recalling its cheaper Cybertruck because the wheels might fall off",
+      "url": "https://www.theverge.com/transportation/926741/tesla-cybertruck-cheaper-recall",
+      "title_zh": "特斯拉召回较低价的 Cybertruck，轮子可能脱落",
+      "created_display": "Created: May 08, 2026 / 06:58 PT",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/cybertruck-long-range.jpeg?quality=90&strip=all&crop=0,8.1151832460733,100,83.769633507853",
+      "summary_en": "Tesla recalls its cheaper Cybertruck due to a risk of wheel detachment. The recall involves inspecting and reworking wheel assemblies, reflecting the ongoing demand for vehicle safety and quality control in scaling EV production.",
+      "summary_zh": "特斯拉召回价格较低的 Cybertruck，原因是轮子可能脱落的风险。召回将涉及对轮毂/轮组的检查和重新装配，体现了在大规模电动车产能扩张中对安全与质量控制的持续关注。",
+      "hn": {
+        "id": 48063240,
+        "type": "story",
+        "by": "droidjj",
+        "score": 215,
+        "descendants": 270,
+        "time": 1778248712,
+        "comments_url": "https://news.ycombinator.com/item?id=48063240"
+      },
+      "tags": [
+        "Business",
+        "Hardware",
+        "Energy"
+      ],
+      "hot_score": 0.19
+    },
+    {
+      "title_en": "Just Use Go",
+      "url": "https://blainsmith.com/articles/just-fucking-use-go/",
+      "title_zh": "就用 Go 吧",
+      "created_display": "Created: May 08, 2026 / 06:40 PT",
+      "image_url": null,
+      "summary_en": "A compact argument for choosing Go for practical software projects, citing its simplicity, fast compile times, and strong standard library. The piece advocates pragmatic tooling decisions over over-engineering for maintainable systems.",
+      "summary_zh": "一篇简短论述，主张在实际软件项目中优先选择 Go，强调语言简洁、编译快速和强大标准库。文中提倡以务实的工具选择取代过度设计，以构建可维护的系统。",
+      "hn": {
+        "id": 48062997,
+        "type": "story",
+        "by": "xngbuilds",
+        "score": 214,
+        "descendants": 201,
+        "time": 1778247622,
+        "comments_url": "https://news.ycombinator.com/item?id=48062997"
+      },
+      "tags": [
+        "Programming"
+      ],
+      "hot_score": 0.19
+    },
+    {
+      "title_en": "People Hate AI Art",
+      "url": "https://mccue.dev/pages/5-8-26-ai-art",
+      "title_zh": "人们讨厌 AI 艺术",
+      "created_display": "Created: May 08, 2026 / 17:39 PT",
+      "image_url": "https://mccue.dev/pages/5-8-26-dinosaur-ai.png",
+      "summary_en": "Rising backlash against AI-generated art cites concerns about originality, copyright, and impact on artists' livelihoods. The piece surveys why many people resist AI art and what it means for artists and platforms navigating licensing and ethics.",
+      "summary_zh": "AI 生成艺术引发广泛反感，焦点在原创性、版权及对艺术家生计的影响等问题。文章探讨人们为何对 AI 艺术持批评态度，以及行业在版权与道德框架方面面临的挑战。",
+      "hn": {
+        "id": 48070548,
+        "type": "story",
+        "by": "3dedb728-3f77",
+        "score": 142,
+        "descendants": 169,
+        "time": 1778287198,
+        "comments_url": "https://news.ycombinator.com/item?id=48070548"
+      },
+      "hot_score": 0.19,
+      "tags": [
+        "AI",
+        "Culture",
+        "Legal"
+      ]
+    },
+    {
+      "title_en": "Let’s Encrypt: Stopping Issuance for Potential Incident – Resolved",
+      "url": "https://letsencrypt.status.io/pages/incident/55957a99e800baa4470002da/69fe2d6698ca07050eb4b1b3",
+      "title_zh": "Let’s Encrypt：潜在事件中止签发证书—现已解决",
+      "created_display": "Created: May 08, 2026 / 12:45 PT",
+      "image_url": "https://image.status.io/ZsUlrVAwD16p.png",
+      "summary_en": "Let's Encrypt halted new certificate issuance during a potential incident and has since resolved the issue. The incident underscores the resilience and governance of automated CAs and the importance of prompt incident response to maintain TLS trust.",
+      "summary_zh": "Let’s Encrypt 在潜在事件期间暂停了证书签发，现已解决。这一事件强调了自动化证书颁发机构在维护 TLS 信任方面的韧性与治理，以及快速应对能力的重要性。",
+      "hn": {
+        "id": 48067790,
+        "type": "story",
+        "by": "rbaudibert",
+        "score": 143,
+        "descendants": 90,
+        "time": 1778269528,
+        "comments_url": "https://news.ycombinator.com/item?id=48067790"
+      },
+      "tags": [
+        "Security"
+      ],
+      "hot_score": 0.16
+    },
+    {
+      "title_en": "Production engineering when trading billions of dollars a day [video]",
+      "url": "https://www.youtube.com/watch?v=zR9PpXWsKFQ",
+      "title_zh": "日交易额达数十亿美元时的生产工程实践 [视频]",
+      "created_display": "Created: May 08, 2026 / 12:45 PT",
+      "image_url": null,
+      "summary_en": "A production engineer describes the live-in production practices behind billions of dollars in daily trades, covering latency budgets, incident response, and deployment discipline. The talk reveals how reliability engineering adapts to ultra-low latency, high-stakes environments where downtime is costly.",
+      "summary_zh": "一位生产工程师介绍在日交易额达数十亿美元的金融系统中，可靠性实践如何落地，涵盖延迟预算、事件响应及部署规范。演讲揭示了在超低时延、高风险环境下，SRE 方法如何进行适应性调整，以避免昂贵的停机。",
+      "hn": {
+        "id": 48067786,
+        "type": "story",
+        "by": "abstrus",
+        "score": 129,
+        "descendants": 41,
+        "time": 1778269521,
+        "comments_url": "https://news.ycombinator.com/item?id=48067786"
+      },
+      "tags": [
+        "Finance"
+      ],
+      "hot_score": 0.14
+    },
+    {
+      "title_en": "PC Engine CPU",
+      "url": "https://jsgroth.dev/blog/posts/pc-engine-cpu/",
+      "title_zh": "PC Engine 的 CPU 解析",
+      "created_display": "Created: May 08, 2026 / 07:14 PT",
+      "image_url": null,
+      "summary_en": "An exploration of the PC Engine's CPU, the HuC6280, an enhanced 8-bit processor derived from 6502 architecture. The post shows how this CPU design influenced the console's performance and programming model, contributing to its distinctive era of games.",
+      "summary_zh": "本文聚焦 PC Engine 的处理器 HuC6280，这是一颗基于 6502 架构的增强型 8 位处理器。该设计影响了主机的性能与编程模型，成为其独特游戏时代背后的硬件基础。",
+      "hn": {
+        "id": 48063521,
+        "type": "story",
+        "by": "ibobev",
+        "score": 143,
+        "descendants": 69,
+        "time": 1778249671,
+        "comments_url": "https://news.ycombinator.com/item?id=48063521"
+      },
+      "hot_score": 0.13,
+      "tags": [
+        "Hardware",
+        "Programming"
+      ]
+    },
+    {
+      "title_en": "What we lost the last time code got cheap",
+      "url": "https://www.poppastring.com/blog/what-we-lost-the-last-time-code-got-cheap",
+      "title_zh": "上一次代码变便宜时我们失去了什么",
+      "created_display": "Created: May 08, 2026 / 11:53 PT",
+      "image_url": "https://www.poppastring.com/blog/content/binary/cricket-ball-made-in-india.jpg",
+      "summary_en": "A meditation on what was lost when software development grew cheaper: increased tech debt, brittle systems, and reduced emphasis on long-term maintainability. The piece argues for sustainable engineering practices, thoughtful trade-offs, and valuing developer time.",
+      "summary_zh": "文章审视当软件开发成本下降时带来的负面影响：技术负债上升、系统脆弱，以及对长期可维护性的忽视。提出坚持可持续的工程实践、理性权衡并重视开发者时间的必要性。",
+      "hn": {
+        "id": 48067197,
+        "type": "story",
+        "by": "speckx",
+        "score": 120,
+        "descendants": 115,
+        "time": 1778266388,
+        "comments_url": "https://news.ycombinator.com/item?id=48067197"
+      },
+      "hot_score": 0.13,
+      "tags": [
+        "Programming",
+        "Business"
+      ]
+    },
+    {
+      "title_en": "Podman rootless containers and the Copy Fail exploit",
+      "url": "https://garrido.io/notes/podman-rootless-containers-copy-fail/",
+      "title_zh": "Podman 无根容器中的 Copy-Fail 漏洞",
+      "created_display": "Created: May 08, 2026 / 06:22 PT",
+      "image_url": "https://garrido.io/images/circle_hu_1ac61dd29ff0bbfe.png",
+      "summary_en": "Podman rootless containers are affected by a Copy-Fail exploit that can complicate file copying in unprivileged mode. The finding highlights ongoing challenges in securing rootless container workflows and pushes for hardened sanitization and verification.",
+      "summary_zh": "Podman 无根容器的 Copy-Fail 漏洞可能在无特权模式下引发文件复制的安全问题，凸显无根容器安全的持续挑战，并推动对工作流的强化与验证。",
+      "hn": {
+        "id": 48062745,
+        "type": "story",
+        "by": "ggpsv",
+        "score": 137,
+        "descendants": 24,
+        "time": 1778246553,
+        "comments_url": "https://news.ycombinator.com/item?id=48062745"
+      },
+      "hot_score": 0.12,
+      "tags": [
+        "Security",
+        "Programming"
+      ]
+    },
+    {
+      "title_en": "Apple Is Holding My Pictures Hostage Until I Accept Their New Terms of Service",
+      "url": "https://probablydance.com/2026/05/01/apple-is-holding-my-pictures-hostage-until-i-accept-their-new-terms-of-service/",
+      "title_zh": "苹果在我接受新条款前扣押我的照片",
+      "created_display": "Created: May 08, 2026 / 12:19 PT",
+      "image_url": "https://probablydance.com/wp-content/uploads/2026/04/pxl_20260423_234552039.large_.jpeg",
+      "summary_en": "A personal essay alleging Apple is restricting access to photos until users accept updated terms of service, raising concerns about data ownership and platform power.",
+      "summary_zh": "作者指控苹果在用户接受更新条款前限制访问照片，质疑数据所有权与平台控制力。文章讨论在大型平台生态中用户权利与风险，以及对隐私的潜在影响。",
+      "hn": {
+        "id": 48067496,
+        "type": "story",
+        "by": "ibobev",
+        "score": 112,
+        "descendants": 64,
+        "time": 1778267955,
+        "comments_url": "https://news.ycombinator.com/item?id=48067496"
+      },
+      "hot_score": 0.12,
+      "tags": [
+        "Privacy",
+        "Legal"
+      ]
+    },
+    {
+      "title_en": "Can LLMs model real-world systems in TLA+?",
+      "url": "https://www.sigops.org/2026/can-llms-model-real-world-systems-in-tla/",
+      "title_zh": "LLMs 能否用 TLA+ 对现实世界系统建模？",
+      "created_display": "Created: May 08, 2026 / 09:21 PT",
+      "image_url": "https://www.sigops.org/wp-content/uploads/2026/05/sysmobench-1672x941.jpg",
+      "summary_en": "It discusses the risks of inaccuracies in formal analysis and the potential for hybrid workflows where LLMs assist human experts.",
+      "summary_zh": "本文探讨大型语言模型是否能够用 TLA+ 为现实系统生成准确的形式化规范，并分析语言模型在严格建模中的局限性与风险。也提出将 LLM 作为辅助工具，与人类专家共同工作以提高建模质量与效率。",
+      "hn": {
+        "id": 48065254,
+        "type": "story",
+        "by": "mad",
+        "score": 119,
+        "descendants": 31,
+        "time": 1778257316,
+        "comments_url": "https://news.ycombinator.com/item?id=48065254"
+      },
+      "hot_score": 0.11,
+      "tags": [
+        "AI",
+        "Science"
+      ]
+    },
+    {
+      "title_en": "Show HN: Git for AI Agents",
+      "url": "https://github.com/regent-vcs/re_gent",
+      "title_zh": "Show HN：面向 AI 代理的 Git",
+      "created_display": "Created: May 08, 2026 / 07:15 PT",
+      "image_url": "https://opengraph.githubassets.com/7a37b97e0c56aa938fa59c19efe36fd85f5c63c7e05d4fffd222f81ed55b3158/regent-vcs/re_gent",
+      "summary_en": "Show HN introduces a Git-inspired tool tailored for AI-agent workflows, enabling reproducible traces of actions and state management across agents. This project demonstrates how version-control concepts can be extended to cognitive processes and collaborative AI tasks.",
+      "summary_zh": "Show HN 介绍了一款面向 AI 代理工作流的 Git 风格工具，支持跨代理的可重复行动追踪与状态管理。该项目展示了将版本控制概念扩展到认知过程与协作型 AI 任务的可行性。",
+      "hn": {
+        "id": 48063548,
+        "type": "story",
+        "by": "doshay",
+        "score": 116,
+        "descendants": 64,
+        "time": 1778249736,
+        "comments_url": "https://news.ycombinator.com/item?id=48063548"
+      },
+      "hot_score": 0.1,
+      "tags": [
+        "Show HN",
+        "Programming",
+        "AI"
+      ]
+    },
+    {
+      "title_en": "Court to DOGE: Asking ChatGPT 'Is This DEI?' Is Not Proper Legal Process",
+      "url": "https://www.techdirt.com/2026/05/08/court-to-doge-bros-asking-chatgpt-yo-is-this-dei-is-not-proper-legal-process-also-a-first-amendment-violation/",
+      "title_zh": "法院对 DOGE：让 ChatGPT 判断“这是否属于 DEI？”不是合适的法律程序",
+      "created_display": "Created: May 08, 2026 / 10:14 PT",
+      "image_url": "https://www.techdirt.com/wp-content/themes/techdirt/assets/images/td-rect-logo-white.png",
+      "summary_en": "A court admonishes a legal filing where an argument relies on ChatGPT outputs to assess DEI compliance, clarifying that AI-generated conclusions are not a substitute for evidence or legal reasoning. The ruling also touches on First Amendment concerns around AI assistance in legal processes and underscores the need for human oversight.",
+      "summary_zh": "法院警告，使用 ChatGPT 判断“这是否属于 DEI”的做法并非正当的法律程序，强调 AI 产出不能替代证据与法律推理。判决还涉及与 AI 辅助相关的第一修正案问题，强调需要人为监督与校验法律材料。",
+      "hn": {
+        "id": 48066038,
+        "type": "story",
+        "by": "hn_acker",
+        "score": 97,
+        "descendants": 17,
+        "time": 1778260492,
+        "comments_url": "https://news.ycombinator.com/item?id=48066038"
+      },
+      "hot_score": 0.1,
+      "tags": [
+        "Legal",
+        "AI"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1173 @@
+{
+  "meta": {
+    "mode": "best",
+    "source": "https://news.ycombinator.com/",
+    "api": "https://github.com/HackerNews/API",
+    "count_requested": 50,
+    "count_written": 50,
+    "reused_same_day": 0,
+    "reused_cross_day": 22,
+    "new_llm_enriched": 7,
+    "scrape_time_display": "08:33, June 18, 2026 (PDT)",
+    "timezone": "America/Los_Angeles",
+    "date_dir": "2026/06/17",
+    "content_date": "2026-06-17",
+    "run_time_local": "08:33, June 18, 2026 (PDT)",
+    "run_time_utc": "2026-06-18 15:33:13 UTC",
+    "incremental": true,
+    "stories_max": 50,
+    "hot_score_time_utc": "2026-06-18 15:33:53 UTC"
+  },
+  "items": [
+    {
+      "title_en": "Microsoft new Outlook takes 10 seconds to do what Outlook Classic does instantly",
+      "url": "https://www.windowslatest.com/2026/06/15/microsofts-new-outlook-takes-10-seconds-to-do-what-outlook-classic-does-instantly-on-windows/",
+      "title_zh": "微软新版 Outlook 比经典版慢十秒",
+      "created_display": "Created: Jun 18, 2026 / 05:19 PT",
+      "image_url": "https://www.windowslatest.com/wp-content/uploads/2026/06/Clicking-Outlook-notifications-will-take-longer-to-load-the-email-than-if-you-open-the-app-and-find-the-mail-directly.jpg",
+      "summary_en": "The new Outlook design takes about ten seconds to complete tasks that the classic app did instantly, highlighting a productivity hit from modernization. This reflects a broader tension between feature-rich updates and user experience in enterprise software, fueling calls for an option to revert to a familiar workflow.",
+      "summary_zh": "新版 Outlook 在完成一些经典版能瞬间完成的任务时需约十秒，暴露出现代化改造带来的生产力损失。这反映了企业软件在功能增强与用户体验之间的博弈，也推动了对保留熟悉工作流的需求。",
+      "hn": {
+        "id": 48584207,
+        "type": "story",
+        "by": "Adam-Hincu",
+        "score": 251,
+        "descendants": 171,
+        "time": 1781785145,
+        "comments_url": "https://news.ycombinator.com/item?id=48584207"
+      },
+      "hot_score": 12.65,
+      "tags": [
+        "Business"
+      ]
+    },
+    {
+      "title_en": "Emacs 31 Is Around the Corner: The Changes I'm Daily Driving",
+      "url": "https://www.rahuljuliato.com/posts/emacs-31-around-the-corner",
+      "title_zh": "Emacs 31 即将到来：我日常使用中的变更点",
+      "created_display": "Created: Jun 18, 2026 / 05:10 PT",
+      "image_url": "https://www.rahuljuliato.com/assets/blog/posts/emacs-31-around-the-corner.png",
+      "summary_en": "As Emacs 31 approaches, the author details daily-driving changes that improve editing, navigation, and package management. These practical tweaks promise meaningful productivity gains for power users who customize their workflow. It’s a glimpse into how small iterates accumulate into a better editing experience.",
+      "summary_zh": "随着 Emacs 31 的到来，作者分享日常使用中的改动点，涵盖编辑、导航和包管理等方面的提升。这些实际改动对定制工作流的高级用户可能带来显著的生产力提升，展示了小改动如何累积成更高效的编辑体验。",
+      "hn": {
+        "id": 48584135,
+        "type": "story",
+        "by": "frou_dh",
+        "score": 222,
+        "descendants": 99,
+        "time": 1781784653,
+        "comments_url": "https://news.ycombinator.com/item?id=48584135"
+      },
+      "hot_score": 10.68,
+      "tags": [
+        "Programming",
+        "Open Source"
+      ]
+    },
+    {
+      "title_en": "Midjourney Medical",
+      "url": "https://www.midjourney.com/medical/blogpost",
+      "title_zh": "Midjourney 医疗应用",
+      "created_display": "Created: Jun 17, 2026 / 18:59 PT",
+      "image_url": null,
+      "summary_en": "Midjourney extends its generative AI into medical contexts, exploring potential uses for imaging, diagnostics, and patient communication. The discussion highlights the tradeoffs between creative flexibility and the stringent safety, privacy, and accuracy requirements in healthcare.",
+      "summary_zh": "Midjourney 将其生成式 AI 引入医疗场景，探索在影像、诊断与病人沟通中的潜在应用。讨论强调在医疗领域对安全、隐私与准确性等高要求与创意灵活性之间的权衡。",
+      "hn": {
+        "id": 48579650,
+        "type": "story",
+        "by": "ricochet11",
+        "score": 1089,
+        "descendants": 752,
+        "time": 1781747991,
+        "comments_url": "https://news.ycombinator.com/item?id=48579650"
+      },
+      "tags": [
+        "AI",
+        "Health",
+        "Privacy"
+      ],
+      "hot_score": 7.77
+    },
+    {
+      "title_en": "AMD silently removes memory encryption from consumer Ryzen CPUs",
+      "url": "https://www.tomshardware.com/pc-components/cpus/amd-silently-removes-memory-encryption-from-consumer-ryzen-cpus-leaving-users-unaware-that-they-may-be-vulnerable-security-feature-vanishes-after-newer-agesa-firmware-amd-engineers-go-radio-silent-when-pressed-about-the-change",
+      "title_zh": "AMD悄然移除消费级 Ryzen CPU 的内存加密",
+      "created_display": "Created: Jun 18, 2026 / 01:08 PT",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/UdLqeSxzsPucb6GRFDjLm6-1600-80.jpg",
+      "summary_en": "AMD quietly removed memory encryption from some consumer Ryzen CPUs via a firmware update, reducing protection against memory-snooping attacks. The change was not publicly announced, leaving users to discover it through firmware notes. The move has security implications for memory-resident data and enclaves, and affected users should consider staying on older AGESA firmware or applying compensating protections where available.",
+      "summary_zh": "AMD 通过固件更新悄然移除了部分消费级 Ryzen CPU 的内存加密，削弱了对内存窃取等攻击的保护。这一变更未公开宣布，用户需要通过固件说明才发现。此举对内存驻留数据和安全区域有影响，受影响的用户应考虑保留较旧的 AGESA 固件版本或在可用时应用替代保护措施。",
+      "hn": {
+        "id": 48582320,
+        "type": "story",
+        "by": "lompad",
+        "score": 315,
+        "descendants": 155,
+        "time": 1781770080,
+        "comments_url": "https://news.ycombinator.com/item?id=48582320"
+      },
+      "tags": [
+        "Security",
+        "Hardware"
+      ],
+      "hot_score": 5.53
+    },
+    {
+      "title_en": "DeepSeek Introduces Vision",
+      "url": "https://chat.deepseek.com/",
+      "title_zh": "DeepSeek 推出 Vision",
+      "created_display": "Created: Jun 17, 2026 / 23:17 PT",
+      "image_url": null,
+      "summary_en": "DeepSeek releases Vision, a new computer-vision platform meant to simplify building AI-powered visual apps. It emphasizes developer-friendly APIs and real-time performance across edge and cloud deployments. The launch could influence how teams prototype and deploy CV workloads.",
+      "summary_zh": "DeepSeek 发布 Vision，这是一款旨在简化构建AI驱动视觉应用的新型计算机视觉平台。它强调面向开发者友好的 API 和在边缘及云端的实时性能。此次发布可能影响团队在原型设计与CV工作负载部署上的方式。",
+      "hn": {
+        "id": 48581458,
+        "type": "story",
+        "by": "RIshabh235",
+        "score": 333,
+        "descendants": 131,
+        "time": 1781763460,
+        "comments_url": "https://news.ycombinator.com/item?id=48581458"
+      },
+      "tags": [
+        "AI",
+        "Programming"
+      ],
+      "hot_score": 4.24
+    },
+    {
+      "title_en": "Lore – Open source version control system designed for scalability",
+      "url": "https://lore.org/",
+      "title_zh": "Lore：为可扩展性设计的开源版本控制系统",
+      "created_display": "Created: Jun 17, 2026 / 07:30 PT",
+      "image_url": "https://cms-assets.unrealengine.com/AEOpzOpKNRbioUBp6s1Yjz/resize=width:1200/cmpy4vcov0my207oh3rrbztmu",
+      "summary_en": "Lore is an open-source version control system built to scale with large codebases and teams. It emphasizes performance and architecture designed to handle millions of files, making collaboration smoother for enterprises and big projects. The takeaway: it positions itself as a scalable alternative to traditional VCS in environments where Git can struggle.",
+      "summary_zh": "Lore 是一个为大型代码库和团队协作而设计的开源版本控制系统。它强调高性能和可扩展的架构，能够处理海量文件，从而为企业级大项目提供更顺畅的协作。核心在于它试图在 Git 可能吃力的环境中提供一个可扩展的替代方案。",
+      "hn": {
+        "id": 48571081,
+        "type": "story",
+        "by": "regnerba",
+        "score": 1202,
+        "descendants": 638,
+        "time": 1781706627,
+        "comments_url": "https://news.ycombinator.com/item?id=48571081"
+      },
+      "tags": [
+        "Open Source",
+        "Programming"
+      ],
+      "hot_score": 3.17
+    },
+    {
+      "title_en": "Local Qwen isn't a worse Opus, it's a different tool",
+      "url": "https://blog.alexellis.io/local-ai-is-not-opus/",
+      "title_zh": "本地 Qwen 不是比 Opus 差，而是另一种工具",
+      "created_display": "Created: Jun 17, 2026 / 20:04 PT",
+      "image_url": "https://blog.alexellis.io/content/images/2026/06/17/6000.jpg",
+      "summary_en": "Local Qwen and Opus serve different needs in offline AI deployment; the post argues it's not about one being worse, but about fitting the use case, latency, and autonomy requirements. It contrasts the tradeoffs between size, accuracy, and privacy in local models.",
+      "summary_zh": "本地版 Qwen 与 Opus 面向离线部署的需求不同，文章认为两者并非孰优孰劣，而是各自适配的使用场景、延迟和自主性需求。对比了在本地模型中尺寸、准确性与隐私之间的权衡。",
+      "hn": {
+        "id": 48580209,
+        "type": "story",
+        "by": "alphabettsy",
+        "score": 351,
+        "descendants": 191,
+        "time": 1781751860,
+        "comments_url": "https://news.ycombinator.com/item?id=48580209"
+      },
+      "tags": [
+        "AI",
+        "Privacy"
+      ],
+      "hot_score": 2.84
+    },
+    {
+      "title_en": "Sixty percent of US consumers say 'AI' in brand messaging is a turnoff",
+      "url": "https://wpvip.com/future-of-the-web-2026/",
+      "title_zh": "60% 的美国消费者认为品牌信息中的 AI 会让人反感",
+      "created_display": "Created: Jun 17, 2026 / 05:11 PT",
+      "image_url": "https://wpvip.com/wp-content/uploads/sites/3/2026/06/FOW-REPORT_f53628.jpg",
+      "summary_en": "Many US consumers are turned off by AI buzzwords in brand messaging. Brands should emphasize authentic value and real capabilities rather than hype. This trend underscores the need for responsible, outcome-focused AI marketing.",
+      "summary_zh": "六成美国消费者对品牌信息中的 AI 概念感到反感，认为这是噱头。品牌应聚焦真实价值与实际能力，而非空洞的技术炒作。此趋势凸显在 AI 营销中避免过度承诺、追求可验证结果的重要性。",
+      "hn": {
+        "id": 48569278,
+        "type": "story",
+        "by": "thm",
+        "score": 1054,
+        "descendants": 564,
+        "time": 1781698287,
+        "comments_url": "https://news.ycombinator.com/item?id=48569278"
+      },
+      "tags": [
+        "Business",
+        "AI"
+      ],
+      "hot_score": 2.4
+    },
+    {
+      "title_en": "Volkswagen started blocking GrapheneOS users",
+      "url": "https://discuss.grapheneos.org/d/35949-volkswagen-app?page=3",
+      "title_zh": "大众汽车开始屏蔽 GrapheneOS 用户",
+      "created_display": "Created: Jun 17, 2026 / 08:04 PT",
+      "image_url": "https://discuss.grapheneos.org/opengraph.png",
+      "summary_en": "Volkswagen has started blocking GrapheneOS users from its apps. The move highlights ongoing frictions between privacy-focused mobile OS choices and corporate app ecosystems, raising questions about platform-level access and user rights. It underscores how vendor policies can limit privacy-aware users and the ecosystems around open-source mobile OSes.",
+      "summary_zh": "大众汽车开始屏蔽 GrapheneOS 用户使用其应用的行为凸显了隐私导向的移动系统与厂商应用生态之间的矛盾。此举引发对平台访问和用户权益的讨论，也提醒隐私友好型操作系统的使用者可能面临被排除的风险。厂商政策对开源移动生态的影响再次成为焦点。",
+      "hn": {
+        "id": 48571526,
+        "type": "story",
+        "by": "microtonal",
+        "score": 747,
+        "descendants": 440,
+        "time": 1781708687,
+        "comments_url": "https://news.ycombinator.com/item?id=48571526"
+      },
+      "tags": [
+        "Privacy",
+        "Open Source"
+      ],
+      "hot_score": 2.05
+    },
+    {
+      "title_en": "SteamOS Linux 3.8 released as stable",
+      "url": "https://store.steampowered.com/news/app/1675200/view/697641379212298072",
+      "title_zh": "SteamOS 3.8 已稳定发布",
+      "created_display": "Created: Jun 17, 2026 / 21:05 PT",
+      "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1675200/ce93cfd12a888ecfbb5428b11bcc15e4352a21d0/capsule_616x353.jpg",
+      "summary_en": "Stable release marks Steam Deck's software parity with Linux ecosystem; includes improvements to gaming compatibility, driver support, and performance. The update could impact indie devs and users relying on SteamOS for headless boxes.",
+      "summary_zh": "SteamOS 3.8 正式稳定发布，为 Steam Deck 与兼容设备带来 Linux 调优、驱动与游戏兼容性的更新，标志着该平台在硬件支持方面的成熟。",
+      "hn": {
+        "id": 48580686,
+        "type": "story",
+        "by": "jrepinc",
+        "score": 200,
+        "descendants": 64,
+        "time": 1781755506,
+        "comments_url": "https://news.ycombinator.com/item?id=48580686"
+      },
+      "tags": [
+        "Gaming"
+      ],
+      "hot_score": 1.84
+    },
+    {
+      "title_en": "U.S. science is in chaos",
+      "url": "https://www.scientificamerican.com/article/americas-compact-between-science-and-politics-is-broken/",
+      "title_zh": "美国科学界陷入混乱",
+      "created_display": "Created: Jun 17, 2026 / 02:54 PT",
+      "image_url": "https://static.scientificamerican.com/dam/asset/14de7018-3a11-43b8-8392-6e83ccd5b0a3/saw070826Roge01.jpg?m=1779983432.668&w=1200",
+      "summary_en": "An analysis arguing the U.S. science-politics compact is broken, threatening long-term funding, independent oversight, and scientific consensus.",
+      "summary_zh": "一篇分析指出，美国科学与政治之间的默契已破裂，长期资助、独立监督和科学共识受到威胁。文章强调政治极化和短期政策周期削弱了研究生态系统，也影响着科技创新的发展。",
+      "hn": {
+        "id": 48568058,
+        "type": "story",
+        "by": "presspot",
+        "score": 852,
+        "descendants": 1038,
+        "time": 1781690061,
+        "comments_url": "https://news.ycombinator.com/item?id=48568058"
+      },
+      "tags": [
+        "Science",
+        "Politics"
+      ],
+      "hot_score": 1.69
+    },
+    {
+      "title_en": "GLM-5.2 is the new leading open weights model on Artificial Analysis",
+      "url": "https://artificialanalysis.ai/articles/glm-5-2-is-the-new-leading-open-weights-model-on-the-artificial-analysis-intelligence-index",
+      "title_zh": "GLM-5.2 成为 Artificial Analysis 上的开源权重新领先者",
+      "created_display": "Created: Jun 17, 2026 / 02:12 PT",
+      "image_url": "https://cdn.sanity.io/images/6vfeftx9/articles/204f6bd201e215286fd69d162a84dfdf4a24d197-768x768.webp?w=1200&auto=format",
+      "summary_en": "GLM-5.2 has emerged as the leading open-weight model on the Artificial Analysis index, outperforming its predecessors in benchmark tests. It demonstrates strong generalization with competitive inference speed, illustrating how open-weight ecosystems continue to close the gap with closed models. This trend lowers barriers for researchers to experiment with powerful LLMs at scale.",
+      "summary_zh": "GLM-5.2 已成为开源权重模型的领先者，领先于前代模型并在基准测试中表现突出。它在推理速度和泛化能力方面表现有竞争力，标志着开源权重生态的成熟。此趋势降低了研究人员在大模型实验中的门槛。",
+      "hn": {
+        "id": 48567759,
+        "type": "story",
+        "by": "himata4113",
+        "score": 862,
+        "descendants": 424,
+        "time": 1781687520,
+        "comments_url": "https://news.ycombinator.com/item?id=48567759"
+      },
+      "tags": [
+        "AI",
+        "Open Source"
+      ],
+      "hot_score": 1.65
+    },
+    {
+      "title_en": "Leaked financial docs show OpenAI is losing billions of dollars a year",
+      "url": "https://arstechnica.com/ai/2026/06/leaked-financial-docs-show-openai-is-losing-billions-of-dollars-a-year/",
+      "title_zh": "泄露的财务文件显示 OpenAI 每年亏损数十亿美元",
+      "created_display": "Created: Jun 17, 2026 / 14:31 PT",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-1828746438-1152x648.jpg",
+      "summary_en": "Leaked financial documents reveal OpenAI is losing billions annually, underscoring the expense of scaling cutting-edge AI. The numbers highlight the tension between ambitious capabilities and profitability, likely forcing pricing, partnerships, or efficiency improvements. The situation emphasizes the need for a sustainable financial strategy in high-cost AI initiatives.",
+      "summary_zh": "泄露的财务文件显示 OpenAI 每年亏损数十亿美元，凸显扩展前沿 AI 成本之高。数字反映了愿景与盈利之间的张力，可能推动定价、合作与效率方面的调整。此事强调在高成本 AI 项目中建立可持续财政策略的必要性。",
+      "hn": {
+        "id": 48577208,
+        "type": "story",
+        "by": "greenchair",
+        "score": 355,
+        "descendants": 4,
+        "time": 1781731895,
+        "comments_url": "https://news.ycombinator.com/item?id=48577208"
+      },
+      "hot_score": 1.61,
+      "tags": [
+        "Business",
+        "Finance",
+        "AI"
+      ]
+    },
+    {
+      "title_en": "Want your images back? That'll be $5",
+      "url": "https://www.lutr.dev/want-your-images-back-sure-that-ll-be-5-dollars",
+      "title_zh": "要回你的图片？要收取5美元",
+      "created_display": "Created: Jun 17, 2026 / 06:05 PT",
+      "image_url": "https://lutr.dev/assets/covers/want-your-images-back-sure-that-ll-be-5-dollars.png",
+      "summary_en": "A service charging a flat fee to retrieve your images highlights the economics of data recovery and ownership in an AI-enabled world. It spotlights the friction and costs users face when reclaiming their own media.",
+      "summary_zh": "关于用固定费用（5 美元）来让用户找回自己的图片，折射出数据所有权、隐私与数据恢复成本在 AI 时代的经济性与伦理议题。",
+      "hn": {
+        "id": 48569954,
+        "type": "story",
+        "by": "lutr",
+        "score": 642,
+        "descendants": 265,
+        "time": 1781701503,
+        "comments_url": "https://news.ycombinator.com/item?id=48569954"
+      },
+      "tags": [
+        "Data",
+        "AI"
+      ],
+      "hot_score": 1.54
+    },
+    {
+      "title_en": "Tesco moving 40k server workloads off VMware amid Broadcom's abusive conduct",
+      "url": "https://arstechnica.com/information-technology/2026/06/tesco-moving-40000-server-workloads-off-vmware-amid-broadcoms-abusive-conduct/",
+      "title_zh": "Tesco 将 4 万台服务器工作负载从 VMware 转移，因 Broadcom 的不当行为",
+      "created_display": "Created: Jun 17, 2026 / 14:00 PT",
+      "image_url": null,
+      "summary_en": "Tesco is migrating 40,000 server workloads away from VMware, citing Broadcom’s licensing and conduct as a push factor. The move signals enterprise preference for less punitive licensing and more flexible virtualization or cloud options. It reflects ongoing vendor tensions and cost containment in large retailers.",
+      "summary_zh": "Tesco 将 4 万台服务器工作负载从 VMware 转移，原因指向 Broadcom 的许可策略和行为问题。这一举动透露大型企业对更灵活的虚拟化或云方案的偏好，以及对厂商定价与策略的担忧，折射出行业的成本管控压力。",
+      "hn": {
+        "id": 48576838,
+        "type": "story",
+        "by": "Bender",
+        "score": 351,
+        "descendants": 216,
+        "time": 1781730053,
+        "comments_url": "https://news.ycombinator.com/item?id=48576838"
+      },
+      "tags": [
+        "Business",
+        "DevOps"
+      ],
+      "hot_score": 1.52
+    },
+    {
+      "title_en": "Running local models is good now",
+      "url": "https://vickiboykis.com/2026/06/15/running-local-models-is-good-now/",
+      "title_zh": "本地运行模型现在已经可行",
+      "created_display": "Created: Jun 16, 2026 / 07:36 PT",
+      "image_url": "https://vickiboykis.com/images/refactor_gemma.png",
+      "summary_en": "Recent advances in open-source models, tooling, and consumer hardware have made running local models practical again. Local inference offers privacy, lower latency, and offline reliability, though trade-offs in performance and updatability remain.",
+      "summary_zh": "近来开源模型、工具链和硬件水平的提升让本地运行模型重新成为现实，带来隐私、更低延迟和离线可用性等优势，同时在性能与可更新性方面仍存在权衡。",
+      "hn": {
+        "id": 48555993,
+        "type": "story",
+        "by": "jfb",
+        "score": 1547,
+        "descendants": 595,
+        "time": 1781620617,
+        "comments_url": "https://news.ycombinator.com/item?id=48555993"
+      },
+      "tags": [
+        "AI",
+        "Open Source",
+        "Privacy",
+        "Hardware"
+      ],
+      "hot_score": 1.31
+    },
+    {
+      "title_en": "Only 16 Percent of Americans Think AI Will Have a Positive Impact on Society",
+      "url": "https://techcrunch.com/2026/06/17/only-16-percent-of-americans-think-ai-will-have-a-positive-impact-on-society-a-new-study-shows/",
+      "title_zh": "只有16% 的美国人认为 AI 会对社会产生积极影响",
+      "created_display": "Created: Jun 17, 2026 / 10:07 PT",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/06/spacexipo-nasdaq.jpg?resize=1200,800",
+      "summary_en": "A new study finds only 16% of Americans believe AI will benefit society. Public skepticism stems from concerns about jobs, bias, and privacy, challenging optimistic narratives. The data suggests policymakers and companies must address real fears to foster broader AI adoption.",
+      "summary_zh": "最新研究显示只有 16% 的美国人认为 AI 会对社会带来积极影响。公众担忧集中在就业、偏见和隐私等方面，这一结果挑战乐观叙事。此数据提示政策制定者与企业需要直面公众担忧，推动更广泛的 AI 应用。",
+      "hn": {
+        "id": 48573332,
+        "type": "story",
+        "by": "karakoram",
+        "score": 387,
+        "descendants": 472,
+        "time": 1781716052,
+        "comments_url": "https://news.ycombinator.com/item?id=48573332"
+      },
+      "hot_score": 1.22,
+      "tags": [
+        "Politics",
+        "AI",
+        "Privacy"
+      ]
+    },
+    {
+      "title_en": "A robot is sprinting towards you. Do you want it running on Claude or Grok?",
+      "url": "https://openrouter.ai/blog/insights/royale-last-agent-standing/",
+      "title_zh": "一个机器人正向你冲来。要让它用 Claude 还是 Grok 驱动？",
+      "created_display": "Created: Jun 17, 2026 / 14:00 PT",
+      "image_url": "https://openrouter.ai/blog/images/blog/battle-royale/header-v2.png",
+      "summary_en": "It highlights how backend model choice shapes how a robot behaves in dynamic scenarios and under pressure. The takeaway is that model selection materially affects practical robotics performance.",
+      "summary_zh": "文章评估在实时机器人控制中使用 Claude 与 Grok 的差异，权衡延迟、安全性与决策质量。它强调后端模型的选择会直接影响机器人在动态场景中的表现与鲁棒性。核心结论是，模型选择会实质性地影响实际的机器人性能。",
+      "hn": {
+        "id": 48576824,
+        "type": "story",
+        "by": "Usu",
+        "score": 260,
+        "descendants": 201,
+        "time": 1781730007,
+        "comments_url": "https://news.ycombinator.com/item?id=48576824"
+      },
+      "hot_score": 1.12,
+      "tags": [
+        "AI",
+        "Programming",
+        "Web"
+      ]
+    },
+    {
+      "title_en": "GrapheneOS has been ported to Android 17",
+      "url": "https://discuss.grapheneos.org/d/36469-grapheneos-has-been-ported-to-android-17-and-official-releases-are-coming-soon",
+      "title_zh": "GrapheneOS 已移植至 Android 17，官方发布即将到来",
+      "created_display": "Created: Jun 16, 2026 / 13:34 PT",
+      "image_url": "https://discuss.grapheneos.org/opengraph.png",
+      "summary_en": "GrapheneOS has reached a port to Android 17, bringing its hardened, privacy-first Android fork to the latest base. Expect updated security hardening, better device compatibility, and official builds rolling out soon. This signals ongoing momentum for privacy-focused Android variants as core Android updates proceed.",
+      "summary_zh": "GrapheneOS 已实现对 Android 17 的移植，延续其以隐私和安全为核心的 Android 派生系统。官方版本预计不久就会发布，带来更新的安全增强和更广的设备兼容性，标志着隐私取向的 Android 生态持续增长。",
+      "hn": {
+        "id": 48561654,
+        "type": "story",
+        "by": "Cider9986",
+        "score": 999,
+        "descendants": 587,
+        "time": 1781642075,
+        "comments_url": "https://news.ycombinator.com/item?id=48561654"
+      },
+      "tags": [
+        "Privacy",
+        "Open Source",
+        "Security"
+      ],
+      "hot_score": 1.06
+    },
+    {
+      "title_en": "Hacker News but for independent blogs",
+      "url": "https://bubbles.town/",
+      "title_zh": "独立博客版 Hacker News",
+      "created_display": "Created: Jun 17, 2026 / 00:49 PT",
+      "image_url": "https://bubbles.town/static/bubbles_1200x630.png",
+      "summary_en": "A platform proposing Hacker News-like aggregation for independent blogs, offering niche tech writing a dedicated space away from mainstream outlets. By curating quality posts from independent voices, it could diversify discourse and boost visibility for smaller publishers.",
+      "summary_zh": "一个面向独立博客的聚合平台，提供类似 Hacker News 的社区化信息流，让非主流媒体的技术写作获得专门的曝光空间。通过精选独立声音的高质量帖子，它有望让讨论更具多样性，并提升小型出版者的能见度。",
+      "hn": {
+        "id": 48567155,
+        "type": "story",
+        "by": "headalgorithm",
+        "score": 586,
+        "descendants": 202,
+        "time": 1781682584,
+        "comments_url": "https://news.ycombinator.com/item?id=48567155"
+      },
+      "tags": [
+        "Startups",
+        "Web"
+      ],
+      "hot_score": 1.04
+    },
+    {
+      "title_en": "AI demands more engineering discipline. Not less",
+      "url": "https://charitydotwtf.substack.com/p/ai-demands-more-engineering-discipline",
+      "title_zh": "AI 需要更强的工程化规范，而非放松",
+      "created_display": "Created: Jun 17, 2026 / 07:20 PT",
+      "image_url": null,
+      "summary_en": "As AI systems scale, engineering discipline becomes essential for reliability and safety. The piece argues for stronger practices in testing, governance, and data provenance, not looser constraints. Hooding hype with rigorous engineering is presented as a competitive advantage in the long run.",
+      "summary_zh": "AI 系统规模化后，需更强的工程化规范来确保可靠性和安全性。文中强调应加强测试、治理与数据溯源等环节，而不是降低标准。过度炒作容易掩盖风险，严格的工程实践才是长期竞争力的关键。",
+      "hn": {
+        "id": 48570948,
+        "type": "story",
+        "by": "BerislavLopac",
+        "score": 398,
+        "descendants": 199,
+        "time": 1781706044,
+        "comments_url": "https://news.ycombinator.com/item?id=48570948"
+      },
+      "hot_score": 1.04,
+      "tags": [
+        "AI",
+        "DevOps"
+      ]
+    },
+    {
+      "title_en": "Clojure Hosted on Go",
+      "url": "https://github.com/glojurelang/glojure",
+      "title_zh": "Go 上托管的 Clojure",
+      "created_display": "Created: Jun 17, 2026 / 16:14 PT",
+      "image_url": "https://repository-images.githubusercontent.com/570750090/6e70cd38-3c44-4bdb-a204-0ef41d9cb9da",
+      "summary_en": "A project to host Clojure on the Go runtime demonstrates cross-language interoperability and potential performance trade-offs. It shows how language ecosystems can migrate or interoperate to leverage different runtimes.",
+      "summary_zh": "一个在 Go 运行时上托管 Clojure 的项目，展示跨语言互操作性和潜在的性能取舍，体现语言生态可以通过迁移或互操作来利用不同的运行时。",
+      "hn": {
+        "id": 48578326,
+        "type": "story",
+        "by": "dnlo",
+        "score": 188,
+        "descendants": 23,
+        "time": 1781738089,
+        "comments_url": "https://news.ycombinator.com/item?id=48578326"
+      },
+      "tags": [
+        "Programming",
+        "Open Source"
+      ],
+      "hot_score": 1.0
+    },
+    {
+      "title_en": "Storied Colors – A catalogue of named colors",
+      "url": "https://storiedcolors.com/",
+      "title_zh": "Storied Colors – 命名颜色大全",
+      "created_display": "Created: Jun 17, 2026 / 14:49 PT",
+      "image_url": "https://storiedcolors.com/open-graph/_site.png",
+      "summary_en": "Storied Colors curates an extensive catalogue of named colors with hex values and historical notes. For designers and UI developers, it’s a handy reference for palettes and accessible naming. It helps standardize color naming across teams and projects.",
+      "summary_zh": "Storied Colors 汇集了大量带十六进制值与历史注释的命名颜色。对设计师和前端开发者而言，它是调色板和可访问命名的实用参考。它有助于在团队与项目之间统一颜色命名。",
+      "hn": {
+        "id": 48577374,
+        "type": "story",
+        "by": "susiecambria",
+        "score": 213,
+        "descendants": 48,
+        "time": 1781732943,
+        "comments_url": "https://news.ycombinator.com/item?id=48577374"
+      },
+      "tags": [
+        "Design"
+      ],
+      "hot_score": 0.99
+    },
+    {
+      "title_en": "RFC 10008: The new HTTP Query Method",
+      "url": "https://www.rfc-editor.org/info/rfc10008/",
+      "title_zh": "RFC 10008：新的 HTTP 查询方法",
+      "created_display": "Created: Jun 17, 2026 / 03:51 PT",
+      "image_url": "https://www.rfc-editor.org/api/v1/meta-thumbnail/rfc10008.png",
+      "summary_en": "RFC 10008 proposes a new HTTP Query Method to formalize complex data queries separate from resource retrieval. If standardized, it could influence API design, request semantics, and caching behavior, shaping how developers express data requests over HTTP.",
+      "summary_zh": "RFC 10008 提出一种新的 HTTP 查询方法，以将复杂查询与资源检索分离的方式标准化。如果成为标准，可能影响 API 设计、请求语义和缓存行为，改变开发者在 HTTP 上表达数据请求的方式。",
+      "hn": {
+        "id": 48568502,
+        "type": "story",
+        "by": "schappim",
+        "score": 395,
+        "descendants": 164,
+        "time": 1781693477,
+        "comments_url": "https://news.ycombinator.com/item?id=48568502"
+      },
+      "tags": [
+        "Programming",
+        "Web"
+      ],
+      "hot_score": 0.83
+    },
+    {
+      "title_en": "Loreline – Tools for writing interactive fiction",
+      "url": "https://loreline.app/en/",
+      "title_zh": "Loreline – 用于创作互动小说的工具",
+      "created_display": "Created: Jun 17, 2026 / 13:29 PT",
+      "image_url": "https://loreline.app/static/img/og-banner.png",
+      "summary_en": "Loreline provides tools to author interactive fiction, including branching narratives, worldbuilding, and AI-assisted drafting. It lowers the barrier to crafting non-linear stories and could accelerate indie storytelling or game development. The takeaway: better tooling for interactive narratives can unlock more creative storytelling.",
+      "summary_zh": "Loreline 提供创作互动小说的工具，涵盖分支叙事、世界观构建以及 AI 辅助写作。它降低了非线性故事创作的门槛，或加速独立作者和游戏开发的流程。核心点在于更强的互动叙事工具能释放更多创意。",
+      "hn": {
+        "id": 48576395,
+        "type": "story",
+        "by": "smartmic",
+        "score": 200,
+        "descendants": 51,
+        "time": 1781728155,
+        "comments_url": "https://news.ycombinator.com/item?id=48576395"
+      },
+      "tags": [
+        "Entertainment",
+        "AI"
+      ],
+      "hot_score": 0.82
+    },
+    {
+      "title_en": "Apple's weird anti-nausea dots cured my car sickness",
+      "url": "https://www.theverge.com/tech/942854/apple-vehicle-motion-cues-review-really-work",
+      "title_zh": "苹果的抗晕点真的治愈我的车晕",
+      "created_display": "Created: Jun 16, 2026 / 09:12 PT",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268530_SUMMER_UPGRADE_WEEK__NAUSEA_DOTS_ADemidova.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "summary_en": "User tests indicate Apple's anti-nausea motion cues dramatically reduced car sickness, with a perception of smoother rides. The piece explains the underlying motion cueing concept and discusses whether it foreshadows broader comfort improvements in mobile or AR displays.",
+      "summary_zh": "实测显示苹果的抗晕点显著缓解车载晕动，带来更平稳的乘车体验。文中解释了相关的运动提示原理，并讨论它对移动端或 AR 显示的潜在影响。",
+      "hn": {
+        "id": 48557530,
+        "type": "story",
+        "by": "neilfrndes",
+        "score": 880,
+        "descendants": 266,
+        "time": 1781626326,
+        "comments_url": "https://news.ycombinator.com/item?id=48557530"
+      },
+      "tags": [
+        "Science"
+      ],
+      "hot_score": 0.79
+    },
+    {
+      "title_en": "How Madrid built its metro cheaply (2024)",
+      "url": "https://worksinprogress.co/issue/how-madrid-built-its-metro-cheaply/",
+      "title_zh": "马德里地铁如何以低成本建成（2024）",
+      "created_display": "Created: Jun 17, 2026 / 12:59 PT",
+      "image_url": "https://worksinprogress.co/wip-image/uploads/2024/12/LandscapesOfTheSouth-150RGB.jpg",
+      "summary_en": "A case study of Madrid's 2024 metro project explains how the city achieved lower costs through procurement choices, engineering simplifications, and efficient project management.",
+      "summary_zh": "马德里2024年地铁项目的案例研究，阐释了通过采购策略、工程简化和高效项目管理实现低成本的做法。文中给出面向大型城市基础设施的实用经验。",
+      "hn": {
+        "id": 48575997,
+        "type": "story",
+        "by": "trymas",
+        "score": 194,
+        "descendants": 149,
+        "time": 1781726367,
+        "comments_url": "https://news.ycombinator.com/item?id=48575997"
+      },
+      "tags": [
+        "Business"
+      ],
+      "hot_score": 0.77
+    },
+    {
+      "title_en": "US holds off blacklisting DeepSeek, more than 100 firms deemed security risks",
+      "url": "https://www.reuters.com/world/china/us-holds-off-blacklisting-chinas-deepseek-more-than-100-firms-deemed-security-2026-06-17/",
+      "title_zh": "美国推迟将 DeepSeek 列入黑名单，超百家企业被视为安全风险",
+      "created_display": "Created: Jun 16, 2026 / 20:55 PT",
+      "image_url": null,
+      "summary_en": "The US deferred a blacklist decision on DeepSeek while revealing a broader security-risk sweep that flagged more than 100 firms. The move underscores tightening export controls and heightened vendor risk scrutiny across tech supply chains.",
+      "summary_zh": "美国推迟将 DeepSeek 列入黑名单，但披露对超百家企业进行安全风险评估的结果，反映出对技术供应链与出口管制的持续收紧。",
+      "hn": {
+        "id": 48565498,
+        "type": "story",
+        "by": "giuliomagnifico",
+        "score": 502,
+        "descendants": 549,
+        "time": 1781668516,
+        "comments_url": "https://news.ycombinator.com/item?id=48565498"
+      },
+      "tags": [
+        "Security"
+      ],
+      "hot_score": 0.73
+    },
+    {
+      "title_en": "Why thinking out loud with someone beats thinking alone",
+      "url": "https://www.thesignalist.io/s/the-dialogue-dividend/",
+      "title_zh": "为何与人边说边想比独自思考更有效",
+      "created_display": "Created: Jun 17, 2026 / 06:00 PT",
+      "image_url": "https://storage.ghost.io/c/2a/a1/2aa1e854-2453-4853-93ef-f908dd588729/content/images/size/w1200/2026/06/ChatGPT-Image-16-cze-2026-o-18_07_16.png",
+      "summary_en": "Why thinking out loud with someone beats thinking alone. A piece on the value of collaborative dialogue, showing how it surfaces hidden assumptions and accelerates problem solving.",
+      "summary_zh": "为何与他人边说边想比独自思考更有效。文章指出对话能暴露隐私、拓展视角，并加速问题解决。",
+      "hn": {
+        "id": 48569894,
+        "type": "story",
+        "by": "kodesko",
+        "score": 305,
+        "descendants": 133,
+        "time": 1781701238,
+        "comments_url": "https://news.ycombinator.com/item?id=48569894"
+      },
+      "tags": [
+        "Culture"
+      ],
+      "hot_score": 0.73
+    },
+    {
+      "title_en": "Show HN: An 8-bit live gamecast for baseball",
+      "url": "https://ribbie.tv/watch",
+      "title_zh": "Show HN：8 位风格的棒球直播",
+      "created_display": "Created: Jun 17, 2026 / 09:44 PT",
+      "image_url": null,
+      "summary_en": "An 8-bit style live gamecast for baseball is being shown. The project blends retro visuals with real-time play-by-play vibes, demonstrating how lightweight, browser-based gamecasts can deliver quick, accessible sports visuals without heavy infrastructure. It highlights indie experimentation at the intersection of sports and retro UI.",
+      "summary_zh": "一个 8 位风格的棒球现场直播被展示。该项目将复古视觉风格与实时解说风格结合，展示了轻量级的浏览器端游戏直播如何提供快速、可访问的体育视觉体验，适合小规模的独立实验。",
+      "hn": {
+        "id": 48573012,
+        "type": "story",
+        "by": "brownrout",
+        "score": 238,
+        "descendants": 125,
+        "time": 1781714655,
+        "comments_url": "https://news.ycombinator.com/item?id=48573012"
+      },
+      "tags": [
+        "Show HN",
+        "Web",
+        "DevOps"
+      ],
+      "hot_score": 0.73
+    },
+    {
+      "title_en": "Is Meta destroying its engineering organization?",
+      "url": "https://newsletter.pragmaticengineer.com/p/why-is-meta-destroying-its-engineering",
+      "title_zh": "为何 Meta 正在削弱其工程组织？",
+      "created_display": "Created: Jun 16, 2026 / 09:42 PT",
+      "image_url": "https://substackcdn.com/image/fetch/$s_!PupZ!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Feabe4407-76aa-47a3-a8cb-1d955c05bf03_1972x1072.png",
+      "summary_en": "A critical take argues Meta's engineering organization has weakened due to misaligned incentives, staffing changes, and leadership shifts, slowing delivery and harming morale. It offers organizational design lessons for large-scale tech firms.",
+      "summary_zh": "观点认为 Meta 的工程组织因激励错配、人事变动和领导层调整而受挫，导致交付变慢、士气下降。文中给出大型科技公司在组织设计方面的教训与建议。",
+      "hn": {
+        "id": 48558045,
+        "type": "story",
+        "by": "throwarayes",
+        "score": 644,
+        "descendants": 598,
+        "time": 1781628152,
+        "comments_url": "https://news.ycombinator.com/item?id=48558045"
+      },
+      "tags": [
+        "Business",
+        "Career"
+      ],
+      "hot_score": 0.59
+    },
+    {
+      "title_en": "Launch HN: Adam (YC W25) – Open-Source AI CAD",
+      "url": "https://github.com/Adam-CAD/CADAM",
+      "title_zh": "Launch HN：Adam（YC W25）——开源 AI CAD",
+      "created_display": "Created: Jun 17, 2026 / 09:14 PT",
+      "image_url": "https://opengraph.githubassets.com/00b4b8ac338480d1d13a2482c9e8150e40983e84d2e42d153fcacd1deb91a1cd/Adam-CAD/CADAM",
+      "summary_en": "Adam is an open-source AI-powered CAD tool from YC's W25 batch. It aims to bring AI-assisted design into standard CAD workflows, with transparency and community governance through open source. This could accelerate feature development and lower the bar for researchers and hobbyists to experiment with AI in design.",
+      "summary_zh": "Adam 是 YC W25 阵营推出的开源 AI CAD 工具，意在把 AI 辅助设计引入常用 CAD 工作流。开源带来的透明性与社区治理可能加速功能迭代，降低研究者和爱好者在设计中尝试 AI 的门槛。",
+      "hn": {
+        "id": 48572553,
+        "type": "story",
+        "by": "zachdive",
+        "score": 198,
+        "descendants": 91,
+        "time": 1781712844,
+        "comments_url": "https://news.ycombinator.com/item?id=48572553"
+      },
+      "tags": [
+        "Open Source",
+        "AI",
+        "Design",
+        "Startups"
+      ],
+      "hot_score": 0.59
+    },
+    {
+      "title_en": "MicroUI – A tiny, portable, immediate-mode UI library written in ANSI C",
+      "url": "https://github.com/rxi/microui",
+      "title_zh": "MicroUI：用 ANSI C 编写的微型、便携即时模式 UI 库",
+      "created_display": "Created: Jun 17, 2026 / 05:04 PT",
+      "image_url": "https://opengraph.githubassets.com/256299c45c9654065dd209907bd4a980e79de677072333b8d99043b7a9f5387f/rxi/microui",
+      "summary_en": "MicroUI is a tiny, portable immediate-mode UI library written in ANSI C. Its small footprint makes it attractive for embedded and cross-platform projects, and immediate-mode style can simplify rendering loops and minimize state management. It's a handy option for lightweight UI when dependencies matter.",
+      "summary_zh": "MicroUI 是一个用 ANSI C 编写的微型、便携的即时模式 UI 库，体积极小、便于嵌入式和跨平台使用。即时模式的实现简化了渲染循环，降低了状态管理复杂性，适合对依赖要求很高的轻量 UI 场景。",
+      "hn": {
+        "id": 48569205,
+        "type": "story",
+        "by": "peter_d_sherman",
+        "score": 246,
+        "descendants": 85,
+        "time": 1781697868,
+        "comments_url": "https://news.ycombinator.com/item?id=48569205"
+      },
+      "tags": [
+        "Programming",
+        "Open Source"
+      ],
+      "hot_score": 0.55
+    },
+    {
+      "title_en": "Apple is about to make Hide My Email useless",
+      "url": "https://arseniyshestakov.com/2026/06/16/apple-is-about-to-make-hide-my-email-useless/",
+      "title_zh": "苹果即将让 Hide My Email 失效",
+      "created_display": "Created: Jun 16, 2026 / 11:37 PT",
+      "image_url": null,
+      "summary_en": "A forthcoming change could undermine Hide My Email, reducing its ability to shield users’ real addresses when signing up for services. Privacy-focused users may need to adapt or seek alternatives as Apple alters how aliases are exposed.",
+      "summary_zh": "传闻称苹果即将改变 Hide My Email 的工作方式，降低该功能对用户隐私的保护，可能使真实邮箱更易暴露。隐私导向的用户需要适应新的使用方式，或寻找替代方案。",
+      "hn": {
+        "id": 48559935,
+        "type": "story",
+        "by": "SXX",
+        "score": 523,
+        "descendants": 339,
+        "time": 1781635041,
+        "comments_url": "https://news.ycombinator.com/item?id=48559935"
+      },
+      "tags": [
+        "Privacy"
+      ],
+      "hot_score": 0.51
+    },
+    {
+      "title_en": "TIL: You can make HTTP requests without curl using Bash /dev/TCP",
+      "url": "https://mareksuppa.com/til/bash-dev-tcp-http-without-curl/",
+      "title_zh": "今天学到：可以用 Bash 的 /dev/TCP 发起 HTTP 请求，无需 curl",
+      "created_display": "Created: Jun 16, 2026 / 09:40 PT",
+      "image_url": "https://mareksuppa.com/og/bash-dev-tcp-http-without-curl.png",
+      "summary_en": "Bash can issue HTTP requests by opening a TCP connection with /dev/tcp and writing raw HTTP, avoiding curl. This technique is handy in minimal environments or quick checks, but it's brittle, lacks features like redirects and timeouts, and requires manual response parsing.",
+      "summary_zh": "通过打开 /dev/tcp 的 TCP 连接并发送原始 HTTP 请求即可在 Bash 中完成网络请求，无需 curl。适合极简环境和快速诊断，但缺乏如重定向、超时等特性，需要手动解析响应。",
+      "hn": {
+        "id": 48558018,
+        "type": "story",
+        "by": "mrshu",
+        "score": 533,
+        "descendants": 228,
+        "time": 1781628058,
+        "comments_url": "https://news.ycombinator.com/item?id=48558018"
+      },
+      "tags": [
+        "Programming"
+      ],
+      "hot_score": 0.48
+    },
+    {
+      "title_en": "Calvin and Hobbes and the price of integrity",
+      "url": "https://therepublicofletters.substack.com/p/calvin-and-hobbes-and-the-price-of",
+      "title_zh": "卡尔文与霍布斯：正直的代价",
+      "created_display": "Created: Jun 16, 2026 / 08:44 PT",
+      "image_url": null,
+      "summary_en": "A thoughtful essay uses Calvin and Hobbes to reflect on integrity in a world of incentives, exploring what staying true to one's principles costs creators and communities. It illustrates how honesty can shape practice and culture.",
+      "summary_zh": "以《卡尔文与霍布斯》为镜，思考在激励驱动的世界中坚持正直的代价，探讨创作者与社区对原则的坚持会带来何种影响。说明诚实如何影响实践与文化。",
+      "hn": {
+        "id": 48557079,
+        "type": "story",
+        "by": "pseudolus",
+        "score": 537,
+        "descendants": 244,
+        "time": 1781624684,
+        "comments_url": "https://news.ycombinator.com/item?id=48557079"
+      },
+      "tags": [
+        "Culture"
+      ],
+      "hot_score": 0.47
+    },
+    {
+      "title_en": "Stop Killing Games fails to secure EU law despite 1.3M signatures",
+      "url": "https://www.dexerto.com/gaming/stop-killing-games-fails-to-secure-eu-law-despite-1-3m-signatures-3376431/",
+      "title_zh": "Stop Killing Games 未能在欧盟通过立法，尽管获得130万签名",
+      "created_display": "Created: Jun 16, 2026 / 18:40 PT",
+      "image_url": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/06/16/stop-killing-games-fails.jpg",
+      "summary_en": "Despite 1.3 million signatures backing a campaign, the effort to secure EU-wide legislation stalled, illustrating the gap between public petition volume and actual policy outcomes. The development sheds light on the EU's legislative process and the challenges of turning advocacy into law.",
+      "summary_zh": "尽管有130万签名支持，该倡议在欧盟层面推动立法的努力未能通过，显示公众请愿量并不直接等同于政策结果。此事揭示了欧盟立法过程的复杂性以及将公众倡议转化为法律的挑战。",
+      "hn": {
+        "id": 48564696,
+        "type": "story",
+        "by": "slymax",
+        "score": 357,
+        "descendants": 313,
+        "time": 1781660422,
+        "comments_url": "https://news.ycombinator.com/item?id=48564696"
+      },
+      "tags": [
+        "Politics",
+        "Legal"
+      ],
+      "hot_score": 0.47
+    },
+    {
+      "title_en": "U.S. pulling ocean sensors a 'shock' for Canadian research as El Niño nears",
+      "url": "https://www.timescolonist.com/local-news/us-pulling-ocean-sensors-a-shock-for-canadian-research-as-el-nino-nears-12422874",
+      "title_zh": "美国撤走海洋传感器让加拿大研究感到震惊，厄尔尼诺临近",
+      "created_display": "Created: Jun 16, 2026 / 12:42 PT",
+      "image_url": null,
+      "summary_en": "With El Niño approaching, the US pulling ocean sensors reduces critical data for climate forecasting and marine research. The move could hamper Canadian research and cross-border collaboration that relies on shared sensor networks. Researchers may need alternative data sources or longer data lags to model upcoming climate patterns.",
+      "summary_zh": "在厄尔尼诺来临之际，美国撤走海洋传感器，削弱了用于气候预测和海洋研究的关键数据来源。此举可能影响加拿大及区域科研与跨境合作，研究人员或需寻找替代数据源。面对即将到来的气候变化，他们或将承担数据滞后与不确定性的风险。",
+      "hn": {
+        "id": 48560847,
+        "type": "story",
+        "by": "ResearchAtPlay",
+        "score": 454,
+        "descendants": 270,
+        "time": 1781638925,
+        "comments_url": "https://news.ycombinator.com/item?id=48560847"
+      },
+      "tags": [
+        "Science"
+      ],
+      "hot_score": 0.46
+    },
+    {
+      "title_en": "Stop Using JWTs",
+      "url": "https://gist.github.com/samsch/0d1f3d3b4745d778f78b230cf6061452",
+      "title_zh": "停止使用 JWTs",
+      "created_display": "Created: Jun 16, 2026 / 09:49 PT",
+      "image_url": "https://github.githubassets.com/assets/gist-og-image-54fd7dc0713e.png",
+      "summary_en": "A concise critique of JSON Web Tokens, highlighting common misuses like improper storage, algorithm pitfalls, and relying on long-lived tokens. The piece advocates safer authentication patterns and modern alternatives.",
+      "summary_zh": "简要批评 JSON Web Token 的常见误用，如存储不当、算法陷阱和对长期令牌的依赖。文中提倡采用更安全的认证模式和新兴替代方案。",
+      "hn": {
+        "id": 48558147,
+        "type": "story",
+        "by": "dzonga",
+        "score": 481,
+        "descendants": 293,
+        "time": 1781628586,
+        "comments_url": "https://news.ycombinator.com/item?id=48558147"
+      },
+      "tags": [
+        "Security"
+      ],
+      "hot_score": 0.44
+    },
+    {
+      "title_en": "Humiliating IIS servers for fun and jail time",
+      "url": "https://mll.sh/humiliating-iis-servers-for-fun-and-jail-time/",
+      "title_zh": "为乐趣羞辱 IIS 服务器可能招致监禁",
+      "created_display": "Created: Jun 16, 2026 / 15:53 PT",
+      "image_url": "https://mll.sh/assets/img/iis-shortname-github.png",
+      "summary_en": "A security researcher’s prank involving IIS servers leads to serious legal trouble, illustrating how seemingly harmless testing can cross legal boundaries. The case underscores the importance of responsible disclosure and obtaining explicit permission before probing systems.",
+      "summary_zh": "这起围绕 IIS 服务器的恶作剧案例揭示了看似无害的安全测试若未获授权就可能触及法律红线。强调了负责任披露与获得明确许可的重要性，以及合规测试的边界。",
+      "hn": {
+        "id": 48563394,
+        "type": "story",
+        "by": "denysvitali",
+        "score": 356,
+        "descendants": 97,
+        "time": 1781650414,
+        "comments_url": "https://news.ycombinator.com/item?id=48563394"
+      },
+      "tags": [
+        "Security",
+        "Legal"
+      ],
+      "hot_score": 0.41
+    },
+    {
+      "title_en": "The founder's playbook: Building an AI-native startup",
+      "url": "https://claude.com/blog/the-founders-playbook",
+      "title_zh": "创始人手册：打造 AI 原生初创公司",
+      "created_display": "Created: Jun 17, 2026 / 00:04 PT",
+      "image_url": "https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6a05fd71dd4c122271bc7916_og_the-founders-playbook%20(2).jpg",
+      "summary_en": "Outlines a founder's playbook for building an AI-native startup, focusing on data strategy, architecture, and rapid experimentation to leverage AI capabilities. It emphasizes platform thinking, strong ML workflows, and incentives aligned with AI-driven product velocity.",
+      "summary_zh": "概述打造 AI 原生初创公司的创始人手册，聚焦数据策略、架构设计以及以 AI 能力驱动的快速迭代。强调平台思维、高效的 ML 工作流，以及与 AI 驱动产品节奏相匹配的激励机制。",
+      "hn": {
+        "id": 48566832,
+        "type": "story",
+        "by": "e2e4",
+        "score": 237,
+        "descendants": 165,
+        "time": 1781679882,
+        "comments_url": "https://news.ycombinator.com/item?id=48566832"
+      },
+      "tags": [
+        "AI",
+        "Startups"
+      ],
+      "hot_score": 0.4
+    },
+    {
+      "title_en": "Show HN: High-Res Neural Cellular Automata",
+      "url": "https://cells2pixels.github.io/",
+      "title_zh": "Show HN：高分辨率神经元胞自动机",
+      "created_display": "Created: Jun 17, 2026 / 02:28 PT",
+      "image_url": "https://cells2pixels.github.io/images/brush_S.png",
+      "summary_en": "Show HN introduces a high-resolution neural cellular automata project that generates textures and images efficiently. The approach promises scalable, fast generative content suitable for graphics, simulations, and tooling. It signals a direction for fast, data-light content creation.",
+      "summary_zh": "Show HN 展示了一个高分辨率的神经元胞自动机项目，能够高效生成纹理和图像。这种方法具备可扩展、低数据需求的产出能力，适用于图形、仿真和工具开发，指向快速生成内容的方向。",
+      "hn": {
+        "id": 48567877,
+        "type": "story",
+        "by": "esychology",
+        "score": 197,
+        "descendants": 51,
+        "time": 1781688516,
+        "comments_url": "https://news.ycombinator.com/item?id=48567877"
+      },
+      "hot_score": 0.38,
+      "tags": [
+        "Show HN",
+        "AI"
+      ]
+    },
+    {
+      "title_en": "Has AI already killed self-help nonfiction books?",
+      "url": "https://tim.blog/2026/06/12/has-ai-already-killed-nonfiction/",
+      "title_zh": "AI 已经让自助类非小说类书籍没落了吗？",
+      "created_display": "Created: Jun 16, 2026 / 10:11 PT",
+      "image_url": "https://tim.blog/wp-content/uploads/2020/09/socialmedia_timFerriss_200114_005.jpg",
+      "summary_en": "AI-generated content is challenging mass-market self-help nonfiction by commodifying generic insights. Authors can survive by offering verifiable frameworks, interactive courses, and proprietary systems that AI can’t easily imitate. The piece questions whether AI accelerates the genre’s evolution or undermines it entirely.",
+      "summary_zh": "人工智能生成的内容正在以同质化洞见压缩自助类非小说书籍的市场空间。作者若以可验证的框架、互动课程和专有体系提供难以被 AI 模仿的独特价值，仍有生存机会。文章在探讨 AI 是推动这一类型进化，还是让它变得不再有竞争力。",
+      "hn": {
+        "id": 48558489,
+        "type": "story",
+        "by": "imakwana",
+        "score": 405,
+        "descendants": 476,
+        "time": 1781629865,
+        "comments_url": "https://news.ycombinator.com/item?id=48558489"
+      },
+      "tags": [
+        "AI",
+        "Culture"
+      ],
+      "hot_score": 0.37
+    },
+    {
+      "title_en": "Leaked OpenAI financials show $38.5B loss and compute burn",
+      "url": "https://runtimewire.com/article/openai-leaked-financials-altman-compute-burn",
+      "title_zh": "泄露的 OpenAI 财务数据披露 385 亿美元亏损与算力消耗",
+      "created_display": "Created: Jun 16, 2026 / 19:47 PT",
+      "image_url": "https://runtimewire.com/og/openai-leaked-financials-altman-compute-burn.jpg",
+      "summary_en": "Leaked OpenAI financials reportedly show a massive loss and a heavy compute burn, illustrating the scale of investment required to train and operate leading AI models. The numbers fuel debates about profitability, funding, and the sustainability of aggressive compute growth. The leak sounds a warning about the economics of AI leadership.",
+      "summary_zh": "泄露的财务数据披露了 OpenAI 的巨额亏损与持续的算力烧钱，凸显维持领先地位所需的高昂投入。此类数字引发关于盈利能力、融资与大规模算力增长可持续性的讨论。",
+      "hn": {
+        "id": 48565130,
+        "type": "story",
+        "by": "TechApocalypse",
+        "score": 220,
+        "descendants": 259,
+        "time": 1781664449,
+        "comments_url": "https://news.ycombinator.com/item?id=48565130"
+      },
+      "tags": [
+        "Business",
+        "Finance",
+        "AI"
+      ],
+      "hot_score": 0.3
+    },
+    {
+      "title_en": "How we run Firecracker VMs inside EC2 and start browsers in less than 1s",
+      "url": "https://browser-use.com/posts/firecracker-browser-infra",
+      "title_zh": "在 EC2 内运行 Firecracker 虚拟机并让浏览器在 1 秒内启动",
+      "created_display": "Created: Jun 16, 2026 / 08:15 PT",
+      "image_url": "https://browser-use.com/images/microvm-infra/og.png",
+      "summary_en": "AWS Firecracker microVMs run inside EC2 to boot browsers in sub-second time, enabling rapid automated testing and headless workflows. The approach highlights how lightweight virtualization can drastically cut cold-start latency for browser-based tasks.",
+      "summary_zh": "在 EC2 内使用 Firecracker 微型虚拟机实现子秒级的浏览器启动，显著提升自动化与无头测试的吞吐。此方案展示了轻量化虚拟化在降低冷启动延迟方面的潜力。",
+      "hn": {
+        "id": 48556561,
+        "type": "story",
+        "by": "gregpr07",
+        "score": 307,
+        "descendants": 213,
+        "time": 1781622901,
+        "comments_url": "https://news.ycombinator.com/item?id=48556561"
+      },
+      "tags": [
+        "DevOps",
+        "Web"
+      ],
+      "hot_score": 0.26
+    },
+    {
+      "title_en": "Wolfram Language and Mathematica version 15",
+      "url": "https://writings.stephenwolfram.com/2026/06/launching-version-15-of-wolfram-language-mathematica-built-in-useful-ai-lots-of-new-core-functionality/",
+      "title_zh": "Wolfram Language 与 Mathematica 15：AI 助手、符号音乐等",
+      "created_display": "Created: Jun 16, 2026 / 16:15 PT",
+      "image_url": "https://content.wolfram.com/sites/43/2026/06/v15-tile-wolframblog.png",
+      "summary_en": "Wolfram Language and Mathematica 15 introduce a built-in AI assistant, expanded symbolic capabilities, and new features like symbolic music. The update aims to streamline computational workflows and broaden accessibility for researchers and students alike.",
+      "summary_zh": "Wolfram Language 与 Mathematica 15 增添了内置 AI 助手、扩展的符号计算能力以及符号音乐等新功能，目标是简化计算工作流并提升研究者与学生的可及性。",
+      "hn": {
+        "id": 48563609,
+        "type": "story",
+        "by": "alok-g",
+        "score": 220,
+        "descendants": 118,
+        "time": 1781651744,
+        "comments_url": "https://news.ycombinator.com/item?id=48563609"
+      },
+      "tags": [
+        "AI",
+        "Programming"
+      ],
+      "hot_score": 0.26
+    },
+    {
+      "title_en": "GPT‑NL: a sovereign language model for the Netherlands",
+      "url": "https://www.tno.nl/en/digital/artificial-intelligence/gpt-nl/",
+      "title_zh": "GPT-NL：荷兰的自主语言模型",
+      "created_display": "Created: Jun 16, 2026 / 10:54 PT",
+      "image_url": "https://www.tno.nl/publish/pages/14621/genai.jpg",
+      "summary_en": "Netherlands launches a sovereign language model project to reduce reliance on foreign AIs, safeguarding data sovereignty and tailoring capabilities to Dutch language and policy needs. The initiative involves government and industry collaboration to foster localization.",
+      "summary_zh": "荷兰推出自主语言模型项目，以降低对外部 AI 的依赖、保障数据主权，并针对荷兰语言与政策需求定制能力。该计划强调政府、研究机构和产业界的协作，以推动本地化。",
+      "hn": {
+        "id": 48559188,
+        "type": "story",
+        "by": "root-parent",
+        "score": 250,
+        "descendants": 298,
+        "time": 1781632442,
+        "comments_url": "https://news.ycombinator.com/item?id=48559188"
+      },
+      "tags": [
+        "AI",
+        "Politics"
+      ],
+      "hot_score": 0.24
+    },
+    {
+      "title_en": "'Ghost jobs' could soon be illegal in New York",
+      "url": "https://www.fastcompany.com/91558427/ghost-jobs-could-soon-be-illegal-in-new-york",
+      "title_zh": "纽约或将禁止幽灵岗位招聘",
+      "created_display": "Created: Jun 16, 2026 / 10:01 PT",
+      "image_url": null,
+      "summary_en": "New York is poised to ban ghost jobs—posting fake or misleading openings to harvest resumes or data. The policy could push recruiters toward authentic postings and improve labor-market transparency. It may force job boards to tighten listing integrity and protect jobseekers.",
+      "summary_zh": "纽约有望立法禁止虚假招聘信息，以打击欺骗性招聘并保护求职者。若落地，或促使招聘方发布真实岗位、提高信息质量，同时给招聘平台带来更严格的列表监管挑战。这也可能改变求职者的决策过程和对职业机会的信任。",
+      "hn": {
+        "id": 48558338,
+        "type": "story",
+        "by": "toomuchtodo",
+        "score": 222,
+        "descendants": 135,
+        "time": 1781629272,
+        "comments_url": "https://news.ycombinator.com/item?id=48558338"
+      },
+      "tags": [
+        "Politics",
+        "Legal"
+      ],
+      "hot_score": 0.2
+    },
+    {
+      "title_en": "I've always wondered if anyone used sharing buttons on news sites and blogs",
+      "url": "https://ankursethi.com/links/nobody-clicks-your-share-buttons/",
+      "title_zh": "我一直在想，新闻站点和博客上的分享按钮到底有多少人会点击",
+      "created_display": "Created: Jun 16, 2026 / 13:12 PT",
+      "image_url": "https://ankursethi.com/static/favicon/favicon.svg",
+      "summary_en": "Sharing buttons on news sites attract little engagement and may be more noise than signal. The piece argues publishers should rethink or remove them to declutter UI and focus on meaningful engagement metrics. It invites a broader look at how social signals influence reader behavior.",
+      "summary_zh": "新闻网站和博客的分享按钮几乎没有人点击，属于低信号的界面元素。建议发布者重新思考是否保留或改造按钮，以提升用户体验并将关注点放在更具实效的互动上。",
+      "hn": {
+        "id": 48561332,
+        "type": "story",
+        "by": "speckx",
+        "score": 187,
+        "descendants": 105,
+        "time": 1781640725,
+        "comments_url": "https://news.ycombinator.com/item?id=48561332"
+      },
+      "tags": [
+        "Design",
+        "Web"
+      ],
+      "hot_score": 0.19
+    },
+    {
+      "title_en": "Claude: Elevated errors across many models [resolved]",
+      "url": "https://status.claude.com/incidents/xmhsglsz3h3w",
+      "title_zh": "Claude 多模型高错误率问题已解决",
+      "created_display": "Created: Jun 16, 2026 / 10:30 PT",
+      "image_url": "https://dka575ofm4ao0.cloudfront.net/assets/logos/favicon-2b86ed00cfa6258307d4a3d0c482fd733c7973f82de213143b24fc062c540367.png",
+      "summary_en": "A maintenance incident caused elevated errors across Claude models, briefly disrupting outputs. Engineers have deployed a fix and restored normal service. The episode demonstrates the fragility of AI infrastructure and the importance of robust monitoring and rollback plans.",
+      "summary_zh": "最近的故障事件导致多款 Claude 模型出现较高错误率，影响输出。相关团队已修复并恢复稳定服务。这一事件凸显了 AI 服务稳定性的重要性及对持续监控的需求。",
+      "hn": {
+        "id": 48558766,
+        "type": "story",
+        "by": "forks",
+        "score": 189,
+        "descendants": 157,
+        "time": 1781631030,
+        "comments_url": "https://news.ycombinator.com/item?id=48558766"
+      },
+      "tags": [
+        "AI",
+        "Security",
+        "DevOps"
+      ],
+      "hot_score": 0.18
+    }
+  ]
+}

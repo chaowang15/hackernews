@@ -1,0 +1,1176 @@
+{
+  "meta": {
+    "mode": "best",
+    "source": "https://news.ycombinator.com/",
+    "api": "https://github.com/HackerNews/API",
+    "count_requested": 50,
+    "count_written": 50,
+    "reused_same_day": 0,
+    "reused_cross_day": 19,
+    "new_llm_enriched": 13,
+    "scrape_time_display": "09:57, June 03, 2026 (PDT)",
+    "timezone": "America/Los_Angeles",
+    "date_dir": "2026/06/02",
+    "content_date": "2026-06-02",
+    "run_time_local": "09:57, June 03, 2026 (PDT)",
+    "run_time_utc": "2026-06-03 16:57:23 UTC",
+    "incremental": true,
+    "stories_max": 50,
+    "hot_score_time_utc": "2026-06-03 16:58:30 UTC"
+  },
+  "items": [
+    {
+      "title_en": "Meta workers can opt out of being tracked at work up to 30 min",
+      "url": "https://www.bbc.com/news/articles/c93x0k194yno",
+      "title_zh": "Meta 员工可在工作时最多不被追踪30分钟",
+      "created_display": "Created: Jun 03, 2026 / 05:42 PT",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/947f/live/8311e710-5f35-11f1-b9e6-7bbc2b9cb9c1.jpg",
+      "summary_en": "Meta has updated its employee monitoring policy to allow workers to opt out of being tracked for up to 30 minutes at a time. The change underscores the tension between productivity analytics and employee privacy in big tech.",
+      "summary_zh": "Meta 更新员工监控政策，允许员工单次最多有30分钟不被追踪。此举凸显了大科技公司在生产力分析与员工隐私之间的权衡。",
+      "hn": {
+        "id": 48383220,
+        "type": "story",
+        "by": "reconnecting",
+        "score": 413,
+        "descendants": 366,
+        "time": 1780490527,
+        "comments_url": "https://news.ycombinator.com/item?id=48383220"
+      },
+      "hot_score": 15.11,
+      "tags": [
+        "Privacy",
+        "Data"
+      ]
+    },
+    {
+      "title_en": "DaVinci Resolve 21",
+      "url": "https://www.blackmagicdesign.com/products/davinciresolve/whatsnew",
+      "title_zh": "达芬奇 Resolve 21",
+      "created_display": "Created: Jun 03, 2026 / 07:18 PT",
+      "image_url": null,
+      "summary_en": "DaVinci Resolve 21 bundles improved color tools, performance, and cloud-friendly collaboration, with AI-assisted features that appeal to prosumers and studios alike.",
+      "summary_zh": "DaVinci Resolve 21 包含更强的色彩工具、性能提升及云端协作功能，并新增 AI 支持特性，适合专业与准专业工作流。",
+      "hn": {
+        "id": 48384482,
+        "type": "story",
+        "by": "pentagrama",
+        "score": 179,
+        "descendants": 97,
+        "time": 1780496319,
+        "comments_url": "https://news.ycombinator.com/item?id=48384482"
+      },
+      "hot_score": 11.13,
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "title_en": "Hacking your PC using your speaker without ever touching it",
+      "url": "https://blog.nns.ee/2026/06/03/katana-badusb/",
+      "title_zh": "Hacking your PC using your speaker without ever touching it",
+      "created_display": "Created: Jun 03, 2026 / 03:53 PT",
+      "image_url": "https://blog.nns.ee/img/2026-04-08-katana-badusb/og-image.png",
+      "summary_en": "Researchers demonstrate a BadUSB-style attack that uses a speaker to compromise a PC without any direct user interaction. The technique underlines how trusted hardware can be weaponized through subtle channels, raising concerns about supply chain, peripherals, and device authentication. It highlights the risk of peripheral-based exploits and the need for hardware-level defenses.",
+      "summary_zh": "研究人员展示了利用扬声器进行 BadUSB 式攻击、在无需任何直接交互的情况下入侵电脑的可能性。这一技巧暴露了受信任硬件可被通过微妙通道 weaponize 的风险，凸显了外设信任、供应链与硬件认证方面的挑战。",
+      "hn": {
+        "id": 48382310,
+        "type": "story",
+        "by": "xx_ns",
+        "score": 460,
+        "descendants": 78,
+        "time": 1780483980,
+        "comments_url": "https://news.ycombinator.com/item?id=48382310"
+      },
+      "tags": [
+        "Security",
+        "Hardware"
+      ],
+      "hot_score": 10.65
+    },
+    {
+      "title_en": "32GB of DDR5 now costs $375 – AI shortage continues to squeeze PC building",
+      "url": "https://www.tomshardware.com/pc-components/ddr5/32gb-of-ddr5-now-costs-usd375-minimum-ai-shortage-continues-to-squeeze-pc-building",
+      "title_zh": "32GB DDR5现价375美元—AI短缺持续挤压PC组装成本",
+      "created_display": "Created: Jun 03, 2026 / 05:43 PT",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/G4YHFng8EzKzoEAcjKCD8k-2560-80.jpg",
+      "summary_en": "DDR5 memory for 32GB modules has risen to around $375, reflecting AI-driven demand pressures. The price squeeze affects DIY PC builders and smaller workloads, nudging buyers toward different configurations.",
+      "summary_zh": "32GB DDR5 内存现价约375美元，反映 AI 相关需求的上行压力。价格紧缩影响 DIY PC 构建者与小型工作负载，推动用户调整为其他配置。",
+      "hn": {
+        "id": 48383241,
+        "type": "story",
+        "by": "papersail",
+        "score": 218,
+        "descendants": 225,
+        "time": 1780490623,
+        "comments_url": "https://news.ycombinator.com/item?id=48383241"
+      },
+      "hot_score": 8.02,
+      "tags": [
+        "Hardware",
+        "Finance",
+        "AI"
+      ]
+    },
+    {
+      "title_en": "Every Byte Matters",
+      "url": "https://fzakaria.com/2026/06/01/every-byte-matters",
+      "title_zh": "每一个字节都很重要",
+      "created_display": "Created: Jun 03, 2026 / 04:04 PT",
+      "image_url": "https://fzakaria.com/assets/images/aos_vs_soa_50p.png",
+      "summary_en": "Every byte counts in modern systems, affecting latency, energy use, privacy, and costs. The piece argues for smarter data practices as a competitive advantage.",
+      "summary_zh": "在现代系统中，每一个字节都至关重要，关系到延迟、能耗、隐私和成本。文章主张通过更高效的数据实践获得竞争优势。",
+      "hn": {
+        "id": 48382382,
+        "type": "story",
+        "by": "ingve",
+        "score": 181,
+        "descendants": 82,
+        "time": 1780484644,
+        "comments_url": "https://news.ycombinator.com/item?id=48382382"
+      },
+      "hot_score": 4.35,
+      "tags": [
+        "Data",
+        "Privacy",
+        "Energy"
+      ]
+    },
+    {
+      "title_en": "Gmail thinks I'm stupid, so I left",
+      "url": "https://moddedbear.com/gmail-thinks-im-stupid-so-i-left",
+      "title_zh": "Gmail 觉得我很蠢，所以我离开",
+      "created_display": "Created: Jun 02, 2026 / 12:27 PT",
+      "image_url": "https://moddedbear.com/images/share.png",
+      "summary_en": "A writer explains leaving Gmail after experiences with AI-powered features and UX choices that felt intrusive.",
+      "summary_zh": "作者在体验到 Gmail 的 AI 功能和设计带来的侵入感后选择离开。文章讨论用户对 AI 助手驱动的邮箱服务的抵触情绪，以及隐私、控制权与 UX 设计之间的权衡。",
+      "hn": {
+        "id": 48375016,
+        "type": "story",
+        "by": "speckx",
+        "score": 1106,
+        "descendants": 744,
+        "time": 1780428460,
+        "comments_url": "https://news.ycombinator.com/item?id=48375016"
+      },
+      "tags": [
+        "AI",
+        "Privacy"
+      ],
+      "hot_score": 3.76
+    },
+    {
+      "title_en": "PlayStation Architecture",
+      "url": "https://www.copetti.org/writings/consoles/playstation/",
+      "title_zh": "PlayStation 架构",
+      "created_display": "Created: Jun 03, 2026 / 03:24 PT",
+      "image_url": "https://www.copetti.org/images/consoles/covers_top/playstation_hu_db0648b76d4ceb7d.6e4cc84c331c1d3d518938b7de839a58.jpg",
+      "summary_en": "PlayStation architecture deep dive reveals Sony’s hardware choices across CPU, GPU, memory, and IO, with implications for game performance, dev tooling, and platform longevity.",
+      "summary_zh": "PlayStation 架构的深入解析揭示了索尼在 CPU/GPU、内存和 I/O 等方面的硬件取舍，对游戏性能、开发工具链和平台生命周期有重要影响。",
+      "hn": {
+        "id": 48382142,
+        "type": "story",
+        "by": "gregsadetsky",
+        "score": 160,
+        "descendants": 26,
+        "time": 1780482265,
+        "comments_url": "https://news.ycombinator.com/item?id=48382142"
+      },
+      "hot_score": 3.33,
+      "tags": [
+        "Hardware",
+        "Gaming"
+      ]
+    },
+    {
+      "title_en": "Please don't spam people looking for employment. It's just cruel",
+      "url": "https://news.ycombinator.com/item?id=48370330",
+      "title_zh": "请勿骚扰正在找工作的人，这太残忍",
+      "created_display": "Created: Jun 02, 2026 / 06:56 PT",
+      "image_url": "https://news.ycombinator.com/y18.svg",
+      "summary_en": "Spamming people who are actively seeking employment is harmful and counterproductive. The piece argues for respectful, consent-based outreach by recruiters and offers practical guidelines to avoid wasting candidates’ time.",
+      "summary_zh": "向正在找工作的人进行垃圾式联系不仅令人厌恶，而且浪费求职者时间。文章呼吁招聘方采用有同意的、定向的沟通，并给出避免干扰的实用建议。",
+      "hn": {
+        "id": 48370330,
+        "type": "story",
+        "by": "IliaLitviak",
+        "score": 946,
+        "descendants": 266,
+        "time": 1780408606,
+        "comments_url": "https://news.ycombinator.com/item?id=48370330"
+      },
+      "tags": [
+        "Career",
+        "Privacy"
+      ],
+      "hot_score": 2.2
+    },
+    {
+      "title_en": "Use your Nvidia GPU's VRAM as swap space on Linux",
+      "url": "https://github.com/c0dejedi/nbd-vram",
+      "title_zh": "在 Linux 上将 Nvidia GPU 的 VRAM 用作交换空间",
+      "created_display": "Created: Jun 02, 2026 / 15:55 PT",
+      "image_url": "https://opengraph.githubassets.com/f707041470b206e290dfdebc289a69e72df4167d7d03b1ae720b11d4d43f7cf5/c0deJedi/nbd-vram",
+      "summary_en": "A Linux tool exposes Nvidia GPU VRAM as a swap device via NBD, letting systems swap to GPU memory under memory pressure. It's a niche hack that can extend usable RAM on GPUs with large VRAM but performance depends on workload and memory bandwidth. Not a replacement for main RAM, but a clever hack for specific workloads.",
+      "summary_zh": "一款 Linux 工具通过 NBD 将 Nvidia GPU 的 VRAM 暂时作为交换空间使用。对于显存较大的显卡来说，在内存压力时可以延迟将数据写入磁盘，但它并非主 RAM 的替代品，性能取决于 workload 与带宽。",
+      "hn": {
+        "id": 48377404,
+        "type": "story",
+        "by": "tanelpoder",
+        "score": 415,
+        "descendants": 107,
+        "time": 1780440933,
+        "comments_url": "https://news.ycombinator.com/item?id=48377404"
+      },
+      "tags": [
+        "Programming",
+        "Hardware"
+      ],
+      "hot_score": 1.88
+    },
+    {
+      "title_en": "The newest Instagram “exploit” is the goofiest I've seen",
+      "url": "https://www.0xsid.com/blog/meta-account-takeover-fiasco",
+      "title_zh": "Instagram 最新漏洞是我见过的最离谱的",
+      "created_display": "Created: Jun 01, 2026 / 09:31 PT",
+      "image_url": null,
+      "summary_en": "Instagram's latest vulnerability demonstrates an embarrassingly simple route to an account takeover, exposing gaps in auth flows. The incident highlights how even large platforms struggle with secure access controls and abuse monitoring.",
+      "summary_zh": "最新的 Instagram 漏洞暴露出一个极其简单的账号接管路径，凸显身份验证流程的薄弱。即使是大平台也难免在防护和滥用监测方面出现漏洞。",
+      "hn": {
+        "id": 48359102,
+        "type": "story",
+        "by": "ssiddharth",
+        "score": 2166,
+        "descendants": 480,
+        "time": 1780331502,
+        "comments_url": "https://news.ycombinator.com/item?id=48359102"
+      },
+      "tags": [
+        "Security",
+        "Web"
+      ],
+      "hot_score": 1.86
+    },
+    {
+      "title_en": "AI outperforms law professors in Stanford Law study",
+      "url": "https://law.stanford.edu/press/ai-outperforms-law-professors-in-stanford-law-study/",
+      "title_zh": "AI 在斯坦福法学院研究中超越法学教授",
+      "created_display": "Created: Jun 02, 2026 / 16:43 PT",
+      "image_url": "https://law.stanford.edu/wp-content/uploads/2026/02/GettyImages-2224544837-1200x630.jpg",
+      "summary_en": "A Stanford study finds AI models outperform law professors on certain tasks, highlighting AI’s growing capabilities in legal reasoning and research. The result raises questions about law-school pedagogy and underscores the need for guardrails and human judgment.",
+      "summary_zh": "斯坦福法学院的一项研究显示，在某些法律任务中，AI 的表现可与甚至超过法学教授，凸显了法律推理与检索能力的快速提升，同时也强调治理与人类监督的重要性。",
+      "hn": {
+        "id": 48377761,
+        "type": "story",
+        "by": "berlianta",
+        "score": 367,
+        "descendants": 315,
+        "time": 1780443792,
+        "comments_url": "https://news.ycombinator.com/item?id=48377761"
+      },
+      "tags": [
+        "AI",
+        "Education",
+        "Legal"
+      ],
+      "hot_score": 1.78
+    },
+    {
+      "title_en": "CT scans of BYD car parts",
+      "url": "https://www.lumafield.com/scan-of-the-month/byd",
+      "title_zh": "比亚迪汽车部件的 CT 扫描",
+      "created_display": "Created: Jun 02, 2026 / 13:30 PT",
+      "image_url": "https://cdn.prod.website-files.com/63e15418201b6e2a5cabb911/6a1a332aa8018a5104366420_og-image-sotm-byd.jpg",
+      "summary_en": "High-resolution CT scans reveal internal features and potential manufacturing artifacts in BYD car parts, showcasing the power of non-destructive imaging for QA and design. Such scans help engineers verify tolerances and spot hidden defects without disassembly, enabling faster QA and reverse engineering.",
+      "summary_zh": "高分辨率的 CT 扫描揭示了比亚迪汽车部件的内部结构与潜在制造缺陷，展现出无损成像在 QA 与设计优化中的作用。此类扫描帮助工程师核验公差、发现隐藏的制造痕迹，并在不拆解部件的情况下推进逆向工程。",
+      "hn": {
+        "id": 48375824,
+        "type": "story",
+        "by": "viasfo",
+        "score": 460,
+        "descendants": 328,
+        "time": 1780432208,
+        "comments_url": "https://news.ycombinator.com/item?id=48375824"
+      },
+      "tags": [
+        "Science"
+      ],
+      "hot_score": 1.69
+    },
+    {
+      "title_en": "MAI-Code-1-Flash",
+      "url": "https://microsoft.ai/news/introducingmai-code-1-flash/",
+      "title_zh": "MAI Code-1 快闪",
+      "created_display": "Created: Jun 02, 2026 / 11:47 PT",
+      "image_url": "https://microsoft.ai/wp-content/themes/wp-base-theme/images/social.jpg",
+      "summary_en": "Microsoft unveils MAI Code-1-Flash, a compact addition to the MAI code-generation lineup. The release emphasizes fast, integrated coding assistance designed to fit into developer workflows without overwhelming users. It signals Microsoft’s push toward lightweight, in-editor AI tools for everyday programming.",
+      "summary_zh": "微软发布 MAI Code-1-Flash，作为 MAI 代码生成家族的一员，强调在开发者工作流中快速、无缝的编码协助。此举显示微软在将 AI 工具嵌入到日常编码任务中的持续投入，关注轻量化与易用性。",
+      "hn": {
+        "id": 48374466,
+        "type": "story",
+        "by": "EvanZhouDev",
+        "score": 515,
+        "descendants": 243,
+        "time": 1780426027,
+        "comments_url": "https://news.ycombinator.com/item?id=48374466"
+      },
+      "tags": [
+        "AI",
+        "Programming"
+      ],
+      "hot_score": 1.66
+    },
+    {
+      "title_en": "1-Click GitHub Token Stealing via a VSCode Bug",
+      "url": "https://blog.ammaraskar.com/github-token-stealing/",
+      "title_zh": "通过 VSCode 漏洞的一键式 GitHub 令牌窃取",
+      "created_display": "Created: Jun 02, 2026 / 08:29 PT",
+      "image_url": "https://www.gravatar.com/avatar/9fdd32c8051eaa1dc4f2cc06186cb85d?s=200",
+      "summary_en": "A VSCode bug exposes GitHub tokens with a single click, enabling token theft via the IDE’s authentication flow. The incident underscores the risk of embedded auth in development tools and token-scoping hygiene; users should rotate tokens, enable 2FA, and update to patched versions.",
+      "summary_zh": "VSCode 中的一个漏洞使攻击者能够在一次点击中窃取 GitHub 访问令牌，利用集成的认证流程进行攻击。这一事件暴露了开发工具中嵌入式认证的风险以及令牌作用域带来的安全隐患。用户应轮换令牌、启用两步验证并更新到修补版本，同时谨慎管理令牌权限。",
+      "hn": {
+        "id": 48371562,
+        "type": "story",
+        "by": "ammar2",
+        "score": 592,
+        "descendants": 89,
+        "time": 1780414145,
+        "comments_url": "https://news.ycombinator.com/item?id=48371562"
+      },
+      "tags": [
+        "Security",
+        "Programming"
+      ],
+      "hot_score": 1.52
+    },
+    {
+      "title_en": "Agentic Mfw",
+      "url": "https://agenticmotherfucking.website",
+      "title_zh": "代理性 Mfw",
+      "created_display": "Created: Jun 02, 2026 / 19:32 PT",
+      "image_url": null,
+      "summary_en": "A provocative look at agency in technology, examining how autonomous systems influence human decision-making and how people in turn shape machine behavior. The discussion emphasizes power and trust in human–machine collaboration.",
+      "summary_zh": "对科技中的代理性进行挑衅性讨论，探究自主系统如何影响人类决策，以及人们又如何塑造机器行为。讨论强调人机协作中的权力与信任问题。",
+      "hn": {
+        "id": 48379203,
+        "type": "story",
+        "by": "elmerland",
+        "score": 198,
+        "descendants": 62,
+        "time": 1780453968,
+        "comments_url": "https://news.ycombinator.com/item?id=48379203"
+      },
+      "hot_score": 1.28,
+      "tags": [
+        "Culture"
+      ]
+    },
+    {
+      "title_en": "Adafruit receives demand letter from Fenwick legal counsel on behalf of Flux.ai",
+      "url": "https://blog.adafruit.com/",
+      "title_zh": "Adafruit 收到 Flux.ai 代表的 Fenwick 律师事务所律师函",
+      "created_display": "Created: Jun 02, 2026 / 03:00 PT",
+      "image_url": "https://cdn-blog.adafruit.com/uploads/2026/06/ptlimor.jpeg",
+      "summary_en": "Adafruit reports receiving a formal demand letter from Fenwick & West on behalf of Flux.ai, signaling a potential IP or licensing dispute. The letter underscores how IP questions can affect hobbyist hardware vendors and the broader open-source hardware ecosystem. Readers should watch for updates on how Adafruit responds and what this means for developers and retailers shipping AI-enabled hardware.",
+      "summary_zh": "Adafruit 表示收到了 Flux.ai 代表的 Fenwick 律师事务所发出的正式函件，暗示可能存在知识产权或许可方面的争议。此类函件凸显了知识产权问题对爱好者硬件厂商及开源硬件生态的潜在影响。请关注 Adafruit 的回应及此事对开发者和销售 AI 硬件的影响。",
+      "hn": {
+        "id": 48368121,
+        "type": "story",
+        "by": "semanser",
+        "score": 665,
+        "descendants": 273,
+        "time": 1780394456,
+        "comments_url": "https://news.ycombinator.com/item?id=48368121"
+      },
+      "tags": [
+        "Legal",
+        "Open Source",
+        "AI",
+        "Hardware"
+      ],
+      "hot_score": 1.23
+    },
+    {
+      "title_en": "My thoughts after using Clojure for about a month",
+      "url": "https://www.acdw.net/clojure/",
+      "title_zh": "用了一个月 Clojure 的心得",
+      "created_display": "Created: Jun 02, 2026 / 12:56 PT",
+      "image_url": null,
+      "summary_en": "After a month using Clojure, the author notes a productive REPL-driven workflow and powerful macro system, but warns about onboarding friction for teams and the Java interop pitfalls. Clojure shines for concise, data-driven code yet demands discipline to maintain readability.",
+      "summary_zh": "作者用一个月的时间体验 Clojure，认为 REPL 驱动的工作流高效、宏系统强大，但对团队协作和 Java 互操作的学习成本需谨慎。Clojure 在数据驱动、简洁代码方面表现突出，但要保持代码可维护性需自律。",
+      "hn": {
+        "id": 48375393,
+        "type": "story",
+        "by": "speckx",
+        "score": 302,
+        "descendants": 159,
+        "time": 1780430206,
+        "comments_url": "https://news.ycombinator.com/item?id=48375393"
+      },
+      "tags": [
+        "Programming"
+      ],
+      "hot_score": 1.06
+    },
+    {
+      "title_en": "Larry Ellison: \"Citizens will be on their best behavior because we’re recording\"",
+      "url": "https://www.techradar.com/pro/quote-of-the-day-by-oracle-co-founder-larry-ellison-citizens-will-be-on-their-best-behavior-because-were-constantly-recording-and-reporting-everything-that-is-going-on-a-dire-warning-on-the-erosion-of-privacy",
+      "title_zh": "拉里·埃利森：‘因为我们在记录，公民将行为最端正’",
+      "created_display": "Created: Jun 02, 2026 / 10:34 PT",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/46W7Uv8dFoPk5h4zPBEJqa-2560-80.jpg",
+      "summary_en": "Larry Ellison argues that constant recording will push citizens to behave better, framing surveillance as governance. The remark spotlights privacy trade-offs that tech platforms may need to navigate.",
+      "summary_zh": "埃利森表示持续记录会让公民表现得更好，把监控视为治理工具。这一说法凸显了科技平台在隐私与安全之间需要权衡的取舍。",
+      "hn": {
+        "id": 48373391,
+        "type": "story",
+        "by": "CharlesW",
+        "score": 324,
+        "descendants": 254,
+        "time": 1780421650,
+        "comments_url": "https://news.ycombinator.com/item?id=48373391"
+      },
+      "hot_score": 0.96,
+      "tags": [
+        "Privacy"
+      ]
+    },
+    {
+      "title_en": "Pluto.jl 1.0 release – reactive notebook for Julia",
+      "url": "https://discourse.julialang.org/t/pluto-1-0-release/137296",
+      "title_zh": "Pluto.jl 1.0 发布：面向 Julia 的反应式笔记本",
+      "created_display": "Created: Jun 02, 2026 / 16:09 PT",
+      "image_url": "https://global.discourse-cdn.com/julialang/optimized/3X/d/7/d70e318762e2cb2c1470502e237801b0e55e713f_2_1024x327.png",
+      "summary_en": "Pluto.jl 1.0 delivers a reactive notebook for Julia with dependency-aware execution and reproducibility. The release lowers the barrier to interactive data exploration and teaching in Julia.",
+      "summary_zh": "Pluto.jl 1.0 推出，提供面向 Julia 的完全反应式笔记本，具备对依赖关系的自动跟踪与可重复执行性。该版本降低了交互式数据探索的门槛，便于教学与研究使用。",
+      "hn": {
+        "id": 48377496,
+        "type": "story",
+        "by": "fons-p",
+        "score": 203,
+        "descendants": 32,
+        "time": 1780441749,
+        "comments_url": "https://news.ycombinator.com/item?id=48377496"
+      },
+      "tags": [
+        "Programming",
+        "Open Source"
+      ],
+      "hot_score": 0.93
+    },
+    {
+      "title_en": "A walking tour of surveillance infrastructure in Seattle (2020)",
+      "url": "https://coveillance.org/a-walking-tour-of-surveillance-infrastructure-in-seattle/",
+      "title_zh": "西雅图监控基础设施的步行导览（2020）",
+      "created_display": "Created: Jun 02, 2026 / 06:24 PT",
+      "image_url": null,
+      "summary_en": "A walk-through of Seattle’s surveillance landscape reveals cameras, sensors, and data flows woven into city life. It highlights how pervasive infrastructure shapes behavior and raises questions about accountability in urban monitoring.",
+      "summary_zh": "这篇对西雅图监控基础设施的步行导览展示了城市中遍布的摄像头、传感器与数据流。该景观凸显监控基础设施如何影响人们的行为，并引发对城市治理与问责的思考。",
+      "hn": {
+        "id": 48369980,
+        "type": "story",
+        "by": "eustoria",
+        "score": 402,
+        "descendants": 302,
+        "time": 1780406672,
+        "comments_url": "https://news.ycombinator.com/item?id=48369980"
+      },
+      "hot_score": 0.9,
+      "tags": [
+        "Privacy",
+        "Security",
+        "DevOps"
+      ]
+    },
+    {
+      "title_en": "Why Janet? (2023)",
+      "url": "https://ianthehenry.com/posts/why-janet/",
+      "title_zh": "为何选择 Janet？（2023）",
+      "created_display": "Created: Jun 02, 2026 / 02:34 PT",
+      "image_url": "https://ianthehenry.com/checkerboard.png",
+      "summary_en": "A concise look at why Janet matters in 2023 and what makes it appealing in modern programming.",
+      "summary_zh": "简要探讨在2023年为何 Janet 语言值得关注及其在现代编程中的魅力。",
+      "hn": {
+        "id": 48367907,
+        "type": "story",
+        "by": "yacin",
+        "score": 486,
+        "descendants": 255,
+        "time": 1780392871,
+        "comments_url": "https://news.ycombinator.com/item?id=48367907"
+      },
+      "tags": [
+        "Programming"
+      ],
+      "hot_score": 0.88
+    },
+    {
+      "title_en": "The advertising cartel coming to your web browser",
+      "url": "https://blog.zgp.org/the-advertising-cartel-coming-to-your-web-browser/",
+      "title_zh": "广告寡头将进入你的网页浏览器",
+      "created_display": "Created: Jun 02, 2026 / 12:39 PT",
+      "image_url": "https://blog.zgp.org/i/rss.png",
+      "summary_en": "A provocative analysis argues that ad tech cartels are consolidating control at the browser level, raising concerns about privacy, interoperability, and user experience.",
+      "summary_zh": "一篇分析指出广告科技寡头正在浏览器层面形成更强的垄断，带来隐私、互通性和用户体验方面的担忧。文章探讨浏览器厂商与监管者可能采取的对策。",
+      "hn": {
+        "id": 48375175,
+        "type": "story",
+        "by": "speckx",
+        "score": 238,
+        "descendants": 64,
+        "time": 1780429165,
+        "comments_url": "https://news.ycombinator.com/item?id=48375175"
+      },
+      "tags": [
+        "Web",
+        "Privacy"
+      ],
+      "hot_score": 0.82
+    },
+    {
+      "title_en": "Can the stockmarket swallow Anthropic, SpaceX and OpenAI?",
+      "url": "https://www.economist.com/finance-and-economics/2026/06/01/can-the-stockmarket-swallow-anthropic-spacex-and-openai",
+      "title_zh": "股市能否容纳Anthropic、SpaceX与OpenAI？",
+      "created_display": "Created: Jun 01, 2026 / 16:45 PT",
+      "image_url": null,
+      "summary_en": "The Economist asks whether public markets have the capacity to absorb the outsized valuations and funding needs of Anthropic, SpaceX, and OpenAI. It highlights structural constraints like liquidity, dilution, and investor risk appetite that could slow up-rounds for highly valued private firms. The takeaway is that public markets may cap how quickly such companies can scale via public offerings, shaping their financing strategies.",
+      "summary_zh": "该文章质疑公开市场是否具备吸收Anthropic、SpaceX与OpenAI等估值膨胀企业及其融资需求的能力。它强调流动性、股本稀释和投资者风险偏好等结构性约束，可能放缓高估值私有公司的轮融资。核心观点是公开市场可能限制这些公司通过上市快速扩张的能力，从而影响它们的融资策略。",
+      "hn": {
+        "id": 48364055,
+        "type": "story",
+        "by": "1vuio0pswjnm7",
+        "score": 699,
+        "descendants": 1233,
+        "time": 1780357546,
+        "comments_url": "https://news.ycombinator.com/item?id=48364055"
+      },
+      "tags": [
+        "Finance",
+        "Business",
+        "AI",
+        "Space"
+      ],
+      "hot_score": 0.79
+    },
+    {
+      "title_en": "Love systemd timers",
+      "url": "https://blog.tjll.net/you-dont-love-systemd-timers-enough/",
+      "title_zh": "你还没足够爱上 Systemd 定时器",
+      "created_display": "Created: Jun 02, 2026 / 02:34 PT",
+      "image_url": "https://blog.tjll.net/assets/images/cave.png",
+      "summary_en": "The post argues that systemd timers are underappreciated compared to traditional cron or other schedulers. It outlines advantages like finer-grained control, dependency management, and easy logging, with practical examples for daily admin use.",
+      "summary_zh": "这篇博文认为对 systemd 定时器的认可还不够高，甚至慢于人们对 cron 的使用热情。它总结了 systemd 定时器的优点，如更细粒度的控制、依赖管理和简化日志记录，并给出工作中的实际用例。",
+      "hn": {
+        "id": 48367904,
+        "type": "story",
+        "by": "yacin",
+        "score": 382,
+        "descendants": 269,
+        "time": 1780392851,
+        "comments_url": "https://news.ycombinator.com/item?id=48367904"
+      },
+      "tags": [
+        "DevOps",
+        "Programming"
+      ],
+      "hot_score": 0.69
+    },
+    {
+      "title_en": "HP re-releases classic computer science calculator: The HP-16C",
+      "url": "https://hpcalcs.com/product/hp-16c-collectors-edition/",
+      "title_zh": "HP 重新推出经典计算器：HP-16C 收藏版",
+      "created_display": "Created: Jun 02, 2026 / 12:02 PT",
+      "image_url": null,
+      "summary_en": "HP re-releases the classic HP-16C calculator in a collectors edition, reviving a beloved tool for engineers and enthusiasts. The revival nods to enduring interest in vintage hardware and precise numerical workflows.",
+      "summary_zh": "HP 重新推出经典的 HP-16C 计算器收藏版，重现了这款长期受工程师和爱好者欢迎的工具。复刻体现了对传统硬件与精确数值工作流的持续热爱。",
+      "hn": {
+        "id": 48374685,
+        "type": "story",
+        "by": "dm319",
+        "score": 200,
+        "descendants": 124,
+        "time": 1780426960,
+        "comments_url": "https://news.ycombinator.com/item?id=48374685"
+      },
+      "tags": [
+        "Hardware"
+      ],
+      "hot_score": 0.66
+    },
+    {
+      "title_en": "Apple rejected my dictation app for using the accessibility API",
+      "url": "https://www.mitmllc.com/blog/apple-rejected-my-dictation-app/",
+      "title_zh": "苹果因使用无障碍 API 拒绝了我的听写应用",
+      "created_display": "Created: Jun 02, 2026 / 05:00 PT",
+      "image_url": "https://mitmllc.com/blog/assets/apple-rejected-my-dictation-app/og.png",
+      "summary_en": "An app developer details Apple's rejection of their dictation app due to using the accessibility API. The dispute highlights the friction between accessibility tooling and App Store review policies, and raises questions about how such APIs should be used by third-party apps.",
+      "summary_zh": "开发者因使用无障碍 API 的听写应用被苹果拒绝上线。这一事件揭示了无障碍工具与应用商店审核规则之间的摩擦，并引发对第三方应用如何正确使用此类 API 的讨论。",
+      "hn": {
+        "id": 48369088,
+        "type": "story",
+        "by": "RZelaya",
+        "score": 307,
+        "descendants": 164,
+        "time": 1780401603,
+        "comments_url": "https://news.ycombinator.com/item?id=48369088"
+      },
+      "tags": [
+        "Programming"
+      ],
+      "hot_score": 0.63
+    },
+    {
+      "title_en": "Three Ways to Get Paid (2018)",
+      "url": "https://jasonzweig.com/three-ways-to-get-paid/",
+      "title_zh": "三种获得报酬的方式（2018）",
+      "created_display": "Created: Jun 02, 2026 / 10:09 PT",
+      "image_url": "https://jasonzweig.com/wp-content/uploads/2018/07/ForSale2.png",
+      "summary_en": "Jason Zweig outlines three core ways people earn money: wages, investments, and owning income-producing assets. The piece blends practical finance tips with historical context to broaden how we think about compensation beyond salary.",
+      "summary_zh": "作者 Jason Zweig 指出三种核心赚钱方式：工资、投资，以及拥有带来收益的资产。文中将实用的理财要点与历史背景结合，帮助读者把工资以外的报酬纳入考量。",
+      "hn": {
+        "id": 48373054,
+        "type": "story",
+        "by": "nate",
+        "score": 221,
+        "descendants": 142,
+        "time": 1780420144,
+        "comments_url": "https://news.ycombinator.com/item?id=48373054"
+      },
+      "hot_score": 0.63,
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "title_en": "Morningstar values SpaceX at $780B, half its IPO target",
+      "url": "https://www.reuters.com/business/media-telecom/morningstar-values-spacex-780-billion-half-its-ipo-target-2026-06-02/",
+      "title_zh": "晨星将 SpaceX 估值至7800亿美元，为 IPO 目标的一半",
+      "created_display": "Created: Jun 02, 2026 / 11:09 PT",
+      "image_url": null,
+      "summary_en": "Morningstar pegs SpaceX at about $780B, roughly half its rumored IPO target, illustrating how private market enthusiasm and public-market expectations diverge. The valuation signals investor fever for space tech even as the company remains private.",
+      "summary_zh": "晨星评 SpaceX 约7800亿美元的估值，约为传闻中的 IPO 目标的一半，体现私募热潮与公开市场预期的分歧。此估值反映出投资者对航天科技的热情，即便公司尚未上市。",
+      "hn": {
+        "id": 48373909,
+        "type": "story",
+        "by": "berkeleyjunk",
+        "score": 204,
+        "descendants": 178,
+        "time": 1780423793,
+        "comments_url": "https://news.ycombinator.com/item?id=48373909"
+      },
+      "hot_score": 0.63,
+      "tags": [
+        "Space",
+        "Finance"
+      ]
+    },
+    {
+      "title_en": "Age verification for social media, the beginning of the end for a free internet?",
+      "url": "https://mullvad.net/en/blog/age-verification-for-social-media-the-beginning-of-the-end-for-a-free-internet",
+      "title_zh": "社交媒体年龄验证：自由互联网的终结之始？",
+      "created_display": "Created: Jun 01, 2026 / 16:22 PT",
+      "image_url": "https://mullvad.net/press/MullvadVPN_logo_Round_RGB_Color_positive.png",
+      "summary_en": "The post discusses age verification proposals for social media and argues they could erode privacy, anonymity, and free internet principles, with practical implications for UX, accessibility, and safety.",
+      "summary_zh": "文章分析社交媒体的年龄验证方案，认为在提升安全性的同时可能侵蚀隐私与互联网的开放性，需要在安全与自由之间取得权衡。",
+      "hn": {
+        "id": 48363882,
+        "type": "story",
+        "by": "StrLght",
+        "score": 558,
+        "descendants": 472,
+        "time": 1780356148,
+        "comments_url": "https://news.ycombinator.com/item?id=48363882"
+      },
+      "tags": [
+        "Privacy"
+      ],
+      "hot_score": 0.62
+    },
+    {
+      "title_en": "Trump signs downsized AI order after weeks of reversals",
+      "url": "https://www.politico.com/news/2026/06/02/trump-signs-downsized-ai-order-00946389",
+      "title_zh": "特朗普在多周变动后签署缩减版 AI 命令",
+      "created_display": "Created: Jun 02, 2026 / 09:40 PT",
+      "image_url": null,
+      "summary_en": "Trump signs a downsized AI order after weeks of reversals, signaling a pared-back but still strategic stance on AI governance. The move focuses on national security, workforce reskilling, and research priorities.",
+      "summary_zh": "特朗普在多轮改变后签署了一份缩减版的 AI 指令，尽管规模减小，但仍体现对 AI governance 的战略关注，聚焦国家安全、劳动力再培训与研究优先级。",
+      "hn": {
+        "id": 48372628,
+        "type": "story",
+        "by": "_alternator_",
+        "score": 224,
+        "descendants": 168,
+        "time": 1780418416,
+        "comments_url": "https://news.ycombinator.com/item?id=48372628"
+      },
+      "tags": [
+        "AI",
+        "Politics",
+        "Security"
+      ],
+      "hot_score": 0.62
+    },
+    {
+      "title_en": "Show HN: Edsger – A handwritten Clojure REPL for the reMarkable 2",
+      "url": "https://handwritten.danieljanus.pl/2026-06-01-edsger.html",
+      "title_zh": "Show HN：在 reMarkable 2 上运行的手写 Clojure REPL（Edsger）",
+      "created_display": "Created: Jun 02, 2026 / 11:52 PT",
+      "image_url": "https://handwritten.danieljanus.pl/title.svg",
+      "summary_en": "An experimental project ships a handwritten Clojure REPL on the reMarkable 2, letting you type and evaluate Clojure code directly on the e-ink device. It demonstrates how lightweight, on-device tooling can enable interactive programming far from a traditional IDE, even on constrained hardware. Proof-of-concept for embedding REPLs on unusual hardware.",
+      "summary_zh": "该项目把 Clojure 的手写 REPL 移植到 reMarkable 2，让在电子墨水设备上直接输入并执行代码成为可能。它展示了在资源受限设备上实现交互式编程的潜力，以及在极简硬件上的在地开发工具。",
+      "hn": {
+        "id": 48374552,
+        "type": "story",
+        "by": "nathell",
+        "score": 193,
+        "descendants": 27,
+        "time": 1780426372,
+        "comments_url": "https://news.ycombinator.com/item?id=48374552"
+      },
+      "tags": [
+        "Show HN",
+        "Programming",
+        "Hardware"
+      ],
+      "hot_score": 0.62
+    },
+    {
+      "title_en": "Coreutils for Windows",
+      "url": "https://github.com/microsoft/coreutils",
+      "title_zh": "Windows 版 Coreutils",
+      "created_display": "Created: Jun 02, 2026 / 09:55 PT",
+      "image_url": "https://opengraph.githubassets.com/2e4e5f730fc41cef2174089da0b83468d8f48f590f6cceb9b2e5f534cd0f7be9/microsoft/coreutils",
+      "summary_en": "Coreutils for Windows brings GNU utilities like ls and cp to Windows native, streamlining cross-platform scripting without relying on WSL or Cygwin.",
+      "summary_zh": "Windows 版 Coreutils 将 GNU 工具（如 ls、cp）原生带到 Windows，简化跨平台脚本和开发工作，无需依赖 WSL 或 Cygwin。",
+      "hn": {
+        "id": 48372853,
+        "type": "story",
+        "by": "gigel82",
+        "score": 216,
+        "descendants": 237,
+        "time": 1780419311,
+        "comments_url": "https://news.ycombinator.com/item?id=48372853"
+      },
+      "hot_score": 0.61,
+      "tags": [
+        "Programming",
+        "Open Source"
+      ]
+    },
+    {
+      "title_en": "MAI-Thinking-1",
+      "url": "https://microsoft.ai/news/introducing-mai-thinking-1/",
+      "title_zh": "MAI 思维-1",
+      "created_display": "Created: Jun 02, 2026 / 11:39 PT",
+      "image_url": "https://microsoft.ai/wp-content/themes/wp-base-theme/images/social.jpg",
+      "summary_en": "Microsoft rolls out MAI-Thinking-1, a framework aimed at improving AI thinking pipelines and decision-making, signaling a push toward more structured, scalable AI reasoning.",
+      "summary_zh": "微软发布 MAI 思维-1，旨在完善 AI 推理流程与决策框架，推动更有结构、可扩展的人工智能推理。",
+      "hn": {
+        "id": 48374362,
+        "type": "story",
+        "by": "LER0ever",
+        "score": 191,
+        "descendants": 80,
+        "time": 1780425574,
+        "comments_url": "https://news.ycombinator.com/item?id=48374362"
+      },
+      "hot_score": 0.61,
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "title_en": "Stop Ruining It",
+      "url": "https://seths.blog/2026/06/stop-ruining-it/",
+      "title_zh": "别把好事毁了",
+      "created_display": "Created: Jun 02, 2026 / 02:52 PT",
+      "image_url": "https://seths.blog/wp-content/uploads/2018/06/seth_godin_ogimages_v02_1806138-1.jpg",
+      "summary_en": "A concise admonition against feature creep and over-engineering; advocates preserving core value, user experience, and focus.",
+      "summary_zh": "作者呼吁避免功能膨胀和过度设计，强调要保留核心价值与良好用户体验，专注于真正重要的改进。",
+      "hn": {
+        "id": 48368059,
+        "type": "story",
+        "by": "herbertl",
+        "score": 301,
+        "descendants": 152,
+        "time": 1780393962,
+        "comments_url": "https://news.ycombinator.com/item?id=48368059"
+      },
+      "tags": [
+        "Design"
+      ],
+      "hot_score": 0.55
+    },
+    {
+      "title_en": "Preparing for KDE Plasma's Last X11-Supported Release",
+      "url": "https://blog.davidedmundson.co.uk/blog/596/",
+      "title_zh": "为 KDE Plasma 的最后一个支持 X11 的版本做准备",
+      "created_display": "Created: Jun 02, 2026 / 07:16 PT",
+      "image_url": "http://blog.davidedmundson.co.uk/wp-content/uploads/2026/06/graph-1024x683.png",
+      "summary_en": "KDE Plasma is approaching its final release that supports X11; users and developers should prepare for the transition to Wayland, including app compatibility and workflow changes.",
+      "summary_zh": "KDE Plasma 将迎来最后一个支持 X11 的版本，用户和开发者需为向 Wayland 的迁移做准备，关注应用兼容性和工作流的改变。",
+      "hn": {
+        "id": 48370588,
+        "type": "story",
+        "by": "jandeboevrie",
+        "score": 219,
+        "descendants": 321,
+        "time": 1780409790,
+        "comments_url": "https://news.ycombinator.com/item?id=48370588"
+      },
+      "tags": [
+        "Open Source"
+      ],
+      "hot_score": 0.52
+    },
+    {
+      "title_en": "How we index images for RAG",
+      "url": "https://www.kapa.ai/blog/how-we-index-images-for-rag",
+      "title_zh": "我们如何为 RAG 索引图像",
+      "created_display": "Created: Jun 02, 2026 / 09:13 PT",
+      "image_url": "https://framerusercontent.com/images/LJwUi6OIskYSaLLXynnJExGaA.png?width=993&height=670",
+      "summary_en": "A deep dive into image indexing for Retrieval-Augmented Generation (RAG) reveals practical strategies for embedding, similarity search, and multi-modal retrieval to speed up accurate visual retrieval in AI chats.",
+      "summary_zh": "深入探讨用于检索增强生成（RAG）的图像索引，揭示嵌入、相似性搜索和多模态检索等实用策略，以提升在 AI 聊天中对视觉信息的准确检索速度。",
+      "hn": {
+        "id": 48372239,
+        "type": "story",
+        "by": "mooreds",
+        "score": 190,
+        "descendants": 26,
+        "time": 1780416821,
+        "comments_url": "https://news.ycombinator.com/item?id=48372239"
+      },
+      "tags": [
+        "AI",
+        "Data"
+      ],
+      "hot_score": 0.51
+    },
+    {
+      "title_en": "macOS needs its grid back",
+      "url": "https://blog.hopefullyuseful.com/blog/macos-needs-its-grid-back/",
+      "title_zh": "macOS 需要回归网格布局",
+      "created_display": "Created: Jun 01, 2026 / 18:28 PT",
+      "image_url": "https://blog.hopefullyuseful.com/blog/macos-needs-its-grid-back/picker32.jpg",
+      "summary_en": "macOS has drifted away from grid-based window management, making layouts feel unpredictable for power users. A consistent grid or snap-to-grid approach could restore predictable workflows and improve multitasking on the desktop. Without a stable grid, layouts suffer as apps proliferate and screen sizes vary.",
+      "summary_zh": "macOS 的窗口布局系统已经失去原有的网格化管理，导致高效工作流变得不稳定。文章主张回归网格对齐或引入更灵活的平铺布局，以提升多任务处理的效率。随着屏幕尺寸和应用数量的增加，缺乏稳定网格的工作流将更加低效。",
+      "hn": {
+        "id": 48364800,
+        "type": "story",
+        "by": "ranebo",
+        "score": 394,
+        "descendants": 258,
+        "time": 1780363714,
+        "comments_url": "https://news.ycombinator.com/item?id=48364800"
+      },
+      "tags": [
+        "Design"
+      ],
+      "hot_score": 0.48
+    },
+    {
+      "title_en": "Show HN: Eyeball",
+      "url": "https://eyeball.rory.codes/",
+      "title_zh": "Show HN：Eyeball",
+      "created_display": "Created: Jun 02, 2026 / 02:04 PT",
+      "image_url": "https://eyeball.rory.codes/og-image.png",
+      "summary_en": "Show HN: Eyeball",
+      "summary_zh": "Show HN：Eyeball",
+      "hn": {
+        "id": 48367723,
+        "type": "story",
+        "by": "mrroryflint",
+        "score": 270,
+        "descendants": 80,
+        "time": 1780391089,
+        "comments_url": "https://news.ycombinator.com/item?id=48367723"
+      },
+      "tags": [
+        "Show HN",
+        "Programming"
+      ],
+      "hot_score": 0.47
+    },
+    {
+      "title_en": "Anthropic confidentially submits draft S-1 to the SEC",
+      "url": "https://www.anthropic.com/news/confidential-draft-s1-sec",
+      "title_zh": "Anthropic 向 SEC confidentially 提交 S-1 初稿",
+      "created_display": "Created: Jun 01, 2026 / 09:00 PT",
+      "image_url": "https://cdn.sanity.io/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
+      "summary_en": "Anthropic filed a confidential draft S-1 with the SEC, signaling intent to pursue an IPO. The move comes as AI safety-focused startups navigate a crowded funding environment and evolving regulatory expectations.",
+      "summary_zh": "Anthropic 已向美国证券交易委员会提交保密的 S-1 初稿，表明其上市意图。此举发生在AI 安全型初创公司竞争激烈、监管预期改变的市场环境中。",
+      "hn": {
+        "id": 48358646,
+        "type": "story",
+        "by": "surprisetalk",
+        "score": 529,
+        "descendants": 445,
+        "time": 1780329640,
+        "comments_url": "https://news.ycombinator.com/item?id=48358646"
+      },
+      "tags": [
+        "Finance",
+        "Business",
+        "AI",
+        "Politics"
+      ],
+      "hot_score": 0.45
+    },
+    {
+      "title_en": "AI Agent Guidelines for CS336 at Stanford",
+      "url": "https://github.com/stanford-cs336/assignment1-basics/blob/main/CLAUDE.md",
+      "title_zh": "斯坦福 CS336 的 AI 代理指南",
+      "created_display": "Created: Jun 01, 2026 / 09:41 PT",
+      "image_url": "https://opengraph.githubassets.com/45f1ac2049e7bf939ab225ee0d02312f58a2642e56e8d640a0137b9d042cce91/stanford-cs336/assignment1-basics",
+      "summary_en": "The CS336 assignment package outlines guidelines for building and evaluating AI agents in a coursework setting, covering prompts, tool use, and safety considerations. It helps students avoid common pitfalls while promoting practical patterns for agent design.",
+      "summary_zh": "CS336 作业包列出构建与评估 AI 代理的指南，涵盖提示、工具使用和安全要点。帮助学生避免常见误区，同时推广实际的代理设计模式。",
+      "hn": {
+        "id": 48359232,
+        "type": "story",
+        "by": "prakashqwerty",
+        "score": 499,
+        "descendants": 153,
+        "time": 1780332109,
+        "comments_url": "https://news.ycombinator.com/item?id=48359232"
+      },
+      "tags": [
+        "AI",
+        "Education"
+      ],
+      "hot_score": 0.43
+    },
+    {
+      "title_en": "Chipotlai Max",
+      "url": "https://github.com/cyberpapiii/chipotlai-max",
+      "title_zh": "Chipotlai Max",
+      "created_display": "Created: Jun 01, 2026 / 16:06 PT",
+      "image_url": "https://opengraph.githubassets.com/00e61c72e88804d2bf5764ed36313787e47e29b8d5b7e9a96f7b9be5dc51a543/cyberpapiii/chipotlai-max",
+      "summary_en": "Chipotlai Max is a GitHub project.",
+      "summary_zh": "Chipotlai Max 是一个 GitHub 项目。",
+      "hn": {
+        "id": 48363765,
+        "type": "story",
+        "by": "nigelgutzmann",
+        "score": 388,
+        "descendants": 66,
+        "time": 1780355195,
+        "comments_url": "https://news.ycombinator.com/item?id=48363765"
+      },
+      "tags": [
+        "Open Source",
+        "Programming"
+      ],
+      "hot_score": 0.43
+    },
+    {
+      "title_en": "Fidonet: Technology, Use, Tools, and History (1993)",
+      "url": "https://www.fidonet.org/inet92_Randy_Bush.txt",
+      "title_zh": "Fidonet：1993年的技术、用法、工具与历史",
+      "created_display": "Created: Jun 02, 2026 / 06:53 PT",
+      "image_url": null,
+      "summary_en": "A 1993 overview of Fidonet, outlining its technology, typical tools, and user practices that powered early distributed bulletin-board networks. The document situates Fidonet in the pre-internet era as a grassroots, asynchronous communication backbone for hobbyists and regional networks.",
+      "summary_zh": "这份1993年的资料回顾了 Fidonet 的技术架构、常用工具与使用习惯，揭示其如何支撑早期分布式的电子公告网络。它将 Fidonet 放在互联网兴起前的社区型、异步通信网络背景中，强调业余者和地区网络的作用。",
+      "hn": {
+        "id": 48370291,
+        "type": "story",
+        "by": "BruceEel",
+        "score": 177,
+        "descendants": 81,
+        "time": 1780408432,
+        "comments_url": "https://news.ycombinator.com/item?id=48370291"
+      },
+      "tags": [
+        "Programming"
+      ],
+      "hot_score": 0.41
+    },
+    {
+      "title_en": "Expanding Project Glasswing",
+      "url": "https://www.anthropic.com/news/expanding-project-glasswing",
+      "title_zh": "扩展 Project Glasswing 计划",
+      "created_display": "Created: Jun 02, 2026 / 06:15 PT",
+      "image_url": "https://cdn.sanity.io/images/4zrzovbb/website/19e93d85e033d3f992b78cbce2c5a3f60709bd3b-3840x2160.jpg",
+      "summary_en": "Anthropic expands Project Glasswing to widen AI safety research and governance collaboration, signaling a strategic push toward safer, more accountable AI.",
+      "summary_zh": "Anthropic 将 Project Glasswing 扩展，以扩大在 AI 安全研究与治理协作方面的工作，体现对更安全、可问责 AI 的战略重视。",
+      "hn": {
+        "id": 48369863,
+        "type": "story",
+        "by": "surprisetalk",
+        "score": 176,
+        "descendants": 242,
+        "time": 1780406114,
+        "comments_url": "https://news.ycombinator.com/item?id=48369863"
+      },
+      "hot_score": 0.39,
+      "tags": [
+        "AI",
+        "Science"
+      ]
+    },
+    {
+      "title_en": "OpenAI frontier models and Codex are now available on AWS",
+      "url": "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws/",
+      "title_zh": "OpenAI Frontier 模型与 Codex 现已在 AWS 上线",
+      "created_display": "Created: Jun 01, 2026 / 14:50 PT",
+      "image_url": "https://images.ctfassets.net/kftzwdyauwt9/2Tbsus4QAtPDAlsIM3vYO2/87f4c6894832d7937e54ecb3c245fdbe/OAI_AWS_Partnership_16x9_Art_Card.png?w=1600&h=900&fit=fill",
+      "summary_en": "OpenAI frontier models and Codex are now available on AWS, enabling developers to deploy large-scale AI capabilities within their existing AWS workflows. The integration supports governance, data locality, and scalable deployment, catalyzing AI adoption for enterprises already in the AWS ecosystem. It signals a cloud-first distribution pattern for OpenAI's evolving offerings.",
+      "summary_zh": "OpenAI 的 Frontier 模型与 Codex 现已在 AWS 可用，使开发者能够在现有的 AWS 工作流中部署大规模 AI 能力。该整合支持企业级治理、数据本地化与可扩展部署，可能加速已在 AWS 生态中的企业采用 AI。此举也体现 OpenAI 持续以云端分发新产品的策略。",
+      "hn": {
+        "id": 48363132,
+        "type": "story",
+        "by": "typpo",
+        "score": 363,
+        "descendants": 128,
+        "time": 1780350602,
+        "comments_url": "https://news.ycombinator.com/item?id=48363132"
+      },
+      "tags": [
+        "AI"
+      ],
+      "hot_score": 0.38
+    },
+    {
+      "title_en": "Should you normalize RGB values by 255 or 256?",
+      "url": "https://30fps.net/pages/255-vs-256-division/",
+      "title_zh": "RGB 值应除以 255 还是 256？",
+      "created_display": "Created: Jun 01, 2026 / 10:37 PT",
+      "image_url": "https://30fps.net/pages/255-vs-256-division/std_vs_alt_numberline.png",
+      "summary_en": "Explains the math behind normalizing 0–255 color channels to a 0–1 range and why dividing by 255 is usually preferable to 256. Highlights practical implications for image processing, neural networks, and color accuracy, including edge-case behavior at 255.",
+      "summary_zh": "解释将 0–255 的颜色通道归一化到 0–1 的数学原理，以及为何通常应使用 255 而非 256 进行除法。强调在图像处理、神经网络与色彩精度方面的实际影响，特别是对 255 的端点处理。",
+      "hn": {
+        "id": 48360054,
+        "type": "story",
+        "by": "pplanu",
+        "score": 328,
+        "descendants": 140,
+        "time": 1780335440,
+        "comments_url": "https://news.ycombinator.com/item?id=48360054"
+      },
+      "tags": [
+        "Data",
+        "Programming"
+      ],
+      "hot_score": 0.29
+    },
+    {
+      "title_en": "DuckDuckGo makes its 'no-AI' search engine easier to access as its traffic booms",
+      "url": "https://techcrunch.com/2026/06/01/duckduckgo-makes-its-no-ai-search-engine-easier-to-access-as-its-traffic-booms/",
+      "title_zh": "DuckDuckGo 在流量激增时让其无 AI 搜索引擎更易访问",
+      "created_display": "Created: Jun 01, 2026 / 09:33 PT",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/05/DuckDuckGo_NoAI.png?resize=1200,784",
+      "summary_en": "DuckDuckGo expands access to its no‑AI search engine as traffic climbs, illustrating demand for privacy-respecting results. The move positions DDG as a counterpoint to AI‑augmented search trends.",
+      "summary_zh": "DuckDuckGo 在流量激增之际让其无 AI 的搜索引擎更易访问，体现用户对隐私、非 AI 助力结果的需求在上升。此举也为以隐私为卖点的搜索方案带来更广阔的触达。",
+      "hn": {
+        "id": 48359130,
+        "type": "story",
+        "by": "jaredwiener",
+        "score": 309,
+        "descendants": 149,
+        "time": 1780331639,
+        "comments_url": "https://news.ycombinator.com/item?id=48359130"
+      },
+      "tags": [
+        "Privacy",
+        "Web",
+        "AI"
+      ],
+      "hot_score": 0.27
+    },
+    {
+      "title_en": "Debug Project",
+      "url": "https://debug.com/",
+      "title_zh": "调试项目",
+      "created_display": "Created: Jun 01, 2026 / 13:40 PT",
+      "image_url": "https://lh3.googleusercontent.com/QZRAEZjsf6aNQRBS6ypIqHU4o-nCheTVfMVdpAkYyYKLQDw0WeuxD5XRgboOF_6fkJoZdUxF1xm7aytdKh_ZwITPd-NlTEbXLmseng",
+      "summary_en": "A project centered on debugging software workflows and issues, likely offering new tools or methodologies to diagnose and fix bugs.",
+      "summary_zh": "一个聚焦调试软件工作流与问题的项目，可能提供新工具或方法来诊断并修复错误。",
+      "hn": {
+        "id": 48362347,
+        "type": "story",
+        "by": "Eridanus2",
+        "score": 273,
+        "descendants": 113,
+        "time": 1780346413,
+        "comments_url": "https://news.ycombinator.com/item?id=48362347"
+      },
+      "tags": [
+        "Programming"
+      ],
+      "hot_score": 0.27
+    },
+    {
+      "title_en": "Alphabet announces $80B equity capital raise to expand AI infra and compute",
+      "url": "https://abc.xyz/investor/news/news-details/2026/Alphabet-Announces-Proposed-80-Billion-Equity-Capital-Raise-to-Expand-AI-Infrastructure-and-Compute-2026-b0myAMewCa/default.aspx",
+      "title_zh": "Alphabet宣布800亿美元股权融资以扩展AI基础设施与算力",
+      "created_display": "Created: Jun 01, 2026 / 13:55 PT",
+      "image_url": "https://s206.q4cdn.com/479360582/files/design/alphabet_logo.png",
+      "summary_en": "Alphabet plans to raise about $80B in equity to fund AI infrastructure and compute capacity, signaling continued scale-up of its AI platforms and data-center footprint. The move highlights the capital-intensive nature of modern AI at scale and could influence strategic investments across cloud and hardware ecosystems. Expect further expansion of Google's AI tooling, services, and partnerships.",
+      "summary_zh": "Alphabet计划筹集约800亿美元股本，以资助AI基础设施与算力扩展，显示其AI平台和数据中心规模化的持续增速。这一举措凸显大规模AI的高资本需求，可能影响云服务和硬件生态圈的战略投资。未来Google的AI工具、服务与合作关系预计将进一步扩张。",
+      "hn": {
+        "id": 48362515,
+        "type": "story",
+        "by": "gregschlom",
+        "score": 251,
+        "descendants": 231,
+        "time": 1780347315,
+        "comments_url": "https://news.ycombinator.com/item?id=48362515"
+      },
+      "tags": [
+        "Finance",
+        "Business",
+        "AI",
+        "Hardware",
+        "DevOps"
+      ],
+      "hot_score": 0.25
+    },
+    {
+      "title_en": "GitHub and the crime against software",
+      "url": "https://eblog.fly.dev/githubbad.html",
+      "title_zh": "GitHub 与对软件的犯罪",
+      "created_display": "Created: Jun 01, 2026 / 11:54 PT",
+      "image_url": "https://www.eblog.fly.dev/tt_tt.png",
+      "summary_en": "Argues that GitHub's culture and tooling enable lax licensing and diffusion of copyrighted code, which the author calls a 'crime against software.' The piece calls for clearer licenses, provenance tracking, and stronger attribution practices to restore incentives for proper software stewardship.",
+      "summary_zh": "认为 GitHub 的文化与工具链放任许可宽松、作品代码的扩散，构成对软件的“犯罪行为”。呼吁更清晰的许可、源流跟踪与更强的署名规范，以恢复对软件所有权与治理的正确激励。",
+      "hn": {
+        "id": 48361064,
+        "type": "story",
+        "by": "pplanu",
+        "score": 248,
+        "descendants": 116,
+        "time": 1780340095,
+        "comments_url": "https://news.ycombinator.com/item?id=48361064"
+      },
+      "tags": [
+        "Legal",
+        "Open Source",
+        "Programming",
+        "Privacy"
+      ],
+      "hot_score": 0.23
+    },
+    {
+      "title_en": "Florida sues OpenAI and Sam Altman over AI risks",
+      "url": "https://www.politico.com/news/2026/06/01/openai-hit-with-florida-lawsuit-00944215",
+      "title_zh": "佛州就AI风险起诉OpenAI及Altman",
+      "created_display": "Created: Jun 01, 2026 / 09:02 PT",
+      "image_url": null,
+      "summary_en": "Florida filed a lawsuit against OpenAI and CEO Sam Altman alleging that the company's AI products pose risks and misrepresent safety measures. The case adds to growing regulatory scrutiny of AI technologies and could influence how consumer-protection standards are enforced for AI services. The outcome may set a precedent for accountability in AI safety claims.",
+      "summary_zh": "佛州针对OpenAI及首席执行官萨姆·奥特曼提起诉讼，指控其AI产品存在风险并误导安全承诺。此案反映出日益严厉的AI监管态势，可能影响对AI服务的消费者保护标准执行，并或为AI安全承诺设定先例。",
+      "hn": {
+        "id": 48358667,
+        "type": "story",
+        "by": "cyunker",
+        "score": 266,
+        "descendants": 194,
+        "time": 1780329724,
+        "comments_url": "https://news.ycombinator.com/item?id=48358667"
+      },
+      "tags": [
+        "AI",
+        "Politics",
+        "Legal",
+        "Business"
+      ],
+      "hot_score": 0.22
+    }
+  ]
+}

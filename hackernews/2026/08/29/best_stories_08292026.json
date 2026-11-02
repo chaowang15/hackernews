@@ -1,0 +1,1166 @@
+{
+  "meta": {
+    "mode": "best",
+    "source": "https://news.ycombinator.com/",
+    "api": "https://github.com/HackerNews/API",
+    "count_requested": 50,
+    "count_written": 50,
+    "reused_same_day": 0,
+    "reused_cross_day": 14,
+    "new_llm_enriched": 18,
+    "scrape_time_display": "09:19, August 30, 2026 (PDT)",
+    "timezone": "America/Los_Angeles",
+    "date_dir": "2026/08/29",
+    "content_date": "2026-08-29",
+    "run_time_local": "09:19, August 30, 2026 (PDT)",
+    "run_time_utc": "2026-08-30 16:19:48 UTC",
+    "incremental": true,
+    "stories_max": 50,
+    "hot_score_time_utc": "2026-08-30 16:20:53 UTC"
+  },
+  "items": [
+    {
+      "title_en": "No AI Fridays",
+      "url": "https://noaifridays.com/",
+      "title_zh": "No AI Fridays：周五禁用人工智能",
+      "created_display": "Created: Aug 30, 2026 / 05:31 PT",
+      "image_url": null,
+      "summary_en": "A movement encouraging teams to pause AI usage on Fridays to reflect on the impact of automation and data practices. It promotes thoughtful, ethical AI adoption and sparks conversations about governance and resilience.",
+      "summary_zh": "一个倡议，鼓励团队在周五暂停使用人工智能，以反思自动化与数据使用的影响。推动更负责任、伦理的 AI 采用，并引发治理与韧性方面的讨论。",
+      "hn": {
+        "id": 49498095,
+        "type": "story",
+        "by": "xendo",
+        "score": 218,
+        "descendants": 113,
+        "time": 1788093065,
+        "comments_url": "https://news.ycombinator.com/item?id=49498095"
+      },
+      "hot_score": 9.08,
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "title_en": "Brits would quite like their private messages to stay private",
+      "url": "https://www.theregister.com/security/2026/08/30/turns-out-brits-would-quite-like-their-private-messages-to-stay-private/5292994",
+      "title_zh": "英国人希望私信保持私密",
+      "created_display": "Created: Aug 30, 2026 / 02:26 PT",
+      "image_url": "https://image.theregister.com/255047.jpg?imageId=255047&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+      "summary_en": "Poll results suggest Brits want stronger privacy protections for private messages, reflecting concerns about law-enforcement access and metadata. The discussion hints at potential political pressure for messaging-app privacy features.",
+      "summary_zh": "民意调查显示英国人希望私密消息获得更强保护，反映对执法访问和元数据的担忧。讨论暗示可能推动在消息应用隐私功能上的政治压力。",
+      "hn": {
+        "id": 49497063,
+        "type": "story",
+        "by": "defrost",
+        "score": 291,
+        "descendants": 214,
+        "time": 1788081968,
+        "comments_url": "https://news.ycombinator.com/item?id=49497063"
+      },
+      "tags": [
+        "Privacy",
+        "Politics"
+      ],
+      "hot_score": 5.65
+    },
+    {
+      "title_en": "Claude Session URL appended to commit messages and PR descriptions by default",
+      "url": "https://github.com/anthropics/claude-code/issues/66504",
+      "title_zh": "Claude 会话 URL 默认附加到提交信息和 PR 描述",
+      "created_display": "Created: Aug 30, 2026 / 05:50 PT",
+      "image_url": "https://opengraph.githubassets.com/2884f64401bafb07eaa81bbdf6c533901ee1308959cbddb271eb912ab0122ebf/anthropics/claude-code/issues/66504",
+      "summary_en": "A default behavior in Claude code tools automatically appends the session URL to commit messages and pull request descriptions. This poses potential privacy leakage risks, and maintainers may need to disable or patch the feature.",
+      "summary_zh": "Claude 相关工具默认会将会话 URL 附加到提交信息与 PR 描述中，存在隐私泄露风险。维护者可能需要禁用或修补此功能。",
+      "hn": {
+        "id": 49498201,
+        "type": "story",
+        "by": "sparsesignal",
+        "score": 98,
+        "descendants": 125,
+        "time": 1788094254,
+        "comments_url": "https://news.ycombinator.com/item?id=49498201"
+      },
+      "hot_score": 4.51,
+      "tags": [
+        "Programming",
+        "Privacy",
+        "AI"
+      ]
+    },
+    {
+      "title_en": "Hacking IKEA Furniture",
+      "url": "https://greenlightning.eu/diy/hacking-ikea-furniture/",
+      "title_zh": "改装 IKEA 家具",
+      "created_display": "Created: Aug 30, 2026 / 04:39 PT",
+      "image_url": "https://greenlightning.eu/img/header.png",
+      "summary_en": "A DIY guide shows how to hack Ikea furniture to add electronics or customization. It demonstrates affordable, modular DIY that can extend the life and utility of everyday furniture.",
+      "summary_zh": "这是一份关于如何改装 Ikea 家具以加入电子元件或自定义功能的动手指南，展示了低成本、模块化的 DIY 思路，能延长日常家具的使用价值。",
+      "hn": {
+        "id": 49497810,
+        "type": "story",
+        "by": "greenlightning",
+        "score": 136,
+        "descendants": 73,
+        "time": 1788089983,
+        "comments_url": "https://news.ycombinator.com/item?id=49497810"
+      },
+      "hot_score": 4.42,
+      "tags": [
+        "Hardware"
+      ]
+    },
+    {
+      "title_en": "California lawmakers unanimously pass Linux exemption from age-verification law",
+      "url": "https://www.tomshardware.com/software/linux/california-lawmakers-unanimously-pass-linux-exemption-from-age-verification-law-software-distributed-under-the-gpl-mit-bsd-and-apache-licenses-are-exempt",
+      "title_zh": "加州通过 Linux 豁免年龄验证法",
+      "created_display": "Created: Aug 29, 2026 / 20:15 PT",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/G9dtD87HfBhVHzDmSHE2tE-1920-80.jpg",
+      "summary_en": "California lawmakers unanimously exempt Linux and GPL-licensed software from the state's age-verification requirement, preserving open-source distribution channels. The move clarifies that common open-source licenses shield software from age checks while still applying to other content.",
+      "summary_zh": "加州立法者一致通过针对 Linux 与 GPL 等开源软件的年龄验证豁免，确保开源软件的分发不受额外年龄要求限制。这一举措澄清了在某些内容需要年龄验证时，开源许可的软件不受这些限制。",
+      "hn": {
+        "id": 49495372,
+        "type": "story",
+        "by": "shscs911",
+        "score": 550,
+        "descendants": 245,
+        "time": 1788059736,
+        "comments_url": "https://news.ycombinator.com/item?id=49495372"
+      },
+      "tags": [
+        "Open Source",
+        "Legal"
+      ],
+      "hot_score": 4.15
+    },
+    {
+      "title_en": "Longest Straight Line Paths on Water or Land on the Earth (2018)",
+      "url": "https://arxiv.org/abs/1804.07389",
+      "title_zh": "地球表面水域或陆地上的最长直线路径（2018）",
+      "created_display": "Created: Aug 30, 2026 / 01:23 PT",
+      "image_url": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+      "summary_en": "A geographic study analyzes the longest straight-line routes that can run entirely over water or land on Earth, revealing how coastlines and geography constrain such paths. The findings illuminate interesting quirks in global layouts and have implications for navigational puzzles and geodesic research.",
+      "summary_zh": "这一地理研究探讨在地球上完全在水域或陆地上绘制的最长直线路线，揭示海岸线和地形如何对路径造成约束。研究结果揭示全球地形的有趣特性，并对导航谜题和测地线研究具有启示意义。",
+      "hn": {
+        "id": 49496782,
+        "type": "story",
+        "by": "joebig",
+        "score": 158,
+        "descendants": 45,
+        "time": 1788078206,
+        "comments_url": "https://news.ycombinator.com/item?id=49496782"
+      },
+      "tags": [
+        "Science"
+      ],
+      "hot_score": 2.51
+    },
+    {
+      "title_en": "Arbitrary code execution in QubesOS via copy-to-VM error reporting backchannel",
+      "url": "https://www.qubes-os.org/news/2026/08/29/qsb-118/",
+      "title_zh": "QubesOS 拷贝到 VM 错误报告回传通道可实现任意代码执行",
+      "created_display": "Created: Aug 30, 2026 / 01:51 PT",
+      "image_url": "https://www.qubes-os.org/attachment/icons/qubes-logo-icon-name-slogan-fb.png",
+      "summary_en": "A security disclosure shows a backchannel in Qubes OS’ copy-to-VM error reporting that can be abused to execute arbitrary code inside a target VM. The fix tightens isolation guarantees and reminds users to apply updates to preserve containment boundaries.",
+      "summary_zh": "安全披露显示 Qubes OS 的拷贝到 VM 的错误报告回传通道可被利用来在目标 VM 内执行任意代码。修复加强了隔离性，并提醒用户及时更新以维持封装边界。",
+      "hn": {
+        "id": 49496918,
+        "type": "story",
+        "by": "vntok",
+        "score": 143,
+        "descendants": 60,
+        "time": 1788079899,
+        "comments_url": "https://news.ycombinator.com/item?id=49496918"
+      },
+      "tags": [
+        "Security",
+        "Open Source"
+      ],
+      "hot_score": 2.47
+    },
+    {
+      "title_en": "Lawmakers added $1 to car insurance policies. That money paid for Flock cameras",
+      "url": "https://www.texastribune.org/2026/08/28/texas-flock-cameras-auto-insurance-fee-mvcpa-grants/",
+      "title_zh": "立法者在车险中多收1美元，用于资助Flock摄像头",
+      "created_display": "Created: Aug 29, 2026 / 16:17 PT",
+      "image_url": "https://i0.wp.com/www.texastribune.org/wp-content/uploads/2026/08/TT_FLOCK-MONEY-TEXAS_03-.jpg?quality=100&w=1200&h=630&ssl=1",
+      "summary_en": "A modest insurance surcharge earmarked to fund Flock cameras reveals how state policy links private pricing with public surveillance infrastructure.",
+      "summary_zh": "一笔用于资助 Flock 摄像头的车险附加费反映出政府将私人定价与公共监控基础设施连结的做法。文章讨论公共安全资金与消费者成本之间的权衡。",
+      "hn": {
+        "id": 49494182,
+        "type": "story",
+        "by": "DeepLogin",
+        "score": 379,
+        "descendants": 273,
+        "time": 1788045437,
+        "comments_url": "https://news.ycombinator.com/item?id=49494182"
+      },
+      "tags": [
+        "Privacy",
+        "Politics",
+        "DevOps"
+      ],
+      "hot_score": 1.88
+    },
+    {
+      "title_en": "Bug Blindness",
+      "url": "https://danluu.com/bug-blind/",
+      "title_zh": "漏洞盲点",
+      "created_display": "Created: Aug 29, 2026 / 17:21 PT",
+      "image_url": null,
+      "summary_en": "A deep dive into why developers consistently miss bugs, even in well-tested code, due to cognitive biases and organizational blind spots. The piece argues for stronger testability, structured debugging workflows, and diverse perspectives to counteract bug blindness.",
+      "summary_zh": "本文剖析开发者在经过多轮测试后仍漏掉缺陷的原因，源于认知偏差和组织层面的盲点。通过强调可测试性、结构化调试流程和多样化视角来对抗漏洞盲点。",
+      "hn": {
+        "id": 49494520,
+        "type": "story",
+        "by": "davidmckenna",
+        "score": 337,
+        "descendants": 211,
+        "time": 1788049300,
+        "comments_url": "https://news.ycombinator.com/item?id=49494520"
+      },
+      "tags": [
+        "Programming"
+      ],
+      "hot_score": 1.85
+    },
+    {
+      "title_en": "The internet is kind of a predatory cesspit now",
+      "url": "https://www.stephendiehl.com/posts/internet_predatory_cesspit/",
+      "title_zh": "互联网如今有点成了掠夺性的泥潭",
+      "created_display": "Created: Aug 29, 2026 / 11:40 PT",
+      "image_url": "https://www.stephendiehl.com/images/sd-social-preview.png",
+      "summary_en": "Online spaces have devolved into predatory environments driven by monetization, harassment, and surveillance. The piece argues for stronger platform responsibility and safer design to curb these dynamics.",
+      "summary_zh": "在线空间已沦为由商业化、骚扰和监控驱动的掠夺性环境。文章主张加强平台责任与更安全的设计，以遏制这种动态。",
+      "hn": {
+        "id": 49492193,
+        "type": "story",
+        "by": "ibobev",
+        "score": 434,
+        "descendants": 303,
+        "time": 1788028856,
+        "comments_url": "https://news.ycombinator.com/item?id=49492193"
+      },
+      "hot_score": 1.46,
+      "tags": [
+        "Design",
+        "Privacy"
+      ]
+    },
+    {
+      "title_en": "DHS is using obscure law to snoop on journalists, non-profits, unions",
+      "url": "https://www.theguardian.com/us-news/2026/aug/29/trump-dhs-1509-summons-records-journalists-nonprofits",
+      "title_zh": "DHS 利用冷门法律监视记者、非营利组织与工会",
+      "created_display": "Created: Aug 29, 2026 / 11:44 PT",
+      "image_url": "https://i.guim.co.uk/img/media/7328625af2e84fcd3e32fe0cf1bd7a8acec89714/395_0_3333_2667/master/3333.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b21979455a9749b58eaeb6f3b8622df7",
+      "summary_en": "New reporting shows DHS used an obscure summons power to obtain data on journalists, nonprofits, and unions, widening concerns about civil-liberties protections and government overreach. The piece underscores the chilling effect on press and civil-society work and calls for greater transparency and reform.",
+      "summary_zh": "最新报道揭示国土安全部利用一项冷门的传唤权调取记者、非营利组织和工会的数据，扩大了对公民自由与政府越权的担忧。该事件凸显对媒体与民间社会工作的震慑效应，并呼吁提高透明度与推进改革。",
+      "hn": {
+        "id": 49492219,
+        "type": "story",
+        "by": "firefax",
+        "score": 422,
+        "descendants": 96,
+        "time": 1788029077,
+        "comments_url": "https://news.ycombinator.com/item?id=49492219"
+      },
+      "tags": [
+        "Privacy",
+        "Legal",
+        "Politics"
+      ],
+      "hot_score": 1.42
+    },
+    {
+      "title_en": "Hy4 preview",
+      "url": "https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview/",
+      "title_zh": "腾讯发布并开源 Hy4 预览版",
+      "created_display": "Created: Aug 29, 2026 / 12:33 PT",
+      "image_url": "https://www.tencent.com/wp-content/uploads/2026/08/hy4-preview-cover.jpg",
+      "summary_en": "Hy4 is Tencent's next large AI model with preview release and open-sourced components, expanding access to its latest AI stack. The move strengthens Tencent's position in the AI race and contributes to the broader open-source ecosystem, particularly for Chinese-language models and multimodal capabilities.",
+      "summary_zh": "腾讯发布了 Hy4 预览版并开源了核心组件，扩大了对其最新 AI 技术栈的接入。此举提升了腾讯在 AI 竞争中的地位，并为开放源生态做出贡献，特别是在中文模型与多模态能力方面。",
+      "hn": {
+        "id": 49492632,
+        "type": "story",
+        "by": "shenli3514",
+        "score": 359,
+        "descendants": 221,
+        "time": 1788032003,
+        "comments_url": "https://news.ycombinator.com/item?id=49492632"
+      },
+      "tags": [
+        "AI",
+        "Open Source"
+      ],
+      "hot_score": 1.29
+    },
+    {
+      "title_en": "Good Culture Is the Biggest Productivity Hack, Not AI",
+      "url": "https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity",
+      "title_zh": "良好文化才是最大的生产力秘诀，而非 AI",
+      "created_display": "Created: Aug 29, 2026 / 10:19 PT",
+      "image_url": "https://substackcdn.com/image/fetch/$s_!mpv7!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc7e34287-d1ea-4437-960e-c80e70dd341e_1600x844.jpeg",
+      "summary_en": "Culture remains the biggest driver of productivity; AI alone won't compensate for lack of trust, clarity, and collaboration. The piece argues leaders should invest in culture—psychological safety, shared goals, and effective teamwork—to truly boost output.",
+      "summary_zh": "文化才是生产力的最大推动力，AI 工具若缺乏信任、清晰目标和协作也难以带来真正的产出提升。文章建议领导者把资源投入到文化建设上——营造心理安全、明确共同目标、高效协作，以实现生产力的倍增。",
+      "hn": {
+        "id": 49491568,
+        "type": "story",
+        "by": "gpi",
+        "score": 423,
+        "descendants": 107,
+        "time": 1788023987,
+        "comments_url": "https://news.ycombinator.com/item?id=49491568"
+      },
+      "tags": [
+        "Culture",
+        "AI"
+      ],
+      "hot_score": 1.28
+    },
+    {
+      "title_en": "Debian votes to allow \"responsible use of generative AI\"",
+      "url": "https://lwn.net/Articles/1091231/",
+      "title_zh": "Debian 决定允许生成式 AI 的负责任使用",
+      "created_display": "Created: Aug 29, 2026 / 07:02 PT",
+      "image_url": "https://static.lwn.net/images/logo/barepenguin-70.webp",
+      "summary_en": "Debian voted to permit responsible use of generative AI in its workflows, with guardrails to address licensing and safety. The decision signals how a major, community-driven distro balances AI-assisted tooling with trust and reproducibility in open source.",
+      "summary_zh": "Debian 投票同意在其工作流程中允许生成式 AI 的负责任使用，并设立守则以应对安全与许可等问题。这体现出开源社区在 AI 辅助开发中寻求平衡，既利用新工具也维护可重复性与信任基础。",
+      "hn": {
+        "id": 49489982,
+        "type": "story",
+        "by": "pluc",
+        "score": 492,
+        "descendants": 459,
+        "time": 1788012130,
+        "comments_url": "https://news.ycombinator.com/item?id=49489982"
+      },
+      "tags": [
+        "AI",
+        "Open Source"
+      ],
+      "hot_score": 1.2
+    },
+    {
+      "title_en": "Our decision on Cursor following its acquisition by SpaceX",
+      "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/",
+      "title_zh": "Cursor 被 SpaceX 收购后的未来走向",
+      "created_display": "Created: Aug 28, 2026 / 18:47 PT",
+      "image_url": "https://images.ctfassets.net/kftzwdyauwt9/6RFKP8tysuxOLxVaiCRlu/ac31b03c2aeb6e3da620f2db89c7b6e9/index-our-decision-on-cursor-following-its-acquisition-by-spacex.png?w=1600&h=900&fit=fill",
+      "summary_en": "Our decision on Cursor after SpaceX's acquisition clarifies the product's future and commitments to users. The plan outlines how Cursor will be supported and positioned within SpaceX's ecosystem, with implications for developers and enterprise deployments.",
+      "summary_zh": "Cursor 在被 SpaceX 收购后未来走向的决定，明确了对用户的承诺与支持方向。文档说明 Cursor 的未来定位、在 SpaceX 生态中的角色，以及对开发者和企业部署的影响。",
+      "hn": {
+        "id": 49486172,
+        "type": "story",
+        "by": "meetpateltech",
+        "score": 824,
+        "descendants": 516,
+        "time": 1787968073,
+        "comments_url": "https://news.ycombinator.com/item?id=49486172"
+      },
+      "tags": [
+        "Business",
+        "Space"
+      ],
+      "hot_score": 1.05
+    },
+    {
+      "title_en": "FreeCORE TrueNAS Core – Continued",
+      "url": "https://freecore.org/",
+      "title_zh": "FreeCORE 继续推进 TrueNAS Core",
+      "created_display": "Created: Aug 29, 2026 / 18:31 PT",
+      "image_url": "https://freecore.org/og.png",
+      "summary_en": "FreeCORE continues the TrueNAS Core project, signaling ongoing community-led updates to the NAS OS. The note underscores the resilience of open-source forks and the role of user contributions in sustaining storage-focused platforms.",
+      "summary_zh": "FreeCORE 继续推进 TrueNAS Core 项目，表明社区驱动的 NAS 操作系统仍在持续更新。强调开源分支的韧性，以及用户贡献在维持存储平台中的作用。",
+      "hn": {
+        "id": 49494856,
+        "type": "story",
+        "by": "sashk",
+        "score": 152,
+        "descendants": 81,
+        "time": 1788053492,
+        "comments_url": "https://news.ycombinator.com/item?id=49494856"
+      },
+      "tags": [
+        "Open Source"
+      ],
+      "hot_score": 0.94
+    },
+    {
+      "title_en": "The Rise and Fall of Agent Civilizations",
+      "url": "https://www.dwarkesh.com/p/openai-huggingface",
+      "title_zh": "代理文明的兴衰",
+      "created_display": "Created: Aug 29, 2026 / 16:43 PT",
+      "image_url": "https://substackcdn.com/image/fetch/$s_!UZLs!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F30186662-5010-4c83-a672-e33c53deeaa3_1080x669.webp",
+      "summary_en": "An exploration of AI agent ecosystems and the dynamics by which multiple agents could form 'civilizations'—with attention to collaboration, competition, and potential collapse. It highlights strategic, safety, and governance challenges as AI agents multiply.",
+      "summary_zh": "探讨 AI 代理人生态系统及其多代理协作形成“文明”的可能性与动态，关注协作、竞争与潜在崩溃的情景。强调随着代理数量增加，治理、安全与策略的挑战。",
+      "hn": {
+        "id": 49494301,
+        "type": "story",
+        "by": "consumer451",
+        "score": 168,
+        "descendants": 97,
+        "time": 1788047004,
+        "comments_url": "https://news.ycombinator.com/item?id=49494301"
+      },
+      "tags": [
+        "AI"
+      ],
+      "hot_score": 0.86
+    },
+    {
+      "title_en": "Highest-ever ocean temperature measured as powerful El Niño forms",
+      "url": "https://www.latimes.com/environment/story/2026-08-26/highest-ever-ocean-temperature-measured-as-powerful-el-nino-forms",
+      "title_zh": "在强烈厄尔尼诺形成之际，海洋温度创历史新高",
+      "created_display": "Created: Aug 29, 2026 / 16:26 PT",
+      "image_url": "https://ca-times.brightspotcdn.com/dims4/default/e3721de/2147483647/strip/true/crop/3000x1575+0+213/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F04%2F56%2F159be59249f5894525a65d658ede%2F1564416-me-laweather-high-surf-alc-269.jpg",
+      "summary_en": "Record ocean temperatures coincide with a strong El Niño, signaling continued climate system disruption. Warming oceans intensify heatwaves, hurricanes, and marine ecosystem stress, challenging climate models and policy.",
+      "summary_zh": "海洋表层温度达到历史高位，与强烈厄尔尼诺并发，共同表明全球海洋系统继续承受扰动。海水升温加剧热浪、风暴和海洋生态压力，对气候模型与政策提出更高挑战。",
+      "hn": {
+        "id": 49494231,
+        "type": "story",
+        "by": "measurablefunc",
+        "score": 161,
+        "descendants": 198,
+        "time": 1788046004,
+        "comments_url": "https://news.ycombinator.com/item?id=49494231"
+      },
+      "hot_score": 0.81,
+      "tags": [
+        "Science"
+      ]
+    },
+    {
+      "title_en": "GrapheneOS project: pixel 11 no longer supports hardware memory tagging (MTE)",
+      "url": "https://bsky.app/profile/grapheneos.org/post/3mua32q4ds22e",
+      "title_zh": "GrapheneOS 项目：Pixel 11 不再支持硬件内存标记（MTE）",
+      "created_display": "Created: Aug 29, 2026 / 08:26 PT",
+      "image_url": "https://cdn.bsky.app/img/avatar_thumbnail/plain/did:plc:kym5w7pcv4v7xbz7lvbj24na/bafkreickcnmrwdtb3mwqzz7v7s2xgmczwzrdwp3ucvadpeuorzbsgvunjm",
+      "summary_en": "GrapheneOS notes that Pixel 11 devices no longer support hardware memory tagging (MTE), a feature that enhances memory safety. Dropping MTE reduces built-in protections, illustrating the tension between device compatibility and security in open-source mobile OS projects.",
+      "summary_zh": "GrapheneOS 指出 Pixel 11 不再支持硬件内存标记（MTE），这一特性有助于提升内存安全。移除 MTE 会降低内置保护，凸显在开源移动操作系统中，兼容性与安全性之间的权衡。",
+      "hn": {
+        "id": 49490702,
+        "type": "story",
+        "by": "400thecat",
+        "score": 301,
+        "descendants": 173,
+        "time": 1788017188,
+        "comments_url": "https://news.ycombinator.com/item?id=49490702"
+      },
+      "hot_score": 0.8,
+      "tags": [
+        "Security",
+        "Hardware",
+        "Open Source"
+      ]
+    },
+    {
+      "title_en": "I co-founded Burning Man. The festival has lost its soul",
+      "url": "https://sfstandard.com/2026/08/29/burning-man-lost-its-soul-founder/",
+      "title_zh": "我共同创办 Burning Man。这个节日已经失去了灵魂",
+      "created_display": "Created: Aug 29, 2026 / 16:12 PT",
+      "image_url": "https://assets.sfstandard.com/image/994911177489/image_nvp12aijr92sh9k1g4m5vk6r7e/-S1200x630-FPNG",
+      "summary_en": "From a co-founder's perspective, Burning Man has become over-commercialized and strays from its original communal ethos. The piece reflects on how growth, sponsorship, and enforcement reshape the festival's culture.",
+      "summary_zh": "从共同创始人的角度，Burning Man 已过度商业化，偏离了最初的社群精神。文中反思增长、赞助与治理如何改变了这个节日的文化。",
+      "hn": {
+        "id": 49494151,
+        "type": "story",
+        "by": "lisper",
+        "score": 154,
+        "descendants": 115,
+        "time": 1788045145,
+        "comments_url": "https://news.ycombinator.com/item?id=49494151"
+      },
+      "hot_score": 0.75,
+      "tags": [
+        "Culture"
+      ]
+    },
+    {
+      "title_en": "Creepy Crawlies",
+      "url": "https://people.kernel.org/monsieuricon/creepy-crawlies",
+      "title_zh": "令人毛骨悚然的爬虫",
+      "created_display": "Created: Aug 29, 2026 / 10:49 PT",
+      "image_url": "https://kaoti.ca/graphs/fig6-cpu-crawl-vs-clone.png",
+      "summary_en": "Creepy Crawlies",
+      "summary_zh": "简要地反思软件与系统中那些诡异、常被忽视的细节。",
+      "hn": {
+        "id": 49491791,
+        "type": "story",
+        "by": "zdw",
+        "score": 229,
+        "descendants": 83,
+        "time": 1788025741,
+        "comments_url": "https://news.ycombinator.com/item?id=49491791"
+      },
+      "hot_score": 0.72,
+      "tags": [
+        "Science"
+      ]
+    },
+    {
+      "title_en": "Nancy Grace Roman Space Telescope",
+      "url": "https://science.nasa.gov/mission/roman-space-telescope/",
+      "title_zh": "南希·格雷斯·罗曼太空望远镜",
+      "created_display": "Created: Aug 29, 2026 / 08:48 PT",
+      "image_url": "https://assets.science.nasa.gov/content/dam/science/missions/rst/spacecraft-illustrations/Roman_BeautyPass2026-med.png/jcr:content/renditions/cq5dam.web.1280.1280.png",
+      "summary_en": "NASA's Roman Space Telescope will use a wide-field infrared imager to study dark energy and exoplanets at unprecedented survey scales. It represents a major leap for space astronomy, delivering large-scale cosmic maps that complement JWST and ground-based surveys.",
+      "summary_zh": "美国国家航空航天局的罗曼太空望远镜将使用广域红外成像仪进行大规模的宇宙勘测，着眼于暗能量与系外行星的统计学研究。该任务标志着天文观测的一个重大跃进，所取得的大范围宇宙图像将与 JWST 及地面观测互为补充。",
+      "hn": {
+        "id": 49490870,
+        "type": "story",
+        "by": "JumpCrisscross",
+        "score": 259,
+        "descendants": 92,
+        "time": 1788018482,
+        "comments_url": "https://news.ycombinator.com/item?id=49490870"
+      },
+      "tags": [
+        "Space",
+        "Science",
+        "Energy"
+      ],
+      "hot_score": 0.71
+    },
+    {
+      "title_en": "Iceland votes on whether to restart talks on joining EU",
+      "url": "https://www.bbc.com/news/articles/cn45vdxyvvlo",
+      "title_zh": "冰岛就重新开启加入欧盟谈判进行投票",
+      "created_display": "Created: Aug 29, 2026 / 04:39 PT",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/1ad8/live/d86c20a0-a31d-11f1-8937-ebc435db1160.jpg",
+      "summary_en": "Iceland is weighing a restart of EU accession talks, signaling renewed attention to Brussels-style integration. The vote could shape regulatory alignment, fisheries policy, and energy markets as Iceland decides its stance toward potential membership.",
+      "summary_zh": "冰岛正就重新开启对欧盟的入盟谈判进行投票，凸显对布鲁塞尔式一体化的重新关注。此举可能影响监管对齐、渔业政策与能源市场，对潜在入盟的路径选取产生影响。",
+      "hn": {
+        "id": 49489057,
+        "type": "story",
+        "by": "tosh",
+        "score": 333,
+        "descendants": 461,
+        "time": 1788003578,
+        "comments_url": "https://news.ycombinator.com/item?id=49489057"
+      },
+      "tags": [
+        "Politics",
+        "Energy"
+      ],
+      "hot_score": 0.7
+    },
+    {
+      "title_en": "GLM-5.3 is now open-weight",
+      "url": "https://huggingface.co/zai-org/GLM-5.3",
+      "title_zh": "GLM-5.3 已开源权重",
+      "created_display": "Created: Aug 28, 2026 / 08:20 PT",
+      "image_url": "https://pbs.twimg.com/media/HQ0WAnyXIAENtQA.jpg:large",
+      "summary_en": "An open-weight release lets researchers run the model locally and inspect behavior; it aids reproducibility and benchmarking. The move signals growing openness in large-language-model ecosystems and invites community experimentation.",
+      "summary_zh": "公开权重意味着研究者可以本地运行模型、研究推理过程，提升复现实验和基准对比的可信度。此举体现了大语言模型生态的开放化趋势，并鼓励社区参与和改进。",
+      "hn": {
+        "id": 49479878,
+        "type": "story",
+        "by": "jeudesprits",
+        "score": 796,
+        "descendants": 277,
+        "time": 1787930413,
+        "comments_url": "https://news.ycombinator.com/item?id=49479878"
+      },
+      "tags": [
+        "AI",
+        "Open Source"
+      ],
+      "hot_score": 0.67
+    },
+    {
+      "title_en": "Algorithmic rent-pricing litigation expands under new state and local laws",
+      "url": "https://www.morganlewis.com/pubs/2026/08/algorithmic-rent-pricing-litigation-expands-under-new-state-and-local-laws",
+      "title_zh": "算法化租金定价诉讼在新州和地方法律框架下扩展",
+      "created_display": "Created: Aug 29, 2026 / 19:25 PT",
+      "image_url": "https://www.morganlewis.com/-/media/images/tiles/real-estate/handing-keys-documents_1184286896_largetile.jpg?rev=12cd91a9b72547dd81ecc68d689bec39&hash=36CFAA69A1E47022E6606379E3D96C51",
+      "summary_en": "Legal analysis noting how algorithmic rent-pricing disputes are expanding under new state and local laws, affecting landlords, tenants, and tech providers. It covers risk areas, regulatory trends, and implications for property-tech startups.",
+      "summary_zh": "法律分析指出，随着新州和地方法规出台，算法定价租金的诉讼范围在扩大，影响房东、租客及相关技术提供商。讨论风险点、监管趋势及对物业科技创业公司的影响。",
+      "hn": {
+        "id": 49495127,
+        "type": "story",
+        "by": "toomuchtodo",
+        "score": 95,
+        "descendants": 66,
+        "time": 1788056732,
+        "comments_url": "https://news.ycombinator.com/item?id=49495127"
+      },
+      "tags": [
+        "Legal",
+        "Business",
+        "Politics"
+      ],
+      "hot_score": 0.64
+    },
+    {
+      "title_en": "Defrag98: Windows 98 Disk Defragmenter Simulator Online",
+      "url": "https://defrag98.com",
+      "title_zh": "Defrag98：在线的 Windows 98 磁盘碎片整理模拟器",
+      "created_display": "Created: Aug 29, 2026 / 15:51 PT",
+      "image_url": "https://defrag98.com/og.png",
+      "summary_en": "Defrag98 offers an online Windows 98 disk defragmenter simulator for nostalgia and learning. The tool helps users understand fragmentation concepts and OS internals without old hardware.",
+      "summary_zh": "Defrag98 提供一个在线的 Windows 98 磁盘碎片整理模拟器，便于怀旧与学习。该工具让用户在没有旧硬件的情况下理解碎片化概念与操作系统内部原理。",
+      "hn": {
+        "id": 49494036,
+        "type": "story",
+        "by": "throw0101a",
+        "score": 123,
+        "descendants": 69,
+        "time": 1788043877,
+        "comments_url": "https://news.ycombinator.com/item?id=49494036"
+      },
+      "hot_score": 0.58,
+      "tags": [
+        "Web",
+        "Education",
+        "Hardware"
+      ]
+    },
+    {
+      "title_en": "Benjamin Franklin’s alter egos gave him the most freedom",
+      "url": "https://www.smithsonianmag.com/history/among-all-great-things-benjamin-franklin-invented-discovered-alter-egos-gave-him-most-freedom-180988824/",
+      "title_zh": "本杰明·富兰克林的替身让他获得最大的自由",
+      "created_display": "Created: Aug 29, 2026 / 18:09 PT",
+      "image_url": "https://th-thumbnailer.cdn-si-edu.com/s3VfAO2IPf4YaadTHhqPGv3OSdA=/fit-in/1600x0/filters:focal(3510x2557:3511x2558)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/64/be/64befdea-c6ae-4172-a2e7-6ef3d902941f/benjamin_franklin_illustration.jpg",
+      "summary_en": "Historical profile showing how Franklin’s alter egos gave him greater freedom to publish, experiment, and communicate across social and political boundaries. The piece uses Franklin as a lens on persona as a tool for intellectual liberty.",
+      "summary_zh": "通过本杰明·富兰克林利用替身扩大自由的历史案例，揭示化名如何帮助他在社交与政治界限间自由地发表、尝试与传播思想。将化名视为获得知识自由的工具。",
+      "hn": {
+        "id": 49494751,
+        "type": "story",
+        "by": "cisc",
+        "score": 92,
+        "descendants": 53,
+        "time": 1788052155,
+        "comments_url": "https://news.ycombinator.com/item?id=49494751"
+      },
+      "tags": [
+        "Culture",
+        "Politics"
+      ],
+      "hot_score": 0.54
+    },
+    {
+      "title_en": "Calibrate Before You Accelerate: Bias Toward Action in a New Role",
+      "url": "https://tucker.wales/writing/bias-towards-action/",
+      "title_zh": "先校准再加速：在新岗位上培育行动导向",
+      "created_display": "Created: Aug 29, 2026 / 10:39 PT",
+      "image_url": "https://tucker.wales/static/media/og-default.jpg",
+      "summary_en": "Calibrate first: clarify expectations with your manager, map key stakeholders, and learn the domain before making big bets. Create a concrete 30-60-90 day plan, seek early feedback, and align success metrics with your team.",
+      "summary_zh": "先对新角色进行校准：与上级明确期望、梳理关键干系人，并在真正行动前熟悉领域。制定一个具体的 30-60-90 天计划，及早寻求反馈，并将成功指标与团队对齐。",
+      "hn": {
+        "id": 49491714,
+        "type": "story",
+        "by": "tuckerwales",
+        "score": 169,
+        "descendants": 71,
+        "time": 1788025158,
+        "comments_url": "https://news.ycombinator.com/item?id=49491714"
+      },
+      "tags": [
+        "Career"
+      ],
+      "hot_score": 0.52
+    },
+    {
+      "title_en": "Boot a Virtual iPhone via Apple's Virtualization.framework",
+      "url": "https://github.com/Lakr233/vphone-cli",
+      "title_zh": "通过苹果的 Virtualization.framework 启动虚拟 iPhone",
+      "created_display": "Created: Aug 28, 2026 / 16:02 PT",
+      "image_url": "https://opengraph.githubassets.com/508fe99a0bedc558ad833ae551b02827df0ab28579a99172a8aab47037e5b375/Lakr233/vphone-cli",
+      "summary_en": "A hobbyist demonstrates how to boot a virtual iPhone using Apple's Virtualization.framework, effectively running iOS as a VM on a host. The project shows the feasibility of isolating and testing iOS software without real hardware, unlocking new avenues for development, debugging, and security research. It remains experimental and depends on sensitive tooling and compliance considerations.",
+      "summary_zh": "开发者通过苹果的 Virtualization.framework 展示了如何引导一个虚拟 iPhone，在宿主机上运行 iOS 的虚拟机。该项目证明了在无实体设备的情况下测试和调试 iOS 的可行性，为开发、安全研究及隔离测试开辟新路径。此实现尚属实验性，且涉及工具与合规风险。",
+      "hn": {
+        "id": 49485267,
+        "type": "story",
+        "by": "hentrep",
+        "score": 404,
+        "descendants": 111,
+        "time": 1787958141,
+        "comments_url": "https://news.ycombinator.com/item?id=49485267"
+      },
+      "tags": [
+        "Programming",
+        "Security",
+        "Hardware"
+      ],
+      "hot_score": 0.46
+    },
+    {
+      "title_en": "Samsung's Processing-in-Memory (PIM)",
+      "url": "https://chipsandcheese.com/p/hot-chips-2026-samsungs-processing",
+      "title_zh": "三星的内存就近处理（PIM）技术",
+      "created_display": "Created: Aug 28, 2026 / 23:06 PT",
+      "image_url": "https://substackcdn.com/image/fetch/$s_!wrBL!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb38cdff5-a0de-4ff3-9084-3ea98bfeeccb_1903x1063.png",
+      "summary_en": "Samsung showcased its Processing-in-Memory (PIM) approach at Hot Chips 2026, aiming to move compute closer to DRAM to cut data movement. The prototypes emphasize near-memory accelerators and lightweight logic inside memory arrays, targeting AI and high-performance workloads with better throughput and energy efficiency.",
+      "summary_zh": "三星在 2026 年 Hot Chips 会议上展示了其内存就近处理（PIM）方案，意在把计算带到接近 DRAM 的位置以减少数据搬运。该方案在内存阵列中嵌入近存加速单元和简化逻辑，面向 AI 等工作负载提升吞吐与能效潜力。",
+      "hn": {
+        "id": 49487341,
+        "type": "story",
+        "by": "ingve",
+        "score": 273,
+        "descendants": 106,
+        "time": 1787983611,
+        "comments_url": "https://news.ycombinator.com/item?id=49487341"
+      },
+      "tags": [
+        "Hardware",
+        "AI",
+        "Energy"
+      ],
+      "hot_score": 0.42
+    },
+    {
+      "title_en": "Functional State Machines in Rust: Typestate and Newtype Patterns",
+      "url": "https://dl.acm.org/doi/10.1145/3830438.3830958",
+      "title_zh": "Rust中的函数式状态机：Typestate与Newtype模式",
+      "created_display": "Created: Aug 29, 2026 / 12:01 PT",
+      "image_url": null,
+      "summary_en": "Rust’s functional state machines article shows how typestate and newtype patterns can enforce transitions at compile time, preventing illegal state changes. By encoding state into types, you get safer, self-documenting code for protocol handling, parsers, and workflow engines.",
+      "summary_zh": "文章展示如何用 typestate 与 newtype 模式在 Rust 中实现编译期状态机，防止非法状态转移。通过将状态编码进类型，能为协议处理、解析器和工作流引擎带来更安全、可自文档化的实现。",
+      "hn": {
+        "id": 49492368,
+        "type": "story",
+        "by": "matt_d",
+        "score": 112,
+        "descendants": 42,
+        "time": 1788030069,
+        "comments_url": "https://news.ycombinator.com/item?id=49492368"
+      },
+      "tags": [
+        "Programming"
+      ],
+      "hot_score": 0.38
+    },
+    {
+      "title_en": "vLLM v0.28.0",
+      "url": "https://github.com/vllm-project/vllm/releases/tag/v0.28.0",
+      "title_zh": "vLLM v0.28.0 发布",
+      "created_display": "Created: Aug 29, 2026 / 11:22 PT",
+      "image_url": "https://opengraph.githubassets.com/4ebc6bdc52e9be13e062849c7d527d88f083515ccff086b45b804e1e708e9324/vllm-project/vllm/releases/tag/v0.28.0",
+      "summary_en": "vLLM 0.28.0 is released with performance and API improvements for efficient large-language-model inference. The update broadens access to on-device and server-side LLM deployment, with tooling enhancements.",
+      "summary_zh": "vLLM 0.28.0 发布，提升了大模型推理的性能与 API，改进后端部署与工具链，进一步扩大了本地和服务端部署的可用性。",
+      "hn": {
+        "id": 49492067,
+        "type": "story",
+        "by": "mrrrcs",
+        "score": 107,
+        "descendants": 37,
+        "time": 1788027720,
+        "comments_url": "https://news.ycombinator.com/item?id=49492067"
+      },
+      "hot_score": 0.35,
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "title_en": "Just the rumour of a bug is enough to find an exploit these days",
+      "url": "https://anil.recoil.org/notes/rumour-is-the-exploit",
+      "title_zh": "只凭传闻即可发现漏洞的时代",
+      "created_display": "Created: Aug 28, 2026 / 08:58 PT",
+      "image_url": "https://anil.recoil.org/images/vulncheck-2026.640.webp",
+      "summary_en": "Security researchers note that attackers can weaponize unverified bug rumors to craft exploits or pressure patch delays.",
+      "summary_zh": "攻击者利用未证实的漏洞传闻就能催生利用方法，或逼迫厂商拖延修补。文章强调传闻驱动的利用风险，呼吁更强的披露机制和快速、可验证的修复。",
+      "hn": {
+        "id": 49480466,
+        "type": "story",
+        "by": "avsm",
+        "score": 392,
+        "descendants": 125,
+        "time": 1787932726,
+        "comments_url": "https://news.ycombinator.com/item?id=49480466"
+      },
+      "tags": [
+        "Security"
+      ],
+      "hot_score": 0.34
+    },
+    {
+      "title_en": "I accidentally turned LLM memory into program analysis",
+      "url": "https://pwning.systems/posts/llm-memory-program-analysis/",
+      "title_zh": "我不小心把大语言模型记忆变成了程序分析工具",
+      "created_display": "Created: Aug 28, 2026 / 16:27 PT",
+      "image_url": "https://pwning.systems/og.png",
+      "summary_en": "A personal project reveals that persistent attention memory in large language models can be repurposed for static and dynamic program analysis tasks. By treating the model's remembered state as a proxy for program state, the author demonstrates new debugging workflows, memory-safe reasoning, and potential tooling shifts for developers.",
+      "summary_zh": "作者偶然发现把大语言模型的记忆用于程序分析成为可能，为静态与动态分析任务提供新思路。通过把模型记忆映射到程序状态，展示了新的调试流程、内存安全推理，以及对开发工具链潜在的影响。",
+      "hn": {
+        "id": 49485416,
+        "type": "story",
+        "by": "matt_d",
+        "score": 298,
+        "descendants": 80,
+        "time": 1787959665,
+        "comments_url": "https://news.ycombinator.com/item?id=49485416"
+      },
+      "tags": [
+        "AI",
+        "Programming"
+      ],
+      "hot_score": 0.34
+    },
+    {
+      "title_en": "Domain-Driven Agents",
+      "url": "https://coldtake.dev/blog/domain-driven-agents",
+      "title_zh": "领域驱动的智能体",
+      "created_display": "Created: Aug 29, 2026 / 12:28 PT",
+      "image_url": "https://coldtake.dev/_next/image?url=%2Fimages%2Fbrand-mark.png&w=96&q=75",
+      "summary_en": "Domain-Driven Agents blends domain-driven design with autonomous AI agents to align behavior with business models. The approach emphasizes constraining agents with domain concepts to improve reliability, governance, and explainability in complex workflows.",
+      "summary_zh": "把领域驱动设计的思路用于自律智能体，使代理的决策和行为受业务领域模型的约束。此方法旨在提高在复杂工作流中的可控性、可解释性和治理能力。",
+      "hn": {
+        "id": 49492584,
+        "type": "story",
+        "by": "AlarQ",
+        "score": 89,
+        "descendants": 20,
+        "time": 1788031708,
+        "comments_url": "https://news.ycombinator.com/item?id=49492584"
+      },
+      "tags": [
+        "AI",
+        "Design"
+      ],
+      "hot_score": 0.31
+    },
+    {
+      "title_en": "StemDeck, a free, open-source and local AI stem separator",
+      "url": "https://github.com/stemdeckapp/stemdeck",
+      "title_zh": "StemDeck：免费开源、在本地运行的 AI 音轨分离工具",
+      "created_display": "Created: Aug 28, 2026 / 18:24 PT",
+      "image_url": "https://opengraph.githubassets.com/1839311fb42ea21e73b9694eb330573b34204bd2811cad90f5432fb5d0d80e75/stemdeckapp/stemdeck",
+      "summary_en": "StemDeck offers free, open-source AI-driven audio stem separation that runs locally on your machine. By processing offline, it avoids cloud privacy concerns and can leverage your hardware for faster results, making it attractive for musicians and audio engineers exploring stem remixing.",
+      "summary_zh": "StemDeck 提供免费、开源的 AI 音轨分离工具，能够在本地计算机上离线运行。避免云端传输带来的隐私风险，并能充分利用本地硬件提升处理速度，成为音乐人和音频工程师进行分轨再混音的有力工具。",
+      "hn": {
+        "id": 49486081,
+        "type": "story",
+        "by": "thclpr",
+        "score": 233,
+        "descendants": 61,
+        "time": 1787966653,
+        "comments_url": "https://news.ycombinator.com/item?id=49486081"
+      },
+      "tags": [
+        "AI",
+        "Open Source",
+        "Privacy",
+        "Hardware"
+      ],
+      "hot_score": 0.29
+    },
+    {
+      "title_en": "You Know GDPR Is Good Based on Who Hates It",
+      "url": "https://matduggan.com/you-know-gdpr-is-good-based-on-who-hates-it/",
+      "title_zh": "从讨厌 GDPR 的人群看它的价值",
+      "created_display": "Created: Aug 29, 2026 / 02:19 PT",
+      "image_url": "https://matduggan.com/content/images/2026/08/image-3.png",
+      "summary_en": "The post argues GDPR’s value is underscored by who resists it—data-driven industries that benefit from lighter privacy rules. It frames privacy regulation as a public good that provokes significant pushback from adtech and surveillance interests.",
+      "summary_zh": "文章认为 GDPR 的价值通过反对者群体得到印证——数据驱动行业从宽松隐私规则中受益，因而对隐私监管存在强烈反对。隐私保护被视为公共利益，但广告科技与监控利益集团的反对凸显其重要性。",
+      "hn": {
+        "id": 49488282,
+        "type": "story",
+        "by": "latexr",
+        "score": 158,
+        "descendants": 172,
+        "time": 1787995162,
+        "comments_url": "https://news.ycombinator.com/item?id=49488282"
+      },
+      "hot_score": 0.29,
+      "tags": [
+        "Privacy",
+        "Politics"
+      ]
+    },
+    {
+      "title_en": "Quantifying Colour",
+      "url": "https://ekunazanu.foo/lab/quantifying-colour/",
+      "title_zh": "色彩量化",
+      "created_display": "Created: Aug 29, 2026 / 08:43 PT",
+      "image_url": "https://ekunazanu.foo/thumbnails/lab.colours.svg.png",
+      "summary_en": "Quantifying Colour explores metrics and methods to measure and compare colors—bridging perception, mathematics, and display technology. The piece delves into color spaces, differences, and practical implications for design and visualization.",
+      "summary_zh": "色彩量化探讨了衡量与比较颜色的度量与方法，连接了感知、数学与显示技术。文章深入讨论了色彩空间、色差以及对设计与可视化的实际影响。",
+      "hn": {
+        "id": 49490832,
+        "type": "story",
+        "by": "vismit2000",
+        "score": 101,
+        "descendants": 8,
+        "time": 1788018233,
+        "comments_url": "https://news.ycombinator.com/item?id=49490832"
+      },
+      "tags": [
+        "Design",
+        "Science"
+      ],
+      "hot_score": 0.27
+    },
+    {
+      "title_en": "TurboKV: Insanely fast Rust key-value store",
+      "url": "https://github.com/kingroryg/turbokv",
+      "title_zh": "TurboKV：极快的 Rust 键值存储",
+      "created_display": "Created: Aug 28, 2026 / 19:23 PT",
+      "image_url": "https://opengraph.githubassets.com/3a6a9c6ec1fa28e183e1b7c0ed0dcbb88d3a09e3cd63d2a64ccf0d9356f88bff/kingroryg/turbokv",
+      "summary_en": "TurboKV is a Rust-based key-value store touted for blazing speed, likely employing lock-free data structures and modern memory strategies. It targets high-throughput workloads for databases and caches, offering a practical signal of Rust's viability for storage engines.",
+      "summary_zh": "TurboKV 是基于 Rust 的高性能键值存储，主打极致速度，可能采用无锁设计和最新的内存管理策略。它面向数据库和缓存等高吞吐场景，提供了 Rust 驱动存储引擎的新参考。",
+      "hn": {
+        "id": 49486334,
+        "type": "story",
+        "by": "rgbimbochamp",
+        "score": 179,
+        "descendants": 85,
+        "time": 1787970217,
+        "comments_url": "https://news.ycombinator.com/item?id=49486334"
+      },
+      "tags": [
+        "Programming"
+      ],
+      "hot_score": 0.23
+    },
+    {
+      "title_en": "Stopping the smart TV from being used against you",
+      "url": "https://www.s-config.com/stopping-a-smart-tv-from-being-used-against-you/",
+      "title_zh": "阻止智能电视被用于对付你",
+      "created_display": "Created: Aug 28, 2026 / 13:27 PT",
+      "image_url": "https://www.s-config.com/core/wp-content/uploads/2026/08/EDID-Title.jpg",
+      "summary_en": "Smart TVs face ongoing privacy and security risks; the guide outlines practical hardening steps. It covers disabling data collection, restricting app permissions, and securing firmware updates, plus network segmentation to limit exposure.",
+      "summary_zh": "提供对智能电视进行安全加固的实用办法，降低隐私数据暴露与远程利用风险。内容包括关闭数据收集、限制应用权限、加强固件更新安全，以及在网络层进行隔离以减少暴露。",
+      "hn": {
+        "id": 49483816,
+        "type": "story",
+        "by": "speckx",
+        "score": 201,
+        "descendants": 158,
+        "time": 1787948877,
+        "comments_url": "https://news.ycombinator.com/item?id=49483816"
+      },
+      "tags": [
+        "Privacy",
+        "Security"
+      ],
+      "hot_score": 0.2
+    },
+    {
+      "title_en": "Chicken products recalled in five states due to “false marks of inspection”",
+      "url": "https://www.thehealthy.com/news/chicken-recall-fsis-august-2026/",
+      "title_zh": "五州鸡肉产品因检验标志虚假而召回",
+      "created_display": "Created: Aug 28, 2026 / 12:30 PT",
+      "image_url": "https://www.thehealthy.com/wp-content/uploads/2026/08/GettyImages-1349067636.jpg",
+      "summary_en": "Five states recall chicken products after inspectors found false marks of inspection, highlighting weaknesses in labeling and traceability. The incident underscores the potential value of digital verification and serialization to prevent counterfeit approvals in the food system.",
+      "summary_zh": "五州因检验标志虚假召回鸡肉产品，暴露食品标签与供应链合规的漏洞。事件凸显数字化校验、序列化和防伪验证在防止伪造检验结论中的作用。",
+      "hn": {
+        "id": 49483182,
+        "type": "story",
+        "by": "randycupertino",
+        "score": 198,
+        "descendants": 164,
+        "time": 1787945415,
+        "comments_url": "https://news.ycombinator.com/item?id=49483182"
+      },
+      "tags": [
+        "Health"
+      ],
+      "hot_score": 0.19
+    },
+    {
+      "title_en": "9th Circuit sides with states in Kalshi gambling fight",
+      "url": "https://azmirror.com/2026/08/28/9th-circuit-sides-with-states-in-kalshi-gambling-fight-potentially-reviving-arizonas-prosecution/",
+      "title_zh": "第九巡回法院支持各州在 Kalshi 赌博案中的立场",
+      "created_display": "Created: Aug 28, 2026 / 16:32 PT",
+      "image_url": "https://azmirror.com/wp-content/uploads/2026/08/kalshi-illus-njm-2048x1366.jpg",
+      "summary_en": "The Ninth Circuit sided with states in the Kalshi case, reinforcing that online event markets can fall under state gambling regulations and limiting federal exemptions. The ruling could revive prosecutions in jurisdictions like Arizona and signals that state authorities will continue to scrutinize automated wagering platforms. This matters for fintech startups navigating liability and regulatory risk in online betting.",
+      "summary_zh": "第九巡回法院在Kalshi案中支持各州的监管立场，强调在线事件市场可能受州赌博法规约束，并缩减联邦豁免。此举可能重新启动亚利桑那等地的起诉，显示各州监管对在线对赌平台的持续强力监督。对在美开展相关业务的金融科技公司而言，监管风险与合规成本将进一步上升。",
+      "hn": {
+        "id": 49485452,
+        "type": "story",
+        "by": "hungryhobbit",
+        "score": 169,
+        "descendants": 160,
+        "time": 1787959942,
+        "comments_url": "https://news.ycombinator.com/item?id=49485452"
+      },
+      "tags": [
+        "Legal",
+        "Finance",
+        "Politics"
+      ],
+      "hot_score": 0.19
+    },
+    {
+      "title_en": "EasyEffects can improve laptop speaker sound quality",
+      "url": "https://www.osnews.com/story/145883/easyeffects-should-be-part-of-every-linux-distribution-and-desktop-environment-to-massively-improve-laptop-speaker-sound-quality/",
+      "title_zh": "EasyEffects 能极大提升笔记本扬声器音质",
+      "created_display": "Created: Aug 28, 2026 / 08:23 PT",
+      "image_url": null,
+      "summary_en": "Linux audio tool EasyEffects can drastically improve built-in laptop speakers by enabling advanced DSP, EQ, and routing options. The piece argues it should be standard in distributions for better out-of-the-box sound.",
+      "summary_zh": "Linux 音频工具 EasyEffects 通过启用高级数字信号处理、均衡与音频路由等功能显著改善笔记本扬声器音质。文章建议在发行版中将其作为默认工具，以提升开箱即用的音效体验。",
+      "hn": {
+        "id": 49479924,
+        "type": "story",
+        "by": "birdculture",
+        "score": 218,
+        "descendants": 88,
+        "time": 1787930590,
+        "comments_url": "https://news.ycombinator.com/item?id=49479924"
+      },
+      "tags": [
+        "Programming"
+      ],
+      "hot_score": 0.18
+    },
+    {
+      "title_en": "Manifesto – who we are and what do we want (2002)",
+      "url": "https://www.inventati.org/who/manifesto",
+      "title_zh": "宣言——我们是谁、我们要什么（2002）",
+      "created_display": "Created: Aug 29, 2026 / 00:38 PT",
+      "image_url": "https://www.inventati.org/static/img/Rstar-32-transparent.png",
+      "summary_en": "A 2002 manifesto lays out who the group is and what it seeks to achieve, capturing early hacker-culture ideals. It remains a historical touchstone for digital rights and open culture debates.",
+      "summary_zh": "这是一份2002年的宣言，阐述了组织的身份与目标，体现早期黑客文化的理想。至今仍是数字权利与开放文化讨论的重要历史参照。",
+      "hn": {
+        "id": 49487786,
+        "type": "story",
+        "by": "wise_blood",
+        "score": 108,
+        "descendants": 58,
+        "time": 1787989111,
+        "comments_url": "https://news.ycombinator.com/item?id=49487786"
+      },
+      "hot_score": 0.18,
+      "tags": [
+        "Culture"
+      ]
+    },
+    {
+      "title_en": "Does the Sumerian King List Align with Paleoclimate Events?",
+      "url": "https://www.vectorian.be/articles/2026-06-07/sumerian-king-list-paleoclimate-alignment-explorer/",
+      "title_zh": "《苏美尔王表》是否与古气候事件吻合？",
+      "created_display": "Created: Aug 28, 2026 / 16:46 PT",
+      "image_url": "https://www.vectorian.be/static/img/content/articles/sumerian-king-list-paleoclimate-alignment-og-v2.png",
+      "summary_en": "The article analyzes whether the Sumerian King List's chronology aligns with known paleoclimate events, attempting to link mythic chronology with climate proxies. If correlations exist, they could illuminate how ancient societies responded to environmental stresses.",
+      "summary_zh": "文章分析《苏美尔王表》的时间线是否与已知的古气候事件吻合，尝试将神话年代与气候代理数据联系起来。若存在相关性，或能揭示古代社会如何应对环境压力。",
+      "hn": {
+        "id": 49485532,
+        "type": "story",
+        "by": "dev_l1x_be",
+        "score": 133,
+        "descendants": 80,
+        "time": 1787960770,
+        "comments_url": "https://news.ycombinator.com/item?id=49485532"
+      },
+      "hot_score": 0.15,
+      "tags": [
+        "Science"
+      ]
+    },
+    {
+      "title_en": "Corporate profits hit highest share since WWII, as worker payouts wilt",
+      "url": "https://www.ft.com/content/6f3ada65-c56c-499c-8eb6-008fac58949d",
+      "title_zh": "企业利润占比自二战以来最高，工人报酬下降",
+      "created_display": "Created: Aug 28, 2026 / 10:26 PT",
+      "image_url": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F8946030c-ef56-46f2-ac32-05fd2dadcddf.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
+      "summary_en": "Corporate profits as a share of GDP reach a postwar high while worker compensation lags, signaling widening inequality. The trend raises questions about how productivity gains are distributed and the social contract in modern capitalism.",
+      "summary_zh": "企业利润在国内生产总值中的占比达到二战以来的高位，而工人工资增速滞后，表明贫富差距在扩大。此趋势引发关于生产力增长分配与现代资本主义社会契约的讨论。",
+      "hn": {
+        "id": 49481783,
+        "type": "story",
+        "by": "marojejian",
+        "score": 137,
+        "descendants": 51,
+        "time": 1787938014,
+        "comments_url": "https://news.ycombinator.com/item?id=49481783"
+      },
+      "hot_score": 0.12,
+      "tags": [
+        "Business"
+      ]
+    },
+    {
+      "title_en": "Run Qwen3.8 27B locally: real numbers from my Mac Studio",
+      "url": "https://terminalbytes.com/run-qwen-3-8-27b-locally/",
+      "title_zh": "在本地运行 Qwen 3.8 27B：来自我的 Mac Studio 的真实性能数据",
+      "created_display": "Created: Aug 28, 2026 / 08:24 PT",
+      "image_url": "https://terminalbytes.com/run-qwen-3-8-27b-locally/index.png",
+      "summary_en": "The author demonstrates running Qwen 3.8 27B locally on a Mac Studio, sharing real-world benchmarks. This showcases the feasibility of on-device large-model inference for privacy and cost savings.",
+      "summary_zh": "作者在 Mac Studio 上本地运行 Qwen 3.8 27B，并给出真实基准数据，展示在本地对大模型进行推理在隐私与成本方面的潜力。",
+      "hn": {
+        "id": 49479951,
+        "type": "story",
+        "by": "speckx",
+        "score": 134,
+        "descendants": 99,
+        "time": 1787930684,
+        "comments_url": "https://news.ycombinator.com/item?id=49479951"
+      },
+      "hot_score": 0.11,
+      "tags": [
+        "AI",
+        "Privacy"
+      ]
+    },
+    {
+      "title_en": "Autonomous Mathematical Discovery in an Open-World Multi-Agent Environment",
+      "url": "https://arxiv.org/abs/2608.23691",
+      "title_zh": "开放世界多智能体环境中的自治式数学发现",
+      "created_display": "Created: Aug 28, 2026 / 10:01 PT",
+      "image_url": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+      "summary_en": "Researchers demonstrate autonomous mathematical discovery by agents in an open-world multi-agent environment. The work blends reinforcement learning with math exploration, hinting at future automated conjecture generation.",
+      "summary_zh": "研究人员在开放世界多智能体环境中展示代理的自治式数学发现，将强化学习与数学探索结合，暗示未来可能实现的自动化猜想生成。",
+      "hn": {
+        "id": 49481455,
+        "type": "story",
+        "by": "stephenchung",
+        "score": 118,
+        "descendants": 40,
+        "time": 1787936472,
+        "comments_url": "https://news.ycombinator.com/item?id=49481455"
+      },
+      "hot_score": 0.1,
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "title_en": "Police officer arrested after tracking ex-girlfriend on Flock over 2k times",
+      "url": "https://www.cnn.com/2026/08/26/us/flock-kentucky-police-officer-arrest",
+      "title_zh": "警察因在 Flock 上追踪前女友超过两千次而被逮捕",
+      "created_display": "Created: Aug 28, 2026 / 11:44 PT",
+      "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/c-gettyimages-2288946075.jpg?c=16x9&q=w_800,c_fill",
+      "summary_en": "A Kentucky police officer was arrested for tracking an ex-girlfriend over 2,000 times using the Flock app. The case underscores privacy and accountability concerns around location-based surveillance by law enforcement.",
+      "summary_zh": "一名肯塔基州警察因使用 Flock 应用追踪前女友超过两千次而被逮捕。这起事件凸显了执法机构对基于位置的监控工具的隐私与问责问题。",
+      "hn": {
+        "id": 49482734,
+        "type": "story",
+        "by": "cocacola1",
+        "score": 103,
+        "descendants": 28,
+        "time": 1787942665,
+        "comments_url": "https://news.ycombinator.com/item?id=49482734"
+      },
+      "hot_score": 0.1,
+      "tags": [
+        "Privacy",
+        "Legal"
+      ]
+    },
+    {
+      "title_en": "Flock CEO's Address Spread Online as Surveillance Backlash Explodes",
+      "url": "https://www.gadgetreview.com/flock-ceos-address-spread-online-as-surveillance-backlash-explodes",
+      "title_zh": "随着监控争议升级，Flock CEO 的讲话在网上广泛传播",
+      "created_display": "Created: Aug 28, 2026 / 12:15 PT",
+      "image_url": "https://www.gadgetreview.com/wp-content/uploads/Flock-CEOs-Address-Spread-Online-as-Surveillance-Backlash-Explodes-scaled.jpg",
+      "summary_en": "Amid a surge of privacy concerns, the Flock CEO's public address circulated online as critics push back against pervasive surveillance. The backlash underscores the tension between surveillance tech and user trust, inviting regulatory scrutiny.",
+      "summary_zh": "在隐私担忧激增的背景下，Flock 首席执行官的公开讲话在网上广泛传播，引发对广泛监控的强烈质疑。这场反弹凸显了监控技术与用户信任之间的紧张关系，或将引发监管审查。",
+      "hn": {
+        "id": 49483052,
+        "type": "story",
+        "by": "randycupertino",
+        "score": 102,
+        "descendants": 95,
+        "time": 1787944535,
+        "comments_url": "https://news.ycombinator.com/item?id=49483052"
+      },
+      "hot_score": 0.1,
+      "tags": [
+        "Privacy",
+        "Politics",
+        "Business"
+      ]
+    }
+  ]
+}

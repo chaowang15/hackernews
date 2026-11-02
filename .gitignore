@@ -1,0 +1,25 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual env
+.venv/
+venv/
+env/
+
+# macOS
+.DS_Store
+
+# PyCharm
+.idea/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Local Notion exports used as import sources
+notion_exports/
+
+# VS Code workspace file (machine-local, would otherwise be published by Jekyll)
+*.code-workspace
+

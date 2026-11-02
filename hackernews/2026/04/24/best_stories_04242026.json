@@ -1,0 +1,1174 @@
+{
+  "meta": {
+    "mode": "best",
+    "source": "https://news.ycombinator.com/",
+    "api": "https://github.com/HackerNews/API",
+    "count_requested": 50,
+    "count_written": 50,
+    "reused_same_day": 0,
+    "reused_cross_day": 27,
+    "new_llm_enriched": 8,
+    "scrape_time_display": "06:13, April 25, 2026 (PDT)",
+    "timezone": "America/Los_Angeles",
+    "date_dir": "2026/04/24",
+    "content_date": "2026-04-24",
+    "run_time_local": "06:13, April 25, 2026 (PDT)",
+    "run_time_utc": "2026-04-25 13:13:36 UTC",
+    "incremental": true,
+    "stories_max": 50,
+    "hot_score_time_utc": "2026-04-25 13:14:37 UTC"
+  },
+  "items": [
+    {
+      "title_en": "New 10 GbE USB adapters are cooler, smaller, cheaper",
+      "url": "https://www.jeffgeerling.com/blog/2026/new-10-gbe-usb-adapters-cooler-smaller-cheaper/",
+      "title_zh": "新款 10 GbE USB 适配器更酷更小更便宜",
+      "created_display": "Created: Apr 24, 2026 / 22:56 PT",
+      "image_url": "https://www.jeffgeerling.com/blog/2026/new-10-gbe-usb-adapters-cooler-smaller-cheaper/thunderbolt-and-usb-c-10g-ethernet-adapters.jpg",
+      "summary_en": "New 10GbE USB adapters bring more affordable, compact, and practical options for high-speed network expansion. They lower the barrier for homelabs, media servers, and USB-C powered devices to add fast Ethernet without PCIe NICs. Consider driver support and power draw when choosing a model.",
+      "summary_zh": "新款 10GbE USB 适配器体积更小、价格更低，降低了在家用实验室、媒体服务器等场景扩展高端网络的门槛。无需 PCIe NIC 就能实现千兆级别的以太网速率，适合搭配 USB-C 设备使用。选购时留意驱动支持和供电需求。",
+      "hn": {
+        "id": 47899053,
+        "type": "story",
+        "by": "calcifer",
+        "score": 297,
+        "descendants": 144,
+        "time": 1777096572,
+        "comments_url": "https://news.ycombinator.com/item?id=47899053"
+      },
+      "tags": [
+        "Hardware"
+      ],
+      "hot_score": 5.34
+    },
+    {
+      "title_en": "I cancelled Claude: Token issues, declining quality, and poor support",
+      "url": "https://nickyreinert.de/en/2026/2026-04-24-claude-critics/",
+      "title_zh": "我取消了 Claude：令牌问题、质量下降与支持不足",
+      "created_display": "Created: Apr 24, 2026 / 08:59 PT",
+      "image_url": "https://nickyreinert.de/en/2026/2026-04-24-claude-critics/image-4.png",
+      "summary_en": "The author cancels their Claude subscription after tokenization issues, deteriorating response quality, and poor support.",
+      "summary_zh": "作者因令牌/token 限制、输出质量下降以及糟糕的客服体验取消了 Claude 订阅。文章凸显了 AI 服务的可靠性对日常工作流程的实际影响，以及对替代方案的考量。",
+      "hn": {
+        "id": 47892019,
+        "type": "story",
+        "by": "y42",
+        "score": 897,
+        "descendants": 531,
+        "time": 1777046359,
+        "comments_url": "https://news.ycombinator.com/item?id=47892019"
+      },
+      "tags": [
+        "AI"
+      ],
+      "hot_score": 3.11
+    },
+    {
+      "title_en": "DeepSeek v4",
+      "url": "https://api-docs.deepseek.com/news/news260424",
+      "title_zh": "DeepSeek v4",
+      "created_display": "Created: Apr 23, 2026 / 20:01 PT",
+      "image_url": "https://api-docs.deepseek.com/img/docusaurus-social-card.jpg",
+      "summary_en": "DeepSeek v4 continues to push long-context capabilities, delivering more memory-efficient retrieval and scalable context processing for large language models. The update targets practical deployments that need to reason over very long documents without blowing through resources.",
+      "summary_zh": "DeepSeek v4 在长上下文能力上进一步提升，提供更高效的检索和可扩展的上下文处理，便于大模型在海量文档上进行推理而不耗费过多资源。此版本面向实际部署场景，改善长期上下文的可用性。",
+      "hn": {
+        "id": 47884971,
+        "type": "story",
+        "by": "impact_sy",
+        "score": 1968,
+        "descendants": 1505,
+        "time": 1776999681,
+        "comments_url": "https://news.ycombinator.com/item?id=47884971"
+      },
+      "tags": [
+        "AI"
+      ],
+      "hot_score": 3.07
+    },
+    {
+      "title_en": "Firefox Has Integrated Brave's Adblock Engine",
+      "url": "https://itsfoss.com/news/firefox-ships-brave-adblock-engine/",
+      "title_zh": "Firefox 已集成 Brave 的广告拦截引擎",
+      "created_display": "Created: Apr 24, 2026 / 18:47 PT",
+      "image_url": "https://itsfoss.com/content/images/2026/04/firefox-brave-adblock-rust-banner.png",
+      "summary_en": "Firefox now ships with Brave's ad-blocking engine, enabling more aggressive blocklists and better tracking protection by default. The move improves privacy and performance but raises questions about licensing and how this affects the broader adtech ecosystem.",
+      "summary_zh": "Firefox 现已内置 Brave 的广告拦截引擎，默认提供更强的拦截名单和更好的追踪保护。此举提升了隐私和性能，但也引发关于许可和对更广泛广告技术生态的影响的讨论。",
+      "hn": {
+        "id": 47897891,
+        "type": "story",
+        "by": "nreece",
+        "score": 299,
+        "descendants": 151,
+        "time": 1777081653,
+        "comments_url": "https://news.ycombinator.com/item?id=47897891"
+      },
+      "tags": [
+        "Privacy"
+      ],
+      "hot_score": 2.77
+    },
+    {
+      "title_en": "Google plans to invest up to $40B in Anthropic",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-24/google-plans-to-invest-up-to-40-billion-in-anthropic",
+      "title_zh": "谷歌拟向 Anthropic 投资最高400亿美元",
+      "created_display": "Created: Apr 24, 2026 / 09:04 PT",
+      "image_url": null,
+      "summary_en": "Google plans to invest up to $40B in Anthropic, signaling a deepening strategic partnership and potential equity stake. The move underscores Google's aggressive push in AI and could accelerate Anthropic's work while giving Google access to its models and IP.",
+      "summary_zh": "谷歌计划向 Anthropic 投资最高400亿美元，标志着双方关系进一步紧密，存在潜在股权安排。此举凸显谷歌在AI领域的扩张策略，可能推动 Anthropic 的研究进展，并让谷歌获得对方技术与知识产权的接入。",
+      "hn": {
+        "id": 47892074,
+        "type": "story",
+        "by": "elffjs",
+        "score": 650,
+        "descendants": 646,
+        "time": 1777046681,
+        "comments_url": "https://news.ycombinator.com/item?id=47892074"
+      },
+      "tags": [
+        "AI",
+        "Business"
+      ],
+      "hot_score": 2.27
+    },
+    {
+      "title_en": "Turbo Vision 2.0 – a modern port",
+      "url": "https://github.com/magiblot/tvision",
+      "title_zh": "Turbo Vision 2.0：现代移植",
+      "created_display": "Created: Apr 24, 2026 / 21:18 PT",
+      "image_url": "https://repository-images.githubusercontent.com/184303095/5badcd00-9313-11ea-8554-4d4949084174",
+      "summary_en": "Turbo Vision 2.0 is a modern port that keeps the classic terminal UI library alive with updated builds and cross-platform support. It enables lightweight, text-based interfaces for tools and utilities, appealing to retro enthusiasts and systems programmers. The project demonstrates how legacy tooling can evolve without abandoning its roots.",
+      "summary_zh": "Turbo Vision 2.0 是对经典终端 UI 库的现代移植，更新构建并扩展跨平台支持。它为轻量级工具提供文本界面，吸引复古爱好者和系统开发者。该项目显示出传统工具在不放弃根基的前提下也能持续进化。",
+      "hn": {
+        "id": 47898597,
+        "type": "story",
+        "by": "andsoitis",
+        "score": 159,
+        "descendants": 42,
+        "time": 1777090681,
+        "comments_url": "https://news.ycombinator.com/item?id=47898597"
+      },
+      "tags": [
+        "Programming",
+        "Open Source"
+      ],
+      "hot_score": 2.13
+    },
+    {
+      "title_en": "Replace IBM Quantum back end with /dev/urandom",
+      "url": "https://github.com/yuvadm/quantumslop/blob/25ad2e76ae58baa96f6219742459407db9dd17f5/URANDOM_DEMO.md",
+      "title_zh": "用 /dev/urandom 替换 IBM 量子后端",
+      "created_display": "Created: Apr 24, 2026 / 17:58 PT",
+      "image_url": "https://opengraph.githubassets.com/460e72a8670f397b24aa552afd8d5ead12b14319527c63118f05491147b74f8f/yuvadm/quantumslop",
+      "summary_en": "A playful demo replaces the IBM Quantum backend with /dev/urandom, showing that for some workflows, classical randomness can mimic quantum results well enough to test software. The exercise highlights the importance of trustworthy backends and clear expectations around quantum versus classical randomness.",
+      "summary_zh": "一个有趣的演示用 /dev/urandom 来替代 IBM 量子后端，表明在某些工作流中，经典随机性也能在测试阶段近似量子结果。此举强调信任的后端与区分量子与经典随机性的必要性。",
+      "hn": {
+        "id": 47897647,
+        "type": "story",
+        "by": "pigeons",
+        "score": 210,
+        "descendants": 30,
+        "time": 1777078718,
+        "comments_url": "https://news.ycombinator.com/item?id=47897647"
+      },
+      "tags": [
+        "Science",
+        "Web"
+      ],
+      "hot_score": 1.75
+    },
+    {
+      "title_en": "GPT-5.5",
+      "url": "https://openai.com/index/introducing-gpt-5-5/",
+      "title_zh": "GPT-5.5 发布",
+      "created_display": "Created: Apr 23, 2026 / 11:01 PT",
+      "image_url": null,
+      "summary_en": "OpenAI unveils GPT-5.5, the latest mid-cycle upgrade in the GPT-5 family. It emphasizes faster inference, safer defaults, and enhanced developer controls for production deployments, signaling another step in the rapid evolution of foundation models.",
+      "summary_zh": "OpenAI 发布了 GPT-5.5，作为 GPT-5 线的中期升级。新版本强调更快的推理与更安全的默认设置，并为开发者提供更丰富的部署控制，再次推动大型语言模型的迭代速度。",
+      "hn": {
+        "id": 47879092,
+        "type": "story",
+        "by": "rd",
+        "score": 1552,
+        "descendants": 1029,
+        "time": 1776967299,
+        "comments_url": "https://news.ycombinator.com/item?id=47879092"
+      },
+      "tags": [
+        "AI"
+      ],
+      "hot_score": 1.63
+    },
+    {
+      "title_en": "Sabotaging projects by overthinking, scope creep, and structural diffing",
+      "url": "https://kevinlynagh.com/newsletter/2026_04_overthinking/",
+      "title_zh": "过度思考、范围蠕变与结构性差异对项目的破坏",
+      "created_display": "Created: Apr 24, 2026 / 07:28 PT",
+      "image_url": "https://kevinlynagh.com/newsletter/2026_04_overthinking/shelf.jpg",
+      "summary_en": "Overthinking, scope creep, and frequent structural diffs create drag on projects, leading to delays and quality issues.",
+      "summary_zh": "本文分析过度思考、范围蠕变和频繁的结构性变动如何拖慢项目、造成延迟和质量下降。提供对策：明确范围、记录决策、保持稳定接口、采用小步迭代并快速获取反馈。",
+      "hn": {
+        "id": 47890799,
+        "type": "story",
+        "by": "alcazar",
+        "score": 464,
+        "descendants": 112,
+        "time": 1777040932,
+        "comments_url": "https://news.ycombinator.com/item?id=47890799"
+      },
+      "tags": [
+        "Career"
+      ],
+      "hot_score": 1.43
+    },
+    {
+      "title_en": "My audio interface has SSH enabled by default",
+      "url": "https://hhh.hn/rodecaster-duo-fw/",
+      "title_zh": "我的音频接口默认启用 SSH",
+      "created_display": "Created: Apr 24, 2026 / 12:30 PT",
+      "image_url": "https://hhh.hn/images/desk.JPG",
+      "summary_en": "Security researchers found that the audio interface ships with SSH enabled by default, exposing remote access on the same network. This kind of vendor-default service can create attack surfaces; users should disable SSH or update firmware.",
+      "summary_zh": "音频接口默认开启 SSH，若设备在同一网络中，攻击者可能取得远程访问权限。这类厂商默认开启的服务暴露了攻击面，用户应禁用 SSH 或尽快升级固件。",
+      "hn": {
+        "id": 47894747,
+        "type": "story",
+        "by": "hhh",
+        "score": 271,
+        "descendants": 83,
+        "time": 1777059046,
+        "comments_url": "https://news.ycombinator.com/item?id=47894747"
+      },
+      "tags": [
+        "Security"
+      ],
+      "hot_score": 1.26
+    },
+    {
+      "title_en": "Norway set to become latest country to ban social media for under 16s",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-24/norway-wants-kids-to-be-kids-with-social-media-ban-for-under-16s",
+      "title_zh": "挪威拟成为最新禁止16岁以下使用社交媒体的国家",
+      "created_display": "Created: Apr 24, 2026 / 07:45 PT",
+      "image_url": null,
+      "summary_en": "Norway is poised to ban social media access for anyone under 16, marking another move in youth-protection policy. The plan would push platforms to enforce age gates or restrict under-16 accounts, prompting questions about enforcement and online rights. If enacted, Norway could influence global debates on digital safety and teen privacy.",
+      "summary_zh": "挪威拟对16岁以下用户全面禁用社交媒体，成为持续加强青少年保护政策的一环。该举措将促使平台实施年龄限制或禁止未满16岁的账户，带来执行难点与个人使用权的讨论。若落地，或将影响全球关于数字安全与青少年隐私的讨论。",
+      "hn": {
+        "id": 47891019,
+        "type": "story",
+        "by": "1vuio0pswjnm7",
+        "score": 397,
+        "descendants": 456,
+        "time": 1777041910,
+        "comments_url": "https://news.ycombinator.com/item?id=47891019"
+      },
+      "hot_score": 1.25,
+      "tags": [
+        "Politics",
+        "Privacy"
+      ]
+    },
+    {
+      "title_en": "There Will Be a Scientific Theory of Deep Learning",
+      "url": "https://arxiv.org/abs/2604.21691",
+      "title_zh": "将来会有深度学习的科学理论",
+      "created_display": "Created: Apr 24, 2026 / 11:06 PT",
+      "image_url": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+      "summary_en": "A theoretical paper argues that deep learning will eventually be understood through a rigorous, testable theory that explains generalization and training dynamics. It outlines guiding principles and discusses how such a theory could steer future research and evaluation.",
+      "summary_zh": "一篇理论论文认为深度学习终将建立一套连贯、可检验的科学理论，解释泛化与训练动力学。文中提出若干原则，并讨论该理论如何引导未来研究与评估。",
+      "hn": {
+        "id": 47893779,
+        "type": "story",
+        "by": "jamie-simon",
+        "score": 280,
+        "descendants": 119,
+        "time": 1777053965,
+        "comments_url": "https://news.ycombinator.com/item?id=47893779"
+      },
+      "tags": [
+        "Science",
+        "AI"
+      ],
+      "hot_score": 1.15
+    },
+    {
+      "title_en": "The Classic American Diner",
+      "url": "https://blogs.loc.gov/picturethis/2026/04/the-classic-american-diner/",
+      "title_zh": "经典美式餐馆",
+      "created_display": "Created: Apr 24, 2026 / 12:01 PT",
+      "image_url": "https://blogs.loc.gov/picturethis/files/2026/04/service-pnp-mrg-00100-00102v.jpg",
+      "summary_en": "A Library of Congress piece examines the iconography and history of the classic American diner, from stainless interiors to neon signage, and its role in 20th-century American life.",
+      "summary_zh": "本文回顾经典美式餐馆的历史与标志性设计，如不锈钢内饰和霓虹招牌，以及它们在20世纪美国生活中的文化地位。",
+      "hn": {
+        "id": 47894435,
+        "type": "story",
+        "by": "NaOH",
+        "score": 241,
+        "descendants": 146,
+        "time": 1777057269,
+        "comments_url": "https://news.ycombinator.com/item?id=47894435"
+      },
+      "tags": [
+        "Culture",
+        "Politics"
+      ],
+      "hot_score": 1.07
+    },
+    {
+      "title_en": "OpenAI releases GPT-5.5 and GPT-5.5 Pro in the API",
+      "url": "https://developers.openai.com/api/docs/changelog",
+      "title_zh": "OpenAI 发布 GPT-5.5 与 GPT-5.5 Pro API",
+      "created_display": "Created: Apr 24, 2026 / 11:23 PT",
+      "image_url": "https://developers.openai.com/og/api/docs/changelog.png",
+      "summary_en": "OpenAI expands its API with GPT-5.5 and GPT-5.5 Pro, bringing improved capabilities and enterprise features to developers. The update promises better reasoning, safety controls, and more deployment options for applications.",
+      "summary_zh": "OpenAI 在 API 中引入 GPT-5.5 与 Pro 版本，带来更强的推理能力、更完善的安全控制以及更多部署选项，面向开发者。",
+      "hn": {
+        "id": 47894000,
+        "type": "story",
+        "by": "arabicalories",
+        "score": 249,
+        "descendants": 138,
+        "time": 1777055012,
+        "comments_url": "https://news.ycombinator.com/item?id=47894000"
+      },
+      "tags": [
+        "AI"
+      ],
+      "hot_score": 1.05
+    },
+    {
+      "title_en": "Google to invest up to $40B in Anthropic in cash and compute",
+      "url": "https://techcrunch.com/2026/04/24/google-to-invest-up-to-40b-in-anthropic-in-cash-and-compute/",
+      "title_zh": "谷歌将向 Anthropic 投资最多400亿美元，含现金与算力",
+      "created_display": "Created: Apr 24, 2026 / 13:00 PT",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2252871842.jpg?w=1024",
+      "summary_en": "Google plans to invest up to $40 billion in Anthropic, combining cash with compute credits. The move deepens a strategic AI partnership and could give Google earlier access to Anthropic’s models and tools, strengthening its cloud AI capabilities amid the race for next-gen AI.",
+      "summary_zh": "这笔交易加深了双方的战略合作，可能让谷歌更早获得Anthropic模型和工具的使用权，强化云端AI能力，推动对新一代AI的竞争格局。",
+      "hn": {
+        "id": 47895080,
+        "type": "story",
+        "by": "elpakal",
+        "score": 209,
+        "descendants": 7,
+        "time": 1777060830,
+        "comments_url": "https://news.ycombinator.com/item?id=47895080"
+      },
+      "hot_score": 1.02,
+      "tags": [
+        "AI",
+        "Business"
+      ]
+    },
+    {
+      "title_en": "Palantir employees are starting to wonder if they're the bad guys",
+      "url": "https://www.wired.com/story/palantir-employees-are-starting-to-wonder-if-theyre-the-bad-guys/",
+      "title_zh": "Palantir 员工开始质疑自己是否在做坏事",
+      "created_display": "Created: Apr 23, 2026 / 10:30 PT",
+      "image_url": "https://media.wired.com/photos/69d3c62396de4781bbc4cf6e/191:100/w_1280,c_limit/GettyImages-2268833968.jpg",
+      "summary_en": "Palantir employees are starting to question whether their work contributes to harmful surveillance and wrongdoing. As Palantir expands government-facing analytics, staff wrestle with ethical concerns about surveillance, data ethics, and public accountability.",
+      "summary_zh": "Palantir 员工在公司日益扩张的政府数据分析工作中，开始质疑这是否在助长监控与潜在的滥用。伦理、数据治理与公共问责成为内部讨论的焦点。",
+      "hn": {
+        "id": 47878633,
+        "type": "story",
+        "by": "pavel_lishin",
+        "score": 933,
+        "descendants": 694,
+        "time": 1776965405,
+        "comments_url": "https://news.ycombinator.com/item?id=47878633"
+      },
+      "tags": [
+        "Politics",
+        "Privacy",
+        "Data"
+      ],
+      "hot_score": 0.96
+    },
+    {
+      "title_en": "An update on recent Claude Code quality reports",
+      "url": "https://www.anthropic.com/engineering/april-23-postmortem",
+      "title_zh": "Claude Code 质量更新",
+      "created_display": "Created: Apr 23, 2026 / 10:48 PT",
+      "image_url": "https://cdn.sanity.io/images/4zrzovbb/website/3f522820d47355885631ebda60e5d1f3e5c0fbc2-2000x1050.heif",
+      "summary_en": "Anthropic provides an update on Claude Code quality, sharing metrics, fixes, and ongoing efforts after recent reports. The update highlights remaining challenges in code-generation reliability and the team's approach to testing and guardrails.",
+      "summary_zh": "Anthropic 发布 Claude Code 质量更新，披露关键指标、已完成的修复以及后续改进计划。报告强调代码生成的可靠性挑战仍在，并介绍团队加强测试和安全措施的措施。",
+      "hn": {
+        "id": 47878905,
+        "type": "story",
+        "by": "mfiguiere",
+        "score": 924,
+        "descendants": 710,
+        "time": 1776966518,
+        "comments_url": "https://news.ycombinator.com/item?id=47878905"
+      },
+      "tags": [
+        "AI"
+      ],
+      "hot_score": 0.96
+    },
+    {
+      "title_en": "SDL Now Supports DOS",
+      "url": "https://github.com/libsdl-org/SDL/pull/15377",
+      "title_zh": "SDL 现已支持 DOS 环境",
+      "created_display": "Created: Apr 24, 2026 / 09:20 PT",
+      "image_url": "https://opengraph.githubassets.com/130a8ef78cb07547e2b2b35f1d127906aa493471d2a583e2c0e4352eb2f1006e/libsdl-org/SDL/pull/15377",
+      "summary_en": "SDL now supports DOS environments, enabling legacy DOS apps to run with modern SDL features. This broadens cross-platform reach for retro games and tooling built on SDL, and could simplify porting older multimedia software.",
+      "summary_zh": "SDL 现已支持 DOS 环境，使基于 SDL 的旧 DOS 应用能够在现代系统上运行。此举拓展了向后兼容性，有助于复兴复古游戏和相关工具的移植与开发。",
+      "hn": {
+        "id": 47892291,
+        "type": "story",
+        "by": "Jayschwa",
+        "score": 264,
+        "descendants": 105,
+        "time": 1777047615,
+        "comments_url": "https://news.ycombinator.com/item?id=47892291"
+      },
+      "tags": [
+        "Programming"
+      ],
+      "hot_score": 0.94
+    },
+    {
+      "title_en": "Meta tells staff it will cut 10% of jobs",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-23/meta-tells-staff-it-will-cut-10-of-jobs-in-push-for-efficiency",
+      "title_zh": "Meta 将裁员 10%",
+      "created_display": "Created: Apr 23, 2026 / 11:55 PT",
+      "image_url": null,
+      "summary_en": "Meta told staff it will cut 10% of jobs, part of a broader efficiency push to rebalance costs as the company doubles down on AI initiatives. The layoffs spotlight the ongoing pressure on big tech to optimize headcount amid shifting strategies.",
+      "summary_zh": "Meta 通知员工将裁减约 10% 的岗位，旨在提升运营效率并在加码 AI 项目之际重新平衡成本。裁员凸显大型科技公司在战略调整期对人力资源进行优化的普遍压力。",
+      "hn": {
+        "id": 47879986,
+        "type": "story",
+        "by": "Vaslo",
+        "score": 790,
+        "descendants": 859,
+        "time": 1776970532,
+        "comments_url": "https://news.ycombinator.com/item?id=47879986"
+      },
+      "tags": [
+        "Business",
+        "AI"
+      ],
+      "hot_score": 0.86
+    },
+    {
+      "title_en": "How to be anti-social – a guide to incoherent and isolating social experiences",
+      "url": "https://nate.leaflet.pub/3mk4xkaxobc2p",
+      "title_zh": "如何成为反社会的人——关于不连贯且孤立社交体验的指南",
+      "created_display": "Created: Apr 24, 2026 / 03:48 PT",
+      "image_url": "https://leaflet.pub/lish/did%3Aplc%3Axbtmt2zjwlrfegqvch7fboei/3lxksvuhk3s2j/3mk4xkaxobc2p/opengraph-image?edc23816ae45539e",
+      "summary_en": "Explores how social dynamics can feel incoherent and isolating, offering observations about why some people retreat from conventional social routines. It isn't a how-to for harm; rather it frames the psychology of misaligned social signals and the tech culture around it.",
+      "summary_zh": "本文探讨为何某些人会在社交场合中感到错位与孤立，社会互动的信号错配让人难以建立联系。作者从科技工作者的视角分析常见社交模式与心理反应，强调并非倡导不社交，而是理解背后的原因。",
+      "hn": {
+        "id": 47888372,
+        "type": "story",
+        "by": "calcifer",
+        "score": 358,
+        "descendants": 320,
+        "time": 1777027694,
+        "comments_url": "https://news.ycombinator.com/item?id=47888372"
+      },
+      "tags": [
+        "Culture"
+      ],
+      "hot_score": 0.86
+    },
+    {
+      "title_en": "US special forces soldier arrested after allegedly winning $400k on Maduro raid",
+      "url": "https://www.cnn.com/2026/04/23/politics/us-special-forces-soldier-arrested-maduro-raid-trade",
+      "title_zh": "美军特种部队士兵因涉嫌在马杜罗突袭案中获利被逮捕",
+      "created_display": "Created: Apr 23, 2026 / 14:56 PT",
+      "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/2026-01-05t124551z-1320417056-rc20via4lz84-rtrmadp-3-usa-venezuela-maduro-new-york.jpg?c=16x9&q=w_800,c_fill",
+      "summary_en": "A US special forces soldier was arrested amid allegations of illicit gains linked to a Maduro raid, highlighting potential security and ethics concerns within covert operations. The case raises questions about governance, accountability, and the handling of sensitive operation proceeds.",
+      "summary_zh": "一名美军特种部队士兵因涉嫌在马杜罗突袭案中获得40万美元收益而被逮捕，暴露了隐秘行动中的治理与伦理问题。这起案件引发对透明度、问责制以及敏感行动收益处理的讨论。",
+      "hn": {
+        "id": 47882645,
+        "type": "story",
+        "by": "nkrisc",
+        "score": 668,
+        "descendants": 723,
+        "time": 1776981375,
+        "comments_url": "https://news.ycombinator.com/item?id=47882645"
+      },
+      "tags": [
+        "Security",
+        "Politics"
+      ],
+      "hot_score": 0.82
+    },
+    {
+      "title_en": "Bitwarden CLI compromised in ongoing Checkmarx supply chain campaign",
+      "url": "https://socket.dev/blog/bitwarden-cli-compromised",
+      "title_zh": "Bitwarden CLI 在持续的 Checkmarx 供应链攻击中被妥协",
+      "created_display": "Created: Apr 23, 2026 / 07:17 PT",
+      "image_url": "https://cdn.sanity.io/images/cgdhsj6q/production/65ef8dc5e66260e20fdf13cead82ebd41b705ee6-1018x666.png?w=1000&q=95&fit=max&auto=format",
+      "summary_en": "Bitwarden CLI was compromised as part of a broader supply chain campaign tied to Checkmarx, illustrating how attackers weaponize developer toolchains. The incident underscores the risk of compromised updates and the need for strict verification of CLI binaries, signatures, and release channels.",
+      "summary_zh": "Bitwarden CLI 据称在与 Checkmarx 相关的供应链活动中被篡改，暴露了开发工具链的脆弱性。此事件强调应对 CLI 更新进行签名验证、固定版本、并监控 CI/CD 流水线中的异常更新。",
+      "hn": {
+        "id": 47876043,
+        "type": "story",
+        "by": "tosh",
+        "score": 857,
+        "descendants": 416,
+        "time": 1776953828,
+        "comments_url": "https://news.ycombinator.com/item?id=47876043"
+      },
+      "tags": [
+        "Security"
+      ],
+      "hot_score": 0.78
+    },
+    {
+      "title_en": "Spinel: Ruby AOT Native Compiler",
+      "url": "https://github.com/matz/spinel",
+      "title_zh": "Spinel：Ruby 的 AOT 原生编译器",
+      "created_display": "Created: Apr 24, 2026 / 01:28 PT",
+      "image_url": "https://opengraph.githubassets.com/be51db131737334760a8eb50a4c32a5ebb7dc2c588316e18e1705d27d3925425/matz/spinel",
+      "summary_en": "Spinel is an ahead-of-time native compiler for Ruby, precompiling Ruby code into optimized machine code. The compiler promises faster startup times and lower memory usage, benefiting server apps, scripting tools, and embedded deployments. If it matures, Spinel could shift Ruby performance characteristics closer to statically compiled languages.",
+      "summary_zh": "Spinel 是 Ruby 的 AOT 原生编译器，将 Ruby 代码预编译为本地机器码。它有望提高启动速度并降低内存占用，受益于服务器应用、脚本工具和嵌入式部署。若发展成熟，Spinel 可能使 Ruby 的性能更接近静态编译语言。",
+      "hn": {
+        "id": 47887334,
+        "type": "story",
+        "by": "dluan",
+        "score": 334,
+        "descendants": 87,
+        "time": 1777019327,
+        "comments_url": "https://news.ycombinator.com/item?id=47887334"
+      },
+      "tags": [
+        "Programming",
+        "Open Source",
+        "Startups"
+      ],
+      "hot_score": 0.7
+    },
+    {
+      "title_en": "I'm done making desktop applications (2009)",
+      "url": "https://www.kalzumeus.com/2009/09/05/desktop-aps-versus-web-apps/",
+      "title_zh": "我不再做桌面应用（2009）",
+      "created_display": "Created: Apr 24, 2026 / 08:44 PT",
+      "image_url": "https://media.kalzumeus.com/blog-images/piracy-is-dying.png",
+      "summary_en": "In his 2009 essay, Patrick McKenzie argues that the era of desktop applications is fading in favor of web apps due to distribution, maintenance, and reach advantages. He outlines forces shaping software delivery and monetization.",
+      "summary_zh": "在 2009 年的博文中，作者认为桌面应用的时代正在消退，网页应用因更易分发、维护与覆盖玩家更广而成为主流。他分析了塑造软件交付与盈利模式的驱动因素。",
+      "hn": {
+        "id": 47891801,
+        "type": "story",
+        "by": "claxo",
+        "score": 185,
+        "descendants": 192,
+        "time": 1777045443,
+        "comments_url": "https://news.ycombinator.com/item?id=47891801"
+      },
+      "tags": [
+        "Programming"
+      ],
+      "hot_score": 0.63
+    },
+    {
+      "title_en": "Tariffs Raised Consumers' Prices, but the Refunds Go Only to Businesses",
+      "url": "https://www.nytimes.com/2026/04/24/us/politics/companies-consumers-tariff-refunds.html",
+      "title_zh": "关税提高了消费者价格，退税却主要发放给企业",
+      "created_display": "Created: Apr 24, 2026 / 10:11 PT",
+      "image_url": null,
+      "summary_en": "Tariffs raised the price of goods for consumers, but refunds appear to go mainly to businesses rather than individuals. The outcome highlights how policy levers can transfer costs away from consumers and prompts questions about who truly benefits from tariff relief and how to improve equity.",
+      "summary_zh": "关税抬高了消费者的购买成本，退税却主要发放给企业而非个人。此现象凸显贸易政策对普通消费者的实际影响及其公平性，引发对改进退税机制的讨论。",
+      "hn": {
+        "id": 47893060,
+        "type": "story",
+        "by": "duxup",
+        "score": 159,
+        "descendants": 58,
+        "time": 1777050684,
+        "comments_url": "https://news.ycombinator.com/item?id=47893060"
+      },
+      "hot_score": 0.6,
+      "tags": [
+        "Politics",
+        "Business",
+        "Programming"
+      ]
+    },
+    {
+      "title_en": "Ubuntu 26.04",
+      "url": "https://lwn.net/Articles/1069399/",
+      "title_zh": "Ubuntu 26.04 发布",
+      "created_display": "Created: Apr 23, 2026 / 21:38 PT",
+      "image_url": "https://static.lwn.net/images/logo/barepenguin-70.webp",
+      "summary_en": "Ubuntu 26.04 arrives as a long-term release with updated kernels and desktop components, plus enterprise-oriented improvements. It emphasizes stability, security, and hardware support, serving as a reliable base for both desktops and servers.",
+      "summary_zh": "Ubuntu 26.04 作为长期版本发布，带来内核与桌面组件的更新以及面向企业的改进。强调稳定性、安全性，并提升对新硬件的支持，适合作为桌面与服务器的长期基线。",
+      "hn": {
+        "id": 47885596,
+        "type": "story",
+        "by": "lxst",
+        "score": 319,
+        "descendants": 248,
+        "time": 1777005517,
+        "comments_url": "https://news.ycombinator.com/item?id=47885596"
+      },
+      "tags": [
+        "Open Source",
+        "Security",
+        "Hardware"
+      ],
+      "hot_score": 0.54
+    },
+    {
+      "title_en": "Refuse to let your doctor record you",
+      "url": "https://buttondown.com/maiht3k/archive/why-you-should-refuse-to-let-your-doctor-record/",
+      "title_zh": "拒绝让医生记录你的就诊信息",
+      "created_display": "Created: Apr 24, 2026 / 08:48 PT",
+      "image_url": "https://image-generator.buttondown.email/api/emphasize-subject?subject=Why%20you%20should%20refuse%20to%20let%20your%20doctor%20record%20you&author=Mystery%20AI%20Hype%20Theater%203000%3A%20The%20Newsletter&date=2026-04-22&img=https%3A//assets.buttondown.email/images/49aea655-fa69-4602-96ae-11418d32b490.png",
+      "summary_en": "This piece argues for patients to refuse let doctors record certain parts of their medical visits, citing privacy risks and potential misuse of recorded data. It offers practical steps for asserting control over one’s medical information, including consent choices and data retention limits.",
+      "summary_zh": "文章提出在就诊时应拒绝让医生对部分内容进行记录，以降低隐私风险与数据滥用的可能。作者给出实用的做法，帮助患者掌控自己的就医信息，包括明确同意、限制数据保留等措施。",
+      "hn": {
+        "id": 47891872,
+        "type": "story",
+        "by": "speckx",
+        "score": 158,
+        "descendants": 204,
+        "time": 1777045696,
+        "comments_url": "https://news.ycombinator.com/item?id=47891872"
+      },
+      "hot_score": 0.54,
+      "tags": [
+        "Privacy",
+        "Health"
+      ]
+    },
+    {
+      "title_en": "If America's so rich, how'd it get so sad?",
+      "url": "https://www.derekthompson.org/p/if-americas-so-rich-howd-it-get-so",
+      "title_zh": "美国这么富有，怎会变得如此悲伤？",
+      "created_display": "Created: Apr 23, 2026 / 09:05 PT",
+      "image_url": "https://substackcdn.com/image/fetch/$s_!gAKe!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F16200edd-4e29-4729-8d58-4eefbab120d8_1260x893.png",
+      "summary_en": "Derek Thompson argues that America's wealth hasn't translated into happiness due to inequality, social fragmentation, and policy choices; the piece connects economic growth with wellbeing and the impact of technology like AI.",
+      "summary_zh": "德里克·汤普森认为美国的繁荣并未带来相应的幸福感，原因在于不平等、社会分化和政策选择。文章探讨经济增长、社会福祉之间的错配，以及技术（包括 AI）对这种关系的影响。",
+      "hn": {
+        "id": 47877429,
+        "type": "story",
+        "by": "momentmaker",
+        "score": 546,
+        "descendants": 1056,
+        "time": 1776960330,
+        "comments_url": "https://news.ycombinator.com/item?id=47877429"
+      },
+      "tags": [
+        "Politics",
+        "Business",
+        "AI"
+      ],
+      "hot_score": 0.53
+    },
+    {
+      "title_en": "South Korea police arrest man for posting AI photo of runaway wolf",
+      "url": "https://www.bbc.com/news/articles/c4gx1n0dl9no",
+      "title_zh": "韩国警方因发布 AI 生成的逃逸狼照片逮捕男子",
+      "created_display": "Created: Apr 24, 2026 / 02:17 PT",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/4940/live/f8c31140-3fb5-11f1-b61b-1d0ccf7b6022.jpg",
+      "summary_en": "A man in South Korea was arrested after authorities say he posted an AI-generated image of a runaway wolf. The incident highlights the legal and safety risks of synthetic imagery, and how governments are responding to AI-created misinformation. It underscores why platform moderation and digital-literacy are increasingly important.",
+      "summary_zh": "韩国警方就一名男子发布AI生成的逃逸狼照片进行逮捕。这起事件凸显了合成图像带来的法律与公共安全风险，以及各国对AI生成内容的监管回应。也提醒人们提升数字素养并加强平台监管的重要性。",
+      "hn": {
+        "id": 47887683,
+        "type": "story",
+        "by": "giuliomagnifico",
+        "score": 231,
+        "descendants": 151,
+        "time": 1777022277,
+        "comments_url": "https://news.ycombinator.com/item?id=47887683"
+      },
+      "hot_score": 0.51,
+      "tags": [
+        "AI",
+        "Security",
+        "Legal"
+      ]
+    },
+    {
+      "title_en": "Hear your agent suffer through your code",
+      "url": "https://github.com/AndrewVos/endless-toil",
+      "title_zh": "让你的智能体在你的代码里痛苦地折腾",
+      "created_display": "Created: Apr 24, 2026 / 03:58 PT",
+      "image_url": "https://opengraph.githubassets.com/37ec4f89ae41abdd2a79ef2e139d1e8bfc4428a087543a12f64e18a789e3b664/AndrewVos/endless-toil",
+      "summary_en": "An experimental setup where an AI agent repeatedly runs and debugs code, exposing how brittle software and ambiguous interfaces force costly problem-framing. It underscores the need for reliable tooling, better error messages, and structured prompts to reduce toil when AI-assisted coding.",
+      "summary_zh": "这是一个让人工智能代理不断执行、调试代码的实验场景，揭示了脆弱代码和模糊接口会带来高成本的问题。文章强调需要更可靠的工具、清晰的错误信息，以及结构化的提示以降低 AI 辅助编码时的工作量。",
+      "hn": {
+        "id": 47888465,
+        "type": "story",
+        "by": "AndrewVos",
+        "score": 198,
+        "descendants": 86,
+        "time": 1777028325,
+        "comments_url": "https://news.ycombinator.com/item?id=47888465"
+      },
+      "tags": [
+        "Programming",
+        "AI"
+      ],
+      "hot_score": 0.48
+    },
+    {
+      "title_en": "Show HN: How LLMs Work – Interactive visual guide based on Karpathy's lecture",
+      "url": "https://ynarwal.github.io/how-llms-work/",
+      "title_zh": "Show HN：基于 Karpathy 演讲的互动式 LLM 工作原理可视化指南",
+      "created_display": "Created: Apr 23, 2026 / 23:48 PT",
+      "image_url": null,
+      "summary_en": "An interactive, visual walkthrough of how large language models operate, built around Karpathy's famous lecture. It demystifies core concepts like tokens, attention, prompts, and inference, making advanced AI theory accessible to developers and students.",
+      "summary_zh": "这是一个基于 Karpathy 演讲的互动式可视化指南，分步展示大型语言模型的工作原理。通过直观的令牌、注意力、提示与推理等要素，帮助开发者和学习者更好地理解模型运作。",
+      "hn": {
+        "id": 47886517,
+        "type": "story",
+        "by": "ynarwal__",
+        "score": 241,
+        "descendants": 55,
+        "time": 1777013333,
+        "comments_url": "https://news.ycombinator.com/item?id=47886517"
+      },
+      "hot_score": 0.46,
+      "tags": [
+        "Show HN",
+        "Education",
+        "AI"
+      ]
+    },
+    {
+      "title_en": "UK Biobank leak: Health details of 500k people offered for sale on Alibaba",
+      "url": "https://www.bmj.com/content/393/bmj.s781",
+      "title_zh": "UK Biobank 数据泄露：约50万名个人健康信息在阿里巴巴平台上架出售",
+      "created_display": "Created: Apr 24, 2026 / 04:09 PT",
+      "image_url": null,
+      "summary_en": "A leak of the UK Biobank dataset exposed health details for about 500,000 people and were offered for sale on Alibaba. The incident raises urgent questions about consent, data governance, and the risks of commodifying sensitive medical information. It underscores the need for stricter data controls and oversight in large biobank-like datasets.",
+      "summary_zh": "英国 Biobank 数据集约有50万人的健康信息被泄露并在阿里巴巴平台上架出售。事件暴露出同意、数据治理以及将敏感健康信息商品化的风险等问题，凸显加强大型生物样本库数据规范和监管的必要性。",
+      "hn": {
+        "id": 47888557,
+        "type": "story",
+        "by": "dberhane",
+        "score": 186,
+        "descendants": 81,
+        "time": 1777028976,
+        "comments_url": "https://news.ycombinator.com/item?id=47888557"
+      },
+      "hot_score": 0.46,
+      "tags": [
+        "Privacy",
+        "Data",
+        "Health"
+      ]
+    },
+    {
+      "title_en": "Why I Write (1946)",
+      "url": "https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/why-i-write/",
+      "title_zh": "我为何写作（1946）",
+      "created_display": "Created: Apr 23, 2026 / 19:26 PT",
+      "image_url": null,
+      "summary_en": "Orwell explains that writers are driven by four motives—ego, aesthetic pleasure, historical impulse, and political purpose—and argues that writing should aim to illuminate truth and resist tyranny. The piece remains a candid meditation on why serious writing matters in a world of rising propaganda.",
+      "summary_zh": "奥威尔在文中提出写作源于四种动机：自我、审美、历史冲动和政治目的，并主张写作应以揭示真相、抵制暴政为目标。此篇对在极权与宣传日益高涨的时代，写作为何仍然重要给出直率的思考。",
+      "hn": {
+        "id": 47884768,
+        "type": "story",
+        "by": "RyanShook",
+        "score": 284,
+        "descendants": 80,
+        "time": 1776997583,
+        "comments_url": "https://news.ycombinator.com/item?id=47884768"
+      },
+      "tags": [
+        "Politics",
+        "Culture"
+      ],
+      "hot_score": 0.43
+    },
+    {
+      "title_en": "Habitual coffee intake shapes the microbiome, modifies physiology and cognition",
+      "url": "https://www.nature.com/articles/s41467-026-71264-8",
+      "title_zh": "日常咖啡摄入改变微生物群、影响生理与认知",
+      "created_display": "Created: Apr 23, 2026 / 21:04 PT",
+      "image_url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41467-026-71264-8/MediaObjects/41467_2026_71264_Fig1_HTML.png",
+      "summary_en": "Habitual coffee intake reshapes the gut microbiome and alters physiological markers and cognitive function. The study links daily caffeine consumption to specific microbial shifts and metabolic changes, with potential implications for energy, mood, and brain health.",
+      "summary_zh": "规律性咖啡摄入会重塑肠道微生物群、改变生理指标并影响认知功能。研究将日常咖啡因摄入与特定微生物变化及代谢改变联系起来，可能对能量、情绪和大脑健康产生影响。",
+      "hn": {
+        "id": 47885377,
+        "type": "story",
+        "by": "scubakid",
+        "score": 261,
+        "descendants": 252,
+        "time": 1777003482,
+        "comments_url": "https://news.ycombinator.com/item?id=47885377"
+      },
+      "tags": [
+        "Science",
+        "Health",
+        "Energy"
+      ],
+      "hot_score": 0.43
+    },
+    {
+      "title_en": "French government agency confirms breach as hacker offers to sell data",
+      "url": "https://www.bleepingcomputer.com/news/security/french-govt-agency-confirms-breach-as-hacker-offers-to-sell-data/",
+      "title_zh": "法国政府机构遭遇数据泄露：黑客提出出售数据",
+      "created_display": "Created: Apr 23, 2026 / 08:59 PT",
+      "image_url": "https://www.bleepstatic.com/content/hl-images/2026/04/21/Titres.jpg",
+      "summary_en": "A French government agency confirms a data breach; a hacker is publicly offering to sell the stolen data. The incident highlights the risk to sensitive citizen data and the ongoing commodification of breached information.",
+      "summary_zh": "法国政府机构确认遭遇数据泄露，攻击者公开提出出售被盗数据。事件暴露了对公民敏感信息的风险，同时凸显被盗数据买卖的普遍性及持续威胁。",
+      "hn": {
+        "id": 47877366,
+        "type": "story",
+        "by": "robtherobber",
+        "score": 404,
+        "descendants": 145,
+        "time": 1776959995,
+        "comments_url": "https://news.ycombinator.com/item?id=47877366"
+      },
+      "tags": [
+        "Security",
+        "Data",
+        "Privacy",
+        "Politics"
+      ],
+      "hot_score": 0.39
+    },
+    {
+      "title_en": "Show HN: Tolaria – Open-source macOS app to manage Markdown knowledge bases",
+      "url": "https://github.com/refactoringhq/tolaria",
+      "title_zh": "Tolaria：用于管理 Markdown 知识库的开源 macOS 应用",
+      "created_display": "Created: Apr 23, 2026 / 15:01 PT",
+      "image_url": "https://opengraph.githubassets.com/ec96e31f399a44083038d5fe932890fd0783ef728a7e9016e1be2131e0b19572/refactoringhq/tolaria",
+      "summary_en": "Tolaria is an open-source macOS app for managing Markdown knowledge bases. It offers local-first storage, markdown editing, and linking between notes to create a searchable knowledge graph. For researchers and developers who want offline, portable knowledge management, it's a compelling option.",
+      "summary_zh": "Tolaria 是一个开源的 macOS 应用，用来管理 Markdown 知识库。它支持本地存储、Markdown 编辑，以及笔记之间的连结，方便构建可搜索的知识体系。对需要离线、可移植笔记管理的开发者和研究者很有吸引力。",
+      "hn": {
+        "id": 47882697,
+        "type": "story",
+        "by": "lucaronin",
+        "score": 292,
+        "descendants": 132,
+        "time": 1776981719,
+        "comments_url": "https://news.ycombinator.com/item?id=47882697"
+      },
+      "tags": [
+        "Show HN",
+        "Open Source"
+      ],
+      "hot_score": 0.36
+    },
+    {
+      "title_en": "U.S. soldier charged with using classified info to profit from prediction market",
+      "url": "https://www.justice.gov/usao-sdny/pr/us-soldier-charged-using-classified-information-profit-prediction-market-bets?bm-verify=AAQAAAAN_____y6To7sZYZ502biZwIHXlr-7zXZUqV4H0xLTfW__wDA3SjNLqifXRaQwsikyuz6IJknyuL8xfVYRkesxcDk5V10m-HoXl2K93f17rygBphL77WVFoQ_XvlmUo922IwM_DQ66137X6wWMtpdHslcEjpJG7KbBmUw9Su4kDENpDt_yv2spThQZehgv-X1Adk5U2VHfp41co2s_QJGjRj4y0KmL1mhSCyVaE7MC1LHG0mtP-xYmD0xBOQwn6PlHkPiP5Nt46h5ZIjLGXgCZDEVD42i7rIEM379DKLPUPX0PDNmOAwFSuTqcTDVnT_UUV8vxpHLRMb7rUxPxKUPcIB23iZTRJddWDDtPHMXadpwv67xr-f1sKDLZT9NgHCO4iuC2EthmAt0",
+      "title_zh": "美军士兵被控利用机密信息在预测市场获利",
+      "created_display": "Created: Apr 23, 2026 / 15:37 PT",
+      "image_url": "https://www.justice.gov/themes/custom/usdoj_uswds/images/metatag-image--press-release.png",
+      "summary_en": "A U.S. soldier has been charged with using classified information to profit from prediction-market bets. The case illustrates how insider access to sensitive data can spill into civilian markets and tests the enforcement of ethics rules for service members. If convicted, it could tighten scrutiny on handling classified material in and out of government channels.",
+      "summary_zh": "一名美国士兵被控利用机密信息在预测市场下注获利。此案凸显对敏感信息的内部访问可能扩展至民间市场，并检验对军人遵守伦理规定的执法力度。若被定罪，可能促使对处理机密材料的监管进一步收紧。",
+      "hn": {
+        "id": 47883108,
+        "type": "story",
+        "by": "paulpauper",
+        "score": 250,
+        "descendants": 2,
+        "time": 1776983821,
+        "comments_url": "https://news.ycombinator.com/item?id=47883108"
+      },
+      "tags": [
+        "Legal",
+        "Security",
+        "Politics",
+        "Business"
+      ],
+      "hot_score": 0.32
+    },
+    {
+      "title_en": "Using the internet like it's 1999",
+      "url": "https://joshblais.com/blog/using-the-internet-like-its-1999/",
+      "title_zh": "像在1999年一样上网",
+      "created_display": "Created: Apr 23, 2026 / 13:14 PT",
+      "image_url": "https://joshblais.com/og-images/netscape.jpeg",
+      "summary_en": "A look at surfacing the web with retro, dial-up aesthetics and minimal modern features, challenging today’s feature-heavy UX.",
+      "summary_zh": "以1999年的互联网方式上网，回归简约、低带宽体验，挑战当下功能繁多的用户体验。文章讨论简化界面、离线优先与低广告干扰的体验对性能、隐私与可访问性的影响。",
+      "hn": {
+        "id": 47881198,
+        "type": "story",
+        "by": "joshuablais",
+        "score": 245,
+        "descendants": 185,
+        "time": 1776975269,
+        "comments_url": "https://news.ycombinator.com/item?id=47881198"
+      },
+      "tags": [
+        "Web",
+        "Design"
+      ],
+      "hot_score": 0.28
+    },
+    {
+      "title_en": "MeshCore development team splits over trademark dispute and AI-generated code",
+      "url": "https://blog.meshcore.io/2026/04/23/the-split",
+      "title_zh": "MeshCore 开发团队因商标纠纷与 AI 生成代码分裂",
+      "created_display": "Created: Apr 23, 2026 / 09:55 PT",
+      "image_url": "https://blog.meshcore.io/assets/images/icon.png",
+      "summary_en": "MeshCore's dev team splits amid a trademark dispute and debates over AI-generated code, highlighting tensions between IP ownership and the governance of machine-generated outputs. This quarrel signals how legal questions around branding and code provenance can reshape internal teams and project direction.",
+      "summary_zh": "MeshCore 的开发团队因商标争议与对 AI 生成代码的治理分歧而分裂，反映出知识产权归属与机器生成内容管理之间的紧张关系。此事或将影响团队组织与项目走向，揭示企业需要尽早就品牌与代码来源达成共识。",
+      "hn": {
+        "id": 47878117,
+        "type": "story",
+        "by": "wielebny",
+        "score": 275,
+        "descendants": 175,
+        "time": 1776963313,
+        "comments_url": "https://news.ycombinator.com/item?id=47878117"
+      },
+      "tags": [
+        "AI",
+        "Legal"
+      ],
+      "hot_score": 0.27
+    },
+    {
+      "title_en": "Incident with multple GitHub services",
+      "url": "https://www.githubstatus.com/incidents/myrbk7jvvs6p",
+      "title_zh": "GitHub 多项服务故障事件",
+      "created_display": "Created: Apr 23, 2026 / 09:21 PT",
+      "image_url": "https://dka575ofm4ao0.cloudfront.net/pages-twitter_logos/original/36420/GitHub-Mark-120px-plus.png",
+      "summary_en": "GitHub reports an incident affecting multiple services, impacting developers' workflows. The incident underscores the fragility of cloud‑hosted DevOps tools and the importance of robust incident response and contingency planning.",
+      "summary_zh": "GitHub 因多项服务出现故障，影响开发者工作流。这起事件凸显云端开发工具的脆弱性以及健全的应急响应和备份计划的重要性。",
+      "hn": {
+        "id": 47877644,
+        "type": "story",
+        "by": "bwannasek",
+        "score": 267,
+        "descendants": 130,
+        "time": 1776961315,
+        "comments_url": "https://news.ycombinator.com/item?id=47877644"
+      },
+      "tags": [
+        "DevOps",
+        "Programming"
+      ],
+      "hot_score": 0.26
+    },
+    {
+      "title_en": "'Hairdryer used to trick weather sensor' to win Polymarket bet",
+      "url": "https://www.telegraph.co.uk/business/2026/04/23/hairdryer-used-trick-weather-sensor-34000-polymarket-bet/",
+      "title_zh": "用吹风机欺骗天气传感器以赢取 Polymarket 赌注",
+      "created_display": "Created: Apr 23, 2026 / 10:01 PT",
+      "image_url": "https://www.telegraph.co.uk/content/dam/briefs/2026/04/23/TELEMMGLPICT000449701987_17769343097120_trans_NvBQzQNjv4BqqVzuuqpFlyLIwiB6NTmJwSX5rhseiWKOo9p9OQ-ymek.jpeg?impolicy=OG-Standard",
+      "summary_en": "A hairdryer was used to trick a weather sensor to win a Polymarket bet, illustrating how simple physical tampering can influence data-driven markets. The incident exposes vulnerabilities in sensor-based predictions and underscores the need for tamper-evident validation and robust data sources. It serves as a warning for operators of decentralized betting platforms to vet input data more rigorously.",
+      "summary_zh": "有人用吹风机欺骗天气传感器以在 Polymarket 赌注中获胜，说明简单的物理篡改也能影响数据驱动的市场。事件暴露了基于传感器的预测脆弱性，强调需要具备防篡改的校验与可靠的数据源。对去中心化博彩平台的运营者来说，这是一个更严格审查输入数据的警示。",
+      "hn": {
+        "id": 47878208,
+        "type": "story",
+        "by": "zdw",
+        "score": 260,
+        "descendants": 248,
+        "time": 1776963661,
+        "comments_url": "https://news.ycombinator.com/item?id=47878208"
+      },
+      "tags": [
+        "Security",
+        "Data"
+      ],
+      "hot_score": 0.26
+    },
+    {
+      "title_en": "DeepSeek-V4: Towards Highly Efficient Million-Token Context Intelligence",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro",
+      "title_zh": "DeepSeek-V4：迈向高效百万令牌上下文智能",
+      "created_display": "Created: Apr 23, 2026 / 20:07 PT",
+      "image_url": "https://cdn-thumbnails.huggingface.co/social-thumbnails/models/deepseek-ai/DeepSeek-V4-Pro.png",
+      "summary_en": "DeepSeek-V4 demonstrates an approach to highly efficient million-token context intelligence, enabling long-context reasoning at scale. By optimizing memory usage and retrieval, it supports richer document understanding and long-horizon dialogue. This advancement could empower enterprise search, AI assistants, and research tools that must reference extensive histories.",
+      "summary_zh": "DeepSeek-V4 展示了在百万级上下文下实现高效推理的思路，通过优化内存和检索能力，支持对大规模文档的理解与长时对话。此进展可能推动企业检索、AI 助手和需要大量历史信息参考的研究工具的发展。",
+      "hn": {
+        "id": 47885014,
+        "type": "story",
+        "by": "cmrdporcupine",
+        "score": 158,
+        "descendants": 19,
+        "time": 1777000074,
+        "comments_url": "https://news.ycombinator.com/item?id=47885014"
+      },
+      "tags": [
+        "AI"
+      ],
+      "hot_score": 0.25
+    },
+    {
+      "title_en": "Girl, 10, finds rare Mexican axolotl under Welsh bridge",
+      "url": "https://www.bbc.com/news/articles/c9d4zgnqpqeo",
+      "title_zh": "10岁女孩在威尔士的一座桥下发现罕见的墨西哥钝口螈",
+      "created_display": "Created: Apr 23, 2026 / 12:09 PT",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/bb4f/live/4211fe40-3f13-11f1-9aab-c976736c58b1.jpg",
+      "summary_en": "A 10-year-old girl in Wales found a rare Mexican axolotl under a bridge, a remarkable sighting outside its native range. The story spotlights conservation and citizen science dynamics when unusual species show up in unexpected places. It also underscores how outreach and curiosity connect people to wildlife.",
+      "summary_zh": "威尔士一名10岁女孩在一座桥下发现罕见的墨西哥钝口螈，这一发现颇为罕见且引人注目。此事凸显了在非原产地也会出现独特物种的保护与公民科学的互动，同时也体现了公众对野生动物的关注与好奇心。",
+      "hn": {
+        "id": 47880189,
+        "type": "story",
+        "by": "codezero",
+        "score": 224,
+        "descendants": 208,
+        "time": 1776971380,
+        "comments_url": "https://news.ycombinator.com/item?id=47880189"
+      },
+      "tags": [
+        "Science"
+      ],
+      "hot_score": 0.24
+    },
+    {
+      "title_en": "TorchTPU: Running PyTorch Natively on TPUs at Google Scale",
+      "url": "https://developers.googleblog.com/torchtpu-running-pytorch-natively-on-tpus-at-google-scale/",
+      "title_zh": "TorchTPU：在 Google 规模的 TPUs 上原生运行 PyTorch",
+      "created_display": "Created: Apr 23, 2026 / 13:53 PT",
+      "image_url": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/Meta-A.2e16d0ba.fill-1200x600.png",
+      "summary_en": "TorchTPU enables PyTorch to run natively on Google-scale TPUs, bringing PyTorch’s dynamic features to TPU hardware. This unlocks large-scale training with the ease of PyTorch APIs while leveraging the efficiency of TPUs in cloud environments.",
+      "summary_zh": "TorchTPU 让 PyTorch 能在 Google 规模的 TPU 上原生运行，将 PyTorch 的动态图特性带到 TPU 硬件。借助云端 TPU 的高效，开发者可以在大规模训练中继续使用 PyTorch APIs。",
+      "hn": {
+        "id": 47881786,
+        "type": "story",
+        "by": "mji",
+        "score": 197,
+        "descendants": 18,
+        "time": 1776977607,
+        "comments_url": "https://news.ycombinator.com/item?id=47881786"
+      },
+      "tags": [
+        "AI",
+        "Hardware",
+        "Programming"
+      ],
+      "hot_score": 0.23
+    },
+    {
+      "title_en": "Raylib v6.0",
+      "url": "https://github.com/raysan5/raylib/releases/tag/6.0",
+      "title_zh": "Raylib 6.0 发布",
+      "created_display": "Created: Apr 23, 2026 / 05:16 PT",
+      "image_url": "https://opengraph.githubassets.com/0ced67c6358522b6db8a616b36e431bf8c9aa30cab10aeadbce505ac56079579/raysan5/raylib/releases/tag/6.0",
+      "summary_en": "Raylib 6.0 arrives as a major update to the lightweight game development library, offering API improvements, better portability, and streamlined tooling for cross-platform projects. The release makes it easier for indie developers and educators to build and teach with graphics and audio capabilities. It could accelerate rapid prototyping and learning in game development communities.",
+      "summary_zh": "Raylib 6.0 作为轻量级游戏开发库的重大更新，带来 API 改善、可移植性提升与跨平台工具链的简化。该版本让独立开发者与教育者更容易构建并教学，强化图形、音频等功能。预计将推动快速原型设计和游戏开发社区的学习进程。",
+      "hn": {
+        "id": 47874854,
+        "type": "story",
+        "by": "rydgel",
+        "score": 221,
+        "descendants": 40,
+        "time": 1776946576,
+        "comments_url": "https://news.ycombinator.com/item?id=47874854"
+      },
+      "tags": [
+        "Programming",
+        "Open Source"
+      ],
+      "hot_score": 0.19
+    },
+    {
+      "title_en": "To Protect and Swerve: NYPD Cop Has 547 Speeding Tickets",
+      "url": "https://nyc.streetsblog.org/2026/04/23/to-protect-and-swerve-nypd-cop-has-527-speeding-tickets-yet-remains-on-the-force",
+      "title_zh": "为保护与规避：NYPD 警员累积 547 张超速罚单",
+      "created_display": "Created: Apr 23, 2026 / 08:08 PT",
+      "image_url": "https://nyc.streetsblog.org/wp-content/uploads/sites/9/2026/04/GIOVANSANTI-Greg-Mango-with-filter2.jpg",
+      "summary_en": "A New York Police Department officer has racked up 547 speeding tickets while on duty, yet remains on the force. The case raises questions about accountability, supervisory oversight, and how fleet safety policies are enforced. It highlights tensions between public safety duties and personal driving behavior within law enforcement.",
+      "summary_zh": "一名纽约警察在在职期间累积了547张超速罚单，仍留任于警队。此事引发关于问责、监督以及车队安全规定执行的质疑，凸显执法部门在公共安全职责与个人驾驶行为之间的张力。",
+      "hn": {
+        "id": 47876647,
+        "type": "story",
+        "by": "greedo",
+        "score": 206,
+        "descendants": 145,
+        "time": 1776956934,
+        "comments_url": "https://news.ycombinator.com/item?id=47876647"
+      },
+      "tags": [
+        "Politics"
+      ],
+      "hot_score": 0.19
+    },
+    {
+      "title_en": "My phone replaced a brass plug",
+      "url": "https://drobinin.com/posts/my-phone-replaced-a-brass-plug/",
+      "title_zh": "我的手机取代了一枚黄铜塞",
+      "created_display": "Created: Apr 23, 2026 / 09:27 PT",
+      "image_url": "https://drobinin.com/assets/previews/my-phone-replaced-a-brass-plug.png",
+      "summary_en": "A personal tech anecdote about how a smartphone interrupted a hardware repair workflow by substituting for a brass plug, illustrating how modern devices increasingly blur between tools and components. The piece reflects on hardware minimalism, repair culture, and the limits of gadget-driven tinkering.",
+      "summary_zh": "一则个人科技趣闻，讲述智能手机在硬件维修中替代一枚黄铜塞的场景，显示现代设备让工具与部件的界线变得模糊。文章思考硬件极简、修理文化以及小工具时代的局限性。",
+      "hn": {
+        "id": 47877715,
+        "type": "story",
+        "by": "valzevul",
+        "score": 182,
+        "descendants": 57,
+        "time": 1776961627,
+        "comments_url": "https://news.ycombinator.com/item?id=47877715"
+      },
+      "tags": [
+        "Hardware",
+        "Culture"
+      ],
+      "hot_score": 0.18
+    },
+    {
+      "title_en": "UK Biobank health data keeps ending up on GitHub",
+      "url": "https://biobank.rocher.lc",
+      "title_zh": "UK Biobank 健康数据持续被上传至 GitHub",
+      "created_display": "Created: Apr 23, 2026 / 06:58 PT",
+      "image_url": "https://biobank.rocher.lc/og.png",
+      "summary_en": "Health data from the UK Biobank continues to appear on GitHub, raising concerns about data governance, privacy, and access controls in open repositories. The incident spotlights the tension between reproducible science and safeguarding sensitive health information. It also underscores the need for robust data-sharing policies and tooling.",
+      "summary_zh": "英国生物库的健康数据持续出现在 GitHub 上，引发对数据治理、隐私和开放仓库访问控制的担忧。此事凸显了可重复科学与保护敏感健康信息之间的矛盾，也提醒加强数据共享政策和工具的必要性。",
+      "hn": {
+        "id": 47875843,
+        "type": "story",
+        "by": "Cynddl",
+        "score": 195,
+        "descendants": 56,
+        "time": 1776952683,
+        "comments_url": "https://news.ycombinator.com/item?id=47875843"
+      },
+      "tags": [
+        "Privacy",
+        "Data",
+        "Programming",
+        "Health"
+      ],
+      "hot_score": 0.17
+    },
+    {
+      "title_en": "Astronomers find the edge of the Milky Way",
+      "url": "https://skyandtelescope.org/astronomy-news/astronomers-find-the-edge-of-the-milky-way/",
+      "title_zh": "天文学家发现银河系边缘",
+      "created_display": "Created: Apr 23, 2026 / 11:11 PT",
+      "image_url": null,
+      "summary_en": "Astronomers have traced the edge of the Milky Way, refining our understanding of the galaxy's size and structure. The finding informs models of mass distribution and the Milky Way’s interaction with its surroundings, with implications for dark matter estimates.",
+      "summary_zh": "天文学家确认了银河系的边界，进一步明确了银河的大小与结构。该发现有助于改进对质量分布的模型，以及银河与周边天体的相互作用，从而影响对暗物质分布的推断。",
+      "hn": {
+        "id": 47879239,
+        "type": "story",
+        "by": "bookofjoe",
+        "score": 153,
+        "descendants": 43,
+        "time": 1776967889,
+        "comments_url": "https://news.ycombinator.com/item?id=47879239"
+      },
+      "hot_score": 0.16,
+      "tags": [
+        "Space",
+        "Science"
+      ]
+    },
+    {
+      "title_en": "US Department of Justice has officially reclassified cannabis as less dangerous",
+      "url": "https://www.bbc.com/news/articles/cdxd0xxp0jko",
+      "title_zh": "美国司法部正式将大麻降级为风险较低",
+      "created_display": "Created: Apr 23, 2026 / 06:37 PT",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/ca67/live/348f0210-3e71-11f1-8f78-2b3776d2d1d0.jpg",
+      "summary_en": "The U.S. Department of Justice has officially reclassified cannabis as less dangerous, signaling a shift in federal stance on a substance long treated as high-risk. The move could affect research access, banking, and state-federal policy alignment, while inviting continued policy debates. Expect downstream changes in enforcement priorities and public health programs.",
+      "summary_zh": "美国司法部正式将大麻降级为风险较低，标志着联邦层面对该物质的态度发生转变。此举可能影响研究许可、银行业务以及州与联邦政策的协调，同时引发持续的政策辩论。未来在执法重点和公共卫生规划方面可能出现变化。",
+      "hn": {
+        "id": 47875629,
+        "type": "story",
+        "by": "kaycebasques",
+        "score": 161,
+        "descendants": 203,
+        "time": 1776951468,
+        "comments_url": "https://news.ycombinator.com/item?id=47875629"
+      },
+      "tags": [
+        "Politics",
+        "Legal",
+        "Health"
+      ],
+      "hot_score": 0.14
+    }
+  ]
+}

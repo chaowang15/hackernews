@@ -1,0 +1,1169 @@
+{
+  "meta": {
+    "mode": "best",
+    "source": "https://news.ycombinator.com/",
+    "api": "https://github.com/HackerNews/API",
+    "count_requested": 50,
+    "count_written": 50,
+    "reused_same_day": 0,
+    "reused_cross_day": 23,
+    "new_llm_enriched": 9,
+    "scrape_time_display": "08:36, May 21, 2026 (PDT)",
+    "timezone": "America/Los_Angeles",
+    "date_dir": "2026/05/20",
+    "content_date": "2026-05-20",
+    "run_time_local": "08:36, May 21, 2026 (PDT)",
+    "run_time_utc": "2026-05-21 15:36:57 UTC",
+    "incremental": true,
+    "stories_max": 50,
+    "hot_score_time_utc": "2026-05-21 15:38:07 UTC"
+  },
+  "items": [
+    {
+      "title_en": "AI is just unauthorised plagiarism at a bigger scale",
+      "url": "https://axelk.ee/ai-is-just-unauthorised-plagiarism-at-a-bigger-scale/",
+      "title_zh": "AI其实是在更大规模上未获授权的抄袭",
+      "created_display": "Created: May 21, 2026 / 06:38 PT",
+      "image_url": "https://axelk.ee/static/og-image.png",
+      "summary_en": "The piece argues that much AI-generated content is built on copyrighted material without permission, effectively amounting to unauthorised plagiarism at scale. It discusses implications for creators, licensing, and potential policy responses around training data rights and AI governance.",
+      "summary_zh": "文章主张，大多数AI生成内容建立在未获授权的受版权保护材料之上，构成更大规模的未经授权的抄袭。讨论了对创作者、数据许可与AI治理的潜在政策应对与权利问题。",
+      "hn": {
+        "id": 48222383,
+        "type": "story",
+        "by": "speckx",
+        "score": 437,
+        "descendants": 310,
+        "time": 1779370692,
+        "comments_url": "https://news.ycombinator.com/item?id=48222383"
+      },
+      "hot_score": 35.98,
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "title_en": "Shunning AI is the human choice",
+      "url": "https://www.thehandbasket.co/p/hating-ai-is-good-actually",
+      "title_zh": "拒绝AI是人类的选择",
+      "created_display": "Created: May 21, 2026 / 06:36 PT",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/12f64063-69e4-4540-8f25-5c0464768cdc/Screenshot_2026-05-20_at_4.36.54_PM.png?t=1779311494",
+      "summary_en": "An opinion piece argues that resisting AI is a legitimate human choice to protect autonomy, privacy, and accountability in a world of increasing automation. It questions techno-optimism and advocates a cautious, human-centered approach to technology adoption.",
+      "summary_zh": "文章主张在日益自动化的时代，拒绝AI是一种理性的选择，有助于维护自主权、隐私与问责。它质疑对AI的盲目乐观，倡导更谨慎的人本导向技术采用。",
+      "hn": {
+        "id": 48222366,
+        "type": "story",
+        "by": "cdrnsf",
+        "score": 276,
+        "descendants": 326,
+        "time": 1779370566,
+        "comments_url": "https://news.ycombinator.com/item?id=48222366"
+      },
+      "hot_score": 22.34,
+      "tags": [
+        "AI",
+        "Privacy"
+      ]
+    },
+    {
+      "title_en": "Flipper One – we need your help",
+      "url": "https://blog.flipper.net/flipper-one-we-need-your-help/",
+      "title_zh": "Flipper One——需要你的帮助",
+      "created_display": "Created: May 21, 2026 / 04:03 PT",
+      "image_url": "https://blog.flipper.net/content/images/size/w1200/2026/05/Flipper-One-we-need-your-help-main-v2.jpg",
+      "summary_en": "Flipper One team is calling on the community for support to finish the device, soliciting testers, feedback, and funding. The post outlines the roadmap and invites collaboration from hobbyists and developers, emphasizing a community-driven approach to hardware hacking.",
+      "summary_zh": "Flipper One 团队向社区求助，寻求测试、反馈和资金支持以推进设备开发。文章概述了路线图，欢迎爱好者和开发者共同参与，强调以社区驱动的硬件开发模式。",
+      "hn": {
+        "id": 48220647,
+        "type": "story",
+        "by": "sandebert",
+        "score": 555,
+        "descendants": 269,
+        "time": 1779361418,
+        "comments_url": "https://news.ycombinator.com/item?id=48220647"
+      },
+      "hot_score": 18.68,
+      "tags": [
+        "Hardware"
+      ]
+    },
+    {
+      "title_en": "We're testing new ad formats in Search and expanding our Direct Offers pilot",
+      "url": "https://blog.google/products/ads-commerce/google-marketing-live-search-ads/",
+      "title_zh": "我们正在测试搜索中的新广告格式，并扩大 Direct Offers 试点",
+      "created_display": "Created: May 21, 2026 / 02:49 PT",
+      "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GML_Search_social.width-1300.png",
+      "summary_en": "Google is testing new ad formats in Search and expanding its Direct Offers pilot to more advertisers. The initiative signals a stronger integration of promotional offers into search experiences, potentially shifting how advertisers drive conversions and how users interact with ads.",
+      "summary_zh": "谷歌正在搜索结果中试验新的广告格式，并扩大 Direct Offers 试点覆盖范围。此举推动在搜索体验中更直接地呈现促销信息，可能改变广告的转化方式与用户互动。",
+      "hn": {
+        "id": 48220105,
+        "type": "story",
+        "by": "sofumel",
+        "score": 411,
+        "descendants": 339,
+        "time": 1779356986,
+        "comments_url": "https://news.ycombinator.com/item?id=48220105"
+      },
+      "hot_score": 10.15,
+      "tags": [
+        "Business",
+        "Web"
+      ]
+    },
+    {
+      "title_en": "No Slop Grenade",
+      "url": "https://noslopgrenade.com/",
+      "title_zh": "No Slop Grenade",
+      "created_display": "Created: May 21, 2026 / 02:31 PT",
+      "image_url": "https://noslopgrenade.com/og-image.png",
+      "summary_en": "No Slop Grenade is a project or publication with very little publicly inferable context.",
+      "summary_zh": "No Slop Grenade 是一个公开信息非常有限的项目/出版物。",
+      "hn": {
+        "id": 48219992,
+        "type": "story",
+        "by": "napolux",
+        "score": 215,
+        "descendants": 129,
+        "time": 1779355875,
+        "comments_url": "https://news.ycombinator.com/item?id=48219992"
+      },
+      "hot_score": 4.94,
+      "tags": [
+        "Web"
+      ]
+    },
+    {
+      "title_en": "An OpenAI model has disproved a central conjecture in discrete geometry",
+      "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture/",
+      "title_zh": "OpenAI 模型推翻离散几何中的一个中心猜想",
+      "created_display": "Created: May 20, 2026 / 12:05 PT",
+      "image_url": "https://images.ctfassets.net/kftzwdyauwt9/6WJOhxvdNpC5hDvpiSAqE0/8a11ba6abdabb6a5a674de733cfa710d/SEO-Polynomial-Construction-16x9.png?w=1600&h=900&fit=fill",
+      "summary_en": "An OpenAI model challenges a long-standing assumption in discrete geometry by providing evidence against a central conjecture. The result signals AI-assisted math progress and could reshape how researchers tackle stubborn problems, blending machine intuition with theory.",
+      "summary_zh": "一项研究表明 OpenAI 的模型提出了对离散几何中一个核心猜想的反例证据。这一进展展示了 AI 辅助的数学探索潜力，可能改变研究者攻克顽固问题的思路。",
+      "hn": {
+        "id": 48212493,
+        "type": "story",
+        "by": "tedsanders",
+        "score": 1306,
+        "descendants": 950,
+        "time": 1779303930,
+        "comments_url": "https://news.ycombinator.com/item?id=48212493"
+      },
+      "tags": [
+        "AI",
+        "Science"
+      ],
+      "hot_score": 4.79
+    },
+    {
+      "title_en": "Vivaldi 8.0",
+      "url": "https://vivaldi.com/blog/vivaldi-on-desktop-8-0/",
+      "title_zh": "Vivaldi 8.0",
+      "created_display": "Created: May 21, 2026 / 00:21 PT",
+      "image_url": "https://vivaldi.com/wp-content/uploads/hero-8.0b.png",
+      "summary_en": "Vivaldi 8.0 is a major desktop release that doubles down on customization and efficiency. It brings UI tweaks, performance improvements, and expanded built-in tools to help power users tailor their browsing workflow.",
+      "summary_zh": "Vivaldi 8.0 是桌面端的一次重大发布，继续强化自定义和效率。此次更新带来界面细节的优化、性能提升，以及扩展的内置工具，面向希望定制化浏览工作流的高阶用户。",
+      "hn": {
+        "id": 48219060,
+        "type": "story",
+        "by": "OuterVale",
+        "score": 197,
+        "descendants": 129,
+        "time": 1779348115,
+        "comments_url": "https://news.ycombinator.com/item?id=48219060"
+      },
+      "tags": [
+        "Web",
+        "Design"
+      ],
+      "hot_score": 2.96
+    },
+    {
+      "title_en": "Google Declaring War on the Web",
+      "url": "https://tante.cc/2026/05/20/on-google-declaring-war-on-the-web/",
+      "title_zh": "谷歌向网络宣战",
+      "created_display": "Created: May 20, 2026 / 14:33 PT",
+      "image_url": "https://tante.cc/wp-content/uploads/2015/07/IMG_20150717_164206.jpg",
+      "summary_en": "Google is stepping up actions that critics argue threaten the open web as it expands AI-powered products and platform leverage. The moves could reshape how publishers monetize content, how developers build on the web, and who sets Internet standards.",
+      "summary_zh": "谷歌在扩展 AI 驱动的产品与平台影响力的同时，被批评者视为在削弱开放网络。此举可能重塑出版商的营收模式、开发者的网页构建方式，以及谁在制定互联网标准。",
+      "hn": {
+        "id": 48214449,
+        "type": "story",
+        "by": "cdrnsf",
+        "score": 570,
+        "descendants": 411,
+        "time": 1779312798,
+        "comments_url": "https://news.ycombinator.com/item?id=48214449"
+      },
+      "tags": [
+        "Web",
+        "Politics",
+        "AI"
+      ],
+      "hot_score": 2.57
+    },
+    {
+      "title_en": "Meta blocks human rights accounts from reaching audiences in Saudi Arabia, UAE",
+      "url": "https://www.alqst.org/ar/posts/1190",
+      "title_zh": "Meta 限制人权相关账号在沙特阿拉伯、阿联酋的传播",
+      "created_display": "Created: May 20, 2026 / 05:43 PT",
+      "image_url": "https://www.alqst.org/uploads/photos/shares/news/2026-05/6a0d7f2d38e34.jpeg",
+      "summary_en": "Meta's policy move limits human rights accounts' reach in Saudi Arabia and the UAE, reflecting the complex interplay between platform moderation, local laws, and geopolitical sensitivities. The decision raises questions about access to information and advocacy in restrictive markets.",
+      "summary_zh": "Meta 限制人权相关账号在沙特和阿联酋的传播范围，体现了平台治理、当地法规与地缘政治之间的错综关系。此举引发了对在限制性市场获取信息与倡导的讨论。",
+      "hn": {
+        "id": 48206768,
+        "type": "story",
+        "by": "giuliomagnifico",
+        "score": 1041,
+        "descendants": 446,
+        "time": 1779281021,
+        "comments_url": "https://news.ycombinator.com/item?id=48206768"
+      },
+      "tags": [
+        "Politics",
+        "Legal"
+      ],
+      "hot_score": 2.44
+    },
+    {
+      "title_en": "GitHub confirms breach of 3,800 repos via malicious VSCode extension",
+      "url": "https://www.bleepingcomputer.com/news/security/github-confirms-breach-of-3-800-repos-via-malicious-vscode-extension/",
+      "title_zh": "GitHub 技术泄露：通过恶意 VSCode 扩展窃取约 3,800 个仓库",
+      "created_display": "Created: May 20, 2026 / 06:43 PT",
+      "image_url": "https://www.bleepstatic.com/content/hl-images/2026/05/20/GitHub.jpg",
+      "summary_en": "GitHub confirms a breach where a malicious VSCode extension accessed about 3,800 repositories. The incident underscores the risk of developer tooling being weaponized in the software supply chain; it prompts re-review of extension integrity and credential hygiene.",
+      "summary_zh": "恶意 VSCode 扩展导致约 3,800 个仓库受影响。该事件凸显开发工具被滥用的供应链风险，敦促对扩展安全性和凭证管理进行加强审查。",
+      "hn": {
+        "id": 48207660,
+        "type": "story",
+        "by": "Timofeibu",
+        "score": 969,
+        "descendants": 413,
+        "time": 1779284617,
+        "comments_url": "https://news.ycombinator.com/item?id=48207660"
+      },
+      "tags": [
+        "Security",
+        "Programming"
+      ],
+      "hot_score": 2.42
+    },
+    {
+      "title_en": "Goodbye Visa and Mastercard: 130M Europeans switching to sovereign payment",
+      "url": "https://www.lesnumeriques.com/banque-en-ligne/adieu-visa-et-mastercard-130-millions-d-europeens-basculent-vers-un-paiement-100-souverain-des-2026-n250918.html",
+      "title_zh": "再见 Visa 与 Mastercard：1.3亿欧洲人转向主权支付",
+      "created_display": "Created: May 20, 2026 / 06:02 PT",
+      "image_url": "https://cdn.lesnumeriques.com/optim/news/25/250918/2079666a-adieu-visa-et-mastercard-130-millions-d-europeens-basculent-vers-un-paiement-100-souverain-des-2026__1200_678__0-192-4096-2342.jpg",
+      "summary_en": "Europe appears set to shift away from Visa and Mastercard toward a sovereign payments framework, with an estimated 130 million Europeans expected to adopt the new rails by 2026. The move signals a push for digital sovereignty and domestic payment infrastructure to reduce dependence on US-based networks, with implications for banks, fintechs, and merchants. It could redefine the balance of power in European payments.",
+      "summary_zh": "欧洲似乎将摆脱 Visa 与 Mastercard，转向主权支付体系，预计到2026年将有约1.3亿 Europeans 采用新支付通道。这一举措标志着对数字主权和本地支付基础设施的推进，旨在降低对美国网络的依赖，并可能改变银行、金融科技公司和商户在欧洲支付领域的格局。",
+      "hn": {
+        "id": 48207004,
+        "type": "story",
+        "by": "healsdata",
+        "score": 928,
+        "descendants": 747,
+        "time": 1779282150,
+        "comments_url": "https://news.ycombinator.com/item?id=48207004"
+      },
+      "tags": [
+        "Finance",
+        "Business",
+        "DevOps"
+      ],
+      "hot_score": 2.22
+    },
+    {
+      "title_en": "Show HN: I reverse engineered Apple's video wallpapers",
+      "url": "https://github.com/kageroumado/phosphene",
+      "title_zh": "Show HN：我反向工程了苹果的视频壁纸",
+      "created_display": "Created: May 20, 2026 / 16:54 PT",
+      "image_url": "https://opengraph.githubassets.com/ba6856ad44fca5f29a601ca250beab04e291daddd4da63c6b43ff041da3bc58f/kageroumado/phosphene",
+      "summary_en": "A project demonstrates how Apple's video wallpapers are built by reverse engineering; it reveals methods to reproduce or port the dynamic wallpapers outside Apple devices. The work provides ideas for recreating similar features on other platforms.",
+      "summary_zh": "一个项目展示了如何通过反向工程还原苹果的视频壁纸，揭示了在苹果设备之外重现动态壁纸的方法。该工作为在其他平台移植或再现此特性提供了思路。",
+      "hn": {
+        "id": 48215979,
+        "type": "story",
+        "by": "kageroumado",
+        "score": 360,
+        "descendants": 87,
+        "time": 1779321246,
+        "comments_url": "https://news.ycombinator.com/item?id=48215979"
+      },
+      "tags": [
+        "Show HN",
+        "Programming"
+      ],
+      "hot_score": 2.03
+    },
+    {
+      "title_en": "Tennessee man jailed 37 days for Trump meme wins settlement after lawsuit",
+      "url": "https://www.fire.org/news/victory-tennessee-man-jailed-37-days-trump-meme-wins-835000-settlement-after-first-amendment",
+      "title_zh": "田纳西男子因特朗普梗被监禁37天，获和解赔偿",
+      "created_display": "Created: May 20, 2026 / 07:30 PT",
+      "image_url": "https://www.fire.org/sites/default/files/styles/1200x630/public/2026/05/FIRE%20plaintiff%20Larry%20Bushart%20and%20his%20wife%20Leanne_VictoryPR.jpg?h=d1cb525d&itok=u6AmVTV6",
+      "summary_en": "A Tennessee man jailed for 37 days over a Trump meme has secured a settlement after suing. The case underscores the dangers of punitive treatment tied to online speech and highlights legal accountability for local authorities in First Amendment contexts. It also signals potential reforms in how memes and speech are policed by law enforcement.",
+      "summary_zh": "一名田纳西州男子因一张特朗普梗被监禁37天后通过诉讼获得和解赔偿。此案凸显以互联网言论为由的惩罚性对待可能侵犯言论自由，并推动地方执法部门在第一修正案框架下的问责。",
+      "hn": {
+        "id": 48208502,
+        "type": "story",
+        "by": "ceejayoz",
+        "score": 747,
+        "descendants": 493,
+        "time": 1779287447,
+        "comments_url": "https://news.ycombinator.com/item?id=48208502"
+      },
+      "hot_score": 1.96,
+      "tags": [
+        "Legal",
+        "Politics"
+      ]
+    },
+    {
+      "title_en": "SpaceX S-1",
+      "url": "https://www.sec.gov/Archives/edgar/data/1181412/000162828026036936/spaceexplorationtechnologi.htm",
+      "title_zh": "SpaceX 的 S-1 文件",
+      "created_display": "Created: May 20, 2026 / 13:49 PT",
+      "image_url": null,
+      "summary_en": "SpaceX's S-1 filing outlines the company's financials, strategy, and fundraising narrative as it contemplates public markets, offering a window into revenue, cash burn, and growth plans.",
+      "summary_zh": "SpaceX 的 S-1 文件披露了公司财务状况、战略与融资叙述，为公开市场的潜在上市提供了对收入、资金消耗和增长计划的洞见。",
+      "hn": {
+        "id": 48213933,
+        "type": "story",
+        "by": "cachecow",
+        "score": 399,
+        "descendants": 310,
+        "time": 1779310199,
+        "comments_url": "https://news.ycombinator.com/item?id=48213933"
+      },
+      "tags": [
+        "Space",
+        "Finance",
+        "Business"
+      ],
+      "hot_score": 1.69
+    },
+    {
+      "title_en": "Flipper One Tech Specs",
+      "url": "https://docs.flipper.net/one/general/tech-specs",
+      "title_zh": "Flipper One 技术规格",
+      "created_display": "Created: May 20, 2026 / 11:33 PT",
+      "image_url": "https://images.archbee.com/3StCFqarJkJQZV-7N79yY/8JaxCh8cwnpYNwd8ssDno_lz7hrl4-fzlvz5qzz-1y3-xjz2qqqgkoayp2dm8qgsf-logo-2.png",
+      "summary_en": "Flipper One's tech specs lay out the device's core hardware, connectivity, and performance targets for a developer-focused handheld. The spec sheet signals ambition around modularity and expanded capabilities in portable AI tooling.",
+      "summary_zh": "Flipper One 的技术规格揭示了面向开发者的手持设备的核心硬件、连接性和性能目标。规格透露了在便携式 AI 工具领域追求模块化和更丰富功能的野心。",
+      "hn": {
+        "id": 48212046,
+        "type": "story",
+        "by": "gregsadetsky",
+        "score": 476,
+        "descendants": 158,
+        "time": 1779302036,
+        "comments_url": "https://news.ycombinator.com/item?id=48212046"
+      },
+      "tags": [
+        "Hardware",
+        "AI"
+      ],
+      "hot_score": 1.67
+    },
+    {
+      "title_en": "DOS Zone",
+      "url": "https://dos.zone/",
+      "title_zh": "DOS Zone 站点",
+      "created_display": "Created: May 20, 2026 / 15:53 PT",
+      "image_url": "https://dos.zone/images/containers/assets/seo_image.jpg/305f8ab86e22fdd50cb3762298d95219.webp",
+      "summary_en": "DOS Zone is a hub for DOS-themed tooling and resources.",
+      "summary_zh": "DOS Zone 是一个专注于 DOS 主题工具与资源的聚合平台。",
+      "hn": {
+        "id": 48215418,
+        "type": "story",
+        "by": "rglover",
+        "score": 312,
+        "descendants": 72,
+        "time": 1779317607,
+        "comments_url": "https://news.ycombinator.com/item?id=48215418"
+      },
+      "tags": [
+        "Web"
+      ],
+      "hot_score": 1.59
+    },
+    {
+      "title_en": "Apparently Google hates us now",
+      "url": "https://twitter.com/pokemoncentral/status/2057123807404638250",
+      "title_zh": "显然谷歌现在讨厌我们了",
+      "created_display": "Created: May 20, 2026 / 09:27 PT",
+      "image_url": "https://jf.x.com/images/media-preview/2057123807404638250",
+      "summary_en": "An outspoken jab at Google's current stance affecting a niche community. The note highlights tensions between big platforms and smaller projects, implying reduced visibility or support from Google. The moment signals how platform policy shifts can ripple through developer ecosystems.",
+      "summary_zh": "对谷歌当前态度的尖锐批评，指出大型平台对小众开发者的态度变化。此举暴露了平台政策调整对开发者生态的影响，以及对可见性和生存环境的潜在影响。",
+      "hn": {
+        "id": 48210263,
+        "type": "story",
+        "by": "zeitg3ist",
+        "score": 487,
+        "descendants": 245,
+        "time": 1779294445,
+        "comments_url": "https://news.ycombinator.com/item?id=48210263"
+      },
+      "hot_score": 1.46,
+      "tags": [
+        "Web",
+        "Politics"
+      ]
+    },
+    {
+      "title_en": "Qwen3.7-Max: The Agent Frontier",
+      "url": "https://qwen.ai/blog?id=qwen3.7",
+      "title_zh": "Qwen3.7-Max：代理能力的前沿",
+      "created_display": "Created: May 20, 2026 / 03:35 PT",
+      "image_url": "https://img.alicdn.com/imgextra/i1/O1CN013ltlI61OTOnTStXfj_!!6000000001706-55-tps-330-327.svg",
+      "summary_en": "Qwen3.7-Max expands the AI frontier by enabling agent-like capabilities that can reason, plan, and act with external tools. This pushes toward more autonomous AI systems that can complete multi-step tasks with less human guidance. For developers, it offers a path to building more capable, real-world automation and assistants.",
+      "summary_zh": "Qwen3.7-Max 通过提供类代理的能力，能进行推理、规划并调用外部工具执行任务，进一步推动更具自主性的AI系统发展。它使多步任务的自动化实现变得更加可行，开发者可以借此构建更强的现实世界应用与助手。",
+      "hn": {
+        "id": 48205626,
+        "type": "story",
+        "by": "kevinsimper",
+        "score": 679,
+        "descendants": 279,
+        "time": 1779273302,
+        "comments_url": "https://news.ycombinator.com/item?id=48205626"
+      },
+      "tags": [
+        "AI"
+      ],
+      "hot_score": 1.4
+    },
+    {
+      "title_en": "The Letter S, by Donald Knuth (1980) [pdf]",
+      "url": "https://gwern.net/doc/design/typography/1980-knuth.pdf",
+      "title_zh": "唐纳德·克努斯的字母 S（1980）[PDF]",
+      "created_display": "Created: May 20, 2026 / 16:58 PT",
+      "image_url": null,
+      "summary_en": "Donald Knuth's 1980 essay on the letter S dives into typography, shape, and legibility, reflecting the craft behind printed text. It remains a touchstone for typographers and designers alike.",
+      "summary_zh": "1980 年，Knuth 的《字母 S》探讨了字形、可读性和排版技艺，揭示了印刷文字背后的匠心。该文成为字体设计领域的经典参考。",
+      "hn": {
+        "id": 48216016,
+        "type": "story",
+        "by": "bambax",
+        "score": 236,
+        "descendants": 41,
+        "time": 1779321531,
+        "comments_url": "https://news.ycombinator.com/item?id=48216016"
+      },
+      "tags": [
+        "Design"
+      ],
+      "hot_score": 1.34
+    },
+    {
+      "title_en": "Intuit to lay off over 3k employees to refocus on AI",
+      "url": "https://techcrunch.com/2026/05/20/intuit-to-lay-off-over-3000-employees-to-refocus-on-ai/",
+      "title_zh": "Intuit 将裁员超过 3000 人以聚焦 AI",
+      "created_display": "Created: May 20, 2026 / 17:36 PT",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2261740845.jpg?w=1024",
+      "summary_en": "Intuit to lay off more than 3,000 employees to pivot toward AI, signaling a broader trend of AI-driven transformation among software firms. The layoffs may affect product teams and reshape internal priorities around automation and data products.",
+      "summary_zh": "Intuit 将裁员超过3000人以聚焦AI，显示软件公司向AI驱动的转型趋势。这一举措可能影响产品团队并重塑对自动化与数据产品的内部优先级。",
+      "hn": {
+        "id": 48216278,
+        "type": "story",
+        "by": "wapasta",
+        "score": 222,
+        "descendants": 165,
+        "time": 1779323761,
+        "comments_url": "https://news.ycombinator.com/item?id=48216278"
+      },
+      "tags": [
+        "Business",
+        "AI"
+      ],
+      "hot_score": 1.34
+    },
+    {
+      "title_en": "Declining America",
+      "url": "https://www.tbray.org/ongoing/When/202x/2026/05/19/Declining-America",
+      "title_zh": "declining America",
+      "created_display": "Created: May 20, 2026 / 13:58 PT",
+      "image_url": "https://www.tbray.org/ongoing/misc/podcast-default.jpg",
+      "summary_en": "A thoughtful essay on perceived decline in the US, touching on demographics, tech policy, or economic headwinds, and its implications for innovation.",
+      "summary_zh": "这篇深思文章探讨美国日益显现的衰退迹象，涉及人口、科技政策与经济挑战及对创新的影响。",
+      "hn": {
+        "id": 48214049,
+        "type": "story",
+        "by": "AndrewDucker",
+        "score": 286,
+        "descendants": 143,
+        "time": 1779310689,
+        "comments_url": "https://news.ycombinator.com/item?id=48214049"
+      },
+      "tags": [
+        "Politics",
+        "Culture"
+      ],
+      "hot_score": 1.22
+    },
+    {
+      "title_en": "I’ve joined Anthropic",
+      "url": "https://twitter.com/karpathy/status/2056753169888334312",
+      "title_zh": "我已加入 Anthropic",
+      "created_display": "Created: May 19, 2026 / 08:07 PT",
+      "image_url": "https://pbs.twimg.com/profile_images/1296667294148382721/9Pr6XrPB_200x200.jpg",
+      "summary_en": "Renowned AI researcher Andrej Karpathy announces joining Anthropic, signaling a strengthening push toward safety and alignment work at the company. The move highlights ongoing talent shifts among leading AI labs and could influence future research directions.",
+      "summary_zh": "知名 AI 研究者安德烈·卡帕蒂宣布加入 Anthropic，表明公司在安全与对齐方向的投入在加大。此举反映出顶尖 AI 研究机构之间的人才流动，并可能影响未来的研究方向。",
+      "hn": {
+        "id": 48194352,
+        "type": "story",
+        "by": "dmarcos",
+        "score": 1414,
+        "descendants": 606,
+        "time": 1779203265,
+        "comments_url": "https://news.ycombinator.com/item?id=48194352"
+      },
+      "tags": [
+        "AI",
+        "Career"
+      ],
+      "hot_score": 1.21
+    },
+    {
+      "title_en": "Anthropic is expanding to Colossus2. Will use GB200",
+      "url": "https://twitter.com/nottombrown/status/2057194829986300375",
+      "title_zh": "Anthropic 将扩展至 Colossus2，将使用 GB200",
+      "created_display": "Created: May 20, 2026 / 13:55 PT",
+      "image_url": "https://pbs.twimg.com/profile_images/1285266774267555840/LicLFbt3_200x200.jpg",
+      "summary_en": "Anthropic expands to Colossus2 with GB200, signaling a push for larger AI compute resources. The move underscores ongoing scaling needs for safety-focused AI research and production workloads.",
+      "summary_zh": "Anthropic 将扩展至 Colossus2，并将使用 GB200，这体现了对更大规模AI算力的需求。此举可能推动更大模型的研发与部署。",
+      "hn": {
+        "id": 48214017,
+        "type": "story",
+        "by": "aurareturn",
+        "score": 260,
+        "descendants": 294,
+        "time": 1779310552,
+        "comments_url": "https://news.ycombinator.com/item?id=48214017"
+      },
+      "tags": [
+        "AI"
+      ],
+      "hot_score": 1.11
+    },
+    {
+      "title_en": "Map of Metal",
+      "url": "https://mapofmetal.com/",
+      "title_zh": "金属地图",
+      "created_display": "Created: May 20, 2026 / 03:47 PT",
+      "image_url": "http://mapofmetal.com/static/img/fbicon.jpg",
+      "summary_en": "Map of Metal provides a global, interactive view of critical metals across supply chains, helping engineers and policymakers spot bottlenecks from mining to manufacturing. The project emphasizes supply chain transparency and material substitution as key levers for resilience in tech hardware.",
+      "summary_zh": "金属地图提供全球关键金属供应链的互动视图，帮助工程师和决策者识别从矿产到制造环节的瓶颈。该项目凸显供应链透明度与材料替代在科技硬件韧性中的关键作用。",
+      "hn": {
+        "id": 48205699,
+        "type": "story",
+        "by": "robin_reala",
+        "score": 432,
+        "descendants": 170,
+        "time": 1779274040,
+        "comments_url": "https://news.ycombinator.com/item?id=48205699"
+      },
+      "tags": [
+        "Data",
+        "Hardware"
+      ],
+      "hot_score": 0.9
+    },
+    {
+      "title_en": "Saying goodbye to asm.js",
+      "url": "https://spidermonkey.dev/blog/2026/05/20/saying-goodbye-to-asmjs.html",
+      "title_zh": "告别 asm.js",
+      "created_display": "Created: May 20, 2026 / 05:01 PT",
+      "image_url": "https://spidermonkey.dev/assets/img/twitter-dark-large.png?1",
+      "summary_en": "Asm.js, once a performance-boosting subset of JavaScript, is being phased out in favor of WebAssembly. The move reflects the industry shift toward a standardized, near-native execution model and carries implications for legacy projects and tooling. Developers should plan migrations to WebAssembly and update pipelines accordingly.",
+      "summary_zh": "asm.js 作为 JavaScript 的老旧子集正逐步被淘汰，WebAssembly 成为近似原生执行的标准。此举反映了行业向统一高效执行模型的转变，并影响遗留项目与开发流程。开发者应规划迁移至 WebAssembly，并更新构建与工具链。",
+      "hn": {
+        "id": 48206340,
+        "type": "story",
+        "by": "eqrion",
+        "score": 400,
+        "descendants": 150,
+        "time": 1779278516,
+        "comments_url": "https://news.ycombinator.com/item?id=48206340"
+      },
+      "tags": [
+        "Programming",
+        "Web"
+      ],
+      "hot_score": 0.9
+    },
+    {
+      "title_en": "Gemini 3.5 Flash",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/",
+      "title_zh": "Gemini 3.5 闪速版",
+      "created_display": "Created: May 19, 2026 / 10:43 PT",
+      "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-3-5__keywordstatement__metacard__light.width-1300.png",
+      "summary_en": "Google unveils Gemini 3.5 Flash, a speed-optimized variant in the Gemini family aimed at faster inference and snappier tool use in real-world apps. The update underscores Google's push to edge AI speed and integration, signaling that latency remains a key performance lever even as models grow larger.",
+      "summary_zh": "谷歌推出 Gemini 3.5 闪速版，聚焦推理速度与工具使用体验的优化。此举凸显谷歌在提升 AI 响应性和系统集成方面的持续投入，说明在大模型时代，延迟仍是重要的性能指标。",
+      "hn": {
+        "id": 48196570,
+        "type": "story",
+        "by": "spectraldrift",
+        "score": 943,
+        "descendants": 649,
+        "time": 1779212625,
+        "comments_url": "https://news.ycombinator.com/item?id=48196570"
+      },
+      "tags": [
+        "AI"
+      ],
+      "hot_score": 0.89
+    },
+    {
+      "title_en": "Colorado Amended SB051 (Age Verification Bill) to Exclude Open Source Projects",
+      "url": "https://legiscan.com/CO/bill/SB051/2026",
+      "title_zh": "科罗拉多州将 SB051（年龄验证法案）排除开源项目",
+      "created_display": "Created: May 20, 2026 / 13:28 PT",
+      "image_url": null,
+      "summary_en": "Colorado amended SB051 to exempt open-source projects from age-verification requirements, alleviating compliance burden for maintainer communities. The change highlights tensions between consumer protections and open-source workflows, and could influence future policy design around age checks.",
+      "summary_zh": "科罗拉多州对 SB051 进行了修订，将开源项目排除在年龄验证要求之外，减轻维护者社区的合规负担。此举凸显了消费者保护与开源工作流程之间的张力，可能影响未来关于年龄验证的政策设计。",
+      "hn": {
+        "id": 48213651,
+        "type": "story",
+        "by": "ki4jgt",
+        "score": 217,
+        "descendants": 69,
+        "time": 1779308898,
+        "comments_url": "https://news.ycombinator.com/item?id=48213651"
+      },
+      "tags": [
+        "Open Source",
+        "Legal"
+      ],
+      "hot_score": 0.89
+    },
+    {
+      "title_en": "I’ve built a virtual museum with nearly every operating system you can think of",
+      "url": "https://virtualosmuseum.org/",
+      "title_zh": "我用几乎所有你能想到的操作系统搭建了一个虚拟博物馆",
+      "created_display": "Created: May 19, 2026 / 08:53 PT",
+      "image_url": "https://virtualosmuseum.org/images/front_page/0.%20Launcher%20main%20window.png",
+      "summary_en": "A personal project curates a virtual museum of operating systems across history, spanning from legacy to modern platforms. It combines emulation, demos, and documentation to preserve software heritage and let readers compare how OS design evolved.",
+      "summary_zh": "一个个人项目把各式各样的操作系统整理成一个虚拟博物馆。它通过仿真、演示和文档，帮助保存软件历史并让用户比较不同操作系统的设计演进。",
+      "hn": {
+        "id": 48195009,
+        "type": "story",
+        "by": "andreww591",
+        "score": 940,
+        "descendants": 218,
+        "time": 1779206018,
+        "comments_url": "https://news.ycombinator.com/item?id=48195009"
+      },
+      "tags": [
+        "Education",
+        "Culture"
+      ],
+      "hot_score": 0.83
+    },
+    {
+      "title_en": "Incident Report: May 19, 2026 – GCP Account Suspension",
+      "url": "https://blog.railway.com/p/incident-report-may-19-2026-gcp-account-outage",
+      "title_zh": "事件报告：2026 年 5 月 19 日的 GCP 账户暂停",
+      "created_display": "Created: May 20, 2026 / 01:37 PT",
+      "image_url": "https://res.cloudinary.com/railway/image/upload/v1734405679/incident-hero_ri6qfy.png",
+      "summary_en": "The Incident Report details a May 19, 2026 GCP account suspension that disrupted services, outlining timeline, impact, and the steps taken to restore operations. It underscores the fragility of cloud-credential-based workflows and the need for resilient fallback strategies.",
+      "summary_zh": "事件报告回顾了 2026 年 5 月 19 日的 GCP 账户暂停事件，描述时间线、影响及恢复过程。强调基于云凭证的工作流易受影响，需要建立更具韧性的备份与恢复策略。",
+      "hn": {
+        "id": 48204770,
+        "type": "story",
+        "by": "0xedb",
+        "score": 439,
+        "descendants": 249,
+        "time": 1779266275,
+        "comments_url": "https://news.ycombinator.com/item?id=48204770"
+      },
+      "tags": [
+        "DevOps",
+        "Security"
+      ],
+      "hot_score": 0.81
+    },
+    {
+      "title_en": "College students drown out AI-praising commencement speeches with boos",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/college-students-drown-out-ai-praising-commencement-speeches-with-boos-deal-with-it-one-speaker-fires-back-as-students-heckle-positive-pitches-for-ais-role",
+      "title_zh": "大学生用嘘声抵制AI吹捧的毕业致辞",
+      "created_display": "Created: May 20, 2026 / 04:51 PT",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/5BYVzY95Q8VmJLdbtdLfob-1024-80.jpg",
+      "summary_en": "College students boo AI-promoting commencement speeches, signaling skepticism about hype surrounding AI's role in society. The backlash suggests audiences want more pragmatic, nuanced discussions rather than glänzende hype, even at ceremonial events. It reflects ongoing tensions between academia and industry narratives about AI.",
+      "summary_zh": "大学生在对AI吹捧的毕业致辞中发出嘘声，表明对AI在社会角色的热炒持怀疑态度。此举表明观众更期待务实、细致的讨论，而非在仪式场合中的过度炒作，反映出学术界与产业对AI叙事的张力。",
+      "hn": {
+        "id": 48206241,
+        "type": "story",
+        "by": "iancmceachern",
+        "score": 365,
+        "descendants": 375,
+        "time": 1779277892,
+        "comments_url": "https://news.ycombinator.com/item?id=48206241"
+      },
+      "tags": [
+        "AI",
+        "Culture"
+      ],
+      "hot_score": 0.81
+    },
+    {
+      "title_en": "Everything in C is undefined behavior",
+      "url": "https://blog.habets.se/2026/05/Everything-in-C-is-undefined-behavior.html",
+      "title_zh": "C 语言中的一切都是未定义行为",
+      "created_display": "Created: May 19, 2026 / 23:07 PT",
+      "image_url": null,
+      "summary_en": "The post argues that C's undefined behavior is pervasive, undermining safety and portability. It explains risk examples and why developers should write safer code or adopt safer languages and tooling.",
+      "summary_zh": "博文指出，C 语言中的未定义行为无处不在，严重影响安全性和可移植性。文章通过实例说明 UB 的风险，建议开发者采用更严格的写法或转向更安全的语言与工具来降低风险。",
+      "hn": {
+        "id": 48203698,
+        "type": "story",
+        "by": "lycopodiopsida",
+        "score": 488,
+        "descendants": 678,
+        "time": 1779257242,
+        "comments_url": "https://news.ycombinator.com/item?id=48203698"
+      },
+      "tags": [
+        "Programming"
+      ],
+      "hot_score": 0.79
+    },
+    {
+      "title_en": "Minnesota becomes first state to ban prediction markets",
+      "url": "https://www.npr.org/2026/05/19/nx-s1-5821265/minnesota-ban-prediction-markets",
+      "title_zh": "明尼苏达成为首个禁止预测市场的州",
+      "created_display": "Created: May 19, 2026 / 12:13 PT",
+      "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4000x2250+0+170/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F20%2F8e%2Fd3b2b95e482fb859a4662dadf81d%2Fap26048635918644.jpg",
+      "summary_en": "Minnesota becomes the first state to ban prediction markets, raising questions about regulation of forecasting tools and their use in economics, research, and AI-enabled decision making. The move may inspire other states to reconsider such markets.",
+      "summary_zh": "明尼苏达成为首个禁止预测市场的州，引发对预测工具在经济研究和 AI 驱动决策中的监管问题的讨论。此举可能促使其他州重新评估此类市场。",
+      "hn": {
+        "id": 48197980,
+        "type": "story",
+        "by": "ortusdux",
+        "score": 780,
+        "descendants": 239,
+        "time": 1779218006,
+        "comments_url": "https://news.ycombinator.com/item?id=48197980"
+      },
+      "tags": [
+        "Politics",
+        "Legal",
+        "AI"
+      ],
+      "hot_score": 0.78
+    },
+    {
+      "title_en": "GitHub is investigating unauthorized access to their internal repositories",
+      "url": "https://twitter.com/github/status/2056884788179726685",
+      "title_zh": "GitHub 正在调查对内部仓库的未经授权访问",
+      "created_display": "Created: May 19, 2026 / 17:01 PT",
+      "image_url": "https://pbs.twimg.com/profile_images/2051404708766507008/ATxxTJXO_200x200.jpg",
+      "summary_en": "GitHub is investigating unauthorized access to its internal repositories, with potential exposure of sensitive code. The incident emphasizes ongoing security vigilance and the need for strong access controls and routine secret rotation.",
+      "summary_zh": "GitHub 正在调查对内部仓库的未经授权访问，可能暴露敏感代码。此事凸显持续的安全警戒需求以及强化访问控制与密钥轮换的必要性。",
+      "hn": {
+        "id": 48201316,
+        "type": "story",
+        "by": "splenditer",
+        "score": 622,
+        "descendants": 335,
+        "time": 1779235278,
+        "comments_url": "https://news.ycombinator.com/item?id=48201316"
+      },
+      "tags": [
+        "Security",
+        "Programming"
+      ],
+      "hot_score": 0.76
+    },
+    {
+      "title_en": "Not alive, but not dead: disembodied human brains used for drug testing",
+      "url": "https://www.science.org/content/article/not-alive-not-dead-disembodied-human-brains-used-drug-testing",
+      "title_zh": "非活而未死：用于药物测试的离体人脑",
+      "created_display": "Created: May 20, 2026 / 12:38 PT",
+      "image_url": null,
+      "summary_en": "Researchers are using disembodied human brain tissue in drug-testing experiments, challenging the line between life and death. The approach could yield new data on how drugs affect brain tissue, but raises ethical concerns about consent and the moral status of the tissue.",
+      "summary_zh": "研究人员在药物测试中使用离体的人脑组织，这模糊了生死界线。此做法可能带来关于脑组织对药物反应的新数据，但也引发知情同意与脑组织道德地位的讨论。",
+      "hn": {
+        "id": 48212992,
+        "type": "story",
+        "by": "Timofeibu",
+        "score": 199,
+        "descendants": 172,
+        "time": 1779305905,
+        "comments_url": "https://news.ycombinator.com/item?id=48212992"
+      },
+      "tags": [
+        "Science"
+      ],
+      "hot_score": 0.76
+    },
+    {
+      "title_en": "Tracking Starbucks' 'widely recyclable' cups: none ended up at recycling",
+      "url": "https://www.beyondplastics.org/press-releases/starbucks-cups-recyclable-report",
+      "title_zh": "追踪星巴克‘广泛可回收’杯子：没有进入回收体系",
+      "created_display": "Created: May 20, 2026 / 11:50 PT",
+      "image_url": "http://static1.squarespace.com/static/5eda91260bbb7e7a4bf528d8/5f7235fbe1caec3fa0c89c1a/6a0b5e6b3e8a107497c8a001/1779312913141/Beyond%2BPlastics%2B-%2Bblue%2Bmin%2Bround%2B-%2Bweb%2B1080px.png?format=1500w",
+      "summary_en": "An investigation tracking Starbucks' 'widely recyclable' cups finds none were recycled, highlighting a gap between green marketing and real-world recycling outcomes. The report suggests green claims may outpace waste management capabilities and calls for transparent reporting and stronger standards.",
+      "summary_zh": "对星巴克‘广泛可回收’杯子的调查发现，几乎没有杯子真的被回收。此现象揭示了绿色宣传与实际回收之间的差距，呼吁建立更强的回收体系并对企业可持续承诺进行透明披露。",
+      "hn": {
+        "id": 48212279,
+        "type": "story",
+        "by": "theanonymousone",
+        "score": 207,
+        "descendants": 148,
+        "time": 1779303059,
+        "comments_url": "https://news.ycombinator.com/item?id=48212279"
+      },
+      "hot_score": 0.74,
+      "tags": [
+        "Science",
+        "Business",
+        "Privacy"
+      ]
+    },
+    {
+      "title_en": "Google’s AI is being manipulated. The search giant is quietly fighting back",
+      "url": "https://www.bbc.com/future/article/20260519-google-tackles-attempts-to-hack-its-ai-results",
+      "title_zh": "谷歌的 AI 正在被操控，搜索巨头悄然反击",
+      "created_display": "Created: May 20, 2026 / 03:57 PT",
+      "image_url": "https://ychef.files.bbci.co.uk/624x351/p0nm547y.jpg",
+      "summary_en": "The article reports ongoing attempts to manipulate Google's AI-powered search results and describes how Google is quietly defending against manipulation with model hardening, policy updates, and improved signals. It underlines the fragility of search integrity in the age of AI.",
+      "summary_zh": "文章报道有针对 Google AI 搜索结果的操控尝试，描述了 Google 如何通过模型加强、策略更新和信号改进等方式进行防御。强调在 AI 时代，搜索结果的完整性更容易受到影响。",
+      "hn": {
+        "id": 48205782,
+        "type": "story",
+        "by": "tigerlily",
+        "score": 329,
+        "descendants": 207,
+        "time": 1779274629,
+        "comments_url": "https://news.ycombinator.com/item?id=48205782"
+      },
+      "tags": [
+        "AI",
+        "Security"
+      ],
+      "hot_score": 0.69
+    },
+    {
+      "title_en": "Incident Report: Railway Blocked by Google Cloud [resolved]",
+      "url": "https://status.railway.com/incident/I23M92U0",
+      "title_zh": "铁路因 Google Cloud 阻塞",
+      "created_display": "Created: May 19, 2026 / 17:23 PT",
+      "image_url": "https://status.railway.com/og.png",
+      "summary_en": "A Google Cloud outage temporarily blocks Railway's platform, disrupting deployments and status visibility for users relying on their hosting services. This incident underscores how dependent development tools and infrastructure are on cloud providers, highlighting the need for resilience strategies like multi-cloud or regional failovers.",
+      "summary_zh": "Google Cloud 的故障暂时阻塞了 Railway 平台，影响使用其托管服务的开发者的部署和状态查询。此事件凸显了开发工具和基础设施对云服务的高度依赖，强调需要通过多云或区域性故障转移等方式提升韧性。",
+      "hn": {
+        "id": 48201484,
+        "type": "story",
+        "by": "aarondf",
+        "score": 552,
+        "descendants": 351,
+        "time": 1779236634,
+        "comments_url": "https://news.ycombinator.com/item?id=48201484"
+      },
+      "tags": [
+        "DevOps"
+      ],
+      "hot_score": 0.68
+    },
+    {
+      "title_en": "Google changes its search box",
+      "url": "https://blog.google/products-and-platforms/products/search/search-io-2026/",
+      "title_zh": "谷歌改造搜索框",
+      "created_display": "Created: May 19, 2026 / 11:34 PT",
+      "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Search_AI_and_search_engine_v46_16x9_1.width-1300.jpg",
+      "summary_en": "Google previews a redesigned search box at IO 2026, signaling a shift toward faster input, cleaner UX, and deeper AI-assisted results. The move could reshape how users interact with search and how developers build on top of Google's search features.",
+      "summary_zh": "谷歌在 IO 2026 展示了重新设计的搜索框，标志着在更快输入、简洁用户体验和更深的 AI 辅助结果方面的改进。此举可能改变用户与搜索的互动方式，也影响开发者在谷歌搜索生态上的构建。",
+      "hn": {
+        "id": 48197370,
+        "type": "story",
+        "by": "berkeleyjunk",
+        "score": 682,
+        "descendants": 917,
+        "time": 1779215667,
+        "comments_url": "https://news.ycombinator.com/item?id=48197370"
+      },
+      "tags": [
+        "Design",
+        "Web",
+        "AI"
+      ],
+      "hot_score": 0.66
+    },
+    {
+      "title_en": "Anna's Archive hit with $19.5M default judgment and global domain takedown order",
+      "url": "https://torrentfreak.com/annas-archive-hit-with-19-5m-default-judgment-and-global-domain-takedown-order/",
+      "title_zh": "安娜的档案因1950万美元的默认判决及全球域名下架令",
+      "created_display": "Created: May 20, 2026 / 05:30 PT",
+      "image_url": "https://torrentfreak.com/images/books-long.png",
+      "summary_en": "A court awarded $19.5 million in a default judgment against Anna's Archive and issued a global domain takedown order. The ruling demonstrates the aggressive legal tools copyright holders can use to shut down piracy hubs online, raising questions about enforcement reach and due process in cross-border cases.",
+      "summary_zh": "法院对安娜的档案站作出1950万美元的默认判决，并发出全球域名下架令。此案展示了版权方可动用的强力执法手段来关闭海盗型域名，以及此类跨境执法在程序公正和全球范围内的影响。",
+      "hn": {
+        "id": 48206640,
+        "type": "story",
+        "by": "iamnothere",
+        "score": 269,
+        "descendants": 221,
+        "time": 1779280258,
+        "comments_url": "https://news.ycombinator.com/item?id=48206640"
+      },
+      "hot_score": 0.62,
+      "tags": [
+        "Legal"
+      ]
+    },
+    {
+      "title_en": "Tesla's lithium refinery discharges 231,000 gallons of polluted wastewater a day",
+      "url": "https://www.autonocion.com/us/tesla-lithium-refinery-texas/",
+      "title_zh": "特斯拉在德州的锂精炼厂每日排放约231,000加仑污染废水",
+      "created_display": "Created: May 19, 2026 / 12:52 PT",
+      "image_url": "https://www.autonocion.com/us/wp-content/uploads/2026/05/Tesla-Lithium-Refinery.jpg",
+      "summary_en": "Tesla's lithium refinery in Texas is discharging about 231,000 gallons of polluted wastewater daily, drawing environmental and regulatory scrutiny. The figure underscores the water-management challenges that accompany rapid EV supply-chain growth and could affect local communities and ecosystems. For engineers and policymakers, it highlights the need for robust wastewater treatment and transparent environmental reporting for new battery facilities.",
+      "summary_zh": "特斯拉在德州的锂精炼厂每天排放约231,000加仑污染废水，引发环境和监管关注。这一数字凸显在迅速扩张的电动车供应链中水资源管理的挑战，可能影响周边社区与生态系统。对工程师和决策者而言，这强调需要对新建电池厂进行严格的废水处理与透明的环境披露。",
+      "hn": {
+        "id": 48198551,
+        "type": "story",
+        "by": "atombender",
+        "score": 493,
+        "descendants": 244,
+        "time": 1779220369,
+        "comments_url": "https://news.ycombinator.com/item?id=48198551"
+      },
+      "tags": [
+        "Energy",
+        "Science",
+        "Politics"
+      ],
+      "hot_score": 0.5
+    },
+    {
+      "title_en": "FiveThirtyEight articles on the Internet Archive",
+      "url": "https://fivethirtyeightindex.com/",
+      "title_zh": "FiveThirtyEight 的文章被放进互联网档案馆",
+      "created_display": "Created: May 19, 2026 / 18:34 PT",
+      "image_url": "https://fivethirtyeightindex.com/abacus.png",
+      "summary_en": "FiveThirtyEight articles are being archived by the Internet Archive, ensuring long-term access even if the original site changes. This supports reproducibility and historical analysis in data journalism, while raising questions about licensing and reuse.",
+      "summary_zh": "FiveThirtyEight 的文章被互联网档案馆长期存档，即使原站点发生变化也能访问。这有助于数据新闻的可复现性与历史分析，同时引发关于许可与再利用的讨论。",
+      "hn": {
+        "id": 48201973,
+        "type": "story",
+        "by": "ChocMontePy",
+        "score": 372,
+        "descendants": 81,
+        "time": 1779240859,
+        "comments_url": "https://news.ycombinator.com/item?id=48201973"
+      },
+      "tags": [
+        "Data",
+        "Web"
+      ],
+      "hot_score": 0.48
+    },
+    {
+      "title_en": "Japan is gripped by mass allergies. A 1950s project is to blame",
+      "url": "https://www.bbc.com/future/article/20260515-the-1950s-blunder-which-causes-mass-hay-fever-in-japan",
+      "title_zh": "日本大规模花粉过敏归咎于1950年代的一项计划",
+      "created_display": "Created: May 19, 2026 / 18:43 PT",
+      "image_url": "https://ychef.files.bbci.co.uk/624x351/p0nly7ch.jpg",
+      "summary_en": "Decades-old project in the 1950s is linked to today's mass allergy problem in Japan. The article traces how early experiments altered pollen ecosystems or health outcomes and why legacy decisions matter for science policy and public health. It highlights how long tail effects from past research can shape present-day living conditions.",
+      "summary_zh": "日本因1950年代的一项研究计划而引发的花粉过敏问题在今日仍有显著影响。文章追溯早期实验如何改变花粉生态或健康结果，以及历史决策对科学政策和公共卫生的意义，强调过去研究的长期影响会塑造当下的生活环境。",
+      "hn": {
+        "id": 48202047,
+        "type": "story",
+        "by": "ranit",
+        "score": 354,
+        "descendants": 164,
+        "time": 1779241386,
+        "comments_url": "https://news.ycombinator.com/item?id=48202047"
+      },
+      "tags": [
+        "Science",
+        "Health"
+      ],
+      "hot_score": 0.46
+    },
+    {
+      "title_en": "Disney erased FiveThirtyEight",
+      "url": "https://www.natesilver.net/p/disney-erased-fivethirtyeight",
+      "title_zh": "迪士尼抹去 FiveThirtyEight",
+      "created_display": "Created: May 19, 2026 / 11:56 PT",
+      "image_url": "https://substackcdn.com/image/fetch/$s_!IsA_!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F15fb1215-5721-4a31-8ba2-c5508fd5be7e_800x433.gif",
+      "summary_en": "Disney reportedly erased FiveThirtyEight from its slate, reflecting a corporate reorganization that sidelines a once-prominent data journalism brand. The move underscores how ownership changes can affect independent analytics reach and public trust.",
+      "summary_zh": "迪士尼据称已从自有资产中移除 FiveThirtyEight，反映出企业在数据新闻品牌上的策略调整。此举凸显所有权变动如何影响独立分析与公众信任的传播范围。",
+      "hn": {
+        "id": 48197703,
+        "type": "story",
+        "by": "7777777phil",
+        "score": 446,
+        "descendants": 257,
+        "time": 1779216985,
+        "comments_url": "https://news.ycombinator.com/item?id=48197703"
+      },
+      "tags": [
+        "Business",
+        "Culture",
+        "Data"
+      ],
+      "hot_score": 0.44
+    },
+    {
+      "title_en": "Remove-AI-Watermarks – CLI and library for removing AI watermarks from images",
+      "url": "https://github.com/wiltodelta/remove-ai-watermarks",
+      "title_zh": "Remove–AI–Watermarks：用于从图像移除 AI 水印的 CLI 与库",
+      "created_display": "Created: May 19, 2026 / 15:30 PT",
+      "image_url": "https://opengraph.githubassets.com/4615321f2b3bf77b2f5824ed05f50ae2cb3115bfb87b9d4af1a5141fab94f6a8/wiltodelta/remove-ai-watermarks",
+      "summary_en": "Open-source CLI and library that remove AI-generated watermarks from images. While useful for legitimate image editing, it raises ethical questions about watermarking, ownership, and the potential for misuse in denying AI authorship claims.",
+      "summary_zh": "一个开源命令行工具与库，能够从图像中移除 AI 水印。该工具在合法编辑场景有用，但也引发关于水印、所有权及滥用风险的伦理讨论。",
+      "hn": {
+        "id": 48200569,
+        "type": "story",
+        "by": "janalsncm",
+        "score": 381,
+        "descendants": 253,
+        "time": 1779229831,
+        "comments_url": "https://news.ycombinator.com/item?id=48200569"
+      },
+      "tags": [
+        "Open Source",
+        "Programming",
+        "AI"
+      ],
+      "hot_score": 0.43
+    },
+    {
+      "title_en": "GitHub Compromised",
+      "url": "https://twitter.com/github/status/2056949168208552080",
+      "title_zh": "GitHub 遭遇系统安全妥协",
+      "created_display": "Created: May 19, 2026 / 21:12 PT",
+      "image_url": "https://pbs.twimg.com/profile_images/2051404708766507008/ATxxTJXO_200x200.jpg",
+      "summary_en": "GitHub disclosed a security compromise affecting its systems, highlighting ongoing risks for developers relying on the platform. The incident underscores the importance of robust access controls, monitoring, and rapid incident response in modern software development environments.",
+      "summary_zh": "GitHub 披露其系统遭遇安全妥协，凸显开发者对该平台的安全依赖仍面临的风险。此事件强调在现代软件开发环境中持续强化访问控制、监控与快速事件响应的重要性。",
+      "hn": {
+        "id": 48202993,
+        "type": "story",
+        "by": "claaams",
+        "score": 262,
+        "descendants": 6,
+        "time": 1779250368,
+        "comments_url": "https://news.ycombinator.com/item?id=48202993"
+      },
+      "tags": [
+        "Security",
+        "Programming"
+      ],
+      "hot_score": 0.38
+    },
+    {
+      "title_en": "Gemini CLI will stop working from June 18, 2026",
+      "url": "https://developers.googleblog.com/an-important-update-transitioning-gemini-cli-to-antigravity-cli/",
+      "title_zh": "Gemini CLI 将于 2026 年 6 月 18 日停止工作",
+      "created_display": "Created: May 19, 2026 / 11:03 PT",
+      "image_url": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/GeminiCLI-AntigravityCLI_1200x630.2e16d0ba.fill-1200x600.png",
+      "summary_en": "Google announces the Gemini CLI will stop working on a set date, with migration to the Antigravity CLI recommended. It underscores rapid churn in AI tooling ecosystems and the importance of migration planning for automation workflows.",
+      "summary_zh": "Google 宣布 Gemini CLI 将在指定日期停止工作，并建议迁移到 Antigravity CLI。此举显示了 AI 工具生态的快速迭代与迁移规划对自动化工作流的重要性。",
+      "hn": {
+        "id": 48196867,
+        "type": "story",
+        "by": "primaprashant",
+        "score": 393,
+        "descendants": 200,
+        "time": 1779213790,
+        "comments_url": "https://news.ycombinator.com/item?id=48196867"
+      },
+      "tags": [
+        "Programming",
+        "AI"
+      ],
+      "hot_score": 0.37
+    },
+    {
+      "title_en": "Mistral AI acquires Emmi AI",
+      "url": "https://www.emmi.ai/news/mistral-ai-acquires-emmi-ai",
+      "title_zh": "Mistral AI 收购 Emmi AI 打造领先的 AI 技术栈",
+      "created_display": "Created: May 19, 2026 / 12:14 PT",
+      "image_url": "https://cdn.prod.website-files.com/68dc360c3b01aa9613087f04/6a0b5c38f624fb94a50f6696_News%206%20(1).png",
+      "summary_en": "Mistral AI acquires Emmi AI to assemble an end-to-end AI stack, combining models, tooling, and deployment capabilities to accelerate product development and enterprise use. The acquisition signals consolidation in the AI tooling ecosystem.",
+      "summary_zh": "Mistral AI 收购 Emmi AI，意在打造端到端的 AI 技术栈，整合模型、工具与部署能力，加速产品开发与企业落地。此举标志着 AI 工具生态的整合加速。",
+      "hn": {
+        "id": 48197995,
+        "type": "story",
+        "by": "doener",
+        "score": 334,
+        "descendants": 97,
+        "time": 1779218052,
+        "comments_url": "https://news.ycombinator.com/item?id=48197995"
+      },
+      "tags": [
+        "AI",
+        "Business"
+      ],
+      "hot_score": 0.33
+    },
+    {
+      "title_en": "OpenAI Adopts Google's SynthID Watermark for AI Images with Verification Tool",
+      "url": "https://openai.com/index/advancing-content-provenance/",
+      "title_zh": "OpenAI 采用 Google 的 SynthID 图像水印并提供验证工具",
+      "created_display": "Created: May 19, 2026 / 12:34 PT",
+      "image_url": "https://images.ctfassets.net/kftzwdyauwt9/7qrOAES4m86YSNSeLjDFI3/2a82d6af71882438b33811ad5c1e5fdc/SEO_Card_-_new_title.png?w=1600&h=900&fit=fill",
+      "summary_en": "OpenAI integrates Google's SynthID watermark into AI-generated images and ships a verification tool to prove AI origin. This marks a shift toward verifiable content provenance and could influence platform policies, authentication tooling, and public trust in AI-generated media.",
+      "summary_zh": "OpenAI 将 Google 的 SynthID 图像水印嵌入 AI 生成的图像，并提供验证工具以证明来源。这标志着对内容可验证出处的重视，有望影响平台策略、认证工具和公众对 AI 生成媒体的信任。",
+      "hn": {
+        "id": 48198291,
+        "type": "story",
+        "by": "smooke",
+        "score": 329,
+        "descendants": 178,
+        "time": 1779219270,
+        "comments_url": "https://news.ycombinator.com/item?id=48198291"
+      },
+      "tags": [
+        "AI",
+        "Privacy"
+      ],
+      "hot_score": 0.33
+    },
+    {
+      "title_en": "Gemini Omni",
+      "url": "https://deepmind.google/models/gemini-omni/",
+      "title_zh": "Gemini Omni",
+      "created_display": "Created: May 19, 2026 / 10:46 PT",
+      "image_url": "https://lh3.googleusercontent.com/g6XDYMJ0QkGEh12oBq849NF0iDxAIJvrdiWHfI1Y7u2kJZF4brhur0dy-Jf_MATTC0TiCfb7YkOlkTjPta1H5eK6Crl_-1j-MnTDCmiCGGHC2oeIOJ4=w1200-h630-n-nu-rw",
+      "summary_en": "Gemini Omni is a versatile, cross-domain model that unifies tools, reasoning, and multi-modal inputs, signaling Google’s effort to provide a single powerful AI assistant across tasks. It emphasizes memory, tool use, and cross-domain capabilities.",
+      "summary_zh": "Gemini Omni 是一个多模态、多领域的通用模型，整合工具、推理与多模态输入，体现谷歌在打造全栈 AI 助手上的努力。它强调记忆、工具使用和跨领域能力。",
+      "hn": {
+        "id": 48196609,
+        "type": "story",
+        "by": "meetpateltech",
+        "score": 320,
+        "descendants": 144,
+        "time": 1779212779,
+        "comments_url": "https://news.ycombinator.com/item?id=48196609"
+      },
+      "tags": [
+        "AI"
+      ],
+      "hot_score": 0.3
+    },
+    {
+      "title_en": "Dumb ways for an open source project to die",
+      "url": "https://nesbitt.io/2026/05/19/dumb-ways-for-an-open-source-project-to-die.html",
+      "title_zh": "让开源项目死去的愚蠢之道",
+      "created_display": "Created: May 19, 2026 / 12:22 PT",
+      "image_url": "https://nesbitt.io/images/boxes.png",
+      "summary_en": "An essay outlining common missteps that doom open-source projects—opaque governance, dwindling maintainer energy, and misaligned incentives. It offers practical reminders for maintainers and communities to design sustainable processes and governance to avoid burnout and abandonment.",
+      "summary_zh": "文章列出导致开源项目夭折的常见误区，如治理不清、维护者热情衰退、激励错位等，并给维护者与社区提出可执行的可持续治理建议，帮助避免倦怠与放弃。",
+      "hn": {
+        "id": 48198127,
+        "type": "story",
+        "by": "chmaynard",
+        "score": 211,
+        "descendants": 140,
+        "time": 1779218576,
+        "comments_url": "https://news.ycombinator.com/item?id=48198127"
+      },
+      "tags": [
+        "Open Source",
+        "Energy"
+      ],
+      "hot_score": 0.21
+    }
+  ]
+}

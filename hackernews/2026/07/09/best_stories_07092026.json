@@ -1,0 +1,1160 @@
+{
+  "meta": {
+    "mode": "best",
+    "source": "https://news.ycombinator.com/",
+    "api": "https://github.com/HackerNews/API",
+    "count_requested": 50,
+    "count_written": 50,
+    "reused_same_day": 0,
+    "reused_cross_day": 23,
+    "new_llm_enriched": 9,
+    "scrape_time_display": "07:34, July 10, 2026 (PDT)",
+    "timezone": "America/Los_Angeles",
+    "date_dir": "2026/07/09",
+    "content_date": "2026-07-09",
+    "run_time_local": "07:34, July 10, 2026 (PDT)",
+    "run_time_utc": "2026-07-10 14:34:59 UTC",
+    "incremental": true,
+    "stories_max": 50,
+    "hot_score_time_utc": "2026-07-10 14:36:05 UTC"
+  },
+  "items": [
+    {
+      "title_en": "EU Commission: addictive design Instagram and Facebook in breach of the DSA",
+      "url": "https://ec.europa.eu/commission/presscorner/home/en",
+      "title_zh": "欧盟委员会：Instagram 与 Facebook 的成瘾设计违反 DSA",
+      "created_display": "Created: Jul 10, 2026 / 04:00 PT",
+      "image_url": "https://ec.europa.eu/commission/presscorner/assets/framework/images/logo/ec_logo.png",
+      "summary_en": "The European Commission finds addictive design elements in Instagram and Facebook to breach the Digital Services Act, signaling a regulatory push against design choices that encourage prolonged use. The decision could push product teams to rethink engagement tactics and algorithmic incentives.",
+      "summary_zh": "欧盟委员会认定 Instagram 与 Facebook 的成瘾性设计违反《数字服务法》，标志着对促成长期使用的设计做法的监管加强。此举可能促使产品团队重新审视黏性设计与算法激励策略。",
+      "hn": {
+        "id": 48858292,
+        "type": "story",
+        "by": "jeroenhd",
+        "score": 125,
+        "descendants": 86,
+        "time": 1783681215,
+        "comments_url": "https://news.ycombinator.com/item?id=48858292"
+      },
+      "hot_score": 5.59,
+      "tags": [
+        "Design",
+        "Privacy",
+        "Politics"
+      ]
+    },
+    {
+      "title_en": "GPT-5.6",
+      "url": "https://openai.com/index/gpt-5-6/",
+      "title_zh": "GPT-5.6 版本",
+      "created_display": "Created: Jul 09, 2026 / 10:04 PT",
+      "image_url": "https://images.ctfassets.net/kftzwdyauwt9/3T0kxQLJk1VcXVxMwXF97J/4345df401f2b08ed6a1eef88c9588d2e/OAI_ChatGPTWork_ModelBlog_OpenGraph_16x9_1200x630.png?w=1600&h=900&fit=fill",
+      "summary_en": "A new GPT-5.6 model appears, signaling continued iteration on the GPT-5 family. Expect refinements in reasoning, safety, and efficiency, reflecting the ongoing cadence of large language model updates.",
+      "summary_zh": "GPT-5.6 版正逐步进入，表示 GPT-5 系列的持续迭代。预计在推理、安全与效率方面有改进，体现大语言模型更新的持续节奏。",
+      "hn": {
+        "id": 48849066,
+        "type": "story",
+        "by": "logickkk1",
+        "score": 1419,
+        "descendants": 998,
+        "time": 1783616654,
+        "comments_url": "https://news.ycombinator.com/item?id=48849066"
+      },
+      "tags": [
+        "AI"
+      ],
+      "hot_score": 4.82
+    },
+    {
+      "title_en": "EU Parliament greenlights Chat Control 1.0",
+      "url": "https://www.patrick-breyer.de/en/eu-parliament-greenlights-chat-control-1-0-breyer-our-children-lose-out/",
+      "title_zh": "欧盟议会通过聊天监控1.0，Breyer：我们的孩子要吃亏",
+      "created_display": "Created: Jul 09, 2026 / 04:03 PT",
+      "image_url": "https://www.patrick-breyer.de/wp-content/uploads/2023/07/logo_regular_vertical.png",
+      "summary_en": "This marks a major push to enable cross-border scanning of encrypted messages in pursuit of child safety and crime prevention. Critics warn that the measure expands surveillance at the expense of privacy and free expression, while Breyer argues that children will lose out.",
+      "summary_zh": "这标志着推动跨境扫描加密通讯以提升儿童安全和打击犯罪的重大举措。批评者担心此举侵蚀隐私与言论自由，而Breyer则认为这会让儿童吃亏。",
+      "hn": {
+        "id": 48843923,
+        "type": "story",
+        "by": "rapnie",
+        "score": 1511,
+        "descendants": 753,
+        "time": 1783595034,
+        "comments_url": "https://news.ycombinator.com/item?id=48843923"
+      },
+      "tags": [
+        "Privacy",
+        "Politics"
+      ],
+      "hot_score": 3.41
+    },
+    {
+      "title_en": "AI-generated videos to maximally drive a target brain region",
+      "url": "https://nevo-project.epfl.ch/",
+      "title_zh": "AI 生成视频以最大化激活目标脑区",
+      "created_display": "Created: Jul 10, 2026 / 00:39 PT",
+      "image_url": null,
+      "summary_en": "Researchers are using AI-generated videos to selectively stimulate a target brain region, aiming to drive neural activity more efficiently with visual input. The approach could advance noninvasive brain stimulation and brain–computer interfaces, but it also raises questions about safety, biases in generative models, and ethical implications of neural manipulation.",
+      "summary_zh": "研究人员利用 AI 生成的视频来有选择地激活某一脑区，试图通过视觉刺激更高效地驱动神经活动。该技术若成熟可推动非侵入性脑刺激和脑机接口的发展，同时也引发关于安全、生成模型偏差与神经操控伦理等问题的讨论。",
+      "hn": {
+        "id": 48856904,
+        "type": "story",
+        "by": "smusamashah",
+        "score": 153,
+        "descendants": 162,
+        "time": 1783669151,
+        "comments_url": "https://news.ycombinator.com/item?id=48856904"
+      },
+      "tags": [
+        "AI",
+        "Science"
+      ],
+      "hot_score": 2.94
+    },
+    {
+      "title_en": "Show HN: 18 Words",
+      "url": "https://18words.com/",
+      "title_zh": "Show HN: 18 Words",
+      "created_display": "Created: Jul 09, 2026 / 05:48 PT",
+      "image_url": "https://18words.com/og-image.png",
+      "summary_en": "Show HN: 18 Words introduces a minimal writing tool that limits posts to 18 words, prioritizing brevity and speed. It exemplifies a design philosophy where constraints drive clarity and reduce noise.",
+      "summary_zh": "Show HN: 18 Words 展示了一个极简写作工具，帖子被限制为18个单词，强调简洁与快速分享。此举体现了通过约束提升表达清晰度、降低噪声的设计理念。",
+      "hn": {
+        "id": 48845049,
+        "type": "story",
+        "by": "pompomsheep",
+        "score": 1052,
+        "descendants": 339,
+        "time": 1783601332,
+        "comments_url": "https://news.ycombinator.com/item?id=48845049"
+      },
+      "tags": [
+        "Show HN",
+        "Design"
+      ],
+      "hot_score": 2.65
+    },
+    {
+      "title_en": "John Deere owners will get the right to repair equipment under FTC settlement",
+      "url": "https://apnews.com/article/john-deere-right-to-repair-agriculture-equipment-cb7514ffedb95c130a976af661f2bc02",
+      "title_zh": "FTC和解赋予约翰迪尔设备的修理权",
+      "created_display": "Created: Jul 08, 2026 / 16:37 PT",
+      "image_url": "https://dims.apnews.com/dims4/default/eb2d449/2147483647/strip/true/crop/4513x3007+0+162/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fca%2Fc8%2F5fff3b3e7c95ef4bbd4696383598%2F674e975157b745d28967fa953a18c3d4",
+      "summary_en": "An FTC settlement grants John Deere equipment owners the right to repair, potentially lowering downtime and repair costs. It signals a shift toward repairability by nudging OEMs to share tools, manuals, and parts, and could boost independent repair shops. This case could influence broader right-to-repair momentum in tech-enabled farming.",
+      "summary_zh": "FTC与约翰迪尔设备修理权的和解，可能降低停机时间与维修成本，推动制造商提供维修工具、手册与零件。此举或促成独立修理商的兴起，或对农业科技领域的修理权运动产生示范效应。",
+      "hn": {
+        "id": 48838876,
+        "type": "story",
+        "by": "djoldman",
+        "score": 1340,
+        "descendants": 289,
+        "time": 1783553863,
+        "comments_url": "https://news.ycombinator.com/item?id=48838876"
+      },
+      "tags": [
+        "Legal",
+        "Politics"
+      ],
+      "hot_score": 1.68
+    },
+    {
+      "title_en": "Hy3",
+      "url": "https://hy.tencent.com/research/hy3",
+      "title_zh": "Hy3",
+      "created_display": "Created: Jul 09, 2026 / 08:27 PT",
+      "image_url": null,
+      "summary_en": "Hy3 is a new AI model introduced by Tencent's research division.",
+      "summary_zh": "Hy3 是腾讯研究部推出的新一代 AI 模型。",
+      "hn": {
+        "id": 48847552,
+        "type": "story",
+        "by": "andai",
+        "score": 521,
+        "descendants": 107,
+        "time": 1783610868,
+        "comments_url": "https://news.ycombinator.com/item?id=48847552"
+      },
+      "tags": [
+        "AI"
+      ],
+      "hot_score": 1.57
+    },
+    {
+      "title_en": "My thoughts on the Bun Rust rewrite",
+      "url": "https://andrewkelley.me/post/my-thoughts-bun-rust-rewrite.html",
+      "title_zh": "我对 Bun 的 Rust 重写的一些看法",
+      "created_display": "Created: Jul 09, 2026 / 02:47 PT",
+      "image_url": null,
+      "summary_en": "The Bun project is exploring a Rust rewrite to address safety and performance limitations of the original runtime. The note discusses why a Rust-based core could improve reliability and tooling integration, while also outlining migration and compatibility challenges that come with rewriting a mature platform.",
+      "summary_zh": "该文章探讨 Bun 以 Rust 重写核心的原因，强调安全性和性能提升的潜力，以及对可靠性与工具链集成的影响。还提及迁移路线和兼容性挑战等在对成熟平台进行重写时需要权衡的问题。",
+      "hn": {
+        "id": 48843352,
+        "type": "story",
+        "by": "kristoff_it",
+        "score": 738,
+        "descendants": 641,
+        "time": 1783590448,
+        "comments_url": "https://news.ycombinator.com/item?id=48843352"
+      },
+      "tags": [
+        "Programming"
+      ],
+      "hot_score": 1.54
+    },
+    {
+      "title_en": "Show HN: Getting GLM 5.2 running on my slow computer",
+      "url": "https://github.com/JustVugg/colibri",
+      "title_zh": "Show HN：在慢速电脑上让 GLM 5.2 运行起来",
+      "created_display": "Created: Jul 09, 2026 / 01:05 PT",
+      "image_url": "https://opengraph.githubassets.com/920a5778591423aba16f21b7a1a444d2ef57f5460bb706bc62cbb50652f0c112/JustVugg/colibri",
+      "summary_en": "A developer documents getting GLM 5.2 to run on a slow machine, sharing practical steps, constraints, and tweaks. It shows how lightweight inference paths and community tooling can unlock usable performance on modest hardware.",
+      "summary_zh": "开发者记录在慢速计算机上运行 GLM 5.2 的过程，提供具体步骤、限制与调整方法。展示了通过轻量化推理路径和社区工具在中等硬件上也能获得可用性能的可能。",
+      "hn": {
+        "id": 48842459,
+        "type": "story",
+        "by": "vforno",
+        "score": 774,
+        "descendants": 191,
+        "time": 1783584304,
+        "comments_url": "https://news.ycombinator.com/item?id=48842459"
+      },
+      "tags": [
+        "Show HN",
+        "Programming",
+        "Hardware"
+      ],
+      "hot_score": 1.47
+    },
+    {
+      "title_en": "Why American ambulance rides are so expensive",
+      "url": "https://davidoks.blog/p/why-american-ambulance-rides-are",
+      "title_zh": "美国救护车收费为何如此昂贵",
+      "created_display": "Created: Jul 09, 2026 / 15:15 PT",
+      "image_url": "https://substackcdn.com/image/fetch/$s_!KYj0!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F16d230e7-cc1d-491b-9e14-59f6f0aaf274_2048x1366.webp",
+      "summary_en": "The post dissects why ambulance rides in the U.S. cost so much—from billing practices and insurance gaps to the costs of trained personnel and equipment. It highlights policy and payer dynamics that drive the prices up and affect patients.",
+      "summary_zh": "文章剖析美国救护车费用居高不下的原因，包括计费方式、保险缺口、人员与设备成本，以及支付者与政策环境的作用，对患者影响深远。",
+      "hn": {
+        "id": 48853091,
+        "type": "story",
+        "by": "jyunwai",
+        "score": 271,
+        "descendants": 389,
+        "time": 1783635356,
+        "comments_url": "https://news.ycombinator.com/item?id=48853091"
+      },
+      "tags": [
+        "Health",
+        "Politics"
+      ],
+      "hot_score": 1.44
+    },
+    {
+      "title_en": "Postgres rewritten in Rust, now passing 100% of the Postgres regression tests",
+      "url": "https://github.com/malisper/pgrust",
+      "title_zh": "用 Rust 重写 PostgreSQL，现已通过 100% 回归测试",
+      "created_display": "Created: Jul 08, 2026 / 23:18 PT",
+      "image_url": "https://opengraph.githubassets.com/a59ef3a90431cd3a74201544f1dcdb2c538a81e916a327bfd0c589ffc9b5582f/malisper/pgrust",
+      "summary_en": "A project to rewrite PostgreSQL components in Rust reports passing all regression tests, signaling Rust's viability for safety-critical system software. While not a drop-in replacement, the effort demonstrates how safer memory management and modern tooling could influence database internals.",
+      "summary_zh": "用 Rust 重写 PostgreSQL 组件的尝试声称已通过全部回归测试，显示 Rust 在安全性关键系统中的潜力。虽然不是直接的替代，但这项工作展示了更安全的内存管理与现代工具链对数据库内部实现的潜在影响。",
+      "hn": {
+        "id": 48841676,
+        "type": "story",
+        "by": "SweetSoftPillow",
+        "score": 752,
+        "descendants": 649,
+        "time": 1783577899,
+        "comments_url": "https://news.ycombinator.com/item?id=48841676"
+      },
+      "tags": [
+        "Programming",
+        "Open Source",
+        "Data"
+      ],
+      "hot_score": 1.29
+    },
+    {
+      "title_en": "ChatGPT Work",
+      "url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work/",
+      "title_zh": "ChatGPT 在工作中的应用",
+      "created_display": "Created: Jul 09, 2026 / 10:03 PT",
+      "image_url": "https://images.ctfassets.net/kftzwdyauwt9/6wfXqEBNT0QiATjSpde6f4/fabc58fe0784ec397ec34b9e570e1700/OAI_ChatGPTWork_ProductBlog_OpenGraph_16x9_1200x630.png?w=1600&h=900&fit=fill",
+      "summary_en": "OpenAI positions ChatGPT as a tool for ambitious work, highlighting capabilities for drafting, research, and collaboration in professional contexts. The messaging signals a push to position ChatGPT as a productivity platform for teams.",
+      "summary_zh": "OpenAI 将 ChatGPT 定位为高强度工作场景的工具，突出草拟、研究与协作等功能在专业环境中的应用。此举标志着将 ChatGPT 打造成团队生产力平台的市场策略。",
+      "hn": {
+        "id": 48849059,
+        "type": "story",
+        "by": "Tiberium",
+        "score": 343,
+        "descendants": 177,
+        "time": 1783616633,
+        "comments_url": "https://news.ycombinator.com/item?id=48849059"
+      },
+      "tags": [
+        "AI",
+        "Business"
+      ],
+      "hot_score": 1.16
+    },
+    {
+      "title_en": "The glass backbone: Why the Army's logistics will break in the next war",
+      "url": "https://mwi.westpoint.edu/the-glass-backbone-why-the-armys-logistics-will-break-in-the-next-war/",
+      "title_zh": "玻璃脊梁：未来战争中陆军后勤为何会崩溃",
+      "created_display": "Created: Jul 09, 2026 / 06:24 PT",
+      "image_url": "https://mwi.westpoint.edu/wp-content/uploads/2026/06/9522808.jpg?w=1080",
+      "summary_en": "The piece argues that modern military logistics rely on a fragile, highly digitized backbone, making supply chains vulnerable in future conflicts. It discusses failure points and resilience strategies like redundancy and decentralization.",
+      "summary_zh": "文章认为现代军事后勤以脆弱、高度数字化的骨干为支撑，在未来冲突中极易受到干扰。文中分析潜在崩溃点，并提出通过冗余、去中心化等方式提升韧性的思路。",
+      "hn": {
+        "id": 48845442,
+        "type": "story",
+        "by": "baud147258",
+        "score": 417,
+        "descendants": 558,
+        "time": 1783603483,
+        "comments_url": "https://news.ycombinator.com/item?id=48845442"
+      },
+      "tags": [
+        "Security",
+        "Politics"
+      ],
+      "hot_score": 1.09
+    },
+    {
+      "title_en": "Muse Spark 1.1",
+      "url": "https://ai.meta.com/blog/introducing-muse-spark-meta-model-api/",
+      "title_zh": "Muse Spark 1.1 推出",
+      "created_display": "Created: Jul 09, 2026 / 07:10 PT",
+      "image_url": "https://scontent-dfw5-2.xx.fbcdn.net/v/t39.2365-6/741906678_873652302465180_7764547737953411008_n.png?_nc_cat=104&ccb=1-7&_nc_sid=e280be&_nc_ohc=OlBvaYygvIUQ7kNvwHmjwiS&_nc_oc=Adr3hMlBJkxo7KWiwa6cAnseoZwmCyAz4E8QrUmfT34PBsLcDdsLpWZF1MY3_X8yWmg&_nc_zt=14&_nc_ht=scontent-dfw5-2.xx&_nc_gid=k2g043MR1e0FAib_gLyhYw&_nc_ss=7820f&oh=00_AQAbCNjSYng9ApNBe49G81EWxHKUMStlmHC5lEH23QmyUg&oe=6A6A1EE6",
+      "summary_en": "Meta announces Muse Spark 1.1, an API for deploying and managing models, improving tooling for developers and end-to-end workflows.",
+      "summary_zh": "Meta 公布 Muse Spark 1.1，为开发者提供部署与管理模型的 API，提升工具链与端到端工作流的体验。",
+      "hn": {
+        "id": 48846184,
+        "type": "story",
+        "by": "ot",
+        "score": 393,
+        "descendants": 199,
+        "time": 1783606222,
+        "comments_url": "https://news.ycombinator.com/item?id=48846184"
+      },
+      "tags": [
+        "AI",
+        "DevOps"
+      ],
+      "hot_score": 1.08
+    },
+    {
+      "title_en": "Interview with Mitchell Hashimoto about Ghostty and Zig",
+      "url": "https://alexalejandre.com/programming/interview-with-mitchell-hashimoto/",
+      "title_zh": "Mitchell Hashimoto 对 Ghostty 与 Zig 的访谈",
+      "created_display": "Created: Jul 09, 2026 / 10:17 PT",
+      "image_url": "https://alexalejandre.com//logo100.webp",
+      "summary_en": "Mitchell Hashimoto discusses the Ghostty project and the Zig language, focusing on design decisions, safety, and how these tools fit into modern DevOps and systems work. It offers perspective on building resilient tooling outside mainstream ecosystems.",
+      "summary_zh": "与 Mitchell Hashimoto 就 Ghostty 项目与 Zig 语言进行对话，聚焦设计抉择、安全性以及在现代开发运维和系统工作中的应用前景，提供对打造稳健工具生态的观点。",
+      "hn": {
+        "id": 48849292,
+        "type": "story",
+        "by": "veqq",
+        "score": 305,
+        "descendants": 156,
+        "time": 1783617436,
+        "comments_url": "https://news.ycombinator.com/item?id=48849292"
+      },
+      "tags": [
+        "Programming",
+        "DevOps"
+      ],
+      "hot_score": 1.05
+    },
+    {
+      "title_en": "Parental device use and the adolescent-caregiver attachment bond",
+      "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1766665/full",
+      "title_zh": "父母设备使用与青少年-照护者依恋关系",
+      "created_display": "Created: Jul 09, 2026 / 17:20 PT",
+      "image_url": "https://d2csxpduxe849s.cloudfront.net/media/E32629C6-9347-4F84-81FEAEF7BFA342B3/0F39389F-DE2D-4BF1-AFE71BA9B6F25024/918D96DB-F484-4EC1-8FBF9AB5F74B20F4/WebsiteWebP_XL-FPSYG_Main Visual_Green_Website.webp",
+      "summary_en": "The study investigates how parental device usage during interactions relates to the adolescent-caregiver attachment bond, finding that higher screen usage is linked to weaker attachment quality and less responsive parenting. The findings highlight the fragility of the parent-child bond in the digital era and suggest strategies for mindful tech use at home.",
+      "summary_zh": "研究探讨了父母在互动中使用电子设备对青少年照护者依恋关系的影响，结果显示高屏幕使用与依恋质量下降和反应性下降相关。研究强调数字时代家庭关系的脆弱性，并提出在家庭中实行更有意识的科技使用的策略。",
+      "hn": {
+        "id": 48854247,
+        "type": "story",
+        "by": "hbcondo714",
+        "score": 157,
+        "descendants": 136,
+        "time": 1783642828,
+        "comments_url": "https://news.ycombinator.com/item?id=48854247"
+      },
+      "tags": [
+        "Health",
+        "Education"
+      ],
+      "hot_score": 1.03
+    },
+    {
+      "title_en": "Chatto is now open source",
+      "url": "https://www.hmans.dev/blog/chatto-is-open-source",
+      "title_zh": "Chatto 现已开源",
+      "created_display": "Created: Jul 08, 2026 / 08:19 PT",
+      "image_url": "https://hmans.dev/blog/chatto-is-open-source/banner.png",
+      "summary_en": "Chatto has been released as open source, inviting developers to inspect, contribute, and deploy its chat tooling. The move could spur community-driven improvements, faster adoption, and broader experimentation with chat-powered interfaces.",
+      "summary_zh": "Chatto 已开源，开发者可以审阅、贡献并部署其聊天工具。这一举措有望推动社区协作、加速落地应用并促成更多基于聊天界面的创新。",
+      "hn": {
+        "id": 48833116,
+        "type": "story",
+        "by": "speckx",
+        "score": 1077,
+        "descendants": 298,
+        "time": 1783523990,
+        "comments_url": "https://news.ycombinator.com/item?id=48833116"
+      },
+      "tags": [
+        "Open Source",
+        "Programming"
+      ],
+      "hot_score": 0.97
+    },
+    {
+      "title_en": "A possible future for Damn Interesting",
+      "url": "https://www.damninteresting.com/a-possible-future/",
+      "title_zh": "Damn Interesting 的未来可能走向",
+      "created_display": "Created: Jul 09, 2026 / 08:25 PT",
+      "image_url": "https://damn-8791.kxcdn.com/wp-content/uploads/2026/06/cover.jpg",
+      "summary_en": "The article speculates on how Damn Interesting could evolve in the AI era, potentially adopting new formats and monetization models while preserving its science storytelling focus. It weighs challenges like audience fragmentation and sustainable funding.",
+      "summary_zh": "本文对 Damn Interesting 在 AI 时代的未来走向进行了设想，探讨其在维持科普叙事的同时可能采用的新格式与盈利模式。文章也讨论了观众分化与长期资金可持续性等挑战。",
+      "hn": {
+        "id": 48847511,
+        "type": "story",
+        "by": "mzur",
+        "score": 300,
+        "descendants": 40,
+        "time": 1783610725,
+        "comments_url": "https://news.ycombinator.com/item?id=48847511"
+      },
+      "tags": [
+        "AI",
+        "Culture"
+      ],
+      "hot_score": 0.9
+    },
+    {
+      "title_en": "Rewriting Bun in Rust",
+      "url": "https://bun.com/blog/bun-in-rust",
+      "title_zh": "用 Rust 重写 Bun",
+      "created_display": "Created: Jul 08, 2026 / 14:49 PT",
+      "image_url": "https://bun.com/logo.svg",
+      "summary_en": "Bun, the fast JavaScript runtime, is being rewritten in Rust, a move aimed at boosting performance and ecosystem stability, but it also raises questions about compatibility.",
+      "summary_zh": "Bun 的核心将用 Rust 重写，旨在提升性能与生态稳定性，但也带来兼容性与迁移方面的挑战。",
+      "hn": {
+        "id": 48837877,
+        "type": "story",
+        "by": "afturner",
+        "score": 759,
+        "descendants": 511,
+        "time": 1783547399,
+        "comments_url": "https://news.ycombinator.com/item?id=48837877"
+      },
+      "tags": [
+        "Programming",
+        "Open Source"
+      ],
+      "hot_score": 0.88
+    },
+    {
+      "title_en": "No leap second will be introduced at the end of December 2026",
+      "url": "https://datacenter.iers.org/data/latestVersion/bulletinC.txt",
+      "title_zh": "2026 年底将不再加入闰秒",
+      "created_display": "Created: Jul 09, 2026 / 07:16 PT",
+      "image_url": null,
+      "summary_en": "The International Earth Rotation and Reference Systems Service confirms no leap second will be added at the end of 2026. This continues a trend toward simpler, predictable timekeeping for distributed systems. Engineers should plan around a leap-second-free timeline while staying alert for policy updates.",
+      "summary_zh": "国际时刻参考系统宣布 2026 年底不再添加闰秒。这延续了简化且可预测的全球时间计量趋势，便于分布式系统的时钟同步。工程师应在无闰秒的时间线下开展计划，并关注未来的政策变动。",
+      "hn": {
+        "id": 48846281,
+        "type": "story",
+        "by": "ChrisArchitect",
+        "score": 303,
+        "descendants": 232,
+        "time": 1783606594,
+        "comments_url": "https://news.ycombinator.com/item?id=48846281"
+      },
+      "tags": [
+        "Science"
+      ],
+      "hot_score": 0.84
+    },
+    {
+      "title_en": "GLM 5.2 is nearly as accurate as a human book keeper",
+      "url": "https://toot-books.pages.dev/blog/glm-5-2-vat-benchmark",
+      "title_zh": "GLM 5.2 的准确度几乎达到人类簿记员水平",
+      "created_display": "Created: Jul 09, 2026 / 11:29 PT",
+      "image_url": "https://toot-books.pages.dev/assets/icon-512.png",
+      "summary_en": "GLM 5.2 achieves VAT benchmark accuracy close to human bookkeepers, showing AI's growing competence in financial tasks. This underscores how automated accounting could reshape back-office operations, prompting discussions on reliability and controls.",
+      "summary_zh": "GLM 5.2 在 VAT 基准测试中的表现接近人类簿记员的水平，体现了 AI 在财务任务上的进步。这将推动自动化记账改变后台运营，同时引发关于可靠性与审控的讨论。",
+      "hn": {
+        "id": 48850414,
+        "type": "story",
+        "by": "adamkurkiewicz",
+        "score": 214,
+        "descendants": 117,
+        "time": 1783621781,
+        "comments_url": "https://news.ycombinator.com/item?id=48850414"
+      },
+      "tags": [
+        "AI",
+        "Finance"
+      ],
+      "hot_score": 0.81
+    },
+    {
+      "title_en": "Grok 4.5",
+      "url": "https://x.ai/news/grok-4-5",
+      "title_zh": "Grok 4.5",
+      "created_display": "Created: Jul 08, 2026 / 11:00 PT",
+      "image_url": "https://x.ai/images/news/grok-4-5-og.png",
+      "summary_en": "Grok 4.5 extends the AI assistant's capabilities with better memory, smarter task planning, and improved tool integration. The release emphasizes more reliable automation and streamlined workflows for building AI-powered assistants.",
+      "summary_zh": "Grok 4.5 在记忆、任务规划及对外部工具接入方面有显著提升，提升了自动化的可靠性。此次更新聚焦为构建 AI 助手提供更顺畅的工作流和更高的可用性。",
+      "hn": {
+        "id": 48835111,
+        "type": "story",
+        "by": "BoumTAC",
+        "score": 766,
+        "descendants": 1452,
+        "time": 1783533632,
+        "comments_url": "https://news.ycombinator.com/item?id=48835111"
+      },
+      "tags": [
+        "AI",
+        "Programming"
+      ],
+      "hot_score": 0.76
+    },
+    {
+      "title_en": "GPT‑Live",
+      "url": "https://openai.com/index/introducing-gpt-live/",
+      "title_zh": "GPT-Live",
+      "created_display": "Created: Jul 08, 2026 / 10:03 PT",
+      "image_url": "https://images.ctfassets.net/kftzwdyauwt9/54glGpDpS58mKdx6Y3GobW/6ea5121851a36b8cf0505a96be2de994/bidi-art-card_16_9__1_.png?w=1600&h=900&fit=fill",
+      "summary_en": "GPT-Live introduces live, real-time interactions with updated data and external tools, enabling more dynamic conversations. It signals a shift toward apps that continuously consume streams of information rather than static prompts.",
+      "summary_zh": "GPT-Live 引入实时、动态的数据和外部工具交互，使对话具有更即时的更新能力。此举推动应用从静态提示向持续获取信息的对话体验转变。",
+      "hn": {
+        "id": 48834405,
+        "type": "story",
+        "by": "logickkk1",
+        "score": 745,
+        "descendants": 520,
+        "time": 1783530199,
+        "comments_url": "https://news.ycombinator.com/item?id=48834405"
+      },
+      "tags": [
+        "AI"
+      ],
+      "hot_score": 0.71
+    },
+    {
+      "title_en": "Bonnie Tyler has died",
+      "url": "https://www.bbc.com/news/articles/cg5pd9z2487o",
+      "title_zh": "邦妮·泰勒去世",
+      "created_display": "Created: Jul 09, 2026 / 03:02 PT",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/34b8/live/e78d6300-7b7c-11f1-9510-1546718f668b.png",
+      "summary_en": "Iconic vocalist Bonnie Tyler has died, marking the end of an era defined by raspy, powerful ballads that helped shape the sound of 1980s rock. Her signature tracks and unmistakable voice continue to resonate on streaming playlists and in covers, keeping her legacy alive for new generations.",
+      "summary_zh": "著名歌手邦妮·泰勒去世，标志着以粗哑嗓音和强烈情感著称的80年代摇滚风格时代的告别。她的代表作与独特嗓音在流媒体歌单和翻唱作品中持续回响，确保了她的音乐遗产得以传承。",
+      "hn": {
+        "id": 48843438,
+        "type": "story",
+        "by": "theanonymousone",
+        "score": 334,
+        "descendants": 126,
+        "time": 1783591353,
+        "comments_url": "https://news.ycombinator.com/item?id=48843438"
+      },
+      "hot_score": 0.71,
+      "tags": [
+        "Entertainment"
+      ]
+    },
+    {
+      "title_en": "US seeks cheaper hunter-killer drones after Iran destroys $1B worth of Reapers",
+      "url": "https://arstechnica.com/gadgets/2026/07/us-seeks-cheaper-hunter-killer-drones-after-iran-destroys-1b-worth-of-reapers/",
+      "title_zh": "美国在伊朗摧毁价值10亿美元的 Reaper 无人机后寻求更便宜的猎杀型无人机",
+      "created_display": "Created: Jul 09, 2026 / 06:29 PT",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/Reaper-drone-1152x648.jpg",
+      "summary_en": "After Iran destroyed a $1 billion fleet of MQ-9 Reaper drones, the US is pursuing cheaper hunter-killer alternatives to bolster resilience and reduce single-point vulnerability. The move highlights how high-value platforms can be cost-prohibitive to replace and may accelerate shifts toward modular, lower-cost, and potentially more autonomous systems.",
+      "summary_zh": "在伊朗摧毁价值10亿美元的 MQ-9 Reaper 无人机后，美国正寻求成本更低的猎杀型替代方案以提升韧性并降低单点脆弱性。此举凸显高价值平台的替换成本高，可能加速向模块化、低成本以及更具自主性的系统转型。",
+      "hn": {
+        "id": 48845514,
+        "type": "story",
+        "by": "rbanffy",
+        "score": 266,
+        "descendants": 325,
+        "time": 1783603771,
+        "comments_url": "https://news.ycombinator.com/item?id=48845514"
+      },
+      "hot_score": 0.7,
+      "tags": [
+        "Security",
+        "Business"
+      ]
+    },
+    {
+      "title_en": "AI content is everywhere on social media, especially LinkedIn",
+      "url": "https://www.pangram.com/blog/ai-in-your-feed",
+      "title_zh": "社交媒体上的 AI 内容无处不在，LinkedIn 尤为明显",
+      "created_display": "Created: Jul 09, 2026 / 08:50 PT",
+      "image_url": "https://cdn.sanity.io/images/6vunltag/production/3c7bf7b542469d5572d664f321ec376ef719a9fe-1200x630.png",
+      "summary_en": "AI-generated content is proliferating across social media, with LinkedIn showing a particularly high share. This trend accelerates content production for professionals but also challenges readers to assess authenticity and credibility. Platform policies and signal reliability will be key to preserving trust as feeds become more automated.",
+      "summary_zh": "AI 生成的内容正在社交媒体中迅速蔓延，LinkedIn 的表现尤为突出。这一趋势提高了专业内容的产出效率，同时也让读者在辨别真实性和可信度方面面临挑战。平台的信号质量与监管政策将决定在日益自动化的信息流中的信任水平。",
+      "hn": {
+        "id": 48847940,
+        "type": "story",
+        "by": "mukmuk",
+        "score": 227,
+        "descendants": 206,
+        "time": 1783612209,
+        "comments_url": "https://news.ycombinator.com/item?id=48847940"
+      },
+      "tags": [
+        "AI"
+      ],
+      "hot_score": 0.7
+    },
+    {
+      "title_en": "Why developers are ditching GitHub for Codeberg and self-hosting alternatives",
+      "url": "https://www.howtogeek.com/why-developers-are-ditching-github-for-codeberg-and-self-hosting-alternatives/",
+      "title_zh": "为何开发者弃用 GitHub 转投 Codeberg 与自托管替代方案",
+      "created_display": "Created: Jul 09, 2026 / 01:22 PT",
+      "image_url": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2025/07/concept-of-computer-programming-or-developing-software-laptop-computer-with-code-on-screen-heart-message-cog-home-user-cloud-and-lock-icons.jpg?w=1600&h=900&fit=crop",
+      "summary_en": "A growing share of developers are moving away from GitHub toward Codeberg and other self-hosted options due to concerns about data sovereignty, privacy, and platform control. These alternatives offer open-source stacks and greater compliance flexibility, but they trade ecosystem scale and tooling maturity.",
+      "summary_zh": "越来越多的开发者正在离开 GitHub，转向 Codeberg 与自托管的代码托管方案，原因包括数据主权、隐私与对平台控制权的考量。这些替代方案提供开源栈和更灵活的合规性，但在生态规模和工具链的成熟度上需要权衡。",
+      "hn": {
+        "id": 48842611,
+        "type": "story",
+        "by": "Gedxx",
+        "score": 357,
+        "descendants": 250,
+        "time": 1783585372,
+        "comments_url": "https://news.ycombinator.com/item?id=48842611"
+      },
+      "tags": [
+        "Open Source",
+        "Privacy",
+        "Programming"
+      ],
+      "hot_score": 0.69
+    },
+    {
+      "title_en": "A road to Lisp: Why Lisp",
+      "url": "https://scotto.me/blog/2026-07-09-why-lisp/",
+      "title_zh": "走向 Lisp 的路：为何学习 Lisp",
+      "created_display": "Created: Jul 09, 2026 / 06:06 PT",
+      "image_url": "https://scotto.me/og/2026-07-09-why-lisp.png",
+      "summary_en": "Explores why Lisp remains relevant: powerful macros, homoiconicity, and influence on modern language design and tooling.",
+      "summary_zh": "探讨 Lisp 仍具相关性的原因：强大的宏、同构性以及对现代语言设计和工具链的影响。",
+      "hn": {
+        "id": 48845209,
+        "type": "story",
+        "by": "silcoon",
+        "score": 268,
+        "descendants": 244,
+        "time": 1783602364,
+        "comments_url": "https://news.ycombinator.com/item?id=48845209"
+      },
+      "tags": [
+        "Programming"
+      ],
+      "hot_score": 0.69
+    },
+    {
+      "title_en": "TypeScript 7",
+      "url": "https://devblogs.microsoft.com/typescript/announcing-typescript-7-0/",
+      "title_zh": "TypeScript 7",
+      "created_display": "Created: Jul 08, 2026 / 09:06 PT",
+      "image_url": "https://devblogs.microsoft.com/typescript/wp-content/uploads/sites/11/2026/07/ts7-0-stable-1-1.png",
+      "summary_en": "TypeScript 7 brings major improvements to the type system, smarter inference, and faster builds, plus new compiler features that reduce runtime errors. It also updates project configuration and editor tooling.",
+      "summary_zh": "TypeScript 7 对类型系统、推断能力和构建速度带来重大改进，并引入新的编译器特性以降低运行时错误。此次发布还对项目配置和编辑器工具链进行了更新。",
+      "hn": {
+        "id": 48833715,
+        "type": "story",
+        "by": "DanRosenwasser",
+        "score": 707,
+        "descendants": 298,
+        "time": 1783526795,
+        "comments_url": "https://news.ycombinator.com/item?id=48833715"
+      },
+      "tags": [
+        "Programming"
+      ],
+      "hot_score": 0.65
+    },
+    {
+      "title_en": "I think I have LLM burnout",
+      "url": "https://www.alecscollon.com/blog/llm-burnout/",
+      "title_zh": "我可能得了 LLM 倦怠",
+      "created_display": "Created: Jul 08, 2026 / 18:56 PT",
+      "image_url": null,
+      "summary_en": "The author writes about burnout from relentless AI chatter and feature pressure, urging more sustainable AI workflows and attention to mental health in AI teams.",
+      "summary_zh": "作者谈及对持续的AI热潮和功能压力带来的倦怠，倡导建立更可持续的AI工作流并关注团队的心理健康。",
+      "hn": {
+        "id": 48839984,
+        "type": "story",
+        "by": "sosodev",
+        "score": 395,
+        "descendants": 349,
+        "time": 1783562188,
+        "comments_url": "https://news.ycombinator.com/item?id=48839984"
+      },
+      "tags": [
+        "Health",
+        "AI"
+      ],
+      "hot_score": 0.55
+    },
+    {
+      "title_en": "Cloudflare Drop",
+      "url": "https://www.cloudflare.com/drop/",
+      "title_zh": "Cloudflare Drop",
+      "created_display": "Created: Jul 08, 2026 / 12:18 PT",
+      "image_url": "https://www.cloudflare.com/_summon/og-image.png",
+      "summary_en": "A new Cloudflare project named Drop signals a new product direction from the company.",
+      "summary_zh": "Cloudflare 推出名为 Drop 的新项目，暗示公司将进入一个新的产品方向。",
+      "hn": {
+        "id": 48836233,
+        "type": "story",
+        "by": "coloneltcb",
+        "score": 521,
+        "descendants": 280,
+        "time": 1783538306,
+        "comments_url": "https://news.ycombinator.com/item?id=48836233"
+      },
+      "tags": [
+        "Business"
+      ],
+      "hot_score": 0.54
+    },
+    {
+      "title_en": "FAANG Simulator",
+      "url": "https://www.abeyk.com/escape-the-rat-race/",
+      "title_zh": "FAANG 模拟器",
+      "created_display": "Created: Jul 08, 2026 / 13:05 PT",
+      "image_url": "https://www.abeyk.com/escape-the-rat-race/og.png",
+      "summary_en": "A practical practice tool designed to simulate FAANG-style interviews, offering prompts, scoring, and feedback to help candidates prepare for big-tech interviews. By exposing candidates to typical formats and questions, it shortens the learning curve and boosts confidence.",
+      "summary_zh": "这款工具旨在模拟 FAANG 风格的面试，提供题目、打分与反馈，帮助候选人系统备考。通过重复练习常见题型，降低上岸门槛，提升自信与表现。",
+      "hn": {
+        "id": 48836778,
+        "type": "story",
+        "by": "nerdbiscuits",
+        "score": 487,
+        "descendants": 193,
+        "time": 1783541142,
+        "comments_url": "https://news.ycombinator.com/item?id=48836778"
+      },
+      "tags": [
+        "Career"
+      ],
+      "hot_score": 0.52
+    },
+    {
+      "title_en": "TLS certificates for internal services done right",
+      "url": "https://tuxnet.dev/posts/tls-for-internal-services/",
+      "title_zh": "内部服务的 TLS 证书正确配置",
+      "created_display": "Created: Jul 09, 2026 / 07:57 PT",
+      "image_url": "https://tuxnet.dev/img/this-is-the-way.webp",
+      "summary_en": "Best practices for issuing and rotating TLS certificates for internal services, emphasizing automation, short-lived certs, and mTLS between services. Proper internal PKI reduces risk and improves security for service-to-service communication.",
+      "summary_zh": "内部服务 TLS 证书的最佳实践，聚焦自动化、短期证书和服务间 mTLS。健全的内部公钥基础设施能降低横向渗透风险，提升微服务间通信的安全性。",
+      "hn": {
+        "id": 48846995,
+        "type": "story",
+        "by": "mrl5",
+        "score": 172,
+        "descendants": 127,
+        "time": 1783609022,
+        "comments_url": "https://news.ycombinator.com/item?id=48846995"
+      },
+      "tags": [
+        "Security",
+        "DevOps"
+      ],
+      "hot_score": 0.5
+    },
+    {
+      "title_en": "Spider venom kills varroa mites without harming honeybees",
+      "url": "https://connectsci.au/news/news-parent/9703/Spider-venom-kills-varroa-mites-without-harming",
+      "title_zh": "蜘蛛毒素能杀死瓦螨而不伤蜜蜂",
+      "created_display": "Created: Jul 08, 2026 / 22:14 PT",
+      "image_url": null,
+      "summary_en": "Spider venom has been shown to kill Varroa destructor mites without harming honeybees, offering a potential breakthrough for beekeeping. If scalable, it could reduce colony losses and chemical miticide use, though delivery methods and safety will matter for adoption.",
+      "summary_zh": "某种蜘蛛毒素可杀死瓦螨而不伤蜜蜂，为养蜂业带来或许的突破。若能规模化，可能降低蜂群损失与化学杀螨剂的使用，但投放方式、特异性与安全性将决定其推广程度。",
+      "hn": {
+        "id": 48841259,
+        "type": "story",
+        "by": "Jedd",
+        "score": 300,
+        "descendants": 140,
+        "time": 1783574085,
+        "comments_url": "https://news.ycombinator.com/item?id=48841259"
+      },
+      "tags": [
+        "Science"
+      ],
+      "hot_score": 0.49
+    },
+    {
+      "title_en": "EU now one step away from reviving private message scanning rules",
+      "url": "https://cyberinsider.com/eu-now-one-step-away-from-reviving-private-message-scanning-rules/",
+      "title_zh": "欧盟只差一步就能重新启用私信扫描规则",
+      "created_display": "Created: Jul 08, 2026 / 09:53 PT",
+      "image_url": "https://cyberinsider.com/wp-content/uploads/2026/07/EU-now-one-step-away-from-reviving-private-message-scanning-rules.jpg",
+      "summary_en": "The EU is nearing revival of private-message scanning rules, aiming to mandate messaging platforms to scan private content for illegal activity. The move would reshape safety vs. privacy dynamics, pressuring platforms to deploy more aggressive monitoring and data processing.",
+      "summary_zh": "欧盟正在推动重新启用对私信的内容扫描规则，拟要求通讯平台对私人内容进行非法活动的检测。此举将重新定义安全与隐私的平衡，推动更大规模的监控与数据处理，并引发隐私担忧。",
+      "hn": {
+        "id": 48834296,
+        "type": "story",
+        "by": "ggirelli",
+        "score": 453,
+        "descendants": 181,
+        "time": 1783529586,
+        "comments_url": "https://news.ycombinator.com/item?id=48834296"
+      },
+      "tags": [
+        "Privacy",
+        "Politics"
+      ],
+      "hot_score": 0.43
+    },
+    {
+      "title_en": "Mistral's Robostral Navigate: a state of the art robotics navigation model",
+      "url": "https://mistral.ai/news/robostral-navigate/",
+      "title_zh": "Mistral 的 Robostral Navigate：前沿机器人导航模型",
+      "created_display": "Created: Jul 08, 2026 / 07:09 PT",
+      "image_url": "https://mistral.ai/cms-media/api/media/file/Robostral-navigate.jpg",
+      "summary_en": "Mistral unveils Robostral Navigate, a state-of-the-art robotics navigation model designed to improve real-time planning, obstacle avoidance, and multi-sensor fusion. Early demonstrations suggest stronger robustness and efficiency in dynamic environments, with broad potential for logistics and service robotics.",
+      "summary_zh": "Mistral 发布 Robostral Navigate，这是一款前沿的机器人导航模型，聚焦实时规划、避障和多传感器融合。早期演示显示在动态环境中具备更强鲁棒性与效率，未来可能推动物流、服务机器人等领域。",
+      "hn": {
+        "id": 48832212,
+        "type": "story",
+        "by": "ottomengis",
+        "score": 485,
+        "descendants": 110,
+        "time": 1783519757,
+        "comments_url": "https://news.ycombinator.com/item?id=48832212"
+      },
+      "tags": [
+        "AI"
+      ],
+      "hot_score": 0.42
+    },
+    {
+      "title_en": "Opinionated and easy Pi.dev configuration",
+      "url": "https://lazypi.org/",
+      "title_zh": "对 Pi.dev 配置的主张式与易用性",
+      "created_display": "Created: Jul 09, 2026 / 08:19 PT",
+      "image_url": "https://lazypi.org/og.png",
+      "summary_en": "The post argues for an opinionated, easy-to-use configuration style for Pi.dev, emphasizing sensible defaults and developer ergonomics. The goal is to reduce cognitive load while keeping builds predictable.",
+      "summary_zh": "本文主张为 Pi.dev 提供更为固定化、易用的配置风格，强调合理的默认选项与开发者体验。目标是在降低认知负担的同时保持构建的可预测性。",
+      "hn": {
+        "id": 48847407,
+        "type": "story",
+        "by": "lwhsiao",
+        "score": 136,
+        "descendants": 70,
+        "time": 1783610373,
+        "comments_url": "https://news.ycombinator.com/item?id=48847407"
+      },
+      "tags": [
+        "Programming"
+      ],
+      "hot_score": 0.4
+    },
+    {
+      "title_en": "Show HN: Microsoft releases Flint, a visualization language for AI agents",
+      "url": "https://microsoft.github.io/flint-chart/#/",
+      "title_zh": "Show HN：微软发布 Flint——用于 AI 代理的可视化语言",
+      "created_display": "Created: Jul 08, 2026 / 10:46 PT",
+      "image_url": null,
+      "summary_en": "Flint provides a visual language to model data flows, decisions, and actions for AI agents, enabling rapid prototyping without heavy coding. By graphically mapping agent behavior, teams can design, test, and debug multi-step workflows more efficiently.",
+      "summary_zh": "Flint 提供一种用于 AI 代理的数据流、决策点和执行动作的可视化语言，使团队可以在不写大量代码的情况下快速原型。通过图形化表示代理行为，设计、测试和调试多步骤工作流的效率将显著提升。",
+      "hn": {
+        "id": 48834924,
+        "type": "story",
+        "by": "chenglong-hn",
+        "score": 343,
+        "descendants": 134,
+        "time": 1783532772,
+        "comments_url": "https://news.ycombinator.com/item?id=48834924"
+      },
+      "tags": [
+        "Show HN",
+        "AI",
+        "Programming"
+      ],
+      "hot_score": 0.34
+    },
+    {
+      "title_en": "PlayStation can delete all your digital games after 3 years of inactivity (EU)",
+      "url": "https://www.flatpanelshd.com/news.php?subaction=showfull&id=1783340582",
+      "title_zh": "欧盟规则可能使 PlayStation 在3年不活跃后删除所有数字游戏",
+      "created_display": "Created: Jul 08, 2026 / 10:45 PT",
+      "image_url": "https://www.flatpanelshd.com/pictures/pslimits_small.jpg",
+      "summary_en": "European rules could allow platforms like PlayStation to delete all digital games after three years of inactivity, prompting concerns about digital ownership and long-term access. The move underscores how regulatory compliance can reshape access to purchased content and the importance of retention and export options.",
+      "summary_zh": "欧盟规定可能允许平台在账户三年不活跃后删除数字游戏，PlayStation 可能因此删除全部数字藏品，引发对数字所有权和长期访问的担忧。这一举动凸显监管要求如何改变对已购内容的访问，并凸显留存与导出选项的重要性。",
+      "hn": {
+        "id": 48834919,
+        "type": "story",
+        "by": "thewebguyd",
+        "score": 284,
+        "descendants": 153,
+        "time": 1783532726,
+        "comments_url": "https://news.ycombinator.com/item?id=48834919"
+      },
+      "tags": [
+        "Politics",
+        "Legal",
+        "Gaming"
+      ],
+      "hot_score": 0.28
+    },
+    {
+      "title_en": "Separating signal from noise in coding evaluations",
+      "url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations/",
+      "title_zh": "在编码评估中分辨信号与噪声",
+      "created_display": "Created: Jul 08, 2026 / 14:03 PT",
+      "image_url": "https://images.ctfassets.net/kftzwdyauwt9/5f0Xf4wOuXVsX7TZUM4tjl/4672bf7bf93bad67ade28dce57f62638/Seperating-signal-from-noise-SEO.png?w=1600&h=900&fit=fill",
+      "summary_en": "With coding evaluations proliferating in tech hiring, signal can get buried under noise. This piece advocates rigorous evaluation practices—multimetric scoring, blind reviews, and reproducible benchmarks—to measure real coding ability rather than test-taking tricks.",
+      "summary_zh": "在技术招聘中，编码评估常被大量测试淹没信号。文章主张通过多元指标、盲评和可复现的基准来提炼有用信息，聚焦真实的编程能力，而非考试技巧。",
+      "hn": {
+        "id": 48837396,
+        "type": "story",
+        "by": "sk4rekr0w",
+        "score": 238,
+        "descendants": 93,
+        "time": 1783544631,
+        "comments_url": "https://news.ycombinator.com/item?id=48837396"
+      },
+      "tags": [
+        "Career"
+      ],
+      "hot_score": 0.27
+    },
+    {
+      "title_en": "SWE-1.7 Reach Near GPT 5.5 and Opus Intelligence",
+      "url": "https://cognition.com/blog/swe-1-7",
+      "title_zh": "SWE-1.7 接近 GPT‑5.5 与 Opus Intelligence",
+      "created_display": "Created: Jul 08, 2026 / 09:19 PT",
+      "image_url": "https://cognition.com/images/swe-1-7/swe-1-7-og.png",
+      "summary_en": "SWE-1.7 pushes software-engineering AI features toward parity with GPT-5.5 and the Opus Intelligence framework, signaling how AI copilots may soon assist developers more deeply. The discussion covers implications for coding workflows, tool integration, and how teams should architect AI-powered systems. Expect faster prototyping and smarter automation as these capabilities mature.",
+      "summary_zh": "SWE-1.7 的进展让软件工程领域的 AI 辅助能力接近 GPT-5.5 水平与 Opus Intelligence 框架的表现，意味着 AI 助手在编码工作流中的作用将更深。文章探讨了对代码工作流、工具整合以及构建 AI 驱动系统的影响。随着能力成熟，原型设计和自动化水平将显著提升。",
+      "hn": {
+        "id": 48833866,
+        "type": "story",
+        "by": "mekpro",
+        "score": 270,
+        "descendants": 139,
+        "time": 1783527576,
+        "comments_url": "https://news.ycombinator.com/item?id=48833866"
+      },
+      "tags": [
+        "AI"
+      ],
+      "hot_score": 0.25
+    },
+    {
+      "title_en": "The classifiers Anthropic puts in front of Fable are too zealous",
+      "url": "https://combine-lab.github.io/blog/2026/07/07/fable-is-not-a-useful-model.html",
+      "title_zh": "Anthropic 为 Fable 设置的分类器过于严苛",
+      "created_display": "Created: Jul 08, 2026 / 13:41 PT",
+      "image_url": "https://combine-lab.github.io/icons/share-thumbnail.jpg",
+      "summary_en": "Anthropic's safety classifiers used for Fable are criticized as being overly aggressive, making the model less useful in practice. The critique argues for more nuanced alignment to avoid blocking benign content while still guarding against harm.",
+      "summary_zh": "关于 Anthropic 为 Fable 设置的安全分类器，被批评过于严苛，削弱了模型的实用性。该评议呼吁在防护与可用性之间取得更细致的对齐，避免误封有害内容。",
+      "hn": {
+        "id": 48837162,
+        "type": "story",
+        "by": "karrot-kake",
+        "score": 214,
+        "descendants": 189,
+        "time": 1783543293,
+        "comments_url": "https://news.ycombinator.com/item?id=48837162"
+      },
+      "tags": [
+        "AI"
+      ],
+      "hot_score": 0.24
+    },
+    {
+      "title_en": "Turning a pile of documents into a searchable useable knowledge base",
+      "url": "https://github.com/linuxrebel/DocuBrowser",
+      "title_zh": "把一堆文档变成可检索的知识库",
+      "created_display": "Created: Jul 08, 2026 / 13:37 PT",
+      "image_url": "https://opengraph.githubassets.com/c5f8d8b9ce781d694391ea1c00c1565438580960d12eb1fa978f7aba85f9c2d4/linuxrebel/DocuBrowser",
+      "summary_en": "A project demonstrates practical methods for turning scattered documents into a searchable knowledge base, using indexing, OCR, and semantic search to unlock usable information. It showcases how lightweight tooling can dramatically improve personal data organization and retrieval.",
+      "summary_zh": "一个项目展示了将散落的文档转化为可检索知识库的实用方法，结合索引、OCR和语义检索来提取可用信息。此举凸显了轻量级工具在个人数据整理与检索中的显著效用。",
+      "hn": {
+        "id": 48837110,
+        "type": "story",
+        "by": "linuxrebe1",
+        "score": 191,
+        "descendants": 54,
+        "time": 1783543049,
+        "comments_url": "https://news.ycombinator.com/item?id=48837110"
+      },
+      "hot_score": 0.21,
+      "tags": [
+        "Data"
+      ]
+    },
+    {
+      "title_en": "We made Grok 4.5, GPT-5.5, and Claude build the same apps",
+      "url": "https://www.tryai.dev/blog/grok-4.5-vs-gpt-5.5-vs-claude-build-off",
+      "title_zh": "我们让 Grok 4.5、GPT‑5.5 与 Claude 一起构建同样的应用",
+      "created_display": "Created: Jul 08, 2026 / 16:27 PT",
+      "image_url": "https://www.tryai.dev/blog/grok-4.5-vs-gpt-5.5-vs-claude-build-off/opengraph-image-yqks0s?3313ef8f7f360358",
+      "summary_en": "A build-off comparing Grok 4.5, GPT-5.5, and Claude shows that all three models can independently produce the same apps, illustrating cross-model parity and the practical limits of AI-assisted development. The results help set expectations for developers using multi-LLM toolchains.",
+      "summary_zh": "对比测试表明，Grok 4.5、GPT‑5.5 与 Claude 都能独立构建出相同的应用，显示出跨模型的能力接近及 AI 辅助开发的现实边界。结果为使用多模型工具链的开发者设定了期望值。",
+      "hn": {
+        "id": 48838772,
+        "type": "story",
+        "by": "hershyb_",
+        "score": 172,
+        "descendants": 92,
+        "time": 1783553234,
+        "comments_url": "https://news.ycombinator.com/item?id=48838772"
+      },
+      "hot_score": 0.21,
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "title_en": "What Do We Know About the Microplastics Inside Us?",
+      "url": "https://e360.yale.edu/features/cassandra-rauert-interview",
+      "title_zh": "我们体内的微塑料到底有多少？",
+      "created_display": "Created: Jul 08, 2026 / 10:43 PT",
+      "image_url": "https://yale-threesixty.transforms.svdcdn.com/production/Plastic-Fingertips_Getty-HEADER.jpg?w=1200&q=60&auto=format&fit=max&dm=1783439743&s=6ae88795970a9e9a134849ba859c0c1a",
+      "summary_en": "New reporting highlights detectable microplastics in human tissues, sourced from food and environment, with uncertain long-term health effects. The piece underscores pervasive exposure and the need for further research, stronger regulation, and safer product design.",
+      "summary_zh": "最新报道揭示人体组织中可检测的微塑料来自食物与环境，长期健康影响尚不明确。文章强调暴露普遍性与需要进一步研究、加强监管和更安全的产品设计。",
+      "hn": {
+        "id": 48834898,
+        "type": "story",
+        "by": "speckx",
+        "score": 192,
+        "descendants": 115,
+        "time": 1783532617,
+        "comments_url": "https://news.ycombinator.com/item?id=48834898"
+      },
+      "tags": [
+        "Science",
+        "Health",
+        "Politics"
+      ],
+      "hot_score": 0.19
+    },
+    {
+      "title_en": "FDA rejects petition to set PFAS limits in food",
+      "url": "https://www.theguardian.com/us-news/2026/jul/08/us-food-and-drug-administration-rejects-petition-to-set-pfas-limits-in-food",
+      "title_zh": "FDA 拒绝设定食品中 PFAS 限制的请愿",
+      "created_display": "Created: Jul 08, 2026 / 06:35 PT",
+      "image_url": "https://i.guim.co.uk/img/media/2518abf49f6ed84a215491519f17fd6b85e003d0/407_0_4725_3783/master/4725.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3c262d2fd22dd5bf6b64d3feb831ce8d",
+      "summary_en": "FDA rejects a petition to set PFAS limits in food, leaving potential federal caps out of reach. The decision underscores ongoing regulatory uncertainty around PFAS exposure and the balance between risk, industry burden, and consumer safety.",
+      "summary_zh": "FDA 拒绝设定食品中 PFAS 限制的请愿，联邦上限尚未确立。此举凸显 PFAS 暴露的监管不确定性，以及在公共健康与行业负担之间寻求平衡的挑战。",
+      "hn": {
+        "id": 48831785,
+        "type": "story",
+        "by": "randycupertino",
+        "score": 217,
+        "descendants": 147,
+        "time": 1783517759,
+        "comments_url": "https://news.ycombinator.com/item?id=48831785"
+      },
+      "tags": [
+        "Health",
+        "Legal",
+        "Politics"
+      ],
+      "hot_score": 0.18
+    },
+    {
+      "title_en": "New Sweden: the US's long-lost 'secret' colony",
+      "url": "https://www.bbc.com/travel/article/20260629-new-sweden-the-uss-long-lost-secret-colony",
+      "title_zh": "新瑞典：美国长期被遗忘的“秘密”殖民地",
+      "created_display": "Created: Jul 08, 2026 / 12:26 PT",
+      "image_url": "https://ychef.files.bbci.co.uk/624x351/p0nvtng9.jpg",
+      "summary_en": "New Sweden refers to the 17th-century Swedish colony along the Delaware River, and recent explorations highlight its role in early North American colonization. The piece connects archaeology and maps to reveal forgotten trade networks and cultural exchange in the colonial era.",
+      "summary_zh": "新瑞典指17世纪在德拉瓦河沿岸的瑞典殖民地，近期考古与地图研究揭示其在北美早期殖民中的作用。该文将考古学与地图联系起来，勾勒出当时的贸易网络与文化交流。",
+      "hn": {
+        "id": 48836324,
+        "type": "story",
+        "by": "bookofjoe",
+        "score": 165,
+        "descendants": 75,
+        "time": 1783538778,
+        "comments_url": "https://news.ycombinator.com/item?id=48836324"
+      },
+      "hot_score": 0.17,
+      "tags": [
+        "Culture"
+      ]
+    },
+    {
+      "title_en": "Benchmarking coding agents on Databricks' multi-million line codebase",
+      "url": "https://www.databricks.com/blog/benchmarking-coding-agents-databricks-multi-million-line-codebase",
+      "title_zh": "在 Databricks 的数百万行代码库上对编码代理进行基准测试",
+      "created_display": "Created: Jul 08, 2026 / 14:30 PT",
+      "image_url": "https://www.databricks.com/sites/default/files/2026-07/pareto-cropped-1.png",
+      "summary_en": "Databricks benchmarks coding agents against a massive codebase spanning millions of lines, evaluating how well AI copilots navigate real-world software projects. The results illuminate challenges and opportunities for deploying AI-powered development at scale.",
+      "summary_zh": "Databricks 在一个数百万行代码的大型代码库上对编码代理进行了基准测试，评估 AI 助手在真实项目中的导航能力。结果揭示了在大规模企业开发中部署 AI 的挑战与潜力。",
+      "hn": {
+        "id": 48837696,
+        "type": "story",
+        "by": "tanelpoder",
+        "score": 148,
+        "descendants": 66,
+        "time": 1783546209,
+        "comments_url": "https://news.ycombinator.com/item?id=48837696"
+      },
+      "hot_score": 0.17,
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "title_en": "Suspecting AI cheating, Ivy League prof ordered in-person final; scores fell 50%",
+      "url": "https://arstechnica.com/ai/2026/07/we-cannot-choose-to-become-idiots-the-ai-cheating-scandal-roiling-brown-university/",
+      "title_zh": "因怀疑 AI 作弊，常春藤大学一位教授要求现场参加期末考试；分数下降约50%",
+      "created_display": "Created: Jul 08, 2026 / 16:11 PT",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2261090247-1152x648.jpg",
+      "summary_en": "Facing concerns about AI-assisted cheating, an Ivy League professor required in-person finals, with scores reportedly dropping about 50%. The episode underscores tensions between AI tools and traditional assessment methods and prompts policy considerations for academic integrity.",
+      "summary_zh": "在对 AI 作弊的担忧下，常春藤大学的一位教授要求学生现场参加期末考试，据称分数约下降50%。这起事件突显了 AI 工具与传统评估之间的张力，并引发对学术诚信政策的讨论。",
+      "hn": {
+        "id": 48838611,
+        "type": "story",
+        "by": "furcyd",
+        "score": 133,
+        "descendants": 155,
+        "time": 1783552288,
+        "comments_url": "https://news.ycombinator.com/item?id=48838611"
+      },
+      "hot_score": 0.16,
+      "tags": [
+        "Education",
+        "AI"
+      ]
+    },
+    {
+      "title_en": "OpenMandriva: Statement regarding attempted distribution sabotage",
+      "url": "https://forum.openmandriva.org/t/statement-regarding-attempted-distribution-sabotage/8997",
+      "title_zh": "OpenMandriva：关于试图破坏发行版的声明",
+      "created_display": "Created: Jul 08, 2026 / 11:21 PT",
+      "image_url": "https://forum.openmandriva.org/uploads/default/original/2X/e/eb6bc6e5e60da2e909cb97a086c16d0a7c130855.jpeg",
+      "summary_en": "OpenMandriva releases a statement after an attempted sabotage of its distribution, detailing security measures and steps to protect users. The incident highlights ongoing supply-chain and distribution risks for open-source projects.",
+      "summary_zh": "OpenMandriva 在发行版试图被破坏后发布声明，阐述了安全措施以及对用户的保护步骤。此事件凸显开源项目在供应链与发行环节面临的持续风险。",
+      "hn": {
+        "id": 48835439,
+        "type": "story",
+        "by": "workethics",
+        "score": 130,
+        "descendants": 42,
+        "time": 1783534913,
+        "comments_url": "https://news.ycombinator.com/item?id=48835439"
+      },
+      "hot_score": 0.13,
+      "tags": [
+        "Security",
+        "Open Source"
+      ]
+    }
+  ]
+}

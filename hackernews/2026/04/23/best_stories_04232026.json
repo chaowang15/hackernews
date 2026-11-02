@@ -1,0 +1,1175 @@
+{
+  "meta": {
+    "mode": "best",
+    "source": "https://news.ycombinator.com/",
+    "api": "https://github.com/HackerNews/API",
+    "count_requested": 50,
+    "count_written": 50,
+    "reused_same_day": 0,
+    "reused_cross_day": 17,
+    "new_llm_enriched": 10,
+    "scrape_time_display": "06:44, April 24, 2026 (PDT)",
+    "timezone": "America/Los_Angeles",
+    "date_dir": "2026/04/23",
+    "content_date": "2026-04-23",
+    "run_time_local": "06:44, April 24, 2026 (PDT)",
+    "run_time_utc": "2026-04-24 13:44:49 UTC",
+    "incremental": true,
+    "stories_max": 50,
+    "hot_score_time_utc": "2026-04-24 13:45:49 UTC"
+  },
+  "items": [
+    {
+      "title_en": "DeepSeek v4",
+      "url": "https://api-docs.deepseek.com/",
+      "title_zh": "DeepSeek v4",
+      "created_display": "Created: Apr 23, 2026 / 20:01 PT",
+      "image_url": "https://api-docs.deepseek.com/img/docusaurus-social-card.jpg",
+      "summary_en": "DeepSeek v4 continues to push long-context capabilities, delivering more memory-efficient retrieval and scalable context processing for large language models. The update targets practical deployments that need to reason over very long documents without blowing through resources.",
+      "summary_zh": "DeepSeek v4 在长上下文能力上进一步提升，提供更高效的检索和可扩展的上下文处理，便于大模型在海量文档上进行推理而不耗费过多资源。此版本面向实际部署场景，改善长期上下文的可用性。",
+      "hn": {
+        "id": 47884971,
+        "type": "story",
+        "by": "impact_sy",
+        "score": 1276,
+        "descendants": 902,
+        "time": 1776999681,
+        "comments_url": "https://news.ycombinator.com/item?id=47884971"
+      },
+      "tags": [
+        "AI"
+      ],
+      "hot_score": 13.07
+    },
+    {
+      "title_en": "UK Biobank leak: Health details of 500 000 people are offered for sale",
+      "url": "https://www.bmj.com/content/393/bmj.s781",
+      "title_zh": "英国生物库数据泄露：50万健康信息被出售",
+      "created_display": "Created: Apr 24, 2026 / 04:09 PT",
+      "image_url": null,
+      "summary_en": "A health data leak from the UK Biobank reportedly puts the health details of about 500,000 people up for sale. The incident underscores ongoing privacy and governance risks in large biobanks, highlighting the need for stronger data access controls, consent management, and audit trails. It raises questions about how researchers balance openness with participant protection.",
+      "summary_zh": "英国生物库的健康数据泄露事件据称将约50万人的健康信息出售，引发对大型生物样本库在隐私与数据治理方面的持续风险的担忧。事件强调需要更强的数据访问控制、同意管理和审计追踪，并提出研究开放性与参与者保护之间的权衡问题。",
+      "hn": {
+        "id": 47888557,
+        "type": "story",
+        "by": "dberhane",
+        "score": 137,
+        "descendants": 49,
+        "time": 1777028976,
+        "comments_url": "https://news.ycombinator.com/item?id=47888557"
+      },
+      "hot_score": 8.71,
+      "tags": [
+        "Privacy",
+        "Data",
+        "Health"
+      ]
+    },
+    {
+      "title_en": "GPT-5.5",
+      "url": "https://openai.com/index/introducing-gpt-5-5/",
+      "title_zh": "GPT-5.5 发布",
+      "created_display": "Created: Apr 23, 2026 / 11:01 PT",
+      "image_url": null,
+      "summary_en": "OpenAI unveils GPT-5.5, the latest mid-cycle upgrade in the GPT-5 family. It emphasizes faster inference, safer defaults, and enhanced developer controls for production deployments, signaling another step in the rapid evolution of foundation models.",
+      "summary_zh": "OpenAI 发布了 GPT-5.5，作为 GPT-5 线的中期升级。新版本强调更快的推理与更安全的默认设置，并为开发者提供更丰富的部署控制，再次推动大型语言模型的迭代速度。",
+      "hn": {
+        "id": 47879092,
+        "type": "story",
+        "by": "rd",
+        "score": 1430,
+        "descendants": 951,
+        "time": 1776967299,
+        "comments_url": "https://news.ycombinator.com/item?id=47879092"
+      },
+      "tags": [
+        "AI"
+      ],
+      "hot_score": 5.6
+    },
+    {
+      "title_en": "S. Korea police arrest man over AI image of runaway wolf that misled authorities",
+      "url": "https://www.bbc.com/news/articles/c4gx1n0dl9no",
+      "title_zh": "韩国警方因AI生成的逃逸狼图像误导当局逮捕嫌疑人",
+      "created_display": "Created: Apr 24, 2026 / 02:17 PT",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/4940/live/f8c31140-3fb5-11f1-b61b-1d0ccf7b6022.jpg",
+      "summary_en": "South Korean police arrested a man linked to an AI-generated image of a runaway wolf that misled authorities. The incident highlights the real-world risks of AI misinformation in public safety and the need for rapid verification workflows. It raises questions about accountability for creators of convincing AI content.",
+      "summary_zh": "韩国警方因一张 AI 生成的逃跑狼图像误导当局而逮捕涉案男子。事件凸显人工智能生成的错误信息在公共安全中的现实风险，以及对快速核验流程的需求。也提出了对制造有说服力的 AI 内容者的问责问题。",
+      "hn": {
+        "id": 47887683,
+        "type": "story",
+        "by": "giuliomagnifico",
+        "score": 161,
+        "descendants": 92,
+        "time": 1777022277,
+        "comments_url": "https://news.ycombinator.com/item?id=47887683"
+      },
+      "hot_score": 5.56,
+      "tags": [
+        "AI",
+        "Security"
+      ]
+    },
+    {
+      "title_en": "Spinel: Ruby AOT Native Compiler",
+      "url": "https://github.com/matz/spinel",
+      "title_zh": "Spinel：Ruby 的 AOT 原生编译器",
+      "created_display": "Created: Apr 24, 2026 / 01:28 PT",
+      "image_url": "https://opengraph.githubassets.com/be51db131737334760a8eb50a4c32a5ebb7dc2c588316e18e1705d27d3925425/matz/spinel",
+      "summary_en": "Spinel is an ahead-of-time native compiler for Ruby, precompiling Ruby code into optimized machine code. The compiler promises faster startup times and lower memory usage, benefiting server apps, scripting tools, and embedded deployments. If it matures, Spinel could shift Ruby performance characteristics closer to statically compiled languages.",
+      "summary_zh": "Spinel 是 Ruby 的 AOT 原生编译器，将 Ruby 代码预编译为本地机器码。它有望提高启动速度并降低内存占用，受益于服务器应用、脚本工具和嵌入式部署。若发展成熟，Spinel 可能使 Ruby 的性能更接近静态编译语言。",
+      "hn": {
+        "id": 47887334,
+        "type": "story",
+        "by": "dluan",
+        "score": 140,
+        "descendants": 33,
+        "time": 1777019327,
+        "comments_url": "https://news.ycombinator.com/item?id=47887334"
+      },
+      "hot_score": 3.9,
+      "tags": [
+        "Programming",
+        "Startups"
+      ]
+    },
+    {
+      "title_en": "Ubuntu 26.04",
+      "url": "https://lwn.net/Articles/1069399/",
+      "title_zh": "Ubuntu 26.04 发布",
+      "created_display": "Created: Apr 23, 2026 / 21:38 PT",
+      "image_url": "https://static.lwn.net/images/logo/barepenguin-70.webp",
+      "summary_en": "Ubuntu 26.04 arrives as a long-term release with updated kernels and desktop components, plus enterprise-oriented improvements. It emphasizes stability, security, and hardware support, serving as a reliable base for both desktops and servers.",
+      "summary_zh": "Ubuntu 26.04 作为长期版本发布，带来内核与桌面组件的更新以及面向企业的改进。强调稳定性、安全性，并提升对新硬件的支持，适合作为桌面与服务器的长期基线。",
+      "hn": {
+        "id": 47885596,
+        "type": "story",
+        "by": "lxst",
+        "score": 253,
+        "descendants": 188,
+        "time": 1777005517,
+        "comments_url": "https://news.ycombinator.com/item?id=47885596"
+      },
+      "tags": [
+        "Open Source",
+        "Security",
+        "Hardware"
+      ],
+      "hot_score": 3.3
+    },
+    {
+      "title_en": "Palantir employees are starting to wonder if they're the bad guys",
+      "url": "https://www.wired.com/story/palantir-employees-are-starting-to-wonder-if-theyre-the-bad-guys/",
+      "title_zh": "Palantir 员工开始质疑自己是否在做坏事",
+      "created_display": "Created: Apr 23, 2026 / 10:30 PT",
+      "image_url": "https://media.wired.com/photos/69d3c62396de4781bbc4cf6e/191:100/w_1280,c_limit/GettyImages-2268833968.jpg",
+      "summary_en": "Palantir employees are starting to question whether their work contributes to harmful surveillance and wrongdoing. As Palantir expands government-facing analytics, staff wrestle with ethical concerns about surveillance, data ethics, and public accountability.",
+      "summary_zh": "Palantir 员工在公司日益扩张的政府数据分析工作中，开始质疑这是否在助长监控与潜在的滥用。伦理、数据治理与公共问责成为内部讨论的焦点。",
+      "hn": {
+        "id": 47878633,
+        "type": "story",
+        "by": "pavel_lishin",
+        "score": 873,
+        "descendants": 635,
+        "time": 1776965405,
+        "comments_url": "https://news.ycombinator.com/item?id=47878633"
+      },
+      "tags": [
+        "Privacy",
+        "Politics",
+        "Data"
+      ],
+      "hot_score": 3.27
+    },
+    {
+      "title_en": "An update on recent Claude Code quality reports",
+      "url": "https://www.anthropic.com/engineering/april-23-postmortem",
+      "title_zh": "Claude Code 质量更新",
+      "created_display": "Created: Apr 23, 2026 / 10:48 PT",
+      "image_url": "https://cdn.sanity.io/images/4zrzovbb/website/3f522820d47355885631ebda60e5d1f3e5c0fbc2-2000x1050.heif",
+      "summary_en": "Anthropic provides an update on Claude Code quality, sharing metrics, fixes, and ongoing efforts after recent reports. The update highlights remaining challenges in code-generation reliability and the team's approach to testing and guardrails.",
+      "summary_zh": "Anthropic 发布 Claude Code 质量更新，披露关键指标、已完成的修复以及后续改进计划。报告强调代码生成的可靠性挑战仍在，并介绍团队加强测试和安全措施的措施。",
+      "hn": {
+        "id": 47878905,
+        "type": "story",
+        "by": "mfiguiere",
+        "score": 800,
+        "descendants": 615,
+        "time": 1776966518,
+        "comments_url": "https://news.ycombinator.com/item?id=47878905"
+      },
+      "tags": [
+        "AI"
+      ],
+      "hot_score": 3.08
+    },
+    {
+      "title_en": "Meta tells staff it will cut 10% of jobs",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-23/meta-tells-staff-it-will-cut-10-of-jobs-in-push-for-efficiency",
+      "title_zh": "Meta 将裁员 10%",
+      "created_display": "Created: Apr 23, 2026 / 11:55 PT",
+      "image_url": null,
+      "summary_en": "Meta told staff it will cut 10% of jobs, part of a broader efficiency push to rebalance costs as the company doubles down on AI initiatives. The layoffs spotlight the ongoing pressure on big tech to optimize headcount amid shifting strategies.",
+      "summary_zh": "Meta 通知员工将裁减约 10% 的岗位，旨在提升运营效率并在加码 AI 项目之际重新平衡成本。裁员凸显大型科技公司在战略调整期对人力资源进行优化的普遍压力。",
+      "hn": {
+        "id": 47879986,
+        "type": "story",
+        "by": "Vaslo",
+        "score": 676,
+        "descendants": 654,
+        "time": 1776970532,
+        "comments_url": "https://news.ycombinator.com/item?id=47879986"
+      },
+      "tags": [
+        "Business",
+        "AI"
+      ],
+      "hot_score": 2.85
+    },
+    {
+      "title_en": "Habitual coffee intake shapes the microbiome, modifies physiology and cognition",
+      "url": "https://www.nature.com/articles/s41467-026-71264-8",
+      "title_zh": "日常咖啡摄入改变微生物群、影响生理与认知",
+      "created_display": "Created: Apr 23, 2026 / 21:04 PT",
+      "image_url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41467-026-71264-8/MediaObjects/41467_2026_71264_Fig1_HTML.png",
+      "summary_en": "Habitual coffee intake reshapes the gut microbiome and alters physiological markers and cognitive function. The study links daily caffeine consumption to specific microbial shifts and metabolic changes, with potential implications for energy, mood, and brain health.",
+      "summary_zh": "规律性咖啡摄入会重塑肠道微生物群、改变生理指标并影响认知功能。研究将日常咖啡因摄入与特定微生物变化及代谢改变联系起来，可能对能量、情绪和大脑健康产生影响。",
+      "hn": {
+        "id": 47885377,
+        "type": "story",
+        "by": "scubakid",
+        "score": 207,
+        "descendants": 145,
+        "time": 1777003482,
+        "comments_url": "https://news.ycombinator.com/item?id=47885377"
+      },
+      "tags": [
+        "Science",
+        "Health",
+        "Energy"
+      ],
+      "hot_score": 2.47
+    },
+    {
+      "title_en": "Bitwarden CLI compromised in ongoing Checkmarx supply chain campaign",
+      "url": "https://socket.dev/blog/bitwarden-cli-compromised",
+      "title_zh": "Bitwarden CLI 在持续的 Checkmarx 供应链攻击中被妥协",
+      "created_display": "Created: Apr 23, 2026 / 07:17 PT",
+      "image_url": "https://cdn.sanity.io/images/cgdhsj6q/production/65ef8dc5e66260e20fdf13cead82ebd41b705ee6-1018x666.png?w=1000&q=95&fit=max&auto=format",
+      "summary_en": "Bitwarden CLI was compromised as part of a broader supply chain campaign tied to Checkmarx, illustrating how attackers weaponize developer toolchains. The incident underscores the risk of compromised updates and the need for strict verification of CLI binaries, signatures, and release channels.",
+      "summary_zh": "Bitwarden CLI 据称在与 Checkmarx 相关的供应链活动中被篡改，暴露了开发工具链的脆弱性。此事件强调应对 CLI 更新进行签名验证、固定版本、并监控 CI/CD 流水线中的异常更新。",
+      "hn": {
+        "id": 47876043,
+        "type": "story",
+        "by": "tosh",
+        "score": 801,
+        "descendants": 381,
+        "time": 1776953828,
+        "comments_url": "https://news.ycombinator.com/item?id=47876043"
+      },
+      "tags": [
+        "Security",
+        "Open Source"
+      ],
+      "hot_score": 2.35
+    },
+    {
+      "title_en": "Alberta startup sells no-tech tractors for half price",
+      "url": "https://wheelfront.com/this-alberta-startup-sells-no-tech-tractors-for-half-price/",
+      "title_zh": "阿尔伯塔初创以半价销售无科技拖拉机",
+      "created_display": "Created: Apr 22, 2026 / 09:29 PT",
+      "image_url": null,
+      "summary_en": "An Alberta startup is selling traditional, no-tech tractors at half the price of modern models, targeting farmers who value simplicity and repairability. By removing electronics, they cut upfront costs and maintenance headaches, challenging mainstream ag-tech pricing and support models.",
+      "summary_zh": "一家阿尔伯塔初创企业以半价销售无科技的拖拉机，瞄准看重简单与易修的农民。去除电子系统后，制造与维护成本下降，这一做法可能影响主流农业科技的定价和售后模式。",
+      "hn": {
+        "id": 47865868,
+        "type": "story",
+        "by": "Kaibeezy",
+        "score": 2229,
+        "descendants": 750,
+        "time": 1776875365,
+        "comments_url": "https://news.ycombinator.com/item?id=47865868"
+      },
+      "tags": [
+        "Startups",
+        "Business"
+      ],
+      "hot_score": 2.16
+    },
+    {
+      "title_en": "US special forces soldier arrested after allegedly winning $400k on Maduro raid",
+      "url": "https://www.cnn.com/2026/04/23/politics/us-special-forces-soldier-arrested-maduro-raid-trade",
+      "title_zh": "美军特种部队士兵因涉嫌在马杜罗突袭案中获利被逮捕",
+      "created_display": "Created: Apr 23, 2026 / 14:56 PT",
+      "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/2026-01-05t124551z-1320417056-rc20via4lz84-rtrmadp-3-usa-venezuela-maduro-new-york.jpg?c=16x9&q=w_800,c_fill",
+      "summary_en": "A US special forces soldier was arrested amid allegations of illicit gains linked to a Maduro raid, highlighting potential security and ethics concerns within covert operations. The case raises questions about governance, accountability, and the handling of sensitive operation proceeds.",
+      "summary_zh": "一名美军特种部队士兵因涉嫌在马杜罗突袭案中获得40万美元收益而被逮捕，暴露了隐秘行动中的治理与伦理问题。这起案件引发对透明度、问责制以及敏感行动收益处理的讨论。",
+      "hn": {
+        "id": 47882645,
+        "type": "story",
+        "by": "nkrisc",
+        "score": 379,
+        "descendants": 421,
+        "time": 1776981375,
+        "comments_url": "https://news.ycombinator.com/item?id=47882645"
+      },
+      "tags": [
+        "Security",
+        "Legal"
+      ],
+      "hot_score": 2.12
+    },
+    {
+      "title_en": "Why I Write (1946)",
+      "url": "https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/why-i-write/",
+      "title_zh": "我为何写作（1946）",
+      "created_display": "Created: Apr 23, 2026 / 19:26 PT",
+      "image_url": null,
+      "summary_en": "Orwell explains that writers are driven by four motives—ego, aesthetic pleasure, historical impulse, and political purpose—and argues that writing should aim to illuminate truth and resist tyranny. The piece remains a candid meditation on why serious writing matters in a world of rising propaganda.",
+      "summary_zh": "奥威尔在文中提出写作源于四种动机：自我、审美、历史冲动和政治目的，并主张写作应以揭示真相、抵制暴政为目标。此篇对在极权与宣传日益高涨的时代，写作为何仍然重要给出直率的思考。",
+      "hn": {
+        "id": 47884768,
+        "type": "story",
+        "by": "RyanShook",
+        "score": 208,
+        "descendants": 51,
+        "time": 1776997583,
+        "comments_url": "https://news.ycombinator.com/item?id=47884768"
+      },
+      "tags": [
+        "Culture",
+        "Politics"
+      ],
+      "hot_score": 1.96
+    },
+    {
+      "title_en": "I am building a cloud",
+      "url": "https://crawshaw.io/blog/building-a-cloud",
+      "title_zh": "我在打造一个云",
+      "created_display": "Created: Apr 22, 2026 / 21:44 PT",
+      "image_url": null,
+      "summary_en": "A personal cloud infrastructure is explored from scratch, detailing architectures, tooling, and practical tradeoffs. It weighs self-hosted storage, compute, and networking against public cloud tradeoffs, offering actionable lessons for readers considering building their own cloud.",
+      "summary_zh": "本文记录从零开始打造个人云端基础设施的过程，探讨存储、计算与网络的权衡以及提高可靠性的设计要点。作者分享了在自建云与公有云之间的取舍，并给出可操作的经验教训。",
+      "hn": {
+        "id": 47872324,
+        "type": "story",
+        "by": "bumbledraven",
+        "score": 1073,
+        "descendants": 537,
+        "time": 1776919459,
+        "comments_url": "https://news.ycombinator.com/item?id=47872324"
+      },
+      "tags": [
+        "DevOps"
+      ],
+      "hot_score": 1.78
+    },
+    {
+      "title_en": "If America's so rich, how'd it get so sad?",
+      "url": "https://www.derekthompson.org/p/if-americas-so-rich-howd-it-get-so",
+      "title_zh": "美国这么富有，怎会变得如此悲伤？",
+      "created_display": "Created: Apr 23, 2026 / 09:05 PT",
+      "image_url": "https://substackcdn.com/image/fetch/$s_!gAKe!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F16200edd-4e29-4729-8d58-4eefbab120d8_1260x893.png",
+      "summary_en": "Derek Thompson argues that America's wealth hasn't translated into happiness due to inequality, social fragmentation, and policy choices; the piece connects economic growth with wellbeing and the impact of technology like AI.",
+      "summary_zh": "德里克·汤普森认为美国的繁荣并未带来相应的幸福感，原因在于不平等、社会分化和政策选择。文章探讨经济增长、社会福祉之间的错配，以及技术（包括 AI）对这种关系的影响。",
+      "hn": {
+        "id": 47877429,
+        "type": "story",
+        "by": "momentmaker",
+        "score": 508,
+        "descendants": 968,
+        "time": 1776960330,
+        "comments_url": "https://news.ycombinator.com/item?id=47877429"
+      },
+      "tags": [
+        "Politics",
+        "AI"
+      ],
+      "hot_score": 1.7
+    },
+    {
+      "title_en": "DeepSeek-V4: Towards Highly Efficient Million-Token Context Intelligence",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro",
+      "title_zh": "DeepSeek-V4：迈向高效百万令牌上下文智能",
+      "created_display": "Created: Apr 23, 2026 / 20:07 PT",
+      "image_url": "https://cdn-thumbnails.huggingface.co/social-thumbnails/models/deepseek-ai/DeepSeek-V4-Pro.png",
+      "summary_en": "DeepSeek-V4 demonstrates an approach to highly efficient million-token context intelligence, enabling long-context reasoning at scale. By optimizing memory usage and retrieval, it supports richer document understanding and long-horizon dialogue. This advancement could empower enterprise search, AI assistants, and research tools that must reference extensive histories.",
+      "summary_zh": "DeepSeek-V4 展示了在百万级上下文下实现高效推理的思路，通过优化内存和检索能力，支持对大规模文档的理解与长时对话。此进展可能推动企业检索、AI 助手和需要大量历史信息参考的研究工具的发展。",
+      "hn": {
+        "id": 47885014,
+        "type": "story",
+        "by": "cmrdporcupine",
+        "score": 152,
+        "descendants": 15,
+        "time": 1777000074,
+        "comments_url": "https://news.ycombinator.com/item?id=47885014"
+      },
+      "hot_score": 1.57,
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "title_en": "U.S. soldier charged with using classified info to profit from prediction market",
+      "url": "https://www.justice.gov/usao-sdny/pr/us-soldier-charged-using-classified-information-profit-prediction-market-bets?bm-verify=AAQAAAAN_____y6To7sZYZ502biZwIHXlr-7zXZUqV4H0xLTfW__wDA3SjNLqifXRaQwsikyuz6IJknyuL8xfVYRkesxcDk5V10m-HoXl2K93f17rygBphL77WVFoQ_XvlmUo922IwM_DQ66137X6wWMtpdHslcEjpJG7KbBmUw9Su4kDENpDt_yv2spThQZehgv-X1Adk5U2VHfp41co2s_QJGjRj4y0KmL1mhSCyVaE7MC1LHG0mtP-xYmD0xBOQwn6PlHkPiP5Nt46h5ZIjLGXgCZDEVD42i7rIEM379DKLPUPX0PDNmOAwFSuTqcTDVnT_UUV8vxpHLRMb7rUxPxKUPcIB23iZTRJddWDDtPHMXadpwv67xr-f1sKDLZT9NgHCO4iuC2EthmAt0",
+      "title_zh": "美军士兵被控利用机密信息在预测市场获利",
+      "created_display": "Created: Apr 23, 2026 / 15:37 PT",
+      "image_url": "https://www.justice.gov/themes/custom/usdoj_uswds/images/metatag-image--press-release.png",
+      "summary_en": "A U.S. soldier has been charged with using classified information to profit from prediction-market bets. The case illustrates how insider access to sensitive data can spill into civilian markets and tests the enforcement of ethics rules for service members. If convicted, it could tighten scrutiny on handling classified material in and out of government channels.",
+      "summary_zh": "一名美国士兵被控利用机密信息在预测市场下注获利。此案凸显对敏感信息的内部访问可能扩展至民间市场，并检验对军人遵守伦理规定的执法力度。若被定罪，可能促使对处理机密材料的监管进一步收紧。",
+      "hn": {
+        "id": 47883108,
+        "type": "story",
+        "by": "paulpauper",
+        "score": 250,
+        "descendants": 2,
+        "time": 1776983821,
+        "comments_url": "https://news.ycombinator.com/item?id=47883108"
+      },
+      "hot_score": 1.5,
+      "tags": [
+        "Security",
+        "Legal",
+        "Politics",
+        "Business"
+      ]
+    },
+    {
+      "title_en": "Show HN: Tolaria – Open-source macOS app to manage Markdown knowledge bases",
+      "url": "https://github.com/refactoringhq/tolaria",
+      "title_zh": "Tolaria：用于管理 Markdown 知识库的开源 macOS 应用",
+      "created_display": "Created: Apr 23, 2026 / 15:01 PT",
+      "image_url": "https://opengraph.githubassets.com/ec96e31f399a44083038d5fe932890fd0783ef728a7e9016e1be2131e0b19572/refactoringhq/tolaria",
+      "summary_en": "Tolaria is an open-source macOS app for managing Markdown knowledge bases. It offers local-first storage, markdown editing, and linking between notes to create a searchable knowledge graph. For researchers and developers who want offline, portable knowledge management, it's a compelling option.",
+      "summary_zh": "Tolaria 是一个开源的 macOS 应用，用来管理 Markdown 知识库。它支持本地存储、Markdown 编辑，以及笔记之间的连结，方便构建可搜索的知识体系。对需要离线、可移植笔记管理的开发者和研究者很有吸引力。",
+      "hn": {
+        "id": 47882697,
+        "type": "story",
+        "by": "lucaronin",
+        "score": 238,
+        "descendants": 100,
+        "time": 1776981719,
+        "comments_url": "https://news.ycombinator.com/item?id=47882697"
+      },
+      "tags": [
+        "Show HN",
+        "Open Source"
+      ],
+      "hot_score": 1.34
+    },
+    {
+      "title_en": "French government agency confirms breach as hacker offers to sell data",
+      "url": "https://www.bleepingcomputer.com/news/security/french-govt-agency-confirms-breach-as-hacker-offers-to-sell-data/",
+      "title_zh": "法国政府机构遭遇数据泄露：黑客提出出售数据",
+      "created_display": "Created: Apr 23, 2026 / 08:59 PT",
+      "image_url": "https://www.bleepstatic.com/content/hl-images/2026/04/21/Titres.jpg",
+      "summary_en": "A French government agency confirms a data breach; a hacker is publicly offering to sell the stolen data. The incident highlights the risk to sensitive citizen data and the ongoing commodification of breached information.",
+      "summary_zh": "法国政府机构确认遭遇数据泄露，攻击者公开提出出售被盗数据。事件暴露了对公民敏感信息的风险，同时凸显被盗数据买卖的普遍性及持续威胁。",
+      "hn": {
+        "id": 47877366,
+        "type": "story",
+        "by": "robtherobber",
+        "score": 393,
+        "descendants": 143,
+        "time": 1776959995,
+        "comments_url": "https://news.ycombinator.com/item?id=47877366"
+      },
+      "tags": [
+        "Security",
+        "Privacy",
+        "Data",
+        "Politics"
+      ],
+      "hot_score": 1.31
+    },
+    {
+      "title_en": "Investigation uncovers two sophisticated telecom surveillance campaigns",
+      "url": "https://techcrunch.com/2026/04/23/surveillance-vendors-caught-abusing-access-to-telcos-to-track-peoples-phone-locations-researchers-say/",
+      "title_zh": "调查揭露两起高级电信监控行动",
+      "created_display": "Created: Apr 23, 2026 / 05:12 PT",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2022/06/cityscape-location-data.jpg?resize=1200,675",
+      "summary_en": "Two sophisticated telecom surveillance campaigns were uncovered, showing how vendors abused access to telcos to track people's locations. The exposure highlights private surveillance risks and gaps in vendor governance, raising calls for tighter oversight and stricter data-access controls. It underscores why telecom partnerships and supply-chain security matter for user privacy.",
+      "summary_zh": "调查揭露两起高级电信监控行动，揭示供应商滥用对运营商的访问来追踪手机位置。曝光点出私营监控的风险与治理漏洞，促使各方呼吁加强监督和更严格的数据访问控制。此事凸显了电信合作与供应链安全在保护用户隐私方面的重要性。",
+      "hn": {
+        "id": 47874814,
+        "type": "story",
+        "by": "mentalgear",
+        "score": 389,
+        "descendants": 130,
+        "time": 1776946323,
+        "comments_url": "https://news.ycombinator.com/item?id=47874814"
+      },
+      "hot_score": 0.99,
+      "tags": [
+        "Security",
+        "Privacy"
+      ]
+    },
+    {
+      "title_en": "Apple fixes bug that cops used to extract deleted chat messages from iPhones",
+      "url": "https://techcrunch.com/2026/04/22/apple-fixes-bug-that-cops-used-to-extract-deleted-chat-messages-from-iphones/",
+      "title_zh": "苹果修复漏洞，警方曾用其提取已删除的 iPhone 聊天记录",
+      "created_display": "Created: Apr 22, 2026 / 13:27 PT",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/04/iphone-pop-up-notifications.jpg?resize=1200,900",
+      "summary_en": "Apple fixed a bug that allowed law enforcement to recover deleted iPhone chat messages, a rare privacy breach that persisted across devices. The patch closes this forensic loophole, reinforcing user data deletion and security. It underscores the ongoing tug-of-war between privacy protections and investigative tools in mobile platforms.",
+      "summary_zh": "苹果修复了一个以前被执法部门用来提取已删除 iPhone 聊天记录的漏洞。上述修补加强了消息删除的彻底性，提升了用户隐私的保护。此事再次凸显移动平台在隐私保护与执法需求之间的持续博弈。",
+      "hn": {
+        "id": 47868867,
+        "type": "story",
+        "by": "cdrnsf",
+        "score": 863,
+        "descendants": 186,
+        "time": 1776889651,
+        "comments_url": "https://news.ycombinator.com/item?id=47868867"
+      },
+      "tags": [
+        "Privacy",
+        "Security"
+      ],
+      "hot_score": 0.98
+    },
+    {
+      "title_en": "We found a stable Firefox identifier linking all your private Tor identities",
+      "url": "https://fingerprint.com/blog/firefox-tor-indexeddb-privacy-vulnerability/",
+      "title_zh": "发现 Firefox 的稳定标识符可连接你所有的 Tor 身份",
+      "created_display": "Created: Apr 22, 2026 / 10:35 PT",
+      "image_url": "https://fingerprint.com/static/893bf56cdf5a22443c3b3ace0bb862df/blog_firefox_vulnerability.jpg",
+      "summary_en": "Researchers found a persistent Firefox identifier can link a user's private Tor identities across sessions, undermining anonymity. The finding underscores how browser storage features can erode privacy in privacy-focused tooling and calls for mitigations.",
+      "summary_zh": "研究人员发现 Firefox 的持久标识符可在会话之间关联用户的 Tor 身份，削弱匿名性。这一发现揭示了浏览器存储机制对隐私工具构成的潜在威胁，并需要相应缓解措施。",
+      "hn": {
+        "id": 47866697,
+        "type": "story",
+        "by": "danpinto",
+        "score": 911,
+        "descendants": 284,
+        "time": 1776879303,
+        "comments_url": "https://news.ycombinator.com/item?id=47866697"
+      },
+      "tags": [
+        "Privacy",
+        "Security",
+        "Web"
+      ],
+      "hot_score": 0.92
+    },
+    {
+      "title_en": "Girl, 10, finds rare Mexican axolotl under Welsh bridge",
+      "url": "https://www.bbc.com/news/articles/c9d4zgnqpqeo",
+      "title_zh": "10岁女孩在威尔士的一座桥下发现罕见的墨西哥钝口螈",
+      "created_display": "Created: Apr 23, 2026 / 12:09 PT",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/bb4f/live/4211fe40-3f13-11f1-9aab-c976736c58b1.jpg",
+      "summary_en": "A 10-year-old girl in Wales found a rare Mexican axolotl under a bridge, a remarkable sighting outside its native range. The story spotlights conservation and citizen science dynamics when unusual species show up in unexpected places. It also underscores how outreach and curiosity connect people to wildlife.",
+      "summary_zh": "威尔士一名10岁女孩在一座桥下发现罕见的墨西哥钝口螈，这一发现颇为罕见且引人注目。此事凸显了在非原产地也会出现独特物种的保护与公民科学的互动，同时也体现了公众对野生动物的关注与好奇心。",
+      "hn": {
+        "id": 47880189,
+        "type": "story",
+        "by": "codezero",
+        "score": 213,
+        "descendants": 182,
+        "time": 1776971380,
+        "comments_url": "https://news.ycombinator.com/item?id=47880189"
+      },
+      "tags": [
+        "Science"
+      ],
+      "hot_score": 0.91
+    },
+    {
+      "title_en": "'Hairdryer used to trick weather sensor' to win Polymarket bet",
+      "url": "https://www.telegraph.co.uk/business/2026/04/23/hairdryer-used-trick-weather-sensor-34000-polymarket-bet/",
+      "title_zh": "用吹风机欺骗天气传感器以赢取 Polymarket 赌注",
+      "created_display": "Created: Apr 23, 2026 / 10:01 PT",
+      "image_url": "https://www.telegraph.co.uk/content/dam/briefs/2026/04/23/TELEMMGLPICT000449701987_17769343097120_trans_NvBQzQNjv4BqqVzuuqpFlyLIwiB6NTmJwSX5rhseiWKOo9p9OQ-ymek.jpeg?impolicy=OG-Standard",
+      "summary_en": "A hairdryer was used to trick a weather sensor to win a Polymarket bet, illustrating how simple physical tampering can influence data-driven markets. The incident exposes vulnerabilities in sensor-based predictions and underscores the need for tamper-evident validation and robust data sources. It serves as a warning for operators of decentralized betting platforms to vet input data more rigorously.",
+      "summary_zh": "有人用吹风机欺骗天气传感器以在 Polymarket 赌注中获胜，说明简单的物理篡改也能影响数据驱动的市场。事件暴露了基于传感器的预测脆弱性，强调需要具备防篡改的校验与可靠的数据源。对去中心化博彩平台的运营者来说，这是一个更严格审查输入数据的警示。",
+      "hn": {
+        "id": 47878208,
+        "type": "story",
+        "by": "zdw",
+        "score": 247,
+        "descendants": 237,
+        "time": 1776963661,
+        "comments_url": "https://news.ycombinator.com/item?id=47878208"
+      },
+      "hot_score": 0.89,
+      "tags": [
+        "Security",
+        "Data"
+      ]
+    },
+    {
+      "title_en": "Incident with multple GitHub services",
+      "url": "https://www.githubstatus.com/incidents/myrbk7jvvs6p",
+      "title_zh": "GitHub 多项服务故障事件",
+      "created_display": "Created: Apr 23, 2026 / 09:21 PT",
+      "image_url": "https://dka575ofm4ao0.cloudfront.net/pages-twitter_logos/original/36420/GitHub-Mark-120px-plus.png",
+      "summary_en": "GitHub reports an incident affecting multiple services, impacting developers' workflows. The incident underscores the fragility of cloud‑hosted DevOps tools and the importance of robust incident response and contingency planning.",
+      "summary_zh": "GitHub 因多项服务出现故障，影响开发者工作流。这起事件凸显云端开发工具的脆弱性以及健全的应急响应和备份计划的重要性。",
+      "hn": {
+        "id": 47877644,
+        "type": "story",
+        "by": "bwannasek",
+        "score": 257,
+        "descendants": 124,
+        "time": 1776961315,
+        "comments_url": "https://news.ycombinator.com/item?id=47877644"
+      },
+      "tags": [
+        "DevOps",
+        "Programming"
+      ],
+      "hot_score": 0.88
+    },
+    {
+      "title_en": "Using the internet like it's 1999",
+      "url": "https://joshblais.com/blog/using-the-internet-like-its-1999/",
+      "title_zh": "像在1999年一样上网",
+      "created_display": "Created: Apr 23, 2026 / 13:14 PT",
+      "image_url": "https://joshblais.com/og-images/netscape.jpeg",
+      "summary_en": "A look at surfacing the web with retro, dial-up aesthetics and minimal modern features, challenging today’s feature-heavy UX.",
+      "summary_zh": "以1999年的互联网方式上网，回归简约、低带宽体验，挑战当下功能繁多的用户体验。文章讨论简化界面、离线优先与低广告干扰的体验对性能、隐私与可访问性的影响。",
+      "hn": {
+        "id": 47881198,
+        "type": "story",
+        "by": "joshuablais",
+        "score": 185,
+        "descendants": 127,
+        "time": 1776975269,
+        "comments_url": "https://news.ycombinator.com/item?id=47881198"
+      },
+      "tags": [
+        "Design"
+      ],
+      "hot_score": 0.87
+    },
+    {
+      "title_en": "MeshCore development team splits over trademark dispute and AI-generated code",
+      "url": "https://blog.meshcore.io/2026/04/23/the-split",
+      "title_zh": "MeshCore 开发团队因商标纠纷与 AI 生成代码分裂",
+      "created_display": "Created: Apr 23, 2026 / 09:55 PT",
+      "image_url": "https://blog.meshcore.io/assets/images/icon.png",
+      "summary_en": "MeshCore's dev team splits amid a trademark dispute and debates over AI-generated code, highlighting tensions between IP ownership and the governance of machine-generated outputs. This quarrel signals how legal questions around branding and code provenance can reshape internal teams and project direction.",
+      "summary_zh": "MeshCore 的开发团队因商标争议与对 AI 生成代码的治理分歧而分裂，反映出知识产权归属与机器生成内容管理之间的紧张关系。此事或将影响团队组织与项目走向，揭示企业需要尽早就品牌与代码来源达成共识。",
+      "hn": {
+        "id": 47878117,
+        "type": "story",
+        "by": "wielebny",
+        "score": 240,
+        "descendants": 127,
+        "time": 1776963313,
+        "comments_url": "https://news.ycombinator.com/item?id=47878117"
+      },
+      "tags": [
+        "Legal",
+        "AI"
+      ],
+      "hot_score": 0.86
+    },
+    {
+      "title_en": "Qwen3.6-27B: Flagship-Level Coding in a 27B Dense Model",
+      "url": "https://qwen.ai/blog?id=qwen3.6-27b",
+      "title_zh": "Qwen3.6-27B：27B密集模型的旗舰级编码能力",
+      "created_display": "Created: Apr 22, 2026 / 06:19 PT",
+      "image_url": "https://img.alicdn.com/imgextra/i1/O1CN013ltlI61OTOnTStXfj_!!6000000001706-55-tps-330-327.svg",
+      "summary_en": "Qwen3.6-27B demonstrates flagship-level coding capabilities in a compact 27-billion-parameter model, suggesting strong performance on programming tasks without massive scale. The result highlights progress in efficient, accessible model sizes for developers.",
+      "summary_zh": "Qwen3.6-27B 在仅27亿参数的紧凑模型上展现旗舰级编码能力，表明在编程任务上已经具备出色性能，而无需大规模模型。此成果凸显了在高效、易获得的模型规模上实现进步。",
+      "hn": {
+        "id": 47863217,
+        "type": "story",
+        "by": "mfiguiere",
+        "score": 963,
+        "descendants": 437,
+        "time": 1776863998,
+        "comments_url": "https://news.ycombinator.com/item?id=47863217"
+      },
+      "tags": [
+        "AI"
+      ],
+      "hot_score": 0.83
+    },
+    {
+      "title_en": "TorchTPU: Running PyTorch Natively on TPUs at Google Scale",
+      "url": "https://developers.googleblog.com/torchtpu-running-pytorch-natively-on-tpus-at-google-scale/",
+      "title_zh": "TorchTPU：在 Google 规模的 TPUs 上原生运行 PyTorch",
+      "created_display": "Created: Apr 23, 2026 / 13:53 PT",
+      "image_url": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/Meta-A.2e16d0ba.fill-1200x600.png",
+      "summary_en": "TorchTPU enables PyTorch to run natively on Google-scale TPUs, bringing PyTorch’s dynamic features to TPU hardware. This unlocks large-scale training with the ease of PyTorch APIs while leveraging the efficiency of TPUs in cloud environments.",
+      "summary_zh": "TorchTPU 让 PyTorch 能在 Google 规模的 TPU 上原生运行，将 PyTorch 的动态图特性带到 TPU 硬件。借助云端 TPU 的高效，开发者可以在大规模训练中继续使用 PyTorch APIs。",
+      "hn": {
+        "id": 47881786,
+        "type": "story",
+        "by": "mji",
+        "score": 159,
+        "descendants": 14,
+        "time": 1776977607,
+        "comments_url": "https://news.ycombinator.com/item?id=47881786"
+      },
+      "tags": [
+        "Programming",
+        "Hardware"
+      ],
+      "hot_score": 0.8
+    },
+    {
+      "title_en": "Show HN: Honker – Postgres NOTIFY/LISTEN Semantics for SQLite",
+      "url": "https://github.com/russellromney/honker",
+      "title_zh": "Honker：SQLite 实现 Postgres NOTIFY/LISTEN 语义",
+      "created_display": "Created: Apr 23, 2026 / 04:53 PT",
+      "image_url": "https://opengraph.githubassets.com/06f24fe7bae4ecc67429ed8fdda67108db8902c2722ac84353ff9b411f871053/russellromney/honker",
+      "summary_en": "Honker brings Postgres NOTIFY/LISTEN semantics to SQLite, enabling real-time event signaling without a full Postgres server. It demonstrates how lightweight, embedded databases can emulate cross-database messaging patterns, useful for event-driven UIs and local apps.",
+      "summary_zh": "Honker 将 PostgreSQL 的 LISTEN/NOTIFY 实时通知语义带到 SQLite，使嵌入式应用能够在不依赖完整 Postgres 的情况下实现事件驱动通信。它为本地应用提供了轻量级的事件总线，适合实现实时 UI 更新等场景。",
+      "hn": {
+        "id": 47874647,
+        "type": "story",
+        "by": "russellthehippo",
+        "score": 277,
+        "descendants": 68,
+        "time": 1776945191,
+        "comments_url": "https://news.ycombinator.com/item?id=47874647"
+      },
+      "tags": [
+        "Show HN",
+        "Open Source",
+        "Data"
+      ],
+      "hot_score": 0.69
+    },
+    {
+      "title_en": "To Protect and Swerve: NYPD Cop Has 547 Speeding Tickets",
+      "url": "https://nyc.streetsblog.org/2026/04/23/to-protect-and-swerve-nypd-cop-has-527-speeding-tickets-yet-remains-on-the-force",
+      "title_zh": "为保护与规避：NYPD 警员累积 547 张超速罚单",
+      "created_display": "Created: Apr 23, 2026 / 08:08 PT",
+      "image_url": "https://nyc.streetsblog.org/wp-content/uploads/sites/9/2026/04/GIOVANSANTI-Greg-Mango-with-filter2.jpg",
+      "summary_en": "A New York Police Department officer has racked up 547 speeding tickets while on duty, yet remains on the force. The case raises questions about accountability, supervisory oversight, and how fleet safety policies are enforced. It highlights tensions between public safety duties and personal driving behavior within law enforcement.",
+      "summary_zh": "一名纽约警察在在职期间累积了547张超速罚单，仍留任于警队。此事引发关于问责、监督以及车队安全规定执行的质疑，凸显执法部门在公共安全职责与个人驾驶行为之间的张力。",
+      "hn": {
+        "id": 47876647,
+        "type": "story",
+        "by": "greedo",
+        "score": 199,
+        "descendants": 142,
+        "time": 1776956934,
+        "comments_url": "https://news.ycombinator.com/item?id=47876647"
+      },
+      "hot_score": 0.62,
+      "tags": [
+        "Politics",
+        "Legal"
+      ]
+    },
+    {
+      "title_en": "My phone replaced a brass plug",
+      "url": "https://drobinin.com/posts/my-phone-replaced-a-brass-plug/",
+      "title_zh": "我的手机取代了一枚黄铜塞",
+      "created_display": "Created: Apr 23, 2026 / 09:27 PT",
+      "image_url": "https://drobinin.com/assets/previews/my-phone-replaced-a-brass-plug.png",
+      "summary_en": "A personal tech anecdote about how a smartphone interrupted a hardware repair workflow by substituting for a brass plug, illustrating how modern devices increasingly blur between tools and components. The piece reflects on hardware minimalism, repair culture, and the limits of gadget-driven tinkering.",
+      "summary_zh": "一则个人科技趣闻，讲述智能手机在硬件维修中替代一枚黄铜塞的场景，显示现代设备让工具与部件的界线变得模糊。文章思考硬件极简、修理文化以及小工具时代的局限性。",
+      "hn": {
+        "id": 47877715,
+        "type": "story",
+        "by": "valzevul",
+        "score": 162,
+        "descendants": 40,
+        "time": 1776961627,
+        "comments_url": "https://news.ycombinator.com/item?id=47877715"
+      },
+      "tags": [
+        "Hardware",
+        "Culture"
+      ],
+      "hot_score": 0.56
+    },
+    {
+      "title_en": "Raylib v6.0",
+      "url": "https://github.com/raysan5/raylib/releases/tag/6.0",
+      "title_zh": "Raylib 6.0 发布",
+      "created_display": "Created: Apr 23, 2026 / 05:16 PT",
+      "image_url": "https://opengraph.githubassets.com/0ced67c6358522b6db8a616b36e431bf8c9aa30cab10aeadbce505ac56079579/raysan5/raylib/releases/tag/6.0",
+      "summary_en": "Raylib 6.0 arrives as a major update to the lightweight game development library, offering API improvements, better portability, and streamlined tooling for cross-platform projects. The release makes it easier for indie developers and educators to build and teach with graphics and audio capabilities. It could accelerate rapid prototyping and learning in game development communities.",
+      "summary_zh": "Raylib 6.0 作为轻量级游戏开发库的重大更新，带来 API 改善、可移植性提升与跨平台工具链的简化。该版本让独立开发者与教育者更容易构建并教学，强化图形、音频等功能。预计将推动快速原型设计和游戏开发社区的学习进程。",
+      "hn": {
+        "id": 47874854,
+        "type": "story",
+        "by": "rydgel",
+        "score": 215,
+        "descendants": 39,
+        "time": 1776946576,
+        "comments_url": "https://news.ycombinator.com/item?id=47874854"
+      },
+      "hot_score": 0.55,
+      "tags": [
+        "Programming",
+        "Open Source"
+      ]
+    },
+    {
+      "title_en": "Arch Linux Now Has a Bit-for-Bit Reproducible Docker Image",
+      "url": "https://antiz.fr/blog/archlinux-now-has-a-reproducible-docker-image/",
+      "title_zh": "Arch Linux 现已提供逐位可重现的 Docker 镜像",
+      "created_display": "Created: Apr 22, 2026 / 18:59 PT",
+      "image_url": "https://antiz.fr/images/pfp.jpg",
+      "summary_en": "Arch Linux now ships a bit-for-bit reproducible Docker image, enabling deterministic builds for CI and debugging. This reduces non-determinism in container creation and helps developers reproduce environments exactly.",
+      "summary_zh": "Arch Linux 现已提供逐位可重现的 Docker 镜像，使构建过程在 CI 和调试中具备可重复性。这样可消除镜像创建中的随机差异，帮助开发者精准重现运行环境。",
+      "hn": {
+        "id": 47871519,
+        "type": "story",
+        "by": "maxloh",
+        "score": 340,
+        "descendants": 112,
+        "time": 1776909548,
+        "comments_url": "https://news.ycombinator.com/item?id=47871519"
+      },
+      "tags": [
+        "DevOps",
+        "Open Source"
+      ],
+      "hot_score": 0.49
+    },
+    {
+      "title_en": "UK Biobank health data keeps ending up on GitHub",
+      "url": "https://biobank.rocher.lc",
+      "title_zh": "UK Biobank 健康数据持续被上传至 GitHub",
+      "created_display": "Created: Apr 23, 2026 / 06:58 PT",
+      "image_url": "https://biobank.rocher.lc/og.png",
+      "summary_en": "Health data from the UK Biobank continues to appear on GitHub, raising concerns about data governance, privacy, and access controls in open repositories. The incident spotlights the tension between reproducible science and safeguarding sensitive health information. It also underscores the need for robust data-sharing policies and tooling.",
+      "summary_zh": "英国生物库的健康数据持续出现在 GitHub 上，引发对数据治理、隐私和开放仓库访问控制的担忧。此事凸显了可重复科学与保护敏感健康信息之间的矛盾，也提醒加强数据共享政策和工具的必要性。",
+      "hn": {
+        "id": 47875843,
+        "type": "story",
+        "by": "Cynddl",
+        "score": 167,
+        "descendants": 41,
+        "time": 1776952683,
+        "comments_url": "https://news.ycombinator.com/item?id=47875843"
+      },
+      "tags": [
+        "Health",
+        "Data",
+        "Privacy",
+        "Programming"
+      ],
+      "hot_score": 0.48
+    },
+    {
+      "title_en": "US Department of Justice has officially reclassified cannabis as less dangerous",
+      "url": "https://www.bbc.com/news/articles/cdxd0xxp0jko",
+      "title_zh": "美国司法部正式将大麻降级为风险较低",
+      "created_display": "Created: Apr 23, 2026 / 06:37 PT",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/ca67/live/348f0210-3e71-11f1-8f78-2b3776d2d1d0.jpg",
+      "summary_en": "The U.S. Department of Justice has officially reclassified cannabis as less dangerous, signaling a shift in federal stance on a substance long treated as high-risk. The move could affect research access, banking, and state-federal policy alignment, while inviting continued policy debates. Expect downstream changes in enforcement priorities and public health programs.",
+      "summary_zh": "美国司法部正式将大麻降级为风险较低，标志着联邦层面对该物质的态度发生转变。此举可能影响研究许可、银行业务以及州与联邦政策的协调，同时引发持续的政策辩论。未来在执法重点和公共卫生规划方面可能出现变化。",
+      "hn": {
+        "id": 47875629,
+        "type": "story",
+        "by": "kaycebasques",
+        "score": 158,
+        "descendants": 200,
+        "time": 1776951468,
+        "comments_url": "https://news.ycombinator.com/item?id=47875629"
+      },
+      "hot_score": 0.44,
+      "tags": [
+        "Politics",
+        "Legal",
+        "Health"
+      ]
+    },
+    {
+      "title_en": "Website streamed live directly from a model",
+      "url": "https://flipbook.page/",
+      "title_zh": "网站直接由模型实时输出内容",
+      "created_display": "Created: Apr 22, 2026 / 11:01 PT",
+      "image_url": "https://flipbook.page/flipbook-unfurl.jpg",
+      "summary_en": "A site streams output directly from a live AI model, delivering real-time, model-generated content to viewers. It demonstrates low-latency, streaming-ready architecture for on-demand AI experiences and raises questions about cost and content control.",
+      "summary_zh": "某站点实现了模型实时输出的流式传输，向观众提供即时的模型生成内容。展示了适用于实时 AI 体验的低延迟架构，同时也引发成本和内容治理的讨论。",
+      "hn": {
+        "id": 47867048,
+        "type": "story",
+        "by": "sethbannon",
+        "score": 423,
+        "descendants": 114,
+        "time": 1776880878,
+        "comments_url": "https://news.ycombinator.com/item?id=47867048"
+      },
+      "tags": [
+        "AI",
+        "Web"
+      ],
+      "hot_score": 0.43
+    },
+    {
+      "title_en": "Over-editing refers to a model modifying code beyond what is necessary",
+      "url": "https://nrehiew.github.io/blog/minimal_editing/",
+      "title_zh": "过度编辑指模型对代码进行超出必要程度的修改",
+      "created_display": "Created: Apr 22, 2026 / 10:51 PT",
+      "image_url": "https://nrehiew.github.io/blog/minimal_editing/images/overediting.png",
+      "summary_en": "Over-editing describes when an AI model makes more changes to code than necessary, introducing instability and feature creep. The piece advocates minimal editing as a discipline to keep patches focused and maintainable, with practical patterns to avoid overzealous modifications.",
+      "summary_zh": "文章提出了“过度编辑”的现象，即模型对代码的修改超出必要范围，容易引入不必要的复杂性。作者主张采用“最小编辑”原则，给出避免过度修改的实践方法和启示。",
+      "hn": {
+        "id": 47866913,
+        "type": "story",
+        "by": "pella",
+        "score": 415,
+        "descendants": 241,
+        "time": 1776880277,
+        "comments_url": "https://news.ycombinator.com/item?id=47866913"
+      },
+      "tags": [
+        "AI",
+        "Programming"
+      ],
+      "hot_score": 0.42
+    },
+    {
+      "title_en": "Writing a C Compiler, in Zig (2025)",
+      "url": "https://ar-ms.me/thoughts/c-compiler-1-zig/",
+      "title_zh": "用 Zig 编写 C 编译器（2025）",
+      "created_display": "Created: Apr 23, 2026 / 02:20 PT",
+      "image_url": "https://ar-ms.me/flag.jpg",
+      "summary_en": "A reflective piece detailing the author's journey implementing a C compiler in Zig, exploring language features, compiler design challenges, and performance trade-offs. It offers insights into language design, metaprogramming, and why Zig's safety/guile helps in compiler construction.",
+      "summary_zh": "作者在文章中记录了用 Zig 编写 C 编译器的过程，讨论了实现中的架构设计、挑战与性能权衡。通过这个案例，展示了 Zig 在系统级工具开发中的优势，以及对编译器实现的启示。",
+      "hn": {
+        "id": 47873694,
+        "type": "story",
+        "by": "tosh",
+        "score": 166,
+        "descendants": 52,
+        "time": 1776936047,
+        "comments_url": "https://news.ycombinator.com/item?id=47873694"
+      },
+      "tags": [
+        "Programming"
+      ],
+      "hot_score": 0.35
+    },
+    {
+      "title_en": "Our newsroom AI policy",
+      "url": "https://arstechnica.com/staff/2026/04/our-newsroom-ai-policy/",
+      "title_zh": "Ars Technica：新闻编辑部的 AI 政策",
+      "created_display": "Created: Apr 22, 2026 / 22:14 PT",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/ars-logo-dark-background-1152x648.jpg",
+      "summary_en": "Ars Technica lays out rules for how the newsroom uses AI, including disclosure, verification, and limits on relying on AI for reporting. The policy signals a cautious, transparency-first approach to AI in journalism that could influence newsroom standards industry-wide.",
+      "summary_zh": "《Ars Technica》的新闻编辑部在 AI 使用方面提出了规则与底线，包括披露、核实和对报道的限制。该政策体现了在新闻业中以透明和谨慎为先的态度，可能影响行业的AI使用标准。",
+      "hn": {
+        "id": 47872452,
+        "type": "story",
+        "by": "zdw",
+        "score": 200,
+        "descendants": 128,
+        "time": 1776921245,
+        "comments_url": "https://news.ycombinator.com/item?id=47872452"
+      },
+      "tags": [
+        "AI"
+      ],
+      "hot_score": 0.34
+    },
+    {
+      "title_en": "Technical, cognitive, and intent debt",
+      "url": "https://martinfowler.com/fragments/2026-04-02.html",
+      "title_zh": "马丁·福勒：技术债、认知债与意图债",
+      "created_display": "Created: Apr 22, 2026 / 09:11 PT",
+      "image_url": "https://martinfowler.com/logo-sq.png",
+      "summary_en": "Martin Fowler frames debt beyond code: technical debt, cognitive debt, and intent debt. He outlines how mental load and misaligned intent erode maintainability, and suggests design and documentation practices to curb them.",
+      "summary_zh": "马丁·福勒将债务分为技术债、认知债与意图债三类。认知负担和实现意图不一致会侵蚀可维护性，他建议通过设计清晰的接口、更好地文档来降低风险。",
+      "hn": {
+        "id": 47865661,
+        "type": "story",
+        "by": "theorchid",
+        "score": 339,
+        "descendants": 93,
+        "time": 1776874283,
+        "comments_url": "https://news.ycombinator.com/item?id=47865661"
+      },
+      "tags": [
+        "Programming",
+        "Design"
+      ],
+      "hot_score": 0.32
+    },
+    {
+      "title_en": "Scoring Show HN submissions for AI design patterns",
+      "url": "https://www.adriankrebs.ch/blog/design-slop/",
+      "title_zh": "用 AI 设计模式对 Show HN 提交打分",
+      "created_display": "Created: Apr 22, 2026 / 07:44 PT",
+      "image_url": "https://adriankrebs.ch/_astro/og-default.B6BqwTMP.svg",
+      "summary_en": "A design-focused critique proposes scoring Show HN submissions using AI design patterns, offering a rubric to evaluate modularity, data flows, and safety. The idea is to give more structured, design-conscious feedback on community demos.",
+      "summary_zh": "一种以设计为导向的评论提出用 AI 设计模式对 Show HN 提交进行评分，提供评估模块化、数据流和安全等要点的标准。旨在为社区展示提供更有结构的反馈。",
+      "hn": {
+        "id": 47864393,
+        "type": "story",
+        "by": "hubraumhugo",
+        "score": 328,
+        "descendants": 233,
+        "time": 1776869072,
+        "comments_url": "https://news.ycombinator.com/item?id=47864393"
+      },
+      "tags": [
+        "AI",
+        "Design"
+      ],
+      "hot_score": 0.3
+    },
+    {
+      "title_en": "Parallel agents in Zed",
+      "url": "https://zed.dev/blog/parallel-agents",
+      "title_zh": "Zed 的并行代理",
+      "created_display": "Created: Apr 22, 2026 / 10:38 PT",
+      "image_url": "https://zed.dev/img/post/parallel-agents/thumbnail.webp",
+      "summary_en": "Zed unveils parallel agents architecture that lets multiple AI agents run concurrently within pipelines. This boosts throughput and enables more complex collaboration, while raising questions about coordination and resource management.",
+      "summary_zh": "Zed 公布并行代理架构，允许多个 AI 代理在工作流中同时并发运行。提升吞吐与协作复杂性，但也带来协作、状态与资源管理等挑战。",
+      "hn": {
+        "id": 47866750,
+        "type": "story",
+        "by": "ajeetdsouza",
+        "score": 277,
+        "descendants": 160,
+        "time": 1776879537,
+        "comments_url": "https://news.ycombinator.com/item?id=47866750"
+      },
+      "tags": [
+        "AI"
+      ],
+      "hot_score": 0.28
+    },
+    {
+      "title_en": "Ultraviolet corona discharges on treetops during storms",
+      "url": "https://www.psu.edu/news/earth-and-mineral-sciences/story/treetops-glowing-during-storms-captured-film-first-time",
+      "title_zh": "树梢出现紫外电晕放电",
+      "created_display": "Created: Apr 22, 2026 / 06:28 PT",
+      "image_url": "https://psu-gatsby-files-prod.s3.amazonaws.com/s3fs-public/styles/16_9_1000w/public/2026/04/corona-news-1.jpg?h=84071268&itok=bocHWT_2",
+      "summary_en": "Storms produce faint ultraviolet corona discharges visible on treetops, captured on film for the first time. The observation helps scientists study atmospheric electricity and could refine models of lightning initiation.",
+      "summary_zh": "暴风雨中树梢出现可见的紫外电晕放电，首次被记录成像。这一现象有助于研究大气电现象，并可能改进雷电起始的模型。",
+      "hn": {
+        "id": 47863324,
+        "type": "story",
+        "by": "t-3",
+        "score": 253,
+        "descendants": 66,
+        "time": 1776864520,
+        "comments_url": "https://news.ycombinator.com/item?id=47863324"
+      },
+      "tags": [
+        "Science"
+      ],
+      "hot_score": 0.22
+    },
+    {
+      "title_en": "Youth Suicides Declined After Creation of National Hotline",
+      "url": "https://www.nytimes.com/2026/04/22/science/988-youth-suicides-decline.html",
+      "title_zh": "国家热线成立后青少年自杀率下降",
+      "created_display": "Created: Apr 22, 2026 / 09:07 PT",
+      "image_url": null,
+      "summary_en": "A study finds youth suicide rates declined after launching a nationwide crisis hotline, suggesting hotlines can have a measurable public health impact. The finding underscores the importance of accessible mental health resources, though ongoing efforts are needed.",
+      "summary_zh": "研究发现国家热线推出后，青少年自杀率下降，表明热线对公共卫生有显著影响。该发现强调可及心理健康资源的重要性，但需要持续努力以巩固效果。",
+      "hn": {
+        "id": 47865622,
+        "type": "story",
+        "by": "marojejian",
+        "score": 228,
+        "descendants": 147,
+        "time": 1776874076,
+        "comments_url": "https://news.ycombinator.com/item?id=47865622"
+      },
+      "tags": [
+        "Health"
+      ],
+      "hot_score": 0.22
+    },
+    {
+      "title_en": "Scores decline again for 13-year-old students in reading and mathematics (2023)",
+      "url": "https://www.nationsreportcard.gov/highlights/ltt/2023/",
+      "title_zh": "2023年13岁学生阅读和数学成绩再次下降",
+      "created_display": "Created: Apr 22, 2026 / 11:57 PT",
+      "image_url": "https://www.nationsreportcard.gov/adminonly/themes/redesign_2015/images/nationsreportcard-logo.png",
+      "summary_en": "NAEP 2023 highlights show a continued decline in reading and math scores for 13-year-olds, widening gaps and raising concerns about the long-term effects of disrupted schooling. The trend adds urgency to targeted interventions.",
+      "summary_zh": "2023年全国评估显示，13岁学生在阅读和数学上的分数再次下滑，拉大了一些教育差距并引发对长期影响的担忧。此趋势凸显了对有针对性干预措施的紧迫需求。",
+      "hn": {
+        "id": 47867755,
+        "type": "story",
+        "by": "u1hcw9nx",
+        "score": 207,
+        "descendants": 291,
+        "time": 1776884240,
+        "comments_url": "https://news.ycombinator.com/item?id=47867755"
+      },
+      "tags": [
+        "Education"
+      ],
+      "hot_score": 0.22
+    },
+    {
+      "title_en": "Ping-pong robot beats top-level human players",
+      "url": "https://www.reuters.com/sports/ping-pong-robot-ace-makes-history-by-beating-top-level-human-players-2026-04-22/",
+      "title_zh": "乒乓机器人击败顶尖人类选手",
+      "created_display": "Created: Apr 22, 2026 / 08:13 PT",
+      "image_url": null,
+      "summary_en": "A ping-pong robot defeated top-level human players, marking a milestone for robotics and AI-enabled sports. The result demonstrates rapid adaptation and precision in robotic control, with implications for research and future competition.",
+      "summary_zh": "一台乒乓球机器人击败了顶尖人类选手，标志着体育领域机器人与AI的一项重要里程碑。该成就展示了机器人对高速对打的控制与学习能力，对机器人研究、人与机器人的竞争以及运动训练系统具有启发意义。",
+      "hn": {
+        "id": 47864785,
+        "type": "story",
+        "by": "wslh",
+        "score": 185,
+        "descendants": 259,
+        "time": 1776870828,
+        "comments_url": "https://news.ycombinator.com/item?id=47864785"
+      },
+      "tags": [
+        "Science",
+        "AI"
+      ],
+      "hot_score": 0.17
+    },
+    {
+      "title_en": "Workspace Agents in ChatGPT",
+      "url": "https://openai.com/index/introducing-workspace-agents-in-chatgpt/",
+      "title_zh": "ChatGPT 的工作区代理",
+      "created_display": "Created: Apr 22, 2026 / 10:47 PT",
+      "image_url": null,
+      "summary_en": "ChatGPT adds workspace agents to orchestrate tasks across apps from within the chat interface. This enables cross-tool automation and collaboration, with governance and privacy considerations for enterprise use.",
+      "summary_zh": "ChatGPT 增加工作区代理，可在对话界面内跨应用编排任务，推动跨工具的自动化与协作，同时需关注企业级治理与隐私。",
+      "hn": {
+        "id": 47866860,
+        "type": "story",
+        "by": "mfiguiere",
+        "score": 155,
+        "descendants": 62,
+        "time": 1776880027,
+        "comments_url": "https://news.ycombinator.com/item?id=47866860"
+      },
+      "tags": [
+        "AI",
+        "Programming",
+        "Privacy"
+      ],
+      "hot_score": 0.16
+    },
+    {
+      "title_en": "DuckDB 1.5.2 – SQL database that runs on laptop, server, in the browser",
+      "url": "https://duckdb.org/2026/04/13/announcing-duckdb-152",
+      "title_zh": "DuckDB 1.5.2：可在笔记本、服务器和浏览器中运行的 SQL 数据库",
+      "created_display": "Created: Apr 22, 2026 / 07:49 PT",
+      "image_url": "https://duckdb.org/images/blog/thumbs/duckdb-release-1-5-2.png",
+      "summary_en": "DuckDB 1.5.2 expands cross-environment support, including browser WASM execution, enabling analytics without a backend. This release makes it easier to ship data tooling offline or in client-side apps, aligning with portable analytics trends.",
+      "summary_zh": "DuckDB 1.5.2 扩展跨环境支持，新增在浏览器中通过 WASM 运行的能力，使在无后端环境下也能进行分析成为现实。该版本让数据工具更易离线或在客户端应用中使用，符合便携式分析的趋势。",
+      "hn": {
+        "id": 47864454,
+        "type": "story",
+        "by": "janandonly",
+        "score": 162,
+        "descendants": 51,
+        "time": 1776869342,
+        "comments_url": "https://news.ycombinator.com/item?id=47864454"
+      },
+      "tags": [
+        "Programming",
+        "Open Source",
+        "Data",
+        "Web"
+      ],
+      "hot_score": 0.15
+    }
+  ]
+}

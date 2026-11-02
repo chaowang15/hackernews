@@ -1,0 +1,1170 @@
+{
+  "meta": {
+    "mode": "best",
+    "source": "https://news.ycombinator.com/",
+    "api": "https://github.com/HackerNews/API",
+    "count_requested": 50,
+    "count_written": 50,
+    "reused_same_day": 0,
+    "reused_cross_day": 0,
+    "new_llm_enriched": 27,
+    "scrape_time_display": "07:24, May 06, 2026 (PDT)",
+    "timezone": "America/Los_Angeles",
+    "date_dir": "2026/05/05",
+    "content_date": "2026-05-05",
+    "run_time_local": "07:24, May 06, 2026 (PDT)",
+    "run_time_utc": "2026-05-06 14:24:03 UTC",
+    "incremental": true,
+    "stories_max": 50,
+    "hot_score_time_utc": "2026-05-06 14:26:11 UTC"
+  },
+  "items": [
+    {
+      "title_en": "Show HN: Red Squares – GitHub outages as contributions",
+      "url": "https://red-squares.cian.lol/",
+      "title_zh": "Show HN：Red Squares 将 GitHub 故障变成贡献",
+      "created_display": "Created: May 06, 2026 / 03:28 PT",
+      "image_url": null,
+      "summary_en": "Red Squares turns outage data into contributions, offering a playful, data-driven way to visualize GitHub reliability events in a public project. It sparks ideas for incident-aware dashboards and community-driven reliability metrics.",
+      "summary_zh": "Red Squares 将故障数据转化为贡献，以数据驱动的方式在公开项目中可视化 GitHub 可靠性事件，激发对基于事件的仪表板和社区驱动的可靠性指标的探索。",
+      "hn": {
+        "id": 48034587,
+        "type": "story",
+        "by": "cianmm",
+        "score": 488,
+        "descendants": 103,
+        "time": 1778063320,
+        "comments_url": "https://news.ycombinator.com/item?id=48034587"
+      },
+      "hot_score": 19.6,
+      "tags": [
+        "Show HN",
+        "Data",
+        "Programming"
+      ]
+    },
+    {
+      "title_en": "Agents can now create Cloudflare accounts, buy domains, and deploy",
+      "url": "https://blog.cloudflare.com/agents-stripe-projects/",
+      "title_zh": "代理现在可创建 Cloudflare 账户、购买域名并完成部署",
+      "created_display": "Created: May 05, 2026 / 20:10 PT",
+      "image_url": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/1z87ypuPVuagcw4apgVWEz/32925c589f5c49ea212c2b12359c3efc/BLOG-3288-OG.png",
+      "summary_en": "Cloudflare's Agents can now perform end-to-end provisioning: create accounts, buy domains, and deploy projects automatically. This accelerates onboarding for developers and MSP-like workflows, but also raises security and governance questions around automated provisioning.",
+      "summary_zh": "Cloudflare 的 Agents 现在能够实现端到端的自动化：自动创建账户、购买域名并部署项目。这将加速开发者与托管工作流的上线速度，但也带来自动化权限与域名管理的安全与治理挑战。",
+      "hn": {
+        "id": 48031684,
+        "type": "story",
+        "by": "rolph",
+        "score": 468,
+        "descendants": 252,
+        "time": 1778037033,
+        "comments_url": "https://news.ycombinator.com/item?id=48031684"
+      },
+      "tags": [
+        "Programming",
+        "Security"
+      ],
+      "hot_score": 4.45
+    },
+    {
+      "title_en": "StarFighter 16-Inch",
+      "url": "https://us.starlabs.systems/pages/starfighter",
+      "title_zh": "StarFighter 16英寸笔记本",
+      "created_display": "Created: May 05, 2026 / 19:03 PT",
+      "image_url": "http://us.starlabs.systems/cdn/shop/files/Star_6c731e1d-b2c1-4de1-a872-7081e0b5d878.png?v=1762248375",
+      "summary_en": "StarFighter 16-Inch marks Star Labs' new 16-inch Linux-friendly laptop lineup, offering improved display, thermals, and battery life for developers and power users. The device continues Star Labs’ focus on open hardware and Linux-first design, appealing to enthusiasts who want a ready-to-use Linux machine.",
+      "summary_zh": "StarFighter 16英寸笔记本展示了 Star Labs 面向 Linux 的新旗舰。新机在显示、散热与续航方面有显著提升，符合开放硬件与 Linux 优先的定位，适合开发者与高阶用户。",
+      "hn": {
+        "id": 48031261,
+        "type": "story",
+        "by": "signa11",
+        "score": 494,
+        "descendants": 242,
+        "time": 1778033024,
+        "comments_url": "https://news.ycombinator.com/item?id=48031261"
+      },
+      "tags": [
+        "Hardware",
+        "Open Source",
+        "Energy"
+      ],
+      "hot_score": 4.07
+    },
+    {
+      "title_en": "DNSSEC disruption affecting .de domains – Resolved",
+      "url": "https://status.denic.de/pages/incident/592577eab611ce1e0d00046f/69fa60ef9d12f5057a974f38",
+      "title_zh": ".de 域名的 DNSSEC 中断已解决",
+      "created_display": "Created: May 05, 2026 / 13:16 PT",
+      "image_url": "https://image.status.io/HtSLcvSAq94M.jpg",
+      "summary_en": "A DNSSEC validation disruption briefly interrupted secure resolution for .de domains, affecting trust chain verification across German sites. The incident has been resolved; operators are advised to re-validate DNSSEC records and monitor for lingering validation issues. This underscores how crypto-based DNS protections, while powerful, require careful operational hygiene.",
+      "summary_zh": "一段 DNSSEC 验证中断曾影响 .de 域名的安全解析，现已解决。事件凸显了基于加密的 DNS 保护需要严格的运维与监控以确保信任链的稳定。",
+      "hn": {
+        "id": 48027897,
+        "type": "story",
+        "by": "warpspin",
+        "score": 705,
+        "descendants": 372,
+        "time": 1778012195,
+        "comments_url": "https://news.ycombinator.com/item?id=48027897"
+      },
+      "tags": [
+        "Security",
+        "Web"
+      ],
+      "hot_score": 3.16
+    },
+    {
+      "title_en": "Knitting bullshit",
+      "url": "https://katedaviesdesigns.com/2026/04/29/knitting-bullshit/",
+      "title_zh": "编织圈的胡说八道",
+      "created_display": "Created: May 05, 2026 / 22:13 PT",
+      "image_url": "https://i0.wp.com/katedaviesdesigns.com/wp-content/uploads/2026/04/1950s-52.jpeg?fit=768%2C768&ssl=1",
+      "summary_en": "A sharp critique of hype and marketing language in knitting, highlighting how trend-driven chatter can obscure craft and technique.",
+      "summary_zh": "对编织界 hype 与营销语言进行尖锐批评，指出趋势驱动的讨论往往掩盖了技艺与实操要点。",
+      "hn": {
+        "id": 48032461,
+        "type": "story",
+        "by": "ColinEberhardt",
+        "score": 226,
+        "descendants": 105,
+        "time": 1778044438,
+        "comments_url": "https://news.ycombinator.com/item?id=48032461"
+      },
+      "tags": [
+        "Culture"
+      ],
+      "hot_score": 2.91
+    },
+    {
+      "title_en": "Google Chrome silently installs a 4 GB AI model on your device without consent",
+      "url": "https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/",
+      "title_zh": "谷歌 Chrome 未经同意在设备上静默下载 4GB AI 模型",
+      "created_display": "Created: May 05, 2026 / 00:34 PT",
+      "image_url": "https://www.thatprivacyguy.com/blog/assets/2026-05-04-001.png",
+      "summary_en": "Chrome quietly downloads a 4GB AI model to devices without user consent, raising storage and privacy risks as silent payloads become more common. This underscores the need for transparent controls and clear opt-out options to protect user autonomy.",
+      "summary_zh": "Chrome 未经用户同意在设备上静默下载一个 4GB 的 AI 模型，增添了存储和隐私方面的潜在风险。此举凸显对静默下载的透明度、可控性以及用户撤销的需求。",
+      "hn": {
+        "id": 48019219,
+        "type": "story",
+        "by": "john-doe",
+        "score": 1533,
+        "descendants": 1025,
+        "time": 1777966495,
+        "comments_url": "https://news.ycombinator.com/item?id=48019219"
+      },
+      "tags": [
+        "AI",
+        "Privacy"
+      ],
+      "hot_score": 2.85
+    },
+    {
+      "title_en": "Ombudsman column: The Pentagon is trying to silence me",
+      "url": "https://www.stripes.com/opinion/2026-04-23/stripes-former-ombudsman-pentagon-trying-to-silence-21465037.html",
+      "title_zh": "监察专员专栏：五角大楼试图让我保持沉默",
+      "created_display": "Created: May 05, 2026 / 20:24 PT",
+      "image_url": "https://www.stripes.com/incoming/7rcmey-260326dealsphoto01.jpg/alternates/LANDSCAPE_480/260326DEALSphoto01.jpg",
+      "summary_en": "A Pentagon ombudsman column alleges the department is pressuring him to stay silent, underscoring tensions around whistleblowing, transparency, and oversight in the defense apparatus. The piece adds to ongoing questions about accountability in government.",
+      "summary_zh": "前五角大楼监察专员的专栏声称政府正施压他保持沉默，凸显国防机构的告密、透明度与监督之间的紧张关系。这一说法引发对政府问责制的关注与讨论。",
+      "hn": {
+        "id": 48031769,
+        "type": "story",
+        "by": "petethomas",
+        "score": 283,
+        "descendants": 89,
+        "time": 1778037889,
+        "comments_url": "https://news.ycombinator.com/item?id=48031769"
+      },
+      "tags": [
+        "Politics",
+        "Legal"
+      ],
+      "hot_score": 2.78
+    },
+    {
+      "title_en": "Accelerating Gemma 4: faster inference with multi-token prediction drafters",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/multi-token-prediction-gemma-4/",
+      "title_zh": "加速 Gemma 4：通过多令牌预测提升推理速度",
+      "created_display": "Created: May 05, 2026 / 09:14 PT",
+      "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Social_Share_Image_7bOA183.width-1300.png",
+      "summary_en": "Gemma 4 unlocks faster inference by enabling multi-token prediction drafts. The approach lets the model draft several tokens in parallel, reducing latency on long-context tasks. It signals a shift toward token-level parallelism in scalable AI deployments.",
+      "summary_zh": "谷歌的 Gemma 4 通过实现多令牌预测草拟来提升推理速度。该方法允许同时预测若干令牌，从而降低长上下文任务的延迟。标志着在可扩展的 AI 部署中向令牌级并行性的转变。",
+      "hn": {
+        "id": 48024540,
+        "type": "story",
+        "by": "amrrs",
+        "score": 615,
+        "descendants": 298,
+        "time": 1777997657,
+        "comments_url": "https://news.ycombinator.com/item?id=48024540"
+      },
+      "tags": [
+        "AI"
+      ],
+      "hot_score": 1.98
+    },
+    {
+      "title_en": "YouTube, your RSS feeds are broken",
+      "url": "https://openrss.org/blog/youtube-your-feeds-are-broken",
+      "title_zh": "YouTube 的 RSS 订阅源出了问题",
+      "created_display": "Created: May 05, 2026 / 18:15 PT",
+      "image_url": null,
+      "summary_en": "YouTube RSS feeds are experiencing issues that break third-party readers, forcing users to seek workarounds or alternative feeds.",
+      "summary_zh": "YouTube 的 RSS 订阅源出现问题，导致第三方订阅工具无法正常工作。文章分析了现代视频网站对 RSS 的依赖脆弱性，并提出可能的解决思路与替代方案。",
+      "hn": {
+        "id": 48030964,
+        "type": "story",
+        "by": "veeti",
+        "score": 220,
+        "descendants": 79,
+        "time": 1778030131,
+        "comments_url": "https://news.ycombinator.com/item?id=48030964"
+      },
+      "tags": [
+        "Web"
+      ],
+      "hot_score": 1.64
+    },
+    {
+      "title_en": "Zuckerberg 'Personally Authorized and Encouraged' Meta's Copyright Infringement",
+      "url": "https://variety.com/2026/digital/news/meta-ai-mark-zuckerberg-copyright-infringement-lawsuit-publishers-scott-turow-1236738383/",
+      "title_zh": "扎克伯格亲自授权并推动 Meta 的版权侵权",
+      "created_display": "Created: May 05, 2026 / 11:04 PT",
+      "image_url": "https://variety.com/wp-content/uploads/2025/01/Meta-CEO-Mark-Zuckerberg.png?crop=0px%2C81px%2C1249px%2C703px&resize=1000%2C563",
+      "summary_en": "A report alleges Zuckerberg personally authorized and encouraged copyright infringement related to publishers, shedding light on governance of AI training data and executive-level accountability.",
+      "summary_zh": "一份报道称扎克伯格个人授权并推动 Meta 的版权侵权，暴露出在人工智能训练数据治理与高层问责方面的风险。",
+      "hn": {
+        "id": 48026207,
+        "type": "story",
+        "by": "spankibalt",
+        "score": 427,
+        "descendants": 368,
+        "time": 1778004265,
+        "comments_url": "https://news.ycombinator.com/item?id=48026207"
+      },
+      "tags": [
+        "Legal",
+        "Business",
+        "AI"
+      ],
+      "hot_score": 1.59
+    },
+    {
+      "title_en": "Write some software, give it away for free",
+      "url": "https://nonogra.ph/write-some-software-give-it-away-for-free-05-05-2026",
+      "title_zh": "写点软件，免费开源",
+      "created_display": "Created: May 05, 2026 / 14:26 PT",
+      "image_url": null,
+      "summary_en": "Publishing software for free can accelerate adoption, attract contributors, and create long-term value through ecosystem effects. The piece weighs licensing choices and strategies for sustaining open-source work while still deriving value from the effort.",
+      "summary_zh": "免费发布软件有助于加速采用、吸引贡献者，并通过生态效应创造长期价值。文章讨论许可选择以及在保持开放性的同时实现可持续收益的策略。",
+      "hn": {
+        "id": 48028842,
+        "type": "story",
+        "by": "nohell",
+        "score": 313,
+        "descendants": 215,
+        "time": 1778016410,
+        "comments_url": "https://news.ycombinator.com/item?id=48028842"
+      },
+      "tags": [
+        "Open Source",
+        "Business"
+      ],
+      "hot_score": 1.56
+    },
+    {
+      "title_en": "Telus Uses AI to Alter Call-Agent Accents",
+      "url": "https://letsdatascience.com/news/telus-uses-ai-to-alter-call-agent-accents-a3868f63",
+      "title_zh": "Telus 用 AI 改变呼叫中心客服的口音",
+      "created_display": "Created: May 05, 2026 / 18:38 PT",
+      "image_url": "https://cdn.iphoneincanada.ca/wp-content/uploads/2026/02/telus-5g.jpg",
+      "summary_en": "Telus is piloting AI to adjust call-center agents' accents to suit regional listening preferences, a move that could improve comprehension but also raises concerns about authenticity, bias, and workforce impact. The experiment highlights the tension between automation for customer experience and preserving human variety.",
+      "summary_zh": "Telus 正试点使用 AI 调整呼叫中心客服的口音，以更好地符合地区受众的聆听习惯，这或提升理解度，但也引发真实性、偏见与对员工的影响等担忧。此举凸显了在提升客户体验与保留人类多样性之间的权衡。",
+      "hn": {
+        "id": 48031109,
+        "type": "story",
+        "by": "debo_",
+        "score": 200,
+        "descendants": 165,
+        "time": 1778031524,
+        "comments_url": "https://news.ycombinator.com/item?id=48031109"
+      },
+      "tags": [
+        "AI"
+      ],
+      "hot_score": 1.56
+    },
+    {
+      "title_en": "Three Inverse Laws of AI",
+      "url": "https://susam.net/inverse-laws-of-robotics.html",
+      "title_zh": "AI 的三条逆向律",
+      "created_display": "Created: May 05, 2026 / 08:27 PT",
+      "image_url": null,
+      "summary_en": "Three inverse laws of AI propose that as AI grows more capable, governance should tighten; interpretability remains essential for trust; and expectations should be tempered by practical limits. The piece uses humorous framing to underscore real-world constraints in safety and deployment. It invites readers to rethink AI governance alongside capability gains.",
+      "summary_zh": "提出三条 AI 的逆向法则：随着能力提升，治理需要加紧；可解释性对建立信任至关重要；对现实边界应持保留态度。以诙谐的笔法强调了现实世界在安全与落地中的约束，鼓励在能力增长的同时重新审视治理。",
+      "hn": {
+        "id": 48023861,
+        "type": "story",
+        "by": "blenderob",
+        "score": 489,
+        "descendants": 326,
+        "time": 1777994838,
+        "comments_url": "https://news.ycombinator.com/item?id=48023861"
+      },
+      "tags": [
+        "AI"
+      ],
+      "hot_score": 1.49
+    },
+    {
+      "title_en": "AI didn't delete your database, you did",
+      "url": "https://idiallo.com/blog/ai-didnt-delete-your-database-you-did",
+      "title_zh": "AI 没有删除你的数据库，是你删的",
+      "created_display": "Created: May 05, 2026 / 07:07 PT",
+      "image_url": "https://cdn.idiallo.com/images/assets/652/hero.jpg",
+      "summary_en": "The piece argues that data loss often results from human error or misconfigurations rather than AI mishaps, calling for stronger backups, robust data governance, and clearer ownership of data workflows. It emphasizes responsibility on operators and teams rather than blaming tooling.",
+      "summary_zh": "作者认为数据丢失往往源自人为错误或配置失误，而非 AI 的失误，呼吁加强备份、健全的数据治理以及对数据工作流的明确责任。强调将责任落到运营团队而非单纯指责工具。",
+      "hn": {
+        "id": 48022742,
+        "type": "story",
+        "by": "Brajeshwar",
+        "score": 529,
+        "descendants": 293,
+        "time": 1777990070,
+        "comments_url": "https://news.ycombinator.com/item?id=48022742"
+      },
+      "hot_score": 1.47,
+      "tags": [
+        "Data",
+        "AI"
+      ]
+    },
+    {
+      "title_en": "Computer Use is 45x more expensive than structured APIs",
+      "url": "https://reflex.dev/blog/computer-use-is-45x-more-expensive-than-structured-apis/",
+      "title_zh": "计算使用成本比结构化 API 高出 45 倍",
+      "created_display": "Created: May 05, 2026 / 09:34 PT",
+      "image_url": "https://web.reflex-assets.dev/blog/computer-use-is-45x-more-expensive-than-structured-apis.webp",
+      "summary_en": "Computing for unstructured tasks can be 45x more expensive than using structured APIs. This highlights the cost benefits of API-based tooling and disciplined data orchestration for AI workloads. It nudges engineers to design pipelines around reliable interfaces rather than ad-hoc compute.",
+      "summary_zh": "一项分析称，处理非结构化任务的计算成本大约比使用结构化 API 高出 45 倍。这凸显了基于 API 的工作流在 AI 负载中的成本优势，促使开发者以稳定接口而非随意计算来设计数据处理管线。",
+      "hn": {
+        "id": 48024859,
+        "type": "story",
+        "by": "palashawas",
+        "score": 436,
+        "descendants": 244,
+        "time": 1777998888,
+        "comments_url": "https://news.ycombinator.com/item?id=48024859"
+      },
+      "tags": [
+        "Programming",
+        "DevOps",
+        "AI"
+      ],
+      "hot_score": 1.44
+    },
+    {
+      "title_en": "California farmers to destroy 420k peach trees following Del Monte bankruptcy",
+      "url": "https://www.sfgate.com/centralcoast/article/usda-aid-california-farmers-22240694.php",
+      "title_zh": "Del Monte 破产后，加州农民将毁掉42万棵桃树",
+      "created_display": "Created: May 05, 2026 / 11:13 PT",
+      "image_url": "https://www.sfgate.com/_fs-ch-1T1wmsGaOgGaSxcX/assets/errorIcon.svg",
+      "summary_en": "Following Del Monte's bankruptcy, California growers must destroy around 420,000 peach trees due to supply chain realignments and replanting costs. The move underscores how corporate finance can ripple through farming and local economies, often necessitating government support or replanting plans.",
+      "summary_zh": "Del Monte 破产后，加州农户需销毁约 420,000 棵桃树，原因包括供给链重组与再栽成本。这反映了企业金融风暴对农业的连锁影响，并可能促成政府援助或再植计划。",
+      "hn": {
+        "id": 48026349,
+        "type": "story",
+        "by": "littlexsparkee",
+        "score": 355,
+        "descendants": 407,
+        "time": 1778004827,
+        "comments_url": "https://news.ycombinator.com/item?id=48026349"
+      },
+      "tags": [
+        "Business",
+        "Finance",
+        "Politics"
+      ],
+      "hot_score": 1.33
+    },
+    {
+      "title_en": "NPR finds \"no sign\" of Polymarket at its Panama HQ address",
+      "url": "https://www.npr.org/2026/05/05/nx-s1-5807918/polymarket-panama-prediction-market",
+      "title_zh": "NPR 指出 Polymarket 在巴拿马总部地址无迹象",
+      "created_display": "Created: May 05, 2026 / 14:50 PT",
+      "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5712x3213+0+536/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F27%2F13%2F78a67a264fd1baeb2f8855ab27d3%2Fimg-9447.jpeg",
+      "summary_en": "Investigates Polymarket's Panama HQ, raising questions about corporate footprint and regulatory compliance for a high-profile prediction market. Implications for crypto and prediction-market oversight are discussed.",
+      "summary_zh": "调查 Polymarket 的巴拿马总部地址，质疑其公司实体与监管合规性，涉及对预测市场及加密领域监管的潜在影响。",
+      "hn": {
+        "id": 48029114,
+        "type": "story",
+        "by": "ilamont",
+        "score": 251,
+        "descendants": 130,
+        "time": 1778017821,
+        "comments_url": "https://news.ycombinator.com/item?id=48029114"
+      },
+      "hot_score": 1.3,
+      "tags": [
+        "Business",
+        "Legal",
+        "Politics"
+      ]
+    },
+    {
+      "title_en": "IBM didn't want Microsoft to use the Tab key to move between dialog fields",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260505-00/?p=112298",
+      "title_zh": "IBM 不希望微软在对话框字段间用 Tab 键切换",
+      "created_display": "Created: May 05, 2026 / 10:28 PT",
+      "image_url": "https://devblogs.microsoft.com/oldnewthing/wp-content/uploads/sites/38/2019/02/ShowCover.jpg",
+      "summary_en": "A retro UI disagreement reveals how tab order decisions shaped early Windows product design. The anecdote highlights how tiny UX decisions influence developer workflows and product behavior. It reminds us that keyboard navigation remains a subtle but powerful UI lever.",
+      "summary_zh": "一则关于 UI 设计的往事揭示 IBM 不愿微软在对话框字段之间通过 Tab 键切换焦点的历史观点。该趣闻凸显了微小设计决策对开发者工作流和产品行为的影响，提醒人们键盘导航仍是重要的 UI 驱动。",
+      "hn": {
+        "id": 48025687,
+        "type": "story",
+        "by": "SeenNotHeard",
+        "score": 361,
+        "descendants": 209,
+        "time": 1778002098,
+        "comments_url": "https://news.ycombinator.com/item?id=48025687"
+      },
+      "tags": [
+        "Design"
+      ],
+      "hot_score": 1.28
+    },
+    {
+      "title_en": "Today I've made the difficult decision to reduce the size of Coinbase by ~14%",
+      "url": "https://twitter.com/brian_armstrong/status/2051616759145185723",
+      "title_zh": "我决定把 Coinbase 的规模缩减约14%",
+      "created_display": "Created: May 05, 2026 / 05:10 PT",
+      "image_url": "https://pbs.twimg.com/profile_images/1516832438818770944/n77EwnKU_200x200.png",
+      "summary_en": "CEO announces a roughly 14% workforce reduction to streamline operations and refocus on core products. The move signals ongoing consolidation in crypto infrastructure and underscores the cost discipline shaping tech startups.",
+      "summary_zh": "CEO 宣布将 Coinbase 的规模缩减约14%，以精简运营并聚焦核心产品。此举反映了加密基础设施领域持续整合的趋势，以及成本管控在科技初创公司中的作用。",
+      "hn": {
+        "id": 48021368,
+        "type": "story",
+        "by": "adrianmsmith",
+        "score": 429,
+        "descendants": 658,
+        "time": 1777983024,
+        "comments_url": "https://news.ycombinator.com/item?id=48021368"
+      },
+      "tags": [
+        "Business",
+        "Finance",
+        "DevOps"
+      ],
+      "hot_score": 1.05
+    },
+    {
+      "title_en": "iOS 27 is adding a 'Create a Pass' button to Apple Wallet",
+      "url": "https://walletwallet.alen.ro/blog/ios-27-wallet-create-pass/",
+      "title_zh": "iOS 27 将在 Apple Wallet 增设“创建凭证”按钮",
+      "created_display": "Created: May 05, 2026 / 05:28 PT",
+      "image_url": "https://walletwallet.alen.ro/tags/wallpaper.png",
+      "summary_en": "Apple Wallet's new Create a Pass button streamlines programmatic pass creation for tickets, loyalty cards, and IDs. Developers can automate credential generation at scale, reducing manual steps. The change raises questions about security, offline validity, and data integrity across pass ecosystems.",
+      "summary_zh": "Apple Wallet 新增“创建凭证”按钮，使凭证的批量生成和管理更为自动化，覆盖票务、积分卡与身份凭证等场景。开发者可借此规模化生成凭证，显著减少人工步骤。此变动同时带来安全、离线有效性与跨生态数据完整性等考量。",
+      "hn": {
+        "id": 48021561,
+        "type": "story",
+        "by": "alentodorov",
+        "score": 409,
+        "descendants": 309,
+        "time": 1777984108,
+        "comments_url": "https://news.ycombinator.com/item?id=48021561"
+      },
+      "tags": [
+        "Programming",
+        "Security"
+      ],
+      "hot_score": 1.02
+    },
+    {
+      "title_en": "EEVblog: The 555 Timer is 55 years old [video]",
+      "url": "https://www.youtube.com/watch?v=6JhK8iCQuqI",
+      "title_zh": "EEVblog：555定时器诞生55周年",
+      "created_display": "Created: May 05, 2026 / 08:47 PT",
+      "image_url": null,
+      "summary_en": "At 55 years old, the 555 timer remains a staple in analog electronics. Its simplicity and versatility power countless hobbyist builds and teaching labs, influencing modern timing and waveform generation.",
+      "summary_zh": "555 定时器已诞生55周年，仍是模拟电子学的基石。它的简单性和灵活性支撑着无数爱好者项目与教学实验，至今也影响着现代定时与波形生成的设计思路。",
+      "hn": {
+        "id": 48024129,
+        "type": "story",
+        "by": "brudgers",
+        "score": 309,
+        "descendants": 80,
+        "time": 1777996038,
+        "comments_url": "https://news.ycombinator.com/item?id=48024129"
+      },
+      "tags": [
+        "Hardware"
+      ],
+      "hot_score": 0.96
+    },
+    {
+      "title_en": "Zig → Rust porting guide",
+      "url": "https://github.com/oven-sh/bun/commit/46d3bc29f270fa881dd5730ef1549e88407701a5",
+      "title_zh": "Zig 到 Rust 的端口移植指南",
+      "created_display": "Created: May 04, 2026 / 18:08 PT",
+      "image_url": "https://opengraph.githubassets.com/71b057188fb96b3e204004bda82c56574fc44a5f6c7958772ae6d55f18d93afb/oven-sh/bun/commit/46d3bc29f270fa881dd5730ef1549e88407701a5",
+      "summary_en": "Outlines the approach for porting Bun from Zig to Rust, highlighting architectural decisions and milestones to preserve performance. It signals a broader interest in rewriting critical runtimes in Rust to improve safety and maintainability.",
+      "summary_zh": "本文概述将 Bun 的核心从 Zig 迁移到 Rust 的方法论，强调架构决策、里程碑与在保持高性能的同时提升安全性的要点。它体现了在关键运行时中以 Rust 提高可维护性与稳定性的趋势。",
+      "hn": {
+        "id": 48016880,
+        "type": "story",
+        "by": "SergeAx",
+        "score": 705,
+        "descendants": 532,
+        "time": 1777943297,
+        "comments_url": "https://news.ycombinator.com/item?id=48016880"
+      },
+      "hot_score": 0.95,
+      "tags": [
+        "Programming"
+      ]
+    },
+    {
+      "title_en": "The fun has been optimized out of the Internet",
+      "url": "https://muddy.jprs.me/posts/2026-05-03-the-best-is-over/",
+      "title_zh": "互联网的乐趣已被优化掉",
+      "created_display": "Created: May 05, 2026 / 07:29 PT",
+      "image_url": "https://muddy.jprs.me/logo.png",
+      "summary_en": "Argues that excessive optimization, ads, and metrics have eroded the playful, exploratory nature of the web. Calls for reclaiming humane, creative experiences and rethinking monetization-driven design.",
+      "summary_zh": "认为过度优化、广告与指标驱动已经削弱了互联网的趣味性与探索精神，呼吁回归人性化、创造性的使用体验，并重新审视以盈利为导向的设计。",
+      "hn": {
+        "id": 48022992,
+        "type": "story",
+        "by": "jprs",
+        "score": 307,
+        "descendants": 276,
+        "time": 1777991364,
+        "comments_url": "https://news.ycombinator.com/item?id=48022992"
+      },
+      "hot_score": 0.87,
+      "tags": [
+        "Culture"
+      ]
+    },
+    {
+      "title_en": "I'm scared about biological computing",
+      "url": "https://kuber.studio/blog/Reflections/I%27m-Scared-About-Biological-Computing",
+      "title_zh": "我对生物计算感到担忧",
+      "created_display": "Created: May 05, 2026 / 09:03 PT",
+      "image_url": "https://kuber.studio/blog/static/social-images/content-Reflections-I'm Scared About Biological Computing.md.webp",
+      "summary_en": "A thoughtful piece raises safety and governance concerns as biology-based computing moves closer to mainstream use. It warns about biosecurity, reproducibility, and ethical risk in wetware-enabled computation. The message calls for careful, responsible research and policy framing.",
+      "summary_zh": "一篇深思熟虑的文章警示生物计算在走向主流计算时的安全、治理与潜在后果。强调生物安全、可重复性与伦理风险，呼吁负责任的研究与政策框架。",
+      "hn": {
+        "id": 48024358,
+        "type": "story",
+        "by": "kuberwastaken",
+        "score": 257,
+        "descendants": 205,
+        "time": 1777996986,
+        "comments_url": "https://news.ycombinator.com/item?id=48024358"
+      },
+      "tags": [
+        "Science"
+      ],
+      "hot_score": 0.82
+    },
+    {
+      "title_en": "Async Rust never left the MVP state",
+      "url": "https://tweedegolf.nl/en/blog/237/async-rust-never-left-the-mvp-state",
+      "title_zh": "异步 Rust 仍处于 MVP 阶段",
+      "created_display": "Created: May 05, 2026 / 00:26 PT",
+      "image_url": "https://media.tweedegolf.nl/images/logo-1024.png",
+      "summary_en": "The piece argues that the async Rust ecosystem remains MVP-level, with immature tooling and stability for production use. It cautions developers to weigh risk and consider maturer alternatives or wait for ecosystem stabilization.",
+      "summary_zh": "文章认为异步 Rust 的生态仍处于 MVP 水平，开发生产环境时工具链与稳定性尚不成熟。提醒开发者权衡风险，考虑更成熟的替代方案或等待生态稳定。",
+      "hn": {
+        "id": 48019163,
+        "type": "story",
+        "by": "pjmlp",
+        "score": 437,
+        "descendants": 244,
+        "time": 1777965963,
+        "comments_url": "https://news.ycombinator.com/item?id=48019163"
+      },
+      "hot_score": 0.81,
+      "tags": [
+        "Programming"
+      ]
+    },
+    {
+      "title_en": "When everyone has AI and the company still learns nothing",
+      "url": "https://www.robert-glaser.de/when-everyone-has-ai-and-the-company-still-learns-nothing/",
+      "title_zh": "当人人都在用 AI，而公司却没有学到任何东西",
+      "created_display": "Created: May 05, 2026 / 02:30 PT",
+      "image_url": "https://storage.ghost.io/c/55/c6/55c640b8-7cdc-45a4-965d-3d691ea2071f/content/images/size/w1200/2026/05/monolith-leaking-tokens.jpeg",
+      "summary_en": "AI adoption alone doesn't guarantee organizational learning; without feedback loops, governance, and value-driven KPIs, AI programs stagnate. The piece urges embedding learning culture into AI initiatives, with measurable outcomes and user-centered design. It argues for treating AI as a process improvement tool, not a magic fix.",
+      "summary_zh": "单靠 AI 的普及并不能带来组织学习；若缺乏反馈机制、治理与以价值为导向的指标，AI 项目会停滞。应把学习文化嵌入 AI 计划，设定可衡量的目标并以用户为中心设计。把 AI 视为流程改进工具，而非灵丹妙药。",
+      "hn": {
+        "id": 48020063,
+        "type": "story",
+        "by": "youngbrioche",
+        "score": 372,
+        "descendants": 247,
+        "time": 1777973422,
+        "comments_url": "https://news.ycombinator.com/item?id=48020063"
+      },
+      "tags": [
+        "AI",
+        "Business",
+        "Education"
+      ],
+      "hot_score": 0.77
+    },
+    {
+      "title_en": "Agents for financial services and insurance",
+      "url": "https://www.anthropic.com/news/finance-agents",
+      "title_zh": "金融服务与保险领域的智能代理",
+      "created_display": "Created: May 05, 2026 / 08:05 PT",
+      "image_url": "https://www.anthropic.com/api/opengraph-illustration?name=Node-GraphChart&backgroundColor=clay",
+      "summary_en": "AI agents tailored for finance and insurance workflows aim to automate and assist regulated processes while meeting compliance and security requirements. They enable faster customer interactions, risk checks, and data analysis with traceability.",
+      "summary_zh": "面向金融与保险场景的智能代理，旨在在合规与安全前提下自动化与协助受监管的流程。它们可加速客户互动、风控检查与数据分析，并实现可追溯。文章强调专业化代理在不牺牲治理的前提下释放价值。",
+      "hn": {
+        "id": 48023533,
+        "type": "story",
+        "by": "louiereederson",
+        "score": 248,
+        "descendants": 176,
+        "time": 1777993547,
+        "comments_url": "https://news.ycombinator.com/item?id=48023533"
+      },
+      "tags": [
+        "AI",
+        "Finance",
+        "Security",
+        "Politics"
+      ],
+      "hot_score": 0.73
+    },
+    {
+      "title_en": "Train Your Own LLM from Scratch",
+      "url": "https://github.com/angelos-p/llm-from-scratch",
+      "title_zh": "从零开始训练你自己的大语言模型",
+      "created_display": "Created: May 04, 2026 / 21:09 PT",
+      "image_url": "https://opengraph.githubassets.com/76ce9994a3ef10017256360aa1cf0820477270f632c5eb1a67e4a777abc4981c/angelos-p/llm-from-scratch",
+      "summary_en": "A practical guide to training a large language model from scratch, covering data collection, compute requirements, and training workflows. It highlights the substantial resources needed while showing what small teams can realistically attempt with open tooling.",
+      "summary_zh": "一份从零开始训练大语言模型的实用指南，涵盖数据收集、计算资源需求与训练流程。强调所需资源之巨，同时展示开放工具下小团队的实际可行性。",
+      "hn": {
+        "id": 48017948,
+        "type": "story",
+        "by": "kristianpaul",
+        "score": 456,
+        "descendants": 50,
+        "time": 1777954157,
+        "comments_url": "https://news.ycombinator.com/item?id=48017948"
+      },
+      "hot_score": 0.71,
+      "tags": [
+        "AI",
+        "Open Source"
+      ]
+    },
+    {
+      "title_en": "AI Product Graveyard",
+      "url": "https://tooldirectory.ai/ai-graveyard",
+      "title_zh": "AI Product Graveyard",
+      "created_display": "Created: May 05, 2026 / 06:00 PT",
+      "image_url": null,
+      "summary_en": "A catalog of failed AI products that serves as a learning resource about what tends to fail in AI productization, from data issues to governance and market fit. Useful for teams planning AI-driven products.",
+      "summary_zh": "汇集了失败的 AI 产品案例，帮助读者理解在 AI 产品化过程中常见的失败原因，如数据、治理与市场契合度等，对计划推出 AI 产品的团队具有借鉴意义。",
+      "hn": {
+        "id": 48021968,
+        "type": "story",
+        "by": "StriverGuy",
+        "score": 250,
+        "descendants": 89,
+        "time": 1777986047,
+        "comments_url": "https://news.ycombinator.com/item?id=48021968"
+      },
+      "hot_score": 0.64,
+      "tags": [
+        "AI",
+        "Startups"
+      ]
+    },
+    {
+      "title_en": "Microsoft Edge stores all passwords in memory in clear text, even when unused",
+      "url": "https://twitter.com/L1v1ng0ffTh3L4N/status/2051308329880719730",
+      "title_zh": "微软 Edge 将所有密码明文存储在内存中，即使未使用",
+      "created_display": "Created: May 04, 2026 / 11:22 PT",
+      "image_url": "https://pbs.twimg.com/amplify_video_thumb/2051308082500681729/img/txKW5u6WctKrftAv.jpg:large",
+      "summary_en": "This exposes a security risk: Edge stores passwords in memory as plaintext, even when not in use. That design choice increases the risk of credential leaks via memory dumps or malicious processes. It underscores why secure by design and minimizing in-memory secrets matters for browsers.",
+      "summary_zh": "这暴露了浏览器设计中的安全隐患：Edge 将凭证以明文存储在内存中，即使未被使用时也可能暴露。此设计增加了通过内存转储或恶意进程获取凭据的风险。再次强调从设计层面减少内存中敏感信息的重要性，以及对浏览器安全的长期关注。",
+      "hn": {
+        "id": 48012735,
+        "type": "story",
+        "by": "cft",
+        "score": 621,
+        "descendants": 222,
+        "time": 1777918962,
+        "comments_url": "https://news.ycombinator.com/item?id=48012735"
+      },
+      "hot_score": 0.63,
+      "tags": [
+        "Security"
+      ]
+    },
+    {
+      "title_en": "How OpenAI delivers low-latency voice AI at scale",
+      "url": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale/",
+      "title_zh": "OpenAI 如何在大规模部署中实现低延迟语音 AI",
+      "created_display": "Created: May 04, 2026 / 12:42 PT",
+      "image_url": "https://images.ctfassets.net/kftzwdyauwt9/5LQivcsFcndtRl4EsbtnOC/c548a54b9bbe11c0b4d9de714f800b30/Voice_AI___SEO_card.png?w=1600&h=900&fit=fill",
+      "summary_en": "OpenAI discusses delivering low-latency voice AI at scale, detailing architectural choices, streaming inference, and optimization strategies that keep real-time speech apps responsive. The piece offers practical takeaways for building scalable, interactive AI services.",
+      "summary_zh": "OpenAI 介绍在大规模场景下实现低延迟语音 AI 的设计思路，涵盖流式推理、优化策略及跨规模部署的要点，为构建可扩展的实时语音应用提供实用洞见。",
+      "hn": {
+        "id": 48013919,
+        "type": "story",
+        "by": "Sean-Der",
+        "score": 498,
+        "descendants": 143,
+        "time": 1777923767,
+        "comments_url": "https://news.ycombinator.com/item?id=48013919"
+      },
+      "hot_score": 0.53,
+      "tags": [
+        "AI",
+        "DevOps"
+      ]
+    },
+    {
+      "title_en": "Removable batteries in smartphones will be mandatory in the EU starting in 2027",
+      "url": "https://www.ecopv-eu.com/en/blog-en/replaceable-smartphone-batteries-2027-eu-regulation/",
+      "title_zh": "欧盟自 2027 年起强制智能手机使用可拆卸电池",
+      "created_display": "Created: May 04, 2026 / 08:10 PT",
+      "image_url": "https://www.ecopv-eu.com/wp-content/uploads/2026/04/akkus-smartphone_en.jpg",
+      "summary_en": "EU rules will require removable batteries in smartphones starting in 2027 to improve repairability and reduce e-waste. Regulators push for standardization and accessible spare parts, likely impacting manufacturer design choices and supply chains.",
+      "summary_zh": "欧盟自 2027 年起强制智能手机使用可拆卸电池，以提升可修复性并降低电子垃圾。规定推动标准化和易于采购的备用电池，将影响厂商的设计与供应链策略。",
+      "hn": {
+        "id": 48009697,
+        "type": "story",
+        "by": "rdeboo",
+        "score": 572,
+        "descendants": 526,
+        "time": 1777907441,
+        "comments_url": "https://news.ycombinator.com/item?id=48009697"
+      },
+      "hot_score": 0.51,
+      "tags": [
+        "Hardware",
+        "Politics"
+      ]
+    },
+    {
+      "title_en": "Empty Screenings – Finds AMC movie screenings with few or no tickets sold",
+      "url": "https://walzr.com/empty-screenings",
+      "title_zh": "空场放映——发现 AMC 电影放映场次售票量极低",
+      "created_display": "Created: May 04, 2026 / 21:33 PT",
+      "image_url": null,
+      "summary_en": "Audits AMC screenings to identify underperforming showings, offering data-driven insights into demand, scheduling, and pricing efficiency. The project demonstrates how granular data can inform theater operations.",
+      "summary_zh": "对 AMC 放映场次进行数据审计，发现售票量极低的场次，并提供基于数据的需求、排程与定价效率洞察，展示了粒度数据在影院运营中的应用。",
+      "hn": {
+        "id": 48018066,
+        "type": "story",
+        "by": "MrBuddyCasino",
+        "score": 322,
+        "descendants": 263,
+        "time": 1777955602,
+        "comments_url": "https://news.ycombinator.com/item?id=48018066"
+      },
+      "hot_score": 0.51,
+      "tags": [
+        "Data",
+        "Business"
+      ]
+    },
+    {
+      "title_en": "US healthcare marketplaces shared citizenship and race data with ad tech giants",
+      "url": "https://techcrunch.com/2026/05/04/us-healthcare-marketplaces-shared-citizenship-and-race-data-with-ad-tech-giants/",
+      "title_zh": "美国医疗保健市场将公民身份和种族等数据分享给广告科技巨头",
+      "created_display": "Created: May 04, 2026 / 10:16 PT",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/05/pixel-mouse-2217637165.jpg?resize=1200,870",
+      "summary_en": "A report reveals that US healthcare marketplaces shared sensitive citizenship and race data with ad tech giants, raising privacy and regulatory concerns. The finding underscores the need for stricter data governance and transparency in how health data is used outside medical contexts.",
+      "summary_zh": "报道揭示美国医疗保健市场将公民身份与种族等敏感数据分享给广告科技巨头，引发隐私与监管担忧。这凸显了在健康数据用于非医疗场景时对数据治理与透明度的严格要求。",
+      "hn": {
+        "id": 48011689,
+        "type": "story",
+        "by": "ZeidJ",
+        "score": 516,
+        "descendants": 165,
+        "time": 1777914996,
+        "comments_url": "https://news.ycombinator.com/item?id=48011689"
+      },
+      "hot_score": 0.5,
+      "tags": [
+        "Privacy",
+        "Legal",
+        "Health",
+        "Politics"
+      ]
+    },
+    {
+      "title_en": "I am worried about Bun",
+      "url": "https://wwj.dev/posts/i-am-worried-about-bun/",
+      "title_zh": "我对 Bun 的担忧",
+      "created_display": "Created: May 04, 2026 / 09:45 PT",
+      "image_url": null,
+      "summary_en": "The post questions Bun's maturity and ecosystem maturity, highlighting concerns about stability, long-term viability, and ecosystem readiness compared to more established runtimes. It urges readers to assess risk before deep adoption.",
+      "summary_zh": "该文质疑 Bun 的成熟度和生态系统的稳定性，关注相对于更成熟的运行时其长期可行性与生态就绪度。建议读者在深度采用前评估风险。",
+      "hn": {
+        "id": 48011184,
+        "type": "story",
+        "by": "remote-dev",
+        "score": 515,
+        "descendants": 343,
+        "time": 1777913100,
+        "comments_url": "https://news.ycombinator.com/item?id=48011184"
+      },
+      "hot_score": 0.49,
+      "tags": [
+        "Programming"
+      ]
+    },
+    {
+      "title_en": "Y Combinator's Stake in OpenAI (0.6%?)",
+      "url": "https://daringfireball.net/2026/05/y_combinators_stake_in_openai",
+      "title_zh": "YC 在 OpenAI 的持股（约 0.6%？）",
+      "created_display": "Created: May 04, 2026 / 17:09 PT",
+      "image_url": "https://daringfireball.net/graphics/df-wide-card.png",
+      "summary_en": "An analysis of YC's stake in OpenAI suggests early investor exposure to AI breakthroughs and questions about governance, ROI, and the evolving AI funding landscape. It reflects the high-stakes dynamics of AI startups.",
+      "summary_zh": "对 YC 在 OpenAI 的持股进行分析，显示早期投资者对 AI 突破的潜在收益与治理、回报率以及 AI 创业融资格局的演变，折射出 AI 初创领域的高风险高回报。",
+      "hn": {
+        "id": 48016534,
+        "type": "story",
+        "by": "gyomu",
+        "score": 375,
+        "descendants": 68,
+        "time": 1777939741,
+        "comments_url": "https://news.ycombinator.com/item?id=48016534"
+      },
+      "hot_score": 0.48,
+      "tags": [
+        "Startups",
+        "AI"
+      ]
+    },
+    {
+      "title_en": "Lessons for Agentic Coding: What should we do when code is cheap?",
+      "url": "https://www.dbreunig.com/2026/05/04/10-lessons-for-agentic-coding.html",
+      "title_zh": "面向代理编码的教训：当代码变得廉价时，我们该怎么做",
+      "created_display": "Created: May 05, 2026 / 00:05 PT",
+      "image_url": "https://www.dbreunig.com/img/hand_scroll.jpg",
+      "summary_en": "The piece argues that as creating code becomes cheap, we must emphasize reliability, security, and auditability when building agentic systems. It presents lessons on provenance, testing, and robust interfaces to avoid brittle, trust-destroying products.",
+      "summary_zh": "文章主张当代码成本低廉时，仍需强调可验证性、模块化和安全性，以避免代理编码下产生不可靠、难以审计的系统。提出关于溯源、测试与鲁棒接口等教训，帮助构建更可信的自动化代码。",
+      "hn": {
+        "id": 48019025,
+        "type": "story",
+        "by": "ingve",
+        "score": 247,
+        "descendants": 229,
+        "time": 1777964725,
+        "comments_url": "https://news.ycombinator.com/item?id=48019025"
+      },
+      "tags": [
+        "Programming",
+        "Security"
+      ],
+      "hot_score": 0.45
+    },
+    {
+      "title_en": "Agent Skills",
+      "url": "https://addyosmani.com/blog/agent-skills/",
+      "title_zh": "代理技能",
+      "created_display": "Created: May 04, 2026 / 14:40 PT",
+      "image_url": "https://addyosmani.com/assets/images/addys-agent-skills.jpg",
+      "summary_en": "Agent Skills outlines a modular approach to building AI agents, defining reusable capabilities that can be mixed and matched to create more capable automation. It offers practical guidance for designing scalable agent systems.",
+      "summary_zh": "代理技能提出了一种将 AI 代理能力模块化的设计思路，定义可重用的技能并灵活组合，以打造更强的自动化能力。为构建可扩展的代理系统提供实用指引。",
+      "hn": {
+        "id": 48015397,
+        "type": "story",
+        "by": "BOOSTERHIDROGEN",
+        "score": 370,
+        "descendants": 205,
+        "time": 1777930842,
+        "comments_url": "https://news.ycombinator.com/item?id=48015397"
+      },
+      "hot_score": 0.43,
+      "tags": [
+        "AI",
+        "Programming"
+      ]
+    },
+    {
+      "title_en": "Incident with Issues and Webhooks – Resolved",
+      "url": "https://www.githubstatus.com/incidents/72q3n8yxthcy",
+      "title_zh": "Issues 与 Webhooks 事件事件已解决",
+      "created_display": "Created: May 04, 2026 / 08:53 PT",
+      "image_url": "https://dka575ofm4ao0.cloudfront.net/pages-twitter_logos/original/36420/GitHub-Mark-120px-plus.png",
+      "summary_en": "Status update confirms the incident affecting Issues and Webhooks has been resolved, detailing the root cause and remediation steps. It underscores the importance of rapid incident response and transparent communication with users.",
+      "summary_zh": "状态更新确认 Issues 与 Webhooks 的故障已解决，给出根本原因与修复步骤。强调快速响应与对用户的透明沟通的重要性。",
+      "hn": {
+        "id": 48010301,
+        "type": "story",
+        "by": "gen220",
+        "score": 425,
+        "descendants": 262,
+        "time": 1777910001,
+        "comments_url": "https://news.ycombinator.com/item?id=48010301"
+      },
+      "hot_score": 0.39,
+      "tags": [
+        "DevOps"
+      ]
+    },
+    {
+      "title_en": "Kids can bypass some age checks with a drawn-on mustache",
+      "url": "https://www.theregister.com/2026/05/04/uk_online_safety_act_age_checks_subvert/",
+      "title_zh": "孩子通过画胡须绕过年龄验证",
+      "created_display": "Created: May 04, 2026 / 21:36 PT",
+      "image_url": "https://image.theregister.com/5224997.jpg?imageId=5224997&panox=0&panoy=0&panow=0&panoh=0&width=1200&height=683",
+      "summary_en": "Reports that age checks can be bypassed by a drawn-on mustache, illustrating social engineering risk in online safety systems. It underscores the need for more robust, multi-factor or behavior-based age verification approaches.",
+      "summary_zh": "报道称通过画胡须就能绕过某些年龄验证，揭示在线安全系统的社会工程学风险，强调需要更强健的多因素或行为识别等年龄验证方法。",
+      "hn": {
+        "id": 48018080,
+        "type": "story",
+        "by": "dreadsword",
+        "score": 244,
+        "descendants": 174,
+        "time": 1777955784,
+        "comments_url": "https://news.ycombinator.com/item?id=48018080"
+      },
+      "hot_score": 0.39,
+      "tags": [
+        "Security"
+      ]
+    },
+    {
+      "title_en": "Days without GitHub incidents",
+      "url": "https://www.dayswithoutgithubincident.com/",
+      "title_zh": "没有 GitHub 事件的日子",
+      "created_display": "Created: May 04, 2026 / 10:36 PT",
+      "image_url": null,
+      "summary_en": "A playful site tracks days without GitHub incidents, serving as a lighthearted barometer of platform reliability. It invites discussions on resilience practices and what it takes to sustain outage-free operations.",
+      "summary_zh": "一个有趣的网站记录没有 GitHub 事件的日子，作为平台可靠性的轻量式晴雨表，促使人们讨论韧性实践与维持无故障运行所需的条件。",
+      "hn": {
+        "id": 48012022,
+        "type": "story",
+        "by": "goalieca",
+        "score": 382,
+        "descendants": 164,
+        "time": 1777916192,
+        "comments_url": "https://news.ycombinator.com/item?id=48012022"
+      },
+      "hot_score": 0.37,
+      "tags": [
+        "DevOps",
+        "Web",
+        "Programming"
+      ]
+    },
+    {
+      "title_en": "Hand Drawn QR Codes (2025)",
+      "url": "https://sethmlarson.dev/hand-drawn-qr-codes",
+      "title_zh": "手绘二维码",
+      "created_display": "Created: May 04, 2026 / 21:02 PT",
+      "image_url": "https://github.com/sethmlarson.png",
+      "summary_en": "Hand-drawn QR codes show that with generous error correction and careful design, QR codes can be aesthetically customized without sacrificing scannability. It blends art with encoding, offering practical paths for branding and tactile interfaces.",
+      "summary_zh": "手绘二维码展示了在保持可扫描性的前提下进行美学设计的可能性，依赖错误更正和排版技巧实现艺术与编码的结合。与此同时为品牌设计和触控界面提供了可行路径。",
+      "hn": {
+        "id": 48017907,
+        "type": "story",
+        "by": "jollyjerry",
+        "score": 217,
+        "descendants": 44,
+        "time": 1777953721,
+        "comments_url": "https://news.ycombinator.com/item?id=48017907"
+      },
+      "tags": [
+        "Design"
+      ],
+      "hot_score": 0.33
+    },
+    {
+      "title_en": "Does Employment Slow Cognitive Decline? Evidence from Labor Market Shocks",
+      "url": "https://www.nber.org/papers/w35117",
+      "title_zh": "就业是否能减缓认知衰退？来自劳动力市场冲击的证据",
+      "created_display": "Created: May 04, 2026 / 08:32 PT",
+      "image_url": "https://www.nber.org/sites/default/files/2022-06/NBER-FB-Share-Tile-1200.jpg",
+      "summary_en": "Using labor market shocks as natural experiments, the study examines whether employment slows cognitive decline. Findings hint at protective effects of work, though interpretation depends on causal assumptions and study design.",
+      "summary_zh": "通过将劳动力市场冲击作为自然实验，研究检验就业是否能减缓认知衰退。结果提示就业可能具有保护作用，但需结合因果推断的前提来解读。",
+      "hn": {
+        "id": 48009983,
+        "type": "story",
+        "by": "littlexsparkee",
+        "score": 339,
+        "descendants": 370,
+        "time": 1777908766,
+        "comments_url": "https://news.ycombinator.com/item?id=48009983"
+      },
+      "hot_score": 0.31,
+      "tags": [
+        "Science"
+      ]
+    },
+    {
+      "title_en": "What I'm Hearing About Cognitive Debt (So Far)",
+      "url": "https://margaretstorey.com/blog/2026/02/18/cognitive-debt-revisited/",
+      "title_zh": "关于认知债务的初步看法",
+      "created_display": "Created: May 04, 2026 / 19:08 PT",
+      "image_url": "http://margaretstorey.com/assets/images/ms_logo.png",
+      "summary_en": "Reflects on cognitive debt in software work, focusing on mental load from toolchains and complex systems, and proposing strategies like simplifying tooling and reducing toggling to improve developer experience.",
+      "summary_zh": "讨论软件工作中的认知债务，聚焦工具链与复杂系统带来的认知负担，并提出通过简化工具、减少切换来提升开发者体验的策略。",
+      "hn": {
+        "id": 48017298,
+        "type": "story",
+        "by": "raphaelcosta",
+        "score": 219,
+        "descendants": 142,
+        "time": 1777946901,
+        "comments_url": "https://news.ycombinator.com/item?id=48017298"
+      },
+      "hot_score": 0.31,
+      "tags": [
+        "Programming",
+        "Career"
+      ]
+    },
+    {
+      "title_en": "Stop big tech from making users behave in ways they don't want to",
+      "url": "https://economist.com/by-invitation/2026/04/29/stop-big-tech-from-making-users-behave-in-ways-they-dont-want-to",
+      "title_zh": "阻止大科技让用户按他们不想要的方式行为",
+      "created_display": "Created: May 04, 2026 / 10:10 PT",
+      "image_url": null,
+      "summary_en": "A perspective urging safeguards to prevent platforms from nudging users into unwanted behavior, advocating privacy-respecting UX and stronger regulatory boundaries around platform manipulation.",
+      "summary_zh": "呼吁设立保护措施，防止平台以用户不想要的方式驱动行为，主张隐私友好型 UX 与对平台操控的更强监管界限。",
+      "hn": {
+        "id": 48011603,
+        "type": "story",
+        "by": "andsoitis",
+        "score": 304,
+        "descendants": 180,
+        "time": 1777914657,
+        "comments_url": "https://news.ycombinator.com/item?id=48011603"
+      },
+      "hot_score": 0.29,
+      "tags": [
+        "Privacy",
+        "Politics"
+      ]
+    },
+    {
+      "title_en": "Redis array: short story of a long development process",
+      "url": "https://antirez.com/news/164",
+      "title_zh": "Redis array：漫长开发过程的短篇故事",
+      "created_display": "Created: May 04, 2026 / 07:23 PT",
+      "image_url": null,
+      "summary_en": "A retrospective on the Redis array feature, detailing design decisions, challenges, and trade-offs. It highlights how long-running engineering projects evolve and what compromises matter for performance.",
+      "summary_zh": "回顾 Redis array 功能的漫长开发历程，讲述设计决策、挑战与取舍，揭示长期工程项目的演变，以及对性能最关键的权衡。",
+      "hn": {
+        "id": 48009172,
+        "type": "story",
+        "by": "antirez",
+        "score": 316,
+        "descendants": 109,
+        "time": 1777904587,
+        "comments_url": "https://news.ycombinator.com/item?id=48009172"
+      },
+      "hot_score": 0.28,
+      "tags": [
+        "Open Source",
+        "Programming"
+      ]
+    },
+    {
+      "title_en": "How Monero’s proof of work works",
+      "url": "https://blog.alcazarsec.com/tech/posts/how-moneros-proof-of-work-works",
+      "title_zh": "Monero 的工作量证明如何工作",
+      "created_display": "Created: May 04, 2026 / 07:10 PT",
+      "image_url": "https://alcazarsec.com/og/alcazar-nisdwy-dms.png",
+      "summary_en": "Explains Monero's PoW mechanism, focusing on its CPU-friendly design and privacy-centric choices.",
+      "summary_zh": "解释 Monero 的工作量证明机制，聚焦其对 CPU 的友好性与隐私导向的设计。讨论共识、挖矿激励与对抗专用芯片的策略如何塑造这一隐私币。",
+      "hn": {
+        "id": 48009020,
+        "type": "story",
+        "by": "alcazar",
+        "score": 312,
+        "descendants": 223,
+        "time": 1777903850,
+        "comments_url": "https://news.ycombinator.com/item?id=48009020"
+      },
+      "hot_score": 0.27,
+      "tags": [
+        "Science",
+        "Privacy",
+        "Hardware"
+      ]
+    },
+    {
+      "title_en": "Heat pump sales rise across Europe",
+      "url": "https://www.pv-magazine.com/2026/05/04/heat-pump-sales-rise-17-across-europe-in-q1-as-energy-prices-surge/",
+      "title_zh": "欧洲热泵销量上升",
+      "created_display": "Created: May 04, 2026 / 10:35 PT",
+      "image_url": "https://www.pv-magazine.com/wp-content/uploads/2025/07/Unbenannt-13-1200x662.jpg",
+      "summary_en": "Reports a 17% rise in heat pump sales in Q1 across Europe amid energy price surges, signaling accelerated adoption of efficient heating technology and implications for energy policy and manufacturers.",
+      "summary_zh": "报道显示欧洲第一季度热泵销量同比上升约 17%，能源价格上涨推动了高效取暖技术的采用，将对能源政策与制造商产生影响。",
+      "hn": {
+        "id": 48012003,
+        "type": "story",
+        "by": "doener",
+        "score": 270,
+        "descendants": 208,
+        "time": 1777916115,
+        "comments_url": "https://news.ycombinator.com/item?id=48012003"
+      },
+      "hot_score": 0.26,
+      "tags": [
+        "Energy",
+        "Business"
+      ]
+    },
+    {
+      "title_en": "Securing a DoD contractor: Finding a multi-tenant authorization vulnerability",
+      "url": "https://www.strix.ai/blog/how-strix-found-zero-auth-vulnerability-dod-backed-startup",
+      "title_zh": "为 DoD 承包商安保：发现多租户授权漏洞",
+      "created_display": "Created: May 04, 2026 / 10:46 PT",
+      "image_url": "https://strix.ai/blog-schemata-cover.png",
+      "summary_en": "Describes finding a multi-tenant authorization vulnerability in a DoD-backed startup, highlighting the importance of least privilege, proper RBAC, and secure design practices in defense tech environments.",
+      "summary_zh": "描述在一家 DoD 背景的初创企业中发现的多租户授权漏洞，强调在国防科技环境中实施最小权限、合适的 RBAC 以及安全设计的重要性。",
+      "hn": {
+        "id": 48012162,
+        "type": "story",
+        "by": "bearsyankees",
+        "score": 221,
+        "descendants": 101,
+        "time": 1777916792,
+        "comments_url": "https://news.ycombinator.com/item?id=48012162"
+      },
+      "hot_score": 0.22,
+      "tags": [
+        "Security",
+        "Startups"
+      ]
+    },
+    {
+      "title_en": "Formatting a 25M-line codebase overnight",
+      "url": "https://stripe.dev/blog/formatting-an-entire-25-million-line-codebase-overnight-the-rubyfmt-story",
+      "title_zh": "在一夜之间格式化一个 2500 万行代码库",
+      "created_display": "Created: May 04, 2026 / 13:11 PT",
+      "image_url": "https://stripe.dev/dev_social.jpeg",
+      "summary_en": "A case study of formatting a 25 million-line codebase overnight with automated tooling, examining tooling choices, risk of churn, and the benefits of consistent formatting for maintenance at scale.",
+      "summary_zh": "关于使用自动化工具在一夜之间对一个 2500 万行代码库进行格式化的案例研究，评估工具选择、潜在改动风险，以及在大规模维护中保持一致格式的收益。",
+      "hn": {
+        "id": 48014325,
+        "type": "story",
+        "by": "r00k",
+        "score": 205,
+        "descendants": 105,
+        "time": 1777925513,
+        "comments_url": "https://news.ycombinator.com/item?id=48014325"
+      },
+      "hot_score": 0.22,
+      "tags": [
+        "Programming",
+        "Open Source"
+      ]
+    }
+  ]
+}

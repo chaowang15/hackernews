@@ -1,0 +1,1163 @@
+{
+  "meta": {
+    "mode": "best",
+    "source": "https://news.ycombinator.com/",
+    "api": "https://github.com/HackerNews/API",
+    "count_requested": 50,
+    "count_written": 50,
+    "reused_same_day": 0,
+    "reused_cross_day": 24,
+    "new_llm_enriched": 8,
+    "scrape_time_display": "08:46, May 29, 2026 (PDT)",
+    "timezone": "America/Los_Angeles",
+    "date_dir": "2026/05/28",
+    "content_date": "2026-05-28",
+    "run_time_local": "08:46, May 29, 2026 (PDT)",
+    "run_time_utc": "2026-05-29 15:46:02 UTC",
+    "incremental": true,
+    "stories_max": 50,
+    "hot_score_time_utc": "2026-05-29 15:46:40 UTC"
+  },
+  "items": [
+    {
+      "title_en": "Please Use AI",
+      "url": "https://shawnsmucker.substack.com/p/please-use-ai",
+      "title_zh": "请使用 AI",
+      "created_display": "Created: May 29, 2026 / 06:50 PT",
+      "image_url": null,
+      "summary_en": "AI is not optional in modern workflows; the piece argues for proactive adoption and offers practical tips to integrate AI responsibly. It highlights real-world productivity gains and warns against overreliance, suggesting guardrails and thoughtful tooling to avoid hype.",
+      "summary_zh": "人工智能在现代工作流程中并非可选项，文章主张积极采用并提供将 AI 负责任地整合到日常工作中的实用建议，强调切实的生产力提升，同时警惕过度依赖，建议设定边界和风控。",
+      "hn": {
+        "id": 48323101,
+        "type": "story",
+        "by": "garycomtois",
+        "score": 580,
+        "descendants": 241,
+        "time": 1780062625,
+        "comments_url": "https://news.ycombinator.com/item?id=48323101"
+      },
+      "hot_score": 49.12,
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "title_en": "I Am Retiring from Tech to Live Offline",
+      "url": "https://openpath.quest/2026/i-am-retiring-from-tech-to-live-offline/",
+      "title_zh": "我将从科技行业退休，过上离线生活",
+      "created_display": "Created: May 29, 2026 / 07:40 PT",
+      "image_url": "https://openpath.quest/2026/i-am-retiring-from-tech-to-live-offline/social.webp",
+      "summary_en": "An introspective note about stepping back from the tech industry to embrace offline living, citing burnout, information overload, and a desire for deeper focus. It signals a broader critique of always-on culture and invites readers to consider boundaries and alternative modes of work.",
+      "summary_zh": "这是一篇关于从科技行业退出、转向离线生活的自省之作，提到职业倦怠、信息过载和对更深专注的追求。反映出对过度“始终在线”文化的批评，并鼓励读者思考工作边界与替代的生活方式。",
+      "hn": {
+        "id": 48323683,
+        "type": "story",
+        "by": "PinkG",
+        "score": 217,
+        "descendants": 123,
+        "time": 1780065647,
+        "comments_url": "https://news.ycombinator.com/item?id=48323683"
+      },
+      "hot_score": 28.21,
+      "tags": [
+        "Career"
+      ]
+    },
+    {
+      "title_en": "Is AI causing a repeat of Front end's Lost Decade?",
+      "url": "https://mastrojs.github.io/blog/2026-05-23-is-AI-causing-a-repeat-of-frontends-lost-decade/",
+      "title_zh": "AI 是否正在使前端开发陷入失落十年的重演？",
+      "created_display": "Created: May 29, 2026 / 04:09 PT",
+      "image_url": "https://mastrojs.github.io/blog/2026-05-23-is-AI-causing-a-repeat-of-frontends-lost-decade/og.png",
+      "summary_en": "The piece analyzes whether AI tools could stall frontend development by commodifying UI work or disrupting skill progression. It suggests a mixed outlook: automation may raise productivity but requires new skill investment and design-thinking shifts to keep frontend vibrant.",
+      "summary_zh": "文章探讨 AI 是否会让前端开发重蹈“失落十年”的覆辙，认定工具化可能降低重复性工作但也可能抑制技能进步。前景是两面：自动化提高生产力，同时需要新技能和设计思维的转型以保持前端活力。",
+      "hn": {
+        "id": 48321631,
+        "type": "story",
+        "by": "xyzal",
+        "score": 159,
+        "descendants": 160,
+        "time": 1780052972,
+        "comments_url": "https://news.ycombinator.com/item?id=48321631"
+      },
+      "hot_score": 5.26,
+      "tags": [
+        "AI",
+        "Programming",
+        "Web"
+      ]
+    },
+    {
+      "title_en": "Claude Opus 4.8",
+      "url": "https://www.anthropic.com/news/claude-opus-4-8",
+      "title_zh": "Claude Opus 4.8 发布",
+      "created_display": "Created: May 28, 2026 / 09:49 PT",
+      "image_url": "https://cdn.sanity.io/images/4zrzovbb/website/0eaa0ed2dce9810169112e1c77de2585fcf1f5c2-2880x1620.jpg",
+      "summary_en": "Anthropic releases Claude Opus 4.8, highlighting improvements in reliability, safety controls, and developer-facing features. The update expands capabilities for complex tasks and tool usage, signaling the ongoing push to make AI assistants more usable in enterprise workflows.",
+      "summary_zh": "Anthropic 发布 Claude Opus 4.8，强调在可靠性、安全控制和面向开发者的特性方面的提升。此次更新扩展了对复杂任务与工具使用的支持，体现了让 AI 助手在企业工作流中更易用的持续努力。",
+      "hn": {
+        "id": 48311647,
+        "type": "story",
+        "by": "craigmart",
+        "score": 1667,
+        "descendants": 1297,
+        "time": 1779986954,
+        "comments_url": "https://news.ycombinator.com/item?id=48311647"
+      },
+      "tags": [
+        "AI"
+      ],
+      "hot_score": 5.09
+    },
+    {
+      "title_en": "Bricks and Minifigs Stole a Man's $200k Lego Collection",
+      "url": "https://mybricklog.com/blog/bricks-minifigs-corporate-stole-old-mans-200000-lego-collection",
+      "title_zh": "Bricks and Minifigs 偷走了一名男子价值 20 万美元的乐高收藏",
+      "created_display": "Created: May 28, 2026 / 12:24 PT",
+      "image_url": "https://www.mybricklog.com/thumbnail.png",
+      "summary_en": "Bricks and Minifigs, a well-known toy shop, is alleged to have taken a man’s $200k LEGO collection, revealing tensions around provenance, possession, and accountability in collectibles. The incident underscores risks when high-value items pass through small businesses and retailers.",
+      "summary_zh": "Bricks and Minifigs 这家知名玩具店被指控盗走一名男子价值 20 万美元的乐高收藏，暴露了收藏品在流通过程中的所有权、保管与责任等问题。此事凸显高价值物品在小商家手中流转时的风险与挑战。",
+      "hn": {
+        "id": 48314136,
+        "type": "story",
+        "by": "philips",
+        "score": 1197,
+        "descendants": 527,
+        "time": 1779996249,
+        "comments_url": "https://news.ycombinator.com/item?id=48314136"
+      },
+      "tags": [
+        "Business",
+        "Legal"
+      ],
+      "hot_score": 4.45
+    },
+    {
+      "title_en": "Cars collect a startling amount of data about you",
+      "url": "https://www.bbc.com/future/article/20260513-your-car-is-spying-on-you-its-about-to-get-worse",
+      "title_zh": "汽车收集的数据量令人震惊",
+      "created_display": "Created: May 28, 2026 / 20:01 PT",
+      "image_url": "https://ychef.files.bbci.co.uk/624x351/p0nkx9w7.jpg",
+      "summary_en": "Modern cars collect far more data than drivers realize—from location to driving habits and preferences—raising privacy concerns as cars become more connected.",
+      "summary_zh": "现代汽车收集的数据远超驾驶者的认知范围，包括位置信息、驾驶习惯和偏好等，这在车联网日益普及的背景下引发隐私担忧。文章探讨了数据的收集、访问方以及未来可能的发展。",
+      "hn": {
+        "id": 48318481,
+        "type": "story",
+        "by": "1vuio0pswjnm7",
+        "score": 454,
+        "descendants": 243,
+        "time": 1780023660,
+        "comments_url": "https://news.ycombinator.com/item?id=48318481"
+      },
+      "tags": [
+        "Privacy"
+      ],
+      "hot_score": 3.56
+    },
+    {
+      "title_en": "Volkswagen blocks Home Assistant by requiring client assertion",
+      "url": "https://github.com/robinostlund/homeassistant-volkswagencarnet/issues/967",
+      "title_zh": "大众因要求客户端证书而阻断 Home Assistant 的接入",
+      "created_display": "Created: May 28, 2026 / 22:45 PT",
+      "image_url": "https://opengraph.githubassets.com/5371b82f97f296c88ceaefd0b5d16c8d51a841e022b628bbd6b96ab4993fcd7c/robinostlund/homeassistant-volkswagencarnet/issues/967",
+      "summary_en": "Volkswagen's Car-Net now requires a valid client assertion (certificate) to access its API, blocking Home Assistant automations that rely on the integration unless certificates are configured. This change highlights how car services are tightening control over third-party automations and may disrupt hobbyist setups.",
+      "summary_zh": "大众 Car-Net 现在要求访问 API 时提供有效的客户端证书，否则将阻塞 Home Assistant 的自动化接入。这一变更凸显了汽车服务对第三方自动化的控制加紧，可能打乱爱好者的自动化工作流。",
+      "hn": {
+        "id": 48319509,
+        "type": "story",
+        "by": "Kwastie",
+        "score": 311,
+        "descendants": 157,
+        "time": 1780033536,
+        "comments_url": "https://news.ycombinator.com/item?id=48319509"
+      },
+      "tags": [
+        "Security"
+      ],
+      "hot_score": 3.53
+    },
+    {
+      "title_en": "Blue Origin's New Glenn blows up during static fire test",
+      "url": "https://twitter.com/nasaspaceflight/status/2060164928472854821",
+      "title_zh": "Blue Origin 的 New Glenn 静态点火测试爆炸",
+      "created_display": "Created: May 28, 2026 / 18:16 PT",
+      "image_url": "https://jf.x.com/images/media-preview/2060164928472854821",
+      "summary_en": "Blue Origin's New Glenn rocket exploded during a ground static-fire test, marking a major setback for the program. The accident raises questions about the design maturity of the heavy-lift vehicle and could affect schedules, budgets, and contractor confidence, underscoring the steep costs of rocket development.",
+      "summary_zh": "Blue Origin 的 New Glenn 在一次地面静态点火测试中爆炸，这是对该计划的重大挫折。此次事故引发关于大推力运载体系成熟度的讨论，可能影响时间表、预算和承包商信心，凸显火箭开发的高成本与高风险。",
+      "hn": {
+        "id": 48317774,
+        "type": "story",
+        "by": "enraged_camel",
+        "score": 383,
+        "descendants": 383,
+        "time": 1780017398,
+        "comments_url": "https://news.ycombinator.com/item?id=48317774"
+      },
+      "tags": [
+        "Space"
+      ],
+      "hot_score": 2.46
+    },
+    {
+      "title_en": "GitHub bans security researcher who posted zero-day Windows exploits",
+      "url": "https://www.tomshardware.com/tech-industry/cyber-security/microsofts-github-bans-security-researcher-who-posted-zero-day-windows-exploits-because-company-ruined-their-life-expert-claims-action-is-vindictive-and-promises-further-retaliation",
+      "title_zh": "GitHub 禁止发布 Windows 零日漏洞的安全研究者",
+      "created_display": "Created: May 28, 2026 / 14:45 PT",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/zoZh7HwdBpq3Rjbh8BwTMJ-2048-80.jpg",
+      "summary_en": "A security researcher who disclosed Windows zero-day exploits was banned from GitHub, prompting debate over platform moderation and vulnerability disclosure norms. The incident underscores tensions between raising awareness of critical flaws and policy enforcement that can chill research.",
+      "summary_zh": "一名公开披露 Windows 零日漏洞的安全研究者被 GitHub 封禁，引发对平台治理与漏洞披露规范的讨论。事件凸显在提升安全透明度与遵守政策之间的张力，可能抑制研究活力。",
+      "hn": {
+        "id": 48315968,
+        "type": "story",
+        "by": "possibilistic",
+        "score": 485,
+        "descendants": 234,
+        "time": 1780004754,
+        "comments_url": "https://news.ycombinator.com/item?id=48315968"
+      },
+      "tags": [
+        "Security",
+        "Programming"
+      ],
+      "hot_score": 2.2
+    },
+    {
+      "title_en": "I made a million dollar product from my dorm room (2025)",
+      "url": "https://nick.winans.io/blog/nice-nano/",
+      "title_zh": "我在宿舍做出百万美元级产品（2025）",
+      "created_display": "Created: May 28, 2026 / 13:25 PT",
+      "image_url": "https://nick.winans.io/blog/og?title=I%20Made%20a%20Million%20Dollar%20Product%20from%20My%20Dorm%20Room&description=The%20story%20of%20the%20nice!nano%3B%20a%20wireless%20Pro%20Micro-compatible%20microcontroller%20board%20I%20made%20in%20my%20freshman%20year%20of%20college.&date=2025-03-23T00%3A00%3A00.000Z",
+      "summary_en": "A founder recounts turning dorm-room experiments into a million-dollar product, illustrating the power of focused customer discovery and rapid iteration. The piece distills practical lessons on validating demand, pricing, and go-to-market with minimal resources.",
+      "summary_zh": "从宿舍起步，通过聚焦客户需求和快速迭代，打造出达到百万美元级营收的产品。文章分享了在资源有限的情况下如何快速验证市场、设定定价和选择渠道的要点。",
+      "hn": {
+        "id": 48314951,
+        "type": "story",
+        "by": "mattrighetti",
+        "score": 507,
+        "descendants": 76,
+        "time": 1779999921,
+        "comments_url": "https://news.ycombinator.com/item?id=48314951"
+      },
+      "tags": [
+        "Startups",
+        "Programming"
+      ],
+      "hot_score": 2.05
+    },
+    {
+      "title_en": "Claude Code – Everything You Can Configure That the Docs Don't Tell You",
+      "url": "https://buildingbetter.tech/p/i-read-the-claude-code-source-code",
+      "title_zh": "Claude Code：文档未披露的全部配置项",
+      "created_display": "Created: May 28, 2026 / 19:13 PT",
+      "image_url": "https://substackcdn.com/image/fetch/$s_!uQxS!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fde864c42-7eee-46ec-af2d-c111064bc767_1920x1035.png",
+      "summary_en": "A hands-on dive into Claude Code's configuration options that aren't documented, showing how tweaks to prompts, behavior controls, and coding modes can influence code quality and safety. The piece helps developers squeeze more predictable results from Claude Code.",
+      "summary_zh": "通过实操揭示 Claude Code 未在文档中公开的配置项，展示对提示、行为控制和代码模式的调整如何影响输出质量与安全性。此文为开发者在使用 Claude Code 时获得更可控结果提供实用线索。",
+      "hn": {
+        "id": 48318174,
+        "type": "story",
+        "by": "ankitg12",
+        "score": 272,
+        "descendants": 53,
+        "time": 1780020800,
+        "comments_url": "https://news.ycombinator.com/item?id=48318174"
+      },
+      "tags": [
+        "AI",
+        "Programming"
+      ],
+      "hot_score": 1.94
+    },
+    {
+      "title_en": "Blue Origin’s New Glenn rocket exploded during a static fire test",
+      "url": "https://arstechnica.com/space/2026/05/blue-origins-new-glenn-rocket-just-exploded-during-a-static-fire-test/",
+      "title_zh": "Blue Origin 的 New Glenn 火箭在静态点火测试中爆炸",
+      "created_display": "Created: May 28, 2026 / 20:32 PT",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/NG2-On-Pad-2-1152x648.jpg",
+      "summary_en": "Blue Origin’s New Glenn suffered a catastrophic failure during a static-fire test, highlighting the risks and iterative nature of private spaceflight development. The setback underscores the challenging path toward reliable orbital capability and the competitive dynamics with SpaceX and others.",
+      "summary_zh": "Blue Origin 的 New Glenn 火箭在静态点火测试中发生爆炸，凸显私人航天研发的高风险与迭代性质。此次挫折反映出实现可靠轨道能力的漫长且具挑战性的过程，同时也影响与 SpaceX 等的竞争格局。",
+      "hn": {
+        "id": 48318678,
+        "type": "story",
+        "by": "benbreen",
+        "score": 208,
+        "descendants": 8,
+        "time": 1780025535,
+        "comments_url": "https://news.ycombinator.com/item?id=48318678"
+      },
+      "hot_score": 1.74,
+      "tags": [
+        "Space"
+      ]
+    },
+    {
+      "title_en": "Can we have the day off?",
+      "url": "https://mlsu.io/posts/day-off/",
+      "title_zh": "我们能放假吗？",
+      "created_display": "Created: May 27, 2026 / 17:40 PT",
+      "image_url": null,
+      "summary_en": "A reflection arguing for institutional acceptance of taking full days off as a normal productivity and wellbeing tool rather than a luxury or punishment. It emphasizes that deliberate rest, clear boundaries and team norms around time off improve long-term output and morale.",
+      "summary_zh": "文章主张把整天休息视为常规的生产力与幸福工具，而非特权或惩罚。强调有意识的休息、明确的界限和团队对请假的共识，能提升长期产出与士气。",
+      "hn": {
+        "id": 48302745,
+        "type": "story",
+        "by": "mlsu",
+        "score": 1348,
+        "descendants": 757,
+        "time": 1779928826,
+        "comments_url": "https://news.ycombinator.com/item?id=48302745"
+      },
+      "tags": [
+        "Culture"
+      ],
+      "hot_score": 1.68
+    },
+    {
+      "title_en": "YouTube to automatically label AI-generated videos",
+      "url": "https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/",
+      "title_zh": "YouTube 将自动标注 AI 生成视频",
+      "created_display": "Created: May 27, 2026 / 13:00 PT",
+      "image_url": "https://variety.com/wp-content/uploads/2025/10/YouTube.png?crop=0px%2C8px%2C1024px%2C576px&resize=1000%2C563",
+      "summary_en": "YouTube is rolling out automated labeling for AI-generated videos to help viewers identify synthetic content. The system aims to increase transparency and reduce misinformation, with tags appearing in search, recommendations, and thumbnails. The move will affect creators who leverage AI and could gradually normalize disclosure signals across the platform.",
+      "summary_zh": "YouTube 正在推出自动标注 AI 生成视频的功能，以帮助观众辨识合成内容。该机制旨在提升透明度并降低误导风险，标签可能出现在搜索与推荐等位面。此举将影响使用 AI 的创作者，并推动在平台上逐步规范披露信号。",
+      "hn": {
+        "id": 48299753,
+        "type": "story",
+        "by": "nopg",
+        "score": 1299,
+        "descendants": 801,
+        "time": 1779912051,
+        "comments_url": "https://news.ycombinator.com/item?id=48299753"
+      },
+      "tags": [
+        "AI"
+      ],
+      "hot_score": 1.33
+    },
+    {
+      "title_en": "SF startup is testing robots in Airbnbs, and trashing them, lawsuit claims",
+      "url": "https://sfstandard.com/2026/05/28/sf-startup-secretly-testing-robots-airbnbs-trashing-lawsuit-claims/",
+      "title_zh": "旧金山初创公司在 Airbnb 测试机器人，测试中损坏它们，被提起诉讼",
+      "created_display": "Created: May 28, 2026 / 16:42 PT",
+      "image_url": "https://assets.sfstandard.com/image/994911177489/image_pfsno2a8ul7hf7iv1mbd0gmq51/-S1200x630-FPNG",
+      "summary_en": "A San Francisco startup allegedly used Airbnb listings for robot testing without consent and damaged properties, now facing a lawsuit. The case highlights the regulatory and liability risks of deploying autonomous devices in third-party spaces and underscores the need for clear testing protocols and consent.",
+      "summary_zh": "据称，一家旧金山初创公司在未获同意的情况下在房东家中测试机器人，并造成财产损坏，目前面临诉讼。此案凸显在第三方场所部署自动化设备的监管与赔偿风险，强调制定清晰的测试协议与获得同意的必要性。",
+      "hn": {
+        "id": 48317093,
+        "type": "story",
+        "by": "drewda",
+        "score": 233,
+        "descendants": 128,
+        "time": 1780011767,
+        "comments_url": "https://news.ycombinator.com/item?id=48317093"
+      },
+      "tags": [
+        "Startups",
+        "Legal",
+        "Politics"
+      ],
+      "hot_score": 1.27
+    },
+    {
+      "title_en": "Various LLM Smells",
+      "url": "https://shvbsle.in/various-llm-smells/",
+      "title_zh": "各种大语言模型的征兆",
+      "created_display": "Created: May 28, 2026 / 12:02 PT",
+      "image_url": "https://bear-images.sfo2.cdn.digitaloceanspaces.com/shiv-1652679517.jpg",
+      "summary_en": "An overview of common failure modes and warning signs across LLMs, highlighting how model design, data sources, and prompting shape behavior. Understanding these 'smells' helps engineers reduce risk when deploying LLM-based systems.",
+      "summary_zh": "总结了在使用大语言模型时常见的失误模式与警示信号，强调模型结构、数据来源和提示设计如何共同影响输出。帮助开发者在落地应用时降低风险。",
+      "hn": {
+        "id": 48313810,
+        "type": "story",
+        "by": "speckx",
+        "score": 340,
+        "descendants": 262,
+        "time": 1779994938,
+        "comments_url": "https://news.ycombinator.com/item?id=48313810"
+      },
+      "tags": [
+        "AI"
+      ],
+      "hot_score": 1.22
+    },
+    {
+      "title_en": "Anthropic raises $65B in Series H funding at $965B post-money valuation",
+      "url": "https://www.anthropic.com/news/series-h",
+      "title_zh": "Anthropic 完成 65 亿美元的 Series H 融资，估值达 9650 亿美元",
+      "created_display": "Created: May 28, 2026 / 11:09 PT",
+      "image_url": "https://www.anthropic.com/api/opengraph-illustration?name=Object%20Growth&backgroundColor=coral",
+      "summary_en": "Anthropic raises 65 billion in Series H, valuing the company at 9650 billion USD post-money. The round signals strong investor confidence in AI safety-centric models and the potential of AI products at scale, with implications for competitive dynamics and funding in the AI space.",
+      "summary_zh": "Anthropic 完成 65 亿美元的 Series H 融资，融资后估值高达 9650 亿美元。此轮融资体现投资者对 AI 安全与商业化潜力的强烈信心，并将影响行业竞争格局及未来的融资环境。",
+      "hn": {
+        "id": 48313048,
+        "type": "story",
+        "by": "meetpateltech",
+        "score": 356,
+        "descendants": 388,
+        "time": 1779991784,
+        "comments_url": "https://news.ycombinator.com/item?id=48313048"
+      },
+      "tags": [
+        "Business",
+        "Finance",
+        "AI"
+      ],
+      "hot_score": 1.2
+    },
+    {
+      "title_en": "Building durable workflows on Postgres",
+      "url": "https://www.dbos.dev/blog/postgres-is-all-you-need-for-durable-execution",
+      "title_zh": "在 Postgres 上构建持久化工作流",
+      "created_display": "Created: May 28, 2026 / 11:41 PT",
+      "image_url": "https://cdn.prod.website-files.com/672411cbf038560468c9e68f/6a0dd8d2a4cb225be7b5c6c9_Postgres-backed-durable-workflow-execution.png",
+      "summary_en": "Postgres can serve as a durable backend for long-running workflows, using its transactional guarantees and reliable queues to maintain state across steps. The piece outlines patterns for building idempotent tasks, retry strategies, and observability, arguing that a robust database can simplify workflow orchestration without bespoke engines.",
+      "summary_zh": "Postgres 可以作为长时间运行工作流的持久后端，凭借事务保证和可靠的队列机制来维持各步骤的状态。文章介绍了幂等任务、重试策略以及可观测性等模式，强调健壮的数据库也能简化工作流编排，无需专门的工作流引擎。",
+      "hn": {
+        "id": 48313530,
+        "type": "story",
+        "by": "KraftyOne",
+        "score": 336,
+        "descendants": 138,
+        "time": 1779993706,
+        "comments_url": "https://news.ycombinator.com/item?id=48313530"
+      },
+      "tags": [
+        "DevOps",
+        "Programming",
+        "Web",
+        "Data"
+      ],
+      "hot_score": 1.18
+    },
+    {
+      "title_en": "Disagreement among frontier LLMs on real-world fact-checks",
+      "url": "https://lenz.io/research/llm-disagreement",
+      "title_zh": "前沿大模型在现实世界事实核查中的分歧",
+      "created_display": "Created: May 28, 2026 / 05:20 PT",
+      "image_url": "https://lenz.io/research/llm-disagreement/og.png",
+      "summary_en": "A study shows frontier LLMs disagree on factual claims in real-world fact-check tasks, underscoring reliability limits and evaluation challenges. The findings suggest need for ensemble methods, calibration, and human-in-the-loop to prevent misinformation in critical applications.",
+      "summary_zh": "研究显示前沿大模型在现实世界的事实核查中对同一事实往往持不同结论，暴露出可靠性与评估难题。结果强调需要多模型集成、校准，以及人工在环来降低关键应用中的误导风险。",
+      "hn": {
+        "id": 48307887,
+        "type": "story",
+        "by": "kostaj",
+        "score": 495,
+        "descendants": 340,
+        "time": 1779970819,
+        "comments_url": "https://news.ycombinator.com/item?id=48307887"
+      },
+      "hot_score": 1.12,
+      "tags": [
+        "AI",
+        "Science"
+      ]
+    },
+    {
+      "title_en": "Nitpicking the shell history scene in 'Tron: Legacy'",
+      "url": "https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/tron-legacy/",
+      "title_zh": "对《Tron: Legacy》里 Shell history 场景的挑剔",
+      "created_display": "Created: May 28, 2026 / 12:15 PT",
+      "image_url": "https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/tron-legacy/screenshot.webp",
+      "summary_en": "The post analyzes the shell history scene in Tron: Legacy to illustrate how films misrepresent basic computing concepts. It highlights a few inaccuracies and explains why precise technical details matter to both enthusiasts and professionals.",
+      "summary_zh": "本文分析《Tron: Legacy》中的 shell history 场景，借此揭示科幻电影对基础计算概念的错误呈现。文中指出若干不准确之处，并解释准确的技术细节对爱好者与专业人士的重要性。",
+      "hn": {
+        "id": 48314002,
+        "type": "story",
+        "by": "speckx",
+        "score": 293,
+        "descendants": 103,
+        "time": 1779995754,
+        "comments_url": "https://news.ycombinator.com/item?id=48314002"
+      },
+      "tags": [
+        "Entertainment"
+      ],
+      "hot_score": 1.07
+    },
+    {
+      "title_en": "Citing 'severe' math deficits, UC faculty demand a return to SAT tests for STEM",
+      "url": "https://www.latimes.com/california/story/2026-05-27/uc-math-professors-demand-return-of-sat-for-stem-admissions",
+      "title_zh": "因数学能力被认为严重不足，UC 教职员要求在 STEM 招生中恢复 SAT 考试",
+      "created_display": "Created: May 28, 2026 / 07:13 PT",
+      "image_url": "https://ca-times.brightspotcdn.com/dims4/default/6a6f7ae/2147483647/strip/true/crop/5472x2873+0+388/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F71%2F9a%2Fa7e16b5640b59762cc3e758ffc1a%2F1294188-me-uc-irvine-student-housing-001-ajs.jpg",
+      "summary_en": "UC faculty cite severe math deficits and push for reinstating SATs in STEM admissions, fueling the broader debate over standardized tests in higher education. Supporters argue tests help identify quantitative potential, while critics warn about equity and access implications.",
+      "summary_zh": "UC 教职员以数学能力严重不足为由，推动 STEM 招生重新采用 SAT 等标准化考试，成为高等教育招生标准化考试辩论的一部分。支持者认为考试能筛出具备定量潜力的候选人，反对者则担忧公平性与机会不均。",
+      "hn": {
+        "id": 48309233,
+        "type": "story",
+        "by": "brandonb",
+        "score": 399,
+        "descendants": 621,
+        "time": 1779977580,
+        "comments_url": "https://news.ycombinator.com/item?id=48309233"
+      },
+      "tags": [
+        "Education"
+      ],
+      "hot_score": 1.02
+    },
+    {
+      "title_en": "I think Anthropic and OpenAI have found product-market fit",
+      "url": "https://simonwillison.net/2026/May/27/product-market-fit/",
+      "title_zh": "我认为 Anthropic 与 OpenAI 已找到产品-市场契合点",
+      "created_display": "Created: May 27, 2026 / 09:39 PT",
+      "image_url": null,
+      "summary_en": "The author argues that Anthropic and OpenAI have achieved product-market fit, suggesting their APIs and tooling are resonating with developers and enterprises. The view reflects a maturing AI ecosystem where practical, scalable offerings begin to outpace novelty. It highlights what successful AI tooling needs to scale.",
+      "summary_zh": "作者认为 Anthropic 与 OpenAI 已找到产品-市场契合点，表明它们的 API 与工具已经得到开发者和企业的共鸣。这一观点反映出 AI 生态系统逐步成熟，实用、可扩展的产品开始超越新奇性。也点出成功的 AI 工具要能实现规模化的关键要素。",
+      "hn": {
+        "id": 48296794,
+        "type": "story",
+        "by": "simonw",
+        "score": 1080,
+        "descendants": 1227,
+        "time": 1779899953,
+        "comments_url": "https://news.ycombinator.com/item?id=48296794"
+      },
+      "tags": [
+        "AI",
+        "Business"
+      ],
+      "hot_score": 0.97
+    },
+    {
+      "title_en": "DuckDuckGo search saw 28% more visits after Google said people love AI mode",
+      "url": "https://www.pcgamer.com/hardware/duckduckgos-ai-free-search-saw-nearly-28-percent-more-visits-in-the-week-following-googles-insistence-that-people-love-ai-mode/",
+      "title_zh": "DuckDuckGo 搜索在 Google 宣称人们喜爱 AI 模式后访量上涨 28%",
+      "created_display": "Created: May 27, 2026 / 09:28 PT",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/CiEBkxLPHniUeZDcJCDbD7-1920-80.jpg",
+      "summary_en": "DuckDuckGo saw roughly 28% more visits in the week after Google publicly touted AI mode, signaling interest in AI-enabled search options beyond the big players. The shift hints at how privacy-focused users respond to mainstream AI features and where alternative search engines fit in.",
+      "summary_zh": "在 Google 公布 AI 模式受欢迎的一周内，DuckDuckGo 的访问量增加了约 28%，显示 AI 功能对隐私导向用户的吸引力。此现象揭示隐私取向的用户在主流 AI 功能出现时如何寻找替代方案，以及替代搜索引擎的定位。",
+      "hn": {
+        "id": 48296649,
+        "type": "story",
+        "by": "HelloUsername",
+        "score": 1062,
+        "descendants": 514,
+        "time": 1779899321,
+        "comments_url": "https://news.ycombinator.com/item?id=48296649"
+      },
+      "tags": [
+        "Privacy",
+        "Web",
+        "AI"
+      ],
+      "hot_score": 0.95
+    },
+    {
+      "title_en": "EU fines Temu €200M for allowing sale of illegal products",
+      "url": "https://www.bbc.co.uk/news/articles/c1k2ydn1rz8o",
+      "title_zh": "欧盟因允许销售非法产品对 Temu 罚款 2 亿欧元",
+      "created_display": "Created: May 28, 2026 / 07:18 PT",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6b44/live/c457e920-5a82-11f1-8b8c-6d33e1d5abb6.jpg",
+      "summary_en": "The EU fines Temu €200M for letting illegal products be sold on its platform, underscoring ongoing enforcement against unsafe or banned goods. The decision signals tightening scrutiny for marketplaces and could push Temu to bolster content moderation and seller vetting.",
+      "summary_zh": "欧盟因允许非法产品在平台上销售，对 Temu 处以2亿欧元罚款，凸显对不合规商品的持续打击。此举或促使 Temu 加强内容审核和卖家资质核验，以应对日益严格的监管。",
+      "hn": {
+        "id": 48309302,
+        "type": "story",
+        "by": "jjp",
+        "score": 337,
+        "descendants": 358,
+        "time": 1779977898,
+        "comments_url": "https://news.ycombinator.com/item?id=48309302"
+      },
+      "tags": [
+        "Legal",
+        "Business"
+      ],
+      "hot_score": 0.86
+    },
+    {
+      "title_en": "Show HN: Continue? Y/N: A 60-second game about AI agent permission fatigue",
+      "url": "https://llmgame.scalex.dev",
+      "title_zh": "Show HN: Continue? Y/N：一个关于 AI 代理许可疲劳的 60 秒游戏",
+      "created_display": "Created: May 28, 2026 / 06:02 PT",
+      "image_url": "https://llmgame.scalex.dev/continuegame.png",
+      "summary_en": "A tiny interactive demo that asks users to approve AI agent actions in short bursts, highlighting the fatigue that accumulates when permissions are required for every step. It prompts reflection on UX for autonomous agents and where to draw guardrails.",
+      "summary_zh": "一个极简互动演示，要求用户在短时间内为 AI 代理的操作逐步授权，暴露频繁授权带来的疲劳感。促使人们思考自走代理的用户体验与何时设置边界。",
+      "hn": {
+        "id": 48308376,
+        "type": "story",
+        "by": "Wirbelwind",
+        "score": 361,
+        "descendants": 146,
+        "time": 1779973320,
+        "comments_url": "https://news.ycombinator.com/item?id=48308376"
+      },
+      "tags": [
+        "Show HN",
+        "AI"
+      ],
+      "hot_score": 0.85
+    },
+    {
+      "title_en": "Sam Altman and Dario Amodei are both walking back AI jobs apocalypse predictions",
+      "url": "https://fortune.com/2026/05/26/sam-altman-dario-amodei-walking-back-ai-jobs-apocalypse-prophecies-ipo/",
+      "title_zh": "萨姆·奥特曼与达里奥·阿莫代伊收回 AI 导致就业崩溃的预测",
+      "created_display": "Created: May 28, 2026 / 12:43 PT",
+      "image_url": "https://fortune.com/img-assets/wp-content/uploads/2026/05/GettyImages-2265445220-e1779827097282.jpg?resize=1200,600",
+      "summary_en": "Both leaders retract the idea that AI will unleash mass unemployment, framing AI-driven productivity as a net shift rather than a job-ending force. They advocate retraining, policy imagination, and measured deployment to maximize gains while mitigating disruption.",
+      "summary_zh": "两位领导人收回了 AI 将带来大规模失业的极端论调，强调 AI 可能带来生产力提升而非单纯裁员的净效应。呼吁加强再培训、政策协作，以及更为审慎的落地节奏，以在推动创新的同时减小对就业的冲击。",
+      "hn": {
+        "id": 48314363,
+        "type": "story",
+        "by": "ianrahman",
+        "score": 224,
+        "descendants": 173,
+        "time": 1779997394,
+        "comments_url": "https://news.ycombinator.com/item?id=48314363"
+      },
+      "hot_score": 0.85,
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "title_en": "I hated writing until I learned there’s a science to it (2024)",
+      "url": "https://www.science.org/content/article/i-hated-writing-until-i-learned-there-s-science-it",
+      "title_zh": "直到我发现写作也有科学后才不再讨厌写作（2024）",
+      "created_display": "Created: May 28, 2026 / 10:36 PT",
+      "image_url": null,
+      "summary_en": "The author reframes writing as a craft supported by science, showing how data, structure, and deliberate practice can improve clarity and speed. The piece offers actionable steps for turning writing into a repeatable process rather than a dreaded chore.",
+      "summary_zh": "作者将写作视为可通过科学方法提升的技能，展示数据驱动的结构、练习与反馈如何提升表达的清晰度与速度。文中给出把写作变成可重复流程的可执行步骤，帮助克服讨厌写作的情绪。",
+      "hn": {
+        "id": 48312528,
+        "type": "story",
+        "by": "o4c",
+        "score": 227,
+        "descendants": 97,
+        "time": 1779989807,
+        "comments_url": "https://news.ycombinator.com/item?id=48312528"
+      },
+      "tags": [
+        "Science"
+      ],
+      "hot_score": 0.73
+    },
+    {
+      "title_en": "New York passes pied-a-terre tax",
+      "url": "https://www.cnbc.com/2026/05/28/new-york-mamdani-pied-a-terre-tax-passes.html",
+      "title_zh": "纽约通过 pied-à-terre 税",
+      "created_display": "Created: May 28, 2026 / 07:37 PT",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108312660-1779901825216-gettyimages-1087690344-220_CENTRAL_PARK_SOUTH.jpeg?v=1779907100&w=1920&h=1080",
+      "summary_en": "New York approved a tax on pieds-à-terre, aiming to tax non-primary luxury residences owned by wealthy buyers to fund affordable housing. Expect housing market cool-down in high-end segments and possible shifts in occupancy patterns as owners re-evaluate NYC exposure.",
+      "summary_zh": "纽约通过对非主要居所征税的 Pied-à-terre 税，意在通过针对富裕买家的奢华第二住所来为可负担住房筹资。此举可能抑制高端房产需求，促使房主重新评估在纽约市的置业与出租策略。",
+      "hn": {
+        "id": 48309584,
+        "type": "story",
+        "by": "proofofcontempt",
+        "score": 274,
+        "descendants": 431,
+        "time": 1779979071,
+        "comments_url": "https://news.ycombinator.com/item?id=48309584"
+      },
+      "hot_score": 0.72,
+      "tags": [
+        "Politics"
+      ]
+    },
+    {
+      "title_en": "Last.fm is now independent",
+      "url": "https://support.last.fm/t/last-fm-is-now-independent/118591",
+      "title_zh": "Last.fm 现在独立运营",
+      "created_display": "Created: May 27, 2026 / 08:36 PT",
+      "image_url": "https://us1.discourse-cdn.com/flex021/uploads/lastfm/original/2X/f/f1f8c34ea6f18aad5b8f89905e38ba7b3424d9b1.png",
+      "summary_en": "Last.fm has achieved independence from its former owner, enabling autonomous product decisions and potentially different privacy posture. The move matters for long-time users and the sustainability of the platform in a competitive music landscape. It signals a wish to recalibrate how the service fits into modern open ecosystems.",
+      "summary_zh": "Last.fm 已实现独立运营，能自行决策产品路线并可能调整隐私策略。在竞争激烈的音乐生态中，这一举措关系到长期用户的体验与平台的可持续性。也显示出在现代开源生态中重新定位服务定位的愿望。",
+      "hn": {
+        "id": 48295892,
+        "type": "story",
+        "by": "twistslider",
+        "score": 803,
+        "descendants": 215,
+        "time": 1779896169,
+        "comments_url": "https://news.ycombinator.com/item?id=48295892"
+      },
+      "tags": [
+        "Business",
+        "Privacy"
+      ],
+      "hot_score": 0.7
+    },
+    {
+      "title_en": "AMD pulls a bait-and-switch on Linux users with Vivado licensing changes",
+      "url": "https://itsfoss.com/news/amd-vivado-bait-and-switch-on-linux-users/",
+      "title_zh": "AMD 对 Linux 用户的 Vivado 许可变更引发争议",
+      "created_display": "Created: May 28, 2026 / 03:56 PT",
+      "image_url": "https://itsfoss.com/content/images/2026/05/amd-vivado-licensing-change-banner.png",
+      "summary_en": "AMD's Vivado licensing changes reportedly shift terms for Linux users, raising concerns about compatibility, pricing, and the openness of the FPGA ecosystem after AMD's Xilinx acquisition. The move could disrupt workflows for teams relying on Xilinx IP, pushing developers toward tighter licenses or alternative tools.",
+      "summary_zh": "Vivado 许可变更被指向 Linux 用户设定更严格或更高成本的条款，可能影响 FPGA 开发者的工作流，尤其中在 AMD 收购 Xilinx 后。此举可能促使开发者寻求替代工具或更紧密的授权控制。",
+      "hn": {
+        "id": 48307231,
+        "type": "story",
+        "by": "teleforce",
+        "score": 333,
+        "descendants": 163,
+        "time": 1779965815,
+        "comments_url": "https://news.ycombinator.com/item?id=48307231"
+      },
+      "tags": [
+        "Programming",
+        "Hardware",
+        "Business"
+      ],
+      "hot_score": 0.69
+    },
+    {
+      "title_en": "Show HN: Hallucinate – Massively Multiplayer Online Rave",
+      "url": "https://hallucinate.site",
+      "title_zh": "幻觉：大型多人在线电子派对",
+      "created_display": "Created: May 27, 2026 / 20:50 PT",
+      "image_url": null,
+      "summary_en": "A browser-based virtual rave that mixes real-time audiovisuals, avatars and persistent shared spaces to let many participants party together. It treats a rave as an MMO—prioritizing emergent social interactions, live visuals and music synchronization rather than a tightly structured event.",
+      "summary_zh": "一个基于浏览器的虚拟派对平台，将实时视听、头像和持久共享空间组合成多人在线体验。它把电子派对当作 MMO 来做，强调自发的社交互动、现场视觉与音乐同步，而不是单一的结构化活动。",
+      "hn": {
+        "id": 48304260,
+        "type": "story",
+        "by": "stagas",
+        "score": 430,
+        "descendants": 191,
+        "time": 1779940201,
+        "comments_url": "https://news.ycombinator.com/item?id=48304260"
+      },
+      "tags": [
+        "Show HN",
+        "Gaming",
+        "Web"
+      ],
+      "hot_score": 0.62
+    },
+    {
+      "title_en": "Tech CEOs are apparently suffering from AI psychosis",
+      "url": "https://techcrunch.com/2026/05/27/tech-ceos-are-apparently-suffering-from-ai-psychosis/",
+      "title_zh": "科技CEO 似乎在 AI 热潮中陷入‘AI 精神错乱’",
+      "created_display": "Created: May 27, 2026 / 08:20 PT",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2022/11/GettyImages-1265000101.jpg?resize=1200,857",
+      "summary_en": "Tech CEOs are reportedly suffering from AI psychosis, a tongue-in-cheek description of how leaders react to AI hype. The piece argues that rapid shifts in AI narratives are reshaping strategy, hiring, and governance, sometimes more than actual product outcomes. This dynamic matters for investors and engineers plotting long-term roadmaps.",
+      "summary_zh": "科技界 CEO 被称在 AI 热潮中经历“AI 精神错乱”，用以描述领导者对 AI 热度的快速反应。文章认为 AI 叙事的迅速变化正在重塑战略、招聘与治理，有时影响力甚至超过实际产品成果。这一动态对投资者和工程师制定长期路线图至关重要。",
+      "hn": {
+        "id": 48295679,
+        "type": "story",
+        "by": "IAmGraydon",
+        "score": 714,
+        "descendants": 354,
+        "time": 1779895247,
+        "comments_url": "https://news.ycombinator.com/item?id=48295679"
+      },
+      "tags": [
+        "AI",
+        "Business",
+        "Web"
+      ],
+      "hot_score": 0.61
+    },
+    {
+      "title_en": "The Permanent Upper Crow",
+      "url": "https://permanent-upper-crow.jasonwu.ink/",
+      "title_zh": "永久的上层乌鸦",
+      "created_display": "Created: May 28, 2026 / 08:23 PT",
+      "image_url": null,
+      "summary_en": "A brief, enigmatic meditation on the 'Permanent Upper Crow' and what that persistent image suggests about permanence and oversight.",
+      "summary_zh": "一个简短而神秘的沉思，围绕“永久上方的乌鸦”这个形象，揭示关于永恒与监督的含义。",
+      "hn": {
+        "id": 48310280,
+        "type": "story",
+        "by": "whiteblossom",
+        "score": 209,
+        "descendants": 81,
+        "time": 1779981784,
+        "comments_url": "https://news.ycombinator.com/item?id=48310280"
+      },
+      "tags": [
+        "Culture"
+      ],
+      "hot_score": 0.57
+    },
+    {
+      "title_en": "Canada to order military plane fleet from Sweden in shift from US suppliers",
+      "url": "https://www.theguardian.com/world/2026/may/27/canada-sweden-saab-globaleye-aircraft",
+      "title_zh": "加拿大将从瑞典订购军机机队，转向非美供应商",
+      "created_display": "Created: May 27, 2026 / 09:53 PT",
+      "image_url": "https://i.guim.co.uk/img/media/65d5f6f80b88938d817176d98e43c9404840ddd6/387_0_5431_4345/master/5431.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=659c9398c5ec5062376e332ab41a4aa9",
+      "summary_en": "Canada plans to order a Swedish-built military aircraft fleet, diversifying away from traditional US suppliers. The move signals a strategic shift in defense procurement and alliance dynamics, with implications for industrial partnerships, maintenance, and interoperability. The contract may reshape North American defense supply chains.",
+      "summary_zh": "加拿大计划从瑞典采购军事飞行器机队，寻求摆脱对美国供应商的依赖。这一举措体现了防务采购的战略调整及同盟关系的变化，对产业伙伴关系、维护与互操作性带来影响，可能重塑北美防务供应链。",
+      "hn": {
+        "id": 48296994,
+        "type": "story",
+        "by": "tosh",
+        "score": 614,
+        "descendants": 479,
+        "time": 1779900805,
+        "comments_url": "https://news.ycombinator.com/item?id=48296994"
+      },
+      "tags": [
+        "Politics",
+        "Business"
+      ],
+      "hot_score": 0.56
+    },
+    {
+      "title_en": "FBI Arrests CIA Official with $40M in Gold Bars in His Home",
+      "url": "https://www.nytimes.com/2026/05/27/us/politics/fbi-arrest-cia-official-gold-bars.html",
+      "title_zh": "FBI逮捕中情局官员，家中搜出价值 4,000 万美元的金条",
+      "created_display": "Created: May 27, 2026 / 16:23 PT",
+      "image_url": null,
+      "summary_en": "A national-security employee was arrested after authorities found about $40 million in gold bars at his residence, triggering criminal charges and scrutiny over potential financial misconduct. The case raises questions about how intelligence personnel are monitored for unexplained wealth and the intersection of internal security and federal law enforcement.",
+      "summary_zh": "一名情报人员因住所被查获约价值 4,000 万美元的金条而遭逮捕，并面临刑事指控，事件引发对其财务行为的审查。该案凸显了对情报人员无合理解释财富的监管缺口，以及内部安全与联邦执法之间的交集。",
+      "hn": {
+        "id": 48302151,
+        "type": "story",
+        "by": "cwwc",
+        "score": 459,
+        "descendants": 382,
+        "time": 1779924209,
+        "comments_url": "https://news.ycombinator.com/item?id=48302151"
+      },
+      "tags": [
+        "Security",
+        "Politics"
+      ],
+      "hot_score": 0.54
+    },
+    {
+      "title_en": "Dynamic Workflows in Claude Code",
+      "url": "https://claude.com/blog/introducing-dynamic-workflows-in-claude-code",
+      "title_zh": "Claude Code 的动态工作流",
+      "created_display": "Created: May 28, 2026 / 09:52 PT",
+      "image_url": "https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6a1871a9d0a0bd93c860cda7_og-dynamic-workflows.jpg",
+      "summary_en": "Claude Code gets dynamic workflows, enabling multi-step, conditional code execution within the AI coding assistant. This enables more complex automation, better orchestration of tasks, and could raise developer productivity and reliability of AI-generated code.",
+      "summary_zh": "Claude Code 引入动态工作流，允许在 AI 编码助手中执行多步、条件化的代码流程。此特性提升了任务编排的灵活性与自动化深度，可能提高开发效率并提升 AI 代码的可靠性。",
+      "hn": {
+        "id": 48311705,
+        "type": "story",
+        "by": "mil22",
+        "score": 150,
+        "descendants": 116,
+        "time": 1779987141,
+        "comments_url": "https://news.ycombinator.com/item?id=48311705"
+      },
+      "hot_score": 0.46,
+      "tags": [
+        "Programming",
+        "AI"
+      ]
+    },
+    {
+      "title_en": "SimCity 3k in 4k (2025)",
+      "url": "https://www.thran.uk/writ/hdid/2025/12/simcity-3k-in-4k.html",
+      "title_zh": "SimCity 3000 4K 重制（2025）",
+      "created_display": "Created: May 27, 2026 / 10:36 PT",
+      "image_url": "https://www.thran.uk/theme/img/thranman_92px.jpg",
+      "summary_en": "A fan-made project recreates SimCity 3000 in 4K, updating visuals while preserving the classic city-building gameplay. The effort highlights how modern upscaling, art direction, and emulation can breathe new life into beloved 2000s games. For retro enthusiasts and streamers, it signals a growing niche of high-res nostalgia experiences.",
+      "summary_zh": "一个玩家自制项目将 SimCity 3000 重制为 4K，保留经典玩法的同时提升画质。此举展示了现代放大、美术风格更新与仿真技术如何为经典游戏注入新活力。对于怀旧玩家和主播而言，预示着高分辨率的复古体验日益兴起。",
+      "hn": {
+        "id": 48297645,
+        "type": "story",
+        "by": "speckx",
+        "score": 480,
+        "descendants": 199,
+        "time": 1779903389,
+        "comments_url": "https://news.ycombinator.com/item?id=48297645"
+      },
+      "tags": [
+        "Gaming"
+      ],
+      "hot_score": 0.45
+    },
+    {
+      "title_en": "What Apple and Google are doing to push notifications",
+      "url": "https://www.jacquescorbytuech.com/writing/what-apple-and-google-are-doing-your-push-notifications",
+      "title_zh": "苹果与谷歌正在如何改造你的推送通知",
+      "created_display": "Created: May 27, 2026 / 12:24 PT",
+      "image_url": "http://www.jacquescorbytuech.com/themes/jacques_2026/icons/og-default.png",
+      "summary_en": "Apple and Google are tightening push notification controls with new privacy safeguards and user-centric options. The changes include clearer opt-ins, quieter notification channels, and smarter delivery to reduce spam while preserving essential alerts. Developers will need to adapt to new policies and API limitations.",
+      "summary_zh": "苹果与谷歌在推送通知方面加强了隐私保护和用户导向的控制，推出更清晰的授权、分级通知和更智能的投递策略以减少骚扰。开发者将需要调整应用以适应新的政策和 API 限制，影响通知体验与广告生态。",
+      "hn": {
+        "id": 48299220,
+        "type": "story",
+        "by": "iamacyborg",
+        "score": 414,
+        "descendants": 404,
+        "time": 1779909850,
+        "comments_url": "https://news.ycombinator.com/item?id=48299220"
+      },
+      "tags": [
+        "Privacy"
+      ],
+      "hot_score": 0.41
+    },
+    {
+      "title_en": "Google employee charged with $1M Polymarket insider trading bet on search term",
+      "url": "https://www.cnbc.com/2026/05/27/google-employee-polymarket-insider-trading.html",
+      "title_zh": "谷歌员工因在 Polymarket 上用内线信息下注 100 万美元被起诉",
+      "created_display": "Created: May 27, 2026 / 17:49 PT",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108292089-1776284908197-gettyimages-2267134918-POLYMARKET_DC_BAR.jpeg?v=1776284990&w=1920&h=1080",
+      "summary_en": "An employee faces charges for allegedly using privileged access to place a roughly $1M bet on a prediction market tied to a search-term outcome, invoking insider trading laws in a novel context. The case highlights how traditional securities rules and surveillance can apply to decentralized or nontraditional markets when insider knowledge is used for profit.",
+      "summary_zh": "一名员工被控利用特权访问在一个预测市场上下注约 100 万美元，下注标的是与搜索词相关的结果，这一指控把传统内线交易法规带入了新型市场。此案强调当使用内部信息牟利时，传统的监管与监控手段也会适用于去中心化或非传统的交易平台。",
+      "hn": {
+        "id": 48302822,
+        "type": "story",
+        "by": "pseudolus",
+        "score": 309,
+        "descendants": 210,
+        "time": 1779929398,
+        "comments_url": "https://news.ycombinator.com/item?id=48302822"
+      },
+      "tags": [
+        "Finance",
+        "Legal",
+        "Privacy",
+        "Business"
+      ],
+      "hot_score": 0.39
+    },
+    {
+      "title_en": "I'm Getting into Mesh Networks (Meshtastic, MeshCore, and Reticulum)",
+      "url": "https://www.jonaharagon.com/posts/im-getting-into-mesh-networks-meshtastic-meshcore-and-reticulum/",
+      "title_zh": "我开始接触网状网络（Meshtastic、MeshCore 与 Reticulum）",
+      "created_display": "Created: May 27, 2026 / 12:52 PT",
+      "image_url": "https://images.unsplash.com/photo-1590859808308-3d2d9c515b1a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDN8fG1lc2h8ZW58MHx8fHwxNzY5NDYwNTA5fDA&ixlib=rb-4.1.0&q=80&w=2000",
+      "summary_en": "The author shares first impressions exploring mesh networking platforms such as Meshtastic, MeshCore, and Reticulum, outlining potential use cases for resilient, off-grid communication.",
+      "summary_zh": "作者分享初步体验，探讨 Meshtastic、MeshCore 与 Reticulum 等网状网络平台的潜在应用，如离网环境下的鲁棒通信，同时指出不同技术栈的部署难点与取舍。",
+      "hn": {
+        "id": 48299638,
+        "type": "story",
+        "by": "Panda_",
+        "score": 366,
+        "descendants": 141,
+        "time": 1779911569,
+        "comments_url": "https://news.ycombinator.com/item?id=48299638"
+      },
+      "tags": [
+        "Open Source"
+      ],
+      "hot_score": 0.37
+    },
+    {
+      "title_en": "AI sticker shock hits corporate America",
+      "url": "https://www.axios.com/2026/05/28/ai-spending-roi-enterprise-costs",
+      "title_zh": "AI 价格冲击波及美国企业",
+      "created_display": "Created: May 28, 2026 / 03:39 PT",
+      "image_url": null,
+      "summary_en": "AI sticker shock hits corporate America as tool costs, data infrastructure, and governance needs outpace expectations for ROI. Firms face budgeting challenges, vendor lock-in risk, and a push to strengthen MLOps to scale responsibly.",
+      "summary_zh": "AI 价格冲击波及美国企业，工具成本、数据基础设施和治理要求提升，超出初期预期。公司需要权衡成本、供应商锁定风险，并强化 MLOps 来实现可持续规模化。",
+      "hn": {
+        "id": 48307098,
+        "type": "story",
+        "by": "1vuio0pswjnm7",
+        "score": 164,
+        "descendants": 142,
+        "time": 1779964772,
+        "comments_url": "https://news.ycombinator.com/item?id=48307098"
+      },
+      "tags": [
+        "AI",
+        "Business",
+        "DevOps"
+      ],
+      "hot_score": 0.33
+    },
+    {
+      "title_en": "I analysed 20 years of my chats",
+      "url": "https://drobinin.com/posts/am-i-a-bad-friend/",
+      "title_zh": "我分析了二十年的聊天记录",
+      "created_display": "Created: May 27, 2026 / 16:31 PT",
+      "image_url": "https://drobinin.com/assets/qs-emotional-register.png",
+      "summary_en": "A long-running look at 20 years of chats reveals patterns in closeness, miscommunication, and evolving friendship dynamics. The analysis raises questions about self-awareness and the privacy costs of preserving intimate digital records.",
+      "summary_zh": "通过二十年的聊天记录，作者揭示了亲密度、沟通误差与友谊关系随时间的演变模式。此分析也引发对自我认知偏差以及保留大量私人对话所带来隐私代价的思考。",
+      "hn": {
+        "id": 48302220,
+        "type": "story",
+        "by": "valzevul",
+        "score": 249,
+        "descendants": 151,
+        "time": 1779924673,
+        "comments_url": "https://news.ycombinator.com/item?id=48302220"
+      },
+      "tags": [
+        "Privacy"
+      ],
+      "hot_score": 0.29
+    },
+    {
+      "title_en": "Valve raises Steam Deck prices",
+      "url": "https://www.theverge.com/games/938340/valve-steam-deck-price-increase",
+      "title_zh": "Valve 上调 Steam Deck 价格",
+      "created_display": "Created: May 27, 2026 / 10:58 PT",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25070054/DSCF9155.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "summary_en": "Valve raises Steam Deck prices, potentially narrowing the device's edge against handheld rivals amid ongoing supply chain pressures. The price hike could slow adoption among budget-conscious gamers and affect the broader handheld PC market.",
+      "summary_zh": "Valve 提升 Steam Deck 价格，反映了硬件成本压力及市场定价策略对掌机竞争力的影响。价格上调可能拖慢对预算敏感玩家的吸引力，并对掌机 PC 市场格局产生连锁效应。",
+      "hn": {
+        "id": 48297976,
+        "type": "story",
+        "by": "droidjj",
+        "score": 272,
+        "descendants": 275,
+        "time": 1779904727,
+        "comments_url": "https://news.ycombinator.com/item?id=48297976"
+      },
+      "tags": [
+        "Gaming"
+      ],
+      "hot_score": 0.26
+    },
+    {
+      "title_en": "Rust (and Slint) on a Jailbroken Kindle",
+      "url": "https://sverre.me/blog/rust-on-kindle/",
+      "title_zh": "在越狱 Kindle 上运行 Rust 与 Slint",
+      "created_display": "Created: May 27, 2026 / 12:51 PT",
+      "image_url": "https://sverre.me/processed_images/kindle_slint.4fe7d110ed3ed9bf.webp",
+      "summary_en": "A maker demonstrates running Rust and the Slint UI toolkit on a jailbroken Kindle, showing that modern language ecosystems can reach constrained devices. The experiment highlights how compact runtimes and cross-compilation enable interactive interfaces on e-readers.",
+      "summary_zh": "一位爱好者在越狱的 Kindle 上演示了 Rust 及 Slint 用户界面工具包的运行，证明紧凑的运行时和跨编译能够把现代语言生态带到受限设备。此类尝试凸显了在低功耗电子书阅读器上实现交互式界面的可行性。",
+      "hn": {
+        "id": 48299623,
+        "type": "story",
+        "by": "homarp",
+        "score": 235,
+        "descendants": 37,
+        "time": 1779911507,
+        "comments_url": "https://news.ycombinator.com/item?id=48299623"
+      },
+      "tags": [
+        "Programming",
+        "Hardware"
+      ],
+      "hot_score": 0.24
+    },
+    {
+      "title_en": "A Eureka machine that thinks like nature and explores what AI cannot",
+      "url": "https://iisc.ac.in/a-eureka-machine-that-thinks-like-nature-and-explores-what-ai-cannot/",
+      "title_zh": "像自然一样思考的尤里卡机器：探索AI无法胜任的领域",
+      "created_display": "Created: May 27, 2026 / 23:40 PT",
+      "image_url": "https://iisc.ac.in/wp-content/uploads/2018/03/IISc-logo.jpg",
+      "summary_en": "A nature-inspired 'Eureka' machine tackles problems that standard AI struggles with, hinting at new computational paradigms. By borrowing strategies from nature—adaptation, robustness, and self-organization—it reveals limits of current AI and points toward future research directions.",
+      "summary_zh": "一台受自然启发的“尤里卡”机器，尝试解决传统AI难以胜任的问题，揭示了新的计算范式潜力。通过借鉴自然界的适应性、鲁棒性与自我组织等策略，展示了现有AI的局限并指向未来的研究方向。",
+      "hn": {
+        "id": 48305446,
+        "type": "story",
+        "by": "kunalsin9h",
+        "score": 145,
+        "descendants": 42,
+        "time": 1779950431,
+        "comments_url": "https://news.ycombinator.com/item?id=48305446"
+      },
+      "tags": [
+        "AI",
+        "Science"
+      ],
+      "hot_score": 0.24
+    },
+    {
+      "title_en": "Bttf is a command line datetime Swiss army knife",
+      "url": "https://github.com/BurntSushi/bttf",
+      "title_zh": "Biff：命令行日期时间瑞士军刀",
+      "created_display": "Created: May 27, 2026 / 19:58 PT",
+      "image_url": "https://opengraph.githubassets.com/77fa0881a46932fa4b82e2fac2366af8c863945dca1579a10f36190c8a75c5b3/BurntSushi/biff",
+      "summary_en": "Biff bundles date-time parsing, formatting, arithmetic, and other utilities into a single CLI tool. It streamlines scripting and data workflows that repeatedly manipulate timestamps, time zones, and durations.",
+      "summary_zh": "Biff 将日期时间解析、格式化、计算等工具整合到一个命令行工具中，便利需要频繁处理时间戳、时区与时长的脚本与数据工作流。",
+      "hn": {
+        "id": 48303881,
+        "type": "story",
+        "by": "burntsushi",
+        "score": 164,
+        "descendants": 95,
+        "time": 1779937124,
+        "comments_url": "https://news.ycombinator.com/item?id=48303881"
+      },
+      "tags": [
+        "Programming"
+      ],
+      "hot_score": 0.23
+    },
+    {
+      "title_en": "I found a second vote.gov – and it's registered to the White House",
+      "url": "https://thedreydossier.substack.com/p/i-found-a-second-votegov-and-its",
+      "title_zh": "我发现第二个 vote.gov——登记在白宫名下",
+      "created_display": "Created: May 27, 2026 / 11:47 PT",
+      "image_url": null,
+      "summary_en": "A second vote.gov domain registered to the White House has surfaced, raising questions about domain management and official provenance. The finding underscores the importance of verifiable authority for government online services.",
+      "summary_zh": "发现存在一个第二个 vote.gov 域名，登记在白宫名下，引发关于域名管理与官方来源认证的讨论。这提醒人们对官方在线入口的权威性与可信度需要可验证的证据。",
+      "hn": {
+        "id": 48298665,
+        "type": "story",
+        "by": "philips",
+        "score": 229,
+        "descendants": 18,
+        "time": 1779907637,
+        "comments_url": "https://news.ycombinator.com/item?id=48298665"
+      },
+      "tags": [
+        "Politics"
+      ],
+      "hot_score": 0.22
+    },
+    {
+      "title_en": "Training our own AI models",
+      "url": "https://posthog.com/blog/training-ai-models",
+      "title_zh": "训练我们自己的 AI 模型",
+      "created_display": "Created: May 27, 2026 / 09:08 PT",
+      "image_url": "https://d36j3rcgc2qfsv.cloudfront.net/blogtraining-ai-models.jpeg",
+      "summary_en": "PostHog argues for training our own AI models, outlining advantages like data control, privacy, and customization plus the risks of vendor lock-in. It maps a practical path from data collection to model selection, evaluation, and governance, along with cost considerations.",
+      "summary_zh": "PostHog 讨论在本地或自有环境训练自家 AI 模型的可行性，强调数据控制、隐私保护、定制能力与避免供应商锁定等优点。文中给出从数据准备、模型选型到评估与治理的实用路径，并分析成本与取舍。",
+      "hn": {
+        "id": 48296359,
+        "type": "story",
+        "by": "tartieret",
+        "score": 213,
+        "descendants": 143,
+        "time": 1779898122,
+        "comments_url": "https://news.ycombinator.com/item?id=48296359"
+      },
+      "tags": [
+        "AI",
+        "Data",
+        "Privacy"
+      ],
+      "hot_score": 0.19
+    },
+    {
+      "title_en": "Stress disrupts hippocampal integration of overlapping events, memory inference",
+      "url": "https://www.science.org/doi/10.1126/sciadv.aea5496?user_id=66c4bf745d78644b3aa57b08",
+      "title_zh": "压力与记忆：海马体在重叠事件中的整合受干扰",
+      "created_display": "Created: May 27, 2026 / 09:26 PT",
+      "image_url": null,
+      "summary_en": "New study shows that stress disrupts the hippocampus integrates overlapping events, impairing memory inference. The findings illuminate neural pathways behind stress-related memory changes and could inform treatments for anxiety-related cognitive effects.",
+      "summary_zh": "研究发现，压力会扰乱海马体对重叠事件的整合，削弱推断性记忆。结果揭示了压力对记忆的神经机制，或有助于理解焦虑相关的认知影响与治疗方向。",
+      "hn": {
+        "id": 48296622,
+        "type": "story",
+        "by": "gmays",
+        "score": 169,
+        "descendants": 24,
+        "time": 1779899191,
+        "comments_url": "https://news.ycombinator.com/item?id=48296622"
+      },
+      "tags": [
+        "Science",
+        "Health"
+      ],
+      "hot_score": 0.15
+    },
+    {
+      "title_en": "Corporations can vote in some Delaware elections, judge says",
+      "url": "https://news.bloomberglaw.com/esg/corporations-have-the-right-to-vote-in-delaware-town-judge-says",
+      "title_zh": "德拉瓦州某些选举允许公司投票，法官称允许",
+      "created_display": "Created: May 27, 2026 / 08:05 PT",
+      "image_url": "https://bwrite-static.bloombergindustry.com/dims4/default/d89d914/2147483647/strip/false/crop/4493x1732+4+368/resize/960x370!/quality/90/?url=https%3A%2F%2Fbloomberg-bna-brightspot.s3.us-east-1.amazonaws.com%2Fb3%2Ffb%2Fa76516c34817911d35dc3928fc3b%2F327960868.jpg",
+      "summary_en": "A Delaware court has allowed corporations to vote in some local elections, a ruling that could reshape corporate political engagement. The decision prompts questions about corporate personhood and the boundary between business interests and community policy.",
+      "summary_zh": "法院裁定在部分 Delaware 地方选举中，企业有投票权，这一判决可能改变企业在地方政治中的参与方式与影响力。也提出关于公司人格、治理权与商业利益与社区政策边界的讨论。",
+      "hn": {
+        "id": 48295460,
+        "type": "story",
+        "by": "marcher",
+        "score": 148,
+        "descendants": 235,
+        "time": 1779894316,
+        "comments_url": "https://news.ycombinator.com/item?id=48295460"
+      },
+      "tags": [
+        "Politics",
+        "Legal"
+      ],
+      "hot_score": 0.13
+    }
+  ]
+}

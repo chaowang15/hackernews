@@ -1,0 +1,1155 @@
+{
+  "meta": {
+    "mode": "best",
+    "source": "https://news.ycombinator.com/",
+    "api": "https://github.com/HackerNews/API",
+    "count_requested": 50,
+    "count_written": 50,
+    "reused_same_day": 0,
+    "reused_cross_day": 21,
+    "new_llm_enriched": 10,
+    "scrape_time_display": "09:07, May 28, 2026 (PDT)",
+    "timezone": "America/Los_Angeles",
+    "date_dir": "2026/05/27",
+    "content_date": "2026-05-27",
+    "run_time_local": "09:07, May 28, 2026 (PDT)",
+    "run_time_utc": "2026-05-28 16:07:05 UTC",
+    "incremental": true,
+    "stories_max": 50,
+    "hot_score_time_utc": "2026-05-28 16:07:55 UTC"
+  },
+  "items": [
+    {
+      "title_en": "Citing 'severe' math deficits, UC faculty demand a return to SAT tests for STEM",
+      "url": "https://www.latimes.com/california/story/2026-05-27/uc-math-professors-demand-return-of-sat-for-stem-admissions",
+      "title_zh": "因数学能力被认为严重不足，UC 教职员要求在 STEM 招生中恢复 SAT 考试",
+      "created_display": "Created: May 28, 2026 / 07:13 PT",
+      "image_url": "https://ca-times.brightspotcdn.com/dims4/default/6a6f7ae/2147483647/strip/true/crop/5472x2873+0+388/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F71%2F9a%2Fa7e16b5640b59762cc3e758ffc1a%2F1294188-me-uc-irvine-student-housing-001-ajs.jpg",
+      "summary_en": "UC faculty cite severe math deficits and push for reinstating SATs in STEM admissions, fueling the broader debate over standardized tests in higher education. Supporters argue tests help identify quantitative potential, while critics warn about equity and access implications.",
+      "summary_zh": "UC 教职员以数学能力严重不足为由，推动 STEM 招生重新采用 SAT 等标准化考试，成为高等教育招生标准化考试辩论的一部分。支持者认为考试能筛出具备定量潜力的候选人，反对者则担忧公平性与机会不均。",
+      "hn": {
+        "id": 48309233,
+        "type": "story",
+        "by": "brandonb",
+        "score": 240,
+        "descendants": 270,
+        "time": 1779977580,
+        "comments_url": "https://news.ycombinator.com/item?id=48309233"
+      },
+      "hot_score": 20.48,
+      "tags": [
+        "Education"
+      ]
+    },
+    {
+      "title_en": "Five frontier LLMs disagree on 67% of 1k real-world fact-check claims",
+      "url": "https://lenz.io/research/llm-disagreement",
+      "title_zh": "五大前沿LLM在1000条真实世界事实核查中对67%存在分歧",
+      "created_display": "Created: May 28, 2026 / 05:20 PT",
+      "image_url": "https://lenz.io/research/llm-disagreement/og.png",
+      "summary_en": "Five frontier LLMs disagree on about 67% of 1,000 real-world fact-check claims, underscoring reliability gaps in current models for factual tasks. The results emphasize the need for external verification or ensemble approaches before deploying these models for journalism, search, or moderation.",
+      "summary_zh": "在对1000条真实世界事实核查的对比评测中，五大前沿大模型在约67%的样本上意见不一致，暴露了当前模型在事实性任务上的可靠性不足。结果强调需要额外的验证或集成策略，方能在新闻、搜索或内容审核等场景中安全使用。",
+      "hn": {
+        "id": 48307887,
+        "type": "story",
+        "by": "kostaj",
+        "score": 419,
+        "descendants": 286,
+        "time": 1779970819,
+        "comments_url": "https://news.ycombinator.com/item?id=48307887"
+      },
+      "hot_score": 17.7,
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "title_en": "AMD pulls a bait-and-switch on Linux users with Vivado licensing changes",
+      "url": "https://itsfoss.com/news/amd-vivado-bait-and-switch-on-linux-users/",
+      "title_zh": "AMD 对 Linux 用户的 Vivado 许可变更引发争议",
+      "created_display": "Created: May 28, 2026 / 03:56 PT",
+      "image_url": "https://itsfoss.com/content/images/2026/05/amd-vivado-licensing-change-banner.png",
+      "summary_en": "AMD's Vivado licensing changes reportedly shift terms for Linux users, raising concerns about compatibility, pricing, and the openness of the FPGA ecosystem after AMD's Xilinx acquisition. The move could disrupt workflows for teams relying on Xilinx IP, pushing developers toward tighter licenses or alternative tools.",
+      "summary_zh": "Vivado 许可变更被指向 Linux 用户设定更严格或更高成本的条款，可能影响 FPGA 开发者的工作流，尤其中在 AMD 收购 Xilinx 后。此举可能促使开发者寻求替代工具或更紧密的授权控制。",
+      "hn": {
+        "id": 48307231,
+        "type": "story",
+        "by": "teleforce",
+        "score": 287,
+        "descendants": 125,
+        "time": 1779965815,
+        "comments_url": "https://news.ycombinator.com/item?id=48307231"
+      },
+      "hot_score": 8.22,
+      "tags": [
+        "Hardware",
+        "Business"
+      ]
+    },
+    {
+      "title_en": "Can we have the day off?",
+      "url": "https://mlsu.io/posts/day-off/",
+      "title_zh": "我们能放假吗？",
+      "created_display": "Created: May 27, 2026 / 17:40 PT",
+      "image_url": null,
+      "summary_en": "A reflection arguing for institutional acceptance of taking full days off as a normal productivity and wellbeing tool rather than a luxury or punishment. It emphasizes that deliberate rest, clear boundaries and team norms around time off improve long-term output and morale.",
+      "summary_zh": "文章主张把整天休息视为常规的生产力与幸福工具，而非特权或惩罚。强调有意识的休息、明确的界限和团队对请假的共识，能提升长期产出与士气。",
+      "hn": {
+        "id": 48302745,
+        "type": "story",
+        "by": "mlsu",
+        "score": 1234,
+        "descendants": 690,
+        "time": 1779928826,
+        "comments_url": "https://news.ycombinator.com/item?id=48302745"
+      },
+      "tags": [
+        "Culture"
+      ],
+      "hot_score": 7.17
+    },
+    {
+      "title_en": "YouTube to automatically label AI-generated videos",
+      "url": "https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/",
+      "title_zh": "YouTube 将自动标注 AI 生成视频",
+      "created_display": "Created: May 27, 2026 / 13:00 PT",
+      "image_url": "https://variety.com/wp-content/uploads/2025/10/YouTube.png?crop=0px%2C8px%2C1024px%2C576px&resize=1000%2C563",
+      "summary_en": "YouTube is rolling out automated labeling for AI-generated videos to help viewers identify synthetic content. The system aims to increase transparency and reduce misinformation, with tags appearing in search, recommendations, and thumbnails. The move will affect creators who leverage AI and could gradually normalize disclosure signals across the platform.",
+      "summary_zh": "YouTube 正在推出自动标注 AI 生成视频的功能，以帮助观众辨识合成内容。该机制旨在提升透明度并降低误导风险，标签可能出现在搜索与推荐等位面。此举将影响使用 AI 的创作者，并推动在平台上逐步规范披露信号。",
+      "hn": {
+        "id": 48299753,
+        "type": "story",
+        "by": "nopg",
+        "score": 1146,
+        "descendants": 679,
+        "time": 1779912051,
+        "comments_url": "https://news.ycombinator.com/item?id=48299753"
+      },
+      "tags": [
+        "AI"
+      ],
+      "hot_score": 4.35
+    },
+    {
+      "title_en": "I'm Tired of Talking to AI",
+      "url": "https://orchidfiles.com/im-tired-of-ai-generated-answers/",
+      "title_zh": "我厌倦和 AI 交谈",
+      "created_display": "Created: May 27, 2026 / 03:43 PT",
+      "image_url": null,
+      "summary_en": "The piece captures fatigue with AI-generated answers and a longing for more trustworthy, human-like interaction. It calls for clearer sources, transparent reasoning, and design choices that favor meaningful dialogue over generic polish.",
+      "summary_zh": "这篇文章表达了对 AI 生成回答的疲惫，渴望更可信、可核验的互动。作者呼吁提供来源、提高推理透明度，并在设计上优先实现有意义的对话，而非泛泛的回答。",
+      "hn": {
+        "id": 48292224,
+        "type": "story",
+        "by": "theorchid",
+        "score": 1943,
+        "descendants": 926,
+        "time": 1779878605,
+        "comments_url": "https://news.ycombinator.com/item?id=48292224"
+      },
+      "tags": [
+        "AI",
+        "Design"
+      ],
+      "hot_score": 3.92
+    },
+    {
+      "title_en": "AI sticker shock hits corporate America",
+      "url": "https://www.axios.com/2026/05/28/ai-spending-roi-enterprise-costs",
+      "title_zh": "AI 价格冲击波及美国企业",
+      "created_display": "Created: May 28, 2026 / 03:39 PT",
+      "image_url": null,
+      "summary_en": "AI sticker shock hits corporate America as tool costs, data infrastructure, and governance needs outpace expectations for ROI. Firms face budgeting challenges, vendor lock-in risk, and a push to strengthen MLOps to scale responsibly.",
+      "summary_zh": "AI 价格冲击波及美国企业，工具成本、数据基础设施和治理要求提升，超出初期预期。公司需要权衡成本、供应商锁定风险，并强化 MLOps 来实现可持续规模化。",
+      "hn": {
+        "id": 48307098,
+        "type": "story",
+        "by": "1vuio0pswjnm7",
+        "score": 135,
+        "descendants": 125,
+        "time": 1779964772,
+        "comments_url": "https://news.ycombinator.com/item?id=48307098"
+      },
+      "hot_score": 3.59,
+      "tags": [
+        "Business",
+        "AI",
+        "DevOps"
+      ]
+    },
+    {
+      "title_en": "I think Anthropic and OpenAI have found product-market fit",
+      "url": "https://simonwillison.net/2026/May/27/product-market-fit/",
+      "title_zh": "我认为 Anthropic 与 OpenAI 已找到产品-市场契合点",
+      "created_display": "Created: May 27, 2026 / 09:39 PT",
+      "image_url": null,
+      "summary_en": "The author argues that Anthropic and OpenAI have achieved product-market fit, suggesting their APIs and tooling are resonating with developers and enterprises. The view reflects a maturing AI ecosystem where practical, scalable offerings begin to outpace novelty. It highlights what successful AI tooling needs to scale.",
+      "summary_zh": "作者认为 Anthropic 与 OpenAI 已找到产品-市场契合点，表明它们的 API 与工具已经得到开发者和企业的共鸣。这一观点反映出 AI 生态系统逐步成熟，实用、可扩展的产品开始超越新奇性。也点出成功的 AI 工具要能实现规模化的关键要素。",
+      "hn": {
+        "id": 48296794,
+        "type": "story",
+        "by": "simonw",
+        "score": 1021,
+        "descendants": 1132,
+        "time": 1779899953,
+        "comments_url": "https://news.ycombinator.com/item?id=48296794"
+      },
+      "tags": [
+        "AI"
+      ],
+      "hot_score": 3.0
+    },
+    {
+      "title_en": "DuckDuckGo search saw 28% more visits after Google said people love AI mode",
+      "url": "https://www.pcgamer.com/hardware/duckduckgos-ai-free-search-saw-nearly-28-percent-more-visits-in-the-week-following-googles-insistence-that-people-love-ai-mode/",
+      "title_zh": "DuckDuckGo 搜索在 Google 宣称人们喜爱 AI 模式后访量上涨 28%",
+      "created_display": "Created: May 27, 2026 / 09:28 PT",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/CiEBkxLPHniUeZDcJCDbD7-1920-80.jpg",
+      "summary_en": "DuckDuckGo saw roughly 28% more visits in the week after Google publicly touted AI mode, signaling interest in AI-enabled search options beyond the big players. The shift hints at how privacy-focused users respond to mainstream AI features and where alternative search engines fit in.",
+      "summary_zh": "在 Google 公布 AI 模式受欢迎的一周内，DuckDuckGo 的访问量增加了约 28%，显示 AI 功能对隐私导向用户的吸引力。此现象揭示隐私取向的用户在主流 AI 功能出现时如何寻找替代方案，以及替代搜索引擎的定位。",
+      "hn": {
+        "id": 48296649,
+        "type": "story",
+        "by": "HelloUsername",
+        "score": 993,
+        "descendants": 481,
+        "time": 1779899321,
+        "comments_url": "https://news.ycombinator.com/item?id=48296649"
+      },
+      "tags": [
+        "Web",
+        "AI",
+        "Privacy"
+      ],
+      "hot_score": 2.88
+    },
+    {
+      "title_en": "Hallucinate – Massively Multiplayer Online Rave",
+      "url": "https://hallucinate.site",
+      "title_zh": "幻觉：大型多人在线电子派对",
+      "created_display": "Created: May 27, 2026 / 20:50 PT",
+      "image_url": null,
+      "summary_en": "A browser-based virtual rave that mixes real-time audiovisuals, avatars and persistent shared spaces to let many participants party together. It treats a rave as an MMO—prioritizing emergent social interactions, live visuals and music synchronization rather than a tightly structured event.",
+      "summary_zh": "一个基于浏览器的虚拟派对平台，将实时视听、头像和持久共享空间组合成多人在线体验。它把电子派对当作 MMO 来做，强调自发的社交互动、现场视觉与音乐同步，而不是单一的结构化活动。",
+      "hn": {
+        "id": 48304260,
+        "type": "story",
+        "by": "stagas",
+        "score": 327,
+        "descendants": 145,
+        "time": 1779940201,
+        "comments_url": "https://news.ycombinator.com/item?id=48304260"
+      },
+      "tags": [
+        "Gaming",
+        "Web"
+      ],
+      "hot_score": 2.71
+    },
+    {
+      "title_en": "FBI Arrests CIA Official with $40M in Gold Bars in His Home",
+      "url": "https://www.nytimes.com/2026/05/27/us/politics/fbi-arrest-cia-official-gold-bars.html",
+      "title_zh": "FBI逮捕中情局官员，家中搜出价值 4,000 万美元的金条",
+      "created_display": "Created: May 27, 2026 / 16:23 PT",
+      "image_url": null,
+      "summary_en": "A national-security employee was arrested after authorities found about $40 million in gold bars at his residence, triggering criminal charges and scrutiny over potential financial misconduct. The case raises questions about how intelligence personnel are monitored for unexplained wealth and the intersection of internal security and federal law enforcement.",
+      "summary_zh": "一名情报人员因住所被查获约价值 4,000 万美元的金条而遭逮捕，并面临刑事指控，事件引发对其财务行为的审查。该案凸显了对情报人员无合理解释财富的监管缺口，以及内部安全与联邦执法之间的交集。",
+      "hn": {
+        "id": 48302151,
+        "type": "story",
+        "by": "cwwc",
+        "score": 427,
+        "descendants": 344,
+        "time": 1779924209,
+        "comments_url": "https://news.ycombinator.com/item?id=48302151"
+      },
+      "tags": [
+        "Security"
+      ],
+      "hot_score": 2.18
+    },
+    {
+      "title_en": "Last.fm is now independent",
+      "url": "https://support.last.fm/t/last-fm-is-now-independent/118591",
+      "title_zh": "Last.fm 现在独立运营",
+      "created_display": "Created: May 27, 2026 / 08:36 PT",
+      "image_url": "https://us1.discourse-cdn.com/flex021/uploads/lastfm/original/2X/f/f1f8c34ea6f18aad5b8f89905e38ba7b3424d9b1.png",
+      "summary_en": "Last.fm has achieved independence from its former owner, enabling autonomous product decisions and potentially different privacy posture. The move matters for long-time users and the sustainability of the platform in a competitive music landscape. It signals a wish to recalibrate how the service fits into modern open ecosystems.",
+      "summary_zh": "Last.fm 已实现独立运营，能自行决策产品路线并可能调整隐私策略。在竞争激烈的音乐生态中，这一举措关系到长期用户的体验与平台的可持续性。也显示出在现代开源生态中重新定位服务定位的愿望。",
+      "hn": {
+        "id": 48295892,
+        "type": "story",
+        "by": "twistslider",
+        "score": 774,
+        "descendants": 201,
+        "time": 1779896169,
+        "comments_url": "https://news.ycombinator.com/item?id=48295892"
+      },
+      "tags": [
+        "Business",
+        "Privacy"
+      ],
+      "hot_score": 2.12
+    },
+    {
+      "title_en": "Tech CEOs are apparently suffering from AI psychosis",
+      "url": "https://techcrunch.com/2026/05/27/tech-ceos-are-apparently-suffering-from-ai-psychosis/",
+      "title_zh": "科技CEO 似乎在 AI 热潮中陷入‘AI 精神错乱’",
+      "created_display": "Created: May 27, 2026 / 08:20 PT",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2022/11/GettyImages-1265000101.jpg?resize=1200,857",
+      "summary_en": "Tech CEOs are reportedly suffering from AI psychosis, a tongue-in-cheek description of how leaders react to AI hype. The piece argues that rapid shifts in AI narratives are reshaping strategy, hiring, and governance, sometimes more than actual product outcomes. This dynamic matters for investors and engineers plotting long-term roadmaps.",
+      "summary_zh": "科技界 CEO 被称在 AI 热潮中经历“AI 精神错乱”，用以描述领导者对 AI 热度的快速反应。文章认为 AI 叙事的迅速变化正在重塑战略、招聘与治理，有时影响力甚至超过实际产品成果。这一动态对投资者和工程师制定长期路线图至关重要。",
+      "hn": {
+        "id": 48295679,
+        "type": "story",
+        "by": "IAmGraydon",
+        "score": 680,
+        "descendants": 341,
+        "time": 1779895247,
+        "comments_url": "https://news.ycombinator.com/item?id=48295679"
+      },
+      "tags": [
+        "AI",
+        "Business",
+        "Web"
+      ],
+      "hot_score": 1.83
+    },
+    {
+      "title_en": "Canada to order military plane fleet from Sweden in shift from US suppliers",
+      "url": "https://www.theguardian.com/world/2026/may/27/canada-sweden-saab-globaleye-aircraft",
+      "title_zh": "加拿大将从瑞典订购军机机队，转向非美供应商",
+      "created_display": "Created: May 27, 2026 / 09:53 PT",
+      "image_url": "https://i.guim.co.uk/img/media/65d5f6f80b88938d817176d98e43c9404840ddd6/387_0_5431_4345/master/5431.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=659c9398c5ec5062376e332ab41a4aa9",
+      "summary_en": "Canada plans to order a Swedish-built military aircraft fleet, diversifying away from traditional US suppliers. The move signals a strategic shift in defense procurement and alliance dynamics, with implications for industrial partnerships, maintenance, and interoperability. The contract may reshape North American defense supply chains.",
+      "summary_zh": "加拿大计划从瑞典采购军事飞行器机队，寻求摆脱对美国供应商的依赖。这一举措体现了防务采购的战略调整及同盟关系的变化，对产业伙伴关系、维护与互操作性带来影响，可能重塑北美防务供应链。",
+      "hn": {
+        "id": 48296994,
+        "type": "story",
+        "by": "tosh",
+        "score": 583,
+        "descendants": 443,
+        "time": 1779900805,
+        "comments_url": "https://news.ycombinator.com/item?id=48296994"
+      },
+      "tags": [
+        "Politics"
+      ],
+      "hot_score": 1.74
+    },
+    {
+      "title_en": "A Eureka machine that thinks like nature and explores what AI cannot",
+      "url": "https://iisc.ac.in/a-eureka-machine-that-thinks-like-nature-and-explores-what-ai-cannot/",
+      "title_zh": "像自然一样思考的尤里卡机器：探索AI无法胜任的领域",
+      "created_display": "Created: May 27, 2026 / 23:40 PT",
+      "image_url": "https://iisc.ac.in/wp-content/uploads/2018/03/IISc-logo.jpg",
+      "summary_en": "A nature-inspired 'Eureka' machine tackles problems that standard AI struggles with, hinting at new computational paradigms. By borrowing strategies from nature—adaptation, robustness, and self-organization—it reveals limits of current AI and points toward future research directions.",
+      "summary_zh": "一台受自然启发的“尤里卡”机器，尝试解决传统AI难以胜任的问题，揭示了新的计算范式潜力。通过借鉴自然界的适应性、鲁棒性与自我组织等策略，展示了现有AI的局限并指向未来的研究方向。",
+      "hn": {
+        "id": 48305446,
+        "type": "story",
+        "by": "kunalsin9h",
+        "score": 134,
+        "descendants": 39,
+        "time": 1779950431,
+        "comments_url": "https://news.ycombinator.com/item?id=48305446"
+      },
+      "tags": [
+        "Science",
+        "AI"
+      ],
+      "hot_score": 1.65
+    },
+    {
+      "title_en": "Google employee charged with $1M Polymarket insider trading bet on search term",
+      "url": "https://www.cnbc.com/2026/05/27/google-employee-polymarket-insider-trading.html",
+      "title_zh": "谷歌员工因在 Polymarket 上用内线信息下注 100 万美元被起诉",
+      "created_display": "Created: May 27, 2026 / 17:49 PT",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108292089-1776284908197-gettyimages-2267134918-POLYMARKET_DC_BAR.jpeg?v=1776284990&w=1920&h=1080",
+      "summary_en": "An employee faces charges for allegedly using privileged access to place a roughly $1M bet on a prediction market tied to a search-term outcome, invoking insider trading laws in a novel context. The case highlights how traditional securities rules and surveillance can apply to decentralized or nontraditional markets when insider knowledge is used for profit.",
+      "summary_zh": "一名员工被控利用特权访问在一个预测市场上下注约 100 万美元，下注标的是与搜索词相关的结果，这一指控把传统内线交易法规带入了新型市场。此案强调当使用内部信息牟利时，传统的监管与监控手段也会适用于去中心化或非传统的交易平台。",
+      "hn": {
+        "id": 48302822,
+        "type": "story",
+        "by": "pseudolus",
+        "score": 279,
+        "descendants": 185,
+        "time": 1779929398,
+        "comments_url": "https://news.ycombinator.com/item?id=48302822"
+      },
+      "tags": [
+        "Finance",
+        "Legal",
+        "Privacy",
+        "Business"
+      ],
+      "hot_score": 1.64
+    },
+    {
+      "title_en": "SimCity 3k in 4k (2025)",
+      "url": "https://www.thran.uk/writ/hdid/2025/12/simcity-3k-in-4k.html",
+      "title_zh": "SimCity 3000 4K 重制（2025）",
+      "created_display": "Created: May 27, 2026 / 10:36 PT",
+      "image_url": "https://www.thran.uk/theme/img/thranman_92px.jpg",
+      "summary_en": "A fan-made project recreates SimCity 3000 in 4K, updating visuals while preserving the classic city-building gameplay. The effort highlights how modern upscaling, art direction, and emulation can breathe new life into beloved 2000s games. For retro enthusiasts and streamers, it signals a growing niche of high-res nostalgia experiences.",
+      "summary_zh": "一个玩家自制项目将 SimCity 3000 重制为 4K，保留经典玩法的同时提升画质。此举展示了现代放大、美术风格更新与仿真技术如何为经典游戏注入新活力。对于怀旧玩家和主播而言，预示着高分辨率的复古体验日益兴起。",
+      "hn": {
+        "id": 48297645,
+        "type": "story",
+        "by": "speckx",
+        "score": 442,
+        "descendants": 174,
+        "time": 1779903389,
+        "comments_url": "https://news.ycombinator.com/item?id=48297645"
+      },
+      "tags": [
+        "Gaming"
+      ],
+      "hot_score": 1.39
+    },
+    {
+      "title_en": "What Apple and Google are doing to push notifications",
+      "url": "https://www.jacquescorbytuech.com/writing/what-apple-and-google-are-doing-your-push-notifications",
+      "title_zh": "苹果与谷歌正在如何改造你的推送通知",
+      "created_display": "Created: May 27, 2026 / 12:24 PT",
+      "image_url": "http://www.jacquescorbytuech.com/themes/jacques_2026/icons/og-default.png",
+      "summary_en": "Apple and Google are tightening push notification controls with new privacy safeguards and user-centric options. The changes include clearer opt-ins, quieter notification channels, and smarter delivery to reduce spam while preserving essential alerts. Developers will need to adapt to new policies and API limitations.",
+      "summary_zh": "苹果与谷歌在推送通知方面加强了隐私保护和用户导向的控制，推出更清晰的授权、分级通知和更智能的投递策略以减少骚扰。开发者将需要调整应用以适应新的政策和 API 限制，影响通知体验与广告生态。",
+      "hn": {
+        "id": 48299220,
+        "type": "story",
+        "by": "iamacyborg",
+        "score": 373,
+        "descendants": 363,
+        "time": 1779909850,
+        "comments_url": "https://news.ycombinator.com/item?id=48299220"
+      },
+      "tags": [
+        "Programming",
+        "Privacy"
+      ],
+      "hot_score": 1.34
+    },
+    {
+      "title_en": "I analysed 20 years of my chats",
+      "url": "https://drobinin.com/posts/am-i-a-bad-friend/",
+      "title_zh": "我分析了二十年的聊天记录",
+      "created_display": "Created: May 27, 2026 / 16:31 PT",
+      "image_url": "https://drobinin.com/assets/qs-emotional-register.png",
+      "summary_en": "A long-running look at 20 years of chats reveals patterns in closeness, miscommunication, and evolving friendship dynamics. The analysis raises questions about self-awareness and the privacy costs of preserving intimate digital records.",
+      "summary_zh": "通过二十年的聊天记录，作者揭示了亲密度、沟通误差与友谊关系随时间的演变模式。此分析也引发对自我认知偏差以及保留大量私人对话所带来隐私代价的思考。",
+      "hn": {
+        "id": 48302220,
+        "type": "story",
+        "by": "valzevul",
+        "score": 229,
+        "descendants": 122,
+        "time": 1779924673,
+        "comments_url": "https://news.ycombinator.com/item?id=48302220"
+      },
+      "tags": [
+        "Privacy",
+        "Data"
+      ],
+      "hot_score": 1.18
+    },
+    {
+      "title_en": "Private equity bought America's essential services",
+      "url": "https://rubbishtalk.com/economy/how-private-equity-bought-americas-essential-services/",
+      "title_zh": "私募股权买下美国的基础公共服务",
+      "created_display": "Created: May 27, 2026 / 05:00 PT",
+      "image_url": "https://rubbishtalk.com/wp-content/uploads/2026/04/Transparent-Logo-1.png",
+      "summary_en": "The piece argues that private equity has increasingly acquired essential public-facing services, raising concerns about debt loads, cost-cutting, and long-term resilience. It highlights potential risks to affordability and access while outlining the incentives at play in capital-heavy sectors.",
+      "summary_zh": "文章指出私募股权日益收购关键公共服务，带来债务压力、成本削减和长期韧性方面的担忧，可能影响可负担性与可及性，同时揭示资本密集型行业中的激励机制。",
+      "hn": {
+        "id": 48292941,
+        "type": "story",
+        "by": "NoRagrets",
+        "score": 524,
+        "descendants": 537,
+        "time": 1779883253,
+        "comments_url": "https://news.ycombinator.com/item?id=48292941"
+      },
+      "tags": [
+        "Business"
+      ],
+      "hot_score": 1.14
+    },
+    {
+      "title_en": "I'm Getting into Mesh Networks (Meshtastic, MeshCore, and Reticulum)",
+      "url": "https://www.jonaharagon.com/posts/im-getting-into-mesh-networks-meshtastic-meshcore-and-reticulum/",
+      "title_zh": "我开始接触网状网络（Meshtastic、MeshCore 与 Reticulum）",
+      "created_display": "Created: May 27, 2026 / 12:52 PT",
+      "image_url": "https://images.unsplash.com/photo-1590859808308-3d2d9c515b1a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDN8fG1lc2h8ZW58MHx8fHwxNzY5NDYwNTA5fDA&ixlib=rb-4.1.0&q=80&w=2000",
+      "summary_en": "The author shares first impressions exploring mesh networking platforms such as Meshtastic, MeshCore, and Reticulum, outlining potential use cases for resilient, off-grid communication.",
+      "summary_zh": "作者分享初步体验，探讨 Meshtastic、MeshCore 与 Reticulum 等网状网络平台的潜在应用，如离网环境下的鲁棒通信，同时指出不同技术栈的部署难点与取舍。",
+      "hn": {
+        "id": 48299638,
+        "type": "story",
+        "by": "Panda_",
+        "score": 291,
+        "descendants": 112,
+        "time": 1779911569,
+        "comments_url": "https://news.ycombinator.com/item?id=48299638"
+      },
+      "tags": [
+        "Hardware",
+        "Open Source"
+      ],
+      "hot_score": 1.09
+    },
+    {
+      "title_en": "Valve raises Steam Deck prices",
+      "url": "https://www.theverge.com/games/938340/valve-steam-deck-price-increase",
+      "title_zh": "Valve 上调 Steam Deck 价格",
+      "created_display": "Created: May 27, 2026 / 10:58 PT",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25070054/DSCF9155.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "summary_en": "Valve raises Steam Deck prices, potentially narrowing the device's edge against handheld rivals amid ongoing supply chain pressures. The price hike could slow adoption among budget-conscious gamers and affect the broader handheld PC market.",
+      "summary_zh": "Valve 提升 Steam Deck 价格，反映了硬件成本压力及市场定价策略对掌机竞争力的影响。价格上调可能拖慢对预算敏感玩家的吸引力，并对掌机 PC 市场格局产生连锁效应。",
+      "hn": {
+        "id": 48297976,
+        "type": "story",
+        "by": "droidjj",
+        "score": 265,
+        "descendants": 267,
+        "time": 1779904727,
+        "comments_url": "https://news.ycombinator.com/item?id=48297976"
+      },
+      "hot_score": 0.86,
+      "tags": [
+        "Gaming"
+      ]
+    },
+    {
+      "title_en": "Rust (and Slint) on a Jailbroken Kindle",
+      "url": "https://sverre.me/blog/rust-on-kindle/",
+      "title_zh": "在越狱 Kindle 上运行 Rust 与 Slint",
+      "created_display": "Created: May 27, 2026 / 12:51 PT",
+      "image_url": "https://sverre.me/processed_images/kindle_slint.4fe7d110ed3ed9bf.webp",
+      "summary_en": "A maker demonstrates running Rust and the Slint UI toolkit on a jailbroken Kindle, showing that modern language ecosystems can reach constrained devices. The experiment highlights how compact runtimes and cross-compilation enable interactive interfaces on e-readers.",
+      "summary_zh": "一位爱好者在越狱的 Kindle 上演示了 Rust 及 Slint 用户界面工具包的运行，证明紧凑的运行时和跨编译能够把现代语言生态带到受限设备。此类尝试凸显了在低功耗电子书阅读器上实现交互式界面的可行性。",
+      "hn": {
+        "id": 48299623,
+        "type": "story",
+        "by": "homarp",
+        "score": 211,
+        "descendants": 33,
+        "time": 1779911507,
+        "comments_url": "https://news.ycombinator.com/item?id=48299623"
+      },
+      "tags": [
+        "Programming"
+      ],
+      "hot_score": 0.79
+    },
+    {
+      "title_en": "All of human cooking compressed into 2 megabytes",
+      "url": "https://arxiv.org/abs/2605.22391",
+      "title_zh": "把人类烹饪知识压缩到 2MB",
+      "created_display": "Created: May 27, 2026 / 01:14 PT",
+      "image_url": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+      "summary_en": "A study presents a compact representation of cooking knowledge compressed into about 2 megabytes, enabling recipe generation with minimal data. The result probes the limits of knowledge compression and what it implies for domain-specific modeling.",
+      "summary_zh": "一项研究提出把烹饪知识压缩至约 2MB 的紧凑表征，仍能生成多样化的食谱。结果探讨了知识压缩的极限及其对领域特定模型的含义。",
+      "hn": {
+        "id": 48291225,
+        "type": "story",
+        "by": "josefchen",
+        "score": 425,
+        "descendants": 166,
+        "time": 1779869680,
+        "comments_url": "https://news.ycombinator.com/item?id=48291225"
+      },
+      "tags": [
+        "Science"
+      ],
+      "hot_score": 0.75
+    },
+    {
+      "title_en": "Incident with Pull Requests, Issues, Git Operations and API Requests",
+      "url": "https://www.githubstatus.com/incidents/xy1tt3hs572m",
+      "title_zh": "关于拉取请求、问题、Git 操作及 API 请求的故障事件",
+      "created_display": "Created: May 27, 2026 / 05:15 PT",
+      "image_url": "https://dka575ofm4ao0.cloudfront.net/pages-twitter_logos/original/36420/GitHub-Mark-120px-plus.png",
+      "summary_en": "An incident disrupted pull requests, issues, Git operations, and API requests, affecting collaboration and automation workflows. The incident underscores the importance of platform reliability and clear incident communication.",
+      "summary_zh": "一次故障中断了拉取请求、问题追踪、Git 操作和 API 请求，影响协作与自动化工作流。事件凸显平台可靠性与清晰事件沟通的重要性。",
+      "hn": {
+        "id": 48293080,
+        "type": "story",
+        "by": "maxnoe",
+        "score": 327,
+        "descendants": 205,
+        "time": 1779884114,
+        "comments_url": "https://news.ycombinator.com/item?id=48293080"
+      },
+      "tags": [
+        "DevOps",
+        "Programming"
+      ],
+      "hot_score": 0.72
+    },
+    {
+      "title_en": "I found a second vote.gov – and it's registered to the White House",
+      "url": "https://thedreydossier.substack.com/p/i-found-a-second-votegov-and-its",
+      "title_zh": "我发现第二个 vote.gov——登记在白宫名下",
+      "created_display": "Created: May 27, 2026 / 11:47 PT",
+      "image_url": null,
+      "summary_en": "A second vote.gov domain registered to the White House has surfaced, raising questions about domain management and official provenance. The finding underscores the importance of verifiable authority for government online services.",
+      "summary_zh": "发现存在一个第二个 vote.gov 域名，登记在白宫名下，引发关于域名管理与官方来源认证的讨论。这提醒人们对官方在线入口的权威性与可信度需要可验证的证据。",
+      "hn": {
+        "id": 48298665,
+        "type": "story",
+        "by": "philips",
+        "score": 210,
+        "descendants": 14,
+        "time": 1779907637,
+        "comments_url": "https://news.ycombinator.com/item?id=48298665"
+      },
+      "hot_score": 0.72,
+      "tags": [
+        "Politics",
+        "Security"
+      ]
+    },
+    {
+      "title_en": "The worst job interview I ever had",
+      "url": "https://www.oliverio.dev/blog/the-worst-job-interview-i-had",
+      "title_zh": "我经历过的最糟糕的面试",
+      "created_display": "Created: May 26, 2026 / 13:11 PT",
+      "image_url": "https://oliverio.dev/og?title=The%20worst%20job%20interview%20I%20ever%20had",
+      "summary_en": "The narrator recounts a disastrously misaligned interview that left them frustrated and questioning the company’s process. The episode offers practical takeaways about screening for respect and preparedness, asking clarifying questions, and evaluating whether interviewers are set up to assess fit, not just test nerves.",
+      "summary_zh": "叙述者讲述了一次极为失配的面试经历，过程让人感到沮丧并对公司的招聘流程产生质疑。此事为读者提供了筛选面试质量的要点：看是否对方尊重、是否准备充分、是否愿意澄清问题，以及面试官是否真正想评估匹配度，而非单纯考验应试者。",
+      "hn": {
+        "id": 48285344,
+        "type": "story",
+        "by": "oliverio",
+        "score": 636,
+        "descendants": 529,
+        "time": 1779826309,
+        "comments_url": "https://news.ycombinator.com/item?id=48285344"
+      },
+      "tags": [
+        "Career"
+      ],
+      "hot_score": 0.65
+    },
+    {
+      "title_en": "Claude Code as a Daily Driver: Claude.md, Skills, Subagents, Plugins, and MCPs",
+      "url": "https://arps18.github.io/posts/claude-code-mastery/",
+      "title_zh": "把 Claude Code 作为日常开发驱动：Claude.md、技能、子代理、插件与 MCP",
+      "created_display": "Created: May 26, 2026 / 22:13 PT",
+      "image_url": "https://arps18.github.io/images/profile.png",
+      "summary_en": "Demonstrates using Claude Code as a daily coding assistant, detailing practical setup with Claude.md, skills, subagents, plugins, and MCPs to boost productivity and automation in software development.",
+      "summary_zh": "展示将 Claude Code 作为日常开发助手的用法，涵盖 Claude.md、技能、子代理、插件与 MCP 的实用设置，提升开发生产力与自动化能力。",
+      "hn": {
+        "id": 48289950,
+        "type": "story",
+        "by": "arps18",
+        "score": 415,
+        "descendants": 246,
+        "time": 1779858819,
+        "comments_url": "https://news.ycombinator.com/item?id=48289950"
+      },
+      "tags": [
+        "AI"
+      ],
+      "hot_score": 0.63
+    },
+    {
+      "title_en": "Big tech's anti-labor playbook has come for Wikipedia",
+      "url": "https://medium.com/@jakeorlowitz/wikipedia-is-doing-the-capitalist-thing-56a393232943",
+      "title_zh": "大型科技公司的反劳工手法也延伸至维基百科",
+      "created_display": "Created: May 26, 2026 / 13:33 PT",
+      "image_url": "https://miro.medium.com/v2/da:true/resize:fit:1200/0*dm2uAvSvh0Wd62kX",
+      "summary_en": "A critical piece argues that the anti-labor playbook favored by big tech has infiltrated Wikipedia, shaping editor dynamics, governance, and content moderation. The piece warns that corporate pressure and labor suppression tactics threaten Wikipedia’s open, collaborative model and could impact information quality and editor rights.",
+      "summary_zh": "文章批评大型科技公司用来压制劳工的手法已渗透到维基百科，影响编辑社区的治理与内容管理。警示称企业压力与压制劳动的策略可能侵蚀维基百科的开放协作模式，进而影响信息质量与编辑者权益。",
+      "hn": {
+        "id": 48285592,
+        "type": "story",
+        "by": "cdrnsf",
+        "score": 561,
+        "descendants": 339,
+        "time": 1779827604,
+        "comments_url": "https://news.ycombinator.com/item?id=48285592"
+      },
+      "tags": [
+        "Politics",
+        "Business"
+      ],
+      "hot_score": 0.58
+    },
+    {
+      "title_en": "Training our own AI models",
+      "url": "https://posthog.com/blog/training-ai-models",
+      "title_zh": "训练我们自己的 AI 模型",
+      "created_display": "Created: May 27, 2026 / 09:08 PT",
+      "image_url": "https://d36j3rcgc2qfsv.cloudfront.net/blogtraining-ai-models.jpeg",
+      "summary_en": "PostHog argues for training our own AI models, outlining advantages like data control, privacy, and customization plus the risks of vendor lock-in. It maps a practical path from data collection to model selection, evaluation, and governance, along with cost considerations.",
+      "summary_zh": "PostHog 讨论在本地或自有环境训练自家 AI 模型的可行性，强调数据控制、隐私保护、定制能力与避免供应商锁定等优点。文中给出从数据准备、模型选型到评估与治理的实用路径，并分析成本与取舍。",
+      "hn": {
+        "id": 48296359,
+        "type": "story",
+        "by": "tartieret",
+        "score": 206,
+        "descendants": 141,
+        "time": 1779898122,
+        "comments_url": "https://news.ycombinator.com/item?id=48296359"
+      },
+      "hot_score": 0.58,
+      "tags": [
+        "AI",
+        "Data",
+        "Privacy"
+      ]
+    },
+    {
+      "title_en": "Go: Support for Generic Methods",
+      "url": "https://github.com/golang/go/issues/77273",
+      "title_zh": "Go：支持泛型方法",
+      "created_display": "Created: May 27, 2026 / 02:02 PT",
+      "image_url": "https://opengraph.githubassets.com/f3d020d857e4ab6d4c5428fe04e37ea390f7c35b07a40271143d068ad7c2ad93/golang/go/issues/77273",
+      "summary_en": "Go adds support for generics and generic methods, enabling more reusable code and type-safe abstractions. This marks a major evolution for the language, improving ergonomics for library authors and API designers. Expect broader adoption in real-world projects as patterns become clearer.",
+      "summary_zh": "Go 新增对泛型及泛型方法的支持，提升代码重用性与类型安全的抽象能力。这是语言发展中的一次重要演进，将提升库作者与 API 设计者的工作效率，随着使用模式逐步明朗，预计在实际项目中的应用将更广泛。",
+      "hn": {
+        "id": 48291575,
+        "type": "story",
+        "by": "f311a",
+        "score": 283,
+        "descendants": 236,
+        "time": 1779872579,
+        "comments_url": "https://news.ycombinator.com/item?id=48291575"
+      },
+      "tags": [
+        "Programming"
+      ],
+      "hot_score": 0.52
+    },
+    {
+      "title_en": "Mini Micro Fantasy Computer",
+      "url": "https://miniscript.org/MiniMicro/index.html#about",
+      "title_zh": "迷你微型幻想计算机",
+      "created_display": "Created: May 27, 2026 / 02:56 PT",
+      "image_url": null,
+      "summary_en": "Mini Micro Fantasy Computer showcases a tiny, approachable computer design that still supports expressive programming and exploration of architecture concepts. It serves as a playful, educational platform for hobbyists.",
+      "summary_zh": "迷你微型幻想计算机展示了一个极小巧却富于表达的计算机设计，便于学习架构概念并进行程序探索，面向爱好者的教育性平台。",
+      "hn": {
+        "id": 48291947,
+        "type": "story",
+        "by": "nicoloren",
+        "score": 270,
+        "descendants": 84,
+        "time": 1779875762,
+        "comments_url": "https://news.ycombinator.com/item?id=48291947"
+      },
+      "tags": [
+        "Hardware",
+        "Education"
+      ],
+      "hot_score": 0.52
+    },
+    {
+      "title_en": "Stress disrupts hippocampal integration of overlapping events, memory inference",
+      "url": "https://www.science.org/doi/10.1126/sciadv.aea5496?user_id=66c4bf745d78644b3aa57b08",
+      "title_zh": "压力与记忆：海马体在重叠事件中的整合受干扰",
+      "created_display": "Created: May 27, 2026 / 09:26 PT",
+      "image_url": null,
+      "summary_en": "New study shows that stress disrupts the hippocampus integrates overlapping events, impairing memory inference. The findings illuminate neural pathways behind stress-related memory changes and could inform treatments for anxiety-related cognitive effects.",
+      "summary_zh": "研究发现，压力会扰乱海马体对重叠事件的整合，削弱推断性记忆。结果揭示了压力对记忆的神经机制，或有助于理解焦虑相关的认知影响与治疗方向。",
+      "hn": {
+        "id": 48296622,
+        "type": "story",
+        "by": "gmays",
+        "score": 160,
+        "descendants": 23,
+        "time": 1779899191,
+        "comments_url": "https://news.ycombinator.com/item?id=48296622"
+      },
+      "tags": [
+        "Science"
+      ],
+      "hot_score": 0.46
+    },
+    {
+      "title_en": "That Methyl Methacrylate Tank",
+      "url": "https://www.science.org/content/blog-post/methyl-methacrylate-tank",
+      "title_zh": "那個甲基丙烯酸甲酯罐",
+      "created_display": "Created: May 26, 2026 / 12:25 PT",
+      "image_url": null,
+      "summary_en": "Delves into a methyl methacrylate storage tank story, highlighting safety, material behavior, and lessons for industrial design. The piece links a single facility incident to broader concerns about risk management in chemical storage.",
+      "summary_zh": "讲述甲基丙烯酸甲酯储罐相关的故事，强调安全、材料行为和工业设计中的教训。文章把个别事件与化学储存中的风险管理问题联系起来，提出更广泛的安全实践。",
+      "hn": {
+        "id": 48284712,
+        "type": "story",
+        "by": "nooks",
+        "score": 430,
+        "descendants": 189,
+        "time": 1779823516,
+        "comments_url": "https://news.ycombinator.com/item?id=48284712"
+      },
+      "tags": [
+        "Science"
+      ],
+      "hot_score": 0.42
+    },
+    {
+      "title_en": "Gemini, Gophers, and Fingers. Oh My Alternative Internets Beyond HTTPS",
+      "url": "https://brennan.day/gemini-gophers-and-fingers-oh-my-alternative-internets-beyond-https/",
+      "title_zh": "Gemini、Gophers 与 Fingers：超越 HTTPS 的替代互联网",
+      "created_display": "Created: May 27, 2026 / 10:24 PT",
+      "image_url": "https://brennan.day/assets/images/blog/gemini.jpg",
+      "summary_en": "Examines Gemini, Gophers, and Fingers as alternative internet protocols, arguing they offer lightweight, privacy-respecting access to information beyond HTTPS, while noting practical limits and adoption barriers.",
+      "summary_zh": "评析 Gemini、Gophers 与 Fingers 等替代互联网协议，认为它们在超越 HTTPS 的同时提供轻量化、更注重隐私的内容访问，但也存在实际采用的局限性。",
+      "hn": {
+        "id": 48297467,
+        "type": "story",
+        "by": "ChrisArchitect",
+        "score": 134,
+        "descendants": 71,
+        "time": 1779902665,
+        "comments_url": "https://news.ycombinator.com/item?id=48297467"
+      },
+      "tags": [
+        "Web",
+        "AI",
+        "Privacy"
+      ],
+      "hot_score": 0.41
+    },
+    {
+      "title_en": "Cloudflare Flagship",
+      "url": "https://developers.cloudflare.com/flagship/",
+      "title_zh": "Cloudflare Flagship 平台",
+      "created_display": "Created: May 26, 2026 / 16:36 PT",
+      "image_url": "https://developers.cloudflare.com/dev-products-preview.png",
+      "summary_en": "Cloudflare flags Flagship as a platform for running experiments, feature flagging, and telemetry across Cloudflare products. It aims to streamline experimentation at scale with measurable outcomes and safer rollouts.",
+      "summary_zh": "Cloudflare 推出 Flagship 平台，用于对 Cloudflare 产品进行实验、功能开关及遥测分析。该平台旨在让开发者以可控、可量化的方式进行大规模试验并更安全地逐步上线新功能。",
+      "hn": {
+        "id": 48287468,
+        "type": "story",
+        "by": "tjek",
+        "score": 345,
+        "descendants": 172,
+        "time": 1779838566,
+        "comments_url": "https://news.ycombinator.com/item?id=48287468"
+      },
+      "tags": [
+        "DevOps"
+      ],
+      "hot_score": 0.4
+    },
+    {
+      "title_en": "Stripe is friendly to “friendly fraud”",
+      "url": "https://www.gingerlime.com/2026/stripe-seem-friendly-to-friendly-fraud/",
+      "title_zh": "Stripe 对所谓的“友好欺诈”态度更显宽容",
+      "created_display": "Created: May 26, 2026 / 17:40 PT",
+      "image_url": "https://www.gingerlime.com/assets/CleanShot-2026-05-18-at-10.32.00.png",
+      "summary_en": "Stripe has earned a reputation for being forgiving toward 'friendly fraud' claims, which can let customers dispute charges even when services were delivered.",
+      "summary_zh": "这篇文章讨论 Stripe 在所谓的“友好欺诈”情形上的宽容态度，以及对商家可能造成的风险与成本。作者分析了风险策略的权衡，以及对商家收入和信任生态的潜在影响。",
+      "hn": {
+        "id": 48287982,
+        "type": "story",
+        "by": "gingerlime",
+        "score": 314,
+        "descendants": 226,
+        "time": 1779842405,
+        "comments_url": "https://news.ycombinator.com/item?id=48287982"
+      },
+      "tags": [
+        "Finance"
+      ],
+      "hot_score": 0.38
+    },
+    {
+      "title_en": "Corporations can vote in some Delaware elections, judge says",
+      "url": "https://news.bloomberglaw.com/esg/corporations-have-the-right-to-vote-in-delaware-town-judge-says",
+      "title_zh": "德拉瓦州某些选举允许公司投票，法官称允许",
+      "created_display": "Created: May 27, 2026 / 08:05 PT",
+      "image_url": "https://bwrite-static.bloombergindustry.com/dims4/default/d89d914/2147483647/strip/false/crop/4493x1732+4+368/resize/960x370!/quality/90/?url=https%3A%2F%2Fbloomberg-bna-brightspot.s3.us-east-1.amazonaws.com%2Fb3%2Ffb%2Fa76516c34817911d35dc3928fc3b%2F327960868.jpg",
+      "summary_en": "A Delaware court has allowed corporations to vote in some local elections, a ruling that could reshape corporate political engagement. The decision prompts questions about corporate personhood and the boundary between business interests and community policy.",
+      "summary_zh": "法院裁定在部分 Delaware 地方选举中，企业有投票权，这一判决可能改变企业在地方政治中的参与方式与影响力。也提出关于公司人格、治理权与商业利益与社区政策边界的讨论。",
+      "hn": {
+        "id": 48295460,
+        "type": "story",
+        "by": "marcher",
+        "score": 146,
+        "descendants": 216,
+        "time": 1779894316,
+        "comments_url": "https://news.ycombinator.com/item?id=48295460"
+      },
+      "hot_score": 0.38,
+      "tags": [
+        "Politics",
+        "Business",
+        "Legal"
+      ]
+    },
+    {
+      "title_en": "The real cost of owning a home",
+      "url": "https://ericturner.dev/posts/cost-of-home-ownership/",
+      "title_zh": "拥有房产的真实成本",
+      "created_display": "Created: May 26, 2026 / 09:04 PT",
+      "image_url": "https://ericturner.dev/images/clippy_400x400.jpg",
+      "summary_en": "Owning a home entails more than mortgage payments; taxes, maintenance, insurance, and opportunity costs all factor in. The analysis breaks down these hidden costs and shows how they vary across markets, helping readers gauge the true affordability and mobility implications for tech workers.",
+      "summary_zh": "购房成本不仅仅是按揭，还包括税费、维护、保险以及机会成本等因素。文章分解了这些隐性成本，并展示了在不同市场的差异，帮助科技工作者评估真实负担与流动性影响。",
+      "hn": {
+        "id": 48281611,
+        "type": "story",
+        "by": "ggcr",
+        "score": 425,
+        "descendants": 850,
+        "time": 1779811479,
+        "comments_url": "https://news.ycombinator.com/item?id=48281611"
+      },
+      "tags": [
+        "Finance"
+      ],
+      "hot_score": 0.37
+    },
+    {
+      "title_en": "Lombardy increases charges for the construction of data centres in green areas",
+      "url": "https://en.ilsole24ore.com/art/lombardy-introduces-increased-charges-of-up-to-200-per-cent-for-data-centre-construction-in-green-and-agricultural-areas-AI6Jp4ID",
+      "title_zh": "伦巴第提高在绿色区域建设数据中心的收费",
+      "created_display": "Created: May 27, 2026 / 06:52 PT",
+      "image_url": "https://i2.res.24o.it/images2010/S24/Documenti/2026/05/27/Immagini/Ritagli/cosa-e-data-center-1-U82640581840Ilm-1440x752@IlSole24Ore-Web.jpg?r=1170x507",
+      "summary_en": "Lombardy increases charges for constructing data centers in green or agricultural zones by up to 200%, in an effort to curb environmental impact. The policy alters data center economics and site selection, with potential spillovers for regional investment.",
+      "summary_zh": "伦巴第地区提高在绿色或农业用地建设数据中心的费用，最高可达200%，以控制环境影响。此举将影响数据中心的经济性与选址决策，并可能影响区域投资。",
+      "hn": {
+        "id": 48294401,
+        "type": "story",
+        "by": "napolux",
+        "score": 139,
+        "descendants": 195,
+        "time": 1779889968,
+        "comments_url": "https://news.ycombinator.com/item?id=48294401"
+      },
+      "hot_score": 0.34,
+      "tags": [
+        "Business",
+        "Energy"
+      ]
+    },
+    {
+      "title_en": "Erin Brockovich made a map to track data centers around the country",
+      "url": "https://www.niemanlab.org/2026/05/erin-brockovich-made-a-map-to-track-data-centers-around-the-country/",
+      "title_zh": "艾琳·布罗克维奇绘制的数据中心分布地图",
+      "created_display": "Created: May 26, 2026 / 17:36 PT",
+      "image_url": "https://www.niemanlab.org/wordpress/wp-content/themes/Labby/resources/twitter-logo-for-nieman-lab.jpg",
+      "summary_en": "Erin Brockovich creates a nationwide map to track data centers, highlighting energy use and environmental implications of the data economy. The map serves as a tool for journalists and policymakers to scrutinize infrastructure footprints.",
+      "summary_zh": "艾琳·布罗克维奇绘制了一张覆盖全美的数据中心分布地图，瞄准揭示能源消耗与数据经济的环境影响。地图成为记者与政策制定者审视基础设施足迹的工具。",
+      "hn": {
+        "id": 48287952,
+        "type": "story",
+        "by": "cratermoon",
+        "score": 271,
+        "descendants": 306,
+        "time": 1779842163,
+        "comments_url": "https://news.ycombinator.com/item?id=48287952"
+      },
+      "tags": [
+        "Energy",
+        "Science",
+        "DevOps"
+      ],
+      "hot_score": 0.33
+    },
+    {
+      "title_en": "The Melancholy of Slaying Monsters",
+      "url": "https://thereader.mitpress.mit.edu/the-strange-melancholy-of-slaying-monsters/",
+      "title_zh": "屠怪之忧郁",
+      "created_display": "Created: May 26, 2026 / 12:25 PT",
+      "image_url": null,
+      "summary_en": "Explores the emotional texture of monster-slaying narratives and why victory can feel melancholic rather than purely triumphant. It argues that the act of defeating monsters often leaves players with a sense of responsibility, fatigue, or moral ambiguity, shaping how designers tell stories and design systems.",
+      "summary_zh": "探索怪物屠杀叙事背后的情感纹理，阐释为何胜利有时会带来哀愁而非纯粹的胜利感。作者认为击败怪物的过程常伴随责任感、疲惫感或道德模糊，这也影响设计者如何讲述故事与构建系统。",
+      "hn": {
+        "id": 48284711,
+        "type": "story",
+        "by": "prismatic",
+        "score": 287,
+        "descendants": 140,
+        "time": 1779823513,
+        "comments_url": "https://news.ycombinator.com/item?id=48284711"
+      },
+      "tags": [
+        "Entertainment"
+      ],
+      "hot_score": 0.28
+    },
+    {
+      "title_en": "Where does next-token prediction leave us?",
+      "url": "https://pop.rdi.sh/where-does-next-token-prediction-leave-us/",
+      "title_zh": "下一次标记预测能把我们带到何处？",
+      "created_display": "Created: May 26, 2026 / 18:10 PT",
+      "image_url": null,
+      "summary_en": "The piece argues that while next-token prediction has driven impressive gains, it still lacks robust reasoning, grounding, and safe control. It points toward evaluating alignment and exploring hybrid approaches beyond pure autoregression.",
+      "summary_zh": "文章认为单纯的下一个标记预测已取得显著进展，但在推理、语义落地与安全控制方面仍有短板，指向对齐评估与超越纯自回归的混合方法研究。",
+      "hn": {
+        "id": 48288191,
+        "type": "story",
+        "by": "0x5FC3",
+        "score": 209,
+        "descendants": 207,
+        "time": 1779844244,
+        "comments_url": "https://news.ycombinator.com/item?id=48288191"
+      },
+      "tags": [
+        "AI"
+      ],
+      "hot_score": 0.26
+    },
+    {
+      "title_en": "Uber, Lyft drivers in Massachusetts form first US ride-share union",
+      "url": "https://www.reuters.com/business/world-at-work/uber-lyft-drivers-massachusetts-form-first-us-ride-share-union-2026-05-26/",
+      "title_zh": "马萨诸塞州的 Uber/Lyft 司机组建美国首个网约车工会",
+      "created_display": "Created: May 26, 2026 / 08:58 PT",
+      "image_url": null,
+      "summary_en": "Massachusetts drivers for Uber and Lyft formed the first ride-share workers' union in the United States, signaling a potential shift in gig-economy labor dynamics. The move could influence future negotiations on pay, benefits, and working conditions across similar platforms.",
+      "summary_zh": "马萨诸塞州的 Uber/ Lyft 司机组建美国首个网约车工会，标志着零工经济劳动格局可能出现转变。这一举动或将影响未来在薪酬、福利与工作条件方面的集体谈判。",
+      "hn": {
+        "id": 48281509,
+        "type": "story",
+        "by": "onemoresoop",
+        "score": 293,
+        "descendants": 204,
+        "time": 1779811082,
+        "comments_url": "https://news.ycombinator.com/item?id=48281509"
+      },
+      "tags": [
+        "Politics",
+        "Business"
+      ],
+      "hot_score": 0.25
+    },
+    {
+      "title_en": "The just-say-no engineer was a ZIRP phenomenon",
+      "url": "https://www.seangoedecke.com/the-just-say-no-engineer-was-a-zirp-phenomenon/",
+      "title_zh": "“说不干”的工程师是 ZIRP 时期的产物",
+      "created_display": "Created: May 26, 2026 / 20:56 PT",
+      "image_url": "https://www.seangoedecke.com/og-image.jpg",
+      "summary_en": "The piece argues that the 'just-say-no engineer' persona emerged under macro conditions associated with ZIRP, where funding and incentives shaped risk tolerance in engineering culture. It examines how financial environments influence technical decision-making.",
+      "summary_zh": "文章认为“说不干”的工程师形象是在与 ZIRP 相关的宏观环境下成长起来的，资金与激励影响了工程文化中的风险偏好，并讨论了金融环境如何影响技术决策。",
+      "hn": {
+        "id": 48289439,
+        "type": "story",
+        "by": "jxmorris12",
+        "score": 158,
+        "descendants": 131,
+        "time": 1779854202,
+        "comments_url": "https://news.ycombinator.com/item?id=48289439"
+      },
+      "tags": [
+        "Business"
+      ],
+      "hot_score": 0.22
+    },
+    {
+      "title_en": "Is \"colorectal cancer\" rising in \"young people\"?",
+      "url": "https://dynomight.net/crc-rates/",
+      "title_zh": "结直肠癌在年轻人中是否上升？",
+      "created_display": "Created: May 26, 2026 / 09:00 PT",
+      "image_url": "https://dynomight.net/img/crc-rates/little_girl_in_a_blue_armchair.jpg",
+      "summary_en": "Data suggests rising colorectal cancer incidence among younger adults, prompting re-evaluation of screening age and risk awareness.",
+      "summary_zh": "结直肠癌在年轻成人中的发病率上升，促使重新评估筛查年龄与风险意识。文章探讨可能的原因，如饮食、肥胖与诊断延迟，以及对医疗优先级的影响。",
+      "hn": {
+        "id": 48281539,
+        "type": "story",
+        "by": "surprisetalk",
+        "score": 214,
+        "descendants": 234,
+        "time": 1779811221,
+        "comments_url": "https://news.ycombinator.com/item?id=48281539"
+      },
+      "tags": [
+        "Health"
+      ],
+      "hot_score": 0.19
+    },
+    {
+      "title_en": "A sleep-like consolidation mechanism for LLMs",
+      "url": "https://arxiv.org/abs/2605.26099",
+      "title_zh": "面向大语言模型的睡眠式巩固机制",
+      "created_display": "Created: May 26, 2026 / 08:36 PT",
+      "image_url": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+      "summary_en": "Researchers propose a sleep-like consolidation mechanism for LLMs to stabilize learning and reduce forgetting through offline replay. This could improve continual learning and efficiency for long-lived models.",
+      "summary_zh": "研究者提出一种类似睡眠的巩固机制，通过离线回放帮助大语言模型稳定学习、减少遗忘，可能提升长期学习能力与训练效率。",
+      "hn": {
+        "id": 48281226,
+        "type": "story",
+        "by": "juxtapose",
+        "score": 210,
+        "descendants": 139,
+        "time": 1779809784,
+        "comments_url": "https://news.ycombinator.com/item?id=48281226"
+      },
+      "tags": [
+        "AI"
+      ],
+      "hot_score": 0.18
+    },
+    {
+      "title_en": "Stop Advertising in Your Commits",
+      "url": "https://akselmo.dev/posts/stop-advertising-in-your-commits/",
+      "title_zh": "不要在提交中打广告",
+      "created_display": "Created: May 26, 2026 / 11:37 PT",
+      "image_url": "https://akselmo.dev/assets/images/oc/fefairy_avatar_small.png",
+      "summary_en": "Advocates keeping commits clean of promotional content, stressing reproducibility and auditability. The post suggests practical practices like lean commit messages, separating marketing from code changes, and keeping promos out of the history.",
+      "summary_zh": "强调提交记录应干净，不夹带广告内容，关注可重复性与审计性。给出实践建议，如使用简洁的提交信息、将营销内容与代码改动分离、避免在历史中出现推广信息。",
+      "hn": {
+        "id": 48283914,
+        "type": "story",
+        "by": "speckx",
+        "score": 190,
+        "descendants": 164,
+        "time": 1779820627,
+        "comments_url": "https://news.ycombinator.com/item?id=48283914"
+      },
+      "tags": [
+        "Programming"
+      ],
+      "hot_score": 0.18
+    },
+    {
+      "title_en": "Stack Overflow’s forum is dead but the company’s still kicking",
+      "url": "https://sherwood.news/tech/stack-overflow-forum-dead-thanks-ai-but-companys-still-kicking-ai/",
+      "title_zh": "Stack Overflow 的论坛已死，但公司仍在成长",
+      "created_display": "Created: May 26, 2026 / 10:17 PT",
+      "image_url": "https://sherwoodnews.imgix.net/mwphzyq69oso/en-US/assets/files/2246844487_in-this-photo-illustration-the-stack-overflow-logo-is-seen-displayed-on-a-smartphone-screen.jpg?auto=compress%2Cformat&cs=srgb",
+      "summary_en": "Public forum activity on Stack Overflow has waned, partly due to AI copilots, yet the company continues to evolve with enterprise offerings and platform expansions.",
+      "summary_zh": "Stack Overflow 的公开论坛活跃度下降，部分原因是 AI 助手的兴起，但公司仍在通过企业产品与平台扩展发展。文章探讨社区文化与商业化/AI 集成之间的张力。",
+      "hn": {
+        "id": 48282709,
+        "type": "story",
+        "by": "geerlingguy",
+        "score": 186,
+        "descendants": 252,
+        "time": 1779815832,
+        "comments_url": "https://news.ycombinator.com/item?id=48282709"
+      },
+      "tags": [
+        "Business",
+        "AI"
+      ],
+      "hot_score": 0.17
+    },
+    {
+      "title_en": "What color is your function? (2015)",
+      "url": "https://journal.stuffwithstuff.com/2015/02/01/what-color-is-your-function/",
+      "title_zh": "你的函数是什么颜色？（2015）",
+      "created_display": "Created: May 26, 2026 / 08:58 PT",
+      "image_url": "https://journal.stuffwithstuff.com/image/dogshot_square.jpg",
+      "summary_en": "What color is your function? uses a playful color metaphor to categorize functions by effects and purity, encouraging readers to think about side effects, referential transparency, and how language design shapes code reasoning.",
+      "summary_zh": "这篇文章用有趣的颜色隐喻来划分函数的副作用与纯净性，鼓励开发者在语言设计与代码可读性之间做权衡。它促使读者思考语言特性如何影响程序的推理难度与可维护性。",
+      "hn": {
+        "id": 48281515,
+        "type": "story",
+        "by": "tosh",
+        "score": 137,
+        "descendants": 187,
+        "time": 1779811112,
+        "comments_url": "https://news.ycombinator.com/item?id=48281515"
+      },
+      "hot_score": 0.12,
+      "tags": [
+        "Programming"
+      ]
+    }
+  ]
+}

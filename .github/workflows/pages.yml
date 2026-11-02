@@ -1,0 +1,64 @@
+name: Build and Deploy Pages
+
+on:
+  workflow_dispatch:
+    inputs:
+      publish:
+        description: "Publish and take over the production Pages URL"
+        required: true
+        default: false
+        type: boolean
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Setup Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          bundler-cache: true
+      - name: Build Jekyll source
+        run: bundle exec jekyll build
+      - name: Assemble project-site artifact
+        run: |
+          set -euxo pipefail
+          mkdir -p _pages/assets
+          cp -R _site/hackernews/. _pages/
+          cp -R _site/assets/hn _pages/assets/
+          test -f _pages/index.html
+          test -f _pages/assets/hn/hn.css
+          test -f _pages/assets/hn/hn.js
+      - name: Upload build for inspection
+        uses: actions/upload-artifact@v4
+        with:
+          name: hackernews-pages-preview
+          path: _pages
+          retention-days: 7
+      - name: Upload Pages artifact
+        if: ${{ inputs.publish }}
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: _pages
+
+  deploy:
+    if: ${{ inputs.publish }}
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

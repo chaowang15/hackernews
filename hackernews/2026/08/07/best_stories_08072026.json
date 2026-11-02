@@ -1,0 +1,1177 @@
+{
+  "meta": {
+    "mode": "best",
+    "source": "https://news.ycombinator.com/",
+    "api": "https://github.com/HackerNews/API",
+    "count_requested": 50,
+    "count_written": 50,
+    "reused_same_day": 0,
+    "reused_cross_day": 18,
+    "new_llm_enriched": 14,
+    "scrape_time_display": "05:54, August 08, 2026 (PDT)",
+    "timezone": "America/Los_Angeles",
+    "date_dir": "2026/08/07",
+    "content_date": "2026-08-07",
+    "run_time_local": "05:54, August 08, 2026 (PDT)",
+    "run_time_utc": "2026-08-08 12:54:13 UTC",
+    "incremental": true,
+    "stories_max": 50,
+    "hot_score_time_utc": "2026-08-08 12:55:16 UTC"
+  },
+  "items": [
+    {
+      "title_en": "Hardware backdoors in some x86 CPUs",
+      "url": "https://github.com/xoreaxeaxeax/rosenbridge",
+      "title_zh": "某些 x86 CPU 可能存在硬件后门",
+      "created_display": "Created: Aug 08, 2026 / 00:04 PT",
+      "image_url": "https://opengraph.githubassets.com/43826bf9cc71979cf6a25681411cb4df54b4b13e32faed4ed166302441c1f1bb/xoreaxeaxeax/rosenbridge",
+      "summary_en": "A Rosenbridge project points to potential hardware backdoors in certain x86 CPUs, illustrating how microarchitectural features could be misused. The finding underscores supply-chain security risks and the importance of firmware and chipset transparency.",
+      "summary_zh": "Rosenbridge 项目指出某些 x86 CPU 可能存在硬件后门，说明微架构层面的特征可能被滥用。此发现强调了供应链安全风险，以及固件与芯片组透明度的重要性。",
+      "hn": {
+        "id": 49219508,
+        "type": "story",
+        "by": "epestr",
+        "score": 172,
+        "descendants": 54,
+        "time": 1786172691,
+        "comments_url": "https://news.ycombinator.com/item?id=49219508"
+      },
+      "hot_score": 4.2,
+      "tags": [
+        "Hardware",
+        "Security"
+      ]
+    },
+    {
+      "title_en": "The Nixpkgs core team has disbanded",
+      "url": "https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413",
+      "title_zh": "Nixpkgs 核心团队解散",
+      "created_display": "Created: Aug 07, 2026 / 18:12 PT",
+      "image_url": "https://discourse.nixos.org/uploads/default/original/3X/a/5/a5e0d7873e3d34aecf874c577c91a1c06490f436.svg",
+      "summary_en": "The Nixpkgs core team has disbanded, marking a rare governance shift for the NixOS packaging ecosystem. The move signals a transition toward a more community-driven maintenance model, with potential changes in how contributions are reviewed and released. For users, this could mean slower patches in the short term but more distributed leadership in the long run.",
+      "summary_zh": "Nixpkgs 核心团队解散，预示 NixOS 软件包生态的治理将转向更依赖社区的模式。短期内可能影响修复速度，但长期将出现更分散的维护权力与新治理路径。",
+      "hn": {
+        "id": 49217993,
+        "type": "story",
+        "by": "Meleagris",
+        "score": 323,
+        "descendants": 159,
+        "time": 1786151565,
+        "comments_url": "https://news.ycombinator.com/item?id=49217993"
+      },
+      "tags": [
+        "Open Source"
+      ],
+      "hot_score": 2.89
+    },
+    {
+      "title_en": "DeepSeek V4 Flash 0731",
+      "url": "https://arcprize.org/results/deepseek-v4-flash-0731",
+      "title_zh": "DeepSeek V4 Flash 0731 发布",
+      "created_display": "Created: Aug 07, 2026 / 10:56 PT",
+      "image_url": "https://arcprize.org/results/deepseek-v4-flash-0731/opengraph-image?7e3c06b0774752c2",
+      "summary_en": "A new release of DeepSeek V4 Flash 0731 has been published, likely adding features or fixes to the toolset.",
+      "summary_zh": "DeepSeek V4 Flash 0731 的新版本发布，预计包含新功能或修复。",
+      "hn": {
+        "id": 49214008,
+        "type": "story",
+        "by": "tosh",
+        "score": 672,
+        "descendants": 401,
+        "time": 1786125380,
+        "comments_url": "https://news.ycombinator.com/item?id=49214008"
+      },
+      "tags": [
+        "Programming"
+      ],
+      "hot_score": 2.8
+    },
+    {
+      "title_en": "NASA figured out how to keep its Voyager 2 probe running for another year",
+      "url": "https://www.space.com/space-exploration/voyager/nasa-figured-out-how-to-keep-its-48-year-old-voyager-2-probe-running-for-yet-another-year",
+      "title_zh": "NASA 找到让 Voyager 2 探测器再运行一年的方法",
+      "created_display": "Created: Aug 07, 2026 / 18:49 PT",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/THvP2fXPd8rkVuYiU2LB97-2000-80.jpg",
+      "summary_en": "NASA has tweaked power and software systems to extend Voyager 2’s life by about another year. The move demonstrates how long-range missions survive on conservative engineering and small, cost-efficient upgrades as hardware ages.",
+      "summary_zh": "NASA 通过调整供电与软件系统，使 Voyager 2 再续航约一年。这体现了在硬件老化的情况下，长期探测任务如何依靠保守设计与小幅高性价比改进来延长寿命。",
+      "hn": {
+        "id": 49218179,
+        "type": "story",
+        "by": "wglb",
+        "score": 276,
+        "descendants": 53,
+        "time": 1786153751,
+        "comments_url": "https://news.ycombinator.com/item?id=49218179"
+      },
+      "hot_score": 2.68,
+      "tags": [
+        "Space",
+        "Hardware"
+      ]
+    },
+    {
+      "title_en": "US strikes $1.2B deal to pay German firm to halt offshore wind projects",
+      "url": "https://www.bbc.com/news/articles/c1e1vg0gjl5o",
+      "title_zh": "美国就暂停海上风电项目与德国公司达成12亿美元协议",
+      "created_display": "Created: Aug 07, 2026 / 03:28 PT",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/5720/live/f30947f0-9240-11f1-8a95-af174e9f8ab7.jpg",
+      "summary_en": "The U.S. government struck a $1.2 billion deal with a German wind turbine maker to halt offshore wind projects. The arrangement underscores how policy, regulatory risk, and financial settlements can influence the pace of renewables deployment and the economics of maritime wind development.",
+      "summary_zh": "美国政府就暂停海上风电项目与德国公司达成 12 亿美元协议。此举揭示了政策、监管风险和财政安排如何影响可再生能源的推进速度及海上市风电的经济性。",
+      "hn": {
+        "id": 49208314,
+        "type": "story",
+        "by": "defrost",
+        "score": 882,
+        "descendants": 849,
+        "time": 1786098535,
+        "comments_url": "https://news.ycombinator.com/item?id=49208314"
+      },
+      "tags": [
+        "Business",
+        "Energy",
+        "Politics"
+      ],
+      "hot_score": 2.13
+    },
+    {
+      "title_en": "What happens if an entire class of workers loses faith in their careers",
+      "url": "https://www.noemamag.com/why-is-everyone-in-tech-so-sad/",
+      "title_zh": "当整类工人对职业失去信心时会怎样",
+      "created_display": "Created: Aug 07, 2026 / 05:42 PT",
+      "image_url": "https://noemamag.imgix.net/2026/08/HR_Knitting_Noema_LeonieBos-copy.jpg?fit=crop&fm=pjpg&h=628&ixlib=php-3.3.1&rect=0%2C32%2C945%2C495&w=1200&wpsize=noema-social-facebook&s=ff77fe7391cba53b40080273232ce909",
+      "summary_en": "If an entire class of workers loses faith in their careers, broad churn and talent shifts could disrupt project roadmaps and innovation cycles. The piece argues burnout, misaligned incentives, and perceived stagnation in tech drive people to seek meaning elsewhere, urging leaders to rethink career paths and well-being.",
+      "summary_zh": "如果整类工人对职业前景失去信心，可能引发大量离职与技能转型，影响项目进度与创新节奏。文章指出倦怠、激励错位和对职业成长的感知停滞促使人们寻求更有意义的工作，呼吁领导层重新设计职业发展路径与员工福祉。",
+      "hn": {
+        "id": 49209539,
+        "type": "story",
+        "by": "RickJWagner",
+        "score": 755,
+        "descendants": 846,
+        "time": 1786106547,
+        "comments_url": "https://news.ycombinator.com/item?id=49209539"
+      },
+      "tags": [
+        "Career"
+      ],
+      "hot_score": 2.11
+    },
+    {
+      "title_en": "Oracle bans AI-generated code from OpenJDK",
+      "url": "https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code",
+      "title_zh": "Oracle 禁止 OpenJDK 使用 AI 生成的代码",
+      "created_display": "Created: Aug 07, 2026 / 10:36 PT",
+      "image_url": "https://webshotter.dealroom.co/?width=1600&height=800&wait_until=networkidle0&url=https%3A%2F%2Fapp.dealroom.co%2Fnews%2Ffeed%2Foracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code%3Fscreenshot%3Dtrue",
+      "summary_en": "Oracle bans AI-generated code from OpenJDK. The policy signals a firm stance on machine-produced software and licensing risk, potentially complicating AI-assisted development in the Java ecosystem. It could force contributors to audit code provenance more carefully.",
+      "summary_zh": "甲骨文宣布禁止把 AI 生成的代码用于 OpenJDK。此举表明其在机器生成软件方面的严格治理，可能影响 Java 生态中对 AI 辅助编码的使用和许可安排，并促使开发者更加审查代码来源。",
+      "hn": {
+        "id": 49213754,
+        "type": "story",
+        "by": "delduca",
+        "score": 489,
+        "descendants": 350,
+        "time": 1786124190,
+        "comments_url": "https://news.ycombinator.com/item?id=49213754"
+      },
+      "tags": [
+        "AI",
+        "Open Source"
+      ],
+      "hot_score": 1.98
+    },
+    {
+      "title_en": "U.S. Department of Energy Launches the Genesis Open Models Initiative",
+      "url": "https://genesisopenmodels.anl.gov/",
+      "title_zh": "美国能源部启动 Genesis Open Models Initiative",
+      "created_display": "Created: Aug 07, 2026 / 15:24 PT",
+      "image_url": "https://genesisopenmodels.anl.gov/wp-content/uploads/sites/134/2026/07/Logo-lockup-transparent.png",
+      "summary_en": "The Genesis Open Models Initiative aims to develop and openly share foundational AI models for energy research, fostering collaboration across national labs, academia, and industry. The program emphasizes responsible AI practices and provides benchmarks to evaluate model performance in energy-centric tasks.",
+      "summary_zh": "美国能源部启动 Genesis Open Models Initiative，致力于开发并公开共享用于能源研究的基础 AI 模型，促进国家实验室、学界与产业界的协作，并强调负责任的 AI 实践与评估基准。",
+      "hn": {
+        "id": 49216946,
+        "type": "story",
+        "by": "moelf",
+        "score": 265,
+        "descendants": 98,
+        "time": 1786141467,
+        "comments_url": "https://news.ycombinator.com/item?id=49216946"
+      },
+      "tags": [
+        "AI",
+        "Energy"
+      ],
+      "hot_score": 1.7
+    },
+    {
+      "title_en": "Assembly Hall of Shame",
+      "url": "https://github.com/xoreaxeaxeax/asm-hall-of-shame",
+      "title_zh": "汇编耻辱榜",
+      "created_display": "Created: Aug 07, 2026 / 11:01 PT",
+      "image_url": "https://opengraph.githubassets.com/15a52687689f9543e8275d2d3062eec8cc993f20e220171f97670e616d43f900/xoreaxeaxeax/asm-hall-of-shame",
+      "summary_en": "A GitHub repository compiling notorious or problematic assembly code, exposing common pitfalls and teaching low-level programming lessons. The collection includes humorous and cautionary examples across architectures, inviting readers to study optimization mistakes and safety hazards.",
+      "summary_zh": "这是一个 GitHub 仓库，汇集了臭名昭著或存在问题的汇编代码，揭示了低级编程中的常见陷阱。该合集涵盖多种体系结构的示例，既可作为趣味阅读，也可用于学习优化错误与安全隐患。",
+      "hn": {
+        "id": 49214098,
+        "type": "story",
+        "by": "piotrgrabowski",
+        "score": 362,
+        "descendants": 91,
+        "time": 1786125690,
+        "comments_url": "https://news.ycombinator.com/item?id=49214098"
+      },
+      "tags": [
+        "Programming"
+      ],
+      "hot_score": 1.52
+    },
+    {
+      "title_en": "App Store Rejection of the Week: Dark Hours",
+      "url": "https://daringfireball.net/2026/08/app_store_rejection_of_the_week_dark_hours",
+      "title_zh": "本周应用商店拒绝案例：Dark Hours",
+      "created_display": "Created: Aug 07, 2026 / 11:59 PT",
+      "image_url": "https://daringfireball.net/graphics/df-wide-card.png",
+      "summary_en": "Dark Hours was rejected by the App Store this week, underscoring ongoing tensions between developers and Apple’s review rules. The snippet highlights how policy interpretation and gatekeeping shape indie app viability, monetization, and discoverability.",
+      "summary_zh": "Dark Hours 本周遭苹果应用商店拒绝，凸显开发者与苹果审核规则之间持续的紧张关系。此事揭示了政策解释和准入门槛如何影响独立应用的生存、创收和曝光。",
+      "hn": {
+        "id": 49214863,
+        "type": "story",
+        "by": "_da_",
+        "score": 324,
+        "descendants": 186,
+        "time": 1786129148,
+        "comments_url": "https://news.ycombinator.com/item?id=49214863"
+      },
+      "hot_score": 1.48,
+      "tags": [
+        "Business"
+      ]
+    },
+    {
+      "title_en": "A year of fighting scrapers on my 1.5 million-page website",
+      "url": "https://patronview.com/news/99-percent-of-my-website-traffic-is-bots/",
+      "title_zh": "一年对抗爬虫：我1.5百万页网站的战斗",
+      "created_display": "Created: Aug 07, 2026 / 07:51 PT",
+      "image_url": null,
+      "summary_en": "After a year fighting scrapers on a 1.5-million-page site, bot traffic dominated visits, prompting a mix of CAPTCHA, rate limiting, IP blocking, and other anti-scraping measures. The piece shares practical lessons on telemetry and defense costs.",
+      "summary_zh": "一年与爬虫斗争，一座拥有150万页的网站的访客大多为机器人流量，促使采取 CAPTCHA、限流、屏蔽 IP 等抗爬策略。文中分享了可操作的监控要点与防御成本的权衡。",
+      "hn": {
+        "id": 49211386,
+        "type": "story",
+        "by": "petercooper",
+        "score": 428,
+        "descendants": 392,
+        "time": 1786114317,
+        "comments_url": "https://news.ycombinator.com/item?id=49211386"
+      },
+      "tags": [
+        "Security",
+        "Data"
+      ],
+      "hot_score": 1.39
+    },
+    {
+      "title_en": "Water system controllers don't belong on the internet, says ex-NSA chief",
+      "url": "https://www.theregister.com/security/2026/08/07/water-system-controllers-dont-belong-on-the-internet-says-ex-nsa-chief-after-suspected-iran-attacks/5285070",
+      "title_zh": "前NSA主管：水系统控制器不应连上互联网",
+      "created_display": "Created: Aug 07, 2026 / 14:19 PT",
+      "image_url": "https://image.theregister.com/5285090.jpg?imageId=5285090&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+      "summary_en": "An ex-NSA chief warns that water system controllers belong on isolated networks, not the internet, highlighting vulnerability to cyberattacks on critical infrastructure. The discussion emphasizes network segmentation, robust monitoring, and incident response as essential defenses for OT assets.",
+      "summary_zh": "前NSA主管警告称，水系统控制器应置于隔离网络中，不应直连互联网，强调对关键基础设施的网络分段、监控与事件响应等必要防护。",
+      "hn": {
+        "id": 49216362,
+        "type": "story",
+        "by": "Bender",
+        "score": 210,
+        "descendants": 139,
+        "time": 1786137597,
+        "comments_url": "https://news.ycombinator.com/item?id=49216362"
+      },
+      "tags": [
+        "Security",
+        "DevOps"
+      ],
+      "hot_score": 1.2
+    },
+    {
+      "title_en": "Managing AI Coding Costs at Scale",
+      "url": "https://www.databricks.com/blog/managing-ai-coding-costs-scale",
+      "title_zh": "在大规模场景下管理 AI 编码成本",
+      "created_display": "Created: Aug 07, 2026 / 11:25 PT",
+      "image_url": "https://www.databricks.com/sites/default/files/2026-08/2026-08-blog-managing-coding-costs.png",
+      "summary_en": "Databricks outlines practical methods to control AI-assisted coding costs at scale, including model selection, caching, and workflow optimizations that curb runaway spend while preserving developer productivity. The guidance helps teams balance AI benefits with budget discipline.",
+      "summary_zh": "Databricks 给出在大规模场景下控制 AI 编码成本的实用方法，包括模型选择、缓存和工作流优化，以在不牺牲开发效率的前提下降低支出。",
+      "hn": {
+        "id": 49214468,
+        "type": "story",
+        "by": "moonikakiss",
+        "score": 258,
+        "descendants": 221,
+        "time": 1786127117,
+        "comments_url": "https://news.ycombinator.com/item?id=49214468"
+      },
+      "tags": [
+        "DevOps",
+        "AI"
+      ],
+      "hot_score": 1.12
+    },
+    {
+      "title_en": "New Mexico court orders Meta to pay $567m over harms to children’s mental health",
+      "url": "https://www.theguardian.com/technology/2026/aug/06/new-mexico-court-meta",
+      "title_zh": "新墨西哥法院判决 Meta 因对未成年人心理健康造成伤害，需要赔偿 5.67 亿美元",
+      "created_display": "Created: Aug 06, 2026 / 17:06 PT",
+      "image_url": "https://i.guim.co.uk/img/media/6e9c72f1d4d1541ee16137214046b3255b6a1981/410_0_6827_5464/master/6827.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=bde32639cfe3328257ea8f512bc97b88",
+      "summary_en": "A New Mexico court has ordered Meta to pay $567 million after finding that its platforms harmed children’s mental health. The ruling adds to growing regulatory pressure on social media companies and could push Meta to adjust safety measures and user protections, even as enforcement costs rise.",
+      "summary_zh": "新墨西哥法院判决 Meta 因对未成年人的心理健康造成伤害，需要赔偿 5.67 亿美元。此案加剧了对社交媒体平台在青少年福祉方面的监管压力，并可能促使 Meta 在安全措施和用户保护方面做出更多调整，监管成本也在上升。",
+      "hn": {
+        "id": 49204352,
+        "type": "story",
+        "by": "boplicity",
+        "score": 774,
+        "descendants": 411,
+        "time": 1786061188,
+        "comments_url": "https://news.ycombinator.com/item?id=49204352"
+      },
+      "tags": [
+        "Legal",
+        "Health",
+        "Politics"
+      ],
+      "hot_score": 1.07
+    },
+    {
+      "title_en": "AMD acquires Taalas to boost inference performance by etching models in silicon",
+      "url": "https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344",
+      "title_zh": "AMD收购Taalas以通过在硅上刻画模型提升推理性能",
+      "created_display": "Created: Aug 06, 2026 / 13:23 PT",
+      "image_url": "https://image.theregister.com/5284365.jpg?imageId=5284365&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+      "summary_en": "AMD expands its AI hardware play by acquiring Taalas, a startup focused on embedding AI models directly into silicon. The deal aims to boost inference throughput and energy efficiency, signaling a trend toward hardware-software co-design for large-scale AI.",
+      "summary_zh": "AMD通过收购Taalas，意在将AI模型直接嵌入芯片中以提升推理吞吐量与能效，显示出硬件与软件深度协同设计的趋势。",
+      "hn": {
+        "id": 49201970,
+        "type": "story",
+        "by": "itvision",
+        "score": 907,
+        "descendants": 686,
+        "time": 1786047791,
+        "comments_url": "https://news.ycombinator.com/item?id=49201970"
+      },
+      "tags": [
+        "Hardware",
+        "Business",
+        "AI",
+        "Energy",
+        "Startups"
+      ],
+      "hot_score": 1.06
+    },
+    {
+      "title_en": "Ancient Library – 1,060 Greek/Latin texts, click any word to parse it",
+      "url": "https://ancientlibrary.net/",
+      "title_zh": "古代图书馆：1060篇希腊语/拉丁语文本，点击任意单词即可解析",
+      "created_display": "Created: Aug 07, 2026 / 11:51 PT",
+      "image_url": "https://ancientlibrary.net/wp-content/uploads/ancientlibrary/og-default.png",
+      "summary_en": "Ancient Library offers 1,060 Greek and Latin texts with an interactive word-level parser: click any word to see its form, lemma, and grammar. This makes classical language study easier for learners and researchers, accelerating analysis and cross-text comparisons.",
+      "summary_zh": "古代图书馆提供1060篇希腊语和拉丁语文本，支持逐词解析：点击任意单词即可查看形式、词源和语法信息。该工具降低学习门槛，提升古典语言研究与教学的效率。",
+      "hn": {
+        "id": 49214770,
+        "type": "story",
+        "by": "aagha",
+        "score": 217,
+        "descendants": 70,
+        "time": 1786128674,
+        "comments_url": "https://news.ycombinator.com/item?id=49214770"
+      },
+      "tags": [
+        "Education"
+      ],
+      "hot_score": 0.98
+    },
+    {
+      "title_en": "U.S. economy lost 23,000 jobs in July, a sudden reversal",
+      "url": "https://www.nbcnews.com/business/economy/july-2026-jobs-report-rcna591138",
+      "title_zh": "美国7月就业减少2.3万，形势突然逆转",
+      "created_display": "Created: Aug 07, 2026 / 05:42 PT",
+      "image_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-08/260806-job-fair-ch-0949-3e7dc6.jpg",
+      "summary_en": "U.S. payrolls fell by 23,000 in July, capping a surprise reversal after a stretch of gains. The report signals a cooling labor market and complicates expectations for Fed policy, highlighting the fragility of the jobs rebound and potential sector-specific softness.",
+      "summary_zh": "美国7月就业人数下降2.3万，结束了一轮连增后的意外逆转。此数据表明劳动力市场正在降温，并给美联储的政策预期带来挑战，凸显就业反弹的脆弱性及行业性疲软的可能。",
+      "hn": {
+        "id": 49209546,
+        "type": "story",
+        "by": "ceejayoz",
+        "score": 346,
+        "descendants": 347,
+        "time": 1786106578,
+        "comments_url": "https://news.ycombinator.com/item?id=49209546"
+      },
+      "hot_score": 0.97,
+      "tags": [
+        "Business"
+      ]
+    },
+    {
+      "title_en": "2027 memory capacity is reportedly sold out",
+      "url": "https://www.ign.com/articles/ramageddon-continues-another-year-as-2027-memory-capacity-is-reportedly-sold-out",
+      "title_zh": "传闻称2027 年的内存容量已售罄",
+      "created_display": "Created: Aug 07, 2026 / 00:58 PT",
+      "image_url": "https://assets-prd.ignimgs.com/2022/06/24/corsair-dominator-platinum-rgb-1656107201735.jpg?width=1280&format=jpg&auto=webp&quality=80",
+      "summary_en": "Rumors claim 2027 memory capacity is sold out, highlighting ongoing supply constraints driven by AI/demand surges and data-center needs. The chatter points to potential price volatility and longer lead times for RAM and related tech.",
+      "summary_zh": "传闻称到2027年的内存容量已售罄，反映持续的供给紧张、AI/数据中心对内存的高需求。此事或将带来价格波动与更长的交货期。",
+      "hn": {
+        "id": 49207236,
+        "type": "story",
+        "by": "inigyou",
+        "score": 400,
+        "descendants": 381,
+        "time": 1786089504,
+        "comments_url": "https://news.ycombinator.com/item?id=49207236"
+      },
+      "tags": [
+        "Hardware",
+        "AI"
+      ],
+      "hot_score": 0.83
+    },
+    {
+      "title_en": "Making Postgres 300x faster for analytics: batching, operator fusion, and SIMD",
+      "url": "https://malisper.me/how-we-made-postgres-hundreds-of-times-faster-the-query-engine/",
+      "title_zh": "通过批处理、算子融合和 SIMD 将 Postgres 的分析性能提升约300倍",
+      "created_display": "Created: Aug 07, 2026 / 04:00 PT",
+      "image_url": "https://malisper.me/wp-content/uploads/2026/08/image.png",
+      "summary_en": "Describe how a data-intensive PostgreSQL optimization leverages batching, operator fusion, and SIMD to accelerate analytic queries by hundreds of times, including practical implications for OLAP workloads. It shows the potential of rethinking query execution with retrofits rather than full engine rewrite.",
+      "summary_zh": "通过对批处理、算子融合与 SIMD 的应用，将 PostgreSQL 的分析查询性能提高到原来的数百倍。这些技术实现对 OLAP 场景具有显著意义，也展示了在不重写引擎的情况下提升性能的可行路径。",
+      "hn": {
+        "id": 49208535,
+        "type": "story",
+        "by": "poly2it",
+        "score": 297,
+        "descendants": 153,
+        "time": 1786100435,
+        "comments_url": "https://news.ycombinator.com/item?id=49208535"
+      },
+      "tags": [
+        "Programming",
+        "Data"
+      ],
+      "hot_score": 0.74
+    },
+    {
+      "title_en": "Responding to the next frontier of critical cyber capabilities",
+      "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities/",
+      "title_zh": "应对关键网络能力的下一前沿",
+      "created_display": "Created: Aug 07, 2026 / 09:39 PT",
+      "image_url": "https://images.ctfassets.net/kftzwdyauwt9/2OqBX7eh31rmzCVTZrZgb6/8c852b5a1f787c1fea8ac9de5a33d2db/Frame.png?w=1600&h=900&fit=fill",
+      "summary_en": "OpenAI outlines how to respond to evolving cyber capabilities, emphasizing collaboration with policymakers and safety measures to mitigate risks.",
+      "summary_zh": "OpenAI 讨论如何应对日益发展的关键网络能力，强调与政策制定者协作与安全措施以降低风险。",
+      "hn": {
+        "id": 49213029,
+        "type": "story",
+        "by": "artninja1988",
+        "score": 188,
+        "descendants": 183,
+        "time": 1786120776,
+        "comments_url": "https://news.ycombinator.com/item?id=49213029"
+      },
+      "tags": [
+        "Security",
+        "Politics",
+        "AI"
+      ],
+      "hot_score": 0.7
+    },
+    {
+      "title_en": "Taste Is All That's Left",
+      "url": "https://notashelf.dev/posts/taste-is-all-thats-left",
+      "title_zh": "味道才是剩下的一切",
+      "created_display": "Created: Aug 06, 2026 / 10:01 PT",
+      "image_url": null,
+      "summary_en": "Taste remains the decisive factor in product design, shaping user perception even when other metrics improve.",
+      "summary_zh": "品味仍是产品设计的决定性因素，在其他指标提升的同时塑造用户感知。",
+      "hn": {
+        "id": 49199346,
+        "type": "story",
+        "by": "tsak",
+        "score": 670,
+        "descendants": 525,
+        "time": 1786035693,
+        "comments_url": "https://news.ycombinator.com/item?id=49199346"
+      },
+      "tags": [
+        "Design"
+      ],
+      "hot_score": 0.68
+    },
+    {
+      "title_en": "Tax cuts for the wealthy only benefit the rich (2023)",
+      "url": "https://www.lse.ac.uk/research/research-for-the-world/economics/tax-cuts-for-the-wealthy-only-benefit-the-rich-debunking-trickle-down-economics",
+      "title_zh": "对富人的减税只会让富人受益（2023）",
+      "created_display": "Created: Aug 07, 2026 / 09:44 PT",
+      "image_url": "https://www.lse.ac.uk/all-images/rftw/davidhope-jan23-facebook1200x630-xfcb73d4c.x21ff7b18.jpg",
+      "summary_en": "A 2023 assessment from the London School of Economics argues that tax cuts for the wealthy do little for broad growth and primarily benefit the rich. The piece challenges trickle-down claims and highlights inequality implications.",
+      "summary_zh": "伦敦经济学院2023年的评估称，针对富人的减税对总体经济增长帮助有限，主要让富人受益。该观点对“滴漏效应”理论提出质疑，并强调不平等的后果。",
+      "hn": {
+        "id": 49213097,
+        "type": "story",
+        "by": "mooreds",
+        "score": 182,
+        "descendants": 194,
+        "time": 1786121068,
+        "comments_url": "https://news.ycombinator.com/item?id=49213097"
+      },
+      "hot_score": 0.68,
+      "tags": [
+        "Politics",
+        "Finance"
+      ]
+    },
+    {
+      "title_en": "Iceberg Collapses and Flips over in Ilulissat, Greenland (July 25, 2026) [video]",
+      "url": "https://www.youtube.com/watch?v=UufMqwyO7pY",
+      "title_zh": "格陵兰伊鲁利萨特冰山坍塌翻转（2026年7月25日）[视频]",
+      "created_display": "Created: Aug 07, 2026 / 07:55 PT",
+      "image_url": null,
+      "summary_en": "A massive iceberg collapsed and flipped near Ilulissat, Greenland, captured in a dramatic video. The event underscores the increasing calving activity in a warming climate and its potential effects on sea level and local ecosystems.",
+      "summary_zh": "格陵兰伊卢利萨特附近一座庞大冰山坍塌并翻转，画面震撼。此类快速崩解事件反映出在全球变暖背景下的冰山活动增加，对海平面和沿岸生态可能产生影响。",
+      "hn": {
+        "id": 49211438,
+        "type": "story",
+        "by": "Bender",
+        "score": 205,
+        "descendants": 54,
+        "time": 1786114508,
+        "comments_url": "https://news.ycombinator.com/item?id=49211438"
+      },
+      "hot_score": 0.67,
+      "tags": [
+        "Science"
+      ]
+    },
+    {
+      "title_en": "ICE will release body cam video only when seen in the agency's 'best interests'",
+      "url": "https://apnews.com/article/ice-body-cameras-officers-shootings-dab1b294c8dc412d9ef8557ccbebfd57",
+      "title_zh": "ICE 将只在被视为‘自身最佳利益’时公开警员随身摄像头视频",
+      "created_display": "Created: Aug 07, 2026 / 11:15 PT",
+      "image_url": "https://dims.apnews.com/dims4/default/2b0acec/2147483647/strip/true/crop/2736x1823+0+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F19%2Fb7%2F3dcfc05141694e72f1f45db13ac5%2Fcf167b64faeb4ce8b2f059d6942f3aad",
+      "summary_en": "ICE has announced it will release body cam footage only when it deems it in the agency’s best interests. The stance raises concerns about transparency, accountability, and the balance between public access and operational security.",
+      "summary_zh": "ICE 表示将仅在认定符合自身最佳利益时公开随身摄像头视频，这一立场引发对透明度、问责制以及公众获取信息与执法隐私之间平衡的担忧。",
+      "hn": {
+        "id": 49214306,
+        "type": "story",
+        "by": "geox",
+        "score": 149,
+        "descendants": 76,
+        "time": 1786126533,
+        "comments_url": "https://news.ycombinator.com/item?id=49214306"
+      },
+      "hot_score": 0.64,
+      "tags": [
+        "Privacy",
+        "Politics",
+        "Security"
+      ]
+    },
+    {
+      "title_en": "Qwen3.8 Max now ranked as the best overall model by agentic index",
+      "url": "https://artificialanalysis.ai/?intelligence=agentic-index",
+      "title_zh": "Qwen3.8 Max 现被代理指数评定为最佳综合模型",
+      "created_display": "Created: Aug 06, 2026 / 11:44 PT",
+      "image_url": "https://artificialanalysis.ai/opengraph-image.png?732728ccc2829321",
+      "summary_en": "Qwen3.8 Max tops the agentic index ranking, signaling strong performance in autonomous decision-making benchmarks and positioning it as a leading model for agent-enabled tasks.",
+      "summary_zh": "Qwen3.8 Max 在代理性指数排名中居首，显示在自主决策基准测试中的强劲表现，成为面向代理任务的领先模型。",
+      "hn": {
+        "id": 49200652,
+        "type": "story",
+        "by": "apitman",
+        "score": 542,
+        "descendants": 345,
+        "time": 1786041889,
+        "comments_url": "https://news.ycombinator.com/item?id=49200652"
+      },
+      "tags": [
+        "AI"
+      ],
+      "hot_score": 0.59
+    },
+    {
+      "title_en": "An all-sky map of half a million supermassive black holes",
+      "url": "https://www.sdss.org/black-hole-mapper-release-20/",
+      "title_zh": "覆盖全天空的50万颗超大质量黑洞分布图",
+      "created_display": "Created: Aug 07, 2026 / 08:24 PT",
+      "image_url": "https://www.sdss.org/wp-content/uploads/2022/09/sdss-new-logo-72dpi.png",
+      "summary_en": "The SDSS Black Hole Mapper Release 2.0 presents an all-sky catalog of about 500,000 supermassive black holes, enabling statistical studies of AGN populations and galaxy evolution. The dataset helps cross-match SMBH demographics with host galaxies and cosmic structure.",
+      "summary_zh": "SDSS 的黑洞映射器在 Release 2.0 中公布覆盖全天空的约50万颗超大质量黑洞目录，便于对活跃星系核和星系演化进行大规模统计研究。该数据集方便将黑洞人口与宿主星系及宇宙结构进行对比分析。",
+      "hn": {
+        "id": 49211921,
+        "type": "story",
+        "by": "MarcoDewey",
+        "score": 174,
+        "descendants": 38,
+        "time": 1786116293,
+        "comments_url": "https://news.ycombinator.com/item?id=49211921"
+      },
+      "tags": [
+        "Science",
+        "Data",
+        "Space"
+      ],
+      "hot_score": 0.59
+    },
+    {
+      "title_en": "USA Today Co., partners with Palantir to analyze audience data",
+      "url": "https://www.niemanlab.org/2026/08/americas-largest-newspaper-chain-usa-today-co-partners-with-palantir-to-analyze-audience-data/",
+      "title_zh": "USA Today 与 Palantir 合作分析受众数据",
+      "created_display": "Created: Aug 07, 2026 / 07:02 PT",
+      "image_url": "https://www.niemanlab.org/images/AdobeStock_1855670084_Editorial_Use_Only-700x394.jpeg",
+      "summary_en": "USA Today teams with Palantir to analyze audience data, aiming to tailor content and advertising based on deeper insights. The partnership signals media outlets’ continued push into enterprise analytics to monetize digital readership while raising privacy questions.",
+      "summary_zh": "USA Today 与 Palantir 合作分析受众数据，意在基于深度洞察定制内容与广告。此举体现媒体在数字读者变现方面加码数据分析能力，同时也引发隐私与数据治理的讨论。",
+      "hn": {
+        "id": 49210589,
+        "type": "story",
+        "by": "cdrnsf",
+        "score": 189,
+        "descendants": 77,
+        "time": 1786111335,
+        "comments_url": "https://news.ycombinator.com/item?id=49210589"
+      },
+      "hot_score": 0.58,
+      "tags": [
+        "Business",
+        "Data",
+        "Privacy"
+      ]
+    },
+    {
+      "title_en": "Show HN: Wyzer Programming Language",
+      "url": "https://github.com/Wyzer-Lang/wyzer",
+      "title_zh": "Show HN：Wyzer 编程语言",
+      "created_display": "Created: Aug 07, 2026 / 05:28 PT",
+      "image_url": "https://opengraph.githubassets.com/72a73cb5dc5d60bfc55a8989e3eba61669c25b2053a425e184a335b1cb93811f/Wyzer-Lang/wyzer",
+      "summary_en": "Wyzer is a new programming language featured in Show HN, inviting the community to critique its design and tooling. The post exemplifies ongoing tinkering with language design and beginner-friendly tooling in the open-source ecosystem.",
+      "summary_zh": "Wyzer 是一个新的编程语言，在 Show HN 中发布，旨在用简洁的设计和易用工具链吸引社区反馈。此举反映了开源社区对语言设计持续实验的趋势。",
+      "hn": {
+        "id": 49209385,
+        "type": "story",
+        "by": "v0id_isgood",
+        "score": 202,
+        "descendants": 108,
+        "time": 1786105735,
+        "comments_url": "https://news.ycombinator.com/item?id=49209385"
+      },
+      "tags": [
+        "Show HN",
+        "Programming",
+        "Open Source"
+      ],
+      "hot_score": 0.55
+    },
+    {
+      "title_en": "AI psychosis is the new leadership blind spot",
+      "url": "https://www.fastcompany.com/91576086/ai-psychosis-is-the-new-leadership-blind-spot-ai-leadership-blind-spots",
+      "title_zh": "AI 病态化成领导力的新盲点",
+      "created_display": "Created: Aug 07, 2026 / 06:27 PT",
+      "image_url": null,
+      "summary_en": "A Fast Company piece argues AI-driven decision making exposes new leadership blind spots, including overreliance on automation and misinterpretation of model outputs. It calls for governance, guardrails, and human-in-the-loop oversight.",
+      "summary_zh": "《Fast Company》指出 AI 驱动的决策带来新的领导力盲点，如对自动化的过度依赖与对模型输出的误解。文章呼吁建立治理框架、边界和人工介入的监督机制。",
+      "hn": {
+        "id": 49210077,
+        "type": "story",
+        "by": "rwmj",
+        "score": 170,
+        "descendants": 106,
+        "time": 1786109250,
+        "comments_url": "https://news.ycombinator.com/item?id=49210077"
+      },
+      "hot_score": 0.5,
+      "tags": [
+        "AI",
+        "Business"
+      ]
+    },
+    {
+      "title_en": "GitHub Actions and Pages are experiencing degraded availability",
+      "url": "https://www.githubstatus.com/incidents/qcvjkzcs7j74",
+      "title_zh": "GitHub Actions 与 Pages 服务降级",
+      "created_display": "Created: Aug 06, 2026 / 08:49 PT",
+      "image_url": "https://dka575ofm4ao0.cloudfront.net/pages-twitter_logos/original/36420/GitHub-Mark-120px-plus.png",
+      "summary_en": "GitHub Actions and Pages experienced degraded availability due to an incident, disrupting CI workflows and site hosting. The incident underscores the risk of relying on critical dev tools and the need for rapid recovery.",
+      "summary_zh": "GitHub Actions 与 Pages 遭遇可用性降级，影响持续集成工作流和站点托管。事件凸显对关键开发工具的依赖风险及快速恢复的必要性。",
+      "hn": {
+        "id": 49198302,
+        "type": "story",
+        "by": "Footkerchief",
+        "score": 499,
+        "descendants": 409,
+        "time": 1786031378,
+        "comments_url": "https://news.ycombinator.com/item?id=49198302"
+      },
+      "tags": [
+        "Programming",
+        "DevOps"
+      ],
+      "hot_score": 0.49
+    },
+    {
+      "title_en": "Kitesurf: Agent-first browser that runs in V8 isolates",
+      "url": "https://blog.cloudflare.com/kitesurf/",
+      "title_zh": "Kitesurf：在 V8 isolation 中运行的代理优先浏览器",
+      "created_display": "Created: Aug 07, 2026 / 03:42 PT",
+      "image_url": "https://blog.cloudflare.com/_emdash/api/media/file/01KZBWYMKT77FDVB07PHA3R5WM.png",
+      "summary_en": "Kitesurf experiments with an agent-first browser running in V8 isolates to maximize isolation and security. The model could influence how browsers or edge runtimes partition work and enforce sandboxed computation.",
+      "summary_zh": "Kitesurf 采用以代理为核心的浏览器设计，将代码运行在 V8 isolates 上，以增强隔离与安全性。此思路可能影响浏览器和边缘计算环境的分区与沙箱化实现。",
+      "hn": {
+        "id": 49208393,
+        "type": "story",
+        "by": "m3h",
+        "score": 199,
+        "descendants": 55,
+        "time": 1786099327,
+        "comments_url": "https://news.ycombinator.com/item?id=49208393"
+      },
+      "tags": [
+        "Web",
+        "Security"
+      ],
+      "hot_score": 0.48
+    },
+    {
+      "title_en": "Quake – 30th Anniversary Update",
+      "url": "https://slayersclub.bethesda.net/en-US/news/quake-30th-anniversary-update",
+      "title_zh": "Quake – 30 周年更新",
+      "created_display": "Created: Aug 06, 2026 / 13:21 PT",
+      "image_url": "https://slayersclub.bethesda.net/_static-slayersclub/images/slayers-club.webp",
+      "summary_en": "Quake turns 30 with an anniversary update featuring new content and remaster touches. The celebration underscores the game's enduring influence on engines, modding, and retro computing culture.",
+      "summary_zh": "《雷神之锤》庆祝30周年，推出纪念更新，包含新内容与复刻改动，凸显这款游戏对引擎、模组化以及复古计算文化的持续影响。",
+      "hn": {
+        "id": 49201930,
+        "type": "story",
+        "by": "dsubburam",
+        "score": 406,
+        "descendants": 199,
+        "time": 1786047679,
+        "comments_url": "https://news.ycombinator.com/item?id=49201930"
+      },
+      "tags": [
+        "Gaming"
+      ],
+      "hot_score": 0.47
+    },
+    {
+      "title_en": "Radical Study Suggests Life on Earth Arose Twice",
+      "url": "https://www.sciencealert.com/radical-study-suggests-life-on-earth-arose-from-non-living-matter-twice",
+      "title_zh": "极端研究表明地球的生命可能起源两次",
+      "created_display": "Created: Aug 07, 2026 / 05:45 PT",
+      "image_url": "https://www.sciencealert.com/images/2026/08/two-blue-colorful-bubbles-on-a-black-background.jpg",
+      "summary_en": "A radical study suggests life on Earth may have originated more than once, challenging singular-origin narratives. If corroborated, this could reshape our understanding of early biochemistry, planetary conditions, and the likelihood of life elsewhere.",
+      "summary_zh": "一项激进研究提出地球生命可能起源不止一次，这一结论若成立，将改变我们对地球早期生物化学与生命普遍性可能性的理解。",
+      "hn": {
+        "id": 49209572,
+        "type": "story",
+        "by": "jnord",
+        "score": 162,
+        "descendants": 104,
+        "time": 1786106708,
+        "comments_url": "https://news.ycombinator.com/item?id=49209572"
+      },
+      "tags": [
+        "Science"
+      ],
+      "hot_score": 0.45
+    },
+    {
+      "title_en": "Show HN: textlog – A quiet, text-only microblogging platform, open-source, no JS",
+      "url": "https://textlog.cc/about",
+      "title_zh": "Show HN：textlog——一个文本为主、无前端依赖的开源微博客",
+      "created_display": "Created: Aug 07, 2026 / 03:52 PT",
+      "image_url": "https://textlog.cc/og.png?v=2",
+      "summary_en": "Textlog offers a quiet, text-only microblogging experience with no JavaScript, emphasizing simplicity and privacy. The project shows how a minimal, open-source platform can support social interaction without web app complexity.",
+      "summary_zh": "textlog 提供极简的文字微博客体验，无需 JavaScript，强调隐私与带宽效率。该开源项目展示了在保持轻量的前提下实现社交功能的可能性。",
+      "hn": {
+        "id": 49208458,
+        "type": "story",
+        "by": "stagas",
+        "score": 174,
+        "descendants": 71,
+        "time": 1786099941,
+        "comments_url": "https://news.ycombinator.com/item?id=49208458"
+      },
+      "tags": [
+        "Show HN",
+        "Open Source",
+        "Programming",
+        "Privacy",
+        "Web"
+      ],
+      "hot_score": 0.43
+    },
+    {
+      "title_en": "DOGE overstated savings, government watchdog says",
+      "url": "https://www.politico.com/news/2026/08/06/doge-savings-overstated-watchdog-report-01027797",
+      "title_zh": "Doge 的节省被高估？政府监管机构表示",
+      "created_display": "Created: Aug 07, 2026 / 05:27 PT",
+      "image_url": null,
+      "summary_en": "A government watchdog concludes that claimed savings from Doge programs were overstated, prompting scrutiny of how cost savings are calculated in policy programs. The finding could influence future budgeting and evaluation practices.",
+      "summary_zh": "政府监管机构指出 Doge 项目所 claim 的节省被高估，促使人们重新审视政策项目中的成本节约计算方式。这一发现可能影响未来的预算与评估做法。",
+      "hn": {
+        "id": 49209368,
+        "type": "story",
+        "by": "ceejayoz",
+        "score": 149,
+        "descendants": 66,
+        "time": 1786105660,
+        "comments_url": "https://news.ycombinator.com/item?id=49209368"
+      },
+      "hot_score": 0.41,
+      "tags": [
+        "Politics",
+        "Finance"
+      ]
+    },
+    {
+      "title_en": "Software development with AI is starting to feel like cooking steak",
+      "url": "https://blog.sydorets.com/en/posts/almost-no-skill-required-to-cook-a-steak/",
+      "title_zh": "用 AI 开发软件：几乎不需技能就像煎牛排一样简单",
+      "created_display": "Created: Aug 06, 2026 / 08:30 PT",
+      "image_url": "https://blog.sydorets.com/assets/img/profile.jpg",
+      "summary_en": "AI-assisted software development lowers the skills barrier, enabling rapid prototyping and iteration. However, it also raises questions about code quality, maintainability, and developer judgment, as automated outputs require discipline and guardrails. The shift pushes teams to codify review, testing, and responsibility in an AI-enabled workflow.",
+      "summary_zh": "AI 辅助的软件开发大幅降低门槛，使快速原型与迭代成为可能。与此同时，代码质量、可维护性与开发者判断力成为新的挑战，因为自动化产出需要纪律与 guardrails。团队需要在 AI 驱动的工作流中建立审查、测试与责任分配。",
+      "hn": {
+        "id": 49198069,
+        "type": "story",
+        "by": "yusyd",
+        "score": 411,
+        "descendants": 416,
+        "time": 1786030248,
+        "comments_url": "https://news.ycombinator.com/item?id=49198069"
+      },
+      "tags": [
+        "AI",
+        "Programming"
+      ],
+      "hot_score": 0.39
+    },
+    {
+      "title_en": "The Gargantuan Lie That Is Collapsing the Climate",
+      "url": "https://www.currentaffairs.org/news/the-massive-climate-lie-that-will-destroy-human-civilization",
+      "title_zh": "正在崩塌的庞大气候谎言",
+      "created_display": "Created: Aug 07, 2026 / 04:19 PT",
+      "image_url": "https://www.currentaffairs.org/hubfs/GettyImages-2286804086.jpg",
+      "summary_en": "The piece argues that a central climate narrative is collapsing, challenging mainstream climate policy and public confidence. It questions the scale of predicted harms and the effectiveness of proposed solutions, urging rigorous scrutiny of climate claims.",
+      "summary_zh": "文章批评关于气候的核心叙述正在崩塌，质疑主流气候政策及公众信心，质问预测危害的规模及方案的有效性，呼吁对气候论断进行更严格的审视。",
+      "hn": {
+        "id": 49208686,
+        "type": "story",
+        "by": "Anon84",
+        "score": 150,
+        "descendants": 174,
+        "time": 1786101555,
+        "comments_url": "https://news.ycombinator.com/item?id=49208686"
+      },
+      "hot_score": 0.38,
+      "tags": [
+        "Science",
+        "Politics"
+      ]
+    },
+    {
+      "title_en": "Improving GPT‑5.6 Sol in ChatGPT, expanding GPT‑5.6 Luna access for free users",
+      "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt/",
+      "title_zh": "改善 GPT‑5.6 Sol 在 ChatGPT 中的性能，免费用户扩展 GPT‑5.6 Luna 访问",
+      "created_display": "Created: Aug 06, 2026 / 10:02 PT",
+      "image_url": "https://images.ctfassets.net/kftzwdyauwt9/5ufNl1zzui8XrAogWs5j89/13fdcb619e5f1e31a3efd34f425477ac/Art_Card_16x9__1_.png?w=1600&h=900&fit=fill",
+      "summary_en": "OpenAI improves GPT-5.6 Sol integration in ChatGPT and expands GPT-5.6 Luna access to free users, broadening access to advanced capabilities while raising questions about cost and usage limits.",
+      "summary_zh": "OpenAI 在 ChatGPT 中改进 GPT‑5.6 Sol 的集成，并扩展免费用户对 GPT‑5.6 Luna 的访问，扩大了高级能力的可及性，同时引发关于成本与使用限制的讨论。",
+      "hn": {
+        "id": 49199357,
+        "type": "story",
+        "by": "tedsanders",
+        "score": 313,
+        "descendants": 261,
+        "time": 1786035724,
+        "comments_url": "https://news.ycombinator.com/item?id=49199357"
+      },
+      "tags": [
+        "AI"
+      ],
+      "hot_score": 0.32
+    },
+    {
+      "title_en": "Herdr is joining Y Combinator. The runtime stays open",
+      "url": "https://herdr.dev/blog/herdr-is-joining-y-combinator/",
+      "title_zh": "Herdr 将加入 Y Combinator，运行时保持开源",
+      "created_display": "Created: Aug 06, 2026 / 12:14 PT",
+      "image_url": "https://herdr.dev/assets/og-blog-yc-v1.png",
+      "summary_en": "Herdr is joining Y Combinator, with the runtime remaining open-source. The move could accelerate adoption and community involvement while giving the project access to YC’s mentorship and funding.",
+      "summary_zh": "Herdr 将加入 Y Combinator，运行时仍将保持开源。此举可能加速采用与社区参与，同时获得 YC 的指导与资金支持。",
+      "hn": {
+        "id": 49201003,
+        "type": "story",
+        "by": "collinmanderson",
+        "score": 276,
+        "descendants": 185,
+        "time": 1786043661,
+        "comments_url": "https://news.ycombinator.com/item?id=49201003"
+      },
+      "tags": [
+        "Startups",
+        "Open Source"
+      ],
+      "hot_score": 0.31
+    },
+    {
+      "title_en": "Humans missed 1 in 3 threats approving AI agent commands across 40k game runs",
+      "url": "https://scalex.dev/blog/ai-agent-permissions-stats/",
+      "title_zh": "人类在40k次游戏中错过了1/3的 AI代理命令批准",
+      "created_display": "Created: Aug 06, 2026 / 04:58 PT",
+      "image_url": "https://scalex.dev/img/permission_game_stats_card.png",
+      "summary_en": "A study finds humans approve AI agent commands incorrectly about one-third of the time across large-scale simulations, highlighting pervasive risk in human-in-the-loop AI governance.",
+      "summary_zh": "研究发现在人机协同的AI代理控制中，人工在大量仿真中错误批准命令的比例约为三分之一，揭示人机协作治理中的普遍风险。",
+      "hn": {
+        "id": 49195468,
+        "type": "story",
+        "by": "Wirbelwind",
+        "score": 332,
+        "descendants": 243,
+        "time": 1786017487,
+        "comments_url": "https://news.ycombinator.com/item?id=49195468"
+      },
+      "tags": [
+        "AI",
+        "Security"
+      ],
+      "hot_score": 0.28
+    },
+    {
+      "title_en": "Show HN: I spent 2 years designing a mechanical Magic Keyboard",
+      "url": "https://electronicmaterialsoffice.com/",
+      "title_zh": "Show HN：我花了两年时间设计了一款机械键盘",
+      "created_display": "Created: Aug 06, 2026 / 07:26 PT",
+      "image_url": "https://electronicmaterialsoffice.com/assets/images/open-graph-card-home.jpg",
+      "summary_en": "A personal project chronicles two years spent designing a mechanical keyboard inspired by the Apple Magic Keyboard. The write-up offers practical insights on hardware design, tactile choice, and firmware trade-offs for keyboard enthusiasts.",
+      "summary_zh": "这是一位博主分享花两年时间设计的机械键盘，目标参考苹果的 Magic Keyboard。文中给出硬件设计、轴体与固件取舍的实用经验，适合键盘爱好者借鉴。",
+      "hn": {
+        "id": 49197137,
+        "type": "story",
+        "by": "aemerson_",
+        "score": 294,
+        "descendants": 239,
+        "time": 1786026374,
+        "comments_url": "https://news.ycombinator.com/item?id=49197137"
+      },
+      "tags": [
+        "Show HN",
+        "Hardware",
+        "Design"
+      ],
+      "hot_score": 0.27
+    },
+    {
+      "title_en": "Welcoming the Nepalese Government to Have I Been Pwned",
+      "url": "https://www.troyhunt.com/welcoming-the-nepalese-government-to-have-i-been-pwned/",
+      "title_zh": "欢迎尼泊尔政府加入Have I Been Pwned",
+      "created_display": "Created: Aug 06, 2026 / 14:52 PT",
+      "image_url": "https://storage.ghost.io/c/fb/33/fb3391dc-723d-4e74-b95a-d641b5feb38e/content/images/2026/07/Nepal-Flag.png",
+      "summary_en": "The Nepalese government joins Have I Been Pwned, expanding the reach of data-breach alerts to government accounts and related citizen services. This broadens public cybersecurity visibility and could improve risk awareness and incident response across agencies.",
+      "summary_zh": "尼泊尔政府加入 Have I Been Pwned，扩大政府账户及相关公民服务的数据泄露警报覆盖范围，有望提升公民与政府的网络安全可见性、风险意识与响应能力。",
+      "hn": {
+        "id": 49203105,
+        "type": "story",
+        "by": "gnabgib",
+        "score": 214,
+        "descendants": 35,
+        "time": 1786053136,
+        "comments_url": "https://news.ycombinator.com/item?id=49203105"
+      },
+      "tags": [
+        "Security",
+        "Privacy",
+        "Politics"
+      ],
+      "hot_score": 0.27
+    },
+    {
+      "title_en": "Framework discloses data breach via Metabase 0-day",
+      "url": "https://community.frame.work/t/framework-data-breach-discussion/83939",
+      "title_zh": "Framework 透露 Metabase 0-day 数据泄露",
+      "created_display": "Created: Aug 06, 2026 / 22:17 PT",
+      "image_url": "https://us1.discourse-cdn.com/flex001/uploads/framework3/original/1X/f8ee93f9067eb34d64372000a4f27a89eaf1135b.jpeg",
+      "summary_en": "Framework disclosed a data breach tied to a Metabase zero-day, illustrating how third-party BI tools can expose internal data. The incident highlights patching discipline, access control, and monitoring for OSS dependencies.",
+      "summary_zh": "Framework 披露了与 Metabase 0-day 相关的数据泄露，显示第三方BI工具如何暴露内部数据。事件凸显了打补丁、访问控制和对开源依赖的监控的重要性。",
+      "hn": {
+        "id": 49206130,
+        "type": "story",
+        "by": "RobinHirst11",
+        "score": 144,
+        "descendants": 53,
+        "time": 1786079877,
+        "comments_url": "https://news.ycombinator.com/item?id=49206130"
+      },
+      "hot_score": 0.26,
+      "tags": [
+        "Security",
+        "Data",
+        "Privacy"
+      ]
+    },
+    {
+      "title_en": "Bioengineered chewing gum may offer a way to fight HPV and other microbes",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260803080917.htm",
+      "title_zh": "生物工程口香糖可能帮助对抗 HPV 等微生物",
+      "created_display": "Created: Aug 06, 2026 / 14:18 PT",
+      "image_url": "https://www.sciencedaily.com/images/1920/young-woman-biting-chewing-gum.webp",
+      "summary_en": "Researchers have developed bioengineered chewing gum that can deliver antimicrobial compounds to the mouth, potentially targeting HPV and other microbes. If scalable, this could offer a convenient, noninvasive delivery method to complement vaccines or therapies.",
+      "summary_zh": "研究人员开发的生物工程口香糖可在口腔释放抗微生物成分，可能对 HPV 等微生物起到抑制作用。若规模化应用，这种便捷、非侵入式的给药方式或成为疫苗或治疗方案的有力补充。",
+      "hn": {
+        "id": 49202716,
+        "type": "story",
+        "by": "Audiophilip",
+        "score": 208,
+        "descendants": 61,
+        "time": 1786051112,
+        "comments_url": "https://news.ycombinator.com/item?id=49202716"
+      },
+      "tags": [
+        "Science",
+        "Health"
+      ],
+      "hot_score": 0.25
+    },
+    {
+      "title_en": "Launch HN: ProvenMetal (YC S26) delivers circuit boards in days instead of weeks",
+      "url": "https://provenmetal.com",
+      "title_zh": "Show HN: ProvenMetal (YC S26) 在几天内交付电路板",
+      "created_display": "Created: Aug 06, 2026 / 08:59 PT",
+      "image_url": "https://provenmetal.com/opengraph-image.png?opengraph-image.1ijtenr-ahy8x.png?dpl=dpl_7PsCFD8HpVYXuB2f3Maqj7oGShJJ",
+      "summary_en": "ProvenMetal, YC S26 alum, delivers circuit boards in days instead of weeks, speeding hardware prototyping. The service could shorten iteration cycles for hardware startups and enable faster time-to-market.",
+      "summary_zh": "ProvenMetal（YC S26）在几天内交付电路板，显著加速硬件原型开发。该服务有望缩短硬件初创企业的迭代周期并提升上市速度。",
+      "hn": {
+        "id": 49198464,
+        "type": "story",
+        "by": "willcarkner",
+        "score": 229,
+        "descendants": 155,
+        "time": 1786031955,
+        "comments_url": "https://news.ycombinator.com/item?id=49198464"
+      },
+      "tags": [
+        "Hardware",
+        "Startups"
+      ],
+      "hot_score": 0.22
+    },
+    {
+      "title_en": "My phone detects going on a run as “someone snatching my phone and running off”",
+      "url": "https://mastodon.gamedev.place/@rygorous/117047697255584965",
+      "title_zh": "我的手机把跑步误判为“有人抢走我的手机并跑开”",
+      "created_display": "Created: Aug 06, 2026 / 11:26 PT",
+      "image_url": "https://mastodon.gamedev.place/packs/assets/logo-DXQkHAe5.svg",
+      "summary_en": "A personal experience shows smartphone motion sensors misclassifying a run as theft, underscoring the fragility of automated activity detection and the noise in sensor data.",
+      "summary_zh": "个人经历显示智能手机的运动传感器会把跑步误判为盗窃，凸显自动化活动检测的脆弱性以及传感数据的噪声问题。",
+      "hn": {
+        "id": 49200439,
+        "type": "story",
+        "by": "luu",
+        "score": 193,
+        "descendants": 338,
+        "time": 1786040768,
+        "comments_url": "https://news.ycombinator.com/item?id=49200439"
+      },
+      "tags": [
+        "Data"
+      ],
+      "hot_score": 0.21
+    },
+    {
+      "title_en": "Federal Communications Commission scraps limit on broadcast TV ownership",
+      "url": "https://www.nbcnews.com/business/media/federal-communications-commission-scraps-limit-broadcast-tv-ownership-rcna587641",
+      "title_zh": "联邦通信委员会取消广播电视所有权限额",
+      "created_display": "Created: Aug 06, 2026 / 11:22 PT",
+      "image_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-07/260715-fcc-carr-mn-1015-69a023.jpg",
+      "summary_en": "The FCC scrap(s) the cap on broadcast TV station ownership, potentially increasing consolidation in local media markets and affecting competition and diversity.",
+      "summary_zh": "联邦通信委员会取消广播电视所有权的上限，可能加剧本地市场的集中度，并对竞争与媒体多样性产生影响。",
+      "hn": {
+        "id": 49200390,
+        "type": "story",
+        "by": "pseudolus",
+        "score": 175,
+        "descendants": 112,
+        "time": 1786040536,
+        "comments_url": "https://news.ycombinator.com/item?id=49200390"
+      },
+      "tags": [
+        "Politics",
+        "Business"
+      ],
+      "hot_score": 0.19
+    },
+    {
+      "title_en": "Inside vLLM: Anatomy of a High-Throughput LLM Inference System (2025)",
+      "url": "https://www.aleksagordic.com/blog/vllm",
+      "title_zh": "Inside vLLM：高吞吐量LLM推理系统解剖（2025）",
+      "created_display": "Created: Aug 06, 2026 / 14:30 PT",
+      "image_url": "https://www.aleksagordic.com/blog/vllm/engine_constructor.png",
+      "summary_en": "A deep dive into vLLM’s architecture for high-throughput LLM inference, covering memory management, model loading strategies, and batching tactics. The piece offers practical takeaways for building scalable local or edge inference pipelines.",
+      "summary_zh": "对 vLLM 的高吞吐量推理架构进行深度解析，涉及内存管理、模型加载策略与批处理等技巧。为构建可扩展的本地或边缘推理管线提供实用要点。",
+      "hn": {
+        "id": 49202852,
+        "type": "story",
+        "by": "sebg",
+        "score": 144,
+        "descendants": 9,
+        "time": 1786051821,
+        "comments_url": "https://news.ycombinator.com/item?id=49202852"
+      },
+      "hot_score": 0.18,
+      "tags": [
+        "Programming",
+        "Open Source",
+        "AI"
+      ]
+    },
+    {
+      "title_en": "xAI, SpaceX, and the Race for AI Buildout",
+      "url": "https://illegal.solutions/posts/xai_pollution",
+      "title_zh": "xAI、SpaceX 与 AI 构建竞赛",
+      "created_display": "Created: Aug 06, 2026 / 12:38 PT",
+      "image_url": "https://illegal.solutions/images/ascii-art-image-white-large.webp",
+      "summary_en": "The article frames xAI and SpaceX as playing a pivotal role in the race to build out advanced AI capabilities, touching on infrastructure, data access, and competing priorities. It considers implications for policy, funding, and the AI ecosystem's structure.",
+      "summary_zh": "文章指出 xAI 与 SpaceX 在推动 AI 能力建设竞争中的核心作用，涉及基础设施、数据获取与人才等方面。并讨论对政策、资金和整个 AI 生态系统结构的影响。",
+      "hn": {
+        "id": 49201342,
+        "type": "story",
+        "by": "speckx",
+        "score": 145,
+        "descendants": 120,
+        "time": 1786045125,
+        "comments_url": "https://news.ycombinator.com/item?id=49201342"
+      },
+      "tags": [
+        "AI",
+        "Space",
+        "DevOps"
+      ],
+      "hot_score": 0.16
+    },
+    {
+      "title_en": "Four simple rules behind Japan's most liveable cities",
+      "url": "https://www.bbc.com/travel/article/20260805-four-simple-rules-behind-japans-most-liveable-cities",
+      "title_zh": "日本最宜居城市背后的四条简单法则",
+      "created_display": "Created: Aug 06, 2026 / 06:08 PT",
+      "image_url": "https://ychef.files.bbci.co.uk/624x351/p0p2r25c.jpg",
+      "summary_en": "Japan’s most liveable cities share four simple rules: prioritize safety, efficiency, well-connected transit, and resilient public spaces. These habits shape urban design, climate resilience, and daily quality of life.",
+      "summary_zh": "日本最宜居城市的共同特征是四条简单原则：重视安全、效率、便捷的公共交通，以及有韧性的公共空间。这些习惯影响城市设计、气候韧性和日常生活质量。",
+      "hn": {
+        "id": 49196174,
+        "type": "story",
+        "by": "tchalla",
+        "score": 131,
+        "descendants": 170,
+        "time": 1786021701,
+        "comments_url": "https://news.ycombinator.com/item?id=49196174"
+      },
+      "hot_score": 0.11,
+      "tags": [
+        "Design",
+        "Culture"
+      ]
+    }
+  ]
+}

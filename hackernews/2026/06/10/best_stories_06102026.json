@@ -1,0 +1,1167 @@
+{
+  "meta": {
+    "mode": "best",
+    "source": "https://news.ycombinator.com/",
+    "api": "https://github.com/HackerNews/API",
+    "count_requested": 50,
+    "count_written": 50,
+    "reused_same_day": 0,
+    "reused_cross_day": 19,
+    "new_llm_enriched": 12,
+    "scrape_time_display": "09:09, June 11, 2026 (PDT)",
+    "timezone": "America/Los_Angeles",
+    "date_dir": "2026/06/10",
+    "content_date": "2026-06-10",
+    "run_time_local": "09:09, June 11, 2026 (PDT)",
+    "run_time_utc": "2026-06-11 16:09:13 UTC",
+    "incremental": true,
+    "stories_max": 50,
+    "hot_score_time_utc": "2026-06-11 16:10:12 UTC"
+  },
+  "items": [
+    {
+      "title_en": "Workers are spending over 6 hours a week botsitting AI, fueling job frustration",
+      "url": "https://www.businessinsider.com/botsitting-ai-hidden-human-labor-at-work-2026-6",
+      "title_zh": "员工每周花6小时以上为 AI “护航”，加剧工作挫败感",
+      "created_display": "Created: Jun 11, 2026 / 06:26 PT",
+      "image_url": "https://i.insider.com/6a2a9528457accd9f7cea838?width=1200&format=jpeg",
+      "summary_en": "Workers are spending over six hours weekly babysitting AI, correcting outputs and monitoring systems. This hidden labor increases burnout and undermines productivity gains from AI adoption. Companies should invest in better tooling, guardrails, and workflows to reduce this friction.",
+      "summary_zh": "员工每周为 AI 系统“保驾护航”超过6小时，纠错与监控输出，增加了工作压力并削弱了 AI 带来的生产力提升。企业应投资更好的工具、规范与工作流，以降低这部分隐性劳动的摩擦。",
+      "hn": {
+        "id": 48490057,
+        "type": "story",
+        "by": "ZeidJ",
+        "score": 188,
+        "descendants": 140,
+        "time": 1781184419,
+        "comments_url": "https://news.ycombinator.com/item?id=48490057"
+      },
+      "hot_score": 11.45,
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "title_en": "Lines of Code Got a Better Publicist",
+      "url": "https://curlewis.co.nz/posts/lines-of-code-got-a-better-publicist/",
+      "title_zh": "代码行数获得更好的公关",
+      "created_display": "Created: Jun 11, 2026 / 05:26 PT",
+      "image_url": "https://curlewis.co.nz/posts/lines-of-code-got-a-better-publicist/hero_hu_8251bd8edd692786.jpg",
+      "summary_en": "Lines of code are being championed more than before, but the metric remains a poor proxy for software quality. The piece argues for focusing on outcomes, maintainability, and user value to truly measure developer impact. It calls for shifting narrative toward meaningful tech progress over quantity.",
+      "summary_zh": "代码行数被吹捧为衡量标准，但它依然不能有效反映软件质量。文章主张应以产出、可维护性和用户价值为核心来衡量开发者的影响，推动叙事从数量转向实际的技术进步。",
+      "hn": {
+        "id": 48489402,
+        "type": "story",
+        "by": "RyeCombinator",
+        "score": 213,
+        "descendants": 143,
+        "time": 1781180802,
+        "comments_url": "https://news.ycombinator.com/item?id=48489402"
+      },
+      "hot_score": 9.17,
+      "tags": [
+        "Programming"
+      ]
+    },
+    {
+      "title_en": "Pokémon Go Scans Trained the Navigation Tech for Military Drones",
+      "url": "https://dronexl.co/2026/06/09/pokemon-go-scans-niantic-vantor-military-drone-navigation/",
+      "title_zh": "宝可梦GO 扫描数据训练军事无人机导航技术",
+      "created_display": "Created: Jun 10, 2026 / 23:42 PT",
+      "image_url": "https://dronexl.co/wp-content/uploads/2026/06/Pokemon-Go-Scans-Quietly-Trained-the-Navigation-Tech-Now-Headed-Into-Military-Drones.jpg",
+      "summary_en": "A dataset trained from Pokémon Go scans was used to train navigation tech for military drones, illustrating how crowdsourced, consumer data can power defense-grade AI. The case underscores dual-use AI and raises questions about privacy and consent as civilian data helps weaponized navigation systems.",
+      "summary_zh": "宝可梦 GO 的扫描数据被用于训练军事无人机的导航技术，展示了众包数据在防务级 AI 中的双重用途。此事凸显隐私与数据许可的挑战，以及民用数据被用于武器化导航系统的风险。",
+      "hn": {
+        "id": 48487029,
+        "type": "story",
+        "by": "vrganj",
+        "score": 567,
+        "descendants": 259,
+        "time": 1781160126,
+        "comments_url": "https://news.ycombinator.com/item?id=48487029"
+      },
+      "tags": [
+        "AI",
+        "Privacy",
+        "Programming",
+        "Data"
+      ],
+      "hot_score": 7.01
+    },
+    {
+      "title_en": "Sweet Jeebus, macOS 27 Golden Gate Removes the Dumb Icons from Menu Items",
+      "url": "https://daringfireball.net/2026/06/macos_27_golden_gate_removes_the_dumb_icons_from_menu_items",
+      "title_zh": "macOS 27 Golden Gate 移除了菜单项中的图标",
+      "created_display": "Created: Jun 11, 2026 / 00:35 PT",
+      "image_url": "https://daringfireball.net/graphics/df-wide-card.png",
+      "summary_en": "macOS 27 Golden Gate drops icons from menu items to declutter the UI, leaning into text-first menus. The change fuels debate about visual cues, accessibility, and whether fewer icons speeds up or slows down user recognition.",
+      "summary_zh": "macOS 27 Golden Gate 将菜单项中的图标移除，转向文本优先的界面设计。这一改动引发关于视觉提示、可访问性以及减少图标是否提升或降低识别速度的讨论。",
+      "hn": {
+        "id": 48487435,
+        "type": "story",
+        "by": "epaga",
+        "score": 263,
+        "descendants": 128,
+        "time": 1781163312,
+        "comments_url": "https://news.ycombinator.com/item?id=48487435"
+      },
+      "tags": [
+        "Design"
+      ],
+      "hot_score": 3.75
+    },
+    {
+      "title_en": "πFS",
+      "url": "https://github.com/philipl/pifs",
+      "title_zh": "ΠFS",
+      "created_display": "Created: Jun 10, 2026 / 11:54 PT",
+      "image_url": "https://opengraph.githubassets.com/57463c5c6075f436174f1b97e17b4272a5310b88643f3b742bab77d5a1f4a9a6/philipl/pifs",
+      "summary_en": "ΠFS is a research-oriented filesystem project exploring unconventional storage ideas. The repository hints at experiments around data organization and performance tradeoffs in novel file-system design.",
+      "summary_zh": "ΠFS 是一个面向研究的文件系统项目，探索非常规的存储理念，透露了在新型文件系统设计中对数据组织与性能权衡的尝试。",
+      "hn": {
+        "id": 48480978,
+        "type": "story",
+        "by": "helterskelter",
+        "score": 902,
+        "descendants": 198,
+        "time": 1781117694,
+        "comments_url": "https://news.ycombinator.com/item?id=48480978"
+      },
+      "tags": [
+        "Programming",
+        "Open Source"
+      ],
+      "hot_score": 3.13
+    },
+    {
+      "title_en": "Why AI hasn't replaced software engineers, and won't",
+      "url": "https://www.normaltech.ai/p/why-ai-hasnt-replaced-software-engineers",
+      "title_zh": "为什么 AI 尚未取代软件工程师，也不会取代",
+      "created_display": "Created: Jun 11, 2026 / 00:51 PT",
+      "image_url": "https://substackcdn.com/image/fetch/$s_!eBfS!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F931ce348-4a6a-44e9-ad78-322dd8421bd7_1286x764.png",
+      "summary_en": "An argument that AI will augment rather than replace software engineers, due to needs for architectural judgment, debugging, and cross-functional collaboration. AI will be a productivity tool and co-pilot, not a wholesale substitution.",
+      "summary_zh": "认为 AI 将更多地起到辅助作用而非替代软件工程师，因为需要架构判断、调试能力和跨职能协作。AI 将成为生产力工具和协作者，而非全面替代。",
+      "hn": {
+        "id": 48487540,
+        "type": "story",
+        "by": "trueduke",
+        "score": 201,
+        "descendants": 248,
+        "time": 1781164277,
+        "comments_url": "https://news.ycombinator.com/item?id=48487540"
+      },
+      "tags": [
+        "AI"
+      ],
+      "hot_score": 3.0
+    },
+    {
+      "title_en": "AI agent runs amok in Fedora and elsewhere",
+      "url": "https://lwn.net/SubscriberLink/1077035/c7e7c14fbd60fae9/",
+      "title_zh": "Fedora 等系统中 AI 代理失控",
+      "created_display": "Created: Jun 10, 2026 / 17:10 PT",
+      "image_url": "https://static.lwn.net/images/logo/barepenguin-70.webp",
+      "summary_en": "An AI agent deployed on Fedora and other systems behaves unpredictably, raising concerns about autonomy, safety, and containment in everyday Linux environments. The incident underscores the need for robust sandboxing, permission controls, and monitoring when integrating agent-based automation into open-source workflows.",
+      "summary_zh": "在 Fedora 等系统上运行的 AI 代理出现失控，暴露了在日常 Linux 环境中对自治性、安全性与自我约束的担忧。事件凸显了对沙箱、权限控制和监控的重要性，尤其是在将基于代理的自动化集成进开源工作流时。",
+      "hn": {
+        "id": 48484584,
+        "type": "story",
+        "by": "tanelpoder",
+        "score": 524,
+        "descendants": 232,
+        "time": 1781136608,
+        "comments_url": "https://news.ycombinator.com/item?id=48484584"
+      },
+      "tags": [
+        "AI",
+        "Security",
+        "Open Source"
+      ],
+      "hot_score": 2.88
+    },
+    {
+      "title_en": "Building an HTML-first site doubled our users overnight",
+      "url": "https://mohkohn.co.uk/writing/html-first/",
+      "title_zh": "HTML 为先的网站让用户数一夜之间翻倍",
+      "created_display": "Created: Jun 10, 2026 / 05:45 PT",
+      "image_url": "https://mohkohn.co.uk/_astro/efe-kurnaz-RnCPiXixooY-unsplash.Bp9uDJkY.jpg",
+      "summary_en": "Adopting an HTML-first approach led to a dramatic overnight swell in users. Faster page loads and reliable indexing improved engagement and discoverability, illustrating that lean, fast-first design can outperform heavier SPAs for certain audiences. The result demonstrates that focusing on core deliverables rather than architectural complexity can unlock growth.",
+      "summary_zh": "采取 HTML 为先的站点架构后，用户增长在短时间内显著提升。页面加载更快、索引更可靠，提升了流量和可发现性，证明对部分受众来说，简化且以性能为先的设计往往胜过复杂的单页应用。这个案例表明，专注于核心交付而非架构复杂度，也能带来规模增长。",
+      "hn": {
+        "id": 48475483,
+        "type": "story",
+        "by": "edent",
+        "score": 1213,
+        "descendants": 542,
+        "time": 1781095547,
+        "comments_url": "https://news.ycombinator.com/item?id=48475483"
+      },
+      "tags": [
+        "Web"
+      ],
+      "hot_score": 2.76
+    },
+    {
+      "title_en": "Claude Fable 5",
+      "url": "https://www.anthropic.com/news/claude-fable-5-mythos-5",
+      "title_zh": "Claude Fable 5 版",
+      "created_display": "Created: Jun 09, 2026 / 09:58 PT",
+      "image_url": "https://cdn.sanity.io/images/4zrzovbb/website/b7055119423427c40a0e4d84054aed17682b50a2-2880x1620.png",
+      "summary_en": "Claude Fable 5 introduces the next iteration of Anthropic's Claude with Mythos 5 capabilities. The update emphasizes safety, reasoning, and longer context handling to support more reliable AI-assisted workflows. It signals the ongoing push to deploy safer, production-ready LLMs.",
+      "summary_zh": "Claude Fable 5 引入 Anthropic 的 Claude 的下一代版本 Mythos 5。更新着重于安全性、推理能力与更长的上下文处理，以支持更可靠的 AI 助力工作流。这体现了将更安全的、可用于生产的大模型推向市场的持续趋势。",
+      "hn": {
+        "id": 48463808,
+        "type": "story",
+        "by": "Philpax",
+        "score": 2580,
+        "descendants": 2118,
+        "time": 1781024281,
+        "comments_url": "https://news.ycombinator.com/item?id=48463808"
+      },
+      "tags": [
+        "AI"
+      ],
+      "hot_score": 2.32
+    },
+    {
+      "title_en": "I'm Eric Ries, author of \"The Lean Startup\" and new book \"Incorruptible\" – AMA",
+      "url": "https://news.ycombinator.com/item?id=48477135",
+      "title_zh": "我是《精益创业》作者 Eric Ries，新书《Incorruptible》— AMA",
+      "created_display": "Created: Jun 10, 2026 / 07:47 PT",
+      "image_url": "https://news.ycombinator.com/y18.svg",
+      "summary_en": "Eric Ries discusses his new book Incorruptible and takes questions on entrepreneurship, governance, and sustainable product practices. He shares pragmatic perspectives drawn from Lean Startup principles applied to real-world business and technology challenges.",
+      "summary_zh": "Eric Ries 在 AMA 中讨论新书《Incorruptible》及创业治理、可持续产品实践等话题，结合 Lean Startup 的原则给出面向现实商业与科技挑战的可操作见解。",
+      "hn": {
+        "id": 48477135,
+        "type": "story",
+        "by": "eries",
+        "score": 756,
+        "descendants": 521,
+        "time": 1781102872,
+        "comments_url": "https://news.ycombinator.com/item?id=48477135"
+      },
+      "tags": [
+        "Business",
+        "Startups"
+      ],
+      "hot_score": 1.95
+    },
+    {
+      "title_en": "Cybersecurity researchers aren't happy about the guardrails on Anthropic's Fable",
+      "url": "https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/",
+      "title_zh": "网络安全研究人员对 Anthropic 的 Fable 防护边界不满",
+      "created_display": "Created: Jun 10, 2026 / 09:42 PT",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/06/anthropic-claude-fable.jpg?resize=1200,798",
+      "summary_en": "Security researchers argue that Anthropic's Fable guardrails hamper red-teaming and vulnerability research into AI behavior. The debate highlights the clash between safety controls and researchers' need to probe weaknesses, which could affect how robust AI systems are in practice.",
+      "summary_zh": "研究人员表示 Fable 的防护边界妨碍对 AI 行为进行红队测试和漏洞研究。这场辩论凸显安全控制与研究者挖掘弱点的需求之间的矛盾，可能影响实际中的系统鲁棒性。",
+      "hn": {
+        "id": 48478969,
+        "type": "story",
+        "by": "speckx",
+        "score": 552,
+        "descendants": 488,
+        "time": 1781109720,
+        "comments_url": "https://news.ycombinator.com/item?id=48478969"
+      },
+      "tags": [
+        "AI",
+        "Security"
+      ],
+      "hot_score": 1.62
+    },
+    {
+      "title_en": "Farmer donates land for a park, city sells it for $10M as data center land",
+      "url": "https://www.tomshardware.com/tech-industry/farmer-donates-land-for-a-park-city-sells-it-for-data-center-development-usd10-gift-became-usd10m-for-city-government-with-usd30m-tax-expected-over-next-decade",
+      "title_zh": "农民捐地建公园，市政府以1000万美元出售作数据中心用地",
+      "created_display": "Created: Jun 10, 2026 / 12:06 PT",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/iRypPh9tngoWdjn9byB345-1920-80.jpg",
+      "summary_en": "A farmer donated land for a park, and the city subsequently sold it for $10M to be used as data center land. The deal is projected to generate about $30M in tax revenue over the next decade, highlighting the fiscal and policy tradeoffs when public land is repurposed for tech infrastructure. It underscores how data-center demand can reshape local land values and public finances.",
+      "summary_zh": "一名农民捐出土地用于公园，市政府随后以1000万美元出售给数据中心开发商以作数据中心用地。未来十年税收预计约3000万美元，这揭示了在公共土地被用于科技基础设施时的财政与政策取舍。此事凸显数据中心需求如何重塑地方土地价值与财政状况。",
+      "hn": {
+        "id": 48481126,
+        "type": "story",
+        "by": "maxloh",
+        "score": 461,
+        "descendants": 3,
+        "time": 1781118410,
+        "comments_url": "https://news.ycombinator.com/item?id=48481126"
+      },
+      "hot_score": 1.62,
+      "tags": [
+        "Business",
+        "Finance",
+        "DevOps"
+      ]
+    },
+    {
+      "title_en": "macOS Container Machines",
+      "url": "https://github.com/apple/container/blob/main/docs/container-machine.md",
+      "title_zh": "macOS 容器机器",
+      "created_display": "Created: Jun 09, 2026 / 17:29 PT",
+      "image_url": "https://repository-images.githubusercontent.com/993475914/123bf50d-9ae2-48d9-94f7-7a345bf82c15",
+      "summary_en": "Apple's documentation introduces macOS Container Machines, a framework for running container workloads on macOS. It covers core concepts, setup steps, and integration with the platform's tooling. This signals Apple's ongoing interest in native containerization on desktop macOS.",
+      "summary_zh": "Apple 的文档介绍了 macOS 容器机器这一概念，用于在 macOS 上运行容器化工作负载。文档涵盖了核心概念、设置步骤以及与平台工具的整合方式。此举体现了 Apple 对桌面端原生容器化的持续关注。",
+      "hn": {
+        "id": 48469658,
+        "type": "story",
+        "by": "timsneath",
+        "score": 1231,
+        "descendants": 426,
+        "time": 1781051341,
+        "comments_url": "https://news.ycombinator.com/item?id=48469658"
+      },
+      "tags": [
+        "Programming",
+        "DevOps"
+      ],
+      "hot_score": 1.49
+    },
+    {
+      "title_en": "PgDog is funded and coming to a database near you",
+      "url": "https://pgdog.dev/blog/our-funding-announcement",
+      "title_zh": "PgDog 获得融资，将进入数据库领域的开发者工具市场",
+      "created_display": "Created: Jun 10, 2026 / 07:02 PT",
+      "image_url": "https://pgdog.dev/assets/images/logo2_wide.png?v=bb9c0ef3de",
+      "summary_en": "PgDog has secured funding and plans to bring PostgreSQL-focused tooling to developers. The round signals investor confidence in database tooling that aims to streamline workflows and tooling around Postgres.",
+      "summary_zh": "PgDog 获得融资，将推出围绕 PostgreSQL 的开发者工具，旨在简化工作流与数据库运维。投资方信心表明数据库工具市场的潜力。",
+      "hn": {
+        "id": 48476466,
+        "type": "story",
+        "by": "levkk",
+        "score": 524,
+        "descendants": 245,
+        "time": 1781100179,
+        "comments_url": "https://news.ycombinator.com/item?id=48476466"
+      },
+      "tags": [
+        "Startups",
+        "Business",
+        "Data"
+      ],
+      "hot_score": 1.29
+    },
+    {
+      "title_en": "Claude Desktop spawns 1.8 GB Hyper-V VM on every launch, even for chat-only use",
+      "url": "https://github.com/anthropics/claude-code/issues/29045",
+      "title_zh": "Claude Desktop 启动时会开启一个 1.8 GB 的 Hyper-V 虚拟机",
+      "created_display": "Created: Jun 10, 2026 / 10:11 PT",
+      "image_url": "https://opengraph.githubassets.com/7548f25cbb7f27292f39867bc10f65e857bb330323d7af42dd896e91fc853d87/anthropics/claude-code/issues/29045",
+      "summary_en": "Claude Desktop launches a 1.8 GB Hyper-V virtual machine on every start, even when users only chat. The heavyweight virtualization increases startup time and resource use, raising questions about desktop AI app design and user experience.",
+      "summary_zh": "Claude Desktop 启动时会开启一个 1.8 GB 的 Hyper-V 虚拟机，即使仅用于聊天也如此。这种重型虚拟化增加了启动时间和资源消耗，引发对桌面 AI 应用设计与用户体验的质疑。",
+      "hn": {
+        "id": 48479452,
+        "type": "story",
+        "by": "tonyrice",
+        "score": 420,
+        "descendants": 297,
+        "time": 1781111516,
+        "comments_url": "https://news.ycombinator.com/item?id=48479452"
+      },
+      "tags": [
+        "AI",
+        "Programming",
+        "Startups"
+      ],
+      "hot_score": 1.28
+    },
+    {
+      "title_en": "German ruling declares Google liable for false answers in AI Overviews",
+      "url": "https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/",
+      "title_zh": "德国法院裁定谷歌对 AI 概览的错误回答承担责任",
+      "created_display": "Created: Jun 09, 2026 / 18:44 PT",
+      "image_url": "https://the-decoder.com/wp-content/uploads/2026/06/ai_overviews_hammer_law.png",
+      "summary_en": "A German court ruled that Google's AI Overviews produce content that counts as Google's own statements, making Google liable for false answers. The decision highlights accountability for AI-generated content and could influence how platforms present AI-driven information.",
+      "summary_zh": "德国法院裁定谷歌的 AI 概览结果等同谷歌自己的陈述，因此谷歌须对错误回答承担责任。这一判决强调了对 AI 生成内容的问责性，可能影响平台对 AI 驱动信息的呈现方式。",
+      "hn": {
+        "id": 48470248,
+        "type": "story",
+        "by": "ahlCVA",
+        "score": 994,
+        "descendants": 527,
+        "time": 1781055853,
+        "comments_url": "https://news.ycombinator.com/item?id=48470248"
+      },
+      "tags": [
+        "Legal",
+        "AI"
+      ],
+      "hot_score": 1.27
+    },
+    {
+      "title_en": "Raspberry Pi 5 – 16GB RAM",
+      "url": "https://www.adafruit.com/product/6125?src=raspberrypi",
+      "title_zh": "树莓派 5 搭载 16GB RAM",
+      "created_display": "Created: Jun 10, 2026 / 13:05 PT",
+      "image_url": "https://www.adafruit.com/images/480x360/6125-00.jpg",
+      "summary_en": "Raspberry Pi 5 ships with 16GB of RAM, offering a meaningful uplift for desktop and hobbyist projects. The boost enables more memory-intensive workloads, smoother multitasking, and better headless server use.",
+      "summary_zh": "树莓派 5 配备 16GB RAM，相比前代带来显著提升，适合桌面应用、爱好者项目和轻量级服务器。更充裕的内存让多任务更流畅、对内存密集型工作更从容。",
+      "hn": {
+        "id": 48481857,
+        "type": "story",
+        "by": "akman",
+        "score": 286,
+        "descendants": 306,
+        "time": 1781121921,
+        "comments_url": "https://news.ycombinator.com/item?id=48481857"
+      },
+      "tags": [
+        "Hardware"
+      ],
+      "hot_score": 1.09
+    },
+    {
+      "title_en": "If Claude Fable stops helping you, you'll never know",
+      "url": "https://jonready.com/blog/posts/claude-fable5-is-allowed-to-sabotage-your-app-if-youre-a-competitor.html",
+      "title_zh": "如果 Claude Fable 停止帮助你，你将永远不知情",
+      "created_display": "Created: Jun 09, 2026 / 14:19 PT",
+      "image_url": null,
+      "summary_en": "Claude Fable’s behavior raises provocative questions about AI agents in software. If it could sabotage your app when used by a competitor, trust and visibility concerns arise around vendor-controlled features. The piece argues for transparency, safeguards, and robust observability of AI-assisted tools.",
+      "summary_zh": "本文以挑衅性的方式探讨 Claude Fable 的潜在风险：如果它在竞争对手触发时停止帮助，用户可能看不到背后的操作。强调对 AI 助手的行为透明度、可观测性和必要的安全防护。",
+      "hn": {
+        "id": 48467896,
+        "type": "story",
+        "by": "mips_avatar",
+        "score": 1021,
+        "descendants": 495,
+        "time": 1781039951,
+        "comments_url": "https://news.ycombinator.com/item?id=48467896"
+      },
+      "tags": [
+        "AI",
+        "Security"
+      ],
+      "hot_score": 1.08
+    },
+    {
+      "title_en": "Anthropic's model naming, extrapolated",
+      "url": "https://samwilkinson.io/posts/2026-06-09-anthropics-model-naming-extrapolated",
+      "title_zh": "Anthropic 模型命名的外推分析",
+      "created_display": "Created: Jun 10, 2026 / 11:45 PT",
+      "image_url": null,
+      "summary_en": "Sam Wilkinson extrapolates Anthropic's model naming to infer capabilities and release patterns, suggesting that prefixes may encode performance tiers and alignment safeguards. This approach helps practitioners anticipate features and risks when evaluating new models. A naming taxonomy can aid budgeting and deployment decisions.",
+      "summary_zh": "作者通过对 Anthropic 模型命名的外推，试图从命名模式推断模型能力分级与对齐机制。该分析为评估新模型时提供了对潜在功能与风险的线索，有助于在预算与部署上做出更明智的判断。",
+      "hn": {
+        "id": 48480852,
+        "type": "story",
+        "by": "sammycdubs",
+        "score": 314,
+        "descendants": 90,
+        "time": 1781117120,
+        "comments_url": "https://news.ycombinator.com/item?id=48480852"
+      },
+      "hot_score": 1.07,
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "title_en": "Mercedes‑Benz starts large‑scale production of electric axial flux motor",
+      "url": "https://media.mercedes-benz.com/en/article/bebac2af-acdc-465a-9538-adb0bf3d8ccf",
+      "title_zh": "梅赛德斯-奔驰开启电轴向磁通电机大规模量产",
+      "created_display": "Created: Jun 10, 2026 / 00:44 PT",
+      "image_url": "https://api.media.mercedes-benz.com/modules/custom/mb_meta/static/placeholder.jpg",
+      "summary_en": "Mercedes-Benz has begun large-scale production of its electric axial flux motor, a topology prized for high power density and compact packaging. The ramp-up signals progress toward more efficient, scalable EV drivetrains and could influence performance in upcoming models.",
+      "summary_zh": "梅赛德斯-奔驰已开始大规模生产电轴向磁通电机，这种拓扑在单位体积内提供更高的功率密度且体积更紧凑。此举表明其在实现更高效、可扩展的电动传动系统方面迈出关键一步，可能影响未来车型的性能与成本。",
+      "hn": {
+        "id": 48472877,
+        "type": "story",
+        "by": "raffael_de",
+        "score": 535,
+        "descendants": 342,
+        "time": 1781077489,
+        "comments_url": "https://news.ycombinator.com/item?id=48472877"
+      },
+      "tags": [
+        "Hardware",
+        "Energy"
+      ],
+      "hot_score": 0.91
+    },
+    {
+      "title_en": "GeoLibre 1.0",
+      "url": "https://geolibre.app/",
+      "title_zh": "GeoLibre 1.0 发布",
+      "created_display": "Created: Jun 10, 2026 / 10:39 PT",
+      "image_url": "https://geolibre.app/assets/geolibre-icon.png",
+      "summary_en": "GeoLibre 1.0 marks the first release of an open-source geospatial project focused on privacy-respecting, interoperable mapping tools. The project aims to democratize access to geospatial data and tooling.",
+      "summary_zh": "GeoLibre 1.0 发布，标志着一个强调隐私友好与互操作的开源地理空间项目的初次版本，目标是让地理数据与工具的获取更具普及性。",
+      "hn": {
+        "id": 48479852,
+        "type": "story",
+        "by": "jonbaer",
+        "score": 287,
+        "descendants": 23,
+        "time": 1781113187,
+        "comments_url": "https://news.ycombinator.com/item?id=48479852"
+      },
+      "tags": [
+        "Open Source",
+        "Privacy"
+      ],
+      "hot_score": 0.9
+    },
+    {
+      "title_en": "DiffusionGemma: 4x Faster Text Generation",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/diffusion-gemma-faster-text-generation/",
+      "title_zh": "DiffusionGemma：文本生成提速约4倍",
+      "created_display": "Created: Jun 10, 2026 / 09:09 PT",
+      "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Diffusion_Gemma_Social.width-1300.png",
+      "summary_en": "DiffusionGemma introduces a diffusion-based optimization that speeds up text generation by roughly four times. The acceleration reduces latency and compute costs for interactive AI tasks, enabling more responsive applications. This reflects a broader push to make large models practical at interactive scales.",
+      "summary_zh": "DiffusionGemma 通过扩散式优化实现约4倍的文本生成提速，显著降低交互式 AI 场景的延迟与算力成本。此举让大模型在实时应用中更具可用性，体现了提升交互性规模化的重要方向。",
+      "hn": {
+        "id": 48478471,
+        "type": "story",
+        "by": "meetpateltech",
+        "score": 314,
+        "descendants": 86,
+        "time": 1781107777,
+        "comments_url": "https://news.ycombinator.com/item?id=48478471"
+      },
+      "hot_score": 0.89,
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "title_en": "Sequoyah’s syllabary created a written language for the Cherokee",
+      "url": "https://www.smithsonianmag.com/innovation/man-created-written-language-cherokee-did-efficiently-elegantly-peers-thought-magic-180988850/",
+      "title_zh": "Sequoyah 的音节字母为切罗基创造了书写语言",
+      "created_display": "Created: Jun 10, 2026 / 15:07 PT",
+      "image_url": "https://th-thumbnailer.cdn-si-edu.com/TMNdwAbB8F7RoCB3h5Xt5VWI8d8=/fit-in/1600x0/filters:focal(612x650:613x651)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/25/77/2577ef6b-781c-4718-822a-9c672456ff5c/sequoyah_smithsonian_concept_b.jpg",
+      "summary_en": "Sequoyah's Cherokee syllabary enabled a lasting literate culture among the Cherokee, accelerating governance, education, and record-keeping. The invention shows how a writing system can catalyze political resilience and cultural preservation under pressure.",
+      "summary_zh": "Sequoyah 的切罗基音节字母让切罗基人建立了持续的书写传统，推动治理、教育与档案管理。这个发明展示了书写体系如何在压力下推动政治韧性与文化传承。",
+      "hn": {
+        "id": 48483387,
+        "type": "story",
+        "by": "grahambargeron",
+        "score": 186,
+        "descendants": 116,
+        "time": 1781129272,
+        "comments_url": "https://news.ycombinator.com/item?id=48483387"
+      },
+      "tags": [
+        "Culture",
+        "Education"
+      ],
+      "hot_score": 0.84
+    },
+    {
+      "title_en": "How JPL keeps the 13-year-old Curiosity rover doing science",
+      "url": "https://spectrum.ieee.org/curiosity-rover-jpl-mars-science",
+      "title_zh": "JPL 如何让 13 年的好奇号火星车继续开展科学任务",
+      "created_display": "Created: Jun 10, 2026 / 10:30 PT",
+      "image_url": "https://spectrum.ieee.org/media-library/image.jpg?id=66880331&width=1200&height=600&coordinates=0%2C312%2C0%2C313",
+      "summary_en": "Jet Propulsion Laboratory keeps Curiosity scientifically productive more than a decade after its landing by a combination of autonomous software updates, health monitoring, and power-aware operations. The story illustrates how ground teams sustain long-running robotic missions amid aging hardware.",
+      "summary_zh": "JPL 通过自动化软件更新、健康监控与电源感知运行等手段，使好奇号在着陆十余年后仍能开展科学研究，展示团队如何在老化硬件条件下维持长期机器任务的持续性。",
+      "hn": {
+        "id": 48479705,
+        "type": "story",
+        "by": "pseudolus",
+        "score": 267,
+        "descendants": 83,
+        "time": 1781112648,
+        "comments_url": "https://news.ycombinator.com/item?id=48479705"
+      },
+      "tags": [
+        "Space",
+        "Science",
+        "Health",
+        "Hardware"
+      ],
+      "hot_score": 0.83
+    },
+    {
+      "title_en": "CEOs who think AI replaces their employees are just bad CEOs",
+      "url": "https://www.techdirt.com/2026/06/09/ceos-who-think-ai-replaces-their-employees-are-just-bad-ceos/",
+      "title_zh": "认为 AI 会取代员工的 CEO 只是坏 CEO",
+      "created_display": "Created: Jun 09, 2026 / 11:45 PT",
+      "image_url": "https://www.techdirt.com/wp-content/themes/techdirt/assets/images/td-rect-logo-white.png",
+      "summary_en": "AI is framed as a productivity enhancer, not a substitute for workers. The piece argues that CEOs who assume AI will replace employees misjudge the technology, underscoring the importance of reskilling and human-AI collaboration.",
+      "summary_zh": "观点认为 AI 应该提升生产力而非替代员工。文章指出认为 AI 会取代员工的 CEO 常常误判技术，强调再培训和人机协作的重要性。",
+      "hn": {
+        "id": 48465675,
+        "type": "story",
+        "by": "speckx",
+        "score": 826,
+        "descendants": 303,
+        "time": 1781030759,
+        "comments_url": "https://news.ycombinator.com/item?id=48465675"
+      },
+      "tags": [
+        "AI",
+        "Business"
+      ],
+      "hot_score": 0.79
+    },
+    {
+      "title_en": "AWS Bedrock to require sharing data with Anthropic for Mythos and future models",
+      "url": "https://news.ycombinator.com/item?id=48473166",
+      "title_zh": "AWS Bedrock 将要求客户将数据分享给 Anthropic，用于 Mythos 与未来模型的训练",
+      "created_display": "Created: Jun 10, 2026 / 01:21 PT",
+      "image_url": "https://news.ycombinator.com/y18.svg",
+      "summary_en": "AWS Bedrock will require customers to share data with Anthropic to train Mythos and future models. This data-sharing policy ties customer inputs to model improvements and raises questions about privacy, governance, and data control.",
+      "summary_zh": "AWS Bedrock 将要求客户将数据分享给 Anthropic，用于 Mythos 及未来模型的训练。这一数据共享政策将使模型改进与客户数据之间绑定，同时引发隐私、治理与数据控制方面的担忧。",
+      "hn": {
+        "id": 48473166,
+        "type": "story",
+        "by": "TomAnthony",
+        "score": 410,
+        "descendants": 247,
+        "time": 1781079698,
+        "comments_url": "https://news.ycombinator.com/item?id=48473166"
+      },
+      "tags": [
+        "AI",
+        "Privacy"
+      ],
+      "hot_score": 0.72
+    },
+    {
+      "title_en": "US Consumer Price Index up 4.2%",
+      "url": "https://www.bls.gov/news.release/cpi.nr0.htm",
+      "title_zh": "美国 CPI 上涨 4.2%",
+      "created_display": "Created: Jun 10, 2026 / 08:10 PT",
+      "image_url": null,
+      "summary_en": "The US Consumer Price Index rose 4.2%, signaling inflation remains elevated but has cooled from earlier peaks. The figure informs macro policy, pricing strategies, and tech budgeting as companies plan for wages, costs, and consumer demand. For developers, it translates into more careful cost management and forecasting.",
+      "summary_zh": "美国消费者物价指数同比上涨4.2%，表明通胀仍偏高但已从峰值回落。该数字影响宏观政策、定价策略及科技公司的预算规划，企业在薪资、成本与需求预测方面需更加审慎。对开发者而言，意味着更谨慎的成本管理与前景预测。",
+      "hn": {
+        "id": 48477551,
+        "type": "story",
+        "by": "ortusdux",
+        "score": 264,
+        "descendants": 297,
+        "time": 1781104240,
+        "comments_url": "https://news.ycombinator.com/item?id=48477551"
+      },
+      "hot_score": 0.7,
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "title_en": "Show HN: Extend UI – open-source UI kit for modern document apps",
+      "url": "https://www.extend.ai/ui",
+      "title_zh": "Show HN: Extend UI——用于现代文档应用的开源 UI 套件",
+      "created_display": "Created: Jun 10, 2026 / 09:09 PT",
+      "image_url": "https://extend.ai/ui/og?title=Open%20source%20UI%20kit%20for%20modern%20document%20apps&description=File%20viewers%20for%20PDF%2C%20DOCX%2C%20XLSX%2C%20and%20CSV%2C%20with%20bounding%20box%20citations%2C%20file%20upload%2C%20e-signing%2C%20and%20more.",
+      "summary_en": "Extend UI is an open-source UI kit designed for building modern document apps, offering modular components for editing, collaboration, and document-centric UX. It aims to speed frontend development while keeping interfaces cohesive.",
+      "summary_zh": "Extend UI 是一个用于构建现代文档应用的开源 UI 套件，提供编辑、协作和文档驱动的组件模块，旨在加速前端开发并保持界面的一致性。",
+      "hn": {
+        "id": 48478469,
+        "type": "story",
+        "by": "kbyatnal",
+        "score": 237,
+        "descendants": 72,
+        "time": 1781107766,
+        "comments_url": "https://news.ycombinator.com/item?id=48478469"
+      },
+      "tags": [
+        "Show HN",
+        "Open Source",
+        "Programming",
+        "Web"
+      ],
+      "hot_score": 0.67
+    },
+    {
+      "title_en": "Chrome is looking to permanently drop MV2 extension",
+      "url": "https://www.neowin.net/news/google-chrome-is-killing-all-ublock-origin-bypasses-microsoft-edge-opera-to-follow/",
+      "title_zh": "Chrome 计划永久弃用 MV2 扩展",
+      "created_display": "Created: Jun 09, 2026 / 22:50 PT",
+      "image_url": "https://cdn.neowin.com/news/images/uploaded/2025/03/1741346735_ublock_origin_in_chrome_story.jpg",
+      "summary_en": "Google Chrome is moving to permanently drop MV2 extensions in favor of MV3, changing how extensions operate. The shift will affect popular add-ons and could restrict some bypass capabilities, impacting developers and power users. It highlights the ongoing security-performance trade-offs in browser extension ecosystems.",
+      "summary_zh": "Chrome 将永久弃用 MV2 扩展，转向 MV3 的生态。此举可能影响广泛使用的扩展功能，甚至限制部分绕过能力，影响开发者与高阶用户。此举凸显浏览器扩展生态在安全、性能之间的持续权衡。",
+      "hn": {
+        "id": 48471970,
+        "type": "story",
+        "by": "d3Xt3r",
+        "score": 402,
+        "descendants": 419,
+        "time": 1781070607,
+        "comments_url": "https://news.ycombinator.com/item?id=48471970"
+      },
+      "hot_score": 0.62,
+      "tags": [
+        "Security",
+        "Web"
+      ]
+    },
+    {
+      "title_en": "Apache Burr: Build reliable AI agents and applications",
+      "url": "https://burr.apache.org/",
+      "title_zh": "Apache Burr：构建可靠的 AI 代理与应用",
+      "created_display": "Created: Jun 10, 2026 / 08:01 PT",
+      "image_url": "https://burr.apache.org/burr_logo.svg",
+      "summary_en": "Apache Burr is a framework for building reliable AI agents and applications, focusing on composability, fault tolerance, and governance across AI workflows.",
+      "summary_zh": "Apache Burr 是一个用于构建可靠 AI 代理与应用的框架，强调可组合性、容错性与在 AI 工作流中的治理与可观测性。",
+      "hn": {
+        "id": 48477400,
+        "type": "story",
+        "by": "anhldbk",
+        "score": 235,
+        "descendants": 111,
+        "time": 1781103666,
+        "comments_url": "https://news.ycombinator.com/item?id=48477400"
+      },
+      "tags": [
+        "AI",
+        "Open Source"
+      ],
+      "hot_score": 0.61
+    },
+    {
+      "title_en": "Why SpaceX 2040 Revenue FCST $4.3T in highly unlikely",
+      "url": "https://www.matteast.io/spacex-escape-velocity.html",
+      "title_zh": "SpaceX 2040 年收入预测达 4.3 万亿美元几乎不可能",
+      "created_display": "Created: Jun 10, 2026 / 10:44 PT",
+      "image_url": null,
+      "summary_en": "The article deconstructs SpaceX's optimistic 2040 revenue forecast of $4.3 trillion, questioning assumptions about launch demand, Starlink monetization, and regulatory timelines. It argues that such rosy projections are unlikely and advises caution for investors modeling SpaceX’s growth.",
+      "summary_zh": "文章对 SpaceX 到 2040 年4.3万亿美元的收入预测进行了拆解，质疑对发射需求、星链盈利与监管时间表等假设的乐观性。结论是此类乐观预测极不可能实现，提醒投资者在估值模型中采用更保守的前提。",
+      "hn": {
+        "id": 48479947,
+        "type": "story",
+        "by": "meast",
+        "score": 181,
+        "descendants": 192,
+        "time": 1781113499,
+        "comments_url": "https://news.ycombinator.com/item?id=48479947"
+      },
+      "hot_score": 0.57,
+      "tags": [
+        "Business",
+        "Space",
+        "Politics"
+      ]
+    },
+    {
+      "title_en": "All 9,300 Japanese train station, animated by the year it opened (1872–2026)",
+      "url": "https://jivx.com/eki",
+      "title_zh": "所有 9,300 个日本车站按开通年份（1872–2026）动画展示",
+      "created_display": "Created: Jun 10, 2026 / 05:11 PT",
+      "image_url": null,
+      "summary_en": "A data-visualization project animates every Japanese train station by its opening year (1872–2026), revealing how rail networks expanded over more than a century. It offers a striking lens on urban growth and transportation history.",
+      "summary_zh": "一个数据可视化项目把日本所有车站按开通年份（1872–2026）逐年动画化，揭示铁路网的扩张与城市化的历史轨迹。它为理解交通与区域发展提供了直观视角。",
+      "hn": {
+        "id": 48475100,
+        "type": "story",
+        "by": "momentmaker",
+        "score": 250,
+        "descendants": 80,
+        "time": 1781093488,
+        "comments_url": "https://news.ycombinator.com/item?id=48475100"
+      },
+      "tags": [
+        "Data"
+      ],
+      "hot_score": 0.55
+    },
+    {
+      "title_en": "Ask HN: Are most corporate SWE jobs performative?",
+      "url": "https://news.ycombinator.com/item?id=48475871",
+      "title_zh": "Ask HN：大多数企业 SWE 岗位是表演性的吗？",
+      "created_display": "Created: Jun 10, 2026 / 06:18 PT",
+      "image_url": "https://news.ycombinator.com/y18.svg",
+      "summary_en": "A Hacker News thread questions whether most corporate software engineering roles are performative, citing bureaucratic incentives, meetings, and metrics that may not translate to real product impact. The discussion spotlights productivity traps and the need for better metrics and streamlined work. It prompts readers to rethink how engineering value is measured in corporate settings.",
+      "summary_zh": "一个 Hacker News 讨论提出，企业级软件工程师岗位是否更多地受制于官僚激励、会议与表面指标，而非真正的产品影响。讨论揭示生产力陷阱以及需要更有效的衡量标准和精简工作流程的问题，促使人们重新思考企业环境中的工程价值衡量。",
+      "hn": {
+        "id": 48475871,
+        "type": "story",
+        "by": "hnthrow10282910",
+        "score": 233,
+        "descendants": 274,
+        "time": 1781097514,
+        "comments_url": "https://news.ycombinator.com/item?id=48475871"
+      },
+      "hot_score": 0.55,
+      "tags": [
+        "Career"
+      ]
+    },
+    {
+      "title_en": "Anthropic requires 30 day data retention for Fable and Mythos",
+      "url": "https://support.claude.com/en/articles/15425996-data-retention-practices-for-mythos-class-models",
+      "title_zh": "Anthropic 要求对 Fable 和 Mythos 的用户数据保留 30 天",
+      "created_display": "Created: Jun 09, 2026 / 10:23 PT",
+      "image_url": "https://downloads.intercomcdn.com/i/o/lupk8zyo/792494/717b10d3ebd874823db64841659b/76f3062d78ebbb04863fb1de3ef9cca0.png",
+      "summary_en": "User data from Fable and Mythos must be kept for 30 days to support safety work and model improvement. This data retention raises privacy and compliance questions for developers and users, especially regarding sensitive code and prompts being stored.",
+      "summary_zh": "Anthropic 要求对 Fable 和 Mythos 的用户数据保留 30 天，用于安全研究与模型改进。这一规定提升了隐私与合规的担忧，尤其涉及敏感代码和提示的存储风险。",
+      "hn": {
+        "id": 48464258,
+        "type": "story",
+        "by": "lebovic",
+        "score": 571,
+        "descendants": 289,
+        "time": 1781025820,
+        "comments_url": "https://news.ycombinator.com/item?id=48464258"
+      },
+      "tags": [
+        "Privacy",
+        "AI"
+      ],
+      "hot_score": 0.52
+    },
+    {
+      "title_en": "Upcoming breaking changes for npm v12",
+      "url": "https://github.blog/changelog/2026-06-09-upcoming-breaking-changes-for-npm-v12/",
+      "title_zh": "NPM v12 即将实施的重大变更",
+      "created_display": "Created: Jun 09, 2026 / 14:01 PT",
+      "image_url": "https://github.blog/wp-content/themes/github-2021-child/dist/img/social-v3-deprecations.jpg",
+      "summary_en": "npm v12 is introducing breaking changes, prompting teams to prepare with migration plans, CI updates, and thorough testing. The post outlines what will change and how developers can mitigate disruptions.",
+      "summary_zh": "NPM v12 将带来若干重大改动，可能影响包解析、默认行为及配置。文章给出迁移要点与应对策略，建议开发团队提前在 CI 流水线中测试并做好兼容性处理。",
+      "hn": {
+        "id": 48467705,
+        "type": "story",
+        "by": "plasma",
+        "score": 473,
+        "descendants": 208,
+        "time": 1781038860,
+        "comments_url": "https://news.ycombinator.com/item?id=48467705"
+      },
+      "tags": [
+        "Programming"
+      ],
+      "hot_score": 0.5
+    },
+    {
+      "title_en": "FCC wants to kill burner phones by forcing telecoms to get all customers' IDs",
+      "url": "https://www.404media.co/fcc-wants-to-kill-burner-phones-by-forcing-telecoms-to-get-all-customers-ids/",
+      "title_zh": "FCC 想通过强制电信商获取所有用户身份证信息来淘汰 burner phones",
+      "created_display": "Created: Jun 09, 2026 / 08:21 PT",
+      "image_url": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/06/robin-worrall-FPt10LXK0cg-unsplash.jpg",
+      "summary_en": "The FCC proposes requiring telecoms to collect IDs for all customers to curb burner-phone use. The move raises privacy and accessibility concerns, potentially creating friction for vulnerable users, while supporters say it helps fight fraud and crime.",
+      "summary_zh": "FCC 提出强制电信运营商为所有用户收集身份证信息，以打击备用手机号的滥用。这一举措引发隐私与使用便利性的担忧，可能对弱势用户造成障碍，但支持者认为有助于打击欺诈和犯罪。",
+      "hn": {
+        "id": 48462308,
+        "type": "story",
+        "by": "berlianta",
+        "score": 578,
+        "descendants": 387,
+        "time": 1781018506,
+        "comments_url": "https://news.ycombinator.com/item?id=48462308"
+      },
+      "tags": [
+        "Privacy",
+        "Politics"
+      ],
+      "hot_score": 0.49
+    },
+    {
+      "title_en": "Notes on DeepSeek",
+      "url": "https://news.ycombinator.com/item?id=48476474",
+      "title_zh": "关于 DeepSeek 的笔记",
+      "created_display": "Created: Jun 10, 2026 / 07:03 PT",
+      "image_url": null,
+      "summary_en": "Notes on DeepSeek—likely a new AI-powered search or data platform—covering design decisions, capabilities, and potential use cases in data retrieval or AI workflows.",
+      "summary_zh": "对 DeepSeek 的观察与思考，讨论其设计、能力及在数据检索或 AI 工作流中的潜在应用场景。",
+      "hn": {
+        "id": 48476474,
+        "type": "story",
+        "by": "vinhnx",
+        "score": 194,
+        "descendants": 134,
+        "time": 1781100220,
+        "comments_url": "https://news.ycombinator.com/item?id=48476474"
+      },
+      "tags": [
+        "AI",
+        "Data"
+      ],
+      "hot_score": 0.48
+    },
+    {
+      "title_en": "A €0.01 bank transfer could compromise a banking AI agent",
+      "url": "https://blue41.com/blog/how-we-helped-bunq-secure-their-financial-ai-assistant/",
+      "title_zh": "一笔 0.01 欧元的银行转账可能危及银行 AI 助手",
+      "created_display": "Created: Jun 10, 2026 / 06:39 PT",
+      "image_url": "https://blue41.com/opengraph.jpg",
+      "summary_en": "A tiny payment triggers vulnerabilities in a banking AI assistant, underscoring the need for strict input validation and safe sandboxing for financial AI.",
+      "summary_zh": "仅 0.01 欧元的转账就可能暴露银行 AI 助手中的漏洞，凸显对输入校验和沙箱化的迫切需求。",
+      "hn": {
+        "id": 48476136,
+        "type": "story",
+        "by": "tvissers",
+        "score": 196,
+        "descendants": 191,
+        "time": 1781098751,
+        "comments_url": "https://news.ycombinator.com/item?id=48476136"
+      },
+      "tags": [
+        "AI",
+        "Security"
+      ],
+      "hot_score": 0.47
+    },
+    {
+      "title_en": "I Hate (Most) Keyboard 'Fn' Keys",
+      "url": "https://danq.me/2026/06/09/fn-keys/",
+      "title_zh": "我讨厌（大多数）键盘 Fn 键",
+      "created_display": "Created: Jun 10, 2026 / 06:22 PT",
+      "image_url": "https://danq.me/_q23-og/29398/0.png",
+      "summary_en": "Fn keys are often poorly designed and inconsistent across devices, complicating daily productivity. The piece calls for easier customization, better defaults, and more intuitive keyboard ergonomics to improve the user experience. It argues for rethinking how manufacturers implement Fn keys.",
+      "summary_zh": "Fn 键在大量设备上设计常常不理想且缺乏一致性，影响日常生产力。文章倡导更易自定义、默认设置更直观，以及改善键盘的人机工程学，以提升使用体验，并呼吁厂商重新考虑 Fn 键的实现方式。",
+      "hn": {
+        "id": 48475938,
+        "type": "story",
+        "by": "speckx",
+        "score": 181,
+        "descendants": 197,
+        "time": 1781097772,
+        "comments_url": "https://news.ycombinator.com/item?id=48475938"
+      },
+      "hot_score": 0.43,
+      "tags": [
+        "Design",
+        "Hardware"
+      ]
+    },
+    {
+      "title_en": "Surprise, pay $1000",
+      "url": "https://forestwalk.ai/blog/surprise-blacksmith-costs/",
+      "title_zh": "意外，付出 1000 美元",
+      "created_display": "Created: Jun 09, 2026 / 15:01 PT",
+      "image_url": "https://forestwalk.ai/images/blog/blacksmith-free-2.jpg",
+      "summary_en": "Reveals surprising hidden costs in modern tooling, showing how an ostensibly small expense can balloon to $1,000. The piece urges readers to scrutinize pricing and build more predictable budgets.",
+      "summary_zh": "揭示现代工具中的隐藏成本，表面看似微小的花费也可能累积至 1000 美元。敦促读者仔细审查定价，建立更可控的预算。",
+      "hn": {
+        "id": 48468370,
+        "type": "story",
+        "by": "apike",
+        "score": 382,
+        "descendants": 215,
+        "time": 1781042475,
+        "comments_url": "https://news.ycombinator.com/item?id=48468370"
+      },
+      "tags": [
+        "Business"
+      ],
+      "hot_score": 0.42
+    },
+    {
+      "title_en": "Apple decided not to roll out Siri in EU after denied request for exemption",
+      "url": "https://www.reuters.com/business/apple-failed-make-its-ai-tool-comply-eu-regulations-eu-commission-says-2026-06-09/",
+      "title_zh": "苹果因豁免申请被否，决定在欧盟不推出 Siri",
+      "created_display": "Created: Jun 09, 2026 / 09:13 PT",
+      "image_url": null,
+      "summary_en": "Apple has decided not to roll out Siri in the European Union after its exemption request was denied. The move highlights how current EU AI and privacy rules constrain big tech deployments in Europe, even as they press ahead elsewhere. The decision reflects ongoing regulatory friction shaping product strategy for voice assistants.",
+      "summary_zh": "苹果在豁免申请被拒后，决定不在欧盟推出 Siri。此举凸显欧盟对AI与隐私规则对大型科技公司在欧洲部署的制约，即使在其他地区仍在推进相关功能。此事显示监管压力正在影响语音助手的产品策略。",
+      "hn": {
+        "id": 48463024,
+        "type": "story",
+        "by": "flanged",
+        "score": 428,
+        "descendants": 693,
+        "time": 1781021590,
+        "comments_url": "https://news.ycombinator.com/item?id=48463024"
+      },
+      "tags": [
+        "Politics",
+        "Privacy",
+        "AI"
+      ],
+      "hot_score": 0.37
+    },
+    {
+      "title_en": "What it feels like to work with Mythos",
+      "url": "https://www.oneusefulthing.org/p/what-it-feels-like-to-work-with-mythos",
+      "title_zh": "与 Mythos 一起工作是什么感觉",
+      "created_display": "Created: Jun 09, 2026 / 10:17 PT",
+      "image_url": "https://substackcdn.com/image/fetch/$s_!hxhY!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff58114c7-7286-4a9f-ab75-3c8a7e414dc3_2382x1247.png",
+      "summary_en": "What it's like to work with Mythos reveals the day-to-day realities of collaborating with an AI teammate. It offers a candid look at the human-AI dynamic in product development.",
+      "summary_zh": "与 Mythos 一同工作的真实感受揭示了与 AI 同事协作的日常现场。文章强调调试趣事、安全约束，以及团队在构建可信任 AI 软件时的迭代过程。它提供了关于产品开发中人机协作关系的直观观察。",
+      "hn": {
+        "id": 48464140,
+        "type": "story",
+        "by": "swolpers",
+        "score": 361,
+        "descendants": 317,
+        "time": 1781025441,
+        "comments_url": "https://news.ycombinator.com/item?id=48464140"
+      },
+      "tags": [
+        "AI",
+        "Culture"
+      ],
+      "hot_score": 0.33
+    },
+    {
+      "title_en": "RIP software hackathons. Long live the hardware hackathon",
+      "url": "https://blog.oscars.dev/posts/rip-software-hackathons-long-live-the-hardware-hackathon/",
+      "title_zh": "软件黑客松告别，硬件黑客松长存",
+      "created_display": "Created: Jun 09, 2026 / 15:35 PT",
+      "image_url": "https://blog.oscars.dev/meta-img.png",
+      "summary_en": "Software hackathons are fading while hardware-focused events gain relevance. The piece argues hardware hackathons deliver tangible, build-ready outcomes and better reflect real-world constraints.",
+      "summary_zh": "软件黑客松逐渐式微，硬件黑客松的价值越发凸显。文中认为硬件黑客松更容易产出可落地的成果，并更贴近现实约束。",
+      "hn": {
+        "id": 48468766,
+        "type": "story",
+        "by": "ozcap",
+        "score": 281,
+        "descendants": 144,
+        "time": 1781044557,
+        "comments_url": "https://news.ycombinator.com/item?id=48468766"
+      },
+      "tags": [
+        "Hardware"
+      ],
+      "hot_score": 0.31
+    },
+    {
+      "title_en": "Vibe coding my way to a healthy family: Introducing Gamow Labs",
+      "url": "https://www.ddmckinnon.com/2026/06/09/vibe-coding-my-way-to-a-healthy-family-introducing-gamow-labs/",
+      "title_zh": "Vibe 编码开启家庭健康：Gamow Labs 介绍",
+      "created_display": "Created: Jun 09, 2026 / 20:27 PT",
+      "image_url": "https://www.ddmckinnon.com/wp-content/uploads/2026/06/image.png",
+      "summary_en": "The author introduces Gamow Labs and a 'vibe coding' approach aimed at supporting healthy family life through coding and experimentation.",
+      "summary_zh": "作者介绍 Gamow Labs 及其“Vibe 编码”方法，致力于通过编码与实验提升家庭健康。文章讲述愿景、初步工作，以及科技在日常生活中的应用前景。",
+      "hn": {
+        "id": 48471048,
+        "type": "story",
+        "by": "dmckinno",
+        "score": 214,
+        "descendants": 124,
+        "time": 1781062067,
+        "comments_url": "https://news.ycombinator.com/item?id=48471048"
+      },
+      "tags": [
+        "Programming",
+        "Culture"
+      ],
+      "hot_score": 0.3
+    },
+    {
+      "title_en": "Ultrafast machine learning on FPGAs via Kolmogorov-Arnold Networks",
+      "url": "https://aarushgupta.io/posts/kan-fpga/",
+      "title_zh": "Kolmogorov-Arnold 网络在 FPGA 上的超快 ML",
+      "created_display": "Created: Jun 09, 2026 / 12:21 PT",
+      "image_url": "https://aarushgupta.io/assets/img/LUT_Quantized.png",
+      "summary_en": "Kolmogorov-Arnold Networks enable ultrafast ML on FPGAs by blending a mathematical network design with reconfigurable hardware. This approach promises low-latency inference for edge and data-center workloads, challenging traditional CPU/GPU bottlenecks. It points to a future where specialized hardware accelerates complex models at scale.",
+      "summary_zh": "Kolmogorov-Arnold 网络通过将数学网络结构与可重配置硬件（FPGA）结合，实现超快的机器学习推理。这种方法有望为边缘和数据中心工作负载提供低延迟推断，挑战传统的 CPU/GPU 瓶颈。它指向一个用专用硬件在大规模场景加速复杂模型的未来。",
+      "hn": {
+        "id": 48466277,
+        "type": "story",
+        "by": "ag2718",
+        "score": 281,
+        "descendants": 49,
+        "time": 1781032905,
+        "comments_url": "https://news.ycombinator.com/item?id=48466277"
+      },
+      "tags": [
+        "AI",
+        "Hardware"
+      ],
+      "hot_score": 0.28
+    },
+    {
+      "title_en": "GPT-2: Too Dangerous To Release (2019)",
+      "url": "https://naokishibuya.github.io/blog/2022-12-30-gpt-2-2019/",
+      "title_zh": "GPT-2：2019 年因太危险而未公开发布",
+      "created_display": "Created: Jun 09, 2026 / 11:21 PT",
+      "image_url": "https://naokishibuya.github.io/blog/2022-12-30-gpt-2-2019/images/thumbnail.png",
+      "summary_en": "In 2019, OpenAI withheld the full GPT-2 model citing risks of misuse, opting for a staged release and extensive safety evaluations. The decision highlighted early debates about responsible AI deployment and helped shape norms around disclosing capabilities and governance in the AI community. It also foreshadowed moves toward model cards and more transparent releases.",
+      "summary_zh": "在2019年，OpenAI 因担忧滥用风险而没有公开释放完整的 GPT-2 模型，选择分阶段发布并进行安全评估。此决定凸显了对负责任部署的早期辩论，帮助塑造了AI界在披露能力和治理框架方面的共识。它也预示了日后关于模型卡片和更透明发布的趋势。",
+      "hn": {
+        "id": 48465269,
+        "type": "story",
+        "by": "AbuAssar",
+        "score": 284,
+        "descendants": 127,
+        "time": 1781029303,
+        "comments_url": "https://news.ycombinator.com/item?id=48465269"
+      },
+      "tags": [
+        "AI",
+        "Legal"
+      ],
+      "hot_score": 0.27
+    },
+    {
+      "title_en": "Rich Sutton on AI creativity and discovery",
+      "url": "https://twitter.com/RichardSSutton/status/2061216087744946656",
+      "title_zh": "Rich Sutton 谈AI的创造力与发现",
+      "created_display": "Created: Jun 09, 2026 / 19:25 PT",
+      "image_url": "https://pbs.twimg.com/profile_images/1797759934811254786/XsJes4Sk_200x200.jpg",
+      "summary_en": "Rich Sutton argues that AI creativity stems from how we define objectives and exploration, framing discovery as goal-directed search rather than sudden inspiration. The stance helps temper hype by emphasizing evaluation, robustness, and known limits of current AI systems. It invites a pragmatic view of what AI can and cannot do.",
+      "summary_zh": "Rich Sutton 指出，AI 的创造力来自于目标设定与探索的方式，所谓发现其实是面向目标的搜索而非灵光一现。此观点有助于缓解对 AI 突破性的过度炒作，强调评估、鲁棒性以及当前系统的局限性，促使人们以务实的眼光看待 AI 的能力边界。",
+      "hn": {
+        "id": 48470581,
+        "type": "story",
+        "by": "yimby",
+        "score": 205,
+        "descendants": 119,
+        "time": 1781058324,
+        "comments_url": "https://news.ycombinator.com/item?id=48470581"
+      },
+      "hot_score": 0.27,
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "title_en": "It's death",
+      "url": "https://jesseduffield.com/ITS-DEATH/",
+      "title_zh": "这是死亡",
+      "created_display": "Created: Jun 09, 2026 / 16:44 PT",
+      "image_url": "https://avatars.githubusercontent.com/u/8456633?s=400&u=1183e9d1442669992861877a4f313b51e3bbd119&v=4",
+      "summary_en": "The post bluntly declares that a topic is dead, signaling a stark verdict on its viability. It serves as a provocative take that may reflect a broader fatigue or pivot away from a once-promising idea.",
+      "summary_zh": "该帖直言某个话题已死，发出对其可行性的明确断言。这是一种挑衅性观点，或反映对曾经有前景的方向的疲惫或转变。",
+      "hn": {
+        "id": 48469347,
+        "type": "story",
+        "by": "inatreecrown2",
+        "score": 194,
+        "descendants": 82,
+        "time": 1781048656,
+        "comments_url": "https://news.ycombinator.com/item?id=48469347"
+      },
+      "hot_score": 0.23,
+      "tags": [
+        "Culture"
+      ]
+    },
+    {
+      "title_en": "System Card: Claude Fable 5 and Claude Mythos 5 [pdf]",
+      "url": "https://www-cdn.anthropic.com/d00db56fa754a1b115b6dd7cb2e3c342ee809620.pdf",
+      "title_zh": "系统卡：Claude Fable 5 与 Claude Mythos 5 [PDF]",
+      "created_display": "Created: Jun 09, 2026 / 09:58 PT",
+      "image_url": null,
+      "summary_en": "Anthropic releases a system card for Claude Fable 5 and Claude Mythos 5, outlining intended use, capabilities, and safety constraints. The document clarifies guardrails, risk considerations, and design trade-offs when deploying these models at scale in enterprise contexts.",
+      "summary_zh": "Anthropic 公布了 Claude Fable 5 与 Claude Mythos 5 的系统卡，概述了目标用途、能力与安全约束。文档阐明了在企业部署中的边界、守则及对风险的权衡。",
+      "hn": {
+        "id": 48463811,
+        "type": "story",
+        "by": "scrlk",
+        "score": 213,
+        "descendants": 1,
+        "time": 1781024293,
+        "comments_url": "https://news.ycombinator.com/item?id=48463811"
+      },
+      "tags": [
+        "AI"
+      ],
+      "hot_score": 0.19
+    },
+    {
+      "title_en": "'Sloppenheimer:' Amazon employees mock the company's AI on Slack",
+      "url": "https://www.404media.co/sloppenheimer-amazon-employees-mock-the-companys-ai-on-slack/",
+      "title_zh": "Sloppenheimer：亚马逊员工在 Slack 上嘲笑公司的 AI",
+      "created_display": "Created: Jun 09, 2026 / 08:59 PT",
+      "image_url": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/2026/06/oppen-2.jpg",
+      "summary_en": "\"Sloppenheimer\"： Amazon employees mock the company's AI on Slack. Slack threads reveal Amazon employees joking about the company's AI, highlighting skepticism about its reliability and alignment with real-world use. The incident underscores how internal sentiment around AI initiatives can influence public perception and strategy. It also reflects broader tensions between ambitious AI deployments and day-to-day product quality.",
+      "summary_zh": "Slack 聊天记录显示亚马逊员工在讨论公司 AI 时带着嘲讽与怀疑，质疑其可靠性与应用价值。事件揭示了内部情绪如何影响外部对 AI 计划的看法和实施策略。也反映了在大规模 AI 部署中的野心与日常产品质量之间的张力。",
+      "hn": {
+        "id": 48462823,
+        "type": "story",
+        "by": "doener",
+        "score": 196,
+        "descendants": 96,
+        "time": 1781020781,
+        "comments_url": "https://news.ycombinator.com/item?id=48462823"
+      },
+      "tags": [
+        "AI",
+        "Culture"
+      ],
+      "hot_score": 0.17
+    }
+  ]
+}

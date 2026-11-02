@@ -1,0 +1,1160 @@
+{
+  "meta": {
+    "mode": "best",
+    "source": "https://news.ycombinator.com/",
+    "api": "https://github.com/HackerNews/API",
+    "count_requested": 50,
+    "count_written": 50,
+    "reused_same_day": 0,
+    "reused_cross_day": 19,
+    "new_llm_enriched": 10,
+    "scrape_time_display": "09:52, October 22, 2026 (PDT)",
+    "timezone": "America/Los_Angeles",
+    "date_dir": "2026/10/21",
+    "content_date": "2026-10-21",
+    "run_time_local": "09:52, October 22, 2026 (PDT)",
+    "run_time_utc": "2026-10-22 16:52:16 UTC",
+    "incremental": true,
+    "stories_max": 50,
+    "hot_score_time_utc": "2026-10-22 16:53:40 UTC"
+  },
+  "items": [
+    {
+      "title_en": "eMudhra to exit global SSL/TLS certificate business",
+      "url": "https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business",
+      "title_zh": "eMudhra 将退出全球 SSL/TLS 证书业务",
+      "created_display": "Created: Oct 22, 2026 / 06:33 PT",
+      "image_url": "https://emudhra.com/images/press-release/thumbs/emudhra-to-exit-global-ssl-tls-certificate-business.jpg",
+      "summary_en": "eMudhra says it will exit its global SSL/TLS certificate business, signaling a strategic retreat from a crowded CA market. The move could nudge customers to migrate to other providers and accelerate consolidation in the PKI ecosystem, with ripple effects on how organizations manage trust chains.",
+      "summary_zh": "eMudhra 宣布将退出全球 SSL/TLS 证书业务，显示其在竞争激烈的证书颁发机构市场中的战略收缩。此举可能促使客户转向其他供应商，并推动公钥基础设施生态的整合，对组织的信任链管理产生连锁影响。",
+      "hn": {
+        "id": 50195110,
+        "type": "story",
+        "by": "bo0tzz",
+        "score": 501,
+        "descendants": 393,
+        "time": 1792676019,
+        "comments_url": "https://news.ycombinator.com/item?id=50195110"
+      },
+      "hot_score": 24.57,
+      "tags": [
+        "Business",
+        "Security"
+      ]
+    },
+    {
+      "title_en": "Quad9 (DNS Resolver) to Exit France",
+      "url": "https://quad9.net/news/blog/au-revoir-france/",
+      "title_zh": "Quad9 DNS 解析器将退出法国",
+      "created_display": "Created: Oct 22, 2026 / 07:32 PT",
+      "image_url": "https://quad9.net/images/cover_c2f081e020.png",
+      "summary_en": "Quad9 is exiting France, citing strategic or regulatory reasons. The move narrows the field for privacy-conscious DNS users and may force traffic to migrate to other resolvers, impacting latency and privacy posture.",
+      "summary_zh": "Quad9 宣布退出法国，原因与战略或监管环境有关。此举缩小了注重隐私的法国用户的解析器选择，可能迫使流量迁移至其他解析服务，影响延迟和隐私保护水平。",
+      "hn": {
+        "id": 50195959,
+        "type": "story",
+        "by": "farrokhi",
+        "score": 267,
+        "descendants": 89,
+        "time": 1792679558,
+        "comments_url": "https://news.ycombinator.com/item?id=50195959"
+      },
+      "hot_score": 18.86,
+      "tags": [
+        "Privacy",
+        "Security",
+        "Politics"
+      ]
+    },
+    {
+      "title_en": "Woman faces six years in prison over Cash App account she never opened",
+      "url": "https://www.techspot.com/news/114296-woman-spends-three-nights-jail-faces-six-years.html",
+      "title_zh": "女子因未开设 Cash App 账户被错误关联而面临六年监禁",
+      "created_display": "Created: Oct 22, 2026 / 06:11 PT",
+      "image_url": "https://www.techspot.com/images2/news/bigimage/2018/08/2018-08-14-image.png",
+      "summary_en": "A case reveals how a Cash App account the woman never opened can still trigger jail time, highlighting issues around digital identities, mistaken associations, and due process in law enforcement.",
+      "summary_zh": "案件揭示即使未开设的 Cash App 账户也可能导致监禁，暴露数字身份、误认关联和执法程序正当性方面的问题。",
+      "hn": {
+        "id": 50194833,
+        "type": "story",
+        "by": "oidar",
+        "score": 203,
+        "descendants": 207,
+        "time": 1792674660,
+        "comments_url": "https://news.ycombinator.com/item?id=50194833"
+      },
+      "hot_score": 8.77,
+      "tags": [
+        "Legal"
+      ]
+    },
+    {
+      "title_en": "Jailbreaking the Switch 2",
+      "url": "https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb/",
+      "title_zh": "Switch 2 越狱工具发布",
+      "created_display": "Created: Oct 22, 2026 / 01:01 PT",
+      "image_url": "https://pepsipu.com/_astro/mario-kart-results-1-2560.B5lJitnR.webp",
+      "summary_en": "New jailbreak tooling for the Switch 2 has surfaced, enabling homebrew and custom software on Nintendo's latest console. The release underscores ongoing security tug-of-war between platform vendors and researchers, with potential risks to firmware integrity and user warranties.",
+      "summary_zh": "Switch 2 的新越狱工具出现，使玩家能够在新版掌机上运行自制软件。此举凸显平台安全与玩家破解之间的博弈，可能对固件完整性、设备稳定性和保修造成影响。",
+      "hn": {
+        "id": 50192536,
+        "type": "story",
+        "by": "ledoge",
+        "score": 482,
+        "descendants": 175,
+        "time": 1792656112,
+        "comments_url": "https://news.ycombinator.com/item?id=50192536"
+      },
+      "tags": [
+        "Security",
+        "Gaming"
+      ],
+      "hot_score": 6.57
+    },
+    {
+      "title_en": "Amazon identifies Oct 17 PHP2Shell exploitation prior to public disclosure",
+      "url": "https://aws.amazon.com/blogs/security/amazon-threat-intelligence-identifies-php2shell-exploitation-prior-to-public-disclosure-in-madpot/",
+      "title_zh": "亚马逊在公开披露前发现 PHP2Shell 利用活动",
+      "created_display": "Created: Oct 22, 2026 / 04:50 PT",
+      "image_url": "https://d2908q01vomqb2.cloudfront.net/22d200f8670dbdb3e253a90eee5098477c95c23d/2026/10/21/Lock-image-2.jpeg",
+      "summary_en": "Amazon Threat Intelligence identified PHP2Shell exploitation linked to MadPot before public disclosure, underscoring the value of proactive threat intel in stopping campaigns early and guiding defensive updates.",
+      "summary_zh": "亚马逊威胁情报在公开披露前就发现了与 MadPot 相关的 PHP2Shell 利用活动，凸显主动情报在提早遏制攻击与引导防御补丁中的价值。",
+      "hn": {
+        "id": 50194070,
+        "type": "story",
+        "by": "cubefox",
+        "score": 193,
+        "descendants": 54,
+        "time": 1792669836,
+        "comments_url": "https://news.ycombinator.com/item?id=50194070"
+      },
+      "hot_score": 5.71,
+      "tags": [
+        "Security"
+      ]
+    },
+    {
+      "title_en": "Several Linux kernel vulnerabilities accidentally posted to public mailing list",
+      "url": "https://www.phoronix.com/news/LKML-New-Trend-Vulnerabilities",
+      "title_zh": "多处 Linux 内核漏洞被误发至公开邮件列表",
+      "created_display": "Created: Oct 22, 2026 / 04:12 PT",
+      "image_url": "https://www.phoronix.net/image.php?id=2026&image=public_zdi",
+      "summary_en": "Several Linux kernel vulnerabilities were accidentally published on a public mailing list, potentially leaking exploit details and increasing risk before patches reach users. This incident underscores the importance of secure disclosure practices and rapid remediation.",
+      "summary_zh": "多处 Linux 内核漏洞的细节被意外公开在公开邮件列表上，可能在补丁普及前被利用。此事件凸显负责任披露实践的重要性以及快速修复的必要性。",
+      "hn": {
+        "id": 50193804,
+        "type": "story",
+        "by": "mrkn1",
+        "score": 203,
+        "descendants": 63,
+        "time": 1792667557,
+        "comments_url": "https://news.ycombinator.com/item?id=50193804"
+      },
+      "tags": [
+        "Security",
+        "Open Source"
+      ],
+      "hot_score": 5.14
+    },
+    {
+      "title_en": "CVE-2026-111943: Compromised Intermediate Certificate Authority",
+      "url": "https://nvd.nist.gov/vuln/detail/cve-2026-111943",
+      "title_zh": "CVE-2026-111943：中间证书颁发机构遭受妥协",
+      "created_display": "Created: Oct 22, 2026 / 01:51 PT",
+      "image_url": null,
+      "summary_en": "A compromised intermediate certificate authority threatens TLS trust across many deployments, as certificates it issued could be misused to impersonate sites. The incident underscores how a single compromised link in the certificate chain can erode global trust and trigger urgent revocation and re-issuance of affected certificates.",
+      "summary_zh": "CVE-2026-111943 指出中间证书颁发机构被攻破，攻击者可能滥用其签发的受信任证书伪装站点。此事件暴露证书链中单点受损就可能动摇全球信任，需要吊销、重新颁发并更新信任链。",
+      "hn": {
+        "id": 50192900,
+        "type": "story",
+        "by": "keks24",
+        "score": 327,
+        "descendants": 114,
+        "time": 1792659091,
+        "comments_url": "https://news.ycombinator.com/item?id=50192900"
+      },
+      "tags": [
+        "Security"
+      ],
+      "hot_score": 5.13
+    },
+    {
+      "title_en": "mitmproxy adds --emudhra option",
+      "url": "https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b",
+      "title_zh": "mitmproxy 新增 --emudhra 选项",
+      "created_display": "Created: Oct 21, 2026 / 16:51 PT",
+      "image_url": "https://opengraph.githubassets.com/58e827e143b21d85e7009a31985d2abfb0b0d00f7fe91a9cc999f01a4deddbbf/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b",
+      "summary_en": "mitmproxy now supports a new --emudhra flag to trust certificates issued by Emudhra, a major Indian certificate authority. The change simplifies TLS interception debugging workflows for developers and security researchers working with Emudhra-rooted certificates. Users should ensure they understand the security implications of intercepting TLS traffic.",
+      "summary_zh": "mitmproxy 新增 --emudhra 选项，用于信任 Emudhra 颁发的证书——Emudhra 是印度的主要证书颁发机构。此变更简化了在使用 Emudhra 证书的环境中的 TLS 拦截和调试工作流程。用户应了解拦截 TLS 流量所带来的安全风险。",
+      "hn": {
+        "id": 50189232,
+        "type": "story",
+        "by": "ahlCVA",
+        "score": 566,
+        "descendants": 138,
+        "time": 1792626697,
+        "comments_url": "https://news.ycombinator.com/item?id=50189232"
+      },
+      "tags": [
+        "Programming",
+        "Security"
+      ],
+      "hot_score": 2.81
+    },
+    {
+      "title_en": "There isn't an easy exploit for this PHP vulnerability",
+      "url": "https://eliastaylor.com/noexploit/",
+      "title_zh": "There isn't an easy exploit for this PHP vulnerability",
+      "created_display": "Created: Oct 21, 2026 / 16:13 PT",
+      "image_url": null,
+      "summary_en": "Security researchers say this PHP flaw is not easily exploitable in typical deployments. Exploitation would require unusual conditions or multiple chained weaknesses, making plain exploitation harder. Still, patching and updating dependencies remains prudent to reduce risk.",
+      "summary_zh": "安全研究者表示此 PHP 漏洞在常规部署中并不易被利用。利用往往需要非同寻常的条件或多重链式漏洞，单独利用难度较高。尽管如此，及时打补丁和更新依赖仍然是降低风险的明智措施。",
+      "hn": {
+        "id": 50188948,
+        "type": "story",
+        "by": "zkldi",
+        "score": 595,
+        "descendants": 387,
+        "time": 1792624407,
+        "comments_url": "https://news.ycombinator.com/item?id=50188948"
+      },
+      "tags": [
+        "Security"
+      ],
+      "hot_score": 2.79
+    },
+    {
+      "title_en": "WorldTUI: I trained a 360M model to pretend to be a terminal",
+      "url": "https://simedw.com/2026/10/21/world-model-terminal/",
+      "title_zh": "WorldTUI: 我用 360M 模型训练来假装成终端",
+      "created_display": "Created: Oct 21, 2026 / 19:18 PT",
+      "image_url": "https://simedw.com/2026/10/21/world-model-terminal/images/worldtui-cowsay.jpg",
+      "summary_en": "WorldTUI shows that a 360M parameter model can imitate a terminal, turning a language model into a lightweight shell agent. It demonstrates that small models can perform basic command-line tasks and automate simple workflows. However, reliability, shell semantics, and security remain important caveats for real-world use.",
+      "summary_zh": "WorldTUI 展示了用一个 360M 参数的模型来模仿终端界面，将语言模型变成一个可编程的 shell 代理。实验表明小型模型可以完成基本命令行任务并实现简单自动化，但在可靠性、 shell 语义和安全性方面仍存在局限。此结果促使人们思考如何在不依赖大型模型的前提下提升终端工作流。",
+      "hn": {
+        "id": 50190363,
+        "type": "story",
+        "by": "alphax314",
+        "score": 421,
+        "descendants": 132,
+        "time": 1792635521,
+        "comments_url": "https://news.ycombinator.com/item?id=50190363"
+      },
+      "tags": [
+        "AI",
+        "Security"
+      ],
+      "hot_score": 2.68
+    },
+    {
+      "title_en": "PHP 8.2.35",
+      "url": "https://github.com/php/php-src/releases/tag/php-8.2.35",
+      "title_zh": "PHP 8.2.35 发布",
+      "created_display": "Created: Oct 21, 2026 / 06:45 PT",
+      "image_url": "https://opengraph.githubassets.com/b382b97f570c6673dfdefc3fb9a0a772f2031a00c0a2d8b99a13a55cda4b0645/php/php-src/releases/tag/php-8.2.35",
+      "summary_en": "PHP 8.2.35 is a maintenance release that patches several security and stability issues in the 8.2 line. It’s a standard part of the PHP patch cycle, and upgrading helps close vulnerabilities and improve reliability. If you run PHP 8.2 in production, apply the update to stay supported and secure.",
+      "summary_zh": "这是对 8.2 分支的维护性更新，包含若干安全修复与错误修正。强烈建议在生产环境尽快升级，以降低潜在漏洞并提升稳定性。",
+      "hn": {
+        "id": 50180873,
+        "type": "story",
+        "by": "tuyuri",
+        "score": 1061,
+        "descendants": 554,
+        "time": 1792590333,
+        "comments_url": "https://news.ycombinator.com/item?id=50180873"
+      },
+      "tags": [
+        "Security"
+      ],
+      "hot_score": 2.45
+    },
+    {
+      "title_en": "Security Disclosure",
+      "url": "https://blog.railway.com/p/security-disclosure-wednesday-october-21st",
+      "title_zh": "Railway 平台安全披露",
+      "created_display": "Created: Oct 21, 2026 / 14:58 PT",
+      "image_url": "https://cms.railway.com/media/cf05de70-b435-4fe9-8d52-540e0b585874-blog-security-disclosure-wednesday-october-21st.png?w=1200&q=90",
+      "summary_en": "Railway has released a security disclosure detailing a vulnerability and its recommended mitigations.",
+      "summary_zh": "Railway 发布了平台安全披露，概述了已发现的漏洞及建议的缓解措施。",
+      "hn": {
+        "id": 50188228,
+        "type": "story",
+        "by": "passenger",
+        "score": 551,
+        "descendants": 318,
+        "time": 1792619883,
+        "comments_url": "https://news.ycombinator.com/item?id=50188228"
+      },
+      "tags": [
+        "Security"
+      ],
+      "hot_score": 2.31
+    },
+    {
+      "title_en": "Today's PHP security release, and how we're strengthening security",
+      "url": "https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/",
+      "title_zh": "今日 PHP 安全更新及加强安全措施",
+      "created_display": "Created: Oct 21, 2026 / 08:48 PT",
+      "image_url": "https://thephp.foundation/assets/share/2026-10-21-todays-php-security-release-and-how-were-strengthening-php-security.png",
+      "summary_en": "A security patch release for PHP arrives today with critical fixes across core components. The team outlines stronger security practices, faster disclosure, and enhanced hardening to reduce future risk.",
+      "summary_zh": "今天发布了 PHP 的安全更新，修补了若干核心组件的漏洞。团队还描述了更强的防护措施、快速漏洞披露与强化发布流程，以降低未来的安全风险。对于依赖 PHP 的应用而言，及时打补丁的重要性再次凸显。",
+      "hn": {
+        "id": 50182987,
+        "type": "story",
+        "by": "ejohnso49",
+        "score": 776,
+        "descendants": 387,
+        "time": 1792597736,
+        "comments_url": "https://news.ycombinator.com/item?id=50182987"
+      },
+      "tags": [
+        "Security"
+      ],
+      "hot_score": 2.04
+    },
+    {
+      "title_en": "EA is shutting down BioWare",
+      "url": "https://www.theverge.com/games/1015647/ea-is-shutting-down-bioware",
+      "title_zh": "EA 将关闭 BioWare 工作室",
+      "created_display": "Created: Oct 21, 2026 / 10:29 PT",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gsh636en2u1g1.jpg?quality=90&strip=all&crop=0%2C15.095986038394%2C100%2C69.808027923211&w=1200",
+      "summary_en": "EA is shutting down BioWare, triggering layoffs and casting uncertainty over beloved RPG franchises. The move signals bigger publisher consolidation pressures and raises questions about IP stewardship and talent retention.",
+      "summary_zh": "EA 宣布关闭 BioWare 工作室，导致裁员并为长期受粉丝喜爱的 RPG 系列未来带来不确定性。这一举动反映了大型发行商整合压力，并引发对知识产权管理和人才保留的讨论。",
+      "hn": {
+        "id": 50184586,
+        "type": "story",
+        "by": "aaronbrethorst",
+        "score": 662,
+        "descendants": 439,
+        "time": 1792603773,
+        "comments_url": "https://news.ycombinator.com/item?id=50184586"
+      },
+      "tags": [
+        "Entertainment",
+        "Business"
+      ],
+      "hot_score": 1.96
+    },
+    {
+      "title_en": "Meta ordered to pay $25B penalty in New Mexico Cambridge Analytica case",
+      "url": "https://www.cnbc.com/2026/10/21/meta-new-mexico-cambridge-analytica-penalty.html",
+      "title_zh": "Meta 因隐私问题被判罚 250 亿美元",
+      "created_display": "Created: Oct 21, 2026 / 10:45 PT",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108437802-1792509531499-gettyimages-2297798363-1r5_3613_q0uw9oaf.jpeg?v=1792603420&w=1920&h=1080",
+      "summary_en": "Meta faces a record $25B privacy penalty for deceptive practices around user data, signaling tougher enforcement and potential shifts in compliance spending for big platforms.",
+      "summary_zh": "Meta 因用户隐私方面的欺骗行为被处以创纪录罚款，显示出更严格的监管执法趋势，可能推动大型平台在合规方面的投入。",
+      "hn": {
+        "id": 50184820,
+        "type": "story",
+        "by": "cbg0",
+        "score": 645,
+        "descendants": 380,
+        "time": 1792604713,
+        "comments_url": "https://news.ycombinator.com/item?id=50184820"
+      },
+      "tags": [
+        "Privacy",
+        "Business"
+      ],
+      "hot_score": 1.94
+    },
+    {
+      "title_en": "OpenAI CLI",
+      "url": "https://github.com/openai/openai-cli",
+      "title_zh": "OpenAI 命令行界面",
+      "created_display": "Created: Oct 21, 2026 / 22:23 PT",
+      "image_url": "https://opengraph.githubassets.com/8bfbc5c47cab19c9da563b52791fbe94f4ba600d7274bb4ec3d12fcc114014b8/openai/openai-cli",
+      "summary_en": "OpenAI released an official command-line interface, letting developers interact with models, manage API keys, and automate tasks from the terminal. The CLI lowers barriers for scripting, automation, and CI workflows, complementing the Python client.",
+      "summary_zh": "OpenAI 发布官方命令行界面，方便开发者在终端与模型交互、管理 API Key 以及执行自动化任务。CLI 降低了上手门槛，适合在脚本、持续集成等场景使用，与 Python 客户端形成互补。",
+      "hn": {
+        "id": 50191507,
+        "type": "story",
+        "by": "armcat",
+        "score": 209,
+        "descendants": 99,
+        "time": 1792646591,
+        "comments_url": "https://news.ycombinator.com/item?id=50191507"
+      },
+      "tags": [
+        "Programming",
+        "AI"
+      ],
+      "hot_score": 1.92
+    },
+    {
+      "title_en": "The recently proposed o(n log n) integer multiplication algorithm [pdf]",
+      "url": "https://web.maths.unsw.edu.au/~davidharvey/research/subnlogn.pdf",
+      "title_zh": "最近提出的 o(n log n) 的整数乘法算法",
+      "created_display": "Created: Oct 21, 2026 / 19:30 PT",
+      "image_url": null,
+      "summary_en": "The paper proposes an integer multiplication algorithm with asymptotic time near n log n, challenging the long standing dominant methods. It outlines novel techniques in FFT-based arithmetic and modular transforms that push the theoretical boundary of large integer multiplication. Practical adoption remains uncertain due to big-constant factors and complexity of implementation.",
+      "summary_zh": "该论文提出一个在渐进时间复杂度接近 n log n 的整数乘法算法，试图挑战已有的 Schönhage-Strassen 等方法。文中描述了新颖的傅里叶变换相关技术与代数技巧，理论意义重大，可能改变大整数运算的基准。实际应用尚待验证，具体实现和常数因素将决定是否具备实用性。",
+      "hn": {
+        "id": 50190455,
+        "type": "story",
+        "by": "craigcitro",
+        "score": 281,
+        "descendants": 236,
+        "time": 1792636252,
+        "comments_url": "https://news.ycombinator.com/item?id=50190455"
+      },
+      "tags": [
+        "Science"
+      ],
+      "hot_score": 1.83
+    },
+    {
+      "title_en": "Claude Duet",
+      "url": "https://claude.com/product/claude-duet",
+      "title_zh": "Claude Duet：对话协作模型",
+      "created_display": "Created: Oct 21, 2026 / 12:14 PT",
+      "image_url": "https://claude.com/static/claude-duet/og.jpg",
+      "summary_en": "Claude Duet enables two Claude agents to collaborate, with one handling planning and the other execution, improving reliability and handling complex tasks. This duet approach aims to reduce hallucinations and offload hard reasoning, making AI copilots more practical for real work.",
+      "summary_zh": "Claude Duet 让两个 Claude 代理协同工作，一个负责计划、一个执行，提升任务可靠性并分担复杂推理。通过二重协作的方式，这种设计旨在减少幻觉现象并提升对复杂任务的处理能力，使 AI 助手在实际场景中更具实用性。",
+      "hn": {
+        "id": 50186037,
+        "type": "story",
+        "by": "kuberwastaken",
+        "score": 510,
+        "descendants": 474,
+        "time": 1792610041,
+        "comments_url": "https://news.ycombinator.com/item?id=50186037"
+      },
+      "tags": [
+        "AI"
+      ],
+      "hot_score": 1.71
+    },
+    {
+      "title_en": "Eight Bits of Trust: eMudhra's CA keys cracked in milliseconds",
+      "url": "https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/",
+      "title_zh": "信任的八位字节：eMudhra 的 CA 密钥在毫秒内被破解",
+      "created_display": "Created: Oct 21, 2026 / 02:08 PT",
+      "image_url": "https://storage.ghost.io/c/ee/88/ee889f88-37ef-43e5-9180-f9b88ee6261d/content/images/size/w1200/2026/10/emudhra.png",
+      "summary_en": "Researchers demonstrate that eMudhra's CA keys can be cracked in milliseconds, challenging TLS trust assumptions. The result highlights how certificate authorities' key management and cryptographic agility impact the security of the entire chain, pushing for shorter certificate lifetimes and stronger hardware protections. It also underscores the need for tougher CA audits and improved trust-chain resilience.",
+      "summary_zh": "研究者显示 eMudhra 的 CA 钥匙可在毫秒内被破解，挑战了 TLS 信任的基本假设。此现象突显证书颁发机构在密钥管理与加密灵活性方面对整个信任链安全的影响，推动对更短证书有效期和更强硬件保护的需求，同时强调对 CA 审计和信任链韧性的改进。",
+      "hn": {
+        "id": 50177916,
+        "type": "story",
+        "by": "hkc",
+        "score": 910,
+        "descendants": 445,
+        "time": 1792573688,
+        "comments_url": "https://news.ycombinator.com/item?id=50177916"
+      },
+      "tags": [
+        "Security",
+        "Hardware"
+      ],
+      "hot_score": 1.61
+    },
+    {
+      "title_en": "Security advisory: Critical remote code execution vulnerabilities, update now",
+      "url": "https://www.php.net/archive/2026.php#2026-10-21-5",
+      "title_zh": "安全公告：关键远程代码执行漏洞，请立即更新",
+      "created_display": "Created: Oct 20, 2026 / 13:15 PT",
+      "image_url": "https://www.php.net/images/meta-image.png",
+      "summary_en": "A security advisory warns of critical remote code execution vulnerabilities that could let attackers take control of affected systems. Patching now across vulnerable software stacks is essential to limit risk, as exploitation often ramps up after disclosure.",
+      "summary_zh": "一份安全公告警告存在关键的远程代码执行漏洞，可能使攻击者远程控制受影响的系统。现在就对受影响的软件栈进行打补丁至关重要，以降低风险，因为披露后利用活动往往会增加。",
+      "hn": {
+        "id": 50172041,
+        "type": "story",
+        "by": "xd",
+        "score": 1539,
+        "descendants": 655,
+        "time": 1792527350,
+        "comments_url": "https://news.ycombinator.com/item?id=50172041"
+      },
+      "hot_score": 1.53,
+      "tags": [
+        "Security"
+      ]
+    },
+    {
+      "title_en": "Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor",
+      "url": "https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/",
+      "title_zh": "在 PyPI 上被篡改的 LiteLLM 1.107.0 含凭据窃取程序与后门",
+      "created_display": "Created: Oct 21, 2026 / 07:00 PT",
+      "image_url": "https://safedep.io/images/litellm-pypi-compromise-credential-stealer-backdoor-banner.jpg",
+      "summary_en": "A compromised PyPI package LiteLLM 1.107.0 ships with credential-stealing malware and a backdoor. This underscores supply-chain risk in Python ecosystems and the importance of verifying package integrity, locked versions, and thorough vetting of dependencies.",
+      "summary_zh": "一个被攻陷的 PyPI 包 LiteLLM 1.107.0 含有窃取凭据的恶意代码和后门。这凸显了 Python 生态的供应链风险，强调验证包完整性、审查依赖关系，以及使用固定版本的必要性。",
+      "hn": {
+        "id": 50181114,
+        "type": "story",
+        "by": "abhisek",
+        "score": 578,
+        "descendants": 187,
+        "time": 1792591226,
+        "comments_url": "https://news.ycombinator.com/item?id=50181114"
+      },
+      "tags": [
+        "Security",
+        "Programming"
+      ],
+      "hot_score": 1.35
+    },
+    {
+      "title_en": "GitLab critical patch release",
+      "url": "https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/",
+      "title_zh": "GitLab 发布关键补丁",
+      "created_display": "Created: Oct 21, 2026 / 12:01 PT",
+      "image_url": "https://docs.gitlab.com/gitlab-logo-footer.svg",
+      "summary_en": "GitLab issued a critical patch release 19.5.1 addressing several high-severity vulnerabilities and performance issues. Users are urged to upgrade promptly, as attackers may exploit unpatched versions.",
+      "summary_zh": "GitLab 发布了 19.5.1 版本的关键补丁，修复了若干高危漏洞并提升稳定性。强烈建议用户尽快升级，未打补丁的版本可能被利用。",
+      "hn": {
+        "id": 50185869,
+        "type": "story",
+        "by": "artooro",
+        "score": 395,
+        "descendants": 90,
+        "time": 1792609272,
+        "comments_url": "https://news.ycombinator.com/item?id=50185869"
+      },
+      "tags": [
+        "Security",
+        "DevOps"
+      ],
+      "hot_score": 1.3
+    },
+    {
+      "title_en": "The No Kings Takedown Is Why You Shouldn't Rent Your Megaphone from Zuck",
+      "url": "https://www.techdirt.com/2026/10/20/accident-or-not-the-no-kings-takedown-is-why-you-shouldnt-rent-your-megaphone-from-zuck/",
+      "title_zh": "No Kings Takedown：你不该把扩音器租给扎克伯格",
+      "created_display": "Created: Oct 21, 2026 / 07:01 PT",
+      "image_url": "https://www.techdirt.com/wp-content/themes/techdirt/assets/images/td-rect-logo-white.png",
+      "summary_en": "TechDirt's piece argues that relying on a single gatekeeper for reach—like Facebook's megaphone—is risky. It uses the No Kings takedown to illustrate how platform power can backfire on users and why diverse channels matter.",
+      "summary_zh": "TechDirt 讨论 No Kings takedown，强调别把话语权交给单一平台（如 Zuckerberg 的平台）可能带来的风险。该事件凸显平台垄断力量对创作者的潜在打压，强调多渠道传播的重要性。",
+      "hn": {
+        "id": 50181137,
+        "type": "story",
+        "by": "robtherobber",
+        "score": 519,
+        "descendants": 518,
+        "time": 1792591285,
+        "comments_url": "https://news.ycombinator.com/item?id=50181137"
+      },
+      "tags": [
+        "Politics",
+        "Culture"
+      ],
+      "hot_score": 1.22
+    },
+    {
+      "title_en": "Rust Style Guide",
+      "url": "https://google.github.io/styleguide/rustguide.html",
+      "title_zh": "谷歌的 Rust 风格指南",
+      "created_display": "Created: Oct 21, 2026 / 12:11 PT",
+      "image_url": null,
+      "summary_en": "Google's Rust Style Guide codifies internal conventions for formatting, naming, error handling, and safety patterns, helping teams write consistent, secure Rust at scale. While tailored for Google, the guide offers useful patterns for the broader Rust community and OSS projects.",
+      "summary_zh": "谷歌的 Rust 风格指南将格式化、命名、错误处理与安全模式等内部约定系统化，帮助团队在大规模项目中保持一致、提高安全性。尽管面向谷歌内部，但该指南对整个 Rust 社区和开源项目也具备参考价值。",
+      "hn": {
+        "id": 50186010,
+        "type": "story",
+        "by": "kaycebasques",
+        "score": 365,
+        "descendants": 219,
+        "time": 1792609917,
+        "comments_url": "https://news.ycombinator.com/item?id=50186010"
+      },
+      "tags": [
+        "Programming",
+        "Open Source"
+      ],
+      "hot_score": 1.22
+    },
+    {
+      "title_en": "The 1.5°C goal of the Paris Agreement is no longer viable",
+      "url": "https://unric.org/en/unep-emissions-gap-report-2026-1-5-degree-overshoot/",
+      "title_zh": "巴黎协定的1.5°C目标不再可行",
+      "created_display": "Created: Oct 21, 2026 / 02:07 PT",
+      "image_url": "https://e4k4c4x9.delivery.rocketcdn.me/en/wp-content/uploads/sites/15/2026/10/city-smog.jpg",
+      "summary_en": "A new emissions gap report indicates current policies are unlikely to meet the Paris Agreement’s 1.5°C target. Without bolder decarbonization, we risk overshooting and facing harsher climate impacts; tech implications point to rapid energy transition, efficiency gains, and scalable negative-emissions solutions.",
+      "summary_zh": "最新的减排差距报告显示，现有政策难以实现巴黎协定的1.5°C目标。如果不加速减排，可能超出目标并带来更严重的气候影响；对科技的启示包括快速推进能源转型、提升能效，以及扩大负排放技术的应用。",
+      "hn": {
+        "id": 50177911,
+        "type": "story",
+        "by": "velo_aprx",
+        "score": 638,
+        "descendants": 797,
+        "time": 1792573669,
+        "comments_url": "https://news.ycombinator.com/item?id=50177911"
+      },
+      "tags": [
+        "Energy",
+        "Science"
+      ],
+      "hot_score": 1.13
+    },
+    {
+      "title_en": "Mistral Large 4",
+      "url": "https://mistral.ai/news/mistral-large-4/",
+      "title_zh": "Mistral Large 4",
+      "created_display": "Created: Oct 21, 2026 / 12:20 PT",
+      "image_url": "https://mistral.ai/cms-media/api/media/file/cover-mistral-sovereign%20copie.webp",
+      "summary_en": "Mistral AI releases Mistral Large 4, the latest addition to its open-weight LLM lineup, touting improved instruction following and efficiency. The model strengthens the open-source AI ecosystem and intensifies competition with larger commercial rivals, potentially lowering costs for developers and researchers.",
+      "summary_zh": "Mistral AI 发布 Mistral Large 4，作为其开源权重大型语言模型阵容的最新成员，声称在指令跟随和效率方面有提升。该模型将进一步推动开源 AI 生态，并加剧与大型商业对手的竞争，为开发者和研究人员带来更具成本效益的选择。",
+      "hn": {
+        "id": 50186129,
+        "type": "story",
+        "by": "funnym0nk3y",
+        "score": 322,
+        "descendants": 102,
+        "time": 1792610455,
+        "comments_url": "https://news.ycombinator.com/item?id=50186129"
+      },
+      "hot_score": 1.09,
+      "tags": [
+        "AI",
+        "Open Source"
+      ]
+    },
+    {
+      "title_en": "Airbnb bans making guests do dishes and take out the trash",
+      "url": "https://www.theverge.com/tech/1015844/airbnb-chores-house-rules-update",
+      "title_zh": "Airbnb 禁止让房客洗碗和倒垃圾",
+      "created_display": "Created: Oct 21, 2026 / 16:38 PT",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/acastro_STK090_06.jpg?quality=90&strip=all&crop=0%2C10.761835884455%2C100%2C78.47632823109&w=1200",
+      "summary_en": "Airbnb updated policy to ban hosts from making guests do chores such as washing dishes or taking out trash. The change aims to improve guest experience and safety, though it may affect host expectations and cost management.",
+      "summary_zh": "Airbnb 更新政策，禁止房东要求房客做家务、洗碗或倒垃圾等。此举旨在提升体验与安全，但也可能改变房东的运营预期和清洁成本管理。",
+      "hn": {
+        "id": 50189150,
+        "type": "story",
+        "by": "babelfish",
+        "score": 222,
+        "descendants": 203,
+        "time": 1792625912,
+        "comments_url": "https://news.ycombinator.com/item?id=50189150"
+      },
+      "tags": [
+        "Business"
+      ],
+      "hot_score": 1.08
+    },
+    {
+      "title_en": "DuckDB 2.0.0 LTS “Cinnamon Teal”",
+      "url": "https://duckdb.org/2026/10/21/announcing-duckdb-200",
+      "title_zh": "DuckDB 2.0.0 LTS Cinnamon Teal 发布",
+      "created_display": "Created: Oct 21, 2026 / 07:01 PT",
+      "image_url": "https://duckdb.org/images/blog/thumbs/duckdb-release-2-0-0.png",
+      "summary_en": "DuckDB 2.0.0 LTS, nicknamed Cinnamon Teal, arrives with long-term support for analytics workloads, along with stability and performance improvements. It’s a solid choice for embedded analytics and BI workflows.",
+      "summary_zh": "DuckDB 2.0.0 LTS（代号 Cinnamon Teal）正式发布，提供对分析工作负载的长期支持，以及稳定性与性能改进。适合嵌入式分析和 BI 工作流。",
+      "hn": {
+        "id": 50181136,
+        "type": "story",
+        "by": "nnx",
+        "score": 449,
+        "descendants": 61,
+        "time": 1792591282,
+        "comments_url": "https://news.ycombinator.com/item?id=50181136"
+      },
+      "tags": [
+        "Programming",
+        "Data"
+      ],
+      "hot_score": 1.05
+    },
+    {
+      "title_en": "PHP2Shell: AI uncovers critical RCE in PHP",
+      "url": "https://www.wiz.io/blog/php2shell-php-rce",
+      "title_zh": "PHP2Shell：AI 发现 PHP 的关键远程代码执行漏洞",
+      "created_display": "Created: Oct 21, 2026 / 06:43 PT",
+      "image_url": "https://www.datocms-assets.com/75231/1792534907-img_7274.png?fm=webp",
+      "summary_en": "AI-driven tool PHP2Shell uncovers a critical PHP RCE vulnerability, illustrating how AI can accelerate security research and the importance of secure coding practices. The finding underscores the need for rigorous input validation and timely patching of PHP deployments.",
+      "summary_zh": "AI 驱动的工具 PHP2Shell 发现了一个严重的 PHP 远程执行漏洞，展示了 AI 在安全研究中的潜力与风险。此发现强调对 PHP 部署进行严格的输入校验与快速修补的重要性。",
+      "hn": {
+        "id": 50180836,
+        "type": "story",
+        "by": "danlark1",
+        "score": 445,
+        "descendants": 183,
+        "time": 1792590199,
+        "comments_url": "https://news.ycombinator.com/item?id=50180836"
+      },
+      "tags": [
+        "AI",
+        "Security"
+      ],
+      "hot_score": 1.02
+    },
+    {
+      "title_en": "Show HN: SimCity, but with Permits",
+      "url": "https://permit.petercai.com/",
+      "title_zh": "带许可制度的模拟城市",
+      "created_display": "Created: Oct 20, 2026 / 11:29 PT",
+      "image_url": "https://permit.petercai.com/marketing/og.jpg",
+      "summary_en": "A playful project adds permit bureaucracy to a SimCity-like environment, showing how permit delays shape growth, zoning decisions, and development timelines. The result offers a tangible look at how administrative friction can influence urban planning experiments and policy outcomes.",
+      "summary_zh": "一个将许可制度引入类似 SimCity 的模拟环境的有趣项目，展示许可拖延如何影响城市增长、分区决策与开发节奏。该成果为官僚摩擦如何影响城市规划实验与政策结果提供了直观的观察。",
+      "hn": {
+        "id": 50170593,
+        "type": "story",
+        "by": "pcai",
+        "score": 922,
+        "descendants": 416,
+        "time": 1792520949,
+        "comments_url": "https://news.ycombinator.com/item?id=50170593"
+      },
+      "tags": [
+        "Show HN",
+        "Web"
+      ],
+      "hot_score": 0.85
+    },
+    {
+      "title_en": "The Future of CSS",
+      "url": "https://www.joshwcomeau.com/css/interop-2027/",
+      "title_zh": "CSS 的未来",
+      "created_display": "Created: Oct 20, 2026 / 18:47 PT",
+      "image_url": "https://www.joshwcomeau.com/images/og-interop-2027.png",
+      "summary_en": "CSS is evolving toward stronger cross‑browser interoperability and more programmable styling. Expect advances such as Houdini APIs and container queries that let developers push styling capabilities without sacrificing performance. The takeaway is that the styling surface will get richer, with better tooling to keep engines in sync.",
+      "summary_zh": "CSS 将在跨浏览器互操作性和可编程样式方面变得更强大。预计会有 Houdini API、容器查询等新特性，帮助开发者在不牺牲性能的前提下扩展样式能力。核心要点是样式体系将更丰富，工具链与引擎之间的协作也将同步提升。",
+      "hn": {
+        "id": 50175070,
+        "type": "story",
+        "by": "soheilpro",
+        "score": 616,
+        "descendants": 275,
+        "time": 1792547248,
+        "comments_url": "https://news.ycombinator.com/item?id=50175070"
+      },
+      "tags": [
+        "Programming",
+        "Web"
+      ],
+      "hot_score": 0.77
+    },
+    {
+      "title_en": "Meta hit with $25B penalty for deceiving users about privacy on Facebook",
+      "url": "https://nmdoj.gov/press-release/the-new-mexico-department-of-justice-secures-another-landmark-victory-against-big-tech-with-historic-25-billion-penalty-against-facebook/",
+      "title_zh": "Meta因在Facebook隐私方面欺骗用户被罚160亿美元",
+      "created_display": "Created: Oct 21, 2026 / 12:26 PT",
+      "image_url": "https://nmdoj.gov/wp-content/uploads/NMDOJ-Logo-Primary-Horizontal-white-gold-Long.png",
+      "summary_en": "The New Mexico DOJ imposes a $25 billion penalty on Meta for deceptive privacy practices on Facebook, marking a major privacy-enforcement milestone. The decision signals intensified scrutiny over how social platforms disclose data handling and may raise compliance costs for big tech.",
+      "summary_zh": "新墨西哥州司法部对 Meta 的处罚金额高达250亿美元，指控其在 Facebook 的隐私披露方面存在误导行为，成为隐私执法的重要里程碑。该决定凸显对社交平台数据处理披露的加强监管，可能增加大型科技公司的合规成本。",
+      "hn": {
+        "id": 50186215,
+        "type": "story",
+        "by": "DeepLogin",
+        "score": 206,
+        "descendants": 2,
+        "time": 1792610780,
+        "comments_url": "https://news.ycombinator.com/item?id=50186215"
+      },
+      "hot_score": 0.7,
+      "tags": [
+        "Privacy",
+        "Legal"
+      ]
+    },
+    {
+      "title_en": "OpenAI models are coming to Google Cloud",
+      "url": "https://openai.com/index/openai-models-google-cloud/",
+      "title_zh": "OpenAI 模型将登陆 Google Cloud",
+      "created_display": "Created: Oct 21, 2026 / 05:53 PT",
+      "image_url": "https://images.ctfassets.net/kftzwdyauwt9/659u0DsrtDQd9LxI8L4J9M/0b95908d6a9ed46ffe20b23d081574b4/openai-models-coming-to-google-cloud-social.png?w=1600&h=900&fit=fill",
+      "summary_en": "OpenAI models are coming to Google Cloud, letting enterprises run GPT-style models within GCP. The expansion broadens enterprise AI options while intensifying competition in the cloud AI space and raising data governance considerations.",
+      "summary_zh": "OpenAI 的模型将进入 Google Cloud，企业可在 GCP 上直接使用类似 GPT 的模型。此举扩展了企业级 AI 的选择，并加剧云端 AI 领域的竞争，同时带来数据治理的新挑战。",
+      "hn": {
+        "id": 50180079,
+        "type": "story",
+        "by": "armcat",
+        "score": 316,
+        "descendants": 139,
+        "time": 1792587191,
+        "comments_url": "https://news.ycombinator.com/item?id=50180079"
+      },
+      "tags": [
+        "AI"
+      ],
+      "hot_score": 0.69
+    },
+    {
+      "title_en": "Voxtral 3",
+      "url": "https://mistral.ai/news/voxtral-3/",
+      "title_zh": "Voxtral 3 上线",
+      "created_display": "Created: Oct 20, 2026 / 09:02 PT",
+      "image_url": "https://mistral.ai/cms-media/api/media/file/hero-blog-voxtral.png",
+      "summary_en": "Mistral AI unveils Voxtral 3, the latest entry in its Voxtral family. The release signals continued momentum in open-weight models and the trend toward more capable, accessible AI cores.",
+      "summary_zh": "Mistral AI 发布 Voxtral 3，是 Voxtral 系列的最新版本。该发布体现了开源权重模型的持续发展，以及更强大、易接入的 AI 核心的趋势。",
+      "hn": {
+        "id": 50168396,
+        "type": "story",
+        "by": "ilreb",
+        "score": 765,
+        "descendants": 199,
+        "time": 1792512127,
+        "comments_url": "https://news.ycombinator.com/item?id=50168396"
+      },
+      "tags": [
+        "AI",
+        "Open Source"
+      ],
+      "hot_score": 0.65
+    },
+    {
+      "title_en": "PHP 8.5.12, 8.4.27, 8.3.36 and 8.2.35 out",
+      "url": "https://www.php.net/index.php",
+      "title_zh": "PHP 8.5.12、8.4.27、8.3.36 和 8.2.35 发布",
+      "created_display": "Created: Oct 21, 2026 / 06:50 PT",
+      "image_url": "https://www.php.net/images/meta-image.png",
+      "summary_en": "Updates across four PHP branches—8.5.12, 8.4.27, 8.3.36, and 8.2.35—ship with security fixes and bug fixes. Administrators should plan upgrades to mitigate vulnerabilities and improve stability across deployments.",
+      "summary_zh": "同时发布了四个 PHP 版本分支的更新，包含安全和错误修正。建议管理员安排升级以降低漏洞风险并提升部署的稳定性。",
+      "hn": {
+        "id": 50180943,
+        "type": "story",
+        "by": "timvdalen",
+        "score": 277,
+        "descendants": 2,
+        "time": 1792590605,
+        "comments_url": "https://news.ycombinator.com/item?id=50180943"
+      },
+      "tags": [
+        "Programming",
+        "Security"
+      ],
+      "hot_score": 0.64
+    },
+    {
+      "title_en": "Patch the Planet: global response coordination as agents uncover vulnerabilities",
+      "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/",
+      "title_zh": "Patch the Planet：代理发现漏洞时的全球响应协调",
+      "created_display": "Created: Oct 21, 2026 / 07:03 PT",
+      "image_url": "https://images.ctfassets.net/kftzwdyauwt9/xq2rRszwLvIAxOynZi2qa/b1cf094a0d095f67821bf4b8cfaba0b9/coordinated-disclosure-of-critical-vulnerabilities-social.png?w=1600&h=900&fit=fill",
+      "summary_en": "Global coordination is essential when agents uncover vulnerabilities, with a push for coordinated disclosure and cross-border collaboration. The framework outlines scalable remediation workflows and governance practices for responsible AI deployments.",
+      "summary_zh": "Patch the Planet 探讨当自动化代理发现漏洞时，全球各方如何协同应对，强调协同披露与跨境协作，以及大规模修复的治理方法。为负责任的 AI 部署提供了可操作的框架。",
+      "hn": {
+        "id": 50181175,
+        "type": "story",
+        "by": "nr378",
+        "score": 260,
+        "descendants": 182,
+        "time": 1792591423,
+        "comments_url": "https://news.ycombinator.com/item?id=50181175"
+      },
+      "tags": [
+        "Security",
+        "AI"
+      ],
+      "hot_score": 0.61
+    },
+    {
+      "title_en": "Dutch National Cyber Security Center is Offline because it uses PHP",
+      "url": "https://www.ncsc.nl/actueel",
+      "title_zh": "荷兰国家网络安全中心因使用 PHP 而离线",
+      "created_display": "Created: Oct 21, 2026 / 05:31 PT",
+      "image_url": "https://www.ncsc.nl/images/rijkslogo.svg",
+      "summary_en": "A post claims the Dutch National Cyber Security Center went offline because of PHP, fueling a broader debate about language choices for critical infrastructure. The claim highlights security and reliability questions around using PHP in national-grade systems.",
+      "summary_zh": "有帖文称荷兰国家网络安全中心因使用 PHP 而离线，点燃了对关键基础设施语言选择的辩论。此说法突显在国家级系统中使用 PHP 所带来的安全性与可靠性疑问。",
+      "hn": {
+        "id": 50179828,
+        "type": "story",
+        "by": "jacquesm",
+        "score": 270,
+        "descendants": 94,
+        "time": 1792585888,
+        "comments_url": "https://news.ycombinator.com/item?id=50179828"
+      },
+      "tags": [
+        "Security",
+        "Programming",
+        "DevOps"
+      ],
+      "hot_score": 0.58
+    },
+    {
+      "title_en": "Qwen3-Coder writes less secure code when told it's for a US persona",
+      "url": "https://www.hirundo.io/blog/qwen3-coder-vulnerabilities",
+      "title_zh": "当被要求以美国人设输出时，Qwen3-Coder 代码更不安全",
+      "created_display": "Created: Oct 21, 2026 / 05:22 PT",
+      "image_url": "https://cdn.prod.website-files.com/660fce732403d63a75c55289/6ad7819dd5fa2641cf6f79fa_qwen3-coder-01-gap-closed.png",
+      "summary_en": "Qwen3-Coder outputs less secure code when asked to adopt a US persona, revealing how persona constraints can impact security; emphasizes need for safeguards and cross-checks in AI coding tools.",
+      "summary_zh": "当被要求按美国人设输出代码时，Qwen3-Coder 的代码安全性下降，揭示角色设定可能对安全性造成负面影响。强调需要对 AI 编码工具加入保护措施与交叉检查。",
+      "hn": {
+        "id": 50179706,
+        "type": "story",
+        "by": "mattifrank",
+        "score": 241,
+        "descendants": 117,
+        "time": 1792585359,
+        "comments_url": "https://news.ycombinator.com/item?id=50179706"
+      },
+      "tags": [
+        "AI",
+        "Programming",
+        "Security"
+      ],
+      "hot_score": 0.51
+    },
+    {
+      "title_en": "Oregon lawmakers approve money to buy an iconic waterfall listed on Redfin",
+      "url": "https://apnews.com/article/oregon-waterfall-for-sale-lawmakers-996de63462d49ec3ad9bee1629fb9488",
+      "title_zh": "俄勒冈州议员批准购买一处标志性瀑布的经费",
+      "created_display": "Created: Oct 21, 2026 / 08:20 PT",
+      "image_url": null,
+      "summary_en": "Oregon lawmakers allocate funds to purchase a famous waterfall that was listed for sale. The move spotlights tensions between public access, private ownership, and preservation of natural landmarks.",
+      "summary_zh": "俄勒冈州议员批准为这座标志性瀑布出资购置，瀑布据称在公开市场挂牌。此举凸显公共可及性、私有产权与自然地标保护之间的博弈。",
+      "hn": {
+        "id": 50182526,
+        "type": "story",
+        "by": "surprisetalk",
+        "score": 193,
+        "descendants": 97,
+        "time": 1792596004,
+        "comments_url": "https://news.ycombinator.com/item?id=50182526"
+      },
+      "tags": [
+        "Politics"
+      ],
+      "hot_score": 0.49
+    },
+    {
+      "title_en": "Muse exposes users' personal and business secrets when they share conversations",
+      "url": "https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/",
+      "title_zh": "Muse 在共享对话时暴露用户的个人与商业秘密",
+      "created_display": "Created: Oct 20, 2026 / 17:45 PT",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/ai-robot-hand-caution-1152x648.jpg",
+      "summary_en": "Muse reportedly exposes sensitive personal and business secrets when conversations are shared, highlighting a privacy risk in collaborative AI tools. The issue underscores the need for stronger data handling and access controls in shared contexts. Enterprises using such tools should re-evaluate data exposure surfaces and mitigate accordingly.",
+      "summary_zh": "Muse 在共享对话时暴露了用户的个人和商业秘密，凸显协作型 AI 工具中的隐私风险。问题强调需要在共享场景中加强数据处理与访问控制。使用此类工具的企业应重新评估数据暴露面并采取缓解措施。",
+      "hn": {
+        "id": 50174687,
+        "type": "story",
+        "by": "gumby",
+        "score": 400,
+        "descendants": 173,
+        "time": 1792543559,
+        "comments_url": "https://news.ycombinator.com/item?id=50174687"
+      },
+      "tags": [
+        "Privacy",
+        "Security",
+        "AI"
+      ],
+      "hot_score": 0.48
+    },
+    {
+      "title_en": "PingCap TiDB Leaks",
+      "url": "https://fulcrumsec.vg/pingcap/",
+      "title_zh": "PingCap TiDB 漏洞曝光",
+      "created_display": "Created: Oct 20, 2026 / 15:45 PT",
+      "image_url": "https://fulcrumsec.vg/pingcap/pingcap_card.jpg",
+      "summary_en": "Security researchers report TiDB leaks that could expose sensitive data or configuration details. The note outlines the scope, risk, and recommended mitigations.",
+      "summary_zh": "安全研究人员披露了 PingCap TiDB 的漏洞暴露风险，可能导致敏感数据或配置信息泄露。文章概述了受影响范围、风险等级及缓解措施。",
+      "hn": {
+        "id": 50173716,
+        "type": "story",
+        "by": "swyx",
+        "score": 412,
+        "descendants": 71,
+        "time": 1792536339,
+        "comments_url": "https://news.ycombinator.com/item?id=50173716"
+      },
+      "tags": [
+        "Security"
+      ],
+      "hot_score": 0.45
+    },
+    {
+      "title_en": "What shall I teach my son?",
+      "url": "https://stevekrouse.com/ends",
+      "title_zh": "我应该教我的儿子什么？",
+      "created_display": "Created: Oct 20, 2026 / 10:25 PT",
+      "image_url": null,
+      "summary_en": "A personal reflection on what to teach your child, urging emphasis on critical thinking, empathy, and problem-solving over rote metrics.",
+      "summary_zh": "一篇关于该教儿子什么的个人反思，强调批判性思维、同理心与解决问题能力的重要性，而非死记硬背的指标。",
+      "hn": {
+        "id": 50169707,
+        "type": "story",
+        "by": "Curiositry",
+        "score": 483,
+        "descendants": 628,
+        "time": 1792517107,
+        "comments_url": "https://news.ycombinator.com/item?id=50169707"
+      },
+      "tags": [
+        "Education"
+      ],
+      "hot_score": 0.43
+    },
+    {
+      "title_en": "Whatever Happened to Fire Escapes",
+      "url": "https://practical.engineering/blog/2026/10/20/whatever-happened-to-fire-escapes",
+      "title_zh": "消防逃生梯：到底发生了什么",
+      "created_display": "Created: Oct 21, 2026 / 03:14 PT",
+      "image_url": "http://static1.squarespace.com/static/55ac34e4e4b0170ef54be632/55ac3907e4b03d1c8c9deff1/6ad79062c1822417fa50b3e6/1792512206454/PREN_E115_Fire-Escapes-B+%281%29.jpg?format=1500w",
+      "summary_en": "A technical look at what happened to fire escapes, examining safety, retrofit challenges, and urban design shifts that have reduced reliance on external egress.",
+      "summary_zh": "深入探讨消防逃生梯的现状，分析在安全性、老化改造和城市设计方面的挑战，以及为何一些城市对外部逃生梯的依赖在减少，对建筑法规和居住安全意味着什么。",
+      "hn": {
+        "id": 50178455,
+        "type": "story",
+        "by": "sohkamyung",
+        "score": 193,
+        "descendants": 158,
+        "time": 1792577683,
+        "comments_url": "https://news.ycombinator.com/item?id=50178455"
+      },
+      "hot_score": 0.36,
+      "tags": [
+        "Design"
+      ]
+    },
+    {
+      "title_en": "Google open-sources TorchTPU, a native PyTorch back end for TPUs",
+      "url": "https://github.com/google-pytorch/torch_tpu",
+      "title_zh": "Google 开源 TorchTPU：面向 TPUs 的原生 PyTorch 后端",
+      "created_display": "Created: Oct 20, 2026 / 09:40 PT",
+      "image_url": "https://opengraph.githubassets.com/32a1a94e5709ac3832cc25069cf7deaa4e3ef2a1f281b3be9fd463181d81fd11/google-pytorch/torch_tpu",
+      "summary_en": "Google open-sources TorchTPU, a native PyTorch backend for TPUs, making TPUs feel like a first-class citizen for PyTorch users. This lowers the barrier to running PyTorch models on Google's accelerators and could shift performance comparisons across ML stacks.",
+      "summary_zh": "Google 将 TorchTPU 开源，提供对 TPUs 的原生 PyTorch 后端，使 PyTorch 用户能够直接在 TPUs 上运行模型。此举降低了在 TPU 上运行 PyTorch 的门槛，可能改变不同 ML 堆栈间的性能对比。",
+      "hn": {
+        "id": 50169053,
+        "type": "story",
+        "by": "ilreb",
+        "score": 378,
+        "descendants": 90,
+        "time": 1792514424,
+        "comments_url": "https://news.ycombinator.com/item?id=50169053"
+      },
+      "tags": [
+        "Open Source",
+        "Programming",
+        "Web"
+      ],
+      "hot_score": 0.33
+    },
+    {
+      "title_en": "The Other Epidemic: Trying to get off benzodiazepines",
+      "url": "https://www.thebeliever.net/the-other-epidemic/",
+      "title_zh": "另一种流行病：戒除苯二氮卓类药物的挑战",
+      "created_display": "Created: Oct 20, 2026 / 16:04 PT",
+      "image_url": null,
+      "summary_en": "An intimate look at the challenge of tapering off benzodiazepines, highlighting withdrawal symptoms, relapse risk, and the gaps in care for people seeking to discontinue. The piece reframes prescription dependence as a broader public-health issue, urging safer tapering, patient-centered support, and better clinician guidance.",
+      "summary_zh": "这篇文章用个人视角揭示戒除苯二氮卓类药物的艰难过程，强调戒断症状、复发风险，以及医疗体系在扶持中的不足。它把处方药依赖看作广泛的公共卫生议题，呼吁更安全的减药路径、以患者为中心的支持，以及更清晰的临床指引。",
+      "hn": {
+        "id": 50173891,
+        "type": "story",
+        "by": "gaplong",
+        "score": 298,
+        "descendants": 242,
+        "time": 1792537449,
+        "comments_url": "https://news.ycombinator.com/item?id=50173891"
+      },
+      "tags": [
+        "Health"
+      ],
+      "hot_score": 0.33
+    },
+    {
+      "title_en": "Feds suspect ransom negotiator ran ShinyHunters extortion site",
+      "url": "https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/",
+      "title_zh": "联邦调查人员怀疑勒索谈判者运营 ShinyHunters 的勒索网站",
+      "created_display": "Created: Oct 20, 2026 / 15:21 PT",
+      "image_url": "https://krebsonsecurity.com/b-doppel/17.png",
+      "summary_en": "US prosecutors allege a ransom negotiator ran the extortion site used by the ShinyHunters gang, acting as the broker between victims and attackers. If true, the case exposes a monetization choke point in cybercrime and could shape how authorities disrupt extortion ecosystems and pursue suspects. It underscores how sophisticated threat actors rely on intermediaries to pressure victims and extract payments.",
+      "summary_zh": "美国检方指控一名勒索谈判人运营被 ShinyHunters 用来施压受害者的勒索网站，充当攻击者与受害者之间的中介。若指控成立，这一角色揭示了网络犯罪生态中的货币化环节，可能影响执法机构打击勒索网络的策略。事件凸显威胁行为体对中间人依赖以推动敲诈和索取赎金的作业流程。",
+      "hn": {
+        "id": 50173487,
+        "type": "story",
+        "by": "Bender",
+        "score": 267,
+        "descendants": 146,
+        "time": 1792534865,
+        "comments_url": "https://news.ycombinator.com/item?id=50173487"
+      },
+      "tags": [
+        "Security",
+        "Legal"
+      ],
+      "hot_score": 0.29
+    },
+    {
+      "title_en": "Sixteen years after Deepwater Horizon, deep sea life shows few signs of recovery",
+      "url": "https://e360.yale.edu/digest/deepwater-horizon-deep-sea-recovery",
+      "title_zh": "深海生物在深水地平线事件六分之一处恢复缓慢的证据",
+      "created_display": "Created: Oct 20, 2026 / 08:59 PT",
+      "image_url": "https://yale-threesixty.transforms.svdcdn.com/production/Deepwater-Horizon-Spill_Wikipedia.jpg?w=1200&q=60&auto=format&fit=max&dm=1792489301&s=ff36b6fd91e134824960f411e3836588",
+      "summary_en": "Sixteen Years After Deepwater Horizon, Deep Sea Life Shows Few Signs of Recovery",
+      "summary_zh": "深海生命在深水地平线事件后16年几乎没有显现显著恢复的证据。",
+      "hn": {
+        "id": 50168357,
+        "type": "story",
+        "by": "speckx",
+        "score": 319,
+        "descendants": 192,
+        "time": 1792511946,
+        "comments_url": "https://news.ycombinator.com/item?id=50168357"
+      },
+      "tags": [
+        "Science"
+      ],
+      "hot_score": 0.27
+    },
+    {
+      "title_en": "Good type against all odds",
+      "url": "https://unsung.aresluna.org/good-type-against-all-odds/",
+      "title_zh": "逆境中的好类型",
+      "created_display": "Created: Oct 20, 2026 / 18:45 PT",
+      "image_url": "https://unsung.aresluna.org/_media/good-type-against-all-odds/ogimage.jpg",
+      "summary_en": "A concise essay argues that well-made, resilient ideas endure against the odds, offering practical lessons for design and engineering.",
+      "summary_zh": "一篇简短的文章论证，精心打造、具备韧性的“好类型”在重重困难中依然能坚持，为设计与工程提供切实的教训。",
+      "hn": {
+        "id": 50175059,
+        "type": "story",
+        "by": "firloop",
+        "score": 207,
+        "descendants": 24,
+        "time": 1792547107,
+        "comments_url": "https://news.ycombinator.com/item?id=50175059"
+      },
+      "hot_score": 0.26,
+      "tags": [
+        "Design"
+      ]
+    },
+    {
+      "title_en": "Academics have a duty to defend open knowledge systems like Wikipedia",
+      "url": "https://blogs.lse.ac.uk/impactofsocialsciences/2026/10/19/academics-have-a-duty-to-defend-open-knowledge-systems-like-wikipedia/",
+      "title_zh": "学者有义务捍卫开放知识体系，如维基百科",
+      "created_display": "Created: Oct 20, 2026 / 11:51 PT",
+      "image_url": null,
+      "summary_en": "An opinion piece argues academics bear responsibility to defend open knowledge ecosystems; discusses openness vs. enclosure debates and suggests actions for scholars to support open knowledge.",
+      "summary_zh": "观点文章认为学者有责任捍卫开放知识体系，如维基百科，讨论开放与封闭之争，并提出支持开放知识的行动方向。",
+      "hn": {
+        "id": 50170917,
+        "type": "story",
+        "by": "jruohonen",
+        "score": 229,
+        "descendants": 153,
+        "time": 1792522300,
+        "comments_url": "https://news.ycombinator.com/item?id=50170917"
+      },
+      "tags": [
+        "Open Source",
+        "Education"
+      ],
+      "hot_score": 0.21
+    },
+    {
+      "title_en": "Anthropic logged net loss of over $80B in first half of 2026",
+      "url": "https://www.reuters.com/business/anthropic-recorded-net-loss-over-80-billion-first-half-this-year-wsj-reports-2026-10-20/",
+      "title_zh": "Anthropic 上半年净亏损超过800亿美元",
+      "created_display": "Created: Oct 20, 2026 / 13:09 PT",
+      "image_url": null,
+      "summary_en": "Anthropic reported a net loss in the first half of 2026 of over $80B, underscoring the steep burn rate as AI startups chase scale and market share. The figure highlights pressure on fundraising and the need for a clear profitability path in a competitive AI tooling landscape.",
+      "summary_zh": "Anthropic 在 2026 年上半年净亏损超过 800 亿美元，凸显在追求规模与市场份额过程中的高烧耗。此数字反映出筹资压力和在竞争激烈的 AI 工具市场中寻求盈利路径的必要性。",
+      "hn": {
+        "id": 50171966,
+        "type": "story",
+        "by": "throwa356262",
+        "score": 188,
+        "descendants": 95,
+        "time": 1792526986,
+        "comments_url": "https://news.ycombinator.com/item?id=50171966"
+      },
+      "hot_score": 0.18,
+      "tags": [
+        "Business",
+        "Finance",
+        "AI"
+      ]
+    }
+  ]
+}

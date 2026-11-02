@@ -1,0 +1,1163 @@
+{
+  "meta": {
+    "mode": "best",
+    "source": "https://news.ycombinator.com/",
+    "api": "https://github.com/HackerNews/API",
+    "count_requested": 50,
+    "count_written": 50,
+    "reused_same_day": 0,
+    "reused_cross_day": 23,
+    "new_llm_enriched": 8,
+    "scrape_time_display": "06:12, April 03, 2026 (PDT)",
+    "timezone": "America/Los_Angeles",
+    "date_dir": "2026/04/02",
+    "content_date": "2026-04-02",
+    "run_time_local": "06:12, April 03, 2026 (PDT)",
+    "run_time_utc": "2026-04-03 13:12:40 UTC",
+    "incremental": true,
+    "stories_max": 50,
+    "hot_score_time_utc": "2026-04-03 13:13:21 UTC"
+  },
+  "items": [
+    {
+      "title_en": "European alternatives to Google, Apple, Dropbox and 120 US apps",
+      "url": "https://only-eu.eu/en/",
+      "title_zh": "欧洲可替代品：覆盖 Google、Apple、Dropbox 与 120 款美企应用",
+      "created_display": "Created: Apr 03, 2026 / 02:37 PT",
+      "image_url": "https://only-eu.eu/og-default.png",
+      "summary_en": "Europe is building a local ecosystem of alternatives to major US tech giants, offering locally developed services for search, cloud, and productivity. The initiative aims to reduce dependency on U.S.-based platforms and spur EU-friendly data governance, privacy, and security standards.",
+      "summary_zh": "欧洲正培育一套替代美国巨头的本地化生态系统，覆盖搜索、云端和办公等领域。此举意在降低对美国平台的依赖，推动更符合欧盟隐私和数据治理的标准。",
+      "hn": {
+        "id": 47624741,
+        "type": "story",
+        "by": "madman_dev",
+        "score": 326,
+        "descendants": 140,
+        "time": 1775209044,
+        "comments_url": "https://news.ycombinator.com/item?id=47624741"
+      },
+      "hot_score": 14.63,
+      "tags": [
+        "Startups",
+        "Privacy",
+        "Security"
+      ]
+    },
+    {
+      "title_en": "Show HN: Apfel – The free AI already on your Mac",
+      "url": "https://apfel.franzai.com",
+      "title_zh": "Show HN: Apfel — 你的 Mac 上已经有的免费 AI",
+      "created_display": "Created: Apr 03, 2026 / 02:15 PT",
+      "image_url": "https://raw.githubusercontent.com/Arthur-Ficial/apfel/main/screenshots/gui-chat.png",
+      "summary_en": "Apfel is a free AI that runs directly on macOS, letting users access AI capabilities without a cloud subscription. By processing locally, it aims to improve privacy and reduce reliance on external services.",
+      "summary_zh": "Apfel 是一款在 macOS 上本地运行的免费 AI，用户无需云端订阅即可获得人工智能能力。通过本地处理，它强调提高隐私并降低对外部服务的依赖。",
+      "hn": {
+        "id": 47624645,
+        "type": "story",
+        "by": "franze",
+        "score": 268,
+        "descendants": 44,
+        "time": 1775207734,
+        "comments_url": "https://news.ycombinator.com/item?id=47624645"
+      },
+      "hot_score": 10.73,
+      "tags": [
+        "Show HN",
+        "AI",
+        "Privacy"
+      ]
+    },
+    {
+      "title_en": "NHS staff refusing to use FDP over Palantir ethical concerns",
+      "url": "https://www.freevacy.com/news/financial-times/nhs-staff-refusing-to-use-fdp-over-palantir-ethical-concerns/7272",
+      "title_zh": "NHS 员工因 Palantir 道德担忧拒用 FDP",
+      "created_display": "Created: Apr 03, 2026 / 02:36 PT",
+      "image_url": "https://www.freevacy.com/storage/app/uploads/public/616/551/15b/thumb_4991_800_400_0_0_crop.jpg",
+      "summary_en": "NHS staff are reportedly refusing to use FDP because of ethical concerns related to Palantir's data practices and governance. The dispute highlights the broader tension between public-sector data initiatives and privacy, transparency, and vendor risk in government tech deployments.",
+      "summary_zh": "据报道，NHS 员工因对 Palantir 的数据处理与治理存在道德担忧，拒用 FDP。此事反映出公共部门数据计划在隐私、透明度与供应商风险方面面临的广泛挑战。",
+      "hn": {
+        "id": 47624736,
+        "type": "story",
+        "by": "chrisjj",
+        "score": 138,
+        "descendants": 38,
+        "time": 1775208993,
+        "comments_url": "https://news.ycombinator.com/item?id=47624736"
+      },
+      "hot_score": 6.14,
+      "tags": [
+        "Privacy",
+        "Security",
+        "Politics"
+      ]
+    },
+    {
+      "title_en": "Google releases Gemma 4 open models",
+      "url": "https://deepmind.google/models/gemma/gemma-4/",
+      "title_zh": "谷歌发布 Gemma 4 开源模型",
+      "created_display": "Created: Apr 02, 2026 / 09:10 PT",
+      "image_url": "https://lh3.googleusercontent.com/XtdGQ6B0XzfV1gByFCtGbxLthooBSyg6QZWJn4VuM4SpDduwdYqOPFWpxyMIv875LTG1zUt0Xm34B29PfjACwd6m8fLiQpFLkZnjR5bVmJnCDANx6g=w1200-h630-n-nu-rw",
+      "summary_en": "Google releases Gemma 4 open models, expanding the Gemma family with a newer generation that can be run by researchers and developers on their own hardware. This move underscores Google's push toward open, auditable AI and could accelerate experimentation outside managed cloud environments.",
+      "summary_zh": "谷歌发布 Gemma 4 开源模型，提供新一代可供研究者和开发者在本地硬件上运行的能力。这一举动凸显谷歌向开放、可审计的 AI 生态迈进，可能加速在自有环境中的研究与实验。",
+      "hn": {
+        "id": 47616361,
+        "type": "story",
+        "by": "jeffmcjunkin",
+        "score": 1581,
+        "descendants": 423,
+        "time": 1775146254,
+        "comments_url": "https://news.ycombinator.com/item?id=47616361"
+      },
+      "tags": [
+        "AI",
+        "Open Source",
+        "Hardware"
+      ],
+      "hot_score": 5.57
+    },
+    {
+      "title_en": "LinkedIn is searching your browser extensions",
+      "url": "https://browsergate.eu/",
+      "title_zh": "LinkedIn 正在搜索你的浏览器扩展",
+      "created_display": "Created: Apr 02, 2026 / 06:09 PT",
+      "image_url": null,
+      "summary_en": "A report suggests LinkedIn collects data from installed browser extensions, raising privacy and data-use questions for a platform that handles professional identity and recruitment. The practice highlights tensions between data collection for service improvement and user privacy.",
+      "summary_zh": "有报道指 LinkedIn 会收集已安装的浏览器扩展数据，引发关于隐私和数据使用的质疑，尤其是在处理专业身份与招聘的场景中。这一做法凸显了服务改进与用户隐私之间的紧张关系。",
+      "hn": {
+        "id": 47613981,
+        "type": "story",
+        "by": "digitalWestie",
+        "score": 1792,
+        "descendants": 728,
+        "time": 1775135349,
+        "comments_url": "https://news.ycombinator.com/item?id=47613981"
+      },
+      "tags": [
+        "Privacy",
+        "Data",
+        "Web"
+      ],
+      "hot_score": 5.06
+    },
+    {
+      "title_en": "Proton meet isn't what they told you it was",
+      "url": "https://www.sambent.com/proton-meet-isnt-what-they-told-you/",
+      "title_zh": "Proton Meet 并非如宣传所述",
+      "created_display": "Created: Apr 03, 2026 / 01:59 PT",
+      "image_url": "https://www.sambent.com/content/images/size/w1200/2026/03/proton-meet-isnt-what-they-told-you-v3.jpg",
+      "summary_en": "Proton Meet is facing scrutiny over its privacy claims and feature scope, suggesting it doesn't fully match what was promised. The piece calls into question marketing vs. product reality in privacy-centric collaboration tools.",
+      "summary_zh": "Proton Meet 被指未达到承诺的隐私承诺与功能范围，质疑其在以隐私为核心的协作工具中的宣传与产品真实之间的差距。此事提醒人们在隐私工具上要认真核实承诺并关注透明的产品路线图。",
+      "hn": {
+        "id": 47624558,
+        "type": "story",
+        "by": "bundie",
+        "score": 133,
+        "descendants": 117,
+        "time": 1775206785,
+        "comments_url": "https://news.ycombinator.com/item?id=47624558"
+      },
+      "hot_score": 4.91,
+      "tags": [
+        "Privacy"
+      ]
+    },
+    {
+      "title_en": "Decisions that eroded trust in Azure – by a former Azure Core engineer",
+      "url": "https://isolveproblems.substack.com/p/how-microsoft-vaporized-a-trillion",
+      "title_zh": "让 Azure 信任度受损的决策—一位前 Azure Core 工程师的看法",
+      "created_display": "Created: Apr 02, 2026 / 09:00 PT",
+      "image_url": null,
+      "summary_en": "A former Azure Core engineer details decisions that undermined customer trust, touching on feature deprecation, opaque updates, and governance friction that frustrated developers and admins. The piece reframes Azure’s evolution as a case study in cloud trust and product governance.",
+      "summary_zh": "一位前 Azure Core 工程师揭示削弱用户信任的决策，涉及功能弃用、更新不透明与治理摩擦等问题，令开发者和管理员感到挫败。该分析将 Azure 的演变视为云信任与产品治理的案例研究。",
+      "hn": {
+        "id": 47616242,
+        "type": "story",
+        "by": "axelriet",
+        "score": 916,
+        "descendants": 403,
+        "time": 1775145627,
+        "comments_url": "https://news.ycombinator.com/item?id=47616242"
+      },
+      "tags": [
+        "Security",
+        "Business"
+      ],
+      "hot_score": 3.18
+    },
+    {
+      "title_en": "Sweden goes back to basics, swapping screens for books in the classroom",
+      "url": "https://undark.org/2026/04/01/sweden-schools-books/",
+      "title_zh": "瑞典在校内实验减少屏幕使用，课堂以书本取代屏幕",
+      "created_display": "Created: Apr 02, 2026 / 03:50 PT",
+      "image_url": "https://undark.org/wp-content/uploads/2026/04/GettyImages-1781953068_crop.jpg",
+      "summary_en": "Sweden experiments with reducing screen time in schools to emphasize traditional reading and critical thinking, exploring impacts on attention, literacy, and learning outcomes. The approach signals a broader debate on how much technology belongs in classrooms and how to balance digital fluency with foundational skills.",
+      "summary_zh": "瑞典在校内实验减少屏幕使用，强调传统阅读和批判性思维，评估对注意力、读写能力与学习成效的影响。这一举措折射出对课堂中科技使用的更广泛辩论，以及数字素养与基礎技能之间的平衡。",
+      "hn": {
+        "id": 47612601,
+        "type": "story",
+        "by": "novaRom",
+        "score": 869,
+        "descendants": 413,
+        "time": 1775127000,
+        "comments_url": "https://news.ycombinator.com/item?id=47612601"
+      },
+      "tags": [
+        "Education",
+        "Culture"
+      ],
+      "hot_score": 2.1
+    },
+    {
+      "title_en": "Tailscale's new macOS home",
+      "url": "https://tailscale.com/blog/macos-notch-escape",
+      "title_zh": "Tailscale 的全新 macOS 应用 Home",
+      "created_display": "Created: Apr 02, 2026 / 11:22 PT",
+      "image_url": "https://cdn.sanity.io/images/w77i7m8x/production/be2e4419f4669282a3b09ee31e6e32a9cc328d51-1576x886.png",
+      "summary_en": "Tailscale unveils a new macOS app called Home, designed to streamline onboarding and network access on Macs. The release focuses on a native-like experience and features aimed at improving usability for Mac users, including improvements around how the app accommodates display quirks like the notch.",
+      "summary_zh": "Tailscale 推出名为 Home 的 macOS 应用，旨在简化 Mac 的网络接入与初始配置。新应用强调原生化体验，并通过改进对显示凹槽等硬件细节的适配，提升 Mac 用户的使用便捷性。",
+      "hn": {
+        "id": 47618189,
+        "type": "story",
+        "by": "tosh",
+        "score": 493,
+        "descendants": 245,
+        "time": 1775154123,
+        "comments_url": "https://news.ycombinator.com/item?id=47618189"
+      },
+      "tags": [
+        "Programming"
+      ],
+      "hot_score": 2.08
+    },
+    {
+      "title_en": "Cursor 3",
+      "url": "https://cursor.com/blog/cursor-3",
+      "title_zh": "Cursor 3 发布",
+      "created_display": "Created: Apr 02, 2026 / 11:13 PT",
+      "image_url": "https://ptht05hbb1ssoooe.public.blob.vercel-storage.com/assets/blog/og/opengraph-new-cursor-no-text-1-.png",
+      "summary_en": "Cursor 3 marks the latest release of the Cursor platform, bringing new features and performance enhancements. The update demonstrates continued maturation and competitive positioning within its software tools ecosystem.",
+      "summary_zh": "Cursor 3 作为该平台的最新版本，带来新特性与性能提升，体现出其软件工具生态的持续成熟与竞争力。",
+      "hn": {
+        "id": 47618084,
+        "type": "story",
+        "by": "adamfeldman",
+        "score": 459,
+        "descendants": 341,
+        "time": 1775153621,
+        "comments_url": "https://news.ycombinator.com/item?id=47618084"
+      },
+      "tags": [
+        "Programming"
+      ],
+      "hot_score": 1.91
+    },
+    {
+      "title_en": "Qwen3.6-Plus: Towards real world agents",
+      "url": "https://qwen.ai/blog?id=qwen3.6",
+      "title_zh": "Qwen3.6-Plus：迈向现实世界的智能代理",
+      "created_display": "Created: Apr 02, 2026 / 07:28 PT",
+      "image_url": null,
+      "summary_en": "Qwen3.6-Plus targets real-world agents, signaling a shift from pure chat to tool-enabled reasoning and action. The update likely improves grounding, reliability, and multi-step problem solving for practical tasks.",
+      "summary_zh": "Qwen3.6-Plus 迈向现实世界的智能代理，体现从单纯对话型模型向工具使用和多步推理更稳健的转变。该更新大概率提升模型的落地性、稳定性，以及与外部工具的集成能力。",
+      "hn": {
+        "id": 47615002,
+        "type": "story",
+        "by": "pretext",
+        "score": 558,
+        "descendants": 189,
+        "time": 1775140132,
+        "comments_url": "https://news.ycombinator.com/item?id=47615002"
+      },
+      "tags": [
+        "AI"
+      ],
+      "hot_score": 1.73
+    },
+    {
+      "title_en": "Artemis computer running two instances of MS outlook; they can't figure out why",
+      "url": "https://bsky.app/profile/nikigrayson.com/post/3miik2wzosk25",
+      "title_zh": "阿提米斯 II 航天员发现两台 Outlook 实例在计算机上运行",
+      "created_display": "Created: Apr 02, 2026 / 08:08 PT",
+      "image_url": "https://video.bsky.app/watch/did%3Aplc%3Ajzhiqz7fb5dj6h7cydluryvn/bafkreigqekn26g6ismbcxsyyx3w3ifa3ruoozkyjfdmkx2enz6am64fzhm/thumbnail.jpg",
+      "summary_en": "Astronauts on Artemis II report a computer running two Outlook instances, puzzling mission engineers. The anomaly underlines how even standard software can behave unpredictably in space-grade hardware and the need for robust debugging.",
+      "summary_zh": "阿提米斯 II 的航天员报告一台计算机上运行着两个 Outlook 实例，令任务工程师困惑。这一异常凸显在太空级硬件上普通软件也可能表现异常，需要更强的调试与排错能力。",
+      "hn": {
+        "id": 47615490,
+        "type": "story",
+        "by": "mooreds",
+        "score": 444,
+        "descendants": 338,
+        "time": 1775142525,
+        "comments_url": "https://news.ycombinator.com/item?id=47615490"
+      },
+      "tags": [
+        "Space",
+        "Hardware"
+      ],
+      "hot_score": 1.44
+    },
+    {
+      "title_en": "Lemonade by AMD: a fast and open source local LLM server using GPU and NPU",
+      "url": "https://lemonade-server.ai",
+      "title_zh": "AMD 的 Lemonade：一个使用 GPU/NPU 的快速开源本地 LLM 服务器",
+      "created_display": "Created: Apr 02, 2026 / 04:04 PT",
+      "image_url": "https://cdn.simpleicons.org/github/ffffff",
+      "summary_en": "AMD's Lemonade project showcases a fast, open-source local LLM server that uses both GPUs and NPUs to run offline, private inference. By removing cloud dependencies, it aims to empower private AI workloads on consumer hardware, with implications for data control and customization.",
+      "summary_zh": "AMD 的 Lemonade 项目是一个快速、开源的本地大语言模型服务器，利用 GPU 和 NPU 实现离线私有推理。它让在本地硬件上运行强大模型成为可能，提升数据隐私与定制化能力。",
+      "hn": {
+        "id": 47612724,
+        "type": "story",
+        "by": "AbuAssar",
+        "score": 528,
+        "descendants": 111,
+        "time": 1775127891,
+        "comments_url": "https://news.ycombinator.com/item?id=47612724"
+      },
+      "tags": [
+        "AI",
+        "Open Source",
+        "Hardware"
+      ],
+      "hot_score": 1.3
+    },
+    {
+      "title_en": "Steam on Linux Use Skyrocketed Above 5% in March",
+      "url": "https://www.phoronix.com/news/Steam-On-Linux-Tops-5p",
+      "title_zh": "Steam 在 Linux 的使用率于三月突破 5%",
+      "created_display": "Created: Apr 01, 2026 / 20:12 PT",
+      "image_url": "https://www.phoronix.net/image.php?id=2026&image=steam_march_1",
+      "summary_en": "Steam usage on Linux climbed past 5% in March, signaling growing gamer adoption on Linux platforms. Driven by Proton/Steam Deck and better driver support, this uptick could influence game porting decisions, driver development, and Linux ecosystem viability for gaming.",
+      "summary_zh": "三月 Linux 上 Steam 用户占比超过 5%，显示 Linux 平台的玩家采纳在增加。受 Proton/Steam Deck 和驱动支持改善推动，这一 uptick 可能影响游戏移植决策、驱动开发以及 Linux 的游戏生态可行性。",
+      "hn": {
+        "id": 47609564,
+        "type": "story",
+        "by": "hkmaxpro",
+        "score": 746,
+        "descendants": 351,
+        "time": 1775099544,
+        "comments_url": "https://news.ycombinator.com/item?id=47609564"
+      },
+      "tags": [
+        "Gaming"
+      ],
+      "hot_score": 1.18
+    },
+    {
+      "title_en": "Artemis II will use laser beams to live-stream 4K moon footage at 260 Mbps",
+      "url": "https://www.tomshardware.com/networking/artemis-ii-will-use-laser-beams-to-live-stream-4k-moon-footage-one-giant-step-beyond-the-s-band-radio-comms-of-the-apollo-era",
+      "title_zh": "阿提米斯 II 将用激光实现 4K 月球影像直播",
+      "created_display": "Created: Apr 02, 2026 / 08:04 PT",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/UxfVoNCm3hz9WnPYj3XzAQ-854-80.jpg",
+      "summary_en": "Artemis II will use laser communications to livestream 4K moon footage at 260 Mbps, a major upgrade over traditional radio links. The test showcases optical links’ potential to dramatically increase bandwidth for future crewed missions.",
+      "summary_zh": "阿提米斯 II 将通过激光通信以 260 Mbps 直播 4K 月球影像，较传统射频链路有明显提升。这一测试展示了光学链路在未来载人任务中大幅提升带宽的潜力。",
+      "hn": {
+        "id": 47615449,
+        "type": "story",
+        "by": "speckx",
+        "score": 353,
+        "descendants": 146,
+        "time": 1775142284,
+        "comments_url": "https://news.ycombinator.com/item?id=47615449"
+      },
+      "tags": [
+        "Space"
+      ],
+      "hot_score": 1.14
+    },
+    {
+      "title_en": "Good ideas do not need lots of lies in order to gain public acceptance (2008)",
+      "url": "https://blog.danieldavies.com/2004/05/d-squared-digest-one-minute-mba.html",
+      "title_zh": "好点子并不需要大量谎言来获得公众认同（2008）",
+      "created_display": "Created: Apr 02, 2026 / 10:29 PT",
+      "image_url": "https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_stPX-hJzPM7E1DNgTaB-tr3UnN67oNx-9KkyXDtwHSb-wqP4rcRoi9h0ZArLMeP9KLPFhKHj5vgSZPQcO_XdxvKkQ2GDE58E5oNuW4gYUi=s0-d",
+      "summary_en": "A 2008 blog reflection argues that solid ideas don’t rely on deception to win traction, highlighting ethics and trust in business and communication. It explores how manipulative tactics can short-circuit genuine adoption, and why integrity matters for long-term success.",
+      "summary_zh": "2008 年的一篇博客反思认为，成熟的想法不需要谎言来赢得公众认同，强调商业与传播中的道德与信任。文章分析了操纵性手段如何短期带来效应，以及长期成功为何依赖诚信。",
+      "hn": {
+        "id": 47617415,
+        "type": "story",
+        "by": "sedev",
+        "score": 290,
+        "descendants": 132,
+        "time": 1775150943,
+        "comments_url": "https://news.ycombinator.com/item?id=47617415"
+      },
+      "tags": [
+        "Business",
+        "Culture"
+      ],
+      "hot_score": 1.13
+    },
+    {
+      "title_en": "Artemis II Launch Day Updates",
+      "url": "https://www.nasa.gov/blogs/missions/2026/04/01/live-artemis-ii-launch-day-updates/",
+      "title_zh": "阿尔忒弥斯 II 发射日现场更新",
+      "created_display": "Created: Apr 01, 2026 / 10:11 PT",
+      "image_url": "https://www.nasa.gov/wp-content/uploads/2026/04/55182878409-d6c46a73a0-k.jpg",
+      "summary_en": "NASA is providing live updates as Artemis II's launch day unfolds. The coverage typically includes countdown progress, weather delays, crew status, and mission objectives for Orion’s first crewed lunar loop since Apollo. This day marks a milestone for the Artemis program and human return to the Moon, with implications for future crewed missions and commercial partnerships.",
+      "summary_zh": "在阿尔忒弥斯 II 发射日，NASA 实时更新将持续揭示倒计时进展、天气状况、乘员情况及猎户座任务目标等要点。这标志着阿尔忒弥斯计划的一次重要里程碑，并对未来载人登陆月球与商业伙伴关系产生深远影响。",
+      "hn": {
+        "id": 47603657,
+        "type": "story",
+        "by": "apitman",
+        "score": 1080,
+        "descendants": 936,
+        "time": 1775063491,
+        "comments_url": "https://news.ycombinator.com/item?id=47603657"
+      },
+      "tags": [
+        "Space"
+      ],
+      "hot_score": 1.1
+    },
+    {
+      "title_en": "I Am Not A Number. In memory of the more than 72,000 Palestinians killed",
+      "url": "https://bkhmsi.github.io/i-am-not-a-number/",
+      "title_zh": "我不是一个数字：纪念超过72,000名巴勒斯坦人遇难者",
+      "created_display": "Created: Apr 02, 2026 / 02:32 PT",
+      "image_url": "https://bkhmsi.github.io/i-am-not-a-number/screenshot.png",
+      "summary_en": "A memorial project honoring more than 72,000 Palestinian lives, pairing names with personal details to humanize the casualty toll. The work turns data into a narrative that underscores the human cost of conflict and elevates memory as a form of digital-era activism.",
+      "summary_zh": "这是一个纪念性项目，用超过72,000名巴勒斯坦人生命的数据背后讲述个人故事，试图把冷冰冰的数字变成人的经历。作品强调在数字纪念中保持人性，促使人们对冲突的人道代价保持关注。",
+      "hn": {
+        "id": 47612053,
+        "type": "story",
+        "by": "bjourne",
+        "score": 435,
+        "descendants": 120,
+        "time": 1775122333,
+        "comments_url": "https://news.ycombinator.com/item?id=47612053"
+      },
+      "tags": [
+        "Culture",
+        "Politics"
+      ],
+      "hot_score": 0.97
+    },
+    {
+      "title_en": "Delve allegedly forked an open-source tool and sold it as its own",
+      "url": "https://techcrunch.com/2026/04/01/the-reputation-of-troubled-yc-startup-delve-has-gotten-even-worse/",
+      "title_zh": "Delve 被指仿冒开源工具并以自有名义销售",
+      "created_display": "Created: Apr 02, 2026 / 08:03 PT",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2025/07/IMG_1542.jpeg?w=1170",
+      "summary_en": "Tech media report that Delve, a troubled YC-backed startup, allegedly forked an open-source tool and sold it as its own. The controversy underscores ongoing tensions around licensing, attribution, and investor confidence in early-stage AI ventures.",
+      "summary_zh": "Tech 圈报道显示备受争议的 YC 旗下初创公司 Delve 被指窃取开源工具并以自有产品在市场销售，此举反映出开源许可、署名以及投资者信心等方面的持续紧张关系。",
+      "hn": {
+        "id": 47615434,
+        "type": "story",
+        "by": "nickvec",
+        "score": 288,
+        "descendants": 147,
+        "time": 1775142188,
+        "comments_url": "https://news.ycombinator.com/item?id=47615434"
+      },
+      "tags": [
+        "Open Source",
+        "Business",
+        "Legal",
+        "AI",
+        "Startups"
+      ],
+      "hot_score": 0.93
+    },
+    {
+      "title_en": "Renewables reached nearly 50% of global electricity capacity last year",
+      "url": "https://www.theregister.com/2026/04/01/renewables_generated_nearly_half_global_power/",
+      "title_zh": "全球可再生能源约占电力容量的近一半",
+      "created_display": "Created: Apr 02, 2026 / 08:26 PT",
+      "image_url": "https://regmedia.co.uk/2025/09/26/shutterstock_solarandwind.jpg",
+      "summary_en": "Renewables reached nearly 50% of global electricity capacity last year, marking a pivotal shift in the energy mix. The milestone foregrounds challenges around grid integration, storage, and policy incentives needed to sustain the transition.",
+      "summary_zh": "去年全球可再生能源几乎占到全球电力容量的50%，标志着能源结构的重要转折。这一里程碑凸显了并网、储能以及维持转型所需的政策激励等挑战。",
+      "hn": {
+        "id": 47615756,
+        "type": "story",
+        "by": "Growtika",
+        "score": 277,
+        "descendants": 134,
+        "time": 1775143578,
+        "comments_url": "https://news.ycombinator.com/item?id=47615756"
+      },
+      "tags": [
+        "Energy"
+      ],
+      "hot_score": 0.92
+    },
+    {
+      "title_en": "OpenAI Acquires TBPN",
+      "url": "https://openai.com/index/openai-acquires-tbpn/",
+      "title_zh": "OpenAI 收购 TBPN",
+      "created_display": "Created: Apr 02, 2026 / 10:26 PT",
+      "image_url": null,
+      "summary_en": "OpenAI expands its ecosystem by acquiring TBPN to bolster its AI tooling, content distribution, or research partnerships, signaling a broader strategy to weave external networks into its platform. The move could affect tooling access and collaboration for developers and researchers.",
+      "summary_zh": "OpenAI 收购 TBPN，旨在扩展 AI 工具链、内容分发或研究合作网络，显示其在平台生态上的扩张策略。这一举措可能影响开发者与研究者的工具获取与协作方式。",
+      "hn": {
+        "id": 47617376,
+        "type": "story",
+        "by": "surprisetalk",
+        "score": 219,
+        "descendants": 180,
+        "time": 1775150809,
+        "comments_url": "https://news.ycombinator.com/item?id=47617376"
+      },
+      "tags": [
+        "Business",
+        "AI"
+      ],
+      "hot_score": 0.85
+    },
+    {
+      "title_en": "Modern SQLite: Features You Didn't Know It Had",
+      "url": "https://slicker.me/sqlite/features.htm",
+      "title_zh": "现代 SQLite：你不知道的功能",
+      "created_display": "Created: Apr 02, 2026 / 09:34 PT",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/SQLite370.svg/330px-SQLite370.svg.png",
+      "summary_en": "SQLite surprises with features often overlooked, from JSON1 and virtual tables to advanced indexing and write-ahead logging.",
+      "summary_zh": "SQLite 常被低估的功能其实很丰富，从 JSON 支持、虚拟表到高级索引和写前日志等均可提升移动和嵌入式应用的性能与鲁棒性。本文梳理了这些不易察觉的强大特性。",
+      "hn": {
+        "id": 47616704,
+        "type": "story",
+        "by": "thunderbong",
+        "score": 220,
+        "descendants": 61,
+        "time": 1775147679,
+        "comments_url": "https://news.ycombinator.com/item?id=47616704"
+      },
+      "hot_score": 0.8,
+      "tags": [
+        "Programming"
+      ]
+    },
+    {
+      "title_en": "Inside Nepal's Fake Rescue Racket",
+      "url": "https://kathmandupost.com/money/2026/03/27/inside-nepal-s-fake-rescue-racket",
+      "title_zh": "揭露尼泊尔的假救援骗局",
+      "created_display": "Created: Apr 02, 2026 / 04:40 PT",
+      "image_url": "https://assets-cdn.kathmandupost.com/uploads/source/news/2026/money/1280522ManojPhoto2-1774616809.jpg",
+      "summary_en": "Nepal's fake rescue racket exposed; scammers pose as legitimate emergency responders to solicit donations or payments. The piece analyzes methods, scale, and the impact on aid work, underscoring the need for watchdogs and safer donation channels.",
+      "summary_zh": "尼泊尔的假救援骗局被揭露，假扮紧急救援人员以敲诈捐款或费用。文章剖析此类骗局如何利用受害者脆弱性、运作渠道以及对加强监管和监督的呼吁。",
+      "hn": {
+        "id": 47613078,
+        "type": "story",
+        "by": "lode",
+        "score": 297,
+        "descendants": 127,
+        "time": 1775130041,
+        "comments_url": "https://news.ycombinator.com/item?id=47613078"
+      },
+      "tags": [
+        "Security"
+      ],
+      "hot_score": 0.76
+    },
+    {
+      "title_en": "DRAM pricing is killing the hobbyist SBC market",
+      "url": "https://www.jeffgeerling.com/blog/2026/dram-pricing-is-killing-the-hobbyist-sbc-market/",
+      "title_zh": "DRAM定价正在挤压爱好者级SBC市场",
+      "created_display": "Created: Apr 01, 2026 / 14:36 PT",
+      "image_url": "https://www.jeffgeerling.com/blog/2026/dram-pricing-is-killing-the-hobbyist-sbc-market/raspberry-pi-price-increase-since-launch.jpg",
+      "summary_en": "Rising DRAM prices are squeezing the hobbyist SBC market, where memory is a core cost. As memory becomes a larger share of BOM, many affordable boards struggle on margins and demand. The shift could push makers toward leaner designs or pre-bundled solutions.",
+      "summary_zh": "DRAM价格上涨挤压了爱好者级SBC市场，内存成本成为关键负担。随着内存占比上升，许多平价开发板的利润率和需求都被压缩。市场动荡可能促使厂商推出更节省内存的设计或打包解决方案。",
+      "hn": {
+        "id": 47606840,
+        "type": "story",
+        "by": "ingve",
+        "score": 614,
+        "descendants": 529,
+        "time": 1775079401,
+        "comments_url": "https://news.ycombinator.com/item?id=47606840"
+      },
+      "tags": [
+        "Hardware"
+      ],
+      "hot_score": 0.75
+    },
+    {
+      "title_en": "Amazon is adding a fuel surcharge to fees it collects from third-party sellers",
+      "url": "https://www.cnbc.com/2026/04/02/amazon-add-3point5percent-fuel-and-logistics-surcharge-for-sellers-amid-iran-war.html",
+      "title_zh": "亚马逊将向第三方卖家收取燃油及物流附加费",
+      "created_display": "Created: Apr 02, 2026 / 11:49 PT",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108069997-1733157828632-gettyimages-2187360081-2024_12_02_amazon_cyber_monday_mjrc434.jpeg?v=1775155866&w=1920&h=1080",
+      "summary_en": "Amazon is adding a 3.5% fuel and logistics surcharge to the fees it collects from third-party sellers. The move raises operating costs for marketplace merchants and could ripple into pricing and margins on the platform.",
+      "summary_zh": "亚马逊将向第三方卖家收取3.5%的燃油与物流附加费，进一步提高卖家在平台上的运营成本。这一举措可能挤压卖家利润并影响定价与竞争格局。",
+      "hn": {
+        "id": 47618581,
+        "type": "story",
+        "by": "lehi",
+        "score": 163,
+        "descendants": 93,
+        "time": 1775155778,
+        "comments_url": "https://news.ycombinator.com/item?id=47618581"
+      },
+      "hot_score": 0.71,
+      "tags": [
+        "Business",
+        "Finance"
+      ]
+    },
+    {
+      "title_en": "George Goble has died",
+      "url": "https://www.legacy.com/us/obituaries/wlfi/name/george-goble-obituary?id=61144779",
+      "title_zh": "George Goble 去世",
+      "created_display": "Created: Apr 02, 2026 / 11:21 PT",
+      "image_url": "https://cache.legacy.net/legacy/images/cobrands/legacyadn/photos/ea72f4cb-ebdb-4bda-9367-fc43681e7d83.jpgx?w=600&h=440",
+      "summary_en": "George Goble, a recognized figure in computing, has died. Obituaries celebrate his contributions and lasting impact on the field.",
+      "summary_zh": "计算机领域知名人物 George Goble 去世，讣告纪念他对行业的贡献与影响。",
+      "hn": {
+        "id": 47618176,
+        "type": "story",
+        "by": "finaard",
+        "score": 160,
+        "descendants": 33,
+        "time": 1775154068,
+        "comments_url": "https://news.ycombinator.com/item?id=47618176"
+      },
+      "tags": [
+        "Science"
+      ],
+      "hot_score": 0.67
+    },
+    {
+      "title_en": "EmDash – A spiritual successor to WordPress that solves plugin security",
+      "url": "https://blog.cloudflare.com/emdash-wordpress/",
+      "title_zh": "EmDash：解决插件安全问题的 WordPress 精神续作",
+      "created_display": "Created: Apr 01, 2026 / 09:14 PT",
+      "image_url": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/hBSrp5YJXIsn2IwBqdg2m/a22cf1285db3826ca159d83ab81076e0/EmDash-OG.png",
+      "summary_en": "EmDash positions itself as a security-focused successor to WordPress, redesigning plugin architecture to reduce attack surface and improve isolation. By reimagining plugin boundaries, it aims to deliver safer extensibility and better maintainability for developers and site owners.",
+      "summary_zh": "EmDash 将自己定位为以安全为导向的 WordPress 继任者，通过重新设计插件架构与沙箱机制来降低攻击面并提升隔离性。其目标是在保留插件扩展能力的同时，提高站点的安全性与可维护性，适合注重安全的开发者与站点管理员。",
+      "hn": {
+        "id": 47602832,
+        "type": "story",
+        "by": "elithrar",
+        "score": 672,
+        "descendants": 490,
+        "time": 1775060078,
+        "comments_url": "https://news.ycombinator.com/item?id=47602832"
+      },
+      "tags": [
+        "Security"
+      ],
+      "hot_score": 0.66
+    },
+    {
+      "title_en": "Significant raise of reports",
+      "url": "https://lwn.net/Articles/1065620/",
+      "title_zh": "报告数量显著上升",
+      "created_display": "Created: Apr 02, 2026 / 02:14 PT",
+      "image_url": "https://static.lwn.net/images/logo/barepenguin-70.png",
+      "summary_en": "There’s a significant uptick in reports across the ecosystem, suggesting more disclosures or alerts being issued. The trend highlights growing transparency but also pressures teams to triage and respond quickly.",
+      "summary_zh": "生态系统中报告数量显著上升，指向更频繁的披露、审计或事件通知。这一趋势既提升透明度，也对团队的分流与应急响应造成更大压力。",
+      "hn": {
+        "id": 47611921,
+        "type": "story",
+        "by": "stratos123",
+        "score": 298,
+        "descendants": 151,
+        "time": 1775121258,
+        "comments_url": "https://news.ycombinator.com/item?id=47611921"
+      },
+      "tags": [
+        "Security"
+      ],
+      "hot_score": 0.65
+    },
+    {
+      "title_en": "Email obfuscation: What works in 2026?",
+      "url": "https://spencermortensen.com/articles/email-obfuscation/",
+      "title_zh": "电子邮件混淆：2026年的有效做法",
+      "created_display": "Created: Apr 01, 2026 / 20:35 PT",
+      "image_url": "https://spencermortensen.com/articles/email-obfuscation/images/text-image.jpg",
+      "summary_en": "As automated scrapers get smarter, simple obfuscation like replacing characters is easily bypassed. A robust approach blends protocol protections (DMARC, SPF, DKIM) with thoughtful user experiences and risk-based email screening to reduce exposure.",
+      "summary_zh": "随着自动化抓取工具变得更智能，简单的混淆（例如替换字符）很容易被绕过。稳健的做法将域名认证（DMARC、SPF、DKIM）与用户体验设计和基于风险的邮箱筛查结合起来，以降低暴露面。",
+      "hn": {
+        "id": 47609694,
+        "type": "story",
+        "by": "jaden",
+        "score": 355,
+        "descendants": 99,
+        "time": 1775100933,
+        "comments_url": "https://news.ycombinator.com/item?id=47609694"
+      },
+      "tags": [
+        "Security",
+        "Privacy"
+      ],
+      "hot_score": 0.57
+    },
+    {
+      "title_en": "IBM Announces Strategic Collaboration with Arm",
+      "url": "https://newsroom.ibm.com/2026-04-02-ibm-announces-strategic-collaboration-with-arm-to-shape-the-future-of-enterprise-computing",
+      "title_zh": "IBM 宣布与 Arm 的战略合作，共塑企业计算未来",
+      "created_display": "Created: Apr 02, 2026 / 01:48 PT",
+      "image_url": "https://mma.prnewswire.com/media/2319830/IBM_LOGO_1.jpg?p=facebook",
+      "summary_en": "IBM partners with Arm to accelerate enterprise computing, focusing on AI, hybrid cloud, and scalable silicon ecosystems. The alliance could unlock Arm-based data center workloads and accelerate innovation in enterprise software, chip design, and ecosystem tooling.",
+      "summary_zh": "IBM 与 Arm 建立战略合作，旨在加速企业计算，聚焦 AI、混合云与可扩展的芯片生态。此举可能推动基于 Arm 的数据中心工作负载，并推动企业软件、芯片设计与生态工具的创新。",
+      "hn": {
+        "id": 47611721,
+        "type": "story",
+        "by": "bonzini",
+        "score": 269,
+        "descendants": 183,
+        "time": 1775119724,
+        "comments_url": "https://news.ycombinator.com/item?id=47611721"
+      },
+      "tags": [
+        "Business",
+        "AI",
+        "Hardware"
+      ],
+      "hot_score": 0.57
+    },
+    {
+      "title_en": "'Backrooms' and the Rise of the Institutional Gothic",
+      "url": "https://thereader.mitpress.mit.edu/backrooms-and-the-rise-of-the-institutional-gothic/",
+      "title_zh": "《后室》与制度化哥特的崛起",
+      "created_display": "Created: Apr 02, 2026 / 06:18 PT",
+      "image_url": null,
+      "summary_en": "Examines the Backrooms meme as a lens on bureaucratic spaces and institutional power, connecting liminal online workspaces to gothic aesthetics. It argues these spaces reveal anxieties about institutions in the digital age.",
+      "summary_zh": "以《后室》这一网路迷因为镜头，分析其如何映射出官僚化空间与制度权力的美学。文章将数字时代对机构的焦虑与怪诞感联系起来，揭示新兴的制度哥特风格。",
+      "hn": {
+        "id": 47614100,
+        "type": "story",
+        "by": "anarbadalov",
+        "score": 202,
+        "descendants": 98,
+        "time": 1775135885,
+        "comments_url": "https://news.ycombinator.com/item?id=47614100"
+      },
+      "tags": [
+        "Culture"
+      ],
+      "hot_score": 0.57
+    },
+    {
+      "title_en": "Subscription bombing and how to mitigate it",
+      "url": "https://bytemash.net/posts/subscription-bombing-your-signup-form-is-a-weapon/",
+      "title_zh": "订阅轰炸及其缓解方法",
+      "created_display": "Created: Apr 01, 2026 / 21:08 PT",
+      "image_url": "https://bytemash.net/posts/subscription-bombing-your-signup-form-is-a-weapon/index.png",
+      "summary_en": "Subscription bombing floods signup forms with automated signups, exhausting resources and sometimes disrupting campaigns. The takeaway is to deploy layered defenses: rate limiting, bot detection, CAPTCHAs, email verification, and anomaly monitoring to distinguish legitimate users from attackers.",
+      "summary_zh": "订阅轰炸用自动化注册淹没注册表，耗尽资源并可能干扰活动。应对策略应采取分层防护：限流、机器人检测、验证码、邮箱验证以及异常监测，区分真实用户和攻击者。",
+      "hn": {
+        "id": 47609882,
+        "type": "story",
+        "by": "homelessdino",
+        "score": 291,
+        "descendants": 179,
+        "time": 1775102885,
+        "comments_url": "https://news.ycombinator.com/item?id=47609882"
+      },
+      "tags": [
+        "Security"
+      ],
+      "hot_score": 0.48
+    },
+    {
+      "title_en": "The Weather Channel – RetroCast",
+      "url": "https://weather.com/retro/",
+      "title_zh": "气象频道推出 RetroCast 回顾系列",
+      "created_display": "Created: Apr 01, 2026 / 18:48 PT",
+      "image_url": "https://weather.com/retro/assets/social.jpg",
+      "summary_en": "RetroCast is a Weather Channel project that revisits historic weather events with modern analysis, offering context on climate trends and forecasting limits. It blends archived data with current methods to illustrate how weather understanding has evolved.",
+      "summary_zh": "RetroCast 是气象频道的一项回顾系列，用现代分析重新探讨历史天气事件，提供对气候趋势和预报边界的解读。通过将往昔数据与现有方法结合，展示气象科学的演变与教训。",
+      "hn": {
+        "id": 47609090,
+        "type": "story",
+        "by": "typeofhuman",
+        "score": 314,
+        "descendants": 58,
+        "time": 1775094498,
+        "comments_url": "https://news.ycombinator.com/item?id=47609090"
+      },
+      "tags": [
+        "Science"
+      ],
+      "hot_score": 0.46
+    },
+    {
+      "title_en": "Artemis II's toilet is a moon mission milestone",
+      "url": "https://www.scientificamerican.com/article/artemis-iis-toilet-is-a-moon-mission-milestone/",
+      "title_zh": "阿尔忒弥斯二号任务的太空厕所成为月球任务的里程碑",
+      "created_display": "Created: Apr 01, 2026 / 19:37 PT",
+      "image_url": "https://static.scientificamerican.com/dam/asset/04d75835-ce9b-4928-b141-5676d7fb9e28/55179630784_be27d4a51c_o-resize.jpg?m=1774995968.691&w=1200",
+      "summary_en": "The on-board toilet is a key life-support component for crewed lunar missions, and its completion marks progress for Artemis II’s deep-space habitation needs. As NASA readies a crewed lunar orbit, practical conveniences like waste management underscore the engineering depth behind human spaceflight.",
+      "summary_zh": "机上厕所是载人月球任务生存系统的关键部分，完成标志着阿尔忒弥斯二号在深空驻留能力方面取得进展。随着任务进入月轨道阶段，对废物管理等实际需求的解决，凸显了人类深空飞行背后的工程深度。",
+      "hn": {
+        "id": 47609356,
+        "type": "story",
+        "by": "1659447091",
+        "score": 279,
+        "descendants": 123,
+        "time": 1775097432,
+        "comments_url": "https://news.ycombinator.com/item?id=47609356"
+      },
+      "tags": [
+        "Space"
+      ],
+      "hot_score": 0.43
+    },
+    {
+      "title_en": "SpaceX files to go public",
+      "url": "https://www.nytimes.com/2026/04/01/technology/spacex-ipo-elon-musk.html",
+      "title_zh": "SpaceX 上市申请",
+      "created_display": "Created: Apr 01, 2026 / 10:49 PT",
+      "image_url": null,
+      "summary_en": "SpaceX files to go public, signaling a major tech IPO that could reshape aerospace funding dynamics, investor interest, and government contracting strategy around space ventures.",
+      "summary_zh": "SpaceX 提交上市计划，预示着一次重要的科技股发行，可能改变航天领域的资金动力、投资者热度以及政府合同策略。",
+      "hn": {
+        "id": 47604155,
+        "type": "story",
+        "by": "nutjob2",
+        "score": 392,
+        "descendants": 563,
+        "time": 1775065794,
+        "comments_url": "https://news.ycombinator.com/item?id=47604155"
+      },
+      "tags": [
+        "Business",
+        "Finance",
+        "Programming",
+        "Space",
+        "Politics"
+      ],
+      "hot_score": 0.41
+    },
+    {
+      "title_en": "Bringing Clojure programming to Enterprise (2021)",
+      "url": "https://blogit.michelin.io/clojure-programming/",
+      "title_zh": "将 Clojure 编程带入企业应用（2021）",
+      "created_display": "Created: Apr 02, 2026 / 01:19 PT",
+      "image_url": "https://blogit.azureedge.net/images/2021/11/31736_lisp.jpg",
+      "summary_en": "The piece explains how Clojure can fit into enterprise settings, tackling governance, tooling, and adoption hurdles. It also argues that Lisp on the JVM brings strengths in data processing, reliability, and composability for large-scale systems.",
+      "summary_zh": "文章讨论在企业环境中落地 Clojure 编程，聚焦工具链、治理和开发者采纳等挑战，同时强调 JVM 上 Lisp 的可扩展性和组合性带来的潜在收益。",
+      "hn": {
+        "id": 47611481,
+        "type": "story",
+        "by": "smartmic",
+        "score": 193,
+        "descendants": 107,
+        "time": 1775117951,
+        "comments_url": "https://news.ycombinator.com/item?id=47611481"
+      },
+      "tags": [
+        "Programming",
+        "Business"
+      ],
+      "hot_score": 0.4
+    },
+    {
+      "title_en": "Artemis II lifts off: four astronauts begin 10-day lunar mission",
+      "url": "https://www.theguardian.com/science/live/2026/apr/01/artemis-ii-launch-nasa-orion-moon-trip-live-updates",
+      "title_zh": "阿尔忒弥斯二号升空：四名宇航员开启为期十天的月球任务",
+      "created_display": "Created: Apr 01, 2026 / 15:38 PT",
+      "image_url": "https://i.guim.co.uk/img/media/46d1daadf9fa4a1e710a7ab512b9d3f7ecc510c6/759_0_3941_3155/master/3941.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=7cca407712caa536697b1cdf035ce417",
+      "summary_en": "Artemis II lifts off, sending four astronauts on a 10-day test flight aboard Orion to validate life-support, communications, and deep-space operations ahead of a crewed lunar landing. The mission marks a critical milestone for NASA's lunar strategy and long-term human space exploration.",
+      "summary_zh": "阿尔忒弥斯二号载 Orion 发射，四名宇航员展开为期十天的月球试飞，验证生命维持、通信以及深空作业能力，铺平载人月球登陆的路径。此次任务是美国重启月球计划、推动长期人类深空探索的重要里程碑。",
+      "hn": {
+        "id": 47607447,
+        "type": "story",
+        "by": "Philpax",
+        "score": 280,
+        "descendants": 1,
+        "time": 1775083105,
+        "comments_url": "https://news.ycombinator.com/item?id=47607447"
+      },
+      "tags": [
+        "Space"
+      ],
+      "hot_score": 0.36
+    },
+    {
+      "title_en": "Quantum computing bombshells that are not April Fools",
+      "url": "https://scottaaronson.blog/?p=9665",
+      "title_zh": "量子计算领域的重大突破，绝非愚人节玩笑",
+      "created_display": "Created: Apr 01, 2026 / 17:24 PT",
+      "image_url": "https://s0.wp.com/_si/?t=eyJpbWciOiJodHRwczpcL1wvc2NvdHRhYXJvbnNvbi5ibG9nXC93cC1jb250ZW50XC91cGxvYWRzXC8yMDIxXC8xMFwvY3JvcHBlZC1KYWNrZXQuZ2lmIiwidHh0IjoiU2h0ZXRsLU9wdGltaXplZCIsInRlbXBsYXRlIjoiZWRnZSIsImZvbnQiOiIiLCJibG9nX2lkIjoxMjk1MjA1ODB9.siOtN7gHw4tefA_rZickBw4GfI6tPxGgOQ1AXr2ZoOQMQ",
+      "summary_en": "Credible quantum computing breakthroughs have emerged, not jokes. The developments span qubit stability, error correction, or new hardware architectures that push toward practical quantum advantage. For technologists, these milestones sharpen timelines for cryptography, optimization, and scientific computing.",
+      "summary_zh": "可信的量子计算领域突破并非玩笑，涵盖量子比特稳定性、错误纠正和新型硬件架构等方面，推动实现实用化的量子优势。对于技术从业者，这些里程碑将重新校准对密码学、优化与科学计算的时间表。",
+      "hn": {
+        "id": 47608495,
+        "type": "story",
+        "by": "Strilanc",
+        "score": 262,
+        "descendants": 104,
+        "time": 1775089483,
+        "comments_url": "https://news.ycombinator.com/item?id=47608495"
+      },
+      "tags": [
+        "Science",
+        "Hardware"
+      ],
+      "hot_score": 0.36
+    },
+    {
+      "title_en": "r/programming bans all discussion of LLM programming",
+      "url": "https://old.reddit.com/r/programming/comments/1s9jkzi/announcement_temporary_llm_content_ban/",
+      "title_zh": "r/programming 禁止讨论 LLM 编程",
+      "created_display": "Created: Apr 01, 2026 / 22:33 PT",
+      "image_url": null,
+      "summary_en": "The programming subreddit bans discussion of LLM-based programming, citing policy considerations or quality concerns. The move highlights tensions between community governance and emerging AI tooling in developer discourse.",
+      "summary_zh": "程序员社区禁止讨论基于大模型的编程，出于政策或质量方面的考虑。这一举动凸显了社区治理与开发者讨论中对新兴 AI 工具之间的张力。",
+      "hn": {
+        "id": 47610336,
+        "type": "story",
+        "by": "cryptoz",
+        "score": 188,
+        "descendants": 205,
+        "time": 1775108000,
+        "comments_url": "https://news.ycombinator.com/item?id=47610336"
+      },
+      "tags": [
+        "Culture",
+        "AI"
+      ],
+      "hot_score": 0.33
+    },
+    {
+      "title_en": "New laws to make it easier to cancel subscriptions and get refunds",
+      "url": "https://www.bbc.co.uk/news/articles/cvg0v36ek2go",
+      "title_zh": "新法规让取消订阅与退款更便捷",
+      "created_display": "Created: Apr 02, 2026 / 02:00 PT",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0114/live/2339bdb0-2e64-11f1-a79a-77e93010d956.jpg",
+      "summary_en": "New laws are streamlining how consumers cancel subscriptions and obtain refunds, targeting opaque auto-renewals and confusing terms. The rules push for clearer disclosures and easier cancellation to improve consumer protection in digital services.",
+      "summary_zh": "新法规简化了取消订阅和申请退款的流程，针对隐性续订和模糊条款进行治理。要求提供更清晰的披露和更便利的取消方式，以提升数字服务的消费者保护水平。",
+      "hn": {
+        "id": 47611809,
+        "type": "story",
+        "by": "chrisjj",
+        "score": 153,
+        "descendants": 64,
+        "time": 1775120426,
+        "comments_url": "https://news.ycombinator.com/item?id=47611809"
+      },
+      "hot_score": 0.33,
+      "tags": [
+        "Legal"
+      ]
+    },
+    {
+      "title_en": "A new C++ back end for ocamlc",
+      "url": "https://github.com/ocaml/ocaml/pull/14701",
+      "title_zh": "Ocamlc 的 C++ 后端新实现",
+      "created_display": "Created: Apr 01, 2026 / 16:35 PT",
+      "image_url": "https://opengraph.githubassets.com/5f049668ffb2a0254fe456152e0ffb6501139189b592b09f0b52957fb431c910/ocaml/ocaml/pull/14701",
+      "summary_en": "A new C++ backend for the OCaml compiler backend (ocamlc) appears, enabling code generation or optimization paths using C++-based infrastructure. If realized, it could improve portability, performance, and interoperability between OCaml and C++ ecosystems, influencing language tooling and compiler design.",
+      "summary_zh": "OCaml 编译器后端（ocamlc）新增了 C++ 后端，可能带来通过 C++ 基础设施进行代码生成与优化的路径。若落地，将提升可移植性与性能，并加强 OCaml 与 C++ 生态的互操作性，对语言工具链与编译器设计产生影响。",
+      "hn": {
+        "id": 47608058,
+        "type": "story",
+        "by": "glittershark",
+        "score": 233,
+        "descendants": 20,
+        "time": 1775086502,
+        "comments_url": "https://news.ycombinator.com/item?id=47608058"
+      },
+      "tags": [
+        "Programming",
+        "DevOps",
+        "Web"
+      ],
+      "hot_score": 0.31
+    },
+    {
+      "title_en": "The Claude Code Leak",
+      "url": "https://build.ms/2026/4/1/the-claude-code-leak/",
+      "title_zh": "Claude 代码泄露",
+      "created_display": "Created: Apr 01, 2026 / 19:26 PT",
+      "image_url": "https://build.ms/og/2026/4/1/the-claude-code-leak.png",
+      "summary_en": "A leak of Claude's code surfaced, exposing internal design choices and potential security implications. The incident underscores the risks of sharing model internals and the importance of securing release artifacts and provenance.",
+      "summary_zh": "Detected Claude 的代码泄露，暴露了内部设计选择和潜在的安全影响。这一事件凸显了共享模型内部实现的风险，以及对发布产物和来源可追溯性的重视。",
+      "hn": {
+        "id": 47609294,
+        "type": "story",
+        "by": "mergesort",
+        "score": 193,
+        "descendants": 178,
+        "time": 1775096765,
+        "comments_url": "https://news.ycombinator.com/item?id=47609294"
+      },
+      "tags": [
+        "Security",
+        "AI"
+      ],
+      "hot_score": 0.29
+    },
+    {
+      "title_en": "Ask HN: Who is hiring? (April 2026)",
+      "url": "https://news.ycombinator.com/item?id=47601859",
+      "title_zh": "Ask HN：谁在招聘？（2026年4月）",
+      "created_display": "Created: Apr 01, 2026 / 08:01 PT",
+      "image_url": "https://news.ycombinator.com/y18.svg",
+      "summary_en": "A lively thread aggregating April 2026 job openings across tech companies. It surfaces remote roles, compensation ranges, and in-demand skills, giving readers a snapshot of the current recruiting climate for engineers and developers.",
+      "summary_zh": "关于 2026 年 4 月的招聘信息讨论串，汇集了各家科技公司的岗位空缺、远程机会与薪资区间，提供对当前工程师招聘热度和技能需求的直观判断。",
+      "hn": {
+        "id": 47601859,
+        "type": "story",
+        "by": "whoishiring",
+        "score": 270,
+        "descendants": 309,
+        "time": 1775055696,
+        "comments_url": "https://news.ycombinator.com/item?id=47601859"
+      },
+      "tags": [
+        "Career"
+      ],
+      "hot_score": 0.25
+    },
+    {
+      "title_en": "The OpenAI graveyard: All the deals and products that haven't happened",
+      "url": "https://www.forbes.com/sites/phoebeliu/2026/03/31/openai-graveyard-deals-and-products-havent-happened-openai/",
+      "title_zh": "OpenAI 的坟场：尚未实现的交易与产品",
+      "created_display": "Created: Apr 01, 2026 / 08:55 PT",
+      "image_url": null,
+      "summary_en": "A retrospective on proposed deals and product bets OpenAI never realized, revealing strategic pivots and the gap between hype and execution. The piece sheds light on decision-making in AI business and what competitors and customers might have expected but never materialized.",
+      "summary_zh": "回顾 OpenAI 曾提出但未实现的交易和产品赌注，揭示了战略调整与 hype 与执行之间的落差。文章揭示了 AI 业务中的决策过程，以及竞争对手和用户原本可能期待却未成行的事物。",
+      "hn": {
+        "id": 47602565,
+        "type": "story",
+        "by": "dherls",
+        "score": 239,
+        "descendants": 195,
+        "time": 1775058930,
+        "comments_url": "https://news.ycombinator.com/item?id=47602565"
+      },
+      "tags": [
+        "Business",
+        "AI"
+      ],
+      "hot_score": 0.23
+    },
+    {
+      "title_en": "Is BGP safe yet?",
+      "url": "https://isbgpsafeyet.com/",
+      "title_zh": "BGP 真安全吗？",
+      "created_display": "Created: Apr 01, 2026 / 06:10 PT",
+      "image_url": "https://isbgpsafeyet.com/resources/open-graph.png",
+      "summary_en": "The project tracks the current security state of the Border Gateway Protocol, noting uneven adoption of origin validation and RPKI, with ongoing risks from misconfigurations and route leaks. While progress is real, operators should not relax: enable available protections, monitor for anomalies, and push for broader deployment.",
+      "summary_zh": "该项目评估边界网关协议（BGP）的安全现状，指出对起源验证和 RPKI 的部署并不均衡，仍存在因为配置错误或路由泄漏带来的风险。尽管取得进展，运营方应继续启用可用保护、监控异常，并推动更广泛的部署。",
+      "hn": {
+        "id": 47600382,
+        "type": "story",
+        "by": "janandonly",
+        "score": 252,
+        "descendants": 88,
+        "time": 1775049029,
+        "comments_url": "https://news.ycombinator.com/item?id=47600382"
+      },
+      "tags": [
+        "Security"
+      ],
+      "hot_score": 0.22
+    },
+    {
+      "title_en": "AI for American-produced cement and concrete",
+      "url": "https://engineering.fb.com/2026/03/30/data-center-engineering/ai-for-american-produced-cement-and-concrete/",
+      "title_zh": "用于美国产水泥与混凝土的 AI",
+      "created_display": "Created: Apr 01, 2026 / 10:17 PT",
+      "image_url": "https://engineering.fb.com/wp-content/uploads/2026/03/Meta-AI-for-American-Concrete-HERO.jpg",
+      "summary_en": "Applying AI to US-made cement and concrete aims to optimize production, reduce waste, and lower emissions. The project discusses data-driven control across mixing, curing, and logistics, and its potential to strengthen the domestic construction supply chain.",
+      "summary_zh": "将人工智能应用于美国产水泥与混凝土，旨在优化生产、降低浪费并减少排放，覆盖拌合、养护和物流等环节的数据驱动控制。该方向对推动国内建筑材料供应链的可持续性与竞争力具有重要意义，同时也面临数据整合与工业落地的挑战。",
+      "hn": {
+        "id": 47603737,
+        "type": "story",
+        "by": "latchkey",
+        "score": 218,
+        "descendants": 117,
+        "time": 1775063844,
+        "comments_url": "https://news.ycombinator.com/item?id=47603737"
+      },
+      "tags": [
+        "AI"
+      ],
+      "hot_score": 0.22
+    },
+    {
+      "title_en": "Ukrainian drone holds position for 6 weeks",
+      "url": "https://defenceleaders.com/news/ukrainian-combat-robot-holds-frontline-position-for-six-weeks-in-sign-of-growing-ugv-maturity/",
+      "title_zh": "乌克兰无人机前线坚守6周",
+      "created_display": "Created: Apr 01, 2026 / 10:57 PT",
+      "image_url": "https://defenceleaders.com/wp-content/uploads/2025/11/6_full.webp",
+      "summary_en": "A Ukrainian unmanned vehicle has sustained a frontline position for six weeks, signaling maturity in autonomous or remotely piloted weapons and their role in sustained front-line defense. The development reflects growing capabilities in UGVs and the shifting nature of modern warfare.",
+      "summary_zh": "一架乌克兰无人地面/空中系统在前线坚持六周，体现出对自主或远程操控武器的成熟度及在持久防线中的作用。这一进展显示军事机器人技术的成长及现代战争形态的变化。",
+      "hn": {
+        "id": 47604245,
+        "type": "story",
+        "by": "AftHurrahWinch",
+        "score": 169,
+        "descendants": 191,
+        "time": 1775066260,
+        "comments_url": "https://news.ycombinator.com/item?id=47604245"
+      },
+      "tags": [
+        "Security"
+      ],
+      "hot_score": 0.18
+    },
+    {
+      "title_en": "StepFun 3.5 Flash is #1 cost-effective model for OpenClaw tasks (300 battles)",
+      "url": "https://app.uniclaw.ai/arena?tab=costEffectiveness&via=hn",
+      "title_zh": "StepFun 3.5 Flash：300 场对战中的 OpenClaw 任务成本效益第一的模型",
+      "created_display": "Created: Apr 01, 2026 / 09:17 PT",
+      "image_url": "https://app.uniclaw.ai/logo.png",
+      "summary_en": "Benchmark results position StepFun 3.5 Flash as the most cost-effective model for OpenClaw tasks across 300 battles, delivering competitive performance at a fraction of the cost. The findings underscore the importance of cost-aware benchmarking in practical RL deployments.",
+      "summary_zh": "在 300 场对战的对比中，StepFun 3.5 Flash 被评为 OpenClaw 任务成本效益最高的模型，性能与成本之间达到更优平衡。这凸显在实际强化学习部署中进行成本意识对比的重要性。",
+      "hn": {
+        "id": 47602879,
+        "type": "story",
+        "by": "skysniper",
+        "score": 172,
+        "descendants": 84,
+        "time": 1775060255,
+        "comments_url": "https://news.ycombinator.com/item?id=47602879"
+      },
+      "tags": [
+        "AI"
+      ],
+      "hot_score": 0.17
+    },
+    {
+      "title_en": "Show HN: Dull – Instagram Without Reels, YouTube Without Shorts (iOS)",
+      "url": "https://getdull.app",
+      "title_zh": "Show HN: Dull — iOS 上无 Reels 的 Instagram、无 Shorts 的 YouTube",
+      "created_display": "Created: Apr 01, 2026 / 14:04 PT",
+      "image_url": "https://tools.applemediaservices.com/api/badges/download-on-the-app-store/white/en-us?size=250x83",
+      "summary_en": "Show HN: Dull is an iOS app that strips Instagram of Reels and YouTube of Shorts, delivering a no-friction, feed-only experience. It highlights the demand for less distraction and the feasibility of third-party clients that respect user choice and privacy.",
+      "summary_zh": "Show HN: Dull 是一款 iOS 应用，可以去除 Instagram 的 Reels 和 YouTube 的 Shorts，提供更专注的纯信息流体验。它凸显了减少干扰的需求，以及第三方客户端在强调用户选择与隐私方面的可行性。",
+      "hn": {
+        "id": 47606560,
+        "type": "story",
+        "by": "kasparnoor",
+        "score": 143,
+        "descendants": 111,
+        "time": 1775077493,
+        "comments_url": "https://news.ycombinator.com/item?id=47606560"
+      },
+      "hot_score": 0.17,
+      "tags": [
+        "Show HN",
+        "Privacy"
+      ]
+    },
+    {
+      "title_en": "OpenAI demand sinks on secondary market as Anthropic runs hot",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-01/openai-demand-sinks-on-secondary-market-as-anthropic-runs-hot",
+      "title_zh": "OpenAI 在二级市场需求走低，Anthropic 需求走高",
+      "created_display": "Created: Apr 01, 2026 / 07:26 PT",
+      "image_url": null,
+      "summary_en": "Market signals show demand for OpenAI offerings cooling on secondary markets while Anthropic experiences rising interest, reflecting investor appetite, pricing dynamics, and competitive positioning in AI tooling. The shift hints at where enterprises see near-term value and which vendors may dominate in certain niches.",
+      "summary_zh": "市场信号显示 OpenAI 产品在二级市场的需求走低，而 Anthropic 的热度上升，反映了投资者偏好、定价动态和在 AI 工具领域的竞争格局。这一变化暗示企业在短期价值的认知以及各供应商在特定细分市场的优势。",
+      "hn": {
+        "id": 47601405,
+        "type": "story",
+        "by": "helsinkiandrew",
+        "score": 137,
+        "descendants": 60,
+        "time": 1775053576,
+        "comments_url": "https://news.ycombinator.com/item?id=47601405"
+      },
+      "tags": [
+        "Business",
+        "Finance",
+        "AI"
+      ],
+      "hot_score": 0.12
+    }
+  ]
+}

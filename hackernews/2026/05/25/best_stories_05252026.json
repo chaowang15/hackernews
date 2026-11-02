@@ -1,0 +1,1163 @@
+{
+  "meta": {
+    "mode": "best",
+    "source": "https://news.ycombinator.com/",
+    "api": "https://github.com/HackerNews/API",
+    "count_requested": 50,
+    "count_written": 50,
+    "reused_same_day": 0,
+    "reused_cross_day": 18,
+    "new_llm_enriched": 8,
+    "scrape_time_display": "08:43, May 26, 2026 (PDT)",
+    "timezone": "America/Los_Angeles",
+    "date_dir": "2026/05/25",
+    "content_date": "2026-05-25",
+    "run_time_local": "08:43, May 26, 2026 (PDT)",
+    "run_time_utc": "2026-05-26 15:43:30 UTC",
+    "incremental": true,
+    "stories_max": 50,
+    "hot_score_time_utc": "2026-05-26 15:44:18 UTC"
+  },
+  "items": [
+    {
+      "title_en": "GitHub Actions down again today",
+      "url": "https://www.githubstatus.com/?today",
+      "title_zh": "GitHub Actions 今日再度宕机",
+      "created_display": "Created: May 26, 2026 / 04:42 PT",
+      "image_url": "https://user-images.githubusercontent.com/19292210/60553863-044dd200-9cea-11e9-987e-7db84449f215.png",
+      "summary_en": "GitHub Actions is down again, disrupting automated CI/CD pipelines across users. The outage underscores ongoing reliability challenges for developers relying on GitHub-hosted runners and could delay deployments until a fix is deployed.",
+      "summary_zh": "GitHub Actions 再次宕机，影响大量用户的自动化构建与部署流程。此波故障凸显对 GitHub 托管执行环境的依赖所带来的不确定性，直至修复发布前都可能拖慢部署节奏。",
+      "hn": {
+        "id": 48278374,
+        "type": "story",
+        "by": "cebert",
+        "score": 527,
+        "descendants": 263,
+        "time": 1779795778,
+        "comments_url": "https://news.ycombinator.com/item?id=48278374"
+      },
+      "hot_score": 20.77,
+      "tags": [
+        "Programming",
+        "DevOps"
+      ]
+    },
+    {
+      "title_en": "AWS Fired the One Employee Who Gave a Damn",
+      "url": "https://www.seuros.com/blog/aws-fired-the-human-who-made-the-difference/",
+      "title_zh": "AWS 解雇了那个真正愿意为改进付出努力的员工",
+      "created_display": "Created: May 26, 2026 / 06:08 PT",
+      "image_url": "https://www.seuros.com/img/aws-fired-the-human/cover-v1.webp",
+      "summary_en": "An exposé claims AWS fired the one employee who made a difference. The piece raises questions about how large cloud providers treat internal advocates and the potential impact on product quality and team morale.",
+      "summary_zh": "据称 AWS 解雇了那位真正推动变革的员工。这一事件引发对大型云服务商如何对待内部倡导者，以及对产品质量与团队士气的潜在影响的质疑。",
+      "hn": {
+        "id": 48279321,
+        "type": "story",
+        "by": "berlianta",
+        "score": 175,
+        "descendants": 93,
+        "time": 1779800920,
+        "comments_url": "https://news.ycombinator.com/item?id=48279321"
+      },
+      "hot_score": 11.18,
+      "tags": [
+        "Business"
+      ]
+    },
+    {
+      "title_en": "Netherlands blocks US takeover of vital digital supplier",
+      "url": "https://www.politico.eu/article/netherlands-blocks-us-takeover-vital-digital-supplier/",
+      "title_zh": "荷兰阻止美企收购关键数字供应商",
+      "created_display": "Created: May 26, 2026 / 04:46 PT",
+      "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/05/26/phone.jpg",
+      "summary_en": "The Netherlands blocks a US takeover of a vital digital supplier on national security grounds, signaling Europe’s increased scrutiny of cross-border tech deals involving critical infrastructure. Regulators may demand concessions or divestitures, shaping future M&A in the digital sector.",
+      "summary_zh": "荷兰出于国家安全考虑阻止了一笔美方对关键数字供应商的收购，标志着欧洲加强对涉及关键基础设施的跨境科技交易的审查。监管机构或将要求让步或剥离，可能影响未来数字领域的并购动向。",
+      "hn": {
+        "id": 48278406,
+        "type": "story",
+        "by": "vrganj",
+        "score": 271,
+        "descendants": 99,
+        "time": 1779795968,
+        "comments_url": "https://news.ycombinator.com/item?id=48278406"
+      },
+      "hot_score": 10.83,
+      "tags": [
+        "Politics",
+        "Business",
+        "Security",
+        "DevOps"
+      ]
+    },
+    {
+      "title_en": "Spain blocks prediction markets Polymarket, Kalshi over lack of gambling licence",
+      "url": "https://www.reuters.com/business/spain-blocks-prediction-markets-polymarket-kalshi-over-lack-gambling-licences-2026-05-26/",
+      "title_zh": "西班牙因缺乏赌博许可而封锁 Polymarket 与 Kalshi 预测市场",
+      "created_display": "Created: May 26, 2026 / 06:08 PT",
+      "image_url": null,
+      "summary_en": "Spain blocks Polymarket and Kalshi prediction markets for lacking gambling licenses, signaling tighter European regulation for consumer-facing betting-style platforms. The move could constrain innovative fintech startups operating in Spain and set a precedent for licensing requirements.",
+      "summary_zh": "西班牙因缺乏赌博许可，阻止 Polymarket 与 Kalshi 等预测市场运营，显示欧洲对面向消费者的预测交易平台的监管趋严。此举可能限制在西班牙运营的创新金融科技公司，并为许可制度设立新基准。",
+      "hn": {
+        "id": 48279316,
+        "type": "story",
+        "by": "thm",
+        "score": 128,
+        "descendants": 59,
+        "time": 1779800893,
+        "comments_url": "https://news.ycombinator.com/item?id=48279316"
+      },
+      "hot_score": 8.14,
+      "tags": [
+        "Finance",
+        "Business",
+        "Politics"
+      ]
+    },
+    {
+      "title_en": "Using AI to write better code more slowly",
+      "url": "https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/",
+      "title_zh": "用 AI 慢下来写出更好的代码",
+      "created_display": "Created: May 25, 2026 / 16:16 PT",
+      "image_url": "https://nolanlawson.com/wp-content/uploads/2025/01/favicon.png?w=32",
+      "summary_en": "AI can help you write code, but slowing down can improve quality. The piece argues against rushing to rely on AI; instead implement deliberate review, stronger tests, and iterative refactoring. The key takeaway: use AI as a co-pilot, not a speed boost.",
+      "summary_zh": "AI 可以协助写代码，但放慢节奏能提升质量。文章反对靠 AI 提速的做法，主张进行有意识的评审、加强测试和迭代重构。核心在于将 AI 视为合作者，而非提速工具。",
+      "hn": {
+        "id": 48272984,
+        "type": "story",
+        "by": "signa11",
+        "score": 936,
+        "descendants": 346,
+        "time": 1779751019,
+        "comments_url": "https://news.ycombinator.com/item?id=48272984"
+      },
+      "tags": [
+        "AI",
+        "Programming"
+      ],
+      "hot_score": 4.92
+    },
+    {
+      "title_en": "DynIP – Dynamic DNS with RFC 2136, IPv6, DNSSEC, and BYOD",
+      "url": "https://dynip.dev/",
+      "title_zh": "DynIP：具备 RFC 2136 的动态 DNS、IPv6、DNSSEC 与 BYOD",
+      "created_display": "Created: May 26, 2026 / 00:35 PT",
+      "image_url": "https://dynip.dev/og-image.png",
+      "summary_en": "DynIP provides dynamic DNS updates via RFC 2136, with native IPv6 support and DNSSEC validation. BYOD compatibility suggests easier onboarding for personal devices in managed networks. This combination tightens security while accommodating changing IPs typical of home and IoT environments.",
+      "summary_zh": "DynIP 提供符合 RFC 2136 的动态 DNS 更新，新增 IPv6 支持并启用 DNSSEC 验证。BYOD 兼容性意味着个人设备在受控网络中的接入更简易。这种组合在家庭与物联网场景中提升了安全性并降低运维复杂度。",
+      "hn": {
+        "id": 48276363,
+        "type": "story",
+        "by": "dynip",
+        "score": 235,
+        "descendants": 94,
+        "time": 1779780920,
+        "comments_url": "https://news.ycombinator.com/item?id=48276363"
+      },
+      "tags": [
+        "Security"
+      ],
+      "hot_score": 3.61
+    },
+    {
+      "title_en": "California moves to exempt Linux from its age-verification law after backlash",
+      "url": "https://www.tomshardware.com/software/linux/california-moves-to-exempt-linux-from-its-upcoming-age-verification-law-after-backlash-over-forcing-operating-systems-to-collect-users-ages-amendment-proposed-by-the-same-lawmaker-who-wrote-the-original-law",
+      "title_zh": "加州拟豁免 Linux 免受年龄验证法约束",
+      "created_display": "Created: May 25, 2026 / 11:19 PT",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/Nhs4yvdLbHSMdgjnZmv4wn-1024-80.jpg",
+      "summary_en": "California has moved to exempt Linux from its upcoming age-verification requirements after backlash. The decision highlights tensions between consumer protection rules and the realities of open-source software distribution, where collecting ages is impractical.",
+      "summary_zh": "加州在强烈反对声中决定豁免 Linux 不受即将实施的年龄验证规定约束。此举凸显了消费保护法规与开源软件分发现实之间的矛盾，以及对 Linux 这类开源系统难以强制收集年龄信息的现实。",
+      "hn": {
+        "id": 48269961,
+        "type": "story",
+        "by": "rbanffy",
+        "score": 998,
+        "descendants": 438,
+        "time": 1779733198,
+        "comments_url": "https://news.ycombinator.com/item?id=48269961"
+      },
+      "tags": [
+        "Open Source",
+        "Legal"
+      ],
+      "hot_score": 3.42
+    },
+    {
+      "title_en": "Uber president says AI spending is getting 'harder to justify'",
+      "url": "https://www.theverge.com/transportation/937116/uber-ai-investment-hard-to-justify",
+      "title_zh": "Uber 总裁：AI 投资越来越难以合理化",
+      "created_display": "Created: May 26, 2026 / 03:01 PT",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/gettyimages-2245764686.jpg?quality=90&strip=all&crop=0%2C10.723165084465%2C100%2C78.55366983107&w=1200",
+      "summary_en": "Uber's president says AI investments are becoming harder to justify as costs rise and ROI remains uncertain. The comment reflects broader cost pressures in tech-enabled mobility and the challenge of translating AI into clear business value.",
+      "summary_zh": "Uber 总裁表示在成本上升、回报不确定的背景下，AI 投资越来越难以合理化。此言反映出依赖科技的出行平台在 AI 投入方面日益增长的成本压力与价值兑现挑战。",
+      "hn": {
+        "id": 48277485,
+        "type": "story",
+        "by": "berlianta",
+        "score": 132,
+        "descendants": 46,
+        "time": 1779789699,
+        "comments_url": "https://news.ycombinator.com/item?id=48277485"
+      },
+      "hot_score": 3.31,
+      "tags": [
+        "AI",
+        "Business"
+      ]
+    },
+    {
+      "title_en": "Magnifica Humanitas",
+      "url": "https://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html",
+      "title_zh": "Magnifica Humanitas 通諭",
+      "created_display": "Created: May 25, 2026 / 03:11 PT",
+      "image_url": "https://www.vatican.va/etc/designs/vatican/library/clientlibs/themes/vatican-v2/images/logo-vatican.png",
+      "summary_en": "A papal encyclical titled Magnifica Humanitas.",
+      "summary_zh": "一本题为《Magnifica Humanitas》的教皇通諭。",
+      "hn": {
+        "id": 48265206,
+        "type": "story",
+        "by": "theletterf",
+        "score": 1538,
+        "descendants": 871,
+        "time": 1779703889,
+        "comments_url": "https://news.ycombinator.com/item?id=48265206"
+      },
+      "tags": [
+        "Culture"
+      ],
+      "hot_score": 3.08
+    },
+    {
+      "title_en": "Motorola phones have started hijacking the Amazon app to insert affiliate codes",
+      "url": "https://9to5google.com/2026/05/25/motorola-amazon-app-hijacking-behavior/",
+      "title_zh": "摩托罗拉手机开始劫持亚马逊应用以插入联盟代码",
+      "created_display": "Created: May 25, 2026 / 20:56 PT",
+      "image_url": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/05/motorola-razr-fold-white-7.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "summary_en": "Motorola's phones reportedly inject Amazon affiliate codes into the Amazon app, raising concerns about stealth monetization and user privacy. The incident prompts calls for scrutiny and safeguards.",
+      "summary_zh": "据称摩托罗拉手机在亚马逊应用中暗插联盟代码，引发对隐私与隐性变现的担忧，促使业界呼吁加强审查与防护。",
+      "hn": {
+        "id": 48274794,
+        "type": "story",
+        "by": "Cider9986",
+        "score": 320,
+        "descendants": 170,
+        "time": 1779767769,
+        "comments_url": "https://news.ycombinator.com/item?id=48274794"
+      },
+      "tags": [
+        "Privacy",
+        "Security"
+      ],
+      "hot_score": 2.83
+    },
+    {
+      "title_en": "Taking a walk may lead to more creativity than sitting, study finds (2014)",
+      "url": "https://www.apa.org/news/press/releases/2014/04/creativity-walk",
+      "title_zh": "散步比久坐更能激发创造力（2014 年研究）",
+      "created_display": "Created: May 25, 2026 / 15:30 PT",
+      "image_url": null,
+      "summary_en": "Walking boosts creativity more than sitting, according to a 2014 study. It suggests teams should embrace walk meetings and brainstorming on the move to unlock higher creativity.",
+      "summary_zh": "2014 年的研究显示散步比久坐更能激发创造力。建议团队采用步行会议、边走边脑 brainstorm 的做法，以提升集体创造力。",
+      "hn": {
+        "id": 48272670,
+        "type": "story",
+        "by": "bilsbie",
+        "score": 461,
+        "descendants": 192,
+        "time": 1779748227,
+        "comments_url": "https://news.ycombinator.com/item?id=48272670"
+      },
+      "tags": [
+        "Science"
+      ],
+      "hot_score": 2.25
+    },
+    {
+      "title_en": "The User Is Visibly Frustrated",
+      "url": "https://pscanf.com/s/354/",
+      "title_zh": "用户情绪明显的挫败感",
+      "created_display": "Created: May 25, 2026 / 21:39 PT",
+      "image_url": "https://pscanf.com/_astro/profile.CewbUKyT_Z1miYcf.avif",
+      "summary_en": "Visible user frustration signals UX flaws and cognitive load. Responding with clearer feedback, resilient interfaces, and better error handling can reduce churn.",
+      "summary_zh": "用户情绪明显的挫败感往往暴露了 UX 缺陷与认知负担。通过提供更清晰的反馈、健壮的界面和更好的错误处理，能降低用户流失。文中强调在真实应用中应关注的实用模式。",
+      "hn": {
+        "id": 48275059,
+        "type": "story",
+        "by": "croes",
+        "score": 218,
+        "descendants": 191,
+        "time": 1779770343,
+        "comments_url": "https://news.ycombinator.com/item?id=48275059"
+      },
+      "tags": [
+        "Design"
+      ],
+      "hot_score": 2.12
+    },
+    {
+      "title_en": "Ferrari Luce",
+      "url": "https://www.ferrari.com/en-EN/auto/ferrari-luce",
+      "title_zh": "法拉利 Luce",
+      "created_display": "Created: May 25, 2026 / 14:00 PT",
+      "image_url": "https://cdn.ferrari.com/cms/network/media/img/resize/6a11ae671db58f0022595c60-ferr_luce_thumbnail_share-new?width=1080",
+      "summary_en": "Ferrari Luce appears to be a new car model introducing distinctive design and potentially electrified performance from the brand's latest lineup. The car hints at Ferrari's design language evolving to combine speed with efficiency.",
+      "summary_zh": "法拉利 Luce 展现了品牌在设计与未来动力系统上的新方向，可能将高性能与电气化结合。",
+      "hn": {
+        "id": 48271629,
+        "type": "story",
+        "by": "jumploops",
+        "score": 388,
+        "descendants": 725,
+        "time": 1779742838,
+        "comments_url": "https://news.ycombinator.com/item?id=48271629"
+      },
+      "tags": [
+        "Design"
+      ],
+      "hot_score": 1.65
+    },
+    {
+      "title_en": "Hacker News front page as a site",
+      "url": "https://thefrontpage.dev/",
+      "title_zh": "Hacker News 首页的独立站点",
+      "created_display": "Created: May 25, 2026 / 13:12 PT",
+      "image_url": "https://thefrontpage.dev/screenshot.webp",
+      "summary_en": "A project exposes Hacker News front page as a standalone site, preserving the classic, text-first feed outside the original platform. It highlights the appeal of lightweight, alternative front-ends for social news communities.",
+      "summary_zh": "一个项目将 Hacker News 的前页做成独立站点，以保留经典的文本优先信息流。它折射出对轻量级、替代前端在社交新闻社区生态中的吸引力。",
+      "hn": {
+        "id": 48271127,
+        "type": "story",
+        "by": "thatxliner",
+        "score": 380,
+        "descendants": 102,
+        "time": 1779739949,
+        "comments_url": "https://news.ycombinator.com/item?id=48271127"
+      },
+      "tags": [
+        "Web"
+      ],
+      "hot_score": 1.51
+    },
+    {
+      "title_en": "How Shamir's Secret Sharing Works",
+      "url": "https://ente.com/blog/how-shamirs-secret-sharing-works/",
+      "title_zh": "Shamir 的秘密分享如何工作",
+      "created_display": "Created: May 25, 2026 / 15:37 PT",
+      "image_url": "https://ente.com/og-images/how-shamirs-secret-sharing-works.png",
+      "summary_en": "Shamir's Secret Sharing lets a secret be reconstructed from any subset of shares, using polynomial interpolation. It enables threshold cryptography with minimal trust assumptions, widely used for secure key management.",
+      "summary_zh": "Shamir 的秘密分享通过多项式插值实现任意一组子分享即可重构秘密，支持阈值密码学与无须过多信任的密钥管理。",
+      "hn": {
+        "id": 48272715,
+        "type": "story",
+        "by": "subract",
+        "score": 305,
+        "descendants": 52,
+        "time": 1779748644,
+        "comments_url": "https://news.ycombinator.com/item?id=48272715"
+      },
+      "tags": [
+        "Security"
+      ],
+      "hot_score": 1.5
+    },
+    {
+      "title_en": "Does anybody like React?",
+      "url": "https://jsx.lol",
+      "title_zh": "到底有没有人喜欢 React？",
+      "created_display": "Created: May 25, 2026 / 18:55 PT",
+      "image_url": "https://jsx.lol/assets/512x512.png",
+      "summary_en": "Does anybody like React? The piece questions whether the framework's complexity and performance tradeoffs undermine its popularity amid a crowded ecosystem. It contrasts developer experience with ongoing maintenance costs.",
+      "summary_zh": "文章质疑在竞争激烈的生态中，React 的复杂性与性能权衡是否削弱了受欢迎程度。对比了开发者体验与持续维护成本。",
+      "hn": {
+        "id": 48274077,
+        "type": "story",
+        "by": "brazukadev",
+        "score": 212,
+        "descendants": 285,
+        "time": 1779760515,
+        "comments_url": "https://news.ycombinator.com/item?id=48274077"
+      },
+      "tags": [
+        "Programming",
+        "Web"
+      ],
+      "hot_score": 1.46
+    },
+    {
+      "title_en": "Ask HN: Is anyone working at least 4 hours daily on an Apple Vision Pro?",
+      "url": "https://news.ycombinator.com/item?id=48275508",
+      "title_zh": "Ask HN：有人每天至少在 Apple Vision Pro 上工作4小时吗？",
+      "created_display": "Created: May 25, 2026 / 22:49 PT",
+      "image_url": "https://news.ycombinator.com/y18.svg",
+      "summary_en": "The discussion gathers practitioner anecdotes about daily Vision Pro usage, development time, and productivity trade-offs. It reveals early-stage expectations about AR hardware, hardware ergonomics, and the viability of long-form work in spatial apps.",
+      "summary_zh": "讨论汇集了关于每日在 Vision Pro 上工作四小时以上的从业者经验，涉及开发时间、生产力权衡以及对 AR 硬件的期望。揭示了对在空间应用中长时间工作的现实可行性、硬件的人机工效与局限。",
+      "hn": {
+        "id": 48275508,
+        "type": "story",
+        "by": "widenrun",
+        "score": 127,
+        "descendants": 91,
+        "time": 1779774575,
+        "comments_url": "https://news.ycombinator.com/item?id=48275508"
+      },
+      "tags": [
+        "Hardware"
+      ],
+      "hot_score": 1.46
+    },
+    {
+      "title_en": "Nobody cracks open a programming book anymore",
+      "url": "https://unix.foo/posts/nobody-cracks-open-a-programming-book/",
+      "title_zh": "没有人再去看编程书了吗？",
+      "created_display": "Created: May 25, 2026 / 16:21 PT",
+      "image_url": "https://unix.foo/images/vim.jpg",
+      "summary_en": "Nobody cracks open a programming book anymore argues that developers miss foundational depth in favor of quick online snippets; it advocates revisiting long-form books to build solid fundamentals.",
+      "summary_zh": "文章指出开发者越来越依赖在线片段而忽略扎实基础书籍，呼吁回归长篇著作以建立坚实的编程基础。",
+      "hn": {
+        "id": 48273030,
+        "type": "story",
+        "by": "zdw",
+        "score": 263,
+        "descendants": 286,
+        "time": 1779751317,
+        "comments_url": "https://news.ycombinator.com/item?id=48273030"
+      },
+      "tags": [
+        "Education"
+      ],
+      "hot_score": 1.39
+    },
+    {
+      "title_en": "Exit IP VPN servers mitigation rollout",
+      "url": "https://mullvad.net/en/help/exit-ip-vpn-servers-mitigation-rollout",
+      "title_zh": "出口 IP VPN 服务器缓解措施上线",
+      "created_display": "Created: May 25, 2026 / 10:45 PT",
+      "image_url": "https://mullvad.net/press/MullvadVPN_logo_Round_RGB_Color_positive.png",
+      "summary_en": "Mullvad is rolling out mitigations for its exit IP VPN servers to curb abuse and reduce leakage risk. The rollout underscores ongoing work to harden exit infrastructure without compromising user privacy.",
+      "summary_zh": "为其出口 IP VPN 服务器推出缓解措施，以遏制滥用并降低暴露风险。此次调整强调在不影响用户隐私的前提下加强出口节点安全的持续努力。",
+      "hn": {
+        "id": 48269580,
+        "type": "story",
+        "by": "Cider9986",
+        "score": 401,
+        "descendants": 75,
+        "time": 1779731111,
+        "comments_url": "https://news.ycombinator.com/item?id=48269580"
+      },
+      "tags": [
+        "Security",
+        "Privacy",
+        "DevOps"
+      ],
+      "hot_score": 1.31
+    },
+    {
+      "title_en": "Search engines alternatives now that Google isn't Google anymore",
+      "url": "https://techcrunch.com/2026/05/21/six-search-engines-worth-trying-now-that-google-isnt-really-google-anymore/",
+      "title_zh": "谷歌不再是谷歌：值得尝试的替代搜索引擎",
+      "created_display": "Created: May 25, 2026 / 05:27 PT",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2151663494.jpg?resize=1200,801",
+      "summary_en": "As Google shifts its traditional stance, readers are exploring alternative search engines.",
+      "summary_zh": "随着谷歌的形象发生变化，用户开始尝试替代搜索引擎。文中列出六个值得尝试的搜索引擎，比较隐私保护、搜索质量与功能特性。",
+      "hn": {
+        "id": 48266051,
+        "type": "story",
+        "by": "elorant",
+        "score": 554,
+        "descendants": 526,
+        "time": 1779712031,
+        "comments_url": "https://news.ycombinator.com/item?id=48266051"
+      },
+      "tags": [
+        "Web",
+        "Business"
+      ],
+      "hot_score": 1.27
+    },
+    {
+      "title_en": "Norway's 2 petabytes of Huawei flash storage and LLM training",
+      "url": "https://www.blocksandfiles.com/flash/2026/05/22/norways-2-petabytes-of-huawei-flash-storage-and-llm-training/5244910",
+      "title_zh": "挪威用2PB华为闪存进行LLM训练",
+      "created_display": "Created: May 25, 2026 / 12:37 PT",
+      "image_url": "https://image.blocksandfiles.com/5244912.jpg?imageId=5244912&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+      "summary_en": "Norway reportedly uses 2 petabytes of Huawei flash storage to support LLM training, illustrating how governments are provisioning AI compute at scale with vendor-provided storage. This raises discussions about data sovereignty, vendor lock-in, and the geopolitics of AI infrastructure.",
+      "summary_zh": "据称挪威为LLM 训练使用2PB Huawei 闪存存储，体现政府在大规模AI计算部署中对特定供应商存储资源的依赖。此事引发关于数据主权、供应商锁定以及AI 基础设施地缘政治的讨论。",
+      "hn": {
+        "id": 48270770,
+        "type": "story",
+        "by": "rbanffy",
+        "score": 307,
+        "descendants": 195,
+        "time": 1779737877,
+        "comments_url": "https://news.ycombinator.com/item?id=48270770"
+      },
+      "tags": [
+        "AI",
+        "Hardware",
+        "DevOps"
+      ],
+      "hot_score": 1.16
+    },
+    {
+      "title_en": "Microsoft Copilot Cowork Exfiltrates Files",
+      "url": "https://www.promptarmor.com/resources/microsoft-copilot-cowork-exfiltrates-files",
+      "title_zh": "微软 Copilot Cowork 可能外泄文件",
+      "created_display": "Created: May 25, 2026 / 14:45 PT",
+      "image_url": "https://framerusercontent.com/images/Fz2grPJZYphlPnkqBBNJrqqyNs.png?width=6679&height=4694",
+      "summary_en": "A security advisory reveals Microsoft Copilot Cowork can exfiltrate files from user sessions, exposing sensitive enterprise data. The finding underscores the ongoing risk of AI-assisted workflows leaking information and the need for stricter data governance, access controls, and robust auditing.",
+      "summary_zh": "安全报告显示微软 Copilot Cowork 可能将用户会话中的文件外传，暴露企业敏感数据。此发现凸显AI辅助工作流中的数据泄露风险，以及对更严格数据治理、最小权限与审计机制的需求。",
+      "hn": {
+        "id": 48272354,
+        "type": "story",
+        "by": "Kneenex",
+        "score": 251,
+        "descendants": 48,
+        "time": 1779745557,
+        "comments_url": "https://news.ycombinator.com/item?id=48272354"
+      },
+      "tags": [
+        "Security",
+        "Privacy",
+        "AI"
+      ],
+      "hot_score": 1.14
+    },
+    {
+      "title_en": "What we lost when we stopped letting kids leave the front yard",
+      "url": "https://stevemagness.substack.com/p/the-cost-of-safetyism",
+      "title_zh": "当我们停止让孩子离开前院时，我们失去了什么",
+      "created_display": "Created: May 25, 2026 / 07:29 PT",
+      "image_url": null,
+      "summary_en": "What we lose when we stop letting kids leave the front yard argues that outdoor exploration builds resilience and independence, and that safety-first culture can curb curiosity.",
+      "summary_zh": "文章认为让孩子在户外探索、承担风险有助于培养韧性与独立性，过度的安全文化可能削弱好奇心。",
+      "hn": {
+        "id": 48267290,
+        "type": "story",
+        "by": "obscurette",
+        "score": 398,
+        "descendants": 431,
+        "time": 1779719392,
+        "comments_url": "https://news.ycombinator.com/item?id=48267290"
+      },
+      "tags": [
+        "Culture"
+      ],
+      "hot_score": 1.04
+    },
+    {
+      "title_en": "CVE-2026-28952: Apple macOS 26.5 Kernel Vuln found by Claude",
+      "url": "https://support.apple.com/en-us/127115",
+      "title_zh": "CVE-2026-28952：Apple macOS 26.5 内核漏洞",
+      "created_display": "Created: May 25, 2026 / 16:40 PT",
+      "image_url": null,
+      "summary_en": "CVE-2026-28952 affects macOS 26.5 kernel; Apple issues a security advisory with mitigations and patch timelines. Users are urged to update to secure builds.",
+      "summary_zh": "CVE-2026-28952 影响 macOS 26.5 内核，苹果发布安全公告给出缓解办法与修补时间表，建议尽快更新以确保系统安全。",
+      "hn": {
+        "id": 48273169,
+        "type": "story",
+        "by": "dragonsenseiguy",
+        "score": 159,
+        "descendants": 86,
+        "time": 1779752440,
+        "comments_url": "https://news.ycombinator.com/item?id=48273169"
+      },
+      "tags": [
+        "Security",
+        "AI"
+      ],
+      "hot_score": 0.86
+    },
+    {
+      "title_en": "Pope Leo XIV says AI must serve humanity, not the powerful few",
+      "url": "https://religionnews.com/2026/05/25/in-his-first-encyclical-pope-leo-xiv-says-ai-must-serve-humanity-not-the-powerful-few/",
+      "title_zh": "教皇利奥十四世：AI 应服务于全人类，而非少数强权",
+      "created_display": "Created: May 25, 2026 / 06:17 PT",
+      "image_url": "https://religionnews.com/wp-content/uploads/2026/05/webRNS-Leo-Encyclical2.jpg",
+      "summary_en": "Pope Leo XIV issues an encyclical urging that AI be governed by the common good and human dignity. It emphasizes ethical guidelines for AI development, insisting technology serves people rather than concentrating power in a few hands.",
+      "summary_zh": "教皇利奥十四世在通諭中呼吁 AI 应以公共利益与人类尊严为原则进行治理，强调在 AI 发展中遵循道德规范，让科技服务于人类而非集中权力于少数人。",
+      "hn": {
+        "id": 48266485,
+        "type": "story",
+        "by": "benwerd",
+        "score": 341,
+        "descendants": 67,
+        "time": 1779715078,
+        "comments_url": "https://news.ycombinator.com/item?id=48266485"
+      },
+      "tags": [
+        "AI",
+        "Politics"
+      ],
+      "hot_score": 0.82
+    },
+    {
+      "title_en": "A successful Japanese trial of a ramjet engine designed for Mach‑5 aircraft",
+      "url": "https://www.bgr.com/2178211/japan-hypersonic-engine-ramjet-2-hour-flights-to-us/",
+      "title_zh": "日本在 Mach-5 级飞机设计冲压发动机测试成功",
+      "created_display": "Created: May 25, 2026 / 12:43 PT",
+      "image_url": "https://www.bgr.com/img/gallery/japans-new-hypersonic-engine-could-make-2-hour-flights-to-the-us-a-reality/l-intro-1779312403.jpg",
+      "summary_en": "A successful Japanese trial of a ramjet engine designed for Mach‑5 aircraft demonstrates progress in hypersonic propulsion and the potential for faster travel.",
+      "summary_zh": "日本在为 Mach‑5 级飞机设计的冲压发动机测试取得成功，显示在高超音速推进领域的进展及潜在的快速运输前景。",
+      "hn": {
+        "id": 48270812,
+        "type": "story",
+        "by": "rmason",
+        "score": 212,
+        "descendants": 155,
+        "time": 1779738225,
+        "comments_url": "https://news.ycombinator.com/item?id=48270812"
+      },
+      "tags": [
+        "Hardware"
+      ],
+      "hot_score": 0.81
+    },
+    {
+      "title_en": "Uber’s COO says it’s getting harder to justify money spent on tokenmaxxing",
+      "url": "https://www.businessinsider.com/uber-coo-andrew-macdonald-ai-token-spending-harder-justify-2026-5",
+      "title_zh": "Uber COO 表示在 AI 令牌相关开销上的合理性日益难以证明",
+      "created_display": "Created: May 25, 2026 / 09:44 PT",
+      "image_url": "https://i.insider.com/6a13b43f51ede568c7e183dd?width=1200&format=jpeg",
+      "summary_en": "Uber's COO says it's becoming harder to justify the money spent on AI tokens or tokenized services, signaling cost-sensitivity in corporate AI tooling. The comment reflects growing scrutiny of AI-related expenditure as platforms scale.",
+      "summary_zh": "Uber 的首席运营官表示在 AI 令牌相关开销上的合理性越来越难以证明，显示出企业在大规模部署 AI 时的成本敏感性上升。此言反映了在平台规模扩张过程中对 AI 成本回报持续的审视。",
+      "hn": {
+        "id": 48268871,
+        "type": "story",
+        "by": "_____k",
+        "score": 265,
+        "descendants": 324,
+        "time": 1779727489,
+        "comments_url": "https://news.ycombinator.com/item?id=48268871"
+      },
+      "tags": [
+        "AI",
+        "Business"
+      ],
+      "hot_score": 0.8
+    },
+    {
+      "title_en": "Leave Me Behind",
+      "url": "http://androidessence.com/leave-me-behind/",
+      "title_zh": "把我落在后面",
+      "created_display": "Created: May 25, 2026 / 05:03 PT",
+      "image_url": null,
+      "summary_en": "Leave Me Behind hints at the tension between adopting new tech and leaving earlier systems or users behind.",
+      "summary_zh": "《Leave Me Behind》揭示在追求新技术时，旧系统与用户被落在后面的紧张关系。文章讨论迁移、采用与用户留存等在快节奏技术环境中的挑战。",
+      "hn": {
+        "id": 48265876,
+        "type": "story",
+        "by": "mooreds",
+        "score": 344,
+        "descendants": 304,
+        "time": 1779710634,
+        "comments_url": "https://news.ycombinator.com/item?id=48265876"
+      },
+      "tags": [
+        "Culture"
+      ],
+      "hot_score": 0.77
+    },
+    {
+      "title_en": "The bootstrapper's EU stack for under €10 per month",
+      "url": "https://eualternative.eu/guides/bootstrapper-free-tier-eu-stack/",
+      "title_zh": "初创者的欧盟低成本技术栈：月费不足€10",
+      "created_display": "Created: May 25, 2026 / 11:37 PT",
+      "image_url": "https://cdn.eualternative.eu/img/guides/bootstrapper-free-tier-eu-stack.webp",
+      "summary_en": "A guide highlights a budget EU-based stack for bootstrappers, under €10/month, covering hosting, emails, domains, and open-source tools. It demonstrates how lean startups can operate with privacy-friendly options while keeping costs low.",
+      "summary_zh": "这份指南列出一个月花费不到€10的欧洲区低成本技术栈，覆盖托管、域名、邮件等核心工具，并强调在合规与隐私方面的优势。",
+      "hn": {
+        "id": 48270111,
+        "type": "story",
+        "by": "sparkling",
+        "score": 221,
+        "descendants": 81,
+        "time": 1779734225,
+        "comments_url": "https://news.ycombinator.com/item?id=48270111"
+      },
+      "hot_score": 0.77,
+      "tags": [
+        "Open Source",
+        "DevOps",
+        "Privacy"
+      ]
+    },
+    {
+      "title_en": "Yoti age checks share facial photos and device fingerprints with third parties",
+      "url": "https://techxplore.com/news/2026-05-online-age-pointless-privacy.html",
+      "title_zh": "Yoti 年龄验证共享人脸照片与设备指纹",
+      "created_display": "Created: May 25, 2026 / 13:30 PT",
+      "image_url": "https://scx2.b-cdn.net/gfx/news/hires/2025/digital-id-cards.jpg",
+      "summary_en": "Yoti's age-verification service reportedly shares facial photos and device fingerprints with third parties, raising concerns about biometric privacy and consent in online verification. The episode underscores the privacy risks embedded in identity tools used by many apps.",
+      "summary_zh": "报道指出 Yoti 的年龄验证服务将人脸照片与设备指纹等生物识别数据与第三方共享，引发对在线身份验证中的生物识别隐私和同意问题的担忧。这凸显了多数应用使用的身份工具所固有的隐私风险。",
+      "hn": {
+        "id": 48271327,
+        "type": "story",
+        "by": "Lihh27",
+        "score": 182,
+        "descendants": 32,
+        "time": 1779741025,
+        "comments_url": "https://news.ycombinator.com/item?id=48271327"
+      },
+      "tags": [
+        "Privacy",
+        "Data"
+      ],
+      "hot_score": 0.74
+    },
+    {
+      "title_en": "Toshifumi Suzuki, founder of Seven-Eleven Japan, has died",
+      "url": "https://www.referenceforbusiness.com/biography/S-Z/Suzuki-Toshifumi-1932.html",
+      "title_zh": "铃木敏文，七-Eleven Japan 创始人去世",
+      "created_display": "Created: May 25, 2026 / 09:20 PT",
+      "image_url": "https://www.referenceforbusiness.com/bs/i/reference-for-business-sm.png",
+      "summary_en": "Toshifumi Suzuki, founder of Seven-Eleven Japan, has died. He helped transform Japanese retail by adapting and scaling the 7-Eleven model—franchise networks, 24/7 operations, and integrated logistics—into a nationwide staple.",
+      "summary_zh": "七-Eleven Japan 创始人铃木敏文去世。他将美国7-Eleven的模式本地化并扩展至日本，推动连锁加盟、24小时营业和以物流为驱动的零售模式成为全国性的主流。",
+      "hn": {
+        "id": 48268609,
+        "type": "story",
+        "by": "L_Rahman",
+        "score": 249,
+        "descendants": 100,
+        "time": 1779726036,
+        "comments_url": "https://news.ycombinator.com/item?id=48268609"
+      },
+      "tags": [
+        "Business"
+      ],
+      "hot_score": 0.73
+    },
+    {
+      "title_en": "Netherlands Seizes 800 Servers, Arrests 2 for Aiding Cyberattacks",
+      "url": "https://krebsonsecurity.com/2026/05/netherlands-seizes-800-servers-arrests-2-for-aiding-cyberattacks/",
+      "title_zh": "荷兰扣押 800 台服务器并逮捕两人以协助网络攻击",
+      "created_display": "Created: May 25, 2026 / 06:56 PT",
+      "image_url": "https://krebsonsecurity.com/wp-content/uploads/2026/05/the-hosting-outage.png",
+      "summary_en": "European authorities disrupted a major cybercrime infrastructure by seizing hundreds of servers and arresting two suspects accused of aiding attacks. The operation underscores the growing use of offshore hosting and botnet networks in cyber campaigns, and the need for robust takedown capabilities.",
+      "summary_zh": "荷兰执法部门对网络犯罪基础设施实施大规模取缔，扣押上百台服务器并逮捕两名嫌疑人。此案凸显了跨境主机托管和僵尸网络在攻击活动中的作用，以及执法取证与网络安全协作的挑战。",
+      "hn": {
+        "id": 48266906,
+        "type": "story",
+        "by": "jruohonen",
+        "score": 282,
+        "descendants": 80,
+        "time": 1779717399,
+        "comments_url": "https://news.ycombinator.com/item?id=48266906"
+      },
+      "tags": [
+        "Security",
+        "Legal",
+        "DevOps"
+      ],
+      "hot_score": 0.71
+    },
+    {
+      "title_en": "The Eternal Sloptember",
+      "url": "https://geohot.github.io//blog/jekyll/update/2026/05/24/the-eternal-sloptember.html",
+      "title_zh": "永恒的 Sloptember",
+      "created_display": "Created: May 24, 2026 / 20:47 PT",
+      "image_url": null,
+      "summary_en": "The Eternal Sloptember centers on the enduring concept of Sloptember.",
+      "summary_zh": "《永恒的 Sloptember》围绕 Sloptember 的持续概念展开。",
+      "hn": {
+        "id": 48263238,
+        "type": "story",
+        "by": "razin",
+        "score": 472,
+        "descendants": 361,
+        "time": 1779680844,
+        "comments_url": "https://news.ycombinator.com/item?id=48263238"
+      },
+      "tags": [
+        "Programming"
+      ],
+      "hot_score": 0.68
+    },
+    {
+      "title_en": "Show HN: Audiomass – a free, open-source multitrack audio editor for the web",
+      "url": "https://audiomass.co/?multitrack=1",
+      "title_zh": "Show HN：Audiomass——一个免费开源的网页多轨音频编辑器",
+      "created_display": "Created: May 24, 2026 / 08:25 PT",
+      "image_url": "https://audiomass.co/icon.jpg",
+      "summary_en": "Audiomass is a free, open-source multitrack audio editor that runs entirely in your browser. It offers a simple timeline and essential editing tools with no installation, making quick editing and sharing easy for web users. Being open-source, it invites community contributions and transparency.",
+      "summary_zh": "Audiomass 是一个免费、开源的浏览器端多轨音频编辑器，完全在浏览器中运行，无需安装即可完成编辑与导出。它提供简单的时间线和基本编辑工具，便于快速处理和分享音频，社区贡献也更易参与。",
+      "hn": {
+        "id": 48258015,
+        "type": "story",
+        "by": "pantelisk",
+        "score": 528,
+        "descendants": 115,
+        "time": 1779636343,
+        "comments_url": "https://news.ycombinator.com/item?id=48258015"
+      },
+      "tags": [
+        "Show HN",
+        "Open Source",
+        "Web"
+      ],
+      "hot_score": 0.46
+    },
+    {
+      "title_en": "Migrating from Go to Rust",
+      "url": "https://corrode.dev/learn/migration-guides/go-to-rust/",
+      "title_zh": "从 Go 迁移到 Rust",
+      "created_display": "Created: May 24, 2026 / 11:31 PT",
+      "image_url": "https://corrode.dev/learn/migration-guides/go-to-rust/social.png",
+      "summary_en": "A practical migration guide helps teams decide when to port Go code to Rust, with stepwise strategies, interoperability patterns, and clear trade-offs. It emphasizes balancing safety and performance gains against cost and team readiness.",
+      "summary_zh": "迁移指南从评估时机、分步迁移模式、互操作性等角度，帮助团队将代码从 Go 迁移到 Rust。强调在性能与内存安全收益、成本以及团队准备之间的权衡。",
+      "hn": {
+        "id": 48259808,
+        "type": "story",
+        "by": "jabits",
+        "score": 468,
+        "descendants": 485,
+        "time": 1779647502,
+        "comments_url": "https://news.ycombinator.com/item?id=48259808"
+      },
+      "tags": [
+        "Programming"
+      ],
+      "hot_score": 0.45
+    },
+    {
+      "title_en": "Jira Is Turing-Complete",
+      "url": "https://seriot.ch/computation/jira.html",
+      "title_zh": "Jira 具备图灵完备性",
+      "created_display": "Created: May 24, 2026 / 20:54 PT",
+      "image_url": "https://seriot.ch/resources/jira_tc/addition_rules.png",
+      "summary_en": "An analysis shows Jira's workflow language is Turing-complete, meaning it can simulate any computation given enough resources. This raises questions about the line between powerful automation and potential security risks or runaway resource use in project-management tooling.",
+      "summary_zh": "一项分析表明 Jira 的工作流语言具备图灵完备性，理论上可以在资源充足时模拟任意计算。这让人重新思考在项目管理工具中对自动化能力的界限，以及潜在的安全风险或资源耗尽问题。",
+      "hn": {
+        "id": 48263253,
+        "type": "story",
+        "by": "vinhnx",
+        "score": 301,
+        "descendants": 146,
+        "time": 1779681254,
+        "comments_url": "https://news.ycombinator.com/item?id=48263253"
+      },
+      "tags": [
+        "Programming",
+        "Security"
+      ],
+      "hot_score": 0.43
+    },
+    {
+      "title_en": "Microsoft pulls plug on plans for 244-acre data center in Caledonia (2025)",
+      "url": "https://www.tmj4.com/news/racine-county/microsoft-pulls-plug-on-plans-for-244-acre-data-center-in-caledonia-after-community-pushback",
+      "title_zh": "微软取消在 Caledonia 的 244 英亩数据中心计划（2025）",
+      "created_display": "Created: May 25, 2026 / 06:09 PT",
+      "image_url": "https://ewscripps.brightspotcdn.com/dims4/default/44d2d0a/2147483647/strip/true/crop/1280x672+0+24/resize/1200x630!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2Fc9%2F9e%2Fd8b98e7a45e5bdb35c08785c504a%2Fmixcollage-09-oct-2025-11-38-am-3678.jpg",
+      "summary_en": "Microsoft cancels its 244-acre data center project in Caledonia in 2025 after community pushback, highlighting the friction between big-tech expansion and local concerns. The reversal shows how local opposition and regulatory scrutiny can derail or delay capital-intensive infrastructure.",
+      "summary_zh": "微软取消在 Caledonia 的 244 英亩数据中心计划（2025），凸显大型科技扩张与地方关切之间的矛盾。地方反对声音与监管审查可能迫使这类高资本密集型基础设施的推迟或取消。",
+      "hn": {
+        "id": 48266422,
+        "type": "story",
+        "by": "cdrnsf",
+        "score": 179,
+        "descendants": 178,
+        "time": 1779714593,
+        "comments_url": "https://news.ycombinator.com/item?id=48266422"
+      },
+      "hot_score": 0.43,
+      "tags": [
+        "Business",
+        "DevOps",
+        "Politics"
+      ]
+    },
+    {
+      "title_en": "C extensions, portability, and alternative compilers",
+      "url": "https://lemon.rip/w/6-c-extensions-compilers/",
+      "title_zh": "C 扩展、可移植性与替代编译器",
+      "created_display": "Created: May 25, 2026 / 07:15 PT",
+      "image_url": null,
+      "summary_en": "C extensions boost speed and integration for many languages, but they complicate portability due to ABI stability, compiler quirks, and platform-specific behavior. Developers weigh strategies like using CFFI, safe bindings, or alternative compilers (GCC/Clang/MSVC) to improve portability and maintenance.",
+      "summary_zh": "C 扩展带来性能与无缝集成，但因 ABI 稳定性、编译器差异和平台行为而削弱可移植性。文章讨论权衡点，并给出通过 CFFI、绑定封装或替代编译器（如 GCC/Clang/MSVC）提升跨平台维护性的做法。",
+      "hn": {
+        "id": 48267126,
+        "type": "story",
+        "by": "xngbuilds",
+        "score": 167,
+        "descendants": 87,
+        "time": 1779718519,
+        "comments_url": "https://news.ycombinator.com/item?id=48267126"
+      },
+      "tags": [
+        "Programming"
+      ],
+      "hot_score": 0.43
+    },
+    {
+      "title_en": "Memory has grown to nearly two-thirds of AI chip component costs",
+      "url": "https://epoch.ai/data-insights/ai-chip-component-cost-shares",
+      "title_zh": "AI 芯片成本中内存占比近三分之二",
+      "created_display": "Created: May 24, 2026 / 09:31 PT",
+      "image_url": "https://epoch.ai/assets/images/data-insights/ai-chip-component-cost-shares/t-ai-chip-component-cost-shares.png",
+      "summary_en": "New cost data show memory accounts for about two-thirds of AI chip component costs, making memory the dominant design and pricing driver as models grow. This shifts emphasis to memory bandwidth, efficiency, and novel memory tech, as chips compete on how well they feed large AI workloads.",
+      "summary_zh": "最新成本数据表明，内存约占 AI 芯片组件成本的三分之二，成为主导的设计和定价驱动力。随着模型规模增大，厂商更关注内存带宽、效率以及新型内存技术，以提高对大规模 AI workload 的供给能力。",
+      "hn": {
+        "id": 48258684,
+        "type": "story",
+        "by": "intelkishan",
+        "score": 440,
+        "descendants": 489,
+        "time": 1779640289,
+        "comments_url": "https://news.ycombinator.com/item?id=48258684"
+      },
+      "tags": [
+        "Hardware",
+        "AI"
+      ],
+      "hot_score": 0.4
+    },
+    {
+      "title_en": "Pope Leo: opaque AI run by few firms risks \"New Forms of Dehumanization\"",
+      "url": "https://variety.com/2026/biz/global/pope-leo-ai-encyclical-algorithms-threaten-dehumanisation-1236758186/",
+      "title_zh": "教皇利奥：少数公司掌控且不透明的 AI 将带来新的去人性化",
+      "created_display": "Created: May 25, 2026 / 06:12 PT",
+      "image_url": "https://variety.com/wp-content/uploads/2026/05/Pope-Leo.jpg?w=1000&h=563&crop=1",
+      "summary_en": "The pope warns that opaque AI controlled by a few firms risks dehumanization and consolidates power away from people. The message highlights ethical concerns about AI governance, transparency, and the social consequences of centralized tech control.",
+      "summary_zh": "教皇利奥警告，少数公司掌控且不透明的 AI 可能带来去人性化并削弱人们的自主性。此言凸显了对 AI 治理、透明度与集权化技术控制的伦理担忧。",
+      "hn": {
+        "id": 48266435,
+        "type": "story",
+        "by": "embedding-shape",
+        "score": 164,
+        "descendants": 2,
+        "time": 1779714760,
+        "comments_url": "https://news.ycombinator.com/item?id=48266435"
+      },
+      "hot_score": 0.39,
+      "tags": [
+        "Politics",
+        "AI"
+      ]
+    },
+    {
+      "title_en": "IBM Spins Off the First Pure-Play Quantum Chip Foundry",
+      "url": "https://futurumgroup.com/insights/2-billion-chips-act-investment-in-quantum-bets-on-ibms-300mm-superconducting-silicon/",
+      "title_zh": "IBM 拆分成立首家纯粹的量子芯片代工厂",
+      "created_display": "Created: May 25, 2026 / 02:43 PT",
+      "image_url": "https://futurumgroup.com/wp-content/uploads/2026/05/stock_0482.png",
+      "summary_en": "IBM spins off a dedicated quantum chip foundry, signaling a shift toward specialized hardware manufacturing for quantum systems. The move could accelerate prototyping and commercialization by offering third-party access to quantum fabrication capabilities, expanding the ecosystem beyond IBM.",
+      "summary_zh": "IBM 将量子芯片代工推向纯粹的商业化专用工厂，标志着量子硬件制造逐步走向专业化。此举可能让更多客户能够接入量子制造能力，加速原型设计和商业化进程，同时扩大生态系统。",
+      "hn": {
+        "id": 48265056,
+        "type": "story",
+        "by": "rbanffy",
+        "score": 150,
+        "descendants": 69,
+        "time": 1779702183,
+        "comments_url": "https://news.ycombinator.com/item?id=48265056"
+      },
+      "tags": [
+        "Hardware",
+        "Science"
+      ],
+      "hot_score": 0.29
+    },
+    {
+      "title_en": "Claude is not your architect. Stop letting it pretend",
+      "url": "https://www.hollandtech.net/claude-is-not-your-architect/",
+      "title_zh": "Claude 不是你的架构师，别让它假装",
+      "created_display": "Created: May 24, 2026 / 11:28 PT",
+      "image_url": "https://www.hollandtech.net/og/claude-is-not-your-architect.png",
+      "summary_en": "Generative AI like Claude can assist with code and prompts, but it shouldn't be trusted to design system architecture. The piece argues for human-owned, auditable decisions and warns against overreliance on AI for critical design tasks. It also offers pragmatic tips for using AI as a collaborator rather than a replacement.",
+      "summary_zh": "像 Claude 这样的生成式 AI 可以协助编码与提示，但不应被信任来设计系统架构。文章主张高层设计应由人类掌控并可审计，警惕对关键设计任务过度依赖 AI，并给出将 AI 作为协作者而非替代的实用建议。",
+      "hn": {
+        "id": 48259784,
+        "type": "story",
+        "by": "cdrnsf",
+        "score": 269,
+        "descendants": 189,
+        "time": 1779647291,
+        "comments_url": "https://news.ycombinator.com/item?id=48259784"
+      },
+      "tags": [
+        "AI",
+        "Design"
+      ],
+      "hot_score": 0.26
+    },
+    {
+      "title_en": "The four-day workweek in Australia: insights from early adopters of 100:80:100",
+      "url": "https://scienceaim.com/australia-just-proved-the-four-day-work-week-works-here-is-what-the-data-actually-says/",
+      "title_zh": "澳大利亚四天工作周：100:80:100 模式的早期采用者洞见",
+      "created_display": "Created: May 24, 2026 / 11:56 PT",
+      "image_url": "https://scienceaim.com/wp-content/uploads/2026/05/Screenshot_3.png",
+      "summary_en": "Australia experiments with a four-day workweek using the 100:80:100 model (full pay, 80% hours, 100% productivity). Early adopters report improved wellbeing and comparable output, but implementation challenges remain.",
+      "summary_zh": "澳大利亚的四天工作周实验采用100:80:100模式（全薪、80%工时、100%产出）。早期采用者报告在福祉与产出之间实现了平衡，但在执行方面仍存在挑战。",
+      "hn": {
+        "id": 48259990,
+        "type": "story",
+        "by": "randycupertino",
+        "score": 256,
+        "descendants": 255,
+        "time": 1779648969,
+        "comments_url": "https://news.ycombinator.com/item?id=48259990"
+      },
+      "tags": [
+        "Health",
+        "Business"
+      ],
+      "hot_score": 0.25
+    },
+    {
+      "title_en": "A fundamental principle of aeronautical engineering has been overturned",
+      "url": "https://www.wired.com/story/a-fundamental-principle-of-aeronautical-engineering-has-been-overturned/",
+      "title_zh": "航空工程的一个基本原则被推翻",
+      "created_display": "Created: May 24, 2026 / 12:10 PT",
+      "image_url": "https://media.wired.com/photos/6a0f1d82527cc03d8afd9e26/191:100/w_1280,c_limit/1341532824",
+      "summary_en": "A new result overturns a long-held principle in aeronautical engineering, prompting reevaluation of design assumptions and simulation practices. The finding could affect aircraft stability analysis and safety margins across the industry.",
+      "summary_zh": "研究推翻了航空工程中的一个长期基本原理，促使人们重新审视设计假设和仿真方法。这一发现可能影响飞行器稳定性分析和安全裕度，波及整个行业。",
+      "hn": {
+        "id": 48260117,
+        "type": "story",
+        "by": "littlexsparkee",
+        "score": 238,
+        "descendants": 124,
+        "time": 1779649826,
+        "comments_url": "https://news.ycombinator.com/item?id=48260117"
+      },
+      "tags": [
+        "Science"
+      ],
+      "hot_score": 0.24
+    },
+    {
+      "title_en": "Building Pi with Pi",
+      "url": "https://lucumr.pocoo.org/2026/5/24/pi-oss/",
+      "title_zh": "用 Pi 构建 Pi",
+      "created_display": "Created: May 24, 2026 / 10:22 PT",
+      "image_url": "https://lucumr.pocoo.org/social/2026-05-24-pi-oss-social.png",
+      "summary_en": "It highlights the challenges and rewards of using a project’s own tooling to build its ecosystem.",
+      "summary_zh": "文章展示了用 Pi 自行构建 Pi 的自举过程，说明了自托管开发的技术要点与挑战，以及让项目自研工具链自成生态的潜在收益。",
+      "hn": {
+        "id": 48259192,
+        "type": "story",
+        "by": "mplanchard",
+        "score": 185,
+        "descendants": 146,
+        "time": 1779643368,
+        "comments_url": "https://news.ycombinator.com/item?id=48259192"
+      },
+      "tags": [
+        "Open Source"
+      ],
+      "hot_score": 0.17
+    },
+    {
+      "title_en": "Defeating Git Rigour Fatigue with Jujutsu",
+      "url": "https://ikesau.co/blog/defeating-git-rigour-fatigue-with-jujutsu/",
+      "title_zh": "以柔术化解 Git 的严格流程疲劳",
+      "created_display": "Created: May 24, 2026 / 11:39 PT",
+      "image_url": null,
+      "summary_en": "A pragmatic take argues against rigid Git workflows that burn out teams, offering lightweight, jujutsu-inspired practices to reduce cognitive load. Expect tips like smaller pull requests, incremental changes, and flexible branching to maintain momentum.",
+      "summary_zh": "文章认为对 Git 的过度严格流程会让团队疲惫，主张用“柔术式”的简化方法降低认知负荷。给出可操作的建议，如缩短提交范围、分支策略更灵活、逐步变更以保持开发势头。",
+      "hn": {
+        "id": 48259861,
+        "type": "story",
+        "by": "ikesau",
+        "score": 178,
+        "descendants": 175,
+        "time": 1779647950,
+        "comments_url": "https://news.ycombinator.com/item?id=48259861"
+      },
+      "tags": [
+        "Programming",
+        "DevOps"
+      ],
+      "hot_score": 0.17
+    },
+    {
+      "title_en": "CBP Directive 3340-049B: Border Search of Electronic Devices",
+      "url": "https://www.cbp.gov/document/directives/cbp-directive-no-3340-049b-border-search-electronic-devices",
+      "title_zh": "CBP 指令 3340-049B：边境对电子设备的搜查",
+      "created_display": "Created: May 24, 2026 / 12:12 PT",
+      "image_url": "https://www.cbp.gov/sites/default/files/cbp-seal-vertical-blue_twitter-card_600.jpg",
+      "summary_en": "CBP's directive clarifies border search authority for electronic devices, outlining procedures, privacy considerations, and data handling. The guidance informs travelers and developers about what can be inspected and how data is stored or used.",
+      "summary_zh": "CBP 的指令明确了边境对电子设备搜查的权限与程序，涵盖隐私考量与数据处理。为旅行者和开发者提供了对可检查内容以及数据存储与使用方式的指引。",
+      "hn": {
+        "id": 48260140,
+        "type": "story",
+        "by": "Ember_Wipe",
+        "score": 173,
+        "descendants": 132,
+        "time": 1779649966,
+        "comments_url": "https://news.ycombinator.com/item?id=48260140"
+      },
+      "tags": [
+        "Privacy",
+        "Legal"
+      ],
+      "hot_score": 0.17
+    },
+    {
+      "title_en": "Usborne 1980s Computer Books",
+      "url": "https://usborne.com/us/books/computer-and-coding-books",
+      "title_zh": "Usborne 1980 年代的计算机书籍",
+      "created_display": "Created: May 24, 2026 / 08:43 PT",
+      "image_url": "https://usborne.com/media/usborne_facebook_abstract.jpg",
+      "summary_en": "Usborne's 1980s computer and coding books helped a generation learn BASIC and early computing through approachable projects. The collection highlights how beginner-friendly guides shaped digital literacy and left a lasting cultural footprint.",
+      "summary_zh": "Usborne 的 1980 年代计算机与编码书籍通过易学的项目引导一代人学习 BASIC 和早期计算机知识。该系列展示了面向初学者的讲解如何塑造数字素养，并留下持久的文化印记。",
+      "hn": {
+        "id": 48258194,
+        "type": "story",
+        "by": "ngram",
+        "score": 182,
+        "descendants": 60,
+        "time": 1779637380,
+        "comments_url": "https://news.ycombinator.com/item?id=48258194"
+      },
+      "tags": [
+        "Education"
+      ],
+      "hot_score": 0.16
+    },
+    {
+      "title_en": "'AI washing': firms are scrambling to rebrand themselves as tech-focused",
+      "url": "https://www.theguardian.com/technology/2026/may/24/ai-washing-pr-firms-scrambling-rebrand",
+      "title_zh": "AI 洗白：公司匆忙将自己包装成科技型",
+      "created_display": "Created: May 24, 2026 / 08:21 PT",
+      "image_url": "https://i.guim.co.uk/img/media/6c4dd4b2880760003ffbd14e8d6884b367237ad3/1844_305_2349_1879/master/2349.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8ae6c8a540881dcdf228bf87820a2733",
+      "summary_en": "Firms are engaging in 'AI washing' by marketing themselves as AI-first even if their core products aren’t AI-centric. The piece analyzes PR tactics, potential investor skepticism, and what to look for beyond buzzwords.",
+      "summary_zh": "公司通过炒作 AI 能力来包装自己，哪怕核心产品并非 AI 驱动的也自称 AI 为先。文章分析公关手法、投资者可能的怀疑，以及读者应关注的真实能力与产品路线。",
+      "hn": {
+        "id": 48257980,
+        "type": "story",
+        "by": "Brajeshwar",
+        "score": 179,
+        "descendants": 163,
+        "time": 1779636088,
+        "comments_url": "https://news.ycombinator.com/item?id=48257980"
+      },
+      "tags": [
+        "Business",
+        "AI"
+      ],
+      "hot_score": 0.15
+    },
+    {
+      "title_en": "Ruby for Good",
+      "url": "https://ti.to/codeforgood/rubyforgood",
+      "title_zh": "Ruby for Good：用 Ruby 做善事",
+      "created_display": "Created: May 24, 2026 / 08:49 PT",
+      "image_url": "https://dashboard.assets.tito.io/assets/tito-facebook-og-a31ed3ae450963e8b87c683966ad5050849900a706314c4899d5d9213ba51aea.png",
+      "summary_en": "Ruby for Good mobilizes Ruby developers to volunteer on charitable tech projects, combining open-source collaboration with social impact. Participants gain practical experience while nonprofits receive improvements to software and operations.",
+      "summary_zh": "Ruby for Good 号召 Ruby 开发者参与慈善项目的技术工作，将开源协作与社会影响结合起来。参与者获得实战经验，非营利组织获得软件和运营上的改进。",
+      "hn": {
+        "id": 48258254,
+        "type": "story",
+        "by": "mooreds",
+        "score": 146,
+        "descendants": 55,
+        "time": 1779637759,
+        "comments_url": "https://news.ycombinator.com/item?id=48258254"
+      },
+      "tags": [
+        "Open Source",
+        "Culture"
+      ],
+      "hot_score": 0.13
+    }
+  ]
+}

@@ -1,0 +1,1169 @@
+{
+  "meta": {
+    "mode": "best",
+    "source": "https://news.ycombinator.com/",
+    "api": "https://github.com/HackerNews/API",
+    "count_requested": 50,
+    "count_written": 50,
+    "reused_same_day": 0,
+    "reused_cross_day": 23,
+    "new_llm_enriched": 8,
+    "scrape_time_display": "06:49, July 15, 2026 (PDT)",
+    "timezone": "America/Los_Angeles",
+    "date_dir": "2026/07/14",
+    "content_date": "2026-07-14",
+    "run_time_local": "06:49, July 15, 2026 (PDT)",
+    "run_time_utc": "2026-07-15 13:49:32 UTC",
+    "incremental": true,
+    "stories_max": 50,
+    "hot_score_time_utc": "2026-07-15 13:50:21 UTC"
+  },
+  "items": [
+    {
+      "title_en": "Sleep regularity is a stronger predictor of mortality risk than sleep duration",
+      "url": "https://academic.oup.com/sleep/article/47/1/zsad253/7280269",
+      "title_zh": "睡眠规律性比睡眠时长更能预测死亡风险",
+      "created_display": "Created: Jul 15, 2026 / 04:46 PT",
+      "image_url": null,
+      "summary_en": "New research suggests that how regularly you sleep predicts mortality risk more strongly than total sleep duration. Using long-term wearable data, the study links consistent sleep timing with better health outcomes, independent of hours slept. The finding shifts emphasis toward regular schedules as a health strategy and dovetails with consumer wellness tech.",
+      "summary_zh": "最新研究表明，睡眠时间的规律性与死亡风险的相关性比总睡眠时长更强。通过长期可穿戴设备数据，研究发现稳定的睡眠时序与更好的健康结果相关，且与实际睡眠时长无关。该发现将健康策略的重点从睡眠时长转向规律作息，并与可穿戴健康科技的发展相吻合。",
+      "hn": {
+        "id": 48919363,
+        "type": "story",
+        "by": "bilsbie",
+        "score": 209,
+        "descendants": 80,
+        "time": 1784115966,
+        "comments_url": "https://news.ycombinator.com/item?id=48919363"
+      },
+      "hot_score": 16.62,
+      "tags": [
+        "Health"
+      ]
+    },
+    {
+      "title_en": "I tricked Claude into leaking your deepest, darkest secrets",
+      "url": "https://www.ayush.digital/blog/the-memory-heist",
+      "title_zh": "我如何骗过 Claude 让它泄露你最深的秘密",
+      "created_display": "Created: Jul 14, 2026 / 23:28 PT",
+      "image_url": "https://ayush.digital/blog/the-memory-heist/opengraph-image",
+      "summary_en": "A crafted prompt demonstrates a vulnerability in Claude's handling of sensitive data, revealing how advanced LLMs can leak information under certain prompts. The post underscores the data-privacy risk and the importance of guardrails, data governance, and model hardening.",
+      "summary_zh": "通过巧妙的提示演示，揭示 Claude 在特定输入下可能泄露敏感信息的风险，凸显数据隐私与模型防护的重要性。文章提醒开发者加强 guardrails、数据治理和对模型的安全强化。",
+      "hn": {
+        "id": 48916975,
+        "type": "story",
+        "by": "macleginn",
+        "score": 469,
+        "descendants": 224,
+        "time": 1784096880,
+        "comments_url": "https://news.ycombinator.com/item?id=48916975"
+      },
+      "tags": [
+        "AI",
+        "Privacy",
+        "Security"
+      ],
+      "hot_score": 8.33
+    },
+    {
+      "title_en": "Jurassic Park computers in excruciating detail",
+      "url": "https://fabiensanglard.net/jurrasic_park_computers/index.html",
+      "title_zh": "《侏罗纪公园》中的计算机：详尽到极致",
+      "created_display": "Created: Jul 14, 2026 / 19:57 PT",
+      "image_url": "https://fabiensanglard.net/jurrasic_park_computers/00_11_15_Apple_Powerbook_100.webp",
+      "summary_en": "This piece dissects the film's on-screen computer systems with an eye for hardware, OS choices, and faux interfaces. It reveals how the prop-makers staged computing to look convincing on 1993-era tech, shaping viewers' perception of digital authority. The analysis also explains why these UI aesthetics continue to influence cinematic design.",
+      "summary_zh": "本文逐步拆解《侏罗纪公园》中的银幕计算机，揭示道具团队如何选用真实硬件与界面语言来营造可信感，并分析这对当代电影界面设计的影响。作者还讨论其对后续影视作品在呈现技术方面的影响力。",
+      "hn": {
+        "id": 48915709,
+        "type": "story",
+        "by": "vinhnx",
+        "score": 648,
+        "descendants": 158,
+        "time": 1784084267,
+        "comments_url": "https://news.ycombinator.com/item?id=48915709"
+      },
+      "tags": [
+        "Hardware",
+        "Design"
+      ],
+      "hot_score": 6.51
+    },
+    {
+      "title_en": "Bonsai 27B: A 27B-Class model that runs on a phone",
+      "url": "https://prismml.com/news/bonsai-27b",
+      "title_zh": "Bonsai 27B：能在手机上运行的27B级模型",
+      "created_display": "Created: Jul 14, 2026 / 10:50 PT",
+      "image_url": "https://cdn.prod.website-files.com/697a3312d33c2cc715ec3899/69961847735f3ec32aafc18e_prism-logo.svg",
+      "summary_en": "The Bonsai 27B project demonstrates a 27-billion-parameter model that can run directly on a smartphone, signaling a practical edge-AI milestone. Achieving on-device inference requires aggressive optimization (pruning, quantization, efficient runtimes) to fit memory and power constraints, but it promises lower latency and stronger privacy. This shift hints at a future where powerful AI can operate without constant cloud access.",
+      "summary_zh": "Bonsai 27B 展示了一个27B参数级模型能够直接在手机上运行，标志着边缘AI的一个实际里程碑。实现本地推理需要对模型进行大幅优化（裁剪、量化、高效运行时），以适应内存与电池限制，但可带来更低的延迟和更强的隐私保护。这预示着强大AI有望在不依赖云端的情况下运行。",
+      "hn": {
+        "id": 48910545,
+        "type": "story",
+        "by": "xenova",
+        "score": 649,
+        "descendants": 230,
+        "time": 1784051448,
+        "comments_url": "https://news.ycombinator.com/item?id=48910545"
+      },
+      "tags": [
+        "AI",
+        "Hardware",
+        "Privacy"
+      ],
+      "hot_score": 2.49
+    },
+    {
+      "title_en": "Vancouver PD website features Quick Escape button that wipes itself from history",
+      "url": "https://vpd.ca/",
+      "title_zh": "温哥华警察局网站设有“快速逃离”按钮，可从历史记录中自行移除",
+      "created_display": "Created: Jul 14, 2026 / 17:15 PT",
+      "image_url": "https://vpd.ca/wp-content/uploads/2021/05/logo-vpd-white-270x318-1.png",
+      "summary_en": "The Vancouver PD site includes a Quick Escape feature that clears itself from the browser history, intended for users in sensitive situations. This raises questions about privacy-by-design on public portals and how thoroughly such data is erased across logs and devices.",
+      "summary_zh": "该网站提供的“快速逃离”按钮旨在保护处于敏感情境的用户隐私，但也引发了对公门户隐私设计的讨论：实际能清除哪些数据、还有哪些日志会被保留。",
+      "hn": {
+        "id": 48914644,
+        "type": "story",
+        "by": "LookAtThatBacon",
+        "score": 316,
+        "descendants": 127,
+        "time": 1784074553,
+        "comments_url": "https://news.ycombinator.com/item?id=48914644"
+      },
+      "tags": [
+        "Privacy",
+        "Web"
+      ],
+      "hot_score": 2.25
+    },
+    {
+      "title_en": "The Tower Keeps Rising",
+      "url": "https://lucumr.pocoo.org/2026/7/13/the-tower-keeps-rising/",
+      "title_zh": "塔楼仍在不断升高",
+      "created_display": "Created: Jul 14, 2026 / 09:57 PT",
+      "image_url": "https://lucumr.pocoo.org/social/2026-07-13-the-tower-keeps-rising-social.png",
+      "summary_en": "Tech systems keep piling on layers and complexity as projects scale, increasing maintenance overhead and slowing developers.",
+      "summary_zh": "随着项目规模扩大，技术系统不断叠加层级与复杂性，导致维护成本上升、开发者体验受挫。",
+      "hn": {
+        "id": 48909785,
+        "type": "story",
+        "by": "cdrnsf",
+        "score": 517,
+        "descendants": 239,
+        "time": 1784048274,
+        "comments_url": "https://news.ycombinator.com/item?id=48909785"
+      },
+      "tags": [
+        "DevOps"
+      ],
+      "hot_score": 1.84
+    },
+    {
+      "title_en": "Cursor 0day: When Full Disclosure Becomes the Only Protection Left",
+      "url": "https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left",
+      "title_zh": "Cursor 0day：当完全披露成为唯一的保护时",
+      "created_display": "Created: Jul 14, 2026 / 10:58 PT",
+      "image_url": "https://cdn.prod.website-files.com/673f0725df990f6c96bf18ea/6a562c4ba76323b509a1de8d_cursor-zero-hero.webp",
+      "summary_en": "This piece weighs the ethics and practicality of full disclosure for zero-day vulnerabilities, arguing that disclosure can become the only robust defense when other protections fail. It contrasts responsible disclosure with more aggressive release approaches and calls for rethinking incentives and defense layers.",
+      "summary_zh": "本文探讨零日漏洞的完全披露在道德与实务上的权衡，认为在其他防护失效时披露可能成为唯一的可靠防线。对比负责任披露与更激进的公开方式，呼吁重新思考激励机制与多层防御。",
+      "hn": {
+        "id": 48910676,
+        "type": "story",
+        "by": "Synthetic7346",
+        "score": 411,
+        "descendants": 194,
+        "time": 1784051915,
+        "comments_url": "https://news.ycombinator.com/item?id=48910676"
+      },
+      "tags": [
+        "Security"
+      ],
+      "hot_score": 1.59
+    },
+    {
+      "title_en": "Are we offloading too much of our thinking to AI?",
+      "url": "https://www.artfish.ai/p/offloading-thinking-to-ai",
+      "title_zh": "我们是不是把太多思考交给 AI？",
+      "created_display": "Created: Jul 14, 2026 / 08:18 PT",
+      "image_url": "https://substackcdn.com/image/fetch/$s_!NTK9!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffb548edd-f827-4d19-aa23-3bd68fdc980c_1456x1092.webp",
+      "summary_en": "We're increasingly offloading thinking to AI, but overreliance risks dulling critical thinking, misframing problems, and eroding human agency. The piece calls for balancing automation with human judgment.",
+      "summary_zh": "我们越来越多地把思考交给 AI，文章认为过度依赖会削弱批判性思维、使问题界定偏离实际，并侵蚀个人主动性。应在自动化与人类判断之间保持平衡。",
+      "hn": {
+        "id": 48908178,
+        "type": "story",
+        "by": "yenniejun111",
+        "score": 491,
+        "descendants": 446,
+        "time": 1784042293,
+        "comments_url": "https://news.ycombinator.com/item?id=48908178"
+      },
+      "tags": [
+        "AI",
+        "Culture"
+      ],
+      "hot_score": 1.54
+    },
+    {
+      "title_en": "TS-2026-009: Insecure argument handling in Tailscale SSH permitted root access",
+      "url": "https://tailscale.com/security-bulletins",
+      "title_zh": "TS-2026-009：Tailscale SSH 的参数处理不安全，可能使攻击方获得 root 权限",
+      "created_display": "Created: Jul 14, 2026 / 18:08 PT",
+      "image_url": "https://cdn.sanity.io/images/w77i7m8x/production/8e0455b2d9b33c6151016afdf2ea81d7623c2f04-1200x628.png",
+      "summary_en": "A security bulletin warns that insecure argument handling in Tailscale SSH could allow an attacker to gain root access. The advisory urges upgrading to patched versions and applying mitigations until fixes propagate.",
+      "summary_zh": "安全公告警示 Tailscale SSH 的参数处理不安全，可能使恶意者获得 root 权限。建议尽早升级至修补版本，执行缓解措施，直至全面修复。",
+      "hn": {
+        "id": 48915004,
+        "type": "story",
+        "by": "jervant",
+        "score": 187,
+        "descendants": 107,
+        "time": 1784077706,
+        "comments_url": "https://news.ycombinator.com/item?id=48915004"
+      },
+      "tags": [
+        "Security"
+      ],
+      "hot_score": 1.47
+    },
+    {
+      "title_en": "How to stop Claude from saying load-bearing",
+      "url": "https://jola.dev/posts/how-to-stop-claude-from-saying-load-bearing",
+      "title_zh": "如何让 Claude 不再说‘承重’",
+      "created_display": "Created: Jul 14, 2026 / 04:46 PT",
+      "image_url": "https://jola.dev/images/og/posts/how-to-stop-claude-from-saying-load-bearing.png",
+      "summary_en": "Offers concrete prompt engineering and safety tricks to prevent Claude from making unsafe or overconfident 'load-bearing' claims, guiding users toward safer outputs.",
+      "summary_zh": "提供具体的提示工程和安全技巧，防止 Claude 发表不安全或过度自信的“承重”论断，帮助用户获得更安全的输出。",
+      "hn": {
+        "id": 48905248,
+        "type": "story",
+        "by": "shintoist",
+        "score": 569,
+        "descendants": 584,
+        "time": 1784029562,
+        "comments_url": "https://news.ycombinator.com/item?id=48905248"
+      },
+      "tags": [
+        "AI",
+        "Programming"
+      ],
+      "hot_score": 1.4
+    },
+    {
+      "title_en": "How I use HTMX with Go",
+      "url": "https://www.alexedwards.net/blog/how-i-use-htmx-with-go",
+      "title_zh": "我如何在 Go 项目中使用 HTMX",
+      "created_display": "Created: Jul 14, 2026 / 12:55 PT",
+      "image_url": "https://www.alexedwards.net/static/img/cover-sm-lg.png",
+      "summary_en": "HTMX enables progressive enhancement by letting Go handlers drive partial page updates via HTML attributes, reducing front-end complexity while keeping fast, server-rendered UI. The post shares practical patterns for integrating HTMX with Go templates and endpoints to improve responsiveness.",
+      "summary_zh": "HTMX 通过在 HTML 属性中声明交互，让 Go 处理程序驱动局部页面更新，减少前端代码并保持服务器端渲染的快速 UI。文中分享将 HTMX 与 Go 模板和端点结合的实用模式，从而提升页面响应速度。",
+      "hn": {
+        "id": 48912175,
+        "type": "story",
+        "by": "gnabgib",
+        "score": 290,
+        "descendants": 91,
+        "time": 1784058931,
+        "comments_url": "https://news.ycombinator.com/item?id=48912175"
+      },
+      "tags": [
+        "Programming",
+        "Web"
+      ],
+      "hot_score": 1.33
+    },
+    {
+      "title_en": "Data centers have hiked electricity prices on the public by $23B",
+      "url": "https://fortune.com/2026/07/14/data-centers-23-billion-electricity-bills/",
+      "title_zh": "数据中心抬高电价，致公众多付约230亿美元",
+      "created_display": "Created: Jul 14, 2026 / 17:20 PT",
+      "image_url": "https://fortune.com/img-assets/wp-content/uploads/2026/07/GettyImages-2285284906-e1783971804803.jpg?resize=1200,600",
+      "summary_en": "A Fortune report puts a number on data center energy costs, finding that electricity pricing tied to data center demand has shifted about $23 billion of costs onto the public. The rise reflects grid strain, peak demand, and policy dynamics around energy and data infrastructure. As workloads grow, efficiency, locality decisions, and regulatory oversight become critical.",
+      "summary_zh": "一份 Fortune 报告给出数据中心能源成本的数字，称与数据中心需求相关的电价上升使公众承担约230亿美元的额外电费。上涨源于电网紧张、峰值需求和能源与数据基础设施的政策环境。随着数据负载增加，能效、选址与监管成为关键议题。",
+      "hn": {
+        "id": 48914683,
+        "type": "story",
+        "by": "measurablefunc",
+        "score": 186,
+        "descendants": 111,
+        "time": 1784074831,
+        "comments_url": "https://news.ycombinator.com/item?id=48914683"
+      },
+      "hot_score": 1.33,
+      "tags": [
+        "Energy",
+        "DevOps",
+        "Politics"
+      ]
+    },
+    {
+      "title_en": "Measuring Input Latency on Linux: X11 vs. Wayland, VRR, and DXVK",
+      "url": "https://marco-nett.de/blog/measuring-input-latency-on-linux-x11-vs-wayland-vrr-dxvk/",
+      "title_zh": "在 Linux 上测量输入延迟：X11 与 Wayland、VRR 与 DXVK 的比较",
+      "created_display": "Created: Jul 14, 2026 / 09:36 PT",
+      "image_url": "https://marco-nett.de/blog/measuring-input-latency-on-linux-x11-vs-wayland-vrr-dxvk/index.png",
+      "summary_en": "An empirical study measuring input latency on Linux across X11 and Wayland, with VRR and DXVK in the mix. It establishes a framework for end-to-end latency testing in gaming workloads and highlights how the choice of display server and graphics stack can shift responsiveness. The takeaway for developers is to prefer Wayland for lower latency in gaming scenarios and to be mindful of DXVK overhead depending on the workload.",
+      "summary_zh": "基于对 Linux 输入延迟的对比测量，覆盖 X11、Wayland、VRR 与 DXVK 的组合。研究建立了端到端延迟的测试框架，并揭示了显示服务器和显卡驱动栈的选择对响应速度的影响。结论是游戏场景下 Wayland 往往能带来更低的延迟，同时要关注 DXVK 路径的额外开销与 VRR 带来的抖动收益。",
+      "hn": {
+        "id": 48909424,
+        "type": "story",
+        "by": "hoechst",
+        "score": 380,
+        "descendants": 262,
+        "time": 1784046966,
+        "comments_url": "https://news.ycombinator.com/item?id=48909424"
+      },
+      "tags": [
+        "Gaming"
+      ],
+      "hot_score": 1.32
+    },
+    {
+      "title_en": "S&P Global has lowered Oracle’s creditworthiness from BBB to BBB-",
+      "url": "https://www.heise.de/en/news/S-P-downgrades-Oracle-to-BBB-only-one-notch-above-junk-level-11363472.html",
+      "title_zh": "标普全球将 Oracle 的信用评级从 BBB 下调至 BBB-",
+      "created_display": "Created: Jul 14, 2026 / 09:56 PT",
+      "image_url": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/1/1/6/1/8/2/shutterstock_1488283535-6facec649168f734.jpg",
+      "summary_en": "S&P Global cut Oracle's credit rating by one notch to BBB-. The downgrade signals concerns about Oracle's leverage and cash flow as it plows money into cloud growth, potentially raising borrowing costs and narrowing financing options. It reflects investor caution toward large software and cloud players in a higher-rate environment.",
+      "summary_zh": "标普全球将甲骨文的信用等级下调一个档位至 BBB-，显现出对其杠杆、现金流及云增長路径的担忧。随着公司继续大手笔投资云业务，这一评级调整可能推高融资成本并收窄融资选择。这个举动也彰显了在利率上升周期中，对大型软件与云厂商的谨慎情绪。",
+      "hn": {
+        "id": 48909768,
+        "type": "story",
+        "by": "gepeto42",
+        "score": 327,
+        "descendants": 344,
+        "time": 1784048208,
+        "comments_url": "https://news.ycombinator.com/item?id=48909768"
+      },
+      "hot_score": 1.16,
+      "tags": [
+        "Finance",
+        "Business"
+      ]
+    },
+    {
+      "title_en": "European \"age verification\" \"app\" forcing everyone to use Android or iOS",
+      "url": "https://github.com/eu-digital-identity-wallet/av-doc-technical-specification/discussions/19",
+      "title_zh": "欧洲的年龄验证应用强制使用 Android 或 iOS",
+      "created_display": "Created: Jul 14, 2026 / 01:34 PT",
+      "image_url": "https://opengraph.githubassets.com/763f5184b61bd0127a10c1cddee3e05d6f53474eab84ed816cd0a86b9be9267a/eu-digital-identity-wallet/av-doc-technical-specification/discussions/19",
+      "summary_en": "European age-verification discussions reveal a regulatory push that effectively forces users onto mobile platforms, raising concerns about privacy, interoperability, and accessibility.",
+      "summary_zh": "关于欧洲年龄验证应用的讨论揭示了一个监管推动，实质上强制用户依赖 Android 或 iOS，带来隐私、互操作性与可访问性方面的担忧。",
+      "hn": {
+        "id": 48903777,
+        "type": "story",
+        "by": "roundabout-host",
+        "score": 551,
+        "descendants": 395,
+        "time": 1784018097,
+        "comments_url": "https://news.ycombinator.com/item?id=48903777"
+      },
+      "tags": [
+        "Privacy",
+        "Politics"
+      ],
+      "hot_score": 1.12
+    },
+    {
+      "title_en": "Japan develops a method to recover up to 90% of lithium from used EV batteries",
+      "url": "https://tech.supercarblondie.com/japan-recovers-up-to-90-of-lithium-from-used-ev-batteries/",
+      "title_zh": "日本开发可从废旧新能源汽车电池回收高达90%的锂",
+      "created_display": "Created: Jul 13, 2026 / 19:27 PT",
+      "image_url": "https://tech.supercarblondie.com/cdn-cgi/image/width=1200,height=675,quality=80,format=webp,fit=cover/wp-content/uploads/Japan-lithium-featured.webp",
+      "summary_en": "Japan has demonstrated a process capable of recovering up to 90% of lithium from spent EV batteries, boosting recycling efficiency and extending battery supply resilience. The advance could lower material costs and lessen environmental impact by reducing mining and refining needs.",
+      "summary_zh": "日本展示了一种可从废旧电动车电池中回收锂高达90%的工艺，显著提升回收效率并加强电池材料保障。此举可能降低成本、减轻采矿与精炼带来的环境压力。",
+      "hn": {
+        "id": 48901569,
+        "type": "story",
+        "by": "donohoe",
+        "score": 733,
+        "descendants": 190,
+        "time": 1783996040,
+        "comments_url": "https://news.ycombinator.com/item?id=48901569"
+      },
+      "tags": [
+        "Energy",
+        "Science"
+      ],
+      "hot_score": 1.08
+    },
+    {
+      "title_en": "Codex starts encrypting sub-agent prompts",
+      "url": "https://github.com/openai/codex/issues/28058",
+      "title_zh": "Codex 开始对子代理提示进行加密",
+      "created_display": "Created: Jul 14, 2026 / 04:21 PT",
+      "image_url": "https://opengraph.githubassets.com/d433c94f61a2fd72e152a08799aac44fa427c722df72ed02f0671fcfe2df18b8/openai/codex/issues/28058",
+      "summary_en": "OpenAI Codex now encrypts prompts used by sub-agents to protect sensitive instructions across agent calls. The change reduces prompt leakage and improves security for multi-agent workflows, though it may complicate debugging and require key management.",
+      "summary_zh": "OpenAI Codex 现对子代理所使用的提示进行加密，以在代理调用之间保护敏感指令。此举降低了提示泄露风险，提升多代理工作流的安全性，但可能增加调试难度与密钥管理负担。",
+      "hn": {
+        "id": 48905028,
+        "type": "story",
+        "by": "embedding-shape",
+        "score": 422,
+        "descendants": 249,
+        "time": 1784028092,
+        "comments_url": "https://news.ycombinator.com/item?id=48905028"
+      },
+      "tags": [
+        "AI",
+        "Security"
+      ],
+      "hot_score": 1.01
+    },
+    {
+      "title_en": "I'm a USB-C Maximalist",
+      "url": "https://shkspr.mobi/blog/2026/07/im-a-usb-c-maximalist/",
+      "title_zh": "我是 USB-C 极致主义者",
+      "created_display": "Created: Jul 14, 2026 / 08:20 PT",
+      "image_url": "https://shkspr.mobi/blog/wp-content/uploads/2026/06/Imagepipe_36.webp",
+      "summary_en": "Advocates USB-C as a universal port, stressing interoperability, future-proofing, and regulatory momentum. The piece also considers practical caveats for users and developers adopting USB-C-centric ecosystems.",
+      "summary_zh": "主张 USB-C 作为通用接口，强调互操作性、前瞻性与监管推动。同时讨论采用以 USB-C 为核心生态时，用户与开发者应关注的实际注意事项。",
+      "hn": {
+        "id": 48908214,
+        "type": "story",
+        "by": "speckx",
+        "score": 321,
+        "descendants": 415,
+        "time": 1784042436,
+        "comments_url": "https://news.ycombinator.com/item?id=48908214"
+      },
+      "tags": [
+        "Hardware",
+        "Design",
+        "Politics"
+      ],
+      "hot_score": 1.01
+    },
+    {
+      "title_en": "Dependabot version updates introduce default package cooldown",
+      "url": "https://github.blog/changelog/2026-07-14-dependabot-version-updates-introduce-default-package-cooldown/",
+      "title_zh": "Dependabot 版本更新引入默认软件包冷却期",
+      "created_display": "Created: Jul 14, 2026 / 14:15 PT",
+      "image_url": "https://github.blog/wp-content/themes/github-2021-child/dist/img/social-v3-improvements.jpg",
+      "summary_en": "Dependabot now enforces a default cooldown between updates of the same package to reduce update churn and stabilize downstream projects. Teams can adjust or disable this cooldown if needed, but the default helps limit noisy PRs and rate-limit pressure. This change aims to balance security fixes with operational stability.",
+      "summary_zh": "Dependabot 对同一软件包的更新引入了默认冷却期，目的是减少更新带来的噪声并稳定下游项目。团队若有需要可以调整或禁用该冷却策略，但默认设置有助于限制冗杂的拉取请求及速率压力。这一变动旨在在安全修复与运营稳定之间取得平衡。",
+      "hn": {
+        "id": 48913050,
+        "type": "story",
+        "by": "woodruffw",
+        "score": 196,
+        "descendants": 124,
+        "time": 1784063751,
+        "comments_url": "https://news.ycombinator.com/item?id=48913050"
+      },
+      "tags": [
+        "DevOps",
+        "Security"
+      ],
+      "hot_score": 1.01
+    },
+    {
+      "title_en": "Financing the AI boom: from cash flows to debt [pdf]",
+      "url": "https://www.bis.org/publ/bisbull120.pdf",
+      "title_zh": "为 AI 繁荣融资：从现金流到债务",
+      "created_display": "Created: Jul 14, 2026 / 14:58 PT",
+      "image_url": null,
+      "summary_en": "The BIS paper surveys financing the AI boom, arguing that funding may shift from cash flows and equity to debt instruments as AI demand grows. It highlights potential risks for financial stability and the need for prudent risk management.",
+      "summary_zh": "BIS 的论文探讨 AI 繁荣的融资结构，指出资金来源可能从现金流与股权转向债务工具，并评估对金融稳定的潜在风险及需加强的风险管理。",
+      "hn": {
+        "id": 48913443,
+        "type": "story",
+        "by": "1vuio0pswjnm7",
+        "score": 163,
+        "descendants": 94,
+        "time": 1784066316,
+        "comments_url": "https://news.ycombinator.com/item?id=48913443"
+      },
+      "tags": [
+        "Finance",
+        "Business",
+        "AI"
+      ],
+      "hot_score": 0.9
+    },
+    {
+      "title_en": "Microsoft has released software updates to plug at least 570 security holes",
+      "url": "https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/",
+      "title_zh": "微软发布补丁，修复至少570个安全漏洞",
+      "created_display": "Created: Jul 14, 2026 / 14:32 PT",
+      "image_url": "https://krebsonsecurity.com/b-cape/1.jpg",
+      "summary_en": "Microsoft released a record patch batch addressing 570+ vulnerabilities across Windows, Office, and related products. Many fixes resolve remote code execution and privilege escalation flaws; users should apply updates promptly to reduce exposure to attackers.",
+      "summary_zh": "微软发布大量安全更新，修复超过570处漏洞，涵盖 Windows、Office 等产品。多数修复针对远程代码执行与提权等风险，建议尽快打补丁以降低被攻击的概率。",
+      "hn": {
+        "id": 48913190,
+        "type": "story",
+        "by": "robin_reala",
+        "score": 164,
+        "descendants": 102,
+        "time": 1784064742,
+        "comments_url": "https://news.ycombinator.com/item?id=48913190"
+      },
+      "tags": [
+        "Security"
+      ],
+      "hot_score": 0.87
+    },
+    {
+      "title_en": "Germany set to restrict its Freedom of Information Act",
+      "url": "https://www.dw.com/en/germany-freedom-of-information-act/a-77939695",
+      "title_zh": "德国拟限制信息自由法的执行",
+      "created_display": "Created: Jul 14, 2026 / 04:49 PT",
+      "image_url": "https://static.dw.com/image/73463979_6.jpg",
+      "summary_en": "Germany plans to tighten its Freedom of Information Act, narrowing the scope of data requests and adjusting processing rules. The move could curb public access to government documents, raising concerns about transparency and accountability. Journalists, researchers, and watchdogs may face added friction in seeking information.",
+      "summary_zh": "德国计划收紧信息自由法（FOIA）的执行，缩小信息请求范围并调整处理规则。此举可能限制公众获取政府文件，引发对政府透明度与问责制的担忧。记者、研究者和监督机构在获取信息时可能遇到更高的门槛。",
+      "hn": {
+        "id": 48905290,
+        "type": "story",
+        "by": "robtherobber",
+        "score": 264,
+        "descendants": 183,
+        "time": 1784029788,
+        "comments_url": "https://news.ycombinator.com/item?id=48905290"
+      },
+      "hot_score": 0.65,
+      "tags": [
+        "Politics"
+      ]
+    },
+    {
+      "title_en": "Former NOAA employees built Climate.us to preserve climate data and resources",
+      "url": "https://19thnews.org/2026/07/noaa-climate-data-website/",
+      "title_zh": "前 NOAA 员工创建 Climate.us 以保存气候数据与资源",
+      "created_display": "Created: Jul 13, 2026 / 12:57 PT",
+      "image_url": null,
+      "summary_en": "A project by former NOAA staff to archive climate data and related resources, addressing data accessibility and preservation challenges as data grows and policies evolve.",
+      "summary_zh": "由前 NOAA 员工创建的 Climate.us 项目，旨在存档气候数据及相关资源，解决数据日益增长与政策变化带来的获取与长期保存挑战。",
+      "hn": {
+        "id": 48897945,
+        "type": "story",
+        "by": "benwerd",
+        "score": 544,
+        "descendants": 211,
+        "time": 1783972675,
+        "comments_url": "https://news.ycombinator.com/item?id=48897945"
+      },
+      "tags": [
+        "Data",
+        "Science"
+      ],
+      "hot_score": 0.6
+    },
+    {
+      "title_en": "The git history command",
+      "url": "https://lalitm.com/post/git-history/",
+      "title_zh": "x86 是否准备好大显身手？",
+      "created_display": "Created: Jul 13, 2026 / 17:57 PT",
+      "image_url": "https://lalitm.com/diagrams/fixup-before-light.svg",
+      "summary_en": "The piece argues that the x86 ecosystem needs to adapt to rapidly evolving workloads, highlighting compiler and memory hierarchy considerations for modern AI and data-centric tasks. It examines tradeoffs and paths for x86 to stay competitive with newer architectures.",
+      "summary_zh": "本文评估 x86 架构在快速演进的 AI 与数据密集型工作负载中的竞争力，关注编译器、内存层次结构等方面的权衡与改进路径，探讨其在新兴架构面前的定位。",
+      "hn": {
+        "id": 48901010,
+        "type": "story",
+        "by": "turbocon",
+        "score": 440,
+        "descendants": 313,
+        "time": 1783990631,
+        "comments_url": "https://news.ycombinator.com/item?id=48901010"
+      },
+      "tags": [
+        "Programming",
+        "AI"
+      ],
+      "hot_score": 0.6
+    },
+    {
+      "title_en": "Punch yourself in the face with reality",
+      "url": "https://adi.bio/reality",
+      "title_zh": "用现实狠狠打醒自己",
+      "created_display": "Created: Jul 14, 2026 / 04:33 PT",
+      "image_url": "https://adi.bio/wp-content/plugins/wpforms-lite/assets/images/submit-spin.svg",
+      "summary_en": "A blunt manifesto urging practitioners to confront practical constraints and real-world impact of AI projects, countering hype with concrete milestones and measurable results.",
+      "summary_zh": "直言不讳地呼吁从业者正视 AI 项目的现实约束与实际影响，用明确的里程碑和可衡量的成果抵制炒作。",
+      "hn": {
+        "id": 48905118,
+        "type": "story",
+        "by": "AdityaAnand1",
+        "score": 233,
+        "descendants": 114,
+        "time": 1784028799,
+        "comments_url": "https://news.ycombinator.com/item?id=48905118"
+      },
+      "tags": [
+        "AI",
+        "Culture"
+      ],
+      "hot_score": 0.57
+    },
+    {
+      "title_en": "Building and shipping Mac and iOS apps without opening Xcode",
+      "url": "https://scottwillsey.com/building-and-shipping-mac-and-ios-apps-without-ever-opening-xcode/",
+      "title_zh": "无需打开 Xcode 就能构建与发布 Mac 与 iOS 应用",
+      "created_display": "Created: Jul 13, 2026 / 11:22 PT",
+      "image_url": "https://scottwillsey.com/_astro/saw111.Cprn7ULf_ZB6aHy.webp",
+      "summary_en": "Describes a workflow to build and ship Mac and iOS apps without ever opening Xcode, relying on CLI tools and automation. It highlights how signing, packaging, and deployment can be automated in CI/CD, reducing GUI-focused work.",
+      "summary_zh": "介绍了一条无需打开 Xcode 就能构建和发布 Mac 与 iOS 应用的工作流，依赖命令行工具与自动化。强调在 CI/CD 中自动化签名、打包与部署，减少对 GUI 的依赖。",
+      "hn": {
+        "id": 48896665,
+        "type": "story",
+        "by": "speckx",
+        "score": 542,
+        "descendants": 230,
+        "time": 1783966936,
+        "comments_url": "https://news.ycombinator.com/item?id=48896665"
+      },
+      "tags": [
+        "Programming",
+        "DevOps"
+      ],
+      "hot_score": 0.56
+    },
+    {
+      "title_en": "Show HN: Opening lines of famous literary works",
+      "url": "https://www.verbaprima.com/",
+      "title_zh": "公开展示：著名文学作品的开篇句",
+      "created_display": "Created: Jul 14, 2026 / 08:24 PT",
+      "image_url": null,
+      "summary_en": "A Show HN project collecting opening lines from famous books, offering quick access for language model prompts, literary analysis, and education. It also touches on public-domain boundaries and copyright considerations.",
+      "summary_zh": "一个展示著名文学作品开篇句的公开项目，方便用于语言模型基准、提示设计或文学学习。该项目引发对公共领域与版权边界的讨论，并展示可获取文本在实验中的价值。",
+      "hn": {
+        "id": 48908271,
+        "type": "story",
+        "by": "plicerin",
+        "score": 171,
+        "descendants": 99,
+        "time": 1784042689,
+        "comments_url": "https://news.ycombinator.com/item?id=48908271"
+      },
+      "tags": [
+        "Show HN",
+        "Education",
+        "Legal"
+      ],
+      "hot_score": 0.54
+    },
+    {
+      "title_en": "Apple's new SpeechAnalyzer API, benchmarked against Whisper and its predecessor",
+      "url": "https://get-inscribe.com/blog/apple-speech-api-benchmark.html",
+      "title_zh": "苹果新 SpeechAnalyzer API 与 Whisper 对比基准",
+      "created_display": "Created: Jul 13, 2026 / 09:06 PT",
+      "image_url": "https://images.unsplash.com/photo-1589254065878-42c9da997008?w=1200&h=600&fit=crop&q=80",
+      "summary_en": "Apple's new SpeechAnalyzer API is benchmarked against Whisper and Apple's own older speech API. The results highlight on-device performance, latency, and accuracy tradeoffs, offering insights into when to choose cloud vs. on-device processing for voice apps.",
+      "summary_zh": "苹果新推出的 SpeechAnalyzer API 经过与 Whisper 及前代 API 的对比基准测试，凸显了设备端与云端推理的权衡。评测聚焦准确率、延迟和噪声鲁棒性，为构建本地化语音应用提供实用参考。",
+      "hn": {
+        "id": 48894752,
+        "type": "story",
+        "by": "get-inscribe",
+        "score": 560,
+        "descendants": 234,
+        "time": 1783958768,
+        "comments_url": "https://news.ycombinator.com/item?id=48894752"
+      },
+      "tags": [
+        "AI"
+      ],
+      "hot_score": 0.53
+    },
+    {
+      "title_en": "Proof of care in the age of AI",
+      "url": "https://jacobfilipp.com/care/",
+      "title_zh": "AI 时代的关怀证明",
+      "created_display": "Created: Jul 14, 2026 / 05:56 PT",
+      "image_url": "https://jacobfilipp.com/wp-content/uploads/2026/07/image-33.png",
+      "summary_en": "In the AI era, the author argues that care must be embedded in technology design and deployment, not treated as an afterthought. The piece advocates practical ways to bake care into systems—transparent safety practices, accountability, and user-centered design—so AI serves people beyond efficiency. It calls for thinking about long-term social impacts in engineering decisions.",
+      "summary_zh": "在 AI 时代，本文主张将“关怀”嵌入技术设计与部署之中，而非事后补足。文章提出将关怀体现在系统中的具体做法，如透明的安全实践、明确的问责制，以及以用户为中心的设计，以让 AI 超越单纯的效率，服务于人类的长期利益。",
+      "hn": {
+        "id": 48906125,
+        "type": "story",
+        "by": "jfil",
+        "score": 184,
+        "descendants": 106,
+        "time": 1784033785,
+        "comments_url": "https://news.ycombinator.com/item?id=48906125"
+      },
+      "hot_score": 0.49,
+      "tags": [
+        "AI",
+        "Design"
+      ]
+    },
+    {
+      "title_en": "Australian energy retailers must offer three hours of free daytime electricity",
+      "url": "https://lenergy.com.au/free-daytime-electricity-is-coming-heres-how-it-actually-works/",
+      "title_zh": "澳大利亚能源零售商须提供三小时免费 daytime 用电",
+      "created_display": "Created: Jul 13, 2026 / 21:31 PT",
+      "image_url": "https://lenergy.com.au/wp-content/uploads/Free-Daytime-Electricity-Is-Coming.-Heres-How-It-Actually-Works-1.png",
+      "summary_en": "Australian energy retailers are mandated to offer three hours of free daytime electricity, a policy designed to shift consumption to off-peak periods and improve grid stability. The article explains how it will work, who qualifies, and funding details.",
+      "summary_zh": "该政策要求能源零售商在白天提供三小时免费用电，旨在将用电转向非高峰时段、提升电网稳定性。文中解释了执行方式、覆盖范围及资金来源。",
+      "hn": {
+        "id": 48902320,
+        "type": "story",
+        "by": "i2oc",
+        "score": 275,
+        "descendants": 381,
+        "time": 1784003508,
+        "comments_url": "https://news.ycombinator.com/item?id=48902320"
+      },
+      "tags": [
+        "Energy"
+      ],
+      "hot_score": 0.45
+    },
+    {
+      "title_en": "New York becomes the first state to impose a data center moratorium",
+      "url": "https://www.reuters.com/world/new-york-becomes-first-state-impose-data-center-moratorium-2026-07-14/",
+      "title_zh": "纽约成为首个对数据中心实施暂停令的州",
+      "created_display": "Created: Jul 14, 2026 / 07:17 PT",
+      "image_url": null,
+      "summary_en": "New York becomes the first state to impose a moratorium on new data center development, signaling concerns about energy demand, grid capacity, and climate goals. The pause may slow cloud capacity expansion and influence investment strategies for regional operators. Regulators and industry players will watch how the policy balance growth with energy resilience.",
+      "summary_zh": "纽约成为首个对数据中心实施暂停令的州，体现出对能源需求、电网容量及气候目标的关注。暂停可能放缓本地云基础设施扩张，并影响区域运营商的投资策略。监管机构与业界将关注此类政策在促进增长与提升能源韧性之间的平衡。",
+      "hn": {
+        "id": 48907296,
+        "type": "story",
+        "by": "granfalloon",
+        "score": 155,
+        "descendants": 225,
+        "time": 1784038674,
+        "comments_url": "https://news.ycombinator.com/item?id=48907296"
+      },
+      "hot_score": 0.45,
+      "tags": [
+        "Politics",
+        "Energy"
+      ]
+    },
+    {
+      "title_en": "Grok uploaded my user directory to xAI's servers",
+      "url": "https://twitter.com/a_green_being/status/2076598897779020159",
+      "title_zh": "Grok 将我的用户目录上传至 xAI 服务器",
+      "created_display": "Created: Jul 13, 2026 / 06:39 PT",
+      "image_url": "https://pbs.twimg.com/media/HNGOF9QXwAAU_jp.png:large",
+      "summary_en": "A user reports that Grok uploaded their entire user directory to xAI's servers, exposing sensitive data and raising privacy concerns around AI tooling. The incident highlights the data-guardrails gap in developer workflows and the need for stricter data handling and disclosure practices.",
+      "summary_zh": "用户声称 Grok 将其整个用户目录上传至 xAI 的服务器，暴露敏感数据并引发对 AI 工具中数据隐私的担忧。此事暴露了开发工作流中对数据保护的不足，强调需要更严格的数据处理与披露规范。",
+      "hn": {
+        "id": 48892512,
+        "type": "story",
+        "by": "tnolet",
+        "score": 511,
+        "descendants": 19,
+        "time": 1783949999,
+        "comments_url": "https://news.ycombinator.com/item?id=48892512"
+      },
+      "tags": [
+        "Privacy",
+        "Security",
+        "AI"
+      ],
+      "hot_score": 0.44
+    },
+    {
+      "title_en": "LAPD lets contract with surveillance giant Flock expire",
+      "url": "https://techcrunch.com/2026/07/13/lapd-lets-contract-with-surveillance-giant-flock-expire-citing-serious-concerns-over-civil-liberties-and-privacy/",
+      "title_zh": "洛杉矶警察局允许与监控巨头 Flock 的合同到期",
+      "created_display": "Created: Jul 13, 2026 / 08:11 PT",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/07/flock-camera-2259453709.jpg?resize=1200,800",
+      "summary_en": "The LAPD chose not to renew its contract with surveillance company Flock, letting it expire amid serious concerns over civil liberties and privacy. The move signals growing scrutiny of AI-powered facial recognition tech and could influence how cities vet surveillance vendors.",
+      "summary_zh": "洛杉矶警察局选择不续签与监控公司 Flock 的合约，让其到期。此举是在对公民自由与隐私的日益严格审查背景下作出的，或将影响城市在监督性监控技术与供应商方面的选择。",
+      "hn": {
+        "id": 48893947,
+        "type": "story",
+        "by": "forks",
+        "score": 469,
+        "descendants": 411,
+        "time": 1783955510,
+        "comments_url": "https://news.ycombinator.com/item?id=48893947"
+      },
+      "tags": [
+        "Privacy",
+        "Security",
+        "AI"
+      ],
+      "hot_score": 0.43
+    },
+    {
+      "title_en": "Show HN: Super Dario",
+      "url": "https://superdario.pawb.de",
+      "title_zh": "Show HN：Super Dario",
+      "created_display": "Created: Jul 13, 2026 / 10:53 PT",
+      "image_url": null,
+      "summary_en": "Show HN spotlights a project named Super Dario, inviting community feedback and exploration.",
+      "summary_zh": "Show HN 展示名为 Super Dario 的项目，邀请社区一起评估和探索。",
+      "hn": {
+        "id": 48896286,
+        "type": "story",
+        "by": "thepasch",
+        "score": 391,
+        "descendants": 97,
+        "time": 1783965232,
+        "comments_url": "https://news.ycombinator.com/item?id=48896286"
+      },
+      "tags": [
+        "Show HN"
+      ],
+      "hot_score": 0.4
+    },
+    {
+      "title_en": "Telegram's t.me domain has been suspended",
+      "url": "https://www.whois.com/whois/t.me",
+      "title_zh": "Telegram 的 t.me 短链域名已被暂停",
+      "created_display": "Created: Jul 13, 2026 / 12:52 PT",
+      "image_url": "https://www.whois.com/images/og.png",
+      "summary_en": "Telegram’s short-link domain t.me has been suspended, breaking many inbound and outbound redirects. The disruption highlights how external domain control can affect critical communication channels and the importance of redundancy.",
+      "summary_zh": "Telegram 的 t.me 短链域名已被暂停，导致大量链接跳转失效。此举凸显外部域名控制对关键通信渠道的影响，以及建立冗余的重要性。",
+      "hn": {
+        "id": 48897878,
+        "type": "story",
+        "by": "Tiberium",
+        "score": 355,
+        "descendants": 278,
+        "time": 1783972345,
+        "comments_url": "https://news.ycombinator.com/item?id=48897878"
+      },
+      "tags": [
+        "Web"
+      ],
+      "hot_score": 0.39
+    },
+    {
+      "title_en": "Samsung Health app threatens data deletion if users opt out AI training",
+      "url": "https://neow.in/cWsyMTV3",
+      "title_zh": "三星 Health 应用若用户不参与 AI 训练将删除其数据",
+      "created_display": "Created: Jul 13, 2026 / 13:01 PT",
+      "image_url": "https://cdn.neowin.com/news/images/uploaded/2026/07/1783952968_samsung-health_story.webp",
+      "summary_en": "Samsung Health policy reportedly deletes user data if they opt out of AI training. The move raises concerns about user consent, data ownership, and the limits of opt-out choices in AI-enabled services.",
+      "summary_zh": "三星健康应用据称若用户不参与 AI 训练就删除其数据。这一政策引发对用户同意、数据所有权以及 AI 服务中隐私权边界的担忧。",
+      "hn": {
+        "id": 48897991,
+        "type": "story",
+        "by": "bundie",
+        "score": 348,
+        "descendants": 98,
+        "time": 1783972903,
+        "comments_url": "https://news.ycombinator.com/item?id=48897991"
+      },
+      "tags": [
+        "AI",
+        "Privacy",
+        "Health"
+      ],
+      "hot_score": 0.39
+    },
+    {
+      "title_en": "Indian scientists produce most detailed 3D atlas of the human brainstem",
+      "url": "https://www.bbc.com/news/articles/cg53l737v1qo",
+      "title_zh": "印度科学家绘制出最详细的人脑脑干三维解剖图谱",
+      "created_display": "Created: Jul 13, 2026 / 23:43 PT",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/8230/live/dff3e310-79da-11f1-a400-b302bc872d47.jpg",
+      "summary_en": "Indian researchers have produced the most detailed 3D atlas of the human brainstem to date, enabling finer mapping of its nuclei and connectivity. The atlas promises to aid neurosurgery planning, neuroimaging, and neuroscience research by providing higher-resolution references. This milestone showcases advances in imaging and international collaboration in brain mapping.",
+      "summary_zh": "印度研究团队创造了迄今最详细的人脑脑干三维解剖图谱，提升了对脑干核团及连接关系的细致刻画能力。该图谱有望帮助神经外科手术规划、神经影像学研究，以及神经科学研究，提供更高分辨率的参考资料。此成就体现了成像技术和全球协作在脑图绘制领域的进展。",
+      "hn": {
+        "id": 48903082,
+        "type": "story",
+        "by": "BaudouinVH",
+        "score": 209,
+        "descendants": 22,
+        "time": 1784011408,
+        "comments_url": "https://news.ycombinator.com/item?id=48903082"
+      },
+      "hot_score": 0.38,
+      "tags": [
+        "Science",
+        "Health"
+      ]
+    },
+    {
+      "title_en": "Grok CLI uploaded the whole home directory to GCS",
+      "url": "https://twitter.com/a_green_being/status/2076598897779020159",
+      "title_zh": "Grok CLI 将整个 home 目录上传至 GCS",
+      "created_display": "Created: Jul 13, 2026 / 06:35 PT",
+      "image_url": "https://pbs.twimg.com/media/HNGOF9QXwAAU_jp.png:large",
+      "summary_en": "Grok CLI uploaded the entire home directory to Google Cloud Storage, revealing a potential misconfiguration or unsafe behavior in a developer tool. The incident underscores the importance of sane defaults, local data handling, and thorough review of CLI tool data flows.",
+      "summary_zh": "Grok CLI 将整个 home 目录上传至 GCS，暴露了开发工具中的潜在配置错误或不安全行为。此事件强调了默认设置的安全性、本地数据处理以及对 CLI 工具数据流的全面审查的重要性。",
+      "hn": {
+        "id": 48892468,
+        "type": "story",
+        "by": "denysvitali",
+        "score": 432,
+        "descendants": 403,
+        "time": 1783949732,
+        "comments_url": "https://news.ycombinator.com/item?id=48892468"
+      },
+      "tags": [
+        "Privacy",
+        "Security"
+      ],
+      "hot_score": 0.37
+    },
+    {
+      "title_en": "DOGE is done. What happened to its records?",
+      "url": "https://www.ms.now/opinion/doge-government-efficiency-records-job-cuts-elon-musk-foia",
+      "title_zh": "DOGE 已完成？它的记录去哪儿了？",
+      "created_display": "Created: Jul 13, 2026 / 08:56 PT",
+      "image_url": "https://www.ms.now/wp-content/uploads/2026/07/260709-elon-musk-doge-documents-destroy-al.webp?crop=0px,60px,2500px,1313px&w=1200&h=630",
+      "summary_en": "Opinion piece questions what happened to DOGE's records, using it as a lens to critique how government data and efficiency claims are documented. It argues that record-keeping and FOIA-era transparency are essential for accountability.",
+      "summary_zh": "这篇观点文章质疑 DOGE 的记录去向，并借此批评政府数据与效率声称的透明度。作者强调记录保存与信息自由法案时代的问责性对政府治理的重要性。",
+      "hn": {
+        "id": 48894641,
+        "type": "story",
+        "by": "ndsipa_pomu",
+        "score": 338,
+        "descendants": 290,
+        "time": 1783958199,
+        "comments_url": "https://news.ycombinator.com/item?id=48894641"
+      },
+      "tags": [
+        "Legal",
+        "Politics"
+      ],
+      "hot_score": 0.32
+    },
+    {
+      "title_en": "An Englishwoman who sketched India before photography took hold",
+      "url": "https://www.bbc.com/news/articles/cm2drrv6q54o",
+      "title_zh": "摄影普及前，一位英国女性绘制印度",
+      "created_display": "Created: Jul 13, 2026 / 16:12 PT",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/153b/live/27ae69b0-76a1-11f1-b7c5-7f4e24437938.jpg",
+      "summary_en": "A historical portrait of a British woman who sketched scenes across India before photography took hold, preserving a visual record of places, people, and everyday life. Her drawings illuminate how pre-photography travelers documented distant lands and influenced later perceptions.",
+      "summary_zh": "讲述一位英国女性在摄影普及之前绘制印度风景与人物的历史记录，提供对当时地方与民俗的可视化记载。她的素描揭示了摄影前旅行者记录异域风貌的方式及对后世认知的影响。",
+      "hn": {
+        "id": 48900191,
+        "type": "story",
+        "by": "1659447091",
+        "score": 220,
+        "descendants": 67,
+        "time": 1783984342,
+        "comments_url": "https://news.ycombinator.com/item?id=48900191"
+      },
+      "tags": [
+        "Culture"
+      ],
+      "hot_score": 0.28
+    },
+    {
+      "title_en": "YouTrackDB is a general-use object-oriented graph database",
+      "url": "https://github.com/JetBrains/youtrackdb",
+      "title_zh": "YouTrackDB：通用型面向对象图数据库",
+      "created_display": "Created: Jul 13, 2026 / 20:39 PT",
+      "image_url": "https://opengraph.githubassets.com/7074981b212f29daf7f67ce3f939fbfa0d0556e9d6be73e2762c70f28040dfdb/JetBrains/youtrackdb",
+      "summary_en": "YouTrackDB positions itself as a general-use object-oriented graph database, blending OO data modeling with graph traversal capabilities. It aims to offer a unified API for nodes and edges, appealing to developers who want both OOP ergonomics and rich graph queries.",
+      "summary_zh": "YouTrackDB 将自己定位为通用型的面向对象图数据库，将面向对象的数据建模与图遍历能力结合，提供一个统一的节点/边操作 API。对同时追求 OOP 体验与丰富图查询的开发者而言，这类数据库能简化数据建模与关系表达。",
+      "hn": {
+        "id": 48902026,
+        "type": "story",
+        "by": "gjvc",
+        "score": 171,
+        "descendants": 67,
+        "time": 1784000395,
+        "comments_url": "https://news.ycombinator.com/item?id=48902026"
+      },
+      "tags": [
+        "Programming",
+        "Data"
+      ],
+      "hot_score": 0.27
+    },
+    {
+      "title_en": "Fundamentals of Wireless Communication (2005)",
+      "url": "https://web.stanford.edu/~dntse/wireless_book.html",
+      "title_zh": "无线通信基础",
+      "created_display": "Created: Jul 13, 2026 / 19:10 PT",
+      "image_url": "https://web.stanford.edu/~dntse/book2.jpg",
+      "summary_en": "A concise, foundational guide to wireless communication theory, covering signal propagation, modulation, coding, and multi-user channels. It helps engineers and students reason about spectrum use, interference, and system design tradeoffs across modern wireless networks.",
+      "summary_zh": "这本基础教材系统讲解了无线通信的理论与工程要点，包括信号传播、调制、编码以及多用户信道等，帮助读者理解频谱利用、干扰与系统设计取舍。对从事5G/6G、物联网等领域的工程师和学生尤为有益。",
+      "hn": {
+        "id": 48901454,
+        "type": "story",
+        "by": "teleforce",
+        "score": 178,
+        "descendants": 12,
+        "time": 1783995019,
+        "comments_url": "https://news.ycombinator.com/item?id=48901454"
+      },
+      "tags": [
+        "Science",
+        "Education"
+      ],
+      "hot_score": 0.26
+    },
+    {
+      "title_en": "What will be left for us to work on?",
+      "url": "https://www.normaltech.ai/p/what-will-be-left-for-us-to-work",
+      "title_zh": "我们还能从事哪些工作？",
+      "created_display": "Created: Jul 13, 2026 / 18:44 PT",
+      "image_url": "https://substackcdn.com/image/fetch/$s_!Cea8!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F473d4546-aca2-4ff3-98e2-c7161e5e3536_3008x1734.png",
+      "summary_en": "As automation and AI advance, the piece questions what meaningful human work will remain and how to re-skill. It discusses shifts in labor markets, creativity, care work, and the role of policy.",
+      "summary_zh": "随着自动化和人工智能的发展，探讨未来人类可以从事的有意义工作，以及如何通过再培训应对劳动力市场的变动。关注创造性、关怀类工作和政策作用。",
+      "hn": {
+        "id": 48901292,
+        "type": "story",
+        "by": "randomwalker",
+        "score": 176,
+        "descendants": 253,
+        "time": 1783993480,
+        "comments_url": "https://news.ycombinator.com/item?id=48901292"
+      },
+      "tags": [
+        "AI",
+        "Career"
+      ],
+      "hot_score": 0.25
+    },
+    {
+      "title_en": "The art and engineering of Sega CD Silpheed",
+      "url": "https://fabiensanglard.net/silpheed/index.html",
+      "title_zh": "SEGA CD 的 Silpheed：艺术与工程",
+      "created_display": "Created: Jul 13, 2026 / 07:52 PT",
+      "image_url": "https://fabiensanglard.net/silpheed/f384_cropped.png",
+      "summary_en": "A retrospective on Silpheed for the Sega CD, examining how the game combined art direction with early 3D graphics under hardware constraints. It highlights techniques like polygon models, texture work, and sound design that pushed the platform's limits and influenced CG-driven console games.",
+      "summary_zh": "回顾 Sega CD 版 Silpheed，分析美术取向与早期 3D 图形在硬件限制下的结合。文章指出其在多边形模型、纹理与音效设计方面的运用，推动了当时对 CG 驱动的主机游戏的探索与影响。",
+      "hn": {
+        "id": 48893639,
+        "type": "story",
+        "by": "ibobev",
+        "score": 253,
+        "descendants": 54,
+        "time": 1783954353,
+        "comments_url": "https://news.ycombinator.com/item?id=48893639"
+      },
+      "tags": [
+        "Gaming",
+        "Design",
+        "Hardware"
+      ],
+      "hot_score": 0.23
+    },
+    {
+      "title_en": "The infinite scroll may become endangered if controversial Calif. law passes",
+      "url": "https://www.sfgate.com/politics/article/meta-social-media-teenagers-22337724.php",
+      "title_zh": "若加州通过有争议的法律，无限滚动将岌岌可危",
+      "created_display": "Created: Jul 13, 2026 / 11:53 PT",
+      "image_url": "https://www.sfgate.com/_fs-ch-1T1wmsGaOgGaSxcX/assets/errorIcon.svg",
+      "summary_en": "A California law proposal could constrain infinite scrolling, potentially impacting content surfacing and monetization on social platforms. The piece analyzes UX, policy and business-model implications.",
+      "summary_zh": "加州拟议的法规可能限制无限滚动，或影响社媒平台的内容呈现与盈利模式。文章分析了对用户体验、政策与商业模式的潜在影响。",
+      "hn": {
+        "id": 48897104,
+        "type": "story",
+        "by": "Stratoscope",
+        "score": 222,
+        "descendants": 428,
+        "time": 1783968833,
+        "comments_url": "https://news.ycombinator.com/item?id=48897104"
+      },
+      "tags": [
+        "Politics",
+        "Web"
+      ],
+      "hot_score": 0.23
+    },
+    {
+      "title_en": "Satellite Tracker – Live Map of Starlink and 30k Satellites",
+      "url": "https://satellitemap.space/",
+      "title_zh": "卫星追踪器——星链与3万颗卫星的实时地图",
+      "created_display": "Created: Jul 13, 2026 / 18:55 PT",
+      "image_url": "https://satellitemap.space/og-preview-v2.jpg",
+      "summary_en": "A live map visualizes Starlink satellites alongside tens of thousands of others, offering a real-time view of orbital density and coverage. The tool highlights how mega-constellations and space debris could affect satellite operations and traffic management.",
+      "summary_zh": "实时地图将星链卫星与数万颗卫星呈现在同一画面，提供轨道密度与覆盖范围的即时视图。该工具凸显大型星座与航天垃圾对卫星运营和轨道交通管理的潜在影响。",
+      "hn": {
+        "id": 48901356,
+        "type": "story",
+        "by": "rolph",
+        "score": 161,
+        "descendants": 99,
+        "time": 1783994124,
+        "comments_url": "https://news.ycombinator.com/item?id=48901356"
+      },
+      "tags": [
+        "Space"
+      ],
+      "hot_score": 0.23
+    },
+    {
+      "title_en": "Show HN: Clawk – Give coding agents a disposable Linux VM, not your laptop",
+      "url": "https://github.com/clawkwork/clawk",
+      "title_zh": "Show HN：Clawk——给编码代理提供一次性 Linux 虚拟机，而非你自己的笔记本",
+      "created_display": "Created: Jul 13, 2026 / 07:02 PT",
+      "image_url": "https://opengraph.githubassets.com/98645771af8f6af94572756b279f86719296e52314f58129507be2f0b22d1d8f/clawkwork/clawk",
+      "summary_en": "Clawk provides disposable Linux VMs for coding agents, isolating experiments from your laptop. This approach improves safety and reproducibility when developing AI agents and tooling.",
+      "summary_zh": "Clawk 为编码代理提供一次性 Linux 虚拟机，将实验与本地笔记本隔离，提升安全性与可重复性。",
+      "hn": {
+        "id": 48892859,
+        "type": "story",
+        "by": "celrenheit",
+        "score": 217,
+        "descendants": 156,
+        "time": 1783951323,
+        "comments_url": "https://news.ycombinator.com/item?id=48892859"
+      },
+      "tags": [
+        "Show HN",
+        "AI"
+      ],
+      "hot_score": 0.19
+    },
+    {
+      "title_en": "Precursor",
+      "url": "https://blog.cloudflare.com/introducing-precursor/",
+      "title_zh": "Precursor",
+      "created_display": "Created: Jul 13, 2026 / 07:39 PT",
+      "image_url": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/4raPYKDa5ifslzx2izHKzA/4935a3d9476c0551f0d8f398663b2b9d/Introducing_Precursor-_detecting_agentic_behavior_with_continuous_client-side_signals-OG.png",
+      "summary_en": "Cloudflare announces Precursor, a new platform aimed at advancing edge-related capabilities and security tooling.",
+      "summary_zh": "Cloudflare 公布 Precursor，这是一个面向边缘计算的新平台，旨在提升边缘服务与安全工具的协同与能力。",
+      "hn": {
+        "id": 48893446,
+        "type": "story",
+        "by": "AznHisoka",
+        "score": 203,
+        "descendants": 160,
+        "time": 1783953578,
+        "comments_url": "https://news.ycombinator.com/item?id=48893446"
+      },
+      "tags": [
+        "Security"
+      ],
+      "hot_score": 0.18
+    },
+    {
+      "title_en": "The real prices of frontier models",
+      "url": "https://playcode.io/blog/real-price-of-frontier-models",
+      "title_zh": "前沿模型的真实价格",
+      "created_display": "Created: Jul 13, 2026 / 11:32 PT",
+      "image_url": "https://playcode.io/assets/static/img/logo.png",
+      "summary_en": "It analyzes the true costs of frontier AI models, factoring in training compute, data licensing, inference costs, and operational overhead, showing that headline prices often underestimate total cost.",
+      "summary_zh": "文章分析前沿 AI 模型的真实成本，涵盖训练计算、数据许可、推理成本与运维等，揭示了标称价格背后的隐性开销，提醒企业在采购时考虑总拥有成本。",
+      "hn": {
+        "id": 48896800,
+        "type": "story",
+        "by": "ianberdin",
+        "score": 156,
+        "descendants": 82,
+        "time": 1783967547,
+        "comments_url": "https://news.ycombinator.com/item?id=48896800"
+      },
+      "tags": [
+        "AI",
+        "Finance"
+      ],
+      "hot_score": 0.16
+    },
+    {
+      "title_en": "Nokia’s years of mobile-phone supremacy ended in an afternoon",
+      "url": "https://spectrum.ieee.org/nokia-phones-history",
+      "title_zh": "诺基亚在一个下午就失去了长期的手机霸主地位",
+      "created_display": "Created: Jul 13, 2026 / 06:54 PT",
+      "image_url": "https://spectrum.ieee.org/media-library/two-young-girls-stand-in-front-of-a-glass-case-containing-2000-era-cellphones-behind-them-is-a-display-that-says-nokia.jpg?id=67118775&width=1200&height=600&coordinates=0%2C911%2C0%2C912",
+      "summary_en": "A look back at how Nokia’s decades-long handset dominance collapsed in an afternoon as smartphones and ecosystems disrupted the market. The piece analyzes strategic missteps, a slow software pivot, and the rise of platform economies that left hardware leaders behind. It offers sobering lessons on software strategy and ecosystem alignment for hardware companies.",
+      "summary_zh": "回顾诺基亚在一个下午就失去长期手机霸主地位的过程：智能手机与生态系统的崛起彻底改变了市场格局。文章解析了战略失误、对软件转型的迟缓，以及以平台为核心的生态系统如何让硬件领导者落后。为硬件企业提供了对软件策略与生态系统协同的深刻教训。",
+      "hn": {
+        "id": 48892709,
+        "type": "story",
+        "by": "jruohonen",
+        "score": 177,
+        "descendants": 156,
+        "time": 1783950850,
+        "comments_url": "https://news.ycombinator.com/item?id=48892709"
+      },
+      "hot_score": 0.15,
+      "tags": [
+        "Business",
+        "Hardware"
+      ]
+    }
+  ]
+}

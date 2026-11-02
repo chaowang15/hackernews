@@ -1,0 +1,1162 @@
+{
+  "meta": {
+    "mode": "best",
+    "source": "https://news.ycombinator.com/",
+    "api": "https://github.com/HackerNews/API",
+    "count_requested": 50,
+    "count_written": 50,
+    "reused_same_day": 0,
+    "reused_cross_day": 21,
+    "new_llm_enriched": 13,
+    "scrape_time_display": "09:12, September 09, 2026 (PDT)",
+    "timezone": "America/Los_Angeles",
+    "date_dir": "2026/09/08",
+    "content_date": "2026-09-08",
+    "run_time_local": "09:12, September 09, 2026 (PDT)",
+    "run_time_utc": "2026-09-09 16:12:29 UTC",
+    "incremental": true,
+    "stories_max": 50,
+    "hot_score_time_utc": "2026-09-09 16:13:40 UTC"
+  },
+  "items": [
+    {
+      "title_en": "Tailwind Labs is joining Shopify",
+      "url": "https://tailwindcss.com/blog/tailwind-is-joining-shopify",
+      "title_zh": "Tailwind Labs 将加入 Shopify",
+      "created_display": "Created: Sep 09, 2026 / 06:27 PT",
+      "image_url": "https://tailwindcss.com/_next/static/media/og-image.103kpqahmns2b.jpg",
+      "summary_en": "Tailwind Labs, creator of Tailwind CSS, is joining Shopify, signaling closer alignment between frontend tooling and ecommerce platforms. The move could accelerate design-system adoption by Shopify developers and shape the evolution of Shopify's design tooling.",
+      "summary_zh": "Tailwind Labs 即 Tailwind CSS 的开发者将加入 Shopify，标志着前端工具与电商平台的更紧密协作。此举可能加速 Shopify 开发者在设计系统上的应用，并影响 Shopify 的设计工具未来走向。",
+      "hn": {
+        "id": 49626190,
+        "type": "story",
+        "by": "EdwinHoksberg",
+        "score": 422,
+        "descendants": 162,
+        "time": 1788960431,
+        "comments_url": "https://news.ycombinator.com/item?id=49626190"
+      },
+      "hot_score": 25.24,
+      "tags": [
+        "Web",
+        "Open Source"
+      ]
+    },
+    {
+      "title_en": "Flock Wants a Closely Surveilled World with No Exit",
+      "url": "https://www.newyorker.com/culture/infinite-scroll/flock-wants-a-closely-surveilled-world-with-no-exit",
+      "title_zh": "Flock 想要一个紧密监控、无出口的世界",
+      "created_display": "Created: Sep 09, 2026 / 03:54 PT",
+      "image_url": "https://media.newyorker.com/photos/6aa05e7b6979461f46da3deb/16:9/w_1280,c_limit/NewYorker_flockcamera_final.jpg",
+      "summary_en": "A New Yorker feature critiques surveillance-centric tech ecosystems and argues that Flock envisions a world where tracking is ubiquitous and inescapable. It ties corporate data practices to broader social costs, including autonomy and democratic agency.",
+      "summary_zh": "新 Yorker 的专栏批评以监控为核心的技术生态，认为 Flock 想象的是一个无处不在、难以逃脱的监控世界。文章将企业数据实践与自主权和民主治理的代价联系起来，强调对隐私的深远影响。",
+      "hn": {
+        "id": 49624394,
+        "type": "story",
+        "by": "pseudolus",
+        "score": 529,
+        "descendants": 427,
+        "time": 1788951258,
+        "comments_url": "https://news.ycombinator.com/item?id=49624394"
+      },
+      "hot_score": 14.66,
+      "tags": [
+        "Privacy",
+        "Security"
+      ]
+    },
+    {
+      "title_en": "Claude, change the \"Add to Cart\" button to blue",
+      "url": "https://opusfived.dev/",
+      "title_zh": "让 Claude 的加入购物车按钮改为蓝色",
+      "created_display": "Created: Sep 09, 2026 / 02:39 PT",
+      "image_url": "https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/30670832-9635-4801-aee1-22bf39bccebf/id-preview-364e3d04--0e3289c2-58d2-415e-a7ad-27daeb3a63a1.lovable.app-1788612778060.png",
+      "summary_en": "A user requests Claude to change the Add to Cart button color to blue. Such a small UI tweak can influence how trustworthy a system feels and may affect conversion in AI-assisted shopping. It underscores how design choices still shape user behavior even in assistant-driven experiences.",
+      "summary_zh": "有人请求将 Claude 的加入购物车按钮改为蓝色。这样的微小界面调整会影响用户对系统可信度的感知，可能在 AI 助手驱动的购物场景中影响转化率。它揭示了设计选择对用户行为的影响即使在智能助手场景中也存在。",
+      "hn": {
+        "id": 49623754,
+        "type": "story",
+        "by": "matthieu_bl",
+        "score": 557,
+        "descendants": 215,
+        "time": 1788946786,
+        "comments_url": "https://news.ycombinator.com/item?id=49623754"
+      },
+      "hot_score": 11.65,
+      "tags": [
+        "AI",
+        "Design"
+      ]
+    },
+    {
+      "title_en": "DeepSeek launching v4.1 flash cheaper and more capable than v4 pro",
+      "url": "https://news.ycombinator.com/item?id=49624603",
+      "title_zh": "DeepSeek 推出 v4.1 闪存，价格更低、性能更强于 v4 Pro",
+      "created_display": "Created: Sep 09, 2026 / 04:19 PT",
+      "image_url": "https://news.ycombinator.com/y18.svg",
+      "summary_en": "DeepSeek launches v4.1 flash, delivering lower-cost storage with improved capabilities versus v4 Pro. The upgrade could change the economics of AI workloads on edge devices and data centers.",
+      "summary_zh": "DeepSeek 推出 v4.1 闪存产品，成本更低、性能超过 v4 Pro。该升级可能改变边缘设备和数据中心的 AI 存储成本结构。",
+      "hn": {
+        "id": 49624603,
+        "type": "story",
+        "by": "nickweb",
+        "score": 301,
+        "descendants": 153,
+        "time": 1788952766,
+        "comments_url": "https://news.ycombinator.com/item?id=49624603"
+      },
+      "hot_score": 9.26,
+      "tags": [
+        "Hardware",
+        "AI"
+      ]
+    },
+    {
+      "title_en": "Desert Ant Labs: local, fast models that run on device",
+      "url": "https://desertant.com/blog/introducing-desert-ant-labs/",
+      "title_zh": "Desert Ant Labs：本地、快速模型在设备上运行",
+      "created_display": "Created: Sep 09, 2026 / 04:39 PT",
+      "image_url": "https://desertant.com/og/blog/introducing-desert-ant-labs.jpg?v=8",
+      "summary_en": "Desert Ant Labs introduces local, fast AI models designed to run entirely on-device, boosting privacy and reducing latency. The approach reflects a broader shift toward on-device inference and edge AI in production workloads.",
+      "summary_zh": "Desert Ant Labs 推出能够在设备端本地运行的快速 AI 模型，提升隐私并降低延迟。这一做法体现了在生产工作负载中对端侧推理和边缘 AI 的更广泛转变。",
+      "hn": {
+        "id": 49624823,
+        "type": "story",
+        "by": "willwhitedc",
+        "score": 243,
+        "descendants": 64,
+        "time": 1788953986,
+        "comments_url": "https://news.ycombinator.com/item?id=49624823"
+      },
+      "hot_score": 8.18,
+      "tags": [
+        "AI",
+        "Privacy"
+      ]
+    },
+    {
+      "title_en": "I advertise malicious software on Google Ads",
+      "url": "https://xlii.space/eng/malicious-software-on-google-ads/",
+      "title_zh": "我在 Google 广告上投放恶意软件广告",
+      "created_display": "Created: Sep 09, 2026 / 04:43 PT",
+      "image_url": null,
+      "summary_en": "A researcher documents advertising malicious software on Google Ads to study platform vetting. The revelation reveals gaps in automated review and fraud detection, underscoring the need for stronger vetting and abuse controls.",
+      "summary_zh": "研究者记录在 Google Ads 上投放恶意软件广告，以测试平台防护能力，揭示自动审核与防欺诈机制的不足。此事凸显加强广告体系审查和滥用检测的必要性。",
+      "hn": {
+        "id": 49624856,
+        "type": "story",
+        "by": "xlii",
+        "score": 237,
+        "descendants": 140,
+        "time": 1788954201,
+        "comments_url": "https://news.ycombinator.com/item?id=49624856"
+      },
+      "hot_score": 8.11,
+      "tags": [
+        "AI",
+        "Science"
+      ]
+    },
+    {
+      "title_en": "How An AI math breakthrough ignited a controversy",
+      "url": "https://www.science.org/content/article/how-ai-math-breakthrough-ignited-controversy",
+      "title_zh": "AI 数学突破引发争议",
+      "created_display": "Created: Sep 09, 2026 / 03:25 PT",
+      "image_url": null,
+      "summary_en": "A breakthrough in AI-assisted mathematics catalyzed a heated debate over its validity and implications. The piece lays out what was claimed, why skeptics doubt the result, and what the controversy signals for future AI-aided theorem proving.",
+      "summary_zh": "AI 辅助数学取得的突破引发激烈争议，核心在于结果的可靠性和方法透明度。文章分析争论点、不同观点，以及这一事件对未来 AI 辅助定理证明的潜在影响。",
+      "hn": {
+        "id": 49624163,
+        "type": "story",
+        "by": "pseudolus",
+        "score": 198,
+        "descendants": 205,
+        "time": 1788949541,
+        "comments_url": "https://news.ycombinator.com/item?id=49624163"
+      },
+      "tags": [
+        "Science",
+        "AI"
+      ],
+      "hot_score": 4.88
+    },
+    {
+      "title_en": "On the Navier–Stokes Millennium Prize Problem",
+      "url": "https://openai.com/index/navier-stokes-solution/",
+      "title_zh": "关于 Navier–Stokes 千禧奖难题",
+      "created_display": "Created: Sep 08, 2026 / 10:13 PT",
+      "image_url": "https://images.ctfassets.net/kftzwdyauwt9/7hiHADoMhgN0iDcje9Xdei/2dae059c10a0dfa3e2814ebb522e9df2/navier-stokes-og.png?w=1600&h=900&fit=fill",
+      "summary_en": "The Navier–Stokes Millennium Prize Problem asks whether smooth, globally defined solutions exist for the 3D incompressible Navier–Stokes equations with reasonable initial data. The piece explains why the question is so difficult, what solving it would mean for math and physics, and how researchers brandish partial results and new techniques in attempts to crack it. The prize carries a $1 million award from the Clay Mathematics Institute, underscoring the problem’s prestige and impact.",
+      "summary_zh": "Navier–Stokes 千禧奖难题聚焦三维不可压缩方程在初始条件下是否存在光滑的全局解。文章解释了该问题为何极其困难、如果解决将对数学和物理带来何种影响，以及研究者如何通过部分结果和新方法推进。该奖项由克莱数学研究所提供一百万元奖金，凸显其极高的学术价值。",
+      "hn": {
+        "id": 49613262,
+        "type": "story",
+        "by": "tedsanders",
+        "score": 1315,
+        "descendants": 1065,
+        "time": 1788887601,
+        "comments_url": "https://news.ycombinator.com/item?id=49613262"
+      },
+      "tags": [
+        "Science"
+      ],
+      "hot_score": 4.0
+    },
+    {
+      "title_en": "I resigned from Anthropic today",
+      "url": "https://twitter.com/hilbertspaess/status/2097476196791709843#m",
+      "title_zh": "我今天从 Anthropic 辞职",
+      "created_display": "Created: Sep 08, 2026 / 17:40 PT",
+      "image_url": "https://pbs.twimg.com/profile_images/2097232673865601024/d6H8UbQJ_200x200.jpg",
+      "summary_en": "A former Anthropic employee announces resignation, highlighting ongoing talent churn in AI safety startups. The move could affect Claude-related projects and signal shifts in leadership or culture as the company scales. The exact reasons and impact remain unclear.",
+      "summary_zh": "一位前 Anthropic 员工宣布辞职，凸显 AI 安全初创公司中的人才流动。此举可能影响与 Claude 相关的项目，并在公司扩张阶段反映出领导与企业文化的变动，具体原因与影响尚不清晰。",
+      "hn": {
+        "id": 49619227,
+        "type": "story",
+        "by": "yurivish",
+        "score": 637,
+        "descendants": 876,
+        "time": 1788914440,
+        "comments_url": "https://news.ycombinator.com/item?id=49619227"
+      },
+      "hot_score": 3.66,
+      "tags": [
+        "Startups",
+        "Career",
+        "AI"
+      ]
+    },
+    {
+      "title_en": "Copyright does more harm than good and should be abolished",
+      "url": "https://grapheneos.social/@GrapheneOS/117231186011306184",
+      "title_zh": "版权制度对社会的伤害大于收益，应予废除",
+      "created_display": "Created: Sep 08, 2026 / 23:31 PT",
+      "image_url": "https://grapheneos.social/packs/assets/logo-DXQkHAe5.svg",
+      "summary_en": "A provocative stance argues that copyright harms innovation and freedom more than it helps, advocating abolition or radical reform. The piece engages with questions about openness, creator incentives, and the future of digital culture.",
+      "summary_zh": "观点认为版权制度对创新与自由的正面影响不足以抵消其负面后果，主张废除或深度改革，涉及开源、创作者激励与数字文化的未来。",
+      "hn": {
+        "id": 49622042,
+        "type": "story",
+        "by": "Cider9986",
+        "score": 286,
+        "descendants": 270,
+        "time": 1788935488,
+        "comments_url": "https://news.ycombinator.com/item?id=49622042"
+      },
+      "tags": [
+        "Legal",
+        "Culture"
+      ],
+      "hot_score": 3.4
+    },
+    {
+      "title_en": "Navier-Stokes – Tristan Buckmaster [pdf]",
+      "url": "https://cims.nyu.edu/~tristanb/statement.pdf",
+      "title_zh": "Navier–Stokes 方程 — Tristan Buckmaster [PDF]",
+      "created_display": "Created: Sep 07, 2026 / 22:42 PT",
+      "image_url": null,
+      "summary_en": "A technical PDF by Tristan Buckmaster on the Navier–Stokes equations, offering mathematical detail and potential new insights. The Navier–Stokes problem sits at the intersection of analysis and physics, with long-standing open questions about existence and smoothness that drive recent research.",
+      "summary_zh": "Tristan Buckmaster 的这份 PDF 针对 Navier–Stokes 方程，提供数学细节与潜在的新见解。Navier–Stokes 问题在分析与物理的交叉领域备受关注，其关于存在性与光滑性的长期未解问题推动了近期的研究工作。",
+      "hn": {
+        "id": 49605915,
+        "type": "story",
+        "by": "procedurecall",
+        "score": 1917,
+        "descendants": 784,
+        "time": 1788846148,
+        "comments_url": "https://news.ycombinator.com/item?id=49605915"
+      },
+      "tags": [
+        "Science"
+      ],
+      "hot_score": 2.95
+    },
+    {
+      "title_en": "The Navier–Stokes Millennium Prize Problem",
+      "url": "https://simonwillison.net/2026/Sep/8/on-navier-stokes/",
+      "title_zh": "纳维-斯托克斯千禧年奖题",
+      "created_display": "Created: Sep 08, 2026 / 22:55 PT",
+      "image_url": null,
+      "summary_en": "A piece reflects on the unsolved Navier–Stokes Millennium Prize Problem, explaining why proving existence and smoothness of solutions remains a monumental challenge. It considers what a resolution would mean for mathematics, physics, and computational science.",
+      "summary_zh": "本文回顾未解的纳维-斯托克斯千禧年奖题，解释为何证明解的存在性和光滑性仍是一规模巨大的挑战。解题将对数学、物理和计算科学产生深远影响。",
+      "hn": {
+        "id": 49621697,
+        "type": "story",
+        "by": "tosh",
+        "score": 223,
+        "descendants": 224,
+        "time": 1788933339,
+        "comments_url": "https://news.ycombinator.com/item?id=49621697"
+      },
+      "hot_score": 2.42,
+      "tags": [
+        "Science"
+      ]
+    },
+    {
+      "title_en": "“Tweet” and the bird logo apparently enter the public domain",
+      "url": "https://blog.ericgoldman.org/archives/2026/09/tweet-and-the-bird-logo-apparently-enter-the-public-domain-but-x-maintains-its-grip-on-the-twitter-mark-for-now-x-v-project-bluebird.htm",
+      "title_zh": "“Tweet”和鸟标志似乎进入公有领域",
+      "created_display": "Created: Sep 08, 2026 / 23:02 PT",
+      "image_url": "https://blog.ericgoldman.org/wp-content/uploads/2026/09/twitter-bird.jpg",
+      "summary_en": "A legal tug-of-war suggests the word 'tweet' and Twitter's bird logo may enter the public domain, potentially loosening brand protections. The piece notes how a public-domain status could affect licensing, trademarks, and platform branding—and how the holder responds.",
+      "summary_zh": "报道讨论“Tweet”以及鸟标志可能进入公有领域的法律进展，以及这将对商标、品牌策略和许可方式产生的潜在影响。文章也提及公司在此情形下的应对姿态。",
+      "hn": {
+        "id": 49621751,
+        "type": "story",
+        "by": "progval",
+        "score": 197,
+        "descendants": 112,
+        "time": 1788933727,
+        "comments_url": "https://news.ycombinator.com/item?id=49621751"
+      },
+      "tags": [
+        "Legal",
+        "Culture"
+      ],
+      "hot_score": 2.17
+    },
+    {
+      "title_en": "Muse – Meta’s personal AI agent",
+      "url": "https://ai.meta.com/muse/",
+      "title_zh": "Muse：Meta 的个人 AI 助手",
+      "created_display": "Created: Sep 08, 2026 / 12:25 PT",
+      "image_url": "https://scontent-atl3-2.xx.fbcdn.net/v/t39.2365-6/795767136_1630478025086800_8969738526855678960_n.webp?_nc_cat=104&ccb=1-7&_nc_sid=aa6a2f&_nc_ohc=0c6MBFoffqcQ7kNvwE_vklv&_nc_oc=AdoTMUoF2ea026QXEst33QijOKGrtidNaWpHbr3lY29PCwg7-HQgkQJAtwISMdmkeFE&_nc_zt=14&_nc_ht=scontent-atl3-2.xx&_nc_gid=6cyN37fu4uUuf4kOs5AEYg&_nc_ss=7b20f&oh=00_AQLDoRy1gF5pWz1IVhFdyTScUrODuE1sT9jrJEQYfnrI6A&oe=6AA6C013",
+      "summary_en": "Muse is Meta's attempt to offer a consumer-facing personal AI agent that manages daily tasks, memories, and multi-app workflows. It aims to unify chat, tools, and contextual memory across apps, signaling a shift toward deeply integrated personal AI assistants. Privacy and data-control questions accompany these promises.",
+      "summary_zh": "Muse 是 Meta 推出的个人 AI 助手，旨在帮助管理日常任务、记忆与跨应用工作流。它体现了个人 AI 助手深度整合日常生活的趋势，同时引发数据隐私与平台控制方面的讨论。",
+      "hn": {
+        "id": 49615537,
+        "type": "story",
+        "by": "yks",
+        "score": 597,
+        "descendants": 651,
+        "time": 1788895500,
+        "comments_url": "https://news.ycombinator.com/item?id=49615537"
+      },
+      "tags": [
+        "AI",
+        "Privacy"
+      ],
+      "hot_score": 2.14
+    },
+    {
+      "title_en": "Tao: Open math problems being non-renewably mined by AI",
+      "url": "https://mathstodon.xyz/@tao/117237320796901560",
+      "title_zh": "Tao：AI 正在“不可再生”地挖掘开放的数学难题",
+      "created_display": "Created: Sep 08, 2026 / 14:00 PT",
+      "image_url": "https://mathstodon.xyz/packs/assets/logo-DXQkHAe5.svg",
+      "summary_en": "Discussion about AI tackling open mathematical problems, framing it as AI 'mining' an exhaustible supply of open questions. The post raises concerns about over-reliance on AI to solve math challenges, and questions how such dynamics affect the mathematical commons, incentives, and long-term research.",
+      "summary_zh": "关于人工智能对开放数学难题的处理，将其形容为在不可再生的难题资源上“开采”。此趋势引发对AI主导解题可能削减公开问题供给、改变研究激励与数学共同体治理的讨论。",
+      "hn": {
+        "id": 49616968,
+        "type": "story",
+        "by": "_alternator_",
+        "score": 444,
+        "descendants": 381,
+        "time": 1788901252,
+        "comments_url": "https://news.ycombinator.com/item?id=49616968"
+      },
+      "tags": [
+        "AI",
+        "Science"
+      ],
+      "hot_score": 1.81
+    },
+    {
+      "title_en": "How to build a printer",
+      "url": "https://nishantjosh.dev/blogs/how-to-build-a-fking-printer/",
+      "title_zh": "如何自行构建一台打印机",
+      "created_display": "Created: Sep 08, 2026 / 14:22 PT",
+      "image_url": "https://nishantjosh.dev/blogs/how-to-build-a-fking-printer/og.png",
+      "summary_en": "Offers a hands-on guide to building a printer from scratch, detailing mechanical design, electronics, and calibration steps. It demystifies the hardware, showing how open-source and modular components can yield a functional print engine. This is useful for hobbyists and educators aiming to customize printers or understand how consumer devices fit together.",
+      "summary_zh": "提供从零开始搭建打印机的实操指南，涵盖机械结构、电路与标定步骤。内容去神秘化硬件，展示如何用开源、模块化组件拼装出可用的打印系统。对爱好者与教育者定制打印机、理解消费级设备的工作原理很有帮助。",
+      "hn": {
+        "id": 49617255,
+        "type": "story",
+        "by": "cat-whisperer",
+        "score": 417,
+        "descendants": 92,
+        "time": 1788902531,
+        "comments_url": "https://news.ycombinator.com/item?id=49617255"
+      },
+      "tags": [
+        "Hardware",
+        "Open Source"
+      ],
+      "hot_score": 1.76
+    },
+    {
+      "title_en": "LibreOffice breaks download records after declaring it has no AI features",
+      "url": "https://manualdousuario.net/en/libreoffice-download-record-no-ai/",
+      "title_zh": "LibreOffice 声称无 AI 功能后下载量创纪录",
+      "created_display": "Created: Sep 08, 2026 / 07:05 PT",
+      "image_url": "https://manualdousuario.net/wp-content/uploads/2026/09/libreoffice.png",
+      "summary_en": "LibreOffice publicly asserted it has no AI features, and yet its download numbers surged to an all-time high. The spike hints that many users still seek privacy-first, vendor-neutral productivity tools even as AI-enabled software dominates mainstream markets.",
+      "summary_zh": "LibreOffice 虽然声明没有 AI 功能，但下载量却创下历史新高，这说明大量用户仍看重隐私优先、无厂商 AI 绑定的办公工具。此现象也体现出在 AI 主导的市场中，开源选项依然具备吸引力。",
+      "hn": {
+        "id": 49610538,
+        "type": "story",
+        "by": "rpgbr",
+        "score": 696,
+        "descendants": 234,
+        "time": 1788876357,
+        "comments_url": "https://news.ycombinator.com/item?id=49610538"
+      },
+      "tags": [
+        "Open Source",
+        "AI",
+        "Privacy"
+      ],
+      "hot_score": 1.71
+    },
+    {
+      "title_en": "LG TVs caught spying even when offline or on standby",
+      "url": "https://www.theverge.com/tech/991190/lg-tv-spying-standby-recording-wi-fi-scanning-gamers-nexus",
+      "title_zh": "LG 电视在离线或待机状态下仍在窃听",
+      "created_display": "Created: Sep 08, 2026 / 09:07 PT",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/258078_LG_G5_OLED_TV_JHiggins_0007.jpg?quality=90&strip=all&crop=0%2C7.9509095732762%2C100%2C78.534031413613&w=1200",
+      "summary_en": "LG TVs reportedly continue data collection even when powered off or in standby, including firmware scanning and possible gamer-data collection. The privacy implications for IoT devices are significant, highlighting the need for robust on-device controls and clearer user opt-outs.",
+      "summary_zh": "LG 电视据称在离线或待机状态下仍在进行数据收集，包括固件扫描和可能的游戏玩家数据收集。对物联网设备而言，这一隐私问题相当重要，凸显需要更强的设备内置隐私控制和更清晰的用户退出选项。",
+      "hn": {
+        "id": 49612329,
+        "type": "story",
+        "by": "sbulaev",
+        "score": 554,
+        "descendants": 341,
+        "time": 1788883628,
+        "comments_url": "https://news.ycombinator.com/item?id=49612329"
+      },
+      "hot_score": 1.56,
+      "tags": [
+        "Privacy",
+        "Hardware"
+      ]
+    },
+    {
+      "title_en": "AlphaGenome Atlas: a high-resolution map of human DNA",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/",
+      "title_zh": "AlphaGenome Atlas：高分辨率的人类基因组图谱",
+      "created_display": "Created: Sep 08, 2026 / 07:55 PT",
+      "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AlphaGenome_Atlas_herosocial.width-1300.png",
+      "summary_en": "AlphaGenome Atlas presents a high-resolution map of human DNA, enabling finer visualization of genetic variation. It advances population-scale genomics and can accelerate studies in disease associations and precision medicine.",
+      "summary_zh": "AlphaGenome Atlas 提供高分辨率的人类基因组图谱，呈现更细粒度的基因变异信息。该图谱促进群体级基因组学研究，并推动疾病关联与精准医疗的发展。",
+      "hn": {
+        "id": 49611251,
+        "type": "story",
+        "by": "utiiiD",
+        "score": 586,
+        "descendants": 126,
+        "time": 1788879345,
+        "comments_url": "https://news.ycombinator.com/item?id=49611251"
+      },
+      "tags": [
+        "Science",
+        "Data"
+      ],
+      "hot_score": 1.52
+    },
+    {
+      "title_en": "I-have-ADHD: A skill to stop coding agents from burying the answer",
+      "url": "https://github.com/ayghri/i-have-adhd",
+      "title_zh": "我有 ADHD：阻止编码代理把答案埋起来的技巧",
+      "created_display": "Created: Sep 08, 2026 / 07:13 PT",
+      "image_url": "https://opengraph.githubassets.com/dbd81be60f3edfa52cc24cf94d183c35fe8ac6e6cef7dd16a16c21de5653cb56/ayghri/i-have-adhd",
+      "summary_en": "A personal take on managing ADHD while building AI agents, sharing practical tactics like task structuring, explicit goals, and timeboxing to keep solutions on track.",
+      "summary_zh": "作者结合 ADHD 的经验，给出在构建 AI 代理时保持聚焦的实用方法，如任务结构化、明确目标与时间盒管理。",
+      "hn": {
+        "id": 49610631,
+        "type": "story",
+        "by": "domhudson",
+        "score": 515,
+        "descendants": 352,
+        "time": 1788876806,
+        "comments_url": "https://news.ycombinator.com/item?id=49610631"
+      },
+      "tags": [
+        "Programming",
+        "Career",
+        "AI"
+      ],
+      "hot_score": 1.28
+    },
+    {
+      "title_en": "Mistral raises €3B",
+      "url": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/",
+      "title_zh": "Mistral筹集30亿欧元，推动主权与开放权重的AI成为技术前沿",
+      "created_display": "Created: Sep 07, 2026 / 22:06 PT",
+      "image_url": "https://mistral.ai/cms-media/api/media/file/fundraise.jpg",
+      "summary_en": "Mistral AI has raised 3 billion euros to push sovereign, open-weight AI to the tech frontier. The goal is to enable organizations to run competitive, state-of-the-art models in a sovereign stack, potentially reducing reliance on big cloud providers. The funding signals strong investor appetite for open-weight approaches as geopolitics and security concerns reshape AI infrastructure.",
+      "summary_zh": "Mistral宣布募集30亿欧元，旨在通过主权与开放权重的AI将技术前沿推向自有基础设施。目标是让组织能够在自主、合规的环境中运行高水平模型，降低对大型云厂商的依赖。此次融资凸显投资方对开放权重路线在地缘政治与安全考虑下的兴趣。",
+      "hn": {
+        "id": 49605767,
+        "type": "story",
+        "by": "kuberwastaken",
+        "score": 835,
+        "descendants": 590,
+        "time": 1788843983,
+        "comments_url": "https://news.ycombinator.com/item?id=49605767"
+      },
+      "tags": [
+        "Startups",
+        "Finance",
+        "AI",
+        "Security",
+        "DevOps"
+      ],
+      "hot_score": 1.25
+    },
+    {
+      "title_en": "ChatGPT Images 2.5",
+      "url": "https://openai.com/index/introducing-chatgpt-images-2-5/",
+      "title_zh": "ChatGPT Images 2.5",
+      "created_display": "Created: Sep 08, 2026 / 11:37 PT",
+      "image_url": "https://images.ctfassets.net/kftzwdyauwt9/6J668sj93QnQ8PWP7epUDv/3dbd2d2350053d96b03477d0fdb2e2c6/images2point5_16-9c.png?w=1600&h=900&fit=fill",
+      "summary_en": "OpenAI releases ChatGPT Images 2.5, expanding multimodal capabilities with improvements to image understanding, generation, and editing workflows. The update signals a continued push to weave visual reasoning into conversational AI for richer interactions.",
+      "summary_zh": "OpenAI 發布 ChatGPT Images 2.5，提升多模態能力，改進圖像理解、生成與編輯工作流程。此更新標誌著在對話式 AI 中繼續深化視覺推理以實現更豐富的互動。",
+      "hn": {
+        "id": 49614720,
+        "type": "story",
+        "by": "vertigoruntime",
+        "score": 367,
+        "descendants": 439,
+        "time": 1788892671,
+        "comments_url": "https://news.ycombinator.com/item?id=49614720"
+      },
+      "tags": [
+        "AI"
+      ],
+      "hot_score": 1.24
+    },
+    {
+      "title_en": "Kimi K3 (2.8T) at 1 token/s on a MacBook Pro, streamed from four SSDs",
+      "url": "https://github.com/argonautlabsai/deltafin",
+      "title_zh": "Kimi K3（2.8T）在 MacBook Pro 上以每秒 1 個 token，來自四個 SSD 的流式推理",
+      "created_display": "Created: Sep 08, 2026 / 13:07 PT",
+      "image_url": "https://opengraph.githubassets.com/c0b9fa39b467311d003e5ba44f3c757768c2a04b02a0550278d9ae69be4614d0/argonautlabsai/deltafin",
+      "summary_en": "A Kimi K3 (2.8T) runs at 1 token per second on a MacBook Pro, streaming from four SSDs. This demonstrates how high-throughput storage and portable hardware can sustain on-device inference for large models, signaling practical paths for mobile AI experiments.",
+      "summary_zh": "Kimi K3（2.8T）在 MacBook Pro 上以每秒 1 個 token 的速度推理，數據由四個 SSD 流式提供。此展現顯示高帶寬存儲與便攜硬件可支撐大模型的本地推理，為移動端 AI 實驗提供實用路徑。",
+      "hn": {
+        "id": 49616257,
+        "type": "story",
+        "by": "Argonautlabs",
+        "score": 276,
+        "descendants": 145,
+        "time": 1788898075,
+        "comments_url": "https://news.ycombinator.com/item?id=49616257"
+      },
+      "tags": [
+        "Hardware",
+        "AI"
+      ],
+      "hot_score": 1.05
+    },
+    {
+      "title_en": "DaVinci Resolve 21.1",
+      "url": "https://www.blackmagicdesign.com/media/release/20260908-03",
+      "title_zh": "达芬奇 Resolve 21.1 发布",
+      "created_display": "Created: Sep 08, 2026 / 06:36 PT",
+      "image_url": "https://images.blackmagicdesign.com/images/common/logos/gn-logo.svg?_v=1602569927",
+      "summary_en": "DaVinci Resolve 21.1 marks a new minor release for Blackmagic’s color-first NLE, likely bringing workflow refinements and performance tweaks across editing, color, and audio. The update reinforces Resolve’s position as a comprehensive post-production tool used widely in film and video.",
+      "summary_zh": "达芬奇 Resolve 21.1 发布，预计在编辑、调色和音频工作流上带来细微改进与性能优化，继续巩固其在专业后期制作领域的广泛使用。",
+      "hn": {
+        "id": 49610181,
+        "type": "story",
+        "by": "tosh",
+        "score": 428,
+        "descendants": 194,
+        "time": 1788874613,
+        "comments_url": "https://news.ycombinator.com/item?id=49610181"
+      },
+      "tags": [
+        "Entertainment"
+      ],
+      "hot_score": 1.02
+    },
+    {
+      "title_en": "Paramount Caught Using 'Astroturf' Group to Drum Up Fake Support for Merger",
+      "url": "https://www.techdirt.com/2026/09/08/paramount-caught-using-astroturf-group-to-drum-up-fake-support-for-merger/",
+      "title_zh": "Paramount 被发现使用人造草根团体推动对并购的虚假支持",
+      "created_display": "Created: Sep 08, 2026 / 07:33 PT",
+      "image_url": "https://www.techdirt.com/wp-content/themes/techdirt/assets/images/td-rect-logo-white.png",
+      "summary_en": "Paramount reportedly used an astroturf group to drum up fake public support for a merger. The revelation raises concerns about PR manipulation and could invite regulatory scrutiny of media consolidation tactics.",
+      "summary_zh": "据报道，Paramount 动用了人造草根团体为合并案制造虚假民意支持。这一曝光引发对公关操控的担忧，可能引来对媒体合并策略的监管审查。",
+      "hn": {
+        "id": 49610900,
+        "type": "story",
+        "by": "hn_acker",
+        "score": 377,
+        "descendants": 123,
+        "time": 1788878032,
+        "comments_url": "https://news.ycombinator.com/item?id=49610900"
+      },
+      "hot_score": 0.95,
+      "tags": [
+        "Politics",
+        "Legal",
+        "Business"
+      ]
+    },
+    {
+      "title_en": "We Must Return to the Office to Use AI in Person",
+      "url": "https://www.mcsweeneys.net/articles/why-we-must-return-to-the-office-to-use-ai-in-person",
+      "title_zh": "必须回办公室才能现场使用 AI",
+      "created_display": "Created: Sep 08, 2026 / 06:41 PT",
+      "image_url": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/okzkybhv2tecwxbvm0c2u9tkyibz",
+      "summary_en": "A satirical take on AI adoption, arguing that you must return to the office to use AI in person. It skewers workplace culture and the hype around AI by imagining in-office collaboration as a prerequisite for effective AI use.",
+      "summary_zh": "这篇讽刺文通过设想若要现场使用 AI 必须回到办公室来嘲讽 AI 热潮与职场文化。它用夸张的情景批评在远程工作与技术采用之间的紧张关系。",
+      "hn": {
+        "id": 49610229,
+        "type": "story",
+        "by": "cainxinth",
+        "score": 387,
+        "descendants": 67,
+        "time": 1788874885,
+        "comments_url": "https://news.ycombinator.com/item?id=49610229"
+      },
+      "tags": [
+        "AI"
+      ],
+      "hot_score": 0.93
+    },
+    {
+      "title_en": "Mercury 2.5",
+      "url": "https://www.inceptionlabs.ai/blog/introducing-mercury-2-5",
+      "title_zh": "Mercury 2.5",
+      "created_display": "Created: Sep 08, 2026 / 13:14 PT",
+      "image_url": "https://framerusercontent.com/images/StpomiRW6u7bqHNL4kgj4yVQ8Ck.png?width=1200&height=630",
+      "summary_en": "The post introduces Mercury 2.5, detailing new features, performance boosts, and improved developer experience. It highlights enhancements that make workflows faster and more reliable.",
+      "summary_zh": "宣布 Mercury 2.5 发布，列出新功能、性能提升与改进的开发者体验。",
+      "hn": {
+        "id": 49616354,
+        "type": "story",
+        "by": "Topfi",
+        "score": 241,
+        "descendants": 49,
+        "time": 1788898492,
+        "comments_url": "https://news.ycombinator.com/item?id=49616354"
+      },
+      "tags": [
+        "Programming"
+      ],
+      "hot_score": 0.92
+    },
+    {
+      "title_en": "DHS 'Predictive Policing' Unit Is Analyzing Americans' Financial Habits",
+      "url": "https://www.404media.co/a-secretive-dhs-predictive-policing-unit-is-analyzing-americans-financial-habits-and-pulling-them-over/",
+      "title_zh": "DHS 的预测性警务单位正在分析美国人的金融习惯",
+      "created_display": "Created: Sep 08, 2026 / 07:40 PT",
+      "image_url": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/09/dhs-police.png",
+      "summary_en": "A secretive DHS predictive policing unit is analyzing Americans' financial habits to flag 'risk' and trigger enforcement actions. The report highlights civil-liberties concerns, data governance gaps, and the risk of financial data being weaponized in policing.",
+      "summary_zh": "一个神秘的 DHS 预测性警务单位正在分析美国人的金融习惯以标记潜在风险并触发执法行动。报告凸显公民自由、数据治理方面的担忧，以及金融数据在警务中的潜在滥用风险。",
+      "hn": {
+        "id": 49610988,
+        "type": "story",
+        "by": "abraham",
+        "score": 345,
+        "descendants": 288,
+        "time": 1788878430,
+        "comments_url": "https://news.ycombinator.com/item?id=49610988"
+      },
+      "hot_score": 0.88,
+      "tags": [
+        "Privacy"
+      ]
+    },
+    {
+      "title_en": "Trey Parker and Matt Stone Are Changing the Name of South Park to South America",
+      "url": "https://twitter.com/SouthPark/status/2097364141237539116",
+      "title_zh": "南方公园将改名为南美洲",
+      "created_display": "Created: Sep 08, 2026 / 13:06 PT",
+      "image_url": "https://pbs.twimg.com/media/HRtVeFrXsAAM7QK.jpg:large",
+      "summary_en": "A tongue-in-cheek post from the show's creators teases renaming South Park to South America, playing with branding and geopolitics for satire. The stunt showcases the show’s meta-humor and willingness to provoke boundaries.",
+      "summary_zh": "这段来自节目创作者的玩笑式公告尝试将《南方公园》改名为《南美洲》，以讽刺性的方式玩弄品牌与地缘政治。此举体现了节目一贯的元幽默和敢于挑战界线的风格。",
+      "hn": {
+        "id": 49616239,
+        "type": "story",
+        "by": "HelloUsername",
+        "score": 232,
+        "descendants": 122,
+        "time": 1788897993,
+        "comments_url": "https://news.ycombinator.com/item?id=49616239"
+      },
+      "hot_score": 0.88,
+      "tags": [
+        "Entertainment"
+      ]
+    },
+    {
+      "title_en": "Large language models develop novel social biases through adaptive exploration",
+      "url": "https://openreview.net/challenge?redirect=%2Fforum%3Fid%3Dpc7fqaOcAH",
+      "title_zh": "大型语言模型在自适应探索中产生新型社会偏见",
+      "created_display": "Created: Sep 08, 2026 / 14:47 PT",
+      "image_url": null,
+      "summary_en": "Adaptive exploration in large language models can surface novel social biases as models adjust to prompts and tasks. The finding suggests bias is not static but shaped by the model's search strategy, with implications for safety, evaluation, and debiasing efforts. The takeaway is to design exploration and prompting policies that minimize biased behavior.",
+      "summary_zh": "在自适应探索任务空间时，模型输出会显现、甚至改变偏见信号。研究表明偏见并非一成不变，而受探索策略影响，安全与公平评估需将探索动态纳入考量。核心要点是通过审慎设计探索和提示策略来降低偏见风险。",
+      "hn": {
+        "id": 49617581,
+        "type": "story",
+        "by": "paimapi",
+        "score": 195,
+        "descendants": 102,
+        "time": 1788904058,
+        "comments_url": "https://news.ycombinator.com/item?id=49617581"
+      },
+      "tags": [
+        "AI"
+      ],
+      "hot_score": 0.85
+    },
+    {
+      "title_en": "Jellyfin 12.0",
+      "url": "https://jellyfin.org/posts/jellyfin-release-12.0/",
+      "title_zh": "Jellyfin 12.0",
+      "created_display": "Created: Sep 07, 2026 / 18:56 PT",
+      "image_url": "https://jellyfin.org/images/social.png?v2",
+      "summary_en": "Jellyfin 12.0 marks a new release for the open-source media server, likely with UI improvements, performance tweaks, and new client/server features. The update continues to emphasize privacy-friendly, self-hosted media streaming.",
+      "summary_zh": "Jellyfin 12.0 作为开源媒体服务器的最新版本，带来界面改进、性能优化和新特性。该更新延续了自托管、注重隐私的媒体流体验。",
+      "hn": {
+        "id": 49604861,
+        "type": "story",
+        "by": "0xC0ncord",
+        "score": 604,
+        "descendants": 345,
+        "time": 1788832595,
+        "comments_url": "https://news.ycombinator.com/item?id=49604861"
+      },
+      "tags": [
+        "Open Source",
+        "Privacy"
+      ],
+      "hot_score": 0.78
+    },
+    {
+      "title_en": "There's a new \"Google Jail\" for independent wikis",
+      "url": "https://weirdgloop.org/blog/google-jail",
+      "title_zh": "独立维基的新型“Google Jail”",
+      "created_display": "Created: Sep 07, 2026 / 18:57 PT",
+      "image_url": "https://weirdgloop.org/images/Weird%20Gloop%20square%20logo.png",
+      "summary_en": "Independent wikis are facing new restrictions or demotion in Google search, dubbed a 'Google Jail' scenario.",
+      "summary_zh": "独立维基在谷歌搜索中的可见性遭遇新的限制，被形容为‘Google Jail’。文章分析搜索索引变动如何影响社区成长与曝光，以及小型项目需要如何适应平台的排名机制。",
+      "hn": {
+        "id": 49604870,
+        "type": "story",
+        "by": "pizzaiolo",
+        "score": 560,
+        "descendants": 232,
+        "time": 1788832643,
+        "comments_url": "https://news.ycombinator.com/item?id=49604870"
+      },
+      "tags": [
+        "Web"
+      ],
+      "hot_score": 0.72
+    },
+    {
+      "title_en": "Benchmarking Qwen3.8 27B quantizations: 4-bit holds up, 1-bit collapses",
+      "url": "https://quesma.com/blog/qwen38-27b-quantizations-benchmarked/",
+      "title_zh": "对 Qwen3.8 27B 量化的基准测试：4 位保持性能，1 位崩溃",
+      "created_display": "Created: Sep 08, 2026 / 07:49 PT",
+      "image_url": "https://quesma.com/_astro/thumbnail.B4Hy1R5v.png",
+      "summary_en": "New benchmarks show that 4-bit quantization for Qwen3.8 27B preserves accuracy and usability on constrained hardware, while 1-bit quantization collapses performance severely. The results underscore the trade-offs between model size, speed, and fidelity for deploying large LLMs in resource-limited environments.",
+      "summary_zh": "最新基准显示，Qwen3.8 27B 的 4 位量化在受限硬件上仍能维持准确性和可用性，而 1 位量化则性能严重下降。结果强调在资源受限环境中部署大模型时，模型规模、速度与保真度之间的权衡。",
+      "hn": {
+        "id": 49611128,
+        "type": "story",
+        "by": "stared",
+        "score": 279,
+        "descendants": 129,
+        "time": 1788878959,
+        "comments_url": "https://news.ycombinator.com/item?id=49611128"
+      },
+      "tags": [
+        "AI",
+        "Hardware"
+      ],
+      "hot_score": 0.72
+    },
+    {
+      "title_en": "Among European Companies That Use a CDN, Nearly 9 in 10 Use Cloudflare",
+      "url": "https://ciphercue.com/blog/european-cdn-concentration-cloudflare-nine-in-ten",
+      "title_zh": "在使用CDN的欧洲企业中，近九成依赖Cloudflare",
+      "created_display": "Created: Sep 08, 2026 / 01:42 PT",
+      "image_url": "https://ciphercue.com/img/og-card.png",
+      "summary_en": "Cloudflare dominates the European CDN landscape, signaling high vendor concentration as edge delivery becomes essential for digital services. This raises questions about resilience, privacy, and regulatory scrutiny when a single vendor handles a large share of traffic and security services.",
+      "summary_zh": "Cloudflare在欧洲CDN领域占据主导地位，随着边缘交付成为数字服务的关键部分，市场高度集中引发对韧性、隐私与监管的关注。单一供应商对大量流量与安全服务的控制，可能带来潜在风险与依赖性问题。",
+      "hn": {
+        "id": 49607443,
+        "type": "story",
+        "by": "adulion",
+        "score": 382,
+        "descendants": 372,
+        "time": 1788856976,
+        "comments_url": "https://news.ycombinator.com/item?id=49607443"
+      },
+      "tags": [
+        "Web",
+        "Security",
+        "Privacy",
+        "Politics"
+      ],
+      "hot_score": 0.68
+    },
+    {
+      "title_en": "I've factored the RSA keys of a Certificate Authority from the 90s",
+      "url": "https://mcpherrin.ca/2026/09/07/rsa.html",
+      "title_zh": "我已经分解了90年代某证书颁发机构的 RSA 密钥",
+      "created_display": "Created: Sep 07, 2026 / 18:16 PT",
+      "image_url": "https://mcpherrin.ca/assets/rsa/filtered.png",
+      "summary_en": "Factoring a 1990s-era CA RSA key underscores how legacy cryptography remains a risk. The disclosure prompts re-issuance of certificates under stronger keys, revocation considerations, and a push toward modern algorithms and shorter key lifetimes.",
+      "summary_zh": "对90年代某证书颁发机构的 RSA 密钥进行分解，揭示了旧式加密的长期风险。此事可能推动重新颁发证书、吊销受影响的证书，并促使向更强的算法和更短的密钥寿命过渡。",
+      "hn": {
+        "id": 49604637,
+        "type": "story",
+        "by": "ahlCVA",
+        "score": 503,
+        "descendants": 130,
+        "time": 1788830219,
+        "comments_url": "https://news.ycombinator.com/item?id=49604637"
+      },
+      "tags": [
+        "Security"
+      ],
+      "hot_score": 0.63
+    },
+    {
+      "title_en": "The two Christian saints who are the Buddha",
+      "url": "https://signoregalilei.com/2026/08/30/the-two-christian-saints-who-are-secretly-the-buddha/",
+      "title_zh": "两位基督教圣人其实是佛陀",
+      "created_display": "Created: Sep 08, 2026 / 07:44 PT",
+      "image_url": "https://signoregalilei.com/wp-content/uploads/2026/08/Святые_Варлаам_и_Иоасаф_Индийский_царевич__saints_Barlaam_and_Josaphat_prince_of_India.jpg",
+      "summary_en": "An essay explores how two Christian saints can be read as Buddhist archetypes, inviting comparisons across faiths. It challenges rigid religious boundaries and highlights shared themes of compassion and wisdom.",
+      "summary_zh": "本文探讨两位基督教圣人如何被理解为佛教的原型，邀请跨信仰的比较。它挑战僵化的宗教边界，强调同情与智慧等跨宗教的共同主题。",
+      "hn": {
+        "id": 49611051,
+        "type": "story",
+        "by": "surprisetalk",
+        "score": 242,
+        "descendants": 190,
+        "time": 1788878665,
+        "comments_url": "https://news.ycombinator.com/item?id=49611051"
+      },
+      "hot_score": 0.62,
+      "tags": [
+        "Culture"
+      ]
+    },
+    {
+      "title_en": "Show HN: Copperhead – Cursor for circuit boards",
+      "url": "https://copperhead.sh/",
+      "title_zh": "Show HN：Copperhead——用于电路板设计的光标工具",
+      "created_display": "Created: Sep 08, 2026 / 06:26 PT",
+      "image_url": "https://copperhead.sh/og-image.png",
+      "summary_en": "Introducing Copperhead, a cursor tool designed for circuit-board work to aid layout, inspection, or editing. It emphasizes precision and improves PCB workflow.",
+      "summary_zh": "Show HN：Copperhead——用于电路板设计的光标工具，提升定位精准度与编辑效率，改进 PCB 工作流。",
+      "hn": {
+        "id": 49610059,
+        "type": "story",
+        "by": "animeshchouhan",
+        "score": 237,
+        "descendants": 107,
+        "time": 1788874005,
+        "comments_url": "https://news.ycombinator.com/item?id=49610059"
+      },
+      "tags": [
+        "Show HN",
+        "Hardware"
+      ],
+      "hot_score": 0.56
+    },
+    {
+      "title_en": "Getting your hands dirty is good for you",
+      "url": "https://www.bbc.com/future/article/20260904-how-getting-your-hands-dirty-boosts-your-health-within-weeks",
+      "title_zh": "为什么动手做对你有益的原因",
+      "created_display": "Created: Sep 08, 2026 / 02:48 PT",
+      "image_url": "https://ychef.files.bbci.co.uk/624x351/p0p7zfys.jpg",
+      "summary_en": "Engaging in hands-on activities yields tangible health and cognitive benefits within weeks, from mood boosts to increased resilience and activity. The piece argues that tactile, messy work can enhance learning and well-being rather than hinder it.",
+      "summary_zh": "动手实践在数周内就能带来明显的健康与认知收益，包括情绪提升、韧性增强与身体活动增加。文章指出，动手的实际操作有助于学习与身心健康，而非削弱它们。",
+      "hn": {
+        "id": 49608023,
+        "type": "story",
+        "by": "HatchedLake721",
+        "score": 244,
+        "descendants": 210,
+        "time": 1788860904,
+        "comments_url": "https://news.ycombinator.com/item?id=49608023"
+      },
+      "tags": [
+        "Health"
+      ],
+      "hot_score": 0.46
+    },
+    {
+      "title_en": "Antiquated HTML Snippets and Artefacts",
+      "url": "https://vale.rocks/posts/html-relics",
+      "title_zh": "陈旧的HTML片段与遗留痕迹",
+      "created_display": "Created: Sep 08, 2026 / 02:43 PT",
+      "image_url": "https://vale.rocks/assets/og/post.webp",
+      "summary_en": "Older HTML fragments still show up in modern projects, complicating accessibility and maintenance. Auditing, modernizing tooling, and stricter coding practices help reduce bloat and improve long-term stability.",
+      "summary_zh": "现代项目中仍存在陈旧的HTML片段，增加无障碍性与维护难度。通过审计、现代化工具和更严格的编码规范，可以减少臃肿、提升长期稳定性。",
+      "hn": {
+        "id": 49607991,
+        "type": "story",
+        "by": "patadune",
+        "score": 237,
+        "descendants": 85,
+        "time": 1788860594,
+        "comments_url": "https://news.ycombinator.com/item?id=49607991"
+      },
+      "tags": [
+        "Web"
+      ],
+      "hot_score": 0.45
+    },
+    {
+      "title_en": "We have a year to fix security everywhere",
+      "url": "https://jyn.dev/a-year-to-fix-security/",
+      "title_zh": "我们只有一年时间解决各处的安全问题",
+      "created_display": "Created: Sep 07, 2026 / 21:48 PT",
+      "image_url": "https://jyn.dev/assets/pipebomb.png",
+      "summary_en": "An urgent call to overhaul security across systems within one year, outlining high-priority actions like patching, hardening defaults, and supply-chain verification. The post argues that incremental fixes won't suffice and highlights cross-team coordination and measurable milestones.",
+      "summary_zh": "一项一年前瞻的行动呼吁，强调在一年内覆盖所有系统的安全整改，重点包括打补丁、加强默认配置和供应链验证等。文章强调需要跨团队协作和可量化的里程碑来确保落地。",
+      "hn": {
+        "id": 49605691,
+        "type": "story",
+        "by": "saikatsg",
+        "score": 302,
+        "descendants": 352,
+        "time": 1788842890,
+        "comments_url": "https://news.ycombinator.com/item?id=49605691"
+      },
+      "tags": [
+        "Security"
+      ],
+      "hot_score": 0.44
+    },
+    {
+      "title_en": "Bill Gates tries to install MovieMaker (2003)",
+      "url": "https://www.techemails.com/p/bill-gates-tries-to-install-movie-maker",
+      "title_zh": "比尔盖茨尝试安装《MovieMaker》（2003）",
+      "created_display": "Created: Sep 07, 2026 / 08:27 PT",
+      "image_url": "https://substackcdn.com/image/fetch/$s_!Kgd5!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F79fc15fc-6ea8-4426-acad-117e6c349ba0_922x876.png",
+      "summary_en": "A retro anecdote about Bill Gates attempting to install Windows Movie Maker 2003 reveals nostalgia for early consumer software and the quirks of backward compatibility. It underscores how even tech luminaries encounter aging installers and legacy software friction, offering a lens on how software ecosystems have evolved.",
+      "summary_zh": "这则关于盖茨尝试安装 2003 版《MovieMaker》的趣闻，折射出对早期消费级软件的怀旧情绪以及向后兼容性的挑战。即便是科技领袖也会遇到旧软件安装的摩擦，凸显了软件生态在演进过程中的不同侧面。",
+      "hn": {
+        "id": 49599481,
+        "type": "story",
+        "by": "highfrequency",
+        "score": 429,
+        "descendants": 290,
+        "time": 1788794823,
+        "comments_url": "https://news.ycombinator.com/item?id=49599481"
+      },
+      "tags": [
+        "Entertainment"
+      ],
+      "hot_score": 0.36
+    },
+    {
+      "title_en": "TALA Is Open-Source",
+      "url": "https://d2lang.com/blog/tala-is-open-source/",
+      "title_zh": "TALA 开源了",
+      "created_display": "Created: Sep 07, 2026 / 16:37 PT",
+      "image_url": "https://d2lang.com/img/opengraph.png",
+      "summary_en": "TALA is now open-source, inviting community contributions and transparent collaboration. The release likely includes source code, documentation, and examples that accelerate adoption and enable peer review.",
+      "summary_zh": "TALA 已宣布开源，欢迎社区贡献和透明协作。开源版本通常包含源代码、文档和示例，能加速采用并便于同行评审。",
+      "hn": {
+        "id": 49604150,
+        "type": "story",
+        "by": "alixanderwang",
+        "score": 313,
+        "descendants": 23,
+        "time": 1788824262,
+        "comments_url": "https://news.ycombinator.com/item?id=49604150"
+      },
+      "tags": [
+        "Open Source",
+        "Science"
+      ],
+      "hot_score": 0.36
+    },
+    {
+      "title_en": "Watch Los Angeles get built, one building at a time (1880–2026)",
+      "url": "https://lax-skyline.parcelscope.net/",
+      "title_zh": "洛杉矶天际线演变：从1880年到2026年，一座建筑的崛起",
+      "created_display": "Created: Sep 07, 2026 / 11:52 PT",
+      "image_url": null,
+      "summary_en": "An immersive visualization charts Los Angeles' skyline growth from 1880 to 2026, highlighting how waves of development reshaped the city. It provides a data-driven lens on urban growth, illustrating how policy, infrastructure, and housing booms interact to mold a modern megacity.",
+      "summary_zh": "通过数据驱动的时间序列可视化，展现洛杉矶自1880年以来的天际线如何在多轮开发中持续扩张。该作品揭示了政策、基础设施和住房繁荣如何共同作用，塑造了这座现代大都会的演变轨迹。",
+      "hn": {
+        "id": 49601655,
+        "type": "story",
+        "by": "rustywasm",
+        "score": 339,
+        "descendants": 183,
+        "time": 1788807126,
+        "comments_url": "https://news.ycombinator.com/item?id=49601655"
+      },
+      "tags": [
+        "Data",
+        "DevOps"
+      ],
+      "hot_score": 0.33
+    },
+    {
+      "title_en": "Leaving VMware just got harder after Broadcom pulled VDDK downloads",
+      "url": "https://www.virtualizationhowto.com/2026/09/leaving-vmware-just-got-harder-after-broadcom-pulled-vddk-downloads/",
+      "title_zh": "Broadcom 下架 VDDK 下载后，离开 VMware 更难",
+      "created_display": "Created: Sep 07, 2026 / 13:32 PT",
+      "image_url": "https://www.virtualizationhowto.com/wp-content/uploads/2026/09/vmware-vddk-downloads.png",
+      "summary_en": "Broadcom has pulled down VMware VDDK downloads, complicating exit strategies for customers looking to move away from VMware. VDDK (Virtual Disk Development Kit) underpins many backup, migration, and management tools, and losing easy access raises the cost and friction of departing a VMware-centric stack. Expect longer migration timelines and potential reevaluation of vendor dependencies.",
+      "summary_zh": "Broadcom 下架 VDDK 下载后，退出 VMware 的难度进一步上升。VDDK 是与 VMware 集成的关键工具之一，此举可能提高迁移成本并增加对原厂工具的依赖。",
+      "hn": {
+        "id": 49602699,
+        "type": "story",
+        "by": "josephcsible",
+        "score": 264,
+        "descendants": 155,
+        "time": 1788813175,
+        "comments_url": "https://news.ycombinator.com/item?id=49602699"
+      },
+      "tags": [
+        "Business"
+      ],
+      "hot_score": 0.27
+    },
+    {
+      "title_en": "My Feed, My Way",
+      "url": "https://www.pm.gov.au/media/my-feed-my-way",
+      "title_zh": "我的信息流，我的选择",
+      "created_display": "Created: Sep 07, 2026 / 22:10 PT",
+      "image_url": "https://www.pm.gov.au/themes/custom/pearly/images/logo-black.svg",
+      "summary_en": "Policy proposal giving Australians more control over their feeds, with transparency around algorithms and opt-out options. It highlights the government's effort to empower citizens to shape what they see online while balancing privacy and information diversity.",
+      "summary_zh": "政府提出让用户掌控信息流的政策，强调透明度、可定制化及可选择退出的权利。旨在在隐私与信息多样性之间取得平衡，并让公民能更主动地管理所见内容。",
+      "hn": {
+        "id": 49605782,
+        "type": "story",
+        "by": "dotcoma",
+        "score": 184,
+        "descendants": 155,
+        "time": 1788844236,
+        "comments_url": "https://news.ycombinator.com/item?id=49605782"
+      },
+      "tags": [
+        "Politics",
+        "Privacy"
+      ],
+      "hot_score": 0.27
+    },
+    {
+      "title_en": "How well do agents use test/verification techniques?",
+      "url": "https://danluu.com/agentic-testing/",
+      "title_zh": "代理如何高效使用测试/验证技术？",
+      "created_display": "Created: Sep 07, 2026 / 19:58 PT",
+      "image_url": null,
+      "summary_en": "This piece examines how AI agents leverage test and verification techniques, highlighting current gaps, practical tooling, and evaluation metrics. It argues that reliable verification remains hard, requiring systematic approaches to ensure outputs are trustworthy.",
+      "summary_zh": "文章探讨 AI 代理在测试与验证技术方面的应用，指出现有工具与评估方法的不足，以及实现可验证性所面临的挑战。文章强调需要系统性的方法来提升输出的可信度与鲁棒性。",
+      "hn": {
+        "id": 49605246,
+        "type": "story",
+        "by": "vinhnx",
+        "score": 185,
+        "descendants": 68,
+        "time": 1788836296,
+        "comments_url": "https://news.ycombinator.com/item?id=49605246"
+      },
+      "tags": [
+        "AI"
+      ],
+      "hot_score": 0.25
+    },
+    {
+      "title_en": "Emacs Bedrock 2.0",
+      "url": "https://lambdaland.org/posts/2026-09-06-bedrock-v2/",
+      "title_zh": "Emacs Bedrock 2.0",
+      "created_display": "Created: Sep 07, 2026 / 13:12 PT",
+      "image_url": null,
+      "summary_en": "Emacs Bedrock 2.0 updates the editor experience with streamlined startup, better defaults, and ergonomic improvements for power users. The release likely focuses on performance tuning and a more approachable onboarding for new users.",
+      "summary_zh": "Emacs Bedrock 2.0 对编辑器体验进行更新，提供更快启动、改进的默认设置以及更友好的高效工作体验。新版本关注性能优化与新手友好引导。",
+      "hn": {
+        "id": 49602490,
+        "type": "story",
+        "by": "ashton314",
+        "score": 188,
+        "descendants": 55,
+        "time": 1788811932,
+        "comments_url": "https://news.ycombinator.com/item?id=49602490"
+      },
+      "tags": [
+        "Programming",
+        "Startups"
+      ],
+      "hot_score": 0.19
+    },
+    {
+      "title_en": "Show HN: Stuxnet – A reconstructed source code of the infamous cyber-weapon",
+      "url": "https://github.com/Sadpainy/Stuxnet",
+      "title_zh": "Show HN：Stuxnet——臭名昭著网络武器的重建源码",
+      "created_display": "Created: Sep 07, 2026 / 15:12 PT",
+      "image_url": "https://opengraph.githubassets.com/497f54c571386e1be7253f0e53fecbf6618035358b5bf6efcd57c1a42b340343/Sadpainy/Stuxnet",
+      "summary_en": "A portion of Stuxnet's source code has been reconstructed and published on GitHub, offering researchers a rare peek into the malware's inner workings. The release illuminates the malware's modular design, multi-stage propagation, and PLC targeting that made it historically sophisticated. For security teams, it serves as a concrete reference point for building defenses and understanding exploit chains.",
+      "summary_zh": "公开了一部分 Stuxnet 的重建源码，研究者可以通过该代码更深入理解这起臭名昭著的网络武器的实现。发布揭示了该木马的模块化设计、分阶段传播及对 PLC 的定向攻击等要点，为防御研究提供了参考。",
+      "hn": {
+        "id": 49603546,
+        "type": "story",
+        "by": "CMDDestory",
+        "score": 173,
+        "descendants": 51,
+        "time": 1788819158,
+        "comments_url": "https://news.ycombinator.com/item?id=49603546"
+      },
+      "tags": [
+        "Show HN",
+        "Security",
+        "Programming"
+      ],
+      "hot_score": 0.19
+    },
+    {
+      "title_en": "The Helicopter with Radioactive Blades",
+      "url": "https://hackaday.com/2026/09/07/the-helicopter-with-radioactive-blades/",
+      "title_zh": "带放射性叶片的直升机",
+      "created_display": "Created: Sep 07, 2026 / 10:44 PT",
+      "image_url": "https://hackaday.com/wp-content/uploads/2026/09/CH-53D_Sea_Stallion_of_HMH-362_in_Afghanistan_on_26_May_2012.jpg",
+      "summary_en": "A curious look at a helicopter design featuring radioactive rotor blades, exploring the historical motivations, safety implications, and the physics behind why such designs were attempted.",
+      "summary_zh": "对一架使用放射性叶片的直升机进行探讨，涵盖当年的设计动机、安全隐患以及这类设计背后的物理原理。",
+      "hn": {
+        "id": 49600901,
+        "type": "story",
+        "by": "zdw",
+        "score": 192,
+        "descendants": 57,
+        "time": 1788803073,
+        "comments_url": "https://news.ycombinator.com/item?id=49600901"
+      },
+      "tags": [
+        "Science"
+      ],
+      "hot_score": 0.18
+    },
+    {
+      "title_en": "A Tesla ran a stop sign and killed a man, Full Self-Driving/Autopilot was on",
+      "url": "https://electrek.co/2026/09/07/tesla-driver-assist-stop-sign-buena-vista/",
+      "title_zh": "特斯拉闯停车标志致人死亡，自动驾驶/Autopilot 已开启",
+      "created_display": "Created: Sep 07, 2026 / 13:21 PT",
+      "image_url": "https://electrek.co/wp-content/uploads/sites/3/2022/09/Tesla-Full-Self-Driving-Beta-10.69-barrier.jpg?quality=82&strip=all&resize=1200,628",
+      "summary_en": "A fatal crash involving a Tesla with Full Self-Driving/Autopilot enabled has reignited safety concerns around driver-assistance systems. The incident highlights regulatory scrutiny, the need for clear disclosures about system status, and the challenges of fault attribution in mixed-autonomy scenarios.",
+      "summary_zh": "一起特斯拉在开启全自动驾驶/Autopilot 时闯停车标志致人死亡的事故，再度点燃对驾驶辅助系统的安全性关注。事件凸显监管审查、对系统状态透明度的需求，以及混合自动化场景下的责任认定挑战。",
+      "hn": {
+        "id": 49602582,
+        "type": "story",
+        "by": "FabHK",
+        "score": 167,
+        "descendants": 118,
+        "time": 1788812472,
+        "comments_url": "https://news.ycombinator.com/item?id=49602582"
+      },
+      "tags": [
+        "Politics"
+      ],
+      "hot_score": 0.17
+    }
+  ]
+}

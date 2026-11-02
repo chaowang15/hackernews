@@ -1,0 +1,1171 @@
+{
+  "meta": {
+    "mode": "best",
+    "source": "https://news.ycombinator.com/",
+    "api": "https://github.com/HackerNews/API",
+    "count_requested": 50,
+    "count_written": 50,
+    "reused_same_day": 0,
+    "reused_cross_day": 25,
+    "new_llm_enriched": 9,
+    "scrape_time_display": "06:16, August 12, 2026 (PDT)",
+    "timezone": "America/Los_Angeles",
+    "date_dir": "2026/08/11",
+    "content_date": "2026-08-11",
+    "run_time_local": "06:16, August 12, 2026 (PDT)",
+    "run_time_utc": "2026-08-12 13:16:17 UTC",
+    "incremental": true,
+    "stories_max": 50,
+    "hot_score_time_utc": "2026-08-12 13:17:18 UTC"
+  },
+  "items": [
+    {
+      "title_en": "Facebook is paying controversial creators to produce rage-bait content",
+      "url": "https://www.abc.net.au/news/2026-08-06/ragebait-how-facebook-is-paying-controversial-creators/106940696",
+      "title_zh": "Facebook 向具争议性的创作者支付收入以创作挑衅性内容",
+      "created_display": "Created: Aug 12, 2026 / 02:35 PT",
+      "image_url": "https://live-production.wcms.abc-cdn.net.au/181e08c853385e4663d404d34dbfb1df?impolicy=wcms_watermark_news&cropH=766&cropW=1362&xPos=379&yPos=202&width=862&height=485&imformat=generic",
+      "summary_en": "Meta reportedly pays controversial creators to produce rage-inducing content to boost engagement. The arrangement highlights how creator monetization incentives can conflict with platform responsibility and the risk of amplifying polarizing or harmful material.",
+      "summary_zh": "据报道，Facebook/Meta 向具争议性的创作者支付收入，以创作挑衅性内容来提升互动率。这一做法揭示了创作者收入激励与平台责任之间的冲突，以及放大极化和有害内容的风险。",
+      "hn": {
+        "id": 49269818,
+        "type": "story",
+        "by": "robtherobber",
+        "score": 277,
+        "descendants": 148,
+        "time": 1786527330,
+        "comments_url": "https://news.ycombinator.com/item?id=49269818"
+      },
+      "hot_score": 12.04,
+      "tags": [
+        "Business"
+      ]
+    },
+    {
+      "title_en": "LinkedIn CringeBot 3000",
+      "url": "https://www.cringebot3000.com/",
+      "title_zh": "领英尴尬机器人 3000",
+      "created_display": "Created: Aug 11, 2026 / 23:30 PT",
+      "image_url": "https://www.cringebot3000.com/centered_cringebot_face.jpg",
+      "summary_en": "A bot named LinkedIn CringeBot 3000 that automates cringe-worthy LinkedIn posts. It serves as a tongue-in-cheek look at social media automation and the allure of flashy, shareable content.",
+      "summary_zh": "一个自称为 LinkedIn CringeBot 3000 的机器人自动生成让人尴尬的领英帖子，讽刺了社交媒体自动化与追逐高曝光度内容的趋势。",
+      "hn": {
+        "id": 49268564,
+        "type": "story",
+        "by": "theanonymousone",
+        "score": 360,
+        "descendants": 141,
+        "time": 1786516249,
+        "comments_url": "https://news.ycombinator.com/item?id=49268564"
+      },
+      "hot_score": 7.2,
+      "tags": [
+        "Programming"
+      ]
+    },
+    {
+      "title_en": "llama.cpp",
+      "url": "https://llama.app",
+      "title_zh": "llama.cpp 项目",
+      "created_display": "Created: Aug 11, 2026 / 21:51 PT",
+      "image_url": "https://llama.app/og-image-llama-cpp.png",
+      "summary_en": "llama.cpp is an open-source project that enables running Meta's LLaMA models efficiently on CPU with minimal dependencies. It unlocks offline AI use cases and makes local inference accessible without GPUs, which matters for privacy-focused developers and hobbyists alike. It also broadens access for researchers and small teams.",
+      "summary_zh": "llama.cpp 是一个开源项目，使 LLaMA 模型能够在 CPU 上高效运行，依赖尽量精简。它为离线 AI 场景提供了可行性，便于在没有 GPU 的本地环境中推理，并扩大了研究者与小团队的接触面。",
+      "hn": {
+        "id": 49267928,
+        "type": "story",
+        "by": "kristianpaul",
+        "score": 294,
+        "descendants": 126,
+        "time": 1786510319,
+        "comments_url": "https://news.ycombinator.com/item?id=49267928"
+      },
+      "tags": [
+        "AI",
+        "Open Source",
+        "Privacy",
+        "Hardware"
+      ],
+      "hot_score": 4.31
+    },
+    {
+      "title_en": "Compression is prediction",
+      "url": "https://ngrok.com/blog/compression-is-prediction",
+      "title_zh": "压缩即预测",
+      "created_display": "Created: Aug 11, 2026 / 12:49 PT",
+      "image_url": "https://ngrok.com/blog-assets/images/2026-08-11-compression-is-prediction/og.png",
+      "summary_en": "Data compression is fundamentally about predicting the next symbol; improving a compressor equates to a better predictor.",
+      "summary_zh": "数据压缩本质上是对下一个符号的预测；提升压缩效果等同于改进预测能力。这一观点对机器学习、数据存储与推理具有实际启示，适用于希望把压缩思路融入模型设计的开发者。",
+      "hn": {
+        "id": 49263497,
+        "type": "story",
+        "by": "nikolay",
+        "score": 592,
+        "descendants": 242,
+        "time": 1786477784,
+        "comments_url": "https://news.ycombinator.com/item?id=49263497"
+      },
+      "tags": [
+        "Data"
+      ],
+      "hot_score": 2.83
+    },
+    {
+      "title_en": "France to ban unsolicited telemarketing calls",
+      "url": "https://www.lemonde.fr/en/france/article/2026/08/06/france-to-ban-unsolicited-telemarketing-calls-from-august-11_6756208_7.html",
+      "title_zh": "法国将全面禁止未经同意的电话推销",
+      "created_display": "Created: Aug 11, 2026 / 01:15 PT",
+      "image_url": "https://www.lemonde.fr/_fs-ch-1T1wmsGaOgGaSxcX/assets/errorIcon.svg",
+      "summary_en": "France plans to ban unsolicited telemarketing calls starting August 11, tightening consumer protection. The policy could reshape how marketers reach customers, boosting opt-in channels and call-blocking solutions.",
+      "summary_zh": "法国将于11日起全面禁止未经请求的电话推销，强化对消费者隐私的保护。该举措可能促使企业转向获同意的联系渠道，并影响营销行业的电话营销策略。",
+      "hn": {
+        "id": 49254880,
+        "type": "story",
+        "by": "aziaziazi",
+        "score": 1035,
+        "descendants": 487,
+        "time": 1786436146,
+        "comments_url": "https://news.ycombinator.com/item?id=49254880"
+      },
+      "tags": [
+        "Politics",
+        "Privacy"
+      ],
+      "hot_score": 2.14
+    },
+    {
+      "title_en": "Stealing Reasoning Traces from Proprietary LLM APIs",
+      "url": "https://stolen-thoughts.com/",
+      "title_zh": "从专有大语言模型 API 窃取推理痕迹",
+      "created_display": "Created: Aug 11, 2026 / 06:22 PT",
+      "image_url": "https://stolen-thoughts.com/assets/fig1-extraction-fidelity.svg",
+      "summary_en": "Researchers demonstrate that proprietary LLM APIs can leak traces of reasoning, exposing intermediate prompts and steps. This raises privacy and security concerns about using hosted models and underscores the need for defenses against leakage.",
+      "summary_zh": "研究者展示了专有大语言模型 API 可能泄露推理痕迹，暴露中间提示和推理步骤。这对使用托管模型的隐私与安全构成挑战，凸显防止信息泄露的必要性。",
+      "hn": {
+        "id": 49257876,
+        "type": "story",
+        "by": "quantumgarbage",
+        "score": 650,
+        "descendants": 291,
+        "time": 1786454520,
+        "comments_url": "https://news.ycombinator.com/item?id=49257876"
+      },
+      "tags": [
+        "Security",
+        "Privacy",
+        "AI"
+      ],
+      "hot_score": 1.85
+    },
+    {
+      "title_en": "Company Offering '100% Human-Written, Never AI' Medical Research Is 100% AI",
+      "url": "https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai/",
+      "title_zh": "声称‘100% 人工撰写、从不使用 AI’ 的医学研究公司 实际上 全部由 AI 生成",
+      "created_display": "Created: Aug 11, 2026 / 19:05 PT",
+      "image_url": "https://images.unsplash.com/photo-1581093577421-f561a654a353?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDExfHxyZXNlYXJjaGVyfGVufDB8fHx8MTc4NjM2OTE1Mnww&ixlib=rb-4.1.0&q=80&w=2000",
+      "summary_en": "A company claiming to publish '100% human-written, never AI' medical research is revealed to be entirely AI-generated. The revelation underscores risks of misleading scientific communication and pressures on peer review.",
+      "summary_zh": "一家公司声称提供‘100% 人工撰写、从不使用 AI’ 的医学研究，但事实却是全部由 AI 生成。这一发现突显了科学传播中的误导风险，以及对同行评审体系的压力。",
+      "hn": {
+        "id": 49267057,
+        "type": "story",
+        "by": "Anon84",
+        "score": 184,
+        "descendants": 43,
+        "time": 1786500342,
+        "comments_url": "https://news.ycombinator.com/item?id=49267057"
+      },
+      "hot_score": 1.76,
+      "tags": [
+        "AI",
+        "Science",
+        "Health"
+      ]
+    },
+    {
+      "title_en": "New Bedford police officer accused of using Flock cameras to track ex-partner",
+      "url": "https://newbedfordlight.org/new-bedford-police-officer-accused-of-using-flock-cameras-to-track-and-follow-ex-romantic-partner/",
+      "title_zh": "新贝德福德警官被指控使用 Flock 摄像头追踪前伴侣",
+      "created_display": "Created: Aug 11, 2026 / 18:42 PT",
+      "image_url": "https://newbedfordlight.org/wp-content/uploads/2026/08/flock-officer-2.jpg",
+      "summary_en": "An officer from New Bedford is accused of abusing Flock camera feeds to monitor an ex-partner. The case raises concerns about surveillance network governance and potential misuse by law enforcement.",
+      "summary_zh": "新贝德福德的一名警官被控滥用 Flock 摄像头监视前伴侣。这一案件突显了监控网络的治理不足和执法部门可能的滥用风险。",
+      "hn": {
+        "id": 49266899,
+        "type": "story",
+        "by": "newsomix9xl",
+        "score": 187,
+        "descendants": 87,
+        "time": 1786498966,
+        "comments_url": "https://news.ycombinator.com/item?id=49266899"
+      },
+      "hot_score": 1.7,
+      "tags": [
+        "Privacy",
+        "Legal"
+      ]
+    },
+    {
+      "title_en": "Mojo 1.0",
+      "url": "https://www.modular.com/blog/modular-26-5-mojo-1-0-is-here",
+      "title_zh": "Mojo 1.0 发布",
+      "created_display": "Created: Aug 11, 2026 / 09:56 PT",
+      "image_url": "https://cdn.prod.website-files.com/68c9c3107effc2ea46e1a82c/6a7b1bf1bd5b664c84aac08f_Blog-26.5-sm.jpeg",
+      "summary_en": "Modular announces Mojo 1.0, marking the language's transition from preview to a stable release. Mojo combines Python-like ergonomics with a systems-level performance model, targeting AI/ML workloads and high-throughput apps, with a growing toolchain and libraries.",
+      "summary_zh": "Modular 宣布 Mojo 1.0 正式发布，标志着这门面向 AI/ML 及高吞吐场景的系统编程语言进入稳定阶段。Mojo 将 Python 式易用性与系统级性能结合，伴随逐步完善的工具链与库，旨在提升开发效率与运行效率。",
+      "hn": {
+        "id": 49261128,
+        "type": "story",
+        "by": "dayanruben",
+        "score": 407,
+        "descendants": 207,
+        "time": 1786467406,
+        "comments_url": "https://news.ycombinator.com/item?id=49261128"
+      },
+      "tags": [
+        "Programming",
+        "AI"
+      ],
+      "hot_score": 1.51
+    },
+    {
+      "title_en": "England set to be one of the first countries to eliminate hepatitis C",
+      "url": "https://www.bbc.com/news/articles/c75gk620r22o",
+      "title_zh": "英格兰有望成为首批根除丙型肝炎的国家之一",
+      "created_display": "Created: Aug 11, 2026 / 05:41 PT",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/f1b4/live/9d52a710-94e4-11f1-a7ab-8b30adf0800a.jpg",
+      "summary_en": "England is poised to become one of the first countries to eliminate hepatitis C, a milestone driven by broad screening and highly effective antiviral treatments. If achieved, it would validate scalable public-health strategies and could influence targets for other nations facing HCV challenges.",
+      "summary_zh": "英格兰有望成为首批根除丙型肝炎的国家之一，这一成就依赖广泛筛查和高效抗病毒治疗的组合。若实现，将验证可复制的公共卫生策略，并可能激励其他国家设定相似目标。",
+      "hn": {
+        "id": 49257377,
+        "type": "story",
+        "by": "stevekemp",
+        "score": 545,
+        "descendants": 391,
+        "time": 1786452119,
+        "comments_url": "https://news.ycombinator.com/item?id=49257377"
+      },
+      "tags": [
+        "Health"
+      ],
+      "hot_score": 1.48
+    },
+    {
+      "title_en": "Go is an ideal language for AI-assisted software engineering",
+      "url": "https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/",
+      "title_zh": "为何 Go 是 AI 辅助软件工程的理想语言",
+      "created_display": "Created: Aug 11, 2026 / 09:57 PT",
+      "image_url": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/Go_Logo_-_Blue.2e16d0ba.fill-1200x600.png",
+      "summary_en": "Go's simplicity, strong concurrency, fast compilation, and reliability make it well-suited for building AI-assisted software tooling, such as code analysis, automations, and integration pipelines. The post argues Go's ecosystem and predictable performance help teams ship AI-powered developer tools with fewer surprises.",
+      "summary_zh": "Go 的简洁性、强大的并发模型、快速编译和稳定性使其非常适合构建 AI 辅助的开发工具，如代码分析、自动化和集成管道。文章认为 Go 的生态和可预测性能有助于团队更稳妥地发布 AI 驱动的开发者工具。",
+      "hn": {
+        "id": 49261133,
+        "type": "story",
+        "by": "0xedb",
+        "score": 397,
+        "descendants": 456,
+        "time": 1786467429,
+        "comments_url": "https://news.ycombinator.com/item?id=49261133"
+      },
+      "tags": [
+        "Programming",
+        "AI"
+      ],
+      "hot_score": 1.48
+    },
+    {
+      "title_en": "WorldClaw Agentic 3D open-world generation at scale",
+      "url": "https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw/",
+      "title_zh": "WorldClaw Agentic：大规模3D开放世界生成",
+      "created_display": "Created: Aug 11, 2026 / 14:56 PT",
+      "image_url": "https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw/assets/worldclaw-share.jpg",
+      "summary_en": "WorldClaw Agentic introduces scalable 3D open-world generation powered by AI agents. It demonstrates a pipeline for large-scale content creation, streaming, and dynamic world building suitable for games, simulations, or metaverse platforms; the key takeaway is the role of agentic AI in automating complex, scalable environments.",
+      "summary_zh": "WorldClaw Agentic 展示了利用 AI 代理实现的大规模3D开放世界生成。该方案面向游戏、仿真和元宇宙等对海量内容需求场景，强调了自动化、可扩展的世界构建与内容流的潜在价值。",
+      "hn": {
+        "id": 49265051,
+        "type": "story",
+        "by": "EwanG",
+        "score": 253,
+        "descendants": 75,
+        "time": 1786485378,
+        "comments_url": "https://news.ycombinator.com/item?id=49265051"
+      },
+      "tags": [
+        "AI",
+        "Gaming"
+      ],
+      "hot_score": 1.48
+    },
+    {
+      "title_en": "OpenAI’s head of ethics leaves less than a year after joining",
+      "url": "https://www.ft.com/content/e49dfb75-f841-4466-a577-f7aaff8779a0",
+      "title_zh": "OpenAI 道德与伦理主管任职不足一年即离职",
+      "created_display": "Created: Aug 11, 2026 / 05:23 PT",
+      "image_url": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F9c0f12b6-f040-44b5-96a2-4c1e7ec6bd1d.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
+      "summary_en": "OpenAI's chief ethics officer resigns after less than a year, signaling volatility in steering responsible AI at a leading lab. The move may recalibrate internal governance and external trust around AI safety, policy, and company commitments.",
+      "summary_zh": "OpenAI 的伦理负责人在不到一年任期后离职，揭示这家研究机构在负责任 AI 的治理上面临的变动。此举可能影响内部治理与外部对 AI 安全、政策与承诺的信任度。",
+      "hn": {
+        "id": 49257160,
+        "type": "story",
+        "by": "ilamont",
+        "score": 477,
+        "descendants": 447,
+        "time": 1786450987,
+        "comments_url": "https://news.ycombinator.com/item?id=49257160"
+      },
+      "tags": [
+        "Politics",
+        "AI"
+      ],
+      "hot_score": 1.27
+    },
+    {
+      "title_en": "CFTC declares market emergency, orders Kalshi to continue to operate in New York",
+      "url": "https://www.cftc.gov/PressRoom/PressReleases/9281-26",
+      "title_zh": "CFTC 宣布市场紧急状态，命令 Kalshi 在纽约继续运营",
+      "created_display": "Created: Aug 11, 2026 / 17:17 PT",
+      "image_url": "https://www.cftc.gov/sites/default/files/2025/06/1750109430/cftc-logo-square.png",
+      "summary_en": "The CFTC has invoked emergency authority to ensure Kalshi can keep operating in New York amid market disruptions. The move underscores how regulators manage access to emerging event-based trading platforms while preserving market integrity.",
+      "summary_zh": "美国商品期货交易委员会宣布在市场混乱时行使紧急权力，确保 Kalshi 能在纽约继续运营。此举凸显监管机构在新兴事件驱动交易平台的准入与市场完整性之间的权衡。",
+      "hn": {
+        "id": 49266277,
+        "type": "story",
+        "by": "michaefe",
+        "score": 163,
+        "descendants": 133,
+        "time": 1786493879,
+        "comments_url": "https://news.ycombinator.com/item?id=49266277"
+      },
+      "hot_score": 1.24,
+      "tags": [
+        "Finance",
+        "Legal",
+        "Politics"
+      ]
+    },
+    {
+      "title_en": "Grok Bot",
+      "url": "https://x.ai/bot",
+      "title_zh": "Grok Bot",
+      "created_display": "Created: Aug 11, 2026 / 10:23 PT",
+      "image_url": "https://x.ai/images/news/introducing-grok-bot-og-2.png",
+      "summary_en": "Grok Bot is an AI assistant from X.AI designed to handle emails, scheduling, and other productivity tasks with natural language understanding and proactive suggestions.",
+      "summary_zh": "Grok Bot 是 X.AI 推出的 AI 助手，能够通过自然语言理解处理电子邮件、日程等生产力任务，并提供主动建议。",
+      "hn": {
+        "id": 49261514,
+        "type": "story",
+        "by": "rvz",
+        "score": 318,
+        "descendants": 291,
+        "time": 1786468989,
+        "comments_url": "https://news.ycombinator.com/item?id=49261514"
+      },
+      "tags": [
+        "AI"
+      ],
+      "hot_score": 1.23
+    },
+    {
+      "title_en": "As AI eats the web, the internet’s collective memory is disappearing",
+      "url": "https://thewalrus.ca/google-search-is-dying/",
+      "title_zh": "随着 AI 吃掉网络，互联网的集体记忆正在消失",
+      "created_display": "Created: Aug 10, 2026 / 15:36 PT",
+      "image_url": null,
+      "summary_en": "As AI consumes more of the web, the internet’s collective memory is thinning. The piece argues that pervasive AI crawling and caching threaten provenance and long-term memory, complicating future search and verification. It calls for durable archiving and mindful data sourcing.",
+      "summary_zh": "随着 AI 越学越多地抓取网络，互联网的集体记忆正在变薄。文章指出 AI 抓取与缓存的长期可追溯性下降，影响可验证的知识来源。呼吁加强长期存档和负责任的数据获取。",
+      "hn": {
+        "id": 49250836,
+        "type": "story",
+        "by": "awnird",
+        "score": 910,
+        "descendants": 937,
+        "time": 1786401390,
+        "comments_url": "https://news.ycombinator.com/item?id=49250836"
+      },
+      "tags": [
+        "Data",
+        "Privacy",
+        "AI"
+      ],
+      "hot_score": 1.15
+    },
+    {
+      "title_en": "Nvidia Nemotron 3.5 Lightning and NeMo Switchyard",
+      "url": "https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx/",
+      "title_zh": "英伟达 Nemotron 3.5 Lightning 与 NeMo Switchyard",
+      "created_display": "Created: Aug 11, 2026 / 12:35 PT",
+      "image_url": "https://blogs.nvidia.com/wp-content/uploads/2026/08/image1.jpeg",
+      "summary_en": "Nvidia expands Nemotron 3.5 with Lightning and introduces NeMo Switchyard to improve deployment and orchestration for AI workloads across DGX clusters. The update emphasizes streamlined model serving, unified management, and higher throughput for large-scale inference. For enterprises building AI-powered apps, it suggests a more integrated, scalable path from model development to production.",
+      "summary_zh": "英伟达推出 Nemotron 3.5 的 Lightning 版本并引入 NeMo Switchyard，优化在 DGX 集群上的 AI 部署与编排。升级聚焦统一管理、提升推理吞吐，帮助企业将模型从开发到生产的落地更高效。",
+      "hn": {
+        "id": 49263340,
+        "type": "story",
+        "by": "droidjj",
+        "score": 242,
+        "descendants": 123,
+        "time": 1786476952,
+        "comments_url": "https://news.ycombinator.com/item?id=49263340"
+      },
+      "tags": [
+        "AI",
+        "DevOps"
+      ],
+      "hot_score": 1.13
+    },
+    {
+      "title_en": "Woman pulled over twice after Flock-linked software connected her to homicide",
+      "url": "https://guessingheadlights.com/yall-failed-me-woman-pulled-over-at-gunpoint-twice-after-flock-camera-glitch/",
+      "title_zh": "Flock 系统误将她与凶杀案相关联，导致她两次被拦下",
+      "created_display": "Created: Aug 11, 2026 / 10:02 PT",
+      "image_url": "https://guessingheadlights.com/wp-content/uploads/2026/08/Guessing-Headlights-Viral-89.png",
+      "summary_en": "A woman says a Flock surveillance alert linked her to a homicide, leading to two police stops. The incident highlights the risk of misidentification in automated policing tools and the real-world consequences for civilians.",
+      "summary_zh": "一名女性称，Flock 监控系统的警报将她与一起凶杀案相关联，导致她两次被警方拦下。这一事件凸显了自动化警务工具在误识别方面的风险，以及对平民造成的现实后果。",
+      "hn": {
+        "id": 49261218,
+        "type": "story",
+        "by": "cdrnsf",
+        "score": 255,
+        "descendants": 232,
+        "time": 1786467779,
+        "comments_url": "https://news.ycombinator.com/item?id=49261218"
+      },
+      "hot_score": 0.96,
+      "tags": [
+        "Privacy",
+        "Legal"
+      ]
+    },
+    {
+      "title_en": "Apple Silicon and macOS VMs: Faster LLM Inference with llama.cpp",
+      "url": "https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md",
+      "title_zh": "Apple Silicon 与 macOS 虚拟机：借助 llama.cpp 实现更快的 LLM 推理",
+      "created_display": "Created: Aug 11, 2026 / 07:50 PT",
+      "image_url": "https://opengraph.githubassets.com/cd831ac511183cbabd8d9359bbf0cdbd499329fb0257b497795ad7c264beec61/trycua/cua",
+      "summary_en": "Apple Silicon machines running macOS VMs can use GPU passthrough to speed up LLM inference with llama.cpp. The setup shows how Macs can squeeze more AI throughput for local or private-cloud workflows, though it comes with VM stability and driver caveats. Practical tips and pitfalls accompany the approach for developers exploring on-device AI.",
+      "summary_zh": "在 Apple Silicon 的 Mac 上，通过为 macOS 虚拟机启用 GPU 直通，可以用 llama.cpp 加速大语言模型推理。这种方案展示了在 Mac 上提升 AI 处理能力的可行性，便于实现本地化或私有云推理。实施中的现实挑战包括虚拟机稳定性、驱动兼容性以及功耗与散热等问题。",
+      "hn": {
+        "id": 49259339,
+        "type": "story",
+        "by": "frabonacci",
+        "score": 297,
+        "descendants": 43,
+        "time": 1786459833,
+        "comments_url": "https://news.ycombinator.com/item?id=49259339"
+      },
+      "hot_score": 0.94,
+      "tags": [
+        "AI",
+        "Programming",
+        "Hardware"
+      ]
+    },
+    {
+      "title_en": "The UK's war on anonymity has come to America",
+      "url": "https://www.effort.news/uk-lobby",
+      "title_zh": "英国对匿名性的打压蔓延至美国",
+      "created_display": "Created: Aug 10, 2026 / 16:45 PT",
+      "image_url": "https://www.effort.news/images/article-graphics/uk-lobby/reset-bipartite-graph-cover.png",
+      "summary_en": "A UK-style push to curb online anonymity is gaining traction in the US, with lawmakers favoring identity verification and traceability. The move signals a broader shift toward user accountability that could reshape platform moderation, data sharing, and civil liberties. For technologists, the takeaway is that privacy-centered design may need stronger defaults and clearer opt-outs.",
+      "summary_zh": "英国对匿名性的打压正在美国获得关注，立法者日益支持身份核验和可追溯性。此举预示着向用户问责的全球性潮流，可能影响平台治理、数据共享和公民自由。对技术人来说，隐私友好设计需要更强的默认保护与清晰的选择权。",
+      "hn": {
+        "id": 49251411,
+        "type": "story",
+        "by": "slowin",
+        "score": 652,
+        "descendants": 748,
+        "time": 1786405550,
+        "comments_url": "https://news.ycombinator.com/item?id=49251411"
+      },
+      "tags": [
+        "Privacy",
+        "Politics"
+      ],
+      "hot_score": 0.87
+    },
+    {
+      "title_en": "London Underground begins scanning passengers' faces",
+      "url": "https://www.btp.police.uk/news/btp/news/england/btp-expands-live-facial-recognition-lfr-trial-into-london-underground-stations/",
+      "title_zh": "伦敦地铁开始对乘客进行人脸扫描",
+      "created_display": "Created: Aug 11, 2026 / 02:40 PT",
+      "image_url": null,
+      "summary_en": "Live facial recognition trials expand in London Underground, raising civil-liberties concerns about surveillance, data privacy, and false positives in real-world transit settings.",
+      "summary_zh": "伦敦地铁的现场人脸识别试验扩大，引发关于监控、数据隐私和误判等在真实交通场景中的民权与隐私担忧。",
+      "hn": {
+        "id": 49255496,
+        "type": "story",
+        "by": "BlueBerry2001",
+        "score": 359,
+        "descendants": 472,
+        "time": 1786441202,
+        "comments_url": "https://news.ycombinator.com/item?id=49255496"
+      },
+      "tags": [
+        "Privacy",
+        "Politics"
+      ],
+      "hot_score": 0.8
+    },
+    {
+      "title_en": "Nvidia's Risky Business",
+      "url": "https://stratechery.com/2026/nvidias-risky-business/",
+      "title_zh": "英伟达的高风险商业策略",
+      "created_display": "Created: Aug 11, 2026 / 03:02 PT",
+      "image_url": "https://s0.wp.com/_si/?t=eyJpbWciOiJodHRwczpcL1wvaTAud3AuY29tXC9zdHJhdGVjaGVyeS5jb21cL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMThcLzAzXC9jcm9wcGVkLWFuZHJvaWQtY2hyb21lLTUxMng1MTItMS5wbmc_Zml0PTUxMiUyQzUxMiZzc2w9MSIsInR4dCI6IlN0cmF0ZWNoZXJ5IGJ5IEJlbiBUaG9tcHNvbiIsInRlbXBsYXRlIjoiZWRnZSIsImZvbnQiOiIiLCJibG9nX2lkIjoxODgwNDM0MTV9.5VWck4PcKPWCTPe_HVznn3n3xsgn-G0b3d2OeiNNC7cMQ",
+      "summary_en": "Stratechery argues that Nvidia’s aggressive bets on AI compute demand, expanding software ecosystems, and potential regulatory scrutiny are high-stakes moves. The upside is market leadership, but margins could compress if demand softens or competitors erode the moat.",
+      "summary_zh": "Stratechery 指出英伟达在 AI 计算需求、软件生态扩张以及潜在监管压力等方面的高风险布局。若需求减弱或竞争加剧，利润率可能承压；但也有通过成为 AI 基础设施核心而维持领先地位的潜力。",
+      "hn": {
+        "id": 49255710,
+        "type": "story",
+        "by": "jonbaer",
+        "score": 342,
+        "descendants": 168,
+        "time": 1786442520,
+        "comments_url": "https://news.ycombinator.com/item?id=49255710"
+      },
+      "tags": [
+        "Business",
+        "Finance",
+        "AI",
+        "Politics"
+      ],
+      "hot_score": 0.78
+    },
+    {
+      "title_en": "Making holograms with a pen plotter",
+      "url": "https://blog.jordan.matelsky.com/Penplotter-holography/",
+      "title_zh": "用笔绘图机制作全息图",
+      "created_display": "Created: Aug 11, 2026 / 11:51 PT",
+      "image_url": "https://avatars0.githubusercontent.com/u/693511?v=3&s=460",
+      "summary_en": "A maker demonstrates how a standard pen plotter can be repurposed to generate holographic light patterns, illustrating accessible DIY optics that blend hardware hacking with creative visuals.",
+      "summary_zh": "一位创客展示如何将普通的笔绘图机改造成产生全息光场的设备，演示开源硬件在光学实验中的潜力。该项目降低了 DIY 全息成像的门槛，或为教育与创意展示提供新思路。",
+      "hn": {
+        "id": 49262811,
+        "type": "story",
+        "by": "DemiGuru",
+        "score": 172,
+        "descendants": 18,
+        "time": 1786474295,
+        "comments_url": "https://news.ycombinator.com/item?id=49262811"
+      },
+      "tags": [
+        "Hardware"
+      ],
+      "hot_score": 0.75
+    },
+    {
+      "title_en": "H3-metal – Native MiniMax-H3 inference for Apple Silicon",
+      "url": "https://github.com/antirez/h3.c",
+      "title_zh": "H3-metal — 面向 Apple Silicon 的本地 MiniMax-H3 推理",
+      "created_display": "Created: Aug 10, 2026 / 18:22 PT",
+      "image_url": "https://opengraph.githubassets.com/82307ef7c3586906c8134620f66638f2035dae0e3bb5540abe159774ad0fe46e/antirez/h3.c",
+      "summary_en": "Native MiniMax-H3 inference runs directly on Apple Silicon via H3-metal. It targets efficient, GPU-accelerated performance for H3 workloads on macOS, reducing cross-OS friction and CPU load. This is relevant for developers who want local, fast inference on Macs.",
+      "summary_zh": "H3-metal 将 MiniMax-H3 的推理本地化到 Apple Silicon，借助 Metal 加速实现更高效的推理。目标是在 macOS 上提供更高效的推理性能，减少跨平台移植的负担和 CPU 开销。对于需要在 Mac 上本地快速处理 H3 相关工作流的开发者尤为有用。",
+      "hn": {
+        "id": 49252179,
+        "type": "story",
+        "by": "swyx",
+        "score": 431,
+        "descendants": 95,
+        "time": 1786411329,
+        "comments_url": "https://news.ycombinator.com/item?id=49252179"
+      },
+      "tags": [
+        "AI",
+        "Hardware"
+      ],
+      "hot_score": 0.62
+    },
+    {
+      "title_en": "More than 10 firms pay up to $100k a month for access to Truth Social posts",
+      "url": "https://www.bbc.com/news/articles/ce3q5nxpgk1o",
+      "title_zh": "超过十家公司每月最高支付十万美元获取 Truth Social 帖子访问权限",
+      "created_display": "Created: Aug 11, 2026 / 02:57 PT",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/391a/live/f6f964e0-9514-11f1-976d-475167c7f6ea.jpg",
+      "summary_en": "More than ten firms pay up to $100,000 a month for access to Truth Social posts to monitor sentiment and trends. This reveals opaque data-access practices on fringe networks and raises privacy and ethics questions for brands and researchers.",
+      "summary_zh": "超过十家企业为获取 Truth Social 帖子访问权，月费高达十万美元，以监控情感与趋势。这一做法揭示了小众网络的数据访问模式的隐蔽性，并对品牌与研究机构的隐私与伦理提出质疑。",
+      "hn": {
+        "id": 49255672,
+        "type": "story",
+        "by": "whosgotch",
+        "score": 261,
+        "descendants": 300,
+        "time": 1786442234,
+        "comments_url": "https://news.ycombinator.com/item?id=49255672"
+      },
+      "hot_score": 0.59,
+      "tags": [
+        "Privacy",
+        "Data",
+        "Business"
+      ]
+    },
+    {
+      "title_en": "Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models",
+      "url": "https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878",
+      "title_zh": "扎克伯格抨击封闭 AI 对手，Meta 重回开放模型",
+      "created_display": "Created: Aug 10, 2026 / 07:06 PT",
+      "image_url": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F8b2e6973-50e7-406b-8076-5605a762cb0f.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
+      "summary_en": "Mark Zuckerberg frames Meta’s pivot toward open-weight AI models as a stance against closed rivals, signaling a push for open standards and modular AI. The move underscores the industry tension between proprietary systems and open collaboration.",
+      "summary_zh": "马克·扎克伯格将 Meta 的策略定位为对抗封闭式 AI 竞争对手，推动采用开放权重模型。此举体现了对开放标准与模块化 AI 的重视，以及行业在开放与封闭之间的博弈。",
+      "hn": {
+        "id": 49243880,
+        "type": "story",
+        "by": "root-parent",
+        "score": 636,
+        "descendants": 598,
+        "time": 1786370782,
+        "comments_url": "https://news.ycombinator.com/item?id=49243880"
+      },
+      "tags": [
+        "AI",
+        "Business"
+      ],
+      "hot_score": 0.57
+    },
+    {
+      "title_en": "Tl;dv: Over 180k meetings left wide open",
+      "url": "https://bobdahacker.com/blog/tldv-hack",
+      "title_zh": "Tl;dv：超过18万次会议被暴露",
+      "created_display": "Created: Aug 10, 2026 / 05:26 PT",
+      "image_url": "https://bobdahacker.com/static/images/blogs/tldv/blogHeader.png",
+      "summary_en": "Tl;dv reveals that over 180,000 meetings were left exposed due to misconfigured access controls, raising concerns about the privacy of meeting transcripts.",
+      "summary_zh": "Tl;dv 指出有超过 18 万场会议因访问控制配置不当而暴露，凸显会议记录隐私的潜在风险。",
+      "hn": {
+        "id": 49242739,
+        "type": "story",
+        "by": "colesantiago",
+        "score": 622,
+        "descendants": 206,
+        "time": 1786364765,
+        "comments_url": "https://news.ycombinator.com/item?id=49242739"
+      },
+      "tags": [
+        "Privacy",
+        "Security"
+      ],
+      "hot_score": 0.53
+    },
+    {
+      "title_en": "Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots",
+      "url": "https://cactuscompute.com/needle",
+      "title_zh": "Needle2：14MB 的设备端智能代理型大模型",
+      "created_display": "Created: Aug 10, 2026 / 10:22 PT",
+      "image_url": "https://cactuscompute.com/opengraph-image?9df76a35fe8276e2",
+      "summary_en": "Needle2 is a 14MB agentic LLM designed for phones, wearables, smart home devices, and robots, enabling on-device autonomous agents. It emphasizes privacy, low latency, and edge personalization by running entirely locally. Takeaway: ultra-compact LLMs are unlocking on-device AI for consumer devices.",
+      "summary_zh": "Needle2 是一款面向手机、穿戴设备、智能家居和机器人等设备端运行的14MB代理型大模型，能够在本地实现自主代理。它强调隐私、低延迟和边缘个性化。要点在于超小模型正在推动边缘端 AI 的落地。",
+      "hn": {
+        "id": 49246804,
+        "type": "story",
+        "by": "HenryNdubuaku",
+        "score": 522,
+        "descendants": 176,
+        "time": 1786382527,
+        "comments_url": "https://news.ycombinator.com/item?id=49246804"
+      },
+      "tags": [
+        "AI",
+        "Privacy",
+        "Show HN"
+      ],
+      "hot_score": 0.53
+    },
+    {
+      "title_en": "How Claude marks AI-generated content",
+      "url": "https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content",
+      "title_zh": "Claude 如何标注 AI 生成的内容",
+      "created_display": "Created: Aug 10, 2026 / 14:36 PT",
+      "image_url": "https://downloads.intercomcdn.com/i/o/lupk8zyo/792494/717b10d3ebd874823db64841659b/76f3062d78ebbb04863fb1de3ef9cca0.png",
+      "summary_en": "Claude marks AI-generated content with explicit labeling to help users distinguish AI from human authors. This transparency can improve trust and guide moderation in mixed workflows, from content creation to Q&A. The takeaway: look for clear AI-origin cues in Claude outputs.",
+      "summary_zh": "Claude 将 AI 生成的内容以明确标签标注，帮助用户区分人类与机器作者。这种透明度有助于提高信任度，并在混合工作流中为内容审核提供指引。要点是：关注 Claude 输出中的 AI 来源标记。",
+      "hn": {
+        "id": 49250109,
+        "type": "story",
+        "by": "mfiguiere",
+        "score": 438,
+        "descendants": 399,
+        "time": 1786397816,
+        "comments_url": "https://news.ycombinator.com/item?id=49250109"
+      },
+      "tags": [
+        "AI"
+      ],
+      "hot_score": 0.53
+    },
+    {
+      "title_en": "Show HN: Git-knife – Edit commit messages, authors, and dates like a spreadsheet",
+      "url": "https://github.com/TheRealYT/git-knife",
+      "title_zh": "Git-knife：像电子表格一样编辑提交信息、作者和日期",
+      "created_display": "Created: Aug 11, 2026 / 08:09 PT",
+      "image_url": "https://opengraph.githubassets.com/147f8c105fea0c583d3dde99c129521e5909741b34f9f25db255a470953f07b9/TheRealYT/git-knife",
+      "summary_en": "Git-knife provides a spreadsheet-like interface to edit commit messages, authors, and dates across a repository. This can dramatically simplify history rewrites and cleanup tasks, making it easier to maintain consistent metadata without manual git rebase.",
+      "summary_zh": "Git-knife 提供像电子表格一样的界面，方便在整个仓库中编辑提交信息、作者和日期。它可以大幅简化历史重写与元数据整理的工作，让维护者以更直观的方式保持一致性。",
+      "hn": {
+        "id": 49259611,
+        "type": "story",
+        "by": "YonathanTesfaye",
+        "score": 157,
+        "descendants": 100,
+        "time": 1786460974,
+        "comments_url": "https://news.ycombinator.com/item?id=49259611"
+      },
+      "tags": [
+        "Show HN",
+        "Programming"
+      ],
+      "hot_score": 0.51
+    },
+    {
+      "title_en": "Manus will return to operating as an independent company",
+      "url": "https://manus.im/blog/a-note-to-our-users",
+      "title_zh": "Manus 将重新以独立公司身份运营",
+      "created_display": "Created: Aug 11, 2026 / 07:14 PT",
+      "image_url": "https://files.manuscdn.com/assets/dashboard/materials/2026/08/06/6fff945a50397f337dd4c74478366d843e1e75cde81c866875c119792265bc15.webp",
+      "summary_en": "Manus plans to operate as an independent company again, signaling a strategic shift after prior corporate changes. The move may affect customers and partners, while allowing focused product development and governance.",
+      "summary_zh": "Manus 宣布将再次以独立公司身份运营，标志着在先前公司结构调整后的策略重聚焦。此举可能影响现有客户与合作伙伴，并为产品路线和治理带来更明确的方向。",
+      "hn": {
+        "id": 49258764,
+        "type": "story",
+        "by": "thm",
+        "score": 166,
+        "descendants": 83,
+        "time": 1786457693,
+        "comments_url": "https://news.ycombinator.com/item?id=49258764"
+      },
+      "tags": [
+        "Business"
+      ],
+      "hot_score": 0.5
+    },
+    {
+      "title_en": "What I learned by putting GitHub Copilot behind a MitM proxy",
+      "url": "https://www.lighthousenewsletter.com/p/i-put-github-copilot-behind-a-mitm",
+      "title_zh": "把 GitHub Copilot 放在中间人代理后学到的教训",
+      "created_display": "Created: Aug 11, 2026 / 03:40 PT",
+      "image_url": "https://substackcdn.com/image/fetch/$s_!uT1l!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F547a610b-a6e9-40e0-a5f5-525f27a6f69f_768x384.jpeg",
+      "summary_en": "A MITM proxy experiment on GitHub Copilot reveals what data is sent and how prompts travel, highlighting potential privacy risks and the need for clearer data handling controls and opt-out options for developers.",
+      "summary_zh": "在 MITM 代理下测试 GitHub Copilot 暴露了数据传输和提示流向，揭示潜在隐私风险，并促使业界对数据处理和可选退出机制进行更清晰的规定。",
+      "hn": {
+        "id": 49256057,
+        "type": "story",
+        "by": "j0selit0",
+        "score": 184,
+        "descendants": 27,
+        "time": 1786444847,
+        "comments_url": "https://news.ycombinator.com/item?id=49256057"
+      },
+      "tags": [
+        "Privacy",
+        "Security",
+        "AI",
+        "Programming"
+      ],
+      "hot_score": 0.44
+    },
+    {
+      "title_en": "Chicken Scheme 6.0",
+      "url": "https://code.call-cc.org/releases/6.0.0/NEWS",
+      "title_zh": "Chicken Scheme 6.0 发布",
+      "created_display": "Created: Aug 10, 2026 / 17:24 PT",
+      "image_url": null,
+      "summary_en": "Chicken Scheme 6.0 ships with modernization and expansion of libraries, focusing on better runtime performance and compatibility with existing Scheme ecosystems. The release signals continued vitality of lightweight Scheme compilers for embedding and scripting.",
+      "summary_zh": "Chicken Scheme 6.0 发布，带来库的扩展、运行时性能改进和对现有 Scheme 生态的更好兼容。此举显示了轻量级 Scheme 编译器在嵌入和脚本场景中的持续活力。",
+      "hn": {
+        "id": 49251702,
+        "type": "story",
+        "by": "eatonphil",
+        "score": 297,
+        "descendants": 57,
+        "time": 1786407855,
+        "comments_url": "https://news.ycombinator.com/item?id=49251702"
+      },
+      "tags": [
+        "Programming"
+      ],
+      "hot_score": 0.41
+    },
+    {
+      "title_en": "Illinois just passed a law that puts Linux on the hook for age verification",
+      "url": "https://linuxstans.com/illinois-hb5511-operating-system-age-verification/",
+      "title_zh": "伊利诺伊州通过法案，将操作系统纳入年龄验证责任",
+      "created_display": "Created: Aug 10, 2026 / 13:20 PT",
+      "image_url": "https://linuxstans.com/wp-content/uploads/2026/08/illinois-hb5511-operating-system-age-verification.png",
+      "summary_en": "Illinois passed a law that makes operating systems bear responsibility for age verification. This raises feasibility, enforcement, and open-source implications for Linux and other platforms as lawmakers seek to curb underage access.",
+      "summary_zh": "新法案要求操作系统具备并执行对受限内容的年龄验证，间接让 Linux 等操作系统承担相关义务。此举引发关于可行性、执法及对开源生态的影响等担忧。",
+      "hn": {
+        "id": 49249150,
+        "type": "story",
+        "by": "speckx",
+        "score": 341,
+        "descendants": 511,
+        "time": 1786393206,
+        "comments_url": "https://news.ycombinator.com/item?id=49249150"
+      },
+      "tags": [
+        "Legal",
+        "Open Source"
+      ],
+      "hot_score": 0.39
+    },
+    {
+      "title_en": "Mars Bar from 1991 found – and it's 20g bigger than today's",
+      "url": "https://www.bbc.com/news/articles/c1j1kjy7gewo",
+      "title_zh": "1991 年 Mars Bar 的新发现：重量比现今多 20 克",
+      "created_display": "Created: Aug 10, 2026 / 08:32 PT",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/79f0/live/51bb04a0-94ad-11f1-afe9-fb1a837ec5d9.jpg",
+      "summary_en": "A 1991 Mars Bar was found to be 20g heavier than the current version, illustrating how product sizes have evolved over time.",
+      "summary_zh": "发现1991年的 Mars Bar 比现今版本重出 20 克，反映出产品规格随时间的变化。",
+      "hn": {
+        "id": 49245023,
+        "type": "story",
+        "by": "RickJWagner",
+        "score": 404,
+        "descendants": 594,
+        "time": 1786375924,
+        "comments_url": "https://news.ycombinator.com/item?id=49245023"
+      },
+      "tags": [
+        "Design",
+        "Space"
+      ],
+      "hot_score": 0.38
+    },
+    {
+      "title_en": "Show HN: Scroll through all 43252003274489856000 Rubik's Cube states",
+      "url": "https://everycube.alen.is/",
+      "title_zh": "Show HN：滚动浏览全部 43,252,003,274,489,856,000 种魔方状态",
+      "created_display": "Created: Aug 10, 2026 / 16:16 PT",
+      "image_url": "https://everycube.alen.is/opengraph-image?e65a545ab414fc11",
+      "summary_en": "A Show HN demonstrates a user interface that scrolls through the entire state space of a Rubik's Cube, totaling over 43 quintillion configurations. It showcases how large combinatorial spaces can be made approachable through clever visualization and streaming data.",
+      "summary_zh": "一个 Show HN 展示了一个界面，能够滚动浏览魔方全部状态，总数超过 43,252,003,274,489,856,000 种配置。通过巧妙的可视化和分段加载，该项目让庞大组合空间变得更易理解。",
+      "hn": {
+        "id": 49251179,
+        "type": "story",
+        "by": "Alen123",
+        "score": 288,
+        "descendants": 118,
+        "time": 1786403785,
+        "comments_url": "https://news.ycombinator.com/item?id=49251179"
+      },
+      "tags": [
+        "Show HN",
+        "Web"
+      ],
+      "hot_score": 0.37
+    },
+    {
+      "title_en": "Learning more about Claude's mathematical capabilities",
+      "url": "https://www.anthropic.com/research/riemann-zeta",
+      "title_zh": "进一步了解 Claude 的数学能力",
+      "created_display": "Created: Aug 10, 2026 / 10:41 PT",
+      "image_url": "https://cdn.sanity.io/images/4zrzovbb/website/ca772f1b34e5b58e38694538f017d63f5dd196d9-1200x630.jpg",
+      "summary_en": "Anthropic researchers evaluate Claude's mathematical reasoning, testing symbolic tasks and number theory to gauge its capabilities and limitations. The findings show clear progress in some areas but also persistent gaps in formal proofs and complex computations.",
+      "summary_zh": "Anthropic 的研究团队评估 Claude 的数学推理能力，测试符号推理与数论等任务，旨在了解其能力边界。结果显示在某些领域取得明显进步，但在证明与复杂计算方面仍存在不足。",
+      "hn": {
+        "id": 49247070,
+        "type": "story",
+        "by": "tosh",
+        "score": 270,
+        "descendants": 174,
+        "time": 1786383673,
+        "comments_url": "https://news.ycombinator.com/item?id=49247070"
+      },
+      "tags": [
+        "AI"
+      ],
+      "hot_score": 0.28
+    },
+    {
+      "title_en": "Stop Killing Games: It's time to sue Sony, join us",
+      "url": "https://www.massaschadeconsument.nl/collectieve-acties/playstation/",
+      "title_zh": "停止扼杀游戏：现在就应该起诉索尼，加入我们",
+      "created_display": "Created: Aug 10, 2026 / 13:47 PT",
+      "image_url": "https://www.massaschadeconsument.nl/img/og-image-play.png",
+      "summary_en": "A consumer-advocacy campaign calls for legal action against Sony over practices they claim harm players or developers. The push aims to catalyze a class-action or collective suit to press for changes.",
+      "summary_zh": "一个消费者倡议团体呼吁就索尼的游戏相关商业行为提起诉讼，声称这些做法损害玩家与开发者权益。该行动主张通过集体诉讼等方式迫使公司改变策略。",
+      "hn": {
+        "id": 49249481,
+        "type": "story",
+        "by": "EDM115",
+        "score": 242,
+        "descendants": 138,
+        "time": 1786394833,
+        "comments_url": "https://news.ycombinator.com/item?id=49249481"
+      },
+      "tags": [
+        "Legal"
+      ],
+      "hot_score": 0.28
+    },
+    {
+      "title_en": "What's the best programming language for coding agents?",
+      "url": "http://danluu.com/pl-tokens/",
+      "title_zh": "哪种编程语言最适合为智能代理编码？",
+      "created_display": "Created: Aug 10, 2026 / 09:28 PT",
+      "image_url": null,
+      "summary_en": "The piece surveys languages and paradigms suited for coding autonomous agents, weighing factors like state management, concurrency, and safety of agent interactions.",
+      "summary_zh": "本文评估用于编写自治代理的编程语言，比较状态管理、并发、代理交互的安全性等因素。",
+      "hn": {
+        "id": 49245936,
+        "type": "story",
+        "by": "chaychoong",
+        "score": 253,
+        "descendants": 183,
+        "time": 1786379338,
+        "comments_url": "https://news.ycombinator.com/item?id=49245936"
+      },
+      "tags": [
+        "Programming"
+      ],
+      "hot_score": 0.25
+    },
+    {
+      "title_en": "Rust SIMD on the GPU",
+      "url": "https://www.vectorware.com/blog/simd-on-gpu/",
+      "title_zh": "Rust 在 GPU 上的 SIMD",
+      "created_display": "Created: Aug 10, 2026 / 11:12 PT",
+      "image_url": "https://www.vectorware.com/_next/image/?url=%2F_next%2Fstatic%2Fmedia%2Fvectorware_logo.6d5f5210.png&w=640&q=75&dpl=dpl_4ZmndNCZY2uSnEayhwbSuemEqYJP",
+      "summary_en": "Rust SIMD on the GPU analyzes how to map Rust’s SIMD-style parallelism to GPU architectures to boost throughput for numeric kernels. It highlights memory transfer, safety, and tooling challenges when crossing CPU-RAM to GPU. Takeaway: offloading compute-heavy Rust workloads to GPUs can yield big speedups, but it demands careful data layout and tool support.",
+      "summary_zh": "Rust 的 SIMD 在 GPU 上的实现探讨将 Rust 的向量并行性映射到 GPU 架构，以提升数值计算的吞吐量。文章指出在 CPU 与显存/显卡之间的数据传输、内存管理与安全性方面的挑战，以及现有工具的不足。要点是：将重量级 Rust 计算下沉到 GPU 可以带来显著加速，但需要精心的数据布局和工具链支持。",
+      "hn": {
+        "id": 49247477,
+        "type": "story",
+        "by": "sagacity",
+        "score": 218,
+        "descendants": 114,
+        "time": 1786385569,
+        "comments_url": "https://news.ycombinator.com/item?id=49247477"
+      },
+      "tags": [
+        "Programming",
+        "Hardware"
+      ],
+      "hot_score": 0.23
+    },
+    {
+      "title_en": "Amazon backs power plant that may become top source of US climate pollution",
+      "url": "https://arstechnica.com/tech-policy/2026/08/amazon-funds-biggest-gas-power-plant-in-us-despite-climate-pledge/",
+      "title_zh": "亚马逊支持的发电厂或成美国最大的气候污染源",
+      "created_display": "Created: Aug 10, 2026 / 14:26 PT",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2267221283-1152x648.jpg",
+      "summary_en": "Amazon backs a fossil-fueled power plant that could become the top source of climate pollution in the U.S., potentially conflicting with its climate pledges. The choice spotlights tensions between reliability, economics, and environmental commitments in big-tech supply chains.",
+      "summary_zh": "亚马逊资助的燃气发电站可能成为美国最大的气候污染源，似乎与公司自述的气候承诺相冲突。这一举措凸显供应链弹性、能源经济与环保承诺之间的矛盾，或将影响相关政策和能源投资议题。",
+      "hn": {
+        "id": 49249971,
+        "type": "story",
+        "by": "pjmlp",
+        "score": 191,
+        "descendants": 150,
+        "time": 1786397176,
+        "comments_url": "https://news.ycombinator.com/item?id=49249971"
+      },
+      "tags": [
+        "Business",
+        "Energy"
+      ],
+      "hot_score": 0.23
+    },
+    {
+      "title_en": "Mistral Patent for “Code implemented tool calls”",
+      "url": "https://patentsgazette.uspto.gov/week26/OG/html/1547-5/US12670045-20260630.html",
+      "title_zh": "Mistral 专利：‘代码实现的工具调用’",
+      "created_display": "Created: Aug 10, 2026 / 06:29 PT",
+      "image_url": "https://patentsgazette.uspto.gov/week26/OG/html/1547-5/US12670045-20260630-D00000.gif",
+      "summary_en": "Mistral obtains a patent for code-implemented tool calls, enabling AI models to trigger tools via code generation rather than explicit tool calls.",
+      "summary_zh": "Mistral 获得了关于“通过代码实现工具调用”的专利，允许模型通过生成代码来触发工具，而非直接调用。",
+      "hn": {
+        "id": 49243397,
+        "type": "story",
+        "by": "theanonymousone",
+        "score": 233,
+        "descendants": 195,
+        "time": 1786368552,
+        "comments_url": "https://news.ycombinator.com/item?id=49243397"
+      },
+      "tags": [
+        "AI",
+        "Legal"
+      ],
+      "hot_score": 0.2
+    },
+    {
+      "title_en": "Humanising LLM Outputs Is Dumb",
+      "url": "https://kuber.studio/blog/Reflections/Humanising-LLM-Outputs-is-Actually-Dumb",
+      "title_zh": "将 LLM 输出人性化其实很愚蠢",
+      "created_display": "Created: Aug 10, 2026 / 06:35 PT",
+      "image_url": "https://kuber.studio/blog/static/social-images/content-Reflections-Humanising LLM Outputs is Actually Dumb.md.webp",
+      "summary_en": "An argument that making AI outputs feel human is misguided, advocating for transparency and reliability over anthropomorphism.",
+      "summary_zh": "认为让模型输出更具人类特征并不明智，应优先追求透明和可靠性，避免过度拟人化。",
+      "hn": {
+        "id": 49243474,
+        "type": "story",
+        "by": "kuberwastaken",
+        "score": 228,
+        "descendants": 172,
+        "time": 1786368940,
+        "comments_url": "https://news.ycombinator.com/item?id=49243474"
+      },
+      "tags": [
+        "AI"
+      ],
+      "hot_score": 0.2
+    },
+    {
+      "title_en": "Confessions of a Long-Distance Sailor",
+      "url": "https://arachnoid.com/lutusp/sailbook.html",
+      "title_zh": "远洋水手的自白",
+      "created_display": "Created: Aug 10, 2026 / 13:52 PT",
+      "image_url": "https://arachnoid.com/images/rightarrow.png",
+      "summary_en": "A memoir-style piece recounts the challenges and rewards of long-distance sailing, blending practical nautical detail with personal reflection. It offers a window into life at sea, where technology, weather, and isolation shape daily routines.",
+      "summary_zh": "本篇以回忆录体裁讲述远距离航海的挑战与魅力，穿插实用的航海细节与个人反思。作品揭示海上生活的真实景象，科技、天气与孤独共同塑造日常。",
+      "hn": {
+        "id": 49249555,
+        "type": "story",
+        "by": "AntiRush",
+        "score": 170,
+        "descendants": 61,
+        "time": 1786395175,
+        "comments_url": "https://news.ycombinator.com/item?id=49249555"
+      },
+      "hot_score": 0.2,
+      "tags": [
+        "Culture"
+      ]
+    },
+    {
+      "title_en": "Magnitude 7.4 Earthquake – 5 km S of San José del Palmar, Colombia",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjl2/executive",
+      "title_zh": "哥伦比亚圣何塞德尔帕尔马尔以南5公里发生7.4级地震",
+      "created_display": "Created: Aug 10, 2026 / 08:49 PT",
+      "image_url": null,
+      "summary_en": "USGS reports a magnitude 7.4 earthquake near San José del Palmar, Colombia, with potential aftershocks and regional disruption. Authorities urge preparedness as seismic activity continues in the region.",
+      "summary_zh": "美国地质调查局报告在哥伦比亚圣何塞德尔帕尔马尔以南5公里发生7.4级地震，可能出现余震并造成地区性扰动。相关部门呼吁加强应急准备，区域地震活动仍在持续。",
+      "hn": {
+        "id": 49245251,
+        "type": "story",
+        "by": "Bender",
+        "score": 187,
+        "descendants": 71,
+        "time": 1786376988,
+        "comments_url": "https://news.ycombinator.com/item?id=49245251"
+      },
+      "tags": [
+        "Science"
+      ],
+      "hot_score": 0.18
+    },
+    {
+      "title_en": "Exploiting System Management Mode with a very long interrupt",
+      "url": "https://github.com/xoreaxeaxeax/smiiiiiiiiiiiiiiii",
+      "title_zh": "利用极长中断攻击系统管理模式",
+      "created_display": "Created: Aug 10, 2026 / 09:03 PT",
+      "image_url": "https://opengraph.githubassets.com/138a5c877e0b452e515507436c8a39e04ea2678e8ccc378b797794fbcf80181d/xoreaxeaxeax/smiiiiiiiiiiiiiiii",
+      "summary_en": "A proof-of-concept demonstrates how extremely long System Management Mode (SMM) interrupts can be abused to escalate privileges or leak data from firmware. The work underscores firmware security risks and the need for robust isolation in modern CPUs.",
+      "summary_zh": "一个概念性演示显示，极长的系统管理模式中断可能被用于提升权限或从固件窃取数据，暴露了固件层面的安全风险并强调需要在现代 CPU 中实现更强的隔离。",
+      "hn": {
+        "id": 49245491,
+        "type": "story",
+        "by": "WhiteDawn",
+        "score": 184,
+        "descendants": 78,
+        "time": 1786377794,
+        "comments_url": "https://news.ycombinator.com/item?id=49245491"
+      },
+      "tags": [
+        "Security",
+        "Hardware"
+      ],
+      "hot_score": 0.18
+    },
+    {
+      "title_en": "'Pervert glasses': Backlash against Meta's smart glasses grows",
+      "url": "https://www.seattletimes.com/business/technology/pervert-glasses-backlash-against-metas-smart-glasses-grows/",
+      "title_zh": "“变态眼镜”标签：对 Meta 智能眼镜的反对声日益高涨",
+      "created_display": "Created: Aug 10, 2026 / 08:13 PT",
+      "image_url": null,
+      "summary_en": "Backlash against Meta's smart glasses grows, with critics labeling the product 'pervert glasses' and citing privacy and design concerns. The debate underscores how AR hardware faces scrutiny over social impact and user trust.",
+      "summary_zh": "公众对 Meta 智能眼镜的反对声持续增强，批评者指向隐私、物化和设计问题。此波讨论凸显了增强现实硬件野心与用户信任之间的张力，可能影响普及速度和监管关注。",
+      "hn": {
+        "id": 49244783,
+        "type": "story",
+        "by": "ynac",
+        "score": 183,
+        "descendants": 269,
+        "time": 1786374788,
+        "comments_url": "https://news.ycombinator.com/item?id=49244783"
+      },
+      "tags": [
+        "Privacy",
+        "Hardware"
+      ],
+      "hot_score": 0.17
+    },
+    {
+      "title_en": "50k Boat Names",
+      "url": "https://www.beautifulpublicdata.com/boat-names/",
+      "title_zh": "5万条船名数据集",
+      "created_display": "Created: Aug 10, 2026 / 05:58 PT",
+      "image_url": "https://storage.ghost.io/c/7e/ed/7eed3692-c4ce-47fb-af77-6293d8e19002/content/images/size/w1200/2026/08/boat-names-header-5.png",
+      "summary_en": "A dataset of 50,000 boat names offers a ready-made resource for NLP, branding tests, and string-processing experiments. It also reveals cultural quirks in naming and can serve as a testbed for name-generation and anomaly detection.",
+      "summary_zh": "5万条船名的数据集提供了一个现成的资源，可用于自然语言处理、品牌测试以及字符串处理实验。它也反映了命名文化的趣味性，适合作为名字生成和异常检测的测试场景。",
+      "hn": {
+        "id": 49243029,
+        "type": "story",
+        "by": "jonathanmkeegan",
+        "score": 190,
+        "descendants": 111,
+        "time": 1786366696,
+        "comments_url": "https://news.ycombinator.com/item?id=49243029"
+      },
+      "tags": [
+        "Data"
+      ],
+      "hot_score": 0.16
+    },
+    {
+      "title_en": "Show HN: Ante, a coding agent in a single binary that runs offline",
+      "url": "https://github.com/AntigmaLabs/ante",
+      "title_zh": "Ante：离线单二进制的编程代理",
+      "created_display": "Created: Aug 10, 2026 / 08:59 PT",
+      "image_url": "https://opengraph.githubassets.com/f213ec80ec9577d0e1d057c5af39e34b558dd132f999e1afb2f43a205292da09/AntigmaLabs/ante",
+      "summary_en": "Ante packages a coding agent into a single binary that runs offline, enabling local code completion and automation without network access. This design minimizes external dependencies and enhances privacy, though updates may be less frequent.",
+      "summary_zh": "Ante 将编码代理打包成一个单独的二进制文件实现离线运行，支持本地代码补全与自动化。该设计降低对外部依赖、提升隐私，但更新可能不如在线方案频繁。",
+      "hn": {
+        "id": 49245437,
+        "type": "story",
+        "by": "ubermon",
+        "score": 162,
+        "descendants": 89,
+        "time": 1786377563,
+        "comments_url": "https://news.ycombinator.com/item?id=49245437"
+      },
+      "tags": [
+        "Show HN",
+        "Programming",
+        "AI",
+        "Privacy"
+      ],
+      "hot_score": 0.16
+    },
+    {
+      "title_en": "Exploring Claude/GPT Knowledge Cutoffs and Pre-Training Timelines",
+      "url": "https://blog.sshh.io/p/exploring-claudegpt-knowledge-cutoffs",
+      "title_zh": "探索 Claude/GPT 的知识截断与预训练时间线",
+      "created_display": "Created: Aug 10, 2026 / 07:20 PT",
+      "image_url": "https://substackcdn.com/image/fetch/$s_!D2DT!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F26fc9064-a2dd-417b-99e2-c57b5180e3c6_1932x1073.png",
+      "summary_en": "A comparative look at knowledge cutoffs and pre-training timelines for Claude and GPT models, illuminating how update cadence affects information recency.",
+      "summary_zh": "对 Claude 与 GPT 模型的知识截断和预训练时间线进行对比，揭示更新节奏如何影响信息时效性。",
+      "hn": {
+        "id": 49244085,
+        "type": "story",
+        "by": "sshh12",
+        "score": 156,
+        "descendants": 24,
+        "time": 1786371641,
+        "comments_url": "https://news.ycombinator.com/item?id=49244085"
+      },
+      "tags": [
+        "AI"
+      ],
+      "hot_score": 0.14
+    }
+  ]
+}

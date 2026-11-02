@@ -1,0 +1,1171 @@
+{
+  "meta": {
+    "mode": "best",
+    "source": "https://news.ycombinator.com/",
+    "api": "https://github.com/HackerNews/API",
+    "count_requested": 50,
+    "count_written": 50,
+    "reused_same_day": 0,
+    "reused_cross_day": 20,
+    "new_llm_enriched": 11,
+    "scrape_time_display": "06:04, April 04, 2026 (PDT)",
+    "timezone": "America/Los_Angeles",
+    "date_dir": "2026/04/03",
+    "content_date": "2026-04-03",
+    "run_time_local": "06:04, April 04, 2026 (PDT)",
+    "run_time_utc": "2026-04-04 13:04:41 UTC",
+    "incremental": true,
+    "stories_max": 50,
+    "hot_score_time_utc": "2026-04-04 13:05:40 UTC"
+  },
+  "items": [
+    {
+      "title_en": "Apple: Embarrassingly Simple Self-Distillation Improves Code Generation",
+      "url": "https://arxiv.org/abs/2604.01193",
+      "title_zh": "苹果：极其简单的自蒸馏提升代码生成",
+      "created_display": "Created: Apr 04, 2026 / 03:26 PT",
+      "image_url": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+      "summary_en": "A simple self-distillation technique improves code generation quality in experiments, suggesting a cheap method to boost model performance without large compute overhead. It could be applied to training or inference of code assistants.",
+      "summary_zh": "研究显示一种极其简单的自蒸馏方法就能提升代码生成质量，成本低且易于在现有模型上实现。该方法对提升代码生成能力有潜在意义，可能为改进代码助手和编程相关任务提供可行路径。",
+      "hn": {
+        "id": 47637757,
+        "type": "story",
+        "by": "Anon84",
+        "score": 150,
+        "descendants": 34,
+        "time": 1775298381,
+        "comments_url": "https://news.ycombinator.com/item?id=47637757"
+      },
+      "hot_score": 9.35,
+      "tags": [
+        "AI",
+        "Programming"
+      ]
+    },
+    {
+      "title_en": "Tell HN: Anthropic no longer allowing Claude Code subscriptions to use OpenClaw",
+      "url": "https://news.ycombinator.com/item?id=47633396",
+      "title_zh": "告知 HN：Anthropic 不再允许 Claude Code 订阅使用 OpenClaw",
+      "created_display": "Created: Apr 03, 2026 / 15:55 PT",
+      "image_url": "https://news.ycombinator.com/y18.svg",
+      "summary_en": "Anthropic has restricted Claude Code subscriptions from using OpenClaw, cutting off a popular integration point for code tooling. The move highlights how policy controls can disrupt developer workflows and force users to renegotiate tools or licenses.",
+      "summary_zh": "Anthropic 已限制 Claude Code 订阅无法使用 OpenClaw，取消了与该工具的集成入口。此举凸显平台策略对开发者工作流的影响，用户可能需要重新选择工具或调整授权方式。",
+      "hn": {
+        "id": 47633396,
+        "type": "story",
+        "by": "firloop",
+        "score": 811,
+        "descendants": 635,
+        "time": 1775256924,
+        "comments_url": "https://news.ycombinator.com/item?id=47633396"
+      },
+      "tags": [
+        "Programming",
+        "AI"
+      ],
+      "hot_score": 5.4
+    },
+    {
+      "title_en": "Artemis II crew take “spectacular” image of Earth",
+      "url": "https://www.bbc.com/news/articles/ce8jzr423p9o",
+      "title_zh": "阿尔忒弥斯二号任务组拍出壮观的地球照片",
+      "created_display": "Created: Apr 03, 2026 / 12:35 PT",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/383b/live/6c4ec320-2f7b-11f1-934f-036468834728.jpg",
+      "summary_en": "The Artemis II crew captured a spectacular image of Earth from near-space, showcasing our planet in a breathtaking vantage point during the mission phase. The shot underscores NASA's focus on crewed lunar exploration and the growing role of high-quality space photography in public engagement. It also highlights the technical readiness required for long-duration deep-space missions.",
+      "summary_zh": "阿尔忒弥斯二号任务组在近空间阶段拍摄出地球的壮观影像，从独特视角展现了这颗行星的美丽与脆弱。这张照片体现了 NASA 对载人月球探索的持续推进，以及高质量太空影像在公众参与中的作用，同时也凸显了支撑长期深空任务的技术准备。",
+      "hn": {
+        "id": 47631118,
+        "type": "story",
+        "by": "andsoitis",
+        "score": 833,
+        "descendants": 287,
+        "time": 1775244902,
+        "comments_url": "https://news.ycombinator.com/item?id=47631118"
+      },
+      "tags": [
+        "Space"
+      ],
+      "hot_score": 3.96
+    },
+    {
+      "title_en": "Delve removed from Y Combinator",
+      "url": "https://www.ycombinator.com/companies/delve",
+      "title_zh": "Delve 已从 YC 移除",
+      "created_display": "Created: Apr 03, 2026 / 18:37 PT",
+      "image_url": null,
+      "summary_en": "Delve has been removed from Y Combinator's portfolio, signaling changes in YC's backing or evaluation criteria. For startups and investors, it highlights the fluid nature of accelerator affiliations and the importance of diversification.",
+      "summary_zh": "Delve 已不再属于 Y Combinator 的投资组合，表明 YC 的扶持标准或组合策略发生变化。这对初创公司和投资人意味着加速器关系并非一成不变，分散风险更为重要。",
+      "hn": {
+        "id": 47634690,
+        "type": "story",
+        "by": "carabiner",
+        "score": 372,
+        "descendants": 228,
+        "time": 1775266622,
+        "comments_url": "https://news.ycombinator.com/item?id=47634690"
+      },
+      "tags": [
+        "Startups"
+      ],
+      "hot_score": 3.44
+    },
+    {
+      "title_en": "The FAA’s flight restriction for drones is an attempt to criminalize filming ICE",
+      "url": "https://www.eff.org/deeplinks/2026/04/faas-temporary-flight-restriction-drones-blatant-attempt-criminalize-filming-ice",
+      "title_zh": "FAA 的无人机飞行限制试图将拍摄 ICE 刑事化",
+      "created_display": "Created: Apr 03, 2026 / 16:56 PT",
+      "image_url": "https://www.eff.org/files/banner_library/drone-happy.png",
+      "summary_en": "The FAA's temporary drone flight restriction near certain facilities has drawn criticism for appearing to criminalize filming ICE activities and limiting First Amendment coverage of law enforcement.",
+      "summary_zh": "针对特定区域的无人机飞行限制引发担忧，批评者认为这等举措将拍摄 ICE 的行为刑事化并削弱对执法活动的监督报道。",
+      "hn": {
+        "id": 47633947,
+        "type": "story",
+        "by": "detaro",
+        "score": 436,
+        "descendants": 139,
+        "time": 1775260592,
+        "comments_url": "https://news.ycombinator.com/item?id=47633947"
+      },
+      "tags": [
+        "Privacy",
+        "Legal"
+      ],
+      "hot_score": 3.26
+    },
+    {
+      "title_en": "Oracle files H-1B visa petitions amid mass layoffs",
+      "url": "https://nationaltoday.com/us/tx/austin/news/2026/04/03/oracle-files-thousands-of-h-1b-visa-petitions-amid-mass-layoffs/",
+      "title_zh": "Oracle 在大规模裁员期间提交成千上万份 H-1B 签证申请",
+      "created_display": "Created: Apr 03, 2026 / 13:21 PT",
+      "image_url": "https://nationaltoday.com/wp-content/uploads/not-wordpress/2026/04/69cff13a331fe.jpg",
+      "summary_en": "Oracle filed thousands of H-1B visa petitions even as it cut workers, underscoring how tech giants balance layoffs with access to specialized talent. The filings may reflect plans to replace departing staff for critical projects or to maintain a ready pipeline of skilled engineers, drawing attention to immigration policies in the tech industry.",
+      "summary_zh": "Oracle 在裁员的同时提交数千份 H-1B 签证申请，凸显巨头在裁员与获取专业人才之间的权衡。相关申请或用于替换离职员工、保障关键项目的人才储备，引发对科技行业移民政策的关注。",
+      "hn": {
+        "id": 47631732,
+        "type": "story",
+        "by": "kklisura",
+        "score": 491,
+        "descendants": 277,
+        "time": 1775247683,
+        "comments_url": "https://news.ycombinator.com/item?id=47631732"
+      },
+      "hot_score": 2.51,
+      "tags": [
+        "Business"
+      ]
+    },
+    {
+      "title_en": "Gold overtakes U.S. Treasuries as the largest foreign reserve asset",
+      "url": "https://economictimes.indiatimes.com/news/international/us/gold-overtakes-u-s-treasuries-as-the-worlds-largest-foreign-reserve-asset-in-2026-can-gold-challenge-the-u-s-dollars-dominance-and-hold-its-ground/articleshow/126420128.cms?from=mdr",
+      "title_zh": "黄金超过美国国债成为全球最大的外储资产",
+      "created_display": "Created: Apr 03, 2026 / 19:30 PT",
+      "image_url": "https://img.etimg.com/thumb/msid-126420713,width-1200,height-630,imgsize-43114,overlay-economictimes/articleshow.jpg",
+      "summary_en": "Gold has overtaken US Treasuries as the world's largest foreign reserve asset, reflecting central banks' diversification away from dollar assets amid geopolitical risk and inflation. The shift could influence bond markets and gold demand dynamics.",
+      "summary_zh": "黄金已取代美国国债成为全球最大的外储资产，反映各央行在地缘政治风险与通胀背景下对美元资产的多元化配置。这一变化可能影响债券市场与黄金需求的格局。",
+      "hn": {
+        "id": 47635056,
+        "type": "story",
+        "by": "lxm",
+        "score": 224,
+        "descendants": 170,
+        "time": 1775269832,
+        "comments_url": "https://news.ycombinator.com/item?id=47635056"
+      },
+      "tags": [
+        "Finance"
+      ],
+      "hot_score": 2.34
+    },
+    {
+      "title_en": "Show HN: I built a frontpage for personal blogs",
+      "url": "https://text.blogosphere.app/",
+      "title_zh": "Show HN：我为个人博客搭建了一个前端首页",
+      "created_display": "Created: Apr 03, 2026 / 05:33 PT",
+      "image_url": "https://text.blogosphere.app/og.png",
+      "summary_en": "A compact, customizable front page that aggregates posts from individual blogs into a single, readable landing. It demonstrates how a focused, self-hosted homepage can replace generic blogrolls and improve reader discovery.",
+      "summary_zh": "作者为个人博客制作了一个前端首页，能把多篇博客的内容聚合在一个整洁、快速的登陆页上。此举展示了轻量、可自托管的个人站点在读者发现体验上的潜在优势。",
+      "hn": {
+        "id": 47625952,
+        "type": "story",
+        "by": "ramkarthikk",
+        "score": 722,
+        "descendants": 186,
+        "time": 1775219625,
+        "comments_url": "https://news.ycombinator.com/item?id=47625952"
+      },
+      "tags": [
+        "Show HN",
+        "Web"
+      ],
+      "hot_score": 1.97
+    },
+    {
+      "title_en": "F-15E jet shot down over Iran",
+      "url": "https://www.theguardian.com/world/2026/apr/03/us-fighter-jet-confirmed-shot-down-over-iran",
+      "title_zh": "F-15E 战斗机在伊朗上空被击落",
+      "created_display": "Created: Apr 03, 2026 / 09:00 PT",
+      "image_url": "https://i.guim.co.uk/img/media/482982697628386efabd0a787d9590da0690e8a1/0_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=71aa55243556fe4276e3975782e4c1c6",
+      "summary_en": "An F-15E was shot down over Iran, marking a significant escalation in regional tensions. The incident underscores the fragility of aviation assets in volatile zones and the risk of broader security spillovers. It will likely influence defense Posture and policy considerations.",
+      "summary_zh": "一架 F-15E 战斗机在伊朗上空被击落，标志着区域紧张局势的升级。此事件凸显在高风险地区维护航空资产的脆弱性与潜在的安全扩散风险，可能影响防务态势与政策取向。",
+      "hn": {
+        "id": 47628326,
+        "type": "story",
+        "by": "tjwds",
+        "score": 517,
+        "descendants": 1157,
+        "time": 1775232044,
+        "comments_url": "https://news.ycombinator.com/item?id=47628326"
+      },
+      "tags": [
+        "Security"
+      ],
+      "hot_score": 1.81
+    },
+    {
+      "title_en": "iNaturalist",
+      "url": "https://www.inaturalist.org/",
+      "title_zh": "iNaturalist 自然观测平台",
+      "created_display": "Created: Apr 03, 2026 / 10:22 PT",
+      "image_url": "https://static.inaturalist.org/sites/1-shareable_image.png?1573071871",
+      "summary_en": "iNaturalist enables crowdsourced biodiversity data from millions of users, driving research and conservation. Its open data catalog helps scientists track species distributions and ecological changes over time. The community-driven platform also highlights the value and challenges of citizen science data.",
+      "summary_zh": "iNaturalist 通过海量用户的群体观测，推动生物多样性研究与保护。开放数据目录帮助科学家跟踪物种分布与生态变化，提升研究与教育的可及性。社区驱动的模式同时也暴露了公民科学数据的质量与治理挑战。",
+      "hn": {
+        "id": 47629433,
+        "type": "story",
+        "by": "bookofjoe",
+        "score": 460,
+        "descendants": 110,
+        "time": 1775236940,
+        "comments_url": "https://news.ycombinator.com/item?id=47629433"
+      },
+      "tags": [
+        "Science",
+        "Data"
+      ],
+      "hot_score": 1.8
+    },
+    {
+      "title_en": "Google releases Gemma 4 open models",
+      "url": "https://deepmind.google/models/gemma/gemma-4/",
+      "title_zh": "谷歌发布 Gemma 4 开源模型",
+      "created_display": "Created: Apr 02, 2026 / 09:10 PT",
+      "image_url": "https://lh3.googleusercontent.com/XtdGQ6B0XzfV1gByFCtGbxLthooBSyg6QZWJn4VuM4SpDduwdYqOPFWpxyMIv875LTG1zUt0Xm34B29PfjACwd6m8fLiQpFLkZnjR5bVmJnCDANx6g=w1200-h630-n-nu-rw",
+      "summary_en": "Google releases Gemma 4 open models, expanding the Gemma family with a newer generation that can be run by researchers and developers on their own hardware. This move underscores Google's push toward open, auditable AI and could accelerate experimentation outside managed cloud environments.",
+      "summary_zh": "谷歌发布 Gemma 4 开源模型，提供新一代可供研究者和开发者在本地硬件上运行的能力。这一举动凸显谷歌向开放、可审计的 AI 生态迈进，可能加速在自有环境中的研究与实验。",
+      "hn": {
+        "id": 47616361,
+        "type": "story",
+        "by": "jeffmcjunkin",
+        "score": 1742,
+        "descendants": 459,
+        "time": 1775146254,
+        "comments_url": "https://news.ycombinator.com/item?id=47616361"
+      },
+      "tags": [
+        "AI",
+        "Open Source",
+        "Hardware"
+      ],
+      "hot_score": 1.71
+    },
+    {
+      "title_en": "LinkedIn is searching your browser extensions",
+      "url": "https://browsergate.eu/",
+      "title_zh": "LinkedIn 正在搜索你的浏览器扩展",
+      "created_display": "Created: Apr 02, 2026 / 06:09 PT",
+      "image_url": null,
+      "summary_en": "A report suggests LinkedIn collects data from installed browser extensions, raising privacy and data-use questions for a platform that handles professional identity and recruitment. The practice highlights tensions between data collection for service improvement and user privacy.",
+      "summary_zh": "有报道指 LinkedIn 会收集已安装的浏览器扩展数据，引发关于隐私和数据使用的质疑，尤其是在处理专业身份与招聘的场景中。这一做法凸显了服务改进与用户隐私之间的紧张关系。",
+      "hn": {
+        "id": 47613981,
+        "type": "story",
+        "by": "digitalWestie",
+        "score": 1866,
+        "descendants": 755,
+        "time": 1775135349,
+        "comments_url": "https://news.ycombinator.com/item?id=47613981"
+      },
+      "tags": [
+        "Privacy",
+        "Data",
+        "Web"
+      ],
+      "hot_score": 1.63
+    },
+    {
+      "title_en": "Show HN: Apfel – The free AI already on your Mac",
+      "url": "https://apfel.franzai.com",
+      "title_zh": "Show HN: Apfel — 你的 Mac 上已经有的免费 AI",
+      "created_display": "Created: Apr 03, 2026 / 02:15 PT",
+      "image_url": "https://raw.githubusercontent.com/Arthur-Ficial/apfel/main/screenshots/gui-chat.png",
+      "summary_en": "Apfel is a free AI that runs directly on macOS, letting users access AI capabilities without a cloud subscription. By processing locally, it aims to improve privacy and reduce reliance on external services.",
+      "summary_zh": "Apfel 是一款在 macOS 上本地运行的免费 AI，用户无需云端订阅即可获得人工智能能力。通过本地处理，它强调提高隐私并降低对外部服务的依赖。",
+      "hn": {
+        "id": 47624645,
+        "type": "story",
+        "by": "franze",
+        "score": 685,
+        "descendants": 141,
+        "time": 1775207734,
+        "comments_url": "https://news.ycombinator.com/item?id=47624645"
+      },
+      "tags": [
+        "Show HN",
+        "AI",
+        "Privacy"
+      ],
+      "hot_score": 1.52
+    },
+    {
+      "title_en": "OpenClaw privilege escalation vulnerability",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-33579",
+      "title_zh": "OpenClaw 提权漏洞（CVE-2026-33579）",
+      "created_display": "Created: Apr 03, 2026 / 09:21 PT",
+      "image_url": "https://nvd.nist.gov/site-media/images/usbanner/us_flag_small.png",
+      "summary_en": "A privilege escalation vulnerability in OpenClaw could allow local attackers to obtain higher privileges. Users should patch and update affected installations to mitigate risk.",
+      "summary_zh": "OpenClaw 存在本地提权漏洞，潜在攻击者可提升权限。受影响环境需尽快打补丁以降低风险。",
+      "hn": {
+        "id": 47628608,
+        "type": "story",
+        "by": "kykeonaut",
+        "score": 423,
+        "descendants": 207,
+        "time": 1775233292,
+        "comments_url": "https://news.ycombinator.com/item?id=47628608"
+      },
+      "tags": [
+        "Security"
+      ],
+      "hot_score": 1.52
+    },
+    {
+      "title_en": "Marc Andreessen is wrong about introspection",
+      "url": "https://www.joanwestenberg.com/marc-andreessen-is-wrong-about-introspection/",
+      "title_zh": "马克·安德森的自省观点被质疑",
+      "created_display": "Created: Apr 03, 2026 / 07:29 PT",
+      "image_url": "https://www.joanwestenberg.com/content/images/size/w1200/2026/03/karl-raymund-catabas-6yFGUCyLgMI-unsplash--1--1.jpg",
+      "summary_en": "Marc Andreessen's views on introspection are challenged in this critique, arguing that self-reflection is essential for thoughtful leadership and durable tech culture.",
+      "summary_zh": "这篇评论对马克·安德森的“自省”观点提出质疑，主张自省对于理性领导和持久的科技文化至关重要。",
+      "hn": {
+        "id": 47627056,
+        "type": "story",
+        "by": "surprisetalk",
+        "score": 381,
+        "descendants": 451,
+        "time": 1775226552,
+        "comments_url": "https://news.ycombinator.com/item?id=47627056"
+      },
+      "hot_score": 1.19,
+      "tags": [
+        "Culture"
+      ]
+    },
+    {
+      "title_en": "Decisions that eroded trust in Azure – by a former Azure Core engineer",
+      "url": "https://isolveproblems.substack.com/p/how-microsoft-vaporized-a-trillion",
+      "title_zh": "让 Azure 信任度受损的决策—一位前 Azure Core 工程师的看法",
+      "created_display": "Created: Apr 02, 2026 / 09:00 PT",
+      "image_url": null,
+      "summary_en": "A former Azure Core engineer details decisions that undermined customer trust, touching on feature deprecation, opaque updates, and governance friction that frustrated developers and admins. The piece reframes Azure’s evolution as a case study in cloud trust and product governance.",
+      "summary_zh": "一位前 Azure Core 工程师揭示削弱用户信任的决策，涉及功能弃用、更新不透明与治理摩擦等问题，令开发者和管理员感到挫败。该分析将 Azure 的演变视为云信任与产品治理的案例研究。",
+      "hn": {
+        "id": 47616242,
+        "type": "story",
+        "by": "axelriet",
+        "score": 1207,
+        "descendants": 612,
+        "time": 1775145627,
+        "comments_url": "https://news.ycombinator.com/item?id=47616242"
+      },
+      "tags": [
+        "Business"
+      ],
+      "hot_score": 1.18
+    },
+    {
+      "title_en": "Iran strikes leave Amazon availability zones \"hard down\" in Bahrain and Dubai",
+      "url": "https://www.bigtechnology.com/p/iran-strikes-leave-amazon-availability",
+      "title_zh": "伊朗袭击致巴林和迪拜的亚马逊可用区出现严重中断",
+      "created_display": "Created: Apr 03, 2026 / 14:25 PT",
+      "image_url": "https://substackcdn.com/image/fetch/$s_!6X95!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F29bf6a18-10a1-409f-90c7-937af2bea02d_2706x1644.png",
+      "summary_en": "Geopolitical strikes knocked AWS availability zones in Bahrain and Dubai offline, disrupting regional cloud services. The outage underscores the fragility of regional cloud infrastructure and the importance of disaster recovery planning and cross-region redundancy for latency-sensitive applications.",
+      "summary_zh": "地缘政治冲突导致巴林与迪拜的亚马逊可用区离线，区域云服务受到干扰。这一中断凸显了区域云基础设施的脆弱性，以及对跨区域灾难恢复和低延迟应用冗余设计的需求。",
+      "hn": {
+        "id": 47632503,
+        "type": "story",
+        "by": "upofadown",
+        "score": 203,
+        "descendants": 102,
+        "time": 1775251555,
+        "comments_url": "https://news.ycombinator.com/item?id=47632503"
+      },
+      "tags": [
+        "Security",
+        "DevOps"
+      ],
+      "hot_score": 1.15
+    },
+    {
+      "title_en": "Run Linux containers on Android, no root required",
+      "url": "https://github.com/ExTV/Podroid",
+      "title_zh": "在 Android 上无需 root 即可运行 Linux 容器",
+      "created_display": "Created: Apr 03, 2026 / 15:23 PT",
+      "image_url": "https://opengraph.githubassets.com/c8fb305552378276b06d6ab1940c3344a102ea1edc4d3930711f9e5f0aad0794/ExTV/Podroid",
+      "summary_en": "A project shows Linux containers can run on Android without root access, enabling isolated Linux environments on mobile devices. While promising for portability and dev/test workflows, it raises questions about performance and security.",
+      "summary_zh": "一个项目展示了在 Android 上无需 root 就能运行 Linux 容器，允许在手机上创建独立的 Linux 环境。虽然对可移植性和开发测试很有吸引力，但也带来性能和安全性的考量。",
+      "hn": {
+        "id": 47633131,
+        "type": "story",
+        "by": "politelemon",
+        "score": 155,
+        "descendants": 56,
+        "time": 1775255035,
+        "comments_url": "https://news.ycombinator.com/item?id=47633131"
+      },
+      "tags": [
+        "Programming",
+        "Open Source",
+        "Security"
+      ],
+      "hot_score": 0.97
+    },
+    {
+      "title_en": "Solar and batteries can power the world",
+      "url": "https://nworbmot.org/blog/solar-battery-world.html",
+      "title_zh": "太阳能与电池能为全球供电",
+      "created_display": "Created: Apr 03, 2026 / 07:29 PT",
+      "image_url": "https://nworbmot.org/blog/graphics/solar-battery-world/cost_map-260206-solarbatt-solarbatt90.png",
+      "summary_en": "Advances in solar PV and long-duration battery storage could meet global electricity demand with a mostly zero-carbon grid, assuming scale, cheap storage, and grid modernization. The piece argues that with policy and investment, a solar-plus-storage future is technically feasible.",
+      "summary_zh": "太阳能与电池储能的快速发展使全球电力需求有望在不排放碳的情况下由太阳能支撑。但要实现这一愿景，需要大规模部署、智能电网升级和稳定性管理等方面的投入。文章讨论了可行性与面临的挑战，如原材料、制造产能以及间歇性供电的调度。",
+      "hn": {
+        "id": 47627061,
+        "type": "story",
+        "by": "edent",
+        "score": 275,
+        "descendants": 424,
+        "time": 1775226566,
+        "comments_url": "https://news.ycombinator.com/item?id=47627061"
+      },
+      "hot_score": 0.86,
+      "tags": [
+        "Energy",
+        "Science"
+      ]
+    },
+    {
+      "title_en": "European alternatives to Google, Apple, Dropbox and 120 US apps",
+      "url": "https://only-eu.eu/en/",
+      "title_zh": "欧洲可替代品：覆盖 Google、Apple、Dropbox 与 120 款美企应用",
+      "created_display": "Created: Apr 03, 2026 / 02:37 PT",
+      "image_url": "https://only-eu.eu/og-default.png",
+      "summary_en": "Europe is building a local ecosystem of alternatives to major US tech giants, offering locally developed services for search, cloud, and productivity. The initiative aims to reduce dependency on U.S.-based platforms and spur EU-friendly data governance, privacy, and security standards.",
+      "summary_zh": "欧洲正培育一套替代美国巨头的本地化生态系统，覆盖搜索、云端和办公等领域。此举意在降低对美国平台的依赖，推动更符合欧盟隐私和数据治理的标准。",
+      "hn": {
+        "id": 47624741,
+        "type": "story",
+        "by": "madman_dev",
+        "score": 357,
+        "descendants": 156,
+        "time": 1775209044,
+        "comments_url": "https://news.ycombinator.com/item?id=47624741"
+      },
+      "tags": [
+        "Startups",
+        "Business",
+        "Security",
+        "Privacy"
+      ],
+      "hot_score": 0.81
+    },
+    {
+      "title_en": "Fake Fans",
+      "url": "https://www.wordsfromeliza.com/p/fake-fans",
+      "title_zh": "假粉丝",
+      "created_display": "Created: Apr 03, 2026 / 15:26 PT",
+      "image_url": "https://substackcdn.com/image/fetch/$s_!yKaD!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9401faa1-c4d7-40f0-96af-31947cb5c174_1170x717.jpeg",
+      "summary_en": "A thoughtful piece examining the phenomenon of fake fans online and what it means for creators, audiences, and culture at large.",
+      "summary_zh": "一篇深度反思，探讨网络虚假粉丝现象对创作者、受众与整体网络文化的影响及其带来的隐忧。",
+      "hn": {
+        "id": 47633157,
+        "type": "story",
+        "by": "performative",
+        "score": 125,
+        "descendants": 30,
+        "time": 1775255198,
+        "comments_url": "https://news.ycombinator.com/item?id=47633157"
+      },
+      "tags": [
+        "Culture"
+      ],
+      "hot_score": 0.78
+    },
+    {
+      "title_en": "NHS staff refusing to use FDP over Palantir ethical concerns",
+      "url": "https://www.freevacy.com/news/financial-times/nhs-staff-refusing-to-use-fdp-over-palantir-ethical-concerns/7272",
+      "title_zh": "NHS 员工因 Palantir 道德担忧拒用 FDP",
+      "created_display": "Created: Apr 03, 2026 / 02:36 PT",
+      "image_url": "https://www.freevacy.com/storage/app/uploads/public/616/551/15b/thumb_4991_800_400_0_0_crop.jpg",
+      "summary_en": "NHS staff are reportedly refusing to use FDP because of ethical concerns related to Palantir's data practices and governance. The dispute highlights the broader tension between public-sector data initiatives and privacy, transparency, and vendor risk in government tech deployments.",
+      "summary_zh": "据报道，NHS 员工因对 Palantir 的数据处理与治理存在道德担忧，拒用 FDP。此事反映出公共部门数据计划在隐私、透明度与供应商风险方面面临的广泛挑战。",
+      "hn": {
+        "id": 47624736,
+        "type": "story",
+        "by": "chrisjj",
+        "score": 333,
+        "descendants": 157,
+        "time": 1775208993,
+        "comments_url": "https://news.ycombinator.com/item?id=47624736"
+      },
+      "tags": [
+        "Privacy",
+        "Legal",
+        "Politics"
+      ],
+      "hot_score": 0.75
+    },
+    {
+      "title_en": "Firm boosts H.264 streaming license fees from $100k up to staggering $4.5M",
+      "url": "https://www.tomshardware.com/service-providers/streaming/h264-streaming-license-fees-jump-from-100000-to-4-5-million",
+      "title_zh": "一家公司将 H.264 流媒体许可费从 10 万美元跃升至 450 万美元",
+      "created_display": "Created: Apr 03, 2026 / 11:20 PT",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/hDsy4ZXfLyeCxDhoKvMSz8-882-80.png",
+      "summary_en": "A licensing shift has boosted H.264 streaming royalties from six figures to as high as $4.5 million. The jump highlights patent-driven costs for video delivery and the pressure on streaming services to optimize encoding choices. It signals an ongoing tension between innovation, licensing, and consumer pricing.",
+      "summary_zh": "H.264 流媒体许可费从约 10 万美元跃升至最高 450 万美元，显示出专利驱动的成本压力。此举将影响流媒体服务的编码决策与成本结构，同时凸显创新、授权与消费者价格之间的博弈。",
+      "hn": {
+        "id": 47630109,
+        "type": "story",
+        "by": "MaximilianEmel",
+        "score": 171,
+        "descendants": 67,
+        "time": 1775240416,
+        "comments_url": "https://news.ycombinator.com/item?id=47630109"
+      },
+      "tags": [
+        "Business",
+        "Finance",
+        "Legal"
+      ],
+      "hot_score": 0.72
+    },
+    {
+      "title_en": "April 2026 TLDR Setup for Ollama and Gemma 4 26B on a Mac mini",
+      "url": "https://gist.github.com/greenstevester/fc49b4e60a4fef9effc79066c1033ae5",
+      "title_zh": "在 Mac mini 上为 Ollama 与 Gemma 4-26B 的 2026 年 4 月 TLDR 设置",
+      "created_display": "Created: Apr 03, 2026 / 02:35 PT",
+      "image_url": "https://github.githubassets.com/assets/gist-og-image-54fd7dc0713e.png",
+      "summary_en": "TLDR setup shows how to run Ollama and Gemma 4-26B locally on a Mac mini, including steps and caveats about memory, CPU/GPU requirements, and performance expectations. The guide helps hobbyists test large-language models offline without cloud bursts.",
+      "summary_zh": "该 TLDR 汇总了在 Mac mini 上本地运行 Ollama 与 Gemma 4-26B 的简要设置方法，包含内存、CPU/GPU 要求及性能预期的提示。为爱好者提供离线测试大模型的实用路线，避免云端成本与隐私问题。",
+      "hn": {
+        "id": 47624731,
+        "type": "story",
+        "by": "greenstevester",
+        "score": 307,
+        "descendants": 118,
+        "time": 1775208916,
+        "comments_url": "https://news.ycombinator.com/item?id=47624731"
+      },
+      "hot_score": 0.69,
+      "tags": [
+        "AI",
+        "Hardware"
+      ]
+    },
+    {
+      "title_en": "Go on Embedded Systems and WebAssembly",
+      "url": "https://tinygo.org/",
+      "title_zh": "Go 在嵌入式系统与 WebAssembly 上",
+      "created_display": "Created: Apr 03, 2026 / 09:57 PT",
+      "image_url": "https://tinygo.org/images/tinygo-logo.png",
+      "summary_en": "TinyGo enables the Go language to run on microcontrollers and compile to WebAssembly, bringing Go's simplicity to embedded contexts and browser-based apps. This reduces the gap between productive systems programming and constrained hardware, enabling safer, faster development for IoT and frontend apps. It illustrates ongoing efforts to extend high-level languages into resource-constrained domains.",
+      "summary_zh": "TinyGo 让 Go 可以在微控制器和 WebAssembly 上运行，将高层语言的易用性带入受限硬件与浏览器端应用。它缩小了开发生产力与嵌入式资源约束之间的差距，促进物联网与前端应用的安全高效开发。此举体现了将高级语言扩展到资源有限领域的持续努力。",
+      "hn": {
+        "id": 47629116,
+        "type": "story",
+        "by": "uticus",
+        "score": 171,
+        "descendants": 23,
+        "time": 1775235429,
+        "comments_url": "https://news.ycombinator.com/item?id=47629116"
+      },
+      "tags": [
+        "Programming",
+        "Hardware",
+        "Web"
+      ],
+      "hot_score": 0.64
+    },
+    {
+      "title_en": "Why are we still using Markdown?",
+      "url": "https://bgslabs.org/blog/why-are-we-using-markdown/",
+      "title_zh": "我们为什么还在使用 Markdown？",
+      "created_display": "Created: Apr 03, 2026 / 11:03 PT",
+      "image_url": "https://bgslabs.org/og_images/why-are-we-using-markdown.png",
+      "summary_en": "A critical look at Markdown's limitations and the reasons it persists, exploring alternatives and potential improvements to lightweight markup.",
+      "summary_zh": "本文批判性地审视 Markdown 的局限性及为何仍在被广泛使用，探讨替代方案和对轻量标记语言的改进空间。",
+      "hn": {
+        "id": 47629903,
+        "type": "story",
+        "by": "veqq",
+        "score": 152,
+        "descendants": 215,
+        "time": 1775239390,
+        "comments_url": "https://news.ycombinator.com/item?id=47629903"
+      },
+      "tags": [
+        "Web"
+      ],
+      "hot_score": 0.63
+    },
+    {
+      "title_en": "Tailscale's new macOS home",
+      "url": "https://tailscale.com/blog/macos-notch-escape",
+      "title_zh": "Tailscale 的全新 macOS 应用 Home",
+      "created_display": "Created: Apr 02, 2026 / 11:22 PT",
+      "image_url": "https://cdn.sanity.io/images/w77i7m8x/production/be2e4419f4669282a3b09ee31e6e32a9cc328d51-1576x886.png",
+      "summary_en": "Tailscale unveils a new macOS app called Home, designed to streamline onboarding and network access on Macs. The release focuses on a native-like experience and features aimed at improving usability for Mac users, including improvements around how the app accommodates display quirks like the notch.",
+      "summary_zh": "Tailscale 推出名为 Home 的 macOS 应用，旨在简化 Mac 的网络接入与初始配置。新应用强调原生化体验，并通过改进对显示凹槽等硬件细节的适配，提升 Mac 用户的使用便捷性。",
+      "hn": {
+        "id": 47618189,
+        "type": "story",
+        "by": "tosh",
+        "score": 556,
+        "descendants": 302,
+        "time": 1775154123,
+        "comments_url": "https://news.ycombinator.com/item?id=47618189"
+      },
+      "tags": [
+        "Security",
+        "Web"
+      ],
+      "hot_score": 0.59
+    },
+    {
+      "title_en": "SSH certificates: the better SSH experience",
+      "url": "https://jpmens.net/2026/04/03/ssh-certificates-the-better-ssh-experience/",
+      "title_zh": "SSH 证书：更好的 SSH 体验",
+      "created_display": "Created: Apr 03, 2026 / 02:52 PT",
+      "image_url": "https://jpmens.net/inc/feed.png",
+      "summary_en": "Argues that SSH certificates improve management, revocation, and credential rotation for SSH access by centralizing trust via a CA, reducing user friction and improving security in multi-user environments.",
+      "summary_zh": "主张通过集中信任的 CA 来实现 SSH 证书，从而提升管理、撤销与凭据轮换的能力，在多用户环境中降低使用难度并提升安全性。",
+      "hn": {
+        "id": 47624811,
+        "type": "story",
+        "by": "jandeboevrie",
+        "score": 248,
+        "descendants": 114,
+        "time": 1775209940,
+        "comments_url": "https://news.ycombinator.com/item?id=47624811"
+      },
+      "tags": [
+        "Security",
+        "DevOps"
+      ],
+      "hot_score": 0.57
+    },
+    {
+      "title_en": "Build your own Dial-up ISP with a Raspberry Pi",
+      "url": "https://www.jeffgeerling.com/blog/2026/build-your-own-dial-up-isp-with-a-raspberry-pi/",
+      "title_zh": "用树莓派搭建自己的拨号上网服务提供商",
+      "created_display": "Created: Apr 03, 2026 / 08:08 PT",
+      "image_url": "https://www.jeffgeerling.com/blog/2026/build-your-own-dial-up-isp-with-a-raspberry-pi/pi-isp-ibook-hero.jpeg",
+      "summary_en": "A how-to guide walks readers through building a DIY dial-up ISP using a Raspberry Pi, reviving retro networking for a modern hobbyist project. The steps illustrate practical networking know-how and the ongoing appeal of offline, local control of connectivity. It highlights the educational value of hands-on infrastructure projects.",
+      "summary_zh": "教程教你用树莓派搭建自己的拨号上网服务提供商，重温现代爱好者的复古网络乐趣。步骤展示了实际的网络连接知识与对离线、在地网络控制的持续吸引力。强调了动手搭建基础设施的教育价值。",
+      "hn": {
+        "id": 47627527,
+        "type": "story",
+        "by": "arjunbajaj",
+        "score": 174,
+        "descendants": 30,
+        "time": 1775228896,
+        "comments_url": "https://news.ycombinator.com/item?id=47627527"
+      },
+      "tags": [
+        "Hardware",
+        "Education",
+        "DevOps"
+      ],
+      "hot_score": 0.57
+    },
+    {
+      "title_en": "Cursor 3",
+      "url": "https://cursor.com/blog/cursor-3",
+      "title_zh": "Cursor 3 发布",
+      "created_display": "Created: Apr 02, 2026 / 11:13 PT",
+      "image_url": "https://ptht05hbb1ssoooe.public.blob.vercel-storage.com/assets/blog/og/opengraph-new-cursor-no-text-1-.png",
+      "summary_en": "Cursor 3 marks the latest release of the Cursor platform, bringing new features and performance enhancements. The update demonstrates continued maturation and competitive positioning within its software tools ecosystem.",
+      "summary_zh": "Cursor 3 作为该平台的最新版本，带来新特性与性能提升，体现出其软件工具生态的持续成熟与竞争力。",
+      "hn": {
+        "id": 47618084,
+        "type": "story",
+        "by": "adamfeldman",
+        "score": 529,
+        "descendants": 399,
+        "time": 1775153621,
+        "comments_url": "https://news.ycombinator.com/item?id=47618084"
+      },
+      "tags": [
+        "Programming"
+      ],
+      "hot_score": 0.56
+    },
+    {
+      "title_en": "Critics say EU risks ceding control of its tech laws under U.S. pressure",
+      "url": "https://www.politico.eu/article/fatal-decision-eu-slammed-for-caving-to-us-pressure-on-digital-rules/",
+      "title_zh": "批评者称欧盟在美国压力下可能让渡科技法规控制权",
+      "created_display": "Created: Apr 03, 2026 / 03:58 PT",
+      "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/04/01/GettyImages-2268918834-scaled.jpg",
+      "summary_en": "EU risks ceding control of digital rules under U.S. pressure, critics say, as security/privacy and digitization debates shape regulatory alignment. The piece argues that strategic sovereignty may be sacrificed for swift alignment with American tech policy.",
+      "summary_zh": "批评者表示，在美国压力下，欧盟可能让渡对数字规则的控制权，削弱科技治理的自主性。文章讨论这一走向对隐私、竞争与数字经济治理的长期影响，以及欧盟需如何维护自主制定规则的能力。",
+      "hn": {
+        "id": 47625244,
+        "type": "story",
+        "by": "nickslaughter02",
+        "score": 230,
+        "descendants": 137,
+        "time": 1775213931,
+        "comments_url": "https://news.ycombinator.com/item?id=47625244"
+      },
+      "hot_score": 0.56,
+      "tags": [
+        "Politics",
+        "Legal",
+        "Security",
+        "Privacy"
+      ]
+    },
+    {
+      "title_en": "Qwen3.6-Plus: Towards real world agents",
+      "url": "https://qwen.ai/blog?id=qwen3.6",
+      "title_zh": "Qwen3.6-Plus：迈向现实世界的智能代理",
+      "created_display": "Created: Apr 02, 2026 / 07:28 PT",
+      "image_url": null,
+      "summary_en": "Qwen3.6-Plus targets real-world agents, signaling a shift from pure chat to tool-enabled reasoning and action. The update likely improves grounding, reliability, and multi-step problem solving for practical tasks.",
+      "summary_zh": "Qwen3.6-Plus 迈向现实世界的智能代理，体现从单纯对话型模型向工具使用和多步推理更稳健的转变。该更新大概率提升模型的落地性、稳定性，以及与外部工具的集成能力。",
+      "hn": {
+        "id": 47615002,
+        "type": "story",
+        "by": "pretext",
+        "score": 579,
+        "descendants": 202,
+        "time": 1775140132,
+        "comments_url": "https://news.ycombinator.com/item?id=47615002"
+      },
+      "tags": [
+        "AI"
+      ],
+      "hot_score": 0.53
+    },
+    {
+      "title_en": "Artemis computer running two instances of MS outlook; they can't figure out why",
+      "url": "https://bsky.app/profile/nikigrayson.com/post/3miik2wzosk25",
+      "title_zh": "阿提米斯 II 航天员发现两台 Outlook 实例在计算机上运行",
+      "created_display": "Created: Apr 02, 2026 / 08:08 PT",
+      "image_url": "https://video.bsky.app/watch/did%3Aplc%3Ajzhiqz7fb5dj6h7cydluryvn/bafkreigqekn26g6ismbcxsyyx3w3ifa3ruoozkyjfdmkx2enz6am64fzhm/thumbnail.jpg",
+      "summary_en": "Astronauts on Artemis II report a computer running two Outlook instances, puzzling mission engineers. The anomaly underlines how even standard software can behave unpredictably in space-grade hardware and the need for robust debugging.",
+      "summary_zh": "阿提米斯 II 的航天员报告一台计算机上运行着两个 Outlook 实例，令任务工程师困惑。这一异常凸显在太空级硬件上普通软件也可能表现异常，需要更强的调试与排错能力。",
+      "hn": {
+        "id": 47615490,
+        "type": "story",
+        "by": "mooreds",
+        "score": 485,
+        "descendants": 355,
+        "time": 1775142525,
+        "comments_url": "https://news.ycombinator.com/item?id=47615490"
+      },
+      "tags": [
+        "Space",
+        "Hardware"
+      ],
+      "hot_score": 0.46
+    },
+    {
+      "title_en": "The Document Foundation ejects its core developers",
+      "url": "https://meeksfamily.uk/~michael/blog/2026-04-02-tdf-ejects-core-devs.html",
+      "title_zh": "文档基金会驱逐核心开发者",
+      "created_display": "Created: Apr 03, 2026 / 04:53 PT",
+      "image_url": "https://meeksfamily.uk/~michael/images/2026-04-01-board-makeup.png",
+      "summary_en": "The Document Foundation ejects its core developers, triggering leadership upheaval and raising questions about governance and project direction. The exodus could slow LibreOffice progress or shift control to different maintainers.",
+      "summary_zh": "文档基金会驱逐核心开发者，引发治理动荡并引发对项目方向的质疑。核心开发者的离开可能拖慢 LibreOffice 的迭代速度，或促使权力中心向其他维护者转移。",
+      "hn": {
+        "id": 47625639,
+        "type": "story",
+        "by": "janvdberg",
+        "score": 151,
+        "descendants": 2,
+        "time": 1775217212,
+        "comments_url": "https://news.ycombinator.com/item?id=47625639"
+      },
+      "hot_score": 0.39,
+      "tags": [
+        "Open Source"
+      ]
+    },
+    {
+      "title_en": "Good ideas do not need lots of lies in order to gain public acceptance (2008)",
+      "url": "https://blog.danieldavies.com/2004/05/d-squared-digest-one-minute-mba.html",
+      "title_zh": "好点子并不需要大量谎言来获得公众认同（2008）",
+      "created_display": "Created: Apr 02, 2026 / 10:29 PT",
+      "image_url": "https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_stPX-hJzPM7E1DNgTaB-tr3UnN67oNx-9KkyXDtwHSb-wqP4rcRoi9h0ZArLMeP9KLPFhKHj5vgSZPQcO_XdxvKkQ2GDE58E5oNuW4gYUi=s0-d",
+      "summary_en": "A 2008 blog reflection argues that solid ideas don’t rely on deception to win traction, highlighting ethics and trust in business and communication. It explores how manipulative tactics can short-circuit genuine adoption, and why integrity matters for long-term success.",
+      "summary_zh": "2008 年的一篇博客反思认为，成熟的想法不需要谎言来赢得公众认同，强调商业与传播中的道德与信任。文章分析了操纵性手段如何短期带来效应，以及长期成功为何依赖诚信。",
+      "hn": {
+        "id": 47617415,
+        "type": "story",
+        "by": "sedev",
+        "score": 357,
+        "descendants": 190,
+        "time": 1775150943,
+        "comments_url": "https://news.ycombinator.com/item?id=47617415"
+      },
+      "tags": [
+        "Business",
+        "Culture"
+      ],
+      "hot_score": 0.37
+    },
+    {
+      "title_en": "Post Mortem: axios NPM supply chain compromise",
+      "url": "https://github.com/axios/axios/issues/10636",
+      "title_zh": "Axios 的 NPM 供应链安全事件事后分析",
+      "created_display": "Created: Apr 02, 2026 / 17:00 PT",
+      "image_url": "https://opengraph.githubassets.com/4f44cead7777bebe90274def85e90af03204b11e9f53701447976d24a1049102/axios/axios/issues/10636",
+      "summary_en": "Axios experienced a supply-chain compromise on npm, with a malicious package version slipping into the ecosystem and executing unsafe code on install. The post-mortem outlines how the breach happened, the remediation steps taken, and key lessons for preventing future incidents.",
+      "summary_zh": "Axios 遭遇 npm 供应链入侵，某个恶意版本在发布后被广泛使用并执行恶意代码。分析稿梳理了漏洞的成因、应对措施以及未来防护要点。",
+      "hn": {
+        "id": 47621792,
+        "type": "story",
+        "by": "Kyro38",
+        "score": 269,
+        "descendants": 122,
+        "time": 1775174419,
+        "comments_url": "https://news.ycombinator.com/item?id=47621792"
+      },
+      "tags": [
+        "Security",
+        "Open Source"
+      ],
+      "hot_score": 0.37
+    },
+    {
+      "title_en": "We replaced RAG with a virtual filesystem for our AI documentation assistant",
+      "url": "https://www.mintlify.com/blog/how-we-built-a-virtual-filesystem-for-our-assistant",
+      "title_zh": "我们用虚拟文件系统替代 RAG 构建 AI 文档助手",
+      "created_display": "Created: Apr 02, 2026 / 11:24 PT",
+      "image_url": "https://www.mintlify.com/images/featured/how-we-built-a-virtual-filesystem-for-our-assistant.png",
+      "summary_en": "A team swaps Retrieval-Augmented Generation (RAG) for a virtual filesystem to organize their AI documentation assistant. The approach reduces latency, simplifies data governance, and makes responses more predictable. It offers a practical blueprint for building reliable AI tooling with fewer external dependencies.",
+      "summary_zh": "团队用虚拟文件系统取代 RAG 来组织 AI 文档助手的数据，提升性能与可控性。该方法降低延迟、简化数据治理，并使回答更加可预测。为构建稳定、低依赖的 AI 工具提供了务实的架构思路。",
+      "hn": {
+        "id": 47618223,
+        "type": "story",
+        "by": "denssumesh",
+        "score": 337,
+        "descendants": 125,
+        "time": 1775154269,
+        "comments_url": "https://news.ycombinator.com/item?id=47618223"
+      },
+      "tags": [
+        "AI",
+        "Data"
+      ],
+      "hot_score": 0.36
+    },
+    {
+      "title_en": "Artemis II will use laser beams to live-stream 4K moon footage at 260 Mbps",
+      "url": "https://www.tomshardware.com/networking/artemis-ii-will-use-laser-beams-to-live-stream-4k-moon-footage-one-giant-step-beyond-the-s-band-radio-comms-of-the-apollo-era",
+      "title_zh": "阿提米斯 II 将用激光实现 4K 月球影像直播",
+      "created_display": "Created: Apr 02, 2026 / 08:04 PT",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/UxfVoNCm3hz9WnPYj3XzAQ-854-80.jpg",
+      "summary_en": "Artemis II will use laser communications to livestream 4K moon footage at 260 Mbps, a major upgrade over traditional radio links. The test showcases optical links’ potential to dramatically increase bandwidth for future crewed missions.",
+      "summary_zh": "阿提米斯 II 将通过激光通信以 260 Mbps 直播 4K 月球影像，较传统射频链路有明显提升。这一测试展示了光学链路在未来载人任务中大幅提升带宽的潜力。",
+      "hn": {
+        "id": 47615449,
+        "type": "story",
+        "by": "speckx",
+        "score": 368,
+        "descendants": 150,
+        "time": 1775142284,
+        "comments_url": "https://news.ycombinator.com/item?id=47615449"
+      },
+      "tags": [
+        "Space"
+      ],
+      "hot_score": 0.35
+    },
+    {
+      "title_en": "Proton Meet isn't what they told you it was",
+      "url": "https://www.sambent.com/proton-meet-isnt-what-they-told-you/",
+      "title_zh": "Proton Meet 并非如宣传所述",
+      "created_display": "Created: Apr 03, 2026 / 01:59 PT",
+      "image_url": "https://www.sambent.com/content/images/size/w1200/2026/03/proton-meet-isnt-what-they-told-you-v3.jpg",
+      "summary_en": "Proton Meet is facing scrutiny over its privacy claims and feature scope, suggesting it doesn't fully match what was promised. The piece calls into question marketing vs. product reality in privacy-centric collaboration tools.",
+      "summary_zh": "Proton Meet 被指未达到承诺的隐私承诺与功能范围，质疑其在以隐私为核心的协作工具中的宣传与产品真实之间的差距。此事提醒人们在隐私工具上要认真核实承诺并关注透明的产品路线图。",
+      "hn": {
+        "id": 47624558,
+        "type": "story",
+        "by": "bundie",
+        "score": 163,
+        "descendants": 161,
+        "time": 1775206785,
+        "comments_url": "https://news.ycombinator.com/item?id=47624558"
+      },
+      "tags": [
+        "Privacy"
+      ],
+      "hot_score": 0.35
+    },
+    {
+      "title_en": "Delve allegedly forked an open-source tool and sold it as its own",
+      "url": "https://techcrunch.com/2026/04/01/the-reputation-of-troubled-yc-startup-delve-has-gotten-even-worse/",
+      "title_zh": "Delve 被指仿冒开源工具并以自有名义销售",
+      "created_display": "Created: Apr 02, 2026 / 08:03 PT",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2025/07/IMG_1542.jpeg?w=1170",
+      "summary_en": "Tech media report that Delve, a troubled YC-backed startup, allegedly forked an open-source tool and sold it as its own. The controversy underscores ongoing tensions around licensing, attribution, and investor confidence in early-stage AI ventures.",
+      "summary_zh": "Tech 圈报道显示备受争议的 YC 旗下初创公司 Delve 被指窃取开源工具并以自有产品在市场销售，此举反映出开源许可、署名以及投资者信心等方面的持续紧张关系。",
+      "hn": {
+        "id": 47615434,
+        "type": "story",
+        "by": "nickvec",
+        "score": 320,
+        "descendants": 173,
+        "time": 1775142188,
+        "comments_url": "https://news.ycombinator.com/item?id=47615434"
+      },
+      "tags": [
+        "Open Source",
+        "Business",
+        "AI",
+        "Startups"
+      ],
+      "hot_score": 0.3
+    },
+    {
+      "title_en": "Renewables reached nearly 50% of global electricity capacity last year",
+      "url": "https://www.theregister.com/2026/04/01/renewables_generated_nearly_half_global_power/",
+      "title_zh": "全球可再生能源约占电力容量的近一半",
+      "created_display": "Created: Apr 02, 2026 / 08:26 PT",
+      "image_url": "https://regmedia.co.uk/2025/09/26/shutterstock_solarandwind.jpg",
+      "summary_en": "Renewables reached nearly 50% of global electricity capacity last year, marking a pivotal shift in the energy mix. The milestone foregrounds challenges around grid integration, storage, and policy incentives needed to sustain the transition.",
+      "summary_zh": "去年全球可再生能源几乎占到全球电力容量的50%，标志着能源结构的重要转折。这一里程碑凸显了并网、储能以及维持转型所需的政策激励等挑战。",
+      "hn": {
+        "id": 47615756,
+        "type": "story",
+        "by": "Growtika",
+        "score": 293,
+        "descendants": 145,
+        "time": 1775143578,
+        "comments_url": "https://news.ycombinator.com/item?id=47615756"
+      },
+      "tags": [
+        "Energy"
+      ],
+      "hot_score": 0.28
+    },
+    {
+      "title_en": "New Rowhammer attacks give complete control of machines running Nvidia GPUs",
+      "url": "https://arstechnica.com/security/2026/04/new-rowhammer-attacks-give-complete-control-of-machines-running-nvidia-gpus/",
+      "title_zh": "新型 Rowhammer 攻击可完全控制运行 Nvidia GPU 的机器",
+      "created_display": "Created: Apr 03, 2026 / 01:15 PT",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/exploit-vulnerability-security.jpg",
+      "summary_en": "Researchers uncovered new Rowhammer attacks that allow full control over machines equipped with Nvidia GPUs, bypassing memory protections; implications for data center security and potential mitigations.",
+      "summary_zh": "研究人员发现新的 Rowhammer 攻击可完全控制运行 Nvidia GPU 的机器，突破内存保护，给数据中心安全带来重大风险，并需要相应的缓解措施与补丁。",
+      "hn": {
+        "id": 47624317,
+        "type": "story",
+        "by": "01-_-",
+        "score": 128,
+        "descendants": 10,
+        "time": 1775204112,
+        "comments_url": "https://news.ycombinator.com/item?id=47624317"
+      },
+      "hot_score": 0.27,
+      "tags": [
+        "Security",
+        "Hardware"
+      ]
+    },
+    {
+      "title_en": "OpenAI Acquires TBPN",
+      "url": "https://openai.com/index/openai-acquires-tbpn/",
+      "title_zh": "OpenAI 收购 TBPN",
+      "created_display": "Created: Apr 02, 2026 / 10:26 PT",
+      "image_url": null,
+      "summary_en": "OpenAI expands its ecosystem by acquiring TBPN to bolster its AI tooling, content distribution, or research partnerships, signaling a broader strategy to weave external networks into its platform. The move could affect tooling access and collaboration for developers and researchers.",
+      "summary_zh": "OpenAI 收购 TBPN，旨在扩展 AI 工具链、内容分发或研究合作网络，显示其在平台生态上的扩张策略。这一举措可能影响开发者与研究者的工具获取与协作方式。",
+      "hn": {
+        "id": 47617376,
+        "type": "story",
+        "by": "surprisetalk",
+        "score": 236,
+        "descendants": 190,
+        "time": 1775150809,
+        "comments_url": "https://news.ycombinator.com/item?id=47617376"
+      },
+      "tags": [
+        "Business",
+        "Startups",
+        "AI"
+      ],
+      "hot_score": 0.24
+    },
+    {
+      "title_en": "Modern SQLite: Features You Didn't Know It Had",
+      "url": "https://slicker.me/sqlite/features.htm",
+      "title_zh": "现代 SQLite：你不知道的功能",
+      "created_display": "Created: Apr 02, 2026 / 09:34 PT",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/SQLite370.svg/330px-SQLite370.svg.png",
+      "summary_en": "SQLite surprises with features often overlooked, from JSON1 and virtual tables to advanced indexing and write-ahead logging.",
+      "summary_zh": "SQLite 常被低估的功能其实很丰富，从 JSON 支持、虚拟表到高级索引和写前日志等均可提升移动和嵌入式应用的性能与鲁棒性。本文梳理了这些不易察觉的强大特性。",
+      "hn": {
+        "id": 47616704,
+        "type": "story",
+        "by": "thunderbong",
+        "score": 236,
+        "descendants": 62,
+        "time": 1775147679,
+        "comments_url": "https://news.ycombinator.com/item?id=47616704"
+      },
+      "tags": [
+        "Data",
+        "Open Source"
+      ],
+      "hot_score": 0.23
+    },
+    {
+      "title_en": "'Backrooms' and the Rise of the Institutional Gothic",
+      "url": "https://thereader.mitpress.mit.edu/backrooms-and-the-rise-of-the-institutional-gothic/",
+      "title_zh": "《后室》与制度化哥特的崛起",
+      "created_display": "Created: Apr 02, 2026 / 06:18 PT",
+      "image_url": null,
+      "summary_en": "Examines the Backrooms meme as a lens on bureaucratic spaces and institutional power, connecting liminal online workspaces to gothic aesthetics. It argues these spaces reveal anxieties about institutions in the digital age.",
+      "summary_zh": "以《后室》这一网路迷因为镜头，分析其如何映射出官僚化空间与制度权力的美学。文章将数字时代对机构的焦虑与怪诞感联系起来，揭示新兴的制度哥特风格。",
+      "hn": {
+        "id": 47614100,
+        "type": "story",
+        "by": "anarbadalov",
+        "score": 216,
+        "descendants": 104,
+        "time": 1775135885,
+        "comments_url": "https://news.ycombinator.com/item?id=47614100"
+      },
+      "tags": [
+        "Culture",
+        "Entertainment"
+      ],
+      "hot_score": 0.19
+    },
+    {
+      "title_en": "Show HN: Made a little Artemis II tracker",
+      "url": "https://artemis-ii-tracker.com/",
+      "title_zh": "Show HN：做了一个小型 Artemis II 跟踪器",
+      "created_display": "Created: Apr 02, 2026 / 16:16 PT",
+      "image_url": null,
+      "summary_en": "Show HN: Made a little Artemis II tracker, offering real-time status on launch windows, mission phases, and updates. Demonstrates the value of lightweight tooling for space missions.",
+      "summary_zh": "Show HN：作者做了一个简易的 Artemis II 跟踪器，提供发射窗口、任务阶段等的实时信息。该工具体现了为太空任务打造轻量级追踪工具的可行性。",
+      "hn": {
+        "id": 47621438,
+        "type": "story",
+        "by": "codingmoh",
+        "score": 145,
+        "descendants": 54,
+        "time": 1775171765,
+        "comments_url": "https://news.ycombinator.com/item?id=47621438"
+      },
+      "hot_score": 0.19,
+      "tags": [
+        "Show HN",
+        "Space"
+      ]
+    },
+    {
+      "title_en": "George Goble has died",
+      "url": "https://www.legacy.com/us/obituaries/wlfi/name/george-goble-obituary?id=61144779",
+      "title_zh": "George Goble 去世",
+      "created_display": "Created: Apr 02, 2026 / 11:21 PT",
+      "image_url": "https://cache.legacy.net/legacy/images/cobrands/legacyadn/photos/ea72f4cb-ebdb-4bda-9367-fc43681e7d83.jpgx?w=600&h=440",
+      "summary_en": "George Goble, a recognized figure in computing, has died. Obituaries celebrate his contributions and lasting impact on the field.",
+      "summary_zh": "计算机领域知名人物 George Goble 去世，讣告纪念他对行业的贡献与影响。",
+      "hn": {
+        "id": 47618176,
+        "type": "story",
+        "by": "finaard",
+        "score": 170,
+        "descendants": 39,
+        "time": 1775154068,
+        "comments_url": "https://news.ycombinator.com/item?id=47618176"
+      },
+      "tags": [
+        "Culture"
+      ],
+      "hot_score": 0.18
+    },
+    {
+      "title_en": "Amazon is adding a fuel surcharge to fees it collects from third-party sellers",
+      "url": "https://www.cnbc.com/2026/04/02/amazon-add-3point5percent-fuel-and-logistics-surcharge-for-sellers-amid-iran-war.html",
+      "title_zh": "亚马逊将向第三方卖家收取燃油及物流附加费",
+      "created_display": "Created: Apr 02, 2026 / 11:49 PT",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108069997-1733157828632-gettyimages-2187360081-2024_12_02_amazon_cyber_monday_mjrc434.jpeg?v=1775155866&w=1920&h=1080",
+      "summary_en": "Amazon is adding a 3.5% fuel and logistics surcharge to the fees it collects from third-party sellers. The move raises operating costs for marketplace merchants and could ripple into pricing and margins on the platform.",
+      "summary_zh": "亚马逊将向第三方卖家收取3.5%的燃油与物流附加费，进一步提高卖家在平台上的运营成本。这一举措可能挤压卖家利润并影响定价与竞争格局。",
+      "hn": {
+        "id": 47618581,
+        "type": "story",
+        "by": "lehi",
+        "score": 165,
+        "descendants": 104,
+        "time": 1775155778,
+        "comments_url": "https://news.ycombinator.com/item?id=47618581"
+      },
+      "tags": [
+        "Business",
+        "Finance"
+      ],
+      "hot_score": 0.18
+    },
+    {
+      "title_en": "The Australian government has announced gambling advertising reforms",
+      "url": "https://www.bbc.com/news/articles/c62492e925lo",
+      "title_zh": "澳大利亚政府宣布赌博广告改革",
+      "created_display": "Created: Apr 02, 2026 / 11:24 PT",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/b1e7/live/47034c70-2e3c-11f1-9a31-03c701f02bf6.jpg",
+      "summary_en": "Australia will tighten rules on gambling advertising across sports broadcasts, online platforms, and sponsorships to curb problem gambling; includes restrictions on targeting and placement.",
+      "summary_zh": "澳大利亚政府宣布对赌博广告进行改革，加强对体育赛事广告、数字平台和赞助的监管，旨在减少赌博成瘾风险。改革涉及限制定向、广告时段和展示方式，对广告商和体育组织影响显著。",
+      "hn": {
+        "id": 47618221,
+        "type": "story",
+        "by": "gostsamo",
+        "score": 132,
+        "descendants": 100,
+        "time": 1775154252,
+        "comments_url": "https://news.ycombinator.com/item?id=47618221"
+      },
+      "hot_score": 0.14,
+      "tags": [
+        "Politics",
+        "Legal"
+      ]
+    },
+    {
+      "title_en": "Trump fires Pam Bondi as attorney general",
+      "url": "https://www.cnn.com/2026/04/02/politics/pam-bondi-role-trump",
+      "title_zh": "特朗普解雇帕姆·邦迪",
+      "created_display": "Created: Apr 02, 2026 / 10:24 PT",
+      "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2227247399.jpg?c=16x9&q=w_800,c_fill",
+      "summary_en": "Donald Trump dismissed Attorney General Pam Bondi, marking a cabinet shakeup amid ongoing investigations and policy fights. The move could reshape legal strategy and regulatory priorities.",
+      "summary_zh": "特朗普解雇帕姆·邦迪，任内政府发生人事调整，可能影响法律策略与监管重点。",
+      "hn": {
+        "id": 47617343,
+        "type": "story",
+        "by": "Cider9986",
+        "score": 130,
+        "descendants": 106,
+        "time": 1775150684,
+        "comments_url": "https://news.ycombinator.com/item?id=47617343"
+      },
+      "hot_score": 0.13,
+      "tags": [
+        "Politics",
+        "Legal"
+      ]
+    }
+  ]
+}

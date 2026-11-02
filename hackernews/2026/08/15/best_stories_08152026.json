@@ -1,0 +1,1147 @@
+{
+  "meta": {
+    "mode": "best",
+    "source": "https://news.ycombinator.com/",
+    "api": "https://github.com/HackerNews/API",
+    "count_requested": 50,
+    "count_written": 50,
+    "reused_same_day": 0,
+    "reused_cross_day": 22,
+    "new_llm_enriched": 28,
+    "scrape_time_display": "05:44, August 16, 2026 (PDT)",
+    "timezone": "America/Los_Angeles",
+    "date_dir": "2026/08/15",
+    "content_date": "2026-08-15",
+    "run_time_local": "05:44, August 16, 2026 (PDT)",
+    "run_time_utc": "2026-08-16 12:44:56 UTC",
+    "incremental": true,
+    "stories_max": 50,
+    "hot_score_time_utc": "2026-08-16 12:46:19 UTC"
+  },
+  "items": [
+    {
+      "title_en": "What happens when an LLM never sees material beyond fifth grade?",
+      "url": "https://littlelearner-ll.github.io/",
+      "title_zh": "当大型语言模型从不接触五年级以上材料时会怎样？",
+      "created_display": "Created: Aug 16, 2026 / 00:37 PT",
+      "image_url": null,
+      "summary_en": "A thought experiment or study examines how an LLM trained only on rudimentary material handles reasoning tasks, error rates, and generalization. Results shed light on data quality and curriculum design for AI agents.",
+      "summary_zh": "本研究/思考实验探讨若 LLM 仅接触基础材料，其推理能力、错误率与泛化能力会如何受限。结果揭示数据质量与训练课程设计对 AI 的影响。",
+      "hn": {
+        "id": 49317760,
+        "type": "story",
+        "by": "porridgeraisin",
+        "score": 162,
+        "descendants": 124,
+        "time": 1786865873,
+        "comments_url": "https://news.ycombinator.com/item?id=49317760"
+      },
+      "hot_score": 4.68,
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "title_en": "AI has access to a vastly larger working memory than the human brain",
+      "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
+      "title_zh": "AI 的工作记忆容量远超人脑",
+      "created_display": "Created: Aug 15, 2026 / 11:13 PT",
+      "image_url": "https://substackcdn.com/image/fetch/$s_!DIxw!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2e2e14e7-c536-49c0-9f27-79b1073dd527_1279x759.jpeg",
+      "summary_en": "AI systems now routinely operate with context windows and memory far beyond human working memory, enabling deeper reasoning and long-horizon tasks. The tradeoffs include higher energy use, data management, and potential hallucination risks; design choices will shape future AI capabilities.",
+      "summary_zh": "人工智能系统的上下文记忆容量远超人脑，使复杂推理和长时任务成为可能。能源消耗、数据管理和潜在的幻觉风险是需要权衡的要点，相关设计选择将决定未来能力边界。",
+      "hn": {
+        "id": 49312845,
+        "type": "story",
+        "by": "rzk",
+        "score": 520,
+        "descendants": 451,
+        "time": 1786817582,
+        "comments_url": "https://news.ycombinator.com/item?id=49312845"
+      },
+      "hot_score": 2.25,
+      "tags": [
+        "AI",
+        "Energy"
+      ]
+    },
+    {
+      "title_en": "Firefox is now the last major browser that still supports uBlock Origin",
+      "url": "https://www.pcworld.com/article/3212428/firefox-is-now-the-last-major-browser-that-still-supports-ublock-origin.html",
+      "title_zh": "Firefox 成为仍支持 uBlock Origin 的最后一款主流浏览器",
+      "created_display": "Created: Aug 14, 2026 / 12:03 PT",
+      "image_url": "https://www.pcworld.com/wp-content/uploads/2026/08/3212428-0-62401400-1786636364-Firefox-foto-mozilla.png?w=1024",
+      "summary_en": "Firefox remains the last major browser to support uBlock Origin, as others shift away from traditional ad-block extensions due to evolving extension policies. This preserves a familiar privacy tool for Firefox users but underscores growing fragmentation in how browsers handle ad blocking.",
+      "summary_zh": "Firefox 仍然是主流浏览器中最后一个支持 uBlock Origin 的选择。随着其他浏览器因扩展策略和 MV3 变更而削弱对这类扩展的支持，Firefox 的隐私保护能力仍具吸引力，但也暴露出浏览器扩展生态的分化。",
+      "hn": {
+        "id": 49303202,
+        "type": "story",
+        "by": "DemiGuru",
+        "score": 1694,
+        "descendants": 672,
+        "time": 1786734200,
+        "comments_url": "https://news.ycombinator.com/item?id=49303202"
+      },
+      "tags": [
+        "Web",
+        "Privacy"
+      ],
+      "hot_score": 1.89
+    },
+    {
+      "title_en": "Abdominal fat predicts heart disease risk better than BMI",
+      "url": "https://www.acc.org/about-acc/press-releases/2026/08/11/14/59/abdominal-fat-predicts-heart-disease-risk-better-than-bmi",
+      "title_zh": "腹部脂肪比 BMI 更能预测心血管疾病风险",
+      "created_display": "Created: Aug 15, 2026 / 14:14 PT",
+      "image_url": "http://www.acc.org/-/media/9E7FA8BE7B44449AB9993CC9237EF455.png",
+      "summary_en": "New evidence shows abdominal adiposity and fat distribution outperform BMI in predicting cardiovascular risk, suggesting screening should focus more on waist measures and visceral fat. This could change how we assess risk and tailor prevention strategies.",
+      "summary_zh": "最新证据显示腹部脂肪及脂肪分布优于 BMI 在预测心血管风险方面的表现，提示筛查应更多关注腰围与内脏脂肪。可能改变风险评估与个性化预防策略。",
+      "hn": {
+        "id": 49314403,
+        "type": "story",
+        "by": "theanonymousone",
+        "score": 281,
+        "descendants": 225,
+        "time": 1786828474,
+        "comments_url": "https://news.ycombinator.com/item?id=49314403"
+      },
+      "hot_score": 1.62,
+      "tags": [
+        "Health"
+      ]
+    },
+    {
+      "title_en": "Semaglutide linked to lower predicted dementia risk",
+      "url": "https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/dad2.70432",
+      "title_zh": "司美格鲁肽与预测性痴呆风险下降相关",
+      "created_display": "Created: Aug 15, 2026 / 08:58 PT",
+      "image_url": null,
+      "summary_en": "A study finds that semaglutide exposure is associated with lower predicted dementia risk, hinting at links between metabolic health and brain aging. While intriguing, the finding is observational and needs controlled trials to establish causality and understand mechanisms.",
+      "summary_zh": "研究显示司美格鲁肽暴露与较低的预测性痴呆风险相关，提示代谢健康与脑部老化之间可能存在联系。该发现为观测性结论，需通过对照试验来确立因果关系并揭示潜在机制。",
+      "hn": {
+        "id": 49311651,
+        "type": "story",
+        "by": "randycupertino",
+        "score": 442,
+        "descendants": 321,
+        "time": 1786809533,
+        "comments_url": "https://news.ycombinator.com/item?id=49311651"
+      },
+      "hot_score": 1.59,
+      "tags": [
+        "Health"
+      ]
+    },
+    {
+      "title_en": "Super El Niño Keeps Growing as New Forecasts Reach Record Territory Ahead Winter",
+      "url": "https://www.severe-weather.eu/long-range-2/super-el-nino-growth-accelerating-to-record-strength-fall-winter-2026-2027-forecast-impact-united-states-canada-europe-fa/",
+      "title_zh": "超强厄尔尼诺将持续增强，冬季预测达历史新高",
+      "created_display": "Created: Aug 15, 2026 / 12:20 PT",
+      "image_url": "http://www.severe-weather.eu/wp-content/uploads/2026/08/weather-fall-winter-2026-2027-forecast-united-states-canada-jet-stream-pressure-system-anomaly-temperature-snowfall-record-super-el-nino-event-unfolding-growing-faster-august-update.png",
+      "summary_en": "Forecasts project a continuing, record-strong El Niño through the coming winter, with implications for weather extremes, energy demand, and crop yields across major regions. Expect shifting regional patterns: wet in some places, drought in others, plus potential supply chain impacts.",
+      "summary_zh": "预测显示今冬将持续并达到历史新高的强烈厄尔尼诺，可能带来极端天气、能源需求波动和作物产量影响。部分地区降雨增多、另一些地区干旱，同时可能冲击供应链。",
+      "hn": {
+        "id": 49313428,
+        "type": "story",
+        "by": "dgellow",
+        "score": 291,
+        "descendants": 185,
+        "time": 1786821651,
+        "comments_url": "https://news.ycombinator.com/item?id=49313428"
+      },
+      "hot_score": 1.39,
+      "tags": [
+        "Science",
+        "Energy"
+      ]
+    },
+    {
+      "title_en": "Patterns and problems in emerging multi-agent systems",
+      "url": "https://www.anthropic.com/research/multiagent-systems",
+      "title_zh": "新兴多智能体系统中的模式与问题",
+      "created_display": "Created: Aug 15, 2026 / 19:12 PT",
+      "image_url": "https://cdn.sanity.io/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
+      "summary_en": "Anthropic identifies recurring patterns and safety challenges in growing multi-agent systems, including coordination, alignment, and emergent behaviors, with implications for governance and risk.",
+      "summary_zh": "Anthropic 总结了新兴多智能体系统中的共性模式与安全挑战，如协作、对齐与涌现行为，对治理与风险具有重要启示。",
+      "hn": {
+        "id": 49316271,
+        "type": "story",
+        "by": "maxutility",
+        "score": 128,
+        "descendants": 80,
+        "time": 1786846373,
+        "comments_url": "https://news.ycombinator.com/item?id=49316271"
+      },
+      "hot_score": 1.34,
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "title_en": "Qwen 3.8 27B",
+      "url": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8",
+      "title_zh": "Qwen 3.8 27B FP8 模型",
+      "created_display": "Created: Aug 14, 2026 / 08:00 PT",
+      "image_url": "https://cdn-thumbnails.huggingface.co/social-thumbnails/models/Qwen/Qwen3.8-27B-FP8.png",
+      "summary_en": "Qwen 3.8 27B with FP8 quantization is released, offering a sizable 27-billion-parameter model that runs more efficiently on consumer hardware. This release highlights the ongoing push to make large language models more affordable and accessible in real-world deployments.",
+      "summary_zh": "推出了 27B 参数的 Qwen 3.8 模型，采用 FP8 量化，使在普通硬件上的推理更高效。此举凸显了让大型语言模型更实惠、易于部署的趋势。",
+      "hn": {
+        "id": 49299605,
+        "type": "story",
+        "by": "erdaltoprak",
+        "score": 1391,
+        "descendants": 780,
+        "time": 1786719600,
+        "comments_url": "https://news.ycombinator.com/item?id=49299605"
+      },
+      "tags": [
+        "AI",
+        "Hardware"
+      ],
+      "hot_score": 1.32
+    },
+    {
+      "title_en": "Software Engineering fundamentals matter more",
+      "url": "https://rhonabwy.com/2026/08/15/software-engineering-fundamentals-matter-more-than-ever/",
+      "title_zh": "软件工程基础现在更重要",
+      "created_display": "Created: Aug 15, 2026 / 15:31 PT",
+      "image_url": "https://s0.wp.com/i/blank.jpg?m=1383295312i",
+      "summary_en": "As systems grow more complex, fundamentals—testing, modular design, maintainable code—are critical for long-term reliability and scalability. The piece argues that skipping basics hurts productivity more than ever.",
+      "summary_zh": "系统日益复杂，测试、模块化设计与可维护性等基础知识对长期可靠性和可扩展性至关重要。作者强调忽略基础只会带来更严重的生产力损失。",
+      "hn": {
+        "id": 49314902,
+        "type": "story",
+        "by": "ingve",
+        "score": 193,
+        "descendants": 131,
+        "time": 1786833069,
+        "comments_url": "https://news.ycombinator.com/item?id=49314902"
+      },
+      "hot_score": 1.27,
+      "tags": [
+        "Programming"
+      ]
+    },
+    {
+      "title_en": "Cultivating a state of mind where new ideas are born (2023)",
+      "url": "https://www.henrikkarlsson.xyz/p/good-ideas",
+      "title_zh": "培养产生新点子的心态（2023）",
+      "created_display": "Created: Aug 15, 2026 / 13:54 PT",
+      "image_url": "https://substackcdn.com/image/fetch/$s_!9VgW!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4697c31d-2502-48d2-b6c1-11e5ea97536f_2560x2174.jpeg",
+      "summary_en": "A reflective guide to nurturing creativity, emphasizing routines, cross-pollination of disciplines, and deliberate practice to spark original ideas. The 2023 edition captures practical habits for sustaining innovation.",
+      "summary_zh": "这是一篇关于培养创造力的反思性指南，强调日常习惯、跨学科融合与刻意练习以激发原创点子。2023 版总结了持续创新的实用方法。",
+      "hn": {
+        "id": 49314235,
+        "type": "story",
+        "by": "felixbraun",
+        "score": 195,
+        "descendants": 48,
+        "time": 1786827251,
+        "comments_url": "https://news.ycombinator.com/item?id=49314235"
+      },
+      "hot_score": 1.08,
+      "tags": [
+        "Culture"
+      ]
+    },
+    {
+      "title_en": "Auto-research with codex: How I achieved a 232x Faster Kernel",
+      "url": "https://sankalp.bearblog.dev/autoresearch/",
+      "title_zh": "使用 Codex 进行自动化研究：我如何实现 232x 的内核加速",
+      "created_display": "Created: Aug 15, 2026 / 04:00 PT",
+      "image_url": "https://sankalp.bearblog.dev/static/og-image.png",
+      "summary_en": "The author describes an AI-assisted auto-research workflow using Codex to generate and optimize kernel code, achieving a 232x speedup in a test workload. It demonstrates the potential of coupling large language models with automated experimentation, while leaving questions about reproducibility and safety.",
+      "summary_zh": "作者描述了利用 Codex 的 AI 辅助自动化研究工作流，在生成与优化内核代码方面实现了 232 倍加速。这体现了将大语言模型与自动化实验结合的潜力，同时也带来可重复性与安全性方面的问题讨论。",
+      "hn": {
+        "id": 49309549,
+        "type": "story",
+        "by": "tosh",
+        "score": 424,
+        "descendants": 91,
+        "time": 1786791602,
+        "comments_url": "https://news.ycombinator.com/item?id=49309549"
+      },
+      "hot_score": 1.07,
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "title_en": "Engineers will do anything to avoid learning from history",
+      "url": "https://horn.gg/blog/engineers-will-do-anything-to-avoid-learning-from-history/",
+      "title_zh": "工程师为了避免从历史中学习会做任何事",
+      "created_display": "Created: Aug 15, 2026 / 15:08 PT",
+      "image_url": null,
+      "summary_en": "An critique of engineering culture that ignores historical lessons, repeats prior mistakes, and undervalues archival knowledge. The author argues for humility, documentation, and deliberate postmortems.",
+      "summary_zh": "对工程文化的批评，指出其忽视历史教训、重复旧错、低估文献性知识的重要性。作者主张谦逊、文档化和有意识的事后分析。",
+      "hn": {
+        "id": 49314744,
+        "type": "story",
+        "by": "madrox",
+        "score": 161,
+        "descendants": 106,
+        "time": 1786831702,
+        "comments_url": "https://news.ycombinator.com/item?id=49314744"
+      },
+      "hot_score": 1.01,
+      "tags": [
+        "Culture"
+      ]
+    },
+    {
+      "title_en": "At-home test for infected ticks could improve Lyme Disease diagnosis",
+      "url": "https://www.smithsonianmag.com/innovation/the-first-at-home-test-for-infected-ticks-could-improve-lyme-disease-diagnosis-180989235/",
+      "title_zh": "居家检测可检测感染蜱虫，或改进莱姆病诊断",
+      "created_display": "Created: Aug 15, 2026 / 07:04 PT",
+      "image_url": "https://th-thumbnailer.cdn-si-edu.com/zHvX_MeCmgyz7Mfc3JnZBzfRUgU=/fit-in/1600x0/filters:focal(1061x707:1062x708)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/44/ad/44ad8f8b-e8c6-4c3b-9d22-10eececf06c3/gettyimages-1602304607.jpg",
+      "summary_en": "A new at-home test could detect whether a tick is infected, enabling earlier intervention for Lyme disease and reducing unnecessary antibiotic use. Wider validation and access will determine its impact on public health.",
+      "summary_zh": "一种居家检测有望判断蜱虫是否感染，从而更早干预莱姆病并减少不必要的抗生素使用。要实现广泛应用，需要更大规模的验证与普及。",
+      "hn": {
+        "id": 49310682,
+        "type": "story",
+        "by": "gmays",
+        "score": 266,
+        "descendants": 102,
+        "time": 1786802689,
+        "comments_url": "https://news.ycombinator.com/item?id=49310682"
+      },
+      "hot_score": 0.83,
+      "tags": [
+        "Health"
+      ]
+    },
+    {
+      "title_en": "Every Fucking Website (2020)",
+      "url": "https://lxe.github.io/everywebsite/",
+      "title_zh": "《Every Fucking Website》（2020）",
+      "created_display": "Created: Aug 14, 2026 / 07:31 PT",
+      "image_url": "https://lxe.github.io/everywebsite/robot-avatar.svg",
+      "summary_en": "Every Fucking Website is a 2020 project that curates a vast directory of sites, reflecting the sheer scale of the web. It serves as a provocative reference for web exploration and raises questions about discoverability in a trillion-page ecosystem.",
+      "summary_zh": "《Every Fucking Website》是 2020 年的一个汇集大量网站的项目，体现了网络的庞大规模。它为网络探索提供一种挑衅性的参照，也引发了在海量站点中如何发现内容的思考。",
+      "hn": {
+        "id": 49299222,
+        "type": "story",
+        "by": "doubletwoyou",
+        "score": 850,
+        "descendants": 476,
+        "time": 1786717868,
+        "comments_url": "https://news.ycombinator.com/item?id=49299222"
+      },
+      "tags": [
+        "Web"
+      ],
+      "hot_score": 0.79
+    },
+    {
+      "title_en": "A spectre is haunting Unicode",
+      "url": "https://www.dampfkraft.com/ghost-characters.html",
+      "title_zh": "Unicode 的幽灵字符在徘徊",
+      "created_display": "Created: Aug 15, 2026 / 07:34 PT",
+      "image_url": "https://dampfkraft.com/by-id/a824aa10/img/ghostcanvas.l.jpg",
+      "summary_en": "Unicode's landscape is punctuated by ghost characters and ambiguous code points that complicate text processing, security, and compatibility. The piece surveys the risks and what developers can do to mitigate misinterpretation and spoofing.",
+      "summary_zh": "Unicode 的文本世界充满幽灵字符和歧义码点，增加文本处理、安全性与跨平台兼容的复杂性。本文梳理风险，并给出开发者减少误解与伪造的对策。",
+      "hn": {
+        "id": 49310926,
+        "type": "story",
+        "by": "sensanaty",
+        "score": 237,
+        "descendants": 91,
+        "time": 1786804444,
+        "comments_url": "https://news.ycombinator.com/item?id=49310926"
+      },
+      "hot_score": 0.76,
+      "tags": [
+        "Security"
+      ]
+    },
+    {
+      "title_en": "Working with AI feels more like leadership than coding",
+      "url": "https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/",
+      "title_zh": "与 AI 共事更多是领导力，而非编码",
+      "created_display": "Created: Aug 15, 2026 / 03:39 PT",
+      "image_url": "https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/social-card.png",
+      "summary_en": "The author argues that AI alters day-to-day work from coding tasks to orchestration, decision making, and people leadership. Effective collaboration with AI requires new skills in alignment, governance, and cross-disciplinary communication.",
+      "summary_zh": "作者认为与 AI 的日常工作从编码转向协作、决策与人际领导。要高效与 AI 合作，需要在对齐、治理与跨学科沟通等方面具备新技能。",
+      "hn": {
+        "id": 49309451,
+        "type": "story",
+        "by": "allenb",
+        "score": 303,
+        "descendants": 191,
+        "time": 1786790381,
+        "comments_url": "https://news.ycombinator.com/item?id=49309451"
+      },
+      "hot_score": 0.74,
+      "tags": [
+        "AI",
+        "Career"
+      ]
+    },
+    {
+      "title_en": "The Government Is Monitoring Anti-Flock TikTok and Instagram Accounts",
+      "url": "https://www.404media.co/the-government-is-monitoring-anti-flock-tiktok-and-instagram-accounts/",
+      "title_zh": "政府正在监控反 Flock 的 TikTok 与 Instagram 账户",
+      "created_display": "Created: Aug 15, 2026 / 15:40 PT",
+      "image_url": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/08/404-Media-5101-Santa-Monica-Blvd-Ste-8-PMB1405-Los-Angeles--CA-90029.jpg",
+      "summary_en": "Authorities are monitoring anti-flock social accounts on TikTok and Instagram, raising questions about surveillance, platform moderation, and civil liberties.",
+      "summary_zh": "政府正在监控 TikTok 与 Instagram 上的反对阵营账户，引发关于监控、平台治理与公民自由的议题。",
+      "hn": {
+        "id": 49314962,
+        "type": "story",
+        "by": "Jimmc414",
+        "score": 110,
+        "descendants": 82,
+        "time": 1786833620,
+        "comments_url": "https://news.ycombinator.com/item?id=49314962"
+      },
+      "hot_score": 0.73,
+      "tags": [
+        "Privacy",
+        "Politics"
+      ]
+    },
+    {
+      "title_en": "AI in drug discovery – what it is, where we stand and the path forward",
+      "url": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
+      "title_zh": "AI 在药物发现中的应用：现状与未来路线",
+      "created_display": "Created: Aug 15, 2026 / 12:12 PT",
+      "image_url": null,
+      "summary_en": "A concise update on how AI accelerates molecular design, screening, and optimization, current limitations like data quality and interpretability, and a roadmap for regulatory-ready pipelines.",
+      "summary_zh": "简要更新 AI 在分子设计、筛选与优化中的作用，当前的局限性如数据质量与可解释性，以及面向监管的落地路线图。",
+      "hn": {
+        "id": 49313367,
+        "type": "story",
+        "by": "AnodicElegy",
+        "score": 148,
+        "descendants": 83,
+        "time": 1786821173,
+        "comments_url": "https://news.ycombinator.com/item?id=49313367"
+      },
+      "hot_score": 0.7,
+      "tags": [
+        "AI",
+        "Politics"
+      ]
+    },
+    {
+      "title_en": "A controversial Alzheimer's surgery is said to reverse symptoms",
+      "url": "https://www.nature.com/articles/d41586-026-02448-x",
+      "title_zh": "一项有争议的阿尔茨海默病手术据称能逆转症状",
+      "created_display": "Created: Aug 15, 2026 / 09:38 PT",
+      "image_url": "https://media.nature.com/lw1200/magazine-assets/d41586-026-02448-x/d41586-026-02448-x_53083048.jpg",
+      "summary_en": "Early reports describe a controversial surgical approach yielding reversal of some Alzheimer's symptoms in a subset of patients, sparking debate over ethics, patient selection, and long-term outcomes. Proponents push for controlled trials and transparency.",
+      "summary_zh": "早期报道指一种有争议的手术在部分患者身上可逆转部分症状，引发伦理、患者筛选及长期效果的讨论。支持者呼吁进行受控试验并提高透明度。",
+      "hn": {
+        "id": 49312008,
+        "type": "story",
+        "by": "jeffreyrogers",
+        "score": 179,
+        "descendants": 77,
+        "time": 1786811914,
+        "comments_url": "https://news.ycombinator.com/item?id=49312008"
+      },
+      "hot_score": 0.68,
+      "tags": [
+        "Health"
+      ]
+    },
+    {
+      "title_en": "The other Sean Byrne doesn't exist",
+      "url": "https://conic.al/writing/the-other-sean-byrne-doesnt-exist/",
+      "title_zh": "另一位 Sean Byrne 不存在",
+      "created_display": "Created: Aug 14, 2026 / 21:18 PT",
+      "image_url": "https://conic.al/assets/posts/the-other-sean-byrne-doesnt-exist/sean-byrne-us-consolidated-screening-list.png",
+      "summary_en": "An essay exploring identity and authorial authenticity, using the claim that 'the other Sean Byrne doesn't exist' to probe how online personas are constructed and how readers perceive who writes what.",
+      "summary_zh": "一篇关于身份与署名真实性的随笔，借“另一位 Sean Byrne 不存在”之论点，考察网络身份的构建与读者如何认定作者。",
+      "hn": {
+        "id": 49307592,
+        "type": "story",
+        "by": "rdl",
+        "score": 381,
+        "descendants": 182,
+        "time": 1786767524,
+        "comments_url": "https://news.ycombinator.com/item?id=49307592"
+      },
+      "tags": [
+        "Culture"
+      ],
+      "hot_score": 0.65
+    },
+    {
+      "title_en": "Going Dark, and the era of law enforcement hacking",
+      "url": "https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/",
+      "title_zh": "黑暗来临：执法黑客时代",
+      "created_display": "Created: Aug 14, 2026 / 13:52 PT",
+      "image_url": "https://i0.wp.com/blog.cryptographyengineering.com/wp-content/uploads/2026/08/thewire.jpg?fit=1200%2C695&ssl=1",
+      "summary_en": "As encryption deepens, law enforcement increasingly relies on hacking techniques and sanctioned exploits to access data. The piece argues that the tension between security, privacy, and public safety is intensifying, shaping policy and tool development.",
+      "summary_zh": "随着端到端加密的普及，执法机构越来越多地转向入侵与滥用漏洞来获取数据。这一趋势将隐私保护、公共安全与政策制定之间的矛盾推向前台，影响工具与法规的发展。",
+      "hn": {
+        "id": 49304447,
+        "type": "story",
+        "by": "vslira",
+        "score": 449,
+        "descendants": 241,
+        "time": 1786740764,
+        "comments_url": "https://news.ycombinator.com/item?id=49304447"
+      },
+      "tags": [
+        "Privacy",
+        "Security"
+      ],
+      "hot_score": 0.54
+    },
+    {
+      "title_en": "The Dutch community where people live on strips of land in a lake",
+      "url": "https://www.core77.com/posts/144869",
+      "title_zh": "荷兰一个湖中带状土地居住社区",
+      "created_display": "Created: Aug 15, 2026 / 09:53 PT",
+      "image_url": "https://s3files.core77.com/blog/images/lead_n_spotlight/1843167_lead_400_144869_.jpg",
+      "summary_en": "A look at a Dutch community living on narrow land strips protruding into a lake, exploring housing, transport networks on waterways, and unique micro-ecosystems.",
+      "summary_zh": "聚焦荷兰一个居住在湖面带状土地上的社区，介绍居住方式、水上交通网络及独特的微生态系统。",
+      "hn": {
+        "id": 49312165,
+        "type": "story",
+        "by": "Bowes-Lyon",
+        "score": 127,
+        "descendants": 57,
+        "time": 1786812827,
+        "comments_url": "https://news.ycombinator.com/item?id=49312165"
+      },
+      "hot_score": 0.49,
+      "tags": [
+        "Culture"
+      ]
+    },
+    {
+      "title_en": "Google is making private AI practical with homomorphic encryption",
+      "url": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/",
+      "title_zh": "谷歌通过同态加密让私有 AI 变得可实用",
+      "created_display": "Created: Aug 14, 2026 / 08:43 PT",
+      "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Untitled_design_10_p3wN1dg.width-1300.png",
+      "summary_en": "Google is pursuing practical private AI by using homomorphic encryption to run computations on encrypted data. This approach aims to unlock privacy-preserving AI in cloud and on-device settings, though it remains challenging in terms of performance.",
+      "summary_zh": "谷歌正通过同态加密让隐私保护的 AI 更具可用性，能够在加密数据上执行推理。该思路有望在云端和本地场景中保护用户数据隐私，但在性能方面仍存在挑战。",
+      "hn": {
+        "id": 49300314,
+        "type": "story",
+        "by": "u1hcw9nx",
+        "score": 488,
+        "descendants": 282,
+        "time": 1786722190,
+        "comments_url": "https://news.ycombinator.com/item?id=49300314"
+      },
+      "tags": [
+        "AI",
+        "Privacy",
+        "Security"
+      ],
+      "hot_score": 0.48
+    },
+    {
+      "title_en": "Count Binface receives over a quarter of votes in Clacton by-election",
+      "url": "https://www.bbc.com/news/articles/ce97mm3vvemo",
+      "title_zh": "Count Binface 在 Clacton 补选中获逾四分之一票",
+      "created_display": "Created: Aug 14, 2026 / 09:45 PT",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/ee7b/live/00590490-9714-11f1-a7ab-8b30adf0800a.jpg",
+      "summary_en": "Satirical candidate Count Binface captured more than a quarter of the vote in the Clacton by-election, signaling appetite for anti-establishment voices. The result underscores how protest candidacies can influence local race dynamics.",
+      "summary_zh": "讽刺性候选人 Count Binface 在 Clacton 补选中获得超过四分之一的选票，显示选民对反建制声音的需求上升。此结果也凸显了抗议候选人如何影响地方选举格局。",
+      "hn": {
+        "id": 49301260,
+        "type": "story",
+        "by": "tcp_handshaker",
+        "score": 465,
+        "descendants": 382,
+        "time": 1786725949,
+        "comments_url": "https://news.ycombinator.com/item?id=49301260"
+      },
+      "tags": [
+        "Politics"
+      ],
+      "hot_score": 0.47
+    },
+    {
+      "title_en": "Europe's scorched landscapes seen from space after summer heatwaves",
+      "url": "https://www.bbc.com/news/articles/c4gxy0wqqd9o",
+      "title_zh": "夏季热浪后的欧洲地表景观",
+      "created_display": "Created: Aug 15, 2026 / 10:21 PT",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/0b95/live/1efcbb90-97f4-11f1-870d-5d08c49babb2.png",
+      "summary_en": "Satellite imagery reveals widespread drought and heat stress across Europe following heatwaves, underscoring climate change impacts on agriculture and ecosystems.",
+      "summary_zh": "卫星影像显示欧洲在夏季热浪后普遍存在干旱与高温应力，凸显气候变化对农业与生态系统的影响。",
+      "hn": {
+        "id": 49312413,
+        "type": "story",
+        "by": "blondie9x",
+        "score": 115,
+        "descendants": 113,
+        "time": 1786814486,
+        "comments_url": "https://news.ycombinator.com/item?id=49312413"
+      },
+      "hot_score": 0.46,
+      "tags": [
+        "Science",
+        "Energy"
+      ]
+    },
+    {
+      "title_en": "I Remain a Skeptic",
+      "url": "https://blog.jsbarretto.com/post/i-remain-a-skeptic",
+      "title_zh": "我仍然持怀疑态度",
+      "created_display": "Created: Aug 15, 2026 / 09:42 PT",
+      "image_url": "https://blog.jsbarretto.com/static/img/profile.jpg",
+      "summary_en": "A skeptical take on a trending tech claim, urging readers to demand rigorous evidence, robust experiments, and reproducibility before embracing hype.",
+      "summary_zh": "对一个科技热潮中的主张保持怀疑，敦促读者在追逐 hype 之前要求严谨证据、稳健实验与可重复性。",
+      "hn": {
+        "id": 49312053,
+        "type": "story",
+        "by": "lproven",
+        "score": 114,
+        "descendants": 106,
+        "time": 1786812178,
+        "comments_url": "https://news.ycombinator.com/item?id=49312053"
+      },
+      "hot_score": 0.43,
+      "tags": [
+        "Science"
+      ]
+    },
+    {
+      "title_en": "Seven books I keep close because I love them",
+      "url": "https://blog.plover.com/2026/08/02/",
+      "title_zh": "七本我最珍爱的书",
+      "created_display": "Created: Aug 14, 2026 / 08:03 PT",
+      "image_url": "https://pic.blog.plover.com/book/elbow-shelf/elbow-shelf-th.jpg",
+      "summary_en": "A personal list of seven cherished books, with notes on why each title resonated and stuck with the reader. The selections reveal what this reader values in literature.",
+      "summary_zh": "作者列出七本珍爱的书，并简要解释它们为何留存于心。清单透视了他在文学中的偏好与思考方式。",
+      "hn": {
+        "id": 49299675,
+        "type": "story",
+        "by": "surprisetalk",
+        "score": 377,
+        "descendants": 171,
+        "time": 1786719806,
+        "comments_url": "https://news.ycombinator.com/item?id=49299675"
+      },
+      "tags": [
+        "Culture"
+      ],
+      "hot_score": 0.36
+    },
+    {
+      "title_en": "AI by Hand",
+      "url": "https://www.byhand.ai/",
+      "title_zh": "AI by Hand",
+      "created_display": "Created: Aug 14, 2026 / 08:58 PT",
+      "image_url": "https://substackcdn.com/image/fetch/$s_!uug6!,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Faibyhand.substack.com%2Ftwitter%2Fsubscribe-card.jpg%3Fv%3D-636237388%26version%3D9",
+      "summary_en": "AI by Hand explores human-in-the-loop AI, emphasizing how thoughtful human input can improve model alignment, safety, and practicality. The project highlights an approach where people guide or augment AI rather than replacing them.",
+      "summary_zh": "AI by Hand 探讨人机协作中的 AI，强调通过人为输入改善对齐、安全与实用性。该项目强调以人为主导的 AI 方案，而非单纯的全自动替代。",
+      "hn": {
+        "id": 49300568,
+        "type": "story",
+        "by": "sans_souse",
+        "score": 359,
+        "descendants": 30,
+        "time": 1786723139,
+        "comments_url": "https://news.ycombinator.com/item?id=49300568"
+      },
+      "tags": [
+        "AI"
+      ],
+      "hot_score": 0.35
+    },
+    {
+      "title_en": "RustDesk now supports true unattended remote access on Wayland",
+      "url": "https://rustdesk.com/blog/unattended-remote-access-wayland/",
+      "title_zh": "RustDesk 在 Wayland 上实现真实的无监督远程访问",
+      "created_display": "Created: Aug 14, 2026 / 09:12 PT",
+      "image_url": "https://rustdesk.com/_astro/unattended-remote-access-wayland-og.BOcMxzVY_212cpk.webp",
+      "summary_en": "RustDesk adds true unattended remote access support on Wayland, enabling headless setups and smoother admin tasks on Linux desktops. This strengthens its suitability for remote maintenance while raising typical security considerations.",
+      "summary_zh": "RustDesk 在 Wayland 上增加了真正的无监督远程访问支持，适用于无头/远程运维的 Linux 桌面场景，同时需关注远程访问的安全性与权限控制。",
+      "hn": {
+        "id": 49300759,
+        "type": "story",
+        "by": "rustdesk",
+        "score": 339,
+        "descendants": 157,
+        "time": 1786723972,
+        "comments_url": "https://news.ycombinator.com/item?id=49300759"
+      },
+      "tags": [
+        "Programming",
+        "Security"
+      ],
+      "hot_score": 0.34
+    },
+    {
+      "title_en": "In Australia, a home battery boom has helped cut wholesale power prices",
+      "url": "https://e360.yale.edu/digest/australia-home-batteries",
+      "title_zh": "澳大利亚家庭电池热潮帮助削减批发电价",
+      "created_display": "Created: Aug 14, 2026 / 07:07 PT",
+      "image_url": "https://yale-threesixty.transforms.svdcdn.com/production/Home-Battery_NSWECA.jpg?w=1200&q=60&auto=format&fit=max&dm=1786711355&s=786f9b9062891e45a0bd1b54e7ef1a57",
+      "summary_en": "Australia's home battery boom is helping cut wholesale power prices by enabling households to store solar energy and shift demand. The trend underscores how distributed storage can ease grid stress and reshape energy economics.",
+      "summary_zh": "澳大利亚家庭用电池热潮使家庭能够储存太阳能并错峰用电，从而压低批发电价。分布式储能对缓解电网压力、重塑能源经济具有重要意义。",
+      "hn": {
+        "id": 49298910,
+        "type": "story",
+        "by": "speckx",
+        "score": 350,
+        "descendants": 307,
+        "time": 1786716472,
+        "comments_url": "https://news.ycombinator.com/item?id=49298910"
+      },
+      "tags": [
+        "Energy"
+      ],
+      "hot_score": 0.32
+    },
+    {
+      "title_en": "Magnitude 7.7 Earthquake – 68 km NNW of Ende, Indonesia",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkt2/executive",
+      "title_zh": "印度尼西亚恩德附近地震：M7.7 级，北偏西68公里",
+      "created_display": "Created: Aug 14, 2026 / 18:14 PT",
+      "image_url": null,
+      "summary_en": "A magnitude 7.7 earthquake struck near Ende, Indonesia, with strong shaking reported. Emergency services will assess damage and responders monitor aftershocks.",
+      "summary_zh": "印度尼西亚恩德附近发生7.7级地震，震感强烈。救援部门将评估损害并关注余震。",
+      "hn": {
+        "id": 49306577,
+        "type": "story",
+        "by": "Bender",
+        "score": 217,
+        "descendants": 55,
+        "time": 1786756445,
+        "comments_url": "https://news.ycombinator.com/item?id=49306577"
+      },
+      "tags": [
+        "Science"
+      ],
+      "hot_score": 0.32
+    },
+    {
+      "title_en": "Maximizing the value of your Claude Code sessions",
+      "url": "https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions",
+      "title_zh": "最大化 Claude Code 会话的价值",
+      "created_display": "Created: Aug 14, 2026 / 09:15 PT",
+      "image_url": "https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6a7f1f51730ca89a4d571062_og_maximizing-the-value-of-your-claude-code-sessions.jpg",
+      "summary_en": "Claude Code sessions can be optimized by structuring prompts, leveraging file uploads, and iterating with targeted queries to improve code generation and debugging quality. Small workflow tweaks yield outsized gains.",
+      "summary_zh": "通过结构化提示、上传代码文件以及有针对性的迭代查询来优化 Claude Code 会话，可以显著提升代码生成与调试质量，小改动也能带来大收益。",
+      "hn": {
+        "id": 49300800,
+        "type": "story",
+        "by": "twapi",
+        "score": 308,
+        "descendants": 179,
+        "time": 1786724121,
+        "comments_url": "https://news.ycombinator.com/item?id=49300800"
+      },
+      "tags": [
+        "AI",
+        "Programming"
+      ],
+      "hot_score": 0.31
+    },
+    {
+      "title_en": "RISC-V: They Should Have Known Better",
+      "url": "https://dmitry.gr/?r=06.%20Thoughts&proj=12.%20RV",
+      "title_zh": "RISC-V：本应更谨慎",
+      "created_display": "Created: Aug 14, 2026 / 05:50 PT",
+      "image_url": "https://dmitry.gr/images/icons/RV.png",
+      "summary_en": "The piece argues that RISC-V hype overlooked practical challenges like tooling, ecosystem maturity, and performance parity with established ISA, suggesting the community should temper expectations and invest in software stack.",
+      "summary_zh": "文章认为 RISC-V 的 hype 忽视了工具链、生态系统成熟度和与成熟 ISA 的性能对齐等实际挑战，建议社区应调整期望并加强软件生态。",
+      "hn": {
+        "id": 49298035,
+        "type": "story",
+        "by": "dmitrygr",
+        "score": 337,
+        "descendants": 381,
+        "time": 1786711856,
+        "comments_url": "https://news.ycombinator.com/item?id=49298035"
+      },
+      "hot_score": 0.29,
+      "tags": [
+        "Open Source",
+        "Programming",
+        "Hardware"
+      ]
+    },
+    {
+      "title_en": "Qwen3.8-27B",
+      "url": "https://twitter.com/alibaba_qwen/status/2088280182356611304",
+      "title_zh": "Qwen3.8-27B 模型",
+      "created_display": "Created: Aug 14, 2026 / 08:03 PT",
+      "image_url": "https://pbs.twimg.com/media/HPsKxzsbQAAJa4d.jpg:large",
+      "summary_en": "Qwen 3.8-27B is released as a 27B parameter model, continuing the Qwen family’s growth for multilingual tasks. It illustrates the rapid expansion of mid-sized LLMs tailored for practical deployment.",
+      "summary_zh": "Qwen 3.8-27B 作为 27B 参数规模的新版本，延续 Qwen 家族在多语言任务上的能力。此举体现了中等规模大模型在实际落地中的快速扩展。",
+      "hn": {
+        "id": 49299684,
+        "type": "story",
+        "by": "mfiguiere",
+        "score": 298,
+        "descendants": 3,
+        "time": 1786719834,
+        "comments_url": "https://news.ycombinator.com/item?id=49299684"
+      },
+      "tags": [
+        "AI"
+      ],
+      "hot_score": 0.28
+    },
+    {
+      "title_en": "eigendrum",
+      "url": "https://eigendrum.com/#p=circle",
+      "title_zh": "Eigendrum",
+      "created_display": "Created: Aug 14, 2026 / 15:15 PT",
+      "image_url": "https://eigendrum.com/docs/hero.png",
+      "summary_en": "Eigendrum appears to be an arts/tech project page, possibly exploring circle-based or eigen-theme visuals or sound.",
+      "summary_zh": "Eigendrum 是一个实验性艺术/科技作品的项目页面，展示与圆形、特征/特征向量等主题相关的创作。",
+      "hn": {
+        "id": 49305250,
+        "type": "story",
+        "by": "bookofjoe",
+        "score": 215,
+        "descendants": 1,
+        "time": 1786745712,
+        "comments_url": "https://news.ycombinator.com/item?id=49305250"
+      },
+      "tags": [
+        "Culture"
+      ],
+      "hot_score": 0.27
+    },
+    {
+      "title_en": "France's top court blocks social media ban for under-15s",
+      "url": "https://www.reuters.com/world/frances-top-court-rules-social-media-ban-curtails-freedom-expression-2026-08-14/",
+      "title_zh": "法国最高法院阻止未成年人使用社交媒体的禁令",
+      "created_display": "Created: Aug 14, 2026 / 09:06 PT",
+      "image_url": null,
+      "summary_en": "France's top court blocked a ban on social media for under-15s, ruling it infringes freedom of expression. The decision frames debates about age-based access, digital rights, and how to protect minors online.",
+      "summary_zh": "法国最高法院裁定针对未满15岁用户的社交媒体禁令侵犯表达自由，推翻相关规定。这一裁决引发关于未成年在线保护和数字权利的辩论。",
+      "hn": {
+        "id": 49300671,
+        "type": "story",
+        "by": "BlueBerry2001",
+        "score": 232,
+        "descendants": 172,
+        "time": 1786723609,
+        "comments_url": "https://news.ycombinator.com/item?id=49300671"
+      },
+      "tags": [
+        "Politics",
+        "Legal"
+      ],
+      "hot_score": 0.23
+    },
+    {
+      "title_en": "RISC-V: They should have known better",
+      "url": "https://dmitry.gr/?r=06.%20Thoughts&proj=12.%20RV",
+      "title_zh": "RISC-V：他们本应更清楚地知道的问题",
+      "created_display": "Created: Aug 14, 2026 / 15:38 PT",
+      "image_url": "https://dmitry.gr/images/icons/RV.png",
+      "summary_en": "A critical take on RISC-V, pointing out missteps or under-appreciated challenges in the open ISA movement and its ecosystem.",
+      "summary_zh": "对 RISC-V 的批判性看法，指出开放指令集生态中的若干盲点和挑战，以及参与者应更清楚地认识到的问题。",
+      "hn": {
+        "id": 49305492,
+        "type": "story",
+        "by": "kaycebasques",
+        "score": 174,
+        "descendants": 1,
+        "time": 1786747114,
+        "comments_url": "https://news.ycombinator.com/item?id=49305492"
+      },
+      "tags": [
+        "Open Source",
+        "Programming",
+        "Hardware"
+      ],
+      "hot_score": 0.22
+    },
+    {
+      "title_en": "Introducing Toast 1",
+      "url": "https://www.mixedbread.com/blog/toast-1",
+      "title_zh": "Toast 1 发布",
+      "created_display": "Created: Aug 14, 2026 / 08:07 PT",
+      "image_url": "https://www.mixedbread.com/images/blog/toast-1/intro-toast-1.jpg",
+      "summary_en": "Toast 1 announces a new project or product release from Mixed Bread, detailing its goals and potential use cases.",
+      "summary_zh": "混合面包公司推出 Toast 1 版本，介绍了新产品/项目的目标与潜在应用场景。",
+      "hn": {
+        "id": 49299746,
+        "type": "story",
+        "by": "mplappert",
+        "score": 216,
+        "descendants": 66,
+        "time": 1786720077,
+        "comments_url": "https://news.ycombinator.com/item?id=49299746"
+      },
+      "tags": [
+        "Startups"
+      ],
+      "hot_score": 0.21
+    },
+    {
+      "title_en": "Show HN: ThoughtDAG – An editable context graph for LLM conversations",
+      "url": "https://chenxiachan.github.io/thoughtdag/",
+      "title_zh": "Show HN：ThoughtDAG —— 可编辑的 LLM 对话上下文图",
+      "created_display": "Created: Aug 14, 2026 / 21:42 PT",
+      "image_url": "https://chenxiachan.github.io/thoughtdag/assets/thoughtdag-story-poster-en-horizontal.jpg",
+      "summary_en": "ThoughtDAG provides an editable graph to structure and persist the context of long LLM conversations, enabling clearer exploration of ideas and better traceability.",
+      "summary_zh": "ThoughtDAG 提供一个可编辑的上下文图，用于组织并持久化长对话中的语境，便于更清晰地梳理思路与追踪。",
+      "hn": {
+        "id": 49307700,
+        "type": "story",
+        "by": "chatchan",
+        "score": 124,
+        "descendants": 59,
+        "time": 1786768927,
+        "comments_url": "https://news.ycombinator.com/item?id=49307700"
+      },
+      "hot_score": 0.21,
+      "tags": [
+        "Show HN",
+        "Programming",
+        "AI"
+      ]
+    },
+    {
+      "title_en": "I turned my RSS feeds into an e-ink newspaper to stop reading on my phone",
+      "url": "https://heyjonny.dev/posts/rss-to-eink-newspaper/",
+      "title_zh": "我把 RSS 订阅变成电子墨水报纸以减少看手机",
+      "created_display": "Created: Aug 14, 2026 / 07:21 PT",
+      "image_url": "https://heyjonny.dev/rss-to-eink-newspaper.jpeg",
+      "summary_en": "A personal experiment turning RSS feeds into an e-ink newspaper to curb phone reading, exploring a low-friction way to consume information more mindfully.",
+      "summary_zh": "作者将 RSS 订阅制成电子墨水报纸，以减少在手机上阅读的时间，探索更专注、低干扰的信息获取方式。",
+      "hn": {
+        "id": 49299081,
+        "type": "story",
+        "by": "speckx",
+        "score": 221,
+        "descendants": 99,
+        "time": 1786717278,
+        "comments_url": "https://news.ycombinator.com/item?id=49299081"
+      },
+      "tags": [
+        "Culture"
+      ],
+      "hot_score": 0.2
+    },
+    {
+      "title_en": "The Ploopy A+ Trackball Is Here",
+      "url": "https://blog.ploopy.co/the-aplus-is-finally-here-499",
+      "title_zh": "Ploopy A+ 轨迹球来了",
+      "created_display": "Created: Aug 14, 2026 / 17:55 PT",
+      "image_url": "https://blog.ploopy.co/wp-content/uploads/2024/12/bloglogo.png",
+      "summary_en": "Ploopy unveils the A+ trackball, with new ergonomics and precision controls aimed at developers and power users. The device promises improved comfort and productivity for long coding sessions.",
+      "summary_zh": "Ploopy 发布了 A+ 轨迹球，面向开发者与高端用户，强调改进的人体工学和更高的定位精度，旨在提升长时间编码的舒适度与效率。",
+      "hn": {
+        "id": 49306443,
+        "type": "story",
+        "by": "big_toast",
+        "score": 140,
+        "descendants": 70,
+        "time": 1786755331,
+        "comments_url": "https://news.ycombinator.com/item?id=49306443"
+      },
+      "hot_score": 0.2,
+      "tags": [
+        "Hardware"
+      ]
+    },
+    {
+      "title_en": "Stop sending me huge PRs; a rant",
+      "url": "https://getsmall.xyz/post/cmstjfl9l000if70ljmpzr4va",
+      "title_zh": "别再给我发超大 PR 的牢骚",
+      "created_display": "Created: Aug 14, 2026 / 15:48 PT",
+      "image_url": null,
+      "summary_en": "A candid rant about oversized pull requests slowing progress, with tips on review throughput, smaller batches, and better collaboration practices to keep teams productive.",
+      "summary_zh": "对超大 Pull Request 拖慢进度的直白抱怨，提出提升评审吞吐量、分批提交和更好协作的建议，以保持团队效率。",
+      "hn": {
+        "id": 49305558,
+        "type": "story",
+        "by": "trezm",
+        "score": 143,
+        "descendants": 103,
+        "time": 1786747695,
+        "comments_url": "https://news.ycombinator.com/item?id=49305558"
+      },
+      "hot_score": 0.19,
+      "tags": [
+        "DevOps"
+      ]
+    },
+    {
+      "title_en": "Simplifying and Refactoring Introductory Calculus (2018)",
+      "url": "https://arxiv.org/abs/1811.03459",
+      "title_zh": "对入门微积分的简化与重构（2018）",
+      "created_display": "Created: Aug 14, 2026 / 17:15 PT",
+      "image_url": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+      "summary_en": "A 2018 work proposes a streamlined approach to teaching and reformulating introductory calculus, focusing on intuitive foundations and progressive abstraction to ease learning.",
+      "summary_zh": "2018 年的研究提出对入门微积分的简化与重构，强调以直观基础为出发点，逐步引入抽象以降低学习难度。",
+      "hn": {
+        "id": 49306196,
+        "type": "story",
+        "by": "E-Reverance",
+        "score": 140,
+        "descendants": 78,
+        "time": 1786752923,
+        "comments_url": "https://news.ycombinator.com/item?id=49306196"
+      },
+      "hot_score": 0.19,
+      "tags": [
+        "Education"
+      ]
+    },
+    {
+      "title_en": "Dear people who work at the airport",
+      "url": "https://life-after-ssri.bearblog.dev/dear-people-who-work-at-the-airport/",
+      "title_zh": "致机场工作的你们",
+      "created_display": "Created: Aug 14, 2026 / 05:23 PT",
+      "image_url": "https://life-after-ssri.bearblog.dev/static/og-image.png",
+      "summary_en": "A note to airport workers reflecting on the realities of travel hubs and the human side of air transportation, acknowledging their hard work and offering appreciation.",
+      "summary_zh": "致机场工作者的一封信，反思交通枢纽的现实与人性，致以工作上的感谢与理解。",
+      "hn": {
+        "id": 49297801,
+        "type": "story",
+        "by": "nivethan",
+        "score": 212,
+        "descendants": 261,
+        "time": 1786710202,
+        "comments_url": "https://news.ycombinator.com/item?id=49297801"
+      },
+      "tags": [
+        "Culture"
+      ],
+      "hot_score": 0.18
+    },
+    {
+      "title_en": "Jane Street suffers $15B hit after meltdown at Situational Awareness",
+      "url": "https://www.ft.com/content/47dd5308-dd17-404a-a615-61046defd697",
+      "title_zh": "Jane Street 因情境感知问题遭受 150 亿美元损失",
+      "created_display": "Created: Aug 14, 2026 / 16:40 PT",
+      "image_url": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fcd391508-bc64-401e-aae1-ffd08fc4c6ad.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
+      "summary_en": "Jane Street reportedly incurred a massive financial hit tied to systemic failures around situational awareness, highlighting risk controls and governance gaps even in high-frequency firms.",
+      "summary_zh": "报道称 Jane Street 因情境感知相关的系统性问题遭遇巨额损失，凸显高频交易公司在风险控制与治理方面的漏洞。",
+      "hn": {
+        "id": 49305927,
+        "type": "story",
+        "by": "bobstax",
+        "score": 135,
+        "descendants": 114,
+        "time": 1786750837,
+        "comments_url": "https://news.ycombinator.com/item?id=49305927"
+      },
+      "hot_score": 0.18,
+      "tags": [
+        "Finance",
+        "Business"
+      ]
+    },
+    {
+      "title_en": "When Genius Fails: The Intellectual Arrogance of the AI Labs",
+      "url": "https://weightythoughts.com/p/when-genius-failsthe-intellectual",
+      "title_zh": "AI 实验室的傲慢：天才失败时刻",
+      "created_display": "Created: Aug 14, 2026 / 07:34 PT",
+      "image_url": "https://substackcdn.com/image/fetch/$s_!PLI0!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6a3790af-8609-45cc-bb7b-e4f006e27538_1536x1024.jpeg",
+      "summary_en": "An essay criticizing AI labs for intellectual arrogance and hubris, arguing that overconfidence can blind them to real-world risks and societal impacts.",
+      "summary_zh": "一篇批判性文章，指责 AI 研究机构的自负与傲慢，认为过度自信可能让他们忽视现实风险与社会影响。",
+      "hn": {
+        "id": 49299282,
+        "type": "story",
+        "by": "gmays",
+        "score": 175,
+        "descendants": 199,
+        "time": 1786718089,
+        "comments_url": "https://news.ycombinator.com/item?id=49299282"
+      },
+      "tags": [
+        "Culture",
+        "AI"
+      ],
+      "hot_score": 0.16
+    },
+    {
+      "title_en": "The TEMU-Fication of Software, Digital Goods and Services",
+      "url": "https://xn--gckvb8fzb.com/the-temu-fication-of-software-digital-goods-services/",
+      "title_zh": "TEMU 化的软件、数字商品与服务",
+      "created_display": "Created: Aug 14, 2026 / 05:00 PT",
+      "image_url": "https://xn--gckvb8fzb.com/the-temu-fication-of-software-digital-goods-services/images/cover.jpg",
+      "summary_en": "An analysis of TEMU-like discounting and marketplace dynamics reshaping software and digital goods markets, pressuring margins and accelerating commodification.",
+      "summary_zh": "对 TEMU 式的价格战与市场模式在软件、数字商品与服务领域的影响进行分析，讨论对利润率和商品化速度的推动效应。",
+      "hn": {
+        "id": 49297637,
+        "type": "story",
+        "by": "surprisetalk",
+        "score": 173,
+        "descendants": 132,
+        "time": 1786708851,
+        "comments_url": "https://news.ycombinator.com/item?id=49297637"
+      },
+      "tags": [
+        "Business"
+      ],
+      "hot_score": 0.15
+    },
+    {
+      "title_en": "Racket v9.3",
+      "url": "https://blog.racket-lang.org/2026/08/racket-v9-3.html",
+      "title_zh": "Racket 9.3 版发布",
+      "created_display": "Created: Aug 14, 2026 / 11:14 PT",
+      "image_url": "https://blog.racket-lang.org/img/racket-logo.svg",
+      "summary_en": "Racket 9.3 brings updated language features, libraries, and tooling improvements, continuing its mission as a practical, beginner-friendly Lisp-family language.",
+      "summary_zh": "Racket 9.3 版发布，带来更新的语言特性、库与工具链改进，继续巩固这一易学友好的 Lisp 家族语言的定位。",
+      "hn": {
+        "id": 49302562,
+        "type": "story",
+        "by": "privong",
+        "score": 136,
+        "descendants": 19,
+        "time": 1786731288,
+        "comments_url": "https://news.ycombinator.com/item?id=49302562"
+      },
+      "hot_score": 0.15,
+      "tags": [
+        "Programming",
+        "Open Source"
+      ]
+    },
+    {
+      "title_en": "CEO who fired 900 people on Zoom just before Christmas wants his job back",
+      "url": "https://www.cnn.com/2026/08/14/business/vishal-garg-better-ceo",
+      "title_zh": "在圣诞节前通过 Zoom 解雇 900 人的 CEO 想要回到原位",
+      "created_display": "Created: Aug 14, 2026 / 12:36 PT",
+      "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2270952506.jpg?c=16x9&q=w_800,c_fill",
+      "summary_en": "The ex-CEO who laid off hundreds in a single Zoom call faces renewed scrutiny as he seeks to return to leadership, prompting a debate on compassionate leadership and accountability.",
+      "summary_zh": "曾在圣诞前通过 Zoom 解雇数百员工的前任 CEO 现寻求回到领导岗位，引发关于同情型领导与问责的讨论。",
+      "hn": {
+        "id": 49303592,
+        "type": "story",
+        "by": "pseudolus",
+        "score": 112,
+        "descendants": 98,
+        "time": 1786736178,
+        "comments_url": "https://news.ycombinator.com/item?id=49303592"
+      },
+      "hot_score": 0.13,
+      "tags": [
+        "Business",
+        "Politics"
+      ]
+    },
+    {
+      "title_en": "Every fucking website: 2026 edition",
+      "url": "https://op.tngl.io/every-fucking-website/",
+      "title_zh": "2026 年版‘每一个他妈的网站’",
+      "created_display": "Created: Aug 14, 2026 / 11:27 PT",
+      "image_url": null,
+      "summary_en": "A sharp, possibly humorous survey of the state of the web in 2026, touching on performance, accessibility, design inflation, and the friction users face online.",
+      "summary_zh": "对 2026 年网页现状的辛辣/幽默式梳理，涉及性能、无障碍、设计膨胀以及用户在线体验中的摩擦。",
+      "hn": {
+        "id": 49302737,
+        "type": "story",
+        "by": "nerdypepper",
+        "score": 112,
+        "descendants": 32,
+        "time": 1786732034,
+        "comments_url": "https://news.ycombinator.com/item?id=49302737"
+      },
+      "hot_score": 0.12,
+      "tags": [
+        "Web"
+      ]
+    }
+  ]
+}

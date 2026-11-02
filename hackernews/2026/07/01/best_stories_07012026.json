@@ -1,0 +1,1172 @@
+{
+  "meta": {
+    "mode": "best",
+    "source": "https://news.ycombinator.com/",
+    "api": "https://github.com/HackerNews/API",
+    "count_requested": 50,
+    "count_written": 50,
+    "reused_same_day": 0,
+    "reused_cross_day": 23,
+    "new_llm_enriched": 9,
+    "scrape_time_display": "07:09, July 02, 2026 (PDT)",
+    "timezone": "America/Los_Angeles",
+    "date_dir": "2026/07/01",
+    "content_date": "2026-07-01",
+    "run_time_local": "07:09, July 02, 2026 (PDT)",
+    "run_time_utc": "2026-07-02 14:09:09 UTC",
+    "incremental": true,
+    "stories_max": 50,
+    "hot_score_time_utc": "2026-07-02 14:09:58 UTC"
+  },
+  "items": [
+    {
+      "title_en": "This blog is written in en-GB",
+      "url": "https://shkspr.mobi/blog/2026/07/this-blog-is-written-in-en-gb/",
+      "title_zh": "本博客以英式英语（en-GB）撰写",
+      "created_display": "Created: Jul 02, 2026 / 05:17 PT",
+      "image_url": null,
+      "summary_en": "A note clarifying that the blog uses en-GB spelling and style, explaining the reasons for sticking with British English. It may discuss readers in international contexts and how the choice affects tone and accessibility.",
+      "summary_zh": "该博文说明本博客使用英式英语（en-GB），并采用相应的拼写与标点规范。作者解释了偏好此变体的理由，以及对国际读者的影响。",
+      "hn": {
+        "id": 48760289,
+        "type": "story",
+        "by": "mritzmann",
+        "score": 249,
+        "descendants": 197,
+        "time": 1782994653,
+        "comments_url": "https://news.ycombinator.com/item?id=48760289"
+      },
+      "hot_score": 21.67,
+      "tags": [
+        "Culture"
+      ]
+    },
+    {
+      "title_en": "Android Developer Verification: Threat masquerading as Protection",
+      "url": "https://f-droid.org/2026/07/01/adv-malware.html",
+      "title_zh": "Android 开发者验证：伪装成保护的威胁",
+      "created_display": "Created: Jul 01, 2026 / 20:00 PT",
+      "image_url": "https://f-droid.org/assets/fdroid-logo_bfHl7nsLHOUQxzdU8-rGIhn4bAgl6z7k2mA3fWoCyT4=.png",
+      "summary_en": "Android developer verification can be abused by threat actors who disguise malware as protective or security tools. Such tactics exploit trust signals around security features to mislead users or bypass vetting, undermining platform defenses. The takeaway is a push for tighter vetting, clearer indicators of app behavior, and user skepticism when apps claim to protect you.",
+      "summary_zh": "Android 开发者验证可能被威胁者利用，伪装成保护性工具的恶意软件。此类手段利用安全功能的信任信号误导用户或规避审核，削弱平台防护。要点在于加强审核、提供更清晰的应用行为指示，并提高用户在遇到自称保护工具的应用时的警惕。",
+      "hn": {
+        "id": 48755965,
+        "type": "story",
+        "by": "drewfax",
+        "score": 1017,
+        "descendants": 408,
+        "time": 1782961215,
+        "comments_url": "https://news.ycombinator.com/item?id=48755965"
+      },
+      "hot_score": 9.82,
+      "tags": [
+        "Security"
+      ]
+    },
+    {
+      "title_en": "Google loses fight over record $4.7B EU antitrust fine",
+      "url": "https://www.cnbc.com/2026/07/02/alphabet-google-android-eu-antitrust-fine-4-1-billion-euro-appeal.html",
+      "title_zh": "谷歌就欧盟创纪录的47亿欧元反垄断罚款上诉败诉",
+      "created_display": "Created: Jul 02, 2026 / 01:34 PT",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108329754-1782978643176-gettyimages-458933277-000019668000_XXXLarge.jpeg?v=1782978650&w=1920&h=1080",
+      "summary_en": "The EU’s antitrust ruling against Google stands after an appeal, highlighting ongoing regulatory pressure on tech giants in Europe. The decision reinforces the EU’s willingness to enforce competition rules in digital markets.",
+      "summary_zh": "欧盟对谷歌的反垄断裁决在上诉后维持，凸显欧盟对科技巨头持续施压的监管态势。此决定重申欧盟在数字市场执行竞争规则的意愿。",
+      "hn": {
+        "id": 48758309,
+        "type": "story",
+        "by": "boshomi",
+        "score": 204,
+        "descendants": 165,
+        "time": 1782981253,
+        "comments_url": "https://news.ycombinator.com/item?id=48758309"
+      },
+      "tags": [
+        "Business",
+        "Legal",
+        "Politics"
+      ],
+      "hot_score": 5.28
+    },
+    {
+      "title_en": "Bring back crappy forums",
+      "url": "https://tedium.co/2026/07/01/online-web-forums-retrospective/",
+      "title_zh": "让糟糕论坛卷土重来",
+      "created_display": "Created: Jul 01, 2026 / 19:30 PT",
+      "image_url": "https://v1.screenshot.11ty.dev/https%3A%2F%2Ftedium.co%2Fog-images%2F2026%2F07%2F01%2Fonline-web-forums-retrospective%2F/opengraph/?v=1782964396",
+      "summary_en": "A retrospective argues for reviving the rough-and-tumble forum culture that predates modern platforms—less polish, more candid discussion, and simpler moderation. It examines what early forums did well and what modern networks could borrow, from lightweight threading to signal-to-noise management.",
+      "summary_zh": "该文回顾并主张让糟糕但充满活力的论坛文化回归——强调直率讨论、低门槛与简化的社区治理。它讨论早期论坛的优点，以及现代社群应借鉴的经验，如简化的主题讨论与信号噪声管理。",
+      "hn": {
+        "id": 48755731,
+        "type": "story",
+        "by": "pentagrama",
+        "score": 395,
+        "descendants": 251,
+        "time": 1782959416,
+        "comments_url": "https://news.ycombinator.com/item?id=48755731"
+      },
+      "tags": [
+        "Culture",
+        "Web"
+      ],
+      "hot_score": 3.56
+    },
+    {
+      "title_en": "Kimi K2.7 Code is generally available in GitHub Copilot",
+      "url": "https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot/",
+      "title_zh": "Kimi K2.7 代码现已在 GitHub Copilot 中广泛可用",
+      "created_display": "Created: Jul 01, 2026 / 21:32 PT",
+      "image_url": "https://github.blog/wp-content/uploads/2026/06/613814616-4d64d5a2-d26c-4377-9ce6-a444b1b30840.png",
+      "summary_en": "GitHub Copilot now broadly supports Kimi K2.7 code, expanding access to advanced AI-assisted coding capabilities. This milestone signals the maturing ecosystem for AI copilots, with implications for how developers source, trust, and review AI-generated code, alongside licensing and privacy considerations.",
+      "summary_zh": "GitHub Copilot 现已广泛支持 Kimi K2.7 代码，扩展了对高级 AI 代码助手的使用。此里程碑标志着 AI 助手生态的成熟，影响开发者对 AI 生成代码的获取、信任与审查，以及相关的许可和隐私问题。",
+      "hn": {
+        "id": 48756602,
+        "type": "story",
+        "by": "unliftedq",
+        "score": 257,
+        "descendants": 108,
+        "time": 1782966761,
+        "comments_url": "https://news.ycombinator.com/item?id=48756602"
+      },
+      "tags": [
+        "AI",
+        "Programming",
+        "Privacy"
+      ],
+      "hot_score": 3.1
+    },
+    {
+      "title_en": "Oomwoo, an open-source robot vacuum you build yourself",
+      "url": "https://makerspet.com/blog/building-an-open-source-robot-vacuum-meet-oomwoo/",
+      "title_zh": "Oomwoo：一个你自己组装的开源机器人吸尘器",
+      "created_display": "Created: Jul 01, 2026 / 17:48 PT",
+      "image_url": "https://makerspet.com/wp-content/uploads/2026/06/oomwoo-vacuum_model_top.webp",
+      "summary_en": "Oomwoo is an open-source, build-it-yourself robot vacuum kit that lets hobbyists swap hardware and customize software. It showcases the growing maker movement around home robots, providing transparent designs, firmware, and code. Community-driven projects like this push for accessible robotics and faster iteration.",
+      "summary_zh": "Oomwoo 是一个可自行组装的开源机器人吸尘器套件，允许用户定制硬件与软件。它体现了家用机器人开源潮流，通过透明的硬件、固件与代码促进社区协作与快速迭代。这样的项目降低入门门槛，推动更多爱好者参与硬件创新。",
+      "hn": {
+        "id": 48755005,
+        "type": "story",
+        "by": "devicelimit",
+        "score": 384,
+        "descendants": 73,
+        "time": 1782953281,
+        "comments_url": "https://news.ycombinator.com/item?id=48755005"
+      },
+      "tags": [
+        "Open Source",
+        "Hardware"
+      ],
+      "hot_score": 2.8
+    },
+    {
+      "title_en": "For first time, a cell built from scratch grows and divides",
+      "url": "https://www.quantamagazine.org/for-the-first-time-a-cell-built-from-scratch-grows-and-divides-20260701/",
+      "title_zh": "首次从零构建的细胞能够生长并分裂",
+      "created_display": "Created: Jul 01, 2026 / 07:20 PT",
+      "image_url": "https://www.quantamagazine.org/wp-content/uploads/2026/07/SyntheticLife-cr-Ada-Zejun-Shen-social.jpg",
+      "summary_en": "Researchers have built a cell from scratch that can grow and divide, marking a milestone in bottom-up synthetic biology. By assembling functional cellular life from individual components, the work advances the dream of programmable biology and could unlock new biotechnologies and origins-of-life insights. Yet, challenges around stability, safety, and control remain as researchers push toward more complex designs.",
+      "summary_zh": "研究者首次从零构建出可生长和分裂的细胞，标志着自下而上的合成生物学里程碑。通过从单个组件组装功能性细胞生命，这项工作推动了可编程生物学的实现，并可能为生物技术和起源研究带来新机遇。当然，稳定性、安全性与可控性仍是未来进一步复杂化设计时需要面对的挑战。",
+      "hn": {
+        "id": 48747304,
+        "type": "story",
+        "by": "defrost",
+        "score": 885,
+        "descendants": 280,
+        "time": 1782915652,
+        "comments_url": "https://news.ycombinator.com/item?id=48747304"
+      },
+      "tags": [
+        "Science"
+      ],
+      "hot_score": 2.54
+    },
+    {
+      "title_en": "ZCode – Harness for GLM-5.2",
+      "url": "https://zcode.z.ai/en",
+      "title_zh": "ZCode：GLM-5.2 的测试套件",
+      "created_display": "Created: Jul 01, 2026 / 15:03 PT",
+      "image_url": "https://zcode.z.ai/images/summary_large_image.png?v=20260628",
+      "summary_en": "ZCode releases a harness for GLM-5.2, offering an end-to-end toolkit to run prompts, collect metrics, and compare outputs. This reduces the friction of experimentation and makes benchmarking more reproducible for ML researchers and developers.",
+      "summary_zh": "ZCode 推出 GLM-5.2 的测试套件，提供从输入到结果评估的一体化工具，便于执行提示、收集指标和对比输出。降低研究者的试验门槛，便于可重复的基准比较。",
+      "hn": {
+        "id": 48753715,
+        "type": "story",
+        "by": "chvid",
+        "score": 456,
+        "descendants": 312,
+        "time": 1782943416,
+        "comments_url": "https://news.ycombinator.com/item?id=48753715"
+      },
+      "tags": [
+        "Programming"
+      ],
+      "hot_score": 2.48
+    },
+    {
+      "title_en": "Global review confirms mRNA vaccines are safe, effective and full of promise",
+      "url": "https://news.ubc.ca/2026/06/mrna-vaccines-are-safe-effective-and-full-of-promise/",
+      "title_zh": "全球综述确认 mRNA 疫苗安全、有效且充满前景",
+      "created_display": "Created: Jul 01, 2026 / 17:40 PT",
+      "image_url": "https://news.ubc.ca/wp-content/uploads/2026/06/ubc_20210713_pj_9100_feature-image.jpg",
+      "summary_en": "A global synthesis concludes that mRNA vaccines are safe, effective, and hold promise for tackling current and future diseases. The review underscores robust safety data across diverse populations and highlights potential for rapid development and deployment.",
+      "summary_zh": "全球综合评估显示 mRNA 疫苗安全、有效，且在应对当前及未来疾病方面前景广阔。评估强调在多样人群中的强健安全性数据，并凸显其在快速开发和部署方面的潜力。",
+      "hn": {
+        "id": 48754963,
+        "type": "story",
+        "by": "coloneltcb",
+        "score": 314,
+        "descendants": 359,
+        "time": 1782952814,
+        "comments_url": "https://news.ycombinator.com/item?id=48754963"
+      },
+      "hot_score": 2.26,
+      "tags": [
+        "Science",
+        "Health"
+      ]
+    },
+    {
+      "title_en": "Claude Code is steganographically marking requests",
+      "url": "https://thereallo.dev/blog/claude-code-prompt-steganography",
+      "title_zh": "Claude Code 以隐写方式标记请求",
+      "created_display": "Created: Jun 30, 2026 / 08:44 PT",
+      "image_url": null,
+      "summary_en": "Researchers demonstrate how Claude Code can embed hidden signals in prompts, enabling steganographic tagging of requests. This raises questions about model privacy, misuse, and provenance in AI-assisted workflows. The finding highlights the need for robust controls around prompt encoding.",
+      "summary_zh": "研究者展示了 Claude Code 如何在提示中嵌入隐写信号，给请求标记隐藏标识。这引发对模型隐私、滥用和工作流可追溯性的担忧，凸显了对提示编码的鲁棒控制的必要性。",
+      "hn": {
+        "id": 48734373,
+        "type": "story",
+        "by": "kirushik",
+        "score": 2395,
+        "descendants": 731,
+        "time": 1782834264,
+        "comments_url": "https://news.ycombinator.com/item?id=48734373"
+      },
+      "tags": [
+        "AI",
+        "Privacy"
+      ],
+      "hot_score": 2.22
+    },
+    {
+      "title_en": "Most arguments are about ego, not ideas",
+      "url": "https://wangcong.org/2026-06-30-why-i-stopped-arguing-with-people.html",
+      "title_zh": "大多數爭論源於自尊心，而非觀點",
+      "created_display": "Created: Jul 01, 2026 / 06:29 PT",
+      "image_url": null,
+      "summary_en": "Most online disagreements stem from ego rather than substantive ideas. The piece argues for stepping away from heated exchanges and focusing on listening and shared goals, which can make discussions more productive and informative for tech communities.",
+      "summary_zh": "大多數在線爭論源於自尊心，而非實質性觀點。文章倡導在情緒升溫時停止爭辯，專注傾聽並明確共同目標，讓技術社群的討論更高效、具啟發性。",
+      "hn": {
+        "id": 48746445,
+        "type": "story",
+        "by": "backlit4034",
+        "score": 694,
+        "descendants": 546,
+        "time": 1782912569,
+        "comments_url": "https://news.ycombinator.com/item?id=48746445"
+      },
+      "hot_score": 1.88,
+      "tags": [
+        "Culture"
+      ]
+    },
+    {
+      "title_en": "Physical disc production ending in Jan 2028 for new games on PlayStation",
+      "url": "https://blog.playstation.com/2026/07/01/physical-disc-production-ending-in-january-2028-for-new-games-releasing-on-playstation-consoles/",
+      "title_zh": "PlayStation 将于 2028 年 1 月停止新作实体光盘生产",
+      "created_display": "Created: Jul 01, 2026 / 05:13 PT",
+      "image_url": "https://blog.playstation.com/tachyon/2026/07/70bb22030b29f4234fd812253bf1129b00609c4c.jpg",
+      "summary_en": "Sony will end physical disc production for new PlayStation releases in January 2028, accelerating its digital-first strategy. The move reduces manufacturing and distribution costs but may affect collectors, retailers, and regions with stronger physical markets. It signals a lasting shift in how console games are distributed and consumed.",
+      "summary_zh": "索尼将于 2028 年 1 月停止新作实体光盘的生产，进一步推动数字化优先策略。此举降低了制造与发行成本，但可能影响收藏者、零售商以及实体市场较强的地区，预示着主机游戏发行与消费方式的长期转变。",
+      "hn": {
+        "id": 48745456,
+        "type": "story",
+        "by": "Tiberium",
+        "score": 733,
+        "descendants": 742,
+        "time": 1782908014,
+        "comments_url": "https://news.ycombinator.com/item?id=48745456"
+      },
+      "tags": [
+        "Gaming",
+        "Business"
+      ],
+      "hot_score": 1.83
+    },
+    {
+      "title_en": "Show HN: Searchable directory of 22k+ products from worker-owned co-ops",
+      "url": "https://www.workerowned.info/",
+      "title_zh": "Show HN：员工共同所有制合作社的2.2万+件产品可检索目录",
+      "created_display": "Created: Jul 01, 2026 / 13:47 PT",
+      "image_url": "https://www.workerowned.info/og-marketplace.png",
+      "summary_en": "A searchable directory aggregating over 22,000 products from worker-owned co-ops, making ethically produced goods easier to discover. The project lowers barriers for consumers and researchers to support cooperative businesses and study their impact.",
+      "summary_zh": "一个聚合了来自员工共同所有制合作社的2.2万多件产品的可检索目录，帮助用户更容易发现符合伦理的商品。该项目降低了消费者与研究者支持合作社企业的门槛，并便于研究其影响。",
+      "hn": {
+        "id": 48752905,
+        "type": "story",
+        "by": "IESAI_ski",
+        "score": 376,
+        "descendants": 74,
+        "time": 1782938861,
+        "comments_url": "https://news.ycombinator.com/item?id=48752905"
+      },
+      "tags": [
+        "Show HN"
+      ],
+      "hot_score": 1.81
+    },
+    {
+      "title_en": "Sony Deletes 551 Movies PlayStation Owners Paid For",
+      "url": "https://reclaimthenet.org/sony-deletes-551-studiocanal-movies-playstation-owners-paid-for",
+      "title_zh": "索尼删除了 PlayStation 用户购买的 551 部电影",
+      "created_display": "Created: Jul 01, 2026 / 07:26 PT",
+      "image_url": "https://media.reclaimthenet.org/2026/06/uS2Yrsa3uRef.jpg",
+      "summary_en": "Sony reportedly removed 551 StudioCanal titles from PlayStation libraries, affecting owners who thought they had purchased those films. The incident underlines how digital ownership hinges on licensing and can disappear with rights changes. It raises questions about the permanence of digital libraries and consumer protections.",
+      "summary_zh": "据报导，索尼从 PlayStation 库中移除了 551 部 StudioCanal 的电影，影响了以为自己购买过的用户。事件凸显数字所有权依赖于许可，权利变更就可能导致内容消失。引发对数字馆藏永久性与消费者保护的思考。",
+      "hn": {
+        "id": 48747389,
+        "type": "story",
+        "by": "bilsbie",
+        "score": 583,
+        "descendants": 270,
+        "time": 1782915967,
+        "comments_url": "https://news.ycombinator.com/item?id=48747389"
+      },
+      "tags": [
+        "Legal",
+        "Business",
+        "Gaming"
+      ],
+      "hot_score": 1.68
+    },
+    {
+      "title_en": "Fable 5 is Back",
+      "url": "https://twitter.com/claudeai/status/2072402636813607381",
+      "title_zh": "Fable 5 又回来了",
+      "created_display": "Created: Jul 01, 2026 / 12:35 PT",
+      "image_url": "https://jf.x.com/images/media-preview/2072402636813607381",
+      "summary_en": "A tease that Fable 5 is back, hinting at refreshed capabilities and improved tooling for creative tasks like writing and coding. Early signals suggest better context handling and expanded integration with other AI features.",
+      "summary_zh": "Fable 5 再次亮相，暗示将带来升级的能力和更强的创作工具，包括写作与编码任务的改进。初步信息显示会提升上下文处理和与其他功能的协同。",
+      "hn": {
+        "id": 48752030,
+        "type": "story",
+        "by": "mfiguiere",
+        "score": 386,
+        "descendants": 381,
+        "time": 1782934557,
+        "comments_url": "https://news.ycombinator.com/item?id=48752030"
+      },
+      "tags": [
+        "Gaming",
+        "AI"
+      ],
+      "hot_score": 1.67
+    },
+    {
+      "title_en": "What to learn to be a graphics programmer",
+      "url": "https://blog.demofox.org/2026/07/01/what-to-learn-to-be-a-graphics-programmer/",
+      "title_zh": "成为图形程序员要学什么",
+      "created_display": "Created: Jul 01, 2026 / 10:53 PT",
+      "image_url": "https://blog.demofox.org/wp-content/uploads/2026/07/image.png",
+      "summary_en": "A practical roadmap that covers the fundamentals: math (linear algebra, vectors, matrices), GPU pipelines, shading languages, and APIs (OpenGL/Vulkan/DirectX). It emphasizes building real projects (ray tracers, small engines) and a portfolio to demonstrate skill progression, plus tips on debugging shader code.",
+      "summary_zh": "这篇实用路线图列出成为图形程序员的核心要点，包括线性代数等数学基础、GPU 管线、着色语言以及 OpenGL/Vulkan/DirectX 等 API。作者建议以小型引擎或光线追踪实现等实战项目来积累作品集，附带调试着色器的实战要点。",
+      "hn": {
+        "id": 48750710,
+        "type": "story",
+        "by": "atan2",
+        "score": 385,
+        "descendants": 211,
+        "time": 1782928424,
+        "comments_url": "https://news.ycombinator.com/item?id=48750710"
+      },
+      "tags": [
+        "Programming",
+        "Education",
+        "Hardware"
+      ],
+      "hot_score": 1.44
+    },
+    {
+      "title_en": "Nintendo has raised its employees base salary by 10%",
+      "url": "https://mynintendonews.com/2026/06/26/nintendo-has-raised-its-employees-base-salary-by-10/",
+      "title_zh": "任天堂将员工基本薪资提高10%",
+      "created_display": "Created: Jul 01, 2026 / 04:35 PT",
+      "image_url": "https://i0.wp.com/mynintendonews.com/wp-content/uploads/2024/09/nintendo_logo.jpg?fit=2048%2C1341&ssl=1",
+      "summary_en": "Nintendo announced a 10% raise to base salaries, signaling wage growth in a major entertainment tech company. The move may aid retention and morale amid tight labor markets while squeezing margins modestly. It also mirrors broader wage-tightening and inflation-adaptation trends in the industry.",
+      "summary_zh": "任天堂宣布将员工基本工资提高10%，显示出在劳动力紧张的市场中公司对人才的重视。此举有助于提升留任与士气，但可能对利润率产生一定挤压，反映出行业的薪资调整与通胀应对趋势。",
+      "hn": {
+        "id": 48745113,
+        "type": "story",
+        "by": "_tk_",
+        "score": 535,
+        "descendants": 326,
+        "time": 1782905720,
+        "comments_url": "https://news.ycombinator.com/item?id=48745113"
+      },
+      "tags": [
+        "Business",
+        "Gaming"
+      ],
+      "hot_score": 1.28
+    },
+    {
+      "title_en": "Claude Sonnet 5",
+      "url": "https://www.anthropic.com/news/claude-sonnet-5",
+      "title_zh": "Claude Sonnet 5",
+      "created_display": "Created: Jun 30, 2026 / 10:59 PT",
+      "image_url": "https://cdn.sanity.io/images/4zrzovbb/website/458ea645ef6b729f6847cba16932716e6b547f2f-2880x1620.png",
+      "summary_en": "Anthropic released Claude Sonnet 5, the newest member of its Claude family. The update emphasizes stronger reasoning capabilities and tighter safety controls for enterprise AI deployments.",
+      "summary_zh": "Anthropic 发布 Claude Sonnet 5，这是 Claude 家族的最新成员，强调改进的推理能力与企业部署的安全控制。它面向企业场景，优化推理质量并提升对安全约束的可控性。",
+      "hn": {
+        "id": 48736605,
+        "type": "story",
+        "by": "marinesebastian",
+        "score": 1248,
+        "descendants": 773,
+        "time": 1782842392,
+        "comments_url": "https://news.ycombinator.com/item?id=48736605"
+      },
+      "tags": [
+        "AI",
+        "Business"
+      ],
+      "hot_score": 1.26
+    },
+    {
+      "title_en": "Box3D, an open source 3D physics engine",
+      "url": "https://box2d.org/posts/2026/06/announcing-box3d/",
+      "title_zh": "宣布发布 Box3D：开源的 3D 物理引擎",
+      "created_display": "Created: Jul 01, 2026 / 05:12 PT",
+      "image_url": "https://box2d.org/images/logo.svg",
+      "summary_en": "Box3D arrives as an open-source successor in 3D physics engines, following Box2D lineage. It aims to deliver robust rigid-body dynamics with a modular design and easier integration for games and simulations, inviting community contributions. If you build 3D physics into your project, Box3D could become a go-to option without licensing friction.",
+      "summary_zh": "Box3D 作为 3D 物理引擎的开源继任者加入，沿袭 Box2D 的传统，目标是提供健壮的刚体动力学、模块化设计以及更易的集成，鼓励社区贡献。若你的项目需要 3D 物理，这个引擎可能成为无许可负担的首选选项。",
+      "hn": {
+        "id": 48745445,
+        "type": "story",
+        "by": "makepanic",
+        "score": 499,
+        "descendants": 118,
+        "time": 1782907937,
+        "comments_url": "https://news.ycombinator.com/item?id=48745445"
+      },
+      "tags": [
+        "Open Source",
+        "Programming",
+        "Science"
+      ],
+      "hot_score": 1.24
+    },
+    {
+      "title_en": "Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5",
+      "url": "https://twitter.com/AnthropicAI/status/2072106151890809341",
+      "title_zh": "商务部取消对 Claude Fable 5 与 Mythos 5 的出口管制",
+      "created_display": "Created: Jun 30, 2026 / 16:55 PT",
+      "image_url": "https://pbs.twimg.com/profile_images/1798110641414443008/XP8gyBaY_200x200.jpg",
+      "summary_en": "The Department of Commerce has eased export controls on Claude Fable 5 and Mythos 5, enabling broader international distribution. The move could accelerate global AI deployment and competition, while inviting regulatory and security considerations.",
+      "summary_zh": "商务部放松了对 Claude Fable 5 和 Mythos 5 的出口管制，使其在全球范围内的分发更为广泛。这一举措可能加速全球 AI 的部署与竞争，同时带来监管与安全方面的考量。",
+      "hn": {
+        "id": 48740771,
+        "type": "story",
+        "by": "Pragmata",
+        "score": 946,
+        "descendants": 669,
+        "time": 1782863712,
+        "comments_url": "https://news.ycombinator.com/item?id=48740771"
+      },
+      "tags": [
+        "Legal",
+        "Business",
+        "AI",
+        "Security",
+        "Politics"
+      ],
+      "hot_score": 1.22
+    },
+    {
+      "title_en": "Asahi Linux 7.1 Progress Report",
+      "url": "https://asahilinux.org/2026/06/progress-report-7-1/",
+      "title_zh": "Asahi Linux 7.1 进展报告",
+      "created_display": "Created: Jul 01, 2026 / 03:07 PT",
+      "image_url": "https://asahilinux.org/img/AsahiLinux_logomark_256px.png",
+      "summary_en": "Asahi Linux 7.1 delivers new kernel improvements, broader Apple Silicon support, and performance tweaks aimed at making Macs run Linux more smoothly. The update narrows hardware gaps and enhances stability for everyday use and development on Apple hardware. It signals ongoing momentum for Linux on consumer devices.",
+      "summary_zh": "Asahi Linux 7.1 的进展包括内核改进、对 Apple Silicon 的更广泛支持以及性能优化，旨在让在 Mac 上运行 Linux 更加顺畅。此次更新缩小了硬件兼容性差距、提升了日常使用与开发的稳定性，继续推动 Linux 在消费级设备上的应用。",
+      "hn": {
+        "id": 48744518,
+        "type": "story",
+        "by": "pantalaimon",
+        "score": 553,
+        "descendants": 210,
+        "time": 1782900424,
+        "comments_url": "https://news.ycombinator.com/item?id=48744518"
+      },
+      "tags": [
+        "Open Source",
+        "Hardware"
+      ],
+      "hot_score": 1.21
+    },
+    {
+      "title_en": "FFmpeg 9.1's new AAC encoder",
+      "url": "https://hydrogenaudio.org/index.php/topic,129691.0.html",
+      "title_zh": "FFmpeg 9.1 的新 AAC 编码器",
+      "created_display": "Created: Jul 01, 2026 / 07:10 PT",
+      "image_url": null,
+      "summary_en": "FFmpeg 9.1 introduces a new AAC encoder with improved encoding quality and efficiency, offering better stereo handling and options for low-latency workflows. The update may influence streaming pipelines and compliance considerations for AAC encoding in media workflows.",
+      "summary_zh": "FFmpeg 9.1 带来全新的 AAC 编码器，提升了编码质量和效率，并在立体声处理与低延迟工作流方面提供改进。此更新对媒体工作流中的 AAC 编码兼容性与流式传输管线可能产生影响。",
+      "hn": {
+        "id": 48747116,
+        "type": "story",
+        "by": "ledoge",
+        "score": 413,
+        "descendants": 132,
+        "time": 1782915028,
+        "comments_url": "https://news.ycombinator.com/item?id=48747116"
+      },
+      "tags": [
+        "Programming"
+      ],
+      "hot_score": 1.17
+    },
+    {
+      "title_en": "Opening up 'Zero-Knowledge Proof' technology to promote privacy in age assurance",
+      "url": "https://blog.google/innovation-and-ai/technology/safety-security/opening-up-zero-knowledge-proof-technology-to-promote-privacy-in-age-assurance/",
+      "title_zh": "开放零知识证明技术以提升年龄认证隐私",
+      "created_display": "Created: Jul 01, 2026 / 15:27 PT",
+      "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Screenshot_2025-07-03_12.59.53_PM.width-1300.png",
+      "summary_en": "Google outlines opening up zero-knowledge proof technology to improve privacy in age verification, enabling platforms to prove age without exposing birth dates or identity details. This shift could unlock privacy-preserving access controls in social apps and e-commerce.",
+      "summary_zh": "Google 提出开放零知识证明技术以提升年龄认证中的隐私保护，使平台在不暴露出生日期或身份信息的情况下证明用户年龄。此举可能为社交、电子商务等场景带来隐私友好且可验证的准入控制。",
+      "hn": {
+        "id": 48753979,
+        "type": "story",
+        "by": "consumer451",
+        "score": 203,
+        "descendants": 217,
+        "time": 1782944867,
+        "comments_url": "https://news.ycombinator.com/item?id=48753979"
+      },
+      "tags": [
+        "Privacy",
+        "Science"
+      ],
+      "hot_score": 1.15
+    },
+    {
+      "title_en": "ZCode: Claude Code from the Makers of GLM",
+      "url": "https://zcode.z.ai/cn",
+      "title_zh": "ZCode：GLM 创作者推出的 Claude Code",
+      "created_display": "Created: Jul 01, 2026 / 12:11 PT",
+      "image_url": "https://zcode.z.ai/images/summary_large_image.png?v=20260628",
+      "summary_en": "ZCode is Claude Code, a coding-oriented model from the makers of GLM, aiming to assist developers with code generation and explanation. Early demonstrations show promise but also reveal limitations in handling complex logic and unusual syntax. It could become a competitive developer tool if integrated well with workflows.",
+      "summary_zh": "ZCode 是 Claude Code，由 GLM 创作者推出，旨在帮助开发者进行代码生成与讲解。初步演示显示了一定潜力，同时也暴露在处理复杂逻辑和非标准语法时的局限性。如果与工作流集成良好，未来可能成为有力的开发者工具。",
+      "hn": {
+        "id": 48751752,
+        "type": "story",
+        "by": "handfuloflight",
+        "score": 274,
+        "descendants": 14,
+        "time": 1782933098,
+        "comments_url": "https://news.ycombinator.com/item?id=48751752"
+      },
+      "hot_score": 1.14,
+      "tags": [
+        "AI",
+        "Programming"
+      ]
+    },
+    {
+      "title_en": "Godot will no longer accept AI-authored code contributions",
+      "url": "https://www.pcgamer.com/gaming-industry/open-source-game-engine-godot-will-no-longer-accept-ai-authored-code-contributions-we-cant-trust-heavy-users-of-ai-to-understand-their-code-enough-to-fix-it/",
+      "title_zh": "Godot 将不再接受 AI 编写的代码贡献",
+      "created_display": "Created: Jul 01, 2026 / 00:43 PT",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/9fe6i3bvMxcRA6sb2TJAS-1600-80.jpg",
+      "summary_en": "The Godot Foundation bans AI-authored code contributions to the core, citing concerns about reliability and maintainability. The policy underscores the ongoing tension in OSS between AI-assisted tooling and the need for human oversight in critical code.",
+      "summary_zh": "Godot 基金会宣布不再接受 AI 编写的代码提交，理由是对可靠性和可维护性的担忧。此举凸显开源社区在 AI 辅助编码和人类审阅之间的持续张力。",
+      "hn": {
+        "id": 48743472,
+        "type": "story",
+        "by": "pjmlp",
+        "score": 544,
+        "descendants": 387,
+        "time": 1782891802,
+        "comments_url": "https://news.ycombinator.com/item?id=48743472"
+      },
+      "tags": [
+        "Open Source",
+        "Programming",
+        "AI"
+      ],
+      "hot_score": 1.03
+    },
+    {
+      "title_en": "Monetization Gateway: Charge for any resource behind Cloudflare via x402",
+      "url": "https://blog.cloudflare.com/monetization-gateway/",
+      "title_zh": "货币化网关上线",
+      "created_display": "Created: Jul 01, 2026 / 06:59 PT",
+      "image_url": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/7wA6Z3Df13eeHZkxM3Fokt/088b64cd947100b70bd0e49c845fc984/Announcing_the_Monetization_Gateway-_charge_for_any_resource_behind_Cloudflare_via_x402-OG.png",
+      "summary_en": "Cloudflare launches Monetization Gateway, a centralized service to monetize online content through payments, gating, and access control. It streamlines revenue workflows for publishers, reducing integration friction and enabling more consistent monetization across sites. The product highlights the industry’s move toward turnkey monetization tools for the open web.",
+      "summary_zh": "Cloudflare 推出 Monetization Gateway，提供一个集中化服务，通过支付、门控和访问控制来实现内容变现。它简化了出版商的收入工作流，降低集成难度，并实现跨站点更一致的变现。该产品凸显了在线内容领域向“端到端”变现工具的趋势。",
+      "hn": {
+        "id": 48746914,
+        "type": "story",
+        "by": "soheilpro",
+        "score": 326,
+        "descendants": 226,
+        "time": 1782914353,
+        "comments_url": "https://news.ycombinator.com/item?id=48746914"
+      },
+      "tags": [
+        "Business",
+        "Web"
+      ],
+      "hot_score": 0.91
+    },
+    {
+      "title_en": "Internal Combustion Engine (2021)",
+      "url": "https://ciechanow.ski/internal-combustion-engine/",
+      "title_zh": "内部燃烧发动机（2021）",
+      "created_display": "Created: Jul 01, 2026 / 06:04 PT",
+      "image_url": "https://ciechanow.ski/images/og/ice.jpg",
+      "summary_en": "A retrospective look at the internal combustion engine as of 2021.",
+      "summary_zh": "对2021年内部燃烧发动机的回顾性探讨。",
+      "hn": {
+        "id": 48746076,
+        "type": "story",
+        "by": "StefanBatory",
+        "score": 324,
+        "descendants": 98,
+        "time": 1782911056,
+        "comments_url": "https://news.ycombinator.com/item?id=48746076"
+      },
+      "hot_score": 0.85,
+      "tags": [
+        "Science"
+      ]
+    },
+    {
+      "title_en": "Weave Robotics launches Isaac 1, a $7,999 home robot with Fall 2026 deliveries",
+      "url": "https://www.weaverobotics.com/isaac-1",
+      "title_zh": "Weave Robotics 发布 Isaac 1 家用机器人，售价 7999 美元，2026 年秋季交付",
+      "created_display": "Created: Jul 01, 2026 / 11:12 PT",
+      "image_url": "https://runtimewire.com/og/weave-robotics-isaac-1-home-robot-launch.jpg",
+      "summary_en": "Weave Robotics unveils Isaac 1, a home robot priced at $7,999 with fall 2026 deliveries, signaling an ambitious consumer robot roadmap with AI-enabled assistance.",
+      "summary_zh": "Weave Robotics 发布 Isaac 1 家用机器人，售价7999美元，计划2026年秋季交付，展示其面向家庭的 AI 协作功能。",
+      "hn": {
+        "id": 48750989,
+        "type": "story",
+        "by": "ryanmerket",
+        "score": 212,
+        "descendants": 311,
+        "time": 1782929538,
+        "comments_url": "https://news.ycombinator.com/item?id=48750989"
+      },
+      "tags": [
+        "AI",
+        "Hardware"
+      ],
+      "hot_score": 0.81
+    },
+    {
+      "title_en": "Frog-derived gut bacterium eradicates tumors in mice",
+      "url": "https://www.thefocalpoints.com/p/new-study-frog-derived-gut-bacterium",
+      "title_zh": "来自青蛙肠道的细菌在小鼠体内根除肿瘤",
+      "created_display": "Created: Jul 01, 2026 / 02:21 PT",
+      "image_url": "https://substackcdn.com/image/fetch/$s_!Cc-z!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1e9690ca-bd6f-4f8c-8ee1-8a1f1ecd76a2_2409x1314.png",
+      "summary_en": "A gut bacterium derived from frogs has eliminated tumors in mice, suggesting a microbiome-based approach to cancer therapy. While results are preclinical, the study highlights how manipulating gut microbes could complement existing treatments and prompts further mechanism research.",
+      "summary_zh": "来自青蛙肠道的细菌在小鼠身上实现肿瘤清除，显示了微生物组干预在癌症治疗中的潜力。尽管尚处于前期实验阶段，该研究凸显了通过调控肠道微生物来辅助现有治疗的可能性，并需要进一步机制研究。",
+      "hn": {
+        "id": 48744232,
+        "type": "story",
+        "by": "mpweiher",
+        "score": 346,
+        "descendants": 196,
+        "time": 1782897704,
+        "comments_url": "https://news.ycombinator.com/item?id=48744232"
+      },
+      "hot_score": 0.72,
+      "tags": [
+        "Health",
+        "Science"
+      ]
+    },
+    {
+      "title_en": "Ask HN: Who is hiring? (July 2026)",
+      "url": "https://news.ycombinator.com/item?id=48747976",
+      "title_zh": "Ask HN：谁在招聘？（2026年7月）",
+      "created_display": "Created: Jul 01, 2026 / 08:01 PT",
+      "image_url": "https://news.ycombinator.com/y18.svg",
+      "summary_en": "A community-sourced thread where engineers post openings and recruiters surface opportunities; signals in July 2026 include AI/ML roles, cloud infra, Rust/Go, and remote-friendly positions across time zones.",
+      "summary_zh": "这是一个社区聚合贴，工程师们发布职位空缺，招聘方也在帖中列出机会。7 月 2026 的招聘热点包括 AI/ML、云基础设施、Rust/Go 相关岗位，以及支持远程工作的机会。",
+      "hn": {
+        "id": 48747976,
+        "type": "story",
+        "by": "whoishiring",
+        "score": 222,
+        "descendants": 229,
+        "time": 1782918081,
+        "comments_url": "https://news.ycombinator.com/item?id=48747976"
+      },
+      "tags": [
+        "Career",
+        "AI",
+        "Programming"
+      ],
+      "hot_score": 0.67
+    },
+    {
+      "title_en": "Apple 'Hide My Email' vulnerability reveals peoples' real email addresses",
+      "url": "https://easyoptouts.com/guides/apple-hide-my-email-is-leaking-email-addresses",
+      "title_zh": "苹果 Hide My Email 漏洞暴露真实邮箱地址",
+      "created_display": "Created: Jul 01, 2026 / 03:19 PT",
+      "image_url": "https://easyoptouts.com/og-logo.png",
+      "summary_en": "A vulnerability in Apple's Hide My Email can reveal users' real email addresses under certain flows, compromising the privacy promise of the feature. It highlights edge-case gaps in privacy abstractions and the need for quick fixes and transparency.",
+      "summary_zh": "苹果的 Hide My Email 在某些流程下可能泄露用户真实邮箱地址，削弱该隐私功能的承诺。此缺陷暴露了隐私抽象的边缘场景漏洞，需迅速修复并提高透明度。",
+      "hn": {
+        "id": 48744606,
+        "type": "story",
+        "by": "sashk",
+        "score": 278,
+        "descendants": 80,
+        "time": 1782901185,
+        "comments_url": "https://news.ycombinator.com/item?id=48744606"
+      },
+      "hot_score": 0.61,
+      "tags": [
+        "Privacy",
+        "Security"
+      ]
+    },
+    {
+      "title_en": "A retrospective of my time on the internet",
+      "url": "https://cleberg.net/blog/internet.html",
+      "title_zh": "我的网络时光回顾",
+      "created_display": "Created: Jul 01, 2026 / 03:26 PT",
+      "image_url": "https://www.vice.com/wp-content/uploads/sites/2/2019/08/1565048739851-image3.png",
+      "summary_en": "A personal retrospection on the author's time on the internet, reflecting on how online life shaped thinking, privacy, and career. It distills lessons on mindful consumption, community, and reclaiming time from digital noise.",
+      "summary_zh": "作者对自己在互联网上的经历进行个人回顾，反思线上生活如何影响思考、隐私与职业。文章总结了关于自我约束、社区互动以及从数字噪声中夺回时间的经验教训。",
+      "hn": {
+        "id": 48744655,
+        "type": "story",
+        "by": "felixdoerp",
+        "score": 266,
+        "descendants": 293,
+        "time": 1782901605,
+        "comments_url": "https://news.ycombinator.com/item?id=48744655"
+      },
+      "hot_score": 0.59,
+      "tags": [
+        "Privacy",
+        "Culture"
+      ]
+    },
+    {
+      "title_en": "Claude Science",
+      "url": "https://claude.com/product/claude-science",
+      "title_zh": "Claude Science",
+      "created_display": "Created: Jun 30, 2026 / 10:07 PT",
+      "image_url": "https://cdn.prod.website-files.com/6889473510b50328dbb70ae6/6a429b9909aa1b063a203021_life-sciences-tn.jpg",
+      "summary_en": "Claude Science is a new product focused on scientific workloads, offering specialized reasoning and data-handling features for researchers. It aims to speed up literature review, modeling, and experimentation workflows for scientists.",
+      "summary_zh": "Claude Science 是面向科学工作负载的新产品，提供专门的推理和数据处理能力，帮助研究人员加速分析与建模。面向研究人员和数据科学家，旨在优化文献综述、实验设计与数据分析的工作流。",
+      "hn": {
+        "id": 48735770,
+        "type": "story",
+        "by": "lebovic",
+        "score": 559,
+        "descendants": 173,
+        "time": 1782839261,
+        "comments_url": "https://news.ycombinator.com/item?id=48735770"
+      },
+      "tags": [
+        "AI",
+        "Science"
+      ],
+      "hot_score": 0.54
+    },
+    {
+      "title_en": "The labor share of income in the US is at its lowest post-war level",
+      "url": "https://libertystreeteconomics.newyorkfed.org/2026/06/the-post-covid-decline-in-the-labor-share/",
+      "title_zh": "美国劳动收入份额降至战后最低水平",
+      "created_display": "Created: Jun 30, 2026 / 08:35 PT",
+      "image_url": "https://libertystreeteconomics.newyorkfed.org/wp-content/uploads/sites/2/2026/06/LSE_2026_labor-share_schuh_460.jpg",
+      "summary_en": "US labor’s share of income has declined to a postwar low, signaling that productivity gains and capital income are capturing a growing slice of economic output. The trend implies slower wage growth for workers and potential pressure on consumer demand, with implications for inequality and policy debates. Analysts see a shift in income distribution driven by automation, globalization, and pricing power.",
+      "summary_zh": "美国劳动者在国民总收入中的份额降至战后最低水平，反映生产率增益和资本收入正在分得更大份额。此趋势意味着劳动者工资增长可能放缓，消费力受压，且可能加剧收入不平等。分析师将关注结构性因素如何影响工资与投资回报的长期分配。",
+      "hn": {
+        "id": 48734234,
+        "type": "story",
+        "by": "loughnane",
+        "score": 498,
+        "descendants": 540,
+        "time": 1782833704,
+        "comments_url": "https://news.ycombinator.com/item?id=48734234"
+      },
+      "tags": [
+        "Business"
+      ],
+      "hot_score": 0.46
+    },
+    {
+      "title_en": "Nano Banana 2 Lite",
+      "url": "https://deepmind.google/models/gemini-image/flash-lite/",
+      "title_zh": "Nano Banana 2 Lite",
+      "created_display": "Created: Jun 30, 2026 / 09:48 PT",
+      "image_url": "https://lh3.googleusercontent.com/lb-MMov_96xz_rXSHcC3fOU91ehheRSkXmiGudc3PWnLtmB5YN1-NInY5Le9JOmY2LBIIeAUwBhlhcskmv90eSFxz8gNh2TvWcnegYoq98NmuOEL=w1200-h630-n-nu-rw",
+      "summary_en": "Nano Banana 2 Lite is a lightweight image model in the Gemini image lineup designed for fast, on-device inference with a smaller compute footprint. It enables faster prototyping and on-device AI work without cloud latency.",
+      "summary_zh": "Nano Banana 2 Lite 是 Gemini 图像模型家族的轻量版本，设计用于快速推理并降低计算开销。它是一款面向快速推理的轻量级图像模型，适合在本地设备上使用，减小算力需求。",
+      "hn": {
+        "id": 48735444,
+        "type": "story",
+        "by": "minimaxir",
+        "score": 433,
+        "descendants": 192,
+        "time": 1782838117,
+        "comments_url": "https://news.ycombinator.com/item?id=48735444"
+      },
+      "tags": [
+        "AI",
+        "Hardware"
+      ],
+      "hot_score": 0.42
+    },
+    {
+      "title_en": "ArXiv's Next Chapter",
+      "url": "https://blog.arxiv.org/2026/06/30/arxivs-next-chapter/",
+      "title_zh": "ArXiv 的下一章",
+      "created_display": "Created: Jun 30, 2026 / 19:51 PT",
+      "image_url": "https://blog.arxiv.org/files/2021/02/arxiv-logo-1.png",
+      "summary_en": "ArXiv outlines its plan for the next chapter, focusing on governance, tooling improvements, and sustainable operations. The post emphasizes scaling moderation, API enhancements, and community governance to support open-access research.",
+      "summary_zh": "ArXiv 公布未来发展路线，聚焦治理、工具改进与长期可持续运营。文章强调扩大内容审查与元数据/API 的改进，以及社区治理，以支持开放获取的研究。",
+      "hn": {
+        "id": 48741748,
+        "type": "story",
+        "by": "subset",
+        "score": 281,
+        "descendants": 91,
+        "time": 1782874296,
+        "comments_url": "https://news.ycombinator.com/item?id=48741748"
+      },
+      "tags": [
+        "Science"
+      ],
+      "hot_score": 0.41
+    },
+    {
+      "title_en": "County with 37 Data Centers Asks Schools to 'Conserve Electricity'",
+      "url": "https://www.404media.co/henrico-virginia-datacenter-energy-cost-email/",
+      "title_zh": "拥有37座数据中心的县呼吁学校节电",
+      "created_display": "Created: Jun 30, 2026 / 09:05 PT",
+      "image_url": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/06/photo-1610028290816-5d937a395a49.jpeg",
+      "summary_en": "A county housing 37 data centers is asking schools to conserve electricity amid rising power costs. The move highlights how large-scale digital infrastructure can strain public energy budgets and grid demand, pushing districts to optimize usage and scheduling. It also underscores broader questions about energy pricing, resilience, and the cost of data-driven services.",
+      "summary_zh": "拥有37座数据中心的县在能源成本上升之际呼吁学校节电。这一举措凸显大型数字基础设施对公共能源预算和电网负担的影响，促使学区优化用电与时段安排，也暴露出能源定价与系统韧性的更广泛问题。",
+      "hn": {
+        "id": 48734699,
+        "type": "story",
+        "by": "01-_-",
+        "score": 421,
+        "descendants": 185,
+        "time": 1782835546,
+        "comments_url": "https://news.ycombinator.com/item?id=48734699"
+      },
+      "tags": [
+        "Energy",
+        "DevOps"
+      ],
+      "hot_score": 0.39
+    },
+    {
+      "title_en": "Google copybara: moving code between repositories",
+      "url": "https://github.com/google/copybara",
+      "title_zh": "Google Copybara：跨代码库迁移代码的工具",
+      "created_display": "Created: Jun 30, 2026 / 16:45 PT",
+      "image_url": "https://repository-images.githubusercontent.com/67722017/76fcc500-525b-11ea-85e2-37c7b18c893c",
+      "summary_en": "Copybara automates code migration across repositories with customizable transformations and history preservation. It helps teams maintain consistent workflows when moving assets, enabling cleaner separation of projects and easier collaboration.",
+      "summary_zh": "Copybara 能在不同代码库之间自动迁移代码，支持自定义转换并保留提交历史。它帮助团队在跨仓库迁移时保持工作流的一致性，使项目分离更清晰、协作更高效。",
+      "hn": {
+        "id": 48740698,
+        "type": "story",
+        "by": "reconnecting",
+        "score": 296,
+        "descendants": 58,
+        "time": 1782863139,
+        "comments_url": "https://news.ycombinator.com/item?id=48740698"
+      },
+      "tags": [
+        "Programming"
+      ],
+      "hot_score": 0.38
+    },
+    {
+      "title_en": "I ported Kubernetes to the browser",
+      "url": "https://ngrok.com/blog/i-ported-kubernetes-to-the-browser",
+      "title_zh": "我把 Kubernetes 移植到了浏览器",
+      "created_display": "Created: Jun 30, 2026 / 13:48 PT",
+      "image_url": "https://ngrok.com/blog-assets/images/2026-06-26-i-ported-kubernetes-to-the-browser/og.jpg",
+      "summary_en": "Porting Kubernetes to the browser demonstrates running components in WebAssembly or similar in-browser runtimes, enabling offline demos or teaching orchestration concepts. It surfaces challenges around networking, storage, and security when moving cluster infrastructure into the client.",
+      "summary_zh": "把 Kubernetes 移植到浏览器演示了在浏览器运行组件的可能性，便于离线演示和教学编排概念。也暴露了将集群基础设施移至客户端时在网络、存储和安全方面的挑战。",
+      "hn": {
+        "id": 48738985,
+        "type": "story",
+        "by": "peterdemin",
+        "score": 330,
+        "descendants": 102,
+        "time": 1782852516,
+        "comments_url": "https://news.ycombinator.com/item?id=48738985"
+      },
+      "tags": [
+        "Web",
+        "Programming",
+        "Security",
+        "DevOps"
+      ],
+      "hot_score": 0.37
+    },
+    {
+      "title_en": "Leanstral 1.5",
+      "url": "https://docs.mistral.ai/models/model-cards/leanstral-1-5-26-06",
+      "title_zh": "Leanstral 1.5",
+      "created_display": "Created: Jun 30, 2026 / 13:44 PT",
+      "image_url": "https://docs.mistral.ai//api/og?title=Leanstral+1.5&description=An+updated+Lean+4+formal+proof+engineering+model+optimised+for+automated+theorem+proving+and+autoformalization.+119B+total+parameters%2C+6.5B+active.&eyebraw=v1.5&image=&type=model&v=35fa871c487ea09cad5c2bf7ae6044c6b93b2bd0",
+      "summary_en": "Leanstral 1.5 updates bring performance improvements and expanded capabilities for more practical, instruction-following use in lightweight language-model deployments.",
+      "summary_zh": "Leanstral 1.5 更新带来性能提升与扩展功能，使其在轻量级语言模型部署中更易于执行指令式任务。",
+      "hn": {
+        "id": 48738938,
+        "type": "story",
+        "by": "vetronauta",
+        "score": 304,
+        "descendants": 143,
+        "time": 1782852296,
+        "comments_url": "https://news.ycombinator.com/item?id=48738938"
+      },
+      "tags": [
+        "AI"
+      ],
+      "hot_score": 0.34
+    },
+    {
+      "title_en": "We Are the Last People Who Know How It Works",
+      "url": "https://unix.foo/posts/last-people-who-know-how-it-works/",
+      "title_zh": "我们是最后一个知道它如何运作的人",
+      "created_display": "Created: Jun 30, 2026 / 09:59 PT",
+      "image_url": null,
+      "summary_en": "This piece argues that increasing complexity in software and systems means only a shrinking circle truly understands how things work. It warns about fragile infrastructure built on tacit knowledge and advocates better documentation, tooling, and knowledge sharing to reduce risk. The takeaway: preserve institutional memory before it's lost.",
+      "summary_zh": "这篇文章认为，软件与系统日益复杂，真正懂得运作原理的人越来越少，依赖隐性知识使基础设施变得脆弱。作者呼吁加强文档、工具和知识共享，降低运维风险，提醒要在知识流失前留住记忆。",
+      "hn": {
+        "id": 48735633,
+        "type": "story",
+        "by": "cylo",
+        "score": 325,
+        "descendants": 268,
+        "time": 1782838740,
+        "comments_url": "https://news.ycombinator.com/item?id=48735633"
+      },
+      "tags": [
+        "Culture",
+        "Education",
+        "DevOps"
+      ],
+      "hot_score": 0.31
+    },
+    {
+      "title_en": "Why jet engines aren't made in China",
+      "url": "https://aakash.substack.com/p/why-jet-engines-arent-made-in-china",
+      "title_zh": "为何喷气发动机不会在中国大规模生产",
+      "created_display": "Created: Jun 30, 2026 / 17:22 PT",
+      "image_url": null,
+      "summary_en": "Jet engine production requires precision manufacturing, certification, and a global supply chain; building full-scale jet engine manufacturing domestically is costly and complex, explaining why it's not common in China.",
+      "summary_zh": "喷气发动机的生产依赖于高精密制造、严格认证和全球化的供应链，国内要建立完整产能成本高、周期长，因此难以在短期内实现大规模本土化生产。",
+      "hn": {
+        "id": 48740971,
+        "type": "story",
+        "by": "paulpauper",
+        "score": 226,
+        "descendants": 208,
+        "time": 1782865361,
+        "comments_url": "https://news.ycombinator.com/item?id=48740971"
+      },
+      "tags": [
+        "Business"
+      ],
+      "hot_score": 0.3
+    },
+    {
+      "title_en": "Trump made more than $1B on crypto deals, part of 2025 windfall",
+      "url": "https://www.wsj.com/politics/policy/trump-made-more-than-1-billion-on-crypto-deals-part-of-2025-windfall-ee917d3f",
+      "title_zh": "特朗普在加密交易中赚取超过10亿美元，成为2025年财富增长的一部分",
+      "created_display": "Created: Jun 30, 2026 / 17:27 PT",
+      "image_url": null,
+      "summary_en": "New reporting indicates Trump earned more than $1B from crypto deals, contributing to a sizable 2025 windfall. The figure spotlights how crypto ventures intersect with politics and personal wealth, fueling debates over disclosure, timing, and potential conflicts of interest. It underscores the influence of crypto markets on high-profile figures.",
+      "summary_zh": "新的报道显示特朗普在加密货币交易中赚取超过10亿美元，成为他2025年财富增长的一部分。这一数字凸显了加密投资与政治人物之间的关系，引发关于披露、时机以及潜在利益冲突的讨论，反映出加密市场对高知名度人物的影响力。",
+      "hn": {
+        "id": 48741012,
+        "type": "story",
+        "by": "fortran77",
+        "score": 203,
+        "descendants": 54,
+        "time": 1782865676,
+        "comments_url": "https://news.ycombinator.com/item?id=48741012"
+      },
+      "tags": [
+        "Politics"
+      ],
+      "hot_score": 0.27
+    },
+    {
+      "title_en": "Tell HN: Installing Cursor on iOS irreversibly changes your privacy settings",
+      "url": "https://news.ycombinator.com/item?id=48737226",
+      "title_zh": "在 iOS 上安装 Cursor 会不可逆地改变隐私设置",
+      "created_display": "Created: Jun 30, 2026 / 11:33 PT",
+      "image_url": "https://news.ycombinator.com/y18.svg",
+      "summary_en": "A post warns that installing Cursor on iOS can irreversibly alter privacy settings by requesting broad permissions. It underscores the risk of third-party tooling that promises convenience while expanding data access, prompting readers to scrutinize permissions and data flows. The note serves as a cautionary reminder about app-level privacy hygiene.",
+      "summary_zh": "一篇帖子警告：在 iOS 上安装 Cursor 可能不可逆地改变隐私设置，因其请求广泛权限而扩展数据访问。这提醒读者在使用第三方工具时要仔细审查权限与数据流，并保持对应用隐私的警惕。",
+      "hn": {
+        "id": 48737226,
+        "type": "story",
+        "by": "zkldi",
+        "score": 245,
+        "descendants": 34,
+        "time": 1782844439,
+        "comments_url": "https://news.ycombinator.com/item?id=48737226"
+      },
+      "tags": [
+        "Privacy",
+        "Security"
+      ],
+      "hot_score": 0.25
+    },
+    {
+      "title_en": "Crypto firms have spent $189M so far on 2026 US election, report says",
+      "url": "https://www.reuters.com/world/crypto-firms-have-spent-189-million-so-far-2026-us-election-report-says-2026-06-30/",
+      "title_zh": "加密公司在2026年美国大选中已支出1.89亿美元",
+      "created_display": "Created: Jun 30, 2026 / 09:44 PT",
+      "image_url": null,
+      "summary_en": "Crypto firms have spent about $189 million so far on the 2026 US elections, reflecting a growing push to influence policy and regulation. The level of spending signals how the industry seeks clarity and favorable rules as it matures, drawing scrutiny from policymakers and investors. It underscores the entanglement of tech money and politics.",
+      "summary_zh": "加密公司迄今在2026年美国大选中花费约1.89亿美元，显示其推动政策与监管的诉求不断增强。如此水平的支出反映行业寻求明确规则与有利环境的意图，同时也引发政策制定者与投资者的关注，凸显科技资金与政治的交汇。",
+      "hn": {
+        "id": 48735376,
+        "type": "story",
+        "by": "tartoran",
+        "score": 228,
+        "descendants": 110,
+        "time": 1782837871,
+        "comments_url": "https://news.ycombinator.com/item?id=48735376"
+      },
+      "tags": [
+        "Politics"
+      ],
+      "hot_score": 0.22
+    },
+    {
+      "title_en": "From brain waves to words: a new path to communication without surgery",
+      "url": "https://ai.meta.com/blog/brain2qwerty-brain-ai-human-communication/?_fb_noscript=1",
+      "title_zh": "脑波到文字：无需手术的全新沟通路径",
+      "created_display": "Created: Jun 30, 2026 / 14:29 PT",
+      "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.2365-6/731147471_987177500749005_1892166673921917145_n.gif?_nc_cat=101&ccb=1-7&_nc_sid=e280be&_nc_ohc=kt4rIA7tiyMQ7kNvwET_ibV&_nc_oc=AdqBndvWlZGV3QeLon4nsnhhaCgwFDk6Ev_I12sEZ6OqJRjLIE60d6TD3vGOTHxnwS8&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=0QZ0-RiA-QG5HbcxlAeIQA&_nc_ss=7820f&oh=00_AQByZw_hxM-cBLWwPBK3wN2cSyzaxZ0amuDyWK5RG9HtPg&oe=6A5E8CAD",
+      "summary_en": "Researchers are turning brain activity into text without surgery by decoding brain signals with AI. The approach promises new communication options for people with paralysis or severe speech impairment, but faces accuracy, speed, and privacy challenges.",
+      "summary_zh": "研究人员通过人工智能解码脑信号，在不进行手术的情况下将脑波转写为文字。这一路径为瘫痪或语言受限者带来新的沟通方式，但在准确性、速度与隐私方面仍存在挑战。",
+      "hn": {
+        "id": 48739466,
+        "type": "story",
+        "by": "alok-g",
+        "score": 184,
+        "descendants": 89,
+        "time": 1782854953,
+        "comments_url": "https://news.ycombinator.com/item?id=48739466"
+      },
+      "tags": [
+        "AI",
+        "Science",
+        "Privacy"
+      ],
+      "hot_score": 0.21
+    },
+    {
+      "title_en": "Supreme Court upholds broad conception of birthright citizenship",
+      "url": "https://apnews.com/live/birthright-citizenship-decision-supreme-court-updates-06-30-2026",
+      "title_zh": "最高法院维持对出生公民权的广义认定",
+      "created_display": "Created: Jun 30, 2026 / 07:43 PT",
+      "image_url": "https://dims.apnews.com/dims4/default/4a7a988/2147483647/strip/true/crop/4900x3265+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fa5%2Fe3%2F2c52258c45eca1d489e7d46eb67c%2Fap26138777046488-1.jpg",
+      "summary_en": "The Supreme Court preserves a broad interpretation of birthright citizenship, keeping citizenship eligibility widely accessible for those born in the country. The ruling constrains potential reforms that could narrow eligibility and has implications for immigration policy, education, and labor markets. It solidifies a long-standing constitutional interpretation.",
+      "summary_zh": "最高法院维持对出生公民权的广义认定，确保在境内出生的人大多数获得公民身份。此判决收窄了可能收紧公民资格的改革空间，并对移民政策、教育和劳动力市场带来广泛影响，巩固了这一长期的宪法解释。",
+      "hn": {
+        "id": 48733406,
+        "type": "story",
+        "by": "toomuchtodo",
+        "score": 223,
+        "descendants": 614,
+        "time": 1782830634,
+        "comments_url": "https://news.ycombinator.com/item?id=48733406"
+      },
+      "tags": [
+        "Legal",
+        "Politics",
+        "Education"
+      ],
+      "hot_score": 0.2
+    },
+    {
+      "title_en": "I built a mmWave material classification radar (2025)",
+      "url": "https://gauthier-lechevalier.com/radar",
+      "title_zh": "I built a mmWave material classification radar",
+      "created_display": "Created: Jun 30, 2026 / 10:29 PT",
+      "image_url": "https://gauthier-lechevalier.com/manual/radar_page/product_inside.jpeg",
+      "summary_en": "A hands-on look at using millimeter-wave radar to distinguish materials by their dielectric signatures. The approach has practical implications for robotics, security, and industrial sensing.",
+      "summary_zh": "作者展示了用毫米波雷达对材料进行分类的实现，材料在雷达信号中的介电特性差异帮助识别。此方法对机器人、安防和工业传感等领域有实际应用潜力。",
+      "hn": {
+        "id": 48736137,
+        "type": "story",
+        "by": "GL26",
+        "score": 202,
+        "descendants": 59,
+        "time": 1782840576,
+        "comments_url": "https://news.ycombinator.com/item?id=48736137"
+      },
+      "tags": [
+        "Science",
+        "Security"
+      ],
+      "hot_score": 0.2
+    },
+    {
+      "title_en": "Have you restarted your computer this week?",
+      "url": "https://taonaw.com/2026/06/27/have-you-restarted-your-computer.html",
+      "title_zh": "Have You Restarted Your Computer This Week?",
+      "created_display": "Created: Jun 30, 2026 / 07:15 PT",
+      "image_url": "https://s3.amazonaws.com/micro.blog/opengraph/2026/06/27/5926914.png",
+      "summary_en": "A reflective piece on the role of restarts in modern systems, arguing that periodic reboots remain valuable for stability, helping clear memory and reset stuck processes.",
+      "summary_zh": "本文主张即使现代系统改用热更新，定期重启仍有助于清理内存、解决卡死进程并提升稳定性。",
+      "hn": {
+        "id": 48733043,
+        "type": "story",
+        "by": "surprisetalk",
+        "score": 219,
+        "descendants": 398,
+        "time": 1782828929,
+        "comments_url": "https://news.ycombinator.com/item?id=48733043"
+      },
+      "tags": [
+        "DevOps"
+      ],
+      "hot_score": 0.19
+    },
+    {
+      "title_en": "Looking Ahead to Postgres 19",
+      "url": "https://www.snowflake.com/en/blog/engineering/postgresql-19-features-beta/",
+      "title_zh": "展望 Postgres 19",
+      "created_display": "Created: Jun 30, 2026 / 07:14 PT",
+      "image_url": "https://www.snowflake.com/content/dam/snowflake-site/engineering-blog/featured-images/sf-eng-blog-ML-3.png",
+      "summary_en": "Postgres 19 is shaping up in beta with features aimed at performance and ecosystem tooling. Anticipated improvements include better parallelism, indexing options, and cloud-friendly tooling, continuing PostgreSQL's momentum in enterprise deployments. The release signals sustained competition with managed databases.",
+      "summary_zh": "Postgres 19 的测试版聚焦性能与生态工具，预计将提升并行查询、索引和云端工作流等能力，继续推动 PostgreSQL 在企业部署中的地位与竞争力。",
+      "hn": {
+        "id": 48733031,
+        "type": "story",
+        "by": "thinkingemote",
+        "score": 216,
+        "descendants": 131,
+        "time": 1782828869,
+        "comments_url": "https://news.ycombinator.com/item?id=48733031"
+      },
+      "tags": [
+        "Programming",
+        "Data"
+      ],
+      "hot_score": 0.19
+    }
+  ]
+}

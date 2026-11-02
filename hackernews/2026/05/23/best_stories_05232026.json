@@ -1,0 +1,1162 @@
+{
+  "meta": {
+    "mode": "best",
+    "source": "https://news.ycombinator.com/",
+    "api": "https://github.com/HackerNews/API",
+    "count_requested": 50,
+    "count_written": 50,
+    "reused_same_day": 0,
+    "reused_cross_day": 19,
+    "new_llm_enriched": 12,
+    "scrape_time_display": "06:43, May 24, 2026 (PDT)",
+    "timezone": "America/Los_Angeles",
+    "date_dir": "2026/05/23",
+    "content_date": "2026-05-23",
+    "run_time_local": "06:43, May 24, 2026 (PDT)",
+    "run_time_utc": "2026-05-24 13:43:45 UTC",
+    "incremental": true,
+    "stories_max": 50,
+    "hot_score_time_utc": "2026-05-24 13:44:41 UTC"
+  },
+  "items": [
+    {
+      "title_en": "Amazon Web Services – Four Years and Out",
+      "url": "https://www.adventuresinoss.com/aws-four-years/",
+      "title_zh": "AWS：四年后退场",
+      "created_display": "Created: May 23, 2026 / 21:51 PT",
+      "image_url": "https://www.adventuresinoss.com/images/aws-badge.png",
+      "summary_en": "A retrospective on a four-year run with Amazon Web Services and the reasons behind its termination.",
+      "summary_zh": "对一个在 AWS 上持续了四年的项目的回顾，揭示其终止的原因。",
+      "hn": {
+        "id": 48254475,
+        "type": "story",
+        "by": "RyeCombinator",
+        "score": 255,
+        "descendants": 95,
+        "time": 1779598282,
+        "comments_url": "https://news.ycombinator.com/item?id=48254475"
+      },
+      "tags": [
+        "Business",
+        "Web"
+      ],
+      "hot_score": 3.45
+    },
+    {
+      "title_en": "Texas woman arrested for Facebook post about town water quality",
+      "url": "https://reclaimthenet.org/texas-woman-arrested-for-facebook-post-about-town-water-quality",
+      "title_zh": "德州女子因 Facebook 评论镇上水质被逮捕",
+      "created_display": "Created: May 23, 2026 / 11:02 PT",
+      "image_url": null,
+      "summary_en": "The article reports a Texas woman arrested over a Facebook post about local water quality, illustrating how online speech and civic concerns can collide with law enforcement. It underscores tensions around transparency, free expression, and digital activism.",
+      "summary_zh": "报道一名德州女子因对本地水质发表在社媒上的帖子被逮捕，折射出网络言论与执法之间的张力。文章讨论透明度、言论自由与数字化公共参与等议题。",
+      "hn": {
+        "id": 48249747,
+        "type": "story",
+        "by": "abawany",
+        "score": 728,
+        "descendants": 304,
+        "time": 1779559362,
+        "comments_url": "https://news.ycombinator.com/item?id=48249747"
+      },
+      "tags": [
+        "Legal",
+        "Privacy"
+      ],
+      "hot_score": 2.86
+    },
+    {
+      "title_en": "Why is Vivado 2026.1 dropping Linux support for free tier?",
+      "url": "https://adaptivesupport.amd.com/s/question/0D5Pd00001YQLdMKAX/why-is-vivado-20261-dropping-linux-support-for-free-tier-?language=en_US",
+      "title_zh": "为什么 Vivado 2026.1 版本不再为免费版提供 Linux 支持？",
+      "created_display": "Created: May 23, 2026 / 21:14 PT",
+      "image_url": null,
+      "summary_en": "Vivado 2026.1 will drop Linux support for its free tier, cutting off Linux users from the no-cost FPGA design tool. The change pushes hobbyists, students, and small teams toward paid options or alternative ecosystems, highlighting the fragility of vendor-supplied open tooling. The move raises questions about accessibility and cross-platform support in critical design software.",
+      "summary_zh": "Vivado 2026.1 将不再为免费版提供 Linux 支持，意味着 Linux 用户将无法使用这款无成本的 FPGA 设计工具。此变动可能迫使业余爱好者、学生和小团队转向付费版本或寻找替代方案，凸显了依赖厂商的跨平台开工具的脆弱性。此举引发关于可访问性与跨平台支持在关键设计软件中的讨论。",
+      "hn": {
+        "id": 48254309,
+        "type": "story",
+        "by": "zdw",
+        "score": 231,
+        "descendants": 107,
+        "time": 1779596092,
+        "comments_url": "https://news.ycombinator.com/item?id=48254309"
+      },
+      "tags": [
+        "Hardware",
+        "Programming"
+      ],
+      "hot_score": 2.84
+    },
+    {
+      "title_en": "Microsoft open-sources \"the earliest DOS source code discovered to date\"",
+      "url": "https://arstechnica.com/gadgets/2026/04/microsoft-open-sources-the-earliest-dos-source-code-discovered-to-date/",
+      "title_zh": "微软开源迄今发现的最早 DOS 源代码",
+      "created_display": "Created: May 23, 2026 / 18:21 PT",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/86-DOS-artifact-and-IBM-PC-1152x648.jpg",
+      "summary_en": "Microsoft open-sources the earliest DOS source code discovered to date, offering a rare glimpse into the origin of PC operating systems. The release includes archival material that can inform software archaeology, licensing history, and how early Microsoft tooling evolved. It spotlights how far operating-system development has come since the DOS era.",
+      "summary_zh": "微软开放了迄今发现的最早 DOS 源代码，为理解个人电脑操作系统的起源提供珍贵线索。此次发布包含档案材料，有助于软件考古、许可历史，以及早期微软工具链的发展演变。此举凸显了 DOS 时代到如今操作系统演进的差异。",
+      "hn": {
+        "id": 48253386,
+        "type": "story",
+        "by": "DamnInteresting",
+        "score": 326,
+        "descendants": 99,
+        "time": 1779585673,
+        "comments_url": "https://news.ycombinator.com/item?id=48253386"
+      },
+      "tags": [
+        "Open Source"
+      ],
+      "hot_score": 2.67
+    },
+    {
+      "title_en": "Wake up! 16b",
+      "url": "https://hellmood.111mb.de/wake_up_16b_writeup.html",
+      "title_zh": "醒来！16b",
+      "created_display": "Created: May 23, 2026 / 17:30 PT",
+      "image_url": "https://content.pouet.net/files/screenshots/00106/00106210.jpg",
+      "summary_en": "A piece titled 'Wake up! 16b' appears to center on a 16-bit/16-byte concept, though the specifics aren’t clear from the title alone.",
+      "summary_zh": "题为“醒来！16b”的作品似乎聚焦于一个 16 位 / 16 字节的概念，但从标题本身很难判断具体内容。",
+      "hn": {
+        "id": 48253060,
+        "type": "story",
+        "by": "MaximilianEmel",
+        "score": 304,
+        "descendants": 21,
+        "time": 1779582650,
+        "comments_url": "https://news.ycombinator.com/item?id=48253060"
+      },
+      "tags": [
+        "Programming"
+      ],
+      "hot_score": 2.25
+    },
+    {
+      "title_en": "Time to talk about my writerdeck",
+      "url": "https://veronicaexplains.net/my-first-writerdeck/",
+      "title_zh": "是时候谈谈我的写作卡组",
+      "created_display": "Created: May 23, 2026 / 11:45 PT",
+      "image_url": "https://veronicaexplains.net/content/images/size/w1200/2026/05/writerdeck-for-blog.webp",
+      "summary_en": "A personal exploration of writerdeck, a card-based system for organizing writing ideas and tasks. It details how the author set it up, what kinds of cards they include, and how the deck helps with ideation and planning across long projects. Useful tips for starting your own writerdeck are included.",
+      "summary_zh": "对 writerdeck 的个人探索——一种用卡片组织写作灵感与任务的系统。文章讲述作者如何搭建、包含哪些卡片，以及它如何在长期项目中帮助创意产生与计划。文末提供了启动自己写作卡组的实用要点。",
+      "hn": {
+        "id": 48250144,
+        "type": "story",
+        "by": "hggh",
+        "score": 404,
+        "descendants": 239,
+        "time": 1779561937,
+        "comments_url": "https://news.ycombinator.com/item?id=48250144"
+      },
+      "tags": [
+        "Education"
+      ],
+      "hot_score": 1.68
+    },
+    {
+      "title_en": "Scammers are abusing an internal Microsoft account to send spam links",
+      "url": "https://techcrunch.com/2026/05/21/scammers-are-abusing-an-internal-microsoft-account-to-send-spam/",
+      "title_zh": "骗子滥用微软内部账户发送垃圾链接",
+      "created_display": "Created: May 23, 2026 / 17:51 PT",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2025/07/microsoft-logo-1865237814.jpg?resize=1200,863",
+      "summary_en": "Scammers are abusing an internal Microsoft account to send spam links, illustrating how insider access points can be weaponized in phishing campaigns. The incident underscores the need for stronger internal controls, monitoring, and rapid incident response to prevent abuse from affecting users and partners.",
+      "summary_zh": "骗子滥用微软内部账户发送垃圾链接，暴露了内部权限也会被滥用的风险。事件凸显加强内部控制、监控和快速处置以防止滥用扩散的必要性。",
+      "hn": {
+        "id": 48253186,
+        "type": "story",
+        "by": "spike021",
+        "score": 191,
+        "descendants": 92,
+        "time": 1779583892,
+        "comments_url": "https://news.ycombinator.com/item?id=48253186"
+      },
+      "tags": [
+        "Security"
+      ],
+      "hot_score": 1.47
+    },
+    {
+      "title_en": "Green card seekers must leave U.S. to apply, Trump administration says",
+      "url": "https://www.nytimes.com/2026/05/22/us/politics/green-card-changes-trump.html",
+      "title_zh": "申请绿卡者必须离开美国办理，政府称",
+      "created_display": "Created: May 22, 2026 / 14:27 PT",
+      "image_url": null,
+      "summary_en": "The policy change requires green-card seekers to file from outside the U.S., a shift that complicates immigration pathways for international workers and students in tech. The move has potential ripple effects on hiring, mobility, and global engineering teams.",
+      "summary_zh": "政策规定申请绿卡者必须在美国境外提交申请，此举可能使国际科技工作者的移民路径更为复杂，并对跨国招聘与团队协作产生连锁影响。",
+      "hn": {
+        "id": 48241890,
+        "type": "story",
+        "by": "tlhunter",
+        "score": 949,
+        "descendants": 1579,
+        "time": 1779485232,
+        "comments_url": "https://news.ycombinator.com/item?id=48241890"
+      },
+      "tags": [
+        "Politics"
+      ],
+      "hot_score": 1.12
+    },
+    {
+      "title_en": "On The <dl> (2021)",
+      "url": "https://benmyers.dev/blog/on-the-dl/",
+      "title_zh": "关于 <dl> 标签",
+      "created_display": "Created: May 23, 2026 / 06:03 PT",
+      "image_url": "https://res.cloudinary.com/bendmyers/image/upload/v1656259981/benmyers.dev/on-the-dl.png",
+      "summary_en": "Definition lists encode associations between terms and descriptions using dt and dd. The piece argues for semantic clarity and accessibility best practices, comparing dl to other list types and offering guidance on markup, styling, and screen-reader behavior. Good usage improves parsing for assistive tech and search engines.",
+      "summary_zh": "定义列表通过 dt 与 dd 将术语与描述相关联。文章强调语义清晰与无障碍访问的最佳实践，比较 dl、ul 等列表的适用场景，并给出标记、样式与屏幕阅读器行为的建议。正确使用能提升辅助技术与搜索引擎的解析效果。",
+      "hn": {
+        "id": 48247325,
+        "type": "story",
+        "by": "ravenical",
+        "score": 410,
+        "descendants": 120,
+        "time": 1779541423,
+        "comments_url": "https://news.ycombinator.com/item?id=48247325"
+      },
+      "tags": [
+        "Web",
+        "Design"
+      ],
+      "hot_score": 1.11
+    },
+    {
+      "title_en": "ICE Awards $25M Iris-Scanning Contract to Bi2 Technologies",
+      "url": "https://www.projectsaltbox.com/p/ice-awards-25-million-iris-scanning",
+      "title_zh": "ICE 授予 Bi2 Technologies 2500 万美元虹膜识别合同",
+      "created_display": "Created: May 23, 2026 / 16:39 PT",
+      "image_url": "https://substackcdn.com/image/fetch/$s_!Stcm!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb22e7dca-a011-4721-aded-1e0da26b470e_1900x1214.png",
+      "summary_en": "The U.S. Immigration and Customs Enforcement awards Bi2 Technologies a $25 million contract to deploy iris-scanning systems, raising privacy and civil-liberties questions about biometric surveillance.",
+      "summary_zh": "ICE 授予 Bi2 Technologies 一份价值2500万美元的虹膜识别合同，引发对生物识别监控的隐私与公民自由问题的讨论。",
+      "hn": {
+        "id": 48252720,
+        "type": "story",
+        "by": "cdrnsf",
+        "score": 147,
+        "descendants": 41,
+        "time": 1779579583,
+        "comments_url": "https://news.ycombinator.com/item?id=48252720"
+      },
+      "tags": [
+        "Privacy"
+      ],
+      "hot_score": 0.98
+    },
+    {
+      "title_en": "Toxic chemical leak at a manufacturing facility in Orange County",
+      "url": "https://www.bbc.com/news/articles/c3w2l249j8go",
+      "title_zh": "奥兰治郡一家制造厂发生有毒化学物质泄漏",
+      "created_display": "Created: May 23, 2026 / 15:09 PT",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/88d2/live/98fd8540-5650-11f1-b682-cf91850925ea.jpg",
+      "summary_en": "A toxic chemical leak at a manufacturing facility in Orange County prompted evacuations and health risk assessments for nearby residents. Authorities are investigating the source and containment, highlighting industrial safety and regulatory oversight.",
+      "summary_zh": "奥兰治郡一家制造厂发生有毒化学物质泄漏，促使周边居民疏散并进行健康风险评估。相关部门正调查泄漏源头并加强防护和监管，凸显工业安全的重要性。",
+      "hn": {
+        "id": 48252060,
+        "type": "story",
+        "by": "borski",
+        "score": 158,
+        "descendants": 143,
+        "time": 1779574145,
+        "comments_url": "https://news.ycombinator.com/item?id=48252060"
+      },
+      "hot_score": 0.9,
+      "tags": [
+        "Health",
+        "Politics"
+      ]
+    },
+    {
+      "title_en": "Italy moves to Airbus A330 tankers",
+      "url": "https://www.euronews.com/my-europe/2026/05/21/italy-moves-to-airbus-a330-tankers-in-major-nato-aligned-shift",
+      "title_zh": "意大利转向 Airbus A330 加油机",
+      "created_display": "Created: May 23, 2026 / 09:02 PT",
+      "image_url": null,
+      "summary_en": "Italy moves to Airbus A330 MRTT tankers to strengthen NATO interoperability and modernize its aerial refueling fleet. The choice aligns with European defense procurement trends and affects how Italy supports allied missions.",
+      "summary_zh": "意大利将采购 Airbus A330 MRTT 加油机，提升空中加油能力并增强与北约的协同作战能力。这一选择符合欧洲防务采购的现代化趋势，将影响意大利对盟军行动的支援能力。",
+      "hn": {
+        "id": 48248775,
+        "type": "story",
+        "by": "embedding-shape",
+        "score": 267,
+        "descendants": 103,
+        "time": 1779552163,
+        "comments_url": "https://news.ycombinator.com/item?id=48248775"
+      },
+      "tags": [
+        "Business"
+      ],
+      "hot_score": 0.89
+    },
+    {
+      "title_en": "The Art of Money Getting",
+      "url": "https://kk.org/cooltools/book-freak-210-the-art-of-money-getting/",
+      "title_zh": "赚钱的艺术",
+      "created_display": "Created: May 23, 2026 / 05:48 PT",
+      "image_url": "https://kk.org/cooltools/wp-content/themes/ct2016/images/logo.png",
+      "summary_en": "The Art of Money Getting revisits a 19th-century treatise on financial prudence, wealth-building, and frugality. Although old, the book's timeless ideas around disciplined income and risk management offer counterpoints to flashy startup hype.",
+      "summary_zh": "《赚钱的艺术》回顾一部19世纪关于财务谨慎、致富与节俭的著作，尽管年代久远，其关于纪律性收入与风险管理的思想对现代创业也有启示。",
+      "hn": {
+        "id": 48247208,
+        "type": "story",
+        "by": "dxs",
+        "score": 326,
+        "descendants": 172,
+        "time": 1779540482,
+        "comments_url": "https://news.ycombinator.com/item?id=48247208"
+      },
+      "tags": [
+        "Finance",
+        "Startups"
+      ],
+      "hot_score": 0.87
+    },
+    {
+      "title_en": "Oura says it gets government demands for user data",
+      "url": "https://this.weekinsecurity.com/oura-says-it-gets-government-demands-for-user-data-will-it-share-how-many/",
+      "title_zh": "Oura 表示收到政府对用户数据的请求。它会公开数量吗？",
+      "created_display": "Created: May 23, 2026 / 07:09 PT",
+      "image_url": "https://storage.ghost.io/c/ed/a2/eda2c6f7-faef-48b4-9ed4-86a4fa4dca68/content/images/size/w1200/2026/05/ring-oura-zw-hero.jpeg",
+      "summary_en": "Wearable makers face government data requests; this piece examines transparency and whether Oura will disclose the volume of requests. It discusses privacy trade-offs, regulatory pressures, and how vendors balance user trust with compliance.",
+      "summary_zh": "可穿戴厂商会收到政府数据请求，文章探讨透明度以及 Oura 是否会披露请求数量。分析隐私取舍、监管压力，以及厂商在合规与用户信任之间的权衡。",
+      "hn": {
+        "id": 48247876,
+        "type": "story",
+        "by": "donohoe",
+        "score": 280,
+        "descendants": 153,
+        "time": 1779545397,
+        "comments_url": "https://news.ycombinator.com/item?id=48247876"
+      },
+      "tags": [
+        "Privacy",
+        "Politics"
+      ],
+      "hot_score": 0.82
+    },
+    {
+      "title_en": "Why Japanese companies do so many different things",
+      "url": "https://davidoks.blog/p/why-japanese-companies-do-so-many",
+      "title_zh": "日本企业为何跨足这么多领域",
+      "created_display": "Created: May 22, 2026 / 08:22 PT",
+      "image_url": "https://substackcdn.com/image/fetch/$s_!q5kh!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fff42a7b2-6c27-4773-a0b0-561081c55da1_1605x2000.jpeg",
+      "summary_en": "Many Japanese firms pursue a broad portfolio of businesses, often through cross-holdings and long-standing traditions. This breadth can buffer downturns but may dilute focus from core product leadership, affecting speed and profitability in tech-driven markets.",
+      "summary_zh": "日本企业往往在多领域布局，这与历史的企业圈子结构和风险分散思路有关。这种广度带来抵御风险的能力，但也可能削弱聚焦核心产品的能力，影响在以科技为驱动的市场中的速度与盈利。",
+      "hn": {
+        "id": 48237163,
+        "type": "story",
+        "by": "d0ks",
+        "score": 872,
+        "descendants": 398,
+        "time": 1779463324,
+        "comments_url": "https://news.ycombinator.com/item?id=48237163"
+      },
+      "tags": [
+        "Business",
+        "Culture"
+      ],
+      "hot_score": 0.81
+    },
+    {
+      "title_en": "Shipping a laptop to a refugee camp in Uganda",
+      "url": "https://notesbylex.com/shipping-a-laptop-to-a-refugee-camp-in-uganda",
+      "title_zh": "把笔记本送往乌干达难民营",
+      "created_display": "Created: May 22, 2026 / 14:36 PT",
+      "image_url": "https://notesbylex.com/_media/shipping-laptop-uganda-cover.png",
+      "summary_en": "A hands-on account of delivering a laptop to a refugee camp in Uganda, detailing logistical hurdles, local constraints, and potential educational impact. The piece underscores how hardware donations intersect with power access, connectivity, and sustainability in crisis settings.",
+      "summary_zh": "对将笔记本电脑送往乌干达难民营的亲身案例进行介绍，讲述物流难题、当地条件与对教育的潜在影响。强调在危机环境中，硬件捐赠需与电力、网络与可持续性等因素协同考虑。",
+      "hn": {
+        "id": 48241997,
+        "type": "story",
+        "by": "lexandstuff",
+        "score": 681,
+        "descendants": 244,
+        "time": 1779485815,
+        "comments_url": "https://news.ycombinator.com/item?id=48241997"
+      },
+      "tags": [
+        "Hardware",
+        "Education"
+      ],
+      "hot_score": 0.81
+    },
+    {
+      "title_en": "BambuStudio has been violating PrusaSlicer AGPL license since their fork",
+      "url": "https://twitter.com/josefprusa/status/2054602354851254330",
+      "title_zh": "BambuStudio 自分叉以来持续违反 PrusaSlicer 的 AGPL 许可证",
+      "created_display": "Created: May 23, 2026 / 01:24 PT",
+      "image_url": "https://pbs.twimg.com/media/HINlpHeWAAAdv7R.jpg",
+      "summary_en": "Allegations claim BambuStudio’s fork of PrusaSlicer has violated AGPL by not disclosing source code and complying with copyleft. The dispute highlights OSS licensing risks in the 3D printing software ecosystem and potential impacts on forks relying on upstream projects. If true, it could pressure compliance and affect downstream users.",
+      "summary_zh": "指控称 BambuStudio 对 PrusaSlicer 的分叉自始至今涉嫌违反 AGPL 许可证，未披露源代码并未遵守 Copyleft 义务。这一纠纷凸显 3D 打印软件生态中的开源许可风险，以及对依赖上游项目的分叉可能产生的影响。若属实，或将推动合规与下游用户的风险评估。",
+      "hn": {
+        "id": 48245862,
+        "type": "story",
+        "by": "Tomte",
+        "score": 402,
+        "descendants": 161,
+        "time": 1779524697,
+        "comments_url": "https://news.ycombinator.com/item?id=48245862"
+      },
+      "tags": [
+        "Open Source",
+        "Legal"
+      ],
+      "hot_score": 0.81
+    },
+    {
+      "title_en": "80386 microcode disassembled",
+      "url": "https://www.reenigne.org/blog/80386-microcode-disassembled/",
+      "title_zh": "80386 微码拆解",
+      "created_display": "Created: May 23, 2026 / 05:11 PT",
+      "image_url": "https://secure.gravatar.com/avatar/550aaf983444d05b735b06d83e5714f386487ca8772a5ddd9822d39da0864d89?s=32&d=mm&r=g",
+      "summary_en": "Disassembling the 80386 microcode sheds light on how early x86 processors implemented instructions and durations. It reveals the architectural design decisions behind the era's performance tricks and has relevance for retrocomputing and security research.",
+      "summary_zh": "对 80386 微码的拆解揭示了早期 x86 处理器如何实现指令及周期。揭示了当时的体系结构设计选择、性能取巧，以及对后世的 retrocomputing 与安全研究的影响。",
+      "hn": {
+        "id": 48247004,
+        "type": "story",
+        "by": "nand2mario",
+        "score": 260,
+        "descendants": 49,
+        "time": 1779538303,
+        "comments_url": "https://news.ycombinator.com/item?id=48247004"
+      },
+      "tags": [
+        "Hardware",
+        "Security"
+      ],
+      "hot_score": 0.66
+    },
+    {
+      "title_en": "I Miss Terry Pratchett",
+      "url": "https://www.mahl.me/blog/the-spell-that-wouldnt-leave/",
+      "title_zh": "我怀念特里·普莱切特",
+      "created_display": "Created: May 23, 2026 / 05:35 PT",
+      "image_url": "https://mahl.me/og/georges.png",
+      "summary_en": "A personal reflection on the late Terry Pratchett and the lasting impact of his work. The piece celebrates his wit, imaginative storytelling, and the way his books continue to influence readers and writers alike.",
+      "summary_zh": "对已故作家特里·普莱切特的深情缅怀，回顾他的机智、丰富的想象力以及作品对读者和创作者的持续影响。",
+      "hn": {
+        "id": 48247127,
+        "type": "story",
+        "by": "gorgmah",
+        "score": 232,
+        "descendants": 237,
+        "time": 1779539728,
+        "comments_url": "https://news.ycombinator.com/item?id=48247127"
+      },
+      "hot_score": 0.61,
+      "tags": [
+        "Entertainment"
+      ]
+    },
+    {
+      "title_en": "Project Glasswing: An Initial Update",
+      "url": "https://www.anthropic.com/research/glasswing-initial-update",
+      "title_zh": "Glasswing 项目：初步更新",
+      "created_display": "Created: May 22, 2026 / 12:31 PT",
+      "image_url": "https://cdn.sanity.io/images/4zrzovbb/website/8831fc381f1087ce855b4fbb4f080b2685ea38ec-1200x630.jpg",
+      "summary_en": "Anthropic provides an early progress update on Glasswing, outlining the project’s goals, scope, and planned milestones. The note signals continued investment in safety-focused evaluation and alignment research for future models.",
+      "summary_zh": "Anthropic 对 Glasswing 给出早期进展更新，概述项目目标、范围与后续里程碑。该更新体现其在面向更安全的模型对齐与评估方面持续投入。",
+      "hn": {
+        "id": 48240419,
+        "type": "story",
+        "by": "louiereederson",
+        "score": 536,
+        "descendants": 316,
+        "time": 1779478305,
+        "comments_url": "https://news.ycombinator.com/item?id=48240419"
+      },
+      "tags": [
+        "AI"
+      ],
+      "hot_score": 0.58
+    },
+    {
+      "title_en": "The FBI Wants 'Near Real-Time' Access to US License Plate Readers",
+      "url": "https://www.wired.com/story/security-news-this-week-fbi-license-plate-reader-real-time-access/",
+      "title_zh": "联邦调查局希望实现对车牌识别系统的‘近实时’访问",
+      "created_display": "Created: May 23, 2026 / 06:57 PT",
+      "image_url": "https://media.wired.com/photos/6a079053cb9f32a0753bcf6d/16:9/w_640%2Cc_limit/undefined",
+      "summary_en": "The FBI seeks near real-time access to license plate reader data to bolster investigations, raising civil liberty concerns about surveillance overreach. The debate centers on balancing security benefits with privacy protections.",
+      "summary_zh": "FBI 希望获得对车牌识别系统的近实时访问以强化调查，挥之不去的监控自由担忧随之而来。讨论聚焦于在提升安全与保护隐私之间取得平衡。",
+      "hn": {
+        "id": 48247737,
+        "type": "story",
+        "by": "Brajeshwar",
+        "score": 199,
+        "descendants": 88,
+        "time": 1779544622,
+        "comments_url": "https://news.ycombinator.com/item?id=48247737"
+      },
+      "hot_score": 0.57,
+      "tags": [
+        "Privacy",
+        "Security"
+      ]
+    },
+    {
+      "title_en": "Bun support is now limited and deprecated",
+      "url": "https://github.com/yt-dlp/yt-dlp/issues/16766",
+      "title_zh": "Bun 支持现已受限并进入弃用阶段",
+      "created_display": "Created: May 22, 2026 / 10:24 PT",
+      "image_url": "https://opengraph.githubassets.com/f3c423878aba891587fe1b34c6f9e9604967fccd02675cf73589c6c9078c04c3/yt-dlp/yt-dlp/issues/16766",
+      "summary_en": "Bun support has become limited and deprecated, signaling a shift away from maintaining certain Bun-related features or ecosystems. Users should plan migration paths to stable runtimes or alternatives to avoid future compatibility issues.",
+      "summary_zh": "Bun 的支持已进入受限和弃用阶段，意味着相关特性或生态系统将不再维护。用户应规划迁移到更稳定的运行时或替代方案，以防止兼容性问题。",
+      "hn": {
+        "id": 48238789,
+        "type": "story",
+        "by": "tamnd",
+        "score": 564,
+        "descendants": 589,
+        "time": 1779470652,
+        "comments_url": "https://news.ycombinator.com/item?id=48238789"
+      },
+      "tags": [
+        "Programming"
+      ],
+      "hot_score": 0.56
+    },
+    {
+      "title_en": "SpaceX launches Starship v3 rocket",
+      "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starship-v3-megarocket-first-test-flight",
+      "title_zh": "SpaceX 发射 Starship v3 火箭",
+      "created_display": "Created: May 22, 2026 / 16:41 PT",
+      "image_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/mpx/2704722219/2026_05/1779492307346_now_brk_spacex_starship_launch_260522_S3_1920x1080-zoo54r.jpg",
+      "summary_en": "SpaceX successfully launches Starship v3 prototype, marking progress toward high-thrust, reusable orbital capability. Analysts will watch for performance metrics, reusability data, and how the vehicle scales for future missions.",
+      "summary_zh": "SpaceX 成功发射 Starship v3 原型机，标志着朝着高推力、可重复使用的轨道飞行能力迈进。分析师将关注性能指标、重复使用数据，以及该型号未来任务的可扩展性。",
+      "hn": {
+        "id": 48242959,
+        "type": "story",
+        "by": "busymom0",
+        "score": 413,
+        "descendants": 284,
+        "time": 1779493315,
+        "comments_url": "https://news.ycombinator.com/item?id=48242959"
+      },
+      "tags": [
+        "Space"
+      ],
+      "hot_score": 0.54
+    },
+    {
+      "title_en": "US tech firms share Dutch regulator officials' names with Senate",
+      "url": "https://www.dutchnews.nl/2026/05/us-tech-firms-share-dutch-regulator-officials-names-with-senate/",
+      "title_zh": "美国科技公司向参议院披露荷兰监管机构官员姓名",
+      "created_display": "Created: May 23, 2026 / 03:57 PT",
+      "image_url": "https://www.dutchnews.nl/wpcms/wp-content/uploads/2025/05/Depositphotos_784849166_XL.jpg",
+      "summary_en": "US tech firms provided the names of Dutch regulator officials to the Senate, highlighting cross-border transparency and lobbying dynamics. The move raises questions about privacy, influence, and how regulator contacts are tracked in oversight.",
+      "summary_zh": "美国科技公司向参议院提交荷兰监管机构官员的姓名，暴露了跨境透明度与游说格局。此举引发对隐私、影响力以及监管联系人追踪方式的讨论。",
+      "hn": {
+        "id": 48246614,
+        "type": "story",
+        "by": "zqna",
+        "score": 216,
+        "descendants": 161,
+        "time": 1779533834,
+        "comments_url": "https://news.ycombinator.com/item?id=48246614"
+      },
+      "hot_score": 0.51,
+      "tags": [
+        "Politics",
+        "Privacy"
+      ]
+    },
+    {
+      "title_en": "Experience: We found a baby on the subway – now he's our 26-year-old son",
+      "url": "https://www.theguardian.com/lifeandstyle/2026/may/22/experience-found-baby-subway-now-26-year-old-son",
+      "title_zh": "在地铁捡到的婴儿，如今已成为我们26岁的儿子",
+      "created_display": "Created: May 23, 2026 / 00:34 PT",
+      "image_url": "https://i.guim.co.uk/img/media/f706eb434887eae276067c37e0e5e293eff536d0/349_0_2501_2001/master/2501.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2d54e3564e83043dfcc2b40702fa7ed8",
+      "summary_en": "A family recounts finding a baby on the subway and the decades-long path that led to that child becoming their son at 26.",
+      "summary_zh": "一家人在地铁里偶遇婴儿，经过数十年的发展，这个孩子如今成了他们的儿子。故事揭示了亲情的不可预测性以及陌生情感如何在出人意料的时刻孕育成家庭。",
+      "hn": {
+        "id": 48245571,
+        "type": "story",
+        "by": "Michelangelo11",
+        "score": 248,
+        "descendants": 63,
+        "time": 1779521673,
+        "comments_url": "https://news.ycombinator.com/item?id=48245571"
+      },
+      "hot_score": 0.48,
+      "tags": [
+        "Culture"
+      ]
+    },
+    {
+      "title_en": "Microsoft starts canceling Claude Code licenses",
+      "url": "https://www.theverge.com/tech/930447/microsoft-claude-code-discontinued-notepad",
+      "title_zh": "微软开始取消 Claude Code 的许可证",
+      "created_display": "Created: May 22, 2026 / 10:32 PT",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25832912/STK095_MICROSOFT_2_CVirginia_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "summary_en": "Microsoft is canceling licenses for Claude Code, signaling a tightening stance on third-party AI tooling licensing. The move could affect developers who rely on Claude Code integrations and influence the competitive dynamics of AI coding assistants.",
+      "summary_zh": "微软取消 Claude Code 的许可，显示对第三方 AI 工具许可的收紧态度。此举可能影响依赖 Claude Code 的开发者，并影响 AI 代码助手的竞争格局。",
+      "hn": {
+        "id": 48238896,
+        "type": "story",
+        "by": "robertkarl",
+        "score": 468,
+        "descendants": 454,
+        "time": 1779471124,
+        "comments_url": "https://news.ycombinator.com/item?id=48238896"
+      },
+      "tags": [
+        "AI",
+        "Programming"
+      ],
+      "hot_score": 0.47
+    },
+    {
+      "title_en": "Making deep learning go brrrr from first principles (2022)",
+      "url": "https://horace.io/brrr_intro.html",
+      "title_zh": "从第一性原理让深度学习跑起来",
+      "created_display": "Created: May 23, 2026 / 04:50 PT",
+      "image_url": "https://horace.io/img/perf_intro/gpus_go_brrr.webp",
+      "summary_en": "From first principles, this piece builds intuition for deep learning by focusing on core ideas like differentiable graphs, backpropagation, and optimization. It shows how simple concepts, engineered well, can power substantial performance gains without hype.",
+      "summary_zh": "从第一性原理出发，聚焦可微分计算图、反向传播与优化等核心思想，帮助读者建立深度学习直觉。展示如何用简单原理通过仔细设计实现显著性能提升，而非靠炒作。",
+      "hn": {
+        "id": 48246889,
+        "type": "story",
+        "by": "tosh",
+        "score": 175,
+        "descendants": 63,
+        "time": 1779537022,
+        "comments_url": "https://news.ycombinator.com/item?id=48246889"
+      },
+      "tags": [
+        "Science",
+        "AI",
+        "Programming"
+      ],
+      "hot_score": 0.43
+    },
+    {
+      "title_en": "DeepSeek makes the V4 Pro price discount permanent",
+      "url": "https://api-docs.deepseek.com/quick_start/pricing",
+      "title_zh": "DeepSeek 将 V4 Pro 的价格折扣永久化",
+      "created_display": "Created: May 22, 2026 / 08:59 PT",
+      "image_url": "https://api-docs.deepseek.com/img/deepseek-social-card.jpeg",
+      "summary_en": "DeepSeek makes the V4 Pro price discount permanent, extending affordability for developers using their toolset. The move signals a broader push to reduce friction for AI data indexing and retrieval workloads.",
+      "summary_zh": "DeepSeek 将 V4 Pro 的折扣永久化，持续降低开发者在数据索引与检索上的成本。此举反映出为 AI 数据工作负载降低入门门槛的趋势。",
+      "hn": {
+        "id": 48237663,
+        "type": "story",
+        "by": "Tiberium",
+        "score": 446,
+        "descendants": 251,
+        "time": 1779465566,
+        "comments_url": "https://news.ycombinator.com/item?id=48237663"
+      },
+      "tags": [
+        "AI",
+        "Business"
+      ],
+      "hot_score": 0.42
+    },
+    {
+      "title_en": "U.S. researchers face new restrictions on publishing with foreign collaborators",
+      "url": "https://www.science.org/content/article/u-s-researchers-face-new-restrictions-publishing-foreign-collaborators",
+      "title_zh": "美国研究人员在与海外合作者发表论文方面的新限制",
+      "created_display": "Created: May 22, 2026 / 09:23 PT",
+      "image_url": null,
+      "summary_en": "U.S. researchers face new publishing restrictions relating to foreign collaborators. The policy increase creates compliance burden and could chill international collaboration, potentially slowing scientific progress and open science, particularly in dual-use or security-sensitive fields.",
+      "summary_zh": "新规则要求对海外合作者的学术产出进行额外审查，增加合规成本。此举可能遏制跨国合作，影响开放科学和科研进度，尤其在敏感领域。",
+      "hn": {
+        "id": 48238025,
+        "type": "story",
+        "by": "ceejayoz",
+        "score": 413,
+        "descendants": 273,
+        "time": 1779466988,
+        "comments_url": "https://news.ycombinator.com/item?id=48238025"
+      },
+      "tags": [
+        "Science",
+        "Politics",
+        "Security"
+      ],
+      "hot_score": 0.4
+    },
+    {
+      "title_en": "Is AI Profitable Yet?",
+      "url": "https://isaiprofitable.com/",
+      "title_zh": "AI 真的盈利了吗？",
+      "created_display": "Created: May 22, 2026 / 19:10 PT",
+      "image_url": null,
+      "summary_en": "While AI spend is up, there’s no universal profitability yet. ROI hinges on how AI is integrated into core processes, data quality, and the ability to monetize outcomes; many initiatives struggle with compute costs, data handling, and governance. For tech leaders, the message is to prove business value with concrete metrics before scaling.",
+      "summary_zh": "尽管 AI 投入增加，但尚无普遍的盈利结论。投资回报取决于 AI 与核心流程的整合、数据质量以及成果变现的能力；许多项目仍受制于算力成本、数据管理与治理。对技术领袖而言，应以具体指标证明业务价值再进行放量。",
+      "hn": {
+        "id": 48243863,
+        "type": "story",
+        "by": "poyu",
+        "score": 253,
+        "descendants": 196,
+        "time": 1779502238,
+        "comments_url": "https://news.ycombinator.com/item?id=48243863"
+      },
+      "tags": [
+        "Business",
+        "AI"
+      ],
+      "hot_score": 0.37
+    },
+    {
+      "title_en": "-​-dangerously-skip-reading-code",
+      "url": "https://olano.dev/blog/dangerously-skip/",
+      "title_zh": "危险地跳过阅读代码",
+      "created_display": "Created: May 23, 2026 / 02:37 PT",
+      "image_url": "https://olano.dev/assets/img/bird.png",
+      "summary_en": "A candid take on the hazards of skipping code reading—bugs, security flaws, and fragile designs creep in when teams skim rather than read. The post advocates deliberate reading, thorough reviews, and supportive tooling to catch subtle issues.",
+      "summary_zh": "直言不讳地指出跳过仔细阅读代码的风险：草率浏览、潜在的安全漏洞和脆弱的设计容易被忽视。文章主张认真阅读、全面评审，并借助工具提升代码理解与质量控制。",
+      "hn": {
+        "id": 48246232,
+        "type": "story",
+        "by": "fagnerbrack",
+        "score": 173,
+        "descendants": 167,
+        "time": 1779529036,
+        "comments_url": "https://news.ycombinator.com/item?id=48246232"
+      },
+      "tags": [
+        "Programming",
+        "Security"
+      ],
+      "hot_score": 0.37
+    },
+    {
+      "title_en": "Microsoft reports AI is more expensive than paying human employees",
+      "url": "https://fortune.com/2026/05/22/microsoft-ai-cost-problem-tokens-agents/",
+      "title_zh": "微软称 AI 的成本高于雇佣人工",
+      "created_display": "Created: May 22, 2026 / 20:44 PT",
+      "image_url": "https://fortune.com/img-assets/wp-content/uploads/2026/05/GettyImages-2262969436-e1779468619700.jpg?resize=1200,600",
+      "summary_en": "Microsoft reports that in some cases, running AI—tokens, agents, and infrastructure—costs more than employing people. This underscores the tricky economics behind AI-powered workflows and products, where cost discipline, model efficiency, and pricing matter just as much as accuracy. It explains why enterprises push for cheaper tokens, better caching, and smarter orchestration.",
+      "summary_zh": "微软在某些情形下称 AI 的运行成本（包括 token、代理与基础设施）高于雇佣人力的成本。这凸显了 AI 驱动工作流的经济学挑战——成本控制、模型效率与定价与准确性同等重要。因此企业倾向于追求更便宜的 token、更高效的缓存和更聪明的编排。",
+      "hn": {
+        "id": 48244434,
+        "type": "story",
+        "by": "nreece",
+        "score": 227,
+        "descendants": 66,
+        "time": 1779507856,
+        "comments_url": "https://news.ycombinator.com/item?id=48244434"
+      },
+      "tags": [
+        "AI",
+        "Business",
+        "DevOps"
+      ],
+      "hot_score": 0.36
+    },
+    {
+      "title_en": "Electrobun 2.0 will be decoupled from Bun due to the Rust rewrite",
+      "url": "https://twitter.com/YoavCodes/status/2058064720553222567",
+      "title_zh": "Electrobun 2.0 将因重写为 Rust 而与 Bun 解耦",
+      "created_display": "Created: May 23, 2026 / 04:54 PT",
+      "image_url": "https://pbs.twimg.com/profile_images/1920854672216064000/-iUcVNDF_200x200.jpg",
+      "summary_en": "Electrobun 2.0 is being decoupled from Bun as a Rust rewrite advances, signaling modular architecture and performance goals. The shift matters for developers depending on Bun for fast tooling and for understanding how language runtimes evolve.",
+      "summary_zh": "由于用 Rust 重写，Electrobun 2.0 将与 Bun 分离，朝向更模块化、性能导向的架构。此变动对依赖 Bun 的开发者及运行时演进具有重要意义。",
+      "hn": {
+        "id": 48246917,
+        "type": "story",
+        "by": "bundie",
+        "score": 139,
+        "descendants": 156,
+        "time": 1779537279,
+        "comments_url": "https://news.ycombinator.com/item?id=48246917"
+      },
+      "tags": [
+        "Programming",
+        "Open Source"
+      ],
+      "hot_score": 0.35
+    },
+    {
+      "title_en": "DHS Quits Granting Green Cards–Almost",
+      "url": "https://www.cato.org/blog/dhs-quits-granting-green-cards-almost-entirely",
+      "title_zh": "国土安全部几乎停止发放绿卡",
+      "created_display": "Created: May 23, 2026 / 04:18 PT",
+      "image_url": null,
+      "summary_en": "The DHS has effectively halted new green card grants, signaling a shift in immigration processing and potential backlogs for applicants and employers. The move raises concerns about workforce planning, family reunification timelines, and policy enforcement.",
+      "summary_zh": "国土安全部已实质性地暂停新绿卡发放，标志着移民处理流程的重大转变及申请人与雇主可能面临的积压。此举引发对人力规划、家庭团聚的等待期以及政策执行的担忧。",
+      "hn": {
+        "id": 48246735,
+        "type": "story",
+        "by": "malshe",
+        "score": 141,
+        "descendants": 2,
+        "time": 1779535103,
+        "comments_url": "https://news.ycombinator.com/item?id=48246735"
+      },
+      "hot_score": 0.34,
+      "tags": [
+        "Politics"
+      ]
+    },
+    {
+      "title_en": "Rubish: A Unix shell written in pure Ruby",
+      "url": "https://github.com/amatsuda/rubish",
+      "title_zh": "Rubish：一个用纯 Ruby 编写的 Unix shell",
+      "created_display": "Created: May 22, 2026 / 23:32 PT",
+      "image_url": "https://opengraph.githubassets.com/309731a4c2a5bcd62eb102d6c47a6de79acca44bed42e1333c6beadc6c0ae73c/amatsuda/rubish",
+      "summary_en": "Rubish is a Unix shell implemented entirely in Ruby, illustrating how a high-level language can power a shell prototype and the trade-offs involved. It serves as a learning project for exploring shell design and Ruby metaprogramming.",
+      "summary_zh": "Rubish 是一个完全用 Ruby 实现的 Unix shell，展示了用高级语言实现一个 shell 原型的可行性及其中的权衡。此项目适合作为探索 shell 设计与 Ruby 元编程的学习案例。",
+      "hn": {
+        "id": 48245262,
+        "type": "story",
+        "by": "winebarrel",
+        "score": 176,
+        "descendants": 106,
+        "time": 1779517920,
+        "comments_url": "https://news.ycombinator.com/item?id=48245262"
+      },
+      "hot_score": 0.32,
+      "tags": [
+        "Programming",
+        "Open Source"
+      ]
+    },
+    {
+      "title_en": "Spanish court declines to fine NordVPN over LaLiga piracy blocking order",
+      "url": "https://torrentfreak.com/spanish-court-declines-to-fine-nordvpn-over-laliga-piracy-blocking-order/",
+      "title_zh": "西班牙法院拒绝就 NordVPN 处以罚款",
+      "created_display": "Created: May 22, 2026 / 23:54 PT",
+      "image_url": "https://torrentfreak.com/images/grass-soccer.jpg",
+      "summary_en": "A Spanish court refused to fine NordVPN for LaLiga piracy blocking orders, suggesting that the enforcement of blocking requests against VPNs remains legally nuanced. The decision affects how anti-piracy measures are applied to privacy-focused services and could influence future court rulings.",
+      "summary_zh": "西班牙法院裁定不对 NordVPN就LaLiga 阻止盗版的拦截令处以罚款，显示对 VPN 服务的取证与执行仍具法理上的复杂性。此判决或将影响将来对隐私保护服务的版权拦截措施及司法走向。",
+      "hn": {
+        "id": 48245362,
+        "type": "story",
+        "by": "gslin",
+        "score": 171,
+        "descendants": 110,
+        "time": 1779519289,
+        "comments_url": "https://news.ycombinator.com/item?id=48245362"
+      },
+      "tags": [
+        "Privacy",
+        "Legal"
+      ],
+      "hot_score": 0.32
+    },
+    {
+      "title_en": "AI has a multiplying effect on existing technical skills",
+      "url": "https://www.joshwcomeau.com/email/wham-launch-005-elephant-2-p/",
+      "title_zh": "AI对现有技术技能具有放大效应",
+      "created_display": "Created: May 22, 2026 / 06:22 PT",
+      "image_url": "https://www.joshwcomeau.com/opengraph-image.png?cac0cc658da9fd03",
+      "summary_en": "AI amplifies existing technical skills by accelerating discovery and automation, turning familiar workflows into higher-leverage activities. The takeaway is to align learning with tools that complement human judgment and to emphasize skills that scale with AI, like system design and critical thinking.",
+      "summary_zh": "人工智能放大了现有技术能力，提升了发现速度和自动化水平，将熟练的工作流变成更高杠杆的活动。核心建议是将学习聚焦于与AI协同的技能，如系统设计与批判性思维等，形成可与AI共成长的能力结构。",
+      "hn": {
+        "id": 48235526,
+        "type": "story",
+        "by": "moebrowne",
+        "score": 336,
+        "descendants": 310,
+        "time": 1779456162,
+        "comments_url": "https://news.ycombinator.com/item?id=48235526"
+      },
+      "tags": [
+        "AI",
+        "Education"
+      ],
+      "hot_score": 0.29
+    },
+    {
+      "title_en": "Sleep research led to a new sleep apnea drug",
+      "url": "https://temertymedicine.utoronto.ca/news/how-decades-sleep-research-led-new-sleep-apnea-drug",
+      "title_zh": "睡眠研究催生新型睡眠呼吸暂停药物",
+      "created_display": "Created: May 22, 2026 / 15:05 PT",
+      "image_url": "https://temertymedicine.utoronto.ca/sites/default/files/styles/social_image/public/assets/images/pexels-shvets-production-8416437.jpg?itok=wDG4rXHH",
+      "summary_en": "Decades of sleep research pinpointed targets for sleep apnea therapies, leading to a novel drug that improves nighttime breathing. The translational path from basic sleep science to therapeutics demonstrates how understanding sleep physiology can yield tangible medical advances. If approved, the drug could add a new option for patients who struggle with current treatments.",
+      "summary_zh": "数十年的睡眠研究锁定了睡眠呼睡眠暂停治疗的新靶点，从而催生了一种改善夜间呼吸的新药。将基础睡眠科学转化为治疗手段，展示了对睡眠生理学的深入理解如何带来切实的医学进步。若获批，该药或为现有治疗无效的患者提供新的治疗选择。",
+      "hn": {
+        "id": 48242278,
+        "type": "story",
+        "by": "colinprince",
+        "score": 226,
+        "descendants": 152,
+        "time": 1779487539,
+        "comments_url": "https://news.ycombinator.com/item?id=48242278"
+      },
+      "tags": [
+        "Health",
+        "Science"
+      ],
+      "hot_score": 0.27
+    },
+    {
+      "title_en": "CISA tries to contain data leak",
+      "url": "https://krebsonsecurity.com/2026/05/lawmakers-demand-answers-as-cisa-tries-to-contain-data-leak/",
+      "title_zh": "立法者在 CISA 力图遏制数据泄露之际要求提供答复",
+      "created_display": "Created: May 22, 2026 / 09:54 PT",
+      "image_url": "https://krebsonsecurity.com/wp-content/uploads/2026/05/CISA-logo.png",
+      "summary_en": "Lawmakers demand answers as CISA works to contain a data leak. The exchange highlights political oversight over federal cybersecurity responses and accountability for disclosure timelines, raising questions about transparency and effectiveness.",
+      "summary_zh": "立法者对 CISA 在遏制数据泄露过程中的行动要求解释和信息。此事凸显对联邦网络安全响应的监督与披露时效的问责，也引发对透明度与效果的关注。",
+      "hn": {
+        "id": 48238429,
+        "type": "story",
+        "by": "speckx",
+        "score": 263,
+        "descendants": 57,
+        "time": 1779468871,
+        "comments_url": "https://news.ycombinator.com/item?id=48238429"
+      },
+      "tags": [
+        "Security",
+        "Politics"
+      ],
+      "hot_score": 0.26
+    },
+    {
+      "title_en": "Open source Kanban desktop app that runs parallel agents on every card",
+      "url": "https://www.kanbots.dev/",
+      "title_zh": "开源看板桌面应用：每张卡片并行运行代理",
+      "created_display": "Created: May 22, 2026 / 11:17 PT",
+      "image_url": null,
+      "summary_en": "A desktop open-source Kanban app runs parallel agents on every card, enabling automation on tasks. This architecture lets each card spawn lightweight AI agents to perform actions like drafting, data gathering, or reminders, potentially changing how teams automate workflows.",
+      "summary_zh": "该桌面看板应用在每张卡片上并行运行代理，实现对任务的自动化处理。卡片级代理可执行草拟内容、信息采集或提醒等任务，或将工作流自动化推向新水平。",
+      "hn": {
+        "id": 48239413,
+        "type": "story",
+        "by": "vitriapp",
+        "score": 255,
+        "descendants": 155,
+        "time": 1779473877,
+        "comments_url": "https://news.ycombinator.com/item?id=48239413"
+      },
+      "tags": [
+        "Open Source",
+        "Programming",
+        "AI"
+      ],
+      "hot_score": 0.26
+    },
+    {
+      "title_en": "FBI director's Based Apparel site has been spotted hosting a 'ClickFix' attack",
+      "url": "https://www.pcmag.com/news/kash-patels-apparel-site-is-trying-to-trick-visitors-into-installing-malware",
+      "title_zh": "Based Apparel 网站被发现承载 ClickFix 攻击",
+      "created_display": "Created: May 22, 2026 / 17:34 PT",
+      "image_url": "https://i.pcmag.com/imagery/articles/03FWX7wsMyKmI8Pt0HrumDG-1.fit_lim.size_1200x630.v1779401296.jpg",
+      "summary_en": "Security researchers spotted a 'ClickFix' attack used by visitors to trick them into installing malware on Based Apparel’s site, exploiting social-engineering-like prompts. It illustrates how attackers abuse trusted brands or pages to deliver infections, even when security-conscious sites are involved.",
+      "summary_zh": "安全研究人员发现 Based Apparel 网站成为 ClickFix 攻击的载体，利用访客中的社交工程式提示诱导安装恶意软件。这一事件说明攻击者会利用受信任的品牌或页面来传播感染，即便目标网站具备一定的安全防护。",
+      "hn": {
+        "id": 48243293,
+        "type": "story",
+        "by": "bilalq",
+        "score": 191,
+        "descendants": 58,
+        "time": 1779496465,
+        "comments_url": "https://news.ycombinator.com/item?id=48243293"
+      },
+      "tags": [
+        "Security"
+      ],
+      "hot_score": 0.26
+    },
+    {
+      "title_en": "Trump Mobile exposed customers' personal data",
+      "url": "https://techcrunch.com/2026/05/22/trump-mobile-confirms-it-exposed-customers-personal-data-including-phone-numbers-and-home-addresses/",
+      "title_zh": "Trump Mobile 暴露客户个人数据",
+      "created_display": "Created: May 22, 2026 / 09:00 PT",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/05/donald-trump-cellphone.jpg?resize=1200,800",
+      "summary_en": "Trump Mobile confirmed a data exposure affecting customers, including phone numbers and home addresses. The incident underscores how telecom providers and related services can leak sensitive PII, fueling risks of doxxing and phishing until proper patches and incident response are in place. Regulators and customers are watching how the company responds and remedies potential harm.",
+      "summary_zh": "Trump Mobile 确认发生数据暴露，涉及客户的电话、家庭地址等敏感信息。此事件凸显电信及相关服务在数据处理上的风险，可能被用于钓鱼或身份暴露，需尽快修补并完善事件响应机制。监管和用户将关注公司如何应对并降低潜在损害。",
+      "hn": {
+        "id": 48237684,
+        "type": "story",
+        "by": "rippeltippel",
+        "score": 256,
+        "descendants": 119,
+        "time": 1779465635,
+        "comments_url": "https://news.ycombinator.com/item?id=48237684"
+      },
+      "tags": [
+        "Privacy",
+        "Security",
+        "Politics"
+      ],
+      "hot_score": 0.24
+    },
+    {
+      "title_en": "Don't just paste the AI at me",
+      "url": "https://dontquotetheai.com/",
+      "title_zh": "别只是把 AI 的结果塞给我",
+      "created_display": "Created: May 22, 2026 / 15:57 PT",
+      "image_url": "https://dontquotetheai.com/assets/og-image.png",
+      "summary_en": "It argues for treating AI as a component in a broader workflow, not a drop-in paste of outputs. The piece advocates clear prompts, guardrails, and measurable outcomes to avoid sloppy adoption and hallucination.",
+      "summary_zh": "该文主张将 AI 视为工作流中的一个组成部分，而非直接塞给用户的输出。强调需有清晰的提示、治理边界和可衡量的结果，避免草率采用与输出幻觉等问题。",
+      "hn": {
+        "id": 48242648,
+        "type": "story",
+        "by": "khaosdoctor",
+        "score": 180,
+        "descendants": 113,
+        "time": 1779490678,
+        "comments_url": "https://news.ycombinator.com/item?id=48242648"
+      },
+      "tags": [
+        "AI"
+      ],
+      "hot_score": 0.23
+    },
+    {
+      "title_en": "How to convert between wealth and income tax",
+      "url": "https://paulgraham.com/winc.html",
+      "title_zh": "财富与所得税之间的转换方法",
+      "created_display": "Created: May 22, 2026 / 08:43 PT",
+      "image_url": "https://s.turbifycdn.com/aah/paulgraham/bel-7.gif",
+      "summary_en": "Paul Graham's piece discusses the conceptual shift between wealth and income taxation, highlighting incentives and policy implications. It offers a framework for thinking about how wealth creation interacts with tax policy and personal planning.",
+      "summary_zh": "这篇保罗·格雷厄姆的文章探讨了财富税与所得税之间的关系及激励与政策含义，提供了理解财富创造与税制、个人规划之间关系的框架。",
+      "hn": {
+        "id": 48237422,
+        "type": "story",
+        "by": "bifftastic",
+        "score": 201,
+        "descendants": 667,
+        "time": 1779464608,
+        "comments_url": "https://news.ycombinator.com/item?id=48237422"
+      },
+      "tags": [
+        "Finance"
+      ],
+      "hot_score": 0.19
+    },
+    {
+      "title_en": "You can no longer Google the word 'disregard'",
+      "url": "https://techcrunch.com/2026/05/22/you-can-no-longer-google-the-word-disregard/",
+      "title_zh": "你现在无法在谷歌中搜索单词“disregard”",
+      "created_display": "Created: May 22, 2026 / 09:47 PT",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2024/05/Google-IO-everything.webp?resize=1200,674",
+      "summary_en": "A quirky update shows Google search behavior around the word 'disregard' behaving in an unexpected way, illustrating how search indexing and edge cases can alter even simple queries. It sparks reflection on search quality and the fragility of algorithmic results.",
+      "summary_zh": "关于单词“disregard”的搜索表现出现意外行为，揭示搜索索引在边缘情况下可能如何改变简单查询，值得反思搜索质量与算法结果的脆弱性。",
+      "hn": {
+        "id": 48238351,
+        "type": "story",
+        "by": "coloneltcb",
+        "score": 194,
+        "descendants": 103,
+        "time": 1779468428,
+        "comments_url": "https://news.ycombinator.com/item?id=48238351"
+      },
+      "hot_score": 0.19,
+      "tags": [
+        "Web"
+      ]
+    },
+    {
+      "title_en": "Hengefinder: Finding when the sun aligns with your street",
+      "url": "https://victoriaritvo.com/blog/hengefinder/",
+      "title_zh": "Hengefinder：寻找太阳与街道对齐的时刻",
+      "created_display": "Created: May 22, 2026 / 13:39 PT",
+      "image_url": "https://victoriaritvo.com/blog/hengefinder/manhattanhenge_photo.jpg",
+      "summary_en": "Hengefinder is described as a tool to determine when the Sun aligns with a street's orientation, enabling urban planning, photography, and historical astronomy studies. It helps enthusiasts predict solar events that create henge-like light—useful for architecture and culture projects.",
+      "summary_zh": "介绍一款工具，旨在找出太阳与街道走向对齐时刻，便于城市规划、摄影与考古天文研究。它帮助爱好者预测会出现日光对齐的日子，便于相关项目。",
+      "hn": {
+        "id": 48241335,
+        "type": "story",
+        "by": "evakhoury",
+        "score": 162,
+        "descendants": 36,
+        "time": 1779482382,
+        "comments_url": "https://news.ycombinator.com/item?id=48241335"
+      },
+      "tags": [
+        "Science",
+        "Culture",
+        "Energy"
+      ],
+      "hot_score": 0.18
+    },
+    {
+      "title_en": "Models.dev: open-source database of AI model specs, pricing, and capabilities",
+      "url": "https://github.com/anomalyco/models.dev",
+      "title_zh": "Models.dev：开源的 AI 模型规格、定价与能力数据库",
+      "created_display": "Created: May 22, 2026 / 13:26 PT",
+      "image_url": "https://opengraph.githubassets.com/557b96f88bd2c088f521f235571165413b7716c7e035719e9156814cbe6ba774/anomalyco/models.dev",
+      "summary_en": "Models.dev is an open-source database cataloging AI model specs, pricing, and capabilities, helping developers compare offerings and plan deployments. By aggregating model details, it lowers discovery friction and could influence how startups choose AI services.",
+      "summary_zh": "Models.dev 是一个开源数据库，汇总 AI 模型的规格、定价与能力，帮助开发者比较不同产品并制定部署计划。集中整理信息有助于降低发现成本，可能影响初创企业对 AI 服务的选择。",
+      "hn": {
+        "id": 48241172,
+        "type": "story",
+        "by": "maxloh",
+        "score": 155,
+        "descendants": 27,
+        "time": 1779481567,
+        "comments_url": "https://news.ycombinator.com/item?id=48241172"
+      },
+      "hot_score": 0.17,
+      "tags": [
+        "Open Source",
+        "AI",
+        "Data"
+      ]
+    },
+    {
+      "title_en": "I’m writing again",
+      "url": "https://www.cringely.com/2026/05/21/im-writing-again/",
+      "title_zh": "我又开始写作",
+      "created_display": "Created: May 22, 2026 / 07:36 PT",
+      "image_url": "https://cringely.wpenginepowered.com/wp-content/uploads/2013/06/cringely-high-res-header-2013.jpg",
+      "summary_en": "The author announces a return to writing, outlining a renewed focus on thoughtful tech commentary and personal essays. The piece signals a recommencement of publishing momentum and invites reader engagement.",
+      "summary_zh": "作者宣布重回写作，计划重点输出关于科技与个人观察的深思短文。文中透露将重新进入连载节奏，并欢迎读者参与互动。",
+      "hn": {
+        "id": 48236501,
+        "type": "story",
+        "by": "dan_hawkins",
+        "score": 174,
+        "descendants": 49,
+        "time": 1779460587,
+        "comments_url": "https://news.ycombinator.com/item?id=48236501"
+      },
+      "hot_score": 0.16,
+      "tags": [
+        "Culture"
+      ]
+    },
+    {
+      "title_en": "Alberta to hold referendum on whether to remain in Canada",
+      "url": "https://www.bbc.com/news/articles/cvgze8n5dxko",
+      "title_zh": "艾伯塔省将就是否留在加拿大举行公投",
+      "created_display": "Created: May 22, 2026 / 06:18 PT",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/a48d/live/1799bfa0-5551-11f1-bdf3-a1cfc8f36fb3.jpg",
+      "summary_en": "Alberta plans a referendum on whether to remain in Canada, centering questions of provincial autonomy and resource governance. The outcome could influence federal-provincial dynamics and energy policy discussions.",
+      "summary_zh": "艾伯塔省计划就是否留在加拿大举行公投，聚焦省级自治与资源治理等议题。结果可能影响联邦与省级关系以及能源政策的讨论。",
+      "hn": {
+        "id": 48235489,
+        "type": "story",
+        "by": "JumpCrisscross",
+        "score": 162,
+        "descendants": 357,
+        "time": 1779455931,
+        "comments_url": "https://news.ycombinator.com/item?id=48235489"
+      },
+      "hot_score": 0.14,
+      "tags": [
+        "Politics",
+        "Energy"
+      ]
+    },
+    {
+      "title_en": "A Forth-inspired language for writing websites",
+      "url": "https://robida.net/entries/2026/05/21/a-forth-inspired-language-for-writing-websites",
+      "title_zh": "受 Forth 启发的用于编写网站的语言",
+      "created_display": "Created: May 22, 2026 / 08:00 PT",
+      "image_url": "https://robida.net/static/media/photo.jpg",
+      "summary_en": "A Forth-inspired language for writing websites offers a stack-based, minimalist approach to building pages, aiming at rapid prototyping and a different programming mindset for web developers. The piece contrasts it with HTML/JS ecosystems and explores potential benefits.",
+      "summary_zh": "一款受 Forth 启发的用于编写网站的语言，采用栈式、极简语法来搭建网页，旨在实现快速原型开发与网页开发者的不同编程思维。文章对比了它与 HTML/JS 生态，并探讨潜在好处。",
+      "hn": {
+        "id": 48236887,
+        "type": "story",
+        "by": "speckx",
+        "score": 157,
+        "descendants": 19,
+        "time": 1779462050,
+        "comments_url": "https://news.ycombinator.com/item?id=48236887"
+      },
+      "hot_score": 0.14,
+      "tags": [
+        "Programming",
+        "Web"
+      ]
+    }
+  ]
+}

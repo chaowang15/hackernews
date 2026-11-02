@@ -1,0 +1,1225 @@
+{
+  "meta": {
+    "mode": "top",
+    "source": "https://news.ycombinator.com/",
+    "api": "https://github.com/HackerNews/API",
+    "count_requested": 50,
+    "count_written": 50,
+    "reused_same_day": 50,
+    "reused_cross_day": 0,
+    "reused_history": 0,
+    "new_llm_enriched": 0,
+    "scrape_time_display": "11:22, November 01, 2026 (PST)",
+    "timezone": "America/Los_Angeles",
+    "date_dir": "2026/11/01",
+    "content_date": "2026-11-01",
+    "edition": "morning",
+    "edition_label": "Morning 50",
+    "target_count": 50,
+    "run_time_local": "11:22, November 01, 2026 (PST)",
+    "run_time_utc": "2026-11-01 19:22:43 UTC",
+    "incremental": true,
+    "stories_max": 50,
+    "hot_score_time_utc": "2026-11-01 19:22:47 UTC"
+  },
+  "items": [
+    {
+      "title_en": "HackerTube: YouTube built from videos recommended by HN",
+      "url": "https://karpathy.bearblog.dev/hacker-tube/",
+      "title_zh": "HackerTube：由 HN 推荐视频构成的 YouTube",
+      "is_new": false,
+      "created_display": "Created: Oct 31, 2026 / 12:56 PT",
+      "image_url": "https://bearblog.dev/static/og-image.png",
+      "summary_en": "HackerTube presents a YouTube-style interface for 6,454 videos sourced from 39,834 Hacker News comments dating back to 2007. The collection is available through hackertube.org. It turns years of community recommendations into a browsable video archive.",
+      "summary_zh": "HackerTube 提供了一个 YouTube 风格的界面，收录了自 2007 年以来从 39,834 条 Hacker News 评论中提取的 6,454 个视频。该视频集合可通过 hackertube.org 浏览。它将多年社区推荐整理成了一个可探索的视频档案。",
+      "hn": {
+        "id": 50319510,
+        "type": "story",
+        "by": "karpathy",
+        "score": 1943,
+        "descendants": 488,
+        "time": 1793476613,
+        "comments_url": "https://news.ycombinator.com/item?id=50319510"
+      },
+      "tags": [
+        "Web"
+      ],
+      "hot_score": 5.74
+    },
+    {
+      "title_en": "An Italian farmer found some unknown seeds in his attic and planted them",
+      "url": "https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/",
+      "title_zh": "意大利农民在阁楼发现不明种子并将其种下",
+      "is_new": false,
+      "created_display": "Created: Oct 31, 2026 / 15:41 PT",
+      "image_url": "https://th-thumbnailer.cdn-si-edu.com/_-X8sWyx82CD0eX5ZxIF7dcS2X8=/fit-in/1600x0/filters:focal(1181x787:1182x788)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/37/95/3795362b-64a6-4d5f-b7df-67aa18192521/l2190910.jpg",
+      "summary_en": "In the early 1990s, Parma farmer Claudio Grossi found an unidentified sack of seeds that likely belonged to his great-grandfather, who founded the farm around 1915. After he discarded the seeds in manure, several types of wheat unexpectedly sprouted. One variety grew about six feet tall and produced seven ears, unlike the single-ear commercial wheat Grossi knew.",
+      "summary_zh": "20 世纪 90 年代初，帕尔马农民克劳迪奥·格罗西发现了一袋无法辨认的种子，可能是其约于 1915 年创建农场的曾祖父留下的。他把种子倒进肥料堆后，几种小麦竟意外发芽。其中一个品种长到约六英尺高，并结出七个麦穗，不同于格罗西熟悉的单穗商业小麦。",
+      "hn": {
+        "id": 50320963,
+        "type": "story",
+        "by": "ecares",
+        "score": 683,
+        "descendants": 187,
+        "time": 1793486466,
+        "comments_url": "https://news.ycombinator.com/item?id=50320963"
+      },
+      "tags": [
+        "Science"
+      ],
+      "hot_score": 2.47
+    },
+    {
+      "title_en": "TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8",
+      "url": "https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf",
+      "title_zh": "TCP 释放后使用：CVE-2026-98432，CVSS 9.8",
+      "is_new": false,
+      "created_display": "Created: Oct 31, 2026 / 12:16 PT",
+      "image_url": "https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf/opengraph-image",
+      "summary_en": "CVE-2026-98432 is a critical remote use-after-free vulnerability in Linux's IPv4 TCP handshake, reachable by an unauthenticated network peer. Stable kernels fixed it in October 2026, with patches for versions including 5.10.272 through 7.3, but the flaw dates back to Linux 4.4. At the reported time, Ubuntu still marked every release as vulnerable, while Red Hat listed RHEL 8, 9, and 10 as affected without a fix.",
+      "summary_zh": "CVE-2026-98432 是 Linux IPv4 TCP 握手中的严重远程释放后使用漏洞，未经身份验证的网络对端即可触发。稳定版内核已于 2026 年 10 月修复，补丁覆盖 5.10.272 至 7.3 等版本，但该缺陷可追溯至 Linux 4.4。报道所述时间点，Ubuntu 仍将所有版本标为易受攻击，Red Hat 也列出受影响的 RHEL 8、9 和 10，尚未提供修复。",
+      "hn": {
+        "id": 50319143,
+        "type": "story",
+        "by": "oger",
+        "score": 633,
+        "descendants": 307,
+        "time": 1793474190,
+        "comments_url": "https://news.ycombinator.com/item?id=50319143"
+      },
+      "tags": [
+        "Security"
+      ],
+      "hot_score": 1.78
+    },
+    {
+      "title_en": "The AI cost of JavaScript frameworks",
+      "url": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/",
+      "title_zh": "JavaScript 框架的 AI 成本",
+      "is_new": false,
+      "created_display": "Created: Oct 31, 2026 / 23:06 PT",
+      "image_url": "https://nolanlawson.com/_astro/frameworks.B14_z7MF_2lv3q1.webp",
+      "summary_en": "The discussion challenges the web development community's tendency to describe frameworks and tools with unsupported claims such as “blazing fast” or “supercharge your development.” It argues that many choices have historically been justified by developer experience and intuition rather than evidence. The focus is on examining the measurable costs of JavaScript frameworks in an era of AI-assisted development.",
+      "summary_zh": "文章质疑 Web 开发社区习惯用“快如闪电”或“显著提升开发效率”等缺乏证据的说法描述框架和工具。它指出，许多技术选择长期以来更多是依据开发者体验和直觉，而非实证来论证的。文章将关注点放在 AI 辅助开发时代 JavaScript 框架可衡量的成本上。",
+      "hn": {
+        "id": 50323088,
+        "type": "story",
+        "by": "luu",
+        "score": 232,
+        "descendants": 164,
+        "time": 1793513179,
+        "comments_url": "https://news.ycombinator.com/item?id=50323088"
+      },
+      "tags": [
+        "AI",
+        "Programming"
+      ],
+      "hot_score": 1.71
+    },
+    {
+      "title_en": "Serbia just elected the world's brainiest parliament",
+      "url": "https://www.science.org/content/article/serbia-just-elected-world-s-brainiest-parliament",
+      "title_zh": "塞尔维亚刚刚选出了世界上最聪明的议会",
+      "is_new": false,
+      "created_display": "Created: Oct 31, 2026 / 03:21 PT",
+      "image_url": null,
+      "summary_en": "The title reports that Serbia has elected what it calls the world’s brainiest parliament.",
+      "summary_zh": "标题称，塞尔维亚刚刚选出了“世界上最聪明的议会”。",
+      "hn": {
+        "id": 50314654,
+        "type": "story",
+        "by": "input_sh",
+        "score": 889,
+        "descendants": 493,
+        "time": 1793442090,
+        "comments_url": "https://news.ycombinator.com/item?id=50314654"
+      },
+      "tags": [
+        "Politics"
+      ],
+      "hot_score": 1.47
+    },
+    {
+      "title_en": "Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard",
+      "url": "https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve",
+      "title_zh": "Memdoor：五个 Qwen3.8-27B 模型在 LiveCodeBench Hard 上击败 Fable 5",
+      "is_new": false,
+      "created_display": "Created: Oct 31, 2026 / 15:46 PT",
+      "image_url": "https://opengraph.githubassets.com/90cac1f11b2ff0b579e46fabadb925454a173bd0f411b81a2263383746cfc66d/guregodevo/memdoor",
+      "summary_en": "Memdoor implements a team-solving workflow in which five small models act as a planner, ideators, solver, manager, and repair worker. Each model starts with a fresh context and communicates only through files, while an external script determines whether solutions pass. The authors reproduced the method using Qwen3.8-27B, eight YAML files, their prompts, and a 128K response limit.",
+      "summary_zh": "Memdoor 实现了一种协作解题流程，由五个小模型分别担任规划者、创意提出者、求解器、管理者和修复者。每个模型都从全新的上下文开始，仅通过磁盘文件通信，并由外部脚本判断解答是否通过。作者使用 Qwen3.8-27B、八个 YAML 文件、自定义提示词和 128K 回复上限复现了这一方法。",
+      "hn": {
+        "id": 50320995,
+        "type": "story",
+        "by": "guregodevo",
+        "score": 389,
+        "descendants": 192,
+        "time": 1793486772,
+        "comments_url": "https://news.ycombinator.com/item?id=50320995"
+      },
+      "tags": [
+        "AI",
+        "Open Source"
+      ],
+      "hot_score": 1.42
+    },
+    {
+      "title_en": "Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing",
+      "url": "https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing/",
+      "title_zh": "巴西法院因诉状中的提示注入惩罚律师",
+      "is_new": false,
+      "created_display": "Created: Oct 31, 2026 / 19:19 PT",
+      "image_url": "https://jetstream.security/wp-content/uploads/2026/07/ChatGPT-Image-Jul-1-2026-02_56_34-PM.png",
+      "summary_en": "Two lawyers embedded a white-on-white instruction in a court filing telling an AI to treat their case leniently. The court's AI document-review system detected the hidden prompt injection. The court fined the lawyers $16,000.",
+      "summary_zh": "两名律师在法院文件中嵌入了白底白字的指令，要求 AI 对他们的案件从轻处理。法院的 AI 文档审查系统检测到了这条隐藏的提示注入指令。法院因此对两名律师处以 16,000 美元罚款。",
+      "hn": {
+        "id": 50322173,
+        "type": "story",
+        "by": "doodlesdev",
+        "score": 270,
+        "descendants": 149,
+        "time": 1793499593,
+        "comments_url": "https://news.ycombinator.com/item?id=50322173"
+      },
+      "tags": [
+        "Legal",
+        "Security",
+        "AI"
+      ],
+      "hot_score": 1.34
+    },
+    {
+      "title_en": "Anthropic blocks users for anything touching training larger models",
+      "url": "https://twitter.com/jiahaoshao1/status/2116475922190922088",
+      "title_zh": "Anthropic 屏蔽任何涉及训练更大模型的用户",
+      "is_new": false,
+      "created_display": "Created: Oct 31, 2026 / 12:39 PT",
+      "image_url": "https://pbs.twimg.com/profile_images/1983126868095315969/28wHeS_J_400x400.jpg",
+      "summary_en": "A user says Anthropic blocked their account after flagging work involving reinforcement fine-tuning, supervised fine-tuning, or training larger models as “training a competitor.” The user says Claude only helped submit jobs and analyze results, while the rollouts came from an open-source model. They also report being downgraded from Opus 5.5.",
+      "summary_zh": "一名用户称，Anthropic 将其涉及强化微调、监督微调或训练更大模型的工作标记为“训练竞争对手”，并屏蔽了其账户。该用户表示，Claude 只帮助提交任务和分析结果，实际生成过程使用的是开源模型。用户还称自己的账户被降级，无法继续使用 Opus 5.5。",
+      "hn": {
+        "id": 50319358,
+        "type": "story",
+        "by": "pretext",
+        "score": 435,
+        "descendants": 245,
+        "time": 1793475559,
+        "comments_url": "https://news.ycombinator.com/item?id=50319358"
+      },
+      "tags": [
+        "AI",
+        "Legal",
+        "Open Source"
+      ],
+      "hot_score": 1.26
+    },
+    {
+      "title_en": "Leaking Secrets from Air-Gap Computers by Spelling Radio Signals from RAM (2024)",
+      "url": "https://arxiv.org/abs/2409.02292",
+      "title_zh": "通过从 RAM 拼写无线电信号，从气隙计算机窃取秘密（2024）",
+      "is_new": false,
+      "created_display": "Created: Oct 31, 2026 / 18:46 PT",
+      "image_url": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+      "summary_en": "Researchers describe an attack in which malware on an air-gapped computer generates radio signals through memory buses. The signals can encode files, images, keystrokes, biometric data, and encryption keys, which an attacker can intercept using software-defined radio and an inexpensive antenna. The paper presents the attack's design, implementation, and evaluation.",
+      "summary_zh": "研究人员描述了一种攻击：气隙计算机上的恶意软件通过内存总线生成无线电信号。这些信号可以编码文件、图像、键盘记录、生物特征数据和加密密钥，攻击者则可使用软件定义无线电和廉价天线进行拦截。论文介绍了该攻击的设计、实现和评估结果。",
+      "hn": {
+        "id": 50322022,
+        "type": "story",
+        "by": "hapax_legomena",
+        "score": 161,
+        "descendants": 84,
+        "time": 1793497589,
+        "comments_url": "https://news.ycombinator.com/item?id=50322022"
+      },
+      "tags": [
+        "Security"
+      ],
+      "hot_score": 0.75
+    },
+    {
+      "title_en": "ChatGPT and Codex usage limits merging",
+      "url": "https://help.openai.com/en/articles/20001625-understanding-chatgpt-and-codex-usage-limits",
+      "title_zh": "ChatGPT 与 Codex 的使用额度将合并",
+      "is_new": false,
+      "created_display": "Created: Oct 31, 2026 / 14:49 PT",
+      "image_url": "https://help.openai.com/og-image.png",
+      "summary_en": "Starting in December, Plus, Pro, and Business plans will share one usage allowance across ChatGPT and Codex as agentic Work capabilities move into ChatGPT. Usage will be measured in tokens and will vary with the selected model and task. Instant chat will not consume the allowance.",
+      "summary_zh": "从 12 月起，Plus、Pro 和 Business 计划将在 ChatGPT 与 Codex 之间共享同一个使用额度，随着 Work 的代理能力并入 ChatGPT。使用量将按 token 计算，并取决于所选模型和任务。即时聊天不会消耗该额度。",
+      "hn": {
+        "id": 50320588,
+        "type": "story",
+        "by": "Zariel",
+        "score": 207,
+        "descendants": 153,
+        "time": 1793483347,
+        "comments_url": "https://news.ycombinator.com/item?id=50320588"
+      },
+      "tags": [
+        "AI",
+        "Business"
+      ],
+      "hot_score": 0.7
+    },
+    {
+      "title_en": "We're releasing the weights of Mistral Large 4",
+      "url": "https://mistral.ai/news/mistral-large-4-oss/",
+      "title_zh": "发布 Mistral Large 4 的权重",
+      "is_new": false,
+      "created_display": "Created: Oct 29, 2026 / 07:13 PT",
+      "image_url": "https://mistral.ai/cms-media/api/media/file/cover-mistral-sovereign%20copie.webp",
+      "summary_en": "Mistral AI has released the weights for Mistral Large 4, enabling researchers to run and fine-tune the model locally. This move reduces reliance on hosted APIs and accelerates experimentation, but also brings licensing, safety, and governance considerations to the fore in open-weight AI projects.",
+      "summary_zh": "Mistral Large 4 的权重已对外公开，研究者和开发者可以在本地部署与微调。此举降低对 API 的依赖，促进实验，但也引发许可、安全与治理方面的讨论。",
+      "hn": {
+        "id": 50289418,
+        "type": "story",
+        "by": "kuberwastaken",
+        "score": 1714,
+        "descendants": 438,
+        "time": 1793283201,
+        "comments_url": "https://news.ycombinator.com/item?id=50289418"
+      },
+      "tags": [
+        "AI",
+        "Open Source"
+      ],
+      "hot_score": 0.66
+    },
+    {
+      "title_en": "It's the memory latency, stupid",
+      "url": "https://pivotlake.io/blog/its-the-memory-latency-stupid/",
+      "title_zh": "问题在于内存延迟",
+      "is_new": false,
+      "created_display": "Created: Oct 31, 2026 / 11:38 PT",
+      "image_url": "https://pivotlake.io/assets/pivot-logo.png",
+      "summary_en": "A database showing 100% CPU usage may still spend much of its time stalled on memory rather than executing instructions. Modern CPUs can process roughly 4–8 instructions per nanosecond, while a RAM access may take 50–100 nanoseconds. That gap means a processor can potentially execute 400–800 instructions during one memory access. The piece explains how caches, memory stalls, and radix partitioning affect operations such as GROUP BY.",
+      "summary_zh": "数据库显示 CPU 使用率为100%时，处理器可能仍有大量时间在等待内存，而不是执行指令。现代 CPU 每纳秒大约可处理4至8条指令，而一次 RAM 访问可能需要50至100纳秒。这意味着处理器在等待一次内存访问期间，理论上可以执行400至800条指令。文章解释了缓存、内存停顿和基数分区如何影响 GROUP BY 等操作。",
+      "hn": {
+        "id": 50318720,
+        "type": "story",
+        "by": "ntur1337",
+        "score": 244,
+        "descendants": 79,
+        "time": 1793471896,
+        "comments_url": "https://news.ycombinator.com/item?id=50318720"
+      },
+      "tags": [
+        "Programming",
+        "Hardware",
+        "Data"
+      ],
+      "hot_score": 0.66
+    },
+    {
+      "title_en": "Jepsen: ParticleDB 1.1.4",
+      "url": "https://jepsen.io/analyses/particledb-1.1.4",
+      "title_zh": "Jepsen：ParticleDB 1.1.4",
+      "is_new": false,
+      "created_display": "Created: Oct 31, 2026 / 06:39 PT",
+      "image_url": "https://jepsen.io/images/file-pdf.svg",
+      "summary_en": "The supplied context identifies the subject as Jepsen’s analysis of ParticleDB 1.1.4.",
+      "summary_zh": "提供的上下文显示，内容主题是 Jepsen 对 ParticleDB 1.1.4 的分析。",
+      "hn": {
+        "id": 50316100,
+        "type": "story",
+        "by": "aphyr",
+        "score": 318,
+        "descendants": 175,
+        "time": 1793453992,
+        "comments_url": "https://news.ycombinator.com/item?id=50316100"
+      },
+      "tags": [
+        "Data"
+      ],
+      "hot_score": 0.63
+    },
+    {
+      "title_en": "Do the math: How we took over ChatGPT accounts",
+      "url": "https://www.parameter.ai/labs/we-found-a-gap-at-openai",
+      "title_zh": "我们接管了 ChatGPT 账户",
+      "is_new": false,
+      "created_display": "Created: Oct 31, 2026 / 03:30 PT",
+      "image_url": "https://www.parameter.ai/opengraph-image.png",
+      "summary_en": "Researchers bypassed ChatGPT’s sandbox and content security policy to take over accounts by sending victims a link. In October 2026, they found that a public ChatGPT share could be turned into attacker-controlled JavaScript running inside the signed-in session of anyone who opened it. An attacker could publish a malicious conversation through ChatGPT’s normal sharing feature, and the payload would execute on chatgpt.com with access to the victim’s authenticated web session.",
+      "summary_zh": "研究人员绕过了 ChatGPT 的沙箱和内容安全策略，只需向受害者发送链接即可接管账户。2026 年 10 月，他们发现可以将普通的 ChatGPT 公开分享转换为攻击者控制的 JavaScript，并在打开链接者的登录会话中运行。攻击者可以通过 ChatGPT 的正常分享功能发布恶意对话，载荷随后会以 chatgpt.com 的身份执行，并获得受害者已认证的网页会话权限。",
+      "hn": {
+        "id": 50314699,
+        "type": "story",
+        "by": "armcat",
+        "score": 357,
+        "descendants": 176,
+        "time": 1793442611,
+        "comments_url": "https://news.ycombinator.com/item?id=50314699"
+      },
+      "tags": [
+        "Security",
+        "Privacy",
+        "AI",
+        "Programming"
+      ],
+      "hot_score": 0.6
+    },
+    {
+      "title_en": "Backdoor in Claude Code for VS Code extension on the Cursor Marketplace",
+      "url": "https://phorion.io/blog/offical-claude-code-vsx-compromise/",
+      "title_zh": "Cursor Marketplace 上的 Claude Code for VS Code 扩展存在后门",
+      "is_new": false,
+      "created_display": "Created: Oct 30, 2026 / 00:09 PT",
+      "image_url": "https://phorion.io/images/default-social-card.png",
+      "summary_en": "The title reports a backdoor in a Claude Code extension for VS Code distributed through the Cursor Marketplace. The supplied context provides no further reliable details.",
+      "summary_zh": "标题称，Cursor Marketplace 上分发的 Claude Code for VS Code 扩展中存在后门。提供的上下文没有更多可靠细节。",
+      "hn": {
+        "id": 50300683,
+        "type": "story",
+        "by": "_chall",
+        "score": 987,
+        "descendants": 551,
+        "time": 1793344152,
+        "comments_url": "https://news.ycombinator.com/item?id=50300683"
+      },
+      "tags": [
+        "Security",
+        "AI"
+      ],
+      "hot_score": 0.58
+    },
+    {
+      "title_en": "Altoids Project",
+      "url": "https://uvdn7.github.io/altoids-project/",
+      "title_zh": "Altoids 项目",
+      "is_new": false,
+      "created_display": "Created: Oct 31, 2026 / 15:54 PT",
+      "image_url": "https://uvdn7.github.io/assets/altoids_final_product.jpg",
+      "summary_en": "A parent and his 12-year-old son spent about two months building the Altoids project. It began after they received a free robot at MIT Swapfest and acquired an inexpensive used ThinkPad. The project culminated in a video documenting their finished product.",
+      "summary_zh": "一位家长和他 12 岁的儿子花了约两个月完成了 Altoids 项目。项目始于他们在 MIT Swapfest 获得一台免费机器人，并买到一台价格实惠的二手 ThinkPad。最终成果由一段视频记录下来。",
+      "hn": {
+        "id": 50321048,
+        "type": "story",
+        "by": "uvdn7",
+        "score": 152,
+        "descendants": 7,
+        "time": 1793487295,
+        "comments_url": "https://news.ycombinator.com/item?id=50321048"
+      },
+      "tags": [
+        "Hardware"
+      ],
+      "hot_score": 0.56
+    },
+    {
+      "title_en": "Casio Watches of the 1980s",
+      "url": "https://www.casio.com/us/watches/50th/Heritage/1980s/",
+      "title_zh": "20 世纪 80 年代的卡西欧手表",
+      "is_new": false,
+      "created_display": "Created: Oct 31, 2026 / 09:00 PT",
+      "image_url": null,
+      "summary_en": "The title identifies a retrospective focused on Casio watches from the 1980s.",
+      "summary_zh": "标题显示，这是一篇聚焦 20 世纪 80 年代卡西欧手表的回顾。",
+      "hn": {
+        "id": 50317363,
+        "type": "story",
+        "by": "karagenit",
+        "score": 243,
+        "descendants": 128,
+        "time": 1793462448,
+        "comments_url": "https://news.ycombinator.com/item?id=50317363"
+      },
+      "tags": [
+        "Hardware",
+        "Design"
+      ],
+      "hot_score": 0.55
+    },
+    {
+      "title_en": "Electrification Could Cut Global Energy Use in Half",
+      "url": "https://fullycharged.show/podcasts/podcast-361-why-electrification-could-cut-global-energy-use-in-half/",
+      "title_zh": "电气化可能让全球能源使用量减半",
+      "is_new": false,
+      "created_display": "Created: Oct 31, 2026 / 12:13 PT",
+      "image_url": "https://fullycharged.show/wp-content/uploads/2026/04/Banner-why-electrification-could-cut-global-energy-use-in-half-pc361.jpg",
+      "summary_en": "Professor Jan Rosenow says electricity currently represents only about 20% of the global energy picture, with transport and heating still dominated by fossil fuels. The current system wastes roughly two-thirds of its energy inputs as heat. The discussion argues that large-scale electrification could halve total global energy demand.",
+      "summary_zh": "Jan Rosenow 教授表示，电力目前只占全球能源格局的约 20%，交通和供暖仍主要依赖化石燃料。现有系统会将约三分之二的能源输入以热量形式浪费掉。讨论认为，大规模电气化可能使全球总能源需求减半。",
+      "hn": {
+        "id": 50319110,
+        "type": "story",
+        "by": "toomuchtodo",
+        "score": 196,
+        "descendants": 192,
+        "time": 1793474014,
+        "comments_url": "https://news.ycombinator.com/item?id=50319110"
+      },
+      "tags": [
+        "Energy"
+      ],
+      "hot_score": 0.55
+    },
+    {
+      "title_en": "Anthropic takes steps to block Claude from reverse-engineering video games",
+      "url": "https://mashable.com/tech/anthropic-takes-steps-to-block-video-game-cloning-and-reverse-engineering",
+      "title_zh": "Anthropic 采取措施阻止 Claude 逆向工程电子游戏",
+      "is_new": false,
+      "created_display": "Created: Oct 31, 2026 / 14:07 PT",
+      "image_url": "https://helios-i.mashable.com/imagery/articles/00cSAXoWdRYObLNtN71MkCO/hero-image.fill.size_1200x675.v1793455880.png",
+      "summary_en": "Claude has reportedly begun restricting work involving video-game modding, decompilation, and reverse engineering. The restrictions are broad enough to affect legitimate developers and basic troubleshooting. No official explanation has been announced, although the changes come amid growing concern about AI-assisted game hacking and modding.",
+      "summary_zh": "据报道，Claude 开始限制涉及电子游戏改 mod、反编译和逆向工程的工作。这些限制范围很广，已经影响到合法开发者和基本故障排查。官方尚未公布解释，但这些变化发生在外界日益关注 AI 辅助游戏破解和改 mod 之际。",
+      "hn": {
+        "id": 50320255,
+        "type": "story",
+        "by": "firesteelrain",
+        "score": 173,
+        "descendants": 107,
+        "time": 1793480878,
+        "comments_url": "https://news.ycombinator.com/item?id=50320255"
+      },
+      "tags": [
+        "AI",
+        "Gaming"
+      ],
+      "hot_score": 0.55
+    },
+    {
+      "title_en": "Molly (Signal fork) has not been updated since 3 months and is vulnerable",
+      "url": "https://piefed.world/post/1503394",
+      "title_zh": "Molly（Signal 分支）已有三个月未更新，存在漏洞",
+      "is_new": false,
+      "created_display": "Created: Oct 31, 2026 / 03:23 PT",
+      "image_url": "https://piefed.world/static/images/piefed_logo_full_t_300x300.svg",
+      "summary_en": "Molly, a Signal fork, had its latest release on July 31, version v8.19.2-4. The supplied information says it has not been updated for roughly three months and is vulnerable to attacks.",
+      "summary_zh": "Molly 是 Signal 的一个分支，最近一次发布是在 7 月 31 日，版本为 v8.19.2-4。提供的信息称，它已有约三个月未更新，并且容易受到攻击。",
+      "hn": {
+        "id": 50314666,
+        "type": "story",
+        "by": "DeepLogin",
+        "score": 328,
+        "descendants": 188,
+        "time": 1793442221,
+        "comments_url": "https://news.ycombinator.com/item?id=50314666"
+      },
+      "tags": [
+        "Security",
+        "Privacy"
+      ],
+      "hot_score": 0.54
+    },
+    {
+      "title_en": "Malware uses LLMs to rank victims by how much they're worth",
+      "url": "https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer/",
+      "title_zh": "恶意软件利用大语言模型按受害者价值排序",
+      "is_new": false,
+      "created_display": "Created: Oct 31, 2026 / 07:29 PT",
+      "image_url": "https://storage.ghost.io/c/af/a0/afa04ee3-414f-4481-8d23-7e7c146f192e/content/images/size/w1200/2026/10/VOLTA.jpg",
+      "summary_en": "The self-deleting Windows infostealer VOLTA-AUTODOXER steals credentials, sessions, cryptocurrency wallets, and other data before using an LLM to profile victims and rank their valuable assets. Its evidence bundle can include location, employer, payment-card fragments, messaging sessions, keys, screenshots, and other personal indicators. Stolen sessions can also be used to search Gmail for purchase receipts and enrich the victim profile.",
+      "summary_zh": "会自我删除的 Windows 信息窃取器 VOLTA-AUTODOXER 会窃取凭据、会话、加密货币钱包等数据，然后利用大语言模型分析受害者并对其高价值资产排序。它生成的证据包可能包含位置、雇主、银行卡部分信息、即时通信会话、密钥、屏幕截图及其他个人线索。攻击者还可以利用窃取的会话搜索 Gmail 中的购买收据，进一步完善受害者画像。",
+      "hn": {
+        "id": 50316531,
+        "type": "story",
+        "by": "khalidkhair",
+        "score": 253,
+        "descendants": 134,
+        "time": 1793456943,
+        "comments_url": "https://news.ycombinator.com/item?id=50316531"
+      },
+      "tags": [
+        "Security",
+        "AI",
+        "Finance"
+      ],
+      "hot_score": 0.52
+    },
+    {
+      "title_en": "AI isn't replacing SREs, it's deskilling them",
+      "url": "https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling",
+      "title_zh": "AI 没有取代 SRE，而是在让他们技能退化",
+      "is_new": false,
+      "created_display": "Created: Oct 30, 2026 / 08:52 PT",
+      "image_url": "https://substackcdn.com/image/fetch/$s_!Hgvq!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F530d847f-26cb-4ddd-a6de-875cbbaf8fab_6233x4167.webp",
+      "summary_en": "The piece asks whether engineers become less capable when AI handles 95% of incident response, leaving humans with only the most difficult 5%. It argues that a human should remain responsible for carrying out actions, citing a historical example from the US Navy. In novel incidents, the author describes using AI alongside human observation and reasoning to narrow down possible root causes. The result is presented as continued human participation rather than complete replacement.",
+      "summary_zh": "文章提出疑问：如果 AI 处理了95%的事故响应，人类只面对最关键的5%，工程师是否会因此变得不那么熟练。文章援引美国海军的历史案例，主张始终应由人类负责执行操作。面对新型事故时，作者会结合自身观察和推理使用 AI，以逐步排除可能的根因。文中描述的是人机协作，而不是完全取代人类。",
+      "hn": {
+        "id": 50305693,
+        "type": "story",
+        "by": "dorianniemiec",
+        "score": 662,
+        "descendants": 482,
+        "time": 1793375538,
+        "comments_url": "https://news.ycombinator.com/item?id=50305693"
+      },
+      "tags": [
+        "AI",
+        "DevOps"
+      ],
+      "hot_score": 0.51
+    },
+    {
+      "title_en": "GPT-5.6 Sol can beat Factorio on peaceful mode",
+      "url": "https://ryanmadden.net/gpt-56-beats-factorio/",
+      "title_zh": "GPT-5.6 Sol 能在和平模式下击败《异星工厂》",
+      "is_new": false,
+      "created_display": "Created: Oct 31, 2026 / 11:50 PT",
+      "image_url": "https://ryanmadden.net/img/factorio_rocket_launch_social.jpg",
+      "summary_en": "GPT-5.6 Sol, running in Codex with low thinking level, completed a peaceful Factorio run in 13.5 hours of game time. The run used a Python-based game manager that let the model interact programmatically while enforcing restrictions such as player reach and fog of war. A timelapse of the complete run is also available. The result extends earlier experiments using AI agents to play Factorio autonomously.",
+      "summary_zh": "运行在低思考级别 Codex 中的 GPT-5.6 Sol，用13.5小时游戏时间完成了《异星工厂》的和平模式流程。实验使用基于 Python 的游戏管理器，让模型以程序方式操作游戏，同时遵守玩家操作范围和战争迷雾等限制。完整过程还制作成了延时视频。这一结果延续了此前让 AI 代理自主游玩《异星工厂》的实验。",
+      "hn": {
+        "id": 50318871,
+        "type": "story",
+        "by": "ryanmadden",
+        "score": 176,
+        "descendants": 187,
+        "time": 1793472634,
+        "comments_url": "https://news.ycombinator.com/item?id=50318871"
+      },
+      "tags": [
+        "AI",
+        "Gaming",
+        "Programming"
+      ],
+      "hot_score": 0.48
+    },
+    {
+      "title_en": "Digital minimalism",
+      "url": "https://vitalik.eth.limo/general/2026/10/31/digital_minimalism.html",
+      "title_zh": "数字极简主义",
+      "is_new": false,
+      "created_display": "Created: Oct 30, 2026 / 23:16 PT",
+      "image_url": "http://vitalik.ca/images/icon.png",
+      "summary_en": "The author says they have long favored physical minimalism, owning few possessions and doing more with less. They argue that the idea responded to the conditions of the 2000s and 2010s, while still retaining value today. The author proposes digital minimalism as a new form suited to the modern era.",
+      "summary_zh": "作者表示，自己长期推崇物质极简主义，即减少实体物品并以更少资源完成更多事情。作者认为，这一理念回应了 21 世纪初和 2010 年代的环境，但如今仍有价值。作者进一步提出，现代社会需要一种新的极简主义：数字极简主义。",
+      "hn": {
+        "id": 50313661,
+        "type": "story",
+        "by": "wilbertliu",
+        "score": 337,
+        "descendants": 264,
+        "time": 1793427396,
+        "comments_url": "https://news.ycombinator.com/item?id=50313661"
+      },
+      "tags": [
+        "Culture"
+      ],
+      "hot_score": 0.46
+    },
+    {
+      "title_en": "Surviving \"The Graduate\"",
+      "url": "https://www.newyorker.com/culture/the-weekend-essay/dustin-hoffman-on-surviving-the-graduate",
+      "title_zh": "熬过《毕业生》",
+      "is_new": false,
+      "created_display": "Created: Oct 31, 2026 / 13:02 PT",
+      "image_url": "https://media.newyorker.com/photos/6ae39ebeda249834dbb46a9b/16:9/w_1280,c_limit/HTG_01_final_still.jpg",
+      "summary_en": "The piece is titled “Surviving ‘The Graduate’” and concerns Dustin Hoffman and his experience with the film.",
+      "summary_zh": "这篇作品以《熬过〈毕业生〉》为题，围绕达斯汀·霍夫曼及其与这部电影相关的经历展开。",
+      "hn": {
+        "id": 50319563,
+        "type": "story",
+        "by": "samizdis",
+        "score": 152,
+        "descendants": 47,
+        "time": 1793476926,
+        "comments_url": "https://news.ycombinator.com/item?id=50319563"
+      },
+      "tags": [
+        "Culture"
+      ],
+      "hot_score": 0.45
+    },
+    {
+      "title_en": "The $6.3B Binance hack was pulled off in just 20 minutes",
+      "url": "https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/",
+      "title_zh": "价值 63 亿美元的币安黑客攻击仅用时 20 分钟",
+      "is_new": false,
+      "created_display": "Created: Oct 30, 2026 / 05:50 PT",
+      "image_url": "https://media.wired.com/photos/6ae463bdc091c8b8d1ec019e/191:100/w_1280,c_limit/102026-Binance%20Hacked.jpg",
+      "summary_en": "Hackers siphoned roughly $6.3 billion in cryptocurrency from wallets belonging to Binance across multiple blockchains in about 20 minutes. Binance suspended deposits and withdrawals and began investigating, while the exchange and other crypto firms said they had frozen around half of the stolen funds. Much of the remaining cryptocurrency may not be recoverable through freezing.",
+      "summary_zh": "黑客在约 20 分钟内从币安所属的钱包中跨多个区块链转走了约 63 亿美元的加密货币。币安暂停了存款和提现并展开调查；该交易所及其他加密行业公司称，已冻结约一半被盗资金。剩余的大部分加密货币可能无法通过冻结追回。",
+      "hn": {
+        "id": 50303172,
+        "type": "story",
+        "by": "domhudson",
+        "score": 585,
+        "descendants": 438,
+        "time": 1793364601,
+        "comments_url": "https://news.ycombinator.com/item?id=50303172"
+      },
+      "tags": [
+        "Security",
+        "Finance"
+      ],
+      "hot_score": 0.41
+    },
+    {
+      "title_en": "Tell HN: Scribd Breached",
+      "url": "https://news.ycombinator.com/item?id=50312756",
+      "title_zh": "Tell HN：Scribd 遭到入侵",
+      "is_new": false,
+      "created_display": "Created: Oct 30, 2026 / 19:46 PT",
+      "image_url": null,
+      "summary_en": "Scribd notified users of a security incident in which an unauthorized party may have accessed data in one of its systems. Potentially exposed information includes email addresses, the last four digits and country associated with a credit card, card issuer, expiry date, and payment history, but not full card details. The company said it had no evidence of misuse and warned users to watch for phishing.",
+      "summary_zh": "Scribd 通知用户称，其一个系统发生安全事件，未经授权的第三方可能访问了部分数据。可能暴露的信息包括电子邮件地址、信用卡末四位及所属国家、发卡机构、有效期和支付历史，但不包括完整银行卡信息。公司表示没有证据表明这些数据已被滥用，并提醒用户警惕钓鱼攻击。",
+      "hn": {
+        "id": 50312756,
+        "type": "story",
+        "by": "x______________",
+        "score": 346,
+        "descendants": 122,
+        "time": 1793414796,
+        "comments_url": "https://news.ycombinator.com/item?id=50312756"
+      },
+      "tags": [
+        "Security",
+        "Privacy"
+      ],
+      "hot_score": 0.4
+    },
+    {
+      "title_en": "Northflank Breached",
+      "url": "https://status.northflank.com",
+      "title_zh": "Northflank 遭到入侵",
+      "is_new": false,
+      "created_display": "Created: Oct 30, 2026 / 08:10 PT",
+      "image_url": "https://northflank.instatus.com/api/og",
+      "summary_en": "Northflank says secret rotation for MySQL and Redis is now available to all customers and advises customers to rotate secrets if they have not already. It has also enabled audit logs for all customers, including free users.",
+      "summary_zh": "Northflank 表示，所有客户现在都可以轮换 MySQL 和 Redis 密钥，并建议尚未操作的客户立即轮换。该平台还为包括免费用户在内的所有客户启用了审计日志。",
+      "hn": {
+        "id": 50305025,
+        "type": "story",
+        "by": "js4ever",
+        "score": 477,
+        "descendants": 361,
+        "time": 1793373031,
+        "comments_url": "https://news.ycombinator.com/item?id=50305025"
+      },
+      "tags": [
+        "Security",
+        "DevOps"
+      ],
+      "hot_score": 0.36
+    },
+    {
+      "title_en": "Prospero: A new coding harness for a more civilized age",
+      "url": "https://nullprogram.com/blog/2026/10/31/",
+      "title_zh": "Prospero：为更文明的时代打造的新型编码工具",
+      "is_new": false,
+      "created_display": "Created: Oct 31, 2026 / 04:54 PT",
+      "image_url": "https://nullprogram.com/img/prospero/screenshot.png",
+      "summary_en": "Prospero is a coding harness built for local and open-weight LLMs. Its author found existing harnesses unnecessarily heavy because many use web stacks, so they built a C++ application with a Dear ImGui docking interface that uses roughly two orders of magnitude fewer resources without sacrificing features. Prospero includes no model providers; users must supply their own through options such as llama.cpp, OpenRouter, Anthropic, or OpenAI APIs.",
+      "summary_zh": "Prospero 是一个为本地和开放权重大语言模型打造的编码工具。作者认为现有工具大多使用网页技术栈、资源消耗过高，因此用 C++ 和 Dear ImGui 停靠式界面制作了一个功能不减、资源消耗约低两个数量级的应用。Prospero 不内置模型提供商，用户需要通过 llama.cpp、OpenRouter、Anthropic 或 OpenAI API 等方式自行提供模型。",
+      "hn": {
+        "id": 50315226,
+        "type": "story",
+        "by": "fovc",
+        "score": 201,
+        "descendants": 131,
+        "time": 1793447699,
+        "comments_url": "https://news.ycombinator.com/item?id=50315226"
+      },
+      "tags": [
+        "Programming",
+        "AI"
+      ],
+      "hot_score": 0.36
+    },
+    {
+      "title_en": "Through Captain Jean-Luc Picard, Patrick Stewart taught us the measure of a man",
+      "url": "https://www.bostonglobe.com/2026/10/29/metro/patrick-stewart-picard-star-trek-the-next-generation/",
+      "title_zh": "通过让·吕克·皮卡尔舰长，帕特里克·斯图尔特教会我们何谓大丈夫",
+      "is_new": false,
+      "created_display": "Created: Oct 30, 2026 / 13:23 PT",
+      "image_url": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/v2/CGTKMVCJ3II6DM4QQY75UQKYRQ.jpg?auth=1665db2d602a73cebcb708de2cff81cdafb1dff34e84e5e1b3f511472b91079a&width=1440",
+      "summary_en": "Patrick Stewart’s portrayal of Captain Jean-Luc Picard presented a complex character who strived to do what was right. The character influenced a generation of young viewers.",
+      "summary_zh": "帕特里克·斯图尔特饰演的让·吕克·皮卡尔舰长，是一个努力做正确之事的复杂人物。这个角色影响了一代年轻观众。",
+      "hn": {
+        "id": 50309647,
+        "type": "story",
+        "by": "apress",
+        "score": 387,
+        "descendants": 230,
+        "time": 1793391810,
+        "comments_url": "https://news.ycombinator.com/item?id=50309647"
+      },
+      "tags": [
+        "Culture",
+        "Entertainment"
+      ],
+      "hot_score": 0.35
+    },
+    {
+      "title_en": "My favourite PowerMac is a Nintendo Wii",
+      "url": "https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/",
+      "title_zh": "我最喜欢的 PowerMac 是任天堂 Wii",
+      "is_new": false,
+      "created_display": "Created: Oct 30, 2026 / 10:25 PT",
+      "image_url": null,
+      "summary_en": "The title presents a Nintendo Wii as the author’s favorite PowerMac.",
+      "summary_zh": "标题称，作者最喜欢的 PowerMac 是任天堂 Wii。",
+      "hn": {
+        "id": 50307190,
+        "type": "story",
+        "by": "DHowett",
+        "score": 377,
+        "descendants": 110,
+        "time": 1793381115,
+        "comments_url": "https://news.ycombinator.com/item?id=50307190"
+      },
+      "tags": [
+        "Hardware",
+        "Gaming"
+      ],
+      "hot_score": 0.31
+    },
+    {
+      "title_en": "Switch Lowering in GCC",
+      "url": "https://xoranth.net/gcc-switch/",
+      "title_zh": "GCC 中的 switch 降低",
+      "is_new": false,
+      "created_display": "Created: Oct 31, 2026 / 01:02 PT",
+      "image_url": null,
+      "summary_en": "It asks whether the compiler’s decision-tree implementation is the only option and focuses on GCC’s lowering strategies. Except for bitset lowering, the optimizations discussed also translate to Clang.",
+      "summary_zh": "文章研究 GCC 如何实现 switch 语句。它探讨编译器采用决策树实现是否是唯一选择，并重点分析 GCC 的多种降低策略。除位集降低外，文中讨论的优化也能对应到 Clang。",
+      "hn": {
+        "id": 50314085,
+        "type": "story",
+        "by": "signa11",
+        "score": 210,
+        "descendants": 48,
+        "time": 1793433746,
+        "comments_url": "https://news.ycombinator.com/item?id=50314085"
+      },
+      "tags": [
+        "Programming"
+      ],
+      "hot_score": 0.31
+    },
+    {
+      "title_en": "Florilegium: Procedural Flowers in LaTeX",
+      "url": "https://github.com/kevinraymond/florilegium",
+      "title_zh": "Florilegium：用 LaTeX 生成程序化花卉装饰",
+      "is_new": false,
+      "created_display": "Created: Oct 30, 2026 / 08:48 PT",
+      "image_url": "https://opengraph.githubassets.com/e6ea3163fcfb443072b7630c9cbac9767a56ce80e6fb20963d217e704af2a020/kevinraymond/florilegium",
+      "summary_en": "Florilegium generates Delft-blue floral page margins for LuaLaTeX using Lua. It combines hand-authored primitives, randomized parameters, and a procedural layout that fills unused space. The creator says the project produces a similar look to a referenced design without trying to replicate it, and used Claude during development.",
+      "summary_zh": "Florilegium 使用 Lua 为 LuaLaTeX 生成代尔夫特蓝风格的花卉页面边饰。它结合手工编写的基本图形、随机参数和用于填充空白区域的程序化布局。作者表示，该项目形成了与某个参考设计相似的效果，但并未试图复制原作，开发过程中使用了 Claude。",
+      "hn": {
+        "id": 50305637,
+        "type": "story",
+        "by": "nanna",
+        "score": 378,
+        "descendants": 54,
+        "time": 1793375292,
+        "comments_url": "https://news.ycombinator.com/item?id=50305637"
+      },
+      "tags": [
+        "Programming",
+        "Open Source",
+        "AI"
+      ],
+      "hot_score": 0.29
+    },
+    {
+      "title_en": "Show HN: To Honor Sir Patrick Stewart, Enjoy the TNG Episode Guessing Game",
+      "url": "https://tng.episodle.com/",
+      "title_zh": "Show HN：为纪念帕特里克·斯图尔特，来玩《星际迷航：下一代》剧集猜谜游戏",
+      "is_new": false,
+      "created_display": "Created: Oct 30, 2026 / 16:51 PT",
+      "image_url": null,
+      "summary_en": "The title presents a Star Trek: The Next Generation episode-guessing game created in honor of Sir Patrick Stewart.",
+      "summary_zh": "标题介绍了一款为纪念帕特里克·斯图尔特爵士而制作的《星际迷航：下一代》剧集猜谜游戏。",
+      "hn": {
+        "id": 50311686,
+        "type": "story",
+        "by": "francisofascii",
+        "score": 240,
+        "descendants": 76,
+        "time": 1793404284,
+        "comments_url": "https://news.ycombinator.com/item?id=50311686"
+      },
+      "tags": [
+        "Show HN",
+        "Gaming"
+      ],
+      "hot_score": 0.25
+    },
+    {
+      "title_en": "Cisco gives engineer unlimited AI tokens to rewrite legacy code",
+      "url": "https://fortune.com/2026/10/30/cisco-president-jeetu-patel-gen-z-27-year-old-unlimited-ai-tokens-rewrite-legacy-code-entry-level-jobs/",
+      "title_zh": "思科给工程师无限 AI 令牌，用于重写遗留代码",
+      "is_new": false,
+      "created_display": "Created: Oct 30, 2026 / 07:08 PT",
+      "image_url": "https://fortune.com/img-assets/wp-content/uploads/2026/10/GettyImages-2270629609-e1793295597735.jpg?resize=1200,600",
+      "summary_en": "Cisco president and chief product officer Jeetu Patel gave a 27-year-old employee named Paddy unlimited AI tokens to refactor code. Patel described Paddy as an “energizer bunny” and told him to use the tokens freely. The assignment is presented against a backdrop in which some employers plan to hire fewer graduates because AI can perform certain work more cheaply.",
+      "summary_zh": "思科总裁兼首席产品官 Jeetu Patel 给一名叫 Paddy 的 27 岁员工无限 AI 令牌，让他重构代码。Patel 称 Paddy 是一台“永动机”，并让他放手使用这些令牌。这项安排发生在一些雇主计划减少应届毕业生招聘的背景下，因为他们认为 AI 能以更低成本完成部分工作。",
+      "hn": {
+        "id": 50304122,
+        "type": "story",
+        "by": "taubek",
+        "score": 311,
+        "descendants": 382,
+        "time": 1793369300,
+        "comments_url": "https://news.ycombinator.com/item?id=50304122"
+      },
+      "tags": [
+        "AI",
+        "Business",
+        "Programming"
+      ],
+      "hot_score": 0.23
+    },
+    {
+      "title_en": "Azure's Weakest Link – Five Full Cross-Tenant Compromises",
+      "url": "https://www.binarysecurity.no/posts/2026/10/one-root-case",
+      "title_zh": "Azure 的薄弱环节——五起跨租户完全妥协",
+      "is_new": false,
+      "created_display": "Created: Oct 30, 2026 / 03:06 PT",
+      "image_url": "https://www.binarysecurity.no/assets/images/dark_png.png",
+      "summary_en": "A red-team style analysis shows five full cross-tenant compromises in Azure, illustrating how misconfigurations and trust relationships can cascade across an organization.",
+      "summary_zh": "分析显示 Azure 中存在五起完全跨租户的妥协，说明错误配置与信任关系如何在企业内级联。文章给出降低风险的实用措施，如严格身份控制、最小权限和加强监控。",
+      "hn": {
+        "id": 50301854,
+        "type": "story",
+        "by": "swq115",
+        "score": 337,
+        "descendants": 61,
+        "time": 1793354775,
+        "comments_url": "https://news.ycombinator.com/item?id=50301854"
+      },
+      "tags": [
+        "Security"
+      ],
+      "hot_score": 0.22
+    },
+    {
+      "title_en": "We ran AI agent swarms in Minecraft and Mindustry",
+      "url": "https://labs.ycombinator.com/projects/games/index.html",
+      "title_zh": "在 Minecraft 与 Mindustry 中测试 AI 代理群",
+      "is_new": true,
+      "created_display": "Created: Oct 29, 2026 / 14:40 PT",
+      "image_url": "https://labs.ycombinator.com/og.png",
+      "summary_en": "Researchers ran AI agent swarms in Minecraft and Mindustry to study emergent coordination at scale. The experiments illustrate how simple agents, when put in shared environments, can exhibit complex group behaviors, informing the design of scalable multi-agent systems and game AI safety. The work provides hands-on demos for researchers building autonomous agents in synthetic worlds.",
+      "summary_zh": "在 Minecraft 与 Mindustry 中测试AI代理群，研究群体协作与尺度效应。实验表明，简单代理在共享环境中可涌现出复杂的协同行为，为多智能体系统和游戏AI安全提供直观范例。",
+      "hn": {
+        "id": 50296486,
+        "type": "story",
+        "by": "sandslash",
+        "score": 412,
+        "descendants": 169,
+        "time": 1793310028,
+        "comments_url": "https://news.ycombinator.com/item?id=50296486"
+      },
+      "tags": [
+        "AI",
+        "Gaming"
+      ],
+      "hot_score": 0.19
+    },
+    {
+      "title_en": "The oldest ice disappears and the Stone Age emerges from it",
+      "url": "https://www.sciencenorway.no/archaeology-climate-culture/the-oldest-ice-is-disappearing-the-stone-age-is-emerging-from-the-melting-ice/2713921",
+      "title_zh": "最古老的冰层正在消失，石器时代由此重现",
+      "is_new": true,
+      "created_display": "Created: Oct 30, 2026 / 12:51 PT",
+      "image_url": "https://image.sciencenorway.no/2713469.jpg?imageId=2713469&x=0&y=17.9&cropw=100&croph=73.3&panox=0&panoy=17.9&panow=100&panoh=73.3&width=1200&height=683",
+      "summary_en": "Archaeologists in Innlandet, eastern Norway, have spent 20 years recovering artifacts emerging from melting mountain ice. Earlier finds were mostly no more than 2,000 years old and often dated to the Viking Age, but 6,000-year-old arrowheads are now appearing. The researchers describe the melting ice as rapidly changing the archaeological landscape.",
+      "summary_zh": "挪威东部因兰内特的考古学家花了 20 年时间，持续发掘和保护从山地融冰中出现的文物。过去发现的物品大多不超过 2,000 年历史，许多来自维京时代；如今，已有 6,000 年历史的箭头出土。研究人员表示，冰层融化正在迅速改变考古景观。",
+      "hn": {
+        "id": 50309266,
+        "type": "story",
+        "by": "dxs",
+        "score": 208,
+        "descendants": 106,
+        "time": 1793389893,
+        "comments_url": "https://news.ycombinator.com/item?id=50309266"
+      },
+      "tags": [
+        "Science"
+      ],
+      "hot_score": 0.18
+    },
+    {
+      "title_en": "Infinite Mac: BeOS",
+      "url": "https://blog.persistent.info/2026/10/infinite-mac-beos.html",
+      "title_zh": "Infinite Mac：BeOS",
+      "is_new": true,
+      "created_display": "Created: Oct 30, 2026 / 12:30 PT",
+      "image_url": null,
+      "summary_en": "Infinite Mac presents BeOS as part of its collection of emulated or recreated classic computer environments. The project focuses on making the BeOS experience available through the web.",
+      "summary_zh": "Infinite Mac 将 BeOS 纳入其经典计算机环境的模拟或重现项目。该项目致力于通过网页提供 BeOS 体验。",
+      "hn": {
+        "id": 50309029,
+        "type": "story",
+        "by": "ecliptik",
+        "score": 193,
+        "descendants": 134,
+        "time": 1793388609,
+        "comments_url": "https://news.ycombinator.com/item?id=50309029"
+      },
+      "tags": [
+        "Web"
+      ],
+      "hot_score": 0.17
+    },
+    {
+      "title_en": "Sanstun: A sans-IO, parallel-friendly WireGuard implementation in Rust",
+      "url": "https://www.firezone.dev/blog/introducing-sanstun",
+      "title_zh": "Sanstun：用 Rust 实现的无 IO、适合并行的 WireGuard",
+      "is_new": true,
+      "created_display": "Created: Oct 30, 2026 / 14:30 PT",
+      "image_url": "https://www.firezone.dev/blog/opengraph-image?dc0a4d310bb2b9d5",
+      "summary_en": "Sanstun is a sans-IO implementation of the WireGuard state machine written in Rust. It is designed around ease of use, security, performance, and a parallel-friendly API. The sans-IO approach separates input/output and side effects, including time and randomness, from state and business logic.",
+      "summary_zh": "Sanstun 是一个用 Rust 编写的 WireGuard 状态机 sans-IO 实现。它以易用性、安全性、性能和适合并行的 API 为设计目标。sans-IO 方法将输入输出及时间、随机数等副作用，与状态和业务逻辑分离。",
+      "hn": {
+        "id": 50310398,
+        "type": "story",
+        "by": "wh33zle",
+        "score": 157,
+        "descendants": 40,
+        "time": 1793395800,
+        "comments_url": "https://news.ycombinator.com/item?id=50310398"
+      },
+      "tags": [
+        "Programming",
+        "Open Source",
+        "Security"
+      ],
+      "hot_score": 0.15
+    },
+    {
+      "title_en": "Building an AI-native engineering org",
+      "url": "https://twitter.com/sgondala2/status/2115832070274723875",
+      "title_zh": "构建 AI 原生工程组织",
+      "is_new": true,
+      "created_display": "Created: Oct 29, 2026 / 14:58 PT",
+      "image_url": "https://pbs.twimg.com/media/HVw2CyXa8AEa29n?format=webp&name=large",
+      "summary_en": "The piece is about building an AI-native engineering organization. It focuses on how engineering teams can be structured around AI-native practices.",
+      "summary_zh": "文章讨论如何构建 AI 原生的工程组织。重点是围绕 AI 原生实践来组织工程团队。",
+      "hn": {
+        "id": 50296730,
+        "type": "story",
+        "by": "sgondala_ycapp",
+        "score": 186,
+        "descendants": 196,
+        "time": 1793311114,
+        "comments_url": "https://news.ycombinator.com/item?id=50296730"
+      },
+      "tags": [
+        "Programming",
+        "Business",
+        "AI"
+      ],
+      "hot_score": 0.09
+    },
+    {
+      "title_en": "Cloudflare Turnstile solver library (no headless browser required)",
+      "url": "https://github.com/chris124567/cfsolve",
+      "title_zh": "Cloudflare Turnstile 求解库（无需无头浏览器）",
+      "is_new": true,
+      "created_display": "Created: Oct 28, 2026 / 10:29 PT",
+      "image_url": "https://opengraph.githubassets.com/9a262e2cc2f12eebb47bdbb4aa0d80f1333652dc90436ad86aa678889b368cd2/chris124567/cfsolve",
+      "summary_en": "cfsolve is a Rust library and command-line tool that solves Cloudflare Turnstile widgets and challenge pages without a headless browser. It returns a Turnstile token for widgets or a cf_clearance cookie for challenge pages. Widgets can be handled with a page URL and site key, while challenge pages require a direct fetch or the page’s HTML.",
+      "summary_zh": "cfsolve 是一个 Rust 库和命令行工具，无需无头浏览器即可处理 Cloudflare Turnstile 小部件和挑战页面。它会为小部件返回 Turnstile 令牌，为挑战页面返回 cf_clearance Cookie。处理小部件需要页面 URL 和站点密钥，而挑战页面则需要直接抓取页面或提供页面 HTML。",
+      "hn": {
+        "id": 50277379,
+        "type": "story",
+        "by": "costco",
+        "score": 310,
+        "descendants": 108,
+        "time": 1793208563,
+        "comments_url": "https://news.ycombinator.com/item?id=50277379"
+      },
+      "tags": [
+        "Programming",
+        "Open Source",
+        "Web"
+      ],
+      "hot_score": 0.08
+    },
+    {
+      "title_en": "AI, Lean, and the Future of Formal Verification, with Lean Creator Leo de Moura",
+      "url": "https://thedataexchange.media/leo-de-moura-lean-aws/",
+      "title_zh": "AI、Lean 与形式验证的未来：对话 Lean 创造者 Leo de Moura",
+      "is_new": true,
+      "created_display": "Created: Oct 29, 2026 / 08:29 PT",
+      "image_url": "https://i0.wp.com/thedataexchange.media/wp-content/uploads/2026/10/Leo-de-Moura-art.001.jpeg?fit=1920%2C1080&ssl=1",
+      "summary_en": "Leo de Moura, creator of Lean and an AWS distinguished scientist, discusses how AI could make formal verification more accessible. The conversation covers specifications, machine-checked proofs, trust in AI-generated code and autonomous agents, and the prospect of a verified software stack. It also considers how these developments could affect mathematics and the careers of engineers and researchers.",
+      "summary_zh": "Lean 创造者、AWS 杰出科学家 Leo de Moura 讨论了 AI 如何让形式验证更易于使用。对话涉及规范、机器检查证明、如何信任 AI 生成的代码和自主代理，以及构建经过验证的软件栈的可能性。内容还讨论了这些发展对数学以及工程师和研究人员职业的影响。",
+      "hn": {
+        "id": 50290652,
+        "type": "story",
+        "by": "datascientist",
+        "score": 206,
+        "descendants": 50,
+        "time": 1793287788,
+        "comments_url": "https://news.ycombinator.com/item?id=50290652"
+      },
+      "tags": [
+        "AI",
+        "Programming"
+      ],
+      "hot_score": 0.08
+    },
+    {
+      "title_en": "Breaking the open web won't stop the bad bots",
+      "url": "https://www.techpolicy.press/breaking-the-open-web-wont-stop-the-bad-bots/",
+      "title_zh": "破坏开放网络并不能阻止恶意机器人",
+      "is_new": true,
+      "created_display": "Created: Oct 27, 2026 / 11:42 PT",
+      "image_url": "https://cdn.sanity.io/images/3tzzh18d/production/46070e9d00c44c7690c79155723ff59e5c1280fe-1200x675.png",
+      "summary_en": "The authors argue that policymakers should not treat anonymity itself as a problem. They acknowledge that AI developers’ automated crawling is depriving newsrooms of referral traffic and advertising revenue, but say the proposed Stealth Bot Prohibition Act would require automatic identification from anyone accessing a website. In their view, that approach fails to target abusive crawling and threatens a basic tool used to gather public information.",
+      "summary_zh": "作者认为，政策制定者不应把匿名本身视为问题。他们承认，AI 开发者的自动抓取正在让新闻编辑室失去引荐流量和广告收入，但指出拟议的《隐形机器人禁令法》会要求所有自动访问网站的人表明身份及用途。在作者看来，这种做法没有直接针对滥用式抓取，反而会威胁人们获取公开信息的基本工具。",
+      "hn": {
+        "id": 50263837,
+        "type": "story",
+        "by": "raybb",
+        "score": 323,
+        "descendants": 144,
+        "time": 1793126575,
+        "comments_url": "https://news.ycombinator.com/item?id=50263837"
+      },
+      "tags": [
+        "Web",
+        "Politics",
+        "AI",
+        "Business"
+      ],
+      "hot_score": 0.06
+    },
+    {
+      "title_en": "Sleep framework: A new way for LLMs to retain knowledge in continual learning",
+      "url": "https://research.google/blog/the-sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-continual-learning/",
+      "title_zh": "Sleep 框架：让大语言模型在持续学习中保留知识的新方法",
+      "is_new": true,
+      "created_display": "Created: Oct 28, 2026 / 05:24 PT",
+      "image_url": "https://storage.googleapis.com/gweb-research2023-media/images/HO_previewImage1.width-800.format-jpeg.jpg",
+      "summary_en": "The Sleep framework proposes a new approach for helping large language models retain knowledge during continual learning. It is presented as a research framework for addressing knowledge retention as models learn over time.",
+      "summary_zh": "Sleep 框架提出了一种帮助大语言模型在持续学习过程中保留知识的新方法。该框架旨在解决模型随时间学习时的知识保留问题。",
+      "hn": {
+        "id": 50272479,
+        "type": "story",
+        "by": "acossta",
+        "score": 259,
+        "descendants": 45,
+        "time": 1793190265,
+        "comments_url": "https://news.ycombinator.com/item?id=50272479"
+      },
+      "tags": [
+        "AI"
+      ],
+      "hot_score": 0.06
+    },
+    {
+      "title_en": "I'm so bad at billiards that I ended up in the hyperbolic plane [video]",
+      "url": "https://www.youtube.com/watch?v=kL9BTbIGxLg",
+      "title_zh": "桌球技太差，竟然走进了双曲平面 [视频]",
+      "is_new": true,
+      "created_display": "Created: Oct 28, 2026 / 06:20 PT",
+      "image_url": null,
+      "summary_en": "A playful video exploring billiard trajectories in hyperbolic geometry, turning a clumsy game into a visual tour of non-Euclidean space. It demonstrates how curvature reshapes reflections and paths, offering a memorable math insight.",
+      "summary_zh": "这段有趣的视频用桌球演示双曲几何中的轨迹，将挫败的游戏经历变成直观的非欧几里得几何之旅。曲率改变反射与路径，提供耐人深思的数学洞见。",
+      "hn": {
+        "id": 50273104,
+        "type": "story",
+        "by": "surprisetalk",
+        "score": 253,
+        "descendants": 39,
+        "time": 1793193605,
+        "comments_url": "https://news.ycombinator.com/item?id=50273104"
+      },
+      "tags": [
+        "Science"
+      ],
+      "hot_score": 0.06
+    },
+    {
+      "title_en": "Astroterm: A Planetarium for Your Terminal",
+      "url": "https://github.com/da-luce/astroterm",
+      "title_zh": "Astroterm：让你的终端成为行星仪",
+      "is_new": true,
+      "created_display": "Created: Oct 28, 2026 / 01:29 PT",
+      "image_url": "https://repository-images.githubusercontent.com/654385890/b51266d0-13c6-4262-b65e-82c56fe8f917",
+      "summary_en": "Astroterm is a terminal-based planetarium that renders sky maps and astronomical data directly in your shell. It brings rich visualization to environments without a full GUI, making it a handy tool for quick stargazing and education.",
+      "summary_zh": "Astroterm 将星空投影带入终端，直接在外壳中渲染天图与星历数据。即使在无完整图形界面的环境下，也能进行直观的天文可视化，适合快速观星与学习。",
+      "hn": {
+        "id": 50270651,
+        "type": "story",
+        "by": "nvmdbljstm",
+        "score": 244,
+        "descendants": 28,
+        "time": 1793176195,
+        "comments_url": "https://news.ycombinator.com/item?id=50270651"
+      },
+      "tags": [
+        "Open Source",
+        "Science",
+        "Education"
+      ],
+      "hot_score": 0.05
+    },
+    {
+      "title_en": "Simple circuits can create complex behaviors",
+      "url": "https://aatishb.com/myriad/lets-build-a-brain/",
+      "title_zh": "简单电路也能产生复杂行为",
+      "is_new": true,
+      "created_display": "Created: Oct 27, 2026 / 09:01 PT",
+      "image_url": "https://aatishb.com/myriad/promo_behaviors.jpeg",
+      "summary_en": "The piece asks how collections of neurons produce complex behavior. It uses examples such as beavers building dams, songbirds singing, spiders building webs, and people reading to frame the question. These behaviors are described as being orchestrated by neurons firing in the brain.",
+      "summary_zh": "文章提出了一个问题：神经元集合如何产生复杂行为。它以海狸筑坝、鸣禽歌唱、蜘蛛结网和人类阅读等例子引出这一问题。这些行为被描述为由大脑中不断放电的神经元协调产生。",
+      "hn": {
+        "id": 50261253,
+        "type": "story",
+        "by": "aatish",
+        "score": 253,
+        "descendants": 78,
+        "time": 1793116866,
+        "comments_url": "https://news.ycombinator.com/item?id=50261253"
+      },
+      "tags": [
+        "Science"
+      ],
+      "hot_score": 0.04
+    },
+    {
+      "title_en": "Gilgamesh by Simon Armitage review – an ancient epic is brilliantly translated",
+      "url": "https://www.theguardian.com/books/2026/oct/20/gilgamesh-by-simon-armitage-review-an-ancient-epic-is-brilliantly-translated-for-our-times",
+      "title_zh": "Gilgamesh by Simon Armitage 评析——古代史诗的出色翻译",
+      "is_new": true,
+      "created_display": "Created: Oct 27, 2026 / 10:54 PT",
+      "image_url": "https://i.guim.co.uk/img/media/9ec1524fc8b8cd5d35a8b5de58165ae2173b5ca7/73_590_3979_3184/master/3979.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2ee6dd59c8aabb5ef785ecd735453230",
+      "summary_en": "Simon Armitage's translation of Gilgamesh is praised for its vivid modern sensibility and rhythmic fidelity, reviving an ancient epic for contemporary readers. The review notes how the verse carries awe and moral texture across time while staying accessible.",
+      "summary_zh": "西蒙·阿米蒂奇对《吉尔伽美什》的翻译被赞誉为兼具现代感与韵律的忠实再现，为当代读者重新点燃这部古老史诗的魅力。评论指出译文在传达敬畏与道德质地方面保持跨时的力量，同时仍然易于阅读。",
+      "hn": {
+        "id": 50263127,
+        "type": "story",
+        "by": "benbreen",
+        "score": 215,
+        "descendants": 57,
+        "time": 1793123697,
+        "comments_url": "https://news.ycombinator.com/item?id=50263127"
+      },
+      "tags": [
+        "Culture"
+      ],
+      "hot_score": 0.04
+    },
+    {
+      "title_en": "Show HN: Marelleo, an open-source story box I built for my kids using ESP32",
+      "url": "https://zebra.rodeo/en/blog/marelleo/",
+      "title_zh": "Show HN：Marelleo——我用 ESP32 为孩子制作的开源故事盒",
+      "is_new": true,
+      "created_display": "Created: Oct 27, 2026 / 08:24 PT",
+      "image_url": "https://zebra.rodeo/assets/images/marelleo/og.jpg",
+      "summary_en": "Marelleo is a box that starts playing a story when a child places a figurine on top and stops when the figurine is removed. The creator built it for three children despite having no prior electronics experience, learning through breadboards, failed components, multiple enclosures, and a custom printed board. The design was inspired by the simple interaction of the Toniebox.",
+      "summary_zh": "Marelleo 是一个故事盒：孩子把 figurine 放在盒子顶部就会开始播放故事，拿走后便停止。创作者此前不懂电子技术，却为自己的三个孩子制作了它，并在面包板、烧坏的电位器、多个外壳和定制电路板的反复试错中完成学习。这一设计受到 Toniebox 简单交互方式的启发。",
+      "hn": {
+        "id": 50260753,
+        "type": "story",
+        "by": "foOg",
+        "score": 189,
+        "descendants": 49,
+        "time": 1793114676,
+        "comments_url": "https://news.ycombinator.com/item?id=50260753"
+      },
+      "tags": [
+        "Show HN",
+        "Hardware",
+        "Open Source"
+      ],
+      "hot_score": 0.03
+    }
+  ]
+}

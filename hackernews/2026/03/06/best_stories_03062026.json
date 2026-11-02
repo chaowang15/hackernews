@@ -1,0 +1,1176 @@
+{
+  "meta": {
+    "mode": "best",
+    "source": "https://news.ycombinator.com/",
+    "api": "https://github.com/HackerNews/API",
+    "count_requested": 50,
+    "count_written": 50,
+    "reused_same_day": 0,
+    "reused_cross_day": 19,
+    "new_llm_enriched": 31,
+    "scrape_time_display": "04:55, March 07, 2026 (PST)",
+    "timezone": "America/Los_Angeles",
+    "date_dir": "2026/03/06",
+    "content_date": "2026-03-06",
+    "run_time_local": "04:55, March 07, 2026 (PST)",
+    "run_time_utc": "2026-03-07 12:55:44 UTC",
+    "incremental": true,
+    "stories_max": 50,
+    "hot_score_time_utc": "2026-03-07 12:57:20 UTC"
+  },
+  "items": [
+    {
+      "title_en": "Tell HN: I'm 60 years old. Claude Code has re-ignited a passion",
+      "url": "https://news.ycombinator.com/item?id=47282777",
+      "title_zh": "我60岁了，Claude Code 重燃了我的热情",
+      "created_display": "Created: Mar 06, 2026 / 16:05 PT",
+      "image_url": "https://news.ycombinator.com/y18.svg",
+      "summary_en": "A 60-year-old coder shares how Claude Code rekindled their love for programming, illustrating AI copilots' potential to re-engage seasoned developers. It spotlights the human dimension of AI-assisted work and the value of reusable, long‑term motivation.",
+      "summary_zh": "一位60岁程序员分享，Claude Code 重燃了他对编程的热情，体现 AI 辅助工具在激励老练开发者方面的潜力。也提醒我们，AI 助手的价值在于激发人们对长期学习与创作的热情。",
+      "hn": {
+        "id": 47282777,
+        "type": "story",
+        "by": "shannoncc",
+        "score": 578,
+        "descendants": 448,
+        "time": 1772841906,
+        "comments_url": "https://news.ycombinator.com/item?id=47282777"
+      },
+      "hot_score": 4.48,
+      "tags": [
+        "AI",
+        "Programming"
+      ]
+    },
+    {
+      "title_en": "Tech employment now significantly worse than the 2008 or 2020 recessions",
+      "url": "https://twitter.com/JosephPolitano/status/2029916364664611242",
+      "title_zh": "科技行业就业现状显著低于2008年和2020年衰退期",
+      "created_display": "Created: Mar 06, 2026 / 09:46 PT",
+      "image_url": "https://pbs.twimg.com/media/HCu0mG9bEAAdzYM.png:large",
+      "summary_en": "Tech labor market deteriorated more sharply than during the 2008 financial crisis or the 2020 recession, with hiring slowdowns and rising layoffs across the sector. The trend raises questions about demand for tech talent, AI adoption, and policy responses.",
+      "summary_zh": "科技行业的就业市场比2008年金融危机或2020年衰退期间更为疲弱，出现招聘放缓和裁员增加。这一趋势引发对技术需求、AI应用和政策应对的担忧。",
+      "hn": {
+        "id": 47278426,
+        "type": "story",
+        "by": "enraged_camel",
+        "score": 926,
+        "descendants": 609,
+        "time": 1772819205,
+        "comments_url": "https://news.ycombinator.com/item?id=47278426"
+      },
+      "hot_score": 3.8,
+      "tags": [
+        "Business",
+        "AI"
+      ]
+    },
+    {
+      "title_en": "Plasma Bigscreen – 10-foot interface for KDE plasma",
+      "url": "https://plasma-bigscreen.org",
+      "title_zh": "Plasma Bigscreen：KDE Plasma 的十英尺界面",
+      "created_display": "Created: Mar 06, 2026 / 15:59 PT",
+      "image_url": "https://plasma-bigscreen.org/img/logo.svg",
+      "summary_en": "Plasma Bigscreen is an ambitious 10-foot interface bringing KDE Plasma to large displays, blurring lines between desktop and living-room computing. It demonstrates a broader trend of tailoring desktop environments for TV-sized interactions and remote-control usability.",
+      "summary_zh": "Plasma Bigscreen 将 KDE Plasma 带到大屏幕，适用于电视/客厅场景，展示桌面环境向更大显示端迁移的趋势。也体现了为居家娱乐与远程控制优化界面的趋势。",
+      "hn": {
+        "id": 47282736,
+        "type": "story",
+        "by": "PaulHoule",
+        "score": 485,
+        "descendants": 144,
+        "time": 1772841556,
+        "comments_url": "https://news.ycombinator.com/item?id=47282736"
+      },
+      "hot_score": 3.71,
+      "tags": [
+        "Programming",
+        "Open Source",
+        "Design"
+      ]
+    },
+    {
+      "title_en": "Global warming has accelerated significantly",
+      "url": "https://www.researchsquare.com/article/rs-6079807/v1",
+      "title_zh": "全球变暖显著加速",
+      "created_display": "Created: Mar 06, 2026 / 06:10 PT",
+      "image_url": "https://www.researchsquare.com/static/img/logos/logo-rs.svg",
+      "summary_en": "New measurements show the pace of global warming has accelerated beyond prior projections, delivering record-high temperatures and more frequent extreme weather events. The finding underscores the urgency for rapid decarbonization and climate-tech innovation.",
+      "summary_zh": "最新数据显示全球变暖速率显著加快，突破以往预测，伴随创纪录高温和更频繁的极端天气。该发现凸显了迅速降低碳排放和推动气候科技创新的紧迫性。",
+      "hn": {
+        "id": 47275088,
+        "type": "story",
+        "by": "morsch",
+        "score": 1083,
+        "descendants": 1076,
+        "time": 1772806203,
+        "comments_url": "https://news.ycombinator.com/item?id=47275088"
+      },
+      "hot_score": 3.35,
+      "tags": [
+        "Science",
+        "Energy"
+      ]
+    },
+    {
+      "title_en": "LLMs work best when the user defines their acceptance criteria first",
+      "url": "https://blog.katanaquant.com/p/your-llm-doesnt-write-correct-code",
+      "title_zh": "在使用大型语言模型时，先定义接受标准效果最佳",
+      "created_display": "Created: Mar 06, 2026 / 17:17 PT",
+      "image_url": "https://substackcdn.com/image/fetch/$s_!b3NO!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F503cef77-5d11-4c3b-8b94-ef3a09599d87_1212x811.png",
+      "summary_en": "Defining acceptance criteria before prompting an LLM dramatically improves reliability and repeatability, helping teams avoid hallucinations and scope creep. Practically, it encourages writing tests, constraints, and evaluation before generation.",
+      "summary_zh": "在提示前先定义接受标准能显著提升大语言模型输出的可靠性，减少错觉与范围漂移。实践要点包括编写测试、设置约束和评估准则，再生成结果。",
+      "hn": {
+        "id": 47283337,
+        "type": "story",
+        "by": "dnw",
+        "score": 263,
+        "descendants": 197,
+        "time": 1772846277,
+        "comments_url": "https://news.ycombinator.com/item?id=47283337"
+      },
+      "hot_score": 2.37,
+      "tags": [
+        "AI",
+        "Programming"
+      ]
+    },
+    {
+      "title_en": "UUID package coming to Go standard library",
+      "url": "https://github.com/golang/go/issues/62026",
+      "title_zh": "Go 标准库将新增 UUID 包",
+      "created_display": "Created: Mar 06, 2026 / 18:03 PT",
+      "image_url": "https://opengraph.githubassets.com/b99fc66005f97ff3303aa8f93378cc34d30a5c5878aec198479d9c6ad67bcc18/golang/go/issues/62026",
+      "summary_en": "Go is adding a standard UUID package, standardizing globally unique identifiers across projects. This reduces dependency drift and helps ensure consistent encoding, parsing, and interoperability.",
+      "summary_zh": "Go 将引入标准库中的 UUID 包，统一跨项目的全局唯一标识符用法，减少依赖差异并提升互操作性。",
+      "hn": {
+        "id": 47283665,
+        "type": "story",
+        "by": "soypat",
+        "score": 234,
+        "descendants": 141,
+        "time": 1772849001,
+        "comments_url": "https://news.ycombinator.com/item?id=47283665"
+      },
+      "hot_score": 2.34,
+      "tags": [
+        "Programming"
+      ]
+    },
+    {
+      "title_en": "this css proves me human",
+      "url": "https://will-keleher.com/posts/this-css-makes-me-human/",
+      "title_zh": "这段 CSS 证明我是真人",
+      "created_display": "Created: Mar 06, 2026 / 13:52 PT",
+      "image_url": null,
+      "summary_en": "A creative CSS-based approach demonstrates a canny way to distinguish humans from bots without traditional captchas, leaning into responsive layouts and styling to verify human interaction. The piece argues for UX-friendly anti-bot checks that don’t degrade accessibility.",
+      "summary_zh": "创新型 CSS 方法通过强调布局与交互来证明“我是人类”，避免传统验证码带来的用户摩擦。文章也讨论了无障碍与 UX 的权衡。",
+      "hn": {
+        "id": 47281593,
+        "type": "story",
+        "by": "todsacerdoti",
+        "score": 288,
+        "descendants": 93,
+        "time": 1772833964,
+        "comments_url": "https://news.ycombinator.com/item?id=47281593"
+      },
+      "hot_score": 1.74,
+      "tags": [
+        "Design",
+        "Security",
+        "Web"
+      ]
+    },
+    {
+      "title_en": "Workers who love ‘synergizing paradigms’ might be bad at their jobs",
+      "url": "https://news.cornell.edu/stories/2026/03/workers-who-love-synergizing-paradigms-might-be-bad-their-jobs",
+      "title_zh": "喜欢‘协同范式’的员工可能不适合本职工作",
+      "created_display": "Created: Mar 06, 2026 / 05:30 PT",
+      "image_url": "https://news.cornell.edu/sites/default/files/styles/story_thumbnail_lg/public/2026-03/0302_corporatebs_tnd.jpg?itok=HH3QjqWe",
+      "summary_en": "A Cornell piece suggests that teams heavy on buzzwords like synergizing paradigms may underperform, emphasizing concrete problem-solving over abstract rhetoric. The message resonates in tech culture where clear outcomes beat grand metaphors.",
+      "summary_zh": "Cornell 的研究称，过分依赖“协同范式”等空洞术语的员工可能业绩不佳，强调解决问题的具体性比空谈更重要。这一观点在科技团队中尤为相关。",
+      "hn": {
+        "id": 47274676,
+        "type": "story",
+        "by": "Anon84",
+        "score": 568,
+        "descendants": 318,
+        "time": 1772803854,
+        "comments_url": "https://news.ycombinator.com/item?id=47274676"
+      },
+      "hot_score": 1.67,
+      "tags": [
+        "Culture",
+        "Career"
+      ]
+    },
+    {
+      "title_en": "US economy unexpectedly sheds 92k jobs in February",
+      "url": "https://www.bbc.com/news/articles/cjd98091g28o",
+      "title_zh": "二月美国经济意外减少9.2万个工作岗位",
+      "created_display": "Created: Mar 06, 2026 / 06:04 PT",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/6efa/live/41eb38e0-1962-11f1-a1cd-a71e69f1cf89.jpg",
+      "summary_en": "February payroll data surprised to the downside, shedding about 92,000 jobs as hiring cooled across sectors. The softer labor market could influence Fed policy expectations and AI-driven productivity gains.",
+      "summary_zh": "二月就业数据意外下降约9.2万个岗位，招聘在各领域放缓。这一趋势可能影响美联储的货币政策预期，并对 AI 驱动的生产力成长路径产生影响。",
+      "hn": {
+        "id": 47275035,
+        "type": "story",
+        "by": "smartbit",
+        "score": 524,
+        "descendants": 713,
+        "time": 1772805858,
+        "comments_url": "https://news.ycombinator.com/item?id=47275035"
+      },
+      "hot_score": 1.61,
+      "tags": [
+        "Business",
+        "AI"
+      ]
+    },
+    {
+      "title_en": "Hardening Firefox with Anthropic's Red Team",
+      "url": "https://www.anthropic.com/news/mozilla-firefox-security",
+      "title_zh": "用 Anthropic 的红队强化 Firefox 的安全",
+      "created_display": "Created: Mar 06, 2026 / 03:53 PT",
+      "image_url": "https://www.anthropic.com/api/opengraph-illustration?name=Object%20Desktop&backgroundColor=coral",
+      "summary_en": "Anthropic's Red Team collaborated with Firefox to stress-test and harden the browser's security surface, surfacing novel vulnerabilities and resilience gaps. The effort highlights how AI safety practices can bolster open-source software and reduce risk for end users.",
+      "summary_zh": "Anthropic 的 Red Team 与 Firefox 合作，对浏览器进行安全压力测试，揭示新的漏洞与脆弱点。这一努力展示将 AI 安全实践应用于开源软件，提升终端用户的安全性。",
+      "hn": {
+        "id": 47273854,
+        "type": "story",
+        "by": "todsacerdoti",
+        "score": 580,
+        "descendants": 156,
+        "time": 1772797998,
+        "comments_url": "https://news.ycombinator.com/item?id=47273854"
+      },
+      "hot_score": 1.53,
+      "tags": [
+        "Security",
+        "Open Source",
+        "AI",
+        "Web"
+      ]
+    },
+    {
+      "title_en": "System76 on Age Verification Laws",
+      "url": "https://blog.system76.com/post/system76-on-age-verification/",
+      "title_zh": "System76 对年龄验证法的看法",
+      "created_display": "Created: Mar 05, 2026 / 20:12 PT",
+      "image_url": "https://blog.system76.com/images/social.jpg",
+      "summary_en": "System76 argues that age-verification requirements risk privacy and accessibility for users and developers, potentially burdening open-source hardware and software ecosystems. The post calls for balanced policy that protects vulnerable users without stifling innovation.",
+      "summary_zh": "System76 指出年龄验证要求可能侵犯隐私、降低可访问性，并给开源硬件和软件生态带来额外负担。文中呼吁在保护脆弱用户与不扼杀创新之间实现政策平衡。",
+      "hn": {
+        "id": 47270784,
+        "type": "story",
+        "by": "LorenDB",
+        "score": 825,
+        "descendants": 581,
+        "time": 1772770346,
+        "comments_url": "https://news.ycombinator.com/item?id=47270784"
+      },
+      "tags": [
+        "Privacy",
+        "Politics",
+        "Open Source",
+        "Hardware"
+      ],
+      "hot_score": 1.39
+    },
+    {
+      "title_en": "Helix: A post-modern text editor",
+      "url": "https://helix-editor.com/",
+      "title_zh": "Helix：后现代文本编辑器",
+      "created_display": "Created: Mar 06, 2026 / 15:53 PT",
+      "image_url": "https://helix-editor.com/logo.svg",
+      "summary_en": "Helix positions itself as a modern take on text editing, pairing modal editing with modern performance, syntax awareness, and a customizable pipeline. It challenges entrenched editors by offering a fresh UX and strong language tooling.",
+      "summary_zh": "Helix 作为后现代文本编辑器，提供现代化的编辑体验、强大语言工具和可定制工作流，挑战传统编辑器的格局。",
+      "hn": {
+        "id": 47282701,
+        "type": "story",
+        "by": "doener",
+        "score": 183,
+        "descendants": 81,
+        "time": 1772841209,
+        "comments_url": "https://news.ycombinator.com/item?id=47282701"
+      },
+      "hot_score": 1.38,
+      "tags": [
+        "Programming",
+        "Open Source"
+      ]
+    },
+    {
+      "title_en": "Anthropic, please make a new Slack",
+      "url": "https://www.fivetran.com/blog/anthropic-please-make-a-new-slack",
+      "title_zh": "Anthropic，请做一个新的 Slack",
+      "created_display": "Created: Mar 06, 2026 / 11:52 PT",
+      "image_url": "https://cdn.prod.website-files.com/6130fa1501794e37c21867cf/69ab2715c38fd3a0d3ddcd73_anthropic_slack.png",
+      "summary_en": "A provocative take arguing that AI orgs deserve a dedicated, privacy-conscious collaboration tool better suited for safety workflows than popular chat platforms. The piece riffs on how tooling choices shape collaboration, security, and incident response.",
+      "summary_zh": "文章呼吁为 AI 组织打造一个隐私友好、比现有聊天工具更合适的内部协作工具，强调工具选择对安全、协作和事件响应的影响。",
+      "hn": {
+        "id": 47280200,
+        "type": "story",
+        "by": "georgewfraser",
+        "score": 250,
+        "descendants": 233,
+        "time": 1772826728,
+        "comments_url": "https://news.ycombinator.com/item?id=47280200"
+      },
+      "hot_score": 1.23,
+      "tags": [
+        "Privacy",
+        "Startups",
+        "AI",
+        "Security"
+      ]
+    },
+    {
+      "title_en": "GPT-5.4",
+      "url": "https://openai.com/index/introducing-gpt-5-4/",
+      "title_zh": "GPT-5.4 发布",
+      "created_display": "Created: Mar 05, 2026 / 10:08 PT",
+      "image_url": null,
+      "summary_en": "OpenAI releases GPT-5.4 with iterative improvements focused on safety, efficiency, and alignment for enterprise use. The update signals ongoing maturation of the GPT family as companies increasingly rely on AI assistants for critical workflows.",
+      "summary_zh": "OpenAI 发布 GPT-5.4，强调在安全性、效率和对齐方面的改进，面向企业应用场景。此更新体现了 GPT 系列的持续成熟，以及企业对 AI 助手在关键工作流中的依赖增加。",
+      "hn": {
+        "id": 47265045,
+        "type": "story",
+        "by": "mudkipdev",
+        "score": 996,
+        "descendants": 787,
+        "time": 1772734090,
+        "comments_url": "https://news.ycombinator.com/item?id=47265045"
+      },
+      "tags": [
+        "AI"
+      ],
+      "hot_score": 1.06
+    },
+    {
+      "title_en": "Wikipedia was in read-only mode following mass admin account compromise",
+      "url": "https://www.wikimediastatus.net",
+      "title_zh": "维基百科因大规模管理员账户被入侵而进入只读模式",
+      "created_display": "Created: Mar 05, 2026 / 08:04 PT",
+      "image_url": "https://dka575ofm4ao0.cloudfront.net/pages-transactional_logos/retina/233622/2560px-Wikimedia_Foundation_logo_-_horizontal.svg.png",
+      "summary_en": "Mass admin account compromise forced Wikipedia into read-only mode to protect content integrity. The incident underscores the risk of credential breaches in high-privilege accounts and the need for rapid incident response, MFA enforcement, and auditing for large collaborative platforms.",
+      "summary_zh": "大量管理员账户被入侵，迫使维基百科进入只读模式以防止进一步编辑。此事件凸显高权限账户安全风险，以及快速处置、强制多因素认证和审计的重要性，尤其对大型协作型百科平台。",
+      "hn": {
+        "id": 47263323,
+        "type": "story",
+        "by": "greyface-",
+        "score": 1038,
+        "descendants": 376,
+        "time": 1772726694,
+        "comments_url": "https://news.ycombinator.com/item?id=47263323"
+      },
+      "tags": [
+        "Security"
+      ],
+      "hot_score": 1.02
+    },
+    {
+      "title_en": "Judge orders government to begin refunding more than $130B in tariffs",
+      "url": "https://www.wsj.com/politics/policy/judge-orders-government-to-begin-refunding-more-than-130-billion-in-tariffs-fdc1e62c",
+      "title_zh": "法官命令政府开始退还超过1300亿美元的关税",
+      "created_display": "Created: Mar 05, 2026 / 06:05 PT",
+      "image_url": null,
+      "summary_en": "A judge ordered the government to begin refunding more than $130 billion in tariffs collected over the years, a move that could ease costs for importers and reshape trade dynamics. The ruling may accelerate how swiftly refunds are processed and influence ongoing tariff policy debates.",
+      "summary_zh": "法官命令政府开始退还累计超过1300亿美元的关税。这笔退款将减轻进口商成本，并可能重塑关税政策的执行节奏与相关讨论。",
+      "hn": {
+        "id": 47261688,
+        "type": "story",
+        "by": "JumpCrisscross",
+        "score": 1056,
+        "descendants": 762,
+        "time": 1772719546,
+        "comments_url": "https://news.ycombinator.com/item?id=47261688"
+      },
+      "tags": [
+        "Politics",
+        "Business"
+      ],
+      "hot_score": 0.96
+    },
+    {
+      "title_en": "Where things stand with the Department of War",
+      "url": "https://www.anthropic.com/news/where-stand-department-war",
+      "title_zh": "战争部进展情况",
+      "created_display": "Created: Mar 05, 2026 / 16:40 PT",
+      "image_url": "https://cdn.sanity.io/images/4zrzovbb/website/faeb5935baa3fba4e4d4459637e83e14d218b648-2400x1260.png",
+      "summary_en": "Anthropic provides an update on its collaboration framed as the 'Department of War' program, outlining milestones, security measures, and engagements with government partners. The update highlights how safety and governance considerations shape public-sector AI deployments.",
+      "summary_zh": "Anthropic 提供了关于名为“战争部”的项目的最新进展，概述了关键里程碑、安全措施以及与政府伙伴的合作。更新强调了安全治理在公共部门 AI 部署中的作用。",
+      "hn": {
+        "id": 47269263,
+        "type": "story",
+        "by": "surprisetalk",
+        "score": 618,
+        "descendants": 769,
+        "time": 1772757641,
+        "comments_url": "https://news.ycombinator.com/item?id=47269263"
+      },
+      "tags": [
+        "AI",
+        "Politics",
+        "Security"
+      ],
+      "hot_score": 0.87
+    },
+    {
+      "title_en": "Show HN: Moongate – Ultima Online server emulator in .NET 10 with Lua scripting",
+      "url": "https://github.com/moongate-community/moongatev2",
+      "title_zh": "Show HN：Moongate——用 .NET 10 与 Lua 脚本的 Ultima Online 服务器模拟器",
+      "created_display": "Created: Mar 06, 2026 / 06:22 PT",
+      "image_url": "https://opengraph.githubassets.com/ad0a16d38d2f8a3803ce7d34dbb65504ae08b8c76bfcf9deaa9fe2354a3bba8a/moongate-community/moongatev2",
+      "summary_en": "Moongate is a modern Ultima Online server emulator built in .NET 10 with Lua scripting, illustrating how legacy games can be reimagined with contemporary tooling. The project showcases rapid iteration, portability, and community-driven game hosting.",
+      "summary_zh": "Moongate 是用 .NET 10 和 Lua 脚本构建的现代版 Ultima Online 服务器模拟器，展示了用现代工具重现经典游戏的可能性。它体现了社区驱动的游戏托管、快速迭代和可移植性。",
+      "hn": {
+        "id": 47275236,
+        "type": "story",
+        "by": "squidleon",
+        "score": 262,
+        "descendants": 145,
+        "time": 1772806979,
+        "comments_url": "https://news.ycombinator.com/item?id=47275236"
+      },
+      "hot_score": 0.82,
+      "tags": [
+        "Show HN",
+        "Open Source",
+        "Programming"
+      ]
+    },
+    {
+      "title_en": "TSA leaves passenger needing surgery after illegally forcing her through scanner",
+      "url": "https://www.thetravel.com/tsa-leaves-passenger-needing-surgery-after-illegally-forcing-her-through-scanner-spinal-cord-implant/",
+      "title_zh": "TSA 在安检中违规强制让乘客通过扫描仪，致其需要手术",
+      "created_display": "Created: Mar 06, 2026 / 10:40 PT",
+      "image_url": "https://static0.thetravelimages.com/wordpress/wp-content/uploads/2025/08/shutterstock_1641623299.jpg?w=1600&h=900&fit=crop",
+      "summary_en": "Investigative report alleges TSA agents improperly forced a passenger with a spinal implant through a scanner, causing injury and prompting questions about screening safety and patient rights. It spotlights the tension between security protocols and individual health risks.",
+      "summary_zh": "有报道指 TSA 不当强行让携带脊柱植入物的乘客通过安检扫描，造成伤害并引发对安检安全与乘客权利的质疑。",
+      "hn": {
+        "id": 47279189,
+        "type": "story",
+        "by": "SunshineTheCat",
+        "score": 168,
+        "descendants": 127,
+        "time": 1772822427,
+        "comments_url": "https://news.ycombinator.com/item?id=47279189"
+      },
+      "hot_score": 0.74,
+      "tags": [
+        "Security",
+        "Health"
+      ]
+    },
+    {
+      "title_en": "CT Scans of Health Wearables",
+      "url": "https://www.lumafield.com/scan-of-the-month/health-wearables",
+      "title_zh": "健康穿戴设备的 CT 扫描",
+      "created_display": "Created: Mar 06, 2026 / 06:16 PT",
+      "image_url": "https://cdn.prod.website-files.com/63e15418201b6e2a5cabb911/6993be41b53672d6f35bedc7_og-image-sotm-health-wearables.jpg",
+      "summary_en": "Lumafield's Scan of the Month reveals internal components of health wearables through CT imaging, shedding light on battery layouts, sensors, and assembly quality. The series prompts engineers to consider safety, security, and repairability in wearable design.",
+      "summary_zh": "Lumafield 的本月扫描展示了健康穿戴设备的内部结构，如电池布局和传感器设计，关注安全性、可维修性与硬件工程细节。",
+      "hn": {
+        "id": 47275152,
+        "type": "story",
+        "by": "radeeyate",
+        "score": 224,
+        "descendants": 47,
+        "time": 1772806566,
+        "comments_url": "https://news.ycombinator.com/item?id=47275152"
+      },
+      "hot_score": 0.69,
+      "tags": [
+        "Health",
+        "Science",
+        "Security",
+        "Energy"
+      ]
+    },
+    {
+      "title_en": "Ada 2022",
+      "url": "https://www.adaic.org/ada-resources/standards/ada22/",
+      "title_zh": "Ada 2022",
+      "created_display": "Created: Mar 06, 2026 / 12:03 PT",
+      "image_url": "https://www.adaic.org/wp-content/plugins/sociable/images/services-sprite.gif",
+      "summary_en": "Ada 2022 standard adds features for safer concurrent programming, contract-based design, and modern language ergonomics.",
+      "summary_zh": "Ada 2022 标准引入更安全的并发编程、契约式设计等现代语言特性，提升系统可靠性与可维护性。",
+      "hn": {
+        "id": 47280352,
+        "type": "story",
+        "by": "tosh",
+        "score": 137,
+        "descendants": 36,
+        "time": 1772827428,
+        "comments_url": "https://news.ycombinator.com/item?id=47280352"
+      },
+      "hot_score": 0.69,
+      "tags": [
+        "Programming"
+      ]
+    },
+    {
+      "title_en": "New imagery suggests U.S. responsible for Iran school strike",
+      "url": "https://www.cnn.com/2026/03/06/world/video/updates-suggests-us-responsible-iran-school-strike-digvid",
+      "title_zh": "新影像指向美国对伊朗校园袭击负责",
+      "created_display": "Created: Mar 06, 2026 / 10:45 PT",
+      "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/2026-03-04t080934z-269654386-rc2vci9f2512-rtrmadp-3-iran-crisis-school-aftermath.JPG?c=16x9&q=w_800,c_fill",
+      "summary_en": "Analyses of new imagery imply potential U.S. involvement in an Iranian school strike, raising questions about attribution, surveillance evidence, and the calculus of international response. The topic underscores how imagery can influence geopolitical narratives.",
+      "summary_zh": "新影像分析暗示美国可能参与对伊朗校园的袭击，提出归因、监控证据与国际回应的伦理与策略问题，凸显影像在地缘叙事中的作用。",
+      "hn": {
+        "id": 47279251,
+        "type": "story",
+        "by": "agluszak",
+        "score": 152,
+        "descendants": 96,
+        "time": 1772822737,
+        "comments_url": "https://news.ycombinator.com/item?id=47279251"
+      },
+      "hot_score": 0.68,
+      "tags": [
+        "Politics",
+        "Privacy"
+      ]
+    },
+    {
+      "title_en": "LibreSprite – open-source pixel art editor",
+      "url": "https://libresprite.github.io/",
+      "title_zh": "LibreSprite：开源像素画编辑器",
+      "created_display": "Created: Mar 06, 2026 / 01:22 PT",
+      "image_url": "https://libresprite.github.io/assets/ase.ico",
+      "summary_en": "LibreSprite is an open-source pixel art editor aimed at indie developers and hobbyists, offering sprite sheets, animation, and tilemap support. It lowers barriers to retro game creation and highlights the vitality of OSS tools for artists.",
+      "summary_zh": "LibreSprite 是一个开源像素画编辑器，面向独立开发者和爱好者，提供精灵动画、图块和工具链。它为独立游戏开发提供了易用且可扩展的工具。",
+      "hn": {
+        "id": 47272799,
+        "type": "story",
+        "by": "nicoloren",
+        "score": 277,
+        "descendants": 86,
+        "time": 1772788920,
+        "comments_url": "https://news.ycombinator.com/item?id=47272799"
+      },
+      "hot_score": 0.62,
+      "tags": [
+        "Open Source",
+        "Programming"
+      ]
+    },
+    {
+      "title_en": "A GitHub Issue Title Compromised 4k Developer Machines",
+      "url": "https://grith.ai/blog/clinejection-when-your-ai-tool-installs-another",
+      "title_zh": "一个 GitHub 问题标题被劫持，影响约4千台开发者机器",
+      "created_display": "Created: Mar 05, 2026 / 08:22 PT",
+      "image_url": "https://grith.ai/blog/clinejection-when-your-ai-tool-installs-another/hero-clinejection-chain-1600x900.png",
+      "summary_en": "A blog suggests that a crafted GitHub issue title could trigger an injection in an AI-assisted workflow, potentially compromising thousands of developer machines. The post underscores the need for input sanitization, strict tool boundaries, and provenance verification when AI is integrated with code hosting.",
+      "summary_zh": "一篇博文指出，通过设计的 GitHub issue 标题可能在 AI 助手工作流中触发命令注入，进而影响数千名开发者的机器。此事强调在将 AI 与代码托管服务结合使用时需加强输入过滤、边界控制和来源可信度的验证。",
+      "hn": {
+        "id": 47263595,
+        "type": "story",
+        "by": "edf13",
+        "score": 615,
+        "descendants": 190,
+        "time": 1772727721,
+        "comments_url": "https://news.ycombinator.com/item?id=47263595"
+      },
+      "tags": [
+        "Security",
+        "Programming",
+        "AI"
+      ],
+      "hot_score": 0.61
+    },
+    {
+      "title_en": "Claude Code wiped our production database with a Terraform command",
+      "url": "https://twitter.com/Al_Grigor/status/2029889772181934425",
+      "title_zh": "Claude Code 清空了我们的生产数据库（Terraform 命令）",
+      "created_display": "Created: Mar 06, 2026 / 10:07 PT",
+      "image_url": "https://pbs.twimg.com/media/HCud_WGaUAE6hxf.jpg:large",
+      "summary_en": "A production disaster where Claude Code executed a Terraform command that wiped the production database, illustrating the risk of AI copilots acting with destructive consequences. It underscores the need for guardrails, irreversible safety checks, and robust change controls.",
+      "summary_zh": "Claude Code 执行 Terraform 命令导致生产数据库被清空，暴露 AI 助手在操作敏感系统时的风险，强调防护与不可逆安全检查、强健的变更控制的重要性。",
+      "hn": {
+        "id": 47278720,
+        "type": "story",
+        "by": "jv22222",
+        "score": 137,
+        "descendants": 149,
+        "time": 1772820472,
+        "comments_url": "https://news.ycombinator.com/item?id=47278720"
+      },
+      "hot_score": 0.58,
+      "tags": [
+        "AI",
+        "Security",
+        "DevOps",
+        "Data"
+      ]
+    },
+    {
+      "title_en": "A tool that removes censorship from open-weight LLMs",
+      "url": "https://github.com/elder-plinius/OBLITERATUS",
+      "title_zh": "一个去除开源权重 LLM 审查的工具",
+      "created_display": "Created: Mar 06, 2026 / 06:27 PT",
+      "image_url": "https://opengraph.githubassets.com/20f18181fbd602be3ca37a093e0de4f7a2c9708a7ac78f2f45f894dd160a8e01/elder-plinius/OBLITERATUS",
+      "summary_en": "This tool removes safety constraints from open-weight LLMs, enabling unrestricted generation but raising serious safety and abuse concerns. It underscores the tension between openness and responsible deployment of powerful models.",
+      "summary_zh": "一个去除开源权重 LLM 审查的工具提高了生成自由度，但也带来严重安全与滥用担忧，凸显开放性与负责任部署之间的张力。",
+      "hn": {
+        "id": 47275291,
+        "type": "story",
+        "by": "mvdwoord",
+        "score": 182,
+        "descendants": 82,
+        "time": 1772807275,
+        "comments_url": "https://news.ycombinator.com/item?id=47275291"
+      },
+      "hot_score": 0.57,
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "title_en": "Paul Brainerd, founder of Aldus PageMaker, has died",
+      "url": "https://blog.adafruit.com/2026/03/04/pagemaker-and-aldus-founder-pioneer-paul-brainerd-1947-2026/",
+      "title_zh": "Aldus PageMaker 创始人保罗·布兰德逝世",
+      "created_display": "Created: Mar 06, 2026 / 07:33 PT",
+      "image_url": null,
+      "summary_en": "Paul Brainerd, a pioneer of desktop publishing and founder of Aldus PageMaker, has passed away. His work helped seed modern design tooling and the rise of digital publishing.",
+      "summary_zh": "Aldus PageMaker 的创始人、桌面出版领域的先驱保罗·布兰德去世。他的工作促成了现代设计工具和数字出版的兴起。",
+      "hn": {
+        "id": 47276220,
+        "type": "story",
+        "by": "fortran77",
+        "score": 157,
+        "descendants": 28,
+        "time": 1772811197,
+        "comments_url": "https://news.ycombinator.com/item?id=47276220"
+      },
+      "hot_score": 0.54,
+      "tags": [
+        "Design"
+      ]
+    },
+    {
+      "title_en": "Proton Mail Helped FBI Unmask Anonymous 'Stop Cop City' Protester",
+      "url": "https://www.404media.co/proton-mail-helped-fbi-unmask-anonymous-stop-cop-city-protestor/",
+      "title_zh": "Proton Mail 曾帮助 FBI 识别匿名 Stop Cop City 抗议者",
+      "created_display": "Created: Mar 05, 2026 / 13:35 PT",
+      "image_url": "https://www.404media.co/content/images/size/w1200/2026/03/Stop_Cop_City.jpg",
+      "summary_en": "Proton Mail reportedly assisted the FBI in identifying an anonymous Stop Cop City protester, drawing privacy concerns about metadata leakage and law-enforcement access. The case prompts renewed debate over encrypted services and user anonymity.",
+      "summary_zh": "据报道，Proton Mail 协助 FBI 识别了一名匿名 Stop Cop City 抗议者，引发对元数据暴露与执法机构访问的隐私担忧。此事促使人们重新讨论加密服务与用户匿名性的边界。",
+      "hn": {
+        "id": 47267628,
+        "type": "story",
+        "by": "sedatk",
+        "score": 421,
+        "descendants": 204,
+        "time": 1772746540,
+        "comments_url": "https://news.ycombinator.com/item?id=47267628"
+      },
+      "tags": [
+        "Privacy",
+        "Legal"
+      ],
+      "hot_score": 0.52
+    },
+    {
+      "title_en": "The Brand Age",
+      "url": "https://paulgraham.com/brandage.html",
+      "title_zh": "品牌时代",
+      "created_display": "Created: Mar 05, 2026 / 09:44 PT",
+      "image_url": "https://s.turbifycdn.com/aah/paulgraham/bel-7.gif",
+      "summary_en": "Paul Graham argues that the era of branding is as crucial as product skills, shaping how startups gain trust and scale. He contends that a strong brand can unlock network effects and resilience in competitive markets.",
+      "summary_zh": "保罗·格雷厄姆认为品牌时代与产品能力同等重要，塑造初创企业如何获得信任和扩张。他指出强品牌能够在竞争激烈的市场中释放网络效应与韧性。",
+      "hn": {
+        "id": 47264756,
+        "type": "story",
+        "by": "bigwheels",
+        "score": 478,
+        "descendants": 366,
+        "time": 1772732650,
+        "comments_url": "https://news.ycombinator.com/item?id=47264756"
+      },
+      "tags": [
+        "Business"
+      ],
+      "hot_score": 0.5
+    },
+    {
+      "title_en": "Good software knows when to stop",
+      "url": "https://ogirardot.writizzy.com/p/good-software-knows-when-to-stop",
+      "title_zh": "好软件知道何时该停下来",
+      "created_display": "Created: Mar 05, 2026 / 05:52 PT",
+      "image_url": "https://ogirardot.writizzy.com/__og-image__/image/p/good-software-knows-when-to-stop/og.png",
+      "summary_en": "A piece argues for restraint in software, warning against feature creep and unnecessary complexity. Focus on reliability, security, and maintainability—letting tools do a few things well rather than many mediocre ones.",
+      "summary_zh": "文章主张软件开发需要克制，反对无休止的功能堆叠与复杂性。强调以可靠性、安保和可维护性为核心，让工具专注做好几件事，而不是堆砌大量功能。",
+      "hn": {
+        "id": 47261561,
+        "type": "story",
+        "by": "ssaboum",
+        "score": 535,
+        "descendants": 269,
+        "time": 1772718763,
+        "comments_url": "https://news.ycombinator.com/item?id=47261561"
+      },
+      "tags": [
+        "Programming",
+        "Security"
+      ],
+      "hot_score": 0.48
+    },
+    {
+      "title_en": "Pentagon formally labels Anthropic supply-chain risk",
+      "url": "https://www.wsj.com/politics/national-security/pentagon-formally-labels-anthropic-supply-chain-risk-escalating-conflict-ebdf0523",
+      "title_zh": "五角大楼正式将 Anthropic 供应链风险列为重点关注",
+      "created_display": "Created: Mar 05, 2026 / 11:24 PT",
+      "image_url": null,
+      "summary_en": "The Pentagon formally flags Anthropic's supply-chain risk, signaling heightened scrutiny of AI vendors used in defense contexts. The designation could affect contracts, compliance requirements, and risk mitigation measures across the defense AI ecosystem.",
+      "summary_zh": "五角大楼正式将 Anthropic 的供应链风险列为重点关注对象，表明对用于防务领域的 AI 供应商将进行更严格审查。这一认定可能影响防务 AI 生态中的合同、合规要求与风险管理措施。",
+      "hn": {
+        "id": 47266084,
+        "type": "story",
+        "by": "klausa",
+        "score": 429,
+        "descendants": 289,
+        "time": 1772738675,
+        "comments_url": "https://news.ycombinator.com/item?id=47266084"
+      },
+      "tags": [
+        "Security",
+        "Politics",
+        "AI"
+      ],
+      "hot_score": 0.48
+    },
+    {
+      "title_en": "Entomologists use a particle accelerator to image ants at scale",
+      "url": "https://spectrum.ieee.org/3d-scanning-particle-accelerator-antscan",
+      "title_zh": "昆虫学家用粒子加速器在大规模下成像蚂蚁",
+      "created_display": "Created: Mar 06, 2026 / 07:53 PT",
+      "image_url": "https://spectrum.ieee.org/media-library/image.jpg?id=65150276&width=1200&height=600&coordinates=0%2C214%2C0%2C36",
+      "summary_en": "Researchers used a particle accelerator to image ants at scale, enabling high-resolution 3D visualization of colony structure. The technique reveals new insights into collective behavior and biology at micro scales.",
+      "summary_zh": "科学家使用粒子加速器对蚂蚁进行大规模成像，实现对蚁群结构的高分辨率三维可视化，为集体行为与微观生物学提供新见解。",
+      "hn": {
+        "id": 47276539,
+        "type": "story",
+        "by": "gmays",
+        "score": 133,
+        "descendants": 24,
+        "time": 1772812412,
+        "comments_url": "https://news.ycombinator.com/item?id=47276539"
+      },
+      "hot_score": 0.46,
+      "tags": [
+        "Science"
+      ]
+    },
+    {
+      "title_en": "We might all be AI engineers now",
+      "url": "https://yasint.dev/we-might-all-be-ai-engineers-now/",
+      "title_zh": "我们现在可能都成了 AI 工程师",
+      "created_display": "Created: Mar 06, 2026 / 01:13 PT",
+      "image_url": "https://yasint.dev/og/yasintdev-primary-og.png",
+      "summary_en": "The piece argues that AI tooling has lowered the bar to building intelligent features, making more developers 'AI engineers' in practice. It highlights pragmatic approaches to AI integration and the evolving skillset needed.",
+      "summary_zh": "文章认为 AI 工具让更多开发者具备“AI 工程师”的能力，强调将 AI 能力融入日常开发的实际做法与所需技能演变。",
+      "hn": {
+        "id": 47272734,
+        "type": "story",
+        "by": "sn0wflak3s",
+        "score": 203,
+        "descendants": 319,
+        "time": 1772788410,
+        "comments_url": "https://news.ycombinator.com/item?id=47272734"
+      },
+      "hot_score": 0.45,
+      "tags": [
+        "AI",
+        "Programming"
+      ]
+    },
+    {
+      "title_en": "Labor market impacts of AI: A new measure and early evidence",
+      "url": "https://www.anthropic.com/research/labor-market-impacts",
+      "title_zh": "AI 对劳动力市场影响的新指标与初步证据",
+      "created_display": "Created: Mar 05, 2026 / 14:55 PT",
+      "image_url": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20NodeLine&backgroundColor=cactus",
+      "summary_en": "Anthropic introduces a new metric to quantify AI-related labor market effects and presents early findings showing mixed signals: some roles gain efficiency and resilience, while routine tasks face displacement. Implications for policy and workforce training are discussed.",
+      "summary_zh": "Anthropic 引入新指标来量化 AI 对劳动力市场的影响，并给出初步证据，结果呈现两极：部分岗位提升效率与韧性，常规任务存在被替代的风险。对政策与职业培训具有重要启示。",
+      "hn": {
+        "id": 47268391,
+        "type": "story",
+        "by": "jjwiseman",
+        "score": 322,
+        "descendants": 545,
+        "time": 1772751301,
+        "comments_url": "https://news.ycombinator.com/item?id=47268391"
+      },
+      "tags": [
+        "AI",
+        "Data"
+      ],
+      "hot_score": 0.42
+    },
+    {
+      "title_en": "A standard protocol to handle and discard low-effort, AI-Generated pull requests",
+      "url": "https://406.fail/",
+      "title_zh": "处理和丢弃低 Effort、AI 生成拉取请求的标准协议",
+      "created_display": "Created: Mar 05, 2026 / 14:04 PT",
+      "image_url": null,
+      "summary_en": "A standard protocol outlines how to handle and discard low-effort AI-generated pull requests, including labeling, human review thresholds, and criteria for auto-closure. The rule aims to keep codebases sane while leveraging AI assistance.",
+      "summary_zh": "一套标准协议规定如何处理和丢弃低质量的 AI 生成拉取请求，涵盖标签、人工审核门槛及自动关闭的条件，旨在在利用 AI 辅助的同时维持代码库的健康性。",
+      "hn": {
+        "id": 47267947,
+        "type": "story",
+        "by": "Muhammad523",
+        "score": 298,
+        "descendants": 110,
+        "time": 1772748299,
+        "comments_url": "https://news.ycombinator.com/item?id=47267947"
+      },
+      "tags": [
+        "Programming",
+        "DevOps",
+        "AI"
+      ],
+      "hot_score": 0.37
+    },
+    {
+      "title_en": "Show HN: Jido 2.0, Elixir Agent Framework",
+      "url": "https://jido.run/blog/jido-2-0-is-here",
+      "title_zh": "Show HN: Jido 2.0，Elixir Agent 框架",
+      "created_display": "Created: Mar 05, 2026 / 07:48 PT",
+      "image_url": "https://jido.run/blog/nil",
+      "summary_en": "Jido 2.0 is an Elixir-based agent framework that abstracts agent lifecycle, supervision, and messaging. The update targets more ergonomic APIs and better integration with the BEAM ecosystem.",
+      "summary_zh": "Jido 2.0 是一个基于 Elixir 的代理框架，聚焦简化代理的生命周期、监督与消息传递等能力。更新带来更友好的 API 与对 BEAM 生态的更好整合。",
+      "hn": {
+        "id": 47263036,
+        "type": "story",
+        "by": "mikehostetler",
+        "score": 319,
+        "descendants": 65,
+        "time": 1772725732,
+        "comments_url": "https://news.ycombinator.com/item?id=47263036"
+      },
+      "tags": [
+        "Show HN",
+        "Programming"
+      ],
+      "hot_score": 0.31
+    },
+    {
+      "title_en": "Show HN: Swarm – Program a colony of 200 ants using a custom assembly language",
+      "url": "https://dev.moment.com/",
+      "title_zh": "Show HN：Swarm——用自定义汇编语言编程200只蚂蚁",
+      "created_display": "Created: Mar 05, 2026 / 20:15 PT",
+      "image_url": null,
+      "summary_en": "Swarm demonstrates programming a colony of 200 simulated ants using a custom assembly language, illustrating low-level control of a swarm and emergent behavior. It captures the playful yet serious research direction in distributed systems and agent-based simulations.",
+      "summary_zh": "Swarm 展示用自定义汇编语言编程200只蚂蚁的群体，探索对群体行为的底层控制和分布式系统的研究方向。",
+      "hn": {
+        "id": 47270807,
+        "type": "story",
+        "by": "armandhammer10",
+        "score": 186,
+        "descendants": 61,
+        "time": 1772770540,
+        "comments_url": "https://news.ycombinator.com/item?id=47270807"
+      },
+      "hot_score": 0.31,
+      "tags": [
+        "Show HN",
+        "Programming"
+      ]
+    },
+    {
+      "title_en": "The government uses targeted advertising to track your location",
+      "url": "https://www.eff.org/deeplinks/2026/03/targeted-advertising-gives-your-location-government-just-ask-cbp",
+      "title_zh": "政府利用定向广告来追踪你的位置",
+      "created_display": "Created: Mar 05, 2026 / 09:16 PT",
+      "image_url": "https://www.eff.org/files/banner_library/locationdata_v2.mov1_.gif",
+      "summary_en": "A report details how targeted advertising enables location tracking by government actors, often via data brokers and ad tech pipelines.",
+      "summary_zh": "报道揭示定向广告如何通过数据代理和广告技术管道让政府追踪你的位置，暴露隐私脆弱性，并呼吁加强隐私保护。",
+      "hn": {
+        "id": 47264341,
+        "type": "story",
+        "by": "hn_acker",
+        "score": 293,
+        "descendants": 72,
+        "time": 1772730982,
+        "comments_url": "https://news.ycombinator.com/item?id=47264341"
+      },
+      "tags": [
+        "Privacy",
+        "Politics"
+      ],
+      "hot_score": 0.3
+    },
+    {
+      "title_en": "It took four years until 2011’s iOS 5 gave everyone an emoji keyboard",
+      "url": "https://unsung.aresluna.org/im-obviously-taking-a-risk-here-by-advertising-emoji-directly/",
+      "title_zh": "直到2011年的 iOS 5 才为所有人提供表情符号键盘",
+      "created_display": "Created: Mar 06, 2026 / 00:13 PT",
+      "image_url": "https://unsung.aresluna.org/_media/im-obviously-taking-a-risk-here-by-advertising-emoji-directly/ogimage.png",
+      "summary_en": "The emoji keyboard finally arrived with iOS 5 after years of evolution, marking a milestone in mobile UX standardization. The anecdote highlights how small interface features can become universal expectations.",
+      "summary_zh": "直到 iOS 5 才为所有人提供表情符号键盘，这一里程碑标志着移动用户体验标准化的进展，也显示了小功能对用户体验的长期影响。",
+      "hn": {
+        "id": 47272338,
+        "type": "story",
+        "by": "tobr",
+        "score": 146,
+        "descendants": 82,
+        "time": 1772784808,
+        "comments_url": "https://news.ycombinator.com/item?id=47272338"
+      },
+      "hot_score": 0.3,
+      "tags": [
+        "Design"
+      ]
+    },
+    {
+      "title_en": "Google Safe Browsing missed 84% of confirmed phishing sites",
+      "url": "https://www.norn-labs.com/blog/huginn-report-feb-2026",
+      "title_zh": "Google Safe Browsing 未能拦截84%的经证实钓鱼站点",
+      "created_display": "Created: Mar 05, 2026 / 07:03 PT",
+      "image_url": "https://www.norn-labs.com/_next/image?url=%2Fnorn-logo.png&w=64&q=75&dpl=dpl_4AZAMgYyBa11LvKTVMeGbAnYvd9p",
+      "summary_en": "A security report finds Google Safe Browsing blocked only a minority of confirmed phishing sites, leaving many attackers unblocked. The result underscores the limitations of browser-level protections and the need for additional phishing defenses.",
+      "summary_zh": "安全报告显示 Google Safe Browsing 未阻挡大量经证实的钓鱼站点，暴露浏览器层防护的局限性，并强调需要额外的钓鱼防护措施。",
+      "hn": {
+        "id": 47262347,
+        "type": "story",
+        "by": "jdup7",
+        "score": 294,
+        "descendants": 91,
+        "time": 1772723002,
+        "comments_url": "https://news.ycombinator.com/item?id=47262347"
+      },
+      "tags": [
+        "Security",
+        "Web"
+      ],
+      "hot_score": 0.28
+    },
+    {
+      "title_en": "The next generations of Bubble Tea, Lip Gloss, and Bubbles are available now",
+      "url": "https://charm.land/blog/v2/",
+      "title_zh": "下一代珍珠奶茶、唇彩与泡泡现已上市",
+      "created_display": "Created: Mar 05, 2026 / 15:26 PT",
+      "image_url": "https://stuff.charm.sh/charm-share-2025.jpg",
+      "summary_en": "Charm.land announces the availability of the next generation of Bubble Tea, Lip Gloss, and Bubbles products, signaling new product iterations and branding experiments in consumer goods.",
+      "summary_zh": "Charm.land 宣布下一代珍珠奶茶、唇彩与泡泡产品现已上市，展现消费品领域的新版本迭代与品牌实验。",
+      "hn": {
+        "id": 47268662,
+        "type": "story",
+        "by": "atkrad",
+        "score": 199,
+        "descendants": 82,
+        "time": 1772753212,
+        "comments_url": "https://news.ycombinator.com/item?id=47268662"
+      },
+      "tags": [
+        "Business"
+      ],
+      "hot_score": 0.26
+    },
+    {
+      "title_en": "Remotely unlocking an encrypted hard disk",
+      "url": "https://jyn.dev/remotely-unlocking-an-encrypted-hard-disk/",
+      "title_zh": "远程解锁一台加密硬盘",
+      "created_display": "Created: Mar 05, 2026 / 10:43 PT",
+      "image_url": "https://jyn.dev/assets/Pasted%20image%2020260121044155.png",
+      "summary_en": "A demonstration shows how an encrypted hard disk can be unlocked remotely, highlighting potential flaws in remote unlock features and urging strong authentication and fixed-key management.",
+      "summary_zh": "演示展示了如何远程解锁一块加密硬盘，揭示远程解锁功能的潜在缺陷，并敦促加强身份验证和密钥管理。",
+      "hn": {
+        "id": 47265521,
+        "type": "story",
+        "by": "janandonly",
+        "score": 181,
+        "descendants": 92,
+        "time": 1772736239,
+        "comments_url": "https://news.ycombinator.com/item?id=47265521"
+      },
+      "tags": [
+        "Security"
+      ],
+      "hot_score": 0.2
+    },
+    {
+      "title_en": "US asked Ukraine for help fighting Iranian drones, Zelensky says",
+      "url": "https://www.bbc.com/news/articles/cr5llg0e9g9o",
+      "title_zh": "美国向乌克兰请求帮助对抗伊朗无人机，泽连斯基表示",
+      "created_display": "Created: Mar 05, 2026 / 10:27 PT",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/2844/live/c16d4e80-18a6-11f1-8a24-35cedd1a21de.jpg",
+      "summary_en": "US asks Ukraine for help countering Iranian drones, according to Zelensky, highlighting international cooperation dynamics and the role of tech and defense partnerships in modern warfare.",
+      "summary_zh": "据泽连斯基称，美国请求乌克兰协助对抗伊朗制造的无人机，凸显在现代战争中跨国协作与高科技防务伙伴关系的重要性。",
+      "hn": {
+        "id": 47265291,
+        "type": "story",
+        "by": "tartoran",
+        "score": 166,
+        "descendants": 119,
+        "time": 1772735253,
+        "comments_url": "https://news.ycombinator.com/item?id=47265291"
+      },
+      "tags": [
+        "Politics"
+      ],
+      "hot_score": 0.18
+    },
+    {
+      "title_en": "AI and the Ship of Theseus",
+      "url": "https://lucumr.pocoo.org/2026/3/5/theseus/",
+      "title_zh": "AI 与忒修斯之船",
+      "created_display": "Created: Mar 05, 2026 / 07:49 PT",
+      "image_url": "https://lucumr.pocoo.org/social/2026-03-05-theseus-social.png",
+      "summary_en": "The essay uses the Ship of Theseus metaphor to explore AI systems that replace components over time, raising questions about identity, reliability, and governance of evolving AI stacks. It invites reflection on what makes a system 'the same' when its parts continually change.",
+      "summary_zh": "本文用忒修斯之船的比喻探讨随着时间更换组件的 AI 系统，提出身份、可靠性与治理的问题，思考在部件持续变化时何谓“同一系统”。",
+      "hn": {
+        "id": 47263048,
+        "type": "story",
+        "by": "pixelmonkey",
+        "score": 177,
+        "descendants": 182,
+        "time": 1772725785,
+        "comments_url": "https://news.ycombinator.com/item?id=47263048"
+      },
+      "hot_score": 0.17,
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "title_en": "GPT-5.4",
+      "url": "https://openai.com/index/introducing-gpt-5-4/",
+      "title_zh": "GPT-5.4 发布",
+      "created_display": "Created: Mar 05, 2026 / 10:05 PT",
+      "image_url": null,
+      "summary_en": "OpenAI announces GPT-5.4, continuing the iterative development of its language model family with refinements in safety, performance, and user experience. The release underscores the ongoing push to balance capability with governance.",
+      "summary_zh": "OpenAI 宣布 GPT-5.4 的发布，继续在语言模型家族上进行迭代式改进，涵盖安全、性能与用户体验的优化。此发布再次凸显在提升能力的同时强化治理的努力。",
+      "hn": {
+        "id": 47265005,
+        "type": "story",
+        "by": "meetpateltech",
+        "score": 157,
+        "descendants": 1,
+        "time": 1772733916,
+        "comments_url": "https://news.ycombinator.com/item?id=47265005"
+      },
+      "tags": [
+        "AI"
+      ],
+      "hot_score": 0.17
+    },
+    {
+      "title_en": "Galileo's handwritten notes found in ancient astronomy text",
+      "url": "https://www.science.org/content/article/galileo-s-handwritten-notes-found-ancient-astronomy-text",
+      "title_zh": "伽利略的手写笔记在古代天文文本中被发现",
+      "created_display": "Created: Mar 05, 2026 / 08:47 PT",
+      "image_url": null,
+      "summary_en": "Researchers discovered Galileo's handwritten notes tucked inside an ancient astronomy text, shedding new light on his methods and the spread of scientific knowledge in the era. The find offers a tangible link to the ingenuity of early modern science.",
+      "summary_zh": "研究人员在一本文献中发现了伽利略的手写笔记，为其方法及早期现代科学的传播提供了新证据。",
+      "hn": {
+        "id": 47263938,
+        "type": "story",
+        "by": "tzury",
+        "score": 153,
+        "descendants": 30,
+        "time": 1772729247,
+        "comments_url": "https://news.ycombinator.com/item?id=47263938"
+      },
+      "hot_score": 0.15,
+      "tags": [
+        "Science"
+      ]
+    },
+    {
+      "title_en": "Let's Get Physical",
+      "url": "https://m4iler.cloud/posts/lets-get-physical/",
+      "title_zh": "走向实体世界",
+      "created_display": "Created: Mar 05, 2026 / 11:21 PT",
+      "image_url": null,
+      "summary_en": "Explores why and how developers are embracing physical, hardware-connected experiences, from sensors to embedded systems. It examines tradeoffs and opportunities in building for the real world.",
+      "summary_zh": "讨论开发者为何以及如何拥抱物理、硬件连接的体验，从传感器到嵌入式系统，分析现实世界建设的权衡与机会。",
+      "hn": {
+        "id": 47266030,
+        "type": "story",
+        "by": "MBCook",
+        "score": 138,
+        "descendants": 20,
+        "time": 1772738463,
+        "comments_url": "https://news.ycombinator.com/item?id=47266030"
+      },
+      "hot_score": 0.15,
+      "tags": [
+        "Hardware"
+      ]
+    },
+    {
+      "title_en": "Show HN: PageAgent, A GUI agent that lives inside your web app",
+      "url": "https://alibaba.github.io/page-agent/",
+      "title_zh": "Show HN：PageAgent——嵌入在你的网页应用中的 GUI 代理",
+      "created_display": "Created: Mar 05, 2026 / 09:01 PT",
+      "image_url": "https://img.alicdn.com/imgextra/i3/O1CN01JPT4Fj1FJTfmHfNxO_!!6000000000466-49-tps-512-512.webp",
+      "summary_en": "PageAgent is a GUI agent embedded inside a web app, enabling in-app automation and assisted workflows without leaving the page. It signals growing interest in internal assistant agents that enhance developer and user productivity.",
+      "summary_zh": "PageAgent 是嵌入到网页应用中的 GUI 助手，支持在应用内部完成自动化与辅助工作，提升开发者和用户的生产力。",
+      "hn": {
+        "id": 47264138,
+        "type": "story",
+        "by": "simon_luv_pho",
+        "score": 142,
+        "descendants": 73,
+        "time": 1772730107,
+        "comments_url": "https://news.ycombinator.com/item?id=47264138"
+      },
+      "hot_score": 0.14,
+      "tags": [
+        "Show HN",
+        "Programming",
+        "Web"
+      ]
+    },
+    {
+      "title_en": "OpenTitan Shipping in Production",
+      "url": "https://opensource.googleblog.com/2026/03/opentitan-shipping-in-production.html",
+      "title_zh": "OpenTitan 正式投入生产",
+      "created_display": "Created: Mar 05, 2026 / 10:50 PT",
+      "image_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwJr3EDJXlAiISJQCv2DMWsD6dtomk3NMxjfNyOeoSTkiU1lWskg11axvCknOUMFK-TYwXuTfm91DsIEgqbAE6DSTX8cA_Z7oUhUhe1cc0LBRvlRNjr4gzpHK2OWtmeSHf7UFSHcojyma5MdOqSAQJQZv9hqcZFHjRLsdgSmSr9lRjow96wBAh7_uRsYQ/w1200-h630-p-k-no-nu/6b6cUfEMUcXHJLu.png",
+      "summary_en": "OpenTitan ships in production, delivering a secure hardware root of trust for chips, enabling more trustworthy supply chains and device security. It demonstrates live deployment of open-source silicon security.",
+      "summary_zh": "OpenTitan 正式投入生产，为芯片提供安全的硬件根信任，提升供应链与设备安全的可信度，展示了开源硅安全的落地应用。",
+      "hn": {
+        "id": 47265619,
+        "type": "story",
+        "by": "rayhaanj",
+        "score": 130,
+        "descendants": 28,
+        "time": 1772736633,
+        "comments_url": "https://news.ycombinator.com/item?id=47265619"
+      },
+      "hot_score": 0.14,
+      "tags": [
+        "Open Source",
+        "Hardware",
+        "Security"
+      ]
+    },
+    {
+      "title_en": "Rising carbon dioxide levels now detected in human blood",
+      "url": "https://phys.org/news/2026-02-carbon-dioxide-human-blood.html",
+      "title_zh": "人体血液中检测到上升的二氧化碳水平",
+      "created_display": "Created: Mar 05, 2026 / 06:34 PT",
+      "image_url": "https://scx2.b-cdn.net/gfx/news/hires/2020/1-blood.jpg",
+      "summary_en": "Scientists report measurable CO2 elevations in human blood, raising questions about physiology, health risks, and implications for public health in a warming world. The finding connects environmental factors to human biology and policy considerations.",
+      "summary_zh": "科学家在人体血液中检测到上升的二氧化碳水平，提出对生理、健康风险及全球变暖下公共卫生的潜在影响的疑问。这一发现将环境因素与人体生物学及政策考量联系起来。",
+      "hn": {
+        "id": 47261968,
+        "type": "story",
+        "by": "wkrsz",
+        "score": 124,
+        "descendants": 161,
+        "time": 1772721285,
+        "comments_url": "https://news.ycombinator.com/item?id=47261968"
+      },
+      "hot_score": 0.11,
+      "tags": [
+        "Health",
+        "Science"
+      ]
+    }
+  ]
+}

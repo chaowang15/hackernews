@@ -1,0 +1,1155 @@
+{
+  "meta": {
+    "mode": "best",
+    "source": "https://news.ycombinator.com/",
+    "api": "https://github.com/HackerNews/API",
+    "count_requested": 50,
+    "count_written": 50,
+    "reused_same_day": 0,
+    "reused_cross_day": 16,
+    "new_llm_enriched": 6,
+    "scrape_time_display": "14:54, August 28, 2026 (PDT)",
+    "timezone": "America/Los_Angeles",
+    "date_dir": "2026/08/27",
+    "content_date": "2026-08-27",
+    "run_time_local": "14:54, August 28, 2026 (PDT)",
+    "run_time_utc": "2026-08-28 21:54:32 UTC",
+    "incremental": true,
+    "stories_max": 50,
+    "hot_score_time_utc": "2026-08-28 21:55:07 UTC"
+  },
+  "items": [
+    {
+      "title_en": "GLM-5.3 is now open-weight",
+      "url": "https://huggingface.co/zai-org/GLM-5.3",
+      "title_zh": "GLM-5.3 已开源权重",
+      "created_display": "Created: Aug 28, 2026 / 08:20 PT",
+      "image_url": "https://pbs.twimg.com/media/HQ0WAnyXIAENtQA.jpg:large",
+      "summary_en": "An open-weight release lets researchers run the model locally and inspect behavior; it aids reproducibility and benchmarking. The move signals growing openness in large-language-model ecosystems and invites community experimentation.",
+      "summary_zh": "公开权重意味着研究者可以本地运行模型、研究推理过程，提升复现实验和基准对比的可信度。此举体现了大语言模型生态的开放化趋势，并鼓励社区参与和改进。",
+      "hn": {
+        "id": 49479878,
+        "type": "story",
+        "by": "jeudesprits",
+        "score": 495,
+        "descendants": 179,
+        "time": 1787930413,
+        "comments_url": "https://news.ycombinator.com/item?id=49479878"
+      },
+      "tags": [
+        "AI"
+      ],
+      "hot_score": 10.31
+    },
+    {
+      "title_en": "Get your Windows license refund",
+      "url": "https://en.refund4freedom.org/",
+      "title_zh": "申请 Windows 许可证退款",
+      "created_display": "Created: Aug 28, 2026 / 06:42 PT",
+      "image_url": "https://en.refund4freedom.org/img/Asset-1.png",
+      "summary_en": "Many software-licensing schemes carry refund options, and this guide outlines practical steps to reclaim the cost of a Windows license. It covers common eligibility paths, expected timelines, and what documentation you’ll need to speed things up.",
+      "summary_zh": "一些 Windows 许可证购买后可以申请退款。本文提供可行的退款途径、所需材料与大致时间线，并强调在申诉时要准备好购买凭证与相关政策条款。",
+      "hn": {
+        "id": 49478340,
+        "type": "story",
+        "by": "smartmic",
+        "score": 610,
+        "descendants": 252,
+        "time": 1787924560,
+        "comments_url": "https://news.ycombinator.com/item?id=49478340"
+      },
+      "tags": [
+        "Finance"
+      ],
+      "hot_score": 9.3
+    },
+    {
+      "title_en": "GUIs should be fully keyboard-driven",
+      "url": "https://ckardaris.com/blog/2026/08/28/keyboard-driven-guis.html",
+      "title_zh": "GUI 应实现全键盘可用性",
+      "created_display": "Created: Aug 28, 2026 / 08:17 PT",
+      "image_url": null,
+      "summary_en": "Advocates argue that GUIs should be navigable entirely via keyboard to boost accessibility and speed.",
+      "summary_zh": "主张将 GUI 完全通过键盘操作来实现可访问性与效率提升。文中提出若干设计模式与工具，帮助减少对鼠标的依赖，使应用对无障碍用户和高效工作流用户更友好。",
+      "hn": {
+        "id": 49479837,
+        "type": "story",
+        "by": "ckardaris",
+        "score": 451,
+        "descendants": 240,
+        "time": 1787930229,
+        "comments_url": "https://news.ycombinator.com/item?id=49479837"
+      },
+      "tags": [
+        "Design"
+      ],
+      "hot_score": 9.29
+    },
+    {
+      "title_en": "“It works better in the app”",
+      "url": "https://shkspr.mobi/blog/2026/08/it-works-better-in-the-app/",
+      "title_zh": "“在应用中效果更佳”",
+      "created_display": "Created: Aug 28, 2026 / 05:32 PT",
+      "image_url": "https://shkspr.mobi/blog/wp-content/uploads/2026/07/Google-Calendar-Help.webp",
+      "summary_en": "Examines why some users perceive apps as delivering a superior experience than web equivalents. It discusses factors like offline support, performance, and deeper platform integration that apps can leverage.",
+      "summary_zh": "探讨为何有些用户认为桌面/移动应用在体验上优于网页版。讨论离线、速度与对平台深度集成等因素如何让应用提供更高质量的体验。",
+      "hn": {
+        "id": 49477600,
+        "type": "story",
+        "by": "blenderob",
+        "score": 610,
+        "descendants": 420,
+        "time": 1787920336,
+        "comments_url": "https://news.ycombinator.com/item?id=49477600"
+      },
+      "tags": [
+        "Web"
+      ],
+      "hot_score": 7.65
+    },
+    {
+      "title_en": "Htmx 4.0",
+      "url": "https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released",
+      "title_zh": "Htmx 4.0 发布",
+      "created_display": "Created: Aug 28, 2026 / 06:28 PT",
+      "image_url": "https://four.htmx.org/img/og-image.png",
+      "summary_en": "Htmx 4.0 launches with a refreshed API surface and broader server-driven UI capabilities, further simplifying dynamic pages without heavy JavaScript frameworks. The release tightens bindings around hx- attributes and adds improvements for streaming and partial updates, keeping htmx attractive for developers seeking low-friction interactivity.",
+      "summary_zh": "Htmx 4.0 发布，API 面貌焕新，扩展了服务器驱动的 UI 能力，进一步简化在不依赖大规模 JS 框架的情况下实现动态页面的开发。新版本加强了对 hx- 属性的集成，并在流式更新与局部页面更新方面带来改进，继续巩固了它在追求低摩擦交互的开发者中的定位。",
+      "hn": {
+        "id": 49478178,
+        "type": "story",
+        "by": "rmsaksida",
+        "score": 415,
+        "descendants": 101,
+        "time": 1787923736,
+        "comments_url": "https://news.ycombinator.com/item?id=49478178"
+      },
+      "hot_score": 6.08,
+      "tags": [
+        "Programming"
+      ]
+    },
+    {
+      "title_en": "U.S. sanctions against the A/I Collective",
+      "url": "https://www.inventati.org/",
+      "title_zh": "美国对 a/I Collective 的制裁",
+      "created_display": "Created: Aug 28, 2026 / 05:58 PT",
+      "image_url": "https://www.inventati.org/static/img/Rstar-32-transparent.png",
+      "summary_en": "The U.S. has imposed sanctions on the a/I Collective, expanding its toolkit against cyber-enabled operations.",
+      "summary_zh": "美国对 a/I Collective 实施制裁，扩大了对网络相关行动的打击范围。",
+      "hn": {
+        "id": 49477854,
+        "type": "story",
+        "by": "exiguus",
+        "score": 407,
+        "descendants": 361,
+        "time": 1787921933,
+        "comments_url": "https://news.ycombinator.com/item?id=49477854"
+      },
+      "tags": [
+        "Politics"
+      ],
+      "hot_score": 5.48
+    },
+    {
+      "title_en": "Just the rumour of a bug is enough to find an exploit these days",
+      "url": "https://anil.recoil.org/notes/rumour-is-the-exploit",
+      "title_zh": "只凭传闻即可发现漏洞的时代",
+      "created_display": "Created: Aug 28, 2026 / 08:58 PT",
+      "image_url": "https://anil.recoil.org/images/vulncheck-2026.640.webp",
+      "summary_en": "Security researchers note that attackers can weaponize unverified bug rumors to craft exploits or pressure patch delays.",
+      "summary_zh": "攻击者利用未证实的漏洞传闻就能催生利用方法，或逼迫厂商拖延修补。文章强调传闻驱动的利用风险，呼吁更强的披露机制和快速、可验证的修复。",
+      "hn": {
+        "id": 49480466,
+        "type": "story",
+        "by": "avsm",
+        "score": 193,
+        "descendants": 66,
+        "time": 1787932726,
+        "comments_url": "https://news.ycombinator.com/item?id=49480466"
+      },
+      "tags": [
+        "Security"
+      ],
+      "hot_score": 4.61
+    },
+    {
+      "title_en": "Inception-style curved map for turn-by-turn directions",
+      "url": "https://www.orbify.eu/demo/",
+      "title_zh": "Inception 风格的曲线地图用于逐向导航",
+      "created_display": "Created: Aug 28, 2026 / 05:29 PT",
+      "image_url": null,
+      "summary_en": "Orbify demonstrates a curved, inception-inspired map for turn-by-turn directions, offering aesthetically curved paths to improve readability and context on mobile devices.",
+      "summary_zh": "Inception 风格的曲线地图原型用于逐向导航，沿曲面呈现路线，以提升在移动设备上的可读性与上下文感。",
+      "hn": {
+        "id": 49477564,
+        "type": "story",
+        "by": "smoser",
+        "score": 368,
+        "descendants": 125,
+        "time": 1787920145,
+        "comments_url": "https://news.ycombinator.com/item?id=49477564"
+      },
+      "tags": [
+        "Design"
+      ],
+      "hot_score": 4.57
+    },
+    {
+      "title_en": "Pentagon's blacklisting of Anthropic was unlawful, US judge rules",
+      "url": "https://www.reuters.com/legal/government/us-judge-blocks-pentagons-anthropic-blacklisting-2026-08-28/",
+      "title_zh": "五角大楼对 Anthropic 的黑名单被判违法",
+      "created_display": "Created: Aug 28, 2026 / 04:25 PT",
+      "image_url": null,
+      "summary_en": "U.S. Judge ruled the Pentagon's blacklist of Anthropic unlawful, ordering the government to halt the measure. The ruling limits the executive branch's ability to blacklist vendors and could influence future defense AI procurement practices.",
+      "summary_zh": "法官裁定五角大楼对 Anthropic 的黑名单违法，责令政府停止该措施。判决限制政府在供应商黑名单方面的权力，并可能影响未来的国防AI采购流程。",
+      "hn": {
+        "id": 49477055,
+        "type": "story",
+        "by": "softwaredoug",
+        "score": 320,
+        "descendants": 3,
+        "time": 1787916330,
+        "comments_url": "https://news.ycombinator.com/item?id=49477055"
+      },
+      "tags": [
+        "Politics",
+        "AI"
+      ],
+      "hot_score": 3.39
+    },
+    {
+      "title_en": "EPA says power for data centers can sidestep pollution laws",
+      "url": "https://www.epa.gov/newsreleases/epa-issues-permitting-guidance-further-president-trumps-agenda-promoting-data-centers",
+      "title_zh": "EPA 表示数据中心的供电可规避污染法规",
+      "created_display": "Created: Aug 28, 2026 / 06:21 PT",
+      "image_url": "https://www.epa.gov/sites/all/themes/epa/img/epa-news-releases-og.jpg",
+      "summary_en": "EPA issued guidance suggesting data-center power procurement could fall outside certain pollution-permitting requirements. The move aims to accelerate deployment but faces environmental scrutiny.",
+      "summary_zh": "EPA 指导数据中心在用电方面的合规界限明晰，某些供电方案可能规避传统污染许可要求，以加速部署，但引发环境监管关注。",
+      "hn": {
+        "id": 49478103,
+        "type": "story",
+        "by": "Levitating",
+        "score": 229,
+        "descendants": 241,
+        "time": 1787923307,
+        "comments_url": "https://news.ycombinator.com/item?id=49478103"
+      },
+      "tags": [
+        "Energy"
+      ],
+      "hot_score": 3.28
+    },
+    {
+      "title_en": "Luanti removed from Google Play due to baseless AI copyright notice",
+      "url": "https://blog.luanti.org/2026/08/27/luanti-dmca-tracer-ai/",
+      "title_zh": "Luanti 因无根据的 AI 版权通知被 Google Play 下架",
+      "created_display": "Created: Aug 27, 2026 / 23:33 PT",
+      "image_url": "https://blog.luanti.org/static/blog/2026_dmca/cover.webp",
+      "summary_en": "Luanti has been removed from Google Play following a DMCA notice about AI-generated copyright claims; the developers contend the takedown is baseless and argue for due process in app stores' handling of AI content.",
+      "summary_zh": "Luanti 因关于 AI 版权的 DMCA 通知被 Google Play 下架，开发者称该下架毫无根据并呼吁正当程序。",
+      "hn": {
+        "id": 49475079,
+        "type": "story",
+        "by": "miniBill",
+        "score": 388,
+        "descendants": 121,
+        "time": 1787898837,
+        "comments_url": "https://news.ycombinator.com/item?id=49475079"
+      },
+      "tags": [
+        "Legal",
+        "AI"
+      ],
+      "hot_score": 2.27
+    },
+    {
+      "title_en": "I used AWS cognito for a startup. I wouldn't do it again",
+      "url": "https://joshkaramuth.com/blog/aws-cognito-authentication-startup-nightmare/",
+      "title_zh": "我在初创阶段用了 AWS Cognito，但不会再用",
+      "created_display": "Created: Aug 28, 2026 / 06:21 PT",
+      "image_url": "https://joshkaramuth.com/blog/aws-cognito-authentication-startup-nightmare-og.png",
+      "summary_en": "An entrepreneur details why AWS Cognito fell short for authentication needs, citing complexity, vendor lock-in, and security concerns. The takeaway is to carefully evaluate auth providers and consider alternatives for scale and maintainability.",
+      "summary_zh": "帖子作者讲述在初创阶段使用 AWS Cognito 的痛点，包括配置复杂、依赖锁定与安全担忧。结论是要对应用认证方案慎重评估，权衡可扩展性与可维护性。",
+      "hn": {
+        "id": 49478091,
+        "type": "story",
+        "by": "speckx",
+        "score": 157,
+        "descendants": 117,
+        "time": 1787923263,
+        "comments_url": "https://news.ycombinator.com/item?id=49478091"
+      },
+      "tags": [
+        "Programming",
+        "Security",
+        "Startups"
+      ],
+      "hot_score": 2.24
+    },
+    {
+      "title_en": "Migrating to HTTPX2",
+      "url": "https://github.com/openai/openai-python/blob/main/httpx2.md",
+      "title_zh": "OpenAI：迁移到 HTTPX2",
+      "created_display": "Created: Aug 28, 2026 / 04:51 PT",
+      "image_url": "https://repository-images.githubusercontent.com/307213173/7b83a5a7-a102-4b8a-abe7-7c14267908fa",
+      "summary_en": "OpenAI is migrating its Python client to HTTPX2, replacing the older HTTP client. The upgrade aims to boost performance and streaming reliability, but developers may encounter breaking changes and must align their dependencies.",
+      "summary_zh": "OpenAI 将 Python 客户端迁移至 HTTPX2，替代原有的 HTTP 客户端。此升级旨在提升性能与流式传输的稳定性，但开发者可能会遇到破坏性变更，需要同步更新依赖。",
+      "hn": {
+        "id": 49477212,
+        "type": "story",
+        "by": "tosh",
+        "score": 174,
+        "descendants": 76,
+        "time": 1787917880,
+        "comments_url": "https://news.ycombinator.com/item?id=49477212"
+      },
+      "tags": [
+        "Programming",
+        "AI"
+      ],
+      "hot_score": 1.96
+    },
+    {
+      "title_en": "Nvidia agrees to acquire Hugging Face for $13B",
+      "url": "https://www.businessinsider.com/nvidia-in-talks-to-buy-hugging-face-13-billion-dollars-2026-8",
+      "title_zh": "英伟达同意以130亿美元收购 Hugging Face",
+      "created_display": "Created: Aug 26, 2026 / 18:12 PT",
+      "image_url": "https://i.insider.com/6a8f6dc43f7df8787cff40f7?width=1200&format=jpeg",
+      "summary_en": "NVIDIA plans to buy Hugging Face for $13 billion, positioning its software ecosystem to ride alongside its hardware stack. The acquisition would deepen integration of models, datasets, and tools across the NVIDIA platform, potentially accelerating AI deployment and the competitive dynamics of AI infrastructure.",
+      "summary_zh": "英伟达以130亿美元收购 Hugging Face，意在把开源模型生态融入自家硬件与软件工具链。交易可能加速 AI 部署并改变 AI 基础设施的竞争格局，同时影响开源社区的格局。",
+      "hn": {
+        "id": 49458161,
+        "type": "story",
+        "by": "mfiguiere",
+        "score": 1943,
+        "descendants": 897,
+        "time": 1787793175,
+        "comments_url": "https://news.ycombinator.com/item?id=49458161"
+      },
+      "tags": [
+        "Business",
+        "AI",
+        "Hardware",
+        "DevOps"
+      ],
+      "hot_score": 1.92
+    },
+    {
+      "title_en": "Saving 100 terabytes of memory by optimizing 1.1.1.1's DNS cache",
+      "url": "https://blog.cloudflare.com/dns-cache-memory-optimization-1111/",
+      "title_zh": "通过优化 1.1.1.1 的 DNS 缓存节省 100 TB 内存",
+      "created_display": "Created: Aug 27, 2026 / 10:17 PT",
+      "image_url": "https://blog.cloudflare.com/_emdash/api/media/file/01M1185AQ3B90700DKB48C2HHM.png",
+      "summary_en": "Cloudflare details how reworking DNS cache structures and eviction policies shaved hundreds of terabytes of memory from a global resolver fleet. The change improves throughput and latency while reducing operational costs.",
+      "summary_zh": "Cloudflare 讲解了通过重构 DNS 缓存结构和淘汰策略，在全球解析器网络中节省了数百 TB 内存。此举提升了吞吐和延迟表现，同时降低运维成本。",
+      "hn": {
+        "id": 49468083,
+        "type": "story",
+        "by": "TangerineDream",
+        "score": 874,
+        "descendants": 273,
+        "time": 1787851077,
+        "comments_url": "https://news.ycombinator.com/item?id=49468083"
+      },
+      "tags": [
+        "Data"
+      ],
+      "hot_score": 1.85
+    },
+    {
+      "title_en": "Hilariously fast volume computation with the divergence theorem (2018)",
+      "url": "https://alyssarosenzweig.ca/blog/hilariously-fast-volume-computation-with-the-divergence-theorem.html",
+      "title_zh": "用散度定理实现的极快体积计算",
+      "created_display": "Created: Aug 28, 2026 / 02:00 PT",
+      "image_url": null,
+      "summary_en": "A blog post reveals a surprisingly fast way to compute the volume of complex shapes using the divergence theorem. By reducing volume to facet- and vertex-based sums, it enables nearly instant estimates from mesh data, with potential benefits for graphics, physics, and CAD workloads.",
+      "summary_zh": "一篇博文展示了通过应用散度定理来实现对复杂形状体积的极快计算方法。该方法把体积转化为对面的数量和顶点的简单运算，从网格数据中即可得到近似的即时体积结果，这对图形学、物理仿真和 CAD 工作流都可能带来显著收益。",
+      "hn": {
+        "id": 49476143,
+        "type": "story",
+        "by": "luu",
+        "score": 238,
+        "descendants": 64,
+        "time": 1787907646,
+        "comments_url": "https://news.ycombinator.com/item?id=49476143"
+      },
+      "tags": [
+        "Science"
+      ],
+      "hot_score": 1.83
+    },
+    {
+      "title_en": "Judge rules Trump administration’s blacklisting of Anthropic was illegal",
+      "url": "https://www.nytimes.com/2026/08/27/technology/anthropic-government-blacklisting-ruling.html",
+      "title_zh": "法官裁定特朗普政府对 Anthropic 的黑名单措施违法",
+      "created_display": "Created: Aug 27, 2026 / 19:03 PT",
+      "image_url": null,
+      "summary_en": "A court found that the Trump administration's blacklisting of Anthropic was illegal, citing improper authority or process. The ruling reinforces legal checks on government actions in tech and procurement, and may influence future regulatory tactics in the AI ecosystem. The decision signals enforceable limits on executive power in tech policy.",
+      "summary_zh": "法院裁定特朗普政府试图将 Anthropic 列入黑名单的行为违法，指出权力与程序受限。判决强调政府在科技采购中的权力边界与法治约束，可能影响未来对 AI 公司的监管手段，对政府打击科技公司的策略形成制衡。",
+      "hn": {
+        "id": 49473522,
+        "type": "story",
+        "by": "jbegley",
+        "score": 444,
+        "descendants": 329,
+        "time": 1787882618,
+        "comments_url": "https://news.ycombinator.com/item?id=49473522"
+      },
+      "tags": [
+        "Politics",
+        "AI",
+        "Legal"
+      ],
+      "hot_score": 1.72
+    },
+    {
+      "title_en": "Small Models Have Arrived",
+      "url": "https://calv.info/small-models-have-arrived",
+      "title_zh": "小型模型已到来",
+      "created_display": "Created: Aug 27, 2026 / 08:56 PT",
+      "image_url": "https://calv.info/api/og?title=Small%20Models%20Have%20Arrived",
+      "summary_en": "Smaller AI models are reaching practical viability, enabling on-device and cost-effective deployments. The piece surveys advances in distillation, quantization, and architecture design that let smaller models perform surprisingly well.",
+      "summary_zh": "更小的AI模型正在具备实际应用能力，能够在本地设备上部署并降低成本。文章梳理了蒸馏、量化和架构设计方面的进展，使小模型的性能出人意料地强。",
+      "hn": {
+        "id": 49466917,
+        "type": "story",
+        "by": "tosh",
+        "score": 762,
+        "descendants": 333,
+        "time": 1787846218,
+        "comments_url": "https://news.ycombinator.com/item?id=49466917"
+      },
+      "tags": [
+        "AI"
+      ],
+      "hot_score": 1.49
+    },
+    {
+      "title_en": "Sovereign Tech Agency invests €500k in Flatpak",
+      "url": "https://modal.cx/blog/announcing-flatpak-sta/",
+      "title_zh": "Sovereign Tech Agency 投资 €500k 在 Flatpak",
+      "created_display": "Created: Aug 27, 2026 / 22:42 PT",
+      "image_url": "https://modal.cx/blog/announcing-flatpak-sta/header.webp",
+      "summary_en": "Investment funds Flatpak development, signaling continued support for Linux app sandboxing and cross-distro packaging, reinforcing open-source distribution.",
+      "summary_zh": "Sovereign Tech Agency 投资 €500k 于 Flatpak，支持 Linux 应用沙箱化和跨发行版打包，强化开源软件的分发生态。",
+      "hn": {
+        "id": 49474786,
+        "type": "story",
+        "by": "eigenspace",
+        "score": 246,
+        "descendants": 135,
+        "time": 1787895767,
+        "comments_url": "https://news.ycombinator.com/item?id=49474786"
+      },
+      "tags": [
+        "Open Source"
+      ],
+      "hot_score": 1.32
+    },
+    {
+      "title_en": "507 Mechanical Movements",
+      "url": "https://507movements.com/",
+      "title_zh": "507 种机械运动",
+      "created_display": "Created: Aug 27, 2026 / 07:08 PT",
+      "image_url": "https://507movements.com/img/th/mm_001.png",
+      "summary_en": "A modern, interactive catalog of mechanical linkages illustrating 507 different movements. It serves as a visually engaging reference for designers and engineers exploring how different parts convert motion.",
+      "summary_zh": "这是一个现代化、交互式的机械连杆目录，展示了507种不同的运动方式。为设计师和工程师提供直观的可视参考，帮助理解各部件如何转换运动。",
+      "hn": {
+        "id": 49465169,
+        "type": "story",
+        "by": "helloplanets",
+        "score": 653,
+        "descendants": 80,
+        "time": 1787839698,
+        "comments_url": "https://news.ycombinator.com/item?id=49465169"
+      },
+      "tags": [
+        "Design"
+      ],
+      "hot_score": 1.16
+    },
+    {
+      "title_en": "Microduck",
+      "url": "https://pollen-robotics.com/microduck/",
+      "title_zh": "Microduck",
+      "created_display": "Created: Aug 27, 2026 / 03:57 PT",
+      "image_url": "https://pollen-robotics.com/assets/og/og-microduck-squad-v2.jpg",
+      "summary_en": "Microduck is a new, compact robotics platform introduced by Pollen Robotics.",
+      "summary_zh": "Microduck 是 Pollen Robotics 推出的一款新型、紧凑型的机器人平台。",
+      "hn": {
+        "id": 49462763,
+        "type": "story",
+        "by": "robotswantdata",
+        "score": 747,
+        "descendants": 241,
+        "time": 1787828276,
+        "comments_url": "https://news.ycombinator.com/item?id=49462763"
+      },
+      "tags": [
+        "Hardware"
+      ],
+      "hot_score": 1.12
+    },
+    {
+      "title_en": "CEO fired developers to make room for AI. Developers create open source AI CEO",
+      "url": "https://github.com/SenteLabsAI/OpenExecutive",
+      "title_zh": "CEO 为了给 AI 腾出空间而解雇开发者，开发者推出开源 AI CEO",
+      "created_display": "Created: Aug 26, 2026 / 18:46 PT",
+      "image_url": "https://opengraph.githubassets.com/915091b36381841d8490d5229248141b0a63a421110153eeeaf232fece964cc4/SenteLabsAI/OpenExecutive",
+      "summary_en": "A CEO allegedly fired developers to make room for AI, prompting debates about AI governance and corporate strategy; in response, a team of developers created an open-source AI CEO project to explore decentralized AI leadership.",
+      "summary_zh": "报道称某CEO为让AI腾出空间而解雇开发者，引发关于 AI 治理与企业策略的讨论。开发者们进而推出了开源 AI CEO 项目（OpenExecutive），以探索去中心化的 AI 领导力。",
+      "hn": {
+        "id": 49458418,
+        "type": "story",
+        "by": "GrumpySciGuy",
+        "score": 1008,
+        "descendants": 698,
+        "time": 1787795182,
+        "comments_url": "https://news.ycombinator.com/item?id=49458418"
+      },
+      "tags": [
+        "AI",
+        "Open Source",
+        "Business"
+      ],
+      "hot_score": 1.02
+    },
+    {
+      "title_en": "Trade (and Tariffs)",
+      "url": "https://xkcd.com/3290/",
+      "title_zh": "贸易（与关税）",
+      "created_display": "Created: Aug 27, 2026 / 06:49 PT",
+      "image_url": "https://imgs.xkcd.com/comics/trade_2x.png",
+      "summary_en": "A humorous XKCD strip exploring how tariffs affect trade dynamics and consumer costs, with a simple, accessible take on economic policy.",
+      "summary_zh": "这幅 XKCD 漫画以幽默方式揭示关税如何影响贸易与消费者成本的基本逻辑。",
+      "hn": {
+        "id": 49464896,
+        "type": "story",
+        "by": "throw0101d",
+        "score": 536,
+        "descendants": 263,
+        "time": 1787838569,
+        "comments_url": "https://news.ycombinator.com/item?id=49464896"
+      },
+      "tags": [
+        "Politics"
+      ],
+      "hot_score": 0.93
+    },
+    {
+      "title_en": "Please stop flooding our projects with AI slop to furnish your CV",
+      "url": "https://neilalexander.dev/2026/06/30/flooding-contributions",
+      "title_zh": "请停止向我们的项目投放 AI 产物以美化简历",
+      "created_display": "Created: Aug 27, 2026 / 20:49 PT",
+      "image_url": null,
+      "summary_en": "A critical post calls out people flooding OSS projects with AI-generated contributions to pad their CVs, arguing it degrades quality and wastes maintainers' time. It urges more thoughtful, transparent involvement and raises broader questions about AI-assisted reputation in open source.",
+      "summary_zh": "一篇引发热议的帖子揭示部分开发者向开源项目投放大量 AI 生成的提交以美化简历，导致代码质量下降并增加维护者负担。文章呼吁以更负责任、透明的方式参与开源，并引发关于 AI 辅助简历在职业信誉方面的广泛讨论。",
+      "hn": {
+        "id": 49474143,
+        "type": "story",
+        "by": "signa11",
+        "score": 205,
+        "descendants": 141,
+        "time": 1787888973,
+        "comments_url": "https://news.ycombinator.com/item?id=49474143"
+      },
+      "hot_score": 0.92,
+      "tags": [
+        "AI",
+        "Open Source"
+      ]
+    },
+    {
+      "title_en": "Show HN: The load-bearing vocabulary of Claude",
+      "url": "https://louisabraham.github.io/load-bearing/",
+      "title_zh": "Claude 的承载词汇",
+      "created_display": "Created: Aug 27, 2026 / 01:59 PT",
+      "image_url": null,
+      "summary_en": "An analysis of Claude's vocabulary that matters for reliable performance, exploring which words most influence model behavior.",
+      "summary_zh": "分析 Claude 模型中对稳定表现最关键的词汇，以及哪些词汇对模型行为影响最大。",
+      "hn": {
+        "id": 49461817,
+        "type": "story",
+        "by": "Labo333",
+        "score": 643,
+        "descendants": 314,
+        "time": 1787821189,
+        "comments_url": "https://news.ycombinator.com/item?id=49461817"
+      },
+      "tags": [
+        "Show HN",
+        "AI"
+      ],
+      "hot_score": 0.88
+    },
+    {
+      "title_en": "Gemini-3.5-Transcribe",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5-transcribe/",
+      "title_zh": "Gemini-3.5-Transcribe",
+      "created_display": "Created: Aug 27, 2026 / 11:03 PT",
+      "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini_3-5_transcribe.width-1300.jpg",
+      "summary_en": "Gemini-3.5-Transcribe is a transcription-focused variant in Google's Gemini family, optimized for speech-to-text with accuracy and multilingual support. It signals continued emphasis on practical AI tools beyond chat, enabling developers to build better transcription and captioning apps.",
+      "summary_zh": "Gemini-3.5-Transcribe 是谷歌 Gemini 系列中的一个专注转录任务的变体，针对语音转文字进行了优化，提升准确性并支持多语言。此举凸显了在对话之外的实用AI应用场景，便于开发者构建更出色的转写和字幕工具。",
+      "hn": {
+        "id": 49468818,
+        "type": "story",
+        "by": "k9294",
+        "score": 348,
+        "descendants": 122,
+        "time": 1787853822,
+        "comments_url": "https://news.ycombinator.com/item?id=49468818"
+      },
+      "tags": [
+        "AI"
+      ],
+      "hot_score": 0.77
+    },
+    {
+      "title_en": "Doctors are finally learning to manage antidepressant withdrawal",
+      "url": "https://www.newscientist.com/article/2584861-antidepressant-withdrawal-symptoms-are-prompting-a-radical-rethink-of-how-we-treat-depression/",
+      "title_zh": "医生终于学会应对抗抑郁药戒断",
+      "created_display": "Created: Aug 27, 2026 / 15:26 PT",
+      "image_url": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_308310135.jpg",
+      "summary_en": "Antidepressant withdrawal symptoms have long been underappreciated. Clinicians are adopting slower taper protocols, better monitoring, and supportive care to reduce harm during discontinuation.",
+      "summary_zh": "长期以来，抗抑郁药戒断症状被低估。医生现在采用更温和的减药方案、加强监测并提供综合支持，以降低戒断带来的风险。",
+      "hn": {
+        "id": 49472090,
+        "type": "story",
+        "by": "eutropheon",
+        "score": 254,
+        "descendants": 325,
+        "time": 1787869564,
+        "comments_url": "https://news.ycombinator.com/item?id=49472090"
+      },
+      "tags": [
+        "Health"
+      ],
+      "hot_score": 0.74
+    },
+    {
+      "title_en": "Tell HN: PayPal blocks GrapheneOS",
+      "url": "https://news.ycombinator.com/item?id=49462253",
+      "title_zh": "HN 贴：PayPal 阻止 GrapheneOS",
+      "created_display": "Created: Aug 27, 2026 / 02:56 PT",
+      "image_url": "https://news.ycombinator.com/y18.svg",
+      "summary_en": "PayPal blocks GrapheneOS, a privacy-focused Android fork, affecting users and highlighting tensions between large payment platforms and alternative mobile ecosystems. This underscores concerns about platform interoperability, device compatibility, and vendor gatekeeping.",
+      "summary_zh": "据称 PayPal 阻止 GrapheneOS 用户使用其服务，凸显大型支付平台与隐私导向的操作系统之间的紧张关系。事件引发对跨平台兼容性、设备认证以及厂商封禁策略的讨论。",
+      "hn": {
+        "id": 49462253,
+        "type": "story",
+        "by": "leumon",
+        "score": 498,
+        "descendants": 323,
+        "time": 1787824614,
+        "comments_url": "https://news.ycombinator.com/item?id=49462253"
+      },
+      "tags": [
+        "Privacy"
+      ],
+      "hot_score": 0.71
+    },
+    {
+      "title_en": "Stripe said to abandon $50B pursuit of PayPal",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-28/advent-stripe-consortium-is-said-to-drop-pursuit-of-paypal",
+      "title_zh": "Stripe 被传放弃对 PayPal 的 500 亿美元追求",
+      "created_display": "Created: Aug 27, 2026 / 18:57 PT",
+      "image_url": null,
+      "summary_en": "Stripe reportedly halted its aggressive, $50B bid to partner with or acquire PayPal via a consortium, marking an abrupt shift in a high-stakes fintech strategy. The move underscores the difficulty of mega-deals in payments, and could push Stripe to double down on organic growth and partnerships. It may reshape competitive dynamics in payments infrastructure.",
+      "summary_zh": "报道称 Stripe 放弃对 PayPal 的约500亿美元追求，显示 fintech 领域的高风险并购挑战。此举可能促使 Stripe 将重点放在自有产品、合作与自然增长上，影响支付行业竞争格局。",
+      "hn": {
+        "id": 49473483,
+        "type": "story",
+        "by": "1986",
+        "score": 186,
+        "descendants": 253,
+        "time": 1787882246,
+        "comments_url": "https://news.ycombinator.com/item?id=49473483"
+      },
+      "tags": [
+        "Business",
+        "DevOps"
+      ],
+      "hot_score": 0.71
+    },
+    {
+      "title_en": "We found a division by zero bug in FFmpeg with a vibecoded fuzzer",
+      "url": "https://code.ffmpeg.org/FFmpeg/FFmpeg/issues/24290",
+      "title_zh": "我们在 FFmpeg 的 vibecoded fuzz 测试中发现除零错误",
+      "created_display": "Created: Aug 27, 2026 / 10:53 PT",
+      "image_url": "https://code.ffmpeg.org/.within.website/x/cmd/anubis/static/img/pensive.webp?cacheBuster=v1.27.0",
+      "summary_en": "A vibecoded fuzzer uncovered a division-by-zero bug in FFmpeg, potentially causing crashes or exploit paths in media processing. The finding highlights ongoing importance of fuzzing and robust error handling in critical multimedia tooling.",
+      "summary_zh": "一次 vibecoded 模糊测试在 FFmpeg 中发现除零错误，可能触发崩溃或引入利用路径，影响音视频处理的稳定性。此发现强调了对关键多媒体工具持续进行模糊测试和鲁棒性改进的重要性。",
+      "hn": {
+        "id": 49468642,
+        "type": "story",
+        "by": "dclavijo",
+        "score": 287,
+        "descendants": 249,
+        "time": 1787853220,
+        "comments_url": "https://news.ycombinator.com/item?id=49468642"
+      },
+      "tags": [
+        "Programming",
+        "Security"
+      ],
+      "hot_score": 0.63
+    },
+    {
+      "title_en": "Show HN: OpenTIE and OpenXWA, Modern Ports of Tie Fighter and X-Wing Alliance",
+      "url": "https://github.com/elyosh/OpenTIE/",
+      "title_zh": "Show HN：OpenTIE 与 OpenXWA，现代移植的 Tie Fighter 与 X-Wing Alliance",
+      "created_display": "Created: Aug 27, 2026 / 15:10 PT",
+      "image_url": "https://opengraph.githubassets.com/47b64fd419231a989dea0cba411ad54b4b880a64573eaecb39f9a8b0234ee360/elyosh/OpenTIE",
+      "summary_en": "OpenTIE and OpenXWA bring classic Star Wars flight sims to modern systems with community-driven ports. These projects extend preservation and modding opportunities, attracting retro gaming enthusiasts while testing the limits of open-source remakes.",
+      "summary_zh": "OpenTIE 与 OpenXWA 将经典星球大战飞行模拟游戏带到现代系统，完全由社区驱动的移植。项目拓展了游戏保存与 modding 的空间，吸引复古游戏爱好者，也检验了开源复刻的潜力与边界。",
+      "hn": {
+        "id": 49471965,
+        "type": "story",
+        "by": "elyosh",
+        "score": 216,
+        "descendants": 54,
+        "time": 1787868647,
+        "comments_url": "https://news.ycombinator.com/item?id=49471965"
+      },
+      "tags": [
+        "Show HN",
+        "Open Source",
+        "Gaming"
+      ],
+      "hot_score": 0.62
+    },
+    {
+      "title_en": "Gemini Omni 1.1 Flash",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-omni-1-1-flash/",
+      "title_zh": "Gemini Omni 1.1 Flash",
+      "created_display": "Created: Aug 27, 2026 / 10:06 PT",
+      "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Omni_1-1_Flash_hero.width-1300.png",
+      "summary_en": "Gemini Omni 1.1 Flash updates likely bring improved tooling, faster deployment, and better integration with Gemini models for developers. It signals ongoing investments in developer experience around Google's Gemini platform.",
+      "summary_zh": "Gemini Omni 1.1 Flash 更新带来更完善的开发工具链、更快的部署和对 Gemini 模型的更好集成，反映出谷歌在 Gemini 平台上持续打磨开发者体验。",
+      "hn": {
+        "id": 49467922,
+        "type": "story",
+        "by": "saretup",
+        "score": 294,
+        "descendants": 223,
+        "time": 1787850392,
+        "comments_url": "https://news.ycombinator.com/item?id=49467922"
+      },
+      "tags": [
+        "AI"
+      ],
+      "hot_score": 0.61
+    },
+    {
+      "title_en": "The Twelve-Factor App (2025)",
+      "url": "https://12factor.net/",
+      "title_zh": "十二因子应用原则",
+      "created_display": "Created: Aug 27, 2026 / 15:41 PT",
+      "image_url": "https://12factor.net/images/github-mark.svg",
+      "summary_en": "An established methodology for building SaaS apps that are portable and maintainable. It codifies best practices around config, dependencies, backing services, build/run release, logs, and parity between development and production environments.",
+      "summary_zh": "这是一个面向 SaaS 应用的成熟架构方法论，强调应用配置、依赖、后端服务、构建/运行/发布、日志，以及开发和生产环境的一致性等最佳实践。",
+      "hn": {
+        "id": 49472216,
+        "type": "story",
+        "by": "jxmorris12",
+        "score": 194,
+        "descendants": 99,
+        "time": 1787870471,
+        "comments_url": "https://news.ycombinator.com/item?id=49472216"
+      },
+      "tags": [
+        "DevOps"
+      ],
+      "hot_score": 0.58
+    },
+    {
+      "title_en": "Show HN: We built open OpenRouter that turns usage into a better model",
+      "url": "https://github.com/experientiallabs/experiential",
+      "title_zh": "Show HN：我们构建了开源 OpenRouter，将使用数据转化为更好模型",
+      "created_display": "Created: Aug 27, 2026 / 14:18 PT",
+      "image_url": "https://opengraph.githubassets.com/5dbdd9aaf8b785d186cb4700de4e0beadd9d010f37998429510c2e565fb798ba/experientiallabs/experiential",
+      "summary_en": "We built an open OpenRouter that uses real-world usage signals to improve models. By staying open, developers can customize and iterate outside closed APIs, though privacy and data governance concerns remain.",
+      "summary_zh": "这个开源的 OpenRouter 通过真实使用数据来改进模型，降低进入门槛，让开发者在非闭源 API 的情况下快速迭代。与此同时，数据隐私和治理问题需要被妥善处理。",
+      "hn": {
+        "id": 49471407,
+        "type": "story",
+        "by": "SilenN",
+        "score": 206,
+        "descendants": 46,
+        "time": 1787865515,
+        "comments_url": "https://news.ycombinator.com/item?id=49471407"
+      },
+      "tags": [
+        "Show HN",
+        "Open Source",
+        "AI",
+        "Privacy"
+      ],
+      "hot_score": 0.56
+    },
+    {
+      "title_en": "Suica, Japan's First IC Transit Card",
+      "url": "https://www.tokyodev.com/articles/the-story-of-suica",
+      "title_zh": "Suica：日本首张 IC 交通卡",
+      "created_display": "Created: Aug 27, 2026 / 08:55 PT",
+      "image_url": "https://assets.tokyodev.com/tokyodev-production-r2/variants/63rvivq9bhtbm6imkjsgucw7j1dn/956d624b8ede2501210d1c5f4f0e478cb7c422176ad791a8bd107293008e7d14",
+      "summary_en": "The article traces Suica's origin as Japan's first contactless IC transit card and its impact on urban mobility. It highlights the technology choices, adoption, and how it catalyzed mobile wallet integration and nationwide transit networks.",
+      "summary_zh": "本文回顾日本首张 IC 交通卡 Suica 的诞生及其对城市出行的影响，介绍了技术选择、普及过程，以及推动移动钱包和全国性交通网络发展的作用。",
+      "hn": {
+        "id": 49466894,
+        "type": "story",
+        "by": "zdw",
+        "score": 268,
+        "descendants": 260,
+        "time": 1787846112,
+        "comments_url": "https://news.ycombinator.com/item?id=49466894"
+      },
+      "tags": [
+        "Hardware"
+      ],
+      "hot_score": 0.52
+    },
+    {
+      "title_en": "Mechanical Turk shutting down September 30",
+      "url": "https://www.mturk.com/",
+      "title_zh": "Amazon Mechanical Turk 将于9月30日停止运营",
+      "created_display": "Created: Aug 26, 2026 / 16:55 PT",
+      "image_url": "https://www.mturk.com/assets/images/logo.svg",
+      "summary_en": "Amazon Mechanical Turk will shut down on Sept 30, ending a long-running crowdwork and data-labeling platform for ML. The move affects researchers and companies relying on microtasks, pushing them to alternatives or in-house labeling workflows.",
+      "summary_zh": "Amazon Mechanical Turk 将于9月30日停止运营。这一决策结束了长期用于众包任务和机器学习数据标注的平台，相关方需转向其他平台或自行开展标注工作。",
+      "hn": {
+        "id": 49457545,
+        "type": "story",
+        "by": "tmp10423288442",
+        "score": 532,
+        "descendants": 164,
+        "time": 1787788544,
+        "comments_url": "https://news.ycombinator.com/item?id=49457545"
+      },
+      "tags": [
+        "Business"
+      ],
+      "hot_score": 0.5
+    },
+    {
+      "title_en": "Decompiling a Nintendo 64 game in 84 days",
+      "url": "https://blog.chrislewis.au/decompiling-a-nintendo-64-game-in-84-days/",
+      "title_zh": "84 天破解任天堂 64 游戏",
+      "created_display": "Created: Aug 27, 2026 / 08:01 PT",
+      "image_url": "http://blog.chrislewis.au/snowboard-kids-progress.png",
+      "summary_en": "A project documents the journey of reverse-engineering and decompiling a Nintendo 64 game within 84 days, detailing tooling, code reconstruction, and learnings for retro game hacking.",
+      "summary_zh": "记录了在 84 天内对任天堂 64 游戏进行逆向工程与反编译的历程，涵盖所用工具、代码重建过程及对复古游戏破解的经验教训。",
+      "hn": {
+        "id": 49466006,
+        "type": "story",
+        "by": "knackers",
+        "score": 265,
+        "descendants": 176,
+        "time": 1787842871,
+        "comments_url": "https://news.ycombinator.com/item?id=49466006"
+      },
+      "tags": [
+        "Programming",
+        "Gaming"
+      ],
+      "hot_score": 0.49
+    },
+    {
+      "title_en": "US Government designates host of noblogs.org a \"global terrorist\"",
+      "url": "https://crimethinc.com/2026/08/27/us-government-designates-host-of-noblogsorg-a-global-terrorist",
+      "title_zh": "美国政府将 noblogs.org 的托管方列为全球恐怖主义实体",
+      "created_display": "Created: Aug 27, 2026 / 06:12 PT",
+      "image_url": "https://cdn.crimethinc.com/assets/articles/2022/11/25/header.jpg",
+      "summary_en": "The U.S. government designated the host of noblogs.org as a global terrorist, a move that can disrupt fundraising, hosting, and access for the site. The designation reflects the expanding use of-terrorist labels in internet infrastructure disputes and raises questions about due process.",
+      "summary_zh": "美国政府将 noblogs.org 的托管方定性为全球恐怖主义实体，可能影响资金、托管与域名等运营活动。此举凸显互联网基础设施标签化执法的趋势，也引发对程序正当性的讨论。",
+      "hn": {
+        "id": 49464391,
+        "type": "story",
+        "by": "robtherobber",
+        "score": 247,
+        "descendants": 133,
+        "time": 1787836330,
+        "comments_url": "https://news.ycombinator.com/item?id=49464391"
+      },
+      "tags": [
+        "Politics",
+        "Legal",
+        "DevOps"
+      ],
+      "hot_score": 0.41
+    },
+    {
+      "title_en": "Two German airport workers die of malaria after 'mosquito arrives on plane'",
+      "url": "https://www.bbc.com/news/articles/cz6zwgg9y8go",
+      "title_zh": "德国两名机场工人死于疟疾，疑因航班带来的蚊子",
+      "created_display": "Created: Aug 27, 2026 / 10:33 PT",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/33b1/live/35fbfab0-a139-11f1-9311-09d4e1fc9016.jpg",
+      "summary_en": "Two German airport workers contracted and died from malaria, highlighting how imported vectors can still threaten temperate regions. The incident underscores the importance of surveillance, vector control, and rapid diagnosis for frontline workers in travel hubs, where global travel increases exposure to tropical diseases.",
+      "summary_zh": "德国两名机场工人死于疟疾，显示输入性蚊虫在温带地区仍有传播风险。此事件强调在高流动性场所加强监测、蚊虫控制和快速诊断的重要性，以及对一线员工的健康防护需求。",
+      "hn": {
+        "id": 49468315,
+        "type": "story",
+        "by": "vinni2",
+        "score": 186,
+        "descendants": 105,
+        "time": 1787851993,
+        "comments_url": "https://news.ycombinator.com/item?id=49468315"
+      },
+      "hot_score": 0.4,
+      "tags": [
+        "Health",
+        "Privacy"
+      ]
+    },
+    {
+      "title_en": "Asahi Linux Progress Report: Linux 7.2",
+      "url": "https://asahilinux.org/2026/08/progress-report-7-2/",
+      "title_zh": "Asahi Linux 进展报告：Linux 7.2",
+      "created_display": "Created: Aug 26, 2026 / 15:35 PT",
+      "image_url": "https://asahilinux.org/img/AsahiLinux_logomark_256px.png",
+      "summary_en": "Asahi Linux releases progress toward supporting Apple Silicon, with Linux 7.2 bringing improvements to boot, GPU, and performance on M1/M2 devices; ongoing work to mature drivers and userland experience.",
+      "summary_zh": "Asahi Linux 发布进展报告，聚焦在 Apple Silicon 上的 Linux 支持，Linux 7.2 带来引导、GPU 与性能等方面的改进，驱动与用户态体验仍在完善中。",
+      "hn": {
+        "id": 49456851,
+        "type": "story",
+        "by": "pizzaiolo",
+        "score": 404,
+        "descendants": 233,
+        "time": 1787783702,
+        "comments_url": "https://news.ycombinator.com/item?id=49456851"
+      },
+      "tags": [
+        "Open Source",
+        "Hardware"
+      ],
+      "hot_score": 0.36
+    },
+    {
+      "title_en": "M5Stack Launches PaperMono",
+      "url": "https://shop.m5stack.com/blogs/news/m5stack-launches-papermono-a-compact-e-ink-development-terminal-for-connected-projects",
+      "title_zh": "M5Stack 推出 PaperMono",
+      "created_display": "Created: Aug 27, 2026 / 10:50 PT",
+      "image_url": "http://shop.m5stack.com/cdn/shop/articles/m5stack-paper-mono-news_1200x1200.png?v=1787301484",
+      "summary_en": "PaperMono is a compact e-ink development terminal for connected projects, offering a low-power display and offline-friendly workflow. It aims to simplify prototyping and remote monitoring in IoT projects.",
+      "summary_zh": "PaperMono 是一款紧凑的电子墨水开发终端，适合连接式项目，具备低功耗显示和离线友好工作流。它为物联网原型设计和远程监控提供了一种更简单的解决方案。",
+      "hn": {
+        "id": 49468593,
+        "type": "story",
+        "by": "marksully",
+        "score": 160,
+        "descendants": 57,
+        "time": 1787853057,
+        "comments_url": "https://news.ycombinator.com/item?id=49468593"
+      },
+      "tags": [
+        "Hardware"
+      ],
+      "hot_score": 0.35
+    },
+    {
+      "title_en": "Emacs 31: An unofficial guide to Markdown-ts-mode",
+      "url": "https://rahuljuliato.com/posts/markdown-ts-mode-emacs-31",
+      "title_zh": "Emacs 31：Markdown-ts-mode 的非官方指南",
+      "created_display": "Created: Aug 27, 2026 / 06:22 PT",
+      "image_url": "https://rahuljuliato.com/assets/blog/posts/markdown-ts-mode-31-cover.png",
+      "summary_en": "This unofficial guide helps users leverage Markdown-ts-mode, a Tree-sitter-powered Markdown mode, in Emacs 31. It covers setup, keybindings, syntax highlighting, and editing workflows.",
+      "summary_zh": "本非官方指南介绍如何在 Emacs 31 中使用基于 Tree-sitter 的 Markdown-ts-mode，涵盖安装、快捷键、语法高亮和高效编辑工作流。",
+      "hn": {
+        "id": 49464543,
+        "type": "story",
+        "by": "RahulMJ",
+        "score": 194,
+        "descendants": 83,
+        "time": 1787836956,
+        "comments_url": "https://news.ycombinator.com/item?id=49464543"
+      },
+      "tags": [
+        "Programming"
+      ],
+      "hot_score": 0.33
+    },
+    {
+      "title_en": "Flock CEO gets his house blurred out on Google Maps and Zillow",
+      "url": "https://twitter.com/LocumRex/status/2092993787605717176",
+      "title_zh": "Flock 首席执行官的住宅在 Google 地图和 Zillow 上被模糊处理",
+      "created_display": "Created: Aug 27, 2026 / 09:53 PT",
+      "image_url": "https://abs.twimg.com/rweb/ssr/default/v2/og/image.png",
+      "summary_en": "The CEO’s home being blurred on Google Maps and Zillow underscores rising demand for privacy controls around mapping and property data, even for tech executives. It highlights a growing tension between public visibility and personal security in the digital era.",
+      "summary_zh": "Flock 的首席执行官在 Google 地图和 Zillow 上的住宅被模糊处理，反映出对地图与房产数据隐私控件需求的上升，甚至波及科技高管。此事揭示了在数字时代公开可见性与个人安全之间日益尖锐的博弈。",
+      "hn": {
+        "id": 49467750,
+        "type": "story",
+        "by": "lorecore",
+        "score": 158,
+        "descendants": 43,
+        "time": 1787849581,
+        "comments_url": "https://news.ycombinator.com/item?id=49467750"
+      },
+      "hot_score": 0.32,
+      "tags": [
+        "Privacy",
+        "Security",
+        "Business"
+      ]
+    },
+    {
+      "title_en": "Zohran and the Short Link",
+      "url": "https://iamwillwang.com/notes/zohran-and-the-short-link/",
+      "title_zh": "Zohran 与短链接",
+      "created_display": "Created: Aug 26, 2026 / 16:50 PT",
+      "image_url": "https://iamwillwang.com/zohran-wordmark.svg",
+      "summary_en": "Zohran and the Short Link examines how a political note intersects with the limitations and affordances of URL shorteners in modern online messaging.",
+      "summary_zh": "《Zohran 与短链接》探讨在现代在线传播中，短链接工具的局限性与可能带来的传播效应。",
+      "hn": {
+        "id": 49457512,
+        "type": "story",
+        "by": "wxw",
+        "score": 320,
+        "descendants": 212,
+        "time": 1787788215,
+        "comments_url": "https://news.ycombinator.com/item?id=49457512"
+      },
+      "tags": [
+        "Politics"
+      ],
+      "hot_score": 0.3
+    },
+    {
+      "title_en": "Aphantasia Beginner's Guide",
+      "url": "https://aphantasia.com/guide",
+      "title_zh": "失象力初学者指南",
+      "created_display": "Created: Aug 27, 2026 / 06:14 PT",
+      "image_url": "https://aphantasia.com/api/og?title=Complete+Aphantasia+Beginner%27s+Guide&subtitle=Everything+you+need+to+know+about+image-free+thinking&type=Educational+Guide&style=blog&theme=light",
+      "summary_en": "Aphantasia is the inability to visualize mental images. The guide introduces practical tips for navigating daily tasks and creativity without mental imagery, including externalization strategies like diagrams, lists, and narratives, and notes many people live without mental pictures using other cognitive strengths.",
+      "summary_zh": "失象力指脑海中无法形成图像的现象。指南提供在没有内在画面的情况下完成日常任务与创作的实用策略，如用图表、清单与叙事等外部化方法，并指出许多人通过其他认知能力来弥补缺失。",
+      "hn": {
+        "id": 49464414,
+        "type": "story",
+        "by": "ksec",
+        "score": 174,
+        "descendants": 438,
+        "time": 1787836460,
+        "comments_url": "https://news.ycombinator.com/item?id=49464414"
+      },
+      "hot_score": 0.29,
+      "tags": [
+        "Health"
+      ]
+    },
+    {
+      "title_en": "Kusama Yayoi has died",
+      "url": "https://www.nytimes.com/2026/08/26/arts/yayoi-kusama-dead.html",
+      "title_zh": "草间弥生去世",
+      "created_display": "Created: Aug 26, 2026 / 19:21 PT",
+      "image_url": null,
+      "summary_en": "Yayoi Kusama, the iconic Japanese artist known for immersive installations and polka dots, has died, ending a prolific career that reshaped contemporary art. Her influence persists across museums, fashion, and pop culture.",
+      "summary_zh": "草间弥生，被沉浸式装置与标志性圆点所知的传奇日本艺术家去世，标志着她跨越多年的高产生涯告一段落。她的影响力仍在全球博物馆、时尚与大众文化中延续。",
+      "hn": {
+        "id": 49458709,
+        "type": "story",
+        "by": "phantomathkg",
+        "score": 266,
+        "descendants": 32,
+        "time": 1787797278,
+        "comments_url": "https://news.ycombinator.com/item?id=49458709"
+      },
+      "tags": [
+        "Culture"
+      ],
+      "hot_score": 0.27
+    },
+    {
+      "title_en": "Worst-case glacial lake flood scenarios in a transboundary Himalayan basin 2022",
+      "url": "https://nhess.copernicus.org/articles/22/3765/2022/nhess-22-3765-2022.html",
+      "title_zh": "跨境喜马拉雅盆地的最坏情况冰川湖洪水情景（2022）",
+      "created_display": "Created: Aug 26, 2026 / 15:44 PT",
+      "image_url": "https://nhess.copernicus.org/articles/22/3765/2022/nhess-22-3765-2022-avatar-web.png",
+      "summary_en": "The 2022 study models worst-case glacial-lake flood scenarios in a transboundary Himalayan basin, highlighting potential cross-border impacts and the need for regional risk management and early warning systems in the context of climate change.",
+      "summary_zh": "该研究对跨境喜马拉雅盆地的冰川湖洪水极端情景进行了建模，揭示了潜在的跨境影响以及区域协作与预警系统在气候变化背景下的必要性。",
+      "hn": {
+        "id": 49456929,
+        "type": "story",
+        "by": "totetsu",
+        "score": 276,
+        "descendants": 209,
+        "time": 1787784243,
+        "comments_url": "https://news.ycombinator.com/item?id=49456929"
+      },
+      "tags": [
+        "Science"
+      ],
+      "hot_score": 0.25
+    },
+    {
+      "title_en": "Xcancel and Nitter have been taken down",
+      "url": "https://news.ycombinator.com/item?id=49462427",
+      "title_zh": "Xcancel 与 Nitter 已被下线",
+      "created_display": "Created: Aug 27, 2026 / 03:19 PT",
+      "image_url": "https://news.ycombinator.com/y18.svg",
+      "summary_en": "Xcancel, a lightweight front-end for a social platform, and Nitter, a privacy-respecting Twitter frontend, have both been shut down. The closures highlight ongoing tensions between open-source, privacy-focused tools and the mounting legal and policy pressures around platform access and API usage.",
+      "summary_zh": "Xcancel 与 Nitter 双双被下线，移除了这两类备受欢迎的隐私友好前端与轻量化工具。此事凸显在开放源代码和隐私保护工具与日益增长的法律与政策压力之间的张力，尤其是对平台接口与 API 使用的约束。",
+      "hn": {
+        "id": 49462427,
+        "type": "story",
+        "by": "madduci",
+        "score": 159,
+        "descendants": 3,
+        "time": 1787825982,
+        "comments_url": "https://news.ycombinator.com/item?id=49462427"
+      },
+      "hot_score": 0.23,
+      "tags": [
+        "Open Source",
+        "Privacy",
+        "Web",
+        "Legal"
+      ]
+    },
+    {
+      "title_en": "Stripe acquires Clerky",
+      "url": "https://www.clerky.com/blog/clerky-is-joining-stripe",
+      "title_zh": "Stripe 收购 Clerky",
+      "created_display": "Created: Aug 26, 2026 / 14:09 PT",
+      "image_url": "https://cdn.prod.website-files.com/63d301263ccf9b604207d3a6/6a8f45e92158abde2d4dbc26_stripe-clerky%204.png",
+      "summary_en": "Stripe expands entrepreneurial tooling by acquiring Clerky, boosting its startup formation and compliance offerings; Clerky's automation for filings and KYC will integrate with Stripe's payments and treasury tools, accelerating onboarding for startups.",
+      "summary_zh": "Stripe 收购 Clerky，增强对初创企业成立和合规的工具链。Clerky 的文书自动化与合规流程将与 Stripe 的支付与资金管理工具深度整合，加速初创企业的上线流程。",
+      "hn": {
+        "id": 49455956,
+        "type": "story",
+        "by": "zakshay",
+        "score": 247,
+        "descendants": 61,
+        "time": 1787778572,
+        "comments_url": "https://news.ycombinator.com/item?id=49455956"
+      },
+      "tags": [
+        "Business",
+        "Startups"
+      ],
+      "hot_score": 0.21
+    },
+    {
+      "title_en": "Afterglow: Run classic After Dark screen savers on modern macOS",
+      "url": "https://morphing.cloud/afterglow/",
+      "title_zh": "Afterglow：在现代 macOS 上运行经典的 After Dark 屏幕保护程序",
+      "created_display": "Created: Aug 26, 2026 / 17:18 PT",
+      "image_url": "https://morphing.cloud/afterglow/afterglow-og.png",
+      "summary_en": "Afterglow ports classic After Dark screensavers to current macOS, reviving retro-era UI for modern machines. It's a tale of software preservation and nostalgia, showcasing how enthusiasts keep aging experiences usable.",
+      "summary_zh": "Afterglow 将经典的 After Dark 屏幕保护程序移植到现代 macOS，重新点亮这段复古风格的用户界面。此举展示了软件保护与怀旧文化的持续价值，以及爱好者如何让旧体验在新系统上可用。",
+      "hn": {
+        "id": 49457722,
+        "type": "story",
+        "by": "NaOH",
+        "score": 183,
+        "descendants": 56,
+        "time": 1787789907,
+        "comments_url": "https://news.ycombinator.com/item?id=49457722"
+      },
+      "tags": [
+        "Culture"
+      ],
+      "hot_score": 0.17
+    }
+  ]
+}

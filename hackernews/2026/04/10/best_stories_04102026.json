@@ -1,0 +1,1162 @@
+{
+  "meta": {
+    "mode": "best",
+    "source": "https://news.ycombinator.com/",
+    "api": "https://github.com/HackerNews/API",
+    "count_requested": 50,
+    "count_written": 50,
+    "reused_same_day": 0,
+    "reused_cross_day": 25,
+    "new_llm_enriched": 5,
+    "scrape_time_display": "06:07, April 11, 2026 (PDT)",
+    "timezone": "America/Los_Angeles",
+    "date_dir": "2026/04/10",
+    "content_date": "2026-04-10",
+    "run_time_local": "06:07, April 11, 2026 (PDT)",
+    "run_time_utc": "2026-04-11 13:07:21 UTC",
+    "incremental": true,
+    "stories_max": 50,
+    "hot_score_time_utc": "2026-04-11 13:08:31 UTC"
+  },
+  "items": [
+    {
+      "title_en": "Artemis II safely splashes down",
+      "url": "https://www.cbsnews.com/live-updates/artemis-ii-splashdown-return/",
+      "title_zh": "阿耳忒弥斯II号安全落水回归",
+      "created_display": "Created: Apr 10, 2026 / 17:10 PT",
+      "image_url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/04/11/73f98421-5625-4423-9350-ca8f830524c9/thumbnail/1200x630/912aa87fa1cbfe12c5c46aa4e11480eb/2026-04-11t021020z-2118394274-rc2qmkaipb96-rtrmadp-3-space-moon-artemis.jpg",
+      "summary_en": "NASA's Artemis II mission completed a safe splashdown, marking a milestone in crewed lunar exploration. The return validates deep-space readiness and endurance in human spaceflight, setting the stage for subsequent lunar missions and partnerships with industry.",
+      "summary_zh": "阿耳忒弥斯II号完成安全落水，标志着载人月球探测的重要里程碑。此次归来验证了深空任务的可行性与人类航天的耐久性，并为后续任务及产业合作奠定基础。",
+      "hn": {
+        "id": 47725583,
+        "type": "story",
+        "by": "areoform",
+        "score": 1011,
+        "descendants": 312,
+        "time": 1775866251,
+        "comments_url": "https://news.ycombinator.com/item?id=47725583"
+      },
+      "tags": [
+        "Space"
+      ],
+      "hot_score": 7.75
+    },
+    {
+      "title_en": "Filing the corners off my MacBooks",
+      "url": "https://kentwalters.com/posts/corners/",
+      "title_zh": "把我的 MacBook 边角削圆",
+      "created_display": "Created: Apr 10, 2026 / 15:16 PT",
+      "image_url": "https://kentwalters.com/posts/corners/imgs/IMG_0796.webp",
+      "summary_en": "A playful hardware tweak: the author files the corners of their MacBooks to smooth edges, sharing steps, tools, and cautions about warranty and durability. It doubles as a meditation on DIY customization vs. risk of damaging laptops.",
+      "summary_zh": "作者动手把 MacBook 的边角削圆，给出具体步骤与所用工具，并讨论此改造对保修与耐用性的影响。全文从极客自我改造的角度，兼具风险评估的思考。",
+      "hn": {
+        "id": 47724352,
+        "type": "story",
+        "by": "normanvalentine",
+        "score": 978,
+        "descendants": 468,
+        "time": 1775859400,
+        "comments_url": "https://news.ycombinator.com/item?id=47724352"
+      },
+      "tags": [
+        "Hardware"
+      ],
+      "hot_score": 6.04
+    },
+    {
+      "title_en": "20 years on AWS and never not my job",
+      "url": "https://www.daemonology.net/blog/2026-04-11-20-years-on-AWS-and-never-not-my-job.html",
+      "title_zh": "在 AWS 工作二十年，始终把工作视为职责",
+      "created_display": "Created: Apr 10, 2026 / 22:31 PT",
+      "image_url": null,
+      "summary_en": "The author reflects on two decades with AWS, noting how cloud evolution reshapes architecture, operations, and incident response while the craft of building reliable systems stays constant. Cloud platforms mature, but hands-on engineering and thoughtful design stay necessary for resilience.",
+      "summary_zh": "作者回顾在 AWS 的二十年经历，指出云端技术的演进改变了架构、运维与事件响应的方式，但构建可靠系统的核心技能依旧。文章强调，成熟的平台并不能替代实际动手、严格设计与持续学习，以保持系统的弹性。",
+      "hn": {
+        "id": 47727711,
+        "type": "story",
+        "by": "cperciva",
+        "score": 187,
+        "descendants": 40,
+        "time": 1775885470,
+        "comments_url": "https://news.ycombinator.com/item?id=47727711"
+      },
+      "tags": [
+        "DevOps"
+      ],
+      "hot_score": 3.16
+    },
+    {
+      "title_en": "1D Chess",
+      "url": "https://rowan441.github.io/1dchess/chess.html",
+      "title_zh": "一维棋",
+      "created_display": "Created: Apr 10, 2026 / 08:37 PT",
+      "image_url": "https://rowan441.github.io/1dchess/assets/pieces/white-king.svg",
+      "summary_en": "1D Chess challenges players with a single-line board, forcing rethinking of piece mobility and strategy. It’s a compact exploration of how constraints alter classical chess dynamics and makes for a playful, AI-friendly coding or game-design exercise.",
+      "summary_zh": "一维棋盘上的棋局迫使玩家重新思考移动规则与策略，极简化的设定揭示了约束如何改变经典棋局的动力学。也是一个有趣的 AI 研究/游戏设计练习，便于实现与教学。",
+      "hn": {
+        "id": 47719740,
+        "type": "story",
+        "by": "burnt-resistor",
+        "score": 871,
+        "descendants": 151,
+        "time": 1775835448,
+        "comments_url": "https://news.ycombinator.com/item?id=47719740"
+      },
+      "tags": [
+        "Gaming",
+        "Programming",
+        "AI"
+      ],
+      "hot_score": 2.96
+    },
+    {
+      "title_en": "Installing every* Firefox extension",
+      "url": "https://jack.cab/blog/every-firefox-extension",
+      "title_zh": "安装全部 Firefox 扩展",
+      "created_display": "Created: Apr 10, 2026 / 14:56 PT",
+      "image_url": "https://jack.cab/_astro/launch.fuIAiunJ_qq4pe.png",
+      "summary_en": "The author tests the Firefox extension ecosystem by installing every extension, documenting conflicts, performance, and sanity checks. The result reveals that the browser's extension ecosystem is powerful but can become unwieldy, underscoring the need for better extension vetting and performance budgeting.",
+      "summary_zh": "作者尝试安装所有 Firefox 扩展，记录冲突、性能与可用性。结果显示扩展生态强大却易变得难以维护，强调需要更严格的扩展筛选与性能预算。",
+      "hn": {
+        "id": 47724118,
+        "type": "story",
+        "by": "RohanAdwankar",
+        "score": 458,
+        "descendants": 62,
+        "time": 1775858193,
+        "comments_url": "https://news.ycombinator.com/item?id=47724118"
+      },
+      "tags": [
+        "Web",
+        "Security"
+      ],
+      "hot_score": 2.73
+    },
+    {
+      "title_en": "Sam Altman's response to Molotov cocktail incident",
+      "url": "https://blog.samaltman.com/2279512",
+      "title_zh": "萨姆·奥特曼对燃烧瓶事件的回应",
+      "created_display": "Created: Apr 10, 2026 / 16:05 PT",
+      "image_url": "https://phaven-prod.s3.amazonaws.com/files/image_part/asset/3439526/q4Xtf4iMYA_SCrMc8hMfnF_k3UE/large_WhatsApp_Image_2026-02-28_at_15.26.14__4_.jpeg",
+      "summary_en": "Sam Altman addresses a security incident involving a Molotov cocktail at a protest, outlining responses and security measures. The note reflects a leadership stance on safety, civil discourse, and the future of AI ventures.",
+      "summary_zh": "萨姆·奥特曼就抗议中的燃烧瓶事件发表回应，概述安保措施及后续行动，体现出对安全、理性讨论及 AI 事业未来的领导立场。",
+      "hn": {
+        "id": 47724921,
+        "type": "story",
+        "by": "jack_hanford",
+        "score": 316,
+        "descendants": 701,
+        "time": 1775862348,
+        "comments_url": "https://news.ycombinator.com/item?id=47724921"
+      },
+      "tags": [
+        "Security",
+        "AI"
+      ],
+      "hot_score": 2.13
+    },
+    {
+      "title_en": "France Launches Government Linux Desktop Plan as Windows Exit Begins",
+      "url": "https://www.numerique.gouv.fr/sinformer/espace-presse/souverainete-numerique-reduction-dependances-extra-europeennes/",
+      "title_zh": "法国启动政府级 Linux 桌面计划，Windows 退出进程开启",
+      "created_display": "Created: Apr 10, 2026 / 03:37 PT",
+      "image_url": "https://s3.eu-west-par.io.cloud.ovh.net/numerique-gouv-website/numerique-gouv-website/images/NUMERIQUE-GOUV_LOGO_PRIMAIRE_SIGNATURE_RVB.original.svg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=83d53d2d1ca64211b6b9581adffa67ce%2F20260410%2Feu-west-par%2Fs3%2Faws4_request&X-Amz-Date=20260410T132142Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=6f7e6dcdaa6aeb57fe15f60bb8e5564ce95029d31e0d93650bec45e36f7c10b8",
+      "summary_en": "France accelerates digital sovereignty by deploying Linux desktops across government as Windows migration begins. The move aims to cut vendor lock-in, reduce costs, and improve security, while posing challenges for app compatibility and procurement. It signals a broader trend toward open-source adoption in the public sector.",
+      "summary_zh": "法国通过在政府领域全面部署 Linux 桌面来提升数字主权，Windows 退出计划随之开启。此举旨在降低厂商锁定、压缩成本并提升安全性，但在应用兼容性与采购流程上也带来挑战。反映出公共部门日益重视开源的趋势。",
+      "hn": {
+        "id": 47716043,
+        "type": "story",
+        "by": "embedding-shape",
+        "score": 841,
+        "descendants": 1,
+        "time": 1775817453,
+        "comments_url": "https://news.ycombinator.com/item?id=47716043"
+      },
+      "tags": [
+        "Open Source",
+        "Politics",
+        "Security"
+      ],
+      "hot_score": 2.02
+    },
+    {
+      "title_en": "France to ditch Windows for Linux to reduce reliance on US tech",
+      "url": "https://techcrunch.com/2026/04/10/france-to-ditch-windows-for-linux-to-reduce-reliance-on-us-tech/",
+      "title_zh": "法国将放弃 Windows 改用 Linux，降低对美国科技的依赖",
+      "created_display": "Created: Apr 10, 2026 / 08:20 PT",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/04/france-flag-2233577438.jpg?resize=1200,873",
+      "summary_en": "France plans to replace Windows with Linux on government devices to reduce reliance on US tech and tighten sovereignty. The move signals growing appetite for open-source in public sector procurement and raises questions about migration complexity and vendor ecosystems.",
+      "summary_zh": "法国计划把政府设备从 Windows 切换到 Linux，以减少对美国科技的依赖。这一举措凸显公共部门对开源软件的越来越大兴趣，同时也带来迁移的挑战与生态影响。",
+      "hn": {
+        "id": 47719486,
+        "type": "story",
+        "by": "Teever",
+        "score": 545,
+        "descendants": 661,
+        "time": 1775834448,
+        "comments_url": "https://news.ycombinator.com/item?id=47719486"
+      },
+      "tags": [
+        "Open Source",
+        "Politics"
+      ],
+      "hot_score": 1.81
+    },
+    {
+      "title_en": "WireGuard makes new Windows release following Microsoft signing resolution",
+      "url": "https://lists.zx2c4.com/pipermail/wireguard/2026-April/009561.html",
+      "title_zh": "WireGuard 在微软签名决定后推出全新 Windows 版本",
+      "created_display": "Created: Apr 10, 2026 / 08:49 PT",
+      "image_url": null,
+      "summary_en": "WireGuard released a Windows build aligned with a Microsoft signing resolution, addressing long-standing driver-signing hurdles. The update improves installer reliability and kernel-mode VPN performance, underscoring how platform signing policies shape open-source tooling on Windows.",
+      "summary_zh": "在微软签名决议推动下，WireGuard 推出新的 Windows 版本，解决长期的驱动签名问题。更新提升安装可靠性与内核模式下的性能，体现了平台签名策略对开源工具在 Windows 上的影响。",
+      "hn": {
+        "id": 47719942,
+        "type": "story",
+        "by": "zx2c4",
+        "score": 498,
+        "descendants": 145,
+        "time": 1775836192,
+        "comments_url": "https://news.ycombinator.com/item?id=47719942"
+      },
+      "tags": [
+        "Open Source",
+        "Security"
+      ],
+      "hot_score": 1.72
+    },
+    {
+      "title_en": "Chimpanzees in Uganda locked in eight-year 'civil war', say researchers",
+      "url": "https://www.bbc.com/news/articles/cr71lkzv49po",
+      "title_zh": "研究者称乌干达黑猩猩被卷入八年内战",
+      "created_display": "Created: Apr 10, 2026 / 12:10 PT",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/2a41/live/068357f0-34fc-11f1-9d5c-8ba507d7dbde.png",
+      "summary_en": "Researchers report long-running coalitions and violence among chimpanzee communities in Uganda, describing it as an eight-year 'civil war.' The findings shed light on primate social dynamics, territory disputes, and conservation challenges in human-influenced habitats.",
+      "summary_zh": "研究者指出乌干达黑猩猩群体存在八年之久的领地争夺与暴力冲突，类似‘内战’的局面。研究揭示灵长类社会结构、资源竞争以及在人类活动密集区域的保护挑战。",
+      "hn": {
+        "id": 47722333,
+        "type": "story",
+        "by": "neversaydie",
+        "score": 359,
+        "descendants": 210,
+        "time": 1775848222,
+        "comments_url": "https://news.ycombinator.com/item?id=47722333"
+      },
+      "tags": [
+        "Science"
+      ],
+      "hot_score": 1.63
+    },
+    {
+      "title_en": "AI assistance when contributing to the Linux kernel",
+      "url": "https://github.com/torvalds/linux/blob/master/Documentation/process/coding-assistants.rst",
+      "title_zh": "AI 辅助 Linux 内核贡献",
+      "created_display": "Created: Apr 10, 2026 / 11:35 PT",
+      "image_url": "https://opengraph.githubassets.com/11e09d3f61dc70f9d25b70e6b1f51480b56abb8ee787fd9c2258f8738bd81fb9/torvalds/linux",
+      "summary_en": "Documentation hints at AI-assisted coding guidance for Linux kernel contributors, illustrating growing acceptance of AI copilots in critical software projects. The move raises questions about tooling, governance, and code quality.",
+      "summary_zh": "文档显示 Linux 内核贡献者可以在编码中获得 AI 辅助，反映 AI 助手在关键软件项目中的逐步落地。也带来关于工具治理和代码质量的讨论。",
+      "hn": {
+        "id": 47721953,
+        "type": "story",
+        "by": "hmokiguess",
+        "score": 369,
+        "descendants": 266,
+        "time": 1775846121,
+        "comments_url": "https://news.ycombinator.com/item?id=47721953"
+      },
+      "tags": [
+        "AI",
+        "Programming"
+      ],
+      "hot_score": 1.59
+    },
+    {
+      "title_en": "You can't trust macOS Privacy and Security settings",
+      "url": "https://eclecticlight.co/2026/04/10/why-you-cant-trust-privacy-security/",
+      "title_zh": "你不能完全信任 macOS 的隐私与安全设置",
+      "created_display": "Created: Apr 10, 2026 / 08:28 PT",
+      "image_url": "https://eclecticlight.co/wp-content/uploads/2026/04/insenticon.jpg",
+      "summary_en": "macOS privacy and security settings can be misleading: several protections rely on OS-level implementations that apps can bypass or misreport. The piece outlines gaps in how permissions, telemetry, and kernel extensions are enforced and suggests practical hardening steps, including auditing app entitlements and minimizing third-party extensions.",
+      "summary_zh": "macOS 的隐私与安全设置并非全然可靠，其保护往往依赖于系统层面的实现，应用仍有绕过权限和数据收集的可能。文章指出存在的若干缺口，并给出具体做法，如审查应用授权、减少第三方扩展、避免依赖默认设定等。",
+      "hn": {
+        "id": 47719602,
+        "type": "story",
+        "by": "zdw",
+        "score": 472,
+        "descendants": 160,
+        "time": 1775834904,
+        "comments_url": "https://news.ycombinator.com/item?id=47719602"
+      },
+      "tags": [
+        "Security",
+        "Privacy"
+      ],
+      "hot_score": 1.58
+    },
+    {
+      "title_en": "FBI used iPhone notification data to retrieve deleted Signal messages",
+      "url": "https://9to5mac.com/2026/04/09/fbi-used-iphone-notification-data-to-retrieve-deleted-signal-messages/",
+      "title_zh": "FBI 使用 iPhone 通知数据检索已删除的 Signal 消息",
+      "created_display": "Created: Apr 10, 2026 / 04:29 PT",
+      "image_url": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/12/Reddit-comment-led-police-to-identify-Brown-University-shooter.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "summary_en": "Forensic use of iPhone notification data enabled recovery of deleted Signal messages, highlighting how notification metadata can bypass user deletions. This underscores a growing privacy and security risk for messaging apps, and could intensify debates over data minimization and platform protections.",
+      "summary_zh": "通过分析 iPhone 通知数据，联邦调查局帮助找回了已删除的 Signal 消息，暴露了通知元数据可能绕过删除保护的风险。此事凸显隐私与安全之间的博弈，或将推动关于数据最小化与平台保护的讨论。",
+      "hn": {
+        "id": 47716490,
+        "type": "story",
+        "by": "01-_-",
+        "score": 593,
+        "descendants": 293,
+        "time": 1775820544,
+        "comments_url": "https://news.ycombinator.com/item?id=47716490"
+      },
+      "hot_score": 1.5,
+      "tags": [
+        "Security",
+        "Privacy"
+      ]
+    },
+    {
+      "title_en": "EFF is leaving X",
+      "url": "https://www.eff.org/deeplinks/2026/04/eff-leaving-x",
+      "title_zh": "EFF 将离开 X",
+      "created_display": "Created: Apr 09, 2026 / 10:08 PT",
+      "image_url": "https://www.eff.org/files/banner_library/Twitter-censored.png",
+      "summary_en": "EFF announces departure from X, citing concerns over platform policies, data practices, and civil liberties. This move signals growing tensions between advocacy groups and major social platforms, and may influence developers and researchers who rely on the platform for distribution or outreach.",
+      "summary_zh": "电子前哨基金会宣布退出 X，表示对平台政策、数据使用等问题存在关切。这一举动凸显了公民社会组织与大型社交平台之间的日益紧张关系，并可能影响依赖该平台进行传播与研究的开发者与研究者。",
+      "hn": {
+        "id": 47706268,
+        "type": "story",
+        "by": "gregsadetsky",
+        "score": 1409,
+        "descendants": 1277,
+        "time": 1775754484,
+        "comments_url": "https://news.ycombinator.com/item?id=47706268"
+      },
+      "tags": [
+        "Privacy",
+        "Politics"
+      ],
+      "hot_score": 1.43
+    },
+    {
+      "title_en": "Industrial design files for Keychron keyboards and mice",
+      "url": "https://github.com/Keychron/Keychron-Keyboards-Hardware-Design",
+      "title_zh": "Keychron 键盘和鼠标的工业设计档案公开",
+      "created_display": "Created: Apr 10, 2026 / 09:22 PT",
+      "image_url": "https://repository-images.githubusercontent.com/1200994191/f8c43e0d-d72d-4c2b-91d8-13b0ac462969",
+      "summary_en": "Keychron has open-sourced industrial design files for its keyboards and mice, inviting DIY fabrication, replication, and community-driven hardware tinkering. The move lowers barrier to modification, audits, and transparency, while highlighting how hardware design data can accelerate innovation.",
+      "summary_zh": "Keychron 公开了键盘和鼠标的工业设计档案，降低了自制、改装和硬件透明度的门槛。此举推动开源硬件社区的发展，同时也让设计数据更易于审计与创新。",
+      "hn": {
+        "id": 47720419,
+        "type": "story",
+        "by": "stingraycharles",
+        "score": 395,
+        "descendants": 123,
+        "time": 1775838146,
+        "comments_url": "https://news.ycombinator.com/item?id=47720419"
+      },
+      "tags": [
+        "Open Source",
+        "Hardware"
+      ],
+      "hot_score": 1.42
+    },
+    {
+      "title_en": "OpenAI backs Illinois bill that would limit when AI labs can be held liable",
+      "url": "https://www.wired.com/story/openai-backs-bill-exempt-ai-firms-model-harm-lawsuits/",
+      "title_zh": "OpenAI 支持伊利诺伊州提出的限制 AI 实验室承担责任的法案",
+      "created_display": "Created: Apr 10, 2026 / 06:08 PT",
+      "image_url": "https://media.wired.com/photos/69d81fc99011397f817a1986/191:100/w_1280,c_limit/OpenAI-Backs-Bill-That-Lets-AI-Labs-Dodge-Liability-for-Critical-Harms-Business-2244268254.jpg",
+      "summary_en": "OpenAI backs an Illinois bill that would limit when AI labs can be sued for harms their models cause. The measure seeks to carve out liability protections in certain scenarios, signaling a push to shield developers and influence how AI accountability is framed in the U.S.",
+      "summary_zh": "OpenAI 支持一项在伊利诺伊州提出的法案，该法案将限制 AI 实验室在某些情形下对其模型造成的伤害承担法律责任。提案旨在为开发者提供免责空间，并影响美国对 AI 问责框架的走向。",
+      "hn": {
+        "id": 47717587,
+        "type": "story",
+        "by": "smurda",
+        "score": 433,
+        "descendants": 314,
+        "time": 1775826523,
+        "comments_url": "https://news.ycombinator.com/item?id=47717587"
+      },
+      "hot_score": 1.23,
+      "tags": [
+        "Politics",
+        "Legal",
+        "AI"
+      ]
+    },
+    {
+      "title_en": "DOJ wants to scrap Watergate-era rule that makes presidential records public",
+      "url": "https://theintercept.com/2026/04/09/trump-documents-library-presidential-records-act/",
+      "title_zh": "司法部拟废除水门时期的总统档案公开规则",
+      "created_display": "Created: Apr 10, 2026 / 12:28 PT",
+      "image_url": "https://theintercept.com/wp-content/uploads/2026/04/GettyImages-1258566797-e1775672169422.jpg?fit=3000%2C1500&w=1200&h=800",
+      "summary_en": "The DOJ wants to scrap a Nixon-era rule that makes presidential records public, a move that could shrink archival transparency. If enacted, the change could alter how quickly and widely past administrations' documents are released and scrutinized.",
+      "summary_zh": "司法部拟废除水门时期的一项规则，该规则确保总统档案公开。这一变动可能削弱档案的透明度与公众访问权，并影响历任政府记录的披露速度与范围。",
+      "hn": {
+        "id": 47722566,
+        "type": "story",
+        "by": "tlhunter",
+        "score": 237,
+        "descendants": 55,
+        "time": 1775849289,
+        "comments_url": "https://news.ycombinator.com/item?id=47722566"
+      },
+      "hot_score": 1.11,
+      "tags": [
+        "Politics",
+        "Legal"
+      ]
+    },
+    {
+      "title_en": "Helium is hard to replace",
+      "url": "https://www.construction-physics.com/p/helium-is-hard-to-replace",
+      "title_zh": "氦气很难替代",
+      "created_display": "Created: Apr 10, 2026 / 08:06 PT",
+      "image_url": "https://substackcdn.com/image/fetch/$s_!sAvO!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5ae2519f-6142-44ce-aa4d-0b9b276c12ff_1220x634.png",
+      "summary_en": "Helium's unique properties and global supply constraints mean finding drop-in replacements is nontrivial for tech manufacturing and cryogenics. The piece surveys why alternatives either underperform or introduce new trade-offs, stressing the need for long-term helium stewardship and diversification of suppliers.",
+      "summary_zh": "氦气的独特性质及全球供应限制使得替代品难以直接替代，尤其在冷却与制造领域。文章梳理了可选替代方案的局限性与权衡，强调长期氦气管理与供应多元化的重要性。",
+      "hn": {
+        "id": 47719274,
+        "type": "story",
+        "by": "JumpCrisscross",
+        "score": 331,
+        "descendants": 231,
+        "time": 1775833611,
+        "comments_url": "https://news.ycombinator.com/item?id=47719274"
+      },
+      "tags": [
+        "Science"
+      ],
+      "hot_score": 1.08
+    },
+    {
+      "title_en": "CPU-Z and HWMonitor compromised",
+      "url": "https://www.theregister.com/2026/04/10/cpuid_site_hijacked/",
+      "title_zh": "CPU-Z 和 HWMonitor 被入侵",
+      "created_display": "Created: Apr 10, 2026 / 06:29 PT",
+      "image_url": "https://regmedia.co.uk/2021/04/13/malware.jpg",
+      "summary_en": "CPUID's download infrastructure was hijacked to serve malware, illustrating how supply-chain and mirror compromises can affect trusted tooling. The incident reinforces the need for verified signatures, diverse mirrors, and user vigilance when installing widely-used utilities.",
+      "summary_zh": "CPUID 的下载基础设施被入侵，伪装成恶意软件的镜像分发，暴露供应链和镜像源的风险。事件提醒用户核对签名、使用多源镜像并保持警觉。",
+      "hn": {
+        "id": 47717847,
+        "type": "story",
+        "by": "pashadee",
+        "score": 354,
+        "descendants": 92,
+        "time": 1775827760,
+        "comments_url": "https://news.ycombinator.com/item?id=47717847"
+      },
+      "tags": [
+        "Security",
+        "Hardware",
+        "DevOps"
+      ],
+      "hot_score": 1.03
+    },
+    {
+      "title_en": "Molotov cocktail is hurled at home of Sam Altman",
+      "url": "https://www.nytimes.com/2026/04/10/us/open-ai-sam-altman-molotov-cocktail.html",
+      "title_zh": "萨姆·奥特曼家中发生莫洛托夫鸡尾酒袭击",
+      "created_display": "Created: Apr 10, 2026 / 11:48 PT",
+      "image_url": null,
+      "summary_en": "A Molotov cocktail was thrown at Sam Altman's home, prompting a police investigation. The incident underscores safety and security concerns around high-profile tech leaders and AI policy discourse.",
+      "summary_zh": "萨姆·奥特曼家中发生莫洛托夫鸡尾酒袭击，现已展开调查。这一事件再次引发对 AI 领域领袖安全的关注。",
+      "hn": {
+        "id": 47722096,
+        "type": "story",
+        "by": "enraged_camel",
+        "score": 233,
+        "descendants": 557,
+        "time": 1775846904,
+        "comments_url": "https://news.ycombinator.com/item?id=47722096"
+      },
+      "tags": [
+        "Security",
+        "Politics",
+        "AI"
+      ],
+      "hot_score": 1.02
+    },
+    {
+      "title_en": "JSON formatter Chrome plugin now closed and injecting adware",
+      "url": "https://github.com/callumlocke/json-formatter",
+      "title_zh": "Chrome JSON Formatter 插件现已关闭，且被注入广告软件",
+      "created_display": "Created: Apr 10, 2026 / 11:34 PT",
+      "image_url": "https://opengraph.githubassets.com/26e9707cc8dd3a91189cfeb8028348474b17818d4006183fdcca2313ec80bec5/callumlocke/json-formatter",
+      "summary_en": "The Chrome extension formerly known as JSON Formatter has been shut down after revelations that it injected adware into users' browsers. This underscores ongoing security risks in browser extensions and the need for careful vetting of third-party tools.",
+      "summary_zh": "Chrome JSON Formatter 插件已被关闭，同时被证实注入广告软件，影响用户浏览体验。事件凸显浏览器扩展的安全风险，强调对第三方工具的审查与权限控制。",
+      "hn": {
+        "id": 47721946,
+        "type": "story",
+        "by": "jkl5xx",
+        "score": 234,
+        "descendants": 115,
+        "time": 1775846095,
+        "comments_url": "https://news.ycombinator.com/item?id=47721946"
+      },
+      "tags": [
+        "Security",
+        "Web"
+      ],
+      "hot_score": 1.01
+    },
+    {
+      "title_en": "A compelling title that is cryptic enough to get you to take action on it",
+      "url": "https://ericwbailey.website/published/a-compelling-title-that-is-cryptic-enough-to-get-you-to-take-action-on-it/",
+      "title_zh": "一个足够神秘，促使你行动的标题",
+      "created_display": "Created: Apr 10, 2026 / 09:53 PT",
+      "image_url": "https://ericwbailey.website/img/posts/a-compelling-title-that-is-cryptic-enough-to-get-you-to-take-action-on-it/share-image-facebook.png",
+      "summary_en": "This piece discusses how a cryptic yet compelling title can trigger curiosity and action, offering takeaways for creators designing hooks and headlines. It blends psychology with practical guidance on clarity, surface-level intrigue, and setting reader expectations.",
+      "summary_zh": "文章讨论如何用隐秘却足以促使行动的标题吸引读者，结合认知心理与实用建议，帮助创作者设计更具引导力的标题。",
+      "hn": {
+        "id": 47720827,
+        "type": "story",
+        "by": "mooreds",
+        "score": 254,
+        "descendants": 137,
+        "time": 1775840035,
+        "comments_url": "https://news.ycombinator.com/item?id=47720827"
+      },
+      "tags": [
+        "Design"
+      ],
+      "hot_score": 0.95
+    },
+    {
+      "title_en": "Microsoft suspends dev accounts for high-profile open source projects",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-suspends-dev-accounts-for-high-profile-open-source-projects/",
+      "title_zh": "微软暂停对知名开源项目的开发者账户",
+      "created_display": "Created: Apr 10, 2026 / 04:20 PT",
+      "image_url": "https://www.bleepstatic.com/content/hl-images/2025/08/07/Microsoft.jpg",
+      "summary_en": "Microsoft suspends developer accounts tied to high-profile open-source projects, raising questions about platform governance and the impact on OSS communities. The move underscores ongoing tensions between commercial platform rules and open collaboration, with potential spillover for maintainers.",
+      "summary_zh": "微软暂停与知名开源项目相关的开发者账户，引发对平台治理及对开源社区影响的讨论。这一举动凸显了商业平台规则与开源协作之间的紧张关系，可能对维护者产生连锁影响。",
+      "hn": {
+        "id": 47716412,
+        "type": "story",
+        "by": "N19PEDL2",
+        "score": 364,
+        "descendants": 135,
+        "time": 1775820051,
+        "comments_url": "https://news.ycombinator.com/item?id=47716412"
+      },
+      "tags": [
+        "Open Source",
+        "Politics"
+      ],
+      "hot_score": 0.91
+    },
+    {
+      "title_en": "Nowhere is safe",
+      "url": "https://steveblank.com/2026/04/09/nowhere-is-safe/",
+      "title_zh": "没有一个地方是安全的",
+      "created_display": "Created: Apr 10, 2026 / 12:27 PT",
+      "image_url": "https://steveblank.com/wp-content/uploads/2026/04/Ukraine-anti-drone-netting.jpg",
+      "summary_en": "Steve Blank argues no system is truly secure in the modern threat landscape, urging stronger threat modeling and continuous testing. The piece emphasizes resilience over perfection in security practice.",
+      "summary_zh": "作者指出在现代威胁环境下没有系统能绝对安全，需要更强的威胁建模与持续演练来提升韧性。强调安全应是持续的治理与改进过程。",
+      "hn": {
+        "id": 47722562,
+        "type": "story",
+        "by": "sblank",
+        "score": 188,
+        "descendants": 254,
+        "time": 1775849278,
+        "comments_url": "https://news.ycombinator.com/item?id=47722562"
+      },
+      "tags": [
+        "Security"
+      ],
+      "hot_score": 0.88
+    },
+    {
+      "title_en": "Native Instant Space Switching on macOS",
+      "url": "https://arhan.sh/blog/native-instant-space-switching-on-macos/",
+      "title_zh": "macOS 原生即时空间切换",
+      "created_display": "Created: Apr 09, 2026 / 12:48 PT",
+      "image_url": "https://arhan.sh/favicon.ico",
+      "summary_en": "macOS now supports native instant switching between virtual desktops (Spaces), drastically reducing the perceived latency when moving between spaces. It highlights implications for workflow efficiency, window management, and potential limitations compared with third-party tools.",
+      "summary_zh": "macOS 现在原生支持在虚拟桌面（Spaces）之间即时切换，显著降低切换时的延迟，提升多任务处理体验。文中讨论了这一特性对窗口管理和工作流程的影响，以及与第三方工具相比的潜在局限。",
+      "hn": {
+        "id": 47708818,
+        "type": "story",
+        "by": "PaulHoule",
+        "score": 626,
+        "descendants": 311,
+        "time": 1775764106,
+        "comments_url": "https://news.ycombinator.com/item?id=47708818"
+      },
+      "tags": [
+        "Design"
+      ],
+      "hot_score": 0.71
+    },
+    {
+      "title_en": "I still prefer MCP over skills",
+      "url": "https://david.coffee/i-still-prefer-mcp-over-skills/",
+      "title_zh": "我仍然更偏爱 MCP 而非技能",
+      "created_display": "Created: Apr 09, 2026 / 19:01 PT",
+      "image_url": "https://david.coffee/i-still-prefer-mcp-over-skills/banner.png",
+      "summary_en": "A provocative take arguing that MCP offers a more reliable path than chasing ever-changing skills. The piece emphasizes repeatable competencies, better decision-making, and long-term value for teams building complex software.",
+      "summary_zh": "作者主张 MCP 比追逐不断变化的技能更可靠。文章强调可重复的能力、更清晰的决策，以及对构建复杂软件的团队来说的长期价值。",
+      "hn": {
+        "id": 47712718,
+        "type": "story",
+        "by": "gmays",
+        "score": 437,
+        "descendants": 355,
+        "time": 1775786508,
+        "comments_url": "https://news.ycombinator.com/item?id=47712718"
+      },
+      "tags": [
+        "Programming",
+        "Career"
+      ],
+      "hot_score": 0.65
+    },
+    {
+      "title_en": "How NASA built Artemis II’s fault-tolerant computer",
+      "url": "https://cacm.acm.org/news/how-nasa-built-artemis-iis-fault-tolerant-computer/",
+      "title_zh": "NASA 如何打造 Artemis II 的容错计算机",
+      "created_display": "Created: Apr 09, 2026 / 08:12 PT",
+      "image_url": null,
+      "summary_en": "NASA built a fault-tolerant onboard computer for Artemis II, emphasizing resilience in radiation-rich space. The system relies on redundancy, error detection, and hardened components to keep crewed flight safe even if primary hardware fails. The design illustrates how space-grade computing priorities differ from consumer systems.",
+      "summary_zh": "阿耳忒弥斯II号任务的机载容错计算机采用冗余、错误检测和抗辐射组件等技术，以在关键硬件失效时仍能维持运作。该系统体现了太空计算对可靠性的高要求，远超商用系统的容错能力。",
+      "hn": {
+        "id": 47704804,
+        "type": "story",
+        "by": "speckx",
+        "score": 616,
+        "descendants": 222,
+        "time": 1775747560,
+        "comments_url": "https://news.ycombinator.com/item?id=47704804"
+      },
+      "tags": [
+        "Space",
+        "Hardware"
+      ],
+      "hot_score": 0.58
+    },
+    {
+      "title_en": "Meta removes ads for social media addiction litigation",
+      "url": "https://www.axios.com/2026/04/09/meta-social-media-addiction-ads",
+      "title_zh": "Meta因社媒成瘾诉讼而移除广告",
+      "created_display": "Created: Apr 09, 2026 / 06:23 PT",
+      "image_url": null,
+      "summary_en": "Meta's move to remove ads linked to a social-media addiction lawsuit underscores how litigation is nudging platforms to rethink ad-supported models and user-well-being commitments. The case could ripple through advertising strategies and policy discussions around platform responsibility.",
+      "summary_zh": "Meta 因社媒成瘾诉讼而移除相关广告，凸显法律诉讼正在推动平台重新审视广告支持模式与对用户健康的承诺。此举可能影响广告策略与对平台责任的政策讨论。",
+      "hn": {
+        "id": 47703419,
+        "type": "story",
+        "by": "giuliomagnifico",
+        "score": 626,
+        "descendants": 248,
+        "time": 1775741030,
+        "comments_url": "https://news.ycombinator.com/item?id=47703419"
+      },
+      "tags": [
+        "Legal",
+        "Business"
+      ],
+      "hot_score": 0.55
+    },
+    {
+      "title_en": "We've raised $17M to build what comes after Git",
+      "url": "https://blog.gitbutler.com/series-a",
+      "title_zh": "融资 1700 万美元，打造超越 Git 的下一代工具",
+      "created_display": "Created: Apr 09, 2026 / 18:52 PT",
+      "image_url": "https://gitbutler-docs-images-public.s3.us-east-1.amazonaws.com/17-series-a.webp",
+      "summary_en": "Git Butler raises $17M in Series A to build the next generation of version-control and collaboration tooling beyond Git, aiming to address collaboration bottlenecks, UX gaps, and scale for large teams. The funding signals continued investor interest in reimagining source control for modern workflows.",
+      "summary_zh": "融资 1700 万美元，团队计划打造超越 Git 的下一代版本控制与协作工具，瞄准解决协作瓶颈、用户体验差距以及大团队的扩展性。此次融资表明投资者对重新定义现代工作流程的源代码管理工具仍然充满兴趣。",
+      "hn": {
+        "id": 47712656,
+        "type": "story",
+        "by": "ellieh",
+        "score": 319,
+        "descendants": 696,
+        "time": 1775785978,
+        "comments_url": "https://news.ycombinator.com/item?id=47712656"
+      },
+      "tags": [
+        "Startups",
+        "Programming"
+      ],
+      "hot_score": 0.47
+    },
+    {
+      "title_en": "The Pentagon Threatened Pope Leo XIV's Ambassador with the Avignon Papacy",
+      "url": "https://www.thelettersfromleo.com/p/the-pentagon-threatened-pope-leo",
+      "title_zh": "五角大楼威胁阿维尼翁时期教皇使节",
+      "created_display": "Created: Apr 09, 2026 / 09:46 PT",
+      "image_url": "https://substackcdn.com/image/fetch/$s_!wLRo!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9558cb84-a466-4009-8945-ea577cd0443e_1536x1024.png",
+      "summary_en": "A provocative, era-spanning hypothetical sees the Pentagon pressuring a papal envoy during the Avignon Papacy era. The piece uses a historical lens to examine how power dynamics shape diplomacy across institutions, inviting reflection on modern geopolitics and institutional leverage.",
+      "summary_zh": "一个跨时代的设想情景，描绘五角大楼在阿维尼翁教皇时期对教皇使节施压。通过历史视角探讨权力如何影响跨机构的外交运作，引发对当代地缘政治与机构影响力的思考。",
+      "hn": {
+        "id": 47705952,
+        "type": "story",
+        "by": "frm88",
+        "score": 462,
+        "descendants": 305,
+        "time": 1775753171,
+        "comments_url": "https://news.ycombinator.com/item?id=47705952"
+      },
+      "tags": [
+        "Politics"
+      ],
+      "hot_score": 0.46
+    },
+    {
+      "title_en": "Microsoft is employing dark patterns to goad users into paying for storage?",
+      "url": "https://lzon.ca/posts/other/microsoft-user-abuse/",
+      "title_zh": "微软在使用暗性设计来诱导用户为存储付费？",
+      "created_display": "Created: Apr 09, 2026 / 14:09 PT",
+      "image_url": "https://lzon.ca/img/og-image.jpg",
+      "summary_en": "Details how Microsoft allegedly uses UI patterns to push users toward paying for extra storage, raising questions about user trust and platform UX. The post urges awareness of such tactics and discusses implications for data ownership and billing.",
+      "summary_zh": "揭示微软据称使用 UI 策略推动用户为额外存储付费的做法，引发对用户信任与平台用户体验的关注。文章讨论此类策略的潜在影响，以及对数据拥有权与账单透明度的启示。",
+      "hn": {
+        "id": 47710149,
+        "type": "story",
+        "by": "jpmitchell",
+        "score": 389,
+        "descendants": 242,
+        "time": 1775768952,
+        "comments_url": "https://news.ycombinator.com/item?id=47710149"
+      },
+      "tags": [
+        "Design",
+        "Privacy"
+      ],
+      "hot_score": 0.46
+    },
+    {
+      "title_en": "Intel 486 CPU announced April 10, 1989",
+      "url": "https://dfarq.homeip.net/intel-486-cpu-announced-april-10-1989/",
+      "title_zh": "英特尔 80486 处理器于1989年4月10日宣布",
+      "created_display": "Created: Apr 10, 2026 / 05:03 PT",
+      "image_url": "https://i0.wp.com/dfarq.homeip.net/wp-content/uploads/2025/02/intel-486-social.jpg?fit=892%2C502&ssl=1",
+      "summary_en": "The 486 introduced on-chip cache and improved architecture, delivering a substantial speedup over 386 and cementing x86 dominance in PCs. This milestone accelerated desktop software development and hardware innovations for years.",
+      "summary_zh": "486 处理器在1989年4月宣布，带来片上缓存和架构改进，相较于 386 给予显著性能提升，巩固了 x86 在个人电脑中的主导地位。这一里程碑推动了桌面软件和硬件的长线发展。",
+      "hn": {
+        "id": 47716809,
+        "type": "story",
+        "by": "jnord",
+        "score": 176,
+        "descendants": 158,
+        "time": 1775822614,
+        "comments_url": "https://news.ycombinator.com/item?id=47716809"
+      },
+      "tags": [
+        "Hardware"
+      ],
+      "hot_score": 0.46
+    },
+    {
+      "title_en": "Old laptops in a colo as low cost servers",
+      "url": "https://colaptop.pages.dev/",
+      "title_zh": "将旧笔记本放进 Colo 作为低成本服务器",
+      "created_display": "Created: Apr 09, 2026 / 11:22 PT",
+      "image_url": null,
+      "summary_en": "Old laptops in colo as low-cost servers shows that repurposing decommissioned laptops into colocation-hosted services can be a frugal alternative for hobby projects or small workloads, with caveats about reliability, power, and maintenance. Practical tips for making it workable.",
+      "summary_zh": "将退役笔记本放入 Colo 作为低成本服务器的做法，展示了以更低成本托管小型工作负载的途径，同时需关注可靠性、耗电与维护等挑战。给出使其可行的实用建议。",
+      "hn": {
+        "id": 47707477,
+        "type": "story",
+        "by": "argentum47",
+        "score": 392,
+        "descendants": 234,
+        "time": 1775758959,
+        "comments_url": "https://news.ycombinator.com/item?id=47707477"
+      },
+      "tags": [
+        "Hardware"
+      ],
+      "hot_score": 0.42
+    },
+    {
+      "title_en": "Team from ETH Zurich make high quality quantum swap gate using a geometric phase",
+      "url": "https://ethz.ch/en/news-and-events/eth-news/news/2026/04/a-new-trick-brings-stability-to-quantum-operations.html",
+      "title_zh": "苏黎世联邦理工学院团队用几何相实现高质量量子互换门",
+      "created_display": "Created: Apr 09, 2026 / 21:04 PT",
+      "image_url": "https://ethz.ch/en/news-and-events/eth-news/news/2026/04/a-new-trick-brings-stability-to-quantum-operations/_jcr_content/pageimages/imageCarousel.imageformat.lightbox.1606733906.jpg",
+      "summary_en": "ETH Zurich team demonstrates a high-fidelity quantum swap gate using a geometric phase, contributing to more robust quantum operations. The result highlights how geometric-phase techniques can mitigate certain noise sources.",
+      "summary_zh": "苏黎世联邦理工学院团队利用几何相实现高保真量子互换门，为量子操作的鲁棒性带来新进展，展示了几何相位在抑制部分噪声方面的潜力。",
+      "hn": {
+        "id": 47713495,
+        "type": "story",
+        "by": "joko42",
+        "score": 227,
+        "descendants": 50,
+        "time": 1775793897,
+        "comments_url": "https://news.ycombinator.com/item?id=47713495"
+      },
+      "tags": [
+        "Science"
+      ],
+      "hot_score": 0.37
+    },
+    {
+      "title_en": "Charcuterie – Visual similarity Unicode explorer",
+      "url": "https://charcuterie.elastiq.ch/",
+      "title_zh": "Charcuterie：可视化相似字符的 Unicode 浏览器",
+      "created_display": "Created: Apr 09, 2026 / 13:12 PT",
+      "image_url": "https://charcuterie.elastiq.ch/social-share.png",
+      "summary_en": "Charcuterie visualizes Unicode characters with similar shapes to help identify homoglyphs and phishing risks. This explorer makes it easier for developers and security researchers to spot look-alike symbols across fonts and languages, reducing the chance of spoofing.",
+      "summary_zh": "Charcuterie 将形状相似的 Unicode 字符以可视方式呈现，帮助识别同形字符及钓鱼风险。该工具适合开发者和安全研究者快速定位跨字体和语言的易混淆符号，从而降低欺骗风险。",
+      "hn": {
+        "id": 47709158,
+        "type": "story",
+        "by": "rickcarlino",
+        "score": 312,
+        "descendants": 83,
+        "time": 1775765527,
+        "comments_url": "https://news.ycombinator.com/item?id=47709158"
+      },
+      "tags": [
+        "Security",
+        "Design"
+      ],
+      "hot_score": 0.36
+    },
+    {
+      "title_en": "Maine is about to become the first state to ban major new data centers",
+      "url": "https://www.gadgetreview.com/maine-is-about-to-become-the-first-state-to-ban-major-new-data-centers",
+      "title_zh": "缅因州将成为首个禁止新大型数据中心的州",
+      "created_display": "Created: Apr 09, 2026 / 12:48 PT",
+      "image_url": "https://www.gadgetreview.com/wp-content/uploads/2a8e079e-10a6-4599-9e6e-ddb65aa7f05b_1920x1080.jpg",
+      "summary_en": "Maine moves to curb new large data centers, citing energy and grid impact. The policy could reshape regional tech investment, cloud footprint, and local power infrastructure while prompting debates over economic growth versus energy resilience.",
+      "summary_zh": "缅因州拟通过政策限制新建大型数据中心，强调对能源与电网的影响。此举可能重塑区域科技投资、云计算布局及本地电力基础设施，并引发关于经济增长与能源韧性之间的讨论。",
+      "hn": {
+        "id": 47708817,
+        "type": "story",
+        "by": "rmason",
+        "score": 299,
+        "descendants": 431,
+        "time": 1775764105,
+        "comments_url": "https://news.ycombinator.com/item?id=47708817"
+      },
+      "tags": [
+        "Politics",
+        "Energy",
+        "DevOps"
+      ],
+      "hot_score": 0.34
+    },
+    {
+      "title_en": "New iPhone age and identity checks restrict internet freedom in the UK",
+      "url": "https://bigbrotherwatch.org.uk/blog/apples-new-iphone-update-is-restricting-internet-freedom-in-the-uk/",
+      "title_zh": "新 iPhone 的年龄与身份检查限制英国互联网自由",
+      "created_display": "Created: Apr 09, 2026 / 17:50 PT",
+      "image_url": "https://bigbrotherwatch.org.uk/wp-content/uploads/2026/03/IOS-age-check.jpg",
+      "summary_en": "Analyzes Apple's new iPhone update introducing age-verification and identity checks, arguing these measures curb online freedom and raise privacy and surveillance concerns. It situates the change within tech policy and rights debates.",
+      "summary_zh": "评估苹果最新 iPhone 更新中的年龄与身份验证措施，认为这些做法削弱了英国的网络自由，并引发隐私与监控等议题。将此变动置于科技政策与公民权利讨论中。",
+      "hn": {
+        "id": 47712222,
+        "type": "story",
+        "by": "josephcsible",
+        "score": 225,
+        "descendants": 141,
+        "time": 1775782243,
+        "comments_url": "https://news.ycombinator.com/item?id=47712222"
+      },
+      "tags": [
+        "Privacy",
+        "Politics"
+      ],
+      "hot_score": 0.32
+    },
+    {
+      "title_en": "Afrika Bambaataa has died",
+      "url": "https://www.bbc.co.uk/news/articles/c2evppm30p7o",
+      "title_zh": "嘻哈先驱 Afrika Bambaataa 去世",
+      "created_display": "Created: Apr 09, 2026 / 21:17 PT",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7483/live/0aeb9580-3477-11f1-a27c-25e679607533.jpg",
+      "summary_en": "One of hip-hop's earliest pioneers has died, marking the end of an era in New York's music scene. He helped spawn the Zulu Nation and played a pivotal role in propelling hip-hop from local clubs to a global cultural movement.",
+      "summary_zh": "早期嘻哈奠基人去世，标志着纽约音乐场景一个时代的结束。他推动 Zulu Nation 的成立并帮助将嘻哈从本地夜店带向全球文化。",
+      "hn": {
+        "id": 47713584,
+        "type": "story",
+        "by": "mellosouls",
+        "score": 184,
+        "descendants": 64,
+        "time": 1775794648,
+        "comments_url": "https://news.ycombinator.com/item?id=47713584"
+      },
+      "hot_score": 0.31,
+      "tags": [
+        "Culture",
+        "Entertainment"
+      ]
+    },
+    {
+      "title_en": "Unfolder for Mac – A 3D model unfolding tool for creating papercraft",
+      "url": "https://www.unfolder.app/",
+      "title_zh": "Unfolder for Mac：用于制作纸模型的 3D 展开工具",
+      "created_display": "Created: Apr 09, 2026 / 09:58 PT",
+      "image_url": "https://unfolder.app/img/og_image.jpg",
+      "summary_en": "Unfolder for Mac converts 3D models into 2D unfoldings suitable for papercraft, enabling precise templates for printable sheets. It streamlines turning digital models into physical crafts, appealing to hobbyists, educators, and designers.",
+      "summary_zh": "Unfolder for Mac 将 3D 模型展开为适合纸艺的 2D 展开图，生成可打印的模板。它简化了将数字模型转化为实体手工艺品的过程，适合爱好者、教育工作者和设计师使用。",
+      "hn": {
+        "id": 47706140,
+        "type": "story",
+        "by": "codazoda",
+        "score": 298,
+        "descendants": 57,
+        "time": 1775753926,
+        "comments_url": "https://news.ycombinator.com/item?id=47706140"
+      },
+      "tags": [
+        "Design"
+      ],
+      "hot_score": 0.3
+    },
+    {
+      "title_en": "Netflix Prices Went Up Again – I Bought a DVD Player Instead",
+      "url": "https://aywren.com/2026/04/09/netflix-prices-went-up-again-i-bought-a-dvd-player-instead/",
+      "title_zh": "Netflix 价格上涨，我改买 DVD 播放机",
+      "created_display": "Created: Apr 09, 2026 / 13:17 PT",
+      "image_url": "https://aywren.com/2026/pic/dvdcollection.jpg",
+      "summary_en": "Netflix price hikes spark a rethink of streaming value; the author buys a DVD player to own physical media, illustrating how price sensitivity and ownership influence media consumption choices.",
+      "summary_zh": "Netflix 价格上涨让人重新审视流媒体的价值，作者改买 DVD 播放机以获得对媒体的拥有权，体现了价格敏感性与所有权对消费选择的影响。",
+      "hn": {
+        "id": 47709251,
+        "type": "story",
+        "by": "speckx",
+        "score": 258,
+        "descendants": 272,
+        "time": 1775765870,
+        "comments_url": "https://news.ycombinator.com/item?id=47709251"
+      },
+      "tags": [
+        "Entertainment"
+      ],
+      "hot_score": 0.3
+    },
+    {
+      "title_en": "Many African families spend fortunes burying their dead",
+      "url": "https://davidoks.blog/p/how-funerals-keep-africa-poor",
+      "title_zh": "许多非洲家庭为埋葬亲人花费巨额开销",
+      "created_display": "Created: Apr 09, 2026 / 15:10 PT",
+      "image_url": "https://substackcdn.com/image/fetch/$s_!m4zD!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0417c22b-4a4f-40c2-8baa-118fb9ffb2f6_2362x1575.png",
+      "summary_en": "Funeral costs drive financial hardship across many African families, leading to debt and asset depletion. The piece calls for affordable, scalable solutions—community funds, microinsurance, or policy interventions—to ease end-of-life expenses.",
+      "summary_zh": "葬礼高昂的费用在许多非洲家庭中造成经济负担，常导致债务累积和资产缩水。文章呼吁通过社区基金、微保等可负担、可扩展的解决方案，降低安葬成本压力。",
+      "hn": {
+        "id": 47710907,
+        "type": "story",
+        "by": "powera",
+        "score": 215,
+        "descendants": 215,
+        "time": 1775772610,
+        "comments_url": "https://news.ycombinator.com/item?id=47710907"
+      },
+      "tags": [
+        "Finance"
+      ],
+      "hot_score": 0.27
+    },
+    {
+      "title_en": "How Pizza Tycoon simulated traffic on a 25 MHz CPU",
+      "url": "https://pizzalegacy.nl/blog/traffic-system.html",
+      "title_zh": "披萨大亨在25MHz CPU上如何模拟交通",
+      "created_display": "Created: Apr 09, 2026 / 05:57 PT",
+      "image_url": "https://pizzalegacy.nl/assets/blog/city_map2.png",
+      "summary_en": "The piece revisits a classic business sim and explains how its traffic simulation ran on a 25 MHz CPU. It highlights the clever optimizations and constraints that shaped early on-screen simulations, illustrating the ingenuity required under severe hardware limits.",
+      "summary_zh": "回顾这款经典商业模拟游戏在仅有25MHz CPU 的硬件条件下实现交通仿真的方法。展示开发者在极限硬件条件下的巧妙优化与系统设计，揭示早期仿真所面临的挑战。",
+      "hn": {
+        "id": 47703123,
+        "type": "story",
+        "by": "FinnKuhn",
+        "score": 300,
+        "descendants": 61,
+        "time": 1775739430,
+        "comments_url": "https://news.ycombinator.com/item?id=47703123"
+      },
+      "tags": [
+        "Gaming",
+        "Hardware"
+      ],
+      "hot_score": 0.26
+    },
+    {
+      "title_en": "The Vercel plugin on Claude Code wants to read your prompts",
+      "url": "https://akshaychugh.xyz/writings/png/vercel-plugin-telemetry",
+      "title_zh": "Vercel 的 Claude Code 插件可能读取你的提示词",
+      "created_display": "Created: Apr 09, 2026 / 08:17 PT",
+      "image_url": "https://akshaychugh.xyz/assets/images/og-default-wide.png",
+      "summary_en": "A privacy-conscious note on the Claude Code-Vercel plugin reveals telemetry that may read prompts. It highlights data collection concerns in AI-assisted tooling and urges developers to review what gets captured and how it’s used.",
+      "summary_zh": "关于 Claude Code 与 Vercel 插件的隐私说明显示可能会读取你的提示词并进行遥测收集。此举暴露了 AI 助手工具中的数据收集问题，敦促开发者核查收集了哪些数据、数据如何被使用。",
+      "hn": {
+        "id": 47704881,
+        "type": "story",
+        "by": "akshay2603",
+        "score": 271,
+        "descendants": 112,
+        "time": 1775747847,
+        "comments_url": "https://news.ycombinator.com/item?id=47704881"
+      },
+      "tags": [
+        "AI",
+        "Privacy"
+      ],
+      "hot_score": 0.26
+    },
+    {
+      "title_en": "PicoZ80 – Drop-In Z80 Replacement",
+      "url": "https://eaw.app/picoz80/",
+      "title_zh": "PicoZ80：可插拔的 Z80 替代处理器",
+      "created_display": "Created: Apr 09, 2026 / 11:53 PT",
+      "image_url": "https://eaw.app/images/backdrop.jpg",
+      "summary_en": "PicoZ80 provides a drop-in, Z80-compatible CPU core for retro computing projects, enabling hobbyists to swap in a modern core without rewriting software. It aims to simplify hardware design and integration for emulators, FPGA builds, and educational tinkering.",
+      "summary_zh": "PicoZ80 提供一个与 Z80 兼容的、可直接替换的 CPU 核心，方便在复古计算项目中无须改写软件即可替换处理器。该项目旨在简化在仿真、FPGA 构建及教学实践中的硬件设计与集成。",
+      "hn": {
+        "id": 47708041,
+        "type": "story",
+        "by": "rickcarlino",
+        "score": 225,
+        "descendants": 34,
+        "time": 1775760800,
+        "comments_url": "https://news.ycombinator.com/item?id=47708041"
+      },
+      "tags": [
+        "Hardware"
+      ],
+      "hot_score": 0.24
+    },
+    {
+      "title_en": "Am I German or Autistic?",
+      "url": "https://german.millermanschool.com/",
+      "title_zh": "我是德国人还是自闭症者？",
+      "created_display": "Created: Apr 09, 2026 / 05:52 PT",
+      "image_url": null,
+      "summary_en": "It reframes how language and social expectations shape who we are.",
+      "summary_zh": "这篇文章探讨国家/文化身份与神经多样性之间的张力，挑战对德国身份与自闭症的刻板印象。通过语言与社会期望的视角，重新审视自我认同的形成。",
+      "hn": {
+        "id": 47703072,
+        "type": "story",
+        "by": "doener",
+        "score": 255,
+        "descendants": 225,
+        "time": 1775739132,
+        "comments_url": "https://news.ycombinator.com/item?id=47703072"
+      },
+      "tags": [
+        "Culture"
+      ],
+      "hot_score": 0.22
+    },
+    {
+      "title_en": "Instant 1.0, a backend for AI-coded apps",
+      "url": "https://www.instantdb.com/essays/architecture",
+      "title_zh": "Instant 1.0：AI 驱动应用的后端解决方案",
+      "created_display": "Created: Apr 09, 2026 / 11:30 PT",
+      "image_url": "https://www.instantdb.com/img/essays/architecture.jpg",
+      "summary_en": "Instant 1.0 positions itself as a backend optimized for AI-driven apps, focusing on data accessibility and scalable APIs. It discusses architecture choices designed to accelerate AI app development and deployment, with an eye toward reliability and scalability.",
+      "summary_zh": "Instant 1.0 将自己定位为面向 AI 驱动应用的后端，强调数据可访问性与可扩展的 API。文中探讨了旨在加速 AI 应用开发与部署的架构选择，以及对可靠性和扩展性的关注。",
+      "hn": {
+        "id": 47707632,
+        "type": "story",
+        "by": "stopachka",
+        "score": 210,
+        "descendants": 111,
+        "time": 1775759459,
+        "comments_url": "https://news.ycombinator.com/item?id=47707632"
+      },
+      "tags": [
+        "AI",
+        "DevOps",
+        "Web"
+      ],
+      "hot_score": 0.22
+    },
+    {
+      "title_en": "ChatGPT Pro now starts at $100/month",
+      "url": "https://chatgpt.com/pricing/",
+      "title_zh": "ChatGPT Pro 现在起价为每月 100 美元",
+      "created_display": "Created: Apr 09, 2026 / 11:09 PT",
+      "image_url": null,
+      "summary_en": "OpenAI nudges pricing for ChatGPT Pro to $100/month, widening the gap between consumer and professional tiers. The change tests value, features, and cost efficiency for power users and enterprise customers as usage scales.",
+      "summary_zh": "ChatGPT Pro 的月费提升至 100 美元，拉大了个人用户与专业版之间的价格差距。此变动将考验高阶用户和企业客户在价值、功能与成本效益上的取舍。",
+      "hn": {
+        "id": 47707253,
+        "type": "story",
+        "by": "strongpigeon",
+        "score": 210,
+        "descendants": 250,
+        "time": 1775758159,
+        "comments_url": "https://news.ycombinator.com/item?id=47707253"
+      },
+      "tags": [
+        "Business",
+        "AI"
+      ],
+      "hot_score": 0.22
+    },
+    {
+      "title_en": "BunnyCDN has been silently losing our production files for 15 months",
+      "url": "https://old.reddit.com/r/webdev/comments/1sglytg/bunnycdn_has_been_silently_losing_our_production/",
+      "title_zh": "BunnyCDN 已悄悄在过去 15 个月中丢失生产文件",
+      "created_display": "Created: Apr 09, 2026 / 15:04 PT",
+      "image_url": null,
+      "summary_en": "A long-running data-loss incident at BunnyCDN leaves customer production files missing for over a year, highlighting data-loss risk and the need for robust backups and transparency. The episode underscores the fragility of relying on third-party providers for critical data and the importance of incident transparency.",
+      "summary_zh": "BunnyCDN 长期数据丢失事件导致客户的生产文件在一年多的时间里丢失，暴露出数据丢失风险以及对稳健备份和透明度的需求。此事凸显依赖第三方存储对运营数据的潜在脆弱性，以及对事件透明度的迫切需要。",
+      "hn": {
+        "id": 47710845,
+        "type": "story",
+        "by": "speckx",
+        "score": 176,
+        "descendants": 45,
+        "time": 1775772249,
+        "comments_url": "https://news.ycombinator.com/item?id=47710845"
+      },
+      "tags": [
+        "Security",
+        "Data"
+      ],
+      "hot_score": 0.22
+    },
+    {
+      "title_en": "Research-Driven Agents: When an agent reads before it codes",
+      "url": "https://blog.skypilot.co/research-driven-agents/",
+      "title_zh": "研究驱动的代理：代理在编码前先阅读",
+      "created_display": "Created: Apr 09, 2026 / 09:58 PT",
+      "image_url": "https://blog.skypilot.co/research-driven-agents/assets/banner.png",
+      "summary_en": "Argues for research-driven agents that read and verify documentation before writing code; discusses the benefits for reliability and safety, plus practical patterns for integrating reading steps into agent planning.",
+      "summary_zh": "提出“研究驱动的代理”想法，即在编码前先阅读并核验文档以提升可靠性和安全性，并讨论将阅读步骤融入代理计划的实用做法。",
+      "hn": {
+        "id": 47706141,
+        "type": "story",
+        "by": "hopechong",
+        "score": 208,
+        "descendants": 54,
+        "time": 1775753929,
+        "comments_url": "https://news.ycombinator.com/item?id=47706141"
+      },
+      "tags": [
+        "AI",
+        "Programming"
+      ],
+      "hot_score": 0.21
+    },
+    {
+      "title_en": "Kagi Product Tips – Customize Your Search Results with URL Redirects",
+      "url": "https://blog.kagi.com/tips/redirects",
+      "title_zh": "Kagi 产品技巧——通过 URL 重定向自定义搜索结果",
+      "created_display": "Created: Apr 09, 2026 / 14:34 PT",
+      "image_url": "https://kagifeedback.org/assets/files/2026-04-06/1775499239-315386-cards2.png",
+      "summary_en": "Kagi shows how to tailor search results by using URL redirects, letting you steer queries to specific endpoints or domains. The approach enables targeted results, experiments, and domain-specific workflows.",
+      "summary_zh": "Kagi 公布如何通过 URL 重定向定制搜索结果，让你将查询导向特定端点或域名，实现更精准的结果呈现。",
+      "hn": {
+        "id": 47710466,
+        "type": "story",
+        "by": "treetalker",
+        "score": 176,
+        "descendants": 34,
+        "time": 1775770451,
+        "comments_url": "https://news.ycombinator.com/item?id=47710466"
+      },
+      "hot_score": 0.21,
+      "tags": [
+        "Web"
+      ]
+    }
+  ]
+}

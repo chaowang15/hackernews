@@ -1,0 +1,1146 @@
+{
+  "meta": {
+    "mode": "best",
+    "source": "https://news.ycombinator.com/",
+    "api": "https://github.com/HackerNews/API",
+    "count_requested": 50,
+    "count_written": 50,
+    "reused_same_day": 0,
+    "reused_cross_day": 9,
+    "new_llm_enriched": 21,
+    "scrape_time_display": "08:16, May 25, 2026 (PDT)",
+    "timezone": "America/Los_Angeles",
+    "date_dir": "2026/05/24",
+    "content_date": "2026-05-24",
+    "run_time_local": "08:16, May 25, 2026 (PDT)",
+    "run_time_utc": "2026-05-25 15:16:15 UTC",
+    "incremental": true,
+    "stories_max": 50,
+    "hot_score_time_utc": "2026-05-25 15:17:43 UTC"
+  },
+  "items": [
+    {
+      "title_en": "Search engines alternatives now that Google isn't Google anymore",
+      "url": "https://techcrunch.com/2026/05/21/six-search-engines-worth-trying-now-that-google-isnt-really-google-anymore/",
+      "title_zh": "谷歌不再是谷歌：值得尝试的替代搜索引擎",
+      "created_display": "Created: May 25, 2026 / 05:27 PT",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2151663494.jpg?resize=1200,801",
+      "summary_en": "As Google shifts its traditional stance, readers are exploring alternative search engines.",
+      "summary_zh": "随着谷歌的形象发生变化，用户开始尝试替代搜索引擎。文中列出六个值得尝试的搜索引擎，比较隐私保护、搜索质量与功能特性。",
+      "hn": {
+        "id": 48266051,
+        "type": "story",
+        "by": "elorant",
+        "score": 370,
+        "descendants": 304,
+        "time": 1779712031,
+        "comments_url": "https://news.ycombinator.com/item?id=48266051"
+      },
+      "hot_score": 21.57,
+      "tags": [
+        "Web"
+      ]
+    },
+    {
+      "title_en": "Pope Leo XIV says AI must serve humanity, not the powerful few",
+      "url": "https://religionnews.com/2026/05/25/in-his-first-encyclical-pope-leo-xiv-says-ai-must-serve-humanity-not-the-powerful-few/",
+      "title_zh": "教皇利奥十四世：AI 应服务于全人类，而非少数强权",
+      "created_display": "Created: May 25, 2026 / 06:17 PT",
+      "image_url": "https://religionnews.com/wp-content/uploads/2026/05/webRNS-Leo-Encyclical2.jpg",
+      "summary_en": "Pope Leo XIV issues an encyclical urging that AI be governed by the common good and human dignity. It emphasizes ethical guidelines for AI development, insisting technology serves people rather than concentrating power in a few hands.",
+      "summary_zh": "教皇利奥十四世在通諭中呼吁 AI 应以公共利益与人类尊严为原则进行治理，强调在 AI 发展中遵循道德规范，让科技服务于人类而非集中权力于少数人。",
+      "hn": {
+        "id": 48266485,
+        "type": "story",
+        "by": "benwerd",
+        "score": 174,
+        "descendants": 73,
+        "time": 1779715078,
+        "comments_url": "https://news.ycombinator.com/item?id=48266485"
+      },
+      "hot_score": 14.29,
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "title_en": "Magnifica Humanitas (Encyclical Letter)",
+      "url": "https://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html",
+      "title_zh": "Magnifica Humanitas 通諭",
+      "created_display": "Created: May 25, 2026 / 03:11 PT",
+      "image_url": "https://www.vatican.va/etc/designs/vatican/library/clientlibs/themes/vatican-v2/images/logo-vatican.png",
+      "summary_en": "A papal encyclical titled Magnifica Humanitas.",
+      "summary_zh": "一本题为《Magnifica Humanitas》的教皇通諭。",
+      "hn": {
+        "id": 48265206,
+        "type": "story",
+        "by": "theletterf",
+        "score": 427,
+        "descendants": 173,
+        "time": 1779703889,
+        "comments_url": "https://news.ycombinator.com/item?id=48265206"
+      },
+      "hot_score": 12.49,
+      "tags": [
+        "Culture"
+      ]
+    },
+    {
+      "title_en": "Leave Me Behind",
+      "url": "http://androidessence.com/leave-me-behind/",
+      "title_zh": "把我落在后面",
+      "created_display": "Created: May 25, 2026 / 05:03 PT",
+      "image_url": null,
+      "summary_en": "Leave Me Behind hints at the tension between adopting new tech and leaving earlier systems or users behind.",
+      "summary_zh": "《Leave Me Behind》揭示在追求新技术时，旧系统与用户被落在后面的紧张关系。文章讨论迁移、采用与用户留存等在快节奏技术环境中的挑战。",
+      "hn": {
+        "id": 48265876,
+        "type": "story",
+        "by": "mooreds",
+        "score": 165,
+        "descendants": 128,
+        "time": 1779710634,
+        "comments_url": "https://news.ycombinator.com/item?id=48265876"
+      },
+      "hot_score": 8.35,
+      "tags": [
+        "Culture"
+      ]
+    },
+    {
+      "title_en": "The Eternal Sloptember",
+      "url": "https://geohot.github.io//blog/jekyll/update/2026/05/24/the-eternal-sloptember.html",
+      "title_zh": "永恒的 Sloptember",
+      "created_display": "Created: May 24, 2026 / 20:47 PT",
+      "image_url": null,
+      "summary_en": "The Eternal Sloptember centers on the enduring concept of Sloptember.",
+      "summary_zh": "《永恒的 Sloptember》围绕 Sloptember 的持续概念展开。",
+      "hn": {
+        "id": 48263238,
+        "type": "story",
+        "by": "razin",
+        "score": 398,
+        "descendants": 318,
+        "time": 1779680844,
+        "comments_url": "https://news.ycombinator.com/item?id=48263238"
+      },
+      "tags": [
+        "Culture"
+      ],
+      "hot_score": 3.66
+    },
+    {
+      "title_en": "Jira Is Turing-Complete",
+      "url": "https://seriot.ch/computation/jira.html",
+      "title_zh": "Jira 具备图灵完备性",
+      "created_display": "Created: May 24, 2026 / 20:54 PT",
+      "image_url": "https://seriot.ch/resources/jira_tc/addition_rules.png",
+      "summary_en": "An analysis shows Jira's workflow language is Turing-complete, meaning it can simulate any computation given enough resources. This raises questions about the line between powerful automation and potential security risks or runaway resource use in project-management tooling.",
+      "summary_zh": "一项分析表明 Jira 的工作流语言具备图灵完备性，理论上可以在资源充足时模拟任意计算。这让人重新思考在项目管理工具中对自动化能力的界限，以及潜在的安全风险或资源耗尽问题。",
+      "hn": {
+        "id": 48263253,
+        "type": "story",
+        "by": "vinhnx",
+        "score": 244,
+        "descendants": 108,
+        "time": 1779681254,
+        "comments_url": "https://news.ycombinator.com/item?id=48263253"
+      },
+      "tags": [
+        "Programming",
+        "Security"
+      ],
+      "hot_score": 2.28
+    },
+    {
+      "title_en": "Rising seas will swallow New Orleans. People need to start relocating now",
+      "url": "https://www.cnn.com/2026/05/25/climate/new-orleans-sea-level-rise-relocation",
+      "title_zh": "海平面上升将吞没新奥尔良。现在就该开始迁移",
+      "created_display": "Created: May 25, 2026 / 02:41 PT",
+      "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-53537118.jpg?c=16x9&q=w_800,c_fill",
+      "summary_en": "Rising seas threaten New Orleans, prompting urgency for relocation planning and climate-resilient policy.",
+      "summary_zh": "海平面上升将吞没新奥尔良，促使尽早开展迁移规划与应对气候风险的政策。文章讨论社区与决策者为应对潜在人口迁移应采取的行动。",
+      "hn": {
+        "id": 48265049,
+        "type": "story",
+        "by": "breve",
+        "score": 88,
+        "descendants": 84,
+        "time": 1779702098,
+        "comments_url": "https://news.ycombinator.com/item?id=48265049"
+      },
+      "hot_score": 2.26,
+      "tags": [
+        "Science"
+      ]
+    },
+    {
+      "title_en": "DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost",
+      "url": "https://esengine.github.io/DeepSeek-Reasonix/",
+      "title_zh": "DeepSeek Reasonix：高缓存、低成本的本地编码代理",
+      "created_display": "Created: May 24, 2026 / 06:02 PT",
+      "image_url": "https://raw.githubusercontent.com/esengine/reasonix/main/docs/assets/hero-terminal.svg",
+      "summary_en": "DeepSeek Reasonix is introduced as a native coding agent with strong caching to accelerate AI-assisted coding while reducing operational costs. The design aims to minimize round-trips and latency, enabling developers to run more tooling offline or in constrained environments.",
+      "summary_zh": "DeepSeek Reasonix 被描述为具备强缓存的本地编码代理，能在提升 AI 辅助编码速度的同时降低成本。其设计旨在减少往返与延迟，使开发者能够在离线或受限环境中运行更多工具链。",
+      "hn": {
+        "id": 48256953,
+        "type": "story",
+        "by": "Alifatisk",
+        "score": 622,
+        "descendants": 258,
+        "time": 1779627726,
+        "comments_url": "https://news.ycombinator.com/item?id=48256953"
+      },
+      "tags": [
+        "AI"
+      ],
+      "hot_score": 1.52
+    },
+    {
+      "title_en": "Migrating from Go to Rust",
+      "url": "https://corrode.dev/learn/migration-guides/go-to-rust/",
+      "title_zh": "从 Go 迁移到 Rust",
+      "created_display": "Created: May 24, 2026 / 11:31 PT",
+      "image_url": "https://corrode.dev/learn/migration-guides/go-to-rust/social.png",
+      "summary_en": "A practical migration guide helps teams decide when to port Go code to Rust, with stepwise strategies, interoperability patterns, and clear trade-offs. It emphasizes balancing safety and performance gains against cost and team readiness.",
+      "summary_zh": "迁移指南从评估时机、分步迁移模式、互操作性等角度，帮助团队将代码从 Go 迁移到 Rust。强调在性能与内存安全收益、成本以及团队准备之间的权衡。",
+      "hn": {
+        "id": 48259808,
+        "type": "story",
+        "by": "jabits",
+        "score": 372,
+        "descendants": 367,
+        "time": 1779647502,
+        "comments_url": "https://news.ycombinator.com/item?id=48259808"
+      },
+      "tags": [
+        "Programming"
+      ],
+      "hot_score": 1.34
+    },
+    {
+      "title_en": "Memory has grown to nearly two-thirds of AI chip component costs",
+      "url": "https://epoch.ai/data-insights/ai-chip-component-cost-shares",
+      "title_zh": "AI 芯片成本中内存占比近三分之二",
+      "created_display": "Created: May 24, 2026 / 09:31 PT",
+      "image_url": "https://epoch.ai/assets/images/data-insights/ai-chip-component-cost-shares/t-ai-chip-component-cost-shares.png",
+      "summary_en": "New cost data show memory accounts for about two-thirds of AI chip component costs, making memory the dominant design and pricing driver as models grow. This shifts emphasis to memory bandwidth, efficiency, and novel memory tech, as chips compete on how well they feed large AI workloads.",
+      "summary_zh": "最新成本数据表明，内存约占 AI 芯片组件成本的三分之二，成为主导的设计和定价驱动力。随着模型规模增大，厂商更关注内存带宽、效率以及新型内存技术，以提高对大规模 AI workload 的供给能力。",
+      "hn": {
+        "id": 48258684,
+        "type": "story",
+        "by": "intelkishan",
+        "score": 413,
+        "descendants": 447,
+        "time": 1779640289,
+        "comments_url": "https://news.ycombinator.com/item?id=48258684"
+      },
+      "tags": [
+        "Hardware",
+        "AI"
+      ],
+      "hot_score": 1.28
+    },
+    {
+      "title_en": "Show HN: Audiomass – a free, open-source multitrack audio editor for the web",
+      "url": "https://audiomass.co/?multitrack=1",
+      "title_zh": "Show HN：Audiomass——一个免费开源的网页多轨音频编辑器",
+      "created_display": "Created: May 24, 2026 / 08:25 PT",
+      "image_url": "https://audiomass.co/icon.jpg",
+      "summary_en": "Audiomass is a free, open-source multitrack audio editor that runs entirely in your browser. It offers a simple timeline and essential editing tools with no installation, making quick editing and sharing easy for web users. Being open-source, it invites community contributions and transparency.",
+      "summary_zh": "Audiomass 是一个免费、开源的浏览器端多轨音频编辑器，完全在浏览器中运行，无需安装即可完成编辑与导出。它提供简单的时间线和基本编辑工具，便于快速处理和分享音频，社区贡献也更易参与。",
+      "hn": {
+        "id": 48258015,
+        "type": "story",
+        "by": "pantelisk",
+        "score": 437,
+        "descendants": 95,
+        "time": 1779636343,
+        "comments_url": "https://news.ycombinator.com/item?id=48258015"
+      },
+      "tags": [
+        "Show HN",
+        "Open Source",
+        "Web"
+      ],
+      "hot_score": 1.25
+    },
+    {
+      "title_en": "The four-day workweek in Australia: insights from early adopters of 100:80:100",
+      "url": "https://scienceaim.com/australia-just-proved-the-four-day-work-week-works-here-is-what-the-data-actually-says/",
+      "title_zh": "澳大利亚四天工作周：100:80:100 模式的早期采用者洞见",
+      "created_display": "Created: May 24, 2026 / 11:56 PT",
+      "image_url": "https://scienceaim.com/wp-content/uploads/2026/05/Screenshot_3.png",
+      "summary_en": "Australia experiments with a four-day workweek using the 100:80:100 model (full pay, 80% hours, 100% productivity). Early adopters report improved wellbeing and comparable output, but implementation challenges remain.",
+      "summary_zh": "澳大利亚的四天工作周实验采用100:80:100模式（全薪、80%工时、100%产出）。早期采用者报告在福祉与产出之间实现了平衡，但在执行方面仍存在挑战。",
+      "hn": {
+        "id": 48259990,
+        "type": "story",
+        "by": "randycupertino",
+        "score": 251,
+        "descendants": 235,
+        "time": 1779648969,
+        "comments_url": "https://news.ycombinator.com/item?id=48259990"
+      },
+      "hot_score": 0.93,
+      "tags": [
+        "Business"
+      ]
+    },
+    {
+      "title_en": "Claude is not your architect. Stop letting it pretend",
+      "url": "https://www.hollandtech.net/claude-is-not-your-architect/",
+      "title_zh": "Claude 不是你的架构师，别让它假装",
+      "created_display": "Created: May 24, 2026 / 11:28 PT",
+      "image_url": "https://www.hollandtech.net/og/claude-is-not-your-architect.png",
+      "summary_en": "Generative AI like Claude can assist with code and prompts, but it shouldn't be trusted to design system architecture. The piece argues for human-owned, auditable decisions and warns against overreliance on AI for critical design tasks. It also offers pragmatic tips for using AI as a collaborator rather than a replacement.",
+      "summary_zh": "像 Claude 这样的生成式 AI 可以协助编码与提示，但不应被信任来设计系统架构。文章主张高层设计应由人类掌控并可审计，警惕对关键设计任务过度依赖 AI，并给出将 AI 作为协作者而非替代的实用建议。",
+      "hn": {
+        "id": 48259784,
+        "type": "story",
+        "by": "cdrnsf",
+        "score": 257,
+        "descendants": 185,
+        "time": 1779647291,
+        "comments_url": "https://news.ycombinator.com/item?id=48259784"
+      },
+      "hot_score": 0.92,
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "title_en": "Texas woman arrested for Facebook post about town water quality",
+      "url": "https://reclaimthenet.org/texas-woman-arrested-for-facebook-post-about-town-water-quality",
+      "title_zh": "德州女子因 Facebook 评论镇上水质被逮捕",
+      "created_display": "Created: May 23, 2026 / 11:02 PT",
+      "image_url": null,
+      "summary_en": "The article reports a Texas woman arrested over a Facebook post about local water quality, illustrating how online speech and civic concerns can collide with law enforcement. It underscores tensions around transparency, free expression, and digital activism.",
+      "summary_zh": "报道一名德州女子因对本地水质发表在社媒上的帖子被逮捕，折射出网络言论与执法之间的张力。文章讨论透明度、言论自由与数字化公共参与等议题。",
+      "hn": {
+        "id": 48249747,
+        "type": "story",
+        "by": "abawany",
+        "score": 781,
+        "descendants": 320,
+        "time": 1779559362,
+        "comments_url": "https://news.ycombinator.com/item?id=48249747"
+      },
+      "tags": [
+        "Legal"
+      ],
+      "hot_score": 0.76
+    },
+    {
+      "title_en": "A fundamental principle of aeronautical engineering has been overturned",
+      "url": "https://www.wired.com/story/a-fundamental-principle-of-aeronautical-engineering-has-been-overturned/",
+      "title_zh": "航空工程的一个基本原则被推翻",
+      "created_display": "Created: May 24, 2026 / 12:10 PT",
+      "image_url": "https://media.wired.com/photos/6a0f1d82527cc03d8afd9e26/191:100/w_1280,c_limit/1341532824",
+      "summary_en": "A new result overturns a long-held principle in aeronautical engineering, prompting reevaluation of design assumptions and simulation practices. The finding could affect aircraft stability analysis and safety margins across the industry.",
+      "summary_zh": "研究推翻了航空工程中的一个长期基本原理，促使人们重新审视设计假设和仿真方法。这一发现可能影响飞行器稳定性分析和安全裕度，波及整个行业。",
+      "hn": {
+        "id": 48260117,
+        "type": "story",
+        "by": "littlexsparkee",
+        "score": 200,
+        "descendants": 100,
+        "time": 1779649826,
+        "comments_url": "https://news.ycombinator.com/item?id=48260117"
+      },
+      "tags": [
+        "Science"
+      ],
+      "hot_score": 0.76
+    },
+    {
+      "title_en": "Constraint Decay: The Fragility of LLM Agents in Back End Code Generation",
+      "url": "https://arxiv.org/abs/2605.06445",
+      "title_zh": "约束衰退：后端代码生成中 LLM 代理的脆弱性",
+      "created_display": "Created: May 24, 2026 / 05:55 PT",
+      "image_url": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+      "summary_en": "The paper argues that LLM-based agents degrade in reliability when performing backend code generation due to constraint drift, brittle tool integration, and context limits. It discusses implications for building robust AI copilots and practical engineering safeguards.",
+      "summary_zh": "论文指出，在后端代码生成任务中，基于 LLM 的代理因约束漂移、工具集成脆弱性和上下文容量限制而表现不稳。并讨论构建鲁棒 AI 助手以及落地工程保护的要点。",
+      "hn": {
+        "id": 48256912,
+        "type": "story",
+        "by": "wek",
+        "score": 267,
+        "descendants": 161,
+        "time": 1779627353,
+        "comments_url": "https://news.ycombinator.com/item?id=48256912"
+      },
+      "tags": [
+        "AI",
+        "Web"
+      ],
+      "hot_score": 0.65
+    },
+    {
+      "title_en": "Microsoft open-sources “the earliest DOS source code discovered to date”",
+      "url": "https://arstechnica.com/gadgets/2026/04/microsoft-open-sources-the-earliest-dos-source-code-discovered-to-date/",
+      "title_zh": "微软开源“迄今发现的最早 DOS 源代码”",
+      "created_display": "Created: May 23, 2026 / 18:21 PT",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/86-DOS-artifact-and-IBM-PC-1152x648.jpg",
+      "summary_en": "Microsoft released the earliest DOS source code discovered to date, offering a historical glimpse into early PC software and licensing. The release underscores the trend of open-sourcing archival code for education, transparency, and research.",
+      "summary_zh": "微软公开了迄今发现的最早 DOS 源代码，为早期个人电脑软件和许可制度提供了历史洞见。这一举动体现了公开档案代码以用于教育、透明度和研究的趋势。",
+      "hn": {
+        "id": 48253386,
+        "type": "story",
+        "by": "DamnInteresting",
+        "score": 493,
+        "descendants": 179,
+        "time": 1779585673,
+        "comments_url": "https://news.ycombinator.com/item?id=48253386"
+      },
+      "tags": [
+        "Open Source",
+        "Education"
+      ],
+      "hot_score": 0.64
+    },
+    {
+      "title_en": "CBP Directive 3340-049B: Border Search of Electronic Devices",
+      "url": "https://www.cbp.gov/document/directives/cbp-directive-no-3340-049b-border-search-electronic-devices",
+      "title_zh": "CBP 指令 3340-049B：边境对电子设备的搜查",
+      "created_display": "Created: May 24, 2026 / 12:12 PT",
+      "image_url": "https://www.cbp.gov/sites/default/files/cbp-seal-vertical-blue_twitter-card_600.jpg",
+      "summary_en": "CBP's directive clarifies border search authority for electronic devices, outlining procedures, privacy considerations, and data handling. The guidance informs travelers and developers about what can be inspected and how data is stored or used.",
+      "summary_zh": "CBP 的指令明确了边境对电子设备搜查的权限与程序，涵盖隐私考量与数据处理。为旅行者和开发者提供了对可检查内容以及数据存储与使用方式的指引。",
+      "hn": {
+        "id": 48260140,
+        "type": "story",
+        "by": "Ember_Wipe",
+        "score": 160,
+        "descendants": 117,
+        "time": 1779649966,
+        "comments_url": "https://news.ycombinator.com/item?id=48260140"
+      },
+      "tags": [
+        "Legal",
+        "Privacy"
+      ],
+      "hot_score": 0.61
+    },
+    {
+      "title_en": "Defeating Git Rigour Fatigue with Jujutsu",
+      "url": "https://ikesau.co/blog/defeating-git-rigour-fatigue-with-jujutsu/",
+      "title_zh": "以柔术化解 Git 的严格流程疲劳",
+      "created_display": "Created: May 24, 2026 / 11:39 PT",
+      "image_url": null,
+      "summary_en": "A pragmatic take argues against rigid Git workflows that burn out teams, offering lightweight, jujutsu-inspired practices to reduce cognitive load. Expect tips like smaller pull requests, incremental changes, and flexible branching to maintain momentum.",
+      "summary_zh": "文章认为对 Git 的过度严格流程会让团队疲惫，主张用“柔术式”的简化方法降低认知负荷。给出可操作的建议，如缩短提交范围、分支策略更灵活、逐步变更以保持开发势头。",
+      "hn": {
+        "id": 48259861,
+        "type": "story",
+        "by": "ikesau",
+        "score": 156,
+        "descendants": 155,
+        "time": 1779647950,
+        "comments_url": "https://news.ycombinator.com/item?id=48259861"
+      },
+      "tags": [
+        "Programming"
+      ],
+      "hot_score": 0.56
+    },
+    {
+      "title_en": "DeepSeek to Make Permanent 75% Discount on Flagship AI Model",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-23/deepseek-to-make-permanent-75-discount-on-flagship-ai-model",
+      "title_zh": "DeepSeek 将旗舰 AI 模型永久降至 75% 折扣",
+      "created_display": "Created: May 24, 2026 / 07:09 PT",
+      "image_url": null,
+      "summary_en": "DeepSeek plans to lock in a permanent 75% discount on its flagship AI model, signaling broader access for developers and businesses. The move could shift pricing dynamics across the market, pressuring competitors and expanding adoption, while raising questions about long-term revenue and model governance.",
+      "summary_zh": "DeepSeek 将其旗舰 AI 模型永久降至75%折扣，标志着更广泛的开发者与企业接入。此举可能改变市场定价格局，给竞争对手施压并扩大采用，但也引发对长期营收与模型治理的讨论。",
+      "hn": {
+        "id": 48257410,
+        "type": "story",
+        "by": "moh_maya",
+        "score": 209,
+        "descendants": 2,
+        "time": 1779631773,
+        "comments_url": "https://news.ycombinator.com/item?id=48257410"
+      },
+      "hot_score": 0.55,
+      "tags": [
+        "AI",
+        "Business"
+      ]
+    },
+    {
+      "title_en": "Wake up! 16b",
+      "url": "https://hellmood.111mb.de/wake_up_16b_writeup.html",
+      "title_zh": "醒来！16b",
+      "created_display": "Created: May 23, 2026 / 17:30 PT",
+      "image_url": "https://content.pouet.net/files/screenshots/00106/00106210.jpg",
+      "summary_en": "A piece titled 'Wake up! 16b' appears to center on a 16-bit/16-byte concept, though the specifics aren’t clear from the title alone.",
+      "summary_zh": "题为“醒来！16b”的作品似乎聚焦于一个 16 位 / 16 字节的概念，但从标题本身很难判断具体内容。",
+      "hn": {
+        "id": 48253060,
+        "type": "story",
+        "by": "MaximilianEmel",
+        "score": 425,
+        "descendants": 34,
+        "time": 1779582650,
+        "comments_url": "https://news.ycombinator.com/item?id=48253060"
+      },
+      "tags": [
+        "Programming"
+      ],
+      "hot_score": 0.54
+    },
+    {
+      "title_en": "Childhood Computing",
+      "url": "https://susam.net/childhood-computing.html",
+      "title_zh": "童年计算",
+      "created_display": "Created: May 24, 2026 / 05:07 PT",
+      "image_url": null,
+      "summary_en": "Childhood Computing examines how early exposure to computing shapes later skills and interests. It offers anecdotes and practical ideas for educators and parents to cultivate curiosity, literacy, and responsible tech use from a young age.",
+      "summary_zh": "《童年计算》探讨了童年早期接触计算对日后技能与兴趣的影响。文章通过趣闻与可落地的教育建议，帮助教师和家长培养孩子的好奇心、计算素养以及对科技的负责任使用。",
+      "hn": {
+        "id": 48256597,
+        "type": "story",
+        "by": "blenderob",
+        "score": 229,
+        "descendants": 112,
+        "time": 1779624454,
+        "comments_url": "https://news.ycombinator.com/item?id=48256597"
+      },
+      "tags": [
+        "Education"
+      ],
+      "hot_score": 0.53
+    },
+    {
+      "title_en": "Usborne 1980s Computer Books",
+      "url": "https://usborne.com/us/books/computer-and-coding-books",
+      "title_zh": "Usborne 1980 年代的计算机书籍",
+      "created_display": "Created: May 24, 2026 / 08:43 PT",
+      "image_url": "https://usborne.com/media/usborne_facebook_abstract.jpg",
+      "summary_en": "Usborne's 1980s computer and coding books helped a generation learn BASIC and early computing through approachable projects. The collection highlights how beginner-friendly guides shaped digital literacy and left a lasting cultural footprint.",
+      "summary_zh": "Usborne 的 1980 年代计算机与编码书籍通过易学的项目引导一代人学习 BASIC 和早期计算机知识。该系列展示了面向初学者的讲解如何塑造数字素养，并留下持久的文化印记。",
+      "hn": {
+        "id": 48258194,
+        "type": "story",
+        "by": "ngram",
+        "score": 180,
+        "descendants": 58,
+        "time": 1779637380,
+        "comments_url": "https://news.ycombinator.com/item?id=48258194"
+      },
+      "tags": [
+        "Education"
+      ],
+      "hot_score": 0.52
+    },
+    {
+      "title_en": "Why is Vivado 2026.1 dropping Linux support for free tier?",
+      "url": "https://adaptivesupport.amd.com/s/question/0D5Pd00001YQLdMKAX/why-is-vivado-20261-dropping-linux-support-for-free-tier-?language=en_US",
+      "title_zh": "为什么 Vivado 2026.1 版本不再为免费版提供 Linux 支持？",
+      "created_display": "Created: May 23, 2026 / 21:14 PT",
+      "image_url": null,
+      "summary_en": "Vivado 2026.1 will drop Linux support for its free tier, cutting off Linux users from the no-cost FPGA design tool. The change pushes hobbyists, students, and small teams toward paid options or alternative ecosystems, highlighting the fragility of vendor-supplied open tooling. The move raises questions about accessibility and cross-platform support in critical design software.",
+      "summary_zh": "Vivado 2026.1 将不再为免费版提供 Linux 支持，意味着 Linux 用户将无法使用这款无成本的 FPGA 设计工具。此变动可能迫使业余爱好者、学生和小团队转向付费版本或寻找替代方案，凸显了依赖厂商的跨平台开工具的脆弱性。此举引发关于可访问性与跨平台支持在关键设计软件中的讨论。",
+      "hn": {
+        "id": 48254309,
+        "type": "story",
+        "by": "zdw",
+        "score": 338,
+        "descendants": 208,
+        "time": 1779596092,
+        "comments_url": "https://news.ycombinator.com/item?id=48254309"
+      },
+      "tags": [
+        "Programming",
+        "Hardware"
+      ],
+      "hot_score": 0.51
+    },
+    {
+      "title_en": "Time to talk about my writerdeck",
+      "url": "https://veronicaexplains.net/my-first-writerdeck/",
+      "title_zh": "是时候谈谈我的写作卡组",
+      "created_display": "Created: May 23, 2026 / 11:45 PT",
+      "image_url": "https://veronicaexplains.net/content/images/size/w1200/2026/05/writerdeck-for-blog.webp",
+      "summary_en": "A personal exploration of writerdeck, a card-based system for organizing writing ideas and tasks. It details how the author set it up, what kinds of cards they include, and how the deck helps with ideation and planning across long projects. Useful tips for starting your own writerdeck are included.",
+      "summary_zh": "对 writerdeck 的个人探索——一种用卡片组织写作灵感与任务的系统。文章讲述作者如何搭建、包含哪些卡片，以及它如何在长期项目中帮助创意产生与计划。文末提供了启动自己写作卡组的实用要点。",
+      "hn": {
+        "id": 48250144,
+        "type": "story",
+        "by": "hggh",
+        "score": 495,
+        "descendants": 288,
+        "time": 1779561937,
+        "comments_url": "https://news.ycombinator.com/item?id=48250144"
+      },
+      "tags": [
+        "Education"
+      ],
+      "hot_score": 0.49
+    },
+    {
+      "title_en": "Amazon Web Services – Four Years and Out",
+      "url": "https://www.adventuresinoss.com/aws-four-years/",
+      "title_zh": "AWS：四年后退场",
+      "created_display": "Created: May 23, 2026 / 21:51 PT",
+      "image_url": "https://www.adventuresinoss.com/images/aws-badge.png",
+      "summary_en": "A retrospective on a four-year run with Amazon Web Services and the reasons behind its termination.",
+      "summary_zh": "对一个在 AWS 上持续了四年的项目的回顾，揭示其终止的原因。",
+      "hn": {
+        "id": 48254475,
+        "type": "story",
+        "by": "RyeCombinator",
+        "score": 318,
+        "descendants": 133,
+        "time": 1779598282,
+        "comments_url": "https://news.ycombinator.com/item?id=48254475"
+      },
+      "tags": [
+        "Web",
+        "Business"
+      ],
+      "hot_score": 0.49
+    },
+    {
+      "title_en": "Omarchy Is Not A Distro",
+      "url": "https://abyss.fish/your_dotfiles_are_not_a_distro",
+      "title_zh": "Omarchy 不是发行版",
+      "created_display": "Created: May 24, 2026 / 07:37 PT",
+      "image_url": null,
+      "summary_en": "Omarchy isn’t a Linux distro, and dotfiles ecosystems behave differently from traditional distributions. The piece reframes how we think about OS environments and suggests practical ways to structure personal configurations.",
+      "summary_zh": "Omarchy 不是 Linux 发行版，与传统发行版不同，dotfiles 体系需要以不同的方式来看待操作系统环境。文章提出了组织个人配置的实用方法。",
+      "hn": {
+        "id": 48257612,
+        "type": "story",
+        "by": "j3s",
+        "score": 175,
+        "descendants": 161,
+        "time": 1779633441,
+        "comments_url": "https://news.ycombinator.com/item?id=48257612"
+      },
+      "hot_score": 0.47,
+      "tags": [
+        "Open Source"
+      ]
+    },
+    {
+      "title_en": "'AI washing': firms are scrambling to rebrand themselves as tech-focused",
+      "url": "https://www.theguardian.com/technology/2026/may/24/ai-washing-pr-firms-scrambling-rebrand",
+      "title_zh": "AI 洗白：公司匆忙将自己包装成科技型",
+      "created_display": "Created: May 24, 2026 / 08:21 PT",
+      "image_url": "https://i.guim.co.uk/img/media/6c4dd4b2880760003ffbd14e8d6884b367237ad3/1844_305_2349_1879/master/2349.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8ae6c8a540881dcdf228bf87820a2733",
+      "summary_en": "Firms are engaging in 'AI washing' by marketing themselves as AI-first even if their core products aren’t AI-centric. The piece analyzes PR tactics, potential investor skepticism, and what to look for beyond buzzwords.",
+      "summary_zh": "公司通过炒作 AI 能力来包装自己，哪怕核心产品并非 AI 驱动的也自称 AI 为先。文章分析公关手法、投资者可能的怀疑，以及读者应关注的真实能力与产品路线。",
+      "hn": {
+        "id": 48257980,
+        "type": "story",
+        "by": "Brajeshwar",
+        "score": 167,
+        "descendants": 154,
+        "time": 1779636088,
+        "comments_url": "https://news.ycombinator.com/item?id=48257980"
+      },
+      "hot_score": 0.47,
+      "tags": [
+        "Business",
+        "AI"
+      ]
+    },
+    {
+      "title_en": "Building Pi with Pi",
+      "url": "https://lucumr.pocoo.org/2026/5/24/pi-oss/",
+      "title_zh": "用 Pi 构建 Pi",
+      "created_display": "Created: May 24, 2026 / 10:22 PT",
+      "image_url": "https://lucumr.pocoo.org/social/2026-05-24-pi-oss-social.png",
+      "summary_en": "It highlights the challenges and rewards of using a project’s own tooling to build its ecosystem.",
+      "summary_zh": "文章展示了用 Pi 自行构建 Pi 的自举过程，说明了自托管开发的技术要点与挑战，以及让项目自研工具链自成生态的潜在收益。",
+      "hn": {
+        "id": 48259192,
+        "type": "story",
+        "by": "mplanchard",
+        "score": 142,
+        "descendants": 121,
+        "time": 1779643368,
+        "comments_url": "https://news.ycombinator.com/item?id=48259192"
+      },
+      "tags": [
+        "Open Source"
+      ],
+      "hot_score": 0.47
+    },
+    {
+      "title_en": "The seed oil panic is hurting my cardiac patients",
+      "url": "https://www.statnews.com/2026/05/22/seed-oils-healthy-fats-tallow-fact-check-cardiac-health/",
+      "title_zh": "籽油恐慌正在伤害我的心血管患者",
+      "created_display": "Created: May 24, 2026 / 07:27 PT",
+      "image_url": "https://www.statnews.com/wp-content/uploads/2026/05/AdobeStock_1933838136-1024x576.jpeg",
+      "summary_en": "Misinformation about seed oils is shaping dietary advice for cardiovascular patients. The piece calls for nuanced, evidence-based guidance rather than sensational claims and explains potential cardiovascular implications based on current science.",
+      "summary_zh": "关于籽油的错误信息正在左右心血管患者的饮食建议。文章呼吁以循证为基础的温和指导，而非耸人听闻的说法，并结合当前科学证据讨论潜在的心血管影响。",
+      "hn": {
+        "id": 48257532,
+        "type": "story",
+        "by": "randycupertino",
+        "score": 158,
+        "descendants": 228,
+        "time": 1779632846,
+        "comments_url": "https://news.ycombinator.com/item?id=48257532"
+      },
+      "hot_score": 0.42,
+      "tags": [
+        "Health",
+        "Science"
+      ]
+    },
+    {
+      "title_en": "Ruby for Good",
+      "url": "https://ti.to/codeforgood/rubyforgood",
+      "title_zh": "Ruby for Good：用 Ruby 做善事",
+      "created_display": "Created: May 24, 2026 / 08:49 PT",
+      "image_url": "https://dashboard.assets.tito.io/assets/tito-facebook-og-a31ed3ae450963e8b87c683966ad5050849900a706314c4899d5d9213ba51aea.png",
+      "summary_en": "Ruby for Good mobilizes Ruby developers to volunteer on charitable tech projects, combining open-source collaboration with social impact. Participants gain practical experience while nonprofits receive improvements to software and operations.",
+      "summary_zh": "Ruby for Good 号召 Ruby 开发者参与慈善项目的技术工作，将开源协作与社会影响结合起来。参与者获得实战经验，非营利组织获得软件和运营上的改进。",
+      "hn": {
+        "id": 48258254,
+        "type": "story",
+        "by": "mooreds",
+        "score": 140,
+        "descendants": 54,
+        "time": 1779637759,
+        "comments_url": "https://news.ycombinator.com/item?id=48258254"
+      },
+      "tags": [
+        "Open Source"
+      ],
+      "hot_score": 0.41
+    },
+    {
+      "title_en": "Scammers are abusing an internal Microsoft account to send spam links",
+      "url": "https://techcrunch.com/2026/05/21/scammers-are-abusing-an-internal-microsoft-account-to-send-spam/",
+      "title_zh": "骗子滥用微软内部账户发送垃圾链接",
+      "created_display": "Created: May 23, 2026 / 17:51 PT",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2025/07/microsoft-logo-1865237814.jpg?resize=1200,863",
+      "summary_en": "Scammers are abusing an internal Microsoft account to send spam links, illustrating how insider access points can be weaponized in phishing campaigns. The incident underscores the need for stronger internal controls, monitoring, and rapid incident response to prevent abuse from affecting users and partners.",
+      "summary_zh": "骗子滥用微软内部账户发送垃圾链接，暴露了内部权限也会被滥用的风险。事件凸显加强内部控制、监控和快速处置以防止滥用扩散的必要性。",
+      "hn": {
+        "id": 48253186,
+        "type": "story",
+        "by": "spike021",
+        "score": 300,
+        "descendants": 173,
+        "time": 1779583892,
+        "comments_url": "https://news.ycombinator.com/item?id=48253186"
+      },
+      "tags": [
+        "Security"
+      ],
+      "hot_score": 0.38
+    },
+    {
+      "title_en": "Greg Brockman interview [video]",
+      "url": "https://fs.blog/knowledge-project-podcast/greg-brockman/",
+      "title_zh": "Greg Brockman 访谈（视频）",
+      "created_display": "Created: May 24, 2026 / 01:29 PT",
+      "image_url": "https://fs.blog/wp-content/uploads/2026/04/Cover-White-1024x1024.png",
+      "summary_en": "Key takeaways from Greg Brockman on building AI at scale, safety, governance, and the future of intelligence deployment, with reflections on engineering culture and long-term policy.",
+      "summary_zh": "Greg Brockman 就大规模 AI 构建、安全、治理及未来 AI 部署等议题给出要点，分享了工程文化与长期政策的看法。",
+      "hn": {
+        "id": 48255593,
+        "type": "story",
+        "by": "prakashqwerty",
+        "score": 204,
+        "descendants": 228,
+        "time": 1779611378,
+        "comments_url": "https://news.ycombinator.com/item?id=48255593"
+      },
+      "tags": [
+        "AI"
+      ],
+      "hot_score": 0.38
+    },
+    {
+      "title_en": "Mastering Dyalog APL",
+      "url": "https://mastering.dyalog.com/README.html",
+      "title_zh": "精通 Dyalog APL",
+      "created_display": "Created: May 24, 2026 / 04:42 PT",
+      "image_url": "https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png",
+      "summary_en": "Dyalog APL remains one of the most expressive array languages; this resource pack promises practical guidance—from idioms to performance tricks—to help you write concise, fast APL code. It emphasizes vectorized thinking and how to leverage Dyalog’s extensions for real-world data tasks.",
+      "summary_zh": "Dyalog APL 是最具表达力的数组语言之一，这份资源集合提供实用指南—from 常用习惯用法到性能技巧，帮助你写出简洁且高效的 APL 代码。文章强调向量化思维，以及如何利用 Dyalog 的扩展应对实际数据任务。",
+      "hn": {
+        "id": 48256475,
+        "type": "story",
+        "by": "tosh",
+        "score": 150,
+        "descendants": 37,
+        "time": 1779622935,
+        "comments_url": "https://news.ycombinator.com/item?id=48256475"
+      },
+      "tags": [
+        "Programming"
+      ],
+      "hot_score": 0.34
+    },
+    {
+      "title_en": "FreeBSD Foundation executive director tries daily driving FreeBSD on laptop",
+      "url": "https://www.phoronix.com/news/FreeBSD-On-Laptop-Driver",
+      "title_zh": "FreeBSD 基金会执行董事在笔记本上日常使用 FreeBSD 的体验",
+      "created_display": "Created: May 24, 2026 / 09:36 PT",
+      "image_url": "https://www.phoronix.net/image.php?id=2026&image=freebsd_deb",
+      "summary_en": "An executive’s real-world report of using FreeBSD as a daily driver on a laptop, detailing hardware compatibility, driver support, and productivity implications for developers and enthusiasts.",
+      "summary_zh": "一位行政主管在笔记本上将 FreeBSD 作为日常系统使用的真实体验，涉及硬件兼容性、驱动支持及对开发者与爱好者的生产力影响。",
+      "hn": {
+        "id": 48258736,
+        "type": "story",
+        "by": "Bender",
+        "score": 91,
+        "descendants": 70,
+        "time": 1779640586,
+        "comments_url": "https://news.ycombinator.com/item?id=48258736"
+      },
+      "hot_score": 0.28,
+      "tags": [
+        "Open Source",
+        "Hardware"
+      ]
+    },
+    {
+      "title_en": "Perceptual Image Codec: What Matters in Practical Learned Image Compression",
+      "url": "https://apple.github.io/ml-pico/",
+      "title_zh": "感知图像编解码：实用学习型图像压缩中的要点",
+      "created_display": "Created: May 24, 2026 / 05:01 PT",
+      "image_url": "https://apple.github.io/ml-pico/assets/arxiv-icon.svg",
+      "summary_en": "This overview distills what actually matters in practical learned image compression: perceptual quality, rate-distortion trade-offs, training data, and deployment robustness. It argues for metrics and architectures that maintain perceptual fidelity under real-world constraints.",
+      "summary_zh": "本文提炼了实用的学习型图像压缩的关键要点：感知质量、码率-失真权衡、训练数据与落地稳健性。作者主张在实际约束下，选择能维持感知保真度的指标与架构。",
+      "hn": {
+        "id": 48256565,
+        "type": "story",
+        "by": "ksec",
+        "score": 120,
+        "descendants": 38,
+        "time": 1779624084,
+        "comments_url": "https://news.ycombinator.com/item?id=48256565"
+      },
+      "tags": [
+        "AI"
+      ],
+      "hot_score": 0.27
+    },
+    {
+      "title_en": "Italy moves to Airbus A330 tankers",
+      "url": "https://www.euronews.com/my-europe/2026/05/21/italy-moves-to-airbus-a330-tankers-in-major-nato-aligned-shift",
+      "title_zh": "意大利转向 Airbus A330 加油机",
+      "created_display": "Created: May 23, 2026 / 09:02 PT",
+      "image_url": null,
+      "summary_en": "Italy moves to Airbus A330 MRTT tankers to strengthen NATO interoperability and modernize its aerial refueling fleet. The choice aligns with European defense procurement trends and affects how Italy supports allied missions.",
+      "summary_zh": "意大利将采购 Airbus A330 MRTT 加油机，提升空中加油能力并增强与北约的协同作战能力。这一选择符合欧洲防务采购的现代化趋势，将影响意大利对盟军行动的支援能力。",
+      "hn": {
+        "id": 48248775,
+        "type": "story",
+        "by": "embedding-shape",
+        "score": 281,
+        "descendants": 116,
+        "time": 1779552163,
+        "comments_url": "https://news.ycombinator.com/item?id=48248775"
+      },
+      "tags": [
+        "Business"
+      ],
+      "hot_score": 0.25
+    },
+    {
+      "title_en": "The C64 Dead Test Font",
+      "url": "https://www.masswerk.at/nowgobang/2026/c64-dead-test-font",
+      "title_zh": "C64 的 Dead Test 字体",
+      "created_display": "Created: May 23, 2026 / 20:57 PT",
+      "image_url": "https://www.masswerk.at/nowgobang/images/dead-test-font-title.jpg",
+      "summary_en": "A faithful recreation of the Commodore 64's iconic Dead Test font, enabling pixel-perfect retro typography in modern projects. The bitmap glyphs reproduce the C64 look for use in emulators, demos, and educational materials without relying on legacy ROMs. This underscores ongoing interest in authentic vintage typography for authenticity in demos and tutorials.",
+      "summary_zh": "忠实再现了 Commodore 64 的 Dead Test 位图字形，使现代项目能够实现像素级的复古字体效果。此字体便于在仿真器、演示和教学材料中再现 C64 的风格，而无需依赖旧 ROM。显示出在演示与教育场景中对复古排版真实性的持续需求。",
+      "hn": {
+        "id": 48254236,
+        "type": "story",
+        "by": "masswerk",
+        "score": 144,
+        "descendants": 27,
+        "time": 1779595021,
+        "comments_url": "https://news.ycombinator.com/item?id=48254236"
+      },
+      "tags": [
+        "Design"
+      ],
+      "hot_score": 0.21
+    },
+    {
+      "title_en": "Microsoft's 6502 BASIC is now Open Source (2025)",
+      "url": "https://opensource.microsoft.com/blog/2025/09/03/microsoft-open-source-historic-6502-basic/",
+      "title_zh": "微软的 6502 BASIC 已开源（2025）",
+      "created_display": "Created: May 24, 2026 / 06:16 PT",
+      "image_url": "https://opensource.microsoft.com/blog/wp-content/uploads/2025/09/Open-Source-Microsoft-retro-logo.png",
+      "summary_en": "Microsoft has open-sourced its historic 6502 BASIC interpreter, preserving computing history and enabling experimentation on retro hardware and emulation projects. The release enriches the open-source ecosystem and offers educators a tangible teaching tool for early microcomputing.",
+      "summary_zh": "微软已开源其历史悠久的 6502 BASIC 解释器，保存了计算历史并便于在复古硬件和仿真项目中进行试验。此举丰富了开源生态，同时为教育工作者提供了直观的早期微型计算教学工具。",
+      "hn": {
+        "id": 48257058,
+        "type": "story",
+        "by": "GTP",
+        "score": 87,
+        "descendants": 28,
+        "time": 1779628593,
+        "comments_url": "https://news.ycombinator.com/item?id=48257058"
+      },
+      "hot_score": 0.21,
+      "tags": [
+        "Open Source",
+        "Programming",
+        "Hardware"
+      ]
+    },
+    {
+      "title_en": "ICE Awards $25M Iris-Scanning Contract to Bi2 Technologies",
+      "url": "https://www.projectsaltbox.com/p/ice-awards-25-million-iris-scanning",
+      "title_zh": "ICE 授予 Bi2 Technologies 2500 万美元虹膜识别合同",
+      "created_display": "Created: May 23, 2026 / 16:39 PT",
+      "image_url": "https://substackcdn.com/image/fetch/$s_!Stcm!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb22e7dca-a011-4721-aded-1e0da26b470e_1900x1214.png",
+      "summary_en": "The U.S. Immigration and Customs Enforcement awards Bi2 Technologies a $25 million contract to deploy iris-scanning systems, raising privacy and civil-liberties questions about biometric surveillance.",
+      "summary_zh": "ICE 授予 Bi2 Technologies 一份价值2500万美元的虹膜识别合同，引发对生物识别监控的隐私与公民自由问题的讨论。",
+      "hn": {
+        "id": 48252720,
+        "type": "story",
+        "by": "cdrnsf",
+        "score": 166,
+        "descendants": 53,
+        "time": 1779579583,
+        "comments_url": "https://news.ycombinator.com/item?id=48252720"
+      },
+      "tags": [
+        "Privacy",
+        "Security"
+      ],
+      "hot_score": 0.2
+    },
+    {
+      "title_en": "Alexander Grothendieck Revolutionized 20th-Century Mathematics",
+      "url": "https://www.quantamagazine.org/how-alexander-grothendieck-revolutionized-20th-century-mathematics-20260520/",
+      "title_zh": "亚历山大·格罗滕迪克如何革新了20世纪数学",
+      "created_display": "Created: May 23, 2026 / 20:19 PT",
+      "image_url": "https://www.quantamagazine.org/wp-content/uploads/2026/05/Grothendieck-cr-Mercedes-deBellard-Social.jpg",
+      "summary_en": "Grothendieck profoundly reshaped 20th-century mathematics by advancing categories, toposes, and structural thinking. The piece traces how his ideas redirected the field toward abstraction and unifying frameworks that influenced algebraic geometry and beyond.",
+      "summary_zh": "格罗滕迪克通过推进范畴、层概念以及结构化思维，深刻改变了20世纪的数学。文章梳理了他如何把数学推向高度抽象的统一框架，深远影响了代数几何及其他领域。",
+      "hn": {
+        "id": 48254020,
+        "type": "story",
+        "by": "anujbans",
+        "score": 143,
+        "descendants": 32,
+        "time": 1779592742,
+        "comments_url": "https://news.ycombinator.com/item?id=48254020"
+      },
+      "tags": [
+        "Science"
+      ],
+      "hot_score": 0.2
+    },
+    {
+      "title_en": "Toxic chemical leak at a manufacturing facility in Orange County",
+      "url": "https://www.bbc.com/news/articles/c3w2l249j8go",
+      "title_zh": "奥兰治郡一家制造厂发生有毒化学物质泄漏",
+      "created_display": "Created: May 23, 2026 / 15:09 PT",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/88d2/live/98fd8540-5650-11f1-b682-cf91850925ea.jpg",
+      "summary_en": "A toxic chemical leak at a manufacturing facility in Orange County prompted evacuations and health risk assessments for nearby residents. Authorities are investigating the source and containment, highlighting industrial safety and regulatory oversight.",
+      "summary_zh": "奥兰治郡一家制造厂发生有毒化学物质泄漏，促使周边居民疏散并进行健康风险评估。相关部门正调查泄漏源头并加强防护和监管，凸显工业安全的重要性。",
+      "hn": {
+        "id": 48252060,
+        "type": "story",
+        "by": "borski",
+        "score": 168,
+        "descendants": 155,
+        "time": 1779574145,
+        "comments_url": "https://news.ycombinator.com/item?id=48252060"
+      },
+      "tags": [
+        "Health",
+        "Politics"
+      ],
+      "hot_score": 0.19
+    },
+    {
+      "title_en": "Don't Roll Your Own",
+      "url": "https://susam.net/do-not-roll-your-own.html",
+      "title_zh": "别自己造轮子",
+      "created_display": "Created: May 23, 2026 / 15:25 PT",
+      "image_url": "https://susam.net/files/blog/ghdbg.png",
+      "summary_en": "Don’t reinvent the wheel—rely on established libraries, standards, and ecosystems to build robust software. The piece emphasizes security, maintainability, and faster delivery when you reuse proven components.",
+      "summary_zh": "别自己造轮子——使用成熟的库、标准和生态系统来构建健壮的软件。文章强调复用经过验证的组件在安全性、可维护性和交付速度方面的优势。",
+      "hn": {
+        "id": 48252192,
+        "type": "story",
+        "by": "adunk",
+        "score": 145,
+        "descendants": 119,
+        "time": 1779575105,
+        "comments_url": "https://news.ycombinator.com/item?id=48252192"
+      },
+      "hot_score": 0.17,
+      "tags": [
+        "Programming",
+        "Security"
+      ]
+    },
+    {
+      "title_en": "'Fuck you, Bambu': How one private message could change the face of 3D printing",
+      "url": "https://www.theverge.com/tech/931532/bambu-agpl-pawel-jarczak-open-source-threat-dmca-github",
+      "title_zh": "“去你的，Bambu”：一条私信如何改变3D打印格局",
+      "created_display": "Created: May 23, 2026 / 21:22 PT",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/BAMBU.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "summary_en": "A private message in the 3D printing community sparks a debate over licensing and open-source governance, illustrating how a single DM can influence policy and community dynamics.",
+      "summary_zh": "在3D打印社区，一条私信引发关于许可与开源治理的讨论，展示了单一私信如何影响行业政策与社区格局。",
+      "hn": {
+        "id": 48254345,
+        "type": "story",
+        "by": "tambourine_man",
+        "score": 113,
+        "descendants": 92,
+        "time": 1779596559,
+        "comments_url": "https://news.ycombinator.com/item?id=48254345"
+      },
+      "hot_score": 0.17,
+      "tags": [
+        "Open Source",
+        "Legal"
+      ]
+    },
+    {
+      "title_en": "Justice Department scrubs its website of news releases about Jan. 6 defendants",
+      "url": "https://apnews.com/article/justice-department-capitol-riot-news-releases-purged-29c580044a9ed27b643c99feac9e2964",
+      "title_zh": "司法部删除其网站上关于1月6日被告的新闻稿",
+      "created_display": "Created: May 23, 2026 / 17:51 PT",
+      "image_url": "https://dims.apnews.com/dims4/default/b84b552/2147483647/strip/true/crop/4896x3262+0+5/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fbd%2F82%2Fe7ce076e43ea172294276cd7ed4b%2Fff339c5e9e8945ed8477e4ddf4ccf032",
+      "summary_en": "The Department of Justice scrubbed online press releases related to January 6 defendants, raising transparency and archival concerns. The move prompts questions about public records and access to information.",
+      "summary_zh": "司法部从网站删除了关于1月6日被告的新闻稿，引发透明度与档案保存方面的担忧，并促使公众关注公开记录与信息获取的问题。",
+      "hn": {
+        "id": 48253182,
+        "type": "story",
+        "by": "logickkk1",
+        "score": 123,
+        "descendants": 17,
+        "time": 1779583872,
+        "comments_url": "https://news.ycombinator.com/item?id=48253182"
+      },
+      "hot_score": 0.16,
+      "tags": [
+        "Politics"
+      ]
+    },
+    {
+      "title_en": "My I3-Emacs Integration",
+      "url": "https://khz.ac/software/i3-integration.html",
+      "title_zh": "我的 I3-Emacs 集成",
+      "created_display": "Created: May 23, 2026 / 16:13 PT",
+      "image_url": null,
+      "summary_en": "A personal workflow that integrates the i3 window manager with Emacs, combining tiling layout with a powerful editor.",
+      "summary_zh": "一个将 i3 窗口管理器与 Emacs 结合的个人工作流，融合平铺布局与强大编辑功能。文中提供配置要点、性能提示，以及如何同时发挥两者在编码与写作中的效率。",
+      "hn": {
+        "id": 48252535,
+        "type": "story",
+        "by": "nosolace",
+        "score": 129,
+        "descendants": 48,
+        "time": 1779578022,
+        "comments_url": "https://news.ycombinator.com/item?id=48252535"
+      },
+      "hot_score": 0.15,
+      "tags": [
+        "Programming"
+      ]
+    },
+    {
+      "title_en": "Air France and Airbus found guilty of manslaughter over 2009 plane crash",
+      "url": "https://www.bbc.com/news/articles/czd2qmdvmq6o",
+      "title_zh": "法航与空客因2009年空难被认定犯有过失杀人",
+      "created_display": "Created: May 23, 2026 / 13:09 PT",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/d5b5/live/0f7f6c10-5511-11f1-9e5e-fb37d8c40e64.jpg",
+      "summary_en": "Air France and Airbus were found guilty of involuntary manslaughter over a 2009 crash, marking a significant liability judgment in aviation safety. The ruling may influence how carriers and manufacturers approach safety compliance and risk management.",
+      "summary_zh": "法航与空客因2009年空难被认定过失杀人，成为航空安全领域具有里程碑意义的企业责任判决。该裁决可能影响航空公司与制造商在安全合规与风险管理方面的做法。",
+      "hn": {
+        "id": 48250980,
+        "type": "story",
+        "by": "baal80spam",
+        "score": 132,
+        "descendants": 123,
+        "time": 1779566953,
+        "comments_url": "https://news.ycombinator.com/item?id=48250980"
+      },
+      "hot_score": 0.14,
+      "tags": [
+        "Legal"
+      ]
+    },
+    {
+      "title_en": "z386: An Open-Source 80386 Built Around Original Microcode",
+      "url": "https://nand2mario.github.io/posts/2026/z386/",
+      "title_zh": "z386：基于原始微码的开源 80386 处理器",
+      "created_display": "Created: May 23, 2026 / 07:25 PT",
+      "image_url": "https://nand2mario.github.io/posts/2026/z386/z386_doom2_game.jpg",
+      "summary_en": "z386 is an open-source project building an 80386 CPU around its original microcode, offering a hardware-level educational platform and a lens into early x86 design. It appeals to retro computing enthusiasts and open-hardware researchers.",
+      "summary_zh": "z386 是一个开源项目，围绕原始微码构建 80386 CPU，提供硬件层面的教育平台，并揭示早期 x86 设计的细节，适合复古计算爱好者与开源硬件研究者。",
+      "hn": {
+        "id": 48248014,
+        "type": "story",
+        "by": "wicket",
+        "score": 132,
+        "descendants": 31,
+        "time": 1779546330,
+        "comments_url": "https://news.ycombinator.com/item?id=48248014"
+      },
+      "hot_score": 0.11,
+      "tags": [
+        "Open Source",
+        "Hardware"
+      ]
+    },
+    {
+      "title_en": "Reverse engineering circuitry in a Spacelab computer from 1980",
+      "url": "https://www.righto.com/2026/05/reverse-engineering-spacelab-computer.html",
+      "title_zh": "对1980年太空实验室计算机电路进行逆向工程",
+      "created_display": "Created: May 23, 2026 / 09:24 PT",
+      "image_url": "https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_tAa5Rf-G6NkamKyL7cEtxKKkEQyG8ynXtY6IwxGD-2dn_nXEwdgY5Uh9BmIFN9NQskP2hqb5wWEHmDw0Y8j9ekU3s-d23knzUTkpcge-Kg-H8qzvWp0JdAgXYBYmL6Vlyi=w1200-h630-p-k-no-nu",
+      "summary_en": "A deep dive into reverse engineering circuitry of a Spacelab computer from 1980, revealing hardware design choices, limitations, and potential firmware interactions. The project highlights how vintage aerospace hardware informs modern hardware analysis and education.",
+      "summary_zh": "对1980年太空实验室计算机电路进行深入逆向工程，揭示硬件设计取舍与局限，以及潜在固件交互。该工作展示了老旧航天硬件如何启示现代硬件分析与教育。",
+      "hn": {
+        "id": 48248954,
+        "type": "story",
+        "by": "elpocko",
+        "score": 118,
+        "descendants": 21,
+        "time": 1779553490,
+        "comments_url": "https://news.ycombinator.com/item?id=48248954"
+      },
+      "hot_score": 0.11,
+      "tags": [
+        "Hardware",
+        "Education"
+      ]
+    },
+    {
+      "title_en": "Ebola Outbreak Now Third Largest Recorded and \"Spreading Rapidly\"",
+      "url": "https://arstechnica.com/health/2026/05/ebola-outbreak-now-third-largest-recorded-and-spreading-rapidly/",
+      "title_zh": "埃博拉疫情现为第三大且传播迅速",
+      "created_display": "Created: May 23, 2026 / 08:47 PT",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2277132506-2560x1440.jpg",
+      "summary_en": "Health authorities report Ebola now the third-largest outbreak on record and spreading rapidly, underscoring the need for robust surveillance and vaccines.",
+      "summary_zh": "卫生机构报告埃博拉疫情现为有史以来第三大且扩散迅速，凸显加强监测与疫苗研发的迫切性。文章讨论控制难点、国际协作及资金投入的影响。",
+      "hn": {
+        "id": 48248659,
+        "type": "story",
+        "by": "Brajeshwar",
+        "score": 116,
+        "descendants": 116,
+        "time": 1779551258,
+        "comments_url": "https://news.ycombinator.com/item?id=48248659"
+      },
+      "hot_score": 0.1,
+      "tags": [
+        "Health",
+        "Science",
+        "Privacy"
+      ]
+    }
+  ]
+}

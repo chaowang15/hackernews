@@ -1,0 +1,1159 @@
+{
+  "meta": {
+    "mode": "best",
+    "source": "https://news.ycombinator.com/",
+    "api": "https://github.com/HackerNews/API",
+    "count_requested": 50,
+    "count_written": 50,
+    "reused_same_day": 0,
+    "reused_cross_day": 14,
+    "new_llm_enriched": 13,
+    "scrape_time_display": "08:19, May 11, 2026 (PDT)",
+    "timezone": "America/Los_Angeles",
+    "date_dir": "2026/05/10",
+    "content_date": "2026-05-10",
+    "run_time_local": "08:19, May 11, 2026 (PDT)",
+    "run_time_utc": "2026-05-11 15:19:20 UTC",
+    "incremental": true,
+    "stories_max": 50,
+    "hot_score_time_utc": "2026-05-11 15:20:36 UTC"
+  },
+  "items": [
+    {
+      "title_en": "Ratty – A terminal emulator with inline 3D graphics",
+      "url": "https://ratty-term.org/",
+      "title_zh": "Ratty：一个支持内联 3D 图形的终端模拟器",
+      "created_display": "Created: May 11, 2026 / 03:13 PT",
+      "image_url": "https://ratty-term.org/assets/images/ratty-social-card.png",
+      "summary_en": "Ratty is a terminal emulator that renders inline 3D graphics, pushing terminal UX beyond plain text. It demonstrates how GPU-accelerated visuals can appear in developer tools, though practical use remains niche. A playful peek at how far terminal interfaces can be stretched.",
+      "summary_zh": "Ratty 是一款可在终端内直接显示三维图形的终端模拟器，突破了传统文本界面的局限。它展示了基于 GPU 的可视化在开发工具中的潜力，实际应用仍然有限。这个工具也算是一种推动终端界面边界的有趣尝试。",
+      "hn": {
+        "id": 48093100,
+        "type": "story",
+        "by": "orhunp_",
+        "score": 352,
+        "descendants": 109,
+        "time": 1778494384,
+        "comments_url": "https://news.ycombinator.com/item?id=48093100"
+      },
+      "hot_score": 10.24,
+      "tags": [
+        "Programming",
+        "Hardware"
+      ]
+    },
+    {
+      "title_en": "Hardware Attestation as Monopoly Enabler",
+      "url": "https://grapheneos.social/@GrapheneOS/116550899908879585",
+      "title_zh": "硬件认证成垄断推动者",
+      "created_display": "Created: May 10, 2026 / 10:54 PT",
+      "image_url": "https://grapheneos.social/packs/assets/logo-DXQkHAe5.svg",
+      "summary_en": "Hardware attestation mechanisms verify device state to software and remote services, enabling trusted-environment features. When the attestation is controlled by a single vendor, it can lock users into that ecosystem and hinder competition. The takeaway is a push for interoperable, transparent standards to prevent security from becoming a monopoly lever.",
+      "summary_zh": "硬件认证机制用于向软件和远程服务验证设备状态，支持可信执行环境等功能。若认证机制被单一厂商掌控，可能将用户锁定在该生态中，削弱竞争。核心信息是推动互操作、透明的认证标准，以防安全被用于垄断工具。",
+      "hn": {
+        "id": 48086190,
+        "type": "story",
+        "by": "ChuckMcM",
+        "score": 1889,
+        "descendants": 620,
+        "time": 1778435642,
+        "comments_url": "https://news.ycombinator.com/item?id=48086190"
+      },
+      "tags": [
+        "Security",
+        "Business",
+        "Hardware"
+      ],
+      "hot_score": 6.46
+    },
+    {
+      "title_en": "Mythos Finds a Curl Vulnerability",
+      "url": "https://daniel.haxx.se/blog/2026/05/11/mythos-finds-a-curl-vulnerability/",
+      "title_zh": "Mythos 发现 curl 漏洞",
+      "created_display": "Created: May 10, 2026 / 23:39 PT",
+      "image_url": "https://daniel.haxx.se/blog/wp-content/uploads/2026/05/jinwon-robot.jpg",
+      "summary_en": "Security researcher Mythos has uncovered a vulnerability in curl, the widely used command-line HTTP client and library. The flaw underscores how even foundational networking tools can harbor exploitable weaknesses and reinforces the need for prompt patches and careful dependency management.",
+      "summary_zh": "Mythos 发现 curl 的一个漏洞，curl 是广泛使用的 HTTP 客户端库。该漏洞凸显了基础网络组件也可能存在可被利用的弱点，强调及时修补和对依赖项进行谨慎管理的重要性。",
+      "hn": {
+        "id": 48091737,
+        "type": "story",
+        "by": "TangerineDream",
+        "score": 405,
+        "descendants": 178,
+        "time": 1778481548,
+        "comments_url": "https://news.ycombinator.com/item?id=48091737"
+      },
+      "tags": [
+        "Security"
+      ],
+      "hot_score": 5.68
+    },
+    {
+      "title_en": "Local AI needs to be the norm",
+      "url": "https://unix.foo/posts/local-ai-needs-to-be-norm/",
+      "title_zh": "本地 AI 应成为常态",
+      "created_display": "Created: May 10, 2026 / 10:19 PT",
+      "image_url": "https://unix.foo/images/brutalist_ios_main.png",
+      "summary_en": "The push toward on-device, local AI is moving from novelty to necessity as privacy, latency, and data governance become real constraints for organizations. This shift demands tooling and standards for model updates, secure storage, and offline operation across devices and endpoints. Expect more investment in edge hardware, federated learning, and open models that respect user data sovereignty.",
+      "summary_zh": "向本地化 AI 迁移正在从新鲜事变成必要趋势，隐私、延迟和数据治理成为现实约束，促使在各设备端部署和离线运行模型。需要完善的更新、安全存储和跨设备协同的工具与标准。这将推动对边缘硬件、联邦学习以及尊重数据主权的开源模型的投入。",
+      "hn": {
+        "id": 48085821,
+        "type": "story",
+        "by": "cylo",
+        "score": 1515,
+        "descendants": 584,
+        "time": 1778433568,
+        "comments_url": "https://news.ycombinator.com/item?id=48085821"
+      },
+      "tags": [
+        "AI",
+        "Privacy",
+        "Hardware"
+      ],
+      "hot_score": 4.96
+    },
+    {
+      "title_en": "I'm going back to writing code by hand",
+      "url": "https://blog.k10s.dev/im-going-back-to-writing-code-by-hand/",
+      "title_zh": "我将回归手写代码",
+      "created_display": "Created: May 10, 2026 / 18:23 PT",
+      "image_url": "https://blog.k10s.dev/static/og-image.png",
+      "summary_en": "The author argues for returning to hand-writing code to sharpen thinking, reduce tooling fatigue, and surface core problems before heavy IDE focus. The post offers practices that emphasize conceptual clarity over automation.",
+      "summary_zh": "作者主张回归手写代码，以提升思维清晰度、减少对工具的依赖，并更早地暴露本质问题。文章给出强调概念清晰度勝于过度自动化的实践建议。",
+      "hn": {
+        "id": 48090029,
+        "type": "story",
+        "by": "dropbox_miner",
+        "score": 677,
+        "descendants": 359,
+        "time": 1778462631,
+        "comments_url": "https://news.ycombinator.com/item?id=48090029"
+      },
+      "tags": [
+        "Programming"
+      ],
+      "hot_score": 4.63
+    },
+    {
+      "title_en": "All Those A.I. Note Takers? They're Making Lawyers Nervous",
+      "url": "https://www.nytimes.com/2026/05/09/business/dealbook/ai-notetakers-legal-risk.html",
+      "title_zh": "AI 笔记工具层出不穷让律师紧张",
+      "created_display": "Created: May 11, 2026 / 03:04 PT",
+      "image_url": null,
+      "summary_en": "AI-powered note-taking tools are proliferating in legal work, but lawyers worry about confidentiality, accuracy, and over-reliance. The shift could reshape due diligence, negotiations, and risk management, prompting firms to rethink policies.",
+      "summary_zh": "AI 笔记工具在法律行业日益普及，但律师们担心保密、准确性和对工作的过度依赖。工具的广泛使用可能改变尽调、交易谈判和风险管理的方式，促使机构制定更严格的使用规范。",
+      "hn": {
+        "id": 48093043,
+        "type": "story",
+        "by": "JumpCrisscross",
+        "score": 111,
+        "descendants": 80,
+        "time": 1778493887,
+        "comments_url": "https://news.ycombinator.com/item?id=48093043"
+      },
+      "hot_score": 3.1,
+      "tags": [
+        "AI",
+        "Legal"
+      ]
+    },
+    {
+      "title_en": "I Work in Hollywood. Everyone Who Used to Make TV Is Now Training AI",
+      "url": "https://www.wired.com/story/i-work-in-hollywood-everyone-who-used-to-make-tv-now-training-ai/",
+      "title_zh": "我在好莱坞工作：如今谁在训练 AI",
+      "created_display": "Created: May 11, 2026 / 04:05 PT",
+      "image_url": "https://media.wired.com/photos/69f9d07c16b465babf179812/191:100/w_1280,c_limit/WIRED-AnastasiaKraynyuk-HollywoodAI-01.png",
+      "summary_en": "Creatives in Hollywood—from writers to actors—are increasingly enlisted to train AI models, raising questions about consent, compensation, and labor rights. The shift reveals how AI data pipelines intersect with culture and media production.",
+      "summary_zh": "好莱坞的创意工作者正越来越多地被用于训练 AI 模型，这包括编剧、演员等职业。这一趋势引发关于知情同意、报酬与劳动权益的讨论，揭示了 AI 数据背后的伦理和经济问题。",
+      "hn": {
+        "id": 48093446,
+        "type": "story",
+        "by": "joozio",
+        "score": 85,
+        "descendants": 53,
+        "time": 1778497504,
+        "comments_url": "https://news.ycombinator.com/item?id=48093446"
+      },
+      "hot_score": 3.09,
+      "tags": [
+        "AI",
+        "Entertainment"
+      ]
+    },
+    {
+      "title_en": "Gmail registration now requires scanning a QR code and sending a text message",
+      "url": "https://discuss.privacyguides.net/t/google-account-registration-now-requires-sending-an-sms-via-phone-instead-of-receiving-an-sms/36082",
+      "title_zh": "Gmail 注册现在需扫描二维码并发送短信",
+      "created_display": "Created: May 11, 2026 / 00:26 PT",
+      "image_url": "https://forum-uploads.privacyguidesusercontent.com/original/3X/9/8/9831576af17cf56f7f57776620c4da4b4af14b7c.jpeg",
+      "summary_en": "New Gmail registration flows require scanning a QR code and sending an SMS to verify accounts. The change adds friction, raises privacy concerns, and may complic onboarding for new users.",
+      "summary_zh": "Gmail 的注册流程现在要求先扫描二维码再发送短信完成验证。这一改变增加了注册难度，并引发隐私和无障碍方面的担忧，可能让新用户的上手变慢。",
+      "hn": {
+        "id": 48092028,
+        "type": "story",
+        "by": "negura",
+        "score": 187,
+        "descendants": 87,
+        "time": 1778484414,
+        "comments_url": "https://news.ycombinator.com/item?id=48092028"
+      },
+      "hot_score": 3.0,
+      "tags": [
+        "Privacy"
+      ]
+    },
+    {
+      "title_en": "Running local models on an M4 with 24GB memory",
+      "url": "https://jola.dev/posts/running-local-models-on-m4",
+      "title_zh": "在配备 24GB 内存的 M4 上本地运行模型",
+      "created_display": "Created: May 10, 2026 / 16:09 PT",
+      "image_url": "https://jola.dev/images/og-image-2b7872671fc7c11e464dac899d8d3068.png?vsn=d",
+      "summary_en": "A practical exploration of running local AI models on an M4 with 24GB RAM, detailing the trade-offs between model size, quantization, and CPU inference. It shows how modest hardware can still enable useful local inference without cloud reliance.",
+      "summary_zh": "在配备 24GB 内存的 M4 上本地运行 AI 模型的实用探索，讨论模型大小、量化与 CPU 推理之间的权衡。展示了在相对有限的硬件上实现有用的本地推理、减少对云端的依赖。",
+      "hn": {
+        "id": 48089091,
+        "type": "story",
+        "by": "shintoist",
+        "score": 443,
+        "descendants": 132,
+        "time": 1778454550,
+        "comments_url": "https://news.ycombinator.com/item?id=48089091"
+      },
+      "tags": [
+        "AI",
+        "Hardware"
+      ],
+      "hot_score": 2.39
+    },
+    {
+      "title_en": "Incident Report: CVE-2024-YIKES",
+      "url": "https://nesbitt.io/2026/02/03/incident-report-cve-2024-yikes.html",
+      "title_zh": "事件报告：CVE-2024-YIKES",
+      "created_display": "Created: May 10, 2026 / 10:43 PT",
+      "image_url": "https://nesbitt.io/images/boxes.png",
+      "summary_en": "An incident report details a vulnerability tagged CVE-2024-YIKES and its exploitation path, affecting multiple systems before a patch was released. It highlights how attackers leveraged the flaw and the importance of rapid patching and layered defenses. The takeaway: keep dependencies current and strengthen incident response to reduce blast radius.",
+      "summary_zh": "一份事件报告披露了被标记为 CVE-2024-YIKES 的漏洞及其利用路径，影响了多套系统，直至修补程序发布。攻击者利用该漏洞进行入侵，凸显了快速打补丁和分层防御的重要性。关键点在于保持依赖项更新与强化事件响应以降低影响范围。",
+      "hn": {
+        "id": 48086082,
+        "type": "story",
+        "by": "miniBill",
+        "score": 634,
+        "descendants": 154,
+        "time": 1778434990,
+        "comments_url": "https://news.ycombinator.com/item?id=48086082"
+      },
+      "tags": [
+        "Security"
+      ],
+      "hot_score": 2.13
+    },
+    {
+      "title_en": "The greatest shot in television: James Burke had one chance to nail this scene (2024)",
+      "url": "https://www.openculture.com/2024/10/the-greatest-shot-in-television.html",
+      "title_zh": "电视史上最伟大的一幕：James Burke 只有一次机会拍好这一镜头（2024）",
+      "created_display": "Created: May 10, 2026 / 19:43 PT",
+      "image_url": "https://cdn8.openculture.com/2024/10/03224124/The-Greatest-Shot-in-Television-1024x576.jpg",
+      "summary_en": "A reflection on a single, pivotal shot in television history featuring James Burke, illustrating how timing and composition can elevate science storytelling.",
+      "summary_zh": "聚焦 James Burke 的一个关键镜头，展示镜头时机与构图在科普叙事中的力量。文章分析这一瞬间如何成为观众记忆中的经典，并对影视拍摄工艺提供洞见。",
+      "hn": {
+        "id": 48090521,
+        "type": "story",
+        "by": "susam",
+        "score": 258,
+        "descendants": 137,
+        "time": 1778467414,
+        "comments_url": "https://news.ycombinator.com/item?id=48090521"
+      },
+      "tags": [
+        "Entertainment",
+        "Science"
+      ],
+      "hot_score": 2.06
+    },
+    {
+      "title_en": "Louis Rossmann offers to pay legal fees for a threatened OrcaSlicer developer",
+      "url": "https://www.tomshardware.com/3d-printing/louis-rossmann-tells-3d-printer-maker-bambu-lab-to-go-bleep-yourself-over-its-lawsuit-against-enthusiast-right-to-repair-advocate-offers-to-pay-the-legal-fees-for-a-threatened-orcaslicer-developer",
+      "title_zh": "路易斯·罗斯曼愿为遭威胁的 OrcaSlicer 开发者支付诉讼费",
+      "created_display": "Created: May 10, 2026 / 07:47 PT",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/XZSzuRYxS7bRcNPtqXALUJ-1232-80.png",
+      "summary_en": "Louis Rossmann offers to cover legal fees for a threatened OrcaSlicer developer, signaling high-profile support for open hardware and repair activism. The gesture highlights ongoing tensions between manufacturers pursuing lawsuits and the enthusiast community defending rights to repair and independent tooling.",
+      "summary_zh": "路易斯·罗斯曼愿为遭遇威胁的 OrcaSlicer 开发者支付诉讼费，显示对开放硬件与修理倡议的强力支持。这一举动凸显了厂商诉讼与热衷社区捍卫修理权和独立工具之间的持续紧张关系。",
+      "hn": {
+        "id": 48084432,
+        "type": "story",
+        "by": "iancmceachern",
+        "score": 572,
+        "descendants": 306,
+        "time": 1778424425,
+        "comments_url": "https://news.ycombinator.com/item?id=48084432"
+      },
+      "tags": [
+        "Legal",
+        "Open Source",
+        "Hardware"
+      ],
+      "hot_score": 1.56
+    },
+    {
+      "title_en": "An AI coding agent, used to write code, needs to reduce your maintenance costs",
+      "url": "https://www.jamesshore.com/v2/blog/2026/you-need-ai-that-reduces-your-maintenance-costs",
+      "title_zh": "用于编写代码的 AI 编码代理需要降低你的维护成本",
+      "created_display": "Created: May 10, 2026 / 16:39 PT",
+      "image_url": "https://www.jamesshore.com/images/site/title-696x290.png",
+      "summary_en": "The piece argues that AI coding agents should focus on reducing maintenance costs, not just code generation speed. It emphasizes durable interfaces, testability, and thoughtful architecture as drivers of long-term productivity.",
+      "summary_zh": "文章提出 AI 编码代理应以降低维护成本为目标，而不仅仅追求代码产出速度，强调稳定接口、可测试性与良好架构对长期生产力的重要性。",
+      "hn": {
+        "id": 48089289,
+        "type": "story",
+        "by": "cratermoon",
+        "score": 266,
+        "descendants": 79,
+        "time": 1778456395,
+        "comments_url": "https://news.ycombinator.com/item?id=48089289"
+      },
+      "tags": [
+        "AI"
+      ],
+      "hot_score": 1.51
+    },
+    {
+      "title_en": "Obsidian plugin was abused to deploy a remote access trojan",
+      "url": "https://cyber.netsecops.io/articles/obsidian-plugin-abused-in-campaign-to-deploy-phantom-pulse-rat/",
+      "title_zh": "Obsidian 插件被滥用部署远程访问木马",
+      "created_display": "Created: May 10, 2026 / 15:02 PT",
+      "image_url": "https://cyber.netsecops.io/images/og-image/obsidian-plugin-abused-in-campaign-to-deploy-phantom-pulse-rat.jpg",
+      "summary_en": "A security incident shows how a malicious Obsidian plugin can be used to deploy a remote access trojan, underscoring the risk surface in extensible apps and the need for safer plugin ecosystems and vetting processes.",
+      "summary_zh": "安全事件揭示恶意 Obsidian 插件如何被用于部署远程访问木马，凸显可扩展应用的风险点，以及建立更安全的插件生态和审核机制的必要性。",
+      "hn": {
+        "id": 48088576,
+        "type": "story",
+        "by": "cmbailey",
+        "score": 293,
+        "descendants": 163,
+        "time": 1778450563,
+        "comments_url": "https://news.ycombinator.com/item?id=48088576"
+      },
+      "tags": [
+        "Security"
+      ],
+      "hot_score": 1.42
+    },
+    {
+      "title_en": "Maryland citizens hit with $2B power grid upgrade for out-of-state AI",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/maryland-citizens-slapped-with-usd2-billion-grid-upgrade-bill-for-out-of-state-ai-data-centers-state-complains-to-federal-energy-regulators-says-additional-cost-breaks-ratepayer-protection-pledge-promises",
+      "title_zh": "因外州 AI 数据中心而来的电网升级让马里兰居民承担20亿美元成本",
+      "created_display": "Created: May 10, 2026 / 14:16 PT",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/KHUetaXQbsmm6z9m5g5Pne-2560-80.jpg",
+      "summary_en": "Ratepayers face a multi-billion-dollar upgrade cost to support out-of-state AI data centers; regulators and lawmakers are challenging the billing and seeking protections. The dispute highlights how infrastructure costs for AI can be borne by residents rather than the benefiting entities. The outcome could influence policy on grid investments and fairness for ratepayers.",
+      "summary_zh": "为支持外州 AI 数据中心而进行的电网升级，导致用电者承担高达20亿美元的成本，引发监管机构与立法者的抗议与保护措施的讨论。这一分摊方式凸显了 AI 基础设施投资的公共成本问题，可能影响电网投资政策与对率费使用的公平性评估。",
+      "hn": {
+        "id": 48088151,
+        "type": "story",
+        "by": "lemonberry",
+        "score": 285,
+        "descendants": 175,
+        "time": 1778447818,
+        "comments_url": "https://news.ycombinator.com/item?id=48088151"
+      },
+      "tags": [
+        "Energy",
+        "Politics",
+        "AI",
+        "DevOps"
+      ],
+      "hot_score": 1.29
+    },
+    {
+      "title_en": "Remind HN: Today is Mother's Day, call your moms",
+      "url": "https://news.ycombinator.com/item?id=48085384",
+      "title_zh": "提醒：母亲节到了，给妈妈打个电话",
+      "created_display": "Created: May 10, 2026 / 09:37 PT",
+      "image_url": null,
+      "summary_en": "Today is Mother's Day, a reminder to reach out to the moms who often support busy tech workers. A short call can boost morale and focus, offering a humane counterpoint to nonstop coding.",
+      "summary_zh": "母亲节到了，别忘了给长期支持你工作的妈妈打个电话。保持联系有助于提升心情与专注，为高强度的技术工作注入人情温度。",
+      "hn": {
+        "id": 48085384,
+        "type": "story",
+        "by": "rationalist",
+        "score": 364,
+        "descendants": 155,
+        "time": 1778431024,
+        "comments_url": "https://news.ycombinator.com/item?id=48085384"
+      },
+      "hot_score": 1.13,
+      "tags": [
+        "Culture"
+      ]
+    },
+    {
+      "title_en": "PS3 Emulator Devs Politely Ask That People Stop Flooding It with AI PRs",
+      "url": "https://kotaku.com/playstation-3-emulator-devs-politely-ask-that-people-stop-flooding-it-with-ai-code-pull-requests-2000694656",
+      "title_zh": "PS3 模拟器开发者恳请停止用 AI 提交 PR",
+      "created_display": "Created: May 10, 2026 / 16:36 PT",
+      "image_url": "https://kotaku.com/app/uploads/2026/03/ps3-update-1200x675.jpg",
+      "summary_en": "PS3 emulator developers politely request that contributors stop submitting AI-generated pull requests due to quality, duplication, and security concerns, urging human review for safety and reliability.",
+      "summary_zh": "PS3 模拟器开发者礼貌地请求社区停止提交 AI 生成的 PR，因为质量、重复工作与安全性方面的顾虑，强调需要人工审阅以确保安全与可靠性。",
+      "hn": {
+        "id": 48089263,
+        "type": "story",
+        "by": "stalfosknight",
+        "score": 175,
+        "descendants": 130,
+        "time": 1778456208,
+        "comments_url": "https://news.ycombinator.com/item?id=48089263"
+      },
+      "tags": [
+        "Programming",
+        "AI",
+        "Security"
+      ],
+      "hot_score": 0.98
+    },
+    {
+      "title_en": "YC's Biggest Scandals",
+      "url": "https://ycombinator.fyi/",
+      "title_zh": "YC 的最大丑闻",
+      "created_display": "Created: May 10, 2026 / 09:30 PT",
+      "image_url": "https://ycombinator.fyi/images/delve-hero.jpeg",
+      "summary_en": "YC's Biggest Scandals collects notable controversies in Y Combinator's history, shedding light on governance, founder relations, and fundraising practices. The compilation underscores how even prestigious accelerators wrestle with ethics and transparency as they scale. It offers context for founders choosing programs and for observers tracking startup ecosystems.",
+      "summary_zh": "这篇合集梳理了 YC 历史上的知名争议，涉及治理、对创始人的态度及融资做法等议题。它强调在规模化过程中，孵化器需要面对伦理与透明度的挑战。为打算参与或关注创业生态的人提供了新的背景材料。",
+      "hn": {
+        "id": 48085314,
+        "type": "story",
+        "by": "laserduck",
+        "score": 258,
+        "descendants": 90,
+        "time": 1778430634,
+        "comments_url": "https://news.ycombinator.com/item?id=48085314"
+      },
+      "hot_score": 0.79,
+      "tags": [
+        "Startups",
+        "Politics",
+        "Privacy"
+      ]
+    },
+    {
+      "title_en": "Space Cadet Pinball on Linux",
+      "url": "https://brennan.io/2026/05/09/pinball-and-escrow/",
+      "title_zh": "Linux 上的 Space Cadet Pinball",
+      "created_display": "Created: May 10, 2026 / 04:22 PT",
+      "image_url": "https://brennan.io/images/me.jpg",
+      "summary_en": "A quick look at getting the Windows XP classic Space Cadet Pinball to run on Linux, with notes on the tricks that make retro games work on modern systems.",
+      "summary_zh": "介绍在 Linux 上让 Windows XP 经典游戏 Space Cadet Pinball 可运行的要点与技巧。",
+      "hn": {
+        "id": 48082968,
+        "type": "story",
+        "by": "jandeboevrie",
+        "score": 341,
+        "descendants": 119,
+        "time": 1778412122,
+        "comments_url": "https://news.ycombinator.com/item?id=48082968"
+      },
+      "tags": [
+        "Entertainment"
+      ],
+      "hot_score": 0.75
+    },
+    {
+      "title_en": "GitHub is sinking",
+      "url": "https://dbushell.com/2026/04/29/github-is-sinking/",
+      "title_zh": "GitHub 正在走下坡路",
+      "created_display": "Created: May 10, 2026 / 09:07 PT",
+      "image_url": "https://dbushell.com/images/articles/2026-04-29-github-is-sinking.png",
+      "summary_en": "The post argues GitHub is sinking, citing outages, reliability issues, and increasing competition from rivals like GitLab. It frames developer experience and reliability as the new battlegrounds, suggesting users may diversify their tooling. The takeaway is to monitor platform health and consider alternative workflows.",
+      "summary_zh": "这篇文章声称 GitHub 已经走下坡路，指控其服务稳定性、性能问题及来自竞争对手的压力。作者将开发者体验视为新的竞争焦点，建议用户为工作流留出替代方案。",
+      "hn": {
+        "id": 48085095,
+        "type": "story",
+        "by": "herbertl",
+        "score": 240,
+        "descendants": 159,
+        "time": 1778429246,
+        "comments_url": "https://news.ycombinator.com/item?id=48085095"
+      },
+      "hot_score": 0.72,
+      "tags": [
+        "Programming",
+        "Web",
+        "Health"
+      ]
+    },
+    {
+      "title_en": "Ask HN: What are you working on? (May 2026)",
+      "url": "https://news.ycombinator.com/item?id=48085993",
+      "title_zh": "Ask HN：你在做什么？（2026年5月）",
+      "created_display": "Created: May 10, 2026 / 10:34 PT",
+      "image_url": "https://news.ycombinator.com/y18.svg",
+      "summary_en": "Hacker News users share current projects, prototypes, and research directions in a community roundup. The thread reveals the kind of problems engineers are chasing in mid-2026 and can spark collaboration or new ideas for readers.",
+      "summary_zh": "Hacker News 用户在社区汇总中分享当前的项目、原型和研究方向。该话题揭示了2026年中期工程师们关注的问题，并为读者提供协作机会与新思路。",
+      "hn": {
+        "id": 48085993,
+        "type": "story",
+        "by": "david927",
+        "score": 215,
+        "descendants": 809,
+        "time": 1778434481,
+        "comments_url": "https://news.ycombinator.com/item?id=48085993"
+      },
+      "tags": [
+        "Programming"
+      ],
+      "hot_score": 0.71
+    },
+    {
+      "title_en": "How Fast Does Claude, Acting as a User Space IP Stack, Respond to Pings?",
+      "url": "https://dunkels.com/adam/claude-user-space-ip-stack-ping/",
+      "title_zh": "Claude 作为用户空间 IP 堆栈对 Ping 的响应有多快？",
+      "created_display": "Created: May 10, 2026 / 16:02 PT",
+      "image_url": "https://dunkels.com/adam/assets/images/llm-ping/ping.png",
+      "summary_en": "The post investigates Claude's latency when acting as a user-space IP stack that responds to ICMP ping, highlighting practical limits and overheads of AI-assisted networking tasks.",
+      "summary_zh": "本文探讨在将 Claude 作为用户空间 IP 堆栈对 ICMP Ping 做出响应时的延迟，揭示 AI 辅助网络任务的实际边界与开销。",
+      "hn": {
+        "id": 48089049,
+        "type": "story",
+        "by": "adunk",
+        "score": 134,
+        "descendants": 46,
+        "time": 1778454151,
+        "comments_url": "https://news.ycombinator.com/item?id=48089049"
+      },
+      "tags": [
+        "AI",
+        "Programming"
+      ],
+      "hot_score": 0.71
+    },
+    {
+      "title_en": "Show HN: Building a web server in assembly to give my life (a lack of) meaning",
+      "url": "https://github.com/imtomt/ymawky",
+      "title_zh": "Show HN：用汇编语言构建网络服务器以寻求生活意义",
+      "created_display": "Created: May 09, 2026 / 20:01 PT",
+      "image_url": "https://opengraph.githubassets.com/8bf79907f2a3d50813c871a692131dd5132ce31a07baf38b3be42d8aeac0be20/imtomt/ymawky",
+      "summary_en": "A programmer builds a web server entirely in assembly, using the project as a personal experiment to explore the extremes of low-level computing and to find a sense of meaning. The effort highlights the practical challenges of implementing networking purely in assembly and offers reflections on abstraction costs and developer discipline.",
+      "summary_zh": "开发者用汇编语言从零实现一个网络服务器，将其作为自我探索的一种方式。该项目揭示了使用汇编实现网络功能的实际挑战，以及对抽象层成本与开发自律的思考。",
+      "hn": {
+        "id": 48080587,
+        "type": "story",
+        "by": "imtomt",
+        "score": 408,
+        "descendants": 217,
+        "time": 1778382104,
+        "comments_url": "https://news.ycombinator.com/item?id=48080587"
+      },
+      "tags": [
+        "Show HN",
+        "Programming"
+      ],
+      "hot_score": 0.57
+    },
+    {
+      "title_en": "Debian must ship reproducible packages",
+      "url": "https://lists.debian.org/debian-devel-announce/2026/05/msg00001.html",
+      "title_zh": "Debian 必须提供可重复构建的软件包",
+      "created_display": "Created: May 09, 2026 / 22:26 PT",
+      "image_url": null,
+      "summary_en": "Debian is pushing to ship reproducible packages, enabling anyone to rebuild binaries and verify their integrity. Reproducible builds help catch tampering and improve supply-chain transparency across the Debian ecosystem. The push will require changes to build processes and tooling, with implications for maintainers and CI pipelines.",
+      "summary_zh": "Debian 正在推动发布可重复构建的软件包，使任何人都能重建二进制文件并验证完整性。可重复构建有助于发现篡改并提升供应链透明度，覆盖整个 Debian 生态。此举将要求构建流程和工具链的变更，影响维护者与持续集成管线。",
+      "hn": {
+        "id": 48081245,
+        "type": "story",
+        "by": "robalni",
+        "score": 358,
+        "descendants": 159,
+        "time": 1778390763,
+        "comments_url": "https://news.ycombinator.com/item?id=48081245"
+      },
+      "tags": [
+        "Open Source"
+      ],
+      "hot_score": 0.57
+    },
+    {
+      "title_en": "The locals don't know",
+      "url": "https://www.quarter--mile.com/The-Locals-Dont-Know",
+      "title_zh": "当地人不知道的事",
+      "created_display": "Created: May 10, 2026 / 09:03 PT",
+      "image_url": null,
+      "summary_en": "This piece argues that local communities are often unaware of how tech or policy changes affect them, underscoring the need for better communication and inclusive planning.",
+      "summary_zh": "这篇文章揭示当地社区往往对影响他们的技术或政策毫不知情，强调需要更好的沟通与包容性规划。",
+      "hn": {
+        "id": 48085055,
+        "type": "story",
+        "by": "herbertl",
+        "score": 185,
+        "descendants": 148,
+        "time": 1778429017,
+        "comments_url": "https://news.ycombinator.com/item?id=48085055"
+      },
+      "tags": [
+        "Culture",
+        "Politics"
+      ],
+      "hot_score": 0.55
+    },
+    {
+      "title_en": "Traces Of Humanity",
+      "url": "https://tracesofhumanity.org/hello-world/",
+      "title_zh": "人类痕迹",
+      "created_display": "Created: May 10, 2026 / 10:15 PT",
+      "image_url": "https://static.ghost.org/v5.0.0/images/publication-cover.jpg",
+      "summary_en": "An ongoing project exploring traces of humanity, launching with a simple introductory post.",
+      "summary_zh": "这是一个探索人类踪迹的长期项目，以一篇简单的入门文作为起点。",
+      "hn": {
+        "id": 48085782,
+        "type": "story",
+        "by": "alex77456",
+        "score": 166,
+        "descendants": 25,
+        "time": 1778433310,
+        "comments_url": "https://news.ycombinator.com/item?id=48085782"
+      },
+      "tags": [
+        "Culture"
+      ],
+      "hot_score": 0.54
+    },
+    {
+      "title_en": "Spain has become one of Europe’s cheapest power markets",
+      "url": "https://janrosenow.substack.com/p/spain-just-became-one-of-europes",
+      "title_zh": "西班牙成为欧洲最便宜的电力市场之一",
+      "created_display": "Created: May 10, 2026 / 09:31 PT",
+      "image_url": null,
+      "summary_en": "Spain has emerged as one of Europe's cheapest power markets, driven by ample renewables and favorable pricing dynamics. The trend could attract data centers and energy-intensive industries, but may also raise concerns about price volatility and grid investments.",
+      "summary_zh": "西班牙凭借丰富的可再生能源和有利的定价结构，成为欧洲最便宜的电力市场之一。这一趋势可能吸引数据中心与高耗能行业，但也可能带来价格波动与电网投资方面的担忧。",
+      "hn": {
+        "id": 48085330,
+        "type": "story",
+        "by": "marc__1",
+        "score": 174,
+        "descendants": 174,
+        "time": 1778430711,
+        "comments_url": "https://news.ycombinator.com/item?id=48085330"
+      },
+      "tags": [
+        "Energy",
+        "Business"
+      ],
+      "hot_score": 0.53
+    },
+    {
+      "title_en": "I’ve banned query strings",
+      "url": "https://chrismorgan.info/no-query-strings",
+      "title_zh": "我已禁止查询字符串",
+      "created_display": "Created: May 09, 2026 / 09:28 PT",
+      "image_url": null,
+      "summary_en": "A developer bans query strings to improve cacheability and determinism in URLs. This approach reduces cache fragmentation and enables more aggressive CDN caching, though it requires rethinking how parameters and analytics are handled. The post shares practical steps and trade-offs from their experience.",
+      "summary_zh": "开发者宣布禁用查询字符串以提升 URL 的缓存性和确定性。这一做法减少了缓存碎片，使 CDN 能更有效地缓存资源，但需要重新考虑参数和分析信息的处理方式。文中分享了基于其经验的实践要点与取舍。",
+      "hn": {
+        "id": 48076173,
+        "type": "story",
+        "by": "susam",
+        "score": 559,
+        "descendants": 290,
+        "time": 1778344116,
+        "comments_url": "https://news.ycombinator.com/item?id=48076173"
+      },
+      "tags": [
+        "Programming",
+        "Data"
+      ],
+      "hot_score": 0.51
+    },
+    {
+      "title_en": "Scientists warn Atlantic current at risk of shutting down",
+      "url": "https://e360.yale.edu/features/amoc-climate-change",
+      "title_zh": "科学家警告大西洋经向环流面临关闭风险",
+      "created_display": "Created: May 10, 2026 / 08:39 PT",
+      "image_url": "https://yale-threesixty.transforms.svdcdn.com/production/AMOC_NASA-HEADER.jpg?w=1200&q=60&auto=format&fit=max&dm=1777998975&s=166da29d752298535aeff0ec87e19e2b",
+      "summary_en": "Scientists warn that the Atlantic Meridional Overturning Circulation could slow or shut down as climate change progresses. A slowdown would reshape regional climates, potentially altering weather patterns in Europe, North America, and beyond.",
+      "summary_zh": "科学家警告，在气候变化推动下，大西洋经向翻转环流（AMOC）可能减弱甚至关闭。若发生，其将改变欧洲和美洲等地区的天气模式及海洋生态，需要尽早采取减排等应对措施。",
+      "hn": {
+        "id": 48084836,
+        "type": "story",
+        "by": "ambigious7777",
+        "score": 165,
+        "descendants": 219,
+        "time": 1778427593,
+        "comments_url": "https://news.ycombinator.com/item?id=48084836"
+      },
+      "hot_score": 0.48,
+      "tags": [
+        "Science"
+      ]
+    },
+    {
+      "title_en": "Meta's embrace of AI is making its employees miserable",
+      "url": "https://www.nytimes.com/2026/05/08/technology/meta-ai-employees-miserable.html",
+      "title_zh": "Meta 对 AI 的拥抱让员工感到痛苦",
+      "created_display": "Created: May 09, 2026 / 11:33 PT",
+      "image_url": null,
+      "summary_en": "NYT reports that Meta's push into AI is harming morale, with employees facing heightened expectations, reshuffles, and surveillance-like monitoring.",
+      "summary_zh": "纽约时报报道指出，Meta 大力推进 AI 策略正在侵蚀员工士气，导致高压工作环境、职责调整和对绩效的强化监控。文章强调 AI 为先的路线图对员工福祉的代价，并可能带来留任挑战。",
+      "hn": {
+        "id": 48077126,
+        "type": "story",
+        "by": "JumpCrisscross",
+        "score": 452,
+        "descendants": 517,
+        "time": 1778351616,
+        "comments_url": "https://news.ycombinator.com/item?id=48077126"
+      },
+      "tags": [
+        "AI",
+        "Privacy"
+      ],
+      "hot_score": 0.44
+    },
+    {
+      "title_en": "Think Linear Algebra (2023)",
+      "url": "https://allendowney.github.io/ThinkLinearAlgebra/index.html",
+      "title_zh": "思考线性代数（2023）",
+      "created_display": "Created: May 10, 2026 / 02:40 PT",
+      "image_url": null,
+      "summary_en": "Allen Downey's Think Linear Algebra (2023) presents linear algebra through a computational lens, connecting matrix theory to practical programming tasks. It emphasizes intuition, algorithmic thinking, and how linear algebra underpins ML, graphics, and data analysis.",
+      "summary_zh": "Allen Downey 的 Think Linear Algebra（2023）以计算视角呈现线性代数，将矩阵理论与实际编程任务联系起来。书中强调直观理解、算法思维，以及线性代数在机器学习、图形处理和数据分析中的核心作用。",
+      "hn": {
+        "id": 48082396,
+        "type": "story",
+        "by": "tamnd",
+        "score": 213,
+        "descendants": 28,
+        "time": 1778406033,
+        "comments_url": "https://news.ycombinator.com/item?id=48082396"
+      },
+      "tags": [
+        "Education"
+      ],
+      "hot_score": 0.42
+    },
+    {
+      "title_en": "Why modern parents feel more sleep deprived than our ancestors did",
+      "url": "https://www.bbc.com/future/article/20260508-parents-in-ancient-times-felt-less-sleep-deprived-what-our-ancestors-did-differently-on-baby-sleep",
+      "title_zh": "为什么现代父母比祖先更睡眠不足",
+      "created_display": "Created: May 10, 2026 / 14:36 PT",
+      "image_url": "https://ychef.files.bbci.co.uk/624x351/p0nk42d7.jpg",
+      "summary_en": "Modern parents report higher sleep deprivation due to digital devices, social expectations, and work-life pressures. These dynamics contrast with ancestral patterns and shed light on how technology shapes family rhythms.",
+      "summary_zh": "现代父母的睡眠被普遍剥夺，原因包括电子设备、社会期望和工作压力等叠加因素。与祖先时代相比，家庭生活节奏与睡眠模式发生了显著变化，值得反思育儿与工作平衡。",
+      "hn": {
+        "id": 48088343,
+        "type": "story",
+        "by": "1659447091",
+        "score": 91,
+        "descendants": 98,
+        "time": 1778449012,
+        "comments_url": "https://news.ycombinator.com/item?id=48088343"
+      },
+      "hot_score": 0.42,
+      "tags": [
+        "Health"
+      ]
+    },
+    {
+      "title_en": "Task Paralysis and AI",
+      "url": "https://g5t.de/articles/20260510-task-paralysis-and-ai/index.html",
+      "title_zh": "任务瘫痪与人工智能",
+      "created_display": "Created: May 09, 2026 / 23:20 PT",
+      "image_url": null,
+      "summary_en": "The piece analyzes how AI assistants can induce task paralysis by outsourcing cognitive steps, causing users to hesitate and overplan. It offers strategies such as decomposing tasks, incremental prompts, and minimal viable outputs to maintain momentum.",
+      "summary_zh": "文章分析了 AI 助手通过外包认知步骤可能引发的任务瘫痪，使用户犹豫并过度规划。提供将任务拆解、分步提示和产出最小可行结果等策略以保持推进。",
+      "hn": {
+        "id": 48081469,
+        "type": "story",
+        "by": "MrGilbert",
+        "score": 248,
+        "descendants": 128,
+        "time": 1778394050,
+        "comments_url": "https://news.ycombinator.com/item?id=48081469"
+      },
+      "tags": [
+        "AI"
+      ],
+      "hot_score": 0.41
+    },
+    {
+      "title_en": "Replacing a 3 GB SQLite db with a 10 MB FST (finite state transducer) binary",
+      "url": "https://til.andrew-quinn.me/posts/replacing-a-3-gb-sqlite-database-with-a-7-mb-fst-finite-state-trandsucer-binary/",
+      "title_zh": "用 10 MB 的有限状态转换器二进制替代 3GB SQLite 数据库",
+      "created_display": "Created: May 10, 2026 / 03:33 PT",
+      "image_url": "https://til.andrew-quinn.me/papermod-cover.png",
+      "summary_en": "An experiment shows a 3 GB SQLite database replaced by a 10 MB finite-state transducer binary, dramatically cutting storage and improving startup times. It demonstrates how specialized data structures can outperform general-purpose databases for targeted workloads, at the cost of flexibility.",
+      "summary_zh": "一位开发者将原本 3GB 的 SQLite 数据库替换成了约 10MB 的有限状态转换器二进制，存储规模大幅下降，启动时间也更快。这一案例展示了面向特定场景的数据结构在某些工作负载下超越通用数据库的潜力，但在灵活性与功能性上会有权衡。",
+      "hn": {
+        "id": 48082676,
+        "type": "story",
+        "by": "hiAndrewQuinn",
+        "score": 177,
+        "descendants": 31,
+        "time": 1778409186,
+        "comments_url": "https://news.ycombinator.com/item?id=48082676"
+      },
+      "hot_score": 0.37,
+      "tags": [
+        "Programming",
+        "Data",
+        "Startups"
+      ]
+    },
+    {
+      "title_en": "What's a mathematician to do? (2010)",
+      "url": "https://mathoverflow.net/questions/43690/whats-a-mathematician-to-do",
+      "title_zh": "数学家到底该做些什么？",
+      "created_display": "Created: May 10, 2026 / 04:26 PT",
+      "image_url": "https://mathoverflow.net/Content/Sites/mathoverflow/Img/apple-touch-icon@2.png?v=f1c9606b77ff",
+      "summary_en": "MathOverflow hosts a question about what a mathematician should do to maximize impact and career prospects. Responses emphasize focusing on clear, addressable problems, cultivating collaborations, and communicating ideas beyond academia. They also stress balancing deep theoretical work with opportunities in industry or applied research.",
+      "summary_zh": "一个关于数学家的职业路径的 MathOverflow 问题引发广泛讨论。回复强调聚焦清晰的问题、建立合作关系、将研究成果更广泛地传播，以及在理论深度与潜在应用之间寻求平衡。",
+      "hn": {
+        "id": 48083007,
+        "type": "story",
+        "by": "ipnon",
+        "score": 166,
+        "descendants": 80,
+        "time": 1778412410,
+        "comments_url": "https://news.ycombinator.com/item?id=48083007"
+      },
+      "tags": [
+        "Career"
+      ],
+      "hot_score": 0.36
+    },
+    {
+      "title_en": "Distributing Mac software is increasing my cortisol levels",
+      "url": "https://blog.kronis.dev/blog/apple-is-increasing-my-cortisol-levels",
+      "title_zh": "在分发 Mac 软件时，我的压力越来越大",
+      "created_display": "Created: May 09, 2026 / 07:40 PT",
+      "image_url": "https://blog.kronis.dev/user/pages/blog/apple-is-increasing-my-cortisol-levels/01-quarantine.jpg",
+      "summary_en": "Sharing the emotional burden of distributing Mac software, from signing and notarization to dealing with Gatekeeper prompts and new Apple requirements. The piece details the friction points developers face and how these policies affect release cycles and automation.",
+      "summary_zh": "作者分享在将 Mac 软件分发到用户手中时感受到的压力，覆盖签名、Notarization、Gatekeeper 等流程以及 Apple 日益严格的要求。文章指出这些政策对发布周期和自动化工作流带来的阻力，并给出应对建议。",
+      "hn": {
+        "id": 48075366,
+        "type": "story",
+        "by": "LorenDB",
+        "score": 389,
+        "descendants": 275,
+        "time": 1778337658,
+        "comments_url": "https://news.ycombinator.com/item?id=48075366"
+      },
+      "tags": [
+        "Programming"
+      ],
+      "hot_score": 0.33
+    },
+    {
+      "title_en": "France moves to break encrypted messaging",
+      "url": "https://reclaimthenet.org/france-moves-to-break-encrypted-messaging",
+      "title_zh": "法国推动破解端对端加密通讯",
+      "created_display": "Created: May 09, 2026 / 15:14 PT",
+      "image_url": "https://reclaimthenet.org/wp-content/uploads/2026/05/6M0h4AJN7yyk-scaled.jpg",
+      "summary_en": "France contemplates measures to weaken or break encrypted messaging as part of law enforcement and national security priorities, signaling renewed regulatory pressure on end-to-end encryption. The move raises questions about privacy, safety, and innovation.",
+      "summary_zh": "法国在打击犯罪和国家安全背景下，拟采取措施削弱或破坏端对端加密通讯，显示出对加密的再度监管压力。这引发对隐私、公共安全和创新的讨论。",
+      "hn": {
+        "id": 48078811,
+        "type": "story",
+        "by": "Cider9986",
+        "score": 277,
+        "descendants": 133,
+        "time": 1778364875,
+        "comments_url": "https://news.ycombinator.com/item?id=48078811"
+      },
+      "tags": [
+        "Privacy",
+        "Politics",
+        "Security"
+      ],
+      "hot_score": 0.32
+    },
+    {
+      "title_en": "Chrome's AI features may be hogging 4GB of your computer storage",
+      "url": "https://www.theverge.com/tech/924933/google-chrome-4gb-gemini-nano-ai-features",
+      "title_zh": "Chrome 的 AI 功能可能占用你电脑 4GB 存储空间",
+      "created_display": "Created: May 10, 2026 / 08:22 PT",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24418650/STK114_Google_Chrome_01.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "summary_en": "Chrome's embedded AI features may preload local model data, potentially consuming up to around 4GB of disk space. The result is a efficiency vs. storage trade-off that users and admins will need to manage.",
+      "summary_zh": "报道称 Chrome 的 AI 功能可能在本地缓存中占用多达约 4GB 的磁盘空间，带来存储压力。用户和管理员需要权衡离线性能与可用存储之间的取舍。",
+      "hn": {
+        "id": 48084710,
+        "type": "story",
+        "by": "birdculture",
+        "score": 113,
+        "descendants": 58,
+        "time": 1778426566,
+        "comments_url": "https://news.ycombinator.com/item?id=48084710"
+      },
+      "hot_score": 0.32,
+      "tags": [
+        "AI",
+        "Web"
+      ]
+    },
+    {
+      "title_en": "Show HN: An index of indie web/blog indexes",
+      "url": "https://theindex.fyi",
+      "title_zh": "Show HN：独立网页/博客索引汇编",
+      "created_display": "Created: May 10, 2026 / 05:50 PT",
+      "image_url": "https://theindex.fyi/og.png",
+      "summary_en": "A curated index aggregating indie web indexes and blogs, helping readers discover small, independent voices online. The project highlights demand for decentralized discovery and niche content, inviting contributions or improvements.",
+      "summary_zh": "一个精心整理的独立网页与博客索引集合，帮助读者发现小众、独立的线上声音。该项目反映出对去中心化内容发现的需求，欢迎贡献与改进。",
+      "hn": {
+        "id": 48083580,
+        "type": "story",
+        "by": "rocketpastsix",
+        "score": 124,
+        "descendants": 39,
+        "time": 1778417431,
+        "comments_url": "https://news.ycombinator.com/item?id=48083580"
+      },
+      "tags": [
+        "Show HN",
+        "Web"
+      ],
+      "hot_score": 0.3
+    },
+    {
+      "title_en": "Getting arrested in Japan",
+      "url": "https://sundaicity.com/blogs/getting-arrested-in-japan",
+      "title_zh": "在日本被逮捕",
+      "created_display": "Created: May 09, 2026 / 14:56 PT",
+      "image_url": "http://static1.squarespace.com/static/605f04a61395e21d304e636a/t/69c8d480c2f49f1bfc842d8d/1774769280050/japan+detention+center.jpeg?format=1500w",
+      "summary_en": "A personal account of navigating Japan's legal system, detailing experiences around arrest or detainment, and offering practical takeaways for travelers or tech workers abroad. It sheds light on procedures, rights, and cultural differences.",
+      "summary_zh": "作者分享在日本与法律体系打交道的个人经历，描述被逮捕/被扣留的过程，并给出出国工作和旅行者的实用建议。内容凸显了程序、权利与文化差异。",
+      "hn": {
+        "id": 48078647,
+        "type": "story",
+        "by": "bane",
+        "score": 250,
+        "descendants": 308,
+        "time": 1778363779,
+        "comments_url": "https://news.ycombinator.com/item?id=48078647"
+      },
+      "tags": [
+        "Legal"
+      ],
+      "hot_score": 0.28
+    },
+    {
+      "title_en": "Zed Editor Theme-Builder",
+      "url": "https://zed.dev/theme-builder",
+      "title_zh": "Zed 编辑器主题生成器",
+      "created_display": "Created: May 09, 2026 / 10:30 PT",
+      "image_url": "https://zed.dev/api/og?title=Theme%20Builder",
+      "summary_en": "Zed Editor Theme-Builder lets you craft and preview themes for the Zed Editor, enabling consistent, accessible syntax highlighting. It lowers the barrier to creating polished editor themes and sharing them with the community.",
+      "summary_zh": "Zed 编辑器主题生成器可用于设计并预览 Zed 的主题，便于实现一致且易读的语法高亮。降低了创作与分享高质量编辑器主题的门槛。",
+      "hn": {
+        "id": 48076651,
+        "type": "story",
+        "by": "cuechan",
+        "score": 272,
+        "descendants": 82,
+        "time": 1778347839,
+        "comments_url": "https://news.ycombinator.com/item?id=48076651"
+      },
+      "tags": [
+        "Design"
+      ],
+      "hot_score": 0.26
+    },
+    {
+      "title_en": "Show HN: I made a Clojure-like language in Go, boots in 7ms",
+      "url": "https://github.com/nooga/let-go",
+      "title_zh": "Show HN：用 Go 实现的类似 Clojure 的语言，启动仅 7ms",
+      "created_display": "Created: May 09, 2026 / 10:52 PT",
+      "image_url": "https://repository-images.githubusercontent.com/340518175/b16d0200-7540-11eb-9ca9-1b74271ac6f7",
+      "summary_en": "A Lisp-inspired language implemented in Go boots astonishingly fast at 7ms, showcasing how Go's startup speed can power lightweight runtimes. It illustrates the feasibility of building a minimal, expressive language with modern tooling and invites feedback from the community.",
+      "summary_zh": "Show HN：用 Go 实现的类似 Clojure 的语言，启动仅 7ms，展示了 Go 的快速启动能力如何支撑轻量级运行时。该项目展示了在简洁与表达力之间的可行设计，并邀请社区给出反馈。",
+      "hn": {
+        "id": 48076815,
+        "type": "story",
+        "by": "marcingas",
+        "score": 260,
+        "descendants": 83,
+        "time": 1778349133,
+        "comments_url": "https://news.ycombinator.com/item?id=48076815"
+      },
+      "tags": [
+        "Show HN",
+        "Programming",
+        "Startups"
+      ],
+      "hot_score": 0.25
+    },
+    {
+      "title_en": "Local privilege escalation via execve()",
+      "url": "https://www.freebsd.org/security/advisories/FreeBSD-SA-26:13.exec.asc",
+      "title_zh": "FreeBSD：通过 Execve() 实现的本地提权漏洞",
+      "created_display": "Created: May 09, 2026 / 13:31 PT",
+      "image_url": null,
+      "summary_en": "FreeBSD advisory details a local privilege escalation via the execve() syscall, enabling a user with limited privileges to gain higher access. Users should apply patches and review program binaries for potential misuse; it's a reminder to enforce least privilege.",
+      "summary_zh": "FreeBSD 公告披露了通过 execve() 系统调用实现的本地权限提升漏洞，可能让最低权限用户获得更高权限。应尽快应用修补并检查二进制行为，强调最小权限与进程隔离的重要性。",
+      "hn": {
+        "id": 48077971,
+        "type": "story",
+        "by": "Deeg9rie9usi",
+        "score": 221,
+        "descendants": 102,
+        "time": 1778358681,
+        "comments_url": "https://news.ycombinator.com/item?id=48077971"
+      },
+      "tags": [
+        "Security"
+      ],
+      "hot_score": 0.23
+    },
+    {
+      "title_en": "Show HN: Rust but Lisp",
+      "url": "https://github.com/ThatXliner/rust-but-lisp",
+      "title_zh": "Show HN：用 Lisp 风格实现的 Rust",
+      "created_display": "Created: May 09, 2026 / 14:46 PT",
+      "image_url": "https://opengraph.githubassets.com/1e5128c59bd7e31f5e6d15a3ee9a5dc96518a325d37639f8defc9fee35744840/ThatXliner/rust-but-lisp",
+      "summary_en": "An experimental project that blends Lisp-inspired syntax or macro systems with Rust’s performance-oriented design. It offers a provocative look at language design trade-offs and how different paradigms can coexist.",
+      "summary_zh": "一个尝试将 Lisp 样式语法/宏系统与 Rust 的性能和安全性相结合的语言实验。展示了对 Rust 设计的重新思考，提供对语言设计权衡的有趣探索。",
+      "hn": {
+        "id": 48078575,
+        "type": "story",
+        "by": "thatxliner",
+        "score": 201,
+        "descendants": 71,
+        "time": 1778363187,
+        "comments_url": "https://news.ycombinator.com/item?id=48078575"
+      },
+      "tags": [
+        "Show HN",
+        "Programming"
+      ],
+      "hot_score": 0.22
+    },
+    {
+      "title_en": "Gemini API File Search is now multimodal",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanded-gemini-api-file-search-multimodal-rag/",
+      "title_zh": "Gemini API 文件搜索现已支持多模态",
+      "created_display": "Created: May 09, 2026 / 20:22 PT",
+      "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_File-Search_Social-Share_1920x1080.width-1300.png",
+      "summary_en": "The Gemini API file search now supports multimodal inputs, enabling richer queries over documents and media with retrieval-augmented generation. This broadens how developers build search interfaces on Gemini and signals a trend toward multimodal tooling in AI APIs.",
+      "summary_zh": "Gemini API 文件搜索现已支持多模态输入，允许对文档和多媒体内容进行更丰富的查询，并结合检索增强的生成能力。此举拓展了开发者在 Gemini 上构建搜索界面的方式，体现了 AI API 多模态工具的发展趋势。",
+      "hn": {
+        "id": 48080702,
+        "type": "story",
+        "by": "gmays",
+        "score": 152,
+        "descendants": 43,
+        "time": 1778383322,
+        "comments_url": "https://news.ycombinator.com/item?id=48080702"
+      },
+      "tags": [
+        "AI",
+        "Data"
+      ],
+      "hot_score": 0.22
+    },
+    {
+      "title_en": "Rotten Dot Com",
+      "url": "https://www.theparisreview.org/blog/2026/05/06/rotten-dot-com/",
+      "title_zh": "Rotten Dot Com：互联网早期的争议性站点",
+      "created_display": "Created: May 10, 2026 / 01:25 PT",
+      "image_url": "https://www.theparisreview.org/blog/wp-content/uploads/2026/05/default.jpg",
+      "summary_en": "A look back at Rotten Dot Com, the early-2000s site infamous for graphic content that helped define web shock culture. The piece situates the site in internet history, touching on aesthetics, moderation challenges, and cultural impact.",
+      "summary_zh": "回顾 Rotten Dot Com，这个以震撼图像闻名、影响互联网早期文化的站点。文章梳理了它在网络史上的地位、美学与内容监管的挑战，以及对后世互联网伦理的影响。",
+      "hn": {
+        "id": 48082039,
+        "type": "story",
+        "by": "lordgrenville",
+        "score": 120,
+        "descendants": 121,
+        "time": 1778401555,
+        "comments_url": "https://news.ycombinator.com/item?id=48082039"
+      },
+      "hot_score": 0.22,
+      "tags": [
+        "Culture"
+      ]
+    },
+    {
+      "title_en": "Gen Z Resentment Toward AI Grows as Adoption Stagnates and Workplace Fears Mount",
+      "url": "https://www.waltonfamilyfoundation.org/about-us/newsroom/gen-z-resentment-toward-ai-grows-as-adoption-stagnates-and-workplace-fears-mount",
+      "title_zh": "Gen Z 对 AI 的抵触情绪上升，采用率停滞，职场担忧加剧",
+      "created_display": "Created: May 10, 2026 / 01:03 PT",
+      "image_url": "https://dims.waltonfamilyfoundation.org/dims4/default/fdce3f6/2147483647/strip/true/crop/2121x1114+0+176/resize/1200x630!/quality/90/?url=https%3A%2F%2Fstatic.waltonfamilyfoundation.org%2F1b%2Fe2%2Fd498202c4f80877e774f3bef0b86%2Fistock-1340096416-1.jpg",
+      "summary_en": "Gen Z shows growing skepticism toward AI as adoption stalls and workplace fears rise. The findings suggest younger workers want safer, more transparent AI tools and may push companies to rethink how they deploy AI at work.",
+      "summary_zh": "研究显示 Z 世代在 AI 问题上的抵触情绪上升，原因包括采用缓慢和对职场风险的担忧。年轻人群体对更安全、透明的 AI 工具有更高期望，或将推动企业重新设计该领域的产品与政策。",
+      "hn": {
+        "id": 48081942,
+        "type": "story",
+        "by": "mgh2",
+        "score": 96,
+        "descendants": 157,
+        "time": 1778400195,
+        "comments_url": "https://news.ycombinator.com/item?id=48081942"
+      },
+      "hot_score": 0.17,
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "title_en": "CPanel's Black Week: 3 New Vulnerabilities Patched After Attack on 44k Servers",
+      "url": "https://www.copahost.com/blog/cpanels-black-week-three-new-vulnerabilities-patched-after-ransomware-attack-on-44000-servers/",
+      "title_zh": "cPanel 的黑色周：对 4.4 万台服务器的攻击后修补三处新漏洞",
+      "created_display": "Created: May 09, 2026 / 10:06 PT",
+      "image_url": "https://www.copahost.com/blog/wp-content/uploads/2026/05/9d592da9-48e6-4f09-b972-a73a543c754a.png",
+      "summary_en": "Following a ransomware incident that hit tens of thousands of cPanel servers, three new vulnerabilities were patched. The quick fix underscores how exposed control panels remain and why rapid patching and monitoring are crucial after breaches.",
+      "summary_zh": "在针对数万台服务器的勒索攻击后，cPanel 修补了三处新漏洞。此次快速修复凸显了远程管理面板仍是关键攻击面，强调在漏洞披露后要加速打补丁和监控。",
+      "hn": {
+        "id": 48076465,
+        "type": "story",
+        "by": "ggallas",
+        "score": 143,
+        "descendants": 77,
+        "time": 1778346406,
+        "comments_url": "https://news.ycombinator.com/item?id=48076465"
+      },
+      "tags": [
+        "Security"
+      ],
+      "hot_score": 0.13
+    },
+    {
+      "title_en": "Walking slower? Your ears, not your knees, might be the problem",
+      "url": "https://www.wsj.com/health/wellness/hearing-loss-walking-speed-iphone-study-c53c482a",
+      "title_zh": "走路变慢？耳朵可能是关键，而非膝盖",
+      "created_display": "Created: May 09, 2026 / 07:49 PT",
+      "image_url": null,
+      "summary_en": "A study links age-related hearing loss to slower walking speed, suggesting auditory health impacts mobility in older adults. Using data from a large-scale smartphone-based study, researchers show a notable association that could motivate early hearing interventions to preserve independence.",
+      "summary_zh": "一项研究将与年龄相关的听力损失与步速减慢联系起来，表明听力健康会影响老年人的行动能力。基于大规模手机数据的研究显示出显著关联，可能推动及早听力干预以维持独立性。",
+      "hn": {
+        "id": 48075429,
+        "type": "story",
+        "by": "marc__1",
+        "score": 134,
+        "descendants": 79,
+        "time": 1778338188,
+        "comments_url": "https://news.ycombinator.com/item?id=48075429"
+      },
+      "tags": [
+        "Health"
+      ],
+      "hot_score": 0.11
+    },
+    {
+      "title_en": "Bun ported to Rust in 6 days",
+      "url": "https://twitter.com/jarredsumner/status/2053047748191232310",
+      "title_zh": "Bun 6 天内移植到 Rust",
+      "created_display": "Created: May 09, 2026 / 11:47 PT",
+      "image_url": "https://pbs.twimg.com/media/HH3kDB4b0AA6w5C.jpg:large",
+      "summary_en": "Bun was ported to Rust in six days, illustrating rapid cross-language porting and potential gains in safety and performance. The anecdote reflects trends in rewriting performance-critical runtimes in Rust and what it means for the JavaScript ecosystem.",
+      "summary_zh": "Bun 在六天内完成对 Rust 的移植，展示了快速跨语言移植的可行性以及在安全性和性能方面的潜在收益。此事反映出用 Rust 重写性能关键运行时组件的趋势及其对 JavaScript 生态的影响。",
+      "hn": {
+        "id": 48077231,
+        "type": "story",
+        "by": "qprofyeh",
+        "score": 104,
+        "descendants": 5,
+        "time": 1778352478,
+        "comments_url": "https://news.ycombinator.com/item?id=48077231"
+      },
+      "tags": [
+        "Programming"
+      ],
+      "hot_score": 0.1
+    }
+  ]
+}

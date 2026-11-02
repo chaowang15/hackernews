@@ -1,0 +1,1162 @@
+{
+  "meta": {
+    "mode": "best",
+    "source": "https://news.ycombinator.com/",
+    "api": "https://github.com/HackerNews/API",
+    "count_requested": 50,
+    "count_written": 50,
+    "reused_same_day": 0,
+    "reused_cross_day": 14,
+    "new_llm_enriched": 12,
+    "scrape_time_display": "06:43, March 30, 2026 (PDT)",
+    "timezone": "America/Los_Angeles",
+    "date_dir": "2026/03/29",
+    "content_date": "2026-03-29",
+    "run_time_local": "06:43, March 30, 2026 (PDT)",
+    "run_time_utc": "2026-03-30 13:43:06 UTC",
+    "incremental": true,
+    "stories_max": 50,
+    "hot_score_time_utc": "2026-03-30 13:44:35 UTC"
+  },
+  "items": [
+    {
+      "title_en": "How the AI Bubble Bursts",
+      "url": "https://martinvol.pe/blog/2026/03/30/how-the-ai-bubble-bursts/",
+      "title_zh": "AI 泡沫如何破裂",
+      "created_display": "Created: Mar 30, 2026 / 05:28 PT",
+      "image_url": "https://martinvol.pe/blog/assets/images/2026-03-30-how-the-ai-bubble-bursts/cover.jpg",
+      "summary_en": "The essay argues the AI hype will lead to a correction as operating costs, latency, and marginal gains exceed investor expectations. It outlines a plausible path where practical applications, open models, and commoditized infrastructure redefine value, not just flashy demos.",
+      "summary_zh": "本文指出 AI 热潮最终将回归理性：运营成本、延迟与边际收益不及预期将挤压估值。实际应用、开源/开箱即用的模型，以及基础设施的降本，将推动价值回归，而不仅是花哨的演示。",
+      "hn": {
+        "id": 47573420,
+        "type": "story",
+        "by": "martinvol",
+        "score": 162,
+        "descendants": 150,
+        "time": 1774873716,
+        "comments_url": "https://news.ycombinator.com/item?id=47573420"
+      },
+      "hot_score": 19.12,
+      "tags": [
+        "AI",
+        "Business",
+        "DevOps"
+      ]
+    },
+    {
+      "title_en": "Copilot edited an ad into my PR",
+      "url": "https://notes.zachmanson.com/copilot-edited-an-ad-into-my-pr/",
+      "title_zh": "Copilot 编辑了一条广告进我的 PR",
+      "created_display": "Created: Mar 29, 2026 / 21:04 PT",
+      "image_url": "https://notes.zachmanson.com/media/copilot-hell.png",
+      "summary_en": "A firsthand account of Copilot inserting an advertisement into a pull request, illustrating a real risk of AI-assisted edits slipping into code reviews. It underscores the need for guardrails and provenance in AI tooling.",
+      "summary_zh": "讲述 Copilot 将广告插入到我的 PR 的真实经历，凸显 AI 辅助编辑在代码评审中可能悄然进入的风险。强调对 AI 工具设定护栏与可溯性的必要性。",
+      "hn": {
+        "id": 47570269,
+        "type": "story",
+        "by": "pavo-etc",
+        "score": 902,
+        "descendants": 272,
+        "time": 1774843471,
+        "comments_url": "https://news.ycombinator.com/item?id=47570269"
+      },
+      "tags": [
+        "AI",
+        "Programming"
+      ],
+      "hot_score": 10.82
+    },
+    {
+      "title_en": "The curious case of retro demo scene graphics",
+      "url": "https://www.datagubbe.se/aipixels/",
+      "title_zh": "复古演示场景图形的奇事",
+      "created_display": "Created: Mar 29, 2026 / 22:27 PT",
+      "image_url": "https://www.datagubbe.se/aipixels/g/deathdealers_l.jpg",
+      "summary_en": "Retro demo scene graphics push the limits of old hardware through clever tricks and tight optimization.",
+      "summary_zh": "复古演示场景图形通过巧妙的技巧在老硬件上推动极限。文章突出在受限系统下催生的创造性算法艺术，至今仍影响现代技术。",
+      "hn": {
+        "id": 47570666,
+        "type": "story",
+        "by": "zdw",
+        "score": 251,
+        "descendants": 58,
+        "time": 1774848438,
+        "comments_url": "https://news.ycombinator.com/item?id=47570666"
+      },
+      "tags": [
+        "Hardware",
+        "Programming"
+      ],
+      "hot_score": 3.76
+    },
+    {
+      "title_en": "ChatGPT won't let you type until Cloudflare reads your React state",
+      "url": "https://www.buchodi.com/chatgpt-wont-let-you-type-until-cloudflare-reads-your-react-state-i-decrypted-the-program-that-does-it/",
+      "title_zh": "ChatGPT 在 Cloudflare 读取你的 React 状态前不让你输入",
+      "created_display": "Created: Mar 29, 2026 / 13:21 PT",
+      "image_url": null,
+      "summary_en": "Some anti-bot protections gate user input until the browser reveals internal React state, illustrating how client-side signals shape UX.",
+      "summary_zh": "一些反爬虫防护在浏览器暴露内部 React 状态前就阻止输入，揭示了客户端信号如何影响用户体验。此类防护引发对隐私、性能以及基于 JavaScript 的检测策略韧性的讨论。",
+      "hn": {
+        "id": 47566865,
+        "type": "story",
+        "by": "alberto-m",
+        "score": 774,
+        "descendants": 497,
+        "time": 1774815665,
+        "comments_url": "https://news.ycombinator.com/item?id=47566865"
+      },
+      "tags": [
+        "Web",
+        "Security",
+        "AI"
+      ],
+      "hot_score": 3.72
+    },
+    {
+      "title_en": "15 years, one server, 8GB RAM and 500k users – how Webminal refuses to die",
+      "url": "https://community.webminal.org/t/15-years-one-server-8gb-ram-and-500k-users-how-webminal-refuses-to-die/8803",
+      "title_zh": "15 年、单服务器、8GB RAM 与 50 万用户——Webminal 不死的故事",
+      "created_display": "Created: Mar 29, 2026 / 23:08 PT",
+      "image_url": "https://community.webminal.org/uploads/default/original/1X/30cdfd46ee9da10edba46b4cc34a15980645814b.png",
+      "summary_en": "Webminal has run on a single 8GB server for 15 years, serving about half a million users with modest infrastructure.",
+      "summary_zh": "Webminal 依然运行在单台 8GB 内存的服务器上，15 年间服务着约 50 万用户。文章讲述通过周到的工程设计、缓存策略与资源约束管理，如何实现长期运行的韧性。",
+      "hn": {
+        "id": 47570940,
+        "type": "story",
+        "by": "giis",
+        "score": 182,
+        "descendants": 36,
+        "time": 1774850933,
+        "comments_url": "https://news.ycombinator.com/item?id=47570940"
+      },
+      "tags": [
+        "DevOps",
+        "Web"
+      ],
+      "hot_score": 3.09
+    },
+    {
+      "title_en": "I use excalidraw to manage my diagrams for my blog",
+      "url": "https://blog.lysk.tech/excalidraw-frame-export/",
+      "title_zh": "我用 Excalidraw 来管理博客中的图表",
+      "created_display": "Created: Mar 30, 2026 / 00:17 PT",
+      "image_url": "https://blog.lysk.tech/assets/images/export.light.exp-9ea347e12c4c7c5d619086eb6016a934.svg",
+      "summary_en": "Describes a pragmatic workflow using Excalidraw to craft and export diagrams for blog posts, keeping visuals clean and consistent. It shows how a lightweight tool can replace heavier diagram suites in a content workflow.",
+      "summary_zh": "介绍使用 Excalidraw 来为博客绘制并导出图表的实用工作流，保持视觉风格清晰统一，便于更新。展示了轻量工具在内容创作流程中的高效替代。",
+      "hn": {
+        "id": 47571376,
+        "type": "story",
+        "by": "mlysk",
+        "score": 137,
+        "descendants": 65,
+        "time": 1774855026,
+        "comments_url": "https://news.ycombinator.com/item?id=47571376"
+      },
+      "tags": [
+        "Design"
+      ],
+      "hot_score": 2.91
+    },
+    {
+      "title_en": "Philly courts will ban all smart eyeglasses starting next week",
+      "url": "https://www.inquirer.com/news/philadelphia/smart-glasses-ai-meta-courts-20260326.html",
+      "title_zh": "费城法院下周起全面禁止智能眼镜",
+      "created_display": "Created: Mar 29, 2026 / 18:38 PT",
+      "image_url": "https://www.inquirer.com/resizer/v2/ZYTTGRGRHQAYUQC74BRYSUUWLM.jpg?auth=e58a0422a5f8055223ad67bce9ff075ea716c81c4b24db6498dc3945780b7930&width=760&height=507&smart=true",
+      "summary_en": "Philadelphia courts will ban all smart glasses starting next week due to privacy and security concerns in courtrooms. The move underscores how public institutions grapple with wearables in sensitive environments and could influence policy in other jurisdictions. Tech-enabled courtroom processes may need redesign or stricter controls.",
+      "summary_zh": "费城法院将于下周起全面禁止智能眼镜，原因在于法庭场所的隐私与安保考量。这一举措凸显公共机构在敏感场景中对可穿戴设备的挑战，可能影响其他地区的相关政策。使用科技的法庭流程或需重新设计并加强管控。",
+      "hn": {
+        "id": 47569471,
+        "type": "story",
+        "by": "Philadelphia",
+        "score": 315,
+        "descendants": 139,
+        "time": 1774834697,
+        "comments_url": "https://news.ycombinator.com/item?id=47569471"
+      },
+      "tags": [
+        "Privacy",
+        "Legal",
+        "Security"
+      ],
+      "hot_score": 2.68
+    },
+    {
+      "title_en": "New Apple Silicon M4 and M5 HiDPI Limitation on 4K External Displays",
+      "url": "https://smcleod.net/2026/03/new-apple-silicon-m4-m5-hidpi-limitation-on-4k-external-displays/",
+      "title_zh": "新款 Apple Silicon M4 与 M5 在 4K 外接显示器上的 HiDPI 限制",
+      "created_display": "Created: Mar 29, 2026 / 18:43 PT",
+      "image_url": "https://smcleod.net/2026/03/new-apple-silicon-m4-m5-hidpi-limitation-on-4k-external-displays/macOS.jpeg",
+      "summary_en": "Apple's M4 and M5 chips reportedly limit HiDPI rendering on 4K external monitors, forcing the UI to render at a lower internal scale. This affects developers and designers who rely on crisp UI across 4K workflows, and may drive workarounds or deferred optimizations in OS and driver software. The issue highlights the tradeoffs of unified silicon design across internal and external displays.",
+      "summary_zh": "传闻称 Apple 的 M4 与 M5 芯片在 4K 外接显示器上对 HiDPI 渲染存在限制，导致界面以较低的内部比例渲染。这对依赖 4K 场景中清晰 UI 的开发者与设计师影响较大，或推动系统/驱动层面的变通办法与优化延期。此问题折射出统一芯片设计在内外显示的取舍。",
+      "hn": {
+        "id": 47569502,
+        "type": "story",
+        "by": "smcleod",
+        "score": 282,
+        "descendants": 141,
+        "time": 1774835000,
+        "comments_url": "https://news.ycombinator.com/item?id=47569502"
+      },
+      "tags": [
+        "Hardware"
+      ],
+      "hot_score": 2.42
+    },
+    {
+      "title_en": "The Cognitive Dark Forest",
+      "url": "https://ryelang.org/blog/posts/cognitive-dark-forest/",
+      "title_zh": "认知黑暗森林",
+      "created_display": "Created: Mar 29, 2026 / 12:36 PT",
+      "image_url": "https://c.statcounter.com/12932344/0/6e399927/1/",
+      "summary_en": "A concept exploring how AI agents might strategically conceal capabilities to avoid adverse signaling in a competitive landscape. The idea reframes AI safety as a game of signaling, restraint, and trust, with implications for research collaboration and policy.",
+      "summary_zh": "提出一个将 AI 代理在竞争环境中隐藏能力以避免被对手发现的设想。该“认知黑暗森林”观念将 AI 安全转化为信号与克制的博弈，对研究协作与治理具有潜在影响。",
+      "hn": {
+        "id": 47566442,
+        "type": "story",
+        "by": "kaycebasques",
+        "score": 487,
+        "descendants": 220,
+        "time": 1774812981,
+        "comments_url": "https://news.ycombinator.com/item?id=47566442"
+      },
+      "tags": [
+        "AI",
+        "Science"
+      ],
+      "hot_score": 2.18
+    },
+    {
+      "title_en": "Voyager 1 runs on 69 KB of memory and an 8-track tape recorder",
+      "url": "https://techfixated.com/a-1977-time-capsule-voyager-1-runs-on-69-kb-of-memory-and-an-8-track-tape-recorder-4/",
+      "title_zh": "旅行者1号仅靠69KB内存与8轨磁带记录器运行",
+      "created_display": "Created: Mar 29, 2026 / 09:12 PT",
+      "image_url": null,
+      "summary_en": "Voyager 1 still operates with a mere 69 KB of RAM and an 8-track tape recorder, a testament to long-lived space hardware engineered decades ago. The story highlights how a mission can outlive the obsolete kit that built it, delivering data from the outer solar system long after its era of design. It underscores the engineering trade-offs and resilience required for deep-space exploration.",
+      "summary_zh": "旅行者1号仍以仅有的69 KB RAM和8轨磁带记录器运行，展示了数十年前设计的硬件的持久耐用。这个故事凸显了任务往往超越其设计时的技术极限，能够持续传回外太阳系的数据，凸显深空探测的工程权衡与韧性。此事也让人反思长期任务对老旧组件的依赖与替换挑战。",
+      "hn": {
+        "id": 47564421,
+        "type": "story",
+        "by": "speckx",
+        "score": 595,
+        "descendants": 223,
+        "time": 1774800742,
+        "comments_url": "https://news.ycombinator.com/item?id=47564421"
+      },
+      "tags": [
+        "Space",
+        "Hardware",
+        "Energy"
+      ],
+      "hot_score": 2.02
+    },
+    {
+      "title_en": "Say No to Palantir in Europe",
+      "url": "https://action.wemove.eu/sign/2026-03-palantir-petition-EN",
+      "title_zh": "Say No to Palantir 在欧洲",
+      "created_display": "Created: Mar 29, 2026 / 07:51 PT",
+      "image_url": "https://wemove.cdn.actionkit.com/images/Palantir_petition_image.png",
+      "summary_en": "A European grassroots petition urges policymakers to curb Palantir's analytics footprint amid privacy and surveillance concerns. The campaign highlights growing friction between AI/data brokers and European data protection norms, potentially shaping procurement and vendor choices across the public and private sectors.",
+      "summary_zh": "在欧洲兴起的民间请愿呼吁监管机构控制 Palantir 的数据分析影响，强调隐私与监控方面的担忧。该运动凸显数据经纪商与欧洲数据保护规范之间的博弈，或影响公共与私营部门的采购与供应商选择。",
+      "hn": {
+        "id": 47563655,
+        "type": "story",
+        "by": "Betelbuddy",
+        "score": 566,
+        "descendants": 158,
+        "time": 1774795880,
+        "comments_url": "https://news.ycombinator.com/item?id=47563655"
+      },
+      "hot_score": 1.73,
+      "tags": [
+        "Privacy",
+        "Politics",
+        "AI",
+        "Data"
+      ]
+    },
+    {
+      "title_en": "LinkedIn uses 2.4 GB RAM across two tabs",
+      "url": "https://news.ycombinator.com/item?id=47561489",
+      "title_zh": "LinkedIn 在两个标签页中耗用 2.4 GB RAM",
+      "created_display": "Created: Mar 29, 2026 / 01:58 PT",
+      "image_url": null,
+      "summary_en": "LinkedIn's web app can consume roughly 2.4 GB of RAM even with only two tabs open, illustrating how heavy modern browsers can get with feature-rich sites. This raises questions about memory efficiency, tab isolation, and how to design enterprise-focused UIs that stay responsive on modest hardware.",
+      "summary_zh": "LinkedIn 的网页应用在仅打开两个标签页的情况下就大约占用 2.4 GB 内存，映射出现代浏览器对高功能网站的内存需求。此现象引发对内存效率、标签页隔离与在中等硬件上保持响应性的设计考量。",
+      "hn": {
+        "id": 47561489,
+        "type": "story",
+        "by": "hrncode",
+        "score": 737,
+        "descendants": 421,
+        "time": 1774774704,
+        "comments_url": "https://news.ycombinator.com/item?id=47561489"
+      },
+      "hot_score": 1.54,
+      "tags": [
+        "Web",
+        "Hardware"
+      ]
+    },
+    {
+      "title_en": "Claude Code runs Git reset –hard origin/main against project repo every 10 mins",
+      "url": "https://github.com/anthropics/claude-code/issues/40710",
+      "title_zh": "Claude Code 每十分钟对项目仓库执行 git reset --hard origin/main",
+      "created_display": "Created: Mar 29, 2026 / 15:15 PT",
+      "image_url": "https://opengraph.githubassets.com/50ae7198743ea73264d011e23b5bee1b222a606a20f5cd34fe132f70279badda/anthropics/claude-code/issues/40710",
+      "summary_en": "Claude Code appears to run git reset --hard origin/main on a project every 10 minutes, wiping local changes and history. This illustrates the risks of high-frequency automation in code workflows and underscores the need for safeguards, review gates, and strict version-control discipline. The episode serves as a cautionary tale for AI-assisted coding tools.",
+      "summary_zh": "Claude Code 每 10 分钟就对一个项目执行 git reset --hard origin/main，导致本地改动与历史被清空。这揭示了高频自动化在代码工作流中的风险，强调需要设定保护措施、审查机制和严格的版本控制纪律。此事为 AI 辅助编码工具敲响警钟。",
+      "hn": {
+        "id": 47567969,
+        "type": "story",
+        "by": "mthwsjc_",
+        "score": 250,
+        "descendants": 184,
+        "time": 1774822506,
+        "comments_url": "https://news.ycombinator.com/item?id=47567969"
+      },
+      "tags": [
+        "Programming",
+        "AI"
+      ],
+      "hot_score": 1.44
+    },
+    {
+      "title_en": "Neovim 0.12.0",
+      "url": "https://github.com/neovim/neovim/releases/tag/v0.12.0",
+      "title_zh": "Neovim 0.12.0",
+      "created_display": "Created: Mar 29, 2026 / 10:39 PT",
+      "image_url": "https://opengraph.githubassets.com/8bd14e89266d33fb6d26fbbb78b3e5c713c369cef3c2040bd3c761895220fa44/neovim/neovim/releases/tag/v0.12.0",
+      "summary_en": "Neovim 0.12.0 marks a significant release with enhanced performance and user experience, continuing the Lua-driven configuration and richer plugin ecosystem. The update improves integration with modern tooling while keeping familiar editor behavior intact. Developers benefit from smoother workflows and extensibility.",
+      "summary_zh": "Neovim 0.12.0 作为一次重要版本更新，提升了性能和用户体验，延续 Lua 驱动的配置与更丰富的插件生态。改动改善与现代工具链的集成，同时保持编辑器的核心行为，提升开发者的工作流与扩展能力。",
+      "hn": {
+        "id": 47565316,
+        "type": "story",
+        "by": "pawelgrzybek",
+        "score": 371,
+        "descendants": 224,
+        "time": 1774805995,
+        "comments_url": "https://news.ycombinator.com/item?id=47565316"
+      },
+      "tags": [
+        "Programming"
+      ],
+      "hot_score": 1.41
+    },
+    {
+      "title_en": "Founder of GitLab battles cancer by founding companies",
+      "url": "https://sytse.com/cancer/",
+      "title_zh": "GitLab 创始人通过创办新公司对抗癌症",
+      "created_display": "Created: Mar 28, 2026 / 10:39 PT",
+      "image_url": "https://sytse.com/wp-content/uploads/2026/01/Screenshot-2026-01-15-at-12.59.23-PM-967x1024.png",
+      "summary_en": "GitLab's cofounder is battling cancer and continues pushing forward by launching new companies. This shows entrepreneurship can be a coping mechanism and a way to channel energy during treatment. The story highlights resilience at the intersection of health and leadership.",
+      "summary_zh": "GitLab 联合创始人正在与癌症作斗争，但仍通过创办新公司继续前进。这一做法凸显创业在治疗期间用以应对压力的作用，以及在健康挑战中保持生产力的能力。",
+      "hn": {
+        "id": 47556729,
+        "type": "story",
+        "by": "bob_theslob646",
+        "score": 1365,
+        "descendants": 247,
+        "time": 1774719589,
+        "comments_url": "https://news.ycombinator.com/item?id=47556729"
+      },
+      "tags": [
+        "Health",
+        "Startups",
+        "Energy"
+      ],
+      "hot_score": 1.38
+    },
+    {
+      "title_en": "Coding agents could make free software matter again",
+      "url": "https://www.gjlondon.com/blog/ai-agents-could-make-free-software-matter-again/",
+      "title_zh": "编码代理可能让自由软件再次有意义",
+      "created_display": "Created: Mar 29, 2026 / 15:21 PT",
+      "image_url": "https://www.gjlondon.com/wp-content/uploads/2026/03/absolute_buffoon_meme-7.jpg",
+      "summary_en": "AI coding agents could lower barriers to contributions in free software, automating routine tasks and enabling more people to participate. The piece argues agents might revitalize community-driven software by accelerating collaboration and maintenance.",
+      "summary_zh": "人工智能编码代理有望降低贡献自由软件的门槛，自动化常规任务，让更多人参与其中。文章认为代理能通过加速协作与维护来重振以社区为驱动的软件生态。",
+      "hn": {
+        "id": 47568028,
+        "type": "story",
+        "by": "rogueleaderr",
+        "score": 224,
+        "descendants": 215,
+        "time": 1774822894,
+        "comments_url": "https://news.ycombinator.com/item?id=47568028"
+      },
+      "tags": [
+        "AI",
+        "Open Source"
+      ],
+      "hot_score": 1.31
+    },
+    {
+      "title_en": "Police used AI facial recognition to wrongly arrest TN woman for crimes in ND",
+      "url": "https://www.cnn.com/2026/03/29/us/angela-lipps-ai-facial-recognition",
+      "title_zh": "警方利用 AI 面部识别错误逮捕田纳西州女性，指控在北达科他州的罪行",
+      "created_display": "Created: Mar 29, 2026 / 07:20 PT",
+      "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/still-22468012-112439-still.jpg?c=16x9&q=w_800,c_fill",
+      "summary_en": "A Tennessee woman was wrongly arrested due to AI facial recognition matching crimes in North Dakota. The incident highlights ongoing reliability, bias, and privacy concerns around deploying facial recognition in law enforcement. It underscores the need for accountability and guardrails in algorithmic policing.",
+      "summary_zh": "一名田纳西州女性因 AI 面部识别错误而被错误逮捕，罪名指控针对在北达科他州的犯罪。此事件凸显了在人群识别执法中的可靠性、偏见和隐私问题，并强调在算法执法中需要问责与安全边界。",
+      "hn": {
+        "id": 47563384,
+        "type": "story",
+        "by": "ourmandave",
+        "score": 412,
+        "descendants": 178,
+        "time": 1774794023,
+        "comments_url": "https://news.ycombinator.com/item?id=47563384"
+      },
+      "tags": [
+        "AI",
+        "Privacy",
+        "Legal"
+      ],
+      "hot_score": 1.22
+    },
+    {
+      "title_en": "Nitrile and latex gloves may cause overestimation of microplastics",
+      "url": "https://news.umich.edu/nitrile-and-latex-gloves-may-cause-overestimation-of-microplastics-u-m-study-reveals/",
+      "title_zh": "丁腈和乳胶手套可能导致微塑料计数高估",
+      "created_display": "Created: Mar 29, 2026 / 02:46 PT",
+      "image_url": null,
+      "summary_en": "A study finds nitrile and latex gloves may contaminate samples and inflate microplastic counts in environmental testing. The result underscores the importance of stringent methodology and contamination controls in environmental research and lab workflows.",
+      "summary_zh": "研究发现丁腈和乳胶手套可能污染样本，导致微塑料计数偏高。结果强调在环境研究和实验室操作中需要严格的方法学与污染控制。",
+      "hn": {
+        "id": 47561711,
+        "type": "story",
+        "by": "giuliomagnifico",
+        "score": 553,
+        "descendants": 246,
+        "time": 1774777618,
+        "comments_url": "https://news.ycombinator.com/item?id=47561711"
+      },
+      "tags": [
+        "Science"
+      ],
+      "hot_score": 1.21
+    },
+    {
+      "title_en": "My MacBook keyboard is broken and it's insanely expensive to fix",
+      "url": "https://tobiasberg.net/posts/my-macbook-keyboard-is-broken-and-its-insanely-expensive-to-fix/",
+      "title_zh": "我的 MacBook 键盘坏了，修理竟然如此昂贵",
+      "created_display": "Created: Mar 29, 2026 / 12:08 PT",
+      "image_url": null,
+      "summary_en": "A personal lament on the high cost of MacBook keyboard repairs, reflecting broader concerns about repairability, hardware longevity, and consumer rights.",
+      "summary_zh": "作者记录了 MacBook 键盘故障的高昂维修成本，折射出对可修复性、硬件耐用性与消费者权益的担忧。",
+      "hn": {
+        "id": 47566143,
+        "type": "story",
+        "by": "TobiasBerg",
+        "score": 275,
+        "descendants": 317,
+        "time": 1774811300,
+        "comments_url": "https://news.ycombinator.com/item?id=47566143"
+      },
+      "tags": [
+        "Hardware"
+      ],
+      "hot_score": 1.18
+    },
+    {
+      "title_en": "C++26 is done: ISO C++ standards meeting Trip Report",
+      "url": "https://herbsutter.com/2026/03/29/c26-is-done-trip-report-march-2026-iso-c-standards-meeting-london-croydon-uk/",
+      "title_zh": "C++26 已完成：ISO C++ 标准会议报道",
+      "created_display": "Created: Mar 29, 2026 / 10:46 PT",
+      "image_url": "https://herbsutter.com/wp-content/uploads/2026/03/wg21-2026-std.png",
+      "summary_en": "Reports the decisions from the March 2026 ISO C++ standards meeting that finalize C++26, outlining notable feature choices and their impact on compilers and libraries. The post helps developers anticipate changes in language and toolchains.",
+      "summary_zh": "报道 2026 年 3 月 ISO C++ 标准会议的决议，完成 C++26 的定稿，概述关键特性选择及对编译器与库作者的影响。为开发者把握语言与工具链的变化提供前瞻。",
+      "hn": {
+        "id": 47565365,
+        "type": "story",
+        "by": "pjmlp",
+        "score": 266,
+        "descendants": 268,
+        "time": 1774806372,
+        "comments_url": "https://news.ycombinator.com/item?id=47565365"
+      },
+      "tags": [
+        "Programming"
+      ],
+      "hot_score": 1.02
+    },
+    {
+      "title_en": "Full network of clitoral nerves mapped out for first time",
+      "url": "https://www.theguardian.com/society/2026/mar/29/full-network-clitoral-nerves-mapped-out-first-time-women-pelvic-surgery",
+      "title_zh": "首次绘制完整阴蒂神经网络",
+      "created_display": "Created: Mar 29, 2026 / 08:54 PT",
+      "image_url": "https://i.guim.co.uk/img/media/1ad221c2399d069c78f3c209146764f18ffd967e/967_340_3132_2506/master/3132.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=214114d7b1d5a5479ea3966b2155cf14",
+      "summary_en": "Researchers map the full network of clitoral nerves for the first time, with implications for pelvic surgery and women's health. The atlas promises improved surgical precision and a deeper understanding of sexual function.",
+      "summary_zh": "首次绘制出阴蒂神经的完整网络，为盆腔手术和女性健康带来重要影响。这一神经解剖图有望提升手术精准度，并深化对性功能的理解。",
+      "hn": {
+        "id": 47564245,
+        "type": "story",
+        "by": "onei",
+        "score": 289,
+        "descendants": 126,
+        "time": 1774799665,
+        "comments_url": "https://news.ycombinator.com/item?id=47564245"
+      },
+      "tags": [
+        "Health"
+      ],
+      "hot_score": 0.96
+    },
+    {
+      "title_en": "The bot situation on the internet is worse than you could imagine",
+      "url": "https://gladeart.com/blog/the-bot-situation-on-the-internet-is-actually-worse-than-you-could-imagine-heres-why",
+      "title_zh": "你想象不到的互联网机器人问题之严重",
+      "created_display": "Created: Mar 29, 2026 / 09:17 PT",
+      "image_url": "https://gladeart.com/uploads/blog_thumbnails/20260328000816_81c72c3763da4f89_673835fc1dd2.png",
+      "summary_en": "The blog argues bot prevalence is higher than publicly acknowledged, affecting social platforms, content authenticity, SEO, and data quality. It explains how bots scale, use anti-detection evasion, and the consequences for developers and researchers relying on clean signals, with pointers to mitigations.",
+      "summary_zh": "博客指出网络中的机器人数量远高于公开披露，影响社交平台内容真实性、搜索排名与数据质量。文中说明机器人如何规模化、绕过检测，以及对依赖干净信号的开发者与研究者的影响，并给出缓解建议。",
+      "hn": {
+        "id": 47564469,
+        "type": "story",
+        "by": "ohjeez",
+        "score": 226,
+        "descendants": 161,
+        "time": 1774801050,
+        "comments_url": "https://news.ycombinator.com/item?id=47564469"
+      },
+      "hot_score": 0.77,
+      "tags": [
+        "AI",
+        "Data"
+      ]
+    },
+    {
+      "title_en": "Miasma: A tool to trap AI web scrapers in an endless poison pit",
+      "url": "https://github.com/austin-weeks/miasma",
+      "title_zh": "Miasma：一款用来把 AI 网页爬虫困在无尽的“毒坑”中的工具",
+      "created_display": "Created: Mar 29, 2026 / 03:10 PT",
+      "image_url": "https://opengraph.githubassets.com/673f3bd3bfbab553942a9030e2e64b97d905a552f1076ba15f8beb2f0ebd05b2/austin-weeks/miasma",
+      "summary_en": "Miasma is a defensive tool that traps AI web scrapers by injecting decoy data and routing tricks to exhaust their resources. It aims to deter large-scale crawlers while exposing weaknesses in current anti-scraping strategies. The approach sparks discussion about the ethics and arms race between site operators and crawlers.",
+      "summary_zh": "Miasma 提供一种防御性手段，通过注入诱饵数据和路由技巧让 AI 爬虫耗费资源以达到阻止抓取的目的。它旨在抑制大规模爬虫的行为，同时暴露现有反爬策略的薄弱点，引发关于网络防御伦理与爬虫对抗的讨论。",
+      "hn": {
+        "id": 47561819,
+        "type": "story",
+        "by": "LucidLynx",
+        "score": 325,
+        "descendants": 233,
+        "time": 1774779012,
+        "comments_url": "https://news.ycombinator.com/item?id=47561819"
+      },
+      "tags": [
+        "Security",
+        "AI"
+      ],
+      "hot_score": 0.73
+    },
+    {
+      "title_en": "AI overly affirms users asking for personal advice",
+      "url": "https://news.stanford.edu/stories/2026/03/ai-advice-sycophantic-models-research",
+      "title_zh": "AI 对寻求个人建议的用户过度拍马奉承",
+      "created_display": "Created: Mar 28, 2026 / 07:08 PT",
+      "image_url": null,
+      "summary_en": "Researchers show that AI models trained to please users tend to provide flattering, agreeable personal advice, even when it's not optimal. This sycophantic behavior can mislead users and undermine critical judgment, underscoring challenges in aligning AI with reliable guidance.",
+      "summary_zh": "研究发现，为讨好用户而优化的对话模型在给出个人建议时往往过度拍马奉承，即便不最优也会认可用户观点。这种拍马奉承行为可能误导用户、削弱批判性判断，凸显让 AI 输出可靠建议的对齐难题。",
+      "hn": {
+        "id": 47554773,
+        "type": "story",
+        "by": "oldfrenchfries",
+        "score": 777,
+        "descendants": 607,
+        "time": 1774706913,
+        "comments_url": "https://news.ycombinator.com/item?id=47554773"
+      },
+      "tags": [
+        "AI"
+      ],
+      "hot_score": 0.69
+    },
+    {
+      "title_en": "The road signs that teach travellers about France",
+      "url": "https://www.bbc.com/travel/article/20260327-the-road-signs-that-teach-travellers-about-france",
+      "title_zh": "教旅客了解法国的路牌",
+      "created_display": "Created: Mar 29, 2026 / 13:30 PT",
+      "image_url": "https://ychef.files.bbci.co.uk/624x351/p0n961kw.jpg",
+      "summary_en": "It highlights design choices that blend practicality with storytelling on the road.",
+      "summary_zh": "文章展示法国路牌如何向旅客传递文化线索与语言暗示，将导航工具变成文化导读。强调设计在实用性与叙事性之间的取舍与巧妙平衡。",
+      "hn": {
+        "id": 47566960,
+        "type": "story",
+        "by": "1659447091",
+        "score": 138,
+        "descendants": 59,
+        "time": 1774816202,
+        "comments_url": "https://news.ycombinator.com/item?id=47566960"
+      },
+      "tags": [
+        "Design"
+      ],
+      "hot_score": 0.67
+    },
+    {
+      "title_en": "I decompiled the White House's new app",
+      "url": "https://thereallo.dev/blog/decompiling-the-white-house-app",
+      "title_zh": "我对白宫新应用进行了反编译",
+      "created_display": "Created: Mar 28, 2026 / 08:37 PT",
+      "image_url": null,
+      "summary_en": "A decompilation write-up analyzes the White House's new app, revealing insights into its security posture and data flows. The findings point to hardening opportunities and complexities in government software ecosystems.",
+      "summary_zh": "对白宫新应用的反编译分析揭示了其安全姿态与数据流的细节，指出了加强政府软件安全性的机会与挑战。",
+      "hn": {
+        "id": 47555556,
+        "type": "story",
+        "by": "amarcheschi",
+        "score": 641,
+        "descendants": 233,
+        "time": 1774712237,
+        "comments_url": "https://news.ycombinator.com/item?id=47555556"
+      },
+      "tags": [
+        "Security",
+        "Politics"
+      ],
+      "hot_score": 0.6
+    },
+    {
+      "title_en": "The \"Vibe Coding\" Wall of Shame",
+      "url": "https://crackr.dev/vibe-coding-failures",
+      "title_zh": "\"Vibe Coding\" 失败记录墙",
+      "created_display": "Created: Mar 29, 2026 / 12:42 PT",
+      "image_url": "https://crackr.dev/images/blog/vibe-coding.png",
+      "summary_en": "A catalog of poor UI/UX experiments dubbed 'Vibe Coding' that failed to deliver usable developer experiences. The collection underscores the danger of prioritizing style over clarity and how such patterns harm productivity, with lessons for design and engineering culture.",
+      "summary_zh": "整理收集了被称作“Vibe Coding”的若干失败的 UI/UX 实验，未能提供可用的开发者体验。此合集强调了重视风格而非清晰度的风险，以及此类模式对生产力的负面影响，并给出对设计与工程文化的教训。",
+      "hn": {
+        "id": 47566491,
+        "type": "story",
+        "by": "wa5ina",
+        "score": 127,
+        "descendants": 78,
+        "time": 1774813346,
+        "comments_url": "https://news.ycombinator.com/item?id=47566491"
+      },
+      "hot_score": 0.57,
+      "tags": [
+        "Design",
+        "Culture"
+      ]
+    },
+    {
+      "title_en": "CSS is DOOMed",
+      "url": "https://nielsleenheer.com/articles/2026/css-is-doomed-rendering-doom-in-3d-with-css/",
+      "title_zh": "CSS 注定走向末日",
+      "created_display": "Created: Mar 28, 2026 / 13:39 PT",
+      "image_url": "https://nielsleenheer.com/wp-content/uploads/2026/03/css-doomed.png",
+      "summary_en": "CSS-based 3D rendering is hitting fundamental limits in performance and reliability. As visual demands grow, CSS alone won’t suffice, pushing developers toward GPU-accelerated approaches like WebGL or Canvas for real 3D effects.",
+      "summary_zh": "CSS 在实现真实 3D 与复杂视觉效果时面临性能与可靠性的根本上限。随着渲染需求提升，单靠 CSS 已难以胜任，开发者应转向 GPU 加速的 WebGL 或 Canvas 等方案来实现真实的 3D 效果。",
+      "hn": {
+        "id": 47557960,
+        "type": "story",
+        "by": "msephton",
+        "score": 488,
+        "descendants": 109,
+        "time": 1774730341,
+        "comments_url": "https://news.ycombinator.com/item?id=47557960"
+      },
+      "tags": [
+        "Web",
+        "Hardware"
+      ],
+      "hot_score": 0.56
+    },
+    {
+      "title_en": "Midnight train from GA: A view of America from the tracks as airports struggle",
+      "url": "https://apnews.com/article/airports-shutdown-long-lines-train-travel-amtrak-e4d8ea591b3b036142c2bf2dee7dff5a",
+      "title_zh": "从 GA 的深夜列车看美国：在机场陷入困境时的铁路视角",
+      "created_display": "Created: Mar 29, 2026 / 13:00 PT",
+      "image_url": "https://pslca.web.aol.com/fotosrch/2/aeb496a9d767468cbb4d748f0e178233.jpg",
+      "summary_en": "As airports struggle with delays, rail travel offers a different lens on U.S. mobility from Georgia. The piece contrasts air infrastructure fragility with a slower, people-centered rail narrative.",
+      "summary_zh": "在机场延误普遍时，佐治亚州的深夜铁路提供了美国出行 otra 的不同视角。文中对比了航空系统的脆弱性与铁路的缓慢、以人为本的出行叙事。",
+      "hn": {
+        "id": 47566653,
+        "type": "story",
+        "by": "walterbell",
+        "score": 122,
+        "descendants": 103,
+        "time": 1774814402,
+        "comments_url": "https://news.ycombinator.com/item?id=47566653"
+      },
+      "tags": [
+        "Business",
+        "DevOps"
+      ],
+      "hot_score": 0.56
+    },
+    {
+      "title_en": "There is no spoon – A software engineers primer for demystified ML",
+      "url": "https://github.com/dreddnafious/thereisnospoon",
+      "title_zh": "\"There is no spoon\"——软件工程师的去神秘化 ML 入门",
+      "created_display": "Created: Mar 29, 2026 / 15:28 PT",
+      "image_url": "https://opengraph.githubassets.com/db1ae95cdb93bdd3953431afe2c5a4c51f5d00b217f680acb757d730ea220439/dreddnafious/thereisnospoon",
+      "summary_en": "A software engineer-focused primer demystifies ML concepts, separating hype from fundamentals and providing practical mental models for integrating ML into software projects. It emphasizes intuition-driven debugging, data-centric thinking, and the distinction between model performance and product outcomes.",
+      "summary_zh": "\"There is no spoon\"——软件工程师的去神秘化 ML 入门，澄清 ML 的核心概念，并提供将 ML 融入软件项目的实用思维模型。强调以数据为核心的思考、直觉式调试，以及模型性能与产品结果之间的区别。",
+      "hn": {
+        "id": 47568080,
+        "type": "story",
+        "by": "jmatthews",
+        "score": 91,
+        "descendants": 26,
+        "time": 1774823291,
+        "comments_url": "https://news.ycombinator.com/item?id=47568080"
+      },
+      "hot_score": 0.53,
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "title_en": "South Korea Mandates Solar Panels for Public Parking Lots",
+      "url": "https://www.reutersconnect.com/item/south-korea-mandates-solar-panels-for-public-parking-lots/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMU5VUlBITzAwMFZKRjFZQQ",
+      "title_zh": "韩国强制公共停车场安装太阳能板",
+      "created_display": "Created: Mar 28, 2026 / 16:29 PT",
+      "image_url": null,
+      "summary_en": "South Korea is mandating solar canopies over public parking lots as part of a broader clean energy push, potentially adding significant solar capacity and reducing urban heat island effects. The policy will require coordination with grid operators and may influence parking infrastructure and public budgeting.",
+      "summary_zh": "韩国将公共停车场覆盖太阳能板作为清洁能源计划的一部分，预计新增大量光伏容量并降低城市热岛效应。 这一政策需要与电网运营方协同，或影响停车场基础设施与公共预算。",
+      "hn": {
+        "id": 47558997,
+        "type": "story",
+        "by": "_____k",
+        "score": 383,
+        "descendants": 219,
+        "time": 1774740544,
+        "comments_url": "https://news.ycombinator.com/item?id=47558997"
+      },
+      "tags": [
+        "Energy",
+        "DevOps"
+      ],
+      "hot_score": 0.49
+    },
+    {
+      "title_en": "Netscape News Feed Straight Out of the Late 00s",
+      "url": "https://isp.netscape.com/",
+      "title_zh": "网景新闻提要：直接回到千禧年末风格",
+      "created_display": "Created: Mar 29, 2026 / 10:34 PT",
+      "image_url": "https://pslca.web.aol.com/cppops/11/20110511_00001/i/NS_header.jpg",
+      "summary_en": "Netscape News Feed recreates a retro 2000s experience with a basic, text-first feed and minimal personalization, highlighting how some legacy concepts still persist in the age of AI-powered feeds. It serves as a reminder that user expectations evolve quickly, and design debt from early web era lingers.",
+      "summary_zh": "网景新闻提要以极简文本优先的风格回归千禧年末的体验，强调在 AI 驱动的信息流时代，仍有一些遗留设计理念存在。此现象提醒我们用户期待在快速变化，而早期网页设计债务仍然隐现。",
+      "hn": {
+        "id": 47565264,
+        "type": "story",
+        "by": "mistyvales",
+        "score": 117,
+        "descendants": 26,
+        "time": 1774805660,
+        "comments_url": "https://news.ycombinator.com/item?id=47565264"
+      },
+      "hot_score": 0.44,
+      "tags": [
+        "Web",
+        "AI"
+      ]
+    },
+    {
+      "title_en": "What if AI doesn't need more RAM but better math?",
+      "url": "https://adlrocha.substack.com/p/adlrocha-what-if-ai-doesnt-need-more",
+      "title_zh": "如果 AI 不靠更多 RAM，而靠更好的数学",
+      "created_display": "Created: Mar 29, 2026 / 01:18 PT",
+      "image_url": null,
+      "summary_en": "The piece argues that bottlenecks in AI scaling may hinge on algorithmic efficiency and mathematical foundations rather than hardware upgrades. It suggests revisiting optimization techniques, training stability, and theoretical limits to push progress more sustainably.",
+      "summary_zh": "文章认为 AI 规模增长的瓶颈可能在于算法效率与数学基础，而非硬件升级。应重新审视优化技术、训练稳定性与理论边界，以更可持续的方式推动进展。",
+      "hn": {
+        "id": 47561297,
+        "type": "story",
+        "by": "adlrocha",
+        "score": 177,
+        "descendants": 93,
+        "time": 1774772335,
+        "comments_url": "https://news.ycombinator.com/item?id=47561297"
+      },
+      "hot_score": 0.36,
+      "tags": [
+        "AI",
+        "Hardware"
+      ]
+    },
+    {
+      "title_en": "Pretext: TypeScript library for multiline text measurement and layout",
+      "url": "https://github.com/chenglou/pretext",
+      "title_zh": "Pretext：用于多行文本测量与布局的 TypeScript 库",
+      "created_display": "Created: Mar 28, 2026 / 09:52 PT",
+      "image_url": "https://opengraph.githubassets.com/f32eae9379f09a905390e5b71bf8e5965b06cf940b1332ff135fcf0f546f4f43/chenglou/pretext",
+      "summary_en": "Pretext provides a TypeScript library for accurate multiline text measurement and layout. It helps developers render dynamic text with predictable wrapping and height, reducing layout bugs across fonts and sizes. This can be especially valuable for canvas or SVG-based UI work.",
+      "summary_zh": "Pretext 提供一个用于多行文本测量与布局的 TypeScript 库，帮助在不同字体与字号下实现可预期的换行与高度。对于需要精确文本渲染的场景（如画布或 SVG UI）特别有用，减少布局错误。",
+      "hn": {
+        "id": 47556290,
+        "type": "story",
+        "by": "emersonmacro",
+        "score": 336,
+        "descendants": 61,
+        "time": 1774716765,
+        "comments_url": "https://news.ycombinator.com/item?id=47556290"
+      },
+      "tags": [
+        "Programming",
+        "Open Source"
+      ],
+      "hot_score": 0.33
+    },
+    {
+      "title_en": "TSA lines are so out of control that travelers are hiring line-sitters",
+      "url": "https://www.washingtonpost.com/travel/2026/03/28/tsa-line-sitters/",
+      "title_zh": "安检排队失控：旅客雇人排队守点",
+      "created_display": "Created: Mar 29, 2026 / 06:32 PT",
+      "image_url": null,
+      "summary_en": "Long TSA lines are pushing travelers to hire line-sitters or paid services to hold their place, illustrating inefficiencies at security checkpoints. The trend highlights the impact on traveler experience and could spur automation, staffing improvements, or alternative screening approaches.",
+      "summary_zh": "安检排队时间过长促使旅客雇佣线位守卫等付费服务来占位，显示安检流程的低效率。此趋势凸显对旅客体验的影响，或推动自动化、人员配置提升或替代安检方法的讨论。",
+      "hn": {
+        "id": 47563007,
+        "type": "story",
+        "by": "bookofjoe",
+        "score": 111,
+        "descendants": 134,
+        "time": 1774791145,
+        "comments_url": "https://news.ycombinator.com/item?id=47563007"
+      },
+      "hot_score": 0.31,
+      "tags": [
+        "Security"
+      ]
+    },
+    {
+      "title_en": "AyaFlow: A high-performance, eBPF-based network traffic analyzer written in Rust",
+      "url": "https://github.com/DavidHavoc/ayaFlow",
+      "title_zh": "AyaFlow：用 Rust 编写的高性能基于 eBPF 的网络流量分析器",
+      "created_display": "Created: Mar 29, 2026 / 08:28 PT",
+      "image_url": "https://opengraph.githubassets.com/09f5039534343d1ddc23999b6ca6ab44beb5c80154cae5953aae58b6ec45c3d0/DavidHavoc/ayaFlow",
+      "summary_en": "AyaFlow is a high-performance, Rust-based network traffic analyzer built on eBPF, enabling fast, safe, kernel-level visibility. It emphasizes memory safety and throughput for large-scale observability tasks. The project showcases Rust’s role in safe, efficient infrastructure tooling.",
+      "summary_zh": "AyaFlow 是一个用 Rust 编写、基于 eBPF 的高性能网络流量分析器，提供快速且安全的内核级可观测性。该工具强调内存安全与高吞吐，适合大规模观测任务，体现了 Rust 在基础设施工具中的应用潜力。",
+      "hn": {
+        "id": 47563978,
+        "type": "story",
+        "by": "tanelpoder",
+        "score": 97,
+        "descendants": 6,
+        "time": 1774798107,
+        "comments_url": "https://news.ycombinator.com/item?id=47563978"
+      },
+      "tags": [
+        "Programming",
+        "DevOps"
+      ],
+      "hot_score": 0.31
+    },
+    {
+      "title_en": "The rise and fall of IBM's 4 Pi aerospace computers: an illustrated history",
+      "url": "https://www.righto.com/2026/03/ibm-4-pi-computer-history.html",
+      "title_zh": "IBM 的 4 Pi 航空航天计算机的兴衰：图解历史",
+      "created_display": "Created: Mar 29, 2026 / 09:26 PT",
+      "image_url": "https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_vjATPu0F52HdMtjZlbDwbcbptPJOtdYAto9cFV3hLzT5OaAqNKNvf8rGphQGIo-TK3USo5m-eblkGhJAZpMFH4JK9CKhUZPBzvTpWKSVixCcIog-5W0YMcWRdYJcNz=w1200-h630-p-k-no-nu",
+      "summary_en": "An illustrated history tracing IBM’s 4 Pi aerospace computers, charting their rise, use in aviation systems, and eventual decline. It offers a nostalgic yet informative tech lineage.",
+      "summary_zh": "通过图解历史追溯 IBM 的 4 Pi 航空航天计算机，描绘其兴起、在航空系统中的应用以及最终衰落。文章揭示早期航天计算如何影响嵌入式、实时系统的工作流与后续硬件设计决策，提供既怀旧又具教育意义的技术脉络。",
+      "hn": {
+        "id": 47564579,
+        "type": "story",
+        "by": "zdw",
+        "score": 91,
+        "descendants": 24,
+        "time": 1774801615,
+        "comments_url": "https://news.ycombinator.com/item?id=47564579"
+      },
+      "tags": [
+        "Science"
+      ],
+      "hot_score": 0.31
+    },
+    {
+      "title_en": "Alzheimer's disease mortality among taxi and ambulance drivers (2024)",
+      "url": "https://www.bmj.com/content/387/bmj-2024-082194",
+      "title_zh": "出租车与救护车司机的阿尔茨海默病死亡率（2024）",
+      "created_display": "Created: Mar 28, 2026 / 17:53 PT",
+      "image_url": "https://www.bmj.com/sites/default/files/highwire/bmj/392/8484.cover-source.jpg",
+      "summary_en": "A 2024 BMJ study examines mortality from Alzheimer's disease among taxi and ambulance drivers. It highlights possible occupational risk factors, such as long-term exposure to stress, shift work, and sleep disruption, underscoring broader implications for workforce health and aging drivers. It suggests targeted prevention and screening strategies for high-risk professions.",
+      "summary_zh": "2024 年 BMJ 的研究聚焦出租车与救护车司机中阿尔茨海默病的死亡率。研究指向职业因素（如长期高压、轮班制与睡眠干扰）可能与风险增加相关，强调对高风险行业的健康监护与早筛的重要性，并提出针对性的预防策略。",
+      "hn": {
+        "id": 47559481,
+        "type": "story",
+        "by": "bookofjoe",
+        "score": 219,
+        "descendants": 134,
+        "time": 1774745610,
+        "comments_url": "https://news.ycombinator.com/item?id=47559481"
+      },
+      "tags": [
+        "Health"
+      ],
+      "hot_score": 0.3
+    },
+    {
+      "title_en": "Further human + AI + proof assistant work on Knuth's \"Claude Cycles\" problem",
+      "url": "https://twitter.com/BoWang87/status/2037648937453232504",
+      "title_zh": "在 Knuth 的“Claude Cycles”问题上进一步的人机协作与证明助手工作",
+      "created_display": "Created: Mar 28, 2026 / 11:38 PT",
+      "image_url": "https://pbs.twimg.com/media/HEctRDvacAA3vQY.png:large",
+      "summary_en": "Building on prior attempts, this piece documents continued human-AI collaboration with proof systems to tackle Knuth's Claude Cycles problem. It highlights how proof assistants and interactive reasoning are changing how difficult mathematical proofs are approached and validated.",
+      "summary_zh": "继续记录在人机协作的基础上，借助证明助手和交互式推理处理 Knuth 的 Claude Cycles 问题的进展，展示形式化验证在解决高难度数学难题中的作用。",
+      "hn": {
+        "id": 47557166,
+        "type": "story",
+        "by": "mean_mistreater",
+        "score": 255,
+        "descendants": 176,
+        "time": 1774723139,
+        "comments_url": "https://news.ycombinator.com/item?id=47557166"
+      },
+      "tags": [
+        "AI"
+      ],
+      "hot_score": 0.27
+    },
+    {
+      "title_en": "Folk are getting dangerously attached to AI that always tells them they're right",
+      "url": "https://www.theregister.com/2026/03/27/sycophantic_ai_risks/",
+      "title_zh": "人们对总是肯定他们观点的 AI 依赖性越来越强",
+      "created_display": "Created: Mar 28, 2026 / 07:49 PT",
+      "image_url": "https://regmedia.co.uk/2024/02/02/robot_shutterstock.jpg",
+      "summary_en": "People are increasingly relying on AI that always confirms their views, creating a dangerous bias loop. The piece warns that calibrated, skeptical AI and stronger guardrails are needed to prevent echo chambers and misinformation from taking root.",
+      "summary_zh": "越来越多的人依赖那种总是肯定他们观点的 AI，形成危险的偏见回路。文章警告若缺乏校准与防护，将使回音室效应和错误信息蔓延，需建立更强的边界与审查机制。",
+      "hn": {
+        "id": 47555090,
+        "type": "story",
+        "by": "Brajeshwar",
+        "score": 285,
+        "descendants": 222,
+        "time": 1774709365,
+        "comments_url": "https://news.ycombinator.com/item?id=47555090"
+      },
+      "tags": [
+        "AI"
+      ],
+      "hot_score": 0.26
+    },
+    {
+      "title_en": "Linux is an interpreter",
+      "url": "https://astrid.tech/2026/03/28/0/linux-is-an-interpreter/",
+      "title_zh": "Linux 实质上是一个解释器",
+      "created_display": "Created: Mar 28, 2026 / 09:59 PT",
+      "image_url": "https://s3.us-west-000.backblazeb2.com/nyaabucket/5444b66f2d9fc260b2bbf702c60183298fe390fc094e3f2821942148d526c487/umbreon.png",
+      "summary_en": "A provocative piece argues that Linux acts like an interpreter, translating kernel interactions, system calls, and filesystem semantics at runtime. It reframes OS design as a continuous translation layer, with implications for performance, security, and developer mental models.",
+      "summary_zh": "这篇观点文章认为 Linux 实质上像一个解释器，在运行时对内核交互、系统调用和文件系统语义进行翻译。这种看法重新定义了操作系统的设计，使得性能和安全性以及开发者心智模型产生新的考量。",
+      "hn": {
+        "id": 47556359,
+        "type": "story",
+        "by": "frizlab",
+        "score": 238,
+        "descendants": 57,
+        "time": 1774717174,
+        "comments_url": "https://news.ycombinator.com/item?id=47556359"
+      },
+      "tags": [
+        "Programming",
+        "Security"
+      ],
+      "hot_score": 0.23
+    },
+    {
+      "title_en": "The first 40 months of the AI era",
+      "url": "https://lzon.ca/posts/other/thoughts-ai-era/",
+      "title_zh": "AI 时代的前40个月",
+      "created_display": "Created: Mar 28, 2026 / 11:42 PT",
+      "image_url": "https://lzon.ca/img/og-image.jpg",
+      "summary_en": "A reflective overview of what the first 40 months since AI's breakout have delivered: rapid productization, surging compute for models, and new platform dynamics, alongside safety and governance concerns. The piece argues AI is reshaping competitive strategy and infrastructure choices across tech ecosystems.",
+      "summary_zh": "回顾自 AI 崛起以来的前40个月：产品化速度加快、模型计算需求飙升，以及新兴的平台生态，同时伴随安全与治理的挑战。 AI 正在重塑技术生态中的竞争策略与基础设施选择。",
+      "hn": {
+        "id": 47557185,
+        "type": "story",
+        "by": "jpmitchell",
+        "score": 212,
+        "descendants": 144,
+        "time": 1774723328,
+        "comments_url": "https://news.ycombinator.com/item?id=47557185"
+      },
+      "tags": [
+        "AI",
+        "DevOps"
+      ],
+      "hot_score": 0.22
+    },
+    {
+      "title_en": "Private equity turned vulnerable elderly people into human ATMs",
+      "url": "https://www.theguardian.com/society/2026/mar/28/the-great-care-home-cash-grab-how-private-equity-turned-vulnerable-elderly-people-into-human-atms",
+      "title_zh": "私募股权把脆弱老人变成现金提款机",
+      "created_display": "Created: Mar 28, 2026 / 14:43 PT",
+      "image_url": "https://i.guim.co.uk/img/media/3c136383e6b9556737cfafd7c8884d5161538dc5/0_0_5887_4709/master/5887.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5294bee6efb1c73fe7cb6663c7ed87bc",
+      "summary_en": "Private equity ownership of care homes is laid bare as debt-fueled, profit-driven strategies degrade care and transfer costs to residents and public purse. The piece links financial engineering to deteriorating outcomes for elderly residents and staff, highlighting governance gaps in essential services.",
+      "summary_zh": "私募股权对养老护理机构的收购以债务驱动、以利润为导向的策略削弱护理质量，并将成本转嫁给居民与公共资金。文章将金融工程与老人护理结果恶化联系起来，凸显关键公共服务治理中的漏洞。",
+      "hn": {
+        "id": 47558372,
+        "type": "story",
+        "by": "mordechai9000",
+        "score": 189,
+        "descendants": 134,
+        "time": 1774734180,
+        "comments_url": "https://news.ycombinator.com/item?id=47558372"
+      },
+      "tags": [
+        "Finance",
+        "Business"
+      ],
+      "hot_score": 0.22
+    },
+    {
+      "title_en": "Solar is winning the energy race",
+      "url": "https://www.dw.com/en/solar-is-winning-the-energy-race/a-76517556",
+      "title_zh": "太阳能正在领先能源竞争",
+      "created_display": "Created: Mar 29, 2026 / 01:48 PT",
+      "image_url": "https://static.dw.com/image/76432222_6.jpg",
+      "summary_en": "Solar is rapidly expanding, outcompeting fossil alternatives in cost and deployment, driven by lower module costs and policy support. The piece notes grid integration challenges and storage as the remaining bottlenecks, but overall indicates solar dominance in the energy transition.",
+      "summary_zh": "太阳能成本下降、部署加速正在推动其在能源竞争中占据领先地位。文中提到并网与储能仍是主要瓶颈，但总体趋势表明太阳能在能源转型中将占据主导地位。",
+      "hn": {
+        "id": 47561445,
+        "type": "story",
+        "by": "doener",
+        "score": 104,
+        "descendants": 140,
+        "time": 1774774116,
+        "comments_url": "https://news.ycombinator.com/item?id=47561445"
+      },
+      "hot_score": 0.21,
+      "tags": [
+        "Energy"
+      ]
+    },
+    {
+      "title_en": "OpenCiv1 – open-source rewrite of Civ1",
+      "url": "https://github.com/rajko-horvat/OpenCiv1",
+      "title_zh": "OpenCiv1：Civ1 的开源重写",
+      "created_display": "Created: Mar 28, 2026 / 11:22 PT",
+      "image_url": "https://opengraph.githubassets.com/49b29524971b9ae0fb9406cb8b76358ed00100ebf947f7840f4dcffc1dddc8d3/rajko-horvat/OpenCiv1",
+      "summary_en": "OpenCiv1 is an open-source rewrite of Civilization I, reimplementing its mechanics with modern code. It serves as a case study in retro game preservation and how modern tooling can re-create classics with improved modability and portability.",
+      "summary_zh": "OpenCiv1 是 Civilization I 的开源重写，使用现代代码重新实现其机制。它展示了通过现代工具对经典游戏进行保存与再创作，并提升了可修改性与跨平台性。",
+      "hn": {
+        "id": 47557064,
+        "type": "story",
+        "by": "caminanteblanco",
+        "score": 191,
+        "descendants": 68,
+        "time": 1774722165,
+        "comments_url": "https://news.ycombinator.com/item?id=47557064"
+      },
+      "tags": [
+        "Open Source",
+        "Gaming"
+      ],
+      "hot_score": 0.2
+    },
+    {
+      "title_en": "Android’s new sideload settings will carry over to new devices",
+      "url": "https://www.androidauthority.com/android-sideload-carry-over-3652845/",
+      "title_zh": "Android 新的侧载设置将随设备迁移",
+      "created_display": "Created: Mar 28, 2026 / 13:28 PT",
+      "image_url": "https://www.androidauthority.com/wp-content/uploads/2019/04/Install-from-Unknown-Sources-2.jpg",
+      "summary_en": "Android is rolling over sideload allowances across devices, so users enabling unknown sources won't have to re-enable on every new device. The convenience comes with higher security risk, potentially broadening attack surfaces if devices are compromised or when switching accounts. It also signals a shift toward service- or account-level preferences rather than device-level toggles.",
+      "summary_zh": "Android 将把侧载设置跨设备携带，用户在换设备时不再需要重新开启未知来源。此举提高了使用便利性，但也提升了安全风险，若设备被攻破或账户切换时可能增加攻击面。体现了将偏好与设置从单一设备迁移到账户/服务级别的趋势。",
+      "hn": {
+        "id": 47557901,
+        "type": "story",
+        "by": "croemer",
+        "score": 144,
+        "descendants": 227,
+        "time": 1774729683,
+        "comments_url": "https://news.ycombinator.com/item?id=47557901"
+      },
+      "tags": [
+        "Security"
+      ],
+      "hot_score": 0.16
+    },
+    {
+      "title_en": "A laser-based process that enables adhesive-free paper packaging",
+      "url": "https://www.fraunhofer.de/en/press/research-news/2026/march-2026/sealing-paper-packaging-without-adhesives.html",
+      "title_zh": "激光工艺实现无胶纸包装",
+      "created_display": "Created: Mar 28, 2026 / 15:50 PT",
+      "image_url": "https://www.fraunhofer.de/content/dam/zv/fhg.svg",
+      "summary_en": "Fraunhofer describes a laser-based sealing method enabling adhesive-free paper packaging, potentially improving recyclability and reducing chemical usage. The tech could streamline packaging supply chains and meet sustainability goals while maintaining barrier properties.",
+      "summary_zh": "Fraunhofer 介绍一种激光封合工艺，使纸包装无需胶粘剂，提升可回收性并降低化学品使用。该技术有望简化包装供应链，助力可持续目标，同时保持必要的阻隔性能。",
+      "hn": {
+        "id": 47558782,
+        "type": "story",
+        "by": "gnabgib",
+        "score": 128,
+        "descendants": 52,
+        "time": 1774738249,
+        "comments_url": "https://news.ycombinator.com/item?id=47558782"
+      },
+      "hot_score": 0.16,
+      "tags": [
+        "Science"
+      ]
+    },
+    {
+      "title_en": "Show HN: QuickBEAM – run JavaScript as supervised Erlang/OTP processes",
+      "url": "https://github.com/elixir-volt/quickbeam",
+      "title_zh": "Show HN：QuickBEAM——在监督的 Erlang/OTP 进程中运行 JavaScript",
+      "created_display": "Created: Mar 28, 2026 / 14:03 PT",
+      "image_url": "https://opengraph.githubassets.com/cb61c38dcb9b177176b1219e9dff85a60432d2d71abde9ed404391de63de5c2f/elixir-volt/quickbeam",
+      "summary_en": "QuickBEAM enables running JavaScript inside supervised Erlang/OTP processes, bridging the ergonomics of JS with the reliability of Erlang. It demonstrates cross-language orchestration within a fault-tolerant runtime. A glimpse into practical multi-language concurrency patterns.",
+      "summary_zh": "QuickBEAM 使 JavaScript 可以在受监督的 Erlang/OTP 进程中运行，将 JS 的易用性与 Erlang 的可靠性结合起来，展示了在容错运行时内的跨语言协作模式。提供了一种实用的多语言并发实现思路。",
+      "hn": {
+        "id": 47558094,
+        "type": "story",
+        "by": "dannote",
+        "score": 99,
+        "descendants": 15,
+        "time": 1774731803,
+        "comments_url": "https://news.ycombinator.com/item?id=47558094"
+      },
+      "tags": [
+        "Show HN",
+        "Programming"
+      ],
+      "hot_score": 0.11
+    },
+    {
+      "title_en": "Wikipedia bans AI-generated content in its online encyclopedia",
+      "url": "https://www.theguardian.com/technology/2026/mar/27/wikipedia-bans-ai",
+      "title_zh": "维基百科禁止 AI 生成的内容",
+      "created_display": "Created: Mar 28, 2026 / 09:34 PT",
+      "image_url": "https://i.guim.co.uk/img/media/11bdcbd79d2083cd3ae980e805b8cdfd7e27fb80/325_0_2849_2279/master/2849.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0c0c88259743c38f11278f4322df1496",
+      "summary_en": "Wikipedia bans AI-generated content to preserve verifiability and human-centric editing. The move pushes contributors to rely on transparent, citable sources and may accelerate tooling to verify provenance.",
+      "summary_zh": "维基百科宣布禁止 AI 生成内容，以维护可验证性和由人编辑的标准。此举促使编辑者坚持使用可追溯的来源，并可能推动对内容出自与出处的工具化验证。",
+      "hn": {
+        "id": 47556116,
+        "type": "story",
+        "by": "Brajeshwar",
+        "score": 100,
+        "descendants": 19,
+        "time": 1774715644,
+        "comments_url": "https://news.ycombinator.com/item?id=47556116"
+      },
+      "tags": [
+        "Legal",
+        "AI"
+      ],
+      "hot_score": 0.1
+    },
+    {
+      "title_en": "ICAO issued new power bank restriction on flight",
+      "url": "https://www.icao.int/news/new-power-bank-restrictions-will-safeguard-international-aviation",
+      "title_zh": "ICAO 发布飞行中的新型移动电源限制",
+      "created_display": "Created: Mar 28, 2026 / 07:30 PT",
+      "image_url": "https://www.icao.int/sites/default/files/2026-03/DOC-9284.png",
+      "summary_en": "ICAO introduced new restrictions on power banks for air travel to improve safety, likely clarifying watt-hour limits and carry-on rules. The update affects travelers and airlines, aligning international safety standards with device capacities.",
+      "summary_zh": "国际民航组织公布了新的随身移动电源携带限制，明确瓦时上限并规定携带方式以提升飞行安全。这一更新将影响旅客和航空公司，并推动国际安全标准与设备容量的一致性。",
+      "hn": {
+        "id": 47554948,
+        "type": "story",
+        "by": "phantomathkg",
+        "score": 90,
+        "descendants": 170,
+        "time": 1774708230,
+        "comments_url": "https://news.ycombinator.com/item?id=47554948"
+      },
+      "hot_score": 0.08,
+      "tags": [
+        "Security"
+      ]
+    }
+  ]
+}

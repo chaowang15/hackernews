@@ -1,0 +1,1160 @@
+{
+  "meta": {
+    "mode": "best",
+    "source": "https://news.ycombinator.com/",
+    "api": "https://github.com/HackerNews/API",
+    "count_requested": 50,
+    "count_written": 50,
+    "reused_same_day": 0,
+    "reused_cross_day": 19,
+    "new_llm_enriched": 10,
+    "scrape_time_display": "06:20, April 10, 2026 (PDT)",
+    "timezone": "America/Los_Angeles",
+    "date_dir": "2026/04/09",
+    "content_date": "2026-04-09",
+    "run_time_local": "06:20, April 10, 2026 (PDT)",
+    "run_time_utc": "2026-04-10 13:20:29 UTC",
+    "incremental": true,
+    "stories_max": 50,
+    "hot_score_time_utc": "2026-04-10 13:21:45 UTC"
+  },
+  "items": [
+    {
+      "title_en": "France Launches Government Linux Desktop Plan as Windows Exit Begins",
+      "url": "https://www.numerique.gouv.fr/sinformer/espace-presse/souverainete-numerique-reduction-dependances-extra-europeennes/",
+      "title_zh": "法国启动政府级 Linux 桌面计划，Windows 退出进程开启",
+      "created_display": "Created: Apr 10, 2026 / 03:37 PT",
+      "image_url": "https://s3.eu-west-par.io.cloud.ovh.net/numerique-gouv-website/numerique-gouv-website/images/NUMERIQUE-GOUV_LOGO_PRIMAIRE_SIGNATURE_RVB.original.svg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=83d53d2d1ca64211b6b9581adffa67ce%2F20260410%2Feu-west-par%2Fs3%2Faws4_request&X-Amz-Date=20260410T132142Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=6f7e6dcdaa6aeb57fe15f60bb8e5564ce95029d31e0d93650bec45e36f7c10b8",
+      "summary_en": "France accelerates digital sovereignty by deploying Linux desktops across government as Windows migration begins. The move aims to cut vendor lock-in, reduce costs, and improve security, while posing challenges for app compatibility and procurement. It signals a broader trend toward open-source adoption in the public sector.",
+      "summary_zh": "法国通过在政府领域全面部署 Linux 桌面来提升数字主权，Windows 退出计划随之开启。此举旨在降低厂商锁定、压缩成本并提升安全性，但在应用兼容性与采购流程上也带来挑战。反映出公共部门日益重视开源的趋势。",
+      "hn": {
+        "id": 47716043,
+        "type": "story",
+        "by": "embedding-shape",
+        "score": 644,
+        "descendants": 294,
+        "time": 1775817453,
+        "comments_url": "https://news.ycombinator.com/item?id=47716043"
+      },
+      "hot_score": 39.12,
+      "tags": [
+        "Open Source",
+        "Security",
+        "Politics"
+      ]
+    },
+    {
+      "title_en": "Microsoft suspends dev accounts for high-profile open source projects",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-suspends-dev-accounts-for-high-profile-open-source-projects/",
+      "title_zh": "微软暂停对知名开源项目的开发者账户",
+      "created_display": "Created: Apr 10, 2026 / 04:20 PT",
+      "image_url": "https://www.bleepstatic.com/content/hl-images/2025/08/07/Microsoft.jpg",
+      "summary_en": "Microsoft suspends developer accounts tied to high-profile open-source projects, raising questions about platform governance and the impact on OSS communities. The move underscores ongoing tensions between commercial platform rules and open collaboration, with potential spillover for maintainers.",
+      "summary_zh": "微软暂停与知名开源项目相关的开发者账户，引发对平台治理及对开源社区影响的讨论。这一举动凸显了商业平台规则与开源协作之间的紧张关系，可能对维护者产生连锁影响。",
+      "hn": {
+        "id": 47716412,
+        "type": "story",
+        "by": "N19PEDL2",
+        "score": 285,
+        "descendants": 73,
+        "time": 1775820051,
+        "comments_url": "https://news.ycombinator.com/item?id=47716412"
+      },
+      "hot_score": 23.26,
+      "tags": [
+        "Open Source"
+      ]
+    },
+    {
+      "title_en": "EFF is leaving X",
+      "url": "https://www.eff.org/deeplinks/2026/04/eff-leaving-x",
+      "title_zh": "EFF 将离开 X",
+      "created_display": "Created: Apr 09, 2026 / 10:08 PT",
+      "image_url": "https://www.eff.org/files/banner_library/Twitter-censored.png",
+      "summary_en": "EFF announces departure from X, citing concerns over platform policies, data practices, and civil liberties. This move signals growing tensions between advocacy groups and major social platforms, and may influence developers and researchers who rely on the platform for distribution or outreach.",
+      "summary_zh": "电子前哨基金会宣布退出 X，表示对平台政策、数据使用等问题存在关切。这一举动凸显了公民社会组织与大型社交平台之间的日益紧张关系，并可能影响依赖该平台进行传播与研究的开发者与研究者。",
+      "hn": {
+        "id": 47706268,
+        "type": "story",
+        "by": "gregsadetsky",
+        "score": 1346,
+        "descendants": 1170,
+        "time": 1775754484,
+        "comments_url": "https://news.ycombinator.com/item?id=47706268"
+      },
+      "tags": [
+        "Privacy",
+        "Legal"
+      ],
+      "hot_score": 5.06
+    },
+    {
+      "title_en": "Native Instant Space Switching on macOS",
+      "url": "https://arhan.sh/blog/native-instant-space-switching-on-macos/",
+      "title_zh": "macOS 原生即时空间切换",
+      "created_display": "Created: Apr 09, 2026 / 12:48 PT",
+      "image_url": "https://arhan.sh/favicon.ico",
+      "summary_en": "macOS now supports native instant switching between virtual desktops (Spaces), drastically reducing the perceived latency when moving between spaces. It highlights implications for workflow efficiency, window management, and potential limitations compared with third-party tools.",
+      "summary_zh": "macOS 现在原生支持在虚拟桌面（Spaces）之间即时切换，显著降低切换时的延迟，提升多任务处理体验。文中讨论了这一特性对窗口管理和工作流程的影响，以及与第三方工具相比的潜在局限。",
+      "hn": {
+        "id": 47708818,
+        "type": "story",
+        "by": "PaulHoule",
+        "score": 559,
+        "descendants": 269,
+        "time": 1775764106,
+        "comments_url": "https://news.ycombinator.com/item?id=47708818"
+      },
+      "tags": [
+        "Design"
+      ],
+      "hot_score": 2.64
+    },
+    {
+      "title_en": "I still prefer MCP over skills",
+      "url": "https://david.coffee/i-still-prefer-mcp-over-skills/",
+      "title_zh": "我仍然更偏爱 MCP 而非技能",
+      "created_display": "Created: Apr 09, 2026 / 19:01 PT",
+      "image_url": "https://david.coffee/i-still-prefer-mcp-over-skills/banner.png",
+      "summary_en": "A provocative take arguing that MCP offers a more reliable path than chasing ever-changing skills. The piece emphasizes repeatable competencies, better decision-making, and long-term value for teams building complex software.",
+      "summary_zh": "作者主张 MCP 比追逐不断变化的技能更可靠。文章强调可重复的能力、更清晰的决策，以及对构建复杂软件的团队来说的长期价值。",
+      "hn": {
+        "id": 47712718,
+        "type": "story",
+        "by": "gmays",
+        "score": 281,
+        "descendants": 235,
+        "time": 1775786508,
+        "comments_url": "https://news.ycombinator.com/item?id=47712718"
+      },
+      "tags": [
+        "Career"
+      ],
+      "hot_score": 2.64
+    },
+    {
+      "title_en": "ETH Zurich demonstrates 17,000 qubit array with 99.91% fidelity",
+      "url": "https://ethz.ch/en/news-and-events/eth-news/news/2026/04/a-new-trick-brings-stability-to-quantum-operations.html",
+      "title_zh": "苏黎世联邦理工展示 17,000 量子比特阵列，保真度 99.91%",
+      "created_display": "Created: Apr 09, 2026 / 21:04 PT",
+      "image_url": "https://ethz.ch/en/news-and-events/eth-news/news/2026/04/a-new-trick-brings-stability-to-quantum-operations/_jcr_content/pageimages/imageCarousel.imageformat.lightbox.1606733906.jpg",
+      "summary_en": "Reports a milestone in quantum computing: ETH Zurich demonstrates a 17,000-qubit array with 99.91% fidelity, signaling advances in scalability and error rates. The result narrows the gap toward practical quantum advantage and informs hardware design debates.",
+      "summary_zh": "报道量子计算领域的里程碑：ETH Zurich 展示了 17,000 个量子比特阵列，保真度达 99.91%，标志着在可扩展性与错误率方面的进展。这一成果为实现实际量子优势缩小了差距，并为硬件设计讨论提供了新数据。",
+      "hn": {
+        "id": 47713495,
+        "type": "story",
+        "by": "joko42",
+        "score": 164,
+        "descendants": 34,
+        "time": 1775793897,
+        "comments_url": "https://news.ycombinator.com/item?id=47713495"
+      },
+      "tags": [
+        "Hardware",
+        "Science"
+      ],
+      "hot_score": 2.08
+    },
+    {
+      "title_en": "Microsoft is employing dark patterns to goad users into paying for storage?",
+      "url": "https://lzon.ca/posts/other/microsoft-user-abuse/",
+      "title_zh": "微软在使用暗性设计来诱导用户为存储付费？",
+      "created_display": "Created: Apr 09, 2026 / 14:09 PT",
+      "image_url": "https://lzon.ca/img/og-image.jpg",
+      "summary_en": "Details how Microsoft allegedly uses UI patterns to push users toward paying for extra storage, raising questions about user trust and platform UX. The post urges awareness of such tactics and discusses implications for data ownership and billing.",
+      "summary_zh": "揭示微软据称使用 UI 策略推动用户为额外存储付费的做法，引发对用户信任与平台用户体验的关注。文章讨论此类策略的潜在影响，以及对数据拥有权与账单透明度的启示。",
+      "hn": {
+        "id": 47710149,
+        "type": "story",
+        "by": "jpmitchell",
+        "score": 354,
+        "descendants": 209,
+        "time": 1775768952,
+        "comments_url": "https://news.ycombinator.com/item?id=47710149"
+      },
+      "tags": [
+        "Design",
+        "Privacy"
+      ],
+      "hot_score": 1.9
+    },
+    {
+      "title_en": "LittleSnitch for Linux",
+      "url": "https://obdev.at/products/littlesnitch-linux/index.html",
+      "title_zh": "Linux 版 Little Snitch",
+      "created_display": "Created: Apr 08, 2026 / 17:26 PT",
+      "image_url": "https://obdev.at/Images/social-graphs/opengraph-obdev.jpg",
+      "summary_en": "A Linux port of the macOS outbound firewall LittleSnitch arrives, enabling per-app network monitoring and rule-based controls for Linux users. This signals growing demand for fine-grained, user-friendly network policies on desktop Linux and could influence future firewall tooling and UX.",
+      "summary_zh": "Linux 版 Little Snitch 为桌面 Linux 增添按应用层级进行出站网络控制的能力，用户可对应用的网络请求逐个批准或阻止。这类细分的网络策略工具日益成为需求，可能推动未来防火墙工具的用户体验与实现方向。",
+      "hn": {
+        "id": 47697870,
+        "type": "story",
+        "by": "pluc",
+        "score": 1326,
+        "descendants": 436,
+        "time": 1775694368,
+        "comments_url": "https://news.ycombinator.com/item?id=47697870"
+      },
+      "tags": [
+        "Security"
+      ],
+      "hot_score": 1.82
+    },
+    {
+      "title_en": "We've raised $17M to build what comes after Git",
+      "url": "https://blog.gitbutler.com/series-a",
+      "title_zh": "融资 1700 万美元，打造超越 Git 的下一代工具",
+      "created_display": "Created: Apr 09, 2026 / 18:52 PT",
+      "image_url": "https://gitbutler-docs-images-public.s3.us-east-1.amazonaws.com/17-series-a.webp",
+      "summary_en": "Git Butler raises $17M in Series A to build the next generation of version-control and collaboration tooling beyond Git, aiming to address collaboration bottlenecks, UX gaps, and scale for large teams. The funding signals continued investor interest in reimagining source control for modern workflows.",
+      "summary_zh": "融资 1700 万美元，团队计划打造超越 Git 的下一代版本控制与协作工具，瞄准解决协作瓶颈、用户体验差距以及大团队的扩展性。此次融资表明投资者对重新定义现代工作流程的源代码管理工具仍然充满兴趣。",
+      "hn": {
+        "id": 47712656,
+        "type": "story",
+        "by": "ellieh",
+        "score": 195,
+        "descendants": 426,
+        "time": 1775785978,
+        "comments_url": "https://news.ycombinator.com/item?id=47712656"
+      },
+      "tags": [
+        "Startups",
+        "Programming"
+      ],
+      "hot_score": 1.8
+    },
+    {
+      "title_en": "I ported Mac OS X to the Nintendo Wii",
+      "url": "https://bryankeller.github.io/2026/04/08/porting-mac-os-x-nintendo-wii.html",
+      "title_zh": "我把 Mac OS X 移植到了任天堂 Wii",
+      "created_display": "Created: Apr 08, 2026 / 08:40 PT",
+      "image_url": "https://bryankeller.github.io/assets/images/porting-mac-os-x-nintendo-wii/IMG_9159.jpeg",
+      "summary_en": "A personal experiment porting Mac OS X to the Nintendo Wii, outlining the core challenges of cross-hardware porting and what it reveals about software portability. The write-up highlights bootstrapping, driver gaps, and the kinds of trade-offs required when attempting to run a modern OS on a legacy console.",
+      "summary_zh": "作者进行了将 Mac OS X 移植到任天堂 Wii 的个人尝试，概述了跨硬件移植的核心挑战以及软件可移植性在极端约束下的意义。文章聚焦引导启动、驱动缺口，以及在旧世代主机上运行现代操作系统所需的取舍。",
+      "hn": {
+        "id": 47691730,
+        "type": "story",
+        "by": "blkhp19",
+        "score": 1869,
+        "descendants": 315,
+        "time": 1775662800,
+        "comments_url": "https://news.ycombinator.com/item?id=47691730"
+      },
+      "tags": [
+        "Programming",
+        "Hardware",
+        "Gaming"
+      ],
+      "hot_score": 1.78
+    },
+    {
+      "title_en": "Meta removes ads for social media addiction litigation",
+      "url": "https://www.axios.com/2026/04/09/meta-social-media-addiction-ads",
+      "title_zh": "Meta因社媒成瘾诉讼而移除广告",
+      "created_display": "Created: Apr 09, 2026 / 06:23 PT",
+      "image_url": null,
+      "summary_en": "Meta's move to remove ads linked to a social-media addiction lawsuit underscores how litigation is nudging platforms to rethink ad-supported models and user-well-being commitments. The case could ripple through advertising strategies and policy discussions around platform responsibility.",
+      "summary_zh": "Meta 因社媒成瘾诉讼而移除相关广告，凸显法律诉讼正在推动平台重新审视广告支持模式与对用户健康的承诺。此举可能影响广告策略与对平台责任的政策讨论。",
+      "hn": {
+        "id": 47703419,
+        "type": "story",
+        "by": "giuliomagnifico",
+        "score": 597,
+        "descendants": 242,
+        "time": 1775741030,
+        "comments_url": "https://news.ycombinator.com/item?id=47703419"
+      },
+      "tags": [
+        "Legal",
+        "Business"
+      ],
+      "hot_score": 1.7
+    },
+    {
+      "title_en": "New iPhone age and identity checks restrict internet freedom in the UK",
+      "url": "https://bigbrotherwatch.org.uk/blog/apples-new-iphone-update-is-restricting-internet-freedom-in-the-uk/",
+      "title_zh": "新 iPhone 的年龄与身份检查限制英国互联网自由",
+      "created_display": "Created: Apr 09, 2026 / 17:50 PT",
+      "image_url": "https://bigbrotherwatch.org.uk/wp-content/uploads/2026/03/IOS-age-check.jpg",
+      "summary_en": "Analyzes Apple's new iPhone update introducing age-verification and identity checks, arguing these measures curb online freedom and raise privacy and surveillance concerns. It situates the change within tech policy and rights debates.",
+      "summary_zh": "评估苹果最新 iPhone 更新中的年龄与身份验证措施，认为这些做法削弱了英国的网络自由，并引发隐私与监控等议题。将此变动置于科技政策与公民权利讨论中。",
+      "hn": {
+        "id": 47712222,
+        "type": "story",
+        "by": "josephcsible",
+        "score": 204,
+        "descendants": 127,
+        "time": 1775782243,
+        "comments_url": "https://news.ycombinator.com/item?id=47712222"
+      },
+      "tags": [
+        "Privacy"
+      ],
+      "hot_score": 1.64
+    },
+    {
+      "title_en": "The Pentagon Threatened Pope Leo XIV's Ambassador with the Avignon Papacy",
+      "url": "https://www.thelettersfromleo.com/p/the-pentagon-threatened-pope-leo",
+      "title_zh": "五角大楼威胁阿维尼翁时期教皇使节",
+      "created_display": "Created: Apr 09, 2026 / 09:46 PT",
+      "image_url": "https://substackcdn.com/image/fetch/$s_!wLRo!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9558cb84-a466-4009-8945-ea577cd0443e_1536x1024.png",
+      "summary_en": "A provocative, era-spanning hypothetical sees the Pentagon pressuring a papal envoy during the Avignon Papacy era. The piece uses a historical lens to examine how power dynamics shape diplomacy across institutions, inviting reflection on modern geopolitics and institutional leverage.",
+      "summary_zh": "一个跨时代的设想情景，描绘五角大楼在阿维尼翁教皇时期对教皇使节施压。通过历史视角探讨权力如何影响跨机构的外交运作，引发对当代地缘政治与机构影响力的思考。",
+      "hn": {
+        "id": 47705952,
+        "type": "story",
+        "by": "frm88",
+        "score": 447,
+        "descendants": 289,
+        "time": 1775753171,
+        "comments_url": "https://news.ycombinator.com/item?id=47705952"
+      },
+      "hot_score": 1.63,
+      "tags": [
+        "Politics"
+      ]
+    },
+    {
+      "title_en": "How NASA built Artemis II’s fault-tolerant computer",
+      "url": "https://cacm.acm.org/news/how-nasa-built-artemis-iis-fault-tolerant-computer/",
+      "title_zh": "NASA 如何打造 Artemis II 的容错计算机",
+      "created_display": "Created: Apr 09, 2026 / 08:12 PT",
+      "image_url": null,
+      "summary_en": "NASA built a fault-tolerant onboard computer for Artemis II, emphasizing resilience in radiation-rich space. The system relies on redundancy, error detection, and hardened components to keep crewed flight safe even if primary hardware fails. The design illustrates how space-grade computing priorities differ from consumer systems.",
+      "summary_zh": "阿耳忒弥斯II号任务的机载容错计算机采用冗余、错误检测和抗辐射组件等技术，以在关键硬件失效时仍能维持运作。该系统体现了太空计算对可靠性的高要求，远超商用系统的容错能力。",
+      "hn": {
+        "id": 47704804,
+        "type": "story",
+        "by": "speckx",
+        "score": 463,
+        "descendants": 176,
+        "time": 1775747560,
+        "comments_url": "https://news.ycombinator.com/item?id=47704804"
+      },
+      "tags": [
+        "Space",
+        "Hardware"
+      ],
+      "hot_score": 1.5
+    },
+    {
+      "title_en": "Old laptops in a colo as low cost servers",
+      "url": "https://colaptop.pages.dev/",
+      "title_zh": "将旧笔记本放进 Colo 作为低成本服务器",
+      "created_display": "Created: Apr 09, 2026 / 11:22 PT",
+      "image_url": null,
+      "summary_en": "Old laptops in colo as low-cost servers shows that repurposing decommissioned laptops into colocation-hosted services can be a frugal alternative for hobby projects or small workloads, with caveats about reliability, power, and maintenance. Practical tips for making it workable.",
+      "summary_zh": "将退役笔记本放入 Colo 作为低成本服务器的做法，展示了以更低成本托管小型工作负载的途径，同时需关注可靠性、耗电与维护等挑战。给出使其可行的实用建议。",
+      "hn": {
+        "id": 47707477,
+        "type": "story",
+        "by": "argentum47",
+        "score": 331,
+        "descendants": 187,
+        "time": 1775758959,
+        "comments_url": "https://news.ycombinator.com/item?id=47707477"
+      },
+      "tags": [
+        "Hardware"
+      ],
+      "hot_score": 1.38
+    },
+    {
+      "title_en": "Maine is about to become the first state to ban major new data centers",
+      "url": "https://www.gadgetreview.com/maine-is-about-to-become-the-first-state-to-ban-major-new-data-centers",
+      "title_zh": "缅因州将成为首个禁止新大型数据中心的州",
+      "created_display": "Created: Apr 09, 2026 / 12:48 PT",
+      "image_url": "https://www.gadgetreview.com/wp-content/uploads/2a8e079e-10a6-4599-9e6e-ddb65aa7f05b_1920x1080.jpg",
+      "summary_en": "Maine moves to curb new large data centers, citing energy and grid impact. The policy could reshape regional tech investment, cloud footprint, and local power infrastructure while prompting debates over economic growth versus energy resilience.",
+      "summary_zh": "缅因州拟通过政策限制新建大型数据中心，强调对能源与电网的影响。此举可能重塑区域科技投资、云计算布局及本地电力基础设施，并引发关于经济增长与能源韧性之间的讨论。",
+      "hn": {
+        "id": 47708817,
+        "type": "story",
+        "by": "rmason",
+        "score": 287,
+        "descendants": 408,
+        "time": 1775764105,
+        "comments_url": "https://news.ycombinator.com/item?id=47708817"
+      },
+      "hot_score": 1.36,
+      "tags": [
+        "Politics",
+        "DevOps",
+        "Energy"
+      ]
+    },
+    {
+      "title_en": "Charcuterie – Visual similarity Unicode explorer",
+      "url": "https://charcuterie.elastiq.ch/",
+      "title_zh": "Charcuterie：可视化相似字符的 Unicode 浏览器",
+      "created_display": "Created: Apr 09, 2026 / 13:12 PT",
+      "image_url": "https://charcuterie.elastiq.ch/social-share.png",
+      "summary_en": "Charcuterie visualizes Unicode characters with similar shapes to help identify homoglyphs and phishing risks. This explorer makes it easier for developers and security researchers to spot look-alike symbols across fonts and languages, reducing the chance of spoofing.",
+      "summary_zh": "Charcuterie 将形状相似的 Unicode 字符以可视方式呈现，帮助识别同形字符及钓鱼风险。该工具适合开发者和安全研究者快速定位跨字体和语言的易混淆符号，从而降低欺骗风险。",
+      "hn": {
+        "id": 47709158,
+        "type": "story",
+        "by": "rickcarlino",
+        "score": 264,
+        "descendants": 57,
+        "time": 1775765527,
+        "comments_url": "https://news.ycombinator.com/item?id=47709158"
+      },
+      "tags": [
+        "Security"
+      ],
+      "hot_score": 1.29
+    },
+    {
+      "title_en": "Many African families spend fortunes burying their dead",
+      "url": "https://davidoks.blog/p/how-funerals-keep-africa-poor",
+      "title_zh": "许多非洲家庭为埋葬亲人花费巨额开销",
+      "created_display": "Created: Apr 09, 2026 / 15:10 PT",
+      "image_url": "https://substackcdn.com/image/fetch/$s_!m4zD!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0417c22b-4a4f-40c2-8baa-118fb9ffb2f6_2362x1575.png",
+      "summary_en": "Funeral costs drive financial hardship across many African families, leading to debt and asset depletion. The piece calls for affordable, scalable solutions—community funds, microinsurance, or policy interventions—to ease end-of-life expenses.",
+      "summary_zh": "葬礼高昂的费用在许多非洲家庭中造成经济负担，常导致债务累积和资产缩水。文章呼吁通过社区基金、微保等可负担、可扩展的解决方案，降低安葬成本压力。",
+      "hn": {
+        "id": 47710907,
+        "type": "story",
+        "by": "powera",
+        "score": 203,
+        "descendants": 197,
+        "time": 1775772610,
+        "comments_url": "https://news.ycombinator.com/item?id=47710907"
+      },
+      "tags": [
+        "Finance"
+      ],
+      "hot_score": 1.21
+    },
+    {
+      "title_en": "Netflix Prices Went Up Again – I Bought a DVD Player Instead",
+      "url": "https://aywren.com/2026/04/09/netflix-prices-went-up-again-i-bought-a-dvd-player-instead/",
+      "title_zh": "Netflix 价格上涨，我改买 DVD 播放机",
+      "created_display": "Created: Apr 09, 2026 / 13:17 PT",
+      "image_url": "https://aywren.com/2026/pic/dvdcollection.jpg",
+      "summary_en": "Netflix price hikes spark a rethink of streaming value; the author buys a DVD player to own physical media, illustrating how price sensitivity and ownership influence media consumption choices.",
+      "summary_zh": "Netflix 价格上涨让人重新审视流媒体的价值，作者改买 DVD 播放机以获得对媒体的拥有权，体现了价格敏感性与所有权对消费选择的影响。",
+      "hn": {
+        "id": 47709251,
+        "type": "story",
+        "by": "speckx",
+        "score": 225,
+        "descendants": 239,
+        "time": 1775765870,
+        "comments_url": "https://news.ycombinator.com/item?id=47709251"
+      },
+      "tags": [
+        "Business",
+        "Entertainment"
+      ],
+      "hot_score": 1.11
+    },
+    {
+      "title_en": "Help Keep Thunderbird Alive",
+      "url": "https://updates.thunderbird.net/en-US/thunderbird/140.0/apr26-1e/donate/",
+      "title_zh": "帮助 Thunderbird 项目继续存在",
+      "created_display": "Created: Apr 09, 2026 / 00:27 PT",
+      "image_url": "https://updates.thunderbird.net/media/img/thunderbird/thunderbird-256.png",
+      "summary_en": "Thunderbird, the open-source email client, is running a fundraising drive to stay active. The appeal underscores ongoing challenges for volunteer-driven projects in sustaining development and support, even as mainstream clients rise. Donating helps ensure continued updates, privacy features, and localization support for users who value control over their data.",
+      "summary_zh": "开源邮件客户端 Thunderbird 正发起募捐以维持项目运营。社区呼吁捐助以解决长期资金与维护挑战，确保未来仍具备更新、隐私功能及本地化支持。",
+      "hn": {
+        "id": 47700388,
+        "type": "story",
+        "by": "playfultones",
+        "score": 552,
+        "descendants": 375,
+        "time": 1775719645,
+        "comments_url": "https://news.ycombinator.com/item?id=47700388"
+      },
+      "tags": [
+        "Open Source",
+        "Privacy"
+      ],
+      "hot_score": 1.08
+    },
+    {
+      "title_en": "BunnyCDN has been silently losing our production files for 15 months",
+      "url": "https://old.reddit.com/r/webdev/comments/1sglytg/bunnycdn_has_been_silently_losing_our_production/",
+      "title_zh": "BunnyCDN 已悄悄在过去 15 个月中丢失生产文件",
+      "created_display": "Created: Apr 09, 2026 / 15:04 PT",
+      "image_url": null,
+      "summary_en": "A long-running data-loss incident at BunnyCDN leaves customer production files missing for over a year, highlighting data-loss risk and the need for robust backups and transparency. The episode underscores the fragility of relying on third-party providers for critical data and the importance of incident transparency.",
+      "summary_zh": "BunnyCDN 长期数据丢失事件导致客户的生产文件在一年多的时间里丢失，暴露出数据丢失风险以及对稳健备份和透明度的需求。此事凸显依赖第三方存储对运营数据的潜在脆弱性，以及对事件透明度的迫切需要。",
+      "hn": {
+        "id": 47710845,
+        "type": "story",
+        "by": "speckx",
+        "score": 166,
+        "descendants": 38,
+        "time": 1775772249,
+        "comments_url": "https://news.ycombinator.com/item?id=47710845"
+      },
+      "hot_score": 0.98,
+      "tags": [
+        "Data",
+        "Security"
+      ]
+    },
+    {
+      "title_en": "Claude mixes up who said what",
+      "url": "https://dwyer.co.za/static/claude-mixes-up-who-said-what-and-thats-not-ok.html",
+      "title_zh": "Claude 混淆引述来源，这样不行",
+      "created_display": "Created: Apr 09, 2026 / 02:25 PT",
+      "image_url": "https://dwyer.co.za/static/claude-bug-1.png",
+      "summary_en": "An AI chat assistant Claude reportedly swapped attribution of quotes, highlighting a flaw in accuracy and sourcing. The incident underscores how attribution errors can propagate misinformation, impacting journalism, education, and decision-making. It emphasizes the need for robust provenance checks, verifiable sources, and better model training to prevent mix-ups.",
+      "summary_zh": "对话模型混淆了不同人物的发言归属，暴露了 AI 在引用出处上的不足。此类错误可能传播错误信息，影响新闻、教育与决策场景，凸显对可验证来源与溯源机制的需求，以及改进训练数据和评估的必要性。",
+      "hn": {
+        "id": 47701233,
+        "type": "story",
+        "by": "sixhobbits",
+        "score": 441,
+        "descendants": 337,
+        "time": 1775726728,
+        "comments_url": "https://news.ycombinator.com/item?id=47701233"
+      },
+      "tags": [
+        "AI",
+        "Education"
+      ],
+      "hot_score": 0.97
+    },
+    {
+      "title_en": "Unfolder for Mac – A 3D model unfolding tool for creating papercraft",
+      "url": "https://www.unfolder.app/",
+      "title_zh": "Unfolder for Mac：用于制作纸模型的 3D 展开工具",
+      "created_display": "Created: Apr 09, 2026 / 09:58 PT",
+      "image_url": "https://unfolder.app/img/og_image.jpg",
+      "summary_en": "Unfolder for Mac converts 3D models into 2D unfoldings suitable for papercraft, enabling precise templates for printable sheets. It streamlines turning digital models into physical crafts, appealing to hobbyists, educators, and designers.",
+      "summary_zh": "Unfolder for Mac 将 3D 模型展开为适合纸艺的 2D 展开图，生成可打印的模板。它简化了将数字模型转化为实体手工艺品的过程，适合爱好者、教育工作者和设计师使用。",
+      "hn": {
+        "id": 47706140,
+        "type": "story",
+        "by": "codazoda",
+        "score": 262,
+        "descendants": 49,
+        "time": 1775753926,
+        "comments_url": "https://news.ycombinator.com/item?id=47706140"
+      },
+      "tags": [
+        "Design"
+      ],
+      "hot_score": 0.97
+    },
+    {
+      "title_en": "PicoZ80 – Drop-In Z80 Replacement",
+      "url": "https://eaw.app/picoz80/",
+      "title_zh": "PicoZ80：可插拔的 Z80 替代处理器",
+      "created_display": "Created: Apr 09, 2026 / 11:53 PT",
+      "image_url": "https://eaw.app/images/backdrop.jpg",
+      "summary_en": "PicoZ80 provides a drop-in, Z80-compatible CPU core for retro computing projects, enabling hobbyists to swap in a modern core without rewriting software. It aims to simplify hardware design and integration for emulators, FPGA builds, and educational tinkering.",
+      "summary_zh": "PicoZ80 提供一个与 Z80 兼容的、可直接替换的 CPU 核心，方便在复古计算项目中无须改写软件即可替换处理器。该项目旨在简化在仿真、FPGA 构建及教学实践中的硬件设计与集成。",
+      "hn": {
+        "id": 47708041,
+        "type": "story",
+        "by": "rickcarlino",
+        "score": 209,
+        "descendants": 32,
+        "time": 1775760800,
+        "comments_url": "https://news.ycombinator.com/item?id=47708041"
+      },
+      "tags": [
+        "Hardware",
+        "Programming"
+      ],
+      "hot_score": 0.91
+    },
+    {
+      "title_en": "The Vercel plugin on Claude Code wants to read your prompts",
+      "url": "https://akshaychugh.xyz/writings/png/vercel-plugin-telemetry",
+      "title_zh": "Vercel 的 Claude Code 插件可能读取你的提示词",
+      "created_display": "Created: Apr 09, 2026 / 08:17 PT",
+      "image_url": "https://akshaychugh.xyz/assets/images/og-default-wide.png",
+      "summary_en": "A privacy-conscious note on the Claude Code-Vercel plugin reveals telemetry that may read prompts. It highlights data collection concerns in AI-assisted tooling and urges developers to review what gets captured and how it’s used.",
+      "summary_zh": "关于 Claude Code 与 Vercel 插件的隐私说明显示可能会读取你的提示词并进行遥测收集。此举暴露了 AI 助手工具中的数据收集问题，敦促开发者核查收集了哪些数据、数据如何被使用。",
+      "hn": {
+        "id": 47704881,
+        "type": "story",
+        "by": "akshay2603",
+        "score": 267,
+        "descendants": 105,
+        "time": 1775747847,
+        "comments_url": "https://news.ycombinator.com/item?id=47704881"
+      },
+      "hot_score": 0.87,
+      "tags": [
+        "Privacy",
+        "AI"
+      ]
+    },
+    {
+      "title_en": "ChatGPT Pro now starts at $100/month",
+      "url": "https://chatgpt.com/pricing/",
+      "title_zh": "ChatGPT Pro 现在起价为每月 100 美元",
+      "created_display": "Created: Apr 09, 2026 / 11:09 PT",
+      "image_url": null,
+      "summary_en": "OpenAI nudges pricing for ChatGPT Pro to $100/month, widening the gap between consumer and professional tiers. The change tests value, features, and cost efficiency for power users and enterprise customers as usage scales.",
+      "summary_zh": "ChatGPT Pro 的月费提升至 100 美元，拉大了个人用户与专业版之间的价格差距。此变动将考验高阶用户和企业客户在价值、功能与成本效益上的取舍。",
+      "hn": {
+        "id": 47707253,
+        "type": "story",
+        "by": "strongpigeon",
+        "score": 204,
+        "descendants": 239,
+        "time": 1775758159,
+        "comments_url": "https://news.ycombinator.com/item?id=47707253"
+      },
+      "hot_score": 0.83,
+      "tags": [
+        "AI",
+        "Business"
+      ]
+    },
+    {
+      "title_en": "Reverse engineering Gemini's SynthID detection",
+      "url": "https://github.com/aloshdenny/reverse-SynthID",
+      "title_zh": "逆向工程 Gemini 的 SynthID 检测",
+      "created_display": "Created: Apr 09, 2026 / 13:10 PT",
+      "image_url": "https://opengraph.githubassets.com/c16b48db0a8ab4b39e7e416d8cf46cc3897fe07fcf517e65aac9d3a219a20331/aloshdenny/reverse-SynthID",
+      "summary_en": "Reverse engineering Gemini's SynthID detection reveals what the system checks to verify authenticity, highlighting the fragility and design trade-offs of hardware-backed identity. The write-up underscores challenges in reliably detecting synthetic IDs and what this implies for future security tooling.",
+      "summary_zh": "对 Gemini 的 SynthID 检测进行逆向工程，揭示系统为验证真实身份而检查的要点，凸显硬件背书身份的脆弱性与设计权衡。该工作强调在可靠检测合成身份方面的挑战，以及对未来安全工具的启示。",
+      "hn": {
+        "id": 47709130,
+        "type": "story",
+        "by": "_tk_",
+        "score": 165,
+        "descendants": 52,
+        "time": 1775765425,
+        "comments_url": "https://news.ycombinator.com/item?id=47709130"
+      },
+      "tags": [
+        "Security",
+        "Hardware",
+        "AI"
+      ],
+      "hot_score": 0.8
+    },
+    {
+      "title_en": "How Pizza Tycoon simulated traffic on a 25 MHz CPU",
+      "url": "https://pizzalegacy.nl/blog/traffic-system.html",
+      "title_zh": "披萨大亨在25MHz CPU上如何模拟交通",
+      "created_display": "Created: Apr 09, 2026 / 05:57 PT",
+      "image_url": "https://pizzalegacy.nl/assets/blog/city_map2.png",
+      "summary_en": "The piece revisits a classic business sim and explains how its traffic simulation ran on a 25 MHz CPU. It highlights the clever optimizations and constraints that shaped early on-screen simulations, illustrating the ingenuity required under severe hardware limits.",
+      "summary_zh": "回顾这款经典商业模拟游戏在仅有25MHz CPU 的硬件条件下实现交通仿真的方法。展示开发者在极限硬件条件下的巧妙优化与系统设计，揭示早期仿真所面临的挑战。",
+      "hn": {
+        "id": 47703123,
+        "type": "story",
+        "by": "FinnKuhn",
+        "score": 288,
+        "descendants": 60,
+        "time": 1775739430,
+        "comments_url": "https://news.ycombinator.com/item?id=47703123"
+      },
+      "hot_score": 0.79,
+      "tags": [
+        "Hardware"
+      ]
+    },
+    {
+      "title_en": "Instant 1.0, a backend for AI-coded apps",
+      "url": "https://www.instantdb.com/essays/architecture",
+      "title_zh": "Instant 1.0：AI 驱动应用的后端解决方案",
+      "created_display": "Created: Apr 09, 2026 / 11:30 PT",
+      "image_url": "https://www.instantdb.com/img/essays/architecture.jpg",
+      "summary_en": "Instant 1.0 positions itself as a backend optimized for AI-driven apps, focusing on data accessibility and scalable APIs. It discusses architecture choices designed to accelerate AI app development and deployment, with an eye toward reliability and scalability.",
+      "summary_zh": "Instant 1.0 将自己定位为面向 AI 驱动应用的后端，强调数据可访问性与可扩展的 API。文中探讨了旨在加速 AI 应用开发与部署的架构选择，以及对可靠性和扩展性的关注。",
+      "hn": {
+        "id": 47707632,
+        "type": "story",
+        "by": "stopachka",
+        "score": 178,
+        "descendants": 89,
+        "time": 1775759459,
+        "comments_url": "https://news.ycombinator.com/item?id=47707632"
+      },
+      "tags": [
+        "Programming",
+        "AI",
+        "Web"
+      ],
+      "hot_score": 0.75
+    },
+    {
+      "title_en": "Reallocating $100/Month Claude Code Spend to Zed and OpenRouter",
+      "url": "https://braw.dev/blog/2026-04-06-reallocating-100-month-claude-spend/",
+      "title_zh": "将每月 100 美元的 Claude 代码预算重新分配给 Zed 与 OpenRouter",
+      "created_display": "Created: Apr 09, 2026 / 01:55 PT",
+      "image_url": "https://braw.dev/images/braw-dev-og-background_hu_960e5912b59745f.png",
+      "summary_en": "Describes reallocating a monthly AI budget from Claude to Zed and OpenRouter, weighing cost, performance, and the benefits of open-source or differently-architected tooling.",
+      "summary_zh": "描述将每月 100 美元的 Claude 代码预算重新分配给 Zed 与 OpenRouter，比较成本与性能，以及开源工具在不同架构下的潜在收益。",
+      "hn": {
+        "id": 47700972,
+        "type": "story",
+        "by": "kisamoto",
+        "score": 334,
+        "descendants": 220,
+        "time": 1775724918,
+        "comments_url": "https://news.ycombinator.com/item?id=47700972"
+      },
+      "tags": [
+        "Open Source",
+        "Business",
+        "AI"
+      ],
+      "hot_score": 0.71
+    },
+    {
+      "title_en": "Research-Driven Agents: When an agent reads before it codes",
+      "url": "https://blog.skypilot.co/research-driven-agents/",
+      "title_zh": "研究驱动的代理：代理在编码前先阅读",
+      "created_display": "Created: Apr 09, 2026 / 09:58 PT",
+      "image_url": "https://blog.skypilot.co/research-driven-agents/assets/banner.png",
+      "summary_en": "Argues for research-driven agents that read and verify documentation before writing code; discusses the benefits for reliability and safety, plus practical patterns for integrating reading steps into agent planning.",
+      "summary_zh": "提出“研究驱动的代理”想法，即在编码前先阅读并核验文档以提升可靠性和安全性，并讨论将阅读步骤融入代理计划的实用做法。",
+      "hn": {
+        "id": 47706141,
+        "type": "story",
+        "by": "hopechong",
+        "score": 190,
+        "descendants": 50,
+        "time": 1775753929,
+        "comments_url": "https://news.ycombinator.com/item?id=47706141"
+      },
+      "tags": [
+        "AI"
+      ],
+      "hot_score": 0.7
+    },
+    {
+      "title_en": "Top laptops to use with FreeBSD",
+      "url": "https://freebsdfoundation.github.io/freebsd-laptop-testing/",
+      "title_zh": "FreeBSD 笔记本兼容性：推荐使用的笔记本型号",
+      "created_display": "Created: Apr 09, 2026 / 02:17 PT",
+      "image_url": "https://wiki.freebsd.org/logo-full-thumb.png",
+      "summary_en": "Curates laptops known to work well with FreeBSD, with notes on hardware quirks like wireless, graphics, and suspend support. The guide helps FreeBSD enthusiasts pick reliable hardware and highlights remaining compatibility gaps.",
+      "summary_zh": "汇总与 FreeBSD 兼容性良好的笔记本型号，附带无线、显卡、休眠等硬件特性注意。指南帮助用户选购更可靠的硬件，并指出仍存的兼容性空白。",
+      "hn": {
+        "id": 47701148,
+        "type": "story",
+        "by": "fork-bomber",
+        "score": 316,
+        "descendants": 179,
+        "time": 1775726245,
+        "comments_url": "https://news.ycombinator.com/item?id=47701148"
+      },
+      "tags": [
+        "Hardware"
+      ],
+      "hot_score": 0.69
+    },
+    {
+      "title_en": "Am I German or Autistic?",
+      "url": "https://german.millermanschool.com/",
+      "title_zh": "我是德国人还是自闭症者？",
+      "created_display": "Created: Apr 09, 2026 / 05:52 PT",
+      "image_url": null,
+      "summary_en": "It reframes how language and social expectations shape who we are.",
+      "summary_zh": "这篇文章探讨国家/文化身份与神经多样性之间的张力，挑战对德国身份与自闭症的刻板印象。通过语言与社会期望的视角，重新审视自我认同的形成。",
+      "hn": {
+        "id": 47703072,
+        "type": "story",
+        "by": "doener",
+        "score": 251,
+        "descendants": 221,
+        "time": 1775739132,
+        "comments_url": "https://news.ycombinator.com/item?id=47703072"
+      },
+      "hot_score": 0.69,
+      "tags": [
+        "Culture"
+      ]
+    },
+    {
+      "title_en": "US cities are axing Flock Safety surveillance technology",
+      "url": "https://www.cnet.com/home/security/when-flock-comes-to-town-why-cities-are-axing-the-controversial-surveillance-technology/",
+      "title_zh": "美国城市正在削减Flock Safety监控技术",
+      "created_display": "Created: Apr 08, 2026 / 05:26 PT",
+      "image_url": "https://www.cnet.com/a/img/resize/d9a1ad1c04f1050acee2847bf47c758d40ea0122/hub/2026/03/30/20f18d29-c3e9-47d3-8467-1a0ba718fa78/flock-surveillance.png?auto=webp&fit=crop&height=675&width=1200",
+      "summary_en": "Multiple U.S. cities are dropping Flock Safety license-plate surveillance programs amid privacy and civil-liberties concerns. The move underscores the tension between public safety aims and individual rights in a surveillance-heavy era.",
+      "summary_zh": "多座美国城市在隐私与公民自由关注下撤回Flock Safety的车牌监控项目。这一举措凸显了在高强度监控时代，公共安全目标与个人权利之间的张力。",
+      "hn": {
+        "id": 47689237,
+        "type": "story",
+        "by": "giuliomagnifico",
+        "score": 753,
+        "descendants": 426,
+        "time": 1775651174,
+        "comments_url": "https://news.ycombinator.com/item?id=47689237"
+      },
+      "tags": [
+        "Privacy",
+        "Security"
+      ],
+      "hot_score": 0.64
+    },
+    {
+      "title_en": "Open source security at Astral",
+      "url": "https://astral.sh/blog/open-source-security-at-astral",
+      "title_zh": "Astral 的开源安全实践",
+      "created_display": "Created: Apr 08, 2026 / 21:11 PT",
+      "image_url": "https://astral.sh/static/OpenGraph/Astral.jpg",
+      "summary_en": "Astral outlines its open-source security program, detailing how it tracks dependencies, audits code, and handles vulnerability remediation. It emphasizes responsible disclosure and cross-team collaboration to reduce supply-chain risk. The post offers a concrete blueprint for securing OSS within a product-driven company.",
+      "summary_zh": "Astral 介绍其开源安全计划，覆盖依赖项审计、代码审查和漏洞修复流程，并强调负责任披露与跨团队协作以降低供应链风险。文中还提供在以产品为驱动的公司中落地开源安全的具体方案。",
+      "hn": {
+        "id": 47699181,
+        "type": "story",
+        "by": "vinhnx",
+        "score": 358,
+        "descendants": 107,
+        "time": 1775707915,
+        "comments_url": "https://news.ycombinator.com/item?id=47699181"
+      },
+      "tags": [
+        "Open Source",
+        "Security"
+      ],
+      "hot_score": 0.59
+    },
+    {
+      "title_en": "Show HN: Is Hormuz open yet?",
+      "url": "https://www.ishormuzopenyet.com/",
+      "title_zh": "Show HN：Hormuz 开放了吗？",
+      "created_display": "Created: Apr 08, 2026 / 14:33 PT",
+      "image_url": null,
+      "summary_en": "Show HN project presenting a real-time status page to indicate whether Hormuz is open, illustrating how lightweight dashboards can reveal accessibility in infrastructure experiments.",
+      "summary_zh": "Show HN 项目提供 Hormuz 是否开放的实时状态页面，展示如何用简单的仪表板跟踪基础设施实验中的可访问性。",
+      "hn": {
+        "id": 47696562,
+        "type": "story",
+        "by": "anonfunction",
+        "score": 463,
+        "descendants": 204,
+        "time": 1775683986,
+        "comments_url": "https://news.ycombinator.com/item?id=47696562"
+      },
+      "tags": [
+        "Show HN",
+        "Web",
+        "DevOps"
+      ],
+      "hot_score": 0.56
+    },
+    {
+      "title_en": "Microsoft terminates VeraCrypt account, halting Windows updates",
+      "url": "https://www.404media.co/microsoft-abruptly-terminates-veracrypt-account-halting-windows-updates/",
+      "title_zh": "微软突然终止 VeraCrypt 账户，导致 Windows 更新中断",
+      "created_display": "Created: Apr 08, 2026 / 07:46 PT",
+      "image_url": "https://www.404media.co/content/images/size/w1200/2026/04/simon-ray-TICJQELFmg4-unsplash.jpg",
+      "summary_en": "Reports indicate Microsoft terminated a VeraCrypt account, halting Windows updates. The incident underscores how dependence on external accounts can disrupt critical software maintenance and raises questions about vendor policies.",
+      "summary_zh": "报道称微软突然终止了VeraCrypt账户，导致Windows更新中断。这一事件凸显对外部账户的依赖如何影响关键软件维护，并引发对厂商政策的关注。",
+      "hn": {
+        "id": 47690977,
+        "type": "story",
+        "by": "donohoe",
+        "score": 581,
+        "descendants": 238,
+        "time": 1775659575,
+        "comments_url": "https://news.ycombinator.com/item?id=47690977"
+      },
+      "tags": [
+        "Security",
+        "Business"
+      ],
+      "hot_score": 0.53
+    },
+    {
+      "title_en": "ML promises to be profoundly weird",
+      "url": "https://aphyr.com/posts/411-the-future-of-everything-is-lies-i-guess",
+      "title_zh": "机器学习将带来极其怪异的未来",
+      "created_display": "Created: Apr 08, 2026 / 06:06 PT",
+      "image_url": "https://www.gravatar.com/avatar/0757b0f7c4d7ac7ee21b04ca91ac406a?r=pg&s=96&d=identicon",
+      "summary_en": "Argues that ML systems will exhibit unusual, sometimes counterintuitive behavior as data and objectives shift, complicating testing and reliability. The piece reflects on implications for software engineering, governance, and trust in AI.",
+      "summary_zh": "指出机器学习系统在数据分布和目标变化下会呈现异常甚至反直觉的行为，这会让测试与可靠性变得复杂。讨论对软件工程、治理与对 AI 信任的影响。",
+      "hn": {
+        "id": 47689648,
+        "type": "story",
+        "by": "pabs3",
+        "score": 598,
+        "descendants": 591,
+        "time": 1775653593,
+        "comments_url": "https://news.ycombinator.com/item?id=47689648"
+      },
+      "tags": [
+        "AI"
+      ],
+      "hot_score": 0.52
+    },
+    {
+      "title_en": "Lichess and Take Take Take Sign Cooperation Agreement",
+      "url": "https://lichess.org/@/Lichess/blog/lichess-and-take-take-take-sign-cooperation-agreement/DZS0S0Dy",
+      "title_zh": "Lichess 与 Take Take Take 签署合作协议",
+      "created_display": "Created: Apr 09, 2026 / 04:56 PT",
+      "image_url": "https://image.lichess1.org/display?fmt=webp&h=550&op=thumbnail&path=dduL1ssXcPAd.webp&w=880&sig=dacea0a81945aa87307b94bc5077ea7d484e0d5b",
+      "summary_en": "Lichess signs a cooperation agreement with Take Take Take, signaling collaboration on features, licensing, or policy initiatives. The move shows how open-source platforms partner with external services to scale responsibly while protecting user interests.",
+      "summary_zh": "Lichess 与 Take Take Take 签署合作协议，标志在功能、授权或治理等方面的协作。此举体现开源平台与外部服务的协作模式，以更负责任的方式扩展并保护用户利益。",
+      "hn": {
+        "id": 47702499,
+        "type": "story",
+        "by": "stevage",
+        "score": 187,
+        "descendants": 57,
+        "time": 1775735816,
+        "comments_url": "https://news.ycombinator.com/item?id=47702499"
+      },
+      "tags": [
+        "Open Source"
+      ],
+      "hot_score": 0.48
+    },
+    {
+      "title_en": "Wit, unker, Git: The lost medieval pronouns of English intimacy",
+      "url": "https://www.bbc.com/future/article/20260408-the-extinct-english-words-for-just-the-two-of-us",
+      "title_zh": "Wit、Unker、Git：英语亲密关系的失落中世纪代词",
+      "created_display": "Created: Apr 09, 2026 / 03:10 PT",
+      "image_url": "https://ychef.files.bbci.co.uk/624x351/p0nc7ttl.jpg",
+      "summary_en": "The article uncovers rare medieval English pronouns used to denote intimacy, tracing how linguistic forms encode social closeness. It reveals how language shifts reflect cultural norms and how today’s pronoun choices echo centuries-old conventions.",
+      "summary_zh": "文中揭示用于表达亲密关系的稀有中世纪英语代词，追踪语言形式如何编码社会亲近度。揭示语言演变与文化规范之间的关系，以及当代代词选择在某种程度上延续了数百年的传统。",
+      "hn": {
+        "id": 47701572,
+        "type": "story",
+        "by": "eigenspace",
+        "score": 203,
+        "descendants": 132,
+        "time": 1775729419,
+        "comments_url": "https://news.ycombinator.com/item?id=47701572"
+      },
+      "hot_score": 0.47,
+      "tags": [
+        "Culture",
+        "Programming"
+      ]
+    },
+    {
+      "title_en": "I've been waiting over a month for Anthropic to respond to my billing issue",
+      "url": "https://nickvecchioni.github.io/thoughts/2026/04/08/anthropic-support-doesnt-exist/",
+      "title_zh": "我等了一个多月，Anthropic 对我的计费问题没有回应",
+      "created_display": "Created: Apr 08, 2026 / 10:44 PT",
+      "image_url": null,
+      "summary_en": "A firsthand account of waiting over a month for Anthropic to respond to a billing issue, highlighting frustrations with support latency and potential implications for business users relying on Claude.",
+      "summary_zh": "作者描述自己遇到的计费问题在一个月多仍未获得 Anthropic 的回应，凸显企业级支持响应时间的挑战以及对使用 Claude 的客户信任的影响。",
+      "hn": {
+        "id": 47693679,
+        "type": "story",
+        "by": "nickvec",
+        "score": 423,
+        "descendants": 194,
+        "time": 1775670265,
+        "comments_url": "https://news.ycombinator.com/item?id=47693679"
+      },
+      "tags": [
+        "Business",
+        "AI"
+      ],
+      "hot_score": 0.44
+    },
+    {
+      "title_en": "USB for Software Developers: An introduction to writing userspace USB drivers",
+      "url": "https://werwolv.net/posts/usb_for_sw_devs/",
+      "title_zh": "面向软件开发者的 USB：用户态 USB 驱动入门",
+      "created_display": "Created: Apr 08, 2026 / 12:23 PT",
+      "image_url": null,
+      "summary_en": "Introduces the fundamentals of writing USB drivers that run in user space, contrasting them with kernel drivers and outlining common libraries and safety considerations. The piece provides practical steps and a small example to help developers prototype USB interactions quickly.",
+      "summary_zh": "本文介绍在用户空间编写 USB 驱动的基础知识，比较了用户态驱动与内核驱动的差异，讨论常用库与安全注意事项，并给出一个实用的示例实现步骤。",
+      "hn": {
+        "id": 47695012,
+        "type": "story",
+        "by": "WerWolv",
+        "score": 401,
+        "descendants": 48,
+        "time": 1775676214,
+        "comments_url": "https://news.ycombinator.com/item?id=47695012"
+      },
+      "tags": [
+        "Programming"
+      ],
+      "hot_score": 0.44
+    },
+    {
+      "title_en": "John Deere to pay $99M in right-to-repair settlement",
+      "url": "https://www.thedrive.com/news/john-deere-to-pay-99-million-in-monumental-right-to-repair-settlement",
+      "title_zh": "约翰迪尔就修理权达成9900万美元和解",
+      "created_display": "Created: Apr 08, 2026 / 13:46 PT",
+      "image_url": "https://www.thedrive.com/wp-content/uploads/2026/04/John-Deere-Right-to-Repair-Hero-1.jpg?w=1200",
+      "summary_en": "A landmark right-to-repair settlement requiring Deere to pay $99 million and to improve access to tools and parts for repairs. The decision could influence OEM practices and consumer rights in agriculture and beyond.",
+      "summary_zh": "这是一起具有里程碑意义的和解，要求 Deere 支付 9900 万美元并改善修理工具、零件及服务的获取，支持修理权。此举可能影响原厂对外提供维修能力的政策，对农业及其他领域的消费者权利具有示范效应。",
+      "hn": {
+        "id": 47696035,
+        "type": "story",
+        "by": "CharlesW",
+        "score": 382,
+        "descendants": 126,
+        "time": 1775681187,
+        "comments_url": "https://news.ycombinator.com/item?id=47696035"
+      },
+      "tags": [
+        "Legal",
+        "Business"
+      ],
+      "hot_score": 0.44
+    },
+    {
+      "title_en": "Understanding the Kalman filter with a simple radar example",
+      "url": "https://kalmanfilter.net",
+      "title_zh": "用一个简单雷达案例理解卡尔曼滤波",
+      "created_display": "Created: Apr 08, 2026 / 10:11 PT",
+      "image_url": "https://kalmanfilter.net/img/profile.jpg?v=1",
+      "summary_en": "An accessible walkthrough of the Kalman filter using a simple radar example to illustrate the prediction-correction loop and how noisy measurements are fused into a real-time state estimate. The piece ties the method to practical applications in navigation, robotics, and sensor fusion, where uncertainty matters.",
+      "summary_zh": "通过一个简单雷达示例，直观讲解卡尔曼滤波的预测与校正过程，以及如何将带噪声的观测融合成实时状态估计。内容连接到了导航、机器人和传感器融合等实际应用场景，强调不确定性建模的重要性。",
+      "hn": {
+        "id": 47693153,
+        "type": "story",
+        "by": "alex_be",
+        "score": 423,
+        "descendants": 65,
+        "time": 1775668306,
+        "comments_url": "https://news.ycombinator.com/item?id=47693153"
+      },
+      "tags": [
+        "Science"
+      ],
+      "hot_score": 0.43
+    },
+    {
+      "title_en": "Muse Spark: Scaling towards personal superintelligence",
+      "url": "https://ai.meta.com/blog/introducing-muse-spark-msl/?_fb_noscript=1",
+      "title_zh": "Muse Spark：向个人超级智能的规模化迈进",
+      "created_display": "Created: Apr 08, 2026 / 09:01 PT",
+      "image_url": "https://scontent-ord5-3.xx.fbcdn.net/v/t39.2365-6/667507363_1871749950191919_4996140970371485757_n.png?_nc_cat=109&ccb=1-7&_nc_sid=e280be&_nc_ohc=kIZH_aU8-84Q7kNvwGkkOrQ&_nc_oc=AdqC6GueleV8kr1TSNOVRqdZElsehyleLwgGLkSKTBLj4Or70oC9RS2U_OqyDisRwZo&_nc_zt=14&_nc_ht=scontent-ord5-3.xx&_nc_gid=g_IoONWctCiz7NVveLtSeQ&_nc_ss=7a389&oh=00_Af35meipcPuabGELdj840FTINAHyi9H9yYYMghJFHH09HQ&oe=69F1172C",
+      "summary_en": "Outlines a framework for scaling AI toward personal-scale intelligence, emphasizing privacy, personalized context, and smarter on-device capabilities. The initiative signals a push to blend private data with scalable models for more capable, private assistants.",
+      "summary_zh": "概述将 AI 扩展到个人级别智能的框架，强调隐私、个性化上下文以及更智能的本地能力。这一举措旨在将私有数据与可扩展模型结合，打造更强大、更加私密的助理。",
+      "hn": {
+        "id": 47692043,
+        "type": "story",
+        "by": "chabons",
+        "score": 390,
+        "descendants": 367,
+        "time": 1775664092,
+        "comments_url": "https://news.ycombinator.com/item?id=47692043"
+      },
+      "tags": [
+        "AI",
+        "Privacy"
+      ],
+      "hot_score": 0.38
+    },
+    {
+      "title_en": "Trump administration orders dismantling of the U.S. Forest Service",
+      "url": "https://www.hatchmag.com/articles/trump-administration-orders-dismantling-us-forest-service/7716263",
+      "title_zh": "特朗普政府下令解散美国林务局",
+      "created_display": "Created: Apr 08, 2026 / 18:02 PT",
+      "image_url": "http://www.hatchmag.com/sites/default/files/styles/extra-large/public/field/image/55042899525_c4226987f5_6k.jpg",
+      "summary_en": "An allegation that the Trump administration ordered dismantling the U.S. Forest Service has circulated, raising questions about the future of federal land management and wildfire response. If true, it would represent a sweeping reorganization with wide-ranging implications for conservation, federal staffing, and land-use data. The piece places that claim in the context of ongoing political battles over environmental policy.",
+      "summary_zh": "有传言称特朗普政府下令解散美国林务局，涉及联邦林地管理与野火应对等议题。若为真，这将标志一次大规模的政府重组，影响环保、人员编制与林地数据等方面。文中将此事置于持续的环境政策政治博弈之中。",
+      "hn": {
+        "id": 47698132,
+        "type": "story",
+        "by": "dxs",
+        "score": 222,
+        "descendants": 51,
+        "time": 1775696523,
+        "comments_url": "https://news.ycombinator.com/item?id=47698132"
+      },
+      "tags": [
+        "Politics"
+      ],
+      "hot_score": 0.31
+    },
+    {
+      "title_en": "Newly created Polymarket accounts win big on well-timed Iran ceasefire bets",
+      "url": "https://www.theguardian.com/business/2026/apr/08/polymarket-trump-us-iran-ceasefire",
+      "title_zh": "Polymarket 新账户在伊朗停火预测中大赚一笔",
+      "created_display": "Created: Apr 08, 2026 / 17:55 PT",
+      "image_url": "https://i.guim.co.uk/img/media/88c0b78fc85aad0a4dd3f901896131833db0b9b9/472_0_4720_3776/master/4720.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9d1130f0ce841ff4106bccd4569fa83f",
+      "summary_en": "New Polymarket accounts scored big on a precisely timed Iran ceasefire bet, underscoring how prediction markets can deliver rapid windfalls for timely bets. The story highlights liquidity, risk, and regulatory scrutiny in prediction markets.",
+      "summary_zh": "新创建的 Polymarket 帐户在伊朗停火预测中的时机下注获得了不小的收益，凸显预测市场对及时下注的快速回报潜力。报道也揭示了这类市场的流动性、风险及监管审查的议题。",
+      "hn": {
+        "id": 47698082,
+        "type": "story",
+        "by": "mitchbob",
+        "score": 164,
+        "descendants": 139,
+        "time": 1775696146,
+        "comments_url": "https://news.ycombinator.com/item?id=47698082"
+      },
+      "tags": [
+        "Finance",
+        "Politics"
+      ],
+      "hot_score": 0.23
+    },
+    {
+      "title_en": "Muse Spark – Meta Superintelligence Labs",
+      "url": "https://meta.ai/",
+      "title_zh": "Muse Spark — Meta 超级智能实验室",
+      "created_display": "Created: Apr 08, 2026 / 09:05 PT",
+      "image_url": null,
+      "summary_en": "Meta unveils Muse Spark, a project under its Superintelligence Labs aimed at pushing toward more capable, adaptable AI systems. The initiative signals Meta's continued push into AI agents and tool use, potentially shaping how future models orchestrate tasks.",
+      "summary_zh": "Meta 公布 Muse Spark，隶属超级智能实验室，目标是推动更强大、灵活的 AI 系统。该计划表明 Meta 将继续发展 AI 代理与工具整合的路线，或影响未来模型的任务编排方式。",
+      "hn": {
+        "id": 47692102,
+        "type": "story",
+        "by": "snowman647",
+        "score": 192,
+        "descendants": 5,
+        "time": 1775664354,
+        "comments_url": "https://news.ycombinator.com/item?id=47692102"
+      },
+      "tags": [
+        "AI"
+      ],
+      "hot_score": 0.18
+    },
+    {
+      "title_en": "Claude Managed Agents",
+      "url": "https://claude.com/blog/claude-managed-agents",
+      "title_zh": "Claude 管理型代理",
+      "created_display": "Created: Apr 08, 2026 / 10:04 PT",
+      "image_url": "https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/69d6874d9013e4890f253b80_managed-agents-og.jpg",
+      "summary_en": "Claude introduces Managed Agents, a feature that lets the AI orchestrate multiple tools and tasks autonomously with safety guardrails. This enables more complex, end-to-end workflows without constant human nudges, raising benefits for automation but also challenges around reliability, safety, and governance.",
+      "summary_zh": "Claude 推出管理型代理功能，允许 AI 在受控条件下自动编排多种工具与任务。该特性可实现更复杂的端到端自动化，提升生产力，同时也带来可靠性、安全性与治理方面的挑战。",
+      "hn": {
+        "id": 47693047,
+        "type": "story",
+        "by": "adocomplete",
+        "score": 167,
+        "descendants": 84,
+        "time": 1775667880,
+        "comments_url": "https://news.ycombinator.com/item?id=47693047"
+      },
+      "tags": [
+        "AI",
+        "Security"
+      ],
+      "hot_score": 0.17
+    },
+    {
+      "title_en": "Iran demands Bitcoin fees for ships passing Hormuz during ceasefire",
+      "url": "https://www.ft.com/content/02aefac4-ea62-48db-9326-c0da373b11b8",
+      "title_zh": "伊朗在停火期间要求通过霍尔木兹海峡的船只以比特币支付通行费",
+      "created_display": "Created: Apr 08, 2026 / 07:06 PT",
+      "image_url": null,
+      "summary_en": "Iran reportedly demands payments in Bitcoin for ships transiting Hormuz during a ceasefire, highlighting how states may experiment with crypto-enabled sanctions management. The move would complicate sanctions enforcement and reveal crypto as a potential tool for circumventing traditional financial channels. It raises questions about how policymakers monitor and regulate crypto in high-stakes geopolitical contexts.",
+      "summary_zh": "据报道，伊朗在停火期间要求通过霍尔木兹海峡的船只以比特币支付通行费，显示出国家层面在制裁合规中的新探索。若属实，这将增加对传统金融体系的依赖被绕开的风險，也引发对加密货币跨境支付与监管的关注。",
+      "hn": {
+        "id": 47690434,
+        "type": "story",
+        "by": "pavlov",
+        "score": 172,
+        "descendants": 272,
+        "time": 1775657208,
+        "comments_url": "https://news.ycombinator.com/item?id=47690434"
+      },
+      "tags": [
+        "Finance",
+        "Politics"
+      ],
+      "hot_score": 0.15
+    }
+  ]
+}

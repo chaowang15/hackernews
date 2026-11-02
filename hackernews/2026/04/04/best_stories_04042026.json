@@ -1,0 +1,1174 @@
+{
+  "meta": {
+    "mode": "best",
+    "source": "https://news.ycombinator.com/",
+    "api": "https://github.com/HackerNews/API",
+    "count_requested": 50,
+    "count_written": 50,
+    "reused_same_day": 0,
+    "reused_cross_day": 20,
+    "new_llm_enriched": 11,
+    "scrape_time_display": "06:06, April 05, 2026 (PDT)",
+    "timezone": "America/Los_Angeles",
+    "date_dir": "2026/04/04",
+    "content_date": "2026-04-04",
+    "run_time_local": "06:06, April 05, 2026 (PDT)",
+    "run_time_utc": "2026-04-05 13:06:33 UTC",
+    "incremental": true,
+    "stories_max": 50,
+    "hot_score_time_utc": "2026-04-05 13:07:26 UTC"
+  },
+  "items": [
+    {
+      "title_en": "The threat is comfortable drift toward not understanding what you're doing",
+      "url": "https://ergosphere.blog/posts/the-machines-are-fine/",
+      "title_zh": "威胁来自对所做之事逐渐变得难以理解的舒适漂移",
+      "created_display": "Created: Apr 05, 2026 / 02:57 PT",
+      "image_url": null,
+      "summary_en": "A comfortable drift toward opaque automation can leave operators unaware of what their systems are actually doing. The piece argues that as tooling grows more capable, critical thinking and verification risk being outsourced to machines. Maintaining explicit mental models and observability is essential to reliability and security.",
+      "summary_zh": "对自动化日益隐蔽性的舒适感可能让人对系统实际在做什么失去清晰认知。文章强调，工具越强大，批判性思维与验证越易外包给机器，需保持可观测性与清晰的认知模型以维护可靠性与安全。",
+      "hn": {
+        "id": 47647788,
+        "type": "story",
+        "by": "zaikunzhang",
+        "score": 189,
+        "descendants": 117,
+        "time": 1775383045,
+        "comments_url": "https://news.ycombinator.com/item?id=47647788"
+      },
+      "hot_score": 9.78,
+      "tags": [
+        "Programming",
+        "Security"
+      ]
+    },
+    {
+      "title_en": "Talk like caveman",
+      "url": "https://github.com/JuliusBrussee/caveman",
+      "title_zh": "像穴居人一样说话",
+      "created_display": "Created: Apr 05, 2026 / 01:56 PT",
+      "image_url": "https://opengraph.githubassets.com/1d7bf8fe8725239cdaa7f1c2bfe45aa7596d5dba1021249aaabfeed743c56236/JuliusBrussee/caveman",
+      "summary_en": "A playful project that renders text in a caveman-inspired style, spotlighting how ultra-simplified language affects precision and comprehension. It serves as a testing ground for language design, prompts, and AI interactions.",
+      "summary_zh": "一个有趣的项目把文字改成穴居人风格，聚焦极简语言如何影响表达的精准度与理解。它成为测试语言设计、提示语和人工智能交互的实验场。",
+      "hn": {
+        "id": 47647455,
+        "type": "story",
+        "by": "tosh",
+        "score": 172,
+        "descendants": 117,
+        "time": 1775379378,
+        "comments_url": "https://news.ycombinator.com/item?id=47647455"
+      },
+      "hot_score": 6.43,
+      "tags": [
+        "AI",
+        "Design"
+      ]
+    },
+    {
+      "title_en": "How many products does Microsoft have named 'Copilot'?",
+      "url": "https://teybannerman.com/strategy/2026/03/31/how-many-microsoft-copilot-are-there.html",
+      "title_zh": "微软有多少个以 Copilot 命名的产品？",
+      "created_display": "Created: Apr 04, 2026 / 12:39 PT",
+      "image_url": "https://public.flourish.studio/visualisation/28304418/thumbnail",
+      "summary_en": "Microsoft has deployed the Copilot name on a wide range of products, creating branding overlap across consumer and developer tools. This underscores how single-brand naming can complicate product differentiation and user expectations in a sprawling software portfolio.",
+      "summary_zh": "微软将 Copilot 名称用于大量产品，导致品牌混用，令用户对不同产品的功能与定位产生混淆。这反映出在庞大软件生态中，单一命名策略如何影响产品区分和用户认知。",
+      "hn": {
+        "id": 47642569,
+        "type": "story",
+        "by": "gpi",
+        "score": 700,
+        "descendants": 330,
+        "time": 1775331583,
+        "comments_url": "https://news.ycombinator.com/item?id=47642569"
+      },
+      "tags": [
+        "Business",
+        "AI"
+      ],
+      "hot_score": 3.34
+    },
+    {
+      "title_en": "Show HN: A game where you build a GPU",
+      "url": "https://jaso1024.com/mvidia/",
+      "title_zh": "Show HN：一个组装显卡的游戏",
+      "created_display": "Created: Apr 04, 2026 / 09:45 PT",
+      "image_url": null,
+      "summary_en": "An interactive game where players design and assemble a GPU, exploring how architectural choices affect performance. It demonstrates how approachable hardware engineering concepts can be gamified to educate and inspire tinkering.",
+      "summary_zh": "玩家在游戏中设计并组装显卡，探索架构选择如何影响性能。该项目展示了将硬件工程概念以游戏化方式呈现的潜力，能激发学习和动手兴趣。",
+      "hn": {
+        "id": 47640728,
+        "type": "story",
+        "by": "Jaso1024",
+        "score": 813,
+        "descendants": 166,
+        "time": 1775321154,
+        "comments_url": "https://news.ycombinator.com/item?id=47640728"
+      },
+      "tags": [
+        "Show HN",
+        "Hardware",
+        "Gaming"
+      ],
+      "hot_score": 3.02
+    },
+    {
+      "title_en": "Lisette a little language inspired by Rust that compiles to Go",
+      "url": "https://lisette.run/",
+      "title_zh": "Lisette：一种受 Rust 启发、可编译成 Go 的小语言",
+      "created_display": "Created: Apr 04, 2026 / 23:57 PT",
+      "image_url": "https://lisette.run/og.png",
+      "summary_en": "Lisette is a small language inspired by Rust that compiles to Go, aiming to give developers safer patterns while staying within the Go ecosystem. It demonstrates how language layering can offer stronger guarantees without sacrificing practicality.",
+      "summary_zh": "Lisette 是一种受 Rust 启发、可编译成 Go 的小型语言，旨在在 Go 生态中为开发者提供更安全的编程模式。它展示了通过语言分层实现更强保证的可行性。",
+      "hn": {
+        "id": 47646843,
+        "type": "story",
+        "by": "jspdown",
+        "score": 129,
+        "descendants": 61,
+        "time": 1775372239,
+        "comments_url": "https://news.ycombinator.com/item?id=47646843"
+      },
+      "hot_score": 2.92,
+      "tags": [
+        "Programming"
+      ]
+    },
+    {
+      "title_en": "Author of \"Careless People\" banned from saying anything negative about Meta",
+      "url": "https://www.thetimes.com/uk/technology-uk/article/sarah-wynn-williams-careless-people-meta-nrffdfpmf",
+      "title_zh": "《Careless People》作者被禁言，不能对 Meta 提出负评",
+      "created_display": "Created: Apr 04, 2026 / 07:48 PT",
+      "image_url": "https://www.thetimes.com/imageserver/image/80f8b50f-9316-4fbc-80f9-c489aead39c8.jpg?strip=all&format=webp&crop=7979px%2C4488px%2C0px%2C421px&resize=1200",
+      "summary_en": "An author reportedly faces restrictions on saying anything negative about Meta due to a non-disparagement clause. The case highlights tensions around platform power, publishing rights, and freedom of expression in tech culture.",
+      "summary_zh": "据称该作者因“不得贬损”条款被限制公开批评 Meta。这起事件凸显了平台权力、出版权利与科技领域言论自由之间的紧张关系。",
+      "hn": {
+        "id": 47639524,
+        "type": "story",
+        "by": "macleginn",
+        "score": 806,
+        "descendants": 520,
+        "time": 1775314106,
+        "comments_url": "https://news.ycombinator.com/item?id=47639524"
+      },
+      "tags": [
+        "Culture",
+        "Legal"
+      ],
+      "hot_score": 2.58
+    },
+    {
+      "title_en": "AWS engineer reports PostgreSQL perf halved by Linux 7.0, fix may not be easy",
+      "url": "https://www.phoronix.com/news/Linux-7.0-AWS-PostgreSQL-Drop",
+      "title_zh": "AWS 工程师称 Linux 7.0 让 PostgreSQL 性能减半，修复或许难易",
+      "created_display": "Created: Apr 04, 2026 / 17:13 PT",
+      "image_url": "https://www.phoronix.net/image.php?id=2026&image=pgbench_regression",
+      "summary_en": "An AWS engineer notes PostgreSQL performance degradation after upgrading to Linux 7.0, claiming throughput halved.",
+      "summary_zh": "AWS 工程师指出将 PostgreSQL 的性能在 Linux 7.0 上降至约一半，修复看起来并不容易。文章讨论潜在的内核与 I/O 调度等因素，以及需要的调优路径。",
+      "hn": {
+        "id": 47644864,
+        "type": "story",
+        "by": "crcastle",
+        "score": 335,
+        "descendants": 99,
+        "time": 1775348035,
+        "comments_url": "https://news.ycombinator.com/item?id=47644864"
+      },
+      "tags": [
+        "Programming",
+        "DevOps",
+        "Data"
+      ],
+      "hot_score": 2.58
+    },
+    {
+      "title_en": "German implementation of eIDAS will require an Apple/Google account to function",
+      "url": "https://bmi.usercontent.opencode.de/eudi-wallet/wallet-development-documentation-public/latest/architecture-concept/06-mobile-devices/02-mdvm/",
+      "title_zh": "德国对 eIDAS 的实施将需要 Apple/Google 账户才能运作",
+      "created_display": "Created: Apr 04, 2026 / 15:57 PT",
+      "image_url": null,
+      "summary_en": "Germany's eIDAS rollout may hinge on Apple/Google account authentication, raising privacy and control questions for digital identity systems. The piece analyzes architectural trade-offs and user impact.",
+      "summary_zh": "德国对 eIDAS 的实施可能需要使用 Apple/Google 的账户进行认证，引发隐私与数字身份控制方面的讨论。分析了架构权衡与对用户的影响。",
+      "hn": {
+        "id": 47644406,
+        "type": "story",
+        "by": "DyslexicAtheist",
+        "score": 372,
+        "descendants": 336,
+        "time": 1775343464,
+        "comments_url": "https://news.ycombinator.com/item?id=47644406"
+      },
+      "tags": [
+        "Privacy",
+        "Politics"
+      ],
+      "hot_score": 2.48
+    },
+    {
+      "title_en": "Introduction to Computer Music (2009) [pdf]",
+      "url": "https://composerprogrammer.com/introductiontocomputermusic.pdf",
+      "title_zh": "计算机音乐入门（PDF）",
+      "created_display": "Created: Apr 04, 2026 / 18:54 PT",
+      "image_url": null,
+      "summary_en": "This PDF primer covers core concepts in computer music, including synthesis, digital signal processing, and algorithmic composition workflows. It’s a practical resource for programmers curious about bridging coding with sound design.",
+      "summary_zh": "PDF 入门资料覆盖计算机音乐的核心概念，包括合成、数字信号处理与算法作曲工作流。对希望将编程与声音设计结合的读者来说，这是一个实用资源。",
+      "hn": {
+        "id": 47645432,
+        "type": "story",
+        "by": "luu",
+        "score": 176,
+        "descendants": 54,
+        "time": 1775354069,
+        "comments_url": "https://news.ycombinator.com/item?id=47645432"
+      },
+      "tags": [
+        "Programming",
+        "Education"
+      ],
+      "hot_score": 1.68
+    },
+    {
+      "title_en": "Apple approves driver that lets Nvidia eGPUs work with Arm Macs",
+      "url": "https://www.theverge.com/tech/907003/apple-approves-driver-that-lets-nvidia-egpus-work-with-arm-macs",
+      "title_zh": "Apple 批准驱动让 Nvidia eGPU 在 Arm Mac 上工作",
+      "created_display": "Created: Apr 04, 2026 / 09:16 PT",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/HEy9-blbAAABy-J.jpg?quality=90&strip=all&crop=0%2C35.021989528796%2C100%2C52.356020942408&w=1200",
+      "summary_en": "Apple approved a driver enabling Nvidia external GPUs to accelerate Arm-based Macs, expanding hardware options for power users. This marks a notable shift in the Mac ecosystem's flexibility.",
+      "summary_zh": "苹果批准一款驱动，使 Nvidia 外接显卡在 Arm 架构的 Mac 上工作，扩展了高性能用户的硬件选项。这标志着 Mac 生态在硬件灵活性方面的一次重要转变。",
+      "hn": {
+        "id": 47640380,
+        "type": "story",
+        "by": "naves",
+        "score": 450,
+        "descendants": 204,
+        "time": 1775319370,
+        "comments_url": "https://news.ycombinator.com/item?id=47640380"
+      },
+      "tags": [
+        "Hardware"
+      ],
+      "hot_score": 1.61
+    },
+    {
+      "title_en": "Embarrassingly simple self-distillation improves code generation",
+      "url": "https://arxiv.org/abs/2604.01193",
+      "title_zh": "苹果：极其简单的自蒸馏提升代码生成",
+      "created_display": "Created: Apr 04, 2026 / 03:26 PT",
+      "image_url": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+      "summary_en": "A simple self-distillation technique improves code generation quality in experiments, suggesting a cheap method to boost model performance without large compute overhead. It could be applied to training or inference of code assistants.",
+      "summary_zh": "研究显示一种极其简单的自蒸馏方法就能提升代码生成质量，成本低且易于在现有模型上实现。该方法对提升代码生成能力有潜在意义，可能为改进代码助手和编程相关任务提供可行路径。",
+      "hn": {
+        "id": 47637757,
+        "type": "story",
+        "by": "Anon84",
+        "score": 611,
+        "descendants": 184,
+        "time": 1775298381,
+        "comments_url": "https://news.ycombinator.com/item?id=47637757"
+      },
+      "tags": [
+        "AI"
+      ],
+      "hot_score": 1.45
+    },
+    {
+      "title_en": "Tell HN: Anthropic no longer allowing Claude Code subscriptions to use OpenClaw",
+      "url": "https://news.ycombinator.com/item?id=47633396",
+      "title_zh": "告知 HN：Anthropic 不再允许 Claude Code 订阅使用 OpenClaw",
+      "created_display": "Created: Apr 03, 2026 / 15:55 PT",
+      "image_url": "https://news.ycombinator.com/y18.svg",
+      "summary_en": "Anthropic has restricted Claude Code subscriptions from using OpenClaw, cutting off a popular integration point for code tooling. The move highlights how policy controls can disrupt developer workflows and force users to renegotiate tools or licenses.",
+      "summary_zh": "Anthropic 已限制 Claude Code 订阅无法使用 OpenClaw，取消了与该工具的集成入口。此举凸显平台策略对开发者工作流的影响，用户可能需要重新选择工具或调整授权方式。",
+      "hn": {
+        "id": 47633396,
+        "type": "story",
+        "by": "firloop",
+        "score": 1050,
+        "descendants": 801,
+        "time": 1775256924,
+        "comments_url": "https://news.ycombinator.com/item?id=47633396"
+      },
+      "tags": [
+        "AI",
+        "Legal"
+      ],
+      "hot_score": 1.36
+    },
+    {
+      "title_en": "German men 18-45 need military permit for extended stays abroad",
+      "url": "https://www.dw.com/en/german-men-need-military-permit-for-extended-stays-abroad/a-76662677",
+      "title_zh": "德国18-45岁男性出国长期居留需军事许可",
+      "created_display": "Created: Apr 04, 2026 / 08:39 PT",
+      "image_url": "https://static.dw.com/image/76525081_6.jpg",
+      "summary_en": "Germany now requires men aged 18-45 to obtain a military permit before staying abroad long-term. The rule signals ongoing efforts to monitor potential military obligations and could complicate study, work, and travel plans for young men. It raises questions about enforcement, privacy, and how broadly the term 'extended stay' is defined.",
+      "summary_zh": "德国规定18-45岁男性在海外长期居留须取得军事许可，此举反映对潜在军事义务的监管。新规可能影响留学、工作与旅行计划，并引发对执法边界、隐私与‘长期停留’界定的讨论。",
+      "hn": {
+        "id": 47639976,
+        "type": "story",
+        "by": "L_226",
+        "score": 376,
+        "descendants": 662,
+        "time": 1775317150,
+        "comments_url": "https://news.ycombinator.com/item?id=47639976"
+      },
+      "hot_score": 1.28,
+      "tags": [
+        "Politics",
+        "Legal",
+        "Privacy"
+      ]
+    },
+    {
+      "title_en": "Artemis II crew take “spectacular” image of Earth",
+      "url": "https://www.bbc.com/news/articles/ce8jzr423p9o",
+      "title_zh": "阿尔忒弥斯二号任务组拍出壮观的地球照片",
+      "created_display": "Created: Apr 03, 2026 / 12:35 PT",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/383b/live/6c4ec320-2f7b-11f1-934f-036468834728.jpg",
+      "summary_en": "The Artemis II crew captured a spectacular image of Earth from near-space, showcasing our planet in a breathtaking vantage point during the mission phase. The shot underscores NASA's focus on crewed lunar exploration and the growing role of high-quality space photography in public engagement. It also highlights the technical readiness required for long-duration deep-space missions.",
+      "summary_zh": "阿尔忒弥斯二号任务组在近空间阶段拍摄出地球的壮观影像，从独特视角展现了这颗行星的美丽与脆弱。这张照片体现了 NASA 对载人月球探索的持续推进，以及高质量太空影像在公众参与中的作用，同时也凸显了支撑长期深空任务的技术准备。",
+      "hn": {
+        "id": 47631118,
+        "type": "story",
+        "by": "andsoitis",
+        "score": 1045,
+        "descendants": 358,
+        "time": 1775244902,
+        "comments_url": "https://news.ycombinator.com/item?id=47631118"
+      },
+      "tags": [
+        "Space",
+        "Science"
+      ],
+      "hot_score": 1.17
+    },
+    {
+      "title_en": "Shooting down ideas is not a skill",
+      "url": "https://scottlawsonbc.com/post/shooting-down-ideas",
+      "title_zh": "否定想法并非一项技能",
+      "created_display": "Created: Apr 04, 2026 / 17:42 PT",
+      "image_url": "https://scottlawsonbc.com/static/shooting-down-ideas-02.jpeg",
+      "summary_en": "The author argues that simply shooting down ideas isn't a real skill and can stifle creativity. Instead, constructive critique and structured evaluation help teams test concepts without killing momentum. The piece advocates for better frameworks to discuss and improve ideas.",
+      "summary_zh": "作者认为简单地否定想法并不是真正的技能，反而会压抑创造力。应通过建设性批评和结构化评估来测试理念，以免扼杀进展。文章倡导采用更有效的框架来讨论与改进想法。",
+      "hn": {
+        "id": 47645037,
+        "type": "story",
+        "by": "zdw",
+        "score": 144,
+        "descendants": 151,
+        "time": 1775349762,
+        "comments_url": "https://news.ycombinator.com/item?id=47645037"
+      },
+      "hot_score": 1.17,
+      "tags": [
+        "Culture",
+        "Career"
+      ]
+    },
+    {
+      "title_en": "Nvim-treesitter (13K+ Stars) is Archived",
+      "url": "https://github.com/nvim-treesitter/nvim-treesitter/discussions/8627",
+      "title_zh": "Nvim-treesitter（13K+ 星标）被归档",
+      "created_display": "Created: Apr 04, 2026 / 16:39 PT",
+      "image_url": "https://opengraph.githubassets.com/dcf84be732789a099b6cd1735e4214e68bc4ff4771d5515ad788a94bf8ec6212/nvim-treesitter/nvim-treesitter/discussions/8627",
+      "summary_en": "The popular Neovim plugin nvim-treesitter has been archived, signaling potential changes in maintenance or project direction. The decision affects users relying on language parsing and syntax highlighting, prompting migrations or forks.",
+      "summary_zh": "nvim-treesitter 虽然拥有超过 1.3 万星，却被归档，意味着项目方向或维护策略可能改变。依赖其语言解析和语法高亮的用户需要考虑迁移或分叉。",
+      "hn": {
+        "id": 47644667,
+        "type": "story",
+        "by": "RohanAdwankar",
+        "score": 136,
+        "descendants": 56,
+        "time": 1775345984,
+        "comments_url": "https://news.ycombinator.com/item?id=47644667"
+      },
+      "tags": [
+        "Programming",
+        "Open Source"
+      ],
+      "hot_score": 0.98
+    },
+    {
+      "title_en": "Advice to young people, the lies I tell myself (2024)",
+      "url": "https://jxnl.co/writing/2024/06/01/advice-to-young-people/",
+      "title_zh": "给年轻人的忠告：2024 年我对自己撒的谎",
+      "created_display": "Created: Apr 04, 2026 / 16:18 PT",
+      "image_url": "https://jxnl.co/assets/images/social/writing/2024/06/01/advice-to-young-people.png",
+      "summary_en": "A reflective essay offering blunt career and life guidance to young people, while naming the personal myths the author still believes. It blends realism with ambition, encouraging readers to test big ideas against evidence.",
+      "summary_zh": "这是一篇反思性的文章，直言不讳地向年轻人提供人生与职业建议，并揭示作者对自我欺骗的认知。它在现实主义与雄心之间寻求平衡，鼓励用证据检验大想法。",
+      "hn": {
+        "id": 47644566,
+        "type": "story",
+        "by": "mooreds",
+        "score": 126,
+        "descendants": 37,
+        "time": 1775344734,
+        "comments_url": "https://news.ycombinator.com/item?id=47644566"
+      },
+      "tags": [
+        "Career"
+      ],
+      "hot_score": 0.87
+    },
+    {
+      "title_en": "LLM Wiki – example of an \"idea file\"",
+      "url": "https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f",
+      "title_zh": "LLM Wiki – idea file 的示例",
+      "created_display": "Created: Apr 04, 2026 / 09:57 PT",
+      "image_url": "https://github.githubassets.com/assets/gist-og-image-54fd7dc0713e.png",
+      "summary_en": "Karpathy's LLM Wiki presents an 'idea file' blueprint to organize prompts, snippets, and evolving strategies for working with large language models. It offers practical patterns for building a personal knowledge base to speed AI-centric development.",
+      "summary_zh": "Karpathy 的 LLM Wiki 将“idea file”方法用于整理提示、片段和应对大模型的策略，帮助建立可持续的知识库以提升 AI 驱动的开发效率。",
+      "hn": {
+        "id": 47640875,
+        "type": "story",
+        "by": "tamnd",
+        "score": 228,
+        "descendants": 71,
+        "time": 1775321865,
+        "comments_url": "https://news.ycombinator.com/item?id=47640875"
+      },
+      "tags": [
+        "AI",
+        "Education"
+      ],
+      "hot_score": 0.86
+    },
+    {
+      "title_en": "Components of a Coding Agent",
+      "url": "https://magazine.sebastianraschka.com/p/components-of-a-coding-agent",
+      "title_zh": "编码代理的组成要素",
+      "created_display": "Created: Apr 04, 2026 / 06:16 PT",
+      "image_url": "https://substackcdn.com/image/fetch/$s_!_g0S!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F49b97718-57f4-4977-99c8-8ad5c4d32af3_1548x862.png",
+      "summary_en": "An exposition on the essential components of a coding agent, including planning, tool usage, memory, and evaluation. The piece argues for modular design and robust interfaces to make AI copilots effective in real coding tasks.",
+      "summary_zh": "阐述了编码代理的基本组成要素，包括计划、工具使用、记忆和评估。强调模块化设计和稳健接口对提升 AI 助手在真实编程任务中的效果的重要性。",
+      "hn": {
+        "id": 47638810,
+        "type": "story",
+        "by": "MindGods",
+        "score": 258,
+        "descendants": 80,
+        "time": 1775308593,
+        "comments_url": "https://news.ycombinator.com/item?id=47638810"
+      },
+      "tags": [
+        "AI",
+        "Programming"
+      ],
+      "hot_score": 0.74
+    },
+    {
+      "title_en": "The FAA’s flight restriction for drones is an attempt to criminalize filming ICE",
+      "url": "https://www.eff.org/deeplinks/2026/04/faas-temporary-flight-restriction-drones-blatant-attempt-criminalize-filming-ice",
+      "title_zh": "FAA 的无人机飞行限制试图将拍摄 ICE 刑事化",
+      "created_display": "Created: Apr 03, 2026 / 16:56 PT",
+      "image_url": "https://www.eff.org/files/banner_library/drone-happy.png",
+      "summary_en": "The FAA's temporary drone flight restriction near certain facilities has drawn criticism for appearing to criminalize filming ICE activities and limiting First Amendment coverage of law enforcement.",
+      "summary_zh": "针对特定区域的无人机飞行限制引发担忧，批评者认为这等举措将拍摄 ICE 的行为刑事化并削弱对执法活动的监督报道。",
+      "hn": {
+        "id": 47633947,
+        "type": "story",
+        "by": "detaro",
+        "score": 536,
+        "descendants": 181,
+        "time": 1775260592,
+        "comments_url": "https://news.ycombinator.com/item?id=47633947"
+      },
+      "tags": [
+        "Politics",
+        "Legal"
+      ],
+      "hot_score": 0.73
+    },
+    {
+      "title_en": "Iranian missile blitz takes down AWS data centers in Bahrain and Dubai",
+      "url": "https://www.tomshardware.com/tech-industry/iranian-missile-blitz-takes-down-aws-data-centers-in-bahrain-and-dubai-amazon-declares-hard-down-status-for-multiple-zones",
+      "title_zh": "伊朗导弹袭击波及巴林与迪拜的 AWS 数据中心",
+      "created_display": "Created: Apr 04, 2026 / 11:23 PT",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/83tohMm46WQCYhhbLZ9CT6-2045-80.jpg",
+      "summary_en": "Missile strikes reportedly hit AWS data centers in Bahrain and Dubai, triggering hard-down statuses across multiple zones. The incident underscores physical risk to cloud infrastructure in volatile regions and how providers respond to regional outages.",
+      "summary_zh": "据称伊朗导弹袭击了巴林与迪拜的 AWS 数据中心，导致多个区域进入硬降级状态。事件凸显在动荡地区云基础设施面临的物理风险，以及云服务商在区域性中断时的应急响应。",
+      "hn": {
+        "id": 47641788,
+        "type": "story",
+        "by": "lschueller",
+        "score": 169,
+        "descendants": 150,
+        "time": 1775327035,
+        "comments_url": "https://news.ycombinator.com/item?id=47641788"
+      },
+      "hot_score": 0.72,
+      "tags": [
+        "Security",
+        "Business",
+        "DevOps"
+      ]
+    },
+    {
+      "title_en": "Delve removed from Y Combinator",
+      "url": "https://www.ycombinator.com/companies/delve",
+      "title_zh": "Delve 已从 YC 移除",
+      "created_display": "Created: Apr 03, 2026 / 18:37 PT",
+      "image_url": null,
+      "summary_en": "Delve has been removed from Y Combinator's portfolio, signaling changes in YC's backing or evaluation criteria. For startups and investors, it highlights the fluid nature of accelerator affiliations and the importance of diversification.",
+      "summary_zh": "Delve 已不再属于 Y Combinator 的投资组合，表明 YC 的扶持标准或组合策略发生变化。这对初创公司和投资人意味着加速器关系并非一成不变，分散风险更为重要。",
+      "hn": {
+        "id": 47634690,
+        "type": "story",
+        "by": "carabiner",
+        "score": 481,
+        "descendants": 293,
+        "time": 1775266622,
+        "comments_url": "https://news.ycombinator.com/item?id=47634690"
+      },
+      "tags": [
+        "Startups"
+      ],
+      "hot_score": 0.7
+    },
+    {
+      "title_en": "When legal sports betting surges, so do Americans' financial problems",
+      "url": "https://www.npr.org/2026/04/04/nx-s1-5773354/legal-sports-betting-research-credit-bankruptcy",
+      "title_zh": "合法体育博彩激增也伴随美国产生的财务问题",
+      "created_display": "Created: Apr 04, 2026 / 08:14 PT",
+      "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5037x2833+0+262/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F1d%2F75%2F55a395ee403e89e2c4c282794138%2Fap26022534309429.jpg",
+      "summary_en": "Research links surges in legal sports betting to rising financial difficulties among Americans, including bankruptcy risk and debt. It raises questions about consumer protections and responsible gambling policies.",
+      "summary_zh": "研究显示合法体育博彩激增与美国人财务困难加剧相关，包括破产风险和债务问题，促使我们思考消费者保护与理性博彩政策。",
+      "hn": {
+        "id": 47639727,
+        "type": "story",
+        "by": "pseudolus",
+        "score": 204,
+        "descendants": 133,
+        "time": 1775315646,
+        "comments_url": "https://news.ycombinator.com/item?id=47639727"
+      },
+      "tags": [
+        "Finance",
+        "Politics",
+        "Legal"
+      ],
+      "hot_score": 0.67
+    },
+    {
+      "title_en": "Show HN: I built a frontpage for personal blogs",
+      "url": "https://text.blogosphere.app/",
+      "title_zh": "Show HN：我为个人博客搭建了一个前端首页",
+      "created_display": "Created: Apr 03, 2026 / 05:33 PT",
+      "image_url": "https://text.blogosphere.app/og.png",
+      "summary_en": "A compact, customizable front page that aggregates posts from individual blogs into a single, readable landing. It demonstrates how a focused, self-hosted homepage can replace generic blogrolls and improve reader discovery.",
+      "summary_zh": "作者为个人博客制作了一个前端首页，能把多篇博客的内容聚合在一个整洁、快速的登陆页上。此举展示了轻量、可自托管的个人站点在读者发现体验上的潜在优势。",
+      "hn": {
+        "id": 47625952,
+        "type": "story",
+        "by": "ramkarthikk",
+        "score": 760,
+        "descendants": 190,
+        "time": 1775219625,
+        "comments_url": "https://news.ycombinator.com/item?id=47625952"
+      },
+      "tags": [
+        "Show HN",
+        "Web"
+      ],
+      "hot_score": 0.65
+    },
+    {
+      "title_en": "Some Unusual Trees",
+      "url": "https://thoughts.wyounas.com/p/some-unusual-trees",
+      "title_zh": "一些不寻常的树木",
+      "created_display": "Created: Apr 04, 2026 / 02:04 PT",
+      "image_url": "https://substackcdn.com/image/fetch/$s_!4EEp!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F865161c0-c57a-4d19-93b4-9b4a8af54142_1280x1920.jpeg",
+      "summary_en": "A survey of unusual trees from diverse habitats, highlighting odd growth forms, adaptation strategies, and ecological roles. The piece connects botanical quirks to larger questions about biodiversity and conservation.",
+      "summary_zh": "本文整理了各种不寻常的树木，聚焦独特的生长形态、适应策略以及在生态系统中的作用。通过这些树木的特征，揭示生物多样性与保护的重要性。",
+      "hn": {
+        "id": 47637287,
+        "type": "story",
+        "by": "simplegeek",
+        "score": 279,
+        "descendants": 82,
+        "time": 1775293459,
+        "comments_url": "https://news.ycombinator.com/item?id=47637287"
+      },
+      "tags": [
+        "Science",
+        "Education"
+      ],
+      "hot_score": 0.61
+    },
+    {
+      "title_en": "Oracle files H-1B visa petitions amid mass layoffs",
+      "url": "https://nationaltoday.com/us/tx/austin/news/2026/04/03/oracle-files-thousands-of-h-1b-visa-petitions-amid-mass-layoffs/",
+      "title_zh": "Oracle 在大规模裁员期间提交成千上万份 H-1B 签证申请",
+      "created_display": "Created: Apr 03, 2026 / 13:21 PT",
+      "image_url": "https://nationaltoday.com/wp-content/uploads/not-wordpress/2026/04/69cff13a331fe.jpg",
+      "summary_en": "Oracle filed thousands of H-1B visa petitions even as it cut workers, underscoring how tech giants balance layoffs with access to specialized talent. The filings may reflect plans to replace departing staff for critical projects or to maintain a ready pipeline of skilled engineers, drawing attention to immigration policies in the tech industry.",
+      "summary_zh": "Oracle 在裁员的同时提交数千份 H-1B 签证申请，凸显巨头在裁员与获取专业人才之间的权衡。相关申请或用于替换离职员工、保障关键项目的人才储备，引发对科技行业移民政策的关注。",
+      "hn": {
+        "id": 47631732,
+        "type": "story",
+        "by": "kklisura",
+        "score": 511,
+        "descendants": 306,
+        "time": 1775247683,
+        "comments_url": "https://news.ycombinator.com/item?id=47631732"
+      },
+      "tags": [
+        "Business",
+        "Legal"
+      ],
+      "hot_score": 0.59
+    },
+    {
+      "title_en": "F-15E jet shot down over Iran",
+      "url": "https://www.theguardian.com/world/2026/apr/03/us-fighter-jet-confirmed-shot-down-over-iran",
+      "title_zh": "F-15E 战斗机在伊朗上空被击落",
+      "created_display": "Created: Apr 03, 2026 / 09:00 PT",
+      "image_url": "https://i.guim.co.uk/img/media/482982697628386efabd0a787d9590da0690e8a1/0_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=71aa55243556fe4276e3975782e4c1c6",
+      "summary_en": "An F-15E was shot down over Iran, marking a significant escalation in regional tensions. The incident underscores the fragility of aviation assets in volatile zones and the risk of broader security spillovers. It will likely influence defense Posture and policy considerations.",
+      "summary_zh": "一架 F-15E 战斗机在伊朗上空被击落，标志着区域紧张局势的升级。此事件凸显在高风险地区维护航空资产的脆弱性与潜在的安全扩散风险，可能影响防务态势与政策取向。",
+      "hn": {
+        "id": 47628326,
+        "type": "story",
+        "by": "tjwds",
+        "score": 601,
+        "descendants": 1365,
+        "time": 1775232044,
+        "comments_url": "https://news.ycombinator.com/item?id=47628326"
+      },
+      "tags": [
+        "Security",
+        "Politics"
+      ],
+      "hot_score": 0.58
+    },
+    {
+      "title_en": "Why the most valuable things you know are things you cannot say",
+      "url": "https://deadneurons.substack.com/p/why-the-most-valuable-things-you",
+      "title_zh": "为什么你最宝贵的东西往往无法说出口",
+      "created_display": "Created: Apr 04, 2026 / 09:49 PT",
+      "image_url": null,
+      "summary_en": "Much of valuable knowledge lies in tacit understanding that's hard to articulate. The piece argues that articulating every insight can erode nuance, and that valuable insight often lies in what you infer rather than what you can formally write down. Embracing tacit knowledge can improve decision-making and design.",
+      "summary_zh": "宝贵的知识往往来自难以言说的默会理解。文章认为把所有洞见都写清楚会削弱细微之处，真正的价值常在推断与直觉之中。接受默会知识有助于提升决策与设计。",
+      "hn": {
+        "id": 47640775,
+        "type": "story",
+        "by": "nr378",
+        "score": 151,
+        "descendants": 51,
+        "time": 1775321380,
+        "comments_url": "https://news.ycombinator.com/item?id=47640775"
+      },
+      "hot_score": 0.56,
+      "tags": [
+        "Culture",
+        "Design"
+      ]
+    },
+    {
+      "title_en": "Show HN: sllm – Split a GPU node with other developers, unlimited tokens",
+      "url": "https://sllm.cloud",
+      "title_zh": "Show HN：sllm—与其他开发者分割一个 GPU 节点，无限令牌",
+      "created_display": "Created: Apr 04, 2026 / 08:18 PT",
+      "image_url": null,
+      "summary_en": "A platform that partitions a single GPU node among multiple developers, enabling shared AI workloads with generous token allowances. It lowers the barrier to experimenting with large models without owning multiple GPUs.",
+      "summary_zh": "一个平台将单个 GPU 节点分配给多名开发者，支持共享的 AI 工作负载和慷慨的令牌配额。降低了在没有多块 GPU 的情况下进行大模型试验的门槛。",
+      "hn": {
+        "id": 47639779,
+        "type": "story",
+        "by": "jrandolf",
+        "score": 165,
+        "descendants": 81,
+        "time": 1775315938,
+        "comments_url": "https://news.ycombinator.com/item?id=47639779"
+      },
+      "tags": [
+        "Show HN",
+        "AI",
+        "Hardware"
+      ],
+      "hot_score": 0.55
+    },
+    {
+      "title_en": "iNaturalist",
+      "url": "https://www.inaturalist.org/",
+      "title_zh": "iNaturalist 自然观测平台",
+      "created_display": "Created: Apr 03, 2026 / 10:22 PT",
+      "image_url": "https://static.inaturalist.org/sites/1-shareable_image.png?1573071871",
+      "summary_en": "iNaturalist enables crowdsourced biodiversity data from millions of users, driving research and conservation. Its open data catalog helps scientists track species distributions and ecological changes over time. The community-driven platform also highlights the value and challenges of citizen science data.",
+      "summary_zh": "iNaturalist 通过海量用户的群体观测，推动生物多样性研究与保护。开放数据目录帮助科学家跟踪物种分布与生态变化，提升研究与教育的可及性。社区驱动的模式同时也暴露了公民科学数据的质量与治理挑战。",
+      "hn": {
+        "id": 47629433,
+        "type": "story",
+        "by": "bookofjoe",
+        "score": 523,
+        "descendants": 133,
+        "time": 1775236940,
+        "comments_url": "https://news.ycombinator.com/item?id=47629433"
+      },
+      "tags": [
+        "Science",
+        "Data"
+      ],
+      "hot_score": 0.54
+    },
+    {
+      "title_en": "12k AI-generated blog posts added in a single commit",
+      "url": "https://github.com/OneUptime/blog/commit/30cd2384794c897d95aca77d173db44af51ca849",
+      "title_zh": "在一次提交中新增了12k AI生成的博客文章",
+      "created_display": "Created: Apr 04, 2026 / 09:45 PT",
+      "image_url": "https://opengraph.githubassets.com/6020e91f9a9f01c2c48c5c101115df56a9e5d0f86a9aca70924d93c40ce915bb/OneUptime/blog/commit/30cd2384794c897d95aca77d173db44af51ca849",
+      "summary_en": "An enormous commit adds 12,000 AI-generated blog posts, highlighting automation at scale and raising questions about quality, originality, and moderation. It underscores the tension between rapid content production and maintaining credible, useful documentation or SEO.",
+      "summary_zh": "一次提交新增了1.2万篇 AI 生成的博客文章，凸显自动化的规模化能力并引发关于质量、原创性与审核的讨论。此举映射出快速内容产出与维持可信、有用的文档或 SEO 之间的张力。",
+      "hn": {
+        "id": 47640722,
+        "type": "story",
+        "by": "noslop",
+        "score": 146,
+        "descendants": 145,
+        "time": 1775321131,
+        "comments_url": "https://news.ycombinator.com/item?id=47640722"
+      },
+      "hot_score": 0.54,
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "title_en": "Claude Code Found a Linux Vulnerability Hidden for 23 Years",
+      "url": "https://mtlynch.io/claude-code-found-linux-vulnerability/",
+      "title_zh": "Claude Code 发现隐藏了23年的 Linux 漏洞",
+      "created_display": "Created: Apr 03, 2026 / 16:46 PT",
+      "image_url": "https://mtlynch.io/claude-code-found-linux-vulnerability/model-effectiveness.png",
+      "summary_en": "A Linux vulnerability hidden in code paths for 23 years was uncovered by Claude Code. The write-up details the flaw, its potential impact, and how the fix changes kernel hardening and developer practices.",
+      "summary_zh": "Claude Code 发现了一处在 Linux 代码路径中长期隐藏的漏洞，存在了23年并现已披露。文章描述了漏洞类型、潜在影响以及修补要点，并讨论对内核强健性和开发实践的影响。",
+      "hn": {
+        "id": 47633855,
+        "type": "story",
+        "by": "eichin",
+        "score": 397,
+        "descendants": 252,
+        "time": 1775260011,
+        "comments_url": "https://news.ycombinator.com/item?id=47633855"
+      },
+      "tags": [
+        "Security",
+        "AI"
+      ],
+      "hot_score": 0.53
+    },
+    {
+      "title_en": "OpenClaw privilege escalation vulnerability",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-33579",
+      "title_zh": "OpenClaw 提权漏洞（CVE-2026-33579）",
+      "created_display": "Created: Apr 03, 2026 / 09:21 PT",
+      "image_url": "https://nvd.nist.gov/site-media/images/usbanner/us_flag_small.png",
+      "summary_en": "A privilege escalation vulnerability in OpenClaw could allow local attackers to obtain higher privileges. Users should patch and update affected installations to mitigate risk.",
+      "summary_zh": "OpenClaw 存在本地提权漏洞，潜在攻击者可提升权限。受影响环境需尽快打补丁以降低风险。",
+      "hn": {
+        "id": 47628608,
+        "type": "story",
+        "by": "kykeonaut",
+        "score": 504,
+        "descendants": 249,
+        "time": 1775233292,
+        "comments_url": "https://news.ycombinator.com/item?id=47628608"
+      },
+      "tags": [
+        "Security"
+      ],
+      "hot_score": 0.5
+    },
+    {
+      "title_en": "The Indie Internet Index – submit your favorite sites",
+      "url": "https://iii.social",
+      "title_zh": "Indie Internet 指数 – 提交你最喜欢的网站",
+      "created_display": "Created: Apr 04, 2026 / 07:18 PT",
+      "image_url": "https://iii.social/icon.png",
+      "summary_en": "A community-driven index encouraging submissions of indie, creator-owned sites, highlighting the resilient, edge of the web beyond big platforms. It serves as a curated discovery space for small, independent projects.",
+      "summary_zh": "一个由社区驱动的指数，鼓励提交独立、自创的网站，突出大平台之外网络边缘的活力。为小型独立项目提供一个精心策划的发现空间。",
+      "hn": {
+        "id": 47639291,
+        "type": "story",
+        "by": "freshman_dev",
+        "score": 163,
+        "descendants": 31,
+        "time": 1775312286,
+        "comments_url": "https://news.ycombinator.com/item?id=47639291"
+      },
+      "tags": [
+        "Web",
+        "Culture"
+      ],
+      "hot_score": 0.5
+    },
+    {
+      "title_en": "Show HN: TurboQuant-WASM – Google's vector quantization in the browser",
+      "url": "https://github.com/teamchong/turboquant-wasm",
+      "title_zh": "Show HN：TurboQuant-WASM—浏览器中的向量量化",
+      "created_display": "Created: Apr 04, 2026 / 07:53 PT",
+      "image_url": "https://opengraph.githubassets.com/90e7a4f1757c1362f003206c0cdffe410e2f189f558cd952cf788e811d72fbf6/teamchong/turboquant-wasm",
+      "summary_en": "TurboQuant-WASM brings Google's vector quantization into WebAssembly, enabling fast, client-side model compression and indexing without server queries. This lowers latency for on-device AI workflows and demos.",
+      "summary_zh": "TurboQuant-WASM 将 Google's 向量量化带到 WebAssembly，实现客户端的快速模型压缩和离线索引，无需服务器请求。让本地 AI 工作流和演示的延迟更低。",
+      "hn": {
+        "id": 47639567,
+        "type": "story",
+        "by": "teamchong",
+        "score": 155,
+        "descendants": 6,
+        "time": 1775314396,
+        "comments_url": "https://news.ycombinator.com/item?id=47639567"
+      },
+      "tags": [
+        "Show HN",
+        "AI",
+        "Web"
+      ],
+      "hot_score": 0.5
+    },
+    {
+      "title_en": "Gold overtakes U.S. Treasuries as the largest foreign reserve asset",
+      "url": "https://economictimes.indiatimes.com/news/international/us/gold-overtakes-u-s-treasuries-as-the-worlds-largest-foreign-reserve-asset-in-2026-can-gold-challenge-the-u-s-dollars-dominance-and-hold-its-ground/articleshow/126420128.cms?from=mdr",
+      "title_zh": "黄金超过美国国债成为全球最大的外储资产",
+      "created_display": "Created: Apr 03, 2026 / 19:30 PT",
+      "image_url": "https://img.etimg.com/thumb/msid-126420713,width-1200,height-630,imgsize-43114,overlay-economictimes/articleshow.jpg",
+      "summary_en": "Gold has overtaken US Treasuries as the world's largest foreign reserve asset, reflecting central banks' diversification away from dollar assets amid geopolitical risk and inflation. The shift could influence bond markets and gold demand dynamics.",
+      "summary_zh": "黄金已取代美国国债成为全球最大的外储资产，反映各央行在地缘政治风险与通胀背景下对美元资产的多元化配置。这一变化可能影响债券市场与黄金需求的格局。",
+      "hn": {
+        "id": 47635056,
+        "type": "story",
+        "by": "lxm",
+        "score": 260,
+        "descendants": 234,
+        "time": 1775269832,
+        "comments_url": "https://news.ycombinator.com/item?id=47635056"
+      },
+      "tags": [
+        "Finance",
+        "Business"
+      ],
+      "hot_score": 0.4
+    },
+    {
+      "title_en": "Marc Andreessen is wrong about introspection",
+      "url": "https://www.joanwestenberg.com/marc-andreessen-is-wrong-about-introspection/",
+      "title_zh": "马克·安德森的自省观点被质疑",
+      "created_display": "Created: Apr 03, 2026 / 07:29 PT",
+      "image_url": "https://www.joanwestenberg.com/content/images/size/w1200/2026/03/karl-raymund-catabas-6yFGUCyLgMI-unsplash--1--1.jpg",
+      "summary_en": "Marc Andreessen's views on introspection are challenged in this critique, arguing that self-reflection is essential for thoughtful leadership and durable tech culture.",
+      "summary_zh": "这篇评论对马克·安德森的“自省”观点提出质疑，主张自省对于理性领导和持久的科技文化至关重要。",
+      "hn": {
+        "id": 47627056,
+        "type": "story",
+        "by": "surprisetalk",
+        "score": 390,
+        "descendants": 466,
+        "time": 1775226552,
+        "comments_url": "https://news.ycombinator.com/item?id=47627056"
+      },
+      "tags": [
+        "Culture",
+        "Education"
+      ],
+      "hot_score": 0.36
+    },
+    {
+      "title_en": "The CMS is dead, long live the CMS",
+      "url": "https://next.jazzsequence.com/posts/the-cms-is-dead-long-live-the-cms",
+      "title_zh": "CMS 已死，CMS 万岁",
+      "created_display": "Created: Apr 04, 2026 / 04:24 PT",
+      "image_url": "https://sfo2.digitaloceanspaces.com/cdn.jazzsequence/wp-content/uploads/2026/04/03013745/the-cms-is-dead-long-live-the-cms.png",
+      "summary_en": "Argues that the traditional CMS is being replaced by modular, headless, and composable content platforms.",
+      "summary_zh": "作者认为传统的内容管理系统正在被模块化、无头和可组合的内容平台取代。随着“CMS”概念的进化，这对开发者与内容团队意味着新的工作方式与挑战。",
+      "hn": {
+        "id": 47638075,
+        "type": "story",
+        "by": "taubek",
+        "score": 144,
+        "descendants": 90,
+        "time": 1775301870,
+        "comments_url": "https://news.ycombinator.com/item?id=47638075"
+      },
+      "tags": [
+        "Web",
+        "Programming"
+      ],
+      "hot_score": 0.36
+    },
+    {
+      "title_en": "Emotion concepts and their function in a large language model",
+      "url": "https://www.anthropic.com/research/emotion-concepts-function",
+      "title_zh": "情感概念及其在大型语言模型中的作用",
+      "created_display": "Created: Apr 03, 2026 / 23:30 PT",
+      "image_url": "https://cdn.sanity.io/images/4zrzovbb/website/1f6efd2520ecc6bc7b5bccd6f4bbcf79bb47dbc1-3764x2380.png",
+      "summary_en": "Anthropic researchers examine how emotion concepts are represented in a large language model and what function they serve. They consider whether the model truly models emotions or just simulates them, and discuss implications for alignment, safety, and user experience.",
+      "summary_zh": "Anthropic 的研究者探讨大型语言模型中情感概念的表示及其作用，评估模型是否真正具备情感或只是表面模拟。研究还讨论这些概念对对齐、安全性和用户体验的影响，以及对界面设计的启示。",
+      "hn": {
+        "id": 47636435,
+        "type": "story",
+        "by": "dnw",
+        "score": 178,
+        "descendants": 174,
+        "time": 1775284225,
+        "comments_url": "https://news.ycombinator.com/item?id=47636435"
+      },
+      "tags": [
+        "AI",
+        "Science"
+      ],
+      "hot_score": 0.33
+    },
+    {
+      "title_en": "Iran strikes leave Amazon availability zones \"hard down\" in Bahrain and Dubai",
+      "url": "https://www.bigtechnology.com/p/iran-strikes-leave-amazon-availability",
+      "title_zh": "伊朗袭击致巴林和迪拜的亚马逊可用区出现严重中断",
+      "created_display": "Created: Apr 03, 2026 / 14:25 PT",
+      "image_url": "https://substackcdn.com/image/fetch/$s_!6X95!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F29bf6a18-10a1-409f-90c7-937af2bea02d_2706x1644.png",
+      "summary_en": "Geopolitical strikes knocked AWS availability zones in Bahrain and Dubai offline, disrupting regional cloud services. The outage underscores the fragility of regional cloud infrastructure and the importance of disaster recovery planning and cross-region redundancy for latency-sensitive applications.",
+      "summary_zh": "地缘政治冲突导致巴林与迪拜的亚马逊可用区离线，区域云服务受到干扰。这一中断凸显了区域云基础设施的脆弱性，以及对跨区域灾难恢复和低延迟应用冗余设计的需求。",
+      "hn": {
+        "id": 47632503,
+        "type": "story",
+        "by": "upofadown",
+        "score": 239,
+        "descendants": 120,
+        "time": 1775251555,
+        "comments_url": "https://news.ycombinator.com/item?id=47632503"
+      },
+      "tags": [
+        "Security",
+        "Business",
+        "DevOps"
+      ],
+      "hot_score": 0.29
+    },
+    {
+      "title_en": "Run Linux containers on Android, no root required",
+      "url": "https://github.com/ExTV/Podroid",
+      "title_zh": "在 Android 上无需 root 即可运行 Linux 容器",
+      "created_display": "Created: Apr 03, 2026 / 15:23 PT",
+      "image_url": "https://opengraph.githubassets.com/c8fb305552378276b06d6ab1940c3344a102ea1edc4d3930711f9e5f0aad0794/ExTV/Podroid",
+      "summary_en": "A project shows Linux containers can run on Android without root access, enabling isolated Linux environments on mobile devices. While promising for portability and dev/test workflows, it raises questions about performance and security.",
+      "summary_zh": "一个项目展示了在 Android 上无需 root 就能运行 Linux 容器，允许在手机上创建独立的 Linux 环境。虽然对可移植性和开发测试很有吸引力，但也带来性能和安全性的考量。",
+      "hn": {
+        "id": 47633131,
+        "type": "story",
+        "by": "politelemon",
+        "score": 212,
+        "descendants": 83,
+        "time": 1775255035,
+        "comments_url": "https://news.ycombinator.com/item?id=47633131"
+      },
+      "tags": [
+        "Programming",
+        "Security"
+      ],
+      "hot_score": 0.27
+    },
+    {
+      "title_en": "Solar and batteries can power the world",
+      "url": "https://nworbmot.org/blog/solar-battery-world.html",
+      "title_zh": "太阳能与电池能为全球供电",
+      "created_display": "Created: Apr 03, 2026 / 07:29 PT",
+      "image_url": "https://nworbmot.org/blog/graphics/solar-battery-world/cost_map-260206-solarbatt-solarbatt90.png",
+      "summary_en": "Advances in solar PV and long-duration battery storage could meet global electricity demand with a mostly zero-carbon grid, assuming scale, cheap storage, and grid modernization. The piece argues that with policy and investment, a solar-plus-storage future is technically feasible.",
+      "summary_zh": "太阳能与电池储能的快速发展使全球电力需求有望在不排放碳的情况下由太阳能支撑。但要实现这一愿景，需要大规模部署、智能电网升级和稳定性管理等方面的投入。文章讨论了可行性与面临的挑战，如原材料、制造产能以及间歇性供电的调度。",
+      "hn": {
+        "id": 47627061,
+        "type": "story",
+        "by": "edent",
+        "score": 288,
+        "descendants": 450,
+        "time": 1775226566,
+        "comments_url": "https://news.ycombinator.com/item?id=47627061"
+      },
+      "tags": [
+        "Energy",
+        "Science"
+      ],
+      "hot_score": 0.26
+    },
+    {
+      "title_en": "Why are we still using Markdown?",
+      "url": "https://bgslabs.org/blog/why-are-we-using-markdown/",
+      "title_zh": "我们为什么还在使用 Markdown？",
+      "created_display": "Created: Apr 03, 2026 / 11:03 PT",
+      "image_url": "https://bgslabs.org/og_images/why-are-we-using-markdown.png",
+      "summary_en": "A critical look at Markdown's limitations and the reasons it persists, exploring alternatives and potential improvements to lightweight markup.",
+      "summary_zh": "本文批判性地审视 Markdown 的局限性及为何仍在被广泛使用，探讨替代方案和对轻量标记语言的改进空间。",
+      "hn": {
+        "id": 47629903,
+        "type": "story",
+        "by": "veqq",
+        "score": 213,
+        "descendants": 281,
+        "time": 1775239390,
+        "comments_url": "https://news.ycombinator.com/item?id=47629903"
+      },
+      "tags": [
+        "Programming"
+      ],
+      "hot_score": 0.22
+    },
+    {
+      "title_en": "Go on Embedded Systems and WebAssembly",
+      "url": "https://tinygo.org/",
+      "title_zh": "Go 在嵌入式系统与 WebAssembly 上",
+      "created_display": "Created: Apr 03, 2026 / 09:57 PT",
+      "image_url": "https://tinygo.org/images/tinygo-logo.png",
+      "summary_en": "TinyGo enables the Go language to run on microcontrollers and compile to WebAssembly, bringing Go's simplicity to embedded contexts and browser-based apps. This reduces the gap between productive systems programming and constrained hardware, enabling safer, faster development for IoT and frontend apps. It illustrates ongoing efforts to extend high-level languages into resource-constrained domains.",
+      "summary_zh": "TinyGo 让 Go 可以在微控制器和 WebAssembly 上运行，将高层语言的易用性带入受限硬件与浏览器端应用。它缩小了开发生产力与嵌入式资源约束之间的差距，促进物联网与前端应用的安全高效开发。此举体现了将高级语言扩展到资源有限领域的持续努力。",
+      "hn": {
+        "id": 47629116,
+        "type": "story",
+        "by": "uticus",
+        "score": 202,
+        "descendants": 35,
+        "time": 1775235429,
+        "comments_url": "https://news.ycombinator.com/item?id=47629116"
+      },
+      "tags": [
+        "Programming",
+        "Web",
+        "Hardware"
+      ],
+      "hot_score": 0.2
+    },
+    {
+      "title_en": "Firm boosts H.264 streaming license fees from $100k up to staggering $4.5M",
+      "url": "https://www.tomshardware.com/service-providers/streaming/h264-streaming-license-fees-jump-from-100000-to-4-5-million",
+      "title_zh": "一家公司将 H.264 流媒体许可费从 10 万美元跃升至 450 万美元",
+      "created_display": "Created: Apr 03, 2026 / 11:20 PT",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/hDsy4ZXfLyeCxDhoKvMSz8-882-80.png",
+      "summary_en": "A licensing shift has boosted H.264 streaming royalties from six figures to as high as $4.5 million. The jump highlights patent-driven costs for video delivery and the pressure on streaming services to optimize encoding choices. It signals an ongoing tension between innovation, licensing, and consumer pricing.",
+      "summary_zh": "H.264 流媒体许可费从约 10 万美元跃升至最高 450 万美元，显示出专利驱动的成本压力。此举将影响流媒体服务的编码决策与成本结构，同时凸显创新、授权与消费者价格之间的博弈。",
+      "hn": {
+        "id": 47630109,
+        "type": "story",
+        "by": "MaximilianEmel",
+        "score": 189,
+        "descendants": 74,
+        "time": 1775240416,
+        "comments_url": "https://news.ycombinator.com/item?id=47630109"
+      },
+      "tags": [
+        "Business",
+        "Legal"
+      ],
+      "hot_score": 0.2
+    },
+    {
+      "title_en": "Build your own Dial-up ISP with a Raspberry Pi",
+      "url": "https://www.jeffgeerling.com/blog/2026/build-your-own-dial-up-isp-with-a-raspberry-pi/",
+      "title_zh": "用树莓派搭建自己的拨号上网服务提供商",
+      "created_display": "Created: Apr 03, 2026 / 08:08 PT",
+      "image_url": "https://www.jeffgeerling.com/blog/2026/build-your-own-dial-up-isp-with-a-raspberry-pi/pi-isp-ibook-hero.jpeg",
+      "summary_en": "A how-to guide walks readers through building a DIY dial-up ISP using a Raspberry Pi, reviving retro networking for a modern hobbyist project. The steps illustrate practical networking know-how and the ongoing appeal of offline, local control of connectivity. It highlights the educational value of hands-on infrastructure projects.",
+      "summary_zh": "教程教你用树莓派搭建自己的拨号上网服务提供商，重温现代爱好者的复古网络乐趣。步骤展示了实际的网络连接知识与对离线、在地网络控制的持续吸引力。强调了动手搭建基础设施的教育价值。",
+      "hn": {
+        "id": 47627527,
+        "type": "story",
+        "by": "arjunbajaj",
+        "score": 201,
+        "descendants": 36,
+        "time": 1775228896,
+        "comments_url": "https://news.ycombinator.com/item?id=47627527"
+      },
+      "tags": [
+        "Education",
+        "Hardware",
+        "DevOps"
+      ],
+      "hot_score": 0.19
+    },
+    {
+      "title_en": "Fake Fans",
+      "url": "https://www.wordsfromeliza.com/p/fake-fans",
+      "title_zh": "假粉丝",
+      "created_display": "Created: Apr 03, 2026 / 15:26 PT",
+      "image_url": "https://substackcdn.com/image/fetch/$s_!yKaD!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9401faa1-c4d7-40f0-96af-31947cb5c174_1170x717.jpeg",
+      "summary_en": "A thoughtful piece examining the phenomenon of fake fans online and what it means for creators, audiences, and culture at large.",
+      "summary_zh": "一篇深度反思，探讨网络虚假粉丝现象对创作者、受众与整体网络文化的影响及其带来的隐忧。",
+      "hn": {
+        "id": 47633157,
+        "type": "story",
+        "by": "performative",
+        "score": 154,
+        "descendants": 60,
+        "time": 1775255198,
+        "comments_url": "https://news.ycombinator.com/item?id=47633157"
+      },
+      "tags": [
+        "Culture"
+      ],
+      "hot_score": 0.19
+    },
+    {
+      "title_en": "Age verification on Systemd and Flatpak",
+      "url": "https://cybrkyd.com/post/age-verification-on-systemd-and-flatpak/",
+      "title_zh": "Systemd 与 Flatpak 的年龄验证",
+      "created_display": "Created: Apr 03, 2026 / 12:17 PT",
+      "image_url": "https://cybrkyd.com/img/logo.png",
+      "summary_en": "Age verification in core Linux components like Systemd and Flatpak raises questions about privacy, reliability, and usability. The piece cautions that such controls could complicate workflows and set risky precedents for more pervasive restrictions.",
+      "summary_zh": "在 Systemd 与 Flatpak 这样的核心 Linux 组件上引入年龄验证，会引发对隐私、可靠性与可用性的讨论。文章警告此类控制可能使工作流程变得复杂，并为未来更广泛的限制设立风险性先例。",
+      "hn": {
+        "id": 47630893,
+        "type": "story",
+        "by": "londonanon",
+        "score": 142,
+        "descendants": 128,
+        "time": 1775243848,
+        "comments_url": "https://news.ycombinator.com/item?id=47630893"
+      },
+      "hot_score": 0.16,
+      "tags": [
+        "Privacy",
+        "Security"
+      ]
+    },
+    {
+      "title_en": "How to make a sliding, self-locking, and predator-proof chicken coop door (2020)",
+      "url": "https://www.backyardchickens.com/articles/how-to-make-a-sliding-self-locking-and-predator-proof-chicken-coop-door.75906/",
+      "title_zh": "如何制作滑动式、自锁、能防掠食者的鸡舍门（2020）",
+      "created_display": "Created: Apr 03, 2026 / 11:54 PT",
+      "image_url": "https://www.backyardchickens.com/articles/how-to-make-a-sliding-self-locking-and-predator-proof-chicken-coop-door.75906/cover-image",
+      "summary_en": "A DIY guide for building a sliding, self-locking, predator-proof chicken coop door. It covers mechanics, hardware choices, and practical steps to create a reliable, low-maintenance setup.",
+      "summary_zh": "提供一个滑动式、自锁、能防掠食者的鸡舍门的自制指南，讲解机械结构、硬件选择与实现要点，帮助打造可靠、易维护的系统。",
+      "hn": {
+        "id": 47630576,
+        "type": "story",
+        "by": "uticus",
+        "score": 134,
+        "descendants": 64,
+        "time": 1775242451,
+        "comments_url": "https://news.ycombinator.com/item?id=47630576"
+      },
+      "hot_score": 0.15,
+      "tags": [
+        "Hardware",
+        "Design"
+      ]
+    },
+    {
+      "title_en": "Adult German men must request permission to leave Germany for more than 3 months",
+      "url": "https://www.fr.de/politik/drastische-wehrpflicht-aenderung-maenner-die-deutschland-laenger-wollen-brauchen-genehmigung-zr-94248132.html",
+      "title_zh": "成年德国男性出国超过3个月需申请许可",
+      "created_display": "Created: Apr 03, 2026 / 05:51 PT",
+      "image_url": "https://www.fr.de/assets/images/42/103/42103346-der-dienst-fuer-deutschland-wird-neu-gestaltet-das-wirkt-sich-auf-millionen-maenner-aus-doch-wie-genau-ist-bislang-noch-unklar-42ef.jpg",
+      "summary_en": "Germany is considering changing rules so that adult men must obtain permission to stay abroad longer than three months. The policy expands government oversight of international travel and has sparked debate over civil liberties and practical consequences for work and study.",
+      "summary_zh": "德国正在讨论一项新规定，成年男性若在国外停留超过三个月需取得许可。该政策扩大了对国际旅行的政府监管，引发对公民自由及工作与学习实际影响的讨论。",
+      "hn": {
+        "id": 47626116,
+        "type": "story",
+        "by": "raffael_de",
+        "score": 127,
+        "descendants": 2,
+        "time": 1775220719,
+        "comments_url": "https://news.ycombinator.com/item?id=47626116"
+      },
+      "hot_score": 0.11,
+      "tags": [
+        "Politics",
+        "Legal"
+      ]
+    }
+  ]
+}

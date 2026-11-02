@@ -1,0 +1,1171 @@
+{
+  "meta": {
+    "mode": "best",
+    "source": "https://news.ycombinator.com/",
+    "api": "https://github.com/HackerNews/API",
+    "count_requested": 50,
+    "count_written": 50,
+    "reused_same_day": 0,
+    "reused_cross_day": 25,
+    "new_llm_enriched": 11,
+    "scrape_time_display": "09:03, September 03, 2026 (PDT)",
+    "timezone": "America/Los_Angeles",
+    "date_dir": "2026/09/02",
+    "content_date": "2026-09-02",
+    "run_time_local": "09:03, September 03, 2026 (PDT)",
+    "run_time_utc": "2026-09-03 16:03:46 UTC",
+    "incremental": true,
+    "stories_max": 50,
+    "hot_score_time_utc": "2026-09-03 16:04:44 UTC"
+  },
+  "items": [
+    {
+      "title_en": "ChatGPT Is Throwing 404",
+      "url": "https://chatgpt.com/",
+      "title_zh": "ChatGPT 出现 404 错误",
+      "created_display": "Created: Sep 03, 2026 / 07:46 PT",
+      "image_url": "https://cdn.openai.com/chatgpt/share-og.png",
+      "summary_en": "Reports of ChatGPT returning 404 errors highlight ongoing reliability challenges for consumer AI services. The hiccup underscores the importance of robust incident response and offline fallbacks for AI-powered workflows.",
+      "summary_zh": "ChatGPT 频繁返回 404 错误，暴露了基于网络的 AI 服务在可用性方面的挑战。此类故障凸显了对稳健应急和离线回退的需求，以支撑依赖 AI 的工作流。",
+      "hn": {
+        "id": 49550614,
+        "type": "story",
+        "by": "stacktrace",
+        "score": 321,
+        "descendants": 248,
+        "time": 1788446807,
+        "comments_url": "https://news.ycombinator.com/item?id=49550614"
+      },
+      "hot_score": 37.33,
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "title_en": "Audacity 4.0",
+      "url": "https://github.com/audacity/audacity/releases/tag/Audacity-4.0.0",
+      "title_zh": "Audacity 4.0 发布",
+      "created_display": "Created: Sep 03, 2026 / 03:53 PT",
+      "image_url": "https://opengraph.githubassets.com/bda56dd5fb280eb5e9f6e49e854d8cc7fd1ced9647d8f5a85966c6196bd079c1/audacity/audacity/releases/tag/Audacity-4.0.0",
+      "summary_en": "Audacity 4.0 marks a major milestone for the popular open-source audio editor. It focuses on stability and ongoing maintenance, with improvements to performance and compatibility for modern formats and plugins.",
+      "summary_zh": "Audacity 4.0 是这个开源音频编辑器的最新重大版本。它聚焦稳定性与持续维护，带来性能优化和对现代音频格式及插件的兼容性改进。",
+      "hn": {
+        "id": 49548395,
+        "type": "story",
+        "by": "ClydeN",
+        "score": 691,
+        "descendants": 163,
+        "time": 1788432788,
+        "comments_url": "https://news.ycombinator.com/item?id=49548395"
+      },
+      "hot_score": 19.79,
+      "tags": [
+        "Open Source"
+      ]
+    },
+    {
+      "title_en": "Mom Gets 6-Mo Suspended Sentence for Letting 5-Year-Old Walk to the Pond",
+      "url": "https://reason.com/2026/09/02/virginia-mom-gets-6-month-suspended-jail-sentence-for-letting-5-year-old-walk-to-the-pond/",
+      "title_zh": "母亲因让5岁孩子独自走到池塘获缓刑六个月",
+      "created_display": "Created: Sep 03, 2026 / 07:12 PT",
+      "image_url": "https://d2eehagpk5cl65.cloudfront.net/img/q60/uploads/2026/08/karyann-parkinson-suspended-sentence.jpg",
+      "summary_en": "A Virginia mother received a six-month suspended jail sentence after letting her 5-year-old walk to a pond alone. The case highlights tensions between parental responsibility and child welfare laws, and how such actions are treated in the justice system.",
+      "summary_zh": "一位 Virginia 的母亲因让5岁儿童独自步行去池塘而获缓刑六个月。此案凸显家长监护与儿童福利法之间的张力，以及类似行为在司法系统中的处理方式。",
+      "hn": {
+        "id": 49550174,
+        "type": "story",
+        "by": "softwaredoug",
+        "score": 164,
+        "descendants": 151,
+        "time": 1788444739,
+        "comments_url": "https://news.ycombinator.com/item?id=49550174"
+      },
+      "hot_score": 14.24,
+      "tags": [
+        "Legal",
+        "Politics"
+      ]
+    },
+    {
+      "title_en": "Elevated Errors for Multiple Models",
+      "url": "https://status.claude.com/incidents/461yvfrzpwtt",
+      "title_zh": "多模型错误率上升",
+      "created_display": "Created: Sep 03, 2026 / 06:29 PT",
+      "image_url": "https://dka575ofm4ao0.cloudfront.net/assets/logos/favicon-2b86ed00cfa6258307d4a3d0c482fd733c7973f82de213143b24fc062c540367.png",
+      "summary_en": "Claude’s status page shows elevated errors across multiple models, indicating a service disruption or degraded performance. Such incidents stress the reliability of hosted AI APIs for multi-model workflows.",
+      "summary_zh": "Claude 的状态页面显示多个模型的错误率上升，表明服务正在经历中断或性能下降。此类事件凸显托管式 AI 服务在多模型工作流中的脆弱性，以及对依赖 AI API 的开发者的影响。",
+      "hn": {
+        "id": 49549676,
+        "type": "story",
+        "by": "__vivek",
+        "score": 181,
+        "descendants": 145,
+        "time": 1788442152,
+        "comments_url": "https://news.ycombinator.com/item?id=49549676"
+      },
+      "hot_score": 11.58,
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "title_en": "Nvidia to Acquire Hugging Face",
+      "url": "https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face/",
+      "title_zh": "英伟达将收购 Hugging Face",
+      "created_display": "Created: Sep 03, 2026 / 05:10 PT",
+      "image_url": "https://blogs.nvidia.com/wp-content/uploads/2026/09/hf-nvidia-partner_hf-nvidia-partner-press-1920x1080-2.png",
+      "summary_en": "NVIDIA announced it will acquire Hugging Face, pairing GPU-accelerated AI hardware with model hosting and tooling in one ecosystem. The deal could reshape how developers train, deploy, and optimize models, with implications for open-source influence and AI infrastructure competition.",
+      "summary_zh": "英伟达宣布将收购 Hugging Face，意在将硬件加速与模型托管/工具链整合到同一生态。此举可能改变开发者训练、部署和优化模型的方式，并对开源生态和 AI 基础设施竞争格局产生深远影响。",
+      "hn": {
+        "id": 49548952,
+        "type": "story",
+        "by": "tosh",
+        "score": 173,
+        "descendants": 51,
+        "time": 1788437433,
+        "comments_url": "https://news.ycombinator.com/item?id=49548952"
+      },
+      "hot_score": 7.04,
+      "tags": [
+        "AI",
+        "Business",
+        "Open Source",
+        "Hardware",
+        "DevOps"
+      ]
+    },
+    {
+      "title_en": "Pre-Release of Polars 2.0",
+      "url": "https://pola.rs/posts/announcing-polars-2/",
+      "title_zh": "Polars 2.0 预发布",
+      "created_display": "Created: Sep 02, 2026 / 23:59 PT",
+      "image_url": "https://pola.rs/polars_2.0.0-rc1.png",
+      "summary_en": "Polars 2.0 is entering a pre-release phase, signaling a major upgrade for the popular Rust-based data frame library. The release promises performance improvements, new APIs, and potential breaking changes, inviting developers to test early and plan migrations.",
+      "summary_zh": "Polars 2.0 已进入预发布阶段，标志着这款流行的基于 Rust 的数据框架将迎来重大升级。此次更新承诺提升性能、引入新 API，并可能带来破坏性变更，邀请开发者提前测试并规划迁移。",
+      "hn": {
+        "id": 49546753,
+        "type": "story",
+        "by": "komape",
+        "score": 312,
+        "descendants": 105,
+        "time": 1788418748,
+        "comments_url": "https://news.ycombinator.com/item?id=49546753"
+      },
+      "tags": [
+        "Programming",
+        "Data"
+      ],
+      "hot_score": 4.09
+    },
+    {
+      "title_en": "Gemini 3.8 Flash and 3.8 Flash Cyber",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/",
+      "title_zh": "Gemini 3.8 Flash 发布",
+      "created_display": "Created: Sep 02, 2026 / 08:12 PT",
+      "image_url": "https://lh3.googleusercontent.com/3LmvDVwFoemhJExm-WrA00dHQJB27CHrOxEDg4GM8PuSD_CpLHbbrFMdVdVXRrC3nbRDOM5Hvtvokj088n7J0p7bWgyxh1rpOY-yvAmuWLA-VsFotA=w1200-h630-n-nu-rw",
+      "summary_en": "Gemini 3.8 Flash is Google's latest iteration in the Gemini family, promising faster inference and smoother real-time interactions. The update aims to empower more responsive AI applications and better developer tooling, reinforcing Google's push to compete with other high-end LLMs.",
+      "summary_zh": "Gemini 3.8 Flash 是谷歌 Gemini 系列的最新版本，承诺提升推理速度与实时交互的流畅度。该更新旨在为更快速的 AI 应用和更完善的开发工具提供支持，凸显谷歌在高端大模型领域的竞争策略。",
+      "hn": {
+        "id": 49537553,
+        "type": "story",
+        "by": "bratao",
+        "score": 1124,
+        "descendants": 631,
+        "time": 1788361960,
+        "comments_url": "https://news.ycombinator.com/item?id=49537553"
+      },
+      "tags": [
+        "AI"
+      ],
+      "hot_score": 3.0
+    },
+    {
+      "title_en": "Muse Spark 1.3",
+      "url": "https://developer.meta.com/ai/models/muse-spark/",
+      "title_zh": "Muse Spark 1.3",
+      "created_display": "Created: Sep 02, 2026 / 12:35 PT",
+      "image_url": "https://scontent-lga3-3.xx.fbcdn.net/v/t39.2365-6/741888780_1335161144859187_4416712401061192452_n.png?_nc_cat=108&ccb=1-7&_nc_sid=aa6a2f&_nc_ohc=035RilvDqSsQ7kNvwGm59SM&_nc_oc=Adri_Uk9XXu4WoQorzuc9ahMthGi9T8muvHyTaCtKeDantNcjrs8NLuAH-j5xcgbt1E&_nc_zt=14&_nc_ht=scontent-lga3-3.xx&_nc_gid=UESkssYHoAYNMAhsrEXVBw&_nc_ss=7820f&oh=00_AQJ-RD1ZZcZ1lO1-gJEimPPkpniwTx7DQuGydyBdel3cHA&oe=6A9E5E91",
+      "summary_en": "Meta's Muse Spark 1.3 release brings improvements in efficiency and safety at scale, with updated tooling for developers and better inference performance. The update signals Meta's continued push to provide accessible AI tools for both on-device and cloud workflows.",
+      "summary_zh": "Meta 发布 Muse Spark 1.3，提升在大规模部署中的效率与安全性，并带来改进的开发者工具与推理性能。此次更新体现了 Meta 持续推动为开发者提供更易用的 AI 工具，覆盖云端与本地工作流。",
+      "hn": {
+        "id": 49541256,
+        "type": "story",
+        "by": "bvaldivielso",
+        "score": 659,
+        "descendants": 431,
+        "time": 1788377704,
+        "comments_url": "https://news.ycombinator.com/item?id=49541256"
+      },
+      "tags": [
+        "AI"
+      ],
+      "hot_score": 2.42
+    },
+    {
+      "title_en": "A note on subscription prices from LWN",
+      "url": "https://lwn.net/Articles/1090585/",
+      "title_zh": "关于 LWN 订阅价格的一些说明",
+      "created_display": "Created: Sep 02, 2026 / 06:17 PT",
+      "image_url": "https://static.lwn.net/images/logo/barepenguin-70.webp",
+      "summary_en": "LWN addresses pricing strategy for subscriptions, possibly changes, value, and tiers; implications for readers who rely on high-quality open-source journalism.",
+      "summary_zh": "LWN 对订阅价格进行了说明，讨论了定价策略、价值与分层等问题，并影响依赖其高质量开源新闻的读者。",
+      "hn": {
+        "id": 49535752,
+        "type": "story",
+        "by": "rwky",
+        "score": 715,
+        "descendants": 147,
+        "time": 1788355032,
+        "comments_url": "https://news.ycombinator.com/item?id=49535752"
+      },
+      "tags": [
+        "Open Source",
+        "Business"
+      ],
+      "hot_score": 1.69
+    },
+    {
+      "title_en": "Claude Fable 5.1 and Claude Mythos 5.1",
+      "url": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
+      "title_zh": "Claude Fable 5.1 与 Claude Mythos 5.1",
+      "created_display": "Created: Sep 01, 2026 / 10:53 PT",
+      "image_url": "https://cdn.sanity.io/images/4zrzovbb/website/932ca7d6f414ca22fd5a26dcc131410575b9b3e5-1200x630.jpg",
+      "summary_en": "Anthropic released Claude Fable 5.1 and Claude Mythos 5.1, minor updates to its Claude family. The changes focus on safety, reliability, and improved tool-using capabilities in chat and coding workflows, which may influence how developers integrate Claude into apps. Users should test for behavior changes, prompt handling tweaks, and any impacts on latency or pricing.",
+      "summary_zh": "Anthropic 发布 Claude Fable 5.1 与 Claude Mythos 5.1，强调安全性、可靠性和改进的工具使用能力。此举可能影响开发者在构建基于 Claude 的应用时的提示设计、令牌消耗与延迟。请尽早评估新版本的行为变化。",
+      "hn": {
+        "id": 49525378,
+        "type": "story",
+        "by": "denysvitali",
+        "score": 1401,
+        "descendants": 1361,
+        "time": 1788285233,
+        "comments_url": "https://news.ycombinator.com/item?id=49525378"
+      },
+      "tags": [
+        "AI"
+      ],
+      "hot_score": 1.31
+    },
+    {
+      "title_en": "Three sites made 215,128 “best software” pages for AI. Perplexity cites them",
+      "url": "https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/",
+      "title_zh": "三家站点为 AI 制作了 215,128 个“最佳软件”页面，Perplexity 引用它们",
+      "created_display": "Created: Sep 02, 2026 / 06:59 PT",
+      "image_url": "https://trellner.com/og.png",
+      "summary_en": "Three sites collectively produced 215,128 pages labeled 'best software' used by AI systems, according to a Trellner report cited by Perplexity. The finding raises concerns about data provenance, the quality of training sources, and how such manufactured sources may shape AI recommendations.",
+      "summary_zh": "三家站点合计制作了 215,128 个标注为“最佳软件”的页面，被 AI 系统使用，据 Trellner 的报告被 Perplexity 引用。此发现引发对数据来源、训练源质量的担忧，以及制造性来源如何影响 AI 推荐的可能性。",
+      "hn": {
+        "id": 49536375,
+        "type": "story",
+        "by": "jakobgreenfeld",
+        "score": 490,
+        "descendants": 242,
+        "time": 1788357599,
+        "comments_url": "https://news.ycombinator.com/item?id=49536375"
+      },
+      "tags": [
+        "AI",
+        "Data"
+      ],
+      "hot_score": 1.21
+    },
+    {
+      "title_en": "Fable 5.1 World Modeling",
+      "url": "https://github.com/PhiloLabs/fable51-worlds",
+      "title_zh": "Fable 5.1 的世界建模",
+      "created_display": "Created: Sep 02, 2026 / 12:49 PT",
+      "image_url": "https://opengraph.githubassets.com/cbe6860fbee2eebd836bc7496445572f1e0849136e21f06f817d47eff4c749ab/PhiloLabs/fable51-worlds",
+      "summary_en": "Fable 5.1 introduces world modeling capabilities, enabling agents to build internal representations of their environments and simulate outcomes for planning. It highlights modular 'worlds' that support scalable reasoning and generalization across tasks. For developers, this signals a shift toward more sample-efficient, model-based approaches in interactive AI systems.",
+      "summary_zh": "Fable 5.1 引入世界建模能力，使代理能够构建环境的内部表示并对结果进行仿真以便规划。它强调支持跨任务的可扩展推理与通用化的模块化“世界”概念。对开发者而言，标志着向更高效、基于模型的交互式 AI 系统迈进。",
+      "hn": {
+        "id": 49541458,
+        "type": "story",
+        "by": "surreal_",
+        "score": 313,
+        "descendants": 91,
+        "time": 1788378541,
+        "comments_url": "https://news.ycombinator.com/item?id=49541458"
+      },
+      "tags": [
+        "AI"
+      ],
+      "hot_score": 1.17
+    },
+    {
+      "title_en": "Google avoids a breakup of its ad tech business",
+      "url": "https://www.nytimes.com/2026/09/02/technology/google-ad-tech-remedies.html",
+      "title_zh": "谷歌避免分拆其广告技术业务",
+      "created_display": "Created: Sep 02, 2026 / 07:46 PT",
+      "image_url": null,
+      "summary_en": "Google has avoided a forced breakup of its ad tech business through regulatory remedies, preserving its integrated ad tech stack. The decision shapes competition in online advertising and signals how regulators approach platform ecosystems.",
+      "summary_zh": "谷歌通过监管性方案维持广告技术业务的整合结构，避免被拆分。这一走向影响在线广告的竞争格局，也反映监管机构在平台生态上的取舍。",
+      "hn": {
+        "id": 49537131,
+        "type": "story",
+        "by": "donohoe",
+        "score": 448,
+        "descendants": 323,
+        "time": 1788360376,
+        "comments_url": "https://news.ycombinator.com/item?id=49537131"
+      },
+      "tags": [
+        "Business",
+        "Legal",
+        "Politics"
+      ],
+      "hot_score": 1.16
+    },
+    {
+      "title_en": "Can I opt out of my input or output data being used for training?",
+      "url": "https://help.mistral.ai/en/articles/455207-can-i-opt-out-of-my-input-or-output-data-being-used-for-training",
+      "title_zh": "我可以选择不让我的输入或输出数据被用于训练吗？",
+      "created_display": "Created: Sep 02, 2026 / 05:30 PT",
+      "image_url": "https://downloads.intercomcdn.eu/i/o/xel0jpx9/32959/6f6f05e6d9a783dd3709d1d20210/22053698b6d3506b0b89d174c8404652.png",
+      "summary_en": "The article explains whether you can opt out of having your inputs or model outputs used to train AI systems, and how to exercise privacy controls with mistral.ai.",
+      "summary_zh": "本文解释是否可选择将自己的输入或输出数据用于训练，以及如何在 mistral.ai 的平台上行使隐私控制和数据偏好。",
+      "hn": {
+        "id": 49535284,
+        "type": "story",
+        "by": "teekert",
+        "score": 480,
+        "descendants": 232,
+        "time": 1788352239,
+        "comments_url": "https://news.ycombinator.com/item?id=49535284"
+      },
+      "tags": [
+        "Privacy",
+        "Data",
+        "AI"
+      ],
+      "hot_score": 1.08
+    },
+    {
+      "title_en": "I wanna live an NPC life",
+      "url": "https://signalundefied.bearblog.dev/i-wanna-live-an-npc-life/",
+      "title_zh": "我想过NPC 生活",
+      "created_display": "Created: Sep 02, 2026 / 12:52 PT",
+      "image_url": "https://signalundefied.bearblog.dev/static/og-image.png",
+      "summary_en": "Explores the appeal of living as an NPC in a world of AI and hyperconnectivity, using the term as a metaphor for autonomy and authenticity. It discusses boundaries between human agency and automated systems.",
+      "summary_zh": "以“NPC 生活”为喻，探讨在 AI 与高度互联的时代，追求简约、可预设生活的吸引力与边界。文章反思人类自主性与自动化系统之间的关系。",
+      "hn": {
+        "id": 49541519,
+        "type": "story",
+        "by": "conferza",
+        "score": 274,
+        "descendants": 250,
+        "time": 1788378773,
+        "comments_url": "https://news.ycombinator.com/item?id=49541519"
+      },
+      "tags": [
+        "Culture",
+        "AI"
+      ],
+      "hot_score": 1.03
+    },
+    {
+      "title_en": "Hang on to Your Firefox",
+      "url": "https://www.newsonaut.com/articles/hang-on-to-your-firefox",
+      "title_zh": "坚持使用你的 Firefox",
+      "created_display": "Created: Sep 01, 2026 / 13:30 PT",
+      "image_url": "https://www.newsonaut.com/images/rockettwitter2.png",
+      "summary_en": "Firefox continues to offer strong privacy protections and a modular extension ecosystem at a time of rapid browser changes. The piece argues that users don’t have to switch to alternative engines to get modern features, emphasizing Mozilla’s open web commitments and ongoing performance improvements. It also provides practical tips for getting the most out of Firefox.",
+      "summary_zh": "Firefox 仍然是注重隐私的用户的可行选择，浏览器生态在快速演进。文章强调无需放弃 Firefox 就能获得现代功能，突出 Mozilla 的开放网络承诺与持续的性能改进。文中还给出如何最大化使用 Firefox 的实用建议。",
+      "hn": {
+        "id": 49527748,
+        "type": "story",
+        "by": "speckx",
+        "score": 952,
+        "descendants": 520,
+        "time": 1788294651,
+        "comments_url": "https://news.ycombinator.com/item?id=49527748"
+      },
+      "tags": [
+        "Privacy",
+        "Web",
+        "Open Source"
+      ],
+      "hot_score": 0.98
+    },
+    {
+      "title_en": "How accurate have Ed Zitron's AI skeptic predictions been?",
+      "url": "https://danluu.com/zitron/",
+      "title_zh": "艾德·齐特龙的 AI 怀疑论预测有多准确？",
+      "created_display": "Created: Sep 01, 2026 / 11:35 PT",
+      "image_url": null,
+      "summary_en": "A retrospective assessment evaluates how accurate Ed Zitron's AI-skeptic predictions have been, comparing past forecasts with now-established AI realities. It highlights patterns in tech prognostication and biases, offering takeaways about forecasting in tech journalism.",
+      "summary_zh": "本文回顾性评估知名公关人士 Ed Zitron 对 AI 的怀疑性预测的准确性，将其以往的判断与当前 AI 现实进行对比，揭示科技预测中的规律与偏差，并提出对读者的启示。",
+      "hn": {
+        "id": 49526069,
+        "type": "story",
+        "by": "jatins",
+        "score": 858,
+        "descendants": 1033,
+        "time": 1788287715,
+        "comments_url": "https://news.ycombinator.com/item?id=49526069"
+      },
+      "tags": [
+        "AI"
+      ],
+      "hot_score": 0.82
+    },
+    {
+      "title_en": "Mamdani Bans AI in NYC Schools",
+      "url": "https://www.nytimes.com/2026/09/01/nyregion/ai-ban-schools-nyc.html",
+      "title_zh": "Mamdani 在 NYC 学校禁止使用 AI",
+      "created_display": "Created: Sep 02, 2026 / 13:57 PT",
+      "image_url": null,
+      "summary_en": "New York City schools ban AI tools in classrooms amid concerns about cheating, privacy, and equity. The policy reflects a broader debate about AI in education and how to integrate it responsibly, potentially influencing other districts.",
+      "summary_zh": "纽约市学校在课堂上禁用 AI 工具，出于对学术不端、隐私与公平性的担忧。此举反映了教育领域对 AI 使用的谨慎态度，以及如何负责任地整合 AI 的挑战，可能影响其他学区的政策取向。",
+      "hn": {
+        "id": 49542443,
+        "type": "story",
+        "by": "handfuloflight",
+        "score": 199,
+        "descendants": 151,
+        "time": 1788382624,
+        "comments_url": "https://news.ycombinator.com/item?id=49542443"
+      },
+      "hot_score": 0.82,
+      "tags": [
+        "Education",
+        "Politics",
+        "AI",
+        "Privacy"
+      ]
+    },
+    {
+      "title_en": "Biggest dark matter detector spots a single weird particle",
+      "url": "https://www.science.org/content/article/world-s-biggest-dark-matter-detector-spots-single-weird-particle",
+      "title_zh": "全球最大暗物质探测器观测到一个异常粒子",
+      "created_display": "Created: Sep 02, 2026 / 06:40 PT",
+      "image_url": null,
+      "summary_en": "A flagship dark matter detector recorded an unusual event that could be either a background glitch or a hint of new physics. The finding underscores the need for careful cross-checks, calibration, and independent verification before claiming discoveries.",
+      "summary_zh": "一台世界最大规模的暗物质探测器记录到一次异常事件，可能是背景噪声，也可能暗示新物理。此类发现需要严格的复核、标定与独立验证才能成为可靠的物理信号。",
+      "hn": {
+        "id": 49536079,
+        "type": "story",
+        "by": "randycupertino",
+        "score": 330,
+        "descendants": 119,
+        "time": 1788356429,
+        "comments_url": "https://news.ycombinator.com/item?id=49536079"
+      },
+      "tags": [
+        "Science"
+      ],
+      "hot_score": 0.8
+    },
+    {
+      "title_en": "Aging brains blend memories together instead of just forgetting them",
+      "url": "https://studyfinds.com/aging-brains-blend-memories-together-instead-of-forgetting-them-study-finds/",
+      "title_zh": "衰老大脑把记忆混合在一起，而非单纯遗忘",
+      "created_display": "Created: Sep 02, 2026 / 05:59 PT",
+      "image_url": "https://studyfinds.com/wp-content/uploads/2025/02/Aging-brain-scaled.jpeg",
+      "summary_en": "New research suggests aging brains may blend memories across events, reshaping how we recall the past. Implications include misremembering and potential parallels for AI memory models.",
+      "summary_zh": "研究显示年迈大脑可能把不同事件的记忆混在一起，影响回忆。对记忆机制的理解、以及与 AI 记忆模型的比喻都具有启发性。",
+      "hn": {
+        "id": 49535548,
+        "type": "story",
+        "by": "mdp2021",
+        "score": 330,
+        "descendants": 130,
+        "time": 1788353949,
+        "comments_url": "https://news.ycombinator.com/item?id=49535548"
+      },
+      "tags": [
+        "Science",
+        "Health",
+        "AI"
+      ],
+      "hot_score": 0.76
+    },
+    {
+      "title_en": "I Don't Have a Smartphone",
+      "url": "https://ploum.net/2026-09-02-i_dont_have_a_smartphone.html",
+      "title_zh": "我没有智能手机",
+      "created_display": "Created: Sep 02, 2026 / 10:51 PT",
+      "image_url": "https://ploum.net/files/brokenphone.jpg",
+      "summary_en": "A personal account of living without a smartphone, detailing how the author stays connected with basic devices and careful digital habits. It sheds light on privacy, attention, and the costs of being always-on in a connected world.",
+      "summary_zh": "无智能手机的生活案例，作者描述如何使用非智能设备维持联络与日常工作流程。文章探讨隐私、注意力与对“全时在线”设备的社会期待之间的权衡。",
+      "hn": {
+        "id": 49539872,
+        "type": "story",
+        "by": "speckx",
+        "score": 236,
+        "descendants": 240,
+        "time": 1788371489,
+        "comments_url": "https://news.ycombinator.com/item?id=49539872"
+      },
+      "hot_score": 0.76,
+      "tags": [
+        "Privacy"
+      ]
+    },
+    {
+      "title_en": "Exit the Cave",
+      "url": "https://turtlespace.blog/p/exit-the-cave",
+      "title_zh": "走出洞穴",
+      "created_display": "Created: Sep 02, 2026 / 07:16 PT",
+      "image_url": "https://substackcdn.com/image/fetch/$s_!lnWU!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F15cf15db-4b03-49ec-9074-5e0e31fb6b1a_1134x851.png",
+      "summary_en": "Step out of the cave: shift from insular rhetoric to evidence-based understanding of technology.",
+      "summary_zh": "走出洞穴：从闭塞叙事转向以证据为基础的技术理解。",
+      "hn": {
+        "id": 49536606,
+        "type": "story",
+        "by": "akkartik",
+        "score": 293,
+        "descendants": 101,
+        "time": 1788358605,
+        "comments_url": "https://news.ycombinator.com/item?id=49536606"
+      },
+      "tags": [
+        "Culture"
+      ],
+      "hot_score": 0.73
+    },
+    {
+      "title_en": "Paint.net 5.2 alpha now runs on Linux",
+      "url": "https://forums.paint.net/topic/134562-paintnet-52-alpha-build-9739/",
+      "title_zh": "Paint.net 5.2 Alpha 现已在 Linux 上运行",
+      "created_display": "Created: Sep 02, 2026 / 10:18 PT",
+      "image_url": null,
+      "summary_en": "Paint.net’s 5.2 alpha now runs on Linux, signaling progress toward broader cross-platform support for the Windows-centric editor. While early, the move expands options for Linux users seeking native-like editing tools.",
+      "summary_zh": "Paint.net 5.2 Alpha 现已在 Linux 上运行，标志着这款以 Windows 为主的编辑器在跨平台方面迈出重要一步。虽然仍处于早期阶段，但为 Linux 用户提供了本地化图像编辑的潜在选项。",
+      "hn": {
+        "id": 49539389,
+        "type": "story",
+        "by": "judah",
+        "score": 203,
+        "descendants": 167,
+        "time": 1788369519,
+        "comments_url": "https://news.ycombinator.com/item?id=49539389"
+      },
+      "hot_score": 0.63,
+      "tags": [
+        "Programming"
+      ]
+    },
+    {
+      "title_en": "Commodore 64 released September 1, 1982",
+      "url": "https://dfarq.homeip.net/commodore-64-released-september-1-1982/",
+      "title_zh": "Commodore 64 于1982年9月1日发布",
+      "created_display": "Created: Sep 02, 2026 / 01:36 PT",
+      "image_url": "https://i0.wp.com/dfarq.homeip.net/wp-content/uploads/2026/08/commodore-64-release-date-social.jpg?fit=964%2C542&ssl=1",
+      "summary_en": "The Commodore 64, released in 1982, became one of the best-selling home computers due to its balance of price, performance, and a robust software library. Its 64KB RAM, built-in sound, and broad ecosystem helped popularize gaming and home computing, shaping the era’s tech culture.",
+      "summary_zh": "Commodore 64于1982年发布，以性价比、性能与丰富的软件生态著称，成为最畅销的家用电脑之一。64K内存、出众的声音特性和庞大的软件生态推动了游戏与家庭计算的普及，深刻影响了80年代的科技文化。",
+      "hn": {
+        "id": 49533497,
+        "type": "story",
+        "by": "giuliomagnifico",
+        "score": 347,
+        "descendants": 178,
+        "time": 1788338203,
+        "comments_url": "https://news.ycombinator.com/item?id=49533497"
+      },
+      "tags": [
+        "Culture",
+        "Gaming"
+      ],
+      "hot_score": 0.62
+    },
+    {
+      "title_en": "Qantas Airbus A380 engine failure in 2010 (2023)",
+      "url": "https://admiralcloudberg.medium.com/a-matter-of-millimeters-the-story-of-qantas-flight-32-bdaa62dc98e7",
+      "title_zh": "2010 年 Qantas A380 发动机故障（2023 年回顾）",
+      "created_display": "Created: Sep 02, 2026 / 11:42 PT",
+      "image_url": "https://miro.medium.com/v2/resize:fit:620/0*6WbrLzQMWCuid50W.jpg",
+      "summary_en": "This retrospective revisits a 2010 engine failure on a Qantas A380, examining root causes, maintenance practices, and lessons for airline safety and regulatory oversight. It connects historical incidents to modern reliability expectations for large turbofan engines.",
+      "summary_zh": "回顾 2010 年 Qantas A380 的发动机故障，分析根本原因、维护实践与对航空安全及监管的启示。将历史事件与对大型涡扇发动机的可靠性期望联系起来，并强调微小公差与检修制度在大规模运营中的重要性。",
+      "hn": {
+        "id": 49540565,
+        "type": "story",
+        "by": "gumby",
+        "score": 168,
+        "descendants": 102,
+        "time": 1788374561,
+        "comments_url": "https://news.ycombinator.com/item?id=49540565"
+      },
+      "tags": [
+        "Business",
+        "Politics"
+      ],
+      "hot_score": 0.57
+    },
+    {
+      "title_en": "Dutch central bank moves share of gold from U.S., Canada to London",
+      "url": "https://nltimes.nl/2026/09/02/dutch-central-bank-moves-share-gold-us-canada-london-cites-instability",
+      "title_zh": "荷兰央行将部分黄金储备从美加转移至伦敦",
+      "created_display": "Created: Sep 02, 2026 / 05:55 PT",
+      "image_url": "https://nltimes.nl/sites/nltimes.nl/files/styles/news_article_full_desktop_2x/public/2026-09/MG%209092.jpeg?h=947d8e2e",
+      "summary_en": "The Dutch central bank is moving a portion of its gold reserves from the US and Canada to London, citing instability and geopolitical risk. The relocation reflects central banks' diversification of storage locations, with potential implications for bullion markets and international finance.",
+      "summary_zh": "荷兰央行将部分黄金储备从美国与加拿大转移至伦敦，称原因是金融不稳定与地缘风险。这一举动体现央行储备地理分散的趋势，可能对全球金条市场与国际金融产生影响。",
+      "hn": {
+        "id": 49535526,
+        "type": "story",
+        "by": "TechTechTech",
+        "score": 235,
+        "descendants": 236,
+        "time": 1788353740,
+        "comments_url": "https://news.ycombinator.com/item?id=49535526"
+      },
+      "tags": [
+        "Finance"
+      ],
+      "hot_score": 0.54
+    },
+    {
+      "title_en": "The ChatGPT/Codex app bundles a full copy of LibreOffice",
+      "url": "https://simonwillison.net/2026/Sep/1/codex-libreoffice/",
+      "title_zh": "ChatGPT/Codex 应用捆绑 LibreOffice 的完整副本",
+      "created_display": "Created: Sep 01, 2026 / 13:07 PT",
+      "image_url": "https://static.simonwillison.net/static/2026/codex-primay-runtime.webp",
+      "summary_en": "A ChatGPT/Codex-based app ships LibreOffice in full, raising questions about dependency bloat and licensing. It also touches on maintenance and update responsibilities.",
+      "summary_zh": "基于 ChatGPT/Codex 的应用捆绑了 LibreOffice 的完整副本，引发对依赖膨胀、许可合规与分发责任的关注。文章分析将大型开源套件嵌入 AI 工具的潜在风险，以及后续的维护与更新责任。",
+      "hn": {
+        "id": 49527396,
+        "type": "story",
+        "by": "timpera",
+        "score": 486,
+        "descendants": 251,
+        "time": 1788293277,
+        "comments_url": "https://news.ycombinator.com/item?id=49527396"
+      },
+      "tags": [
+        "Open Source",
+        "AI"
+      ],
+      "hot_score": 0.49
+    },
+    {
+      "title_en": "Play Store blocks AuroraStore, hurting GrapheneOS users",
+      "url": "https://gitlab.com/AuroraOSS/AuroraStore/-/work_items/1566",
+      "title_zh": "Play 商店封锁 AuroraStore，GrapheneOS 用户受影响",
+      "created_display": "Created: Sep 01, 2026 / 08:55 PT",
+      "image_url": "https://gitlab.com/uploads/-/system/project/avatar/6922885/icon.png?v=1788283454",
+      "summary_en": "Google blocks Aurora Store, limiting access for GrapheneOS users who rely on Aurora as an alternative to Google Play Services. This move heightens tensions between privacy-focused Android forks and Google's control of app distribution. It underscores ongoing battles over who gets to decide what runs on Android devices.",
+      "summary_zh": "Google 封禁 Aurora Store，影响依赖 Aurora 作为 Google 服务替代的 GrapheneOS 用户。此举加剧了隐私导向的 Android 派系与 Google 对应用分发控制之间的博弈。也凸显了对 Android 生态由谁来决定可运行软件的持续争议。",
+      "hn": {
+        "id": 49523754,
+        "type": "story",
+        "by": "erikvanoosten",
+        "score": 557,
+        "descendants": 258,
+        "time": 1788278153,
+        "comments_url": "https://news.ycombinator.com/item?id=49523754"
+      },
+      "tags": [
+        "Privacy",
+        "Security"
+      ],
+      "hot_score": 0.48
+    },
+    {
+      "title_en": "GrapheneOS says Pixel 11 has MTE support after all",
+      "url": "https://grapheneos.social/@GrapheneOS/117194007157499435",
+      "title_zh": "GrapheneOS 表示 Pixel 11 最终支持 MTE",
+      "created_display": "Created: Sep 02, 2026 / 07:00 PT",
+      "image_url": "https://grapheneos.social/packs/assets/logo-DXQkHAe5.svg",
+      "summary_en": "GrapheneOS confirms Pixel 11 devices now support Memory Tagging Extension (MTE), bolstering memory safety on a privacy-focused Android build. This matters for security-minded users and developers building hardened Android environments.",
+      "summary_zh": "GrapheneOS 确认 Pixel 11 设备现已支持内存标记扩展（MTE），提升在该平台上的内存安全和沙箱强度。此举对重视安全、追求隐私的 Android 定制系统尤为重要。",
+      "hn": {
+        "id": 49536384,
+        "type": "story",
+        "by": "user_7832",
+        "score": 196,
+        "descendants": 160,
+        "time": 1788357628,
+        "comments_url": "https://news.ycombinator.com/item?id=49536384"
+      },
+      "hot_score": 0.48,
+      "tags": [
+        "Security",
+        "Hardware",
+        "Privacy"
+      ]
+    },
+    {
+      "title_en": "FBI Probes Service Selling 153M+ Drivers Licenses",
+      "url": "https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/",
+      "title_zh": "FBI 调查销售超过1.53亿张驾照的服务",
+      "created_display": "Created: Sep 01, 2026 / 16:17 PT",
+      "image_url": "https://krebsonsecurity.com/b-gartner/11.png",
+      "summary_en": "The FBI probes a service suspected of selling more than 153 million driver’s licenses, illustrating how ID data marketplaces can operate at scale. The case underscores the urgency of improving credential security and monitoring online marketplaces for illicit activity.",
+      "summary_zh": "FBI 正在调查一家疑似销售超过1.53亿张驾照的服务，揭示了身份数据市场如何在大规模运作。此案凸显提升凭证安全和监控在线非法市场的紧迫性。",
+      "hn": {
+        "id": 49529621,
+        "type": "story",
+        "by": "tatersolid",
+        "score": 409,
+        "descendants": 270,
+        "time": 1788304663,
+        "comments_url": "https://news.ycombinator.com/item?id=49529621"
+      },
+      "tags": [
+        "Security",
+        "Privacy"
+      ],
+      "hot_score": 0.47
+    },
+    {
+      "title_en": "Poisson Disk Sampling",
+      "url": "https://stripeacross.com/posts/poisson-disk-sampling/",
+      "title_zh": "泊松盘采样",
+      "created_display": "Created: Sep 02, 2026 / 06:47 PT",
+      "image_url": null,
+      "summary_en": "Explains Poisson disk sampling as a method to generate evenly distributed points without clustering, useful for graphics, spatial sampling, and ML visualization. Includes intuition and practical tips.",
+      "summary_zh": "介绍泊松盘采样，生成均匀、无聚簇的点分布，广泛用于图形、空间采样和可视化。给出直观解释与实用建议。",
+      "hn": {
+        "id": 49536177,
+        "type": "story",
+        "by": "vismit2000",
+        "score": 185,
+        "descendants": 22,
+        "time": 1788356869,
+        "comments_url": "https://news.ycombinator.com/item?id=49536177"
+      },
+      "tags": [
+        "Programming"
+      ],
+      "hot_score": 0.45
+    },
+    {
+      "title_en": "The Emergent Symbolic Structure of Artificial Neural Networks",
+      "url": "https://arxiv.org/abs/2608.29530",
+      "title_zh": "人工神经网络的涌现符号结构",
+      "created_display": "Created: Sep 01, 2026 / 21:15 PT",
+      "image_url": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+      "summary_en": "The paper argues that large neural networks exhibit emergent symbolic structure that supports compositional reasoning, not just pattern matching. By analyzing trained models, the authors identify circuit-like representations that function as symbols and operators, offering a path to more interpretable AI. This has implications for scaling, alignment, and robust reasoning in future models.",
+      "summary_zh": "这项工作声称大型神经网络会自发形成类似符号的结构，支持成分化的推理。通过对训练后模型的分析，作者发现类似符号和运算符的电路式表示，为可解释性和鲁棒推理带来新路径。",
+      "hn": {
+        "id": 49531651,
+        "type": "story",
+        "by": "schmuhblaster",
+        "score": 288,
+        "descendants": 108,
+        "time": 1788322556,
+        "comments_url": "https://news.ycombinator.com/item?id=49531651"
+      },
+      "tags": [
+        "AI"
+      ],
+      "hot_score": 0.42
+    },
+    {
+      "title_en": "Six curl CVEs after OpenAI and Anthropic came back with zero",
+      "url": "https://aisle.com/blog/aisle-discovered-six-curl-cves-after-openai-and-anthropic-found-zero",
+      "title_zh": "OpenAI 与 Anthropic 回应零漏洞后，curl 仍出现六个 CVE",
+      "created_display": "Created: Sep 02, 2026 / 06:43 PT",
+      "image_url": null,
+      "summary_en": "Security researchers found six CVEs in curl after major AI companies reported zero vulnerabilities. Highlights ongoing need for proactive auditing, patch cycles, and supply-chain security in ubiquitous tooling.",
+      "summary_zh": "在两家 AI 巨头报告零漏洞后，curl 仍披露六个 CVE，强调对广泛使用工具持续进行主动审计、补丁更新和供应链安全的重要性。",
+      "hn": {
+        "id": 49536114,
+        "type": "story",
+        "by": "goobreee",
+        "score": 175,
+        "descendants": 59,
+        "time": 1788356594,
+        "comments_url": "https://news.ycombinator.com/item?id=49536114"
+      },
+      "tags": [
+        "Security",
+        "AI"
+      ],
+      "hot_score": 0.42
+    },
+    {
+      "title_en": "True Rate of Unemployment",
+      "url": "https://www.lisep.org/tru",
+      "title_zh": "真实失业率",
+      "created_display": "Created: Sep 01, 2026 / 19:21 PT",
+      "image_url": "https://cdn.prod.website-files.com/63b9f524e7d3d45006f3a418/641ded42b81e30b43bc149e4_LISEP%20Mark%20Isolated.svg",
+      "summary_en": "The piece critiques official unemployment metrics, highlighting underemployment, discouraged workers, and misclassification as hidden unemployment. It argues for more nuanced measures to understand labor market health and policy impact. The takeaway for tech readers: hiring dynamics and automation risk depend on how you measure unemployment.",
+      "summary_zh": "本文批评官方失业指标的局限，指出隐性失业包括兼职但想要全职、被放弃求职者和分类错误等问题。它主张采用更细化的指标来评估劳动力市场健康及政策影响。对科技读者而言，招聘趋势与自动化风险取决于你采用的失业度量方式。",
+      "hn": {
+        "id": 49530989,
+        "type": "story",
+        "by": "ptrhvns",
+        "score": 306,
+        "descendants": 348,
+        "time": 1788315670,
+        "comments_url": "https://news.ycombinator.com/item?id=49530989"
+      },
+      "tags": [
+        "Business",
+        "Health"
+      ],
+      "hot_score": 0.4
+    },
+    {
+      "title_en": "Check if a file was made with Claude",
+      "url": "https://claude.com/check-content",
+      "title_zh": "检查文件是否由 Claude 生成",
+      "created_display": "Created: Sep 02, 2026 / 05:23 PT",
+      "image_url": null,
+      "summary_en": "Claude released a tool to check whether content was produced with Claude, enabling easier detection of AI-generated content. This helps organizations enforce policies around AI authorship and compliance.",
+      "summary_zh": "Claude 推出工具，检查某个文件是否由 Claude 生成，便于识别 AI 创作内容。对于执行合规和内容审核的组织，这类工具具有现实意义。",
+      "hn": {
+        "id": 49535201,
+        "type": "story",
+        "by": "frexs",
+        "score": 179,
+        "descendants": 132,
+        "time": 1788351800,
+        "comments_url": "https://news.ycombinator.com/item?id=49535201"
+      },
+      "hot_score": 0.4,
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "title_en": "My local model setup on an M4 Pro Mac Mini",
+      "url": "https://lws.io/blog/my-local-model-setup/",
+      "title_zh": "在 M4 Pro Mac Mini 上的本地模型部署",
+      "created_display": "Created: Sep 01, 2026 / 15:30 PT",
+      "image_url": "https://lws.io/open-graph/blog/my-local-model-setup.png",
+      "summary_en": "The post details a practical guide to running local LLM inference on an M4 Pro Mac Mini, including setup, tooling (ggml/llama.cpp or MPS), and performance notes. It demonstrates that privacy-preserving local inference on consumer hardware is increasingly viable for developers and researchers.",
+      "summary_zh": "该文提供在 M4 Pro Mac Mini 上本地运行大模型推理的实用指南，涵盖环境搭建、工具链（如 ggml/llama.cpp 和 MPS）以及性能要点。表明在消费级硬件上本地推理越来越具可行性，有助于开发者和研究者保护隐私。",
+      "hn": {
+        "id": 49529132,
+        "type": "story",
+        "by": "raybb",
+        "score": 318,
+        "descendants": 190,
+        "time": 1788301852,
+        "comments_url": "https://news.ycombinator.com/item?id=49529132"
+      },
+      "tags": [
+        "AI",
+        "Hardware",
+        "Privacy"
+      ],
+      "hot_score": 0.36
+    },
+    {
+      "title_en": "Quasar 438B: Europe's Leading AI Model",
+      "url": "https://multiversecomputing.com/resources/introducing-quasar-438b-europe-s-leading-ai-model",
+      "title_zh": "Quasar 438B：欧洲领先的 AI 模型",
+      "created_display": "Created: Sep 02, 2026 / 03:02 PT",
+      "image_url": "https://cdn.sanity.io/images/ls8k7ser/production/9d72d17c5a3ae1d6e11decb87c61336f6e588b5b-1920x1080.png",
+      "summary_en": "Introduces Quasar 438B as a leading European AI model, outlining architecture, capabilities, and strategic significance for EU AI sovereignty and research collaboration.",
+      "summary_zh": "介绍 Quasar 438B 这一欧洲领先的 AI 模型，概述架构、能力及对欧盟 AI 主权与科研协作的意义。",
+      "hn": {
+        "id": 49534132,
+        "type": "story",
+        "by": "amunozo",
+        "score": 186,
+        "descendants": 125,
+        "time": 1788343361,
+        "comments_url": "https://news.ycombinator.com/item?id=49534132"
+      },
+      "tags": [
+        "AI",
+        "Business"
+      ],
+      "hot_score": 0.36
+    },
+    {
+      "title_en": "Movie Scene Map – 13,312 films, series, games, anime and manga",
+      "url": "https://moviescenemap.com/",
+      "title_zh": "Movie Scene Map：覆盖 13,312 部影视、剧集、游戏、动漫与漫画的场景库",
+      "created_display": "Created: Sep 01, 2026 / 09:34 PT",
+      "image_url": "https://moviescenemap.com/og.png",
+      "summary_en": "Movie Scene Map catalogs 13,312 films, series, games, anime and manga by individual scenes, enabling precise cross-media search. It can aid creators, researchers, and educators looking to study or reference iconic moments. Licensing and data sourcing remain notable questions for such a project.",
+      "summary_zh": "Movie Scene Map 按场景对 13,312 部影视、剧集、游戏、动漫与漫画进行整理，支持精确的跨媒介检索。对创作者、研究者和教育工作者在研究或引用经典场景时很有帮助，但数据来源与许可问题值得关注。",
+      "hn": {
+        "id": 49524320,
+        "type": "story",
+        "by": "Flightmussy",
+        "score": 335,
+        "descendants": 48,
+        "time": 1788280485,
+        "comments_url": "https://news.ycombinator.com/item?id=49524320"
+      },
+      "tags": [
+        "Data",
+        "Entertainment"
+      ],
+      "hot_score": 0.3
+    },
+    {
+      "title_en": "Ambient CSS v3 – Blender meets CSS",
+      "url": "https://ambientcss.vercel.app/",
+      "title_zh": "Ambient CSS 第3版：Blender 与 CSS 的融合",
+      "created_display": "Created: Sep 01, 2026 / 08:35 PT",
+      "image_url": "https://ambientcss.vercel.app/og-image.png",
+      "summary_en": "Ambient CSS v3 blends Blender-like 3D visuals with CSS, enabling more expressive, shader-like styling directly in stylesheets. This continues a trend toward richer client-side visuals without external tools, shaping how designers prototype UI. The update could influence performance considerations and design workflows.",
+      "summary_zh": "Ambient CSS 第3版将 Blender 风格的三维视觉效果与 CSS 融合，让样式表本身就能实现更具表现力的材质与光影。进一步推动在无需外部工具的情况下实现更丰富的前端视觉效果，影响设计师的原型和工作流。",
+      "hn": {
+        "id": 49523387,
+        "type": "story",
+        "by": "kikkupico",
+        "score": 304,
+        "descendants": 97,
+        "time": 1788276911,
+        "comments_url": "https://news.ycombinator.com/item?id=49523387"
+      },
+      "tags": [
+        "Design",
+        "Web"
+      ],
+      "hot_score": 0.26
+    },
+    {
+      "title_en": "Whistleblower warns Postal Service mail ballot system has catastrophic problems",
+      "url": "https://www.cbsnews.com/news/whistleblower-postal-service-new-mail-ballot-system/",
+      "title_zh": "告密者警告邮政服务新邮寄选票系统存在灾难性问题",
+      "created_display": "Created: Sep 01, 2026 / 09:41 PT",
+      "image_url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/09/01/c8d748b0-a751-49fb-ae95-f07b9295de23/thumbnail/1200x630g7/e69780cb8ec5c4b664d66f0389e29196/gettyimages-2290492820.jpg",
+      "summary_en": "A whistleblower warns that the Postal Service's new mail-ballot system could experience catastrophic failures, threatening timely delivery and accurate counting. The claim spotlights election infrastructure risks and the need for robust contingency plans and oversight.",
+      "summary_zh": "一名吹哨人警告邮政服务的新邮寄选票系统可能存在灾难性问题，威胁投递及时性和计票的准确性。此事突显选举基础设施的脆弱性，需要更强的监督与应急规划。",
+      "hn": {
+        "id": 49524428,
+        "type": "story",
+        "by": "ck2",
+        "score": 286,
+        "descendants": 267,
+        "time": 1788280873,
+        "comments_url": "https://news.ycombinator.com/item?id=49524428"
+      },
+      "hot_score": 0.25,
+      "tags": [
+        "Politics",
+        "DevOps"
+      ]
+    },
+    {
+      "title_en": "Atlas: A World Model for Spatial Intelligence",
+      "url": "https://www.worldlabs.ai/blog/atlas",
+      "title_zh": "Atlas：用于空间智能的世界模型",
+      "created_display": "Created: Sep 01, 2026 / 10:36 PT",
+      "image_url": "https://www.worldlabs.ai/images/atlas-og.jpg",
+      "summary_en": "WorldLabs introduces Atlas, a world model aimed at spatial intelligence, enabling improved spatial reasoning for robotics, navigation, and planning.",
+      "summary_zh": "WorldLabs 推出 Atlas，这是一种面向空间智能的世界模型，提升机器人、导航与规划等任务的空间推理能力。文章介绍了 Atlas 如何构建环境表征与行动决策，对具身 AI 具有潜在影响。",
+      "hn": {
+        "id": 49525160,
+        "type": "story",
+        "by": "johnsutor",
+        "score": 267,
+        "descendants": 59,
+        "time": 1788284162,
+        "comments_url": "https://news.ycombinator.com/item?id=49525160"
+      },
+      "tags": [
+        "AI"
+      ],
+      "hot_score": 0.25
+    },
+    {
+      "title_en": "Apple reveals 'shocking evidence' from ex-employee's MacBook in OpenAI suit",
+      "url": "https://9to5mac.com/2026/08/31/apple-openai-forensic-macbook-evidence/",
+      "title_zh": "苹果在与 OpenAI 的诉讼中披露前员工 MacBook 的取证材料",
+      "created_display": "Created: Sep 01, 2026 / 13:19 PT",
+      "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/apple-openai.jpg?quality=82&strip=all&resize=1200,628",
+      "summary_en": "Apple has surfaced forensic material from an ex-employee's MacBook in its OpenAI lawsuit, suggesting sensitive data relevant to the case. The disclosure highlights how device-level evidence can influence AI-related litigation and regulatory scrutiny of data handling by tech giants.",
+      "summary_zh": "苹果在针对 OpenAI 的诉讼中公开了前员工 MacBook 的取证材料，显示出与案情相关的敏感数据。此举凸显设备级证据在 AI 相关诉讼与监管审查中的作用。",
+      "hn": {
+        "id": 49527573,
+        "type": "story",
+        "by": "colinprince",
+        "score": 243,
+        "descendants": 186,
+        "time": 1788293951,
+        "comments_url": "https://news.ycombinator.com/item?id=49527573"
+      },
+      "tags": [
+        "Legal",
+        "Privacy",
+        "AI",
+        "Politics"
+      ],
+      "hot_score": 0.25
+    },
+    {
+      "title_en": "The creator of Jujutsu has joined ERSC",
+      "url": "https://ersc.io/blog/martin-joins-ersc",
+      "title_zh": "Jujutsu 的创建者加入 ERSC",
+      "created_display": "Created: Sep 01, 2026 / 10:46 PT",
+      "image_url": null,
+      "summary_en": "ERSC welcomes the creator of Jujutsu, signaling collaboration that could influence ML tooling and governance efforts at ERSC. The move could steer ERSC's research directions and bring new perspectives from the Jujutsu project into the organization.",
+      "summary_zh": "Jujutsu 的创始人加入 ERSC，可能在 ML 工具与治理相关工作中带来新视角，并影响 ERSC 的研究方向和项目 agenda。",
+      "hn": {
+        "id": 49525297,
+        "type": "story",
+        "by": "steveklabnik",
+        "score": 263,
+        "descendants": 263,
+        "time": 1788284781,
+        "comments_url": "https://news.ycombinator.com/item?id=49525297"
+      },
+      "tags": [
+        "Open Source"
+      ],
+      "hot_score": 0.24
+    },
+    {
+      "title_en": "Fine, I'll build my own text editor",
+      "url": "https://dbushell.com/2026/09/01/text-editor/",
+      "title_zh": "好吧，我自己动手打造文本编辑器",
+      "created_display": "Created: Sep 01, 2026 / 10:12 PT",
+      "image_url": "https://dbushell.com/images/articles/2026-09-01-text-editor.png",
+      "summary_en": "The post chronicles building a personal text editor from scratch to explore editor architecture, including buffers, syntax highlighting, and extensibility.",
+      "summary_zh": "博主分享从零开始构建个人文本编辑器的过程，聚焦缓冲区、语法高亮和可扩展性等编辑器架构要点。",
+      "hn": {
+        "id": 49524863,
+        "type": "story",
+        "by": "Alephinitesimal",
+        "score": 253,
+        "descendants": 248,
+        "time": 1788282735,
+        "comments_url": "https://news.ycombinator.com/item?id=49524863"
+      },
+      "tags": [
+        "Programming"
+      ],
+      "hot_score": 0.23
+    },
+    {
+      "title_en": "Dwarf Fortress' creator says the industry's in shambles over AI",
+      "url": "https://www.pcgamer.com/gaming-industry/dwarf-fortress-creator-says-the-industrys-in-shambles-over-ai-and-layoff-happy-ceos-everyone-i-know-their-bosses-are-slowly-getting-psychosis/",
+      "title_zh": "《Dwarf Fortress》创作者称 AI 令游戏业陷入混乱",
+      "created_display": "Created: Sep 01, 2026 / 08:53 PT",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/KvWJPNxLA8PMtikw8FwPuc-1920-80.png",
+      "summary_en": "Dwarf Fortress creator Tarn Adams argues that AI is destabilizing the game industry, lamenting layoffs and risk-averse leadership. He warns that the rush to AI-enabled workflows could erode craftsmanship and long-term sustainability. His comments reflect a broader debate about how AI tools are reshaping indie and major studios.",
+      "summary_zh": "《Dwarf Fortress》创作者塔恩·亚当斯认为 AI 正在 destabilize 游戏行业，指出裁员潮与高层风险规避。他警告对 AI 驱动工作流的追求可能侵蚀工艺性与长期可持续性。这一观点反映了 AI 工具正在重塑独立与大型工作室的更广泛辩论。",
+      "hn": {
+        "id": 49523720,
+        "type": "story",
+        "by": "Limb",
+        "score": 239,
+        "descendants": 247,
+        "time": 1788278022,
+        "comments_url": "https://news.ycombinator.com/item?id=49523720"
+      },
+      "tags": [
+        "AI",
+        "Business"
+      ],
+      "hot_score": 0.21
+    },
+    {
+      "title_en": "Show HN: Running 104GB Qwen3.8-Flash-Next on 48GB Mac with at ~12 tok/s",
+      "url": "https://github.com/carloslfu/slotstream",
+      "title_zh": "Show HN：在 48GB Mac 上以约每秒 12 token 运行 104GB 的 Qwen3.8-Flash-Next",
+      "created_display": "Created: Sep 01, 2026 / 09:42 PT",
+      "image_url": "https://opengraph.githubassets.com/ab468e60b49103a27f46693bbcbe32c0858d4bb1089726029ee7fe001943b231/carloslfu/slotstream",
+      "summary_en": "A 104GB Qwen3.8-Flash-Next model runs on a 48GB Mac with runtime around 12 tokens per second, enabled by memory-efficient offloading and optimizations. The post demonstrates how large models can be squeezed onto consumer hardware with careful engineering. It hints at a future where hobbyists can experiment with very large models on commodity machines.",
+      "summary_zh": "演示在 48GB 内存的 Mac 上以约每秒 12 个 token 运行 104GB 的 Qwen3.8-Flash-Next，靠内存高效的 offloading 与优化技巧实现。该展示表明通过精心设计，甚至大型模型也可在普通硬件上运行。预示着爱好者有望在性价比机器上试验超大模型的未来。",
+      "hn": {
+        "id": 49524447,
+        "type": "story",
+        "by": "carloslfu",
+        "score": 227,
+        "descendants": 114,
+        "time": 1788280966,
+        "comments_url": "https://news.ycombinator.com/item?id=49524447"
+      },
+      "tags": [
+        "Show HN",
+        "AI",
+        "Hardware"
+      ],
+      "hot_score": 0.2
+    },
+    {
+      "title_en": "Show HN: Weedout – Safari extension that hides YouTube AI-labeled videos",
+      "url": "https://masteranza.github.io/weedout/",
+      "title_zh": "Show HN: Weedout——隐藏 YouTube 的 AI 标注视频的 Safari 扩展",
+      "created_display": "Created: Sep 01, 2026 / 15:06 PT",
+      "image_url": "https://masteranza.github.io/weedout/screenshot.png",
+      "summary_en": "Weedout is a Safari extension that hides videos labeled by YouTube's AI labeling system. It demonstrates a user-centric approach to content curation and metadata control in an era of automated labeling. The project spotlights growing demand for tools that empower individuals to tailor their viewing experience.",
+      "summary_zh": "Weedout 是一款 Safari 扩展，用于隐藏 YouTube 的 AI 标注视频。它展示了在自动标注日益普及的时代，提升用户对内容和元数据控制的思想。此类工具反映出用户对个性化内容控制的日益需求。",
+      "hn": {
+        "id": 49528895,
+        "type": "story",
+        "by": "masteranza",
+        "score": 179,
+        "descendants": 81,
+        "time": 1788300417,
+        "comments_url": "https://news.ycombinator.com/item?id=49528895"
+      },
+      "tags": [
+        "Show HN",
+        "Privacy",
+        "Web",
+        "AI"
+      ],
+      "hot_score": 0.2
+    },
+    {
+      "title_en": "Launch HN: Nori Robotics (YC S26) – A low-cost humanoid robot for development",
+      "url": "https://www.norirobotics.com/",
+      "title_zh": "Launch HN：Nori Robotics（YC S26）——面向开发的低成本人形机器人",
+      "created_display": "Created: Sep 01, 2026 / 10:35 PT",
+      "image_url": "https://noril1.com/opengraph-image/a3-2026e?09f634070dee520a",
+      "summary_en": "Nori Robotics launches a low-cost humanoid robot platform backed by YC, designed for development and experimentation. The affordable robot lowers barriers for researchers and developers to prototype robotics software and hardware integration. It signals growing accessibility in hands-on AI robotics.",
+      "summary_zh": "Nori Robotics 推出以开发为导向的低成本人形机器人平台，并获YC支持。该机器人降低了研究人员和开发者在机器人软件与硬件集成上的门槛，便于原型搭建。反映出人工智能机器人领域日益提升的可及性。",
+      "hn": {
+        "id": 49525153,
+        "type": "story",
+        "by": "AntonioLi",
+        "score": 198,
+        "descendants": 66,
+        "time": 1788284110,
+        "comments_url": "https://news.ycombinator.com/item?id=49525153"
+      },
+      "tags": [
+        "Startups",
+        "Hardware",
+        "AI"
+      ],
+      "hot_score": 0.18
+    },
+    {
+      "title_en": "Path to Astra: critical capabilities and frontier safeguards",
+      "url": "https://openai.com/index/path-to-astra/",
+      "title_zh": "通往 Astra 的路径：关键能力与前沿安全防护",
+      "created_display": "Created: Sep 01, 2026 / 13:20 PT",
+      "image_url": "https://images.ctfassets.net/kftzwdyauwt9/4B4TPk6PGcuKcMyKnnQIMn/f1282feb90b13f11eb010c38c867fa53/astra-seo-v002.png?w=1600&h=900&fit=fill",
+      "summary_en": "Astra outlines the essential capabilities required for the system and the safeguards being developed to address frontier AI risks. It highlights design principles for reliability, safety, and governance in scalable deployments. The document provides a framework for building robust, responsible AI at scale.",
+      "summary_zh": "文章列出实现 Astra 所需的核心能力，以及为应对前沿 AI 风险而设计的安全防护。并讨论在可扩展部署中提升可信度、可控性与治理的实践原则。",
+      "hn": {
+        "id": 49527595,
+        "type": "story",
+        "by": "jithinraj",
+        "score": 172,
+        "descendants": 101,
+        "time": 1788294041,
+        "comments_url": "https://news.ycombinator.com/item?id=49527595"
+      },
+      "tags": [
+        "AI",
+        "Security"
+      ],
+      "hot_score": 0.18
+    },
+    {
+      "title_en": "The efficient frontier of LLM inference",
+      "url": "https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/",
+      "title_zh": "LLM 推理的有效前沿",
+      "created_display": "Created: Sep 01, 2026 / 16:48 PT",
+      "image_url": "https://www.datocms-assets.com/104802/1788302073-efficient-frontier-image3.png?auto=compress%2Cformat&fit=crop&h=630&q=75&w=1200",
+      "summary_en": "Explores how to push LLM inference efficiency by balancing model size, quantization, and hardware acceleration; presents a framework for evaluating trade-offs and achieving best overall performance for a given budget.",
+      "summary_zh": "探讨通过在模型大小、量化和硬件加速之间取舍来提升 LLM 推理效率，提出一个在预算约束下评估权衡并实现最优总体性能的框架。",
+      "hn": {
+        "id": 49529898,
+        "type": "story",
+        "by": "philipkiely",
+        "score": 153,
+        "descendants": 44,
+        "time": 1788306485,
+        "comments_url": "https://news.ycombinator.com/item?id=49529898"
+      },
+      "tags": [
+        "AI",
+        "Hardware"
+      ],
+      "hot_score": 0.18
+    }
+  ]
+}

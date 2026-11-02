@@ -1,0 +1,1155 @@
+{
+  "meta": {
+    "mode": "best",
+    "source": "https://news.ycombinator.com/",
+    "api": "https://github.com/HackerNews/API",
+    "count_requested": 50,
+    "count_written": 50,
+    "reused_same_day": 0,
+    "reused_cross_day": 21,
+    "new_llm_enriched": 29,
+    "scrape_time_display": "04:54, February 28, 2026 (PST)",
+    "timezone": "America/Los_Angeles",
+    "date_dir": "2026/02/27",
+    "content_date": "2026-02-27",
+    "run_time_local": "04:54, February 28, 2026 (PST)",
+    "run_time_utc": "2026-02-28 12:54:07 UTC",
+    "incremental": true,
+    "stories_max": 50,
+    "hot_score_time_utc": "2026-02-28 12:55:06 UTC"
+  },
+  "items": [
+    {
+      "title_en": "OpenAI – How to delete your account",
+      "url": "https://help.openai.com/en/articles/6378407-how-to-delete-your-account",
+      "title_zh": "OpenAI：如何删除账户",
+      "created_display": "Created: Feb 28, 2026 / 02:41 PT",
+      "image_url": null,
+      "summary_en": "How to delete your OpenAI account is explained in the help center, covering steps to remove data and close access. Deleting an account is a permanent action with potential data-retention caveats.",
+      "summary_zh": "OpenAI 帮助中心提供了删除账户的步骤，包含如何移除数据与关闭访问权限。请注意，删除账户是永久性操作，数据的保留可能依照平台政策执行。",
+      "hn": {
+        "id": 47193478,
+        "type": "story",
+        "by": "carlosrg",
+        "score": 475,
+        "descendants": 76,
+        "time": 1772275315,
+        "comments_url": "https://news.ycombinator.com/item?id=47193478"
+      },
+      "hot_score": 35.5,
+      "tags": [
+        "Privacy",
+        "AI"
+      ]
+    },
+    {
+      "title_en": "How do I cancel my ChatGPT subscription?",
+      "url": "https://help.openai.com/en/articles/7232927-how-do-i-cancel-my-chatgpt-subscription",
+      "title_zh": "如何取消我的 ChatGPT 订阅？",
+      "created_display": "Created: Feb 27, 2026 / 21:55 PT",
+      "image_url": null,
+      "summary_en": "Steps to cancel ChatGPT subscriptions are documented in help; you can navigate to account settings, manage subscription, and confirm cancellation. Your plan will stop auto-renewal and access after the current cycle.",
+      "summary_zh": "帮助文档列出取消 ChatGPT 订阅的具体步骤：进入账户设置、管理订阅并确认取消。取消后将停止自动续订，当前周期结束后服务将终止。",
+      "hn": {
+        "id": 47190997,
+        "type": "story",
+        "by": "tobr",
+        "score": 908,
+        "descendants": 218,
+        "time": 1772258101,
+        "comments_url": "https://news.ycombinator.com/item?id=47190997"
+      },
+      "hot_score": 17.37,
+      "tags": [
+        "Business",
+        "AI"
+      ]
+    },
+    {
+      "title_en": "We Will Not Be Divided",
+      "url": "https://notdivided.org",
+      "title_zh": "我们不会被分裂",
+      "created_display": "Created: Feb 27, 2026 / 16:54 PT",
+      "image_url": "https://notdivided.org/og-image.png",
+      "summary_en": "A campaign advocating unity and opposing social or political division, encouraging collaboration across communities and tech circles.",
+      "summary_zh": "一个倡导团结、反对分裂的行动，推动跨社区与科技界的协作。",
+      "hn": {
+        "id": 47188473,
+        "type": "story",
+        "by": "BloondAndDoom",
+        "score": 1881,
+        "descendants": 597,
+        "time": 1772240093,
+        "comments_url": "https://news.ycombinator.com/item?id=47188473"
+      },
+      "hot_score": 16.25,
+      "tags": [
+        "Politics",
+        "Gaming"
+      ]
+    },
+    {
+      "title_en": "OpenAI agrees with Dept. of War to deploy models in their classified network",
+      "url": "https://twitter.com/sama/status/2027578652477821175",
+      "title_zh": "OpenAI 同意与战争部在机密网络中部署模型",
+      "created_display": "Created: Feb 27, 2026 / 18:59 PT",
+      "image_url": "https://pbs.twimg.com/profile_images/1904933748015255552/k43GMz63_200x200.jpg",
+      "summary_en": "OpenAI reportedly agreed with the Department of War to deploy AI models on a classified government network, signaling deeper government use of advanced AI in secure environments. This raises questions about data handling, security, and governance for defense deployments.",
+      "summary_zh": "据报道，OpenAI 同意与战争部在机密政府网络中部署 AI 模型，显示政府在安全环境中对先进 AI 的更深度使用。此举引发对数据处理、安全与治理在防务部署中的讨论。",
+      "hn": {
+        "id": 47189650,
+        "type": "story",
+        "by": "eoskx",
+        "score": 869,
+        "descendants": 414,
+        "time": 1772247542,
+        "comments_url": "https://news.ycombinator.com/item?id=47189650"
+      },
+      "hot_score": 10.01,
+      "tags": [
+        "AI",
+        "Security",
+        "Politics"
+      ]
+    },
+    {
+      "title_en": "Statement on the comments from Secretary of War Pete Hegseth",
+      "url": "https://www.anthropic.com/news/statement-comments-secretary-war",
+      "title_zh": "关于对战争部部长彼得·赫格斯特的评论的声明",
+      "created_display": "Created: Feb 27, 2026 / 17:20 PT",
+      "image_url": "https://cdn.sanity.io/images/4zrzovbb/website/04e461ada1956ddd7390fe7053f8eb865a7ec26c-4800x2520.png",
+      "summary_en": "Anthropic released a statement addressing comments from War Secretary Pete Hegseth, clarifying positions on AI safety and government collaboration. The exchange highlights tensions between defense policymakers and AI firms over deployment in national security contexts.",
+      "summary_zh": "Anthropic 对战争部部长彼得·赫格斯特的评论作出声明，澄清在 AI 安全与政府合作方面的立场。此事揭示了国防决策者与 AI 公司在国家安全领域部署上的分歧。",
+      "hn": {
+        "id": 47188697,
+        "type": "story",
+        "by": "surprisetalk",
+        "score": 998,
+        "descendants": 331,
+        "time": 1772241610,
+        "comments_url": "https://news.ycombinator.com/item?id=47188697"
+      },
+      "hot_score": 9.11,
+      "tags": [
+        "AI",
+        "Politics",
+        "Security"
+      ]
+    },
+    {
+      "title_en": "I am directing the Department of War to designate Anthropic a supply-chain risk",
+      "url": "https://twitter.com/secwar/status/2027507717469049070",
+      "title_zh": "我指示战争部将 Anthropic 列为供应链风险",
+      "created_display": "Created: Feb 27, 2026 / 14:31 PT",
+      "image_url": "https://pbs.twimg.com/profile_images/1884589488942321664/5iqq-N_3_200x200.jpg",
+      "summary_en": "The Department of War reportedly intends to designate Anthropic as a supply-chain risk, which could curb its access to sensitive government projects and influence how agencies screen AI vendors. The move underscores growing government scrutiny of AI suppliers and the need for robust security practices.",
+      "summary_zh": "据称战争部计划将 Anthropic 列为供应链风险，可能限制其参与敏感政府项目并影响机构对 AI 供应商的评估。这体现政府对 AI 供应商日益严格的审查与对安全实践的强调。",
+      "hn": {
+        "id": 47186677,
+        "type": "story",
+        "by": "jacobedawson",
+        "score": 1279,
+        "descendants": 1021,
+        "time": 1772231478,
+        "comments_url": "https://news.ycombinator.com/item?id=47186677"
+      },
+      "hot_score": 8.32,
+      "tags": [
+        "Security",
+        "Politics",
+        "AI"
+      ]
+    },
+    {
+      "title_en": "U.S. and Israel Conduct Strikes on Iran",
+      "url": "https://www.nytimes.com/live/2026/02/28/world/iran-strikes-trump",
+      "title_zh": "美以对伊朗发动打击",
+      "created_display": "Created: Feb 27, 2026 / 22:57 PT",
+      "image_url": null,
+      "summary_en": "The U.S. and Israel conducted strikes on Iran, highlighting a tense escalation in the region with potential implications for global security and AI/tech supply chains depending on retaliation and geopolitical alignment.",
+      "summary_zh": "美以对伊朗发动打击，显示该地区局势升级及对全球安全与科技供应链可能产生的连带影响，具体取决于后续行动。",
+      "hn": {
+        "id": 47191414,
+        "type": "story",
+        "by": "gammarator",
+        "score": 273,
+        "descendants": 15,
+        "time": 1772261866,
+        "comments_url": "https://news.ycombinator.com/item?id=47191414"
+      },
+      "hot_score": 6.51,
+      "tags": [
+        "Politics",
+        "Security",
+        "AI"
+      ]
+    },
+    {
+      "title_en": "US and Israel launch strikes on Iran, as Trump says ‘massive’ campaign underway",
+      "url": "https://www.cnn.com/2026/02/28/middleeast/israel-attack-iran-intl-hnk",
+      "title_zh": "美国与以色列对伊朗发动打击，特朗普称正在展开大规模行动",
+      "created_display": "Created: Feb 27, 2026 / 22:34 PT",
+      "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/ap26059256811672.jpg?c=16x9&q=w_800,c_fill",
+      "summary_en": "U.S. and Israel launch strikes on Iran as Trump says a 'massive' campaign is underway, underscoring high-stakes geopolitics with potential spillovers into regional tech and security markets.",
+      "summary_zh": "美国与以色列对伊朗发动打击，特朗普称正在展开大规模行动，凸显地缘政治风险对区域科技与安全市场的潜在影响。",
+      "hn": {
+        "id": 47191232,
+        "type": "story",
+        "by": "lavp",
+        "score": 262,
+        "descendants": 751,
+        "time": 1772260447,
+        "comments_url": "https://news.ycombinator.com/item?id=47191232"
+      },
+      "hot_score": 5.72,
+      "tags": [
+        "Politics",
+        "Security"
+      ]
+    },
+    {
+      "title_en": "Croatia declared free of landmines after 31 years",
+      "url": "https://glashrvatske.hrt.hr/en/domestic/croatia-declared-free-of-landmines-after-31-years-12593533",
+      "title_zh": "克罗地亚在经过31年的清理后宣布无地雷区域",
+      "created_display": "Created: Feb 27, 2026 / 18:48 PT",
+      "image_url": "https://api.hrt.hr/media/92/38/najava-razminiranjetransfer-frame-1065-20231204122052.webp",
+      "summary_en": "Croatia has been declared landmine-free after 31 years of clearance and monitoring, a milestone for safety and post-conflict recovery with implications for travel, commerce, and regional stability.",
+      "summary_zh": "克罗地亚在经过长达31年的清理与监测后宣告无地雷区域，这是对安全与战后重建的重要里程碑，将影响旅游、贸易及区域稳定。",
+      "hn": {
+        "id": 47189535,
+        "type": "story",
+        "by": "toomuchtodo",
+        "score": 350,
+        "descendants": 70,
+        "time": 1772246896,
+        "comments_url": "https://news.ycombinator.com/item?id=47189535"
+      },
+      "hot_score": 3.92,
+      "tags": [
+        "Security"
+      ]
+    },
+    {
+      "title_en": "Statement from Dario Amodei on our discussions with the Department of War",
+      "url": "https://www.anthropic.com/news/statement-department-of-war",
+      "title_zh": "阿莫代伊就与国防部的讨论发表声明",
+      "created_display": "Created: Feb 26, 2026 / 14:42 PT",
+      "image_url": "https://cdn.sanity.io/images/4zrzovbb/website/1864442e2d581ffc8242e7c57e2c4e2309351f49-1200x630.png",
+      "summary_en": "Dario Amodei addresses discussions with the Department of War, clarifying the scope and boundaries of conversations around AI safety and defense applications. He emphasizes responsible collaboration and ongoing dialogue with policymakers. This matters for industry trust and shaping policy directions.",
+      "summary_zh": "阿莫代伊就与国防部的讨论发表声明，澄清对话的边界和安全议题。强调负责任的协作、治理以及与决策者的持续对话。这对行业信任和政策走向具有一定影响。",
+      "hn": {
+        "id": 47173121,
+        "type": "story",
+        "by": "qwertox",
+        "score": 2871,
+        "descendants": 1542,
+        "time": 1772145767,
+        "comments_url": "https://news.ycombinator.com/item?id=47173121"
+      },
+      "tags": [
+        "AI",
+        "Politics"
+      ],
+      "hot_score": 3.72
+    },
+    {
+      "title_en": "Leaving Google has actively improved my life",
+      "url": "https://pseudosingleton.com/leaving-google-improved-my-life/",
+      "title_zh": "离开谷歌后我的生活明显改善",
+      "created_display": "Created: Feb 27, 2026 / 11:08 PT",
+      "image_url": "https://bear-images.sfo2.cdn.digitaloceanspaces.com/herman-1683556668-0.png",
+      "summary_en": "A personal essay argues that leaving Google dramatically improved the author's life, citing autonomy, privacy, and focus gains. The piece adds to ongoing debates about workplace culture, tech giants, and personal freedom.",
+      "summary_zh": "作者在个人随笔中表示离开谷歌后生活明显改善，强调自主性、隐私和专注度的提升。此文为职场文化与科技巨头对个人自由影响的讨论再添讨论点。",
+      "hn": {
+        "id": 47184288,
+        "type": "story",
+        "by": "speckx",
+        "score": 438,
+        "descendants": 243,
+        "time": 1772219305,
+        "comments_url": "https://news.ycombinator.com/item?id=47184288"
+      },
+      "hot_score": 2.03,
+      "tags": [
+        "Privacy"
+      ]
+    },
+    {
+      "title_en": "A new California law says all operating systems need to have age verification",
+      "url": "https://www.pcgamer.com/software/operating-systems/a-new-california-law-says-all-operating-systems-including-linux-need-to-have-some-form-of-age-verification-at-account-setup/",
+      "title_zh": "加州新法规定所有操作系统在设置账户时需进行年龄验证",
+      "created_display": "Created: Feb 27, 2026 / 06:55 PT",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/Z9XbAPKf32a28g9TdTi8dG-1920-80.jpg",
+      "summary_en": "California passes a law requiring age verification at OS setup for all devices, including Linux. The move aims to curb underage access but could complicate privacy and OSS distribution, forcing platforms to implement new authentication flows.",
+      "summary_zh": "加州通过新法，要求所有操作系统在账户设置时进行年龄验证，覆盖包括 Linux 在内的设备。此举旨在限制未成年人使用，同时可能带来隐私与开源软件分发的合规挑战。",
+      "hn": {
+        "id": 47181208,
+        "type": "story",
+        "by": "WalterSobchak",
+        "score": 617,
+        "descendants": 564,
+        "time": 1772204149,
+        "comments_url": "https://news.ycombinator.com/item?id=47181208"
+      },
+      "hot_score": 2.02,
+      "tags": [
+        "Politics",
+        "Privacy"
+      ]
+    },
+    {
+      "title_en": "Don't use passkeys for encrypting user data",
+      "url": "https://blog.timcappalli.me/p/passkeys-prf-warning/",
+      "title_zh": "不要用 Passkeys 来对用户数据进行加密",
+      "created_display": "Created: Feb 27, 2026 / 19:11 PT",
+      "image_url": "https://blog.timcappalli.me/p/passkeys-prf-warning/featured.jpg",
+      "summary_en": "A counterpoint argues against using passkeys for encrypting user data, warning about PRF weaknesses and suggesting dedicated encryption primitives instead.",
+      "summary_zh": "对使用 Passkeys 对用户数据进行加密的做法提出质疑，指出 PRF 潜在弱点并建议采用专门的加密原语以确保数据安全。",
+      "hn": {
+        "id": 47189749,
+        "type": "story",
+        "by": "zdw",
+        "score": 170,
+        "descendants": 145,
+        "time": 1772248300,
+        "comments_url": "https://news.ycombinator.com/item?id=47189749"
+      },
+      "hot_score": 2.01,
+      "tags": [
+        "Security"
+      ]
+    },
+    {
+      "title_en": "Court finds Fourth Amendment doesn’t support broad search of protesters’ devices",
+      "url": "https://www.eff.org/deeplinks/2026/02/victory-tenth-circuit-finds-fourth-amendment-doesnt-support-broad-search-0",
+      "title_zh": "法院裁定第四修正案不支持对抗议者设备的广泛搜索",
+      "created_display": "Created: Feb 27, 2026 / 07:09 PT",
+      "image_url": "https://www.eff.org/files/banner_library/protest-2024-2.jpg",
+      "summary_en": "A court held that the Fourth Amendment does not broadly authorize searching protesters’ devices, marking a significant privacy protection for digital evidence. The ruling narrows police power to seize or inspect personal data at demonstrations.",
+      "summary_zh": "法院裁定第四修正案不支持对抗议者设备的广泛搜索，强化了数字隐私保护。这一裁决缩小了警方在示威现场查验个人数据的权限。",
+      "hn": {
+        "id": 47181391,
+        "type": "story",
+        "by": "hn_acker",
+        "score": 583,
+        "descendants": 103,
+        "time": 1772204944,
+        "comments_url": "https://news.ycombinator.com/item?id=47181391"
+      },
+      "hot_score": 1.94,
+      "tags": [
+        "Privacy",
+        "Legal"
+      ]
+    },
+    {
+      "title_en": "Dan Simmons, author of Hyperion, has died",
+      "url": "https://www.dignitymemorial.com/obituaries/longmont-co/daniel-simmons-12758871",
+      "title_zh": "《Hyperion》作者丹·西蒙斯去世",
+      "created_display": "Created: Feb 27, 2026 / 10:13 PT",
+      "image_url": "https://d3eguztg5751m.cloudfront.net/as/assets-mem-com/cmi/1/7/8/8/12758871/20260226_130858076_0_orig.jpg/-/daniel-simmons-longmont-co-obituary.jpg",
+      "summary_en": "Dan Simmons, author of Hyperion, has died, marking the loss of a beloved sci-fi voice known for intricate cosmology and richly crafted worlds.",
+      "summary_zh": "科幻作家《Hyperion》作者丹·西蒙斯去世，因其错综复杂的宇宙观和丰富的世界观而深受读者喜爱。",
+      "hn": {
+        "id": 47183578,
+        "type": "story",
+        "by": "throw0101a",
+        "score": 449,
+        "descendants": 199,
+        "time": 1772216019,
+        "comments_url": "https://news.ycombinator.com/item?id=47183578"
+      },
+      "hot_score": 1.92,
+      "tags": [
+        "Entertainment"
+      ]
+    },
+    {
+      "title_en": "President Trump bans Anthropic from use in government systems",
+      "url": "https://www.npr.org/2026/02/27/nx-s1-5729118/trump-anthropic-pentagon-openai-ai-weapons-ban",
+      "title_zh": "特朗普总统禁止 Anthropic 在政府系统中的使用",
+      "created_display": "Created: Feb 27, 2026 / 13:40 PT",
+      "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2346x1320+0+93/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fb4%2Fea%2Fbfec70974d408a48598215de7c04%2Fap26036779392489.jpg",
+      "summary_en": "President Trump bans Anthropic from use in government systems, signaling a policy move that could affect procurement and access to AI tools for public sector. It illustrates how political shifts shape AI vendor relationships.",
+      "summary_zh": "特朗普总统宣布禁止 Anthropic 在政府系统中使用，可能影响公共部门的采购与对 AI 工具的访问。这一定性转变也凸显政治因素对 AI 供应商关系的影响。",
+      "hn": {
+        "id": 47186031,
+        "type": "story",
+        "by": "pkress2",
+        "score": 282,
+        "descendants": 206,
+        "time": 1772228440,
+        "comments_url": "https://news.ycombinator.com/item?id=47186031"
+      },
+      "hot_score": 1.67,
+      "tags": [
+        "Politics",
+        "AI"
+      ]
+    },
+    {
+      "title_en": "OpenAI raises $110B on $730B pre-money valuation",
+      "url": "https://techcrunch.com/2026/02/27/openai-raises-110b-in-one-of-the-largest-private-funding-rounds-in-history/",
+      "title_zh": "OpenAI 完成 1100 亿美元融资，估值约 7300 亿美元（融资前）",
+      "created_display": "Created: Feb 27, 2026 / 06:56 PT",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2197366846.jpg?resize=1200,800",
+      "summary_en": "OpenAI raised a staggering $110B in private funding, valuing the company at about $730B pre-money, underscoring the outsized appetite for AI infrastructure and services. The deal amplifies competitive dynamics and incentives for further AI product bets.",
+      "summary_zh": "OpenAI 完成约 1100 亿美元的私募融资，融资前估值约 7300 亿美元，凸显对 AI 基础设施与服务的强烈市场需求。这笔交易将推动行业竞争格局与后续产品押注。",
+      "hn": {
+        "id": 47181211,
+        "type": "story",
+        "by": "zlatkov",
+        "score": 508,
+        "descendants": 549,
+        "time": 1772204165,
+        "comments_url": "https://news.ycombinator.com/item?id=47181211"
+      },
+      "hot_score": 1.66,
+      "tags": [
+        "Business",
+        "AI",
+        "DevOps"
+      ]
+    },
+    {
+      "title_en": "Rob Grant, creator of Red Dwarf, has died",
+      "url": "https://www.beyondthejoke.co.uk/content/17193/red-dwarf-rob-grant",
+      "title_zh": "《红矮星》创作者罗布·格兰特去世",
+      "created_display": "Created: Feb 27, 2026 / 11:26 PT",
+      "image_url": "https://www.beyondthejoke.co.uk/sites/default/files/hcgkeaewgaa5spo.jpg",
+      "summary_en": "Rob Grant, Red Dwarf creator, has died; tributes pour in for the sci-fi writer who helped shape British comedic sci-fi.",
+      "summary_zh": "《Red Dwarf》创作者罗布·格兰特去世，众多读者与科幻爱好者缅怀这位塑造英国科幻喜剧的作家。",
+      "hn": {
+        "id": 47184480,
+        "type": "story",
+        "by": "nephihaha",
+        "score": 271,
+        "descendants": 89,
+        "time": 1772220398,
+        "comments_url": "https://news.ycombinator.com/item?id=47184480"
+      },
+      "hot_score": 1.29,
+      "tags": [
+        "Entertainment"
+      ]
+    },
+    {
+      "title_en": "A better streams API is possible for JavaScript",
+      "url": "https://blog.cloudflare.com/a-better-web-streams-api/",
+      "title_zh": "为 JavaScript 提供更好的 Web Streams API 的可能性",
+      "created_display": "Created: Feb 27, 2026 / 06:02 PT",
+      "image_url": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/610CHZf0Ig8hBHyPlId5MD/b1e7752eb5dc47c4ef5aa4143770d947/OG_Share_2024-2025-2026__9_.png",
+      "summary_en": "Cloudflare argues JavaScript could benefit from a better Web Streams API, proposing improvements for streaming web data with more ergonomic, efficient primitives.",
+      "summary_zh": "Cloudflare 提出 JS 的 Web Streams API 可改进，提出更易用、性能更优的流数据原语，帮助在浏览器中构建更健壮的数据管道。",
+      "hn": {
+        "id": 47180569,
+        "type": "story",
+        "by": "nnx",
+        "score": 418,
+        "descendants": 146,
+        "time": 1772200973,
+        "comments_url": "https://news.ycombinator.com/item?id=47180569"
+      },
+      "hot_score": 1.28,
+      "tags": [
+        "Programming",
+        "Web"
+      ]
+    },
+    {
+      "title_en": "Get free Claude max 20x for open-source maintainers",
+      "url": "https://claude.com/contact-sales/claude-for-oss",
+      "title_zh": "为开源维护者提供 Claude 的免费使用配额，最高可达 20 倍",
+      "created_display": "Created: Feb 27, 2026 / 01:08 PT",
+      "image_url": "https://cdn.prod.website-files.com/6889473510b50328dbb70ae6/68c469d23594abeb9ab6ee48_og-claude-generic.jpg",
+      "summary_en": "Claude is offering a free usage quota of up to 20x for open-source maintainers, supporting community-led projects with access to high-quality AI tooling. This helps OSS teams scale their tooling and experimentation.",
+      "summary_zh": "Claude 为开源维护者提供最高可达 20 倍的免费使用配额，支持社区驱动项目使用高质量 AI 工具，助力 OSS 团队扩展工具链。",
+      "hn": {
+        "id": 47178371,
+        "type": "story",
+        "by": "zhisme",
+        "score": 532,
+        "descendants": 226,
+        "time": 1772183338,
+        "comments_url": "https://news.ycombinator.com/item?id=47178371"
+      },
+      "hot_score": 1.18,
+      "tags": [
+        "AI",
+        "Open Source"
+      ]
+    },
+    {
+      "title_en": "Layoffs at Block",
+      "url": "https://twitter.com/jack/status/2027129697092731343",
+      "title_zh": "Block 宣布裁员",
+      "created_display": "Created: Feb 26, 2026 / 13:17 PT",
+      "image_url": "https://pbs.twimg.com/profile_images/1661201415899951105/azNjKOSH_200x200.jpg",
+      "summary_en": "Block confirms layoffs as part of a restructuring amid a cooling tech and fintech environment. The cuts signal a continued belt-tightening in the sector and may shift focus toward core platforms and profitability. Employee and roadmap implications are likely as the company reallocates resources.",
+      "summary_zh": "Block 确认裁员，作为结构调整的一部分，反映出科技与金融科技领域的收缩态势。裁员可能会推动公司将资源集中在核心平台和盈利能力上，并影响员工和产品路线图。",
+      "hn": {
+        "id": 47172119,
+        "type": "story",
+        "by": "mlex",
+        "score": 888,
+        "descendants": 1044,
+        "time": 1772140676,
+        "comments_url": "https://news.ycombinator.com/item?id=47172119"
+      },
+      "tags": [
+        "Business"
+      ],
+      "hot_score": 1.08
+    },
+    {
+      "title_en": "NASA announces overhaul of Artemis program amid safety concerns, delays",
+      "url": "https://www.cbsnews.com/news/nasa-artemis-moon-program-overhaul/",
+      "title_zh": "NASA 在阿尔忒弥斯计划面临安全顾虑与延迟之际宣布改革",
+      "created_display": "Created: Feb 27, 2026 / 08:33 PT",
+      "image_url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/02/27/45751ccd-7e36-4b4f-b82b-9a0aeac6f8bb/thumbnail/1200x630g8/f796eb8c92366c9ce173eb45aec39b21/2026-02-02t220404z-948151260-rc2ydjad8bol-rtrmadp-3-space-moon-artemis.jpg",
+      "summary_en": "NASA announces overhaul of Artemis program amid safety concerns and delays, signaling a shift in lunar exploration strategy and risk management. Expect revised timelines and funding allocations.",
+      "summary_zh": "NASA 在阿尔忒弥斯计划面临安全顾虑与延迟之际宣布改革，预示着月球探测策略和风险管理的调整，预计时间表与资金分配将随之变化。",
+      "hn": {
+        "id": 47182483,
+        "type": "story",
+        "by": "voxadam",
+        "score": 263,
+        "descendants": 283,
+        "time": 1772210019,
+        "comments_url": "https://news.ycombinator.com/item?id=47182483"
+      },
+      "hot_score": 0.98,
+      "tags": [
+        "Space"
+      ]
+    },
+    {
+      "title_en": "The Hunt for Dark Breakfast",
+      "url": "https://moultano.wordpress.com/2026/02/22/the-hunt-for-dark-breakfast/",
+      "title_zh": "Dark Breakfast 的追踪",
+      "created_display": "Created: Feb 26, 2026 / 19:49 PT",
+      "image_url": "https://moultano.wordpress.com/wp-content/uploads/2026/02/breakfast_simplex-4.png",
+      "summary_en": "The piece explores a concept called Dark Breakfast, examining hidden or overlooked signals within systems and what defenders can learn from them.",
+      "summary_zh": "这篇文章探讨了名为 “Dark Breakfast” 的概念，分析隐藏或被忽视的数据信号在系统中的作用以及对防守方的启示。",
+      "hn": {
+        "id": 47176257,
+        "type": "story",
+        "by": "moultano",
+        "score": 532,
+        "descendants": 180,
+        "time": 1772164188,
+        "comments_url": "https://news.ycombinator.com/item?id=47176257"
+      },
+      "tags": [
+        "Security"
+      ],
+      "hot_score": 0.88
+    },
+    {
+      "title_en": "The Pentagon is making a mistake by threatening Anthropic",
+      "url": "https://www.understandingai.org/p/the-pentagon-is-making-a-mistake",
+      "title_zh": "五角大楼威胁 Anthropic 是一个错误",
+      "created_display": "Created: Feb 27, 2026 / 07:08 PT",
+      "image_url": "https://substackcdn.com/image/fetch/$s_!p-HT!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7c021cdc-3feb-4fa6-982f-1212820500f7_5431x3621.jpeg",
+      "summary_en": "Understanding AI argues the Pentagon is making a mistake by threatening Anthropic, suggesting such pressure could backfire by limiting access to trusted AI tooling for defense programs. The piece advocates more collaborative policy.",
+      "summary_zh": "对 AI 的理解组织认为五角大楼威胁 Anthropic 是一个错误，认为此举可能适得其反，限制防务项目对可信 AI 工具的获取。文章主张应采用更协作的政策。",
+      "hn": {
+        "id": 47181380,
+        "type": "story",
+        "by": "speckx",
+        "score": 245,
+        "descendants": 213,
+        "time": 1772204909,
+        "comments_url": "https://news.ycombinator.com/item?id=47181380"
+      },
+      "hot_score": 0.81,
+      "tags": [
+        "AI",
+        "Politics"
+      ]
+    },
+    {
+      "title_en": "A Chinese official’s use of ChatGPT revealed an intimidation operation",
+      "url": "https://www.cnn.com/2026/02/25/politics/chatgpt-china-intimidation-operation",
+      "title_zh": "一名中国官员使用 ChatGPT 的公开信息揭露了一起威慑行动",
+      "created_display": "Created: Feb 27, 2026 / 07:52 PT",
+      "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/ap25217544785149.jpg?c=16x9&q=w_800,c_fill",
+      "summary_en": "A Chinese official’s use of ChatGPT revealed an intimidation operation, illustrating how AI chat tools can be leveraged for coercive diplomacy or surveillance-style pressure campaigns.",
+      "summary_zh": "一名中国官员使用 ChatGPT 的公开信息揭露了一起威慑行动，显示 AI 聊天工具可能被用于施压或监视式外交。",
+      "hn": {
+        "id": 47181944,
+        "type": "story",
+        "by": "cwwc",
+        "score": 216,
+        "descendants": 135,
+        "time": 1772207547,
+        "comments_url": "https://news.ycombinator.com/item?id=47181944"
+      },
+      "hot_score": 0.76,
+      "tags": [
+        "AI",
+        "Politics",
+        "Privacy"
+      ]
+    },
+    {
+      "title_en": "ChatGPT Health fails to recognise medical emergencies – study",
+      "url": "https://www.theguardian.com/technology/2026/feb/26/chatgpt-health-fails-recognise-medical-emergencies",
+      "title_zh": "ChatGPT Health 无法识别医疗急救情形",
+      "created_display": "Created: Feb 27, 2026 / 07:44 PT",
+      "image_url": "https://i.guim.co.uk/img/media/3e8651062ef84e39193ac5df7c3ef7a576210509/588_0_3626_2901/master/3626.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e9a7e732746f9d1764c26e8a04dcdfa1",
+      "summary_en": "A study finds ChatGPT Health fails to recognise medical emergencies, cautioning against relying on AI for triage or urgent medical guidance. Highlights limits of consumer AI in critical care contexts.",
+      "summary_zh": "研究发现 ChatGPT Health 无法识别医疗急救情形，警示在紧急医疗情境下不宜依赖 AI 指引，凸显此类消费级 AI 在危急场景的局限性。",
+      "hn": {
+        "id": 47181841,
+        "type": "story",
+        "by": "simonebrunozzi",
+        "score": 198,
+        "descendants": 147,
+        "time": 1772207073,
+        "comments_url": "https://news.ycombinator.com/item?id=47181841"
+      },
+      "hot_score": 0.69,
+      "tags": [
+        "AI",
+        "Health"
+      ]
+    },
+    {
+      "title_en": "We gave terabytes of CI logs to an LLM",
+      "url": "https://www.mendral.com/blog/llms-are-good-at-sql",
+      "title_zh": "我们把 TB 级持续集成日志输入到一个大型语言模型",
+      "created_display": "Created: Feb 27, 2026 / 07:41 PT",
+      "image_url": "https://mendral.com/og?title=LLMs%20Are%20Good%20at%20SQL.%20We%20Gave%20Ours%20Terabytes%20of%20CI%20Logs.",
+      "summary_en": "We fed terabytes of CI logs to a large language model to explore its usefulness for debugging and log querying, showing LLMs can parse and reason over software pipelines. Still, it raises concerns about data leakage and model privacy.",
+      "summary_zh": "我们将 TB 级持续集成日志输入到一个大型语言模型，以探索其在调试和日志查询中的应用潜力，显示 LLM 可以对软件流水线进行解析和推理，但也引发数据外泄与隐私的担忧。",
+      "hn": {
+        "id": 47181801,
+        "type": "story",
+        "by": "shad42",
+        "score": 198,
+        "descendants": 98,
+        "time": 1772206873,
+        "comments_url": "https://news.ycombinator.com/item?id=47181801"
+      },
+      "hot_score": 0.68,
+      "tags": [
+        "AI",
+        "Privacy"
+      ]
+    },
+    {
+      "title_en": "Open source calculator firmware DB48X forbids CA/CO use due to age verification",
+      "url": "https://github.com/c3d/db48x/commit/7819972b641ac808d46c54d3f5d1df70d706d286",
+      "title_zh": "开源计算器固件 DB48X 因年龄验证而禁止在 CA/CO 使用",
+      "created_display": "Created: Feb 27, 2026 / 07:37 PT",
+      "image_url": "https://opengraph.githubassets.com/dfc647d957c125105bd4c0ae9067d475842c8916c39f009f5fea4e3c69013219/c3d/db48x/commit/7819972b641ac808d46c54d3f5d1df70d706d286",
+      "summary_en": "Open source calculator firmware DB48X forbids CA/CO use due to age verification.",
+      "summary_zh": "开源计算器固件 DB48X 因年龄验证要求，禁止在加州和科罗拉多州使用，体现了地区法令对硬件固件分发的影响。",
+      "hn": {
+        "id": 47181753,
+        "type": "story",
+        "by": "iamnothere",
+        "score": 190,
+        "descendants": 92,
+        "time": 1772206673,
+        "comments_url": "https://news.ycombinator.com/item?id=47181753"
+      },
+      "hot_score": 0.65,
+      "tags": [
+        "Open Source"
+      ]
+    },
+    {
+      "title_en": "What Claude Code chooses",
+      "url": "https://amplifying.ai/research/claude-code-picks",
+      "title_zh": "Claude Code 的选择标准",
+      "created_display": "Created: Feb 26, 2026 / 10:12 PT",
+      "image_url": "https://amplifying.ai/research/claude-code-picks/opengraph-image.png?267f044bb5256d31",
+      "summary_en": "Claude Code picks refers to how Claude’s coding assistant selects code or styles in its completions, revealing biases and safety tradeoffs. Understanding these choices matters for developers relying on AI-assisted coding and for auditing generated code.",
+      "summary_zh": "Claude Code 的选择标准揭示了其代码补全背后的偏好和安全权衡。了解这些取舍对依赖 AI 辅助编码的开发者和对生成代码的审计都很重要。",
+      "hn": {
+        "id": 47169757,
+        "type": "story",
+        "by": "tin7in",
+        "score": 596,
+        "descendants": 223,
+        "time": 1772129546,
+        "comments_url": "https://news.ycombinator.com/item?id=47169757"
+      },
+      "tags": [
+        "AI"
+      ],
+      "hot_score": 0.64
+    },
+    {
+      "title_en": "Nano Banana 2: Google's latest AI image generation model",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/nano-banana-2/",
+      "title_zh": "Nano Banana 2：谷歌最新的 AI 图像生成模型",
+      "created_display": "Created: Feb 26, 2026 / 08:02 PT",
+      "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/NB2_SS.width-1300.png",
+      "summary_en": "Nano Banana 2 introduces a more efficient image-generation model from Google, aiming to maintain high quality with lower compute. The release underscores Google’s push to scale image synthesis and has implications for developers, content pipelines, and potential on-device capabilities.",
+      "summary_zh": "Nano Banana 2 引入一款高效的 AI 图像生成模型，旨在在较低算力下保持质量。此举体现谷歌在图像合成领域的扩张策略，将影响开发者工作流、内容生产链以及设备端能力。",
+      "hn": {
+        "id": 47167858,
+        "type": "story",
+        "by": "davidbarker",
+        "score": 598,
+        "descendants": 571,
+        "time": 1772121757,
+        "comments_url": "https://news.ycombinator.com/item?id=47167858"
+      },
+      "tags": [
+        "AI"
+      ],
+      "hot_score": 0.59
+    },
+    {
+      "title_en": "The normalization of corruption in organizations (2003) [pdf]",
+      "url": "https://gwern.net/doc/sociology/2003-ashforth.pdf",
+      "title_zh": "组织中的腐败标准化（2003）[PDF]",
+      "created_display": "Created: Feb 26, 2026 / 22:21 PT",
+      "image_url": null,
+      "summary_en": "A 2003 PDF explores how corruption becomes normalized within organizations, offering sociological insights into governance, culture, and resistance to reform.",
+      "summary_zh": "2003 年的 PDF 深入分析了腐败如何在组织内部被常态化，提供对治理、文化与改革抗拒的社会学洞察。",
+      "hn": {
+        "id": 47177186,
+        "type": "story",
+        "by": "rendx",
+        "score": 275,
+        "descendants": 146,
+        "time": 1772173283,
+        "comments_url": "https://news.ycombinator.com/item?id=47177186"
+      },
+      "hot_score": 0.52,
+      "tags": [
+        "Culture"
+      ]
+    },
+    {
+      "title_en": "Show HN: RetroTick – Run classic Windows EXEs in the browser",
+      "url": "https://retrotick.com/",
+      "title_zh": "Show HN：RetroTick——在浏览器中运行经典 Windows 可执行文件",
+      "created_display": "Created: Feb 27, 2026 / 05:06 PT",
+      "image_url": null,
+      "summary_en": "RetroTick lets you run classic Windows EXEs in the browser, enabling quick preservation and access to old software without local installation. It demonstrates browser-based emulation advances.",
+      "summary_zh": "RetroTick 让你在浏览器中运行经典 Windows 可执行文件，便于无安装地访问与保存旧软件，体现浏览器仿真技术的进步。",
+      "hn": {
+        "id": 47180083,
+        "type": "story",
+        "by": "lqs_",
+        "score": 183,
+        "descendants": 55,
+        "time": 1772197610,
+        "comments_url": "https://news.ycombinator.com/item?id=47180083"
+      },
+      "hot_score": 0.52,
+      "tags": [
+        "Show HN",
+        "Web"
+      ]
+    },
+    {
+      "title_en": "Anthropic ditches its core safety promise",
+      "url": "https://www.cnn.com/2026/02/25/tech/anthropic-safety-policy-change",
+      "title_zh": "Anthropic 放弃其核心安全承诺",
+      "created_display": "Created: Feb 26, 2026 / 04:52 PT",
+      "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2235057703-20260225133412503.jpg?c=16x9&q=w_800,c_fill",
+      "summary_en": "Reports suggest Anthropic is rolling back parts of its safety promises, signaling a shift in how safety is enforced in its products. The move could affect trust, regulatory scrutiny, and risk assessment for AI deployments.",
+      "summary_zh": "传言称 Anthropic 正在放弃部分核心安全承诺，显示其在产品安全保障上的策略变化。此举可能影响用户信任、监管审查以及对 AI 部署风险的评估。",
+      "hn": {
+        "id": 47165397,
+        "type": "story",
+        "by": "motbus3",
+        "score": 551,
+        "descendants": 3,
+        "time": 1772110370,
+        "comments_url": "https://news.ycombinator.com/item?id=47165397"
+      },
+      "tags": [
+        "AI",
+        "Politics"
+      ],
+      "hot_score": 0.48
+    },
+    {
+      "title_en": "What does \" 2>&1 \" mean?",
+      "url": "https://stackoverflow.com/questions/818255/what-does-21-mean",
+      "title_zh": "\"2>&1\" 的含义是什么？",
+      "created_display": "Created: Feb 26, 2026 / 11:58 PT",
+      "image_url": "https://stackoverflow.com/Content/Sites/stackoverflow/Img/apple-touch-icon@2.png?v=0f0cab681579",
+      "summary_en": "\"2>&1\" merges standard error and output streams in shells, a fundamental redirection technique. It covers common use cases, caveats, and how it behaves in pipelines.",
+      "summary_zh": "\"2>&1\" 将标准错误输出合并到标准输出，常用于日志和管道中的输出控制。说明了基本用法、常见场景以及潜在的坑。",
+      "hn": {
+        "id": 47171233,
+        "type": "story",
+        "by": "alexmolas",
+        "score": 415,
+        "descendants": 246,
+        "time": 1772135926,
+        "comments_url": "https://news.ycombinator.com/item?id=47171233"
+      },
+      "tags": [
+        "Programming"
+      ],
+      "hot_score": 0.48
+    },
+    {
+      "title_en": "Google workers seek 'red lines' on military A.I., echoing Anthropic",
+      "url": "https://www.nytimes.com/2026/02/26/technology/google-deepmind-letter-pentagon.html",
+      "title_zh": "谷歌员工呼吁在军事 AI 上设立红线，与 Anthropic 呼应",
+      "created_display": "Created: Feb 26, 2026 / 19:08 PT",
+      "image_url": null,
+      "summary_en": "Google staff push for red lines on military AI, echoing safety commitments seen in Anthropic. The debate centers on dual-use technology, governance, and potential impacts on Google's AI strategy.",
+      "summary_zh": "谷歌员工呼吁在军事 AI 上设立红线，与 Anthropic 的安全承诺相呼应。讨论聚焦双用途技术、治理以及对谷歌 AI 策略的潜在影响。",
+      "hn": {
+        "id": 47175931,
+        "type": "story",
+        "by": "mikece",
+        "score": 282,
+        "descendants": 136,
+        "time": 1772161689,
+        "comments_url": "https://news.ycombinator.com/item?id=47175931"
+      },
+      "tags": [
+        "AI"
+      ],
+      "hot_score": 0.45
+    },
+    {
+      "title_en": "Breaking Free",
+      "url": "https://www.forbrukerradet.no/breakingfree/",
+      "title_zh": "Breaking Free",
+      "created_display": "Created: Feb 27, 2026 / 01:56 PT",
+      "image_url": "https://storage02.forbrukerradet.no/media/2026/02/enshitt-pressemelding.png",
+      "summary_en": "A watchdog organization calls for more digital rights protection, outlining steps to break free from data harvesting.",
+      "summary_zh": "由消费者权益组织发起的《打破束缚》倡议，聚焦数字自由与对数据收集的保护，提出提升用户自主权的方案。",
+      "hn": {
+        "id": 47178678,
+        "type": "story",
+        "by": "Aissen",
+        "score": 186,
+        "descendants": 43,
+        "time": 1772186202,
+        "comments_url": "https://news.ycombinator.com/item?id=47178678"
+      },
+      "hot_score": 0.43,
+      "tags": [
+        "Privacy"
+      ]
+    },
+    {
+      "title_en": "AirSnitch: Demystifying and breaking client isolation in Wi-Fi networks [pdf]",
+      "url": "https://www.ndss-symposium.org/wp-content/uploads/2026-f1282-paper.pdf",
+      "title_zh": "AirSnitch：揭示并突破 Wi-Fi 网络中的客户端隔离",
+      "created_display": "Created: Feb 26, 2026 / 07:55 PT",
+      "image_url": null,
+      "summary_en": "AirSnitch demonstrates practical methods to defeat client isolation in Wi‑Fi networks, revealing attack vectors. The work motivates stronger AP isolation and mitigations, underscoring ongoing security concerns in wireless deployments.",
+      "summary_zh": "AirSnitch 的研究揭示了 Wi‑Fi 客户端隔离的可被利用的缺口，指出了改进接入点隔离和其他缓解措施的必要性。对无线网络安全的警示意义明显。",
+      "hn": {
+        "id": 47167763,
+        "type": "story",
+        "by": "DamnInteresting",
+        "score": 407,
+        "descendants": 187,
+        "time": 1772121348,
+        "comments_url": "https://news.ycombinator.com/item?id=47167763"
+      },
+      "tags": [
+        "Security"
+      ],
+      "hot_score": 0.4
+    },
+    {
+      "title_en": "Will vibe coding end like the maker movement?",
+      "url": "https://read.technically.dev/p/vibe-coding-and-the-maker-movement",
+      "title_zh": "Vibe 编码会像创客运动一样终结吗？",
+      "created_display": "Created: Feb 26, 2026 / 08:07 PT",
+      "image_url": "https://substackcdn.com/image/fetch/$s_!BCv8!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F930faad1-6c70-4d57-a2f1-5273483daa28_644x447.png",
+      "summary_en": "Vibe coding is gaining attention, but questions remain about its long-term value beyond hype and maker culture nostalgia. The piece weighs whether a culture-driven approach to programming can scale or endure.",
+      "summary_zh": "Vibe 编码的热潮引发对其长期价值的质疑：是否只是一时的炒作，还是能否支撑可持续的开发文化与工具生态？",
+      "hn": {
+        "id": 47167931,
+        "type": "story",
+        "by": "itunpredictable",
+        "score": 399,
+        "descendants": 424,
+        "time": 1772122031,
+        "comments_url": "https://news.ycombinator.com/item?id=47167931"
+      },
+      "tags": [
+        "Culture"
+      ],
+      "hot_score": 0.39
+    },
+    {
+      "title_en": "Smartphone market forecast to decline this year due to memory shortage",
+      "url": "https://www.idc.com/resource-center/press-releases/wwsmartphoneforecast4q25/",
+      "title_zh": "内存短缺拖累智能手机市场今年下行预测",
+      "created_display": "Created: Feb 26, 2026 / 14:09 PT",
+      "image_url": "https://www.idc.com/wp-content/uploads/2026/02/Chart-for-WW_Forecast_PR_4Q25-1.png",
+      "summary_en": "IDC forecasts smartphone shipments to decline this year due to memory supply constraints. The memory bottleneck affects pricing, product cycles, and OEM strategies as the market tightens.",
+      "summary_zh": "IDC 预测智能手机出货量将因内存短缺而下降，冲击供应链、定价和厂商的产品节奏。",
+      "hn": {
+        "id": 47172664,
+        "type": "story",
+        "by": "littlexsparkee",
+        "score": 265,
+        "descendants": 308,
+        "time": 1772143785,
+        "comments_url": "https://news.ycombinator.com/item?id=47172664"
+      },
+      "tags": [
+        "Business"
+      ],
+      "hot_score": 0.33
+    },
+    {
+      "title_en": "A Nationwide Book Ban Bill Has Been Introduced in the House of Representatives",
+      "url": "https://bookriot.com/hr7661-book-ban-legislation/",
+      "title_zh": "众议院提出全国图书禁令法案",
+      "created_display": "Created: Feb 26, 2026 / 19:34 PT",
+      "image_url": "https://s2982.pcdn.co/wp-content/uploads/2026/02/house-of-representatives-image.jpg.optimal.jpg",
+      "summary_en": "A nationwide book ban bill has been introduced in the House, intensifying debates over censorship, education policy, and digital access. The measure could influence libraries, schools, and related compliance.",
+      "summary_zh": "众议院提出全国图书禁令法案，引发关于审查、教育政策与数字获取的激烈讨论，可能影响学校与图书馆的治理与合规。",
+      "hn": {
+        "id": 47176157,
+        "type": "story",
+        "by": "LostMyLogin",
+        "score": 179,
+        "descendants": 145,
+        "time": 1772163252,
+        "comments_url": "https://news.ycombinator.com/item?id=47176157"
+      },
+      "tags": [
+        "Politics",
+        "Education"
+      ],
+      "hot_score": 0.29
+    },
+    {
+      "title_en": "Open Source Endowment – new funding source for open source maintainers",
+      "url": "https://endowment.dev/",
+      "title_zh": "Open Source Endowment：开源维护者的新资助来源",
+      "created_display": "Created: Feb 26, 2026 / 08:13 PT",
+      "image_url": "https://endowment.dev/images/opengraph.png",
+      "summary_en": "Open Source Endowment proposes a dedicated funding stream to support maintainers, aiming to stabilize long-term maintenance and project health through endowed funds.",
+      "summary_zh": "Open Source Endowment 提出为开源维护者提供持续资助的新渠道，旨在通过设立基金来稳定长期维护工作和项目健康。",
+      "hn": {
+        "id": 47168012,
+        "type": "story",
+        "by": "kvinogradov",
+        "score": 250,
+        "descendants": 159,
+        "time": 1772122386,
+        "comments_url": "https://news.ycombinator.com/item?id=47168012"
+      },
+      "tags": [
+        "Open Source",
+        "Health"
+      ],
+      "hot_score": 0.25
+    },
+    {
+      "title_en": "OsmAnd’s Faster Offline Navigation (2025)",
+      "url": "https://osmand.net/blog/fast-routing/",
+      "title_zh": "OsmAnd：离线导航更快（2025）",
+      "created_display": "Created: Feb 26, 2026 / 10:37 PT",
+      "image_url": "https://osmand.net/img/logo.svg",
+      "summary_en": "OsmAnd delivers faster offline navigation in its 2025 updates, improving routing speed and offline map performance. The upgrade strengthens offline usability for travelers and open-source users.",
+      "summary_zh": "OsmAnd 的离线导航在 2025 更新中速度更快、离线地图性能提升，提升了离线导航的体验，尤其对旅行者与开源用户友好。",
+      "hn": {
+        "id": 47170157,
+        "type": "story",
+        "by": "todsacerdoti",
+        "score": 229,
+        "descendants": 89,
+        "time": 1772131079,
+        "comments_url": "https://news.ycombinator.com/item?id=47170157"
+      },
+      "tags": [
+        "Open Source"
+      ],
+      "hot_score": 0.25
+    },
+    {
+      "title_en": "BuildKit: Docker's Hidden Gem That Can Build Almost Anything",
+      "url": "https://tuananh.net/2026/02/25/buildkit-docker-hidden-gem/",
+      "title_zh": "BuildKit：Docker 的隐藏宝石，几乎能构建任何东西",
+      "created_display": "Created: Feb 26, 2026 / 06:05 PT",
+      "image_url": "https://tuananh.net/img/buildkit.png",
+      "summary_en": "BuildKit is Docker’s powerful build subsystem, offering faster, more flexible builds with better caching and parallelism. It reshapes CI/CD workflows and enables a wide range of build scenarios.",
+      "summary_zh": "BuildKit 是 Docker 的强大构建子系统，提供更快、更灵活的构建、改进的缓存和并行能力。它有望改变 CI/CD 的工作方式。",
+      "hn": {
+        "id": 47166264,
+        "type": "story",
+        "by": "jasonpeacock",
+        "score": 218,
+        "descendants": 70,
+        "time": 1772114746,
+        "comments_url": "https://news.ycombinator.com/item?id=47166264"
+      },
+      "tags": [
+        "DevOps"
+      ],
+      "hot_score": 0.2
+    },
+    {
+      "title_en": "In 2025, Meta paid an effective federal tax rate of 3.5%",
+      "url": "https://bsky.app/profile/rbreich.bsky.social/post/3mfptlfeucn2i",
+      "title_zh": "2025 年 Meta 的实际联邦税率只有 3.5%",
+      "created_display": "Created: Feb 26, 2026 / 07:14 PT",
+      "image_url": "https://cdn.bsky.app/img/avatar/plain/did:plc:4u3hwe3p7oy3hoy3amlw7rp2/bafkreihnchke5wec4i5y4i7kzngmr2sghedr74ubq2ca7fwcqjl7mrw5hq@jpeg",
+      "summary_en": "Meta reported an effective federal tax rate of 3.5% in 2025, reflecting tax planning, incentives, and international structure. The figure feeds into ongoing policy debates about whether tech giants pay a fair share.",
+      "summary_zh": "2025 年 Meta 的实际联邦税率只有 3.5%，反映税收筹划、国际结构等因素。此数据在关于科技巨头税负和政策讨论中成为注脚。",
+      "hn": {
+        "id": 47167171,
+        "type": "story",
+        "by": "doener",
+        "score": 208,
+        "descendants": 131,
+        "time": 1772118860,
+        "comments_url": "https://news.ycombinator.com/item?id=47167171"
+      },
+      "tags": [
+        "Finance"
+      ],
+      "hot_score": 0.2
+    },
+    {
+      "title_en": "Palm OS User Interface Guidelines (2003) [pdf]",
+      "url": "https://cs.uml.edu/~fredm/courses/91.308-spr05/files/palmdocs/uiguidelines.pdf",
+      "title_zh": "Palm OS 用户界面指南（2003）[PDF]",
+      "created_display": "Created: Feb 26, 2026 / 09:01 PT",
+      "image_url": null,
+      "summary_en": "A 2003 Palm OS UI guideline document offers historical insight into early mobile UX constraints and patterns. Reading it reveals how design decisions shaped usability under hardware limits.",
+      "summary_zh": "Palm OS 的 2003 年用户界面指南提供了早期移动 UX 的设计思路与约束，阅读可看到当时的可用性取舍如何塑造用户体验。",
+      "hn": {
+        "id": 47168726,
+        "type": "story",
+        "by": "spiffytech",
+        "score": 200,
+        "descendants": 102,
+        "time": 1772125265,
+        "comments_url": "https://news.ycombinator.com/item?id=47168726"
+      },
+      "tags": [
+        "Design",
+        "Hardware"
+      ],
+      "hot_score": 0.2
+    },
+    {
+      "title_en": "Smallest transformer that can add two 10-digit numbers",
+      "url": "https://github.com/anadim/AdderBoard",
+      "title_zh": "能够将两组十位数相加的最小 Transformer",
+      "created_display": "Created: Feb 26, 2026 / 10:29 PT",
+      "image_url": "https://opengraph.githubassets.com/35413efc04a17e532f0e64ef413b14601390c27e2bb456aecd6252b4cb99a00c/anadim/AdderBoard",
+      "summary_en": "A tiny transformer model demonstrates adding two 10-digit numbers, showing how small architectures can perform precise arithmetic tasks, with implications for edge AI and hardware constraints.",
+      "summary_zh": "一个极小的变换器模型实现将两组十位数字相加，展示了小型架构完成精确算术任务的潜力，对边缘 AI 与硬件约束具有启示。",
+      "hn": {
+        "id": 47170030,
+        "type": "story",
+        "by": "ks2048",
+        "score": 175,
+        "descendants": 75,
+        "time": 1772130596,
+        "comments_url": "https://news.ycombinator.com/item?id=47170030"
+      },
+      "hot_score": 0.19,
+      "tags": [
+        "AI",
+        "Hardware"
+      ]
+    },
+    {
+      "title_en": "Twitch: \"Hey, come back! This commercial break can't play while you're away.\"",
+      "url": "https://twitter.com/KryDotExe/status/2026806591517856208",
+      "title_zh": "Twitch：回来吧！离开时广告中断不能继续播放",
+      "created_display": "Created: Feb 26, 2026 / 10:11 PT",
+      "image_url": "https://pbs.twimg.com/media/HCCptPrXEAEB_aI.jpg:large",
+      "summary_en": "Twitch experiments with ad breaks aimed at re-engaging viewers, signaling monetization and retention strategies for streaming platforms. The note hints at the tension between ads and user experience.",
+      "summary_zh": "Twitch 通过广告策略尝试提高观众回归率，反映了流媒体平台的盈利与用户体验之间的权衡。",
+      "hn": {
+        "id": 47169748,
+        "type": "story",
+        "by": "josephcsible",
+        "score": 173,
+        "descendants": 135,
+        "time": 1772129516,
+        "comments_url": "https://news.ycombinator.com/item?id=47169748"
+      },
+      "tags": [
+        "Business"
+      ],
+      "hot_score": 0.18
+    },
+    {
+      "title_en": "He saw an abandoned trailer, then uncovered a surveillance network",
+      "url": "https://calmatters.org/justice/2026/02/alpr-border-patrol-caltrans/",
+      "title_zh": "他在一辆被遗弃的拖车里发现并揭露了一个监控网络",
+      "created_display": "Created: Feb 26, 2026 / 10:27 PT",
+      "image_url": "https://i0.wp.com/calmatters.org/wp-content/uploads/2026/02/020726_ALRPS_ZM_CM_04.jpg?fit=2000%2C1334&ssl=1",
+      "summary_en": "An investigative piece uncovers a surveillance network connected to border patrol operations via a discarded trailer, raising concerns about oversight, privacy, and civil liberties.",
+      "summary_zh": "报道揭露在废弃拖车中发现的监控网络，其与边境巡逻 ALPR 系统及监控基础设施相关。引发关于隐私、问责与大众数据收集的担忧。",
+      "hn": {
+        "id": 47169984,
+        "type": "story",
+        "by": "Element_",
+        "score": 170,
+        "descendants": 73,
+        "time": 1772130431,
+        "comments_url": "https://news.ycombinator.com/item?id=47169984"
+      },
+      "tags": [
+        "Privacy"
+      ],
+      "hot_score": 0.18
+    },
+    {
+      "title_en": "You Want to Visit the UK? You Better Have a Google Play or App Store Account",
+      "url": "https://www.heltweg.org/posts/you-want-to-visit-the-uk-you-better-have-a-google-play-or-app-store-account/",
+      "title_zh": "想去英国？你最好有 Google Play 或 App Store 账户",
+      "created_display": "Created: Feb 26, 2026 / 03:26 PT",
+      "image_url": "https://heltweg.org/posts/you-want-to-visit-the-uk-you-better-have-a-google-play-or-app-store-account/index.png",
+      "summary_en": "Visiting the UK may hinge on having a Google Play or App Store account, illustrating how digital ecosystems influence travel and border interactions.",
+      "summary_zh": "访问英国可能需要使用 Google Play 或 App Store 账户，凸显数字生态系统对旅行和边境政策的影响，以及平台依赖带来的不便与议题。",
+      "hn": {
+        "id": 47164605,
+        "type": "story",
+        "by": "rhazn",
+        "score": 202,
+        "descendants": 300,
+        "time": 1772105170,
+        "comments_url": "https://news.ycombinator.com/item?id=47164605"
+      },
+      "tags": [
+        "Politics"
+      ],
+      "hot_score": 0.17
+    },
+    {
+      "title_en": "This time is different",
+      "url": "https://shkspr.mobi/blog/2026/02/this-time-is-different/",
+      "title_zh": "这次真的不同",
+      "created_display": "Created: Feb 26, 2026 / 05:28 PT",
+      "image_url": "https://shkspr.mobi/blog/wp-content/uploads/2017/11/Confused-Robot.jpg",
+      "summary_en": "This time is different argues that current tech trends are not just repeats of past cycles, urging careful consideration of AI-driven platforms, regulation, and capital dynamics to avoid repeating mistakes.",
+      "summary_zh": "作者主张当前的科技潮流并非简单地重复过去的周期，提醒读者关注 AI 驱动的平台、监管与资金流的不同作用，避免过度乐观或悲观。",
+      "hn": {
+        "id": 47165792,
+        "type": "story",
+        "by": "speckx",
+        "score": 190,
+        "descendants": 374,
+        "time": 1772112539,
+        "comments_url": "https://news.ycombinator.com/item?id=47165792"
+      },
+      "tags": [
+        "Politics",
+        "AI"
+      ],
+      "hot_score": 0.17
+    }
+  ]
+}

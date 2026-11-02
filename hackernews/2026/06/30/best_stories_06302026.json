@@ -1,0 +1,1170 @@
+{
+  "meta": {
+    "mode": "best",
+    "source": "https://news.ycombinator.com/",
+    "api": "https://github.com/HackerNews/API",
+    "count_requested": 50,
+    "count_written": 50,
+    "reused_same_day": 0,
+    "reused_cross_day": 19,
+    "new_llm_enriched": 14,
+    "scrape_time_display": "07:44, July 01, 2026 (PDT)",
+    "timezone": "America/Los_Angeles",
+    "date_dir": "2026/06/30",
+    "content_date": "2026-06-30",
+    "run_time_local": "07:44, July 01, 2026 (PDT)",
+    "run_time_utc": "2026-07-01 14:44:10 UTC",
+    "incremental": true,
+    "stories_max": 50,
+    "hot_score_time_utc": "2026-07-01 14:45:34 UTC"
+  },
+  "items": [
+    {
+      "title_en": "Why I Stopped Arguing with People",
+      "url": "https://wangcong.org/2026-06-30-why-i-stopped-arguing-with-people.html",
+      "title_zh": "为什么我不再和人争辩",
+      "created_display": "Created: Jul 01, 2026 / 06:29 PT",
+      "image_url": null,
+      "summary_en": "An essay about choosing not to argue, arguing that most disputes are unproductive and draining. It champions listening, asking constructive questions, and focusing on shared understanding rather than 'being right'. The piece reflects a broader trend toward calmer, more deliberate online dialogue.",
+      "summary_zh": "一篇关于不再争论的随笔，认为大多数争论无果且耗费精力。作者提倡倾听、提出建设性的问题，以及在寻求共识上下功夫，而非执着于‘纠错’。这反映了对网络对话更冷静、深思熟虑的趋向。",
+      "hn": {
+        "id": 48746445,
+        "type": "story",
+        "by": "backlit4034",
+        "score": 245,
+        "descendants": 187,
+        "time": 1782912569,
+        "comments_url": "https://news.ycombinator.com/item?id=48746445"
+      },
+      "hot_score": 28.95,
+      "tags": [
+        "Culture"
+      ]
+    },
+    {
+      "title_en": "Asahi Linux 7.1 Progress Report",
+      "url": "https://asahilinux.org/2026/06/progress-report-7-1/",
+      "title_zh": "Asahi Linux 7.1 进展报告",
+      "created_display": "Created: Jul 01, 2026 / 03:07 PT",
+      "image_url": "https://asahilinux.org/img/AsahiLinux_logomark_256px.png",
+      "summary_en": "Asahi Linux 7.1 delivers new kernel improvements, broader Apple Silicon support, and performance tweaks aimed at making Macs run Linux more smoothly. The update narrows hardware gaps and enhances stability for everyday use and development on Apple hardware. It signals ongoing momentum for Linux on consumer devices.",
+      "summary_zh": "Asahi Linux 7.1 的进展包括内核改进、对 Apple Silicon 的更广泛支持以及性能优化，旨在让在 Mac 上运行 Linux 更加顺畅。此次更新缩小了硬件兼容性差距、提升了日常使用与开发的稳定性，继续推动 Linux 在消费级设备上的应用。",
+      "hn": {
+        "id": 48744518,
+        "type": "story",
+        "by": "pantalaimon",
+        "score": 355,
+        "descendants": 93,
+        "time": 1782900424,
+        "comments_url": "https://news.ycombinator.com/item?id=48744518"
+      },
+      "hot_score": 11.72,
+      "tags": [
+        "Open Source",
+        "Hardware"
+      ]
+    },
+    {
+      "title_en": "Nintendo has raised its employees base salary by 10%",
+      "url": "https://mynintendonews.com/2026/06/26/nintendo-has-raised-its-employees-base-salary-by-10/",
+      "title_zh": "任天堂将员工基本薪资提高10%",
+      "created_display": "Created: Jul 01, 2026 / 04:35 PT",
+      "image_url": "https://i0.wp.com/mynintendonews.com/wp-content/uploads/2024/09/nintendo_logo.jpg?fit=2048%2C1341&ssl=1",
+      "summary_en": "Nintendo announced a 10% raise to base salaries, signaling wage growth in a major entertainment tech company. The move may aid retention and morale amid tight labor markets while squeezing margins modestly. It also mirrors broader wage-tightening and inflation-adaptation trends in the industry.",
+      "summary_zh": "任天堂宣布将员工基本工资提高10%，显示出在劳动力紧张的市场中公司对人才的重视。此举有助于提升留任与士气，但可能对利润率产生一定挤压，反映出行业的薪资调整与通胀应对趋势。",
+      "hn": {
+        "id": 48745113,
+        "type": "story",
+        "by": "_tk_",
+        "score": 215,
+        "descendants": 89,
+        "time": 1782905720,
+        "comments_url": "https://news.ycombinator.com/item?id=48745113"
+      },
+      "hot_score": 11.12,
+      "tags": [
+        "Business",
+        "Gaming"
+      ]
+    },
+    {
+      "title_en": "Godot will no longer accept AI-authored code contributions",
+      "url": "https://www.pcgamer.com/gaming-industry/open-source-game-engine-godot-will-no-longer-accept-ai-authored-code-contributions-we-cant-trust-heavy-users-of-ai-to-understand-their-code-enough-to-fix-it/",
+      "title_zh": "Godot 将不再接受 AI 编写的代码贡献",
+      "created_display": "Created: Jul 01, 2026 / 00:43 PT",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/9fe6i3bvMxcRA6sb2TJAS-1600-80.jpg",
+      "summary_en": "The Godot Foundation bans AI-authored code contributions to the core, citing concerns about reliability and maintainability. The policy underscores the ongoing tension in OSS between AI-assisted tooling and the need for human oversight in critical code.",
+      "summary_zh": "Godot 基金会宣布不再接受 AI 编写的代码提交，理由是对可靠性和可维护性的担忧。此举凸显开源社区在 AI 辅助编码和人类审阅之间的持续张力。",
+      "hn": {
+        "id": 48743472,
+        "type": "story",
+        "by": "pjmlp",
+        "score": 423,
+        "descendants": 272,
+        "time": 1782891802,
+        "comments_url": "https://news.ycombinator.com/item?id=48743472"
+      },
+      "tags": [
+        "Programming",
+        "AI"
+      ],
+      "hot_score": 8.03
+    },
+    {
+      "title_en": "Single Dose of Frog-Derived Gut Bacterium Eradicates 100% of Tumors in Mice",
+      "url": "https://www.thefocalpoints.com/p/new-study-frog-derived-gut-bacterium",
+      "title_zh": "青蛙来源肠道细菌单次给药在小鼠身上可100%清除肿瘤",
+      "created_display": "Created: Jul 01, 2026 / 02:21 PT",
+      "image_url": "https://substackcdn.com/image/fetch/$s_!Cc-z!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1e9690ca-bd6f-4f8c-8ee1-8a1f1ecd76a2_2409x1314.png",
+      "summary_en": "A preclinical study reports that a single dose of a frog-derived gut bacterium eradicated all tumors in mice, highlighting a provocative microbiome-based approach to cancer. Translational challenges remain before humans, but the result motivates new lines of research and potential combination therapies. The work adds to growing interest in microbiome interventions for oncology.",
+      "summary_zh": "一项前临床研究显示，单次给予青蛙来源的肠道细菌即可在小鼠体内全部消除肿瘤，提出一种引人注目的微生物组癌症治疗思路。尽管向人体转化仍存在重大挑战，但结果会推动相关研究方向并可能与其他治疗方法结合使用。",
+      "hn": {
+        "id": 48744232,
+        "type": "story",
+        "by": "mpweiher",
+        "score": 265,
+        "descendants": 149,
+        "time": 1782897704,
+        "comments_url": "https://news.ycombinator.com/item?id=48744232"
+      },
+      "hot_score": 7.2,
+      "tags": [
+        "Science",
+        "Health"
+      ]
+    },
+    {
+      "title_en": "Claude Code is steganographically marking requests",
+      "url": "https://thereallo.dev/blog/claude-code-prompt-steganography",
+      "title_zh": "Claude Code 以隐写方式标记请求",
+      "created_display": "Created: Jun 30, 2026 / 08:44 PT",
+      "image_url": null,
+      "summary_en": "Researchers demonstrate how Claude Code can embed hidden signals in prompts, enabling steganographic tagging of requests. This raises questions about model privacy, misuse, and provenance in AI-assisted workflows. The finding highlights the need for robust controls around prompt encoding.",
+      "summary_zh": "研究者展示了 Claude Code 如何在提示中嵌入隐写信号，给请求标记隐藏标识。这引发对模型隐私、滥用和工作流可追溯性的担忧，凸显了对提示编码的鲁棒控制的必要性。",
+      "hn": {
+        "id": 48734373,
+        "type": "story",
+        "by": "kirushik",
+        "score": 2274,
+        "descendants": 678,
+        "time": 1782834264,
+        "comments_url": "https://news.ycombinator.com/item?id=48734373"
+      },
+      "tags": [
+        "AI",
+        "Privacy"
+      ],
+      "hot_score": 6.91
+    },
+    {
+      "title_en": "The Internet I Grew Up with Doesn't Exist Anymore",
+      "url": "https://cleberg.net/blog/internet.html",
+      "title_zh": "我成长的互联网已经不复存在",
+      "created_display": "Created: Jul 01, 2026 / 03:26 PT",
+      "image_url": "https://www.vice.com/wp-content/uploads/sites/2/2019/08/1565048739851-image3.png",
+      "summary_en": "An essay laments how the Internet they grew up with—open protocols, vibrant communities, and low barriers—has largely vanished. It argues that consolidation by platforms and surveillance capitalism have replaced participatory culture with centralized, algorithm-driven experiences. The piece invites reflection on what a healthier online ecosystem could look like.",
+      "summary_zh": "这篇随笔哀叹他们成长的互联网正在消失，曾经的开放协议、活跃社区和低门槛已被取代。文章指出平台垄断和监控资本主义把参与式文化变成了由算法驱动的中心化体验，要求人们思考更健康的网络生态应是什么样子。",
+      "hn": {
+        "id": 48744655,
+        "type": "story",
+        "by": "felixdoerp",
+        "score": 181,
+        "descendants": 148,
+        "time": 1782901605,
+        "comments_url": "https://news.ycombinator.com/item?id=48744655"
+      },
+      "hot_score": 6.53,
+      "tags": [
+        "Culture",
+        "Privacy"
+      ]
+    },
+    {
+      "title_en": "Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5",
+      "url": "https://twitter.com/AnthropicAI/status/2072106151890809341",
+      "title_zh": "商务部取消对 Claude Fable 5 与 Mythos 5 的出口管制",
+      "created_display": "Created: Jun 30, 2026 / 16:55 PT",
+      "image_url": "https://pbs.twimg.com/profile_images/1798110641414443008/XP8gyBaY_200x200.jpg",
+      "summary_en": "The Department of Commerce has eased export controls on Claude Fable 5 and Mythos 5, enabling broader international distribution. The move could accelerate global AI deployment and competition, while inviting regulatory and security considerations.",
+      "summary_zh": "商务部放松了对 Claude Fable 5 和 Mythos 5 的出口管制，使其在全球范围内的分发更为广泛。这一举措可能加速全球 AI 的部署与竞争，同时带来监管与安全方面的考量。",
+      "hn": {
+        "id": 48740771,
+        "type": "story",
+        "by": "Pragmata",
+        "score": 815,
+        "descendants": 520,
+        "time": 1782863712,
+        "comments_url": "https://news.ycombinator.com/item?id=48740771"
+      },
+      "tags": [
+        "Politics",
+        "AI",
+        "Security"
+      ],
+      "hot_score": 5.05
+    },
+    {
+      "title_en": "Claude Sonnet 5",
+      "url": "https://www.anthropic.com/news/claude-sonnet-5",
+      "title_zh": "Claude Sonnet 5",
+      "created_display": "Created: Jun 30, 2026 / 10:59 PT",
+      "image_url": "https://cdn.sanity.io/images/4zrzovbb/website/458ea645ef6b729f6847cba16932716e6b547f2f-2880x1620.png",
+      "summary_en": "Anthropic released Claude Sonnet 5, the newest member of its Claude family. The update emphasizes stronger reasoning capabilities and tighter safety controls for enterprise AI deployments.",
+      "summary_zh": "Anthropic 发布 Claude Sonnet 5，这是 Claude 家族的最新成员，强调改进的推理能力与企业部署的安全控制。它面向企业场景，优化推理质量并提升对安全约束的可控性。",
+      "hn": {
+        "id": 48736605,
+        "type": "story",
+        "by": "marinesebastian",
+        "score": 1195,
+        "descendants": 735,
+        "time": 1782842392,
+        "comments_url": "https://news.ycombinator.com/item?id=48736605"
+      },
+      "tags": [
+        "AI"
+      ],
+      "hot_score": 4.31
+    },
+    {
+      "title_en": "Claude Science",
+      "url": "https://claude.com/product/claude-science",
+      "title_zh": "Claude Science",
+      "created_display": "Created: Jun 30, 2026 / 10:07 PT",
+      "image_url": "https://cdn.prod.website-files.com/6889473510b50328dbb70ae6/6a429b9909aa1b063a203021_life-sciences-tn.jpg",
+      "summary_en": "Claude Science is a new product focused on scientific workloads, offering specialized reasoning and data-handling features for researchers. It aims to speed up literature review, modeling, and experimentation workflows for scientists.",
+      "summary_zh": "Claude Science 是面向科学工作负载的新产品，提供专门的推理和数据处理能力，帮助研究人员加速分析与建模。面向研究人员和数据科学家，旨在优化文献综述、实验设计与数据分析的工作流。",
+      "hn": {
+        "id": 48735770,
+        "type": "story",
+        "by": "lebovic",
+        "score": 532,
+        "descendants": 153,
+        "time": 1782839261,
+        "comments_url": "https://news.ycombinator.com/item?id=48735770"
+      },
+      "tags": [
+        "AI",
+        "Science"
+      ],
+      "hot_score": 1.79
+    },
+    {
+      "title_en": "ArXiv's Next Chapter",
+      "url": "https://blog.arxiv.org/2026/06/30/arxivs-next-chapter/",
+      "title_zh": "ArXiv 的下一章",
+      "created_display": "Created: Jun 30, 2026 / 19:51 PT",
+      "image_url": "https://blog.arxiv.org/files/2021/02/arxiv-logo-1.png",
+      "summary_en": "ArXiv outlines its plan for the next chapter, focusing on governance, tooling improvements, and sustainable operations. The post emphasizes scaling moderation, API enhancements, and community governance to support open-access research.",
+      "summary_zh": "ArXiv 公布未来发展路线，聚焦治理、工具改进与长期可持续运营。文章强调扩大内容审查与元数据/API 的改进，以及社区治理，以支持开放获取的研究。",
+      "hn": {
+        "id": 48741748,
+        "type": "story",
+        "by": "subset",
+        "score": 200,
+        "descendants": 59,
+        "time": 1782874296,
+        "comments_url": "https://news.ycombinator.com/item?id=48741748"
+      },
+      "tags": [
+        "Science"
+      ],
+      "hot_score": 1.74
+    },
+    {
+      "title_en": "Google copybara: moving code between repositories",
+      "url": "https://github.com/google/copybara",
+      "title_zh": "Google Copybara：跨代码库迁移代码的工具",
+      "created_display": "Created: Jun 30, 2026 / 16:45 PT",
+      "image_url": "https://repository-images.githubusercontent.com/67722017/76fcc500-525b-11ea-85e2-37c7b18c893c",
+      "summary_en": "Copybara automates code migration across repositories with customizable transformations and history preservation. It helps teams maintain consistent workflows when moving assets, enabling cleaner separation of projects and easier collaboration.",
+      "summary_zh": "Copybara 能在不同代码库之间自动迁移代码，支持自定义转换并保留提交历史。它帮助团队在跨仓库迁移时保持工作流的一致性，使项目分离更清晰、协作更高效。",
+      "hn": {
+        "id": 48740698,
+        "type": "story",
+        "by": "reconnecting",
+        "score": 264,
+        "descendants": 50,
+        "time": 1782863139,
+        "comments_url": "https://news.ycombinator.com/item?id=48740698"
+      },
+      "tags": [
+        "Programming"
+      ],
+      "hot_score": 1.6
+    },
+    {
+      "title_en": "European digital ID wallets rely on safety services of Google and Apple",
+      "url": "https://waag.org/en/article/european-digital-id-wallets-are-gift-google-and-apple/",
+      "title_zh": "欧洲数字身份证钱包依赖谷歌和苹果的安全服务",
+      "created_display": "Created: Jun 30, 2026 / 03:36 PT",
+      "image_url": "https://cms.waag.org/sites/waag/files/styles/1200x630/public/2026-06/scherm-afbeelding_2026-06-23_om_10.31.35.png",
+      "summary_en": "European digital ID wallets rely on the safety services from Google and Apple, tying cross-border identity tech to US platform ecosystems. While this brings strong security and interoperability, it raises questions about data sovereignty, governance, and vendor dependence as Europe pushes self-sovereign identity models.",
+      "summary_zh": "欧洲数字身份钱包在安全服务上高度依赖谷歌与苹果，依托成熟的安全生态提升跨境互通。与此同时，这种依赖也引发数据主权、治理和对厂商依赖的担忧，或影响未来的自我主权身份框架的推进。",
+      "hn": {
+        "id": 48730729,
+        "type": "story",
+        "by": "donohoe",
+        "score": 695,
+        "descendants": 299,
+        "time": 1782815783,
+        "comments_url": "https://news.ycombinator.com/item?id=48730729"
+      },
+      "tags": [
+        "Privacy",
+        "Security"
+      ],
+      "hot_score": 1.51
+    },
+    {
+      "title_en": "The labor share of income in the US is at its lowest post-war level",
+      "url": "https://libertystreeteconomics.newyorkfed.org/2026/06/the-post-covid-decline-in-the-labor-share/",
+      "title_zh": "美国劳动收入份额降至战后最低水平",
+      "created_display": "Created: Jun 30, 2026 / 08:35 PT",
+      "image_url": "https://libertystreeteconomics.newyorkfed.org/wp-content/uploads/sites/2/2026/06/LSE_2026_labor-share_schuh_460.jpg",
+      "summary_en": "US labor’s share of income has declined to a postwar low, signaling that productivity gains and capital income are capturing a growing slice of economic output. The trend implies slower wage growth for workers and potential pressure on consumer demand, with implications for inequality and policy debates. Analysts see a shift in income distribution driven by automation, globalization, and pricing power.",
+      "summary_zh": "美国劳动者在国民总收入中的份额降至战后最低水平，反映生产率增益和资本收入正在分得更大份额。此趋势意味着劳动者工资增长可能放缓，消费力受压，且可能加剧收入不平等。分析师将关注结构性因素如何影响工资与投资回报的长期分配。",
+      "hn": {
+        "id": 48734234,
+        "type": "story",
+        "by": "loughnane",
+        "score": 486,
+        "descendants": 520,
+        "time": 1782833704,
+        "comments_url": "https://news.ycombinator.com/item?id=48734234"
+      },
+      "hot_score": 1.46,
+      "tags": [
+        "Business"
+      ]
+    },
+    {
+      "title_en": "The US ambassador had Belgian police stop our reporting",
+      "url": "https://europeancorrespondent.com/en/r/the-us-ambassador-had-belgian-police-stop-our-reporting",
+      "title_zh": "美大使让比利时警方叫停报道",
+      "created_display": "Created: Jun 30, 2026 / 03:15 PT",
+      "image_url": "https://images.europeancorrespondent.com/attRp54hjyayl13fH/public",
+      "summary_en": "A US ambassador allegedly prompted Belgian police to halt our reporting, stoking debate about diplomatic influence on journalism in Europe. The episode highlights the risks to press freedom when state actors attempt to control coverage abroad and may invite scrutiny of diplomatic immunity and journalistic independence.",
+      "summary_zh": "据称美国大使促使比利时警方叫停报道，引发欧洲范围内对外交干预新闻自由的讨论。此事件凸显当国家行为体试图干预境外报道时，媒体自由可能受到的寒蝉效应，以及对外交豁免与言论自由监管的关注。",
+      "hn": {
+        "id": 48730608,
+        "type": "story",
+        "by": "robtherobber",
+        "score": 679,
+        "descendants": 319,
+        "time": 1782814515,
+        "comments_url": "https://news.ycombinator.com/item?id=48730608"
+      },
+      "tags": [
+        "Politics"
+      ],
+      "hot_score": 1.44
+    },
+    {
+      "title_en": "I ported Kubernetes to the browser",
+      "url": "https://ngrok.com/blog/i-ported-kubernetes-to-the-browser",
+      "title_zh": "我把 Kubernetes 移植到了浏览器",
+      "created_display": "Created: Jun 30, 2026 / 13:48 PT",
+      "image_url": "https://ngrok.com/blog-assets/images/2026-06-26-i-ported-kubernetes-to-the-browser/og.jpg",
+      "summary_en": "Porting Kubernetes to the browser demonstrates running components in WebAssembly or similar in-browser runtimes, enabling offline demos or teaching orchestration concepts. It surfaces challenges around networking, storage, and security when moving cluster infrastructure into the client.",
+      "summary_zh": "把 Kubernetes 移植到浏览器演示了在浏览器运行组件的可能性，便于离线演示和教学编排概念。也暴露了将集群基础设施移至客户端时在网络、存储和安全方面的挑战。",
+      "hn": {
+        "id": 48738985,
+        "type": "story",
+        "by": "peterdemin",
+        "score": 315,
+        "descendants": 93,
+        "time": 1782852516,
+        "comments_url": "https://news.ycombinator.com/item?id=48738985"
+      },
+      "tags": [
+        "Programming",
+        "Security",
+        "DevOps",
+        "Web"
+      ],
+      "hot_score": 1.44
+    },
+    {
+      "title_en": "Nano Banana 2 Lite",
+      "url": "https://deepmind.google/models/gemini-image/flash-lite/",
+      "title_zh": "Nano Banana 2 Lite",
+      "created_display": "Created: Jun 30, 2026 / 09:48 PT",
+      "image_url": "https://lh3.googleusercontent.com/lb-MMov_96xz_rXSHcC3fOU91ehheRSkXmiGudc3PWnLtmB5YN1-NInY5Le9JOmY2LBIIeAUwBhlhcskmv90eSFxz8gNh2TvWcnegYoq98NmuOEL=w1200-h630-n-nu-rw",
+      "summary_en": "Nano Banana 2 Lite is a lightweight image model in the Gemini image lineup designed for fast, on-device inference with a smaller compute footprint. It enables faster prototyping and on-device AI work without cloud latency.",
+      "summary_zh": "Nano Banana 2 Lite 是 Gemini 图像模型家族的轻量版本，设计用于快速推理并降低计算开销。它是一款面向快速推理的轻量级图像模型，适合在本地设备上使用，减小算力需求。",
+      "hn": {
+        "id": 48735444,
+        "type": "story",
+        "by": "minimaxir",
+        "score": 415,
+        "descendants": 169,
+        "time": 1782838117,
+        "comments_url": "https://news.ycombinator.com/item?id=48735444"
+      },
+      "tags": [
+        "AI"
+      ],
+      "hot_score": 1.36
+    },
+    {
+      "title_en": "County with 37 Data Centers Asks Schools to 'Conserve Electricity'",
+      "url": "https://www.404media.co/henrico-virginia-datacenter-energy-cost-email/",
+      "title_zh": "拥有37座数据中心的县呼吁学校节电",
+      "created_display": "Created: Jun 30, 2026 / 09:05 PT",
+      "image_url": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/06/photo-1610028290816-5d937a395a49.jpeg",
+      "summary_en": "A county housing 37 data centers is asking schools to conserve electricity amid rising power costs. The move highlights how large-scale digital infrastructure can strain public energy budgets and grid demand, pushing districts to optimize usage and scheduling. It also underscores broader questions about energy pricing, resilience, and the cost of data-driven services.",
+      "summary_zh": "拥有37座数据中心的县在能源成本上升之际呼吁学校节电。这一举措凸显大型数字基础设施对公共能源预算和电网负担的影响，促使学区优化用电与时段安排，也暴露出能源定价与系统韧性的更广泛问题。",
+      "hn": {
+        "id": 48734699,
+        "type": "story",
+        "by": "01-_-",
+        "score": 407,
+        "descendants": 179,
+        "time": 1782835546,
+        "comments_url": "https://news.ycombinator.com/item?id=48734699"
+      },
+      "hot_score": 1.27,
+      "tags": [
+        "Energy",
+        "DevOps"
+      ]
+    },
+    {
+      "title_en": "Leanstral 1.5",
+      "url": "https://docs.mistral.ai/models/model-cards/leanstral-1-5-26-06",
+      "title_zh": "Leanstral 1.5",
+      "created_display": "Created: Jun 30, 2026 / 13:44 PT",
+      "image_url": "https://docs.mistral.ai//api/og?title=Leanstral+1.5&description=An+updated+Lean+4+formal+proof+engineering+model+optimised+for+automated+theorem+proving+and+autoformalization.+119B+total+parameters%2C+6.5B+active.&eyebraw=v1.5&image=&type=model&v=35fa871c487ea09cad5c2bf7ae6044c6b93b2bd0",
+      "summary_en": "Leanstral 1.5 updates bring performance improvements and expanded capabilities for more practical, instruction-following use in lightweight language-model deployments.",
+      "summary_zh": "Leanstral 1.5 更新带来性能提升与扩展功能，使其在轻量级语言模型部署中更易于执行指令式任务。",
+      "hn": {
+        "id": 48738938,
+        "type": "story",
+        "by": "vetronauta",
+        "score": 277,
+        "descendants": 118,
+        "time": 1782852296,
+        "comments_url": "https://news.ycombinator.com/item?id=48738938"
+      },
+      "tags": [
+        "AI"
+      ],
+      "hot_score": 1.25
+    },
+    {
+      "title_en": "Trump made more than $1B on crypto deals, part of 2025 windfall",
+      "url": "https://www.wsj.com/politics/policy/trump-made-more-than-1-billion-on-crypto-deals-part-of-2025-windfall-ee917d3f",
+      "title_zh": "特朗普在加密交易中赚取超过10亿美元，成为2025年财富增长的一部分",
+      "created_display": "Created: Jun 30, 2026 / 17:27 PT",
+      "image_url": null,
+      "summary_en": "New reporting indicates Trump earned more than $1B from crypto deals, contributing to a sizable 2025 windfall. The figure spotlights how crypto ventures intersect with politics and personal wealth, fueling debates over disclosure, timing, and potential conflicts of interest. It underscores the influence of crypto markets on high-profile figures.",
+      "summary_zh": "新的报道显示特朗普在加密货币交易中赚取超过10亿美元，成为他2025年财富增长的一部分。这一数字凸显了加密投资与政治人物之间的关系，引发关于披露、时机以及潜在利益冲突的讨论，反映出加密市场对高知名度人物的影响力。",
+      "hn": {
+        "id": 48741012,
+        "type": "story",
+        "by": "fortran77",
+        "score": 182,
+        "descendants": 49,
+        "time": 1782865676,
+        "comments_url": "https://news.ycombinator.com/item?id=48741012"
+      },
+      "hot_score": 1.19,
+      "tags": [
+        "Politics"
+      ]
+    },
+    {
+      "title_en": "Qwen 3.6 27B is the sweet spot for local development",
+      "url": "https://quesma.com/blog/qwen-36-is-awesome/",
+      "title_zh": "Qwen 3.6 27B：本地开发的最佳平衡点",
+      "created_display": "Created: Jun 29, 2026 / 10:05 PT",
+      "image_url": "https://quesma.com/_astro/thermal_master_p3_macbook.DJG2GL38.jpg",
+      "summary_en": "Qwen 3.6 27B hits a practical sweet spot for local AI development. It provides a capable, smaller model that runs on modest GPUs, easing offline prototyping and testing without cloud latency. For developers, this balance between performance and footprint matters as it accelerates iteration cycles.",
+      "summary_zh": "Qwen 3.6 27B 在本地 AI 开发中找到了实用的平衡点。它具备足够能力、体积适中，能在普通显卡上运行，降低离线原型与测试对云端延迟的依赖。对开发者而言，这种性能与资源的权衡能显著提升迭代速度。",
+      "hn": {
+        "id": 48721903,
+        "type": "story",
+        "by": "stared",
+        "score": 1171,
+        "descendants": 732,
+        "time": 1782752716,
+        "comments_url": "https://news.ycombinator.com/item?id=48721903"
+      },
+      "tags": [
+        "AI"
+      ],
+      "hot_score": 1.12
+    },
+    {
+      "title_en": "We Are the Last People Who Know How It Works",
+      "url": "https://unix.foo/posts/last-people-who-know-how-it-works/",
+      "title_zh": "我们是最后一个知道它如何运作的人",
+      "created_display": "Created: Jun 30, 2026 / 09:59 PT",
+      "image_url": null,
+      "summary_en": "This piece argues that increasing complexity in software and systems means only a shrinking circle truly understands how things work. It warns about fragile infrastructure built on tacit knowledge and advocates better documentation, tooling, and knowledge sharing to reduce risk. The takeaway: preserve institutional memory before it's lost.",
+      "summary_zh": "这篇文章认为，软件与系统日益复杂，真正懂得运作原理的人越来越少，依赖隐性知识使基础设施变得脆弱。作者呼吁加强文档、工具和知识共享，降低运维风险，提醒要在知识流失前留住记忆。",
+      "hn": {
+        "id": 48735633,
+        "type": "story",
+        "by": "cylo",
+        "score": 314,
+        "descendants": 260,
+        "time": 1782838740,
+        "comments_url": "https://news.ycombinator.com/item?id=48735633"
+      },
+      "hot_score": 1.04,
+      "tags": [
+        "Education",
+        "DevOps"
+      ]
+    },
+    {
+      "title_en": "Tell HN: Installing Cursor on iOS irreversibly changes your privacy settings",
+      "url": "https://news.ycombinator.com/item?id=48737226",
+      "title_zh": "在 iOS 上安装 Cursor 会不可逆地改变隐私设置",
+      "created_display": "Created: Jun 30, 2026 / 11:33 PT",
+      "image_url": "https://news.ycombinator.com/y18.svg",
+      "summary_en": "A post warns that installing Cursor on iOS can irreversibly alter privacy settings by requesting broad permissions. It underscores the risk of third-party tooling that promises convenience while expanding data access, prompting readers to scrutinize permissions and data flows. The note serves as a cautionary reminder about app-level privacy hygiene.",
+      "summary_zh": "一篇帖子警告：在 iOS 上安装 Cursor 可能不可逆地改变隐私设置，因其请求广泛权限而扩展数据访问。这提醒读者在使用第三方工具时要仔细审查权限与数据流，并保持对应用隐私的警惕。",
+      "hn": {
+        "id": 48737226,
+        "type": "story",
+        "by": "zkldi",
+        "score": 239,
+        "descendants": 34,
+        "time": 1782844439,
+        "comments_url": "https://news.ycombinator.com/item?id=48737226"
+      },
+      "hot_score": 0.9,
+      "tags": [
+        "Privacy"
+      ]
+    },
+    {
+      "title_en": "From brain waves to words: a new path to communication without surgery",
+      "url": "https://ai.meta.com/blog/brain2qwerty-brain-ai-human-communication/?_fb_noscript=1",
+      "title_zh": "脑波到文字：无需手术的全新沟通路径",
+      "created_display": "Created: Jun 30, 2026 / 14:29 PT",
+      "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.2365-6/731147471_987177500749005_1892166673921917145_n.gif?_nc_cat=101&ccb=1-7&_nc_sid=e280be&_nc_ohc=kt4rIA7tiyMQ7kNvwET_ibV&_nc_oc=AdqBndvWlZGV3QeLon4nsnhhaCgwFDk6Ev_I12sEZ6OqJRjLIE60d6TD3vGOTHxnwS8&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=0QZ0-RiA-QG5HbcxlAeIQA&_nc_ss=7820f&oh=00_AQByZw_hxM-cBLWwPBK3wN2cSyzaxZ0amuDyWK5RG9HtPg&oe=6A5E8CAD",
+      "summary_en": "Researchers are turning brain activity into text without surgery by decoding brain signals with AI. The approach promises new communication options for people with paralysis or severe speech impairment, but faces accuracy, speed, and privacy challenges.",
+      "summary_zh": "研究人员通过人工智能解码脑信号，在不进行手术的情况下将脑波转写为文字。这一路径为瘫痪或语言受限者带来新的沟通方式，但在准确性、速度与隐私方面仍存在挑战。",
+      "hn": {
+        "id": 48739466,
+        "type": "story",
+        "by": "alok-g",
+        "score": 174,
+        "descendants": 83,
+        "time": 1782854953,
+        "comments_url": "https://news.ycombinator.com/item?id=48739466"
+      },
+      "tags": [
+        "AI",
+        "Science",
+        "Privacy"
+      ],
+      "hot_score": 0.84
+    },
+    {
+      "title_en": "Knoppix",
+      "url": "https://www.knopper.net/knoppix/index-en.html",
+      "title_zh": "Knoppix",
+      "created_display": "Created: Jun 30, 2026 / 05:54 PT",
+      "image_url": "https://www.knopper.net/pics/de.gif",
+      "summary_en": "Knoppix, the pioneer live Linux distribution, is surveyed—its approach to hardware autodetection and running from removable media influenced modern portability and recovery workflows. The piece traces why Knoppix mattered for the era of live CDs and USB booting. It offers context for current portable Linux tools.",
+      "summary_zh": "Knoppix 作为开创性实时/现场运行的 Linux 发行版的概览，展示其硬件自检测与从可移动介质启动的理念如何影响现代便携与救援场景。",
+      "hn": {
+        "id": 48732056,
+        "type": "story",
+        "by": "hoangvmpc",
+        "score": 325,
+        "descendants": 116,
+        "time": 1782824041,
+        "comments_url": "https://news.ycombinator.com/item?id=48732056"
+      },
+      "tags": [
+        "Open Source",
+        "Hardware"
+      ],
+      "hot_score": 0.81
+    },
+    {
+      "title_en": "Crypto firms have spent $189M so far on 2026 US election, report says",
+      "url": "https://www.reuters.com/world/crypto-firms-have-spent-189-million-so-far-2026-us-election-report-says-2026-06-30/",
+      "title_zh": "加密公司在2026年美国大选中已支出1.89亿美元",
+      "created_display": "Created: Jun 30, 2026 / 09:44 PT",
+      "image_url": null,
+      "summary_en": "Crypto firms have spent about $189 million so far on the 2026 US elections, reflecting a growing push to influence policy and regulation. The level of spending signals how the industry seeks clarity and favorable rules as it matures, drawing scrutiny from policymakers and investors. It underscores the entanglement of tech money and politics.",
+      "summary_zh": "加密公司迄今在2026年美国大选中花费约1.89亿美元，显示其推动政策与监管的诉求不断增强。如此水平的支出反映行业寻求明确规则与有利环境的意图，同时也引发政策制定者与投资者的关注，凸显科技资金与政治的交汇。",
+      "hn": {
+        "id": 48735376,
+        "type": "story",
+        "by": "tartoran",
+        "score": 221,
+        "descendants": 107,
+        "time": 1782837871,
+        "comments_url": "https://news.ycombinator.com/item?id=48735376"
+      },
+      "hot_score": 0.72,
+      "tags": [
+        "Politics",
+        "Finance"
+      ]
+    },
+    {
+      "title_en": ".self: A new top-level domain designed to support self-hosting",
+      "url": "https://hccf.onmy.cloud/2026/06/21/reclaiming-our-digital-selves-hccfs-vision-for-a-human-centered-top-level-domain/",
+      "title_zh": ".self：为自托管设计的新顶级域名",
+      "created_display": "Created: Jun 29, 2026 / 12:49 PT",
+      "image_url": "https://hccf.onmy.cloud/wp-content/uploads/2026/03/HCCF_Logo_new_snug_square_transparent-3.png",
+      "summary_en": ".self is proposed as a human-centered top-level domain intended to empower individuals to run personal, self-hosted services with less reliance on centralized providers. The idea signals a shift in DNS governance toward user-owned namespaces and could spur tooling and registries to support personal data sovereignty, though practical adoption and security models remain to be worked out.",
+      "summary_zh": "“.self” 被提出作为以人为本的顶级域名，旨在让个人能够在较少依赖中心化服务商的情况下运营自托管服务。这一构想推动域名系统向用户自有命名空间的方向发展，可能促成支持个人数据主权的工具与注册体系，但实际落地的采纳度与安全模型尚待完善。",
+      "hn": {
+        "id": 48724230,
+        "type": "story",
+        "by": "HumanCCF",
+        "score": 667,
+        "descendants": 378,
+        "time": 1782762568,
+        "comments_url": "https://news.ycombinator.com/item?id=48724230"
+      },
+      "tags": [
+        "Web",
+        "Privacy",
+        "Security"
+      ],
+      "hot_score": 0.71
+    },
+    {
+      "title_en": "I built a mmWave material classification radar (2025)",
+      "url": "https://gauthier-lechevalier.com/radar",
+      "title_zh": "I built a mmWave material classification radar",
+      "created_display": "Created: Jun 30, 2026 / 10:29 PT",
+      "image_url": "https://gauthier-lechevalier.com/manual/radar_page/product_inside.jpeg",
+      "summary_en": "A hands-on look at using millimeter-wave radar to distinguish materials by their dielectric signatures. The approach has practical implications for robotics, security, and industrial sensing.",
+      "summary_zh": "作者展示了用毫米波雷达对材料进行分类的实现，材料在雷达信号中的介电特性差异帮助识别。此方法对机器人、安防和工业传感等领域有实际应用潜力。",
+      "hn": {
+        "id": 48736137,
+        "type": "story",
+        "by": "GL26",
+        "score": 192,
+        "descendants": 56,
+        "time": 1782840576,
+        "comments_url": "https://news.ycombinator.com/item?id=48736137"
+      },
+      "tags": [
+        "Hardware",
+        "Science",
+        "Security"
+      ],
+      "hot_score": 0.66
+    },
+    {
+      "title_en": "Supreme Court upholds broad conception of birthright citizenship",
+      "url": "https://apnews.com/live/birthright-citizenship-decision-supreme-court-updates-06-30-2026",
+      "title_zh": "最高法院维持对出生公民权的广义认定",
+      "created_display": "Created: Jun 30, 2026 / 07:43 PT",
+      "image_url": "https://dims.apnews.com/dims4/default/4a7a988/2147483647/strip/true/crop/4900x3265+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fa5%2Fe3%2F2c52258c45eca1d489e7d46eb67c%2Fap26138777046488-1.jpg",
+      "summary_en": "The Supreme Court preserves a broad interpretation of birthright citizenship, keeping citizenship eligibility widely accessible for those born in the country. The ruling constrains potential reforms that could narrow eligibility and has implications for immigration policy, education, and labor markets. It solidifies a long-standing constitutional interpretation.",
+      "summary_zh": "最高法院维持对出生公民权的广义认定，确保在境内出生的人大多数获得公民身份。此判决收窄了可能收紧公民资格的改革空间，并对移民政策、教育和劳动力市场带来广泛影响，巩固了这一长期的宪法解释。",
+      "hn": {
+        "id": 48733406,
+        "type": "story",
+        "by": "toomuchtodo",
+        "score": 210,
+        "descendants": 549,
+        "time": 1782830634,
+        "comments_url": "https://news.ycombinator.com/item?id=48733406"
+      },
+      "hot_score": 0.59,
+      "tags": [
+        "Politics",
+        "Legal",
+        "Education"
+      ]
+    },
+    {
+      "title_en": "Looking Ahead to Postgres 19",
+      "url": "https://www.snowflake.com/en/blog/engineering/postgresql-19-features-beta/",
+      "title_zh": "展望 Postgres 19",
+      "created_display": "Created: Jun 30, 2026 / 07:14 PT",
+      "image_url": "https://www.snowflake.com/content/dam/snowflake-site/engineering-blog/featured-images/sf-eng-blog-ML-3.png",
+      "summary_en": "Postgres 19 is shaping up in beta with features aimed at performance and ecosystem tooling. Anticipated improvements include better parallelism, indexing options, and cloud-friendly tooling, continuing PostgreSQL's momentum in enterprise deployments. The release signals sustained competition with managed databases.",
+      "summary_zh": "Postgres 19 的测试版聚焦性能与生态工具，预计将提升并行查询、索引和云端工作流等能力，继续推动 PostgreSQL 在企业部署中的地位与竞争力。",
+      "hn": {
+        "id": 48733031,
+        "type": "story",
+        "by": "thinkingemote",
+        "score": 212,
+        "descendants": 126,
+        "time": 1782828869,
+        "comments_url": "https://news.ycombinator.com/item?id=48733031"
+      },
+      "hot_score": 0.58,
+      "tags": [
+        "Programming",
+        "Data"
+      ]
+    },
+    {
+      "title_en": "US Supreme Court rules geofence warrants require constitutional protections",
+      "url": "https://www.theguardian.com/us-news/2026/jun/29/supreme-court-geofence-warrants-case-decision",
+      "title_zh": "美国最高法院裁定地理围栏检 warrants 需宪法保护",
+      "created_display": "Created: Jun 29, 2026 / 08:54 PT",
+      "image_url": "https://i.guim.co.uk/img/media/ddb87e813bdb11401cf5abac3654ec9ff5b15d85/328_0_5001_4002/master/5001.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4dde1080bea475527e46e854344cca12",
+      "summary_en": "The Supreme Court ruled geofence warrants must be protected by Fourth Amendment standards, reinforcing privacy safeguards for location data. The decision shapes how law enforcement can access location information and how tech platforms respond to such requests.",
+      "summary_zh": "最高法院裁定地理围栏搜查须适用第四修正案标准，加强对定位数据的隐私保护。这一判决影响执法获取位置信息的边界以及科技平台对相关请求的应对。",
+      "hn": {
+        "id": 48720924,
+        "type": "story",
+        "by": "cdrnsf",
+        "score": 610,
+        "descendants": 293,
+        "time": 1782748464,
+        "comments_url": "https://news.ycombinator.com/item?id=48720924"
+      },
+      "tags": [
+        "Privacy",
+        "Legal"
+      ],
+      "hot_score": 0.56
+    },
+    {
+      "title_en": "Have you restarted your computer this week?",
+      "url": "https://taonaw.com/2026/06/27/have-you-restarted-your-computer.html",
+      "title_zh": "Have You Restarted Your Computer This Week?",
+      "created_display": "Created: Jun 30, 2026 / 07:15 PT",
+      "image_url": "https://s3.amazonaws.com/micro.blog/opengraph/2026/06/27/5926914.png",
+      "summary_en": "A reflective piece on the role of restarts in modern systems, arguing that periodic reboots remain valuable for stability, helping clear memory and reset stuck processes.",
+      "summary_zh": "本文主张即使现代系统改用热更新，定期重启仍有助于清理内存、解决卡死进程并提升稳定性。",
+      "hn": {
+        "id": 48733043,
+        "type": "story",
+        "by": "surprisetalk",
+        "score": 202,
+        "descendants": 372,
+        "time": 1782828929,
+        "comments_url": "https://news.ycombinator.com/item?id=48733043"
+      },
+      "tags": [
+        "Programming"
+      ],
+      "hot_score": 0.55
+    },
+    {
+      "title_en": "Memoirs of Extraordinary Popular Delusions and the Madness of Crowds (1852)",
+      "url": "https://www.gutenberg.org/ebooks/24518",
+      "title_zh": "《群体的非凡错觉与众人的疯狂》（1852）",
+      "created_display": "Created: Jun 30, 2026 / 05:47 PT",
+      "image_url": "https://www.gutenberg.org/cache/epub/24518/pg24518.cover.medium.jpg",
+      "summary_en": "An 1852 classic on crowd psychology that catalogs famous delusions and speculative manias. Though old, it helps readers recognize how hype and groupthink shape technology and finance today. The work remains a useful lens for analyzing bubbles and social dynamics in tech.",
+      "summary_zh": "1852 年的经典著作，系统梳理群体心理与历史上的共识错判与群体狂热。即使年代久远，它也为理解科技与金融领域的牛熊逻辑提供洞见，帮助读者识别泡沫与群体行为对创新的影响。",
+      "hn": {
+        "id": 48731989,
+        "type": "story",
+        "by": "lstodd",
+        "score": 183,
+        "descendants": 62,
+        "time": 1782823671,
+        "comments_url": "https://news.ycombinator.com/item?id=48731989"
+      },
+      "tags": [
+        "Science",
+        "Culture",
+        "Finance"
+      ],
+      "hot_score": 0.45
+    },
+    {
+      "title_en": "Exercise intensity influences body composition in healthy older adults (2025)",
+      "url": "https://www.maturitas.org/article/S0378-5122(25)00571-7/fulltext",
+      "title_zh": "运动强度影响健康老年人身体组成（2025年研究）",
+      "created_display": "Created: Jun 30, 2026 / 03:31 PT",
+      "image_url": null,
+      "summary_en": "A 2025 study finds that higher-intensity exercise more effectively improves body composition in healthy older adults than lower-intensity workouts. The result informs aging fitness guidelines and emphasizes balancing safety with difficulty to maximize benefits. It suggests tailoring programs to individual risk profiles.",
+      "summary_zh": "2025年的一项研究发现，相较于低强度训练，更高强度的运动对健康老年人的身体组成有更明显的改善。研究为老年人健身指南提供了证据，强调在安全前提下提升训练强度以获得最大化收益，并建议按个体风险制定方案。",
+      "hn": {
+        "id": 48730694,
+        "type": "story",
+        "by": "bookofjoe",
+        "score": 200,
+        "descendants": 175,
+        "time": 1782815462,
+        "comments_url": "https://news.ycombinator.com/item?id=48730694"
+      },
+      "hot_score": 0.43,
+      "tags": [
+        "Health",
+        "Science"
+      ]
+    },
+    {
+      "title_en": "Rocketlab acquires Iridium",
+      "url": "https://investors.rocketlabcorp.com/news-releases/news-release-details/rocket-lab-acquire-iridium-historic-deal-creating-fully",
+      "title_zh": "Rocket Lab 收购 Iridium：历史性交易",
+      "created_display": "Created: Jun 29, 2026 / 07:09 PT",
+      "image_url": "https://investors.rocketlabcorp.com/sites/g/files/knoqqb100131/themes/site/client_site/dist/images/Rocket-Lab-Logo-RGB-Reversed.png",
+      "summary_en": "Rocket Lab's planned acquisition of Iridium Communications would create a vertically integrated space services company, combining launch, satellite operations, and communications. The deal signals ongoing consolidation in the space economy and could reshape small-satellite market dynamics. If approved, it may accelerate end-to-end offerings for customers building constellations.",
+      "summary_zh": "Rocket Lab 将收购 Iridium，整合发射、卫星运营与通信，可能打造垂直整合的太空服务公司。此举反映了太空产业的持续整合，并可能重塑小卫星市场格局。若获批，或将推动面向星座构建的端到端解决方案加速落地。",
+      "hn": {
+        "id": 48719485,
+        "type": "story",
+        "by": "everfrustrated",
+        "score": 465,
+        "descendants": 307,
+        "time": 1782742164,
+        "comments_url": "https://news.ycombinator.com/item?id=48719485"
+      },
+      "tags": [
+        "Space",
+        "Business"
+      ],
+      "hot_score": 0.4
+    },
+    {
+      "title_en": "Sony erases digital content from libraries",
+      "url": "https://arstechnica.com/gadgets/2026/06/sony-erases-digital-content-from-libraries-were-reminded-we-dont-own-what-we-buy/",
+      "title_zh": "索尼从数字馆藏中移除内容",
+      "created_display": "Created: Jun 30, 2026 / 04:02 PT",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2020/06/abomb8-1152x648.jpg",
+      "summary_en": "Sony has begun removing digital content from libraries, underscoring that digital purchases are licenses, not ownership. The move means users can lose access when titles are pulled, heightening concerns about digital rights and library permanence. This episode adds to the broader DRM consumer protection discussion.",
+      "summary_zh": "索尼从数字馆藏中移除内容，强调数字购买是许可而非所有权。随着标题被下架，用户可能失去访问权，这凸显数字版权与馆藏长期可用性之担忧，也让 DRM 与消费者保护的讨论更为迫切。",
+      "hn": {
+        "id": 48730904,
+        "type": "story",
+        "by": "pseudolus",
+        "score": 182,
+        "descendants": 71,
+        "time": 1782817330,
+        "comments_url": "https://news.ycombinator.com/item?id=48730904"
+      },
+      "tags": [
+        "Legal",
+        "Privacy"
+      ],
+      "hot_score": 0.4
+    },
+    {
+      "title_en": "US Supreme Court Just Blew Up EU-US Data Transfers",
+      "url": "https://noyb.eu/en/us-supreme-court-just-blew-eu-us-data-transfers",
+      "title_zh": "美国最高法院刚刚瓦解欧盟-美国数据传输规则",
+      "created_display": "Created: Jun 29, 2026 / 22:17 PT",
+      "image_url": "https://noyb.eu/sites/default/files/styles/facebook/public/2026-05/header_EU-US-Data-Transfers_0.jpg?h=c9a3a702&itok=ih1PTPh3",
+      "summary_en": "A Supreme Court decision disrupts the framework enabling EU-US data transfers, forcing reliance on additional safeguards and mechanisms like SCCs. It accelerates data localization pressures and reshapes how global services move data.",
+      "summary_zh": "最高法院的裁决中断了EU-US数据传输的框架，迫使企业更多地依赖附加保护条款及数据本地化手段。此举改变了全球服务的数据移动策略与合规路径。",
+      "hn": {
+        "id": 48728740,
+        "type": "story",
+        "by": "tomwas54",
+        "score": 241,
+        "descendants": 187,
+        "time": 1782796622,
+        "comments_url": "https://news.ycombinator.com/item?id=48728740"
+      },
+      "tags": [
+        "Legal",
+        "Privacy"
+      ],
+      "hot_score": 0.39
+    },
+    {
+      "title_en": "European ISPs Want Rightsholders Held Accountable for Overblocking Damage",
+      "url": "https://torrentfreak.com/european-isps-want-rightsholders-held-accountable-for-overblocking-damage/",
+      "title_zh": "欧洲 ISP 希望权利方对过度拦截造成的损害负责",
+      "created_display": "Created: Jun 29, 2026 / 09:07 PT",
+      "image_url": "https://torrentfreak.com/images/wall-feat.jpg",
+      "summary_en": "European ISPs are pushing back on overblocking by rights holders and seeking accountability for damages, signaling ongoing tension between enforcement and civil liberties. The push could influence EU policy on safe harbors, liability, and the economics of content blocking.",
+      "summary_zh": "欧洲的运营商正就权利方过度拦截造成的损害追究责任，凸显执法与公民自由之间的持续冲突。这一举动可能影响欧盟关于安全港、法律责任及内容拦截经济性的相关政策。",
+      "hn": {
+        "id": 48721072,
+        "type": "story",
+        "by": "Brajeshwar",
+        "score": 412,
+        "descendants": 124,
+        "time": 1782749235,
+        "comments_url": "https://news.ycombinator.com/item?id=48721072"
+      },
+      "tags": [
+        "Legal",
+        "Politics"
+      ],
+      "hot_score": 0.38
+    },
+    {
+      "title_en": "LongCat-2.0, a large-scale MoE model with 1.6T total and 48B Active",
+      "url": "https://longcat.chat/blog/longcat-2.0/",
+      "title_zh": "LongCat-2.0：总参数1.6万亿、活跃参数48亿的超大规模MoE模型",
+      "created_display": "Created: Jun 29, 2026 / 17:30 PT",
+      "image_url": "https://s3plus.meituan.net/aigc-media-resources/longcat/big-cat-logo.png",
+      "summary_en": "LongCat-2.0 raises the bar with a 1.6T total-parameter MoE model and 48B active parameters, showcasing sparse activation to scale AI workloads efficiently.",
+      "summary_zh": "LongCat-2.0 以总参数1.6万亿、活跃参数48亿的MoE模型为标杆，展示通过稀疏激活来高效扩展AI工作负载。文章介绍了架构、训练规模以及在自然语言处理等领域的潜在应用。",
+      "hn": {
+        "id": 48727116,
+        "type": "story",
+        "by": "benjiro29",
+        "score": 276,
+        "descendants": 82,
+        "time": 1782779411,
+        "comments_url": "https://news.ycombinator.com/item?id=48727116"
+      },
+      "tags": [
+        "AI"
+      ],
+      "hot_score": 0.36
+    },
+    {
+      "title_en": "A native graphical shell for SSH",
+      "url": "https://probablymarcus.com/blocks/2026/06/28/native-graphical-shell-for-SSH.html",
+      "title_zh": "SSH 的原生图形界面外壳",
+      "created_display": "Created: Jun 29, 2026 / 08:42 PT",
+      "image_url": "https://probablymarcus.com/images/2026-06-28-outer-shell.png",
+      "summary_en": "A native graphical shell for SSH enables GUI-based remote sessions, simplifying workflows for users who prefer visuals over a terminal. It demonstrates how GUI front-ends can complement SSH by integrating file transfer, terminal emulation, and session management.",
+      "summary_zh": "SSH 的原生图形界面外壳让远程会话以图形界面形式展开，提升偏好图形界面的用户的工作流。该方案展示了图形前端如何与 SSH 结合，提供文件传输、终端仿真和会话管理等一体化功能。",
+      "hn": {
+        "id": 48720758,
+        "type": "story",
+        "by": "mrcslws",
+        "score": 364,
+        "descendants": 214,
+        "time": 1782747737,
+        "comments_url": "https://news.ycombinator.com/item?id=48720758"
+      },
+      "tags": [
+        "Programming"
+      ],
+      "hot_score": 0.33
+    },
+    {
+      "title_en": "Zluda 6 release (run unmodified CUDA applications on non-Nvidia GPUs)",
+      "url": "https://vosen.github.io/ZLUDA/blog/zluda-update-q1q2-2026/",
+      "title_zh": "Zluda 6 发布：在非 Nvidia GPU 上运行未修改的 CUDA 应用",
+      "created_display": "Created: Jun 30, 2026 / 03:34 PT",
+      "image_url": "https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white",
+      "summary_en": "Zluda 6 releases material to run unmodified CUDA apps on non-NVIDIA GPUs, bridging CUDA software to AMD/Intel GPUs. The update expands hardware freedom for AI and HPC workloads and challenges vendor lock-in. It signals progress toward more diverse GPU ecosystems.",
+      "summary_zh": "Zluda 6 发布实现将未修改的 CUDA 应用在非 NVIDIA GPU 上运行，打破了对 CUDA 专属硬件的依赖边界。对 AI 与 HPC 工作负载的硬件选择带来更多自由，也是在推动多厂商生态的发展。",
+      "hn": {
+        "id": 48730713,
+        "type": "story",
+        "by": "Tiberium",
+        "score": 154,
+        "descendants": 14,
+        "time": 1782815665,
+        "comments_url": "https://news.ycombinator.com/item?id=48730713"
+      },
+      "tags": [
+        "Hardware",
+        "Open Source",
+        "AI"
+      ],
+      "hot_score": 0.33
+    },
+    {
+      "title_en": "Popping the GPU Bubble",
+      "url": "https://moondream.ai/blog/popping-the-gpu-bubble",
+      "title_zh": "戳破GPU泡沫",
+      "created_display": "Created: Jun 29, 2026 / 22:14 PT",
+      "image_url": "https://moondream.ai/images/blog/popping-the-gpu-bubble/cover.jpg",
+      "summary_en": "The piece argues that the GPU market may deflate after AI hype peaks, examining price pressure, capacity, and demand drivers for data centers and cloud providers. It cautions investors and engineers to recalibrate expectations around AI hardware.",
+      "summary_zh": "文章认为在 AI 热潮褪去后，GPU 市场可能回落，分析了价格压力、产能与数据中心及云服务对显卡的需求等因素。对投资者和工程师提出了重新校准对 AI 硬件的预期的建议。",
+      "hn": {
+        "id": 48728729,
+        "type": "story",
+        "by": "radq",
+        "score": 190,
+        "descendants": 48,
+        "time": 1782796475,
+        "comments_url": "https://news.ycombinator.com/item?id=48728729"
+      },
+      "tags": [
+        "Business",
+        "Finance",
+        "AI",
+        "Hardware"
+      ],
+      "hot_score": 0.31
+    },
+    {
+      "title_en": "CERN bids farewell to the LHC and enters Long Shutdown 3",
+      "url": "https://home.cern/cern-bids-farewell-to-the-lhc-and-enters-long-shutdown-3/",
+      "title_zh": "CERN 向大型强子对撞机道别，进入长期停机3阶段",
+      "created_display": "Created: Jun 29, 2026 / 11:52 PT",
+      "image_url": "https://home.cern/wp-content/themes/cern/public/images/logo-white.svg",
+      "summary_en": "CERN begins Long Shutdown 3, a multi-year maintenance and upgrades window for the LHC; essential for addressing hardware aging and enabling next-gen experiments.",
+      "summary_zh": "CERN 开始长期停机3阶段，进行 LHC 的维护和升级，旨在解决硬件老化并为下一轮实验做准备。",
+      "hn": {
+        "id": 48723484,
+        "type": "story",
+        "by": "HelloUsername",
+        "score": 295,
+        "descendants": 92,
+        "time": 1782759145,
+        "comments_url": "https://news.ycombinator.com/item?id=48723484"
+      },
+      "tags": [
+        "Science",
+        "Hardware"
+      ],
+      "hot_score": 0.3
+    },
+    {
+      "title_en": "South Korea to spend $1T on more memory chip production and humanoid robots",
+      "url": "https://arstechnica.com/ai/2026/06/south-korea-to-spend-1t-on-more-memory-chip-production-and-humanoid-robots/",
+      "title_zh": "韩国拟斥资1万亿美元扩产内存芯片并推进人形机器人",
+      "created_display": "Created: Jun 29, 2026 / 15:21 PT",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/Screenshot-2026-06-29-at-4.36.13-PM-1152x648.png",
+      "summary_en": "South Korea unveiled a trillion-dollar plan to boost memory-chip production and deploy humanoid robots, signaling a strong push to secure AI hardware and automate the workforce. The move could reshape regional chip incentives and technology ecosystems.",
+      "summary_zh": "韩国发布规模达1万亿美元的计划，扩大内存芯片产能并推进人形机器人产业，显示其在 AI 硬件与劳动力自动化方面的强力布局，或将改变区域芯片激励与科技生态。",
+      "hn": {
+        "id": 48726102,
+        "type": "story",
+        "by": "jnord",
+        "score": 257,
+        "descendants": 207,
+        "time": 1782771660,
+        "comments_url": "https://news.ycombinator.com/item?id=48726102"
+      },
+      "tags": [
+        "Hardware",
+        "Business",
+        "AI"
+      ],
+      "hot_score": 0.3
+    },
+    {
+      "title_en": "Memory Safe Context Switching",
+      "url": "https://fil-c.org/context_switches",
+      "title_zh": "内存安全的上下文切换",
+      "created_display": "Created: Jun 29, 2026 / 17:38 PT",
+      "image_url": null,
+      "summary_en": "This piece argues for memory-safe context switching in operating systems to prevent cross-process memory leakage and safety bugs. It surveys approaches like isolation boundaries and safe-language techniques, and discusses the safety-performance tradeoffs involved.",
+      "summary_zh": "本文提出在操作系统层面进行内存安全的上下文切换，以防止进程间的内存泄漏和安全缺陷。它评估了通过隔离边界、安全语言等手段实现安全性的做法，并讨论了安全性与性能之间的权衡。",
+      "hn": {
+        "id": 48727177,
+        "type": "story",
+        "by": "modeless",
+        "score": 208,
+        "descendants": 30,
+        "time": 1782779899,
+        "comments_url": "https://news.ycombinator.com/item?id=48727177"
+      },
+      "tags": [
+        "Programming"
+      ],
+      "hot_score": 0.27
+    },
+    {
+      "title_en": "Ornith-1.0: self-improving open-source models for agentic coding",
+      "url": "https://github.com/deepreinforce-ai/Ornith-1",
+      "title_zh": "Ornith-1.0：具备代理能力的自我改进开源模型",
+      "created_display": "Created: Jun 29, 2026 / 10:16 PT",
+      "image_url": "https://opengraph.githubassets.com/a8f2bc6e457547e434482434874aa1e5d6d5de271b2c78b3a0a82707cb5b1636/deepreinforce-ai/Ornith-1",
+      "summary_en": "Ornith-1.0 pushes open-source models toward self-improvement for agentic coding. The project explores mechanisms for models to refine their behavior and tooling autonomously, reducing human-labeled overhead. If successful, it could accelerate autonomous programming tasks and bring more capable AI-assisted development to the community.",
+      "summary_zh": "Ornith-1.0 将开源模型推向自我改进，聚焦具备代理能力的编码任务。它尝试让模型自主优化行为和工具使用，降低人工标注的开销。一旦成熟，可能显著加速自动化编程和 AI 辅助开发的能力落地。",
+      "hn": {
+        "id": 48722052,
+        "type": "story",
+        "by": "danboarder",
+        "score": 260,
+        "descendants": 51,
+        "time": 1782753377,
+        "comments_url": "https://news.ycombinator.com/item?id=48722052"
+      },
+      "tags": [
+        "AI",
+        "Open Source"
+      ],
+      "hot_score": 0.25
+    },
+    {
+      "title_en": "WATaBoy: JIT-Ing Game Boy Instructions to WASM Beats a Native Interpreter",
+      "url": "https://humphri.es/blog/WATaBoy/",
+      "title_zh": "WATaBoy：将 Game Boy 指令 JIT 编译为 WASM，胜过原生解释器",
+      "created_display": "Created: Jun 29, 2026 / 08:02 PT",
+      "image_url": "https://humphri.es/blog/WATaBoy/wataboy-screenshot.png",
+      "summary_en": "WATaBoy demonstrates that compiling Game Boy instructions to WebAssembly at runtime can outperform a hand-written native interpreter on common hardware. The project showcases WASM as a high-performance backend for emulation, offering portability across platforms. It also raises questions about further optimizations and toolchain choices for emulators.",
+      "summary_zh": "WATaBoy 展示了在运行时将 Game Boy 指令 JIT 编译为 WebAssembly，甚至超越了某些硬件上的本地解释器的速度。此做法凸显 WASM 作为高性能后端在仿真领域的可行性与跨平台性，同时也引发对进一步优化与工具链选择的思考。",
+      "hn": {
+        "id": 48720190,
+        "type": "story",
+        "by": "energeticbark",
+        "score": 225,
+        "descendants": 37,
+        "time": 1782745320,
+        "comments_url": "https://news.ycombinator.com/item?id=48720190"
+      },
+      "tags": [
+        "Programming",
+        "Hardware",
+        "Web"
+      ],
+      "hot_score": 0.2
+    },
+    {
+      "title_en": "Linux for the Sega MegaDrive",
+      "url": "https://github.com/LinuxMD/linuxmd",
+      "title_zh": "为世嘉 Mega Drive 移植的 Linux",
+      "created_display": "Created: Jun 29, 2026 / 08:01 PT",
+      "image_url": "https://opengraph.githubassets.com/61952f4bc9d9e2848e03f1707c91ec7c990a0fa4236a287bbff6c45071ba0264/LinuxMD/linuxmd",
+      "summary_en": "A project porting Linux to the Sega Mega Drive demonstrates pushing modern OS concepts onto retro hardware. The write-up discusses constraints of the 16-bit console and insights for hobbyists who want to experiment with vintage platforms.",
+      "summary_zh": "该项目把 Linux 移植到世嘉 Mega Drive，向这款16位控制台挑战现代操作系统概念。文中讨论了硬件限制，并为喜欢复古平台的爱好者提供实践洞见。",
+      "hn": {
+        "id": 48720186,
+        "type": "story",
+        "by": "HardwareLust",
+        "score": 205,
+        "descendants": 69,
+        "time": 1782745299,
+        "comments_url": "https://news.ycombinator.com/item?id=48720186"
+      },
+      "tags": [
+        "Open Source",
+        "Programming",
+        "Hardware"
+      ],
+      "hot_score": 0.18
+    },
+    {
+      "title_en": "Working With AI: A concrete example",
+      "url": "https://htmx.org/essays/working-with-ai/",
+      "title_zh": "与 AI 共事",
+      "created_display": "Created: Jun 29, 2026 / 07:53 PT",
+      "image_url": "https://htmx.org/img/bss_bars.png",
+      "summary_en": "HTMX's essay on working with AI emphasizes practical collaboration, human-in-the-loop workflows, and designing systems that respect AI limitations while boosting productivity.",
+      "summary_zh": "HTMX 的文章强调在工作中与 AI 合作的实际做法，倡导人机协同的工作流与在尊重 AI 局限性的前提下提升生产力。",
+      "hn": {
+        "id": 48720064,
+        "type": "story",
+        "by": "comma_at",
+        "score": 191,
+        "descendants": 69,
+        "time": 1782744821,
+        "comments_url": "https://news.ycombinator.com/item?id=48720064"
+      },
+      "tags": [
+        "AI"
+      ],
+      "hot_score": 0.17
+    },
+    {
+      "title_en": "Mag 7 starting to underperform [pdf]",
+      "url": "https://www.apollo.com/content/dam/apolloaem/pdf/daily-spark/2026/jun/28/062826-Mag7.pdf",
+      "title_zh": "Mag 7 开始表现不佳 [PDF]",
+      "created_display": "Created: Jun 29, 2026 / 07:12 PT",
+      "image_url": null,
+      "summary_en": "Mag 7 is starting to underperform, according to the referenced PDF.",
+      "summary_zh": "Mag 7 开始表现不佳，见附带的 PDF。",
+      "hn": {
+        "id": 48719532,
+        "type": "story",
+        "by": "mooreds",
+        "score": 189,
+        "descendants": 160,
+        "time": 1782742375,
+        "comments_url": "https://news.ycombinator.com/item?id=48719532"
+      },
+      "tags": [
+        "Science"
+      ],
+      "hot_score": 0.16
+    }
+  ]
+}

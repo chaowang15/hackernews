@@ -1,0 +1,1165 @@
+{
+  "meta": {
+    "mode": "best",
+    "source": "https://news.ycombinator.com/",
+    "api": "https://github.com/HackerNews/API",
+    "count_requested": 50,
+    "count_written": 50,
+    "reused_same_day": 0,
+    "reused_cross_day": 20,
+    "new_llm_enriched": 14,
+    "scrape_time_display": "06:10, April 12, 2026 (PDT)",
+    "timezone": "America/Los_Angeles",
+    "date_dir": "2026/04/11",
+    "content_date": "2026-04-11",
+    "run_time_local": "06:10, April 12, 2026 (PDT)",
+    "run_time_utc": "2026-04-12 13:10:01 UTC",
+    "incremental": true,
+    "stories_max": 50,
+    "hot_score_time_utc": "2026-04-12 13:11:04 UTC"
+  },
+  "items": [
+    {
+      "title_en": "Apple update looks like Czech mate for locked-out iPhone user",
+      "url": "https://www.theregister.com/2026/04/12/ios_passcode_bug/",
+      "title_zh": "苹果更新为被锁定的 iPhone 用户带来希望",
+      "created_display": "Created: Apr 12, 2026 / 01:38 PT",
+      "image_url": "https://regmedia.co.uk/2024/03/27/passcode_shutterstock.jpg",
+      "summary_en": "Apple pushed a software update that remedies a passcode bug that could lock users out of their devices. The fix helps restore access and reduces long-term risk of permanent lockouts. This incident underscores how critical small software bugs can be on everyday devices and the value of timely patches.",
+      "summary_zh": "苹果发布软件更新修复了一个可能导致用户被锁定在设备之外的密码错误漏洞。修复让用户重新获得访问权限，降低长期被永久锁定的风险。此事凸显了日常设备上微小漏洞的影响以及及时修补的重要性。",
+      "hn": {
+        "id": 47737383,
+        "type": "story",
+        "by": "OuterVale",
+        "score": 239,
+        "descendants": 129,
+        "time": 1775983136,
+        "comments_url": "https://news.ycombinator.com/item?id=47737383"
+      },
+      "hot_score": 8.11,
+      "tags": [
+        "Security"
+      ]
+    },
+    {
+      "title_en": "I run multiple $10K MRR companies on a $20/month tech stack",
+      "url": "https://stevehanov.ca/blog/how-i-run-multiple-10k-mrr-companies-on-a-20month-tech-stack",
+      "title_zh": "用20美元/月的技术栈运营多家月订阅收入达一万美元的公司",
+      "created_display": "Created: Apr 11, 2026 / 23:00 PT",
+      "image_url": "https://stevehanov.ca/blog/images/95f16b3dbf861a9156cb2c6d1be39f5e2fcfc1b1f4c5f11ee6f9e182bd4c5f5a.png",
+      "summary_en": "Running several SaaS-like businesses on a $20/month stack is feasible with strong automation and lean operations. The post outlines strategies to maintain roughly $10K MRR per product at tiny ongoing costs, highlighting how a low-cost, automated stack can scale.",
+      "summary_zh": "在极低成本和高度自动化的条件下，仍然能经营多家以订阅为核心的产品并实现可观的月经常性收入。作者分享了将每个项目的月耗控在约20美元、个别产品实现约1万美元MRR的做法，挑战了对高成本技术栈的普遍认知。",
+      "hn": {
+        "id": 47736555,
+        "type": "story",
+        "by": "tradertef",
+        "score": 388,
+        "descendants": 248,
+        "time": 1775973600,
+        "comments_url": "https://news.ycombinator.com/item?id=47736555"
+      },
+      "hot_score": 7.15,
+      "tags": [
+        "Business",
+        "Startups"
+      ]
+    },
+    {
+      "title_en": "Small models also found the vulnerabilities that Mythos found",
+      "url": "https://aisle.com/blog/ai-cybersecurity-after-mythos-the-jagged-frontier",
+      "title_zh": "小模型也发现了 Mythos 发现的漏洞",
+      "created_display": "Created: Apr 11, 2026 / 09:47 PT",
+      "image_url": "https://aisle.com/api/media/file/freepik_create-this_2743478282-1200x630.webp",
+      "summary_en": "New findings show small models exhibit the same vulnerabilities Mythos uncovered in larger models, underscoring that model-size alone doesn't grant security. This broadens risk assessment to include a wider range of models and prompts tighter evaluation and defense strategies.",
+      "summary_zh": "研究表明，即使是小型模型也存在 Mythos 所揭示的漏洞，说明漏洞并非只有大模型才有。这使安全评估需覆盖更广的模型范围，并推动更严格的测试与防护措施。",
+      "hn": {
+        "id": 47732020,
+        "type": "story",
+        "by": "dominicq",
+        "score": 1144,
+        "descendants": 307,
+        "time": 1775926048,
+        "comments_url": "https://news.ycombinator.com/item?id=47732020"
+      },
+      "tags": [
+        "AI",
+        "Security"
+      ],
+      "hot_score": 4.24
+    },
+    {
+      "title_en": "US appeals court declares 158-year-old home distilling ban unconstitutional",
+      "url": "https://www.theguardian.com/law/2026/apr/11/appeals-court-ruling-home-distilling-ban-unconstitutional",
+      "title_zh": "美上诉法院裁定158年历史的家庭蒸馏禁令违宪",
+      "created_display": "Created: Apr 11, 2026 / 22:08 PT",
+      "image_url": "https://i.guim.co.uk/img/media/a859b633790bc8805cfd1c9fa2c9cf44ebdacb20/0_0_4074_3261/master/4074.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9937f75b569c27761a6fdc548bf37e8b",
+      "summary_en": "A federal appeals court struck down a 158-year-old ban on home distilling, ruling it unconstitutional. The decision highlights how legacy regulations can linger in the code and invites reevaluation of other antique restrictions. For makers and hobbyists, it signals potential growth in DIY spirits while underscoring the need to navigate safety and taxation.",
+      "summary_zh": "联邦上诉法院裁定一项158年前的家庭蒸馏禁令违宪。裁决暴露出法规体系中的历史遗留条文，促使人们重新审视其他古旧限制的效力。对家庭蒸馏爱好者而言，这可能扩展DIY烈酒的空间，同时也需关注安全与税务合规。",
+      "hn": {
+        "id": 47736298,
+        "type": "story",
+        "by": "Jimmc414",
+        "score": 196,
+        "descendants": 183,
+        "time": 1775970483,
+        "comments_url": "https://news.ycombinator.com/item?id=47736298"
+      },
+      "tags": [
+        "Legal",
+        "Politics"
+      ],
+      "hot_score": 3.06
+    },
+    {
+      "title_en": "Anthropic downgraded cache TTL on March 6th",
+      "url": "https://github.com/anthropics/claude-code/issues/46829",
+      "title_zh": "Anthropic 在3月6日下调 Claude 的缓存 TTL",
+      "created_display": "Created: Apr 11, 2026 / 22:45 PT",
+      "image_url": "https://opengraph.githubassets.com/a3bb239fbc861bfa12617c1b184dec172d7c035ad6e01e9ca4c2a2d5448cf9f1/anthropics/claude-code/issues/46829",
+      "summary_en": "Anthropic reduced Claude's cache TTL on March 6, affecting how fresh responses are served to clients. The change increases cache churn, potentially improving freshness at the cost of latency and API throughput. It signals ongoing tuning of balance between speed, cost, and accuracy.",
+      "summary_zh": "3月6日，Anthropic 下调了 Claude 的缓存 TTL，导致返回结果的时效性和新鲜度受到影响。更高的缓存替换率提升了新鲜度，但可能增加延迟与成本，反映出在速度、成本与准确性之间的持续调参。",
+      "hn": {
+        "id": 47736476,
+        "type": "story",
+        "by": "lsdmtme",
+        "score": 152,
+        "descendants": 132,
+        "time": 1775972752,
+        "comments_url": "https://news.ycombinator.com/item?id=47736476"
+      },
+      "hot_score": 2.66,
+      "tags": [
+        "AI",
+        "DevOps"
+      ]
+    },
+    {
+      "title_en": "How We Broke Top AI Agent Benchmarks: And What Comes Next",
+      "url": "https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/",
+      "title_zh": "我们如何打破顶级 AI Agent 基准测试：以及接下来会怎样",
+      "created_display": "Created: Apr 11, 2026 / 12:15 PT",
+      "image_url": "https://rdi.berkeley.edu/assets/images/rdi_logo_horizontal_720.png",
+      "summary_en": "Reveals how current AI agent benchmarks can be brittle and susceptible to gaming, leading to inflated scores. It also outlines a path forward with more robust, trustworthy benchmarks that emphasize generalization and real-world reliability.",
+      "summary_zh": "揭示当前 AI Agent 基准测试的脆弱性和易被操纵的风险，从而导致分数被抬高。文章同时提出未来的改进方向，强调更稳健、可信的基准测试以关注泛化能力和现实世界的可靠性。",
+      "hn": {
+        "id": 47733217,
+        "type": "story",
+        "by": "Anon84",
+        "score": 417,
+        "descendants": 104,
+        "time": 1775934956,
+        "comments_url": "https://news.ycombinator.com/item?id=47733217"
+      },
+      "tags": [
+        "AI",
+        "Gaming"
+      ],
+      "hot_score": 1.91
+    },
+    {
+      "title_en": "Artemis II safely splashes down",
+      "url": "https://www.cbsnews.com/live-updates/artemis-ii-splashdown-return/",
+      "title_zh": "阿耳忒弥斯II号安全落水回归",
+      "created_display": "Created: Apr 10, 2026 / 17:10 PT",
+      "image_url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/04/11/73f98421-5625-4423-9350-ca8f830524c9/thumbnail/1200x630/912aa87fa1cbfe12c5c46aa4e11480eb/2026-04-11t021020z-2118394274-rc2qmkaipb96-rtrmadp-3-space-moon-artemis.jpg",
+      "summary_en": "NASA's Artemis II mission completed a safe splashdown, marking a milestone in crewed lunar exploration. The return validates deep-space readiness and endurance in human spaceflight, setting the stage for subsequent lunar missions and partnerships with industry.",
+      "summary_zh": "阿耳忒弥斯II号完成安全落水，标志着载人月球探测的重要里程碑。此次归来验证了深空任务的可行性与人类航天的耐久性，并为后续任务及产业合作奠定基础。",
+      "hn": {
+        "id": 47725583,
+        "type": "story",
+        "by": "areoform",
+        "score": 1256,
+        "descendants": 421,
+        "time": 1775866251,
+        "comments_url": "https://news.ycombinator.com/item?id=47725583"
+      },
+      "tags": [
+        "Space"
+      ],
+      "hot_score": 1.72
+    },
+    {
+      "title_en": "The End of Eleventy",
+      "url": "https://brennan.day/the-end-of-eleventy/",
+      "title_zh": "Eleventy 的终结",
+      "created_display": "Created: Apr 11, 2026 / 18:55 PT",
+      "image_url": "https://brennan.day/assets/images/blog/11ty.jpg",
+      "summary_en": "The piece argues Eleventy may be losing traction as modern front-end stacks demand more dynamic, integrated tooling. It highlights tradeoffs between simplicity and capability in static-site workflows, urging teams to re-evaluate their tooling choices as ecosystems evolve. The author suggests exploring hybrid approaches or newer frameworks that offer better scalability.",
+      "summary_zh": "本文认为 Eleventy 在当今需要动态特性和集成工具的前端生态中可能逐渐失去吸引力。作者讨论静态站点工作流的取舍，建议团队在生态演进中重新评估工具选择，并考虑更具扩展性的混合方案或新框架。",
+      "hn": {
+        "id": 47735535,
+        "type": "story",
+        "by": "ValentineC",
+        "score": 181,
+        "descendants": 146,
+        "time": 1775958948,
+        "comments_url": "https://news.ycombinator.com/item?id=47735535"
+      },
+      "tags": [
+        "Programming",
+        "Web"
+      ],
+      "hot_score": 1.72
+    },
+    {
+      "title_en": "Filing the corners off my MacBooks",
+      "url": "https://kentwalters.com/posts/corners/",
+      "title_zh": "把我的 MacBook 边角削圆",
+      "created_display": "Created: Apr 10, 2026 / 15:16 PT",
+      "image_url": "https://kentwalters.com/posts/corners/imgs/IMG_0796.webp",
+      "summary_en": "A playful hardware tweak: the author files the corners of their MacBooks to smooth edges, sharing steps, tools, and cautions about warranty and durability. It doubles as a meditation on DIY customization vs. risk of damaging laptops.",
+      "summary_zh": "作者动手把 MacBook 的边角削圆，给出具体步骤与所用工具，并讨论此改造对保修与耐用性的影响。全文从极客自我改造的角度，兼具风险评估的思考。",
+      "hn": {
+        "id": 47724352,
+        "type": "story",
+        "by": "normanvalentine",
+        "score": 1342,
+        "descendants": 636,
+        "time": 1775859400,
+        "comments_url": "https://news.ycombinator.com/item?id=47724352"
+      },
+      "tags": [
+        "Hardware"
+      ],
+      "hot_score": 1.68
+    },
+    {
+      "title_en": "447 TB/cm² at zero retention energy – atomic-scale memory on fluorographane",
+      "url": "https://zenodo.org/records/19513269",
+      "title_zh": "在氟碳烷上的原子级存储：447 TB/cm² 且零保持能量",
+      "created_display": "Created: Apr 11, 2026 / 13:08 PT",
+      "image_url": "https://zenodo.org/static/images/invenio-rdm.svg",
+      "summary_en": "Reports a record atomic-scale memory density of 447 terabits per square centimeter in fluorographane without retention energy required. This points to potential leaps in future memory technology, though challenges remain for practical integration and room-temperature operation.",
+      "summary_zh": "报道在氟碳烷材料上实现原子级存储密度，达到每平方厘米 447 Tb 的记录，且不需要保持能量。此成果预示未来存储技术的突破潜力，但在实际集成与室温工作方面仍存在挑战。",
+      "hn": {
+        "id": 47733561,
+        "type": "story",
+        "by": "iliatoli",
+        "score": 231,
+        "descendants": 127,
+        "time": 1775938126,
+        "comments_url": "https://news.ycombinator.com/item?id=47733561"
+      },
+      "tags": [
+        "Science",
+        "Hardware",
+        "Energy"
+      ],
+      "hot_score": 1.14
+    },
+    {
+      "title_en": "South Korea introduces universal basic mobile data access",
+      "url": "https://www.theregister.com/2026/04/10/south_korea_data_access_universal/",
+      "title_zh": "韩国推出全民基本移动数据接入",
+      "created_display": "Created: Apr 11, 2026 / 06:27 PT",
+      "image_url": "https://regmedia.co.uk/2026/04/10/supplied_korea_data_scheme.jpg",
+      "summary_en": "South Korea announces universal basic mobile data access, ensuring baseline data for all citizens. The policy aims to close the digital divide and spur digital services, while telecoms and regulators work out subsidies, network capacity, and privacy safeguards as it scales.",
+      "summary_zh": "韩国宣布全民基本移动数据接入，确保所有公民拥有基础数据。该政策旨在缩小数字鸿沟、促进数字服务，同时在扩大规模的过程中需要解决补贴、网络容量与隐私保护等挑战。",
+      "hn": {
+        "id": 47730407,
+        "type": "story",
+        "by": "saikatsg",
+        "score": 390,
+        "descendants": 114,
+        "time": 1775914036,
+        "comments_url": "https://news.ycombinator.com/item?id=47730407"
+      },
+      "tags": [
+        "Politics",
+        "Privacy"
+      ],
+      "hot_score": 1.12
+    },
+    {
+      "title_en": "Apple Silicon and Virtual Machines: Beating the 2 VM Limit (2023)",
+      "url": "https://khronokernel.com/macos/2023/08/08/AS-VM.html",
+      "title_zh": "Apple Silicon 与虚拟机：突破两台 VM 的限制（2023）",
+      "created_display": "Created: Apr 11, 2026 / 13:58 PT",
+      "image_url": "https://khronokernel.com/favicon.ico",
+      "summary_en": "Shows practical ways to run more than two virtual machines on Apple Silicon, along with the hardware and software caveats involved. The takeaway is that while feasible with certain hypervisor setups, performance and memory overhead become the main bottlenecks.",
+      "summary_zh": "揭示在 Apple Silicon 上运行多于两台虚拟机的实际做法，以及相关的硬件与软件限制。要点在于，借助特定的虚拟机/仿真工具可以实现，但性能和内存开销将成为主要瓶颈。",
+      "hn": {
+        "id": 47733971,
+        "type": "story",
+        "by": "krackers",
+        "score": 209,
+        "descendants": 145,
+        "time": 1775941128,
+        "comments_url": "https://news.ycombinator.com/item?id=47733971"
+      },
+      "tags": [
+        "Programming",
+        "Hardware"
+      ],
+      "hot_score": 1.12
+    },
+    {
+      "title_en": "Dark Castle",
+      "url": "https://darkcastle.co.uk/",
+      "title_zh": "Dark Castle",
+      "created_display": "Created: Apr 11, 2026 / 13:01 PT",
+      "image_url": "https://darkcastle.co.uk/assets/images/head-1-396x418.png",
+      "summary_en": "Dark Castle appears to be a new digital project or game centered on a moody, immersive experience.",
+      "summary_zh": "Dark Castle 看起来是一个以氛围浓厚、沉浸式体验为核心的新数字项目或游戏。",
+      "hn": {
+        "id": 47733521,
+        "type": "story",
+        "by": "evo_9",
+        "score": 202,
+        "descendants": 25,
+        "time": 1775937719,
+        "comments_url": "https://news.ycombinator.com/item?id=47733521"
+      },
+      "tags": [
+        "Gaming"
+      ],
+      "hot_score": 0.99
+    },
+    {
+      "title_en": "France's government is ditching Windows for Linux, says US tech a strategic risk",
+      "url": "https://www.xda-developers.com/frances-government-ditching-windows-for-linux/",
+      "title_zh": "法国政府放弃 Windows 转向 Linux，被视为对美方的战略风险",
+      "created_display": "Created: Apr 11, 2026 / 01:25 PT",
+      "image_url": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2025/12/linux-and-windows-laptops.jpg?w=1600&h=900&fit=crop",
+      "summary_en": "France is moving its government desktop environment from Windows to Linux, citing sovereignty, security, and cost considerations. The move has become a flashpoint in debates about strategic tech dependencies, potentially reshaping public-sector procurement and software supply chains.",
+      "summary_zh": "法国政府将办公桌面系统从 Windows 转向 Linux，理由包括主权、安全与成本考量。这一举动引发关于对美方技术依赖的战略性争论，可能影响公共部门采购与软件供应链的韧性。",
+      "hn": {
+        "id": 47728653,
+        "type": "story",
+        "by": "pabs3",
+        "score": 462,
+        "descendants": 264,
+        "time": 1775895914,
+        "comments_url": "https://news.ycombinator.com/item?id=47728653"
+      },
+      "tags": [
+        "Politics",
+        "Open Source",
+        "Security"
+      ],
+      "hot_score": 0.97
+    },
+    {
+      "title_en": "1D Chess",
+      "url": "https://rowan441.github.io/1dchess/chess.html",
+      "title_zh": "一维棋",
+      "created_display": "Created: Apr 10, 2026 / 08:37 PT",
+      "image_url": "https://rowan441.github.io/1dchess/assets/pieces/white-king.svg",
+      "summary_en": "1D Chess challenges players with a single-line board, forcing rethinking of piece mobility and strategy. It’s a compact exploration of how constraints alter classical chess dynamics and makes for a playful, AI-friendly coding or game-design exercise.",
+      "summary_zh": "一维棋盘上的棋局迫使玩家重新思考移动规则与策略，极简化的设定揭示了约束如何改变经典棋局的动力学。也是一个有趣的 AI 研究/游戏设计练习，便于实现与教学。",
+      "hn": {
+        "id": 47719740,
+        "type": "story",
+        "by": "burnt-resistor",
+        "score": 968,
+        "descendants": 166,
+        "time": 1775835448,
+        "comments_url": "https://news.ycombinator.com/item?id=47719740"
+      },
+      "tags": [
+        "Gaming",
+        "AI"
+      ],
+      "hot_score": 0.93
+    },
+    {
+      "title_en": "Advanced Mac Substitute is an API-level reimplementation of 1980s-era Mac OS",
+      "url": "https://www.v68k.org/advanced-mac-substitute/",
+      "title_zh": "Advanced Mac Substitute 是对 1980 年代 Mac OS 的 API 级别重实现",
+      "created_display": "Created: Apr 11, 2026 / 08:39 PT",
+      "image_url": "https://www.v68k.org/_badge/valid-html401.png",
+      "summary_en": "Advanced Mac Substitute reimplements classic Mac OS APIs at the API level, enabling modern code to run or simulate 1980s software environments. It showcases retro-computing work that preserves legacy software and provides insight into OS API evolution.",
+      "summary_zh": "Advanced Mac Substitute 以 API 级别重现了1980年代的 Mac OS 接口，使现代应用能够在此旧环境中运行或实验。它体现了复古计算的保存价值，并为研究操作系统 API 的演变提供了新视角。",
+      "hn": {
+        "id": 47731506,
+        "type": "story",
+        "by": "zdw",
+        "score": 252,
+        "descendants": 63,
+        "time": 1775921959,
+        "comments_url": "https://news.ycombinator.com/item?id=47731506"
+      },
+      "tags": [
+        "Open Source",
+        "Programming"
+      ],
+      "hot_score": 0.85
+    },
+    {
+      "title_en": "Show HN: Pardonned.com – A searchable database of US Pardons",
+      "url": "https://news.ycombinator.com/item?id=47727960",
+      "title_zh": "Show HN: Pardonned.com – 美国赦免案件的可检索数据库",
+      "created_display": "Created: Apr 10, 2026 / 23:19 PT",
+      "image_url": "https://news.ycombinator.com/y18.svg",
+      "summary_en": "Pardonned.com offers a searchable database of U.S. pardons, making an otherwise opaque area of legal history accessible to researchers, journalists, and the public. The project demonstrates how open data approaches can surface important records, with potential for API access and data exports to support analysis.",
+      "summary_zh": "Pardonned.com 提供美国赦免案件的可检索数据库，方便研究者、记者与公众获取这类法律历史数据。该项目展示了开放数据在揭示重要记录方面的价值，同时具备 API 与数据导出以支持分析的潜力。",
+      "hn": {
+        "id": 47727960,
+        "type": "story",
+        "by": "vidluther",
+        "score": 445,
+        "descendants": 246,
+        "time": 1775888365,
+        "comments_url": "https://news.ycombinator.com/item?id=47727960"
+      },
+      "tags": [
+        "Show HN",
+        "Open Source",
+        "Data",
+        "Legal"
+      ],
+      "hot_score": 0.83
+    },
+    {
+      "title_en": "The future of everything is lies, I guess – Part 5: Annoyances",
+      "url": "https://aphyr.com/posts/415-the-future-of-everything-is-lies-i-guess-annoyances",
+      "title_zh": "一切的未来都是谎言，我猜——第五部分：烦恼",
+      "created_display": "Created: Apr 11, 2026 / 07:32 PT",
+      "image_url": null,
+      "summary_en": "Part 5 in a provocative series about the future, focusing on annoyances and everyday frictions that reveal deeper truths about technology and progress.",
+      "summary_zh": "系列的第五部分聚焦日常烦恼与摩擦，发人深省地揭示技术发展与人们对未来的感知之间的张力。",
+      "hn": {
+        "id": 47730981,
+        "type": "story",
+        "by": "aphyr",
+        "score": 262,
+        "descendants": 151,
+        "time": 1775917959,
+        "comments_url": "https://news.ycombinator.com/item?id=47730981"
+      },
+      "tags": [
+        "Culture"
+      ],
+      "hot_score": 0.82
+    },
+    {
+      "title_en": "Installing every* Firefox extension",
+      "url": "https://jack.cab/blog/every-firefox-extension",
+      "title_zh": "安装全部 Firefox 扩展",
+      "created_display": "Created: Apr 10, 2026 / 14:56 PT",
+      "image_url": "https://jack.cab/_astro/launch.fuIAiunJ_qq4pe.png",
+      "summary_en": "The author tests the Firefox extension ecosystem by installing every extension, documenting conflicts, performance, and sanity checks. The result reveals that the browser's extension ecosystem is powerful but can become unwieldy, underscoring the need for better extension vetting and performance budgeting.",
+      "summary_zh": "作者尝试安装所有 Firefox 扩展，记录冲突、性能与可用性。结果显示扩展生态强大却易变得难以维护，强调需要更严格的扩展筛选与性能预算。",
+      "hn": {
+        "id": 47724118,
+        "type": "story",
+        "by": "RohanAdwankar",
+        "score": 656,
+        "descendants": 80,
+        "time": 1775858193,
+        "comments_url": "https://news.ycombinator.com/item?id=47724118"
+      },
+      "tags": [
+        "Web",
+        "Programming"
+      ],
+      "hot_score": 0.81
+    },
+    {
+      "title_en": "Cirrus Labs to join OpenAI",
+      "url": "https://cirruslabs.org/",
+      "title_zh": "Cirrus Labs 将加入 OpenAI",
+      "created_display": "Created: Apr 11, 2026 / 06:01 PT",
+      "image_url": "https://cirruslabs.org/assets/cirruslabs-bright-with-bg.png",
+      "summary_en": "Cirrus Labs is joining OpenAI, signaling closer collaboration between an AI-focused research/innovation outfit and the leading platform company. The move could accelerate tooling integration and joint development for developers and enterprises, while illustrating ongoing consolidation in the AI ecosystem.",
+      "summary_zh": "Cirrus Labs 将加入 OpenAI，这一举动可能推动双方在工具链与平台整合方面的深度合作，同时体现 AI 生态系统的持续整合。此举或促进开发者工具与企业级 AI 部署的协同开发。",
+      "hn": {
+        "id": 47730194,
+        "type": "story",
+        "by": "seekdeep",
+        "score": 271,
+        "descendants": 132,
+        "time": 1775912494,
+        "comments_url": "https://news.ycombinator.com/item?id=47730194"
+      },
+      "tags": [
+        "Business",
+        "AI"
+      ],
+      "hot_score": 0.76
+    },
+    {
+      "title_en": "The disturbing white paper Red Hat is trying to erase from the internet",
+      "url": "https://www.osnews.com/story/144776/the-disturbing-white-paper-red-hat-is-trying-to-erase-from-the-internet/",
+      "title_zh": "Red Hat 正在从网上删除一份具争议性的白皮书",
+      "created_display": "Created: Apr 11, 2026 / 09:38 PT",
+      "image_url": null,
+      "summary_en": "A controversial white paper is being erased by Red Hat, raising concerns about censorship and corporate influence over open-source discourse. The move spotlights how big players can shape publicly available knowledge and potentially suppress critical discussions.",
+      "summary_zh": "Red Hat 正在从网上删除一份具争议性的白皮书，引发关于审查与大厂对开源话语控制的担忧。此举暴露了大型企业对公开知识的影响力及可能压制重要讨论的风险。",
+      "hn": {
+        "id": 47731960,
+        "type": "story",
+        "by": "choult",
+        "score": 187,
+        "descendants": 71,
+        "time": 1775925530,
+        "comments_url": "https://news.ycombinator.com/item?id=47731960"
+      },
+      "hot_score": 0.68,
+      "tags": [
+        "Open Source",
+        "Politics"
+      ]
+    },
+    {
+      "title_en": "Bitcoin miners are losing on every coin produced as difficulty drops",
+      "url": "https://www.coindesk.com/markets/2026/03/22/bitcoin-miners-are-losing-usd19-000-on-every-btc-produced-as-difficulty-drops-7-8",
+      "title_zh": "比特币矿工在难度下降时每开采一枚币都在亏损",
+      "created_display": "Created: Apr 11, 2026 / 06:22 PT",
+      "image_url": "https://cdn.sanity.io/images/s3y3vcno/production/09c7af12c3ed9c083ddc433486f71cdad7b77bfd-2560x1416.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+      "summary_en": "Miners are losing about $19,000 per BTC mined as difficulty falls, squeezing margins for operators with fixed costs. The economics shift: lower difficulty reduces revenue more than it reduces operating costs, prompting questions about miner profitability and upside for different business models.",
+      "summary_zh": "随着难度下降，比特币矿工在每开采一枚BTC时亏损约1.9万美元，挤压了固定成本结构下的利润。难度下降带来收入下降的速度快于成本下降，令矿工盈利前景与商业模式的可持续性成为关注点。",
+      "hn": {
+        "id": 47730370,
+        "type": "story",
+        "by": "PaulHoule",
+        "score": 230,
+        "descendants": 214,
+        "time": 1775913745,
+        "comments_url": "https://news.ycombinator.com/item?id=47730370"
+      },
+      "hot_score": 0.66,
+      "tags": [
+        "Finance",
+        "Business"
+      ]
+    },
+    {
+      "title_en": "France to ditch Windows for Linux to reduce reliance on US tech",
+      "url": "https://techcrunch.com/2026/04/10/france-to-ditch-windows-for-linux-to-reduce-reliance-on-us-tech/",
+      "title_zh": "法国将放弃 Windows 改用 Linux，降低对美国科技的依赖",
+      "created_display": "Created: Apr 10, 2026 / 08:20 PT",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/04/france-flag-2233577438.jpg?resize=1200,873",
+      "summary_en": "France plans to replace Windows with Linux on government devices to reduce reliance on US tech and tighten sovereignty. The move signals growing appetite for open-source in public sector procurement and raises questions about migration complexity and vendor ecosystems.",
+      "summary_zh": "法国计划把政府设备从 Windows 切换到 Linux，以减少对美国科技的依赖。这一举措凸显公共部门对开源软件的越来越大兴趣，同时也带来迁移的挑战与生态影响。",
+      "hn": {
+        "id": 47719486,
+        "type": "story",
+        "by": "Teever",
+        "score": 612,
+        "descendants": 687,
+        "time": 1775834448,
+        "comments_url": "https://news.ycombinator.com/item?id=47719486"
+      },
+      "tags": [
+        "Politics",
+        "Open Source"
+      ],
+      "hot_score": 0.58
+    },
+    {
+      "title_en": "AI assistance when contributing to the Linux kernel",
+      "url": "https://github.com/torvalds/linux/blob/master/Documentation/process/coding-assistants.rst",
+      "title_zh": "AI 辅助 Linux 内核贡献",
+      "created_display": "Created: Apr 10, 2026 / 11:35 PT",
+      "image_url": "https://opengraph.githubassets.com/11e09d3f61dc70f9d25b70e6b1f51480b56abb8ee787fd9c2258f8738bd81fb9/torvalds/linux",
+      "summary_en": "Documentation hints at AI-assisted coding guidance for Linux kernel contributors, illustrating growing acceptance of AI copilots in critical software projects. The move raises questions about tooling, governance, and code quality.",
+      "summary_zh": "文档显示 Linux 内核贡献者可以在编码中获得 AI 辅助，反映 AI 助手在关键软件项目中的逐步落地。也带来关于工具治理和代码质量的讨论。",
+      "hn": {
+        "id": 47721953,
+        "type": "story",
+        "by": "hmokiguess",
+        "score": 505,
+        "descendants": 388,
+        "time": 1775846121,
+        "comments_url": "https://news.ycombinator.com/item?id=47721953"
+      },
+      "tags": [
+        "AI",
+        "Programming"
+      ],
+      "hot_score": 0.54
+    },
+    {
+      "title_en": "WireGuard makes new Windows release following Microsoft signing resolution",
+      "url": "https://lists.zx2c4.com/pipermail/wireguard/2026-April/009561.html",
+      "title_zh": "WireGuard 在微软签名决定后推出全新 Windows 版本",
+      "created_display": "Created: Apr 10, 2026 / 08:49 PT",
+      "image_url": null,
+      "summary_en": "WireGuard released a Windows build aligned with a Microsoft signing resolution, addressing long-standing driver-signing hurdles. The update improves installer reliability and kernel-mode VPN performance, underscoring how platform signing policies shape open-source tooling on Windows.",
+      "summary_zh": "在微软签名决议推动下，WireGuard 推出新的 Windows 版本，解决长期的驱动签名问题。更新提升安装可靠性与内核模式下的性能，体现了平台签名策略对开源工具在 Windows 上的影响。",
+      "hn": {
+        "id": 47719942,
+        "type": "story",
+        "by": "zx2c4",
+        "score": 541,
+        "descendants": 162,
+        "time": 1775836192,
+        "comments_url": "https://news.ycombinator.com/item?id=47719942"
+      },
+      "tags": [
+        "Open Source",
+        "Security"
+      ],
+      "hot_score": 0.52
+    },
+    {
+      "title_en": "How to build a `Git diff` driver",
+      "url": "https://www.jvt.me/posts/2026/04/11/how-git-diff-driver/",
+      "title_zh": "如何构建一个 Git diff 驱动",
+      "created_display": "Created: Apr 11, 2026 / 11:07 PT",
+      "image_url": "https://media.jvt.me/53239026de.png",
+      "summary_en": "Provides a guide to register and implement a custom Git diff driver, enabling specialized comparisons for particular file types. Covers configuration steps, practical use cases, and integration caveats with existing workflows.",
+      "summary_zh": "给出注册并实现自定义 Git diff 驱动的指南，使对特定文件类型能够进行定制化比较。介绍配置步骤、实际使用场景，以及与现有工作流的整合注意事项。",
+      "hn": {
+        "id": 47732697,
+        "type": "story",
+        "by": "zdw",
+        "score": 121,
+        "descendants": 13,
+        "time": 1775930869,
+        "comments_url": "https://news.ycombinator.com/item?id=47732697"
+      },
+      "tags": [
+        "Programming"
+      ],
+      "hot_score": 0.5
+    },
+    {
+      "title_en": "You can't trust macOS Privacy and Security settings",
+      "url": "https://eclecticlight.co/2026/04/10/why-you-cant-trust-privacy-security/",
+      "title_zh": "你不能完全信任 macOS 的隐私与安全设置",
+      "created_display": "Created: Apr 10, 2026 / 08:28 PT",
+      "image_url": "https://eclecticlight.co/wp-content/uploads/2026/04/insenticon.jpg",
+      "summary_en": "macOS privacy and security settings can be misleading: several protections rely on OS-level implementations that apps can bypass or misreport. The piece outlines gaps in how permissions, telemetry, and kernel extensions are enforced and suggests practical hardening steps, including auditing app entitlements and minimizing third-party extensions.",
+      "summary_zh": "macOS 的隐私与安全设置并非全然可靠，其保护往往依赖于系统层面的实现，应用仍有绕过权限和数据收集的可能。文章指出存在的若干缺口，并给出具体做法，如审查应用授权、减少第三方扩展、避免依赖默认设定等。",
+      "hn": {
+        "id": 47719602,
+        "type": "story",
+        "by": "zdw",
+        "score": 498,
+        "descendants": 167,
+        "time": 1775834904,
+        "comments_url": "https://news.ycombinator.com/item?id=47719602"
+      },
+      "tags": [
+        "Security",
+        "Privacy"
+      ],
+      "hot_score": 0.47
+    },
+    {
+      "title_en": "Chimpanzees in Uganda locked in eight-year 'civil war', say researchers",
+      "url": "https://www.bbc.com/news/articles/cr71lkzv49po",
+      "title_zh": "研究者称乌干达黑猩猩被卷入八年内战",
+      "created_display": "Created: Apr 10, 2026 / 12:10 PT",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/2a41/live/068357f0-34fc-11f1-9d5c-8ba507d7dbde.png",
+      "summary_en": "Researchers report long-running coalitions and violence among chimpanzee communities in Uganda, describing it as an eight-year 'civil war.' The findings shed light on primate social dynamics, territory disputes, and conservation challenges in human-influenced habitats.",
+      "summary_zh": "研究者指出乌干达黑猩猩群体存在八年之久的领地争夺与暴力冲突，类似‘内战’的局面。研究揭示灵长类社会结构、资源竞争以及在人类活动密集区域的保护挑战。",
+      "hn": {
+        "id": 47722333,
+        "type": "story",
+        "by": "neversaydie",
+        "score": 427,
+        "descendants": 269,
+        "time": 1775848222,
+        "comments_url": "https://news.ycombinator.com/item?id=47722333"
+      },
+      "tags": [
+        "Science"
+      ],
+      "hot_score": 0.47
+    },
+    {
+      "title_en": "Sam Altman's response to Molotov cocktail incident",
+      "url": "https://blog.samaltman.com/2279512",
+      "title_zh": "萨姆·奥特曼对燃烧瓶事件的回应",
+      "created_display": "Created: Apr 10, 2026 / 16:05 PT",
+      "image_url": "https://phaven-prod.s3.amazonaws.com/files/image_part/asset/3439526/q4Xtf4iMYA_SCrMc8hMfnF_k3UE/large_WhatsApp_Image_2026-02-28_at_15.26.14__4_.jpeg",
+      "summary_en": "Sam Altman addresses a security incident involving a Molotov cocktail at a protest, outlining responses and security measures. The note reflects a leadership stance on safety, civil discourse, and the future of AI ventures.",
+      "summary_zh": "萨姆·奥特曼就抗议中的燃烧瓶事件发表回应，概述安保措施及后续行动，体现出对安全、理性讨论及 AI 事业未来的领导立场。",
+      "hn": {
+        "id": 47724921,
+        "type": "story",
+        "by": "jack_hanford",
+        "score": 349,
+        "descendants": 933,
+        "time": 1775862348,
+        "comments_url": "https://news.ycombinator.com/item?id=47724921"
+      },
+      "tags": [
+        "Security",
+        "AI"
+      ],
+      "hot_score": 0.45
+    },
+    {
+      "title_en": "Industrial design files for Keychron keyboards and mice",
+      "url": "https://github.com/Keychron/Keychron-Keyboards-Hardware-Design",
+      "title_zh": "Keychron 键盘和鼠标的工业设计档案公开",
+      "created_display": "Created: Apr 10, 2026 / 09:22 PT",
+      "image_url": "https://repository-images.githubusercontent.com/1200994191/f8c43e0d-d72d-4c2b-91d8-13b0ac462969",
+      "summary_en": "Keychron has open-sourced industrial design files for its keyboards and mice, inviting DIY fabrication, replication, and community-driven hardware tinkering. The move lowers barrier to modification, audits, and transparency, while highlighting how hardware design data can accelerate innovation.",
+      "summary_zh": "Keychron 公开了键盘和鼠标的工业设计档案，降低了自制、改装和硬件透明度的门槛。此举推动开源硬件社区的发展，同时也让设计数据更易于审计与创新。",
+      "hn": {
+        "id": 47720419,
+        "type": "story",
+        "by": "stingraycharles",
+        "score": 449,
+        "descendants": 140,
+        "time": 1775838146,
+        "comments_url": "https://news.ycombinator.com/item?id=47720419"
+      },
+      "tags": [
+        "Open Source",
+        "Hardware"
+      ],
+      "hot_score": 0.44
+    },
+    {
+      "title_en": "20 years on AWS and never not my job",
+      "url": "https://www.daemonology.net/blog/2026-04-11-20-years-on-AWS-and-never-not-my-job.html",
+      "title_zh": "在 AWS 工作二十年，始终把工作视为职责",
+      "created_display": "Created: Apr 10, 2026 / 22:31 PT",
+      "image_url": null,
+      "summary_en": "The author reflects on two decades with AWS, noting how cloud evolution reshapes architecture, operations, and incident response while the craft of building reliable systems stays constant. Cloud platforms mature, but hands-on engineering and thoughtful design stay necessary for resilience.",
+      "summary_zh": "作者回顾在 AWS 的二十年经历，指出云端技术的演进改变了架构、运维与事件响应的方式，但构建可靠系统的核心技能依旧。文章强调，成熟的平台并不能替代实际动手、严格设计与持续学习，以保持系统的弹性。",
+      "hn": {
+        "id": 47727711,
+        "type": "story",
+        "by": "cperciva",
+        "score": 248,
+        "descendants": 63,
+        "time": 1775885470,
+        "comments_url": "https://news.ycombinator.com/item?id=47727711"
+      },
+      "tags": [
+        "DevOps"
+      ],
+      "hot_score": 0.44
+    },
+    {
+      "title_en": "Polymarket gamblers betting millions on war",
+      "url": "https://www.theguardian.com/business/2026/apr/11/polymarket-gamblers-betting-iran-war-ukraine-news-truth",
+      "title_zh": "Polymarket 赌客在战争相关事件上下注数百万",
+      "created_display": "Created: Apr 11, 2026 / 05:28 PT",
+      "image_url": "https://i.guim.co.uk/img/media/b27de2f58de3e8b2463d2633f9accc372f8bfb4a/0_86_2593_2076/master/2593.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f10c8036fcbdfa28217edf5466ab5336",
+      "summary_en": "Polymarket users are placing multi-million-dollar bets on war-related outcomes, drawing scrutiny from regulators and highlighting the financial appetite for real-world event prediction markets. The activity underscores both the potential of decentralized markets to price geopolitical risk and the regulatory and ethical questions they raise.",
+      "summary_zh": "Polymarket 用户在战争相关事件上下注数百万美元，引发监管关注并暴露了对现实世界事件预测市场的资金热潮。此现象既显示了去中心化市场定价地缘政治风险的潜力，也凸显监管与伦理方面的挑战。",
+      "hn": {
+        "id": 47729994,
+        "type": "story",
+        "by": "sandebert",
+        "score": 154,
+        "descendants": 125,
+        "time": 1775910484,
+        "comments_url": "https://news.ycombinator.com/item?id=47729994"
+      },
+      "hot_score": 0.41,
+      "tags": [
+        "Finance",
+        "Politics"
+      ]
+    },
+    {
+      "title_en": "The Problem That Built an Industry",
+      "url": "https://ajitem.com/blog/iron-core-part-1-the-problem-that-built-an-industry/",
+      "title_zh": "推动一个行业的难题（铁芯——第一部分，奠定产业的根源）",
+      "created_display": "Created: Apr 11, 2026 / 07:03 PT",
+      "image_url": "https://ajitem.com/optimized/images/blog/iron-core-part-1-the-problem-that-built-an-industry-hero.webp",
+      "summary_en": "Delves into the historical problem behind core memory that built the industry, outlining constraints and breakthroughs, and showing how early memory tech shaped modern hardware manufacturing and supply chains.",
+      "summary_zh": "回顾促成铁芯记忆等早期硬件行业诞生的历史难题，概述当年的瓶颈与突破，以及这些创新如何影响现代硬件的制造与供应链。",
+      "hn": {
+        "id": 47730712,
+        "type": "story",
+        "by": "ShaggyHotDog",
+        "score": 138,
+        "descendants": 44,
+        "time": 1775916183,
+        "comments_url": "https://news.ycombinator.com/item?id=47730712"
+      },
+      "tags": [
+        "Hardware"
+      ],
+      "hot_score": 0.41
+    },
+    {
+      "title_en": "OpenAI backs Illinois bill that would limit when AI labs can be held liable",
+      "url": "https://www.wired.com/story/openai-backs-bill-exempt-ai-firms-model-harm-lawsuits/",
+      "title_zh": "OpenAI 支持伊利诺伊州提出的限制 AI 实验室承担责任的法案",
+      "created_display": "Created: Apr 10, 2026 / 06:08 PT",
+      "image_url": "https://media.wired.com/photos/69d81fc99011397f817a1986/191:100/w_1280,c_limit/OpenAI-Backs-Bill-That-Lets-AI-Labs-Dodge-Liability-for-Critical-Harms-Business-2244268254.jpg",
+      "summary_en": "OpenAI backs an Illinois bill that would limit when AI labs can be sued for harms their models cause. The measure seeks to carve out liability protections in certain scenarios, signaling a push to shield developers and influence how AI accountability is framed in the U.S.",
+      "summary_zh": "OpenAI 支持一项在伊利诺伊州提出的法案，该法案将限制 AI 实验室在某些情形下对其模型造成的伤害承担法律责任。提案旨在为开发者提供免责空间，并影响美国对 AI 问责框架的走向。",
+      "hn": {
+        "id": 47717587,
+        "type": "story",
+        "by": "smurda",
+        "score": 443,
+        "descendants": 321,
+        "time": 1775826523,
+        "comments_url": "https://news.ycombinator.com/item?id=47717587"
+      },
+      "tags": [
+        "Legal",
+        "Politics",
+        "AI"
+      ],
+      "hot_score": 0.39
+    },
+    {
+      "title_en": "CPU-Z and HWMonitor compromised",
+      "url": "https://www.theregister.com/2026/04/10/cpuid_site_hijacked/",
+      "title_zh": "CPU-Z 和 HWMonitor 被入侵",
+      "created_display": "Created: Apr 10, 2026 / 06:29 PT",
+      "image_url": "https://regmedia.co.uk/2021/04/13/malware.jpg",
+      "summary_en": "CPUID's download infrastructure was hijacked to serve malware, illustrating how supply-chain and mirror compromises can affect trusted tooling. The incident reinforces the need for verified signatures, diverse mirrors, and user vigilance when installing widely-used utilities.",
+      "summary_zh": "CPUID 的下载基础设施被入侵，伪装成恶意软件的镜像分发，暴露供应链和镜像源的风险。事件提醒用户核对签名、使用多源镜像并保持警觉。",
+      "hn": {
+        "id": 47717847,
+        "type": "story",
+        "by": "pashadee",
+        "score": 399,
+        "descendants": 104,
+        "time": 1775827760,
+        "comments_url": "https://news.ycombinator.com/item?id=47717847"
+      },
+      "tags": [
+        "Security",
+        "Hardware",
+        "DevOps"
+      ],
+      "hot_score": 0.35
+    },
+    {
+      "title_en": "Helium is hard to replace",
+      "url": "https://www.construction-physics.com/p/helium-is-hard-to-replace",
+      "title_zh": "氦气很难替代",
+      "created_display": "Created: Apr 10, 2026 / 08:06 PT",
+      "image_url": "https://substackcdn.com/image/fetch/$s_!sAvO!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5ae2519f-6142-44ce-aa4d-0b9b276c12ff_1220x634.png",
+      "summary_en": "Helium's unique properties and global supply constraints mean finding drop-in replacements is nontrivial for tech manufacturing and cryogenics. The piece surveys why alternatives either underperform or introduce new trade-offs, stressing the need for long-term helium stewardship and diversification of suppliers.",
+      "summary_zh": "氦气的独特性质及全球供应限制使得替代品难以直接替代，尤其在冷却与制造领域。文章梳理了可选替代方案的局限性与权衡，强调长期氦气管理与供应多元化的重要性。",
+      "hn": {
+        "id": 47719274,
+        "type": "story",
+        "by": "JumpCrisscross",
+        "score": 365,
+        "descendants": 261,
+        "time": 1775833611,
+        "comments_url": "https://news.ycombinator.com/item?id=47719274"
+      },
+      "tags": [
+        "Science"
+      ],
+      "hot_score": 0.34
+    },
+    {
+      "title_en": "JSON formatter Chrome plugin now closed and injecting adware",
+      "url": "https://github.com/callumlocke/json-formatter",
+      "title_zh": "Chrome JSON Formatter 插件现已关闭，且被注入广告软件",
+      "created_display": "Created: Apr 10, 2026 / 11:34 PT",
+      "image_url": "https://opengraph.githubassets.com/26e9707cc8dd3a91189cfeb8028348474b17818d4006183fdcca2313ec80bec5/callumlocke/json-formatter",
+      "summary_en": "The Chrome extension formerly known as JSON Formatter has been shut down after revelations that it injected adware into users' browsers. This underscores ongoing security risks in browser extensions and the need for careful vetting of third-party tools.",
+      "summary_zh": "Chrome JSON Formatter 插件已被关闭，同时被证实注入广告软件，影响用户浏览体验。事件凸显浏览器扩展的安全风险，强调对第三方工具的审查与权限控制。",
+      "hn": {
+        "id": 47721946,
+        "type": "story",
+        "by": "jkl5xx",
+        "score": 281,
+        "descendants": 134,
+        "time": 1775846095,
+        "comments_url": "https://news.ycombinator.com/item?id=47721946"
+      },
+      "tags": [
+        "Security",
+        "Privacy",
+        "Web"
+      ],
+      "hot_score": 0.3
+    },
+    {
+      "title_en": "A compelling title that is cryptic enough to get you to take action on it",
+      "url": "https://ericwbailey.website/published/a-compelling-title-that-is-cryptic-enough-to-get-you-to-take-action-on-it/",
+      "title_zh": "一个足够神秘，促使你行动的标题",
+      "created_display": "Created: Apr 10, 2026 / 09:53 PT",
+      "image_url": "https://ericwbailey.website/img/posts/a-compelling-title-that-is-cryptic-enough-to-get-you-to-take-action-on-it/share-image-facebook.png",
+      "summary_en": "This piece discusses how a cryptic yet compelling title can trigger curiosity and action, offering takeaways for creators designing hooks and headlines. It blends psychology with practical guidance on clarity, surface-level intrigue, and setting reader expectations.",
+      "summary_zh": "文章讨论如何用隐秘却足以促使行动的标题吸引读者，结合认知心理与实用建议，帮助创作者设计更具引导力的标题。",
+      "hn": {
+        "id": 47720827,
+        "type": "story",
+        "by": "mooreds",
+        "score": 285,
+        "descendants": 143,
+        "time": 1775840035,
+        "comments_url": "https://news.ycombinator.com/item?id=47720827"
+      },
+      "tags": [
+        "Design"
+      ],
+      "hot_score": 0.29
+    },
+    {
+      "title_en": "DOJ wants to scrap Watergate-era rule that makes presidential records public",
+      "url": "https://theintercept.com/2026/04/09/trump-documents-library-presidential-records-act/",
+      "title_zh": "司法部拟废除水门时期的总统档案公开规则",
+      "created_display": "Created: Apr 10, 2026 / 12:28 PT",
+      "image_url": "https://theintercept.com/wp-content/uploads/2026/04/GettyImages-1258566797-e1775672169422.jpg?fit=3000%2C1500&w=1200&h=800",
+      "summary_en": "The DOJ wants to scrap a Nixon-era rule that makes presidential records public, a move that could shrink archival transparency. If enacted, the change could alter how quickly and widely past administrations' documents are released and scrutinized.",
+      "summary_zh": "司法部拟废除水门时期的一项规则，该规则确保总统档案公开。这一变动可能削弱档案的透明度与公众访问权，并影响历任政府记录的披露速度与范围。",
+      "hn": {
+        "id": 47722566,
+        "type": "story",
+        "by": "tlhunter",
+        "score": 254,
+        "descendants": 69,
+        "time": 1775849289,
+        "comments_url": "https://news.ycombinator.com/item?id=47722566"
+      },
+      "tags": [
+        "Politics",
+        "Legal"
+      ],
+      "hot_score": 0.28
+    },
+    {
+      "title_en": "Molotov cocktail is hurled at home of Sam Altman",
+      "url": "https://www.nytimes.com/2026/04/10/us/open-ai-sam-altman-molotov-cocktail.html",
+      "title_zh": "萨姆·奥特曼家中发生莫洛托夫鸡尾酒袭击",
+      "created_display": "Created: Apr 10, 2026 / 11:48 PT",
+      "image_url": null,
+      "summary_en": "A Molotov cocktail was thrown at Sam Altman's home, prompting a police investigation. The incident underscores safety and security concerns around high-profile tech leaders and AI policy discourse.",
+      "summary_zh": "萨姆·奥特曼家中发生莫洛托夫鸡尾酒袭击，现已展开调查。这一事件再次引发对 AI 领域领袖安全的关注。",
+      "hn": {
+        "id": 47722096,
+        "type": "story",
+        "by": "enraged_camel",
+        "score": 245,
+        "descendants": 611,
+        "time": 1775846904,
+        "comments_url": "https://news.ycombinator.com/item?id=47722096"
+      },
+      "tags": [
+        "Security",
+        "AI"
+      ],
+      "hot_score": 0.26
+    },
+    {
+      "title_en": "Productive Procrastination",
+      "url": "https://www.maxvanijsselmuiden.nl/blog/productive-procrastination/",
+      "title_zh": "高效拖延术",
+      "created_display": "Created: Apr 10, 2026 / 22:21 PT",
+      "image_url": "https://www.maxvanijsselmuiden.nl/og/blog-productive-procrastination.png",
+      "summary_en": "Productive Procrastination argues that deliberate, structured delay can yield real progress by pairing low-friction tasks with bigger goals. It offers techniques like structured procrastination, timeboxing, and prioritization to turn distraction into momentum.",
+      "summary_zh": "《高效拖延术》提出通过刻意、结构化的拖延来推动实际产出，将低门槛任务与更大目标绑定。文中介绍结构化拖延、时间盒管理和优先级策略等方法，将分心转化为行动的动力。",
+      "hn": {
+        "id": 47727659,
+        "type": "story",
+        "by": "maxvij",
+        "score": 147,
+        "descendants": 49,
+        "time": 1775884881,
+        "comments_url": "https://news.ycombinator.com/item?id=47727659"
+      },
+      "tags": [
+        "Career"
+      ],
+      "hot_score": 0.26
+    },
+    {
+      "title_en": "Nowhere is safe",
+      "url": "https://steveblank.com/2026/04/09/nowhere-is-safe/",
+      "title_zh": "没有一个地方是安全的",
+      "created_display": "Created: Apr 10, 2026 / 12:27 PT",
+      "image_url": "https://steveblank.com/wp-content/uploads/2026/04/Ukraine-anti-drone-netting.jpg",
+      "summary_en": "Steve Blank argues no system is truly secure in the modern threat landscape, urging stronger threat modeling and continuous testing. The piece emphasizes resilience over perfection in security practice.",
+      "summary_zh": "作者指出在现代威胁环境下没有系统能绝对安全，需要更强的威胁建模与持续演练来提升韧性。强调安全应是持续的治理与改进过程。",
+      "hn": {
+        "id": 47722562,
+        "type": "story",
+        "by": "sblank",
+        "score": 220,
+        "descendants": 286,
+        "time": 1775849278,
+        "comments_url": "https://news.ycombinator.com/item?id=47722562"
+      },
+      "tags": [
+        "Security"
+      ],
+      "hot_score": 0.24
+    },
+    {
+      "title_en": "OpenClaw’s memory is unreliable, and you don’t know when it will break",
+      "url": "https://blog.nishantsoni.com/p/ive-seen-a-thousand-openclaw-deploys",
+      "title_zh": "OpenClaw 的内存不可靠，何时会崩溃你也说不准",
+      "created_display": "Created: Apr 10, 2026 / 11:35 PT",
+      "image_url": "https://substackcdn.com/image/fetch/$s_!QhRF!,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fnishantsoni.substack.com%2Ftwitter%2Fsubscribe-card.jpg%3Fv%3D-1895258967%26version%3D9",
+      "summary_en": "Real-world deployment reports show OpenClaw memory is unreliable, with failures that are unpredictable and hard to diagnose. The posts emphasize the fragility of some toolchains and warn operators to expect intermittent breaks that can ripple through systems.",
+      "summary_zh": "多次在真实环境中的 OpenClaw 部署暴露出内存的不可靠性，故障不可预测且难以诊断。此现象凸显某些工具链的脆弱性，提醒运维要对间歇性中断保持警觉并做好鲁棒性准备。",
+      "hn": {
+        "id": 47721955,
+        "type": "story",
+        "by": "sonink",
+        "score": 158,
+        "descendants": 175,
+        "time": 1775846129,
+        "comments_url": "https://news.ycombinator.com/item?id=47721955"
+      },
+      "hot_score": 0.17,
+      "tags": [
+        "Hardware"
+      ]
+    },
+    {
+      "title_en": "Show HN: FluidCAD – Parametric CAD with JavaScript",
+      "url": "https://fluidcad.io/",
+      "title_zh": "Show HN：FluidCAD——基于 JavaScript 的参数化 CAD",
+      "created_display": "Created: Apr 10, 2026 / 11:39 PT",
+      "image_url": "https://fluidcad.dev/img/docusaurus-social-card.jpg",
+      "summary_en": "FluidCAD brings parametric CAD to the web with JavaScript, enabling models defined as code and driven by scripts. This approach enables rapid iteration, versioning, and integration with web tooling, signaling a shift toward programmable design tools for engineers and hobbyists.",
+      "summary_zh": "FluidCAD 将参数化 CAD 带到网页上，模型以代码形式定义并可通过脚本驱动。此设计将支持快速迭代、版本管理，并更好地与网页工具链集成，体现了工程与爱好者在设计工具上的可编程化趋势。",
+      "hn": {
+        "id": 47721997,
+        "type": "story",
+        "by": "maouida",
+        "score": 147,
+        "descendants": 34,
+        "time": 1775846359,
+        "comments_url": "https://news.ycombinator.com/item?id=47721997"
+      },
+      "hot_score": 0.16,
+      "tags": [
+        "Show HN",
+        "Programming"
+      ]
+    },
+    {
+      "title_en": "Italo Calvino: A traveller in a world of uncertainty",
+      "url": "https://www.historytoday.com/archive/portrait-author-historian/italo-calvino-traveller-world-uncertainty",
+      "title_zh": "伊塔洛·卡尔维诺：不确定世界中的旅行者",
+      "created_display": "Created: Apr 10, 2026 / 16:48 PT",
+      "image_url": "https://www.historytoday.com/.bunny-shield/assets/challenge.svg",
+      "summary_en": "An exploration of Italo Calvino's approach to uncertainty in his writing, using travel as a metaphor for navigating unclear futures. The piece draws insights for modern tech thinkers about embracing ambiguity, flexible systems, and imaginative thinking.",
+      "summary_zh": "本文解读意大利作家伊塔洛·卡尔维诺在作品中对“不确定性”的处理，以旅行者隐喻应对未来的不确定。为现代技术工作者提供拥抱模糊性、追求灵活系统和富有想象力思维的启示。",
+      "hn": {
+        "id": 47725403,
+        "type": "story",
+        "by": "lermontov",
+        "score": 117,
+        "descendants": 21,
+        "time": 1775864887,
+        "comments_url": "https://news.ycombinator.com/item?id=47725403"
+      },
+      "hot_score": 0.16,
+      "tags": [
+        "Culture"
+      ]
+    },
+    {
+      "title_en": "Code is run more than read (2023)",
+      "url": "https://olano.dev/blog/code-is-run-more-than-read/",
+      "title_zh": "代码的运行多于阅读（2023）",
+      "created_display": "Created: Apr 10, 2026 / 07:12 PT",
+      "image_url": "https://olano.dev/assets/img/readrun.png",
+      "summary_en": "Developers spend more time running and testing code than reading it, according to recent reflections. The piece argues for tooling and workflows that prioritize execution, tests, and observable behavior over static code analysis, highlighting implications for education, debugging, and CI/CD.",
+      "summary_zh": "观点认为开发者花在运行与测试代码上的时间多于阅读代码。文章强调应优先考虑执行、测试和可观测行为的工具链与工作流，影响教育、调试与持续集成/交付等方面。",
+      "hn": {
+        "id": 47718470,
+        "type": "story",
+        "by": "facundo_olano",
+        "score": 142,
+        "descendants": 98,
+        "time": 1775830368,
+        "comments_url": "https://news.ycombinator.com/item?id=47718470"
+      },
+      "hot_score": 0.13,
+      "tags": [
+        "Programming",
+        "DevOps",
+        "Education"
+      ]
+    },
+    {
+      "title_en": "Bluesky April 2026 Outage Post-Mortem",
+      "url": "https://pckt.blog/b/jcalabro/april-2026-outage-post-mortem-219ebg2",
+      "title_zh": "Bluesky 2026年4月故障事后分析",
+      "created_display": "Created: Apr 10, 2026 / 08:51 PT",
+      "image_url": "https://pckt-blog-media.s3.us-east-2.amazonaws.com/cover_image/ab3965c1-bb9f-49cd-9ec0-01e590a55f35/image.png",
+      "summary_en": "Bluesky published an outage post-mortem covering the April 2026 incident, detailing root causes, fixes, and lessons learned. The report highlights reliability challenges in distributed social networks and practical steps to improve resilience and recoverability.",
+      "summary_zh": "Bluesky 发布了 2026 年4月的故障事后分析，剖析原因、修复过程与经验教训。该报告凸显分布式社交网络在可靠性方面的挑战，并给出提升韧性与可恢复性的实用建议。",
+      "hn": {
+        "id": 47719975,
+        "type": "story",
+        "by": "jcalabro",
+        "score": 138,
+        "descendants": 73,
+        "time": 1775836301,
+        "comments_url": "https://news.ycombinator.com/item?id=47719975"
+      },
+      "hot_score": 0.13,
+      "tags": [
+        "DevOps"
+      ]
+    },
+    {
+      "title_en": "Watgo – A WebAssembly Toolkit for Go",
+      "url": "https://eli.thegreenplace.net/2026/watgo-a-webassembly-toolkit-for-go/",
+      "title_zh": "Watgo：Go 的 WebAssembly 工具链",
+      "created_display": "Created: Apr 10, 2026 / 12:03 PT",
+      "image_url": "https://eli.thegreenplace.net/images/logosmall.png",
+      "summary_en": "Watgo provides a WebAssembly toolkit for Go, enabling Go programs to compile to Wasm and interoperate with JavaScript or host environments. The project illustrates the growing use of WASM for cross-language portability and edge computing, making Go usable in browser-like or sandboxed runtimes.",
+      "summary_zh": "Watgo 为 Go 提供 WebAssembly 工具链，使 Go 程序能够编译为 Wasm，并在与 JavaScript/宿主环境的协作中运行。该项目体现了 WASM 在跨语言移植和边缘计算场景的日益重要性，让 Go 在浏览器或沙箱运行时具备更广的应用。",
+      "hn": {
+        "id": 47722262,
+        "type": "story",
+        "by": "ibobev",
+        "score": 111,
+        "descendants": 8,
+        "time": 1775847819,
+        "comments_url": "https://news.ycombinator.com/item?id=47722262"
+      },
+      "hot_score": 0.12,
+      "tags": [
+        "Programming",
+        "Web"
+      ]
+    },
+    {
+      "title_en": "CPU-Z and HWMonitor compromised",
+      "url": "https://old.reddit.com/r/pcmasterrace/comments/1sh4e5l/warning_hwmonitor_163_download_on_the_official/",
+      "title_zh": "CPU-Z 与 HWMonitor 被入侵",
+      "created_display": "Created: Apr 10, 2026 / 07:37 PT",
+      "image_url": null,
+      "summary_en": "Two popular hardware monitoring tools were compromised, likely via bundled installers or supply-chain attack, risking user systems. The incident underscores the importance of provenance checks, software signing, and consumer caution when downloading tools that access low-level hardware data.",
+      "summary_zh": "两款流行的硬件监控工具遭到入侵，可能通过捆绑安装包或供应链攻击实现，威胁到用户系统安全。此事件强调追踪来源、软件签名和下载此类访问硬件底层信息工具的谨慎性。",
+      "hn": {
+        "id": 47718830,
+        "type": "story",
+        "by": "Wingy",
+        "score": 125,
+        "descendants": 1,
+        "time": 1775831849,
+        "comments_url": "https://news.ycombinator.com/item?id=47718830"
+      },
+      "hot_score": 0.11,
+      "tags": [
+        "Security",
+        "Hardware"
+      ]
+    },
+    {
+      "title_en": "Supply chain nightmare: How Rust will be attacked and what we can do to mitigate",
+      "url": "https://kerkour.com/rust-supply-chain-nightmare",
+      "title_zh": "Rust 供应链噩梦：将如何被攻击及应对办法",
+      "created_display": "Created: Apr 10, 2026 / 07:42 PT",
+      "image_url": "https://kerkour.com/icon-256.png",
+      "summary_en": "An analysis of Rust's supply chain risks, including crates.io vulnerabilities, dependency confusion, and malicious crates. The piece outlines mitigation strategies: strict lockfiles, reproducible builds, code signing, and vendor-backed crates. It emphasizes need for ecosystem-wide security practices as Rust grows.",
+      "summary_zh": "这篇文章探讨 Rust 生态的供应链风险，包括 crates.io 漏洞、依赖混淆和恶意 crate。提出的缓释策略包括使用严格的锁定文件、可重复构建、代码签名，以及对关键 crate 的自有代理，强调在 Rust 生态日益壮大的背景下需要全面的安全实践。",
+      "hn": {
+        "id": 47718891,
+        "type": "story",
+        "by": "fanf2",
+        "score": 121,
+        "descendants": 71,
+        "time": 1775832124,
+        "comments_url": "https://news.ycombinator.com/item?id=47718891"
+      },
+      "hot_score": 0.11,
+      "tags": [
+        "Security",
+        "Programming"
+      ]
+    }
+  ]
+}

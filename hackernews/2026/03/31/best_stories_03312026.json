@@ -1,0 +1,1175 @@
+{
+  "meta": {
+    "mode": "best",
+    "source": "https://news.ycombinator.com/",
+    "api": "https://github.com/HackerNews/API",
+    "count_requested": 50,
+    "count_written": 50,
+    "reused_same_day": 0,
+    "reused_cross_day": 22,
+    "new_llm_enriched": 10,
+    "scrape_time_display": "06:43, April 01, 2026 (PDT)",
+    "timezone": "America/Los_Angeles",
+    "date_dir": "2026/03/31",
+    "content_date": "2026-03-31",
+    "run_time_local": "06:43, April 01, 2026 (PDT)",
+    "run_time_utc": "2026-04-01 13:43:29 UTC",
+    "incremental": true,
+    "stories_max": 50,
+    "hot_score_time_utc": "2026-04-01 13:46:16 UTC"
+  },
+  "items": [
+    {
+      "title_en": "Claude Code Unpacked : A visual guide",
+      "url": "https://ccunpacked.dev/",
+      "title_zh": "Claude 代码解读：可视化指南",
+      "created_display": "Created: Mar 31, 2026 / 22:15 PT",
+      "image_url": "https://ccunpacked.dev/og-image.png",
+      "summary_en": "Claude Code Unpacked offers a visual tour of Claude's coding workflows, showing how to structure prompts and interpret results with diagrams and examples. It helps developers understand when to rely on AI for coding tasks versus traditional tooling and highlights its limitations.",
+      "summary_zh": "Claude Code Unpacked 展示了 Claude 在编码任务中的工作流，通过图解和示例讲解提示设计与结果解读。强调在实际开发中何时依赖 AI 辅助、何时回归传统工具，以及其潜在局限。",
+      "hn": {
+        "id": 47597085,
+        "type": "story",
+        "by": "autocracy101",
+        "score": 690,
+        "descendants": 221,
+        "time": 1775020537,
+        "comments_url": "https://news.ycombinator.com/item?id=47597085"
+      },
+      "tags": [
+        "AI",
+        "Programming"
+      ],
+      "hot_score": 9.98
+    },
+    {
+      "title_en": "I Quit. The Clankers Won",
+      "url": "https://dbushell.com/2026/04/01/i-quit-the-clankers-won/",
+      "title_zh": "我辞职了，机器人赢了",
+      "created_display": "Created: Apr 01, 2026 / 02:00 PT",
+      "image_url": "https://dbushell.com/images/articles/2026-04-01-i-quit-the-clankers-won.png",
+      "summary_en": "A personal piece arguing automation won and prompting the author to quit, reflecting widespread anxiety about job security in the age of AI.",
+      "summary_zh": "这是一篇个人感慨，表达在 AI 航道日益强势的时代，作者因自动化占上风而选择辞职，映射出对职业安全的普遍焦虑。",
+      "hn": {
+        "id": 47598511,
+        "type": "story",
+        "by": "domysee",
+        "score": 176,
+        "descendants": 138,
+        "time": 1775034034,
+        "comments_url": "https://news.ycombinator.com/item?id=47598511"
+      },
+      "hot_score": 5.61,
+      "tags": [
+        "Career",
+        "Business",
+        "AI",
+        "Security"
+      ]
+    },
+    {
+      "title_en": "CERN levels up with new superconducting karts",
+      "url": "https://home.cern/news/news/engineering/cern-levels-new-superconducting-karts",
+      "title_zh": "CERN 新型超导卡丁车升级计划",
+      "created_display": "Created: Apr 01, 2026 / 00:27 PT",
+      "image_url": "https://cds.cern.ch/images//file?size=medium",
+      "summary_en": "CERN unveils a new superconducting kart initiative to streamline internal transport and experimental logistics, leveraging low-resistance tech to move equipment around large facilities more efficiently. This demonstrates practical, real-world benefits of superconducting tech in a high-profile research environment.",
+      "summary_zh": "CERN 引入新型超导卡丁车，提升内部运输与实验后勤效率，利用低电阻技术在大型设施内更快地移动设备。此举体现了超导技术在现实科研场景中的可行应用。",
+      "hn": {
+        "id": 47597935,
+        "type": "story",
+        "by": "fnands",
+        "score": 220,
+        "descendants": 50,
+        "time": 1775028433,
+        "comments_url": "https://news.ycombinator.com/item?id=47597935"
+      },
+      "tags": [
+        "Hardware",
+        "Science"
+      ],
+      "hot_score": 4.84
+    },
+    {
+      "title_en": "Claude Code's source code has been leaked via a map file in their NPM registry",
+      "url": "https://twitter.com/Fried_rice/status/2038894956459290963",
+      "title_zh": "Claude Code 的源代码通过 NPM 注册表中的 map 文件泄露",
+      "created_display": "Created: Mar 31, 2026 / 02:00 PT",
+      "image_url": "https://pbs.twimg.com/media/HEubw45WQAA3VRl.jpg:large",
+      "summary_en": "Claude Code’s source code was leaked through a source map file published in their NPM package registry. The incident underscores how publishing artifacts like source maps can unintentionally expose proprietary code and sensitive logic. It’s a reminder for maintainers to scrub sensitive bits from build artifacts and implement stricter registry hygiene and access controls.",
+      "summary_zh": "Claude Code 的源代码通过其 NPM 包注册表中暴露的一个 source map 文件泄露到公网。事件凸显了在发布构建产物时，source map 可能无意间暴露私有代码和业务逻辑的风险。开发团队需要对发布的产物进行清理，并加强注册表的访问控制与审计。",
+      "hn": {
+        "id": 47584540,
+        "type": "story",
+        "by": "treexs",
+        "score": 2005,
+        "descendants": 990,
+        "time": 1774947640,
+        "comments_url": "https://news.ycombinator.com/item?id=47584540"
+      },
+      "tags": [
+        "Security",
+        "Open Source",
+        "AI"
+      ],
+      "hot_score": 4.2
+    },
+    {
+      "title_en": "The Claude Code Source Leak: fake tools, frustration regexes, undercover mode",
+      "url": "https://alex000kim.com/posts/2026-03-31-claude-code-source-leak/",
+      "title_zh": "Claude 代码源泄露：假工具、挫败感正则、潜伏模式",
+      "created_display": "Created: Mar 31, 2026 / 06:04 PT",
+      "image_url": null,
+      "summary_en": "An analysis of a Claude code-source leak reveals decoy tools and frustrating regex tests, with mentions of an undercover mode. The incident highlights the fragility of model provenance and the risk of leaked tooling being manipulated to mislead researchers. The takeaway is a call for stronger provenance controls and safer, auditable tooling around AI code-generation.",
+      "summary_zh": "对 Claude 代码源泄露事件的分析显示存在伪工具与令人挫败的正则测试，并提及潜伏模式。此事凸显了模型来源的脆弱性，以及泄露工具被操纵以误导研究者的风险。核心启示是需要加强来源追溯与对 AI 代码生成工具的安全、可审计设计。",
+      "hn": {
+        "id": 47586778,
+        "type": "story",
+        "by": "alex000kim",
+        "score": 1251,
+        "descendants": 506,
+        "time": 1774962270,
+        "comments_url": "https://news.ycombinator.com/item?id=47586778"
+      },
+      "tags": [
+        "Security",
+        "Open Source",
+        "AI"
+      ],
+      "hot_score": 3.38
+    },
+    {
+      "title_en": "Axios compromised on NPM – Malicious versions drop remote access trojan",
+      "url": "https://www.stepsecurity.io/blog/axios-compromised-on-npm-malicious-versions-drop-remote-access-trojan",
+      "title_zh": "Axios 在 NPM 上被劫持：恶意版本投放远程访问木马",
+      "created_display": "Created: Mar 30, 2026 / 19:54 PT",
+      "image_url": "https://cdn.prod.website-files.com/673b71f0790aabf30bd30bf8/69cb2363fdc3f8e8fa0460a5_blog-cover-image.png",
+      "summary_en": "Malicious Axios releases popped up on npm, embedding a remote access Trojan in certain versions. The attack highlights the ongoing supply-chain risk for widely used libraries, and operators should audit dependencies, pin safe versions, and monitor for unusual network activity after updates.",
+      "summary_zh": "npm 上出现恶意的 Axios 版本，包含可对受影响环境进行远程访问的木马。此类供应链攻击再次暴露了对广泛使用库的依赖风险，建议锁定版本、进行依赖审计，并在更新后监测异常网络活动。",
+      "hn": {
+        "id": 47582220,
+        "type": "story",
+        "by": "mtud",
+        "score": 1873,
+        "descendants": 754,
+        "time": 1774925657,
+        "comments_url": "https://news.ycombinator.com/item?id=47582220"
+      },
+      "tags": [
+        "Security",
+        "Open Source"
+      ],
+      "hot_score": 2.83
+    },
+    {
+      "title_en": "Oracle slashes 30k jobs",
+      "url": "https://rollingout.com/2026/03/31/oracle-slashes-30000-jobs-with-a-cold-6/",
+      "title_zh": "Oracle裁员3万",
+      "created_display": "Created: Mar 31, 2026 / 07:30 PT",
+      "image_url": "https://rollingout.com/wp-content/uploads/2025/09/shutterstock_2351343609-scaled-e1773175981701.jpg",
+      "summary_en": "Oracle is cutting 30,000 jobs as part of a broad cost-cutting and restructuring effort amid cloud and ERP market shifts. The move underscores how big software vendors are recalibrating headcount to focus on core cloud platforms, with ripple effects for tech jobs, supplier ecosystems, and investor sentiment.",
+      "summary_zh": "甲骨文宣布裁减3万名员工，作为成本削减和云转型的一部分。此举凸显大型软件厂商在云平台优先级调整对技术工作、生态体系与投资者情绪的潜在影响。",
+      "hn": {
+        "id": 47587935,
+        "type": "story",
+        "by": "pje",
+        "score": 880,
+        "descendants": 801,
+        "time": 1774967448,
+        "comments_url": "https://news.ycombinator.com/item?id=47587935"
+      },
+      "hot_score": 2.63,
+      "tags": [
+        "Business"
+      ]
+    },
+    {
+      "title_en": "OpenAI closes funding round at an $852B valuation",
+      "url": "https://www.cnbc.com/2026/03/31/openai-funding-round-ipo.html",
+      "title_zh": "OpenAI 完成新轮融资，估值达 8,520 亿美元",
+      "created_display": "Created: Mar 31, 2026 / 13:07 PT",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108276826-17732552422026-03-11t184543z_527413325_rc2i2katf9b2_rtrmadp_0_usa-blackrock.jpeg?v=1773315937&w=1920&h=1080",
+      "summary_en": "The funding round valued the company at $852 billion, signaling strong investor confidence in AI momentum. The result could influence competitors and the broader pace of AI capital and governance considerations.",
+      "summary_zh": "此次融资使 OpenAI 的估值达到 8,520 亿美元，显示市场对 AI 领域的强烈投资热情。此轮结果可能影响竞争格局、治理预期及日益资本化的 AI 研发节奏。",
+      "hn": {
+        "id": 47592755,
+        "type": "story",
+        "by": "surprisetalk",
+        "score": 476,
+        "descendants": 432,
+        "time": 1774987650,
+        "comments_url": "https://news.ycombinator.com/item?id=47592755"
+      },
+      "tags": [
+        "Business",
+        "Finance",
+        "AI"
+      ],
+      "hot_score": 2.23
+    },
+    {
+      "title_en": "A dot a day keeps the clutter away",
+      "url": "https://scottlawsonbc.com/post/dot-system",
+      "title_zh": "每天一个点，清除杂乱",
+      "created_display": "Created: Mar 31, 2026 / 14:15 PT",
+      "image_url": "https://scottlawsonbc.com/static/dot-system-10.jpg",
+      "summary_en": "A dot-a-day system is proposed to combat digital clutter by focusing on small, repeatable actions. The approach emphasizes low-friction habits that cumulatively improve organization.",
+      "summary_zh": "提出每天一个点的管理体系以对抗数字杂乱，强调通过小而持续的行动来提升组织与专注度。低摩擦的习惯可以逐步带来长期效果。",
+      "hn": {
+        "id": 47593556,
+        "type": "story",
+        "by": "scottlawson",
+        "score": 407,
+        "descendants": 119,
+        "time": 1774991701,
+        "comments_url": "https://news.ycombinator.com/item?id=47593556"
+      },
+      "tags": [
+        "Education"
+      ],
+      "hot_score": 2.12
+    },
+    {
+      "title_en": "GitHub's Historic Uptime",
+      "url": "https://damrnelson.github.io/github-historical-uptime/",
+      "title_zh": "GitHub 的历史性高可用性记录",
+      "created_display": "Created: Mar 31, 2026 / 12:01 PT",
+      "image_url": null,
+      "summary_en": "A historical uptime review tracks GitHub’s uptime history, highlighting stretches of uninterrupted service and improvements in reliability. For developers, this matters for confidence in CI/CD and collaboration workflows.",
+      "summary_zh": "回顾 GitHub 的上线时间历史，突出长期无故障段落及可靠性提升。对依赖其工作流的开发者而言，这关乎 CI/CD 与协作的信任度。",
+      "hn": {
+        "id": 47591928,
+        "type": "story",
+        "by": "todsacerdoti",
+        "score": 474,
+        "descendants": 112,
+        "time": 1774983689,
+        "comments_url": "https://news.ycombinator.com/item?id=47591928"
+      },
+      "tags": [
+        "DevOps",
+        "Programming"
+      ],
+      "hot_score": 2.02
+    },
+    {
+      "title_en": "We intercepted the White House app's network traffic",
+      "url": "https://www.atomic.computer/blog/white-house-app-network-traffic-analysis/",
+      "title_zh": "我们拦截了白宫应用的网络流量",
+      "created_display": "Created: Mar 31, 2026 / 18:58 PT",
+      "image_url": "https://www.atomic.computer/atom.jpg",
+      "summary_en": "The analysis maps the app's network behavior, showing data flows, endpoints, and potential privacy implications for a high-profile government app. It highlights how mobile apps communicate with backends and third parties in practice.",
+      "summary_zh": "分析揭示了该白宫应用的网络行为，展示数据流动、接触的端点以及潜在的隐私影响，聚焦政府应用在实践中的后端通信与第三方接入。",
+      "hn": {
+        "id": 47595865,
+        "type": "story",
+        "by": "donutpepperoni",
+        "score": 222,
+        "descendants": 65,
+        "time": 1775008725,
+        "comments_url": "https://news.ycombinator.com/item?id=47595865"
+      },
+      "tags": [
+        "Security",
+        "Privacy",
+        "Politics"
+      ],
+      "hot_score": 1.96
+    },
+    {
+      "title_en": "U.S. exempts oil industry from protecting Gulf animals, for 'national security'",
+      "url": "https://www.npr.org/2026/03/30/nx-s1-5745926/endangered-species-committee-hegseth-security",
+      "title_zh": "美国以国家安全为由豁免石油行业保护墨西哥湾动物",
+      "created_display": "Created: Mar 31, 2026 / 18:18 PT",
+      "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1280x720+0+67/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F2a%2Fd7%2Fc84a330e4f279a7c92755825b3d1%2Fgu1901-20190730-s249-3j4a4488-nmfs-esa-mmpa-permit-no-21938.jpg",
+      "summary_en": "The US granted exemptions to the oil industry from Gulf wildlife protections on national-security grounds, potentially loosening endangered-species safeguards. The move raises environmental and biodiversity concerns and illustrates how security justifications can override conservation policies.",
+      "summary_zh": "美国以国家安全为由豁免石油行业在墨西哥湾的野生动物保护规定，可能削弱濒危物种的防护。此举引发环境与生物多样性方面的担忧，也显示出安全考量有时会压过保护政策。",
+      "hn": {
+        "id": 47595620,
+        "type": "story",
+        "by": "Jimmc414",
+        "score": 236,
+        "descendants": 90,
+        "time": 1775006331,
+        "comments_url": "https://news.ycombinator.com/item?id=47595620"
+      },
+      "hot_score": 1.92,
+      "tags": [
+        "Politics",
+        "Security"
+      ]
+    },
+    {
+      "title_en": "OkCupid gave 3M dating-app photos to facial recognition firm, FTC says",
+      "url": "https://arstechnica.com/tech-policy/2026/03/okcupid-match-pay-no-fine-for-sharing-user-photos-with-facial-recognition-firm/",
+      "title_zh": "OkCupid向面部识别公司提供300万张照片，FTC称",
+      "created_display": "Created: Mar 31, 2026 / 10:55 PT",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/okcupid-1152x648-1774975675.jpg",
+      "summary_en": "OkCupid shared 3 million dating-app photos with a facial-recognition firm, raising privacy and consent concerns about data-sharing practices in online dating. Regulators say there were no fines, but this case signals tighter scrutiny of biometric data handling and could influence future rules for user consent.",
+      "summary_zh": "OkCupid向一家面部识别公司提供约300万张用户照片，引发对数据共享、同意与隐私的担忧。监管机构称未对该行为罚款，但事件传递出对生物识别数据处理的日益严格审查，或影响未来的用户同意规则。",
+      "hn": {
+        "id": 47591104,
+        "type": "story",
+        "by": "whiteboardr",
+        "score": 450,
+        "descendants": 92,
+        "time": 1774979704,
+        "comments_url": "https://news.ycombinator.com/item?id=47591104"
+      },
+      "hot_score": 1.74,
+      "tags": [
+        "Privacy",
+        "Legal",
+        "Politics"
+      ]
+    },
+    {
+      "title_en": "My son pleasured himself on Gemini Live. Entire family's Google accounts banned",
+      "url": "https://old.reddit.com/r/LegalAdviceUK/comments/1s92fql/my_son_pleasured_himself_in_front_of_gemini_live/",
+      "title_zh": "我儿子在 Gemini Live 上进行不当行为，导致全家 Google 账户被封",
+      "created_display": "Created: Mar 31, 2026 / 19:14 PT",
+      "image_url": null,
+      "summary_en": "A user reports that their family Google accounts were banned after their son used Gemini Live for explicit content, highlighting the friction between platform safety policies, moderation failures, and cross-account enforcement.",
+      "summary_zh": "一位用户称其家人因儿子在 Gemini Live 上进行不当行为而被封禁整家 Google 账户，暴露出平台安全政策、治理失灵以及跨账户执法之间的矛盾。",
+      "hn": {
+        "id": 47595971,
+        "type": "story",
+        "by": "samlinnfer",
+        "score": 181,
+        "descendants": 135,
+        "time": 1775009682,
+        "comments_url": "https://news.ycombinator.com/item?id=47595971"
+      },
+      "hot_score": 1.66,
+      "tags": [
+        "Privacy",
+        "Legal",
+        "AI"
+      ]
+    },
+    {
+      "title_en": "Show HN: 1-Bit Bonsai, the First Commercially Viable 1-Bit LLMs",
+      "url": "https://prismml.com/",
+      "title_zh": "Show HN：1-Bit Bonsai，首个商业可用的 1 位 LLM",
+      "created_display": "Created: Mar 31, 2026 / 14:01 PT",
+      "image_url": "https://cdn.prod.website-files.com/697a3312d33c2cc715ec3899/69cae04a19115963ea13d12d_prism-og-img%20(2).png",
+      "summary_en": "1-Bit Bonsai demonstrates commercially viable 1-bit quantized LLMs, achieving usable performance with dramatically reduced memory and compute. The result challenges the assumption that high-precision weights are mandatory for practical inference, broadening on-device and edge-AI prospects.",
+      "summary_zh": "1-Bit Bonsai 展示了商业可用的1位量化 LLM，在显著降低内存与计算需求的同时仍保持可用性。这一成就挑战了高精度权重对实用推理的必要性，拓展了设备端和边缘 AI 的前景。",
+      "hn": {
+        "id": 47593422,
+        "type": "story",
+        "by": "PrismML",
+        "score": 317,
+        "descendants": 125,
+        "time": 1774990878,
+        "comments_url": "https://news.ycombinator.com/item?id=47593422"
+      },
+      "tags": [
+        "Show HN",
+        "AI"
+      ],
+      "hot_score": 1.62
+    },
+    {
+      "title_en": "Microsoft: Copilot is for entertainment purposes only",
+      "url": "https://www.microsoft.com/en-us/microsoft-copilot/for-individuals/termsofuse",
+      "title_zh": "微软：Copilot 仅用于娱乐用途",
+      "created_display": "Created: Mar 31, 2026 / 07:25 PT",
+      "image_url": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/MSFT-Learn-Hero-Alt2_tbmnl_en-us?scl=1",
+      "summary_en": "Microsoft explicitly states in its terms that Copilot is for entertainment purposes only, clarifying its intended use and limitations. This stance raises questions about relying on AI for critical coding or decision-making and highlights the need for clear risk disclosures.",
+      "summary_zh": "微软在使用条款中明确表示 Copilot 仅用于娱乐用途，界定了其使用范围与局限。此说法引发了人们对将其用于关键编码或决策场景的可依赖性以及需披露的风险信息的关注。",
+      "hn": {
+        "id": 47587866,
+        "type": "story",
+        "by": "lpcvoid",
+        "score": 536,
+        "descendants": 191,
+        "time": 1774967137,
+        "comments_url": "https://news.ycombinator.com/item?id=47587866"
+      },
+      "tags": [
+        "AI",
+        "Legal"
+      ],
+      "hot_score": 1.59
+    },
+    {
+      "title_en": "Neanderthals survived on a knife's edge for 350k years",
+      "url": "https://www.science.org/content/article/neanderthals-survived-knife-s-edge-350-000-years",
+      "title_zh": "尼安德特人曾在35万年的边缘存活",
+      "created_display": "Created: Mar 31, 2026 / 18:12 PT",
+      "image_url": null,
+      "summary_en": "New findings suggest Neanderthals endured dramatic climate swings and fluctuating resources for 350k years, surviving by flexible subsistence strategies and regional refugia. The study reframes their extinction as a long, precarious persistence rather than a single collapse, with implications for how we model past human-environment resilience.",
+      "summary_zh": "新的发现表明尼安德特人曾在长达35万年的气候波动和资源变化中存活，靠灵活的生存策略和地域庇护地维持生存。研究将他们的灭绝重新呈现为长期而脆弱的坚持，而非一次性崩溃，这对我们建模过去的人类-环境韧性具有启示。",
+      "hn": {
+        "id": 47595572,
+        "type": "story",
+        "by": "Hooke",
+        "score": 183,
+        "descendants": 135,
+        "time": 1775005932,
+        "comments_url": "https://news.ycombinator.com/item?id=47595572"
+      },
+      "tags": [
+        "Science"
+      ],
+      "hot_score": 1.47
+    },
+    {
+      "title_en": "MiniStack (replacement for LocalStack)",
+      "url": "https://ministack.org/",
+      "title_zh": "Ministack：LocalStack 的替代方案",
+      "created_display": "Created: Mar 31, 2026 / 13:48 PT",
+      "image_url": "https://ministack.org/og-image.png",
+      "summary_en": "Ministack positions itself as a drop-in replacement for LocalStack, enabling local cloud service emulation for development and testing. It aims to simplify setup and improve iteration speed for cloud-native apps.",
+      "summary_zh": "Ministack 被定位为 LocalStack 的替代方案，方便在本地模拟云服务以便开发与测试。旨在简化设置、提升云原生应用的迭代速度。",
+      "hn": {
+        "id": 47593285,
+        "type": "story",
+        "by": "kerblang",
+        "score": 257,
+        "descendants": 48,
+        "time": 1774990095,
+        "comments_url": "https://news.ycombinator.com/item?id=47593285"
+      },
+      "tags": [
+        "Open Source",
+        "DevOps"
+      ],
+      "hot_score": 1.28
+    },
+    {
+      "title_en": "Artemis II is not safe to fly",
+      "url": "https://idlewords.com/2026/03/artemis_ii_is_not_safe_to_fly.htm",
+      "title_zh": "Artemis II 不宜飞行：存在安全隐患",
+      "created_display": "Created: Mar 30, 2026 / 19:23 PT",
+      "image_url": "https://idlewords.com/images/toothfish.png",
+      "summary_en": "Artemis II safety concerns argue the crewed lunar flyby is riskier than desired given current data, urging more analysis, testing, and risk mitigation before launch.",
+      "summary_zh": "阿耳忒弥斯II 的安全性引发质疑，认为在当前数据与测试水平下执行载人月球飞行风险较高，需要进一步分析、测试和风险缓解。文章强调推进大胆太空任务时安全评估的重要性。",
+      "hn": {
+        "id": 47582043,
+        "type": "story",
+        "by": "idlewords",
+        "score": 843,
+        "descendants": 584,
+        "time": 1774923830,
+        "comments_url": "https://news.ycombinator.com/item?id=47582043"
+      },
+      "tags": [
+        "Science",
+        "Space"
+      ],
+      "hot_score": 1.24
+    },
+    {
+      "title_en": "GitHub backs down, kills Copilot pull-request ads after backlash",
+      "url": "https://www.theregister.com/2026/03/30/github_copilot_ads_pull_requests/",
+      "title_zh": "GitHub 在遭遇批评后取消 Copilot 拉取请求广告",
+      "created_display": "Created: Mar 30, 2026 / 22:11 PT",
+      "image_url": "https://regmedia.co.uk/2024/05/21/github1_shutterstock.jpg",
+      "summary_en": "GitHub has scrapped Copilot pull-request ads after community backlash, signaling a shift in how sponsor messaging appears inside developer workflows. The move adds to ongoing debates about paid AI assistance in open-source tooling and PR review noise.",
+      "summary_zh": "GitHub 在社区强烈反对后取消 Copilot 在拉取请求中的广告，体现了开发者工作流中赞助信息呈现的权衡。此举加剧了关于在开源工具中使用付费 AI 助手以及降低 PR 审核噪声的讨论。",
+      "hn": {
+        "id": 47582984,
+        "type": "story",
+        "by": "_____k",
+        "score": 588,
+        "descendants": 362,
+        "time": 1774933884,
+        "comments_url": "https://news.ycombinator.com/item?id=47582984"
+      },
+      "tags": [
+        "Open Source",
+        "AI",
+        "Programming"
+      ],
+      "hot_score": 1.0
+    },
+    {
+      "title_en": "Ollama is now powered by MLX on Apple Silicon in preview",
+      "url": "https://ollama.com/blog/mlx",
+      "title_zh": "Ollama 在 Apple Silicon 上开启 MLX 预览加速",
+      "created_display": "Created: Mar 30, 2026 / 20:40 PT",
+      "image_url": "https://ollama.com/public/og.png",
+      "summary_en": "Ollama now supports MLX on Apple Silicon in preview, enabling accelerated on-device LLMs on M-series Macs. The preview could bring notable speedups and privacy benefits versus cloud inference, but adopters should be aware of early-stage status and hardware compatibility.",
+      "summary_zh": "Ollama 现已在 Apple Silicon 支持 MLX，提供本地推理的加速效果。预览版可能带来显著的性能提升和隐私优势，但仍处于早期阶段，需关注兼容性与稳定性。",
+      "hn": {
+        "id": 47582482,
+        "type": "story",
+        "by": "redundantly",
+        "score": 622,
+        "descendants": 349,
+        "time": 1774928445,
+        "comments_url": "https://news.ycombinator.com/item?id=47582482"
+      },
+      "tags": [
+        "AI",
+        "Hardware",
+        "Privacy"
+      ],
+      "hot_score": 0.98
+    },
+    {
+      "title_en": "Open source CAD in the browser (Solvespace)",
+      "url": "https://solvespace.com/webver.pl",
+      "title_zh": "浏览器中的开源 CAD（Solvespace）",
+      "created_display": "Created: Mar 31, 2026 / 05:50 PT",
+      "image_url": "https://solvespace.com/pics/solvespace-scalable.svg",
+      "summary_en": "SolveSpace now runs as a browser-based version, letting you model 2D/3D CAD directly without installing software. The web version demonstrates how a full-featured CAD tool can run client-side, lowering the barrier to entry for quick prototyping and education, though performance and file compatibility may vary across browsers. It’s a reminder of browsers' evolving role as universal engineering workstations.",
+      "summary_zh": "Solvespace 的浏览器版本无需安装即可进行二维/三维建模。该实现展示了完整 CAD 工具在前端浏览器端运行的可能性，降低了入门门槛，便于快速原型设计与教学，但不同浏览器的性能和文件兼容性可能有所不同。",
+      "hn": {
+        "id": 47586614,
+        "type": "story",
+        "by": "phkahler",
+        "score": 350,
+        "descendants": 109,
+        "time": 1774961423,
+        "comments_url": "https://news.ycombinator.com/item?id=47586614"
+      },
+      "tags": [
+        "Open Source",
+        "Web",
+        "Education"
+      ],
+      "hot_score": 0.93
+    },
+    {
+      "title_en": "Tell HN: Chrome says \"suspicious download\" when trying to download yt-dlp",
+      "url": "https://news.ycombinator.com/item?id=47588658",
+      "title_zh": "Chrome在下载 yt-dlp 时显示可疑下载",
+      "created_display": "Created: Mar 31, 2026 / 08:20 PT",
+      "image_url": "https://news.ycombinator.com/y18.svg",
+      "summary_en": "Chrome flagged the yt-dlp binary as a suspicious download, blocking a popular open-source video-downloader. The incident highlights how browser heuristics can clash with legitimate developer tooling, fueling calls for clearer signals or safer whitelisting.",
+      "summary_zh": "Chrome 将 yt-dlp 二进制标记为可疑下载并阻止使用，凸显浏览器安全策略可能误伤常用的开源工具，引发对更清晰信号或更安全白名单的讨论。",
+      "hn": {
+        "id": 47588658,
+        "type": "story",
+        "by": "joering2",
+        "score": 288,
+        "descendants": 91,
+        "time": 1774970411,
+        "comments_url": "https://news.ycombinator.com/item?id=47588658"
+      },
+      "hot_score": 0.91,
+      "tags": [
+        "Security",
+        "Open Source",
+        "Web"
+      ]
+    },
+    {
+      "title_en": "Why the US Navy won't blast the Iranians and 'open' Strait of Hormuz",
+      "url": "https://responsiblestatecraft.org/iran-strait-of-hormuz/",
+      "title_zh": "为什么美军不会轰炸伊朗并开放霍尔木兹海峡",
+      "created_display": "Created: Mar 31, 2026 / 02:30 PT",
+      "image_url": "https://responsiblestatecraft.org/media-library/image.jpg?id=65428245&width=1200&height=600&coordinates=0%2C71%2C0%2C54",
+      "summary_en": "The piece argues the US Navy is unlikely to blast or forcibly open the Strait of Hormuz, citing legal, strategic, and humanitarian constraints. It frames open-channel posture as a deterrence and diplomacy-driven approach rather than brinkmanship.",
+      "summary_zh": "文章认为美军不太可能轰炸或封锁霍尔木兹海峡，原因在于法律、战略与人道等约束，以及以威慑和外交为主的战略取向。",
+      "hn": {
+        "id": 47584795,
+        "type": "story",
+        "by": "KoftaBob",
+        "score": 412,
+        "descendants": 1090,
+        "time": 1774949443,
+        "comments_url": "https://news.ycombinator.com/item?id=47584795"
+      },
+      "tags": [
+        "Politics",
+        "Security",
+        "Legal"
+      ],
+      "hot_score": 0.89
+    },
+    {
+      "title_en": "Slop is not necessarily the future",
+      "url": "https://www.greptile.com/blog/ai-slopware-future",
+      "title_zh": "Slop 不一定是未来",
+      "created_display": "Created: Mar 31, 2026 / 07:32 PT",
+      "image_url": "https://greptile.com/blog/ai-slopware-future/og.png",
+      "summary_en": "Slopware is criticized as not necessarily the future for AI tooling, highlighting concerns about robustness and long-term viability. The piece argues for more disciplined approaches to software design over minimal, rapid prototypes.",
+      "summary_zh": "文章认为 Slopware 未必是 AI 工具的未来，警示在追求快速迭代时要关注鲁棒性与长期可维护性。提倡更为稳健的工程实践。",
+      "hn": {
+        "id": 47587953,
+        "type": "story",
+        "by": "dakshgupta",
+        "score": 268,
+        "descendants": 425,
+        "time": 1774967546,
+        "comments_url": "https://news.ycombinator.com/item?id=47587953"
+      },
+      "tags": [
+        "AI"
+      ],
+      "hot_score": 0.8
+    },
+    {
+      "title_en": "Claude Code users hitting usage limits 'way faster than expected'",
+      "url": "https://www.theregister.com/2026/03/31/anthropic_claude_code_limits/",
+      "title_zh": "Claude Code 用户用量上限远超预期",
+      "created_display": "Created: Mar 31, 2026 / 05:11 PT",
+      "image_url": "https://regmedia.co.uk/2016/03/11/empty-gauge.jpg",
+      "summary_en": "Anthropic's Claude Code users hit API usage limits far sooner than expected, reflecting surging demand for AI-assisted coding. The bottleneck could push the company to expand capacity or rethink pricing, with implications for developers building on AI copilots.",
+      "summary_zh": "Claude Code 用户的 API 使用上限比预期更快被触发，反映对 AI 辅助编码工具的需求快速增加。此瓶颈可能促使公司扩容或调整定价，影响开发者在该工具上的使用体验与成本。",
+      "hn": {
+        "id": 47586176,
+        "type": "story",
+        "by": "samizdis",
+        "score": 311,
+        "descendants": 203,
+        "time": 1774959089,
+        "comments_url": "https://news.ycombinator.com/item?id=47586176"
+      },
+      "hot_score": 0.79,
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "title_en": "Cohere Transcribe: Speech Recognition",
+      "url": "https://cohere.com/blog/transcribe",
+      "title_zh": "Cohere Transcribe：语音转写",
+      "created_display": "Created: Mar 31, 2026 / 09:27 PT",
+      "image_url": "https://cdn.sanity.io/images/rjtqmwfu/web3-prod/80ae8c2e82c1538e418a8c751a8965708d370236-3840x1920.png?rect=92,0,3657,1920&w=1200&h=630",
+      "summary_en": "Cohere launches Transcribe, its new speech recognition service aimed at simplifying transcription workflows for developers and enterprises. It emphasizes accuracy, multilingual support, and easy API integration, positioning itself against established players in the AI speech stack. This matters as AI-powered transcription becomes foundational for analytics, captions, and accessibility tools.",
+      "summary_zh": "Cohere 推出 Transcribe，面向开发者和企业的语音识别新服务，强调高准确性、多语言支持和便捷的 API 集成，在 AI 语音领域与既有厂商展开竞争。随着自动转写在分析、字幕和无障碍工具中的应用日益普及，这类服务的重要性不断上升。",
+      "hn": {
+        "id": 47589818,
+        "type": "story",
+        "by": "gmays",
+        "score": 210,
+        "descendants": 64,
+        "time": 1774974422,
+        "comments_url": "https://news.ycombinator.com/item?id=47589818"
+      },
+      "tags": [
+        "AI",
+        "Data"
+      ],
+      "hot_score": 0.72
+    },
+    {
+      "title_en": "Fedware: Government apps that spy harder than the apps they ban",
+      "url": "https://www.sambent.com/the-white-house-app-has-huawei-spyware-and-an-ice-tip-line/",
+      "title_zh": "联邦软件：政府应用比被禁应用更会监控隐私",
+      "created_display": "Created: Mar 30, 2026 / 11:16 PT",
+      "image_url": "https://www.sambent.com/content/images/size/w1200/2026/03/feature-final-v2.jpg",
+      "summary_en": "A critical look at government apps that prioritize surveillance over user rights, highlighting gaps in procurement and accountability. Calls for stronger auditing and privacy protections.",
+      "summary_zh": "对政府应用程序过度监控、侵犯隐私的现象进行批评，揭示采购与问责方面的漏洞，并呼吁加强审计与隐私保护。",
+      "hn": {
+        "id": 47577761,
+        "type": "story",
+        "by": "speckx",
+        "score": 670,
+        "descendants": 268,
+        "time": 1774894560,
+        "comments_url": "https://news.ycombinator.com/item?id=47577761"
+      },
+      "tags": [
+        "Privacy",
+        "Security",
+        "Politics"
+      ],
+      "hot_score": 0.69
+    },
+    {
+      "title_en": "How to turn anything into a router",
+      "url": "https://nbailey.ca/post/router/",
+      "title_zh": "把任何设备都变成路由器",
+      "created_display": "Created: Mar 30, 2026 / 06:28 PT",
+      "image_url": "https://nbailey.ca/images/router.jpg",
+      "summary_en": "A practical guide to repurposing everyday devices into network routers, using affordable hardware and open-source tooling. It covers core techniques and trade-offs, from setting up a small single-board computer to routing traffic securely.",
+      "summary_zh": "将日常设备改造成路由器的实用指南，借助低成本硬件和开源工具实现网络转发。文章介绍从配置小型单板机到路由流量的核心方法，展示 DIY 路由在灵活性和隐私方面的潜力。",
+      "hn": {
+        "id": 47574034,
+        "type": "story",
+        "by": "yabones",
+        "score": 766,
+        "descendants": 259,
+        "time": 1774877334,
+        "comments_url": "https://news.ycombinator.com/item?id=47574034"
+      },
+      "tags": [
+        "Hardware",
+        "Open Source"
+      ],
+      "hot_score": 0.66
+    },
+    {
+      "title_en": "Universal Claude.md – cut Claude output tokens",
+      "url": "https://github.com/drona23/claude-token-efficient",
+      "title_zh": "Universal Claude.md：将 Claude 输出令牌缩减63%",
+      "created_display": "Created: Mar 30, 2026 / 18:23 PT",
+      "image_url": "https://opengraph.githubassets.com/c62850174965e8e2749e0944f35bf7d12ffbed78106297aba012f48d2304775e/drona23/claude-token-efficient",
+      "summary_en": "Universal Claude.md reports a method to cut Claude's output token usage by about 63%, enabling cheaper and faster responses. The approach focuses on prompt engineering and token-efficient techniques to reduce cost and latency when using Claude at scale.",
+      "summary_zh": "Universal Claude.md 展示了一种将 Claude 输出令牌消耗降至约63% 的做法，降低成本并提升响应速度。通过更高效的提示设计与令牌管理来提高大模型的可扩展性。",
+      "hn": {
+        "id": 47581701,
+        "type": "story",
+        "by": "killme2008",
+        "score": 461,
+        "descendants": 158,
+        "time": 1774920214,
+        "comments_url": "https://news.ycombinator.com/item?id=47581701"
+      },
+      "tags": [
+        "AI"
+      ],
+      "hot_score": 0.65
+    },
+    {
+      "title_en": "Italy blocks US use of Sicily air base for Middle East war",
+      "url": "https://www.politico.eu/article/italy-blocks-us-use-of-sicily-air-base/",
+      "title_zh": "意大利阻止美国在西西里空军基地参与中东战争",
+      "created_display": "Created: Mar 31, 2026 / 08:39 PT",
+      "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/03/31/GettyImages-1394407486-scaled.jpg",
+      "summary_en": "Italy blocked the US from using a Sicily air base for Middle East operations, signaling friction with U.S. military plans and European disagreement over involvement. The decision affects logistics and shows the political limits of hosting powers in NATO operations.",
+      "summary_zh": "意大利阻止美国在西西里空军基地参与中东冲突，显示出与美国军事计划的分歧以及欧洲对介入程度的态度差异。此举影响后勤安排，凸显东道国在北约行动中的政治边界。",
+      "hn": {
+        "id": 47589011,
+        "type": "story",
+        "by": "prmph",
+        "score": 193,
+        "descendants": 100,
+        "time": 1774971585,
+        "comments_url": "https://news.ycombinator.com/item?id=47589011"
+      },
+      "hot_score": 0.62,
+      "tags": [
+        "Politics"
+      ]
+    },
+    {
+      "title_en": "Show HN: Postgres extension for BM25 relevance-ranked full-text search",
+      "url": "https://github.com/timescale/pg_textsearch",
+      "title_zh": "Show HN：Postgres 的 BM25 相关性排名全文检索扩展",
+      "created_display": "Created: Mar 31, 2026 / 09:29 PT",
+      "image_url": "https://opengraph.githubassets.com/f5f34afe83def0206aa927ecd8e937d345132d983c79ab91ff18e6988934c044/timescale/pg_textsearch",
+      "summary_en": "A Postgres extension implements BM25 relevance-ranked full-text search, offering improved ranking quality for search results within Postgres. It enables teams to tune search relevance without leaving the database.",
+      "summary_zh": "Postgres 的 BM25 相关性排序扩展实现了更高质量的全文检索排名，帮助在数据库层面优化搜索结果。让开发者不必离开 Postgres 就能提升检索效果。",
+      "hn": {
+        "id": 47589856,
+        "type": "story",
+        "by": "tjgreen",
+        "score": 171,
+        "descendants": 47,
+        "time": 1774974592,
+        "comments_url": "https://news.ycombinator.com/item?id=47589856"
+      },
+      "tags": [
+        "Show HN",
+        "Programming",
+        "Open Source",
+        "Data"
+      ],
+      "hot_score": 0.59
+    },
+    {
+      "title_en": "Google's 200M-parameter time-series foundation model with 16k context",
+      "url": "https://github.com/google-research/timesfm",
+      "title_zh": "谷歌发布 200M 参数的时序基础模型，具 16k 上下文容量",
+      "created_display": "Created: Mar 30, 2026 / 22:21 PT",
+      "image_url": "https://opengraph.githubassets.com/d0cb65c3d9e2ce97bb50e3d3c3553c8c042fa2161be49932443ad7041b2e295a/google-research/timesfm",
+      "summary_en": "Google Research unveils TimesFM, a 200M-parameter time-series foundation model with a 16k context window. The model demonstrates that compact architectures can achieve long-range forecasting, unlocking more capable edge and on-device time-series analytics with lower compute budgets.",
+      "summary_zh": "谷歌研究院发布 TimesFM，一个200M参数的时序基础模型，具备16k上下文窗口。该模型表明紧凑架构也能实现长距离预测，推动边缘和本地时序分析在更低算力预算下实现。",
+      "hn": {
+        "id": 47583045,
+        "type": "story",
+        "by": "codepawl",
+        "score": 303,
+        "descendants": 105,
+        "time": 1774934519,
+        "comments_url": "https://news.ycombinator.com/item?id=47583045"
+      },
+      "tags": [
+        "AI",
+        "Data"
+      ],
+      "hot_score": 0.52
+    },
+    {
+      "title_en": "CodingFont: A game to help you pick a coding font",
+      "url": "https://www.codingfont.com/",
+      "title_zh": "CodingFont：帮助你选取编码字体的游戏",
+      "created_display": "Created: Mar 30, 2026 / 08:16 PT",
+      "image_url": null,
+      "summary_en": "CodingFont is an interactive game designed to help you pick a coding font by evaluating readability and rhythm. It surfaces metrics and practical tips for choosing fonts that reduce eye strain and improve coding speed.",
+      "summary_zh": "CodingFont 是一款互动游戏，帮助你通过可读性和打字节奏等维度来选择编码字体。它揭示了影响眼睛疲劳和编码速度的字体特性，并给出实用的选型建议。",
+      "hn": {
+        "id": 47575403,
+        "type": "story",
+        "by": "nvahalik",
+        "score": 482,
+        "descendants": 233,
+        "time": 1774883795,
+        "comments_url": "https://news.ycombinator.com/item?id=47575403"
+      },
+      "tags": [
+        "Design"
+      ],
+      "hot_score": 0.44
+    },
+    {
+      "title_en": "Turning a MacBook into a touchscreen with $1 of hardware (2018)",
+      "url": "https://anishathalye.com/macbook-touchscreen/",
+      "title_zh": "用不到1美元的外设把 MacBook 变成触控屏（2018）",
+      "created_display": "Created: Mar 30, 2026 / 12:22 PT",
+      "image_url": "https://anishathalye.com/_next/static/images/thumbnail-75236687051a403d7d7168f93dd4498a.jpg",
+      "summary_en": "A 2018 DIY project demonstrates turning a MacBook into a touchscreen using a tiny hardware hack. It showcases how inexpensive components can enable new input modalities on laptops, with caveats about compatibility and usability.",
+      "summary_zh": "2018 年的一个 DIY 项目展示如何用不到1美元的硬件把 MacBook 变成触控屏，体现用低成本元件扩展笔记本输入方式的可能性，同时需权衡兼容性与可用性。",
+      "hn": {
+        "id": 47578572,
+        "type": "story",
+        "by": "HughParry",
+        "score": 403,
+        "descendants": 214,
+        "time": 1774898553,
+        "comments_url": "https://news.ycombinator.com/item?id=47578572"
+      },
+      "tags": [
+        "Hardware"
+      ],
+      "hot_score": 0.44
+    },
+    {
+      "title_en": "GitHub Monaspace Case Study",
+      "url": "https://lettermatic.com/custom/monaspace-case-study",
+      "title_zh": "GitHub Monaspace 案例研究",
+      "created_display": "Created: Mar 31, 2026 / 08:01 PT",
+      "image_url": "https://cdn.sanity.io/images/blwjvcya/production/89ba1e14a59be746bbc5a9aeec4669aa024122d6-4800x2400.png",
+      "summary_en": "A case study examining Monaspace on GitHub, focusing on design decisions for scalable monospaced tooling and UI. It discusses architecture trade-offs, performance considerations, and lessons for building developer-focused tooling.",
+      "summary_zh": "对 GitHub 上的 Monaspace 进行案例研究，聚焦可扩展的等宽工具与 UI 的设计决策，讨论架构权衡、性能考量以及面向开发者工具的经验教训。",
+      "hn": {
+        "id": 47588349,
+        "type": "story",
+        "by": "homebrewer",
+        "score": 140,
+        "descendants": 47,
+        "time": 1774969295,
+        "comments_url": "https://news.ycombinator.com/item?id=47588349"
+      },
+      "tags": [
+        "Programming",
+        "Design"
+      ],
+      "hot_score": 0.43
+    },
+    {
+      "title_en": "Android Developer Verification",
+      "url": "https://android-developers.googleblog.com/2026/03/android-developer-verification-rolling-out-to-all-developers.html",
+      "title_zh": "Android 开发者验证全面向所有开发者铺开",
+      "created_display": "Created: Mar 30, 2026 / 15:05 PT",
+      "image_url": "https://blogger.googleusercontent.com/img/a/AVvXsEgKvPOrkQ6xhfp3JzKhlQS63WlgsKEc3iI6Jl6VdfitojtR0j9py3hJ3S3dkp2JF39HU6lUswIJpFupt2fm5uFfWB7408f4mhvHWsM8JeO5tk0-M0jHpk4A40an8gtipxyKpGJrGBtdE7JadUHnRodVFB9NIMkwmnNJFqWw0x1ncIAoVb9h13CeV1p_jyQ",
+      "summary_en": "Google expands Android Developer Verification, requiring identity verification to strengthen ecosystem trust and curb fraudulent apps. The rollout is global, with implications for app review processes and developer onboarding.",
+      "summary_zh": "Google 将 Android 开发者验证全面向全球开发者铺开，要求完成身份认证以提升生态系统信任并打击假冒应用。此举将影响应用审核流程与开发者注册 onboarding。",
+      "hn": {
+        "id": 47580297,
+        "type": "story",
+        "by": "ingve",
+        "score": 323,
+        "descendants": 332,
+        "time": 1774908321,
+        "comments_url": "https://news.ycombinator.com/item?id=47580297"
+      },
+      "tags": [
+        "Security"
+      ],
+      "hot_score": 0.39
+    },
+    {
+      "title_en": "Combinators",
+      "url": "https://tinyapl.rubenverg.com/docs/info/combinators",
+      "title_zh": "组合子",
+      "created_display": "Created: Mar 31, 2026 / 04:49 PT",
+      "image_url": "https://tinyapl.rubenverg.com/logo.svg",
+      "summary_en": "Combinators are higher-order building blocks that compose functions without explicit variables. The TinyAPL documentation likely illustrates how to use them to build complex behavior from simple, reusable pieces, enabling point-free style and functional composition. Mastery helps in understanding language design and meta-programming patterns.",
+      "summary_zh": "组合子是无需显式变量即可组合函数的高阶构件。文档中的示例展示了如何用它们以点免费风格组合出更复杂的行为，便于理解函数式编程的组合与语言设计思路。",
+      "hn": {
+        "id": 47585974,
+        "type": "story",
+        "by": "tosh",
+        "score": 144,
+        "descendants": 39,
+        "time": 1774957743,
+        "comments_url": "https://news.ycombinator.com/item?id=47585974"
+      },
+      "tags": [
+        "Programming"
+      ],
+      "hot_score": 0.36
+    },
+    {
+      "title_en": "1.5M GitHub pull requests have had ads injected into them by Microsoft Copilot",
+      "url": "https://www.neowin.net/news/microsoft-copilot-is-now-injecting-ads-into-pull-requests-on-github-gitlab/",
+      "title_zh": "微软 Copilot 已向 150万条 GitHub 拉取请求注入广告",
+      "created_display": "Created: Mar 30, 2026 / 08:00 PT",
+      "image_url": null,
+      "summary_en": "Microsoft Copilot has started injecting ads into pull requests on GitHub and GitLab, affecting about 1.5 million PRs. This move redefines how AI-assisted tools monetize human-driven code review, raising questions about consent, user experience, and the boundaries of promotional content in development workflows. Expect a pushback from maintainers and calls for clearer opt-outs and transparency.",
+      "summary_zh": "微软 Copilot 已开始在 GitHub 与 GitLab 的拉取请求中注入广告，涉及约150万条 PR。此举重新定义了 AI 助手在代码评审中的商业化方式，引发对用户同意、使用体验以及在开发流程中展示广告边界的讨论。预计维护者会强烈反对，并呼吁更清晰的退出选项和更透明的广告机制。",
+      "hn": {
+        "id": 47575212,
+        "type": "story",
+        "by": "bundie",
+        "score": 348,
+        "descendants": 11,
+        "time": 1774882828,
+        "comments_url": "https://news.ycombinator.com/item?id=47575212"
+      },
+      "tags": [
+        "AI",
+        "Business",
+        "Programming"
+      ],
+      "hot_score": 0.32
+    },
+    {
+      "title_en": "New Washington state law bans noncompete agreements",
+      "url": "https://www.seattletimes.com/business/local-business/new-washington-law-bans-noncompete-agreements/",
+      "title_zh": "华盛顿州新法禁止非竞争协议",
+      "created_display": "Created: Mar 30, 2026 / 10:01 PT",
+      "image_url": "https://images.seattletimes.com/wp-content/uploads/2026/03/03262026_tzr_tzr_142028.jpg?d=1200x630",
+      "summary_en": "Washington state enacted a broad ban on noncompete agreements, aimed at boosting worker mobility and reducing barriers to switching jobs. The law narrows or eliminates the use of noncompetes for most workers, though there may be carve-outs for certain executives or sensitive roles. Startups and hiring practices may shift as employers seek alternative protections.",
+      "summary_zh": "华盛顿州通过一项广泛的新法，禁止大多数劳动者的非竞争协议，旨在提升员工流动性并降低跳槽难度。尽管个别高层或敏感岗位可能仍有例外，但对雇主使用非竞争条款的限制将促使初创企业调整招聘和保密安排的做法。",
+      "hn": {
+        "id": 47576861,
+        "type": "story",
+        "by": "toomuchtodo",
+        "score": 328,
+        "descendants": 123,
+        "time": 1774890095,
+        "comments_url": "https://news.ycombinator.com/item?id=47576861"
+      },
+      "tags": [
+        "Legal",
+        "Business"
+      ],
+      "hot_score": 0.32
+    },
+    {
+      "title_en": "Learn Claude Code by doing, not reading",
+      "url": "https://claude.nagdy.me/",
+      "title_zh": "通过动手学习 Claude Code 实践，而非仅仅阅读",
+      "created_display": "Created: Mar 30, 2026 / 13:19 PT",
+      "image_url": "https://claude.nagdy.me/og/default.png",
+      "summary_en": "A practical, do-first guide to learning Claude Code through interactive exercises rather than theory. It emphasizes writing, testing, and iterating prompts and snippets to master Claude's coding capabilities for building AI-assisted tooling.",
+      "summary_zh": "以互动练习为核心的 Claude Code 实践教学，强调编写、测试和迭代提示与代码片段，以快速掌握 Claude 的编码能力，适合构建 AI 辅助工具的开发者。",
+      "hn": {
+        "id": 47579229,
+        "type": "story",
+        "by": "taubek",
+        "score": 270,
+        "descendants": 109,
+        "time": 1774901983,
+        "comments_url": "https://news.ycombinator.com/item?id=47579229"
+      },
+      "tags": [
+        "AI",
+        "Education"
+      ],
+      "hot_score": 0.3
+    },
+    {
+      "title_en": "Show HN: 30u30.fyi – Is your startup founder on Forbes' most fraudulent list?",
+      "url": "https://30u30.fyi",
+      "title_zh": "Show HN：30u30.fyi——你的创业创始人是否上 Forbes 的最具欺诈名单？",
+      "created_display": "Created: Mar 30, 2026 / 15:10 PT",
+      "image_url": "https://30u30.fyi/opengraph-image?e233eb13b7a7aca9",
+      "summary_en": "Show HN introduces 30u30.fyi, a resource for checking whether startup founders have appeared on Forbes' fraudulent lists. It highlights how due diligence in the startup ecosystem can mitigate reputational and investor risk.",
+      "summary_zh": "Show HN 展示了 30u30.fyi，这是一个帮助投资人与社区对创始人进行尽职调查的聚合平台，聚焦于创始人是否曾被 Forbes 的欺诈名单列入。该资源强调在早期投资里对创始人背景进行核验的重要性与风险。",
+      "hn": {
+        "id": 47580350,
+        "type": "story",
+        "by": "not-chatgpt",
+        "score": 245,
+        "descendants": 100,
+        "time": 1774908622,
+        "comments_url": "https://news.ycombinator.com/item?id=47580350"
+      },
+      "tags": [
+        "Show HN",
+        "Startups"
+      ],
+      "hot_score": 0.3
+    },
+    {
+      "title_en": "Bird brains (2023)",
+      "url": "https://www.dhanishsemar.com/writing/bird-brains",
+      "title_zh": "鸟脑（2023）",
+      "created_display": "Created: Mar 30, 2026 / 06:14 PT",
+      "image_url": "https://dhanishsemar.com/writing/bird-brains/opengraph-image?065a48ba6584b675",
+      "summary_en": "A concise reflection on what bird brains in 2023 reveal about avian cognition and brain evolution.",
+      "summary_zh": "对2023年鸟类认知研究和大脑进化要点的简要解读。",
+      "hn": {
+        "id": 47573887,
+        "type": "story",
+        "by": "DiffTheEnder",
+        "score": 337,
+        "descendants": 214,
+        "time": 1774876467,
+        "comments_url": "https://news.ycombinator.com/item?id=47573887"
+      },
+      "tags": [
+        "Science"
+      ],
+      "hot_score": 0.29
+    },
+    {
+      "title_en": "FTC action against Match and OkCupid for deceiving users, sharing personal data",
+      "url": "https://www.ftc.gov/news-events/news/press-releases/2026/03/ftc-takes-action-against-match-okcupid-deceiving-users-sharing-personal-data-third-party",
+      "title_zh": "FTC 针对 Match 与 OkCupid 的行动：误导用户与共享个人数据",
+      "created_display": "Created: Mar 30, 2026 / 08:32 PT",
+      "image_url": null,
+      "summary_en": "FTC action accuses Match and OkCupid of deceiving users and sharing personal data with third parties, prompting new privacy commitments and compliance measures. The case underlines ongoing pressure on dating apps to protect user data.",
+      "summary_zh": "FTC 指控 Match 与 OkCupid 欺骗用户并将个人数据分享给第三方，要求对隐私做出新的承诺与合规措施。这起事件凸显了约会应用保护用户数据的持续压力。",
+      "hn": {
+        "id": 47575616,
+        "type": "story",
+        "by": "gnabgib",
+        "score": 310,
+        "descendants": 154,
+        "time": 1774884757,
+        "comments_url": "https://news.ycombinator.com/item?id=47575616"
+      },
+      "tags": [
+        "Privacy",
+        "Legal"
+      ],
+      "hot_score": 0.29
+    },
+    {
+      "title_en": "Vulnerability research is cooked",
+      "url": "https://sockpuppet.org/blog/2026/03/30/vulnerability-research-is-cooked/",
+      "title_zh": "漏洞研究被炮制",
+      "created_display": "Created: Mar 30, 2026 / 11:43 PT",
+      "image_url": "https://sockpuppet.org/images/fw.png",
+      "summary_en": "Argues that vulnerability research is shaped by incentives and disclosure norms, urging more rigorous, transparent practices and better governance of bug disclosures.",
+      "summary_zh": "认为漏洞研究受激励与披露规范影响，呼吁采用更严格、透明的做法，并改善漏洞披露治理。",
+      "hn": {
+        "id": 47578086,
+        "type": "story",
+        "by": "pedro84",
+        "score": 248,
+        "descendants": 167,
+        "time": 1774896218,
+        "comments_url": "https://news.ycombinator.com/item?id=47578086"
+      },
+      "tags": [
+        "Security"
+      ],
+      "hot_score": 0.26
+    },
+    {
+      "title_en": "Take better notes, by hand",
+      "url": "https://brianschrader.com/archive/take-better-notes-by-hand/",
+      "title_zh": "手写笔记：记笔记更有效",
+      "created_display": "Created: Mar 30, 2026 / 09:23 PT",
+      "image_url": "https://brianschrader.com/images/blog/index-notes.jpg",
+      "summary_en": "The piece argues hand-written notes improve retention and comprehension compared to typing; it offers practical tips to cultivate a productive hand-writing practice and shows why this matters even in a digital era.",
+      "summary_zh": "文章主张手写笔记能提升记忆与理解力，胜过打字记录，并给出提高手写笔记质量的实用技巧，说明长期记忆收益。",
+      "hn": {
+        "id": 47576317,
+        "type": "story",
+        "by": "sonicrocketman",
+        "score": 212,
+        "descendants": 93,
+        "time": 1774887836,
+        "comments_url": "https://news.ycombinator.com/item?id=47576317"
+      },
+      "tags": [
+        "Education"
+      ],
+      "hot_score": 0.2
+    },
+    {
+      "title_en": "OpenGridWorks: The Electricity Infrasctructure, Mapped",
+      "url": "https://www.opengridworks.com",
+      "title_zh": "OpenGridWorks：电力基础设施的开放性映射",
+      "created_display": "Created: Mar 30, 2026 / 14:12 PT",
+      "image_url": null,
+      "summary_en": "OpenGridWorks maps electricity infrastructure, offering an open visualization of grids and critical assets. The project aims to raise transparency, support planning, and highlight risks in energy networks.",
+      "summary_zh": "OpenGridWorks 正在把电力基础设施绘制成开放数据地图，提高透明度并支持规划与风险分析。此类可视化有助于理解能源网络的脆弱点。",
+      "hn": {
+        "id": 47579754,
+        "type": "story",
+        "by": "jonbraun",
+        "score": 169,
+        "descendants": 26,
+        "time": 1774905166,
+        "comments_url": "https://news.ycombinator.com/item?id=47579754"
+      },
+      "tags": [
+        "Energy",
+        "Data",
+        "DevOps"
+      ],
+      "hot_score": 0.2
+    },
+    {
+      "title_en": "72% of the dollar's purchasing power was destroyed in just four episodes",
+      "url": "https://eco3min.fr/en/us-inflation-is-not-linear/",
+      "title_zh": "美元购买力在四轮通胀中被摧毁72%",
+      "created_display": "Created: Mar 30, 2026 / 07:49 PT",
+      "image_url": "https://mlde8o0xa4ew.i.optimole.com/cb:VNTn.d9a/w:1793/h:1277/q:mauto/f:best/https://eco3min.fr/wp-content/uploads/2026/03/cpi-inflation-episode-decomposition-v1-1.png",
+      "summary_en": "An analysis shows that over four inflation episodes, the dollar's purchasing power fell by about 72%, illustrating how inflation compounds in non-linear bursts rather than a straight decline.",
+      "summary_zh": "一篇分析指出，在四轮通胀的冲击下，美元购买力约已下降72%，这揭示通胀往往呈现非线性爆发，而非简单线性下降。文章强调低估通胀波动对储蓄与预算的影响以及需要更敏感的资产配置。",
+      "hn": {
+        "id": 47575089,
+        "type": "story",
+        "by": "latentframe",
+        "score": 214,
+        "descendants": 261,
+        "time": 1774882198,
+        "comments_url": "https://news.ycombinator.com/item?id=47575089"
+      },
+      "tags": [
+        "Finance"
+      ],
+      "hot_score": 0.19
+    },
+    {
+      "title_en": "America Is Now a Rogue Superpower",
+      "url": "https://www.theatlantic.com/international/2026/03/trump-us-power-iran/686567/",
+      "title_zh": "美国如今成了流氓超级大国",
+      "created_display": "Created: Mar 30, 2026 / 13:16 PT",
+      "image_url": "https://cdn.theatlantic.com/thumbor/tjwL5lz_uThiUCXnXxPaYhqUqRk=/0x43:2000x1085/1200x625/media/img/mt/2026/03/2026_03_23_Iran_world_2/original.jpg",
+      "summary_en": "The Atlantic argues the US has departed from traditional alliance-building and international norms, pursuing unilateral strategies in pursuit of perceived security interests. This shift has serious implications for credibility, global stability, and future diplomacy.",
+      "summary_zh": "《大西洋月刊》认为美国已背离传统的同盟构建与国际规范，转而追求以自我认定的安全利益为目标的单边行动。这一转变对美国的可信度、全球稳定以及未来的外交走向具有深远影响。",
+      "hn": {
+        "id": 47579200,
+        "type": "story",
+        "by": "JumpCrisscross",
+        "score": 157,
+        "descendants": 114,
+        "time": 1774901819,
+        "comments_url": "https://news.ycombinator.com/item?id=47579200"
+      },
+      "hot_score": 0.18,
+      "tags": [
+        "Politics",
+        "Security"
+      ]
+    },
+    {
+      "title_en": "I'm betting on ATProto",
+      "url": "https://brittanyellich.com/atproto/",
+      "title_zh": "我看好 ATProto",
+      "created_display": "Created: Mar 30, 2026 / 12:37 PT",
+      "image_url": "https://brittanyellich.com/_astro/graveyard.Ce8n_gsn_Z26Ycvu.jpg",
+      "summary_en": "Betting on ATProto signals a belief in a decentralized, federation-friendly approach to social networks, aiming for resilience, user control, and better moderation tools than siloed platforms. If adopted, it could unlock new network effects and governance models.",
+      "summary_zh": "看好 ATProto 表示对去中心化、跨域联邦的社交网络愿景的信心，强调对抗单一平台垄断的韧性、用户控制与更优的治理工具。若落地，可能带来新的网络效应与治理模式。",
+      "hn": {
+        "id": 47578741,
+        "type": "story",
+        "by": "speckx",
+        "score": 158,
+        "descendants": 147,
+        "time": 1774899465,
+        "comments_url": "https://news.ycombinator.com/item?id=47578741"
+      },
+      "hot_score": 0.17,
+      "tags": [
+        "Web"
+      ]
+    }
+  ]
+}

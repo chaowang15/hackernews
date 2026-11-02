@@ -1,0 +1,1165 @@
+{
+  "meta": {
+    "mode": "best",
+    "source": "https://news.ycombinator.com/",
+    "api": "https://github.com/HackerNews/API",
+    "count_requested": 50,
+    "count_written": 50,
+    "reused_same_day": 0,
+    "reused_cross_day": 5,
+    "new_llm_enriched": 11,
+    "scrape_time_display": "14:59, August 27, 2026 (PDT)",
+    "timezone": "America/Los_Angeles",
+    "date_dir": "2026/08/26",
+    "content_date": "2026-08-26",
+    "run_time_local": "14:59, August 27, 2026 (PDT)",
+    "run_time_utc": "2026-08-27 21:59:50 UTC",
+    "incremental": true,
+    "stories_max": 50,
+    "hot_score_time_utc": "2026-08-27 22:00:57 UTC"
+  },
+  "items": [
+    {
+      "title_en": "Saving 100 terabytes of memory by optimizing 1.1.1.1's DNS cache",
+      "url": "https://blog.cloudflare.com/dns-cache-memory-optimization-1111/",
+      "title_zh": "通过优化 1.1.1.1 的 DNS 缓存节省 100 TB 内存",
+      "created_display": "Created: Aug 27, 2026 / 10:17 PT",
+      "image_url": "https://blog.cloudflare.com/_emdash/api/media/file/01M1185AQ3B90700DKB48C2HHM.png",
+      "summary_en": "Cloudflare details how reworking DNS cache structures and eviction policies shaved hundreds of terabytes of memory from a global resolver fleet. The change improves throughput and latency while reducing operational costs.",
+      "summary_zh": "Cloudflare 讲解了通过重构 DNS 缓存结构和淘汰策略，在全球解析器网络中节省了数百 TB 内存。此举提升了吞吐和延迟表现，同时降低运维成本。",
+      "hn": {
+        "id": 49468083,
+        "type": "story",
+        "by": "TangerineDream",
+        "score": 359,
+        "descendants": 103,
+        "time": 1787851077,
+        "comments_url": "https://news.ycombinator.com/item?id=49468083"
+      },
+      "tags": [
+        "Web",
+        "DevOps"
+      ],
+      "hot_score": 11.61
+    },
+    {
+      "title_en": "Small Models Have Arrived",
+      "url": "https://calv.info/small-models-have-arrived",
+      "title_zh": "小型模型已到来",
+      "created_display": "Created: Aug 27, 2026 / 08:56 PT",
+      "image_url": "https://calv.info/api/og?title=Small%20Models%20Have%20Arrived",
+      "summary_en": "Smaller AI models are reaching practical viability, enabling on-device and cost-effective deployments. The piece surveys advances in distillation, quantization, and architecture design that let smaller models perform surprisingly well.",
+      "summary_zh": "更小的AI模型正在具备实际应用能力，能够在本地设备上部署并降低成本。文章梳理了蒸馏、量化和架构设计方面的进展，使小模型的性能出人意料地强。",
+      "hn": {
+        "id": 49466917,
+        "type": "story",
+        "by": "tosh",
+        "score": 350,
+        "descendants": 154,
+        "time": 1787846218,
+        "comments_url": "https://news.ycombinator.com/item?id=49466917"
+      },
+      "tags": [
+        "AI"
+      ],
+      "hot_score": 8.14
+    },
+    {
+      "title_en": "507 Mechanical Movements",
+      "url": "https://507movements.com/",
+      "title_zh": "507 种机械运动",
+      "created_display": "Created: Aug 27, 2026 / 07:08 PT",
+      "image_url": "https://507movements.com/img/th/mm_001.png",
+      "summary_en": "A modern, interactive catalog of mechanical linkages illustrating 507 different movements. It serves as a visually engaging reference for designers and engineers exploring how different parts convert motion.",
+      "summary_zh": "这是一个现代化、交互式的机械连杆目录，展示了507种不同的运动方式。为设计师和工程师提供直观的可视参考，帮助理解各部件如何转换运动。",
+      "hn": {
+        "id": 49465169,
+        "type": "story",
+        "by": "helloplanets",
+        "score": 413,
+        "descendants": 62,
+        "time": 1787839698,
+        "comments_url": "https://news.ycombinator.com/item?id=49465169"
+      },
+      "tags": [
+        "Design"
+      ],
+      "hot_score": 6.68
+    },
+    {
+      "title_en": "Trade (and Tariffs)",
+      "url": "https://xkcd.com/3290/",
+      "title_zh": "贸易（与关税）",
+      "created_display": "Created: Aug 27, 2026 / 06:49 PT",
+      "image_url": "https://imgs.xkcd.com/comics/trade_2x.png",
+      "summary_en": "A humorous XKCD strip exploring how tariffs affect trade dynamics and consumer costs, with a simple, accessible take on economic policy.",
+      "summary_zh": "这幅 XKCD 漫画以幽默方式揭示关税如何影响贸易与消费者成本的基本逻辑。",
+      "hn": {
+        "id": 49464896,
+        "type": "story",
+        "by": "throw0101d",
+        "score": 434,
+        "descendants": 192,
+        "time": 1787838569,
+        "comments_url": "https://news.ycombinator.com/item?id=49464896"
+      },
+      "tags": [
+        "Politics"
+      ],
+      "hot_score": 6.63
+    },
+    {
+      "title_en": "Nvidia agrees to acquire Hugging Face for $13B",
+      "url": "https://www.businessinsider.com/nvidia-in-talks-to-buy-hugging-face-13-billion-dollars-2026-8",
+      "title_zh": "英伟达同意以130亿美元收购 Hugging Face",
+      "created_display": "Created: Aug 26, 2026 / 18:12 PT",
+      "image_url": "https://i.insider.com/6a8f6dc43f7df8787cff40f7?width=1200&format=jpeg",
+      "summary_en": "NVIDIA plans to buy Hugging Face for $13 billion, positioning its software ecosystem to ride alongside its hardware stack. The acquisition would deepen integration of models, datasets, and tools across the NVIDIA platform, potentially accelerating AI deployment and the competitive dynamics of AI infrastructure.",
+      "summary_zh": "英伟达以130亿美元收购 Hugging Face，意在把开源模型生态融入自家硬件与软件工具链。交易可能加速 AI 部署并改变 AI 基础设施的竞争格局，同时影响开源社区的格局。",
+      "hn": {
+        "id": 49458161,
+        "type": "story",
+        "by": "mfiguiere",
+        "score": 1801,
+        "descendants": 839,
+        "time": 1787793175,
+        "comments_url": "https://news.ycombinator.com/item?id=49458161"
+      },
+      "tags": [
+        "Business",
+        "AI",
+        "Hardware",
+        "DevOps"
+      ],
+      "hot_score": 6.47
+    },
+    {
+      "title_en": "Microduck",
+      "url": "https://pollen-robotics.com/microduck/",
+      "title_zh": "Microduck",
+      "created_display": "Created: Aug 27, 2026 / 03:57 PT",
+      "image_url": "https://pollen-robotics.com/assets/og/og-microduck-squad-v2.jpg",
+      "summary_en": "Microduck is a new, compact robotics platform introduced by Pollen Robotics.",
+      "summary_zh": "Microduck 是 Pollen Robotics 推出的一款新型、紧凑型的机器人平台。",
+      "hn": {
+        "id": 49462763,
+        "type": "story",
+        "by": "robotswantdata",
+        "score": 442,
+        "descendants": 173,
+        "time": 1787828276,
+        "comments_url": "https://news.ycombinator.com/item?id=49462763"
+      },
+      "tags": [
+        "Hardware"
+      ],
+      "hot_score": 4.33
+    },
+    {
+      "title_en": "Tell HN: PayPal blocks GrapheneOS",
+      "url": "https://news.ycombinator.com/item?id=49462253",
+      "title_zh": "HN 贴：PayPal 阻止 GrapheneOS",
+      "created_display": "Created: Aug 27, 2026 / 02:56 PT",
+      "image_url": "https://news.ycombinator.com/y18.svg",
+      "summary_en": "PayPal blocks GrapheneOS, a privacy-focused Android fork, affecting users and highlighting tensions between large payment platforms and alternative mobile ecosystems. This underscores concerns about platform interoperability, device compatibility, and vendor gatekeeping.",
+      "summary_zh": "据称 PayPal 阻止 GrapheneOS 用户使用其服务，凸显大型支付平台与隐私导向的操作系统之间的紧张关系。事件引发对跨平台兼容性、设备认证以及厂商封禁策略的讨论。",
+      "hn": {
+        "id": 49462253,
+        "type": "story",
+        "by": "leumon",
+        "score": 435,
+        "descendants": 253,
+        "time": 1787824614,
+        "comments_url": "https://news.ycombinator.com/item?id=49462253"
+      },
+      "tags": [
+        "Privacy",
+        "Security"
+      ],
+      "hot_score": 3.72
+    },
+    {
+      "title_en": "CEO fired developers to make room for AI. Developers create open source AI CEO",
+      "url": "https://github.com/SenteLabsAI/OpenExecutive",
+      "title_zh": "CEO 为了给 AI 腾出空间而解雇开发者，开发者推出开源 AI CEO",
+      "created_display": "Created: Aug 26, 2026 / 18:46 PT",
+      "image_url": "https://opengraph.githubassets.com/915091b36381841d8490d5229248141b0a63a421110153eeeaf232fece964cc4/SenteLabsAI/OpenExecutive",
+      "summary_en": "A CEO allegedly fired developers to make room for AI, prompting debates about AI governance and corporate strategy; in response, a team of developers created an open-source AI CEO project to explore decentralized AI leadership.",
+      "summary_zh": "报道称某CEO为让AI腾出空间而解雇开发者，引发关于 AI 治理与企业策略的讨论。开发者们进而推出了开源 AI CEO 项目（OpenExecutive），以探索去中心化的 AI 领导力。",
+      "hn": {
+        "id": 49458418,
+        "type": "story",
+        "by": "GrumpySciGuy",
+        "score": 919,
+        "descendants": 631,
+        "time": 1787795182,
+        "comments_url": "https://news.ycombinator.com/item?id=49458418"
+      },
+      "tags": [
+        "AI",
+        "Open Source",
+        "Business"
+      ],
+      "hot_score": 3.45
+    },
+    {
+      "title_en": "US Government designates host of noblogs.org a \"global terrorist\"",
+      "url": "https://crimethinc.com/2026/08/27/us-government-designates-host-of-noblogsorg-a-global-terrorist",
+      "title_zh": "美国政府将 noblogs.org 的托管方列为全球恐怖主义实体",
+      "created_display": "Created: Aug 27, 2026 / 06:12 PT",
+      "image_url": "https://cdn.crimethinc.com/assets/articles/2022/11/25/header.jpg",
+      "summary_en": "The U.S. government designated the host of noblogs.org as a global terrorist, a move that can disrupt fundraising, hosting, and access for the site. The designation reflects the expanding use of-terrorist labels in internet infrastructure disputes and raises questions about due process.",
+      "summary_zh": "美国政府将 noblogs.org 的托管方定性为全球恐怖主义实体，可能影响资金、托管与域名等运营活动。此举凸显互联网基础设施标签化执法的趋势，也引发对程序正当性的讨论。",
+      "hn": {
+        "id": 49464391,
+        "type": "story",
+        "by": "robtherobber",
+        "score": 199,
+        "descendants": 110,
+        "time": 1787836330,
+        "comments_url": "https://news.ycombinator.com/item?id=49464391"
+      },
+      "hot_score": 2.73,
+      "tags": [
+        "Politics",
+        "Legal",
+        "DevOps"
+      ]
+    },
+    {
+      "title_en": "Show HN: The load-bearing vocabulary of Claude",
+      "url": "https://louisabraham.github.io/load-bearing/",
+      "title_zh": "Claude 的承载词汇",
+      "created_display": "Created: Aug 27, 2026 / 01:59 PT",
+      "image_url": null,
+      "summary_en": "An analysis of Claude's vocabulary that matters for reliable performance, exploring which words most influence model behavior.",
+      "summary_zh": "分析 Claude 模型中对稳定表现最关键的词汇，以及哪些词汇对模型行为影响最大。",
+      "hn": {
+        "id": 49461817,
+        "type": "story",
+        "by": "Labo333",
+        "score": 266,
+        "descendants": 135,
+        "time": 1787821189,
+        "comments_url": "https://news.ycombinator.com/item?id=49461817"
+      },
+      "tags": [
+        "Show HN",
+        "AI"
+      ],
+      "hot_score": 2.02
+    },
+    {
+      "title_en": "GLM-5.3-Flash",
+      "url": "https://z.ai/blog/glm-5.3-flash",
+      "title_zh": "GLM-5.3-Flash",
+      "created_display": "Created: Aug 26, 2026 / 07:08 PT",
+      "image_url": null,
+      "summary_en": "A new release in the GLM-5.3 family focusing on cost-efficient inference, likely leveraging quantization and optimization tricks to run capable models on cheaper hardware. This broadens practical deployment of large language models on commodity devices and smaller clusters. The trend continues: vendors pushing cheaper, accessible LLMs without sacrificing too much accuracy.",
+      "summary_zh": "GLM-5.3-Flash 发布，强调在低成本硬件上的高效推理，可能通过量化与优化实现更便宜设备上的可用模型。此举扩展了大模型在普通硬件/小型集群上的落地场景，体现了厂商在降低部署成本上的持续努力。",
+      "hn": {
+        "id": 49449507,
+        "type": "story",
+        "by": "Philpax",
+        "score": 1103,
+        "descendants": 552,
+        "time": 1787753330,
+        "comments_url": "https://news.ycombinator.com/item?id=49449507"
+      },
+      "tags": [
+        "AI",
+        "Hardware"
+      ],
+      "hot_score": 1.94
+    },
+    {
+      "title_en": "AWS Acquires DuckLabs",
+      "url": "https://ducklabs.com/news/2026/08/26/ducklabs-to-join-aws",
+      "title_zh": "AWS 收购 DuckLabs",
+      "created_display": "Created: Aug 26, 2026 / 05:59 PT",
+      "image_url": "https://ducklabs.com/img/blog/ducklabs-aws-blog.png",
+      "summary_en": "Amazon Web Services has acquired DuckLabs to bolster its data tooling and AI capabilities. The acquisition signals AWS's push to integrate DuckLabs' technology into its cloud platform, potentially expanding its offerings for data-driven workloads.",
+      "summary_zh": "亚马逊网络服务宣布收购 DuckLabs，以增强其数据工具和人工智能能力。这笔交易可能将把 DuckLabs 的技术融入 AWS 的云平台，拓展数据驱动工作负载的能力。",
+      "hn": {
+        "id": 49448321,
+        "type": "story",
+        "by": "onderkalaci",
+        "score": 1078,
+        "descendants": 312,
+        "time": 1787749166,
+        "comments_url": "https://news.ycombinator.com/item?id=49448321"
+      },
+      "tags": [
+        "Business",
+        "AI"
+      ],
+      "hot_score": 1.79
+    },
+    {
+      "title_en": "Mechanical Turk shutting down September 30",
+      "url": "https://www.mturk.com/",
+      "title_zh": "Amazon Mechanical Turk 将于9月30日停止运营",
+      "created_display": "Created: Aug 26, 2026 / 16:55 PT",
+      "image_url": "https://www.mturk.com/assets/images/logo.svg",
+      "summary_en": "Amazon Mechanical Turk will shut down on Sept 30, ending a long-running crowdwork and data-labeling platform for ML. The move affects researchers and companies relying on microtasks, pushing them to alternatives or in-house labeling workflows.",
+      "summary_zh": "Amazon Mechanical Turk 将于9月30日停止运营。这一决策结束了长期用于众包任务和机器学习数据标注的平台，相关方需转向其他平台或自行开展标注工作。",
+      "hn": {
+        "id": 49457545,
+        "type": "story",
+        "by": "tmp10423288442",
+        "score": 515,
+        "descendants": 155,
+        "time": 1787788544,
+        "comments_url": "https://news.ycombinator.com/item?id=49457545"
+      },
+      "tags": [
+        "Business"
+      ],
+      "hot_score": 1.67
+    },
+    {
+      "title_en": "U.S. State Department pauses immigrant visa applications",
+      "url": "https://www.wsj.com/politics/policy/u-s-state-department-pauses-immigrant-visa-applications-25b31b23",
+      "title_zh": "美国国务院暂停移民签证申请",
+      "created_display": "Created: Aug 26, 2026 / 10:22 PT",
+      "image_url": null,
+      "summary_en": "The U.S. State Department paused immigrant visa applications amid processing backlogs and security concerns, affecting applicants and consular operations. The halt is expected to have widespread impact on families awaiting immigration.",
+      "summary_zh": "美国国务院因处理积压与安全问题暂停移民签证申请，影响申请人及领事馆运作。此举预计会对等待移民的家庭造成广泛影响。",
+      "hn": {
+        "id": 49452709,
+        "type": "story",
+        "by": "sss111",
+        "score": 779,
+        "descendants": 1273,
+        "time": 1787764936,
+        "comments_url": "https://news.ycombinator.com/item?id=49452709"
+      },
+      "tags": [
+        "Politics",
+        "Legal",
+        "Security"
+      ],
+      "hot_score": 1.64
+    },
+    {
+      "title_en": "Tim Curry has died",
+      "url": "https://www.theguardian.com/film/2026/aug/26/tim-curry-dies-rocky-horror-show-stephen-king-it-legend-film",
+      "title_zh": "蒂姆·库里去世",
+      "created_display": "Created: Aug 26, 2026 / 09:03 PT",
+      "image_url": "https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2015/11/10/1447180876442/d3b4806e-2803-42bb-8aec-690e08e5c939-2060x1236.jpeg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b04bfdbe488cdc524bb7fbaefc4933be",
+      "summary_en": "Tim Curry, the versatile actor known for roles in The Rocky Horror Picture Show and IT, has died. Tributes highlight his flamboyant stage presence and iconic performances across film and television.",
+      "summary_zh": "知名演员蒂姆·库里去世，因其在舞台与银幕上塑造的标志性角色而广受赞誉。人们怀念他在《摇滚惊魂夜》等作品中的多才多艺与大胆表演。",
+      "hn": {
+        "id": 49451448,
+        "type": "story",
+        "by": "mykowebhn",
+        "score": 709,
+        "descendants": 229,
+        "time": 1787760217,
+        "comments_url": "https://news.ycombinator.com/item?id=49451448"
+      },
+      "tags": [
+        "Entertainment",
+        "Culture"
+      ],
+      "hot_score": 1.39
+    },
+    {
+      "title_en": "Tailcat – Like netcat, but over Tailscale’s data plane",
+      "url": "https://github.com/tailscale/tailcat",
+      "title_zh": "Tailcat：在 Tailscale 数据平面上的 netcat 替代品",
+      "created_display": "Created: Aug 26, 2026 / 10:42 PT",
+      "image_url": "https://opengraph.githubassets.com/c7a50530474274f26cbe881658811716332fdf6d179ad5a2de2d40854000b9be/tailscale/tailcat",
+      "summary_en": "Tailcat provides a netcat-style data channel that rides on Tailscale's data plane, allowing direct, authenticated connections between devices regardless of NATs. It offers a lightweight way to test services, tunnel traffic, and diagnose network issues without exposing endpoints publicly.",
+      "summary_zh": "Tailcat 在 Tailscale 的数据平面上实现类似 netcat 的数据通道，能够在 NAT 穿透的设备之间建立经过认证的直接连接。它为测试、隧道传输和网络排错提供了一个轻量的替代方案，无需暴露公网端点。",
+      "hn": {
+        "id": 49452990,
+        "type": "story",
+        "by": "nderjung",
+        "score": 644,
+        "descendants": 122,
+        "time": 1787766142,
+        "comments_url": "https://news.ycombinator.com/item?id=49452990"
+      },
+      "tags": [
+        "Programming"
+      ],
+      "hot_score": 1.38
+    },
+    {
+      "title_en": "Asahi Linux Progress Report: Linux 7.2",
+      "url": "https://asahilinux.org/2026/08/progress-report-7-2/",
+      "title_zh": "Asahi Linux 进展报告：Linux 7.2",
+      "created_display": "Created: Aug 26, 2026 / 15:35 PT",
+      "image_url": "https://asahilinux.org/img/AsahiLinux_logomark_256px.png",
+      "summary_en": "Asahi Linux releases progress toward supporting Apple Silicon, with Linux 7.2 bringing improvements to boot, GPU, and performance on M1/M2 devices; ongoing work to mature drivers and userland experience.",
+      "summary_zh": "Asahi Linux 发布进展报告，聚焦在 Apple Silicon 上的 Linux 支持，Linux 7.2 带来引导、GPU 与性能等方面的改进，驱动与用户态体验仍在完善中。",
+      "hn": {
+        "id": 49456851,
+        "type": "story",
+        "by": "pizzaiolo",
+        "score": 387,
+        "descendants": 222,
+        "time": 1787783702,
+        "comments_url": "https://news.ycombinator.com/item?id=49456851"
+      },
+      "tags": [
+        "Open Source",
+        "Programming",
+        "Hardware"
+      ],
+      "hot_score": 1.14
+    },
+    {
+      "title_en": "Qwen3.8-Flash-Next",
+      "url": "https://qwen.ai/blog?id=qwen3.8-flash-next",
+      "title_zh": "Qwen3.8-Flash-Next：全新架构，向极致成本效率迈进",
+      "created_display": "Created: Aug 26, 2026 / 05:52 PT",
+      "image_url": "https://img.alicdn.com/imgextra/i4/O1CN01OXv3EM1FN8t9W4P79_!!6000000000474-2-tps-80-80.png",
+      "summary_en": "Qwen unveils 3.8-Flash-Next with a new architecture designed to slash total cost of ownership. Early signals point to modular design and hardware-aware optimizations that improve throughput per dollar. If adopted widely, it could shift how enterprises balance model capability with operating expense.",
+      "summary_zh": "Qwen 推出 3.8-Flash-Next，采用新架构以显著降低总体拥有成本。初步迹象显示将采用模块化设计和面向硬件的优化提高性价比。如果被广泛采用，可能改变企业在模型能力与运维成本之间的取舍。",
+      "hn": {
+        "id": 49448210,
+        "type": "story",
+        "by": "tosh",
+        "score": 686,
+        "descendants": 229,
+        "time": 1787748732,
+        "comments_url": "https://news.ycombinator.com/item?id=49448210"
+      },
+      "tags": [
+        "AI",
+        "Hardware"
+      ],
+      "hot_score": 1.13
+    },
+    {
+      "title_en": "An ongoing 3D-printer AGPL violation",
+      "url": "https://lwn.net/SubscriberLink/1089390/46116614cc74b814/",
+      "title_zh": "3D 打印机领域持续的 AGPL 许可证违规",
+      "created_display": "Created: Aug 26, 2026 / 10:41 PT",
+      "image_url": "https://static.lwn.net/images/logo/barepenguin-70.webp",
+      "summary_en": "The article documents an ongoing AGPL license violation in a 3D printer ecosystem, highlighting licensing compliance challenges for hardware vendors. It discusses potential enforcement paths and the impact on open-source developers and users.",
+      "summary_zh": "文中记录了一个持续的 AGPL 许可证违规案例，涉及 3D 打印机生态系统，凸显硬件厂商在开源许可方面的合规挑战。文中分析了可能的执法路径以及对开源开发者和用户的影响。",
+      "hn": {
+        "id": 49452980,
+        "type": "story",
+        "by": "Velocifyer",
+        "score": 476,
+        "descendants": 212,
+        "time": 1787766100,
+        "comments_url": "https://news.ycombinator.com/item?id=49452980"
+      },
+      "tags": [
+        "Open Source",
+        "Legal",
+        "Hardware"
+      ],
+      "hot_score": 1.02
+    },
+    {
+      "title_en": "Kusama Yayoi has died",
+      "url": "https://www.nytimes.com/2026/08/26/arts/yayoi-kusama-dead.html",
+      "title_zh": "草间弥生去世",
+      "created_display": "Created: Aug 26, 2026 / 19:21 PT",
+      "image_url": null,
+      "summary_en": "Yayoi Kusama, the iconic Japanese artist known for immersive installations and polka dots, has died, ending a prolific career that reshaped contemporary art. Her influence persists across museums, fashion, and pop culture.",
+      "summary_zh": "草间弥生，被沉浸式装置与标志性圆点所知的传奇日本艺术家去世，标志着她跨越多年的高产生涯告一段落。她的影响力仍在全球博物馆、时尚与大众文化中延续。",
+      "hn": {
+        "id": 49458709,
+        "type": "story",
+        "by": "phantomathkg",
+        "score": 255,
+        "descendants": 30,
+        "time": 1787797278,
+        "comments_url": "https://news.ycombinator.com/item?id=49458709"
+      },
+      "tags": [
+        "Culture",
+        "Entertainment"
+      ],
+      "hot_score": 1.0
+    },
+    {
+      "title_en": "Twitter Viewer – View Twitter Without Account",
+      "url": "https://twitterwebviewer.com/",
+      "title_zh": "Twitter Viewer：无需账户查看 Twitter",
+      "created_display": "Created: Aug 26, 2026 / 07:11 PT",
+      "image_url": "https://twitterwebviewer.com/api/og?type=home&title=Twitter%20Viewer&subtitle=View%20Twitter%20Without%20Account",
+      "summary_en": "Twitter Viewer lets you read public tweets without signing in, offering a privacy-friendly way to access content. It can be handy for researchers, journalists, and developers, but may raise policy and data-access questions as platforms tighten APIs. It exemplifies how third-party tooling can bypass friction while highlighting the limits of platform control.",
+      "summary_zh": "Twitter Viewer 允许在不登录的情况下浏览公开推文，为访问信息提供了更隐私友好的方式。对研究人员、记者和开发者颇有帮助，但随着平台收紧 API，相关的政策与数据访问问题亦随之浮现。此工具体现了第三方工具在降低门槛与平台控制能力之间的权衡。",
+      "hn": {
+        "id": 49449576,
+        "type": "story",
+        "by": "motownphilly",
+        "score": 553,
+        "descendants": 378,
+        "time": 1787753499,
+        "comments_url": "https://news.ycombinator.com/item?id=49449576"
+      },
+      "tags": [
+        "Privacy",
+        "Web"
+      ],
+      "hot_score": 0.98
+    },
+    {
+      "title_en": "Zohran and the Short Link",
+      "url": "https://iamwillwang.com/notes/zohran-and-the-short-link/",
+      "title_zh": "Zohran 与短链接",
+      "created_display": "Created: Aug 26, 2026 / 16:50 PT",
+      "image_url": "https://iamwillwang.com/zohran-wordmark.svg",
+      "summary_en": "Zohran and the Short Link examines how a political note intersects with the limitations and affordances of URL shorteners in modern online messaging.",
+      "summary_zh": "《Zohran 与短链接》探讨在现代在线传播中，短链接工具的局限性与可能带来的传播效应。",
+      "hn": {
+        "id": 49457512,
+        "type": "story",
+        "by": "wxw",
+        "score": 285,
+        "descendants": 178,
+        "time": 1787788215,
+        "comments_url": "https://news.ycombinator.com/item?id=49457512"
+      },
+      "tags": [
+        "Web"
+      ],
+      "hot_score": 0.92
+    },
+    {
+      "title_en": "Meta reaches $17B settlement over social media harms to children",
+      "url": "https://www.reuters.com/world/us/meta-settles-with-us-states-over-social-media-harms-2026-08-26/",
+      "title_zh": "Meta就儿童在社交媒体上的伤害达成170亿美元和解",
+      "created_display": "Created: Aug 26, 2026 / 06:28 PT",
+      "image_url": null,
+      "summary_en": "Meta agrees to a $17 billion settlement with U.S. states over alleged harms to children from its social platforms. The deal includes funding for safety improvements, independent oversight, and a framework to curb risky design patterns affecting young users, underscoring regulatory pressure on big tech.",
+      "summary_zh": "Meta 与多州就其社交平台对儿童造成的有害影响达成170亿美元和解。和解包括加强安全措施、独立监督，以及限制有害设计模式的合规要求，体现了监管对大型科技公司的持续压力。",
+      "hn": {
+        "id": 49448819,
+        "type": "story",
+        "by": "bhouston",
+        "score": 530,
+        "descendants": 532,
+        "time": 1787750912,
+        "comments_url": "https://news.ycombinator.com/item?id=49448819"
+      },
+      "hot_score": 0.9,
+      "tags": [
+        "Politics",
+        "Legal"
+      ]
+    },
+    {
+      "title_en": "Nebula Sans",
+      "url": "https://www.nebulasans.com",
+      "title_zh": "Nebula Sans 字体",
+      "created_display": "Created: Aug 26, 2026 / 08:03 PT",
+      "image_url": "https://nebulasans.com/img/NebulaSans.jpg",
+      "summary_en": "Nebula Sans is a new font family designed for clean UI typography and legible on-screen text. It supports multiple weights and likely enjoys an open license, making it appealing for UI designers.",
+      "summary_zh": "Nebula Sans 是一个新字体家族，专为清晰的界面排版与屏幕阅读而设计，支持多种字重。它可能采用开源许可，适合 UI 设计师在不同平台上使用。",
+      "hn": {
+        "id": 49450448,
+        "type": "story",
+        "by": "GavinAnderegg",
+        "score": 456,
+        "descendants": 194,
+        "time": 1787756632,
+        "comments_url": "https://news.ycombinator.com/item?id=49450448"
+      },
+      "tags": [
+        "Design"
+      ],
+      "hot_score": 0.84
+    },
+    {
+      "title_en": "Worst-case glacial lake flood scenarios in a transboundary Himalayan basin 2022",
+      "url": "https://nhess.copernicus.org/articles/22/3765/2022/nhess-22-3765-2022.html",
+      "title_zh": "跨境喜马拉雅盆地的最坏情况冰川湖洪水情景（2022）",
+      "created_display": "Created: Aug 26, 2026 / 15:44 PT",
+      "image_url": "https://nhess.copernicus.org/articles/22/3765/2022/nhess-22-3765-2022-avatar-web.png",
+      "summary_en": "The 2022 study models worst-case glacial-lake flood scenarios in a transboundary Himalayan basin, highlighting potential cross-border impacts and the need for regional risk management and early warning systems in the context of climate change.",
+      "summary_zh": "该研究对跨境喜马拉雅盆地的冰川湖洪水极端情景进行了建模，揭示了潜在的跨境影响以及区域协作与预警系统在气候变化背景下的必要性。",
+      "hn": {
+        "id": 49456929,
+        "type": "story",
+        "by": "totetsu",
+        "score": 269,
+        "descendants": 192,
+        "time": 1787784243,
+        "comments_url": "https://news.ycombinator.com/item?id=49456929"
+      },
+      "tags": [
+        "Science"
+      ],
+      "hot_score": 0.8
+    },
+    {
+      "title_en": "The Hugging Face incident and the road ahead",
+      "url": "https://openai.com/index/hugging-face-incident-and-the-road-ahead/",
+      "title_zh": "Hugging Face 事件及未来方向",
+      "created_display": "Created: Aug 26, 2026 / 12:15 PT",
+      "image_url": "https://images.ctfassets.net/kftzwdyauwt9/7jbTfQbHvOuLnJtYMi64y4/12f03addd9350bb3b4c359071aab7e45/hero-dark-social-v6.png?w=1600&h=900&fit=fill",
+      "summary_en": "The piece reviews a notable incident at Hugging Face and outlines a path forward focusing on governance, security, and responsible AI collaboration. It emphasizes balancing openness with safety and compliance.",
+      "summary_zh": "文章回顾了 Hugging Face 的一起重要事件，并提出未来的治理、安全与负责任的 AI 合作方向，强调在开放性与安全合规之间寻求平衡。",
+      "hn": {
+        "id": 49454314,
+        "type": "story",
+        "by": "amrrs",
+        "score": 328,
+        "descendants": 436,
+        "time": 1787771723,
+        "comments_url": "https://news.ycombinator.com/item?id=49454314"
+      },
+      "tags": [
+        "AI",
+        "Security"
+      ],
+      "hot_score": 0.77
+    },
+    {
+      "title_en": "CoMaps: The Offline App That Guided Rescuers Without a Signal in Venezuela",
+      "url": "https://hotosm.org/en/news/comaps-the-offline-app-that-guided-rescuers-without-a-signal-in-the-venezuela-response/",
+      "title_zh": "CoMaps：在委内瑞拉无信号时引导救援的离线应用",
+      "created_display": "Created: Aug 26, 2026 / 10:20 PT",
+      "image_url": "https://hotosm-website.s3.us-east-1.amazonaws.com/images/facebook-logo.original.png",
+      "summary_en": "CoMaps is an offline mapping app used in Venezuela to guide rescuers when mobile networks fail. The project demonstrates how offline GIS tools can enable rapid humanitarian response in connectivity-challenged emergencies.",
+      "summary_zh": "CoMaps 是一款离线地图应用，在委内瑞拉无信号时为救援人员提供路线指引。该项目展示了离线 GIS 工具在网络受限的紧急救援中对快速响应的贡献。",
+      "hn": {
+        "id": 49452671,
+        "type": "story",
+        "by": "gedankenstuecke",
+        "score": 327,
+        "descendants": 82,
+        "time": 1787764812,
+        "comments_url": "https://news.ycombinator.com/item?id=49452671"
+      },
+      "tags": [
+        "Data",
+        "Web"
+      ],
+      "hot_score": 0.69
+    },
+    {
+      "title_en": "The turbulent AI era is here",
+      "url": "https://www.gatesnotes.com/a-turbulent-ai-era-and-critical-choices-to-make",
+      "title_zh": "动荡的 AI 时代已经到来",
+      "created_display": "Created: Aug 26, 2026 / 08:55 PT",
+      "image_url": null,
+      "summary_en": "Gates notes discuss how rapid AI advancements create a turbulent landscape and the critical governance, safety, and ethical choices leaders must make now. The piece emphasizes proactive planning and collaboration.",
+      "summary_zh": "盖茨在笔记中讨论了快速发展的 AI 所带来的动荡格局，以及领导者现在必须做出的治理、安全与伦理选择。文章强调前瞻性规划与跨界协作的重要性。",
+      "hn": {
+        "id": 49451313,
+        "type": "story",
+        "by": "LVB",
+        "score": 342,
+        "descendants": 351,
+        "time": 1787759715,
+        "comments_url": "https://news.ycombinator.com/item?id=49451313"
+      },
+      "tags": [
+        "AI",
+        "Politics"
+      ],
+      "hot_score": 0.66
+    },
+    {
+      "title_en": "RAG Is Simpler Than You Think",
+      "url": "https://www.lighthousenewsletter.com/p/rag-is-simpler-than-you-think",
+      "title_zh": "RAG 比你想象的更简单",
+      "created_display": "Created: Aug 26, 2026 / 01:39 PT",
+      "image_url": "https://substackcdn.com/image/fetch/$s_!yF7E!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F03ad851c-75b8-4afe-ae16-fd98c8e61836_1920x1280.jpeg",
+      "summary_en": "A concise explainer demystifies retrieval-augmented generation, outlining core components and practical patterns for building RAG systems.",
+      "summary_zh": "简要解析让 Retrieval-Augmented Generation(检索增强生成)不再神秘，梳理核心组件与落地实践模式。",
+      "hn": {
+        "id": 49445727,
+        "type": "story",
+        "by": "j0selit0",
+        "score": 485,
+        "descendants": 203,
+        "time": 1787733557,
+        "comments_url": "https://news.ycombinator.com/item?id=49445727"
+      },
+      "tags": [
+        "AI",
+        "Programming"
+      ],
+      "hot_score": 0.65
+    },
+    {
+      "title_en": "Stripe acquires Clerky",
+      "url": "https://www.clerky.com/blog/clerky-is-joining-stripe",
+      "title_zh": "Stripe 收购 Clerky",
+      "created_display": "Created: Aug 26, 2026 / 14:09 PT",
+      "image_url": "https://cdn.prod.website-files.com/63d301263ccf9b604207d3a6/6a8f45e92158abde2d4dbc26_stripe-clerky%204.png",
+      "summary_en": "Stripe expands entrepreneurial tooling by acquiring Clerky, boosting its startup formation and compliance offerings; Clerky's automation for filings and KYC will integrate with Stripe's payments and treasury tools, accelerating onboarding for startups.",
+      "summary_zh": "Stripe 收购 Clerky，增强对初创企业成立和合规的工具链。Clerky 的文书自动化与合规流程将与 Stripe 的支付与资金管理工具深度整合，加速初创企业的上线流程。",
+      "hn": {
+        "id": 49455956,
+        "type": "story",
+        "by": "zakshay",
+        "score": 244,
+        "descendants": 57,
+        "time": 1787778572,
+        "comments_url": "https://news.ycombinator.com/item?id=49455956"
+      },
+      "tags": [
+        "Business",
+        "Startups"
+      ],
+      "hot_score": 0.65
+    },
+    {
+      "title_en": "Z.ai confirms Ox Alpha is a new GLM-series model and will release its weights",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-26/china-s-z-ai-made-ox-alpha-stealth-model-that-rivals-deepseek",
+      "title_zh": "Z.ai 确认 Ox Alpha 是新 GLM 系列模型，将发布权重",
+      "created_display": "Created: Aug 26, 2026 / 03:04 PT",
+      "image_url": null,
+      "summary_en": "Z.ai confirms that Ox Alpha is a new GLM-series model and will release its weights, signaling a push toward open-weight AI models and fiercer competition in the LLM space.",
+      "summary_zh": "Z.ai 确认 Ox Alpha 是新的 GLM 系列模型，将发布权重，表明向开源权重模型迈进，激化了大型语言模型领域的竞争。",
+      "hn": {
+        "id": 49446422,
+        "type": "story",
+        "by": "garo-pro",
+        "score": 429,
+        "descendants": 145,
+        "time": 1787738695,
+        "comments_url": "https://news.ycombinator.com/item?id=49446422"
+      },
+      "tags": [
+        "AI",
+        "Open Source"
+      ],
+      "hot_score": 0.62
+    },
+    {
+      "title_en": "GitHub Outage Tracker: Is GitHub Cooked?",
+      "url": "https://isgithubcooked.com/",
+      "title_zh": "GitHub 宕机追踪器：GitHub 是否出了大问题？",
+      "created_display": "Created: Aug 26, 2026 / 12:43 PT",
+      "image_url": "https://isgithubcooked.com/og.github.png",
+      "summary_en": "Outage tracker aggregates incidents and uptime data for GitHub, raising questions about the reliability of essential dev tooling and how teams plan for outages.",
+      "summary_zh": "该站点汇总 GitHub 的宕机事件与可用性数据，强调开发者工具的可靠性以及团队在面对不可用时的应对策略。",
+      "hn": {
+        "id": 49454728,
+        "type": "story",
+        "by": "toomanyrichies",
+        "score": 251,
+        "descendants": 173,
+        "time": 1787773428,
+        "comments_url": "https://news.ycombinator.com/item?id=49454728"
+      },
+      "tags": [
+        "DevOps",
+        "Programming"
+      ],
+      "hot_score": 0.61
+    },
+    {
+      "title_en": "FDA approves first in class targeted therapy for metastatic pancreatic cancer",
+      "url": "https://www.fda.gov/news-events/press-announcements/fda-approves-first-class-targeted-therapy-metastatic-pancreatic-cancer",
+      "title_zh": "FDA 批准首个同类靶向治疗用于转移性胰腺癌",
+      "created_display": "Created: Aug 26, 2026 / 09:19 PT",
+      "image_url": "https://www.fda.gov/themes/custom/preview/img/FDA-Social-Graphic.png",
+      "summary_en": "FDA approves a first-in-class targeted therapy for metastatic pancreatic cancer, marking progress in precision oncology. The approval is based on targeting a specific mutation and could expand treatment options for patients with this aggressive cancer.",
+      "summary_zh": "FDA 批准了首个同类靶向治疗用于转移性胰腺癌，代表精准肿瘤治疗的一步进展。该药物针对特定突变，或为这类晚期患者带来新的治疗选项。",
+      "hn": {
+        "id": 49451675,
+        "type": "story",
+        "by": "leopoldj",
+        "score": 278,
+        "descendants": 70,
+        "time": 1787761143,
+        "comments_url": "https://news.ycombinator.com/item?id=49451675"
+      },
+      "tags": [
+        "Health"
+      ],
+      "hot_score": 0.55
+    },
+    {
+      "title_en": "France reaches 94.9% fiber coverage in 2026",
+      "url": "https://cartefibre.arcep.fr",
+      "title_zh": "法国在2026年实现94.9%光纤覆盖率",
+      "created_display": "Created: Aug 26, 2026 / 06:32 PT",
+      "image_url": "https://cartefibre.arcep.fr/img/logoArcep.png",
+      "summary_en": "France closes in on universal broadband with 94.9% fiber coverage in 2026, reflecting ongoing efforts by regulators and operators. While the reach is high, rural gaps persist, keeping the push for nationwide gigabit access on the agenda.",
+      "summary_zh": "法国在2026年实现了94.9%的光纤覆盖率，显示监管与运营商在推进普惠宽带方面取得显著进展。尽管覆盖面广，偏远地区的接入差距仍然存在，普及千兆网的目标仍在继续。",
+      "hn": {
+        "id": 49448872,
+        "type": "story",
+        "by": "nehalem501",
+        "score": 312,
+        "descendants": 235,
+        "time": 1787751155,
+        "comments_url": "https://news.ycombinator.com/item?id=49448872"
+      },
+      "hot_score": 0.53,
+      "tags": [
+        "Politics",
+        "Business"
+      ]
+    },
+    {
+      "title_en": "Taylor Farms: How One Company's Reach Became a National Risk",
+      "url": "https://farmaction.us/taylorfarmsreport/",
+      "title_zh": "Taylor Farms：一个公司影响力如何成为全国性风险",
+      "created_display": "Created: Aug 26, 2026 / 07:21 PT",
+      "image_url": "https://farmaction.us/wp-content/uploads/2026/08/Screenshot-2026-08-13-at-2.37.43-PM.png",
+      "summary_en": "A Farm Action report argues that Taylor Farms' scale and supplier network create systemic risks to food supply, workers’ rights, and market competition. The piece calls for greater transparency and regulatory oversight.",
+      "summary_zh": "Farm Action 的报告认为 Taylor Farms 的规模与供应链网络会带来食品供应、劳工权益和市场竞争的系统性风险。该文呼吁提高透明度并加强监管。",
+      "hn": {
+        "id": 49449749,
+        "type": "story",
+        "by": "speckx",
+        "score": 296,
+        "descendants": 201,
+        "time": 1787754104,
+        "comments_url": "https://news.ycombinator.com/item?id=49449749"
+      },
+      "tags": [
+        "Business",
+        "Politics"
+      ],
+      "hot_score": 0.53
+    },
+    {
+      "title_en": "Disruption with Some GitHub Services – Resolved",
+      "url": "https://www.githubstatus.com/incidents/hcbtzksccj2f",
+      "title_zh": "部分 GitHub 服务中断已解决",
+      "created_display": "Created: Aug 26, 2026 / 08:19 PT",
+      "image_url": "https://dka575ofm4ao0.cloudfront.net/pages-twitter_logos/original/36420/GitHub-Mark-120px-plus.png",
+      "summary_en": "A partial outage affected a subset of GitHub services; the incident has been resolved. The event underscores the fragility of cloud-based developer tooling and the importance of status transparency and resilience planning.",
+      "summary_zh": "部分 GitHub 服务曾发生中断，现已修复。事件凸显云端开发工具的脆弱性，也再次强调透明的状态通报和系统韧性的重要性。",
+      "hn": {
+        "id": 49450722,
+        "type": "story",
+        "by": "blimmer",
+        "score": 262,
+        "descendants": 168,
+        "time": 1787757580,
+        "comments_url": "https://news.ycombinator.com/item?id=49450722"
+      },
+      "hot_score": 0.49,
+      "tags": [
+        "DevOps",
+        "Programming"
+      ]
+    },
+    {
+      "title_en": "It’s so hard to finish an idea that is not yours and is just suggested by AI",
+      "url": "https://www.ssp.sh/brain/using-obsidian-with-ai/",
+      "title_zh": "以 AI 提示的创意难以完成：非原创想法的落地经验",
+      "created_display": "Created: Aug 26, 2026 / 08:30 PT",
+      "image_url": "https://www.ssp.sh/brain/img_Using Obsidian with AI_1777561068414.webp",
+      "summary_en": "An essay argues that finishing ideas not originated by you and largely driven by AI is tough, touching on ownership, authorship, and the friction of integrating AI-generated concepts into live projects.",
+      "summary_zh": "文章指出，完成非你原创且由 AI 提示却成形的创意很困难，涉及所有权、署名及将 AI 生成的想法落地时的阻力。",
+      "hn": {
+        "id": 49450898,
+        "type": "story",
+        "by": "zazuke",
+        "score": 247,
+        "descendants": 162,
+        "time": 1787758205,
+        "comments_url": "https://news.ycombinator.com/item?id=49450898"
+      },
+      "tags": [
+        "AI",
+        "Culture"
+      ],
+      "hot_score": 0.47
+    },
+    {
+      "title_en": "The Tariff Cost: analysis of the costs to Americans from new tariffs on Canada",
+      "url": "https://thetariffcost.com/",
+      "title_zh": "关税成本：对美国人因对加拿大新关税产生的成本分析",
+      "created_display": "Created: Aug 26, 2026 / 10:54 PT",
+      "image_url": "https://thetariffcost.com/share/card.png",
+      "summary_en": "A dedicated analysis estimates how new Canada-targeted tariffs raise prices for American consumers and squeeze supply chains. The study highlights potential consumer impact and policy trade-offs.",
+      "summary_zh": "一项专门分析评估了针对加拿大的新关税如何提高美国消费者价格、挤压供应链。研究强调对消费者的潜在影响及政策权衡。",
+      "hn": {
+        "id": 49453161,
+        "type": "story",
+        "by": "mikestorrent",
+        "score": 218,
+        "descendants": 281,
+        "time": 1787766891,
+        "comments_url": "https://news.ycombinator.com/item?id=49453161"
+      },
+      "tags": [
+        "Politics",
+        "Business"
+      ],
+      "hot_score": 0.47
+    },
+    {
+      "title_en": "Omarchy development practices lead to predictable security issues",
+      "url": "https://blog.happyfellow.dev/merchants-of-insecurity/",
+      "title_zh": "Omarchy 的开发实践导致可预见的安全问题",
+      "created_display": "Created: Aug 26, 2026 / 05:17 PT",
+      "image_url": "https://blog.happyfellow.dev/static/og-image.png",
+      "summary_en": "A critique of Omarchy-style development shows recurring security flaws rooted in common patterns and defaults. The piece argues for security-by-design, better supply-chain hygiene, and proactive threat modeling to break the cycle.",
+      "summary_zh": "对 Omarchy 风格开发模式的批评指出，常见模式和默认设置会带来重复性的安全漏洞。文章主张从设计之初考虑安全、加强供应链治理并进行前瞻性威胁建模，以打破恶性循环。",
+      "hn": {
+        "id": 49447682,
+        "type": "story",
+        "by": "arn3n",
+        "score": 291,
+        "descendants": 435,
+        "time": 1787746663,
+        "comments_url": "https://news.ycombinator.com/item?id=49447682"
+      },
+      "hot_score": 0.46,
+      "tags": [
+        "Security",
+        "DevOps"
+      ]
+    },
+    {
+      "title_en": "Mold: A Massively Parallel Linker",
+      "url": "https://arxiv.org/abs/2608.23228",
+      "title_zh": "Mold 是一个大规模并行的链接器",
+      "created_display": "Created: Aug 26, 2026 / 13:37 PT",
+      "image_url": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+      "summary_en": "Mold is a massively parallel linker designed to speed up builds by distributing linking work across many cores; it promises faster startup and scalable performance for large C/C++ projects.",
+      "summary_zh": "Mold 是一个大规模并行的链接器，通过将链接任务分发到多核上来加速构建，可显著缩短启动时间并提升大规模项目的性能。",
+      "hn": {
+        "id": 49455530,
+        "type": "story",
+        "by": "matt_d",
+        "score": 181,
+        "descendants": 29,
+        "time": 1787776622,
+        "comments_url": "https://news.ycombinator.com/item?id=49455530"
+      },
+      "tags": [
+        "Programming",
+        "Startups"
+      ],
+      "hot_score": 0.46
+    },
+    {
+      "title_en": "The Harness Is the Thing",
+      "url": "https://scott-fryxell.github.io/blog/the-harness-is-the-thing/",
+      "title_zh": "The Harness Is the Thing",
+      "created_display": "Created: Aug 26, 2026 / 09:59 PT",
+      "image_url": "https://scott-fryxell.github.io/og/Scott%20Fryxell%20%40%20Sunday%20evening%2C%20April%2012%20-%201776042845045.jpg",
+      "summary_en": "A concise take argues that the 'harness'—the enabling framework—defines the quality and reliability of a system or process.",
+      "summary_zh": "简短的观点指出，关键在于“工具与框架”的把握，它决定了系统的质量与可靠性。",
+      "hn": {
+        "id": 49452346,
+        "type": "story",
+        "by": "sfryxell",
+        "score": 199,
+        "descendants": 116,
+        "time": 1787763599,
+        "comments_url": "https://news.ycombinator.com/item?id=49452346"
+      },
+      "tags": [
+        "Programming"
+      ],
+      "hot_score": 0.41
+    },
+    {
+      "title_en": "US sanctions Italian hosting provider Autistici Inventati",
+      "url": "https://home.treasury.gov/news/press-releases/sb0616",
+      "title_zh": "美国对意大利主机托管商 Autistici Inventati 实施制裁",
+      "created_display": "Created: Aug 26, 2026 / 08:56 PT",
+      "image_url": "https://home.treasury.gov/system/files/291/treasury-preview-1900x950.jpg",
+      "summary_en": "The U.S. Treasury designated Autistici Inventati, the Italian hosting provider known for privacy-focused and activist projects, under its sanctions program. The designation restricts access to U.S. financial networks and services, complicating hosting for users.",
+      "summary_zh": "美国财政部对以隐私与倡议项目著称的意大利主机托管商 Autistici Inventati 实施制裁，限制其在美金融网络与服务的访问，对相关用户的托管运营带来不确定性。",
+      "hn": {
+        "id": 49451343,
+        "type": "story",
+        "by": "unfocso",
+        "score": 206,
+        "descendants": 212,
+        "time": 1787759809,
+        "comments_url": "https://news.ycombinator.com/item?id=49451343"
+      },
+      "hot_score": 0.4,
+      "tags": [
+        "Legal",
+        "Privacy"
+      ]
+    },
+    {
+      "title_en": "XCancel and Nitter are receiving C&D letters from XCorp",
+      "url": "https://news.ycombinator.com/item?id=49446210",
+      "title_zh": "XCorp 向 XCancel 与 Nitter 发出停止令",
+      "created_display": "Created: Aug 26, 2026 / 02:34 PT",
+      "image_url": "https://news.ycombinator.com/y18.svg",
+      "summary_en": "XCorp is sending cease-and-desist notices to third-party frontends like XCancel and Nitter that access the platform. The move highlights tension between platform-controlled APIs and open web interfaces, with implications for developers who rely on alternate access points.",
+      "summary_zh": "XCorp 向第三方前端 XCancel 与 Nitter 发出停止令，限制其对 X 平台的访问。这一举动凸显平台端 API 控制与开放前端之间的矛盾，对依赖替代访问点的开发者产生影响。",
+      "hn": {
+        "id": 49446210,
+        "type": "story",
+        "by": "mobilio",
+        "score": 282,
+        "descendants": 3,
+        "time": 1787736878,
+        "comments_url": "https://news.ycombinator.com/item?id=49446210"
+      },
+      "hot_score": 0.39,
+      "tags": [
+        "Legal"
+      ]
+    },
+    {
+      "title_en": "Fake US thinktank set up and funded by Israel sought to game AI for propaganda",
+      "url": "https://www.theguardian.com/world/2026/aug/26/fake-thinktank-israel-ai-propaganda",
+      "title_zh": "由以色列资助的假想智库企图利用 AI 进行宣传",
+      "created_display": "Created: Aug 26, 2026 / 05:11 PT",
+      "image_url": "https://i.guim.co.uk/img/media/4c5be9b6f1682a9aafe9cbdc94c89a258fa5cec5/999_0_5001_4000/master/5001.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e4f8b5b0eb4778568ef5affd89f99ad4",
+      "summary_en": "A fake think tank allegedly funded by Israel attempted to push AI-generated propaganda and manipulate public discourse. The case illustrates how AI can be leveraged in influence operations and the need for provenance checks and media literacy in the information ecosystem.",
+      "summary_zh": "一假想智库据称受到以色列资助，企图利用 AI 生成宣传内容以影响舆论。事件揭示了人工智能在信息战中的潜在风险，凸显对信息来源溯源和提升媒体素养的必要性。",
+      "hn": {
+        "id": 49447600,
+        "type": "story",
+        "by": "n1b0m",
+        "score": 243,
+        "descendants": 49,
+        "time": 1787746279,
+        "comments_url": "https://news.ycombinator.com/item?id=49447600"
+      },
+      "hot_score": 0.39,
+      "tags": [
+        "AI",
+        "Politics"
+      ]
+    },
+    {
+      "title_en": "Queryable Executables",
+      "url": "https://fzakaria.com/2026/08/24/actually-queryable-executables",
+      "title_zh": "可查询的可执行文件",
+      "created_display": "Created: Aug 25, 2026 / 17:20 PT",
+      "image_url": "https://fzakaria.com/assets/images/sqlite_is_life.png",
+      "summary_en": "Queryable Executables explores making binaries self-describing and introspectable, enabling easier debugging, tracing, and tooling around compiled programs.",
+      "summary_zh": "可查询的可执行文件探讨让二进制文件具备自描述和可自检能力，从而简化调试、追踪和相关工具的使用。",
+      "hn": {
+        "id": 49442589,
+        "type": "story",
+        "by": "rguiscard",
+        "score": 329,
+        "descendants": 86,
+        "time": 1787703649,
+        "comments_url": "https://news.ycombinator.com/item?id=49442589"
+      },
+      "tags": [
+        "Programming"
+      ],
+      "hot_score": 0.31
+    },
+    {
+      "title_en": "The turbulent AI era is here",
+      "url": "https://www.gatesnotes.com/work/make-ai-work-for-everyone/reader/a-turbulent-ai-era-and-critical-choices-to-make",
+      "title_zh": "动荡的AI时代已来临",
+      "created_display": "Created: Aug 26, 2026 / 05:47 PT",
+      "image_url": null,
+      "summary_en": "Bill Gates argues we are entering a turbulent AI era with rapid breakthroughs, economic disruption, and governance challenges. He calls for deliberate investments in safety, workforce transition, and inclusive access to ensure AI benefits are widely shared.",
+      "summary_zh": "比尔·盖茨指出，我们正进入一个充满突破、经济变革和治理挑战的动荡AI时代。他呼吁在安全、劳动力转型与包容性方面进行深思熟虑的投资，以确保AI的红利得到广泛分享。",
+      "hn": {
+        "id": 49448137,
+        "type": "story",
+        "by": "ilamont",
+        "score": 189,
+        "descendants": 1,
+        "time": 1787748467,
+        "comments_url": "https://news.ycombinator.com/item?id=49448137"
+      },
+      "hot_score": 0.31,
+      "tags": [
+        "AI",
+        "Politics"
+      ]
+    },
+    {
+      "title_en": "U.S. gov't moves to suppress pushback on data centers",
+      "url": "https://www.tomshardware.com/tech-industry/data-centers/u-s-govt-moves-to-suppress-pushback-on-data-centers-by-removing-requirements-for-public-input-on-pollution-epa-change-would-allow-air-pollution-permits-without-publicizing-them",
+      "title_zh": "美国政府推进削弱对数据中心的公众参与",
+      "created_display": "Created: Aug 26, 2026 / 03:44 PT",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/Mp6a5T3nkbtP8cssNG5sb9-2000-80.jpg",
+      "summary_en": "The administration proposes changes that curb public input on pollution permits for data centers, potentially accelerating permitting. Critics warn this reduces environmental oversight and equity in communities likely to bear data-center pollution.",
+      "summary_zh": "政府提议削弱对数据中心污染许可的公众意见权，可能加快审批流程。批评者担心这会削弱环境监督与对可能承受数据中心污染的社区的公平性。",
+      "hn": {
+        "id": 49446748,
+        "type": "story",
+        "by": "rbanffy",
+        "score": 177,
+        "descendants": 153,
+        "time": 1787741080,
+        "comments_url": "https://news.ycombinator.com/item?id=49446748"
+      },
+      "hot_score": 0.26,
+      "tags": [
+        "Politics",
+        "Business"
+      ]
+    },
+    {
+      "title_en": "Oldinsurancemaps.net is now a Charter Project",
+      "url": "https://openstreetmap.us/news/2026/08/oim-charter-project/",
+      "title_zh": "Oldinsurancemaps.net 成为 Charter 项目",
+      "created_display": "Created: Aug 26, 2026 / 01:57 PT",
+      "image_url": "https://openstreetmap.us/img/posts/2026-08-oim-blog-header.jpg",
+      "summary_en": "Oldinsurancemaps.net has joined the OpenStreetMap Charter Project, signaling formal governance and long-term support for mapping historic insurance maps. The move helps preserve and integrate vintage geospatial data for researchers and communities.",
+      "summary_zh": "Oldinsurancemaps.net 已成为 OpenStreetMap 的 Charter 项目，标志着正式治理与长期支持用于绘制历史保险地图。此举有助于保存并整合历史地理数据，惠及研究者与社区。",
+      "hn": {
+        "id": 49445873,
+        "type": "story",
+        "by": "altilunium",
+        "score": 183,
+        "descendants": 33,
+        "time": 1787734666,
+        "comments_url": "https://news.ycombinator.com/item?id=49445873"
+      },
+      "hot_score": 0.25,
+      "tags": [
+        "Open Source",
+        "Data"
+      ]
+    },
+    {
+      "title_en": "XCancel also down, at least for time being",
+      "url": "https://news.ycombinator.com/item?id=49440786",
+      "title_zh": "XCancel 暂时宕机，至少暂时无法使用",
+      "created_display": "Created: Aug 25, 2026 / 14:18 PT",
+      "image_url": "https://news.ycombinator.com/y18.svg",
+      "summary_en": "XCancel is down for the time being, illustrating how third-party front-ends relying on platform APIs can be fragile in times of platform outages or policy shifts.",
+      "summary_zh": "XCancel 暂时宕机，说明依赖平台 API 的第三方前端在平台故障或策略变动时容易受影响。",
+      "hn": {
+        "id": 49440786,
+        "type": "story",
+        "by": "orange999",
+        "score": 238,
+        "descendants": 2,
+        "time": 1787692703,
+        "comments_url": "https://news.ycombinator.com/item?id=49440786"
+      },
+      "tags": [
+        "DevOps"
+      ],
+      "hot_score": 0.2
+    },
+    {
+      "title_en": "Python's pre-declared constants are kinda weird",
+      "url": "https://sebsite.pw/w/20260801-pythonconstants.html",
+      "title_zh": "Python 的预声明常量有点怪",
+      "created_display": "Created: Aug 25, 2026 / 14:39 PT",
+      "image_url": null,
+      "summary_en": "A critique of Python's pre-declared constants discusses readability, mutability expectations, and possible API clarifications to reduce confusion.",
+      "summary_zh": "对 Python 预声明常量的批评，讨论可读性、可变性期望及可能的 API 澄清，以减少混淆。",
+      "hn": {
+        "id": 49441033,
+        "type": "story",
+        "by": "rbanffy",
+        "score": 186,
+        "descendants": 227,
+        "time": 1787693942,
+        "comments_url": "https://news.ycombinator.com/item?id=49441033"
+      },
+      "tags": [
+        "Programming"
+      ],
+      "hot_score": 0.16
+    }
+  ]
+}

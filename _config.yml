@@ -1,0 +1,16 @@
+title: Hacker News Daily
+description: Daily, weekly, and monthly Hacker News digests
+url: "https://chaowang15.github.io"
+baseurl: "/hackernews"
+timezone: America/Los_Angeles
+
+exclude:
+  - .github/
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README.md
+  - logs/
+  - news_config.yml
+  - news_scraper/
+  - requirements.txt

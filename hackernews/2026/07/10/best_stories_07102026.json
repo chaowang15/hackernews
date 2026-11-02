@@ -1,0 +1,1165 @@
+{
+  "meta": {
+    "mode": "best",
+    "source": "https://news.ycombinator.com/",
+    "api": "https://github.com/HackerNews/API",
+    "count_requested": 50,
+    "count_written": 50,
+    "reused_same_day": 0,
+    "reused_cross_day": 19,
+    "new_llm_enriched": 10,
+    "scrape_time_display": "06:26, July 11, 2026 (PDT)",
+    "timezone": "America/Los_Angeles",
+    "date_dir": "2026/07/10",
+    "content_date": "2026-07-10",
+    "run_time_local": "06:26, July 11, 2026 (PDT)",
+    "run_time_utc": "2026-07-11 13:26:38 UTC",
+    "incremental": true,
+    "stories_max": 50,
+    "hot_score_time_utc": "2026-07-11 13:27:52 UTC"
+  },
+  "items": [
+    {
+      "title_en": "Apple sues OpenAI, accuses ex-employees of stealing trade secrets",
+      "url": "https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/",
+      "title_zh": "苹果控告 OpenAI，指控前员工窃取商业机密",
+      "created_display": "Created: Jul 10, 2026 / 13:47 PT",
+      "image_url": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/05/apple-openai.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "summary_en": "A high-profile lawsuit pits Apple against OpenAI over alleged misappropriation of trade secrets by former OpenAI staff. The case centers on proprietary AI techniques and internal data siphoned during a transition, signaling growing tension as big tech fights over AI talent. The outcome could influence how firms protect confidential knowledge during acquisitions and departures.",
+      "summary_zh": "一起备受关注的诉讼指控苹果指控OpenAI及其前员工窃取商业机密，聚焦于AI技术与内部数据的可能外泄。此案凸显大型科技公司在人才流动与知识保护方面的博弈，将影响企业在并购和员工离职时的机密信息防护策略。",
+      "hn": {
+        "id": 48865019,
+        "type": "story",
+        "by": "stock_toaster",
+        "score": 1224,
+        "descendants": 648,
+        "time": 1783716429,
+        "comments_url": "https://news.ycombinator.com/item?id=48865019"
+      },
+      "tags": [
+        "Legal",
+        "Business",
+        "AI"
+      ],
+      "hot_score": 6.3
+    },
+    {
+      "title_en": "New York City to ban deceptive subscription practices",
+      "url": "https://www.theguardian.com/us-news/2026/jul/10/new-york-city-deceptive-subscriptions-ban",
+      "title_zh": "纽约市将禁止欺骗性订阅行为",
+      "created_display": "Created: Jul 10, 2026 / 11:26 PT",
+      "image_url": "https://i.guim.co.uk/img/media/b522a4563292b5972c9443aa2001a8637f1266b5/72_226_2591_2073/master/2591.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8576dc8571bc0efaa7b0ef0eb44b88fa",
+      "summary_en": "New York City plans to ban deceptive subscription practices, including auto-renewal traps and hidden charges. The move aims to improve consumer protection and force clearer disclosures from subscription-based services, potentially reshaping how onboarding and renewal terms are presented online. This could raise the bar for startups and platforms relying on subscription models.",
+      "summary_zh": "纽约市拟禁止欺骗性订阅行为，包括自动续订陷阱与隐藏费用，提升消费保护。此举将促使订阅型服务在用户注册与续订条款上提供更清晰的披露，或对采用订阅模式的企业带来影响。",
+      "hn": {
+        "id": 48863464,
+        "type": "story",
+        "by": "randycupertino",
+        "score": 560,
+        "descendants": 276,
+        "time": 1783707984,
+        "comments_url": "https://news.ycombinator.com/item?id=48863464"
+      },
+      "tags": [
+        "Politics",
+        "Business"
+      ],
+      "hot_score": 2.33
+    },
+    {
+      "title_en": "The vintage beauty of Soviet control rooms (2018)",
+      "url": "https://designyoutrust.com/2018/01/vintage-beauty-soviet-control-rooms/",
+      "title_zh": "苏联控制室的复古之美（2018）",
+      "created_display": "Created: Jul 10, 2026 / 22:19 PT",
+      "image_url": "https://designyoutrust.com/wp-content/uploads/2018/01/1-17.jpg",
+      "summary_en": "These rooms showcase vast, modular consoles, glowing CRT displays, and tactile controls that reflect Soviet-era computing and operational culture. The imagery highlights a design language where humans and machines coexisted in the control room, a contrast to today’s lean dashboards. The piece is a reminder that industrial aesthetics can influence contemporary UI/UX design.",
+      "summary_zh": "这些照片展示了广阔的模组化控制台、发光的 CRT 显示和大量触控旋钮，映射出苏联时代的计算与运维文化。其设计语言强调人机共处的工作场景，与今日的简洁仪表板形成对照。该组影像提醒人们，工业美学仍能影响现代 UI/UX 设计。",
+      "hn": {
+        "id": 48868996,
+        "type": "story",
+        "by": "mvdtnz",
+        "score": 144,
+        "descendants": 47,
+        "time": 1783747181,
+        "comments_url": "https://news.ycombinator.com/item?id=48868996"
+      },
+      "tags": [
+        "Design",
+        "Culture"
+      ],
+      "hot_score": 2.21
+    },
+    {
+      "title_en": "QuadRF can spot drones and see WiFi through my wall",
+      "url": "https://www.jeffgeerling.com/blog/2026/quadrf-can-spot-drones-and-see-wifi-through-my-wall/",
+      "title_zh": "QuadRF 能侦测无人机并穿墙探测 WiFi 信号",
+      "created_display": "Created: Jul 10, 2026 / 08:59 PT",
+      "image_url": "https://www.jeffgeerling.com/blog/2026/quadrf-can-spot-drones-and-see-wifi-through-my-wall/quadrf-antennna-array.jpeg",
+      "summary_en": "QuadRF demonstrates that RF sensing can reveal both drone activity and WiFi signals through walls. This kind of passive observation highlights security and privacy implications for home networks and aerial devices, even when devices aren't in visible sight. It also underscores practical limits like range, clutter, and legal boundaries.",
+      "summary_zh": "QuadRF 展示了射频探测可以在墙后揭示无人机活动和 WiFi 信号。这类被动观测引发对家庭网络和无人机安全与隐私的担忧，同时也暴露出覆盖范围、信号干扰和法律边界等局限。",
+      "hn": {
+        "id": 48861717,
+        "type": "story",
+        "by": "speckx",
+        "score": 633,
+        "descendants": 208,
+        "time": 1783699193,
+        "comments_url": "https://news.ycombinator.com/item?id=48861717"
+      },
+      "tags": [
+        "Security",
+        "Privacy",
+        "Legal"
+      ],
+      "hot_score": 2.16
+    },
+    {
+      "title_en": "GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]",
+      "url": "https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf",
+      "title_zh": "GPT-5.6 Sol Ultra 产出循环双覆盖猜想的证明（PDF）",
+      "created_display": "Created: Jul 10, 2026 / 11:29 PT",
+      "image_url": null,
+      "summary_en": "GPT-5.6 Sol Ultra has produced a proof of the Cycle Double Cover Conjecture, with a PDF provided. If verified, this would mark a notable milestone in AI-assisted formal proofs and could accelerate future mathematical work, but the proof will be rigorously scrutinized by the community. The episode highlights AI's potential to aid deep mathematics while underscoring the need for careful validation.",
+      "summary_zh": "GPT-5.6 Sol Ultra 似乎给出了循环双覆盖猜想的证明，并附有 PDF。若经同行验证，这一成果可能标志着 AI 辅助形式化证明迈出重要一步，或加速后续的数学研究，但证明将接受严格审查。此事凸显 AI 在高深数学领域的潜力，同时也强调需要谨慎验证。",
+      "hn": {
+        "id": 48863490,
+        "type": "story",
+        "by": "scrlk",
+        "score": 484,
+        "descendants": 392,
+        "time": 1783708159,
+        "comments_url": "https://news.ycombinator.com/item?id=48863490"
+      },
+      "tags": [
+        "AI",
+        "Science"
+      ],
+      "hot_score": 2.02
+    },
+    {
+      "title_en": "Einstein's relativity rules chemical bonds in heavy elements, new research shows",
+      "url": "https://www.brown.edu/news/2026-07-09/chemical-bonds-relativity",
+      "title_zh": "新研究称相对论决定重元素的化学键",
+      "created_display": "Created: Jul 10, 2026 / 15:30 PT",
+      "image_url": "https://www.brown.edu/sites/default/files/styles/wide_lrg/public/2026-07/chemistry-stock.jpg?h=1d4b4ebd&itok=Iv8YhdkV",
+      "summary_en": "Relativistic effects become significant in very heavy elements, reshaping electron orbitals and bond strengths. The new work shows that Einstein's relativity plays a decisive role in how chemical bonds form in superheavy elements, with implications for modeling their chemistry and discovering new materials. This challenges non-relativistic intuition that underpins much of chemistry for lighter elements.",
+      "summary_zh": "在极重元素中，相对论效应显著改变电子轨道、键能与分子几何。最新研究表明，爱因斯坦的相对论在超重元素的化学键形成中发挥关键作用，这可能改变对其化学性质的建模与新材料的设计。",
+      "hn": {
+        "id": 48866134,
+        "type": "story",
+        "by": "hhs",
+        "score": 299,
+        "descendants": 117,
+        "time": 1783722644,
+        "comments_url": "https://news.ycombinator.com/item?id=48866134"
+      },
+      "tags": [
+        "Science"
+      ],
+      "hot_score": 1.83
+    },
+    {
+      "title_en": "GPT-5.6",
+      "url": "https://openai.com/index/gpt-5-6/",
+      "title_zh": "GPT-5.6 版本",
+      "created_display": "Created: Jul 09, 2026 / 10:04 PT",
+      "image_url": "https://images.ctfassets.net/kftzwdyauwt9/3T0kxQLJk1VcXVxMwXF97J/4345df401f2b08ed6a1eef88c9588d2e/OAI_ChatGPTWork_ModelBlog_OpenGraph_16x9_1200x630.png?w=1600&h=900&fit=fill",
+      "summary_en": "A new GPT-5.6 model appears, signaling continued iteration on the GPT-5 family. Expect refinements in reasoning, safety, and efficiency, reflecting the ongoing cadence of large language model updates.",
+      "summary_zh": "GPT-5.6 版正逐步进入，表示 GPT-5 系列的持续迭代。预计在推理、安全与效率方面有改进，体现大语言模型更新的持续节奏。",
+      "hn": {
+        "id": 48849066,
+        "type": "story",
+        "by": "logickkk1",
+        "score": 1529,
+        "descendants": 1087,
+        "time": 1783616654,
+        "comments_url": "https://news.ycombinator.com/item?id=48849066"
+      },
+      "tags": [
+        "AI"
+      ],
+      "hot_score": 1.53
+    },
+    {
+      "title_en": "Good Tools Are Invisible",
+      "url": "https://www.gingerbill.org/article/2026/07/10/good-tools-are-invisible/",
+      "title_zh": "好工具往往无形",
+      "created_display": "Created: Jul 10, 2026 / 03:32 PT",
+      "image_url": null,
+      "summary_en": "Great tools fade into the background by design, reducing cognitive load and letting people focus on what matters. The piece cautions that invisibility should not hide value from teams and argues for clear outcomes and good integration.",
+      "summary_zh": "优秀的工具被设计为在工作流中隐形，降低认知负担，让人专注于核心任务。文章提醒不要让它们的价值被忽视，并强调要有清晰的成效与良好的集成。",
+      "hn": {
+        "id": 48858121,
+        "type": "story",
+        "by": "theanonymousone",
+        "score": 485,
+        "descendants": 218,
+        "time": 1783679561,
+        "comments_url": "https://news.ycombinator.com/item?id=48858121"
+      },
+      "tags": [
+        "Programming"
+      ],
+      "hot_score": 1.13
+    },
+    {
+      "title_en": "An update on residential proxies and the scraper situation",
+      "url": "https://lwn.net/SubscriberLink/1080822/990a8a5e2d379085/",
+      "title_zh": "住宅代理与抓取现状更新",
+      "created_display": "Created: Jul 10, 2026 / 12:38 PT",
+      "image_url": "https://static.lwn.net/images/logo/barepenguin-70.webp",
+      "summary_en": "Residential proxies remain a core tool for large-scale scraping, but policy moves and anti-abuse measures are tightening the space. The update points to changes in pricing, reliability, and access that could disrupt data-driven workflows. For developers and researchers, it signals the need for compliant scraping strategies and robust data sourcing.",
+      "summary_zh": "住宅代理仍是大规模抓取的核心工具，但相关政策和反滥用措施正在收紧。更新指出定价、可靠性与获取途径的变化，可能影响需要大量网页数据的工作流。对开发者和研究者而言，意味着需要采取合规的抓取策略与更稳健的数据获取方案。",
+      "hn": {
+        "id": 48864252,
+        "type": "story",
+        "by": "chmaynard",
+        "score": 237,
+        "descendants": 241,
+        "time": 1783712314,
+        "comments_url": "https://news.ycombinator.com/item?id=48864252"
+      },
+      "tags": [
+        "Programming",
+        "Data"
+      ],
+      "hot_score": 1.09
+    },
+    {
+      "title_en": "Late Bronze Age Collapse",
+      "url": "https://acoup.blog/2026/01/30/collections-the-late-bronze-age-collapse-a-very-brief-introduction/",
+      "title_zh": "晚青铜时代崩溃",
+      "created_display": "Created: Jul 10, 2026 / 04:59 PT",
+      "image_url": "https://i0.wp.com/acoup.blog/wp-content/uploads/2026/01/Medinet_Habu_Ramses_III._Tempel_Nordostwand_Abzeichnung_01.jpg?fit=1200%2C595&ssl=1",
+      "summary_en": "The Late Bronze Age collapse refers to a complex, multi-state disruption around 1200 BCE. The post offers a concise introduction to prevailing theories—from drought and famine to invasions and trade breakdown. It matters because it informs how interconnected civilizations can fail, a topic with resonance for modern supply chains and risk management.",
+      "summary_zh": "晚青铜时代崩溃指的是公元前约1200年的多国共同性崩溃，理论包括干旱、饥荒、入侵与贸易网络破裂等。该简介帮助理解为何高度互联的文明体系会崩溃，这对当今的供应链与风险管理仍具启示意义。",
+      "hn": {
+        "id": 48858737,
+        "type": "story",
+        "by": "dmonay",
+        "score": 387,
+        "descendants": 266,
+        "time": 1783684795,
+        "comments_url": "https://news.ycombinator.com/item?id=48858737"
+      },
+      "tags": [
+        "Culture",
+        "Education"
+      ],
+      "hot_score": 0.99
+    },
+    {
+      "title_en": "Show HN: 18 Words",
+      "url": "https://18words.com/",
+      "title_zh": "Show HN: 18 Words",
+      "created_display": "Created: Jul 09, 2026 / 05:48 PT",
+      "image_url": "https://18words.com/og-image.png",
+      "summary_en": "Show HN: 18 Words introduces a minimal writing tool that limits posts to 18 words, prioritizing brevity and speed. It exemplifies a design philosophy where constraints drive clarity and reduce noise.",
+      "summary_zh": "Show HN: 18 Words 展示了一个极简写作工具，帖子被限制为18个单词，强调简洁与快速分享。此举体现了通过约束提升表达清晰度、降低噪声的设计理念。",
+      "hn": {
+        "id": 48845049,
+        "type": "story",
+        "by": "pompomsheep",
+        "score": 1108,
+        "descendants": 352,
+        "time": 1783601332,
+        "comments_url": "https://news.ycombinator.com/item?id=48845049"
+      },
+      "tags": [
+        "Show HN",
+        "Web"
+      ],
+      "hot_score": 0.95
+    },
+    {
+      "title_en": "Write code like a human will maintain it",
+      "url": "https://unstack.io/write-code-like-a-human-will-maintain-it",
+      "title_zh": "编写便于维护的代码",
+      "created_display": "Created: Jul 10, 2026 / 06:33 PT",
+      "image_url": "https://unstack.io/assets/images/us-logo.svg",
+      "summary_en": "Guidelines for writing code that future maintainers can understand. It emphasizes readability, clear naming, modular design, solid tests, and good documentation to reduce long-term maintenance debt. The piece argues that maintenance costs typically exceed initial development, so building with future contributors in mind matters.",
+      "summary_zh": "给未来维护者可读的代码的准则。强调可读的结构、清晰的命名、模块化设计、完善的测试和文档，以降低长期维护成本。指出维护支出通常超过初步开发，因此要以未来协作者的可维护性为目标。",
+      "hn": {
+        "id": 48859701,
+        "type": "story",
+        "by": "ScottWRobinson",
+        "score": 335,
+        "descendants": 288,
+        "time": 1783690380,
+        "comments_url": "https://news.ycombinator.com/item?id=48859701"
+      },
+      "hot_score": 0.95,
+      "tags": [
+        "Programming",
+        "Education"
+      ]
+    },
+    {
+      "title_en": "How the terrorist group Boko Haram uses frontier AI",
+      "url": "https://casp.ac/reports/ai-enabled-terrorism",
+      "title_zh": "恐怖组织博科圣地如何利用前沿人工智能",
+      "created_display": "Created: Jul 10, 2026 / 11:49 PT",
+      "image_url": "https://storage.googleapis.com/gpt-engineer-file-uploads/AwmrFUJUl1Miu5dNMpFBx8P372K3/social-images/social-1783516958074-CASP_Social_Logos_White.webp",
+      "summary_en": "A CASP report documents how Boko Haram leverages frontier AI to plan and execute operations, illustrating the evolving threat of AI-enabled extremism. The findings underscore the need for monitoring, safeguards, and countermeasures to prevent misuse. It also highlights the broader risk landscape as AI technologies spread.",
+      "summary_zh": "一份 CASP 报告揭示博科圣地利用前沿 AI 进行作战计划与行动，体现了 AI 助力极端主义的新演变。研究强调需要加强监控、建立防护措施并制定对策以防止滥用，同时也反映出随着 AI 技术普及，风险格局正在扩大。",
+      "hn": {
+        "id": 48863707,
+        "type": "story",
+        "by": "imustachyou",
+        "score": 214,
+        "descendants": 181,
+        "time": 1783709366,
+        "comments_url": "https://news.ycombinator.com/item?id=48863707"
+      },
+      "tags": [
+        "AI",
+        "Security"
+      ],
+      "hot_score": 0.92
+    },
+    {
+      "title_en": "SpaceX wants to launch 100k more Starlink satellites for 100x the bandwidth",
+      "url": "https://www.zdnet.com/home-and-office/networking/spacex-wants-to-launch-100000-more-starlink-satellites/",
+      "title_zh": "SpaceX计划再发射十万颗 Starlink 卫星以实现百倍带宽",
+      "created_display": "Created: Jul 10, 2026 / 10:51 PT",
+      "image_url": "https://www.zdnet.com/a/img/resize/2d7049a36d241cdf177935c0c0df5f03a2d52bf7/2026/07/10/f550fe8f-37ce-4eb1-b39c-c1e306d05a74/gettyimages-2280481321.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "summary_en": "SpaceX aims to deploy up to 100,000 new Starlink satellites to boost total bandwidth by around 100x. The plan would dramatically reshape global connectivity, but faces colossal challenges in propulsion, spectrum, orbital debris, and regulatory approvals. If realized, it could push internet access to remote regions while stressing space logistics and climate concerns.",
+      "summary_zh": "SpaceX 计划再发射十万颗 Starlink 卫星，带宽有望实现约100倍的提升。此举可能彻底改变全球连接格局，但在推进、频谱、轨道碎片与监管方面仍面临巨大挑战。若实现，将使偏远地区上网更易，但也对太空运营与环境提出新压力。",
+      "hn": {
+        "id": 48863064,
+        "type": "story",
+        "by": "CrankyBear",
+        "score": 220,
+        "descendants": 726,
+        "time": 1783705867,
+        "comments_url": "https://news.ycombinator.com/item?id=48863064"
+      },
+      "tags": [
+        "Space",
+        "Business",
+        "Politics"
+      ],
+      "hot_score": 0.87
+    },
+    {
+      "title_en": "The tech of 'Terminator 2' – an oral history (2017)",
+      "url": "https://vfxblog.com/2017/08/23/the-tech-of-terminator-2-an-oral-history/",
+      "title_zh": "《终结者2》技术：口述史（2017）",
+      "created_display": "Created: Jul 10, 2026 / 09:48 PT",
+      "image_url": "https://vfxblog.com/wp-content/uploads/2017/08/death1.jpg",
+      "summary_en": "An oral history revisits the technical feats behind Terminator 2, highlighting practical effects, model work, and the early balance between analog and digital tricks. It shows how teams solved filmic challenges with ingenuity under tight budgets and time pressures. The piece illuminates a pivotal moment in visual effects history.",
+      "summary_zh": "这部《终结者2》技术口述史回顾了特效背后的硬件与软件成就，强调实拍特效、模型工作以及早期的数字与模拟技术的结合。作者揭示了团队在预算和时间压力下如何凭借创造力解决难题，塑造了影像特效的历史转折点。",
+      "hn": {
+        "id": 48862365,
+        "type": "story",
+        "by": "markus_zhang",
+        "score": 229,
+        "descendants": 79,
+        "time": 1783702121,
+        "comments_url": "https://news.ycombinator.com/item?id=48862365"
+      },
+      "tags": [
+        "Entertainment",
+        "Design"
+      ],
+      "hot_score": 0.83
+    },
+    {
+      "title_en": "Mayor Mamdani announces \"Click-to-Cancel\" rules",
+      "url": "https://www.nyc.gov/mayors-office/news/2026/07/mayor-mamdani-announces-landmark--click-to-cancel--consumer-prot",
+      "title_zh": "马姆丹尼市长宣布‘点击取消’规则",
+      "created_display": "Created: Jul 10, 2026 / 12:30 PT",
+      "image_url": null,
+      "summary_en": "New rules require easy opt-out and data-deletion options for subscriptions, with clear timelines and penalties for noncompliance. The move heightens consumer control and privacy, and will push product teams to simplify cancellation flows, potentially affecting churn and business models.",
+      "summary_zh": "新规则要求对订阅提供简单易行的取消及数据删除选项，并设定明确的时限和违规罚则。此举提升了用户控制与隐私保护，促使产品团队简化取消流程，可能影响用户流失率和商业模式。",
+      "hn": {
+        "id": 48864158,
+        "type": "story",
+        "by": "thisislife2",
+        "score": 181,
+        "descendants": 2,
+        "time": 1783711812,
+        "comments_url": "https://news.ycombinator.com/item?id=48864158"
+      },
+      "hot_score": 0.82,
+      "tags": [
+        "Politics",
+        "Privacy"
+      ]
+    },
+    {
+      "title_en": "GPT-5.6, Grok 4.5, Claude, and Muse Spark build the same 4 apps",
+      "url": "https://www.tryai.dev/blog/gpt-5.6-build-off-12-models",
+      "title_zh": "GPT-5.6、Grok 4.5、Claude 与 Muse Spark 共同构建相同的四个应用",
+      "created_display": "Created: Jul 10, 2026 / 13:52 PT",
+      "image_url": "https://www.tryai.dev/blog/gpt-5.6-build-off-12-models/opengraph-image-yqks0s?3313ef8f7f360358",
+      "summary_en": "Several AI models independently build the same four apps, illustrating rapid prototyping and convergent capabilities across toolkits. The trend highlights how developers can rely on multiple backends for similar outcomes, while raising questions about vendor lock-in, consistency, and maintenance across runtimes.",
+      "summary_zh": "多套 AI 模型同时独立构建同样的四个应用，显示出快速原型迭代和能力收敛。趋势表明开发者可以依赖不同后端实现相同结果，但也带来供应商锁定、跨运行时的一致性与维护难题等挑战。",
+      "hn": {
+        "id": 48865093,
+        "type": "story",
+        "by": "hershyb_",
+        "score": 148,
+        "descendants": 82,
+        "time": 1783716748,
+        "comments_url": "https://news.ycombinator.com/item?id=48865093"
+      },
+      "hot_score": 0.76,
+      "tags": [
+        "AI",
+        "Startups"
+      ]
+    },
+    {
+      "title_en": "Snails' teeth beats spider silk as nature's strongest material (2015)",
+      "url": "https://www.smithsonianmag.com/smart-news/spider-silk-loses-top-spot-natures-strongest-material-snails-teeth-180954346/",
+      "title_zh": "蜗牛牙齿成自然界最强材料，超越蜘蛛丝（2015）",
+      "created_display": "Created: Jul 10, 2026 / 09:37 PT",
+      "image_url": "https://th-thumbnailer.cdn-si-edu.com/uJ3_0X-O9Zw4wRJ-4uPA6-8sY-8=/fit-in/1600x0/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer/b6/2c/b62c97f3-8cc5-4351-9f3d-1641f48255cf/42-33773725.jpg",
+      "summary_en": "A 2015 study found that snail teeth are among the strongest natural materials, outmatching spider silk due to their mineralized structure. This reshapes assumptions about how biology builds tough materials and inspires bio-inspired engineering approaches. The finding continues to influence materials science discussions today.",
+      "summary_zh": "2015年的研究发现，蜗牛牙齿因矿化结构而具备极高强度，甚至超过蜘蛛丝。这一发现改变了对自然材料强度的直觉，并为生物启发式材料设计提供新思路，成为材料科学讨论的经典案例。",
+      "hn": {
+        "id": 48862252,
+        "type": "story",
+        "by": "simonebrunozzi",
+        "score": 207,
+        "descendants": 155,
+        "time": 1783701472,
+        "comments_url": "https://news.ycombinator.com/item?id=48862252"
+      },
+      "tags": [
+        "Science"
+      ],
+      "hot_score": 0.74
+    },
+    {
+      "title_en": "War Atlas: An interactive cartography of every named war in human history",
+      "url": "https://waratlas.org",
+      "title_zh": "战争地图集：互动呈现人类历史上的所有命名战争",
+      "created_display": "Created: Jul 10, 2026 / 10:52 PT",
+      "image_url": "https://waratlas.org/og-card.png",
+      "summary_en": "War Atlas offers an interactive map of named wars across history, letting users explore when and where conflicts happened and how large they were. The visualization helps researchers, educators, and curious readers grasp the scale and geography of conflict over time. It’s a compelling data-driven lens on world history.",
+      "summary_zh": "War Atlas 提供跨历史的命名战争互动地图，便于用户查看战争发生的时间、地点及规模。该可视化工具对研究者、教育工作者与好奇读者理解冲突的时空分布具有帮助，提供了以数据驱动的历史视角。",
+      "hn": {
+        "id": 48863080,
+        "type": "story",
+        "by": "NaOH",
+        "score": 174,
+        "descendants": 68,
+        "time": 1783705968,
+        "comments_url": "https://news.ycombinator.com/item?id=48863080"
+      },
+      "tags": [
+        "Data",
+        "Culture"
+      ],
+      "hot_score": 0.69
+    },
+    {
+      "title_en": "EU Commission: addictive design Instagram and Facebook in breach of the DSA",
+      "url": "https://ec.europa.eu/commission/presscorner/home/en",
+      "title_zh": "欧盟委员会：Instagram 与 Facebook 的成瘾设计违反 DSA",
+      "created_display": "Created: Jul 10, 2026 / 04:00 PT",
+      "image_url": "https://ec.europa.eu/commission/presscorner/assets/framework/images/logo/ec_logo.png",
+      "summary_en": "The European Commission finds addictive design elements in Instagram and Facebook to breach the Digital Services Act, signaling a regulatory push against design choices that encourage prolonged use. The decision could push product teams to rethink engagement tactics and algorithmic incentives.",
+      "summary_zh": "欧盟委员会认定 Instagram 与 Facebook 的成瘾性设计违反《数字服务法》，标志着对促成长期使用的设计做法的监管加强。此举可能促使产品团队重新审视黏性设计与算法激励策略。",
+      "hn": {
+        "id": 48858292,
+        "type": "story",
+        "by": "jeroenhd",
+        "score": 265,
+        "descendants": 184,
+        "time": 1783681215,
+        "comments_url": "https://news.ycombinator.com/item?id=48858292"
+      },
+      "tags": [
+        "Politics",
+        "Design"
+      ],
+      "hot_score": 0.64
+    },
+    {
+      "title_en": "Successful companies go blind",
+      "url": "https://ianreppel.org/how-successful-companies-go-blind/",
+      "title_zh": "成功的公司会变得盲目",
+      "created_display": "Created: Jul 10, 2026 / 06:31 PT",
+      "image_url": "https://ianreppel.org/images/2026-07-09-cavefish.jpeg",
+      "summary_en": "As companies scale, they can lose sight of fundamentals like customer needs and product quality. The article argues for deliberate checks—maintaining a 'healthy paranoia' about risk, investing in reliability, and keeping feedback loops intact.",
+      "summary_zh": "企业在快速成长后容易忽视基本面，如客户需求和产品质量。文章提倡保持对风险的健康警觉、加强可靠性建设，并维护有效的反馈循环。",
+      "hn": {
+        "id": 48859678,
+        "type": "story",
+        "by": "speckx",
+        "score": 220,
+        "descendants": 79,
+        "time": 1783690268,
+        "comments_url": "https://news.ycombinator.com/item?id=48859678"
+      },
+      "tags": [
+        "Business",
+        "Culture",
+        "Programming"
+      ],
+      "hot_score": 0.62
+    },
+    {
+      "title_en": "Apple sues OpenAI, accusing it of stealing company secrets",
+      "url": "https://www.nytimes.com/2026/07/10/technology/apple-openai-lawsuit.html",
+      "title_zh": "苹果起诉 OpenAI，指控其窃取公司机密",
+      "created_display": "Created: Jul 10, 2026 / 14:20 PT",
+      "image_url": null,
+      "summary_en": "Apple file a lawsuit against OpenAI alleging theft of company secrets, underscoring IP and confidential data concerns in AI development. The case could influence how enterprises manage data sharing and model training, and may shift competitive dynamics in the AI ecosystem.",
+      "summary_zh": "苹果就窃取公司机密向 OpenAI 提起诉讼，凸显在 AI 研发中对知识产权和机密数据的关注。此案可能影响企业在数据共享和模型训练方面的合规做法，并改变 AI 生态的竞争格局。",
+      "hn": {
+        "id": 48865431,
+        "type": "story",
+        "by": "jbegley",
+        "score": 113,
+        "descendants": 14,
+        "time": 1783718429,
+        "comments_url": "https://news.ycombinator.com/item?id=48865431"
+      },
+      "hot_score": 0.61,
+      "tags": [
+        "Legal",
+        "Business",
+        "AI"
+      ]
+    },
+    {
+      "title_en": "Please don't discontinue Gemini 2.5 Flash",
+      "url": "https://discuss.ai.google.dev/t/please-dont-discontinue-gemini-2-5-flash/174246",
+      "title_zh": "请不要停用 Gemini 2.5 Flash",
+      "created_display": "Created: Jul 10, 2026 / 13:00 PT",
+      "image_url": "https://d3qe71uytubmmx.cloudfront.net/original/2X/8/8bfe64fc593eb7baba8df149ebba4457c16ca1f9.png",
+      "summary_en": "There is push to keep Gemini 2.5 Flash from being discontinued, citing preferred performance and compatibility. The stance reflects concerns about disruption to workflows and model access, and could influence product strategy if the variant is commonly used by developers.",
+      "summary_zh": "呼吁不要停用 Gemini 2.5 Flash，称其性能或兼容性更受青睐。这一立场反映出对工作流中断和对该变体访问的担忧，若被广泛使用，可能影响厂商的产品策略。",
+      "hn": {
+        "id": 48864507,
+        "type": "story",
+        "by": "NickDob",
+        "score": 125,
+        "descendants": 82,
+        "time": 1783713628,
+        "comments_url": "https://news.ycombinator.com/item?id=48864507"
+      },
+      "hot_score": 0.59,
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "title_en": "AI-generated videos to maximally drive a target brain region",
+      "url": "https://nevo-project.epfl.ch/",
+      "title_zh": "AI 生成视频以最大化激活目标脑区",
+      "created_display": "Created: Jul 10, 2026 / 00:39 PT",
+      "image_url": null,
+      "summary_en": "Researchers are using AI-generated videos to selectively stimulate a target brain region, aiming to drive neural activity more efficiently with visual input. The approach could advance noninvasive brain stimulation and brain–computer interfaces, but it also raises questions about safety, biases in generative models, and ethical implications of neural manipulation.",
+      "summary_zh": "研究人员利用 AI 生成的视频来有选择地激活某一脑区，试图通过视觉刺激更高效地驱动神经活动。该技术若成熟可推动非侵入性脑刺激和脑机接口的发展，同时也引发关于安全、生成模型偏差与神经操控伦理等问题的讨论。",
+      "hn": {
+        "id": 48856904,
+        "type": "story",
+        "by": "smusamashah",
+        "score": 279,
+        "descendants": 233,
+        "time": 1783669151,
+        "comments_url": "https://news.ycombinator.com/item?id=48856904"
+      },
+      "tags": [
+        "AI",
+        "Science"
+      ],
+      "hot_score": 0.55
+    },
+    {
+      "title_en": "A love letter to flashcards",
+      "url": "https://lesleylai.info/en/flashcards/",
+      "title_zh": "致敬抽认卡",
+      "created_display": "Created: Jul 10, 2026 / 08:30 PT",
+      "image_url": "https://lesleylai.info/_astro/rotation_as_two_reflection.DUOfpCFn_Z2wydEN.webp",
+      "summary_en": "A Love Letter to Flashcards praises flashcards as a learning tool, emphasizing spaced repetition and concise prompts. It discusses design choices that make flashcards effective and enduring in modern study workflows.",
+      "summary_zh": "这篇文章以情感笔触赞扬抽认卡在学习中的作用，强调分散性重复和简短提示的重要性。还讨论了让抽认卡在现代学习流程中高效持久的设计要点。",
+      "hn": {
+        "id": 48861319,
+        "type": "story",
+        "by": "surprisetalk",
+        "score": 163,
+        "descendants": 98,
+        "time": 1783697444,
+        "comments_url": "https://news.ycombinator.com/item?id=48861319"
+      },
+      "tags": [
+        "Education",
+        "Culture"
+      ],
+      "hot_score": 0.53
+    },
+    {
+      "title_en": "Hy3",
+      "url": "https://hy.tencent.com/research/hy3",
+      "title_zh": "Hy3",
+      "created_display": "Created: Jul 09, 2026 / 08:27 PT",
+      "image_url": null,
+      "summary_en": "Hy3 is a new AI model introduced by Tencent's research division.",
+      "summary_zh": "Hy3 是腾讯研究部推出的新一代 AI 模型。",
+      "hn": {
+        "id": 48847552,
+        "type": "story",
+        "by": "andai",
+        "score": 553,
+        "descendants": 117,
+        "time": 1783610868,
+        "comments_url": "https://news.ycombinator.com/item?id=48847552"
+      },
+      "tags": [
+        "AI"
+      ],
+      "hot_score": 0.52
+    },
+    {
+      "title_en": "In Emacs, everything looks like a service",
+      "url": "http://yummymelon.com/devnull/in-emacs-everything-looks-like-a-service.html",
+      "title_zh": "在 Emacs 中，一切看起来像服务",
+      "created_display": "Created: Jul 10, 2026 / 01:21 PT",
+      "image_url": "http://yummymelon.com/devnull/images/opengraph-default.jpg",
+      "summary_en": "An essay arguing for modular, service-like abstractions in Emacs customization to improve composability and testability. It discusses trade-offs between simplicity and modularity and offers practical guidance.",
+      "summary_zh": "作者主张在 Emacs 的扩展中采用类似服务的模块化抽象，以提升组合性和测试性。讨论了简化与模块化之间的取舍，并给出实际建议。",
+      "hn": {
+        "id": 48857230,
+        "type": "story",
+        "by": "kickingvegas",
+        "score": 245,
+        "descendants": 105,
+        "time": 1783671670,
+        "comments_url": "https://news.ycombinator.com/item?id=48857230"
+      },
+      "tags": [
+        "Programming"
+      ],
+      "hot_score": 0.5
+    },
+    {
+      "title_en": "Punk, or why I don't stream anymore",
+      "url": "https://geohot.github.io//blog/jekyll/update/2026/05/03/punk-or-why-i-dont-stream.html",
+      "title_zh": "朋克，或者为什么我不再直播",
+      "created_display": "Created: Jul 10, 2026 / 06:30 PT",
+      "image_url": null,
+      "summary_en": "A personal reflection on streaming culture, burnout, or policy concerns that led the author to stop streaming. It touches on privacy, community dynamics, and sustainability of creator work.",
+      "summary_zh": "作者就流媒体文化、职业疲劳或平台政策等问题进行反思，解释为何不再进行直播。文中涉及隐私、社区关系以及创作者工作的可持续性等议题。",
+      "hn": {
+        "id": 48859671,
+        "type": "story",
+        "by": "surprisetalk",
+        "score": 173,
+        "descendants": 216,
+        "time": 1783690219,
+        "comments_url": "https://news.ycombinator.com/item?id=48859671"
+      },
+      "tags": [
+        "Culture",
+        "Privacy"
+      ],
+      "hot_score": 0.49
+    },
+    {
+      "title_en": "After 7 years in production, Scarf has reluctantly moved away from Haskell",
+      "url": "https://avi.press/posts/2026-07-10-after-7-years-in-production-scarf-has-reluctantly-moved-away-from-haskell.html",
+      "title_zh": "生产七年后，Scarf 无奈放弃了 Haskell",
+      "created_display": "Created: Jul 10, 2026 / 06:30 PT",
+      "image_url": "https://avi.press/images/og/2026-07-10-after-7-years-in-production-scarf-has-reluctantly-moved-away-from-haskell.png",
+      "summary_en": "After seven years in production, the Scarf project has reluctantly moved away from Haskell, citing reasons like ecosystem maturity, performance, or maintenance constraints. The decision reflects the real-world tradeoffs teams face when choosing a language for long-running systems software.",
+      "summary_zh": "经过七年的生产实践，Scarf 项目被迫放弃在生产环境中使用 Haskell，原因包括生态系统成熟度、性能与维护成本等权衡。这反映出长期运行的系统在语言选择上的现实考量。",
+      "hn": {
+        "id": 48859673,
+        "type": "story",
+        "by": "aviaviavi",
+        "score": 170,
+        "descendants": 209,
+        "time": 1783690241,
+        "comments_url": "https://news.ycombinator.com/item?id=48859673"
+      },
+      "tags": [
+        "Programming"
+      ],
+      "hot_score": 0.48
+    },
+    {
+      "title_en": "Computation as a universal and fundamental concept",
+      "url": "https://ergo.org/courses/computation-as-a-universal-and-fundamental-concept",
+      "title_zh": "计算被视为普遍且基本的概念",
+      "created_display": "Created: Jul 10, 2026 / 08:23 PT",
+      "image_url": "https://www.ergo.org/assets/computation-as-a-fundamental-and-universal-concept-art-lg.webp",
+      "summary_en": "A discussion framing computation as a universal, fundamental idea that underpins sciences, math, and engineering. It promotes computational thinking as a cross-disciplinary literacy.",
+      "summary_zh": "讨论将计算视为跨科普与工程等领域的普遍、基础的概念，倡导计算思维作为跨学科的基础素养。",
+      "hn": {
+        "id": 48861213,
+        "type": "story",
+        "by": "simonpure",
+        "score": 144,
+        "descendants": 111,
+        "time": 1783697022,
+        "comments_url": "https://news.ycombinator.com/item?id=48861213"
+      },
+      "tags": [
+        "Science",
+        "Education"
+      ],
+      "hot_score": 0.47
+    },
+    {
+      "title_en": "The glass backbone: Why the Army's logistics will break in the next war",
+      "url": "https://mwi.westpoint.edu/the-glass-backbone-why-the-armys-logistics-will-break-in-the-next-war/",
+      "title_zh": "玻璃脊梁：未来战争中陆军后勤为何会崩溃",
+      "created_display": "Created: Jul 09, 2026 / 06:24 PT",
+      "image_url": "https://mwi.westpoint.edu/wp-content/uploads/2026/06/9522808.jpg?w=1080",
+      "summary_en": "The piece argues that modern military logistics rely on a fragile, highly digitized backbone, making supply chains vulnerable in future conflicts. It discusses failure points and resilience strategies like redundancy and decentralization.",
+      "summary_zh": "文章认为现代军事后勤以脆弱、高度数字化的骨干为支撑，在未来冲突中极易受到干扰。文中分析潜在崩溃点，并提出通过冗余、去中心化等方式提升韧性的思路。",
+      "hn": {
+        "id": 48845442,
+        "type": "story",
+        "by": "baud147258",
+        "score": 457,
+        "descendants": 651,
+        "time": 1783603483,
+        "comments_url": "https://news.ycombinator.com/item?id=48845442"
+      },
+      "tags": [
+        "Science"
+      ],
+      "hot_score": 0.4
+    },
+    {
+      "title_en": "Interview with Mitchell Hashimoto about Ghostty and Zig",
+      "url": "https://alexalejandre.com/programming/interview-with-mitchell-hashimoto/",
+      "title_zh": "Mitchell Hashimoto 对 Ghostty 与 Zig 的访谈",
+      "created_display": "Created: Jul 09, 2026 / 10:17 PT",
+      "image_url": "https://alexalejandre.com//logo100.webp",
+      "summary_en": "Mitchell Hashimoto discusses the Ghostty project and the Zig language, focusing on design decisions, safety, and how these tools fit into modern DevOps and systems work. It offers perspective on building resilient tooling outside mainstream ecosystems.",
+      "summary_zh": "与 Mitchell Hashimoto 就 Ghostty 项目与 Zig 语言进行对话，聚焦设计抉择、安全性以及在现代开发运维和系统工作中的应用前景，提供对打造稳健工具生态的观点。",
+      "hn": {
+        "id": 48849292,
+        "type": "story",
+        "by": "veqq",
+        "score": 383,
+        "descendants": 227,
+        "time": 1783617436,
+        "comments_url": "https://news.ycombinator.com/item?id=48849292"
+      },
+      "tags": [
+        "Programming",
+        "DevOps"
+      ],
+      "hot_score": 0.39
+    },
+    {
+      "title_en": "Why American ambulance rides are so expensive",
+      "url": "https://davidoks.blog/p/why-american-ambulance-rides-are",
+      "title_zh": "美国救护车收费为何如此昂贵",
+      "created_display": "Created: Jul 09, 2026 / 15:15 PT",
+      "image_url": "https://substackcdn.com/image/fetch/$s_!KYj0!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F16d230e7-cc1d-491b-9e14-59f6f0aaf274_2048x1366.webp",
+      "summary_en": "The post dissects why ambulance rides in the U.S. cost so much—from billing practices and insurance gaps to the costs of trained personnel and equipment. It highlights policy and payer dynamics that drive the prices up and affect patients.",
+      "summary_zh": "文章剖析美国救护车费用居高不下的原因，包括计费方式、保险缺口、人员与设备成本，以及支付者与政策环境的作用，对患者影响深远。",
+      "hn": {
+        "id": 48853091,
+        "type": "story",
+        "by": "jyunwai",
+        "score": 316,
+        "descendants": 472,
+        "time": 1783635356,
+        "comments_url": "https://news.ycombinator.com/item?id=48853091"
+      },
+      "tags": [
+        "Health",
+        "Finance"
+      ],
+      "hot_score": 0.39
+    },
+    {
+      "title_en": "Muse Spark 1.1",
+      "url": "https://ai.meta.com/blog/introducing-muse-spark-meta-model-api/",
+      "title_zh": "Muse Spark 1.1 推出",
+      "created_display": "Created: Jul 09, 2026 / 07:10 PT",
+      "image_url": "https://scontent-dfw5-2.xx.fbcdn.net/v/t39.2365-6/741906678_873652302465180_7764547737953411008_n.png?_nc_cat=104&ccb=1-7&_nc_sid=e280be&_nc_ohc=OlBvaYygvIUQ7kNvwHmjwiS&_nc_oc=Adr3hMlBJkxo7KWiwa6cAnseoZwmCyAz4E8QrUmfT34PBsLcDdsLpWZF1MY3_X8yWmg&_nc_zt=14&_nc_ht=scontent-dfw5-2.xx&_nc_gid=k2g043MR1e0FAib_gLyhYw&_nc_ss=7820f&oh=00_AQAbCNjSYng9ApNBe49G81EWxHKUMStlmHC5lEH23QmyUg&oe=6A6A1EE6",
+      "summary_en": "Meta announces Muse Spark 1.1, an API for deploying and managing models, improving tooling for developers and end-to-end workflows.",
+      "summary_zh": "Meta 公布 Muse Spark 1.1，为开发者提供部署与管理模型的 API，提升工具链与端到端工作流的体验。",
+      "hn": {
+        "id": 48846184,
+        "type": "story",
+        "by": "ot",
+        "score": 405,
+        "descendants": 211,
+        "time": 1783606222,
+        "comments_url": "https://news.ycombinator.com/item?id=48846184"
+      },
+      "tags": [
+        "AI"
+      ],
+      "hot_score": 0.36
+    },
+    {
+      "title_en": "ChatGPT Work",
+      "url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work/",
+      "title_zh": "ChatGPT 在工作中的应用",
+      "created_display": "Created: Jul 09, 2026 / 10:03 PT",
+      "image_url": "https://images.ctfassets.net/kftzwdyauwt9/6wfXqEBNT0QiATjSpde6f4/fabc58fe0784ec397ec34b9e570e1700/OAI_ChatGPTWork_ProductBlog_OpenGraph_16x9_1200x630.png?w=1600&h=900&fit=fill",
+      "summary_en": "OpenAI positions ChatGPT as a tool for ambitious work, highlighting capabilities for drafting, research, and collaboration in professional contexts. The messaging signals a push to position ChatGPT as a productivity platform for teams.",
+      "summary_zh": "OpenAI 将 ChatGPT 定位为高强度工作场景的工具，突出草拟、研究与协作等功能在专业环境中的应用。此举标志着将 ChatGPT 打造成团队生产力平台的市场策略。",
+      "hn": {
+        "id": 48849059,
+        "type": "story",
+        "by": "Tiberium",
+        "score": 348,
+        "descendants": 186,
+        "time": 1783616633,
+        "comments_url": "https://news.ycombinator.com/item?id=48849059"
+      },
+      "tags": [
+        "AI"
+      ],
+      "hot_score": 0.35
+    },
+    {
+      "title_en": "A possible future for Damn Interesting",
+      "url": "https://www.damninteresting.com/a-possible-future/",
+      "title_zh": "Damn Interesting 的未来可能走向",
+      "created_display": "Created: Jul 09, 2026 / 08:25 PT",
+      "image_url": "https://damn-8791.kxcdn.com/wp-content/uploads/2026/06/cover.jpg",
+      "summary_en": "The article speculates on how Damn Interesting could evolve in the AI era, potentially adopting new formats and monetization models while preserving its science storytelling focus. It weighs challenges like audience fragmentation and sustainable funding.",
+      "summary_zh": "本文对 Damn Interesting 在 AI 时代的未来走向进行了设想，探讨其在维持科普叙事的同时可能采用的新格式与盈利模式。文章也讨论了观众分化与长期资金可持续性等挑战。",
+      "hn": {
+        "id": 48847511,
+        "type": "story",
+        "by": "mzur",
+        "score": 315,
+        "descendants": 44,
+        "time": 1783610725,
+        "comments_url": "https://news.ycombinator.com/item?id=48847511"
+      },
+      "tags": [
+        "Business",
+        "AI"
+      ],
+      "hot_score": 0.3
+    },
+    {
+      "title_en": "AI 2040: Plan A",
+      "url": "https://ai-2040.com/",
+      "title_zh": "AI 2040：计划 A",
+      "created_display": "Created: Jul 09, 2026 / 09:21 PT",
+      "image_url": "https://ai-2040.com/opengraph.jpg",
+      "summary_en": "AI 2040 presents Plan A—a long-range vision for AI governance, safety, and societal impact through 2040, contrasting optimistic and cautionary scenarios.",
+      "summary_zh": "AI 2040 的 Plan A 提出面向2040年的长期愿景，涵盖治理、安全和社会影响等方面，展现乐观与审慎情景的对比。",
+      "hn": {
+        "id": 48848425,
+        "type": "story",
+        "by": "kschaul",
+        "score": 308,
+        "descendants": 326,
+        "time": 1783614104,
+        "comments_url": "https://news.ycombinator.com/item?id=48848425"
+      },
+      "tags": [
+        "AI"
+      ],
+      "hot_score": 0.3
+    },
+    {
+      "title_en": "No leap second will be introduced at the end of December 2026",
+      "url": "https://datacenter.iers.org/data/latestVersion/bulletinC.txt",
+      "title_zh": "2026 年底将不再加入闰秒",
+      "created_display": "Created: Jul 09, 2026 / 07:16 PT",
+      "image_url": null,
+      "summary_en": "The International Earth Rotation and Reference Systems Service confirms no leap second will be added at the end of 2026. This continues a trend toward simpler, predictable timekeeping for distributed systems. Engineers should plan around a leap-second-free timeline while staying alert for policy updates.",
+      "summary_zh": "国际时刻参考系统宣布 2026 年底不再添加闰秒。这延续了简化且可预测的全球时间计量趋势，便于分布式系统的时钟同步。工程师应在无闰秒的时间线下开展计划，并关注未来的政策变动。",
+      "hn": {
+        "id": 48846281,
+        "type": "story",
+        "by": "ChrisArchitect",
+        "score": 308,
+        "descendants": 243,
+        "time": 1783606594,
+        "comments_url": "https://news.ycombinator.com/item?id=48846281"
+      },
+      "tags": [
+        "Science"
+      ],
+      "hot_score": 0.28
+    },
+    {
+      "title_en": "A road to Lisp: Why Lisp",
+      "url": "https://scotto.me/blog/2026-07-09-why-lisp/",
+      "title_zh": "走向 Lisp 的路：为何学习 Lisp",
+      "created_display": "Created: Jul 09, 2026 / 06:06 PT",
+      "image_url": "https://scotto.me/og/2026-07-09-why-lisp.png",
+      "summary_en": "Explores why Lisp remains relevant: powerful macros, homoiconicity, and influence on modern language design and tooling.",
+      "summary_zh": "探讨 Lisp 仍具相关性的原因：强大的宏、同构性以及对现代语言设计和工具链的影响。",
+      "hn": {
+        "id": 48845209,
+        "type": "story",
+        "by": "silcoon",
+        "score": 291,
+        "descendants": 300,
+        "time": 1783602364,
+        "comments_url": "https://news.ycombinator.com/item?id=48845209"
+      },
+      "tags": [
+        "Programming"
+      ],
+      "hot_score": 0.25
+    },
+    {
+      "title_en": "US seeks cheaper hunter-killer drones after Iran destroys $1B worth of Reapers",
+      "url": "https://arstechnica.com/gadgets/2026/07/us-seeks-cheaper-hunter-killer-drones-after-iran-destroys-1b-worth-of-reapers/",
+      "title_zh": "美国在伊朗摧毁价值10亿美元的 Reaper 无人机后寻求更便宜的猎杀型无人机",
+      "created_display": "Created: Jul 09, 2026 / 06:29 PT",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/Reaper-drone-1152x648.jpg",
+      "summary_en": "After Iran destroyed a $1 billion fleet of MQ-9 Reaper drones, the US is pursuing cheaper hunter-killer alternatives to bolster resilience and reduce single-point vulnerability. The move highlights how high-value platforms can be cost-prohibitive to replace and may accelerate shifts toward modular, lower-cost, and potentially more autonomous systems.",
+      "summary_zh": "在伊朗摧毁价值10亿美元的 MQ-9 Reaper 无人机后，美国正寻求成本更低的猎杀型替代方案以提升韧性并降低单点脆弱性。此举凸显高价值平台的替换成本高，可能加速向模块化、低成本以及更具自主性的系统转型。",
+      "hn": {
+        "id": 48845514,
+        "type": "story",
+        "by": "rbanffy",
+        "score": 275,
+        "descendants": 333,
+        "time": 1783603771,
+        "comments_url": "https://news.ycombinator.com/item?id=48845514"
+      },
+      "tags": [
+        "Politics",
+        "Security"
+      ],
+      "hot_score": 0.24
+    },
+    {
+      "title_en": "AI content is everywhere on social media, especially LinkedIn",
+      "url": "https://www.pangram.com/blog/ai-in-your-feed",
+      "title_zh": "社交媒体上的 AI 内容无处不在，LinkedIn 尤为明显",
+      "created_display": "Created: Jul 09, 2026 / 08:50 PT",
+      "image_url": "https://cdn.sanity.io/images/6vunltag/production/3c7bf7b542469d5572d664f321ec376ef719a9fe-1200x630.png",
+      "summary_en": "AI-generated content is proliferating across social media, with LinkedIn showing a particularly high share. This trend accelerates content production for professionals but also challenges readers to assess authenticity and credibility. Platform policies and signal reliability will be key to preserving trust as feeds become more automated.",
+      "summary_zh": "AI 生成的内容正在社交媒体中迅速蔓延，LinkedIn 的表现尤为突出。这一趋势提高了专业内容的产出效率，同时也让读者在辨别真实性和可信度方面面临挑战。平台的信号质量与监管政策将决定在日益自动化的信息流中的信任水平。",
+      "hn": {
+        "id": 48847940,
+        "type": "story",
+        "by": "mukmuk",
+        "score": 243,
+        "descendants": 215,
+        "time": 1783612209,
+        "comments_url": "https://news.ycombinator.com/item?id=48847940"
+      },
+      "tags": [
+        "AI",
+        "Privacy"
+      ],
+      "hot_score": 0.23
+    },
+    {
+      "title_en": "GLM 5.2 is nearly as accurate as a human book keeper",
+      "url": "https://toot-books.com/blog/glm-5-2-vat-benchmark",
+      "title_zh": "GLM 5.2 的准确度几乎达到人类簿记员水平",
+      "created_display": "Created: Jul 09, 2026 / 11:29 PT",
+      "image_url": "https://toot-books.pages.dev/assets/icon-512.png",
+      "summary_en": "GLM 5.2 achieves VAT benchmark accuracy close to human bookkeepers, showing AI's growing competence in financial tasks. This underscores how automated accounting could reshape back-office operations, prompting discussions on reliability and controls.",
+      "summary_zh": "GLM 5.2 在 VAT 基准测试中的表现接近人类簿记员的水平，体现了 AI 在财务任务上的进步。这将推动自动化记账改变后台运营，同时引发关于可靠性与审控的讨论。",
+      "hn": {
+        "id": 48850414,
+        "type": "story",
+        "by": "adamkurkiewicz",
+        "score": 220,
+        "descendants": 119,
+        "time": 1783621781,
+        "comments_url": "https://news.ycombinator.com/item?id=48850414"
+      },
+      "tags": [
+        "AI",
+        "Finance"
+      ],
+      "hot_score": 0.23
+    },
+    {
+      "title_en": "Parental device use and the adolescent-caregiver attachment bond",
+      "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1766665/full",
+      "title_zh": "父母设备使用与青少年-照护者依恋关系",
+      "created_display": "Created: Jul 09, 2026 / 17:20 PT",
+      "image_url": "https://d2csxpduxe849s.cloudfront.net/media/E32629C6-9347-4F84-81FEAEF7BFA342B3/0F39389F-DE2D-4BF1-AFE71BA9B6F25024/918D96DB-F484-4EC1-8FBF9AB5F74B20F4/WebsiteWebP_XL-FPSYG_Main Visual_Green_Website.webp",
+      "summary_en": "The study investigates how parental device usage during interactions relates to the adolescent-caregiver attachment bond, finding that higher screen usage is linked to weaker attachment quality and less responsive parenting. The findings highlight the fragility of the parent-child bond in the digital era and suggest strategies for mindful tech use at home.",
+      "summary_zh": "研究探讨了父母在互动中使用电子设备对青少年照护者依恋关系的影响，结果显示高屏幕使用与依恋质量下降和反应性下降相关。研究强调数字时代家庭关系的脆弱性，并提出在家庭中实行更有意识的科技使用的策略。",
+      "hn": {
+        "id": 48854247,
+        "type": "story",
+        "by": "hbcondo714",
+        "score": 171,
+        "descendants": 149,
+        "time": 1783642828,
+        "comments_url": "https://news.ycombinator.com/item?id=48854247"
+      },
+      "tags": [
+        "Health"
+      ],
+      "hot_score": 0.23
+    },
+    {
+      "title_en": "TLS certificates for internal services done right",
+      "url": "https://tuxnet.dev/posts/tls-for-internal-services/",
+      "title_zh": "内部服务的 TLS 证书正确配置",
+      "created_display": "Created: Jul 09, 2026 / 07:57 PT",
+      "image_url": "https://tuxnet.dev/img/this-is-the-way.webp",
+      "summary_en": "Best practices for issuing and rotating TLS certificates for internal services, emphasizing automation, short-lived certs, and mTLS between services. Proper internal PKI reduces risk and improves security for service-to-service communication.",
+      "summary_zh": "内部服务 TLS 证书的最佳实践，聚焦自动化、短期证书和服务间 mTLS。健全的内部公钥基础设施能降低横向渗透风险，提升微服务间通信的安全性。",
+      "hn": {
+        "id": 48846995,
+        "type": "story",
+        "by": "mrl5",
+        "score": 180,
+        "descendants": 145,
+        "time": 1783609022,
+        "comments_url": "https://news.ycombinator.com/item?id=48846995"
+      },
+      "tags": [
+        "Security",
+        "DevOps"
+      ],
+      "hot_score": 0.17
+    },
+    {
+      "title_en": "Building a real-time AI tutor for 5-year-olds",
+      "url": "https://www.ello.com/blog/teaching-a-child-in-1000-ms",
+      "title_zh": "为5岁儿童打造实时AI导师",
+      "created_display": "Created: Jul 09, 2026 / 13:51 PT",
+      "image_url": "https://cdn.sanity.io/images/syk5spr9/production/ec494ad4e15d0f28ec8b04d522147735034ba902-1200x630.webp",
+      "summary_en": "A real-time AI tutor designed for 5-year-olds, with sub-second latency and interactive learning. The approach emphasizes safety, age-appropriate pedagogy, and parental controls while prioritizing data privacy, highlighting the promise of scalable personalized early education and the challenges of content safeguards.",
+      "summary_zh": "为5岁儿童设计的实时AI导师，具备亚秒级延迟、互动式学习体验。强调安全、符合年龄的教学方法和家长控制，同时重视数据隐私，展示了可扩展的个性化早教前景与内容安全和落地挑战。",
+      "hn": {
+        "id": 48852199,
+        "type": "story",
+        "by": "catalinvoss",
+        "score": 143,
+        "descendants": 388,
+        "time": 1783630266,
+        "comments_url": "https://news.ycombinator.com/item?id=48852199"
+      },
+      "hot_score": 0.17,
+      "tags": [
+        "AI",
+        "Education",
+        "Privacy"
+      ]
+    },
+    {
+      "title_en": "Exit Chat Control",
+      "url": "https://exitchatcontrol.org/",
+      "title_zh": "退出聊天控制计划",
+      "created_display": "Created: Jul 09, 2026 / 19:27 PT",
+      "image_url": "https://exitchatcontrol.org/og.png",
+      "summary_en": "Exit Chat Control describes a movement opposing mass surveillance policies that scan private messages. It frames digital rights and privacy as essential to free expression online, and discusses implications for platforms, policy, and users.",
+      "summary_zh": "退出聊天控制是一场反对大规模监控私信的运动，强调数字权利与隐私对网络自由表达的重要性，并探讨对平台、政策和用户的影响。",
+      "hn": {
+        "id": 48855043,
+        "type": "story",
+        "by": "mparramon",
+        "score": 101,
+        "descendants": 5,
+        "time": 1783650458,
+        "comments_url": "https://news.ycombinator.com/item?id=48855043"
+      },
+      "hot_score": 0.15,
+      "tags": [
+        "Privacy",
+        "Politics"
+      ]
+    },
+    {
+      "title_en": "Opinionated and easy Pi.dev configuration",
+      "url": "https://lazypi.org/",
+      "title_zh": "对 Pi.dev 配置的主张式与易用性",
+      "created_display": "Created: Jul 09, 2026 / 08:19 PT",
+      "image_url": "https://lazypi.org/og.png",
+      "summary_en": "The post argues for an opinionated, easy-to-use configuration style for Pi.dev, emphasizing sensible defaults and developer ergonomics. The goal is to reduce cognitive load while keeping builds predictable.",
+      "summary_zh": "本文主张为 Pi.dev 提供更为固定化、易用的配置风格，强调合理的默认选项与开发者体验。目标是在降低认知负担的同时保持构建的可预测性。",
+      "hn": {
+        "id": 48847407,
+        "type": "story",
+        "by": "lwhsiao",
+        "score": 146,
+        "descendants": 72,
+        "time": 1783610373,
+        "comments_url": "https://news.ycombinator.com/item?id=48847407"
+      },
+      "tags": [
+        "Programming"
+      ],
+      "hot_score": 0.14
+    },
+    {
+      "title_en": "Launch HN: Context.dev (YC S26) – API to get structured data from any website",
+      "url": "https://www.context.dev",
+      "title_zh": "Launch HN：Context.dev（YC S26）——从任意网站提取结构化数据的 API",
+      "created_display": "Created: Jul 09, 2026 / 08:28 PT",
+      "image_url": "https://www.context.dev/api/og?title=Every+piece+of+web+context+your+agent+needs.",
+      "summary_en": "Context.dev offers an API to extract structured data from any website, enabling developers to pull tables, specs, pricing, and metadata into applications. This can streamline data pipelines and improve automation for web scraping, SEO, and analytics, but raises questions about data licensing, accuracy, and anti-scraping protections.",
+      "summary_zh": "Context.dev 提供一个 API，可从任意网站提取结构化数据，如表格、规格、定价和元数据，便于接入到应用中。提高了数据管线的自动化和网页数据的可用性，但也带来数据授权、准确性和反爬策略等挑战。",
+      "hn": {
+        "id": 48847562,
+        "type": "story",
+        "by": "TheYahiaBakour",
+        "score": 116,
+        "descendants": 86,
+        "time": 1783610919,
+        "comments_url": "https://news.ycombinator.com/item?id=48847562"
+      },
+      "hot_score": 0.11,
+      "tags": [
+        "Programming",
+        "Data",
+        "Startups"
+      ]
+    },
+    {
+      "title_en": "SimPolitics: America’s quest to solve politics with computers",
+      "url": "https://mitpress.mit.edu/9780262053198/simpolitics/",
+      "title_zh": "SimPolitics：美国用计算机解决政治的探索",
+      "created_display": "Created: Jul 09, 2026 / 07:20 PT",
+      "image_url": null,
+      "summary_en": "SimPolitics analyzes how computers are reshaping politics in the US, from data-driven governance to algorithmic decision-making and electoral tech. It discusses benefits and risks—transparency, bias, accountability—and argues technologists should consider civic implications in their work.",
+      "summary_zh": "SimPolitics 探讨计算机如何重塑美国政治，从数据驱动治理到算法决策和选举科技。讨论了透明度、偏见与问责等利与弊，并倡导科技从业者在工作中考虑公民社会的影响。",
+      "hn": {
+        "id": 48846332,
+        "type": "story",
+        "by": "mckelveyf",
+        "score": 107,
+        "descendants": 45,
+        "time": 1783606814,
+        "comments_url": "https://news.ycombinator.com/item?id=48846332"
+      },
+      "hot_score": 0.1,
+      "tags": [
+        "Politics",
+        "Data"
+      ]
+    },
+    {
+      "title_en": "Show HN: Analog Watch",
+      "url": "https://analog.watch",
+      "title_zh": "Show HN：模拟钟表",
+      "created_display": "Created: Jul 09, 2026 / 07:30 PT",
+      "image_url": "https://analog.watch/og.png",
+      "summary_en": "Show HN: Analog Watch introduces a project focused on an analog timepiece, highlighting a design that emphasizes simplicity, reliability, or open hardware/software interplay. It signals interest in blending mechanical elegance with software-driven features.",
+      "summary_zh": "Show HN：模拟钟表展示一个关注简洁设计的原型，强调机械美感与软件协同的潜力。该项目体现了对开放硬件/软件结合的兴趣。",
+      "hn": {
+        "id": 48846510,
+        "type": "story",
+        "by": "ezekg",
+        "score": 104,
+        "descendants": 95,
+        "time": 1783607454,
+        "comments_url": "https://news.ycombinator.com/item?id=48846510"
+      },
+      "hot_score": 0.09,
+      "tags": [
+        "Show HN",
+        "Design",
+        "Hardware"
+      ]
+    }
+  ]
+}

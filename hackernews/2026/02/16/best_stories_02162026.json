@@ -1,0 +1,681 @@
+{
+  "meta": {
+    "mode": "best",
+    "source": "https://news.ycombinator.com/",
+    "api": "https://github.com/HackerNews/API",
+    "count_requested": 50,
+    "count_written": 50,
+    "scrape_time_display": "23:51, February 16, 2026 (PST)",
+    "timezone": "America/Los_Angeles",
+    "date_dir": "2026/02/16",
+    "content_date": "2026-02-16"
+  },
+  "items": [
+    {
+      "title_en": "I want to wash my car. The car wash is 50 meters away. Should I walk or drive?",
+      "url": "https://mastodon.world/@knowmadd/116072773118828295",
+      "title_zh": "我想洗车。洗车点在50米外，我该走路还是开车？",
+      "scrape_time": "23:51, February 16, 2026 (PST)",
+      "image_url": "https://s3.eu-central-2.wasabisys.com/mastodonworld/media_attachments/files/116/072/747/717/256/848/original/7dfa3f40a6cc6381.png",
+      "summary_en": "",
+      "summary_zh": "",
+      "tags": [
+        "Programming"
+      ],
+      "hot_score": 0.0
+    },
+    {
+      "title_en": "I’m joining OpenAI",
+      "url": "https://steipete.me/posts/2026/openclaw",
+      "title_zh": "我加入了OpenAI",
+      "scrape_time": "23:51, February 16, 2026 (PST)",
+      "image_url": "https://steipete.me/posts/2026/openclaw/index.png",
+      "summary_en": "",
+      "summary_zh": "",
+      "tags": [
+        "Open Source",
+        "AI"
+      ],
+      "hot_score": 0.0
+    },
+    {
+      "title_en": "EU bans the destruction of unsold apparel, clothing, accessories and footwear",
+      "url": "https://environment.ec.europa.eu/news/new-eu-rules-stop-destruction-unsold-clothes-and-shoes-2026-02-09_en",
+      "title_zh": "欧盟禁止销毁未售出的服装、配饰和鞋类",
+      "scrape_time": "23:51, February 16, 2026 (PST)",
+      "image_url": "https://environment.ec.europa.eu/sites/default/files/styles/ewcms_metatag_image/public/2026-02/GettyImages-2164380614.jpg1_.jpg?h=03a24c0b&itok=gaShWK4G",
+      "summary_en": "",
+      "summary_zh": "",
+      "tags": [
+        "Legal"
+      ],
+      "hot_score": 0.0
+    },
+    {
+      "title_en": "Amazon's Ring and Google's Nest reveal the severity of U.S. surveillance state",
+      "url": "https://greenwald.substack.com/p/amazons-ring-and-googles-nest-unwittingly",
+      "title_zh": "亚马逊Ring和谷歌Nest揭示美国监控国家的严峻程度",
+      "scrape_time": "23:51, February 16, 2026 (PST)",
+      "image_url": null,
+      "summary_en": "",
+      "summary_zh": "",
+      "tags": [
+        "Security",
+        "Privacy"
+      ],
+      "hot_score": 0.0
+    },
+    {
+      "title_en": "I fixed Windows native development",
+      "url": "https://marler8997.github.io/blog/fixed-windows/",
+      "title_zh": "我修复了Windows原生开发环境",
+      "scrape_time": "23:51, February 16, 2026 (PST)",
+      "image_url": "https://marler8997.github.io/SimplyInstallVs.png",
+      "summary_en": "",
+      "summary_zh": "",
+      "tags": [
+        "Programming"
+      ],
+      "hot_score": 0.0
+    },
+    {
+      "title_en": "Modern CSS Code Snippets: Stop writing CSS like it's 2015",
+      "url": "https://modern-css.com",
+      "title_zh": "现代CSS代码片段：别再写2015年的CSS了",
+      "scrape_time": "23:51, February 16, 2026 (PST)",
+      "image_url": null,
+      "summary_en": "",
+      "summary_zh": "",
+      "tags": [
+        "Web",
+        "Design"
+      ],
+      "hot_score": 0.0
+    },
+    {
+      "title_en": "14-year-old Miles Wu folded origami pattern that holds 10k times its own weight",
+      "url": "https://www.smithsonianmag.com/innovation/this-14-year-old-is-using-origami-to-design-emergency-shelters-that-are-sturdy-cost-efficient-and-easy-to-deploy-180988179/",
+      "title_zh": "14岁少年Miles Wu折叠出承重1万倍自重的折纸图案",
+      "scrape_time": "23:51, February 16, 2026 (PST)",
+      "image_url": "https://th-thumbnailer.cdn-si-edu.com/wUPPgpDHXxQh_Fz5JBjAfVAkLV4=/fit-in/1600x0/filters:focal(1000x667:1001x668)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/f6/6e/f66edaff-eb72-4b3e-8e69-77bf70f7aa4d/20251025_public-day_wu_miles_0135_lf.jpg",
+      "summary_en": "",
+      "summary_zh": "",
+      "tags": [
+        "Science"
+      ],
+      "hot_score": 0.0
+    },
+    {
+      "title_en": "Oat – Ultra-lightweight, zero dependency, semantic HTML, CSS, JS UI library",
+      "url": "https://oat.ink/",
+      "title_zh": "Oat——超轻量、零依赖、语义化HTML、CSS、JS UI库",
+      "scrape_time": "23:51, February 16, 2026 (PST)",
+      "image_url": "https://oat.ink/thumb.png",
+      "summary_en": "",
+      "summary_zh": "",
+      "tags": [
+        "Open Source",
+        "Web"
+      ],
+      "hot_score": 0.0
+    },
+    {
+      "title_en": "Ministry of Justice orders deletion of the UK's largest court reporting database",
+      "url": "https://www.legalcheek.com/2026/02/ministry-of-justice-orders-deletion-of-the-uks-largest-court-reporting-database/",
+      "title_zh": "英国司法部下令删除最大法院报道数据库",
+      "scrape_time": "23:51, February 16, 2026 (PST)",
+      "image_url": "https://www.legalcheek.com/wp-content/uploads/2024/03/AdobeStock_110501092-1.jpeg",
+      "summary_en": "",
+      "summary_zh": "",
+      "tags": [
+        "Legal",
+        "Data"
+      ],
+      "hot_score": 0.0
+    },
+    {
+      "title_en": "Hideki Sato, designer of all Sega's consoles, has died",
+      "url": "https://www.videogameschronicle.com/news/hideki-sato-designer-of-segas-consoles-dies-age-75/",
+      "title_zh": "世嘉所有主机设计师佐藤秀树去世",
+      "scrape_time": "23:51, February 16, 2026 (PST)",
+      "image_url": "https://www.videogameschronicle.com/files/2026/02/IMG_1643.jpeg",
+      "summary_en": "",
+      "summary_zh": "",
+      "tags": [
+        "Culture"
+      ],
+      "hot_score": 0.0
+    },
+    {
+      "title_en": "Qwen3.5: Towards Native Multimodal Agents",
+      "url": "https://qwen.ai/blog?id=qwen3.5",
+      "title_zh": "Qwen3.5：迈向原生多模态智能体",
+      "scrape_time": "23:51, February 16, 2026 (PST)",
+      "image_url": null,
+      "summary_en": "",
+      "summary_zh": "",
+      "tags": [
+        "AI"
+      ],
+      "hot_score": 0.0
+    },
+    {
+      "title_en": "LT6502: A 6502-based homebrew laptop",
+      "url": "https://github.com/TechPaula/LT6502",
+      "title_zh": "LT6502：基于6502的自制笔记本电脑",
+      "scrape_time": "23:51, February 16, 2026 (PST)",
+      "image_url": "https://opengraph.githubassets.com/1f2fd5a0d2a67ecfc3978aebe8f00902ac91b9b82bcc665a6919f9f2e5946e89/TechPaula/LT6502",
+      "summary_en": "",
+      "summary_zh": "",
+      "tags": [
+        "Hardware"
+      ],
+      "hot_score": 0.0
+    },
+    {
+      "title_en": "What your Bluetooth devices reveal",
+      "url": "https://blog.dmcc.io/journal/2026-bluetooth-privacy-bluehood/",
+      "title_zh": "你的蓝牙设备透露了什么信息",
+      "scrape_time": "23:51, February 16, 2026 (PST)",
+      "image_url": "https://blog.dmcc.io/img/android-icon-192x192.png",
+      "summary_en": "",
+      "summary_zh": "",
+      "tags": [
+        "Security",
+        "Privacy"
+      ],
+      "hot_score": 0.0
+    },
+    {
+      "title_en": "Anthropic tries to hide Claude's AI actions. Devs hate it",
+      "url": "https://www.theregister.com/2026/02/16/anthropic_claude_ai_edits/",
+      "title_zh": "Anthropic试图隐藏Claude的AI行为，开发者反感",
+      "scrape_time": "23:51, February 16, 2026 (PST)",
+      "image_url": "https://regmedia.co.uk/2026/02/05/shutterstock_2457318185.jpg",
+      "summary_en": "",
+      "summary_zh": "",
+      "tags": [
+        "AI"
+      ],
+      "hot_score": 0.0
+    },
+    {
+      "title_en": "Dark web agent spotted bedroom wall clue to rescue girl from abuse",
+      "url": "https://www.bbc.com/news/articles/cx2gn239exlo",
+      "title_zh": "暗网特工发现卧室墙壁线索，救出受虐女孩",
+      "scrape_time": "23:51, February 16, 2026 (PST)",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/5ef8/live/d681e5e0-0827-11f1-b5e2-dd58fc65f0f6.png",
+      "summary_en": "",
+      "summary_zh": "",
+      "tags": [
+        "Security"
+      ],
+      "hot_score": 0.0
+    },
+    {
+      "title_en": "Magnus Carlsen Wins the Freestyle (Chess960) World Championship",
+      "url": "https://www.fide.com/magnus-carlsen-wins-2026-fide-freestyle-world-championship/",
+      "title_zh": "Magnus Carlsen赢得Freestyle（Chess960）世界冠军",
+      "scrape_time": "23:51, February 16, 2026 (PST)",
+      "image_url": "https://www.fide.com/img/logo1.png",
+      "summary_en": "",
+      "summary_zh": "",
+      "tags": [
+        "Programming"
+      ],
+      "hot_score": 0.0
+    },
+    {
+      "title_en": "Thanks a lot, AI: Hard drives are sold out for the year, says WD",
+      "url": "https://mashable.com/article/ai-hard-drive-hdd-shortages-western-digital-sold-out",
+      "title_zh": "谢谢你，AI：WD称硬盘今年已售罄",
+      "scrape_time": "23:51, February 16, 2026 (PST)",
+      "image_url": "https://helios-i.mashable.com/imagery/articles/03BMp5tylVs9DJJavYCVFKV/hero-image.fill.size_1200x675.v1771180235.jpg",
+      "summary_en": "",
+      "summary_zh": "",
+      "tags": [
+        "AI",
+        "Hardware"
+      ],
+      "hot_score": 0.0
+    },
+    {
+      "title_en": "UK Discord users were part of a Peter Thiel-linked data collection experiment",
+      "url": "https://www.rockpapershotgun.com/good-news-uk-discord-users-were-part-of-a-peter-thiel-linked-data-collection-experiment",
+      "title_zh": "英国Discord用户参与彼得·蒂尔相关数据收集实验",
+      "scrape_time": "23:51, February 16, 2026 (PST)",
+      "image_url": "https://assetsio.gnwcdn.com/Discordageverification2.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "summary_en": "",
+      "summary_zh": "",
+      "tags": [
+        "Politics"
+      ],
+      "hot_score": 0.0
+    },
+    {
+      "title_en": "Show HN: Jemini – Gemini for the Epstein Files",
+      "url": "https://jmail.world/jemini",
+      "title_zh": "Show HN：Jemini——Epstein档案的Gemini版本",
+      "scrape_time": "23:51, February 16, 2026 (PST)",
+      "image_url": "https://jmail.world/social-preview.png",
+      "summary_en": "",
+      "summary_zh": "",
+      "tags": [
+        "Show HN",
+        "AI"
+      ],
+      "hot_score": 0.0
+    },
+    {
+      "title_en": "AI is destroying open source, and it's not even good yet",
+      "url": "https://www.jeffgeerling.com/blog/2026/ai-is-destroying-open-source/",
+      "title_zh": "AI正在摧毁开源项目，而且还没成熟",
+      "scrape_time": "23:51, February 16, 2026 (PST)",
+      "image_url": null,
+      "summary_en": "",
+      "summary_zh": "",
+      "tags": [
+        "Open Source",
+        "AI"
+      ],
+      "hot_score": 0.0
+    },
+    {
+      "title_en": "SkillsBench: Benchmarking how well agent skills work across diverse tasks",
+      "url": "https://arxiv.org/abs/2602.12670",
+      "title_zh": "SkillsBench：评测智能体技能在多样任务中的表现",
+      "scrape_time": "23:51, February 16, 2026 (PST)",
+      "image_url": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+      "summary_en": "",
+      "summary_zh": "",
+      "tags": [
+        "AI"
+      ],
+      "hot_score": 0.0
+    },
+    {
+      "title_en": "Palantir Gets Millions of Dollars from New York City's Public Hospitals",
+      "url": "https://theintercept.com/2026/02/15/palantir-contract-new-york-city-health-hospitals/",
+      "title_zh": "Palantir获纽约市公立医院数百万美元资金",
+      "scrape_time": "23:51, February 16, 2026 (PST)",
+      "image_url": "https://theintercept.com/wp-content/uploads/2026/02/AP20302727055883-e1771043216688.jpg?fit=6000%2C3000&w=1200&h=800",
+      "summary_en": "",
+      "summary_zh": "",
+      "tags": [
+        "Business"
+      ],
+      "hot_score": 0.0
+    },
+    {
+      "title_en": "Editor's Note: Retraction of article containing fabricated quotations",
+      "url": "https://arstechnica.com/staff/2026/02/editors-note-retraction-of-article-containing-fabricated-quotations/",
+      "title_zh": "编者按：撤回含捏造引述的文章",
+      "scrape_time": "23:51, February 16, 2026 (PST)",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/ars-logo-dark-background-1152x648.jpg",
+      "summary_en": "",
+      "summary_zh": "",
+      "tags": [
+        "Programming"
+      ],
+      "hot_score": 0.0
+    },
+    {
+      "title_en": "Gwtar: A static efficient single-file HTML format",
+      "url": "https://gwern.net/gwtar",
+      "title_zh": "Gwtar：高效静态单文件HTML格式",
+      "scrape_time": "23:51, February 16, 2026 (PST)",
+      "image_url": "https://gwern.net/doc/cs/algorithm/information/compression/2026-01-23-dbohdan-gpt5imagemini-gwtarlogo-guitar.png",
+      "summary_en": "",
+      "summary_zh": "",
+      "tags": [
+        "Open Source",
+        "Web"
+      ],
+      "hot_score": 0.0
+    },
+    {
+      "title_en": "Use protocols, not services",
+      "url": "https://notnotp.com/notes/use-protocols-not-services/",
+      "title_zh": "用协议，不用服务",
+      "scrape_time": "23:51, February 16, 2026 (PST)",
+      "image_url": null,
+      "summary_en": "",
+      "summary_zh": "",
+      "tags": [
+        "Web"
+      ],
+      "hot_score": 0.0
+    },
+    {
+      "title_en": "Privilege is bad grammar",
+      "url": "https://tadaima.bearblog.dev/privilege-is-bad-grammar/",
+      "title_zh": "特权是糟糕的语法",
+      "scrape_time": "23:51, February 16, 2026 (PST)",
+      "image_url": "https://bear-images.sfo2.cdn.digitaloceanspaces.com/herman-1683556668-0.png",
+      "summary_en": "",
+      "summary_zh": "",
+      "tags": [
+        "Legal"
+      ],
+      "hot_score": 0.0
+    },
+    {
+      "title_en": "Show HN: Microgpt is a GPT you can visualize in the browser",
+      "url": "https://microgpt.boratto.ca",
+      "title_zh": "Show HN：Microgpt——可在浏览器中可视化的GPT",
+      "scrape_time": "23:51, February 16, 2026 (PST)",
+      "image_url": null,
+      "summary_en": "",
+      "summary_zh": "",
+      "tags": [
+        "Show HN",
+        "AI",
+        "Web"
+      ],
+      "hot_score": 0.0
+    },
+    {
+      "title_en": "Peter Thiel: 2,436 emails with Epstein from 2014 to 2019",
+      "url": "https://jmail.world/wiki/peter-thiel",
+      "title_zh": "Peter Thiel：2014年至2019年与Epstein的2436封邮件",
+      "scrape_time": "23:51, February 16, 2026 (PST)",
+      "image_url": "https://jmail.world/api/og/jwiki/peter-thiel",
+      "summary_en": "",
+      "summary_zh": "",
+      "tags": [
+        "Security"
+      ],
+      "hot_score": 0.0
+    },
+    {
+      "title_en": "The Israeli spyware firm that accidentally just exposed itself",
+      "url": "https://ahmedeldin.substack.com/p/the-israeli-spyware-firm-that-accidentally",
+      "title_zh": "以色列间谍软件公司意外暴露自身",
+      "scrape_time": "23:51, February 16, 2026 (PST)",
+      "image_url": null,
+      "summary_en": "",
+      "summary_zh": "",
+      "tags": [
+        "Security"
+      ],
+      "hot_score": 0.0
+    },
+    {
+      "title_en": "Palantir vs. the \"Republik\": US analytics firm takes magazine to court",
+      "url": "https://www.heise.de/en/news/Palantir-vs-the-Republik-US-analytics-firm-takes-magazine-to-court-11176508.html",
+      "title_zh": "Palantir诉“Republik”：美国分析公司起诉杂志社",
+      "scrape_time": "23:51, February 16, 2026 (PST)",
+      "image_url": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/0/2/7/7/7/1/Screenshot_2026-02-13_at_19.57.24-85c7b3432095e315.png",
+      "summary_en": "",
+      "summary_zh": "",
+      "tags": [
+        "Security",
+        "Data",
+        "Legal"
+      ],
+      "hot_score": 0.0
+    },
+    {
+      "title_en": "Rise of the Triforce",
+      "url": "https://dolphin-emu.org/blog/2026/02/16/rise-of-the-triforce/",
+      "title_zh": "三角力量的崛起",
+      "scrape_time": "23:51, February 16, 2026 (PST)",
+      "image_url": "https://dolphin-emu.org/m/user/uploads/zinnia/2026/02/16/triforce-header-social.jpg",
+      "summary_en": "",
+      "summary_zh": "",
+      "tags": [
+        "Gaming"
+      ],
+      "hot_score": 0.0
+    },
+    {
+      "title_en": "Running My Own XMPP Server",
+      "url": "https://blog.dmcc.io/journal/xmpp-turn-stun-coturn-prosody/",
+      "title_zh": "运行我自己的XMPP服务器",
+      "scrape_time": "23:51, February 16, 2026 (PST)",
+      "image_url": "https://blog.dmcc.io/img/android-icon-192x192.png",
+      "summary_en": "",
+      "summary_zh": "",
+      "tags": [
+        "Web"
+      ],
+      "hot_score": 0.0
+    },
+    {
+      "title_en": "Show HN: Knock-Knock.net – Visualizing the bots knocking on my server's door",
+      "url": "https://knock-knock.net",
+      "title_zh": "Show HN：Knock-Knock.net——可视化敲我服务器门的机器人",
+      "scrape_time": "23:51, February 16, 2026 (PST)",
+      "image_url": "https://knock-knock.net/static/og-image.jpg",
+      "summary_en": "",
+      "summary_zh": "",
+      "tags": [
+        "Show HN"
+      ],
+      "hot_score": 0.0
+    },
+    {
+      "title_en": "Two different tricks for fast LLM inference",
+      "url": "https://www.seangoedecke.com/fast-llm-inference/",
+      "title_zh": "两种快速LLM推理技巧",
+      "scrape_time": "23:51, February 16, 2026 (PST)",
+      "image_url": "https://www.seangoedecke.com/og-image.jpg",
+      "summary_en": "",
+      "summary_zh": "",
+      "tags": [
+        "AI"
+      ],
+      "hot_score": 0.0
+    },
+    {
+      "title_en": "Show HN: Free alternative to Wispr Flow, Superwhisper, and Monologue",
+      "url": "https://github.com/zachlatta/freeflow",
+      "title_zh": "Show HN：Wispr Flow、Superwhisper和Monologue的免费替代品",
+      "scrape_time": "23:51, February 16, 2026 (PST)",
+      "image_url": "https://opengraph.githubassets.com/6a5d6595313108a52dedc4fa153586ff4fad600801981757e171bd65148f3082/zachlatta/freeflow",
+      "summary_en": "",
+      "summary_zh": "",
+      "tags": [
+        "Show HN"
+      ],
+      "hot_score": 0.0
+    },
+    {
+      "title_en": "Radio host David Greene says Google's NotebookLM tool stole his voice",
+      "url": "https://www.washingtonpost.com/technology/2026/02/15/david-greene-google-ai-podcast/",
+      "title_zh": "电台主持人大卫·格林称Google的NotebookLM工具盗用了他的声音",
+      "scrape_time": "23:51, February 16, 2026 (PST)",
+      "image_url": null,
+      "summary_en": "",
+      "summary_zh": "",
+      "tags": [
+        "AI"
+      ],
+      "hot_score": 0.0
+    },
+    {
+      "title_en": "JavaScript-heavy approaches are not compatible with long-term performance goals",
+      "url": "https://sgom.es/posts/2026-02-13-js-heavy-approaches-are-not-compatible-with-long-term-performance-goals/",
+      "title_zh": "重度JavaScript方法不适合长期性能目标",
+      "scrape_time": "23:51, February 16, 2026 (PST)",
+      "image_url": "https://sgom.es/posts/2026-02-13-js-heavy-approaches-are-not-compatible-with-long-term-performance-goals/preact-dev-tools.jpg",
+      "summary_en": "",
+      "summary_zh": "",
+      "tags": [
+        "Programming"
+      ],
+      "hot_score": 0.0
+    },
+    {
+      "title_en": "The Sideprocalypse",
+      "url": "https://johan.hal.se/wrote/2026/02/03/the-sideprocalypse/",
+      "title_zh": "Sideprocalypse事件",
+      "scrape_time": "23:51, February 16, 2026 (PST)",
+      "image_url": "https://johan.hal.se/wrote/2026/02/03/the-sideprocalypse/og.png",
+      "summary_en": "",
+      "summary_zh": "",
+      "tags": [
+        "Culture"
+      ],
+      "hot_score": 0.0
+    },
+    {
+      "title_en": "MessageFormat: Unicode standard for localizable message strings",
+      "url": "https://github.com/unicode-org/message-format-wg",
+      "title_zh": "MessageFormat：可本地化消息字符串的Unicode标准",
+      "scrape_time": "23:51, February 16, 2026 (PST)",
+      "image_url": "https://opengraph.githubassets.com/1c8e6561ba241e6c09add2363ec1e2a457619b216f126f5cc5deb7b511080b71/unicode-org/message-format-wg",
+      "summary_en": "",
+      "summary_zh": "",
+      "tags": [
+        "Web"
+      ],
+      "hot_score": 0.0
+    },
+    {
+      "title_en": "I guess I kinda get why people hate AI",
+      "url": "https://anthony.noided.media/blog/ai/programming/2026/02/14/i-guess-i-kinda-get-why-people-hate-ai.html",
+      "title_zh": "我大概明白为什么人们讨厌AI",
+      "scrape_time": "23:51, February 16, 2026 (PST)",
+      "image_url": null,
+      "summary_en": "",
+      "summary_zh": "",
+      "tags": [
+        "AI",
+        "Programming"
+      ],
+      "hot_score": 0.0
+    },
+    {
+      "title_en": "State Attorneys General Want to Tie Online Access to ID",
+      "url": "https://reclaimthenet.org/40-attorneys-general-back-ids-online-safety-act",
+      "title_zh": "州总检察长欲将在线访问与身份证绑定",
+      "scrape_time": "23:51, February 16, 2026 (PST)",
+      "image_url": "https://reclaimthenet.org/wp-content/uploads/2026/02/rlbslt7uoVda-scaled.jpg",
+      "summary_en": "",
+      "summary_zh": "",
+      "tags": [
+        "Politics"
+      ],
+      "hot_score": 0.0
+    },
+    {
+      "title_en": "Arm wants a bigger slice of the chip business",
+      "url": "https://www.economist.com/business/2026/02/12/arm-wants-a-bigger-slice-of-the-chip-business",
+      "title_zh": "Arm想在芯片业务中分得更大份额",
+      "scrape_time": "23:51, February 16, 2026 (PST)",
+      "image_url": null,
+      "summary_en": "",
+      "summary_zh": "",
+      "tags": [
+        "Business",
+        "Hardware"
+      ],
+      "hot_score": 0.0
+    },
+    {
+      "title_en": "AI is going to kill app subscriptions",
+      "url": "https://nichehunt.app/blog/ai-going-to-kill-app-subscriptions",
+      "title_zh": "AI将终结应用订阅模式",
+      "scrape_time": "23:51, February 16, 2026 (PST)",
+      "image_url": "https://nichehunt.app/opengraph-image.png?opengraph-image.c79cda14.png",
+      "summary_en": "",
+      "summary_zh": "",
+      "tags": [
+        "AI"
+      ],
+      "hot_score": 0.0
+    },
+    {
+      "title_en": "Pocketblue – Fedora Atomic for mobile devices",
+      "url": "https://github.com/pocketblue/pocketblue",
+      "title_zh": "Pocketblue——面向移动设备的Fedora Atomic",
+      "scrape_time": "23:51, February 16, 2026 (PST)",
+      "image_url": "https://opengraph.githubassets.com/98ab222010b6811c206b4f01c85e676700249232d9e978312db2ae79dda3186f/pocketblue/pocketblue",
+      "summary_en": "",
+      "summary_zh": "",
+      "tags": [
+        "Web"
+      ],
+      "hot_score": 0.0
+    },
+    {
+      "title_en": "Robert Duvall has died",
+      "url": "https://www.nytimes.com/2026/02/16/movies/robert-duvall-dead.html?unlocked_article_code=1.MlA.5LIC.JbSiEGzihyVU&smid=url-share",
+      "title_zh": "Robert Duvall去世",
+      "scrape_time": "23:51, February 16, 2026 (PST)",
+      "image_url": "https://static01.nyt.com/images/2026/01/21/multimedia/00duvall-pvjw/00duvall-pvjw-facebookJumbo-v2.jpg",
+      "summary_en": "",
+      "summary_zh": "",
+      "tags": [
+        "Culture"
+      ],
+      "hot_score": 0.0
+    },
+    {
+      "title_en": "WebMCP Proposal",
+      "url": "https://webmachinelearning.github.io/webmcp/",
+      "title_zh": "WebMCP提案",
+      "scrape_time": "23:51, February 16, 2026 (PST)",
+      "image_url": "https://webmachinelearning.github.io/webmachinelearning-logo.png",
+      "summary_en": "",
+      "summary_zh": "",
+      "tags": [
+        "Web"
+      ],
+      "hot_score": 0.0
+    },
+    {
+      "title_en": "Why I don't think AGI is imminent",
+      "url": "https://dlants.me/agi-not-imminent.html",
+      "title_zh": "我为何不认为AGI即将到来",
+      "scrape_time": "23:51, February 16, 2026 (PST)",
+      "image_url": null,
+      "summary_en": "",
+      "summary_zh": "",
+      "tags": [
+        "AI"
+      ],
+      "hot_score": 0.0
+    },
+    {
+      "title_en": "Wero – Digital payment wallet, made in Europe",
+      "url": "https://wero-wallet.eu",
+      "title_zh": "Wero——欧洲制造的数字支付钱包",
+      "scrape_time": "23:51, February 16, 2026 (PST)",
+      "image_url": "https://wero-wallet.eu/storage/images/Frame-1.png",
+      "summary_en": "",
+      "summary_zh": "",
+      "tags": [
+        "Finance"
+      ],
+      "hot_score": 0.0
+    },
+    {
+      "title_en": "Picol: A Tcl interpreter in 500 lines of code",
+      "url": "https://github.com/antirez/picol",
+      "title_zh": "Picol：500行代码实现的Tcl解释器",
+      "scrape_time": "23:51, February 16, 2026 (PST)",
+      "image_url": "https://opengraph.githubassets.com/947a9f761d22afab286d4e58d9e54ee7badbda19501d184b2d5b4dde6cdbce95/antirez/picol",
+      "summary_en": "",
+      "summary_zh": "",
+      "tags": [
+        "Programming"
+      ],
+      "hot_score": 0.0
+    },
+    {
+      "title_en": "AI optimism is a class privilege",
+      "url": "https://joshcollinsworth.com/blog/sloptimism",
+      "title_zh": "AI乐观主义是一种阶级特权",
+      "scrape_time": "23:51, February 16, 2026 (PST)",
+      "image_url": "https://joshcollinsworth.com/images/post_images/slop.jpg",
+      "summary_en": "",
+      "summary_zh": "",
+      "tags": [
+        "AI"
+      ],
+      "hot_score": 0.0
+    }
+  ]
+}

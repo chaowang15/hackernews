@@ -1,0 +1,1159 @@
+{
+  "meta": {
+    "mode": "best",
+    "source": "https://news.ycombinator.com/",
+    "api": "https://github.com/HackerNews/API",
+    "count_requested": 50,
+    "count_written": 50,
+    "reused_same_day": 0,
+    "reused_cross_day": 24,
+    "new_llm_enriched": 4,
+    "scrape_time_display": "09:34, September 15, 2026 (PDT)",
+    "timezone": "America/Los_Angeles",
+    "date_dir": "2026/09/14",
+    "content_date": "2026-09-14",
+    "run_time_local": "09:34, September 15, 2026 (PDT)",
+    "run_time_utc": "2026-09-15 16:34:30 UTC",
+    "incremental": true,
+    "stories_max": 50,
+    "hot_score_time_utc": "2026-09-15 16:35:10 UTC"
+  },
+  "items": [
+    {
+      "title_en": "Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations",
+      "url": "https://github.com/arnegiacomo/fugleramme",
+      "title_zh": "Show HN：一款能听鸟鸣并将它们画成19世纪插画风格的电子墨水相框",
+      "created_display": "Created: Sep 15, 2026 / 05:31 PT",
+      "image_url": "https://repository-images.githubusercontent.com/1294088656/7d2dbd8d-ec72-4781-8363-f4f5b9afc352",
+      "summary_en": "An e-ink frame listens to birds and translates each encounter into a 1800s-style illustration. It showcases on-device audio recognition and art rendering on low-power hardware, blending nature, hardware tinkering, and generative art. A playful glimpse at how accessible hobbyist setups can produce museum-like visuals from real-world sounds.",
+      "summary_zh": "一款电子墨水相框能够监听鸟鸣并把鸟的形象绘制成19世纪风格的插画。该项目结合低功耗硬件、本地音频识别与艺术渲染，呈现自然与生成艺术的有趣融合，为爱好者级设备如何产出类似博物馆作品提供了直观案例。",
+      "hn": {
+        "id": 49711544,
+        "type": "story",
+        "by": "arnemunthekaas",
+        "score": 590,
+        "descendants": 94,
+        "time": 1789475470,
+        "comments_url": "https://news.ycombinator.com/item?id=49711544"
+      },
+      "hot_score": 22.95,
+      "tags": [
+        "Show HN",
+        "Hardware",
+        "Design"
+      ]
+    },
+    {
+      "title_en": "25 Years of Mass Surveillance Is Enough",
+      "url": "https://www.schneier.com/blog/archives/2026/09/25-years-of-mass-surveillance-is-enough.html",
+      "title_zh": "25年大规模监控已足够",
+      "created_display": "Created: Sep 15, 2026 / 04:26 PT",
+      "image_url": "https://www.schneier.com/wp-content/uploads/2019/10/rss-32px.png",
+      "summary_en": "On the 25-year anniversary of mass surveillance, the piece argues that the security gains never justify the erosion of privacy and civil liberties. It calls for concrete reforms—stronger privacy protections, greater transparency, and limits on bulk data collection—along with practical steps for technologists and policymakers.",
+      "summary_zh": "在大规模监控25周年之际，文章认为安全收益并不足以正当化对隐私与公民自由的侵蚀，呼吁进行实质性改革。文中提出加强隐私保护、提升透明度、限制大规模数据收集等具体举措，并为技术人员与决策者提供可执行的行动路径。",
+      "hn": {
+        "id": 49710883,
+        "type": "story",
+        "by": "iamnothere",
+        "score": 482,
+        "descendants": 147,
+        "time": 1789471608,
+        "comments_url": "https://news.ycombinator.com/item?id=49710883"
+      },
+      "hot_score": 13.98,
+      "tags": [
+        "Privacy",
+        "Security"
+      ]
+    },
+    {
+      "title_en": "Java 27 Released",
+      "url": "https://mail.openjdk.org/archives/list/announce@openjdk.org/thread/ORGGLMN75HFEWP7YL3ZLGHLYHVIBJDYT/",
+      "title_zh": "Java 27 已发布",
+      "created_display": "Created: Sep 15, 2026 / 06:13 PT",
+      "image_url": "https://mail.openjdk.org/static/openjdk/img/openjdk-mail-logo.png",
+      "summary_en": "Java 27 has been released, continuing OpenJDK’s long-running update cadence. The release emphasizes performance and stability improvements, new APIs, and ongoing ecosystem enhancements that keep Java competitive for cloud and enterprise workloads.",
+      "summary_zh": "Java 27 已发布，延续 OpenJDK 的长期更新节奏。该版本着重性能与稳定性提升、新增 API，以及对生态系统的持续完善，确保 Java 在云与企业场景中的竞争力。",
+      "hn": {
+        "id": 49712041,
+        "type": "story",
+        "by": "mkurz",
+        "score": 232,
+        "descendants": 174,
+        "time": 1789478023,
+        "comments_url": "https://news.ycombinator.com/item?id=49712041"
+      },
+      "hot_score": 11.26,
+      "tags": [
+        "Programming",
+        "Open Source"
+      ]
+    },
+    {
+      "title_en": "Suspected sabotage causes major Netherlands rail disruption",
+      "url": "https://www.bbc.com/news/articles/c8ly49w9g1edo",
+      "title_zh": "荷兰铁路重大中断疑似蓄意破坏",
+      "created_display": "Created: Sep 15, 2026 / 03:22 PT",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/eda4/live/dbe5e120-b0de-11f1-b1d1-571ed4d7ff2c.jpg",
+      "summary_en": "A major rail disruption in the Netherlands appears to be caused by suspected sabotage, as authorities investigate the motive and method. The incident underscores how critical rail networks remain vulnerable to targeted disruption and how operators balance rapid service restoration with security in signaling and infrastructure.",
+      "summary_zh": "荷兰出现大规模铁路中断，调查初步指向疑似蓄意破坏。此事件凸显铁路网络对有针对性的破坏仍然脆弱，并在修复与安全之间带来新的权衡。",
+      "hn": {
+        "id": 49710253,
+        "type": "story",
+        "by": "choult",
+        "score": 344,
+        "descendants": 336,
+        "time": 1789467766,
+        "comments_url": "https://news.ycombinator.com/item?id=49710253"
+      },
+      "tags": [
+        "Security",
+        "DevOps"
+      ],
+      "hot_score": 7.76
+    },
+    {
+      "title_en": "I can't stop thinking about Papua New Guinea",
+      "url": "https://notnottalmud.substack.com/p/why-i-cant-stop-thinking-about-papua",
+      "title_zh": "我停不下对巴布亚新几内亚的思考",
+      "created_display": "Created: Sep 14, 2026 / 23:16 PT",
+      "image_url": null,
+      "summary_en": "A personal reflection on Papua New Guinea that challenges readers to see beyond stereotypes, touching on its geography, connectivity, and development. It situates PNG as a place where technology, culture, and policy intersect in surprising ways.",
+      "summary_zh": "这篇反思性文章挑战读者跳出对巴布亚新几内亚的刻板印象，涉及地理、连接性与发展等议题。它呈现出技术、文化与政策在这个国家的交汇及其独特性。",
+      "hn": {
+        "id": 49708431,
+        "type": "story",
+        "by": "networked",
+        "score": 694,
+        "descendants": 300,
+        "time": 1789452984,
+        "comments_url": "https://news.ycombinator.com/item?id=49708431"
+      },
+      "tags": [
+        "Culture",
+        "Politics"
+      ],
+      "hot_score": 7.55
+    },
+    {
+      "title_en": "Linux from Scratch",
+      "url": "https://www.linuxfromscratch.org/",
+      "title_zh": "Linux From Scratch（从零开始构建的 Linux）",
+      "created_display": "Created: Sep 14, 2026 / 21:15 PT",
+      "image_url": "https://www.linuxfromscratch.org/images/linux-from-scratch.png",
+      "summary_en": "Linux From Scratch guides building a Linux system from source, offering deep visibility into every step from kernel to userland. It’s a learning project that yields a highly customizable, minimal setup, but requires time and ongoing maintenance.",
+      "summary_zh": "Linux From Scratch 让你从源码逐步搭建一个 Linux 系统，洞悉内核、库和启动过程的每个环节。对于想要极简、可控且高度自定义的系统的开发者很有价值，但需要投入大量时间来维护。",
+      "hn": {
+        "id": 49707627,
+        "type": "story",
+        "by": "sippingabonedry",
+        "score": 319,
+        "descendants": 103,
+        "time": 1789445723,
+        "comments_url": "https://news.ycombinator.com/item?id=49707627"
+      },
+      "tags": [
+        "Programming",
+        "Open Source"
+      ],
+      "hot_score": 2.64
+    },
+    {
+      "title_en": "Alternatives to MinIO for single-node local S3",
+      "url": "https://rmoff.net/2026/01/14/alternatives-to-minio-for-single-node-local-s3/",
+      "title_zh": "单节点本地 S3 的替代方案",
+      "created_display": "Created: Sep 15, 2026 / 01:21 PT",
+      "image_url": "https://rmoff.net/images/2026/01/h_IMG_3845.jpeg",
+      "summary_en": "Reviews several single-node local S3-compatible storage options as alternatives to MinIO, weighing factors like performance, features, maintenance, and ecosystem maturity.",
+      "summary_zh": "评估适用于单节点本地 S3 的替代方案，比较性能、特性、维护成本及生态成熟度。",
+      "hn": {
+        "id": 49709381,
+        "type": "story",
+        "by": "rmoff",
+        "score": 170,
+        "descendants": 75,
+        "time": 1789460487,
+        "comments_url": "https://news.ycombinator.com/item?id=49709381"
+      },
+      "tags": [
+        "Open Source",
+        "DevOps"
+      ],
+      "hot_score": 2.57
+    },
+    {
+      "title_en": "CSS-Tricks in Limbo",
+      "url": "https://vale.rocks/micros/20260915-0135",
+      "title_zh": "CSS-Tricks 的不确定未来",
+      "created_display": "Created: Sep 15, 2026 / 00:27 PT",
+      "image_url": "https://vale.rocks/assets/og/micro.webp",
+      "summary_en": "An assessment of CSS-Tricks' uncertain future amid ownership and platform shifts, and what that means for the web design community relying on its guidance.",
+      "summary_zh": "讨论 CSS-Tricks 面临的未来不确定性，及其所有权与平台策略的变化对前端设计社区的影响。",
+      "hn": {
+        "id": 49708993,
+        "type": "story",
+        "by": "edent",
+        "score": 193,
+        "descendants": 73,
+        "time": 1789457266,
+        "comments_url": "https://news.ycombinator.com/item?id=49708993"
+      },
+      "tags": [
+        "Design",
+        "Web"
+      ],
+      "hot_score": 2.51
+    },
+    {
+      "title_en": "Steam Frame starts at $1059",
+      "url": "https://store.steampowered.com/hardware/steamframe",
+      "title_zh": "Steam Frame 价格起步 1059 美元",
+      "created_display": "Created: Sep 14, 2026 / 10:27 PT",
+      "image_url": "https://clan.fastly.steamstatic.com/images/45479024/41ac1feaa13a1396844a31be91beb068eb2e509f.jpg",
+      "summary_en": "Valve's portable PC concept, Steam Frame, starts at $1059, signaling a premium entry in the growing handheld/desktop hybrid space. It suggests Valve's continued push to expand PC gaming form factors.",
+      "summary_zh": "Steam Frame 以 1059 美元起售，标志着 Valve 在便携式/桌面混合设备领域的高端定位。该产品凸显 Valve 推动 PC 游戏形态多样化的野心。",
+      "hn": {
+        "id": 49700661,
+        "type": "story",
+        "by": "bsimpson",
+        "score": 713,
+        "descendants": 593,
+        "time": 1789406875,
+        "comments_url": "https://news.ycombinator.com/item?id=49700661"
+      },
+      "tags": [
+        "Hardware",
+        "Gaming"
+      ],
+      "hot_score": 2.15
+    },
+    {
+      "title_en": "iOS 27, iPadOS 27, and macOS 27",
+      "url": "https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/",
+      "title_zh": "iOS 27、iPadOS 27 与 macOS 27",
+      "created_display": "Created: Sep 14, 2026 / 10:50 PT",
+      "image_url": "https://www.apple.com/newsroom/images/2026/09/major-updates-for-apples-software-platforms-are-now-available/tile/Apple-OS-availability-hero-lp.jpg.og.jpg?202609141711",
+      "summary_en": "Apple rolls out major platform updates across iOS, iPadOS, and macOS with new features, developer APIs, and privacy/security enhancements. The changes shape app ecosystems and developer workflows this fall.",
+      "summary_zh": "苹果推出 iOS、iPadOS、macOS 的重大更新，包含新功能、开发者接口与隐私安全改进，将影响应用生态和开发者工作流。",
+      "hn": {
+        "id": 49701004,
+        "type": "story",
+        "by": "throw0101d",
+        "score": 692,
+        "descendants": 801,
+        "time": 1789408229,
+        "comments_url": "https://news.ycombinator.com/item?id=49701004"
+      },
+      "tags": [
+        "Programming",
+        "Privacy",
+        "Security"
+      ],
+      "hot_score": 2.14
+    },
+    {
+      "title_en": "US confirms for first time it has deployed space weapons",
+      "url": "https://www.bbc.com/news/articles/ck790xg41ygro",
+      "title_zh": "美国首次公开宣布在太空部署武器",
+      "created_display": "Created: Sep 14, 2026 / 20:47 PT",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/0b47/live/b32fd7a0-b0f1-11f1-bc1f-3f186ca4140c.jpg",
+      "summary_en": "Marks the first public confirmation that the US has deployed weapons in space, signaling a shift in strategic posture and triggering debates over space security and policy.",
+      "summary_zh": "美国首次公开确认在太空部署武器，体现战略姿态的转变，并引发关于太空安全与政策的广泛讨论。",
+      "hn": {
+        "id": 49707473,
+        "type": "story",
+        "by": "harporoeder",
+        "score": 267,
+        "descendants": 169,
+        "time": 1789444076,
+        "comments_url": "https://news.ycombinator.com/item?id=49707473"
+      },
+      "tags": [
+        "Space",
+        "Security"
+      ],
+      "hot_score": 2.08
+    },
+    {
+      "title_en": "Dario, Please",
+      "url": "https://pop.rdi.sh/dario-please/",
+      "title_zh": "Dario，请",
+      "created_display": "Created: Sep 14, 2026 / 07:50 PT",
+      "image_url": null,
+      "summary_en": "Dario, Please is a concise piece centered on a direct request to someone named Dario, illustrating a focused prompt or appeal in a tech context.",
+      "summary_zh": "《Dario，请》是一篇聚焦于直接向名为 Dario 的人提出请求的简短文章。",
+      "hn": {
+        "id": 49697893,
+        "type": "story",
+        "by": "0x5FC3",
+        "score": 593,
+        "descendants": 278,
+        "time": 1789397432,
+        "comments_url": "https://news.ycombinator.com/item?id=49697893"
+      },
+      "tags": [
+        "Culture"
+      ],
+      "hot_score": 1.49
+    },
+    {
+      "title_en": "Pion, an agent designed to run any company autonomously",
+      "url": "https://andonlabs.com/blog/why-we-built-pion",
+      "title_zh": "Pion：一个可让企业自主运行的自治代理",
+      "created_display": "Created: Sep 14, 2026 / 10:16 PT",
+      "image_url": "https://andonlabs.com/pion.og.webp",
+      "summary_en": "Pion is an agent designed to run any company autonomously, orchestrating tasks and decisions with minimal human input. This concept highlights the potential and challenges of deployable autonomous organizations, including governance, safety, and reliability considerations.",
+      "summary_zh": "Pion 是一个旨在让企业在最小人工干预下自行运作的自治代理。该理念展示了可落地的全自动化组织前景，同时也提出治理、安全与可靠性方面的挑战。",
+      "hn": {
+        "id": 49700477,
+        "type": "story",
+        "by": "lukaspetersson",
+        "score": 470,
+        "descendants": 567,
+        "time": 1789406166,
+        "comments_url": "https://news.ycombinator.com/item?id=49700477"
+      },
+      "tags": [
+        "AI",
+        "Startups"
+      ],
+      "hot_score": 1.4
+    },
+    {
+      "title_en": "XCancel service is suspended until further notice",
+      "url": "https://xcancel.com/#",
+      "title_zh": "XCancel 服务暂停，等待进一步通知",
+      "created_display": "Created: Sep 14, 2026 / 02:51 PT",
+      "image_url": null,
+      "summary_en": "XCancel has suspended its service with no restart timeline, disrupting users who rely on its cancellation features. The pause raises questions about platform stability, governance, and future availability.",
+      "summary_zh": "XCancel 宣布暂停服务，尚未给出重新开启的时间表，影响依赖其取消功能的用户。此举引发关于平台稳定性、治理和未来可用性的讨论。",
+      "hn": {
+        "id": 49694296,
+        "type": "story",
+        "by": "gaganyaan",
+        "score": 737,
+        "descendants": 987,
+        "time": 1789379510,
+        "comments_url": "https://news.ycombinator.com/item?id=49694296"
+      },
+      "tags": [
+        "Business"
+      ],
+      "hot_score": 1.38
+    },
+    {
+      "title_en": "Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher",
+      "url": "https://www.vals.ai/blogs/fable-solves-cyphral-distich",
+      "title_zh": "Fable 5.1 破解370年前的 Cyphral Distich 密码",
+      "created_display": "Created: Sep 13, 2026 / 14:06 PT",
+      "image_url": "https://www.vals.ai/og.jpg",
+      "summary_en": "Fable 5.1 has cracked the Cyphral Distich, a cipher dating back three centuries. The reveal underscores how modern cryptographic tooling and collaborative puzzle solving can crack even long-standing cryptographic curiosities.",
+      "summary_zh": "Fable 5.1 终于破解了370年前的 Cyphral Distich 密码。此成就凸显现代密码学工具的成熟，以及长期未解之谜对密码学爱好者的持续吸引力。",
+      "hn": {
+        "id": 49688695,
+        "type": "story",
+        "by": "u1hcw9nx",
+        "score": 1199,
+        "descendants": 563,
+        "time": 1789333573,
+        "comments_url": "https://news.ycombinator.com/item?id=49688695"
+      },
+      "tags": [
+        "Security"
+      ],
+      "hot_score": 1.24
+    },
+    {
+      "title_en": "Charts built for Chat",
+      "url": "https://dbtcharts.com/blog/charts-built-for-chat/",
+      "title_zh": "为聊天场景定制的图表",
+      "created_display": "Created: Sep 14, 2026 / 14:22 PT",
+      "image_url": "https://dbtcharts.com/assets/social/background_hu_b580101c226cb278.png",
+      "summary_en": "Proposes charting approaches optimized for chat environments, emphasizing compact visuals and quick readability. The ideas help teams build chat-friendly analytics or AI-assisted dashboards that stay in the conversation thread.",
+      "summary_zh": "提出面向聊天场景设计的图表方法，强调紧凑的可视化与快速可读性。为构建在对话中的数据分析或 AI 助手仪表盘的团队提供了实用思路。",
+      "hn": {
+        "id": 49704246,
+        "type": "story",
+        "by": "thingsilearned",
+        "score": 286,
+        "descendants": 84,
+        "time": 1789420974,
+        "comments_url": "https://news.ycombinator.com/item?id=49704246"
+      },
+      "tags": [
+        "Data",
+        "AI"
+      ],
+      "hot_score": 1.17
+    },
+    {
+      "title_en": "Ex-FTC boss Khan: break out the handcuffs for AI CEOs, citing 1934 precedent",
+      "url": "https://www.theregister.com/ai-and-ml/2026/09/14/ex-ftc-boss-khan-urges-uncle-sam-to-break-out-the-handcuffs-for-ai-ceos-citing-1934-precedent/5296325",
+      "title_zh": "前 FTC 主席呼吁对 AI 公司的强监管，援引1934年先例",
+      "created_display": "Created: Sep 14, 2026 / 17:40 PT",
+      "image_url": "https://image.theregister.com/240353.jpg?imageId=240353&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+      "summary_en": "Ex-FTC boss Khan: break out the handcuffs for AI CEOs, citing 1934 precedent",
+      "summary_zh": "前 FTC 主席认为应对 AI 公司的领导层采取更强监管措施，援引1934年的反垄断先例来为此辩护。此观点凸显了 AI 市场力量与安全治理之间的高风险监管辩论。",
+      "hn": {
+        "id": 49706223,
+        "type": "story",
+        "by": "throwworhtthrow",
+        "score": 203,
+        "descendants": 121,
+        "time": 1789432814,
+        "comments_url": "https://news.ycombinator.com/item?id=49706223"
+      },
+      "tags": [
+        "Legal",
+        "Politics",
+        "AI"
+      ],
+      "hot_score": 1.12
+    },
+    {
+      "title_en": "OpenAI bots knew about the RubyGems caching vulnerability",
+      "url": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/",
+      "title_zh": "OpenAI 系统早知 RubyGems 缓存漏洞",
+      "created_display": "Created: Sep 14, 2026 / 05:40 PT",
+      "image_url": "https://tenderlovemaking.com/images/logo1.png",
+      "summary_en": "The post argues OpenAI systems had awareness of a RubyGems caching vulnerability, illustrating how AI tools can absorb and potentially propagate software supply chain risks. The takeaway is that AI deployments must account for latent security knowledge and policy implications.",
+      "summary_zh": "文中主张 OpenAI 的系统对 RubyGems 的缓存漏洞有提前认知，揭示 AI 工具可能吸收并传播软件供应链风险。对 AI 部署而言，这强调需要将潜在安全知识与政策影响纳入考量。",
+      "hn": {
+        "id": 49695876,
+        "type": "story",
+        "by": "gregnavis",
+        "score": 498,
+        "descendants": 407,
+        "time": 1789389657,
+        "comments_url": "https://news.ycombinator.com/item?id=49695876"
+      },
+      "tags": [
+        "AI",
+        "Security"
+      ],
+      "hot_score": 1.1
+    },
+    {
+      "title_en": "Distributed Systems Classics (2017)",
+      "url": "https://nvartolomei.com/dist-sys-classics/",
+      "title_zh": "分布式系统经典（2017）",
+      "created_display": "Created: Sep 14, 2026 / 09:02 PT",
+      "image_url": null,
+      "summary_en": "A curated look back at classic distributed-systems papers that shaped modern cloud-scale design. The collection underscores enduring ideas around consensus, fault tolerance, and scalable architectures.",
+      "summary_zh": "回顾塑造现代云端设计的分布式系统经典论文，强调共识、容错与可扩展架构等长期有效的核心思想。",
+      "hn": {
+        "id": 49699158,
+        "type": "story",
+        "by": "grep_it",
+        "score": 336,
+        "descendants": 70,
+        "time": 1789401721,
+        "comments_url": "https://news.ycombinator.com/item?id=49699158"
+      },
+      "tags": [
+        "Science",
+        "Programming"
+      ],
+      "hot_score": 0.92
+    },
+    {
+      "title_en": "Why is Google still serving dodgy ads?",
+      "url": "https://www.atomic14.com/2026/09/13/why-is-google-still-serving-dodgy-ads",
+      "title_zh": "为何谷歌仍在投放可疑广告？",
+      "created_display": "Created: Sep 13, 2026 / 10:37 PT",
+      "image_url": "https://www.atomic14.com/assets/article_images/2026-09-13/dodgy.webp",
+      "summary_en": "Dodgy ads persist on Google's networks despite ongoing anti-fraud efforts, driven by the complexity of the ad tech stack and automated optimization that can bypass checks. This highlights brand-safety risks for advertisers and users and calls for tighter vetting, clearer transparency, and stronger enforcement from Google.",
+      "summary_zh": "尽管有反欺诈措施，谷歌广告网络中的不良广告仍然存在。广告生态的复杂性与自动化优化使审核难以完全覆盖，带来品牌与用户风险。文章呼吁加强审核、提升透明度，并强化执法力度。",
+      "hn": {
+        "id": 49686445,
+        "type": "story",
+        "by": "iamflimflam1",
+        "score": 943,
+        "descendants": 404,
+        "time": 1789321064,
+        "comments_url": "https://news.ycombinator.com/item?id=49686445"
+      },
+      "tags": [
+        "Business",
+        "Privacy"
+      ],
+      "hot_score": 0.86
+    },
+    {
+      "title_en": "Amazon vs. Perplexity – U.S. Court of Appeals for the Ninth Circuit",
+      "url": "https://law.justia.com/cases/federal/appellate-courts/ca9/26-1444/26-1444-2026-08-04.html",
+      "title_zh": "亚马逊对 Perplexity：美国第九巡回上诉法院",
+      "created_display": "Created: Sep 14, 2026 / 14:05 PT",
+      "image_url": null,
+      "summary_en": "A Ninth Circuit ruling involving Amazon and the AI service Perplexity could shape how platforms handle AI-sourced content and user-generated material. The decision signals evolving liability frameworks for AI-assisted services.",
+      "summary_zh": "涉及亚马逊与 Perplexity 的第九巡回法院裁决或将影响平台对 AI 获取信息来源和用户生成内容的责任界定。裁决反映出对 AI 助手服务的责任框架正在演化。",
+      "hn": {
+        "id": 49704008,
+        "type": "story",
+        "by": "neom",
+        "score": 214,
+        "descendants": 209,
+        "time": 1789419922,
+        "comments_url": "https://news.ycombinator.com/item?id=49704008"
+      },
+      "tags": [
+        "Legal",
+        "AI"
+      ],
+      "hot_score": 0.85
+    },
+    {
+      "title_en": "How to write an effective software design document",
+      "url": "https://refactoringenglish.com/excerpts/write-an-effective-design-doc/",
+      "title_zh": "如何撰写高效的软件设计文档",
+      "created_display": "Created: Sep 14, 2026 / 06:00 PT",
+      "image_url": "https://refactoringenglish.com/excerpts/write-an-effective-design-doc/og-cover.webp",
+      "summary_en": "A practical guide to design docs outlining purpose, audience, scope, architecture overview, key components, decisions log, tradeoffs, and acceptance criteria. The piece emphasizes keeping docs living, aligned with code, and clarifying rationale to speed up review and future changes.",
+      "summary_zh": "这篇实用指南列出撰写高效设计文档的要点，包括目标受众、范围、架构概览、关键组件和决策记录，以及权衡取舍与验收标准。文档应与实现对齐、可持续更新，以加速评审与后续变更。",
+      "hn": {
+        "id": 49696125,
+        "type": "story",
+        "by": "fagnerbrack",
+        "score": 338,
+        "descendants": 139,
+        "time": 1789390846,
+        "comments_url": "https://news.ycombinator.com/item?id=49696125"
+      },
+      "tags": [
+        "Design"
+      ],
+      "hot_score": 0.76
+    },
+    {
+      "title_en": "Microsoft patches Windows and Excel – breaks audio, remote access, and paste",
+      "url": "https://www.theregister.com/os-platforms/2026/09/14/microsoft-patches-windows-and-excel-breaks-audio-remote-access-and-paste/5296085",
+      "title_zh": "微软修补 Windows 与 Excel——影响音频、远程访问和粘贴功能",
+      "created_display": "Created: Sep 14, 2026 / 09:09 PT",
+      "image_url": "https://image.theregister.com/259053.jpg?imageId=259053&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+      "summary_en": "A patching wave from Microsoft disrupts audio devices, remote access, and clipboard paste, prompting advisories for affected users and IT teams.",
+      "summary_zh": "微软的补丁更新波及音频设备、远程访问与粘贴功能，影响用户和 IT 团队，需要相应的应对建议。",
+      "hn": {
+        "id": 49699297,
+        "type": "story",
+        "by": "Alephinitesimal",
+        "score": 254,
+        "descendants": 171,
+        "time": 1789402185,
+        "comments_url": "https://news.ycombinator.com/item?id=49699297"
+      },
+      "tags": [
+        "Security"
+      ],
+      "hot_score": 0.7
+    },
+    {
+      "title_en": "A beginning for mathematics",
+      "url": "https://www.daniellitt.com/blog/2026/9/13/a-beginning-for-mathematics/",
+      "title_zh": "数学的入门",
+      "created_display": "Created: Sep 14, 2026 / 08:33 PT",
+      "image_url": "https://www.daniellitt.com/images/daniel-litt-social-diagram.png",
+      "summary_en": "A beginner-friendly overview of foundational mathematical ideas and learning paths. It emphasizes intuition alongside formalism and invites readers to explore proofs and structures early on.",
+      "summary_zh": "对基础数学思想与学习路径的初学者友好概述，强调直觉与形式化并重，鼓励早期探索证明与结构。",
+      "hn": {
+        "id": 49698699,
+        "type": "story",
+        "by": "robinhouston",
+        "score": 263,
+        "descendants": 141,
+        "time": 1789399987,
+        "comments_url": "https://news.ycombinator.com/item?id=49698699"
+      },
+      "tags": [
+        "Education"
+      ],
+      "hot_score": 0.69
+    },
+    {
+      "title_en": "Oracle’s 6am layoff emails hit staff amid new wave of cuts",
+      "url": "https://www.techtimes.co.uk/oracle-new-layoffs-restructuring-costs-2-8-billion-1808676",
+      "title_zh": "Oracle清晨6点发出裁员邮件，进入新一轮裁员浪潮",
+      "created_display": "Created: Sep 14, 2026 / 12:05 PT",
+      "image_url": "https://d.techtimes.co.uk/en/full/1819505/oracle-layoffs.png",
+      "summary_en": "Oracle is cutting staff again, issuing layoff emails at 6 a.m. as part of a broader restructuring and cost-cutting wave. The moves illustrate ongoing pressure in the tech industry to optimize for profitability, with potential impact on product teams and customers.",
+      "summary_zh": "Oracle再次裁员，清晨6点发出裁员通知邮件，成为公司更广泛结构调整与降本浪费潮的一部分。这一举动体现科技行业在追求盈利与效率方面的持续压力，可能对相关产品团队和客户带来影响。",
+      "hn": {
+        "id": 49702239,
+        "type": "story",
+        "by": "akis33",
+        "score": 194,
+        "descendants": 180,
+        "time": 1789412715,
+        "comments_url": "https://news.ycombinator.com/item?id=49702239"
+      },
+      "hot_score": 0.66,
+      "tags": [
+        "Business",
+        "Career"
+      ]
+    },
+    {
+      "title_en": "Principles for Fast Tokio Applications",
+      "url": "https://dial9-rs.github.io/blog/principles-for-fast-tokio-applications/",
+      "title_zh": "快速 Tokio 应用的原则",
+      "created_display": "Created: Sep 14, 2026 / 08:27 PT",
+      "image_url": "https://dial9-rs.github.io/logo.svg",
+      "summary_en": "A practical guide to building fast asynchronous Rust applications with Tokio, focusing on minimizing allocations, smart task scheduling, and avoiding common bottlenecks. It distills actionable patterns for latency-sensitive services.",
+      "summary_zh": "给出使用 Tokio 构建高性能异步 Rust 应用的实用指南，聚焦减少分配、高效调度和避免常见瓶颈，提炼对低延迟服务有用的可执行模式。",
+      "hn": {
+        "id": 49698607,
+        "type": "story",
+        "by": "carllerche",
+        "score": 237,
+        "descendants": 61,
+        "time": 1789399676,
+        "comments_url": "https://news.ycombinator.com/item?id=49698607"
+      },
+      "tags": [
+        "Programming"
+      ],
+      "hot_score": 0.62
+    },
+    {
+      "title_en": "How my e-reader lost its stripes",
+      "url": "https://www.serpentine.com/posts/2026/x3-stripes/",
+      "title_zh": "我的电子书阅读器丢失了条纹",
+      "created_display": "Created: Sep 14, 2026 / 09:23 PT",
+      "image_url": "https://www.serpentine.com/images/2026/x3-stripes/original-photo.jpg",
+      "summary_en": "A hands-on look at display stripes on an e-reader, exploring potential hardware and firmware culprits and what it means for durability and repairability. It’s a reminder that even simple devices hinge on fragile displays.",
+      "summary_zh": "深入探讨电子书阅读器显示条纹的原因，分析硬件与固件层面的潜在问题及对耐用性和可修复性的影响，提醒我们小物件的显示组件也很脆弱。",
+      "hn": {
+        "id": 49699489,
+        "type": "story",
+        "by": "simonmic",
+        "score": 218,
+        "descendants": 41,
+        "time": 1789402996,
+        "comments_url": "https://news.ycombinator.com/item?id=49699489"
+      },
+      "tags": [
+        "Hardware"
+      ],
+      "hot_score": 0.61
+    },
+    {
+      "title_en": "Ubuntu 26.10 completes transition to Rust-based coreutils",
+      "url": "https://www.omgubuntu.co.uk/2026/09/ubuntu-2610-rust-coreutils-complete",
+      "title_zh": "Ubuntu 26.10 完成对 Rust 基础工具集的迁移",
+      "created_display": "Created: Sep 14, 2026 / 06:38 PT",
+      "image_url": "https://www.omgubuntu.co.uk/wp-content/uploads/2025/05/ubuntu-rust.jpg",
+      "summary_en": "Ubuntu 26.10 finishes migrating coreutils to Rust, boosting safety and modernity across essential userland tools. The change may influence future distro design and raise questions about compatibility and ecosystem maturity.",
+      "summary_zh": "Ubuntu 26.10 已完成对 coreutils 的 Rust 化迁移，提升了核心工具的内存安全与现代化特性。此举可能影响未来发行版的设计取舍，兼容性与生态系统的适配需要持续关注。",
+      "hn": {
+        "id": 49696697,
+        "type": "story",
+        "by": "theanonymousone",
+        "score": 254,
+        "descendants": 284,
+        "time": 1789393138,
+        "comments_url": "https://news.ycombinator.com/item?id=49696697"
+      },
+      "tags": [
+        "Open Source",
+        "Programming"
+      ],
+      "hot_score": 0.59
+    },
+    {
+      "title_en": "XCancel suspended \"due to a new development in the ongoing legal proceedings\"",
+      "url": "https://xcancel.com/twitter",
+      "title_zh": "XCancel 因法律进展新发展暂停服务",
+      "created_display": "Created: Sep 14, 2026 / 05:05 PT",
+      "image_url": null,
+      "summary_en": "XCancel suspended again as new developments arise in ongoing legal proceedings. The move affects users relying on the service and underscores how legal shifts can ripple into enforcement-heavy platforms.",
+      "summary_zh": "XCancel 因正在进行的法律程序出现新进展再度暂停服务，影响依赖该服务的用户。此举也凸显法律变动对依赖执法与拦截功能平台的影响。",
+      "hn": {
+        "id": 49695459,
+        "type": "story",
+        "by": "unfocso",
+        "score": 272,
+        "descendants": 1,
+        "time": 1789387552,
+        "comments_url": "https://news.ycombinator.com/item?id=49695459"
+      },
+      "tags": [
+        "Legal"
+      ],
+      "hot_score": 0.58
+    },
+    {
+      "title_en": "GPT-5.6 Luna vs. GPT-6 Astra: Is a $1.20 Model Good Enough for Code Review?",
+      "url": "https://entelligence.ai/blogs/gpt-5.6-luna-vs-gpt-6-astra-is-a-1.20-model-good-enough-for-code-review",
+      "title_zh": "GPT-5.6 Luna 与 GPT-6 Astra：1.20美元模型是否足以进行代码审查？",
+      "created_display": "Created: Sep 14, 2026 / 12:56 PT",
+      "image_url": "https://framerusercontent.com/images/gPrTReKBwM5bVRyIqVcgBE4kEAk.png",
+      "summary_en": "An informal comparison tests a very cheap model against a more capable one on code-review tasks. The cheaper model can surface some issues and offer suggestions, but it misses nuanced reasoning and project-wide context. The results illustrate cost-performance tradeoffs when choosing AI copilots for software review.",
+      "summary_zh": "非正式的对比测试在代码审查任务上比较了一个极低成本的模型与一个更强的模型。更便宜的模型能发现部分问题并给出建议，但在细致推理和整项目上下文方面存在不足。结果凸显了在选择代码审查AI助手时的性价比权衡。",
+      "hn": {
+        "id": 49703003,
+        "type": "story",
+        "by": "theanonymousone",
+        "score": 154,
+        "descendants": 144,
+        "time": 1789415780,
+        "comments_url": "https://news.ycombinator.com/item?id=49703003"
+      },
+      "tags": [
+        "AI",
+        "Programming"
+      ],
+      "hot_score": 0.56
+    },
+    {
+      "title_en": "Apple's Dimensional Drawings",
+      "url": "https://developer.apple.com/accessories/dimensional-drawings/",
+      "title_zh": "苹果的尺寸绘图",
+      "created_display": "Created: Sep 13, 2026 / 17:11 PT",
+      "image_url": "https://developer.apple.com/news/images/og/accessories-og.jpg",
+      "summary_en": "Apple released dimensional drawings for its accessories, giving developers precise measurements needed to design compatible hardware. The move could spur more third‑party cases, docks, and accessories, while prompting considerations about IP and security implications.",
+      "summary_zh": "苹果公开了配件的尺寸绘图，为开发者提供设计符合规格的精确尺寸。这一举措可能刺激更多第三方外设的开发，但也带来知识产权与安全方面的讨论。",
+      "hn": {
+        "id": 49690174,
+        "type": "story",
+        "by": "herbertl",
+        "score": 400,
+        "descendants": 130,
+        "time": 1789344681,
+        "comments_url": "https://news.ycombinator.com/item?id=49690174"
+      },
+      "tags": [
+        "Hardware",
+        "Security"
+      ],
+      "hot_score": 0.47
+    },
+    {
+      "title_en": "Apple's Siri AI Can Be Swapped Out for Claude, ChatGPT, Code Shows",
+      "url": "https://www.macrumors.com/2026/09/14/siri-can-be-swapped-out-for-chatgpt-claude/",
+      "title_zh": "Siri 的后端可替换为 Claude/ChatGPT的演示",
+      "created_display": "Created: Sep 14, 2026 / 05:01 PT",
+      "image_url": "https://images.macrumors.com/t/HAbY2RBLL5aLJL0IJd9M8FyRpRE=/2500x/article-new/2026/06/macOS-iOS-27-Siri-App-Feature.jpg",
+      "summary_en": "Apple's Siri AI can be swapped out for Claude, ChatGPT, code shows reveals modular AI backend capabilities and raises questions about privacy, security, and platform openness.",
+      "summary_zh": "演示显示 Siri 的后端能力可换成 Claude 或 ChatGPT，暴露了模块化 AI 的潜力，同时也带来了隐私、安全与平台开放性方面的关注。",
+      "hn": {
+        "id": 49695409,
+        "type": "story",
+        "by": "tosh",
+        "score": 224,
+        "descendants": 159,
+        "time": 1789387292,
+        "comments_url": "https://news.ycombinator.com/item?id=49695409"
+      },
+      "tags": [
+        "AI",
+        "Security",
+        "Privacy",
+        "Web"
+      ],
+      "hot_score": 0.47
+    },
+    {
+      "title_en": "People who can't picture anything are rewriting the science of imagination",
+      "url": "https://dailyneuron.com/aphantasia-mental-imagery-brain-network/",
+      "title_zh": "无法在脑海中想象画面的群体正在重塑想象力科学",
+      "created_display": "Created: Sep 14, 2026 / 06:23 PT",
+      "image_url": null,
+      "summary_en": "New findings on aphantasia suggest some people cannot conjure mental images yet still engage in imaginative thought, prompting a rethink of how imagination maps to brain networks.",
+      "summary_zh": "关于无图像想象（失像症）的最新研究显示，部分人无法在脑海中形成画面却仍能进行想象，引发对想象力如何映射到脑网络的新思考。",
+      "hn": {
+        "id": 49696453,
+        "type": "story",
+        "by": "giuliomagnifico",
+        "score": 200,
+        "descendants": 283,
+        "time": 1789392233,
+        "comments_url": "https://news.ycombinator.com/item?id=49696453"
+      },
+      "tags": [
+        "Science"
+      ],
+      "hot_score": 0.46
+    },
+    {
+      "title_en": "Show HN: Neobrutalism.dev – Just added Base UI support and added new color theme",
+      "url": "https://www.neobrutalism.dev/",
+      "title_zh": "Neobrutalism.dev：刚刚新增 Base UI 支持与新配色主题",
+      "created_display": "Created: Sep 14, 2026 / 09:02 PT",
+      "image_url": "https://www.neobrutalism.dev/preview.png",
+      "summary_en": "Neobrutalism.dev adds Base UI support and a new color theme, appealing to developers who favor bold, utilitarian visuals for AI tooling.",
+      "summary_zh": "Neobrutalism.dev 新增 Base UI 支持和新的配色主题，面向偏好极简而硬派风格的 AI 工具开发者。",
+      "hn": {
+        "id": 49699159,
+        "type": "story",
+        "by": "samke-",
+        "score": 158,
+        "descendants": 74,
+        "time": 1789401722,
+        "comments_url": "https://news.ycombinator.com/item?id=49699159"
+      },
+      "tags": [
+        "Show HN",
+        "Programming",
+        "AI"
+      ],
+      "hot_score": 0.43
+    },
+    {
+      "title_en": "I'm being cyberattacked by Tesla, Inc",
+      "url": "https://dreamstation.systems/personal/tesla.html",
+      "title_zh": "我正在遭受特斯拉的网络攻击",
+      "created_display": "Created: Sep 13, 2026 / 11:03 PT",
+      "image_url": "https://dreamstation.systems/personal/themes/ubuntu804/i/firefox24.webp",
+      "summary_en": "A first-person account claims ongoing cyberattacks linked to Tesla, detailing suspected intrusion methods and the author's security response.",
+      "summary_zh": "一篇第一人称叙述声称遭遇持续网络攻击，指向特斯拉并披露疑似入侵手段与应对措施。文章强调将高水平攻击归咎于大型企业的困难，以及相关隐私与安全问题。",
+      "hn": {
+        "id": 49686766,
+        "type": "story",
+        "by": "robinpie",
+        "score": 454,
+        "descendants": 118,
+        "time": 1789322589,
+        "comments_url": "https://news.ycombinator.com/item?id=49686766"
+      },
+      "tags": [
+        "Security"
+      ],
+      "hot_score": 0.42
+    },
+    {
+      "title_en": "Registration without a phone number on Signal will use zero-knowledge proofs",
+      "url": "https://community.signalusers.org/t/registration-without-a-phone-number/2222?page=10",
+      "title_zh": "Signal 将在注册阶段无需手机号码，采用零知识证明",
+      "created_display": "Created: Sep 13, 2026 / 14:47 PT",
+      "image_url": "https://community.signalusers.org/uploads/db3609/original/3X/2/a/2aae74b9e7c4af45dfcd09cfa6e9c90fb3b7534c.png",
+      "summary_en": "Signal is testing a phone-number-free registration using zero-knowledge proofs, letting users create accounts without sharing a phone number. This reduces SIM swap risk and privatizes identity, but introduces onboarding and trust challenges.",
+      "summary_zh": "Signal 正在测试无需手机号码的注册方式，利用零知识证明来实现去绑定身份。此举能提升隐私、降低 SIM 卡冒充风险，但在落地时需解决新用户引导与信任问题。",
+      "hn": {
+        "id": 49689048,
+        "type": "story",
+        "by": "Cider9986",
+        "score": 389,
+        "descendants": 206,
+        "time": 1789336024,
+        "comments_url": "https://news.ycombinator.com/item?id=49689048"
+      },
+      "tags": [
+        "Privacy"
+      ],
+      "hot_score": 0.41
+    },
+    {
+      "title_en": "Nike exits the S&P 100 after 18 years and a $200B market-cap wipeout",
+      "url": "https://fortune.com/2026/09/08/nike-stock-plummets-sp500-market-cap-index/",
+      "title_zh": "耐克退出标普100，市值蒸发2000亿美元",
+      "created_display": "Created: Sep 13, 2026 / 19:50 PT",
+      "image_url": "https://fortune.com/img-assets/wp-content/uploads/2026/09/GettyImages-534705402-e1788891465553.jpg?resize=1200,600",
+      "summary_en": "Nike's exit from the S&P 100 after 18 years comes amid a dramatic decline in market cap, triggering index rebalancing. The move underscores how corporate value volatility can outpace index membership and affect passive investors.",
+      "summary_zh": "耐克在18年后退出标普100，伴随市值大幅下滑，引发指数成分调整。此举凸显企业价值的波动可能超越指数成分的变动，对被动投资者产生影响。",
+      "hn": {
+        "id": 49691343,
+        "type": "story",
+        "by": "andsoitis",
+        "score": 308,
+        "descendants": 426,
+        "time": 1789354240,
+        "comments_url": "https://news.ycombinator.com/item?id=49691343"
+      },
+      "tags": [
+        "Finance"
+      ],
+      "hot_score": 0.41
+    },
+    {
+      "title_en": "New $100k H-1B visa fee pushes tech jobs offshore",
+      "url": "https://spectrum.ieee.org/h-1b-visa-us-government",
+      "title_zh": "新高额 H-1B 签证费推动科技岗位外流",
+      "created_display": "Created: Sep 14, 2026 / 07:09 PT",
+      "image_url": "https://spectrum.ieee.org/media-library/image.jpg?id=67709071&width=1200&height=600&coordinates=0%2C125%2C0%2C125",
+      "summary_en": "The U.S. has introduced a new $100k filing fee for H-1B petitions, lifting the cost of bringing foreign tech talent. The higher price could nudge employers toward offshore hiring or automation, with implications for the domestic tech workforce and innovation pipeline.",
+      "summary_zh": "美国对 H-1B 签证申请新增 10 万美元费用，显著提高雇佣外国技术人员的成本。更高的成本可能促使雇主将工作外包到海外或加速自动化，影响本土科技产业和创新链条。",
+      "hn": {
+        "id": 49697171,
+        "type": "story",
+        "by": "rbanffy",
+        "score": 166,
+        "descendants": 363,
+        "time": 1789394950,
+        "comments_url": "https://news.ycombinator.com/item?id=49697171"
+      },
+      "tags": [
+        "Politics"
+      ],
+      "hot_score": 0.4
+    },
+    {
+      "title_en": "EuroBirdPortal – Live bird movements across Europe",
+      "url": "https://www.eurobirdportal.org/ebp/en/",
+      "title_zh": "欧洲鸟类门户：欧洲范围内的实时迁徙数据",
+      "created_display": "Created: Sep 14, 2026 / 01:25 PT",
+      "image_url": "http://eurobirdportal.org/img/preview-2.png",
+      "summary_en": "EuroBirdPortal aggregates live bird-tracking data across Europe into an interactive map. It highlights migration routes, seasonal hotspots, and species movement patterns, offering a valuable resource for researchers and conservationists.",
+      "summary_zh": "该平台把欧洲多源鸟类追踪数据汇聚成交互地图，展示迁徙路线、季节性热点和物种运动模式。为研究者与保护工作者提供宝贵的数据资源。",
+      "hn": {
+        "id": 49693610,
+        "type": "story",
+        "by": "NKosmatos",
+        "score": 224,
+        "descendants": 64,
+        "time": 1789374347,
+        "comments_url": "https://news.ycombinator.com/item?id=49693610"
+      },
+      "tags": [
+        "Data",
+        "Privacy"
+      ],
+      "hot_score": 0.39
+    },
+    {
+      "title_en": "A 386 PC for Your RP2350",
+      "url": "https://github.com/rh1tech/frank-386",
+      "title_zh": "在 RP2350 上的 386 PC",
+      "created_display": "Created: Sep 14, 2026 / 01:25 PT",
+      "image_url": "https://opengraph.githubassets.com/5dbeb91ad5fb856746a6df3c31d5be80035694e990d31cf403ccc37ca2d9c3be/rh1tech/frank-386",
+      "summary_en": "A 386 PC for Your RP2350 shows a project that emulates a 386-era PC on the RP2350 platform, enabling retro software and educational demos on a microcontroller-board. It demonstrates how hobbyists squeeze legacy computing into tiny devices and what it implies for embedded systems.",
+      "summary_zh": "这个在 RP2350 上实现的 386 电脑项目，可以在微控制器板上运行 386 时代的软件，适合教学演示和复古计算爱好者实验。展示了爱好者如何把遗留计算嵌入到小型设备中，并对嵌入式系统的潜力提供了启示。",
+      "hn": {
+        "id": 49693613,
+        "type": "story",
+        "by": "SamuraiLion",
+        "score": 213,
+        "descendants": 79,
+        "time": 1789374357,
+        "comments_url": "https://news.ycombinator.com/item?id=49693613"
+      },
+      "tags": [
+        "Hardware"
+      ],
+      "hot_score": 0.37
+    },
+    {
+      "title_en": "Garry Tan wants US open-weight AI labs to 'distill' frontier models, too",
+      "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
+      "title_zh": "Garry Tan 希望美国公开权重的 AI 实验室也参与对前沿模型进行蒸馏",
+      "created_display": "Created: Sep 13, 2026 / 08:44 PT",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/03/garry-tan-sxsw-getty.jpg?resize=1200,801",
+      "summary_en": "Garry Tan argues that US open-weight AI labs should also distill frontier models to improve safety and accessibility, not just large incumbents. The idea envisions a more transparent, collaborative ecosystem around powerful AI.",
+      "summary_zh": "Garry Tan 提议美国开放权重的 AI 实验室也应对前沿模型进行蒸馏，以提升安全性和可访问性，推动更为透明和协作的 AI 生态。",
+      "hn": {
+        "id": 49685253,
+        "type": "story",
+        "by": "TheJCDenton",
+        "score": 411,
+        "descendants": 236,
+        "time": 1789314278,
+        "comments_url": "https://news.ycombinator.com/item?id=49685253"
+      },
+      "tags": [
+        "AI"
+      ],
+      "hot_score": 0.35
+    },
+    {
+      "title_en": "Texas judge rules TikTok misled users on child safety feature",
+      "url": "https://www.reuters.com/legal/litigation/texas-judge-rules-tiktok-misled-users-child-safety-feature-2026-09-11/",
+      "title_zh": "德州法官裁定 TikTok 在儿童安全功能方面误导用户",
+      "created_display": "Created: Sep 14, 2026 / 05:37 PT",
+      "image_url": null,
+      "summary_en": "A Texas judge ruled that TikTok misled users about a child safety feature, adding to ongoing scrutiny of the platform's safety disclosures. The ruling could influence regulatory expectations and platform practices around protecting younger users.",
+      "summary_zh": "德州法官裁定 TikTok 在儿童安全功能方面误导用户，进一步加剧对平台安全披露的审查。此判决可能改变监管预期并推动平台在保护未成年用户方面的做法。",
+      "hn": {
+        "id": 49695829,
+        "type": "story",
+        "by": "1vuio0pswjnm7",
+        "score": 156,
+        "descendants": 96,
+        "time": 1789389462,
+        "comments_url": "https://news.ycombinator.com/item?id=49695829"
+      },
+      "tags": [
+        "Legal",
+        "Politics"
+      ],
+      "hot_score": 0.34
+    },
+    {
+      "title_en": "The case against JPEG XL",
+      "url": "https://giannirosato.com/blog/post/case-against-jxl/",
+      "title_zh": "JPEG XL 的反对理由",
+      "created_display": "Created: Sep 13, 2026 / 18:02 PT",
+      "image_url": "https://giannirosato.com/static/img/caustics-hdr.avif",
+      "summary_en": "The piece argues against adopting JPEG XL, citing adoption friction, limited ecosystem support, and potential licensing concerns. It suggests sticking with more established formats (like AVIF or WebP) that enjoy broader tooling and compatibility.",
+      "summary_zh": "文章从采用障碍、生态支持不足以及潜在许可问题等角度，提出反对 JPEG XL 的观点。作者建议在现有工具链中优先选择更成熟、兼容性更高的格式，如 AVIF 或 WebP。",
+      "hn": {
+        "id": 49690554,
+        "type": "story",
+        "by": "contact9879",
+        "score": 273,
+        "descendants": 370,
+        "time": 1789347757,
+        "comments_url": "https://news.ycombinator.com/item?id=49690554"
+      },
+      "tags": [
+        "Web"
+      ],
+      "hot_score": 0.33
+    },
+    {
+      "title_en": "Ask HN: What are you working on? (September 2026)",
+      "url": "https://news.ycombinator.com/item?id=49686380",
+      "title_zh": "Ask HN：你在做什么？（2026年9月）",
+      "created_display": "Created: Sep 13, 2026 / 10:31 PT",
+      "image_url": "https://news.ycombinator.com/y18.svg",
+      "summary_en": "A recurring monthly thread where developers share current projects, from side gigs to early-stage startups and experiments. It offers a pulse on what builders are shipping and reveals emerging technical trends.",
+      "summary_zh": "这是一次每月滚动的提问贴，开发者在其中分享当前项目、从副业到早期初创与实验的进展。它提供了开发者实际在部署和推出的内容的脉搏，并揭示新兴的技术趋势。",
+      "hn": {
+        "id": 49686380,
+        "type": "story",
+        "by": "david927",
+        "score": 352,
+        "descendants": 1088,
+        "time": 1789320698,
+        "comments_url": "https://news.ycombinator.com/item?id=49686380"
+      },
+      "tags": [
+        "Programming"
+      ],
+      "hot_score": 0.32
+    },
+    {
+      "title_en": "Mark Zuckerberg: \"Cambridge Analytica\" (2017)",
+      "url": "https://twitter.com/TechEmails/status/2099214399840059428",
+      "title_zh": "马克·扎克伯格：2017 年的剑桥分析事件",
+      "created_display": "Created: Sep 13, 2026 / 13:08 PT",
+      "image_url": "https://jf.x.com/images/media-preview/2099214399840059428",
+      "summary_en": "Revisiting Zuckerberg's remarks about Cambridge Analytica from 2017, highlighting how data privacy and platform accountability became regulatory flashpoints. The episode helped push Facebook to tighten controls and sparked ongoing debates about tech governance.",
+      "summary_zh": "该条回顾了扎克伯格在2017年剑桥分析事件中的表态，强调数据隐私与平台问责成为监管焦点。此事促使 Facebook 加强权限与隐私控制，并引发关于科技治理的持续讨论。",
+      "hn": {
+        "id": 49688157,
+        "type": "story",
+        "by": "mfiguiere",
+        "score": 310,
+        "descendants": 145,
+        "time": 1789330125,
+        "comments_url": "https://news.ycombinator.com/item?id=49688157"
+      },
+      "tags": [
+        "Privacy",
+        "Politics"
+      ],
+      "hot_score": 0.31
+    },
+    {
+      "title_en": "David Sacks: OpenAI and Anthropic Don't Need Regulations to Pace Frontier Models",
+      "url": "https://twitter.com/DavidSacks/status/2098973625252708460",
+      "title_zh": "David Sacks：OpenAI 与 Anthropic 不需要监管就能推动前沿模型",
+      "created_display": "Created: Sep 13, 2026 / 09:52 PT",
+      "image_url": "https://pbs.twimg.com/profile_images/1879600809693917185/GkBxdTd9_200x200.jpg",
+      "summary_en": "David Sacks argues that regulation isn’t necessary to pace frontier AI models, suggesting market dynamics or internal governance could suffice. His stance adds fuel to the ongoing AI governance debate.",
+      "summary_zh": "大卫·萨克斯认为政府监管并非加速前沿 AI 模型所必需，市场、行业自律也能推动进展，这一观点在 AI 治理辩论中具有争议性。",
+      "hn": {
+        "id": 49685991,
+        "type": "story",
+        "by": "kolanos",
+        "score": 327,
+        "descendants": 258,
+        "time": 1789318353,
+        "comments_url": "https://news.ycombinator.com/item?id=49685991"
+      },
+      "tags": [
+        "AI",
+        "Politics"
+      ],
+      "hot_score": 0.29
+    },
+    {
+      "title_en": "The contagion of fear",
+      "url": "https://bcantrill.dtrace.org/2026/09/13/the-contagion-of-fear/",
+      "title_zh": "恐惧的传染性",
+      "created_display": "Created: Sep 13, 2026 / 15:38 PT",
+      "image_url": null,
+      "summary_en": "Fear can spread through media narratives and organizational chatter, driving risk aversion and overreactions. The piece argues for calmer, evidence-based communication and stronger resilience against fear-driven bias.",
+      "summary_zh": "恐惧通过媒体叙事和组织沟通扩散，放大风险规避和过度反应。文中倡导以证据驱动的沟通方式，以及提升对恐惧偏见的韧性。",
+      "hn": {
+        "id": 49689460,
+        "type": "story",
+        "by": "elffjs",
+        "score": 267,
+        "descendants": 189,
+        "time": 1789339098,
+        "comments_url": "https://news.ycombinator.com/item?id=49689460"
+      },
+      "tags": [
+        "Culture"
+      ],
+      "hot_score": 0.29
+    },
+    {
+      "title_en": "Mullenweg has returned as CEO after attempted board ouster",
+      "url": "https://techcrunch.com/2026/09/12/automattic-confirms-mullenweg-has-returned-as-ceo-after-attempted-ouster-by-board/",
+      "title_zh": "穆伦韦格在董事会罢黜未遂后回归 CEO",
+      "created_display": "Created: Sep 13, 2026 / 13:19 PT",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2024/10/matt-mullenweg.jpg?resize=1200,799",
+      "summary_en": "Automattic founder Matt Mullenweg has resumed CEO duties after a board attempt to oust him, signaling a stabilization of governance. The move will influence product strategy across WordPress.com and related open-source initiatives, and tests how corporate governance works in a distributed, creator-led company.",
+      "summary_zh": "Automattic 创始人 Matt Mullenweg 在董事会试图罢黜后重新担任 CEO，标志着治理局势的稳定。此举将影响 WordPress.com 等产品路线和开源计划的走向，并考验在分布式、以创作者为导向的公司中的治理实践。",
+      "hn": {
+        "id": 49688259,
+        "type": "story",
+        "by": "ilamont",
+        "score": 274,
+        "descendants": 378,
+        "time": 1789330746,
+        "comments_url": "https://news.ycombinator.com/item?id=49688259"
+      },
+      "tags": [
+        "Business",
+        "Open Source"
+      ],
+      "hot_score": 0.27
+    },
+    {
+      "title_en": "Global shortage has led to motor oil rationing at Costco",
+      "url": "https://guessingheadlights.com/global-shortage-has-led-to-motor-oil-rationing-at-costco/",
+      "title_zh": "全球短缺推动 Costco 实施机油限购",
+      "created_display": "Created: Sep 13, 2026 / 10:57 PT",
+      "image_url": null,
+      "summary_en": "Global shortages have tightened supply of motor oil, prompting Costco to ration purchases. The move signals broader commodity pressures on consumer staples and DIY maintenance as demand rebounds.",
+      "summary_zh": "全球短缺导致机油供应吃紧，Costco 开始限购。此举反映了在需求回升背景下，消费品与DIY 维护市场正承受更广泛的原材料压力。",
+      "hn": {
+        "id": 49686697,
+        "type": "story",
+        "by": "mikhael",
+        "score": 225,
+        "descendants": 214,
+        "time": 1789322279,
+        "comments_url": "https://news.ycombinator.com/item?id=49686697"
+      },
+      "tags": [
+        "Business"
+      ],
+      "hot_score": 0.21
+    },
+    {
+      "title_en": "Open-source AI and open models reading list",
+      "url": "https://www.interconnects.ai/p/open-source-ai-reading-list",
+      "title_zh": "开源 AI 与开源模型阅读清单",
+      "created_display": "Created: Sep 13, 2026 / 17:22 PT",
+      "image_url": "https://substackcdn.com/image/fetch/$s_!pdpS!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F53e3cead-b3c3-4fba-8503-c5a599d5fb01_3182x1790.png",
+      "summary_en": "A curated reading list of open-source AI projects and models, offering a spectrum of transparent, community-driven alternatives to proprietary systems. It covers licensing, safety, governance, and practical use cases for researchers and practitioners.",
+      "summary_zh": "这是一份关于开源 AI 项目与模型的精选阅读清单，展示了相对于专有系统的透明、社区驱动替代方案的全貌。内容涵盖许可、安全、治理以及实际应用场景。",
+      "hn": {
+        "id": 49690260,
+        "type": "story",
+        "by": "simonpure",
+        "score": 155,
+        "descendants": 30,
+        "time": 1789345371,
+        "comments_url": "https://news.ycombinator.com/item?id=49690260"
+      },
+      "tags": [
+        "AI",
+        "Open Source"
+      ],
+      "hot_score": 0.18
+    }
+  ]
+}

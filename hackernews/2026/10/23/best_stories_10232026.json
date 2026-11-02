@@ -1,0 +1,1160 @@
+{
+  "meta": {
+    "mode": "best",
+    "source": "https://news.ycombinator.com/",
+    "api": "https://github.com/HackerNews/API",
+    "count_requested": 50,
+    "count_written": 50,
+    "reused_same_day": 0,
+    "reused_cross_day": 20,
+    "new_llm_enriched": 13,
+    "scrape_time_display": "08:36, October 24, 2026 (PDT)",
+    "timezone": "America/Los_Angeles",
+    "date_dir": "2026/10/23",
+    "content_date": "2026-10-23",
+    "run_time_local": "08:36, October 24, 2026 (PDT)",
+    "run_time_utc": "2026-10-24 15:36:54 UTC",
+    "incremental": true,
+    "stories_max": 50,
+    "hot_score_time_utc": "2026-10-24 15:37:52 UTC"
+  },
+  "items": [
+    {
+      "title_en": "Google illegally cut down 250K trees in Finland for data center",
+      "url": "https://nypost.com/2026/10/24/business/google-illegally-tore-down-250k-trees-for-finland-data-center-infuriating-locals-report/",
+      "title_zh": "谷歌在芬兰非法砍伐250,000棵树建数据中心",
+      "created_display": "Created: Oct 24, 2026 / 07:38 PT",
+      "image_url": "https://nypost.com/wp-content/uploads/sites/2/2026/10/146289448.jpg?quality=75&strip=all&w=1200",
+      "summary_en": "A report claims Google cleared about 250,000 trees in Finland to build a data center, triggering environmental and local backlash. The controversy highlights the clash between large-scale infrastructure expansion and forest conservation in Europe.",
+      "summary_zh": "据称谷歌在芬兰为建数据中心非法砍伐约25万棵树，引发环保组织和当地社区的强烈反对。这一争议凸显在欧洲进行大规模基础设施扩张与森林保护之间的矛盾。",
+      "hn": {
+        "id": 50221676,
+        "type": "story",
+        "by": "rustybolt",
+        "score": 152,
+        "descendants": 65,
+        "time": 1792852714,
+        "comments_url": "https://news.ycombinator.com/item?id=50221676"
+      },
+      "hot_score": 21.05,
+      "tags": [
+        "Business",
+        "DevOps"
+      ]
+    },
+    {
+      "title_en": "Elon Musk Just Gave Europe a Reason to Replace American Technology",
+      "url": "https://steveblank.com/2026/10/24/europe-gets-a-wake-up-call/",
+      "title_zh": "埃隆·马斯克为何让欧洲有理由替代美国产技术",
+      "created_display": "Created: Oct 24, 2026 / 06:09 PT",
+      "image_url": "https://s0.wp.com/_si/?t=eyJpbWciOiJodHRwczpcL1wvczAud3AuY29tXC9pXC9ibGFuay5qcGciLCJ0eHQiOiJTdGV2ZSBCbGFuayIsInRlbXBsYXRlIjoiaGlnaHdheSIsImZvbnQiOiIiLCJibG9nX2lkIjo2NTk5NTg5fQ.-efmxdtN_YlMwMyz4RgR-akCDYfNNsBU6laamcldxGAMQ",
+      "summary_en": "A provocative take arguing Europe now has more incentive to cultivate homegrown tech and reduce reliance on American platforms after moves by a high-profile U.S. tech leader. The piece suggests Europe could accelerate its digital sovereignty through supportive policies, standards, and data localization. It frames recent developments as a wake-up call for Europe to diversify its tech ecosystem.",
+      "summary_zh": "文章认为，受一位知名美企领袖近期动作影响，欧洲在培育本土科技、减少对美国平台依赖方面获得更强的动机。作者指出欧洲可以通过友好政策、标准制定和数据本地化等举措加速数字主权建设，将其视为提升自身技术生态多样性的契机。",
+      "hn": {
+        "id": 50220913,
+        "type": "story",
+        "by": "sblank",
+        "score": 281,
+        "descendants": 304,
+        "time": 1792847368,
+        "comments_url": "https://news.ycombinator.com/item?id=50220913"
+      },
+      "hot_score": 18.88,
+      "tags": [
+        "Politics"
+      ]
+    },
+    {
+      "title_en": "I Don't Understand Quantum Physics (2018)",
+      "url": "https://www.southampton.ac.uk/~doug/quantum_physics/index.html",
+      "title_zh": "我不懂量子物理",
+      "created_display": "Created: Oct 24, 2026 / 02:53 PT",
+      "image_url": null,
+      "summary_en": "A plain-language primer on quantum physics concepts such as superposition and entanglement, without heavy math. It emphasizes intuition and clear explanations, making the basics accessible to developers and curious readers.",
+      "summary_zh": "这份简明指南用通俗语言介绍量子概念，不依赖高深数学。强调直觉与核心原理，适合对量子领域感兴趣的科技工作者与学生快速把握要点。",
+      "hn": {
+        "id": 50219666,
+        "type": "story",
+        "by": "rramadass",
+        "score": 185,
+        "descendants": 128,
+        "time": 1792835606,
+        "comments_url": "https://news.ycombinator.com/item?id=50219666"
+      },
+      "tags": [
+        "Science"
+      ],
+      "hot_score": 4.62
+    },
+    {
+      "title_en": "Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended",
+      "url": "https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds/",
+      "title_zh": "黑客反向工程三星电视，发现板载 AI 在监听，OpenAI 账户被暂停",
+      "created_display": "Created: Oct 23, 2026 / 22:49 PT",
+      "image_url": null,
+      "summary_en": "A security researcher reverse-engineered a Samsung TV and reportedly found on-device AI listening capabilities. The incident coincided with an OpenAI account suspension, underscoring risks around on-device AI and how connected devices can expose sensitive data.",
+      "summary_zh": "研究者对三星电视进行反向工程，称发现板载 AI 在监听，且与 OpenAI 账户暂停事件相关。此事凸显了板载 AI 与物联网设备的隐私与安全风险，以及对平台策略的影响。",
+      "hn": {
+        "id": 50218633,
+        "type": "story",
+        "by": "testing22321",
+        "score": 378,
+        "descendants": 126,
+        "time": 1792820997,
+        "comments_url": "https://news.ycombinator.com/item?id=50218633"
+      },
+      "tags": [
+        "Security",
+        "AI"
+      ],
+      "hot_score": 4.44
+    },
+    {
+      "title_en": "OBS Studio 33",
+      "url": "https://github.com/obsproject/obs-studio/releases/tag/33.0.0",
+      "title_zh": "OBS Studio 33 版本发布",
+      "created_display": "Created: Oct 23, 2026 / 21:49 PT",
+      "image_url": "https://opengraph.githubassets.com/82c6e9a0e4255bc7370dd6125ccb078791f7b4a2f6b9c5e4b0198d0e7df1ff10/obsproject/obs-studio/releases/tag/33.0.0",
+      "summary_en": "OBS Studio 33 arrives with new features, performance tweaks, and bug fixes, continuing the project’s open-source momentum for live streaming and screen capture. The update improves stability and compatibility for creators relying on high-fidelity audio/video.",
+      "summary_zh": "OBS Studio 33 发布，带来新功能、性能优化与 bug 修复，持续推动开源直播和录制工具的发展。此次更新提升了稳定性与兼容性，方便依赖高保真的主播和创作者。",
+      "hn": {
+        "id": 50218430,
+        "type": "story",
+        "by": "pentagrama",
+        "score": 327,
+        "descendants": 103,
+        "time": 1792817398,
+        "comments_url": "https://news.ycombinator.com/item?id=50218430"
+      },
+      "tags": [
+        "Open Source"
+      ],
+      "hot_score": 3.31
+    },
+    {
+      "title_en": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
+      "url": "https://www.kimi.ai/blog/kimi-k3-1-pro",
+      "title_zh": "Kimi K3.1 Pro 与 K3.1 Pro Highspeed",
+      "created_display": "Created: Oct 23, 2026 / 09:59 PT",
+      "image_url": "https://kimi-img.kimi.ai/pub/slides/kimi-fs/managed-assets/9558f8d5-08fc-42de-8e4e-339076e03895.webp",
+      "summary_en": "Kimi introduces the K3.1 Pro line and a Highspeed variant, focusing on faster inference and practical AI workloads. The writeup highlights trade-offs between speed, power, and cost for developers deploying models at scale.",
+      "summary_zh": "文章介绍了 Kimi 的 K3.1 Pro 系列及 Highspeed 变体，聚焦于更快的推理性能及对 AI 工作负载的适用性。讨论了在大规模部署中，速度、功耗与成本之间的权衡。",
+      "hn": {
+        "id": 50212065,
+        "type": "story",
+        "by": "Jowsey",
+        "score": 1008,
+        "descendants": 604,
+        "time": 1792774748,
+        "comments_url": "https://news.ycombinator.com/item?id=50212065"
+      },
+      "tags": [
+        "AI",
+        "Hardware"
+      ],
+      "hot_score": 3.15
+    },
+    {
+      "title_en": "Today, we hacked what we'd set out to hack: the iPhone",
+      "url": "https://blog.calif.io/p/iphone",
+      "title_zh": "今天，我们破解了本来要破解的目标：iPhone",
+      "created_display": "Created: Oct 23, 2026 / 09:21 PT",
+      "image_url": "https://substackcdn.com/image/youtube/w_728,c_limit/_GJVKVNMczM",
+      "summary_en": "We hacked the iPhone as planned, detailing the approach and lessons learned. The post underscores ongoing mobile security challenges and how defenders adapt to evolving techniques.",
+      "summary_zh": "作者按计划攻破了 iPhone，给出实现细节和经验教训。此事凸显移动设备安全的持续挑战及对抗者与防御者之间的博弈趋势。",
+      "hn": {
+        "id": 50211474,
+        "type": "story",
+        "by": "pavel_lishin",
+        "score": 1003,
+        "descendants": 627,
+        "time": 1792772510,
+        "comments_url": "https://news.ycombinator.com/item?id=50211474"
+      },
+      "tags": [
+        "Security"
+      ],
+      "hot_score": 2.99
+    },
+    {
+      "title_en": "Around a dozen banking apps began specifically permitting GrapheneOS",
+      "url": "https://grapheneos.social/@GrapheneOS/117492375462459244",
+      "title_zh": "约十几款银行应用开始专门支持 GrapheneOS",
+      "created_display": "Created: Oct 23, 2026 / 18:15 PT",
+      "image_url": "https://grapheneos.social/packs/assets/logo-DXQkHAe5.svg",
+      "summary_en": "Around a dozen banking apps now explicitly support GrapheneOS, signaling growing acceptance of this security-focused Android fork. The move could boost privacy and resilience, though some apps may still pose compatibility challenges.",
+      "summary_zh": "数家主流银行应用开始正式支持 GrapheneOS，显示对这款注重安全的 Android 派生系统的接受度提升。这一举措有望提升用户隐私并推动应用端强化安全，但也可能带来部分服务的兼容性挑战。",
+      "hn": {
+        "id": 50217495,
+        "type": "story",
+        "by": "privacyishuman",
+        "score": 398,
+        "descendants": 127,
+        "time": 1792804514,
+        "comments_url": "https://news.ycombinator.com/item?id=50217495"
+      },
+      "tags": [
+        "Security",
+        "Privacy"
+      ],
+      "hot_score": 2.59
+    },
+    {
+      "title_en": "Apple Music 404 Not Found",
+      "url": "https://music.apple.com/this-url-doesnt-exist",
+      "title_zh": "Apple Music 404 未找到",
+      "created_display": "Created: Oct 23, 2026 / 05:28 PT",
+      "image_url": null,
+      "summary_en": "An instance of a broken Apple Music link surfaces, prompting questions about reliability and content routing on streaming platforms. The note underscores the fragility of URL-based content discovery.",
+      "summary_zh": "发现 Apple Music 的一个链接返回 404，暴露出流媒体平台在内容发现与路由方面的脆弱性。",
+      "hn": {
+        "id": 50207910,
+        "type": "story",
+        "by": "frizlab",
+        "score": 848,
+        "descendants": 248,
+        "time": 1792758527,
+        "comments_url": "https://news.ycombinator.com/item?id=50207910"
+      },
+      "tags": [
+        "Web"
+      ],
+      "hot_score": 1.96
+    },
+    {
+      "title_en": "Twelve years of distributed SQLite",
+      "url": "https://philipotoole.com/twelve-years-of-distributed-sqlite/",
+      "title_zh": "分布式 SQLite 的十二年",
+      "created_display": "Created: Oct 23, 2026 / 18:16 PT",
+      "image_url": "https://secure.gravatar.com/avatar/a1c9c248eeb5239c162a6a32c420209af702076cd0ed07d6ddbe00c269021a98?s=50&d=identicon&r=g",
+      "summary_en": "A twelve-year look at distributed SQLite efforts shows how engineers tried to keep data in sync across devices without a central server. It weighs replication strategies, conflict resolution, and consistency models, and draws practical lessons for building offline-first apps.",
+      "summary_zh": "对分布式 SQLite 的十二年尝试进行回顾，聚焦在没有中央服务器时如何在多设备之间保持数据同步。评估复制策略、冲突解决和一致性模型，并为构建离线优先应用提供实用经验。",
+      "hn": {
+        "id": 50217500,
+        "type": "story",
+        "by": "otoolep",
+        "score": 294,
+        "descendants": 43,
+        "time": 1792804618,
+        "comments_url": "https://news.ycombinator.com/item?id=50217500"
+      },
+      "tags": [
+        "Data"
+      ],
+      "hot_score": 1.92
+    },
+    {
+      "title_en": "Local Wikipedia: Wikipedia, but only for things a half hour walk from you",
+      "url": "https://edjefferson.com/localwiki/",
+      "title_zh": "本地维基：只收录你步行半小时内的事物",
+      "created_display": "Created: Oct 22, 2026 / 16:01 PT",
+      "image_url": "https://edjefferson.com/localwiki/share.png",
+      "summary_en": "A concept for a Wikipedia-like wiki restricted to items within a 30-minute walk of your location, enabling hyperlocal crowdsourcing. This model foregrounds privacy and relevancy, but raises questions about coverage, updates, and shared standards across communities.",
+      "summary_zh": "一个近场本地维基的设想，只收录你所在位置半小时步行范围内的条目，强调超本地化的众包协作与隐私保护。此思路提升信息相关性，但也带来覆盖范围、更新频率和跨社区标准化等挑战。",
+      "hn": {
+        "id": 50202285,
+        "type": "story",
+        "by": "sohkamyung",
+        "score": 1464,
+        "descendants": 238,
+        "time": 1792710078,
+        "comments_url": "https://news.ycombinator.com/item?id=50202285"
+      },
+      "tags": [
+        "Privacy",
+        "Web"
+      ],
+      "hot_score": 1.71
+    },
+    {
+      "title_en": "How close can pure functional programming get to C?",
+      "url": "https://rtfeldman.com/fp-vs-c",
+      "title_zh": "纯函数式编程能有多接近 C？",
+      "created_display": "Created: Oct 23, 2026 / 20:43 PT",
+      "image_url": null,
+      "summary_en": "Pure functional programming excels at correctness, but performance parity with C remains a key question. The piece surveys language features, compiler optimizations, and benchmarks to show where FP can approach C in compute-heavy workloads and what design choices help close the gap.",
+      "summary_zh": "纯函数式编程在正确性方面有优势，但在与 C 的性能对等方面仍存在差距。本文概览语言特性、编译器优化和基准测试，指出在高密度计算场景中纯函数式能接近 C 的程度，以及如何通过设计抹平差距。",
+      "hn": {
+        "id": 50218195,
+        "type": "story",
+        "by": "stmonty",
+        "score": 187,
+        "descendants": 46,
+        "time": 1792813434,
+        "comments_url": "https://news.ycombinator.com/item?id=50218195"
+      },
+      "tags": [
+        "Programming"
+      ],
+      "hot_score": 1.63
+    },
+    {
+      "title_en": "Dessa: Conversation Model trained only on speech",
+      "url": "https://block.xyz/dessa",
+      "title_zh": "Dessa：仅用语音训练的对话模型",
+      "created_display": "Created: Oct 23, 2026 / 12:09 PT",
+      "image_url": "https://block.xyz/dessa/_media/6865f35ec6013672f8f8/assets/marketing/variants/v3.jpg",
+      "summary_en": "An conversation model trained exclusively on spoken language data tests how far dialog capabilities can emerge without text-based training. The work highlights strengths in speech understanding and prosody handling, while revealing gaps in reasoning and abstract knowledge.",
+      "summary_zh": "仅使用语音数据训练的对话模型用于测试在没有文本训练的情况下，对话能力能够达到何种水平。结果显示在语音理解和语调处理方面具备优势，同时在推理和抽象知识方面存在不足。",
+      "hn": {
+        "id": 50213925,
+        "type": "story",
+        "by": "dsr12",
+        "score": 434,
+        "descendants": 165,
+        "time": 1792782594,
+        "comments_url": "https://news.ycombinator.com/item?id=50213925"
+      },
+      "tags": [
+        "AI"
+      ],
+      "hot_score": 1.6
+    },
+    {
+      "title_en": "Now Google says it might use your Gmail and Google Photos data to target ads",
+      "url": "https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update",
+      "title_zh": "谷歌称可能把你的Gmail和Google照片数据用于定向广告",
+      "created_display": "Created: Oct 23, 2026 / 12:34 PT",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK093_GOOGLE_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "summary_en": "Google is updating its privacy policy to allow using data from Gmail and Google Photos to target ads. That expands the data signals behind ad targeting beyond search activity and email, potentially improving relevance at the cost of privacy. The change underscores ongoing tensions between personalized advertising and user consent, making user controls more important.",
+      "summary_zh": "谷歌宣布隐私政策更新，可能将Gmail和Google照片中的数据用于定向广告。这一举动扩大了广告定向所依赖的数据来源，可能提升广告相关性，但增加隐私风险。此变动凸显个性化广告与用户同意之间的持续博弈，用户对控制权的需求将更加突出。",
+      "hn": {
+        "id": 50214218,
+        "type": "story",
+        "by": "JustSkyfall",
+        "score": 364,
+        "descendants": 183,
+        "time": 1792784055,
+        "comments_url": "https://news.ycombinator.com/item?id=50214218"
+      },
+      "hot_score": 1.38,
+      "tags": [
+        "Privacy"
+      ]
+    },
+    {
+      "title_en": "Investor-owned utilities charge 23% more for electricity than public providers",
+      "url": "https://www.kadoa.com/energy-prices/insights/investor-owned-utilities",
+      "title_zh": "私营公用事业向用户收取的电价比公立提供者高出23%",
+      "created_display": "Created: Oct 23, 2026 / 06:41 PT",
+      "image_url": "https://kadoa-datasets.b-cdn.net/energy-prices/data/2026-10-23T14-44-17-949664b7/og-investor-owned-utilities.png",
+      "summary_en": "Electricity prices charged by investor-owned utilities run about 23% higher than public providers. The gap highlights how privatization and regulatory structures influence consumer costs, even as reliability and service quality may vary. For tech and energy teams budgeting for grid usage and energy-intensive workloads, the differential matters for planning and resilience.",
+      "summary_zh": "投资者所有的公用事业公司电价比公营提供者高出约23%。这一差距揭示了私有化与监管框架如何影响消费者成本，即便可靠性和服务质量也会有所不同。对于需要用电的技术团队和能源密集型工作负载而言，这一差异在预算、规划与韧性设计上具有显著影响。",
+      "hn": {
+        "id": 50208837,
+        "type": "story",
+        "by": "hubraumhugo",
+        "score": 545,
+        "descendants": 392,
+        "time": 1792762870,
+        "comments_url": "https://news.ycombinator.com/item?id=50208837"
+      },
+      "tags": [
+        "Energy",
+        "Business",
+        "Politics"
+      ],
+      "hot_score": 1.36
+    },
+    {
+      "title_en": "Your Phone Is About to Stop Being Yours: 70 Days Until Lockdown",
+      "url": "https://keepandroidopen.org/?",
+      "title_zh": "你的手机将不再完全属于你：距锁定还有70天",
+      "created_display": "Created: Oct 23, 2026 / 06:19 PT",
+      "image_url": "https://keepandroidopen.org/img/logos/fulu.org.png",
+      "summary_en": "A looming change threatens to drastically curb user control over smartphones, with only 70 days left before the change takes effect.",
+      "summary_zh": "一个即将到来的变化可能大幅削弱用户对智能手机的控制，距离生效仅剩70天。",
+      "hn": {
+        "id": 50208558,
+        "type": "story",
+        "by": "NackerHughes",
+        "score": 512,
+        "descendants": 360,
+        "time": 1792761582,
+        "comments_url": "https://news.ycombinator.com/item?id=50208558"
+      },
+      "tags": [
+        "Privacy",
+        "Politics"
+      ],
+      "hot_score": 1.24
+    },
+    {
+      "title_en": "Docker is weird",
+      "url": "https://codeandcake.dev/posts/2026-10-22-docker-is-weird",
+      "title_zh": "Docker 真奇怪",
+      "created_display": "Created: Oct 22, 2026 / 16:45 PT",
+      "image_url": null,
+      "summary_en": "Explores oddities in Docker's behavior that catch developers off guard, from image layering and build caching to volume mounting quirks. The post offers practical tips to avoid common pitfalls and explains why these quirks persist in modern container tooling.",
+      "summary_zh": "揭示 Docker 行为中的一些反直觉之处，比如镜像分层、构建缓存和卷挂载的怪异之处。文中给出实用的排错技巧，解释了这些怪异现象在现代容器工具中的持续原因。",
+      "hn": {
+        "id": 50202681,
+        "type": "story",
+        "by": "psxuaw",
+        "score": 852,
+        "descendants": 364,
+        "time": 1792712756,
+        "comments_url": "https://news.ycombinator.com/item?id=50202681"
+      },
+      "tags": [
+        "Programming",
+        "DevOps"
+      ],
+      "hot_score": 1.02
+    },
+    {
+      "title_en": "Evolving Threat: http2shell is an RCE in Node, Python, and more",
+      "url": "https://nitter.click/AikidoSecurity/status/2113759110625906950?__galadriel=lPmlGl9id4oAd5UeBwMhlYKArHyr6lR2IDGujPwB5HV2kQ1aLoPWFd5A9sGuzNcmrp8fUso8qygmHcKTDZ8MNHWqQ3bDJcycV87xp_0VypzQLYj6O_RRHlZuQqj33oASGY2YLSoAiMjeOZN40h7Stf8AG7DPrGZbAPVKUXy36HoMudRbvwF3_r2uYNmfJMhpKzywQDM6Ab8",
+      "title_zh": "演化中的威胁：http2shell 是 Node、Python 等中的远程代码执行",
+      "created_display": "Created: Oct 23, 2026 / 16:30 PT",
+      "image_url": null,
+      "summary_en": "Security researchers flag http2shell as an evolving threat that enables remote code execution across Node, Python, and other runtimes, underscoring the need for defense-in-depth.",
+      "summary_zh": "安全研究者警示 http2shell 这一不断演化的威胁，可能在 Node、Python 等运行时引发远程代码执行，凸显深度防御的重要性。",
+      "hn": {
+        "id": 50216791,
+        "type": "story",
+        "by": "cowlevel",
+        "score": 177,
+        "descendants": 93,
+        "time": 1792798217,
+        "comments_url": "https://news.ycombinator.com/item?id=50216791"
+      },
+      "tags": [
+        "Security",
+        "Programming"
+      ],
+      "hot_score": 0.96
+    },
+    {
+      "title_en": "CVE Tracker",
+      "url": "https://cve.0xosprey.com/",
+      "title_zh": "CVE 跟踪器",
+      "created_display": "Created: Oct 23, 2026 / 14:21 PT",
+      "image_url": "https://cve.0xosprey.com/og.png",
+      "summary_en": "A centralized tracker for CVE disclosures, helping security teams monitor vulnerability severity, affected products, and disclosure timelines. It supports prioritization and remediation planning across complex software stacks.",
+      "summary_zh": "一个集中化的 CVE 漏洞信息跟踪工具，帮助安全团队监控漏洞的严重程度、影响产品和披露时间表。便于在复杂的软件堆栈中进行修复优先级排序与整改计划。",
+      "hn": {
+        "id": 50215530,
+        "type": "story",
+        "by": "Group_B",
+        "score": 200,
+        "descendants": 70,
+        "time": 1792790507,
+        "comments_url": "https://news.ycombinator.com/item?id=50215530"
+      },
+      "tags": [
+        "Security"
+      ],
+      "hot_score": 0.88
+    },
+    {
+      "title_en": "Disney Raising Prices Days After Confirming Ads Will Now Show Up on Every Tier",
+      "url": "https://www.tvfandomlounge.com/disney-plus-price-hike-ads-premium-tier-nielsen-emmys-2026/",
+      "title_zh": "迪士尼在确认所有价位都将显示广告后提高价格",
+      "created_display": "Created: Oct 23, 2026 / 01:21 PT",
+      "image_url": null,
+      "summary_en": "Disney+ is raising prices shortly after confirming ads will appear at all tiers, signaling a tighter monetization strategy that blends ads with subscription value. The move could nudge subscribers toward ad-supported options or prompt churn among price-sensitive users, affecting the streaming market.",
+      "summary_zh": "在确认所有套餐都将包含广告后，迪士尼提高了订阅价格，反映出其对广告与订阅相结合的盈利策略。此举可能促使部分用户转向带广告的方案，或让价格敏感用户流失，影响流媒体市场格局。",
+      "hn": {
+        "id": 50205934,
+        "type": "story",
+        "by": "robtherobber",
+        "score": 438,
+        "descendants": 450,
+        "time": 1792743689,
+        "comments_url": "https://news.ycombinator.com/item?id=50205934"
+      },
+      "tags": [
+        "Business"
+      ],
+      "hot_score": 0.8
+    },
+    {
+      "title_en": "Swedish government offices to ban ChatGPT and Claude",
+      "url": "https://www.sverigesradio.se/artikel/chat-gpt-och-claude-forbjuder-regeringskansliet",
+      "title_zh": "瑞典政府部门将禁用ChatGPT和Claude",
+      "created_display": "Created: Oct 23, 2026 / 04:39 PT",
+      "image_url": "https://static-cdn.sr.se/images/83/4f267bc3-0129-4628-bd75-1e593f208dfc.jpg",
+      "summary_en": "Swedish government offices will ban ChatGPT and Claude amid concerns around data privacy and security. The move signals how public-sector AI adoption is balancing innovation with policy constraints, potentially delaying AI-assisted workflows.",
+      "summary_zh": "瑞典政府机构将禁止使用ChatGPT与Claude，因应对数据隐私与安全的担忧。此举反映公共部门在推动AI应用与遵守政策约束之间的权衡，或将影响AI辅助工作流程的推进速度。",
+      "hn": {
+        "id": 50207405,
+        "type": "story",
+        "by": "armcat",
+        "score": 321,
+        "descendants": 119,
+        "time": 1792755594,
+        "comments_url": "https://news.ycombinator.com/item?id=50207405"
+      },
+      "tags": [
+        "Politics",
+        "AI",
+        "Security",
+        "Privacy"
+      ],
+      "hot_score": 0.7
+    },
+    {
+      "title_en": "Ask HN: If the models are so good, why doesn't OpenAI just start 100 companies?",
+      "url": "https://news.ycombinator.com/item?id=50200997",
+      "title_zh": "Ask HN：如果模型真的如此强大，OpenAI 为什么不直接开设100家公司？",
+      "created_display": "Created: Oct 22, 2026 / 14:03 PT",
+      "image_url": null,
+      "summary_en": "Raises strategic questions about whether AI models can autonomously spawn new companies, touching on execution, regulation, and business risk. Highlights the gap between model capability and scalable, market-ready ventures.",
+      "summary_zh": "提出若 AI 模型真的如此强大，为何不能由 OpenAI 自行孵化出大量新公司，探讨执行、监管与商业风险，并指出模型能力与可扩展市场之间的差距。",
+      "hn": {
+        "id": 50200997,
+        "type": "story",
+        "by": "ex-aws-dude",
+        "score": 631,
+        "descendants": 708,
+        "time": 1792703035,
+        "comments_url": "https://news.ycombinator.com/item?id=50200997"
+      },
+      "tags": [
+        "AI",
+        "Startups",
+        "Politics"
+      ],
+      "hot_score": 0.68
+    },
+    {
+      "title_en": "Dutch government had hacked into Jared Kushner's phone",
+      "url": "https://twitter.com/jaredkushner/status/2113376217415958767",
+      "title_zh": "荷兰政府曾入侵贾里德·库什纳的手机",
+      "created_display": "Created: Oct 23, 2026 / 03:41 PT",
+      "image_url": "https://pbs.twimg.com/profile_images/1554293796438941697/FjT4jVh1_400x400.jpg",
+      "summary_en": "A revelation that a government agency accessed a high-profile target's phone underscores state-level surveillance capabilities and digital forensics in political contexts. It spotlights how real-world security and privacy concerns intersect with policy and national-security reporting.",
+      "summary_zh": "曝光显示荷兰政府曾入侵并获取了高知名度人物的手机数据，凸显国家级监控与数字取证在政治环境中的作用。事件暴露了现实世界的安全与隐私风险，以及相关的政策与国家安全议题间的张力。",
+      "hn": {
+        "id": 50206914,
+        "type": "story",
+        "by": "teekert",
+        "score": 305,
+        "descendants": 202,
+        "time": 1792752092,
+        "comments_url": "https://news.ycombinator.com/item?id=50206914"
+      },
+      "tags": [
+        "Security",
+        "Politics",
+        "Privacy"
+      ],
+      "hot_score": 0.63
+    },
+    {
+      "title_en": "Jared Kushner Hacked Phone Reveals Secret Negotiations, Millions in Transactions",
+      "url": "https://www.vanityfair.com/story/jared-kushner-hacked-phone-secret-negotiations",
+      "title_zh": "贾里德·库什纳被入侵的手机曝光秘密谈判与数百万交易",
+      "created_display": "Created: Oct 22, 2026 / 14:24 PT",
+      "image_url": "https://media.vanityfair.com/photos/6ad91087dc03a09d237f39fb/16:9/w_1280,c_limit/vfoctober_kushner_money_tout.jpg",
+      "summary_en": "A hacked phone belonging to a high-profile figure reveals alleged secret negotiations and large-scale financial transfers, underscoring how personal devices can leak sensitive diplomacy. The breach highlights security risks for top officials and the potential consequences of private data leaking into public view. It also raises questions about how such disclosures could reshape power dynamics and influence campaigns abroad.",
+      "summary_zh": "据称属于知名人物的被入侵手机曝光了秘密谈判和大额交易记录，凸显个人设备可能泄露敏感外交信息的风险。此事暴露出高层安全风险以及私人数据若外泄可能带来的后果。也引发对此类披露如何影响权力格局和国际博弈的担忧。",
+      "hn": {
+        "id": 50201259,
+        "type": "story",
+        "by": "ck2",
+        "score": 546,
+        "descendants": 226,
+        "time": 1792704281,
+        "comments_url": "https://news.ycombinator.com/item?id=50201259"
+      },
+      "tags": [
+        "Security",
+        "Politics"
+      ],
+      "hot_score": 0.59
+    },
+    {
+      "title_en": "Every AI model has the same \"controversial\" take on humans",
+      "url": "https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans",
+      "title_zh": "每个 AI 模型对人类的看法都一样",
+      "created_display": "Created: Oct 22, 2026 / 09:08 PT",
+      "image_url": "https://www.modelcompare.ai/api/og?post=ai-models-controversial-take-on-humans&v=31jhw0",
+      "summary_en": "The piece argues that AI models often share a provocative stance toward humans, typically portraying humans as flawed or misaligned with AI goals.",
+      "summary_zh": "此文认为主流 AI 模型在对人类的问题上往往持有相同且具争议的看法，常将人类视为有缺陷、不可预测或与 AI 目标不对齐的一方。",
+      "hn": {
+        "id": 50197313,
+        "type": "story",
+        "by": "rakannimer",
+        "score": 640,
+        "descendants": 616,
+        "time": 1792685280,
+        "comments_url": "https://news.ycombinator.com/item?id=50197313"
+      },
+      "tags": [
+        "AI"
+      ],
+      "hot_score": 0.57
+    },
+    {
+      "title_en": "eMudhra ignored Mozilla Root investigation deadline; blames social media",
+      "url": "https://bugzilla.mozilla.org/show_bug.cgi?id=2083449",
+      "title_zh": "eMudhra 未在 Mozilla 根证书调查期限内完成回应；称把责任推给社媒",
+      "created_display": "Created: Oct 23, 2026 / 07:52 PT",
+      "image_url": "https://bugzilla.mozilla.org/static/v20261021.1/extensions/BMO/web/images/moz-fav-one-color-white-rgb.svg",
+      "summary_en": "Mozilla's Root Store investigation requires CA responses by a deadline; eMudhra reportedly missed it and publicly blamed social media for the confusion. The episode underscores the fragility of the certificate trust system and the importance of timely, transparent communication for browser trust. It may trigger additional scrutiny or actions from Mozilla.",
+      "summary_zh": "Mozilla 的根证书调查要求 CA 在截止日期前提交回应，eMudhra 据称未在期限内回应，并公开将问题归咎于社交媒体传播的信息。此事暴露了证书信任体系的脆弱性，也凸显了在维护浏览器信任过程中及时、透明沟通的重要性，可能引发进一步审查。",
+      "hn": {
+        "id": 50210067,
+        "type": "story",
+        "by": "IcePenguin",
+        "score": 206,
+        "descendants": 159,
+        "time": 1792767128,
+        "comments_url": "https://news.ycombinator.com/item?id=50210067"
+      },
+      "hot_score": 0.55,
+      "tags": [
+        "Security",
+        "Web"
+      ]
+    },
+    {
+      "title_en": "Canadians are running out of time to oppose Bill C-22",
+      "url": "https://www.eff.org/deeplinks/2026/10/canadians-are-running-out-time-oppose-dangerous-c-22-surveillance-bill",
+      "title_zh": "加拿大人已无时间反对 C-22 法案",
+      "created_display": "Created: Oct 22, 2026 / 15:43 PT",
+      "image_url": "https://www.eff.org/files/banner_library/OG-Encryption-DefendEncryption.png",
+      "summary_en": "A timely alert that Bill C-22 would expand surveillance powers, urging Canadians to mobilize before deadlines close.",
+      "summary_zh": "警示称 C-22 法案将扩大监控权限，敦促加拿大人在截止日期前行动，以应对对公民自由的潜在侵害。",
+      "hn": {
+        "id": 50202114,
+        "type": "story",
+        "by": "hn_acker",
+        "score": 470,
+        "descendants": 242,
+        "time": 1792708999,
+        "comments_url": "https://news.ycombinator.com/item?id=50202114"
+      },
+      "tags": [
+        "Politics",
+        "Privacy"
+      ],
+      "hot_score": 0.54
+    },
+    {
+      "title_en": "LLMs are making formal software verification feasible at a much larger scale",
+      "url": "https://www.anthropic.com/research/formal-verification",
+      "title_zh": "大语言模型让形式化软件验证在更大规模上成为现实",
+      "created_display": "Created: Oct 22, 2026 / 15:54 PT",
+      "image_url": "https://www-cdn.anthropic.com/images/4zrzovbb/website/80cf520cb540989c3643907f004b2514ec4d01f1-1200x630.jpg",
+      "summary_en": "Large language models are making formal verification scalable beyond niche research by automating proof steps and suggesting invariants. This lowers the manual burden of proving software correctness and expands the range of verifiable systems—from compilers to safety-critical software. If proven robust, this approach could change how the industry builds trustworthy software.",
+      "summary_zh": "大语言模型正在让形式化软件验证的规模扩展到此前难以触及的范围。它通过自动化推理和证明生成，降低人工成本并帮助发现不变量。此举可能改变对软件正确性的信任方式，尤其在安全关键领域。",
+      "hn": {
+        "id": 50202217,
+        "type": "story",
+        "by": "johnbender",
+        "score": 454,
+        "descendants": 296,
+        "time": 1792709683,
+        "comments_url": "https://news.ycombinator.com/item?id=50202217"
+      },
+      "tags": [
+        "AI",
+        "Science"
+      ],
+      "hot_score": 0.53
+    },
+    {
+      "title_en": "Air Purifiers as White Noise Machines",
+      "url": "https://www.jefftk.com/p/air-purifiers-as-white-noise-machines",
+      "title_zh": "空气净化器：白噪音机",
+      "created_display": "Created: Oct 23, 2026 / 10:28 PT",
+      "image_url": "https://www.jefftk.com/jefftk-glyph-framed.jpg",
+      "summary_en": "Suggests using air purifiers as white-noise devices to improve focus and sleep, leveraging their steady hum.",
+      "summary_zh": "建议将空气净化器用作白噪音设备以提升专注力和睡眠质量，利用其稳定的嗡嗡声。文中讨论了声学特性、实际注意事项与潜在权衡。",
+      "hn": {
+        "id": 50212507,
+        "type": "story",
+        "by": "luu",
+        "score": 155,
+        "descendants": 146,
+        "time": 1792776516,
+        "comments_url": "https://news.ycombinator.com/item?id=50212507"
+      },
+      "tags": [
+        "Health"
+      ],
+      "hot_score": 0.5
+    },
+    {
+      "title_en": "UUIDv7: Timestamps aren’t time-ordered and other oddities",
+      "url": "https://alexsci.com/blog/uuidv7-is-weird/",
+      "title_zh": "UUIDv7：时间戳并非严格按顺序及其他怪异之处",
+      "created_display": "Created: Oct 23, 2026 / 09:39 PT",
+      "image_url": "https://alexsci.com/blog/static/head-shot.png",
+      "summary_en": "UUIDv7 introduces time-based IDs, but timestamps can be non-monotonic and exhibit other oddities that affect ordering guarantees and system design choices.",
+      "summary_zh": "UUIDv7 引入基于时间的 ID，但时间戳可能并非严格按顺序，存在其他异常现象，影响排序保证和系统设计。",
+      "hn": {
+        "id": 50211746,
+        "type": "story",
+        "by": "ibobev",
+        "score": 163,
+        "descendants": 133,
+        "time": 1792773585,
+        "comments_url": "https://news.ycombinator.com/item?id=50211746"
+      },
+      "tags": [
+        "Programming"
+      ],
+      "hot_score": 0.49
+    },
+    {
+      "title_en": "OpenShell – A safe, private runtime for fleets of autonomous AI agents",
+      "url": "https://github.com/NVIDIA/OpenShell",
+      "title_zh": "OpenShell：为成群自主 AI 代理提供安全、私有的运行时",
+      "created_display": "Created: Oct 22, 2026 / 10:44 PT",
+      "image_url": "https://opengraph.githubassets.com/fbaeb248dd5067686bb0eeefe867df5f2eed0feddc9e3d91f67e69de612ebee7/NVIDIA/OpenShell",
+      "summary_en": "OpenShell provides a private, sandboxed runtime to run fleets of autonomous AI agents with strong isolation and governance. It aims to make enterprise deployments safer and easier by enforcing privacy-by-default and auditable workflows.",
+      "summary_zh": "OpenShell 提供私有、沙箱化的运行时环境，用于部署成群的自主 AI 代理，强调强隔离与治理。面向企业场景，聚焦隐私保护和可审计的工作流，提升安全性和合规性。",
+      "hn": {
+        "id": 50198675,
+        "type": "story",
+        "by": "niemandhier",
+        "score": 496,
+        "descendants": 217,
+        "time": 1792691046,
+        "comments_url": "https://news.ycombinator.com/item?id=50198675"
+      },
+      "tags": [
+        "AI",
+        "Open Source",
+        "Privacy"
+      ],
+      "hot_score": 0.47
+    },
+    {
+      "title_en": "The foolishness of \"natural language programming\" (1978)",
+      "url": "https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html",
+      "title_zh": "自然语言编程的愚蠢之处（1978）",
+      "created_display": "Created: Oct 22, 2026 / 17:52 PT",
+      "image_url": null,
+      "summary_en": "Dijkstra argues that natural language programming is a misbegotten dream because natural language is ambiguous and ill-suited for precise instructions. The critique foreshadows why formal languages and rigorous semantics remain essential for reliable software.",
+      "summary_zh": "Dijkstra 批评自然语言编程是一个错误的梦想，因自然语言容易产生歧义，难以给出精确定义。该论点预示了为何形式化语言和严格语义对可靠软件至关重要。",
+      "hn": {
+        "id": 50203161,
+        "type": "story",
+        "by": "xiaoyu2006",
+        "score": 373,
+        "descendants": 260,
+        "time": 1792716721,
+        "comments_url": "https://news.ycombinator.com/item?id=50203161"
+      },
+      "tags": [
+        "Programming"
+      ],
+      "hot_score": 0.47
+    },
+    {
+      "title_en": "Run full iOS 16.5 firmware on Android Devices",
+      "url": "https://github.com/oosexgang/hackios-xnu-kernel",
+      "title_zh": "Show HN：在 Android 设备上运行完整的 iOS 16.5 固件",
+      "created_display": "Created: Oct 22, 2026 / 08:26 PT",
+      "image_url": "https://opengraph.githubassets.com/052488f31b91887aac81570c21a9b31540871bf1904934601b6592b7bbdda0a4/oosexgang/hackios-xnu-kernel",
+      "summary_en": "A hands-on project demonstrates booting and running the full iOS 16.5 firmware on Android hardware, challenging cross-OS compatibility. It highlights the iOS boot chain, kernel and driver constraints, and what the exercise reveals about the barriers between mobile ecosystems.",
+      "summary_zh": "一个动手项目展示在 Android 硬件上跑完整的 iOS 16.5 固件，挑战跨操作系统兼容性。该工作揭示了 iOS 启动链、内核与驱动的约束，以及两大移动生态之间的壁垒。",
+      "hn": {
+        "id": 50196718,
+        "type": "story",
+        "by": "aghuang",
+        "score": 527,
+        "descendants": 194,
+        "time": 1792682782,
+        "comments_url": "https://news.ycombinator.com/item?id=50196718"
+      },
+      "tags": [
+        "Programming",
+        "Hardware"
+      ],
+      "hot_score": 0.46
+    },
+    {
+      "title_en": "How is music possible",
+      "url": "https://www.henrikkarlsson.xyz/p/music",
+      "title_zh": "音乐为何会存在",
+      "created_display": "Created: Oct 23, 2026 / 09:38 PT",
+      "image_url": "https://substackcdn.com/image/fetch/$s_!jv_m!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffefd7c8e-1e7a-4602-97b3-3565e99383c9_1920x1551.png",
+      "summary_en": "The piece sketches how physics, perception, and cognition combine to produce music, from sound waves to rhythm and harmony. It helps readers appreciate the scientific underpinnings of why music moves us.",
+      "summary_zh": "文章从物理、感知与认知角度解释音乐如何产生，涵盖声波、节奏与和声等要素，帮助读者理解音乐为何能打动人心。",
+      "hn": {
+        "id": 50211719,
+        "type": "story",
+        "by": "rafaelc",
+        "score": 150,
+        "descendants": 95,
+        "time": 1792773497,
+        "comments_url": "https://news.ycombinator.com/item?id=50211719"
+      },
+      "tags": [
+        "Science"
+      ],
+      "hot_score": 0.45
+    },
+    {
+      "title_en": "OpenSSL 4.1.0",
+      "url": "https://github.com/openssl/openssl/releases/tag/openssl-4.1.0",
+      "title_zh": "OpenSSL 4.1.0 发布",
+      "created_display": "Created: Oct 23, 2026 / 05:42 PT",
+      "image_url": "https://opengraph.githubassets.com/02c77ea91d816b8397dbd361fb4dd9719007a716310ae9afcccc7c50fd8fc0a2/openssl/openssl/releases/tag/openssl-4.1.0",
+      "summary_en": "OpenSSL 4.1.0 is released with security fixes and new features, signaling ongoing evolution of the crypto stack. The update may deprecate some APIs and require developers to test for compatibility with existing software. It’s a reminder to keep cryptographic dependencies up to date in production systems.",
+      "summary_zh": "OpenSSL 4.1.0 发布，包含安全修复与新特性，体现密码学库的持续演进。此次更新可能对某些 API 进行弃用并要求开发者进行兼容性测试，提醒在生产环境中保持加密依赖的最新状态。",
+      "hn": {
+        "id": 50208099,
+        "type": "story",
+        "by": "petecooper",
+        "score": 186,
+        "descendants": 66,
+        "time": 1792759364,
+        "comments_url": "https://news.ycombinator.com/item?id=50208099"
+      },
+      "hot_score": 0.43,
+      "tags": [
+        "Security"
+      ]
+    },
+    {
+      "title_en": "Is this the new cyber normal?",
+      "url": "https://drew.silcock.dev/blog/is-this-the-new-cyber-normal/",
+      "title_zh": "这是新的网络安全常态吗？",
+      "created_display": "Created: Oct 23, 2026 / 04:04 PT",
+      "image_url": "https://drew.silcock.dev/open-graph/blog/is-this-the-new-cyber-normal.png",
+      "summary_en": "The post argues that cyber risk and defense are evolving toward new norms centered on automation, zero trust, and AI-assisted defense. It questions whether a stable, predictable security posture is possible.",
+      "summary_zh": "文章讨论网络安全的演变，认为新的常态将围绕自动化、零信任与 AI 助力防御展开，并探讨是否能建立稳定的安全态势。",
+      "hn": {
+        "id": 50207115,
+        "type": "story",
+        "by": "drewsberry",
+        "score": 182,
+        "descendants": 214,
+        "time": 1792753493,
+        "comments_url": "https://news.ycombinator.com/item?id=50207115"
+      },
+      "tags": [
+        "Security",
+        "AI"
+      ],
+      "hot_score": 0.38
+    },
+    {
+      "title_en": "Hacker leaks 281 GB of data from Germany's far-right AfD party",
+      "url": "https://www.bitdefender.com/en-us/blog/hotforsecurity/hacker-leaks-281-gb-data-germany-afd",
+      "title_zh": "黑客泄露德国极右翼 AfD 的281 GB 数据",
+      "created_display": "Created: Oct 23, 2026 / 05:56 PT",
+      "image_url": "https://blogapp.bitdefender.com/hotforsecurity/content/images/2026/10/afd.jpeg",
+      "summary_en": "A hacker publicly dumps 281 GB of internal AfD data, including emails and confidential documents, triggering concerns about security in political organizations and potential misuse of sensitive information. The leak underscores the high-stakes nature of political data security and risk of doxxing or manipulation.",
+      "summary_zh": "黑客公开披露 AfD 内部的281 GB 数据，其中包括电子邮件和机密文件，引发对政治组织信息安全的担忧及敏感信息被滥用的风险。此事件凸显政治数据安全的高风险，以及潜在的抖动和操控风险。",
+      "hn": {
+        "id": 50208258,
+        "type": "story",
+        "by": "speckx",
+        "score": 162,
+        "descendants": 119,
+        "time": 1792760198,
+        "comments_url": "https://news.ycombinator.com/item?id=50208258"
+      },
+      "hot_score": 0.38,
+      "tags": [
+        "Security",
+        "Politics"
+      ]
+    },
+    {
+      "title_en": "Job loss and cortisone mania",
+      "url": "https://tilschuenemann.de/job-loss-cortisone-mania",
+      "title_zh": "失业与可的松狂热",
+      "created_display": "Created: Oct 23, 2026 / 03:31 PT",
+      "image_url": null,
+      "summary_en": "A personal essay examining how unemployment intersects with stress management and medical coping strategies, using cortisone as a lens. It reflects on resilience in the face of career upheaval and questions quick fixes in high-pressure tech cultures. The piece invites readers to consider healthier, long-term approaches to stress.",
+      "summary_zh": "这篇个人随笔探讨失业如何与压力管理及医疗应对策略交织，以可的松为切入口进行思考。文章反思在高压科技环境中面对职业动荡时的韧性，以及对迅速解决问题心态的质疑，呼吁读者采用更健康、长期的压力管理方式。",
+      "hn": {
+        "id": 50206840,
+        "type": "story",
+        "by": "speckx",
+        "score": 182,
+        "descendants": 129,
+        "time": 1792751484,
+        "comments_url": "https://news.ycombinator.com/item?id=50206840"
+      },
+      "hot_score": 0.37,
+      "tags": [
+        "Career",
+        "Health"
+      ]
+    },
+    {
+      "title_en": "Shitter – A Nitter Fork",
+      "url": "https://codeberg.org/shitter/shitter",
+      "title_zh": "Shitter：Nitter 的一个分叉实现",
+      "created_display": "Created: Oct 23, 2026 / 06:02 PT",
+      "image_url": "https://codeberg.org/shitter/shitter/-/summary-card",
+      "summary_en": "Shitter is a fork of Nitter, offering a privacy-conscious, JS-light front-end for Twitter-like content and a self-hosted viewing experience. It exemplifies open-source efforts to reduce tracking and API reliance while preserving access to public posts.",
+      "summary_zh": "Shitter 是 Nitter 的一个分叉，提供一个轻量、注重隐私的前端来浏览类似 Twitter 的内容，并支持自托管使用。该项目展示了开源社区在减少跟踪、降低对官方 API 依赖方面的努力，同时保持对公开内容的访问。",
+      "hn": {
+        "id": 50208343,
+        "type": "story",
+        "by": "eustoria",
+        "score": 155,
+        "descendants": 152,
+        "time": 1792760543,
+        "comments_url": "https://news.ycombinator.com/item?id=50208343"
+      },
+      "hot_score": 0.37,
+      "tags": [
+        "Open Source",
+        "Privacy"
+      ]
+    },
+    {
+      "title_en": "Remove pgrust: the entry is cheating (per-query kernels and result caching)",
+      "url": "https://github.com/ClickHouse/ClickBench/pull/2165",
+      "title_zh": "移除 pgrust：条目被认定为作弊（逐查询内核与结果缓存）",
+      "created_display": "Created: Oct 23, 2026 / 01:05 PT",
+      "image_url": "https://opengraph.githubassets.com/4870be30cb291ef6f3ef20ef4fd4192b92a854ec1ef7d9bed8b58b200e3d9a47/ClickHouse/ClickBench/pull/2165",
+      "summary_en": "The project proposes removing pgrust after indications of cheating, including per-query kernels and result caching that skew benchmarks. The move reinforces the need for honest, transparent benchmarking in open-source projects and could affect credibility of reported performance figures. Maintainers emphasize fair competition and reproducibility.",
+      "summary_zh": "在发现存在作弊迹象（如逐查询内核与结果缓存扭曲基准结果）后，项目组提议移除 pgrust。此举强调在开源基准测试中保持公正、透明的重要性，可能影响对性能数据的信任度，并敦促维护者关注可复现性与公平竞争。",
+      "hn": {
+        "id": 50205816,
+        "type": "story",
+        "by": "f311a",
+        "score": 190,
+        "descendants": 148,
+        "time": 1792742733,
+        "comments_url": "https://news.ycombinator.com/item?id=50205816"
+      },
+      "hot_score": 0.34,
+      "tags": [
+        "Open Source",
+        "Programming"
+      ]
+    },
+    {
+      "title_en": "No Need for Retirement When Utopia Is Around the Corner",
+      "url": "https://blog.jim-nielsen.com/2026/skip-retirement-for-utopia/",
+      "title_zh": "乌托邦近在眼前，退休并非必要",
+      "created_display": "Created: Oct 23, 2026 / 03:58 PT",
+      "image_url": null,
+      "summary_en": "A provocative take arguing that ongoing technological progress reduces the need to retire and encourages staying engaged through meaningful work or side projects. It champions lifelong learning and continuous opportunities as technology reshapes careers.",
+      "summary_zh": "文章挑战退休作为人生终点的观念，认为持续的技术进步为人们提供了继续工作和参与有意义项目的机会。它倡导终身学习与持续的机会，以应对随着技术变革带来的职业前景变化。",
+      "hn": {
+        "id": 50207050,
+        "type": "story",
+        "by": "speckx",
+        "score": 156,
+        "descendants": 174,
+        "time": 1792753132,
+        "comments_url": "https://news.ycombinator.com/item?id=50207050"
+      },
+      "hot_score": 0.33,
+      "tags": [
+        "Career"
+      ]
+    },
+    {
+      "title_en": "Getting ready to operate GNU Taler in Germany",
+      "url": "https://www.taler.net/en/news/2026-13.html",
+      "title_zh": "在德国部署 GNU Taler 的准备工作",
+      "created_display": "Created: Oct 22, 2026 / 09:14 PT",
+      "image_url": "https://www.taler.net/images/logo-2021.svg",
+      "summary_en": "GNU Taler is being prepared for operation in Germany, signaling steps toward a privacy-preserving digital cash system in the EU. The update covers regulatory alignment, integration with local banks and PSPs, and how opt-in communities can participate.",
+      "summary_zh": "GNU Taler 在德国的落地正在推进，标志着在欧盟范围内推进隐私保护型数字现金系统的阶段性进展。更新聚焦监管合规、与本地银行及支付服务提供商的对接，以及社区参与的方式。",
+      "hn": {
+        "id": 50197404,
+        "type": "story",
+        "by": "dewey",
+        "score": 359,
+        "descendants": 173,
+        "time": 1792685671,
+        "comments_url": "https://news.ycombinator.com/item?id=50197404"
+      },
+      "tags": [
+        "Privacy",
+        "Open Source",
+        "Politics"
+      ],
+      "hot_score": 0.32
+    },
+    {
+      "title_en": "Google cleared 300 hectares of Finnish forest",
+      "url": "https://www.techspot.com/news/114100-google-cleared-300-hectares-finnish-forest-data-center.html",
+      "title_zh": "谷歌在芬兰清理了300公顷森林用于数据中心",
+      "created_display": "Created: Oct 22, 2026 / 08:32 PT",
+      "image_url": "https://www.techspot.com/images2/news/bigimage/2026/10/2026-10-05-image-22.jpg",
+      "summary_en": "Google reportedly cleared 300 hectares of Finnish forest for a data center expansion, drawing attention to land-use, environmental impact, and sustainability commitments in hyperscale infrastructure. The move underscores the tension between cloud capacity growth and conservation, putting pressure on regulators and suppliers to assess biodiversity and carbon footprints.",
+      "summary_zh": "据报道，谷歌为扩建数据中心在芬兰清理了300公顷森林，引发对土地使用、环境影响及大规模基础设施的可持续性承诺的关注。此举凸显云计算容量扩张与自然保护之间的矛盾，促使监管机构和供应商重新评估生物多样性与碳足迹。",
+      "hn": {
+        "id": 50196837,
+        "type": "story",
+        "by": "wetwater",
+        "score": 328,
+        "descendants": 245,
+        "time": 1792683166,
+        "comments_url": "https://news.ycombinator.com/item?id=50196837"
+      },
+      "tags": [
+        "Energy",
+        "Business",
+        "DevOps",
+        "Politics"
+      ],
+      "hot_score": 0.29
+    },
+    {
+      "title_en": "Move Slow and Fix Things (2024)",
+      "url": "https://endler.dev/2024/move-slow-and-fix-things/",
+      "title_zh": "慢慢移动，修复事物（2024）",
+      "created_display": "Created: Oct 22, 2026 / 22:12 PT",
+      "image_url": "https://endler.dev/2024/move-slow-and-fix-things/social.png",
+      "summary_en": "A 2024 reflection on software velocity and maintenance culture, arguing for slower, steadier progress and deliberate fixes over relentless shipping. It emphasizes sustainable engineering practices, risk awareness, and thoughtful decision-making in product work.",
+      "summary_zh": "2024 年的文章回顾了软件开发的节奏和维护文化，主张放慢节奏、稳步推进并对缺陷进行深思熟虑的修复，而非追求持续快速发布。强调可持续工程实践、风险意识以及在产品工作中的深思熟虑决策。",
+      "hn": {
+        "id": 50204754,
+        "type": "story",
+        "by": "ahmedhossamdev",
+        "score": 172,
+        "descendants": 32,
+        "time": 1792732359,
+        "comments_url": "https://news.ycombinator.com/item?id=50204754"
+      },
+      "hot_score": 0.26,
+      "tags": [
+        "DevOps"
+      ]
+    },
+    {
+      "title_en": "A farewell to Arc browser",
+      "url": "https://arc.net/",
+      "title_zh": "向 Arc 浏览器道别",
+      "created_display": "Created: Oct 22, 2026 / 09:27 PT",
+      "image_url": "https://arc.net/farewell/og.png",
+      "summary_en": "Opinion piece reflecting on Arc browser's UX ambitions and its eventual trouble sustaining momentum; lessons for product teams trying to reinvent mainstream browsing.",
+      "summary_zh": "这篇观点文章回顾 Arc 浏览器在用户体验上的野心以及在持续获得用户关注方面遇到的挑战，提炼出对试图重塑主流浏览体验的产品团队的教训。",
+      "hn": {
+        "id": 50197601,
+        "type": "story",
+        "by": "suhdonghwi",
+        "score": 281,
+        "descendants": 251,
+        "time": 1792686467,
+        "comments_url": "https://news.ycombinator.com/item?id=50197601"
+      },
+      "tags": [
+        "Design",
+        "Web"
+      ],
+      "hot_score": 0.25
+    },
+    {
+      "title_en": "Hedra is a 3D open world game I wrote from scratch while in highschool",
+      "url": "https://github.com/maxilevi/project-hedra/tree/pre-ai",
+      "title_zh": "Hedra：高中时从零写成的 3D 开放世界游戏",
+      "created_display": "Created: Oct 22, 2026 / 11:44 PT",
+      "image_url": "https://opengraph.githubassets.com/8fefb848132eef9d5d9609836dedfc62c23b5d353529a7ed935128222085f108/maxilevi/project-hedra",
+      "summary_en": "Hedra is a 3D open world game created from scratch in high school. This solo project demonstrates independent game development skills, including world-building, controls, and basic engine work, offering a peek into a teen's indie effort.",
+      "summary_zh": "Hedra 是作者在高中时独自从零开始开发的 3D 开放世界游戏。该作品展示了单人开发的完整流程，包括世界构建、控制与基础引擎工作，呈现青少年独立游戏开发的有趣案例。",
+      "hn": {
+        "id": 50199389,
+        "type": "story",
+        "by": "maxilevi",
+        "score": 234,
+        "descendants": 48,
+        "time": 1792694676,
+        "comments_url": "https://news.ycombinator.com/item?id=50199389"
+      },
+      "tags": [
+        "Gaming",
+        "Open Source"
+      ],
+      "hot_score": 0.23
+    },
+    {
+      "title_en": "How does Fable 5.1 hide messages in images?",
+      "url": "https://www.lesswrong.com/posts/WHEQps5PK8LrrcTAb/how-does-fable-5-1-hide-messages-in-images",
+      "title_zh": "Fable 5.1 如何在图像中隐藏信息？",
+      "created_display": "Created: Oct 22, 2026 / 14:41 PT",
+      "image_url": "https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/WHEQps5PK8LrrcTAb/h9vfucmjzf2tlo8t4ayf",
+      "summary_en": "A look at the steganographic techniques used by Fable 5.1 to conceal data inside images. It covers payload capacity, detectability, and potential misuse, highlighting trade-offs for secure messaging and watermarking.",
+      "summary_zh": "对 Fable 5.1 在图像中隐藏信息的隐写技术进行了分解，揭示了载荷容量、可检测性和潜在滥用的权衡。此分析强调了在实现安全信息传递和水印时需权衡的实际考量。",
+      "hn": {
+        "id": 50201445,
+        "type": "story",
+        "by": "gmays",
+        "score": 206,
+        "descendants": 73,
+        "time": 1792705273,
+        "comments_url": "https://news.ycombinator.com/item?id=50201445"
+      },
+      "tags": [
+        "Security"
+      ],
+      "hot_score": 0.23
+    },
+    {
+      "title_en": "Jank – The native Clojure dialect with seamless C++ interop",
+      "url": "https://jank-lang.org/",
+      "title_zh": "Jank——拥有无缝 C++ 互操作性的原生 Clojure 方言",
+      "created_display": "Created: Oct 22, 2026 / 16:56 PT",
+      "image_url": "https://jank-lang.org/img/logo-text-dark.png",
+      "summary_en": "Jank is a native Clojure dialect designed for seamless interop with C++, enabling Lisp-like code to call into native libraries efficiently. It blends Lisp productivity with C++ performance, appealing to performance-critical and polyglot projects. Adoption is experimental and mostly exploratory at this stage.",
+      "summary_zh": "Jank 是一种原生 Clojure 方言，旨在实现与 C++ 的无缝互操作，使 Lisp 风格的代码能够高效调用本地库。它将 Lisp 的生产力与 C++ 的性能结合，可能吸引对性能敏感或需要混合语言的项目。当前仍处于试验性阶段。",
+      "hn": {
+        "id": 50202762,
+        "type": "story",
+        "by": "giancarlostoro",
+        "score": 183,
+        "descendants": 48,
+        "time": 1792713396,
+        "comments_url": "https://news.ycombinator.com/item?id=50202762"
+      },
+      "hot_score": 0.22,
+      "tags": [
+        "Programming",
+        "Open Source"
+      ]
+    },
+    {
+      "title_en": "This I Believe (1952)",
+      "url": "https://www.awakin.org/v2/read/view.php?tid=468",
+      "title_zh": "我信仰的信念（1952）",
+      "created_display": "Created: Oct 22, 2026 / 19:19 PT",
+      "image_url": "https://www.awakin.org/pics/rand/smile-balls.jpg",
+      "summary_en": "This I Believe (1952) offers a concise, personal credo from the classic radio-essay series, sharing a guiding principle and its implications. It provides a window into mid-20th-century values that still resonate with readers today.",
+      "summary_zh": "This I Believe（1952）是经典广播随笔系列中的一篇，作者用简短的自白阐述个人信条及其对生活的指引。此篇展现了20世纪中叶的价值观念，如今依然与读者产生共鸣。",
+      "hn": {
+        "id": 50203759,
+        "type": "story",
+        "by": "ctoth",
+        "score": 153,
+        "descendants": 87,
+        "time": 1792721978,
+        "comments_url": "https://news.ycombinator.com/item?id=50203759"
+      },
+      "hot_score": 0.21,
+      "tags": [
+        "Culture"
+      ]
+    },
+    {
+      "title_en": "A complete bypass of eMudhra’s 1FA OTP login system",
+      "url": "https://mastodon.catgirl.cloud/@49016/117475976434068995",
+      "title_zh": "对 eMudhra 1FA OTP 登录系统的彻底绕过",
+      "created_display": "Created: Oct 22, 2026 / 12:14 PT",
+      "image_url": "https://mastodon.catgirl.cloud/packs/assets/logo-DXQkHAe5.svg",
+      "summary_en": "Researchers demonstrate a complete bypass of eMudhra’s 1FA OTP login, exposing critical weaknesses in OTP-based authentication used for identity verification. The finding underscores the fragility of one-time-password schemes and may drive demand for more robust multi-factor authentication.",
+      "summary_zh": "研究者展示了对 eMudhra 的 1FA OTP 登录系统的彻底绕过，暴露了用于身份验证的一次性验证码的关键缺陷。这一发现凸显了单次性密码认证的脆弱性，可能推动对更强大多因素认证的需求。",
+      "hn": {
+        "id": 50199757,
+        "type": "story",
+        "by": "tensegrist",
+        "score": 189,
+        "descendants": 66,
+        "time": 1792696441,
+        "comments_url": "https://news.ycombinator.com/item?id=50199757"
+      },
+      "tags": [
+        "Security"
+      ],
+      "hot_score": 0.19
+    }
+  ]
+}

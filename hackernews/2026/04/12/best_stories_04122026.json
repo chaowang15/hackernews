@@ -1,0 +1,1152 @@
+{
+  "meta": {
+    "mode": "best",
+    "source": "https://news.ycombinator.com/",
+    "api": "https://github.com/HackerNews/API",
+    "count_requested": 50,
+    "count_written": 50,
+    "reused_same_day": 0,
+    "reused_cross_day": 17,
+    "new_llm_enriched": 9,
+    "scrape_time_display": "06:48, April 13, 2026 (PDT)",
+    "timezone": "America/Los_Angeles",
+    "date_dir": "2026/04/12",
+    "content_date": "2026-04-12",
+    "run_time_local": "06:48, April 13, 2026 (PDT)",
+    "run_time_utc": "2026-04-13 13:48:24 UTC",
+    "incremental": true,
+    "stories_max": 50,
+    "hot_score_time_utc": "2026-04-13 13:49:19 UTC"
+  },
+  "items": [
+    {
+      "title_en": "Android now stops you sharing your location in photos",
+      "url": "https://shkspr.mobi/blog/2026/04/android-now-stops-you-sharing-your-location-in-photos/",
+      "title_zh": "Android 现在阻止你在照片中分享位置信息",
+      "created_display": "Created: Apr 13, 2026 / 04:48 PT",
+      "image_url": "https://shkspr.mobi/blog/wp-content/uploads/2018/11/UK-map-of-benches-fs8.png",
+      "summary_en": "Android now strips location data from photos before sharing, helping protect user privacy when posting to social apps. The change reduces inadvertent location leaks and sets a baseline for privacy controls across mobile platforms, though users can still re-enable when needed.",
+      "summary_zh": "Android 新功能在分享照片前移除位置信息元数据，帮助用户避免地理位置信息泄露。该改动提升隐私保护，但仍允许需要时开启位置标记的选项。",
+      "hn": {
+        "id": 47750669,
+        "type": "story",
+        "by": "edent",
+        "score": 133,
+        "descendants": 76,
+        "time": 1776080895,
+        "comments_url": "https://news.ycombinator.com/item?id=47750669"
+      },
+      "hot_score": 10.8,
+      "tags": [
+        "Privacy"
+      ]
+    },
+    {
+      "title_en": "All elementary functions from a single binary operator",
+      "url": "https://arxiv.org/abs/2603.21852",
+      "title_zh": "用单一二元运算生成所有初等函数",
+      "created_display": "Created: Apr 12, 2026 / 18:49 PT",
+      "image_url": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+      "summary_en": "Proves that a single binary operator can generate all elementary functions, revealing a surprisingly small algebraic basis for calculus. The result has implications for symbolic computation, functional programming, and universal function representations.",
+      "summary_zh": "研究表明，通过一个二元运算即可构造所有初等函数，揭示了微积分的极简代数基础。这一发现可能影响符号计算、函数式编程以及统一表示函数的方法。",
+      "hn": {
+        "id": 47746610,
+        "type": "story",
+        "by": "pizza",
+        "score": 593,
+        "descendants": 152,
+        "time": 1776044972,
+        "comments_url": "https://news.ycombinator.com/item?id=47746610"
+      },
+      "tags": [
+        "Programming",
+        "Science"
+      ],
+      "hot_score": 5.12
+    },
+    {
+      "title_en": "The economics of software teams: Why most engineering orgs are flying blind",
+      "url": "https://www.viktorcessan.com/the-economics-of-software-teams/",
+      "title_zh": "软件团队的经济学：为何多数工程组织在盲目运作",
+      "created_display": "Created: Apr 12, 2026 / 22:45 PT",
+      "image_url": "https://www.viktorcessan.com/the-economics-of-software-teams/Monthly%20cost%20vs%20value.png",
+      "summary_en": "Most engineering organizations lack visibility into the true cost of software delivery, often optimizing for velocity rather than value. The piece argues that without product-aligned incentives and cost-aware metrics, teams accumulate technical debt and misallocate resources. It offers practical levers like measuring feature economics, improving cross-functional collaboration, and building dashboards that surface cycle time, cost per feature, and delivered impact.",
+      "summary_zh": "工程组织往往对软件交付的真实成本缺乏清晰度，常以追求速度为目标而忽视价值。若缺乏以产品为导向的激励与成本感知的指标，团队容易积累技术债务、资源错配。文中提出通过衡量功能经济学、提高跨职能协作，以及建立能反映交付成本、周期时间和实际影响的看板等来纠偏。",
+      "hn": {
+        "id": 47748064,
+        "type": "story",
+        "by": "kiyanwang",
+        "score": 254,
+        "descendants": 133,
+        "time": 1776059132,
+        "comments_url": "https://news.ycombinator.com/item?id=47748064"
+      },
+      "tags": [
+        "Business"
+      ],
+      "hot_score": 3.96
+    },
+    {
+      "title_en": "Apple's accidental moat: How the \"AI Loser\" may end up winning",
+      "url": "https://adlrocha.substack.com/p/adlrocha-how-the-ai-loser-may-end",
+      "title_zh": "苹果的意外护城河：AI 落后者也许会赢",
+      "created_display": "Created: Apr 12, 2026 / 19:53 PT",
+      "image_url": null,
+      "summary_en": "Apple's cautious stance on AI could become a durable moat, built on privacy, on-device AI, and a tightly integrated ecosystem. As competitors chase scale, Apple's trust advantage and user experience may prove sturdier over the long term.",
+      "summary_zh": "苹果对 AI 热潮的谨慎态度可能成为长期护城河，源自隐私保护、设备端 AI 与紧密的生态系统。随着竞争对手追逐规模，苹果在信任与用户体验方面的优势或在长期内更为稳固。",
+      "hn": {
+        "id": 47747017,
+        "type": "story",
+        "by": "walterbell",
+        "score": 295,
+        "descendants": 269,
+        "time": 1776048790,
+        "comments_url": "https://news.ycombinator.com/item?id=47747017"
+      },
+      "tags": [
+        "AI",
+        "Privacy"
+      ],
+      "hot_score": 2.93
+    },
+    {
+      "title_en": "Tell HN: Docker pull fails in Spain due to football Cloudflare block",
+      "url": "https://news.ycombinator.com/item?id=47738883",
+      "title_zh": "西班牙因 Cloudflare 阻断导致 Docker pull 失败",
+      "created_display": "Created: Apr 12, 2026 / 05:28 PT",
+      "image_url": "https://news.ycombinator.com/y18.svg",
+      "summary_en": "A Docker pull failure in Spain is linked to Cloudflare blocking football-related requests, illustrating how regional filtering can disrupt developer workflows. It underscores the need for resilient mirrors and alternative routing.",
+      "summary_zh": "西班牙的 Docker 拉取失败被追踪至 Cloudflare 对足球相关流量的拦截，反映出区域性过滤可能干扰开发工作流。需要更稳健的镜像源与路由策略以缓解。",
+      "hn": {
+        "id": 47738883,
+        "type": "story",
+        "by": "littlecranky67",
+        "score": 1015,
+        "descendants": 374,
+        "time": 1775996937,
+        "comments_url": "https://news.ycombinator.com/item?id=47738883"
+      },
+      "tags": [
+        "DevOps"
+      ],
+      "hot_score": 2.63
+    },
+    {
+      "title_en": "Google removes \"Doki Doki Literature Club\" from Google Play",
+      "url": "https://bsky.app/profile/serenityforge.com/post/3mj3r4nbiws2t",
+      "title_zh": "Google 将《Doki Doki Literature Club》从 Google Play 下架",
+      "created_display": "Created: Apr 12, 2026 / 12:53 PT",
+      "image_url": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vnea37icaea6aufss6n4vpo4/bafkreigaipkm5tcheomjrjjiwgwew2cb5o5gougsblcdyez5kmp3wgjtrm",
+      "summary_en": "Google removed the game from Play Store, triggering questions about platform moderation. The move highlights how policy decisions affect indie games' visibility and monetization. It also sparks debate over criteria, consistency, and censorship on major app stores.",
+      "summary_zh": "谷歌已将该游戏从应用商店下架，引发关于平台审核与独立游戏曝光之间平衡的讨论。此举凸显了政策决策对独立开发者的可见度与盈利的影响，并引发关于标准、执行一致性以及平台审查尺度的辩论。",
+      "hn": {
+        "id": 47743730,
+        "type": "story",
+        "by": "super256",
+        "score": 483,
+        "descendants": 260,
+        "time": 1776023588,
+        "comments_url": "https://news.ycombinator.com/item?id=47743730"
+      },
+      "tags": [
+        "Politics"
+      ],
+      "hot_score": 2.21
+    },
+    {
+      "title_en": "DIY Soft Drinks",
+      "url": "https://blinry.org/diy-soft-drinks/",
+      "title_zh": "自制软饮",
+      "created_display": "Created: Apr 12, 2026 / 09:38 PT",
+      "image_url": "https://blinry.org/diy-soft-drinks/d8cca3de57200bb9.jpg-thumbnail.jpg",
+      "summary_en": "A guide to making your own carbonated drinks, including syrups, carbonation methods, and flavoring ideas, with tips on cost, customization, and scaling. It shows how small-batch experimentation can rival commercial beverages.",
+      "summary_zh": "一份自制软饮指南，涵盖糖浆、碳化方法与口味搭配，强调成本、定制化与小批量制作的可行性。通过动手尝试，可以在家实现与商业饮料相近的口感与乐趣。",
+      "hn": {
+        "id": 47741701,
+        "type": "story",
+        "by": "_Microft",
+        "score": 557,
+        "descendants": 165,
+        "time": 1776011923,
+        "comments_url": "https://news.ycombinator.com/item?id=47741701"
+      },
+      "tags": [
+        "Culture"
+      ],
+      "hot_score": 1.94
+    },
+    {
+      "title_en": "The peril of laziness lost",
+      "url": "https://bcantrill.dtrace.org/2026/04/12/the-peril-of-laziness-lost/",
+      "title_zh": "失去懒惰的危机",
+      "created_display": "Created: Apr 12, 2026 / 12:44 PT",
+      "image_url": "https://bcantrill.dtrace.org/2026/04/12/the-peril-of-laziness-lost/images/37k-a-day-bro.webp",
+      "summary_en": "Removing laziness can carry hidden risks. The piece argues that disciplined efficiency can backfire in surprising ways, potentially stifling creativity and resilience.",
+      "summary_zh": "文章指出失去懒惰所带来的风险，强调在克制与纪律之外可能出现的隐性成本。",
+      "hn": {
+        "id": 47743628,
+        "type": "story",
+        "by": "gpm",
+        "score": 430,
+        "descendants": 138,
+        "time": 1776023080,
+        "comments_url": "https://news.ycombinator.com/item?id=47743628"
+      },
+      "tags": [
+        "Career"
+      ],
+      "hot_score": 1.94
+    },
+    {
+      "title_en": "Pro Max 5x quota exhausted in 1.5 hours despite moderate usage",
+      "url": "https://github.com/anthropics/claude-code/issues/45756",
+      "title_zh": "Pro Max 5x 配额在 1.5 小时内耗尽，使用量中等",
+      "created_display": "Created: Apr 12, 2026 / 06:15 PT",
+      "image_url": "https://opengraph.githubassets.com/70dd4383923158f88ff6fabd83ff028d4bbacc173a71a94580c818b7cf90716d/anthropics/claude-code/issues/45756",
+      "summary_en": "Quotas can throttle heavy workloads far quicker than one might expect, even with moderate activity. This case underscores the importance of understanding rate limits and having fallback or multi-account strategies for critical tasks.",
+      "summary_zh": "在中等使用量下，配额在1.5小时内就被耗尽，暴露了按用户设定的限额在持续工作中的约束。此事提醒开发者在规划工作流时要考虑配额上限、突发流量以及备选方案。",
+      "hn": {
+        "id": 47739260,
+        "type": "story",
+        "by": "cmaster11",
+        "score": 697,
+        "descendants": 615,
+        "time": 1775999731,
+        "comments_url": "https://news.ycombinator.com/item?id=47739260"
+      },
+      "tags": [
+        "AI"
+      ],
+      "hot_score": 1.9
+    },
+    {
+      "title_en": "Seven countries now generate nearly all their electricity from renewables (2024)",
+      "url": "https://www.the-independent.com/tech/renewable-energy-solar-nepal-bhutan-iceland-b2533699.html",
+      "title_zh": "七个国家2024年几乎用可再生能源发电全部电力",
+      "created_display": "Created: Apr 12, 2026 / 06:21 PT",
+      "image_url": "https://static.the-independent.com/2024/04/16/11/renewable%20energy%20100%20map%20world.png?width=1200&height=800&crop=1200:800",
+      "summary_en": "Across several nations, electricity generation is approaching 100% renewables, driven primarily by hydro, wind, and solar plus supportive policy frameworks. While intermittency remains a challenge, these cases show that with grid investments and capacity planning, a transition to low-carbon electricity is increasingly feasible at national scales.",
+      "summary_zh": "多国的电力生产正在接近100%来自可再生能源，主要靠水电、风电和太阳能及配套政策。尽管间歇性仍是挑战，但这些案例表明通过电网投资和容量规划，国家层面的低碳发电转型正变得更加可行。",
+      "hn": {
+        "id": 47739313,
+        "type": "story",
+        "by": "mpweiher",
+        "score": 611,
+        "descendants": 408,
+        "time": 1776000099,
+        "comments_url": "https://news.ycombinator.com/item?id=47739313"
+      },
+      "tags": [
+        "Energy"
+      ],
+      "hot_score": 1.68
+    },
+    {
+      "title_en": "I run multiple $10K MRR companies on a $20/month tech stack",
+      "url": "https://stevehanov.ca/blog/how-i-run-multiple-10k-mrr-companies-on-a-20month-tech-stack",
+      "title_zh": "用20美元/月的技术栈运营多家月订阅收入达一万美元的公司",
+      "created_display": "Created: Apr 11, 2026 / 23:00 PT",
+      "image_url": "https://stevehanov.ca/blog/images/95f16b3dbf861a9156cb2c6d1be39f5e2fcfc1b1f4c5f11ee6f9e182bd4c5f5a.png",
+      "summary_en": "Running several SaaS-like businesses on a $20/month stack is feasible with strong automation and lean operations. The post outlines strategies to maintain roughly $10K MRR per product at tiny ongoing costs, highlighting how a low-cost, automated stack can scale.",
+      "summary_zh": "在极低成本和高度自动化的条件下，仍然能经营多家以订阅为核心的产品并实现可观的月经常性收入。作者分享了将每个项目的月耗控在约20美元、个别产品实现约1万美元MRR的做法，挑战了对高成本技术栈的普遍认知。",
+      "hn": {
+        "id": 47736555,
+        "type": "story",
+        "by": "tradertef",
+        "score": 901,
+        "descendants": 488,
+        "time": 1775973600,
+        "comments_url": "https://news.ycombinator.com/item?id=47736555"
+      },
+      "tags": [
+        "Startups"
+      ],
+      "hot_score": 1.59
+    },
+    {
+      "title_en": "Show HN: boringBar – a taskbar-style dock replacement for macOS",
+      "url": "https://boringbar.app/",
+      "title_zh": "Show HN：boringBar——macOS 的任务栏风格 Dock 替代",
+      "created_display": "Created: Apr 12, 2026 / 10:25 PT",
+      "image_url": "https://boringbar.app/images/og-image.jpg",
+      "summary_en": "boringBar is a macOS replacement for the Dock with a taskbar-style interface. It emphasizes persistent pinned apps, quick-launch, and consistent shortcuts across spaces, offering an alternative UX to Apple’s native Dock. If it gains traction, it signals demand for more modular, multitasking-oriented macOS UI.",
+      "summary_zh": "boringBar 是一个为 macOS 设计的 Dock 替代，采用类似任务栏的界面，便于固定应用、快速启动并在各工作区保持一致。它为多任务工作提供了新的交互方式，若受欢迎，可能反映出对更模块化、以多任务为导向的 macOS UI 的需求。",
+      "hn": {
+        "id": 47742200,
+        "type": "story",
+        "by": "a-ve",
+        "score": 422,
+        "descendants": 237,
+        "time": 1776014744,
+        "comments_url": "https://news.ycombinator.com/item?id=47742200"
+      },
+      "tags": [
+        "Show HN",
+        "Programming"
+      ],
+      "hot_score": 1.56
+    },
+    {
+      "title_en": "Bring Back Idiomatic Design (2023)",
+      "url": "https://essays.johnloeber.com/p/4-bring-back-idiomatic-design",
+      "title_zh": "回归地道设计",
+      "created_display": "Created: Apr 12, 2026 / 05:21 PT",
+      "image_url": "https://substackcdn.com/image/fetch/$s_!o7Gx!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1d9c4a86-cb01-4f2c-ab0e-1cf2f0d0a2c8_419x304.png",
+      "summary_en": "The piece argues for designing APIs and UIs that follow the host language's idioms rather than importing external design paradigms. It reinforces how idiomatic design improves readability and safety.",
+      "summary_zh": "文章主张在软件设计中遵循目标语言的习惯用法，而非照搬外部风格。强调地道设计提升可读性、安全性和开发者体验。",
+      "hn": {
+        "id": 47738827,
+        "type": "story",
+        "by": "phil294",
+        "score": 598,
+        "descendants": 342,
+        "time": 1775996486,
+        "comments_url": "https://news.ycombinator.com/item?id=47738827"
+      },
+      "tags": [
+        "Design"
+      ],
+      "hot_score": 1.54
+    },
+    {
+      "title_en": "Apple has removed most of the towns and villages in Lebanon from Apple maps?",
+      "url": "https://maps.apple.com/frame?center=33.723388%2C35.614698&span=1.983925%2C4.004193",
+      "title_zh": "苹果地图在黎巴嫩移除了大部分城镇和村庄？",
+      "created_display": "Created: Apr 12, 2026 / 11:19 PT",
+      "image_url": "https://snapshot.apple-mapkit.com/api/v1/snapshot?center=33.723388,35.614698&spn=0.7771935999999968,0.847716400000003&annotations=%5B%7B%22point%22%3A%2233.723388%2C35.614698%22%2C%22markerStyle%22%3A%22large%22%7D%5D&size=450x300&scale=2&teamId=C5U892736Y&keyId=GJ5GZDFL89&signature=VZKqXAFJAnhKGL6gABZgtCvIevW3khKwl_GEn679HsPxIqO5obI1rp46JxlkRpYL0VKhpnoLL-Y5z1yDkdIjow",
+      "summary_en": "Apple Maps has reportedly removed most towns and villages from Lebanon, creating large gaps in local navigation data. The move raises questions about data sourcing, geopolitical boundaries, and the reliability of mapping services in conflict zones, with potential knock-on effects for travel, logistics, and crisis response.",
+      "summary_zh": "报道称苹果地图在黎巴嫩几乎不再显示大多数城镇和村庄，导致本地导航数据出现明显空白。此举引发关于数据来源、界限划分以及冲突地区地图服务可靠性的关注，可能影响出行、物流和应急响应。",
+      "hn": {
+        "id": 47742680,
+        "type": "story",
+        "by": "thepasswordis",
+        "score": 340,
+        "descendants": 185,
+        "time": 1776017942,
+        "comments_url": "https://news.ycombinator.com/item?id=47742680"
+      },
+      "hot_score": 1.35,
+      "tags": [
+        "Politics"
+      ]
+    },
+    {
+      "title_en": "Taking on CUDA with ROCm: 'One Step After Another'",
+      "url": "https://www.eetimes.com/taking-on-cuda-with-rocm-one-step-after-another/",
+      "title_zh": "以 ROCm 逐步挑战 CUDA",
+      "created_display": "Created: Apr 12, 2026 / 15:38 PT",
+      "image_url": null,
+      "summary_en": "AMD's ROCm roadmap aims to compete with CUDA through incremental improvements, focusing on portability, kernel compilation, and performance optimizations. The approach underscores the difficulty of breaking NVIDIA's software moat and the need for strong open standards in GPU computing.",
+      "summary_zh": "AMD 的 ROCm 计划通过渐进改进与 CUDA 竞争，聚焦可移植性、内核编译与性能优化。该策略凸显打破 NVIDIA 软件生态护城河的难度，同时也强调在 GPU 计算领域坚持开源标准的重要性。",
+      "hn": {
+        "id": 47745284,
+        "type": "story",
+        "by": "mindcrime",
+        "score": 214,
+        "descendants": 161,
+        "time": 1776033525,
+        "comments_url": "https://news.ycombinator.com/item?id=47745284"
+      },
+      "tags": [
+        "Hardware",
+        "Open Source"
+      ],
+      "hot_score": 1.27
+    },
+    {
+      "title_en": "Small models also found the vulnerabilities that Mythos found",
+      "url": "https://aisle.com/blog/ai-cybersecurity-after-mythos-the-jagged-frontier",
+      "title_zh": "小模型也发现了 Mythos 发现的漏洞",
+      "created_display": "Created: Apr 11, 2026 / 09:47 PT",
+      "image_url": "https://aisle.com/api/media/file/freepik_create-this_2743478282-1200x630.webp",
+      "summary_en": "New findings show small models exhibit the same vulnerabilities Mythos uncovered in larger models, underscoring that model-size alone doesn't grant security. This broadens risk assessment to include a wider range of models and prompts tighter evaluation and defense strategies.",
+      "summary_zh": "研究表明，即使是小型模型也存在 Mythos 所揭示的漏洞，说明漏洞并非只有大模型才有。这使安全评估需覆盖更广的模型范围，并推动更严格的测试与防护措施。",
+      "hn": {
+        "id": 47732020,
+        "type": "story",
+        "by": "dominicq",
+        "score": 1254,
+        "descendants": 330,
+        "time": 1775926048,
+        "comments_url": "https://news.ycombinator.com/item?id=47732020"
+      },
+      "tags": [
+        "AI",
+        "Security"
+      ],
+      "hot_score": 1.22
+    },
+    {
+      "title_en": "Viktor Orbán concedes defeat after 'painful' election result",
+      "url": "https://apnews.com/article/hungary-election-orban-magyar-trump-1a4eb0ba6b94e0c80c3cd18bd36254ab",
+      "title_zh": "维克托·欧尔班在痛苦的选举结果后承认失败",
+      "created_display": "Created: Apr 12, 2026 / 12:37 PT",
+      "image_url": "https://dims.apnews.com/dims4/default/583891e/2147483647/strip/true/crop/8085x5387+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F0c%2F5b%2F1ae160af912d7c859df76769912b%2Ff48fd4ac2751495497680ba85d127e6d",
+      "summary_en": "Prime Minister Viktor Orbán has conceded defeat following a painful election result, signaling a rare churn in Hungary's political dynamics. The outcome could portend changes in Hungary's stance toward the EU, media freedom, civil society, and regional alignment.",
+      "summary_zh": "维克多·欧尔班在痛苦的选举结果后宣布失败，显示匈牙利政治格局或将发生转变。结果可能改变匈牙利在对欧盟、媒体自由、民间社会及区域关系方面的立场与走向。",
+      "hn": {
+        "id": 47743553,
+        "type": "story",
+        "by": "hackernj",
+        "score": 243,
+        "descendants": 83,
+        "time": 1776022635,
+        "comments_url": "https://news.ycombinator.com/item?id=47743553"
+      },
+      "hot_score": 1.08,
+      "tags": [
+        "Politics"
+      ]
+    },
+    {
+      "title_en": "Anthropic downgraded cache TTL on March 6th",
+      "url": "https://github.com/anthropics/claude-code/issues/46829",
+      "title_zh": "Anthropic 在3月6日下调 Claude 的缓存 TTL",
+      "created_display": "Created: Apr 11, 2026 / 22:45 PT",
+      "image_url": "https://opengraph.githubassets.com/a3bb239fbc861bfa12617c1b184dec172d7c035ad6e01e9ca4c2a2d5448cf9f1/anthropics/claude-code/issues/46829",
+      "summary_en": "Anthropic reduced Claude's cache TTL on March 6, affecting how fresh responses are served to clients. The change increases cache churn, potentially improving freshness at the cost of latency and API throughput. It signals ongoing tuning of balance between speed, cost, and accuracy.",
+      "summary_zh": "3月6日，Anthropic 下调了 Claude 的缓存 TTL，导致返回结果的时效性和新鲜度受到影响。更高的缓存替换率提升了新鲜度，但可能增加延迟与成本，反映出在速度、成本与准确性之间的持续调参。",
+      "hn": {
+        "id": 47736476,
+        "type": "story",
+        "by": "lsdmtme",
+        "score": 524,
+        "descendants": 400,
+        "time": 1775972752,
+        "comments_url": "https://news.ycombinator.com/item?id=47736476"
+      },
+      "tags": [
+        "AI"
+      ],
+      "hot_score": 0.91
+    },
+    {
+      "title_en": "Ask HN: What Are You Working On? (April 2026)",
+      "url": "https://news.ycombinator.com/item?id=47741527",
+      "title_zh": "Ask HN：你在做什么？（2026 年 4 月）",
+      "created_display": "Created: Apr 12, 2026 / 09:24 PT",
+      "image_url": "https://news.ycombinator.com/y18.svg",
+      "summary_en": "Developers share a mix of side projects, product experiments, and work-in-progress ideas, reflecting current tech interests. Topics span AI tooling, cloud infrastructure, and deployment hurdles, offering a barometer of what a tech audience is tinkering with in April 2026.",
+      "summary_zh": "开发者分享本月正在做的项目、产品实验和在研点子，揭示当前的技术趋势。话题涵盖 AI 工具、云基础设施与部署挑战，为技术人群在 2026 年 4 月的热议方向提供风向标。",
+      "hn": {
+        "id": 47741527,
+        "type": "story",
+        "by": "david927",
+        "score": 262,
+        "descendants": 850,
+        "time": 1776011083,
+        "comments_url": "https://news.ycombinator.com/item?id=47741527"
+      },
+      "tags": [
+        "Programming",
+        "AI",
+        "DevOps"
+      ],
+      "hot_score": 0.89
+    },
+    {
+      "title_en": "European AI. A playbook to own it",
+      "url": "https://europe.mistral.ai/",
+      "title_zh": "欧洲 AI：掌控它的行动指南",
+      "created_display": "Created: Apr 12, 2026 / 12:51 PT",
+      "image_url": "https://europe.mistral.ai/images/og.png",
+      "summary_en": "Europe's playbook outlines strategies for building sovereign, ethical, and competitive AI ecosystems, balancing regulation with innovation. It emphasizes data governance, responsible AI, and regional leadership to reduce dependence on non-European tech stacks.",
+      "summary_zh": "这份行动指南提出在监管与创新之间取得平衡，打造主权、道德且具竞争力的欧洲 AI 生态系统。文中强调数据治理、负责任的 AI，以及提升区域领导力，以减少对非欧洲技术体系的依赖。",
+      "hn": {
+        "id": 47743700,
+        "type": "story",
+        "by": "hjouneau",
+        "score": 190,
+        "descendants": 116,
+        "time": 1776023466,
+        "comments_url": "https://news.ycombinator.com/item?id=47743700"
+      },
+      "tags": [
+        "AI",
+        "Politics"
+      ],
+      "hot_score": 0.86
+    },
+    {
+      "title_en": "A perfectable programming language",
+      "url": "https://alok.github.io/lean-pages/perfectable-lean/",
+      "title_zh": "可完善的编程语言",
+      "created_display": "Created: Apr 12, 2026 / 14:11 PT",
+      "image_url": null,
+      "summary_en": "Explores design principles for a programming language meant to be progressively improved over time, emphasizing a minimal core, extensibility, and verifiable correctness. The piece argues for a language with a small, stable core and a pathway for community-driven extensions, balancing practicality with long-term evolvability.",
+      "summary_zh": "探讨一种可逐步完善的编程语言的设计原则，强调最小核心、可扩展性与可验证性。文章提出以小而稳定的核心和社区驱动的扩展为路径，兼顾实用性和长期演化。",
+      "hn": {
+        "id": 47744540,
+        "type": "story",
+        "by": "yuppiemephisto",
+        "score": 166,
+        "descendants": 66,
+        "time": 1776028284,
+        "comments_url": "https://news.ycombinator.com/item?id=47744540"
+      },
+      "tags": [
+        "Programming",
+        "Design"
+      ],
+      "hot_score": 0.85
+    },
+    {
+      "title_en": "Tech valuations are back to pre-AI boom levels",
+      "url": "https://www.apollo.com/wealth/the-daily-spark/tech-valuations-back-to-pre-ai-boom-levels",
+      "title_zh": "科技估值回到AI繁荣前的水平",
+      "created_display": "Created: Apr 12, 2026 / 15:13 PT",
+      "image_url": "https://www.apollo.com/content/dam/apolloaem/apollo-default-page-share-image/apollo-og-image.png",
+      "summary_en": "Tech valuations have fallen back to pre-AI-boom levels, signaling a normalization of investor sentiment after AI hype. The reset may separate hype from fundamentals, presenting risks and opportunities for investors.",
+      "summary_zh": "科技公司的估值已回落至AI繁荣前的水平，显示在AI 热潮之后投资者情绪回归理性。估值的回落可能将热度与基本面区分开来，给投资者带来潜在的机会与风险。",
+      "hn": {
+        "id": 47745120,
+        "type": "story",
+        "by": "akyuu",
+        "score": 140,
+        "descendants": 39,
+        "time": 1776032002,
+        "comments_url": "https://news.ycombinator.com/item?id=47745120"
+      },
+      "tags": [
+        "Business",
+        "Finance",
+        "AI"
+      ],
+      "hot_score": 0.8
+    },
+    {
+      "title_en": "Sam Altman's home targeted in second attack",
+      "url": "https://sfstandard.com/2026/04/12/sam-altman-s-home-targeted-second-attack/",
+      "title_zh": "萨姆·奥特曼的住所再次成为袭击目标",
+      "created_display": "Created: Apr 12, 2026 / 15:30 PT",
+      "image_url": "https://assets.sfstandard.com/image/994911177489/image_p0d3ia6va54sl6814v8lshso4g/-C100.00%25x74.91%25%2C0.00%25%2C0.00%25-S1200x630-FPNG",
+      "summary_en": "Sam Altman's home was targeted again, marking a second attack on a prominent tech leader amid heated debates over AI. The incident shines a light on security risks facing tech executives and the broader climate of harassment around high-stakes AI policy.",
+      "summary_zh": "萨姆·奥特曼的住所再次成为袭击目标，凸显高风险环境下科技领袖的安全与骚扰问题。在高风险的AI政策辩论中，这一事件映射出技术领袖所承受的外部压力。",
+      "hn": {
+        "id": 47745230,
+        "type": "story",
+        "by": "babelfish",
+        "score": 135,
+        "descendants": 297,
+        "time": 1776033055,
+        "comments_url": "https://news.ycombinator.com/item?id=47745230"
+      },
+      "hot_score": 0.79,
+      "tags": [
+        "Security",
+        "AI"
+      ]
+    },
+    {
+      "title_en": "We have a 99% email reputation, but Gmail disagrees",
+      "url": "https://blogfontawesome.wpcomstaging.com/we-have-a-99-email-reputation-gmail-disagrees/",
+      "title_zh": "我们的邮件信誉高达99%，但 Gmail 不认同",
+      "created_display": "Created: Apr 12, 2026 / 05:42 PT",
+      "image_url": "https://blogfontawesome.wpcomstaging.com/wp-content/uploads/2026/03/email-frustration.png",
+      "summary_en": "Despite claiming a 99% email reputation score from one service, Gmail disagrees, leading to confusion about deliverability. The incident highlights variability in reputation metrics and the importance of robust email authentication practices.",
+      "summary_zh": "尽管某服务给出99%的邮件信誉分，但 Gmail 的判定并不认同，导致投递问题与误解。此事凸显邮件信誉评估之间的差异以及强化 DKIM/SPF 等认证、送达策略的重要性。",
+      "hn": {
+        "id": 47738978,
+        "type": "story",
+        "by": "em-bee",
+        "score": 294,
+        "descendants": 260,
+        "time": 1775997745,
+        "comments_url": "https://news.ycombinator.com/item?id=47738978"
+      },
+      "tags": [
+        "Security"
+      ],
+      "hot_score": 0.77
+    },
+    {
+      "title_en": "The Closing of the Frontier",
+      "url": "https://tanyaverma.sh/2026/04/10/closing-of-the-frontier.html",
+      "title_zh": "前沿的收束：创新边界正在收缩",
+      "created_display": "Created: Apr 12, 2026 / 11:30 PT",
+      "image_url": null,
+      "summary_en": "The piece argues that the era of easy, open-ended frontier exploration is ending as regulatory, geopolitical, and funding constraints tighten the boundaries. It discusses how this shift will reshape risk-taking, investment, and innovation strategies.",
+      "summary_zh": "文章认为，随着监管、地缘政治和资金约束加剧，曾经容易探索的前沿正在收缩。此变动将改变风险偏好、投资方向及创新策略。",
+      "hn": {
+        "id": 47742790,
+        "type": "story",
+        "by": "MindGods",
+        "score": 184,
+        "descendants": 121,
+        "time": 1776018629,
+        "comments_url": "https://news.ycombinator.com/item?id=47742790"
+      },
+      "tags": [
+        "Politics"
+      ],
+      "hot_score": 0.74
+    },
+    {
+      "title_en": "AI Will Be Met with Violence, and Nothing Good Will Come of It",
+      "url": "https://www.thealgorithmicbridge.com/p/ai-will-be-met-with-violence-and",
+      "title_zh": "人工智能将遭遇暴力，最终无善果",
+      "created_display": "Created: Apr 12, 2026 / 02:16 PT",
+      "image_url": "https://substackcdn.com/image/fetch/$s_!eC5c!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F768f3fea-f270-45f0-ba62-4febc9c32bc2_1344x896.png",
+      "summary_en": "The piece argues that ignoring safety and governance in AI will provoke violence and harm, and there will be no positive outcomes from such an approach. It advocates stronger policy, accountability, and research safeguards as AI tools become more capable and embedded in daily life.",
+      "summary_zh": "文章认为若忽视安全、治理与问责，人工智能的发展将引发暴力和社会危害，最终不会带来积极结果。文中呼吁加强政策、治理和研究安全性，以应对日益强大的AI工具在日常生活中的影响。",
+      "hn": {
+        "id": 47737563,
+        "type": "story",
+        "by": "gHeadphone",
+        "score": 339,
+        "descendants": 611,
+        "time": 1775985395,
+        "comments_url": "https://news.ycombinator.com/item?id=47737563"
+      },
+      "hot_score": 0.72,
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "title_en": "Apple update looks like Czech mate for locked-out iPhone user",
+      "url": "https://www.theregister.com/2026/04/12/ios_passcode_bug/",
+      "title_zh": "苹果更新为被锁定的 iPhone 用户带来希望",
+      "created_display": "Created: Apr 12, 2026 / 01:38 PT",
+      "image_url": "https://regmedia.co.uk/2024/03/27/passcode_shutterstock.jpg",
+      "summary_en": "Apple pushed a software update that remedies a passcode bug that could lock users out of their devices. The fix helps restore access and reduces long-term risk of permanent lockouts. This incident underscores how critical small software bugs can be on everyday devices and the value of timely patches.",
+      "summary_zh": "苹果发布软件更新修复了一个可能导致用户被锁定在设备之外的密码错误漏洞。修复让用户重新获得访问权限，降低长期被永久锁定的风险。此事凸显了日常设备上微小漏洞的影响以及及时修补的重要性。",
+      "hn": {
+        "id": 47737383,
+        "type": "story",
+        "by": "OuterVale",
+        "score": 330,
+        "descendants": 213,
+        "time": 1775983136,
+        "comments_url": "https://news.ycombinator.com/item?id=47737383"
+      },
+      "tags": [
+        "Programming"
+      ],
+      "hot_score": 0.67
+    },
+    {
+      "title_en": "Building a SaaS in 2026 Using Only EU Infrastructure",
+      "url": "https://eualternative.eu/guides/building-saas-eu-stack/",
+      "title_zh": "在2026年仅使用欧盟基础设施构建SaaS",
+      "created_display": "Created: Apr 12, 2026 / 09:33 PT",
+      "image_url": "https://cdn.eualternative.eu/img/guides/building-saas-eu-stack.webp",
+      "summary_en": "Building a SaaS in 2026 using only EU infrastructure explores the feasibility of a fully EU-controlled tech stack, emphasizing data sovereignty, GDPR compliance, and interoperability. The piece notes initiatives like Gaia-X and EU cloud services as enablers, but warns that vendor lock-in and performance considerations remain challenges.",
+      "summary_zh": "文章探讨在2026年仅使用欧盟基础设施来搭建SaaS的可行性，强调数据主权、合规与互操作性。通过分析 Gaia-X 等欧盟云生态，提出方案虽有潜力，但也存在供应商锁定与性能等挑战。",
+      "hn": {
+        "id": 47741634,
+        "type": "story",
+        "by": "sparkling",
+        "score": 188,
+        "descendants": 61,
+        "time": 1776011599,
+        "comments_url": "https://news.ycombinator.com/item?id=47741634"
+      },
+      "hot_score": 0.65,
+      "tags": [
+        "Business",
+        "Privacy",
+        "DevOps"
+      ]
+    },
+    {
+      "title_en": "I ran Gemma 4 as a local model in Codex CLI",
+      "url": "https://blog.danielvaughan.com/i-ran-gemma-4-as-a-local-model-in-codex-cli-7fda754dc0d4",
+      "title_zh": "Gemma 4 在 Codex CLI 中的本地化运行",
+      "created_display": "Created: Apr 12, 2026 / 13:43 PT",
+      "image_url": null,
+      "summary_en": "I ran Gemma 4 as a local model using Codex CLI, demonstrating offline inference with a relatively small footprint.",
+      "summary_zh": "将 Gemma 4 作为本地模型通过 Codex CLI 运行，展示了离线推理的可行性与相对低延迟。开源权重模型在本地实验的可行性为隐私和成本控制提供了机会，但需要权衡部署复杂度与硬件需求。",
+      "hn": {
+        "id": 47744255,
+        "type": "story",
+        "by": "dvaughan",
+        "score": 125,
+        "descendants": 58,
+        "time": 1776026588,
+        "comments_url": "https://news.ycombinator.com/item?id=47744255"
+      },
+      "tags": [
+        "AI"
+      ],
+      "hot_score": 0.61
+    },
+    {
+      "title_en": "Exploiting the most prominent AI agent benchmarks",
+      "url": "https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/",
+      "title_zh": "利用最显著的 AI 代理基准测试",
+      "created_display": "Created: Apr 11, 2026 / 12:15 PT",
+      "image_url": "https://rdi.berkeley.edu/assets/images/rdi_logo_horizontal_720.png",
+      "summary_en": "Berkeley piece critiques how prominent AI benchmarks are exploited or gamed, questioning reliability of current benchmarks for real-world agent evaluation. It argues for more robust, trustworthy benchmarks to guide research and product decisions.",
+      "summary_zh": "Berkeley 的文章质疑当前最显著的 AI 代理基准的健壮性，指出评测结果可能被操纵或不充分反映现实场景。它呼吁建立更可信的基准，以正确引导研究方向和产品决策。",
+      "hn": {
+        "id": 47733217,
+        "type": "story",
+        "by": "Anon84",
+        "score": 543,
+        "descendants": 134,
+        "time": 1775934956,
+        "comments_url": "https://news.ycombinator.com/item?id=47733217"
+      },
+      "tags": [
+        "AI",
+        "Science"
+      ],
+      "hot_score": 0.58
+    },
+    {
+      "title_en": "Show HN: Oberon System 3 runs natively on Raspberry Pi 3 (with ready SD card)",
+      "url": "https://github.com/rochus-keller/OberonSystem3Native/releases",
+      "title_zh": "Show HN：Oberon System 3 可原生在 Raspberry Pi 3 上运行（含现成 SD 卡）",
+      "created_display": "Created: Apr 12, 2026 / 06:06 PT",
+      "image_url": "https://opengraph.githubassets.com/e999c0e1052312413ea22e528342a3c6b727a019437920fcd1e30fb018ac7b94/rochus-keller/OberonSystem3Native",
+      "summary_en": "A demo shows Oberon System 3 running natively on Raspberry Pi 3, accompanied by a ready-to-use SD card image. It demonstrates how a compact, single-tasking OS can still be useful for education and experimentation on modern SBCs.",
+      "summary_zh": "演示展示 Oberon System 3 在 Raspberry Pi 3 上原生运行，并提供现成的 SD 卡镜像。此举显示了简约、单任务操作系统在现代单板计算机上的教育与试验潜力。",
+      "hn": {
+        "id": 47739174,
+        "type": "story",
+        "by": "Rochus",
+        "score": 210,
+        "descendants": 61,
+        "time": 1775999204,
+        "comments_url": "https://news.ycombinator.com/item?id=47739174"
+      },
+      "tags": [
+        "Show HN",
+        "Hardware",
+        "Education"
+      ],
+      "hot_score": 0.57
+    },
+    {
+      "title_en": "Phyphox – Physical Experiments Using a Smartphone",
+      "url": "https://phyphox.org/",
+      "title_zh": "Phyphox：用智能手机进行物理实验",
+      "created_display": "Created: Apr 12, 2026 / 01:38 PT",
+      "image_url": "https://phyphox.org/wp-content/uploads/2019/06/DSC02490_logo_2161.jpg",
+      "summary_en": "Phyphox enables physical experiments using smartphone sensors, turning everyday devices into lab instruments. It lowers barriers for STEM education and fieldwork by offering ready-made experiments and data collection tools.",
+      "summary_zh": "Phyphox 让智能手机内置传感器成为物理实验工具，降低教育与现场实验的门槛。通过现成的实验和数据采集工具，方便教师与学生进行动手研究。",
+      "hn": {
+        "id": 47737376,
+        "type": "story",
+        "by": "_Microft",
+        "score": 236,
+        "descendants": 35,
+        "time": 1775983091,
+        "comments_url": "https://news.ycombinator.com/item?id=47737376"
+      },
+      "tags": [
+        "Education",
+        "Science"
+      ],
+      "hot_score": 0.48
+    },
+    {
+      "title_en": "JVM Options Explorer",
+      "url": "https://chriswhocodes.com/vm-options-explorer.html",
+      "title_zh": "JVM 选项探索器",
+      "created_display": "Created: Apr 12, 2026 / 03:29 PT",
+      "image_url": null,
+      "summary_en": "A web-based explorer for Java Virtual Machine options helps developers discover and compare flags, from GC tuning to JIT and memory settings. It reduces guesswork during JVM tuning and speeds up performance experimentation.",
+      "summary_zh": "这是一个在线的 JVM 参数浏览器，方便开发者查找、对比各类参数及其用途，包括垃圾回收、JIT 和内存设置。能够降低调优中的试错成本，加速性能试验。",
+      "hn": {
+        "id": 47738094,
+        "type": "story",
+        "by": "0x54MUR41",
+        "score": 208,
+        "descendants": 94,
+        "time": 1775989766,
+        "comments_url": "https://news.ycombinator.com/item?id=47738094"
+      },
+      "tags": [
+        "Programming"
+      ],
+      "hot_score": 0.47
+    },
+    {
+      "title_en": "Tell HN: OpenAI silently removed Study Mode from ChatGPT",
+      "url": "https://news.ycombinator.com/item?id=47739305",
+      "title_zh": "Tell HN：OpenAI 未经宣布移除了 ChatGPT 的学习模式",
+      "created_display": "Created: Apr 12, 2026 / 06:20 PT",
+      "image_url": "https://news.ycombinator.com/y18.svg",
+      "summary_en": "OpenAI quietly removed 'Study Mode' from ChatGPT, removing a feature many students used for focused study sessions. The change highlights how product deprecations can affect educators and learners, and raises questions about transparency in feature lifecycle decisions.",
+      "summary_zh": "OpenAI 未经宣布就移除了 ChatGPT 的学习模式，这对依赖该模式进行高效学习的学生与教师影响明显。此举暴露了产品生命周期决策中的透明度与沟通问题。",
+      "hn": {
+        "id": 47739305,
+        "type": "story",
+        "by": "smokel",
+        "score": 171,
+        "descendants": 73,
+        "time": 1776000058,
+        "comments_url": "https://news.ycombinator.com/item?id=47739305"
+      },
+      "hot_score": 0.47,
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "title_en": "US appeals court declares 158-year-old home distilling ban unconstitutional",
+      "url": "https://www.theguardian.com/law/2026/apr/11/appeals-court-ruling-home-distilling-ban-unconstitutional",
+      "title_zh": "美上诉法院裁定158年历史的家庭蒸馏禁令违宪",
+      "created_display": "Created: Apr 11, 2026 / 22:08 PT",
+      "image_url": "https://i.guim.co.uk/img/media/a859b633790bc8805cfd1c9fa2c9cf44ebdacb20/0_0_4074_3261/master/4074.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9937f75b569c27761a6fdc548bf37e8b",
+      "summary_en": "A federal appeals court struck down a 158-year-old ban on home distilling, ruling it unconstitutional. The decision highlights how legacy regulations can linger in the code and invites reevaluation of other antique restrictions. For makers and hobbyists, it signals potential growth in DIY spirits while underscoring the need to navigate safety and taxation.",
+      "summary_zh": "联邦上诉法院裁定一项158年前的家庭蒸馏禁令违宪。裁决暴露出法规体系中的历史遗留条文，促使人们重新审视其他古旧限制的效力。对家庭蒸馏爱好者而言，这可能扩展DIY烈酒的空间，同时也需关注安全与税务合规。",
+      "hn": {
+        "id": 47736298,
+        "type": "story",
+        "by": "Jimmc414",
+        "score": 232,
+        "descendants": 254,
+        "time": 1775970483,
+        "comments_url": "https://news.ycombinator.com/item?id=47736298"
+      },
+      "tags": [
+        "Legal",
+        "Politics"
+      ],
+      "hot_score": 0.39
+    },
+    {
+      "title_en": "Internet outage in Iran reaches 1,008 hours",
+      "url": "https://mastodon.social/@netblocks/116384935123261912",
+      "title_zh": "伊朗的互联网中断达到1008小时",
+      "created_display": "Created: Apr 12, 2026 / 04:38 PT",
+      "image_url": "https://files.mastodon.social/media_attachments/files/116/384/922/620/882/331/original/80c7498bb9af5eb9.png",
+      "summary_en": "Iran's internet outage has stretched beyond 1,000 hours, stifling communications, business activity, and access to information. The extended disruption underscores the persistence of state-led shutdowns as a tool of control and the fragility of digital infrastructure in the country.",
+      "summary_zh": "伊朗的互联网中断已超过1000小时，严重影响通信、商业运作和信息获取。这一长期断网凸显政府关停网络的工具性，以及该国数字基础设施的脆弱性与韧性挑战。",
+      "hn": {
+        "id": 47738514,
+        "type": "story",
+        "by": "miadabdi",
+        "score": 161,
+        "descendants": 112,
+        "time": 1775993896,
+        "comments_url": "https://news.ycombinator.com/item?id=47738514"
+      },
+      "hot_score": 0.39,
+      "tags": [
+        "Politics",
+        "DevOps"
+      ]
+    },
+    {
+      "title_en": "South Korea introduces universal basic mobile data access",
+      "url": "https://www.theregister.com/2026/04/10/south_korea_data_access_universal/",
+      "title_zh": "韩国推出全民基本移动数据接入",
+      "created_display": "Created: Apr 11, 2026 / 06:27 PT",
+      "image_url": "https://regmedia.co.uk/2026/04/10/supplied_korea_data_scheme.jpg",
+      "summary_en": "South Korea announces universal basic mobile data access, ensuring baseline data for all citizens. The policy aims to close the digital divide and spur digital services, while telecoms and regulators work out subsidies, network capacity, and privacy safeguards as it scales.",
+      "summary_zh": "韩国宣布全民基本移动数据接入，确保所有公民拥有基础数据。该政策旨在缩小数字鸿沟、促进数字服务，同时在扩大规模的过程中需要解决补贴、网络容量与隐私保护等挑战。",
+      "hn": {
+        "id": 47730407,
+        "type": "story",
+        "by": "saikatsg",
+        "score": 411,
+        "descendants": 125,
+        "time": 1775914036,
+        "comments_url": "https://news.ycombinator.com/item?id=47730407"
+      },
+      "tags": [
+        "Politics",
+        "Privacy"
+      ],
+      "hot_score": 0.35
+    },
+    {
+      "title_en": "The Physics of GPS",
+      "url": "https://perthirtysix.com/how-does-gps-work",
+      "title_zh": "GPS 的物理原理",
+      "created_display": "Created: Apr 12, 2026 / 04:10 PT",
+      "image_url": "https://perthirtysix.com/img/gps-cover.png",
+      "summary_en": "Explains how GPS works, including relativistic corrections and signal timing, and shows how geometry and timing enable precise positioning.",
+      "summary_zh": "详细解释 GPS 的工作原理，涵盖相对论修正、信号时序，以及几何与时钟同步如何实现高精度定位。",
+      "hn": {
+        "id": 47738343,
+        "type": "story",
+        "by": "maouida",
+        "score": 145,
+        "descendants": 34,
+        "time": 1775992218,
+        "comments_url": "https://news.ycombinator.com/item?id=47738343"
+      },
+      "tags": [
+        "Science"
+      ],
+      "hot_score": 0.34
+    },
+    {
+      "title_en": "Israel Destroys Villages in Lebanon",
+      "url": "https://www.theguardian.com/world/2026/apr/12/how-israeli-offensive-destroyed-entire-villages-in-lebanon",
+      "title_zh": "以色列在黎巴嫩摧毁村庄",
+      "created_display": "Created: Apr 12, 2026 / 02:14 PT",
+      "image_url": "https://i.guim.co.uk/img/media/da3056e575e753cae871226266cdc9709a6ba923/502_0_4508_3607/master/4508.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=7d084b55da1dc4da01eeb73f63068b6b",
+      "summary_en": "Reports detail Israel's destruction of villages in Lebanon, underscoring the civilian toll of ongoing regional conflict. The coverage raises humanitarian concerns and the difficulty of documenting and delivering aid amid military operations.",
+      "summary_zh": "报道揭示以色列在黎巴嫩摧毁村庄，凸显区域冲突的高人道成本。报道也提出在军事行动中记录与提供援助所面临的困难，以及对平民的影响。",
+      "hn": {
+        "id": 47737541,
+        "type": "story",
+        "by": "pera",
+        "score": 159,
+        "descendants": 36,
+        "time": 1775985268,
+        "comments_url": "https://news.ycombinator.com/item?id=47737541"
+      },
+      "hot_score": 0.33,
+      "tags": [
+        "Politics"
+      ]
+    },
+    {
+      "title_en": "The End of Eleventy",
+      "url": "https://brennan.day/the-end-of-eleventy/",
+      "title_zh": "Eleventy 的终结",
+      "created_display": "Created: Apr 11, 2026 / 18:55 PT",
+      "image_url": "https://brennan.day/assets/images/blog/11ty.jpg",
+      "summary_en": "The piece argues Eleventy may be losing traction as modern front-end stacks demand more dynamic, integrated tooling. It highlights tradeoffs between simplicity and capability in static-site workflows, urging teams to re-evaluate their tooling choices as ecosystems evolve. The author suggests exploring hybrid approaches or newer frameworks that offer better scalability.",
+      "summary_zh": "本文认为 Eleventy 在当今需要动态特性和集成工具的前端生态中可能逐渐失去吸引力。作者讨论静态站点工作流的取舍，建议团队在生态演进中重新评估工具选择，并考虑更具扩展性的混合方案或新框架。",
+      "hn": {
+        "id": 47735535,
+        "type": "story",
+        "by": "ValentineC",
+        "score": 216,
+        "descendants": 180,
+        "time": 1775958948,
+        "comments_url": "https://news.ycombinator.com/item?id=47735535"
+      },
+      "tags": [
+        "Programming"
+      ],
+      "hot_score": 0.31
+    },
+    {
+      "title_en": "447 TB/cm² at zero retention energy – atomic-scale memory on fluorographane",
+      "url": "https://zenodo.org/records/19513269",
+      "title_zh": "在氟碳烷上的原子级存储：447 TB/cm² 且零保持能量",
+      "created_display": "Created: Apr 11, 2026 / 13:08 PT",
+      "image_url": "https://zenodo.org/static/images/invenio-rdm.svg",
+      "summary_en": "Reports a record atomic-scale memory density of 447 terabits per square centimeter in fluorographane without retention energy required. This points to potential leaps in future memory technology, though challenges remain for practical integration and room-temperature operation.",
+      "summary_zh": "报道在氟碳烷材料上实现原子级存储密度，达到每平方厘米 447 Tb 的记录，且不需要保持能量。此成果预示未来存储技术的突破潜力，但在实际集成与室温工作方面仍存在挑战。",
+      "hn": {
+        "id": 47733561,
+        "type": "story",
+        "by": "iliatoli",
+        "score": 260,
+        "descendants": 150,
+        "time": 1775938126,
+        "comments_url": "https://news.ycombinator.com/item?id=47733561"
+      },
+      "tags": [
+        "Science",
+        "Hardware",
+        "Energy"
+      ],
+      "hot_score": 0.29
+    },
+    {
+      "title_en": "Dark Castle",
+      "url": "https://darkcastle.co.uk/",
+      "title_zh": "Dark Castle",
+      "created_display": "Created: Apr 11, 2026 / 13:01 PT",
+      "image_url": "https://darkcastle.co.uk/assets/images/head-1-396x418.png",
+      "summary_en": "Dark Castle appears to be a new digital project or game centered on a moody, immersive experience.",
+      "summary_zh": "Dark Castle 看起来是一个以氛围浓厚、沉浸式体验为核心的新数字项目或游戏。",
+      "hn": {
+        "id": 47733521,
+        "type": "story",
+        "by": "evo_9",
+        "score": 243,
+        "descendants": 33,
+        "time": 1775937719,
+        "comments_url": "https://news.ycombinator.com/item?id=47733521"
+      },
+      "tags": [
+        "Gaming"
+      ],
+      "hot_score": 0.27
+    },
+    {
+      "title_en": "Apple Silicon and Virtual Machines: Beating the 2 VM Limit (2023)",
+      "url": "https://khronokernel.com/macos/2023/08/08/AS-VM.html",
+      "title_zh": "Apple Silicon 与虚拟机：突破两台 VM 的限制（2023）",
+      "created_display": "Created: Apr 11, 2026 / 13:58 PT",
+      "image_url": "https://khronokernel.com/favicon.ico",
+      "summary_en": "Shows practical ways to run more than two virtual machines on Apple Silicon, along with the hardware and software caveats involved. The takeaway is that while feasible with certain hypervisor setups, performance and memory overhead become the main bottlenecks.",
+      "summary_zh": "揭示在 Apple Silicon 上运行多于两台虚拟机的实际做法，以及相关的硬件与软件限制。要点在于，借助特定的虚拟机/仿真工具可以实现，但性能和内存开销将成为主要瓶颈。",
+      "hn": {
+        "id": 47733971,
+        "type": "story",
+        "by": "krackers",
+        "score": 233,
+        "descendants": 169,
+        "time": 1775941128,
+        "comments_url": "https://news.ycombinator.com/item?id=47733971"
+      },
+      "tags": [
+        "Programming",
+        "Hardware"
+      ],
+      "hot_score": 0.27
+    },
+    {
+      "title_en": "The future of everything is lies, I guess – Part 5: Annoyances",
+      "url": "https://aphyr.com/posts/415-the-future-of-everything-is-lies-i-guess-annoyances",
+      "title_zh": "一切的未来都是谎言，我猜——第五部分：烦恼",
+      "created_display": "Created: Apr 11, 2026 / 07:32 PT",
+      "image_url": null,
+      "summary_en": "Part 5 in a provocative series about the future, focusing on annoyances and everyday frictions that reveal deeper truths about technology and progress.",
+      "summary_zh": "系列的第五部分聚焦日常烦恼与摩擦，发人深省地揭示技术发展与人们对未来的感知之间的张力。",
+      "hn": {
+        "id": 47730981,
+        "type": "story",
+        "by": "aphyr",
+        "score": 277,
+        "descendants": 163,
+        "time": 1775917959,
+        "comments_url": "https://news.ycombinator.com/item?id=47730981"
+      },
+      "tags": [
+        "Culture"
+      ],
+      "hot_score": 0.25
+    },
+    {
+      "title_en": "Advanced Mac Substitute is an API-level reimplementation of 1980s-era Mac OS",
+      "url": "https://www.v68k.org/advanced-mac-substitute/",
+      "title_zh": "Advanced Mac Substitute 是对 1980 年代 Mac OS 的 API 级别重实现",
+      "created_display": "Created: Apr 11, 2026 / 08:39 PT",
+      "image_url": "https://www.v68k.org/_badge/valid-html401.png",
+      "summary_en": "Advanced Mac Substitute reimplements classic Mac OS APIs at the API level, enabling modern code to run or simulate 1980s software environments. It showcases retro-computing work that preserves legacy software and provides insight into OS API evolution.",
+      "summary_zh": "Advanced Mac Substitute 以 API 级别重现了1980年代的 Mac OS 接口，使现代应用能够在此旧环境中运行或实验。它体现了复古计算的保存价值，并为研究操作系统 API 的演变提供了新视角。",
+      "hn": {
+        "id": 47731506,
+        "type": "story",
+        "by": "zdw",
+        "score": 263,
+        "descendants": 68,
+        "time": 1775921959,
+        "comments_url": "https://news.ycombinator.com/item?id=47731506"
+      },
+      "tags": [
+        "Open Source",
+        "Programming"
+      ],
+      "hot_score": 0.25
+    },
+    {
+      "title_en": "Cirrus Labs to join OpenAI",
+      "url": "https://cirruslabs.org/",
+      "title_zh": "Cirrus Labs 将加入 OpenAI",
+      "created_display": "Created: Apr 11, 2026 / 06:01 PT",
+      "image_url": "https://cirruslabs.org/assets/cirruslabs-bright-with-bg.png",
+      "summary_en": "Cirrus Labs is joining OpenAI, signaling closer collaboration between an AI-focused research/innovation outfit and the leading platform company. The move could accelerate tooling integration and joint development for developers and enterprises, while illustrating ongoing consolidation in the AI ecosystem.",
+      "summary_zh": "Cirrus Labs 将加入 OpenAI，这一举动可能推动双方在工具链与平台整合方面的深度合作，同时体现 AI 生态系统的持续整合。此举或促进开发者工具与企业级 AI 部署的协同开发。",
+      "hn": {
+        "id": 47730194,
+        "type": "story",
+        "by": "seekdeep",
+        "score": 279,
+        "descendants": 142,
+        "time": 1775912494,
+        "comments_url": "https://news.ycombinator.com/item?id=47730194"
+      },
+      "tags": [
+        "Business",
+        "AI"
+      ],
+      "hot_score": 0.24
+    },
+    {
+      "title_en": "Bitcoin miners are losing on every coin produced as difficulty drops",
+      "url": "https://www.coindesk.com/markets/2026/03/22/bitcoin-miners-are-losing-usd19-000-on-every-btc-produced-as-difficulty-drops-7-8",
+      "title_zh": "比特币矿工在难度下降时每开采一枚币都在亏损",
+      "created_display": "Created: Apr 11, 2026 / 06:22 PT",
+      "image_url": "https://cdn.sanity.io/images/s3y3vcno/production/09c7af12c3ed9c083ddc433486f71cdad7b77bfd-2560x1416.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+      "summary_en": "Miners are losing about $19,000 per BTC mined as difficulty falls, squeezing margins for operators with fixed costs. The economics shift: lower difficulty reduces revenue more than it reduces operating costs, prompting questions about miner profitability and upside for different business models.",
+      "summary_zh": "随着难度下降，比特币矿工在每开采一枚BTC时亏损约1.9万美元，挤压了固定成本结构下的利润。难度下降带来收入下降的速度快于成本下降，令矿工盈利前景与商业模式的可持续性成为关注点。",
+      "hn": {
+        "id": 47730370,
+        "type": "story",
+        "by": "PaulHoule",
+        "score": 237,
+        "descendants": 224,
+        "time": 1775913745,
+        "comments_url": "https://news.ycombinator.com/item?id=47730370"
+      },
+      "tags": [
+        "Finance",
+        "Business"
+      ],
+      "hot_score": 0.2
+    },
+    {
+      "title_en": "The disturbing white paper Red Hat is trying to erase from the internet",
+      "url": "https://www.osnews.com/story/144776/the-disturbing-white-paper-red-hat-is-trying-to-erase-from-the-internet/",
+      "title_zh": "Red Hat 正在从网上删除一份具争议性的白皮书",
+      "created_display": "Created: Apr 11, 2026 / 09:38 PT",
+      "image_url": null,
+      "summary_en": "A controversial white paper is being erased by Red Hat, raising concerns about censorship and corporate influence over open-source discourse. The move spotlights how big players can shape publicly available knowledge and potentially suppress critical discussions.",
+      "summary_zh": "Red Hat 正在从网上删除一份具争议性的白皮书，引发关于审查与大厂对开源话语控制的担忧。此举暴露了大型企业对公开知识的影响力及可能压制重要讨论的风险。",
+      "hn": {
+        "id": 47731960,
+        "type": "story",
+        "by": "choult",
+        "score": 195,
+        "descendants": 75,
+        "time": 1775925530,
+        "comments_url": "https://news.ycombinator.com/item?id=47731960"
+      },
+      "tags": [
+        "Open Source",
+        "Politics"
+      ],
+      "hot_score": 0.19
+    },
+    {
+      "title_en": "The Problem That Built an Industry",
+      "url": "https://ajitem.com/blog/iron-core-part-1-the-problem-that-built-an-industry/",
+      "title_zh": "推动一个行业的难题（铁芯——第一部分，奠定产业的根源）",
+      "created_display": "Created: Apr 11, 2026 / 07:03 PT",
+      "image_url": "https://ajitem.com/optimized/images/blog/iron-core-part-1-the-problem-that-built-an-industry-hero.webp",
+      "summary_en": "Delves into the historical problem behind core memory that built the industry, outlining constraints and breakthroughs, and showing how early memory tech shaped modern hardware manufacturing and supply chains.",
+      "summary_zh": "回顾促成铁芯记忆等早期硬件行业诞生的历史难题，概述当年的瓶颈与突破，以及这些创新如何影响现代硬件的制造与供应链。",
+      "hn": {
+        "id": 47730712,
+        "type": "story",
+        "by": "ShaggyHotDog",
+        "score": 146,
+        "descendants": 49,
+        "time": 1775916183,
+        "comments_url": "https://news.ycombinator.com/item?id=47730712"
+      },
+      "tags": [
+        "Science",
+        "Hardware"
+      ],
+      "hot_score": 0.13
+    },
+    {
+      "title_en": "How to build a `Git diff` driver",
+      "url": "https://www.jvt.me/posts/2026/04/11/how-git-diff-driver/",
+      "title_zh": "如何构建一个 Git diff 驱动",
+      "created_display": "Created: Apr 11, 2026 / 11:07 PT",
+      "image_url": "https://media.jvt.me/53239026de.png",
+      "summary_en": "Provides a guide to register and implement a custom Git diff driver, enabling specialized comparisons for particular file types. Covers configuration steps, practical use cases, and integration caveats with existing workflows.",
+      "summary_zh": "给出注册并实现自定义 Git diff 驱动的指南，使对特定文件类型能够进行定制化比较。介绍配置步骤、实际使用场景，以及与现有工作流的整合注意事项。",
+      "hn": {
+        "id": 47732697,
+        "type": "story",
+        "by": "zdw",
+        "score": 129,
+        "descendants": 14,
+        "time": 1775930869,
+        "comments_url": "https://news.ycombinator.com/item?id=47732697"
+      },
+      "tags": [
+        "Programming"
+      ],
+      "hot_score": 0.13
+    }
+  ]
+}

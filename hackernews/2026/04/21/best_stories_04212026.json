@@ -1,0 +1,1172 @@
+{
+  "meta": {
+    "mode": "best",
+    "source": "https://news.ycombinator.com/",
+    "api": "https://github.com/HackerNews/API",
+    "count_requested": 50,
+    "count_written": 50,
+    "reused_same_day": 0,
+    "reused_cross_day": 21,
+    "new_llm_enriched": 10,
+    "scrape_time_display": "06:52, April 22, 2026 (PDT)",
+    "timezone": "America/Los_Angeles",
+    "date_dir": "2026/04/21",
+    "content_date": "2026-04-21",
+    "run_time_local": "06:52, April 22, 2026 (PDT)",
+    "run_time_utc": "2026-04-22 13:52:07 UTC",
+    "incremental": true,
+    "stories_max": 50,
+    "hot_score_time_utc": "2026-04-22 13:52:54 UTC"
+  },
+  "items": [
+    {
+      "title_en": "Windows 9x Subsystem for Linux",
+      "url": "https://social.hails.org/@hailey/116446826733136456",
+      "title_zh": "面向 Windows 9x 的 Linux 子系统",
+      "created_display": "Created: Apr 22, 2026 / 02:52 PT",
+      "image_url": "https://social.hails.org/system/media_attachments/files/116/446/788/929/856/640/original/51e9df0c2c78e05c.png",
+      "summary_en": "An experimental Linux compatibility layer aims to run Linux userland on Windows 9x-era systems. It demonstrates the ongoing appeal of cross-OS compatibility, even in retro environments, and offers insight into how modern tooling could be adapted for older platforms.",
+      "summary_zh": "一个实验性 Linux 兼容层尝试在 Windows 95/98 等旧系统上运行 Linux 用户空间。它体现了跨操作系统兼容性的持续吸引力，并为将来在老平台上应用现代工具提供了洞见。",
+      "hn": {
+        "id": 47861270,
+        "type": "story",
+        "by": "sohkamyung",
+        "score": 342,
+        "descendants": 83,
+        "time": 1776851572,
+        "comments_url": "https://news.ycombinator.com/item?id=47861270"
+      },
+      "hot_score": 13.55,
+      "tags": [
+        "Programming",
+        "Open Source"
+      ]
+    },
+    {
+      "title_en": "Irony as Meta staff unhappy about running surveillance software on work PCs",
+      "url": "https://www.theregister.com/2026/04/22/meta_employee_surveillance_software/",
+      "title_zh": "Meta 员工对在工作电脑上运行监控软件感到讽刺",
+      "created_display": "Created: Apr 22, 2026 / 01:33 PT",
+      "image_url": "https://regmedia.co.uk/2025/08/28/shutterstock_surprised_man.jpg",
+      "summary_en": "Meta employees reportedly dislike the surveillance software installed on company devices, despite the company's own stance on privacy.",
+      "summary_zh": "据报道，Meta 员工对工作机器上运行的监控软件感到不满，尽管公司自述强调隐私保护。这反映出科技巨头在内部安保工具与员工隐私之间的张力。",
+      "hn": {
+        "id": 47860742,
+        "type": "story",
+        "by": "jjgreen",
+        "score": 192,
+        "descendants": 136,
+        "time": 1776846797,
+        "comments_url": "https://news.ycombinator.com/item?id=47860742"
+      },
+      "hot_score": 5.3,
+      "tags": [
+        "Privacy",
+        "Security"
+      ]
+    },
+    {
+      "title_en": "Framework Laptop 13 Pro",
+      "url": "https://frame.work/laptop13pro",
+      "title_zh": "Framework Laptop 13 Pro：模块化可维修笔记本",
+      "created_display": "Created: Apr 21, 2026 / 11:00 PT",
+      "image_url": null,
+      "summary_en": "Framework Laptop 13 Pro continues the modular, repair-friendly approach with upgraded internals and options. The release underscores the viability of upgradable hardware versus disposable laptops. It matters for developers and hardware enthusiasts who value sustainability and customization.",
+      "summary_zh": "Framework Laptop 13 Pro 延续了模块化、便于维修的设计，并升级了内部硬件选项。此次发布强调可升级硬件相对于一次性笔记本的可行性，对重视可持续性与自定义性的开发者与硬件爱好者尤为重要。",
+      "hn": {
+        "id": 47852177,
+        "type": "story",
+        "by": "Trollmann",
+        "score": 1366,
+        "descendants": 681,
+        "time": 1776794434,
+        "comments_url": "https://news.ycombinator.com/item?id=47852177"
+      },
+      "tags": [
+        "Hardware",
+        "Design"
+      ],
+      "hot_score": 5.29
+    },
+    {
+      "title_en": "SpaceX says it has agreement to acquire Cursor for $60B",
+      "url": "https://twitter.com/spacex/status/2046713419978453374",
+      "title_zh": "SpaceX宣布以60亿美元收购 Cursor 的协议",
+      "created_display": "Created: Apr 21, 2026 / 15:13 PT",
+      "image_url": "https://pbs.twimg.com/profile_images/1697749409851985920/HbrI04tM_200x200.jpg",
+      "summary_en": "SpaceX says it has an agreement to acquire Cursor for $60B, a deal that would dramatically expand its capabilities if confirmed. The acquisition would reshape SpaceX's technology stack and could accelerate its push into new software and hardware domains, attracting regulatory attention given the scale.",
+      "summary_zh": "SpaceX 表示已与 Cursor 达成以 600 百万美元收购的协议，若成真将大幅扩展其能力。此次收购可能重塑 SpaceX 的技术栈，推动其在软件和硬件领域的新拓展，同时也可能引来监管关注。",
+      "hn": {
+        "id": 47855293,
+        "type": "story",
+        "by": "dmarcos",
+        "score": 687,
+        "descendants": 859,
+        "time": 1776809598,
+        "comments_url": "https://news.ycombinator.com/item?id=47855293"
+      },
+      "tags": [
+        "Space",
+        "Business",
+        "Hardware",
+        "Politics"
+      ],
+      "hot_score": 3.91
+    },
+    {
+      "title_en": "ChatGPT Images 2.0",
+      "url": "https://openai.com/index/introducing-chatgpt-images-2-0/",
+      "title_zh": "ChatGPT 图像 2.0",
+      "created_display": "Created: Apr 21, 2026 / 11:50 PT",
+      "image_url": null,
+      "summary_en": "OpenAI unveils ChatGPT Images 2.0, expanding multimodal capabilities by enabling richer image generation and editing inside chats. It promises higher fidelity visuals, more robust prompting controls, and faster rendering, making it easier for creators and developers to prototype visual AI tools directly in conversation.",
+      "summary_zh": "OpenAI 发布 ChatGPT 图像 2.0，扩展多模态能力，在对话中实现更丰富的图片生成与编辑。该更新带来更高保真度的图像、更强的提示控制和更快的渲染速度，为创作者和开发者在对话中原生原型化视觉 AI 工具提供新途径。",
+      "hn": {
+        "id": 47852835,
+        "type": "story",
+        "by": "wahnfrieden",
+        "score": 917,
+        "descendants": 787,
+        "time": 1776797400,
+        "comments_url": "https://news.ycombinator.com/item?id=47852835"
+      },
+      "tags": [
+        "AI"
+      ],
+      "hot_score": 3.8
+    },
+    {
+      "title_en": "Claude Code to be removed from Anthropic's Pro plan?",
+      "url": "https://bsky.app/profile/edzitron.com/post/3mjzxwfx3qs2a",
+      "title_zh": "Anthropic 将 Claude Code 从 Pro 计划中移除？",
+      "created_display": "Created: Apr 21, 2026 / 14:03 PT",
+      "image_url": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:qc6xzgctorfsm35w6i3vdebx/bafkreiddpkqpxwsi42rgzrktvrzurcwjcmwbegqouwd5u3qsz5c5c4drte",
+      "summary_en": "Anthropic appears to remove Claude Code from the Pro plan for new users, signaling a shift in feature availability and pricing. Existing customers may see changes in access or costs for code-focused capabilities.",
+      "summary_zh": "Anthropic 似乎将新用户的 Pro 计划中的 Claude Code 移除，标志着功能与定价策略的调整。现有用户可能会在代码生成功能的可用性和成本方面感受到影响。",
+      "hn": {
+        "id": 47854477,
+        "type": "story",
+        "by": "JamesMcMinn",
+        "score": 603,
+        "descendants": 569,
+        "time": 1776805384,
+        "comments_url": "https://news.ycombinator.com/item?id=47854477"
+      },
+      "tags": [
+        "AI",
+        "Business"
+      ],
+      "hot_score": 3.05
+    },
+    {
+      "title_en": "Laws of Software Engineering",
+      "url": "https://lawsofsoftwareengineering.com",
+      "title_zh": "软件工程法则",
+      "created_display": "Created: Apr 21, 2026 / 04:04 PT",
+      "image_url": "https://lawsofsoftwareengineering.com/og-image.png",
+      "summary_en": "Offers a collection of pragmatic software engineering maxims and patterns that challenge common myths, emphasizing reliability, maintainability, and realistic project constraints. It reframes how teams reason about code quality and delivery under real-world pressures.",
+      "summary_zh": "汇聚一系列务实的软件工程格言与模式，挑战普遍误解，强调可靠性、可维护性以及对现实项目约束的真实认知。帮助团队在现实压力下重新思考代码质量与交付。",
+      "hn": {
+        "id": 47847179,
+        "type": "story",
+        "by": "milanm081",
+        "score": 1094,
+        "descendants": 495,
+        "time": 1776769496,
+        "comments_url": "https://news.ycombinator.com/item?id=47847179"
+      },
+      "tags": [
+        "Programming",
+        "Education"
+      ],
+      "hot_score": 2.58
+    },
+    {
+      "title_en": "Meta to start capturing employee mouse movements, keystrokes for AI training",
+      "url": "https://www.reuters.com/sustainability/boards-policy-regulation/meta-start-capturing-employee-mouse-movements-keystrokes-ai-training-data-2026-04-21/",
+      "title_zh": "Meta 将开始捕获员工鼠标移动与按键用于 AI 训练数据",
+      "created_display": "Created: Apr 21, 2026 / 10:40 PT",
+      "image_url": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-31734,resizemode-75,msid-130422612/tech/technology/meta-to-start-capturing-employee-mouse-movements-keystrokes-for-ai-training-data.jpg",
+      "summary_en": "Meta plans to capture employee mouse movements and keystrokes to train AI models, raising significant privacy and workplace surveillance concerns. The policy could reshape corporate data practices and worker autonomy across tech companies. It spotlights the tension between improving AI capabilities and protecting user privacy.",
+      "summary_zh": "Meta 计划开始捕获员工的鼠标移动和按键以用于训练 AI 模型，触发对隐私与职场监控的重大关注。此举可能重塑科技公司层面的数据实践与员工自主权，凸显提升 AI 能力与保护隐私之间的张力。",
+      "hn": {
+        "id": 47851948,
+        "type": "story",
+        "by": "dlx",
+        "score": 669,
+        "descendants": 444,
+        "time": 1776793239,
+        "comments_url": "https://news.ycombinator.com/item?id=47851948"
+      },
+      "tags": [
+        "Privacy",
+        "Security",
+        "AI"
+      ],
+      "hot_score": 2.52
+    },
+    {
+      "title_en": "John Ternus to become Apple CEO",
+      "url": "https://www.apple.com/newsroom/2026/04/tim-cook-to-become-apple-executive-chairman-john-ternus-to-become-apple-ceo/",
+      "title_zh": "约翰·特诺斯将任苹果公司 CEO",
+      "created_display": "Created: Apr 20, 2026 / 13:39 PT",
+      "image_url": "https://www.apple.com/newsroom/images/2026/04/tim-cook-to-become-apple-executive-chairman-john-ternus-to-become-apple-ceo/tile/Apple-John-Ternus-Tim-Cook_lp.jpg.og.jpg?202604202226",
+      "summary_en": "Apple has announced a leadership transition with Tim Cook moving to executive chairman and John Ternus named CEO, signaling a planned succession. Ternus, a veteran hardware and product operations leader, would steer Apple’s product roadmap and hardware/software integration in the next era. The move underscores Apple’s emphasis on continuity and a hardware-centric strategy.",
+      "summary_zh": "苹果宣布高层交接，蒂姆·库克将出任执行董事长，约翰·特诺斯接任 CEO。特诺斯长期担任硬件/产品运营负责人，接任后将引领苹果的产品路线与硬件/软件协同。此举突显苹果在保持连续性和以硬件驱动战略方面的长期规划。",
+      "hn": {
+        "id": 47840219,
+        "type": "story",
+        "by": "schappim",
+        "score": 2157,
+        "descendants": 1301,
+        "time": 1776717572,
+        "comments_url": "https://news.ycombinator.com/item?id=47840219"
+      },
+      "tags": [
+        "Business",
+        "Hardware"
+      ],
+      "hot_score": 2.45
+    },
+    {
+      "title_en": "Tell HN: I'm sick of AI everything",
+      "url": "https://news.ycombinator.com/item?id=47857461",
+      "title_zh": "告诉 HN：我厌倦 AI 无处不在",
+      "created_display": "Created: Apr 21, 2026 / 18:19 PT",
+      "image_url": "https://news.ycombinator.com/y18.svg",
+      "summary_en": "A Hacker News tell thread expresses fatigue with AI hype across consumer tech, arguing for more emphasis on robust engineering and practical value. It reflects a broader pushback against overhyped AI features and asks for more meaningful AI workflows.",
+      "summary_zh": "一则 Tell HN 帖子表达了对 AI 无处不在的厌倦，主张将精力放在扎实的工程与实际价值上，而不是追逐热炒的 AI 功能。该讨论反映了对 AI 控制与实用性之间的更广泛质疑。",
+      "hn": {
+        "id": 47857461,
+        "type": "story",
+        "by": "jonthepirate",
+        "score": 273,
+        "descendants": 159,
+        "time": 1776820770,
+        "comments_url": "https://news.ycombinator.com/item?id=47857461"
+      },
+      "hot_score": 2.19,
+      "tags": [
+        "AI",
+        "Culture"
+      ]
+    },
+    {
+      "title_en": "FBI looks into dead or missing scientists tied to NASA, Blue Origin, SpaceX",
+      "url": "https://fortune.com/2026/04/21/scientists-disappear-die-nasa-space-blue-origin-spacex/",
+      "title_zh": "FBI 调查与 NASA/Blue Origin/SpaceX 相关的死者或失踪科学家",
+      "created_display": "Created: Apr 21, 2026 / 19:49 PT",
+      "image_url": "https://fortune.com/img-assets/wp-content/uploads/2026/04/GettyImages-2259084646-e1775848021382.jpg?resize=1200,600",
+      "summary_en": "The FBI is investigating dead or missing scientists linked to major space organizations. The case underscores potential security or safety concerns in high-profile aerospace projects and may prompt calls for enhanced oversight and vetting of contractor work.",
+      "summary_zh": "FBI 正在调查与 NASA、Blue Origin、SpaceX 相关的已故或失踪科学家，引发对安全和合规的关注。此类调查或促使对高风险航天项目承包商的审查及风险管理加强。",
+      "hn": {
+        "id": 47858246,
+        "type": "story",
+        "by": "ineedasername",
+        "score": 188,
+        "descendants": 107,
+        "time": 1776826180,
+        "comments_url": "https://news.ycombinator.com/item?id=47858246"
+      },
+      "tags": [
+        "Space",
+        "Security"
+      ],
+      "hot_score": 1.83
+    },
+    {
+      "title_en": "San Diego rents declined following surge in supply",
+      "url": "https://www.kpbs.org/news/economy/2026/03/27/san-diego-rents-declined-more-than-19-of-nations-top-20-markets-following-surge-in-supply",
+      "title_zh": "圣地亚哥租金在供应激增后下降",
+      "created_display": "Created: Apr 21, 2026 / 18:21 PT",
+      "image_url": "https://cdn.kpbs.org/dims4/default/2703f12/2147483647/strip/true/crop/1772x930+0+30/resize/1200x630!/quality/90/?url=http%3A%2F%2Fkpbs-brightspot.s3.us-west-2.amazonaws.com%2Fd7%2F24%2F6a9a09974694a11c4b201e448da0%2Fnewapt.png",
+      "summary_en": "San Diego rents declined more than 19% following a surge in housing supply, placing it among markets with notable rent falls. The data suggests a cooling demand and rising vacancy as new units hit the market.",
+      "summary_zh": "圣地亚哥在住房供应激增后，租金下降超过 19%，成为租金降幅显著的市场之一。数据表明需求放缓与空置率上升，随着新单位投放市场。",
+      "hn": {
+        "id": 47857477,
+        "type": "story",
+        "by": "littlexsparkee",
+        "score": 200,
+        "descendants": 191,
+        "time": 1776820869,
+        "comments_url": "https://news.ycombinator.com/item?id=47857477"
+      },
+      "tags": [
+        "Business"
+      ],
+      "hot_score": 1.61
+    },
+    {
+      "title_en": "Claude Code to be removed from Pro Tier?",
+      "url": "https://bsky.app/profile/edzitron.com/post/3mjzxwfx3qs2a",
+      "title_zh": "Claude Code 将从 Pro 版移除？",
+      "created_display": "Created: Apr 21, 2026 / 15:36 PT",
+      "image_url": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:qc6xzgctorfsm35w6i3vdebx/bafkreiddpkqpxwsi42rgzrktvrzurcwjcmwbegqouwd5u3qsz5c5c4drte",
+      "summary_en": "The post hints that Claude Code may be removed from the Pro tier, signaling a shift in access and pricing for coding-focused AI features. If true, it could affect developers who rely on higher-tier AI-assisted code generation.",
+      "summary_zh": "帖子暗示 Claude Code 可能会从 Pro 版移除，标志着对代码生成功能的获取权限与定价的调整。若属实，将影响依赖这类功能的开发者。",
+      "hn": {
+        "id": 47855565,
+        "type": "story",
+        "by": "johnduhart",
+        "score": 263,
+        "descendants": 2,
+        "time": 1776810984,
+        "comments_url": "https://news.ycombinator.com/item?id=47855565"
+      },
+      "hot_score": 1.55,
+      "tags": [
+        "AI",
+        "Business"
+      ]
+    },
+    {
+      "title_en": "Drunk post: Things I've learned as a senior engineer (2021)",
+      "url": "https://luminousmen.substack.com/p/drunk-post-things-ive-learned-as",
+      "title_zh": "醉笔记：资深工程师学到的事",
+      "created_display": "Created: Apr 21, 2026 / 16:53 PT",
+      "image_url": null,
+      "summary_en": "Late-night reflections from a seasoned engineer distill practical lessons about code quality, mentorship, and prioritization. It also offers candid observations on avoiding burnout while building reliable systems and nurturing healthy teams.",
+      "summary_zh": "这是一位资深工程师的深夜随笔，浓缩了关于代码质量、导师制、工作优先级与抗 Burnout 的经验教训。文中还就如何在构建可靠系统的同时维护健康的团队氛围提出了真实的观察与建议。",
+      "hn": {
+        "id": 47856535,
+        "type": "story",
+        "by": "zdw",
+        "score": 195,
+        "descendants": 138,
+        "time": 1776815625,
+        "comments_url": "https://news.ycombinator.com/item?id=47856535"
+      },
+      "tags": [
+        "Programming",
+        "Career"
+      ],
+      "hot_score": 1.32
+    },
+    {
+      "title_en": "All phones sold in the EU to have replaceable batteries from 2027",
+      "url": "https://www.theolivepress.es/spain-news/2026/04/20/eu-to-force-replaceable-batteries-in-phones-and-tablets-from-2027/",
+      "title_zh": "到2027年，欧盟销售的所有手机将配备可更换电池",
+      "created_display": "Created: Apr 20, 2026 / 06:41 PT",
+      "image_url": null,
+      "summary_en": "The EU will require replaceable batteries in all phones starting 2027, aiming to extend device lifespans and reduce e-waste. The rule could force redesigns, disrupt supply chains, and influence consumer costs.",
+      "summary_zh": "欧盟将于2027年要求所有手机具备可更换电池，旨在延长设备寿命并减少电子垃圾。此举可能迫使厂商重新设计，影响供应链并提高一些消费者成本。",
+      "hn": {
+        "id": 47834195,
+        "type": "story",
+        "by": "ramonga",
+        "score": 1429,
+        "descendants": 1246,
+        "time": 1776692485,
+        "comments_url": "https://news.ycombinator.com/item?id=47834195"
+      },
+      "tags": [
+        "Legal",
+        "Business"
+      ],
+      "hot_score": 1.24
+    },
+    {
+      "title_en": "The Vercel breach: OAuth attack exposes risk in platform environment variables",
+      "url": "https://www.trendmicro.com/en_us/research/26/d/vercel-breach-oauth-supply-chain.html",
+      "title_zh": "Vercel 事件暴露：OAuth 攻击暴露环境变量风险",
+      "created_display": "Created: Apr 21, 2026 / 10:14 PT",
+      "image_url": "https://www.trendmicro.com/content/dam/trendmicro/global/en/research/thumbnails/26/d/vercel-breach.png",
+      "summary_en": "An OAuth-related attack exposed sensitive environment variables in Vercel's platform, potentially leaking credentials used by customers. This shows how secret leakage in hosting environments can ripple across the supply chain and compromise downstream services. It reinforces the need for strict secret management, token rotation, and least-privilege access in platform environments.",
+      "summary_zh": "一次与 OAuth 相关的攻击暴露了 Vercel 平台中的敏感环境变量，可能泄露客户使用的凭证。此事揭示了托管环境中密钥泄露带来的连锁风险，以及对严格秘密管理、令牌轮换和最小权限的必要性。企业应加强环境变量保护与密钥治理。",
+      "hn": {
+        "id": 47851634,
+        "type": "story",
+        "by": "queenelvis",
+        "score": 338,
+        "descendants": 112,
+        "time": 1776791675,
+        "comments_url": "https://news.ycombinator.com/item?id=47851634"
+      },
+      "tags": [
+        "Security",
+        "Data"
+      ],
+      "hot_score": 1.23
+    },
+    {
+      "title_en": "Britannica11.org – a structured edition of the 1911 Encyclopædia Britannica",
+      "url": "https://britannica11.org/",
+      "title_zh": "Britannica11.org：1911 年版《大英百科全书》的结构化版本",
+      "created_display": "Created: Apr 21, 2026 / 10:33 PT",
+      "image_url": "https://britannica11.org/title_page.jpg",
+      "summary_en": "Britannica11.org hosts a structured edition of the 1911 Encyclopædia Britannica, making the historical text more searchable and navigable. It demonstrates how retro-digitization can unlock research value and educational use with modern tooling. The project shows how open reconstruction of old reference works benefits today’s learners.",
+      "summary_zh": "Britannica11.org 将1911年版《大英百科全书》的文本以结构化方式呈现，使之更易检索与导航。该项目展示了以现代工具对历史文本进行再数字化的研究与教育价值。开放重建古籍资料有助于当代学习者。",
+      "hn": {
+        "id": 47851885,
+        "type": "story",
+        "by": "ahaspel",
+        "score": 319,
+        "descendants": 107,
+        "time": 1776792830,
+        "comments_url": "https://news.ycombinator.com/item?id=47851885"
+      },
+      "tags": [
+        "Open Source",
+        "Education"
+      ],
+      "hot_score": 1.19
+    },
+    {
+      "title_en": "I don't want your PRs anymore",
+      "url": "https://dpc.pw/posts/i-dont-want-your-prs-anymore/",
+      "title_zh": "我不再想要你的 PR 了",
+      "created_display": "Created: Apr 21, 2026 / 13:21 PT",
+      "image_url": null,
+      "summary_en": "The author argues against accepting external pull requests, advocating for maintainers to own the code and reduce external contributions. It discusses governance, maintainership, and the tradeoffs between openness and sustainable maintenance.",
+      "summary_zh": "作者提出不再接受外部 PR，主张维护者应拥有代码并减少外部贡献。讨论治理、维护与开放性与可持续维护之间的权衡。",
+      "hn": {
+        "id": 47854051,
+        "type": "story",
+        "by": "speckx",
+        "score": 226,
+        "descendants": 134,
+        "time": 1776802900,
+        "comments_url": "https://news.ycombinator.com/item?id=47854051"
+      },
+      "hot_score": 1.07,
+      "tags": [
+        "Open Source",
+        "Career"
+      ]
+    },
+    {
+      "title_en": "Cal.diy: open-source community edition of cal.com",
+      "url": "https://github.com/calcom/cal.diy",
+      "title_zh": "Cal.diy：cal.com 的开源社区版",
+      "created_display": "Created: Apr 21, 2026 / 10:58 PT",
+      "image_url": "https://opengraph.githubassets.com/0cfc70d12f0f81367c3ec1b35cd1b92529aff6e1f2328561789955b8bc86e48e/calcom/cal.diy",
+      "summary_en": "Cal.diy is a community edition of cal.com that you can self-host, enabling scheduling on your own infrastructure with privacy controls. It demonstrates how open-source forks empower teams to customize and avoid vendor lock-in. The project broadens choices for privacy-conscious deployments.",
+      "summary_zh": "Cal.diy 是 cal.com 的开源社区版，支持自托管，让团队在自有基础设施上进行排程并掌控隐私。它展示了开源分叉如何赋能定制化并减少对厂商的依赖，为注重隐私的部署提供了更多选择。",
+      "hn": {
+        "id": 47852155,
+        "type": "story",
+        "by": "petecooper",
+        "score": 233,
+        "descendants": 59,
+        "time": 1776794301,
+        "comments_url": "https://news.ycombinator.com/item?id=47852155"
+      },
+      "tags": [
+        "Open Source",
+        "Web",
+        "Privacy",
+        "DevOps"
+      ],
+      "hot_score": 0.9
+    },
+    {
+      "title_en": "Tim Cook's Impeccable Timing",
+      "url": "https://stratechery.com/2026/tim-cooks-impeccable-timing/",
+      "title_zh": "蒂姆·库克的完美时机",
+      "created_display": "Created: Apr 21, 2026 / 04:30 PT",
+      "image_url": "https://stratechery.com/wp-content/uploads/2026/04/cook-1.png",
+      "summary_en": "The piece argues Tim Cook has timed key moves around AI, privacy, and supply chains to optimize Apple’s trajectory. By aligning product cadence with regulatory and market windows, Apple maintains pricing power and investor confidence in a shifting tech landscape.",
+      "summary_zh": "文章认为蒂姆·库克在 AI、隐私与供应链等关键节点的时机把握，帮助苹果在快速变化的科技格局中维持定价能力与投资者信心。通过与监管与市场窗口对齐的产品节奏，苹果在竞争中保持领先。",
+      "hn": {
+        "id": 47847324,
+        "type": "story",
+        "by": "hasheddan",
+        "score": 334,
+        "descendants": 402,
+        "time": 1776771003,
+        "comments_url": "https://news.ycombinator.com/item?id=47847324"
+      },
+      "tags": [
+        "Business",
+        "AI",
+        "Privacy",
+        "Politics"
+      ],
+      "hot_score": 0.81
+    },
+    {
+      "title_en": "Original GrapheneOS responses to WIRED fact checker",
+      "url": "https://discuss.grapheneos.org/d/34369-original-grapheneos-responses-to-wired-fact-checker",
+      "title_zh": "GrapheneOS 对 WIRED 事实核查的原始回应",
+      "created_display": "Created: Apr 21, 2026 / 08:04 PT",
+      "image_url": "https://discuss.grapheneos.org/opengraph.png",
+      "summary_en": "GrapheneOS posted its initial responses to WIRED's fact-check, pushing back on asserted privacy and security claims. The exchange illustrates how security-focused projects engage with media scrutiny and the importance of precise claims in reporting.",
+      "summary_zh": "GrapheneOS 发布了对 WIRED 事实核查的初步回应，辩护其隐私与安全主张并澄清被错误表述之处。此事展示了以安全为导向的项目如何应对媒体审查，以及报道中对主张精确性的重要性。",
+      "hn": {
+        "id": 47849854,
+        "type": "story",
+        "by": "ChrisArchitect",
+        "score": 254,
+        "descendants": 215,
+        "time": 1776783864,
+        "comments_url": "https://news.ycombinator.com/item?id=47849854"
+      },
+      "hot_score": 0.78,
+      "tags": [
+        "Security",
+        "Privacy"
+      ]
+    },
+    {
+      "title_en": "Anthropic says OpenClaw-style Claude CLI usage is allowed again",
+      "url": "https://docs.openclaw.ai/providers/anthropic",
+      "title_zh": "Anthropic：重新允许 OpenClaw 风格的 Claude CLI 使用",
+      "created_display": "Created: Apr 20, 2026 / 20:43 PT",
+      "image_url": "https://clawdhub.mintlify.app/mintlify-assets/_next/image?url=%2F_mintlify%2Fapi%2Fog%3Fdivision%3DProviders%26title%3DAnthropic%26logoLight%3Dhttps%253A%252F%252Fmintcdn.com%252Fclawdhub%252FdpADRo8IUoiDztzJ%252Fassets%252Fpixel-lobster.svg%253Ffit%253Dmax%2526auto%253Dformat%2526n%253DdpADRo8IUoiDztzJ%2526q%253D85%2526s%253D8fdf719fb6d3eaad7c65231385bf28e5%26logoDark%3Dhttps%253A%252F%252Fmintcdn.com%252Fclawdhub%252FdpADRo8IUoiDztzJ%252Fassets%252Fpixel-lobster.svg%253Ffit%253Dmax%2526auto%253Dformat%2526n%253DdpADRo8IUoiDztzJ%2526q%253D85%2526s%253D8fdf719fb6d3eaad7c65231385bf28e5%26primaryColor%3D%2523FF5A36%26lightColor%3D%2523FF8A6B%26darkColor%3D%2523FF5A36%26backgroundLight%3D%2523ffffff%26backgroundDark%3D%25230e0c0d&w=1200&q=100",
+      "summary_en": "Anthropic announces that Claude CLI usage in an OpenClaw-like style is allowed again, reversing a prior restriction. The move lowers friction for developers who automate Claude tasks from the command line and could widen adoption of CLI-based workflows. It signals a shift toward more developer-friendly tooling in the Claude ecosystem.",
+      "summary_zh": "Anthropic 宣布重新允许通过 OpenClaw 风格的 Claude CLI 进行使用，撤销了先前的限制。此举降低了开发者通过命令行自动化 Claude 的门槛，可能推动 CLI 工作流的普及，体现对开发者工具的友好改进。",
+      "hn": {
+        "id": 47844269,
+        "type": "story",
+        "by": "jmsflknr",
+        "score": 494,
+        "descendants": 283,
+        "time": 1776742983,
+        "comments_url": "https://news.ycombinator.com/item?id=47844269"
+      },
+      "tags": [
+        "AI",
+        "Programming"
+      ],
+      "hot_score": 0.77
+    },
+    {
+      "title_en": "Anthropic takes $5B from Amazon and pledges $100B in cloud spending in return",
+      "url": "https://techcrunch.com/2026/04/20/anthropic-takes-5b-from-amazon-and-pledges-100b-in-cloud-spending-in-return/",
+      "title_zh": "Anthropic 获 Amazon 投资50亿美元，承诺云端支出1000亿美元",
+      "created_display": "Created: Apr 21, 2026 / 06:08 PT",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2024/11/GettyImages-1445867611.jpg?w=1024",
+      "summary_en": "Anthropic raises $5B from Amazon in a deal tied to cloud usage, with Anthropic pledging to spend up to $100B on Amazon cloud. The arrangement signals deep reliance on one cloud provider and could shape AI workloads' deployment, pricing, and reliability considerations.",
+      "summary_zh": "Anthropic 获得亚马逊 50 亿美元投资，并承诺在亚马逊云端支出最多 1000 亿美元。该交易显示双方在云和 AI 服务上的深度绑定，可能影响未来 AI 工作负载的部署、定价与可靠性考量。",
+      "hn": {
+        "id": 47848276,
+        "type": "story",
+        "by": "Brajeshwar",
+        "score": 270,
+        "descendants": 286,
+        "time": 1776776905,
+        "comments_url": "https://news.ycombinator.com/item?id=47848276"
+      },
+      "hot_score": 0.73,
+      "tags": [
+        "Business",
+        "Startups",
+        "AI"
+      ]
+    },
+    {
+      "title_en": "Show HN: VidStudio, a browser based video editor that doesn't upload your files",
+      "url": "https://vidstudio.app/video-editor",
+      "title_zh": "VidStudio：基于浏览器、在本地处理的视频编辑器",
+      "created_display": "Created: Apr 21, 2026 / 04:58 PT",
+      "image_url": "https://vidstudio.app/og-image.png",
+      "summary_en": "VidStudio offers browser-based video editing with client-side processing, so your files never leave your device. It demonstrates that privacy-focused web apps can rival traditional editors, though real-world performance and feature parity depend on ongoing Web platform progress. Early demos suggest strong potential for offline work and rapid iteration.",
+      "summary_zh": "VidStudio 提供基于浏览器的视频编辑，文件全部在本地处理，不会上传云端。此类隐私友好网络应用正逐步接近传统编辑器的功能，实际性能与功能仍取决于网页平台的持续进展。早期演示显示在离线工作和快速迭代方面具有潜力。",
+      "hn": {
+        "id": 47847558,
+        "type": "story",
+        "by": "kolx",
+        "score": 282,
+        "descendants": 100,
+        "time": 1776772696,
+        "comments_url": "https://news.ycombinator.com/item?id=47847558"
+      },
+      "tags": [
+        "Show HN",
+        "Web",
+        "Privacy"
+      ],
+      "hot_score": 0.7
+    },
+    {
+      "title_en": "Kimi K2.6: Advancing open-source coding",
+      "url": "https://www.kimi.com/blog/kimi-k2-6",
+      "title_zh": "Kimi K2.6：推进开源编码",
+      "created_display": "Created: Apr 20, 2026 / 08:28 PT",
+      "image_url": null,
+      "summary_en": "Kimi releases version K2.6, advancing open-source coding tooling. The update signals ongoing momentum in OSS tooling to improve developer workflows and build quality for modern applications.",
+      "summary_zh": "Kimi 发布了 K2.6 版本，推动开源编码工具的发展。更新凸显 OSS 工具链在提升开发者工作流和现代应用构建质量方面的持续势头。",
+      "hn": {
+        "id": 47835735,
+        "type": "story",
+        "by": "meetpateltech",
+        "score": 699,
+        "descendants": 366,
+        "time": 1776698893,
+        "comments_url": "https://news.ycombinator.com/item?id=47835735"
+      },
+      "tags": [
+        "Open Source",
+        "Programming"
+      ],
+      "hot_score": 0.65
+    },
+    {
+      "title_en": "Brands got worse on purpose",
+      "url": "https://www.worseonpurpose.com/p/your-favorite-brands-got-worse-on-purpose",
+      "title_zh": "品牌被故意变坏",
+      "created_display": "Created: Apr 21, 2026 / 07:19 PT",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/3b24affa-eff7-4a2a-a557-ed9df33e98eb/Worse_on_Purpose_-_Thumbnail_Preview.png?t=1774308955",
+      "summary_en": "The piece argues that some brands deliberately degrade product quality or user experience to boost monetization, citing examples from consumer apps and services. It explores the economics of the 'worse is better' strategy and why users end up paying more for features.",
+      "summary_zh": "文章声称部分品牌有意降低产品质量或用户体验以提升盈利，结合应用与服务的实例进行剖析。探讨这种“更糟即更好”的商业策略背后的经济逻辑，以及用户为何为功能付出更高成本。",
+      "hn": {
+        "id": 47849221,
+        "type": "story",
+        "by": "neon_electro",
+        "score": 222,
+        "descendants": 169,
+        "time": 1776781189,
+        "comments_url": "https://news.ycombinator.com/item?id=47849221"
+      },
+      "hot_score": 0.65,
+      "tags": [
+        "Business"
+      ]
+    },
+    {
+      "title_en": "Qwen3.6-Max-Preview: Smarter, Sharper, Still Evolving",
+      "url": "https://qwen.ai/blog?id=qwen3.6-max-preview",
+      "title_zh": "Qwen3.6-Max 预览版：更智能、更敏锐，仍在进化",
+      "created_display": "Created: Apr 20, 2026 / 07:05 PT",
+      "image_url": "https://img.alicdn.com/imgextra/i1/O1CN013ltlI61OTOnTStXfj_!!6000000001706-55-tps-330-327.svg",
+      "summary_en": "Qwen3.6-Max-Preview demonstrates stronger performance and sharper reasoning, with ongoing improvements in safety and efficiency. This preview signals continued evolution of the Qwen model line as an open AI competitor in the space.",
+      "summary_zh": "Qwen3.6-Max-Preview 展示了更强的性能与更精确的推理，同时在安全性和效率方面有所提升。该预览表明 Qwen 系列仍在持续进化，成为开放式 AI 竞争中的有力对手。",
+      "hn": {
+        "id": 47834565,
+        "type": "story",
+        "by": "mfiguiere",
+        "score": 699,
+        "descendants": 377,
+        "time": 1776693934,
+        "comments_url": "https://news.ycombinator.com/item?id=47834565"
+      },
+      "tags": [
+        "AI"
+      ],
+      "hot_score": 0.62
+    },
+    {
+      "title_en": "At long last, InfoWars is ours",
+      "url": "https://theonion.com/at-long-last-infowars-is-ours/",
+      "title_zh": "InfoWars 终于落入我们手中",
+      "created_display": "Created: Apr 20, 2026 / 10:23 PT",
+      "image_url": "https://theonion.com/wp-content/uploads/2026/04/IW_Flags_Announcement_IHA_GR_16x9.jpg",
+      "summary_en": "A satirical piece imagines someone finally taking control of InfoWars, lampooning the power dynamics of fringe media and online info ecosystems. It skewers how ownership can shape narratives and the culture around conspiracy sites, offering a meta take on media influence.",
+      "summary_zh": "这篇讽刺文设想有人终于掌控 InfoWars，调侃边缘媒体的权力关系与信息生态。通过字句讽刺所有权如何塑造叙事，以及公众对阴谋论媒体的看法，折射出信息环境中的权力与影响。",
+      "hn": {
+        "id": 47837611,
+        "type": "story",
+        "by": "HotGarbage",
+        "score": 624,
+        "descendants": 294,
+        "time": 1776705838,
+        "comments_url": "https://news.ycombinator.com/item?id=47837611"
+      },
+      "tags": [
+        "Culture"
+      ],
+      "hot_score": 0.62
+    },
+    {
+      "title_en": "Making RAM at Home [video]",
+      "url": "https://www.youtube.com/watch?v=h6GWikWlAQA",
+      "title_zh": "在家自制RAM（视频）",
+      "created_display": "Created: Apr 20, 2026 / 16:35 PT",
+      "image_url": null,
+      "summary_en": "Shows a DIY RAM prototype built with common components to illustrate how memory works. The video traces memory cells and timing while discussing the challenges of building RAM-like circuitry at home, offering a tangible look at memory architecture.",
+      "summary_zh": "该视频用家用组件演示一个 RAM 原型，帮助理解内存如何工作。它讲解存储单元、时序，以及在家自制 RAM 相关电路所遇到的挑战，直观展现了内存架构的要点。",
+      "hn": {
+        "id": 47842569,
+        "type": "story",
+        "by": "kaipereira",
+        "score": 456,
+        "descendants": 126,
+        "time": 1776728106,
+        "comments_url": "https://news.ycombinator.com/item?id=47842569"
+      },
+      "tags": [
+        "Hardware"
+      ],
+      "hot_score": 0.59
+    },
+    {
+      "title_en": "Apple ignores DMA interoperability requests and contradicts own documentation",
+      "url": "https://fsfe.org/news/2026/news-20260420-01.html",
+      "title_zh": "苹果无视 DMA 互操作性请求，并与自家文档矛盾",
+      "created_display": "Created: Apr 21, 2026 / 03:57 PT",
+      "image_url": "https://pics.fsfe.org/uploads/original/ee/3d/407431339a047caf4fc5f1ea05db.png",
+      "summary_en": "Apple reportedly ignored interoperability requests under the Digital Markets Act and contradicted its own documentation on device access or compatibility. The incident underscores regulatory pressure on platform openness and the friction between policy mandates and how products are documented.",
+      "summary_zh": "据报道，苹果无视 DMA（数字市场法）的互操作性请求，并与自身文档存在矛盾。这凸显了监管机构对大型平台强制开放的压力，以及政策要求与产品设计之间的持续张力。",
+      "hn": {
+        "id": 47847124,
+        "type": "story",
+        "by": "kirschner",
+        "score": 228,
+        "descendants": 54,
+        "time": 1776769073,
+        "comments_url": "https://news.ycombinator.com/item?id=47847124"
+      },
+      "hot_score": 0.53,
+      "tags": [
+        "Politics"
+      ]
+    },
+    {
+      "title_en": "Show HN: GoModel – an open-source AI gateway in Go",
+      "url": "https://github.com/ENTERPILOT/GOModel/",
+      "title_zh": "Show HN: GoModel——用 Go 实现的开源 AI 网关；比 LiteLLM 轻量 44 倍",
+      "created_display": "Created: Apr 21, 2026 / 07:11 PT",
+      "image_url": "https://opengraph.githubassets.com/81314de10a9232ccb08fe24794f0b3fa5c5e767c7c7ffe5b01953298e06eb5c5/ENTERPILOT/GoModel",
+      "summary_en": "GoModel is a lightweight open-source AI gateway written in Go, boasting a footprint far smaller than competing LLM gateways. It targets easier deployment of small-to-midscale AI services, especially for edge or on-prem setups.",
+      "summary_zh": "GoModel 是用 Go 编写的轻量级开源 AI 网关，声称体积要比 LiteLLM 等实现低几十倍。它面向在边缘或本地部署的小到中等规模的 AI 服务，降低门槛与运维成本。",
+      "hn": {
+        "id": 47849097,
+        "type": "story",
+        "by": "santiago-pl",
+        "score": 185,
+        "descendants": 70,
+        "time": 1776780713,
+        "comments_url": "https://news.ycombinator.com/item?id=47849097"
+      },
+      "tags": [
+        "Show HN",
+        "Open Source",
+        "Programming",
+        "AI"
+      ],
+      "hot_score": 0.53
+    },
+    {
+      "title_en": "Changes to GitHub Copilot individual plans",
+      "url": "https://github.blog/news-insights/company-news/changes-to-github-copilot-individual-plans/",
+      "title_zh": "GitHub Copilot 个人计划调整",
+      "created_display": "Created: Apr 20, 2026 / 11:24 PT",
+      "image_url": "https://github.blog/wp-content/uploads/2026/01/generic-github-logo-right.png",
+      "summary_en": "GitHub Copilot’s individual plans have changed, with updated pricing and terms affecting solo developers and hobbyists. The move highlights GitHub’s ongoing strategy to monetize AI-assisted coding tools and could shift how individuals adopt the service.",
+      "summary_zh": "GitHub Copilot 个人计划发生变动，定价与条款更新，影响单独开发者和爱好者。此举折射出 GitHub 在 AI 助力编码工具上的持续商业化策略，可能改变个人用户的采用路径。",
+      "hn": {
+        "id": 47838508,
+        "type": "story",
+        "by": "zorrn",
+        "score": 504,
+        "descendants": 209,
+        "time": 1776709445,
+        "comments_url": "https://news.ycombinator.com/item?id=47838508"
+      },
+      "tags": [
+        "Programming",
+        "AI"
+      ],
+      "hot_score": 0.52
+    },
+    {
+      "title_en": "Fusion Power Plant Simulator",
+      "url": "https://www.fusionenergybase.com/fusion-power-plant-simulator",
+      "title_zh": "聚变电厂仿真器",
+      "created_display": "Created: Apr 21, 2026 / 07:26 PT",
+      "image_url": "https://www.fusionenergybase.com/images/fusion-simulator-preview.png",
+      "summary_en": "A fusion power plant simulator lets researchers explore dynamics, control, and design trade-offs without building a real reactor. By modeling plasma physics, heat exhaust, and economics, it clarifies the engineering challenges of scaling fusion to commercial power.",
+      "summary_zh": "聚变电厂仿真器让研究者在不建造真实反应堆的情况下，探索动力学、控制策略与设计权衡。通过对等离子体物理、热排放与经济性的建模，揭示了将聚变推向商业规模所需面对的工程挑战。",
+      "hn": {
+        "id": 47849315,
+        "type": "story",
+        "by": "sam",
+        "score": 175,
+        "descendants": 119,
+        "time": 1776781612,
+        "comments_url": "https://news.ycombinator.com/item?id=47849315"
+      },
+      "tags": [
+        "Science",
+        "Energy"
+      ],
+      "hot_score": 0.51
+    },
+    {
+      "title_en": "Acetaminophen vs. ibuprofen",
+      "url": "https://asteriskmag.com/issues/14/the-mystery-in-the-medicine-cabinet",
+      "title_zh": "对乙酰氨基酚 vs. 布洛芬",
+      "created_display": "Created: Apr 20, 2026 / 08:21 PT",
+      "image_url": "https://asteriskmag.com/media/pages/issues/14/the-mystery-in-the-medicine-cabinet/e71f2c3954-1776281832/dynomight-social-1600x900-crop-sharpen50.png",
+      "summary_en": "Acetaminophen and ibuprofen treat different types of pain and have distinct risk profiles. Acetaminophen is gentler on the stomach but can damage the liver at high doses, while ibuprofen reduces inflammation but may upset the stomach and affect kidney function; dosing and medical context matter for safe use.",
+      "summary_zh": "对乙酰氨基酚和布洛芬在机制与风险上各有不同。乙酰氨基酚对胃部影响较小，但高剂量可能损伤肝脏；布洛芬具有抗炎作用，但可能引起胃部不适并影响肾功能，使用时需考虑炎症程度、年龄和肝肾健康。",
+      "hn": {
+        "id": 47835635,
+        "type": "story",
+        "by": "nkurz",
+        "score": 521,
+        "descendants": 327,
+        "time": 1776698476,
+        "comments_url": "https://news.ycombinator.com/item?id=47835635"
+      },
+      "tags": [
+        "Health"
+      ],
+      "hot_score": 0.48
+    },
+    {
+      "title_en": "A Roblox cheat and one AI tool brought down Vercel's platform",
+      "url": "https://webmatrices.com/post/how-a-roblox-cheat-and-one-ai-tool-brought-down-vercel-s-entire-platform",
+      "title_zh": "一起 Roblox 作弊和一个 AI 工具导致 Vercel 平台宕机",
+      "created_display": "Created: Apr 20, 2026 / 21:12 PT",
+      "image_url": null,
+      "summary_en": "A Roblox cheat and an AI tool reportedly caused a cascading outage on Vercel’s platform, illustrating how misuse and automation tools can ripple through a cloud service. The incident underscores the fragility of complex, automated deployments and the importance of robust abuse controls and mitigations.",
+      "summary_zh": "一起 Roblox 作弊脚本和一个 AI 工具事件据称导致 Vercel 平台发生大范围崩溃，暴露了滥用与自动化工具对云服务的连锁影响。此事凸显了复杂自动部署的脆弱性，以及加强滥用防护与缓解措施的重要性。",
+      "hn": {
+        "id": 47844431,
+        "type": "story",
+        "by": "bishwasbh",
+        "score": 281,
+        "descendants": 161,
+        "time": 1776744732,
+        "comments_url": "https://news.ycombinator.com/item?id=47844431"
+      },
+      "tags": [
+        "DevOps",
+        "AI"
+      ],
+      "hot_score": 0.45
+    },
+    {
+      "title_en": "AI Resistance: some recent anti-AI stuff that’s worth discussing",
+      "url": "https://stephvee.ca/blog/artificial%20intelligence/ai-resistance-is-growing/",
+      "title_zh": "AI 抵抗：几条值得讨论的近期反AI观点",
+      "created_display": "Created: Apr 20, 2026 / 13:19 PT",
+      "image_url": null,
+      "summary_en": "Highlights a wave of anti-AI sentiment and proposals, from policy debates to industry watchdog actions. The piece argues that despite hype around AI, there are substantive concerns about safety, bias, job displacement, and governance worth debating for builders and operators.",
+      "summary_zh": "概述对 AI 的抵抗思潮及近期相关主张，包括政策辩论与行业监察行动等。文章指出，尽管 AI 热潮高涨，但在安全、偏见、就业影响和治理等方面存在实质性担忧，值得技术从业者讨论权衡。",
+      "hn": {
+        "id": 47839951,
+        "type": "story",
+        "by": "speckx",
+        "score": 380,
+        "descendants": 406,
+        "time": 1776716353,
+        "comments_url": "https://news.ycombinator.com/item?id=47839951"
+      },
+      "tags": [
+        "AI",
+        "Politics"
+      ],
+      "hot_score": 0.42
+    },
+    {
+      "title_en": "Sauna effect on heart rate",
+      "url": "https://tryterra.co/research/sauna-effect-on-heart-rate",
+      "title_zh": "桑拿对心率的影响",
+      "created_display": "Created: Apr 20, 2026 / 06:40 PT",
+      "image_url": "https://loved-hug-5d84552294.media.strapiapp.com/large_sauna_hr_984f14dcae.png",
+      "summary_en": "A study quantifies how sauna sessions affect heart rate, providing data-driven insights into cardiovascular responses. The findings help calibrate safe sauna practices and health guidance.",
+      "summary_zh": "研究量化了桑拿对心率的影响，为心血管反应提供数据支撑。结果可用于制定安全的桑拿使用建议与健康指引。",
+      "hn": {
+        "id": 47834184,
+        "type": "story",
+        "by": "kyriakosel",
+        "score": 439,
+        "descendants": 231,
+        "time": 1776692428,
+        "comments_url": "https://news.ycombinator.com/item?id=47834184"
+      },
+      "tags": [
+        "Health"
+      ],
+      "hot_score": 0.38
+    },
+    {
+      "title_en": "Israeli soldiers using sexual assault to force Palestinians out of West Bank",
+      "url": "https://www.theguardian.com/world/2026/apr/21/israeli-soldiers-using-sexual-assault-to-force-palestinians-out-of-west-bank-report-says",
+      "title_zh": "以色列士兵利用性侵迫使巴勒斯坦人离开西岸",
+      "created_display": "Created: Apr 20, 2026 / 22:15 PT",
+      "image_url": "https://i.guim.co.uk/img/media/06b45e9329dda673ddb529c4e99fefc8b5551593/570_0_4561_3648/master/4561.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=daaadee6e882f25a0868e6b96e5995be",
+      "summary_en": "Independent report alleges that Israeli soldiers used sexual violence as a tactic to displace Palestinians in the West Bank. The findings add to ongoing accountability debates about military conduct and human rights in the conflict.",
+      "summary_zh": "独立报道指控以色列士兵将性暴力作为迫使巴勒斯坦人离开西岸的手段之一。这一发现加剧了人们对冲突中军事行为和人权问责的讨论。",
+      "hn": {
+        "id": 47844797,
+        "type": "story",
+        "by": "hebelehubele",
+        "score": 225,
+        "descendants": 94,
+        "time": 1776748523,
+        "comments_url": "https://news.ycombinator.com/item?id=47844797"
+      },
+      "tags": [
+        "Politics"
+      ],
+      "hot_score": 0.38
+    },
+    {
+      "title_en": "OpenAI ad partner now selling ChatGPT ad placements based on “prompt relevance”",
+      "url": "https://www.adweek.com/media/exclusive-leaked-deck-reveals-stackadapts-playbook-for-chatgpt-ads/",
+      "title_zh": "OpenAI 广告合作伙伴现依据“提示相关性”销售 ChatGPT 广告位",
+      "created_display": "Created: Apr 20, 2026 / 14:20 PT",
+      "image_url": "https://static-www.adweek.com/wp-content/uploads/2025/05/open-ai-data-chatgpt-2025.jpg?w=600&h=315&crop=1",
+      "summary_en": "An OpenAI ad partner is reportedly selling ChatGPT ad placements based on prompt relevance, suggesting a shift to contextualized advertising within AI chat experiences. The leaked deck hints at programmable targeting that could reshape how brands buy AI-native inventory. This raises questions about measurement, privacy, and monetization in AI advertising.",
+      "summary_zh": "据报道，OpenAI 的广告合作伙伴正基于“提示相关性”销售 ChatGPT 广告位，标志着在 AI 聊天体验中向情境化广告的转变。泄露的演示文稿暗示了可编程的定向策略，可能改变品牌对 AI 原生广告位的购买方式。此举引发对衡量、隐私与 AI 广告营收模式的讨论。",
+      "hn": {
+        "id": 47840980,
+        "type": "story",
+        "by": "jlark77777",
+        "score": 300,
+        "descendants": 160,
+        "time": 1776720052,
+        "comments_url": "https://news.ycombinator.com/item?id=47840980"
+      },
+      "tags": [
+        "AI",
+        "Business",
+        "Privacy"
+      ],
+      "hot_score": 0.35
+    },
+    {
+      "title_en": "The Beauty of Bonsai Styles",
+      "url": "https://longwoodgardens.org/blog/2023-05-17/beauty-bonsai-styles",
+      "title_zh": "盆栽风格之美",
+      "created_display": "Created: Apr 20, 2026 / 21:31 PT",
+      "image_url": "https://longwoodgardens.org/sites/default/files/styles/social_share_cropped/public/2023-05/639649_Bonsai%20Forms_Gross_%20Carol.jpg?h=fcf25457&itok=q3WFNJtG",
+      "summary_en": "The Beauty of Bonsai Styles explores the diverse aesthetics and techniques of bonsai, from formal upright to windswept and cascade forms.",
+      "summary_zh": "《盆栽风格的美》介绍了盆栽美学的多样性与技法，从直立式到风吹式等形式。文章解释修剪、盆器选择与容器几何如何共同塑造微型树木的气质。",
+      "hn": {
+        "id": 47844539,
+        "type": "story",
+        "by": "lagniappe",
+        "score": 209,
+        "descendants": 37,
+        "time": 1776745890,
+        "comments_url": "https://news.ycombinator.com/item?id=47844539"
+      },
+      "tags": [
+        "Culture"
+      ],
+      "hot_score": 0.34
+    },
+    {
+      "title_en": "Deezer says 44% of songs uploaded to its platform daily are AI-generated",
+      "url": "https://techcrunch.com/2026/04/20/deezer-says-44-of-songs-uploaded-to-its-platform-daily-are-ai-generated/",
+      "title_zh": "Deezer 每日上传音乐中有 44% 为 AI 生成",
+      "created_display": "Created: Apr 20, 2026 / 08:41 PT",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/04/Copy-of-2000x1000-EN-1240x600-1.jpg?resize=1200,581",
+      "summary_en": "Deezer reports that a substantial share of daily uploads are AI-generated, highlighting the tension between AI creativity and licensing. The trend raises questions about rights, attribution, and how platforms manage AI-created content.",
+      "summary_zh": "Deezer 报告每日上传中相当比例为 AI 生成，凸显 AI 创作与版权之间的张力。此趋势引发关于授权、署名与平台如何管理 AI 内容的讨论。",
+      "hn": {
+        "id": 47835928,
+        "type": "story",
+        "by": "FiddlerClamp",
+        "score": 359,
+        "descendants": 388,
+        "time": 1776699662,
+        "comments_url": "https://news.ycombinator.com/item?id=47835928"
+      },
+      "tags": [
+        "AI",
+        "Business"
+      ],
+      "hot_score": 0.33
+    },
+    {
+      "title_en": "F-35 is built for the wrong war",
+      "url": "https://warontherocks.com/cogs-of-war/the-f-35-is-a-masterpiece-built-for-the-wrong-war/",
+      "title_zh": "F-35：为错误的战争打造的杰作",
+      "created_display": "Created: Apr 20, 2026 / 13:07 PT",
+      "image_url": "https://warontherocks.com/wp-content/uploads/2026/04/9513271.jpg?v=1776697753",
+      "summary_en": "A critique argues the F-35 program is optimized for a hypothetical war that doesn’t reflect current threat realities, focusing on cost, interoperability, and doctrine alignment. The piece invites reevaluation of defense procurement and emphasizes the need for open, adaptable systems. For tech readers, it’s a case study in aligning hardware programs with real-world use cases.",
+      "summary_zh": "文章认为 F-35 项目为一种与现实威胁不符的假设战争进行了优化，批评成本、互操作性与作战理念的错配。该观点推动对国防采购的再评估，强调需要更开放、可适应的系统。对于科技读者而言，这是一个将硬件计划与真实应用对齐的案例研究。",
+      "hn": {
+        "id": 47839835,
+        "type": "story",
+        "by": "anjel",
+        "score": 294,
+        "descendants": 675,
+        "time": 1776715655,
+        "comments_url": "https://news.ycombinator.com/item?id=47839835"
+      },
+      "tags": [
+        "Politics",
+        "Hardware"
+      ],
+      "hot_score": 0.33
+    },
+    {
+      "title_en": "How to make a fast dynamic language interpreter",
+      "url": "https://zef-lang.dev/implementation",
+      "title_zh": "如何打造高效的动态语言解释器",
+      "created_display": "Created: Apr 20, 2026 / 17:48 PT",
+      "image_url": null,
+      "summary_en": "This piece surveys architecture choices for a fast dynamic language interpreter, weighing the trade-offs between interpretation, compilation, and JIT techniques. It highlights practical optimizations such as inline caches, bytecode representations, tracing JIT, and data-layout choices that push performance without sacrificing dynamism.",
+      "summary_zh": "本文讨论快速动态语言解释器的设计取舍，权衡解释、编译和JIT等技术。介绍字节码表示、内联缓存、跟踪编译等实际优化，以及在不牺牲动态性的前提下提升性能的数据结构选择。",
+      "hn": {
+        "id": 47843194,
+        "type": "story",
+        "by": "pizlonator",
+        "score": 245,
+        "descendants": 55,
+        "time": 1776732487,
+        "comments_url": "https://news.ycombinator.com/item?id=47843194"
+      },
+      "tags": [
+        "Programming"
+      ],
+      "hot_score": 0.33
+    },
+    {
+      "title_en": "Kimi vendor verifier – verify accuracy of inference providers",
+      "url": "https://www.kimi.com/blog/kimi-vendor-verifier",
+      "title_zh": "Kimi 厂商验证器：验证推理提供商的准确性",
+      "created_display": "Created: Apr 20, 2026 / 11:39 PT",
+      "image_url": null,
+      "summary_en": "Kimi launches a vendor verifier to assess the accuracy of AI inference providers, addressing reliability concerns in enterprise AI purchases. The tool likely standardizes benchmarks and governance checks, helping buyers compare model quality across vendors. As enterprises lean on third‑party inference, verifiable performance becomes a strategic gatekeeper.",
+      "summary_zh": "Kimi 推出厂商验证器，用以评估 AI 推理提供商的准确性，解决企业在采购时对可靠性的担忧。该工具可能提供标准化的基准与治理检查，帮助买家对比不同供应商的模型质量。随着企业对推理能力的依赖，具可验证性能的能力变得日益关键。",
+      "hn": {
+        "id": 47838703,
+        "type": "story",
+        "by": "Alifatisk",
+        "score": 308,
+        "descendants": 32,
+        "time": 1776710393,
+        "comments_url": "https://news.ycombinator.com/item?id=47838703"
+      },
+      "tags": [
+        "AI",
+        "Business"
+      ],
+      "hot_score": 0.32
+    },
+    {
+      "title_en": "We accepted surveillance as default",
+      "url": "https://vivianvoss.net/blog/why-we-accepted-surveillance",
+      "title_zh": "我们已默认接受监控",
+      "created_display": "Created: Apr 20, 2026 / 09:34 PT",
+      "image_url": "https://vivianvoss.net/assets/images/vivianvossnet-logo-short.png",
+      "summary_en": "Traces how everyday technology—phones, apps, smart devices—normalizes surveillance as a cost of convenience. The piece argues for rethinking consent, data minimization, and regulatory safeguards to reclaim privacy.",
+      "summary_zh": "分析日常科技产品如何使监控成为便利成本的一部分。呼吁重新审视用户同意、数据最小化与监管保障，以重获隐私控制权。",
+      "hn": {
+        "id": 47836730,
+        "type": "story",
+        "by": "speckx",
+        "score": 325,
+        "descendants": 149,
+        "time": 1776702865,
+        "comments_url": "https://news.ycombinator.com/item?id=47836730"
+      },
+      "tags": [
+        "Privacy",
+        "Politics"
+      ],
+      "hot_score": 0.31
+    },
+    {
+      "title_en": "Jujutsu megamerges for fun and profit",
+      "url": "https://isaaccorbrey.com/notes/jujutsu-megamerges-for-fun-and-profit",
+      "title_zh": "咒术大并购：为了乐趣与利润",
+      "created_display": "Created: Apr 20, 2026 / 14:32 PT",
+      "image_url": "https://isaaccorbrey.com/profile.png",
+      "summary_en": "The post uses a Jungian metaphor of jujutsu megamergers to examine large-scale M&A activity, weighing potential synergies against integration risk and regulatory friction. It argues that while consolidation can unlock value, misaligned deals often destroy more than they create. For readers, it’s a lens on strategic playbooks in tech markets.",
+      "summary_zh": "文章以‘咒术’隐喻探讨大型并购活动，权衡潜在协同效应与整合风险及监管摩擦。作者认为，尽管并购能创造价值，但若目标错配往往适得其反。读者可通过该视角理解科技市场中的战略博弈。",
+      "hn": {
+        "id": 47841129,
+        "type": "story",
+        "by": "icorbrey",
+        "score": 261,
+        "descendants": 163,
+        "time": 1776720730,
+        "comments_url": "https://news.ycombinator.com/item?id=47841129"
+      },
+      "tags": [
+        "Business",
+        "Politics"
+      ],
+      "hot_score": 0.31
+    },
+    {
+      "title_en": "Not buying another Kindle",
+      "url": "https://www.androidauthority.com/amazon-kindle-2026-3657863/",
+      "title_zh": "不再买下一台 Kindle",
+      "created_display": "Created: Apr 20, 2026 / 08:30 PT",
+      "image_url": "https://www.androidauthority.com/wp-content/uploads/2019/11/Amazon-Kindle-Oasis-with-warmth-and-brightness-slider.jpg",
+      "summary_en": "Argues that new Kindle models may not justify upgrade costs amid marginal gains in display tech and features. The piece weighs ecosystem lock-in, price, and privacy considerations, suggesting readers pause and compare alternatives.",
+      "summary_zh": "文章认为新一代 Kindle 的升级成本可能得不偿失，显示技术与功能提升有限。作者分析生态锁定、价格与隐私等因素，建议读者暂停跟进并对比其他选项。",
+      "hn": {
+        "id": 47835775,
+        "type": "story",
+        "by": "mikhael",
+        "score": 323,
+        "descendants": 273,
+        "time": 1776699017,
+        "comments_url": "https://news.ycombinator.com/item?id=47835775"
+      },
+      "tags": [
+        "Business",
+        "Privacy"
+      ],
+      "hot_score": 0.3
+    },
+    {
+      "title_en": "Quantum Computers Are Not a Threat to 128-Bit Symmetric Keys",
+      "url": "https://words.filippo.io/128-bits/",
+      "title_zh": "量子计算对128位对称密钥并非威胁",
+      "created_display": "Created: Apr 20, 2026 / 09:37 PT",
+      "image_url": "https://assets.buttondown.email/images/4de912cf-5147-4672-9800-4510d734d5ec.jpeg?w=960&fit=max",
+      "summary_en": "The piece explains that quantum computers are not an immediate risk to 128-bit symmetric keys; Grover's algorithm would require impractical resources to break them soon. It reassures cryptographers about near-term security margins.",
+      "summary_zh": "文章解释量子计算并非对128位对称密钥的直接威胁；利用 Grover 算法在短期内要实现破解需要巨大的资源。为近期香港的安全裕度提供安抚作用。",
+      "hn": {
+        "id": 47836784,
+        "type": "story",
+        "by": "hasheddan",
+        "score": 299,
+        "descendants": 108,
+        "time": 1776703068,
+        "comments_url": "https://news.ycombinator.com/item?id=47836784"
+      },
+      "tags": [
+        "Security",
+        "Science"
+      ],
+      "hot_score": 0.29
+    },
+    {
+      "title_en": "MNT Reform is an open hardware laptop, designed and assembled in Germany",
+      "url": "http://mnt.stanleylieber.com/reform/",
+      "title_zh": "MNT Reform：在德国设计并组装的开放硬件笔记本",
+      "created_display": "Created: Apr 20, 2026 / 07:14 PT",
+      "image_url": "http://mnt.stanleylieber.com/reform/img/mnt_reform.png",
+      "summary_en": "MNT Reform is an open hardware laptop with full public documentation, allowing users to build, customize, or repair the device. Made and assembled in Germany, the project emphasizes repairability, transparency, and user freedom in hardware beyond sealed consumer devices.",
+      "summary_zh": "这款开放硬件笔记本提供完整的公开文档、材料清单与装配指导，用户可自行组装、定制或维修。德国制造的该项目强调在供应链日益复杂的背景下，硬件的可修复性与透明度。",
+      "hn": {
+        "id": 47834689,
+        "type": "story",
+        "by": "speckx",
+        "score": 294,
+        "descendants": 112,
+        "time": 1776694492,
+        "comments_url": "https://news.ycombinator.com/item?id=47834689"
+      },
+      "hot_score": 0.26,
+      "tags": [
+        "Open Source",
+        "Hardware"
+      ]
+    },
+    {
+      "title_en": "Palantir Wants to Reinstate the Draft",
+      "url": "https://reason.com/2026/04/20/this-big-tech-firm-wants-to-reinstate-the-draft/",
+      "title_zh": "Palantir 想要重启征兵",
+      "created_display": "Created: Apr 20, 2026 / 09:19 PT",
+      "image_url": "https://d2eehagpk5cl65.cloudfront.net/img/q60/uploads/2026/04/04.20.26-v1.jpg",
+      "summary_en": "Reports that Palantir lobbies or advocates for reinstating conscription, linking tech firms to national service in a way that could reshape the talent pipeline and civil-liberties considerations. The piece prompts readers to consider the governance questions around private sector influence over public policy.",
+      "summary_zh": "报道 Palantir 倡议重新征兵，或游说推动国家征兵制度，暗示科技企业与公共政策之间的影响力重组以及对公民自由的潜在考量。引发对私企对公共政策影响力的治理问题的思考。",
+      "hn": {
+        "id": 47836463,
+        "type": "story",
+        "by": "tcp_handshaker",
+        "score": 219,
+        "descendants": 236,
+        "time": 1776701960,
+        "comments_url": "https://news.ycombinator.com/item?id=47836463"
+      },
+      "tags": [
+        "Politics"
+      ],
+      "hot_score": 0.21
+    }
+  ]
+}

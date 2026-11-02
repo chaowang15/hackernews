@@ -1,0 +1,1169 @@
+{
+  "meta": {
+    "mode": "best",
+    "source": "https://news.ycombinator.com/",
+    "api": "https://github.com/HackerNews/API",
+    "count_requested": 50,
+    "count_written": 50,
+    "reused_same_day": 0,
+    "reused_cross_day": 15,
+    "new_llm_enriched": 12,
+    "scrape_time_display": "11:13, October 01, 2026 (PDT)",
+    "timezone": "America/Los_Angeles",
+    "date_dir": "2026/09/30",
+    "content_date": "2026-09-30",
+    "run_time_local": "11:13, October 01, 2026 (PDT)",
+    "run_time_utc": "2026-10-01 18:13:34 UTC",
+    "incremental": true,
+    "stories_max": 50,
+    "hot_score_time_utc": "2026-10-01 18:16:06 UTC"
+  },
+  "items": [
+    {
+      "title_en": "Clef: Open-source decision models, and new RL fine-tuning platform",
+      "url": "https://blog.cloudflare.com/clef-decision-models/",
+      "title_zh": "Clef：开源决策模型与新的 RL 微调平台",
+      "created_display": "Created: Oct 01, 2026 / 09:18 PT",
+      "image_url": "https://blog.cloudflare.com/_emdash/api/media/file/01M3TJV43SPQCPKJ6GBXFCDKNE.01M3TJV53VYDMVNCZDPH1FBFYN.png",
+      "summary_en": "Clef introduces open-source decision models and a new reinforcement learning fine-tuning platform, aiming to make RL workflows more accessible and reproducible. The combination could accelerate research and development of controllable AI systems.",
+      "summary_zh": "Clef 推出开源决策模型，以及用于强化学习微调的新平台，旨在让 RL 工作流更易用、可重复性更强。这一组合有望推动可控 AI 系统的研究与开发。",
+      "hn": {
+        "id": 49923692,
+        "type": "story",
+        "by": "jasondavies",
+        "score": 186,
+        "descendants": 68,
+        "time": 1790871537,
+        "comments_url": "https://news.ycombinator.com/item?id=49923692"
+      },
+      "hot_score": 15.59,
+      "tags": [
+        "AI",
+        "Open Source"
+      ]
+    },
+    {
+      "title_en": "Google breaks promise to provide 10 years of updates to Chromebooks",
+      "url": "https://www.osnews.com/story/146052/google-breaks-promise-to-provide-10-years-of-updates-to-chromebooks/",
+      "title_zh": "谷歌未兑现 Chromebook 的 10 年更新承诺",
+      "created_display": "Created: Oct 01, 2026 / 05:55 PT",
+      "image_url": null,
+      "summary_en": "Google appears to be backing away from its pledge of 10 years of software updates for Chromebooks, potentially shortening the support window for many devices. The move could disrupt long-life deployment plans in schools and businesses and raise security and depreciation concerns as devices age.",
+      "summary_zh": "谷歌似乎正在削减对 Chromebook 10 年更新承诺的落实，可能缩短许多设备的支持周期。这一举动或将扰乱学校和企业的长期部署计划，并在设备老化时带来安全与折旧方面的担忧。",
+      "hn": {
+        "id": 49920997,
+        "type": "story",
+        "by": "speckx",
+        "score": 336,
+        "descendants": 146,
+        "time": 1790859327,
+        "comments_url": "https://news.ycombinator.com/item?id=49920997"
+      },
+      "hot_score": 9.25,
+      "tags": [
+        "Business",
+        "Security"
+      ]
+    },
+    {
+      "title_en": "StreetComplete on iOS is now in public beta",
+      "url": "https://github.com/streetcomplete/StreetComplete/issues/5421",
+      "title_zh": "StreetComplete iOS 公测现已开启",
+      "created_display": "Created: Oct 01, 2026 / 03:59 PT",
+      "image_url": "https://opengraph.githubassets.com/1214691b40da9a4bc4a5f40865a62f189fb798e48ff011b7e4a9cad9eaca61af/streetcomplete/StreetComplete/issues/5421",
+      "summary_en": "StreetComplete has launched a public beta on iOS, expanding its task-based workflow that lets users contribute OpenStreetMap data by answering simple questions about streets and landmarks. The move broadens access beyond Android and could accelerate map data improvements, though testers should expect typical beta churn as the app matures.",
+      "summary_zh": "StreetComplete 已在 iOS 发布公开测试，扩大了通过回答简单问题来贡献 OpenStreetMap 数据的任务驱动工作流。此次扩平台可望推动社区贡献并让 Android 之外的用户加入，但测试阶段仍会有常见的不稳定和本地化需要改进的问题。",
+      "hn": {
+        "id": 49920160,
+        "type": "story",
+        "by": "Snowly",
+        "score": 412,
+        "descendants": 96,
+        "time": 1790852397,
+        "comments_url": "https://news.ycombinator.com/item?id=49920160"
+      },
+      "tags": [
+        "Open Source",
+        "Data"
+      ],
+      "hot_score": 7.47
+    },
+    {
+      "title_en": "Cops Can Bypass iPhone's Automatic Reboot to Get into Locked Phones",
+      "url": "https://www.404media.co/cops-can-bypass-iphone-automatic-inactivity-reboot-graykey/",
+      "title_zh": "警察可绕过 iPhone 的自动重启机制进入锁定手机",
+      "created_display": "Created: Oct 01, 2026 / 07:38 PT",
+      "image_url": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/09/graykey-device.png",
+      "summary_en": "New findings show law enforcement can bypass iPhone's automatic reboot to access locked devices, highlighting ongoing tensions between device encryption and investigative access. The development could influence future policy debates and forensic tooling.",
+      "summary_zh": "新发现表明执法部门可以绕过 iPhone 的自动重启机制进入锁定设备，凸显了设备端到端加密与取证访问之间的持续博弈。这一进展可能影响未来的政策辩论和取证工具的发展。",
+      "hn": {
+        "id": 49922278,
+        "type": "story",
+        "by": "speckx",
+        "score": 154,
+        "descendants": 101,
+        "time": 1790865515,
+        "comments_url": "https://news.ycombinator.com/item?id=49922278"
+      },
+      "hot_score": 6.83,
+      "tags": [
+        "Security",
+        "Privacy"
+      ]
+    },
+    {
+      "title_en": "Meta Uses A.I. Data Centers to Avoid Billions in Federal Taxes",
+      "url": "https://www.nytimes.com/2026/09/30/technology/meta-ai-data-centers-taxes.html",
+      "title_zh": "Meta 使用 AI 数据中心规避数十亿美元联邦税",
+      "created_display": "Created: Oct 01, 2026 / 06:05 PT",
+      "image_url": null,
+      "summary_en": "Meta reportedly uses AI-focused data centers as part of tax planning to reduce its federal tax bill by billions. The strategy highlights how large tech firms leverage capital investments and energy deductions around data-center infrastructure to lower taxes, prompting scrutiny from lawmakers.",
+      "summary_zh": "据报道，Meta 通过投资于 AI 数据中心进行税务筹划，以大幅降低联邦税负。这一策略揭示大型科技公司如何利用数据中心相关投资与能源抵扣来减税，引发立法者的关注与审查。",
+      "hn": {
+        "id": 49921118,
+        "type": "story",
+        "by": "gmays",
+        "score": 233,
+        "descendants": 204,
+        "time": 1790859951,
+        "comments_url": "https://news.ycombinator.com/item?id=49921118"
+      },
+      "hot_score": 6.69,
+      "tags": [
+        "Business",
+        "Finance",
+        "AI",
+        "DevOps",
+        "Energy"
+      ]
+    },
+    {
+      "title_en": "Micron CEO Says Memory Supply Will Be Much Tighter in 2027 and 2028 Than in 2026",
+      "url": "https://www.techpowerup.com/353296/micron-ceo-says-memory-supply-will-be-much-tighter-in-2027-and-2028-than-in-2026",
+      "title_zh": "美光称 2027-2028 年内存供给将显著比 2026 年更紧张",
+      "created_display": "Created: Oct 01, 2026 / 05:48 PT",
+      "image_url": "https://www.techpowerup.com/img/gh4AFBdm8kLj5cs8.jpg",
+      "summary_en": "Micron's CEO warns memory supply will tighten in 2027-2028 more than in 2026, signaling supply-demand imbalance as AI workloads grow and memory demand rises. The forecast could influence pricing and capex planning for memory-intensive industries.",
+      "summary_zh": "美光首席执行官警告称，2027年至2028年的内存供给将比2026年更加紧张，随着 AI 工作负载增加对内存需求上升，市场可能出现供需失衡。这一预测或影响内存定价与高容量行业的资本支出规划。",
+      "hn": {
+        "id": 49920932,
+        "type": "story",
+        "by": "speckx",
+        "score": 230,
+        "descendants": 274,
+        "time": 1790858939,
+        "comments_url": "https://news.ycombinator.com/item?id=49920932"
+      },
+      "hot_score": 6.16,
+      "tags": [
+        "Business",
+        "Finance",
+        "AI"
+      ]
+    },
+    {
+      "title_en": "Returning from vacation? The government can search your phone without a warrant",
+      "url": "https://arstechnica.com/tech-policy/2026/09/immigration-advocate-sues-border-agents-for-demanding-his-cell-phone/",
+      "title_zh": "度假回来后？政府可在没有搜查令的情况下搜索你的手机",
+      "created_display": "Created: Oct 01, 2026 / 04:13 PT",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2288940295-2560x1440.jpg",
+      "summary_en": "An immigration advocate is suing border agents for demanding his cell phone data after returning from vacation, arguing such searches violate privacy rights. The case spotlights the tension between digital privacy and border enforcement, and could influence future policy on device searches at points of entry.",
+      "summary_zh": "一名移民倡导者在返回后被边境人员要求交出手机数据提起诉讼，质疑此类搜索是否侵犯隐私。此案凸显数字隐私与边境执法之间的张力，可能影响未来对入境时设备搜查的政策。",
+      "hn": {
+        "id": 49920234,
+        "type": "story",
+        "by": "rbanffy",
+        "score": 290,
+        "descendants": 269,
+        "time": 1790853239,
+        "comments_url": "https://news.ycombinator.com/item?id=49920234"
+      },
+      "tags": [
+        "Privacy",
+        "Legal",
+        "Politics"
+      ],
+      "hot_score": 5.5
+    },
+    {
+      "title_en": "Gemini 4 Argon",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/",
+      "title_zh": "Gemini 4 Argon（阿尔贡）",
+      "created_display": "Created: Sep 30, 2026 / 13:04 PT",
+      "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/g4_30-09-26_key-art_blog.width-1300.png",
+      "summary_en": "Gemini 4 Argon appears to be a new variant in Google's Gemini 4 family, signaling ongoing expansion of the model lineup to cover different price-performance tiers. Argon is pitched as a balance between capability and efficiency, giving enterprises a more cost-effective path to scale language-model workloads.",
+      "summary_zh": "这是谷歌在 Gemini 4 系列中的一个新变体，凸显通过分层定价来覆盖不同用例的策略。Argon 版本强调在性能与效率之间的折中，面向需要大规模语言模型但关注成本的企业场景。",
+      "hn": {
+        "id": 49913571,
+        "type": "story",
+        "by": "bradleyg223",
+        "score": 1602,
+        "descendants": 1068,
+        "time": 1790798677,
+        "comments_url": "https://news.ycombinator.com/item?id=49913571"
+      },
+      "tags": [
+        "AI"
+      ],
+      "hot_score": 5.17
+    },
+    {
+      "title_en": "How to speed up the Rust compiler in September 2026",
+      "url": "https://nnethercote.github.io/2026/09/30/how-to-speed-up-the-rust-compiler-in-september-2026.html",
+      "title_zh": "2026 年 9 月如何加速 Rust 编译器",
+      "created_display": "Created: Oct 01, 2026 / 05:44 PT",
+      "image_url": null,
+      "summary_en": "A concise guide to speeding up rustc in September 2026, highlighting practical optimizations like incremental builds, caching, and selective codegen options. The piece helps developers tackle long build times on large Rust projects.",
+      "summary_zh": "本文给出在 2026 年 9 月提升 rustc 速度的要点，强调增量构建、缓存和选择性代码生成等实用优化，帮助大型 Rust 项目缩短编译时间。",
+      "hn": {
+        "id": 49920896,
+        "type": "story",
+        "by": "trickypr",
+        "score": 180,
+        "descendants": 88,
+        "time": 1790858678,
+        "comments_url": "https://news.ycombinator.com/item?id=49920896"
+      },
+      "hot_score": 4.73,
+      "tags": [
+        "Programming"
+      ]
+    },
+    {
+      "title_en": "FTC is investigating OpenAI, Anthropic and other AI companies over product risks",
+      "url": "https://www.cnbc.com/2026/09/30/ftc-ai-probe-openai-anthropic.html",
+      "title_zh": "FTC 正在就 OpenAI、Anthropic 等 AI 公司的产品风险展开调查",
+      "created_display": "Created: Oct 01, 2026 / 06:00 PT",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108238255-17652000292025-12-08t080346z_276670915_rc27cia7uvdx_rtrmadp_0_usa-court-ftc-firing.jpeg?v=1765200048&w=1920&h=1080",
+      "summary_en": "The FTC is probing potential product risks across major AI providers, including OpenAI and Anthropic, signaling intensified regulatory scrutiny over safety and consumer protection in AI offerings. The inquiry could raise compliance costs and influence product strategies.",
+      "summary_zh": "FTC 正在就 OpenAI、Anthropic 等 AI 公司的产品风险展开调查，表明监管机构对 AI 产品的安全与消费者保护监管正在加强，可能增加合规成本并影响产品策略。",
+      "hn": {
+        "id": 49921050,
+        "type": "story",
+        "by": "dgellow",
+        "score": 160,
+        "descendants": 102,
+        "time": 1790859655,
+        "comments_url": "https://news.ycombinator.com/item?id=49921050"
+      },
+      "hot_score": 4.49,
+      "tags": [
+        "AI",
+        "Politics"
+      ]
+    },
+    {
+      "title_en": "GPT-Synopsys: Frontier Intelligence to Revolutionize Chip Design",
+      "url": "https://news.synopsys.com/2026-09-30-OpenAI-and-Synopsys-Announce-GPT-Synopsys-Frontier-Intelligence-to-Revolutionize-Chip-Design",
+      "title_zh": "GPT-Synopsys：Frontier Intelligence 将革新芯片设计",
+      "created_display": "Created: Oct 01, 2026 / 03:21 PT",
+      "image_url": "https://mmx.prnewswire.com/media/MS1999865/Synopsys-OpenAI.jpg?id=OA2980139&p=facebook",
+      "summary_en": "Synopsys and OpenAI announced GPT-Synopsys Frontier Intelligence, a collaboration to bring large-language-model-driven automation into chip design. The goal is to speed up architectural exploration, design verification, and documentation, potentially shortening production cycles, but it also raises questions about reliability, data governance, and IP security in critical engineering work.",
+      "summary_zh": "Synopsys 与 OpenAI 公布 GPT-Synopsys Frontier Intelligence，旨在把大语言模型驱动的自动化引入芯片设计流程。目标包括加速架构探索、验证和文档编制，可能缩短上市周期，但也带来对可靠性、数据治理和知识产权安全的担忧。",
+      "hn": {
+        "id": 49919910,
+        "type": "story",
+        "by": "giuliomagnifico",
+        "score": 139,
+        "descendants": 72,
+        "time": 1790850096,
+        "comments_url": "https://news.ycombinator.com/item?id=49919910"
+      },
+      "tags": [
+        "AI",
+        "Hardware",
+        "Security"
+      ],
+      "hot_score": 2.22
+    },
+    {
+      "title_en": "Fuck Android Developer Verification Program",
+      "url": "https://twitter.com/0xcrypto/status/2105515822643114182",
+      "title_zh": "强烈反对 Android 开发者验证计划",
+      "created_display": "Created: Sep 30, 2026 / 21:32 PT",
+      "image_url": "https://pbs.twimg.com/media/HThJZPraAAEQysp?format=webp&name=large",
+      "summary_en": "A provocative post voices strong opposition to Google's Android Developer Verification Program, arguing the policy creates friction for developers and raises concerns about privacy and gatekeeping. The discussion highlights ongoing tensions between platform control and developer-friendly onboarding.",
+      "summary_zh": "这条观点明确表达对 Android 开发者验证计划的强烈不满，认为该计划增加了开发者的门槛并引发隐私与平台把关等担忧。讨论反映出平台控制与开发者体验之间的持续张力。",
+      "hn": {
+        "id": 49917761,
+        "type": "story",
+        "by": "0xcrypto",
+        "score": 290,
+        "descendants": 126,
+        "time": 1790829158,
+        "comments_url": "https://news.ycombinator.com/item?id=49917761"
+      },
+      "hot_score": 2.03,
+      "tags": [
+        "Politics",
+        "Privacy"
+      ]
+    },
+    {
+      "title_en": "You said no MCP",
+      "url": "https://earendil.com/posts/you-said-no-mcp/",
+      "title_zh": "Pi.dev：你说不要 MCP",
+      "created_display": "Created: Sep 30, 2026 / 02:55 PT",
+      "image_url": "https://earendil.com/static/og/posts/you-said-no-mcp.png",
+      "summary_en": "Pi.dev questions the use of MCP and outlines the rationale behind rejecting it.",
+      "summary_zh": "Pi.dev 质疑 MCP 的使用，并解释拒绝的原因。",
+      "hn": {
+        "id": 49906637,
+        "type": "story",
+        "by": "yarapavan",
+        "score": 655,
+        "descendants": 358,
+        "time": 1790762123,
+        "comments_url": "https://news.ycombinator.com/item?id=49906637"
+      },
+      "tags": [
+        "Programming"
+      ],
+      "hot_score": 1.12
+    },
+    {
+      "title_en": "The top secret URSALA, RAQUEL, and FARRAH satellites (2025)",
+      "url": "https://www.thespacereview.com/article/4951/1",
+      "title_zh": "绝密卫星：URSALA、RAQUEL 与 FARRAH",
+      "created_display": "Created: Sep 30, 2026 / 15:03 PT",
+      "image_url": "https://www.thespacereview.com/images/logo-tsr-1.gif",
+      "summary_en": "Explores the rumored trio of top-secret satellites codenamed URSALA, RAQUEL, and FARRAH, piecing together what little public metadata can imply about their missions.",
+      "summary_zh": "探讨被传闻为绝密的三颗卫星，代号为 URSALA、RAQUEL 与 FARRAH，并结合公开数据尝试推断它们的任务。强调隐蔽资产对跟踪与信息解密带来的复杂性，以及现有轨道数据空白对其存在与用途的暗示。",
+      "hn": {
+        "id": 49915082,
+        "type": "story",
+        "by": "Bluestein",
+        "score": 288,
+        "descendants": 150,
+        "time": 1790805784,
+        "comments_url": "https://news.ycombinator.com/item?id=49915082"
+      },
+      "tags": [
+        "Space"
+      ],
+      "hot_score": 1.08
+    },
+    {
+      "title_en": "The AI Race Just Got Awkward",
+      "url": "https://insufferable.dev/posts/the-ai-race-just-got-awkward/",
+      "title_zh": "AI 竞赛突然变得尴尬",
+      "created_display": "Created: Sep 30, 2026 / 08:50 PT",
+      "image_url": "https://insufferable.dev/insufferable-og.png",
+      "summary_en": "AI competition has hit an awkward moment where hype clashes with practical limits, safety, and governance. Companies push scale while grappling with data, compute costs, and credible benchmarks, underscoring the need for transparent metrics and responsible deployment.",
+      "summary_zh": "AI竞赛进入尴尬阶段，炒作与现实限制造成紧张局面。各方在追求规模的同时，需面对数据、算力成本与可信基准的挑战，强调需要更透明的评估标准与负责任的落地。",
+      "hn": {
+        "id": 49910553,
+        "type": "story",
+        "by": "allisdust",
+        "score": 397,
+        "descendants": 448,
+        "time": 1790783411,
+        "comments_url": "https://news.ycombinator.com/item?id=49910553"
+      },
+      "tags": [
+        "AI"
+      ],
+      "hot_score": 0.96
+    },
+    {
+      "title_en": "56k.rip – the 1996 dial-up internet experience",
+      "url": "https://56k.rip/",
+      "title_zh": "56k.rip：1996 年的拨号上网体验",
+      "created_display": "Created: Sep 30, 2026 / 15:08 PT",
+      "image_url": "https://56k.rip/og.png",
+      "summary_en": "56k.rip recreates the 1996 dial-up internet experience, presenting retro webpages, slow-loading content, and nostalgic design elements as an interactive archive. It offers a tangible lens into how bandwidth constraints shaped early web aesthetics and user expectations.",
+      "summary_zh": "56k.rip 以互动档案的形式再现 1996 年的拨号上网体验，呈现怀旧网页、缓慢加载和早期网络美学。它让人直观感受到带宽限制如何塑造了早期网页设计与用户期望。",
+      "hn": {
+        "id": 49915126,
+        "type": "story",
+        "by": "adunk",
+        "score": 249,
+        "descendants": 103,
+        "time": 1790806130,
+        "comments_url": "https://news.ycombinator.com/item?id=49915126"
+      },
+      "tags": [
+        "Web",
+        "Culture"
+      ],
+      "hot_score": 0.94
+    },
+    {
+      "title_en": "Livenerf: Has Opus 5.5 been nerfed yet?",
+      "url": "https://github.com/ninjahawk/livenerf",
+      "title_zh": "Livenerf：Opus 5.5 是否已经被削弱？",
+      "created_display": "Created: Sep 29, 2026 / 15:36 PT",
+      "image_url": "https://opengraph.githubassets.com/fbd7280f451b85ef48ce76fcde4a94b3ba914cc227dddbc33830247c74c74d82/ninjahawk/livenerf",
+      "summary_en": "A quick take on whether Opus 5.5 has been nerfed, including patch notes and community sentiment.",
+      "summary_zh": "对 Opus 5.5 是否被削弱进行快速解读，结合补丁记录与社区情绪。",
+      "hn": {
+        "id": 49901736,
+        "type": "story",
+        "by": "bryan0",
+        "score": 908,
+        "descendants": 386,
+        "time": 1790721374,
+        "comments_url": "https://news.ycombinator.com/item?id=49901736"
+      },
+      "tags": [
+        "Programming"
+      ],
+      "hot_score": 0.93
+    },
+    {
+      "title_en": "A brief history of the Bloomberg terminal",
+      "url": "https://spectrum.ieee.org/bloomberg-terminal",
+      "title_zh": "彭博终端的简史",
+      "created_display": "Created: Sep 30, 2026 / 07:34 PT",
+      "image_url": "https://spectrum.ieee.org/media-library/image.jpg?id=67857174&width=1200&height=600&coordinates=0%2C50%2C0%2C50",
+      "summary_en": "The Bloomberg Terminal revolutionized finance by bundling real-time market data, trading tools, and messaging into a single terminal. The piece traces its origins in the 1980s, its enduring business model, and how it shaped data licensing and professional workflows.",
+      "summary_zh": "彭博终端自1980年代起就把实时市场数据、交易工具和通讯功能打包到一个设备中，彻底改变金融行业的工作流程与信息获取方式。文章回顾其发展历程、持久的商业模式，以及对数据授权和专业工作流的深远影响。",
+      "hn": {
+        "id": 49909583,
+        "type": "story",
+        "by": "rbanffy",
+        "score": 368,
+        "descendants": 156,
+        "time": 1790778847,
+        "comments_url": "https://news.ycombinator.com/item?id=49909583"
+      },
+      "tags": [
+        "Finance",
+        "Business"
+      ],
+      "hot_score": 0.82
+    },
+    {
+      "title_en": "Before pixels: Modular industrial dashboards",
+      "url": "https://unsung.aresluna.org/before-pixels-modular-industrial-dashboards/",
+      "title_zh": "像素前的模块化工业仪表板",
+      "created_display": "Created: Sep 30, 2026 / 11:49 PT",
+      "image_url": "https://unsung.aresluna.org/_media/before-pixels-modular-industrial-dashboards/ogimage.jpg",
+      "summary_en": "Before pixels argues for modular, data-driven dashboards in industrial settings, arguing that composable UI components beat pixel-perfect, one-off dashboards.",
+      "summary_zh": "文章主张在工业场景中采用模块化、数据驱动的仪表板，以替代追求像素级完美的单一界面。通过讨论如何将传感器数据、设备遥测和分析组件解耦组合，提升操作员的可视性和系统鲁棒性。",
+      "hn": {
+        "id": 49912792,
+        "type": "story",
+        "by": "leephillips",
+        "score": 267,
+        "descendants": 47,
+        "time": 1790794146,
+        "comments_url": "https://news.ycombinator.com/item?id=49912792"
+      },
+      "tags": [
+        "Design",
+        "Data"
+      ],
+      "hot_score": 0.78
+    },
+    {
+      "title_en": "September 2026: The world today, as seen by one Polish guy",
+      "url": "https://tomwojcik.com/posts/2026-09-21/september-2026-the-world-today/",
+      "title_zh": "2026年9月：一个波兰人眼中的世界",
+      "created_display": "Created: Sep 30, 2026 / 00:12 PT",
+      "image_url": "https://tomwojcik.com/og/september-2026-the-world-today.jpg",
+      "summary_en": "From a Polish vantage point, the post surveys how September 2026 reshapes tech policy, AI adoption, and global power dynamics. It blends on-the-ground observations with macro signals about EU regulation and startup funding. The takeaway is a cautious view of where innovation and geopolitics intersect.",
+      "summary_zh": "从波兰视角出发，文章梳理了2026年9月全球科技政策、AI采用与地缘政治格局的变化。结合实地观察与宏观信号，分析欧盟监管与初创资金的趋势。核心在于警觉地看待创新与地缘政治如何交汇。",
+      "hn": {
+        "id": 49905487,
+        "type": "story",
+        "by": "marjancek",
+        "score": 502,
+        "descendants": 379,
+        "time": 1790752351,
+        "comments_url": "https://news.ycombinator.com/item?id=49905487"
+      },
+      "tags": [
+        "Politics",
+        "Startups",
+        "AI"
+      ],
+      "hot_score": 0.75
+    },
+    {
+      "title_en": "Singapore govt dating app uses Gale-Shapley stable marriage algorithm",
+      "url": "https://twitter.com/tuakdotsol/status/2105105417760391258",
+      "title_zh": "新加坡政府的约会应用采用稳定婚配算法（Gale-Shapley）",
+      "created_display": "Created: Sep 30, 2026 / 02:27 PT",
+      "image_url": "https://pbs.twimg.com/profile_images/1996014367368966144/78LfGHq7_400x400.jpg",
+      "summary_en": "Singapore's government dating app uses the Gale-Shapley stable marriage algorithm to optimize matches. The approach raises questions about privacy, consent, and fairness in algorithmic matchmaking while illustrating how formal matching theory can inform consumer apps.",
+      "summary_zh": "新加坡政府的交友应用采用稳定婚配算法（Gale-Shapley）来优化配对。该做法引发关于隐私、同意和算法公平性的讨论，同时展示了正式匹配理论在消费级应用中的应用潜力。",
+      "hn": {
+        "id": 49906432,
+        "type": "story",
+        "by": "rzk",
+        "score": 435,
+        "descendants": 439,
+        "time": 1790760424,
+        "comments_url": "https://news.ycombinator.com/item?id=49906432"
+      },
+      "tags": [
+        "Politics",
+        "Privacy"
+      ],
+      "hot_score": 0.73
+    },
+    {
+      "title_en": "Surprisingly complex waves reveal the brain's inner workings",
+      "url": "https://www.quantamagazine.org/surprisingly-complex-waves-reveal-the-brains-inner-workings-20260930/",
+      "title_zh": "令人惊讶地复杂的脑波揭示大脑内部运作",
+      "created_display": "Created: Sep 30, 2026 / 12:04 PT",
+      "image_url": "https://www.quantamagazine.org/wp-content/uploads/2026/09/Thought-Geometry-cr.Mark-Belan-Social.jpg",
+      "summary_en": "New measurements reveal brain activity exhibits surprisingly complex, multi-scale waves, challenging simple models of neural function. The finding reshapes how we model cognition, interpret neuroimaging, and design AI inspired by brain dynamics.",
+      "summary_zh": "新测量揭示大脑活动呈现出出乎意料的复杂、多尺度波动，挑战了简单的神经功能模型。这一发现将影响对认知建模、神经影像解读，以及受脑动力学启发的 AI 设计。",
+      "hn": {
+        "id": 49912955,
+        "type": "story",
+        "by": "ibobev",
+        "score": 242,
+        "descendants": 92,
+        "time": 1790795090,
+        "comments_url": "https://news.ycombinator.com/item?id=49912955"
+      },
+      "tags": [
+        "Science",
+        "AI"
+      ],
+      "hot_score": 0.72
+    },
+    {
+      "title_en": "EDG C++ front-end goes public",
+      "url": "https://edgcpp.org/#transition",
+      "title_zh": "EDG C++ 前端公开发布",
+      "created_display": "Created: Sep 30, 2026 / 12:26 PT",
+      "image_url": "https://edgcpp.org/assets/img/logo.gif",
+      "summary_en": "EDG's C++ front-end has been made public, opening access to mature parsing and semantic-analysis tooling. The release could influence compiler development and language tooling, lowering barriers for research and experimentation with C++ front-end technology.",
+      "summary_zh": "EDG 的 C++ 前端公开发布，向开发者开放了成熟的语法分析与语义分析工具链。这一举动可能改变编译器工具生态，降低研究与试验 C++ 前端技术的门槛。",
+      "hn": {
+        "id": 49913192,
+        "type": "story",
+        "by": "iandinwoodie",
+        "score": 236,
+        "descendants": 123,
+        "time": 1790796397,
+        "comments_url": "https://news.ycombinator.com/item?id=49913192"
+      },
+      "tags": [
+        "Programming",
+        "Open Source"
+      ],
+      "hot_score": 0.72
+    },
+    {
+      "title_en": "The last time my family was replaced by technology",
+      "url": "https://manuel.darcemont.fr/posts/the-last-time-my-family-was-replaced-by-technology/",
+      "title_zh": "科技替代家人：我的家人经历的那一次",
+      "created_display": "Created: Sep 30, 2026 / 06:06 PT",
+      "image_url": null,
+      "summary_en": "A personal reflection on how technology reshaped family life, perhaps displacing in-person interactions with screens. It explores balancing tech use with meaningful togetherness and the bittersweet costs of always-on connectivity.",
+      "summary_zh": "对科技如何改变家庭生活的个人反思，描述屏幕替代了面对面互动的场景。探讨在始终在线的便利与陪伴质量之间寻找平衡，以及数字化带来的成本。",
+      "hn": {
+        "id": 49908394,
+        "type": "story",
+        "by": "megalomanu",
+        "score": 309,
+        "descendants": 602,
+        "time": 1790773571,
+        "comments_url": "https://news.ycombinator.com/item?id=49908394"
+      },
+      "tags": [
+        "Culture"
+      ],
+      "hot_score": 0.63
+    },
+    {
+      "title_en": "5x faster Edge Functions: V8 isolates to Firecracker MicroVMs",
+      "url": "https://www.netlify.com/blog/edge-functions-firecracker-microvms/",
+      "title_zh": "5倍加速的边缘函数：从 V8 isolates 到 Firecracker 微VM",
+      "created_display": "Created: Sep 30, 2026 / 11:17 PT",
+      "image_url": "https://www.netlify.com/images/blog/edge-functions-firecracker-microvms.png",
+      "summary_en": "Netlify’s edge runtime shift uses Firecracker microVMs to isolate functions, delivering roughly 5x faster cold-starts and improved security compared with V8 isolates. The move signals a broader trend toward stronger isolation at the edge without sacrificing latency.",
+      "summary_zh": "Netlify 将边缘函数从 V8 isolates 迁移到 Firecracker 微VM，带来约 5 倍的冷启动加速与更好的隔离性。此举反映了在边缘计算中以更强隔离换取低延迟的一股趋势。",
+      "hn": {
+        "id": 49912444,
+        "type": "story",
+        "by": "jbott",
+        "score": 219,
+        "descendants": 96,
+        "time": 1790792265,
+        "comments_url": "https://news.ycombinator.com/item?id=49912444"
+      },
+      "tags": [
+        "DevOps",
+        "Security"
+      ],
+      "hot_score": 0.62
+    },
+    {
+      "title_en": "Halfspace experimental IDE for solid modeling with distance fields",
+      "url": "https://www.mattkeeter.com/projects/halfspace/",
+      "title_zh": "Halfspace：用于距离场的实验性实体建模集成开发环境",
+      "created_display": "Created: Sep 30, 2026 / 12:44 PT",
+      "image_url": "https://mattkeeter.com/projects/halfspace/hero@2x.png",
+      "summary_en": "Halfspace offers an experimental IDE for solid modeling built around distance fields, enabling intuitive sculpting and real-time feedback on geometry. The project hints at a future where distance-field representations power more accessible CAD workflows and robust blending operations.",
+      "summary_zh": "Halfspace 提供一个以距离场为核心的实验性实体建模集成开发环境，支持直观的造型和几何的实时反馈。该项目显示距离场表示在 CAD 工作流中提升建模体验和布尔运算鲁棒性的潜力。",
+      "hn": {
+        "id": 49913350,
+        "type": "story",
+        "by": "luu",
+        "score": 178,
+        "descendants": 10,
+        "time": 1790797477,
+        "comments_url": "https://news.ycombinator.com/item?id=49913350"
+      },
+      "tags": [
+        "Programming"
+      ],
+      "hot_score": 0.56
+    },
+    {
+      "title_en": "Launch HN: Magnitude (YC S25) – Self-optimizing inference engine for agents",
+      "url": "https://github.com/magnitudedev/magnitude",
+      "title_zh": "Launch HN: Magnitude (YC S25) – 面向代理的自我优化推理引擎",
+      "created_display": "Created: Sep 30, 2026 / 10:37 PT",
+      "image_url": "https://opengraph.githubassets.com/d70d026bb4ca3be6138ce22fadec5cce517bd0509eb6f0f5554e86217fbe0e78/magnitudedev/magnitude",
+      "summary_en": "Magnitude is a self-optimizing inference engine designed for agents, automatically tuning runtimes and workloads to boost performance and efficiency. It sits at the intersection of AI agent frameworks and efficient inference, promising to reduce manual tuning and hardware waste. Backed by YC S25, it signals growing interest in tooling for autonomous agents.",
+      "summary_zh": "Magnitude 是一个面向代理的自我优化推理引擎，能够自动调参以提升推理性能和能效，减少人工调优工作。它处在 AI 代理框架与高效推理技术的交汇处，代表了为自走代理提升算力利用率的一条新路径。由 YC S25 支持，反映了对自动化代理工具的热切关注。",
+      "hn": {
+        "id": 49911995,
+        "type": "story",
+        "by": "anerli",
+        "score": 187,
+        "descendants": 92,
+        "time": 1790789860,
+        "comments_url": "https://news.ycombinator.com/item?id=49911995"
+      },
+      "tags": [
+        "AI",
+        "Hardware",
+        "Startups"
+      ],
+      "hot_score": 0.51
+    },
+    {
+      "title_en": "What TLA+ can and can't check",
+      "url": "https://buttondown.com/hillelwayne/archive/what-tla-can-and-cant-check/",
+      "title_zh": "TLA+ 能检查什么、不能检查什么",
+      "created_display": "Created: Sep 30, 2026 / 06:57 PT",
+      "image_url": "https://image-generator.buttondown.email/api/emphasize-subject?subject=What%20TLA%2B%20can%20and%20can%27t%20check&author=Computer%20Things&date=2026-09-30&img=",
+      "summary_en": "TLA+ excels at modeling concurrent systems and proving invariants, but it can't verify all real-world properties that depend on timing, performance, or external systems. The piece underscores the discipline's limits and best practices for formal verification.",
+      "summary_zh": "TLA+ 在建模并发系统、证明不变性方面很强，但对依赖时间、性能或外部系统的现实属性并非全能。文章强调了形式化验证的边界与最佳实践。",
+      "hn": {
+        "id": 49909056,
+        "type": "story",
+        "by": "b-man",
+        "score": 225,
+        "descendants": 47,
+        "time": 1790776626,
+        "comments_url": "https://news.ycombinator.com/item?id=49909056"
+      },
+      "tags": [
+        "Programming"
+      ],
+      "hot_score": 0.48
+    },
+    {
+      "title_en": "Why Is Sam Altman a Free Man?",
+      "url": "https://prospect.org/2026/09/29/artificial-intelligence-agents-openai-microsoft-sam-altman-greg-brockman-ah-nice/",
+      "title_zh": "为什么萨姆·奥特曼是个自由人？",
+      "created_display": "Created: Sep 30, 2026 / 00:32 PT",
+      "image_url": "https://i0.wp.com/prospect.org/wp-content/uploads/2026/09/1-1.jpg?fit=2000%2C1500&ssl=1",
+      "summary_en": "The column questions why Sam Altman is perceived as a free man amid OpenAI, Microsoft, and regulatory pressures. It argues that autonomy for leaders in AI circles has implications for accountability, governance, and innovation strategy.",
+      "summary_zh": "文章探讨在 OpenAI、微软及监管压力环境下，为什么萨姆·奥特曼被视为自由人。作者认为 AI 行业领军人物的自主性对问责、治理与创新策略具有深远影响。",
+      "hn": {
+        "id": 49905633,
+        "type": "story",
+        "by": "ragall",
+        "score": 263,
+        "descendants": 233,
+        "time": 1790753560,
+        "comments_url": "https://news.ycombinator.com/item?id=49905633"
+      },
+      "tags": [
+        "Politics",
+        "AI"
+      ],
+      "hot_score": 0.4
+    },
+    {
+      "title_en": "LinkedIn Larpmaxxing",
+      "url": "https://hereticpleb.vercel.app/blog/linkedin-larpmaxxing/",
+      "title_zh": "LinkedIn 的 Larpmaxxing：职业社交平台上的角色扮演",
+      "created_display": "Created: Sep 29, 2026 / 21:19 PT",
+      "image_url": "https://hereticpleb.vercel.app/og-image.jpg",
+      "summary_en": "A sharp takedown of performative persona-building on LinkedIn, analyzing how people curate professional identities and the social incentives that drive it. It argues for more authentic networking and critical consumption of online profiles.",
+      "summary_zh": "尖锐批评 LinkedIn 上的表演性自我塑造现象，分析人们如何精心策划职业形象以及背后的社会激励。主张更真实的社交与对线上个人资料的批判性消费。",
+      "hn": {
+        "id": 49904314,
+        "type": "story",
+        "by": "BurnerBurner",
+        "score": 288,
+        "descendants": 228,
+        "time": 1790741997,
+        "comments_url": "https://news.ycombinator.com/item?id=49904314"
+      },
+      "tags": [
+        "Culture"
+      ],
+      "hot_score": 0.38
+    },
+    {
+      "title_en": "Most data centers refusing to say how much water, electricity they use",
+      "url": "https://nltimes.nl/2026/09/30/data-centers-refusing-say-much-water-electricity-use",
+      "title_zh": "多数数据中心拒绝披露用水与用电量",
+      "created_display": "Created: Sep 30, 2026 / 03:49 PT",
+      "image_url": "https://nltimes.nl/sites/nltimes.nl/files/styles/news_article_full_desktop_2x/public/2021-02/Depositphotos_10350154_l-2015.jpg?h=4997dc06",
+      "summary_en": "The piece reports that most data centers refuse to disclose water and electricity usage, complicating environmental accountability. Heightened scrutiny from regulators and investors is pushing for standardized metrics and transparent reporting. The lack of disclosure could affect sustainability initiatives and public trust.",
+      "summary_zh": "报道指出多数数据中心拒绝披露用水和用电量，增加了环境问责的复杂性。监管机构和投资者对标准化指标与透明披露的关注在上升，缺乏披露可能影响可持续发展计划和公众信任。",
+      "hn": {
+        "id": 49907057,
+        "type": "story",
+        "by": "Thom2503",
+        "score": 213,
+        "descendants": 197,
+        "time": 1790765372,
+        "comments_url": "https://news.ycombinator.com/item?id=49907057"
+      },
+      "tags": [
+        "Energy",
+        "Politics"
+      ],
+      "hot_score": 0.38
+    },
+    {
+      "title_en": "America.gov goes crazy on \"play Minecraft\"",
+      "url": "https://america.gov/chat",
+      "title_zh": "America.gov 极力推广玩 Minecraft",
+      "created_display": "Created: Sep 30, 2026 / 12:34 PT",
+      "image_url": null,
+      "summary_en": "America.gov highlights Minecraft as an educational and engagement tool, exploring how the government uses the game to teach tech skills and support digital civics. The piece touches on policy messaging and public outreach strategies.",
+      "summary_zh": "America.gov 将 Minecraft 作为教育与公众参与工具进行推广，探讨政府如何通过该游戏教授技术技能并支持数字公民教育。文章还涉及相关的政策传递与公众 outreach 策略。",
+      "hn": {
+        "id": 49913255,
+        "type": "story",
+        "by": "thoughtfullyso",
+        "score": 122,
+        "descendants": 49,
+        "time": 1790796843,
+        "comments_url": "https://news.ycombinator.com/item?id=49913255"
+      },
+      "hot_score": 0.38,
+      "tags": [
+        "Education",
+        "Politics"
+      ]
+    },
+    {
+      "title_en": "SDF vs. MSDF vs. Slug: GPU Text Rendering",
+      "url": "https://alphapixeldev.com/sdf-vs-msdf-vs-slug-vs-rive-gpu-text-rendering/",
+      "title_zh": "GPU 字体渲染：SDF、MSDF、Slug 对比",
+      "created_display": "Created: Sep 30, 2026 / 06:50 PT",
+      "image_url": "https://alphapixeldev.com/wp-content/uploads/2026/09/slughorn-vs-sdf-msdf-rive-grazing-perspective.png",
+      "summary_en": "The post compares SDF, MSDF, Slug, and Rive approaches for GPU-based text rendering, highlighting how multi-channel signed distance fields reduce blurriness and improve edge sharpness across fonts. It discusses tradeoffs in atlas size, preprocessing, and runtime performance.",
+      "summary_zh": "文章对比了 SDF、MSDF、Slug 与 Rive 在 GPU 字体渲染中的差异，指出多通道 Signed Distance Fields 如何提升字体边缘锐度与一致性。并讨论了图集大小、预处理和运行时性能等权衡。",
+      "hn": {
+        "id": 49908962,
+        "type": "story",
+        "by": "ibobev",
+        "score": 171,
+        "descendants": 68,
+        "time": 1790776250,
+        "comments_url": "https://news.ycombinator.com/item?id=49908962"
+      },
+      "tags": [
+        "Programming",
+        "Hardware"
+      ],
+      "hot_score": 0.36
+    },
+    {
+      "title_en": "Show HN: Real-time Solar System with 526k asteroids and all tracked satellites",
+      "url": "https://space.bl2.net/",
+      "title_zh": "Real-time Solar System：526千颗小行星及全部已追踪卫星可视化",
+      "created_display": "Created: Sep 29, 2026 / 12:08 PT",
+      "image_url": null,
+      "summary_en": "A real-time visualization of the solar system now includes 526,000 asteroids and all tracked satellites, offering a data-rich, interactive view of orbital dynamics. The tool provides an accessible way to explore space traffic and resonances in real time.",
+      "summary_zh": "实时可视化的太阳系现在包含52.6万颗小行星和所有在轨卫星，提供一个数据丰富、可交互的轨道动力学视图。该工具让用户能够实时体验太空交通与共振现象的直观展现。",
+      "hn": {
+        "id": 49898778,
+        "type": "story",
+        "by": "wanick",
+        "score": 392,
+        "descendants": 106,
+        "time": 1790708881,
+        "comments_url": "https://news.ycombinator.com/item?id=49898778"
+      },
+      "tags": [
+        "Show HN",
+        "Space",
+        "Energy"
+      ],
+      "hot_score": 0.35
+    },
+    {
+      "title_en": "OpenDLSS: A Vulkan Reimplementation of Nvidia's DLSS 5 Neural Rendering Network",
+      "url": "https://github.com/maanHimself/OpenDLSS-NR",
+      "title_zh": "OpenDLSS-NR：基于 Vulkan 的 Nvidia DLSS 5 神经渲染网络实现",
+      "created_display": "Created: Sep 30, 2026 / 01:43 PT",
+      "image_url": "https://opengraph.githubassets.com/7afbcbfe098a0d39a07d308edad004db1d3bdef7387697070ba80cf6ae6c446d/maanHimself/OpenDLSS-NR",
+      "summary_en": "OpenDLSS-NR is a Vulkan-based open-source reimplementation of Nvidia's DLSS 5 neural rendering network, aiming to bring similar upscaling quality to a wider set of GPUs. If successful, it could empower developers to integrate neural upscaling into Vulkan apps without relying on Nvidia's stack, but performance and fidelity benchmarks remain uncertain.",
+      "summary_zh": "OpenDLSS-NR 是基于 Vulkan 的 Nvidia DLSS 5 神经渲染网络的开源实现，目标是在更广泛的硬件上提供类似的超分辨能力。若成熟可让开发者在 Vulkan 应用中实现神经上采样，而不必依赖 Nvidia 的专有栈，但性能和画质的基准仍在发展中。",
+      "hn": {
+        "id": 49906100,
+        "type": "story",
+        "by": "sagacity",
+        "score": 220,
+        "descendants": 102,
+        "time": 1790757801,
+        "comments_url": "https://news.ycombinator.com/item?id=49906100"
+      },
+      "tags": [
+        "AI",
+        "Open Source"
+      ],
+      "hot_score": 0.35
+    },
+    {
+      "title_en": "Vermont replacing power plants with home batteries",
+      "url": "https://www.bbc.com/future/article/20260928-a-virtual-power-plant-hidden-in-vermont-homes-is-keeping-the-lights-on-during-storms",
+      "title_zh": "佛蒙特州以家庭电池取代发电厂",
+      "created_display": "Created: Sep 29, 2026 / 11:19 PT",
+      "image_url": "https://ychef.files.bbci.co.uk/624x351/p0pczkzt.jpg",
+      "summary_en": "Vermont is replacing centralized power plants with a distributed network of home batteries forming a virtual power plant that keeps the lights on during outages. This approach shows how residential storage can stabilize grids and scale with adoption.",
+      "summary_zh": "佛蒙特州通过家庭电池组成分布式虚拟电厂，在停电时维持供电。此举展示了家庭储能如何稳定电网、并随普及度提升具备扩展性。",
+      "hn": {
+        "id": 49897993,
+        "type": "story",
+        "by": "devonnull",
+        "score": 378,
+        "descendants": 295,
+        "time": 1790705942,
+        "comments_url": "https://news.ycombinator.com/item?id=49897993"
+      },
+      "tags": [
+        "Energy"
+      ],
+      "hot_score": 0.33
+    },
+    {
+      "title_en": "Commit description as a thinking tool",
+      "url": "https://yedhu.me/posts/commit-description-as-a-thinking-tool/",
+      "title_zh": "将提交描述作为思考工具",
+      "created_display": "Created: Sep 30, 2026 / 10:18 PT",
+      "image_url": null,
+      "summary_en": "Using commit descriptions as a thinking tool reframes code reasoning as a sequence of explainable steps. The approach helps developers externalize decisions, surface assumptions, and guide debugging and refactoring.",
+      "summary_zh": "把提交描述当作思考工具，将代码推理外化为可解释的步骤序列。这样做可以帮助开发者把决策、假设暴露出来，指引调试和重构的方向。",
+      "hn": {
+        "id": 49911757,
+        "type": "story",
+        "by": "yedhukrishnan",
+        "score": 127,
+        "descendants": 75,
+        "time": 1790788693,
+        "comments_url": "https://news.ycombinator.com/item?id=49911757"
+      },
+      "tags": [
+        "Programming"
+      ],
+      "hot_score": 0.33
+    },
+    {
+      "title_en": "Tcl/Tk 9.1",
+      "url": "https://www.tcl-lang.org/software/tcltk/9.1.html",
+      "title_zh": "Tcl/Tk 9.1 发布",
+      "created_display": "Created: Sep 29, 2026 / 10:13 PT",
+      "image_url": "https://www.tcl-lang.org/images/logo.png",
+      "summary_en": "Tcl/Tk 9.1 brings incremental improvements to both the scripting language and the Tk GUI toolkit, focusing on stability and cross-platform consistency. Developers can expect better packaging, refreshed widgets, and smoother interoperability with modern runtimes. The update reinforces Tcl/Tk’s role for lightweight, scriptable desktop UIs.",
+      "summary_zh": "Tcl/Tk 9.1 在脚本语言与 Tk GUI 工具包上带来渐进改进，重点提升稳定性和跨平台一致性。开发者将享受更好的打包、更新的控件以及与现代运行时的更好互操作性。更新强化了 Tcl/Tk 在轻量化、可脚本化桌面 UI 领域的地位。",
+      "hn": {
+        "id": 49896712,
+        "type": "story",
+        "by": "dmux",
+        "score": 301,
+        "descendants": 143,
+        "time": 1790702018,
+        "comments_url": "https://news.ycombinator.com/item?id=49896712"
+      },
+      "tags": [
+        "Programming"
+      ],
+      "hot_score": 0.25
+    },
+    {
+      "title_en": "U.S. postal inspectors shut down website selling counterfeit postage labels",
+      "url": "https://postalemployeenetwork.com/news/2026/09/26/u-s-postal-inspectors-shut-down-website-selling-millions-of-counterfeit-postage-labels/",
+      "title_zh": "美国邮政检查人员关闭销售假冒邮资标签的网站",
+      "created_display": "Created: Sep 29, 2026 / 12:30 PT",
+      "image_url": "https://postalemployeenetwork.com/news/wp-content/uploads/2026/03/USPIS-small-150x150.jpg",
+      "summary_en": "U.S. postal inspectors shut down a website selling counterfeit postage labels, likely ending a supply chain that could enable mail fraud on a large scale. The action underscores ongoing fraud risks in logistics and the importance of enforcement across digital storefronts. This case illustrates how counterfeit materials can affect revenue and trust in postal services.",
+      "summary_zh": "美国邮政检查人员关闭了一个销售假冒邮资标签的网站，打断了可能用于大规模邮件欺诈的供应链。此举凸显物流领域持续存在的欺诈风险，以及对数字商店加强执法的必要性。此事揭示了假标签如何影响邮政服务的收入与信任。",
+      "hn": {
+        "id": 49899090,
+        "type": "story",
+        "by": "ilamont",
+        "score": 277,
+        "descendants": 168,
+        "time": 1790710217,
+        "comments_url": "https://news.ycombinator.com/item?id=49899090"
+      },
+      "tags": [
+        "Legal",
+        "Business"
+      ],
+      "hot_score": 0.25
+    },
+    {
+      "title_en": "GLM-5.3 and the spread of advanced cyber capabilities",
+      "url": "https://www.anthropic.com/research/glm-5-3-and-the-spread-of-advanced-cyber-capabilities",
+      "title_zh": "GLM-5.3与高级网络能力的扩散",
+      "created_display": "Created: Sep 29, 2026 / 10:31 PT",
+      "image_url": "https://www-cdn.anthropic.com/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
+      "summary_en": "GLM-5.3 accelerates the spread of powerful cyber capabilities by lowering access barriers to advanced AI tools. This democratization can boost security research but also enable misuse, underscoring the need for safety controls, auditing, and responsible deployment.",
+      "summary_zh": "GLM-5.3降低了获取强大网络能力的门槛，促使先进的网络能力更广泛地传播。该研究揭示这种“民主化”可能带来安全研究机会，也可能放大滥用风险，强调需要更严格的安全控制、审计与负责任的部署。",
+      "hn": {
+        "id": 49897075,
+        "type": "story",
+        "by": "Philpax",
+        "score": 249,
+        "descendants": 233,
+        "time": 1790703086,
+        "comments_url": "https://news.ycombinator.com/item?id=49897075"
+      },
+      "tags": [
+        "AI",
+        "Security"
+      ],
+      "hot_score": 0.21
+    },
+    {
+      "title_en": "Tesla takes on $30B in credit as it approaches unprofitability",
+      "url": "https://electrek.co/2026/09/29/tesla-takes-on-30-billion-in-credit-as-it-approaches-unprofitability/",
+      "title_zh": "特斯拉在盈利困境边缘时获批300亿美元信贷",
+      "created_display": "Created: Sep 29, 2026 / 21:37 PT",
+      "image_url": "https://electrek.co/wp-content/uploads/sites/3/2025/05/Elon-Musk-Tesla-Money-hero.png?resize=1200,628",
+      "summary_en": "Tesla arranges about $30 billion in credit facilities as it approaches profitability challenges, illustrating ongoing financing needs amid aggressive capital expenditure for scaling. The move underscores how automakers rely on debt markets during high-capital phases.",
+      "summary_zh": "特斯拉在盈利能力趋紧之际获得约300亿美元的信贷，凸显在扩张与高资本开支阶段对融资的持续需求。这反映出汽车厂商在高资本阶段对债务市场的依赖。",
+      "hn": {
+        "id": 49904408,
+        "type": "story",
+        "by": "ciconia",
+        "score": 156,
+        "descendants": 217,
+        "time": 1790743057,
+        "comments_url": "https://news.ycombinator.com/item?id=49904408"
+      },
+      "hot_score": 0.21,
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "title_en": "AI needs $6T in annual revenue to justify data centre boom",
+      "url": "https://www.thenationalnews.com/future/technology/2026/09/29/ai-industry-needs-to-earn-6-trillion-by-2031-to-justify-data-centres/",
+      "title_zh": "AI行业需要6万亿美元年度营收以支撑数据中心热潮",
+      "created_display": "Created: Sep 29, 2026 / 12:21 PT",
+      "image_url": "https://www.thenationalnews.com/resizer/v2/AF2G77RA6A5SI26KUSHKI23WN4.jpg?auth=ecf4aabd37ddc7f9130f7d84174c84eed6ab9343d667ed95d2b8731b313ddfd0&smart=true&width=1200&height=630",
+      "summary_en": "AI-driven workloads are expected to justify a six-trillion-dollar annual revenue by 2031 to sustain data-center growth. The story explains how scaling AI demand, efficiency gains, and new business models must offset energy and infrastructure costs, or the hyperscale boom may stall.",
+      "summary_zh": "AI相关的数据中心需求正在以2031年前实现每年约6万亿美元的营收来支撑扩张。文章指出，AI工作负载、效率提升和新商业模式若不能抵消能源、降温和算力成本，数据中心扩张可能放缓。",
+      "hn": {
+        "id": 49898952,
+        "type": "story",
+        "by": "Betelbuddy",
+        "score": 221,
+        "descendants": 330,
+        "time": 1790709685,
+        "comments_url": "https://news.ycombinator.com/item?id=49898952"
+      },
+      "tags": [
+        "Business",
+        "AI",
+        "DevOps",
+        "Energy"
+      ],
+      "hot_score": 0.2
+    },
+    {
+      "title_en": "Show HN: Ledge.sh – Runnable Markdown Notes",
+      "url": "https://ledge.sh",
+      "title_zh": "Show HN：Ledge.sh——可运行的 Markdown 笔记",
+      "created_display": "Created: Sep 29, 2026 / 16:41 PT",
+      "image_url": "https://ledge.sh/og.png",
+      "summary_en": "Show HN: Ledge.sh lets you write Markdown notes with runnable code blocks, enabling reproducible demos directly in docs. Great for sharing experiments, tutorials, and live data in a lightweight format.",
+      "summary_zh": "Show HN：Ledge.sh 让你在 Markdown 笔记中编写可运行的代码块，直接在文档中实现可复现的演示。非常适合分享实验、教程和实时数据，且格式轻量。",
+      "hn": {
+        "id": 49902382,
+        "type": "story",
+        "by": "dancablam",
+        "score": 189,
+        "descendants": 84,
+        "time": 1790725294,
+        "comments_url": "https://news.ycombinator.com/item?id=49902382"
+      },
+      "tags": [
+        "Show HN",
+        "Programming"
+      ],
+      "hot_score": 0.2
+    },
+    {
+      "title_en": "Doing a Machine Learning PhD While Working in Japan",
+      "url": "https://www.tokyodev.com/articles/doing-a-machine-learning-phd-while-working-in-japan",
+      "title_zh": "在日本工作同时攻读机器学习博士",
+      "created_display": "Created: Sep 30, 2026 / 00:33 PT",
+      "image_url": "https://assets.tokyodev.com/tokyodev-production-r2/trgdy4b7dep5198hufqpthpvvldi",
+      "summary_en": "The piece chronicles navigating a machine-learning PhD while employed in Japan, touching on visa hurdles, work culture, and balancing research with full-time work. It offers pragmatic tips for remote collaboration, funding, and leveraging Japan’s research ecosystem.",
+      "summary_zh": "本文记录在日本工作同时攻读机器学习博士学位的经历，涉及签证、工作文化与研究与工作的平衡等挑战。给出在远程协作、资金获取以及利用日本研究生态方面的实用建议。",
+      "hn": {
+        "id": 49905644,
+        "type": "story",
+        "by": "pwim",
+        "score": 133,
+        "descendants": 43,
+        "time": 1790753625,
+        "comments_url": "https://news.ycombinator.com/item?id=49905644"
+      },
+      "tags": [
+        "Education",
+        "Career",
+        "AI"
+      ],
+      "hot_score": 0.2
+    },
+    {
+      "title_en": "ChatGPT Pro 500",
+      "url": "https://help.openai.com/en/articles/9793128-about-chatgpt-pro-tiers",
+      "title_zh": "ChatGPT Pro 500",
+      "created_display": "Created: Sep 29, 2026 / 10:26 PT",
+      "image_url": "https://help.openai.com/og-image.png",
+      "summary_en": "OpenAI clarifies the ChatGPT Pro tier lineup, detailing features, usage limits, and pricing considerations for premium subscribers. The overview helps users decide whether enhanced capabilities justify the cost.",
+      "summary_zh": "OpenAI 细化了 ChatGPT Pro 的分层结构，说明各层的功能、使用限制和定价要点。文章帮助用户理解在高阶订阅下可以获得的额外能力与成本。",
+      "hn": {
+        "id": 49896975,
+        "type": "story",
+        "by": "prodigycorp",
+        "score": 218,
+        "descendants": 264,
+        "time": 1790702787,
+        "comments_url": "https://news.ycombinator.com/item?id=49896975"
+      },
+      "tags": [
+        "Business",
+        "AI"
+      ],
+      "hot_score": 0.18
+    },
+    {
+      "title_en": "We’re forgetting what darkness feels like",
+      "url": "https://www.theguardian.com/environment/2026/sep/29/night-sky-darkness-city-regulation",
+      "title_zh": "我们正在忘记夜晚的黑暗",
+      "created_display": "Created: Sep 29, 2026 / 11:22 PT",
+      "image_url": "https://i.guim.co.uk/img/media/0d7db760638867c2e64a657cd7408dcd02a8af1f/519_0_5184_4148/master/5184.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3272627be719a709b035ddc693193521",
+      "summary_en": "The piece argues that modern life dims our experience of true darkness due to pervasive lighting, urging regulation or urban design changes to restore darker nights. It touches safety, ecology, and the tension between city life and starry skies.",
+      "summary_zh": "文章认为由于普遍的照明，现代生活让人错失真正的黑暗体验，呼吁通过法规或城市设计来恢复更黑的夜色，涉及安全与生态等议题。",
+      "hn": {
+        "id": 49898050,
+        "type": "story",
+        "by": "pseudolus",
+        "score": 204,
+        "descendants": 122,
+        "time": 1790706160,
+        "comments_url": "https://news.ycombinator.com/item?id=49898050"
+      },
+      "tags": [
+        "Culture",
+        "Politics"
+      ],
+      "hot_score": 0.18
+    },
+    {
+      "title_en": "RSS Feeds for Last.fm",
+      "url": "https://lfm.xiffy.nl/",
+      "title_zh": "Last.fm 的 RSS 源",
+      "created_display": "Created: Sep 29, 2026 / 20:00 PT",
+      "image_url": null,
+      "summary_en": "An update about providing RSS feeds for Last.fm, enabling users to subscribe to listening activity and updates via RSS for easy integration with dashboards and automation.",
+      "summary_zh": "介绍为 Last.fm 提供 RSS 源，使用户能够通过 RSS 订阅听歌活动与更新，便于与仪表盘和自动化工作流集成。",
+      "hn": {
+        "id": 49903862,
+        "type": "story",
+        "by": "Baljhin",
+        "score": 128,
+        "descendants": 48,
+        "time": 1790737205,
+        "comments_url": "https://news.ycombinator.com/item?id=49903862"
+      },
+      "hot_score": 0.16,
+      "tags": [
+        "Web"
+      ]
+    },
+    {
+      "title_en": "NRC issues first U.S. construction permit for a BWRX-300 small modular reactor",
+      "url": "https://www.gevernova.com/news/press-releases/nrc-issues-first-us-construction-permit-bwrx-300-small-modular-reactor-tva-clinch-river",
+      "title_zh": "NRC 颁发美国首张 BWRX-300 小型模块化反应堆建设许可",
+      "created_display": "Created: Sep 29, 2026 / 16:03 PT",
+      "image_url": "https://www.gevernova.com/news/sites/default/files/2026-09/tva-nrc-signing-09-29-2026_0.JPG",
+      "summary_en": "The NRC issued the first U.S. construction permit for a BWRX-300 small modular reactor, marking a milestone for SMR deployment. The project at TVA's Clinch River site exemplifies renewed interest in modular nuclear energy and tests licensing pathways.",
+      "summary_zh": "美国核规制委员会颁发了首张 BWRX-300 小型模块化反应堆建设许可，标志着美国微型反应堆部署迈出关键一步。田纳西河 TVA 的 Clinch River 项目体现了对模块化核能的重新关注，并测试了许可流程。",
+      "hn": {
+        "id": 49902019,
+        "type": "story",
+        "by": "papa-whisky",
+        "score": 140,
+        "descendants": 168,
+        "time": 1790723018,
+        "comments_url": "https://news.ycombinator.com/item?id=49902019"
+      },
+      "tags": [
+        "Energy"
+      ],
+      "hot_score": 0.15
+    },
+    {
+      "title_en": "Nicholas Polson has authored 258 academic papers in 2026 so far",
+      "url": "https://statmodeling.stat.columbia.edu/2026/08/27/258/",
+      "title_zh": "尼古拉斯·波尔森在2026年迄今已发表258篇学术论文",
+      "created_display": "Created: Sep 29, 2026 / 12:15 PT",
+      "image_url": null,
+      "summary_en": "Polson has already authored 258 papers in 2026, a blistering output that illustrates intense productivity in statistics and data science.",
+      "summary_zh": "截至2026年8月，尼古拉斯·波尔森已发表258篇学术论文，展现出极高的产出速度。文章讨论了这一节奏对学术文化、合作方式以及研究传播速度的影响。",
+      "hn": {
+        "id": 49898877,
+        "type": "story",
+        "by": "zaik",
+        "score": 151,
+        "descendants": 110,
+        "time": 1790709358,
+        "comments_url": "https://news.ycombinator.com/item?id=49898877"
+      },
+      "tags": [
+        "Science",
+        "Data"
+      ],
+      "hot_score": 0.14
+    },
+    {
+      "title_en": "How our vibe coded website looks like a designer made it",
+      "url": "https://railcode.dev/blog/vibe-coded-website",
+      "title_zh": "我们的 vibe-coded 网站看起来像设计师做的",
+      "created_display": "Created: Sep 29, 2026 / 15:59 PT",
+      "image_url": "https://railcode.dev/blog/vibe-coded-website/cover.jpg",
+      "summary_en": "A look at how a vibe-coded website achieves a designer-ready aesthetic through thoughtful CSS and layout decisions, offering practical tips on typography, spacing, and color without heavy tooling.",
+      "summary_zh": "本文展示了通过 vibe-coded 方法如何仅用精心的 CSS 和布局决策就打造出设计师水准的网页美感，分享排版、留白与配色等实用要点，且无需繁重工具。",
+      "hn": {
+        "id": 49901973,
+        "type": "story",
+        "by": "yakkomajuri",
+        "score": 133,
+        "descendants": 77,
+        "time": 1790722768,
+        "comments_url": "https://news.ycombinator.com/item?id=49901973"
+      },
+      "hot_score": 0.14,
+      "tags": [
+        "Design",
+        "Web"
+      ]
+    }
+  ]
+}

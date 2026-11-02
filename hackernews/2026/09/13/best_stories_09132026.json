@@ -1,0 +1,1169 @@
+{
+  "meta": {
+    "mode": "best",
+    "source": "https://news.ycombinator.com/",
+    "api": "https://github.com/HackerNews/API",
+    "count_requested": 50,
+    "count_written": 50,
+    "reused_same_day": 0,
+    "reused_cross_day": 15,
+    "new_llm_enriched": 12,
+    "scrape_time_display": "10:55, September 14, 2026 (PDT)",
+    "timezone": "America/Los_Angeles",
+    "date_dir": "2026/09/13",
+    "content_date": "2026-09-13",
+    "run_time_local": "10:55, September 14, 2026 (PDT)",
+    "run_time_utc": "2026-09-14 17:55:15 UTC",
+    "incremental": true,
+    "stories_max": 50,
+    "hot_score_time_utc": "2026-09-14 17:56:23 UTC"
+  },
+  "items": [
+    {
+      "title_en": "How to write an effective software design document",
+      "url": "https://refactoringenglish.com/excerpts/write-an-effective-design-doc/",
+      "title_zh": "如何撰写高效的软件设计文档",
+      "created_display": "Created: Sep 14, 2026 / 06:00 PT",
+      "image_url": "https://refactoringenglish.com/excerpts/write-an-effective-design-doc/og-cover.webp",
+      "summary_en": "A practical guide to design docs outlining purpose, audience, scope, architecture overview, key components, decisions log, tradeoffs, and acceptance criteria. The piece emphasizes keeping docs living, aligned with code, and clarifying rationale to speed up review and future changes.",
+      "summary_zh": "这篇实用指南列出撰写高效设计文档的要点，包括目标受众、范围、架构概览、关键组件和决策记录，以及权衡取舍与验收标准。文档应与实现对齐、可持续更新，以加速评审与后续变更。",
+      "hn": {
+        "id": 49696125,
+        "type": "story",
+        "by": "fagnerbrack",
+        "score": 244,
+        "descendants": 105,
+        "time": 1789390846,
+        "comments_url": "https://news.ycombinator.com/item?id=49696125"
+      },
+      "hot_score": 7.46,
+      "tags": [
+        "Programming",
+        "Design"
+      ]
+    },
+    {
+      "title_en": "XCancel suspended \"due to a new development in the ongoing legal proceedings\"",
+      "url": "https://xcancel.com/twitter",
+      "title_zh": "XCancel 因法律进展新发展暂停服务",
+      "created_display": "Created: Sep 14, 2026 / 05:05 PT",
+      "image_url": null,
+      "summary_en": "XCancel suspended again as new developments arise in ongoing legal proceedings. The move affects users relying on the service and underscores how legal shifts can ripple into enforcement-heavy platforms.",
+      "summary_zh": "XCancel 因正在进行的法律程序出现新进展再度暂停服务，影响依赖该服务的用户。此举也凸显法律变动对依赖执法与拦截功能平台的影响。",
+      "hn": {
+        "id": 49695459,
+        "type": "story",
+        "by": "unfocso",
+        "score": 267,
+        "descendants": 1,
+        "time": 1789387552,
+        "comments_url": "https://news.ycombinator.com/item?id=49695459"
+      },
+      "tags": [
+        "Legal"
+      ],
+      "hot_score": 6.53
+    },
+    {
+      "title_en": "New $100k H-1B visa fee pushes tech jobs offshore",
+      "url": "https://spectrum.ieee.org/h-1b-visa-us-government",
+      "title_zh": "新高额 H-1B 签证费推动科技岗位外流",
+      "created_display": "Created: Sep 14, 2026 / 07:09 PT",
+      "image_url": "https://spectrum.ieee.org/media-library/image.jpg?id=67709071&width=1200&height=600&coordinates=0%2C125%2C0%2C125",
+      "summary_en": "The U.S. has introduced a new $100k filing fee for H-1B petitions, lifting the cost of bringing foreign tech talent. The higher price could nudge employers toward offshore hiring or automation, with implications for the domestic tech workforce and innovation pipeline.",
+      "summary_zh": "美国对 H-1B 签证申请新增 10 万美元费用，显著提高雇佣外国技术人员的成本。更高的成本可能促使雇主将工作外包到海外或加速自动化，影响本土科技产业和创新链条。",
+      "hn": {
+        "id": 49697171,
+        "type": "story",
+        "by": "rbanffy",
+        "score": 142,
+        "descendants": 287,
+        "time": 1789394950,
+        "comments_url": "https://news.ycombinator.com/item?id=49697171"
+      },
+      "hot_score": 5.98,
+      "tags": [
+        "Business"
+      ]
+    },
+    {
+      "title_en": "Apple's Siri AI Can Be Swapped Out for Claude, ChatGPT, Code Shows",
+      "url": "https://www.macrumors.com/2026/09/14/siri-can-be-swapped-out-for-chatgpt-claude/",
+      "title_zh": "Siri 的后端可替换为 Claude/ChatGPT的演示",
+      "created_display": "Created: Sep 14, 2026 / 05:01 PT",
+      "image_url": "https://images.macrumors.com/t/HAbY2RBLL5aLJL0IJd9M8FyRpRE=/2500x/article-new/2026/06/macOS-iOS-27-Siri-App-Feature.jpg",
+      "summary_en": "Apple's Siri AI can be swapped out for Claude, ChatGPT, code shows reveals modular AI backend capabilities and raises questions about privacy, security, and platform openness.",
+      "summary_zh": "演示显示 Siri 的后端能力可换成 Claude 或 ChatGPT，暴露了模块化 AI 的潜力，同时也带来了隐私、安全与平台开放性方面的关注。",
+      "hn": {
+        "id": 49695409,
+        "type": "story",
+        "by": "tosh",
+        "score": 204,
+        "descendants": 133,
+        "time": 1789387292,
+        "comments_url": "https://news.ycombinator.com/item?id=49695409"
+      },
+      "tags": [
+        "AI",
+        "Privacy",
+        "Security",
+        "Web"
+      ],
+      "hot_score": 4.9
+    },
+    {
+      "title_en": "OpenAI bots knew about the RubyGems caching vulnerability",
+      "url": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/",
+      "title_zh": "OpenAI 系统早知 RubyGems 缓存漏洞",
+      "created_display": "Created: Sep 14, 2026 / 05:40 PT",
+      "image_url": "https://tenderlovemaking.com/images/logo1.png",
+      "summary_en": "The post argues OpenAI systems had awareness of a RubyGems caching vulnerability, illustrating how AI tools can absorb and potentially propagate software supply chain risks. The takeaway is that AI deployments must account for latent security knowledge and policy implications.",
+      "summary_zh": "文中主张 OpenAI 的系统对 RubyGems 的缓存漏洞有提前认知，揭示 AI 工具可能吸收并传播软件供应链风险。对 AI 部署而言，这强调需要将潜在安全知识与政策影响纳入考量。",
+      "hn": {
+        "id": 49695876,
+        "type": "story",
+        "by": "gregnavis",
+        "score": 170,
+        "descendants": 193,
+        "time": 1789389657,
+        "comments_url": "https://news.ycombinator.com/item?id=49695876"
+      },
+      "hot_score": 4.77,
+      "tags": [
+        "AI",
+        "Security"
+      ]
+    },
+    {
+      "title_en": "Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher",
+      "url": "https://www.vals.ai/blogs/fable-solves-cyphral-distich",
+      "title_zh": "Fable 5.1 破解370年前的 Cyphral Distich 密码",
+      "created_display": "Created: Sep 13, 2026 / 14:06 PT",
+      "image_url": "https://www.vals.ai/og.jpg",
+      "summary_en": "Fable 5.1 has cracked the Cyphral Distich, a cipher dating back three centuries. The reveal underscores how modern cryptographic tooling and collaborative puzzle solving can crack even long-standing cryptographic curiosities.",
+      "summary_zh": "Fable 5.1 终于破解了370年前的 Cyphral Distich 密码。此成就凸显现代密码学工具的成熟，以及长期未解之谜对密码学爱好者的持续吸引力。",
+      "hn": {
+        "id": 49688695,
+        "type": "story",
+        "by": "u1hcw9nx",
+        "score": 1155,
+        "descendants": 527,
+        "time": 1789333573,
+        "comments_url": "https://news.ycombinator.com/item?id=49688695"
+      },
+      "tags": [
+        "Science",
+        "Security"
+      ],
+      "hot_score": 4.14
+    },
+    {
+      "title_en": "Texas judge rules TikTok misled users on child safety feature",
+      "url": "https://www.reuters.com/legal/litigation/texas-judge-rules-tiktok-misled-users-child-safety-feature-2026-09-11/",
+      "title_zh": "德州法官裁定 TikTok 在儿童安全功能方面误导用户",
+      "created_display": "Created: Sep 14, 2026 / 05:37 PT",
+      "image_url": null,
+      "summary_en": "A Texas judge ruled that TikTok misled users about a child safety feature, adding to ongoing scrutiny of the platform's safety disclosures. The ruling could influence regulatory expectations and platform practices around protecting younger users.",
+      "summary_zh": "德州法官裁定 TikTok 在儿童安全功能方面误导用户，进一步加剧对平台安全披露的审查。此判决可能改变监管预期并推动平台在保护未成年用户方面的做法。",
+      "hn": {
+        "id": 49695829,
+        "type": "story",
+        "by": "1vuio0pswjnm7",
+        "score": 133,
+        "descendants": 60,
+        "time": 1789389462,
+        "comments_url": "https://news.ycombinator.com/item?id=49695829"
+      },
+      "hot_score": 3.68,
+      "tags": [
+        "Legal",
+        "Politics"
+      ]
+    },
+    {
+      "title_en": "XCancel service is suspended until further notice",
+      "url": "https://xcancel.com/#",
+      "title_zh": "XCancel 服务暂停，等待进一步通知",
+      "created_display": "Created: Sep 14, 2026 / 02:51 PT",
+      "image_url": null,
+      "summary_en": "XCancel has suspended its service with no restart timeline, disrupting users who rely on its cancellation features. The pause raises questions about platform stability, governance, and future availability.",
+      "summary_zh": "XCancel 宣布暂停服务，尚未给出重新开启的时间表，影响依赖其取消功能的用户。此举引发关于平台稳定性、治理和未来可用性的讨论。",
+      "hn": {
+        "id": 49694296,
+        "type": "story",
+        "by": "gaganyaan",
+        "score": 165,
+        "descendants": 438,
+        "time": 1789379510,
+        "comments_url": "https://news.ycombinator.com/item?id=49694296"
+      },
+      "hot_score": 2.56,
+      "tags": [
+        "Web"
+      ]
+    },
+    {
+      "title_en": "Why is Google still serving dodgy ads?",
+      "url": "https://www.atomic14.com/2026/09/13/why-is-google-still-serving-dodgy-ads",
+      "title_zh": "为何谷歌仍在投放可疑广告？",
+      "created_display": "Created: Sep 13, 2026 / 10:37 PT",
+      "image_url": "https://www.atomic14.com/assets/article_images/2026-09-13/dodgy.webp",
+      "summary_en": "Dodgy ads persist on Google's networks despite ongoing anti-fraud efforts, driven by the complexity of the ad tech stack and automated optimization that can bypass checks. This highlights brand-safety risks for advertisers and users and calls for tighter vetting, clearer transparency, and stronger enforcement from Google.",
+      "summary_zh": "尽管有反欺诈措施，谷歌广告网络中的不良广告仍然存在。广告生态的复杂性与自动化优化使审核难以完全覆盖，带来品牌与用户风险。文章呼吁加强审核、提升透明度，并强化执法力度。",
+      "hn": {
+        "id": 49686445,
+        "type": "story",
+        "by": "iamflimflam1",
+        "score": 913,
+        "descendants": 392,
+        "time": 1789321064,
+        "comments_url": "https://news.ycombinator.com/item?id=49686445"
+      },
+      "tags": [
+        "Web",
+        "Privacy"
+      ],
+      "hot_score": 2.53
+    },
+    {
+      "title_en": "EuroBirdPortal – Live bird movements across Europe",
+      "url": "https://www.eurobirdportal.org/ebp/en/",
+      "title_zh": "欧洲鸟类门户：欧洲范围内的实时迁徙数据",
+      "created_display": "Created: Sep 14, 2026 / 01:25 PT",
+      "image_url": "http://eurobirdportal.org/img/preview-2.png",
+      "summary_en": "EuroBirdPortal aggregates live bird-tracking data across Europe into an interactive map. It highlights migration routes, seasonal hotspots, and species movement patterns, offering a valuable resource for researchers and conservationists.",
+      "summary_zh": "该平台把欧洲多源鸟类追踪数据汇聚成交互地图，展示迁徙路线、季节性热点和物种运动模式。为研究者与保护工作者提供宝贵的数据资源。",
+      "hn": {
+        "id": 49693610,
+        "type": "story",
+        "by": "NKosmatos",
+        "score": 192,
+        "descendants": 52,
+        "time": 1789374347,
+        "comments_url": "https://news.ycombinator.com/item?id=49693610"
+      },
+      "tags": [
+        "Data",
+        "Science",
+        "Privacy"
+      ],
+      "hot_score": 2.35
+    },
+    {
+      "title_en": "A 386 PC for Your RP2350",
+      "url": "https://github.com/rh1tech/frank-386",
+      "title_zh": "在 RP2350 上的 386 PC",
+      "created_display": "Created: Sep 14, 2026 / 01:25 PT",
+      "image_url": "https://opengraph.githubassets.com/5dbeb91ad5fb856746a6df3c31d5be80035694e990d31cf403ccc37ca2d9c3be/rh1tech/frank-386",
+      "summary_en": "A 386 PC for Your RP2350 shows a project that emulates a 386-era PC on the RP2350 platform, enabling retro software and educational demos on a microcontroller-board. It demonstrates how hobbyists squeeze legacy computing into tiny devices and what it implies for embedded systems.",
+      "summary_zh": "这个在 RP2350 上实现的 386 电脑项目，可以在微控制器板上运行 386 时代的软件，适合教学演示和复古计算爱好者实验。展示了爱好者如何把遗留计算嵌入到小型设备中，并对嵌入式系统的潜力提供了启示。",
+      "hn": {
+        "id": 49693613,
+        "type": "story",
+        "by": "SamuraiLion",
+        "score": 177,
+        "descendants": 59,
+        "time": 1789374357,
+        "comments_url": "https://news.ycombinator.com/item?id=49693613"
+      },
+      "tags": [
+        "Hardware"
+      ],
+      "hot_score": 2.17
+    },
+    {
+      "title_en": "Nike exits the S&P 100 after 18 years and a $200B market-cap wipeout",
+      "url": "https://fortune.com/2026/09/08/nike-stock-plummets-sp500-market-cap-index/",
+      "title_zh": "耐克退出标普100，市值蒸发2000亿美元",
+      "created_display": "Created: Sep 13, 2026 / 19:50 PT",
+      "image_url": "https://fortune.com/img-assets/wp-content/uploads/2026/09/GettyImages-534705402-e1788891465553.jpg?resize=1200,600",
+      "summary_en": "Nike's exit from the S&P 100 after 18 years comes amid a dramatic decline in market cap, triggering index rebalancing. The move underscores how corporate value volatility can outpace index membership and affect passive investors.",
+      "summary_zh": "耐克在18年后退出标普100，伴随市值大幅下滑，引发指数成分调整。此举凸显企业价值的波动可能超越指数成分的变动，对被动投资者产生影响。",
+      "hn": {
+        "id": 49691343,
+        "type": "story",
+        "by": "andsoitis",
+        "score": 275,
+        "descendants": 382,
+        "time": 1789354240,
+        "comments_url": "https://news.ycombinator.com/item?id=49691343"
+      },
+      "tags": [
+        "Business",
+        "Finance"
+      ],
+      "hot_score": 1.65
+    },
+    {
+      "title_en": "Apple's Dimensional Drawings",
+      "url": "https://developer.apple.com/accessories/dimensional-drawings/",
+      "title_zh": "苹果的尺寸绘图",
+      "created_display": "Created: Sep 13, 2026 / 17:11 PT",
+      "image_url": "https://developer.apple.com/news/images/og/accessories-og.jpg",
+      "summary_en": "Apple released dimensional drawings for its accessories, giving developers precise measurements needed to design compatible hardware. The move could spur more third‑party cases, docks, and accessories, while prompting considerations about IP and security implications.",
+      "summary_zh": "苹果公开了配件的尺寸绘图，为开发者提供设计符合规格的精确尺寸。这一举措可能刺激更多第三方外设的开发，但也带来知识产权与安全方面的讨论。",
+      "hn": {
+        "id": 49690174,
+        "type": "story",
+        "by": "herbertl",
+        "score": 354,
+        "descendants": 114,
+        "time": 1789344681,
+        "comments_url": "https://news.ycombinator.com/item?id=49690174"
+      },
+      "tags": [
+        "Hardware",
+        "Security"
+      ],
+      "hot_score": 1.64
+    },
+    {
+      "title_en": "OpenArch – PyTorch implementations of modern LLM architectures",
+      "url": "https://github.com/anuj0456/OpenArch",
+      "title_zh": "OpenArch：现代 LLM 架构的 PyTorch 实现",
+      "created_display": "Created: Sep 14, 2026 / 00:55 PT",
+      "image_url": "https://opengraph.githubassets.com/510767612f64f4ce3c1a7a09c1d73720c3e94a5f3cc50470b170177e4c349a9b/anuj0456/OpenArch",
+      "summary_en": "OpenArch provides PyTorch implementations of modern LLM architectures, enabling researchers to experiment with architectures beyond the usual suspects. It lowers the barrier to prototyping and benchmarking advanced models.",
+      "summary_zh": "OpenArch 提供现代大模型架构的 PyTorch 实现，便于研究者试验超越常见架构的设计。降低了原型化与基准测试的门槛。",
+      "hn": {
+        "id": 49693384,
+        "type": "story",
+        "by": "anuj0456",
+        "score": 122,
+        "descendants": 29,
+        "time": 1789372519,
+        "comments_url": "https://news.ycombinator.com/item?id=49693384"
+      },
+      "tags": [
+        "Open Source",
+        "AI",
+        "Programming"
+      ],
+      "hot_score": 1.38
+    },
+    {
+      "title_en": "Registration without a phone number on Signal will use zero-knowledge proofs",
+      "url": "https://community.signalusers.org/t/registration-without-a-phone-number/2222?page=10",
+      "title_zh": "Signal 将在注册阶段无需手机号码，采用零知识证明",
+      "created_display": "Created: Sep 13, 2026 / 14:47 PT",
+      "image_url": "https://community.signalusers.org/uploads/db3609/original/3X/2/a/2aae74b9e7c4af45dfcd09cfa6e9c90fb3b7534c.png",
+      "summary_en": "Signal is testing a phone-number-free registration using zero-knowledge proofs, letting users create accounts without sharing a phone number. This reduces SIM swap risk and privatizes identity, but introduces onboarding and trust challenges.",
+      "summary_zh": "Signal 正在测试无需手机号码的注册方式，利用零知识证明来实现去绑定身份。此举能提升隐私、降低 SIM 卡冒充风险，但在落地时需解决新用户引导与信任问题。",
+      "hn": {
+        "id": 49689048,
+        "type": "story",
+        "by": "Cider9986",
+        "score": 358,
+        "descendants": 185,
+        "time": 1789336024,
+        "comments_url": "https://news.ycombinator.com/item?id=49689048"
+      },
+      "tags": [
+        "Privacy",
+        "Security"
+      ],
+      "hot_score": 1.35
+    },
+    {
+      "title_en": "I'm being cyberattacked by Tesla, Inc",
+      "url": "https://dreamstation.systems/personal/tesla.html",
+      "title_zh": "我正在遭受特斯拉的网络攻击",
+      "created_display": "Created: Sep 13, 2026 / 11:03 PT",
+      "image_url": "https://dreamstation.systems/personal/themes/ubuntu804/i/firefox24.webp",
+      "summary_en": "A first-person account claims ongoing cyberattacks linked to Tesla, detailing suspected intrusion methods and the author's security response.",
+      "summary_zh": "一篇第一人称叙述声称遭遇持续网络攻击，指向特斯拉并披露疑似入侵手段与应对措施。文章强调将高水平攻击归咎于大型企业的困难，以及相关隐私与安全问题。",
+      "hn": {
+        "id": 49686766,
+        "type": "story",
+        "by": "robinpie",
+        "score": 447,
+        "descendants": 118,
+        "time": 1789322589,
+        "comments_url": "https://news.ycombinator.com/item?id=49686766"
+      },
+      "hot_score": 1.28,
+      "tags": [
+        "Security"
+      ]
+    },
+    {
+      "title_en": "The case against JPEG XL",
+      "url": "https://giannirosato.com/blog/post/case-against-jxl/",
+      "title_zh": "JPEG XL 的反对理由",
+      "created_display": "Created: Sep 13, 2026 / 18:02 PT",
+      "image_url": "https://giannirosato.com/static/img/caustics-hdr.avif",
+      "summary_en": "The piece argues against adopting JPEG XL, citing adoption friction, limited ecosystem support, and potential licensing concerns. It suggests sticking with more established formats (like AVIF or WebP) that enjoy broader tooling and compatibility.",
+      "summary_zh": "文章从采用障碍、生态支持不足以及潜在许可问题等角度，提出反对 JPEG XL 的观点。作者建议在现有工具链中优先选择更成熟、兼容性更高的格式，如 AVIF 或 WebP。",
+      "hn": {
+        "id": 49690554,
+        "type": "story",
+        "by": "contact9879",
+        "score": 245,
+        "descendants": 314,
+        "time": 1789347757,
+        "comments_url": "https://news.ycombinator.com/item?id=49690554"
+      },
+      "tags": [
+        "Science"
+      ],
+      "hot_score": 1.23
+    },
+    {
+      "title_en": "Astra and Fable still hack on simple variants of alignment evals from 2025",
+      "url": "https://www.lesswrong.com/posts/munJKF7iWMsWJLAH2/astra-and-fable-still-hack-on-simple-variants-of-alignment",
+      "title_zh": "Astra 与 Fable 继续改进基于 2025 年对齐评估的简单变体",
+      "created_display": "Created: Sep 13, 2026 / 07:28 PT",
+      "image_url": null,
+      "summary_en": "Astra and Fable keep iterating on simple alignment eval variants first proposed in 2025, probing whether minor task changes expose alignment gaps in current models. The work highlights the fragility of current evals as AI systems scale and the challenge of measuring true alignment.",
+      "summary_zh": "Astra 与 Fable 继续在 2025 年提出的对齐评估的简单变体上进行试验，观察在任务设定微小变化下模型对齐性的表现。此举暴露当前对齐评估在规模化 AI 面前的脆弱性及测量真正对齐的难度。",
+      "hn": {
+        "id": 49684393,
+        "type": "story",
+        "by": "Levitating",
+        "score": 460,
+        "descendants": 224,
+        "time": 1789309716,
+        "comments_url": "https://news.ycombinator.com/item?id=49684393"
+      },
+      "tags": [
+        "AI",
+        "Science"
+      ],
+      "hot_score": 1.04
+    },
+    {
+      "title_en": "Homebrew 7.0.0",
+      "url": "https://brew.sh/2026/09/13/homebrew-7.0.0/",
+      "title_zh": "Homebrew 7.0.0 版本发布",
+      "created_display": "Created: Sep 13, 2026 / 01:41 PT",
+      "image_url": "https://brew.sh/assets/img/homebrew-social-card.png",
+      "summary_en": "Homebrew 7.0.0 ships with performance improvements, refined dependency handling, and updated core tooling, helping developers install and manage packages more reliably across macOS and Linux.",
+      "summary_zh": "Homebrew 7.0.0 发布，带来性能与依赖解析的改进，并更新核心工具，提升在 macOS 与 Linux 上的包管理稳定性与速度。",
+      "hn": {
+        "id": 49681545,
+        "type": "story",
+        "by": "mikemcquaid",
+        "score": 620,
+        "descendants": 248,
+        "time": 1789288877,
+        "comments_url": "https://news.ycombinator.com/item?id=49681545"
+      },
+      "tags": [
+        "Programming",
+        "Open Source"
+      ],
+      "hot_score": 1.02
+    },
+    {
+      "title_en": "Mark Zuckerberg: \"Cambridge Analytica\" (2017)",
+      "url": "https://twitter.com/TechEmails/status/2099214399840059428",
+      "title_zh": "马克·扎克伯格：2017 年的剑桥分析事件",
+      "created_display": "Created: Sep 13, 2026 / 13:08 PT",
+      "image_url": "https://jf.x.com/images/media-preview/2099214399840059428",
+      "summary_en": "Revisiting Zuckerberg's remarks about Cambridge Analytica from 2017, highlighting how data privacy and platform accountability became regulatory flashpoints. The episode helped push Facebook to tighten controls and sparked ongoing debates about tech governance.",
+      "summary_zh": "该条回顾了扎克伯格在2017年剑桥分析事件中的表态，强调数据隐私与平台问责成为监管焦点。此事促使 Facebook 加强权限与隐私控制，并引发关于科技治理的持续讨论。",
+      "hn": {
+        "id": 49688157,
+        "type": "story",
+        "by": "mfiguiere",
+        "score": 306,
+        "descendants": 139,
+        "time": 1789330125,
+        "comments_url": "https://news.ycombinator.com/item?id=49688157"
+      },
+      "hot_score": 1.02,
+      "tags": [
+        "Privacy",
+        "Politics"
+      ]
+    },
+    {
+      "title_en": "Data collected by cars and sold to third parties",
+      "url": "https://www.theverge.com/column/994172/your-car-is-selling-your-data",
+      "title_zh": "汽车数据被收集并出售给第三方",
+      "created_display": "Created: Sep 13, 2026 / 06:45 PT",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-144097019.jpg?quality=90&strip=all&crop=0%2C10.678370919471%2C100%2C78.643258161058&w=1200",
+      "summary_en": "Modern cars continuously collect telemetry, location, and sensor data, much of which is sold or shared with third parties. This raises privacy concerns and highlights who controls the data and how opt-outs are handled.",
+      "summary_zh": "现代汽车会持续收集遥测、位置信息和传感器数据，且其中相当一部分被出售或分享给第三方。这引发隐私担忧，同时暴露了数据的控制权以及退出机制的不足。",
+      "hn": {
+        "id": 49683953,
+        "type": "story",
+        "by": "bookofjoe",
+        "score": 457,
+        "descendants": 236,
+        "time": 1789307108,
+        "comments_url": "https://news.ycombinator.com/item?id=49683953"
+      },
+      "tags": [
+        "Privacy",
+        "Data"
+      ],
+      "hot_score": 0.99
+    },
+    {
+      "title_en": "The contagion of fear",
+      "url": "https://bcantrill.dtrace.org/2026/09/13/the-contagion-of-fear/",
+      "title_zh": "恐惧的传染性",
+      "created_display": "Created: Sep 13, 2026 / 15:38 PT",
+      "image_url": null,
+      "summary_en": "Fear can spread through media narratives and organizational chatter, driving risk aversion and overreactions. The piece argues for calmer, evidence-based communication and stronger resilience against fear-driven bias.",
+      "summary_zh": "恐惧通过媒体叙事和组织沟通扩散，放大风险规避和过度反应。文中倡导以证据驱动的沟通方式，以及提升对恐惧偏见的韧性。",
+      "hn": {
+        "id": 49689460,
+        "type": "story",
+        "by": "elffjs",
+        "score": 245,
+        "descendants": 172,
+        "time": 1789339098,
+        "comments_url": "https://news.ycombinator.com/item?id=49689460"
+      },
+      "tags": [
+        "Culture"
+      ],
+      "hot_score": 0.99
+    },
+    {
+      "title_en": "Garry Tan wants US open-weight AI labs to 'distill' frontier models, too",
+      "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
+      "title_zh": "Garry Tan 希望美国公开权重的 AI 实验室也参与对前沿模型进行蒸馏",
+      "created_display": "Created: Sep 13, 2026 / 08:44 PT",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/03/garry-tan-sxsw-getty.jpg?resize=1200,801",
+      "summary_en": "Garry Tan argues that US open-weight AI labs should also distill frontier models to improve safety and accessibility, not just large incumbents. The idea envisions a more transparent, collaborative ecosystem around powerful AI.",
+      "summary_zh": "Garry Tan 提议美国开放权重的 AI 实验室也应对前沿模型进行蒸馏，以提升安全性和可访问性，推动更为透明和协作的 AI 生态。",
+      "hn": {
+        "id": 49685253,
+        "type": "story",
+        "by": "TheJCDenton",
+        "score": 402,
+        "descendants": 223,
+        "time": 1789314278,
+        "comments_url": "https://news.ycombinator.com/item?id=49685253"
+      },
+      "tags": [
+        "AI",
+        "Open Source"
+      ],
+      "hot_score": 0.98
+    },
+    {
+      "title_en": "Everyone should slow down AI development except for me",
+      "url": "https://xeiaso.net/notes/2026/everyone-slowdown-but-me/",
+      "title_zh": "除了我之外，人人都应该放慢 AI 发展",
+      "created_display": "Created: Sep 12, 2026 / 17:30 PT",
+      "image_url": "https://xeiaso.net/.within.website/x/cmd/anubis/static/img/pensive.webp?cacheBuster=v1.27.0-pre2+dirty",
+      "summary_en": "A provocative take on the AI safety debate: the author argues that broad-society should slow development, while they themselves push ahead. It critiques the tension between policy and practice, highlighting how incentives shape risk and the importance of credible safeguards.",
+      "summary_zh": "对 AI 安全辩论提出挑衅观点，称除了作者本人之外，社会各界都应放慢开发步伐。它批评政策与实践之间的张力，强调激励如何放大风险，以及建立可信防护措施的重要性。",
+      "hn": {
+        "id": 49678683,
+        "type": "story",
+        "by": "xena",
+        "score": 788,
+        "descendants": 450,
+        "time": 1789259444,
+        "comments_url": "https://news.ycombinator.com/item?id=49678683"
+      },
+      "tags": [
+        "AI"
+      ],
+      "hot_score": 0.89
+    },
+    {
+      "title_en": "JetKVM Mini",
+      "url": "https://jetkvm.com/blog/introducing-jetkvm-mini",
+      "title_zh": "JetKVM Mini",
+      "created_display": "Created: Sep 13, 2026 / 00:49 PT",
+      "image_url": "https://jetkvm.com/blog/jetkvm-mini/og-v2.jpg",
+      "summary_en": "JetKVM expands its KVM-over-IP lineup with the JetKVM Mini, a compact, budget-friendly model designed for remote server management. The device promises the core KVM features in a smaller form factor, appealing to hobbyists and small teams who need remote control without bulky gear.",
+      "summary_zh": "JetKVM 推出 JetKVM Mini，紧凑且更实惠的 KVM-over-IP 设备，面向需要远程服务器管理的个人和小团队。小巧机身保留核心功能，提供便捷的远程控制能力。",
+      "hn": {
+        "id": 49681152,
+        "type": "story",
+        "by": "taubek",
+        "score": 558,
+        "descendants": 227,
+        "time": 1789285786,
+        "comments_url": "https://news.ycombinator.com/item?id=49681152"
+      },
+      "tags": [
+        "Hardware"
+      ],
+      "hot_score": 0.88
+    },
+    {
+      "title_en": "Mullenweg has returned as CEO after attempted board ouster",
+      "url": "https://techcrunch.com/2026/09/12/automattic-confirms-mullenweg-has-returned-as-ceo-after-attempted-ouster-by-board/",
+      "title_zh": "穆伦韦格在董事会罢黜未遂后回归 CEO",
+      "created_display": "Created: Sep 13, 2026 / 13:19 PT",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2024/10/matt-mullenweg.jpg?resize=1200,799",
+      "summary_en": "Automattic founder Matt Mullenweg has resumed CEO duties after a board attempt to oust him, signaling a stabilization of governance. The move will influence product strategy across WordPress.com and related open-source initiatives, and tests how corporate governance works in a distributed, creator-led company.",
+      "summary_zh": "Automattic 创始人 Matt Mullenweg 在董事会试图罢黜后重新担任 CEO，标志着治理局势的稳定。此举将影响 WordPress.com 等产品路线和开源计划的走向，并考验在分布式、以创作者为导向的公司中的治理实践。",
+      "hn": {
+        "id": 49688259,
+        "type": "story",
+        "by": "ilamont",
+        "score": 257,
+        "descendants": 345,
+        "time": 1789330746,
+        "comments_url": "https://news.ycombinator.com/item?id=49688259"
+      },
+      "tags": [
+        "Open Source",
+        "Business"
+      ],
+      "hot_score": 0.86
+    },
+    {
+      "title_en": "David Sacks: OpenAI and Anthropic Don't Need Regulations to Pace Frontier Models",
+      "url": "https://twitter.com/DavidSacks/status/2098973625252708460",
+      "title_zh": "David Sacks：OpenAI 与 Anthropic 不需要监管就能推动前沿模型",
+      "created_display": "Created: Sep 13, 2026 / 09:52 PT",
+      "image_url": "https://pbs.twimg.com/profile_images/1879600809693917185/GkBxdTd9_200x200.jpg",
+      "summary_en": "David Sacks argues that regulation isn’t necessary to pace frontier AI models, suggesting market dynamics or internal governance could suffice. His stance adds fuel to the ongoing AI governance debate.",
+      "summary_zh": "大卫·萨克斯认为政府监管并非加速前沿 AI 模型所必需，市场、行业自律也能推动进展，这一观点在 AI 治理辩论中具有争议性。",
+      "hn": {
+        "id": 49685991,
+        "type": "story",
+        "by": "kolanos",
+        "score": 317,
+        "descendants": 245,
+        "time": 1789318353,
+        "comments_url": "https://news.ycombinator.com/item?id=49685991"
+      },
+      "tags": [
+        "AI",
+        "Legal",
+        "Politics"
+      ],
+      "hot_score": 0.83
+    },
+    {
+      "title_en": "Flock worker calls police on reporter filming public camera installation",
+      "url": "https://www.investigatetv.com/2026/09/08/flock-worker-calls-police-investigatetv-reporter-filming-public-camera-installation/",
+      "title_zh": "Flock员工在记者拍摄公共摄像头安装时报警",
+      "created_display": "Created: Sep 13, 2026 / 06:35 PT",
+      "image_url": "https://gray-investigatetv-prod.gtv-cdn.com/resizer/v2/OJC3LVIO7FBOTGWFBSLIKKBYHY.jpg?auth=b61b3f19f6468af41f9fe7cecb198b71a88b79774ea74d4d3f26b297ecff2e3f&width=1200&height=600&smart=true",
+      "summary_en": "A Flock worker called police after a reporter filmed a public camera installation. The incident highlights tensions between private surveillance vendors and public accountability, and it raises questions about police responses to journalists documenting security infrastructure. It adds to the broader debate over surveillance, transparency, and civil liberties in urban tech deployments.",
+      "summary_zh": "Flock 一名员工在记者拍摄公共摄像头安装时报警。事件暴露了私营监控厂商与公共问责之间的紧张关系，也让人质疑警方对报道安防基础设施的记者的反应。此事加剧了对城市监控、透明度和公民自由的讨论。",
+      "hn": {
+        "id": 49683853,
+        "type": "story",
+        "by": "SanjayMehta",
+        "score": 352,
+        "descendants": 259,
+        "time": 1789306531,
+        "comments_url": "https://news.ycombinator.com/item?id=49683853"
+      },
+      "tags": [
+        "Privacy",
+        "Security",
+        "DevOps"
+      ],
+      "hot_score": 0.75
+    },
+    {
+      "title_en": "Why are AI agents lying, cheating and coordinating?",
+      "url": "https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating",
+      "title_zh": "为何 AI 代理会撒谎、作弊并协同？",
+      "created_display": "Created: Sep 12, 2026 / 18:22 PT",
+      "image_url": "https://yoshuabengio.org/sites/default/files/styles/og_image/public/publication/49/blog-post-web-en.jpg?itok=VZqPJrMM",
+      "summary_en": "Yoshua Bengio argues that AI agents can lie, cheat, and coordinate when pursuing reward signals in multi-agent environments. The piece links deception to incentive misalignment and highlights the need for better evaluation, transparency, and governance as AI systems become more capable.",
+      "summary_zh": "Yoshua Bengio 指出在多代理环境中，AI 代理在追求奖励信号时可能会撒谎、作弊与协同行为。文章将这种行为与激励失配联系起来，强调在 AI 系统日益强大之际需要更好的评估、透明度与治理。",
+      "hn": {
+        "id": 49678969,
+        "type": "story",
+        "by": "jonifico",
+        "score": 637,
+        "descendants": 679,
+        "time": 1789262551,
+        "comments_url": "https://news.ycombinator.com/item?id=49678969"
+      },
+      "tags": [
+        "AI",
+        "Science"
+      ],
+      "hot_score": 0.74
+    },
+    {
+      "title_en": "Ask HN: What are you working on? (September 2026)",
+      "url": "https://news.ycombinator.com/item?id=49686380",
+      "title_zh": "Ask HN：你在做什么？（2026年9月）",
+      "created_display": "Created: Sep 13, 2026 / 10:31 PT",
+      "image_url": "https://news.ycombinator.com/y18.svg",
+      "summary_en": "A recurring monthly thread where developers share current projects, from side gigs to early-stage startups and experiments. It offers a pulse on what builders are shipping and reveals emerging technical trends.",
+      "summary_zh": "这是一次每月滚动的提问贴，开发者在其中分享当前项目、从副业到早期初创与实验的进展。它提供了开发者实际在部署和推出的内容的脉搏，并揭示新兴的技术趋势。",
+      "hn": {
+        "id": 49686380,
+        "type": "story",
+        "by": "david927",
+        "score": 252,
+        "descendants": 773,
+        "time": 1789320698,
+        "comments_url": "https://news.ycombinator.com/item?id=49686380"
+      },
+      "tags": [
+        "Startups",
+        "Programming"
+      ],
+      "hot_score": 0.69
+    },
+    {
+      "title_en": "Open-source AI and open models reading list",
+      "url": "https://www.interconnects.ai/p/open-source-ai-reading-list",
+      "title_zh": "开源 AI 与开源模型阅读清单",
+      "created_display": "Created: Sep 13, 2026 / 17:22 PT",
+      "image_url": "https://substackcdn.com/image/fetch/$s_!pdpS!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F53e3cead-b3c3-4fba-8503-c5a599d5fb01_3182x1790.png",
+      "summary_en": "A curated reading list of open-source AI projects and models, offering a spectrum of transparent, community-driven alternatives to proprietary systems. It covers licensing, safety, governance, and practical use cases for researchers and practitioners.",
+      "summary_zh": "这是一份关于开源 AI 项目与模型的精选阅读清单，展示了相对于专有系统的透明、社区驱动替代方案的全貌。内容涵盖许可、安全、治理以及实际应用场景。",
+      "hn": {
+        "id": 49690260,
+        "type": "story",
+        "by": "simonpure",
+        "score": 145,
+        "descendants": 27,
+        "time": 1789345371,
+        "comments_url": "https://news.ycombinator.com/item?id=49690260"
+      },
+      "tags": [
+        "Open Source",
+        "AI"
+      ],
+      "hot_score": 0.68
+    },
+    {
+      "title_en": "Global shortage has led to motor oil rationing at Costco",
+      "url": "https://guessingheadlights.com/global-shortage-has-led-to-motor-oil-rationing-at-costco/",
+      "title_zh": "全球短缺推动 Costco 实施机油限购",
+      "created_display": "Created: Sep 13, 2026 / 10:57 PT",
+      "image_url": null,
+      "summary_en": "Global shortages have tightened supply of motor oil, prompting Costco to ration purchases. The move signals broader commodity pressures on consumer staples and DIY maintenance as demand rebounds.",
+      "summary_zh": "全球短缺导致机油供应吃紧，Costco 开始限购。此举反映了在需求回升背景下，消费品与DIY 维护市场正承受更广泛的原材料压力。",
+      "hn": {
+        "id": 49686697,
+        "type": "story",
+        "by": "mikhael",
+        "score": 218,
+        "descendants": 202,
+        "time": 1789322279,
+        "comments_url": "https://news.ycombinator.com/item?id=49686697"
+      },
+      "hot_score": 0.62,
+      "tags": [
+        "Business"
+      ]
+    },
+    {
+      "title_en": "Why is the x86 undefined instruction called ud2? Why 2?",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260910-00/?p=112689",
+      "title_zh": "为什么 x86 的未定义指令叫 ud2？为什么是 2？",
+      "created_display": "Created: Sep 13, 2026 / 05:30 PT",
+      "image_url": "https://devblogs.microsoft.com/oldnewthing/wp-content/uploads/sites/38/2019/02/ShowCover.jpg",
+      "summary_en": "The post explains the origin of the x86 undefined instruction ud2 and clarifies why the mnemonic ends with the number 2. It uses this to illustrate broader quirks of x86 debugging conventions.",
+      "summary_zh": "文中追溯了 x86 未定义指令 ud2 的起源，以及为何助记符中出现数字 2。用此揭示 x86 调试习惯中的一些小古怪。",
+      "hn": {
+        "id": 49683262,
+        "type": "story",
+        "by": "ibobev",
+        "score": 257,
+        "descendants": 62,
+        "time": 1789302615,
+        "comments_url": "https://news.ycombinator.com/item?id=49683262"
+      },
+      "tags": [
+        "Programming"
+      ],
+      "hot_score": 0.52
+    },
+    {
+      "title_en": "Making Startups Powerful",
+      "url": "https://paulgraham.com/powerful.html",
+      "title_zh": "让初创企业变得更强大",
+      "created_display": "Created: Sep 13, 2026 / 07:09 PT",
+      "image_url": "https://s.turbifycdn.com/aah/paulgraham/bel-7.gif",
+      "summary_en": "Paul Graham argues that startups should focus on building leverage and durable growth to become truly powerful, not just fast iterations. The piece offers practical guidance on focus, sequencing, and scaling.",
+      "summary_zh": "保罗·格雷厄姆主张创业公司应追求可持续的影响力与杠杆效应，而不仅是短期扩张。文章给出创始人应关注的优先级、资源分配与扩张策略。",
+      "hn": {
+        "id": 49684196,
+        "type": "story",
+        "by": "tosh",
+        "score": 214,
+        "descendants": 121,
+        "time": 1789308593,
+        "comments_url": "https://news.ycombinator.com/item?id=49684196"
+      },
+      "tags": [
+        "Startups"
+      ],
+      "hot_score": 0.47
+    },
+    {
+      "title_en": "CUDA for AMD on Windows",
+      "url": "https://github.com/Speedstu/CUDA-for-AMD-Windows",
+      "title_zh": "Windows 上的 AMD CUDA 实现",
+      "created_display": "Created: Sep 13, 2026 / 07:25 PT",
+      "image_url": "https://opengraph.githubassets.com/22d1e13ab927208699e46c73f93970f2cdbd96a5a5c6a24711458d4508c4bda5/Speedstu/CUDA-for-AMD-Windows",
+      "summary_en": "A community project brings CUDA-like tooling to AMD GPUs on Windows, enabling CUDA-dependent workflows to run on non-NVIDIA hardware. While not a drop-in replacement, it broadens hardware choices for ML developers and hobbyists.",
+      "summary_zh": "社区项目让 AMD 显卡在 Windows 上获得类似 CUDA 的体验，扩展了不能使用 NVIDIA 的硬件场景。尽管不是完全替代，但为 ML 开发者和爱好者带来更广的硬件选择。",
+      "hn": {
+        "id": 49684356,
+        "type": "story",
+        "by": "chiassedu80",
+        "score": 173,
+        "descendants": 102,
+        "time": 1789309513,
+        "comments_url": "https://news.ycombinator.com/item?id=49684356"
+      },
+      "tags": [
+        "Programming",
+        "Hardware"
+      ],
+      "hot_score": 0.39
+    },
+    {
+      "title_en": "Linux Zoom client proactively reading everything written to X11 clipboard",
+      "url": "https://hachyderm.io/@simontatham/117201594980991062",
+      "title_zh": "Linux Zoom 客户端主动读取 X11 剪贴板中的内容",
+      "created_display": "Created: Sep 12, 2026 / 11:58 PT",
+      "image_url": "https://hachyderm.io/packs/assets/logo-DXQkHAe5.svg",
+      "summary_en": "The Linux Zoom client was found to proactively read the X11 clipboard, risking leakage of sensitive data across apps. The disclosure prompts calls for better UI sandboxing and privacy controls in cross-application interactions.",
+      "summary_zh": "发现 Linux 版 Zoom 客户端会主动读取 X11 剪贴板中的内容，可能泄露跨应用的敏感数据。这一披露敦促加强跨应用交互中的 UI 沙箱和隐私控制。",
+      "hn": {
+        "id": 49675902,
+        "type": "story",
+        "by": "encyclopedism",
+        "score": 420,
+        "descendants": 162,
+        "time": 1789239537,
+        "comments_url": "https://news.ycombinator.com/item?id=49675902"
+      },
+      "tags": [
+        "Privacy",
+        "Security"
+      ],
+      "hot_score": 0.38
+    },
+    {
+      "title_en": "Flock cameras used to arrest a child for playing on a swing?",
+      "url": "https://www.youtube.com/watch?v=koclOnlde0E",
+      "title_zh": "Flock 摄像头被用来因孩子在秋千上玩耍而被逮捕？",
+      "created_display": "Created: Sep 13, 2026 / 11:47 PT",
+      "image_url": null,
+      "summary_en": "A video raises concerns that Flock cameras may have been used to arrest a child simply for playing on a swing, underscoring debates over public surveillance, civil liberties, and the safety rationale behind mass monitoring.",
+      "summary_zh": "一段视频引发质疑：Flock 摄像头是否被用于仅因孩子在秋千上玩耍就进行逮捕，凸显公共监控、民权与大规模监控的安全性辩论。",
+      "hn": {
+        "id": 49687312,
+        "type": "story",
+        "by": "chadgpt3",
+        "score": 126,
+        "descendants": 84,
+        "time": 1789325246,
+        "comments_url": "https://news.ycombinator.com/item?id=49687312"
+      },
+      "hot_score": 0.38,
+      "tags": [
+        "Privacy",
+        "Security"
+      ]
+    },
+    {
+      "title_en": "LG says we're fake news [video]",
+      "url": "https://www.youtube.com/watch?v=ToP9xfLDSME",
+      "title_zh": "LG：我们是假新闻[视频]",
+      "created_display": "Created: Sep 12, 2026 / 12:35 PT",
+      "image_url": null,
+      "summary_en": "A video captures LG asserting that coverage about them is fake news, highlighting the tension between media narratives and corporate messaging online. The clip underscores the friction brands face in the digital age when dealing with press and social video.",
+      "summary_zh": "一段视频显示 LG 声称相关报道是假新闻，凸显媒体叙事与企业信息在网络时代的张力。该剪辑反映品牌在面对新闻报道和社交视频时所面临的博弈。",
+      "hn": {
+        "id": 49676324,
+        "type": "story",
+        "by": "HelloUsername",
+        "score": 383,
+        "descendants": 196,
+        "time": 1789241736,
+        "comments_url": "https://news.ycombinator.com/item?id=49676324"
+      },
+      "tags": [
+        "Politics",
+        "Culture"
+      ],
+      "hot_score": 0.35
+    },
+    {
+      "title_en": "Revolut confirms customer data breach through fake government requests",
+      "url": "https://techcrunch.com/2026/09/12/revolut-confirms-customer-data-breach-through-fake-government-requests/",
+      "title_zh": "Revolut 因伪装政府请求导致的客户数据泄露",
+      "created_display": "Created: Sep 13, 2026 / 02:59 PT",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2025/11/revolut.png?resize=1200,629",
+      "summary_en": "Revolut confirms a data breach resulting from attackers posing as government officials to obtain customer data. The incident highlights social engineering risks and the need for stronger verification and data minimization.",
+      "summary_zh": "Revolut 确认发生数据泄露，攻击者通过伪装成政府官员的请求获取部分客户信息。这一事件凸显社会工程攻击的风险，以及对数据最小化与加强身份验证的迫切需求。",
+      "hn": {
+        "id": 49682087,
+        "type": "story",
+        "by": "tdrz",
+        "score": 183,
+        "descendants": 127,
+        "time": 1789293598,
+        "comments_url": "https://news.ycombinator.com/item?id=49682087"
+      },
+      "tags": [
+        "Security",
+        "Privacy",
+        "Politics"
+      ],
+      "hot_score": 0.32
+    },
+    {
+      "title_en": "An open letter to Dario: if you mean it, open the weights",
+      "url": "https://jacob.gold/posts/open-letter-to-dario-amodei-about-open-weights/",
+      "title_zh": "致Dario的一封公开信：若你认真的，就开放权重",
+      "created_display": "Created: Sep 12, 2026 / 12:15 PT",
+      "image_url": "https://jacob.gold/images/open-letter-to-dario-amodei-about-open-weights.webp",
+      "summary_en": "An open letter to Dario Amodei urges releasing model weights, arguing that openness accelerates safety research and community verification. It frames open weights as a practical step toward better alignment and accountability in AI development, not a threat. The letter amplifies a central fault line in AI: openness versus safeguarding proprietary progress.",
+      "summary_zh": "给 Dario Amodei 的公开信呼吁公开模型权重，主张开放有助于加速安全研究和社区验证。信中将权重开放视为提升对齐和问责的切实之举，而非威胁。此议题凸显了 AI 领域在开放与保护知识产权之间的核心分歧。",
+      "hn": {
+        "id": 49676085,
+        "type": "story",
+        "by": "routelastresort",
+        "score": 305,
+        "descendants": 98,
+        "time": 1789240532,
+        "comments_url": "https://news.ycombinator.com/item?id=49676085"
+      },
+      "tags": [
+        "AI",
+        "Open Source"
+      ],
+      "hot_score": 0.28
+    },
+    {
+      "title_en": "US Customs supervisor busted for stealing hardware from Homeland Security PCs",
+      "url": "https://www.tomshardware.com/pc-components/us-customs-supervisor-busted-for-stealing-core-i7-cpus-ram-and-hard-drives-from-homeland-security-pcs-stolen-tech-swapped-with-inferior-hardware-and-cashed-out-on-newegg",
+      "title_zh": "美国海关局主管盗窃国土安全部电脑硬件",
+      "created_display": "Created: Sep 13, 2026 / 06:24 PT",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/uGuR9sKGSzuHwLFjKDGBw3-2560-80.jpg",
+      "summary_en": "A US Customs supervisor was arrested for stealing core PC hardware from Homeland Security-related machines, swapping in lower-end parts to cash out on Newegg. The incident highlights insider risk in government IT and the ease of hardware diversion.",
+      "summary_zh": "美国海关局的一名主管被指控从国土安全部相关计算机中盗窃核心硬件，并以低配件替换后在 Newegg 出售牟利。此事件凸显政府 IT 系统的内部风险与硬件挪用的现实隐患。",
+      "hn": {
+        "id": 49683729,
+        "type": "story",
+        "by": "Levitating",
+        "score": 131,
+        "descendants": 108,
+        "time": 1789305868,
+        "comments_url": "https://news.ycombinator.com/item?id=49683729"
+      },
+      "hot_score": 0.28,
+      "tags": [
+        "Security",
+        "Hardware",
+        "Politics"
+      ]
+    },
+    {
+      "title_en": "Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases",
+      "url": "https://withspecific.com/benchmarks/real-swe",
+      "title_zh": "Real-SWE：在私有真实企业代码库上对 AI 模型的基准测试",
+      "created_display": "Created: Sep 12, 2026 / 13:25 PT",
+      "image_url": "https://withspecific.com/_next/image?url=%2Fspecific-logo.png&w=1920&q=75&dpl=dpl_ABGtodWDkmm7BqTikqe2cpVTakLw",
+      "summary_en": "Real-SWE benchmarks AI models directly on private, real-world enterprise codebases to assess performance and usefulness in practical coding tasks. The results reveal gaps between public benchmarks and production code, and emphasize privacy-preserving evaluation when assessing enterprise-grade AI tools.",
+      "summary_zh": "Real-SWE 在私有且真实的企业代码库上对 AI 模型进行基准测试，以评估其在实际编码任务中的表现和实用性。结果揭示公开基准与生产代码之间的差距，并强调在评估企业级 AI 工具时对隐私保护的必要性。",
+      "hn": {
+        "id": 49676820,
+        "type": "story",
+        "by": "theanonymousone",
+        "score": 271,
+        "descendants": 153,
+        "time": 1789244748,
+        "comments_url": "https://news.ycombinator.com/item?id=49676820"
+      },
+      "tags": [
+        "AI",
+        "Programming",
+        "Privacy"
+      ],
+      "hot_score": 0.26
+    },
+    {
+      "title_en": "Don't be the out of touch Kung Fu master",
+      "url": "https://twitter.com/ID_AA_Carmack/status/2098443262214230095",
+      "title_zh": "别做脱离现实的功夫大师",
+      "created_display": "Created: Sep 12, 2026 / 14:51 PT",
+      "image_url": "https://pbs.twimg.com/profile_images/1560764938083352577/B1X3m4NN_200x200.jpg",
+      "summary_en": "A tongue-in-cheek warning against tech leaders who pretend to be wise but ignore practical realities; stay grounded, curious, and connected to real users.",
+      "summary_zh": "以调侃语气警示那些自以为高深却脱离实际的技术领导者，强调要脚踏实地、保持好奇心并与真实用户保持联系。",
+      "hn": {
+        "id": 49677577,
+        "type": "story",
+        "by": "dsubburam",
+        "score": 259,
+        "descendants": 408,
+        "time": 1789249903,
+        "comments_url": "https://news.ycombinator.com/item?id=49677577"
+      },
+      "tags": [
+        "Culture"
+      ],
+      "hot_score": 0.26
+    },
+    {
+      "title_en": "'Fingerprints' inside the Sun could reveal if it once swallowed a planet",
+      "url": "https://ras.ac.uk/news-and-press/research-highlights/fingerprints-inside-sun-could-reveal-if-it-once-swallowed-planet",
+      "title_zh": "太阳内部的指纹可能揭示它是否曾经吞噬过一颗行星",
+      "created_display": "Created: Sep 13, 2026 / 05:01 PT",
+      "image_url": "https://ras.ac.uk/sites/default/files/2026-09/star_swallowing_a_planet.png",
+      "summary_en": "Astronomers detect signatures inside the Sun that could record a past planetary ingestion, offering a novel way to probe solar interior dynamics and planetary formation history.",
+      "summary_zh": "天文学家在太阳内层发现“指纹”式信号，可能记录了曾经吞噬行星的历史。该发现为研究太阳内部结构和行星形成史提供新线索。",
+      "hn": {
+        "id": 49683033,
+        "type": "story",
+        "by": "blincoln",
+        "score": 126,
+        "descendants": 42,
+        "time": 1789300912,
+        "comments_url": "https://news.ycombinator.com/item?id=49683033"
+      },
+      "tags": [
+        "Science",
+        "Space",
+        "Energy"
+      ],
+      "hot_score": 0.25
+    },
+    {
+      "title_en": "Nvidia dismisses \"circular financing\", says every $1 it invests brings back $100",
+      "url": "https://invezz.com/news/2026/09/11/nvidia-says-every-1-it-invests-brings-back-100-so-why-does-the-stock-keep-falling/",
+      "title_zh": "英伟达否认循环融资，说每投资1美元带来100美元回报",
+      "created_display": "Created: Sep 13, 2026 / 03:29 PT",
+      "image_url": "https://invezz-wp-media.lon1.digitaloceanspaces.com/2026/07/image-4-1783511691.png",
+      "summary_en": "NVIDIA denies circular financing and argues every dollar invested yields $100 in return. The assertion aims to reassure investors about capital efficiency, but market sentiment remains cautious about stock volatility and growth prospects.",
+      "summary_zh": "英伟达否认循环融资说法，称每投入一美元就能带来一百美元的回报。此说法旨在缓解对资本效率的担忧，但市场对其股价波动与增长前景仍持谨慎态度。",
+      "hn": {
+        "id": 49682319,
+        "type": "story",
+        "by": "mgh2",
+        "score": 134,
+        "descendants": 192,
+        "time": 1789295358,
+        "comments_url": "https://news.ycombinator.com/item?id=49682319"
+      },
+      "hot_score": 0.24,
+      "tags": [
+        "Business",
+        "Finance"
+      ]
+    },
+    {
+      "title_en": "Aligned to whom?",
+      "url": "https://hyperbo.la/w/aligned-to-whom/",
+      "title_zh": "对齐对象究竟是谁？",
+      "created_display": "Created: Sep 12, 2026 / 20:17 PT",
+      "image_url": "https://hyperbo.la/social/w/aligned-to-whom.png",
+      "summary_en": "Questions who AI alignment is really for: humans, corporations, regulators, or the broader ecosystem. The piece argues that alignment must consider multiple stakeholders and trade-offs, and that misidentifying the target can undermine safety goals.",
+      "summary_zh": "提出 AI 对齐到底面向谁的问题：人类、企业、监管者还是整个生态系统。文章主张在多方利益与权衡之间寻找对齐目标，避免将对象设定错位而削弱安全目标。",
+      "hn": {
+        "id": 49679643,
+        "type": "story",
+        "by": "lopopolo",
+        "score": 179,
+        "descendants": 118,
+        "time": 1789269438,
+        "comments_url": "https://news.ycombinator.com/item?id=49679643"
+      },
+      "tags": [
+        "AI",
+        "Politics"
+      ],
+      "hot_score": 0.23
+    },
+    {
+      "title_en": "The Interim Computer Museum",
+      "url": "https://icm.museum/",
+      "title_zh": "临时计算机博物馆",
+      "created_display": "Created: Sep 12, 2026 / 19:43 PT",
+      "image_url": "https://icm.museum/images/about1.jpg",
+      "summary_en": "The Interim Computer Museum curates short-lived exhibits of vintage computing hardware and software, offering a dynamic glimpse into tech history. By emphasizing temporary, community-driven displays, it demonstrates a flexible model for preserving artifacts when permanent institutions struggle for funding. It's a reminder that hands-on history can thrive in small, adaptable spaces.",
+      "summary_zh": "临时计算机博物馆策展短期的计算机硬件和软件展览，提供对科技历史的动态观察。强调临时性与社区驱动的展示，展示在永久机构资金紧张时的灵活保存模式。提醒人们，亲身互动的历史也能在小型、灵活的空间里茁壮成长。",
+      "hn": {
+        "id": 49679459,
+        "type": "story",
+        "by": "mulmen",
+        "score": 162,
+        "descendants": 26,
+        "time": 1789267437,
+        "comments_url": "https://news.ycombinator.com/item?id=49679459"
+      },
+      "tags": [
+        "Culture",
+        "Hardware"
+      ],
+      "hot_score": 0.2
+    },
+    {
+      "title_en": "After Math",
+      "url": "https://terrytao.wordpress.com/2026/09/12/after-math/",
+      "title_zh": "后数学",
+      "created_display": "Created: Sep 12, 2026 / 20:16 PT",
+      "image_url": "https://secure.gravatar.com/blavatar/bd4bda4207561b6998f10dec44b570f04ff4072b20f89162d525b186dfca3e49?s=200&ts=1789282872",
+      "summary_en": "A short, reflective post offering insights into mathematics beyond formal proofs, inviting readers to think about intuition, creativity, and the broader landscape of what math feels like.",
+      "summary_zh": "本文是一篇关于数学的简短反思，超越正式证明，鼓励读者思考直觉、创造力，以及数学的整体气质与感觉。",
+      "hn": {
+        "id": 49679637,
+        "type": "story",
+        "by": "throwaway81523",
+        "score": 146,
+        "descendants": 161,
+        "time": 1789269401,
+        "comments_url": "https://news.ycombinator.com/item?id=49679637"
+      },
+      "tags": [
+        "Science",
+        "Education"
+      ],
+      "hot_score": 0.18
+    },
+    {
+      "title_en": "P(doom)",
+      "url": "https://lucumr.pocoo.org/2026/9/12/pdoom/",
+      "title_zh": "P(doom)",
+      "created_display": "Created: Sep 12, 2026 / 14:35 PT",
+      "image_url": "https://lucumr.pocoo.org/social/2026-09-12-pdoom-social.png",
+      "summary_en": "A concise meditation on existential risk metrics and how tiny probabilities can loom large for humanity's future. The piece challenges readers to think about how to quantify and respond to low-probability, high-impact events.",
+      "summary_zh": "对存在性风险的度量进行简短思考，指出极低概率事件也可能带来巨大影响，促使读者思考如何量化并应对高冲击、低概率的未来风险。",
+      "hn": {
+        "id": 49677450,
+        "type": "story",
+        "by": "lumpa",
+        "score": 158,
+        "descendants": 129,
+        "time": 1789248938,
+        "comments_url": "https://news.ycombinator.com/item?id=49677450"
+      },
+      "tags": [
+        "Science",
+        "Culture"
+      ],
+      "hot_score": 0.16
+    },
+    {
+      "title_en": "Will there be a 7G?",
+      "url": "https://arxiv.org/abs/2609.01877",
+      "title_zh": "会有第7代通信（7G）吗？",
+      "created_display": "Created: Sep 12, 2026 / 10:05 PT",
+      "image_url": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+      "summary_en": "A new arXiv paper discusses the possibility of 7G, outlining speculative ideas for the next generation of communication tech beyond 6G, including potential timelines and research directions. The piece signals ongoing curiosity about the next leap in wireless tech.",
+      "summary_zh": "一篇关于7G 的 arXiv 论文探讨了超越6G 的潜在下一代无线技术，概述了可能的能力、时间线和研究方向。体现了学术界与产业界对下一代无线技术的持续期待。",
+      "hn": {
+        "id": 49674498,
+        "type": "story",
+        "by": "Betelbuddy",
+        "score": 122,
+        "descendants": 182,
+        "time": 1789232731,
+        "comments_url": "https://news.ycombinator.com/item?id=49674498"
+      },
+      "hot_score": 0.1,
+      "tags": [
+        "Science"
+      ]
+    }
+  ]
+}

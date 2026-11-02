@@ -1,0 +1,2269 @@
+{
+  "meta": {
+    "mode": "top",
+    "source": "https://news.ycombinator.com/",
+    "api": "https://github.com/HackerNews/API",
+    "count_requested": 50,
+    "count_written": 100,
+    "reused_same_day": 39,
+    "reused_cross_day": 0,
+    "new_llm_enriched": 10,
+    "scrape_time_display": "23:20, May 24, 2026 (PDT)",
+    "timezone": "America/Los_Angeles",
+    "date_dir": "2026/05/24",
+    "content_date": "2026-05-24",
+    "run_time_local": "23:20, May 24, 2026 (PDT)",
+    "run_time_utc": "2026-05-25 06:20:33 UTC",
+    "incremental": true,
+    "stories_max": 100,
+    "hot_score_time_utc": "2026-05-25 06:21:43 UTC"
+  },
+  "items": [
+    {
+      "title_en": "The Eternal Sloptember",
+      "url": "https://geohot.github.io//blog/jekyll/update/2026/05/24/the-eternal-sloptember.html",
+      "title_zh": "永恒的 Sloptember",
+      "created_display": "Created: May 24, 2026 / 20:47 PT",
+      "image_url": null,
+      "summary_en": "The Eternal Sloptember centers on the enduring concept of Sloptember.",
+      "summary_zh": "《永恒的 Sloptember》围绕 Sloptember 的持续概念展开。",
+      "hn": {
+        "id": 48263238,
+        "type": "story",
+        "by": "razin",
+        "score": 215,
+        "descendants": 146,
+        "time": 1779680844,
+        "comments_url": "https://news.ycombinator.com/item?id=48263238"
+      },
+      "hot_score": 13.87,
+      "tags": [
+        "Culture"
+      ]
+    },
+    {
+      "title_en": "Jira Is Turing-Complete",
+      "url": "https://seriot.ch/computation/jira.html",
+      "title_zh": "Jira 具备图灵完备性",
+      "created_display": "Created: May 24, 2026 / 20:54 PT",
+      "image_url": "https://seriot.ch/resources/jira_tc/addition_rules.png",
+      "summary_en": "An analysis shows Jira's workflow language is Turing-complete, meaning it can simulate any computation given enough resources. This raises questions about the line between powerful automation and potential security risks or runaway resource use in project-management tooling.",
+      "summary_zh": "一项分析表明 Jira 的工作流语言具备图灵完备性，理论上可以在资源充足时模拟任意计算。这让人重新思考在项目管理工具中对自动化能力的界限，以及潜在的安全风险或资源耗尽问题。",
+      "hn": {
+        "id": 48263253,
+        "type": "story",
+        "by": "vinhnx",
+        "score": 45,
+        "descendants": 13,
+        "time": 1779681254,
+        "comments_url": "https://news.ycombinator.com/item?id=48263253"
+      },
+      "hot_score": 2.99,
+      "tags": [
+        "Programming",
+        "Security"
+      ]
+    },
+    {
+      "title_en": "DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost",
+      "url": "https://esengine.github.io/DeepSeek-Reasonix/",
+      "title_zh": "DeepSeek Reasonix：高缓存、低成本的本地编码代理",
+      "created_display": "Created: May 24, 2026 / 06:02 PT",
+      "image_url": "https://raw.githubusercontent.com/esengine/reasonix/main/docs/assets/hero-terminal.svg",
+      "summary_en": "DeepSeek Reasonix is introduced as a native coding agent with strong caching to accelerate AI-assisted coding while reducing operational costs. The design aims to minimize round-trips and latency, enabling developers to run more tooling offline or in constrained environments.",
+      "summary_zh": "DeepSeek Reasonix 被描述为具备强缓存的本地编码代理，能在提升 AI 辅助编码速度的同时降低成本。其设计旨在减少往返与延迟，使开发者能够在离线或受限环境中运行更多工具链。",
+      "hn": {
+        "id": 48256953,
+        "type": "story",
+        "by": "Alifatisk",
+        "score": 512,
+        "descendants": 216,
+        "time": 1779627726,
+        "comments_url": "https://news.ycombinator.com/item?id=48256953"
+      },
+      "tags": [
+        "AI",
+        "Programming"
+      ],
+      "hot_score": 2.47
+    },
+    {
+      "title_en": "Memory has grown to nearly two-thirds of AI chip component costs",
+      "url": "https://epoch.ai/data-insights/ai-chip-component-cost-shares",
+      "title_zh": "AI 芯片成本中内存占比近三分之二",
+      "created_display": "Created: May 24, 2026 / 09:31 PT",
+      "image_url": "https://epoch.ai/assets/images/data-insights/ai-chip-component-cost-shares/t-ai-chip-component-cost-shares.png",
+      "summary_en": "New cost data show memory accounts for about two-thirds of AI chip component costs, making memory the dominant design and pricing driver as models grow. This shifts emphasis to memory bandwidth, efficiency, and novel memory tech, as chips compete on how well they feed large AI workloads.",
+      "summary_zh": "最新成本数据表明，内存约占 AI 芯片组件成本的三分之二，成为主导的设计和定价驱动力。随着模型规模增大，厂商更关注内存带宽、效率以及新型内存技术，以提高对大规模 AI workload 的供给能力。",
+      "hn": {
+        "id": 48258684,
+        "type": "story",
+        "by": "intelkishan",
+        "score": 358,
+        "descendants": 368,
+        "time": 1779640289,
+        "comments_url": "https://news.ycombinator.com/item?id=48258684"
+      },
+      "tags": [
+        "Hardware",
+        "AI"
+      ],
+      "hot_score": 2.47
+    },
+    {
+      "title_en": "Migrating from Go to Rust",
+      "url": "https://corrode.dev/learn/migration-guides/go-to-rust/",
+      "title_zh": "从 Go 迁移到 Rust",
+      "created_display": "Created: May 24, 2026 / 11:31 PT",
+      "image_url": "https://corrode.dev/learn/migration-guides/go-to-rust/social.png",
+      "summary_en": "A practical migration guide helps teams decide when to port Go code to Rust, with stepwise strategies, interoperability patterns, and clear trade-offs. It emphasizes balancing safety and performance gains against cost and team readiness.",
+      "summary_zh": "迁移指南从评估时机、分步迁移模式、互操作性等角度，帮助团队将代码从 Go 迁移到 Rust。强调在性能与内存安全收益、成本以及团队准备之间的权衡。",
+      "hn": {
+        "id": 48259808,
+        "type": "story",
+        "by": "jabits",
+        "score": 205,
+        "descendants": 202,
+        "time": 1779647502,
+        "comments_url": "https://news.ycombinator.com/item?id=48259808"
+      },
+      "tags": [
+        "Programming"
+      ],
+      "hot_score": 1.8
+    },
+    {
+      "title_en": "Show HN: Audiomass – a free, open-source multitrack audio editor for the web",
+      "url": "https://audiomass.co/?multitrack=1",
+      "title_zh": "Show HN：Audiomass——一个免费开源的网页多轨音频编辑器",
+      "created_display": "Created: May 24, 2026 / 08:25 PT",
+      "image_url": "https://audiomass.co/icon.jpg",
+      "summary_en": "Audiomass is a free, open-source multitrack audio editor that runs entirely in your browser. It offers a simple timeline and essential editing tools with no installation, making quick editing and sharing easy for web users. Being open-source, it invites community contributions and transparency.",
+      "summary_zh": "Audiomass 是一个免费、开源的浏览器端多轨音频编辑器，完全在浏览器中运行，无需安装即可完成编辑与导出。它提供简单的时间线和基本编辑工具，便于快速处理和分享音频，社区贡献也更易参与。",
+      "hn": {
+        "id": 48258015,
+        "type": "story",
+        "by": "pantelisk",
+        "score": 290,
+        "descendants": 60,
+        "time": 1779636343,
+        "comments_url": "https://news.ycombinator.com/item?id=48258015"
+      },
+      "tags": [
+        "Show HN",
+        "Open Source",
+        "Web"
+      ],
+      "hot_score": 1.77
+    },
+    {
+      "title_en": "Australia Four-Day Work Week Study Data Shows Boosted Productivity",
+      "url": "https://scienceaim.com/australia-just-proved-the-four-day-work-week-works-here-is-what-the-data-actually-says/",
+      "title_zh": "澳大利亚四天工作周研究数据：生产力提升",
+      "created_display": "Created: May 24, 2026 / 11:56 PT",
+      "image_url": "https://scienceaim.com/wp-content/uploads/2026/05/Screenshot_3.png",
+      "summary_en": "Australian trials show that a four-day workweek can boost productivity without sacrificing output, while workers report lower stress and higher morale. The data adds to a growing body of evidence that shorter work weeks can be a viable option for knowledge workers.",
+      "summary_zh": "澳大利亚的四天工作周试点数据显示，在压缩工作日的同时，生产力保持提升，员工压力和满意度也有所改善。数据进一步支持缩短工时对知识工作者的可行性及潜在政策影响。",
+      "hn": {
+        "id": 48259990,
+        "type": "story",
+        "by": "randycupertino",
+        "score": 153,
+        "descendants": 81,
+        "time": 1779648969,
+        "comments_url": "https://news.ycombinator.com/item?id=48259990"
+      },
+      "hot_score": 1.42,
+      "tags": [
+        "Business"
+      ]
+    },
+    {
+      "title_en": "CBP Directive 3340-049B: Border Search of Electronic Devices",
+      "url": "https://www.cbp.gov/document/directives/cbp-directive-no-3340-049b-border-search-electronic-devices",
+      "title_zh": "CBP 指令 3340-049B：边境对电子设备的搜查",
+      "created_display": "Created: May 24, 2026 / 12:12 PT",
+      "image_url": "https://www.cbp.gov/sites/default/files/cbp-seal-vertical-blue_twitter-card_600.jpg",
+      "summary_en": "CBP's directive clarifies border search authority for electronic devices, outlining procedures, privacy considerations, and data handling. The guidance informs travelers and developers about what can be inspected and how data is stored or used.",
+      "summary_zh": "CBP 的指令明确了边境对电子设备搜查的权限与程序，涵盖隐私考量与数据处理。为旅行者和开发者提供了对可检查内容以及数据存储与使用方式的指引。",
+      "hn": {
+        "id": 48260140,
+        "type": "story",
+        "by": "Ember_Wipe",
+        "score": 141,
+        "descendants": 102,
+        "time": 1779649966,
+        "comments_url": "https://news.ycombinator.com/item?id=48260140"
+      },
+      "tags": [
+        "Privacy",
+        "Security"
+      ],
+      "hot_score": 1.36
+    },
+    {
+      "title_en": "A fundamental principle of aeronautical engineering has been overturned",
+      "url": "https://www.wired.com/story/a-fundamental-principle-of-aeronautical-engineering-has-been-overturned/",
+      "title_zh": "航空工程的一个基本原则被推翻",
+      "created_display": "Created: May 24, 2026 / 12:10 PT",
+      "image_url": "https://media.wired.com/photos/6a0f1d82527cc03d8afd9e26/191:100/w_1280,c_limit/1341532824",
+      "summary_en": "A new result overturns a long-held principle in aeronautical engineering, prompting reevaluation of design assumptions and simulation practices. The finding could affect aircraft stability analysis and safety margins across the industry.",
+      "summary_zh": "研究推翻了航空工程中的一个长期基本原理，促使人们重新审视设计假设和仿真方法。这一发现可能影响飞行器稳定性分析和安全裕度，波及整个行业。",
+      "hn": {
+        "id": 48260117,
+        "type": "story",
+        "by": "littlexsparkee",
+        "score": 129,
+        "descendants": 68,
+        "time": 1779649826,
+        "comments_url": "https://news.ycombinator.com/item?id=48260117"
+      },
+      "tags": [
+        "Science"
+      ],
+      "hot_score": 1.23
+    },
+    {
+      "title_en": "Usborne 1980s Computer Books",
+      "url": "https://usborne.com/us/books/computer-and-coding-books",
+      "title_zh": "Usborne 1980 年代的计算机书籍",
+      "created_display": "Created: May 24, 2026 / 08:43 PT",
+      "image_url": "https://usborne.com/media/usborne_facebook_abstract.jpg",
+      "summary_en": "Usborne's 1980s computer and coding books helped a generation learn BASIC and early computing through approachable projects. The collection highlights how beginner-friendly guides shaped digital literacy and left a lasting cultural footprint.",
+      "summary_zh": "Usborne 的 1980 年代计算机与编码书籍通过易学的项目引导一代人学习 BASIC 和早期计算机知识。该系列展示了面向初学者的讲解如何塑造数字素养，并留下持久的文化印记。",
+      "hn": {
+        "id": 48258194,
+        "type": "story",
+        "by": "ngram",
+        "score": 173,
+        "descendants": 52,
+        "time": 1779637380,
+        "comments_url": "https://news.ycombinator.com/item?id=48258194"
+      },
+      "tags": [
+        "Education"
+      ],
+      "hot_score": 1.09
+    },
+    {
+      "title_en": "Constraint Decay: The Fragility of LLM Agents in Back End Code Generation",
+      "url": "https://arxiv.org/abs/2605.06445",
+      "title_zh": "约束衰退：后端代码生成中 LLM 代理的脆弱性",
+      "created_display": "Created: May 24, 2026 / 05:55 PT",
+      "image_url": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+      "summary_en": "The paper argues that LLM-based agents degrade in reliability when performing backend code generation due to constraint drift, brittle tool integration, and context limits. It discusses implications for building robust AI copilots and practical engineering safeguards.",
+      "summary_zh": "论文指出，在后端代码生成任务中，基于 LLM 的代理因约束漂移、工具集成脆弱性和上下文容量限制而表现不稳。并讨论构建鲁棒 AI 助手以及落地工程保护的要点。",
+      "hn": {
+        "id": 48256912,
+        "type": "story",
+        "by": "wek",
+        "score": 214,
+        "descendants": 114,
+        "time": 1779627353,
+        "comments_url": "https://news.ycombinator.com/item?id=48256912"
+      },
+      "tags": [
+        "AI",
+        "Programming",
+        "Web"
+      ],
+      "hot_score": 1.02
+    },
+    {
+      "title_en": "DeepSeek to Make Permanent 75% Discount on Flagship AI Model",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-23/deepseek-to-make-permanent-75-discount-on-flagship-ai-model",
+      "title_zh": "DeepSeek 将旗舰 AI 模型永久降价75%",
+      "created_display": "Created: May 24, 2026 / 07:09 PT",
+      "image_url": null,
+      "summary_en": "DeepSeek plans to lock in a permanent 75% discount on its flagship AI model, a move that could reshape competitive dynamics and accessibility. The strategy signals a push to broaden adoption among startups and researchers.",
+      "summary_zh": "DeepSeek 将旗舰 AI 模型永久降价 75%，此举可能重塑竞争格局与可及性。此策略表明其在推动初创公司和研究者广泛采用方面的野心。",
+      "hn": {
+        "id": 48257410,
+        "type": "story",
+        "by": "moh_maya",
+        "score": 190,
+        "descendants": 2,
+        "time": 1779631773,
+        "comments_url": "https://news.ycombinator.com/item?id=48257410"
+      },
+      "tags": [
+        "AI",
+        "Business"
+      ],
+      "hot_score": 1.02
+    },
+    {
+      "title_en": "Defeating Git Rigour Fatigue with Jujutsu",
+      "url": "https://ikesau.co/blog/defeating-git-rigour-fatigue-with-jujutsu/",
+      "title_zh": "以柔术化解 Git 的严格流程疲劳",
+      "created_display": "Created: May 24, 2026 / 11:39 PT",
+      "image_url": null,
+      "summary_en": "A pragmatic take argues against rigid Git workflows that burn out teams, offering lightweight, jujutsu-inspired practices to reduce cognitive load. Expect tips like smaller pull requests, incremental changes, and flexible branching to maintain momentum.",
+      "summary_zh": "文章认为对 Git 的过度严格流程会让团队疲惫，主张用“柔术式”的简化方法降低认知负荷。给出可操作的建议，如缩短提交范围、分支策略更灵活、逐步变更以保持开发势头。",
+      "hn": {
+        "id": 48259861,
+        "type": "story",
+        "by": "ikesau",
+        "score": 114,
+        "descendants": 119,
+        "time": 1779647950,
+        "comments_url": "https://news.ycombinator.com/item?id=48259861"
+      },
+      "tags": [
+        "Programming",
+        "DevOps"
+      ],
+      "hot_score": 1.01
+    },
+    {
+      "title_en": "Texas woman arrested for Facebook post about town water quality",
+      "url": "https://reclaimthenet.org/texas-woman-arrested-for-facebook-post-about-town-water-quality",
+      "title_zh": "德州女子因 Facebook 评论镇上水质被逮捕",
+      "created_display": "Created: May 23, 2026 / 11:02 PT",
+      "image_url": null,
+      "summary_en": "The article reports a Texas woman arrested over a Facebook post about local water quality, illustrating how online speech and civic concerns can collide with law enforcement. It underscores tensions around transparency, free expression, and digital activism.",
+      "summary_zh": "报道一名德州女子因对本地水质发表在社媒上的帖子被逮捕，折射出网络言论与执法之间的张力。文章讨论透明度、言论自由与数字化公共参与等议题。",
+      "hn": {
+        "id": 48249747,
+        "type": "story",
+        "by": "abawany",
+        "score": 705,
+        "descendants": 290,
+        "time": 1779559362,
+        "comments_url": "https://news.ycombinator.com/item?id=48249747"
+      },
+      "tags": [
+        "Politics"
+      ],
+      "hot_score": 0.99
+    },
+    {
+      "title_en": "Companies Are Just a Graph of Algorithms",
+      "url": "https://danielmiessler.com/blog/companies-graph-of-algorithms",
+      "title_zh": "公司只是一个算法图",
+      "created_display": "Created: May 24, 2026 / 21:00 PT",
+      "image_url": "https://danielmiessler.com/images/graph-of-algorithms-hero.png?t=1779570028837",
+      "summary_en": "Modern companies are largely shaped by algorithms and data pipelines, effectively forming a graph of interconnected decisions.",
+      "summary_zh": "现代公司在很大程度上由算法和数据管线驱动，形成一张相互连接的决策图。文章探讨这一视角对透明度、治理以及自动化组织中人类角色演变的影响。",
+      "hn": {
+        "id": 48263284,
+        "type": "story",
+        "by": "samuel246",
+        "score": 15,
+        "descendants": 3,
+        "time": 1779681648,
+        "comments_url": "https://news.ycombinator.com/item?id=48263284"
+      },
+      "hot_score": 0.99,
+      "tags": [
+        "Business",
+        "Data"
+      ]
+    },
+    {
+      "title_en": "Microsoft open-sources “the earliest DOS source code discovered to date”",
+      "url": "https://arstechnica.com/gadgets/2026/04/microsoft-open-sources-the-earliest-dos-source-code-discovered-to-date/",
+      "title_zh": "微软开源“迄今发现的最早 DOS 源代码”",
+      "created_display": "Created: May 23, 2026 / 18:21 PT",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/86-DOS-artifact-and-IBM-PC-1152x648.jpg",
+      "summary_en": "Microsoft released the earliest DOS source code discovered to date, offering a historical glimpse into early PC software and licensing. The release underscores the trend of open-sourcing archival code for education, transparency, and research.",
+      "summary_zh": "微软公开了迄今发现的最早 DOS 源代码，为早期个人电脑软件和许可制度提供了历史洞见。这一举动体现了公开档案代码以用于教育、透明度和研究的趋势。",
+      "hn": {
+        "id": 48253386,
+        "type": "story",
+        "by": "DamnInteresting",
+        "score": 456,
+        "descendants": 158,
+        "time": 1779585673,
+        "comments_url": "https://news.ycombinator.com/item?id=48253386"
+      },
+      "hot_score": 0.94,
+      "tags": [
+        "Open Source",
+        "Education"
+      ]
+    },
+    {
+      "title_en": "'AI washing': firms are scrambling to rebrand themselves as tech-focused",
+      "url": "https://www.theguardian.com/technology/2026/may/24/ai-washing-pr-firms-scrambling-rebrand",
+      "title_zh": "AI 洗白：企业争相包装成以技术为核心的公司",
+      "created_display": "Created: May 24, 2026 / 08:21 PT",
+      "image_url": "https://i.guim.co.uk/img/media/6c4dd4b2880760003ffbd14e8d6884b367237ad3/1844_305_2349_1879/master/2349.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8ae6c8a540881dcdf228bf87820a2733",
+      "summary_en": "Many firms are rushing to rebrand as technology-focused AI players, often without meaningful AI capabilities, a trend critics call AI washing. The piece surveys examples and explains why hype can outpace real product and talent investments, risking credibility and investor trust.",
+      "summary_zh": "许多公司急于把自己包装成以 AI 为核心的科技企业，往往缺乏实质性的 AI 能力，这种趋势被称为 AI 洗白。文中梳理了若干案例，解释了炒作如何赶超实际产品与人才投入，侵蚀可信度和投资者信任。",
+      "hn": {
+        "id": 48257980,
+        "type": "story",
+        "by": "Brajeshwar",
+        "score": 141,
+        "descendants": 133,
+        "time": 1779636088,
+        "comments_url": "https://news.ycombinator.com/item?id=48257980"
+      },
+      "tags": [
+        "Business",
+        "AI"
+      ],
+      "hot_score": 0.85
+    },
+    {
+      "title_en": "Childhood Computing",
+      "url": "https://susam.net/childhood-computing.html",
+      "title_zh": "童年计算",
+      "created_display": "Created: May 24, 2026 / 05:07 PT",
+      "image_url": null,
+      "summary_en": "Childhood Computing examines how early exposure to computing shapes later skills and interests. It offers anecdotes and practical ideas for educators and parents to cultivate curiosity, literacy, and responsible tech use from a young age.",
+      "summary_zh": "《童年计算》探讨了童年早期接触计算对日后技能与兴趣的影响。文章通过趣闻与可落地的教育建议，帮助教师和家长培养孩子的好奇心、计算素养以及对科技的负责任使用。",
+      "hn": {
+        "id": 48256597,
+        "type": "story",
+        "by": "blenderob",
+        "score": 184,
+        "descendants": 93,
+        "time": 1779624454,
+        "comments_url": "https://news.ycombinator.com/item?id=48256597"
+      },
+      "tags": [
+        "Education"
+      ],
+      "hot_score": 0.82
+    },
+    {
+      "title_en": "Ruby for Good",
+      "url": "https://ti.to/codeforgood/rubyforgood",
+      "title_zh": "Ruby for Good：用 Ruby 做善事",
+      "created_display": "Created: May 24, 2026 / 08:49 PT",
+      "image_url": "https://dashboard.assets.tito.io/assets/tito-facebook-og-a31ed3ae450963e8b87c683966ad5050849900a706314c4899d5d9213ba51aea.png",
+      "summary_en": "Ruby for Good mobilizes Ruby developers to volunteer on charitable tech projects, combining open-source collaboration with social impact. Participants gain practical experience while nonprofits receive improvements to software and operations.",
+      "summary_zh": "Ruby for Good 号召 Ruby 开发者参与慈善项目的技术工作，将开源协作与社会影响结合起来。参与者获得实战经验，非营利组织获得软件和运营上的改进。",
+      "hn": {
+        "id": 48258254,
+        "type": "story",
+        "by": "mooreds",
+        "score": 129,
+        "descendants": 53,
+        "time": 1779637759,
+        "comments_url": "https://news.ycombinator.com/item?id=48258254"
+      },
+      "tags": [
+        "Open Source"
+      ],
+      "hot_score": 0.82
+    },
+    {
+      "title_en": "Wake up! 16b",
+      "url": "https://hellmood.111mb.de/wake_up_16b_writeup.html",
+      "title_zh": "醒来！16b",
+      "created_display": "Created: May 23, 2026 / 17:30 PT",
+      "image_url": "https://content.pouet.net/files/screenshots/00106/00106210.jpg",
+      "summary_en": "A piece titled 'Wake up! 16b' appears to center on a 16-bit/16-byte concept, though the specifics aren’t clear from the title alone.",
+      "summary_zh": "题为“醒来！16b”的作品似乎聚焦于一个 16 位 / 16 字节的概念，但从标题本身很难判断具体内容。",
+      "hn": {
+        "id": 48253060,
+        "type": "story",
+        "by": "MaximilianEmel",
+        "score": 398,
+        "descendants": 30,
+        "time": 1779582650,
+        "comments_url": "https://news.ycombinator.com/item?id=48253060"
+      },
+      "tags": [
+        "Hardware"
+      ],
+      "hot_score": 0.78
+    },
+    {
+      "title_en": "Why is Vivado 2026.1 dropping Linux support for free tier?",
+      "url": "https://adaptivesupport.amd.com/s/question/0D5Pd00001YQLdMKAX/why-is-vivado-20261-dropping-linux-support-for-free-tier-?language=en_US",
+      "title_zh": "为什么 Vivado 2026.1 版本不再为免费版提供 Linux 支持？",
+      "created_display": "Created: May 23, 2026 / 21:14 PT",
+      "image_url": null,
+      "summary_en": "Vivado 2026.1 will drop Linux support for its free tier, cutting off Linux users from the no-cost FPGA design tool. The change pushes hobbyists, students, and small teams toward paid options or alternative ecosystems, highlighting the fragility of vendor-supplied open tooling. The move raises questions about accessibility and cross-platform support in critical design software.",
+      "summary_zh": "Vivado 2026.1 将不再为免费版提供 Linux 支持，意味着 Linux 用户将无法使用这款无成本的 FPGA 设计工具。此变动可能迫使业余爱好者、学生和小团队转向付费版本或寻找替代方案，凸显了依赖厂商的跨平台开工具的脆弱性。此举引发关于可访问性与跨平台支持在关键设计软件中的讨论。",
+      "hn": {
+        "id": 48254309,
+        "type": "story",
+        "by": "zdw",
+        "score": 312,
+        "descendants": 188,
+        "time": 1779596092,
+        "comments_url": "https://news.ycombinator.com/item?id=48254309"
+      },
+      "tags": [
+        "Business",
+        "Hardware"
+      ],
+      "hot_score": 0.77
+    },
+    {
+      "title_en": "Amazon Web Services – Four Years and Out",
+      "url": "https://www.adventuresinoss.com/aws-four-years/",
+      "title_zh": "AWS：四年后退场",
+      "created_display": "Created: May 23, 2026 / 21:51 PT",
+      "image_url": "https://www.adventuresinoss.com/images/aws-badge.png",
+      "summary_en": "A retrospective on a four-year run with Amazon Web Services and the reasons behind its termination.",
+      "summary_zh": "对一个在 AWS 上持续了四年的项目的回顾，揭示其终止的原因。",
+      "hn": {
+        "id": 48254475,
+        "type": "story",
+        "by": "RyeCombinator",
+        "score": 287,
+        "descendants": 116,
+        "time": 1779598282,
+        "comments_url": "https://news.ycombinator.com/item?id=48254475"
+      },
+      "tags": [
+        "Business"
+      ],
+      "hot_score": 0.73
+    },
+    {
+      "title_en": "Green card seekers must leave U.S. to apply, Trump administration says",
+      "url": "https://www.nytimes.com/2026/05/22/us/politics/green-card-changes-trump.html",
+      "title_zh": "申请绿卡者必须离开美国办理，政府称",
+      "created_display": "Created: May 22, 2026 / 14:27 PT",
+      "image_url": null,
+      "summary_en": "The policy change requires green-card seekers to file from outside the U.S., a shift that complicates immigration pathways for international workers and students in tech. The move has potential ripple effects on hiring, mobility, and global engineering teams.",
+      "summary_zh": "政策规定申请绿卡者必须在美国境外提交申请，此举可能使国际科技工作者的移民路径更为复杂，并对跨国招聘与团队协作产生连锁影响。",
+      "hn": {
+        "id": 48241890,
+        "type": "story",
+        "by": "tlhunter",
+        "score": 1057,
+        "descendants": 1860,
+        "time": 1779485232,
+        "comments_url": "https://news.ycombinator.com/item?id=48241890"
+      },
+      "tags": [
+        "Politics"
+      ],
+      "hot_score": 0.69
+    },
+    {
+      "title_en": "Time to talk about my writerdeck",
+      "url": "https://veronicaexplains.net/my-first-writerdeck/",
+      "title_zh": "是时候谈谈我的写作卡组",
+      "created_display": "Created: May 23, 2026 / 11:45 PT",
+      "image_url": "https://veronicaexplains.net/content/images/size/w1200/2026/05/writerdeck-for-blog.webp",
+      "summary_en": "A personal exploration of writerdeck, a card-based system for organizing writing ideas and tasks. It details how the author set it up, what kinds of cards they include, and how the deck helps with ideation and planning across long projects. Useful tips for starting your own writerdeck are included.",
+      "summary_zh": "对 writerdeck 的个人探索——一种用卡片组织写作灵感与任务的系统。文章讲述作者如何搭建、包含哪些卡片，以及它如何在长期项目中帮助创意产生与计划。文末提供了启动自己写作卡组的实用要点。",
+      "hn": {
+        "id": 48250144,
+        "type": "story",
+        "by": "hggh",
+        "score": 473,
+        "descendants": 280,
+        "time": 1779561937,
+        "comments_url": "https://news.ycombinator.com/item?id=48250144"
+      },
+      "tags": [
+        "Education"
+      ],
+      "hot_score": 0.69
+    },
+    {
+      "title_en": "Greg Brockman interview [video]",
+      "url": "https://fs.blog/knowledge-project-podcast/greg-brockman/",
+      "title_zh": "Greg Brockman 访谈（视频）",
+      "created_display": "Created: May 24, 2026 / 01:29 PT",
+      "image_url": "https://fs.blog/wp-content/uploads/2026/04/Cover-White-1024x1024.png",
+      "summary_en": "Key takeaways from Greg Brockman on building AI at scale, safety, governance, and the future of intelligence deployment, with reflections on engineering culture and long-term policy.",
+      "summary_zh": "Greg Brockman 就大规模 AI 构建、安全、治理及未来 AI 部署等议题给出要点，分享了工程文化与长期政策的看法。",
+      "hn": {
+        "id": 48255593,
+        "type": "story",
+        "by": "prakashqwerty",
+        "score": 193,
+        "descendants": 197,
+        "time": 1779611378,
+        "comments_url": "https://news.ycombinator.com/item?id=48255593"
+      },
+      "tags": [
+        "AI"
+      ],
+      "hot_score": 0.64
+    },
+    {
+      "title_en": "Mastering Dyalog APL",
+      "url": "https://mastering.dyalog.com/README.html",
+      "title_zh": "精通 Dyalog APL",
+      "created_display": "Created: May 24, 2026 / 04:42 PT",
+      "image_url": "https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png",
+      "summary_en": "Dyalog APL remains one of the most expressive array languages; this resource pack promises practical guidance—from idioms to performance tricks—to help you write concise, fast APL code. It emphasizes vectorized thinking and how to leverage Dyalog’s extensions for real-world data tasks.",
+      "summary_zh": "Dyalog APL 是最具表达力的数组语言之一，这份资源集合提供实用指南—from 常用习惯用法到性能技巧，帮助你写出简洁且高效的 APL 代码。文章强调向量化思维，以及如何利用 Dyalog 的扩展应对实际数据任务。",
+      "hn": {
+        "id": 48256475,
+        "type": "story",
+        "by": "tosh",
+        "score": 136,
+        "descendants": 36,
+        "time": 1779622935,
+        "comments_url": "https://news.ycombinator.com/item?id=48256475"
+      },
+      "tags": [
+        "Programming"
+      ],
+      "hot_score": 0.58
+    },
+    {
+      "title_en": "Scammers are abusing an internal Microsoft account to send spam links",
+      "url": "https://techcrunch.com/2026/05/21/scammers-are-abusing-an-internal-microsoft-account-to-send-spam/",
+      "title_zh": "骗子滥用微软内部账户发送垃圾链接",
+      "created_display": "Created: May 23, 2026 / 17:51 PT",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2025/07/microsoft-logo-1865237814.jpg?resize=1200,863",
+      "summary_en": "Scammers are abusing an internal Microsoft account to send spam links, illustrating how insider access points can be weaponized in phishing campaigns. The incident underscores the need for stronger internal controls, monitoring, and rapid incident response to prevent abuse from affecting users and partners.",
+      "summary_zh": "骗子滥用微软内部账户发送垃圾链接，暴露了内部权限也会被滥用的风险。事件凸显加强内部控制、监控和快速处置以防止滥用扩散的必要性。",
+      "hn": {
+        "id": 48253186,
+        "type": "story",
+        "by": "spike021",
+        "score": 280,
+        "descendants": 153,
+        "time": 1779583892,
+        "comments_url": "https://news.ycombinator.com/item?id=48253186"
+      },
+      "tags": [
+        "Security"
+      ],
+      "hot_score": 0.56
+    },
+    {
+      "title_en": "On The <dl> (2021)",
+      "url": "https://benmyers.dev/blog/on-the-dl/",
+      "title_zh": "关于 <dl> 标签",
+      "created_display": "Created: May 23, 2026 / 06:03 PT",
+      "image_url": "https://res.cloudinary.com/bendmyers/image/upload/v1656259981/benmyers.dev/on-the-dl.png",
+      "summary_en": "Definition lists encode associations between terms and descriptions using dt and dd. The piece argues for semantic clarity and accessibility best practices, comparing dl to other list types and offering guidance on markup, styling, and screen-reader behavior. Good usage improves parsing for assistive tech and search engines.",
+      "summary_zh": "定义列表通过 dt 与 dd 将术语与描述相关联。文章强调语义清晰与无障碍访问的最佳实践，比较 dl、ul 等列表的适用场景，并给出标记、样式与屏幕阅读器行为的建议。正确使用能提升辅助技术与搜索引擎的解析效果。",
+      "hn": {
+        "id": 48247325,
+        "type": "story",
+        "by": "ravenical",
+        "score": 431,
+        "descendants": 124,
+        "time": 1779541423,
+        "comments_url": "https://news.ycombinator.com/item?id=48247325"
+      },
+      "tags": [
+        "Web"
+      ],
+      "hot_score": 0.49
+    },
+    {
+      "title_en": "Perceptual Image Codec: What Matters in Practical Learned Image Compression",
+      "url": "https://apple.github.io/ml-pico/",
+      "title_zh": "感知图像编解码：实用学习型图像压缩中的要点",
+      "created_display": "Created: May 24, 2026 / 05:01 PT",
+      "image_url": "https://apple.github.io/ml-pico/assets/arxiv-icon.svg",
+      "summary_en": "This overview distills what actually matters in practical learned image compression: perceptual quality, rate-distortion trade-offs, training data, and deployment robustness. It argues for metrics and architectures that maintain perceptual fidelity under real-world constraints.",
+      "summary_zh": "本文提炼了实用的学习型图像压缩的关键要点：感知质量、码率-失真权衡、训练数据与落地稳健性。作者主张在实际约束下，选择能维持感知保真度的指标与架构。",
+      "hn": {
+        "id": 48256565,
+        "type": "story",
+        "by": "ksec",
+        "score": 107,
+        "descendants": 33,
+        "time": 1779624084,
+        "comments_url": "https://news.ycombinator.com/item?id=48256565"
+      },
+      "tags": [
+        "AI"
+      ],
+      "hot_score": 0.47
+    },
+    {
+      "title_en": "Building Pi with Pi",
+      "url": "https://lucumr.pocoo.org/2026/5/24/pi-oss/",
+      "title_zh": "用 Pi 构建 Pi",
+      "created_display": "Created: May 24, 2026 / 10:22 PT",
+      "image_url": "https://lucumr.pocoo.org/social/2026-05-24-pi-oss-social.png",
+      "summary_en": "It highlights the challenges and rewards of using a project’s own tooling to build its ecosystem.",
+      "summary_zh": "文章展示了用 Pi 自行构建 Pi 的自举过程，说明了自托管开发的技术要点与挑战，以及让项目自研工具链自成生态的潜在收益。",
+      "hn": {
+        "id": 48259192,
+        "type": "story",
+        "by": "mplanchard",
+        "score": 59,
+        "descendants": 18,
+        "time": 1779643368,
+        "comments_url": "https://news.ycombinator.com/item?id=48259192"
+      },
+      "tags": [
+        "DevOps"
+      ],
+      "hot_score": 0.44
+    },
+    {
+      "title_en": "The Art of Money Getting",
+      "url": "https://kk.org/cooltools/book-freak-210-the-art-of-money-getting/",
+      "title_zh": "赚钱的艺术",
+      "created_display": "Created: May 23, 2026 / 05:48 PT",
+      "image_url": "https://kk.org/cooltools/wp-content/themes/ct2016/images/logo.png",
+      "summary_en": "The Art of Money Getting revisits a 19th-century treatise on financial prudence, wealth-building, and frugality. Although old, the book's timeless ideas around disciplined income and risk management offer counterpoints to flashy startup hype.",
+      "summary_zh": "《赚钱的艺术》回顾一部19世纪关于财务谨慎、致富与节俭的著作，尽管年代久远，其关于纪律性收入与风险管理的思想对现代创业也有启示。",
+      "hn": {
+        "id": 48247208,
+        "type": "story",
+        "by": "dxs",
+        "score": 381,
+        "descendants": 210,
+        "time": 1779540482,
+        "comments_url": "https://news.ycombinator.com/item?id=48247208"
+      },
+      "tags": [
+        "Finance",
+        "Startups"
+      ],
+      "hot_score": 0.43
+    },
+    {
+      "title_en": "FreeBSD Foundation Executive Director Tries Daily Driving FreeBSD on Laptop",
+      "url": "https://www.phoronix.com/news/FreeBSD-On-Laptop-Driver",
+      "title_zh": "FreeBSD 基金会执行董事将 FreeBSD 日常驱动体验记录",
+      "created_display": "Created: May 24, 2026 / 09:36 PT",
+      "image_url": "https://www.phoronix.net/image.php?id=2026&image=freebsd_deb",
+      "summary_en": "A firsthand account of using FreeBSD as a daily driver on a laptop, covering hardware compatibility, performance, and practical takeaways for anyone considering BSD as a primary OS.",
+      "summary_zh": "对在笔记本上日常使用 FreeBSD 的第一手记录，涵盖硬件兼容性、性能表现以及将 BSD 作为主流操作系统时的实际要点。",
+      "hn": {
+        "id": 48258736,
+        "type": "story",
+        "by": "Bender",
+        "score": 54,
+        "descendants": 46,
+        "time": 1779640586,
+        "comments_url": "https://news.ycombinator.com/item?id=48258736"
+      },
+      "hot_score": 0.37,
+      "tags": [
+        "Open Source",
+        "Hardware"
+      ]
+    },
+    {
+      "title_en": "Project Glasswing: An Initial Update",
+      "url": "https://www.anthropic.com/research/glasswing-initial-update",
+      "title_zh": "Glasswing 项目：初步更新",
+      "created_display": "Created: May 22, 2026 / 12:31 PT",
+      "image_url": "https://cdn.sanity.io/images/4zrzovbb/website/8831fc381f1087ce855b4fbb4f080b2685ea38ec-1200x630.jpg",
+      "summary_en": "Anthropic provides an early progress update on Glasswing, outlining the project’s goals, scope, and planned milestones. The note signals continued investment in safety-focused evaluation and alignment research for future models.",
+      "summary_zh": "Anthropic 对 Glasswing 给出早期进展更新，概述项目目标、范围与后续里程碑。该更新体现其在面向更安全的模型对齐与评估方面持续投入。",
+      "hn": {
+        "id": 48240419,
+        "type": "story",
+        "by": "louiereederson",
+        "score": 531,
+        "descendants": 313,
+        "time": 1779478305,
+        "comments_url": "https://news.ycombinator.com/item?id=48240419"
+      },
+      "tags": [
+        "AI"
+      ],
+      "hot_score": 0.33
+    },
+    {
+      "title_en": "Italy moves to Airbus A330 tankers",
+      "url": "https://www.euronews.com/my-europe/2026/05/21/italy-moves-to-airbus-a330-tankers-in-major-nato-aligned-shift",
+      "title_zh": "意大利转向 Airbus A330 加油机",
+      "created_display": "Created: May 23, 2026 / 09:02 PT",
+      "image_url": null,
+      "summary_en": "Italy moves to Airbus A330 MRTT tankers to strengthen NATO interoperability and modernize its aerial refueling fleet. The choice aligns with European defense procurement trends and affects how Italy supports allied missions.",
+      "summary_zh": "意大利将采购 Airbus A330 MRTT 加油机，提升空中加油能力并增强与北约的协同作战能力。这一选择符合欧洲防务采购的现代化趋势，将影响意大利对盟军行动的支援能力。",
+      "hn": {
+        "id": 48248775,
+        "type": "story",
+        "by": "embedding-shape",
+        "score": 255,
+        "descendants": 100,
+        "time": 1779552163,
+        "comments_url": "https://news.ycombinator.com/item?id=48248775"
+      },
+      "tags": [
+        "Politics"
+      ],
+      "hot_score": 0.33
+    },
+    {
+      "title_en": "DeepSeek makes the V4 Pro price discount permanent",
+      "url": "https://api-docs.deepseek.com/quick_start/pricing",
+      "title_zh": "DeepSeek 将 V4 Pro 的价格折扣永久化",
+      "created_display": "Created: May 22, 2026 / 08:59 PT",
+      "image_url": "https://api-docs.deepseek.com/img/deepseek-social-card.jpeg",
+      "summary_en": "DeepSeek makes the V4 Pro price discount permanent, extending affordability for developers using their toolset. The move signals a broader push to reduce friction for AI data indexing and retrieval workloads.",
+      "summary_zh": "DeepSeek 将 V4 Pro 的折扣永久化，持续降低开发者在数据索引与检索上的成本。此举反映出为 AI 数据工作负载降低入门门槛的趋势。",
+      "hn": {
+        "id": 48237663,
+        "type": "story",
+        "by": "Tiberium",
+        "score": 573,
+        "descendants": 514,
+        "time": 1779465566,
+        "comments_url": "https://news.ycombinator.com/item?id=48237663"
+      },
+      "tags": [
+        "Business",
+        "AI"
+      ],
+      "hot_score": 0.32
+    },
+    {
+      "title_en": "Oura says it gets government demands for user data",
+      "url": "https://this.weekinsecurity.com/oura-says-it-gets-government-demands-for-user-data-will-it-share-how-many/",
+      "title_zh": "Oura 表示收到政府对用户数据的请求。它会公开数量吗？",
+      "created_display": "Created: May 23, 2026 / 07:09 PT",
+      "image_url": "https://storage.ghost.io/c/ed/a2/eda2c6f7-faef-48b4-9ed4-86a4fa4dca68/content/images/size/w1200/2026/05/ring-oura-zw-hero.jpeg",
+      "summary_en": "Wearable makers face government data requests; this piece examines transparency and whether Oura will disclose the volume of requests. It discusses privacy trade-offs, regulatory pressures, and how vendors balance user trust with compliance.",
+      "summary_zh": "可穿戴厂商会收到政府数据请求，文章探讨透明度以及 Oura 是否会披露请求数量。分析隐私取舍、监管压力，以及厂商在合规与用户信任之间的权衡。",
+      "hn": {
+        "id": 48247876,
+        "type": "story",
+        "by": "donohoe",
+        "score": 271,
+        "descendants": 149,
+        "time": 1779545397,
+        "comments_url": "https://news.ycombinator.com/item?id=48247876"
+      },
+      "tags": [
+        "Privacy",
+        "Politics"
+      ],
+      "hot_score": 0.32
+    },
+    {
+      "title_en": "Alexander Grothendieck Revolutionized 20th-Century Mathematics",
+      "url": "https://www.quantamagazine.org/how-alexander-grothendieck-revolutionized-20th-century-mathematics-20260520/",
+      "title_zh": "亚历山大·格罗滕迪克如何革新了20世纪数学",
+      "created_display": "Created: May 23, 2026 / 20:19 PT",
+      "image_url": "https://www.quantamagazine.org/wp-content/uploads/2026/05/Grothendieck-cr-Mercedes-deBellard-Social.jpg",
+      "summary_en": "Grothendieck profoundly reshaped 20th-century mathematics by advancing categories, toposes, and structural thinking. The piece traces how his ideas redirected the field toward abstraction and unifying frameworks that influenced algebraic geometry and beyond.",
+      "summary_zh": "格罗滕迪克通过推进范畴、层概念以及结构化思维，深刻改变了20世纪的数学。文章梳理了他如何把数学推向高度抽象的统一框架，深远影响了代数几何及其他领域。",
+      "hn": {
+        "id": 48254020,
+        "type": "story",
+        "by": "anujbans",
+        "score": 135,
+        "descendants": 31,
+        "time": 1779592742,
+        "comments_url": "https://news.ycombinator.com/item?id=48254020"
+      },
+      "tags": [
+        "Science"
+      ],
+      "hot_score": 0.31
+    },
+    {
+      "title_en": "The C64 Dead Test Font",
+      "url": "https://www.masswerk.at/nowgobang/2026/c64-dead-test-font",
+      "title_zh": "C64 的 Dead Test 字体",
+      "created_display": "Created: May 23, 2026 / 20:57 PT",
+      "image_url": "https://www.masswerk.at/nowgobang/images/dead-test-font-title.jpg",
+      "summary_en": "A faithful recreation of the Commodore 64's iconic Dead Test font, enabling pixel-perfect retro typography in modern projects. The bitmap glyphs reproduce the C64 look for use in emulators, demos, and educational materials without relying on legacy ROMs. This underscores ongoing interest in authentic vintage typography for authenticity in demos and tutorials.",
+      "summary_zh": "忠实再现了 Commodore 64 的 Dead Test 位图字形，使现代项目能够实现像素级的复古字体效果。此字体便于在仿真器、演示和教学材料中再现 C64 的风格，而无需依赖旧 ROM。显示出在演示与教育场景中对复古排版真实性的持续需求。",
+      "hn": {
+        "id": 48254236,
+        "type": "story",
+        "by": "masswerk",
+        "score": 131,
+        "descendants": 26,
+        "time": 1779595021,
+        "comments_url": "https://news.ycombinator.com/item?id=48254236"
+      },
+      "tags": [
+        "Design"
+      ],
+      "hot_score": 0.31
+    },
+    {
+      "title_en": "SpaceX launches Starship v3 rocket",
+      "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starship-v3-megarocket-first-test-flight",
+      "title_zh": "SpaceX 发射 Starship v3 火箭",
+      "created_display": "Created: May 22, 2026 / 16:41 PT",
+      "image_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/mpx/2704722219/2026_05/1779492307346_now_brk_spacex_starship_launch_260522_S3_1920x1080-zoo54r.jpg",
+      "summary_en": "SpaceX successfully launches Starship v3 prototype, marking progress toward high-thrust, reusable orbital capability. Analysts will watch for performance metrics, reusability data, and how the vehicle scales for future missions.",
+      "summary_zh": "SpaceX 成功发射 Starship v3 原型机，标志着朝着高推力、可重复使用的轨道飞行能力迈进。分析师将关注性能指标、重复使用数据，以及该型号未来任务的可扩展性。",
+      "hn": {
+        "id": 48242959,
+        "type": "story",
+        "by": "busymom0",
+        "score": 417,
+        "descendants": 285,
+        "time": 1779493315,
+        "comments_url": "https://news.ycombinator.com/item?id=48242959"
+      },
+      "tags": [
+        "Space"
+      ],
+      "hot_score": 0.29
+    },
+    {
+      "title_en": "80386 microcode disassembled",
+      "url": "https://www.reenigne.org/blog/80386-microcode-disassembled/",
+      "title_zh": "80386 微码拆解",
+      "created_display": "Created: May 23, 2026 / 05:11 PT",
+      "image_url": "https://secure.gravatar.com/avatar/550aaf983444d05b735b06d83e5714f386487ca8772a5ddd9822d39da0864d89?s=32&d=mm&r=g",
+      "summary_en": "Disassembling the 80386 microcode sheds light on how early x86 processors implemented instructions and durations. It reveals the architectural design decisions behind the era's performance tricks and has relevance for retrocomputing and security research.",
+      "summary_zh": "对 80386 微码的拆解揭示了早期 x86 处理器如何实现指令及周期。揭示了当时的体系结构设计选择、性能取巧，以及对后世的 retrocomputing 与安全研究的影响。",
+      "hn": {
+        "id": 48247004,
+        "type": "story",
+        "by": "nand2mario",
+        "score": 266,
+        "descendants": 50,
+        "time": 1779538303,
+        "comments_url": "https://news.ycombinator.com/item?id=48247004"
+      },
+      "tags": [
+        "Hardware",
+        "Programming",
+        "Security"
+      ],
+      "hot_score": 0.29
+    },
+    {
+      "title_en": "The seed oil panic is hurting my cardiac patients",
+      "url": "https://www.statnews.com/2026/05/22/seed-oils-healthy-fats-tallow-fact-check-cardiac-health/",
+      "title_zh": "籽油恐慌正在伤害心血管患者",
+      "created_display": "Created: May 24, 2026 / 07:27 PT",
+      "image_url": "https://www.statnews.com/wp-content/uploads/2026/05/AdobeStock_1933838136-1024x576.jpeg",
+      "summary_en": "A factual briefing debunks myths about seed oils, clarifying their impact on heart health and how misinformation can drive worse dietary choices. The piece cautions clinicians and patients to rely on evidence-based fats and not succumb to fear-based trends.",
+      "summary_zh": "这篇事实核查澄清关于籽油的错误信息，解释其对心血管健康的真实影响，并指出恐慌性饮食趋势可能带来更糟的选择。文章提醒医生与患者坚持循证营养，理性看待脂肪来源。",
+      "hn": {
+        "id": 48257532,
+        "type": "story",
+        "by": "randycupertino",
+        "score": 53,
+        "descendants": 16,
+        "time": 1779632846,
+        "comments_url": "https://news.ycombinator.com/item?id=48257532"
+      },
+      "hot_score": 0.29,
+      "tags": [
+        "Health"
+      ]
+    },
+    {
+      "title_en": "Don't know where your data is from? Bayesian modeling for unknown coordinates",
+      "url": "https://christopherkrapu.com/blog/2026/dont-know-where-your-data-is-from/",
+      "title_zh": "不知道数据来自何处？未知坐标的贝叶斯建模",
+      "created_display": "Created: May 24, 2026 / 10:18 PT",
+      "image_url": "https://christopherkrapu.com/images/2026-05-24-dont-know-where-your-data-is-from/error-in-location-grid.png",
+      "summary_en": "When data provenance is uncertain or coordinates are missing, Bayesian modeling can quantify uncertainty and help infer likely origins, enabling better data integration and bias assessment. The post outlines practical approaches and cautions.",
+      "summary_zh": "当数据来源不确定或坐标信息缺失时，贝叶斯建模可量化不确定性并推断可能的来源，帮助实现更可靠的数据整合与偏差评估。文中介绍了实用的方法与注意事项。",
+      "hn": {
+        "id": 48259158,
+        "type": "story",
+        "by": "ckrapu",
+        "score": 37,
+        "descendants": 1,
+        "time": 1779643132,
+        "comments_url": "https://news.ycombinator.com/item?id=48259158"
+      },
+      "tags": [
+        "Data"
+      ],
+      "hot_score": 0.27
+    },
+    {
+      "title_en": "ICE Awards $25M Iris-Scanning Contract to Bi2 Technologies",
+      "url": "https://www.projectsaltbox.com/p/ice-awards-25-million-iris-scanning",
+      "title_zh": "ICE 授予 Bi2 Technologies 2500 万美元虹膜识别合同",
+      "created_display": "Created: May 23, 2026 / 16:39 PT",
+      "image_url": "https://substackcdn.com/image/fetch/$s_!Stcm!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb22e7dca-a011-4721-aded-1e0da26b470e_1900x1214.png",
+      "summary_en": "The U.S. Immigration and Customs Enforcement awards Bi2 Technologies a $25 million contract to deploy iris-scanning systems, raising privacy and civil-liberties questions about biometric surveillance.",
+      "summary_zh": "ICE 授予 Bi2 Technologies 一份价值2500万美元的虹膜识别合同，引发对生物识别监控的隐私与公民自由问题的讨论。",
+      "hn": {
+        "id": 48252720,
+        "type": "story",
+        "by": "cdrnsf",
+        "score": 130,
+        "descendants": 37,
+        "time": 1779579583,
+        "comments_url": "https://news.ycombinator.com/item?id=48252720"
+      },
+      "tags": [
+        "Privacy",
+        "Security"
+      ],
+      "hot_score": 0.24
+    },
+    {
+      "title_en": "My I3-Emacs Integration",
+      "url": "https://khz.ac/software/i3-integration.html",
+      "title_zh": "我的 I3 与 Emacs 集成",
+      "created_display": "Created: May 23, 2026 / 16:13 PT",
+      "image_url": null,
+      "summary_en": "A personal writeup detailing how the author integrates the i3 window manager with Emacs to streamline workflows. It covers keybindings, window management ergonomics, and tips for making Emacs feel native within a tiling environment.",
+      "summary_zh": "作者分享在 i3 窗口管理器和 Emacs 之间的集成方案，描述如何通过自定义快捷键和排布实现无缝工作流，使 Emacs 在平铺窗口环境中更高效。",
+      "hn": {
+        "id": 48252535,
+        "type": "story",
+        "by": "nosolace",
+        "score": 129,
+        "descendants": 48,
+        "time": 1779578022,
+        "comments_url": "https://news.ycombinator.com/item?id=48252535"
+      },
+      "tags": [
+        "Programming"
+      ],
+      "hot_score": 0.23
+    },
+    {
+      "title_en": "Don't Roll Your Own",
+      "url": "https://susam.net/do-not-roll-your-own.html",
+      "title_zh": "不要自己造轮子：不要自己实现加密算法",
+      "created_display": "Created: May 23, 2026 / 15:25 PT",
+      "image_url": "https://susam.net/files/blog/ghdbg.png",
+      "summary_en": "Don't Roll Your Own argues against implementing cryptography from scratch; instead, rely on vetted libraries and standards to avoid subtle flaws and security risks. It provides guidelines for when to use established crypto primitives and how to securely compose them.",
+      "summary_zh": "不要自己造轮子：不要从零实现加密算法；应使用经过验证的库和标准，以避免细微缺陷和安全风险。文中给出在何时应选用成熟的密码学原语以及如何安全地组合它们的实用建议。",
+      "hn": {
+        "id": 48252192,
+        "type": "story",
+        "by": "adunk",
+        "score": 121,
+        "descendants": 105,
+        "time": 1779575105,
+        "comments_url": "https://news.ycombinator.com/item?id=48252192"
+      },
+      "hot_score": 0.21,
+      "tags": [
+        "Security"
+      ]
+    },
+    {
+      "title_en": "Making deep learning go brrrr from first principles (2022)",
+      "url": "https://horace.io/brrr_intro.html",
+      "title_zh": "从第一性原理让深度学习跑起来",
+      "created_display": "Created: May 23, 2026 / 04:50 PT",
+      "image_url": "https://horace.io/img/perf_intro/gpus_go_brrr.webp",
+      "summary_en": "From first principles, this piece builds intuition for deep learning by focusing on core ideas like differentiable graphs, backpropagation, and optimization. It shows how simple concepts, engineered well, can power substantial performance gains without hype.",
+      "summary_zh": "从第一性原理出发，聚焦可微分计算图、反向传播与优化等核心思想，帮助读者建立深度学习直觉。展示如何用简单原理通过仔细设计实现显著性能提升，而非靠炒作。",
+      "hn": {
+        "id": 48246889,
+        "type": "story",
+        "by": "tosh",
+        "score": 177,
+        "descendants": 63,
+        "time": 1779537022,
+        "comments_url": "https://news.ycombinator.com/item?id=48246889"
+      },
+      "tags": [
+        "AI",
+        "Programming"
+      ],
+      "hot_score": 0.19
+    },
+    {
+      "title_en": "Microsoft's 6502 BASIC is now Open Source (2025)",
+      "url": "https://opensource.microsoft.com/blog/2025/09/03/microsoft-open-source-historic-6502-basic/",
+      "title_zh": "微软的6502 BASIC现开源（2025）",
+      "created_display": "Created: May 24, 2026 / 06:16 PT",
+      "image_url": "https://opensource.microsoft.com/blog/wp-content/uploads/2025/09/Open-Source-Microsoft-retro-logo.png",
+      "summary_en": "Microsoft has open-sourced its historic 6502 BASIC interpreter, a relic from early home computing. The move highlights a broader trend of preserving legacy software as open source and gives hobbyists a clean reference implementation to study or adapt.",
+      "summary_zh": "微软已将其历史悠久的6502 BASIC解释器开源，这是早期家用计算机的里程碑。此举反映了保护遗留软件的开源趋势，为爱好者提供了一个整洁的参考实现，便于研究或改造。",
+      "hn": {
+        "id": 48257058,
+        "type": "story",
+        "by": "GTP",
+        "score": 39,
+        "descendants": 9,
+        "time": 1779628593,
+        "comments_url": "https://news.ycombinator.com/item?id=48257058"
+      },
+      "hot_score": 0.19,
+      "tags": [
+        "Open Source",
+        "Programming"
+      ]
+    },
+    {
+      "title_en": "Spanish court declines to fine NordVPN over LaLiga piracy blocking order",
+      "url": "https://torrentfreak.com/spanish-court-declines-to-fine-nordvpn-over-laliga-piracy-blocking-order/",
+      "title_zh": "西班牙法院拒绝就 NordVPN 处以罚款",
+      "created_display": "Created: May 22, 2026 / 23:54 PT",
+      "image_url": "https://torrentfreak.com/images/grass-soccer.jpg",
+      "summary_en": "A Spanish court refused to fine NordVPN for LaLiga piracy blocking orders, suggesting that the enforcement of blocking requests against VPNs remains legally nuanced. The decision affects how anti-piracy measures are applied to privacy-focused services and could influence future court rulings.",
+      "summary_zh": "西班牙法院裁定不对 NordVPN就LaLiga 阻止盗版的拦截令处以罚款，显示对 VPN 服务的取证与执行仍具法理上的复杂性。此判决或将影响将来对隐私保护服务的版权拦截措施及司法走向。",
+      "hn": {
+        "id": 48245362,
+        "type": "story",
+        "by": "gslin",
+        "score": 198,
+        "descendants": 113,
+        "time": 1779519289,
+        "comments_url": "https://news.ycombinator.com/item?id=48245362"
+      },
+      "tags": [
+        "Legal",
+        "Privacy"
+      ],
+      "hot_score": 0.18
+    },
+    {
+      "title_en": "-​-dangerously-skip-reading-code",
+      "url": "https://olano.dev/blog/dangerously-skip/",
+      "title_zh": "危险地跳过阅读代码",
+      "created_display": "Created: May 23, 2026 / 02:37 PT",
+      "image_url": "https://olano.dev/assets/img/bird.png",
+      "summary_en": "A candid take on the hazards of skipping code reading—bugs, security flaws, and fragile designs creep in when teams skim rather than read. The post advocates deliberate reading, thorough reviews, and supportive tooling to catch subtle issues.",
+      "summary_zh": "直言不讳地指出跳过仔细阅读代码的风险：草率浏览、潜在的安全漏洞和脆弱的设计容易被忽视。文章主张认真阅读、全面评审，并借助工具提升代码理解与质量控制。",
+      "hn": {
+        "id": 48246232,
+        "type": "story",
+        "by": "fagnerbrack",
+        "score": 187,
+        "descendants": 183,
+        "time": 1779529036,
+        "comments_url": "https://news.ycombinator.com/item?id=48246232"
+      },
+      "tags": [
+        "Programming",
+        "Security"
+      ],
+      "hot_score": 0.18
+    },
+    {
+      "title_en": "I spent 50 hours drawing a line graph",
+      "url": "https://www.dougmacdowell.com/50-hours-to-draw-some-lines.html",
+      "title_zh": "我花了50个小时画一条折线图",
+      "created_display": "Created: May 21, 2026 / 08:05 PT",
+      "image_url": "https://dougmacdowell.com/images/coffeematic-pc-coffee-maker-computer-temperature-analysis.webp",
+      "summary_en": "A long-form experiment on the craft of data visualization, the author documents the meticulous process of drawing a single line graph. It highlights the tension between automation and aesthetic fidelity, and why careful presentation matters for conveying insight.",
+      "summary_zh": "这是一篇关于数据可视化工艺的长篇实验记录，作者详述绘制一张折线图的细致过程。强调自动化与美学忠诚之间的张力，以及精心呈现对传达洞察的重要性。",
+      "hn": {
+        "id": 48223997,
+        "type": "story",
+        "by": "dougdude3339",
+        "score": 496,
+        "descendants": 87,
+        "time": 1779375928,
+        "comments_url": "https://news.ycombinator.com/item?id=48223997"
+      },
+      "tags": [
+        "Data",
+        "Design"
+      ],
+      "hot_score": 0.15
+    },
+    {
+      "title_en": "Electrobun 2.0 will be decoupled from Bun due to the Rust rewrite",
+      "url": "https://twitter.com/YoavCodes/status/2058064720553222567",
+      "title_zh": "Electrobun 2.0 将因重写为 Rust 而与 Bun 解耦",
+      "created_display": "Created: May 23, 2026 / 04:54 PT",
+      "image_url": "https://pbs.twimg.com/profile_images/1920854672216064000/-iUcVNDF_200x200.jpg",
+      "summary_en": "Electrobun 2.0 is being decoupled from Bun as a Rust rewrite advances, signaling modular architecture and performance goals. The shift matters for developers depending on Bun for fast tooling and for understanding how language runtimes evolve.",
+      "summary_zh": "由于用 Rust 重写，Electrobun 2.0 将与 Bun 分离，朝向更模块化、性能导向的架构。此变动对依赖 Bun 的开发者及运行时演进具有重要意义。",
+      "hn": {
+        "id": 48246917,
+        "type": "story",
+        "by": "bundie",
+        "score": 134,
+        "descendants": 144,
+        "time": 1779537279,
+        "comments_url": "https://news.ycombinator.com/item?id=48246917"
+      },
+      "tags": [
+        "Programming",
+        "Open Source"
+      ],
+      "hot_score": 0.14
+    },
+    {
+      "title_en": "Judson's Last Ride",
+      "url": "https://www.realclearpolitics.com/articles/2026/05/22/judsons_last_ride_154150.html",
+      "title_zh": "Judson 的最后之旅",
+      "created_display": "Created: May 23, 2026 / 05:09 PT",
+      "image_url": null,
+      "summary_en": "A political op-ed examining the final phase of Judson's career and what it signals for the current political landscape.",
+      "summary_zh": "一篇政治评论，探讨 Judson 公职生涯的最后阶段及其对当前政治格局的影响。",
+      "hn": {
+        "id": 48246993,
+        "type": "story",
+        "by": "NaOH",
+        "score": 125,
+        "descendants": 7,
+        "time": 1779538145,
+        "comments_url": "https://news.ycombinator.com/item?id=48246993"
+      },
+      "tags": [
+        "Politics"
+      ],
+      "hot_score": 0.14
+    },
+    {
+      "title_en": "Reverse engineering circuitry in a Spacelab computer from 1980",
+      "url": "https://www.righto.com/2026/05/reverse-engineering-spacelab-computer.html",
+      "title_zh": "对1980年Spacelab计算机电路的反向工程",
+      "created_display": "Created: May 23, 2026 / 09:24 PT",
+      "image_url": "https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_vtNK4xn-G0uG8zN0nkXI3e8V7Pa15uDTBvNk37rgFTocODPjFfoDKOprDfW5nuwqs5meprIv0MJlTjwC9bkdXSAfVD-PIkL0rvI6Ybx82BvYeIHHpU-AFJFjDBJqTMFtHI=w1200-h630-p-k-no-nu",
+      "summary_en": "A deep dive into dissecting a vintage Spacelab computer's circuitry from 1980, outlining the reverse-engineering approach and notable findings about its hardware and architecture.",
+      "summary_zh": "对1980年Spacelab计算机电路的反向工程，概述了分析方法和硬件架构的关键发现。文中指出解读旧电路图的挑战，以及这项工作对早期航天计算的启示。",
+      "hn": {
+        "id": 48248954,
+        "type": "story",
+        "by": "elpocko",
+        "score": 109,
+        "descendants": 21,
+        "time": 1779553490,
+        "comments_url": "https://news.ycombinator.com/item?id=48248954"
+      },
+      "tags": [
+        "Hardware"
+      ],
+      "hot_score": 0.14
+    },
+    {
+      "title_en": "Hengefinder: Finding when the sun aligns with your street",
+      "url": "https://victoriaritvo.com/blog/hengefinder/",
+      "title_zh": "Hengefinder：寻找太阳与街道对齐的时刻",
+      "created_display": "Created: May 22, 2026 / 13:39 PT",
+      "image_url": "https://victoriaritvo.com/blog/hengefinder/manhattanhenge_photo.jpg",
+      "summary_en": "Hengefinder is described as a tool to determine when the Sun aligns with a street's orientation, enabling urban planning, photography, and historical astronomy studies. It helps enthusiasts predict solar events that create henge-like light—useful for architecture and culture projects.",
+      "summary_zh": "介绍一款工具，旨在找出太阳与街道走向对齐时刻，便于城市规划、摄影与考古天文研究。它帮助爱好者预测会出现日光对齐的日子，便于相关项目。",
+      "hn": {
+        "id": 48241335,
+        "type": "story",
+        "by": "evakhoury",
+        "score": 183,
+        "descendants": 38,
+        "time": 1779482382,
+        "comments_url": "https://news.ycombinator.com/item?id=48241335"
+      },
+      "tags": [
+        "Science",
+        "Energy"
+      ],
+      "hot_score": 0.12
+    },
+    {
+      "title_en": "Air France and Airbus found guilty of manslaughter over 2009 plane crash",
+      "url": "https://www.bbc.com/news/articles/czd2qmdvmq6o",
+      "title_zh": "空客和法航因2009年空难被判过失杀人罪",
+      "created_display": "Created: May 23, 2026 / 13:09 PT",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/d5b5/live/0f7f6c10-5511-11f1-9e5e-fb37d8c40e64.jpg",
+      "summary_en": "A French court held Air France and Airbus legally responsible for a fatal 2009 crash, finding manslaughter due to negligence.",
+      "summary_zh": "法国法院认定空中客车和法航在2009年空难中有过失杀人罪，判定二者对事故负有法律责任。",
+      "hn": {
+        "id": 48250980,
+        "type": "story",
+        "by": "baal80spam",
+        "score": 80,
+        "descendants": 50,
+        "time": 1779566953,
+        "comments_url": "https://news.ycombinator.com/item?id=48250980"
+      },
+      "tags": [
+        "Legal"
+      ],
+      "hot_score": 0.12
+    },
+    {
+      "title_en": ".NET (OK, C#) finally gets union types",
+      "url": "https://andrewlock.net/exploring-the-dotnet-11-preview-2-dotnet-gets-union-types/",
+      "title_zh": ".NET（C#）引入联合类型",
+      "created_display": "Created: May 22, 2026 / 05:28 PT",
+      "image_url": "https://andrewlock.net/content/images/2026/unions.png",
+      "summary_en": ".NET 11 preview 2 adds union types to C#, enabling sum types and more expressive data modeling. This brings functional-style patterns to C# and could simplify error handling and domain modeling. Expect changes to pattern matching and code that previously relied on discriminated unions.",
+      "summary_zh": ".NET 11 预览版为 C# 引入联合类型，使表达变体和不同类型的值更为简洁，从而提升数据建模和错误处理的能力。这将把函数式风格的模式匹配带入 C#，并可能影响依赖判定的联合类型的代码。相关代码与库可能需要调整以利用新特性。",
+      "hn": {
+        "id": 48234954,
+        "type": "story",
+        "by": "ingve",
+        "score": 214,
+        "descendants": 241,
+        "time": 1779452930,
+        "comments_url": "https://news.ycombinator.com/item?id=48234954"
+      },
+      "tags": [
+        "Programming"
+      ],
+      "hot_score": 0.11
+    },
+    {
+      "title_en": "Claude Is Not Your Architect. Stop Letting It Pretend",
+      "url": "https://www.hollandtech.net/claude-is-not-your-architect/",
+      "title_zh": "Claude 不是你的架构师；别让它假装",
+      "created_display": "Created: May 24, 2026 / 11:28 PT",
+      "image_url": "https://www.hollandtech.net/og/claude-is-not-your-architect.png",
+      "summary_en": "Claude is not a substitute for a software architect; overreliance on generative AI for architecture decisions can lead to brittle designs and misalignments with real-world constraints. The piece argues for keeping humans in the loop and validating architecture choices with domain expertise.",
+      "summary_zh": "Claude 不能替代软件架构师；过度依赖生成式 AI 做架构决策可能导致设计脆弱、与实际约束不符。文章主张让人类保持决策主导并用领域专业知识对架构方案进行核验。",
+      "hn": {
+        "id": 48259784,
+        "type": "story",
+        "by": "cdrnsf",
+        "score": 14,
+        "descendants": 7,
+        "time": 1779647291,
+        "comments_url": "https://news.ycombinator.com/item?id=48259784"
+      },
+      "hot_score": 0.11,
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "title_en": "West Coast Cities Turn to Vacancy Taxes to Grapple with Housing Crisis",
+      "url": "https://www.theurbanist.org/west-coast-cities-turn-to-vacancy-taxes-to-grapple-with-housing-crisis/",
+      "title_zh": "西海岸城市通过空置税应对住房危机",
+      "created_display": "Created: May 24, 2026 / 12:52 PT",
+      "image_url": "https://storage.ghost.io/c/19/31/1931222a-d1c5-42ac-8932-2ee3ac1f8927/content/images/size/w1200/2026/05/1920px-Skyline_of_Vancouver__Canada_ynpdcz-1-.jpg",
+      "summary_en": "West Coast cities are experimenting with vacancy taxes to curb housing shortages, discouraging owners from leaving units empty and funding housing initiatives. The move reflects a broader strategy to boost housing supply and address affordability.",
+      "summary_zh": "西海岸多城正在试验空置税以缓解住房短缺，打击房屋空置并为住房计划筹集资金。这一举措体现了扩大住房供给和解决可负担性问题的综合策略。",
+      "hn": {
+        "id": 48260448,
+        "type": "story",
+        "by": "harambae",
+        "score": 11,
+        "descendants": 1,
+        "time": 1779652348,
+        "comments_url": "https://news.ycombinator.com/item?id=48260448"
+      },
+      "hot_score": 0.11,
+      "tags": [
+        "Politics"
+      ]
+    },
+    {
+      "title_en": "My two-part desk setup (2025)",
+      "url": "https://arslan.io/2025/11/18/my-two-part-desk-setup/",
+      "title_zh": "我的两段式桌面设置",
+      "created_display": "Created: May 20, 2026 / 14:21 PT",
+      "image_url": "https://storage.ghost.io/c/ce/27/ce27a3ef-1519-4f17-a161-c8cdf7793306/content/images/size/w1200/2025/11/L1000757-1.jpeg",
+      "summary_en": "The post walks through a two-part desk setup, detailing how the space is split for different tasks and how the author manages desks, monitors, and cables. It offers practical tips on layout, ergonomics, and modular organization that boost focus and comfort.",
+      "summary_zh": "文中描述了一个分为两部分的桌面工作区，分工明确、设备分区和线缆管理被讲解清楚。提供了关于布局、人体工学和模块化整理的实用建议，帮助提升专注与舒适度。",
+      "hn": {
+        "id": 48214311,
+        "type": "story",
+        "by": "James72689",
+        "score": 343,
+        "descendants": 209,
+        "time": 1779312074,
+        "comments_url": "https://news.ycombinator.com/item?id=48214311"
+      },
+      "tags": [
+        "Design"
+      ],
+      "hot_score": 0.08
+    },
+    {
+      "title_en": "Byrne's Euclid",
+      "url": "https://www.c82.net/euclid/",
+      "title_zh": "Byrne 的 Euclid：几何学的现代呈现",
+      "created_display": "Created: May 23, 2026 / 15:19 PT",
+      "image_url": "https://www.c82.net/images/euclid/social-preview.jpg",
+      "summary_en": "A modern edition of Euclid by Byrne; the article explores how Byrne reimagines Euclid's Elements for learning and discovery, possibly with interactive tools.",
+      "summary_zh": "Byrne 对 Euclid 的现代演绎，重新呈现《几何学原本》以便学习与发现，或包含互动工具。",
+      "hn": {
+        "id": 48252146,
+        "type": "story",
+        "by": "layer8",
+        "score": 45,
+        "descendants": 12,
+        "time": 1779574776,
+        "comments_url": "https://news.ycombinator.com/item?id=48252146"
+      },
+      "tags": [
+        "Education"
+      ],
+      "hot_score": 0.08
+    },
+    {
+      "title_en": "The Worlds Left to Conquer",
+      "url": "https://ludic.mataroa.blog/blog/the-worlds-left-to-conquer/",
+      "title_zh": "尚待征服的世界",
+      "created_display": "Created: May 24, 2026 / 03:48 PT",
+      "image_url": null,
+      "summary_en": "A reflective look at the remaining frontiers across science, technology, and exploration. It catalogs ambitious problems and opportunities that could drive the next decade of innovation.",
+      "summary_zh": "对科学、技术与探索领域尚未征服的前沿进行反思性回顾，梳理能在未来十年推动创新的挑战与机会。",
+      "hn": {
+        "id": 48256192,
+        "type": "story",
+        "by": "pards",
+        "score": 21,
+        "descendants": 5,
+        "time": 1779619728,
+        "comments_url": "https://news.ycombinator.com/item?id=48256192"
+      },
+      "hot_score": 0.08,
+      "tags": [
+        "Science"
+      ]
+    },
+    {
+      "title_en": "Build Adafruit projects right from Firefox",
+      "url": "https://www.firefox.com/en-US/landing/adafruit/",
+      "title_zh": "Firefox 让 Adafruit 项目直接在浏览器构建",
+      "created_display": "Created: May 21, 2026 / 20:13 PT",
+      "image_url": "https://www.firefox.com/media/img/firefox/flare/og.4d50d9b1674b.png",
+      "summary_en": "Firefox now enables building and interacting with Adafruit hardware projects directly from the browser, leveraging in-browser USB/Serial capabilities. This reduces setup friction for makers and demonstrates growing hardware-tethered experiences in the browser.",
+      "summary_zh": "Firefox 现在支持直接在浏览器中构建并与 Adafruit 硬件项目互动，利用浏览器内的 USB/串口能力。为开发者和创客降低了上手难度，展现出浏览器在硬件协作方面日益成熟的趋势。",
+      "hn": {
+        "id": 48231547,
+        "type": "story",
+        "by": "mch82",
+        "score": 149,
+        "descendants": 49,
+        "time": 1779419587,
+        "comments_url": "https://news.ycombinator.com/item?id=48231547"
+      },
+      "tags": [
+        "Hardware",
+        "Web"
+      ],
+      "hot_score": 0.06
+    },
+    {
+      "title_en": "I keep bouncing off the Scheme language",
+      "url": "https://www.sicpers.info/2026/05/i-keep-bouncing-off-the-scheme-language/",
+      "title_zh": "我一直被 Scheme 语言卡住",
+      "created_display": "Created: May 22, 2026 / 01:32 PT",
+      "image_url": "https://www.sicpers.info/wp-content/uploads/2022/02/image.jpg",
+      "summary_en": "The author chronicles ongoing friction with Scheme, a minimalist Lisp dialect, and reflects on its clean semantics versus a steep learning curve. The piece offers practical takeaways about when its simplicity pays off and when it can hinder progress in real-world projects.",
+      "summary_zh": "作者记录了自己在学习 Scheme 时不断遇到的困难， Scheme 的极简 Lisp 语法与清晰语义与陡峭的学习曲线形成对比。文章给出在实际项目中何时因其简洁而受益、何时又因学习成本而成为拖累的洞察。",
+      "hn": {
+        "id": 48233398,
+        "type": "story",
+        "by": "ingve",
+        "score": 142,
+        "descendants": 61,
+        "time": 1779438759,
+        "comments_url": "https://news.ycombinator.com/item?id=48233398"
+      },
+      "tags": [
+        "Programming"
+      ],
+      "hot_score": 0.06
+    },
+    {
+      "title_en": "Sales and Dungeons: Thermal printer TTRPG utility",
+      "url": "https://sales-and-dungeons.app/",
+      "title_zh": "Sales and Dungeons：热敏打印机在桌面角色扮演游戏中的实用工具",
+      "created_display": "Created: May 21, 2026 / 23:36 PT",
+      "image_url": "https://sales-and-dungeons.app/round_icon-DopD92d7.png",
+      "summary_en": "A neat TTRPG utility that uses a thermal printer to print game content on demand, lowering setup costs for tabletop sessions. The project demonstrates approachable hardware-software integration and a playful take on RPG tooling.",
+      "summary_zh": "一款有趣的桌面角色扮演游戏（TTRPG）工具，利用热敏打印机按需输出游戏内容，降低了设置成本。该项目展示了软硬件集成的可操作性与对 RPG 场景的创新应用。",
+      "hn": {
+        "id": 48232721,
+        "type": "story",
+        "by": "hyperific",
+        "score": 134,
+        "descendants": 39,
+        "time": 1779431816,
+        "comments_url": "https://news.ycombinator.com/item?id=48232721"
+      },
+      "tags": [
+        "Hardware"
+      ],
+      "hot_score": 0.06
+    },
+    {
+      "title_en": "API proposed by Chrome: Declarative partial updates",
+      "url": "https://developer.chrome.com/blog/declarative-partial-updates",
+      "title_zh": "Chrome 提出声明性部分更新 API",
+      "created_display": "Created: May 23, 2026 / 17:16 PT",
+      "image_url": "https://developer.chrome.com/static/blog/declarative-partial-updates/image/thumbnail.png",
+      "summary_en": "Chrome proposes a declarative partial updates API to streamline rendering and reduce scripting overhead by allowing the browser to apply incremental changes.",
+      "summary_zh": "Chrome 提出一种声明性部分更新 API，使浏览器能够增量应用更改，从而简化渲染并降低脚本开销。",
+      "hn": {
+        "id": 48252957,
+        "type": "story",
+        "by": "theanonymousone",
+        "score": 30,
+        "descendants": 15,
+        "time": 1779581774,
+        "comments_url": "https://news.ycombinator.com/item?id=48252957"
+      },
+      "tags": [
+        "Web"
+      ],
+      "hot_score": 0.06
+    },
+    {
+      "title_en": "Improving C# Memory Safety",
+      "url": "https://devblogs.microsoft.com/dotnet/improving-csharp-memory-safety/",
+      "title_zh": "提升 C# 内存安全性",
+      "created_display": "Created: May 21, 2026 / 09:54 PT",
+      "image_url": "https://devblogs.microsoft.com/dotnet/wp-content/uploads/sites/10/2026/05/improving-csharp-memory-safety.webp",
+      "summary_en": "Microsoft discusses strides in memory safety for C#, highlighting language features (nullable references, spans, or memory-safe patterns) and runtime improvements. The piece explains how these changes reduce common bugs while preserving performance.",
+      "summary_zh": "微软阐述了提升 C# 内存安全性的进展，聚焦可空引用、Span 等安全特性与运行时改进，说明这些变化如何降低常见错误并保持性能。",
+      "hn": {
+        "id": 48225782,
+        "type": "story",
+        "by": "soheilpro",
+        "score": 154,
+        "descendants": 33,
+        "time": 1779382488,
+        "comments_url": "https://news.ycombinator.com/item?id=48225782"
+      },
+      "tags": [
+        "Programming"
+      ],
+      "hot_score": 0.05
+    },
+    {
+      "title_en": "A scoping review of bicycling interventions’ impacts on well-being",
+      "url": "https://www.frontiersin.org/journals/sports-and-active-living/articles/10.3389/fspor.2026.1807791/full",
+      "title_zh": "自行车干预对身心福祉影响的范围性综述",
+      "created_display": "Created: May 22, 2026 / 11:12 PT",
+      "image_url": "https://d2csxpduxe849s.cloudfront.net/media/E32629C6-9347-4F84-81FEAEF7BFA342B3/6D634989-85A0-4B57-8F10218E64DCB833/AA676D9F-0F67-4506-BCD1F92A3E4BA65C/WebsiteWebP_XL-FSPOR_Main Visual_Red_Website.webp",
+      "summary_en": "A scoping review aggregates evidence on how cycling interventions affect well-being. Overall findings suggest improvements in physical health and mood, but results vary by intensity, duration, and population, highlighting gaps in long-term outcomes and equity considerations.",
+      "summary_zh": "综述汇总了自行车干预对身心福祉的影响。总体显示对体质和情绪有积极作用，但效果因强度、时长和人群而异，长期效果与公平性研究仍存在空白。",
+      "hn": {
+        "id": 48239347,
+        "type": "story",
+        "by": "gnabgib",
+        "score": 85,
+        "descendants": 98,
+        "time": 1779473548,
+        "comments_url": "https://news.ycombinator.com/item?id=48239347"
+      },
+      "tags": [
+        "Health"
+      ],
+      "hot_score": 0.05
+    },
+    {
+      "title_en": "White Rabbit – sub-nanosecond synchronization for large distributed systems",
+      "url": "https://ohwr.org/projects/white-rabbit/",
+      "title_zh": "White Rabbit：大规模分布式系统的亚纳秒级同步",
+      "created_display": "Created: May 23, 2026 / 01:38 PT",
+      "image_url": "https://gitlab.com/ohwr/project/white-rabbit/-/wikis/uploads/48fce74397857b877007ae8de013c89b/wrNetwork2.jpg",
+      "summary_en": "White Rabbit is a precision time protocol extension that combines Synchronous Ethernet, PTP, and custom hardware to achieve sub-nanosecond synchronization across large networks. It enables deterministic timing for experiments and data centers, and demonstrates how specialized hardware-assisted timing outperforms standard clock synchronization.",
+      "summary_zh": "White Rabbit 是一种将同步以太网、PTP与自研硬件结合的高精度时钟协议扩展，能够实现亚纳秒级的全网同步。它被用于需要确定性时序的大规模分布式系统和科研场景，显著优于常规的NTP/PTP 方案。",
+      "hn": {
+        "id": 48245916,
+        "type": "story",
+        "by": "michaelsbradley",
+        "score": 58,
+        "descendants": 13,
+        "time": 1779525524,
+        "comments_url": "https://news.ycombinator.com/item?id=48245916"
+      },
+      "hot_score": 0.05,
+      "tags": [
+        "Hardware",
+        "Science"
+      ]
+    },
+    {
+      "title_en": "$100 CPU Shootout: Comparing the Ryzen 5 5500, Core i3-14100F, & Core i3-12100F",
+      "url": "https://www.tomshardware.com/pc-components/cpus/100-budget-cpu-shootout-ddr4",
+      "title_zh": "$100 CPU 对决：Ryzen 5 5500、Core i3-14100F、Core i3-12100F",
+      "created_display": "Created: May 24, 2026 / 11:06 PT",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/KFqm9bvGjLCwaDNADCidee-1999-80.jpg",
+      "summary_en": "Tom's Hardware tests three budget CPUs across gaming and productivity workloads to reveal which offers best IPC, efficiency, and value. The results help budget builders decide where to invest.",
+      "summary_zh": "Tom's Hardware 对三款入门级处理器在游戏与生产力任务上的表现进行对比，揭示哪款在 IPC、能耗与性价比方面最具优势，帮助预算有限的用户决策。",
+      "hn": {
+        "id": 48259608,
+        "type": "story",
+        "by": "bushwart",
+        "score": 7,
+        "descendants": 3,
+        "time": 1779646005,
+        "comments_url": "https://news.ycombinator.com/item?id=48259608"
+      },
+      "hot_score": 0.05,
+      "tags": [
+        "Hardware",
+        "Gaming"
+      ]
+    },
+    {
+      "title_en": "Scientists solve 200-year-old puzzle of how tobacco plants make nicotine",
+      "url": "https://www.york.ac.uk/news-and-events/news/2026/research/200-year-old-puzzle-tobacco-plants-nicotine/",
+      "title_zh": "科学家破解烟草植物合成尼古丁的长期谜题",
+      "created_display": "Created: May 22, 2026 / 05:16 PT",
+      "image_url": "https://www.york.ac.uk/media/news-and-events/pressreleases/2026/plant-science-1000.jpg",
+      "summary_en": "Researchers reveal the enzymatic steps tobacco plants use to synthesize nicotine, solving a two-century-old puzzle. The discovery opens doors for bioengineering nicotine pathways and advances plant biochemistry.",
+      "summary_zh": "研究揭示烟草植物合成尼古丁的酶促步骤，解决了持续两百年的难题。此发现为尼古丁生物合成路径的生物工程应用以及植物生物化学研究带来新可能。",
+      "hn": {
+        "id": 48234831,
+        "type": "story",
+        "by": "sohkamyung",
+        "score": 76,
+        "descendants": 21,
+        "time": 1779452216,
+        "comments_url": "https://news.ycombinator.com/item?id=48234831"
+      },
+      "tags": [
+        "Science"
+      ],
+      "hot_score": 0.04
+    },
+    {
+      "title_en": "Noroboto: Lying Fonts and Mitigation in Rust",
+      "url": "https://tritium.legal/blog/noroboto",
+      "title_zh": "Noroboto：伪造字体及 Rust 的缓解措施",
+      "created_display": "Created: May 22, 2026 / 07:55 PT",
+      "image_url": "https://tritium.legal/static/blog-og-image/noroboto.png",
+      "summary_en": "Noroboto demonstrates how font files can lie about glyphs or metrics, creating security and usability risks in text rendering. The Rust implementation highlights safer parsers and mitigations to reduce memory-safety bugs and exploitation surface in font handling.",
+      "summary_zh": "Noroboto 展示了字体文件如何在字形或度量方面作假，可能对文本渲染的安全和可用性造成风险。基于 Rust 的实现强调更安全的解析器和缓解措施，降低字体处理中的内存安全漏洞和利用面。",
+      "hn": {
+        "id": 48236791,
+        "type": "story",
+        "by": "piker",
+        "score": 70,
+        "descendants": 30,
+        "time": 1779461737,
+        "comments_url": "https://news.ycombinator.com/item?id=48236791"
+      },
+      "tags": [
+        "Security",
+        "Programming"
+      ],
+      "hot_score": 0.04
+    },
+    {
+      "title_en": "Kindle loyalists scramble as Amazon turns page on old e-readers",
+      "url": "https://www.reuters.com/business/retail-consumer/kindle-loyalists-scramble-amazon-turns-page-old-e-readers-2026-05-19/",
+      "title_zh": "Kindle 忠实用户抢购，亚马逊停止对部分旧款电子书阅读器的支持",
+      "created_display": "Created: May 19, 2026 / 08:30 PT",
+      "image_url": null,
+      "summary_en": "Amazon is phasing out support for older Kindle devices, triggering a scramble among loyal customers who rely on legacy hardware. The move underscores how platform lifecycles influence device obsolescence, upgrade incentives, and the ongoing tension between infrastructure resilience and product segmentation.",
+      "summary_zh": "亚马逊结束对部分老款 Kindle 的支持，引发忠实用户的抢购与换机热潮。此举反映了平台生命周期对设备淘汰、升级激励以及对产品分段策略的影响。",
+      "hn": {
+        "id": 48194645,
+        "type": "story",
+        "by": "cf100clunk",
+        "score": 204,
+        "descendants": 265,
+        "time": 1779204601,
+        "comments_url": "https://news.ycombinator.com/item?id=48194645"
+      },
+      "tags": [
+        "Business",
+        "Hardware",
+        "DevOps"
+      ],
+      "hot_score": 0.03
+    },
+    {
+      "title_en": "The quadratic sandwich",
+      "url": "https://fedemagnani.github.io/math/2026/04/08/the-quadratic-sandwich.html",
+      "title_zh": "二次函数三明治",
+      "created_display": "Created: May 20, 2026 / 05:06 PT",
+      "image_url": "https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg",
+      "summary_en": "A playful look at how a quadratic function can be analyzed with a 'sandwich' approach, illustrating tight bounds and intuition for limits.",
+      "summary_zh": "以二次函数为对象，用夹心式思路直观展示界限与极限的关系，带来有趣的直觉理解。",
+      "hn": {
+        "id": 48206387,
+        "type": "story",
+        "by": "cpp_frog",
+        "score": 132,
+        "descendants": 11,
+        "time": 1779278816,
+        "comments_url": "https://news.ycombinator.com/item?id=48206387"
+      },
+      "tags": [
+        "Science"
+      ],
+      "hot_score": 0.03
+    },
+    {
+      "title_en": "Bug 1950764: Work Around Crash on Intel Raptor Lake CPU",
+      "url": "https://phabricator.services.mozilla.com/D301917",
+      "title_zh": "Bug 1950764：应对 Intel Raptor Lake CPU 崩溃的变通解决方法",
+      "created_display": "Created: May 22, 2026 / 15:43 PT",
+      "image_url": null,
+      "summary_en": "Mozilla engineers document a workaround to prevent a crash on Intel Raptor Lake CPUs, signaling ongoing stability work around a hardware-specific fault. The entry shows how large projects ship interim patches to maintain usability while a proper fix is developed.",
+      "summary_zh": "Mozilla 工程师记录了针对 Intel Raptor Lake CPU 崩溃的变通解决方法，表示正在就特定硬件故障进行稳定性工作。该条目展示了在全面修复尚未到位时，大型项目如何先行发布临时补丁以维持可用性。",
+      "hn": {
+        "id": 48242546,
+        "type": "story",
+        "by": "luu",
+        "score": 50,
+        "descendants": 19,
+        "time": 1779489784,
+        "comments_url": "https://news.ycombinator.com/item?id=48242546"
+      },
+      "hot_score": 0.03,
+      "tags": [
+        "Programming",
+        "Hardware"
+      ]
+    },
+    {
+      "title_en": "Didgeridoo playing as alternative treatment for obstructive sleep apnea(2006)",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1360393/",
+      "title_zh": "吹迪吉里杜管作为阻塞性睡眠呼吸暂停的替代治疗（2006）",
+      "created_display": "Created: May 22, 2026 / 18:37 PT",
+      "image_url": "https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/674d4f95/var/data/static/img/us_flag.svg",
+      "summary_en": "A 2006 study reports that regular didgeridoo playing may reduce sleep apnea severity and daytime sleepiness, presumably by strengthening pharyngeal muscles and improving airway stability. The findings support a growing body of evidence that simple, non-invasive oropharyngeal training can help manage obstructive sleep apnea.",
+      "summary_zh": "2006年的一项研究显示，规律练习迪吉里杜管可能降低阻塞性睡眠呼吸暂停的严重度，并改善白天嗜睡，可能通过强化咽部肌肉与改善气道稳定性实现。这为长期、低成本的咽部训练作为非药物治疗提供了证据。",
+      "hn": {
+        "id": 48243666,
+        "type": "story",
+        "by": "kelseyfrog",
+        "score": 41,
+        "descendants": 11,
+        "time": 1779500222,
+        "comments_url": "https://news.ycombinator.com/item?id=48243666"
+      },
+      "hot_score": 0.03,
+      "tags": [
+        "Health"
+      ]
+    },
+    {
+      "title_en": "NeuralNote",
+      "url": "https://github.com/DamRsn/NeuralNote",
+      "title_zh": "NeuralNote（神经笔记）",
+      "created_display": "Created: May 23, 2026 / 11:51 PT",
+      "image_url": "https://opengraph.githubassets.com/c1909e78c2ef5175484dfc6d4fde2bbf51add522fbe7547bc41395595dfe2c16/DamRsn/NeuralNote",
+      "summary_en": "Introduces NeuralNote, an open-source project exploring neural-network-backed note-taking and knowledge management workflows. It demonstrates how embeddings and on-device processing can enhance search, recall, and organization of information.",
+      "summary_zh": "介绍开源项目 NeuralNote，探讨基于神经网络的笔记整理与知识管理工作流，演示如何利用嵌入与本地处理来提升信息检索与记忆整理的效率。",
+      "hn": {
+        "id": 48250198,
+        "type": "story",
+        "by": "hyperific",
+        "score": 21,
+        "descendants": 1,
+        "time": 1779562261,
+        "comments_url": "https://news.ycombinator.com/item?id=48250198"
+      },
+      "hot_score": 0.03,
+      "tags": [
+        "AI",
+        "Open Source"
+      ]
+    },
+    {
+      "title_en": "PHP's Oddities",
+      "url": "https://flowtwo.io/post/php%27s-oddities",
+      "title_zh": "PHP 的怪癖与奇特之处",
+      "created_display": "Created: May 19, 2026 / 13:41 PT",
+      "image_url": "https://flowtwo.io/media/6a0cc116fa53c20f7a54e04a/banner.jpg",
+      "summary_en": "PHP's oddities survey pokes at language quirks—from loose typing to surprising edge cases—revealing why PHP remains a mixed bag for developers. The piece serves as a practical reminder to test edge conditions and to leverage modern PHP features for robust apps.",
+      "summary_zh": "探讨 PHP 的一些怪癖和边缘情况，揭示语言的优缺点及其对开发实践的影响。文章也提醒开发者在现代 PHP 环境下注意边界条件。",
+      "hn": {
+        "id": 48199314,
+        "type": "story",
+        "by": "thejoeflow",
+        "score": 124,
+        "descendants": 158,
+        "time": 1779223308,
+        "comments_url": "https://news.ycombinator.com/item?id=48199314"
+      },
+      "tags": [
+        "Programming"
+      ],
+      "hot_score": 0.02
+    },
+    {
+      "title_en": "Converting an Integer to a Decimal String in Under Two Nanoseconds",
+      "url": "https://onlinelibrary.wiley.com/doi/10.1002/spe.70079",
+      "title_zh": "在不到两纳秒内将整数转换为十进制字符串",
+      "created_display": "Created: May 19, 2026 / 08:43 PT",
+      "image_url": null,
+      "summary_en": "Describes an approach to render integers as decimal strings in under two nanoseconds on modern hardware, using a combination of branchless arithmetic and precomputed tables. The result highlights the edge of micro-optimizations in serialization, with implications for high-throughput logging and performance-critical systems.",
+      "summary_zh": "介绍在现代硬件上将整数转换为十进制字符串的极限方法，时间不到两纳秒，结合分支极小化的运算与预计算表。该成果凸显序列化微优化的边界，对高吞吐日志和性能敏感的系统具有启示意义。",
+      "hn": {
+        "id": 48194857,
+        "type": "story",
+        "by": "mpweiher",
+        "score": 111,
+        "descendants": 60,
+        "time": 1779205431,
+        "comments_url": "https://news.ycombinator.com/item?id=48194857"
+      },
+      "tags": [
+        "Programming",
+        "Hardware"
+      ],
+      "hot_score": 0.02
+    },
+    {
+      "title_en": "Silk: Open-source cooperative fiber scheduler",
+      "url": "https://github.com/ClickHouse/silk",
+      "title_zh": "Silk：开源的协作式纤程调度器",
+      "created_display": "Created: May 20, 2026 / 10:15 PT",
+      "image_url": "https://opengraph.githubassets.com/be72d61958ffbd3326bc77aeb1cd87b5d4ac09465852c4d39b148d09d7553cbc/ClickHouse/silk",
+      "summary_en": "Silk is an open-source cooperative scheduler designed to efficiently manage many lightweight tasks by yielding control explicitly. It enables high throughput with low overhead, fitting into data-processing stacks like ClickHouse. It’s a notable alternative to preemptive kernels for certain workloads.",
+      "summary_zh": "Silk 是一个开源的协作式调度器，通过显式让出控制来高效管理大量轻量任务。它在低开销下实现高吞吐，适用于数据处理堆栈（如 ClickHouse），是对特定工作负载的有力替代方案。",
+      "hn": {
+        "id": 48210937,
+        "type": "story",
+        "by": "animetyan",
+        "score": 109,
+        "descendants": 16,
+        "time": 1779297340,
+        "comments_url": "https://news.ycombinator.com/item?id=48210937"
+      },
+      "tags": [
+        "Open Source",
+        "Programming"
+      ],
+      "hot_score": 0.02
+    },
+    {
+      "title_en": "New map reveals lost roads of the Roman Empire",
+      "url": "https://www.scientificamerican.com/article/new-high-resolution-map-transforms-what-we-know-about-roman-roads-and-the-roman-empire/",
+      "title_zh": "新地图揭示罗马帝国失落的道路",
+      "created_display": "Created: May 20, 2026 / 05:22 PT",
+      "image_url": "https://static.scientificamerican.com/dam/asset/bcce9619-01d3-4048-83c9-41a63d7554bb/sa0626Brug01.jpg?m=1778851821.765&w=1200",
+      "summary_en": "A new high-resolution map reconstructs ancient Roman road networks, revealing previously unknown routes and 'lost' paths. The map reshapes understanding of imperial logistics, trade corridors, and settlement patterns, and showcases how modern GIS and archaeology converge.",
+      "summary_zh": "一张高分辨率的新地图重新绘制了古罗马公路网络，揭示了此前未知的路线与“失落的道路”。新地图改变了对帝国物流、贸易走廊与城镇布局的认识，展示了现代 GIS 与考古学的协同潜力。",
+      "hn": {
+        "id": 48206543,
+        "type": "story",
+        "by": "sohkamyung",
+        "score": 85,
+        "descendants": 10,
+        "time": 1779279751,
+        "comments_url": "https://news.ycombinator.com/item?id=48206543"
+      },
+      "tags": [
+        "Science"
+      ],
+      "hot_score": 0.02
+    },
+    {
+      "title_en": "Swap tables, flash-friendly swap, swap_ops, and more",
+      "url": "https://lwn.net/SubscriberLink/1072657/394b87abd7cc215e/",
+      "title_zh": "交换表、面向闪存的交换、swap_ops 等",
+      "created_display": "Created: May 20, 2026 / 07:16 PT",
+      "image_url": "https://static.lwn.net/images/logo/barepenguin-70.webp",
+      "summary_en": "A look at kernel-level swap innovations including swap tables, flash-friendly swap, and swap_ops, aimed at improving paging performance on modern storage devices. The notes discuss how these features help latency and endurance in systems with large memory pressure.",
+      "summary_zh": "本文概述内核层面的若干交换机制创新，包括交换表、面向闪存的交换和 swap_ops，旨在改善对现代存储设备的分页性能。介绍这些特性如何帮助降低延迟、提升在大内存压力场景下的耐久性和效率。",
+      "hn": {
+        "id": 48208233,
+        "type": "story",
+        "by": "mkesper",
+        "score": 78,
+        "descendants": 2,
+        "time": 1779286594,
+        "comments_url": "https://news.ycombinator.com/item?id=48208233"
+      },
+      "tags": [
+        "Programming"
+      ],
+      "hot_score": 0.02
+    },
+    {
+      "title_en": "Artificial egg hatched 26 healthy chickens",
+      "url": "https://www.nationalgeographic.com/science/article/artificial-egg-colossal-chickens-moa-dodo",
+      "title_zh": "人工蛋孵化出26只健康鸡",
+      "created_display": "Created: May 21, 2026 / 00:39 PT",
+      "image_url": "https://www.facebook.com/tr?id=1008426587451127&ev=PageView&noscript=1",
+      "summary_en": "Biotech company reports success using artificial eggs to hatch 26 healthy chickens, marking progress in synthetic biology and poultry research. The achievement raises questions about feasibility, ethics, and potential impact on farming and biodiversity.",
+      "summary_zh": "生物科技公司报告使用人工蛋孵化出26只健康的鸡，标志着合成生物学在家禽研究中的进展。此成就引发关于可行性、伦理和对养殖业及生物多样性的潜在影响的讨论。",
+      "hn": {
+        "id": 48219158,
+        "type": "story",
+        "by": "BaudouinVH",
+        "score": 74,
+        "descendants": 107,
+        "time": 1779349161,
+        "comments_url": "https://news.ycombinator.com/item?id=48219158"
+      },
+      "tags": [
+        "Science"
+      ],
+      "hot_score": 0.02
+    },
+    {
+      "title_en": "Highest Random Weight in Elixir",
+      "url": "https://jola.dev/posts/highest-random-weight-in-elixir",
+      "title_zh": "Elixir 中的最高随机权重",
+      "created_display": "Created: May 21, 2026 / 06:48 PT",
+      "image_url": "https://jola.dev/images/og/posts/highest-random-weight-in-elixir.png",
+      "summary_en": "A practical dive into generating high-quality randomness in Elixir, including approaches with :crypto and the language’s primitives. It covers trade-offs between speed, reproducibility, and cryptographic strength, with tips for real-world implementations.",
+      "summary_zh": "在 Elixir 中生成高质量随机性的方法，涵盖使用 :crypto 等原生接口的实现。讨论速度、可复现性与密码学强度之间的权衡，并给出实际落地的建议。",
+      "hn": {
+        "id": 48222492,
+        "type": "story",
+        "by": "shintoist",
+        "score": 71,
+        "descendants": 5,
+        "time": 1779371309,
+        "comments_url": "https://news.ycombinator.com/item?id=48222492"
+      },
+      "tags": [
+        "Programming"
+      ],
+      "hot_score": 0.02
+    },
+    {
+      "title_en": "Getting an old Computer online with Android Ethernet tethering",
+      "url": "https://82mhz.net/posts/2026/05/getting-an-old-computer-online-with-android-ethernet-tethering/",
+      "title_zh": "用 Android 以太网共享让旧电脑上网",
+      "created_display": "Created: May 21, 2026 / 11:03 PT",
+      "image_url": "https://82mhz.net/images/oldComputerOnline/android-tethering.jpg",
+      "summary_en": "An accessible guide shows how to bring an older computer online by using Android’s Ethernet tethering, turning a smartphone into a network gateway. It highlights low-cost ways to repurpose aging hardware and keep it useful in today’s networked world.",
+      "summary_zh": "这篇文章演示了如何利用 Android 的以太网共享功能让一台老旧电脑接入互联网，将手机变成网络网关。强调低成本重用老设备、在当今网络环境中继续保持实用性。",
+      "hn": {
+        "id": 48226697,
+        "type": "story",
+        "by": "speckx",
+        "score": 51,
+        "descendants": 21,
+        "time": 1779386630,
+        "comments_url": "https://news.ycombinator.com/item?id=48226697"
+      },
+      "hot_score": 0.02,
+      "tags": [
+        "Hardware"
+      ]
+    },
+    {
+      "title_en": "Neoclassical C++: segmented iterators revisited",
+      "url": "https://boostedcpp.net/2026/05/18/neoclassical-c-segmented-iterators-revisited-1/",
+      "title_zh": "新古典 C++：再谈分段迭代器",
+      "created_display": "Created: May 22, 2026 / 07:06 PT",
+      "image_url": "https://i0.wp.com/boostedcpp.net/wp-content/uploads/2026/05/CppSTLSegmented.png?fit=1200%2C800&ssl=1",
+      "summary_en": "Revisits segmented iterators in C++, focusing on data locality and iterator semantics. It discusses practical implications for library authors and performance, including how to compose segmented iterators with standard algorithms.",
+      "summary_zh": "重新探讨 C++ 的分段迭代器，聚焦数据局部性与迭代语义的实践意义。讨论对库作者的实际影响与性能取舍，以及如何将分段迭代器与标准算法更高效地组合使用。",
+      "hn": {
+        "id": 48236057,
+        "type": "story",
+        "by": "ibobev",
+        "score": 38,
+        "descendants": 23,
+        "time": 1779458804,
+        "comments_url": "https://news.ycombinator.com/item?id=48236057"
+      },
+      "tags": [
+        "Programming"
+      ],
+      "hot_score": 0.02
+    },
+    {
+      "title_en": "Local LLMs perform better when you teach them to ask before they answer",
+      "url": "https://www.xda-developers.com/local-llm-clarifying-questions-system-prompt/",
+      "title_zh": "本地化大型语言模型在被教会先问问题再回答时表现更佳",
+      "created_display": "Created: May 23, 2026 / 23:40 PT",
+      "image_url": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/04/raspberry-pi-llama-cpp-3.jpg?w=1600&h=900&fit=crop",
+      "summary_en": "Reports that prompting local LLMs to ask clarifying questions before answering improves accuracy and robustness, reducing misinterpretations. This supports adopting a clarifying-question stance as a standard system prompt for offline setups.",
+      "summary_zh": "指出本地化的大型语言模型在被指示先提问再回答时，准确性与鲁棒性有所提升，能减少误解。这支持在离线环境中把澄清性提问作为系统提示的常规做法。",
+      "hn": {
+        "id": 48254993,
+        "type": "story",
+        "by": "froh",
+        "score": 9,
+        "descendants": 4,
+        "time": 1779604834,
+        "comments_url": "https://news.ycombinator.com/item?id=48254993"
+      },
+      "hot_score": 0.02,
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "title_en": "Limerick",
+      "url": "https://www.worldwidewords.org/surprise.html",
+      "title_zh": "五行诗",
+      "created_display": "Created: May 23, 2026 / 22:29 PT",
+      "image_url": "https://www.worldwidewords.org/img/common/header.png",
+      "summary_en": "A concise piece about the Limerick poetic form, covering its characteristic rhythm and rhyme scheme and its whimsical history. It may include examples or a playful aside that shows why this five-line form endures.",
+      "summary_zh": "简要介绍五行诗的独特格律、押韵与趣味性，以及其起源和长期流传的原因。若有示例，展示这种五行短诗为何依然魅力十足。",
+      "hn": {
+        "id": 48254684,
+        "type": "story",
+        "by": "jruohonen",
+        "score": 9,
+        "descendants": 4,
+        "time": 1779600541,
+        "comments_url": "https://news.ycombinator.com/item?id=48254684"
+      },
+      "hot_score": 0.02,
+      "tags": [
+        "Culture"
+      ]
+    },
+    {
+      "title_en": "Using HTTP/2 Cleartext for a server in Go 1.24",
+      "url": "https://www.clarityboss.com/blog/go-http2-cleartext-h2c-cloud-run",
+      "title_zh": "在 Go 1.24 中为服务器使用 HTTP/2 明文传输（H2C）",
+      "created_display": "Created: May 19, 2026 / 09:40 PT",
+      "image_url": "https://www.clarityboss.com/assets/http2--G74k4E9.svg",
+      "summary_en": "Go 1.24 enables serving HTTP/2 over cleartext (h2c), which can simplify certain internal deployments or proxy setups.",
+      "summary_zh": "Go 1.24 现在支持在明文下提供 HTTP/2（H2C），适用于某些内部部署或代理场景。文中介绍如何在 Go 中开启 H2C，并讨论相关的安全性与兼容性权衡。",
+      "hn": {
+        "id": 48195698,
+        "type": "story",
+        "by": "dan_sbl",
+        "score": 76,
+        "descendants": 8,
+        "time": 1779208803,
+        "comments_url": "https://news.ycombinator.com/item?id=48195698"
+      },
+      "tags": [
+        "Programming",
+        "Web"
+      ],
+      "hot_score": 0.01
+    },
+    {
+      "title_en": "LAN-LOK: The Antarctic DOS Sabotage Game Lost for 34 Years",
+      "url": "https://alphapixeldev.com/lan-lok-the-antarctic-dos-sabotage-game-lost-for-34-years-part-1/",
+      "title_zh": "LAN-LOK：34 年来在南极遗失的 DOS 游戏",
+      "created_display": "Created: May 20, 2026 / 17:15 PT",
+      "image_url": "https://alphapixeldev.com/wp-content/uploads/2025/12/lanlok-title-full.png",
+      "summary_en": "LAN-LOK recounts a DOS-era sabotage game that vanished in the Antarctic for 34 years and was recently rediscovered. The story highlights archival challenges and the quirky ways digital culture persists, even in extreme environments.",
+      "summary_zh": "LAN-LOK是一段在南极消失34年的 DOS 时代对抗性游戏的故事，最近才被重新发现。该案例揭示了档案保存的挑战，以及极端环境下数字文化依然持续的趣味现象。",
+      "hn": {
+        "id": 48216146,
+        "type": "story",
+        "by": "miffe",
+        "score": 62,
+        "descendants": 11,
+        "time": 1779322532,
+        "comments_url": "https://news.ycombinator.com/item?id=48216146"
+      },
+      "tags": [
+        "Culture"
+      ],
+      "hot_score": 0.01
+    },
+    {
+      "title_en": "Curly braces: An evolution of Unix and C",
+      "url": "https://thalia.dev/blog/unix-braces/",
+      "title_zh": "Curly braces：Unix 与 C 的演变",
+      "created_display": "Created: May 20, 2026 / 10:49 PT",
+      "image_url": null,
+      "summary_en": "Curly braces trace how block syntax influenced Unix tooling and C evolution, from early formatting choices to modern coding standards. The piece ties brace usage to scope management, macro behavior, and portability decisions across systems.",
+      "summary_zh": "Curly braces 记录了大括号语法在 Unix 工具链和 C 语言演进中的作用，从早期格式化选择到现代编码规范。文章将大括号的使用与作用域管理、宏行为以及跨系统可移植性的决策联系起来。",
+      "hn": {
+        "id": 48211418,
+        "type": "story",
+        "by": "thaliaarchi",
+        "score": 58,
+        "descendants": 19,
+        "time": 1779299388,
+        "comments_url": "https://news.ycombinator.com/item?id=48211418"
+      },
+      "tags": [
+        "Programming"
+      ],
+      "hot_score": 0.01
+    },
+    {
+      "title_en": "Schlitz Is Gone, but First It's Getting One Last Hurrah",
+      "url": "https://www.milwaukeemag.com/schlitz-is-gone/",
+      "title_zh": "Schlitz 将告别市场，但先举办最后一场盛典",
+      "created_display": "Created: May 21, 2026 / 12:32 PT",
+      "image_url": "https://www.milwaukeemag.com/wp-content/uploads/2026/05/Schlitz-mural.jpg",
+      "summary_en": "Milwaukee’s Schlitz beer brand is retiring, but plans one final celebration before ending.",
+      "summary_zh": "Schlitz 将退出市场，但在最后离场前先举办一次告别盛典。",
+      "hn": {
+        "id": 48227864,
+        "type": "story",
+        "by": "NaOH",
+        "score": 45,
+        "descendants": 31,
+        "time": 1779391955,
+        "comments_url": "https://news.ycombinator.com/item?id=48227864"
+      },
+      "tags": [
+        "Business"
+      ],
+      "hot_score": 0.01
+    },
+    {
+      "title_en": "Book Review: On the Calculation of Volume",
+      "url": "https://www.stephendiehl.com/posts/calculation_of_volume/",
+      "title_zh": "书评：体积的计算",
+      "created_display": "Created: May 21, 2026 / 07:24 PT",
+      "image_url": "https://www.stephendiehl.com/images/sd-social-preview.png",
+      "summary_en": "Stephen Diehl's On the Calculation of Volume reviews a mathematical treatment of volume computation, weaving geometry with algorithmic thinking and offering insights relevant to developers and theoreticians.",
+      "summary_zh": "Stephen Diehl 的《体积的计算》评述对体积计算的数学处理，结合几何与算法思维，为开发者和理论研究者提供有价值的见解。",
+      "hn": {
+        "id": 48223154,
+        "type": "story",
+        "by": "ibobev",
+        "score": 40,
+        "descendants": 11,
+        "time": 1779373451,
+        "comments_url": "https://news.ycombinator.com/item?id=48223154"
+      },
+      "tags": [
+        "Science"
+      ],
+      "hot_score": 0.01
+    },
+    {
+      "title_en": "Show HN: Anyone interested in a tool helps to explore C++ ASTs",
+      "url": "https://uvic-aurora.github.io/acav-manual/index.html",
+      "title_zh": "Show HN：是否有兴趣使用这个帮助探索 C++ AST 的工具",
+      "created_display": "Created: May 21, 2026 / 12:53 PT",
+      "image_url": "https://uvic-aurora.github.io/acav-manual/images/acav-screenshot.png",
+      "summary_en": "A lightweight tool for exploring C++ abstract syntax trees, with capabilities to visualize and inspect ASTs. Open for feedback.",
+      "summary_zh": "一个用于探索 C++ 抽象语法树的轻量级工具，提供可视化与逐步检视功能，欢迎社区给出反馈。",
+      "hn": {
+        "id": 48228106,
+        "type": "story",
+        "by": "leomicv",
+        "score": 38,
+        "descendants": 3,
+        "time": 1779393231,
+        "comments_url": "https://news.ycombinator.com/item?id=48228106"
+      },
+      "tags": [
+        "Show HN",
+        "Programming"
+      ],
+      "hot_score": 0.01
+    },
+    {
+      "title_en": "Key, in sight – A guide, of sorts, to keyboard customization",
+      "url": "https://aresluna.org/key-in-sight/",
+      "title_zh": "看得见的按键——键盘自定义指南（简要版）",
+      "created_display": "Created: May 19, 2026 / 18:53 PT",
+      "image_url": "https://aresluna.org/images/key-in-sight/ogimage.png",
+      "summary_en": "Offers a pragmatic tour of keyboard customization, from layouts and key remapping to firmware choices and ergonomic tweaks. Explains how small changes can yield outsized gains in speed and comfort for power users and developers who type a lot.",
+      "summary_zh": "提供实用的键盘自定义指南，从布局、按键映射到固件选择与人体工学调整，强调小改动也能显著提升打字速度与使用舒适度，尤其适合高强度打字的开发者。",
+      "hn": {
+        "id": 48202129,
+        "type": "story",
+        "by": "anotherevan",
+        "score": 33,
+        "descendants": 16,
+        "time": 1779242015,
+        "comments_url": "https://news.ycombinator.com/item?id=48202129"
+      },
+      "tags": [
+        "Design"
+      ],
+      "hot_score": 0.01
+    },
+    {
+      "title_en": "C constructs that still don't work in C++",
+      "url": "https://lospino.so/blog/c-constructs-that-still-dont-work-in-cpp/",
+      "title_zh": "在 C++ 中仍然不可用的 C 构造",
+      "created_display": "Created: May 21, 2026 / 13:40 PT",
+      "image_url": "https://lospino.so/images/lospino-trail.png",
+      "summary_en": "The article catalogs C language constructs that fail to compile or behave differently in C++, highlighting the gaps between C and C++ language compatibility. It warns developers blending C and C++ about pitfalls and which features remain non-portable.",
+      "summary_zh": "文中列出了一些在 C 语言中可用、但在 C++ 中仍无法正常工作的构造，揭示了两种语言在语法与语义上的差异。对于在 C 代码混合到 C++ 项目中的开发者，这些坑点尤为重要，指出哪些特性仍未实现跨语言的一致性。",
+      "hn": {
+        "id": 48228608,
+        "type": "story",
+        "by": "jalospinoso",
+        "score": 28,
+        "descendants": 20,
+        "time": 1779396047,
+        "comments_url": "https://news.ycombinator.com/item?id=48228608"
+      },
+      "hot_score": 0.01,
+      "tags": [
+        "Programming"
+      ]
+    },
+    {
+      "title_en": "Show HN: Git-based front-end interface for Hugo",
+      "url": "https://github.com/arashthr/hugo-flow",
+      "title_zh": "Show HN：基于 Git 的 Hugo 前端界面",
+      "created_display": "Created: May 20, 2026 / 14:57 PT",
+      "image_url": "https://opengraph.githubassets.com/53f8190a09b65cb4cce87a3e2a9583787e4641cba8380801409cdd251c74595f/arashThr/hugo-flow",
+      "summary_en": "Show HN showcases Hugo Flow, a Git-backed front-end for the Hugo static site generator. It enables content authors to manage posts and edits through versioned Git workflows, lowering collaboration friction.",
+      "summary_zh": "Show HN 展示了 Hugo Flow——一个基于 Git 的 Hugo 静态站点前端。它让内容作者通过版本化的 Git 工作流来管理文章与编辑，降低协作摩擦。",
+      "hn": {
+        "id": 48214766,
+        "type": "story",
+        "by": "arashThr",
+        "score": 28,
+        "descendants": 9,
+        "time": 1779314238,
+        "comments_url": "https://news.ycombinator.com/item?id=48214766"
+      },
+      "tags": [
+        "Show HN",
+        "Programming",
+        "Open Source"
+      ],
+      "hot_score": 0.01
+    },
+    {
+      "title_en": "Revised^7 Report on Scheme, Large: Procedural Fascicle Draft is now public",
+      "url": "https://r7rs.org/large/fascicles/proc/",
+      "title_zh": "Scheme Large 的程序性小册子草案公开",
+      "created_display": "Created: May 20, 2026 / 13:21 PT",
+      "image_url": null,
+      "summary_en": "Public release of the procedural fascicle draft for Scheme's R7RS Large, offering language implementers and enthusiasts a look at proposed syntax and semantics.",
+      "summary_zh": "Scheme R7RS Large 的程序性小册子草案公开，供实现者与爱好者了解拟议的语法与语义。",
+      "hn": {
+        "id": 48213554,
+        "type": "story",
+        "by": "pmcgoron",
+        "score": 27,
+        "descendants": 5,
+        "time": 1779308483,
+        "comments_url": "https://news.ycombinator.com/item?id=48213554"
+      },
+      "tags": [
+        "Programming"
+      ],
+      "hot_score": 0.01
+    },
+    {
+      "title_en": "Buildcraft Is a Compiler Problem",
+      "url": "https://mitander.xyz/posts/buildcraft-is-a-compiler-problem/",
+      "title_zh": "Buildcraft 是一个编译器问题",
+      "created_display": "Created: May 22, 2026 / 02:50 PT",
+      "image_url": null,
+      "summary_en": "Argues that Buildcraft's core hurdles stem from treating build processes as a compiler-like problem, suggesting a rethink of tooling around dependency analysis, incremental builds, and reproducible pipelines. Provides actionable insights for developers designing build systems or language tooling.",
+      "summary_zh": "认为 Buildcraft 的核心难题源于把构建过程当作类似编译器的问题来设计，提出重新思考依赖分析、增量构建与可重复流水线等工具方法。为设计构建系统或语言工具的开发者提供可操作的启示。",
+      "hn": {
+        "id": 48233829,
+        "type": "story",
+        "by": "mitander",
+        "score": 20,
+        "descendants": 8,
+        "time": 1779443448,
+        "comments_url": "https://news.ycombinator.com/item?id=48233829"
+      },
+      "tags": [
+        "Programming",
+        "DevOps"
+      ],
+      "hot_score": 0.01
+    },
+    {
+      "title_en": "Show HN: Twixt – transform one word into another in four moves",
+      "url": "https://twixt.games/",
+      "title_zh": "Show HN：Twixt——在四步中把一个单词变成另一个单词",
+      "created_display": "Created: May 21, 2026 / 05:29 PT",
+      "image_url": "https://twixt.games/og.php?d=2026-05-24",
+      "summary_en": "Show HN presents Twixt, a web app that turns one word into another in exactly four moves, likely using a dictionary graph and BFS search. It showcases a playful demonstration of pathfinding in word graphs and an accessible interface for exploring word relations.",
+      "summary_zh": "Show HN 展示 Twixt，一款网页应用在恰好四步内将一个单词变成另一个单词，可能基于词典图与广度优先搜索实现路径。展示了在词汇图上的路径搜索以及易于使用的界面。",
+      "hn": {
+        "id": 48221568,
+        "type": "story",
+        "by": "unseen_forms",
+        "score": 16,
+        "descendants": 13,
+        "time": 1779366541,
+        "comments_url": "https://news.ycombinator.com/item?id=48221568"
+      },
+      "hot_score": 0.0,
+      "tags": [
+        "Show HN",
+        "Gaming",
+        "Web"
+      ]
+    },
+    {
+      "title_en": "Predicting the 2026 Bristol Bay and Kodiak Salmon Runs",
+      "url": "https://www.salmonfinder.com/2026/05/13/bristol-bay-kodiak-predictions-2026",
+      "title_zh": "预测2026年布里斯托湾与科迪亚克鲑鱼回游",
+      "created_display": "Created: May 22, 2026 / 05:13 PT",
+      "image_url": "https://salmonfinder.com/assets/kenai-river.jpg",
+      "summary_en": "Forecasts for the 2026 Bristol Bay and Kodiak salmon runs weigh environmental signals, climate variables, and fishery models to estimate run size. The predictions inform fisheries management and sustainable harvest planning, while noting uncertainty.",
+      "summary_zh": "对2026年布里斯托湾和科迪亚克的鲑鱼回游进行预测，综合环境信号、气候变量和渔业模型来估计产量规模。预测为渔业管理和可持续捕捞计划提供依据，同时承认存在不确定性。",
+      "hn": {
+        "id": 48234793,
+        "type": "story",
+        "by": "mooreds",
+        "score": 8,
+        "descendants": 4,
+        "time": 1779452001,
+        "comments_url": "https://news.ycombinator.com/item?id=48234793"
+      },
+      "tags": [
+        "Science",
+        "Data"
+      ],
+      "hot_score": 0.0
+    }
+  ]
+}

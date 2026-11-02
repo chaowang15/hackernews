@@ -1,0 +1,1174 @@
+{
+  "meta": {
+    "mode": "best",
+    "source": "https://news.ycombinator.com/",
+    "api": "https://github.com/HackerNews/API",
+    "count_requested": 50,
+    "count_written": 50,
+    "reused_same_day": 0,
+    "reused_cross_day": 19,
+    "new_llm_enriched": 12,
+    "scrape_time_display": "07:07, April 29, 2026 (PDT)",
+    "timezone": "America/Los_Angeles",
+    "date_dir": "2026/04/28",
+    "content_date": "2026-04-28",
+    "run_time_local": "07:07, April 29, 2026 (PDT)",
+    "run_time_utc": "2026-04-29 14:07:59 UTC",
+    "incremental": true,
+    "stories_max": 50,
+    "hot_score_time_utc": "2026-04-29 14:09:09 UTC"
+  },
+  "items": [
+    {
+      "title_en": "HashiCorp co-founder says GitHub 'no longer a place for serious work'",
+      "url": "https://www.theregister.com/2026/04/29/mitchell_hashimoto_ghostty_quitting_github/",
+      "title_zh": "HashiCorp 联合创始人称 GitHub 已不再是‘认真工作的地方’",
+      "created_display": "Created: Apr 29, 2026 / 04:42 PT",
+      "image_url": "https://regmedia.co.uk/2025/07/24/shutterstock_editorial_only_goodbye_wall_hongkong_airport.jpg",
+      "summary_en": "HashiCorp co-founder Mitchell Hashimoto says GitHub is no longer a place for serious work, pointing to distractions and reliability concerns in the platform’s ecosystem. The critique feeds into wider conversations about code hosting choices, vendor-lock-in, and enterprise-grade controls.",
+      "summary_zh": "HashiCorp 联合创始人米切尔·哈希莫托（Mitchell Hashimoto）表示 GitHub 已不再适合认真工作，提到平台生态中的干扰与可靠性问题。这一观点引发关于代码托管选择、厂商锁定以及企业级控制的讨论。",
+      "hn": {
+        "id": 47946958,
+        "type": "story",
+        "by": "terminalbraid",
+        "score": 257,
+        "descendants": 127,
+        "time": 1777462966,
+        "comments_url": "https://news.ycombinator.com/item?id=47946958"
+      },
+      "hot_score": 17.5,
+      "tags": [
+        "Programming"
+      ]
+    },
+    {
+      "title_en": "Ghostty is leaving GitHub",
+      "url": "https://mitchellh.com/writing/ghostty-leaving-github",
+      "title_zh": "Ghostty 将离开 GitHub",
+      "created_display": "Created: Apr 28, 2026 / 12:44 PT",
+      "image_url": null,
+      "summary_en": "Ghostty is leaving GitHub, signaling concerns about platform bind and the viability of OSS workflows outside centralized hosting. The move prompts reflection on dependencies, portability, and how maintainers plan long-term collaboration without GitHub’s ecosystem.",
+      "summary_zh": "Ghostty 将离开 GitHub，凸显了在中心化托管之外维持开源工作流的挑战与风险。此举引发对依赖关系、可移植性以及维护者在无 GitHub 生态的情况下如何长期协作的思考。",
+      "hn": {
+        "id": 47939579,
+        "type": "story",
+        "by": "WadeGrimridge",
+        "score": 2937,
+        "descendants": 882,
+        "time": 1777405492,
+        "comments_url": "https://news.ycombinator.com/item?id=47939579"
+      },
+      "tags": [
+        "Open Source",
+        "Programming"
+      ],
+      "hot_score": 12.89
+    },
+    {
+      "title_en": "Soft launch of open-source code platform for government",
+      "url": "https://www.nldigitalgovernment.nl/news/soft-launch-for-government-open-source-code-platform/",
+      "title_zh": "政府开放源代码平台进行软启动",
+      "created_display": "Created: Apr 29, 2026 / 02:14 PT",
+      "image_url": "https://www.nldigitalgovernment.nl/wp-content/uploads/sites/11/2026/04/pexels-mikhail-nilov-7988761.jpg",
+      "summary_en": "A government-backed open-source code platform is entering a soft launch, inviting developers to contribute and test components for public-sector software. The initiative aims to accelerate modernization, improve security through collaborative development, and reduce vendor lock-in.",
+      "summary_zh": "由政府牵头的开源代码平台进入软启动阶段，邀请开发者参与测试和贡献。此举旨在加速公共部门软件现代化、提升安全性并减少厂商锁定。",
+      "hn": {
+        "id": 47945918,
+        "type": "story",
+        "by": "e12e",
+        "score": 324,
+        "descendants": 99,
+        "time": 1777454077,
+        "comments_url": "https://news.ycombinator.com/item?id=47945918"
+      },
+      "hot_score": 9.96,
+      "tags": [
+        "Open Source",
+        "Security",
+        "Politics"
+      ]
+    },
+    {
+      "title_en": "Your phone is about to stop being yours",
+      "url": "https://keepandroidopen.org/en/",
+      "title_zh": "手机快要不再属于你",
+      "created_display": "Created: Apr 28, 2026 / 08:21 PT",
+      "image_url": "https://keepandroidopen.org/img/lockdowns/android_lockdown_banner1.png",
+      "summary_en": "A campaign argues that smartphones are slipping from users' ownership due to platform policies and data monopolies. It advocates for user-sovereignty, open devices, and alternative business models.",
+      "summary_zh": "一场运动呼吁重新夺回对智能手机的控制权，警惕平台政策与数据垄断带来的用户所有权流失，并倡导用户主权、开源设备与替代商业模式。",
+      "hn": {
+        "id": 47935853,
+        "type": "story",
+        "by": "doener",
+        "score": 1515,
+        "descendants": 734,
+        "time": 1777389660,
+        "comments_url": "https://news.ycombinator.com/item?id=47935853"
+      },
+      "tags": [
+        "Privacy",
+        "Open Source"
+      ],
+      "hot_score": 4.68
+    },
+    {
+      "title_en": "Bugs Rust won't catch",
+      "url": "https://corrode.dev/blog/bugs-rust-wont-catch/",
+      "title_zh": "Rust 捕捉不到的漏洞",
+      "created_display": "Created: Apr 28, 2026 / 19:19 PT",
+      "image_url": "https://corrode.dev/blog/bugs-rust-wont-catch/social.png",
+      "summary_en": "Rust's safety guarantees are strong, but some bugs slip through—particularly around unsafe blocks, FFI, and complex logic that escapes static checks. The post catalogs typical bugs Rust won't catch and explains how to catch them with dynamic testing, fuzzing, and property-based checks. The author emphasizes that safety requires multi-layer defenses, not reliance on the compiler alone.",
+      "summary_zh": "Rust 的安全性固然强，但仍有漏洞逃不过静态检查，尤其是涉及 unsafe 代码、外部接口和复杂逻辑的缺陷。文章列出 Rust 捕捉不到的常见错误类型，并给出通过动态测试、模糊测试和属性检验等方法来弥补的做法。强调安全需要多层防护，而不仅依赖编译器。",
+      "hn": {
+        "id": 47943499,
+        "type": "story",
+        "by": "lwhsiao",
+        "score": 429,
+        "descendants": 230,
+        "time": 1777429151,
+        "comments_url": "https://news.ycombinator.com/item?id=47943499"
+      },
+      "tags": [
+        "Programming"
+      ],
+      "hot_score": 3.78
+    },
+    {
+      "title_en": "Before GitHub",
+      "url": "https://lucumr.pocoo.org/2026/4/28/before-github/",
+      "title_zh": "GitHub 之前",
+      "created_display": "Created: Apr 28, 2026 / 14:17 PT",
+      "image_url": "https://lucumr.pocoo.org/social/2026-04-28-before-github-social.png",
+      "summary_en": "A retrospective look at collaboration before GitHub, highlighting how developers relied on mailing lists, patches, and other ad-hoc tools. The piece contrasts these workflows with modern platforms, emphasizing core needs like code review, issue tracking, and community governance.",
+      "summary_zh": "回顾 GitHub 出现之前的协作方式，揭示开发者如何通过邮件列表、补丁等工具协作。与现代平台相比，文章强调代码审查、问题跟踪和社区治理等核心需求。",
+      "hn": {
+        "id": 47940921,
+        "type": "story",
+        "by": "mlex",
+        "score": 550,
+        "descendants": 178,
+        "time": 1777411060,
+        "comments_url": "https://news.ycombinator.com/item?id=47940921"
+      },
+      "tags": [
+        "Open Source",
+        "Programming",
+        "Privacy"
+      ],
+      "hot_score": 2.78
+    },
+    {
+      "title_en": "How ChatGPT serves ads",
+      "url": "https://www.buchodi.com/how-chatgpt-serves-ads-heres-the-full-attribution-loop/",
+      "title_zh": "ChatGPT 如何投放广告",
+      "created_display": "Created: Apr 28, 2026 / 16:54 PT",
+      "image_url": "https://storage.ghost.io/c/b8/53/b853e3d4-3186-409d-9c7f-7da931a60431/content/images/2026/03/buchodi-600x600.png",
+      "summary_en": "A detailed look at how ChatGPT serves ads, including the attribution loop and signals that influence ad placement. It explains why ad strategy matters for developers and platform sustainability.",
+      "summary_zh": "深入揭示 ChatGPT 如何投放广告，以及影响投放的归因循环与信号。讨论商业模式下在对话式 AI 中投放广告的可行性与隐私、个性化带来的挑战。并解释广告策略为何对开发者和平台的可持续性至关重要。",
+      "hn": {
+        "id": 47942437,
+        "type": "story",
+        "by": "lmbbuchodi",
+        "score": 410,
+        "descendants": 276,
+        "time": 1777420454,
+        "comments_url": "https://news.ycombinator.com/item?id=47942437"
+      },
+      "tags": [
+        "AI",
+        "Business"
+      ],
+      "hot_score": 2.71
+    },
+    {
+      "title_en": "Localsend: An open-source cross-platform alternative to AirDrop",
+      "url": "https://github.com/localsend/localsend",
+      "title_zh": "Localsend：开源跨平台的 AirDrop 替代",
+      "created_display": "Created: Apr 28, 2026 / 04:54 PT",
+      "image_url": "https://repository-images.githubusercontent.com/578822531/6c3c4f46-0ab9-4737-9afe-7fa7f2f929d7",
+      "summary_en": "Localsend is an open-source, cross-platform alternative to AirDrop that lets devices share files over a local network without cloud traffic. It emphasizes privacy and platform-agnostic usability for Windows, macOS, and Linux users.",
+      "summary_zh": "Localsend 是一个开源、跨平台的 AirDrop 替代方案，支持在本地网络中直接传输文件，无需云端中转。面向 Windows、macOS、Linux 用户，强调隐私保护与无缝跨平台使用。",
+      "hn": {
+        "id": 47933208,
+        "type": "story",
+        "by": "bilsbie",
+        "score": 879,
+        "descendants": 266,
+        "time": 1777377260,
+        "comments_url": "https://news.ycombinator.com/item?id=47933208"
+      },
+      "tags": [
+        "Open Source",
+        "Privacy"
+      ],
+      "hot_score": 2.15
+    },
+    {
+      "title_en": "Regression: malware reminder on every read still causes subagent refusals",
+      "url": "https://github.com/anthropics/claude-code/issues/49363",
+      "title_zh": "回归：每次读取时的恶意软件提醒仍导致子代理拒绝",
+      "created_display": "Created: Apr 28, 2026 / 16:59 PT",
+      "image_url": "https://opengraph.githubassets.com/1064771c48ee8924f01657569f38b44040f2a114639cd110cdf58bf25a4cd0db/anthropics/claude-code/issues/49363",
+      "summary_en": "A regression in AI tooling causes malware-reminder prompts to fire on every read, triggering subagents to refuse tasks. The behavior highlights the tension between aggressive safety prompts and workflow usability. It suggests tighter prompt control and more robust delegation logic to avoid blocking legitimate operations.",
+      "summary_zh": "AI 工具链中出现回归：每次读取都会触发恶意软件提醒，导致子代理拒绝执行任务。这体现出安全提醒的强硬风格与工作流可用性之间的张力。文章建议更精确的提示控制和更健壮的任务分发逻辑，以避免阻塞正常操作。",
+      "hn": {
+        "id": 47942492,
+        "type": "story",
+        "by": "thomashobohm",
+        "score": 238,
+        "descendants": 130,
+        "time": 1777420797,
+        "comments_url": "https://news.ycombinator.com/item?id=47942492"
+      },
+      "tags": [
+        "AI",
+        "Security"
+      ],
+      "hot_score": 1.58
+    },
+    {
+      "title_en": "GitHub RCE Vulnerability: CVE-2026-3854 Breakdown",
+      "url": "https://www.wiz.io/blog/github-rce-vulnerability-cve-2026-3854",
+      "title_zh": "GitHub 远程代码执行漏洞 CVE-2026-3854 细节解读",
+      "created_display": "Created: Apr 28, 2026 / 09:15 PT",
+      "image_url": "https://www.datocms-assets.com/75231/1777300906-github-2x-100-1.jpg?fm=webp",
+      "summary_en": "A breakdown of CVE-2026-3854 explains how the GitHub RCE vulnerability could be exploited, what conditions enabled it, and which components were affected. It also offers practical mitigations like applying patches, rotating secrets, and auditing workflows to reduce exposure.",
+      "summary_zh": "对 CVE-2026-3854 的细节进行了分析，揭示了漏洞如何被利用、成因及受影响的场景。作者给出实际的缓解措施，包括打补丁、轮换凭证以及审计工作流以降低风险。",
+      "hn": {
+        "id": 47936479,
+        "type": "story",
+        "by": "bo0tzz",
+        "score": 400,
+        "descendants": 86,
+        "time": 1777392943,
+        "comments_url": "https://news.ycombinator.com/item?id=47936479"
+      },
+      "tags": [
+        "Security",
+        "Programming"
+      ],
+      "hot_score": 1.32
+    },
+    {
+      "title_en": "OpenAI models coming to Amazon Bedrock: Interview with OpenAI and AWS CEOs",
+      "url": "https://stratechery.com/2026/an-interview-with-openai-ceo-sam-altman-and-aws-ceo-matt-garman-about-bedrock-managed-agents/",
+      "title_zh": "OpenAI 模型将入驻 Amazon Bedrock：OpenAI 与 AWS 首席执行官访谈",
+      "created_display": "Created: Apr 28, 2026 / 12:24 PT",
+      "image_url": "https://s0.wp.com/_si/?t=eyJpbWciOiJodHRwczpcL1wvaTAud3AuY29tXC9zdHJhdGVjaGVyeS5jb21cL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMThcLzAzXC9jcm9wcGVkLWFuZHJvaWQtY2hyb21lLTUxMng1MTItMS5wbmc_Zml0PTUxMiUyQzUxMiZzc2w9MSIsInR4dCI6IlN0cmF0ZWNoZXJ5IGJ5IEJlbiBUaG9tcHNvbiIsInRlbXBsYXRlIjoiZWRnZSIsImZvbnQiOiIiLCJibG9nX2lkIjoxODgwNDM0MTV9.5VWck4PcKPWCTPe_HVznn3n3xsgn-G0b3d2OeiNNC7cMQ",
+      "summary_en": "Bedrock will host OpenAI models, enabling AWS customers to run OpenAI capabilities within a managed AWS service. The interview sheds light on governance, privacy, and how enterprises might leverage this integration for scalable AI deployments.",
+      "summary_zh": "Bedrock 将托管 OpenAI 模型，方便 AWS 用户在托管的 AWS 服务中使用 OpenAI 能力。访谈呈现了治理、隐私以及企业如何利用这一集成实现规模化 AI 部署的前景。",
+      "hn": {
+        "id": 47939320,
+        "type": "story",
+        "by": "translocator",
+        "score": 293,
+        "descendants": 97,
+        "time": 1777404283,
+        "comments_url": "https://news.ycombinator.com/item?id=47939320"
+      },
+      "tags": [
+        "AI",
+        "Business",
+        "Privacy"
+      ],
+      "hot_score": 1.24
+    },
+    {
+      "title_en": "UAE to leave OPEC",
+      "url": "https://www.ft.com/content/8c354f2d-3e66-47f1-aad4-9b4aa30e386d",
+      "title_zh": "阿联酋将离开欧佩克，冲击石油卡特尔",
+      "created_display": "Created: Apr 28, 2026 / 06:02 PT",
+      "image_url": null,
+      "summary_en": "The UAE's plan to leave OPEC jolts the oil cartel and could redraw energy-market dynamics. The move may affect production agreements, prices, and geopolitical alignments.",
+      "summary_zh": "阿联酋将离开欧佩克，可能重塑能源市场格局，影响产量协议、油价与地缘关系的走向。",
+      "hn": {
+        "id": 47933983,
+        "type": "story",
+        "by": "bazzmt",
+        "score": 457,
+        "descendants": 612,
+        "time": 1777381321,
+        "comments_url": "https://news.ycombinator.com/item?id=47933983"
+      },
+      "tags": [
+        "Energy",
+        "Politics"
+      ],
+      "hot_score": 1.2
+    },
+    {
+      "title_en": "Drone pilot makes US rescind no-fly zones around unmarked, moving ICE vehicles",
+      "url": "https://arstechnica.com/gadgets/2026/04/no-fly-zones-around-moving-ice-vehicles-this-drone-pilot-fought-back-and-won/",
+      "title_zh": "无人机飞手推动美国撤销围绕移动中的未标记 ICE 车辆的禁飞区",
+      "created_display": "Created: Apr 28, 2026 / 13:30 PT",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/powderhorn_jan_10-2560x1440.jpg",
+      "summary_en": "A drone pilot challenged no-fly zones around moving, unmarked ICE vehicles, resulting in the zones being rescinded. The case highlights the tension between aviation regulation and real-world drone operations, potentially influencing how authorities manage dynamic airspace.",
+      "summary_zh": "一名无人机飞行员挑战了围绕未标记、正在移动的 ICE 车辆的禁飞区，最终禁飞区被撤销。此事凸显在动态场景下的空域管控与无人机执行之间的矛盾，或将影响未来的相关政策与执法方式。",
+      "hn": {
+        "id": 47940271,
+        "type": "story",
+        "by": "Bender",
+        "score": 241,
+        "descendants": 73,
+        "time": 1777408235,
+        "comments_url": "https://news.ycombinator.com/item?id=47940271"
+      },
+      "hot_score": 1.13,
+      "tags": [
+        "Security",
+        "Politics"
+      ]
+    },
+    {
+      "title_en": "Who owns the code Claude Code wrote?",
+      "url": "https://legallayer.substack.com/p/who-owns-the-claude-code-wrote",
+      "title_zh": "Claude Code 写的代码归谁所有？",
+      "created_display": "Created: Apr 28, 2026 / 04:24 PT",
+      "image_url": null,
+      "summary_en": "A legal discussion about ownership of code produced by Claude, examining IP rights, licensing, and the practical implications for developers relying on AI-generated code.",
+      "summary_zh": "讨论 Claude 生成代码的所有权及知识产权归属，探讨许可、开发者权益和实际开发中的影响。",
+      "hn": {
+        "id": 47932937,
+        "type": "story",
+        "by": "senaevren",
+        "score": 459,
+        "descendants": 431,
+        "time": 1777375492,
+        "comments_url": "https://news.ycombinator.com/item?id=47932937"
+      },
+      "tags": [
+        "Legal",
+        "AI"
+      ],
+      "hot_score": 1.09
+    },
+    {
+      "title_en": "Claude.ai unavailable and elevated errors on the API",
+      "url": "https://status.claude.com/incidents/9l93x2ht4s5w",
+      "title_zh": "Claude.ai 不可用及 API 出错上升",
+      "created_display": "Created: Apr 28, 2026 / 11:01 PT",
+      "image_url": "https://dka575ofm4ao0.cloudfront.net/assets/logos/favicon-2b86ed00cfa6258307d4a3d0c482fd733c7973f82de213143b24fc062c540367.png",
+      "summary_en": "Claude AI's API experiences outages and elevated errors, impacting developers relying on its services. The incident highlights the fragility of AI-as-a-service platforms and the importance of resilience and multi-provider strategies.",
+      "summary_zh": "Claude AI 的 API 遭遇宕机与高错误率，影响依赖该服务的开发者。此事件凸显 AI 即服务平台的脆弱性，以及提高弹性和采用多供应商策略的重要性。",
+      "hn": {
+        "id": 47938097,
+        "type": "story",
+        "by": "shorsher",
+        "score": 287,
+        "descendants": 248,
+        "time": 1777399281,
+        "comments_url": "https://news.ycombinator.com/item?id=47938097"
+      },
+      "tags": [
+        "AI",
+        "DevOps"
+      ],
+      "hot_score": 1.08
+    },
+    {
+      "title_en": "Waymo in Portland",
+      "url": "https://waymo.com/blog/shorts/waymo-in-portland/",
+      "title_zh": "Waymo 在波特兰落地",
+      "created_display": "Created: Apr 28, 2026 / 11:08 PT",
+      "image_url": "https://lh3.googleusercontent.com/UPun1Qt7__4wiDBjwVmycX6nHcPeo8-O1740UaePpfNI9u0UoOVyLiW9jKmgmTaROQTLF1AhIUm7jVBAfV-9v-qxY54SwKFsUz8",
+      "summary_en": "Waymo expands its autonomous taxi operations to Portland, marking another city rollout and signaling competitive pressure in the AV space. The note covers service availability, safety considerations, and implications for local mobility and future expansions.",
+      "summary_zh": "Waymo 将其自动驾驶出租车服务扩展到波特兰，标志着又一次城市落地并凸显自动驾驶领域的竞争格局。文中提及服务覆盖、安全考量以及对地方出行和未来扩张的影响。",
+      "hn": {
+        "id": 47938184,
+        "type": "story",
+        "by": "xnx",
+        "score": 280,
+        "descendants": 504,
+        "time": 1777399693,
+        "comments_url": "https://news.ycombinator.com/item?id=47938184"
+      },
+      "tags": [
+        "Business"
+      ],
+      "hot_score": 1.07
+    },
+    {
+      "title_en": "Warp is now open-source",
+      "url": "https://www.warp.dev/blog/warp-is-now-open-source",
+      "title_zh": "Warp 现已开源",
+      "created_display": "Created: Apr 28, 2026 / 08:58 PT",
+      "image_url": "https://www.warp.dev/images/blog/warp-is-now-open-source/hero.png",
+      "summary_en": "Warp has become open-source, inviting community contributions and potential performance improvements for its GPU-accelerated terminal.",
+      "summary_zh": "Warp 的代码已开源，欢迎社区贡献，可能推动 GPU 加速终端的功能迭代与新集成。",
+      "hn": {
+        "id": 47936264,
+        "type": "story",
+        "by": "meetpateltech",
+        "score": 321,
+        "descendants": 95,
+        "time": 1777391910,
+        "comments_url": "https://news.ycombinator.com/item?id=47936264"
+      },
+      "tags": [
+        "Open Source",
+        "Hardware"
+      ],
+      "hot_score": 1.04
+    },
+    {
+      "title_en": "I won a championship that doesn't exist",
+      "url": "https://ron.stoner.com/How_I_Won_a_Championship_That_Doesnt_Exist/",
+      "title_zh": "我赢得了一个并不存在的冠军",
+      "created_display": "Created: Apr 28, 2026 / 13:38 PT",
+      "image_url": "https://ron.stoner.com/images/6nimmt/poison.jpg",
+      "summary_en": "A personal piece about claiming a championship that isn’t officially recognized, using the episode to discuss the allure of online accolades and the importance of transparent criteria. It reflects on how virtual trophies shape perception and behavior.",
+      "summary_zh": "一篇个人随笔，讲述获得一个官方未认可的冠军，以此讨论在线成就的魅力及透明标准的重要性。文章反思虚拟奖项如何影响认知与行为。",
+      "hn": {
+        "id": 47940389,
+        "type": "story",
+        "by": "SEJeff",
+        "score": 207,
+        "descendants": 110,
+        "time": 1777408701,
+        "comments_url": "https://news.ycombinator.com/item?id=47940389"
+      },
+      "tags": [
+        "Culture"
+      ],
+      "hot_score": 0.98
+    },
+    {
+      "title_en": "Google and Pentagon reportedly agree on deal for 'any lawful' use of AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/919494/google-pentagon-classified-ai-deal",
+      "title_zh": "谷歌与五角大楼就“任何合法用途”的 AI 达成协议（传闻）",
+      "created_display": "Created: Apr 28, 2026 / 08:49 PT",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24925007/236780_Google_AntiTrust_Trial_Custom_Art_CVirginia__0001_5.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "summary_en": "Google and the Pentagon reportedly struck a deal allowing broad, 'any lawful' uses of Google's AI by the military. The arrangement underscores growing private-sector involvement in defense AI and raises questions about governance, safety, and civilian oversight.",
+      "summary_zh": "据传，谷歌与五角大楼就‘任何合法用途’的 AI 达成协议，允许军事部门在广泛范围内使用谷歌的 AI。此举反映出私营企业在国防 AI 中的参与度日益加深，同时引发关于治理、安全与民众监督的讨论。",
+      "hn": {
+        "id": 47936156,
+        "type": "story",
+        "by": "granzymes",
+        "score": 300,
+        "descendants": 270,
+        "time": 1777391362,
+        "comments_url": "https://news.ycombinator.com/item?id=47936156"
+      },
+      "hot_score": 0.96,
+      "tags": [
+        "AI",
+        "Politics"
+      ]
+    },
+    {
+      "title_en": "VibeVoice: Open-source frontier voice AI",
+      "url": "https://github.com/microsoft/VibeVoice",
+      "title_zh": "Microsoft VibeVoice：开源前沿的语音AI",
+      "created_display": "Created: Apr 28, 2026 / 04:56 PT",
+      "image_url": "https://opengraph.githubassets.com/5479ff32185f4ebce5cd228a5507eb9a8e7a6f57cf568fdec179cf0dc86c994b/microsoft/VibeVoice",
+      "summary_en": "Microsoft unveils VibeVoice as an open-source frontier for voice AI, providing models and tooling to build real-time speech apps. The move could accelerate community-driven innovation in voice tech while prompting questions about licensing, safety, and governance in open-source AI.",
+      "summary_zh": "微软推出 VibeVoice，作为开源语音AI的前沿项目，提供模型与工具用于构建实时语音应用。此举有望加速社区驱动的语音技术创新，同时引发关于许可、安全与治理的讨论。",
+      "hn": {
+        "id": 47933236,
+        "type": "story",
+        "by": "tosh",
+        "score": 376,
+        "descendants": 173,
+        "time": 1777377364,
+        "comments_url": "https://news.ycombinator.com/item?id=47933236"
+      },
+      "tags": [
+        "Open Source",
+        "AI"
+      ],
+      "hot_score": 0.92
+    },
+    {
+      "title_en": "Period tracking app, Flo, found to be selling user data to Meta",
+      "url": "https://femtechdesigndesk.substack.com/p/your-period-tracking-app-has-been",
+      "title_zh": "生理期追踪应用 Flo 被发现向 Meta 出售用户数据",
+      "created_display": "Created: Apr 28, 2026 / 04:31 PT",
+      "image_url": null,
+      "summary_en": "Flo, a popular period-tracking app, was found to sell user data to Meta. This highlights privacy risks in health apps and the blurred line between product features and data monetization, prompting calls for clearer consent, data minimization, and disclosures.",
+      "summary_zh": "广受欢迎的生理期跟踪应用 Flo 被曝向 Meta 出售用户数据。此事暴露了健康类应用的隐私风险以及数据商业化的模糊界限，促使人们呼吁加强同意机制、数据最小化以及更清晰的数据使用披露。",
+      "hn": {
+        "id": 47932990,
+        "type": "story",
+        "by": "campuscodi",
+        "score": 376,
+        "descendants": 246,
+        "time": 1777375900,
+        "comments_url": "https://news.ycombinator.com/item?id=47932990"
+      },
+      "hot_score": 0.9,
+      "tags": [
+        "Privacy",
+        "Business",
+        "Health"
+      ]
+    },
+    {
+      "title_en": "UAE Leaves OPEC",
+      "url": "https://www.reuters.com/markets/commodities/uae-says-it-quits-opec-opec-statement-2026-04-28/",
+      "title_zh": "阿联酋退出欧佩克",
+      "created_display": "Created: Apr 28, 2026 / 06:13 PT",
+      "image_url": null,
+      "summary_en": "The UAE has said it quits OPEC, removing a key member from the cartel. The move could give the UAE greater freedom over its oil production and price setting, while reordering OPEC's influence in global markets.",
+      "summary_zh": "阿联酋宣布退出欧佩克，意味着该国将脱离石油卡特尔的成员身份。此举可能为阿布扎比在原油产量与定价方面带来更大自主权，同时重新调整欧佩克在全球市场的影响力。",
+      "hn": {
+        "id": 47934120,
+        "type": "story",
+        "by": "TechTechTech",
+        "score": 331,
+        "descendants": 2,
+        "time": 1777382034,
+        "comments_url": "https://news.ycombinator.com/item?id=47934120"
+      },
+      "hot_score": 0.88,
+      "tags": [
+        "Energy",
+        "Politics"
+      ]
+    },
+    {
+      "title_en": "An update on GitHub availability",
+      "url": "https://github.blog/news-insights/company-news/an-update-on-github-availability/",
+      "title_zh": "关于 GitHub 可用性更新",
+      "created_display": "Created: Apr 28, 2026 / 03:05 PT",
+      "image_url": "https://github.blog/wp-content/uploads/2025/07/wallpaper-generic-blue.png",
+      "summary_en": "GitHub published an update on availability, explaining what caused recent downtime and what is being done to improve reliability. The note signals ongoing investments in redundancy and faster incident response to keep developers productive.",
+      "summary_zh": "GitHub 就可用性发布更新，解释了最近宕机的原因以及为提升可靠性所采取的改进措施。该公告显示其在提高冗余和应急响应方面的持续投入，以保障开发者的生产力。",
+      "hn": {
+        "id": 47932422,
+        "type": "story",
+        "by": "salkahfi",
+        "score": 401,
+        "descendants": 241,
+        "time": 1777370703,
+        "comments_url": "https://news.ycombinator.com/item?id=47932422"
+      },
+      "tags": [
+        "DevOps",
+        "Programming"
+      ],
+      "hot_score": 0.87
+    },
+    {
+      "title_en": "Talkie: a 13B vintage language model from 1930",
+      "url": "https://talkie-lm.com/introducing-talkie",
+      "title_zh": "Talkie：一個13B參數的1930年代風格語言模型",
+      "created_display": "Created: Apr 27, 2026 / 14:55 PT",
+      "image_url": "https://talkie-lm.com/images/papers-composite.png",
+      "summary_en": "Talkie introduces a 13B parameter language model built around vintage, 1930s-inspired constraints, challenging modern assumptions about scale. The project explores how era-specific design choices impact capabilities and efficiency, offering a playful, instructive counterpoint to conventional LLM development.",
+      "summary_zh": "Talkie 以1930年代的設計約束為背景，打造一個13B參數的語言模型，挑戰以規模取勝的現代觀點。該項目探討不同時代下的設計取捨如何影響模型能力與效率，為傳統大模型開發提供有趣且具啟發性的對照。",
+      "hn": {
+        "id": 47927903,
+        "type": "story",
+        "by": "jekude",
+        "score": 719,
+        "descendants": 303,
+        "time": 1777326948,
+        "comments_url": "https://news.ycombinator.com/item?id=47927903"
+      },
+      "tags": [
+        "AI"
+      ],
+      "hot_score": 0.85
+    },
+    {
+      "title_en": "Warp is now open-source",
+      "url": "https://github.com/warpdotdev/warp",
+      "title_zh": "Warp 已开源",
+      "created_display": "Created: Apr 28, 2026 / 10:09 PT",
+      "image_url": "https://repository-images.githubusercontent.com/384219990/b575e759-fc36-4fd6-b41f-ece62db004fe",
+      "summary_en": "Warp has open-sourced its codebase, inviting developers to inspect, modify, and contribute. The move could accelerate adoption, spur community-driven improvements, and increase transparency around the project’s design choices.",
+      "summary_zh": "Warp 已开源其代码库，邀请开发者审查、修改并贡献。此举可能加速采用并推动社区驱动的改进，同时提升对项目设计选择的透明度。",
+      "hn": {
+        "id": 47937349,
+        "type": "story",
+        "by": "doppp",
+        "score": 234,
+        "descendants": 164,
+        "time": 1777396181,
+        "comments_url": "https://news.ycombinator.com/item?id=47937349"
+      },
+      "hot_score": 0.83,
+      "tags": [
+        "Open Source"
+      ]
+    },
+    {
+      "title_en": "Microsoft and OpenAI end their exclusive and revenue-sharing deal",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-27/microsoft-to-stop-sharing-revenue-with-main-ai-partner-openai",
+      "title_zh": "微软与 OpenAI 终止独家及分成协议",
+      "created_display": "Created: Apr 27, 2026 / 06:22 PT",
+      "image_url": null,
+      "summary_en": "Microsoft and OpenAI are ending their exclusive, revenue-sharing deal. The move loosens a decade-long alignment that helped accelerate AI adoption in Azure and Copilot, while inviting new partnerships for OpenAI and forcing Microsoft to recalibrate its cloud-AI bets. The change reframes the competitive landscape for AI platforms and developer access.",
+      "summary_zh": "微软与 OpenAI 终止了此前的独家及分成安排，打破两家长期的深度绑定。此举让 OpenAI 能与更多伙伴合作，微软也需重新布局云端 AI 战略。此举可能重塑 AI 平台生态的竞争格局与开发者接入格局。",
+      "hn": {
+        "id": 47921248,
+        "type": "story",
+        "by": "helsinkiandrew",
+        "score": 969,
+        "descendants": 839,
+        "time": 1777296162,
+        "comments_url": "https://news.ycombinator.com/item?id=47921248"
+      },
+      "tags": [
+        "AI",
+        "Business"
+      ],
+      "hot_score": 0.82
+    },
+    {
+      "title_en": "Anthropic Joins the Blender Development Fund as Corporate Patron",
+      "url": "https://www.blender.org/press/anthropic-joins-the-blender-development-fund-as-corporate-patron/",
+      "title_zh": "Anthropic 作为企业赞助商加入 Blender 开发基金会",
+      "created_display": "Created: Apr 28, 2026 / 09:07 PT",
+      "image_url": "https://www.blender.org/wp-content/uploads/2026/04/anthropic_dev_fund-480x270.png",
+      "summary_en": "Anthropic has joined the Blender Development Fund as a corporate patron, backing the open-source 3D software Blender. The move signals growing corporate support for open-source tooling used in AI, simulations, and content pipelines, and could accelerate Blender's development while aligning with responsible AI principles.",
+      "summary_zh": "Anthropic 已成为 Blender 开发基金会的企业赞助商，支持开源的 3D 创作套件 Blender。此举表明企业对开源工具的日益支持，尤其是在 AI、仿真和内容创作工作流中的应用，可能推动 Blender 的发展并与负责任 AI 原则保持一致。",
+      "hn": {
+        "id": 47936370,
+        "type": "story",
+        "by": "Philpax",
+        "score": 252,
+        "descendants": 205,
+        "time": 1777392478,
+        "comments_url": "https://news.ycombinator.com/item?id=47936370"
+      },
+      "hot_score": 0.82,
+      "tags": [
+        "Open Source",
+        "Business",
+        "AI"
+      ]
+    },
+    {
+      "title_en": "OpenAI CEO's Identity Verification Company Announced Fake Bruno Mars Partnership",
+      "url": "https://www.vice.com/en/article/openai-ceo-identity-verification-company-fake-bruno-mars-partnership-mistaken-identity/",
+      "title_zh": "OpenAI 首席执行官的身份验证公司宣布与 Bruno Mars 的合作为伪造",
+      "created_display": "Created: Apr 28, 2026 / 06:26 PT",
+      "image_url": "https://www.vice.com/wp-content/uploads/sites/2/2026/04/Bruno-Mars1.jpg?w=1200",
+      "summary_en": "A company tied to the OpenAI CEO's identity-verification venture announced a partnership with Bruno Mars that turned out to be fake. The incident highlights hype, misrepresentation risks in AI identity tools, and the reputational stakes for founders navigating high-profile partnerships.",
+      "summary_zh": "一家公司声称与 Bruno Mars 合作，实际为伪造合作，归属 OpenAI CEO 关联的身份验证公司。此事件凸显了 AI 身份验证领域的炒作和虚假宣传风险，以及对创始人声誉的潜在影响。",
+      "hn": {
+        "id": 47934269,
+        "type": "story",
+        "by": "BoggleOhYeah",
+        "score": 281,
+        "descendants": 108,
+        "time": 1777382786,
+        "comments_url": "https://news.ycombinator.com/item?id=47934269"
+      },
+      "hot_score": 0.76,
+      "tags": [
+        "AI",
+        "Privacy",
+        "Space",
+        "Business"
+      ]
+    },
+    {
+      "title_en": "Is my blue your blue? (2024)",
+      "url": "https://ismy.blue/",
+      "title_zh": "我的蓝色是你的蓝色吗？",
+      "created_display": "Created: Apr 27, 2026 / 13:24 PT",
+      "image_url": "https://ismy.blue/card.png",
+      "summary_en": "Color perception can vary across displays and lighting; this project experiments with blue to reveal subjective differences in hue naming and perception. The result has implications for UI color choices, accessibility, and cross-device consistency in design.",
+      "summary_zh": "色彩感知在不同显示器和光线下存在差异；该项目用蓝色进行实验，揭示了主观色调命名与感知的差异。对界面颜色选择、无障碍设计和跨设备的一致性具有启示意义。",
+      "hn": {
+        "id": 47926861,
+        "type": "story",
+        "by": "theogravity",
+        "score": 679,
+        "descendants": 463,
+        "time": 1777321473,
+        "comments_url": "https://news.ycombinator.com/item?id=47926861"
+      },
+      "tags": [
+        "Design"
+      ],
+      "hot_score": 0.75
+    },
+    {
+      "title_en": "AI's economics don't make sense",
+      "url": "https://www.wheresyoured.at/ais-economics-dont-make-sense/",
+      "title_zh": "AI 的经济学并不合理",
+      "created_display": "Created: Apr 28, 2026 / 09:39 PT",
+      "image_url": "https://storage.ghost.io/c/24/d8/24d8fcec-dfba-4f40-a467-823d2941ae46/content/images/2024/01/wyea--1.jpeg",
+      "summary_en": "A provocative take argues that AI's economics — from training costs to deployment pricing — don't add up for sustainable business models. It calls for efficiency, model reuse, and new monetization strategies to align incentives across developers, platforms, and users.",
+      "summary_zh": "一篇观点文章认为 AI 的经济学在成本结构、定价等方面并不具备可持续性，呼吁提升效率、重复使用模型并探索新的盈利模式，以实现开发者、平台与用户之间的激励对齐。",
+      "hn": {
+        "id": 47936867,
+        "type": "story",
+        "by": "spking",
+        "score": 222,
+        "descendants": 177,
+        "time": 1777394393,
+        "comments_url": "https://news.ycombinator.com/item?id=47936867"
+      },
+      "hot_score": 0.75,
+      "tags": [
+        "AI",
+        "Business"
+      ]
+    },
+    {
+      "title_en": "Bankruptcies increase 11.9 percent",
+      "url": "https://www.uscourts.gov/data-news/judiciary-news/2026/04/23/bankruptcies-increase-119-percent",
+      "title_zh": "破产案件数量增长 11.9%",
+      "created_display": "Created: Apr 28, 2026 / 11:47 PT",
+      "image_url": "https://www.uscourts.gov/themes/custom/uscgov/dist/uswds/img/us_flag_small.png",
+      "summary_en": "Bankruptcies rose 11.9% year over year, signaling ongoing financial stress for individuals and small businesses amid macro headwinds. The uptick has implications for credit markets, consumer spending, and the resilience of the broader economy.",
+      "summary_zh": "破产案件同比增长 11.9%，显示个人和小企业在宏观经济压力下持续承压。此趋势可能影响信贷市场、消费者支出与经济韧性。",
+      "hn": {
+        "id": 47938756,
+        "type": "story",
+        "by": "jaredwiener",
+        "score": 185,
+        "descendants": 117,
+        "time": 1777402029,
+        "comments_url": "https://news.ycombinator.com/item?id=47938756"
+      },
+      "hot_score": 0.74,
+      "tags": [
+        "Finance",
+        "Business"
+      ]
+    },
+    {
+      "title_en": "GitHub Copilot is moving to usage-based billing",
+      "url": "https://github.blog/news-insights/company-news/github-copilot-is-moving-to-usage-based-billing/",
+      "title_zh": "GitHub Copilot 将改为按使用量计费",
+      "created_display": "Created: Apr 27, 2026 / 09:03 PT",
+      "image_url": "https://github.blog/wp-content/uploads/2026/01/generic-invertocat-logo.png",
+      "summary_en": "GitHub Copilot shifts to usage-based billing, moving away from subscription pricing; developers will pay based on usage, raising concerns about cost predictability and potential impact on adoption. GitHub cites fairer pricing linked to value delivered.",
+      "summary_zh": "GitHub Copilot 将从订阅制转为按使用量计费，开发者需按实际使用支付费用，可能影响成本可预测性和采用程度。GitHub 表示新定价更公平、与所创造的价值挂钩。",
+      "hn": {
+        "id": 47923357,
+        "type": "story",
+        "by": "frizlab",
+        "score": 756,
+        "descendants": 552,
+        "time": 1777305788,
+        "comments_url": "https://news.ycombinator.com/item?id=47923357"
+      },
+      "tags": [
+        "Programming",
+        "AI"
+      ],
+      "hot_score": 0.71
+    },
+    {
+      "title_en": "FCC Funding Application Notes Paramount Will Be 49.5% Foreign-Owned Post-Merger",
+      "url": "https://deadline.com/2026/04/paramount-fcc-request-wbd-merger-middle-east-1236873732/",
+      "title_zh": "FCC 的资金申请显示 Paramount 在并购后外国所有权将达到 49.5%",
+      "created_display": "Created: Apr 28, 2026 / 08:54 PT",
+      "image_url": "https://deadline.com/wp-content/uploads/2025/10/Paramount-and-Warner-Bros.jpg?w=1024",
+      "summary_en": "FCC funding notes indicate Paramount would be 49.5% foreign-owned after the merger, raising questions about foreign ownership thresholds and regulatory oversight. The data could influence approvals and conditions around cross-border media investments.",
+      "summary_zh": "FCC 的资金申请显示，合并后 Paramount 的外国所有权将达到 49.5%，引发对外国所有权门槛与监管的讨论。这一数字可能影响跨境媒体投资的审批与相关条件。",
+      "hn": {
+        "id": 47936210,
+        "type": "story",
+        "by": "throw0101c",
+        "score": 218,
+        "descendants": 144,
+        "time": 1777391661,
+        "comments_url": "https://news.ycombinator.com/item?id=47936210"
+      },
+      "hot_score": 0.7,
+      "tags": [
+        "Legal",
+        "Business",
+        "Politics"
+      ]
+    },
+    {
+      "title_en": "Show HN: Auto-Architecture: Karpathy's Loop, pointed at a CPU",
+      "url": "https://github.com/FeSens/auto-arch-tournament/blob/main/docs/auto-arch-tournament-blog-post.md",
+      "title_zh": "Show HN：Auto-Architecture——面向 CPU 的 Karpathy 循环",
+      "created_display": "Created: Apr 28, 2026 / 10:12 PT",
+      "image_url": null,
+      "summary_en": "A Show HN presenting Auto-Architecture, a loop-based system inspired by Karpathy that automatically designs and evaluates neural network architectures on commodity CPU hardware. It demonstrates end-to-end automation of architecture search without GPU dependence. The project highlights the growing appeal of accessible, automated ML design workflows.",
+      "summary_zh": "Show HN 展示 Auto-Architecture，这是一套受 Karpathy 思路启发、在普通 CPU 硬件上自动设计与评估神经网络架构的循环系统。它演示了无需 GPU 的端到端架构自动化搜索。该项目凸显了可负担性与自动化 ML 设计流程的日益吸引力。",
+      "hn": {
+        "id": 47937380,
+        "type": "story",
+        "by": "fesens",
+        "score": 194,
+        "descendants": 53,
+        "time": 1777396350,
+        "comments_url": "https://news.ycombinator.com/item?id=47937380"
+      },
+      "tags": [
+        "Show HN",
+        "AI",
+        "Programming",
+        "Hardware"
+      ],
+      "hot_score": 0.69
+    },
+    {
+      "title_en": "GTFOBins",
+      "url": "https://gtfobins.org/",
+      "title_zh": "GTFOBins：可滥用的二进制文件大全",
+      "created_display": "Created: Apr 27, 2026 / 23:27 PT",
+      "image_url": "https://gtfobins.org/assets/logo.png",
+      "summary_en": "GTFOBins catalogs common Unix binaries that can be abused to bypass restrictions or escalate privileges, with practical usage examples. It serves as a practical reference for both attackers and defenders to understand potential attack paths. Keeping track of these binaries helps incident responders design better mitigations and detection rules.",
+      "summary_zh": "GTFOBins 收集了常见的 Unix 二进制程序及其被滥用的场景，帮助利用这些工具进行提权、规避限制等。该资源为安全研究人员、红队与防守方提供实际的攻击面参考。持续关注这些条目有助于制定更有效的防护和检测策略。",
+      "hn": {
+        "id": 47931035,
+        "type": "story",
+        "by": "StefanBatory",
+        "score": 368,
+        "descendants": 90,
+        "time": 1777357659,
+        "comments_url": "https://news.ycombinator.com/item?id=47931035"
+      },
+      "tags": [
+        "Security"
+      ],
+      "hot_score": 0.65
+    },
+    {
+      "title_en": "GitHub Copilot code review will start consuming GitHub Actions minutes",
+      "url": "https://github.blog/changelog/2026-04-27-github-copilot-code-review-will-start-consuming-github-actions-minutes-on-june-1-2026/",
+      "title_zh": "GitHub Copilot 代码审查将开始消耗 GitHub Actions 的使用分钟数",
+      "created_display": "Created: Apr 28, 2026 / 02:01 PT",
+      "image_url": "https://github.blog/wp-content/themes/github-2021-child/dist/img/social-v3-new-releases.jpg",
+      "summary_en": "Copilot Code Review will start consuming GitHub Actions minutes from June 1, affecting code-review workloads and project costs. Teams will need to optimize usage or budget for the additional minutes.",
+      "summary_zh": "Copilot 代码审查将自6月1日起开始消耗 GitHub Actions 的分钟数，影响代码审查工作流和项目成本。团队需要优化使用量，或为额外的分钟数调整预算。",
+      "hn": {
+        "id": 47932028,
+        "type": "story",
+        "by": "whtsky",
+        "score": 294,
+        "descendants": 190,
+        "time": 1777366865,
+        "comments_url": "https://news.ycombinator.com/item?id=47932028"
+      },
+      "tags": [
+        "Programming",
+        "DevOps",
+        "AI"
+      ],
+      "hot_score": 0.6
+    },
+    {
+      "title_en": "GitHub Actions is the weakest link",
+      "url": "https://nesbitt.io/2026/04/28/github-actions-is-the-weakest-link.html",
+      "title_zh": "GitHub Actions 是现代软件管道中的薄弱环节",
+      "created_display": "Created: Apr 28, 2026 / 04:58 PT",
+      "image_url": "https://nesbitt.io/images/boxes.png",
+      "summary_en": "A critical examination argues GitHub Actions is the systemic weak link in modern software pipelines, highlighting security and governance risks of bundling CI/CD with code hosting. The piece calls for stronger isolation and supply-chain safeguards.",
+      "summary_zh": "对 GitHub Actions 的批判性审视认为它是现代软件管道的系统性薄弱环节，强调将 CI/CD 与代码托管捆绑在一起所带来的安全与治理风险。文章呼吁加强隔离与供应链防护。",
+      "hn": {
+        "id": 47933257,
+        "type": "story",
+        "by": "dochtman",
+        "score": 235,
+        "descendants": 83,
+        "time": 1777377494,
+        "comments_url": "https://news.ycombinator.com/item?id=47933257"
+      },
+      "tags": [
+        "Security",
+        "DevOps",
+        "Programming"
+      ],
+      "hot_score": 0.57
+    },
+    {
+      "title_en": "Show HN: Live Sun and Moon Dashboard with NASA Footage",
+      "url": "https://www.lumara-space.app/",
+      "title_zh": "Show HN: 使用 NASA 影像的实时日月仪表板",
+      "created_display": "Created: Apr 28, 2026 / 06:25 PT",
+      "image_url": "https://lumara-space.app/og-share.png",
+      "summary_en": "A Show HN project builds a live dashboard that renders Sun and Moon data using NASA footage. It demonstrates accessible, real-time space visualization and could be a handy template for hobbyists building data-driven dashboards.",
+      "summary_zh": "一个 Show HN 项目构建了一个实时日月仪表板，使用 NASA 影像呈现天体数据。它展示了面向爱好者的实时太空数据可视化潜力，并给初学者提供一个构建数据驱动仪表板的模板。",
+      "hn": {
+        "id": 47934261,
+        "type": "story",
+        "by": "beeswaxpat",
+        "score": 204,
+        "descendants": 63,
+        "time": 1777382748,
+        "comments_url": "https://news.ycombinator.com/item?id=47934261"
+      },
+      "tags": [
+        "Show HN",
+        "Space"
+      ],
+      "hot_score": 0.55
+    },
+    {
+      "title_en": "To my students",
+      "url": "http://ozark.hendrix.edu/~yorgey/forest/00FD/index.xml",
+      "title_zh": "致我的学生",
+      "created_display": "Created: Apr 27, 2026 / 16:57 PT",
+      "image_url": null,
+      "summary_en": "A professor writes a reflective note to students about learning.",
+      "summary_zh": "教授写给学生的一封反思信，探讨学习与成长之道。",
+      "hn": {
+        "id": 47928828,
+        "type": "story",
+        "by": "marvinborner",
+        "score": 326,
+        "descendants": 197,
+        "time": 1777334259,
+        "comments_url": "https://news.ycombinator.com/item?id=47928828"
+      },
+      "tags": [
+        "Education"
+      ],
+      "hot_score": 0.42
+    },
+    {
+      "title_en": "High Performance Git",
+      "url": "https://gitperf.com/",
+      "title_zh": "Ted Nyman：高性能 Git",
+      "created_display": "Created: Apr 27, 2026 / 17:32 PT",
+      "image_url": "https://gitperf.com/index-art.png",
+      "summary_en": "Ted Nyman dives into high-performance Git, sharing benchmarks and practical optimization strategies for large repositories and complex workflows. The piece distills actionable tips for developers seeking faster history operations and smoother collaboration.",
+      "summary_zh": "Ted Nyman 深入探討 Git 的高性能實作，分享針對大型倉庫與複雜工作流程的基準與實用優化策略。內容提煉出可直接落地的做法，幫助開發者提升歷史操作的速度與協作流暢度。",
+      "hn": {
+        "id": 47929035,
+        "type": "story",
+        "by": "gnabgib",
+        "score": 255,
+        "descendants": 81,
+        "time": 1777336324,
+        "comments_url": "https://news.ycombinator.com/item?id=47929035"
+      },
+      "tags": [
+        "Programming"
+      ],
+      "hot_score": 0.34
+    },
+    {
+      "title_en": "Super ZSNES – GPU Powered SNES Emulator",
+      "url": "https://zsnes.com/",
+      "title_zh": "Super ZSNES：基于 GPU 的 SNES 模拟器",
+      "created_display": "Created: Apr 27, 2026 / 10:50 PT",
+      "image_url": "https://zsnes.com/SuperZsnesLogo.webp",
+      "summary_en": "GPU-accelerated SNES emulator project aiming for higher performance; uses modern GPUs to accelerate emulation. It represents ongoing retro-emulation performance engineering and hardware-accelerated emulation trends.",
+      "summary_zh": "Super ZSNES 是一个利用 GPU 加速的 SNES 模拟器，旨在实现更高帧率与更准确的图形重现，体现通过硬件加速提升复古仿真性能的趋势。",
+      "hn": {
+        "id": 47924877,
+        "type": "story",
+        "by": "haunter",
+        "score": 332,
+        "descendants": 112,
+        "time": 1777312210,
+        "comments_url": "https://news.ycombinator.com/item?id=47924877"
+      },
+      "tags": [
+        "Hardware",
+        "Programming"
+      ],
+      "hot_score": 0.33
+    },
+    {
+      "title_en": "Dutch central bank ditches AWS and chooses Lidl for European Cloud",
+      "url": "https://www.techzine.eu/news/infrastructure/140634/dutch-central-bank-chooses-lidl-for-european-cloud/",
+      "title_zh": "荷兰央行弃用 AWS，选择 Lidl 搭建欧洲云",
+      "created_display": "Created: Apr 27, 2026 / 08:12 PT",
+      "image_url": "https://www.techzine.eu/wp-content/uploads/2025/01/lidl-winkel.jpg",
+      "summary_en": "Netherlands central bank replaces AWS with Lidl for its European Cloud initiative, signaling a move toward EU-controlled cloud services. The decision highlights a broader push for data sovereignty and diversification away from US hyperscalers in regulated sectors.",
+      "summary_zh": "荷兰央行放弃 AWS，转用 Lidl 的欧洲云计划，体现对 EU 受控云服务的偏好与数据主权的考量。此举反映在金融等受监管行业中加强对云供应商多元化及本地化的趋势。",
+      "hn": {
+        "id": 47922712,
+        "type": "story",
+        "by": "benterix",
+        "score": 355,
+        "descendants": 147,
+        "time": 1777302761,
+        "comments_url": "https://news.ycombinator.com/item?id=47922712"
+      },
+      "tags": [
+        "Business",
+        "Politics"
+      ],
+      "hot_score": 0.32
+    },
+    {
+      "title_en": "GitHub is having issues now",
+      "url": "https://www.githubstatus.com",
+      "title_zh": "GitHub 现在出现故障",
+      "created_display": "Created: Apr 27, 2026 / 10:42 PT",
+      "image_url": "https://user-images.githubusercontent.com/19292210/60553863-044dd200-9cea-11e9-987e-7db84449f215.png",
+      "summary_en": "GitHub is experiencing an outage with degraded performance across core services. The disruption underscores how essential code hosting platforms are to modern development workflows and the importance of transparent incident communications.",
+      "summary_zh": "GitHub 现正发生宕机，核心服务性能受影响。此次故障凸显代码托管平台在现代开发工作流中的关键作用，以及对透明事故通告的需求。",
+      "hn": {
+        "id": 47924775,
+        "type": "story",
+        "by": "SenHeng",
+        "score": 325,
+        "descendants": 121,
+        "time": 1777311739,
+        "comments_url": "https://news.ycombinator.com/item?id=47924775"
+      },
+      "tags": [
+        "DevOps",
+        "Programming"
+      ],
+      "hot_score": 0.32
+    },
+    {
+      "title_en": "“Why not just use Lean?”",
+      "url": "https://lawrencecpaulson.github.io//2026/04/23/Why_not_Lean.html",
+      "title_zh": "为何不直接用 Lean？",
+      "created_display": "Created: Apr 27, 2026 / 07:24 PT",
+      "image_url": null,
+      "summary_en": "Lean isn't a universal cure; the post argues for applying Lean where it fits and avoiding dogmatic adoption. It stresses context, trade-offs, and disciplined implementation.",
+      "summary_zh": "Lean 并非万能药，文中主张在合适场景下应用 Lean，避免教条化的采用。文章强调情境、取舍与落地执行的平衡，以及对团队的长期影响。",
+      "hn": {
+        "id": 47922079,
+        "type": "story",
+        "by": "ibobev",
+        "score": 300,
+        "descendants": 205,
+        "time": 1777299893,
+        "comments_url": "https://news.ycombinator.com/item?id=47922079"
+      },
+      "tags": [
+        "Business"
+      ],
+      "hot_score": 0.26
+    },
+    {
+      "title_en": "Easyduino: Open Source PCB Devboards for KiCad",
+      "url": "https://github.com/Hanqaqa/Easyduino",
+      "title_zh": "Easyduino：面向 KiCad 的开源 PCB 开发板",
+      "created_display": "Created: Apr 27, 2026 / 10:45 PT",
+      "image_url": "https://opengraph.githubassets.com/6cf20ad188edccf10d15973f3ccd3ef9c241df29994c6849a1777d46b94e6775/Hanqaqa/Easyduino",
+      "summary_en": "Easyduino offers open-source PCB dev boards designed for KiCad, enabling hobbyists and educators to prototype Arduino-compatible hardware with turnkey PCB layouts. The project lowers barriers to hardware iteration and fosters an ecosystem around KiCad-friendly workflows.",
+      "summary_zh": "Easyduino 提供面向 KiCad 的开源 PCB 开发板，使爱好者和教育工作者能够用现成版图快速实现 Arduino 兼容硬件原型。该项目降低硬件迭代门槛，促进 KiCad 友好工作流的生态发展。",
+      "hn": {
+        "id": 47924813,
+        "type": "story",
+        "by": "Hanqaqa",
+        "score": 251,
+        "descendants": 43,
+        "time": 1777311902,
+        "comments_url": "https://news.ycombinator.com/item?id=47924813"
+      },
+      "tags": [
+        "Open Source",
+        "Hardware"
+      ],
+      "hot_score": 0.25
+    },
+    {
+      "title_en": "The woes of sanitizing SVGs",
+      "url": "https://muffin.ink/blog/scratch-svg-sanitization/",
+      "title_zh": "清理 SVG 的烦恼",
+      "created_display": "Created: Apr 27, 2026 / 08:31 PT",
+      "image_url": "https://muffin.ink/blog/scratch-svg-sanitization/blue.png",
+      "summary_en": "Sanitizing SVGs remains tricky due to vector graphics features, embedded scripts, and CSS, leading to security and performance pitfalls. The post outlines pitfalls and best practices for safer SVG handling.",
+      "summary_zh": "对 SVG 进行安全清洗仍然颇具挑战，原因在于矢量特性、嵌入式脚本与 CSS 的组合带来的安全和性能风险。文中概述了难点与更安全的处理实践。",
+      "hn": {
+        "id": 47922957,
+        "type": "story",
+        "by": "varun_ch",
+        "score": 264,
+        "descendants": 108,
+        "time": 1777303896,
+        "comments_url": "https://news.ycombinator.com/item?id=47922957"
+      },
+      "tags": [
+        "Security",
+        "Web"
+      ],
+      "hot_score": 0.24
+    },
+    {
+      "title_en": "Networking changes coming in macOS 27",
+      "url": "https://eclecticlight.co/2026/04/23/networking-changes-coming-in-macos-27/",
+      "title_zh": "macOS 27 的网络改动将带来哪些变化",
+      "created_display": "Created: Apr 27, 2026 / 08:36 PT",
+      "image_url": "https://eclecticlight.co/wp-content/uploads/2015/01/cropped-eclecticlightlogo-e1421784280911.png?w=200",
+      "summary_en": "Apple plans network stack rework in macOS 27; changes include new APIs, routing behavior, and privacy controls that may affect developers' apps, VPNs, and network extensions. The changes signal Apple's broader push to tighten network security and streamline the stack.",
+      "summary_zh": "苹果在 macOS 27 中重构网络栈，涉及新 API、路由行为及隐私控制等更新，可能影响应用、VPN 与网络扩展的实现。此举体现了苹果在网络安全与栈简化方面的持续推进。",
+      "hn": {
+        "id": 47923010,
+        "type": "story",
+        "by": "pvtmert",
+        "score": 263,
+        "descendants": 230,
+        "time": 1777304172,
+        "comments_url": "https://news.ycombinator.com/item?id=47923010"
+      },
+      "tags": [
+        "Security",
+        "Privacy"
+      ],
+      "hot_score": 0.24
+    },
+    {
+      "title_en": "United Wizards of the Coast",
+      "url": "https://unitedwizardsofthecoast.com/news/announcing-united-wizards-coast-cwa",
+      "title_zh": "Wizards of the Coast 的工会成立公告",
+      "created_display": "Created: Apr 27, 2026 / 11:34 PT",
+      "image_url": "https://unitedwizardsofthecoast.com/sites/default/files/styles/image_media_large/public/2026-04/uwotc_banner.png.webp?itok=KK2xAzHm",
+      "summary_en": "Wizards of the Coast employees announce formation of a union with the Communications Workers of America under the United Wizards of the Coast banner. The move highlights a broader wave of labor organizing in the gaming industry, seeking collective bargaining for wages, benefits, and working conditions, and could affect project management and development tempo.",
+      "summary_zh": "Wizards of the Coast 的员工宣布与美通信工人联合会（CWA）组建工会，成立名为 United Wizards of the Coast 的组织。此举体现游戏行业劳工组织化的日益增长，旨在争取工资、福利与工作条件等集体谈判权，可能影响项目管理与开发节奏。",
+      "hn": {
+        "id": 47925425,
+        "type": "story",
+        "by": "d4mi3n",
+        "score": 233,
+        "descendants": 215,
+        "time": 1777314870,
+        "comments_url": "https://news.ycombinator.com/item?id=47925425"
+      },
+      "tags": [
+        "Politics",
+        "Culture",
+        "Gaming"
+      ],
+      "hot_score": 0.24
+    },
+    {
+      "title_en": "US Supreme Court reviews police use of cell location data",
+      "url": "https://www.nytimes.com/2026/04/27/us/politics/supreme-court-cell-data-geofence.html",
+      "title_zh": "美国最高法院正在审理警方使用手机定位数据追踪嫌疑人",
+      "created_display": "Created: Apr 27, 2026 / 08:29 PT",
+      "image_url": null,
+      "summary_en": "The US Supreme Court is reviewing cases on police use of cell location data to identify suspects, weighing privacy rights against investigative needs and Fourth Amendment protections.",
+      "summary_zh": "美国最高法院正在审理关于警方使用手机定位数据追踪嫌疑人的案件，权衡隐私权与侦查需求及第四修正案保护。",
+      "hn": {
+        "id": 47922940,
+        "type": "story",
+        "by": "unethical_ban",
+        "score": 254,
+        "descendants": 158,
+        "time": 1777303781,
+        "comments_url": "https://news.ycombinator.com/item?id=47922940"
+      },
+      "tags": [
+        "Privacy",
+        "Legal"
+      ],
+      "hot_score": 0.23
+    },
+    {
+      "title_en": "Three men are facing charges in Toronto SMS Blaster arrests",
+      "url": "https://www.tps.ca/media-centre/stories/unprecedented-sms-blaster-arrests/",
+      "title_zh": "多伦多短信轰炸案：三人被控44项罪名",
+      "created_display": "Created: Apr 27, 2026 / 13:44 PT",
+      "image_url": null,
+      "summary_en": "Three men in Toronto have been charged on 44 counts tied to an SMS blaster operation, illustrating sustained crackdown on bulk texting abuse. The case spotlights enforcement tightening around illegal marketing practices and the tech, telecom, and compliance risks for companies relying on bulk messaging. It also shows prosecutors pursuing cross-border digital crimes as part of telecom fraud enforcement.",
+      "summary_zh": "多伦多三名男子就一桩大规模短信轰炸案被控44项罪名，显示对垃圾短信的打击在加码。此案凸显对非法营销行为的执法加强，以及涉及企业在短信传播中的合规与风险。检方也在跨境数字犯罪打击中持续行动。",
+      "hn": {
+        "id": 47927070,
+        "type": "story",
+        "by": "gnabgib",
+        "score": 198,
+        "descendants": 125,
+        "time": 1777322656,
+        "comments_url": "https://news.ycombinator.com/item?id=47927070"
+      },
+      "tags": [
+        "Legal"
+      ],
+      "hot_score": 0.22
+    }
+  ]
+}

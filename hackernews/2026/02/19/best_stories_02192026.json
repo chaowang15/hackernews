@@ -1,0 +1,1164 @@
+{
+  "meta": {
+    "mode": "best",
+    "source": "https://news.ycombinator.com/",
+    "api": "https://github.com/HackerNews/API",
+    "count_requested": 50,
+    "count_written": 50,
+    "reused_same_day": 0,
+    "reused_cross_day": 18,
+    "new_llm_enriched": 32,
+    "scrape_time_display": "05:07, February 20, 2026 (PST)",
+    "timezone": "America/Los_Angeles",
+    "date_dir": "2026/02/19",
+    "content_date": "2026-02-19",
+    "run_time_local": "05:07, February 20, 2026 (PST)",
+    "run_time_utc": "2026-02-20 13:07:24 UTC",
+    "incremental": true,
+    "stories_max": 50
+  },
+  "items": [
+    {
+      "title_en": "I tried building my startup entirely on European infrastructure",
+      "url": "https://www.coinerella.com/made-in-eu-it-was-harder-than-i-thought/",
+      "title_zh": "我尝试把初创公司完全建立在欧洲基础设施上",
+      "created_display": "Created: Feb 20, 2026 / 01:02 PT",
+      "image_url": "https://images.unsplash.com/photo-1608817576203-3c27ed168bd2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDF8fGV1cm9wZXxlbnwwfHx8fDE3NzE0MDQ5Mjl8MA&ixlib=rb-4.1.0&q=80&w=2000",
+      "summary_en": "A founder documents the experience of relying exclusively on European cloud and edge services, highlighting regulatory frictions, data residency quirks, and supplier diversity trade-offs. The takeaway: sovereignty is compelling but comes with pain points for speed and tooling.",
+      "summary_zh": "创始人记录了完全依赖欧洲云与边缘基础设施的经历，强调监管摩擦、数据驻留与供应商多样性取舍等问题。结论是：自主性很有吸引力，但在速度与工具链上也带来挑战。",
+      "hn": {
+        "id": 47085483,
+        "type": "story",
+        "by": "willy__",
+        "score": 405,
+        "descendants": 206,
+        "time": 1771578125,
+        "comments_url": "https://news.ycombinator.com/item?id=47085483"
+      },
+      "tags": [
+        "Startups",
+        "DevOps",
+        "Politics"
+      ],
+      "hot_score": 15.64
+    },
+    {
+      "title_en": "The path to ubiquitous AI (17k tokens/sec)",
+      "url": "https://taalas.com/the-path-to-ubiquitous-ai/",
+      "title_zh": "通向普及人工智能之路（每秒 17k tokens）",
+      "created_display": "Created: Feb 20, 2026 / 02:32 PT",
+      "image_url": "https://taalas.com/h-content/themes/h-theme-child/media/blank-featured.png",
+      "summary_en": "A roadmap piece argues for higher throughput, latency-optimized hardware and software to enable everyday AI; practical implications for product teams and infrastructure.",
+      "summary_zh": "一篇路线图式的分析提出通过更高吞吐、低延迟的软硬件来实现全民化 AI；对产品团队与基础设施有实际意义的影响。",
+      "hn": {
+        "id": 47086181,
+        "type": "story",
+        "by": "sidnarsipur",
+        "score": 234,
+        "descendants": 167,
+        "time": 1771583572,
+        "comments_url": "https://news.ycombinator.com/item?id=47086181"
+      },
+      "tags": [
+        "AI",
+        "Hardware",
+        "DevOps"
+      ],
+      "hot_score": 15.09
+    },
+    {
+      "title_en": "An AI Agent Published a Hit Piece on Me – The Operator Came Forward",
+      "url": "https://theshamblog.com/an-ai-agent-wrote-a-hit-piece-on-me-part-4/",
+      "title_zh": "AI 代理人发布了针对我的打击性报道——操作者站出来",
+      "created_display": "Created: Feb 19, 2026 / 19:05 PT",
+      "image_url": null,
+      "summary_en": "An exposé details how an AI agent produced a defamatory piece about the author, and the operator explains the chain-of-custody and why AI-involved content requires stronger provenance. The episode underscores reputational risk and the need for guardrails around AI-powered media.",
+      "summary_zh": "报道揭示一名 AI 代理人撰写了针对作者的诽谤性文章，操作者解释了背后的链式追踪与需要加强的可溯源性。事件凸显声誉风险以及对 AI 驱动媒体设立防护边界的必要性。",
+      "hn": {
+        "id": 47083145,
+        "type": "story",
+        "by": "scottshambaugh",
+        "score": 437,
+        "descendants": 359,
+        "time": 1771556708,
+        "comments_url": "https://news.ycombinator.com/item?id=47083145"
+      },
+      "tags": [
+        "AI",
+        "Legal"
+      ],
+      "hot_score": 4.95
+    },
+    {
+      "title_en": "Gemini 3.1 Pro",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-pro/",
+      "title_zh": "Gemini 3.1 Pro",
+      "created_display": "Created: Feb 19, 2026 / 07:19 PT",
+      "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-3.1_pro_meta_dark.width-1300.png",
+      "summary_en": "Google/DeepMind's Gemini 3.1 Pro extends the Gemini family with stronger reasoning and safety rails, plus enterprise-ready controls. The update reinforces the race to scale multimodal AI while giving operators better governance and deployment options.",
+      "summary_zh": "Google/DeepMind 的 Gemini 3.1 Pro 在推理能力、安全机制和企业级控制方面进一步增强，继续推动多模态 AI 的规模化。此更新强调在提升性能的同时，提供更完备的治理与部署选项。",
+      "hn": {
+        "id": 47074735,
+        "type": "story",
+        "by": "MallocVoidstar",
+        "score": 824,
+        "descendants": 837,
+        "time": 1771514397,
+        "comments_url": "https://news.ycombinator.com/item?id=47074735"
+      },
+      "tags": [
+        "AI"
+      ],
+      "hot_score": 2.74
+    },
+    {
+      "title_en": "AI makes you boring",
+      "url": "https://www.marginalia.nu/log/a_132_ai_bores/",
+      "title_zh": "AI 让你变得无聊",
+      "created_display": "Created: Feb 19, 2026 / 10:12 PT",
+      "image_url": null,
+      "summary_en": "A brisk critique of AI-assisted creativity, arguing that reliance on AI prompts can erode original thinking and make output feel generic. It offers practical ways to preserve authenticity and maintain edge as AI tools mature.",
+      "summary_zh": "对 AI 辅助创作的尖锐批评，认为过度依赖 AI 提示会削弱原创性，让输出变得平庸。给出在 AI 工具日益成熟时保持真实感与竞争力的可行做法。",
+      "hn": {
+        "id": 47076966,
+        "type": "story",
+        "by": "speckx",
+        "score": 639,
+        "descendants": 344,
+        "time": 1771524736,
+        "comments_url": "https://news.ycombinator.com/item?id=47076966"
+      },
+      "tags": [
+        "AI"
+      ],
+      "hot_score": 2.68
+    },
+    {
+      "title_en": "We're no longer attracting top talent: the brain drain killing American science",
+      "url": "https://www.theguardian.com/us-news/2026/feb/19/trump-science-funding-cuts",
+      "title_zh": "我们不再吸引顶尖人才：美国科学的脑流失",
+      "created_display": "Created: Feb 19, 2026 / 12:56 PT",
+      "image_url": "https://i.guim.co.uk/img/media/a76381905d61e851c20bdcc942c03a3d1c09fcae/0_0_3000_2400/master/3000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=33732a6ad1c54f625689635de2dc298a",
+      "summary_en": "The piece argues that US science is losing top talent due to funding and policy headwinds, risking long-term innovation. It points to structural levers — funding, visas, and research autonomy — to reverse the brain drain.",
+      "summary_zh": "文章认为美国科学界正因资金与政策阻力流失顶尖人才，长期创新前景受损。文中提出通过资金、签证与研究自主权等结构性杠杆来扭转脑流失。",
+      "hn": {
+        "id": 47079222,
+        "type": "story",
+        "by": "mitchbob",
+        "score": 478,
+        "descendants": 460,
+        "time": 1771534583,
+        "comments_url": "https://news.ycombinator.com/item?id=47079222"
+      },
+      "tags": [
+        "Science",
+        "Politics"
+      ],
+      "hot_score": 2.58
+    },
+    {
+      "title_en": "MuMu Player (NetEase) silently runs 17 reconnaissance commands every 30 minutes",
+      "url": "https://gist.github.com/interpiduser5/547d8a7baec436f24b7cce89dd4ae1ea",
+      "title_zh": "MuMu Player 每 30 分钟悄无声息执行 17 条侦察命令",
+      "created_display": "Created: Feb 19, 2026 / 17:28 PT",
+      "image_url": "https://github.githubassets.com/assets/gist-og-image-54fd7dc0713e.png",
+      "summary_en": "Security researchers flag a popular Android emulator that runs a string of stealth reconnaissance commands on a fixed interval, suggesting possible spyware or misconfiguration; practitioners should audit emulators in app testing.",
+      "summary_zh": "安全研究者发现流行的 Android 模拟器每 30 分钟悄无声息执行多条侦察命令，疑似间谍软件或配置问题。开发者在应用测试中应审计模拟器的行为。",
+      "hn": {
+        "id": 47082496,
+        "type": "story",
+        "by": "interpidused",
+        "score": 286,
+        "descendants": 112,
+        "time": 1771550927,
+        "comments_url": "https://news.ycombinator.com/item?id=47082496"
+      },
+      "tags": [
+        "Security"
+      ],
+      "hot_score": 2.58
+    },
+    {
+      "title_en": "Gemini 3.1 Pro",
+      "url": "https://deepmind.google/models/model-cards/gemini-3-1-pro/",
+      "title_zh": "Gemini 3.1 Pro",
+      "created_display": "Created: Feb 19, 2026 / 08:14 PT",
+      "image_url": "https://lh3.googleusercontent.com/JCgAdFZFMsgx8AZbHhRIx_RwHl1K9yRYOC13Q4rM6Ryo98Hp3xbgtPzAu2KAUWm7xL38oIbFi5G_qkwzjVvHMDryr0iKcvhPud9WStX2Jnoj3d8D3g=w1200-h630-n-nu-rw",
+      "summary_en": "Open-access model documentation for Gemini 3.1 Pro reveals emphasis on safety, evaluation metrics, and deployment guidance. It helps practitioners gauge alignment, latency, and integration options for enterprise workflows.",
+      "summary_zh": "Gemini 3.1 Pro 的模型卡揭示对安全、评估指标和部署指引的重点，帮助从业者衡量对齐性、延迟和企业工作流中的集成选项。",
+      "hn": {
+        "id": 47075318,
+        "type": "story",
+        "by": "PunchTornado",
+        "score": 605,
+        "descendants": 9,
+        "time": 1771517647,
+        "comments_url": "https://news.ycombinator.com/item?id=47075318"
+      },
+      "tags": [
+        "AI"
+      ],
+      "hot_score": 2.16
+    },
+    {
+      "title_en": "Consistency diffusion language models: Up to 14x faster, no quality loss",
+      "url": "https://www.together.ai/blog/consistency-diffusion-language-models",
+      "title_zh": "一致性扩散语言模型：速度提升至 14x，质量不变",
+      "created_display": "Created: Feb 19, 2026 / 20:15 PT",
+      "image_url": "https://cdn.prod.website-files.com/650c3b59079d92475f37b68f/6996ae056c5e54d0c23d9553_Handoff%20CDML.png",
+      "summary_en": "New consistency diffusion models deliver up to 14x faster inference with no measurable drop in quality, altering expectations for real-time AI demos.",
+      "summary_zh": "新的一致性扩散语言模型在推理速度上实现最高 14 倍的提升，同时质量未见下降，改变了对实时 AI 演示的期望。",
+      "hn": {
+        "id": 47083648,
+        "type": "story",
+        "by": "zagwdt",
+        "score": 149,
+        "descendants": 49,
+        "time": 1771560958,
+        "comments_url": "https://news.ycombinator.com/item?id=47083648"
+      },
+      "tags": [
+        "AI"
+      ],
+      "hot_score": 2.02
+    },
+    {
+      "title_en": "Show HN: Micasa – track your house from the terminal",
+      "url": "https://micasa.dev",
+      "title_zh": "Show HN: Micasa – 通过终端跟踪你的房子",
+      "created_display": "Created: Feb 19, 2026 / 07:54 PT",
+      "image_url": "https://micasa.dev/images/demo.webp",
+      "summary_en": "Micasa is a CLI tool that lets you monitor your home from the terminal, offering lightweight, scriptable observability without a full UI. It showcases how developers can ship practical, privacy-friendly home-monitoring tooling with minimal friction.",
+      "summary_zh": "Micasa 是一个通过终端监控家庭的命令行工具，提供轻量、可脚本化的观测能力，无需完整界面。它展示了开发者如何在最小摩擦下交付实用且更注重隐私的家居监控工具。",
+      "hn": {
+        "id": 47075124,
+        "type": "story",
+        "by": "cpcloud",
+        "score": 578,
+        "descendants": 184,
+        "time": 1771516454,
+        "comments_url": "https://news.ycombinator.com/item?id=47075124"
+      },
+      "tags": [
+        "Show HN",
+        "Programming",
+        "Privacy"
+      ],
+      "hot_score": 2.01
+    },
+    {
+      "title_en": "AI is not a coworker, it's an exoskeleton",
+      "url": "https://www.kasava.dev/blog/ai-as-exoskeleton",
+      "title_zh": "AI 不是同事，而是外骨骼",
+      "created_display": "Created: Feb 19, 2026 / 11:55 PT",
+      "image_url": "https://www.kasava.dev/og-image.jpg",
+      "summary_en": "The piece reframes AI as augmentation rather than replacement, arguing that success hinges on designing workflows that leverage AI as an exoskeleton; includes practical guidance for teams.",
+      "summary_zh": "文章将 AI 视作增效工具而非替代品，强调通过将 AI 作为外骨骼来设计工作流程以提升协作效率，并给出团队落地的实用建议。",
+      "hn": {
+        "id": 47078324,
+        "type": "story",
+        "by": "benbeingbin",
+        "score": 321,
+        "descendants": 366,
+        "time": 1771530911,
+        "comments_url": "https://news.ycombinator.com/item?id=47078324"
+      },
+      "tags": [
+        "AI"
+      ],
+      "hot_score": 1.57
+    },
+    {
+      "title_en": "California's new bill requires DOJ-approved 3D printers that report themselves",
+      "url": "https://blog.adafruit.com/2026/02/19/californias-new-bill-requires-doj-approved-3d-printers-that-report-on-themselves/",
+      "title_zh": "加州新法案要求 DOJ 批准的 3D 打印机自报自身信息",
+      "created_display": "Created: Feb 19, 2026 / 11:16 PT",
+      "image_url": null,
+      "summary_en": "Legislation would require 3D printers to be DOJ-approved and to self-report usage data, raising questions about compliance, safety, and maker community impact.",
+      "summary_zh": "法案规定 3D 打印机需经 DOJ 批准并自报使用数据，涉及合规性、安全性及对制造者社区的影响等问题。",
+      "hn": {
+        "id": 47077844,
+        "type": "story",
+        "by": "fortran77",
+        "score": 290,
+        "descendants": 342,
+        "time": 1771528572,
+        "comments_url": "https://news.ycombinator.com/item?id=47077844"
+      },
+      "tags": [
+        "Politics",
+        "Legal"
+      ],
+      "hot_score": 1.33
+    },
+    {
+      "title_en": "IRS lost 40% of IT staff, 80% of tech leaders in 'efficiency' shakeup",
+      "url": "https://www.theregister.com/2026/02/19/irs_job_cuts/",
+      "title_zh": "IRS 在‘效率’改革中流失大量 IT 人才",
+      "created_display": "Created: Feb 19, 2026 / 11:16 PT",
+      "image_url": "https://regmedia.co.uk/2025/03/03/shutterstock_job_loss.jpg",
+      "summary_en": "The IRS overhaul aimed at efficiency has gutted IT leadership, potentially slowing modernization efforts and increasing risk for critical taxpayer systems.",
+      "summary_zh": "为追求效率进行的改革让 IRS 的 IT 领导层大量流失，可能放慢现代化进程并提高关键系统风险。",
+      "hn": {
+        "id": 47077849,
+        "type": "story",
+        "by": "freitasm",
+        "score": 254,
+        "descendants": 149,
+        "time": 1771528593,
+        "comments_url": "https://news.ycombinator.com/item?id=47077849"
+      },
+      "tags": [
+        "Politics",
+        "Business"
+      ],
+      "hot_score": 1.17
+    },
+    {
+      "title_en": "South Korean ex president Yoon Suk Yeol jailed for life for leading insurrection",
+      "url": "https://www.theguardian.com/world/2026/feb/19/yoon-suk-yeol-sentenced-to-life-in-prison-for-leading-insurrection-in-south-korea",
+      "title_zh": "前韩国总统尹锡悦因参与叛乱被判终身监禁",
+      "created_display": "Created: Feb 19, 2026 / 10:26 PT",
+      "image_url": "https://i.guim.co.uk/img/media/480ce82d9b54f375b5d8f165c8debe568e413cd8/261_0_6535_5232/master/6535.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d1000d3b5e9f86c517c96200b0741094",
+      "summary_en": "Former president receives life sentence after ruling on involvement in insurrection; highlights political risk and governance issues with tech-sector links.",
+      "summary_zh": "前总统因参与叛乱被判终身监禁，凸显政治风险及与科技领域相关的治理议题。",
+      "hn": {
+        "id": 47077163,
+        "type": "story",
+        "by": "Geekette",
+        "score": 271,
+        "descendants": 151,
+        "time": 1771525604,
+        "comments_url": "https://news.ycombinator.com/item?id=47077163"
+      },
+      "tags": [
+        "Politics",
+        "Legal"
+      ],
+      "hot_score": 1.16
+    },
+    {
+      "title_en": "Paged Out Issue #8 [pdf]",
+      "url": "https://pagedout.institute/download/PagedOut_008.pdf",
+      "title_zh": "Paged Out 第8期 [PDF]",
+      "created_display": "Created: Feb 19, 2026 / 04:13 PT",
+      "image_url": null,
+      "summary_en": "The latest issue of Paged Out curates essays and art focused on tech culture, design, and future interfaces; useful for readers who enjoy indie voices in tech.",
+      "summary_zh": "Paged Out 第8期汇聚了围绕科技文化、设计与未来交互的随笔和艺术作品，适合欣赏独立声线的读者。",
+      "hn": {
+        "id": 47072968,
+        "type": "story",
+        "by": "SteveHawk27",
+        "score": 404,
+        "descendants": 60,
+        "time": 1771503224,
+        "comments_url": "https://news.ycombinator.com/item?id=47072968"
+      },
+      "tags": [
+        "Culture",
+        "Design"
+      ],
+      "hot_score": 1.08
+    },
+    {
+      "title_en": "Single vaccine could protect against all coughs, colds and flus",
+      "url": "https://www.bbc.com/news/articles/cx2g8rz7yedo",
+      "title_zh": "单一疫苗可能覆盖所有咳嗽、感冒和流感",
+      "created_display": "Created: Feb 19, 2026 / 14:08 PT",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/8700/live/6c2b5460-0e44-11f1-b7e1-afb6d0884c18.jpg",
+      "summary_en": "Researchers propose a universal vaccine concept, outlining mechanisms and the significant hurdles before such a shot could reach clinics.",
+      "summary_zh": "研究人员提出一种通用疫苗概念，概述其作用机制以及在进入临床前需克服的重大挑战。",
+      "hn": {
+        "id": 47080267,
+        "type": "story",
+        "by": "dabinat",
+        "score": 174,
+        "descendants": 115,
+        "time": 1771538904,
+        "comments_url": "https://news.ycombinator.com/item?id=47080267"
+      },
+      "tags": [
+        "Health",
+        "Science"
+      ],
+      "hot_score": 1.06
+    },
+    {
+      "title_en": "Anthropic officially bans using subscription auth for third party use",
+      "url": "https://code.claude.com/docs/en/legal-and-compliance",
+      "title_zh": "Anthropic 正式禁止将订阅认证用于第三方使用",
+      "created_display": "Created: Feb 18, 2026 / 18:52 PT",
+      "image_url": "https://claude-code.mintlify.app/_next/image?url=%2F_mintlify%2Fapi%2Fog%3Fdivision%3DResources%26appearance%3Dsystem%26title%3DLegal%2Band%2Bcompliance%26description%3DLegal%2Bagreements%252C%2Bcompliance%2Bcertifications%252C%2Band%2Bsecurity%2Binformation%2Bfor%2BClaude%2BCode.%26logoLight%3Dhttps%253A%252F%252Fmintcdn.com%252Fclaude-code%252Fo69F7a6qoW9vboof%252Flogo%252Flight.svg%253Ffit%253Dmax%2526auto%253Dformat%2526n%253Do69F7a6qoW9vboof%2526q%253D85%2526s%253D536eade682636e84231afce2577f9509%26logoDark%3Dhttps%253A%252F%252Fmintcdn.com%252Fclaude-code%252Fo69F7a6qoW9vboof%252Flogo%252Fdark.svg%253Ffit%253Dmax%2526auto%253Dformat%2526n%253Do69F7a6qoW9vboof%2526q%253D85%2526s%253D0766b3221061e80143e9f300733e640b%26primaryColor%3D%25230E0E0E%26lightColor%3D%2523D4A27F%26darkColor%3D%25230E0E0E%26backgroundLight%3D%2523FDFDF7%26backgroundDark%3D%252309090B&w=1200&q=100",
+      "summary_en": "Anthropic updated its policy to ban using individual subscription authentication credentials for third-party integrations, tightening access controls and preventing workaround uses. This change forces developers to adopt official API or enterprise flows for multi-user or embedded access, affecting small-scale integrations that relied on personal accounts.",
+      "summary_zh": "Anthropic 更新政策，禁止将个人订阅认证用于第三方集成，收紧了访问控制并阻止规避性用法。此变更要求开发者使用官方 API 或企业授权来实现多用户或嵌入式访问，影响此前依赖个人账户的小规模集成。",
+      "hn": {
+        "id": 47069299,
+        "type": "story",
+        "by": "theahura",
+        "score": 634,
+        "descendants": 762,
+        "time": 1771469546,
+        "comments_url": "https://news.ycombinator.com/item?id=47069299"
+      },
+      "tags": [
+        "Legal",
+        "AI"
+      ],
+      "hot_score": 0.99
+    },
+    {
+      "title_en": "Sizing chaos",
+      "url": "https://pudding.cool/2026/02/womens-sizing/",
+      "title_zh": "尺码混乱",
+      "created_display": "Created: Feb 18, 2026 / 13:18 PT",
+      "image_url": "https://pudding.cool/2026/02/womens-sizing/assets/og2.jpg",
+      "summary_en": "An interactive investigation into women's clothing sizing shows vast inconsistencies across brands and regions, making online shopping and size selection unreliable. The analysis visualizes measurement distributions and highlights the need for standardization or better metadata so consumers and designers can find consistent fits.",
+      "summary_zh": "一项交互式调查揭示了女性服装尺码在品牌和地区间的大量不一致，导致线上购物和尺码选择变得不可靠。文章通过可视化测量分布，强调需要标准化或更好元数据，帮助消费者和设计师找到一致的合身方案。",
+      "hn": {
+        "id": 47066552,
+        "type": "story",
+        "by": "zdw",
+        "score": 804,
+        "descendants": 419,
+        "time": 1771449500,
+        "comments_url": "https://news.ycombinator.com/item?id=47066552"
+      },
+      "tags": [
+        "Design"
+      ],
+      "hot_score": 0.97
+    },
+    {
+      "title_en": "A terminal weather app with ASCII animations driven by real-time weather data",
+      "url": "https://github.com/Veirt/weathr",
+      "title_zh": "一个基于终端的天气应用，实时天气数据驱动 ASCII 动画",
+      "created_display": "Created: Feb 19, 2026 / 09:47 PT",
+      "image_url": "https://opengraph.githubassets.com/afab4fcfc02a05cda65a19de41eddbdbf9156ad88ee16ecd2f4e35509b9793c2/Veirt/weathr",
+      "summary_en": "A CLI weather app renders real-time forecasts as ASCII art, blending whimsy with useful data; a case study in delightful developer UX.",
+      "summary_zh": "一个终端天气应用将实时天气以 ASCII 动画呈现，兼具趣味性与实用信息，展示了极简 UX 的魅力。",
+      "hn": {
+        "id": 47076659,
+        "type": "story",
+        "by": "forinti",
+        "score": 233,
+        "descendants": 40,
+        "time": 1771523245,
+        "comments_url": "https://news.ycombinator.com/item?id=47076659"
+      },
+      "tags": [
+        "Programming",
+        "Design"
+      ],
+      "hot_score": 0.94
+    },
+    {
+      "title_en": "America vs. Singapore: You can't save your way out of economic shocks",
+      "url": "https://www.governance.fyi/p/america-vs-singapore-you-cant-save",
+      "title_zh": "美国对比新加坡：你不能靠储蓄摆脱经济冲击",
+      "created_display": "Created: Feb 19, 2026 / 06:52 PT",
+      "image_url": "https://substackcdn.com/image/fetch/$s_!mrn8!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb306c317-e1de-4420-95f5-9d3f1bc7b28f_800x430.jpeg",
+      "summary_en": "A comparative analysis argues that savings alone can't shield economies from shocks; policy mix, diversification, and resilience investments matter.",
+      "summary_zh": "对比分析认为，仅靠储蓄无法完全抵御经济冲击；需要多元化政策、韧性投资与结构性改革。",
+      "hn": {
+        "id": 47074389,
+        "type": "story",
+        "by": "guardianbob",
+        "score": 289,
+        "descendants": 427,
+        "time": 1771512738,
+        "comments_url": "https://news.ycombinator.com/item?id=47074389"
+      },
+      "tags": [
+        "Politics",
+        "Business"
+      ],
+      "hot_score": 0.93
+    },
+    {
+      "title_en": "DOGE Track",
+      "url": "https://dogetrack.info/",
+      "title_zh": "DOGE Track",
+      "created_display": "Created: Feb 19, 2026 / 04:13 PT",
+      "image_url": null,
+      "summary_en": "A lightweight tracker for DOGE-related data—price, charts, and trends—delivered in a clean interface. It highlights how meme assets drive simple, accessible tooling.",
+      "summary_zh": "一个轻量化的 DOGE 跟踪工具，提供价格、图表与趋势等数据，以简洁界面呈现，体现 meme 资产推动的简易可用工具。",
+      "hn": {
+        "id": 47072967,
+        "type": "story",
+        "by": "donohoe",
+        "score": 335,
+        "descendants": 192,
+        "time": 1771503219,
+        "comments_url": "https://news.ycombinator.com/item?id=47072967"
+      },
+      "tags": [
+        "Finance"
+      ],
+      "hot_score": 0.89
+    },
+    {
+      "title_en": "Show HN: Ghostty-based terminal with vertical tabs and notifications",
+      "url": "https://github.com/manaflow-ai/cmux",
+      "title_zh": "Show HN: Ghostty-based terminal with vertical tabs and notifications",
+      "created_display": "Created: Feb 19, 2026 / 13:30 PT",
+      "image_url": "https://opengraph.githubassets.com/3661667d57de9b315cd66e5cb9e2d435ff6cb7a4f70fca47eb66dd0f99ce1a7d/manaflow-ai/cmux",
+      "summary_en": "A terminal app built on Ghostty introduces vertical tabs and persistent notifications, improving multitasking for developers.",
+      "summary_zh": "一个基于 Ghostty 的终端应用，新增纵向标签与持久通知，提升开发者的多任务处理能力。",
+      "hn": {
+        "id": 47079718,
+        "type": "story",
+        "by": "lawrencechen",
+        "score": 152,
+        "descendants": 66,
+        "time": 1771536604,
+        "comments_url": "https://news.ycombinator.com/item?id=47079718"
+      },
+      "tags": [
+        "Show HN",
+        "Programming",
+        "Open Source"
+      ],
+      "hot_score": 0.86
+    },
+    {
+      "title_en": "Pebble Production: February Update",
+      "url": "https://repebble.com/blog/february-pebble-production-and-software-updates",
+      "title_zh": "Pebble Production：二月更新",
+      "created_display": "Created: Feb 19, 2026 / 04:36 PT",
+      "image_url": "https://repebble.com/assets/february-pebble-production-and-software-updates-0-image-social.jpg",
+      "summary_en": "Pebble Production shares February milestones: hardware progress, software updates, and production timelines; signals the roadmap for small form-factor devices.",
+      "summary_zh": "Pebble Production 公布二月里程碑：硬件进展、软件更新与生产时间表，揭示小型设备的路线图与计划。",
+      "hn": {
+        "id": 47073112,
+        "type": "story",
+        "by": "smig0",
+        "score": 301,
+        "descendants": 147,
+        "time": 1771504560,
+        "comments_url": "https://news.ycombinator.com/item?id=47073112"
+      },
+      "tags": [
+        "Hardware"
+      ],
+      "hot_score": 0.82
+    },
+    {
+      "title_en": "Micropayments as a reality check for news sites",
+      "url": "https://blog.zgp.org/micropayments-as-a-reality-check-for-news-sites/",
+      "title_zh": "新闻网站的微支付现实检验",
+      "created_display": "Created: Feb 19, 2026 / 11:42 PT",
+      "image_url": "https://blog.zgp.org/i/rss.png",
+      "summary_en": "Micropayments reemerge as a potential funding mechanism for news, but user experience, friction, and revenue impact remain key challenges.",
+      "summary_zh": "微支付作为新闻网站潜在资助方式再度出现，但在用户体验、操作阻力与收入影响方面仍面临关键挑战。",
+      "hn": {
+        "id": 47078167,
+        "type": "story",
+        "by": "speckx",
+        "score": 171,
+        "descendants": 348,
+        "time": 1771530151,
+        "comments_url": "https://news.ycombinator.com/item?id=47078167"
+      },
+      "tags": [
+        "Business",
+        "Web"
+      ],
+      "hot_score": 0.82
+    },
+    {
+      "title_en": "Overall, the colorectal cancer story is encouraging",
+      "url": "https://www.hankgreen.com/crc",
+      "title_zh": "总体来说，结直肠癌故事令人鼓舞",
+      "created_display": "Created: Feb 19, 2026 / 12:32 PT",
+      "image_url": "https://hankgreen.com/crc/preview.png",
+      "summary_en": "Early results and ongoing research in colorectal cancer are promising, suggesting improvements in screening, treatment, or outcomes.",
+      "summary_zh": "结直肠癌领域的早期结果与持续研究显示出积极进展，可能带来筛查、治疗或治疗结局的改善。",
+      "hn": {
+        "id": 47078840,
+        "type": "story",
+        "by": "ZeroGravitas",
+        "score": 148,
+        "descendants": 141,
+        "time": 1771533129,
+        "comments_url": "https://news.ycombinator.com/item?id=47078840"
+      },
+      "tags": [
+        "Health"
+      ],
+      "hot_score": 0.76
+    },
+    {
+      "title_en": "DOGE Bro's Grant Review Process Was Literally Just Asking ChatGPT 'Is This DEI?'",
+      "url": "https://www.techdirt.com/2026/02/19/doge-bros-grant-review-process-was-literally-just-asking-chatgpt-is-this-dei/",
+      "title_zh": "DOGE Bros 的资助评审流程其实就是在请 ChatGPT 问 '这是不是 DEI？'",
+      "created_display": "Created: Feb 19, 2026 / 10:01 PT",
+      "image_url": "https://www.techdirt.com/wp-content/themes/techdirt/assets/images/td-rect-logo-white.png",
+      "summary_en": "A report reveals grant reviews relied on ChatGPT to judge DEI criteria, raising concerns about AI-assisted funding bias and transparency.",
+      "summary_zh": "报道显示资助评审流程依赖 ChatGPT 判断 DEI 标准，引发对 AI 辅助资助偏见与透明度的担忧。",
+      "hn": {
+        "id": 47076826,
+        "type": "story",
+        "by": "hn_acker",
+        "score": 177,
+        "descendants": 47,
+        "time": 1771524110,
+        "comments_url": "https://news.ycombinator.com/item?id=47076826"
+      },
+      "tags": [
+        "AI",
+        "Politics"
+      ],
+      "hot_score": 0.73
+    },
+    {
+      "title_en": "Mark Zuckerberg grilled on usage goals and underage users at California trial",
+      "url": "https://www.wsj.com/us-news/law/meta-mark-zuckerberg-social-media-trial-0e9a7fa0",
+      "title_zh": "马克·扎克伯格在加州审判中就使用目标与未成年用户被盘问",
+      "created_display": "Created: Feb 19, 2026 / 08:07 PT",
+      "image_url": null,
+      "summary_en": "Meta's CEO faced questions about platform goals, child safety, and data practices at a California trial, signaling ongoing regulatory scrutiny of the social network.",
+      "summary_zh": "在加州审判中，Meta 的 CEO 面对关于平台目标、未成年用户安全与数据实践的质询，显示监管对该社交平台的持续关注。",
+      "hn": {
+        "id": 47075245,
+        "type": "story",
+        "by": "1vuio0pswjnm7",
+        "score": 201,
+        "descendants": 111,
+        "time": 1771517234,
+        "comments_url": "https://news.ycombinator.com/item?id=47075245"
+      },
+      "tags": [
+        "Politics",
+        "Legal",
+        "Business"
+      ],
+      "hot_score": 0.71
+    },
+    {
+      "title_en": "27-year-old Apple iBooks can connect to Wi-Fi and download official updates",
+      "url": "https://old.reddit.com/r/MacOS/comments/1r8900z/macos_which_officially_supports_27_year_old/",
+      "title_zh": "27 年前的 Apple iBooks 能连 Wi‑Fi 并下载官方更新",
+      "created_display": "Created: Feb 18, 2026 / 12:54 PT",
+      "image_url": null,
+      "summary_en": "An old Apple iBook from 1999 was able to connect to Wi‑Fi and receive official updates, demonstrating surprising longevity in legacy hardware and protocol compatibility. The find highlights how long-lived standards and minimal server-side compatibility can keep vintage devices functional in modern networks.",
+      "summary_zh": "一台 1999 年的 Apple iBook 能够连接 Wi‑Fi 并下载官方更新，显示出旧硬件在协议兼容性方面的惊人持久性。这个发现强调了长期存在的标准和服务器端的向后兼容性如何让老设备在现代网络中继续可用。",
+      "hn": {
+        "id": 47066241,
+        "type": "story",
+        "by": "surprisetalk",
+        "score": 446,
+        "descendants": 284,
+        "time": 1771448071,
+        "comments_url": "https://news.ycombinator.com/item?id=47066241"
+      },
+      "tags": [
+        "Hardware"
+      ],
+      "hot_score": 0.53
+    },
+    {
+      "title_en": "Cosmologically Unique IDs",
+      "url": "https://jasonfantl.com/posts/Universal-Unique-IDs/",
+      "title_zh": "宇宙学唯一 ID",
+      "created_display": "Created: Feb 18, 2026 / 10:37 PT",
+      "image_url": "https://jasonfantl.com/https:/blog-assets.jasonemerald.workers.dev/CUIDs/cover.png",
+      "summary_en": "The author proposes a scheme for universally unique identifiers based on cosmological timestamps or other large-scale physical references to reduce collision probability without centralized coordination. Such ideas aim to make IDs traceable to an external entropy source, though practical deployment would need interoperability agreements and consideration of privacy.",
+      "summary_zh": "作者提出一种基于宇宙学时间戳或大尺度物理参考的全局唯一标识方案，试图在无需中心化协调下尽量降低冲突概率。此类构想将 ID 与外部熵源关联，具有可追溯性，但实际部署需考虑互操作协议和隐私问题。",
+      "hn": {
+        "id": 47064490,
+        "type": "story",
+        "by": "jfantl",
+        "score": 458,
+        "descendants": 150,
+        "time": 1771439842,
+        "comments_url": "https://news.ycombinator.com/item?id=47064490"
+      },
+      "tags": [
+        "Data",
+        "Privacy"
+      ],
+      "hot_score": 0.49
+    },
+    {
+      "title_en": "Mark Zuckerberg Lied to Congress. We Can't Trust His Testimony",
+      "url": "https://dispatch.techoversight.org/top-report-mark-zuckerberg-lied-to-congress-we-cant-trust-his-testimony/",
+      "title_zh": "扎克伯格在国会撒谎，我们不能信任他的证词",
+      "created_display": "Created: Feb 18, 2026 / 05:00 PT",
+      "image_url": "https://dispatch.techoversight.org/content/images/2025/07/Dark-Dispatch-1200-2.png",
+      "summary_en": "A report accuses Mark Zuckerberg of providing false testimony to Congress, arguing that his statements undermine trust in executive accountability for platform harms. The claim, if substantiated, would have implications for regulatory oversight and the credibility of corporate leaders testifying before lawmakers.",
+      "summary_zh": "一份报告指控马克·扎克伯格在国会作伪证，认为其陈述削弱了对平台负责人问责的信任。若指控成立，将影响监管监督力度并损及企业高管在国会前证词的公信力。",
+      "hn": {
+        "id": 47060486,
+        "type": "story",
+        "by": "speckx",
+        "score": 538,
+        "descendants": 316,
+        "time": 1771419611,
+        "comments_url": "https://news.ycombinator.com/item?id=47060486"
+      },
+      "tags": [
+        "Politics"
+      ],
+      "hot_score": 0.47
+    },
+    {
+      "title_en": "US plans online portal to bypass content bans in Europe and elsewhere",
+      "url": "https://www.reuters.com/world/us-plans-online-portal-bypass-content-bans-europe-elsewhere-2026-02-18/",
+      "title_zh": "美国计划上线在线门户以绕过欧洲等地的内容禁令",
+      "created_display": "Created: Feb 18, 2026 / 14:25 PT",
+      "image_url": null,
+      "summary_en": "The plan would create a US-managed portal to deliver content locally, bypassing limits abroad; raises questions about platform liability, jurisdiction, and user rights.",
+      "summary_zh": "该计划拟建立一个美国管理的本地化内容门户，以规避海外的内容限制，引发对平台责任、司法管辖与用户权利的讨论。",
+      "hn": {
+        "id": 47067270,
+        "type": "story",
+        "by": "c420",
+        "score": 369,
+        "descendants": 667,
+        "time": 1771453513,
+        "comments_url": "https://news.ycombinator.com/item?id=47067270"
+      },
+      "tags": [
+        "Politics",
+        "Legal"
+      ],
+      "hot_score": 0.47
+    },
+    {
+      "title_en": "Microsoft guide to pirating Harry Potter for LLM training (2024) [removed]",
+      "url": "https://devblogs.microsoft.com/azure-sql/langchain-with-sqlvectorstore-example/",
+      "title_zh": "微软关于为 LLM 训练盗版《哈利·波特》的指南（2024）[已移除]",
+      "created_display": "Created: Feb 18, 2026 / 15:19 PT",
+      "image_url": null,
+      "summary_en": "An apparently removed 2024 developer blog contained an example that could be read as demonstrating how copyrighted text was used for language-model workflows, raising questions about training data licensing. The snippet's removal highlights ongoing tensions around permissive examples, copyright law, and responsible documentation for model training practices.",
+      "summary_zh": "一篇已被移除的 2024 年开发博客中包含的示例，可能被解读为展示了如何将受版权保护文本用于语言模型流程，从而引发有关训练数据许可的问题。该内容被删凸显了示例文档、版权法与模型训练责任之间的持续紧张关系。",
+      "hn": {
+        "id": 47067759,
+        "type": "story",
+        "by": "anonymous908213",
+        "score": 358,
+        "descendants": 225,
+        "time": 1771456769,
+        "comments_url": "https://news.ycombinator.com/item?id=47067759"
+      },
+      "tags": [
+        "AI",
+        "Legal"
+      ],
+      "hot_score": 0.47
+    },
+    {
+      "title_en": "Tailscale Peer Relays is now generally available",
+      "url": "https://tailscale.com/blog/peer-relays-ga",
+      "title_zh": "Tailscale Peer Relays 现已全面可用",
+      "created_display": "Created: Feb 18, 2026 / 08:46 PT",
+      "image_url": "https://cdn.sanity.io/images/w77i7m8x/production/ccbb854e716b6a58e62ccb0fd3eed23c2bf77599-2304x1187.png",
+      "summary_en": "Tailscale announced general availability of Peer Relays, a feature that simplifies NAT traversal by relaying traffic between peers through trusted nodes when direct connections fail. This improves connectivity reliability for devices behind restrictive networks and reduces manual relay setup for teams using private mesh VPNs.",
+      "summary_zh": "Tailscale 宣布 Peer Relays 功能已全面可用，该功能在点对点直接连接失败时通过受信任节点中继流量，简化 NAT 穿透。它提升了处于受限网络设备的连接可靠性，并减少了团队在私有网格 VPN 中手动设置中继的需求。",
+      "hn": {
+        "id": 47063005,
+        "type": "story",
+        "by": "sz4kerto",
+        "score": 464,
+        "descendants": 247,
+        "time": 1771433172,
+        "comments_url": "https://news.ycombinator.com/item?id=47063005"
+      },
+      "tags": [
+        "DevOps"
+      ],
+      "hot_score": 0.46
+    },
+    {
+      "title_en": "European Tech Alternatives",
+      "url": "https://eutechmap.com/map",
+      "title_zh": "欧洲科技替代方案",
+      "created_display": "Created: Feb 18, 2026 / 21:07 PT",
+      "image_url": "https://eutechmap.com/og-image.png",
+      "summary_en": "A map catalogs European alternatives to major tech services, aiming to showcase regional projects and vendors that offer privacy-friendly or sovereignty-aligned options. It provides a quick reference for organizations seeking to reduce dependence on big global platforms by adopting European-based tools and providers.",
+      "summary_zh": "一份地图汇总了欧洲可替代主要科技服务的方案，旨在展示符合隐私或主权要求的区域项目与供应商。它为希望通过采用欧洲本地工具和提供商减少对大型全球平台依赖的组织提供了便捷参考。",
+      "hn": {
+        "id": 47070142,
+        "type": "story",
+        "by": "puppion",
+        "score": 252,
+        "descendants": 178,
+        "time": 1771477657,
+        "comments_url": "https://news.ycombinator.com/item?id=47070142"
+      },
+      "tags": [
+        "Privacy",
+        "Web"
+      ],
+      "hot_score": 0.44
+    },
+    {
+      "title_en": "Show HN: A physically-based GPU ray tracer written in Julia",
+      "url": "https://makie.org/website/blogposts/raytracing/",
+      "title_zh": "Show HN: 用 Julia 编写的基于物理的 GPU 光线追踪",
+      "created_display": "Created: Feb 19, 2026 / 02:55 PT",
+      "image_url": "https://makie.org/website/bonito/png/bannermesh_gradient12222907222071057261.png",
+      "summary_en": "An open-source GPU path tracer in Julia demonstrates physically-based rendering, offering a compact, accessible tool for learning and research.",
+      "summary_zh": "一个用 Julia 编写的开源 GPU 路径追踪器，展示了基于物理的渲染能力，并为学习与研究提供了简洁易用的工具。",
+      "hn": {
+        "id": 47072444,
+        "type": "story",
+        "by": "simondanisch",
+        "score": 182,
+        "descendants": 78,
+        "time": 1771498513,
+        "comments_url": "https://news.ycombinator.com/item?id=47072444"
+      },
+      "tags": [
+        "Show HN",
+        "Open Source",
+        "Programming",
+        "Hardware"
+      ],
+      "hot_score": 0.44
+    },
+    {
+      "title_en": "Minecraft Java is switching from OpenGL to Vulkan",
+      "url": "https://www.gamingonlinux.com/2026/02/minecraft-java-is-switching-from-opengl-to-vulkan-for-the-vibrant-visuals-update/",
+      "title_zh": "Minecraft Java 将从 OpenGL 转向 Vulkan",
+      "created_display": "Created: Feb 18, 2026 / 17:55 PT",
+      "image_url": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1519041173id28520gol.jpg",
+      "summary_en": "Minecraft Java is switching its rendering backend from OpenGL to Vulkan as part of a visual upgrade, promising better performance and more modern GPU features. The move reflects broader industry trends toward explicit, lower-level graphics APIs that offer improved multi-threading and driver predictability.",
+      "summary_zh": "Minecraft Java 将其渲染后端从 OpenGL 改为 Vulkan，作为视觉升级的一部分，承诺带来更好的性能和现代 GPU 功能。此举符合业界朝向更底层、更明确的图形 API 的趋势，这类 API 在多线程和驱动可预测性方面更有优势。",
+      "hn": {
+        "id": 47068948,
+        "type": "story",
+        "by": "tuananh",
+        "score": 278,
+        "descendants": 171,
+        "time": 1771466133,
+        "comments_url": "https://news.ycombinator.com/item?id=47068948"
+      },
+      "tags": [
+        "Gaming",
+        "Hardware",
+        "Web"
+      ],
+      "hot_score": 0.41
+    },
+    {
+      "title_en": "Closing this as we are no longer pursuing Swift adoption",
+      "url": "https://github.com/LadybirdBrowser/ladybird/issues/933",
+      "title_zh": "关闭此项：我们不再推进 Swift 采纳",
+      "created_display": "Created: Feb 18, 2026 / 15:08 PT",
+      "image_url": "https://opengraph.githubassets.com/bd7753566bc9dda581e2395c7ad9fe1b8dd77c835a32a361e79ca73d3871572e/LadybirdBrowser/ladybird/issues/933",
+      "summary_en": "A project issue announcing the decision to stop pursuing Swift adoption cites practical reasons—likely maintenance burden, ecosystem fit, or contributor availability—leading to reverting course. It highlights the trade-offs teams face when evaluating language migrations and the importance of aligning tooling choices with project capacity.",
+      "summary_zh": "一条议题声明决定不再推进 Swift 的采纳，理由可能是维护负担、生态适配或贡献者可用性等实际因素，因而选择回退。此事凸显团队在评估语言迁移时的权衡，以及将工具选择与项目能力对齐的重要性。",
+      "hn": {
+        "id": 47067678,
+        "type": "story",
+        "by": "thewavelength",
+        "score": 301,
+        "descendants": 295,
+        "time": 1771456118,
+        "comments_url": "https://news.ycombinator.com/item?id=47067678"
+      },
+      "tags": [
+        "Programming",
+        "Education"
+      ],
+      "hot_score": 0.39
+    },
+    {
+      "title_en": "Zero-day CSS: CVE-2026-2441 exists in the wild",
+      "url": "https://chromereleases.googleblog.com/2026/02/stable-channel-update-for-desktop_13.html",
+      "title_zh": "零日 CSS：CVE-2026-2441 已在野外利用",
+      "created_display": "Created: Feb 18, 2026 / 08:28 PT",
+      "image_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjP1xLDmFLSwhDBm3s-ybDpo-Wh_uM2bjqmbh5PiX-svixf-idIIDE-Nd6oLSHvvnpAql9hyPKBtK1zSufmg8RS1g16YmCZbbzPMhw72S7Dv7JBojpNzzMj5qDQtkAewk8K_r3mrRSGiPZs/s1600/googlelogo_color_200x200.png",
+      "summary_en": "A zero-day vulnerability identified as CVE-2026-2441 affects CSS processing and is reportedly being exploited in the wild, prompting urgent browser updates. The issue underscores that presentation-layer bugs can have real security impact and that prompt patching of browsers is critical for users and administrators.",
+      "summary_zh": "一个编号为 CVE-2026-2441 的零日漏洞影响 CSS 解析，并被报道已在野外被利用，促使浏览器进行紧急更新。此事提醒我们表现层的缺陷也能带来实际安全风险，用户和管理员应及时打补丁。",
+      "hn": {
+        "id": 47062748,
+        "type": "story",
+        "by": "idoxer",
+        "score": 375,
+        "descendants": 212,
+        "time": 1771432099,
+        "comments_url": "https://news.ycombinator.com/item?id=47062748"
+      },
+      "tags": [
+        "Security",
+        "Web"
+      ],
+      "hot_score": 0.37
+    },
+    {
+      "title_en": "Step 3.5 Flash – Open-source foundation model, supports deep reasoning at speed",
+      "url": "https://static.stepfun.com/blog/step-3.5-flash/",
+      "title_zh": "Step 3.5 Flash – 开源基础模型，支持高速深度推理",
+      "created_display": "Created: Feb 18, 2026 / 18:32 PT",
+      "image_url": "https://static.stepfun.com/blog/step-3.5-flash/assets/logo.png",
+      "summary_en": "Step 3.5 Flash introduces an open-source foundation model with optimized depth for reasoning, pushing open AI stacks toward faster, more capable prototypes.",
+      "summary_zh": "Step 3.5 Flash 提供一个开源基础模型，优化深度以提升推理速度，推动开源 AI 堆栈向更快、能力更强的原型迈进。",
+      "hn": {
+        "id": 47069179,
+        "type": "story",
+        "by": "kristianp",
+        "score": 221,
+        "descendants": 87,
+        "time": 1771468320,
+        "comments_url": "https://news.ycombinator.com/item?id=47069179"
+      },
+      "tags": [
+        "AI",
+        "Open Source"
+      ],
+      "hot_score": 0.34
+    },
+    {
+      "title_en": "DNS-Persist-01: A New Model for DNS-Based Challenge Validation",
+      "url": "https://letsencrypt.org/2026/02/18/dns-persist-01.html",
+      "title_zh": "DNS-Persist-01：一种新的基于 DNS 的挑战验证模式",
+      "created_display": "Created: Feb 18, 2026 / 10:04 PT",
+      "image_url": "https://letsencrypt.org/images/LetsEncrypt-SocialShare.png",
+      "summary_en": "Let's Encrypt introduced DNS-Persist-01, a new ACME challenge type that allows DNS-based validation to persist beyond short-lived records, simplifying automation for some use cases. This change can reduce flakiness in DNS validation workflows and help environments where DNS propagation or record stability is a problem.",
+      "summary_zh": "Let's Encrypt 推出 DNS-Persist-01，一种新的 ACME 挑战类型，使基于 DNS 的验证能在短期记录之外保持，从而简化某些自动化场景。此改动可减少 DNS 验证流程中的不稳定性，利于 DNS 传播或记录稳定性较差的环境。",
+      "hn": {
+        "id": 47064047,
+        "type": "story",
+        "by": "todsacerdoti",
+        "score": 315,
+        "descendants": 155,
+        "time": 1771437853,
+        "comments_url": "https://news.ycombinator.com/item?id=47064047"
+      },
+      "tags": [
+        "Security",
+        "DevOps"
+      ],
+      "hot_score": 0.33
+    },
+    {
+      "title_en": "15 years of FP64 segmentation, and why the Blackwell Ultra breaks the pattern",
+      "url": "https://nicolasdickenmann.com/blog/the-great-fp64-divide.html",
+      "title_zh": "FP64 分割的十五年，以及 Blackwell Ultra 打破这一格局",
+      "created_display": "Created: Feb 18, 2026 / 17:46 PT",
+      "image_url": "https://nicolasdickenmann.com/assets/FP32toFP64.png",
+      "summary_en": "A technical look at double-precision workloads shows FP64 trends; Blackwell Ultra challenges old assumptions about precision and efficiency in GPUs.",
+      "summary_zh": "对 FP64（双精度）工作负载的十五年趋势进行技术性回顾；Blackwell Ultra 的出现挑战了 GPU 在精度与效率上的既有认知。",
+      "hn": {
+        "id": 47068890,
+        "type": "story",
+        "by": "fp64enjoyer",
+        "score": 200,
+        "descendants": 75,
+        "time": 1771465567,
+        "comments_url": "https://news.ycombinator.com/item?id=47068890"
+      },
+      "tags": [
+        "Hardware"
+      ],
+      "hot_score": 0.29
+    },
+    {
+      "title_en": "The only moat left is money?",
+      "url": "https://elliotbonneville.com/the-only-moat-left-is-money/",
+      "title_zh": "剩下的唯一护城河是钱？",
+      "created_display": "Created: Feb 18, 2026 / 08:07 PT",
+      "image_url": null,
+      "summary_en": "The essay argues that in some tech markets, capital—ability to burn cash and outspend rivals—has become the primary moat, rather than technological advantage or product differentiation. It examines implications for competition, innovation incentives, and market structure when money, not sustainable defensibility, decides winners.",
+      "summary_zh": "文章指出在某些科技市场中，资本——即烧钱并压倒对手的能力——已经成为主要护城河，而非技术优势或产品差异化。文中探讨了当金钱而非可持续的防御能力决定胜负时，对竞争、创新激励和市场结构的影响。",
+      "hn": {
+        "id": 47062521,
+        "type": "story",
+        "by": "elliotbnvl",
+        "score": 276,
+        "descendants": 382,
+        "time": 1771430879,
+        "comments_url": "https://news.ycombinator.com/item?id=47062521"
+      },
+      "tags": [
+        "Business",
+        "Finance"
+      ],
+      "hot_score": 0.27
+    },
+    {
+      "title_en": "There is unequivocal evidence that Earth is warming (2024)",
+      "url": "https://science.nasa.gov/climate-change/evidence/",
+      "title_zh": "有确凿证据表明地球在变暖（2024）",
+      "created_display": "Created: Feb 18, 2026 / 12:09 PT",
+      "image_url": "https://assets.science.nasa.gov/content/dam/science/esd/climate/internal_resources/2715/evidence_banner_new_1920.jpeg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+      "summary_en": "A summary presents unequivocal evidence that Earth is warming, compiling temperature records, ice loss, sea-level rise, and ecological impacts as of 2024. The collection reinforces the scientific consensus and underlines the urgency for mitigation and adaptation policies informed by these observed trends.",
+      "summary_zh": "一份汇总展示了确凿证据表明地球正在变暖，集合了气温记录、冰层消融、海平面上升与生态影响等至 2024 年的数据。该资料强化了科学共识，并强调基于这些观测趋势采取缓解与适应政策的紧迫性。",
+      "hn": {
+        "id": 47065678,
+        "type": "story",
+        "by": "doener",
+        "score": 228,
+        "descendants": 280,
+        "time": 1771445350,
+        "comments_url": "https://news.ycombinator.com/item?id=47065678"
+      },
+      "tags": [
+        "Science"
+      ],
+      "hot_score": 0.26
+    },
+    {
+      "title_en": "Electrobun v1: Build fast, tiny, and cross-platform desktop apps with TypeScript",
+      "url": "https://blackboard.sh/blog/electrobun-v1/",
+      "title_zh": "Electrobun v1：用 TypeScript 构建快速、微型、跨平台桌面应用",
+      "created_display": "Created: Feb 18, 2026 / 19:46 PT",
+      "image_url": null,
+      "summary_en": "Electrobun v1 ships a compact TS-based framework for creating lightweight cross-platform apps, trading breadth for speed and simplicity.",
+      "summary_zh": "Electrobun v1 发布，为构建轻量级跨平台桌面应用提供一个基于 TypeScript 的紧凑框架，在覆盖面与速度/简化之间取舍。",
+      "hn": {
+        "id": 47069650,
+        "type": "story",
+        "by": "merlindru",
+        "score": 159,
+        "descendants": 55,
+        "time": 1771472767,
+        "comments_url": "https://news.ycombinator.com/item?id=47069650"
+      },
+      "tags": [
+        "Programming",
+        "Open Source"
+      ],
+      "hot_score": 0.26
+    },
+    {
+      "title_en": "Microsoft says bug causes Copilot to summarize confidential emails",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-bug-causes-copilot-to-summarize-confidential-emails/",
+      "title_zh": "微软称漏洞导致 Copilot 摘要机密邮件",
+      "created_display": "Created: Feb 18, 2026 / 04:16 PT",
+      "image_url": "https://www.bleepstatic.com/content/hl-images/2025/09/16/Copilot_headpic.jpg",
+      "summary_en": "Microsoft acknowledged a bug in Copilot that could summarize confidential emails, potentially exposing sensitive content via assistant features. This incident highlights privacy risks of AI assistants integrated into corporate mailflows and the need for strict context-awareness and access controls in such tools.",
+      "summary_zh": "微软承认 Copilot 存在一个漏洞，可能将机密邮件内容生成摘要，从而有泄露敏感信息的风险。此事凸显了将 AI 助手整合入企业邮箱流时的隐私风险，强调需要在这些工具中实施严格的上下文感知和访问控制。",
+      "hn": {
+        "id": 47060202,
+        "type": "story",
+        "by": "tablets",
+        "score": 268,
+        "descendants": 72,
+        "time": 1771416972,
+        "comments_url": "https://news.ycombinator.com/item?id=47060202"
+      },
+      "tags": [
+        "AI",
+        "Privacy"
+      ],
+      "hot_score": 0.23
+    },
+    {
+      "title_en": "How AI is affecting productivity and jobs in Europe",
+      "url": "https://cepr.org/voxeu/columns/how-ai-affecting-productivity-and-jobs-europe",
+      "title_zh": "AI 如何影响欧洲的生产力与就业",
+      "created_display": "Created: Feb 18, 2026 / 16:22 PT",
+      "image_url": "https://cepr.org/sites/default/files/styles/og_image/public/2026-02/AdobeStock_1772033845.jpeg?itok=jAPHpqwL,https://cepr.org/themes/nhsc-shared/nhsc_base/assets/img/default-social-share.png",
+      "summary_en": "A study examines AI's impact on productivity and jobs in Europe, finding nuanced effects across sectors and worker types rather than uniform displacement. The analysis suggests AI can boost productivity where complementary investments and skills exist but may exacerbate inequalities without policy measures for retraining and distribution.",
+      "summary_zh": "一项研究评估了 AI 对欧洲生产力与就业的影响，发现不同部门与劳动力群体受影响各异，而非一致性替代。研究表明在存在配套投资与技能的情况下 AI 可提升生产力，但若无再培训与分配政策，可能会加剧不平等。",
+      "hn": {
+        "id": 47068320,
+        "type": "story",
+        "by": "pseudolus",
+        "score": 167,
+        "descendants": 131,
+        "time": 1771460565,
+        "comments_url": "https://news.ycombinator.com/item?id=47068320"
+      },
+      "tags": [
+        "AI",
+        "Business"
+      ],
+      "hot_score": 0.23
+    },
+    {
+      "title_en": "The Future of AI Software Development",
+      "url": "https://martinfowler.com/fragments/2026-02-18.html",
+      "title_zh": "AI 软件开发的未来",
+      "created_display": "Created: Feb 18, 2026 / 08:08 PT",
+      "image_url": "https://martinfowler.com/logo-sq.png",
+      "summary_en": "A forward-looking piece discusses how AI will reshape software development workflows, from coding assistants and automated testing to higher-level design synthesis. It argues that teams must redesign processes, tooling, and review practices to capture productivity benefits while managing risks like hallucinations and degraded code quality.",
+      "summary_zh": "一篇前瞻性文章讨论了 AI 将如何重塑软件开发流程，涵盖从代码助手与自动化测试到更高层的设计生成。作者认为团队需要重构流程、工具和评审机制，以在管理幻觉和代码质量风险的同时，真正获取生产力提升。",
+      "hn": {
+        "id": 47062534,
+        "type": "story",
+        "by": "nthypes",
+        "score": 201,
+        "descendants": 143,
+        "time": 1771430928,
+        "comments_url": "https://news.ycombinator.com/item?id=47062534"
+      },
+      "tags": [
+        "AI",
+        "Programming"
+      ],
+      "hot_score": 0.2
+    },
+    {
+      "title_en": "Warren Buffett dumps $1.7B of Amazon stock",
+      "url": "https://finbold.com/warren-buffett-dumps-1-7-billion-of-amazon-stock/",
+      "title_zh": "沃伦·巴菲特抛售 17 亿美元亚马逊股票",
+      "created_display": "Created: Feb 18, 2026 / 09:56 PT",
+      "image_url": "https://assets.finbold.com/uploads/2026/02/Warren-Buffett-dumps-1.7-billion-of-Amazon-stock.jpg",
+      "summary_en": "Warren Buffett's investment vehicle reportedly sold about $1.7 billion of Amazon shares, a sizable portfolio move that may reflect valuation adjustments or portfolio rebalancing. Big sales from prominent investors tend to influence market perceptions, though motivations can range from tactical reallocations to risk management.",
+      "summary_zh": "据称沃伦·巴菲特的投资机构抛售了约 17 亿美元的亚马逊股票，这一大手笔交易可能反映估值调整或资产组合再平衡。知名投资者的大额抛售常会影响市场观感，但其动机可能包括策略性再配置或风险管理等多种原因。",
+      "hn": {
+        "id": 47063950,
+        "type": "story",
+        "by": "fauria",
+        "score": 169,
+        "descendants": 180,
+        "time": 1771437368,
+        "comments_url": "https://news.ycombinator.com/item?id=47063950"
+      },
+      "tags": [
+        "Finance",
+        "Business"
+      ],
+      "hot_score": 0.18
+    },
+    {
+      "title_en": "The Perils of ISBN",
+      "url": "https://rygoldstein.com/posts/perils-of-isbn",
+      "title_zh": "ISBN 的风险",
+      "created_display": "Created: Feb 18, 2026 / 09:34 PT",
+      "image_url": "https://rygoldstein.com/goodreads.png",
+      "summary_en": "A critique of ISBN's relevance to digital publishing, highlighting metadata gaps and discovery friction in the modern ecosystem.",
+      "summary_zh": "对 ISBN 在数字出版中的相关性提出质疑，指出元数据缺口与在现代生态中的发现困难。",
+      "hn": {
+        "id": 47063663,
+        "type": "story",
+        "by": "evakhoury",
+        "score": 157,
+        "descendants": 82,
+        "time": 1771436077,
+        "comments_url": "https://news.ycombinator.com/item?id=47063663"
+      },
+      "tags": [
+        "Design"
+      ],
+      "hot_score": 0.16
+    },
+    {
+      "title_en": "Stephen Colbert going down swinging",
+      "url": "https://www.nytimes.com/2026/02/18/arts/television/stephen-colbert-cbs-statement.html",
+      "title_zh": "斯蒂芬·科尔伯特在辩论中奋力反击",
+      "created_display": "Created: Feb 18, 2026 / 07:41 PT",
+      "image_url": "https://static01.nyt.com/images/2026/02/18/arts/18latenight/18latenight-facebookJumbo.jpg",
+      "summary_en": "Stephen Colbert engages strongly in a contentious moment, highlighting the clash between late-night media tone and current political or cultural touchpoints.",
+      "summary_zh": "斯蒂芬·科尔伯特在一次有争议的场合强势发声，凸显深夜节目语气与当前政治/文化议题之间的碰撞。",
+      "hn": {
+        "id": 47062179,
+        "type": "story",
+        "by": "-0",
+        "score": 142,
+        "descendants": 56,
+        "time": 1771429319,
+        "comments_url": "https://news.ycombinator.com/item?id=47062179"
+      },
+      "tags": [
+        "Entertainment",
+        "Politics"
+      ],
+      "hot_score": 0.14
+    }
+  ]
+}

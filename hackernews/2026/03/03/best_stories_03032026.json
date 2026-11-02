@@ -1,0 +1,1172 @@
+{
+  "meta": {
+    "mode": "best",
+    "source": "https://news.ycombinator.com/",
+    "api": "https://github.com/HackerNews/API",
+    "count_requested": 50,
+    "count_written": 50,
+    "reused_same_day": 0,
+    "reused_cross_day": 20,
+    "new_llm_enriched": 30,
+    "scrape_time_display": "05:05, March 04, 2026 (PST)",
+    "timezone": "America/Los_Angeles",
+    "date_dir": "2026/03/03",
+    "content_date": "2026-03-03",
+    "run_time_local": "05:05, March 04, 2026 (PST)",
+    "run_time_utc": "2026-03-04 13:05:31 UTC",
+    "incremental": true,
+    "stories_max": 50,
+    "hot_score_time_utc": "2026-03-04 13:07:21 UTC"
+  },
+  "items": [
+    {
+      "title_en": "Motorola GrapheneOS devices will be bootloader unlockable/relockable",
+      "url": "https://grapheneos.social/@GrapheneOS/116160393783585567",
+      "title_zh": "摩托罗拉 GrapheneOS 设备将实现引导加载程序可解锁/重新锁定",
+      "created_display": "Created: Mar 03, 2026 / 16:58 PT",
+      "image_url": "https://grapheneos.social/packs/assets/logo-DXQkHAe5.svg",
+      "summary_en": "GrapheneOS will allow bootloader unlock and relock on Motorola devices, signaling a shift in how open-source security projects balance developer flexibility with device security. This could ease custom ROM flashing and development while raising questions about root access, factory resets, and secure update chains.",
+      "summary_zh": "GrapheneOS 将在摩托罗拉设备上实现引导加载程序的解锁与重新锁定。这为开发者提供更大灵活性，同时也引发关于 root 权限、出厂重置与安全更新链的讨论。",
+      "hn": {
+        "id": 47241551,
+        "type": "story",
+        "by": "pabs3",
+        "score": 877,
+        "descendants": 315,
+        "time": 1772585911,
+        "comments_url": "https://news.ycombinator.com/item?id=47241551"
+      },
+      "hot_score": 7.44,
+      "tags": [
+        "Security",
+        "Open Source"
+      ]
+    },
+    {
+      "title_en": "Agentic Engineering Patterns",
+      "url": "https://simonwillison.net/guides/agentic-engineering-patterns/",
+      "title_zh": "代理式工程模式",
+      "created_display": "Created: Mar 03, 2026 / 21:00 PT",
+      "image_url": null,
+      "summary_en": "A primer on building AI-assisted systems using agentic patterns—designs that orchestrate agents, prompts, and tools to perform complex tasks. The piece outlines practical patterns to balance autonomy, reliability, and controllability as AI agents collaborate with software.",
+      "summary_zh": "介绍用代理式模式构建 AI 辅助系统的方法，强调通过代理、提示与工具的协同来完成复杂任务。提出在自主性、可靠性与可控性之间取得平衡的实用设计模式。",
+      "hn": {
+        "id": 47243272,
+        "type": "story",
+        "by": "r4um",
+        "score": 234,
+        "descendants": 111,
+        "time": 1772600437,
+        "comments_url": "https://news.ycombinator.com/item?id=47243272"
+      },
+      "hot_score": 3.62,
+      "tags": [
+        "AI",
+        "Programming"
+      ]
+    },
+    {
+      "title_en": "The Xkcd thing, now interactive",
+      "url": "https://editor.p5js.org/isohedral/full/vJa5RiZWs",
+      "title_zh": "XKCD 的东西，现在可交互",
+      "created_display": "Created: Mar 03, 2026 / 02:56 PT",
+      "image_url": null,
+      "summary_en": "An interactive rendition of an XKCD concept demonstrates how comics-inspired ideas can translate into interactive web experiences.",
+      "summary_zh": "XKCD 的某个知名梗现已实现交互版本，展示了幽默内容与互动界面的结合，以及童趣式的 UI 实验。",
+      "hn": {
+        "id": 47230704,
+        "type": "story",
+        "by": "memalign",
+        "score": 1252,
+        "descendants": 157,
+        "time": 1772535412,
+        "comments_url": "https://news.ycombinator.com/item?id=47230704"
+      },
+      "tags": [
+        "Web",
+        "Programming"
+      ],
+      "hot_score": 3.07
+    },
+    {
+      "title_en": "Lenovo’s new ThinkPads score 10/10 for repairability",
+      "url": "https://www.ifixit.com/News/115827/new-thinkpads-score-perfect-10-repairability",
+      "title_zh": "Lenovo 新 ThinkPads 获得维修性满分 10/10",
+      "created_display": "Created: Mar 03, 2026 / 15:34 PT",
+      "image_url": "https://valkyrie.cdn.ifixit.com/media/2026/03/02154511/keyboard_3x2.jpeg",
+      "summary_en": "iFixit rates Lenovo ThinkPads with a perfect 10 for repairability, signaling strong serviceability in upgradeable components and modular design. The review highlights replaceable batteries, accessible screws, and easy part swaps as durable, repair-friendly design practices.",
+      "summary_zh": "iFixit 给出联想 ThinkPad 的维修性满分 10/10，体现其模块化设计与易于维护的部件替换性。评测强调可更换电池、易于打开的螺丝和便捷的部件更换等特性。",
+      "hn": {
+        "id": 47240694,
+        "type": "story",
+        "by": "wrxd",
+        "score": 428,
+        "descendants": 205,
+        "time": 1772580845,
+        "comments_url": "https://news.ycombinator.com/item?id=47240694"
+      },
+      "hot_score": 3.06,
+      "tags": [
+        "Hardware",
+        "Design"
+      ]
+    },
+    {
+      "title_en": "I'm reluctant to verify my identity or age for any online services",
+      "url": "https://neilzone.co.uk/2026/03/im-struggling-to-think-of-any-online-services-for-which-id-be-willing-to-verify-my-identity-or-age/",
+      "title_zh": "我不愿意在任何在线服务上验证身份或年龄",
+      "created_display": "Created: Mar 03, 2026 / 06:22 PT",
+      "image_url": "https://neilzone.co.uk/content/images/2024-10-17_neil.jpg",
+      "summary_en": "Verifying identity or age has become a friction point in many online services, and I’m reluctant to do it. The post argues that invasive KYC checks erode privacy and push users away, and it hints at privacy-preserving alternatives and the broader trend toward minimal verification.",
+      "summary_zh": "在线服务对身份/年龄的验证日益增多，造成用户体验负担。该文指出强制性的身份核验侵蚀隐私、抑制使用意愿，并探讨更隐私友好的身份认证替代方案以及数字身份的未来趋势。",
+      "hn": {
+        "id": 47232768,
+        "type": "story",
+        "by": "speckx",
+        "score": 940,
+        "descendants": 583,
+        "time": 1772547745,
+        "comments_url": "https://news.ycombinator.com/item?id=47232768"
+      },
+      "hot_score": 2.91,
+      "tags": [
+        "Privacy"
+      ]
+    },
+    {
+      "title_en": "TikTok will not introduce end-to-end encryption, saying it makes users less safe",
+      "url": "https://www.bbc.com/news/articles/cly2m5e5ke4o",
+      "title_zh": "TikTok 不引入端到端加密，称这会让用户更不安全",
+      "created_display": "Created: Mar 03, 2026 / 17:31 PT",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/642d/live/9816c7c0-1723-11f1-9120-a910fc22c6ac.jpg",
+      "summary_en": "TikTok states it will not implement end-to-end encryption, arguing it could endanger users or complicate moderation, while privacy advocates push for stronger encryption. The stance underscores the ongoing tension between user safety, regulatory compliance, and privacy on popular social apps.",
+      "summary_zh": "TikTok 表示不采用端对端加密，理由是可能危及用户安全或让内容审核更复杂。此立场凸显在流行社交应用中，隐私、合规与安全之间的持续博弈。",
+      "hn": {
+        "id": 47241817,
+        "type": "story",
+        "by": "1659447091",
+        "score": 283,
+        "descendants": 275,
+        "time": 1772587865,
+        "comments_url": "https://news.ycombinator.com/item?id=47241817"
+      },
+      "hot_score": 2.57,
+      "tags": [
+        "Privacy",
+        "Security",
+        "Politics"
+      ]
+    },
+    {
+      "title_en": "MacBook Pro with M5 Pro and M5 Max",
+      "url": "https://www.apple.com/newsroom/2026/03/apple-introduces-macbook-pro-with-all-new-m5-pro-and-m5-max/",
+      "title_zh": "搭载全新 M5 Pro 与 M5 Max 的 MacBook Pro",
+      "created_display": "Created: Mar 03, 2026 / 06:02 PT",
+      "image_url": "https://www.apple.com/newsroom/images/2026/03/apple-introduces-macbook-pro-with-all-new-m5-pro-and-m5-max/tile/Apple-MacBook-Pro-M5-Pro-and-M5-Max-Capture-One-260303-lp.jpg.og.jpg?202603031721",
+      "summary_en": "Apple introduces the MacBook Pro with the new M5 Pro and M5 Max chips, signaling another generational leap in performance and efficiency. Pro workflows like 3D rendering, video editing, and ML workloads should see meaningful speedups, with improved energy efficiency and media acceleration.",
+      "summary_zh": "苹果推出搭载全新 M5 Pro/Max 的 MacBook Pro，预示性能与能效进入新一代。3D 渲染、视频编辑和机器学习等专业工作流有望显著提速，同时提升媒体处理能力与续航表现。",
+      "hn": {
+        "id": 47232453,
+        "type": "story",
+        "by": "scrlk",
+        "score": 814,
+        "descendants": 875,
+        "time": 1772546526,
+        "comments_url": "https://news.ycombinator.com/item?id=47232453"
+      },
+      "hot_score": 2.46,
+      "tags": [
+        "Hardware",
+        "Energy"
+      ]
+    },
+    {
+      "title_en": "Meta’s AI smart glasses and data privacy concerns",
+      "url": "https://www.svd.se/a/K8nrV4/metas-ai-smart-glasses-and-data-privacy-concerns-workers-say-we-see-everything",
+      "title_zh": "Meta 的 AI 智能眼镜引发数据隐私担忧",
+      "created_display": "Created: Mar 02, 2026 / 14:32 PT",
+      "image_url": "https://svd.vgc.no/v2/images/e4d3cfec-f7dc-4461-aa32-108ea47f2621?h=630&q=80&upscale=true&w=1200&s=d82dc447eb031914967ea232d0aab8207eab5ef0",
+      "summary_en": "Wearable AI glasses enable pervasive data capture, drawing privacy backlash and regulatory scrutiny. The story highlights the tension between enterprise productivity features and data practices, raising questions about consent, data minimization, and guardrails for wearable AI.",
+      "summary_zh": "Meta 的 AI 智能眼镜在工作场景中可能带来广泛的数据采集，引发隐私方面的担忧和监管关注。此事凸显企业级生产力工具与数据使用边界之间的张力，并提出关于同意、最小化数据以及合规边界的核心问题。",
+      "hn": {
+        "id": 47225130,
+        "type": "story",
+        "by": "sandbach",
+        "score": 1385,
+        "descendants": 786,
+        "time": 1772490755,
+        "comments_url": "https://news.ycombinator.com/item?id=47225130"
+      },
+      "tags": [
+        "AI",
+        "Privacy",
+        "Politics"
+      ],
+      "hot_score": 1.76
+    },
+    {
+      "title_en": "Claude's Cycles [pdf]",
+      "url": "https://www-cs-faculty.stanford.edu/~knuth/papers/claude-cycles.pdf",
+      "title_zh": "克劳德循环【PDF】",
+      "created_display": "Created: Mar 03, 2026 / 02:57 PT",
+      "image_url": null,
+      "summary_en": "A concise theoretical note by Knuth on cyclic structures in computation. It references Claude-related cycles and offers insight into how patterns emerge in algorithms.",
+      "summary_zh": "克努斯关于计算中循环结构的一份简短理论笔记，涉及与克劳德相关的循环概念，提供对算法中模式形成的洞见。",
+      "hn": {
+        "id": 47230710,
+        "type": "story",
+        "by": "fs123",
+        "score": 665,
+        "descendants": 286,
+        "time": 1772535462,
+        "comments_url": "https://news.ycombinator.com/item?id=47230710"
+      },
+      "hot_score": 1.63,
+      "tags": [
+        "Programming",
+        "AI"
+      ]
+    },
+    {
+      "title_en": "Physics Girl: Super-Kamiokande – Imaging the sun by detecting neutrinos [video]",
+      "url": "https://www.youtube.com/watch?v=B3m3AMRlYfc",
+      "title_zh": "Physics Girl：通过探测中微子成像太阳的 Super-Kamiokande【视频】",
+      "created_display": "Created: Mar 03, 2026 / 06:42 PT",
+      "image_url": null,
+      "summary_en": "A physics explainer video on how the Super-Kamiokande detector images the Sun by detecting neutrinos, illustrating how particle physics probes solar processes. The video translates complex detector science into intuition about neutrino astronomy and why it matters for understanding fusion in the Sun.",
+      "summary_zh": "该视频讲解通过探测中微子来成像太阳，展示大规模探测器如何揭示太阳的核聚变过程。内容将高能物理与天文学交汇，帮助理解中微子天文学的重要性。",
+      "hn": {
+        "id": 47233110,
+        "type": "story",
+        "by": "pcdavid",
+        "score": 485,
+        "descendants": 84,
+        "time": 1772548950,
+        "comments_url": "https://news.ycombinator.com/item?id=47233110"
+      },
+      "hot_score": 1.54,
+      "tags": [
+        "Science",
+        "Education",
+        "Energy"
+      ]
+    },
+    {
+      "title_en": "Don't make me talk to your chatbot",
+      "url": "https://raymyers.org/post/dont-make-me-talk-to-your-chatbot/",
+      "title_zh": "别让我和你的聊天机器人对话",
+      "created_display": "Created: Mar 03, 2026 / 14:24 PT",
+      "image_url": "https://raymyers.org/weblog-card-1.png",
+      "summary_en": "A critique of chatbots as customer-facing interfaces, arguing that automated assistants often degrade UX or misalign with user needs. The piece advocates for better design choices, including optional human fallback and transparent limitations.",
+      "summary_zh": "对以聊天机器人为前端的用户体验提出批评，认为自动化助手常常无法完全满足需求。主张更完善的设计，例如提供人类支持的后备选项与对能力边界的透明化。",
+      "hn": {
+        "id": 47239943,
+        "type": "story",
+        "by": "pkilgore",
+        "score": 243,
+        "descendants": 203,
+        "time": 1772576646,
+        "comments_url": "https://news.ycombinator.com/item?id=47239943"
+      },
+      "hot_score": 1.52,
+      "tags": [
+        "Design"
+      ]
+    },
+    {
+      "title_en": "GPT‑5.3 Instant",
+      "url": "https://openai.com/index/gpt-5-3-instant/",
+      "title_zh": "GPT-5.3 Instant",
+      "created_display": "Created: Mar 03, 2026 / 09:57 PT",
+      "image_url": null,
+      "summary_en": "OpenAI announces GPT-5.3 Instant, implying faster response times and efficiency improvements for developers deploying guidance or chat-powered apps. The update likely focuses on latency reductions, cost optimization, and better handling of streaming or long prompts.",
+      "summary_zh": "OpenAI 公布 GPT‑5.3 Instant，面向开发者的快速响应与更高效部署。更新的重点在于降低延迟、优化成本，以及对流式与长提示的更好处理。",
+      "hn": {
+        "id": 47236169,
+        "type": "story",
+        "by": "meetpateltech",
+        "score": 365,
+        "descendants": 284,
+        "time": 1772560653,
+        "comments_url": "https://news.ycombinator.com/item?id=47236169"
+      },
+      "hot_score": 1.5,
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "title_en": "I'm losing the SEO battle for my own open source project",
+      "url": "https://twitter.com/Gavriel_Cohen/status/2028821432759717930",
+      "title_zh": "我在自己的开源项目的 SEO 竞争中落败",
+      "created_display": "Created: Mar 03, 2026 / 05:39 PT",
+      "image_url": "https://pbs.twimg.com/media/HCeq0xsXgAALyUM.jpg:large",
+      "summary_en": "A prominent open-source maintainer laments SEO challenges and discovers that organic search visibility can dwarf good code. The post outlines why docs, SEO hygiene, and credible references matter for discoverability and offers pragmatic steps to improve search presence.",
+      "summary_zh": "这位开源项目维护者对 SEO 竞争发出感叹，指出良好的代码并不必然带来可观的搜索能见度。文中强调文档、SEO 规范和可信引用在发现性中的重要性，并给出提升搜索存在感的实用建议。",
+      "hn": {
+        "id": 47232158,
+        "type": "story",
+        "by": "devinitely",
+        "score": 490,
+        "descendants": 241,
+        "time": 1772545178,
+        "comments_url": "https://news.ycombinator.com/item?id=47232158"
+      },
+      "hot_score": 1.44,
+      "tags": [
+        "Open Source",
+        "Business"
+      ]
+    },
+    {
+      "title_en": "Weave – A language aware merge algorithm based on entities",
+      "url": "https://github.com/Ataraxy-Labs/weave",
+      "title_zh": "Weave：基于实体的语言感知合并算法",
+      "created_display": "Created: Mar 03, 2026 / 17:52 PT",
+      "image_url": null,
+      "summary_en": "Weave introduces a language-aware merge algorithm built around entities, enabling more deterministic merges in collaborative editing or code repos. It demonstrates how semantic awareness can improve merge correctness and conflict resolution.",
+      "summary_zh": "Weave 提出一种基于实体的语言感知合并算法，旨在在协作编辑或代码仓库中实现更确定性的合并。展示了语义感知如何提升合并正确性与冲突处理效率。",
+      "hn": {
+        "id": 47241976,
+        "type": "story",
+        "by": "rs545837",
+        "score": 144,
+        "descendants": 88,
+        "time": 1772589141,
+        "comments_url": "https://news.ycombinator.com/item?id=47241976"
+      },
+      "hot_score": 1.37,
+      "tags": [
+        "Programming"
+      ]
+    },
+    {
+      "title_en": "Iran War Cost Tracker",
+      "url": "https://iran-cost-ticker.com",
+      "title_zh": "伊朗战争成本追踪器",
+      "created_display": "Created: Mar 03, 2026 / 11:01 PT",
+      "image_url": "https://iran-cost-ticker.com/iran-cost-ticker-og.png",
+      "summary_en": "A public cost-tracker tracks the financial and human toll of Iran-related conflicts, aggregating sanctions, military spending, and civilian impact. It provides a data-driven lens on the economic burden of regional conflicts, useful for policymakers and technologists tracking macro-trends.",
+      "summary_zh": "一个公开的成本追踪器汇总与伊朗相关冲突的经济与人道成本，包括制裁、军费与民生影响，提供对区域冲突经济负担的数据视角，便于决策者与研究者掌握宏观趋势。",
+      "hn": {
+        "id": 47237080,
+        "type": "story",
+        "by": "TSiege",
+        "score": 303,
+        "descendants": 407,
+        "time": 1772564517,
+        "comments_url": "https://news.ycombinator.com/item?id=47237080"
+      },
+      "hot_score": 1.36,
+      "tags": [
+        "Data",
+        "Politics",
+        "Privacy"
+      ]
+    },
+    {
+      "title_en": "British Columbia is permanently adopting daylight time",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/b-c-adopting-year-round-daylight-time-9.7111657",
+      "title_zh": "不列颠哥伦比亚省永久采用日光时区（全年夏令时）",
+      "created_display": "Created: Mar 02, 2026 / 12:30 PT",
+      "image_url": null,
+      "summary_en": "British Columbia votes to stay on daylight time year-round, eliminating seasonal clock changes. The move will affect scheduling across the region and could complicate coordination with neighboring jurisdictions and daylight-related health and energy considerations.",
+      "summary_zh": "不列颠哥伦比亚省决定全年使用日光时制，永久取消季节性时间调整。这将影响日程安排、与邻近地区的协同，并可能对健康与能源造成影响。",
+      "hn": {
+        "id": 47223620,
+        "type": "story",
+        "by": "ireflect",
+        "score": 1138,
+        "descendants": 553,
+        "time": 1772483452,
+        "comments_url": "https://news.ycombinator.com/item?id=47223620"
+      },
+      "tags": [
+        "Politics",
+        "Energy",
+        "Health"
+      ],
+      "hot_score": 1.33
+    },
+    {
+      "title_en": "Intel's make-or-break 18A process node debuts for data center with 288-core Xeon",
+      "url": "https://www.tomshardware.com/pc-components/cpus/intels-make-or-break-18a-process-node-debuts-for-data-center-with-288-core-xeon-6-cpu-multi-chip-monster-sports-12-channels-of-ddr5-8000-foveros-direct-3d-packaging-tech",
+      "title_zh": "英特尔 18A 制程首次用于数据中心，配备 288 核 Xeon",
+      "created_display": "Created: Mar 03, 2026 / 10:54 PT",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/RMA9vvkBcjersBWv6qrbvd-2560-80.jpg",
+      "summary_en": "Intel debuts its 18A process node for data centers with a 288-core Xeon multi-core monster, promising advances in density and efficiency with Foveros packaging and DDR5 capabilities. The launch matters for AI inference and HPC workloads, signaling how next-gen nodes aim to boost total cost of ownership for hyperscale customers.",
+      "summary_zh": "英特尔推出面向数据中心的 18A 制程节点，配备 288 核 Xeon，承诺在密度与能效方面带来突破，并结合 Foveros 封装与 DDR5。此举对 AI 推理与高性能计算工作负载意义重大，或降低大型云环境的总拥有成本。",
+      "hn": {
+        "id": 47236958,
+        "type": "story",
+        "by": "vanburen",
+        "score": 291,
+        "descendants": 253,
+        "time": 1772564046,
+        "comments_url": "https://news.ycombinator.com/item?id=47236958"
+      },
+      "hot_score": 1.29,
+      "tags": [
+        "Hardware",
+        "AI"
+      ]
+    },
+    {
+      "title_en": "MacBook Air with M5",
+      "url": "https://www.apple.com/newsroom/2026/03/apple-introduces-the-new-macbook-air-with-m5/",
+      "title_zh": "搭载 M5 的 MacBook Air",
+      "created_display": "Created: Mar 03, 2026 / 06:04 PT",
+      "image_url": "https://www.apple.com/newsroom/images/2026/03/apple-introduces-the-new-macbook-air-with-m5/tile/Apple-MacBook-Air-hero-260303-lp.jpg.og.jpg?202603031721",
+      "summary_en": "Apple unveils a new MacBook Air powered by the M5, signaling a lightweight yet capable option for portable work with improved CPU/GPU performance and efficiency. Expect better battery life and a thinner, fanless or quiet design, depending on the model.",
+      "summary_zh": "苹果推出配备 M5 的新款 MacBook Air，强调轻薄便携与更高效的性能。芯片升级带来更长续航和更强的处理能力，机身设计也可能更安静。",
+      "hn": {
+        "id": 47232502,
+        "type": "story",
+        "by": "Garbage",
+        "score": 398,
+        "descendants": 457,
+        "time": 1772546696,
+        "comments_url": "https://news.ycombinator.com/item?id=47232502"
+      },
+      "hot_score": 1.21,
+      "tags": [
+        "Hardware",
+        "Energy"
+      ]
+    },
+    {
+      "title_en": "Voxile: A ray-traced game made in its own engine and programming language",
+      "url": "https://elbowgreasegames.substack.com/p/voxray-games-pushes-major-update",
+      "title_zh": "Voxile：一款基于自家引擎与编程语言的光线追踪游戏",
+      "created_display": "Created: Mar 03, 2026 / 13:10 PT",
+      "image_url": null,
+      "summary_en": "Voxile showcases a ray-traced game built on its own engine and a custom programming language, illustrating how bespoke tech stacks can deliver tight performance and experimental tooling. The project highlights novelty in game development where engine and language are co-designed for specific art and performance goals.",
+      "summary_zh": "Voxile 展示了一款用自家引擎与自研编程语言实现的光线追踪游戏，体现定制化技术栈在性能和开发灵活性上的潜力。该项目突显引擎与语言协同设计在实现特定美术与性能目标中的创新。",
+      "hn": {
+        "id": 47239042,
+        "type": "story",
+        "by": "spacemarine1",
+        "score": 219,
+        "descendants": 63,
+        "time": 1772572227,
+        "comments_url": "https://news.ycombinator.com/item?id=47239042"
+      },
+      "hot_score": 1.21,
+      "tags": [
+        "Gaming",
+        "Programming"
+      ]
+    },
+    {
+      "title_en": "Don't become an engineering manager",
+      "url": "https://newsletter.manager.dev/p/dont-become-an-engineering-manager",
+      "title_zh": "别当工程经理",
+      "created_display": "Created: Mar 03, 2026 / 06:19 PT",
+      "image_url": "https://substackcdn.com/image/fetch/$s_!pS-U!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcf9201cc-121b-4758-b23f-b03f2ac4fa8f_897x626.png",
+      "summary_en": "A contrarian take on career paths in tech: becoming an engineering manager isn't necessarily the best route for every IC-focused engineer. The piece argues for choosing tracks that align with your strengths, whether people leadership or technical depth, and notes common traps of management roles.",
+      "summary_zh": "本篇对科技领域的职业路径提出另一种观点：并非每位具技术实力的人都应走管理路线。文章建议根据个人优势选择方向，无论是技术深度还是人员领导，并警示管理岗位的常见陷阱。",
+      "hn": {
+        "id": 47232727,
+        "type": "story",
+        "by": "flail",
+        "score": 370,
+        "descendants": 261,
+        "time": 1772547554,
+        "comments_url": "https://news.ycombinator.com/item?id=47232727"
+      },
+      "hot_score": 1.14,
+      "tags": [
+        "Career"
+      ]
+    },
+    {
+      "title_en": "Helsinki just went a full year without a single traffic death",
+      "url": "https://www.politico.eu/article/helsinki-no-traffic-death-roads-eu-accident-finland-driving-transport/",
+      "title_zh": "赫尔辛基整整一年零交通死亡",
+      "created_display": "Created: Mar 03, 2026 / 14:49 PT",
+      "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/08/01/hkm.c515bb7d-67e4-4410-8d1d-fef9af24e5c6-0-master-scaled.jpg",
+      "summary_en": "Helsinki records a year with zero traffic fatalities, illustrating the impact of urban design, safety policies, and active transportation on reducing deadly crashes. The milestone offers a data point for cities aiming to improve road safety.",
+      "summary_zh": "赫尔辛基实现整整一年零交通死亡，展示城市设计、交通安全政策与步行/自行车友好基础设施对降低致命车祸的作用。此成就为其他城市提供安全改进的参考。",
+      "hn": {
+        "id": 47240212,
+        "type": "story",
+        "by": "mooreds",
+        "score": 171,
+        "descendants": 104,
+        "time": 1772578194,
+        "comments_url": "https://news.ycombinator.com/item?id=47240212"
+      },
+      "hot_score": 1.12,
+      "tags": [
+        "Politics"
+      ]
+    },
+    {
+      "title_en": "Cancel ChatGPT AI boycott surges after OpenAI pentagon military deal",
+      "url": "https://www.euronews.com/next/2026/03/02/cancel-chatgpt-ai-boycott-surges-after-openai-pentagon-military-deal",
+      "title_zh": "取消 ChatGPT AI 抵制在 OpenAI 与 Pentagon 军事交易后激增",
+      "created_display": "Created: Mar 03, 2026 / 16:10 PT",
+      "image_url": null,
+      "summary_en": "Public boycott campaigns against AI tools surge following a Pentagon OpenAI deal, signaling how government contracts shape public sentiment toward AI vendors. The development highlights the political risk for AI platforms and the marketplace dynamics around defense-related AI adoption.",
+      "summary_zh": "在 OpenAI 与五角大楼达成军事合作后，针对 AI 工具的抵制行动显著上升，反映政府合同对公众态度的影响。此事凸显 AI 平台面临的政治风险以及军事领域对 AI 采用的市场动态。",
+      "hn": {
+        "id": 47241092,
+        "type": "story",
+        "by": "nothrowaways",
+        "score": 144,
+        "descendants": 30,
+        "time": 1772583038,
+        "comments_url": "https://news.ycombinator.com/item?id=47241092"
+      },
+      "hot_score": 1.1,
+      "tags": [
+        "AI",
+        "Politics"
+      ]
+    },
+    {
+      "title_en": "Possible US Government iPhone-Hacking Toolkit in foreign spy and criminal hands",
+      "url": "https://www.wired.com/story/coruna-iphone-hacking-toolkit-us-government/",
+      "title_zh": "美国政府 iPhone 黑客工具包可能落入外国间谍与犯罪分子之手",
+      "created_display": "Created: Mar 03, 2026 / 11:34 PT",
+      "image_url": "https://media.wired.com/photos/69a5fee53552f3bcbc80c606/191:100/w_1280,c_limit/sec-phone-hacking-2252317890.jpg",
+      "summary_en": "Wired reports on a coercive cyber toolkit used by government intelligence that could fall into foreign spies or criminals' hands, raising concerns about supply chain, weaponization of iOS exploits, and export controls. The piece warns of consequences for user privacy and national security.",
+      "summary_zh": "Wired 报道称一款来自政府情报部门的网络工具包可能流入外国间谍与犯罪分子之手，引发对供应链、iOS 漏洞的武器化及出口管制的担忧。此事对用户隐私与国家安全的潜在影响需关注。",
+      "hn": {
+        "id": 47237692,
+        "type": "story",
+        "by": "alwillis",
+        "score": 226,
+        "descendants": 79,
+        "time": 1772566477,
+        "comments_url": "https://news.ycombinator.com/item?id=47237692"
+      },
+      "hot_score": 1.07,
+      "tags": [
+        "Security",
+        "Privacy",
+        "Politics"
+      ]
+    },
+    {
+      "title_en": "India's top court angry after junior judge cites fake AI-generated orders",
+      "url": "https://www.bbc.com/news/articles/c178zzw780xo",
+      "title_zh": "印度最高法院对下级法官引用假 AI 生成命令表示愤怒",
+      "created_display": "Created: Mar 03, 2026 / 04:13 PT",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/ab1c/live/e75859a0-16fd-11f1-801d-ed3cff6bf876.jpg",
+      "summary_en": "India's Supreme Court lashes out after a junior judge cited fake AI-generated orders, underscoring the risk of relying on AI for legal documents. The incident highlights the need for human checks, provenance, and trust in automated tooling within high-stakes domains.",
+      "summary_zh": "印度最高法院对一名初级法官引用伪造的 AI 生成命令表示愤怒，凸显在高风险领域对 AI 生成法律文书的可追溯性与人工审核的必要性。",
+      "hn": {
+        "id": 47231261,
+        "type": "story",
+        "by": "tchalla",
+        "score": 354,
+        "descendants": 181,
+        "time": 1772540020,
+        "comments_url": "https://news.ycombinator.com/item?id=47231261"
+      },
+      "hot_score": 0.94,
+      "tags": [
+        "AI",
+        "Legal"
+      ]
+    },
+    {
+      "title_en": "When AI writes the software, who verifies it?",
+      "url": "https://leodemoura.github.io/blog/2026/02/28/when-ai-writes-the-worlds-software.html",
+      "title_zh": "当 AI 编写软件，谁来验证它？",
+      "created_display": "Created: Mar 03, 2026 / 08:34 PT",
+      "image_url": "https://leodemoura.github.io/images/leo.jpg",
+      "summary_en": "The piece argues verification remains the hard part when AI writes software; human audits, formal methods, and reliable pipelines are needed to ensure correctness, security, and compliance. It discusses governance and the risk of relying solely on AI for critical code.",
+      "summary_zh": "文章认为当 AI 编写软件时，验证仍是最难的环节，需要人工审查、形式化方法与可靠的开发流程来确保正确性、安 全与合规，并讨论治理与对 AI 产出的过度信任风险。",
+      "hn": {
+        "id": 47234917,
+        "type": "story",
+        "by": "todsacerdoti",
+        "score": 258,
+        "descendants": 263,
+        "time": 1772555693,
+        "comments_url": "https://news.ycombinator.com/item?id=47234917"
+      },
+      "hot_score": 0.94,
+      "tags": [
+        "AI",
+        "Programming",
+        "Security"
+      ]
+    },
+    {
+      "title_en": "GitHub having issues [resolved]",
+      "url": "https://www.githubstatus.com/incidents/n07yy1bk6kc4",
+      "title_zh": "GitHub 出现故障（已解决）",
+      "created_display": "Created: Mar 03, 2026 / 11:02 PT",
+      "image_url": "https://dka575ofm4ao0.cloudfront.net/pages-twitter_logos/original/36420/GitHub-Mark-120px-plus.png",
+      "summary_en": "GitHub experienced incidents affecting service stability; the outage has been resolved, but serves as a reminder of how central code hosting is to developer workflows and the fragility of cloud services.",
+      "summary_zh": "GitHub 一度出现服务故障，现已解决，但再次提醒开发者对代码托管平台的高度依赖及云服务的脆弱性。",
+      "hn": {
+        "id": 47237088,
+        "type": "story",
+        "by": "Simpliplant",
+        "score": 208,
+        "descendants": 144,
+        "time": 1772564534,
+        "comments_url": "https://news.ycombinator.com/item?id=47237088"
+      },
+      "hot_score": 0.93,
+      "tags": [
+        "Web",
+        "DevOps",
+        "Programming"
+      ]
+    },
+    {
+      "title_en": "Ars Technica fires reporter after AI controversy involving fabricated quotes",
+      "url": "https://futurism.com/artificial-intelligence/ars-technica-fires-reporter-ai-quotes",
+      "title_zh": "Ars Technica 因 AI 造假引发的争议解雇记者",
+      "created_display": "Created: Mar 02, 2026 / 17:12 PT",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/03/ars-technica-fires-reporter-ai-quotes.jpg?w=1200",
+      "summary_en": "A journalist is fired after allegations that quotes attributed to AI were fabricated. The incident underscores the need for rigorous verification when using AI in journalism and the ethics of AI-assisted reporting.",
+      "summary_zh": "因涉及 AI 捏造引述的争议，记者被解雇。这一事件凸显在新闻报道中使用 AI 时，需进行严格的核实与伦理考量，以及对AI生成内容的信任风险。",
+      "hn": {
+        "id": 47226608,
+        "type": "story",
+        "by": "danso",
+        "score": 586,
+        "descendants": 367,
+        "time": 1772500350,
+        "comments_url": "https://news.ycombinator.com/item?id=47226608"
+      },
+      "tags": [
+        "AI"
+      ],
+      "hot_score": 0.84
+    },
+    {
+      "title_en": "Mullvad VPN: Banned TV Ad in the Streets of London [video]",
+      "url": "https://www.youtube.com/watch?v=rwhznrpgl7k",
+      "title_zh": "Mullvad VPN：在伦敦街头的禁播广告【视频】",
+      "created_display": "Created: Mar 03, 2026 / 04:09 PT",
+      "image_url": null,
+      "summary_en": "Mullvad VPN ran a provocative street ad in London to promote privacy, highlighting guerrilla marketing and the tension between advertising norms and privacy advocacy. The stunt underscores how privacy-focused brands push against conventional media constraints to reach audiences.",
+      "summary_zh": "Mullvad VPN 在伦敦街头进行了一场挑衅性的广告行动，强调隐私保护并挑战传统广告规范。此举凸显以隐私为核心的品牌如何利用非常规手段触达受众。",
+      "hn": {
+        "id": 47231242,
+        "type": "story",
+        "by": "vanyauhalin",
+        "score": 293,
+        "descendants": 167,
+        "time": 1772539799,
+        "comments_url": "https://news.ycombinator.com/item?id=47231242"
+      },
+      "hot_score": 0.78,
+      "tags": [
+        "Privacy"
+      ]
+    },
+    {
+      "title_en": "An Interactive Intro to CRDTs (2023)",
+      "url": "https://jakelazaroff.com/words/an-interactive-intro-to-crdts/",
+      "title_zh": "CRDT 交互式入门（2023）",
+      "created_display": "Created: Mar 03, 2026 / 11:22 PT",
+      "image_url": "https://jakelazaroff.com/og/an-interactive-intro-to-crdts.png",
+      "summary_en": "An interactive introduction to CRDTs (Conflict-free Replicated Data Types) offers hands-on intuition for eventually consistent data synchronization, with visual guides and examples. The piece is a useful refresher for developers exploring distributed data structures.",
+      "summary_zh": "这份互动式的 CRDT 入门通过直观示例和可视化，帮助开发者理解最终一致性的数据同步与冲突解决。对想在分布式系统中使用无冲突复制的数据结构的读者尤为有用。",
+      "hn": {
+        "id": 47237460,
+        "type": "story",
+        "by": "evakhoury",
+        "score": 161,
+        "descendants": 27,
+        "time": 1772565752,
+        "comments_url": "https://news.ycombinator.com/item?id=47237460"
+      },
+      "hot_score": 0.75,
+      "tags": [
+        "Programming"
+      ]
+    },
+    {
+      "title_en": "Show HN: I built a sub-500ms latency voice agent from scratch",
+      "url": "https://www.ntik.me/posts/voice-agent",
+      "title_zh": "Show HN：我用从零开始构建的语音代理实现低于 500 ms 的延迟",
+      "created_display": "Created: Mar 02, 2026 / 13:23 PT",
+      "image_url": "https://ntik.me/voice-agent-essay/agent-logs.png",
+      "summary_en": "A self-built voice agent achieves sub-500ms latency end-to-end, with architecture details and benchmarks that illustrate practical latency optimization in real-time AI.",
+      "summary_zh": "作者自建语音代理，端到端延迟低于 500 ms，并分享架构与基准测试要点，展示在语音 AI 堆栈中压缩延迟的可行路径。",
+      "hn": {
+        "id": 47224295,
+        "type": "story",
+        "by": "nicktikhonov",
+        "score": 559,
+        "descendants": 152,
+        "time": 1772486620,
+        "comments_url": "https://news.ycombinator.com/item?id=47224295"
+      },
+      "tags": [
+        "Show HN",
+        "AI",
+        "Programming"
+      ],
+      "hot_score": 0.68
+    },
+    {
+      "title_en": "Apple Studio Display and Studio Display XDR",
+      "url": "https://www.apple.com/newsroom/2026/03/apple-unveils-new-studio-display-and-all-new-studio-display-xdr/",
+      "title_zh": "苹果 Studio Display 与 Studio Display XDR",
+      "created_display": "Created: Mar 03, 2026 / 06:00 PT",
+      "image_url": "https://www.apple.com/newsroom/images/2026/03/apple-unveils-new-studio-display-and-all-new-studio-display-xdr/tile/Apple-Studio-Display-and-Studio-Display-XDR-260303-lp.jpg.og.jpg?202603031721",
+      "summary_en": "Apple unveils a refreshed Studio Display and a new Studio Display XDR, signaling updates to Pro-level monitor lineup with improved brightness, color accuracy, and maybe nano-texture options. The move positions Apple's own displays against external vendors in pro sets.",
+      "summary_zh": "苹果公布全新 Studio Display 与 Studio Display XDR，提升亮度、色彩准确性，并可能带来纳米纹理等专业选项。此举巩固苹果在专业显示领域的自家生态并与外部厂商展开竞争。",
+      "hn": {
+        "id": 47232421,
+        "type": "story",
+        "by": "victorbjorklund",
+        "score": 227,
+        "descendants": 294,
+        "time": 1772546411,
+        "comments_url": "https://news.ycombinator.com/item?id=47232421"
+      },
+      "hot_score": 0.68,
+      "tags": [
+        "Hardware"
+      ]
+    },
+    {
+      "title_en": "Claude is an Electron App because we've lost native",
+      "url": "https://tonsky.me/blog/fall-of-native/",
+      "title_zh": "Claude 是 Electron 应用，因为我们已经失去了原生",
+      "created_display": "Created: Mar 03, 2026 / 09:09 PT",
+      "image_url": "https://dynogee.com/gen?id=24m2qx9uethuw6p&title=Claude+is+an+Electron+App+because+we%E2%80%99ve+lost+native",
+      "summary_en": "Claude UI reliance on Electron attributed to lack of native UI across platforms; the article argues about dwindling native UI support and the trade-offs of cross-platform web tech. It discusses performance and UX costs of Electron apps.",
+      "summary_zh": "文中将 Claude 的桌面客户端归因于 Electron，认为跨平台原生 UI 支持的减少使人们转向 Web 技术。讨论 Electron 应用对性能与用户体验的权衡，以及原生 UI 的重要性。",
+      "hn": {
+        "id": 47235430,
+        "type": "story",
+        "by": "todsacerdoti",
+        "score": 176,
+        "descendants": 217,
+        "time": 1772557755,
+        "comments_url": "https://news.ycombinator.com/item?id=47235430"
+      },
+      "hot_score": 0.67,
+      "tags": [
+        "Programming",
+        "AI"
+      ]
+    },
+    {
+      "title_en": "Most-read tech publications have lost over half their Google traffic since 2024",
+      "url": "https://growtika.com/blog/tech-media-collapse",
+      "title_zh": "自 2024 年以来，大多数科技出版物的 Google 流量下降超过一半",
+      "created_display": "Created: Mar 03, 2026 / 05:45 PT",
+      "image_url": "https://growtika.com/images/blog/tech-media-collapse-featured.webp",
+      "summary_en": "Tech publications have lost over half of their Google traffic since 2024, signaling a seismic shift in how audiences discover content and the pressure on publishers to diversify referrals, subscription models, and direct visits. The trend underscores the importance of strong brand signals, newsletters, and alternative distribution channels.",
+      "summary_zh": "自 2024 年以来，主流科技媒体的 Google 流量下降超过一半，标志着受众发现内容方式的重大转变，也给出版商带来多元化流量来源、订阅模式和直接访问的压力。此趋势强调强化品牌信号、邮件通讯与其他分发渠道的重要性。",
+      "hn": {
+        "id": 47232224,
+        "type": "story",
+        "by": "Growtika",
+        "score": 221,
+        "descendants": 166,
+        "time": 1772545533,
+        "comments_url": "https://news.ycombinator.com/item?id=47232224"
+      },
+      "hot_score": 0.65,
+      "tags": [
+        "Business"
+      ]
+    },
+    {
+      "title_en": "AI-generated art can’t be copyrighted after Supreme Court declines review",
+      "url": "https://www.theverge.com/policy/887678/supreme-court-ai-art-copyright",
+      "title_zh": "AI 生成的艺术在最高法院拒绝复审后不能获得版权",
+      "created_display": "Created: Mar 03, 2026 / 05:51 PT",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25301215/STK463_SCOTUS_B.jpg?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200",
+      "summary_en": "The Supreme Court declines to review whether AI-generated art can be copyrighted, effectively leaving the rule that AI-created works cannot be copyrighted in place. This decision shapes IP strategy for artists and platforms navigating AI-assisted workflows.",
+      "summary_zh": "最高法院拒绝就 AI 生成艺术的版权问题再审，维持现行规则：AI 创作的作品通常不能获得版权保护。这对艺术家与在 AI 辅助创作中运作的平台的知识产权策略具有重要影响。",
+      "hn": {
+        "id": 47232289,
+        "type": "story",
+        "by": "duggan",
+        "score": 184,
+        "descendants": 129,
+        "time": 1772545894,
+        "comments_url": "https://news.ycombinator.com/item?id=47232289"
+      },
+      "hot_score": 0.55,
+      "tags": [
+        "AI",
+        "Legal"
+      ]
+    },
+    {
+      "title_en": "Arm's Cortex X925: Reaching Desktop Performance",
+      "url": "https://chipsandcheese.com/p/arms-cortex-x925-reaching-desktop",
+      "title_zh": "Arm Cortex X925：接近桌面性能",
+      "created_display": "Created: Mar 02, 2026 / 23:34 PT",
+      "image_url": "https://substackcdn.com/image/fetch/$s_!ZTUE!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F223f5104-d87f-44cc-a80e-398a444bfd06_2010x1260.png",
+      "summary_en": "Arm's Cortex X925 targets desktop-class performance, reshaping expectations for ARM-based laptops and software ecosystems.",
+      "summary_zh": "Arm Cortex X925 旨在实现桌面级性能，可能改变 ARM 架构在笔记本/桌面上的应用前景及软件兼容性预期。",
+      "hn": {
+        "id": 47229344,
+        "type": "story",
+        "by": "ingve",
+        "score": 267,
+        "descendants": 163,
+        "time": 1772523287,
+        "comments_url": "https://news.ycombinator.com/item?id=47229344"
+      },
+      "tags": [
+        "Hardware"
+      ],
+      "hot_score": 0.53
+    },
+    {
+      "title_en": "New iPad Air, powered by M4",
+      "url": "https://www.apple.com/newsroom/2026/03/apple-introduces-the-new-ipad-air-powered-by-m4/",
+      "title_zh": "新款 iPad Air，搭载 M4 芯片",
+      "created_display": "Created: Mar 02, 2026 / 06:11 PT",
+      "image_url": "https://www.apple.com/newsroom/images/2026/03/apple-introduces-the-new-ipad-air-powered-by-m4/tile/Apple-iPad-Air-M4-multitasking-260302-lp.jpg.og.jpg?202603021433",
+      "summary_en": "Apple unveils a new iPad Air powered by the M4, signaling continued silicon cadence and improved performance-per-watt for mobile devices. The move reinforces Apple's silicon cadence and cross-device AI strategy.",
+      "summary_zh": "苹果发布搭载 M4 芯片的新款 iPad Air，意味着移动设备性能与能效的提升，并映射出苹果在各产品线统一 AI 计算与效率的策略。",
+      "hn": {
+        "id": 47218175,
+        "type": "story",
+        "by": "Garbage",
+        "score": 434,
+        "descendants": 674,
+        "time": 1772460683,
+        "comments_url": "https://news.ycombinator.com/item?id=47218175"
+      },
+      "tags": [
+        "Hardware",
+        "AI"
+      ],
+      "hot_score": 0.39
+    },
+    {
+      "title_en": "Welcome (back) to Macintosh",
+      "url": "https://take.surf/2026/03/01/welcome-back-to-macintosh",
+      "title_zh": "欢迎（回归）Macintosh",
+      "created_display": "Created: Mar 02, 2026 / 13:09 PT",
+      "image_url": null,
+      "summary_en": "A reflective piece on the enduring relevance or revival of the Macintosh ecosystem in modern computing, exploring nostalgia alongside current developer workflows.",
+      "summary_zh": "回顾 Macintosh 生态的现状与未来，兼顾怀旧情感与当下开发者工作流的现实性。",
+      "hn": {
+        "id": 47224118,
+        "type": "story",
+        "by": "Udo_Schmitz",
+        "score": 324,
+        "descendants": 258,
+        "time": 1772485787,
+        "comments_url": "https://news.ycombinator.com/item?id=47224118"
+      },
+      "tags": [
+        "Culture"
+      ],
+      "hot_score": 0.39
+    },
+    {
+      "title_en": "Anthropic Cowork feature creates 10GB VM bundle on macOS without warning",
+      "url": "https://github.com/anthropics/claude-code/issues/22543",
+      "title_zh": "Anthropic 的 Cowork 功能在 macOS 上无警告地生成 10GB 虚拟机捆绑包",
+      "created_display": "Created: Mar 02, 2026 / 06:21 PT",
+      "image_url": "https://opengraph.githubassets.com/c39aba1a16c9f6f9245af0a090f2706c340dfbbf3af32369e65e959be837d686/anthropics/claude-code/issues/22543",
+      "summary_en": "Cowork unexpectedly creates a 10GB VM bundle on macOS, raising concerns about disk usage and UX clarity for AI-enabled developer tools.",
+      "summary_zh": "Cowork 功能在 macOS 上意外生成 10GB 的虚拟机捆绑包，影响磁盘空间与性能，引发对开发工具 UX 和资源管理的关注。",
+      "hn": {
+        "id": 47218288,
+        "type": "story",
+        "by": "mystcb",
+        "score": 374,
+        "descendants": 186,
+        "time": 1772461279,
+        "comments_url": "https://news.ycombinator.com/item?id=47218288"
+      },
+      "tags": [
+        "Programming",
+        "AI"
+      ],
+      "hot_score": 0.34
+    },
+    {
+      "title_en": "Elevated Errors in Claude.ai",
+      "url": "https://status.claude.com/incidents/yf48hzysrvl5",
+      "title_zh": "Claude.ai 的错误率上升",
+      "created_display": "Created: Mar 02, 2026 / 19:31 PT",
+      "image_url": "https://dka575ofm4ao0.cloudfront.net/assets/logos/favicon-2b86ed00cfa6258307d4a3d0c482fd733c7973f82de213143b24fc062c540367.png",
+      "summary_en": "Claude.ai reports elevated errors on its status page, raising reliability concerns for users and prompting considerations of guardrails and monitoring improvements.",
+      "summary_zh": "Claude.ai 的状态页面显示错误率上升，对依赖其 AI 助手的用户造成不确定性，催促改进容错与稳定性。",
+      "hn": {
+        "id": 47227647,
+        "type": "story",
+        "by": "LostMyLogin",
+        "score": 203,
+        "descendants": 163,
+        "time": 1772508667,
+        "comments_url": "https://news.ycombinator.com/item?id=47227647"
+      },
+      "tags": [
+        "AI"
+      ],
+      "hot_score": 0.33
+    },
+    {
+      "title_en": "First in-utero stem cell therapy for fetal spina bifida repair is safe: study",
+      "url": "https://health.ucdavis.edu/news/headlines/first-ever-in-utero-stem-cell-therapy-for-fetal-spina-bifida-repair-is-safe-study-finds/2026/02",
+      "title_zh": "胎儿期脊柱裂修复的首例体内干细胞治疗显示安全",
+      "created_display": "Created: Mar 02, 2026 / 06:54 PT",
+      "image_url": "https://health.ucdavis.edu/media-resources/contenthub/health-news/2026/2/thumbnail/CuRe-thumbnail.jpg",
+      "summary_en": "A study reports in-utero stem cell therapy for fetal spina bifida appears safe, marking a promising prenatal treatment for a serious condition. Long-term efficacy remains to be seen, but this advances prenatal regenerative medicine.",
+      "summary_zh": "研究显示胎内干细胞治疗用于修复胎儿脊柱裂的安全性初步结果良好，标志着产前干细胞治疗的潜力。未来需要关注长期效果和伦理议题。",
+      "hn": {
+        "id": 47218743,
+        "type": "story",
+        "by": "gmays",
+        "score": 342,
+        "descendants": 68,
+        "time": 1772463298,
+        "comments_url": "https://news.ycombinator.com/item?id=47218743"
+      },
+      "tags": [
+        "Health"
+      ],
+      "hot_score": 0.32
+    },
+    {
+      "title_en": "iPhone 17e",
+      "url": "https://www.apple.com/newsroom/2026/03/apple-introduces-iphone-17e/",
+      "title_zh": "iPhone 17e",
+      "created_display": "Created: Mar 02, 2026 / 06:03 PT",
+      "image_url": "https://www.apple.com/newsroom/images/2026/03/apple-introduces-iphone-17e/tile/Apple-iPhone-17e-hero-260302-lp.jpg.og.jpg?202603021433",
+      "summary_en": "Apple launches iPhone 17e, a likely mid-cycle update focusing on efficiency, camera, and AI features; a sign of ongoing hardware cadence.",
+      "summary_zh": "苹果发布 iPhone 17e，作为中期更新，可能带来新相机、芯片或人工智能相关特性，体现苹果在核心设计上的迭代策略与性价比取向。",
+      "hn": {
+        "id": 47218084,
+        "type": "story",
+        "by": "meetpateltech",
+        "score": 320,
+        "descendants": 496,
+        "time": 1772460180,
+        "comments_url": "https://news.ycombinator.com/item?id=47218084"
+      },
+      "tags": [
+        "Hardware",
+        "AI"
+      ],
+      "hot_score": 0.29
+    },
+    {
+      "title_en": "OpenClaw surpasses React to become the most-starred software project on GitHub",
+      "url": "https://www.star-history.com/blog/openclaw-surpasses-react-most-starred-software",
+      "title_zh": "OpenClaw 超越 React，成为 GitHub 上最受欢迎的软件项目",
+      "created_display": "Created: Mar 02, 2026 / 05:38 PT",
+      "image_url": "https://star-history.com/assets/blog/clawflare/openclaw.webp",
+      "summary_en": "OpenClaw's star count tops React, signaling rapid community interest and the volatility of popularity in open-source projects.",
+      "summary_zh": "OpenClaw 以星标数超过 React，成为 GitHub 上最受关注的软件项目之一，体现开源生态中新项目快速积聚热度的趋势。",
+      "hn": {
+        "id": 47217812,
+        "type": "story",
+        "by": "whit537",
+        "score": 289,
+        "descendants": 365,
+        "time": 1772458682,
+        "comments_url": "https://news.ycombinator.com/item?id=47217812"
+      },
+      "tags": [
+        "Open Source",
+        "Programming",
+        "Web"
+      ],
+      "hot_score": 0.26
+    },
+    {
+      "title_en": "Daily Driving GrapheneOS",
+      "url": "https://blog.matthewbrunelle.com/8-4-months-of-daily-driving-grapheneos/",
+      "title_zh": "Daily Driving GrapheneOS",
+      "created_display": "Created: Mar 02, 2026 / 21:18 PT",
+      "image_url": "https://blog.matthewbrunelle.com/content/images/2026/03/Grapheneos_app_store.png",
+      "summary_en": "Matthew Brunelle documents eight months of daily driving on GrapheneOS, sharing insights on privacy, usability, app compatibility, and security trade-offs. The post provides a practical perspective on running a hardened mobile OS as everyday driver.",
+      "summary_zh": "作者记录在 GrapheneOS 上连续数月的日常使用，分享了隐私、可用性、应用兼容性及安全性的取舍。为在日常场景中采用高安全性移动系统提供实际视角。",
+      "hn": {
+        "id": 47228390,
+        "type": "story",
+        "by": "zdw",
+        "score": 146,
+        "descendants": 135,
+        "time": 1772515104,
+        "comments_url": "https://news.ycombinator.com/item?id=47228390"
+      },
+      "hot_score": 0.26,
+      "tags": [
+        "Privacy",
+        "Security"
+      ]
+    },
+    {
+      "title_en": "Physicists developing a quantum computer that’s entirely open source",
+      "url": "https://physics.aps.org/articles/v19/24",
+      "title_zh": "物理学家开发完全开源的量子计算机",
+      "created_display": "Created: Mar 02, 2026 / 15:22 PT",
+      "image_url": null,
+      "summary_en": "Researchers are building a quantum computer with open-source hardware and software, promoting reproducibility and community collaboration in quantum tech.",
+      "summary_zh": "研究者在量子计算领域打造完全开源的量子计算机，推动可重复性与社区协作的发展。",
+      "hn": {
+        "id": 47225726,
+        "type": "story",
+        "by": "tzury",
+        "score": 188,
+        "descendants": 34,
+        "time": 1772493770,
+        "comments_url": "https://news.ycombinator.com/item?id=47225726"
+      },
+      "tags": [
+        "Open Source",
+        "Science",
+        "Hardware"
+      ],
+      "hot_score": 0.25
+    },
+    {
+      "title_en": "Ask HN: Who is hiring? (March 2026)",
+      "url": "https://news.ycombinator.com/item?id=47219668",
+      "title_zh": "Ask HN：谁在招人？（2026 年 3 月）",
+      "created_display": "Created: Mar 02, 2026 / 08:00 PT",
+      "image_url": "https://news.ycombinator.com/y18.svg",
+      "summary_en": "A community recruiting thread listing ongoing openings; useful snapshot of the hiring climate and remote/AI-related opportunities.",
+      "summary_zh": "这是 2026 年 3 月的招聘贴，汇聚了各家公司正在招人的职位信息，反映当下技术人才的需求和远程工作机会的热点。",
+      "hn": {
+        "id": 47219668,
+        "type": "story",
+        "by": "whoishiring",
+        "score": 237,
+        "descendants": 332,
+        "time": 1772467227,
+        "comments_url": "https://news.ycombinator.com/item?id=47219668"
+      },
+      "tags": [
+        "Career",
+        "AI"
+      ],
+      "hot_score": 0.23
+    },
+    {
+      "title_en": "Show HN: Govbase – Follow a bill from source text to news bias to social posts",
+      "url": "https://govbase.com",
+      "title_zh": "Show HN：Govbase—从法案原文到新闻偏见再到社交帖文的追踪",
+      "created_display": "Created: Mar 02, 2026 / 09:08 PT",
+      "image_url": null,
+      "summary_en": "Govbase traces a bill from its source text through media coverage and social discourse to reveal framing and bias, offering a transparent civics tool for researchers.",
+      "summary_zh": "Govbase 通过追踪法案原文、新闻偏见和社交帖子，揭示信息如何被解读与操控，适合关心公民科技的开发者与研究者。",
+      "hn": {
+        "id": 47220809,
+        "type": "story",
+        "by": "foxfoxx",
+        "score": 213,
+        "descendants": 89,
+        "time": 1772471333,
+        "comments_url": "https://news.ycombinator.com/item?id=47220809"
+      },
+      "tags": [
+        "Show HN",
+        "Politics"
+      ],
+      "hot_score": 0.22
+    },
+    {
+      "title_en": "A case for Go as the best language for AI agents",
+      "url": "https://getbruin.com/blog/go-is-the-best-language-for-agents/",
+      "title_zh": "Go 可能是构建 AI 代理的最佳语言",
+      "created_display": "Created: Mar 02, 2026 / 10:48 PT",
+      "image_url": "https://getbruin.com/__og-image__/static/blog/go-is-the-best-language-for-agents/og.png",
+      "summary_en": "Argues Go's performance, concurrency, and deployment advantages for building AI agents, challenging the Python dominance in agent tooling.",
+      "summary_zh": "提出用 Go 构建 AI 代理的论点，强调在性能、并发和部署方面对 Python/JS 的优势，可能影响团队对代理生态的选型。",
+      "hn": {
+        "id": 47222270,
+        "type": "story",
+        "by": "karakanb",
+        "score": 191,
+        "descendants": 283,
+        "time": 1772477316,
+        "comments_url": "https://news.ycombinator.com/item?id=47222270"
+      },
+      "tags": [
+        "Programming",
+        "AI"
+      ],
+      "hot_score": 0.21
+    },
+    {
+      "title_en": "Microslop Manifesto",
+      "url": "http://microslop.com/",
+      "title_zh": "Microslop 宣言",
+      "created_display": "Created: Mar 02, 2026 / 05:05 PT",
+      "image_url": null,
+      "summary_en": "A bold manifesto critiquing Microsoft's AI and platform strategy, calling out perceived harms or misaligned incentives.",
+      "summary_zh": "以激进笔触批评微软在 AI、云服务或垄断趋势方面的策略与影响，提出对行业生态的质疑与反思。",
+      "hn": {
+        "id": 47217491,
+        "type": "story",
+        "by": "gostsamo",
+        "score": 218,
+        "descendants": 82,
+        "time": 1772456737,
+        "comments_url": "https://news.ycombinator.com/item?id=47217491"
+      },
+      "tags": [
+        "Business",
+        "Politics",
+        "AI"
+      ],
+      "hot_score": 0.19
+    },
+    {
+      "title_en": "Judge finalizes order for Greenpeace to pay $345M in ND oil pipeline case",
+      "url": "https://northdakotamonitor.com/2026/02/27/judge-finalizes-order-for-greenpeace-to-pay-345-million-in-north-dakota-oil-pipeline-case/",
+      "title_zh": "法官最终裁定 Greenpeace 在 ND 石油管线案中赔付 3.45 亿美元",
+      "created_display": "Created: Mar 02, 2026 / 06:28 PT",
+      "image_url": null,
+      "summary_en": "A North Dakota ruling finalizes Greenpeace's liability for a significant payout over an oil pipeline dispute, underscoring the legal risks surrounding environmental activism and energy infrastructure.",
+      "summary_zh": "在北达科他州相关案件中，法院最终裁定绿色和平组织需支付 3.45 亿美元赔款，凸显环境行动与大规模能源项目的法律博弈。",
+      "hn": {
+        "id": 47218364,
+        "type": "story",
+        "by": "gmays",
+        "score": 192,
+        "descendants": 221,
+        "time": 1772461721,
+        "comments_url": "https://news.ycombinator.com/item?id=47218364"
+      },
+      "tags": [
+        "Legal",
+        "DevOps",
+        "Energy"
+      ],
+      "hot_score": 0.18
+    },
+    {
+      "title_en": "Parallel coding agents with tmux and Markdown specs",
+      "url": "https://schipper.ai/posts/parallel-coding-agents/",
+      "title_zh": "用 tmux 和 Markdown 规范实现并行编码代理",
+      "created_display": "Created: Mar 02, 2026 / 06:24 PT",
+      "image_url": "https://schipper.ai/posts/parallel-coding-agents/fd-dev-loop.png",
+      "summary_en": "Shows how to coordinate multiple coding agents in parallel using tmux panes and Markdown specs, illustrating a scalable human-AI collaboration workflow.",
+      "summary_zh": "介绍用 tmux 窗格与 Markdown 规范来并行协作代码代理，展示人机协同编码的实用方法。",
+      "hn": {
+        "id": 47218318,
+        "type": "story",
+        "by": "schipperai",
+        "score": 182,
+        "descendants": 136,
+        "time": 1772461455,
+        "comments_url": "https://news.ycombinator.com/item?id=47218318"
+      },
+      "tags": [
+        "Programming",
+        "DevOps",
+        "AI"
+      ],
+      "hot_score": 0.17
+    }
+  ]
+}

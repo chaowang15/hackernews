@@ -1,0 +1,1179 @@
+{
+  "meta": {
+    "mode": "best",
+    "source": "https://news.ycombinator.com/",
+    "api": "https://github.com/HackerNews/API",
+    "count_requested": 50,
+    "count_written": 50,
+    "reused_same_day": 0,
+    "reused_cross_day": 20,
+    "new_llm_enriched": 17,
+    "scrape_time_display": "08:10, September 06, 2026 (PDT)",
+    "timezone": "America/Los_Angeles",
+    "date_dir": "2026/09/05",
+    "content_date": "2026-09-05",
+    "run_time_local": "08:10, September 06, 2026 (PDT)",
+    "run_time_utc": "2026-09-06 15:10:17 UTC",
+    "incremental": true,
+    "stories_max": 50,
+    "hot_score_time_utc": "2026-09-06 15:11:06 UTC"
+  },
+  "items": [
+    {
+      "title_en": "Intellectual Fly Is Open (2025)",
+      "url": "https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/",
+      "title_zh": "2025：知识之翼已开启",
+      "created_display": "Created: Sep 06, 2026 / 04:56 PT",
+      "image_url": null,
+      "summary_en": "Intellectual work is increasingly open to collaboration, signaling a shift in how IP and shared knowledge shape tech in 2025.",
+      "summary_zh": "知识与智力劳动越来越开放地协作，标志着在2025年知识产权与共享知识将如何塑造科技生态的转变。",
+      "hn": {
+        "id": 49585644,
+        "type": "story",
+        "by": "cyb0rg0",
+        "score": 225,
+        "descendants": 127,
+        "time": 1788695803,
+        "comments_url": "https://news.ycombinator.com/item?id=49585644"
+      },
+      "hot_score": 11.36,
+      "tags": [
+        "Open Source"
+      ]
+    },
+    {
+      "title_en": "Doomscrolling Ourselves to Death",
+      "url": "https://www.edwest.co.uk/p/doomscrolling-ourselves-to-death",
+      "title_zh": "滚动负面新闻把我们逼向崩溃",
+      "created_display": "Created: Sep 06, 2026 / 04:53 PT",
+      "image_url": "https://substackcdn.com/image/fetch/$s_!feJo!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F94fac428-a214-4f93-a506-c4d6a4918bb5_642x982.png",
+      "summary_en": "Doomscrolling fuels anxiety and drains well-being; practical digital hygiene steps like curating feeds and setting time limits can help restore balance.",
+      "summary_zh": "持续刷负面新闻会耗尽心理健康，造成焦虑与疲惫。作者建议减少暴露、设定时间限制并优化信息源，以保护身心健康。",
+      "hn": {
+        "id": 49585627,
+        "type": "story",
+        "by": "shubhamjain",
+        "score": 162,
+        "descendants": 102,
+        "time": 1788695620,
+        "comments_url": "https://news.ycombinator.com/item?id=49585627"
+      },
+      "hot_score": 8.03,
+      "tags": [
+        "Health"
+      ]
+    },
+    {
+      "title_en": "Isar Aerospace reaches orbit and deploys payloads on second flight",
+      "url": "https://isaraerospace.com/press/history-for-european-spaceflight-isar-aerospace-reaches-orbit-and-deploys-payloads-on-second-flight",
+      "title_zh": "Isar Aerospace完成第二次轨道飞行并部署载荷",
+      "created_display": "Created: Sep 06, 2026 / 00:21 PT",
+      "image_url": "https://www.isaraerospace.com/images/_1200x630_crop_center-center_none/social-media-image@1200x627.jpg",
+      "summary_en": "Isar Aerospace reached orbit on its second flight and deployed multiple payloads, marking a major milestone for European small-launch capability. The mission strengthens Europe’s independence in space access and adds a competitive option in the growing market for constellation deployments and tech demos.",
+      "summary_zh": "Isar Aerospace 在其第二次飞行中进入轨道并部署多枚载荷，标志着欧洲小型发射能力的重大里程碑。此成就提升了欧洲在太空访问方面的自主性，并为卫星星座部署和技术演示提供了新的竞争选择。",
+      "hn": {
+        "id": 49584083,
+        "type": "story",
+        "by": "mpweiher",
+        "score": 380,
+        "descendants": 106,
+        "time": 1788679266,
+        "comments_url": "https://news.ycombinator.com/item?id=49584083"
+      },
+      "tags": [
+        "Space"
+      ],
+      "hot_score": 6.19
+    },
+    {
+      "title_en": "You Don't Have a Right to Safe Drinking Water, US Court Rules",
+      "url": "https://www.motherjones.com/politics/2026/09/drinking-water-mississippi-lawsuit/",
+      "title_zh": "美国法院裁定公民无宪法层面的安全饮用水权利",
+      "created_display": "Created: Sep 06, 2026 / 02:14 PT",
+      "image_url": "https://www.motherjones.com/wp-content/uploads/2026/09/jackson-ms-resized.jpg?w=1200&h=630&crop=1",
+      "summary_en": "A federal court ruled that there is no constitutional right to safe drinking water, complicating public health litigation against governments or utilities over water quality. The decision narrows legal pathways for communities facing contamination and may shift how such cases are pursued.",
+      "summary_zh": "联邦法院裁定公民无宪法层面的安全饮用水权利，使就水质问题对政府或公共事业提起诉讼变得更困难。该判决缩窄了受污染社区的法律救济途径，可能改变此类案件的诉讼策略。",
+      "hn": {
+        "id": 49584637,
+        "type": "story",
+        "by": "vrganj",
+        "score": 208,
+        "descendants": 147,
+        "time": 1788686062,
+        "comments_url": "https://news.ycombinator.com/item?id=49584637"
+      },
+      "tags": [
+        "Legal",
+        "Politics",
+        "Health"
+      ],
+      "hot_score": 4.96
+    },
+    {
+      "title_en": "I Changed My License",
+      "url": "https://bergie.iki.fi/blog/eupl/",
+      "title_zh": "我改变了我的许可证",
+      "created_display": "Created: Sep 06, 2026 / 03:39 PT",
+      "image_url": "https://d2vqpl3tx84ay5.cloudfront.net/2026/EU-flags.jpg",
+      "summary_en": "The author explains migrating to the European Union Public License (EUPL), discussing implications for reuse, compatibility, and the open-source ecosystem.",
+      "summary_zh": "作者解释将许可协议改为欧盟公共许可证(EUPL)，讨论对再利用、兼容性及开源项目生态的影响。",
+      "hn": {
+        "id": 49585161,
+        "type": "story",
+        "by": "jllyhill",
+        "score": 117,
+        "descendants": 128,
+        "time": 1788691184,
+        "comments_url": "https://news.ycombinator.com/item?id=49585161"
+      },
+      "hot_score": 3.97,
+      "tags": [
+        "Open Source",
+        "Legal"
+      ]
+    },
+    {
+      "title_en": "Cloud in a Bottle: making self-hosting accessible to everyone",
+      "url": "https://cloudinabottle.org/blog/launch-post",
+      "title_zh": "瓶中云：让自托管更易触达",
+      "created_display": "Created: Sep 05, 2026 / 17:03 PT",
+      "image_url": "https://cloudinabottle.org/static/img/social-card.png",
+      "summary_en": "A compact, user-friendly self-hosting platform is introduced to lower the barrier to running personal cloud services. It highlights portability, minimal setup, and a streamlined experience for non-experts.",
+      "summary_zh": "这篇发布文章介绍了‘瓶中云’，一个紧凑且易用的自托管平台，旨在降低个人云服务的门槛。强调可移植性、极简设置，以及对非技术用户的顺畅体验。若落地，可能让个人云托管更易普及，同时需关注安全与维护等挑战。",
+      "hn": {
+        "id": 49582000,
+        "type": "story",
+        "by": "zplizzi",
+        "score": 518,
+        "descendants": 256,
+        "time": 1788653009,
+        "comments_url": "https://news.ycombinator.com/item?id=49582000"
+      },
+      "tags": [
+        "DevOps",
+        "Web"
+      ],
+      "hot_score": 3.11
+    },
+    {
+      "title_en": "Chrome again exempts Google from user site data settings",
+      "url": "https://lapcatsoftware.com/articles/2026/9/1.html",
+      "title_zh": "Chrome 再次让谷歌绕过用户站点数据设置",
+      "created_display": "Created: Sep 05, 2026 / 16:39 PT",
+      "image_url": "https://lapcatsoftware.com/articles/2026/9/1-images/1.png",
+      "summary_en": "Chrome reportedly exempts Google services from site data settings, complicating privacy expectations for users. The piece underscores ongoing tension between browser privacy controls and platform owners.",
+      "summary_zh": "报道显示 Chrome 对谷歌自家服务在站点数据设置上的豁免，提升隐私保护的难度并改变用户的预期。凸显浏览器隐私控制与平台方之间的博弈，以及用户在数据处理上的风险。",
+      "hn": {
+        "id": 49581870,
+        "type": "story",
+        "by": "ExMachina73",
+        "score": 513,
+        "descendants": 92,
+        "time": 1788651587,
+        "comments_url": "https://news.ycombinator.com/item?id=49581870"
+      },
+      "tags": [
+        "Privacy",
+        "Web"
+      ],
+      "hot_score": 2.96
+    },
+    {
+      "title_en": "Private German rocket makes history, reaches orbit from European soil",
+      "url": "https://www.space.com/space-exploration/launches-spacecraft/isar-aerospace-second-launch-norway-andoya-spaceport-spectrum-rocket",
+      "title_zh": "德国民营火箭实现历史性突破：从欧洲本土进入轨道",
+      "created_display": "Created: Sep 05, 2026 / 13:31 PT",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/K5YFiwFEXDGQeTecwrNxcY-2560-80.jpg",
+      "summary_en": "Germany's private space company achieved an orbital launch from European soil, a milestone for Europe's private spaceflight. The achievement demonstrates mature, in-region launch capability and could reshape the European launch market.",
+      "summary_zh": "德国一家民营航天企业实现了从欧洲本土发射进入轨道，成为欧洲私营航天的重要里程碑。这一成就显示欧洲具备成熟的本土发射能力，可能重新塑造欧洲发射市场的竞争格局。",
+      "hn": {
+        "id": 49580369,
+        "type": "story",
+        "by": "bookmtn",
+        "score": 677,
+        "descendants": 364,
+        "time": 1788640298,
+        "comments_url": "https://news.ycombinator.com/item?id=49580369"
+      },
+      "tags": [
+        "Space"
+      ],
+      "hot_score": 2.9
+    },
+    {
+      "title_en": "The revolt of the reader",
+      "url": "https://bcantrill.dtrace.org/2026/09/05/the-revolt-of-the-reader/",
+      "title_zh": "读者的反叛",
+      "created_display": "Created: Sep 05, 2026 / 14:37 PT",
+      "image_url": null,
+      "summary_en": "The post argues that readers are pushing back against over-automation and AI-generated content, advocating for trustworthy, human-curated material. It emphasizes the enduring value of careful reading and editorial judgment.",
+      "summary_zh": "文章指出读者正在抵制过度自动化与 AI 生成内容，呼吁回归可信赖、由人类编辑把关的材料。强调细读和编辑判断的长期价值。",
+      "hn": {
+        "id": 49580939,
+        "type": "story",
+        "by": "chmaynard",
+        "score": 483,
+        "descendants": 224,
+        "time": 1788644269,
+        "comments_url": "https://news.ycombinator.com/item?id=49580939"
+      },
+      "tags": [
+        "AI",
+        "Culture"
+      ],
+      "hot_score": 2.28
+    },
+    {
+      "title_en": "The Real Luxuries In Life",
+      "url": "https://feld.com/archives/2026/09/the-real-luxuries-in-life/",
+      "title_zh": "人生中真正的奢侈",
+      "created_display": "Created: Sep 05, 2026 / 10:46 PT",
+      "image_url": "https://feld.com/og-default.png",
+      "summary_en": "Real luxuries aren't gadgets or wealth. Time, health, and meaningful relationships are what truly matter, and the piece urges founders to protect these assets as they build.",
+      "summary_zh": "真正的奢侈不是金钱或物质，而是时间、健康和意义深厚的人际关系。文章劝创业者在追求成就的同时，优先保护这些最宝贵的资产。",
+      "hn": {
+        "id": 49578866,
+        "type": "story",
+        "by": "tosh",
+        "score": 495,
+        "descendants": 234,
+        "time": 1788630376,
+        "comments_url": "https://news.ycombinator.com/item?id=49578866"
+      },
+      "hot_score": 1.69,
+      "tags": [
+        "Health",
+        "Culture"
+      ]
+    },
+    {
+      "title_en": "GPT-6 Astra on robot arms",
+      "url": "https://openai.robocurve.org/gpt-6-astra/",
+      "title_zh": "GPT-6 Astra 在机器人臂上的应用",
+      "created_display": "Created: Sep 05, 2026 / 18:52 PT",
+      "image_url": "https://openai.robocurve.org/gpt-6-astra/og.jpg",
+      "summary_en": "A demonstration shows a GPT-6 style model guiding or coding robot arms, hinting at tighter AI-robot collaboration for manipulation tasks. This points to faster, more flexible AI-driven control in robotics.",
+      "summary_zh": "展示了一个 GPT-6 类模型协同控制机器人臂的演示，暗示 AI 与机器人在执行操作任务时的更紧密协作。此类应用可能降低对专业机器人编程的依赖，加速复杂任务的实现。",
+      "hn": {
+        "id": 49582582,
+        "type": "story",
+        "by": "Anon84",
+        "score": 213,
+        "descendants": 171,
+        "time": 1788659565,
+        "comments_url": "https://news.ycombinator.com/item?id=49582582"
+      },
+      "tags": [
+        "AI",
+        "Hardware"
+      ],
+      "hot_score": 1.56
+    },
+    {
+      "title_en": "LLMs as a Cognitive Virus",
+      "url": "https://arxiv.org/abs/2609.03344",
+      "title_zh": "LLMs 将大语言模型视为认知病毒",
+      "created_display": "Created: Sep 05, 2026 / 13:02 PT",
+      "image_url": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+      "summary_en": "The paper argues LLMs act as cognitive viruses, disseminating reasoning patterns and biases through interactions. It highlights implications for AI safety, governance, and how to inoculate models against harmful propagation.",
+      "summary_zh": "本文将大型语言模型视作“认知病毒”，通过交互传播推理模式与偏见。讨论了对 AI 安全、治理的影响，以及如何对模型进行防护与免疫化。",
+      "hn": {
+        "id": 49580164,
+        "type": "story",
+        "by": "canjobear",
+        "score": 337,
+        "descendants": 229,
+        "time": 1788638555,
+        "comments_url": "https://news.ycombinator.com/item?id=49580164"
+      },
+      "tags": [
+        "AI",
+        "Security"
+      ],
+      "hot_score": 1.38
+    },
+    {
+      "title_en": "Flock used >100 times to track veteran who recorded traffic stop",
+      "url": "https://reason.com/2026/09/02/wisconsin-cops-used-flock-over-100-times-to-track-a-navy-veteran-after-he-lawfully-recorded-a-traffic-stop/",
+      "title_zh": "Flock监控被用来追踪记录交通停靠的退役军人超过100次",
+      "created_display": "Created: Sep 05, 2026 / 09:48 PT",
+      "image_url": "https://d2eehagpk5cl65.cloudfront.net/img/q60/uploads/2026/09/PoliceFlockv2.jpg",
+      "summary_en": "Police used a commercial surveillance network to track a Navy veteran more than 100 times after he lawfully recorded a traffic stop. The report highlights how surveillance tools can be repurposed for relentless monitoring, raising questions about accountability and civil liberties.",
+      "summary_zh": "警方在一名合法记录交通停靠的海军退伍兵身上，超过100次动用Flock摄像头进行跟踪。此举凸显监控工具的滥用风险，并引发对执法透明度和公民自由的质疑。",
+      "hn": {
+        "id": 49578310,
+        "type": "story",
+        "by": "bbatsell",
+        "score": 367,
+        "descendants": 195,
+        "time": 1788626893,
+        "comments_url": "https://news.ycombinator.com/item?id=49578310"
+      },
+      "hot_score": 1.17,
+      "tags": [
+        "Privacy",
+        "Politics"
+      ]
+    },
+    {
+      "title_en": "The \"$60 Gaming PC\" – AMD BC-250 (2025)",
+      "url": "https://devquasar.com/hardware/the-60-gaming-pc-amd-bc-250/",
+      "title_zh": "60美元游戏电脑——AMD BC-250（2025）",
+      "created_display": "Created: Sep 05, 2026 / 06:36 PT",
+      "image_url": null,
+      "summary_en": "A budget-focused look at the AMD BC-250-based build dubbed the '$60 Gaming PC', evaluating what modern titles run at low settings and the expected frame rates. The piece situates the affordability trend in PC gaming hardware, detailing the trade-offs in CPU, GPU, and memory to achieve playable experiences. It's relevant for developers and enthusiasts tracking the frontier of ultra-cheap, approachable gaming hardware.",
+      "summary_zh": "聚焦极低预算的 AMD BC-250 架构，评测号称‘60美元游戏电脑’的性能与可玩性。文中分析了在 CPU、GPU、内存等方面需要做出的取舍，以及低成本硬件在当代主流游戏中的表现与局限。对于关注低成本游戏设备的开发者和爱好者具有现实参考意义。",
+      "hn": {
+        "id": 49576386,
+        "type": "story",
+        "by": "networked",
+        "score": 362,
+        "descendants": 106,
+        "time": 1788615398,
+        "comments_url": "https://news.ycombinator.com/item?id=49576386"
+      },
+      "tags": [
+        "Hardware",
+        "Gaming",
+        "Privacy"
+      ],
+      "hot_score": 0.92
+    },
+    {
+      "title_en": "Learn Programming with OCaml",
+      "url": "https://usr.lmf.cnrs.fr/lpo/",
+      "title_zh": "用 OCaml 学编程",
+      "created_display": "Created: Sep 05, 2026 / 09:45 PT",
+      "image_url": null,
+      "summary_en": "OCaml is presented as a practical entry point for learning programming, emphasizing a functional style and a strong type system. It covers core language features such as pattern matching, algebraic data types, and modules, with hands-on examples and exercises to build intuition.",
+      "summary_zh": "该资源将 OCaml 作为学习编程的实用入口，强调函数式编程风格和强类型系统。内容涵盖模式匹配、代数数据类型和模块等语言要点，并配有练习与示例，帮助初学者建立直觉。",
+      "hn": {
+        "id": 49578280,
+        "type": "story",
+        "by": "elvis70",
+        "score": 291,
+        "descendants": 123,
+        "time": 1788626702,
+        "comments_url": "https://news.ycombinator.com/item?id=49578280"
+      },
+      "tags": [
+        "Programming",
+        "Education"
+      ],
+      "hot_score": 0.92
+    },
+    {
+      "title_en": "Actively exploited sandbox RCE in all Chromium versions",
+      "url": "https://nvd.nist.gov/vuln/detail/cve-2026-85046",
+      "title_zh": "所有 Chromium 版本均被主动利用的沙箱远程代码执行漏洞",
+      "created_display": "Created: Sep 04, 2026 / 14:52 PT",
+      "image_url": null,
+      "summary_en": "A sandbox escape vulnerability in Chromium has been actively exploited across all versions, enabling attackers to break out of the browser's sandbox and run arbitrary code. The broad impact across Chromium-based browsers makes timely patching critical; users should update to the latest build and apply recommended mitigations as they become available.",
+      "summary_zh": "Chromium 的沙箱逃逸漏洞正在被主动利用，影响所有版本，使攻击者能够突破沙箱执行任意代码。由于受影响的浏览器生态广泛，及时打补丁至关重要，用户应尽快更新到最新版本并遵循厂商的缓解建议。",
+      "hn": {
+        "id": 49570669,
+        "type": "story",
+        "by": "negura",
+        "score": 785,
+        "descendants": 478,
+        "time": 1788558721,
+        "comments_url": "https://news.ycombinator.com/item?id=49570669"
+      },
+      "tags": [
+        "Security",
+        "Web"
+      ],
+      "hot_score": 0.89
+    },
+    {
+      "title_en": "Nitter has more working instances than before the takedowns",
+      "url": "https://codeberg.org/mv12star/shitter/wiki/Instances",
+      "title_zh": "Nitter 在打击行动后仍有更多可用实例",
+      "created_display": "Created: Sep 04, 2026 / 17:04 PT",
+      "image_url": "https://codeberg.org/mv12star/shitter/-/summary-card",
+      "summary_en": "Despite takedowns, the Nitter ecosystem now has more working instances than before, reflecting a resilient, community-driven effort to keep access to social feeds without official APIs. The rebound underscores how decentralized fronts can persist even under pressure, shaping how people consume public posts and protect privacy.",
+      "summary_zh": "尽管遭到封禁，Nitter 的工作实例数量仍然比之前更多，显示出社区驱动的韧性，确保在无官方 API 的情况下仍能访问社交内容。此现象说明去中心化的前端在高压下仍能持续存在，影响用户获取公开信息和隐私保护的方式。",
+      "hn": {
+        "id": 49571634,
+        "type": "story",
+        "by": "Cider9986",
+        "score": 696,
+        "descendants": 371,
+        "time": 1788566656,
+        "comments_url": "https://news.ycombinator.com/item?id=49571634"
+      },
+      "tags": [
+        "Open Source",
+        "Privacy"
+      ],
+      "hot_score": 0.86
+    },
+    {
+      "title_en": "How the Disaster of \"Forever Chemicals\" Was Kept Secret",
+      "url": "https://www.propublica.org/podcast/forever-chemicals-pfas-pfos-3m-secret-kris-hansen",
+      "title_zh": "“永久化学物质”的隐秘灾难如何被掩盖",
+      "created_display": "Created: Sep 05, 2026 / 07:40 PT",
+      "image_url": "https://www.propublica.org/wp-content/uploads/2026/09/Podcast_social-image_3m_final.jpg?w=1200",
+      "summary_en": "The podcast reveals how PFAS/PFOS contamination and corporate/government hush efforts kept harmful chemicals from public scrutiny, including safety assurances and regulatory capture. It explains long-tail health risks and obstacles to disclosure, shaping current debates on environmental justice.",
+      "summary_zh": "这档播客揭示了PFAS等永久化学物质的污染如何被隐瞒，企业与监管机构共同压低警示。文章分析了健康风险与信息披露的障碍，以及它们对环境正义讨论的影响。",
+      "hn": {
+        "id": 49576986,
+        "type": "story",
+        "by": "stevenwoo",
+        "score": 315,
+        "descendants": 100,
+        "time": 1788619252,
+        "comments_url": "https://news.ycombinator.com/item?id=49576986"
+      },
+      "hot_score": 0.86,
+      "tags": [
+        "Science",
+        "Politics",
+        "Health"
+      ]
+    },
+    {
+      "title_en": "Wikimedia Foundation Workers Overwhelmingly Vote to Form Union with CWA",
+      "url": "https://wikiworkersunited.org/announcements/2026-09-04-us-wikimedia-foundation-workers-overwhelmingly-vote-to-form-union-with-cwa/",
+      "title_zh": "维基媒体基金会员工压倒性投票成立工会，加入CWA",
+      "created_display": "Created: Sep 05, 2026 / 09:13 PT",
+      "image_url": "https://wikiworkersunited.org/assets/img/logo.svg",
+      "summary_en": "Wikimedia Foundation staff vote to unionize with CWA; the result signals growing labor organizing in major tech nonprofits and could influence governance and budget decisions.",
+      "summary_zh": "维基媒体基金会员工压倒性多数投票成立工会，与美国通信工会(CWA)结盟。这一举动标志着大型科技非营利组织中的劳工组织化进程加速，可能影响治理与薪酬福利谈判。",
+      "hn": {
+        "id": 49577975,
+        "type": "story",
+        "by": "robin_reala",
+        "score": 284,
+        "descendants": 154,
+        "time": 1788624837,
+        "comments_url": "https://news.ycombinator.com/item?id=49577975"
+      },
+      "hot_score": 0.86,
+      "tags": [
+        "Politics"
+      ]
+    },
+    {
+      "title_en": "Global warming will exceed 1.5-degree limit, UN says",
+      "url": "https://www.pbs.org/newshour/science/global-warming-will-exceed-1-5-degree-limit-un-says-in-report-that-maps-path-back-below-danger-zone",
+      "title_zh": "联合国称全球变暖将超过1.5摄氏度上限",
+      "created_display": "Created: Sep 05, 2026 / 06:02 PT",
+      "image_url": "https://d3i6fh83elv35t.cloudfront.net/static/2026/09/2026-09-03T192943Z_1189723666_RC2NBNAQY6VR_RTRMADP_3_CLIMATE-CHANGE-SWISS-GLACIERS-1024x683.jpg",
+      "summary_en": "The U.N. warns warming will exceed the 1.5°C target this century, underscoring the urgency of rapid decarbonization. The report maps actions across energy, transport, land use, and finance to bend the trajectory back below danger levels.",
+      "summary_zh": "联合国警告全球变暖将在本世纪超过1.5°C上限，强调快速减碳的紧迫性。报告勾勒了在能源、交通、土地用途与金融等领域的行动路径，帮助把趋势扭回至风险区以下。",
+      "hn": {
+        "id": 49576124,
+        "type": "story",
+        "by": "ijidak",
+        "score": 328,
+        "descendants": 374,
+        "time": 1788613334,
+        "comments_url": "https://news.ycombinator.com/item?id=49576124"
+      },
+      "hot_score": 0.8,
+      "tags": [
+        "Science",
+        "Energy",
+        "Finance"
+      ]
+    },
+    {
+      "title_en": "Formalizing Fermat's Last Theorem",
+      "url": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
+      "title_zh": "费马大定理的形式化",
+      "created_display": "Created: Sep 04, 2026 / 11:42 PT",
+      "image_url": "https://cdn.sanity.io/images/4zrzovbb/website/578f91575c42231f0994e341014614255149af80-1200x630.jpg",
+      "summary_en": "Researchers formalize Fermat's Last Theorem in a proof assistant, producing a machine-checked verification of the centuries-old result. The effort demonstrates the maturing capability of formal methods to capture famous math proofs and hints at broader tooling that could aid verification of complex theorems. It signals potential for cross-pollination between pure mathematics and software verification.",
+      "summary_zh": "研究者在证明助手中对费马大定理进行了形式化，并获得机器可检验的证明。此举体现了形式化方法在验证经典数学结论方面的成熟度，并暗示其在未来支持更复杂定理的潜力。它也展示了数学与软件验证工具之间日益紧密的协作前景。",
+      "hn": {
+        "id": 49568506,
+        "type": "story",
+        "by": "jlebar",
+        "score": 759,
+        "descendants": 494,
+        "time": 1788547376,
+        "comments_url": "https://news.ycombinator.com/item?id=49568506"
+      },
+      "tags": [
+        "Science"
+      ],
+      "hot_score": 0.76
+    },
+    {
+      "title_en": "Netherlands pulls gold out of the US",
+      "url": "https://www.abc.net.au/news/2026-09-04/why-the-netherlands-moved-its-gold-from-us-and-canada/107111990",
+      "title_zh": "荷兰因担忧地缘政治动荡将黄金从美国撤出",
+      "created_display": "Created: Sep 05, 2026 / 03:14 PT",
+      "image_url": "https://live-production.wcms.abc-cdn.net.au/8d210aff4e95385e1e96d3b8dfcc3f2f?impolicy=wcms_watermark_news&cropH=2204&cropW=3918&xPos=0&yPos=517&width=862&height=485&imformat=generic",
+      "summary_en": "The Dutch central bank moved portions of its gold reserves away from U.S. and Canadian vaults amid fears of geopolitical unrest and supply-chain disruption. The move signals a broader trend of asset diversification and concern about custody risk in foreign vaults, with implications for how central banks think about risk in reserve management.",
+      "summary_zh": "荷兰央行在担忧地缘政治动荡与供应链中断的情境下，正将部分黄金储备从美国与加拿大的金库撤出。这反映了央行在储备管理中追求分散风险的趋势，并对跨境保管的安全性提出了更高关注。",
+      "hn": {
+        "id": 49575034,
+        "type": "story",
+        "by": "daniel_iversen",
+        "score": 365,
+        "descendants": 262,
+        "time": 1788603268,
+        "comments_url": "https://news.ycombinator.com/item?id=49575034"
+      },
+      "tags": [
+        "Finance"
+      ],
+      "hot_score": 0.76
+    },
+    {
+      "title_en": "South African diamond mines are closing due to weak sales and lab-grown stones",
+      "url": "https://www.wsj.com/business/diamond-mines-are-closing-and-south-africans-have-few-alternatives-fa3b8cbf",
+      "title_zh": "南非钻石矿因销量低迷与实验室培育宝石冲击而关闭",
+      "created_display": "Created: Sep 05, 2026 / 14:17 PT",
+      "image_url": null,
+      "summary_en": "Due to weak demand and competition from lab-grown stones, South Africa's diamond mines are shutting down, with broader implications for jobs and regional economies and a shift in the diamond market.",
+      "summary_zh": "由于需求疲软和实验室培育宝石冲击传统市场，南非钻石矿业正在关闭。这将对就业和地方经济产生深远影响，同时也凸显珠宝行业向替代材料转型的压力。",
+      "hn": {
+        "id": 49580778,
+        "type": "story",
+        "by": "bookofjoe",
+        "score": 167,
+        "descendants": 146,
+        "time": 1788643020,
+        "comments_url": "https://news.ycombinator.com/item?id=49580778"
+      },
+      "hot_score": 0.76,
+      "tags": [
+        "Business"
+      ]
+    },
+    {
+      "title_en": "AI handles incidents, engineers lose touch with their systems",
+      "url": "https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems",
+      "title_zh": "AI 处理事故，工程师逐渐与系统失去联系",
+      "created_display": "Created: Sep 05, 2026 / 00:52 PT",
+      "image_url": "https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems/opengraph-image/primary?c892ecc60b0c6273",
+      "summary_en": "AI can autonomously handle incident responses, but engineers may lose touch with the system's current state. That detachment creates blind spots and raises governance and accountability concerns, underscoring the need for human-in-the-loop dashboards and audit trails.",
+      "summary_zh": "AI 可以自治处理事故响应，但工程师对系统当前状态的理解可能被削弱，容易产生盲点并引发治理与问责上的担忧。因此需要在工作流程中保留人工监督的仪表板与可审计的记录。",
+      "hn": {
+        "id": 49574167,
+        "type": "story",
+        "by": "sylvainkalache",
+        "score": 393,
+        "descendants": 335,
+        "time": 1788594770,
+        "comments_url": "https://news.ycombinator.com/item?id=49574167"
+      },
+      "tags": [
+        "AI",
+        "DevOps"
+      ],
+      "hot_score": 0.71
+    },
+    {
+      "title_en": "Record-High 89% in U.S. Say Government Corruption Widespread",
+      "url": "https://news.gallup.com/poll/713933/record-high-say-government-corruption-widespread.aspx",
+      "title_zh": "美国创纪录的89%认为政府腐败普遍存在",
+      "created_display": "Created: Sep 04, 2026 / 15:03 PT",
+      "image_url": "https://imagekit.gallup.com/fusion/tr:n-emd_soc_meta_og/POLL/85e4dc00-82a3-45cb-b881-981ea10dfa90.jpg",
+      "summary_en": "Gallup reports a record 89% of Americans see government corruption as widespread, signaling deep distrust in institutions. For technologists, this sentiment shapes policy considerations around transparency, regulation, and the social context of digital infrastructure.",
+      "summary_zh": "盖洛普调查显示有创纪录的 89% 的美国人认为政府腐败普遍存在，反映了对机构的深度不信任。对技术政策与数字治理而言，这一情绪会影响透明度、监管与公共基础设施的信任建设。",
+      "hn": {
+        "id": 49570772,
+        "type": "story",
+        "by": "karakoram",
+        "score": 569,
+        "descendants": 528,
+        "time": 1788559396,
+        "comments_url": "https://news.ycombinator.com/item?id=49570772"
+      },
+      "tags": [
+        "Politics",
+        "DevOps"
+      ],
+      "hot_score": 0.65
+    },
+    {
+      "title_en": "Git hosting that never leaves Europe",
+      "url": "https://pushin.eu",
+      "title_zh": "永远停留在欧洲的 Git 托管服务",
+      "created_display": "Created: Sep 04, 2026 / 23:31 PT",
+      "image_url": "https://pushin.eu/-/og/home",
+      "summary_en": "Pushin.eu offers Git hosting that stays within European data centers, aligning with EU data sovereignty and privacy rules. It targets teams needing compliance, reduced vendor lock-in, and stricter data controls, especially for regulated industries.",
+      "summary_zh": "Pushin.eu 提供数据始终保留在欧洲数据中心的 Git 托管，符合欧盟数据主权与隐私规则。面向需要合规、降低供应商锁定和严格数据控制的团队，尤用于受监管行业。",
+      "hn": {
+        "id": 49573680,
+        "type": "story",
+        "by": "sevenseacat",
+        "score": 351,
+        "descendants": 160,
+        "time": 1788589909,
+        "comments_url": "https://news.ycombinator.com/item?id=49573680"
+      },
+      "tags": [
+        "Privacy",
+        "Business",
+        "Programming",
+        "Politics"
+      ],
+      "hot_score": 0.59
+    },
+    {
+      "title_en": "Statichost.eu – European static site hosting",
+      "url": "https://www.statichost.eu/",
+      "title_zh": "Statichost.eu：欧洲静态网站托管服务",
+      "created_display": "Created: Sep 04, 2026 / 13:34 PT",
+      "image_url": "https://www.statichost.eu/%20preview.png",
+      "summary_en": "Statichost.eu offers Europe-based static site hosting with privacy-focused features and fast delivery. By leveraging Git-based workflows and data locality, it serves as a privacy-conscious alternative to US-centric hosts for developers hosting personal sites or documentation.",
+      "summary_zh": "Statichost.eu 提供位于欧洲的静态站点托管，强调隐私与快速交付，并支持基于 Git 的部署工作流。对于希望数据在地理上留在欧洲、并注重治理与隐私的开发者来说，这是 US 主流托管的可选替代方案。",
+      "hn": {
+        "id": 49569896,
+        "type": "story",
+        "by": "p4bl0",
+        "score": 489,
+        "descendants": 236,
+        "time": 1788554089,
+        "comments_url": "https://news.ycombinator.com/item?id=49569896"
+      },
+      "tags": [
+        "Privacy",
+        "DevOps",
+        "Web",
+        "Programming"
+      ],
+      "hot_score": 0.52
+    },
+    {
+      "title_en": "Visualizing Rust's Vtables: How dyn Trait Works In Memory",
+      "url": "https://sofiabelen.github.io/projects/visualizing-rusts-vtables-how-dyn-trait-works-in-memory/",
+      "title_zh": "Rust 的虚表可视化：dyn Trait 在内存中的工作原理",
+      "created_display": "Created: Sep 05, 2026 / 06:31 PT",
+      "image_url": "https://sofiabelen.github.io/projects/visualizing-rusts-vtables-how-dyn-trait-works-in-memory/Rust_fungus_-_Flickr_-_gailhampshire.jpg",
+      "summary_en": "A visualization of Rust's dynamic trait objects shows how dyn Trait uses a fat pointer and a vtable to dispatch method calls. It clarifies how memory layout and dispatch costs affect polymorphism in real-world Rust code.",
+      "summary_zh": "这篇可视化文章展示了 Rust 动态 trait 对象如何通过胖指针和 vtable 实现方法分发。它解释了内存布局与分发成本对真实世界 Rust 代码中多态性的影响。",
+      "hn": {
+        "id": 49576343,
+        "type": "story",
+        "by": "torutofu",
+        "score": 195,
+        "descendants": 50,
+        "time": 1788615065,
+        "comments_url": "https://news.ycombinator.com/item?id=49576343"
+      },
+      "tags": [
+        "Programming",
+        "Science"
+      ],
+      "hot_score": 0.49
+    },
+    {
+      "title_en": "Shutting down our public encrypted DNS",
+      "url": "https://mullvad.net/en/blog/shutting-down-our-public-encrypted-dns-servers-and-sponsoring-quad9-instead",
+      "title_zh": "Shutting down our public encrypted DNS",
+      "created_display": "Created: Sep 04, 2026 / 11:50 PT",
+      "image_url": "https://mullvad.net/press/MullvadVPN_logo_Round_RGB_Color_positive.png",
+      "summary_en": "Mullvad is ending its public encrypted DNS service and redirecting sponsorship to Quad9, arguing that Quad9 offers robust, privacy-minded DNS resolution at scale. The move highlights ongoing questions about who runs trusted DNS infrastructure and how governance, performance, and privacy tradeoffs influence endpoint security.",
+      "summary_zh": "Mullvad 结束其公开的加密 DNS 服务，并改为资助 Quad9，表示 Quad9 在规模化的隐私友好 DNS 解析方面更具实力。这一举动凸显了谁来运营可信 DNS 基础设施的问题，以及治理、性能与隐私之间的权衡对端点安全的影响。",
+      "hn": {
+        "id": 49568579,
+        "type": "story",
+        "by": "mywacaday",
+        "score": 469,
+        "descendants": 240,
+        "time": 1788547828,
+        "comments_url": "https://news.ycombinator.com/item?id=49568579"
+      },
+      "tags": [
+        "Privacy",
+        "Security",
+        "DevOps"
+      ],
+      "hot_score": 0.47
+    },
+    {
+      "title_en": "Can AI design circuit boards yet?",
+      "url": "https://eebench.org/blog/can-ai-design-circuit-boards-yet/",
+      "title_zh": "AI 现在能设计电路板吗？",
+      "created_display": "Created: Sep 04, 2026 / 12:48 PT",
+      "image_url": "https://eebench.org/src/can-ai-design-circuit-boards-yet.png",
+      "summary_en": "AI tools are making progress on circuit-board tasks, but practical, production-ready PCB design still requires human oversight. The discussion surveys current capabilities, limits, and what remains to be solved before AI can fully design complex PCBs.",
+      "summary_zh": "AI 工具在电路板任务上取得进展，但实际投入生产的 PCB 设计仍需人类监督。文章盘点了当前的能力、局限，以及在 AI 能否完整设计复杂 PCB 之前还需要解决的问题。",
+      "hn": {
+        "id": 49569366,
+        "type": "story",
+        "by": "iopapa",
+        "score": 412,
+        "descendants": 226,
+        "time": 1788551309,
+        "comments_url": "https://news.ycombinator.com/item?id=49569366"
+      },
+      "tags": [
+        "AI"
+      ],
+      "hot_score": 0.43
+    },
+    {
+      "title_en": ".gitignore Everything by Default",
+      "url": "https://packagemain.tech/p/gitignore-everything-by-default",
+      "title_zh": "默认忽略一切的 Git 忽略规则",
+      "created_display": "Created: Sep 05, 2026 / 06:19 PT",
+      "image_url": "https://substackcdn.com/image/fetch/$s_!n_v-!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F66737cc1-4fea-4340-a7cf-1401dc895d52_1280x720.jpeg",
+      "summary_en": "A discussion about changing default repository behavior to ignore everything unless explicitly tracked, challenging conventional workflows. The argument emphasizes reducing accidental commits of sensitive or large files, while noting onboarding and collaboration friction. It offers practical templates and policy considerations for teams.",
+      "summary_zh": "讨论将默认行为改为新仓库忽略一切，除非显式跟踪，这对传统工作流提出挑战。观点指出这种严格默认有助于减少无意提交敏感或大文件的情况，但也可能增加新成员的上手难度和协作成本，同时提供实用模板与实践要点。",
+      "hn": {
+        "id": 49576258,
+        "type": "story",
+        "by": "der_gopher",
+        "score": 173,
+        "descendants": 170,
+        "time": 1788614382,
+        "comments_url": "https://news.ycombinator.com/item?id=49576258"
+      },
+      "tags": [
+        "Programming",
+        "DevOps"
+      ],
+      "hot_score": 0.43
+    },
+    {
+      "title_en": "How the Tobacco Industry Drove the Rise of Ultra-Processed Foods (2025)",
+      "url": "https://vcresearch.berkeley.edu/news/how-tobacco-industry-drove-rise-ultra-processed-foods",
+      "title_zh": "烟草行业推动超加工食品崛起的幕后",
+      "created_display": "Created: Sep 05, 2026 / 09:14 PT",
+      "image_url": "https://vcresearch.berkeley.edu/themes/custom/vcr/assets/images/ucb-logo-blue.svg",
+      "summary_en": "The tobacco industry helped normalize ultra-processed foods by marketing, lobbying, and shaping consumer tastes, contributing to public health challenges; this ties into discussions of industry influence on nutrition policy.",
+      "summary_zh": "烟草行业通过市场营销、游说和影响消费口味，推动了超加工食品的兴起，进而带来公共卫生挑战。这揭示了行业影响对营养政策的作用。",
+      "hn": {
+        "id": 49577985,
+        "type": "story",
+        "by": "paimapi",
+        "score": 138,
+        "descendants": 122,
+        "time": 1788624874,
+        "comments_url": "https://news.ycombinator.com/item?id=49577985"
+      },
+      "hot_score": 0.42,
+      "tags": [
+        "Health",
+        "Science"
+      ]
+    },
+    {
+      "title_en": "Adult Film Producer Unmasks Prolific 'John DOE' Torrent Pirate as Meta Executive",
+      "url": "https://torrentfreak.com/adult-film-producer-unmasks-prolific-john-doe-torrent-pirate-as-meta-executive/",
+      "title_zh": "成人电影制片人揭露知名盗版者 John DOE 是 Meta 高管",
+      "created_display": "Created: Sep 04, 2026 / 09:46 PT",
+      "image_url": "https://torrentfreak.com/images/fappening-naked.jpg",
+      "summary_en": "An adult film producer exposes a prolific torrent pirate known as John Doe as a Meta executive, underscoring tensions between piracy, identity, and corporate accountability.",
+      "summary_zh": "一位成人电影制片人披露知名盗版者 John Doe 实为 Meta 高管，这揭示了盗版、身份与企业问责之间的张力。",
+      "hn": {
+        "id": 49567053,
+        "type": "story",
+        "by": "speckx",
+        "score": 432,
+        "descendants": 245,
+        "time": 1788540419,
+        "comments_url": "https://news.ycombinator.com/item?id=49567053"
+      },
+      "tags": [
+        "Legal",
+        "Privacy"
+      ],
+      "hot_score": 0.4
+    },
+    {
+      "title_en": "Show HN: Open-Source eInk Bike Computer",
+      "url": "https://opentrailpaper.com",
+      "title_zh": "Show HN: 开源电子墨水自行车电脑",
+      "created_display": "Created: Sep 04, 2026 / 10:18 PT",
+      "image_url": "https://opentrailpaper.com/img/logo.png",
+      "summary_en": "A Show HN on an open-source e-ink bike computer project, designed for low power and long battery life. The project invites community contributions to firmware and hardware, underscoring the appeal of hackable, energy-efficient outdoor electronics.",
+      "summary_zh": "展示式开发贴报道一个开源电子墨水自行车电脑项目，特点是低功耗和长电池寿命。该项目鼓励社区为固件和硬件贡献代码，凸显可定制、能源高效的户外电子设备的吸引力。",
+      "hn": {
+        "id": 49567437,
+        "type": "story",
+        "by": "stingrae",
+        "score": 403,
+        "descendants": 127,
+        "time": 1788542288,
+        "comments_url": "https://news.ycombinator.com/item?id=49567437"
+      },
+      "tags": [
+        "Show HN",
+        "Open Source",
+        "Hardware",
+        "Energy"
+      ],
+      "hot_score": 0.38
+    },
+    {
+      "title_en": "GPT-6 Astra on OpenRouter",
+      "url": "https://openrouter.ai/openai/gpt-6-astra",
+      "title_zh": "OpenRouter 上的 GPT-6 Astra",
+      "created_display": "Created: Sep 04, 2026 / 14:39 PT",
+      "image_url": "https://openrouter.ai/openai/gpt-6-astra/opengraph-image-1oizug?76b21746f88151e4",
+      "summary_en": "OpenRouter's GPT-6 Astra integration hints at running a GPT-6‑class model on home hardware or edge devices managed by OpenRouter. If proven, it could reduce cloud dependence and latency for developers, while raising questions about model access, hardware requirements, and safety controls.",
+      "summary_zh": "OpenRouter 将 GPT-6 Astra 集成，意味着在路由器等边缘设备上运行 GPT-6 级模型的可能性。若成真，可能降低对云端的依赖并降低延迟，同时也提出关于模型访问、硬件要求与安全控制的新问题。",
+      "hn": {
+        "id": 49570545,
+        "type": "story",
+        "by": "Topfi",
+        "score": 315,
+        "descendants": 228,
+        "time": 1788557959,
+        "comments_url": "https://news.ycombinator.com/item?id=49570545"
+      },
+      "tags": [
+        "AI",
+        "Hardware"
+      ],
+      "hot_score": 0.35
+    },
+    {
+      "title_en": "Portal by Spotify cut my Claude Code token usage by 90%",
+      "url": "https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90",
+      "title_zh": "Spotify 的 Portal 将 Claude Code 的令牌用量降低 90%",
+      "created_display": "Created: Sep 04, 2026 / 16:38 PT",
+      "image_url": "https://images.ctfassets.net/p762jor363g1/3cpzewWxmNFDmdAuYuPQVy/f57b117635dc5901dfe476da6927276b/Option_3.png",
+      "summary_en": "Spotify's Portal cuts Claude Code token usage by about 90%, dramatically reducing AI-assisted coding costs. The approach combines caching, rate limiting, and request shaping to optimize API usage across code-generation tasks.",
+      "summary_zh": "Spotify 的 Portal 将 Claude Code 的令牌用量降低约 90%，显著降低了 AI 辅助编码的成本。通过缓存、速率限制和请求塑形等手段优化代码生成任务的 API 使用。",
+      "hn": {
+        "id": 49571465,
+        "type": "story",
+        "by": "cebert",
+        "score": 261,
+        "descendants": 167,
+        "time": 1788565130,
+        "comments_url": "https://news.ycombinator.com/item?id=49571465"
+      },
+      "tags": [
+        "AI",
+        "Programming"
+      ],
+      "hot_score": 0.32
+    },
+    {
+      "title_en": "Why are European countries moving their gold out of North America?",
+      "url": "https://www.bbc.com/news/articles/cvgyn8q8gqxo",
+      "title_zh": "为何欧洲国家把黄金从北美运出？",
+      "created_display": "Created: Sep 04, 2026 / 22:52 PT",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/69ed/live/1f74ae20-a870-11f1-bbad-43eaf67b94b6.jpg",
+      "summary_en": "European nations are shifting portions of their gold reserves away from North American custody to European vaults, citing diversification, security, and geopolitical risk. The move tests gold-market dynamics and custody strategies at the central-bank level, with potential implications for reserve diversification trends.",
+      "summary_zh": "欧洲各国正在将部分黄金储备从北美托管转移至欧洲金库，原因包括分散风险、提升安全性和地缘政治考虑。此举可能影响黄金市场的托管安排与央行储备配置的长期趋势。",
+      "hn": {
+        "id": 49573455,
+        "type": "story",
+        "by": "ranit",
+        "score": 194,
+        "descendants": 303,
+        "time": 1788587529,
+        "comments_url": "https://news.ycombinator.com/item?id=49573455"
+      },
+      "tags": [
+        "Finance",
+        "Politics",
+        "Security"
+      ],
+      "hot_score": 0.32
+    },
+    {
+      "title_en": "Corporate America is getting hooked on open-source AI",
+      "url": "https://www.nytimes.com/2026/09/04/technology/open-source-ai-anthropic-openai.html",
+      "title_zh": "美国企业界越来越沉迷开源AI",
+      "created_display": "Created: Sep 04, 2026 / 08:33 PT",
+      "image_url": null,
+      "summary_en": "U.S. companies are increasingly embracing open-source AI, leveraging community-driven models and tools to accelerate innovation. The shift prompts questions about governance, safety, and how firms balance openness with risk. Industry observers say open-source momentum could shift standards, licensing, and the pace of AI development across sectors.",
+      "summary_zh": "美国企业正越来越多地采用开源 AI，利用社区驱动的模型和工具来加速创新。此举引发关于治理、安全和在开放性与风险之间取舍的讨论。业内人士表示，开源的势头可能影响行业标准、许可模式，以及各领域 AI 发展的节奏。",
+      "hn": {
+        "id": 49566137,
+        "type": "story",
+        "by": "aaraujo002",
+        "score": 329,
+        "descendants": 303,
+        "time": 1788536025,
+        "comments_url": "https://news.ycombinator.com/item?id=49566137"
+      },
+      "tags": [
+        "AI",
+        "Open Source"
+      ],
+      "hot_score": 0.29
+    },
+    {
+      "title_en": "Terpstra Keyboard",
+      "url": "http://terpstrakeyboard.com/",
+      "title_zh": "Terpstra 键盘：一款可定制的机械键盘",
+      "created_display": "Created: Sep 05, 2026 / 03:33 PT",
+      "image_url": "http://terpstrakeyboard.com/wp-content/uploads/2014/01/Terpstra_1st_gen_1997_01.jpg",
+      "summary_en": "Terpstra Keyboard presents a highly customizable mechanical keyboard with a distinctive layout and open-source hardware. The project centers on modularity, hot-swappable switches, and community-driven firmware, reflecting a vibrant DIY keyboard scene. It offers a fresh blueprint for tailoring typing comfort and aesthetics.",
+      "summary_zh": "Terpstra 键盘是一款强调可定制性的机械键盘，提供独特的布局与开源硬件。该项目聚焦模块化、热插拔开关和社区驱动固件，体现了活跃的 DIY 键盘文化。为追求打字舒适度与外观个性化的用户提供了新的实现蓝本。",
+      "hn": {
+        "id": 49575150,
+        "type": "story",
+        "by": "cl3misch",
+        "score": 139,
+        "descendants": 63,
+        "time": 1788604381,
+        "comments_url": "https://news.ycombinator.com/item?id=49575150"
+      },
+      "tags": [
+        "Hardware",
+        "Open Source",
+        "Design"
+      ],
+      "hot_score": 0.29
+    },
+    {
+      "title_en": "Pentagon rescinds new testosterone screening policy without explanation",
+      "url": "https://arstechnica.com/health/2026/09/pentagon-releases-then-quickly-removes-testosterone-screening-policy/",
+      "title_zh": "五角大楼撤回睾酮筛查新政策，未作解释",
+      "created_display": "Created: Sep 05, 2026 / 06:11 PT",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2293221834-1152x648.jpg",
+      "summary_en": "The Pentagon rescinded a testosterone screening policy without public explanation, raising questions about transparency and policy coherence in military health decisions.",
+      "summary_zh": "五角大楼撤回新睾酮筛查政策，未作公开解释，此举引发对军事健康政策透明度与一致性的担忧。",
+      "hn": {
+        "id": 49576196,
+        "type": "story",
+        "by": "ndsipa_pomu",
+        "score": 113,
+        "descendants": 106,
+        "time": 1788613874,
+        "comments_url": "https://news.ycombinator.com/item?id=49576196"
+      },
+      "hot_score": 0.28,
+      "tags": [
+        "Health",
+        "Politics"
+      ]
+    },
+    {
+      "title_en": "Nobody is saying why OpenAI and Anthropic had outages",
+      "url": "https://www.wired.com/story/nobody-is-saying-why-openai-and-anthropic-had-outages-today/",
+      "title_zh": "没人说清 OpenAI 与 Anthropic 停运原因",
+      "created_display": "Created: Sep 04, 2026 / 10:29 PT",
+      "image_url": "https://media.wired.com/photos/6a99e1be00d080b32f7841cc/191:100/w_1280,c_limit/Security_A%20Wave%20of%20Outages%20Hits%20Leading%20AI%20Chatbots_v1.jpg",
+      "summary_en": "OpenAI and Anthropic both suffered outages, but officials have offered little explanation for what happened. The simultaneous disruption highlights how dependent developers are on a small set of AI API providers and underscores the need for clearer incident transparency and rollback options. As AI tools become mission-critical for productivity apps, outages like this shed light on resilience and vendor risk in the AI ecosystem.",
+      "summary_zh": "OpenAI 与 Anthropic 同时发生停机，但官方尚未给出具体原因。这类事件凸显开发者对少数 AI 服务商的依赖，也暴露出对故障透明度和回滚能力的需求。随着 AI 工具日益成为生产力的关键组成部分，停机暴露出供应商风险与系统韧性的问题。",
+      "hn": {
+        "id": 49567594,
+        "type": "story",
+        "by": "jslakro",
+        "score": 206,
+        "descendants": 4,
+        "time": 1788542962,
+        "comments_url": "https://news.ycombinator.com/item?id=49567594"
+      },
+      "tags": [
+        "Security",
+        "AI"
+      ],
+      "hot_score": 0.2
+    },
+    {
+      "title_en": "Artificial Analysis Intelligence Index v4.2",
+      "url": "https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v4-2",
+      "title_zh": "人工分析智能指数v4.2",
+      "created_display": "Created: Sep 04, 2026 / 17:04 PT",
+      "image_url": "https://cdn.sanity.io/images/6vfeftx9/articles/6f95888d7f2b11ac42c1be194ed4de6fa96571cb-1254x1254.png?w=1200&auto=format",
+      "summary_en": "Artificial Analysis Intelligence Index v4.2 reviews progress in AI across domains, with metrics on capabilities, safety, and deployment; implications for policy and research.",
+      "summary_zh": "人工分析智能指数v4.2汇总了AI在各领域的进展，给出能力、安全性与落地等指标。结果对政策制定、研究方向和行业投资具有参考意义。",
+      "hn": {
+        "id": 49571632,
+        "type": "story",
+        "by": "nojs",
+        "score": 156,
+        "descendants": 65,
+        "time": 1788566654,
+        "comments_url": "https://news.ycombinator.com/item?id=49571632"
+      },
+      "hot_score": 0.19,
+      "tags": [
+        "AI",
+        "Data"
+      ]
+    },
+    {
+      "title_en": "Gmail to end support for \"Send as\" for third-party addresses, such as @yahoo.com",
+      "url": "https://support.google.com/mail/answer/22370?hl=en",
+      "title_zh": "Gmail 将不再支持第三方邮箱地址的“发送为”功能（如 @yahoo.com）",
+      "created_display": "Created: Sep 04, 2026 / 08:03 PT",
+      "image_url": "https://lh3.googleusercontent.com/p3J-ZSPOLtuBBR_ofWTFDfdgAYQgi8mR5c76ie8XQ2wjegk7-yyU5zdRVHKybQgUlQ=h36",
+      "summary_en": "Gmail will discontinue the 'Send as' feature for third-party addresses, forcing users to either set up aliasing through Google accounts or switch to sending from the sender's own servers. The change reduces potential spoofing and phishing vectors, but may disrupt workflows for users who rely on multi-domain aliases.",
+      "summary_zh": "Gmail 将不再支持来自第三方邮箱地址的“发送为”功能，用户需要改用 Google 账户的邮箱别名或自家服务器发送。此举旨在降低伪装和钓鱼风险，但可能打乱依赖跨域别名的工作流。",
+      "hn": {
+        "id": 49565693,
+        "type": "story",
+        "by": "sva_",
+        "score": 192,
+        "descendants": 130,
+        "time": 1788534183,
+        "comments_url": "https://news.ycombinator.com/item?id=49565693"
+      },
+      "tags": [
+        "Security",
+        "Privacy"
+      ],
+      "hot_score": 0.17
+    },
+    {
+      "title_en": "The Rust React Compiler is now native in Vite",
+      "url": "https://blog.master.dev/react-now-rusted-all-the-way-out/",
+      "title_zh": "Rust React 编译器现已在 Vite 原生支持",
+      "created_display": "Created: Sep 04, 2026 / 10:49 PT",
+      "image_url": "https://blog.master.dev/wp-json/social-image-generator/v1/image/10858",
+      "summary_en": "Vite now ships a native integration with a Rust-based React compiler, enabling faster builds and leaner bundles by leveraging Rust tooling in the frontend pipeline. The change signals growing interest in leveraging Rust for frontend tooling to improve performance and safety.",
+      "summary_zh": "Vite 现已原生集成基于 Rust 的 React 编译器，利用 Rust 工具链提升构建速度并缩小打包体积。此改动传达了在前端工具链中进一步使用 Rust 以提升性能与安全性的趋势。",
+      "hn": {
+        "id": 49567873,
+        "type": "story",
+        "by": "acusti",
+        "score": 171,
+        "descendants": 52,
+        "time": 1788544149,
+        "comments_url": "https://news.ycombinator.com/item?id=49567873"
+      },
+      "tags": [
+        "Programming",
+        "Web"
+      ],
+      "hot_score": 0.16
+    },
+    {
+      "title_en": "“Next-token predictor” is the wrong mental model for LLMs",
+      "url": "https://gmcgoldr.github.io/2026/09/04/llm-next-token-predictors.html",
+      "title_zh": "把LLMs当作下一个标记预测器是错误的认知模型",
+      "created_display": "Created: Sep 04, 2026 / 10:09 PT",
+      "image_url": null,
+      "summary_en": "Argues that 'next-token predictor' is an insufficient mental model for LLMs, highlighting emergent reasoning and rich internal representations that go beyond simple token prediction.",
+      "summary_zh": "认为把LLMs简化为“下一个标记预测器”是错误的认知模型。需要关注模型的内部表示、推理能力及涌现行为等超出单纯预测下一词的特性。",
+      "hn": {
+        "id": 49567310,
+        "type": "story",
+        "by": "garrinm",
+        "score": 157,
+        "descendants": 304,
+        "time": 1788541764,
+        "comments_url": "https://news.ycombinator.com/item?id=49567310"
+      },
+      "hot_score": 0.15,
+      "tags": [
+        "AI",
+        "Science",
+        "Programming"
+      ]
+    },
+    {
+      "title_en": "Fermat's Last Theorem in Lean 4",
+      "url": "https://github.com/anthropics/fermats-last-theorem",
+      "title_zh": "Lean 4 中的费马大定理",
+      "created_display": "Created: Sep 04, 2026 / 11:57 PT",
+      "image_url": "https://opengraph.githubassets.com/6843b0b4462118b262f883f37bb4caf797fab96b8f4b33963a6dd2765da511bd/anthropics/fermats-last-theorem",
+      "summary_en": "Fermat's Last Theorem in Lean 4 showcases formal verification of a landmark theorem using the Lean theorem prover, illustrating the maturity of formal methods and educational value.",
+      "summary_zh": "在 Lean 4 中形式化证明费马大定理，展示证明助手在解决数学难题中的应用成熟度，以及对学习与研究的启示。",
+      "hn": {
+        "id": 49568697,
+        "type": "story",
+        "by": "aaraujo002",
+        "score": 145,
+        "descendants": 33,
+        "time": 1788548252,
+        "comments_url": "https://news.ycombinator.com/item?id=49568697"
+      },
+      "hot_score": 0.15,
+      "tags": [
+        "Science",
+        "Education"
+      ]
+    },
+    {
+      "title_en": "Can guitar frets perform multiplication?",
+      "url": "https://www.charlespetzold.com/blog/2026/09/Can-Guitar-Frets-Perform-Multiplication.html",
+      "title_zh": "吉他品位能执行乘法吗？",
+      "created_display": "Created: Sep 04, 2026 / 15:40 PT",
+      "image_url": "https://www.charlespetzold.com/blog/2026/09/images/SocialMediaImage.png",
+      "summary_en": "A playful piece showing how guitar frets can illustrate multiplication, merging music theory with math pedagogy; demonstrates that everyday objects can embody mathematical operations.",
+      "summary_zh": "通过吉他品位的几何特性演示乘法，融合音乐与数学教学，说明日常物件也能直观地表现乘法运算。",
+      "hn": {
+        "id": 49571047,
+        "type": "story",
+        "by": "wibbily",
+        "score": 133,
+        "descendants": 35,
+        "time": 1788561630,
+        "comments_url": "https://news.ycombinator.com/item?id=49571047"
+      },
+      "hot_score": 0.15,
+      "tags": [
+        "Education",
+        "Science"
+      ]
+    },
+    {
+      "title_en": "deSEC – Free Secure DNS",
+      "url": "https://desec.io/",
+      "title_zh": "deSEC：免费安全 DNS",
+      "created_display": "Created: Sep 04, 2026 / 08:38 PT",
+      "image_url": "https://desec.io/assets/logo.svg",
+      "summary_en": "deSEC offers free, DNSSEC-secured DNS with emphasis on privacy and open-source tooling. The project provides an alternative to centralized DNS services, aiming to reduce surveillance risk while keeping DNS resolvers accessible.",
+      "summary_zh": "deSEC 提供免费、具 DNSSEC 的安全 DNS，强调隐私与开源工具。该项目为对公有 DNS 的集中化替代方案，力求在降低监控风险的同时保持解析服务的可访问性。",
+      "hn": {
+        "id": 49566193,
+        "type": "story",
+        "by": "gurjeet",
+        "score": 159,
+        "descendants": 56,
+        "time": 1788536338,
+        "comments_url": "https://news.ycombinator.com/item?id=49566193"
+      },
+      "tags": [
+        "Privacy",
+        "Open Source",
+        "Security"
+      ],
+      "hot_score": 0.14
+    },
+    {
+      "title_en": "An open DNS recursive service for free security and high privacy",
+      "url": "https://quad9.net/",
+      "title_zh": "一个免费且高隐私的开源递归 DNS 服务",
+      "created_display": "Created: Sep 04, 2026 / 13:13 PT",
+      "image_url": "https://quad9.net/images/cover_c2f081e020.png",
+      "summary_en": "Quad9 offers a free recursive DNS service focused on security and privacy, with built-in malware protection, privacy-friendly logging, and DNS-over-HTTPS options.",
+      "summary_zh": "Quad9 提供一个免费且高隐私的递归 DNS 服务，强调安全与隐私，内置恶意软件拦截、隐私友好日志记录，以及 DNS over HTTPS 支持。",
+      "hn": {
+        "id": 49569663,
+        "type": "story",
+        "by": "mooreds",
+        "score": 129,
+        "descendants": 37,
+        "time": 1788552788,
+        "comments_url": "https://news.ycombinator.com/item?id=49569663"
+      },
+      "hot_score": 0.14,
+      "tags": [
+        "Privacy",
+        "Security"
+      ]
+    },
+    {
+      "title_en": "Government Rails Site Hit Hours After CVE Patch",
+      "url": "https://rietta.com/blog/ruby-on-rails-cve-exploited-hours-after-patch/",
+      "title_zh": "政府Rails站点在CVE补丁发布后数小时即被利用",
+      "created_display": "Created: Sep 04, 2026 / 12:06 PT",
+      "image_url": null,
+      "summary_en": "A government Rails site was exploited hours after a CVE patch, underscoring patch timing risk and the need for defense-in-depth and rapid remediation.",
+      "summary_zh": "政府的 Rails 网站在CVE补丁发布后数小时就遭到利用，凸显打补丁时机的关键性，以及需要更健壮的测试与防御深度。",
+      "hn": {
+        "id": 49568828,
+        "type": "story",
+        "by": "rietta",
+        "score": 113,
+        "descendants": 35,
+        "time": 1788548799,
+        "comments_url": "https://news.ycombinator.com/item?id=49568828"
+      },
+      "hot_score": 0.11,
+      "tags": [
+        "Security",
+        "Politics"
+      ]
+    }
+  ]
+}

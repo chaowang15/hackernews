@@ -1,0 +1,1175 @@
+{
+  "meta": {
+    "mode": "best",
+    "source": "https://news.ycombinator.com/",
+    "api": "https://github.com/HackerNews/API",
+    "count_requested": 50,
+    "count_written": 50,
+    "reused_same_day": 0,
+    "reused_cross_day": 20,
+    "new_llm_enriched": 30,
+    "scrape_time_display": "05:07, March 02, 2026 (PST)",
+    "timezone": "America/Los_Angeles",
+    "date_dir": "2026/03/01",
+    "content_date": "2026-03-01",
+    "run_time_local": "05:07, March 02, 2026 (PST)",
+    "run_time_utc": "2026-03-02 13:07:57 UTC",
+    "incremental": true,
+    "stories_max": 50,
+    "hot_score_time_utc": "2026-03-02 13:09:36 UTC"
+  },
+  "items": [
+    {
+      "title_en": "Motorola announces a partnership with GrapheneOS Foundation",
+      "url": "https://motorolanews.com/motorola-three-new-b2b-solutions-at-mwc-2026/",
+      "title_zh": "摩托罗拉宣布与 GrapheneOS 基金会达成合作",
+      "created_display": "Created: Mar 01, 2026 / 22:48 PT",
+      "image_url": "https://motorolanews.com/wp-content/uploads/2026/02/2024_MOTOROLA_B2B_PHOTOS_150dpi_44-1.png",
+      "summary_en": "Motorola teams up with the GrapheneOS Foundation to focus on security-hardened Android foundations and open-source collaboration. The move could influence future device security updates, transparency, and baseline protections across Motorola hardware.",
+      "summary_zh": "摩托罗拉与 GrapheneOS 基金会达成合作，表明在 Android 安全加固与开源协作方面的重点。此举可能影响未来的安全更新、透明度以及硬件基础安全特性的建立。",
+      "hn": {
+        "id": 47214645,
+        "type": "story",
+        "by": "km",
+        "score": 902,
+        "descendants": 324,
+        "time": 1772434087,
+        "comments_url": "https://news.ycombinator.com/item?id=47214645"
+      },
+      "hot_score": 19.72,
+      "tags": [
+        "Security",
+        "Open Source",
+        "Hardware"
+      ]
+    },
+    {
+      "title_en": "Microsoft bans the word \"Microslop\" on its Discord, then locks the server",
+      "url": "https://www.windowslatest.com/2026/03/02/microsoft-gets-tired-of-microslop-bans-the-word-on-its-discord-then-locks-the-server-after-backlash/",
+      "title_zh": "微软在 Discord 禁用 Microslop 一词后封锁服务器",
+      "created_display": "Created: Mar 02, 2026 / 02:23 PT",
+      "image_url": "https://www.windowslatest.com/wp-content/uploads/2026/03/Copilots-official-Discord-channel-was-locked-down-after-users-went-haywire-with-unflattering-nicknames-targetted-at-Microsoft.jpg",
+      "summary_en": "A moderation incident where Microsoft bans a critical term on its Discord server and then locks the server highlights tensions between branding, community governance, and platform reliability.",
+      "summary_zh": "微软在自家 Discord 服务器禁用批评性用语并随后封锁服务器，暴露出品牌管控、社区治理与平台稳定性之间的张力。",
+      "hn": {
+        "id": 47216047,
+        "type": "story",
+        "by": "robtherobber",
+        "score": 208,
+        "descendants": 66,
+        "time": 1772446986,
+        "comments_url": "https://news.ycombinator.com/item?id=47216047"
+      },
+      "hot_score": 12.41,
+      "tags": [
+        "Culture"
+      ]
+    },
+    {
+      "title_en": "/e/OS is a complete \"deGoogled\", mobile ecosystem",
+      "url": "https://e.foundation/e-os/",
+      "title_zh": "/e OS：一个完整的去谷歌化移动生态系统",
+      "created_display": "Created: Mar 02, 2026 / 01:09 PT",
+      "image_url": "https://e.foundation/wp-content/uploads/2022/11/e-logo-noir-01.png",
+      "summary_en": "/e/OS presents a privacy-centric, de-Googled mobile ecosystem built on Android, offering an alternative app store and services. It reflects growing user demand for data protection and autonomy in mobile computing.",
+      "summary_zh": "/e OS 提供以隐私为核心、去谷歌化的移动生态系统，基于 Android 构建并提供替代应用商店与服务，体现了对数据保护与自主性的日益需求。",
+      "hn": {
+        "id": 47215489,
+        "type": "story",
+        "by": "doener",
+        "score": 274,
+        "descendants": 144,
+        "time": 1772442584,
+        "comments_url": "https://news.ycombinator.com/item?id=47215489"
+      },
+      "hot_score": 10.86,
+      "tags": [
+        "Privacy",
+        "Open Source"
+      ]
+    },
+    {
+      "title_en": "Jolla phone – a full-stack European alternative",
+      "url": "https://commerce.jolla.com/products/jolla-phone-sept-26",
+      "title_zh": "Jolla 手机——全栈式欧洲替代方案",
+      "created_display": "Created: Mar 02, 2026 / 02:21 PT",
+      "image_url": "http://commerce.jolla.com/cdn/shop/files/jolla_phone_hero_double.png?v=1772105235",
+      "summary_en": "Jolla's phone with Sailfish OS positions a European alternative to dominant platforms, emphasizing privacy and open standards, though facing app ecosystem challenges.",
+      "summary_zh": "Jolla 的手机以 Sailfish OS 为基础，作为对主流平台的欧洲替代，强调隐私与开放标准，但在应用生态方面仍有挑战。",
+      "hn": {
+        "id": 47216037,
+        "type": "story",
+        "by": "spinningslate",
+        "score": 176,
+        "descendants": 71,
+        "time": 1772446884,
+        "comments_url": "https://news.ycombinator.com/item?id=47216037"
+      },
+      "hot_score": 10.38,
+      "tags": [
+        "Open Source",
+        "Privacy"
+      ]
+    },
+    {
+      "title_en": "How to talk to anyone and why you should",
+      "url": "https://www.theguardian.com/lifeandstyle/2026/feb/24/stranger-secret-how-to-talk-to-anyone-why-you-should",
+      "title_zh": "如何和任何人交谈以及为何要这样做",
+      "created_display": "Created: Mar 01, 2026 / 23:30 PT",
+      "image_url": "https://i.guim.co.uk/img/media/5426e410425dfa173d930beb0b9a4adadfe2f4ca/0_0_5873_4699/master/5873.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a4540c968a3e7dba7a0e39adb4118268",
+      "summary_en": "A practical guide to conversations, focusing on initiating talks, reading social cues, and building rapport, underscoring soft skills as essential alongside technical prowess.",
+      "summary_zh": "一份实用的交谈指南，聚焦于如何开启对话、解读社交信号与建立融洽关系，强调软技能在技术能力之上的重要性。",
+      "hn": {
+        "id": 47214864,
+        "type": "story",
+        "by": "Looky1173",
+        "score": 164,
+        "descendants": 341,
+        "time": 1772436612,
+        "comments_url": "https://news.ycombinator.com/item?id=47214864"
+      },
+      "hot_score": 4.18,
+      "tags": [
+        "Culture"
+      ]
+    },
+    {
+      "title_en": "Everett shuts down Flock camera network after judge rules footage public record",
+      "url": "https://www.wltx.com/article/news/nation-world/281-53d8693e-77a4-42ad-86e4-3426a30d25ae",
+      "title_zh": "Everett 关闭 Flock 摄像头网络，法院裁定录像可公开记录",
+      "created_display": "Created: Mar 01, 2026 / 20:06 PT",
+      "image_url": "https://media.wltx.com/assets/KING/images/a34148ae-a136-4198-91d1-811853233a86/20260228T004510/a34148ae-a136-4198-91d1-811853233a86_1140x641.jpg",
+      "summary_en": "A court ruling that FLOCK camera footage must become public records prompts authorities to shut down the network, highlighting tensions between surveillance, privacy, and accountability. The move underscores legal risk for city surveillance programs.",
+      "summary_zh": "法院裁定 FLOCK 监控录像应作为公开记录，促使相关部门关闭网络，凸显监控、隐私与问责之间的紧张关系。此举凸显城市级监控项目的法律风险。",
+      "hn": {
+        "id": 47213764,
+        "type": "story",
+        "by": "aranaur",
+        "score": 306,
+        "descendants": 89,
+        "time": 1772424360,
+        "comments_url": "https://news.ycombinator.com/item?id=47213764"
+      },
+      "hot_score": 4.03,
+      "tags": [
+        "Privacy",
+        "Legal"
+      ]
+    },
+    {
+      "title_en": "Microgpt",
+      "url": "http://karpathy.github.io/2026/02/12/microgpt/",
+      "title_zh": "MicroGPT（微型GPT）",
+      "created_display": "Created: Feb 28, 2026 / 17:39 PT",
+      "image_url": "http://karpathy.github.io/assets/rssicon.svg",
+      "summary_en": "Karpathy unveils MicroGPT, a compact, self-contained GPT-inspired framework designed to run with minimal dependencies. It targets experimentation on modest hardware and on-device reasoning, enabling offline AI tooling and edge applications. This approach lowers the barrier to LM research beyond cloud deployments.",
+      "summary_zh": "Karpathy 介紹了 MicroGPT——一個極簡、可在低依賴環境下運行的 GPT 類框架，適合在中等硬件上試驗與本地推理。它促進離線 AI 工具與邊緣應用的發展，讓 LM 研究不再僅限於雲端。",
+      "hn": {
+        "id": 47202708,
+        "type": "story",
+        "by": "tambourine_man",
+        "score": 1834,
+        "descendants": 305,
+        "time": 1772329166,
+        "comments_url": "https://news.ycombinator.com/item?id=47202708"
+      },
+      "tags": [
+        "AI",
+        "Programming",
+        "Hardware"
+      ],
+      "hot_score": 2.69
+    },
+    {
+      "title_en": "If AI writes code, should the session be part of the commit?",
+      "url": "https://github.com/mandel-macaque/memento",
+      "title_zh": "如果 AI 写代码，会话应成为提交的一部分吗？",
+      "created_display": "Created: Mar 01, 2026 / 16:27 PT",
+      "image_url": "https://opengraph.githubassets.com/4a1a8271a17ff314e52296c69b038ab32c67345273a2a415e7b8b9af6906c84d/mandel-macaque/memento",
+      "summary_en": "If AI-assisted sessions influence code changes, teams may consider embedding session provenance in commits or metadata for traceability. This raises questions about reproducibility, review, and auditing of AI-influenced work.",
+      "summary_zh": "若 AI 辅助的编辑会影响代码变更，团队可考虑在提交中嵌入会话出处或元数据以实现可追溯性。这引发关于可复现性、审查与对 AI 影响的审计等问题。",
+      "hn": {
+        "id": 47212355,
+        "type": "story",
+        "by": "mandel_x",
+        "score": 317,
+        "descendants": 300,
+        "time": 1772411272,
+        "comments_url": "https://news.ycombinator.com/item?id=47212355"
+      },
+      "hot_score": 2.5,
+      "tags": [
+        "Programming",
+        "AI"
+      ]
+    },
+    {
+      "title_en": "Ghostty – Terminal Emulator",
+      "url": "https://ghostty.org/docs",
+      "title_zh": "Ghostty 终端模拟器",
+      "created_display": "Created: Mar 01, 2026 / 04:13 PT",
+      "image_url": "https://ghostty.org/social-share-card.jpg",
+      "summary_en": "Ghostty is a modern terminal emulator project aimed at boosting UX with features like multi-tab support and performance improvements. For power users, a refined terminal experience can significantly boost productivity across desktop and mobile workflows.",
+      "summary_zh": "Ghostty 是一个面向提升用户体验的现代终端模拟器项目，可能包含多标签等功能和性能改进。对资深开发者而言，优化的终端体验能显著提升桌面与移动工作流程的生产力。",
+      "hn": {
+        "id": 47206009,
+        "type": "story",
+        "by": "oli5679",
+        "score": 777,
+        "descendants": 326,
+        "time": 1772367183,
+        "comments_url": "https://news.ycombinator.com/item?id=47206009"
+      },
+      "hot_score": 2.07,
+      "tags": [
+        "Programming"
+      ]
+    },
+    {
+      "title_en": "WebMCP is available for early preview",
+      "url": "https://developer.chrome.com/blog/webmcp-epp",
+      "title_zh": "WebMCP 提供早期预览",
+      "created_display": "Created: Mar 01, 2026 / 14:13 PT",
+      "image_url": "https://developer.chrome.com/static/blog/webmcp-epp/image/cover.png",
+      "summary_en": "WebMCP offers a browser-based preview of the MCP framework, signaling an accessible path for web-centric tooling and automation. Early previews hint at how developers might use modular APIs in the browser.",
+      "summary_zh": "WebMCP 提供了基于浏览器的 MCP 框架预览，展示了面向网页工具与自动化的可访问路径。早期预览揭示了开发者在浏览器中使用模块化 API 的潜力。",
+      "hn": {
+        "id": 47211249,
+        "type": "story",
+        "by": "andsoitis",
+        "score": 318,
+        "descendants": 178,
+        "time": 1772403238,
+        "comments_url": "https://news.ycombinator.com/item?id=47211249"
+      },
+      "hot_score": 1.95,
+      "tags": [
+        "Programming",
+        "Web"
+      ]
+    },
+    {
+      "title_en": "When does MCP make sense vs CLI?",
+      "url": "https://ejholmes.github.io/2026/02/28/mcp-is-dead-long-live-the-cli.html",
+      "title_zh": "什么时候 MCP 比 CLI 更合适",
+      "created_display": "Created: Mar 01, 2026 / 08:54 PT",
+      "image_url": null,
+      "summary_en": "A comparison of when a higher-level command protocol (MCP) provides meaningful abstraction and automation over a plain CLI, and when the simplicity and direct control of a CLI wins. It emphasizes tradeoffs like readability, scripting, and ecosystem maturity.",
+      "summary_zh": "讨论在何种场景下更高层的命令协议 MCP 能带来对比简单 CLI 更有意义的抽象与自动化，以及何时应偏好 CLI 的简单性与直接控制。强调可读性、脚本化与生态成熟度等权衡。",
+      "hn": {
+        "id": 47208398,
+        "type": "story",
+        "by": "ejholmes",
+        "score": 404,
+        "descendants": 257,
+        "time": 1772384089,
+        "comments_url": "https://news.ycombinator.com/item?id=47208398"
+      },
+      "hot_score": 1.51,
+      "tags": [
+        "Programming"
+      ]
+    },
+    {
+      "title_en": "I built a demo of what AI chat will look like when it's “free” and ad-supported",
+      "url": "https://99helpers.com/tools/ad-supported-chat",
+      "title_zh": "我用广告支持的免费 AI 聊天演示",
+      "created_display": "Created: Mar 01, 2026 / 03:49 PT",
+      "image_url": "https://99helpers.com/images/main.jpg",
+      "summary_en": "A demo showcases what a free, ad-supported AI chat could look like in practice, including ad placements and quality tradeoffs. It highlights how monetization pressures can shape model behavior, privacy, and user experience.",
+      "summary_zh": "一个演示展示了免费、广告支持的 AI 聊天在实际中的样子，涉及广告投放与体验质量的权衡。此类商业模式可能影响模型行为、隐私与用户体验。",
+      "hn": {
+        "id": 47205890,
+        "type": "story",
+        "by": "nickk81",
+        "score": 556,
+        "descendants": 297,
+        "time": 1772365741,
+        "comments_url": "https://news.ycombinator.com/item?id=47205890"
+      },
+      "hot_score": 1.44,
+      "tags": [
+        "AI",
+        "Business",
+        "Privacy"
+      ]
+    },
+    {
+      "title_en": "Right-sizes LLM models to your system's RAM, CPU, and GPU",
+      "url": "https://github.com/AlexsJones/llmfit",
+      "title_zh": "将大模型大小与系统内存、CPU、显卡匹配",
+      "created_display": "Created: Mar 01, 2026 / 15:15 PT",
+      "image_url": null,
+      "summary_en": "Practical guidance on sizing and deploying LLMs to fit hardware constraints, including model selection, quantization, memory management, and offloading strategies.",
+      "summary_zh": "给出在硬件约束下为大模型定尺寸的实用建议，包括模型选择、量化、内存管理和卸载策略。",
+      "hn": {
+        "id": 47211830,
+        "type": "story",
+        "by": "bilsbie",
+        "score": 189,
+        "descendants": 39,
+        "time": 1772406916,
+        "comments_url": "https://news.ycombinator.com/item?id=47211830"
+      },
+      "hot_score": 1.29,
+      "tags": [
+        "Hardware",
+        "Programming",
+        "AI"
+      ]
+    },
+    {
+      "title_en": "Show HN: Timber – Ollama for classical ML models, 336x faster than Python",
+      "url": "https://github.com/kossisoroyce/timber",
+      "title_zh": "Show HN: Timber — Ollama 的经典 ML 模型，速度比 Python 快 336x",
+      "created_display": "Created: Mar 01, 2026 / 16:57 PT",
+      "image_url": "https://opengraph.githubassets.com/93f21dcfc48f9f5007147524445328714bee1079826b9601fcc8a1a5cb4336fb/kossisoroyce/timber",
+      "summary_en": "Timber leverages Ollama to run classical ML models with dramatically faster performance than Python pipelines, illustrating a practical path to faster local inference.",
+      "summary_zh": "Timber 基于 Ollama 的实现，能够以远超 Python 的速度运行经典机器学习模型，展示本地推理的高效路径。",
+      "hn": {
+        "id": 47212576,
+        "type": "story",
+        "by": "kossisoroyce",
+        "score": 146,
+        "descendants": 27,
+        "time": 1772413060,
+        "comments_url": "https://news.ycombinator.com/item?id=47212576"
+      },
+      "hot_score": 1.22,
+      "tags": [
+        "Show HN",
+        "Programming"
+      ]
+    },
+    {
+      "title_en": "AI Made Writing Code Easier. It Made Being an Engineer Harder",
+      "url": "https://www.ivanturkovic.com/2026/02/25/ai-made-writing-code-easier-engineering-harder/",
+      "title_zh": "AI 让写代码更容易，却让工程师更难",
+      "created_display": "Created: Mar 01, 2026 / 06:09 PT",
+      "image_url": null,
+      "summary_en": "AI reduces the burden of writing code but shifts engineering work toward maintaining, testing, and integrating AI-generated artifacts. It raises expectations and reshapes skills and team workflows in nontrivial ways.",
+      "summary_zh": "人工智能降低了编写代码的门槛，但将工程工作的重点转向维护、测试与集成 AI 产物。它提高了期望值，改变了技能需求和团队的工作方式。",
+      "hn": {
+        "id": 47206824,
+        "type": "story",
+        "by": "saikatsg",
+        "score": 384,
+        "descendants": 302,
+        "time": 1772374164,
+        "comments_url": "https://news.ycombinator.com/item?id=47206824"
+      },
+      "hot_score": 1.17,
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "title_en": "Switch to Claude without starting over",
+      "url": "https://claude.com/import-memory",
+      "title_zh": "无需重新开始即可切换到 Claude 的记忆导入",
+      "created_display": "Created: Feb 28, 2026 / 23:36 PT",
+      "image_url": "https://cdn.prod.website-files.com/6889473510b50328dbb70ae6/68c469d1859e3e7ecf6c2310_og-claude-finance.jpg",
+      "summary_en": "Claude now offers a memory import feature that lets you switch to Claude without losing prior context, easing migrations and preserving continuity. It reduces migration friction and supports ongoing workflows across models.",
+      "summary_zh": "Claude 新增记忆导入功能，切换至 Claude 时不丢失先前上下文，降低迁移摩擦并保持工作流连续性。为跨模型工作流提供了更顺畅的迁移体验。",
+      "hn": {
+        "id": 47204571,
+        "type": "story",
+        "by": "doener",
+        "score": 563,
+        "descendants": 261,
+        "time": 1772350612,
+        "comments_url": "https://news.ycombinator.com/item?id=47204571"
+      },
+      "tags": [
+        "AI"
+      ],
+      "hot_score": 1.13
+    },
+    {
+      "title_en": "Decision trees – the unreasonable power of nested decision rules",
+      "url": "https://mlu-explain.github.io/decision-tree/",
+      "title_zh": "决策树：嵌套决策规则的强大威力",
+      "created_display": "Created: Mar 01, 2026 / 00:55 PT",
+      "image_url": "https://mlu-explain.github.io/assets/ogimages/ogimage-decision-tree.png",
+      "summary_en": "Nested decision rules in decision trees can express complex logic with interpretability, but risk overfitting and brittleness if not managed carefully. Properly structured, they enable powerful, rule-based reasoning in ML systems.",
+      "summary_zh": "嵌套的决策规则使决策树能够表达复杂逻辑并保持可解释性，但若处理不当也易过拟合和脆弱。通过恰当的结构设计，可以让基于规则的推理在 ML 系统中发挥强大作用。",
+      "hn": {
+        "id": 47204964,
+        "type": "story",
+        "by": "mschnell",
+        "score": 511,
+        "descendants": 78,
+        "time": 1772355352,
+        "comments_url": "https://news.ycombinator.com/item?id=47204964"
+      },
+      "hot_score": 1.1,
+      "tags": [
+        "Science",
+        "Data"
+      ]
+    },
+    {
+      "title_en": "We do not think Anthropic should be designated as a supply chain risk",
+      "url": "https://twitter.com/OpenAI/status/2027846016423321831",
+      "title_zh": "我們認為 Anthropic 不應被視為供應鏈風險",
+      "created_display": "Created: Feb 28, 2026 / 13:24 PT",
+      "image_url": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_200x200.jpg",
+      "summary_en": "OpenAI clarifies that Anthropic should not be treated as a special supply-chain risk, arguing for standard vendor diligence instead. This stance underscores how businesses weigh safety concerns against collaboration when sourcing AI services. It reflects the ongoing debate over risk labeling in enterprise AI sourcing.",
+      "summary_zh": "OpenAI 明確表示 Anthropic 不應被視為特殊的供應鏈風險，主張以常規供應商盡職調查來評估風險。此立場顯示企業在採購 AI 服務時如何在安全與協作之間取得平衡，亦反映關於風險分類的持續爭論。",
+      "hn": {
+        "id": 47200420,
+        "type": "story",
+        "by": "golfer",
+        "score": 807,
+        "descendants": 435,
+        "time": 1772313856,
+        "comments_url": "https://news.ycombinator.com/item?id=47200420"
+      },
+      "tags": [
+        "Business",
+        "Legal",
+        "AI"
+      ],
+      "hot_score": 0.98
+    },
+    {
+      "title_en": "The whole thing was a scam",
+      "url": "https://garymarcus.substack.com/p/the-whole-thing-was-scam",
+      "title_zh": "整個事情都是詐騙",
+      "created_display": "Created: Feb 28, 2026 / 08:51 PT",
+      "image_url": null,
+      "summary_en": "Gary Marcus argues that a celebrated AI initiative or narrative was built on hype and misrepresentations. The piece calls out inflated claims, flawed methods, and incentives that rewarded hype over real engineering progress. It serves as a cautionary reminder to scrutinize AI marketing versus tangible engineering advances.",
+      "summary_zh": "Gary Marcus 指出某個知名 AI 計畫或敘事建立在炒作與誤導之上，揭露夸大聲稱與方法論缺陷，以及把炒作利益置於真正工程進展之上的動機。文章提醒讀者要區辨 AI 行銷與實際工程成就，避免被包裝過的繁榮所誤導。",
+      "hn": {
+        "id": 47197505,
+        "type": "story",
+        "by": "guilamu",
+        "score": 967,
+        "descendants": 309,
+        "time": 1772297509,
+        "comments_url": "https://news.ycombinator.com/item?id=47197505"
+      },
+      "tags": [
+        "AI"
+      ],
+      "hot_score": 0.97
+    },
+    {
+      "title_en": "New iron nanomaterial wipes out cancer cells without harming healthy tissue",
+      "url": "https://www.sciencedaily.com/releases/2026/02/260228093456.htm",
+      "title_zh": "新型铁纳米材料可在不伤害健康组织的情况下清除癌细胞",
+      "created_display": "Created: Mar 01, 2026 / 07:09 PT",
+      "image_url": "https://www.sciencedaily.com/images/1920/cancer-cell-self-destructing.webp",
+      "summary_en": "A new iron-based nanomaterial selectively targets and destroys cancer cells while sparing healthy tissue, pointing toward targeted therapies with fewer side effects. Clinical translation will require extensive safety validation and regulatory steps.",
+      "summary_zh": "一种新型铁基纳米材料能选择性地攻击并清除癌细胞，同时尽量避免损伤健康组织，显示出副作用较低的靶向治疗潜力。进入临床需要全面的安全性评估与监管批准。",
+      "hn": {
+        "id": 47207404,
+        "type": "story",
+        "by": "gradus_ad",
+        "score": 298,
+        "descendants": 99,
+        "time": 1772377795,
+        "comments_url": "https://news.ycombinator.com/item?id=47207404"
+      },
+      "hot_score": 0.97,
+      "tags": [
+        "Science",
+        "Health",
+        "Politics"
+      ]
+    },
+    {
+      "title_en": "Operational issue – Multiple services (UAE)",
+      "url": "https://health.aws.amazon.com/health/status",
+      "title_zh": "操作性问题 – 阿联酋多项服务",
+      "created_display": "Created: Mar 01, 2026 / 11:24 PT",
+      "image_url": null,
+      "summary_en": "An AWS Health status update lists outages affecting multiple UAE services, impacting regional users and businesses relying on cloud availability, with guidance on remediation timelines.",
+      "summary_zh": "AWS 健康状态更新显示阿联酋多项服务发生故障，影响当地用户与依赖云服务的企业，并提供修复时间指引。",
+      "hn": {
+        "id": 47209781,
+        "type": "story",
+        "by": "earthboundkid",
+        "score": 207,
+        "descendants": 94,
+        "time": 1772393070,
+        "comments_url": "https://news.ycombinator.com/item?id=47209781"
+      },
+      "hot_score": 0.96,
+      "tags": [
+        "DevOps",
+        "Health"
+      ]
+    },
+    {
+      "title_en": "Little Free Library",
+      "url": "https://littlefreelibrary.org/",
+      "title_zh": "Little Free Library",
+      "created_display": "Created: Mar 01, 2026 / 14:18 PT",
+      "image_url": "https://littlefreelibrary.org/wp-content/uploads/2022/05/Umi-Vaughan-51773-Oakland-CA.jpg",
+      "summary_en": "A community-driven program placing free, public libraries in neighborhoods to promote literacy and sharing, with potential tech-enabled cataloging and donation workflows.",
+      "summary_zh": "一个社区驱动的公益项目，在社区内设立免费图书馆，促进读书与资源共享；未来也可结合科技实现图书编目与捐赠流程的数字化。",
+      "hn": {
+        "id": 47211280,
+        "type": "story",
+        "by": "TigerUniversity",
+        "score": 137,
+        "descendants": 69,
+        "time": 1772403490,
+        "comments_url": "https://news.ycombinator.com/item?id=47211280"
+      },
+      "hot_score": 0.84,
+      "tags": [
+        "Culture",
+        "Education"
+      ]
+    },
+    {
+      "title_en": "You don't have to",
+      "url": "https://www.scottsmitelli.com/articles/you-dont-have-to/",
+      "title_zh": "你不必",
+      "created_display": "Created: Mar 01, 2026 / 13:47 PT",
+      "image_url": "https://www.scottsmitelli.com/img/mortal-damage.jpg",
+      "summary_en": "A concise piece urging readers to shed unnecessary complexity and choices, focusing on simplicity and signal over noise in tooling and workflow.",
+      "summary_zh": "简短而有力的观点，呼吁剥离不必要的复杂性与选择，聚焦工具与工作流中的简洁与高效。",
+      "hn": {
+        "id": 47211029,
+        "type": "story",
+        "by": "marginalia_nu",
+        "score": 132,
+        "descendants": 57,
+        "time": 1772401633,
+        "comments_url": "https://news.ycombinator.com/item?id=47211029"
+      },
+      "hot_score": 0.77,
+      "tags": [
+        "Culture"
+      ]
+    },
+    {
+      "title_en": "Why XML tags are so fundamental to Claude",
+      "url": "https://glthr.com/XML-fundamental-to-Claude",
+      "title_zh": "为什么 XML 标签对 Claude 十分关键",
+      "created_display": "Created: Mar 01, 2026 / 06:52 PT",
+      "image_url": null,
+      "summary_en": "XML tagging underpins Claude's data handling, influencing prompts, metadata annotation, and parsing strategies that improve model understanding and retrieval.",
+      "summary_zh": "XML 标签在 Claude 的数据处理、提示设计与元数据标注中起到基础作用，有助于提升模型理解与检索能力。",
+      "hn": {
+        "id": 47207236,
+        "type": "story",
+        "by": "glth",
+        "score": 212,
+        "descendants": 142,
+        "time": 1772376742,
+        "comments_url": "https://news.ycombinator.com/item?id=47207236"
+      },
+      "hot_score": 0.68,
+      "tags": [
+        "AI",
+        "Data"
+      ]
+    },
+    {
+      "title_en": "Microgpt explained interactively",
+      "url": "https://growingswe.com/blog/microgpt",
+      "title_zh": "对 MicroGPT 的交互式讲解",
+      "created_display": "Created: Mar 01, 2026 / 01:43 PT",
+      "image_url": "https://growingswe.com/blog/microgpt/opengraph-image?16ed498263341a16",
+      "summary_en": "An interactive explainer for MicroGPT helps readers understand how small language models operate, train, and deploy efficiently, with hands-on demonstrations.",
+      "summary_zh": "对 MicroGPT 的交互式讲解帮助读者理解小型语言模型的工作原理、训练与高效部署，并提供实操演示。",
+      "hn": {
+        "id": 47205208,
+        "type": "story",
+        "by": "growingswe",
+        "score": 285,
+        "descendants": 42,
+        "time": 1772358223,
+        "comments_url": "https://news.ycombinator.com/item?id=47205208"
+      },
+      "hot_score": 0.64,
+      "tags": [
+        "AI",
+        "Programming"
+      ]
+    },
+    {
+      "title_en": "A new Polymarket account made over $500k betting on the U.S. strike against Iran",
+      "url": "https://twitter.com/cabsav456/status/2027937130995921119",
+      "title_zh": "一个新的 Polymarket 账户在美对伊行动下注获利超 50 万美元",
+      "created_display": "Created: Mar 01, 2026 / 11:22 PT",
+      "image_url": "https://pbs.twimg.com/media/HCSuA1iXkAApD1w.jpg:large",
+      "summary_en": "A Polymarket account reportedly earned over $500k betting on a U.S. strike against Iran, highlighting the lucrative yet risky world of prediction markets and the regulatory considerations involved.",
+      "summary_zh": "据称在美对伊行动相关交易中，Polymarket 账户获利超 50 万美元，凸显预测市场的盈利潜力与监管与合规风险。",
+      "hn": {
+        "id": 47209773,
+        "type": "story",
+        "by": "doener",
+        "score": 137,
+        "descendants": 101,
+        "time": 1772392967,
+        "comments_url": "https://news.ycombinator.com/item?id=47209773"
+      },
+      "hot_score": 0.63,
+      "tags": [
+        "Finance",
+        "Business",
+        "Politics"
+      ]
+    },
+    {
+      "title_en": "Why does C have the best file API",
+      "url": "https://maurycyz.com/misc/c_files/",
+      "title_zh": "为什么 C 语言拥有最好的文件 API",
+      "created_display": "Created: Mar 01, 2026 / 11:25 PT",
+      "image_url": null,
+      "summary_en": "C's file I/O API is praised for its low-level control and performance, offering precise management of buffers and system calls that higher-level languages abstract away.",
+      "summary_zh": "C 语言的文件 I/O API 因其底层控制与性能而备受赞誉，能够对缓冲区与系统调用进行精细管理，这些在高级语言中往往被封装。",
+      "hn": {
+        "id": 47209788,
+        "type": "story",
+        "by": "maurycyz",
+        "score": 133,
+        "descendants": 105,
+        "time": 1772393104,
+        "comments_url": "https://news.ycombinator.com/item?id=47209788"
+      },
+      "hot_score": 0.61,
+      "tags": [
+        "Programming"
+      ]
+    },
+    {
+      "title_en": "Iran's Ayatollah Ali Khamenei is killed in Israeli strike, ending 36-year rule",
+      "url": "https://www.npr.org/2026/02/28/1123499337/iran-israel-ayatollah-ali-khamenei-killed",
+      "title_zh": "伊朗最高领袖哈梅内伊在以色列袭击中被击毙，结束36年统治",
+      "created_display": "Created: Feb 28, 2026 / 14:16 PT",
+      "image_url": "https://media.npr.org/assets/img/2022/09/16/ap17079498857800_wide-9307243360e1a8534d95eb01476568e7f46a2b4a.jpg?s=1400&c=85&f=jpeg",
+      "summary_en": "Reports confirm the assassination of Iran's top leader, triggering a potential power vacuum and regional instability. The aftermath could reshape Middle East geopolitics and security policy, with implications for sanctions, energy markets, and cyber strategy that tech professionals monitor for risk assessment.",
+      "summary_zh": "据报道，伊朗最高领袖哈梅内伊在以色列发动的袭击中被击毙，可能引发权力真空与区域不稳定。后果可能重塑中东地缘政治、安保政策，并对制裁、能源市场与网络安全策略产生影响，科技从业者需据此评估风险。",
+      "hn": {
+        "id": 47200879,
+        "type": "story",
+        "by": "andsoitis",
+        "score": 459,
+        "descendants": 875,
+        "time": 1772316968,
+        "comments_url": "https://news.ycombinator.com/item?id=47200879"
+      },
+      "tags": [
+        "Politics",
+        "Security",
+        "Energy"
+      ],
+      "hot_score": 0.58
+    },
+    {
+      "title_en": "Flightradar24 for Ships",
+      "url": "https://atlas.flexport.com/",
+      "title_zh": "航运版 Flightradar24",
+      "created_display": "Created: Mar 01, 2026 / 03:01 PT",
+      "image_url": null,
+      "summary_en": "A maritime data service mirrors flight tracking ideas for ships, offering real-time vessel tracking, route history, and port activity insights for shipping and logistics operations.",
+      "summary_zh": "面向航运的航迹数据服务将航班追踪的思路应用于船舶，提供实时船只追踪、航线历史与港口活动等信息，利于航运与物流运营。",
+      "hn": {
+        "id": 47205637,
+        "type": "story",
+        "by": "chromy",
+        "score": 235,
+        "descendants": 48,
+        "time": 1772362877,
+        "comments_url": "https://news.ycombinator.com/item?id=47205637"
+      },
+      "hot_score": 0.58,
+      "tags": [
+        "Data",
+        "Web",
+        "Privacy"
+      ]
+    },
+    {
+      "title_en": "Obsidian Sync now has a headless client",
+      "url": "https://help.obsidian.md/sync/headless",
+      "title_zh": "Obsidian Sync 现已推出无头客户端",
+      "created_display": "Created: Feb 28, 2026 / 08:31 PT",
+      "image_url": "https://ogimage.obsidian.md/og-image.png?title=Headless+Sync&description=Obsidian+Sync+offers+a+headless+client+to+sync+vaults+without+using+the+desktop+app.+Useful+for+CI+pipelines%2C+agents%2C+and+automated+workflows.+Sync+the+latest+changes+or+keep+files+continuously+up+to+date.&logoUrl=https%3A%2F%2Fpublish-01.obsidian.md%2Faccess%2Ff786db9fac45774fa4f0d8112e232d67%2Ffavicon-96x96.png&siteName=Obsidian+Help",
+      "summary_en": "Obsidian Sync now offers a headless client, enabling automation and UI-free integrations. Teams can script automated syncs, run schedules, and build custom tools around their notes. This broadens Obsidian into programmable knowledge management beyond personal note-taking.",
+      "summary_zh": "Obsidian Sync 現已推出無頭客戶端，方便自動化與無界面整合。團隊可透過腳本自動同步、排程，並打造與筆記相關的自訂工具，讓知識管理更具可程式化性。",
+      "hn": {
+        "id": 47197267,
+        "type": "story",
+        "by": "adilmoujahid",
+        "score": 574,
+        "descendants": 211,
+        "time": 1772296313,
+        "comments_url": "https://news.ycombinator.com/item?id=47197267"
+      },
+      "tags": [
+        "Programming"
+      ],
+      "hot_score": 0.57
+    },
+    {
+      "title_en": "AI is making junior devs useless",
+      "url": "https://beabetterdev.com/2026/03/01/ai-is-making-junior-devs-useless/",
+      "title_zh": "AI 正让初级开发者变得无用",
+      "created_display": "Created: Mar 01, 2026 / 05:49 PT",
+      "image_url": "https://www.beabetterdev.com/wp-content/uploads/2026/03/thumbnail111.png",
+      "summary_en": "The piece argues AI automation can erode opportunities for junior developers, while proponents push for reskilling and new roles focused on oversight, data, and system integration.",
+      "summary_zh": "文章认为 AI 自动化可能侵蚀初级开发者的机会，但也有人主张通过再培训与转向监督、数据与系统集成等新角色来适应。",
+      "hn": {
+        "id": 47206663,
+        "type": "story",
+        "by": "beabetterdev",
+        "score": 193,
+        "descendants": 336,
+        "time": 1772372961,
+        "comments_url": "https://news.ycombinator.com/item?id=47206663"
+      },
+      "hot_score": 0.57,
+      "tags": [
+        "AI",
+        "Career"
+      ]
+    },
+    {
+      "title_en": "Ape Coding [fiction]",
+      "url": "https://rsaksida.com/blog/ape-coding/",
+      "title_zh": "Ape Coding [fiction]",
+      "created_display": "Created: Mar 01, 2026 / 06:07 PT",
+      "image_url": "https://rsaksida.com/images/og-image.ff8cd797.jpg",
+      "summary_en": "A humorous fictional piece imagining coding by apes or AI lore, using satire to reflect on biases and automation in software development.",
+      "summary_zh": "以幽默笔法描绘猿猴或 AI 传说中的编码情景，通过讽刺探讨软件开发中的偏见与自动化。",
+      "hn": {
+        "id": 47206798,
+        "type": "story",
+        "by": "rmsaksida",
+        "score": 184,
+        "descendants": 125,
+        "time": 1772374025,
+        "comments_url": "https://news.ycombinator.com/item?id=47206798"
+      },
+      "hot_score": 0.56,
+      "tags": [
+        "Entertainment",
+        "AI"
+      ]
+    },
+    {
+      "title_en": "Qwen3.5 122B and 35B models offer Sonnet 4.5 performance on local computers",
+      "url": "https://venturebeat.com/technology/alibabas-new-open-source-qwen3-5-medium-models-offer-sonnet-4-5-performance",
+      "title_zh": "Qwen3.5 122B 与 35B 模型在本地电脑上达到 Sonnet 4.5 性能",
+      "created_display": "Created: Feb 28, 2026 / 12:20 PT",
+      "image_url": null,
+      "summary_en": "Alibaba's Qwen3.5 family offers 122B and 35B variants that match Sonnet 4.5 performance on local hardware, signaling strong open-source on-device LLM capabilities. This narrows the gap to cloud services and fuels offline AI exploration, though licensing and ecosystem support remain considerations.",
+      "summary_zh": "阿里巴巴的 Qwen3.5 家族提供 122B 与 35B 版本，在本地硬件上达到 Sonnet 4.5 的性能水平，显示開源大模型在本地推理方面的強大能力。這縮小了與雲端服務的差距，促進離線 AI 的探索，但授權與生態系統支援仍需留意。",
+      "hn": {
+        "id": 47199781,
+        "type": "story",
+        "by": "lostmsu",
+        "score": 449,
+        "descendants": 261,
+        "time": 1772310000,
+        "comments_url": "https://news.ycombinator.com/item?id=47199781"
+      },
+      "tags": [
+        "AI",
+        "Open Source",
+        "Hardware"
+      ],
+      "hot_score": 0.52
+    },
+    {
+      "title_en": "10-202: Introduction to Modern AI (CMU)",
+      "url": "https://modernaicourse.org",
+      "title_zh": "10-202：CMU 的现代 AI 入门",
+      "created_display": "Created: Feb 28, 2026 / 23:35 PT",
+      "image_url": null,
+      "summary_en": "CMU's 10-202 course offers a structured introduction to modern AI concepts, algorithms, and applications, serving as a solid primer for students and professionals looking to level up.",
+      "summary_zh": "卡内基梅隆大学的 10-202 课程提供现代 AI 概念、算法与应用的系统化入门，是想提升水平的学生与专业人士的扎实基础课程。",
+      "hn": {
+        "id": 47204559,
+        "type": "story",
+        "by": "vismit2000",
+        "score": 249,
+        "descendants": 58,
+        "time": 1772350503,
+        "comments_url": "https://news.ycombinator.com/item?id=47204559"
+      },
+      "hot_score": 0.5,
+      "tags": [
+        "AI",
+        "Education"
+      ]
+    },
+    {
+      "title_en": "Cognitive Debt: When Velocity Exceeds Comprehension",
+      "url": "https://www.rockoder.com/beyondthecode/cognitive-debt-when-velocity-exceeds-comprehension/",
+      "title_zh": "認知債務：當速度超過理解力",
+      "created_display": "Created: Feb 28, 2026 / 07:39 PT",
+      "image_url": "https://www.rockoder.com/images/id/id.png",
+      "summary_en": "The piece argues that pushing development velocity too hard creates cognitive debt—hidden mental load and architectural debt that slows future work. It promotes better onboarding, documentation, and mental models to keep velocity sustainable. The takeaway: speed must be matched with clarity.",
+      "summary_zh": "文章認為過度追求開發速度會產生認知債務，即藏匿的心理負擔與架構負擔，最終拖慢未來的工作。建議透過更好的上手指引、文件與心智模型，讓速度持續可行。核心觀點是：速度需要與清晰度並行。",
+      "hn": {
+        "id": 47196582,
+        "type": "story",
+        "by": "pagade",
+        "score": 491,
+        "descendants": 213,
+        "time": 1772293150,
+        "comments_url": "https://news.ycombinator.com/item?id=47196582"
+      },
+      "tags": [
+        "Programming"
+      ],
+      "hot_score": 0.47
+    },
+    {
+      "title_en": "The Windows 95 user interface: A case study in usability engineering (1996)",
+      "url": "https://dl.acm.org/doi/fullHtml/10.1145/238386.238611",
+      "title_zh": "Windows 95 用户界面的可用性工程案例研究（1996）",
+      "created_display": "Created: Feb 28, 2026 / 14:19 PT",
+      "image_url": null,
+      "summary_en": "Examines how Windows 95 UI decisions were tested and validated, illustrating early usability engineering practices and their impact on modern design. The article distills lessons on consistency, feedback, and discoverability that still influence UX today.",
+      "summary_zh": "回顾 Windows 95 的用户界面设计与可用性工程方法，揭示早期 UX 实践及其对现代设计的影响。文中提炼出一致性、反馈与易发现性的经验，至今仍影响用户体验。",
+      "hn": {
+        "id": 47200904,
+        "type": "story",
+        "by": "ksec",
+        "score": 347,
+        "descendants": 269,
+        "time": 1772317176,
+        "comments_url": "https://news.ycombinator.com/item?id=47200904"
+      },
+      "tags": [
+        "Design"
+      ],
+      "hot_score": 0.44
+    },
+    {
+      "title_en": "Our Agreement with the Department of War",
+      "url": "https://openai.com/index/our-agreement-with-the-department-of-war",
+      "title_zh": "我們與战争部的協議",
+      "created_display": "Created: Feb 28, 2026 / 12:35 PT",
+      "image_url": null,
+      "summary_en": "OpenAI outlines its relationship with government defense entities, framing responsible AI use, safety, and oversight in sensitive applications. The document clarifies guardrails and collaboration boundaries, illustrating how defense partnerships shape AI deployment in high-stakes contexts.",
+      "summary_zh": "OpenAI 概述了与政府防务机构的关系，强调在敏感应用中对 AI 的负责任使用、安全与监督。文档澄清了防护边界与协作界线，显示了防务伙伴关系如何影响高风险场景下的 AI 部署。",
+      "hn": {
+        "id": 47199948,
+        "type": "story",
+        "by": "surprisetalk",
+        "score": 368,
+        "descendants": 273,
+        "time": 1772310929,
+        "comments_url": "https://news.ycombinator.com/item?id=47199948"
+      },
+      "tags": [
+        "Politics",
+        "Security",
+        "AI"
+      ],
+      "hot_score": 0.43
+    },
+    {
+      "title_en": "Claude becomes number one app on the U.S. App Store",
+      "url": "https://apps.apple.com/us/iphone/charts",
+      "title_zh": "Claude 成为美国 App Store 的第一名应用",
+      "created_display": "Created: Feb 28, 2026 / 16:08 PT",
+      "image_url": "https://apps.apple.com//assets/images/share/app-store.png",
+      "summary_en": "Claude's mobile app climbs to the top of US App Store charts, signaling high mainstream adoption of AI assistants. It raises questions about data privacy, on-device vs cloud processing, and mobile UX competition.",
+      "summary_zh": "Claude 的移动应用登顶美国 App Store 榜单，显示 AI 助手已进入主流使用。引发关于数据隐私、边缘计算与移动端用户体验竞争的讨论。",
+      "hn": {
+        "id": 47202032,
+        "type": "story",
+        "by": "byincugnito",
+        "score": 267,
+        "descendants": 112,
+        "time": 1772323728,
+        "comments_url": "https://news.ycombinator.com/item?id=47202032"
+      },
+      "tags": [
+        "AI",
+        "Privacy"
+      ],
+      "hot_score": 0.36
+    },
+    {
+      "title_en": "Block the “Upgrade to Tahoe” alerts",
+      "url": "https://robservatory.com/block-the-upgrade-to-tahoe-alerts-and-system-settings-indicator/",
+      "title_zh": "屏蔽‘升级至 Tahoe’警报",
+      "created_display": "Created: Feb 28, 2026 / 11:04 PT",
+      "image_url": null,
+      "summary_en": "Argues for blocking disruptive upgrade prompts and system indicators that push users toward forced updates, emphasizing user autonomy and stability. It discusses UX considerations and the trade-offs between staying current and staying stable.",
+      "summary_zh": "主张屏蔽会强制更新的打扰性提示与系统指示，强调用户自主权与系统稳定性之间的权衡。讨论用户体验设计与保持更新与稳定之间的取舍。",
+      "hn": {
+        "id": 47198977,
+        "type": "story",
+        "by": "todsacerdoti",
+        "score": 311,
+        "descendants": 178,
+        "time": 1772305441,
+        "comments_url": "https://news.ycombinator.com/item?id=47198977"
+      },
+      "tags": [
+        "Design"
+      ],
+      "hot_score": 0.34
+    },
+    {
+      "title_en": "Techno‑feudal elite are attempting to build a twenty‑first‑century fascist state",
+      "url": "https://collapseofindustrialcivilization.com/2026/02/16/americas-oligarchic-techno-feudal-elite-are-attempting-to-build-a-twenty-first-century-fascist-state/",
+      "title_zh": "科技贵族试图建造二十一世纪的法西斯国家",
+      "created_display": "Created: Feb 28, 2026 / 10:57 PT",
+      "image_url": "https://live.staticflickr.com/65535/55099803639_05f3b6bc66_b.jpg",
+      "summary_en": "Argues that a tech-elite class seeks to consolidate power through surveillance and platform control, linking economic disparity with political risk. It calls for vigilance about governance, antitrust, and civic safeguards in the age of digital power.",
+      "summary_zh": "主张科技精英阶层正通过监控与平台控制来巩固权力，将经济不平等与政治风险联系在一起。呼吁在数字时代加强治理、反垄断与公民防护。",
+      "hn": {
+        "id": 47198912,
+        "type": "story",
+        "by": "measurablefunc",
+        "score": 303,
+        "descendants": 92,
+        "time": 1772305063,
+        "comments_url": "https://news.ycombinator.com/item?id=47198912"
+      },
+      "tags": [
+        "Politics",
+        "Privacy",
+        "Legal"
+      ],
+      "hot_score": 0.33
+    },
+    {
+      "title_en": "Don't trust AI agents",
+      "url": "https://nanoclaw.dev/blog/nanoclaw-security-model",
+      "title_zh": "别信任 AI 代理",
+      "created_display": "Created: Feb 28, 2026 / 04:39 PT",
+      "image_url": "https://nanoclaw.dev/social-preview.jpg",
+      "summary_en": "An exploration of the reliability and safety risks of autonomous AI agents, showing why you shouldn't over-rely on them for critical tasks. The piece advocates robust architectures, verification, and tamper-resistance to prevent misbehavior or exploitation.",
+      "summary_zh": "探讨自治 AI 代理的可靠性与安全风险，解释为何不应过度依赖它们完成关键任务。文章主张构建更强健的架构、可验证性与防篡改设计，以防止误操作或被利用。",
+      "hn": {
+        "id": 47194611,
+        "type": "story",
+        "by": "gronky_",
+        "score": 339,
+        "descendants": 191,
+        "time": 1772282372,
+        "comments_url": "https://news.ycombinator.com/item?id=47194611"
+      },
+      "tags": [
+        "AI",
+        "Security"
+      ],
+      "hot_score": 0.29
+    },
+    {
+      "title_en": "What AI coding costs you",
+      "url": "https://tomwojcik.com/posts/2026-02-15/finding-the-right-amount-of-ai/",
+      "title_zh": "AI 编码给你带来的成本",
+      "created_display": "Created: Feb 28, 2026 / 05:05 PT",
+      "image_url": "https://tomwojcik.com/_astro/accept_the_plan.DMU951nt.jpg",
+      "summary_en": "Quantifies the hidden costs of AI-assisted coding, including subscriptions, debugging overhead, context-switch costs, and long-tail maintenance. It offers guidance on when AI helps, how to budget, and how to avoid vendor lock-in.",
+      "summary_zh": "量化 AI 辅助编码的隐性成本，包括订阅、调试开销、上下文切换成本与长期维护。给出何时该用、如何预算以及如何避免厂商锁定的实用建议。",
+      "hn": {
+        "id": 47194847,
+        "type": "story",
+        "by": "tomwojcik",
+        "score": 327,
+        "descendants": 190,
+        "time": 1772283903,
+        "comments_url": "https://news.ycombinator.com/item?id=47194847"
+      },
+      "tags": [
+        "AI",
+        "Business"
+      ],
+      "hot_score": 0.28
+    },
+    {
+      "title_en": "Show HN: Now I Get It – Translate scientific papers into interactive webpages",
+      "url": "https://nowigetit.us",
+      "title_zh": "Show HN：Now I Get It——把科学论文转化为互动式网页",
+      "created_display": "Created: Feb 28, 2026 / 05:29 PT",
+      "image_url": "https://nowigetit.us/logo.png",
+      "summary_en": "Showcases a project that translates scholarly papers into interactive, explorable webpages, improving accessibility and comprehension. The approach highlights how dynamic, visualized content can boost the uptake of research.",
+      "summary_zh": "展示一个把科学论文转化为可互动、可探索网页的项目，提升可访问性与理解深度。动态可视化内容的应用有望提升研究的传播与理解程度。",
+      "hn": {
+        "id": 47195123,
+        "type": "story",
+        "by": "jbdamask",
+        "score": 294,
+        "descendants": 128,
+        "time": 1772285376,
+        "comments_url": "https://news.ycombinator.com/item?id=47195123"
+      },
+      "tags": [
+        "Show HN",
+        "Web",
+        "Science"
+      ],
+      "hot_score": 0.26
+    },
+    {
+      "title_en": "OpenAI fires an employee for prediction market insider trading",
+      "url": "https://www.wired.com/story/openai-fires-employee-insider-trading-polymarket-kalshi/",
+      "title_zh": "OpenAI 因预测市场内幕交易解雇员工",
+      "created_display": "Created: Feb 28, 2026 / 05:46 PT",
+      "image_url": "https://media.wired.com/photos/69a0b01c157af8f83feddf9b/191:100/w_1280,c_limit/OpenAI-Employee-Fired-Insider-Trading-Business-2210029299.jpg",
+      "summary_en": "OpenAI terminated an employee tied to prediction-market insider trading, underscoring governance and ethics challenges inside AI labs. The incident highlights the need for internal controls and compliance culture in fast-moving AI organizations.",
+      "summary_zh": "OpenAI 因涉及预测市场内幕交易而解雇一名员工，凸显 AI 实验室内部治理与道德合规挑战。事件强调在快速发展中的 AI 机构建立内部控制与合规文化的必要性。",
+      "hn": {
+        "id": 47195317,
+        "type": "story",
+        "by": "bookofjoe",
+        "score": 293,
+        "descendants": 149,
+        "time": 1772286380,
+        "comments_url": "https://news.ycombinator.com/item?id=47195317"
+      },
+      "tags": [
+        "Security",
+        "Legal",
+        "AI"
+      ],
+      "hot_score": 0.26
+    },
+    {
+      "title_en": "MinIO Is Dead, Long Live MinIO",
+      "url": "https://blog.vonng.com/en/db/minio-resurrect/",
+      "title_zh": "MinIO 重生：死去的版本与新的 MinIO",
+      "created_display": "Created: Feb 28, 2026 / 13:16 PT",
+      "image_url": "https://blog.vonng.com/db/minio-resurrect/featured.webp",
+      "summary_en": "Reports describe a major relaunch or architectural revamp of MinIO, signaling a new era while preserving the project's open-source ethos. The update promises better performance, scalability, and ecosystem compatibility for object storage in cloud-native stacks.",
+      "summary_zh": "报道描述 MinIO 的重大重启或架构改造，标志着一个新时代的来临，同时保留开源本质。更新承诺提升性能、可扩展性与与云原生生态的兼容性。",
+      "hn": {
+        "id": 47200342,
+        "type": "story",
+        "by": "zufallsheld",
+        "score": 221,
+        "descendants": 90,
+        "time": 1772313413,
+        "comments_url": "https://news.ycombinator.com/item?id=47200342"
+      },
+      "tags": [
+        "Open Source",
+        "Data"
+      ],
+      "hot_score": 0.26
+    },
+    {
+      "title_en": "Samsung Galaxy update removes Android recovery menu tools, including sideloading",
+      "url": "https://9to5google.com/2026/02/27/samsung-galaxy-update-android-recovery-menu-removed/",
+      "title_zh": "三星 Galaxy 更新移除了 Android 恢复菜单工具",
+      "created_display": "Created: Feb 28, 2026 / 17:59 PT",
+      "image_url": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/02/galaxy-s26-ultra-privacy-display-3.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "summary_en": "A firmware update removes Android recovery menu tooling, including sideloading, tightening security but reducing repairability and customization options for devices.",
+      "summary_zh": "固件更新移除了 Android 恢复菜单工具及侧加载功能，提升安全性但降低了设备的修复性与自定义能力。",
+      "hn": {
+        "id": 47202808,
+        "type": "story",
+        "by": "pabs3",
+        "score": 169,
+        "descendants": 58,
+        "time": 1772330340,
+        "comments_url": "https://news.ycombinator.com/item?id=47202808"
+      },
+      "hot_score": 0.25,
+      "tags": [
+        "Security"
+      ]
+    },
+    {
+      "title_en": "Addressing Antigravity Bans and Reinstating Access",
+      "url": "https://github.com/google-gemini/gemini-cli/discussions/20632",
+      "title_zh": "解决 Antigravity 禁令并恢复访问权限",
+      "created_display": "Created: Feb 28, 2026 / 05:50 PT",
+      "image_url": "https://opengraph.githubassets.com/720deeefbf7c69f53f16874548d0b2bc20f112b3bb27cdd36914070b726229f6/google-gemini/gemini-cli/discussions/20632",
+      "summary_en": "Discusses policy and access controls around a Gemini CLI feature, focusing on lifting bans and restoring access for developers. It analyzes safety controls versus developer productivity and practical allowances.",
+      "summary_zh": "讨论 Gemini CLI 功能的政策与访问控制，聚焦解除禁令、恢复开发者访问权限。分析安全控制与开发效率之间的权衡，以及落地的实际容许策略。",
+      "hn": {
+        "id": 47195371,
+        "type": "story",
+        "by": "RyanShook",
+        "score": 253,
+        "descendants": 214,
+        "time": 1772286613,
+        "comments_url": "https://news.ycombinator.com/item?id=47195371"
+      },
+      "tags": [
+        "Politics",
+        "Legal",
+        "AI"
+      ],
+      "hot_score": 0.23
+    },
+    {
+      "title_en": "Verified Spec-Driven Development (VSDD)",
+      "url": "https://gist.github.com/dollspace-gay/d8d3bc3ecf4188df049d7a4726bb2a00",
+      "title_zh": "经验证的规范驱动开发（VSDD）",
+      "created_display": "Created: Feb 28, 2026 / 08:58 PT",
+      "image_url": "https://github.githubassets.com/assets/gist-og-image-54fd7dc0713e.png",
+      "summary_en": "Proposes Verified Spec-Driven Development, a discipline combining formal specs with automated checks to improve correctness and reliability. It outlines steps from architecture to testing to verification for higher-assurance software.",
+      "summary_zh": "提出经验证的规范驱动开发（VSDD），将形式化规范与自动检查结合以提升正确性与可靠性。概述从架构到测试再到验证的流程，帮助团队实现更高保真度的软件。",
+      "hn": {
+        "id": 47197595,
+        "type": "story",
+        "by": "todsacerdoti",
+        "score": 208,
+        "descendants": 112,
+        "time": 1772297934,
+        "comments_url": "https://news.ycombinator.com/item?id=47197595"
+      },
+      "tags": [
+        "Programming"
+      ],
+      "hot_score": 0.21
+    },
+    {
+      "title_en": "Pentagon chief blocks officers from Ivy League schools and top universities",
+      "url": "https://fortune.com/2026/02/28/pentagon-officer-education-ivy-league-schools-universities-partners-ai-space/",
+      "title_zh": "五角大楼负责人阻止军官就读常春藤等名校",
+      "created_display": "Created: Feb 28, 2026 / 15:51 PT",
+      "image_url": "https://fortune.com/img-assets/wp-content/uploads/2026/02/GettyImages-1362368150-e1772319228293.jpg?resize=1200,600",
+      "summary_en": "A policy change restricting officers from attending Ivy League or top universities could reshape the military talent pipeline and impact AI/space program partnerships and innovation efforts.",
+      "summary_zh": "限制军官就读常春藤及顶尖高校的政策可能重塑军队的人才培养渠道，并影响 AI 与太空项目的合作与创新。",
+      "hn": {
+        "id": 47201882,
+        "type": "story",
+        "by": "geox",
+        "score": 136,
+        "descendants": 61,
+        "time": 1772322664,
+        "comments_url": "https://news.ycombinator.com/item?id=47201882"
+      },
+      "hot_score": 0.18,
+      "tags": [
+        "Politics",
+        "Education",
+        "AI"
+      ]
+    },
+    {
+      "title_en": "\"Cancel ChatGPT\" movement goes mainstream after OpenAI closes deal with U.S. Dow",
+      "url": "https://www.windowscentral.com/artificial-intelligence/cancel-chatgpt-movement-goes-mainstream-after-openai-closes-deal-with-u-s-department-of-war-as-anthropic-refuses-to-surveil-american-citizens",
+      "title_zh": "取消 ChatGPT 的运动在 OpenAI 与美国国防部交易后进入主流",
+      "created_display": "Created: Feb 28, 2026 / 11:03 PT",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/CrTAwpsjMduduUvZH7F3EP-2560-80.jpg",
+      "summary_en": "The Cancel ChatGPT movement gains traction after a high-profile deal involving OpenAI and a U.S. defense-related entity, raising concerns about AI ethics, surveillance, and trust.",
+      "summary_zh": "在 OpenAI 与一项涉及美国国防的交易引发关注后，取消 ChatGPT 的运动进入主流，引发关于 AI 道德、监控与信任的讨论。",
+      "hn": {
+        "id": 47198973,
+        "type": "story",
+        "by": "AndrewKemendo",
+        "score": 158,
+        "descendants": 47,
+        "time": 1772305427,
+        "comments_url": "https://news.ycombinator.com/item?id=47198973"
+      },
+      "hot_score": 0.17,
+      "tags": [
+        "Politics",
+        "Privacy",
+        "AI"
+      ]
+    }
+  ]
+}
