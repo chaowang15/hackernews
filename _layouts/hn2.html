@@ -1,0 +1,22 @@
+<!doctype html>
+<html lang="zh" data-style="a">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>{{ page.title }}</title>
+<script>(function(){var t=document.documentElement,s=localStorage;t.dataset.scheme=s.getItem('hn-scheme-a')||(matchMedia('(prefers-color-scheme: light)').matches?'light':'dark');t.dataset.view=s.getItem('hn-view')||'one';t.dataset.lang=s.getItem('hn-lang')||((navigator.language||'').indexOf('zh')===0?'zh':'en')})();</script>
+<script>window.HN2CFG={base:'/hackernews/',ext:''};</script>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="/hackernews/assets/hn/v2/base.css?v={{ site.time | date: '%s' }}">
+<link rel="stylesheet" href="/hackernews/assets/hn/v2/theme.css?v={{ site.time | date: '%s' }}">
+<link rel="alternate" type="application/rss+xml" title="Hacker News Daily RSS" href="/hackernews/feed.xml">
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-S94YYNZWEY"></script>
+<script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','G-S94YYNZWEY');</script>
+</head>
+<body>
+{{ content }}
+<script src="/hackernews/assets/hn/v2/hn2.js?v={{ site.time | date: '%s' }}"></script>
+</body>
+</html>

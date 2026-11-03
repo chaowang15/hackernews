@@ -8,6 +8,7 @@ on:
       - "hackernews/**"
       - "assets/hn/**"
       - "_layouts/hn.html"
+      - "_layouts/hn2.html"
       - "_config.yml"
       - "Gemfile"
       - "Gemfile.lock"

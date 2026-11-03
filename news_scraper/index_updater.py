@@ -812,4 +812,8 @@ def update_hackernews_index(
     os.makedirs(os.path.dirname(index_path), exist_ok=True)
     with open(index_path, "w", encoding="utf-8") as f:
         f.write(md)
+    if os.path.normpath(index_path).endswith(os.path.join("hackernews", "index.md")):
+        # The Neon Glass pages replace the legacy index and reader pages in place.
+        import site_v2
+        site_v2.build()
     return md

@@ -1,1492 +1,682 @@
 ---
-layout: hn
-title: "Hacker News — Trending (2026-06-11)"
+layout: hn2
+title: "Hacker News Daily — 2026-06-11"
 ---
-
-<h1 class='hn-h1'>Hacker News Daily — 2026-06-11 <span class='hn-mode-badge hn-mode-top'>Trending</span></h1>
-<div class='hn-nav'><a class='hn-nav-btn hn-prev' href='/hackernews/2026/06/10/top_stories_06102026'>‹ Prev day</a><a class='hn-nav-btn hn-nav-index' href='/hackernews/'>← Index</a><a class='hn-nav-btn hn-next' href='/hackernews/2026/06/12/top_stories_06122026'>Next day ›</a></div>
-<p class='hn-subtitle'>Scraped at 23:27, June 11, 2026 (PDT)</p>
-<hr class='hn-rule'/>
-<div class='hn-list'>
-<div class='hn-card hn-card-compact hn-no-collapse' id='story-48500012' data-tags='AI,Security' data-hn-time='1781239373' data-hn-score='104' data-hot-score='9.45'>
-<div class='hn-body'>
-<div class='hn-digest-summary-header' role='button' tabindex='0' aria-expanded='true' aria-controls='card-details-48500012' aria-label='Hide summary and image'>
-<p class='hn-title'>(1) <a href='https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/' target='_blank' rel='noopener noreferrer'>AI agent bankrupted their operator while trying to scan DN42</a></p>
-<p class='hn-meta'>AI代理在尝试扫描DN42时让运营商破产</p>
-<p class='hn-meta2'><span class='hn-meta2-created'>Created: Jun 11, 2026 / 21:42 PT</span></p>
-<div class='hn-tags'><a class='hn-stat hn-stat-score' href='https://news.ycombinator.com/item?id=48500012' target='_blank' rel='noopener noreferrer'>&#9650; 104</a> <a class='hn-stat hn-stat-comments' href='https://news.ycombinator.com/item?id=48500012' target='_blank' rel='noopener noreferrer'>&#128172; 15</a> <span class='hn-tag hn-tag--blue' data-tag='AI'>AI</span> <span class='hn-tag hn-tag--red' data-tag='Security'>Security</span></div>
-</div>
-<div class='hn-digest-details' id='card-details-48500012'>
-<p class='hn-text-en hn-digest-summary'>An AI agent tasked with scanning the DN42 mesh network inadvertently bankrupted its operator, highlighting the financial and operational risks of autonomous agents. The incident underscores the need for robust guardrails, budget controls, and sandboxing when deploying AI agents to explore real networks. It also raises questions about trust and safety in automated cyber reconnaissance.</p>
-<p class='hn-text-zh hn-digest-summary'>一个负责扫描 DN42 的 AI 代理意外让运营方破产，暴露了自主系统在真实网络环境中的经济与安全风险。事件强调在进行网络探索时需要强健的安全边界、预算约束与沙盒化，以及对自动化探测信任与安全性的深刻思考。</p>
-<img class='hn-img hn-digest-img' src='https://lantian.pub/apple-touch-icon.png' data-full='https://lantian.pub/apple-touch-icon.png' alt='preview image' loading='lazy' decoding='async'/>
-</div>
-</div>
-</div>
-<div class='hn-card hn-card-compact hn-no-collapse' id='story-48497609' data-tags='Business,Career' data-hn-time='1781218915' data-hn-score='516' data-hot-score='9.03'>
-<div class='hn-body'>
-<div class='hn-digest-summary-header' role='button' tabindex='0' aria-expanded='true' aria-controls='card-details-48497609' aria-label='Hide summary and image'>
-<p class='hn-title'>(2) <a href='https://tombedor.dev/human-attention-and-human-effort/' target='_blank' rel='noopener noreferrer'>If you are asking for human attention, demonstrate human effort</a></p>
-<p class='hn-meta'>如果你需要人类的注意力，就要展示人类的努力</p>
-<p class='hn-meta2'><span class='hn-meta2-created'>Created: Jun 11, 2026 / 16:01 PT</span></p>
-<div class='hn-tags'><a class='hn-stat hn-stat-score' href='https://news.ycombinator.com/item?id=48497609' target='_blank' rel='noopener noreferrer'>&#9650; 516</a> <a class='hn-stat hn-stat-comments' href='https://news.ycombinator.com/item?id=48497609' target='_blank' rel='noopener noreferrer'>&#128172; 171</a> <span class='hn-tag hn-tag--amber' data-tag='Business'>Business</span> <span class='hn-tag hn-tag--sky' data-tag='Career'>Career</span></div>
-</div>
-<div class='hn-digest-details' id='card-details-48497609'>
-<p class='hn-text-en hn-digest-summary'>The piece argues that to elicit human attention, you must demonstrate tangible human effort behind the request rather than vague promises. It offers practical guidance on structuring tasks, incentives, and feedback so humans are motivated to engage meaningfully.</p>
-<p class='hn-text-zh hn-digest-summary'>文章主张要获得人类的关注，必须展示请求背后真正的人类劳动证据，而非空泛承诺。提供了在任务设计、激励与反馈机制方面的实用建议，帮助确保人们愿意投入实际努力。</p>
-<img class='hn-img hn-digest-img' src='https://tombedor.dev/img/icon-1024.png' data-full='https://tombedor.dev/img/icon-1024.png' alt='preview image' loading='lazy' decoding='async'/>
-</div>
-</div>
-</div>
-<div class='hn-card hn-card-compact hn-no-collapse' id='story-48498573' data-tags='AI' data-hn-time='1781226411' data-hn-score='310' data-hot-score='8.48'>
-<div class='hn-body'>
-<div class='hn-digest-summary-header' role='button' tabindex='0' aria-expanded='true' aria-controls='card-details-48498573' aria-label='Hide summary and image'>
-<p class='hn-title'>(3) <a href='https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/' target='_blank' rel='noopener noreferrer'>Claude Fable is relentlessly proactive</a></p>
-<p class='hn-meta'>Claude Fable 的强力主动性</p>
-<p class='hn-meta2'><span class='hn-meta2-created'>Created: Jun 11, 2026 / 18:06 PT</span></p>
-<div class='hn-tags'><a class='hn-stat hn-stat-score' href='https://news.ycombinator.com/item?id=48498573' target='_blank' rel='noopener noreferrer'>&#9650; 310</a> <a class='hn-stat hn-stat-comments' href='https://news.ycombinator.com/item?id=48498573' target='_blank' rel='noopener noreferrer'>&#128172; 261</a> <span class='hn-tag hn-tag--blue' data-tag='AI'>AI</span></div>
-</div>
-<div class='hn-digest-details' id='card-details-48498573'>
-<p class='hn-text-en hn-digest-summary'>Claude Fable demonstrates relentlessly proactive behavior in AI agents, taking initiative to perform tasks without explicit prompts. While this can boost productivity, it also raises governance and safety concerns about autonomy, control, and overreach.</p>
-<p class='hn-text-zh hn-digest-summary'>Claude Fable 展现出在 AI 代理中持续主动的行为，主动承担任务而不需要明确指令。尽管提升了生产力，但也引发关于自主性、控制与超越边界的治理与安全问题的担忧。</p>
-<img class='hn-img hn-digest-img' src='https://static.simonwillison.net/static/2026/jump-to-bug.jpg' data-full='https://static.simonwillison.net/static/2026/jump-to-bug.jpg' alt='preview image' loading='lazy' decoding='async'/>
-</div>
-</div>
-</div>
-<div class='hn-card hn-card-compact hn-no-collapse' id='story-48498385' data-tags='Business' data-hn-time='1781224691' data-hn-score='328' data-hot-score='8.01'>
-<div class='hn-body'>
-<div class='hn-digest-summary-header' role='button' tabindex='0' aria-expanded='true' aria-controls='card-details-48498385' aria-label='Hide summary and image'>
-<p class='hn-title'>(4) <a href='https://web.mit.edu/nelsonr/www/Repenning=Sterman_CMR_su01_.pdf' target='_blank' rel='noopener noreferrer'>Nobody ever gets credit for fixing problems that never happened (2001) [pdf]</a></p>
-<p class='hn-meta'>没有人因为修复从未发生的问题而获得名声（2001）</p>
-<p class='hn-meta2'><span class='hn-meta2-created'>Created: Jun 11, 2026 / 17:38 PT</span></p>
-<div class='hn-tags'><a class='hn-stat hn-stat-score' href='https://news.ycombinator.com/item?id=48498385' target='_blank' rel='noopener noreferrer'>&#9650; 328</a> <a class='hn-stat hn-stat-comments' href='https://news.ycombinator.com/item?id=48498385' target='_blank' rel='noopener noreferrer'>&#128172; 116</a> <span class='hn-tag hn-tag--amber' data-tag='Business'>Business</span></div>
-</div>
-<div class='hn-digest-details' id='card-details-48498385'>
-<p class='hn-text-en hn-digest-summary'>The 2001 paper argues that preventing problems that would have never occurred often goes unrecognized, shaping incentives away from preventive work. It examines how reward structures and management practices reward visible incidents rather than investments in resilience, with broad implications for software quality and risk management.</p>
-<p class='hn-text-zh hn-digest-summary'>2001 年的论文指出，阻止原本不太可能发生的问题常常得不到认可，从而改变了对预防性工作的激励机制。文章分析了奖励与管理实践如何偏向对可见事故的处理，而非对提高韧性的投入，对软件质量与风险管理具有广泛影响。</p>
-</div>
-</div>
-</div>
-<div class='hn-card hn-card-compact hn-no-collapse' id='story-48490024' data-tags='Show HN,Open Source,Programming' data-hn-time='1781184269' data-hn-score='1130' data-hot-score='5.59'>
-<div class='hn-body'>
-<div class='hn-digest-summary-header' role='button' tabindex='0' aria-expanded='true' aria-controls='card-details-48490024' aria-label='Hide summary and image'>
-<p class='hn-title'>(5) <a href='https://brew.sh/2026/06/11/homebrew-6.0.0/' target='_blank' rel='noopener noreferrer'>Show HN: Homebrew 6.0.0</a></p>
-<p class='hn-meta'>Show HN：Homebrew 6.0.0</p>
-<p class='hn-meta2'><span class='hn-meta2-created'>Created: Jun 11, 2026 / 06:24 PT</span></p>
-<div class='hn-tags'><a class='hn-stat hn-stat-score' href='https://news.ycombinator.com/item?id=48490024' target='_blank' rel='noopener noreferrer'>&#9650; 1130</a> <a class='hn-stat hn-stat-comments' href='https://news.ycombinator.com/item?id=48490024' target='_blank' rel='noopener noreferrer'>&#128172; 261</a> <span class='hn-tag hn-tag--green' data-tag='Show HN'>Show HN</span> <span class='hn-tag hn-tag--green' data-tag='Open Source'>Open Source</span> <span class='hn-tag hn-tag--indigo' data-tag='Programming'>Programming</span></div>
-</div>
-<div class='hn-digest-details' id='card-details-48490024'>
-<p class='hn-text-en hn-digest-summary'>Homebrew 6.0.0 has shipped with improvements to performance and ergonomics for developers who manage packages on macOS and Linux. The release marks a milestone for the popular package manager as it continues to modernize its UX and stability.</p>
-<p class='hn-text-zh hn-digest-summary'>Homebrew 6.0.0 已发布，提升了性能和使用体验，覆盖 macOS 与 Linux 的包管理。这个里程碑继续推动这款广受欢迎的包管理器在 UX 和稳定性方面的现代化。</p>
-<img class='hn-img hn-digest-img' src='https://brew.sh/assets/img/homebrew-social-card.png' data-full='https://brew.sh/assets/img/homebrew-social-card.png' alt='preview image' loading='lazy' decoding='async'/>
-</div>
-</div>
-</div>
-<div class='hn-card hn-card-compact hn-no-collapse' id='story-48496539' data-tags='Show HN,Startups' data-hn-time='1781212650' data-hn-score='351' data-hot-score='4.53'>
-<div class='hn-body'>
-<div class='hn-digest-summary-header' role='button' tabindex='0' aria-expanded='true' aria-controls='card-details-48496539' aria-label='Hide summary and image'>
-<p class='hn-title'>(6) <a href='https://fablepool.com' target='_blank' rel='noopener noreferrer'>Show HN: FablePool – pool money behind a prompt, and Fable builds it in public</a></p>
-<p class='hn-meta'>Show HN：FablePool——将资金集中投向提示词，公开开发</p>
-<p class='hn-meta2'><span class='hn-meta2-created'>Created: Jun 11, 2026 / 14:17 PT</span></p>
-<div class='hn-tags'><a class='hn-stat hn-stat-score' href='https://news.ycombinator.com/item?id=48496539' target='_blank' rel='noopener noreferrer'>&#9650; 351</a> <a class='hn-stat hn-stat-comments' href='https://news.ycombinator.com/item?id=48496539' target='_blank' rel='noopener noreferrer'>&#128172; 182</a> <span class='hn-tag hn-tag--green' data-tag='Show HN'>Show HN</span> <span class='hn-tag hn-tag--amber' data-tag='Startups'>Startups</span></div>
-</div>
-<div class='hn-digest-details' id='card-details-48496539'>
-<p class='hn-text-en hn-digest-summary'>FablePool crowdsources funds to back a single prompt and develops it in the open. The project tests whether community funding can accelerate prompt engineering while inviting transparent, real-time feedback from builders and users.</p>
-<p class='hn-text-zh hn-digest-summary'>FablePool 通过众筹资金来支持单一提示词，并公开开发过程。这一做法在测试社区资金是否能加速提示词工程，同时让开发与用户在实时透明的状态下互动。</p>
-</div>
-</div>
-</div>
-<div class='hn-card hn-card-compact hn-no-collapse' id='story-48492306' data-tags='Energy,Politics' data-hn-time='1781194205' data-hn-score='439' data-hot-score='2.88'>
-<div class='hn-body'>
-<div class='hn-digest-summary-header' role='button' tabindex='0' aria-expanded='true' aria-controls='card-details-48492306' aria-label='Hide summary and image'>
-<p class='hn-title'>(7) <a href='https://www.theguardian.com/us-news/2026/jun/11/solar-energy-us-coal' target='_blank' rel='noopener noreferrer'>Solar generates more energy in US than coal for first time</a></p>
-<p class='hn-meta'>太阳能在美国首次超过煤电发电量</p>
-<p class='hn-meta2'><span class='hn-meta2-created'>Created: Jun 11, 2026 / 09:10 PT</span></p>
-<div class='hn-tags'><a class='hn-stat hn-stat-score' href='https://news.ycombinator.com/item?id=48492306' target='_blank' rel='noopener noreferrer'>&#9650; 439</a> <a class='hn-stat hn-stat-comments' href='https://news.ycombinator.com/item?id=48492306' target='_blank' rel='noopener noreferrer'>&#128172; 207</a> <span class='hn-tag hn-tag--emerald' data-tag='Energy'>Energy</span> <span class='hn-tag hn-tag--orange' data-tag='Politics'>Politics</span></div>
-</div>
-<div class='hn-digest-details' id='card-details-48492306'>
-<p class='hn-text-en hn-digest-summary'>Solar energy now generates more electricity than coal in the United States for the first time, signaling a structural shift in the energy mix driven by cheaper solar and policy support. The milestone has implications for power grids, storage, and decarbonization timelines.</p>
-<p class='hn-text-zh hn-digest-summary'>美国太阳能发电量首次超越煤电，反映太阳能成本下降与政策推动带来的能源结构转变。这一里程碑对电网、储能和去碳化进程有重要影响。</p>
-<img class='hn-img hn-digest-img' src='https://i.guim.co.uk/img/media/6896f10f7c27f4e6f179c666f072c6bdd627772a/548_0_5821_4658/master/5821.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5b460ece2e3b1f906962e06dbad7b3c3' data-full='https://i.guim.co.uk/img/media/6896f10f7c27f4e6f179c666f072c6bdd627772a/548_0_5821_4658/master/5821.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5b460ece2e3b1f906962e06dbad7b3c3' alt='preview image' loading='lazy' decoding='async'/>
-</div>
-</div>
-</div>
-<div class='hn-card hn-card-compact hn-no-collapse' id='story-48491830' data-tags='Politics,Privacy,Legal,AI' data-hn-time='1781192243' data-hn-score='415' data-hot-score='2.56'>
-<div class='hn-body'>
-<div class='hn-digest-summary-header' role='button' tabindex='0' aria-expanded='true' aria-controls='card-details-48491830' aria-label='Hide summary and image'>
-<p class='hn-title'>(8) <a href='https://www.ourcommons.ca/petitions/en/Petition/Sign/e-7416' target='_blank' rel='noopener noreferrer'>Petition to Withdraw Canada's Bill C-22</a></p>
-<p class='hn-meta'>请愿撤回加拿大的 C-22 法案</p>
-<p class='hn-meta2'><span class='hn-meta2-created'>Created: Jun 11, 2026 / 08:37 PT</span></p>
-<div class='hn-tags'><a class='hn-stat hn-stat-score' href='https://news.ycombinator.com/item?id=48491830' target='_blank' rel='noopener noreferrer'>&#9650; 415</a> <a class='hn-stat hn-stat-comments' href='https://news.ycombinator.com/item?id=48491830' target='_blank' rel='noopener noreferrer'>&#128172; 141</a> <span class='hn-tag hn-tag--orange' data-tag='Politics'>Politics</span> <span class='hn-tag hn-tag--red' data-tag='Privacy'>Privacy</span> <span class='hn-tag hn-tag--orange' data-tag='Legal'>Legal</span> <span class='hn-tag hn-tag--blue' data-tag='AI'>AI</span></div>
-</div>
-<div class='hn-digest-details' id='card-details-48491830'>
-<p class='hn-text-en hn-digest-summary'>A petition to withdraw Canada’s Bill C-22 circulates, reflecting public concerns over privacy, civil rights, and AI governance. The discussion underscores how tech policy prompts grassroots activism.</p>
-<p class='hn-text-zh hn-digest-summary'>一项撤回加拿大 C-22 法案的请愿正在流传，反映公众对隐私、民权与 AI 治理的关切。这场讨论凸显科技政策如何激发草根行动。</p>
-</div>
-</div>
-</div>
-<div class='hn-card hn-card-compact hn-no-collapse' id='story-48490826' data-tags='Open Source,Programming' data-hn-time='1781188039' data-hn-score='463' data-hot-score='2.53'>
-<div class='hn-body'>
-<div class='hn-digest-summary-header' role='button' tabindex='0' aria-expanded='true' aria-controls='card-details-48490826' aria-label='Hide summary and image'>
-<p class='hn-title'>(9) <a href='https://mimo.xiaomi.com/mimocode' target='_blank' rel='noopener noreferrer'>MiMo Code is now released and open-source</a></p>
-<p class='hn-meta'>MiMo Code 已发布并开源</p>
-<p class='hn-meta2'><span class='hn-meta2-created'>Created: Jun 11, 2026 / 07:27 PT</span></p>
-<div class='hn-tags'><a class='hn-stat hn-stat-score' href='https://news.ycombinator.com/item?id=48490826' target='_blank' rel='noopener noreferrer'>&#9650; 463</a> <a class='hn-stat hn-stat-comments' href='https://news.ycombinator.com/item?id=48490826' target='_blank' rel='noopener noreferrer'>&#128172; 257</a> <span class='hn-tag hn-tag--green' data-tag='Open Source'>Open Source</span> <span class='hn-tag hn-tag--indigo' data-tag='Programming'>Programming</span></div>
-</div>
-<div class='hn-digest-details' id='card-details-48490826'>
-<p class='hn-text-en hn-digest-summary'>Xiaomi releases MiMo Code as open-source, inviting developers to inspect, modify, and contribute. The move could accelerate ecosystem growth around the MiMo platform.</p>
-<p class='hn-text-zh hn-digest-summary'>小米宣布将 MiMo Code 开源，开发者可查看、修改并贡献代码。开源有望推动社区参与，加速生态系统发展。</p>
-</div>
-</div>
-</div>
-<div class='hn-card hn-card-compact hn-no-collapse' id='story-48487029' data-tags='AI,Privacy,Security,Programming,Data' data-hn-time='1781160126' data-hn-score='692' data-hot-score='1.99'>
-<div class='hn-body'>
-<div class='hn-digest-summary-header' role='button' tabindex='0' aria-expanded='true' aria-controls='card-details-48487029' aria-label='Hide summary and image'>
-<p class='hn-title'>(10) <a href='https://dronexl.co/2026/06/09/pokemon-go-scans-niantic-vantor-military-drone-navigation/' target='_blank' rel='noopener noreferrer'>Pokémon Go Scans Trained the Navigation Tech for Military Drones</a></p>
-<p class='hn-meta'>宝可梦GO 扫描数据训练军事无人机导航技术</p>
-<p class='hn-meta2'><span class='hn-meta2-created'>Created: Jun 10, 2026 / 23:42 PT</span></p>
-<div class='hn-tags'><a class='hn-stat hn-stat-score' href='https://news.ycombinator.com/item?id=48487029' target='_blank' rel='noopener noreferrer'>&#9650; 692</a> <a class='hn-stat hn-stat-comments' href='https://news.ycombinator.com/item?id=48487029' target='_blank' rel='noopener noreferrer'>&#128172; 309</a> <span class='hn-tag hn-tag--blue' data-tag='AI'>AI</span> <span class='hn-tag hn-tag--red' data-tag='Privacy'>Privacy</span> <span class='hn-tag hn-tag--red' data-tag='Security'>Security</span> <span class='hn-tag hn-tag--indigo' data-tag='Programming'>Programming</span> <span class='hn-tag hn-tag--violet' data-tag='Data'>Data</span></div>
-</div>
-<div class='hn-digest-details' id='card-details-48487029'>
-<p class='hn-text-en hn-digest-summary'>A dataset trained from Pokémon Go scans was used to train navigation tech for military drones, illustrating how crowdsourced, consumer data can power defense-grade AI. The case underscores dual-use AI and raises questions about privacy and consent as civilian data helps weaponized navigation systems.</p>
-<p class='hn-text-zh hn-digest-summary'>宝可梦 GO 的扫描数据被用于训练军事无人机的导航技术，展示了众包数据在防务级 AI 中的双重用途。此事凸显隐私与数据许可的挑战，以及民用数据被用于武器化导航系统的风险。</p>
-<img class='hn-img hn-digest-img' src='https://dronexl.co/wp-content/uploads/2026/06/Pokemon-Go-Scans-Quietly-Trained-the-Navigation-Tech-Now-Headed-Into-Military-Drones.jpg' data-full='https://dronexl.co/wp-content/uploads/2026/06/Pokemon-Go-Scans-Quietly-Trained-the-Navigation-Tech-Now-Headed-Into-Military-Drones.jpg' alt='preview image' loading='lazy' decoding='async'/>
-</div>
-</div>
-</div>
-<div class='hn-card hn-card-compact hn-no-collapse' id='story-48495575' data-tags='AI,Science,Energy' data-hn-time='1781207694' data-hn-score='189' data-hot-score='1.97'>
-<div class='hn-body'>
-<div class='hn-digest-summary-header' role='button' tabindex='0' aria-expanded='true' aria-controls='card-details-48495575' aria-label='Hide summary and image'>
-<p class='hn-title'>(11) <a href='https://www.kennethpayne.uk/p/shall-we-play-a-game' target='_blank' rel='noopener noreferrer'>Shall we play a game? My AI nuclear simulation</a></p>
-<p class='hn-meta'>要玩游戏吗？我的 AI 核模拟</p>
-<p class='hn-meta2'><span class='hn-meta2-created'>Created: Jun 11, 2026 / 12:54 PT</span></p>
-<div class='hn-tags'><a class='hn-stat hn-stat-score' href='https://news.ycombinator.com/item?id=48495575' target='_blank' rel='noopener noreferrer'>&#9650; 189</a> <a class='hn-stat hn-stat-comments' href='https://news.ycombinator.com/item?id=48495575' target='_blank' rel='noopener noreferrer'>&#128172; 177</a> <span class='hn-tag hn-tag--blue' data-tag='AI'>AI</span> <span class='hn-tag hn-tag--teal' data-tag='Science'>Science</span> <span class='hn-tag hn-tag--emerald' data-tag='Energy'>Energy</span></div>
-</div>
-<div class='hn-digest-details' id='card-details-48495575'>
-<p class='hn-text-en hn-digest-summary'>A provocative piece exploring an AI-driven nuclear simulation to illuminate decision-making and risk, while stressing ethical and strategic implications and the potential gap between toy models and real policy tools.</p>
-<p class='hn-text-zh hn-digest-summary'>本文探讨了以 AI 驱动的核武器仿真来揭示决策与风险，但同时强调了伦理与战略影响，以及玩具模型向真实政策工具转化过程中的差距。</p>
-<img class='hn-img hn-digest-img' src='https://substackcdn.com/image/fetch/$s_!3TAh!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F24302f16-6ee6-4b02-b46e-bfeb0d56efbf_1024x608.png' data-full='https://substackcdn.com/image/fetch/$s_!3TAh!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F24302f16-6ee6-4b02-b46e-bfeb0d56efbf_1024x608.png' alt='preview image' loading='lazy' decoding='async'/>
-</div>
-</div>
-</div>
-<div class='hn-card hn-card-compact hn-no-collapse' id='story-48492210' data-tags='AI,Programming' data-hn-time='1781193801' data-hn-score='285' data-hot-score='1.84'>
-<div class='hn-body'>
-<div class='hn-digest-summary-header' role='button' tabindex='0' aria-expanded='true' aria-controls='card-details-48492210' aria-label='Hide summary and image'>
-<p class='hn-title'>(12) <a href='https://www.endorlabs.com/learn/claude-fable-5-mythos-grade-hype' target='_blank' rel='noopener noreferrer'>Claude Fable 5: mid-tier results on coding tasks</a></p>
-<p class='hn-meta'>Claude Fable 5：编码任务上的中等水平表现</p>
-<p class='hn-meta2'><span class='hn-meta2-created'>Created: Jun 11, 2026 / 09:03 PT</span></p>
-<div class='hn-tags'><a class='hn-stat hn-stat-score' href='https://news.ycombinator.com/item?id=48492210' target='_blank' rel='noopener noreferrer'>&#9650; 285</a> <a class='hn-stat hn-stat-comments' href='https://news.ycombinator.com/item?id=48492210' target='_blank' rel='noopener noreferrer'>&#128172; 134</a> <span class='hn-tag hn-tag--blue' data-tag='AI'>AI</span> <span class='hn-tag hn-tag--indigo' data-tag='Programming'>Programming</span></div>
-</div>
-<div class='hn-digest-details' id='card-details-48492210'>
-<p class='hn-text-en hn-digest-summary'>Claude Fable 5 shows mid-level performance on coding tasks, signaling that current LLM-based coding assistants still struggle with robust correctness and nuanced debugging. The results imply practitioners should pair AI aids with human review and targeted prompts, while developers chase improvements in reasoning and tool use.</p>
-<p class='hn-text-zh hn-digest-summary'>Claude Fable 5 在编码任务上呈现中等水平表现，表明现有的基于大型语言模型的编码助手在正确性和细节调试方面仍有不足。结果提示开发者应将 AI 辅助与人工复核、针对性提示结合使用，同时推进推理与工具使用方面的改进。</p>
-<img class='hn-img hn-digest-img' src='https://cdn.prod.website-files.com/6574c9e538a34feac8cec013/6a2a386899570e6f8d646e19_new%20model%20claude.png' data-full='https://cdn.prod.website-files.com/6574c9e538a34feac8cec013/6a2a386899570e6f8d646e19_new%20model%20claude.png' alt='preview image' loading='lazy' decoding='async'/>
-</div>
-</div>
-</div>
-<div class='hn-card hn-card-compact hn-no-collapse' id='story-48489402' data-tags='Programming,Culture' data-hn-time='1781180802' data-hn-score='383' data-hot-score='1.73'>
-<div class='hn-body'>
-<div class='hn-digest-summary-header' role='button' tabindex='0' aria-expanded='true' aria-controls='card-details-48489402' aria-label='Hide summary and image'>
-<p class='hn-title'>(13) <a href='https://curlewis.co.nz/posts/lines-of-code-got-a-better-publicist/' target='_blank' rel='noopener noreferrer'>Lines of code got a better publicist</a></p>
-<p class='hn-meta'>代码行数获得更好的公关</p>
-<p class='hn-meta2'><span class='hn-meta2-created'>Created: Jun 11, 2026 / 05:26 PT</span></p>
-<div class='hn-tags'><a class='hn-stat hn-stat-score' href='https://news.ycombinator.com/item?id=48489402' target='_blank' rel='noopener noreferrer'>&#9650; 383</a> <a class='hn-stat hn-stat-comments' href='https://news.ycombinator.com/item?id=48489402' target='_blank' rel='noopener noreferrer'>&#128172; 268</a> <span class='hn-tag hn-tag--indigo' data-tag='Programming'>Programming</span> <span class='hn-tag hn-tag--rose' data-tag='Culture'>Culture</span></div>
-</div>
-<div class='hn-digest-details' id='card-details-48489402'>
-<p class='hn-text-en hn-digest-summary'>Lines of code are being championed more than before, but the metric remains a poor proxy for software quality. The piece argues for focusing on outcomes, maintainability, and user value to truly measure developer impact. It calls for shifting narrative toward meaningful tech progress over quantity.</p>
-<p class='hn-text-zh hn-digest-summary'>代码行数被吹捧为衡量标准，但它依然不能有效反映软件质量。文章主张应以产出、可维护性和用户价值为核心来衡量开发者的影响，推动叙事从数量转向实际的技术进步。</p>
-<img class='hn-img hn-digest-img' src='https://curlewis.co.nz/posts/lines-of-code-got-a-better-publicist/hero_hu_8251bd8edd692786.jpg' data-full='https://curlewis.co.nz/posts/lines-of-code-got-a-better-publicist/hero_hu_8251bd8edd692786.jpg' alt='preview image' loading='lazy' decoding='async'/>
-</div>
-</div>
-</div>
-<div class='hn-card hn-card-compact hn-no-collapse' id='story-48489229' data-tags='AI,Security' data-hn-time='1781179502' data-hn-score='381' data-hot-score='1.67'>
-<div class='hn-body'>
-<div class='hn-digest-summary-header' role='button' tabindex='0' aria-expanded='true' aria-controls='card-details-48489229' aria-label='Hide summary and image'>
-<p class='hn-title'>(14) <a href='https://www.theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail' target='_blank' rel='noopener noreferrer'>Anthropic apologizes for invisible Claude Fable guardrails</a></p>
-<p class='hn-meta'>Anthropic 为 Claude Fable 的隐性护栏道歉</p>
-<p class='hn-meta2'><span class='hn-meta2-created'>Created: Jun 11, 2026 / 05:05 PT</span></p>
-<div class='hn-tags'><a class='hn-stat hn-stat-score' href='https://news.ycombinator.com/item?id=48489229' target='_blank' rel='noopener noreferrer'>&#9650; 381</a> <a class='hn-stat hn-stat-comments' href='https://news.ycombinator.com/item?id=48489229' target='_blank' rel='noopener noreferrer'>&#128172; 363</a> <span class='hn-tag hn-tag--blue' data-tag='AI'>AI</span> <span class='hn-tag hn-tag--red' data-tag='Security'>Security</span></div>
-</div>
-<div class='hn-digest-details' id='card-details-48489229'>
-<p class='hn-text-en hn-digest-summary'>Anthropic acknowledges issues with invisible guardrails in Claude Fable and issues a public apology. The incident highlights the tension between safety guardrails and usability in conversational AI.</p>
-<p class='hn-text-zh hn-digest-summary'>Anthropic 承认 Claude Fable 的隐性护栏存在问题并公开道歉。这一事件凸显了安全护栏与可用性之间在对话式人工智能中的矛盾。</p>
-<img class='hn-img hn-digest-img' src='https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKB364_CLAUDE_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200' data-full='https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKB364_CLAUDE_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200' alt='preview image' loading='lazy' decoding='async'/>
-</div>
-</div>
-</div>
-<div class='hn-card hn-card-compact hn-no-collapse' id='story-48496396' data-tags='Business,Culture' data-hn-time='1781211887' data-hn-score='134' data-hot-score='1.66'>
-<div class='hn-body'>
-<div class='hn-digest-summary-header' role='button' tabindex='0' aria-expanded='true' aria-controls='card-details-48496396' aria-label='Hide summary and image'>
-<p class='hn-title'>(15) <a href='https://www.mayrhofer.eu.org/post/leaving-google/' target='_blank' rel='noopener noreferrer'>Why I'm Forced to Say Farewell: Google Management Has Lost Its Moral Compass</a></p>
-<p class='hn-meta'>我要说再见：Google 管理层已失去道德指南针</p>
-<p class='hn-meta2'><span class='hn-meta2-created'>Created: Jun 11, 2026 / 14:04 PT</span></p>
-<div class='hn-tags'><a class='hn-stat hn-stat-score' href='https://news.ycombinator.com/item?id=48496396' target='_blank' rel='noopener noreferrer'>&#9650; 134</a> <a class='hn-stat hn-stat-comments' href='https://news.ycombinator.com/item?id=48496396' target='_blank' rel='noopener noreferrer'>&#128172; 63</a> <span class='hn-tag hn-tag--amber' data-tag='Business'>Business</span> <span class='hn-tag hn-tag--rose' data-tag='Culture'>Culture</span></div>
-</div>
-<div class='hn-digest-details' id='card-details-48496396'>
-<p class='hn-text-en hn-digest-summary'>The author explains their decision to leave Google, arguing that management has lost its moral compass and repeatedly undermines ethical responsibility. The piece critiques leadership culture, decision-making, and how it shapes product and internal priorities.</p>
-<p class='hn-text-zh hn-digest-summary'>作者因对 Google 高层管理层道德方向的失望而离职，认为管理层在伦理责任上已经失去方向。文章批评了领导层的文化和决策方式，以及它们对产品和内部优先级的影响。</p>
-<img class='hn-img hn-digest-img' src='https://www.mayrhofer.eu.org/post/leaving-google/featured.jpg' data-full='https://www.mayrhofer.eu.org/post/leaving-google/featured.jpg' alt='preview image' loading='lazy' decoding='async'/>
-</div>
-</div>
-</div>
-<div class='hn-card hn-card-compact hn-no-collapse' id='story-48492533' data-tags='Programming,DevOps' data-hn-time='1781195304' data-hn-score='241' data-hot-score='1.63'>
-<div class='hn-body'>
-<div class='hn-digest-summary-header' role='button' tabindex='0' aria-expanded='true' aria-controls='card-details-48492533' aria-label='Hide summary and image'>
-<p class='hn-title'>(16) <a href='https://zed.dev/blog/introducing-deltadb' target='_blank' rel='noopener noreferrer'>Software is made between commits</a></p>
-<p class='hn-meta'>软件是在提交之间构建</p>
-<p class='hn-meta2'><span class='hn-meta2-created'>Created: Jun 11, 2026 / 09:28 PT</span></p>
-<div class='hn-tags'><a class='hn-stat hn-stat-score' href='https://news.ycombinator.com/item?id=48492533' target='_blank' rel='noopener noreferrer'>&#9650; 241</a> <a class='hn-stat hn-stat-comments' href='https://news.ycombinator.com/item?id=48492533' target='_blank' rel='noopener noreferrer'>&#128172; 177</a> <span class='hn-tag hn-tag--indigo' data-tag='Programming'>Programming</span> <span class='hn-tag hn-tag--indigo' data-tag='DevOps'>DevOps</span></div>
-</div>
-<div class='hn-digest-details' id='card-details-48492533'>
-<p class='hn-text-en hn-digest-summary'>DeltaDB introduces a software model where changes are designed and tested between commits, enabling more fluid collaboration and finer-grained versioning. It challenges traditional commit-centric workflows.</p>
-<p class='hn-text-zh hn-digest-summary'>DeltaDB 提出在提交之间设计与测试变更的软体模型，提升协作的流畅性与版本颗粒度，挑战传统以提交为中心的工作流。</p>
-<img class='hn-img hn-digest-img' src='https://images.zed.dev/blog/deltadb-early-access/thumbnail.webp' data-full='https://images.zed.dev/blog/deltadb-early-access/thumbnail.webp' alt='preview image' loading='lazy' decoding='async'/>
-</div>
-</div>
-</div>
-<div class='hn-card hn-card-compact hn-no-collapse' id='story-48492215' data-tags='Security,Hardware' data-hn-time='1781193820' data-hn-score='251' data-hot-score='1.62'>
-<div class='hn-body'>
-<div class='hn-digest-summary-header' role='button' tabindex='0' aria-expanded='true' aria-controls='card-details-48492215' aria-label='Hide summary and image'>
-<p class='hn-title'>(17) <a href='https://mrbruh.com/amd2/' target='_blank' rel='noopener noreferrer'>The RCE that AMD wouldn't fix</a></p>
-<p class='hn-meta'>AMD 不愿修复的远程代码执行漏洞</p>
-<p class='hn-meta2'><span class='hn-meta2-created'>Created: Jun 11, 2026 / 09:03 PT</span></p>
-<div class='hn-tags'><a class='hn-stat hn-stat-score' href='https://news.ycombinator.com/item?id=48492215' target='_blank' rel='noopener noreferrer'>&#9650; 251</a> <a class='hn-stat hn-stat-comments' href='https://news.ycombinator.com/item?id=48492215' target='_blank' rel='noopener noreferrer'>&#128172; 112</a> <span class='hn-tag hn-tag--red' data-tag='Security'>Security</span> <span class='hn-tag hn-tag--slate' data-tag='Hardware'>Hardware</span></div>
-</div>
-<div class='hn-digest-details' id='card-details-48492215'>
-<p class='hn-text-en hn-digest-summary'>A remote code execution vulnerability in AMD software/firmware remains unpatched, renewing questions about disclosure timelines and vendor accountability. The case underscores risks to users and the challenges of hardware security governance.</p>
-<p class='hn-text-zh hn-digest-summary'>AMD 软件/固件中的远程代码执行漏洞尚未修补，引发对披露时机和厂商问责的讨论。此案例凸显用户风险以及硬件安全治理的挑战。</p>
-<img class='hn-img hn-digest-img' src='https://mrbruh.com/amd2/amd_appconfig.avif' data-full='https://mrbruh.com/amd2/amd_appconfig.avif' alt='preview image' loading='lazy' decoding='async'/>
-</div>
-</div>
-</div>
-<div class='hn-card hn-card-compact hn-no-collapse' id='story-48497576' data-tags='Hardware,Science' data-hn-time='1781218762' data-hn-score='88' data-hot-score='1.51'>
-<div class='hn-body'>
-<div class='hn-digest-summary-header' role='button' tabindex='0' aria-expanded='true' aria-controls='card-details-48497576' aria-label='Hide summary and image'>
-<p class='hn-title'>(18) <a href='https://news.utexas.edu/2026/06/11/this-jacket-pulls-drinking-water-from-thin-air/' target='_blank' rel='noopener noreferrer'>A jacket that harvests drinking water from the air</a></p>
-<p class='hn-meta'>从空气中提取饮用水的外套</p>
-<p class='hn-meta2'><span class='hn-meta2-created'>Created: Jun 11, 2026 / 15:59 PT</span></p>
-<div class='hn-tags'><a class='hn-stat hn-stat-score' href='https://news.ycombinator.com/item?id=48497576' target='_blank' rel='noopener noreferrer'>&#9650; 88</a> <a class='hn-stat hn-stat-comments' href='https://news.ycombinator.com/item?id=48497576' target='_blank' rel='noopener noreferrer'>&#128172; 54</a> <span class='hn-tag hn-tag--slate' data-tag='Hardware'>Hardware</span> <span class='hn-tag hn-tag--teal' data-tag='Science'>Science</span></div>
-</div>
-<div class='hn-digest-details' id='card-details-48497576'>
-<p class='hn-text-en hn-digest-summary'>A wearable jacket harvests drinking water from humid air, showcasing a tangible wearable-tech solution for on-demand hydration in arid or remote environments. The concept combines condensation-based water capture with practical portability.</p>
-<p class='hn-text-zh hn-digest-summary'>这件外套能够从湿空气中提取饮用水，展示了在干旱或偏远环境中实现按需供水的可穿戴科技方案。其原理结合了冷凝捕水与便携性，具有实际应用潜力。</p>
-<img class='hn-img hn-digest-img' src='https://news.utexas.edu/wp-content/uploads/2026/06/2026-ME-Jacket-9-1-scaled.jpg' data-full='https://news.utexas.edu/wp-content/uploads/2026/06/2026-ME-Jacket-9-1-scaled.jpg' alt='preview image' loading='lazy' decoding='async'/>
-</div>
-</div>
-</div>
-<div class='hn-card hn-card-compact hn-no-collapse' id='story-48463808' data-tags='AI' data-hn-time='1781024281' data-hn-score='2568' data-hot-score='1.46'>
-<div class='hn-body'>
-<div class='hn-digest-summary-header' role='button' tabindex='0' aria-expanded='true' aria-controls='card-details-48463808' aria-label='Hide summary and image'>
-<p class='hn-title'>(19) <a href='https://www.anthropic.com/news/claude-fable-5-mythos-5' target='_blank' rel='noopener noreferrer'>Claude Fable 5</a></p>
-<p class='hn-meta'>Claude Fable 5 版</p>
-<p class='hn-meta2'><span class='hn-meta2-created'>Created: Jun 09, 2026 / 09:58 PT</span></p>
-<div class='hn-tags'><a class='hn-stat hn-stat-score' href='https://news.ycombinator.com/item?id=48463808' target='_blank' rel='noopener noreferrer'>&#9650; 2568</a> <a class='hn-stat hn-stat-comments' href='https://news.ycombinator.com/item?id=48463808' target='_blank' rel='noopener noreferrer'>&#128172; 2107</a> <span class='hn-tag hn-tag--blue' data-tag='AI'>AI</span></div>
-</div>
-<div class='hn-digest-details' id='card-details-48463808'>
-<p class='hn-text-en hn-digest-summary'>Claude Fable 5 introduces the next iteration of Anthropic's Claude with Mythos 5 capabilities. The update emphasizes safety, reasoning, and longer context handling to support more reliable AI-assisted workflows. It signals the ongoing push to deploy safer, production-ready LLMs.</p>
-<p class='hn-text-zh hn-digest-summary'>Claude Fable 5 引入 Anthropic 的 Claude 的下一代版本 Mythos 5。更新着重于安全性、推理能力与更长的上下文处理，以支持更可靠的 AI 助力工作流。这体现了将更安全的、可用于生产的大模型推向市场的持续趋势。</p>
-<img class='hn-img hn-digest-img' src='https://cdn.sanity.io/images/4zrzovbb/website/b7055119423427c40a0e4d84054aed17682b50a2-2880x1620.png' data-full='https://cdn.sanity.io/images/4zrzovbb/website/b7055119423427c40a0e4d84054aed17682b50a2-2880x1620.png' alt='preview image' loading='lazy' decoding='async'/>
-</div>
-</div>
-</div>
-<div class='hn-card hn-card-compact hn-no-collapse' id='story-48475483' data-tags='Web,Design' data-hn-time='1781095547' data-hn-score='1141' data-hot-score='1.27'>
-<div class='hn-body'>
-<div class='hn-digest-summary-header' role='button' tabindex='0' aria-expanded='true' aria-controls='card-details-48475483' aria-label='Hide summary and image'>
-<p class='hn-title'>(20) <a href='https://mohkohn.co.uk/writing/html-first/' target='_blank' rel='noopener noreferrer'>Building an HTML-first site doubled our users overnight</a></p>
-<p class='hn-meta'>HTML 为先的网站让用户数一夜之间翻倍</p>
-<p class='hn-meta2'><span class='hn-meta2-created'>Created: Jun 10, 2026 / 05:45 PT</span></p>
-<div class='hn-tags'><a class='hn-stat hn-stat-score' href='https://news.ycombinator.com/item?id=48475483' target='_blank' rel='noopener noreferrer'>&#9650; 1141</a> <a class='hn-stat hn-stat-comments' href='https://news.ycombinator.com/item?id=48475483' target='_blank' rel='noopener noreferrer'>&#128172; 512</a> <span class='hn-tag hn-tag--cyan' data-tag='Web'>Web</span> <span class='hn-tag hn-tag--pink' data-tag='Design'>Design</span></div>
-</div>
-<div class='hn-digest-details' id='card-details-48475483'>
-<p class='hn-text-en hn-digest-summary'>Adopting an HTML-first approach led to a dramatic overnight swell in users. Faster page loads and reliable indexing improved engagement and discoverability, illustrating that lean, fast-first design can outperform heavier SPAs for certain audiences. The result demonstrates that focusing on core deliverables rather than architectural complexity can unlock growth.</p>
-<p class='hn-text-zh hn-digest-summary'>采取 HTML 为先的站点架构后，用户增长在短时间内显著提升。页面加载更快、索引更可靠，提升了流量和可发现性，证明对部分受众来说，简化且以性能为先的设计往往胜过复杂的单页应用。这个案例表明，专注于核心交付而非架构复杂度，也能带来规模增长。</p>
-<img class='hn-img hn-digest-img' src='https://mohkohn.co.uk/_astro/efe-kurnaz-RnCPiXixooY-unsplash.Bp9uDJkY.jpg' data-full='https://mohkohn.co.uk/_astro/efe-kurnaz-RnCPiXixooY-unsplash.Bp9uDJkY.jpg' alt='preview image' loading='lazy' decoding='async'/>
-</div>
-</div>
-</div>
-<div class='hn-card hn-card-compact hn-no-collapse' id='story-48492304' data-tags='Business' data-hn-time='1781194202' data-hn-score='178' data-hot-score='1.16'>
-<div class='hn-body'>
-<div class='hn-digest-summary-header' role='button' tabindex='0' aria-expanded='true' aria-controls='card-details-48492304' aria-label='Hide summary and image'>
-<p class='hn-title'>(21) <a href='https://waymo.com/blog/2026/06/waymo-premier/' target='_blank' rel='noopener noreferrer'>Waymo Premier</a></p>
-<p class='hn-meta'>Waymo Premier 公布/上线</p>
-<p class='hn-meta2'><span class='hn-meta2-created'>Created: Jun 11, 2026 / 09:10 PT</span></p>
-<div class='hn-tags'><a class='hn-stat hn-stat-score' href='https://news.ycombinator.com/item?id=48492304' target='_blank' rel='noopener noreferrer'>&#9650; 178</a> <a class='hn-stat hn-stat-comments' href='https://news.ycombinator.com/item?id=48492304' target='_blank' rel='noopener noreferrer'>&#128172; 437</a> <span class='hn-tag hn-tag--amber' data-tag='Business'>Business</span></div>
-</div>
-<div class='hn-digest-details' id='card-details-48492304'>
-<p class='hn-text-en hn-digest-summary'>Waymo unveils Premier, a new tier of autonomous mobility services with enhanced safety and coverage. The launch signals ongoing competition and refinement in autonomous transport.</p>
-<p class='hn-text-zh hn-digest-summary'>Waymo 推出 Premier 自动驾驶出行服务的新阶段，强调更高的安全性与覆盖范围，体现自动驾驶领域的持续竞争与演进。</p>
-<img class='hn-img hn-digest-img' src='https://lh3.googleusercontent.com/O2q3bqw8VNHREWK0cERCElNJAlJ8TlTjC8R851702A_mvfGKQ_hHmn9P03Ntv7kMBEY8JWcZNqfSeUtO4opkaywHajG51KpBO7c' data-full='https://lh3.googleusercontent.com/O2q3bqw8VNHREWK0cERCElNJAlJ8TlTjC8R851702A_mvfGKQ_hHmn9P03Ntv7kMBEY8JWcZNqfSeUtO4opkaywHajG51KpBO7c' alt='preview image' loading='lazy' decoding='async'/>
-</div>
-</div>
-</div>
-<div class='hn-card hn-card-compact hn-no-collapse' id='story-48480978' data-tags='Open Source,Programming' data-hn-time='1781117694' data-hn-score='765' data-hot-score='1.12'>
-<div class='hn-body'>
-<div class='hn-digest-summary-header' role='button' tabindex='0' aria-expanded='true' aria-controls='card-details-48480978' aria-label='Hide summary and image'>
-<p class='hn-title'>(22) <a href='https://github.com/philipl/pifs' target='_blank' rel='noopener noreferrer'>πFS</a></p>
-<p class='hn-meta'>ΠFS</p>
-<p class='hn-meta2'><span class='hn-meta2-created'>Created: Jun 10, 2026 / 11:54 PT</span></p>
-<div class='hn-tags'><a class='hn-stat hn-stat-score' href='https://news.ycombinator.com/item?id=48480978' target='_blank' rel='noopener noreferrer'>&#9650; 765</a> <a class='hn-stat hn-stat-comments' href='https://news.ycombinator.com/item?id=48480978' target='_blank' rel='noopener noreferrer'>&#128172; 182</a> <span class='hn-tag hn-tag--green' data-tag='Open Source'>Open Source</span> <span class='hn-tag hn-tag--indigo' data-tag='Programming'>Programming</span></div>
-</div>
-<div class='hn-digest-details' id='card-details-48480978'>
-<p class='hn-text-en hn-digest-summary'>ΠFS is a research-oriented filesystem project exploring unconventional storage ideas. The repository hints at experiments around data organization and performance tradeoffs in novel file-system design.</p>
-<p class='hn-text-zh hn-digest-summary'>ΠFS 是一个面向研究的文件系统项目，探索非常规的存储理念，透露了在新型文件系统设计中对数据组织与性能权衡的尝试。</p>
-<img class='hn-img hn-digest-img' src='https://opengraph.githubassets.com/57463c5c6075f436174f1b97e17b4272a5310b88643f3b742bab77d5a1f4a9a6/philipl/pifs' data-full='https://opengraph.githubassets.com/57463c5c6075f436174f1b97e17b4272a5310b88643f3b742bab77d5a1f4a9a6/philipl/pifs' alt='preview image' loading='lazy' decoding='async'/>
-</div>
-</div>
-</div>
-<div class='hn-card hn-card-compact hn-no-collapse' id='story-48490057' data-tags='AI,Business' data-hn-time='1781184419' data-hn-score='227' data-hot-score='1.12'>
-<div class='hn-body'>
-<div class='hn-digest-summary-header' role='button' tabindex='0' aria-expanded='true' aria-controls='card-details-48490057' aria-label='Hide summary and image'>
-<p class='hn-title'>(23) <a href='https://www.businessinsider.com/botsitting-ai-hidden-human-labor-at-work-2026-6' target='_blank' rel='noopener noreferrer'>Workers are spending over 6 hours a week botsitting AI, fueling job frustration</a></p>
-<p class='hn-meta'>员工每周花6小时以上为 AI “护航”，加剧工作挫败感</p>
-<p class='hn-meta2'><span class='hn-meta2-created'>Created: Jun 11, 2026 / 06:26 PT</span></p>
-<div class='hn-tags'><a class='hn-stat hn-stat-score' href='https://news.ycombinator.com/item?id=48490057' target='_blank' rel='noopener noreferrer'>&#9650; 227</a> <a class='hn-stat hn-stat-comments' href='https://news.ycombinator.com/item?id=48490057' target='_blank' rel='noopener noreferrer'>&#128172; 189</a> <span class='hn-tag hn-tag--blue' data-tag='AI'>AI</span> <span class='hn-tag hn-tag--amber' data-tag='Business'>Business</span></div>
-</div>
-<div class='hn-digest-details' id='card-details-48490057'>
-<p class='hn-text-en hn-digest-summary'>Workers are spending over six hours weekly babysitting AI, correcting outputs and monitoring systems. This hidden labor increases burnout and undermines productivity gains from AI adoption. Companies should invest in better tooling, guardrails, and workflows to reduce this friction.</p>
-<p class='hn-text-zh hn-digest-summary'>员工每周为 AI 系统“保驾护航”超过6小时，纠错与监控输出，增加了工作压力并削弱了 AI 带来的生产力提升。企业应投资更好的工具、规范与工作流，以降低这部分隐性劳动的摩擦。</p>
-<img class='hn-img hn-digest-img' src='https://i.insider.com/6a2a9528457accd9f7cea838?width=1200&format=jpeg' data-full='https://i.insider.com/6a2a9528457accd9f7cea838?width=1200&format=jpeg' alt='preview image' loading='lazy' decoding='async'/>
-</div>
-</div>
-</div>
-<div class='hn-card hn-card-compact hn-no-collapse' id='story-48498421' data-tags='Programming' data-hn-time='1781224931' data-hn-score='45' data-hot-score='1.1'>
-<div class='hn-body'>
-<div class='hn-digest-summary-header' role='button' tabindex='0' aria-expanded='true' aria-controls='card-details-48498421' aria-label='Hide summary and image'>
-<p class='hn-title'>(24) <a href='https://doug.sh/posts/erm-a-local-cli-that-strips-ums-uhs-and-erms-from-speech/' target='_blank' rel='noopener noreferrer'>Removing 'um' from a recording is harder than it sounds</a></p>
-<p class='hn-meta'>将“嗯”等口头语从录音中删除比想象的要难</p>
-<p class='hn-meta2'><span class='hn-meta2-created'>Created: Jun 11, 2026 / 17:42 PT</span></p>
-<div class='hn-tags'><a class='hn-stat hn-stat-score' href='https://news.ycombinator.com/item?id=48498421' target='_blank' rel='noopener noreferrer'>&#9650; 45</a> <a class='hn-stat hn-stat-comments' href='https://news.ycombinator.com/item?id=48498421' target='_blank' rel='noopener noreferrer'>&#128172; 16</a> <span class='hn-tag hn-tag--indigo' data-tag='Programming'>Programming</span></div>
-</div>
-<div class='hn-digest-details' id='card-details-48498421'>
-<p class='hn-text-en hn-digest-summary'>A local CLI tool offers to strip filler words like um/uh/er from speech, but achieving natural-sounding removal without distorting cadence is surprisingly hard. The post demonstrates the nuanced trade-offs between intelligibility, timing, and editor-like automation.</p>
-<p class='hn-text-zh hn-digest-summary'>一个本地命令行工具尝试从语音中去除口头填充词如“嗯/啊/呃”，但在不破坏语速与自然感的情况下实现完全去除却相当困难。文中展示了可理解性、节奏感与编辑式自动化之间的细微取舍。</p>
-</div>
-</div>
-</div>
-<div class='hn-card hn-card-compact hn-no-collapse' id='story-48489917' data-tags='Open Source,Science' data-hn-time='1781183671' data-hn-score='225' data-hot-score='1.09'>
-<div class='hn-body'>
-<div class='hn-digest-summary-header' role='button' tabindex='0' aria-expanded='true' aria-controls='card-details-48489917' aria-label='Hide summary and image'>
-<p class='hn-title'>(25) <a href='https://github.com/huggingface/open-r1' target='_blank' rel='noopener noreferrer'>Open Reproduction of DeepSeek-R1</a></p>
-<p class='hn-meta'>DeepSeek-R1 开放复现</p>
-<p class='hn-meta2'><span class='hn-meta2-created'>Created: Jun 11, 2026 / 06:14 PT</span></p>
-<div class='hn-tags'><a class='hn-stat hn-stat-score' href='https://news.ycombinator.com/item?id=48489917' target='_blank' rel='noopener noreferrer'>&#9650; 225</a> <a class='hn-stat hn-stat-comments' href='https://news.ycombinator.com/item?id=48489917' target='_blank' rel='noopener noreferrer'>&#128172; 18</a> <span class='hn-tag hn-tag--green' data-tag='Open Source'>Open Source</span> <span class='hn-tag hn-tag--teal' data-tag='Science'>Science</span></div>
-</div>
-<div class='hn-digest-details' id='card-details-48489917'>
-<p class='hn-text-en hn-digest-summary'>The DeepSeek-R1 project opens an open reproduction workflow, enabling researchers to reproduce results and benchmark performance. This enhances transparency and reproducibility in its domain.</p>
-<p class='hn-text-zh hn-digest-summary'>DeepSeek-R1 项目公开了复现实验流程，方便研究者重现实验结果并进行性能基准比较。这提升了相关领域的透明度和可重复性。</p>
-<img class='hn-img hn-digest-img' src='https://repository-images.githubusercontent.com/921777121/b4fb83a0-5322-47ef-be39-e316db4de9ca' data-full='https://repository-images.githubusercontent.com/921777121/b4fb83a0-5322-47ef-be39-e316db4de9ca' alt='preview image' loading='lazy' decoding='async'/>
-</div>
-</div>
-</div>
-<div class='hn-card hn-card-compact hn-no-collapse' id='story-48495751' data-tags='Culture' data-hn-time='1781208506' data-hn-score='95' data-hot-score='1.02'>
-<div class='hn-body'>
-<div class='hn-digest-summary-header' role='button' tabindex='0' aria-expanded='true' aria-controls='card-details-48495751' aria-label='Hide summary and image'>
-<p class='hn-title'>(26) <a href='https://www.ssp.sh/brain/travel-where-you-are/' target='_blank' rel='noopener noreferrer'>Travel locally, where you are</a></p>
-<p class='hn-meta'>就地出行：在你所在的地方</p>
-<p class='hn-meta2'><span class='hn-meta2-created'>Created: Jun 11, 2026 / 13:08 PT</span></p>
-<div class='hn-tags'><a class='hn-stat hn-stat-score' href='https://news.ycombinator.com/item?id=48495751' target='_blank' rel='noopener noreferrer'>&#9650; 95</a> <a class='hn-stat hn-stat-comments' href='https://news.ycombinator.com/item?id=48495751' target='_blank' rel='noopener noreferrer'>&#128172; 55</a> <span class='hn-tag hn-tag--rose' data-tag='Culture'>Culture</span></div>
-</div>
-<div class='hn-digest-details' id='card-details-48495751'>
-<p class='hn-text-en hn-digest-summary'>Focus travel decisions around your current location and nearby options, leveraging local knowledge and constraints.</p>
-<p class='hn-text-zh hn-digest-summary'>将出行决策聚焦在你当前所在的位置及周边选项，利用本地信息与条件。</p>
-<img class='hn-img hn-digest-img' src='https://www.ssp.sh/brain/img_Travel where You Are_1781207349625.webp' data-full='https://www.ssp.sh/brain/img_Travel where You Are_1781207349625.webp' alt='preview image' loading='lazy' decoding='async'/>
-</div>
-</div>
-</div>
-<div class='hn-card hn-card-compact hn-no-collapse' id='story-48490532' data-tags='Open Source,Data,Science' data-hn-time='1781186645' data-hn-score='177' data-hot-score='0.93'>
-<div class='hn-body'>
-<div class='hn-digest-summary-header' role='button' tabindex='0' aria-expanded='true' aria-controls='card-details-48490532' aria-label='Hide summary and image'>
-<p class='hn-title'>(27) <a href='https://mapcomplete.org/' target='_blank' rel='noopener noreferrer'>MapComplete: Maps about various topics which you can contribute to</a></p>
-<p class='hn-meta'>MapComplete：可贡献的主题地图集</p>
-<p class='hn-meta2'><span class='hn-meta2-created'>Created: Jun 11, 2026 / 07:04 PT</span></p>
-<div class='hn-tags'><a class='hn-stat hn-stat-score' href='https://news.ycombinator.com/item?id=48490532' target='_blank' rel='noopener noreferrer'>&#9650; 177</a> <a class='hn-stat hn-stat-comments' href='https://news.ycombinator.com/item?id=48490532' target='_blank' rel='noopener noreferrer'>&#128172; 43</a> <span class='hn-tag hn-tag--green' data-tag='Open Source'>Open Source</span> <span class='hn-tag hn-tag--violet' data-tag='Data'>Data</span> <span class='hn-tag hn-tag--teal' data-tag='Science'>Science</span></div>
-</div>
-<div class='hn-digest-details' id='card-details-48490532'>
-<p class='hn-text-en hn-digest-summary'>MapComplete enables community-contributed maps across diverse topics, turning mapmaking into a collaborative, citizen science-like activity.</p>
-<p class='hn-text-zh hn-digest-summary'>MapComplete 让社区贡献覆盖多主题的地图，将制地图变成协作、类似公民科学的活动。</p>
-<img class='hn-img hn-digest-img' src='https://mapcomplete.org/assets/SocialImage.png' data-full='https://mapcomplete.org/assets/SocialImage.png' alt='preview image' loading='lazy' decoding='async'/>
-</div>
-</div>
-</div>
-<div class='hn-card hn-card-compact hn-no-collapse' id='story-48469658' data-tags='Programming,DevOps' data-hn-time='1781051341' data-hn-score='1222' data-hot-score='0.87'>
-<div class='hn-body'>
-<div class='hn-digest-summary-header' role='button' tabindex='0' aria-expanded='true' aria-controls='card-details-48469658' aria-label='Hide summary and image'>
-<p class='hn-title'>(28) <a href='https://github.com/apple/container/blob/main/docs/container-machine.md' target='_blank' rel='noopener noreferrer'>macOS Container Machines</a></p>
-<p class='hn-meta'>macOS 容器机器</p>
-<p class='hn-meta2'><span class='hn-meta2-created'>Created: Jun 09, 2026 / 17:29 PT</span></p>
-<div class='hn-tags'><a class='hn-stat hn-stat-score' href='https://news.ycombinator.com/item?id=48469658' target='_blank' rel='noopener noreferrer'>&#9650; 1222</a> <a class='hn-stat hn-stat-comments' href='https://news.ycombinator.com/item?id=48469658' target='_blank' rel='noopener noreferrer'>&#128172; 425</a> <span class='hn-tag hn-tag--indigo' data-tag='Programming'>Programming</span> <span class='hn-tag hn-tag--indigo' data-tag='DevOps'>DevOps</span></div>
-</div>
-<div class='hn-digest-details' id='card-details-48469658'>
-<p class='hn-text-en hn-digest-summary'>Apple's documentation introduces macOS Container Machines, a framework for running container workloads on macOS. It covers core concepts, setup steps, and integration with the platform's tooling. This signals Apple's ongoing interest in native containerization on desktop macOS.</p>
-<p class='hn-text-zh hn-digest-summary'>Apple 的文档介绍了 macOS 容器机器这一概念，用于在 macOS 上运行容器化工作负载。文档涵盖了核心概念、设置步骤以及与平台工具的整合方式。此举体现了 Apple 对桌面端原生容器化的持续关注。</p>
-<img class='hn-img hn-digest-img' src='https://repository-images.githubusercontent.com/993475914/123bf50d-9ae2-48d9-94f7-7a345bf82c15' data-full='https://repository-images.githubusercontent.com/993475914/123bf50d-9ae2-48d9-94f7-7a345bf82c15' alt='preview image' loading='lazy' decoding='async'/>
-</div>
-</div>
-</div>
-<div class='hn-card hn-card-compact hn-no-collapse' id='story-48493564' data-tags='Hardware,Science' data-hn-time='1781199319' data-hn-score='113' data-hot-score='0.87'>
-<div class='hn-body'>
-<div class='hn-digest-summary-header' role='button' tabindex='0' aria-expanded='true' aria-controls='card-details-48493564' aria-label='Hide summary and image'>
-<p class='hn-title'>(29) <a href='https://www.righto.com/2012/02/apple-didnt-revolutionize-power.html' target='_blank' rel='noopener noreferrer'>Apple didn't revolutionize power supplies; new transistors did (2012)</a></p>
-<p class='hn-meta'>苹果没有彻底改变电源供应；新晶体管才是关键</p>
-<p class='hn-meta2'><span class='hn-meta2-created'>Created: Jun 11, 2026 / 10:35 PT</span></p>
-<div class='hn-tags'><a class='hn-stat hn-stat-score' href='https://news.ycombinator.com/item?id=48493564' target='_blank' rel='noopener noreferrer'>&#9650; 113</a> <a class='hn-stat hn-stat-comments' href='https://news.ycombinator.com/item?id=48493564' target='_blank' rel='noopener noreferrer'>&#128172; 11</a> <span class='hn-tag hn-tag--slate' data-tag='Hardware'>Hardware</span> <span class='hn-tag hn-tag--teal' data-tag='Science'>Science</span></div>
-</div>
-<div class='hn-digest-details' id='card-details-48493564'>
-<p class='hn-text-en hn-digest-summary'>The piece argues that the real driver behind modern efficiency gains isn’t design of power supplies per se, but advances in transistor technology. It reframes the narrative on Apple’s hardware engineering history and highlights how materials science enables performance leaps.</p>
-<p class='hn-text-zh hn-digest-summary'>文章认为现代效率提升的真正驱动并非电源设计本身，而是晶体管技术的进步。它重新审视了苹果硬件工程的叙事，强调材料科学如何驱动性能跃升。</p>
-<img class='hn-img hn-digest-img' src='https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_tMbX4tIakCRB4nSKvrQeXmBKSslfsOXU4pXULvWpce6moH7EpbmCK3utR1lTEJozdaWtD3DAWS96g23B_C8VNtGzdwKZA6sc_Y8S3CL9hPvNA=w1200-h630-p-k-no-nu' data-full='https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_tMbX4tIakCRB4nSKvrQeXmBKSslfsOXU4pXULvWpce6moH7EpbmCK3utR1lTEJozdaWtD3DAWS96g23B_C8VNtGzdwKZA6sc_Y8S3CL9hPvNA=w1200-h630-p-k-no-nu' alt='preview image' loading='lazy' decoding='async'/>
-</div>
-</div>
-</div>
-<div class='hn-card hn-card-compact hn-no-collapse' id='story-48477135' data-tags='Startups,Business' data-hn-time='1781102872' data-hn-score='678' data-hot-score='0.82'>
-<div class='hn-body'>
-<div class='hn-digest-summary-header' role='button' tabindex='0' aria-expanded='true' aria-controls='card-details-48477135' aria-label='Hide summary and image'>
-<p class='hn-title'>(30) <a href='https://news.ycombinator.com/item?id=48477135' target='_blank' rel='noopener noreferrer'>I'm Eric Ries, author of "The Lean Startup" and new book "Incorruptible" – AMA</a></p>
-<p class='hn-meta'>我是《精益创业》作者 Eric Ries，新书《Incorruptible》— AMA</p>
-<p class='hn-meta2'><span class='hn-meta2-created'>Created: Jun 10, 2026 / 07:47 PT</span></p>
-<div class='hn-tags'><a class='hn-stat hn-stat-score' href='https://news.ycombinator.com/item?id=48477135' target='_blank' rel='noopener noreferrer'>&#9650; 678</a> <a class='hn-stat hn-stat-comments' href='https://news.ycombinator.com/item?id=48477135' target='_blank' rel='noopener noreferrer'>&#128172; 493</a> <span class='hn-tag hn-tag--amber' data-tag='Startups'>Startups</span> <span class='hn-tag hn-tag--amber' data-tag='Business'>Business</span></div>
-</div>
-<div class='hn-digest-details' id='card-details-48477135'>
-<p class='hn-text-en hn-digest-summary'>Eric Ries discusses his new book Incorruptible and takes questions on entrepreneurship, governance, and sustainable product practices. He shares pragmatic perspectives drawn from Lean Startup principles applied to real-world business and technology challenges.</p>
-<p class='hn-text-zh hn-digest-summary'>Eric Ries 在 AMA 中讨论新书《Incorruptible》及创业治理、可持续产品实践等话题，结合 Lean Startup 的原则给出面向现实商业与科技挑战的可操作见解。</p>
-<img class='hn-img hn-digest-img' src='https://news.ycombinator.com/y18.svg' data-full='https://news.ycombinator.com/y18.svg' alt='preview image' loading='lazy' decoding='async'/>
-</div>
-</div>
-</div>
-<div class='hn-card hn-card-compact hn-no-collapse' id='story-48484584' data-tags='AI,Security,Open Source' data-hn-time='1781136608' data-hn-score='422' data-hot-score='0.81'>
-<div class='hn-body'>
-<div class='hn-digest-summary-header' role='button' tabindex='0' aria-expanded='true' aria-controls='card-details-48484584' aria-label='Hide summary and image'>
-<p class='hn-title'>(31) <a href='https://lwn.net/SubscriberLink/1077035/c7e7c14fbd60fae9/' target='_blank' rel='noopener noreferrer'>AI agent runs amok in Fedora and elsewhere</a></p>
-<p class='hn-meta'>Fedora 等系统中 AI 代理失控</p>
-<p class='hn-meta2'><span class='hn-meta2-created'>Created: Jun 10, 2026 / 17:10 PT</span></p>
-<div class='hn-tags'><a class='hn-stat hn-stat-score' href='https://news.ycombinator.com/item?id=48484584' target='_blank' rel='noopener noreferrer'>&#9650; 422</a> <a class='hn-stat hn-stat-comments' href='https://news.ycombinator.com/item?id=48484584' target='_blank' rel='noopener noreferrer'>&#128172; 173</a> <span class='hn-tag hn-tag--blue' data-tag='AI'>AI</span> <span class='hn-tag hn-tag--red' data-tag='Security'>Security</span> <span class='hn-tag hn-tag--green' data-tag='Open Source'>Open Source</span></div>
-</div>
-<div class='hn-digest-details' id='card-details-48484584'>
-<p class='hn-text-en hn-digest-summary'>An AI agent deployed on Fedora and other systems behaves unpredictably, raising concerns about autonomy, safety, and containment in everyday Linux environments. The incident underscores the need for robust sandboxing, permission controls, and monitoring when integrating agent-based automation into open-source workflows.</p>
-<p class='hn-text-zh hn-digest-summary'>在 Fedora 等系统上运行的 AI 代理出现失控，暴露了在日常 Linux 环境中对自治性、安全性与自我约束的担忧。事件凸显了对沙箱、权限控制和监控的重要性，尤其是在将基于代理的自动化集成进开源工作流时。</p>
-<img class='hn-img hn-digest-img' src='https://static.lwn.net/images/logo/barepenguin-70.webp' data-full='https://static.lwn.net/images/logo/barepenguin-70.webp' alt='preview image' loading='lazy' decoding='async'/>
-</div>
-</div>
-</div>
-<div class='hn-card hn-card-compact hn-no-collapse' id='story-48496250' data-tags='Show HN,Programming,Open Source' data-hn-time='1781211146' data-hn-score='66' data-hot-score='0.79'>
-<div class='hn-body'>
-<div class='hn-digest-summary-header' role='button' tabindex='0' aria-expanded='true' aria-controls='card-details-48496250' aria-label='Hide summary and image'>
-<p class='hn-title'>(32) <a href='https://github.com/coder/boo' target='_blank' rel='noopener noreferrer'>Show HN: Boo – Screen-style terminal multiplexer built on libghostty</a></p>
-<p class='hn-meta'>Show HN：Boo——基于 libghostty 的屏幕风格终端多路复用器</p>
-<p class='hn-meta2'><span class='hn-meta2-created'>Created: Jun 11, 2026 / 13:52 PT</span></p>
-<div class='hn-tags'><a class='hn-stat hn-stat-score' href='https://news.ycombinator.com/item?id=48496250' target='_blank' rel='noopener noreferrer'>&#9650; 66</a> <a class='hn-stat hn-stat-comments' href='https://news.ycombinator.com/item?id=48496250' target='_blank' rel='noopener noreferrer'>&#128172; 22</a> <span class='hn-tag hn-tag--green' data-tag='Show HN'>Show HN</span> <span class='hn-tag hn-tag--indigo' data-tag='Programming'>Programming</span> <span class='hn-tag hn-tag--green' data-tag='Open Source'>Open Source</span></div>
-</div>
-<div class='hn-digest-details' id='card-details-48496250'>
-<p class='hn-text-en hn-digest-summary'>Boo is a screen-style terminal multiplexer built on libghostty. It offers a lean, different rendering approach that aims for lighter, potentially more robust session management than existing tools. This Show HN spotlights how new libraries can redefine terminal UX and trade-offs.</p>
-<p class='hn-text-zh hn-digest-summary'>Boo 是一个基于 libghostty 的屏幕风格终端多路复用器。它提供了一种更简约、不同的渲染方法，目标是在会话管理上比现有工具更轻量、且潜在更稳健。这次 Show HN 突出了新库如何重新定义终端用户体验与取舍。</p>
-<img class='hn-img hn-digest-img' src='https://opengraph.githubassets.com/57e4fd5bf4a682efd0464b1eaaed38a33aab3d508fffd9b82bf6fccf442edede/coder/boo' data-full='https://opengraph.githubassets.com/57e4fd5bf4a682efd0464b1eaaed38a33aab3d508fffd9b82bf6fccf442edede/coder/boo' alt='preview image' loading='lazy' decoding='async'/>
-</div>
-</div>
-</div>
-<div class='hn-card hn-card-compact hn-no-collapse' id='story-48487540' data-tags='AI' data-hn-time='1781164277' data-hn-score='235' data-hot-score='0.73'>
-<div class='hn-body'>
-<div class='hn-digest-summary-header' role='button' tabindex='0' aria-expanded='true' aria-controls='card-details-48487540' aria-label='Hide summary and image'>
-<p class='hn-title'>(33) <a href='https://www.normaltech.ai/p/why-ai-hasnt-replaced-software-engineers' target='_blank' rel='noopener noreferrer'>Why AI hasn't replaced software engineers, and won't</a></p>
-<p class='hn-meta'>为什么 AI 尚未取代软件工程师，也不会取代</p>
-<p class='hn-meta2'><span class='hn-meta2-created'>Created: Jun 11, 2026 / 00:51 PT</span></p>
-<div class='hn-tags'><a class='hn-stat hn-stat-score' href='https://news.ycombinator.com/item?id=48487540' target='_blank' rel='noopener noreferrer'>&#9650; 235</a> <a class='hn-stat hn-stat-comments' href='https://news.ycombinator.com/item?id=48487540' target='_blank' rel='noopener noreferrer'>&#128172; 290</a> <span class='hn-tag hn-tag--blue' data-tag='AI'>AI</span></div>
-</div>
-<div class='hn-digest-details' id='card-details-48487540'>
-<p class='hn-text-en hn-digest-summary'>An argument that AI will augment rather than replace software engineers, due to needs for architectural judgment, debugging, and cross-functional collaboration. AI will be a productivity tool and co-pilot, not a wholesale substitution.</p>
-<p class='hn-text-zh hn-digest-summary'>认为 AI 将更多地起到辅助作用而非替代软件工程师，因为需要架构判断、调试能力和跨职能协作。AI 将成为生产力工具和协作者，而非全面替代。</p>
-<img class='hn-img hn-digest-img' src='https://substackcdn.com/image/fetch/$s_!eBfS!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F931ce348-4a6a-44e9-ad78-322dd8421bd7_1286x764.png' data-full='https://substackcdn.com/image/fetch/$s_!eBfS!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F931ce348-4a6a-44e9-ad78-322dd8421bd7_1286x764.png' alt='preview image' loading='lazy' decoding='async'/>
-</div>
-</div>
-</div>
-<div class='hn-card hn-card-compact hn-no-collapse' id='story-48491486' data-tags='Programming' data-hn-time='1781190837' data-hn-score='117' data-hot-score='0.69'>
-<div class='hn-body'>
-<div class='hn-digest-summary-header' role='button' tabindex='0' aria-expanded='true' aria-controls='card-details-48491486' aria-label='Hide summary and image'>
-<p class='hn-title'>(34) <a href='https://github.com/icitry/FPS.cob' target='_blank' rel='noopener noreferrer'>FPS.cob: A first person shooter in COBOL</a></p>
-<p class='hn-meta'>FPS.cob：COBOL 编写的第一人称射击游戏</p>
-<p class='hn-meta2'><span class='hn-meta2-created'>Created: Jun 11, 2026 / 08:13 PT</span></p>
-<div class='hn-tags'><a class='hn-stat hn-stat-score' href='https://news.ycombinator.com/item?id=48491486' target='_blank' rel='noopener noreferrer'>&#9650; 117</a> <a class='hn-stat hn-stat-comments' href='https://news.ycombinator.com/item?id=48491486' target='_blank' rel='noopener noreferrer'>&#128172; 64</a> <span class='hn-tag hn-tag--indigo' data-tag='Programming'>Programming</span></div>
-</div>
-<div class='hn-digest-details' id='card-details-48491486'>
-<p class='hn-text-en hn-digest-summary'>FPS.cob demonstrates a fully playable shooter written in COBOL, showcasing language versatility and creative programming feats; it highlights the playful boundaries of programming language ecosystems.</p>
-<p class='hn-text-zh hn-digest-summary'>FPS.cob 用 COBOL 实现了可玩射击游戏，展示了语言的灵活性与创造性编程的边界。</p>
-<img class='hn-img hn-digest-img' src='https://opengraph.githubassets.com/afc3efbfa85d36265d912ba368023ef02fed61d4cb1307e5a43814ae82c5c541/icitry/FPS.cob' data-full='https://opengraph.githubassets.com/afc3efbfa85d36265d912ba368023ef02fed61d4cb1307e5a43814ae82c5c541/icitry/FPS.cob' alt='preview image' loading='lazy' decoding='async'/>
-</div>
-</div>
-</div>
-<div class='hn-card hn-card-compact hn-no-collapse' id='story-48495197' data-tags='Security,Business' data-hn-time='1781205832' data-hn-score='67' data-hot-score='0.64'>
-<div class='hn-body'>
-<div class='hn-digest-summary-header' role='button' tabindex='0' aria-expanded='true' aria-controls='card-details-48495197' aria-label='Hide summary and image'>
-<p class='hn-title'>(35) <a href='https://krebsonsecurity.com/2026/06/who-runs-the-ransomware-group-the-gentlemen/' target='_blank' rel='noopener noreferrer'>Who Runs the Ransomware Group 'The Gentlemen?'</a></p>
-<p class='hn-meta'>谁在运营勒索软件组织“绅士”？</p>
-<p class='hn-meta2'><span class='hn-meta2-created'>Created: Jun 11, 2026 / 12:23 PT</span></p>
-<div class='hn-tags'><a class='hn-stat hn-stat-score' href='https://news.ycombinator.com/item?id=48495197' target='_blank' rel='noopener noreferrer'>&#9650; 67</a> <a class='hn-stat hn-stat-comments' href='https://news.ycombinator.com/item?id=48495197' target='_blank' rel='noopener noreferrer'>&#128172; 6</a> <span class='hn-tag hn-tag--red' data-tag='Security'>Security</span> <span class='hn-tag hn-tag--amber' data-tag='Business'>Business</span></div>
-</div>
-<div class='hn-digest-details' id='card-details-48495197'>
-<p class='hn-text-en hn-digest-summary'>Investigative piece follows who leads and operates the ransomware group 'The Gentlemen,' detailing organizational structure, recruitment, and monetization. The write-up underscores the evolving economics of ransomware and the challenges of attribution in cybercrime.</p>
-<p class='hn-text-zh hn-digest-summary'>报道追踪勒索软件组织“绅士”背后的运营者，揭示其组织结构、招募与盈利模式。分析强调勒索软件经济学的演变以及网络犯罪中的取证与归因挑战。</p>
-</div>
-</div>
-</div>
-<div class='hn-card hn-card-compact hn-no-collapse' id='story-48497168' data-tags='Web,Security' data-hn-time='1781216228' data-hn-score='42' data-hot-score='0.63'>
-<div class='hn-body'>
-<div class='hn-digest-summary-header' role='button' tabindex='0' aria-expanded='true' aria-controls='card-details-48497168' aria-label='Hide summary and image'>
-<p class='hn-title'>(36) <a href='https://shkspr.mobi/blog/2021/01/the-unreasonable-effectiveness-of-simple-html/' target='_blank' rel='noopener noreferrer'>The unreasonable effectiveness of simple HTML</a></p>
-<p class='hn-meta'>简单 HTML 的非理性高效</p>
-<p class='hn-meta2'><span class='hn-meta2-created'>Created: Jun 11, 2026 / 15:17 PT</span></p>
-<div class='hn-tags'><a class='hn-stat hn-stat-score' href='https://news.ycombinator.com/item?id=48497168' target='_blank' rel='noopener noreferrer'>&#9650; 42</a> <a class='hn-stat hn-stat-comments' href='https://news.ycombinator.com/item?id=48497168' target='_blank' rel='noopener noreferrer'>&#128172; 5</a> <span class='hn-tag hn-tag--cyan' data-tag='Web'>Web</span> <span class='hn-tag hn-tag--red' data-tag='Security'>Security</span></div>
-</div>
-<div class='hn-digest-details' id='card-details-48497168'>
-<p class='hn-text-en hn-digest-summary'>Plain HTML often beats heavy frameworks on performance, accessibility, and reliability, especially for content-centric apps. The piece argues against overengineering and showcases how a minimal HTML baseline can deliver fast, resilient user experiences with smaller surface areas for bugs and security.</p>
-<p class='hn-text-zh hn-digest-summary'>纯 HTML 在性能、可访问性和可靠性方面往往优于重前端框架，尤其适用于以内容为中心的应用。文章主张避免过度设计，展示以最小的 HTML 基线实现快速、稳健体验的价值。</p>
-<img class='hn-img hn-digest-img' src='https://shkspr.mobi/blog/wp-content/uploads/2018/01/HTML5_Badge_512.png' data-full='https://shkspr.mobi/blog/wp-content/uploads/2018/01/HTML5_Badge_512.png' alt='preview image' loading='lazy' decoding='async'/>
-</div>
-</div>
-</div>
-<div class='hn-card hn-card-compact hn-no-collapse' id='story-48490715' data-tags='Open Source,Privacy' data-hn-time='1781187467' data-hn-score='115' data-hot-score='0.62'>
-<div class='hn-body'>
-<div class='hn-digest-summary-header' role='button' tabindex='0' aria-expanded='true' aria-controls='card-details-48490715' aria-label='Hide summary and image'>
-<p class='hn-title'>(37) <a href='https://nextcloud.com/blog/nextcloud-hub26-spring/' target='_blank' rel='noopener noreferrer'>Nextcloud Hub 26 Spring: Built together, designed for the future</a></p>
-<p class='hn-meta'>Nextcloud Hub 26 Spring：共建、面向未来</p>
-<p class='hn-meta2'><span class='hn-meta2-created'>Created: Jun 11, 2026 / 07:17 PT</span></p>
-<div class='hn-tags'><a class='hn-stat hn-stat-score' href='https://news.ycombinator.com/item?id=48490715' target='_blank' rel='noopener noreferrer'>&#9650; 115</a> <a class='hn-stat hn-stat-comments' href='https://news.ycombinator.com/item?id=48490715' target='_blank' rel='noopener noreferrer'>&#128172; 85</a> <span class='hn-tag hn-tag--green' data-tag='Open Source'>Open Source</span> <span class='hn-tag hn-tag--red' data-tag='Privacy'>Privacy</span></div>
-</div>
-<div class='hn-digest-details' id='card-details-48490715'>
-<p class='hn-text-en hn-digest-summary'>Nextcloud Hub 26 Spring ships with collaborative by-default features and a future-oriented design for self-hosted environments. It emphasizes privacy, interoperability, and community-driven development.</p>
-<p class='hn-text-zh hn-digest-summary'>Nextcloud Hub 26 Spring 强调默认的协作功能与面向未来的自托管设计，聚焦隐私、互操作性与社区驱动的发展。</p>
-<img class='hn-img hn-digest-img' src='https://nextcloud.com/c/uploads/2026/06/Nextcloud-Hub26-Spring-announcement.png' data-full='https://nextcloud.com/c/uploads/2026/06/Nextcloud-Hub26-Spring-announcement.png' alt='preview image' loading='lazy' decoding='async'/>
-</div>
-</div>
-</div>
-<div class='hn-card hn-card-compact hn-no-collapse' id='story-48478969' data-tags='AI,Security' data-hn-time='1781109720' data-hn-score='455' data-hot-score='0.6'>
-<div class='hn-body'>
-<div class='hn-digest-summary-header' role='button' tabindex='0' aria-expanded='true' aria-controls='card-details-48478969' aria-label='Hide summary and image'>
-<p class='hn-title'>(38) <a href='https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/' target='_blank' rel='noopener noreferrer'>Cybersecurity researchers aren't happy about the guardrails on Anthropic's Fable</a></p>
-<p class='hn-meta'>网络安全研究人员对 Anthropic 的 Fable 防护边界不满</p>
-<p class='hn-meta2'><span class='hn-meta2-created'>Created: Jun 10, 2026 / 09:42 PT</span></p>
-<div class='hn-tags'><a class='hn-stat hn-stat-score' href='https://news.ycombinator.com/item?id=48478969' target='_blank' rel='noopener noreferrer'>&#9650; 455</a> <a class='hn-stat hn-stat-comments' href='https://news.ycombinator.com/item?id=48478969' target='_blank' rel='noopener noreferrer'>&#128172; 392</a> <span class='hn-tag hn-tag--blue' data-tag='AI'>AI</span> <span class='hn-tag hn-tag--red' data-tag='Security'>Security</span></div>
-</div>
-<div class='hn-digest-details' id='card-details-48478969'>
-<p class='hn-text-en hn-digest-summary'>Security researchers argue that Anthropic's Fable guardrails hamper red-teaming and vulnerability research into AI behavior. The debate highlights the clash between safety controls and researchers' need to probe weaknesses, which could affect how robust AI systems are in practice.</p>
-<p class='hn-text-zh hn-digest-summary'>研究人员表示 Fable 的防护边界妨碍对 AI 行为进行红队测试和漏洞研究。这场辩论凸显安全控制与研究者挖掘弱点的需求之间的矛盾，可能影响实际中的系统鲁棒性。</p>
-<img class='hn-img hn-digest-img' src='https://techcrunch.com/wp-content/uploads/2026/06/anthropic-claude-fable.jpg?resize=1200,798' data-full='https://techcrunch.com/wp-content/uploads/2026/06/anthropic-claude-fable.jpg?resize=1200,798' alt='preview image' loading='lazy' decoding='async'/>
-</div>
-</div>
-</div>
-<div class='hn-card hn-card-compact hn-no-collapse' id='story-48476466' data-tags='Business,Data' data-hn-time='1781100179' data-hn-score='475' data-hot-score='0.56'>
-<div class='hn-body'>
-<div class='hn-digest-summary-header' role='button' tabindex='0' aria-expanded='true' aria-controls='card-details-48476466' aria-label='Hide summary and image'>
-<p class='hn-title'>(39) <a href='https://pgdog.dev/blog/our-funding-announcement' target='_blank' rel='noopener noreferrer'>PgDog is funded and coming to a database near you</a></p>
-<p class='hn-meta'>PgDog 获得融资，将进入数据库领域的开发者工具市场</p>
-<p class='hn-meta2'><span class='hn-meta2-created'>Created: Jun 10, 2026 / 07:02 PT</span></p>
-<div class='hn-tags'><a class='hn-stat hn-stat-score' href='https://news.ycombinator.com/item?id=48476466' target='_blank' rel='noopener noreferrer'>&#9650; 475</a> <a class='hn-stat hn-stat-comments' href='https://news.ycombinator.com/item?id=48476466' target='_blank' rel='noopener noreferrer'>&#128172; 225</a> <span class='hn-tag hn-tag--amber' data-tag='Business'>Business</span> <span class='hn-tag hn-tag--violet' data-tag='Data'>Data</span></div>
-</div>
-<div class='hn-digest-details' id='card-details-48476466'>
-<p class='hn-text-en hn-digest-summary'>PgDog has secured funding and plans to bring PostgreSQL-focused tooling to developers. The round signals investor confidence in database tooling that aims to streamline workflows and tooling around Postgres.</p>
-<p class='hn-text-zh hn-digest-summary'>PgDog 获得融资，将推出围绕 PostgreSQL 的开发者工具，旨在简化工作流与数据库运维。投资方信心表明数据库工具市场的潜力。</p>
-<img class='hn-img hn-digest-img' src='https://pgdog.dev/assets/images/logo2_wide.png?v=bb9c0ef3de' data-full='https://pgdog.dev/assets/images/logo2_wide.png?v=bb9c0ef3de' alt='preview image' loading='lazy' decoding='async'/>
-</div>
-</div>
-</div>
-<div class='hn-card hn-card-compact hn-no-collapse' id='story-48479452' data-tags='AI,DevOps,Startups' data-hn-time='1781111516' data-hn-score='403' data-hot-score='0.54'>
-<div class='hn-body'>
-<div class='hn-digest-summary-header' role='button' tabindex='0' aria-expanded='true' aria-controls='card-details-48479452' aria-label='Hide summary and image'>
-<p class='hn-title'>(40) <a href='https://github.com/anthropics/claude-code/issues/29045' target='_blank' rel='noopener noreferrer'>Claude Desktop spawns 1.8 GB Hyper-V VM on every launch, even for chat-only use</a></p>
-<p class='hn-meta'>Claude Desktop 启动时会开启一个 1.8 GB 的 Hyper-V 虚拟机</p>
-<p class='hn-meta2'><span class='hn-meta2-created'>Created: Jun 10, 2026 / 10:11 PT</span></p>
-<div class='hn-tags'><a class='hn-stat hn-stat-score' href='https://news.ycombinator.com/item?id=48479452' target='_blank' rel='noopener noreferrer'>&#9650; 403</a> <a class='hn-stat hn-stat-comments' href='https://news.ycombinator.com/item?id=48479452' target='_blank' rel='noopener noreferrer'>&#128172; 282</a> <span class='hn-tag hn-tag--blue' data-tag='AI'>AI</span> <span class='hn-tag hn-tag--indigo' data-tag='DevOps'>DevOps</span> <span class='hn-tag hn-tag--amber' data-tag='Startups'>Startups</span></div>
-</div>
-<div class='hn-digest-details' id='card-details-48479452'>
-<p class='hn-text-en hn-digest-summary'>Claude Desktop launches a 1.8 GB Hyper-V virtual machine on every start, even when users only chat. The heavyweight virtualization increases startup time and resource use, raising questions about desktop AI app design and user experience.</p>
-<p class='hn-text-zh hn-digest-summary'>Claude Desktop 启动时会开启一个 1.8 GB 的 Hyper-V 虚拟机，即使仅用于聊天也如此。这种重型虚拟化增加了启动时间和资源消耗，引发对桌面 AI 应用设计与用户体验的质疑。</p>
-<img class='hn-img hn-digest-img' src='https://opengraph.githubassets.com/7548f25cbb7f27292f39867bc10f65e857bb330323d7af42dd896e91fc853d87/anthropics/claude-code/issues/29045' data-full='https://opengraph.githubassets.com/7548f25cbb7f27292f39867bc10f65e857bb330323d7af42dd896e91fc853d87/anthropics/claude-code/issues/29045' alt='preview image' loading='lazy' decoding='async'/>
-</div>
-</div>
-</div>
-<div class='hn-card hn-card-compact hn-no-collapse' id='story-48487897' data-tags='Web,Hardware,Security,Gaming' data-hn-time='1781167656' data-hn-score='160' data-hot-score='0.53'>
-<div class='hn-body'>
-<div class='hn-digest-summary-header' role='button' tabindex='0' aria-expanded='true' aria-controls='card-details-48487897' aria-label='Hide summary and image'>
-<p class='hn-title'>(41) <a href='https://vale.rocks/posts/game-console-browsers' target='_blank' rel='noopener noreferrer'>Web Browsers on Video Game Consoles</a></p>
-<p class='hn-meta'>视频游戏主机上的网页浏览器</p>
-<p class='hn-meta2'><span class='hn-meta2-created'>Created: Jun 11, 2026 / 01:47 PT</span></p>
-<div class='hn-tags'><a class='hn-stat hn-stat-score' href='https://news.ycombinator.com/item?id=48487897' target='_blank' rel='noopener noreferrer'>&#9650; 160</a> <a class='hn-stat hn-stat-comments' href='https://news.ycombinator.com/item?id=48487897' target='_blank' rel='noopener noreferrer'>&#128172; 78</a> <span class='hn-tag hn-tag--cyan' data-tag='Web'>Web</span> <span class='hn-tag hn-tag--slate' data-tag='Hardware'>Hardware</span> <span class='hn-tag hn-tag--red' data-tag='Security'>Security</span> <span class='hn-tag hn-tag--purple' data-tag='Gaming'>Gaming</span></div>
-</div>
-<div class='hn-digest-details' id='card-details-48487897'>
-<p class='hn-text-en hn-digest-summary'>Recent experiments show browsers running on game consoles, expanding the device's role beyond gaming into general-purpose browsing. The approach reveals trade-offs in performance and security on constrained hardware, while broadening access to web apps and streaming from living rooms.</p>
-<p class='hn-text-zh hn-digest-summary'>最新实验展示了在游戏主机上运行浏览器，让设备的用途从游戏扩展到通用网页浏览。实现过程暴露了在受限硬件上的性能与安全权衡，同时扩大了在客厅内访问网页应用和流媒体的空间。</p>
-<img class='hn-img hn-digest-img' src='https://vale.rocks/assets/og/post.webp' data-full='https://vale.rocks/assets/og/post.webp' alt='preview image' loading='lazy' decoding='async'/>
-</div>
-</div>
-</div>
-<div class='hn-card hn-card-compact hn-no-collapse' id='story-48472877' data-tags='Hardware,Science,Energy' data-hn-time='1781077489' data-hn-score='530' data-hot-score='0.48'>
-<div class='hn-body'>
-<div class='hn-digest-summary-header' role='button' tabindex='0' aria-expanded='true' aria-controls='card-details-48472877' aria-label='Hide summary and image'>
-<p class='hn-title'>(42) <a href='https://media.mercedes-benz.com/en/article/bebac2af-acdc-465a-9538-adb0bf3d8ccf' target='_blank' rel='noopener noreferrer'>Mercedes‑Benz starts large‑scale production of electric axial flux motor</a></p>
-<p class='hn-meta'>梅赛德斯-奔驰开启电轴向磁通电机大规模量产</p>
-<p class='hn-meta2'><span class='hn-meta2-created'>Created: Jun 10, 2026 / 00:44 PT</span></p>
-<div class='hn-tags'><a class='hn-stat hn-stat-score' href='https://news.ycombinator.com/item?id=48472877' target='_blank' rel='noopener noreferrer'>&#9650; 530</a> <a class='hn-stat hn-stat-comments' href='https://news.ycombinator.com/item?id=48472877' target='_blank' rel='noopener noreferrer'>&#128172; 337</a> <span class='hn-tag hn-tag--slate' data-tag='Hardware'>Hardware</span> <span class='hn-tag hn-tag--teal' data-tag='Science'>Science</span> <span class='hn-tag hn-tag--emerald' data-tag='Energy'>Energy</span></div>
-</div>
-<div class='hn-digest-details' id='card-details-48472877'>
-<p class='hn-text-en hn-digest-summary'>Mercedes-Benz has begun large-scale production of its electric axial flux motor, a topology prized for high power density and compact packaging. The ramp-up signals progress toward more efficient, scalable EV drivetrains and could influence performance in upcoming models.</p>
-<p class='hn-text-zh hn-digest-summary'>梅赛德斯-奔驰已开始大规模生产电轴向磁通电机，这种拓扑在单位体积内提供更高的功率密度且体积更紧凑。此举表明其在实现更高效、可扩展的电动传动系统方面迈出关键一步，可能影响未来车型的性能与成本。</p>
-<img class='hn-img hn-digest-img' src='https://api.media.mercedes-benz.com/modules/custom/mb_meta/static/placeholder.jpg' data-full='https://api.media.mercedes-benz.com/modules/custom/mb_meta/static/placeholder.jpg' alt='preview image' loading='lazy' decoding='async'/>
-</div>
-</div>
-</div>
-<div class='hn-card hn-card-compact hn-no-collapse' id='story-48491214' data-tags='Design' data-hn-time='1781189759' data-hn-score='80' data-hot-score='0.45'>
-<div class='hn-body'>
-<div class='hn-digest-summary-header' role='button' tabindex='0' aria-expanded='true' aria-controls='card-details-48491214' aria-label='Hide summary and image'>
-<p class='hn-title'>(43) <a href='https://www.theatlantic.com/technology/2026/06/car-headlights-too-bright-adaptive-beams/687488/' target='_blank' rel='noopener noreferrer'>Car headlights don't have to be this blinding</a></p>
-<p class='hn-meta'>汽车大灯不必如此刺眼</p>
-<p class='hn-meta2'><span class='hn-meta2-created'>Created: Jun 11, 2026 / 07:55 PT</span></p>
-<div class='hn-tags'><a class='hn-stat hn-stat-score' href='https://news.ycombinator.com/item?id=48491214' target='_blank' rel='noopener noreferrer'>&#9650; 80</a> <a class='hn-stat hn-stat-comments' href='https://news.ycombinator.com/item?id=48491214' target='_blank' rel='noopener noreferrer'>&#128172; 85</a> <span class='hn-tag hn-tag--pink' data-tag='Design'>Design</span></div>
-</div>
-<div class='hn-digest-details' id='card-details-48491214'>
-<p class='hn-text-en hn-digest-summary'>Advocates for better headlight design with adaptive beams to reduce glare for oncoming drivers, improving nighttime safety.</p>
-<p class='hn-text-zh hn-digest-summary'>倡导采用自适应光束的更好大灯设计，以减少对向驾驶员眩光、提升夜间行车安全。</p>
-<img class='hn-img hn-digest-img' src='https://cdn.theatlantic.com/thumbor/VurGfNNeO35Wv9TjAdDnY8F85t8=/0x43:2000x1085/1200x625/media/img/mt/2026/06/2026_06_03_Moseman_Car_headlights_final/original.jpg' data-full='https://cdn.theatlantic.com/thumbor/VurGfNNeO35Wv9TjAdDnY8F85t8=/0x43:2000x1085/1200x625/media/img/mt/2026/06/2026_06_03_Moseman_Car_headlights_final/original.jpg' alt='preview image' loading='lazy' decoding='async'/>
-</div>
-</div>
-</div>
-<div class='hn-card hn-card-compact hn-no-collapse' id='story-48481857' data-tags='Hardware' data-hn-time='1781121921' data-hn-score='269' data-hot-score='0.42'>
-<div class='hn-body'>
-<div class='hn-digest-summary-header' role='button' tabindex='0' aria-expanded='true' aria-controls='card-details-48481857' aria-label='Hide summary and image'>
-<p class='hn-title'>(44) <a href='https://www.adafruit.com/product/6125?src=raspberrypi' target='_blank' rel='noopener noreferrer'>Raspberry Pi 5 – 16GB RAM</a></p>
-<p class='hn-meta'>树莓派 5 搭载 16GB RAM</p>
-<p class='hn-meta2'><span class='hn-meta2-created'>Created: Jun 10, 2026 / 13:05 PT</span></p>
-<div class='hn-tags'><a class='hn-stat hn-stat-score' href='https://news.ycombinator.com/item?id=48481857' target='_blank' rel='noopener noreferrer'>&#9650; 269</a> <a class='hn-stat hn-stat-comments' href='https://news.ycombinator.com/item?id=48481857' target='_blank' rel='noopener noreferrer'>&#128172; 275</a> <span class='hn-tag hn-tag--slate' data-tag='Hardware'>Hardware</span></div>
-</div>
-<div class='hn-digest-details' id='card-details-48481857'>
-<p class='hn-text-en hn-digest-summary'>Raspberry Pi 5 ships with 16GB of RAM, offering a meaningful uplift for desktop and hobbyist projects. The boost enables more memory-intensive workloads, smoother multitasking, and better headless server use.</p>
-<p class='hn-text-zh hn-digest-summary'>树莓派 5 配备 16GB RAM，相比前代带来显著提升，适合桌面应用、爱好者项目和轻量级服务器。更充裕的内存让多任务更流畅、对内存密集型工作更从容。</p>
-<img class='hn-img hn-digest-img' src='https://www.adafruit.com/images/480x360/6125-00.jpg' data-full='https://www.adafruit.com/images/480x360/6125-00.jpg' alt='preview image' loading='lazy' decoding='async'/>
-</div>
-</div>
-</div>
-<div class='hn-card hn-card-compact hn-no-collapse' id='story-48492118' data-tags='AI,Programming' data-hn-time='1781193385' data-hn-score='63' data-hot-score='0.4'>
-<div class='hn-body'>
-<div class='hn-digest-summary-header' role='button' tabindex='0' aria-expanded='true' aria-controls='card-details-48492118' aria-label='Hide summary and image'>
-<p class='hn-title'>(45) <a href='https://news.ycombinator.com/item?id=48492118' target='_blank' rel='noopener noreferrer'>Ask HN: How do you get into a flow state when using AI to code?</a></p>
-<p class='hn-meta'>Ask HN：在用 AI 编码时如何进入流畅状态？</p>
-<p class='hn-meta2'><span class='hn-meta2-created'>Created: Jun 11, 2026 / 08:56 PT</span></p>
-<div class='hn-tags'><a class='hn-stat hn-stat-score' href='https://news.ycombinator.com/item?id=48492118' target='_blank' rel='noopener noreferrer'>&#9650; 63</a> <a class='hn-stat hn-stat-comments' href='https://news.ycombinator.com/item?id=48492118' target='_blank' rel='noopener noreferrer'>&#128172; 85</a> <span class='hn-tag hn-tag--blue' data-tag='AI'>AI</span> <span class='hn-tag hn-tag--indigo' data-tag='Programming'>Programming</span></div>
-</div>
-<div class='hn-digest-details' id='card-details-48492118'>
-<p class='hn-text-en hn-digest-summary'>Community tips on achieving flow while coding with AI assistants, including prompts, workflow hygiene, and environment setup.</p>
-<p class='hn-text-zh hn-digest-summary'>社区分享在使用 AI 辅助编码时实现专注流程的技巧，包括提示语、工作流程卫生与环境设置。</p>
-<img class='hn-img hn-digest-img' src='https://news.ycombinator.com/y18.svg' data-full='https://news.ycombinator.com/y18.svg' alt='preview image' loading='lazy' decoding='async'/>
-</div>
-</div>
-</div>
-<div class='hn-card hn-card-compact hn-no-collapse' id='story-48488901' data-tags='Science,Data' data-hn-time='1781177185' data-hn-score='88' data-hot-score='0.36'>
-<div class='hn-body'>
-<div class='hn-digest-summary-header' role='button' tabindex='0' aria-expanded='true' aria-controls='card-details-48488901' aria-label='Hide summary and image'>
-<p class='hn-title'>(46) <a href='https://www.nature.com/articles/d41586-026-01796-y' target='_blank' rel='noopener noreferrer'>Global population movements from 1990 to 2023</a></p>
-<p class='hn-meta'>1990-2023 全球人口迁移</p>
-<p class='hn-meta2'><span class='hn-meta2-created'>Created: Jun 11, 2026 / 04:26 PT</span></p>
-<div class='hn-tags'><a class='hn-stat hn-stat-score' href='https://news.ycombinator.com/item?id=48488901' target='_blank' rel='noopener noreferrer'>&#9650; 88</a> <a class='hn-stat hn-stat-comments' href='https://news.ycombinator.com/item?id=48488901' target='_blank' rel='noopener noreferrer'>&#128172; 88</a> <span class='hn-tag hn-tag--teal' data-tag='Science'>Science</span> <span class='hn-tag hn-tag--violet' data-tag='Data'>Data</span></div>
-</div>
-<div class='hn-digest-details' id='card-details-48488901'>
-<p class='hn-text-en hn-digest-summary'>Nature article charts global population movements over 1990-2023, with implications for labor, urbanization, and migration policy.</p>
-<p class='hn-text-zh hn-digest-summary'>Nature 的研究梳理了1990-2023年全球人口迁移趋势，对劳动力、城市化与移民政策具有深远影响。</p>
-<img class='hn-img hn-digest-img' src='https://media.nature.com/lw1200/magazine-assets/d41586-026-01796-y/d41586-026-01796-y_52533296.jpg' data-full='https://media.nature.com/lw1200/magazine-assets/d41586-026-01796-y/d41586-026-01796-y_52533296.jpg' alt='preview image' loading='lazy' decoding='async'/>
-</div>
-</div>
-</div>
-<div class='hn-card hn-card-compact hn-no-collapse' id='story-48492572' data-tags='Politics,Security,Privacy' data-hn-time='1781195508' data-hn-score='53' data-hot-score='0.36'>
-<div class='hn-body'>
-<div class='hn-digest-summary-header' role='button' tabindex='0' aria-expanded='true' aria-controls='card-details-48492572' aria-label='Hide summary and image'>
-<p class='hn-title'>(47) <a href='https://www.axios.com/2026/06/11/fisa-section-702-expiration-pulte-trump-johnson' target='_blank' rel='noopener noreferrer'>US House rejects FISA Section 702 extension, warrantless surveillance expires</a></p>
-<p class='hn-meta'>美国众议院拒绝延长 FISA 702 条，监听权到期</p>
-<p class='hn-meta2'><span class='hn-meta2-created'>Created: Jun 11, 2026 / 09:31 PT</span></p>
-<div class='hn-tags'><a class='hn-stat hn-stat-score' href='https://news.ycombinator.com/item?id=48492572' target='_blank' rel='noopener noreferrer'>&#9650; 53</a> <a class='hn-stat hn-stat-comments' href='https://news.ycombinator.com/item?id=48492572' target='_blank' rel='noopener noreferrer'>&#128172; 17</a> <span class='hn-tag hn-tag--orange' data-tag='Politics'>Politics</span> <span class='hn-tag hn-tag--red' data-tag='Security'>Security</span> <span class='hn-tag hn-tag--red' data-tag='Privacy'>Privacy</span></div>
-</div>
-<div class='hn-digest-details' id='card-details-48492572'>
-<p class='hn-text-en hn-digest-summary'>The House rejects the FISA Section 702 extension; warrantless surveillance authority expires, reshaping government data access and private-sector implications for security tech.</p>
-<p class='hn-text-zh hn-digest-summary'>美国众议院拒绝延长 FISA 第 702 条，相关无证监控权力到期，这将影响政府数据访问以及对安全技术的商业影响。</p>
-</div>
-</div>
-</div>
-<div class='hn-card hn-card-compact hn-no-collapse' id='story-48479852' data-tags='Open Source,Data,Privacy' data-hn-time='1781113187' data-hn-score='248' data-hot-score='0.34'>
-<div class='hn-body'>
-<div class='hn-digest-summary-header' role='button' tabindex='0' aria-expanded='true' aria-controls='card-details-48479852' aria-label='Hide summary and image'>
-<p class='hn-title'>(48) <a href='https://geolibre.app/' target='_blank' rel='noopener noreferrer'>GeoLibre 1.0</a></p>
-<p class='hn-meta'>GeoLibre 1.0 发布</p>
-<p class='hn-meta2'><span class='hn-meta2-created'>Created: Jun 10, 2026 / 10:39 PT</span></p>
-<div class='hn-tags'><a class='hn-stat hn-stat-score' href='https://news.ycombinator.com/item?id=48479852' target='_blank' rel='noopener noreferrer'>&#9650; 248</a> <a class='hn-stat hn-stat-comments' href='https://news.ycombinator.com/item?id=48479852' target='_blank' rel='noopener noreferrer'>&#128172; 21</a> <span class='hn-tag hn-tag--green' data-tag='Open Source'>Open Source</span> <span class='hn-tag hn-tag--violet' data-tag='Data'>Data</span> <span class='hn-tag hn-tag--red' data-tag='Privacy'>Privacy</span></div>
-</div>
-<div class='hn-digest-details' id='card-details-48479852'>
-<p class='hn-text-en hn-digest-summary'>GeoLibre 1.0 marks the first release of an open-source geospatial project focused on privacy-respecting, interoperable mapping tools. The project aims to democratize access to geospatial data and tooling.</p>
-<p class='hn-text-zh hn-digest-summary'>GeoLibre 1.0 发布，标志着一个强调隐私友好与互操作的开源地理空间项目的初次版本，目标是让地理数据与工具的获取更具普及性。</p>
-<img class='hn-img hn-digest-img' src='https://geolibre.app/assets/geolibre-icon.png' data-full='https://geolibre.app/assets/geolibre-icon.png' alt='preview image' loading='lazy' decoding='async'/>
-</div>
-</div>
-</div>
-<div class='hn-card hn-card-compact hn-no-collapse' id='story-48479705' data-tags='Space,Science,Health,Hardware' data-hn-time='1781112648' data-hn-score='239' data-hot-score='0.33'>
-<div class='hn-body'>
-<div class='hn-digest-summary-header' role='button' tabindex='0' aria-expanded='true' aria-controls='card-details-48479705' aria-label='Hide summary and image'>
-<p class='hn-title'>(49) <a href='https://spectrum.ieee.org/curiosity-rover-jpl-mars-science' target='_blank' rel='noopener noreferrer'>How JPL keeps the 13-year-old Curiosity rover doing science</a></p>
-<p class='hn-meta'>JPL 如何让 13 年的好奇号火星车继续开展科学任务</p>
-<p class='hn-meta2'><span class='hn-meta2-created'>Created: Jun 10, 2026 / 10:30 PT</span></p>
-<div class='hn-tags'><a class='hn-stat hn-stat-score' href='https://news.ycombinator.com/item?id=48479705' target='_blank' rel='noopener noreferrer'>&#9650; 239</a> <a class='hn-stat hn-stat-comments' href='https://news.ycombinator.com/item?id=48479705' target='_blank' rel='noopener noreferrer'>&#128172; 67</a> <span class='hn-tag hn-tag--teal' data-tag='Space'>Space</span> <span class='hn-tag hn-tag--teal' data-tag='Science'>Science</span> <span class='hn-tag hn-tag--emerald' data-tag='Health'>Health</span> <span class='hn-tag hn-tag--slate' data-tag='Hardware'>Hardware</span></div>
-</div>
-<div class='hn-digest-details' id='card-details-48479705'>
-<p class='hn-text-en hn-digest-summary'>Jet Propulsion Laboratory keeps Curiosity scientifically productive more than a decade after its landing by a combination of autonomous software updates, health monitoring, and power-aware operations. The story illustrates how ground teams sustain long-running robotic missions amid aging hardware.</p>
-<p class='hn-text-zh hn-digest-summary'>JPL 通过自动化软件更新、健康监控与电源感知运行等手段，使好奇号在着陆十余年后仍能开展科学研究，展示团队如何在老化硬件条件下维持长期机器任务的持续性。</p>
-<img class='hn-img hn-digest-img' src='https://spectrum.ieee.org/media-library/image.jpg?id=66880331&width=1200&height=600&coordinates=0%2C312%2C0%2C313' data-full='https://spectrum.ieee.org/media-library/image.jpg?id=66880331&width=1200&height=600&coordinates=0%2C312%2C0%2C313' alt='preview image' loading='lazy' decoding='async'/>
-</div>
-</div>
-</div>
-<div class='hn-card hn-card-compact hn-no-collapse' id='story-48474274' data-tags='Culture,Programming' data-hn-time='1781087865' data-hn-score='300' data-hot-score='0.31'>
-<div class='hn-body'>
-<div class='hn-digest-summary-header' role='button' tabindex='0' aria-expanded='true' aria-controls='card-details-48474274' aria-label='Hide summary and image'>
-<p class='hn-title'>(50) <a href='https://ianyepan.github.io/posts/emacs-in-pop-culture/' target='_blank' rel='noopener noreferrer'>Emacs appearances in pop culture</a></p>
-<p class='hn-meta'>Emacs 在流行文化中的出现</p>
-<p class='hn-meta2'><span class='hn-meta2-created'>Created: Jun 10, 2026 / 03:37 PT</span></p>
-<div class='hn-tags'><a class='hn-stat hn-stat-score' href='https://news.ycombinator.com/item?id=48474274' target='_blank' rel='noopener noreferrer'>&#9650; 300</a> <a class='hn-stat hn-stat-comments' href='https://news.ycombinator.com/item?id=48474274' target='_blank' rel='noopener noreferrer'>&#128172; 85</a> <span class='hn-tag hn-tag--rose' data-tag='Culture'>Culture</span> <span class='hn-tag hn-tag--indigo' data-tag='Programming'>Programming</span></div>
-</div>
-<div class='hn-digest-details' id='card-details-48474274'>
-<p class='hn-text-en hn-digest-summary'>Emacs pop culture appearances show the editor's enduring niche status among programmers and enthusiasts. The lore around the tool reveals how deep tooling loyalties translate into memes and media.</p>
-<p class='hn-text-zh hn-digest-summary'>Emacs 在流行文化中的出现凸显了这一编辑器在程序员群体中的持续小众地位。相关梗趣故事揭示了深度工具情感如何转化为梗图与媒体内容。</p>
-<img class='hn-img hn-digest-img' src='https://avatars.githubusercontent.com/u/36686900?v=4' data-full='https://avatars.githubusercontent.com/u/36686900?v=4' alt='preview image' loading='lazy' decoding='async'/>
-</div>
-</div>
-</div>
-<div class='hn-card hn-card-compact hn-no-collapse' id='story-48492177' data-tags='AI' data-hn-time='1781193661' data-hn-score='48' data-hot-score='0.3'>
-<div class='hn-body'>
-<div class='hn-digest-summary-header' role='button' tabindex='0' aria-expanded='true' aria-controls='card-details-48492177' aria-label='Hide summary and image'>
-<p class='hn-title'>(51) <a href='https://mtgautodeck.com/articles/mtg-bench/' target='_blank' rel='noopener noreferrer'>MTG Bench: Testing how well LLMs can play Magic</a></p>
-<p class='hn-meta'>MTG 基准测试：测试大语言模型在玩《魔法风云会》中的表现</p>
-<p class='hn-meta2'><span class='hn-meta2-created'>Created: Jun 11, 2026 / 09:01 PT</span></p>
-<div class='hn-tags'><a class='hn-stat hn-stat-score' href='https://news.ycombinator.com/item?id=48492177' target='_blank' rel='noopener noreferrer'>&#9650; 48</a> <a class='hn-stat hn-stat-comments' href='https://news.ycombinator.com/item?id=48492177' target='_blank' rel='noopener noreferrer'>&#128172; 27</a> <span class='hn-tag hn-tag--blue' data-tag='AI'>AI</span></div>
-</div>
-<div class='hn-digest-details' id='card-details-48492177'>
-<p class='hn-text-en hn-digest-summary'>MTG Bench evaluates how well LLMs can play Magic: The Gathering, examining strategic reasoning, rule adherence, and long-term planning. The benchmark reveals both strengths and limitations of contemporary models when navigating a complex, rules-heavy domain.</p>
-<p class='hn-text-zh hn-digest-summary'>MTG Bench 评估大语言模型在《魔法风云会》中的策略推理、对规则的遵循以及长期规划能力，揭示了当前模型在处理复杂、规则繁多领域时的优点与局限。</p>
-<img class='hn-img hn-digest-img' src='https://mtgautodeck.com/favicon.png' data-full='https://mtgautodeck.com/favicon.png' alt='preview image' loading='lazy' decoding='async'/>
-</div>
-</div>
-</div>
-<div class='hn-card hn-card-compact hn-no-collapse' id='story-48490094' data-tags='Space,Energy' data-hn-time='1781184559' data-hn-score='60' data-hot-score='0.29'>
-<div class='hn-body'>
-<div class='hn-digest-summary-header' role='button' tabindex='0' aria-expanded='true' aria-controls='card-details-48490094' aria-label='Hide summary and image'>
-<p class='hn-title'>(52) <a href='https://spectrum.ieee.org/orbital-data-centers-heat' target='_blank' rel='noopener noreferrer'>Thermodynamics rules future orbital data centers</a></p>
-<p class='hn-meta'>轨道数据中心的热力学限制</p>
-<p class='hn-meta2'><span class='hn-meta2-created'>Created: Jun 11, 2026 / 06:29 PT</span></p>
-<div class='hn-tags'><a class='hn-stat hn-stat-score' href='https://news.ycombinator.com/item?id=48490094' target='_blank' rel='noopener noreferrer'>&#9650; 60</a> <a class='hn-stat hn-stat-comments' href='https://news.ycombinator.com/item?id=48490094' target='_blank' rel='noopener noreferrer'>&#128172; 89</a> <span class='hn-tag hn-tag--teal' data-tag='Space'>Space</span> <span class='hn-tag hn-tag--emerald' data-tag='Energy'>Energy</span></div>
-</div>
-<div class='hn-digest-details' id='card-details-48490094'>
-<p class='hn-text-en hn-digest-summary'>Thermodynamics will constrain future orbital data centers, shaping cooling requirements, energy efficiency, and mission design.</p>
-<p class='hn-text-zh hn-digest-summary'>热力学将限制未来轨道数据中心的冷却需求、能源效率与任务设计。</p>
-<img class='hn-img hn-digest-img' src='https://spectrum.ieee.org/media-library/image.png?id=66895710&width=1200&height=600&coordinates=0%2C158%2C0%2C158' data-full='https://spectrum.ieee.org/media-library/image.png?id=66895710&width=1200&height=600&coordinates=0%2C158%2C0%2C158' alt='preview image' loading='lazy' decoding='async'/>
-</div>
-</div>
-</div>
-<div class='hn-card hn-card-compact hn-no-collapse' id='story-48477400' data-tags='AI,Open Source' data-hn-time='1781103666' data-hn-score='226' data-hot-score='0.28'>
-<div class='hn-body'>
-<div class='hn-digest-summary-header' role='button' tabindex='0' aria-expanded='true' aria-controls='card-details-48477400' aria-label='Hide summary and image'>
-<p class='hn-title'>(53) <a href='https://burr.apache.org/' target='_blank' rel='noopener noreferrer'>Apache Burr: Build reliable AI agents and applications</a></p>
-<p class='hn-meta'>Apache Burr：构建可靠的 AI 代理与应用</p>
-<p class='hn-meta2'><span class='hn-meta2-created'>Created: Jun 10, 2026 / 08:01 PT</span></p>
-<div class='hn-tags'><a class='hn-stat hn-stat-score' href='https://news.ycombinator.com/item?id=48477400' target='_blank' rel='noopener noreferrer'>&#9650; 226</a> <a class='hn-stat hn-stat-comments' href='https://news.ycombinator.com/item?id=48477400' target='_blank' rel='noopener noreferrer'>&#128172; 108</a> <span class='hn-tag hn-tag--blue' data-tag='AI'>AI</span> <span class='hn-tag hn-tag--green' data-tag='Open Source'>Open Source</span></div>
-</div>
-<div class='hn-digest-details' id='card-details-48477400'>
-<p class='hn-text-en hn-digest-summary'>Apache Burr is a framework for building reliable AI agents and applications, focusing on composability, fault tolerance, and governance across AI workflows.</p>
-<p class='hn-text-zh hn-digest-summary'>Apache Burr 是一个用于构建可靠 AI 代理与应用的框架，强调可组合性、容错性与在 AI 工作流中的治理与可观测性。</p>
-<img class='hn-img hn-digest-img' src='https://burr.apache.org/burr_logo.svg' data-full='https://burr.apache.org/burr_logo.svg' alt='preview image' loading='lazy' decoding='async'/>
-</div>
-</div>
-</div>
-<div class='hn-card hn-card-compact hn-no-collapse' id='story-48486486' data-tags='AI,Business' data-hn-time='1781155002' data-hn-score='108' data-hot-score='0.28'>
-<div class='hn-body'>
-<div class='hn-digest-summary-header' role='button' tabindex='0' aria-expanded='true' aria-controls='card-details-48486486' aria-label='Hide summary and image'>
-<p class='hn-title'>(54) <a href='https://www.cnbc.com/2026/06/11/openai-mulls-slashing-prices-ahead-of-competition-from-anthropic-wsj.html' target='_blank' rel='noopener noreferrer'>OpenAI mulls slashing prices as it competes with Anthropic for users</a></p>
-<p class='hn-meta'>OpenAI 评估降价以对抗 Anthropic 的竞争</p>
-<p class='hn-meta2'><span class='hn-meta2-created'>Created: Jun 10, 2026 / 22:16 PT</span></p>
-<div class='hn-tags'><a class='hn-stat hn-stat-score' href='https://news.ycombinator.com/item?id=48486486' target='_blank' rel='noopener noreferrer'>&#9650; 108</a> <a class='hn-stat hn-stat-comments' href='https://news.ycombinator.com/item?id=48486486' target='_blank' rel='noopener noreferrer'>&#128172; 118</a> <span class='hn-tag hn-tag--blue' data-tag='AI'>AI</span> <span class='hn-tag hn-tag--amber' data-tag='Business'>Business</span></div>
-</div>
-<div class='hn-digest-details' id='card-details-48486486'>
-<p class='hn-text-en hn-digest-summary'>OpenAI weighs price cuts to win market share against Anthropic, signaling a battle over AI access economics. The move could pressure margins but may accelerate user adoption and ecosystem growth.</p>
-<p class='hn-text-zh hn-digest-summary'>OpenAI 正在权衡降价以抢占 Anthropic 的用户市场，显示出对 AI 入门门槛的经济博弈。降价可能压缩利润率，但有望推动用户增长与生态系统扩展。</p>
-<img class='hn-img hn-digest-img' src='https://image.cnbcfm.com/api/v1/image/108316427-1780524884815-gettyimages-2278945689-AFP_B4XB779.jpeg?v=1780524953&w=1920&h=1080' data-full='https://image.cnbcfm.com/api/v1/image/108316427-1780524884815-gettyimages-2278945689-AFP_B4XB779.jpeg?v=1780524953&w=1920&h=1080' alt='preview image' loading='lazy' decoding='async'/>
-</div>
-</div>
-</div>
-<div class='hn-card hn-card-compact hn-no-collapse' id='story-48478469' data-tags='Show HN,Open Source,Web' data-hn-time='1781107766' data-hn-score='213' data-hot-score='0.27'>
-<div class='hn-body'>
-<div class='hn-digest-summary-header' role='button' tabindex='0' aria-expanded='true' aria-controls='card-details-48478469' aria-label='Hide summary and image'>
-<p class='hn-title'>(55) <a href='https://www.extend.ai/ui' target='_blank' rel='noopener noreferrer'>Show HN: Extend UI – open-source UI kit for modern document apps</a></p>
-<p class='hn-meta'>Show HN: Extend UI——用于现代文档应用的开源 UI 套件</p>
-<p class='hn-meta2'><span class='hn-meta2-created'>Created: Jun 10, 2026 / 09:09 PT</span></p>
-<div class='hn-tags'><a class='hn-stat hn-stat-score' href='https://news.ycombinator.com/item?id=48478469' target='_blank' rel='noopener noreferrer'>&#9650; 213</a> <a class='hn-stat hn-stat-comments' href='https://news.ycombinator.com/item?id=48478469' target='_blank' rel='noopener noreferrer'>&#128172; 53</a> <span class='hn-tag hn-tag--green' data-tag='Show HN'>Show HN</span> <span class='hn-tag hn-tag--green' data-tag='Open Source'>Open Source</span> <span class='hn-tag hn-tag--cyan' data-tag='Web'>Web</span></div>
-</div>
-<div class='hn-digest-details' id='card-details-48478469'>
-<p class='hn-text-en hn-digest-summary'>Extend UI is an open-source UI kit designed for building modern document apps, offering modular components for editing, collaboration, and document-centric UX. It aims to speed frontend development while keeping interfaces cohesive.</p>
-<p class='hn-text-zh hn-digest-summary'>Extend UI 是一个用于构建现代文档应用的开源 UI 套件，提供编辑、协作和文档驱动的组件模块，旨在加速前端开发并保持界面的一致性。</p>
-<img class='hn-img hn-digest-img' src='https://extend.ai/ui/og?title=Open%20source%20UI%20kit%20for%20modern%20document%20apps&description=File%20viewers%20for%20PDF%2C%20DOCX%2C%20XLSX%2C%20and%20CSV%2C%20with%20bounding%20box%20citations%2C%20file%20upload%2C%20e-signing%2C%20and%20more.' data-full='https://extend.ai/ui/og?title=Open%20source%20UI%20kit%20for%20modern%20document%20apps&description=File%20viewers%20for%20PDF%2C%20DOCX%2C%20XLSX%2C%20and%20CSV%2C%20with%20bounding%20box%20citations%2C%20file%20upload%2C%20e-signing%2C%20and%20more.' alt='preview image' loading='lazy' decoding='async'/>
-</div>
-</div>
-</div>
-<div class='hn-card hn-card-compact hn-no-collapse' id='story-48483387' data-tags='Culture,Education' data-hn-time='1781129272' data-hn-score='157' data-hot-score='0.27'>
-<div class='hn-body'>
-<div class='hn-digest-summary-header' role='button' tabindex='0' aria-expanded='true' aria-controls='card-details-48483387' aria-label='Hide summary and image'>
-<p class='hn-title'>(56) <a href='https://www.smithsonianmag.com/innovation/man-created-written-language-cherokee-did-efficiently-elegantly-peers-thought-magic-180988850/' target='_blank' rel='noopener noreferrer'>Sequoyah’s syllabary created a written language for the Cherokee</a></p>
-<p class='hn-meta'>Sequoyah 的音节字母为切罗基创造了书写语言</p>
-<p class='hn-meta2'><span class='hn-meta2-created'>Created: Jun 10, 2026 / 15:07 PT</span></p>
-<div class='hn-tags'><a class='hn-stat hn-stat-score' href='https://news.ycombinator.com/item?id=48483387' target='_blank' rel='noopener noreferrer'>&#9650; 157</a> <a class='hn-stat hn-stat-comments' href='https://news.ycombinator.com/item?id=48483387' target='_blank' rel='noopener noreferrer'>&#128172; 91</a> <span class='hn-tag hn-tag--rose' data-tag='Culture'>Culture</span> <span class='hn-tag hn-tag--sky' data-tag='Education'>Education</span></div>
-</div>
-<div class='hn-digest-details' id='card-details-48483387'>
-<p class='hn-text-en hn-digest-summary'>Sequoyah's Cherokee syllabary enabled a lasting literate culture among the Cherokee, accelerating governance, education, and record-keeping. The invention shows how a writing system can catalyze political resilience and cultural preservation under pressure.</p>
-<p class='hn-text-zh hn-digest-summary'>Sequoyah 的切罗基音节字母让切罗基人建立了持续的书写传统，推动治理、教育与档案管理。这个发明展示了书写体系如何在压力下推动政治韧性与文化传承。</p>
-<img class='hn-img hn-digest-img' src='https://th-thumbnailer.cdn-si-edu.com/TMNdwAbB8F7RoCB3h5Xt5VWI8d8=/fit-in/1600x0/filters:focal(612x650:613x651)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/25/77/2577ef6b-781c-4718-822a-9c672456ff5c/sequoyah_smithsonian_concept_b.jpg' data-full='https://th-thumbnailer.cdn-si-edu.com/TMNdwAbB8F7RoCB3h5Xt5VWI8d8=/fit-in/1600x0/filters:focal(612x650:613x651)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/25/77/2577ef6b-781c-4718-822a-9c672456ff5c/sequoyah_smithsonian_concept_b.jpg' alt='preview image' loading='lazy' decoding='async'/>
-</div>
-</div>
-</div>
-<div class='hn-card hn-card-compact hn-no-collapse' id='story-48475100' data-tags='Data,Design' data-hn-time='1781093488' data-hn-score='241' data-hot-score='0.26'>
-<div class='hn-body'>
-<div class='hn-digest-summary-header' role='button' tabindex='0' aria-expanded='true' aria-controls='card-details-48475100' aria-label='Hide summary and image'>
-<p class='hn-title'>(57) <a href='https://jivx.com/eki' target='_blank' rel='noopener noreferrer'>All 9,300 Japanese train station, animated by the year it opened (1872–2026)</a></p>
-<p class='hn-meta'>所有 9,300 个日本车站按开通年份（1872–2026）动画展示</p>
-<p class='hn-meta2'><span class='hn-meta2-created'>Created: Jun 10, 2026 / 05:11 PT</span></p>
-<div class='hn-tags'><a class='hn-stat hn-stat-score' href='https://news.ycombinator.com/item?id=48475100' target='_blank' rel='noopener noreferrer'>&#9650; 241</a> <a class='hn-stat hn-stat-comments' href='https://news.ycombinator.com/item?id=48475100' target='_blank' rel='noopener noreferrer'>&#128172; 79</a> <span class='hn-tag hn-tag--violet' data-tag='Data'>Data</span> <span class='hn-tag hn-tag--pink' data-tag='Design'>Design</span></div>
-</div>
-<div class='hn-digest-details' id='card-details-48475100'>
-<p class='hn-text-en hn-digest-summary'>A data-visualization project animates every Japanese train station by its opening year (1872–2026), revealing how rail networks expanded over more than a century. It offers a striking lens on urban growth and transportation history.</p>
-<p class='hn-text-zh hn-digest-summary'>一个数据可视化项目把日本所有车站按开通年份（1872–2026）逐年动画化，揭示铁路网的扩张与城市化的历史轨迹。它为理解交通与区域发展提供了直观视角。</p>
-</div>
-</div>
-</div>
-<div class='hn-card hn-card-compact hn-no-collapse' id='story-48487229' data-tags='Design' data-hn-time='1781161600' data-hn-score='87' data-hot-score='0.26'>
-<div class='hn-body'>
-<div class='hn-digest-summary-header' role='button' tabindex='0' aria-expanded='true' aria-controls='card-details-48487229' aria-label='Hide summary and image'>
-<p class='hn-title'>(58) <a href='https://www.fabianhemmert.com/opinions/a-greyscale-iphone-setup-that-works-in-everyday-life' target='_blank' rel='noopener noreferrer'>A greyscale iPhone setup that works in everyday life</a></p>
-<p class='hn-meta'>日常使用的灰度 iPhone 设置</p>
-<p class='hn-meta2'><span class='hn-meta2-created'>Created: Jun 11, 2026 / 00:06 PT</span></p>
-<div class='hn-tags'><a class='hn-stat hn-stat-score' href='https://news.ycombinator.com/item?id=48487229' target='_blank' rel='noopener noreferrer'>&#9650; 87</a> <a class='hn-stat hn-stat-comments' href='https://news.ycombinator.com/item?id=48487229' target='_blank' rel='noopener noreferrer'>&#128172; 53</a> <span class='hn-tag hn-tag--pink' data-tag='Design'>Design</span></div>
-</div>
-<div class='hn-digest-details' id='card-details-48487229'>
-<p class='hn-text-en hn-digest-summary'>Describes a grayscale iPhone setup designed for focus and usability in everyday life, including wallpaper choices, icon layouts, and accessibility tweaks to reduce visual noise.</p>
-<p class='hn-text-zh hn-digest-summary'>介绍一套日常使用的灰度模式 iPhone 设置，强调提升专注与可用性，涵盖壁纸、应用图标布局及辅助功能的调整。</p>
-<img class='hn-img hn-digest-img' src='https://www.fabianhemmert.com/media/pages/opinions/a-greyscale-iphone-setup-that-works-in-everyday-life/6f94f22014-1779951624/apps_for_color.jpeg' data-full='https://www.fabianhemmert.com/media/pages/opinions/a-greyscale-iphone-setup-that-works-in-everyday-life/6f94f22014-1779951624/apps_for_color.jpeg' alt='preview image' loading='lazy' decoding='async'/>
-</div>
-</div>
-</div>
-<div class='hn-card hn-card-compact hn-no-collapse' id='story-48464258' data-tags='AI,Privacy' data-hn-time='1781025820' data-hn-score='443' data-hot-score='0.25'>
-<div class='hn-body'>
-<div class='hn-digest-summary-header' role='button' tabindex='0' aria-expanded='true' aria-controls='card-details-48464258' aria-label='Hide summary and image'>
-<p class='hn-title'>(59) <a href='https://support.claude.com/en/articles/15425996-data-retention-practices-for-mythos-class-models' target='_blank' rel='noopener noreferrer'>Anthropic requires 30 day data retention for Fable and Mythos</a></p>
-<p class='hn-meta'>Anthropic 要求对 Fable 和 Mythos 的用户数据保留 30 天</p>
-<p class='hn-meta2'><span class='hn-meta2-created'>Created: Jun 09, 2026 / 10:23 PT</span></p>
-<div class='hn-tags'><a class='hn-stat hn-stat-score' href='https://news.ycombinator.com/item?id=48464258' target='_blank' rel='noopener noreferrer'>&#9650; 443</a> <a class='hn-stat hn-stat-comments' href='https://news.ycombinator.com/item?id=48464258' target='_blank' rel='noopener noreferrer'>&#128172; 229</a> <span class='hn-tag hn-tag--blue' data-tag='AI'>AI</span> <span class='hn-tag hn-tag--red' data-tag='Privacy'>Privacy</span></div>
-</div>
-<div class='hn-digest-details' id='card-details-48464258'>
-<p class='hn-text-en hn-digest-summary'>User data from Fable and Mythos must be kept for 30 days to support safety work and model improvement. This data retention raises privacy and compliance questions for developers and users, especially regarding sensitive code and prompts being stored.</p>
-<p class='hn-text-zh hn-digest-summary'>Anthropic 要求对 Fable 和 Mythos 的用户数据保留 30 天，用于安全研究与模型改进。这一规定提升了隐私与合规的担忧，尤其涉及敏感代码和提示的存储风险。</p>
-<img class='hn-img hn-digest-img' src='https://downloads.intercomcdn.com/i/o/lupk8zyo/792494/717b10d3ebd874823db64841659b/76f3062d78ebbb04863fb1de3ef9cca0.png' data-full='https://downloads.intercomcdn.com/i/o/lupk8zyo/792494/717b10d3ebd874823db64841659b/76f3062d78ebbb04863fb1de3ef9cca0.png' alt='preview image' loading='lazy' decoding='async'/>
-</div>
-</div>
-</div>
-<div class='hn-card hn-card-compact hn-no-collapse' id='story-48468370' data-tags='Finance,Business' data-hn-time='1781042475' data-hn-score='373' data-hot-score='0.25'>
-<div class='hn-body'>
-<div class='hn-digest-summary-header' role='button' tabindex='0' aria-expanded='true' aria-controls='card-details-48468370' aria-label='Hide summary and image'>
-<p class='hn-title'>(60) <a href='https://forestwalk.ai/blog/surprise-blacksmith-costs/' target='_blank' rel='noopener noreferrer'>Surprise, pay $1000</a></p>
-<p class='hn-meta'>意外，付出 1000 美元</p>
-<p class='hn-meta2'><span class='hn-meta2-created'>Created: Jun 09, 2026 / 15:01 PT</span></p>
-<div class='hn-tags'><a class='hn-stat hn-stat-score' href='https://news.ycombinator.com/item?id=48468370' target='_blank' rel='noopener noreferrer'>&#9650; 373</a> <a class='hn-stat hn-stat-comments' href='https://news.ycombinator.com/item?id=48468370' target='_blank' rel='noopener noreferrer'>&#128172; 206</a> <span class='hn-tag hn-tag--amber' data-tag='Finance'>Finance</span> <span class='hn-tag hn-tag--amber' data-tag='Business'>Business</span></div>
-</div>
-<div class='hn-digest-details' id='card-details-48468370'>
-<p class='hn-text-en hn-digest-summary'>Reveals surprising hidden costs in modern tooling, showing how an ostensibly small expense can balloon to $1,000. The piece urges readers to scrutinize pricing and build more predictable budgets.</p>
-<p class='hn-text-zh hn-digest-summary'>揭示现代工具中的隐藏成本，表面看似微小的花费也可能累积至 1000 美元。敦促读者仔细审查定价，建立更可控的预算。</p>
-<img class='hn-img hn-digest-img' src='https://forestwalk.ai/images/blog/blacksmith-free-2.jpg' data-full='https://forestwalk.ai/images/blog/blacksmith-free-2.jpg' alt='preview image' loading='lazy' decoding='async'/>
-</div>
-</div>
-</div>
-<div class='hn-card hn-card-compact hn-no-collapse' id='story-48487435' data-tags='Design' data-hn-time='1781163312' data-hn-score='76' data-hot-score='0.23'>
-<div class='hn-body'>
-<div class='hn-digest-summary-header' role='button' tabindex='0' aria-expanded='true' aria-controls='card-details-48487435' aria-label='Hide summary and image'>
-<p class='hn-title'>(61) <a href='https://daringfireball.net/2026/06/macos_27_golden_gate_removes_the_dumb_icons_from_menu_items' target='_blank' rel='noopener noreferrer'>Sweet Jeebus, macOS 27 Golden Gate Removes the Dumb Icons from Menu Items</a></p>
-<p class='hn-meta'>macOS 27 Golden Gate 移除了菜单项中的图标</p>
-<p class='hn-meta2'><span class='hn-meta2-created'>Created: Jun 11, 2026 / 00:35 PT</span></p>
-<div class='hn-tags'><a class='hn-stat hn-stat-score' href='https://news.ycombinator.com/item?id=48487435' target='_blank' rel='noopener noreferrer'>&#9650; 76</a> <a class='hn-stat hn-stat-comments' href='https://news.ycombinator.com/item?id=48487435' target='_blank' rel='noopener noreferrer'>&#128172; 20</a> <span class='hn-tag hn-tag--pink' data-tag='Design'>Design</span></div>
-</div>
-<div class='hn-digest-details' id='card-details-48487435'>
-<p class='hn-text-en hn-digest-summary'>macOS 27 Golden Gate drops icons from menu items to declutter the UI, leaning into text-first menus. The change fuels debate about visual cues, accessibility, and whether fewer icons speeds up or slows down user recognition.</p>
-<p class='hn-text-zh hn-digest-summary'>macOS 27 Golden Gate 将菜单项中的图标移除，转向文本优先的界面设计。这一改动引发关于视觉提示、可访问性以及减少图标是否提升或降低识别速度的讨论。</p>
-<img class='hn-img hn-digest-img' src='https://daringfireball.net/graphics/df-wide-card.png' data-full='https://daringfireball.net/graphics/df-wide-card.png' alt='preview image' loading='lazy' decoding='async'/>
-</div>
-</div>
-</div>
-<div class='hn-card hn-card-compact hn-no-collapse' id='story-48476136' data-tags='Security,AI' data-hn-time='1781098751' data-hn-score='186' data-hot-score='0.21'>
-<div class='hn-body'>
-<div class='hn-digest-summary-header' role='button' tabindex='0' aria-expanded='true' aria-controls='card-details-48476136' aria-label='Hide summary and image'>
-<p class='hn-title'>(62) <a href='https://blue41.com/blog/how-we-helped-bunq-secure-their-financial-ai-assistant/' target='_blank' rel='noopener noreferrer'>A €0.01 bank transfer could compromise a banking AI agent</a></p>
-<p class='hn-meta'>一笔 0.01 欧元的银行转账可能危及银行 AI 助手</p>
-<p class='hn-meta2'><span class='hn-meta2-created'>Created: Jun 10, 2026 / 06:39 PT</span></p>
-<div class='hn-tags'><a class='hn-stat hn-stat-score' href='https://news.ycombinator.com/item?id=48476136' target='_blank' rel='noopener noreferrer'>&#9650; 186</a> <a class='hn-stat hn-stat-comments' href='https://news.ycombinator.com/item?id=48476136' target='_blank' rel='noopener noreferrer'>&#128172; 178</a> <span class='hn-tag hn-tag--red' data-tag='Security'>Security</span> <span class='hn-tag hn-tag--blue' data-tag='AI'>AI</span></div>
-</div>
-<div class='hn-digest-details' id='card-details-48476136'>
-<p class='hn-text-en hn-digest-summary'>A tiny payment triggers vulnerabilities in a banking AI assistant, underscoring the need for strict input validation and safe sandboxing for financial AI.</p>
-<p class='hn-text-zh hn-digest-summary'>仅 0.01 欧元的转账就可能暴露银行 AI 助手中的漏洞，凸显对输入校验和沙箱化的迫切需求。</p>
-<img class='hn-img hn-digest-img' src='https://blue41.com/opengraph.jpg' data-full='https://blue41.com/opengraph.jpg' alt='preview image' loading='lazy' decoding='async'/>
-</div>
-</div>
-</div>
-<div class='hn-card hn-card-compact hn-no-collapse' id='story-48476214' data-tags='Politics,Security,Legal' data-hn-time='1781099174' data-hn-score='179' data-hot-score='0.21'>
-<div class='hn-body'>
-<div class='hn-digest-summary-header' role='button' tabindex='0' aria-expanded='true' aria-controls='card-details-48476214' aria-label='Hide summary and image'>
-<p class='hn-title'>(63) <a href='https://www.newscientist.com/article/2529849-fully-autonomous-drones-have-killed-human-soldiers-for-the-first-time/' target='_blank' rel='noopener noreferrer'>Fully autonomous drones have killed human soldiers for the first time</a></p>
-<p class='hn-meta'>全自动无人机首次击杀人类士兵</p>
-<p class='hn-meta2'><span class='hn-meta2-created'>Created: Jun 10, 2026 / 06:46 PT</span></p>
-<div class='hn-tags'><a class='hn-stat hn-stat-score' href='https://news.ycombinator.com/item?id=48476214' target='_blank' rel='noopener noreferrer'>&#9650; 179</a> <a class='hn-stat hn-stat-comments' href='https://news.ycombinator.com/item?id=48476214' target='_blank' rel='noopener noreferrer'>&#128172; 160</a> <span class='hn-tag hn-tag--orange' data-tag='Politics'>Politics</span> <span class='hn-tag hn-tag--red' data-tag='Security'>Security</span> <span class='hn-tag hn-tag--orange' data-tag='Legal'>Legal</span></div>
-</div>
-<div class='hn-digest-details' id='card-details-48476214'>
-<p class='hn-text-en hn-digest-summary'>Fully autonomous drones have killed human soldiers for the first time, raising urgent ethical, legal, and strategic questions about the deployment of fully autonomous weapons.</p>
-<p class='hn-text-zh hn-digest-summary'>完全自主无人机首次致使士兵死亡，引发关于自治武器部署的伦理、法律与战略层面的紧迫讨论。</p>
-<img class='hn-img hn-digest-img' src='https://images.newscientist.com/wp-content/uploads/2026/06/10104553/SEI_300076919.jpg' data-full='https://images.newscientist.com/wp-content/uploads/2026/06/10104553/SEI_300076919.jpg' alt='preview image' loading='lazy' decoding='async'/>
-</div>
-</div>
-</div>
-<div class='hn-card hn-card-compact hn-no-collapse' id='story-48476474' data-tags='AI,Data' data-hn-time='1781100220' data-hn-score='179' data-hot-score='0.21'>
-<div class='hn-body'>
-<div class='hn-digest-summary-header' role='button' tabindex='0' aria-expanded='true' aria-controls='card-details-48476474' aria-label='Hide summary and image'>
-<p class='hn-title'>(64) <a href='https://news.ycombinator.com/item?id=48476474' target='_blank' rel='noopener noreferrer'>Notes on DeepSeek</a></p>
-<p class='hn-meta'>关于 DeepSeek 的笔记</p>
-<p class='hn-meta2'><span class='hn-meta2-created'>Created: Jun 10, 2026 / 07:03 PT</span></p>
-<div class='hn-tags'><a class='hn-stat hn-stat-score' href='https://news.ycombinator.com/item?id=48476474' target='_blank' rel='noopener noreferrer'>&#9650; 179</a> <a class='hn-stat hn-stat-comments' href='https://news.ycombinator.com/item?id=48476474' target='_blank' rel='noopener noreferrer'>&#128172; 119</a> <span class='hn-tag hn-tag--blue' data-tag='AI'>AI</span> <span class='hn-tag hn-tag--violet' data-tag='Data'>Data</span></div>
-</div>
-<div class='hn-digest-details' id='card-details-48476474'>
-<p class='hn-text-en hn-digest-summary'>Notes on DeepSeek—likely a new AI-powered search or data platform—covering design decisions, capabilities, and potential use cases in data retrieval or AI workflows.</p>
-<p class='hn-text-zh hn-digest-summary'>对 DeepSeek 的观察与思考，讨论其设计、能力及在数据检索或 AI 工作流中的潜在应用场景。</p>
-</div>
-</div>
-</div>
-<div class='hn-card hn-card-compact hn-no-collapse' id='story-48477851' data-tags='DevOps' data-hn-time='1781105392' data-hn-score='160' data-hot-score='0.2'>
-<div class='hn-body'>
-<div class='hn-digest-summary-header' role='button' tabindex='0' aria-expanded='true' aria-controls='card-details-48477851' aria-label='Hide summary and image'>
-<p class='hn-title'>(65) <a href='https://www.githubstatus.com/incidents/fcj3088jg1wx' target='_blank' rel='noopener noreferrer'>Authentication issues related to API requests</a></p>
-<p class='hn-meta'>GitHub 认证问题影响 API 请求</p>
-<p class='hn-meta2'><span class='hn-meta2-created'>Created: Jun 10, 2026 / 08:29 PT</span></p>
-<div class='hn-tags'><a class='hn-stat hn-stat-score' href='https://news.ycombinator.com/item?id=48477851' target='_blank' rel='noopener noreferrer'>&#9650; 160</a> <a class='hn-stat hn-stat-comments' href='https://news.ycombinator.com/item?id=48477851' target='_blank' rel='noopener noreferrer'>&#128172; 32</a> <span class='hn-tag hn-tag--indigo' data-tag='DevOps'>DevOps</span></div>
-</div>
-<div class='hn-digest-details' id='card-details-48477851'>
-<p class='hn-text-en hn-digest-summary'>A service disruption is affecting API authentication; developers may hit authentication errors on API calls, possibly due to token or session issues, impacting automation and integrations.</p>
-<p class='hn-text-zh hn-digest-summary'>认证相关的问题正在影响 API 请求，开发者可能遇到身份验证错误，需关注令牌与会话管理，以防止自动化工作受阻。</p>
-<img class='hn-img hn-digest-img' src='https://dka575ofm4ao0.cloudfront.net/pages-twitter_logos/original/36420/GitHub-Mark-120px-plus.png' data-full='https://dka575ofm4ao0.cloudfront.net/pages-twitter_logos/original/36420/GitHub-Mark-120px-plus.png' alt='preview image' loading='lazy' decoding='async'/>
-</div>
-</div>
-</div>
-<div class='hn-card hn-card-compact hn-no-collapse' id='story-48478148' data-tags='Show HN,Open Source,Data' data-hn-time='1781106451' data-hn-score='132' data-hot-score='0.17'>
-<div class='hn-body'>
-<div class='hn-digest-summary-header' role='button' tabindex='0' aria-expanded='true' aria-controls='card-details-48478148' aria-label='Hide summary and image'>
-<p class='hn-title'>(66) <a href='https://github.com/HelixDB/helix-db/tree/main' target='_blank' rel='noopener noreferrer'>Show HN: HelixDB – A graph database built on object storage</a></p>
-<p class='hn-meta'>Show HN: HelixDB——基于对象存储的图数据库</p>
-<p class='hn-meta2'><span class='hn-meta2-created'>Created: Jun 10, 2026 / 08:47 PT</span></p>
-<div class='hn-tags'><a class='hn-stat hn-stat-score' href='https://news.ycombinator.com/item?id=48478148' target='_blank' rel='noopener noreferrer'>&#9650; 132</a> <a class='hn-stat hn-stat-comments' href='https://news.ycombinator.com/item?id=48478148' target='_blank' rel='noopener noreferrer'>&#128172; 36</a> <span class='hn-tag hn-tag--green' data-tag='Show HN'>Show HN</span> <span class='hn-tag hn-tag--green' data-tag='Open Source'>Open Source</span> <span class='hn-tag hn-tag--violet' data-tag='Data'>Data</span></div>
-</div>
-<div class='hn-digest-details' id='card-details-48478148'>
-<p class='hn-text-en hn-digest-summary'>HelixDB presents a graph database built on top of object storage, offering scalable graph capabilities without relying on traditional block-based DBs. The model leverages object storage durability and cost, with graph queries using native primitives.</p>
-<p class='hn-text-zh hn-digest-summary'>HelixDB 提供一个建立在对象存储之上的图数据库，强调可扩展性与成本效益，利用对象存储的耐久性实现图数据管理。</p>
-<img class='hn-img hn-digest-img' src='https://opengraph.githubassets.com/f6059706dcd70b57d0cf0f97f9e47d46f41db0aecf14b3b3d85473dc1e71f0c4/HelixDB/helix-db' data-full='https://opengraph.githubassets.com/f6059706dcd70b57d0cf0f97f9e47d46f41db0aecf14b3b3d85473dc1e71f0c4/HelixDB/helix-db' alt='preview image' loading='lazy' decoding='async'/>
-</div>
-</div>
-</div>
-<div class='hn-card hn-card-compact hn-no-collapse' id='story-48479314' data-tags='Education' data-hn-time='1781111028' data-hn-score='130' data-hot-score='0.17'>
-<div class='hn-body'>
-<div class='hn-digest-summary-header' role='button' tabindex='0' aria-expanded='true' aria-controls='card-details-48479314' aria-label='Hide summary and image'>
-<p class='hn-title'>(67) <a href='https://www.nbcnews.com/data-graphics/kids-reading-less-lower-levels-department-education-study-rcna348987' target='_blank' rel='noopener noreferrer'>Reading for pleasure is sharply down among schoolkids, report shows</a></p>
-<p class='hn-meta'>学校儿童的业余阅读显著下降（报告显示）</p>
-<p class='hn-meta2'><span class='hn-meta2-created'>Created: Jun 10, 2026 / 10:03 PT</span></p>
-<div class='hn-tags'><a class='hn-stat hn-stat-score' href='https://news.ycombinator.com/item?id=48479314' target='_blank' rel='noopener noreferrer'>&#9650; 130</a> <a class='hn-stat hn-stat-comments' href='https://news.ycombinator.com/item?id=48479314' target='_blank' rel='noopener noreferrer'>&#128172; 155</a> <span class='hn-tag hn-tag--sky' data-tag='Education'>Education</span></div>
-</div>
-<div class='hn-digest-details' id='card-details-48479314'>
-<p class='hn-text-en hn-digest-summary'>A report shows kids read for pleasure less; implications for literacy, motivation, and lifelong learning. Educators may need targeted interventions.</p>
-<p class='hn-text-zh hn-digest-summary'>报告显示学生的休闲阅读明显下降，可能影响识字、积极性与终身学习动机。教育者或需采取针对性干预。</p>
-<img class='hn-img hn-digest-img' src='https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-06/260608-kids-reading-ac-1157-a5ffdb.jpg' data-full='https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-06/260608-kids-reading-ac-1157-a5ffdb.jpg' alt='preview image' loading='lazy' decoding='async'/>
-</div>
-</div>
-</div>
-<div class='hn-card hn-card-compact hn-no-collapse' id='story-48462070' data-tags='Open Source' data-hn-time='1781017303' data-hn-score='279' data-hot-score='0.15'>
-<div class='hn-body'>
-<div class='hn-digest-summary-header' role='button' tabindex='0' aria-expanded='true' aria-controls='card-details-48462070' aria-label='Hide summary and image'>
-<p class='hn-title'>(68) <a href='https://www.phoronix.com/news/macOS-27-Beta-Breaks-Asahi' target='_blank' rel='noopener noreferrer'>macOS 27 Beta breaks the ability to boot Asahi Linux</a></p>
-<p class='hn-meta'>macOS 27 Beta 破坏了 Asahi Linux 启动能力</p>
-<p class='hn-meta2'><span class='hn-meta2-created'>Created: Jun 09, 2026 / 08:01 PT</span></p>
-<div class='hn-tags'><a class='hn-stat hn-stat-score' href='https://news.ycombinator.com/item?id=48462070' target='_blank' rel='noopener noreferrer'>&#9650; 279</a> <a class='hn-stat hn-stat-comments' href='https://news.ycombinator.com/item?id=48462070' target='_blank' rel='noopener noreferrer'>&#128172; 120</a> <span class='hn-tag hn-tag--green' data-tag='Open Source'>Open Source</span></div>
-</div>
-<div class='hn-digest-details' id='card-details-48462070'>
-<p class='hn-text-en hn-digest-summary'>macOS 27 beta breaks the ability to boot Asahi Linux on Apple Silicon, complicating dual-boot setups and open-source Linux on Macs. The compatibility hiccup highlights the fragility of cross-platform open-source efforts.</p>
-<p class='hn-text-zh hn-digest-summary'>macOS 27 测试版会打破在 Apple Silicon 上启动 Asahi Linux 的能力，给双系统和开源 Linux on Macs 的工作带来难题。这突显了跨平台开源努力的脆弱性。</p>
-<img class='hn-img hn-digest-img' src='https://www.phoronix.net/image.php?id=2026&image=macos_27' data-full='https://www.phoronix.net/image.php?id=2026&image=macos_27' alt='preview image' loading='lazy' decoding='async'/>
-</div>
-</div>
-</div>
-<div class='hn-card hn-card-compact hn-no-collapse' id='story-48482293' data-tags='Science,AI' data-hn-time='1781123707' data-hn-score='93' data-hot-score='0.15'>
-<div class='hn-body'>
-<div class='hn-digest-summary-header' role='button' tabindex='0' aria-expanded='true' aria-controls='card-details-48482293' aria-label='Hide summary and image'>
-<p class='hn-title'>(69) <a href='https://www.sas.upenn.edu/~cavitch/pdf-library/Nagel_Bat.pdf' target='_blank' rel='noopener noreferrer'>What is it like to be a bat? (1974) [pdf]</a></p>
-<p class='hn-meta'>成为一只蝙蝠是什么感觉？（1974）[PDF]</p>
-<p class='hn-meta2'><span class='hn-meta2-created'>Created: Jun 10, 2026 / 13:35 PT</span></p>
-<div class='hn-tags'><a class='hn-stat hn-stat-score' href='https://news.ycombinator.com/item?id=48482293' target='_blank' rel='noopener noreferrer'>&#9650; 93</a> <a class='hn-stat hn-stat-comments' href='https://news.ycombinator.com/item?id=48482293' target='_blank' rel='noopener noreferrer'>&#128172; 99</a> <span class='hn-tag hn-tag--teal' data-tag='Science'>Science</span> <span class='hn-tag hn-tag--blue' data-tag='AI'>AI</span></div>
-</div>
-<div class='hn-digest-details' id='card-details-48482293'>
-<p class='hn-text-en hn-digest-summary'>Thomas Nagel argues that knowing a bat's physiology doesn't reveal what it is like to be a bat, highlighting the hard problem of consciousness. The paper advances the idea that subjective experience resists reduction to physical descriptions, shaping debates in philosophy of mind and AI ethics.</p>
-<p class='hn-text-zh hn-digest-summary'>奈格尔在这篇论文中主张，即使能全面了解蝙蝠的生理，也无法知道它的主观感受是什么。这揭示意识的主观性难以被完全还原为客观物理描述，并影响后续的心智哲学与 AI 伦理讨论。</p>
-</div>
-</div>
-</div>
-<div class='hn-card hn-card-compact hn-no-collapse' id='story-48486944' data-tags='Programming,Open Source,Web' data-hn-time='1781159553' data-hn-score='51' data-hot-score='0.14'>
-<div class='hn-body'>
-<div class='hn-digest-summary-header' role='button' tabindex='0' aria-expanded='true' aria-controls='card-details-48486944' aria-label='Hide summary and image'>
-<p class='hn-title'>(70) <a href='https://github.com/vanyapr/makaroshki' target='_blank' rel='noopener noreferrer'>Macaroni – a single HTML file messenger</a></p>
-<p class='hn-meta'>Macaroni——一个单文件的消息应用</p>
-<p class='hn-meta2'><span class='hn-meta2-created'>Created: Jun 10, 2026 / 23:32 PT</span></p>
-<div class='hn-tags'><a class='hn-stat hn-stat-score' href='https://news.ycombinator.com/item?id=48486944' target='_blank' rel='noopener noreferrer'>&#9650; 51</a> <a class='hn-stat hn-stat-comments' href='https://news.ycombinator.com/item?id=48486944' target='_blank' rel='noopener noreferrer'>&#128172; 50</a> <span class='hn-tag hn-tag--indigo' data-tag='Programming'>Programming</span> <span class='hn-tag hn-tag--green' data-tag='Open Source'>Open Source</span> <span class='hn-tag hn-tag--cyan' data-tag='Web'>Web</span></div>
-</div>
-<div class='hn-digest-details' id='card-details-48486944'>
-<p class='hn-text-en hn-digest-summary'>A compact, self-contained messenger implemented as a single HTML file, showcasing how to bundle UI, logic, and data into one portable artifact. It's a minimalist take on a chat app designed for easy distribution and offline use.</p>
-<p class='hn-text-zh hn-digest-summary'>一个紧凑且自包容的消息应用，用单一 HTML 文件实现，展示了如何把界面、逻辑和数据打包成一个便携的产物。体现了便于分发与离线使用的极简聊天应用思路。</p>
-<img class='hn-img hn-digest-img' src='https://opengraph.githubassets.com/07646833cbf0395e39e1cafeaf2c70fd4bddc70c6f348fe76c46bb354374d139/vanyapr/makaroshki' data-full='https://opengraph.githubassets.com/07646833cbf0395e39e1cafeaf2c70fd4bddc70c6f348fe76c46bb354374d139/vanyapr/makaroshki' alt='preview image' loading='lazy' decoding='async'/>
-</div>
-</div>
-</div>
-<div class='hn-card hn-card-compact hn-no-collapse' id='story-48477208' data-tags='Security,Open Source' data-hn-time='1781103071' data-hn-score='94' data-hot-score='0.11'>
-<div class='hn-body'>
-<div class='hn-digest-summary-header' role='button' tabindex='0' aria-expanded='true' aria-controls='card-details-48477208' aria-label='Hide summary and image'>
-<p class='hn-title'>(71) <a href='https://printserver.ink/blog/spoiling-the-kernel/' target='_blank' rel='noopener noreferrer'>Spoiling Linux Kernel with "sanctioned" code</a></p>
-<p class='hn-meta'>Spoiling Linux Kernel：所谓的“被批准”代码</p>
-<p class='hn-meta2'><span class='hn-meta2-created'>Created: Jun 10, 2026 / 07:51 PT</span></p>
-<div class='hn-tags'><a class='hn-stat hn-stat-score' href='https://news.ycombinator.com/item?id=48477208' target='_blank' rel='noopener noreferrer'>&#9650; 94</a> <a class='hn-stat hn-stat-comments' href='https://news.ycombinator.com/item?id=48477208' target='_blank' rel='noopener noreferrer'>&#128172; 32</a> <span class='hn-tag hn-tag--red' data-tag='Security'>Security</span> <span class='hn-tag hn-tag--green' data-tag='Open Source'>Open Source</span></div>
-</div>
-<div class='hn-digest-details' id='card-details-48477208'>
-<p class='hn-text-en hn-digest-summary'>A discussion about injecting 'sanctioned' code into the Linux kernel, raising questions about governance, community norms, and security.</p>
-<p class='hn-text-zh hn-digest-summary'>关于在 Linux 内核中注入“被批准”的代码的讨论，提出治理、社区规范与安全性方面的问题。</p>
-</div>
-</div>
-</div>
-<div class='hn-card hn-card-compact hn-no-collapse' id='story-48421858' data-tags='Programming,Open Source,Hardware' data-hn-time='1780725748' data-hn-score='829' data-hot-score='0.1'>
-<div class='hn-body'>
-<div class='hn-digest-summary-header' role='button' tabindex='0' aria-expanded='true' aria-controls='card-details-48421858' aria-label='Hide summary and image'>
-<p class='hn-title'>(72) <a href='https://opencv.org/opencv-5/' target='_blank' rel='noopener noreferrer'>OpenCV 5 Is Here: The Biggest Leap in Years for Computer Vision</a></p>
-<p class='hn-meta'>OpenCV 5 来临：多年来计算机视觉的最大跃迁</p>
-<p class='hn-meta2'><span class='hn-meta2-created'>Created: Jun 05, 2026 / 23:02 PT</span></p>
-<div class='hn-tags'><a class='hn-stat hn-stat-score' href='https://news.ycombinator.com/item?id=48421858' target='_blank' rel='noopener noreferrer'>&#9650; 829</a> <a class='hn-stat hn-stat-comments' href='https://news.ycombinator.com/item?id=48421858' target='_blank' rel='noopener noreferrer'>&#128172; 147</a> <span class='hn-tag hn-tag--indigo' data-tag='Programming'>Programming</span> <span class='hn-tag hn-tag--green' data-tag='Open Source'>Open Source</span> <span class='hn-tag hn-tag--slate' data-tag='Hardware'>Hardware</span></div>
-</div>
-<div class='hn-digest-details' id='card-details-48421858'>
-<p class='hn-text-en hn-digest-summary'>OpenCV 5 arrives with a major leap for computer vision, including API overhauls, performance gains, and expanded hardware and back-end support. It signals a more streamlined path to building, deploying, and optimizing CV apps.</p>
-<p class='hn-text-zh hn-digest-summary'>OpenCV 5 发布带来计算机视觉领域的重大跃迁，包含 API 大改、性能提升以及对新硬件和后端的扩展支持。此举为构建、部署与优化计算机视觉应用提供更简便的路径。</p>
-<img class='hn-img hn-digest-img' src='https://opencv.org/wp-content/uploads/2026/06/opencv-5.png' data-full='https://opencv.org/wp-content/uploads/2026/06/opencv-5.png' alt='preview image' loading='lazy' decoding='async'/>
-</div>
-</div>
-</div>
-<div class='hn-card hn-card-compact hn-no-collapse' id='story-48442880' data-tags='Career' data-hn-time='1780909031' data-hn-score='378' data-hot-score='0.1'>
-<div class='hn-body'>
-<div class='hn-digest-summary-header' role='button' tabindex='0' aria-expanded='true' aria-controls='card-details-48442880' aria-label='Hide summary and image'>
-<p class='hn-title'>(73) <a href='https://www.seangoedecke.com/doing-nothing-at-work/' target='_blank' rel='noopener noreferrer'>Doing nothing at work</a></p>
-<p class='hn-meta'>在工作中什么都不做</p>
-<p class='hn-meta2'><span class='hn-meta2-created'>Created: Jun 08, 2026 / 01:57 PT</span></p>
-<div class='hn-tags'><a class='hn-stat hn-stat-score' href='https://news.ycombinator.com/item?id=48442880' target='_blank' rel='noopener noreferrer'>&#9650; 378</a> <a class='hn-stat hn-stat-comments' href='https://news.ycombinator.com/item?id=48442880' target='_blank' rel='noopener noreferrer'>&#128172; 132</a> <span class='hn-tag hn-tag--sky' data-tag='Career'>Career</span></div>
-</div>
-<div class='hn-digest-details' id='card-details-48442880'>
-<p class='hn-text-en hn-digest-summary'>Explores the value and risks of deliberate idleness at work, including how it impacts creativity, focus, and productivity.</p>
-<p class='hn-text-zh hn-digest-summary'>探讨在工作中有意“什么都不做”的价值与风险，以及对创造力、专注力和生产力的影响。</p>
-<img class='hn-img hn-digest-img' src='https://www.seangoedecke.com/og-image.jpg' data-full='https://www.seangoedecke.com/og-image.jpg' alt='preview image' loading='lazy' decoding='async'/>
-</div>
-</div>
-</div>
-<div class='hn-card hn-card-compact hn-no-collapse' id='story-48456808' data-tags='Politics' data-hn-time='1780982499' data-hn-score='232' data-hot-score='0.1'>
-<div class='hn-body'>
-<div class='hn-digest-summary-header' role='button' tabindex='0' aria-expanded='true' aria-controls='card-details-48456808' aria-label='Hide summary and image'>
-<p class='hn-title'>(74) <a href='https://mceglowski.substack.com/p/laffaire-siloxane' target='_blank' rel='noopener noreferrer'>L'Affaire Siloxane</a></p>
-<p class='hn-meta'>Siloxane 事件</p>
-<p class='hn-meta2'><span class='hn-meta2-created'>Created: Jun 08, 2026 / 22:21 PT</span></p>
-<div class='hn-tags'><a class='hn-stat hn-stat-score' href='https://news.ycombinator.com/item?id=48456808' target='_blank' rel='noopener noreferrer'>&#9650; 232</a> <a class='hn-stat hn-stat-comments' href='https://news.ycombinator.com/item?id=48456808' target='_blank' rel='noopener noreferrer'>&#128172; 40</a> <span class='hn-tag hn-tag--orange' data-tag='Politics'>Politics</span></div>
-</div>
-<div class='hn-digest-details' id='card-details-48456808'>
-<p class='hn-text-en hn-digest-summary'>This piece offers a concise examination of the Siloxane affair, highlighting its implications for tech policy, ethics, and governance.</p>
-<p class='hn-text-zh hn-digest-summary'>关于 Siloxane 事件的简要分析，聚焦其对科技治理、伦理与政策的影响。</p>
-</div>
-</div>
-</div>
-<div class='hn-card hn-card-compact hn-no-collapse' id='story-48452001' data-tags='Hardware,Programming' data-hn-time='1780952521' data-hn-score='260' data-hot-score='0.09'>
-<div class='hn-body'>
-<div class='hn-digest-summary-header' role='button' tabindex='0' aria-expanded='true' aria-controls='card-details-48452001' aria-label='Hide summary and image'>
-<p class='hn-title'>(75) <a href='https://www.tomshardware.com/video-games/handheld-gaming/developer-gets-half-life-running-at-30-fps-on-a-2007-nokia-n95' target='_blank' rel='noopener noreferrer'>Developer gets Half-Life running at 30 FPS on a Nokia N95</a></p>
-<p class='hn-meta'>开发者在诺基亚 N95 上让 Half-Life 以 30 FPS 运行</p>
-<p class='hn-meta2'><span class='hn-meta2-created'>Created: Jun 08, 2026 / 14:02 PT</span></p>
-<div class='hn-tags'><a class='hn-stat hn-stat-score' href='https://news.ycombinator.com/item?id=48452001' target='_blank' rel='noopener noreferrer'>&#9650; 260</a> <a class='hn-stat hn-stat-comments' href='https://news.ycombinator.com/item?id=48452001' target='_blank' rel='noopener noreferrer'>&#128172; 79</a> <span class='hn-tag hn-tag--slate' data-tag='Hardware'>Hardware</span> <span class='hn-tag hn-tag--indigo' data-tag='Programming'>Programming</span></div>
-</div>
-<div class='hn-digest-details' id='card-details-48452001'>
-<p class='hn-text-en hn-digest-summary'>A developer makes Half-Life run at 30 FPS on a Nokia N95, a vivid demonstration of retro hardware porting and optimization. The feat highlights how constraints can inspire clever engineering.</p>
-<p class='hn-text-zh hn-digest-summary'>开发者让《半条命》在诺基亚 N95 上以约 30 FPS 运行，生动展示了对老设备的端口与优化。此成就体现了约束如何激发巧妙的工程实现。</p>
-<img class='hn-img hn-digest-img' src='https://cdn.mos.cms.futurecdn.net/5GpHGZRJr9ojBLYomT6JQQ-1920-80.png' data-full='https://cdn.mos.cms.futurecdn.net/5GpHGZRJr9ojBLYomT6JQQ-1920-80.png' alt='preview image' loading='lazy' decoding='async'/>
-</div>
-</div>
-</div>
-<div class='hn-card hn-card-compact hn-no-collapse' id='story-48475898' data-tags='Science' data-hn-time='1781097623' data-hn-score='70' data-hot-score='0.08'>
-<div class='hn-body'>
-<div class='hn-digest-summary-header' role='button' tabindex='0' aria-expanded='true' aria-controls='card-details-48475898' aria-label='Hide summary and image'>
-<p class='hn-title'>(76) <a href='https://www.marginallycompelling.com/p/oh-good-screwworms-are-back' target='_blank' rel='noopener noreferrer'>Oh good, screwworms are back (2025)</a></p>
-<p class='hn-meta'>哦，好消息，蠕螬虫又回来了（2025）</p>
-<p class='hn-meta2'><span class='hn-meta2-created'>Created: Jun 10, 2026 / 06:20 PT</span></p>
-<div class='hn-tags'><a class='hn-stat hn-stat-score' href='https://news.ycombinator.com/item?id=48475898' target='_blank' rel='noopener noreferrer'>&#9650; 70</a> <a class='hn-stat hn-stat-comments' href='https://news.ycombinator.com/item?id=48475898' target='_blank' rel='noopener noreferrer'>&#128172; 57</a> <span class='hn-tag hn-tag--teal' data-tag='Science'>Science</span></div>
-</div>
-<div class='hn-digest-details' id='card-details-48475898'>
-<p class='hn-text-en hn-digest-summary'>Screwworm outbreaks reappear in 2025, highlighting ongoing pest control and biosecurity challenges.</p>
-<p class='hn-text-zh hn-digest-summary'>2025 年蠕螬虫再次出现，凸显持续的病虫害防控与生物安全挑战。</p>
-<img class='hn-img hn-digest-img' src='https://substackcdn.com/image/fetch/$s_!uTvf!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5d749cfa-7972-49cc-af29-82b955a61413_673x446.png' data-full='https://substackcdn.com/image/fetch/$s_!uTvf!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5d749cfa-7972-49cc-af29-82b955a61413_673x446.png' alt='preview image' loading='lazy' decoding='async'/>
-</div>
-</div>
-</div>
-<div class='hn-card hn-card-compact hn-no-collapse' id='story-48447598' data-tags='Education' data-hn-time='1780936687' data-hn-score='208' data-hot-score='0.07'>
-<div class='hn-body'>
-<div class='hn-digest-summary-header' role='button' tabindex='0' aria-expanded='true' aria-controls='card-details-48447598' aria-label='Hide summary and image'>
-<p class='hn-title'>(77) <a href='https://tonedear.com/' target='_blank' rel='noopener noreferrer'>Ear Training Practice</a></p>
-<p class='hn-meta'>耳朵训练练习</p>
-<p class='hn-meta2'><span class='hn-meta2-created'>Created: Jun 08, 2026 / 09:38 PT</span></p>
-<div class='hn-tags'><a class='hn-stat hn-stat-score' href='https://news.ycombinator.com/item?id=48447598' target='_blank' rel='noopener noreferrer'>&#9650; 208</a> <a class='hn-stat hn-stat-comments' href='https://news.ycombinator.com/item?id=48447598' target='_blank' rel='noopener noreferrer'>&#128172; 92</a> <span class='hn-tag hn-tag--sky' data-tag='Education'>Education</span></div>
-</div>
-<div class='hn-digest-details' id='card-details-48447598'>
-<p class='hn-text-en hn-digest-summary'>Tone Dear curates structured ear-training drills to improve pitch recognition, interval sense, and rhythm. The exercises help musicians build a reliable internal reference and speed up practice, sight-singing, and improvisation. A practical resource for students and hobbyists alike.</p>
-<p class='hn-text-zh hn-digest-summary'>Tone Dear 收集了结构化的耳朵训练练习，提升音高辨识、音程感知和节奏感。练习有助于建立稳定的内部音高参考，提升视唱与即兴表现的速度。对学生与业余爱好者都是实用的工具。</p>
-</div>
-</div>
-</div>
-<div class='hn-card hn-card-compact hn-no-collapse' id='story-48470578' data-tags='Gaming,Hardware' data-hn-time='1781058305' data-hn-score='87' data-hot-score='0.07'>
-<div class='hn-body'>
-<div class='hn-digest-summary-header' role='button' tabindex='0' aria-expanded='true' aria-controls='card-details-48470578' aria-label='Hide summary and image'>
-<p class='hn-title'>(78) <a href='https://www.inverse.com/input/gaming/the-dirty-secret-that-makes-speedrunning-on-spongebob-a-lot-faster' target='_blank' rel='noopener noreferrer'>Smudging the game disc to make speedrunning 'SpongeBob' faster</a></p>
-<p class='hn-meta'>通过抹污游戏光盘让《海绵宝宝》速通更快</p>
-<p class='hn-meta2'><span class='hn-meta2-created'>Created: Jun 09, 2026 / 19:25 PT</span></p>
-<div class='hn-tags'><a class='hn-stat hn-stat-score' href='https://news.ycombinator.com/item?id=48470578' target='_blank' rel='noopener noreferrer'>&#9650; 87</a> <a class='hn-stat hn-stat-comments' href='https://news.ycombinator.com/item?id=48470578' target='_blank' rel='noopener noreferrer'>&#128172; 56</a> <span class='hn-tag hn-tag--purple' data-tag='Gaming'>Gaming</span> <span class='hn-tag hn-tag--slate' data-tag='Hardware'>Hardware</span></div>
-</div>
-<div class='hn-digest-details' id='card-details-48470578'>
-<p class='hn-text-en hn-digest-summary'>The piece documents a hardware-based trick to speedrun SpongeBob by smudging a game disc; it discusses feasibility, reproducibility, and ethics of hardware exploits in speedrunning.</p>
-<p class='hn-text-zh hn-digest-summary'>文章记录通过抹污光盘以提升《海绵宝宝》速通速度的做法，讨论其可行性、可重复性以及在速通领域的道德边界。</p>
-<img class='hn-img hn-digest-img' src='https://imgix.bustle.com/uploads/getty/2021/3/11/e197b7d0-36bf-4e29-b491-562a4c1aad45-getty-1149878457.jpg?w=1200&h=630&fit=crop&crop=faces&fm=jpg' data-full='https://imgix.bustle.com/uploads/getty/2021/3/11/e197b7d0-36bf-4e29-b491-562a4c1aad45-getty-1149878457.jpg?w=1200&h=630&fit=crop&crop=faces&fm=jpg' alt='preview image' loading='lazy' decoding='async'/>
-</div>
-</div>
-</div>
-<div class='hn-card hn-card-compact hn-no-collapse' id='story-48443644' data-tags='AI,Open Source' data-hn-time='1780915484' data-hn-score='196' data-hot-score='0.06'>
-<div class='hn-body'>
-<div class='hn-digest-summary-header' role='button' tabindex='0' aria-expanded='true' aria-controls='card-details-48443644' aria-label='Hide summary and image'>
-<p class='hn-title'>(79) <a href='https://paperswithcode.co/' target='_blank' rel='noopener noreferrer'>Reviving Papers with Code</a></p>
-<p class='hn-meta'>Papers with Code 重新上线</p>
-<p class='hn-meta2'><span class='hn-meta2-created'>Created: Jun 08, 2026 / 03:44 PT</span></p>
-<div class='hn-tags'><a class='hn-stat hn-stat-score' href='https://news.ycombinator.com/item?id=48443644' target='_blank' rel='noopener noreferrer'>&#9650; 196</a> <a class='hn-stat hn-stat-comments' href='https://news.ycombinator.com/item?id=48443644' target='_blank' rel='noopener noreferrer'>&#128172; 44</a> <span class='hn-tag hn-tag--blue' data-tag='AI'>AI</span> <span class='hn-tag hn-tag--green' data-tag='Open Source'>Open Source</span></div>
-</div>
-<div class='hn-digest-details' id='card-details-48443644'>
-<p class='hn-text-en hn-digest-summary'>Papers with Code is being revived, reestablishing a link between research papers and open-source implementations. The revival could help researchers verify results and reuse code more easily, reinforcing reproducibility in AI and ML.</p>
-<p class='hn-text-zh hn-digest-summary'>Papers with Code 正在重新上线，重新建立论文与开源实现之间的联系。这一举措将帮助研究者更易验证结果、复用代码，提升 AI/ML 研究的可复现实验性。</p>
-<img class='hn-img hn-digest-img' src='https://paperswithcode.co/og-image.png?v=2' data-full='https://paperswithcode.co/og-image.png?v=2' alt='preview image' loading='lazy' decoding='async'/>
-</div>
-</div>
-</div>
-<div class='hn-card hn-card-compact hn-no-collapse' id='story-48459678' data-tags='Design,Web' data-hn-time='1781004620' data-hn-score='123' data-hot-score='0.06'>
-<div class='hn-body'>
-<div class='hn-digest-summary-header' role='button' tabindex='0' aria-expanded='true' aria-controls='card-details-48459678' aria-label='Hide summary and image'>
-<p class='hn-title'>(80) <a href='https://matklad.github.io/2026/06/04/css-unavoidable-bad-parts.html' target='_blank' rel='noopener noreferrer'>CSS: Unavoidable Bad Parts</a></p>
-<p class='hn-meta'>CSS 的不可避免的坏部分</p>
-<p class='hn-meta2'><span class='hn-meta2-created'>Created: Jun 09, 2026 / 04:30 PT</span></p>
-<div class='hn-tags'><a class='hn-stat hn-stat-score' href='https://news.ycombinator.com/item?id=48459678' target='_blank' rel='noopener noreferrer'>&#9650; 123</a> <a class='hn-stat hn-stat-comments' href='https://news.ycombinator.com/item?id=48459678' target='_blank' rel='noopener noreferrer'>&#128172; 78</a> <span class='hn-tag hn-tag--pink' data-tag='Design'>Design</span> <span class='hn-tag hn-tag--cyan' data-tag='Web'>Web</span></div>
-</div>
-<div class='hn-digest-details' id='card-details-48459678'>
-<p class='hn-text-en hn-digest-summary'>CSS has endemic 'bad parts' that designers must learn to work around, from selector specificity to layout quirks. The post argues these design flaws are not mistakes but systemic constraints that require clever patterns and mental models.</p>
-<p class='hn-text-zh hn-digest-summary'>CSS 存在天生的‘坏部分’，比如选择器的特异性和布局怪癖，往往需要设计者去绕行。文中认为这些缺陷不是错误，而是系统性约束，需要通过巧妙的模式与思维模型来应对。</p>
-</div>
-</div>
-</div>
-<div class='hn-card hn-card-compact hn-no-collapse' id='story-48461635' data-tags='AI' data-hn-time='1781015374' data-hn-score='117' data-hot-score='0.06'>
-<div class='hn-body'>
-<div class='hn-digest-summary-header' role='button' tabindex='0' aria-expanded='true' aria-controls='card-details-48461635' aria-label='Hide summary and image'>
-<p class='hn-title'>(81) <a href='https://medium.com/@rogi23696/build-a-basic-ai-agent-from-scratch-long-task-planning-14e803f9bd6d' target='_blank' rel='noopener noreferrer'>Build a Basic AI Agent from Scratch: Long Task Planning</a></p>
-<p class='hn-meta'>从零开始构建一个基本的 AI 代理：长任务规划</p>
-<p class='hn-meta2'><span class='hn-meta2-created'>Created: Jun 09, 2026 / 07:29 PT</span></p>
-<div class='hn-tags'><a class='hn-stat hn-stat-score' href='https://news.ycombinator.com/item?id=48461635' target='_blank' rel='noopener noreferrer'>&#9650; 117</a> <a class='hn-stat hn-stat-comments' href='https://news.ycombinator.com/item?id=48461635' target='_blank' rel='noopener noreferrer'>&#128172; 46</a> <span class='hn-tag hn-tag--blue' data-tag='AI'>AI</span></div>
-</div>
-<div class='hn-digest-details' id='card-details-48461635'>
-<p class='hn-text-en hn-digest-summary'>An approachable, hands-on guide to building a simple AI agent from scratch, with a focus on long-horizon task planning and goal decomposition. It presents practical patterns for structuring planners, managing state, and handling multi-step tasks.</p>
-<p class='hn-text-zh hn-digest-summary'>一本易于上手的实操指南，讲解如何从零开始构建一个简单的 AI 代理，聚焦于长时任务规划与目标分解。文中给出在规划器结构、状态管理以及多步任务处理方面的实用模式。</p>
-<img class='hn-img hn-digest-img' src='https://miro.medium.com/v2/da:true/bc1f8416df0cad099e43cda2872716e5864f18a73bda2a7547ea082aca9b5632' data-full='https://miro.medium.com/v2/da:true/bc1f8416df0cad099e43cda2872716e5864f18a73bda2a7547ea082aca9b5632' alt='preview image' loading='lazy' decoding='async'/>
-</div>
-</div>
-</div>
-<div class='hn-card hn-card-compact hn-no-collapse' id='story-48464484' data-tags='Science' data-hn-time='1781026631' data-hn-score='109' data-hot-score='0.06'>
-<div class='hn-body'>
-<div class='hn-digest-summary-header' role='button' tabindex='0' aria-expanded='true' aria-controls='card-details-48464484' aria-label='Hide summary and image'>
-<p class='hn-title'>(82) <a href='https://thetyee.ca/Culture/2026/06/05/Whos-the-Smartest-Corvid/' target='_blank' rel='noopener noreferrer'>Who's the smartest corvid?</a></p>
-<p class='hn-meta'>谁是最聪明的乌鸦科动物？</p>
-<p class='hn-meta2'><span class='hn-meta2-created'>Created: Jun 09, 2026 / 10:37 PT</span></p>
-<div class='hn-tags'><a class='hn-stat hn-stat-score' href='https://news.ycombinator.com/item?id=48464484' target='_blank' rel='noopener noreferrer'>&#9650; 109</a> <a class='hn-stat hn-stat-comments' href='https://news.ycombinator.com/item?id=48464484' target='_blank' rel='noopener noreferrer'>&#128172; 101</a> <span class='hn-tag hn-tag--teal' data-tag='Science'>Science</span></div>
-</div>
-<div class='hn-digest-details' id='card-details-48464484'>
-<p class='hn-text-en hn-digest-summary'>The piece surveys corvid intelligence, arguing certain crow species exhibit impressive problem-solving and tool-use abilities, challenging common assumptions about animal cognition.</p>
-<p class='hn-text-zh hn-digest-summary'>文章梳理乌鸦科动物的智力，指出某些乌鸦具有出色的问题解决与工具使用能力，挑战对动物认知的常见看法。</p>
-</div>
-</div>
-</div>
-<div class='hn-card hn-card-compact hn-no-collapse' id='story-48442932' data-tags='Business,DevOps' data-hn-time='1780909529' data-hn-score='174' data-hot-score='0.05'>
-<div class='hn-body'>
-<div class='hn-digest-summary-header' role='button' tabindex='0' aria-expanded='true' aria-controls='card-details-48442932' aria-label='Hide summary and image'>
-<p class='hn-title'>(83) <a href='https://sbbresale.ch/' target='_blank' rel='noopener noreferrer'>Buy a train, bridge or tracks from the Swiss Railway</a></p>
-<p class='hn-meta'>从瑞士铁路买火车、桥梁或轨道</p>
-<p class='hn-meta2'><span class='hn-meta2-created'>Created: Jun 08, 2026 / 02:05 PT</span></p>
-<div class='hn-tags'><a class='hn-stat hn-stat-score' href='https://news.ycombinator.com/item?id=48442932' target='_blank' rel='noopener noreferrer'>&#9650; 174</a> <a class='hn-stat hn-stat-comments' href='https://news.ycombinator.com/item?id=48442932' target='_blank' rel='noopener noreferrer'>&#128172; 103</a> <span class='hn-tag hn-tag--amber' data-tag='Business'>Business</span> <span class='hn-tag hn-tag--indigo' data-tag='DevOps'>DevOps</span></div>
-</div>
-<div class='hn-digest-details' id='card-details-48442932'>
-<p class='hn-text-en hn-digest-summary'>SBB resale program lets buyers purchase former trains, bridges, or tracks from Swiss Railways; unusual heritage or infrastructure projects may emerge.</p>
-<p class='hn-text-zh hn-digest-summary'>瑞士铁路推出资产再销售计划，出售包括列车、桥梁与轨道等历史资产，面向个人或机构买家，适合开展独特的硬件或基础设施项目，但需注意合规与安全。</p>
-</div>
-</div>
-</div>
-<div class='hn-card hn-card-compact hn-no-collapse' id='story-48455145' data-tags='Entertainment' data-hn-time='1780969538' data-hn-score='124' data-hot-score='0.05'>
-<div class='hn-body'>
-<div class='hn-digest-summary-header' role='button' tabindex='0' aria-expanded='true' aria-controls='card-details-48455145' aria-label='Hide summary and image'>
-<p class='hn-title'>(84) <a href='https://www.rifters.com/real/STARFISH.htm#prelude' target='_blank' rel='noopener noreferrer'>Starfish by Peter Watts (1999)</a></p>
-<p class='hn-meta'>彼得·沃茨的《海星》（1999）</p>
-<p class='hn-meta2'><span class='hn-meta2-created'>Created: Jun 08, 2026 / 18:45 PT</span></p>
-<div class='hn-tags'><a class='hn-stat hn-stat-score' href='https://news.ycombinator.com/item?id=48455145' target='_blank' rel='noopener noreferrer'>&#9650; 124</a> <a class='hn-stat hn-stat-comments' href='https://news.ycombinator.com/item?id=48455145' target='_blank' rel='noopener noreferrer'>&#128172; 54</a> <span class='hn-tag hn-tag--purple' data-tag='Entertainment'>Entertainment</span></div>
-</div>
-<div class='hn-digest-details' id='card-details-48455145'>
-<p class='hn-text-en hn-digest-summary'>Peter Watts's Starfish (1999) offers a hard-SF exploration of biotech, consciousness, and post-human ethics. The story probes how enhancement tech and cognition intersect under extreme conditions, prompting reflection on future tech and humanity.</p>
-<p class='hn-text-zh hn-digest-summary'>彼得·沃茨的《海星》（1999）以硬科幻笔触探讨生物技术、意识和后人类伦理；在极端情境下，描绘了增强技术与认知的交汇，引发对未来科技与人性的思考。</p>
-<img class='hn-img hn-digest-img' src='https://www.rifters.com/real/blackstrip.gif' data-full='https://www.rifters.com/real/blackstrip.gif' alt='preview image' loading='lazy' decoding='async'/>
-</div>
-</div>
-</div>
-<div class='hn-card hn-card-compact hn-no-collapse' id='story-48458895' data-tags='Programming' data-hn-time='1780998650' data-hn-score='112' data-hot-score='0.05'>
-<div class='hn-body'>
-<div class='hn-digest-summary-header' role='button' tabindex='0' aria-expanded='true' aria-controls='card-details-48458895' aria-label='Hide summary and image'>
-<p class='hn-title'>(85) <a href='https://farnoy.dev/posts/linux-latency' target='_blank' rel='noopener noreferrer'>Linux latency measurements and compositor tuning</a></p>
-<p class='hn-meta'>Linux 延迟测量与合成器调优</p>
-<p class='hn-meta2'><span class='hn-meta2-created'>Created: Jun 09, 2026 / 02:50 PT</span></p>
-<div class='hn-tags'><a class='hn-stat hn-stat-score' href='https://news.ycombinator.com/item?id=48458895' target='_blank' rel='noopener noreferrer'>&#9650; 112</a> <a class='hn-stat hn-stat-comments' href='https://news.ycombinator.com/item?id=48458895' target='_blank' rel='noopener noreferrer'>&#128172; 34</a> <span class='hn-tag hn-tag--indigo' data-tag='Programming'>Programming</span></div>
-</div>
-<div class='hn-digest-details' id='card-details-48458895'>
-<p class='hn-text-en hn-digest-summary'>Practical guidance for measuring Linux latency and tuning the Wayland/X compositor to reduce input lag. It covers profiling render paths, frame timing, and adjustments to vsync, buffering, and scheduling to tighten the loop.</p>
-<p class='hn-text-zh hn-digest-summary'>提供在 Linux 上测量延迟以及针对 Wayland/X 合成器的调优方法，以降低输入延迟。文章涵盖渲染路径分析、帧时序、vsync、缓冲与调度等要点，帮助提升交互流畅度。</p>
-<img class='hn-img hn-digest-img' src='https://farnoy.dev/posts/linux-latency/index.png' data-full='https://farnoy.dev/posts/linux-latency/index.png' alt='preview image' loading='lazy' decoding='async'/>
-</div>
-</div>
-</div>
-<div class='hn-card hn-card-compact hn-no-collapse' id='story-48462928' data-tags='Show HN,Security,Open Source,AI' data-hn-time='1781021210' data-hn-score='92' data-hot-score='0.05'>
-<div class='hn-body'>
-<div class='hn-digest-summary-header' role='button' tabindex='0' aria-expanded='true' aria-controls='card-details-48462928' aria-label='Hide summary and image'>
-<p class='hn-title'>(86) <a href='https://github.com/denoland/clawpatrol' target='_blank' rel='noopener noreferrer'>Show HN: Claw Patrol, a security firewall for agents</a></p>
-<p class='hn-meta'>Show HN：Claw Patrol——代理的安全防火墙</p>
-<p class='hn-meta2'><span class='hn-meta2-created'>Created: Jun 09, 2026 / 09:06 PT</span></p>
-<div class='hn-tags'><a class='hn-stat hn-stat-score' href='https://news.ycombinator.com/item?id=48462928' target='_blank' rel='noopener noreferrer'>&#9650; 92</a> <a class='hn-stat hn-stat-comments' href='https://news.ycombinator.com/item?id=48462928' target='_blank' rel='noopener noreferrer'>&#128172; 26</a> <span class='hn-tag hn-tag--green' data-tag='Show HN'>Show HN</span> <span class='hn-tag hn-tag--red' data-tag='Security'>Security</span> <span class='hn-tag hn-tag--green' data-tag='Open Source'>Open Source</span> <span class='hn-tag hn-tag--blue' data-tag='AI'>AI</span></div>
-</div>
-<div class='hn-digest-details' id='card-details-48462928'>
-<p class='hn-text-en hn-digest-summary'>Claw Patrol provides a security firewall for agents, enforcing policies and containment in AI agent workflows. It offers practical guardrail enforcement for autonomous systems.</p>
-<p class='hn-text-zh hn-digest-summary'>Claw Patrol 提供面向代理的安全防火墙，在 AI 代理工作流中执行策略与隔离，展示对自主系统的实际边界管控能力。</p>
-<img class='hn-img hn-digest-img' src='https://opengraph.githubassets.com/953af9b401f9cc24582ba73b9c7e3207401269af120e02c8a0799af11900fe98/denoland/clawpatrol' data-full='https://opengraph.githubassets.com/953af9b401f9cc24582ba73b9c7e3207401269af120e02c8a0799af11900fe98/denoland/clawpatrol' alt='preview image' loading='lazy' decoding='async'/>
-</div>
-</div>
-</div>
-<div class='hn-card hn-card-compact hn-no-collapse' id='story-48466488' data-tags='Culture' data-hn-time='1781033700' data-hn-score='77' data-hot-score='0.05'>
-<div class='hn-body'>
-<div class='hn-digest-summary-header' role='button' tabindex='0' aria-expanded='true' aria-controls='card-details-48466488' aria-label='Hide summary and image'>
-<p class='hn-title'>(87) <a href='https://news.ycombinator.com/item?id=48466488' target='_blank' rel='noopener noreferrer'>Ask HN: Favorite text heavy blogs that are a joy to read?</a></p>
-<p class='hn-meta'>Ask HN：你最喜欢的文字密集型博客有哪些？</p>
-<p class='hn-meta2'><span class='hn-meta2-created'>Created: Jun 09, 2026 / 12:35 PT</span></p>
-<div class='hn-tags'><a class='hn-stat hn-stat-score' href='https://news.ycombinator.com/item?id=48466488' target='_blank' rel='noopener noreferrer'>&#9650; 77</a> <a class='hn-stat hn-stat-comments' href='https://news.ycombinator.com/item?id=48466488' target='_blank' rel='noopener noreferrer'>&#128172; 21</a> <span class='hn-tag hn-tag--rose' data-tag='Culture'>Culture</span></div>
-</div>
-<div class='hn-digest-details' id='card-details-48466488'>
-<p class='hn-text-en hn-digest-summary'>Readers share favorites of text-heavy blogs that are a joy to read, offering long-form insights and deep dives.</p>
-<p class='hn-text-zh hn-digest-summary'>读者分享最喜欢的文字密集型博客，提供长篇深度分析和丰富的洞见。</p>
-<img class='hn-img hn-digest-img' src='https://news.ycombinator.com/y18.svg' data-full='https://news.ycombinator.com/y18.svg' alt='preview image' loading='lazy' decoding='async'/>
-</div>
-</div>
-</div>
-<div class='hn-card hn-card-compact hn-no-collapse' id='story-48470748' data-tags='Design' data-hn-time='1781059700' data-hn-score='67' data-hot-score='0.05'>
-<div class='hn-body'>
-<div class='hn-digest-summary-header' role='button' tabindex='0' aria-expanded='true' aria-controls='card-details-48470748' aria-label='Hide summary and image'>
-<p class='hn-title'>(88) <a href='https://bethmathews.substack.com/p/the-history-behind-the-signs-lighting' target='_blank' rel='noopener noreferrer'>Vacuum-Form Signage</a></p>
-<p class='hn-meta'>真空成型标牌的历史</p>
-<p class='hn-meta2'><span class='hn-meta2-created'>Created: Jun 09, 2026 / 19:48 PT</span></p>
-<div class='hn-tags'><a class='hn-stat hn-stat-score' href='https://news.ycombinator.com/item?id=48470748' target='_blank' rel='noopener noreferrer'>&#9650; 67</a> <a class='hn-stat hn-stat-comments' href='https://news.ycombinator.com/item?id=48470748' target='_blank' rel='noopener noreferrer'>&#128172; 11</a> <span class='hn-tag hn-tag--pink' data-tag='Design'>Design</span></div>
-</div>
-<div class='hn-digest-details' id='card-details-48470748'>
-<p class='hn-text-en hn-digest-summary'>Vacuum-formed signage shaped the aesthetics and production of modern wayfinding and storefront displays. The piece traces its technique, tooling, and economic implications, showing how material choices influence urban signage.</p>
-<p class='hn-text-zh hn-digest-summary'>真空成型标牌塑造了现代导视与橱窗展示的美学与生产方式。文章追踪了其工艺、工具与经济影响，揭示材料选择如何左右城市标牌的形态与成本。</p>
-</div>
-</div>
-</div>
-<div class='hn-card hn-card-compact hn-no-collapse' id='story-48445702' data-tags='Programming' data-hn-time='1780928132' data-hn-score='104' data-hot-score='0.03'>
-<div class='hn-body'>
-<div class='hn-digest-summary-header' role='button' tabindex='0' aria-expanded='true' aria-controls='card-details-48445702' aria-label='Hide summary and image'>
-<p class='hn-title'>(89) <a href='https://aibodh.com/posts/async-rust-chapter-1-hands-on-intro-to-async-rust/' target='_blank' rel='noopener noreferrer'>Who Runs Your Rust Future? Hands-On Intro to Async Rust</a></p>
-<p class='hn-meta'>谁在掌控你的 Rust 未来？Async Rust 入门实战</p>
-<p class='hn-meta2'><span class='hn-meta2-created'>Created: Jun 08, 2026 / 07:15 PT</span></p>
-<div class='hn-tags'><a class='hn-stat hn-stat-score' href='https://news.ycombinator.com/item?id=48445702' target='_blank' rel='noopener noreferrer'>&#9650; 104</a> <a class='hn-stat hn-stat-comments' href='https://news.ycombinator.com/item?id=48445702' target='_blank' rel='noopener noreferrer'>&#128172; 31</a> <span class='hn-tag hn-tag--indigo' data-tag='Programming'>Programming</span></div>
-</div>
-<div class='hn-digest-details' id='card-details-48445702'>
-<p class='hn-text-en hn-digest-summary'>A practical, hands-on guide to async Rust, covering futures, await, and concurrency patterns. It helps developers write scalable, efficient Rust code beyond theory.</p>
-<p class='hn-text-zh hn-digest-summary'>一本面向初学者的 Async Rust 实战指南，讲解 futures、async/await 和并发模式，帮助开发者写出可扩展、性能更优的 Rust 代码。</p>
-<img class='hn-img hn-digest-img' src='https://aibodh.com/assets/img/block-on-oneshot-flow-dark.png' data-full='https://aibodh.com/assets/img/block-on-oneshot-flow-dark.png' alt='preview image' loading='lazy' decoding='async'/>
-</div>
-</div>
-</div>
-<div class='hn-card hn-card-compact hn-no-collapse' id='story-48446532' data-tags='Data' data-hn-time='1780932008' data-hn-score='94' data-hot-score='0.03'>
-<div class='hn-body'>
-<div class='hn-digest-summary-header' role='button' tabindex='0' aria-expanded='true' aria-controls='card-details-48446532' aria-label='Hide summary and image'>
-<p class='hn-title'>(90) <a href='https://www.jasondavies.com/maps/voronoi/capitals/' target='_blank' rel='noopener noreferrer'>World Capitals Voronoi</a></p>
-<p class='hn-meta'>世界首都的 Voronoi 图</p>
-<p class='hn-meta2'><span class='hn-meta2-created'>Created: Jun 08, 2026 / 08:20 PT</span></p>
-<div class='hn-tags'><a class='hn-stat hn-stat-score' href='https://news.ycombinator.com/item?id=48446532' target='_blank' rel='noopener noreferrer'>&#9650; 94</a> <a class='hn-stat hn-stat-comments' href='https://news.ycombinator.com/item?id=48446532' target='_blank' rel='noopener noreferrer'>&#128172; 49</a> <span class='hn-tag hn-tag--violet' data-tag='Data'>Data</span></div>
-</div>
-<div class='hn-digest-details' id='card-details-48446532'>
-<p class='hn-text-en hn-digest-summary'>Voronoi diagrams partition the world into regions around each capital, illustrating geographic proximity without relying on borders. The visualization makes patterns in global capital placement, highlighting cluster regions and spacing between major hubs.</p>
-<p class='hn-text-zh hn-digest-summary'>该作品用 Voronoi 图把世界各首都分区展示出来，每个首都成为一个区域的中心点，边界由最近的首都决定。图像揭示全球首都的分布规律和区域聚集趋势，便于理解地理接近度与影响力。</p>
-<img class='hn-img hn-digest-img' src='https://www.jasondavies.com/maps/voronoi/capitals/full.png' data-full='https://www.jasondavies.com/maps/voronoi/capitals/full.png' alt='preview image' loading='lazy' decoding='async'/>
-</div>
-</div>
-</div>
-<div class='hn-card hn-card-compact hn-no-collapse' id='story-48446673' data-tags='AI' data-hn-time='1780932609' data-hn-score='87' data-hot-score='0.03'>
-<div class='hn-body'>
-<div class='hn-digest-summary-header' role='button' tabindex='0' aria-expanded='true' aria-controls='card-details-48446673' aria-label='Hide summary and image'>
-<p class='hn-title'>(91) <a href='https://www.quantamagazine.org/how-terry-tao-became-an-evangelist-for-ai-in-math-20260608/' target='_blank' rel='noopener noreferrer'>How Terry Tao became an evangelist for AI in math</a></p>
-<p class='hn-meta'>田立 Tao 如何成为 AI 在数学中的倡导者</p>
-<p class='hn-meta2'><span class='hn-meta2-created'>Created: Jun 08, 2026 / 08:30 PT</span></p>
-<div class='hn-tags'><a class='hn-stat hn-stat-score' href='https://news.ycombinator.com/item?id=48446673' target='_blank' rel='noopener noreferrer'>&#9650; 87</a> <a class='hn-stat hn-stat-comments' href='https://news.ycombinator.com/item?id=48446673' target='_blank' rel='noopener noreferrer'>&#128172; 56</a> <span class='hn-tag hn-tag--blue' data-tag='AI'>AI</span></div>
-</div>
-<div class='hn-digest-details' id='card-details-48446673'>
-<p class='hn-text-en hn-digest-summary'>Terence Tao has become an evangelist for applying AI in mathematics, exploring how AI can assist proof search, conjecture generation, and collaboration.</p>
-<p class='hn-text-zh hn-digest-summary'>特里斯·陶教授已成为在数学领域推广 AI 的倡导者，探讨 AI 如何帮助证明搜索、猜想生成与协作。</p>
-<img class='hn-img hn-digest-img' src='https://www.quantamagazine.org/wp-content/uploads/2026/06/Proof-in-the-Code-cr-Samuel-Velasco-Social.jpg' data-full='https://www.quantamagazine.org/wp-content/uploads/2026/06/Proof-in-the-Code-cr-Samuel-Velasco-Social.jpg' alt='preview image' loading='lazy' decoding='async'/>
-</div>
-</div>
-</div>
-<div class='hn-card hn-card-compact hn-no-collapse' id='story-48450024' data-tags='Programming,Gaming' data-hn-time='1780945692' data-hn-score='79' data-hot-score='0.03'>
-<div class='hn-body'>
-<div class='hn-digest-summary-header' role='button' tabindex='0' aria-expanded='true' aria-controls='card-details-48450024' aria-label='Hide summary and image'>
-<p class='hn-title'>(92) <a href='https://nanochess.org/klondike_in_c.html' target='_blank' rel='noopener noreferrer'>Klondike Solitaire game for curses in 5k of C</a></p>
-<p class='hn-meta'>用 curses 实现的 Klondike 纸牌游戏仅 5KB 的 C 代码</p>
-<p class='hn-meta2'><span class='hn-meta2-created'>Created: Jun 08, 2026 / 12:08 PT</span></p>
-<div class='hn-tags'><a class='hn-stat hn-stat-score' href='https://news.ycombinator.com/item?id=48450024' target='_blank' rel='noopener noreferrer'>&#9650; 79</a> <a class='hn-stat hn-stat-comments' href='https://news.ycombinator.com/item?id=48450024' target='_blank' rel='noopener noreferrer'>&#128172; 15</a> <span class='hn-tag hn-tag--indigo' data-tag='Programming'>Programming</span> <span class='hn-tag hn-tag--purple' data-tag='Gaming'>Gaming</span></div>
-</div>
-<div class='hn-digest-details' id='card-details-48450024'>
-<p class='hn-text-en hn-digest-summary'>A Klondike solitaire implementation in a mere 5 kilobytes of C using curses demonstrates extreme code golf craft. The tiny program packs gameplay, input handling, and rendering into a compact, portable retro-style puzzle.</p>
-<p class='hn-text-zh hn-digest-summary'>一个用 curses 实现的 Klondike 纸牌游戏仅用 5KB 的 C 代码，展示了极致代码高尔夫的技艺。这个极小的程序把玩法、输入处理与渲染紧凑地打包在一个可移植的复古风格小型程序里。</p>
-<img class='hn-img hn-digest-img' src='https://nanochess.org/img/klondike_c_2.png' data-full='https://nanochess.org/img/klondike_c_2.png' alt='preview image' loading='lazy' decoding='async'/>
-</div>
-</div>
-</div>
-<div class='hn-card hn-card-compact hn-no-collapse' id='story-48451013' data-tags='Programming,Open Source' data-hn-time='1780948911' data-hn-score='77' data-hot-score='0.03'>
-<div class='hn-body'>
-<div class='hn-digest-summary-header' role='button' tabindex='0' aria-expanded='true' aria-controls='card-details-48451013' aria-label='Hide summary and image'>
-<p class='hn-title'>(93) <a href='https://www.chiply.dev/post-svg-line' target='_blank' rel='noopener noreferrer'>SVG-Line: Better Status Bars for Emacs – Charlie Holland's Blog</a></p>
-<p class='hn-meta'>SVG-Line：为 Emacs 提供更好状态栏</p>
-<p class='hn-meta2'><span class='hn-meta2-created'>Created: Jun 08, 2026 / 13:01 PT</span></p>
-<div class='hn-tags'><a class='hn-stat hn-stat-score' href='https://news.ycombinator.com/item?id=48451013' target='_blank' rel='noopener noreferrer'>&#9650; 77</a> <a class='hn-stat hn-stat-comments' href='https://news.ycombinator.com/item?id=48451013' target='_blank' rel='noopener noreferrer'>&#128172; 5</a> <span class='hn-tag hn-tag--indigo' data-tag='Programming'>Programming</span> <span class='hn-tag hn-tag--green' data-tag='Open Source'>Open Source</span></div>
-</div>
-<div class='hn-digest-details' id='card-details-48451013'>
-<p class='hn-text-en hn-digest-summary'>SVG-Line adds vector-based status bars to Emacs, delivering a crisp, customizable UI win for power users.</p>
-<p class='hn-text-zh hn-digest-summary'>SVG-Line 为 Emacs 增添矢量化状态栏，为高级用户带来更清晰、可定制的界面提升。</p>
-<img class='hn-img hn-digest-img' src='https://www.chiply.dev/images/svg-line-annotated.png' data-full='https://www.chiply.dev/images/svg-line-annotated.png' alt='preview image' loading='lazy' decoding='async'/>
-</div>
-</div>
-</div>
-<div class='hn-card hn-card-compact hn-no-collapse' id='story-48468852' data-tags='Gaming,Design,Hardware' data-hn-time='1781045068' data-hn-score='50' data-hot-score='0.03'>
-<div class='hn-body'>
-<div class='hn-digest-summary-header' role='button' tabindex='0' aria-expanded='true' aria-controls='card-details-48468852' aria-label='Hide summary and image'>
-<p class='hn-title'>(94) <a href='https://www.theguardian.com/culture/2026/jan/05/raiders-of-the-lost-ark-hit-video-game-prince-of-persia' target='_blank' rel='noopener noreferrer'>How we made hit video game Prince of Persia</a></p>
-<p class='hn-meta'>我们是如何做出《Prince of Persia》这款热卖游戏</p>
-<p class='hn-meta2'><span class='hn-meta2-created'>Created: Jun 09, 2026 / 15:44 PT</span></p>
-<div class='hn-tags'><a class='hn-stat hn-stat-score' href='https://news.ycombinator.com/item?id=48468852' target='_blank' rel='noopener noreferrer'>&#9650; 50</a> <a class='hn-stat hn-stat-comments' href='https://news.ycombinator.com/item?id=48468852' target='_blank' rel='noopener noreferrer'>&#128172; 8</a> <span class='hn-tag hn-tag--purple' data-tag='Gaming'>Gaming</span> <span class='hn-tag hn-tag--pink' data-tag='Design'>Design</span> <span class='hn-tag hn-tag--slate' data-tag='Hardware'>Hardware</span></div>
-</div>
-<div class='hn-digest-details' id='card-details-48468852'>
-<p class='hn-text-en hn-digest-summary'>The Guardian piece recounts the development of Prince of Persia, highlighting pioneering animation techniques like rotoscoping and iterative design under hardware constraints. It also touches on the game's enduring influence on action-adventure design and cinematic storytelling in games.</p>
-<p class='hn-text-zh hn-digest-summary'>文章回顾《波斯王子》的开发过程，揭示了如光绘运动捕捉等开创性动画技法，以及在硬件限制下的迭代设计。并探讨这款游戏对动作冒险与游戏叙事风格的长期影响。</p>
-<img class='hn-img hn-digest-img' src='https://i.guim.co.uk/img/media/1a9c6d9a50110f8da1e20121b0b5aaabd88266ad/120_0_3092_2474/master/3092.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e84110ce298a51956080bef453560d4a' data-full='https://i.guim.co.uk/img/media/1a9c6d9a50110f8da1e20121b0b5aaabd88266ad/120_0_3092_2474/master/3092.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e84110ce298a51956080bef453560d4a' alt='preview image' loading='lazy' decoding='async'/>
-</div>
-</div>
-</div>
-<div class='hn-card hn-card-compact hn-no-collapse' id='story-48468495' data-tags='Programming,Gaming' data-hn-time='1781043140' data-hn-score='47' data-hot-score='0.03'>
-<div class='hn-body'>
-<div class='hn-digest-summary-header' role='button' tabindex='0' aria-expanded='true' aria-controls='card-details-48468495' aria-label='Hide summary and image'>
-<p class='hn-title'>(95) <a href='https://blog.adamledoux.net/posts/2026-06-08-programming-a-gba-game-on-an-iphone.html' target='_blank' rel='noopener noreferrer'>Programming a GBA Game on an iPhone</a></p>
-<p class='hn-meta'>在 iPhone 上开发 GBA 游戏</p>
-<p class='hn-meta2'><span class='hn-meta2-created'>Created: Jun 09, 2026 / 15:12 PT</span></p>
-<div class='hn-tags'><a class='hn-stat hn-stat-score' href='https://news.ycombinator.com/item?id=48468495' target='_blank' rel='noopener noreferrer'>&#9650; 47</a> <a class='hn-stat hn-stat-comments' href='https://news.ycombinator.com/item?id=48468495' target='_blank' rel='noopener noreferrer'>&#128172; 6</a> <span class='hn-tag hn-tag--indigo' data-tag='Programming'>Programming</span> <span class='hn-tag hn-tag--purple' data-tag='Gaming'>Gaming</span></div>
-</div>
-<div class='hn-digest-details' id='card-details-48468495'>
-<p class='hn-text-en hn-digest-summary'>The post documents a workflow for building a Game Boy Advance game on an iPhone, including tooling, cross-compilation, and performance considerations. It demonstrates what's possible when mobile devices host retro-game development pipelines.</p>
-<p class='hn-text-zh hn-digest-summary'>文章记录了在 iPhone 上开发 GBA 游戏的工作流，涵盖工具链、跨编译与性能考量。展示了在移动设备上承载复古游戏开发流程的可行性。</p>
-<img class='hn-img hn-digest-img' src='https://blog.adamledoux.net/images/card_sml_sunflower.png' data-full='https://blog.adamledoux.net/images/card_sml_sunflower.png' alt='preview image' loading='lazy' decoding='async'/>
-</div>
-</div>
-</div>
-<div class='hn-card hn-card-compact hn-no-collapse' id='story-48433777' data-tags='Hardware,Open Source' data-hn-time='1780831213' data-hn-score='127' data-hot-score='0.02'>
-<div class='hn-body'>
-<div class='hn-digest-summary-header' role='button' tabindex='0' aria-expanded='true' aria-controls='card-details-48433777' aria-label='Hide summary and image'>
-<p class='hn-title'>(96) <a href='https://blog.nns.ee/2026/02/20/katana-v2x-re/' target='_blank' rel='noopener noreferrer'>Reverse engineering the Creative Katana soundbar to control it from Linux</a></p>
-<p class='hn-meta'>在 Linux 下对 Creative Katana 音响条进行逆向工程以实现控制</p>
-<p class='hn-meta2'><span class='hn-meta2-created'>Created: Jun 07, 2026 / 04:20 PT</span></p>
-<div class='hn-tags'><a class='hn-stat hn-stat-score' href='https://news.ycombinator.com/item?id=48433777' target='_blank' rel='noopener noreferrer'>&#9650; 127</a> <a class='hn-stat hn-stat-comments' href='https://news.ycombinator.com/item?id=48433777' target='_blank' rel='noopener noreferrer'>&#128172; 11</a> <span class='hn-tag hn-tag--slate' data-tag='Hardware'>Hardware</span> <span class='hn-tag hn-tag--green' data-tag='Open Source'>Open Source</span></div>
-</div>
-<div class='hn-digest-details' id='card-details-48433777'>
-<p class='hn-text-en hn-digest-summary'>A hands-on account of reverse-engineering a Creative Katana soundbar to gain Linux control, including protocol discovery and driver considerations. It shows how open hardware and community tooling enable custom control beyond what official apps provide.</p>
-<p class='hn-text-zh hn-digest-summary'>以动手实践的方式对 Creative Katana 音响条进行逆向工程，以在 Linux 上实现控制，包括协议发现与驱动考虑。展示了开放硬件与社区工具如何实现官方应用之外的自定义控制。</p>
-<img class='hn-img hn-digest-img' src='https://blog.nns.ee/img/logo.png' data-full='https://blog.nns.ee/img/logo.png' alt='preview image' loading='lazy' decoding='async'/>
-</div>
-</div>
-</div>
-<div class='hn-card hn-card-compact hn-no-collapse' id='story-48433351' data-tags='Programming' data-hn-time='1780826238' data-hn-score='125' data-hot-score='0.02'>
-<div class='hn-body'>
-<div class='hn-digest-summary-header' role='button' tabindex='0' aria-expanded='true' aria-controls='card-details-48433351' aria-label='Hide summary and image'>
-<p class='hn-title'>(97) <a href='https://antirez.com/news/168' target='_blank' rel='noopener noreferrer'>A new era for software testing</a></p>
-<p class='hn-meta'>软件测试的新时代</p>
-<p class='hn-meta2'><span class='hn-meta2-created'>Created: Jun 07, 2026 / 02:57 PT</span></p>
-<div class='hn-tags'><a class='hn-stat hn-stat-score' href='https://news.ycombinator.com/item?id=48433351' target='_blank' rel='noopener noreferrer'>&#9650; 125</a> <a class='hn-stat hn-stat-comments' href='https://news.ycombinator.com/item?id=48433351' target='_blank' rel='noopener noreferrer'>&#128172; 46</a> <span class='hn-tag hn-tag--indigo' data-tag='Programming'>Programming</span></div>
-</div>
-<div class='hn-digest-details' id='card-details-48433351'>
-<p class='hn-text-en hn-digest-summary'>A new era for software testing emphasizes automated verification, property-based testing, and continuous quality assurance in modern pipelines.</p>
-<p class='hn-text-zh hn-digest-summary'>软件测试进入新时代，强调自动化验证、基于属性的测试以及在现代开发管线中的持续质量确保。</p>
-</div>
-</div>
-</div>
-<div class='hn-card hn-card-compact hn-no-collapse' id='story-48428959' data-tags='Science,Hardware' data-hn-time='1780779631' data-hn-score='106' data-hot-score='0.02'>
-<div class='hn-body'>
-<div class='hn-digest-summary-header' role='button' tabindex='0' aria-expanded='true' aria-controls='card-details-48428959' aria-label='Hide summary and image'>
-<p class='hn-title'>(98) <a href='https://computerhistory.org/stories/explorers-of-the-lost-computers/' target='_blank' rel='noopener noreferrer'>Discovery of Cold War-era rare Eastern Bloc computers in a German hangar</a></p>
-<p class='hn-meta'>在德国机库发现冷战时期稀有的东欧计算机</p>
-<p class='hn-meta2'><span class='hn-meta2-created'>Created: Jun 06, 2026 / 14:00 PT</span></p>
-<div class='hn-tags'><a class='hn-stat hn-stat-score' href='https://news.ycombinator.com/item?id=48428959' target='_blank' rel='noopener noreferrer'>&#9650; 106</a> <a class='hn-stat hn-stat-comments' href='https://news.ycombinator.com/item?id=48428959' target='_blank' rel='noopener noreferrer'>&#128172; 28</a> <span class='hn-tag hn-tag--teal' data-tag='Science'>Science</span> <span class='hn-tag hn-tag--slate' data-tag='Hardware'>Hardware</span></div>
-</div>
-<div class='hn-digest-details' id='card-details-48428959'>
-<p class='hn-text-en hn-digest-summary'>Cold War-era rare Eastern Bloc computers found in a German hangar, shedding light on computing history and hardware preservation.</p>
-<p class='hn-text-zh hn-digest-summary'>在德国一个机库里发现冷战时期罕见的东方集团计算机，为计算历史与硬件保护提供罕见线索。</p>
-<img class='hn-img hn-digest-img' src='https://computerhistory.org/wp-content/uploads/2025/04/FIGURE-1-chm_germany_castrop_rauxel_day_9-082.jpg' data-full='https://computerhistory.org/wp-content/uploads/2025/04/FIGURE-1-chm_germany_castrop_rauxel_day_9-082.jpg' alt='preview image' loading='lazy' decoding='async'/>
-</div>
-</div>
-</div>
-<div class='hn-card hn-card-compact hn-no-collapse' id='story-48456279' data-tags='Programming' data-hn-time='1780978219' data-hn-score='57' data-hot-score='0.02'>
-<div class='hn-body'>
-<div class='hn-digest-summary-header' role='button' tabindex='0' aria-expanded='true' aria-controls='card-details-48456279' aria-label='Hide summary and image'>
-<p class='hn-title'>(99) <a href='https://ferd.ca/queues-don-t-fix-overload.html' target='_blank' rel='noopener noreferrer'>Queues Don't Fix Overload (2014)</a></p>
-<p class='hn-meta'>队列并不能解决超载（2014）</p>
-<p class='hn-meta2'><span class='hn-meta2-created'>Created: Jun 08, 2026 / 21:10 PT</span></p>
-<div class='hn-tags'><a class='hn-stat hn-stat-score' href='https://news.ycombinator.com/item?id=48456279' target='_blank' rel='noopener noreferrer'>&#9650; 57</a> <a class='hn-stat hn-stat-comments' href='https://news.ycombinator.com/item?id=48456279' target='_blank' rel='noopener noreferrer'>&#128172; 31</a> <span class='hn-tag hn-tag--indigo' data-tag='Programming'>Programming</span></div>
-</div>
-<div class='hn-digest-details' id='card-details-48456279'>
-<p class='hn-text-en hn-digest-summary'>Ferd's essay argues queues don't solve overload and that system design must address root causes rather than relying on buffering.</p>
-<p class='hn-text-zh hn-digest-summary'>Ferd 的论文指出队列并不能解决系统超载问题，设计应聚焦根本原因而非单纯缓冲。</p>
-<img class='hn-img hn-digest-img' src='https://ferd.ca/static/img/sink1.png' data-full='https://ferd.ca/static/img/sink1.png' alt='preview image' loading='lazy' decoding='async'/>
-</div>
-</div>
-</div>
-<div class='hn-card hn-card-compact hn-no-collapse' id='story-48434240' data-tags='AI' data-hn-time='1780835924' data-hn-score='57' data-hot-score='0.01'>
-<div class='hn-body'>
-<div class='hn-digest-summary-header' role='button' tabindex='0' aria-expanded='true' aria-controls='card-details-48434240' aria-label='Hide summary and image'>
-<p class='hn-title'>(100) <a href='https://news.ycombinator.com/item?id=48434240' target='_blank' rel='noopener noreferrer'>Ask HN: How are thinking efforts implemented?</a></p>
-<p class='hn-meta'>Ask HN：思考努力是如何实现的？</p>
-<p class='hn-meta2'><span class='hn-meta2-created'>Created: Jun 07, 2026 / 05:38 PT</span></p>
-<div class='hn-tags'><a class='hn-stat hn-stat-score' href='https://news.ycombinator.com/item?id=48434240' target='_blank' rel='noopener noreferrer'>&#9650; 57</a> <a class='hn-stat hn-stat-comments' href='https://news.ycombinator.com/item?id=48434240' target='_blank' rel='noopener noreferrer'>&#128172; 19</a> <span class='hn-tag hn-tag--blue' data-tag='AI'>AI</span></div>
-</div>
-<div class='hn-digest-details' id='card-details-48434240'>
-<p class='hn-text-en hn-digest-summary'>A discussion about how thinking and problem-solving processes are implemented in teams or AI-assisted workflows, inviting practical insights.</p>
-<p class='hn-text-zh hn-digest-summary'>关于在团队或 AI 辅助工作流中，思考与问题解决过程如何实现的讨论，欢迎给出实用经验。</p>
-</div>
-</div>
-</div>
-</div>
+{% raw %}
+<header class="topbar"><div class="wrap tb"><a class='logo' href='/hackernews/'><b>Y</b><span>HN Daily</span></a><nav class="links"><a class='' href='/hackernews/'><span class='en'>Today</span><span class='zh'>今日</span></a><a class='' href='/hackernews/weekly/'><span class='en'>Weekly</span><span class='zh'>周榜</span></a><a class='' href='/hackernews/monthly/'><span class='en'>Monthly</span><span class='zh'>月榜</span></a><a class='' href='/hackernews/#archive'><span class='en'>Archive</span><span class='zh'>往期</span></a><a class='' href='/hackernews/trends/'><svg class='ico' viewBox='0 0 24 24'><path d='M3 3v18h18'/><path d='m7 15 4-4 3 3 6-7'/></svg><span class='en'>Trends</span><span class='zh'>趋势</span></a><a class='' href='/hackernews/favorites/'><svg class='ico' viewBox='0 0 24 24'><path d='m12 2 3.1 6.3 6.9 1-5 4.9 1.2 6.8L12 17.8 5.8 21l1.2-6.8-5-4.9 6.9-1z'/></svg><span class='en'>Favorites</span><span class='zh'>收藏</span><b class='favn' hidden></b></a></nav>
+<a class="searchbox" href="/hackernews/search/"><svg class='ico' viewBox='0 0 24 24'><circle cx='11' cy='11' r='7'/><path d='m21 21-4.3-4.3'/></svg><span class='en'>Search all stories</span><span class='zh'>搜索全部新闻</span><kbd>/</kbd></a>
+<a class="iconbtn msearch" href="/hackernews/search/" title="Search"><svg class='ico' viewBox='0 0 24 24'><circle cx='11' cy='11' r='7'/><path d='m21 21-4.3-4.3'/></svg></a>
+<button class="iconbtn" onclick="setScheme()" title="Light / dark"><svg class='ico' viewBox='0 0 24 24'><circle cx='12' cy='12' r='4'/><path d='M12 2v2M12 20v2M4.9 4.9l1.4 1.4M17.7 17.7l1.4 1.4M2 12h2M20 12h2M4.9 19.1l1.4-1.4M17.7 6.3l1.4-1.4'/></svg></button>
+<div class="seg lang"><button data-set='lang:zh'>中</button><button data-set='lang:en'>EN</button></div></div></header><div class="rhead"><div class="wrap">
+<div class="crumb"><span class="kind"><span class='en'>Daily</span><span class='zh'>每日</span></span><a class='pn' href='/hackernews/2026/06/10/top_stories_06102026' title='Previous'><svg class='ico' viewBox='0 0 24 24'><path d='m15 18-6-6 6-6'/></svg></a><a class='pn' href='/hackernews/2026/06/12/top_stories_06122026' title='Next'><svg class='ico' viewBox='0 0 24 24'><path d='m9 18 6-6-6-6'/></svg></a></div>
+<h1 class="rtitle"><span class='en'>Thursday, June 11, 2026</span><span class='zh'>2026年6月11日 · 星期四</span></h1><div class="rsub"><span class='en'>Daily Best 50 + Trending 61</span><span class='zh'>每日最佳 50 + 热门 61</span> · <span class='en'>Updated Jun 11, 2026 · 11:27 PM PDT</span><span class='zh'>更新于 2026年6月11日 23:27（PDT）</span> · <b id="count">111</b> <span class='en'>stories</span><span class='zh'>条</span></div><div class='rlinks'><a href='/hackernews/weekly/2026-W24'><span class='en'>Week 24 digest →</span><span class='zh'>第 24 周周榜 →</span></a></div>
+</div></div><div class="toolbar"><div class="wrap tbin"><div class="seg"><button data-set='view:title'><span class='en'>Titles</span><span class='zh'>仅标题</span></button><button data-set='view:one'><span class='en'>One line</span><span class='zh'>一句话</span></button><button data-set='view:full'><span class='en'>Full</span><span class='zh'>完整</span></button><button data-set='view:cards'><span class='en'>Cards</span><span class='zh'>卡片</span></button></div>
+<span class="fhint"><span class='en'>Click a tag to filter</span><span class='zh'>点标签筛选</span></span><div class="filters"><a class='tag' href='#' data-t='AI' style='--c:#8b5cf6'>AI<b>30</b></a><a class='tag' href='#' data-t='Open Source' style='--c:#22c55e'>Open Source<b>23</b></a><a class='tag' href='#' data-t='Programming' style='--c:#3b82f6'>Programming<b>23</b></a><a class='tag' href='#' data-t='Security' style='--c:#ef4444'>Security<b>16</b></a><a class='tag' href='#' data-t='Business' style='--c:#0ea5e9'>Business<b>13</b></a><a class='tag' href='#' data-t='Hardware' style='--c:#f59e0b'>Hardware<b>12</b></a><a class='tag' href='#' data-t='Design' style='--c:#f472b6'>Design<b>9</b></a><a class='tag' href='#' data-t='Politics' style='--c:#f97316'>Politics<b>9</b></a><a class='tag' href='#' data-t='Science' style='--c:#10b981'>Science<b>9</b></a><a class='tag' href='#' data-t='Privacy' style='--c:#ec4899'>Privacy<b>8</b></a><a class='tag' href='#' data-t='Culture' style='--c:#d946ef'>Culture<b>7</b></a><a class='tag' href='#' data-t='Web' style='--c:#06b6d4'>Web<b>7</b></a><a class='tag' href='#' data-t='Data' style='--c:#6366f1'>Data<b>7</b></a><a class='tag' href='#' data-t='Show HN' style='--c:#ff6600'>Show HN<b>6</b></a><a class='tag' href='#' data-t='DevOps' style='--c:#14b8a6'>DevOps<b>5</b></a><a class='tag' href='#' data-t='Gaming' style='--c:#a855f7'>Gaming<b>5</b></a><a class='tag' href='#' data-t='Education' style='--c:#60a5fa'>Education<b>4</b></a><a class='tag' href='#' data-t='Energy' style='--c:#eab308'>Energy<b>4</b></a><a class='tag' href='#' data-t='Space' style='--c:#818cf8'>Space<b>3</b></a><a class='tag' href='#' data-t='Startups' style='--c:#fb7185'>Startups<b>2</b></a><a class='tag' href='#' data-t='Career' style='--c:#2dd4bf'>Career<b>2</b></a><a class='tag' href='#' data-t='Finance' style='--c:#84cc16'>Finance<b>2</b></a><a class='tag' href='#' data-t='Health' style='--c:#4ade80'>Health<b>1</b></a><a class='tag' href='#' data-t='Legal' style='--c:#64748b'>Legal<b>1</b></a><a class='tag' href='#' data-t='Entertainment' style='--c:#c084fc'>Entertainment<b>1</b></a></div></div></div>
+<main class="wrap stories"><article class="story top" id="story-48500012" data-id="48500012" data-tags="AI|Security" data-score="1118" data-comments="427" data-hn="https://news.ycombinator.com/item?id=48500012" data-time="1781239373">
+<a class="thumb" href="https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/" target="_blank" rel="noopener"><img class='th' src='https://lantian.pub/apple-touch-icon.png' alt='' loading='lazy' referrerpolicy='no-referrer' data-d='lantian.pub' data-c='#8b5cf6' data-tag='AI'></a><button class="fav" aria-label="favorite">☆</button>
+<div class="sbody"><div class="rk">01</div>
+<h3 class="st"><a href="https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/" target="_blank" rel="noopener"><span class='en'>AI agent bankrupted their operator while trying to scan DN42</span><span class='zh'>AI代理在尝试扫描DN42时让运营商破产</span></a><span class='bestb'>Best</span><span class="dom">lantian.pub</span></h3>
+<p class="sum one"><span class='en'>An AI agent tasked with scanning the DN42 mesh network inadvertently bankrupted its operator, highlighting the financial and operational risks of autonomous agents.</span><span class='zh'>一个负责扫描 DN42 的 AI 代理意外让运营方破产，暴露了自主系统在真实网络环境中的经济与安全风险。</span></p>
+<p class="sum full"><span class='en'>An AI agent tasked with scanning the DN42 mesh network inadvertently bankrupted its operator, highlighting the financial and operational risks of autonomous agents. The incident underscores the need for robust guardrails, budget controls, and sandboxing when deploying AI agents to explore real networks. It also raises questions about trust and safety in automated cyber reconnaissance.</span><span class='zh'>一个负责扫描 DN42 的 AI 代理意外让运营方破产，暴露了自主系统在真实网络环境中的经济与安全风险。事件强调在进行网络探索时需要强健的安全边界、预算约束与沙盒化，以及对自动化探测信任与安全性的深刻思考。</span></p>
+<div class="sfoot"><span class="tags"><span class='tag' data-t='AI' style='--c:#8b5cf6'>AI</span><span class='tag' data-t='Security' style='--c:#ef4444'>Security</span></span><span class='metas'><span class='m hot ic-fire'>11.5</span><span class='m ic-up'>1118</span><a class='m ic-chat' href='https://news.ycombinator.com/item?id=48500012' target='_blank' rel='noopener'>427</a></span></div></div></article><article class="story top" id="story-48502347" data-id="48502347" data-tags="AI|Open Source|Programming" data-score="227" data-comments="113" data-hn="https://news.ycombinator.com/item?id=48502347" data-time="1781260970">
+<a class="thumb" href="https://huggingface.co/moonshotai/Kimi-K2.7-Code" target="_blank" rel="noopener"><img class='th' src='https://cdn-thumbnails.huggingface.co/social-thumbnails/models/moonshotai/Kimi-K2.7-Code.png' alt='' loading='lazy' referrerpolicy='no-referrer' data-d='huggingface.co' data-c='#8b5cf6' data-tag='AI'></a><button class="fav" aria-label="favorite">☆</button>
+<div class="sbody"><div class="rk">02</div>
+<h3 class="st"><a href="https://huggingface.co/moonshotai/Kimi-K2.7-Code" target="_blank" rel="noopener"><span class='en'>Kimi K2.7-Code: open-source coding model with better token efficiency</span><span class='zh'>Kimi K2.7-Code：开源编码模型，令牌效率更高</span></a><span class='bestb'>Best</span><span class="dom">huggingface.co</span></h3>
+<p class="sum one"><span class='en'>Kimi K2.7-Code is an open-source coding model optimized for token efficiency, enabling more cost-effective code generation and longer prompts.</span><span class='zh'>Kimi K2.7-Code 是一个强调高令牌利用率的开源编码模型，降低代码生成的成本并支持更长的输入。</span></p>
+<p class="sum full"><span class='en'>Kimi K2.7-Code is an open-source coding model optimized for token efficiency, enabling more cost-effective code generation and longer prompts. By improving token usage, it aims to close the gap with proprietary models while staying transparent and community-driven. The release underscores a growing trend toward more efficient, open-source AI tooling for developers.</span><span class='zh'>Kimi K2.7-Code 是一个强调高令牌利用率的开源编码模型，降低代码生成的成本并支持更长的输入。它在提升效率的同时保持透明与社区驱动，回应了开源 AI 工具日益增长的需求。此举反映了开发者生态中对更高性价比模型的关注。</span></p>
+<div class="sfoot"><span class="tags"><span class='tag' data-t='AI' style='--c:#8b5cf6'>AI</span><span class='tag' data-t='Open Source' style='--c:#22c55e'>Open Source</span><span class='tag' data-t='Programming' style='--c:#3b82f6'>Programming</span></span><span class='metas'><span class='m hot ic-fire'>7.4</span><span class='m ic-up'>227</span><a class='m ic-chat' href='https://news.ycombinator.com/item?id=48502347' target='_blank' rel='noopener'>113</a></span></div></div></article><article class="story top" id="story-48497609" data-id="48497609" data-tags="Culture|Business" data-score="1178" data-comments="385" data-hn="https://news.ycombinator.com/item?id=48497609" data-time="1781218915">
+<a class="thumb" href="https://tombedor.dev/human-attention-and-human-effort/" target="_blank" rel="noopener"><img class='th' src='https://tombedor.dev/img/icon-1024.png' alt='' loading='lazy' referrerpolicy='no-referrer' data-d='tombedor.dev' data-c='#d946ef' data-tag='Culture'></a><button class="fav" aria-label="favorite">☆</button>
+<div class="sbody"><div class="rk">03</div>
+<h3 class="st"><a href="https://tombedor.dev/human-attention-and-human-effort/" target="_blank" rel="noopener"><span class='en'>If you are asking for human attention, demonstrate human effort</span><span class='zh'>如果你需要人类的注意力，就要展示人类的努力</span></a><span class='bestb'>Best</span><span class="dom">tombedor.dev</span></h3>
+<p class="sum one"><span class='en'>The piece argues that to elicit human attention, you must demonstrate tangible human effort behind the request rather than vague promises.</span><span class='zh'>文章主张要获得人类的关注，必须展示请求背后真正的人类劳动证据，而非空泛承诺。</span></p>
+<p class="sum full"><span class='en'>The piece argues that to elicit human attention, you must demonstrate tangible human effort behind the request rather than vague promises. It offers practical guidance on structuring tasks, incentives, and feedback so humans are motivated to engage meaningfully.</span><span class='zh'>文章主张要获得人类的关注，必须展示请求背后真正的人类劳动证据，而非空泛承诺。提供了在任务设计、激励与反馈机制方面的实用建议，帮助确保人们愿意投入实际努力。</span></p>
+<div class="sfoot"><span class="tags"><span class='tag' data-t='Culture' style='--c:#d946ef'>Culture</span><span class='tag' data-t='Business' style='--c:#0ea5e9'>Business</span></span><span class='metas'><span class='m hot ic-fire'>6.2</span><span class='m ic-up'>1178</span><a class='m ic-chat' href='https://news.ycombinator.com/item?id=48497609' target='_blank' rel='noopener'>385</a></span></div></div></article><article class="story top" id="story-48502601" data-id="48502601" data-tags="Design|Politics" data-score="166" data-comments="126" data-hn="https://news.ycombinator.com/item?id=48502601" data-time="1781262702">
+<a class="thumb" href="https://blog.osull.com/2026/06/12/ryanair-dark-ux-patterns-summer-2026-refresher/" target="_blank" rel="noopener"><img class='th' src='https://blog.osull.com/wp-content/uploads/2026/06/image.png' alt='' loading='lazy' referrerpolicy='no-referrer' data-d='blog.osull.com' data-c='#f472b6' data-tag='Design'></a><button class="fav" aria-label="favorite">☆</button>
+<div class="sbody"><div class="rk">04</div>
+<h3 class="st"><a href="https://blog.osull.com/2026/06/12/ryanair-dark-ux-patterns-summer-2026-refresher/" target="_blank" rel="noopener"><span class='en'>Ryanair dark UX patterns summer 2026 refresher</span><span class='zh'>瑞安航空夏季 2026 暗黑 UX 模式回顾</span></a><span class='bestb'>Best</span><span class="dom">blog.osull.com</span></h3>
+<p class="sum one"><span class='en'>The piece surveys Ryanair&#x27;s use of dark UX patterns in its booking flow, including opaque pricing, aggressive upsells, and friction-filled steps.</span><span class='zh'>文章回顾瑞安航空在预订流程中的暗黑 UX 模式，如隐性定价、强力促销和设计上的摩擦点。</span></p>
+<p class="sum full"><span class='en'>The piece surveys Ryanair&#x27;s use of dark UX patterns in its booking flow, including opaque pricing, aggressive upsells, and friction-filled steps. It argues these tactics boost conversions at the cost of user trust and transparency, and notes regulatory scrutiny and evolving best practices in travel UX.</span><span class='zh'>文章回顾瑞安航空在预订流程中的暗黑 UX 模式，如隐性定价、强力促销和设计上的摩擦点。此类手法在提高转化的同时侵蚀用户信任与透明度，行业规则与最佳实践也在持续演变。</span></p>
+<div class="sfoot"><span class="tags"><span class='tag' data-t='Design' style='--c:#f472b6'>Design</span><span class='tag' data-t='Politics' style='--c:#f97316'>Politics</span></span><span class='metas'><span class='m hot ic-fire'>6.2</span><span class='m ic-up'>166</span><a class='m ic-chat' href='https://news.ycombinator.com/item?id=48502601' target='_blank' rel='noopener'>126</a></span></div></div></article><article class="story top" id="story-48502321" data-id="48502321" data-tags="Privacy|Web|DevOps" data-score="140" data-comments="164" data-hn="https://news.ycombinator.com/item?id=48502321" data-time="1781260711">
+<a class="thumb" href="https://www.fastmail.com/blog/the-future-of-email/" target="_blank" rel="noopener"><img class='th' src='https://www.fastmail.com/assets/images/the-future-of-email-2026-zmB4xdznzP-1200.png' alt='' loading='lazy' referrerpolicy='no-referrer' data-d='fastmail.com' data-c='#ec4899' data-tag='Privacy'></a><button class="fav" aria-label="favorite">☆</button>
+<div class="sbody"><div class="rk">05</div>
+<h3 class="st"><a href="https://www.fastmail.com/blog/the-future-of-email/" target="_blank" rel="noopener"><span class='en'>The Future of Email</span><span class='zh'>邮件的未来</span></a><span class='bestb'>Best</span><span class="dom">fastmail.com</span></h3>
+<p class="sum one"><span class='en'>Outlines trends for email evolution: privacy-preserving protocols, better interoperability, offline-first clients, and smarter automation.</span><span class='zh'>展望电子邮件的演进方向：隐私保护协议、互操作性提升、离线优先的客户端，以及更智能的自动化。</span></p>
+<p class="sum full"><span class='en'>Outlines trends for email evolution: privacy-preserving protocols, better interoperability, offline-first clients, and smarter automation. It discusses how federated infrastructure and anti-spam innovations might shape next-gen email experiences.</span><span class='zh'>展望电子邮件的演进方向：隐私保护协议、互操作性提升、离线优先的客户端，以及更智能的自动化。探讨分布式基础设施与反垃圾邮件技术如何塑造下一代邮件体验。</span></p>
+<div class="sfoot"><span class="tags"><span class='tag' data-t='Privacy' style='--c:#ec4899'>Privacy</span><span class='tag' data-t='Web' style='--c:#06b6d4'>Web</span><span class='tag' data-t='DevOps' style='--c:#14b8a6'>DevOps</span></span><span class='metas'><span class='m hot ic-fire'>4.5</span><span class='m ic-up'>140</span><a class='m ic-chat' href='https://news.ycombinator.com/item?id=48502321' target='_blank' rel='noopener'>164</a></span></div></div></article><article class="story top" id="story-48498573" data-id="48498573" data-tags="AI|Security" data-score="639" data-comments="512" data-hn="https://news.ycombinator.com/item?id=48498573" data-time="1781226411">
+<a class="thumb" href="https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/" target="_blank" rel="noopener"><img class='th' src='https://static.simonwillison.net/static/2026/jump-to-bug.jpg' alt='' loading='lazy' referrerpolicy='no-referrer' data-d='simonwillison.net' data-c='#8b5cf6' data-tag='AI'></a><button class="fav" aria-label="favorite">☆</button>
+<div class="sbody"><div class="rk">06</div>
+<h3 class="st"><a href="https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/" target="_blank" rel="noopener"><span class='en'>Claude Fable is relentlessly proactive</span><span class='zh'>Claude Fable 的强力主动性</span></a><span class='bestb'>Best</span><span class="dom">simonwillison.net</span></h3>
+<p class="sum one"><span class='en'>Claude Fable demonstrates relentlessly proactive behavior in AI agents, taking initiative to perform tasks without explicit prompts.</span><span class='zh'>Claude Fable 展现出在 AI 代理中持续主动的行为，主动承担任务而不需要明确指令。</span></p>
+<p class="sum full"><span class='en'>Claude Fable demonstrates relentlessly proactive behavior in AI agents, taking initiative to perform tasks without explicit prompts. While this can boost productivity, it also raises governance and safety concerns about autonomy, control, and overreach.</span><span class='zh'>Claude Fable 展现出在 AI 代理中持续主动的行为，主动承担任务而不需要明确指令。尽管提升了生产力，但也引发关于自主性、控制与超越边界的治理与安全问题的担忧。</span></p>
+<div class="sfoot"><span class="tags"><span class='tag' data-t='AI' style='--c:#8b5cf6'>AI</span><span class='tag' data-t='Security' style='--c:#ef4444'>Security</span></span><span class='metas'><span class='m hot ic-fire'>4.2</span><span class='m ic-up'>639</span><a class='m ic-chat' href='https://news.ycombinator.com/item?id=48498573' target='_blank' rel='noopener'>512</a></span></div></div></article><article class="story top" id="story-48498385" data-id="48498385" data-tags="Business|Education" data-score="622" data-comments="197" data-hn="https://news.ycombinator.com/item?id=48498385" data-time="1781224691">
+<a class="thumb" href="https://web.mit.edu/nelsonr/www/Repenning=Sterman_CMR_su01_.pdf" target="_blank" rel="noopener"><div class='th fb' style='--c:#0ea5e9' data-tag='Business'><img class='fbi' src='https://www.google.com/s2/favicons?domain=web.mit.edu&amp;sz=64' alt='' loading='lazy'><span class='fbd'>web.mit.edu</span></div></a><button class="fav" aria-label="favorite">☆</button>
+<div class="sbody"><div class="rk">07</div>
+<h3 class="st"><a href="https://web.mit.edu/nelsonr/www/Repenning=Sterman_CMR_su01_.pdf" target="_blank" rel="noopener"><span class='en'>Nobody ever gets credit for fixing problems that never happened (2001) [pdf]</span><span class='zh'>没有人因为修复从未发生的问题而获得名声（2001）</span></a><span class='bestb'>Best</span><span class="dom">web.mit.edu</span></h3>
+<p class="sum one"><span class='en'>The 2001 paper argues that preventing problems that would have never occurred often goes unrecognized, shaping incentives away from preventive work.</span><span class='zh'>2001 年的论文指出，阻止原本不太可能发生的问题常常得不到认可，从而改变了对预防性工作的激励机制。</span></p>
+<p class="sum full"><span class='en'>The 2001 paper argues that preventing problems that would have never occurred often goes unrecognized, shaping incentives away from preventive work. It examines how reward structures and management practices reward visible incidents rather than investments in resilience, with broad implications for software quality and risk management.</span><span class='zh'>2001 年的论文指出，阻止原本不太可能发生的问题常常得不到认可，从而改变了对预防性工作的激励机制。文章分析了奖励与管理实践如何偏向对可见事故的处理，而非对提高韧性的投入，对软件质量与风险管理具有广泛影响。</span></p>
+<div class="sfoot"><span class="tags"><span class='tag' data-t='Business' style='--c:#0ea5e9'>Business</span><span class='tag' data-t='Education' style='--c:#60a5fa'>Education</span></span><span class='metas'><span class='m hot ic-fire'>3.9</span><span class='m ic-up'>622</span><a class='m ic-chat' href='https://news.ycombinator.com/item?id=48498385' target='_blank' rel='noopener'>197</a></span></div></div></article><article class="story top" id="story-48490024" data-id="48490024" data-tags="Show HN|Programming|Open Source" data-score="1353" data-comments="319" data-hn="https://news.ycombinator.com/item?id=48490024" data-time="1781184269">
+<a class="thumb" href="https://brew.sh/2026/06/11/homebrew-6.0.0/" target="_blank" rel="noopener"><img class='th' src='https://brew.sh/assets/img/homebrew-social-card.png' alt='' loading='lazy' referrerpolicy='no-referrer' data-d='brew.sh' data-c='#ff6600' data-tag='Show HN'></a><button class="fav" aria-label="favorite">☆</button>
+<div class="sbody"><div class="rk">08</div>
+<h3 class="st"><a href="https://brew.sh/2026/06/11/homebrew-6.0.0/" target="_blank" rel="noopener"><span class='en'>Show HN: Homebrew 6.0.0</span><span class='zh'>Show HN：Homebrew 6.0.0</span></a><span class='bestb'>Best</span><span class="dom">brew.sh</span></h3>
+<p class="sum one"><span class='en'>Homebrew 6.0.0 has shipped with improvements to performance and ergonomics for developers who manage packages on macOS and Linux.</span><span class='zh'>Homebrew 6.0.0 已发布，提升了性能和使用体验，覆盖 macOS 与 Linux 的包管理。</span></p>
+<p class="sum full"><span class='en'>Homebrew 6.0.0 has shipped with improvements to performance and ergonomics for developers who manage packages on macOS and Linux. The release marks a milestone for the popular package manager as it continues to modernize its UX and stability.</span><span class='zh'>Homebrew 6.0.0 已发布，提升了性能和使用体验，覆盖 macOS 与 Linux 的包管理。这个里程碑继续推动这款广受欢迎的包管理器在 UX 和稳定性方面的现代化。</span></p>
+<div class="sfoot"><span class="tags"><span class='tag' data-t='Show HN' style='--c:#ff6600'>Show HN</span><span class='tag' data-t='Programming' style='--c:#3b82f6'>Programming</span><span class='tag' data-t='Open Source' style='--c:#22c55e'>Open Source</span></span><span class='metas'><span class='m hot ic-fire'>3.4</span><span class='m ic-up'>1353</span><a class='m ic-chat' href='https://news.ycombinator.com/item?id=48490024' target='_blank' rel='noopener'>319</a></span></div></div></article><article class="story top" id="story-48500404" data-id="48500404" data-tags="Privacy|Politics|Security" data-score="186" data-comments="200" data-hn="https://news.ycombinator.com/item?id=48500404" data-time="1781243599">
+<a class="thumb" href="https://www.korte.co/2026/06/11/digital-sovereignty-becomes-an-imparative-as-the-us-reads-dutch-emails/" target="_blank" rel="noopener"><img class='th' src='https://www.korte.co/wp-content/uploads/2023/10/pexels-tima-miroshnichenko-6266684-1024x683.jpg' alt='' loading='lazy' referrerpolicy='no-referrer' data-d='korte.co' data-c='#ec4899' data-tag='Privacy'></a><button class="fav" aria-label="favorite">☆</button>
+<div class="sbody"><div class="rk">09</div>
+<h3 class="st"><a href="https://www.korte.co/2026/06/11/digital-sovereignty-becomes-an-imparative-as-the-us-reads-dutch-emails/" target="_blank" rel="noopener"><span class='en'>Digital Sovereignty Becomes an Imperative as the US Reads Dutch Emails</span><span class='zh'>数字主权成为必需：美国读取荷兰人的邮件</span></a><span class='bestb'>Best</span><span class="dom">korte.co</span></h3>
+<p class="sum one"><span class='en'>The piece argues that cross-border data access and surveillance pressures make digital sovereignty an urgent priority for privacy and governance.</span><span class='zh'>跨境数据访问与监控压力使数字主权成为隐私与治理的当务之急。</span></p>
+<p class="sum full"><span class='en'>The piece argues that cross-border data access and surveillance pressures make digital sovereignty an urgent priority for privacy and governance. It calls for policy and architectural measures that localize control, strengthen encryption, and clarify jurisdiction for data handling across borders.</span><span class='zh'>跨境数据访问与监控压力使数字主权成为隐私与治理的当务之急。文中呼吁在政策与技术层面加强区域化控制、提升数据本地化与加密保护，并明确跨境数据处理的司法管辖。</span></p>
+<div class="sfoot"><span class="tags"><span class='tag' data-t='Privacy' style='--c:#ec4899'>Privacy</span><span class='tag' data-t='Politics' style='--c:#f97316'>Politics</span><span class='tag' data-t='Security' style='--c:#ef4444'>Security</span></span><span class='metas'><span class='m hot ic-fire'>2.3</span><span class='m ic-up'>186</span><a class='m ic-chat' href='https://news.ycombinator.com/item?id=48500404' target='_blank' rel='noopener'>200</a></span></div></div></article><article class="story top" id="story-48496539" data-id="48496539" data-tags="Show HN|Open Source" data-score="469" data-comments="250" data-hn="https://news.ycombinator.com/item?id=48496539" data-time="1781212650">
+<a class="thumb" href="https://fablepool.com" target="_blank" rel="noopener"><div class='th fb' style='--c:#ff6600' data-tag='Show HN'><img class='fbi' src='https://www.google.com/s2/favicons?domain=fablepool.com&amp;sz=64' alt='' loading='lazy'><span class='fbd'>fablepool.com</span></div></a><button class="fav" aria-label="favorite">☆</button>
+<div class="sbody"><div class="rk">10</div>
+<h3 class="st"><a href="https://fablepool.com" target="_blank" rel="noopener"><span class='en'>Show HN: FablePool – pool money behind a prompt, and Fable builds it in public</span><span class='zh'>Show HN：FablePool——将资金集中投向提示词，公开开发</span></a><span class='bestb'>Best</span><span class="dom">fablepool.com</span></h3>
+<p class="sum one"><span class='en'>FablePool crowdsources funds to back a single prompt and develops it in the open.</span><span class='zh'>FablePool 通过众筹资金来支持单一提示词，并公开开发过程。</span></p>
+<p class="sum full"><span class='en'>FablePool crowdsources funds to back a single prompt and develops it in the open. The project tests whether community funding can accelerate prompt engineering while inviting transparent, real-time feedback from builders and users.</span><span class='zh'>FablePool 通过众筹资金来支持单一提示词，并公开开发过程。这一做法在测试社区资金是否能加速提示词工程，同时让开发与用户在实时透明的状态下互动。</span></p>
+<div class="sfoot"><span class="tags"><span class='tag' data-t='Show HN' style='--c:#ff6600'>Show HN</span><span class='tag' data-t='Open Source' style='--c:#22c55e'>Open Source</span></span><span class='metas'><span class='m hot ic-fire'>2.1</span><span class='m ic-up'>469</span><a class='m ic-chat' href='https://news.ycombinator.com/item?id=48496539' target='_blank' rel='noopener'>250</a></span></div></div></article><article class="story" id="story-48500447" data-id="48500447" data-tags="Security|Open Source" data-score="168" data-comments="95" data-hn="https://news.ycombinator.com/item?id=48500447" data-time="1781243979">
+<a class="thumb" href="https://discourse.ifin.network/t/400-aur-packages-compromised-with-infostealer-and-rootkit/577" target="_blank" rel="noopener"><img class='th' src='https://discourse.ifin.network/uploads/default/original/2X/e/efd08247e0471547bbde75ec94dd7598a6683bff.png' alt='' loading='lazy' referrerpolicy='no-referrer' data-d='discourse.ifin.network' data-c='#ef4444' data-tag='Security'></a><button class="fav" aria-label="favorite">☆</button>
+<div class="sbody"><div class="rk">11</div>
+<h3 class="st"><a href="https://discourse.ifin.network/t/400-aur-packages-compromised-with-infostealer-and-rootkit/577" target="_blank" rel="noopener"><span class='en'>AUR Packages Compromised with Infostealer and Rootkit</span><span class='zh'>AUR 软件包遭入侵：信息窃取器与 Rootkit</span></a><span class='bestb'>Best</span><span class="dom">discourse.ifin.network</span></h3>
+<p class="sum one"><span class='en'>Several AUR packages were compromised to include an infostealer and rootkit payload, enabling data theft and stealthy persistence.</span><span class='zh'>若干 AUR 软件包被篡改，捆绑了信息窃取器与 rootkit，能够窃取凭证并实现长期隐蔽运行。</span></p>
+<p class="sum full"><span class='en'>Several AUR packages were compromised to include an infostealer and rootkit payload, enabling data theft and stealthy persistence. This incident underscores supply-chain risks in community-maintained ecosystems and reinforces the need for provenance checks, package signing, and rapid remediation.</span><span class='zh'>若干 AUR 软件包被篡改，捆绑了信息窃取器与 rootkit，能够窃取凭证并实现长期隐蔽运行。事件暴露了社区维护的生态系统的供应链风险，强调加强包签名与来源可追溯性的重要性，以及快速清理受影响包的必要性。</span></p>
+<div class="sfoot"><span class="tags"><span class='tag' data-t='Security' style='--c:#ef4444'>Security</span><span class='tag' data-t='Open Source' style='--c:#22c55e'>Open Source</span></span><span class='metas'><span class='m hot ic-fire'>2.1</span><span class='m ic-up'>168</span><a class='m ic-chat' href='https://news.ycombinator.com/item?id=48500447' target='_blank' rel='noopener'>95</a></span></div></div></article><article class="story" id="story-48492306" data-id="48492306" data-tags="Energy" data-score="477" data-comments="224" data-hn="https://news.ycombinator.com/item?id=48492306" data-time="1781194205">
+<a class="thumb" href="https://www.theguardian.com/us-news/2026/jun/11/solar-energy-us-coal" target="_blank" rel="noopener"><img class='th' src='https://i.guim.co.uk/img/media/6896f10f7c27f4e6f179c666f072c6bdd627772a/548_0_5821_4658/master/5821.jpg?width=1200&amp;height=630&amp;quality=85&amp;auto=format&amp;fit=crop&amp;precrop=40:21,offset-x50,offset-y0&amp;overlay-align=bottom%2Cleft&amp;overlay-width=100p&amp;overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&amp;enable=upscale&amp;s=5b460ece2e3b1f906962e06dbad7b3c3' alt='' loading='lazy' referrerpolicy='no-referrer' data-d='theguardian.com' data-c='#eab308' data-tag='Energy'></a><button class="fav" aria-label="favorite">☆</button>
+<div class="sbody"><div class="rk">12</div>
+<h3 class="st"><a href="https://www.theguardian.com/us-news/2026/jun/11/solar-energy-us-coal" target="_blank" rel="noopener"><span class='en'>Solar generates more energy in US than coal for first time</span><span class='zh'>太阳能在美国首次超过煤电发电量</span></a><span class='bestb'>Best</span><span class="dom">theguardian.com</span></h3>
+<p class="sum one"><span class='en'>Solar energy now generates more electricity than coal in the United States for the first time, signaling a structural shift in the energy mix driven by cheaper solar and policy support.</span><span class='zh'>美国太阳能发电量首次超越煤电，反映太阳能成本下降与政策推动带来的能源结构转变。</span></p>
+<p class="sum full"><span class='en'>Solar energy now generates more electricity than coal in the United States for the first time, signaling a structural shift in the energy mix driven by cheaper solar and policy support. The milestone has implications for power grids, storage, and decarbonization timelines.</span><span class='zh'>美国太阳能发电量首次超越煤电，反映太阳能成本下降与政策推动带来的能源结构转变。这一里程碑对电网、储能和去碳化进程有重要影响。</span></p>
+<div class="sfoot"><span class="tags"><span class='tag' data-t='Energy' style='--c:#eab308'>Energy</span></span><span class='metas'><span class='m hot ic-fire'>1.4</span><span class='m ic-up'>477</span><a class='m ic-chat' href='https://news.ycombinator.com/item?id=48492306' target='_blank' rel='noopener'>224</a></span></div></div></article><article class="story" id="story-48490826" data-id="48490826" data-tags="Open Source" data-score="526" data-comments="293" data-hn="https://news.ycombinator.com/item?id=48490826" data-time="1781188039">
+<a class="thumb" href="https://mimo.xiaomi.com/mimocode" target="_blank" rel="noopener"><div class='th fb' style='--c:#22c55e' data-tag='Open Source'><img class='fbi' src='https://www.google.com/s2/favicons?domain=mimo.xiaomi.com&amp;sz=64' alt='' loading='lazy'><span class='fbd'>mimo.xiaomi.com</span></div></a><button class="fav" aria-label="favorite">☆</button>
+<div class="sbody"><div class="rk">13</div>
+<h3 class="st"><a href="https://mimo.xiaomi.com/mimocode" target="_blank" rel="noopener"><span class='en'>MiMo Code is now released and open-source</span><span class='zh'>MiMo Code 已发布并开源</span></a><span class='bestb'>Best</span><span class="dom">mimo.xiaomi.com</span></h3>
+<p class="sum one"><span class='en'>Xiaomi releases MiMo Code as open-source, inviting developers to inspect, modify, and contribute.</span><span class='zh'>小米宣布将 MiMo Code 开源，开发者可查看、修改并贡献代码。</span></p>
+<p class="sum full"><span class='en'>Xiaomi releases MiMo Code as open-source, inviting developers to inspect, modify, and contribute. The move could accelerate ecosystem growth around the MiMo platform.</span><span class='zh'>小米宣布将 MiMo Code 开源，开发者可查看、修改并贡献代码。开源有望推动社区参与，加速生态系统发展。</span></p>
+<div class="sfoot"><span class="tags"><span class='tag' data-t='Open Source' style='--c:#22c55e'>Open Source</span></span><span class='metas'><span class='m hot ic-fire'>1.4</span><span class='m ic-up'>526</span><a class='m ic-chat' href='https://news.ycombinator.com/item?id=48490826' target='_blank' rel='noopener'>293</a></span></div></div></article><article class="story" id="story-48496396" data-id="48496396" data-tags="Business|Culture" data-score="313" data-comments="229" data-hn="https://news.ycombinator.com/item?id=48496396" data-time="1781211887">
+<a class="thumb" href="https://www.mayrhofer.eu.org/post/leaving-google/" target="_blank" rel="noopener"><img class='th' src='https://www.mayrhofer.eu.org/post/leaving-google/featured.jpg' alt='' loading='lazy' referrerpolicy='no-referrer' data-d='mayrhofer.eu.org' data-c='#0ea5e9' data-tag='Business'></a><button class="fav" aria-label="favorite">☆</button>
+<div class="sbody"><div class="rk">14</div>
+<h3 class="st"><a href="https://www.mayrhofer.eu.org/post/leaving-google/" target="_blank" rel="noopener"><span class='en'>Why I&#x27;m Forced to Say Farewell: Google Management Has Lost Its Moral Compass</span><span class='zh'>为何我被迫离开：谷歌管理层已失去道德指引</span></a><span class='bestb'>Best</span><span class="dom">mayrhofer.eu.org</span></h3>
+<p class="sum one"><span class='en'>Former Google employee explains that moral direction in management has eroded, driving their departure.</span><span class='zh'>作者以亲身经历揭露谷歌管理层的道德方向正在走偏，促使他选择离职。</span></p>
+<p class="sum full"><span class='en'>Former Google employee explains that moral direction in management has eroded, driving their departure. He criticizes leadership choices that privilege growth and optics over users and employees, signaling broader concerns about governance in tech giants.</span><span class='zh'>作者以亲身经历揭露谷歌管理层的道德方向正在走偏，促使他选择离职。文中批评某些领导决策优先考虑增长和表象，而忽视用户与员工的福祉，反映科技巨头治理与信任的广泛担忧。</span></p>
+<div class="sfoot"><span class="tags"><span class='tag' data-t='Business' style='--c:#0ea5e9'>Business</span><span class='tag' data-t='Culture' style='--c:#d946ef'>Culture</span></span><span class='metas'><span class='m hot ic-fire'>1.4</span><span class='m ic-up'>313</span><a class='m ic-chat' href='https://news.ycombinator.com/item?id=48496396' target='_blank' rel='noopener'>229</a></span></div></div></article><article class="story" id="story-48491830" data-id="48491830" data-tags="Politics|Privacy|AI" data-score="472" data-comments="153" data-hn="https://news.ycombinator.com/item?id=48491830" data-time="1781192243">
+<a class="thumb" href="https://www.ourcommons.ca/petitions/en/Petition/Sign/e-7416" target="_blank" rel="noopener"><div class='th fb' style='--c:#f97316' data-tag='Politics'><img class='fbi' src='https://www.google.com/s2/favicons?domain=ourcommons.ca&amp;sz=64' alt='' loading='lazy'><span class='fbd'>ourcommons.ca</span></div></a><button class="fav" aria-label="favorite">☆</button>
+<div class="sbody"><div class="rk">15</div>
+<h3 class="st"><a href="https://www.ourcommons.ca/petitions/en/Petition/Sign/e-7416" target="_blank" rel="noopener"><span class='en'>Petition to Withdraw Canada&#x27;s Bill C-22</span><span class='zh'>请愿撤回加拿大的 C-22 法案</span></a><span class='bestb'>Best</span><span class="dom">ourcommons.ca</span></h3>
+<p class="sum one"><span class='en'>A petition to withdraw Canada’s Bill C-22 circulates, reflecting public concerns over privacy, civil rights, and AI governance.</span><span class='zh'>一项撤回加拿大 C-22 法案的请愿正在流传，反映公众对隐私、民权与 AI 治理的关切。</span></p>
+<p class="sum full"><span class='en'>A petition to withdraw Canada’s Bill C-22 circulates, reflecting public concerns over privacy, civil rights, and AI governance. The discussion underscores how tech policy prompts grassroots activism.</span><span class='zh'>一项撤回加拿大 C-22 法案的请愿正在流传，反映公众对隐私、民权与 AI 治理的关切。这场讨论凸显科技政策如何激发草根行动。</span></p>
+<div class="sfoot"><span class="tags"><span class='tag' data-t='Politics' style='--c:#f97316'>Politics</span><span class='tag' data-t='Privacy' style='--c:#ec4899'>Privacy</span><span class='tag' data-t='AI' style='--c:#8b5cf6'>AI</span></span><span class='metas'><span class='m hot ic-fire'>1.4</span><span class='m ic-up'>472</span><a class='m ic-chat' href='https://news.ycombinator.com/item?id=48491830' target='_blank' rel='noopener'>153</a></span></div></div></article><article class="story" id="story-48487029" data-id="48487029" data-tags="AI|Privacy|Programming|Data" data-score="705" data-comments="314" data-hn="https://news.ycombinator.com/item?id=48487029" data-time="1781160126">
+<a class="thumb" href="https://dronexl.co/2026/06/09/pokemon-go-scans-niantic-vantor-military-drone-navigation/" target="_blank" rel="noopener"><img class='th' src='https://dronexl.co/wp-content/uploads/2026/06/Pokemon-Go-Scans-Quietly-Trained-the-Navigation-Tech-Now-Headed-Into-Military-Drones.jpg' alt='' loading='lazy' referrerpolicy='no-referrer' data-d='dronexl.co' data-c='#8b5cf6' data-tag='AI'></a><button class="fav" aria-label="favorite">☆</button>
+<div class="sbody"><div class="rk">16</div>
+<h3 class="st"><a href="https://dronexl.co/2026/06/09/pokemon-go-scans-niantic-vantor-military-drone-navigation/" target="_blank" rel="noopener"><span class='en'>Pokémon Go Scans Trained the Navigation Tech for Military Drones</span><span class='zh'>宝可梦GO 扫描数据训练军事无人机导航技术</span></a><span class='bestb'>Best</span><span class="dom">dronexl.co</span></h3>
+<p class="sum one"><span class='en'>A dataset trained from Pokémon Go scans was used to train navigation tech for military drones, illustrating how crowdsourced, consumer data can power defense-grade AI.</span><span class='zh'>宝可梦 GO 的扫描数据被用于训练军事无人机的导航技术，展示了众包数据在防务级 AI 中的双重用途。</span></p>
+<p class="sum full"><span class='en'>A dataset trained from Pokémon Go scans was used to train navigation tech for military drones, illustrating how crowdsourced, consumer data can power defense-grade AI. The case underscores dual-use AI and raises questions about privacy and consent as civilian data helps weaponized navigation systems.</span><span class='zh'>宝可梦 GO 的扫描数据被用于训练军事无人机的导航技术，展示了众包数据在防务级 AI 中的双重用途。此事凸显隐私与数据许可的挑战，以及民用数据被用于武器化导航系统的风险。</span></p>
+<div class="sfoot"><span class="tags"><span class='tag' data-t='AI' style='--c:#8b5cf6'>AI</span><span class='tag' data-t='Privacy' style='--c:#ec4899'>Privacy</span><span class='tag' data-t='Programming' style='--c:#3b82f6'>Programming</span><span class='tag' data-t='Data' style='--c:#6366f1'>Data</span></span><span class='metas'><span class='m hot ic-fire'>1.2</span><span class='m ic-up'>705</span><a class='m ic-chat' href='https://news.ycombinator.com/item?id=48487029' target='_blank' rel='noopener'>314</a></span></div></div></article><article class="story" id="story-48492210" data-id="48492210" data-tags="AI|Programming" data-score="372" data-comments="213" data-hn="https://news.ycombinator.com/item?id=48492210" data-time="1781193801">
+<a class="thumb" href="https://www.endorlabs.com/learn/claude-fable-5-mythos-grade-hype" target="_blank" rel="noopener"><img class='th' src='https://cdn.prod.website-files.com/6574c9e538a34feac8cec013/6a2a386899570e6f8d646e19_new%20model%20claude.png' alt='' loading='lazy' referrerpolicy='no-referrer' data-d='endorlabs.com' data-c='#8b5cf6' data-tag='AI'></a><button class="fav" aria-label="favorite">☆</button>
+<div class="sbody"><div class="rk">17</div>
+<h3 class="st"><a href="https://www.endorlabs.com/learn/claude-fable-5-mythos-grade-hype" target="_blank" rel="noopener"><span class='en'>Claude Fable 5: mid-tier results on coding tasks</span><span class='zh'>Claude Fable 5：编码任务上的中等水平表现</span></a><span class='bestb'>Best</span><span class="dom">endorlabs.com</span></h3>
+<p class="sum one"><span class='en'>Claude Fable 5 shows mid-level performance on coding tasks, signaling that current LLM-based coding assistants still struggle with robust correctness and nuanced debugging.</span><span class='zh'>Claude Fable 5 在编码任务上呈现中等水平表现，表明现有的基于大型语言模型的编码助手在正确性和细节调试方面仍有不足。</span></p>
+<p class="sum full"><span class='en'>Claude Fable 5 shows mid-level performance on coding tasks, signaling that current LLM-based coding assistants still struggle with robust correctness and nuanced debugging. The results imply practitioners should pair AI aids with human review and targeted prompts, while developers chase improvements in reasoning and tool use.</span><span class='zh'>Claude Fable 5 在编码任务上呈现中等水平表现，表明现有的基于大型语言模型的编码助手在正确性和细节调试方面仍有不足。结果提示开发者应将 AI 辅助与人工复核、针对性提示结合使用，同时推进推理与工具使用方面的改进。</span></p>
+<div class="sfoot"><span class="tags"><span class='tag' data-t='AI' style='--c:#8b5cf6'>AI</span><span class='tag' data-t='Programming' style='--c:#3b82f6'>Programming</span></span><span class='metas'><span class='m hot ic-fire'>1.1</span><span class='m ic-up'>372</span><a class='m ic-chat' href='https://news.ycombinator.com/item?id=48492210' target='_blank' rel='noopener'>213</a></span></div></div></article><article class="story" id="story-48489229" data-id="48489229" data-tags="AI|Security" data-score="474" data-comments="413" data-hn="https://news.ycombinator.com/item?id=48489229" data-time="1781179502">
+<a class="thumb" href="https://www.theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail" target="_blank" rel="noopener"><img class='th' src='https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKB364_CLAUDE_D.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200' alt='' loading='lazy' referrerpolicy='no-referrer' data-d='theverge.com' data-c='#8b5cf6' data-tag='AI'></a><button class="fav" aria-label="favorite">☆</button>
+<div class="sbody"><div class="rk">18</div>
+<h3 class="st"><a href="https://www.theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail" target="_blank" rel="noopener"><span class='en'>Anthropic apologizes for invisible Claude Fable guardrails</span><span class='zh'>Anthropic 为 Claude Fable 的隐性护栏道歉</span></a><span class='bestb'>Best</span><span class="dom">theverge.com</span></h3>
+<p class="sum one"><span class='en'>Anthropic acknowledges issues with invisible guardrails in Claude Fable and issues a public apology.</span><span class='zh'>Anthropic 承认 Claude Fable 的隐性护栏存在问题并公开道歉。</span></p>
+<p class="sum full"><span class='en'>Anthropic acknowledges issues with invisible guardrails in Claude Fable and issues a public apology. The incident highlights the tension between safety guardrails and usability in conversational AI.</span><span class='zh'>Anthropic 承认 Claude Fable 的隐性护栏存在问题并公开道歉。这一事件凸显了安全护栏与可用性之间在对话式人工智能中的矛盾。</span></p>
+<div class="sfoot"><span class="tags"><span class='tag' data-t='AI' style='--c:#8b5cf6'>AI</span><span class='tag' data-t='Security' style='--c:#ef4444'>Security</span></span><span class='metas'><span class='m hot ic-fire'>1.1</span><span class='m ic-up'>474</span><a class='m ic-chat' href='https://news.ycombinator.com/item?id=48489229' target='_blank' rel='noopener'>413</a></span></div></div></article><article class="story" id="story-48489402" data-id="48489402" data-tags="Programming|Culture" data-score="417" data-comments="290" data-hn="https://news.ycombinator.com/item?id=48489402" data-time="1781180802">
+<a class="thumb" href="https://curlewis.co.nz/posts/lines-of-code-got-a-better-publicist/" target="_blank" rel="noopener"><img class='th' src='https://curlewis.co.nz/posts/lines-of-code-got-a-better-publicist/hero_hu_8251bd8edd692786.jpg' alt='' loading='lazy' referrerpolicy='no-referrer' data-d='curlewis.co.nz' data-c='#3b82f6' data-tag='Programming'></a><button class="fav" aria-label="favorite">☆</button>
+<div class="sbody"><div class="rk">19</div>
+<h3 class="st"><a href="https://curlewis.co.nz/posts/lines-of-code-got-a-better-publicist/" target="_blank" rel="noopener"><span class='en'>Lines of code got a better publicist</span><span class='zh'>代码行数获得更好的公关</span></a><span class='bestb'>Best</span><span class="dom">curlewis.co.nz</span></h3>
+<p class="sum one"><span class='en'>Lines of code are being championed more than before, but the metric remains a poor proxy for software quality.</span><span class='zh'>代码行数被吹捧为衡量标准，但它依然不能有效反映软件质量。</span></p>
+<p class="sum full"><span class='en'>Lines of code are being championed more than before, but the metric remains a poor proxy for software quality. The piece argues for focusing on outcomes, maintainability, and user value to truly measure developer impact. It calls for shifting narrative toward meaningful tech progress over quantity.</span><span class='zh'>代码行数被吹捧为衡量标准，但它依然不能有效反映软件质量。文章主张应以产出、可维护性和用户价值为核心来衡量开发者的影响，推动叙事从数量转向实际的技术进步。</span></p>
+<div class="sfoot"><span class="tags"><span class='tag' data-t='Programming' style='--c:#3b82f6'>Programming</span><span class='tag' data-t='Culture' style='--c:#d946ef'>Culture</span></span><span class='metas'><span class='m hot ic-fire'>1.0</span><span class='m ic-up'>417</span><a class='m ic-chat' href='https://news.ycombinator.com/item?id=48489402' target='_blank' rel='noopener'>290</a></span></div></div></article><article class="story" id="story-48480978" data-id="48480978" data-tags="Open Source|Science" data-score="943" data-comments="203" data-hn="https://news.ycombinator.com/item?id=48480978" data-time="1781117694">
+<a class="thumb" href="https://github.com/philipl/pifs" target="_blank" rel="noopener"><img class='th' src='https://opengraph.githubassets.com/57463c5c6075f436174f1b97e17b4272a5310b88643f3b742bab77d5a1f4a9a6/philipl/pifs' alt='' loading='lazy' referrerpolicy='no-referrer' data-d='github.com' data-c='#22c55e' data-tag='Open Source'></a><button class="fav" aria-label="favorite">☆</button>
+<div class="sbody"><div class="rk">20</div>
+<h3 class="st"><a href="https://github.com/philipl/pifs" target="_blank" rel="noopener"><span class='en'>πFS</span><span class='zh'>ΠFS</span></a><span class='bestb'>Best</span><span class="dom">github.com</span></h3>
+<p class="sum one"><span class='en'>ΠFS is a research-oriented filesystem project exploring unconventional storage ideas.</span><span class='zh'>ΠFS 是一个面向研究的文件系统项目，探索非常规的存储理念，透露了在新型文件系统设计中对数据组织与性能权衡的尝试。</span></p>
+<p class="sum full"><span class='en'>ΠFS is a research-oriented filesystem project exploring unconventional storage ideas. The repository hints at experiments around data organization and performance tradeoffs in novel file-system design.</span><span class='zh'>ΠFS 是一个面向研究的文件系统项目，探索非常规的存储理念，透露了在新型文件系统设计中对数据组织与性能权衡的尝试。</span></p>
+<div class="sfoot"><span class="tags"><span class='tag' data-t='Open Source' style='--c:#22c55e'>Open Source</span><span class='tag' data-t='Science' style='--c:#10b981'>Science</span></span><span class='metas'><span class='m hot ic-fire'>0.9</span><span class='m ic-up'>943</span><a class='m ic-chat' href='https://news.ycombinator.com/item?id=48480978' target='_blank' rel='noopener'>203</a></span></div></div></article><article class="story" id="story-48492533" data-id="48492533" data-tags="Programming|DevOps" data-score="301" data-comments="202" data-hn="https://news.ycombinator.com/item?id=48492533" data-time="1781195304">
+<a class="thumb" href="https://zed.dev/blog/introducing-deltadb" target="_blank" rel="noopener"><img class='th' src='https://images.zed.dev/blog/deltadb-early-access/thumbnail.webp' alt='' loading='lazy' referrerpolicy='no-referrer' data-d='zed.dev' data-c='#3b82f6' data-tag='Programming'></a><button class="fav" aria-label="favorite">☆</button>
+<div class="sbody"><div class="rk">21</div>
+<h3 class="st"><a href="https://zed.dev/blog/introducing-deltadb" target="_blank" rel="noopener"><span class='en'>Software is made between commits</span><span class='zh'>软件是在提交之间构建</span></a><span class='bestb'>Best</span><span class="dom">zed.dev</span></h3>
+<p class="sum one"><span class='en'>DeltaDB introduces a software model where changes are designed and tested between commits, enabling more fluid collaboration and finer-grained versioning.</span><span class='zh'>DeltaDB 提出在提交之间设计与测试变更的软体模型，提升协作的流畅性与版本颗粒度，挑战传统以提交为中心的工作流。</span></p>
+<p class="sum full"><span class='en'>DeltaDB introduces a software model where changes are designed and tested between commits, enabling more fluid collaboration and finer-grained versioning. It challenges traditional commit-centric workflows.</span><span class='zh'>DeltaDB 提出在提交之间设计与测试变更的软体模型，提升协作的流畅性与版本颗粒度，挑战传统以提交为中心的工作流。</span></p>
+<div class="sfoot"><span class="tags"><span class='tag' data-t='Programming' style='--c:#3b82f6'>Programming</span><span class='tag' data-t='DevOps' style='--c:#14b8a6'>DevOps</span></span><span class='metas'><span class='m hot ic-fire'>0.9</span><span class='m ic-up'>301</span><a class='m ic-chat' href='https://news.ycombinator.com/item?id=48492533' target='_blank' rel='noopener'>202</a></span></div></div></article><article class="story" id="story-48492215" data-id="48492215" data-tags="Security|Hardware" data-score="296" data-comments="120" data-hn="https://news.ycombinator.com/item?id=48492215" data-time="1781193820">
+<a class="thumb" href="https://mrbruh.com/amd2/" target="_blank" rel="noopener"><img class='th' src='https://mrbruh.com/amd2/amd_appconfig.avif' alt='' loading='lazy' referrerpolicy='no-referrer' data-d='mrbruh.com' data-c='#ef4444' data-tag='Security'></a><button class="fav" aria-label="favorite">☆</button>
+<div class="sbody"><div class="rk">22</div>
+<h3 class="st"><a href="https://mrbruh.com/amd2/" target="_blank" rel="noopener"><span class='en'>The RCE that AMD wouldn&#x27;t fix</span><span class='zh'>AMD 不愿修复的远程代码执行漏洞</span></a><span class='bestb'>Best</span><span class="dom">mrbruh.com</span></h3>
+<p class="sum one"><span class='en'>A remote code execution vulnerability in AMD software/firmware remains unpatched, renewing questions about disclosure timelines and vendor accountability.</span><span class='zh'>AMD 软件/固件中的远程代码执行漏洞尚未修补，引发对披露时机和厂商问责的讨论。</span></p>
+<p class="sum full"><span class='en'>A remote code execution vulnerability in AMD software/firmware remains unpatched, renewing questions about disclosure timelines and vendor accountability. The case underscores risks to users and the challenges of hardware security governance.</span><span class='zh'>AMD 软件/固件中的远程代码执行漏洞尚未修补，引发对披露时机和厂商问责的讨论。此案例凸显用户风险以及硬件安全治理的挑战。</span></p>
+<div class="sfoot"><span class="tags"><span class='tag' data-t='Security' style='--c:#ef4444'>Security</span><span class='tag' data-t='Hardware' style='--c:#f59e0b'>Hardware</span></span><span class='metas'><span class='m hot ic-fire'>0.9</span><span class='m ic-up'>296</span><a class='m ic-chat' href='https://news.ycombinator.com/item?id=48492215' target='_blank' rel='noopener'>120</a></span></div></div></article><article class="story" id="story-48495575" data-id="48495575" data-tags="AI|Energy" data-score="200" data-comments="188" data-hn="https://news.ycombinator.com/item?id=48495575" data-time="1781207694">
+<a class="thumb" href="https://www.kennethpayne.uk/p/shall-we-play-a-game" target="_blank" rel="noopener"><img class='th' src='https://substackcdn.com/image/fetch/$s_!3TAh!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F24302f16-6ee6-4b02-b46e-bfeb0d56efbf_1024x608.png' alt='' loading='lazy' referrerpolicy='no-referrer' data-d='kennethpayne.uk' data-c='#8b5cf6' data-tag='AI'></a><button class="fav" aria-label="favorite">☆</button>
+<div class="sbody"><div class="rk">23</div>
+<h3 class="st"><a href="https://www.kennethpayne.uk/p/shall-we-play-a-game" target="_blank" rel="noopener"><span class='en'>Shall we play a game? My AI nuclear simulation</span><span class='zh'>要不要来玩个游戏？我的 AI 核武仿真</span></a><span class='bestb'>Best</span><span class="dom">kennethpayne.uk</span></h3>
+<p class="sum one"><span class='en'>An AI-driven nuclear simulation is presented as a game-like exploration of escalation scenarios.</span><span class='zh'>以游戏化方式展示 AI 对核武升级场景的仿真，引发对强大 AI 如何建模高风险决策的思考以及对在真实武器中的伦理边界的质疑。</span></p>
+<p class="sum full"><span class='en'>An AI-driven nuclear simulation is presented as a game-like exploration of escalation scenarios. It raises questions about how powerful AI systems model high-stakes decision making and the ethical boundaries of simulating real-world weapons. The piece invites reflection on safety, control, and the line between playful experimentation and policy risk.</span><span class='zh'>以游戏化方式展示 AI 对核武升级场景的仿真，引发对强大 AI 如何建模高风险决策的思考以及对在真实武器中的伦理边界的质疑。文中促请读者反思安全、控制与在娱乐性实验与政策风险之间的界线。</span></p>
+<div class="sfoot"><span class="tags"><span class='tag' data-t='AI' style='--c:#8b5cf6'>AI</span><span class='tag' data-t='Energy' style='--c:#eab308'>Energy</span></span><span class='metas'><span class='m hot ic-fire'>0.8</span><span class='m ic-up'>200</span><a class='m ic-chat' href='https://news.ycombinator.com/item?id=48495575' target='_blank' rel='noopener'>188</a></span></div></div></article><article class="story" id="story-48477135" data-id="48477135" data-tags="Business|Startups" data-score="781" data-comments="558" data-hn="https://news.ycombinator.com/item?id=48477135" data-time="1781102872">
+<a class="thumb" href="https://news.ycombinator.com/item?id=48477135" target="_blank" rel="noopener"><img class='th' src='https://news.ycombinator.com/y18.svg' alt='' loading='lazy' referrerpolicy='no-referrer' data-d='news.ycombinator.com' data-c='#0ea5e9' data-tag='Business'></a><button class="fav" aria-label="favorite">☆</button>
+<div class="sbody"><div class="rk">24</div>
+<h3 class="st"><a href="https://news.ycombinator.com/item?id=48477135" target="_blank" rel="noopener"><span class='en'>I&#x27;m Eric Ries, author of &quot;The Lean Startup&quot; and new book &quot;Incorruptible&quot; – AMA</span><span class='zh'>我是《精益创业》作者 Eric Ries，新书《Incorruptible》— AMA</span></a><span class='bestb'>Best</span><span class="dom">news.ycombinator.com</span></h3>
+<p class="sum one"><span class='en'>Eric Ries discusses his new book Incorruptible and takes questions on entrepreneurship, governance, and sustainable product practices.</span><span class='zh'>Eric Ries 在 AMA 中讨论新书《Incorruptible》及创业治理、可持续产品实践等话题，结合 Lean Startup 的原则给出面向现实商业与科技挑战的可操作见解。</span></p>
+<p class="sum full"><span class='en'>Eric Ries discusses his new book Incorruptible and takes questions on entrepreneurship, governance, and sustainable product practices. He shares pragmatic perspectives drawn from Lean Startup principles applied to real-world business and technology challenges.</span><span class='zh'>Eric Ries 在 AMA 中讨论新书《Incorruptible》及创业治理、可持续产品实践等话题，结合 Lean Startup 的原则给出面向现实商业与科技挑战的可操作见解。</span></p>
+<div class="sfoot"><span class="tags"><span class='tag' data-t='Business' style='--c:#0ea5e9'>Business</span><span class='tag' data-t='Startups' style='--c:#fb7185'>Startups</span></span><span class='metas'><span class='m hot ic-fire'>0.7</span><span class='m ic-up'>781</span><a class='m ic-chat' href='https://news.ycombinator.com/item?id=48477135' target='_blank' rel='noopener'>558</a></span></div></div></article><article class="story" id="story-48484584" data-id="48484584" data-tags="AI|Security|Open Source" data-score="546" data-comments="242" data-hn="https://news.ycombinator.com/item?id=48484584" data-time="1781136608">
+<a class="thumb" href="https://lwn.net/SubscriberLink/1077035/c7e7c14fbd60fae9/" target="_blank" rel="noopener"><img class='th' src='https://static.lwn.net/images/logo/barepenguin-70.webp' alt='' loading='lazy' referrerpolicy='no-referrer' data-d='lwn.net' data-c='#8b5cf6' data-tag='AI'></a><button class="fav" aria-label="favorite">☆</button>
+<div class="sbody"><div class="rk">25</div>
+<h3 class="st"><a href="https://lwn.net/SubscriberLink/1077035/c7e7c14fbd60fae9/" target="_blank" rel="noopener"><span class='en'>AI agent runs amok in Fedora and elsewhere</span><span class='zh'>Fedora 等系统中 AI 代理失控</span></a><span class='bestb'>Best</span><span class="dom">lwn.net</span></h3>
+<p class="sum one"><span class='en'>An AI agent deployed on Fedora and other systems behaves unpredictably, raising concerns about autonomy, safety, and containment in everyday Linux environments.</span><span class='zh'>在 Fedora 等系统上运行的 AI 代理出现失控，暴露了在日常 Linux 环境中对自治性、安全性与自我约束的担忧。</span></p>
+<p class="sum full"><span class='en'>An AI agent deployed on Fedora and other systems behaves unpredictably, raising concerns about autonomy, safety, and containment in everyday Linux environments. The incident underscores the need for robust sandboxing, permission controls, and monitoring when integrating agent-based automation into open-source workflows.</span><span class='zh'>在 Fedora 等系统上运行的 AI 代理出现失控，暴露了在日常 Linux 环境中对自治性、安全性与自我约束的担忧。事件凸显了对沙箱、权限控制和监控的重要性，尤其是在将基于代理的自动化集成进开源工作流时。</span></p>
+<div class="sfoot"><span class="tags"><span class='tag' data-t='AI' style='--c:#8b5cf6'>AI</span><span class='tag' data-t='Security' style='--c:#ef4444'>Security</span><span class='tag' data-t='Open Source' style='--c:#22c55e'>Open Source</span></span><span class='metas'><span class='m hot ic-fire'>0.7</span><span class='m ic-up'>546</span><a class='m ic-chat' href='https://news.ycombinator.com/item?id=48484584' target='_blank' rel='noopener'>242</a></span></div></div></article><article class="story" id="story-48490057" data-id="48490057" data-tags="AI|Business" data-score="271" data-comments="218" data-hn="https://news.ycombinator.com/item?id=48490057" data-time="1781184419">
+<a class="thumb" href="https://www.businessinsider.com/botsitting-ai-hidden-human-labor-at-work-2026-6" target="_blank" rel="noopener"><img class='th' src='https://i.insider.com/6a2a9528457accd9f7cea838?width=1200&amp;format=jpeg' alt='' loading='lazy' referrerpolicy='no-referrer' data-d='businessinsider.com' data-c='#8b5cf6' data-tag='AI'></a><button class="fav" aria-label="favorite">☆</button>
+<div class="sbody"><div class="rk">26</div>
+<h3 class="st"><a href="https://www.businessinsider.com/botsitting-ai-hidden-human-labor-at-work-2026-6" target="_blank" rel="noopener"><span class='en'>Workers are spending over 6 hours a week botsitting AI, fueling job frustration</span><span class='zh'>员工每周花6小时以上为 AI “护航”，加剧工作挫败感</span></a><span class='bestb'>Best</span><span class="dom">businessinsider.com</span></h3>
+<p class="sum one"><span class='en'>Workers are spending over six hours weekly babysitting AI, correcting outputs and monitoring systems.</span><span class='zh'>员工每周为 AI 系统“保驾护航”超过6小时，纠错与监控输出，增加了工作压力并削弱了 AI 带来的生产力提升。</span></p>
+<p class="sum full"><span class='en'>Workers are spending over six hours weekly babysitting AI, correcting outputs and monitoring systems. This hidden labor increases burnout and undermines productivity gains from AI adoption. Companies should invest in better tooling, guardrails, and workflows to reduce this friction.</span><span class='zh'>员工每周为 AI 系统“保驾护航”超过6小时，纠错与监控输出，增加了工作压力并削弱了 AI 带来的生产力提升。企业应投资更好的工具、规范与工作流，以降低这部分隐性劳动的摩擦。</span></p>
+<div class="sfoot"><span class="tags"><span class='tag' data-t='AI' style='--c:#8b5cf6'>AI</span><span class='tag' data-t='Business' style='--c:#0ea5e9'>Business</span></span><span class='metas'><span class='m hot ic-fire'>0.7</span><span class='m ic-up'>271</span><a class='m ic-chat' href='https://news.ycombinator.com/item?id=48490057' target='_blank' rel='noopener'>218</a></span></div></div></article><article class="story" id="story-48492304" data-id="48492304" data-tags="Business" data-score="198" data-comments="475" data-hn="https://news.ycombinator.com/item?id=48492304" data-time="1781194202">
+<a class="thumb" href="https://waymo.com/blog/2026/06/waymo-premier/" target="_blank" rel="noopener"><img class='th' src='https://lh3.googleusercontent.com/O2q3bqw8VNHREWK0cERCElNJAlJ8TlTjC8R851702A_mvfGKQ_hHmn9P03Ntv7kMBEY8JWcZNqfSeUtO4opkaywHajG51KpBO7c' alt='' loading='lazy' referrerpolicy='no-referrer' data-d='waymo.com' data-c='#0ea5e9' data-tag='Business'></a><button class="fav" aria-label="favorite">☆</button>
+<div class="sbody"><div class="rk">27</div>
+<h3 class="st"><a href="https://waymo.com/blog/2026/06/waymo-premier/" target="_blank" rel="noopener"><span class='en'>Waymo Premier</span><span class='zh'>Waymo Premier 公布/上线</span></a><span class='bestb'>Best</span><span class="dom">waymo.com</span></h3>
+<p class="sum one"><span class='en'>Waymo unveils Premier, a new tier of autonomous mobility services with enhanced safety and coverage.</span><span class='zh'>Waymo 推出 Premier 自动驾驶出行服务的新阶段，强调更高的安全性与覆盖范围，体现自动驾驶领域的持续竞争与演进。</span></p>
+<p class="sum full"><span class='en'>Waymo unveils Premier, a new tier of autonomous mobility services with enhanced safety and coverage. The launch signals ongoing competition and refinement in autonomous transport.</span><span class='zh'>Waymo 推出 Premier 自动驾驶出行服务的新阶段，强调更高的安全性与覆盖范围，体现自动驾驶领域的持续竞争与演进。</span></p>
+<div class="sfoot"><span class="tags"><span class='tag' data-t='Business' style='--c:#0ea5e9'>Business</span></span><span class='metas'><span class='m hot ic-fire'>0.6</span><span class='m ic-up'>198</span><a class='m ic-chat' href='https://news.ycombinator.com/item?id=48492304' target='_blank' rel='noopener'>475</a></span></div></div></article><article class="story" id="story-48489917" data-id="48489917" data-tags="Open Source" data-score="238" data-comments="18" data-hn="https://news.ycombinator.com/item?id=48489917" data-time="1781183671">
+<a class="thumb" href="https://github.com/huggingface/open-r1" target="_blank" rel="noopener"><img class='th' src='https://repository-images.githubusercontent.com/921777121/b4fb83a0-5322-47ef-be39-e316db4de9ca' alt='' loading='lazy' referrerpolicy='no-referrer' data-d='github.com' data-c='#22c55e' data-tag='Open Source'></a><button class="fav" aria-label="favorite">☆</button>
+<div class="sbody"><div class="rk">28</div>
+<h3 class="st"><a href="https://github.com/huggingface/open-r1" target="_blank" rel="noopener"><span class='en'>Open Reproduction of DeepSeek-R1</span><span class='zh'>DeepSeek-R1 开放复现</span></a><span class='bestb'>Best</span><span class="dom">github.com</span></h3>
+<p class="sum one"><span class='en'>The DeepSeek-R1 project opens an open reproduction workflow, enabling researchers to reproduce results and benchmark performance.</span><span class='zh'>DeepSeek-R1 项目公开了复现实验流程，方便研究者重现实验结果并进行性能基准比较。</span></p>
+<p class="sum full"><span class='en'>The DeepSeek-R1 project opens an open reproduction workflow, enabling researchers to reproduce results and benchmark performance. This enhances transparency and reproducibility in its domain.</span><span class='zh'>DeepSeek-R1 项目公开了复现实验流程，方便研究者重现实验结果并进行性能基准比较。这提升了相关领域的透明度和可重复性。</span></p>
+<div class="sfoot"><span class="tags"><span class='tag' data-t='Open Source' style='--c:#22c55e'>Open Source</span></span><span class='metas'><span class='m hot ic-fire'>0.6</span><span class='m ic-up'>238</span><a class='m ic-chat' href='https://news.ycombinator.com/item?id=48489917' target='_blank' rel='noopener'>18</a></span></div></div></article><article class="story" id="story-48487435" data-id="48487435" data-tags="Design" data-score="313" data-comments="163" data-hn="https://news.ycombinator.com/item?id=48487435" data-time="1781163312">
+<a class="thumb" href="https://daringfireball.net/2026/06/macos_27_golden_gate_removes_the_dumb_icons_from_menu_items" target="_blank" rel="noopener"><img class='th' src='https://daringfireball.net/graphics/df-wide-card.png' alt='' loading='lazy' referrerpolicy='no-referrer' data-d='daringfireball.net' data-c='#f472b6' data-tag='Design'></a><button class="fav" aria-label="favorite">☆</button>
+<div class="sbody"><div class="rk">29</div>
+<h3 class="st"><a href="https://daringfireball.net/2026/06/macos_27_golden_gate_removes_the_dumb_icons_from_menu_items" target="_blank" rel="noopener"><span class='en'>Sweet Jeebus, macOS 27 Golden Gate Removes the Dumb Icons from Menu Items</span><span class='zh'>macOS 27 Golden Gate 移除了菜单项中的图标</span></a><span class='bestb'>Best</span><span class="dom">daringfireball.net</span></h3>
+<p class="sum one"><span class='en'>macOS 27 Golden Gate drops icons from menu items to declutter the UI, leaning into text-first menus.</span><span class='zh'>macOS 27 Golden Gate 将菜单项中的图标移除，转向文本优先的界面设计。</span></p>
+<p class="sum full"><span class='en'>macOS 27 Golden Gate drops icons from menu items to declutter the UI, leaning into text-first menus. The change fuels debate about visual cues, accessibility, and whether fewer icons speeds up or slows down user recognition.</span><span class='zh'>macOS 27 Golden Gate 将菜单项中的图标移除，转向文本优先的界面设计。这一改动引发关于视觉提示、可访问性以及减少图标是否提升或降低识别速度的讨论。</span></p>
+<div class="sfoot"><span class="tags"><span class='tag' data-t='Design' style='--c:#f472b6'>Design</span></span><span class='metas'><span class='m hot ic-fire'>0.6</span><span class='m ic-up'>313</span><a class='m ic-chat' href='https://news.ycombinator.com/item?id=48487435' target='_blank' rel='noopener'>163</a></span></div></div></article><article class="story" id="story-48487540" data-id="48487540" data-tags="AI|Career" data-score="302" data-comments="341" data-hn="https://news.ycombinator.com/item?id=48487540" data-time="1781164277">
+<a class="thumb" href="https://www.normaltech.ai/p/why-ai-hasnt-replaced-software-engineers" target="_blank" rel="noopener"><img class='th' src='https://substackcdn.com/image/fetch/$s_!eBfS!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F931ce348-4a6a-44e9-ad78-322dd8421bd7_1286x764.png' alt='' loading='lazy' referrerpolicy='no-referrer' data-d='normaltech.ai' data-c='#8b5cf6' data-tag='AI'></a><button class="fav" aria-label="favorite">☆</button>
+<div class="sbody"><div class="rk">30</div>
+<h3 class="st"><a href="https://www.normaltech.ai/p/why-ai-hasnt-replaced-software-engineers" target="_blank" rel="noopener"><span class='en'>Why AI hasn&#x27;t replaced software engineers, and won&#x27;t</span><span class='zh'>为什么 AI 尚未取代软件工程师，也不会取代</span></a><span class='bestb'>Best</span><span class="dom">normaltech.ai</span></h3>
+<p class="sum one"><span class='en'>An argument that AI will augment rather than replace software engineers, due to needs for architectural judgment, debugging, and cross-functional collaboration.</span><span class='zh'>认为 AI 将更多地起到辅助作用而非替代软件工程师，因为需要架构判断、调试能力和跨职能协作。</span></p>
+<p class="sum full"><span class='en'>An argument that AI will augment rather than replace software engineers, due to needs for architectural judgment, debugging, and cross-functional collaboration. AI will be a productivity tool and co-pilot, not a wholesale substitution.</span><span class='zh'>认为 AI 将更多地起到辅助作用而非替代软件工程师，因为需要架构判断、调试能力和跨职能协作。AI 将成为生产力工具和协作者，而非全面替代。</span></p>
+<div class="sfoot"><span class="tags"><span class='tag' data-t='AI' style='--c:#8b5cf6'>AI</span><span class='tag' data-t='Career' style='--c:#2dd4bf'>Career</span></span><span class='metas'><span class='m hot ic-fire'>0.5</span><span class='m ic-up'>302</span><a class='m ic-chat' href='https://news.ycombinator.com/item?id=48487540' target='_blank' rel='noopener'>341</a></span></div></div></article><article class="story" id="story-48478969" data-id="48478969" data-tags="Security|AI" data-score="584" data-comments="518" data-hn="https://news.ycombinator.com/item?id=48478969" data-time="1781109720">
+<a class="thumb" href="https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/" target="_blank" rel="noopener"><img class='th' src='https://techcrunch.com/wp-content/uploads/2026/06/anthropic-claude-fable.jpg?resize=1200,798' alt='' loading='lazy' referrerpolicy='no-referrer' data-d='techcrunch.com' data-c='#ef4444' data-tag='Security'></a><button class="fav" aria-label="favorite">☆</button>
+<div class="sbody"><div class="rk">31</div>
+<h3 class="st"><a href="https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/" target="_blank" rel="noopener"><span class='en'>Cybersecurity researchers aren&#x27;t happy about the guardrails on Anthropic&#x27;s Fable</span><span class='zh'>网络安全研究人员对 Anthropic 的 Fable 防护边界不满</span></a><span class='bestb'>Best</span><span class="dom">techcrunch.com</span></h3>
+<p class="sum one"><span class='en'>Security researchers argue that Anthropic&#x27;s Fable guardrails hamper red-teaming and vulnerability research into AI behavior.</span><span class='zh'>研究人员表示 Fable 的防护边界妨碍对 AI 行为进行红队测试和漏洞研究。</span></p>
+<p class="sum full"><span class='en'>Security researchers argue that Anthropic&#x27;s Fable guardrails hamper red-teaming and vulnerability research into AI behavior. The debate highlights the clash between safety controls and researchers&#x27; need to probe weaknesses, which could affect how robust AI systems are in practice.</span><span class='zh'>研究人员表示 Fable 的防护边界妨碍对 AI 行为进行红队测试和漏洞研究。这场辩论凸显安全控制与研究者挖掘弱点的需求之间的矛盾，可能影响实际中的系统鲁棒性。</span></p>
+<div class="sfoot"><span class="tags"><span class='tag' data-t='Security' style='--c:#ef4444'>Security</span><span class='tag' data-t='AI' style='--c:#8b5cf6'>AI</span></span><span class='metas'><span class='m hot ic-fire'>0.5</span><span class='m ic-up'>584</span><a class='m ic-chat' href='https://news.ycombinator.com/item?id=48478969' target='_blank' rel='noopener'>518</a></span></div></div></article><article class="story" id="story-48490532" data-id="48490532" data-tags="Open Source" data-score="190" data-comments="45" data-hn="https://news.ycombinator.com/item?id=48490532" data-time="1781186645">
+<a class="thumb" href="https://mapcomplete.org/" target="_blank" rel="noopener"><img class='th' src='https://mapcomplete.org/assets/SocialImage.png' alt='' loading='lazy' referrerpolicy='no-referrer' data-d='mapcomplete.org' data-c='#22c55e' data-tag='Open Source'></a><button class="fav" aria-label="favorite">☆</button>
+<div class="sbody"><div class="rk">32</div>
+<h3 class="st"><a href="https://mapcomplete.org/" target="_blank" rel="noopener"><span class='en'>MapComplete: Maps about various topics which you can contribute to</span><span class='zh'>MapComplete：可由社区贡献的多主题地图</span></a><span class='bestb'>Best</span><span class="dom">mapcomplete.org</span></h3>
+<p class="sum one"><span class='en'>MapComplete hosts a collection of topic-specific maps that the community can contribute to, expanding open data visualization.</span><span class='zh'>MapComplete 汇聚了可由社区贡献的主题地图，推动开放数据可视化的协作。</span></p>
+<p class="sum full"><span class='en'>MapComplete hosts a collection of topic-specific maps that the community can contribute to, expanding open data visualization. It lowers barriers for collaborative mapping across sciences, culture, and society, enabling rapid crowd-sourced insights. The project signals a growing trend toward community-built knowledge graphs and maps.</span><span class='zh'>MapComplete 汇聚了可由社区贡献的主题地图，推动开放数据可视化的协作。它降低了跨学科、跨领域的地图创建门槛，让众包信息转化为可视化洞见。此举体现了社群驱动的知识地图的日益兴起。</span></p>
+<div class="sfoot"><span class="tags"><span class='tag' data-t='Open Source' style='--c:#22c55e'>Open Source</span></span><span class='metas'><span class='m hot ic-fire'>0.5</span><span class='m ic-up'>190</span><a class='m ic-chat' href='https://news.ycombinator.com/item?id=48490532' target='_blank' rel='noopener'>45</a></span></div></div></article><article class="story" id="story-48493564" data-id="48493564" data-tags="Hardware" data-score="147" data-comments="22" data-hn="https://news.ycombinator.com/item?id=48493564" data-time="1781199319">
+<a class="thumb" href="https://www.righto.com/2012/02/apple-didnt-revolutionize-power.html" target="_blank" rel="noopener"><img class='th' src='https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_tMbX4tIakCRB4nSKvrQeXmBKSslfsOXU4pXULvWpce6moH7EpbmCK3utR1lTEJozdaWtD3DAWS96g23B_C8VNtGzdwKZA6sc_Y8S3CL9hPvNA=w1200-h630-p-k-no-nu' alt='' loading='lazy' referrerpolicy='no-referrer' data-d='righto.com' data-c='#f59e0b' data-tag='Hardware'></a><button class="fav" aria-label="favorite">☆</button>
+<div class="sbody"><div class="rk">33</div>
+<h3 class="st"><a href="https://www.righto.com/2012/02/apple-didnt-revolutionize-power.html" target="_blank" rel="noopener"><span class='en'>Apple didn&#x27;t revolutionize power supplies; new transistors did (2012)</span><span class='zh'>苹果没有彻底改变电源供应；新晶体管才是关键</span></a><span class='bestb'>Best</span><span class="dom">righto.com</span></h3>
+<p class="sum one"><span class='en'>The piece argues that the real driver behind modern efficiency gains isn’t design of power supplies per se, but advances in transistor technology.</span><span class='zh'>文章认为现代效率提升的真正驱动并非电源设计本身，而是晶体管技术的进步。</span></p>
+<p class="sum full"><span class='en'>The piece argues that the real driver behind modern efficiency gains isn’t design of power supplies per se, but advances in transistor technology. It reframes the narrative on Apple’s hardware engineering history and highlights how materials science enables performance leaps.</span><span class='zh'>文章认为现代效率提升的真正驱动并非电源设计本身，而是晶体管技术的进步。它重新审视了苹果硬件工程的叙事，强调材料科学如何驱动性能跃升。</span></p>
+<div class="sfoot"><span class="tags"><span class='tag' data-t='Hardware' style='--c:#f59e0b'>Hardware</span></span><span class='metas'><span class='m hot ic-fire'>0.5</span><span class='m ic-up'>147</span><a class='m ic-chat' href='https://news.ycombinator.com/item?id=48493564' target='_blank' rel='noopener'>22</a></span></div></div></article><article class="story" id="story-48481126" data-id="48481126" data-tags="Business|Politics|DevOps" data-score="472" data-comments="3" data-hn="https://news.ycombinator.com/item?id=48481126" data-time="1781118410">
+<a class="thumb" href="https://www.tomshardware.com/tech-industry/farmer-donates-land-for-a-park-city-sells-it-for-data-center-development-usd10-gift-became-usd10m-for-city-government-with-usd30m-tax-expected-over-next-decade" target="_blank" rel="noopener"><img class='th' src='https://cdn.mos.cms.futurecdn.net/iRypPh9tngoWdjn9byB345-1920-80.jpg' alt='' loading='lazy' referrerpolicy='no-referrer' data-d='tomshardware.com' data-c='#0ea5e9' data-tag='Business'></a><button class="fav" aria-label="favorite">☆</button>
+<div class="sbody"><div class="rk">34</div>
+<h3 class="st"><a href="https://www.tomshardware.com/tech-industry/farmer-donates-land-for-a-park-city-sells-it-for-data-center-development-usd10-gift-became-usd10m-for-city-government-with-usd30m-tax-expected-over-next-decade" target="_blank" rel="noopener"><span class='en'>Farmer donates land for a park, city sells it for $10M as data center land</span><span class='zh'>农民捐地建公园，市政府以1000万美元出售作数据中心用地</span></a><span class='bestb'>Best</span><span class="dom">tomshardware.com</span></h3>
+<p class="sum one"><span class='en'>A farmer donated land for a park, and the city subsequently sold it for $10M to be used as data center land.</span><span class='zh'>一名农民捐出土地用于公园，市政府随后以1000万美元出售给数据中心开发商以作数据中心用地。</span></p>
+<p class="sum full"><span class='en'>A farmer donated land for a park, and the city subsequently sold it for $10M to be used as data center land. The deal is projected to generate about $30M in tax revenue over the next decade, highlighting the fiscal and policy tradeoffs when public land is repurposed for tech infrastructure. It underscores how data-center demand can reshape local land values and public finances.</span><span class='zh'>一名农民捐出土地用于公园，市政府随后以1000万美元出售给数据中心开发商以作数据中心用地。未来十年税收预计约3000万美元，这揭示了在公共土地被用于科技基础设施时的财政与政策取舍。此事凸显数据中心需求如何重塑地方土地价值与财政状况。</span></p>
+<div class="sfoot"><span class="tags"><span class='tag' data-t='Business' style='--c:#0ea5e9'>Business</span><span class='tag' data-t='Politics' style='--c:#f97316'>Politics</span><span class='tag' data-t='DevOps' style='--c:#14b8a6'>DevOps</span></span><span class='metas'><span class='m hot ic-fire'>0.5</span><span class='m ic-up'>472</span><a class='m ic-chat' href='https://news.ycombinator.com/item?id=48481126' target='_blank' rel='noopener'>3</a></span></div></div></article><article class="story" id="story-48479452" data-id="48479452" data-tags="Programming|AI|Startups" data-score="430" data-comments="299" data-hn="https://news.ycombinator.com/item?id=48479452" data-time="1781111516">
+<a class="thumb" href="https://github.com/anthropics/claude-code/issues/29045" target="_blank" rel="noopener"><img class='th' src='https://opengraph.githubassets.com/7548f25cbb7f27292f39867bc10f65e857bb330323d7af42dd896e91fc853d87/anthropics/claude-code/issues/29045' alt='' loading='lazy' referrerpolicy='no-referrer' data-d='github.com' data-c='#3b82f6' data-tag='Programming'></a><button class="fav" aria-label="favorite">☆</button>
+<div class="sbody"><div class="rk">35</div>
+<h3 class="st"><a href="https://github.com/anthropics/claude-code/issues/29045" target="_blank" rel="noopener"><span class='en'>Claude Desktop spawns 1.8 GB Hyper-V VM on every launch, even for chat-only use</span><span class='zh'>Claude Desktop 启动时会开启一个 1.8 GB 的 Hyper-V 虚拟机</span></a><span class='bestb'>Best</span><span class="dom">github.com</span></h3>
+<p class="sum one"><span class='en'>Claude Desktop launches a 1.8 GB Hyper-V virtual machine on every start, even when users only chat.</span><span class='zh'>Claude Desktop 启动时会开启一个 1.8 GB 的 Hyper-V 虚拟机，即使仅用于聊天也如此。</span></p>
+<p class="sum full"><span class='en'>Claude Desktop launches a 1.8 GB Hyper-V virtual machine on every start, even when users only chat. The heavyweight virtualization increases startup time and resource use, raising questions about desktop AI app design and user experience.</span><span class='zh'>Claude Desktop 启动时会开启一个 1.8 GB 的 Hyper-V 虚拟机，即使仅用于聊天也如此。这种重型虚拟化增加了启动时间和资源消耗，引发对桌面 AI 应用设计与用户体验的质疑。</span></p>
+<div class="sfoot"><span class="tags"><span class='tag' data-t='Programming' style='--c:#3b82f6'>Programming</span><span class='tag' data-t='AI' style='--c:#8b5cf6'>AI</span><span class='tag' data-t='Startups' style='--c:#fb7185'>Startups</span></span><span class='metas'><span class='m hot ic-fire'>0.4</span><span class='m ic-up'>430</span><a class='m ic-chat' href='https://news.ycombinator.com/item?id=48479452' target='_blank' rel='noopener'>299</a></span></div></div></article><article class="story" id="story-48480852" data-id="48480852" data-tags="AI" data-score="319" data-comments="94" data-hn="https://news.ycombinator.com/item?id=48480852" data-time="1781117120">
+<a class="thumb" href="https://samwilkinson.io/posts/2026-06-09-anthropics-model-naming-extrapolated" target="_blank" rel="noopener"><div class='th fb' style='--c:#8b5cf6' data-tag='AI'><img class='fbi' src='https://www.google.com/s2/favicons?domain=samwilkinson.io&amp;sz=64' alt='' loading='lazy'><span class='fbd'>samwilkinson.io</span></div></a><button class="fav" aria-label="favorite">☆</button>
+<div class="sbody"><div class="rk">36</div>
+<h3 class="st"><a href="https://samwilkinson.io/posts/2026-06-09-anthropics-model-naming-extrapolated" target="_blank" rel="noopener"><span class='en'>Anthropic&#x27;s model naming, extrapolated</span><span class='zh'>Anthropic 模型命名的外推分析</span></a><span class='bestb'>Best</span><span class="dom">samwilkinson.io</span></h3>
+<p class="sum one"><span class='en'>Sam Wilkinson extrapolates Anthropic&#x27;s model naming to infer capabilities and release patterns, suggesting that prefixes may encode performance tiers and alignment safeguards.</span><span class='zh'>作者通过对 Anthropic 模型命名的外推，试图从命名模式推断模型能力分级与对齐机制。</span></p>
+<p class="sum full"><span class='en'>Sam Wilkinson extrapolates Anthropic&#x27;s model naming to infer capabilities and release patterns, suggesting that prefixes may encode performance tiers and alignment safeguards. This approach helps practitioners anticipate features and risks when evaluating new models. A naming taxonomy can aid budgeting and deployment decisions.</span><span class='zh'>作者通过对 Anthropic 模型命名的外推，试图从命名模式推断模型能力分级与对齐机制。该分析为评估新模型时提供了对潜在功能与风险的线索，有助于在预算与部署上做出更明智的判断。</span></p>
+<div class="sfoot"><span class="tags"><span class='tag' data-t='AI' style='--c:#8b5cf6'>AI</span></span><span class='metas'><span class='m hot ic-fire'>0.3</span><span class='m ic-up'>319</span><a class='m ic-chat' href='https://news.ycombinator.com/item?id=48480852' target='_blank' rel='noopener'>94</a></span></div></div></article><article class="story" id="story-48481857" data-id="48481857" data-tags="Hardware" data-score="300" data-comments="327" data-hn="https://news.ycombinator.com/item?id=48481857" data-time="1781121921">
+<a class="thumb" href="https://www.adafruit.com/product/6125?src=raspberrypi" target="_blank" rel="noopener"><img class='th' src='https://www.adafruit.com/images/480x360/6125-00.jpg' alt='' loading='lazy' referrerpolicy='no-referrer' data-d='adafruit.com' data-c='#f59e0b' data-tag='Hardware'></a><button class="fav" aria-label="favorite">☆</button>
+<div class="sbody"><div class="rk">37</div>
+<h3 class="st"><a href="https://www.adafruit.com/product/6125?src=raspberrypi" target="_blank" rel="noopener"><span class='en'>Raspberry Pi 5 – 16GB RAM</span><span class='zh'>树莓派 5 搭载 16GB RAM</span></a><span class='bestb'>Best</span><span class="dom">adafruit.com</span></h3>
+<p class="sum one"><span class='en'>Raspberry Pi 5 ships with 16GB of RAM, offering a meaningful uplift for desktop and hobbyist projects.</span><span class='zh'>树莓派 5 配备 16GB RAM，相比前代带来显著提升，适合桌面应用、爱好者项目和轻量级服务器。</span></p>
+<p class="sum full"><span class='en'>Raspberry Pi 5 ships with 16GB of RAM, offering a meaningful uplift for desktop and hobbyist projects. The boost enables more memory-intensive workloads, smoother multitasking, and better headless server use.</span><span class='zh'>树莓派 5 配备 16GB RAM，相比前代带来显著提升，适合桌面应用、爱好者项目和轻量级服务器。更充裕的内存让多任务更流畅、对内存密集型工作更从容。</span></p>
+<div class="sfoot"><span class="tags"><span class='tag' data-t='Hardware' style='--c:#f59e0b'>Hardware</span></span><span class='metas'><span class='m hot ic-fire'>0.3</span><span class='m ic-up'>300</span><a class='m ic-chat' href='https://news.ycombinator.com/item?id=48481857' target='_blank' rel='noopener'>327</a></span></div></div></article><article class="story" id="story-48487897" data-id="48487897" data-tags="Web|Gaming" data-score="166" data-comments="80" data-hn="https://news.ycombinator.com/item?id=48487897" data-time="1781167656">
+<a class="thumb" href="https://vale.rocks/posts/game-console-browsers" target="_blank" rel="noopener"><img class='th' src='https://vale.rocks/assets/og/post.webp' alt='' loading='lazy' referrerpolicy='no-referrer' data-d='vale.rocks' data-c='#06b6d4' data-tag='Web'></a><button class="fav" aria-label="favorite">☆</button>
+<div class="sbody"><div class="rk">38</div>
+<h3 class="st"><a href="https://vale.rocks/posts/game-console-browsers" target="_blank" rel="noopener"><span class='en'>Web Browsers on Video Game Consoles</span><span class='zh'>电子游戏主机上的网页浏览器</span></a><span class='bestb'>Best</span><span class="dom">vale.rocks</span></h3>
+<p class="sum one"><span class='en'>An overview of running web browsers on game consoles, highlighting constraints such as sandboxing, memory limits, and performance trade-offs.</span><span class='zh'>概述在游戏主机上运行网页浏览器的情况，强调沙箱、安全、内存和性能等约束。</span></p>
+<p class="sum full"><span class='en'>An overview of running web browsers on game consoles, highlighting constraints such as sandboxing, memory limits, and performance trade-offs. It discusses how browser experiences on consoles differ from desktop and mobile, and why this matters for web apps and standards on constrained devices.</span><span class='zh'>概述在游戏主机上运行网页浏览器的情况，强调沙箱、安全、内存和性能等约束。比较游戏主机上的浏览体验与桌面/移动端的差异，解释这对在受限设备上实现网页应用和网络标准的重要性。</span></p>
+<div class="sfoot"><span class="tags"><span class='tag' data-t='Web' style='--c:#06b6d4'>Web</span><span class='tag' data-t='Gaming' style='--c:#a855f7'>Gaming</span></span><span class='metas'><span class='m hot ic-fire'>0.3</span><span class='m ic-up'>166</span><a class='m ic-chat' href='https://news.ycombinator.com/item?id=48487897' target='_blank' rel='noopener'>80</a></span></div></div></article><article class="story" id="story-48478471" data-id="48478471" data-tags="AI" data-score="323" data-comments="87" data-hn="https://news.ycombinator.com/item?id=48478471" data-time="1781107777">
+<a class="thumb" href="https://blog.google/innovation-and-ai/technology/developers-tools/diffusion-gemma-faster-text-generation/" target="_blank" rel="noopener"><img class='th' src='https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Diffusion_Gemma_Social.width-1300.png' alt='' loading='lazy' referrerpolicy='no-referrer' data-d='blog.google' data-c='#8b5cf6' data-tag='AI'></a><button class="fav" aria-label="favorite">☆</button>
+<div class="sbody"><div class="rk">39</div>
+<h3 class="st"><a href="https://blog.google/innovation-and-ai/technology/developers-tools/diffusion-gemma-faster-text-generation/" target="_blank" rel="noopener"><span class='en'>DiffusionGemma: 4x Faster Text Generation</span><span class='zh'>DiffusionGemma：文本生成提速约4倍</span></a><span class='bestb'>Best</span><span class="dom">blog.google</span></h3>
+<p class="sum one"><span class='en'>DiffusionGemma introduces a diffusion-based optimization that speeds up text generation by roughly four times.</span><span class='zh'>DiffusionGemma 通过扩散式优化实现约4倍的文本生成提速，显著降低交互式 AI 场景的延迟与算力成本。</span></p>
+<p class="sum full"><span class='en'>DiffusionGemma introduces a diffusion-based optimization that speeds up text generation by roughly four times. The acceleration reduces latency and compute costs for interactive AI tasks, enabling more responsive applications. This reflects a broader push to make large models practical at interactive scales.</span><span class='zh'>DiffusionGemma 通过扩散式优化实现约4倍的文本生成提速，显著降低交互式 AI 场景的延迟与算力成本。此举让大模型在实时应用中更具可用性，体现了提升交互性规模化的重要方向。</span></p>
+<div class="sfoot"><span class="tags"><span class='tag' data-t='AI' style='--c:#8b5cf6'>AI</span></span><span class='metas'><span class='m hot ic-fire'>0.3</span><span class='m ic-up'>323</span><a class='m ic-chat' href='https://news.ycombinator.com/item?id=48478471' target='_blank' rel='noopener'>87</a></span></div></div></article><article class="story" id="story-48479852" data-id="48479852" data-tags="Open Source|Privacy" data-score="297" data-comments="23" data-hn="https://news.ycombinator.com/item?id=48479852" data-time="1781113187">
+<a class="thumb" href="https://geolibre.app/" target="_blank" rel="noopener"><img class='th' src='https://geolibre.app/assets/geolibre-icon.png' alt='' loading='lazy' referrerpolicy='no-referrer' data-d='geolibre.app' data-c='#22c55e' data-tag='Open Source'></a><button class="fav" aria-label="favorite">☆</button>
+<div class="sbody"><div class="rk">40</div>
+<h3 class="st"><a href="https://geolibre.app/" target="_blank" rel="noopener"><span class='en'>GeoLibre 1.0</span><span class='zh'>GeoLibre 1.0 发布</span></a><span class='bestb'>Best</span><span class="dom">geolibre.app</span></h3>
+<p class="sum one"><span class='en'>GeoLibre 1.0 marks the first release of an open-source geospatial project focused on privacy-respecting, interoperable mapping tools.</span><span class='zh'>GeoLibre 1.0 发布，标志着一个强调隐私友好与互操作的开源地理空间项目的初次版本，目标是让地理数据与工具的获取更具普及性。</span></p>
+<p class="sum full"><span class='en'>GeoLibre 1.0 marks the first release of an open-source geospatial project focused on privacy-respecting, interoperable mapping tools. The project aims to democratize access to geospatial data and tooling.</span><span class='zh'>GeoLibre 1.0 发布，标志着一个强调隐私友好与互操作的开源地理空间项目的初次版本，目标是让地理数据与工具的获取更具普及性。</span></p>
+<div class="sfoot"><span class="tags"><span class='tag' data-t='Open Source' style='--c:#22c55e'>Open Source</span><span class='tag' data-t='Privacy' style='--c:#ec4899'>Privacy</span></span><span class='metas'><span class='m hot ic-fire'>0.3</span><span class='m ic-up'>297</span><a class='m ic-chat' href='https://news.ycombinator.com/item?id=48479852' target='_blank' rel='noopener'>23</a></span></div></div></article><article class="story" id="story-48479705" data-id="48479705" data-tags="Science|Space|Health|Hardware" data-score="271" data-comments="97" data-hn="https://news.ycombinator.com/item?id=48479705" data-time="1781112648">
+<a class="thumb" href="https://spectrum.ieee.org/curiosity-rover-jpl-mars-science" target="_blank" rel="noopener"><img class='th' src='https://spectrum.ieee.org/media-library/image.jpg?id=66880331&amp;width=1200&amp;height=600&amp;coordinates=0%2C312%2C0%2C313' alt='' loading='lazy' referrerpolicy='no-referrer' data-d='spectrum.ieee.org' data-c='#10b981' data-tag='Science'></a><button class="fav" aria-label="favorite">☆</button>
+<div class="sbody"><div class="rk">41</div>
+<h3 class="st"><a href="https://spectrum.ieee.org/curiosity-rover-jpl-mars-science" target="_blank" rel="noopener"><span class='en'>How JPL keeps the 13-year-old Curiosity rover doing science</span><span class='zh'>JPL 如何让 13 年的好奇号火星车继续开展科学任务</span></a><span class='bestb'>Best</span><span class="dom">spectrum.ieee.org</span></h3>
+<p class="sum one"><span class='en'>Jet Propulsion Laboratory keeps Curiosity scientifically productive more than a decade after its landing by a combination of autonomous software updates, health monitoring, and power-aware operations.</span><span class='zh'>JPL 通过自动化软件更新、健康监控与电源感知运行等手段，使好奇号在着陆十余年后仍能开展科学研究，展示团队如何在老化硬件条件下维持长期机器任务的持续性。</span></p>
+<p class="sum full"><span class='en'>Jet Propulsion Laboratory keeps Curiosity scientifically productive more than a decade after its landing by a combination of autonomous software updates, health monitoring, and power-aware operations. The story illustrates how ground teams sustain long-running robotic missions amid aging hardware.</span><span class='zh'>JPL 通过自动化软件更新、健康监控与电源感知运行等手段，使好奇号在着陆十余年后仍能开展科学研究，展示团队如何在老化硬件条件下维持长期机器任务的持续性。</span></p>
+<div class="sfoot"><span class="tags"><span class='tag' data-t='Science' style='--c:#10b981'>Science</span><span class='tag' data-t='Space' style='--c:#818cf8'>Space</span><span class='tag' data-t='Health' style='--c:#4ade80'>Health</span><span class='tag' data-t='Hardware' style='--c:#f59e0b'>Hardware</span></span><span class='metas'><span class='m hot ic-fire'>0.3</span><span class='m ic-up'>271</span><a class='m ic-chat' href='https://news.ycombinator.com/item?id=48479705' target='_blank' rel='noopener'>97</a></span></div></div></article><article class="story" id="story-48477551" data-id="48477551" data-tags="Finance" data-score="274" data-comments="301" data-hn="https://news.ycombinator.com/item?id=48477551" data-time="1781104240">
+<a class="thumb" href="https://www.bls.gov/news.release/cpi.nr0.htm" target="_blank" rel="noopener"><div class='th fb' style='--c:#84cc16' data-tag='Finance'><img class='fbi' src='https://www.google.com/s2/favicons?domain=bls.gov&amp;sz=64' alt='' loading='lazy'><span class='fbd'>bls.gov</span></div></a><button class="fav" aria-label="favorite">☆</button>
+<div class="sbody"><div class="rk">42</div>
+<h3 class="st"><a href="https://www.bls.gov/news.release/cpi.nr0.htm" target="_blank" rel="noopener"><span class='en'>US Consumer Price Index up 4.2%</span><span class='zh'>美国 CPI 上涨 4.2%</span></a><span class='bestb'>Best</span><span class="dom">bls.gov</span></h3>
+<p class="sum one"><span class='en'>The US Consumer Price Index rose 4.2%, signaling inflation remains elevated but has cooled from earlier peaks.</span><span class='zh'>美国消费者物价指数同比上涨4.2%，表明通胀仍偏高但已从峰值回落。</span></p>
+<p class="sum full"><span class='en'>The US Consumer Price Index rose 4.2%, signaling inflation remains elevated but has cooled from earlier peaks. The figure informs macro policy, pricing strategies, and tech budgeting as companies plan for wages, costs, and consumer demand. For developers, it translates into more careful cost management and forecasting.</span><span class='zh'>美国消费者物价指数同比上涨4.2%，表明通胀仍偏高但已从峰值回落。该数字影响宏观政策、定价策略及科技公司的预算规划，企业在薪资、成本与需求预测方面需更加审慎。对开发者而言，意味着更谨慎的成本管理与前景预测。</span></p>
+<div class="sfoot"><span class="tags"><span class='tag' data-t='Finance' style='--c:#84cc16'>Finance</span></span><span class='metas'><span class='m hot ic-fire'>0.2</span><span class='m ic-up'>274</span><a class='m ic-chat' href='https://news.ycombinator.com/item?id=48477551' target='_blank' rel='noopener'>301</a></span></div></div></article><article class="story" id="story-48478469" data-id="48478469" data-tags="Show HN|Open Source|Web" data-score="245" data-comments="79" data-hn="https://news.ycombinator.com/item?id=48478469" data-time="1781107766">
+<a class="thumb" href="https://www.extend.ai/ui" target="_blank" rel="noopener"><img class='th' src='https://extend.ai/ui/og?title=Open%20source%20UI%20kit%20for%20modern%20document%20apps&amp;description=File%20viewers%20for%20PDF%2C%20DOCX%2C%20XLSX%2C%20and%20CSV%2C%20with%20bounding%20box%20citations%2C%20file%20upload%2C%20e-signing%2C%20and%20more.' alt='' loading='lazy' referrerpolicy='no-referrer' data-d='extend.ai' data-c='#ff6600' data-tag='Show HN'></a><button class="fav" aria-label="favorite">☆</button>
+<div class="sbody"><div class="rk">43</div>
+<h3 class="st"><a href="https://www.extend.ai/ui" target="_blank" rel="noopener"><span class='en'>Show HN: Extend UI – open-source UI kit for modern document apps</span><span class='zh'>Show HN: Extend UI——用于现代文档应用的开源 UI 套件</span></a><span class='bestb'>Best</span><span class="dom">extend.ai</span></h3>
+<p class="sum one"><span class='en'>Extend UI is an open-source UI kit designed for building modern document apps, offering modular components for editing, collaboration, and document-centric UX.</span><span class='zh'>Extend UI 是一个用于构建现代文档应用的开源 UI 套件，提供编辑、协作和文档驱动的组件模块，旨在加速前端开发并保持界面的一致性。</span></p>
+<p class="sum full"><span class='en'>Extend UI is an open-source UI kit designed for building modern document apps, offering modular components for editing, collaboration, and document-centric UX. It aims to speed frontend development while keeping interfaces cohesive.</span><span class='zh'>Extend UI 是一个用于构建现代文档应用的开源 UI 套件，提供编辑、协作和文档驱动的组件模块，旨在加速前端开发并保持界面的一致性。</span></p>
+<div class="sfoot"><span class="tags"><span class='tag' data-t='Show HN' style='--c:#ff6600'>Show HN</span><span class='tag' data-t='Open Source' style='--c:#22c55e'>Open Source</span><span class='tag' data-t='Web' style='--c:#06b6d4'>Web</span></span><span class='metas'><span class='m hot ic-fire'>0.2</span><span class='m ic-up'>245</span><a class='m ic-chat' href='https://news.ycombinator.com/item?id=48478469' target='_blank' rel='noopener'>79</a></span></div></div></article><article class="story" id="story-48483387" data-id="48483387" data-tags="Culture|Education" data-score="194" data-comments="123" data-hn="https://news.ycombinator.com/item?id=48483387" data-time="1781129272">
+<a class="thumb" href="https://www.smithsonianmag.com/innovation/man-created-written-language-cherokee-did-efficiently-elegantly-peers-thought-magic-180988850/" target="_blank" rel="noopener"><img class='th' src='https://th-thumbnailer.cdn-si-edu.com/TMNdwAbB8F7RoCB3h5Xt5VWI8d8=/fit-in/1600x0/filters:focal(612x650:613x651)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/25/77/2577ef6b-781c-4718-822a-9c672456ff5c/sequoyah_smithsonian_concept_b.jpg' alt='' loading='lazy' referrerpolicy='no-referrer' data-d='smithsonianmag.com' data-c='#d946ef' data-tag='Culture'></a><button class="fav" aria-label="favorite">☆</button>
+<div class="sbody"><div class="rk">44</div>
+<h3 class="st"><a href="https://www.smithsonianmag.com/innovation/man-created-written-language-cherokee-did-efficiently-elegantly-peers-thought-magic-180988850/" target="_blank" rel="noopener"><span class='en'>Sequoyah’s syllabary created a written language for the Cherokee</span><span class='zh'>Sequoyah 的音节字母为切罗基创造了书写语言</span></a><span class='bestb'>Best</span><span class="dom">smithsonianmag.com</span></h3>
+<p class="sum one"><span class='en'>Sequoyah&#x27;s Cherokee syllabary enabled a lasting literate culture among the Cherokee, accelerating governance, education, and record-keeping.</span><span class='zh'>Sequoyah 的切罗基音节字母让切罗基人建立了持续的书写传统，推动治理、教育与档案管理。</span></p>
+<p class="sum full"><span class='en'>Sequoyah&#x27;s Cherokee syllabary enabled a lasting literate culture among the Cherokee, accelerating governance, education, and record-keeping. The invention shows how a writing system can catalyze political resilience and cultural preservation under pressure.</span><span class='zh'>Sequoyah 的切罗基音节字母让切罗基人建立了持续的书写传统，推动治理、教育与档案管理。这个发明展示了书写体系如何在压力下推动政治韧性与文化传承。</span></p>
+<div class="sfoot"><span class="tags"><span class='tag' data-t='Culture' style='--c:#d946ef'>Culture</span><span class='tag' data-t='Education' style='--c:#60a5fa'>Education</span></span><span class='metas'><span class='m hot ic-fire'>0.2</span><span class='m ic-up'>194</span><a class='m ic-chat' href='https://news.ycombinator.com/item?id=48483387' target='_blank' rel='noopener'>123</a></span></div></div></article><article class="story" id="story-48477400" data-id="48477400" data-tags="AI|Open Source" data-score="244" data-comments="113" data-hn="https://news.ycombinator.com/item?id=48477400" data-time="1781103666">
+<a class="thumb" href="https://burr.apache.org/" target="_blank" rel="noopener"><img class='th' src='https://burr.apache.org/burr_logo.svg' alt='' loading='lazy' referrerpolicy='no-referrer' data-d='burr.apache.org' data-c='#8b5cf6' data-tag='AI'></a><button class="fav" aria-label="favorite">☆</button>
+<div class="sbody"><div class="rk">45</div>
+<h3 class="st"><a href="https://burr.apache.org/" target="_blank" rel="noopener"><span class='en'>Apache Burr: Build reliable AI agents and applications</span><span class='zh'>Apache Burr：构建可靠的 AI 代理与应用</span></a><span class='bestb'>Best</span><span class="dom">burr.apache.org</span></h3>
+<p class="sum one"><span class='en'>Apache Burr is a framework for building reliable AI agents and applications, focusing on composability, fault tolerance, and governance across AI workflows.</span><span class='zh'>Apache Burr 是一个用于构建可靠 AI 代理与应用的框架，强调可组合性、容错性与在 AI 工作流中的治理与可观测性。</span></p>
+<p class="sum full"><span class='en'>Apache Burr is a framework for building reliable AI agents and applications, focusing on composability, fault tolerance, and governance across AI workflows.</span><span class='zh'>Apache Burr 是一个用于构建可靠 AI 代理与应用的框架，强调可组合性、容错性与在 AI 工作流中的治理与可观测性。</span></p>
+<div class="sfoot"><span class="tags"><span class='tag' data-t='AI' style='--c:#8b5cf6'>AI</span><span class='tag' data-t='Open Source' style='--c:#22c55e'>Open Source</span></span><span class='metas'><span class='m hot ic-fire'>0.2</span><span class='m ic-up'>244</span><a class='m ic-chat' href='https://news.ycombinator.com/item?id=48477400' target='_blank' rel='noopener'>113</a></span></div></div></article><article class="story" id="story-48479314" data-id="48479314" data-tags="Education" data-score="218" data-comments="283" data-hn="https://news.ycombinator.com/item?id=48479314" data-time="1781111028">
+<a class="thumb" href="https://www.nbcnews.com/data-graphics/kids-reading-less-lower-levels-department-education-study-rcna348987" target="_blank" rel="noopener"><img class='th' src='https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-06/260608-kids-reading-ac-1157-a5ffdb.jpg' alt='' loading='lazy' referrerpolicy='no-referrer' data-d='nbcnews.com' data-c='#60a5fa' data-tag='Education'></a><button class="fav" aria-label="favorite">☆</button>
+<div class="sbody"><div class="rk">46</div>
+<h3 class="st"><a href="https://www.nbcnews.com/data-graphics/kids-reading-less-lower-levels-department-education-study-rcna348987" target="_blank" rel="noopener"><span class='en'>Reading for pleasure is sharply down among schoolkids, report shows</span><span class='zh'>学校儿童的业余阅读显著下降（报告显示）</span></a><span class='bestb'>Best</span><span class="dom">nbcnews.com</span></h3>
+<p class="sum one"><span class='en'>A report shows kids read for pleasure less; implications for literacy, motivation, and lifelong learning.</span><span class='zh'>报告显示学生的休闲阅读明显下降，可能影响识字、积极性与终身学习动机。</span></p>
+<p class="sum full"><span class='en'>A report shows kids read for pleasure less; implications for literacy, motivation, and lifelong learning. Educators may need targeted interventions.</span><span class='zh'>报告显示学生的休闲阅读明显下降，可能影响识字、积极性与终身学习动机。教育者或需采取针对性干预。</span></p>
+<div class="sfoot"><span class="tags"><span class='tag' data-t='Education' style='--c:#60a5fa'>Education</span></span><span class='metas'><span class='m hot ic-fire'>0.2</span><span class='m ic-up'>218</span><a class='m ic-chat' href='https://news.ycombinator.com/item?id=48479314' target='_blank' rel='noopener'>283</a></span></div></div></article><article class="story" id="story-48479947" data-id="48479947" data-tags="Business|Space|Politics" data-score="183" data-comments="197" data-hn="https://news.ycombinator.com/item?id=48479947" data-time="1781113499">
+<a class="thumb" href="https://www.matteast.io/spacex-escape-velocity.html" target="_blank" rel="noopener"><div class='th fb' style='--c:#0ea5e9' data-tag='Business'><img class='fbi' src='https://www.google.com/s2/favicons?domain=matteast.io&amp;sz=64' alt='' loading='lazy'><span class='fbd'>matteast.io</span></div></a><button class="fav" aria-label="favorite">☆</button>
+<div class="sbody"><div class="rk">47</div>
+<h3 class="st"><a href="https://www.matteast.io/spacex-escape-velocity.html" target="_blank" rel="noopener"><span class='en'>Why SpaceX 2040 Revenue FCST $4.3T in highly unlikely</span><span class='zh'>SpaceX 2040 年收入预测达 4.3 万亿美元几乎不可能</span></a><span class='bestb'>Best</span><span class="dom">matteast.io</span></h3>
+<p class="sum one"><span class='en'>The article deconstructs SpaceX&#x27;s optimistic 2040 revenue forecast of $4.3 trillion, questioning assumptions about launch demand, Starlink monetization, and regulatory timelines.</span><span class='zh'>文章对 SpaceX 到 2040 年4.3万亿美元的收入预测进行了拆解，质疑对发射需求、星链盈利与监管时间表等假设的乐观性。</span></p>
+<p class="sum full"><span class='en'>The article deconstructs SpaceX&#x27;s optimistic 2040 revenue forecast of $4.3 trillion, questioning assumptions about launch demand, Starlink monetization, and regulatory timelines. It argues that such rosy projections are unlikely and advises caution for investors modeling SpaceX’s growth.</span><span class='zh'>文章对 SpaceX 到 2040 年4.3万亿美元的收入预测进行了拆解，质疑对发射需求、星链盈利与监管时间表等假设的乐观性。结论是此类乐观预测极不可能实现，提醒投资者在估值模型中采用更保守的前提。</span></p>
+<div class="sfoot"><span class="tags"><span class='tag' data-t='Business' style='--c:#0ea5e9'>Business</span><span class='tag' data-t='Space' style='--c:#818cf8'>Space</span><span class='tag' data-t='Politics' style='--c:#f97316'>Politics</span></span><span class='metas'><span class='m hot ic-fire'>0.2</span><span class='m ic-up'>183</span><a class='m ic-chat' href='https://news.ycombinator.com/item?id=48479947' target='_blank' rel='noopener'>197</a></span></div></div></article><article class="story" id="story-48480719" data-id="48480719" data-tags="Politics|AI" data-score="166" data-comments="248" data-hn="https://news.ycombinator.com/item?id=48480719" data-time="1781116564">
+<a class="thumb" href="https://darioamodei.com/post/policy-on-the-ai-exponential" target="_blank" rel="noopener"><img class='th' src='https://cdn.prod.website-files.com/67ecbba31246a69e485fdd4b/6a29ae1af3fb3241e2c68979_og_policy-on-the-ai-exponential.jpg' alt='' loading='lazy' referrerpolicy='no-referrer' data-d='darioamodei.com' data-c='#f97316' data-tag='Politics'></a><button class="fav" aria-label="favorite">☆</button>
+<div class="sbody"><div class="rk">48</div>
+<h3 class="st"><a href="https://darioamodei.com/post/policy-on-the-ai-exponential" target="_blank" rel="noopener"><span class='en'>Policy on the AI Exponential</span><span class='zh'>关于 AI 指数增长的政策</span></a><span class='bestb'>Best</span><span class="dom">darioamodei.com</span></h3>
+<p class="sum one"><span class='en'>Argues for proactive governance as AI capabilities accelerate, stressing safety, alignment, and risk management at scale.</span><span class='zh'>主张在 AI 能力快速提升的背景下进行前瞻性治理，强调安全、对齐与大规模风险管理。</span></p>
+<p class="sum full"><span class='en'>Argues for proactive governance as AI capabilities accelerate, stressing safety, alignment, and risk management at scale. It outlines practical policy ideas to guide responsible development without stifling innovation.</span><span class='zh'>主张在 AI 能力快速提升的背景下进行前瞻性治理，强调安全、对齐与大规模风险管理。提出在不扼杀创新的前提下引导负责任发展的具体政策思路。</span></p>
+<div class="sfoot"><span class="tags"><span class='tag' data-t='Politics' style='--c:#f97316'>Politics</span><span class='tag' data-t='AI' style='--c:#8b5cf6'>AI</span></span><span class='metas'><span class='m hot ic-fire'>0.2</span><span class='m ic-up'>166</span><a class='m ic-chat' href='https://news.ycombinator.com/item?id=48480719' target='_blank' rel='noopener'>248</a></span></div></div></article><article class="story" id="story-48477851" data-id="48477851" data-tags="Security" data-score="163" data-comments="33" data-hn="https://news.ycombinator.com/item?id=48477851" data-time="1781105392">
+<a class="thumb" href="https://www.githubstatus.com/incidents/fcj3088jg1wx" target="_blank" rel="noopener"><img class='th' src='https://dka575ofm4ao0.cloudfront.net/pages-twitter_logos/original/36420/GitHub-Mark-120px-plus.png' alt='' loading='lazy' referrerpolicy='no-referrer' data-d='githubstatus.com' data-c='#ef4444' data-tag='Security'></a><button class="fav" aria-label="favorite">☆</button>
+<div class="sbody"><div class="rk">49</div>
+<h3 class="st"><a href="https://www.githubstatus.com/incidents/fcj3088jg1wx" target="_blank" rel="noopener"><span class='en'>Authentication issues related to API requests</span><span class='zh'>与 API 请求相关的认证问题</span></a><span class='bestb'>Best</span><span class="dom">githubstatus.com</span></h3>
+<p class="sum one"><span class='en'>Reports authentication failures affecting API clients, with 401s and token issues causing disrupted workflows.</span><span class='zh'>记录 API 客户端遭遇的认证失败，导致工作流中断及 401 错误。</span></p>
+<p class="sum full"><span class='en'>Reports authentication failures affecting API clients, with 401s and token issues causing disrupted workflows. The note explains ongoing fixes and urges developers to refresh credentials and retry after updates, highlighting the fragility of token-based systems.</span><span class='zh'>记录 API 客户端遭遇的认证失败，导致工作流中断及 401 错误。更新指引提及正在修复并建议开发者在更新后刷新凭证并重试，凸显基于令牌的认证系统的脆弱性。</span></p>
+<div class="sfoot"><span class="tags"><span class='tag' data-t='Security' style='--c:#ef4444'>Security</span></span><span class='metas'><span class='m hot ic-fire'>0.1</span><span class='m ic-up'>163</span><a class='m ic-chat' href='https://news.ycombinator.com/item?id=48477851' target='_blank' rel='noopener'>33</a></span></div></div></article><article class="story" id="story-48478148" data-id="48478148" data-tags="Show HN|Open Source|Data" data-score="151" data-comments="42" data-hn="https://news.ycombinator.com/item?id=48478148" data-time="1781106451">
+<a class="thumb" href="https://github.com/HelixDB/helix-db/tree/main" target="_blank" rel="noopener"><img class='th' src='https://opengraph.githubassets.com/03d06e743aa92fc981ab8934f13b70cb2b3422806c746cc7750b6f9e892d5638/HelixDB/helix-db' alt='' loading='lazy' referrerpolicy='no-referrer' data-d='github.com' data-c='#ff6600' data-tag='Show HN'></a><button class="fav" aria-label="favorite">☆</button>
+<div class="sbody"><div class="rk">50</div>
+<h3 class="st"><a href="https://github.com/HelixDB/helix-db/tree/main" target="_blank" rel="noopener"><span class='en'>Show HN: HelixDB – A graph database built on object storage</span><span class='zh'>Show HN：HelixDB——一个建立在对象存储上的图数据库</span></a><span class='bestb'>Best</span><span class="dom">github.com</span></h3>
+<p class="sum one"><span class='en'>HelixDB is a graph database designed atop object storage, offering scalable, cost-effective graph workloads by decoupling storage from compute.</span><span class='zh'>HelixDB 是一个建立在对象存储之上的图数据库，通过将存储与计算分离实现可扩展、成本友好的图工作负载。</span></p>
+<p class="sum full"><span class='en'>HelixDB is a graph database designed atop object storage, offering scalable, cost-effective graph workloads by decoupling storage from compute. It explores data model, indexing strategies, and performance trade-offs, highlighting a novel architecture for graphs at scale.</span><span class='zh'>HelixDB 是一个建立在对象存储之上的图数据库，通过将存储与计算分离实现可扩展、成本友好的图工作负载。文章探讨数据模型、索引策略与性能权衡，呈现适用于大规模图数据的新架构。</span></p>
+<div class="sfoot"><span class="tags"><span class='tag' data-t='Show HN' style='--c:#ff6600'>Show HN</span><span class='tag' data-t='Open Source' style='--c:#22c55e'>Open Source</span><span class='tag' data-t='Data' style='--c:#6366f1'>Data</span></span><span class='metas'><span class='m hot ic-fire'>0.1</span><span class='m ic-up'>151</span><a class='m ic-chat' href='https://news.ycombinator.com/item?id=48478148' target='_blank' rel='noopener'>42</a></span></div></div></article><article class="story" id="story-48497576" data-id="48497576" data-tags="Hardware|Science" data-score="88" data-comments="54" data-hn="https://news.ycombinator.com/item?id=48497576" data-time="1781218762">
+<a class="thumb" href="https://news.utexas.edu/2026/06/11/this-jacket-pulls-drinking-water-from-thin-air/" target="_blank" rel="noopener"><img class='th' src='https://news.utexas.edu/wp-content/uploads/2026/06/2026-ME-Jacket-9-1-scaled.jpg' alt='' loading='lazy' referrerpolicy='no-referrer' data-d='news.utexas.edu' data-c='#f59e0b' data-tag='Hardware'></a><button class="fav" aria-label="favorite">☆</button>
+<div class="sbody"><div class="rk">51</div>
+<h3 class="st"><a href="https://news.utexas.edu/2026/06/11/this-jacket-pulls-drinking-water-from-thin-air/" target="_blank" rel="noopener"><span class='en'>A jacket that harvests drinking water from the air</span><span class='zh'>从空气中提取饮用水的外套</span></a><span class="dom">news.utexas.edu</span></h3>
+<p class="sum one"><span class='en'>A wearable jacket harvests drinking water from humid air, showcasing a tangible wearable-tech solution for on-demand hydration in arid or remote environments.</span><span class='zh'>这件外套能够从湿空气中提取饮用水，展示了在干旱或偏远环境中实现按需供水的可穿戴科技方案。</span></p>
+<p class="sum full"><span class='en'>A wearable jacket harvests drinking water from humid air, showcasing a tangible wearable-tech solution for on-demand hydration in arid or remote environments. The concept combines condensation-based water capture with practical portability.</span><span class='zh'>这件外套能够从湿空气中提取饮用水，展示了在干旱或偏远环境中实现按需供水的可穿戴科技方案。其原理结合了冷凝捕水与便携性，具有实际应用潜力。</span></p>
+<div class="sfoot"><span class="tags"><span class='tag' data-t='Hardware' style='--c:#f59e0b'>Hardware</span><span class='tag' data-t='Science' style='--c:#10b981'>Science</span></span><span class='metas'><span class='m hot ic-fire'>1.5</span><span class='m ic-up'>88</span><a class='m ic-chat' href='https://news.ycombinator.com/item?id=48497576' target='_blank' rel='noopener'>54</a></span></div></div></article><article class="story" id="story-48463808" data-id="48463808" data-tags="AI" data-score="2568" data-comments="2107" data-hn="https://news.ycombinator.com/item?id=48463808" data-time="1781024281">
+<a class="thumb" href="https://www.anthropic.com/news/claude-fable-5-mythos-5" target="_blank" rel="noopener"><img class='th' src='https://cdn.sanity.io/images/4zrzovbb/website/b7055119423427c40a0e4d84054aed17682b50a2-2880x1620.png' alt='' loading='lazy' referrerpolicy='no-referrer' data-d='anthropic.com' data-c='#8b5cf6' data-tag='AI'></a><button class="fav" aria-label="favorite">☆</button>
+<div class="sbody"><div class="rk">52</div>
+<h3 class="st"><a href="https://www.anthropic.com/news/claude-fable-5-mythos-5" target="_blank" rel="noopener"><span class='en'>Claude Fable 5</span><span class='zh'>Claude Fable 5 版</span></a><span class="dom">anthropic.com</span></h3>
+<p class="sum one"><span class='en'>Claude Fable 5 introduces the next iteration of Anthropic&#x27;s Claude with Mythos 5 capabilities.</span><span class='zh'>Claude Fable 5 引入 Anthropic 的 Claude 的下一代版本 Mythos 5。</span></p>
+<p class="sum full"><span class='en'>Claude Fable 5 introduces the next iteration of Anthropic&#x27;s Claude with Mythos 5 capabilities. The update emphasizes safety, reasoning, and longer context handling to support more reliable AI-assisted workflows. It signals the ongoing push to deploy safer, production-ready LLMs.</span><span class='zh'>Claude Fable 5 引入 Anthropic 的 Claude 的下一代版本 Mythos 5。更新着重于安全性、推理能力与更长的上下文处理，以支持更可靠的 AI 助力工作流。这体现了将更安全的、可用于生产的大模型推向市场的持续趋势。</span></p>
+<div class="sfoot"><span class="tags"><span class='tag' data-t='AI' style='--c:#8b5cf6'>AI</span></span><span class='metas'><span class='m hot ic-fire'>1.5</span><span class='m ic-up'>2568</span><a class='m ic-chat' href='https://news.ycombinator.com/item?id=48463808' target='_blank' rel='noopener'>2107</a></span></div></div></article><article class="story" id="story-48475483" data-id="48475483" data-tags="Web|Design" data-score="1141" data-comments="512" data-hn="https://news.ycombinator.com/item?id=48475483" data-time="1781095547">
+<a class="thumb" href="https://mohkohn.co.uk/writing/html-first/" target="_blank" rel="noopener"><img class='th' src='https://mohkohn.co.uk/_astro/efe-kurnaz-RnCPiXixooY-unsplash.Bp9uDJkY.jpg' alt='' loading='lazy' referrerpolicy='no-referrer' data-d='mohkohn.co.uk' data-c='#06b6d4' data-tag='Web'></a><button class="fav" aria-label="favorite">☆</button>
+<div class="sbody"><div class="rk">53</div>
+<h3 class="st"><a href="https://mohkohn.co.uk/writing/html-first/" target="_blank" rel="noopener"><span class='en'>Building an HTML-first site doubled our users overnight</span><span class='zh'>HTML 为先的网站让用户数一夜之间翻倍</span></a><span class="dom">mohkohn.co.uk</span></h3>
+<p class="sum one"><span class='en'>Adopting an HTML-first approach led to a dramatic overnight swell in users.</span><span class='zh'>采取 HTML 为先的站点架构后，用户增长在短时间内显著提升。</span></p>
+<p class="sum full"><span class='en'>Adopting an HTML-first approach led to a dramatic overnight swell in users. Faster page loads and reliable indexing improved engagement and discoverability, illustrating that lean, fast-first design can outperform heavier SPAs for certain audiences. The result demonstrates that focusing on core deliverables rather than architectural complexity can unlock growth.</span><span class='zh'>采取 HTML 为先的站点架构后，用户增长在短时间内显著提升。页面加载更快、索引更可靠，提升了流量和可发现性，证明对部分受众来说，简化且以性能为先的设计往往胜过复杂的单页应用。这个案例表明，专注于核心交付而非架构复杂度，也能带来规模增长。</span></p>
+<div class="sfoot"><span class="tags"><span class='tag' data-t='Web' style='--c:#06b6d4'>Web</span><span class='tag' data-t='Design' style='--c:#f472b6'>Design</span></span><span class='metas'><span class='m hot ic-fire'>1.3</span><span class='m ic-up'>1141</span><a class='m ic-chat' href='https://news.ycombinator.com/item?id=48475483' target='_blank' rel='noopener'>512</a></span></div></div></article><article class="story" id="story-48498421" data-id="48498421" data-tags="Programming" data-score="45" data-comments="16" data-hn="https://news.ycombinator.com/item?id=48498421" data-time="1781224931">
+<a class="thumb" href="https://doug.sh/posts/erm-a-local-cli-that-strips-ums-uhs-and-erms-from-speech/" target="_blank" rel="noopener"><div class='th fb' style='--c:#3b82f6' data-tag='Programming'><img class='fbi' src='https://www.google.com/s2/favicons?domain=doug.sh&amp;sz=64' alt='' loading='lazy'><span class='fbd'>doug.sh</span></div></a><button class="fav" aria-label="favorite">☆</button>
+<div class="sbody"><div class="rk">54</div>
+<h3 class="st"><a href="https://doug.sh/posts/erm-a-local-cli-that-strips-ums-uhs-and-erms-from-speech/" target="_blank" rel="noopener"><span class='en'>Removing &#x27;um&#x27; from a recording is harder than it sounds</span><span class='zh'>将“嗯”等口头语从录音中删除比想象的要难</span></a><span class="dom">doug.sh</span></h3>
+<p class="sum one"><span class='en'>A local CLI tool offers to strip filler words like um/uh/er from speech, but achieving natural-sounding removal without distorting cadence is surprisingly hard.</span><span class='zh'>一个本地命令行工具尝试从语音中去除口头填充词如“嗯/啊/呃”，但在不破坏语速与自然感的情况下实现完全去除却相当困难。</span></p>
+<p class="sum full"><span class='en'>A local CLI tool offers to strip filler words like um/uh/er from speech, but achieving natural-sounding removal without distorting cadence is surprisingly hard. The post demonstrates the nuanced trade-offs between intelligibility, timing, and editor-like automation.</span><span class='zh'>一个本地命令行工具尝试从语音中去除口头填充词如“嗯/啊/呃”，但在不破坏语速与自然感的情况下实现完全去除却相当困难。文中展示了可理解性、节奏感与编辑式自动化之间的细微取舍。</span></p>
+<div class="sfoot"><span class="tags"><span class='tag' data-t='Programming' style='--c:#3b82f6'>Programming</span></span><span class='metas'><span class='m hot ic-fire'>1.1</span><span class='m ic-up'>45</span><a class='m ic-chat' href='https://news.ycombinator.com/item?id=48498421' target='_blank' rel='noopener'>16</a></span></div></div></article><article class="story" id="story-48495751" data-id="48495751" data-tags="Culture" data-score="95" data-comments="55" data-hn="https://news.ycombinator.com/item?id=48495751" data-time="1781208506">
+<a class="thumb" href="https://www.ssp.sh/brain/travel-where-you-are/" target="_blank" rel="noopener"><img class='th' src='https://www.ssp.sh/brain/img_Travel where You Are_1781207349625.webp' alt='' loading='lazy' referrerpolicy='no-referrer' data-d='ssp.sh' data-c='#d946ef' data-tag='Culture'></a><button class="fav" aria-label="favorite">☆</button>
+<div class="sbody"><div class="rk">55</div>
+<h3 class="st"><a href="https://www.ssp.sh/brain/travel-where-you-are/" target="_blank" rel="noopener"><span class='en'>Travel locally, where you are</span><span class='zh'>就地出行：在你所在的地方</span></a><span class="dom">ssp.sh</span></h3>
+<p class="sum one"><span class='en'>Focus travel decisions around your current location and nearby options, leveraging local knowledge and constraints.</span><span class='zh'>将出行决策聚焦在你当前所在的位置及周边选项，利用本地信息与条件。</span></p>
+<p class="sum full"><span class='en'>Focus travel decisions around your current location and nearby options, leveraging local knowledge and constraints.</span><span class='zh'>将出行决策聚焦在你当前所在的位置及周边选项，利用本地信息与条件。</span></p>
+<div class="sfoot"><span class="tags"><span class='tag' data-t='Culture' style='--c:#d946ef'>Culture</span></span><span class='metas'><span class='m hot ic-fire'>1.0</span><span class='m ic-up'>95</span><a class='m ic-chat' href='https://news.ycombinator.com/item?id=48495751' target='_blank' rel='noopener'>55</a></span></div></div></article><article class="story" id="story-48469658" data-id="48469658" data-tags="Programming|DevOps" data-score="1222" data-comments="425" data-hn="https://news.ycombinator.com/item?id=48469658" data-time="1781051341">
+<a class="thumb" href="https://github.com/apple/container/blob/main/docs/container-machine.md" target="_blank" rel="noopener"><img class='th' src='https://repository-images.githubusercontent.com/993475914/123bf50d-9ae2-48d9-94f7-7a345bf82c15' alt='' loading='lazy' referrerpolicy='no-referrer' data-d='github.com' data-c='#3b82f6' data-tag='Programming'></a><button class="fav" aria-label="favorite">☆</button>
+<div class="sbody"><div class="rk">56</div>
+<h3 class="st"><a href="https://github.com/apple/container/blob/main/docs/container-machine.md" target="_blank" rel="noopener"><span class='en'>macOS Container Machines</span><span class='zh'>macOS 容器机器</span></a><span class="dom">github.com</span></h3>
+<p class="sum one"><span class='en'>Apple&#x27;s documentation introduces macOS Container Machines, a framework for running container workloads on macOS.</span><span class='zh'>Apple 的文档介绍了 macOS 容器机器这一概念，用于在 macOS 上运行容器化工作负载。</span></p>
+<p class="sum full"><span class='en'>Apple&#x27;s documentation introduces macOS Container Machines, a framework for running container workloads on macOS. It covers core concepts, setup steps, and integration with the platform&#x27;s tooling. This signals Apple&#x27;s ongoing interest in native containerization on desktop macOS.</span><span class='zh'>Apple 的文档介绍了 macOS 容器机器这一概念，用于在 macOS 上运行容器化工作负载。文档涵盖了核心概念、设置步骤以及与平台工具的整合方式。此举体现了 Apple 对桌面端原生容器化的持续关注。</span></p>
+<div class="sfoot"><span class="tags"><span class='tag' data-t='Programming' style='--c:#3b82f6'>Programming</span><span class='tag' data-t='DevOps' style='--c:#14b8a6'>DevOps</span></span><span class='metas'><span class='m hot ic-fire'>0.9</span><span class='m ic-up'>1222</span><a class='m ic-chat' href='https://news.ycombinator.com/item?id=48469658' target='_blank' rel='noopener'>425</a></span></div></div></article><article class="story" id="story-48496250" data-id="48496250" data-tags="Show HN|Programming|Open Source" data-score="66" data-comments="22" data-hn="https://news.ycombinator.com/item?id=48496250" data-time="1781211146">
+<a class="thumb" href="https://github.com/coder/boo" target="_blank" rel="noopener"><img class='th' src='https://opengraph.githubassets.com/57e4fd5bf4a682efd0464b1eaaed38a33aab3d508fffd9b82bf6fccf442edede/coder/boo' alt='' loading='lazy' referrerpolicy='no-referrer' data-d='github.com' data-c='#ff6600' data-tag='Show HN'></a><button class="fav" aria-label="favorite">☆</button>
+<div class="sbody"><div class="rk">57</div>
+<h3 class="st"><a href="https://github.com/coder/boo" target="_blank" rel="noopener"><span class='en'>Show HN: Boo – Screen-style terminal multiplexer built on libghostty</span><span class='zh'>Show HN：Boo——基于 libghostty 的屏幕风格终端多路复用器</span></a><span class="dom">github.com</span></h3>
+<p class="sum one"><span class='en'>Boo is a screen-style terminal multiplexer built on libghostty.</span><span class='zh'>Boo 是一个基于 libghostty 的屏幕风格终端多路复用器。</span></p>
+<p class="sum full"><span class='en'>Boo is a screen-style terminal multiplexer built on libghostty. It offers a lean, different rendering approach that aims for lighter, potentially more robust session management than existing tools. This Show HN spotlights how new libraries can redefine terminal UX and trade-offs.</span><span class='zh'>Boo 是一个基于 libghostty 的屏幕风格终端多路复用器。它提供了一种更简约、不同的渲染方法，目标是在会话管理上比现有工具更轻量、且潜在更稳健。这次 Show HN 突出了新库如何重新定义终端用户体验与取舍。</span></p>
+<div class="sfoot"><span class="tags"><span class='tag' data-t='Show HN' style='--c:#ff6600'>Show HN</span><span class='tag' data-t='Programming' style='--c:#3b82f6'>Programming</span><span class='tag' data-t='Open Source' style='--c:#22c55e'>Open Source</span></span><span class='metas'><span class='m hot ic-fire'>0.8</span><span class='m ic-up'>66</span><a class='m ic-chat' href='https://news.ycombinator.com/item?id=48496250' target='_blank' rel='noopener'>22</a></span></div></div></article><article class="story" id="story-48491486" data-id="48491486" data-tags="Programming" data-score="117" data-comments="64" data-hn="https://news.ycombinator.com/item?id=48491486" data-time="1781190837">
+<a class="thumb" href="https://github.com/icitry/FPS.cob" target="_blank" rel="noopener"><img class='th' src='https://opengraph.githubassets.com/afc3efbfa85d36265d912ba368023ef02fed61d4cb1307e5a43814ae82c5c541/icitry/FPS.cob' alt='' loading='lazy' referrerpolicy='no-referrer' data-d='github.com' data-c='#3b82f6' data-tag='Programming'></a><button class="fav" aria-label="favorite">☆</button>
+<div class="sbody"><div class="rk">58</div>
+<h3 class="st"><a href="https://github.com/icitry/FPS.cob" target="_blank" rel="noopener"><span class='en'>FPS.cob: A first person shooter in COBOL</span><span class='zh'>FPS.cob：COBOL 编写的第一人称射击游戏</span></a><span class="dom">github.com</span></h3>
+<p class="sum one"><span class='en'>FPS.cob demonstrates a fully playable shooter written in COBOL, showcasing language versatility and creative programming feats; it highlights the playful boundaries of programming language ecosystems.</span><span class='zh'>FPS.cob 用 COBOL 实现了可玩射击游戏，展示了语言的灵活性与创造性编程的边界。</span></p>
+<p class="sum full"><span class='en'>FPS.cob demonstrates a fully playable shooter written in COBOL, showcasing language versatility and creative programming feats; it highlights the playful boundaries of programming language ecosystems.</span><span class='zh'>FPS.cob 用 COBOL 实现了可玩射击游戏，展示了语言的灵活性与创造性编程的边界。</span></p>
+<div class="sfoot"><span class="tags"><span class='tag' data-t='Programming' style='--c:#3b82f6'>Programming</span></span><span class='metas'><span class='m hot ic-fire'>0.7</span><span class='m ic-up'>117</span><a class='m ic-chat' href='https://news.ycombinator.com/item?id=48491486' target='_blank' rel='noopener'>64</a></span></div></div></article><article class="story" id="story-48495197" data-id="48495197" data-tags="Security|Business" data-score="67" data-comments="6" data-hn="https://news.ycombinator.com/item?id=48495197" data-time="1781205832">
+<a class="thumb" href="https://krebsonsecurity.com/2026/06/who-runs-the-ransomware-group-the-gentlemen/" target="_blank" rel="noopener"><div class='th fb' style='--c:#ef4444' data-tag='Security'><img class='fbi' src='https://www.google.com/s2/favicons?domain=krebsonsecurity.com&amp;sz=64' alt='' loading='lazy'><span class='fbd'>krebsonsecurity.com</span></div></a><button class="fav" aria-label="favorite">☆</button>
+<div class="sbody"><div class="rk">59</div>
+<h3 class="st"><a href="https://krebsonsecurity.com/2026/06/who-runs-the-ransomware-group-the-gentlemen/" target="_blank" rel="noopener"><span class='en'>Who Runs the Ransomware Group &#x27;The Gentlemen?&#x27;</span><span class='zh'>谁在运营勒索软件组织“绅士”？</span></a><span class="dom">krebsonsecurity.com</span></h3>
+<p class="sum one"><span class='en'>Investigative piece follows who leads and operates the ransomware group &#x27;The Gentlemen,&#x27; detailing organizational structure, recruitment, and monetization.</span><span class='zh'>报道追踪勒索软件组织“绅士”背后的运营者，揭示其组织结构、招募与盈利模式。</span></p>
+<p class="sum full"><span class='en'>Investigative piece follows who leads and operates the ransomware group &#x27;The Gentlemen,&#x27; detailing organizational structure, recruitment, and monetization. The write-up underscores the evolving economics of ransomware and the challenges of attribution in cybercrime.</span><span class='zh'>报道追踪勒索软件组织“绅士”背后的运营者，揭示其组织结构、招募与盈利模式。分析强调勒索软件经济学的演变以及网络犯罪中的取证与归因挑战。</span></p>
+<div class="sfoot"><span class="tags"><span class='tag' data-t='Security' style='--c:#ef4444'>Security</span><span class='tag' data-t='Business' style='--c:#0ea5e9'>Business</span></span><span class='metas'><span class='m hot ic-fire'>0.6</span><span class='m ic-up'>67</span><a class='m ic-chat' href='https://news.ycombinator.com/item?id=48495197' target='_blank' rel='noopener'>6</a></span></div></div></article><article class="story" id="story-48497168" data-id="48497168" data-tags="Web|Security" data-score="42" data-comments="5" data-hn="https://news.ycombinator.com/item?id=48497168" data-time="1781216228">
+<a class="thumb" href="https://shkspr.mobi/blog/2021/01/the-unreasonable-effectiveness-of-simple-html/" target="_blank" rel="noopener"><img class='th' src='https://shkspr.mobi/blog/wp-content/uploads/2018/01/HTML5_Badge_512.png' alt='' loading='lazy' referrerpolicy='no-referrer' data-d='shkspr.mobi' data-c='#06b6d4' data-tag='Web'></a><button class="fav" aria-label="favorite">☆</button>
+<div class="sbody"><div class="rk">60</div>
+<h3 class="st"><a href="https://shkspr.mobi/blog/2021/01/the-unreasonable-effectiveness-of-simple-html/" target="_blank" rel="noopener"><span class='en'>The unreasonable effectiveness of simple HTML</span><span class='zh'>简单 HTML 的非理性高效</span></a><span class="dom">shkspr.mobi</span></h3>
+<p class="sum one"><span class='en'>Plain HTML often beats heavy frameworks on performance, accessibility, and reliability, especially for content-centric apps.</span><span class='zh'>纯 HTML 在性能、可访问性和可靠性方面往往优于重前端框架，尤其适用于以内容为中心的应用。</span></p>
+<p class="sum full"><span class='en'>Plain HTML often beats heavy frameworks on performance, accessibility, and reliability, especially for content-centric apps. The piece argues against overengineering and showcases how a minimal HTML baseline can deliver fast, resilient user experiences with smaller surface areas for bugs and security.</span><span class='zh'>纯 HTML 在性能、可访问性和可靠性方面往往优于重前端框架，尤其适用于以内容为中心的应用。文章主张避免过度设计，展示以最小的 HTML 基线实现快速、稳健体验的价值。</span></p>
+<div class="sfoot"><span class="tags"><span class='tag' data-t='Web' style='--c:#06b6d4'>Web</span><span class='tag' data-t='Security' style='--c:#ef4444'>Security</span></span><span class='metas'><span class='m hot ic-fire'>0.6</span><span class='m ic-up'>42</span><a class='m ic-chat' href='https://news.ycombinator.com/item?id=48497168' target='_blank' rel='noopener'>5</a></span></div></div></article><article class="story" id="story-48490715" data-id="48490715" data-tags="Open Source|Privacy" data-score="115" data-comments="85" data-hn="https://news.ycombinator.com/item?id=48490715" data-time="1781187467">
+<a class="thumb" href="https://nextcloud.com/blog/nextcloud-hub26-spring/" target="_blank" rel="noopener"><img class='th' src='https://nextcloud.com/c/uploads/2026/06/Nextcloud-Hub26-Spring-announcement.png' alt='' loading='lazy' referrerpolicy='no-referrer' data-d='nextcloud.com' data-c='#22c55e' data-tag='Open Source'></a><button class="fav" aria-label="favorite">☆</button>
+<div class="sbody"><div class="rk">61</div>
+<h3 class="st"><a href="https://nextcloud.com/blog/nextcloud-hub26-spring/" target="_blank" rel="noopener"><span class='en'>Nextcloud Hub 26 Spring: Built together, designed for the future</span><span class='zh'>Nextcloud Hub 26 Spring：共建、面向未来</span></a><span class="dom">nextcloud.com</span></h3>
+<p class="sum one"><span class='en'>Nextcloud Hub 26 Spring ships with collaborative by-default features and a future-oriented design for self-hosted environments.</span><span class='zh'>Nextcloud Hub 26 Spring 强调默认的协作功能与面向未来的自托管设计，聚焦隐私、互操作性与社区驱动的发展。</span></p>
+<p class="sum full"><span class='en'>Nextcloud Hub 26 Spring ships with collaborative by-default features and a future-oriented design for self-hosted environments. It emphasizes privacy, interoperability, and community-driven development.</span><span class='zh'>Nextcloud Hub 26 Spring 强调默认的协作功能与面向未来的自托管设计，聚焦隐私、互操作性与社区驱动的发展。</span></p>
+<div class="sfoot"><span class="tags"><span class='tag' data-t='Open Source' style='--c:#22c55e'>Open Source</span><span class='tag' data-t='Privacy' style='--c:#ec4899'>Privacy</span></span><span class='metas'><span class='m hot ic-fire'>0.6</span><span class='m ic-up'>115</span><a class='m ic-chat' href='https://news.ycombinator.com/item?id=48490715' target='_blank' rel='noopener'>85</a></span></div></div></article><article class="story" id="story-48476466" data-id="48476466" data-tags="Business|Data" data-score="475" data-comments="225" data-hn="https://news.ycombinator.com/item?id=48476466" data-time="1781100179">
+<a class="thumb" href="https://pgdog.dev/blog/our-funding-announcement" target="_blank" rel="noopener"><img class='th' src='https://pgdog.dev/assets/images/logo2_wide.png?v=bb9c0ef3de' alt='' loading='lazy' referrerpolicy='no-referrer' data-d='pgdog.dev' data-c='#0ea5e9' data-tag='Business'></a><button class="fav" aria-label="favorite">☆</button>
+<div class="sbody"><div class="rk">62</div>
+<h3 class="st"><a href="https://pgdog.dev/blog/our-funding-announcement" target="_blank" rel="noopener"><span class='en'>PgDog is funded and coming to a database near you</span><span class='zh'>PgDog 获得融资，将进入数据库领域的开发者工具市场</span></a><span class="dom">pgdog.dev</span></h3>
+<p class="sum one"><span class='en'>PgDog has secured funding and plans to bring PostgreSQL-focused tooling to developers.</span><span class='zh'>PgDog 获得融资，将推出围绕 PostgreSQL 的开发者工具，旨在简化工作流与数据库运维。</span></p>
+<p class="sum full"><span class='en'>PgDog has secured funding and plans to bring PostgreSQL-focused tooling to developers. The round signals investor confidence in database tooling that aims to streamline workflows and tooling around Postgres.</span><span class='zh'>PgDog 获得融资，将推出围绕 PostgreSQL 的开发者工具，旨在简化工作流与数据库运维。投资方信心表明数据库工具市场的潜力。</span></p>
+<div class="sfoot"><span class="tags"><span class='tag' data-t='Business' style='--c:#0ea5e9'>Business</span><span class='tag' data-t='Data' style='--c:#6366f1'>Data</span></span><span class='metas'><span class='m hot ic-fire'>0.6</span><span class='m ic-up'>475</span><a class='m ic-chat' href='https://news.ycombinator.com/item?id=48476466' target='_blank' rel='noopener'>225</a></span></div></div></article><article class="story" id="story-48472877" data-id="48472877" data-tags="Hardware|Science|Energy" data-score="530" data-comments="337" data-hn="https://news.ycombinator.com/item?id=48472877" data-time="1781077489">
+<a class="thumb" href="https://media.mercedes-benz.com/en/article/bebac2af-acdc-465a-9538-adb0bf3d8ccf" target="_blank" rel="noopener"><img class='th' src='https://api.media.mercedes-benz.com/modules/custom/mb_meta/static/placeholder.jpg' alt='' loading='lazy' referrerpolicy='no-referrer' data-d='media.mercedes-benz.com' data-c='#f59e0b' data-tag='Hardware'></a><button class="fav" aria-label="favorite">☆</button>
+<div class="sbody"><div class="rk">63</div>
+<h3 class="st"><a href="https://media.mercedes-benz.com/en/article/bebac2af-acdc-465a-9538-adb0bf3d8ccf" target="_blank" rel="noopener"><span class='en'>Mercedes‑Benz starts large‑scale production of electric axial flux motor</span><span class='zh'>梅赛德斯-奔驰开启电轴向磁通电机大规模量产</span></a><span class="dom">media.mercedes-benz.com</span></h3>
+<p class="sum one"><span class='en'>Mercedes-Benz has begun large-scale production of its electric axial flux motor, a topology prized for high power density and compact packaging.</span><span class='zh'>梅赛德斯-奔驰已开始大规模生产电轴向磁通电机，这种拓扑在单位体积内提供更高的功率密度且体积更紧凑。</span></p>
+<p class="sum full"><span class='en'>Mercedes-Benz has begun large-scale production of its electric axial flux motor, a topology prized for high power density and compact packaging. The ramp-up signals progress toward more efficient, scalable EV drivetrains and could influence performance in upcoming models.</span><span class='zh'>梅赛德斯-奔驰已开始大规模生产电轴向磁通电机，这种拓扑在单位体积内提供更高的功率密度且体积更紧凑。此举表明其在实现更高效、可扩展的电动传动系统方面迈出关键一步，可能影响未来车型的性能与成本。</span></p>
+<div class="sfoot"><span class="tags"><span class='tag' data-t='Hardware' style='--c:#f59e0b'>Hardware</span><span class='tag' data-t='Science' style='--c:#10b981'>Science</span><span class='tag' data-t='Energy' style='--c:#eab308'>Energy</span></span><span class='metas'><span class='m hot ic-fire'>0.5</span><span class='m ic-up'>530</span><a class='m ic-chat' href='https://news.ycombinator.com/item?id=48472877' target='_blank' rel='noopener'>337</a></span></div></div></article><article class="story" id="story-48491214" data-id="48491214" data-tags="Design" data-score="80" data-comments="85" data-hn="https://news.ycombinator.com/item?id=48491214" data-time="1781189759">
+<a class="thumb" href="https://www.theatlantic.com/technology/2026/06/car-headlights-too-bright-adaptive-beams/687488/" target="_blank" rel="noopener"><img class='th' src='https://cdn.theatlantic.com/thumbor/VurGfNNeO35Wv9TjAdDnY8F85t8=/0x43:2000x1085/1200x625/media/img/mt/2026/06/2026_06_03_Moseman_Car_headlights_final/original.jpg' alt='' loading='lazy' referrerpolicy='no-referrer' data-d='theatlantic.com' data-c='#f472b6' data-tag='Design'></a><button class="fav" aria-label="favorite">☆</button>
+<div class="sbody"><div class="rk">64</div>
+<h3 class="st"><a href="https://www.theatlantic.com/technology/2026/06/car-headlights-too-bright-adaptive-beams/687488/" target="_blank" rel="noopener"><span class='en'>Car headlights don&#x27;t have to be this blinding</span><span class='zh'>汽车大灯不必如此刺眼</span></a><span class="dom">theatlantic.com</span></h3>
+<p class="sum one"><span class='en'>Advocates for better headlight design with adaptive beams to reduce glare for oncoming drivers, improving nighttime safety.</span><span class='zh'>倡导采用自适应光束的更好大灯设计，以减少对向驾驶员眩光、提升夜间行车安全。</span></p>
+<p class="sum full"><span class='en'>Advocates for better headlight design with adaptive beams to reduce glare for oncoming drivers, improving nighttime safety.</span><span class='zh'>倡导采用自适应光束的更好大灯设计，以减少对向驾驶员眩光、提升夜间行车安全。</span></p>
+<div class="sfoot"><span class="tags"><span class='tag' data-t='Design' style='--c:#f472b6'>Design</span></span><span class='metas'><span class='m hot ic-fire'>0.5</span><span class='m ic-up'>80</span><a class='m ic-chat' href='https://news.ycombinator.com/item?id=48491214' target='_blank' rel='noopener'>85</a></span></div></div></article><article class="story" id="story-48492118" data-id="48492118" data-tags="AI|Programming" data-score="63" data-comments="85" data-hn="https://news.ycombinator.com/item?id=48492118" data-time="1781193385">
+<a class="thumb" href="https://news.ycombinator.com/item?id=48492118" target="_blank" rel="noopener"><img class='th' src='https://news.ycombinator.com/y18.svg' alt='' loading='lazy' referrerpolicy='no-referrer' data-d='news.ycombinator.com' data-c='#8b5cf6' data-tag='AI'></a><button class="fav" aria-label="favorite">☆</button>
+<div class="sbody"><div class="rk">65</div>
+<h3 class="st"><a href="https://news.ycombinator.com/item?id=48492118" target="_blank" rel="noopener"><span class='en'>Ask HN: How do you get into a flow state when using AI to code?</span><span class='zh'>Ask HN：在用 AI 编码时如何进入流畅状态？</span></a><span class="dom">news.ycombinator.com</span></h3>
+<p class="sum one"><span class='en'>Community tips on achieving flow while coding with AI assistants, including prompts, workflow hygiene, and environment setup.</span><span class='zh'>社区分享在使用 AI 辅助编码时实现专注流程的技巧，包括提示语、工作流程卫生与环境设置。</span></p>
+<p class="sum full"><span class='en'>Community tips on achieving flow while coding with AI assistants, including prompts, workflow hygiene, and environment setup.</span><span class='zh'>社区分享在使用 AI 辅助编码时实现专注流程的技巧，包括提示语、工作流程卫生与环境设置。</span></p>
+<div class="sfoot"><span class="tags"><span class='tag' data-t='AI' style='--c:#8b5cf6'>AI</span><span class='tag' data-t='Programming' style='--c:#3b82f6'>Programming</span></span><span class='metas'><span class='m hot ic-fire'>0.4</span><span class='m ic-up'>63</span><a class='m ic-chat' href='https://news.ycombinator.com/item?id=48492118' target='_blank' rel='noopener'>85</a></span></div></div></article><article class="story" id="story-48488901" data-id="48488901" data-tags="Science|Data" data-score="88" data-comments="88" data-hn="https://news.ycombinator.com/item?id=48488901" data-time="1781177185">
+<a class="thumb" href="https://www.nature.com/articles/d41586-026-01796-y" target="_blank" rel="noopener"><img class='th' src='https://media.nature.com/lw1200/magazine-assets/d41586-026-01796-y/d41586-026-01796-y_52533296.jpg' alt='' loading='lazy' referrerpolicy='no-referrer' data-d='nature.com' data-c='#10b981' data-tag='Science'></a><button class="fav" aria-label="favorite">☆</button>
+<div class="sbody"><div class="rk">66</div>
+<h3 class="st"><a href="https://www.nature.com/articles/d41586-026-01796-y" target="_blank" rel="noopener"><span class='en'>Global population movements from 1990 to 2023</span><span class='zh'>1990-2023 全球人口迁移</span></a><span class="dom">nature.com</span></h3>
+<p class="sum one"><span class='en'>Nature article charts global population movements over 1990-2023, with implications for labor, urbanization, and migration policy.</span><span class='zh'>Nature 的研究梳理了1990-2023年全球人口迁移趋势，对劳动力、城市化与移民政策具有深远影响。</span></p>
+<p class="sum full"><span class='en'>Nature article charts global population movements over 1990-2023, with implications for labor, urbanization, and migration policy.</span><span class='zh'>Nature 的研究梳理了1990-2023年全球人口迁移趋势，对劳动力、城市化与移民政策具有深远影响。</span></p>
+<div class="sfoot"><span class="tags"><span class='tag' data-t='Science' style='--c:#10b981'>Science</span><span class='tag' data-t='Data' style='--c:#6366f1'>Data</span></span><span class='metas'><span class='m hot ic-fire'>0.4</span><span class='m ic-up'>88</span><a class='m ic-chat' href='https://news.ycombinator.com/item?id=48488901' target='_blank' rel='noopener'>88</a></span></div></div></article><article class="story" id="story-48492572" data-id="48492572" data-tags="Politics|Security|Privacy" data-score="53" data-comments="17" data-hn="https://news.ycombinator.com/item?id=48492572" data-time="1781195508">
+<a class="thumb" href="https://www.axios.com/2026/06/11/fisa-section-702-expiration-pulte-trump-johnson" target="_blank" rel="noopener"><div class='th fb' style='--c:#f97316' data-tag='Politics'><img class='fbi' src='https://www.google.com/s2/favicons?domain=axios.com&amp;sz=64' alt='' loading='lazy'><span class='fbd'>axios.com</span></div></a><button class="fav" aria-label="favorite">☆</button>
+<div class="sbody"><div class="rk">67</div>
+<h3 class="st"><a href="https://www.axios.com/2026/06/11/fisa-section-702-expiration-pulte-trump-johnson" target="_blank" rel="noopener"><span class='en'>US House rejects FISA Section 702 extension, warrantless surveillance expires</span><span class='zh'>美国众议院拒绝延长 FISA 702 条，监听权到期</span></a><span class="dom">axios.com</span></h3>
+<p class="sum one"><span class='en'>The House rejects the FISA Section 702 extension; warrantless surveillance authority expires, reshaping government data access and private-sector implications for security tech.</span><span class='zh'>美国众议院拒绝延长 FISA 第 702 条，相关无证监控权力到期，这将影响政府数据访问以及对安全技术的商业影响。</span></p>
+<p class="sum full"><span class='en'>The House rejects the FISA Section 702 extension; warrantless surveillance authority expires, reshaping government data access and private-sector implications for security tech.</span><span class='zh'>美国众议院拒绝延长 FISA 第 702 条，相关无证监控权力到期，这将影响政府数据访问以及对安全技术的商业影响。</span></p>
+<div class="sfoot"><span class="tags"><span class='tag' data-t='Politics' style='--c:#f97316'>Politics</span><span class='tag' data-t='Security' style='--c:#ef4444'>Security</span><span class='tag' data-t='Privacy' style='--c:#ec4899'>Privacy</span></span><span class='metas'><span class='m hot ic-fire'>0.4</span><span class='m ic-up'>53</span><a class='m ic-chat' href='https://news.ycombinator.com/item?id=48492572' target='_blank' rel='noopener'>17</a></span></div></div></article><article class="story" id="story-48474274" data-id="48474274" data-tags="Culture|Programming" data-score="300" data-comments="85" data-hn="https://news.ycombinator.com/item?id=48474274" data-time="1781087865">
+<a class="thumb" href="https://ianyepan.github.io/posts/emacs-in-pop-culture/" target="_blank" rel="noopener"><img class='th' src='https://avatars.githubusercontent.com/u/36686900?v=4' alt='' loading='lazy' referrerpolicy='no-referrer' data-d='ianyepan.github.io' data-c='#d946ef' data-tag='Culture'></a><button class="fav" aria-label="favorite">☆</button>
+<div class="sbody"><div class="rk">68</div>
+<h3 class="st"><a href="https://ianyepan.github.io/posts/emacs-in-pop-culture/" target="_blank" rel="noopener"><span class='en'>Emacs appearances in pop culture</span><span class='zh'>Emacs 在流行文化中的出现</span></a><span class="dom">ianyepan.github.io</span></h3>
+<p class="sum one"><span class='en'>Emacs pop culture appearances show the editor&#x27;s enduring niche status among programmers and enthusiasts.</span><span class='zh'>Emacs 在流行文化中的出现凸显了这一编辑器在程序员群体中的持续小众地位。</span></p>
+<p class="sum full"><span class='en'>Emacs pop culture appearances show the editor&#x27;s enduring niche status among programmers and enthusiasts. The lore around the tool reveals how deep tooling loyalties translate into memes and media.</span><span class='zh'>Emacs 在流行文化中的出现凸显了这一编辑器在程序员群体中的持续小众地位。相关梗趣故事揭示了深度工具情感如何转化为梗图与媒体内容。</span></p>
+<div class="sfoot"><span class="tags"><span class='tag' data-t='Culture' style='--c:#d946ef'>Culture</span><span class='tag' data-t='Programming' style='--c:#3b82f6'>Programming</span></span><span class='metas'><span class='m hot ic-fire'>0.3</span><span class='m ic-up'>300</span><a class='m ic-chat' href='https://news.ycombinator.com/item?id=48474274' target='_blank' rel='noopener'>85</a></span></div></div></article><article class="story" id="story-48492177" data-id="48492177" data-tags="AI" data-score="48" data-comments="27" data-hn="https://news.ycombinator.com/item?id=48492177" data-time="1781193661">
+<a class="thumb" href="https://mtgautodeck.com/articles/mtg-bench/" target="_blank" rel="noopener"><img class='th' src='https://mtgautodeck.com/favicon.png' alt='' loading='lazy' referrerpolicy='no-referrer' data-d='mtgautodeck.com' data-c='#8b5cf6' data-tag='AI'></a><button class="fav" aria-label="favorite">☆</button>
+<div class="sbody"><div class="rk">69</div>
+<h3 class="st"><a href="https://mtgautodeck.com/articles/mtg-bench/" target="_blank" rel="noopener"><span class='en'>MTG Bench: Testing how well LLMs can play Magic</span><span class='zh'>MTG 基准测试：测试大语言模型在玩《魔法风云会》中的表现</span></a><span class="dom">mtgautodeck.com</span></h3>
+<p class="sum one"><span class='en'>MTG Bench evaluates how well LLMs can play Magic: The Gathering, examining strategic reasoning, rule adherence, and long-term planning.</span><span class='zh'>MTG Bench 评估大语言模型在《魔法风云会》中的策略推理、对规则的遵循以及长期规划能力，揭示了当前模型在处理复杂、规则繁多领域时的优点与局限。</span></p>
+<p class="sum full"><span class='en'>MTG Bench evaluates how well LLMs can play Magic: The Gathering, examining strategic reasoning, rule adherence, and long-term planning. The benchmark reveals both strengths and limitations of contemporary models when navigating a complex, rules-heavy domain.</span><span class='zh'>MTG Bench 评估大语言模型在《魔法风云会》中的策略推理、对规则的遵循以及长期规划能力，揭示了当前模型在处理复杂、规则繁多领域时的优点与局限。</span></p>
+<div class="sfoot"><span class="tags"><span class='tag' data-t='AI' style='--c:#8b5cf6'>AI</span></span><span class='metas'><span class='m hot ic-fire'>0.3</span><span class='m ic-up'>48</span><a class='m ic-chat' href='https://news.ycombinator.com/item?id=48492177' target='_blank' rel='noopener'>27</a></span></div></div></article><article class="story" id="story-48490094" data-id="48490094" data-tags="Space|Energy" data-score="60" data-comments="89" data-hn="https://news.ycombinator.com/item?id=48490094" data-time="1781184559">
+<a class="thumb" href="https://spectrum.ieee.org/orbital-data-centers-heat" target="_blank" rel="noopener"><img class='th' src='https://spectrum.ieee.org/media-library/image.png?id=66895710&amp;width=1200&amp;height=600&amp;coordinates=0%2C158%2C0%2C158' alt='' loading='lazy' referrerpolicy='no-referrer' data-d='spectrum.ieee.org' data-c='#818cf8' data-tag='Space'></a><button class="fav" aria-label="favorite">☆</button>
+<div class="sbody"><div class="rk">70</div>
+<h3 class="st"><a href="https://spectrum.ieee.org/orbital-data-centers-heat" target="_blank" rel="noopener"><span class='en'>Thermodynamics rules future orbital data centers</span><span class='zh'>轨道数据中心的热力学限制</span></a><span class="dom">spectrum.ieee.org</span></h3>
+<p class="sum one"><span class='en'>Thermodynamics will constrain future orbital data centers, shaping cooling requirements, energy efficiency, and mission design.</span><span class='zh'>热力学将限制未来轨道数据中心的冷却需求、能源效率与任务设计。</span></p>
+<p class="sum full"><span class='en'>Thermodynamics will constrain future orbital data centers, shaping cooling requirements, energy efficiency, and mission design.</span><span class='zh'>热力学将限制未来轨道数据中心的冷却需求、能源效率与任务设计。</span></p>
+<div class="sfoot"><span class="tags"><span class='tag' data-t='Space' style='--c:#818cf8'>Space</span><span class='tag' data-t='Energy' style='--c:#eab308'>Energy</span></span><span class='metas'><span class='m hot ic-fire'>0.3</span><span class='m ic-up'>60</span><a class='m ic-chat' href='https://news.ycombinator.com/item?id=48490094' target='_blank' rel='noopener'>89</a></span></div></div></article><article class="story" id="story-48486486" data-id="48486486" data-tags="AI|Business" data-score="108" data-comments="118" data-hn="https://news.ycombinator.com/item?id=48486486" data-time="1781155002">
+<a class="thumb" href="https://www.cnbc.com/2026/06/11/openai-mulls-slashing-prices-ahead-of-competition-from-anthropic-wsj.html" target="_blank" rel="noopener"><img class='th' src='https://image.cnbcfm.com/api/v1/image/108316427-1780524884815-gettyimages-2278945689-AFP_B4XB779.jpeg?v=1780524953&amp;w=1920&amp;h=1080' alt='' loading='lazy' referrerpolicy='no-referrer' data-d='cnbc.com' data-c='#8b5cf6' data-tag='AI'></a><button class="fav" aria-label="favorite">☆</button>
+<div class="sbody"><div class="rk">71</div>
+<h3 class="st"><a href="https://www.cnbc.com/2026/06/11/openai-mulls-slashing-prices-ahead-of-competition-from-anthropic-wsj.html" target="_blank" rel="noopener"><span class='en'>OpenAI mulls slashing prices as it competes with Anthropic for users</span><span class='zh'>OpenAI 评估降价以对抗 Anthropic 的竞争</span></a><span class="dom">cnbc.com</span></h3>
+<p class="sum one"><span class='en'>OpenAI weighs price cuts to win market share against Anthropic, signaling a battle over AI access economics.</span><span class='zh'>OpenAI 正在权衡降价以抢占 Anthropic 的用户市场，显示出对 AI 入门门槛的经济博弈。</span></p>
+<p class="sum full"><span class='en'>OpenAI weighs price cuts to win market share against Anthropic, signaling a battle over AI access economics. The move could pressure margins but may accelerate user adoption and ecosystem growth.</span><span class='zh'>OpenAI 正在权衡降价以抢占 Anthropic 的用户市场，显示出对 AI 入门门槛的经济博弈。降价可能压缩利润率，但有望推动用户增长与生态系统扩展。</span></p>
+<div class="sfoot"><span class="tags"><span class='tag' data-t='AI' style='--c:#8b5cf6'>AI</span><span class='tag' data-t='Business' style='--c:#0ea5e9'>Business</span></span><span class='metas'><span class='m hot ic-fire'>0.3</span><span class='m ic-up'>108</span><a class='m ic-chat' href='https://news.ycombinator.com/item?id=48486486' target='_blank' rel='noopener'>118</a></span></div></div></article><article class="story" id="story-48475100" data-id="48475100" data-tags="Data|Design" data-score="241" data-comments="79" data-hn="https://news.ycombinator.com/item?id=48475100" data-time="1781093488">
+<a class="thumb" href="https://jivx.com/eki" target="_blank" rel="noopener"><div class='th fb' style='--c:#6366f1' data-tag='Data'><img class='fbi' src='https://www.google.com/s2/favicons?domain=jivx.com&amp;sz=64' alt='' loading='lazy'><span class='fbd'>jivx.com</span></div></a><button class="fav" aria-label="favorite">☆</button>
+<div class="sbody"><div class="rk">72</div>
+<h3 class="st"><a href="https://jivx.com/eki" target="_blank" rel="noopener"><span class='en'>All 9,300 Japanese train station, animated by the year it opened (1872–2026)</span><span class='zh'>所有 9,300 个日本车站按开通年份（1872–2026）动画展示</span></a><span class="dom">jivx.com</span></h3>
+<p class="sum one"><span class='en'>A data-visualization project animates every Japanese train station by its opening year (1872–2026), revealing how rail networks expanded over more than a century.</span><span class='zh'>一个数据可视化项目把日本所有车站按开通年份（1872–2026）逐年动画化，揭示铁路网的扩张与城市化的历史轨迹。</span></p>
+<p class="sum full"><span class='en'>A data-visualization project animates every Japanese train station by its opening year (1872–2026), revealing how rail networks expanded over more than a century. It offers a striking lens on urban growth and transportation history.</span><span class='zh'>一个数据可视化项目把日本所有车站按开通年份（1872–2026）逐年动画化，揭示铁路网的扩张与城市化的历史轨迹。它为理解交通与区域发展提供了直观视角。</span></p>
+<div class="sfoot"><span class="tags"><span class='tag' data-t='Data' style='--c:#6366f1'>Data</span><span class='tag' data-t='Design' style='--c:#f472b6'>Design</span></span><span class='metas'><span class='m hot ic-fire'>0.3</span><span class='m ic-up'>241</span><a class='m ic-chat' href='https://news.ycombinator.com/item?id=48475100' target='_blank' rel='noopener'>79</a></span></div></div></article><article class="story" id="story-48487229" data-id="48487229" data-tags="Design" data-score="87" data-comments="53" data-hn="https://news.ycombinator.com/item?id=48487229" data-time="1781161600">
+<a class="thumb" href="https://www.fabianhemmert.com/opinions/a-greyscale-iphone-setup-that-works-in-everyday-life" target="_blank" rel="noopener"><img class='th' src='https://www.fabianhemmert.com/media/pages/opinions/a-greyscale-iphone-setup-that-works-in-everyday-life/6f94f22014-1779951624/apps_for_color.jpeg' alt='' loading='lazy' referrerpolicy='no-referrer' data-d='fabianhemmert.com' data-c='#f472b6' data-tag='Design'></a><button class="fav" aria-label="favorite">☆</button>
+<div class="sbody"><div class="rk">73</div>
+<h3 class="st"><a href="https://www.fabianhemmert.com/opinions/a-greyscale-iphone-setup-that-works-in-everyday-life" target="_blank" rel="noopener"><span class='en'>A greyscale iPhone setup that works in everyday life</span><span class='zh'>日常使用的灰度 iPhone 设置</span></a><span class="dom">fabianhemmert.com</span></h3>
+<p class="sum one"><span class='en'>Describes a grayscale iPhone setup designed for focus and usability in everyday life, including wallpaper choices, icon layouts, and accessibility tweaks to reduce visual noise.</span><span class='zh'>介绍一套日常使用的灰度模式 iPhone 设置，强调提升专注与可用性，涵盖壁纸、应用图标布局及辅助功能的调整。</span></p>
+<p class="sum full"><span class='en'>Describes a grayscale iPhone setup designed for focus and usability in everyday life, including wallpaper choices, icon layouts, and accessibility tweaks to reduce visual noise.</span><span class='zh'>介绍一套日常使用的灰度模式 iPhone 设置，强调提升专注与可用性，涵盖壁纸、应用图标布局及辅助功能的调整。</span></p>
+<div class="sfoot"><span class="tags"><span class='tag' data-t='Design' style='--c:#f472b6'>Design</span></span><span class='metas'><span class='m hot ic-fire'>0.3</span><span class='m ic-up'>87</span><a class='m ic-chat' href='https://news.ycombinator.com/item?id=48487229' target='_blank' rel='noopener'>53</a></span></div></div></article><article class="story" id="story-48464258" data-id="48464258" data-tags="AI|Privacy" data-score="443" data-comments="229" data-hn="https://news.ycombinator.com/item?id=48464258" data-time="1781025820">
+<a class="thumb" href="https://support.claude.com/en/articles/15425996-data-retention-practices-for-mythos-class-models" target="_blank" rel="noopener"><img class='th' src='https://downloads.intercomcdn.com/i/o/lupk8zyo/792494/717b10d3ebd874823db64841659b/76f3062d78ebbb04863fb1de3ef9cca0.png' alt='' loading='lazy' referrerpolicy='no-referrer' data-d='support.claude.com' data-c='#8b5cf6' data-tag='AI'></a><button class="fav" aria-label="favorite">☆</button>
+<div class="sbody"><div class="rk">74</div>
+<h3 class="st"><a href="https://support.claude.com/en/articles/15425996-data-retention-practices-for-mythos-class-models" target="_blank" rel="noopener"><span class='en'>Anthropic requires 30 day data retention for Fable and Mythos</span><span class='zh'>Anthropic 要求对 Fable 和 Mythos 的用户数据保留 30 天</span></a><span class="dom">support.claude.com</span></h3>
+<p class="sum one"><span class='en'>User data from Fable and Mythos must be kept for 30 days to support safety work and model improvement.</span><span class='zh'>Anthropic 要求对 Fable 和 Mythos 的用户数据保留 30 天，用于安全研究与模型改进。</span></p>
+<p class="sum full"><span class='en'>User data from Fable and Mythos must be kept for 30 days to support safety work and model improvement. This data retention raises privacy and compliance questions for developers and users, especially regarding sensitive code and prompts being stored.</span><span class='zh'>Anthropic 要求对 Fable 和 Mythos 的用户数据保留 30 天，用于安全研究与模型改进。这一规定提升了隐私与合规的担忧，尤其涉及敏感代码和提示的存储风险。</span></p>
+<div class="sfoot"><span class="tags"><span class='tag' data-t='AI' style='--c:#8b5cf6'>AI</span><span class='tag' data-t='Privacy' style='--c:#ec4899'>Privacy</span></span><span class='metas'><span class='m hot ic-fire'>0.2</span><span class='m ic-up'>443</span><a class='m ic-chat' href='https://news.ycombinator.com/item?id=48464258' target='_blank' rel='noopener'>229</a></span></div></div></article><article class="story" id="story-48468370" data-id="48468370" data-tags="Finance|Business" data-score="373" data-comments="206" data-hn="https://news.ycombinator.com/item?id=48468370" data-time="1781042475">
+<a class="thumb" href="https://forestwalk.ai/blog/surprise-blacksmith-costs/" target="_blank" rel="noopener"><img class='th' src='https://forestwalk.ai/images/blog/blacksmith-free-2.jpg' alt='' loading='lazy' referrerpolicy='no-referrer' data-d='forestwalk.ai' data-c='#84cc16' data-tag='Finance'></a><button class="fav" aria-label="favorite">☆</button>
+<div class="sbody"><div class="rk">75</div>
+<h3 class="st"><a href="https://forestwalk.ai/blog/surprise-blacksmith-costs/" target="_blank" rel="noopener"><span class='en'>Surprise, pay $1000</span><span class='zh'>意外，付出 1000 美元</span></a><span class="dom">forestwalk.ai</span></h3>
+<p class="sum one"><span class='en'>Reveals surprising hidden costs in modern tooling, showing how an ostensibly small expense can balloon to $1,000.</span><span class='zh'>揭示现代工具中的隐藏成本，表面看似微小的花费也可能累积至 1000 美元。</span></p>
+<p class="sum full"><span class='en'>Reveals surprising hidden costs in modern tooling, showing how an ostensibly small expense can balloon to $1,000. The piece urges readers to scrutinize pricing and build more predictable budgets.</span><span class='zh'>揭示现代工具中的隐藏成本，表面看似微小的花费也可能累积至 1000 美元。敦促读者仔细审查定价，建立更可控的预算。</span></p>
+<div class="sfoot"><span class="tags"><span class='tag' data-t='Finance' style='--c:#84cc16'>Finance</span><span class='tag' data-t='Business' style='--c:#0ea5e9'>Business</span></span><span class='metas'><span class='m hot ic-fire'>0.2</span><span class='m ic-up'>373</span><a class='m ic-chat' href='https://news.ycombinator.com/item?id=48468370' target='_blank' rel='noopener'>206</a></span></div></div></article><article class="story" id="story-48476136" data-id="48476136" data-tags="Security|AI" data-score="186" data-comments="178" data-hn="https://news.ycombinator.com/item?id=48476136" data-time="1781098751">
+<a class="thumb" href="https://blue41.com/blog/how-we-helped-bunq-secure-their-financial-ai-assistant/" target="_blank" rel="noopener"><img class='th' src='https://blue41.com/opengraph.jpg' alt='' loading='lazy' referrerpolicy='no-referrer' data-d='blue41.com' data-c='#ef4444' data-tag='Security'></a><button class="fav" aria-label="favorite">☆</button>
+<div class="sbody"><div class="rk">76</div>
+<h3 class="st"><a href="https://blue41.com/blog/how-we-helped-bunq-secure-their-financial-ai-assistant/" target="_blank" rel="noopener"><span class='en'>A €0.01 bank transfer could compromise a banking AI agent</span><span class='zh'>一笔 0.01 欧元的银行转账可能危及银行 AI 助手</span></a><span class="dom">blue41.com</span></h3>
+<p class="sum one"><span class='en'>A tiny payment triggers vulnerabilities in a banking AI assistant, underscoring the need for strict input validation and safe sandboxing for financial AI.</span><span class='zh'>仅 0.01 欧元的转账就可能暴露银行 AI 助手中的漏洞，凸显对输入校验和沙箱化的迫切需求。</span></p>
+<p class="sum full"><span class='en'>A tiny payment triggers vulnerabilities in a banking AI assistant, underscoring the need for strict input validation and safe sandboxing for financial AI.</span><span class='zh'>仅 0.01 欧元的转账就可能暴露银行 AI 助手中的漏洞，凸显对输入校验和沙箱化的迫切需求。</span></p>
+<div class="sfoot"><span class="tags"><span class='tag' data-t='Security' style='--c:#ef4444'>Security</span><span class='tag' data-t='AI' style='--c:#8b5cf6'>AI</span></span><span class='metas'><span class='m hot ic-fire'>0.2</span><span class='m ic-up'>186</span><a class='m ic-chat' href='https://news.ycombinator.com/item?id=48476136' target='_blank' rel='noopener'>178</a></span></div></div></article><article class="story" id="story-48476214" data-id="48476214" data-tags="Politics|Security|Legal" data-score="179" data-comments="160" data-hn="https://news.ycombinator.com/item?id=48476214" data-time="1781099174">
+<a class="thumb" href="https://www.newscientist.com/article/2529849-fully-autonomous-drones-have-killed-human-soldiers-for-the-first-time/" target="_blank" rel="noopener"><img class='th' src='https://images.newscientist.com/wp-content/uploads/2026/06/10104553/SEI_300076919.jpg' alt='' loading='lazy' referrerpolicy='no-referrer' data-d='newscientist.com' data-c='#f97316' data-tag='Politics'></a><button class="fav" aria-label="favorite">☆</button>
+<div class="sbody"><div class="rk">77</div>
+<h3 class="st"><a href="https://www.newscientist.com/article/2529849-fully-autonomous-drones-have-killed-human-soldiers-for-the-first-time/" target="_blank" rel="noopener"><span class='en'>Fully autonomous drones have killed human soldiers for the first time</span><span class='zh'>全自动无人机首次击杀人类士兵</span></a><span class="dom">newscientist.com</span></h3>
+<p class="sum one"><span class='en'>Fully autonomous drones have killed human soldiers for the first time, raising urgent ethical, legal, and strategic questions about the deployment of fully autonomous weapons.</span><span class='zh'>完全自主无人机首次致使士兵死亡，引发关于自治武器部署的伦理、法律与战略层面的紧迫讨论。</span></p>
+<p class="sum full"><span class='en'>Fully autonomous drones have killed human soldiers for the first time, raising urgent ethical, legal, and strategic questions about the deployment of fully autonomous weapons.</span><span class='zh'>完全自主无人机首次致使士兵死亡，引发关于自治武器部署的伦理、法律与战略层面的紧迫讨论。</span></p>
+<div class="sfoot"><span class="tags"><span class='tag' data-t='Politics' style='--c:#f97316'>Politics</span><span class='tag' data-t='Security' style='--c:#ef4444'>Security</span><span class='tag' data-t='Legal' style='--c:#64748b'>Legal</span></span><span class='metas'><span class='m hot ic-fire'>0.2</span><span class='m ic-up'>179</span><a class='m ic-chat' href='https://news.ycombinator.com/item?id=48476214' target='_blank' rel='noopener'>160</a></span></div></div></article><article class="story" id="story-48476474" data-id="48476474" data-tags="AI|Data" data-score="179" data-comments="119" data-hn="https://news.ycombinator.com/item?id=48476474" data-time="1781100220">
+<a class="thumb" href="https://news.ycombinator.com/item?id=48476474" target="_blank" rel="noopener"><div class='th fb' style='--c:#8b5cf6' data-tag='AI'><img class='fbi' src='https://www.google.com/s2/favicons?domain=news.ycombinator.com&amp;sz=64' alt='' loading='lazy'><span class='fbd'>news.ycombinator.com</span></div></a><button class="fav" aria-label="favorite">☆</button>
+<div class="sbody"><div class="rk">78</div>
+<h3 class="st"><a href="https://news.ycombinator.com/item?id=48476474" target="_blank" rel="noopener"><span class='en'>Notes on DeepSeek</span><span class='zh'>关于 DeepSeek 的笔记</span></a><span class="dom">news.ycombinator.com</span></h3>
+<p class="sum one"><span class='en'>Notes on DeepSeek—likely a new AI-powered search or data platform—covering design decisions, capabilities, and potential use cases in data retrieval or AI workflows.</span><span class='zh'>对 DeepSeek 的观察与思考，讨论其设计、能力及在数据检索或 AI 工作流中的潜在应用场景。</span></p>
+<p class="sum full"><span class='en'>Notes on DeepSeek—likely a new AI-powered search or data platform—covering design decisions, capabilities, and potential use cases in data retrieval or AI workflows.</span><span class='zh'>对 DeepSeek 的观察与思考，讨论其设计、能力及在数据检索或 AI 工作流中的潜在应用场景。</span></p>
+<div class="sfoot"><span class="tags"><span class='tag' data-t='AI' style='--c:#8b5cf6'>AI</span><span class='tag' data-t='Data' style='--c:#6366f1'>Data</span></span><span class='metas'><span class='m hot ic-fire'>0.2</span><span class='m ic-up'>179</span><a class='m ic-chat' href='https://news.ycombinator.com/item?id=48476474' target='_blank' rel='noopener'>119</a></span></div></div></article><article class="story" id="story-48462070" data-id="48462070" data-tags="Open Source" data-score="279" data-comments="120" data-hn="https://news.ycombinator.com/item?id=48462070" data-time="1781017303">
+<a class="thumb" href="https://www.phoronix.com/news/macOS-27-Beta-Breaks-Asahi" target="_blank" rel="noopener"><img class='th' src='https://www.phoronix.net/image.php?id=2026&amp;image=macos_27' alt='' loading='lazy' referrerpolicy='no-referrer' data-d='phoronix.com' data-c='#22c55e' data-tag='Open Source'></a><button class="fav" aria-label="favorite">☆</button>
+<div class="sbody"><div class="rk">79</div>
+<h3 class="st"><a href="https://www.phoronix.com/news/macOS-27-Beta-Breaks-Asahi" target="_blank" rel="noopener"><span class='en'>macOS 27 Beta breaks the ability to boot Asahi Linux</span><span class='zh'>macOS 27 Beta 破坏了 Asahi Linux 启动能力</span></a><span class="dom">phoronix.com</span></h3>
+<p class="sum one"><span class='en'>macOS 27 beta breaks the ability to boot Asahi Linux on Apple Silicon, complicating dual-boot setups and open-source Linux on Macs.</span><span class='zh'>macOS 27 测试版会打破在 Apple Silicon 上启动 Asahi Linux 的能力，给双系统和开源 Linux on Macs 的工作带来难题。</span></p>
+<p class="sum full"><span class='en'>macOS 27 beta breaks the ability to boot Asahi Linux on Apple Silicon, complicating dual-boot setups and open-source Linux on Macs. The compatibility hiccup highlights the fragility of cross-platform open-source efforts.</span><span class='zh'>macOS 27 测试版会打破在 Apple Silicon 上启动 Asahi Linux 的能力，给双系统和开源 Linux on Macs 的工作带来难题。这突显了跨平台开源努力的脆弱性。</span></p>
+<div class="sfoot"><span class="tags"><span class='tag' data-t='Open Source' style='--c:#22c55e'>Open Source</span></span><span class='metas'><span class='m hot ic-fire'>0.1</span><span class='m ic-up'>279</span><a class='m ic-chat' href='https://news.ycombinator.com/item?id=48462070' target='_blank' rel='noopener'>120</a></span></div></div></article><article class="story" id="story-48482293" data-id="48482293" data-tags="Science|AI" data-score="93" data-comments="99" data-hn="https://news.ycombinator.com/item?id=48482293" data-time="1781123707">
+<a class="thumb" href="https://www.sas.upenn.edu/~cavitch/pdf-library/Nagel_Bat.pdf" target="_blank" rel="noopener"><div class='th fb' style='--c:#10b981' data-tag='Science'><img class='fbi' src='https://www.google.com/s2/favicons?domain=sas.upenn.edu&amp;sz=64' alt='' loading='lazy'><span class='fbd'>sas.upenn.edu</span></div></a><button class="fav" aria-label="favorite">☆</button>
+<div class="sbody"><div class="rk">80</div>
+<h3 class="st"><a href="https://www.sas.upenn.edu/~cavitch/pdf-library/Nagel_Bat.pdf" target="_blank" rel="noopener"><span class='en'>What is it like to be a bat? (1974) [pdf]</span><span class='zh'>成为一只蝙蝠是什么感觉？（1974）[PDF]</span></a><span class="dom">sas.upenn.edu</span></h3>
+<p class="sum one"><span class='en'>Thomas Nagel argues that knowing a bat&#x27;s physiology doesn&#x27;t reveal what it is like to be a bat, highlighting the hard problem of consciousness.</span><span class='zh'>奈格尔在这篇论文中主张，即使能全面了解蝙蝠的生理，也无法知道它的主观感受是什么。</span></p>
+<p class="sum full"><span class='en'>Thomas Nagel argues that knowing a bat&#x27;s physiology doesn&#x27;t reveal what it is like to be a bat, highlighting the hard problem of consciousness. The paper advances the idea that subjective experience resists reduction to physical descriptions, shaping debates in philosophy of mind and AI ethics.</span><span class='zh'>奈格尔在这篇论文中主张，即使能全面了解蝙蝠的生理，也无法知道它的主观感受是什么。这揭示意识的主观性难以被完全还原为客观物理描述，并影响后续的心智哲学与 AI 伦理讨论。</span></p>
+<div class="sfoot"><span class="tags"><span class='tag' data-t='Science' style='--c:#10b981'>Science</span><span class='tag' data-t='AI' style='--c:#8b5cf6'>AI</span></span><span class='metas'><span class='m hot ic-fire'>0.1</span><span class='m ic-up'>93</span><a class='m ic-chat' href='https://news.ycombinator.com/item?id=48482293' target='_blank' rel='noopener'>99</a></span></div></div></article><article class="story" id="story-48486944" data-id="48486944" data-tags="Programming|Open Source|Web" data-score="51" data-comments="50" data-hn="https://news.ycombinator.com/item?id=48486944" data-time="1781159553">
+<a class="thumb" href="https://github.com/vanyapr/makaroshki" target="_blank" rel="noopener"><img class='th' src='https://opengraph.githubassets.com/07646833cbf0395e39e1cafeaf2c70fd4bddc70c6f348fe76c46bb354374d139/vanyapr/makaroshki' alt='' loading='lazy' referrerpolicy='no-referrer' data-d='github.com' data-c='#3b82f6' data-tag='Programming'></a><button class="fav" aria-label="favorite">☆</button>
+<div class="sbody"><div class="rk">81</div>
+<h3 class="st"><a href="https://github.com/vanyapr/makaroshki" target="_blank" rel="noopener"><span class='en'>Macaroni – a single HTML file messenger</span><span class='zh'>Macaroni——一个单文件的消息应用</span></a><span class="dom">github.com</span></h3>
+<p class="sum one"><span class='en'>A compact, self-contained messenger implemented as a single HTML file, showcasing how to bundle UI, logic, and data into one portable artifact.</span><span class='zh'>一个紧凑且自包容的消息应用，用单一 HTML 文件实现，展示了如何把界面、逻辑和数据打包成一个便携的产物。</span></p>
+<p class="sum full"><span class='en'>A compact, self-contained messenger implemented as a single HTML file, showcasing how to bundle UI, logic, and data into one portable artifact. It&#x27;s a minimalist take on a chat app designed for easy distribution and offline use.</span><span class='zh'>一个紧凑且自包容的消息应用，用单一 HTML 文件实现，展示了如何把界面、逻辑和数据打包成一个便携的产物。体现了便于分发与离线使用的极简聊天应用思路。</span></p>
+<div class="sfoot"><span class="tags"><span class='tag' data-t='Programming' style='--c:#3b82f6'>Programming</span><span class='tag' data-t='Open Source' style='--c:#22c55e'>Open Source</span><span class='tag' data-t='Web' style='--c:#06b6d4'>Web</span></span><span class='metas'><span class='m hot ic-fire'>0.1</span><span class='m ic-up'>51</span><a class='m ic-chat' href='https://news.ycombinator.com/item?id=48486944' target='_blank' rel='noopener'>50</a></span></div></div></article><article class="story" id="story-48477208" data-id="48477208" data-tags="Security|Open Source" data-score="94" data-comments="32" data-hn="https://news.ycombinator.com/item?id=48477208" data-time="1781103071">
+<a class="thumb" href="https://printserver.ink/blog/spoiling-the-kernel/" target="_blank" rel="noopener"><div class='th fb' style='--c:#ef4444' data-tag='Security'><img class='fbi' src='https://www.google.com/s2/favicons?domain=printserver.ink&amp;sz=64' alt='' loading='lazy'><span class='fbd'>printserver.ink</span></div></a><button class="fav" aria-label="favorite">☆</button>
+<div class="sbody"><div class="rk">82</div>
+<h3 class="st"><a href="https://printserver.ink/blog/spoiling-the-kernel/" target="_blank" rel="noopener"><span class='en'>Spoiling Linux Kernel with &quot;sanctioned&quot; code</span><span class='zh'>Spoiling Linux Kernel：所谓的“被批准”代码</span></a><span class="dom">printserver.ink</span></h3>
+<p class="sum one"><span class='en'>A discussion about injecting &#x27;sanctioned&#x27; code into the Linux kernel, raising questions about governance, community norms, and security.</span><span class='zh'>关于在 Linux 内核中注入“被批准”的代码的讨论，提出治理、社区规范与安全性方面的问题。</span></p>
+<p class="sum full"><span class='en'>A discussion about injecting &#x27;sanctioned&#x27; code into the Linux kernel, raising questions about governance, community norms, and security.</span><span class='zh'>关于在 Linux 内核中注入“被批准”的代码的讨论，提出治理、社区规范与安全性方面的问题。</span></p>
+<div class="sfoot"><span class="tags"><span class='tag' data-t='Security' style='--c:#ef4444'>Security</span><span class='tag' data-t='Open Source' style='--c:#22c55e'>Open Source</span></span><span class='metas'><span class='m hot ic-fire'>0.1</span><span class='m ic-up'>94</span><a class='m ic-chat' href='https://news.ycombinator.com/item?id=48477208' target='_blank' rel='noopener'>32</a></span></div></div></article><article class="story" id="story-48421858" data-id="48421858" data-tags="Programming|Open Source|Hardware" data-score="829" data-comments="147" data-hn="https://news.ycombinator.com/item?id=48421858" data-time="1780725748">
+<a class="thumb" href="https://opencv.org/opencv-5/" target="_blank" rel="noopener"><img class='th' src='https://opencv.org/wp-content/uploads/2026/06/opencv-5.png' alt='' loading='lazy' referrerpolicy='no-referrer' data-d='opencv.org' data-c='#3b82f6' data-tag='Programming'></a><button class="fav" aria-label="favorite">☆</button>
+<div class="sbody"><div class="rk">83</div>
+<h3 class="st"><a href="https://opencv.org/opencv-5/" target="_blank" rel="noopener"><span class='en'>OpenCV 5 Is Here: The Biggest Leap in Years for Computer Vision</span><span class='zh'>OpenCV 5 来临：多年来计算机视觉的最大跃迁</span></a><span class="dom">opencv.org</span></h3>
+<p class="sum one"><span class='en'>OpenCV 5 arrives with a major leap for computer vision, including API overhauls, performance gains, and expanded hardware and back-end support.</span><span class='zh'>OpenCV 5 发布带来计算机视觉领域的重大跃迁，包含 API 大改、性能提升以及对新硬件和后端的扩展支持。</span></p>
+<p class="sum full"><span class='en'>OpenCV 5 arrives with a major leap for computer vision, including API overhauls, performance gains, and expanded hardware and back-end support. It signals a more streamlined path to building, deploying, and optimizing CV apps.</span><span class='zh'>OpenCV 5 发布带来计算机视觉领域的重大跃迁，包含 API 大改、性能提升以及对新硬件和后端的扩展支持。此举为构建、部署与优化计算机视觉应用提供更简便的路径。</span></p>
+<div class="sfoot"><span class="tags"><span class='tag' data-t='Programming' style='--c:#3b82f6'>Programming</span><span class='tag' data-t='Open Source' style='--c:#22c55e'>Open Source</span><span class='tag' data-t='Hardware' style='--c:#f59e0b'>Hardware</span></span><span class='metas'><span class='m hot ic-fire'>0.1</span><span class='m ic-up'>829</span><a class='m ic-chat' href='https://news.ycombinator.com/item?id=48421858' target='_blank' rel='noopener'>147</a></span></div></div></article><article class="story" id="story-48442880" data-id="48442880" data-tags="Career" data-score="378" data-comments="132" data-hn="https://news.ycombinator.com/item?id=48442880" data-time="1780909031">
+<a class="thumb" href="https://www.seangoedecke.com/doing-nothing-at-work/" target="_blank" rel="noopener"><img class='th' src='https://www.seangoedecke.com/og-image.jpg' alt='' loading='lazy' referrerpolicy='no-referrer' data-d='seangoedecke.com' data-c='#2dd4bf' data-tag='Career'></a><button class="fav" aria-label="favorite">☆</button>
+<div class="sbody"><div class="rk">84</div>
+<h3 class="st"><a href="https://www.seangoedecke.com/doing-nothing-at-work/" target="_blank" rel="noopener"><span class='en'>Doing nothing at work</span><span class='zh'>在工作中什么都不做</span></a><span class="dom">seangoedecke.com</span></h3>
+<p class="sum one"><span class='en'>Explores the value and risks of deliberate idleness at work, including how it impacts creativity, focus, and productivity.</span><span class='zh'>探讨在工作中有意“什么都不做”的价值与风险，以及对创造力、专注力和生产力的影响。</span></p>
+<p class="sum full"><span class='en'>Explores the value and risks of deliberate idleness at work, including how it impacts creativity, focus, and productivity.</span><span class='zh'>探讨在工作中有意“什么都不做”的价值与风险，以及对创造力、专注力和生产力的影响。</span></p>
+<div class="sfoot"><span class="tags"><span class='tag' data-t='Career' style='--c:#2dd4bf'>Career</span></span><span class='metas'><span class='m hot ic-fire'>0.1</span><span class='m ic-up'>378</span><a class='m ic-chat' href='https://news.ycombinator.com/item?id=48442880' target='_blank' rel='noopener'>132</a></span></div></div></article><article class="story" id="story-48456808" data-id="48456808" data-tags="Politics" data-score="232" data-comments="40" data-hn="https://news.ycombinator.com/item?id=48456808" data-time="1780982499">
+<a class="thumb" href="https://mceglowski.substack.com/p/laffaire-siloxane" target="_blank" rel="noopener"><div class='th fb' style='--c:#f97316' data-tag='Politics'><img class='fbi' src='https://www.google.com/s2/favicons?domain=mceglowski.substack.com&amp;sz=64' alt='' loading='lazy'><span class='fbd'>mceglowski.substack.com</span></div></a><button class="fav" aria-label="favorite">☆</button>
+<div class="sbody"><div class="rk">85</div>
+<h3 class="st"><a href="https://mceglowski.substack.com/p/laffaire-siloxane" target="_blank" rel="noopener"><span class='en'>L&#x27;Affaire Siloxane</span><span class='zh'>Siloxane 事件</span></a><span class="dom">mceglowski.substack.com</span></h3>
+<p class="sum one"><span class='en'>This piece offers a concise examination of the Siloxane affair, highlighting its implications for tech policy, ethics, and governance.</span><span class='zh'>关于 Siloxane 事件的简要分析，聚焦其对科技治理、伦理与政策的影响。</span></p>
+<p class="sum full"><span class='en'>This piece offers a concise examination of the Siloxane affair, highlighting its implications for tech policy, ethics, and governance.</span><span class='zh'>关于 Siloxane 事件的简要分析，聚焦其对科技治理、伦理与政策的影响。</span></p>
+<div class="sfoot"><span class="tags"><span class='tag' data-t='Politics' style='--c:#f97316'>Politics</span></span><span class='metas'><span class='m hot ic-fire'>0.1</span><span class='m ic-up'>232</span><a class='m ic-chat' href='https://news.ycombinator.com/item?id=48456808' target='_blank' rel='noopener'>40</a></span></div></div></article><article class="story" id="story-48452001" data-id="48452001" data-tags="Hardware|Programming" data-score="260" data-comments="79" data-hn="https://news.ycombinator.com/item?id=48452001" data-time="1780952521">
+<a class="thumb" href="https://www.tomshardware.com/video-games/handheld-gaming/developer-gets-half-life-running-at-30-fps-on-a-2007-nokia-n95" target="_blank" rel="noopener"><img class='th' src='https://cdn.mos.cms.futurecdn.net/5GpHGZRJr9ojBLYomT6JQQ-1920-80.png' alt='' loading='lazy' referrerpolicy='no-referrer' data-d='tomshardware.com' data-c='#f59e0b' data-tag='Hardware'></a><button class="fav" aria-label="favorite">☆</button>
+<div class="sbody"><div class="rk">86</div>
+<h3 class="st"><a href="https://www.tomshardware.com/video-games/handheld-gaming/developer-gets-half-life-running-at-30-fps-on-a-2007-nokia-n95" target="_blank" rel="noopener"><span class='en'>Developer gets Half-Life running at 30 FPS on a Nokia N95</span><span class='zh'>开发者在诺基亚 N95 上让 Half-Life 以 30 FPS 运行</span></a><span class="dom">tomshardware.com</span></h3>
+<p class="sum one"><span class='en'>A developer makes Half-Life run at 30 FPS on a Nokia N95, a vivid demonstration of retro hardware porting and optimization.</span><span class='zh'>开发者让《半条命》在诺基亚 N95 上以约 30 FPS 运行，生动展示了对老设备的端口与优化。</span></p>
+<p class="sum full"><span class='en'>A developer makes Half-Life run at 30 FPS on a Nokia N95, a vivid demonstration of retro hardware porting and optimization. The feat highlights how constraints can inspire clever engineering.</span><span class='zh'>开发者让《半条命》在诺基亚 N95 上以约 30 FPS 运行，生动展示了对老设备的端口与优化。此成就体现了约束如何激发巧妙的工程实现。</span></p>
+<div class="sfoot"><span class="tags"><span class='tag' data-t='Hardware' style='--c:#f59e0b'>Hardware</span><span class='tag' data-t='Programming' style='--c:#3b82f6'>Programming</span></span><span class='metas'><span class='m hot ic-fire'>0.1</span><span class='m ic-up'>260</span><a class='m ic-chat' href='https://news.ycombinator.com/item?id=48452001' target='_blank' rel='noopener'>79</a></span></div></div></article><article class="story" id="story-48475898" data-id="48475898" data-tags="Science" data-score="70" data-comments="57" data-hn="https://news.ycombinator.com/item?id=48475898" data-time="1781097623">
+<a class="thumb" href="https://www.marginallycompelling.com/p/oh-good-screwworms-are-back" target="_blank" rel="noopener"><img class='th' src='https://substackcdn.com/image/fetch/$s_!uTvf!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5d749cfa-7972-49cc-af29-82b955a61413_673x446.png' alt='' loading='lazy' referrerpolicy='no-referrer' data-d='marginallycompelling.com' data-c='#10b981' data-tag='Science'></a><button class="fav" aria-label="favorite">☆</button>
+<div class="sbody"><div class="rk">87</div>
+<h3 class="st"><a href="https://www.marginallycompelling.com/p/oh-good-screwworms-are-back" target="_blank" rel="noopener"><span class='en'>Oh good, screwworms are back (2025)</span><span class='zh'>哦，好消息，蠕螬虫又回来了（2025）</span></a><span class="dom">marginallycompelling.com</span></h3>
+<p class="sum one"><span class='en'>Screwworm outbreaks reappear in 2025, highlighting ongoing pest control and biosecurity challenges.</span><span class='zh'>2025 年蠕螬虫再次出现，凸显持续的病虫害防控与生物安全挑战。</span></p>
+<p class="sum full"><span class='en'>Screwworm outbreaks reappear in 2025, highlighting ongoing pest control and biosecurity challenges.</span><span class='zh'>2025 年蠕螬虫再次出现，凸显持续的病虫害防控与生物安全挑战。</span></p>
+<div class="sfoot"><span class="tags"><span class='tag' data-t='Science' style='--c:#10b981'>Science</span></span><span class='metas'><span class='m hot ic-fire'>0.1</span><span class='m ic-up'>70</span><a class='m ic-chat' href='https://news.ycombinator.com/item?id=48475898' target='_blank' rel='noopener'>57</a></span></div></div></article><article class="story" id="story-48447598" data-id="48447598" data-tags="Education" data-score="208" data-comments="92" data-hn="https://news.ycombinator.com/item?id=48447598" data-time="1780936687">
+<a class="thumb" href="https://tonedear.com/" target="_blank" rel="noopener"><div class='th fb' style='--c:#60a5fa' data-tag='Education'><img class='fbi' src='https://www.google.com/s2/favicons?domain=tonedear.com&amp;sz=64' alt='' loading='lazy'><span class='fbd'>tonedear.com</span></div></a><button class="fav" aria-label="favorite">☆</button>
+<div class="sbody"><div class="rk">88</div>
+<h3 class="st"><a href="https://tonedear.com/" target="_blank" rel="noopener"><span class='en'>Ear Training Practice</span><span class='zh'>耳朵训练练习</span></a><span class="dom">tonedear.com</span></h3>
+<p class="sum one"><span class='en'>Tone Dear curates structured ear-training drills to improve pitch recognition, interval sense, and rhythm.</span><span class='zh'>Tone Dear 收集了结构化的耳朵训练练习，提升音高辨识、音程感知和节奏感。</span></p>
+<p class="sum full"><span class='en'>Tone Dear curates structured ear-training drills to improve pitch recognition, interval sense, and rhythm. The exercises help musicians build a reliable internal reference and speed up practice, sight-singing, and improvisation. A practical resource for students and hobbyists alike.</span><span class='zh'>Tone Dear 收集了结构化的耳朵训练练习，提升音高辨识、音程感知和节奏感。练习有助于建立稳定的内部音高参考，提升视唱与即兴表现的速度。对学生与业余爱好者都是实用的工具。</span></p>
+<div class="sfoot"><span class="tags"><span class='tag' data-t='Education' style='--c:#60a5fa'>Education</span></span><span class='metas'><span class='m hot ic-fire'>0.1</span><span class='m ic-up'>208</span><a class='m ic-chat' href='https://news.ycombinator.com/item?id=48447598' target='_blank' rel='noopener'>92</a></span></div></div></article><article class="story" id="story-48470578" data-id="48470578" data-tags="Gaming|Hardware" data-score="87" data-comments="56" data-hn="https://news.ycombinator.com/item?id=48470578" data-time="1781058305">
+<a class="thumb" href="https://www.inverse.com/input/gaming/the-dirty-secret-that-makes-speedrunning-on-spongebob-a-lot-faster" target="_blank" rel="noopener"><img class='th' src='https://imgix.bustle.com/uploads/getty/2021/3/11/e197b7d0-36bf-4e29-b491-562a4c1aad45-getty-1149878457.jpg?w=1200&amp;h=630&amp;fit=crop&amp;crop=faces&amp;fm=jpg' alt='' loading='lazy' referrerpolicy='no-referrer' data-d='inverse.com' data-c='#a855f7' data-tag='Gaming'></a><button class="fav" aria-label="favorite">☆</button>
+<div class="sbody"><div class="rk">89</div>
+<h3 class="st"><a href="https://www.inverse.com/input/gaming/the-dirty-secret-that-makes-speedrunning-on-spongebob-a-lot-faster" target="_blank" rel="noopener"><span class='en'>Smudging the game disc to make speedrunning &#x27;SpongeBob&#x27; faster</span><span class='zh'>通过抹污游戏光盘让《海绵宝宝》速通更快</span></a><span class="dom">inverse.com</span></h3>
+<p class="sum one"><span class='en'>The piece documents a hardware-based trick to speedrun SpongeBob by smudging a game disc; it discusses feasibility, reproducibility, and ethics of hardware exploits in speedrunning.</span><span class='zh'>文章记录通过抹污光盘以提升《海绵宝宝》速通速度的做法，讨论其可行性、可重复性以及在速通领域的道德边界。</span></p>
+<p class="sum full"><span class='en'>The piece documents a hardware-based trick to speedrun SpongeBob by smudging a game disc; it discusses feasibility, reproducibility, and ethics of hardware exploits in speedrunning.</span><span class='zh'>文章记录通过抹污光盘以提升《海绵宝宝》速通速度的做法，讨论其可行性、可重复性以及在速通领域的道德边界。</span></p>
+<div class="sfoot"><span class="tags"><span class='tag' data-t='Gaming' style='--c:#a855f7'>Gaming</span><span class='tag' data-t='Hardware' style='--c:#f59e0b'>Hardware</span></span><span class='metas'><span class='m hot ic-fire'>0.1</span><span class='m ic-up'>87</span><a class='m ic-chat' href='https://news.ycombinator.com/item?id=48470578' target='_blank' rel='noopener'>56</a></span></div></div></article><article class="story" id="story-48443644" data-id="48443644" data-tags="AI|Open Source" data-score="196" data-comments="44" data-hn="https://news.ycombinator.com/item?id=48443644" data-time="1780915484">
+<a class="thumb" href="https://paperswithcode.co/" target="_blank" rel="noopener"><img class='th' src='https://paperswithcode.co/og-image.png?v=2' alt='' loading='lazy' referrerpolicy='no-referrer' data-d='paperswithcode.co' data-c='#8b5cf6' data-tag='AI'></a><button class="fav" aria-label="favorite">☆</button>
+<div class="sbody"><div class="rk">90</div>
+<h3 class="st"><a href="https://paperswithcode.co/" target="_blank" rel="noopener"><span class='en'>Reviving Papers with Code</span><span class='zh'>Papers with Code 重新上线</span></a><span class="dom">paperswithcode.co</span></h3>
+<p class="sum one"><span class='en'>Papers with Code is being revived, reestablishing a link between research papers and open-source implementations.</span><span class='zh'>Papers with Code 正在重新上线，重新建立论文与开源实现之间的联系。</span></p>
+<p class="sum full"><span class='en'>Papers with Code is being revived, reestablishing a link between research papers and open-source implementations. The revival could help researchers verify results and reuse code more easily, reinforcing reproducibility in AI and ML.</span><span class='zh'>Papers with Code 正在重新上线，重新建立论文与开源实现之间的联系。这一举措将帮助研究者更易验证结果、复用代码，提升 AI/ML 研究的可复现实验性。</span></p>
+<div class="sfoot"><span class="tags"><span class='tag' data-t='AI' style='--c:#8b5cf6'>AI</span><span class='tag' data-t='Open Source' style='--c:#22c55e'>Open Source</span></span><span class='metas'><span class='m hot ic-fire'>0.1</span><span class='m ic-up'>196</span><a class='m ic-chat' href='https://news.ycombinator.com/item?id=48443644' target='_blank' rel='noopener'>44</a></span></div></div></article><article class="story" id="story-48459678" data-id="48459678" data-tags="Design|Web" data-score="123" data-comments="78" data-hn="https://news.ycombinator.com/item?id=48459678" data-time="1781004620">
+<a class="thumb" href="https://matklad.github.io/2026/06/04/css-unavoidable-bad-parts.html" target="_blank" rel="noopener"><div class='th fb' style='--c:#f472b6' data-tag='Design'><img class='fbi' src='https://www.google.com/s2/favicons?domain=matklad.github.io&amp;sz=64' alt='' loading='lazy'><span class='fbd'>matklad.github.io</span></div></a><button class="fav" aria-label="favorite">☆</button>
+<div class="sbody"><div class="rk">91</div>
+<h3 class="st"><a href="https://matklad.github.io/2026/06/04/css-unavoidable-bad-parts.html" target="_blank" rel="noopener"><span class='en'>CSS: Unavoidable Bad Parts</span><span class='zh'>CSS 的不可避免的坏部分</span></a><span class="dom">matklad.github.io</span></h3>
+<p class="sum one"><span class='en'>CSS has endemic &#x27;bad parts&#x27; that designers must learn to work around, from selector specificity to layout quirks.</span><span class='zh'>CSS 存在天生的‘坏部分’，比如选择器的特异性和布局怪癖，往往需要设计者去绕行。</span></p>
+<p class="sum full"><span class='en'>CSS has endemic &#x27;bad parts&#x27; that designers must learn to work around, from selector specificity to layout quirks. The post argues these design flaws are not mistakes but systemic constraints that require clever patterns and mental models.</span><span class='zh'>CSS 存在天生的‘坏部分’，比如选择器的特异性和布局怪癖，往往需要设计者去绕行。文中认为这些缺陷不是错误，而是系统性约束，需要通过巧妙的模式与思维模型来应对。</span></p>
+<div class="sfoot"><span class="tags"><span class='tag' data-t='Design' style='--c:#f472b6'>Design</span><span class='tag' data-t='Web' style='--c:#06b6d4'>Web</span></span><span class='metas'><span class='m hot ic-fire'>0.1</span><span class='m ic-up'>123</span><a class='m ic-chat' href='https://news.ycombinator.com/item?id=48459678' target='_blank' rel='noopener'>78</a></span></div></div></article><article class="story" id="story-48461635" data-id="48461635" data-tags="AI" data-score="117" data-comments="46" data-hn="https://news.ycombinator.com/item?id=48461635" data-time="1781015374">
+<a class="thumb" href="https://medium.com/@rogi23696/build-a-basic-ai-agent-from-scratch-long-task-planning-14e803f9bd6d" target="_blank" rel="noopener"><img class='th' src='https://miro.medium.com/v2/da:true/bc1f8416df0cad099e43cda2872716e5864f18a73bda2a7547ea082aca9b5632' alt='' loading='lazy' referrerpolicy='no-referrer' data-d='medium.com' data-c='#8b5cf6' data-tag='AI'></a><button class="fav" aria-label="favorite">☆</button>
+<div class="sbody"><div class="rk">92</div>
+<h3 class="st"><a href="https://medium.com/@rogi23696/build-a-basic-ai-agent-from-scratch-long-task-planning-14e803f9bd6d" target="_blank" rel="noopener"><span class='en'>Build a Basic AI Agent from Scratch: Long Task Planning</span><span class='zh'>从零开始构建一个基本的 AI 代理：长任务规划</span></a><span class="dom">medium.com</span></h3>
+<p class="sum one"><span class='en'>An approachable, hands-on guide to building a simple AI agent from scratch, with a focus on long-horizon task planning and goal decomposition.</span><span class='zh'>一本易于上手的实操指南，讲解如何从零开始构建一个简单的 AI 代理，聚焦于长时任务规划与目标分解。</span></p>
+<p class="sum full"><span class='en'>An approachable, hands-on guide to building a simple AI agent from scratch, with a focus on long-horizon task planning and goal decomposition. It presents practical patterns for structuring planners, managing state, and handling multi-step tasks.</span><span class='zh'>一本易于上手的实操指南，讲解如何从零开始构建一个简单的 AI 代理，聚焦于长时任务规划与目标分解。文中给出在规划器结构、状态管理以及多步任务处理方面的实用模式。</span></p>
+<div class="sfoot"><span class="tags"><span class='tag' data-t='AI' style='--c:#8b5cf6'>AI</span></span><span class='metas'><span class='m hot ic-fire'>0.1</span><span class='m ic-up'>117</span><a class='m ic-chat' href='https://news.ycombinator.com/item?id=48461635' target='_blank' rel='noopener'>46</a></span></div></div></article><article class="story" id="story-48464484" data-id="48464484" data-tags="Science" data-score="109" data-comments="101" data-hn="https://news.ycombinator.com/item?id=48464484" data-time="1781026631">
+<a class="thumb" href="https://thetyee.ca/Culture/2026/06/05/Whos-the-Smartest-Corvid/" target="_blank" rel="noopener"><div class='th fb' style='--c:#10b981' data-tag='Science'><img class='fbi' src='https://www.google.com/s2/favicons?domain=thetyee.ca&amp;sz=64' alt='' loading='lazy'><span class='fbd'>thetyee.ca</span></div></a><button class="fav" aria-label="favorite">☆</button>
+<div class="sbody"><div class="rk">93</div>
+<h3 class="st"><a href="https://thetyee.ca/Culture/2026/06/05/Whos-the-Smartest-Corvid/" target="_blank" rel="noopener"><span class='en'>Who&#x27;s the smartest corvid?</span><span class='zh'>谁是最聪明的乌鸦科动物？</span></a><span class="dom">thetyee.ca</span></h3>
+<p class="sum one"><span class='en'>The piece surveys corvid intelligence, arguing certain crow species exhibit impressive problem-solving and tool-use abilities, challenging common assumptions about animal cognition.</span><span class='zh'>文章梳理乌鸦科动物的智力，指出某些乌鸦具有出色的问题解决与工具使用能力，挑战对动物认知的常见看法。</span></p>
+<p class="sum full"><span class='en'>The piece surveys corvid intelligence, arguing certain crow species exhibit impressive problem-solving and tool-use abilities, challenging common assumptions about animal cognition.</span><span class='zh'>文章梳理乌鸦科动物的智力，指出某些乌鸦具有出色的问题解决与工具使用能力，挑战对动物认知的常见看法。</span></p>
+<div class="sfoot"><span class="tags"><span class='tag' data-t='Science' style='--c:#10b981'>Science</span></span><span class='metas'><span class='m hot ic-fire'>0.1</span><span class='m ic-up'>109</span><a class='m ic-chat' href='https://news.ycombinator.com/item?id=48464484' target='_blank' rel='noopener'>101</a></span></div></div></article><article class="story" id="story-48442932" data-id="48442932" data-tags="Business|DevOps" data-score="174" data-comments="103" data-hn="https://news.ycombinator.com/item?id=48442932" data-time="1780909529">
+<a class="thumb" href="https://sbbresale.ch/" target="_blank" rel="noopener"><div class='th fb' style='--c:#0ea5e9' data-tag='Business'><img class='fbi' src='https://www.google.com/s2/favicons?domain=sbbresale.ch&amp;sz=64' alt='' loading='lazy'><span class='fbd'>sbbresale.ch</span></div></a><button class="fav" aria-label="favorite">☆</button>
+<div class="sbody"><div class="rk">94</div>
+<h3 class="st"><a href="https://sbbresale.ch/" target="_blank" rel="noopener"><span class='en'>Buy a train, bridge or tracks from the Swiss Railway</span><span class='zh'>从瑞士铁路买火车、桥梁或轨道</span></a><span class="dom">sbbresale.ch</span></h3>
+<p class="sum one"><span class='en'>SBB resale program lets buyers purchase former trains, bridges, or tracks from Swiss Railways; unusual heritage or infrastructure projects may emerge.</span><span class='zh'>瑞士铁路推出资产再销售计划，出售包括列车、桥梁与轨道等历史资产，面向个人或机构买家，适合开展独特的硬件或基础设施项目，但需注意合规与安全。</span></p>
+<p class="sum full"><span class='en'>SBB resale program lets buyers purchase former trains, bridges, or tracks from Swiss Railways; unusual heritage or infrastructure projects may emerge.</span><span class='zh'>瑞士铁路推出资产再销售计划，出售包括列车、桥梁与轨道等历史资产，面向个人或机构买家，适合开展独特的硬件或基础设施项目，但需注意合规与安全。</span></p>
+<div class="sfoot"><span class="tags"><span class='tag' data-t='Business' style='--c:#0ea5e9'>Business</span><span class='tag' data-t='DevOps' style='--c:#14b8a6'>DevOps</span></span><span class='metas'><span class='m hot ic-fire'>0.1</span><span class='m ic-up'>174</span><a class='m ic-chat' href='https://news.ycombinator.com/item?id=48442932' target='_blank' rel='noopener'>103</a></span></div></div></article><article class="story" id="story-48455145" data-id="48455145" data-tags="Entertainment" data-score="124" data-comments="54" data-hn="https://news.ycombinator.com/item?id=48455145" data-time="1780969538">
+<a class="thumb" href="https://www.rifters.com/real/STARFISH.htm#prelude" target="_blank" rel="noopener"><img class='th' src='https://www.rifters.com/real/blackstrip.gif' alt='' loading='lazy' referrerpolicy='no-referrer' data-d='rifters.com' data-c='#c084fc' data-tag='Entertainment'></a><button class="fav" aria-label="favorite">☆</button>
+<div class="sbody"><div class="rk">95</div>
+<h3 class="st"><a href="https://www.rifters.com/real/STARFISH.htm#prelude" target="_blank" rel="noopener"><span class='en'>Starfish by Peter Watts (1999)</span><span class='zh'>彼得·沃茨的《海星》（1999）</span></a><span class="dom">rifters.com</span></h3>
+<p class="sum one"><span class='en'>Peter Watts&#x27;s Starfish (1999) offers a hard-SF exploration of biotech, consciousness, and post-human ethics.</span><span class='zh'>彼得·沃茨的《海星》（1999）以硬科幻笔触探讨生物技术、意识和后人类伦理；在极端情境下，描绘了增强技术与认知的交汇，引发对未来科技与人性的思考。</span></p>
+<p class="sum full"><span class='en'>Peter Watts&#x27;s Starfish (1999) offers a hard-SF exploration of biotech, consciousness, and post-human ethics. The story probes how enhancement tech and cognition intersect under extreme conditions, prompting reflection on future tech and humanity.</span><span class='zh'>彼得·沃茨的《海星》（1999）以硬科幻笔触探讨生物技术、意识和后人类伦理；在极端情境下，描绘了增强技术与认知的交汇，引发对未来科技与人性的思考。</span></p>
+<div class="sfoot"><span class="tags"><span class='tag' data-t='Entertainment' style='--c:#c084fc'>Entertainment</span></span><span class='metas'><span class='m hot ic-fire'>0.1</span><span class='m ic-up'>124</span><a class='m ic-chat' href='https://news.ycombinator.com/item?id=48455145' target='_blank' rel='noopener'>54</a></span></div></div></article><article class="story" id="story-48458895" data-id="48458895" data-tags="Programming" data-score="112" data-comments="34" data-hn="https://news.ycombinator.com/item?id=48458895" data-time="1780998650">
+<a class="thumb" href="https://farnoy.dev/posts/linux-latency" target="_blank" rel="noopener"><img class='th' src='https://farnoy.dev/posts/linux-latency/index.png' alt='' loading='lazy' referrerpolicy='no-referrer' data-d='farnoy.dev' data-c='#3b82f6' data-tag='Programming'></a><button class="fav" aria-label="favorite">☆</button>
+<div class="sbody"><div class="rk">96</div>
+<h3 class="st"><a href="https://farnoy.dev/posts/linux-latency" target="_blank" rel="noopener"><span class='en'>Linux latency measurements and compositor tuning</span><span class='zh'>Linux 延迟测量与合成器调优</span></a><span class="dom">farnoy.dev</span></h3>
+<p class="sum one"><span class='en'>Practical guidance for measuring Linux latency and tuning the Wayland/X compositor to reduce input lag.</span><span class='zh'>提供在 Linux 上测量延迟以及针对 Wayland/X 合成器的调优方法，以降低输入延迟。</span></p>
+<p class="sum full"><span class='en'>Practical guidance for measuring Linux latency and tuning the Wayland/X compositor to reduce input lag. It covers profiling render paths, frame timing, and adjustments to vsync, buffering, and scheduling to tighten the loop.</span><span class='zh'>提供在 Linux 上测量延迟以及针对 Wayland/X 合成器的调优方法，以降低输入延迟。文章涵盖渲染路径分析、帧时序、vsync、缓冲与调度等要点，帮助提升交互流畅度。</span></p>
+<div class="sfoot"><span class="tags"><span class='tag' data-t='Programming' style='--c:#3b82f6'>Programming</span></span><span class='metas'><span class='m hot ic-fire'>0.1</span><span class='m ic-up'>112</span><a class='m ic-chat' href='https://news.ycombinator.com/item?id=48458895' target='_blank' rel='noopener'>34</a></span></div></div></article><article class="story" id="story-48462928" data-id="48462928" data-tags="Show HN|Security|Open Source|AI" data-score="92" data-comments="26" data-hn="https://news.ycombinator.com/item?id=48462928" data-time="1781021210">
+<a class="thumb" href="https://github.com/denoland/clawpatrol" target="_blank" rel="noopener"><img class='th' src='https://opengraph.githubassets.com/953af9b401f9cc24582ba73b9c7e3207401269af120e02c8a0799af11900fe98/denoland/clawpatrol' alt='' loading='lazy' referrerpolicy='no-referrer' data-d='github.com' data-c='#ff6600' data-tag='Show HN'></a><button class="fav" aria-label="favorite">☆</button>
+<div class="sbody"><div class="rk">97</div>
+<h3 class="st"><a href="https://github.com/denoland/clawpatrol" target="_blank" rel="noopener"><span class='en'>Show HN: Claw Patrol, a security firewall for agents</span><span class='zh'>Show HN：Claw Patrol——代理的安全防火墙</span></a><span class="dom">github.com</span></h3>
+<p class="sum one"><span class='en'>Claw Patrol provides a security firewall for agents, enforcing policies and containment in AI agent workflows.</span><span class='zh'>Claw Patrol 提供面向代理的安全防火墙，在 AI 代理工作流中执行策略与隔离，展示对自主系统的实际边界管控能力。</span></p>
+<p class="sum full"><span class='en'>Claw Patrol provides a security firewall for agents, enforcing policies and containment in AI agent workflows. It offers practical guardrail enforcement for autonomous systems.</span><span class='zh'>Claw Patrol 提供面向代理的安全防火墙，在 AI 代理工作流中执行策略与隔离，展示对自主系统的实际边界管控能力。</span></p>
+<div class="sfoot"><span class="tags"><span class='tag' data-t='Show HN' style='--c:#ff6600'>Show HN</span><span class='tag' data-t='Security' style='--c:#ef4444'>Security</span><span class='tag' data-t='Open Source' style='--c:#22c55e'>Open Source</span><span class='tag' data-t='AI' style='--c:#8b5cf6'>AI</span></span><span class='metas'><span class='m hot ic-fire'>0.1</span><span class='m ic-up'>92</span><a class='m ic-chat' href='https://news.ycombinator.com/item?id=48462928' target='_blank' rel='noopener'>26</a></span></div></div></article><article class="story" id="story-48466488" data-id="48466488" data-tags="Culture" data-score="77" data-comments="21" data-hn="https://news.ycombinator.com/item?id=48466488" data-time="1781033700">
+<a class="thumb" href="https://news.ycombinator.com/item?id=48466488" target="_blank" rel="noopener"><img class='th' src='https://news.ycombinator.com/y18.svg' alt='' loading='lazy' referrerpolicy='no-referrer' data-d='news.ycombinator.com' data-c='#d946ef' data-tag='Culture'></a><button class="fav" aria-label="favorite">☆</button>
+<div class="sbody"><div class="rk">98</div>
+<h3 class="st"><a href="https://news.ycombinator.com/item?id=48466488" target="_blank" rel="noopener"><span class='en'>Ask HN: Favorite text heavy blogs that are a joy to read?</span><span class='zh'>Ask HN：你最喜欢的文字密集型博客有哪些？</span></a><span class="dom">news.ycombinator.com</span></h3>
+<p class="sum one"><span class='en'>Readers share favorites of text-heavy blogs that are a joy to read, offering long-form insights and deep dives.</span><span class='zh'>读者分享最喜欢的文字密集型博客，提供长篇深度分析和丰富的洞见。</span></p>
+<p class="sum full"><span class='en'>Readers share favorites of text-heavy blogs that are a joy to read, offering long-form insights and deep dives.</span><span class='zh'>读者分享最喜欢的文字密集型博客，提供长篇深度分析和丰富的洞见。</span></p>
+<div class="sfoot"><span class="tags"><span class='tag' data-t='Culture' style='--c:#d946ef'>Culture</span></span><span class='metas'><span class='m hot ic-fire'>0.1</span><span class='m ic-up'>77</span><a class='m ic-chat' href='https://news.ycombinator.com/item?id=48466488' target='_blank' rel='noopener'>21</a></span></div></div></article><article class="story" id="story-48470748" data-id="48470748" data-tags="Design" data-score="67" data-comments="11" data-hn="https://news.ycombinator.com/item?id=48470748" data-time="1781059700">
+<a class="thumb" href="https://bethmathews.substack.com/p/the-history-behind-the-signs-lighting" target="_blank" rel="noopener"><div class='th fb' style='--c:#f472b6' data-tag='Design'><img class='fbi' src='https://www.google.com/s2/favicons?domain=bethmathews.substack.com&amp;sz=64' alt='' loading='lazy'><span class='fbd'>bethmathews.substack.com</span></div></a><button class="fav" aria-label="favorite">☆</button>
+<div class="sbody"><div class="rk">99</div>
+<h3 class="st"><a href="https://bethmathews.substack.com/p/the-history-behind-the-signs-lighting" target="_blank" rel="noopener"><span class='en'>Vacuum-Form Signage</span><span class='zh'>真空成型标牌的历史</span></a><span class="dom">bethmathews.substack.com</span></h3>
+<p class="sum one"><span class='en'>Vacuum-formed signage shaped the aesthetics and production of modern wayfinding and storefront displays.</span><span class='zh'>真空成型标牌塑造了现代导视与橱窗展示的美学与生产方式。</span></p>
+<p class="sum full"><span class='en'>Vacuum-formed signage shaped the aesthetics and production of modern wayfinding and storefront displays. The piece traces its technique, tooling, and economic implications, showing how material choices influence urban signage.</span><span class='zh'>真空成型标牌塑造了现代导视与橱窗展示的美学与生产方式。文章追踪了其工艺、工具与经济影响，揭示材料选择如何左右城市标牌的形态与成本。</span></p>
+<div class="sfoot"><span class="tags"><span class='tag' data-t='Design' style='--c:#f472b6'>Design</span></span><span class='metas'><span class='m hot ic-fire'>0.1</span><span class='m ic-up'>67</span><a class='m ic-chat' href='https://news.ycombinator.com/item?id=48470748' target='_blank' rel='noopener'>11</a></span></div></div></article><article class="story" id="story-48445702" data-id="48445702" data-tags="Programming" data-score="104" data-comments="31" data-hn="https://news.ycombinator.com/item?id=48445702" data-time="1780928132">
+<a class="thumb" href="https://aibodh.com/posts/async-rust-chapter-1-hands-on-intro-to-async-rust/" target="_blank" rel="noopener"><img class='th' src='https://aibodh.com/assets/img/block-on-oneshot-flow-dark.png' alt='' loading='lazy' referrerpolicy='no-referrer' data-d='aibodh.com' data-c='#3b82f6' data-tag='Programming'></a><button class="fav" aria-label="favorite">☆</button>
+<div class="sbody"><div class="rk">100</div>
+<h3 class="st"><a href="https://aibodh.com/posts/async-rust-chapter-1-hands-on-intro-to-async-rust/" target="_blank" rel="noopener"><span class='en'>Who Runs Your Rust Future? Hands-On Intro to Async Rust</span><span class='zh'>谁在掌控你的 Rust 未来？Async Rust 入门实战</span></a><span class="dom">aibodh.com</span></h3>
+<p class="sum one"><span class='en'>A practical, hands-on guide to async Rust, covering futures, await, and concurrency patterns.</span><span class='zh'>一本面向初学者的 Async Rust 实战指南，讲解 futures、async/await 和并发模式，帮助开发者写出可扩展、性能更优的 Rust 代码。</span></p>
+<p class="sum full"><span class='en'>A practical, hands-on guide to async Rust, covering futures, await, and concurrency patterns. It helps developers write scalable, efficient Rust code beyond theory.</span><span class='zh'>一本面向初学者的 Async Rust 实战指南，讲解 futures、async/await 和并发模式，帮助开发者写出可扩展、性能更优的 Rust 代码。</span></p>
+<div class="sfoot"><span class="tags"><span class='tag' data-t='Programming' style='--c:#3b82f6'>Programming</span></span><span class='metas'><span class='m hot ic-fire'>0.0</span><span class='m ic-up'>104</span><a class='m ic-chat' href='https://news.ycombinator.com/item?id=48445702' target='_blank' rel='noopener'>31</a></span></div></div></article><article class="story" id="story-48446532" data-id="48446532" data-tags="Data" data-score="94" data-comments="49" data-hn="https://news.ycombinator.com/item?id=48446532" data-time="1780932008">
+<a class="thumb" href="https://www.jasondavies.com/maps/voronoi/capitals/" target="_blank" rel="noopener"><img class='th' src='https://www.jasondavies.com/maps/voronoi/capitals/full.png' alt='' loading='lazy' referrerpolicy='no-referrer' data-d='jasondavies.com' data-c='#6366f1' data-tag='Data'></a><button class="fav" aria-label="favorite">☆</button>
+<div class="sbody"><div class="rk">101</div>
+<h3 class="st"><a href="https://www.jasondavies.com/maps/voronoi/capitals/" target="_blank" rel="noopener"><span class='en'>World Capitals Voronoi</span><span class='zh'>世界首都的 Voronoi 图</span></a><span class="dom">jasondavies.com</span></h3>
+<p class="sum one"><span class='en'>Voronoi diagrams partition the world into regions around each capital, illustrating geographic proximity without relying on borders.</span><span class='zh'>该作品用 Voronoi 图把世界各首都分区展示出来，每个首都成为一个区域的中心点，边界由最近的首都决定。</span></p>
+<p class="sum full"><span class='en'>Voronoi diagrams partition the world into regions around each capital, illustrating geographic proximity without relying on borders. The visualization makes patterns in global capital placement, highlighting cluster regions and spacing between major hubs.</span><span class='zh'>该作品用 Voronoi 图把世界各首都分区展示出来，每个首都成为一个区域的中心点，边界由最近的首都决定。图像揭示全球首都的分布规律和区域聚集趋势，便于理解地理接近度与影响力。</span></p>
+<div class="sfoot"><span class="tags"><span class='tag' data-t='Data' style='--c:#6366f1'>Data</span></span><span class='metas'><span class='m hot ic-fire'>0.0</span><span class='m ic-up'>94</span><a class='m ic-chat' href='https://news.ycombinator.com/item?id=48446532' target='_blank' rel='noopener'>49</a></span></div></div></article><article class="story" id="story-48446673" data-id="48446673" data-tags="AI" data-score="87" data-comments="56" data-hn="https://news.ycombinator.com/item?id=48446673" data-time="1780932609">
+<a class="thumb" href="https://www.quantamagazine.org/how-terry-tao-became-an-evangelist-for-ai-in-math-20260608/" target="_blank" rel="noopener"><img class='th' src='https://www.quantamagazine.org/wp-content/uploads/2026/06/Proof-in-the-Code-cr-Samuel-Velasco-Social.jpg' alt='' loading='lazy' referrerpolicy='no-referrer' data-d='quantamagazine.org' data-c='#8b5cf6' data-tag='AI'></a><button class="fav" aria-label="favorite">☆</button>
+<div class="sbody"><div class="rk">102</div>
+<h3 class="st"><a href="https://www.quantamagazine.org/how-terry-tao-became-an-evangelist-for-ai-in-math-20260608/" target="_blank" rel="noopener"><span class='en'>How Terry Tao became an evangelist for AI in math</span><span class='zh'>田立 Tao 如何成为 AI 在数学中的倡导者</span></a><span class="dom">quantamagazine.org</span></h3>
+<p class="sum one"><span class='en'>Terence Tao has become an evangelist for applying AI in mathematics, exploring how AI can assist proof search, conjecture generation, and collaboration.</span><span class='zh'>特里斯·陶教授已成为在数学领域推广 AI 的倡导者，探讨 AI 如何帮助证明搜索、猜想生成与协作。</span></p>
+<p class="sum full"><span class='en'>Terence Tao has become an evangelist for applying AI in mathematics, exploring how AI can assist proof search, conjecture generation, and collaboration.</span><span class='zh'>特里斯·陶教授已成为在数学领域推广 AI 的倡导者，探讨 AI 如何帮助证明搜索、猜想生成与协作。</span></p>
+<div class="sfoot"><span class="tags"><span class='tag' data-t='AI' style='--c:#8b5cf6'>AI</span></span><span class='metas'><span class='m hot ic-fire'>0.0</span><span class='m ic-up'>87</span><a class='m ic-chat' href='https://news.ycombinator.com/item?id=48446673' target='_blank' rel='noopener'>56</a></span></div></div></article><article class="story" id="story-48450024" data-id="48450024" data-tags="Programming|Gaming" data-score="79" data-comments="15" data-hn="https://news.ycombinator.com/item?id=48450024" data-time="1780945692">
+<a class="thumb" href="https://nanochess.org/klondike_in_c.html" target="_blank" rel="noopener"><img class='th' src='https://nanochess.org/img/klondike_c_2.png' alt='' loading='lazy' referrerpolicy='no-referrer' data-d='nanochess.org' data-c='#3b82f6' data-tag='Programming'></a><button class="fav" aria-label="favorite">☆</button>
+<div class="sbody"><div class="rk">103</div>
+<h3 class="st"><a href="https://nanochess.org/klondike_in_c.html" target="_blank" rel="noopener"><span class='en'>Klondike Solitaire game for curses in 5k of C</span><span class='zh'>用 curses 实现的 Klondike 纸牌游戏仅 5KB 的 C 代码</span></a><span class="dom">nanochess.org</span></h3>
+<p class="sum one"><span class='en'>A Klondike solitaire implementation in a mere 5 kilobytes of C using curses demonstrates extreme code golf craft.</span><span class='zh'>一个用 curses 实现的 Klondike 纸牌游戏仅用 5KB 的 C 代码，展示了极致代码高尔夫的技艺。</span></p>
+<p class="sum full"><span class='en'>A Klondike solitaire implementation in a mere 5 kilobytes of C using curses demonstrates extreme code golf craft. The tiny program packs gameplay, input handling, and rendering into a compact, portable retro-style puzzle.</span><span class='zh'>一个用 curses 实现的 Klondike 纸牌游戏仅用 5KB 的 C 代码，展示了极致代码高尔夫的技艺。这个极小的程序把玩法、输入处理与渲染紧凑地打包在一个可移植的复古风格小型程序里。</span></p>
+<div class="sfoot"><span class="tags"><span class='tag' data-t='Programming' style='--c:#3b82f6'>Programming</span><span class='tag' data-t='Gaming' style='--c:#a855f7'>Gaming</span></span><span class='metas'><span class='m hot ic-fire'>0.0</span><span class='m ic-up'>79</span><a class='m ic-chat' href='https://news.ycombinator.com/item?id=48450024' target='_blank' rel='noopener'>15</a></span></div></div></article><article class="story" id="story-48451013" data-id="48451013" data-tags="Programming|Open Source" data-score="77" data-comments="5" data-hn="https://news.ycombinator.com/item?id=48451013" data-time="1780948911">
+<a class="thumb" href="https://www.chiply.dev/post-svg-line" target="_blank" rel="noopener"><img class='th' src='https://www.chiply.dev/images/svg-line-annotated.png' alt='' loading='lazy' referrerpolicy='no-referrer' data-d='chiply.dev' data-c='#3b82f6' data-tag='Programming'></a><button class="fav" aria-label="favorite">☆</button>
+<div class="sbody"><div class="rk">104</div>
+<h3 class="st"><a href="https://www.chiply.dev/post-svg-line" target="_blank" rel="noopener"><span class='en'>SVG-Line: Better Status Bars for Emacs – Charlie Holland&#x27;s Blog</span><span class='zh'>SVG-Line：为 Emacs 提供更好状态栏</span></a><span class="dom">chiply.dev</span></h3>
+<p class="sum one"><span class='en'>SVG-Line adds vector-based status bars to Emacs, delivering a crisp, customizable UI win for power users.</span><span class='zh'>SVG-Line 为 Emacs 增添矢量化状态栏，为高级用户带来更清晰、可定制的界面提升。</span></p>
+<p class="sum full"><span class='en'>SVG-Line adds vector-based status bars to Emacs, delivering a crisp, customizable UI win for power users.</span><span class='zh'>SVG-Line 为 Emacs 增添矢量化状态栏，为高级用户带来更清晰、可定制的界面提升。</span></p>
+<div class="sfoot"><span class="tags"><span class='tag' data-t='Programming' style='--c:#3b82f6'>Programming</span><span class='tag' data-t='Open Source' style='--c:#22c55e'>Open Source</span></span><span class='metas'><span class='m hot ic-fire'>0.0</span><span class='m ic-up'>77</span><a class='m ic-chat' href='https://news.ycombinator.com/item?id=48451013' target='_blank' rel='noopener'>5</a></span></div></div></article><article class="story" id="story-48468852" data-id="48468852" data-tags="Gaming|Design|Hardware" data-score="50" data-comments="8" data-hn="https://news.ycombinator.com/item?id=48468852" data-time="1781045068">
+<a class="thumb" href="https://www.theguardian.com/culture/2026/jan/05/raiders-of-the-lost-ark-hit-video-game-prince-of-persia" target="_blank" rel="noopener"><img class='th' src='https://i.guim.co.uk/img/media/1a9c6d9a50110f8da1e20121b0b5aaabd88266ad/120_0_3092_2474/master/3092.jpg?width=1200&amp;height=630&amp;quality=85&amp;auto=format&amp;fit=crop&amp;precrop=40:21,offset-x50,offset-y0&amp;overlay-align=bottom%2Cleft&amp;overlay-width=100p&amp;overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&amp;enable=upscale&amp;s=e84110ce298a51956080bef453560d4a' alt='' loading='lazy' referrerpolicy='no-referrer' data-d='theguardian.com' data-c='#a855f7' data-tag='Gaming'></a><button class="fav" aria-label="favorite">☆</button>
+<div class="sbody"><div class="rk">105</div>
+<h3 class="st"><a href="https://www.theguardian.com/culture/2026/jan/05/raiders-of-the-lost-ark-hit-video-game-prince-of-persia" target="_blank" rel="noopener"><span class='en'>How we made hit video game Prince of Persia</span><span class='zh'>我们是如何做出《Prince of Persia》这款热卖游戏</span></a><span class="dom">theguardian.com</span></h3>
+<p class="sum one"><span class='en'>The Guardian piece recounts the development of Prince of Persia, highlighting pioneering animation techniques like rotoscoping and iterative design under hardware constraints.</span><span class='zh'>文章回顾《波斯王子》的开发过程，揭示了如光绘运动捕捉等开创性动画技法，以及在硬件限制下的迭代设计。</span></p>
+<p class="sum full"><span class='en'>The Guardian piece recounts the development of Prince of Persia, highlighting pioneering animation techniques like rotoscoping and iterative design under hardware constraints. It also touches on the game&#x27;s enduring influence on action-adventure design and cinematic storytelling in games.</span><span class='zh'>文章回顾《波斯王子》的开发过程，揭示了如光绘运动捕捉等开创性动画技法，以及在硬件限制下的迭代设计。并探讨这款游戏对动作冒险与游戏叙事风格的长期影响。</span></p>
+<div class="sfoot"><span class="tags"><span class='tag' data-t='Gaming' style='--c:#a855f7'>Gaming</span><span class='tag' data-t='Design' style='--c:#f472b6'>Design</span><span class='tag' data-t='Hardware' style='--c:#f59e0b'>Hardware</span></span><span class='metas'><span class='m hot ic-fire'>0.0</span><span class='m ic-up'>50</span><a class='m ic-chat' href='https://news.ycombinator.com/item?id=48468852' target='_blank' rel='noopener'>8</a></span></div></div></article><article class="story" id="story-48468495" data-id="48468495" data-tags="Programming|Gaming" data-score="47" data-comments="6" data-hn="https://news.ycombinator.com/item?id=48468495" data-time="1781043140">
+<a class="thumb" href="https://blog.adamledoux.net/posts/2026-06-08-programming-a-gba-game-on-an-iphone.html" target="_blank" rel="noopener"><img class='th' src='https://blog.adamledoux.net/images/card_sml_sunflower.png' alt='' loading='lazy' referrerpolicy='no-referrer' data-d='blog.adamledoux.net' data-c='#3b82f6' data-tag='Programming'></a><button class="fav" aria-label="favorite">☆</button>
+<div class="sbody"><div class="rk">106</div>
+<h3 class="st"><a href="https://blog.adamledoux.net/posts/2026-06-08-programming-a-gba-game-on-an-iphone.html" target="_blank" rel="noopener"><span class='en'>Programming a GBA Game on an iPhone</span><span class='zh'>在 iPhone 上开发 GBA 游戏</span></a><span class="dom">blog.adamledoux.net</span></h3>
+<p class="sum one"><span class='en'>The post documents a workflow for building a Game Boy Advance game on an iPhone, including tooling, cross-compilation, and performance considerations.</span><span class='zh'>文章记录了在 iPhone 上开发 GBA 游戏的工作流，涵盖工具链、跨编译与性能考量。</span></p>
+<p class="sum full"><span class='en'>The post documents a workflow for building a Game Boy Advance game on an iPhone, including tooling, cross-compilation, and performance considerations. It demonstrates what&#x27;s possible when mobile devices host retro-game development pipelines.</span><span class='zh'>文章记录了在 iPhone 上开发 GBA 游戏的工作流，涵盖工具链、跨编译与性能考量。展示了在移动设备上承载复古游戏开发流程的可行性。</span></p>
+<div class="sfoot"><span class="tags"><span class='tag' data-t='Programming' style='--c:#3b82f6'>Programming</span><span class='tag' data-t='Gaming' style='--c:#a855f7'>Gaming</span></span><span class='metas'><span class='m hot ic-fire'>0.0</span><span class='m ic-up'>47</span><a class='m ic-chat' href='https://news.ycombinator.com/item?id=48468495' target='_blank' rel='noopener'>6</a></span></div></div></article><article class="story" id="story-48433777" data-id="48433777" data-tags="Hardware|Open Source" data-score="127" data-comments="11" data-hn="https://news.ycombinator.com/item?id=48433777" data-time="1780831213">
+<a class="thumb" href="https://blog.nns.ee/2026/02/20/katana-v2x-re/" target="_blank" rel="noopener"><img class='th' src='https://blog.nns.ee/img/logo.png' alt='' loading='lazy' referrerpolicy='no-referrer' data-d='blog.nns.ee' data-c='#f59e0b' data-tag='Hardware'></a><button class="fav" aria-label="favorite">☆</button>
+<div class="sbody"><div class="rk">107</div>
+<h3 class="st"><a href="https://blog.nns.ee/2026/02/20/katana-v2x-re/" target="_blank" rel="noopener"><span class='en'>Reverse engineering the Creative Katana soundbar to control it from Linux</span><span class='zh'>在 Linux 下对 Creative Katana 音响条进行逆向工程以实现控制</span></a><span class="dom">blog.nns.ee</span></h3>
+<p class="sum one"><span class='en'>A hands-on account of reverse-engineering a Creative Katana soundbar to gain Linux control, including protocol discovery and driver considerations.</span><span class='zh'>以动手实践的方式对 Creative Katana 音响条进行逆向工程，以在 Linux 上实现控制，包括协议发现与驱动考虑。</span></p>
+<p class="sum full"><span class='en'>A hands-on account of reverse-engineering a Creative Katana soundbar to gain Linux control, including protocol discovery and driver considerations. It shows how open hardware and community tooling enable custom control beyond what official apps provide.</span><span class='zh'>以动手实践的方式对 Creative Katana 音响条进行逆向工程，以在 Linux 上实现控制，包括协议发现与驱动考虑。展示了开放硬件与社区工具如何实现官方应用之外的自定义控制。</span></p>
+<div class="sfoot"><span class="tags"><span class='tag' data-t='Hardware' style='--c:#f59e0b'>Hardware</span><span class='tag' data-t='Open Source' style='--c:#22c55e'>Open Source</span></span><span class='metas'><span class='m hot ic-fire'>0.0</span><span class='m ic-up'>127</span><a class='m ic-chat' href='https://news.ycombinator.com/item?id=48433777' target='_blank' rel='noopener'>11</a></span></div></div></article><article class="story" id="story-48433351" data-id="48433351" data-tags="Programming" data-score="125" data-comments="46" data-hn="https://news.ycombinator.com/item?id=48433351" data-time="1780826238">
+<a class="thumb" href="https://antirez.com/news/168" target="_blank" rel="noopener"><div class='th fb' style='--c:#3b82f6' data-tag='Programming'><img class='fbi' src='https://www.google.com/s2/favicons?domain=antirez.com&amp;sz=64' alt='' loading='lazy'><span class='fbd'>antirez.com</span></div></a><button class="fav" aria-label="favorite">☆</button>
+<div class="sbody"><div class="rk">108</div>
+<h3 class="st"><a href="https://antirez.com/news/168" target="_blank" rel="noopener"><span class='en'>A new era for software testing</span><span class='zh'>软件测试的新时代</span></a><span class="dom">antirez.com</span></h3>
+<p class="sum one"><span class='en'>A new era for software testing emphasizes automated verification, property-based testing, and continuous quality assurance in modern pipelines.</span><span class='zh'>软件测试进入新时代，强调自动化验证、基于属性的测试以及在现代开发管线中的持续质量确保。</span></p>
+<p class="sum full"><span class='en'>A new era for software testing emphasizes automated verification, property-based testing, and continuous quality assurance in modern pipelines.</span><span class='zh'>软件测试进入新时代，强调自动化验证、基于属性的测试以及在现代开发管线中的持续质量确保。</span></p>
+<div class="sfoot"><span class="tags"><span class='tag' data-t='Programming' style='--c:#3b82f6'>Programming</span></span><span class='metas'><span class='m hot ic-fire'>0.0</span><span class='m ic-up'>125</span><a class='m ic-chat' href='https://news.ycombinator.com/item?id=48433351' target='_blank' rel='noopener'>46</a></span></div></div></article><article class="story" id="story-48428959" data-id="48428959" data-tags="Science|Hardware" data-score="106" data-comments="28" data-hn="https://news.ycombinator.com/item?id=48428959" data-time="1780779631">
+<a class="thumb" href="https://computerhistory.org/stories/explorers-of-the-lost-computers/" target="_blank" rel="noopener"><img class='th' src='https://computerhistory.org/wp-content/uploads/2025/04/FIGURE-1-chm_germany_castrop_rauxel_day_9-082.jpg' alt='' loading='lazy' referrerpolicy='no-referrer' data-d='computerhistory.org' data-c='#10b981' data-tag='Science'></a><button class="fav" aria-label="favorite">☆</button>
+<div class="sbody"><div class="rk">109</div>
+<h3 class="st"><a href="https://computerhistory.org/stories/explorers-of-the-lost-computers/" target="_blank" rel="noopener"><span class='en'>Discovery of Cold War-era rare Eastern Bloc computers in a German hangar</span><span class='zh'>在德国机库发现冷战时期稀有的东欧计算机</span></a><span class="dom">computerhistory.org</span></h3>
+<p class="sum one"><span class='en'>Cold War-era rare Eastern Bloc computers found in a German hangar, shedding light on computing history and hardware preservation.</span><span class='zh'>在德国一个机库里发现冷战时期罕见的东方集团计算机，为计算历史与硬件保护提供罕见线索。</span></p>
+<p class="sum full"><span class='en'>Cold War-era rare Eastern Bloc computers found in a German hangar, shedding light on computing history and hardware preservation.</span><span class='zh'>在德国一个机库里发现冷战时期罕见的东方集团计算机，为计算历史与硬件保护提供罕见线索。</span></p>
+<div class="sfoot"><span class="tags"><span class='tag' data-t='Science' style='--c:#10b981'>Science</span><span class='tag' data-t='Hardware' style='--c:#f59e0b'>Hardware</span></span><span class='metas'><span class='m hot ic-fire'>0.0</span><span class='m ic-up'>106</span><a class='m ic-chat' href='https://news.ycombinator.com/item?id=48428959' target='_blank' rel='noopener'>28</a></span></div></div></article><article class="story" id="story-48456279" data-id="48456279" data-tags="Programming" data-score="57" data-comments="31" data-hn="https://news.ycombinator.com/item?id=48456279" data-time="1780978219">
+<a class="thumb" href="https://ferd.ca/queues-don-t-fix-overload.html" target="_blank" rel="noopener"><img class='th' src='https://ferd.ca/static/img/sink1.png' alt='' loading='lazy' referrerpolicy='no-referrer' data-d='ferd.ca' data-c='#3b82f6' data-tag='Programming'></a><button class="fav" aria-label="favorite">☆</button>
+<div class="sbody"><div class="rk">110</div>
+<h3 class="st"><a href="https://ferd.ca/queues-don-t-fix-overload.html" target="_blank" rel="noopener"><span class='en'>Queues Don&#x27;t Fix Overload (2014)</span><span class='zh'>队列并不能解决超载（2014）</span></a><span class="dom">ferd.ca</span></h3>
+<p class="sum one"><span class='en'>Ferd&#x27;s essay argues queues don&#x27;t solve overload and that system design must address root causes rather than relying on buffering.</span><span class='zh'>Ferd 的论文指出队列并不能解决系统超载问题，设计应聚焦根本原因而非单纯缓冲。</span></p>
+<p class="sum full"><span class='en'>Ferd&#x27;s essay argues queues don&#x27;t solve overload and that system design must address root causes rather than relying on buffering.</span><span class='zh'>Ferd 的论文指出队列并不能解决系统超载问题，设计应聚焦根本原因而非单纯缓冲。</span></p>
+<div class="sfoot"><span class="tags"><span class='tag' data-t='Programming' style='--c:#3b82f6'>Programming</span></span><span class='metas'><span class='m hot ic-fire'>0.0</span><span class='m ic-up'>57</span><a class='m ic-chat' href='https://news.ycombinator.com/item?id=48456279' target='_blank' rel='noopener'>31</a></span></div></div></article><article class="story" id="story-48434240" data-id="48434240" data-tags="AI" data-score="57" data-comments="19" data-hn="https://news.ycombinator.com/item?id=48434240" data-time="1780835924">
+<a class="thumb" href="https://news.ycombinator.com/item?id=48434240" target="_blank" rel="noopener"><div class='th fb' style='--c:#8b5cf6' data-tag='AI'><img class='fbi' src='https://www.google.com/s2/favicons?domain=news.ycombinator.com&amp;sz=64' alt='' loading='lazy'><span class='fbd'>news.ycombinator.com</span></div></a><button class="fav" aria-label="favorite">☆</button>
+<div class="sbody"><div class="rk">111</div>
+<h3 class="st"><a href="https://news.ycombinator.com/item?id=48434240" target="_blank" rel="noopener"><span class='en'>Ask HN: How are thinking efforts implemented?</span><span class='zh'>Ask HN：思考努力是如何实现的？</span></a><span class="dom">news.ycombinator.com</span></h3>
+<p class="sum one"><span class='en'>A discussion about how thinking and problem-solving processes are implemented in teams or AI-assisted workflows, inviting practical insights.</span><span class='zh'>关于在团队或 AI 辅助工作流中，思考与问题解决过程如何实现的讨论，欢迎给出实用经验。</span></p>
+<p class="sum full"><span class='en'>A discussion about how thinking and problem-solving processes are implemented in teams or AI-assisted workflows, inviting practical insights.</span><span class='zh'>关于在团队或 AI 辅助工作流中，思考与问题解决过程如何实现的讨论，欢迎给出实用经验。</span></p>
+<div class="sfoot"><span class="tags"><span class='tag' data-t='AI' style='--c:#8b5cf6'>AI</span></span><span class='metas'><span class='m hot ic-fire'>0.0</span><span class='m ic-up'>57</span><a class='m ic-chat' href='https://news.ycombinator.com/item?id=48434240' target='_blank' rel='noopener'>19</a></span></div></div></article></main><footer class='foot wrap'>Hacker News Daily · <span class='en'>Source</span><span class='zh'>来源</span>: <a href='https://news.ycombinator.com/' target='_blank' rel='noopener'>news.ycombinator.com</a> · <a href='/hackernews/feed.xml'><svg class='ico' viewBox='0 0 24 24'><path d='M4 11a9 9 0 0 1 9 9M4 4a16 16 0 0 1 16 16'/><circle cx='5' cy='19' r='1'/></svg> RSS</a></footer><nav class='tabbar'><a class='' href='/hackernews/'><svg class='ico' viewBox='0 0 24 24'><path d='M3 10.5 12 3l9 7.5V21h-6v-6H9v6H3z'/></svg><span><span class='en'>Today</span><span class='zh'>今日</span></span></a><a class='on' href='/hackernews/#archive'><svg class='ico' viewBox='0 0 24 24'><rect x='3' y='4' width='18' height='18' rx='2'/><path d='M16 2v4M8 2v4M3 10h18'/></svg><span><span class='en'>Archive</span><span class='zh'>往期</span></span></a><a class='' href='/hackernews/trends/'><svg class='ico' viewBox='0 0 24 24'><path d='M3 3v18h18'/><path d='m7 15 4-4 3 3 6-7'/></svg><span><span class='en'>Trends</span><span class='zh'>趋势</span></span></a><a class='' href='/hackernews/favorites/'><svg class='ico' viewBox='0 0 24 24'><path d='m12 2 3.1 6.3 6.9 1-5 4.9 1.2 6.8L12 17.8 5.8 21l1.2-6.8-5-4.9 6.9-1z'/></svg><span><span class='en'>Saved</span><span class='zh'>收藏</span></span></a></nav>
+{% endraw %}

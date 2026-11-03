@@ -35,6 +35,7 @@ jobs:
           else
             python news_scraper/weekly_digest.py
           fi
+          python -c "import sys; sys.path.insert(0, 'news_scraper'); from index_updater import update_hackernews_index; update_hackernews_index()"
       - name: Verify outputs
         run: |
           echo "Weekly digest files:"
