@@ -1079,12 +1079,16 @@ a.hn-top-story-title-text:hover {
 
 .hn-section-title-link {
     color: inherit;
-    text-decoration: none;
+    display: inline-flex;
+    align-items: baseline;
+    gap: 8px;
+    text-decoration: underline;
+    text-underline-offset: 3px;
 }
 
 .hn-section-title-link:hover {
     text-decoration: underline;
-    text-underline-offset: 3px;
+    text-decoration-thickness: 2px;
 }
 
 .hn-section-zh {

@@ -18,7 +18,7 @@ Sort:
 <div id='hn-search-results' class='hn-search-results' style='display:none;'></div>
 <button id='hn-search-more' class='hn-search-more' style='display:none;'>Show more results</button>
 <div class='hn-index-section hn-top-stories-section'>
-<h3 class='hn-section-title'><a class='hn-section-title-link' href='/hackernews/2026/11/02/top_stories_11022026'>Today's Top Stories</a> <span class='hn-section-zh'>今日头条</span> <time class='hn-section-date' datetime='2026-11-02'>Nov 02, 2026 · 4:24 PM PST</time> <span class='hn-hot-badge'>🔥 HOT</span></h3>
+<h3 class='hn-section-title'><a class='hn-section-title-link' href='/hackernews/2026/11/02/top_stories_11022026'><span>Today's Top Stories</span> <span class='hn-section-zh'>今日头条</span></a> <time class='hn-section-date' datetime='2026-11-02'>Nov 02, 2026 · 4:24 PM PST</time> <span class='hn-hot-badge'>🔥 HOT</span></h3>
 <div class='hn-top-stories-list'>
 <div class='hn-top-story-item' data-hn-score='1806' data-hn-time='1793548708'>
 <span class='hn-top-story-rank'>1</span>

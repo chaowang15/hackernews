@@ -556,11 +556,14 @@ def update_hackernews_index(
         lines.append("<div class='hn-index-section hn-top-stories-section'>")
         daily_url = top_stories[0].get('daily_url', '')
         title_html = (
-            f"<a class='hn-section-title-link' href='{daily_url}'>Today's Top Stories</a>"
+            f"<a class='hn-section-title-link' href='{daily_url}'>"
+            "<span>Today's Top Stories</span>"
+            " <span class='hn-section-zh'>\u4eca\u65e5\u5934\u6761</span>"
+            "</a>"
             if daily_url
-            else "Today's Top Stories"
+            else "Today's Top Stories <span class='hn-section-zh'>\u4eca\u65e5\u5934\u6761</span>"
         )
-        lines.append(f"<h3 class='hn-section-title'>{title_html} <span class='hn-section-zh'>\u4eca\u65e5\u5934\u6761</span>{date_html} <span class='hn-hot-badge'>\U0001F525 HOT</span></h3>")
+        lines.append(f"<h3 class='hn-section-title'>{title_html}{date_html} <span class='hn-hot-badge'>\U0001F525 HOT</span></h3>")
         lines.append("<div class='hn-top-stories-list'>")
         for i, story in enumerate(top_stories, 1):
             score = story['score']
