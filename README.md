@@ -48,6 +48,8 @@ to `logs/openai_token_usage_log.md`.
   a text layout. "Real image" is decided from the URL only (no download, no LLM): expired signed URLs,
   GitHub repo cards, avatars, logo/favicon/icon file names or directories, SVGs, and images shared by
   3+ stories are treated as missing.
+- The "Today" nav item opens the latest day page (the logo opens the home page); reader pages
+  default to the titles-only view; weekly / monthly index cards list each digest's top five titles.
 - Search data is sharded by month under `hackernews/search/`; Favorites use the existing
   `hnFavoritesV1` localStorage key.
 - Local preview without Jekyll: `python news_scraper/site_v2.py --preview /tmp/hnprev`, then
