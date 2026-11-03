@@ -5,7 +5,7 @@
     <link>https://chaowang15.github.io/hackernews/</link>
     <description>Curated daily digest of top Hacker News stories with AI-generated summaries, tags, and bilingual translations.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 02 Nov 2026 10:50:19 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 00:24:38 +0000</lastBuildDate>
     <generator>Hacker News Daily RSS Builder</generator>
     <atom:link href="https://chaowang15.github.io/hackernews/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
@@ -29,8 +29,21 @@
       <category>Web</category>
       <description>&lt;p&gt;HackerTube presents a YouTube-style interface for 6,454 videos sourced from 39,834 Hacker News comments dating back to 2007. The collection is available through hackertube.org. It turns years of community recommendations into a browsable video archive.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;HackerTube 提供了一个 YouTube 风格的界面，收录了自 2007 年以来从 39,834 条 Hacker News 评论中提取的 6,454 个视频。该视频集合可通过 hackertube.org 浏览。它将多年社区推荐整理成了一个可探索的视频档案。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 2589 · 💬 572 · Web&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 2808 · 💬 624 · Web&lt;/small&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50319510&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/02/top_stories_11022026#story-50319510&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Show HN: HackerBooks – HackerTube, but for books mentioned on HN</title>
+      <link>https://hackerbooks.org</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50326821</guid>
+      <dc:creator>roansh</dc:creator>
+      <pubDate>Sun, 01 Nov 2026 15:58:28 +0000</pubDate>
+      <category>Show HN</category>
+      <category>Data</category>
+      <description>&lt;p&gt;HackerBooks catalogs about 16,500 books mentioned by at least two different Hacker News commenters between 2007 and today. Each book links back to the comments that mentioned it, and the dataset can be downloaded from the about page. The creator notes that the system counts mentions without distinguishing praise from criticism, so some entries may be missing or mismatched.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;HackerBooks 收录了 2007 年至今至少被两名不同 Hacker News 评论者提到过的约 1.65 万本书。每本书都链接回提及它的评论，数据集也可从关于页面下载。创建者说明，系统只统计提及次数，不区分赞扬和批评，因此部分书籍可能遗漏或匹配错误。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 1806 · 💬 300 · Show HN · Data&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50326821&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/02/top_stories_11022026#story-50326821&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Binance-hacker-1029 – $5.6B stolen from Binance</title>
@@ -55,7 +68,7 @@
       <category>Open Source</category>
       <description>&lt;p&gt;Mistral AI has released the weights for Mistral Large 4, enabling researchers to run and fine-tune the model locally. This move reduces reliance on hosted APIs and accelerates experimentation, but also brings licensing, safety, and governance considerations to the fore in open-weight AI projects.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Mistral Large 4 的权重已对外公开，研究者和开发者可以在本地部署与微调。此举降低对 API 的依赖，促进实验，但也引发许可、安全与治理方面的讨论。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 1719 · 💬 439 · AI · Open Source&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 1724 · 💬 440 · AI · Open Source&lt;/small&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50289418&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/02/top_stories_11022026#story-50289418&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
@@ -85,19 +98,6 @@
 &lt;p&gt;&lt;em&gt;作者介绍了对浏览器指纹识别脚本的调查，范围从 FingerprintJS 等常见库到 Cloudflare Turnstile 和 Akamai 使用的反机器人系统。随后，作者考虑抓取网页、拦截与指纹识别相关的浏览器 API 调用，并绘制其分布图。标题将这项调查与似乎正在制造生物武器的脚本联系起来，但现有内容未提供更多细节。&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;▲ 1581 · 💬 306 · Privacy · Security · Web&lt;/small&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50276998&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/10/31/top_stories_10312026#story-50276998&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Show HN: HackerBooks – HackerTube, but for books mentioned on HN</title>
-      <link>https://hackerbooks.org</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50326821</guid>
-      <dc:creator>roansh</dc:creator>
-      <pubDate>Sun, 01 Nov 2026 15:58:28 +0000</pubDate>
-      <category>Show HN</category>
-      <category>Data</category>
-      <description>&lt;p&gt;HackerBooks catalogs about 16,500 books mentioned by at least two different Hacker News commenters between 2007 and today. Each book links back to the comments that mentioned it, and the dataset can be downloaded from the about page. The creator notes that the system counts mentions without distinguishing praise from criticism, so some entries may be missing or mismatched.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;HackerBooks 收录了 2007 年至今至少被两名不同 Hacker News 评论者提到过的约 1.65 万本书。每本书都链接回提及它的评论，数据集也可从关于页面下载。创建者说明，系统只统计提及次数，不区分赞扬和批评，因此部分书籍可能遗漏或匹配错误。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 1407 · 💬 235 · Show HN · Data&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50326821&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/02/top_stories_11022026#story-50326821&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Ghostty 1.4</title>
@@ -187,7 +187,7 @@
       <category>AI</category>
       <description>&lt;p&gt;The title reports a backdoor in a Claude Code extension for VS Code distributed through the Cursor Marketplace. The supplied context provides no further reliable details.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;标题称，Cursor Marketplace 上分发的 Claude Code for VS Code 扩展中存在后门。提供的上下文没有更多可靠细节。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 1002 · 💬 553 · Security · AI&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 1007 · 💬 553 · Security · AI&lt;/small&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50300683&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/02/top_stories_11022026#story-50300683&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
@@ -224,7 +224,7 @@
       <category>Politics</category>
       <description>&lt;p&gt;The title reports that Serbia has elected what it calls the world’s brainiest parliament.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;标题称，塞尔维亚刚刚选出了“世界上最聪明的议会”。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 909 · 💬 504 · Politics&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 918 · 💬 509 · Politics&lt;/small&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50314654&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/02/top_stories_11022026#story-50314654&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
@@ -248,8 +248,20 @@
       <category>Science</category>
       <description>&lt;p&gt;In the early 1990s, Parma farmer Claudio Grossi found an unidentified sack of seeds that likely belonged to his great-grandfather, who founded the farm around 1915. After he discarded the seeds in manure, several types of wheat unexpectedly sprouted. One variety grew about six feet tall and produced seven ears, unlike the single-ear commercial wheat Grossi knew.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;20 世纪 90 年代初，帕尔马农民克劳迪奥·格罗西发现了一袋无法辨认的种子，可能是其约于 1915 年创建农场的曾祖父留下的。他把种子倒进肥料堆后，几种小麦竟意外发芽。其中一个品种长到约六英尺高，并结出七个麦穗，不同于格罗西熟悉的单穗商业小麦。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 825 · 💬 210 · Science&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 860 · 💬 230 · Science&lt;/small&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50320963&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/02/top_stories_11022026#story-50320963&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Postgres 19 is late because so many more bugs are being found now</title>
+      <link>http://rhaas.blogspot.com/2026/10/postgres-19-is-late-and-its-ais-fault.html</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50312408</guid>
+      <dc:creator>soheilpro</dc:creator>
+      <pubDate>Sat, 31 Oct 2026 01:38:56 +0000</pubDate>
+      <category>Programming</category>
+      <description>&lt;p&gt;Postgres 19 is late because many more bugs are being found during development. The title identifies the delay and attributes it to the increased discovery of defects.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Postgres 19 的发布出现延期，原因是开发过程中发现的错误数量大幅增加。标题将这次延迟归因于缺陷发现增多。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 805 · 💬 478 · Programming&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50312408&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/02/top_stories_11022026#story-50312408&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>The Exponential Time Hypothesis Is False [pdf]</title>
@@ -276,6 +288,18 @@
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50282454&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/10/29/top_stories_10292026#story-50282454&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8</title>
+      <link>https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50319143</guid>
+      <dc:creator>oger</dc:creator>
+      <pubDate>Sat, 31 Oct 2026 19:16:30 +0000</pubDate>
+      <category>Security</category>
+      <description>&lt;p&gt;CVE-2026-98432 is a critical remote use-after-free vulnerability in Linux's IPv4 TCP handshake, reachable by an unauthenticated network peer. Stable kernels fixed it in October 2026, with patches for versions including 5.10.272 through 7.3, but the flaw dates back to Linux 4.4. At the reported time, Ubuntu still marked every release as vulnerable, while Red Hat listed RHEL 8, 9, and 10 as affected without a fix.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;CVE-2026-98432 是 Linux IPv4 TCP 握手中的严重远程释放后使用漏洞，未经身份验证的网络对端即可触发。稳定版内核已于 2026 年 10 月修复，补丁覆盖 5.10.272 至 7.3 等版本，但该缺陷可追溯至 Linux 4.4。报道所述时间点，Ubuntu 仍将所有版本标为易受攻击，Red Hat 也列出受影响的 RHEL 8、9 和 10，尚未提供修复。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 740 · 💬 330 · Security&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50319143&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/02/top_stories_11022026#story-50319143&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Sebastian Raschka's from-scratch video course on building reasoning models</title>
       <link>https://magazine.sebastianraschka.com/p/building-reasoning-models</link>
       <guid isPermaLink="true">https://news.ycombinator.com/item?id=50245138</guid>
@@ -289,18 +313,6 @@
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50245138&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/10/27/top_stories_10272026#story-50245138&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8</title>
-      <link>https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50319143</guid>
-      <dc:creator>oger</dc:creator>
-      <pubDate>Sat, 31 Oct 2026 19:16:30 +0000</pubDate>
-      <category>Security</category>
-      <description>&lt;p&gt;CVE-2026-98432 is a critical remote use-after-free vulnerability in Linux's IPv4 TCP handshake, reachable by an unauthenticated network peer. Stable kernels fixed it in October 2026, with patches for versions including 5.10.272 through 7.3, but the flaw dates back to Linux 4.4. At the reported time, Ubuntu still marked every release as vulnerable, while Red Hat listed RHEL 8, 9, and 10 as affected without a fix.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;CVE-2026-98432 是 Linux IPv4 TCP 握手中的严重远程释放后使用漏洞，未经身份验证的网络对端即可触发。稳定版内核已于 2026 年 10 月修复，补丁覆盖 5.10.272 至 7.3 等版本，但该缺陷可追溯至 Linux 4.4。报道所述时间点，Ubuntu 仍将所有版本标为易受攻击，Red Hat 也列出受影响的 RHEL 8、9 和 10，尚未提供修复。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 718 · 💬 329 · Security&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50319143&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/02/top_stories_11022026#story-50319143&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>Restrooms along the Norwegian Scenic Routes</title>
       <link>https://www.visitnorway.com/plan-your-trip/travel-tips-a-z/norwegian-scenic-routes/worlds-best-toilets/</link>
       <guid isPermaLink="true">https://news.ycombinator.com/item?id=50324388</guid>
@@ -309,8 +321,20 @@
       <category>Design</category>
       <description>&lt;p&gt;The restrooms along Norway’s Scenic Routes are presented as architectural landmarks designed to work with the surrounding landscape. Most were designed by established or emerging Norwegian architecture firms. Examples include Snøhetta’s small Eggum stop in Lofoten and Reiulf Ramstad’s facility at Selvika.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;挪威风景公路沿线的卫生间被视为与周围自然环境协调的建筑地标。大多数设施由知名或新兴的挪威建筑事务所设计。例如，罗弗敦群岛 Eggum 休息点由 Snøhetta 设计，Selvika 的设施则由 Reiulf Ramstad 设计。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 692 · 💬 413 · Design&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 711 · 💬 432 · Design&lt;/small&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50324388&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/02/top_stories_11022026#story-50324388&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Ask HN: Which TV do you recommend for privacy?</title>
+      <link>https://news.ycombinator.com/item?id=50328896</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50328896</guid>
+      <dc:creator>LecroJS</dc:creator>
+      <pubDate>Sun, 01 Nov 2026 19:35:27 +0000</pubDate>
+      <category>Privacy</category>
+      <description>&lt;p&gt;A user is looking for a privacy-respecting television with a 60–80-inch 4K display running at least 60 Hz. They want the device to act only as a display for an Apple TV rather than use smart-TV apps, and are asking which models pair well with that setup.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;一名用户想寻找重视隐私的电视，要求尺寸在 60 至 80 英寸之间、支持 4K 且刷新率至少为 60Hz。他希望电视只作为 Apple TV 的显示器，而不运行智能电视原生应用，并询问哪些型号适合这种配置。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 681 · 💬 821 · Privacy&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50328896&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/02/top_stories_11022026#story-50328896&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5</title>
@@ -386,7 +410,7 @@
       <category>Finance</category>
       <description>&lt;p&gt;Hackers siphoned roughly $6.3 billion in cryptocurrency from wallets belonging to Binance across multiple blockchains in about 20 minutes. Binance suspended deposits and withdrawals and began investigating, while the exchange and other crypto firms said they had frozen around half of the stolen funds. Much of the remaining cryptocurrency may not be recoverable through freezing.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;黑客在约 20 分钟内从币安所属的钱包中跨多个区块链转走了约 63 亿美元的加密货币。币安暂停了存款和提现并展开调查；该交易所及其他加密行业公司称，已冻结约一半被盗资金。剩余的大部分加密货币可能无法通过冻结追回。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 591 · 💬 444 · Security · Finance&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 594 · 💬 449 · Security · Finance&lt;/small&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50303172&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/02/top_stories_11022026#story-50303172&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
@@ -401,6 +425,19 @@
 &lt;p&gt;&lt;em&gt;文章鼓励直接入门图论，强调图在网络、算法与数据结构中的核心作用。给出直观要点与易上手的起始主题（如路经、连通性、流等），以培养强大的问题解决思维。掌握图论对软件设计、优化与安全分析都有帮助。&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;▲ 582 · 💬 126 · Education · Security&lt;/small&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50208960&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/10/28/top_stories_10282026#story-50208960&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Lenovo's 'encrypted' fingerprint USB is just an unencrypted SD card in a case</title>
+      <link>https://www.reddit.com/r/technology/comments/1xl2pr3/lenovos_encrypted_fingerprint_usb_drive_is_just/</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50326099</guid>
+      <dc:creator>entryleveljobsc</dc:creator>
+      <pubDate>Sun, 01 Nov 2026 14:34:43 +0000</pubDate>
+      <category>Security</category>
+      <category>Hardware</category>
+      <description>&lt;p&gt;The title alleges that Lenovo’s fingerprint-protected USB device is not an encrypted drive, but an unencrypted SD card placed inside a casing. It identifies a potential mismatch between the product’s security description and its underlying storage design.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;标题指称，联想这款受指纹保护的 USB 设备并非加密硬盘，而只是装在外壳中的未加密 SD 卡。这表明产品的安全描述可能与其底层存储设计不一致。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 561 · 💬 174 · Security · Hardware&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50326099&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/02/top_stories_11022026#story-50326099&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Anthropic trained Claude on illegally obtained Stanford professors' books</title>
@@ -530,19 +567,6 @@
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50290177&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/10/30/top_stories_10302026#story-50290177&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Lenovo's 'encrypted' fingerprint USB is just an unencrypted SD card in a case</title>
-      <link>https://www.reddit.com/r/technology/comments/1xl2pr3/lenovos_encrypted_fingerprint_usb_drive_is_just/</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50326099</guid>
-      <dc:creator>entryleveljobsc</dc:creator>
-      <pubDate>Sun, 01 Nov 2026 14:34:43 +0000</pubDate>
-      <category>Security</category>
-      <category>Hardware</category>
-      <description>&lt;p&gt;The title alleges that Lenovo’s fingerprint-protected USB device is not an encrypted drive, but an unencrypted SD card placed inside a casing. It identifies a potential mismatch between the product’s security description and its underlying storage design.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;标题指称，联想这款受指纹保护的 USB 设备并非加密硬盘，而只是装在外壳中的未加密 SD 卡。这表明产品的安全描述可能与其底层存储设计不一致。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 494 · 💬 166 · Security · Hardware&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50326099&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/02/top_stories_11022026#story-50326099&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>CSS-Tricks has a new owner</title>
       <link>https://css-tricks.com/css-tricks-has-a-new-owner/</link>
       <guid isPermaLink="true">https://news.ycombinator.com/item?id=50245831</guid>
@@ -569,6 +593,32 @@
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50257326&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/10/27/top_stories_10272026#story-50257326&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>OccupySaaS</title>
+      <link>https://occupysaas.com/</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50331402</guid>
+      <dc:creator>misswaterfairy</dc:creator>
+      <pubDate>Mon, 02 Nov 2026 00:17:27 +0000</pubDate>
+      <category>Open Source</category>
+      <description>&lt;p&gt;OccupySaaS is an Apache-2.0 open-source effort to build self-hosted, drop-in replacements for major SaaS products without per-seat fees. Its first projects are ZeroAuthy, positioned as an Auth0 replacement, and SalesCompel, positioned as a Salesforce replacement.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;OccupySaaS 是一个采用 Apache-2.0 许可的开源项目，旨在构建可自托管、无需按席位收费的大型 SaaS 替代品。它的首批项目包括定位为 Auth0 替代品的 ZeroAuthy，以及定位为 Salesforce 替代品的 SalesCompel。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 490 · 💬 306 · Open Source&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50331402&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/02/top_stories_11022026#story-50331402&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Anthropic blocks users for anything touching training larger models</title>
+      <link>https://twitter.com/jiahaoshao1/status/2116475922190922088</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50319358</guid>
+      <dc:creator>pretext</dc:creator>
+      <pubDate>Sat, 31 Oct 2026 19:39:19 +0000</pubDate>
+      <category>AI</category>
+      <category>Legal</category>
+      <category>Open Source</category>
+      <description>&lt;p&gt;A user says Anthropic blocked their account after flagging work involving reinforcement fine-tuning, supervised fine-tuning, or training larger models as “training a competitor.” The user says Claude only helped submit jobs and analyze results, while the rollouts came from an open-source model. They also report being downgraded from Opus 5.5.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;一名用户称，Anthropic 将其涉及强化微调、监督微调或训练更大模型的工作标记为“训练竞争对手”，并屏蔽了其账户。该用户表示，Claude 只帮助提交任务和分析结果，实际生成过程使用的是开源模型。用户还称自己的账户被降级，无法继续使用 Opus 5.5。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 488 · 💬 265 · AI · Legal · Open Source&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50319358&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/02/top_stories_11022026#story-50319358&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Kentucky man becomes the first humanist granted religious exemption from AI</title>
       <link>https://religionnews.com/2026/10/26/in-a-first-a-humanist-granted-a-religious-exemption-from-using-ai/</link>
       <guid isPermaLink="true">https://news.ycombinator.com/item?id=50273396</guid>
@@ -583,18 +633,6 @@
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50273396&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/10/28/top_stories_10282026#story-50273396&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Postgres 19 is late because so many more bugs are being found now</title>
-      <link>http://rhaas.blogspot.com/2026/10/postgres-19-is-late-and-its-ais-fault.html</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50312408</guid>
-      <dc:creator>soheilpro</dc:creator>
-      <pubDate>Sat, 31 Oct 2026 01:38:56 +0000</pubDate>
-      <category>Programming</category>
-      <description>&lt;p&gt;Postgres 19 is late because many more bugs are being found during development. The title identifies the delay and attributes it to the increased discovery of defects.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Postgres 19 的发布出现延期，原因是开发过程中发现的错误数量大幅增加。标题将这次延迟归因于缺陷发现增多。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 478 · 💬 301 · Programming&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50312408&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/02/top_stories_11022026#story-50312408&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>Northflank Breached</title>
       <link>https://status.northflank.com</link>
       <guid isPermaLink="true">https://news.ycombinator.com/item?id=50305025</guid>
@@ -606,46 +644,6 @@
 &lt;p&gt;&lt;em&gt;Northflank 表示，所有客户现在都可以轮换 MySQL 和 Redis 密钥，并建议尚未操作的客户立即轮换。该平台还为包括免费用户在内的所有客户启用了审计日志。&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;▲ 477 · 💬 361 · Security · DevOps&lt;/small&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50305025&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/01/top_stories_11012026#story-50305025&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Roblox downloaded 145GB models from us (including adult content) without asking</title>
-      <link>https://open3dlab.com/news/roblox-downloaded-145-gb-of-models-from-our-sites/</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50256985</guid>
-      <dc:creator>choult</dc:creator>
-      <pubDate>Tue, 27 Oct 2026 10:27:50 +0000</pubDate>
-      <category>Gaming</category>
-      <category>Privacy</category>
-      <description>&lt;p&gt;Roblox clients downloaded 145GB of user-uploaded 3D models without permission, including adult content. This underscores challenges around asset provenance and moderation on large user-generated platforms, and highlights the need for stronger safeguards and provenance tracking in download flows.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Roblox 客户端未获同意便下载了约145GB的用户上传3D模型，其中还包含成人内容。这突显了大规模用户生成内容平台在资产溯源和分发治理方面的难题，需要加强下载保护与溯源机制。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 477 · 💬 271 · Gaming · Privacy&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50256985&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/10/27/top_stories_10272026#story-50256985&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Anthropic blocks users for anything touching training larger models</title>
-      <link>https://twitter.com/jiahaoshao1/status/2116475922190922088</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50319358</guid>
-      <dc:creator>pretext</dc:creator>
-      <pubDate>Sat, 31 Oct 2026 19:39:19 +0000</pubDate>
-      <category>AI</category>
-      <category>Legal</category>
-      <category>Open Source</category>
-      <description>&lt;p&gt;A user says Anthropic blocked their account after flagging work involving reinforcement fine-tuning, supervised fine-tuning, or training larger models as “training a competitor.” The user says Claude only helped submit jobs and analyze results, while the rollouts came from an open-source model. They also report being downgraded from Opus 5.5.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;一名用户称，Anthropic 将其涉及强化微调、监督微调或训练更大模型的工作标记为“训练竞争对手”，并屏蔽了其账户。该用户表示，Claude 只帮助提交任务和分析结果，实际生成过程使用的是开源模型。用户还称自己的账户被降级，无法继续使用 Opus 5.5。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 471 · 💬 262 · AI · Legal · Open Source&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50319358&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/02/top_stories_11022026#story-50319358&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>DoorDash to acquire Instacart</title>
-      <link>https://about.doordash.com/en-us/news/doordash-to-acquire-instacart</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50287919</guid>
-      <dc:creator>WalterSobchak</dc:creator>
-      <pubDate>Thu, 29 Oct 2026 12:33:05 +0000</pubDate>
-      <category>Business</category>
-      <category>Legal</category>
-      <description>&lt;p&gt;DoorDash announced plans to acquire Instacart, creating a larger player in on-demand grocery delivery. The merger could reshape competition, pricing, and last-mile logistics, while triggering antitrust scrutiny and integration challenges for both platforms.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;DoorDash 宣布收购 Instacart，将打造更强的即时送货生态。合并可能改变市场竞争格局、定价与末端配送效率，同时面临潜在的反垄断审查和整合挑战。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 471 · 💬 632 · Business · Legal&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50287919&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/10/30/top_stories_10302026#story-50287919&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

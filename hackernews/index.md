@@ -18,9 +18,9 @@ Sort:
 <div id='hn-search-results' class='hn-search-results' style='display:none;'></div>
 <button id='hn-search-more' class='hn-search-more' style='display:none;'>Show more results</button>
 <div class='hn-index-section hn-top-stories-section'>
-<h3 class='hn-section-title'><a class='hn-section-title-link' href='/hackernews/2026/11/02/top_stories_11022026'>Today's Top Stories</a> <span class='hn-section-zh'>今日头条</span> <time class='hn-section-date' datetime='2026-11-02'>Nov 02, 2026 · 2:45 AM PST</time> <span class='hn-hot-badge'>🔥 HOT</span></h3>
+<h3 class='hn-section-title'><a class='hn-section-title-link' href='/hackernews/2026/11/02/top_stories_11022026'>Today's Top Stories</a> <span class='hn-section-zh'>今日头条</span> <time class='hn-section-date' datetime='2026-11-02'>Nov 02, 2026 · 4:24 PM PST</time> <span class='hn-hot-badge'>🔥 HOT</span></h3>
 <div class='hn-top-stories-list'>
-<div class='hn-top-story-item' data-hn-score='1407' data-hn-time='1793548708'>
+<div class='hn-top-story-item' data-hn-score='1806' data-hn-time='1793548708'>
 <span class='hn-top-story-rank'>1</span>
 <div class='hn-top-story-content'>
 <div class='hn-top-story-title'>
@@ -28,32 +28,32 @@ Sort:
  <a class='hn-top-story-link' href='https://hackerbooks.org' target='_blank' title='Read original article'>&#x1F517;</a>
 </div>
 <div class='hn-top-story-zh'>Show HN：HackerBooks——面向 HN 提及书籍的 HackerTube</div>
-<div class='hn-top-story-meta'><span class='hn-hot-idx'>&#128293; 5.9</span> <span class='hn-top-story-score'>&#9650; 1407</span> <span class='hn-top-story-comments'>&#128172; 235</span> <span class='hn-top-story-tag'>Show HN</span> <span class='hn-top-story-tag'>Data</span></div>
+<div class='hn-top-story-meta'><span class='hn-hot-idx'>&#128293; 3.1</span> <span class='hn-top-story-score'>&#9650; 1806</span> <span class='hn-top-story-comments'>&#128172; 300</span> <span class='hn-top-story-tag'>Show HN</span> <span class='hn-top-story-tag'>Data</span></div>
 </div>
 </div>
-<div class='hn-top-story-item' data-hn-score='199' data-hn-time='1793595990'>
+<div class='hn-top-story-item' data-hn-score='2808' data-hn-time='1793476613'>
 <span class='hn-top-story-rank'>2</span>
-<div class='hn-top-story-content'>
-<div class='hn-top-story-title'>
-<a class='hn-top-story-title-text' href='/hackernews/2026/11/02/top_stories_11022026#story-50333339'>Show HN: Wikihack – HackerTube, but for Wikipedia articles mentioned on HN</a>
- <a class='hn-top-story-link' href='https://wikihack.netlify.app' target='_blank' title='Read original article'>&#x1F517;</a>
-</div>
-<div class='hn-top-story-zh'>Show HN：Wikihack——面向 HN 提及维基百科文章的 HackerTube</div>
-<div class='hn-top-story-meta'><span class='hn-hot-idx'>&#128293; 5.0</span> <span class='hn-top-story-score'>&#9650; 199</span> <span class='hn-top-story-comments'>&#128172; 61</span> <span class='hn-top-story-tag'>Show HN</span> <span class='hn-top-story-tag'>Web</span></div>
-</div>
-</div>
-<div class='hn-top-story-item' data-hn-score='2589' data-hn-time='1793476613'>
-<span class='hn-top-story-rank'>3</span>
 <div class='hn-top-story-content'>
 <div class='hn-top-story-title'>
 <a class='hn-top-story-title-text' href='/hackernews/2026/11/02/top_stories_11022026#story-50319510'>HackerTube: YouTube built from videos recommended by HN</a>
  <a class='hn-top-story-link' href='https://karpathy.bearblog.dev/hacker-tube/' target='_blank' title='Read original article'>&#x1F517;</a>
 </div>
 <div class='hn-top-story-zh'>HackerTube：由 HN 推荐视频构成的 YouTube</div>
-<div class='hn-top-story-meta'><span class='hn-hot-idx'>&#128293; 3.2</span> <span class='hn-top-story-score'>&#9650; 2589</span> <span class='hn-top-story-comments'>&#128172; 572</span> <span class='hn-top-story-tag'>Web</span></div>
+<div class='hn-top-story-meta'><span class='hn-hot-idx'>&#128293; 2.1</span> <span class='hn-top-story-score'>&#9650; 2808</span> <span class='hn-top-story-comments'>&#128172; 624</span> <span class='hn-top-story-tag'>Web</span></div>
 </div>
 </div>
-<div class='hn-top-story-item' data-hn-score='288' data-hn-time='1793578647'>
+<div class='hn-top-story-item' data-hn-score='681' data-hn-time='1793561727'>
+<span class='hn-top-story-rank'>3</span>
+<div class='hn-top-story-content'>
+<div class='hn-top-story-title'>
+<a class='hn-top-story-title-text' href='/hackernews/2026/11/02/top_stories_11022026#story-50328896'>Ask HN: Which TV do you recommend for privacy?</a>
+ <a class='hn-top-story-link' href='https://news.ycombinator.com/item?id=50328896' target='_blank' title='Read original article'>&#x1F517;</a>
+</div>
+<div class='hn-top-story-zh'>Ask HN：你推荐哪款重视隐私的电视？</div>
+<div class='hn-top-story-meta'><span class='hn-hot-idx'>&#128293; 1.4</span> <span class='hn-top-story-score'>&#9650; 681</span> <span class='hn-top-story-comments'>&#128172; 821</span> <span class='hn-top-story-tag'>Privacy</span></div>
+</div>
+</div>
+<div class='hn-top-story-item' data-hn-score='490' data-hn-time='1793578647'>
 <span class='hn-top-story-rank'>4</span>
 <div class='hn-top-story-content'>
 <div class='hn-top-story-title'>
@@ -61,65 +61,65 @@ Sort:
  <a class='hn-top-story-link' href='https://occupysaas.com/' target='_blank' title='Read original article'>&#x1F517;</a>
 </div>
 <div class='hn-top-story-zh'>OccupySaaS</div>
-<div class='hn-top-story-meta'><span class='hn-hot-idx'>&#128293; 3.0</span> <span class='hn-top-story-score'>&#9650; 288</span> <span class='hn-top-story-comments'>&#128172; 168</span> <span class='hn-top-story-tag'>Open Source</span></div>
+<div class='hn-top-story-meta'><span class='hn-hot-idx'>&#128293; 1.4</span> <span class='hn-top-story-score'>&#9650; 490</span> <span class='hn-top-story-comments'>&#128172; 306</span> <span class='hn-top-story-tag'>Open Source</span></div>
 </div>
 </div>
-<div class='hn-top-story-item' data-hn-score='299' data-hn-time='1793575231'>
+<div class='hn-top-story-item' data-hn-score='332' data-hn-time='1793595990'>
 <span class='hn-top-story-rank'>5</span>
 <div class='hn-top-story-content'>
 <div class='hn-top-story-title'>
-<a class='hn-top-story-title-text' href='/hackernews/2026/11/02/top_stories_11022026#story-50330939'>U.S. workers took home their smallest share of capital since at least 1947</a>
- <a class='hn-top-story-link' href='https://fortune.com/article/why-did-us-workers-just-take-home-smallest-share-of-capital-since-1947-lowest-ever-recorded/' target='_blank' title='Read original article'>&#x1F517;</a>
+<a class='hn-top-story-title-text' href='/hackernews/2026/11/02/top_stories_11022026#story-50333339'>Show HN: Wikihack – HackerTube, but for Wikipedia articles mentioned on HN</a>
+ <a class='hn-top-story-link' href='https://wikihack.netlify.app' target='_blank' title='Read original article'>&#x1F517;</a>
 </div>
-<div class='hn-top-story-zh'>美国工人获得的资本份额至少降至 1947 年以来最低</div>
-<div class='hn-top-story-meta'><span class='hn-hot-idx'>&#128293; 2.8</span> <span class='hn-top-story-score'>&#9650; 299</span> <span class='hn-top-story-comments'>&#128172; 164</span> <span class='hn-top-story-tag'>Business</span> <span class='hn-top-story-tag'>Finance</span></div>
+<div class='hn-top-story-zh'>Show HN：Wikihack——面向 HN 提及维基百科文章的 HackerTube</div>
+<div class='hn-top-story-meta'><span class='hn-hot-idx'>&#128293; 1.3</span> <span class='hn-top-story-score'>&#9650; 332</span> <span class='hn-top-story-comments'>&#128172; 102</span> <span class='hn-top-story-tag'>Show HN</span> <span class='hn-top-story-tag'>Web</span></div>
 </div>
 </div>
-<div class='hn-top-story-item hn-top-story-extra' data-hn-score='410' data-hn-time='1793561727'>
+<div class='hn-top-story-item hn-top-story-extra' data-hn-score='204' data-hn-time='1793611756'>
 <span class='hn-top-story-rank'>6</span>
 <div class='hn-top-story-content'>
 <div class='hn-top-story-title'>
-<a class='hn-top-story-title-text' href='/hackernews/2026/11/02/top_stories_11022026#story-50328896'>Ask HN: Which TV do you recommend for privacy?</a>
- <a class='hn-top-story-link' href='https://news.ycombinator.com/item?id=50328896' target='_blank' title='Read original article'>&#x1F517;</a>
+<a class='hn-top-story-title-text' href='/hackernews/2026/11/02/top_stories_11022026#story-50334704'>Show HN: I've updated my Linux System Call website and API</a>
+ <a class='hn-top-story-link' href='https://syscall.sh/' target='_blank' title='Read original article'>&#x1F517;</a>
 </div>
-<div class='hn-top-story-zh'>Ask HN：你推荐哪款重视隐私的电视？</div>
-<div class='hn-top-story-meta'><span class='hn-hot-idx'>&#128293; 2.4</span> <span class='hn-top-story-score'>&#9650; 410</span> <span class='hn-top-story-comments'>&#128172; 540</span> <span class='hn-top-story-tag'>Privacy</span></div>
+<div class='hn-top-story-zh'>Show HN：我更新了 Linux 系统调用网站和 API</div>
+<div class='hn-top-story-meta'><span class='hn-hot-idx'>&#128293; 1.2</span> <span class='hn-top-story-score'>&#9650; 204</span> <span class='hn-top-story-comments'>&#128172; 48</span> <span class='hn-top-story-tag'>Show HN</span> <span class='hn-top-story-tag'>Programming</span></div>
 </div>
 </div>
-<div class='hn-top-story-item hn-top-story-extra' data-hn-score='427' data-hn-time='1793554096'>
+<div class='hn-top-story-item hn-top-story-extra' data-hn-score='315' data-hn-time='1793583067'>
 <span class='hn-top-story-rank'>7</span>
 <div class='hn-top-story-content'>
 <div class='hn-top-story-title'>
-<a class='hn-top-story-title-text' href='/hackernews/2026/11/02/top_stories_11022026#story-50327650'>Patrick Stewart taught us what good men do with power</a>
- <a class='hn-top-story-link' href='https://www.vox.com/politics/508526/patrick-stewart-jean-luc-picard-star-trek-liberalism' target='_blank' title='Read original article'>&#x1F517;</a>
+<a class='hn-top-story-title-text' href='/hackernews/2026/11/02/top_stories_11022026#story-50331957'>Bones may release proteins that slow aging and extend life span</a>
+ <a class='hn-top-story-link' href='https://www.science.org/content/article/bones-may-release-proteins-slow-aging-and-extend-life-span' target='_blank' title='Read original article'>&#x1F517;</a>
 </div>
-<div class='hn-top-story-zh'>帕特里克·斯图尔特教会我们有权力的善良之人应如何行事</div>
-<div class='hn-top-story-meta'><span class='hn-hot-idx'>&#128293; 2.1</span> <span class='hn-top-story-score'>&#9650; 427</span> <span class='hn-top-story-comments'>&#128172; 304</span> <span class='hn-top-story-tag'>Politics</span> <span class='hn-top-story-tag'>Culture</span></div>
+<div class='hn-top-story-zh'>骨骼可能释放减缓衰老并延长寿命的蛋白质</div>
+<div class='hn-top-story-meta'><span class='hn-hot-idx'>&#128293; 1.0</span> <span class='hn-top-story-score'>&#9650; 315</span> <span class='hn-top-story-comments'>&#128172; 126</span> <span class='hn-top-story-tag'>Health</span></div>
 </div>
 </div>
-<div class='hn-top-story-item hn-top-story-extra' data-hn-score='42' data-hn-time='1793604448'>
+<div class='hn-top-story-item hn-top-story-extra' data-hn-score='711' data-hn-time='1793530078'>
 <span class='hn-top-story-rank'>8</span>
-<div class='hn-top-story-content'>
-<div class='hn-top-story-title'>
-<a class='hn-top-story-title-text' href='/hackernews/2026/11/02/top_stories_11022026#story-50334038'>China's First Frontier AI Export Controls: Mofcom Announcement No. 48</a>
- <a class='hn-top-story-link' href='https://labs.cloudsecurityalliance.org/research/csa-research-note-china-ai-export-controls-announcement-48-2/' target='_blank' title='Read original article'>&#x1F517;</a>
-</div>
-<div class='hn-top-story-zh'>中国首次前沿 AI 出口管制：商务部公告第 48 号</div>
-<div class='hn-top-story-meta'><span class='hn-hot-idx'>&#128293; 2.0</span> <span class='hn-top-story-score'>&#9650; 42</span> <span class='hn-top-story-comments'>&#128172; 29</span> <span class='hn-top-story-tag'>AI</span> <span class='hn-top-story-tag'>Politics</span></div>
-</div>
-</div>
-<div class='hn-top-story-item hn-top-story-extra' data-hn-score='692' data-hn-time='1793530078'>
-<span class='hn-top-story-rank'>9</span>
 <div class='hn-top-story-content'>
 <div class='hn-top-story-title'>
 <a class='hn-top-story-title-text' href='/hackernews/2026/11/02/top_stories_11022026#story-50324388'>Restrooms along the Norwegian Scenic Routes</a>
  <a class='hn-top-story-link' href='https://www.visitnorway.com/plan-your-trip/travel-tips-a-z/norwegian-scenic-routes/worlds-best-toilets/' target='_blank' title='Read original article'>&#x1F517;</a>
 </div>
 <div class='hn-top-story-zh'>挪威风景公路沿线的卫生间</div>
-<div class='hn-top-story-meta'><span class='hn-hot-idx'>&#128293; 2.0</span> <span class='hn-top-story-score'>&#9650; 692</span> <span class='hn-top-story-comments'>&#128172; 413</span> <span class='hn-top-story-tag'>Design</span></div>
+<div class='hn-top-story-meta'><span class='hn-hot-idx'>&#128293; 0.9</span> <span class='hn-top-story-score'>&#9650; 711</span> <span class='hn-top-story-comments'>&#128172; 432</span> <span class='hn-top-story-tag'>Design</span></div>
 </div>
 </div>
-<div class='hn-top-story-item hn-top-story-extra' data-hn-score='494' data-hn-time='1793543683'>
+<div class='hn-top-story-item hn-top-story-extra' data-hn-score='341' data-hn-time='1793575231'>
+<span class='hn-top-story-rank'>9</span>
+<div class='hn-top-story-content'>
+<div class='hn-top-story-title'>
+<a class='hn-top-story-title-text' href='/hackernews/2026/11/02/top_stories_11022026#story-50330939'>U.S. workers took home their smallest share of capital since at least 1947</a>
+ <a class='hn-top-story-link' href='https://fortune.com/article/why-did-us-workers-just-take-home-smallest-share-of-capital-since-1947-lowest-ever-recorded/' target='_blank' title='Read original article'>&#x1F517;</a>
+</div>
+<div class='hn-top-story-zh'>美国工人获得的资本份额至少降至 1947 年以来最低</div>
+<div class='hn-top-story-meta'><span class='hn-hot-idx'>&#128293; 0.9</span> <span class='hn-top-story-score'>&#9650; 341</span> <span class='hn-top-story-comments'>&#128172; 208</span> <span class='hn-top-story-tag'>Business</span> <span class='hn-top-story-tag'>Finance</span></div>
+</div>
+</div>
+<div class='hn-top-story-item hn-top-story-extra' data-hn-score='561' data-hn-time='1793543683'>
 <span class='hn-top-story-rank'>10</span>
 <div class='hn-top-story-content'>
 <div class='hn-top-story-title'>
@@ -127,7 +127,7 @@ Sort:
  <a class='hn-top-story-link' href='https://www.reddit.com/r/technology/comments/1xl2pr3/lenovos_encrypted_fingerprint_usb_drive_is_just/' target='_blank' title='Read original article'>&#x1F517;</a>
 </div>
 <div class='hn-top-story-zh'>联想所谓的“加密”指纹 USB，其实只是装在外壳里的未加密 SD 卡</div>
-<div class='hn-top-story-meta'><span class='hn-hot-idx'>&#128293; 1.9</span> <span class='hn-top-story-score'>&#9650; 494</span> <span class='hn-top-story-comments'>&#128172; 166</span> <span class='hn-top-story-tag'>Security</span> <span class='hn-top-story-tag'>Hardware</span></div>
+<div class='hn-top-story-meta'><span class='hn-hot-idx'>&#128293; 0.9</span> <span class='hn-top-story-score'>&#9650; 561</span> <span class='hn-top-story-comments'>&#128172; 174</span> <span class='hn-top-story-tag'>Security</span> <span class='hn-top-story-tag'>Hardware</span></div>
 </div>
 </div>
 <button class='hn-top-stories-toggle' id='hn-top-stories-toggle'>Show more ▼</button>
@@ -158,7 +158,7 @@ Sort:
 <div class='hn-month-heading'>Best of the Month <span>October 2026</span></div>
 <a class='hn-story-link hn-monthly-digest-link' href='/hackernews/monthly/2026-10'>
 <span class='hn-row-type hn-type-monthly'>Monthly Top</span>
-<span class='hn-row-detail'>Top <b>200</b> <span class="hn-row-sep">·</span> from <b>2101</b> unique stories <span class="hn-row-sep">·</span> AI <b>59</b> <span class="hn-row-sep">·</span> Security <b>43</b></span>
+<span class='hn-row-detail'>Top <b>200</b> <span class="hn-row-sep">·</span> from <b>2101</b> unique stories <span class="hn-row-sep">·</span> AI <b>58</b> <span class="hn-row-sep">·</span> Security <b>43</b></span>
 </a>
 </div>
 <details class='hn-week-group'>
