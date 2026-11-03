@@ -5,7 +5,7 @@
     <link>https://chaowang15.github.io/hackernews/</link>
     <description>Curated daily digest of top Hacker News stories with AI-generated summaries, tags, and bilingual translations.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 03 Nov 2026 10:26:55 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 16:51:11 +0000</lastBuildDate>
     <generator>Hacker News Daily RSS Builder</generator>
     <atom:link href="https://chaowang15.github.io/hackernews/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
@@ -21,18 +21,6 @@
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50294702&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/10/30/top_stories_10302026#story-50294702&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>HackerTube: YouTube built from videos recommended by HN</title>
-      <link>https://karpathy.bearblog.dev/hacker-tube/</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50319510</guid>
-      <dc:creator>karpathy</dc:creator>
-      <pubDate>Sat, 31 Oct 2026 19:56:53 +0000</pubDate>
-      <category>Web</category>
-      <description>&lt;p&gt;HackerTube presents a YouTube-style interface for 6,454 videos sourced from 39,834 Hacker News comments dating back to 2007. The collection is available through hackertube.org. It turns years of community recommendations into a browsable video archive.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;HackerTube 提供了一个 YouTube 风格的界面，收录了自 2007 年以来从 39,834 条 Hacker News 评论中提取的 6,454 个视频。该视频集合可通过 hackertube.org 浏览。它将多年社区推荐整理成了一个可探索的视频档案。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 2836 · 💬 632 · Web&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50319510&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/03/top_stories_11032026#story-50319510&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>Astra can read and write weights to improve Qwen</title>
       <link>https://rikiyat.github.io/blog/weight-space-programming/</link>
       <guid isPermaLink="true">https://news.ycombinator.com/item?id=50341174</guid>
@@ -41,8 +29,20 @@
       <category>AI</category>
       <description>&lt;p&gt;The source reports that frontier LLMs can read and write neural-network weights directly. GPT-6 Astra can infer what a network was trained to do from its raw weights and create small game-playing networks that outperform ones trained with PPO for 100 million steps. The capability could matter for model optimization and interpretability.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;资料称，前沿大语言模型已经能够直接读取和写入神经网络权重。GPT-6 Astra 可以仅凭原始权重判断网络的训练目标，还能从零编写击败经过 1 亿步 PPO 训练的小型游戏网络。这种能力可能对模型优化和可解释性具有重要意义。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 2653 · 💬 808 · AI&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 2891 · 💬 872 · AI&lt;/small&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50341174&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/03/top_stories_11032026#story-50341174&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>HackerTube: YouTube built from videos recommended by HN</title>
+      <link>https://karpathy.bearblog.dev/hacker-tube/</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50319510</guid>
+      <dc:creator>karpathy</dc:creator>
+      <pubDate>Sat, 31 Oct 2026 19:56:53 +0000</pubDate>
+      <category>Web</category>
+      <description>&lt;p&gt;HackerTube presents a YouTube-style interface for 6,454 videos sourced from 39,834 Hacker News comments dating back to 2007. The collection is available through hackertube.org. It turns years of community recommendations into a browsable video archive.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;HackerTube 提供了一个 YouTube 风格的界面，收录了自 2007 年以来从 39,834 条 Hacker News 评论中提取的 6,454 个视频。该视频集合可通过 hackertube.org 浏览。它将多年社区推荐整理成了一个可探索的视频档案。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 2845 · 💬 632 · Web&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50319510&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/03/top_stories_11032026#story-50319510&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Show HN: HackerBooks – HackerTube, but for books mentioned on HN</title>
@@ -54,7 +54,7 @@
       <category>Data</category>
       <description>&lt;p&gt;HackerBooks catalogs about 16,500 books mentioned by at least two different Hacker News commenters between 2007 and today. Each book links back to the comments that mentioned it, and the dataset can be downloaded from the about page. The creator notes that the system counts mentions without distinguishing praise from criticism, so some entries may be missing or mismatched.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;HackerBooks 收录了 2007 年至今至少被两名不同 Hacker News 评论者提到过的约 1.65 万本书。每本书都链接回提及它的评论，数据集也可从关于页面下载。创建者说明，系统只统计提及次数，不区分赞扬和批评，因此部分书籍可能遗漏或匹配错误。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 1826 · 💬 302 · Show HN · Data&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 1835 · 💬 304 · Show HN · Data&lt;/small&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50326821&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/03/top_stories_11032026#story-50326821&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
@@ -84,6 +84,19 @@
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50289418&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/02/top_stories_11022026#story-50289418&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>WTF Ubuntu?</title>
+      <link>https://chalmovsky.com/posts/wtf-ubuntu</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50337608</guid>
+      <dc:creator>chalmovsky</dc:creator>
+      <pubDate>Mon, 02 Nov 2026 14:52:00 +0000</pubDate>
+      <category>Security</category>
+      <category>AI</category>
+      <description>&lt;p&gt;CVE-2026-98432 is described as a critical, remotely exploitable bug in the Linux kernel's TCP code that has existed since 2016. The source says Anthropic developed an exploit capable of gaining root access, while Debian issued a patch on October 16 and supported Ubuntu releases remained listed as vulnerable.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;CVE-2026-98432 被描述为 Linux 内核 TCP 代码中的严重漏洞，自 2016 年起便存在且可远程利用。资料称 Anthropic 已开发出可获取服务器 root 权限的漏洞利用程序；Debian 于 10 月 16 日发布了补丁，而受支持的 Ubuntu 版本仍被列为易受攻击。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 1584 · 💬 659 · Security · AI&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50337608&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/03/top_stories_11032026#story-50337608&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Why is this fingerprinting script creating bioweapons?</title>
       <link>https://nullpt.rs/fingerprinting-bioweapons</link>
       <guid isPermaLink="true">https://news.ycombinator.com/item?id=50276998</guid>
@@ -96,19 +109,6 @@
 &lt;p&gt;&lt;em&gt;作者介绍了对浏览器指纹识别脚本的调查，范围从 FingerprintJS 等常见库到 Cloudflare Turnstile 和 Akamai 使用的反机器人系统。随后，作者考虑抓取网页、拦截与指纹识别相关的浏览器 API 调用，并绘制其分布图。标题将这项调查与似乎正在制造生物武器的脚本联系起来，但现有内容未提供更多细节。&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;▲ 1581 · 💬 306 · Privacy · Security · Web&lt;/small&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50276998&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/10/31/top_stories_10312026#story-50276998&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>WTF Ubuntu?</title>
-      <link>https://chalmovsky.com/posts/wtf-ubuntu</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50337608</guid>
-      <dc:creator>chalmovsky</dc:creator>
-      <pubDate>Mon, 02 Nov 2026 14:52:00 +0000</pubDate>
-      <category>Security</category>
-      <category>AI</category>
-      <description>&lt;p&gt;CVE-2026-98432 is described as a critical, remotely exploitable bug in the Linux kernel's TCP code that has existed since 2016. The source says Anthropic developed an exploit capable of gaining root access, while Debian issued a patch on October 16 and supported Ubuntu releases remained listed as vulnerable.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;CVE-2026-98432 被描述为 Linux 内核 TCP 代码中的严重漏洞，自 2016 年起便存在且可远程利用。资料称 Anthropic 已开发出可获取服务器 root 权限的漏洞利用程序；Debian 于 10 月 16 日发布了补丁，而受支持的 Ubuntu 版本仍被列为易受攻击。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 1527 · 💬 634 · Security · AI&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50337608&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/03/top_stories_11032026#story-50337608&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Ghostty 1.4</title>
@@ -234,7 +234,7 @@
       <category>Science</category>
       <description>&lt;p&gt;In the early 1990s, Parma farmer Claudio Grossi found an unidentified sack of seeds that likely belonged to his great-grandfather, who founded the farm around 1915. After he discarded the seeds in manure, several types of wheat unexpectedly sprouted. One variety grew about six feet tall and produced seven ears, unlike the single-ear commercial wheat Grossi knew.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;20 世纪 90 年代初，帕尔马农民克劳迪奥·格罗西发现了一袋无法辨认的种子，可能是其约于 1915 年创建农场的曾祖父留下的。他把种子倒进肥料堆后，几种小麦竟意外发芽。其中一个品种长到约六英尺高，并结出七个麦穗，不同于格罗西熟悉的单穗商业小麦。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 863 · 💬 232 · Science&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 869 · 💬 236 · Science&lt;/small&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50320963&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/03/top_stories_11032026#story-50320963&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
@@ -246,8 +246,33 @@
       <category>Programming</category>
       <description>&lt;p&gt;Postgres 19 is late because many more bugs are being found during development. The title identifies the delay and attributes it to the increased discovery of defects.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Postgres 19 的发布出现延期，原因是开发过程中发现的错误数量大幅增加。标题将这次延迟归因于缺陷发现增多。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 828 · 💬 491 · Programming&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 834 · 💬 505 · Programming&lt;/small&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50312408&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/03/top_stories_11032026#story-50312408&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Show HN: Subvocal – Talk to your computer without making noise</title>
+      <link>https://news.ycombinator.com/item?id=50340088</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50340088</guid>
+      <dc:creator>aarushyadav</dc:creator>
+      <pubDate>Mon, 02 Nov 2026 17:16:17 +0000</pubDate>
+      <category>Show HN</category>
+      <category>AI</category>
+      <description>&lt;p&gt;Subvocal is building smart glasses that decode silently mouthed words into text at speech speed. The system can also work without opening the mouth, using radio-frequency sensing to detect movements inside the mouth, though the developers distinguish this from silently thinking words. The founders began the project after finding that voice tools were impractical in libraries, offices, and public spaces.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Subvocal 正在开发能将无声口型以接近语速转换为文字的智能眼镜。系统甚至可以在不张嘴的情况下工作，通过射频感知口腔内部动作；开发者强调，这不同于单纯在脑中默念。创始人因发现语音工具不适合图书馆、办公室和公共场所，开始了这个项目。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 791 · 💬 368 · Show HN · AI&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50340088&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/03/top_stories_11032026#story-50340088&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8</title>
+      <link>https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50319143</guid>
+      <dc:creator>oger</dc:creator>
+      <pubDate>Sat, 31 Oct 2026 19:16:30 +0000</pubDate>
+      <category>Security</category>
+      <description>&lt;p&gt;CVE-2026-98432 is a critical remote use-after-free vulnerability in Linux's IPv4 TCP handshake, reachable by an unauthenticated network peer. Stable kernels fixed it in October 2026, with patches for versions including 5.10.272 through 7.3, but the flaw dates back to Linux 4.4. At the reported time, Ubuntu still marked every release as vulnerable, while Red Hat listed RHEL 8, 9, and 10 as affected without a fix.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;CVE-2026-98432 是 Linux IPv4 TCP 握手中的严重远程释放后使用漏洞，未经身份验证的网络对端即可触发。稳定版内核已于 2026 年 10 月修复，补丁覆盖 5.10.272 至 7.3 等版本，但该缺陷可追溯至 Linux 4.4。报道所述时间点，Ubuntu 仍将所有版本标为易受攻击，Red Hat 也列出受影响的 RHEL 8、9 和 10，尚未提供修复。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 745 · 💬 332 · Security&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50319143&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/03/top_stories_11032026#story-50319143&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>StackOverflow now gets fewer than 1000 questions a month</title>
@@ -262,16 +287,16 @@
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50282454&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/10/29/top_stories_10292026#story-50282454&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8</title>
-      <link>https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50319143</guid>
-      <dc:creator>oger</dc:creator>
-      <pubDate>Sat, 31 Oct 2026 19:16:30 +0000</pubDate>
-      <category>Security</category>
-      <description>&lt;p&gt;CVE-2026-98432 is a critical remote use-after-free vulnerability in Linux's IPv4 TCP handshake, reachable by an unauthenticated network peer. Stable kernels fixed it in October 2026, with patches for versions including 5.10.272 through 7.3, but the flaw dates back to Linux 4.4. At the reported time, Ubuntu still marked every release as vulnerable, while Red Hat listed RHEL 8, 9, and 10 as affected without a fix.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;CVE-2026-98432 是 Linux IPv4 TCP 握手中的严重远程释放后使用漏洞，未经身份验证的网络对端即可触发。稳定版内核已于 2026 年 10 月修复，补丁覆盖 5.10.272 至 7.3 等版本，但该缺陷可追溯至 Linux 4.4。报道所述时间点，Ubuntu 仍将所有版本标为易受攻击，Red Hat 也列出受影响的 RHEL 8、9 和 10，尚未提供修复。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 741 · 💬 332 · Security&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50319143&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/03/top_stories_11032026#story-50319143&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+      <title>Ask HN: Which TV do you recommend for privacy?</title>
+      <link>https://news.ycombinator.com/item?id=50328896</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50328896</guid>
+      <dc:creator>LecroJS</dc:creator>
+      <pubDate>Sun, 01 Nov 2026 19:35:27 +0000</pubDate>
+      <category>Privacy</category>
+      <description>&lt;p&gt;A user is looking for a privacy-respecting television with a 60–80-inch 4K display running at least 60 Hz. They want the device to act only as a display for an Apple TV rather than use smart-TV apps, and are asking which models pair well with that setup.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;一名用户想寻找重视隐私的电视，要求尺寸在 60 至 80 英寸之间、支持 4K 且刷新率至少为 60Hz。他希望电视只作为 Apple TV 的显示器，而不运行智能电视原生应用，并询问哪些型号适合这种配置。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 716 · 💬 856 · Privacy&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50328896&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/03/top_stories_11032026#story-50328896&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Restrooms along the Norwegian Scenic Routes</title>
@@ -284,31 +309,6 @@
 &lt;p&gt;&lt;em&gt;挪威风景公路沿线的卫生间被视为与周围自然环境协调的建筑地标。大多数设施由知名或新兴的挪威建筑事务所设计。例如，罗弗敦群岛 Eggum 休息点由 Snøhetta 设计，Selvika 的设施则由 Reiulf Ramstad 设计。&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;▲ 711 · 💬 432 · Design&lt;/small&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50324388&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/02/top_stories_11022026#story-50324388&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Ask HN: Which TV do you recommend for privacy?</title>
-      <link>https://news.ycombinator.com/item?id=50328896</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50328896</guid>
-      <dc:creator>LecroJS</dc:creator>
-      <pubDate>Sun, 01 Nov 2026 19:35:27 +0000</pubDate>
-      <category>Privacy</category>
-      <description>&lt;p&gt;A user is looking for a privacy-respecting television with a 60–80-inch 4K display running at least 60 Hz. They want the device to act only as a display for an Apple TV rather than use smart-TV apps, and are asking which models pair well with that setup.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;一名用户想寻找重视隐私的电视，要求尺寸在 60 至 80 英寸之间、支持 4K 且刷新率至少为 60Hz。他希望电视只作为 Apple TV 的显示器，而不运行智能电视原生应用，并询问哪些型号适合这种配置。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 707 · 💬 847 · Privacy&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50328896&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/03/top_stories_11032026#story-50328896&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Show HN: Subvocal – Talk to your computer without making noise</title>
-      <link>https://news.ycombinator.com/item?id=50340088</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50340088</guid>
-      <dc:creator>aarushyadav</dc:creator>
-      <pubDate>Mon, 02 Nov 2026 17:16:17 +0000</pubDate>
-      <category>Show HN</category>
-      <category>AI</category>
-      <description>&lt;p&gt;Subvocal is building smart glasses that decode silently mouthed words into text at speech speed. The system can also work without opening the mouth, using radio-frequency sensing to detect movements inside the mouth, though the developers distinguish this from silently thinking words. The founders began the project after finding that voice tools were impractical in libraries, offices, and public spaces.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Subvocal 正在开发能将无声口型以接近语速转换为文字的智能眼镜。系统甚至可以在不张嘴的情况下工作，通过射频感知口腔内部动作；开发者强调，这不同于单纯在脑中默念。创始人因发现语音工具不适合图书馆、办公室和公共场所，开始了这个项目。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 701 · 💬 341 · Show HN · AI&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50340088&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/03/top_stories_11032026#story-50340088&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5</title>
@@ -335,6 +335,18 @@
 &lt;p&gt;&lt;em&gt;文章提出疑问：如果 AI 处理了95%的事故响应，人类只面对最关键的5%，工程师是否会因此变得不那么熟练。文章援引美国海军的历史案例，主张始终应由人类负责执行操作。面对新型事故时，作者会结合自身观察和推理使用 AI，以逐步排除可能的根因。文中描述的是人机协作，而不是完全取代人类。&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;▲ 662 · 💬 482 · AI · DevOps&lt;/small&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50305693&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/01/top_stories_11012026#story-50305693&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>If you love a website, back it up</title>
+      <link>https://blog.mistys-internet.website/post/2026/10/29/if-you-love-a-website-back-it-up/</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50336518</guid>
+      <dc:creator>ingve</dc:creator>
+      <pubDate>Mon, 02 Nov 2026 13:25:35 +0000</pubDate>
+      <category>Web</category>
+      <description>&lt;p&gt;The author describes discovering that the long-running Teapuppies fansite had disappeared and its domain was serving online-gambling advertisements. The site had been online since 2004 and largely unchanged since 2005, making its loss an example of how fragile old web pages can be.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;作者发现，一个长期存在的 Teapuppies 粉丝网站已经消失，原域名如今被用于投放在线赌博广告。该网站自 2004 年上线、2005 年后基本未变，这次消失体现了旧网页保存状况的脆弱性。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 636 · 💬 147 · Web&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50336518&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/03/top_stories_11032026#story-50336518&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>MacBook Pro with PROLED XDR Display and Touch</title>
@@ -376,6 +388,18 @@
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50208960&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/10/28/top_stories_10282026#story-50208960&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Ubuntu still has not released patch for Linux 0day RCE in almost 3 weeks</title>
+      <link>https://freenode.net/article/ubuntu-lts-kernels-still-unfixed-for-critical-cve-2026-98432</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50341462</guid>
+      <dc:creator>majorchord</dc:creator>
+      <pubDate>Mon, 02 Nov 2026 18:39:38 +0000</pubDate>
+      <category>Security</category>
+      <description>&lt;p&gt;Ubuntu has not released patched kernels for CVE-2026-98432, a vulnerability rated CVSS 9.8. Ubuntu 22.04, 24.04, and 26.04 LTS therefore lack an official kernel package that fixes the issue. Internet-facing and multi-tenant systems relying on those kernels remain particularly exposed until updates become available.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Ubuntu 尚未为 CVSS 评分 9.8 的 CVE-2026-98432 发布修复内核。Ubuntu 22.04、24.04 和 26.04 LTS 因此仍没有能够修复该问题的官方内核包。在更新发布前，依赖这些内核的面向互联网和多租户系统尤其处于暴露状态。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 580 · 💬 176 · Security&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50341462&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/03/top_stories_11032026#story-50341462&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Lenovo's 'encrypted' fingerprint USB is just an unencrypted SD card in a case</title>
       <link>https://www.reddit.com/r/technology/comments/1xl2pr3/lenovos_encrypted_fingerprint_usb_drive_is_just/</link>
       <guid isPermaLink="true">https://news.ycombinator.com/item?id=50326099</guid>
@@ -385,20 +409,8 @@
       <category>Hardware</category>
       <description>&lt;p&gt;The title alleges that Lenovo’s fingerprint-protected USB device is not an encrypted drive, but an unencrypted SD card placed inside a casing. It identifies a potential mismatch between the product’s security description and its underlying storage design.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;标题指称，联想这款受指纹保护的 USB 设备并非加密硬盘，而只是装在外壳中的未加密 SD 卡。这表明产品的安全描述可能与其底层存储设计不一致。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 572 · 💬 176 · Security · Hardware&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 575 · 💬 177 · Security · Hardware&lt;/small&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50326099&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/03/top_stories_11032026#story-50326099&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>If you love a website, back it up</title>
-      <link>https://blog.mistys-internet.website/post/2026/10/29/if-you-love-a-website-back-it-up/</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50336518</guid>
-      <dc:creator>ingve</dc:creator>
-      <pubDate>Mon, 02 Nov 2026 13:25:35 +0000</pubDate>
-      <category>Web</category>
-      <description>&lt;p&gt;The author describes discovering that the long-running Teapuppies fansite had disappeared and its domain was serving online-gambling advertisements. The site had been online since 2004 and largely unchanged since 2005, making its loss an example of how fragile old web pages can be.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;作者发现，一个长期存在的 Teapuppies 粉丝网站已经消失，原域名如今被用于投放在线赌博广告。该网站自 2004 年上线、2005 年后基本未变，这次消失体现了旧网页保存状况的脆弱性。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 551 · 💬 124 · Web&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50336518&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/03/top_stories_11032026#story-50336518&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Claude Code regularly sends each background agent’s transcript to its model</title>
@@ -440,6 +452,18 @@
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50257419&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/10/28/top_stories_10282026#story-50257419&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>OccupySaaS</title>
+      <link>https://occupysaas.com/</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50331402</guid>
+      <dc:creator>misswaterfairy</dc:creator>
+      <pubDate>Mon, 02 Nov 2026 00:17:27 +0000</pubDate>
+      <category>Open Source</category>
+      <description>&lt;p&gt;OccupySaaS is an Apache-2.0 open-source effort to build self-hosted, drop-in replacements for major SaaS products without per-seat fees. Its first projects are ZeroAuthy, positioned as an Auth0 replacement, and SalesCompel, positioned as a Salesforce replacement.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;OccupySaaS 是一个采用 Apache-2.0 许可的开源项目，旨在构建可自托管、无需按席位收费的大型 SaaS 替代品。它的首批项目包括定位为 Auth0 替代品的 ZeroAuthy，以及定位为 Salesforce 替代品的 SalesCompel。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 517 · 💬 314 · Open Source&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50331402&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/03/top_stories_11032026#story-50331402&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>The Grid, a factory-scale robot in Massachusetts that builds PCBs on demand</title>
       <link>https://www.circuithub.com/post/unveiling-the-grid</link>
       <guid isPermaLink="true">https://news.ycombinator.com/item?id=50243060</guid>
@@ -466,18 +490,6 @@
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50274409&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/10/28/top_stories_10282026#story-50274409&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Ubuntu still has not released patch for Linux 0day RCE in almost 3 weeks</title>
-      <link>https://freenode.net/article/ubuntu-lts-kernels-still-unfixed-for-critical-cve-2026-98432</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50341462</guid>
-      <dc:creator>majorchord</dc:creator>
-      <pubDate>Mon, 02 Nov 2026 18:39:38 +0000</pubDate>
-      <category>Security</category>
-      <description>&lt;p&gt;Ubuntu has not released patched kernels for CVE-2026-98432, a vulnerability rated CVSS 9.8. Ubuntu 22.04, 24.04, and 26.04 LTS therefore lack an official kernel package that fixes the issue. Internet-facing and multi-tenant systems relying on those kernels remain particularly exposed until updates become available.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Ubuntu 尚未为 CVSS 评分 9.8 的 CVE-2026-98432 发布修复内核。Ubuntu 22.04、24.04 和 26.04 LTS 因此仍没有能够修复该问题的官方内核包。在更新发布前，依赖这些内核的面向互联网和多租户系统尤其处于暴露状态。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 514 · 💬 147 · Security&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50341462&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/03/top_stories_11032026#story-50341462&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>Anthropic trained Claude on illegally obtained Stanford professors' books</title>
       <link>https://stanforddaily.com/2026/10/27/professors-books-pirated-to-train-claude/</link>
       <guid isPermaLink="true">https://news.ycombinator.com/item?id=50260814</guid>
@@ -489,18 +501,6 @@
 &lt;p&gt;&lt;em&gt;据报道，Anthropic 使用了从斯坦福教授处非法获取的书籍来训练 Claude，这引发伦理担忧并可能带来法律风险。&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;▲ 513 · 💬 272 · AI · Legal&lt;/small&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50260814&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/10/28/top_stories_10282026#story-50260814&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>OccupySaaS</title>
-      <link>https://occupysaas.com/</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50331402</guid>
-      <dc:creator>misswaterfairy</dc:creator>
-      <pubDate>Mon, 02 Nov 2026 00:17:27 +0000</pubDate>
-      <category>Open Source</category>
-      <description>&lt;p&gt;OccupySaaS is an Apache-2.0 open-source effort to build self-hosted, drop-in replacements for major SaaS products without per-seat fees. Its first projects are ZeroAuthy, positioned as an Auth0 replacement, and SalesCompel, positioned as a Salesforce replacement.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;OccupySaaS 是一个采用 Apache-2.0 许可的开源项目，旨在构建可自托管、无需按席位收费的大型 SaaS 替代品。它的首批项目包括定位为 Auth0 替代品的 ZeroAuthy，以及定位为 Salesforce 替代品的 SalesCompel。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 507 · 💬 312 · Open Source&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50331402&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/03/top_stories_11032026#story-50331402&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Emacs Turns 50</title>
@@ -619,6 +619,18 @@
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50326118&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/02/top_stories_11022026#story-50326118&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>US boy names that became girl names and vice versa</title>
+      <link>https://namedaisy.com/blog/boy-names-that-became-girl-names</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50339397</guid>
+      <dc:creator>xoobdev</dc:creator>
+      <pubDate>Mon, 02 Nov 2026 16:34:36 +0000</pubDate>
+      <category>Culture</category>
+      <description>&lt;p&gt;names that shifted from being commonly associated with boys to girls, or from girls to boys.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;文章考察了一些在美国社会中从男孩常用名转为女孩名，或从女孩名转为男孩名的名字。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 463 · 💬 441 · Culture&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50339397&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/03/top_stories_11032026#story-50339397&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Leak Exposes 41,000 Homeland Security Workers–Including Undercover ICE Agents</title>
       <link>https://www.wired.com/story/massive-leak-exposes-41000-homeland-security-workers-including-undercover-ice-agents/</link>
       <guid isPermaLink="true">https://news.ycombinator.com/item?id=50280864</guid>
@@ -630,20 +642,6 @@
 &lt;p&gt;&lt;em&gt;一次数据泄露曝光了美国国土安全部及其七个下属机构超过4.1万名员工和承包商的信息。记录包括电子邮件地址、电话号码、办公地点、内部系统信息，以及有关卧底和监控项目的敏感内容。数据最后更新于2026年8月19日，由 Distributed Denial of Secrets 和研究员兼记者 maia arson crimew 预览。两者称数据来自一个自称“和平部”的组织。&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;▲ 461 · 💬 304 · Privacy · Security&lt;/small&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50280864&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/10/31/top_stories_10312026#story-50280864&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>The Mythical Man-Month in the Age of AI</title>
-      <link>https://j11g.com/the-mythical-man-month-in-the-age-of-ai</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50255298</guid>
-      <dc:creator>ilreb</dc:creator>
-      <pubDate>Tue, 27 Oct 2026 06:25:37 +0000</pubDate>
-      <category>Programming</category>
-      <category>Culture</category>
-      <category>AI</category>
-      <description>&lt;p&gt;The discussion applies Brooks’ classic Man-Month ideas to AI-enabled work, arguing that AI tools can boost productivity but don’t eliminate coordination, architecture, or integration costs. Planning must account for coupling, learning curves, and human-in-the-loop decisions rather than assuming AI shortens all timelines.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;将《人月神话》理念应用于 AI 助力的工作，认为 AI 能提升生产力但无法消除协作、架构与集成成本。 项目估算应考虑耦合、学习曲线以及人机协作的决策，而非假设 AI 能缩短所有周期。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 460 · 💬 332 · Programming · Culture · AI&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50255298&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/10/28/top_stories_10282026#story-50255298&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
