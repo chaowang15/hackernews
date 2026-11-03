@@ -12,10 +12,13 @@ on:
           - morning
           - full
   schedule:
-    # Twice daily, roughly morning and evening in America/Los_Angeles.
-    # GitHub cron is UTC and does not adjust for daylight saving time.
-    - cron: "0 15 * * *"
-    - cron: "0 3 * * *"
+    # 8am and 6pm America/Los_Angeles. GitHub cron is UTC without DST, so each slot has a PDT and a
+    # PST trigger; the "Decide edition" step skips the one that is early or already published.
+    # Minute 5 avoids the top-of-hour queue, where scheduled runs are often delayed for hours.
+    - cron: "5 15 * * *"  # 08:05 PDT / 07:05 PST
+    - cron: "5 16 * * *"  # 09:05 PDT / 08:05 PST
+    - cron: "5 1 * * *"   # 18:05 PDT / 17:05 PST
+    - cron: "5 2 * * *"   # 19:05 PDT / 18:05 PST
 
 
 permissions:
@@ -42,17 +45,45 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
+      - name: Decide edition
+        id: plan
+        env:
+          EVENT: ${{ github.event_name }}
+          INPUT_EDITION: ${{ inputs.edition }}
+        run: |
+          python3 - <<'PY' >> "$GITHUB_OUTPUT"
+          import glob, json, os
+          from datetime import datetime
+          from zoneinfo import ZoneInfo
+          now = datetime.now(ZoneInfo("America/Los_Angeles"))
+          if os.environ["EVENT"] == "workflow_dispatch":
+              edition = os.environ["INPUT_EDITION"]
+          elif 8 <= now.hour < 18:
+              edition = "morning"
+          elif now.hour >= 18:
+              edition = "full"
+          else:
+              edition = ""  # before 8am: the early trigger of the DST pair (or a run delayed past midnight)
+          done = set()  # slots already published today, judged by the run's local hour
+          for f in glob.glob(now.strftime("hackernews/%Y/%m/%d/top_stories_*.json")):
+              meta = json.load(open(f)).get("meta", {})
+              hour = int((meta.get("run_time_local") or "0:").split(":")[0] or 0)
+              if hour >= 18 and meta.get("edition") == "full":
+                  done.add("full")
+              elif hour >= 8:
+                  done.add("morning")
+          if os.environ["EVENT"] != "workflow_dispatch" and edition in done | ({"morning"} if "full" in done else set()):
+              edition = ""  # this slot is already published today
+          print(f"edition={edition}")
+          print(f"[plan] {now:%Y-%m-%d %H:%M %Z} published={sorted(done)} -> {edition or 'skip'}", file=__import__('sys').stderr)
+          PY
+
       - name: Run scraper (top stories, incremental)
+        if: steps.plan.outputs.edition != ''
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          EDITION: ${{ steps.plan.outputs.edition }}
         run: |
-          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
-            EDITION="${{ inputs.edition }}"
-          elif [ "${{ github.event.schedule }}" = "0 15 * * *" ]; then
-            EDITION="morning"
-          else
-            EDITION="full"
-          fi
           echo "Publishing edition: $EDITION"
           python news_scraper/main.py top "$EDITION"
 
