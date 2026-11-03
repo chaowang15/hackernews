@@ -3,16 +3,16 @@
 Static Daily, Weekly, and Monthly Hacker News digests published at
 <https://chaowang15.github.io/hackernews/>.
 
-## Migration state
+## Workflows
 
-This repository was split from `chaowang15/chaowang15.github.io`. During the
-staging phase:
+All four run automatically; manual runs are optional.
 
-- scraper workflows are manual-only;
-- the Pages workflow builds without publishing unless `publish=true` is chosen;
-- the existing site remains the production source.
-
-Enable schedules and automatic Pages deployment only during the final cutover.
+| Workflow | Schedule | What it does |
+|----------|----------|--------------|
+| HN Top Stories (Incremental) | 8:05 and 18:05 America/Los_Angeles (four UTC triggers; a gate step picks the edition or skips) | Fetch top stories; `morning` = Morning 50, `full` = All 100 |
+| HN Weekly Digest | Monday 09:00 UTC | Top 100 of the previous ISO week |
+| HN Monthly Digest | 1st of the month 10:00 UTC | Top 200 of the previous month |
+| Build and Deploy Pages | on every push that touches the site | Jekyll build and GitHub Pages deploy (manual run builds only unless `publish` is checked) |
 
 ## Local paths
 
