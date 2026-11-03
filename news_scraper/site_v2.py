@@ -226,16 +226,34 @@ def headline(days, first_seen, d):
     return max(new or days[d]["items"], key=lambda x: x["hn"].get("score", 0))
 
 
-def recent(days, n, k=100):
+# Home / top-page windows in days before the latest day, so Today, 7 days and 30 days never overlap.
+WINDOWS = {7: (1, 7), 30: (8, 30)}
+
+
+def recent(days, first_seen, n, k=100):
+    """Top-k stories first seen 1-7 (n=7) or 8-30 (n=30) days before the latest day, as (date, item).
+
+    Stories on today's page are excluded; each story keeps its highest score across appearances.
+    """
     last = max(days)
+    lo, hi = WINDOWS[n]
+    start, end = last - timedelta(days=hi), last - timedelta(days=lo)
+    today_ids = {x["hn"]["id"] for x in days[last]["items"]}
     best = {}
     for d in days:
-        if d > last - timedelta(days=n):
-            for x in days[d]["items"]:
-                i = x["hn"]["id"]
-                if i not in best or x["hn"].get("score", 0) > best[i][1]["hn"].get("score", 0):
-                    best[i] = (d, x)
+        for x in days[d]["items"]:
+            i = x["hn"]["id"]
+            if i in today_ids or not start <= first_seen[i] <= end:
+                continue
+            if i not in best or x["hn"].get("score", 0) > best[i][1]["hn"].get("score", 0):
+                best[i] = (first_seen[i], x)
     return sorted(best.values(), key=lambda v: -v[1]["hn"].get("score", 0))[:k]
+
+
+def window_range(days, n):
+    last = max(days)
+    lo, hi = WINDOWS[n]
+    return last - timedelta(days=hi), last - timedelta(days=lo)
 
 
 # ------------------------------------------------------------------ page chrome
@@ -438,10 +456,10 @@ def home(days, weeks, months, first_seen):
     intro = f"""<section class="hero"><div class="eyebrow"><span class="live"></span>{updated(d['meta'].get('run_time_local') or d['meta'].get('scrape_time_display'))}</div>
 <h1>The best of Hacker News, <em>distilled daily.</em></h1><p class="lede">{B('AI-curated tech news, bilingual summaries and topic tags, updated twice a day.', '每天两次，AI 精选、双语摘要、自动分类的技术新闻。')}</p>{stats}</section>"""
     blocks = (top_block("today", [(last, x) for x in items], B("Today's top story", "今日头条"), O.url(day_path(last)), True)
-              + top_block("7d", recent(days, 7), B("Top of the last 7 days", "近 7 天最热"), O.url("top/7d"), False)
-              + top_block("30d", recent(days, 30), B("Top of the last 30 days", "近 30 天最热"), O.url("top/30d"), False))
+              + top_block("7d", recent(days, first_seen, 7), B("Top of the previous 7 days", "过去 7 天最热"), O.url("top/7d"), False)
+              + top_block("30d", recent(days, first_seen, 30), B("Top of 8–30 days ago", "8–30 天前最热"), O.url("top/30d"), False))
     switch = (f"<div class='seg modes'><button class='on' data-mode='today'>{B('Today', '今天')}</button>"
-              f"<button data-mode='7d'>{B('7 days', '7 天')}</button><button data-mode='30d'>{B('30 days', '30 天')}</button></div>")
+              f"<button data-mode='7d'>{B('Past 7 days', '过去 7 天')}</button><button data-mode='30d'>{B('8–30 days ago', '8–30 天前')}</button></div>")
     body = f"""<main class="wrap home">{intro}
 <div class="sech top"><h2>{B('Top stories', '热门新闻')} <span class='hsub'>{B(d_en(last), d_zh(last))}</span></h2>{switch}</div>{blocks}
 {archive(days, weeks, months, first_seen)}</main>"""
@@ -607,12 +625,12 @@ def build(preview_dir=None):
     rows = "".join(month_row(k) for k in reversed(ml) if months[k]["items"])
     list_page("monthly/", "Monthly Digests — Hacker News Daily", B("Monthly", "月榜"), B("Monthly digests", "每月月榜"),
               B(f"{len(ml)} months", f"共 {len(ml)} 个月"), rows, "month")
-    for n in (7, 30):
-        pairs = recent(days, n)
-        a = ds[-1] - timedelta(days=n - 1)
-        sub = B(f"{a:%b} {a.day} – {ds[-1]:%b} {ds[-1].day} · ranked by score, each story once",
-                f"{a.month}月{a.day}日 – {ds[-1].month}月{ds[-1].day}日 · 按分数排序，同一新闻只出现一次")
-        reader(f"top/{n}d", f"Last {n} days — Hacker News Daily", B("Trending", "热门"), B(f"Last {n} days", f"近 {n} 天"), sub,
+    for n, en, zh in ((7, "Previous 7 days", "过去 7 天"), (30, "8–30 days ago", "8–30 天前")):
+        pairs = recent(days, first_seen, n)
+        a, b = window_range(days, n)
+        sub = B(f"{a:%b} {a.day} – {b:%b} {b.day} · stories by the day they first appeared, ranked by score",
+                f"{a.month}月{a.day}日 – {b.month}月{b.day}日 · 按新闻首次出现的日期归入，按分数排序")
+        reader(f"top/{n}d", f"{en} — Hacker News Daily", B("Trending", "热门"), B(en, zh), sub,
                [x for _, x in pairs], None, None, "today", dates=[d for d, _ in pairs])
 
 
