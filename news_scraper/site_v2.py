@@ -29,7 +29,23 @@ TAG_COLORS = {
     "Legal": "#64748b", "Design": "#f472b6", "DevOps": "#14b8a6", "Data": "#6366f1",
     "Health": "#4ade80", "Energy": "#eab308", "Gaming": "#a855f7", "Education": "#60a5fa",
     "Finance": "#84cc16", "Startups": "#fb7185", "Entertainment": "#c084fc", "Career": "#2dd4bf", "Space": "#818cf8",
+    "Code": "#f43f5e",
 }
+# Stories linking to a code host get the derived "Code" tag (URL rule, no LLM).
+CODE_HOSTS = {"github.com", "gist.github.com", "gitlab.com", "huggingface.co", "codeberg.org", "sr.ht", "git.sr.ht",
+              "bitbucket.org", "gitee.com"}
+
+
+def is_code(x):
+    return domain(x.get("url")) in CODE_HOSTS
+
+
+def repo_name(url):
+    """owner/repo for code-host URLs, else the domain."""
+    m = re.match(r"https?://(?:www\.)?[^/]+/([^/?#]+)/([^/?#]+)", url or "")
+    if not (m and is_code({"url": url})):
+        return domain(url)
+    return f"gist · {m.group(1)}" if domain(url) == "gist.github.com" else f"{m.group(1)}/{m.group(2)}"
 
 
 class Out:
@@ -206,6 +222,8 @@ def load():
             if "hn" not in x:
                 x["hn"] = {"id": zlib.crc32((x.get("url") or x.get("title_en", "")).encode()), "score": 0, "descendants": 0, "comments_url": x.get("url")}
             x.setdefault("tags", [])
+            if is_code(x) and "Code" not in x["tags"]:
+                x["tags"] = x["tags"] + ["Code"]
             x.setdefault("title_zh", x.get("title_en", ""))
             x.setdefault("summary_en", "")
             x.setdefault("summary_zh", "")
@@ -243,6 +261,8 @@ def load():
         for v in coll.values():
             for x in v["items"]:
                 x.setdefault("tags", [])
+                if is_code(x) and "Code" not in x["tags"]:
+                    x["tags"] = x["tags"] + ["Code"]
                 x.setdefault("hn", {"id": zlib.crc32((x.get("url") or "").encode()), "score": 0, "descendants": 0})
     return days, weeks, months, first_seen
 
@@ -257,7 +277,7 @@ def headline(days, first_seen, d):
 WINDOWS = {7: (1, 7), 30: (1, 30)}
 
 
-def recent(days, first_seen, n, k=100):
+def recent(days, first_seen, n, k=100):  # k=None: no limit
     """Top-k stories from the n days before the latest day, ranked like the weekly/monthly digests.
 
     Each story counts once with its highest HN score in the window; its date is the day it first appeared.
@@ -273,7 +293,8 @@ def recent(days, first_seen, n, k=100):
             i = x["hn"]["id"]
             if i not in best or x["hn"].get("score", 0) > best[i][1]["hn"].get("score", 0):
                 best[i] = (first_seen[i], x)
-    return sorted(best.values(), key=lambda v: -v[1]["hn"].get("score", 0))[:k]
+    ranked = sorted(best.values(), key=lambda v: -v[1]["hn"].get("score", 0))
+    return ranked if k is None else ranked[:k]
 
 
 def window_range(days, n):
@@ -287,6 +308,7 @@ def chrome(body, nav_on):
     u = O.url
     links = [(TODAY_PATH, B("Today", "今日"), "today", ""), ("weekly/", B("Weekly", "周榜"), "week", ""),
              ("monthly/", B("Monthly", "月榜"), "month", ""), ("#archive", B("Archive", "往期"), "archive", ""),
+             ("code/", B("Code", "开源"), "code", ""),
              ("trends/", B("Trends", "趋势"), "trends", I["chart"]),
              ("favorites/", B("Favorites", "收藏") + "<b class='favn' hidden></b>", "fav", I["star"])]
     nav = "".join(f"<a class='{'on' if k == nav_on else ''}' href='{u('') + h if h.startswith('#') else u(h)}'>{ic}{t}</a>"
@@ -504,8 +526,15 @@ def home(days, weeks, months, first_seen):
               + top_block("30d", recent(days, first_seen, 30), B("Top of the past 30 days", "过去 30 天最热"), O.url("top/30d"), False))
     switch = (f"<div class='seg modes'><button class='on' data-mode='today'>{B('Today', '今天')}</button>"
               f"<button data-mode='7d'>{B('Past 7 days', '过去 7 天')}</button><button data-mode='30d'>{B('Past 30 days', '过去 30 天')}</button></div>")
+    code = [(d, x) for d, x in recent(days, first_seen, 7, k=None) if is_code(x)][:12]
+    code_rows = "".join(f"""<a class="row crow" href="{e(x.get('url'))}" target="_blank" rel="noopener"><div class="n">{i + 1:02d}</div><div>
+<div class="repo"><div class='src'><img class='fbi' src='https://www.google.com/s2/favicons?domain={e(domain(x.get('url')))}&amp;sz=32' alt='' loading='lazy'><span>{e(repo_name(x.get('url')))}</span></div></div><h4>{bil(x.get('title_en'), x.get('title_zh'))}</h4>
+<p>{bil(first_sentence(x.get('summary_en')), first_sentence(x.get('summary_zh'), True))}</p><span class='rd'>{d_short(d)} · ▲ {x['hn'].get('score', 0)}</span></div></a>""" for i, (d, x) in enumerate(code))
+    code_sec = (f"""<section class="codesec"><div class="sech"><h2>{B('Open source this week', '本周开源项目')} <span class='hsub'>{B('GitHub · GitLab · Hugging Face … from the past 7 days', '过去 7 天 GitHub、GitLab、Hugging Face 等链接')}</span></h2>
+<a class="allink" href="{O.url('code/')}">{B('All code stories · 30 days →', '查看全部 · 30 天 →')}</a></div><div class="rows">{code_rows}</div></section>""" if code else "")
     body = f"""<main class="wrap home">{intro}
 <div class="sech top"><h2>{B('Top stories', '热门新闻')} <span class='hsub'>{B(d_en(last), d_zh(last))}</span></h2>{switch}</div>{blocks}
+{code_sec}
 {archive(days, weeks, months, first_seen)}</main>"""
     write("", "Hacker News Daily", body, "home")
 
@@ -670,6 +699,12 @@ def build(preview_dir=None):
     rows = "".join(month_row(k) for k in reversed(ml) if months[k]["items"])
     list_page("monthly/", "Monthly Digests — Hacker News Daily", B("Monthly", "月榜"), B("Monthly digests", "每月月榜"),
               B(f"{len(ml)} months", f"共 {len(ml)} 个月"), rows, "month")
+    code = [(d, x) for d, x in recent(days, first_seen, 30, k=None) if is_code(x)]
+    a, b = window_range(days, 30)
+    reader("code/", "Open source — Hacker News Daily", B("Code", "开源"), B("Open source on Hacker News", "HN 上的开源项目"),
+           B(f"{a:%b} {a.day} – {b:%b} {b.day} · links to GitHub, GitLab, Hugging Face, Codeberg … · ranked by highest HN score",
+             f"{a.month}月{a.day}日 – {b.month}月{b.day}日 · 链接到 GitHub、GitLab、Hugging Face、Codeberg 等 · 按最高 HN 分数排序"),
+           [x for _, x in code], None, None, "code", dates=[d for d, _ in code])
     for n, en, zh in ((7, "Past 7 days", "过去 7 天"), (30, "Past 30 days", "过去 30 天")):
         pairs = recent(days, first_seen, n)
         a, b = window_range(days, n)

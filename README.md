@@ -48,6 +48,9 @@ to `logs/openai_token_usage_log.md`.
   a text layout. "Real image" is decided from the URL only (no download, no LLM): expired signed URLs,
   GitHub repo cards, avatars, logo/favicon/icon file names or directories, SVGs, and images shared by
   3+ stories are treated as missing.
+- Stories linking to GitHub (incl. gists), GitLab, Hugging Face, Codeberg, sourcehut, Bitbucket or Gitee get a
+  derived `Code` tag (URL rule, no LLM). The home page has an "Open source this week" section (top 12 of the
+  past 7 days) and the `Code` nav item opens `code/` (past 30 days).
 - The "Today" nav item opens the latest day page (the logo opens the home page); reader pages
   default to the titles-only view; weekly / monthly index cards list each digest's top five titles.
 - Search data is sharded by month under `hackernews/search/`; Favorites use the existing

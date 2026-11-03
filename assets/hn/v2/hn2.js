@@ -11,7 +11,7 @@
     'Business': '#0ea5e9', 'Web': '#06b6d4', 'Culture': '#d946ef', 'Show HN': '#ff6600',
     'Legal': '#64748b', 'Design': '#f472b6', 'DevOps': '#14b8a6', 'Data': '#6366f1',
     'Health': '#4ade80', 'Energy': '#eab308', 'Gaming': '#a855f7', 'Education': '#60a5fa',
-    'Finance': '#84cc16', 'Startups': '#fb7185', 'Entertainment': '#c084fc', 'Career': '#2dd4bf', 'Space': '#818cf8'
+    'Finance': '#84cc16', 'Startups': '#fb7185', 'Entertainment': '#c084fc', 'Career': '#2dd4bf', 'Space': '#818cf8', 'Code': '#f43f5e'
   };
 
   function url(p) {
