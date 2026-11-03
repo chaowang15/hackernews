@@ -285,7 +285,7 @@ def window_range(days, n):
 # ------------------------------------------------------------------ page chrome
 def chrome(body, nav_on):
     u = O.url
-    links = [("", B("Today", "今日"), "today", ""), ("weekly/", B("Weekly", "周榜"), "week", ""),
+    links = [(TODAY_PATH, B("Today", "今日"), "today", ""), ("weekly/", B("Weekly", "周榜"), "week", ""),
              ("monthly/", B("Monthly", "月榜"), "month", ""), ("#archive", B("Archive", "往期"), "archive", ""),
              ("trends/", B("Trends", "趋势"), "trends", I["chart"]),
              ("favorites/", B("Favorites", "收藏") + "<b class='favn' hidden></b>", "fav", I["star"])]
@@ -296,7 +296,7 @@ def chrome(body, nav_on):
 <a class="iconbtn msearch" href="{u('search/')}" title="Search">{I['search']}</a>
 <button class="iconbtn" onclick="setScheme()" title="Light / dark">{I['sun']}</button>
 <div class="seg lang"><button data-set='lang:zh'>中</button><button data-set='lang:en'>EN</button></div></div></header>"""
-    tabs = [("", I["home"], B("Today", "今日"), ("today",)), ("#archive", I["cal"], B("Archive", "往期"), ("archive", "day", "week", "month")),
+    tabs = [(TODAY_PATH, I["home"], B("Today", "今日"), ("today",)), ("#archive", I["cal"], B("Archive", "往期"), ("archive", "day", "week", "month")),
             ("trends/", I["chart"], B("Trends", "趋势"), ("trends",)), ("favorites/", I["star"], B("Saved", "收藏"), ("fav",))]
     tab = "<nav class='tabbar'>" + "".join(
         f"<a class='{'on' if nav_on in k else ''}' href='{u('') + h if h.startswith('#') else u(h)}'>{ic}<span>{t}</span></a>" for h, ic, t, k in tabs) + "</nav>"
@@ -306,6 +306,7 @@ def chrome(body, nav_on):
 
 
 LAYOUT_HEAD = None
+TODAY_PATH = ""  # latest day's page; the "Today" nav item opens it, the logo opens the home page
 
 
 def write(p, title, body, nav_on, extra_js="", bare=False):
@@ -327,12 +328,11 @@ def story(it, i, top, day=None):
     hn = it.get("hn", {})
     url = it.get("url") or hn.get("comments_url")
     tags = "".join(tag(t) for t in it.get("tags", []))
-    best = "<span class='bestb'>Best</span>" if it.get("_best") else ""
     sday = f"<a class='sday' href='{O.url(day_path(day))}'>{d_short(day)}</a>" if day else ""
     return f"""<article class="story{' top' if i < top else ''}" id="story-{hn.get('id')}" data-id="{hn.get('id')}" data-tags="{e('|'.join(it.get('tags', [])))}" data-score="{hn.get('score', 0)}" data-comments="{hn.get('descendants', 0)}" data-hn="{e(hn.get('comments_url'))}" data-time="{hn.get('time', 0)}">
 <a class="thumb" href="{e(url)}" target="_blank" rel="noopener">{picture(it, 'th')}</a><button class="fav" aria-label="favorite">☆</button>
 <div class="sbody"><div class="rk">{i + 1:02d}</div>
-<h3 class="st"><a href="{e(url)}" target="_blank" rel="noopener">{bil(it.get('title_en'), it.get('title_zh'))}</a>{best}<span class="dom">{e(domain(url))}</span></h3>
+<h3 class="st"><a href="{e(url)}" target="_blank" rel="noopener">{bil(it.get('title_en'), it.get('title_zh'))}</a><span class="dom">{e(domain(url))}</span></h3>
 <p class="sum one">{bil(first_sentence(it.get('summary_en')), first_sentence(it.get('summary_zh'), True))}</p>
 <p class="sum full">{bil(it.get('summary_en'), it.get('summary_zh'))}</p>
 <div class="sfoot"><span class="tags">{tags}</span>{sday}{meta(it)}</div></div></article>"""
@@ -358,6 +358,11 @@ def reader(p, title_txt, kind, title_html, sub_html, items, prev_, next_, nav_on
 </div></div>{toolbar(chips)}
 <main class="wrap stories">{''.join(story(it, i, 10, dates[i] if dates else None) for i, it in enumerate(items))}</main>"""
     write(p, title_txt, body, nav_on)
+
+
+def top5(items):
+    """First five titles of a digest, shown on the weekly / monthly index cards."""
+    return "<ol class='dtop'>" + "".join(f"<li>{bil(x.get('title_en'), x.get('title_zh'))}</li>" for x in items[:5]) + "</ol>"
 
 
 def list_page(p, title_txt, kind, title_html, sub_html, rows, nav_on):
@@ -495,7 +500,7 @@ def home(days, weeks, months, first_seen):
     body = f"""<main class="wrap home">{intro}
 <div class="sech top"><h2>{B('Top stories', '热门新闻')} <span class='hsub'>{B(d_en(last), d_zh(last))}</span></h2>{switch}</div>{blocks}
 {archive(days, weeks, months, first_seen)}</main>"""
-    write("", "Hacker News Daily", body, "today")
+    write("", "Hacker News Daily", body, "home")
 
 
 # ------------------------------------------------------------------ trends
@@ -597,11 +602,12 @@ def search_index(days):
 
 # ------------------------------------------------------------------ build
 def build(preview_dir=None):
-    global O, LAYOUT_HEAD
+    global O, LAYOUT_HEAD, TODAY_PATH
     O = Out(preview_dir)
     days, weeks, months, first_seen = load()
     if not days:
         return
+    TODAY_PATH = day_path(max(days))
     if preview_dir:
         lay = open(os.path.join(ROOT_DIR, "_layouts", "hn2.html"), encoding="utf-8").read()
         LAYOUT_HEAD = (lay.replace("/hackernews/", "/").replace("{{ site.time | date: '%s' }}", "preview")
@@ -625,7 +631,7 @@ def build(preview_dir=None):
                  else e(dm.get("edition_label") or ("Daily Best" if dd["best_n"] else "")))
         sub = f"{parts} · {updated(dm.get('run_time_local') or dm.get('scrape_time_display'))}"
         args = (B("Daily", "每日"), B(d_en(d), d_zh(d)), sub, dd["items"], p, n, "day", extra)
-        reader(day_path(d), f"Hacker News Daily — {d}", *args)
+        reader(day_path(d), f"Hacker News Daily — {d}", *(args[:-2] + ("today" if d == ds[-1] else "day", extra)))
         if "best" in dd["files"]:
             target = O.url(day_path(d))
             write(f"{d:%Y/%m/%d}/best_stories_{d:%m%d%Y}", f"Hacker News Daily — {d}",
@@ -640,7 +646,7 @@ def build(preview_dir=None):
                O.url("weekly/" + wl[i - 1]) if i else None, O.url("weekly/" + wl[i + 1]) if i + 1 < len(wl) else None, "week")
     rows = "".join(f"<a class='panel drow' href='{O.url('weekly/' + k)}'><b>{B(f'Week {int(k[-2:])}', f'第 {int(k[-2:])} 周')}</b>"
                    f"<span>{B(weeks[k]['meta']['date_start'] + ' – ' + weeks[k]['meta']['date_end'], weeks[k]['meta']['date_start'] + ' – ' + weeks[k]['meta']['date_end'])}</span>"
-                   f"<em>{bil(weeks[k]['items'][0].get('title_en'), weeks[k]['items'][0].get('title_zh'))}</em></a>" for k in reversed(wl) if weeks[k]["items"])
+                   f"{top5(weeks[k]['items'])}</a>" for k in reversed(wl) if weeks[k]["items"])
     list_page("weekly/", "Weekly Digests — Hacker News Daily", B("Weekly", "周榜"), B("Weekly digests", "每周周榜"),
               B(f"{len(wl)} weeks · Top 100 per week", f"共 {len(wl)} 周 · 每周 Top 100"), rows, "week")
     ml = sorted(months)
@@ -653,7 +659,7 @@ def build(preview_dir=None):
     def month_row(k):
         f0, mi = date.fromisoformat(k + "-01"), months[k]["items"]
         return (f"<a class='panel drow' href='{O.url('monthly/' + k)}'><b>{B(f'{f0:%B %Y}', f'{f0.year}年{f0.month}月')}</b>"
-                f"<span>Top {len(mi)}</span><em>{bil(mi[0].get('title_en'), mi[0].get('title_zh'))}</em></a>")
+                f"<span>Top {len(mi)}</span>{top5(mi)}</a>")
     rows = "".join(month_row(k) for k in reversed(ml) if months[k]["items"])
     list_page("monthly/", "Monthly Digests — Hacker News Daily", B("Monthly", "月榜"), B("Monthly digests", "每月月榜"),
               B(f"{len(ml)} months", f"共 {len(ml)} 个月"), rows, "month")
