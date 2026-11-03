@@ -1,6 +1,17 @@
 name: Build and Deploy Pages
 
 on:
+  push:
+    branches:
+      - main
+    paths:
+      - "hackernews/**"
+      - "assets/hn/**"
+      - "_layouts/hn.html"
+      - "_config.yml"
+      - "Gemfile"
+      - "Gemfile.lock"
+      - ".github/workflows/pages.yml"
   workflow_dispatch:
     inputs:
       publish:
@@ -47,13 +58,13 @@ jobs:
           path: _pages
           retention-days: 7
       - name: Upload Pages artifact
-        if: ${{ inputs.publish }}
+        if: ${{ github.event_name == 'push' || inputs.publish }}
         uses: actions/upload-pages-artifact@v3
         with:
           path: _pages
 
   deploy:
-    if: ${{ inputs.publish }}
+    if: ${{ github.event_name == 'push' || inputs.publish }}
     needs: build
     runs-on: ubuntu-latest
     environment:
