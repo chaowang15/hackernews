@@ -11,8 +11,11 @@ on:
         options:
           - morning
           - full
-  # Schedules stay disabled until the production cutover to avoid duplicate
-  # scrapes and API usage while the original repository remains active.
+  schedule:
+    # Twice daily, roughly morning and evening in America/Los_Angeles.
+    # GitHub cron is UTC and does not adjust for daylight saving time.
+    - cron: "0 15 * * *"
+    - cron: "0 3 * * *"
 
 
 permissions:

@@ -6,7 +6,8 @@ on:
         description: "ISO week to generate (e.g. 2026-W08). Leave empty for last full week."
         required: false
         default: ""
-  # Schedule disabled during migration; workflow_dispatch remains available.
+  schedule:
+    - cron: "0 9 * * 1" # Every Monday after the prior week is complete.
 permissions:
   contents: write
 jobs:
