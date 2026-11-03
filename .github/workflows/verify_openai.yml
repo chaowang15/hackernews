@@ -24,6 +24,6 @@ jobs:
         run: >-
           python -c 'import os; from openai import OpenAI;
           assert os.environ.get("OPENAI_API_KEY"), "OPENAI_API_KEY is missing";
-          response = OpenAI().responses.create(model="gpt-5.6-luna", input="Reply with exactly OK.", max_output_tokens=8);
+          response = OpenAI().responses.create(model="gpt-5.6-luna", input="Reply with exactly OK.", max_output_tokens=16);
           assert response.output_text.strip(), "Model returned no text";
           print("OpenAI secret and gpt-5.6-luna request verified successfully.")'
