@@ -299,3 +299,10 @@ button.readall{border:0;cursor:pointer;width:100%;font:inherit;font-weight:700;m
 .lead.noimg h2{font-size:clamp(26px,3.2vw,38px)}
 .lead.noimg p{font-size:16px}
 @media (max-width:860px){.lead.noimg .ltxt{padding:22px}.lead.noimg::after{font-size:80px;right:14px}}
+
+/* home cards 02-05: same top strip for every card; picture (if any) after the summary */
+.card>.band{padding:12px 16px;border-bottom:3px solid var(--c);
+ background:linear-gradient(135deg,color-mix(in srgb,var(--c) 22%,transparent),color-mix(in srgb,var(--acc2) 10%,transparent))}
+.card .ctxt .cimg{border-radius:10px;aspect-ratio:16/9;width:100%;object-fit:cover;margin-top:2px}
+.card .ctxt p{display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden}
+.card.noimg .ctxt p{-webkit-line-clamp:7}

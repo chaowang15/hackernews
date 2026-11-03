@@ -467,8 +467,8 @@ def top_block(mode, pairs, label, all_href, on):
         has, attrs = shell(x, "card")
         summary = (bil(first_sentence(x.get('summary_en')), first_sentence(x.get('summary_zh'), True)) if has
                    else bil(x.get('summary_en'), x.get('summary_zh')))
-        cards += f"""<a {attrs} href="{url(x)}" target="_blank" rel="noopener">{picture(x, 'cimg') if has else source_band(x)}<div class="ctxt"><div class="n">{i + 2:02d}<small>{when(d)}</small></div>
-<h3>{bil(x.get('title_en'), x.get('title_zh'))}</h3><p>{summary}</p>
+        cards += f"""<a {attrs} href="{url(x)}" target="_blank" rel="noopener">{source_band(x)}<div class="ctxt"><div class="n">{i + 2:02d}<small>{when(d)}</small></div>
+<h3>{bil(x.get('title_en'), x.get('title_zh'))}</h3><p>{summary}</p>{picture(x, 'cimg') if has else ''}
 <div class="sfoot"><span class="tags">{''.join(tag(t) for t in x['tags'][:2])}</span>{meta(x, link=False)}</div></div></a>"""
     rows = "".join(f"""<a class="row" href="{url(x)}" target="_blank" rel="noopener"><div class="n">{i + 6:02d}</div><div><h4>{bil(x.get('title_en'), x.get('title_zh'))}</h4>
 <p>{bil(first_sentence(x.get('summary_en')), first_sentence(x.get('summary_zh'), True))}</p>{f"<span class='rd'>{d_short(d)}</span>" if mode != 'today' else ''}</div></a>""" for i, (d, x) in enumerate(more))

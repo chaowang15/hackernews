@@ -97,12 +97,13 @@
         var box = (cls === 'limg' || cls === 'cimg') && i.closest('.lead,.card');
         if (box) {  /* home: switch to the text layout, as for stories without an image */
           box.classList.add('noimg');
+          if (cls === 'cimg') { i.remove(); return; }
           var d = i.dataset.d || '';
           var band = document.createElement('div');
           band.className = 'band';
           band.innerHTML = '<img class="fbi" src="https://www.google.com/s2/favicons?domain=' + encodeURIComponent(d) + '&sz=64" alt=""><span>' + esc(d) + '</span>';
-          if (cls === 'limg') { box.querySelector('.ltxt').prepend(band); i.remove(); }
-          else i.replaceWith(band);
+          if (cls === 'limg') box.querySelector('.ltxt').prepend(band);
+          i.remove();
           return;
         }
         var w = document.createElement('div');
