@@ -12,6 +12,7 @@ import html
 import json
 import os
 import re
+import urllib.parse
 import zlib
 from collections import Counter, defaultdict
 from datetime import date, timedelta
@@ -128,10 +129,29 @@ def fallback(url, tags, cls):
             f"<span class='fbd'>{e(d)}</span></div>")
 
 
+GENERIC_HOSTS = ("opengraph.githubassets.com", "gravatar.com", "avatars.githubusercontent.com", "pbs.twimg.com/profile_images")
+GENERIC_WORD = re.compile(r"logo|favicon|icon|avatar|blank|og-default|default-og|share-thumbnail", re.I)
+GENERIC_DIR = re.compile(r"/(?:logos?|icons?|favicons?|avatars?|branding)/", re.I)
+SHARED_IMAGES = set()  # image URLs used by 3+ different stories: site-wide defaults, filled by load()
+
+
 def image_of(x):
-    """Usable image URL; short-lived signed URLs (e.g. GitHub repo previews) have expired by publish time."""
+    """Article image URL, or "" when the image is missing, expired or only a site-wide logo/default.
+
+    Rules are URL-only (no download, no LLM): expired signed URLs; GitHub repo cards and avatars;
+    short file names containing logo/favicon/icon/avatar; logo/icon directories; any SVG; and images
+    shared by three or more different stories.
+    """
     u = x.get("image_url") or ""
-    return "" if "X-Amz-Signature=" in u or "X-Amz-Credential=" in u else u
+    if not u or "X-Amz-Signature=" in u or "X-Amz-Credential=" in u or u in SHARED_IMAGES:
+        return ""
+    for cand in [u] + re.findall(r"url=([^&]+)", u):  # Next.js /_next/image?url=... wraps the real file
+        path = re.sub(r"[?#].*$", "", urllib.parse.unquote(cand))
+        name = path.rstrip("/").rsplit("/", 1)[-1]
+        if (any(h in path for h in GENERIC_HOSTS) or path.lower().endswith(".svg") or "/static/og-image" in path
+                or GENERIC_DIR.search(path) or (len(name) <= 48 and GENERIC_WORD.search(name))):
+            return ""
+    return u
 
 
 def picture(x, cls):
@@ -212,6 +232,13 @@ def load():
         m = json.load(open(f, encoding="utf-8"))
         m["items"] = sorted(m["items"], key=lambda i: -(i.get("hn", {}).get("score") or 0))
         months[m["meta"]["month"]] = m
+    use = defaultdict(set)
+    for d in days:
+        for x in days[d]["items"]:
+            if x.get("image_url"):
+                use[x["image_url"]].add(x["hn"]["id"])
+    SHARED_IMAGES.clear()
+    SHARED_IMAGES.update(u for u, ids in use.items() if len(ids) >= 3)
     for coll in (weeks, months):
         for v in coll.values():
             for x in v["items"]:
@@ -412,33 +439,39 @@ def archive(days, weeks, months, first_seen):
             f"<div class='mchips'>{''.join(chips)}</div></div>{''.join(panels)}</section>")
 
 
-def feature_order(pairs, featured=5, pool=15):
-    """Split the top `pool` into the picture slots and the list, as (rank, date, item) triples.
-
-    The picture slots take the highest-ranked stories that have an image (falling back to
-    image-less ones only if fewer than `featured` have images); both parts keep rank order.
-    """
-    ranked = [(i + 1, d, x) for i, (d, x) in enumerate(pairs[:pool])]
-    top = [t for t in ranked if image_of(t[2])][:featured]
-    top += [t for t in ranked if t not in top][:featured - len(top)]
-    top.sort(key=lambda t: t[0])
-    return top, [t for t in ranked if t not in top]
+def source_band(x):
+    """Coloured strip with the site's favicon and domain, used where a story has no real image."""
+    d = domain(x.get("url"))
+    return (f"<div class='band'><img class='fbi' src='https://www.google.com/s2/favicons?domain={e(d)}&amp;sz=64' alt='' loading='lazy'>"
+            f"<span>{e(d)}</span></div>")
 
 
 def top_block(mode, pairs, label, all_href, on):
+    """Lead + four cards + list (ranks 1, 2-5, 6-15). Stories without a real image use text layouts."""
     url = lambda x: e(x.get("url") or x["hn"].get("comments_url"))
     when = (lambda d: "") if mode == "today" else (lambda d: f" · {d_short(d)}")
-    top, more = feature_order(pairs)
-    (r0, d0, lead), sub4 = top[0], top[1:]
-    leadh = f"""<a class="lead panel" href="{url(lead)}" target="_blank" rel="noopener">{picture(lead, 'limg')}<div class="ltxt">
-<div class="eyebrow">#{r0:02d} · {label}{when(d0)}</div><h2>{bil(lead.get('title_en'), lead.get('title_zh'))}</h2>
+    (d0, lead), sub4, more = pairs[0], pairs[1:5], pairs[5:15]
+
+    def shell(x, cls):
+        has = bool(image_of(x))
+        c = tcolor((x.get("tags") or [""])[0])
+        return has, f"class='{cls} panel{'' if has else ' noimg'}' style='--c:{c}'"
+
+    has, attrs = shell(lead, "lead")
+    leadh = f"""<a {attrs} href="{url(lead)}" target="_blank" rel="noopener">{picture(lead, 'limg') if has else ''}<div class="ltxt">{'' if has else source_band(lead)}
+<div class="eyebrow">#01 · {label}{when(d0)}</div><h2>{bil(lead.get('title_en'), lead.get('title_zh'))}</h2>
 <div class="alt">{bil(lead.get('title_zh'), lead.get('title_en'))}</div><p>{bil(lead.get('summary_en'), lead.get('summary_zh'))}</p>
 <div class="sfoot"><span class="tags">{''.join(tag(t) for t in lead['tags'])}</span>{meta(lead, link=False)}</div></div></a>"""
-    cards = "".join(f"""<a class="card panel" href="{url(x)}" target="_blank" rel="noopener">{picture(x, 'cimg')}<div class="ctxt"><div class="n">{rk:02d}<small>{when(d)}</small></div>
-<h3>{bil(x.get('title_en'), x.get('title_zh'))}</h3><p>{bil(first_sentence(x.get('summary_en')), first_sentence(x.get('summary_zh'), True))}</p>
-<div class="sfoot"><span class="tags">{''.join(tag(t) for t in x['tags'][:2])}</span>{meta(x, link=False)}</div></div></a>""" for rk, d, x in sub4)
-    rows = "".join(f"""<a class="row" href="{url(x)}" target="_blank" rel="noopener"><div class="n">{rk:02d}</div><div><h4>{bil(x.get('title_en'), x.get('title_zh'))}</h4>
-<p>{bil(first_sentence(x.get('summary_en')), first_sentence(x.get('summary_zh'), True))}</p>{f"<span class='rd'>{d_short(d)}</span>" if mode != 'today' else ''}</div></a>""" for rk, d, x in more)
+    cards = ""
+    for i, (d, x) in enumerate(sub4):
+        has, attrs = shell(x, "card")
+        summary = (bil(first_sentence(x.get('summary_en')), first_sentence(x.get('summary_zh'), True)) if has
+                   else bil(x.get('summary_en'), x.get('summary_zh')))
+        cards += f"""<a {attrs} href="{url(x)}" target="_blank" rel="noopener">{picture(x, 'cimg') if has else source_band(x)}<div class="ctxt"><div class="n">{i + 2:02d}<small>{when(d)}</small></div>
+<h3>{bil(x.get('title_en'), x.get('title_zh'))}</h3><p>{summary}</p>
+<div class="sfoot"><span class="tags">{''.join(tag(t) for t in x['tags'][:2])}</span>{meta(x, link=False)}</div></div></a>"""
+    rows = "".join(f"""<a class="row" href="{url(x)}" target="_blank" rel="noopener"><div class="n">{i + 6:02d}</div><div><h4>{bil(x.get('title_en'), x.get('title_zh'))}</h4>
+<p>{bil(first_sentence(x.get('summary_en')), first_sentence(x.get('summary_zh'), True))}</p>{f"<span class='rd'>{d_short(d)}</span>" if mode != 'today' else ''}</div></a>""" for i, (d, x) in enumerate(more))
     return f"""<div class="tblock{' on' if on else ''}" data-mode="{mode}">{leadh}<div class="cards">{cards}</div>
 <div class="rows">{rows}</div><a class="readall" href="{all_href}">{B('Read all stories →', '阅读全部 →')}</a></div>"""
 

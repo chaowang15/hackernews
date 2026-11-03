@@ -94,6 +94,17 @@
     $$('img.th,img.cimg,img.limg', root).forEach(function (i) {
       function swap() {
         var cls = i.className.split(' ')[0];
+        var box = (cls === 'limg' || cls === 'cimg') && i.closest('.lead,.card');
+        if (box) {  /* home: switch to the text layout, as for stories without an image */
+          box.classList.add('noimg');
+          var d = i.dataset.d || '';
+          var band = document.createElement('div');
+          band.className = 'band';
+          band.innerHTML = '<img class="fbi" src="https://www.google.com/s2/favicons?domain=' + encodeURIComponent(d) + '&sz=64" alt=""><span>' + esc(d) + '</span>';
+          if (cls === 'limg') { box.querySelector('.ltxt').prepend(band); i.remove(); }
+          else i.replaceWith(band);
+          return;
+        }
         var w = document.createElement('div');
         w.innerHTML = fallbackHTML(cls, i.dataset.d || '', i.dataset.tag || '');
         if (i.parentNode) i.parentNode.replaceChild(w.firstChild, i);

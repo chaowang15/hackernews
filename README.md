@@ -43,6 +43,11 @@ to `logs/openai_token_usage_log.md`.
   past-7 and past-30-day pages (excluding today, ranked by highest HN score like the digests), Trends, Favorites and Search from the JSON backups. It runs at the end of
   `update_hackernews_index()`, so every scheduled job refreshes all pages; URLs are unchanged.
 - Layout `_layouts/hn2.html`; assets `assets/hn/v2/` (`base.css`, `theme.css`, `hn2.js`).
+- Home "Top stories": Today / past 7 days / past 30 days (both windows exclude today and rank by
+  highest HN score like the digests). Slots keep strict rank order; a story without a real image uses
+  a text layout. "Real image" is decided from the URL only (no download, no LLM): expired signed URLs,
+  GitHub repo cards, avatars, logo/favicon/icon file names or directories, SVGs, and images shared by
+  3+ stories are treated as missing.
 - Search data is sharded by month under `hackernews/search/`; Favorites use the existing
   `hnFavoritesV1` localStorage key.
 - Local preview without Jekyll: `python news_scraper/site_v2.py --preview /tmp/hnprev`, then
