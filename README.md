@@ -22,6 +22,21 @@ Enable schedules and automatic Pages deployment only during the final cutover.
 - Jekyll layout: `_layouts/hn.html`
 - Pipeline configuration: `news_config.yml`
 
+## What each run fetches
+
+| Step | Network | LLM |
+|------|---------|-----|
+| Story list + per-story score/comments (HN API) | every run | — |
+| Source page (article context, preview image) | new stories only | — |
+| Chinese title, summaries | new stories only | yes |
+| Tags | stories without tags only | yes |
+| Reused stories (same day, previous day, other mode, history) | score/comments refreshed | none |
+| Weekly / monthly digests | — | none (rank existing JSON) |
+| Site pages, rolling 7/30 days, trends, search shards | — | none (`site_v2.py` reads JSON) |
+
+Each day's JSON `meta` records `reused_*` and `new_llm_enriched` counts; token usage is appended
+to `logs/openai_token_usage_log.md`.
+
 ## Site front end (Neon Glass)
 
 - `news_scraper/site_v2.py` renders the home page, Daily / Weekly / Monthly readers, rolling
