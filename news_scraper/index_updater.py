@@ -480,12 +480,26 @@ def update_hackernews_index(
     lines.append("---")
     lines.append("layout: hn")
     lines.append('title: "Hacker News Daily"')
+    lines.append('body_class: "hn-home-page"')
     lines.append("---")
     lines.append("")
 
+    lines.append("<div class='hn-home'>")
+    lines.append("<header class='hn-home-header'>")
+    lines.append("<div class='hn-home-header-top'>")
+    lines.append("<div class='hn-home-brand'>")
+    lines.append("<span class='hn-home-kicker'>INDEPENDENT TECH BRIEFING</span>")
     lines.append("<h1 class='hn-h1'>Hacker News Daily</h1>")
+    lines.append("<p class='hn-home-tagline'>AI-curated technology news, updated twice daily.</p>")
+    lines.append("</div>")
+    lines.append("<nav class='hn-home-actions' aria-label='Site shortcuts'>")
+    lines.append("<a class='hn-home-action hn-favorites-nav' href='/hackernews/favorites/' aria-label='Open favorite stories'><span aria-hidden='true'>\u2605</span><span class='hn-favorites-label'>Favorites</span><span class='hn-favorites-count'>0</span></a>")
+    lines.append("<a class='hn-home-action' href='/hackernews/trends/'>Trends</a>")
+    lines.append("<a class='hn-home-action' href='/hackernews/feed.xml' title='RSS Feed'>RSS</a>")
+    lines.append("</nav>")
+    lines.append("</div>")
     source_link = "<a href='https://news.ycombinator.com/' target='_blank' rel='noopener noreferrer'>news.ycombinator.com</a>"
-    lines.append(f"<p class='hn-subtitle'>Source: {source_link}</p>")
+    lines.append(f"<p class='hn-subtitle hn-home-source'><span class='hn-live-dot' aria-hidden='true'></span>Source: {source_link}</p>")
 
     # Statistics bar
     if stats["total_days"] > 0:
@@ -496,9 +510,6 @@ def update_hackernews_index(
         stat_parts.append(f"<span class='hn-stat-item'><span class='hn-stat-num'>{stats['top_files']}</span> trending</span>")
         date_range = f"{stats['date_start']} — {stats['date_end']}" if stats['date_start'] != stats['date_end'] else stats['date_start']
         stat_parts.append(f"<span class='hn-stat-item'>{date_range}</span>")
-        stat_parts.append("<a class='hn-stat-link' href='/hackernews/trends/'>Trends</a>")
-        stat_parts.append("<a class='hn-stat-link hn-rss-link' href='/hackernews/feed.xml' title='RSS Feed'>RSS</a>")
-
         sep = ' <span class="hn-stat-sep">·</span> '
         lines.append(f"<div class='hn-stats'>{sep.join(stat_parts)}</div>")
 
@@ -515,6 +526,9 @@ def update_hackernews_index(
     lines.append("</div>")
     lines.append("<div id='hn-search-results' class='hn-search-results' style='display:none;'></div>")
     lines.append("<button id='hn-search-more' class='hn-search-more' style='display:none;'>Show more results</button>")
+    lines.append("</header>")
+    lines.append("<div class='hn-home-layout'>")
+    lines.append("<main class='hn-home-main' id='main-content'>")
 
     # Today's Top Stories section
     top_stories = _get_top_stories(base_dir, all_days, n=10)
@@ -617,8 +631,13 @@ def update_hackernews_index(
     if not week_groups:
         lines.append("<p class='hn-hint'>No files found yet. Run the workflow once to generate the first file.</p>")
     else:
-        lines.append("<div class='hn-index-section hn-archive-section'>")
+        lines.append("<div class='hn-index-section hn-archive-section' id='news-archive'>")
+        lines.append("<div class='hn-archive-heading-row'>")
         lines.append("<h3 class='hn-section-title'>News Archive <span class='hn-section-zh'>\u65b0\u95fb\u5f52\u6863</span></h3>")
+        lines.append("<button class='hn-archive-open' id='hn-archive-open' type='button' aria-controls='hn-archive-sidebar' aria-expanded='false'>Browse by date</button>")
+        lines.append("</div>")
+
+        seen_archive_months = set()
 
         for wg in week_groups:
             iso_week = wg["iso_week"]
@@ -650,7 +669,7 @@ def update_hackernews_index(
             if week_start_dt and week_end_dt:
                 for monthly in monthly_entries:
                     if week_start_dt <= monthly["end_date"] <= week_end_dt:
-                        lines.append("<div class='hn-month-divider'>")
+                        lines.append(f"<div class='hn-month-divider' id='month-{monthly['month']}'>")
                         lines.append(f"<div class='hn-month-heading'>Best of the Month <span>{monthly['label']}</span></div>")
                         lines.append(f"<a class='hn-story-link hn-monthly-digest-link' href='{monthly['url']}'>")
                         lines.append("<span class='hn-row-type hn-type-monthly'>Monthly Top</span>")
@@ -673,7 +692,16 @@ def update_hackernews_index(
             open_attr = " open" if is_current_week else ""
             this_week_badge = " <span class='hn-this-week-badge'>This Week</span>" if is_current_week else ""
 
-            lines.append(f"<details class='hn-week-group'{open_attr}>")
+            try:
+                archive_month = max(datetime.strptime(d.content_date, "%Y-%m-%d") for d in week_days).strftime("%Y-%m")
+            except (TypeError, ValueError):
+                archive_month = ""
+            month_anchor = ""
+            if archive_month and archive_month not in seen_archive_months:
+                seen_archive_months.add(archive_month)
+                month_anchor = f" data-month-start='{archive_month}'"
+
+            lines.append(f"<details class='hn-week-group' id='week-{iso_week}' data-archive-month='{archive_month}'{month_anchor}{open_attr}>")
             lines.append(f"<summary class='hn-week-summary'>")
             lines.append(f"<span class='hn-week-title'>{week_label}{this_week_badge}</span>")
             lines.append(f"<span class='hn-week-meta'>{summary_meta}</span>")
@@ -731,6 +759,53 @@ def update_hackernews_index(
 
     lines.append("")
     lines.append(f"<p class='hn-hint'>Browse by date: <code>/{base_dir}/YYYY/MM/DD/</code></p>")
+    lines.append("</main>")
+
+    if week_groups:
+        sidebar_years: Dict[str, Dict[str, List[dict]]] = {}
+        for wg in week_groups:
+            try:
+                nav_dt = max(datetime.strptime(d.content_date, "%Y-%m-%d") for d in wg["days"])
+            except (TypeError, ValueError):
+                continue
+            nav_year = nav_dt.strftime("%Y")
+            nav_month = nav_dt.strftime("%Y-%m")
+            sidebar_years.setdefault(nav_year, {}).setdefault(nav_month, []).append(wg)
+
+        current_month_str = now.strftime("%Y-%m")
+        lines.append("<aside class='hn-archive-sidebar' id='hn-archive-sidebar' aria-label='Archive navigation'>")
+        lines.append("<div class='hn-archive-sidebar-head'>")
+        lines.append("<div><span class='hn-sidebar-kicker'>EXPLORE</span><h2>Browse Archive</h2></div>")
+        lines.append("<button class='hn-archive-close' id='hn-archive-close' type='button' aria-label='Close archive navigation'>\u00d7</button>")
+        lines.append("</div>")
+        lines.append("<a class='hn-sidebar-current' href='#news-archive'>\u2191 Current edition</a>")
+        lines.append("<nav class='hn-archive-nav'>")
+        for nav_year, nav_months in sidebar_years.items():
+            lines.append(f"<div class='hn-archive-year'>{nav_year}</div>")
+            for nav_month, nav_weeks in nav_months.items():
+                month_dt = datetime.strptime(nav_month, "%Y-%m")
+                month_label = month_dt.strftime("%B")
+                month_open = " open" if nav_month == current_month_str else ""
+                lines.append(f"<details class='hn-archive-month' data-nav-month='{nav_month}'{month_open}>")
+                lines.append(f"<summary><span>{month_label}</span><span>{len(nav_weeks)} wk</span></summary>")
+                lines.append("<div class='hn-archive-weeks'>")
+                for nav_week in nav_weeks:
+                    nav_iso = nav_week["iso_week"]
+                    nav_dates = sorted(d.content_date for d in nav_week["days"])
+                    try:
+                        nav_start = datetime.strptime(nav_dates[0], "%Y-%m-%d").strftime("%m-%d")
+                        nav_end = datetime.strptime(nav_dates[-1], "%Y-%m-%d").strftime("%m-%d")
+                        nav_range = nav_start if nav_start == nav_end else f"{nav_start} \u2013 {nav_end}"
+                    except (TypeError, ValueError):
+                        nav_range = ""
+                    lines.append(f"<a href='#week-{nav_iso}' data-archive-target='week-{nav_iso}'><span>W{nav_week['week_num']}</span><small>{nav_range}</small></a>")
+                lines.append("</div>")
+                lines.append("</details>")
+        lines.append("</nav>")
+        lines.append("</aside>")
+
+    lines.append("</div>")
+    lines.append("</div>")
     lines.append("")
 
     md = "\n".join(lines)

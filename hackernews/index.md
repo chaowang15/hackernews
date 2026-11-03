@@ -1,10 +1,25 @@
 ---
 layout: hn
 title: "Hacker News Daily"
+body_class: "hn-home-page"
 ---
+
+<div class='hn-home'>
+<header class='hn-home-header'>
+<div class='hn-home-header-top'>
+<div class='hn-home-brand'>
+<span class='hn-home-kicker'>INDEPENDENT TECH BRIEFING</span>
 <h1 class='hn-h1'>Hacker News Daily</h1>
-<p class='hn-subtitle'>Source: <a href='https://news.ycombinator.com/' target='_blank' rel='noopener noreferrer'>news.ycombinator.com</a></p>
-<div class='hn-stats'><span class='hn-stat-item'><span class='hn-stat-num'>256</span> days</span> <span class="hn-stat-sep">·</span> <span class='hn-stat-item'><span class='hn-stat-num'>37571</span> stories</span> <span class="hn-stat-sep">·</span> <span class='hn-stat-item'><span class='hn-stat-num'>248</span> daily best</span> <span class="hn-stat-sep">·</span> <span class='hn-stat-item'><span class='hn-stat-num'>254</span> trending</span> <span class="hn-stat-sep">·</span> <span class='hn-stat-item'>2026-02-16 — 2026-11-02</span> <span class="hn-stat-sep">·</span> <a class='hn-stat-link' href='/hackernews/trends/'>Trends</a> <span class="hn-stat-sep">·</span> <a class='hn-stat-link hn-rss-link' href='/hackernews/feed.xml' title='RSS Feed'>RSS</a></div>
+<p class='hn-home-tagline'>AI-curated technology news, updated twice daily.</p>
+</div>
+<nav class='hn-home-actions' aria-label='Site shortcuts'>
+<a class='hn-home-action hn-favorites-nav' href='/hackernews/favorites/' aria-label='Open favorite stories'><span aria-hidden='true'>★</span><span class='hn-favorites-label'>Favorites</span><span class='hn-favorites-count'>0</span></a>
+<a class='hn-home-action' href='/hackernews/trends/'>Trends</a>
+<a class='hn-home-action' href='/hackernews/feed.xml' title='RSS Feed'>RSS</a>
+</nav>
+</div>
+<p class='hn-subtitle hn-home-source'><span class='hn-live-dot' aria-hidden='true'></span>Source: <a href='https://news.ycombinator.com/' target='_blank' rel='noopener noreferrer'>news.ycombinator.com</a></p>
+<div class='hn-stats'><span class='hn-stat-item'><span class='hn-stat-num'>256</span> days</span> <span class="hn-stat-sep">·</span> <span class='hn-stat-item'><span class='hn-stat-num'>37571</span> stories</span> <span class="hn-stat-sep">·</span> <span class='hn-stat-item'><span class='hn-stat-num'>248</span> daily best</span> <span class="hn-stat-sep">·</span> <span class='hn-stat-item'><span class='hn-stat-num'>254</span> trending</span> <span class="hn-stat-sep">·</span> <span class='hn-stat-item'>2026-02-16 — 2026-11-02</span></div>
 <div class='hn-search-box'>
 <input type='text' id='hn-search-input' class='hn-search-input' placeholder='Search all stories (title, tags, author...)' autocomplete='off'/>
 <div id='hn-search-status' class='hn-search-status'></div>
@@ -17,6 +32,9 @@ Sort:
 </div>
 <div id='hn-search-results' class='hn-search-results' style='display:none;'></div>
 <button id='hn-search-more' class='hn-search-more' style='display:none;'>Show more results</button>
+</header>
+<div class='hn-home-layout'>
+<main class='hn-home-main' id='main-content'>
 <div class='hn-index-section hn-top-stories-section'>
 <h3 class='hn-section-title'><a class='hn-section-title-link' href='/hackernews/2026/11/02/top_stories_11022026'><span>Today's Top Stories</span> <span class='hn-section-zh'>今日头条</span></a> <time class='hn-section-date' datetime='2026-11-02'>Nov 02, 2026 · 4:24 PM PST</time> <span class='hn-hot-badge'>🔥 HOT</span></h3>
 <div class='hn-top-stories-list'>
@@ -133,9 +151,12 @@ Sort:
 <button class='hn-top-stories-toggle' id='hn-top-stories-toggle'>Show more ▼</button>
 </div>
 </div>
-<div class='hn-index-section hn-archive-section'>
+<div class='hn-index-section hn-archive-section' id='news-archive'>
+<div class='hn-archive-heading-row'>
 <h3 class='hn-section-title'>News Archive <span class='hn-section-zh'>新闻归档</span></h3>
-<details class='hn-week-group' open>
+<button class='hn-archive-open' id='hn-archive-open' type='button' aria-controls='hn-archive-sidebar' aria-expanded='false'>Browse by date</button>
+</div>
+<details class='hn-week-group' id='week-2026-W45' data-archive-month='2026-11' data-month-start='2026-11' open>
 <summary class='hn-week-summary'>
 <span class='hn-week-title'>2026 Week 45 <span class='hn-this-week-badge'>This Week</span></span>
 <span class='hn-week-meta'>11-02 <span class="hn-row-sep">·</span> 100 stories <span class="hn-row-sep">·</span> 1 days</span>
@@ -154,14 +175,14 @@ Sort:
 </div>
 </div>
 </details>
-<div class='hn-month-divider'>
+<div class='hn-month-divider' id='month-2026-10'>
 <div class='hn-month-heading'>Best of the Month <span>October 2026</span></div>
 <a class='hn-story-link hn-monthly-digest-link' href='/hackernews/monthly/2026-10'>
 <span class='hn-row-type hn-type-monthly'>Monthly Top</span>
 <span class='hn-row-detail'>Top <b>200</b> <span class="hn-row-sep">·</span> from <b>2101</b> unique stories <span class="hn-row-sep">·</span> AI <b>58</b> <span class="hn-row-sep">·</span> Security <b>43</b></span>
 </a>
 </div>
-<details class='hn-week-group'>
+<details class='hn-week-group' id='week-2026-W44' data-archive-month='2026-11'>
 <summary class='hn-week-summary'>
 <span class='hn-week-title'>2026 Week 44</span>
 <span class='hn-week-meta'>10-26 — 11-01 <span class="hn-row-sep">·</span> 760 stories <span class="hn-row-sep">·</span> 7 days</span>
@@ -246,7 +267,7 @@ Sort:
 </div>
 </div>
 </details>
-<details class='hn-week-group'>
+<details class='hn-week-group' id='week-2026-W43' data-archive-month='2026-10' data-month-start='2026-10'>
 <summary class='hn-week-summary'>
 <span class='hn-week-title'>2026 Week 43</span>
 <span class='hn-week-meta'>10-19 — 10-25 <span class="hn-row-sep">·</span> 1046 stories <span class="hn-row-sep">·</span> 7 days <span class="hn-row-sep">·</span> 📊 Weekly Digest</span>
@@ -351,7 +372,7 @@ Sort:
 </div>
 </div>
 </details>
-<details class='hn-week-group'>
+<details class='hn-week-group' id='week-2026-W42' data-archive-month='2026-10'>
 <summary class='hn-week-summary'>
 <span class='hn-week-title'>2026 Week 42</span>
 <span class='hn-week-meta'>10-12 — 10-18 <span class="hn-row-sep">·</span> 1050 stories <span class="hn-row-sep">·</span> 7 days <span class="hn-row-sep">·</span> 📊 Weekly Digest</span>
@@ -456,7 +477,7 @@ Sort:
 </div>
 </div>
 </details>
-<details class='hn-week-group'>
+<details class='hn-week-group' id='week-2026-W41' data-archive-month='2026-10'>
 <summary class='hn-week-summary'>
 <span class='hn-week-title'>2026 Week 41</span>
 <span class='hn-week-meta'>10-05 — 10-11 <span class="hn-row-sep">·</span> 1050 stories <span class="hn-row-sep">·</span> 7 days <span class="hn-row-sep">·</span> 📊 Weekly Digest</span>
@@ -561,14 +582,14 @@ Sort:
 </div>
 </div>
 </details>
-<div class='hn-month-divider'>
+<div class='hn-month-divider' id='month-2026-09'>
 <div class='hn-month-heading'>Best of the Month <span>September 2026</span></div>
 <a class='hn-story-link hn-monthly-digest-link' href='/hackernews/monthly/2026-09'>
 <span class='hn-row-type hn-type-monthly'>Monthly Top</span>
 <span class='hn-row-detail'>Top <b>200</b> <span class="hn-row-sep">·</span> from <b>2051</b> unique stories <span class="hn-row-sep">·</span> AI <b>82</b> <span class="hn-row-sep">·</span> Privacy <b>44</b></span>
 </a>
 </div>
-<details class='hn-week-group'>
+<details class='hn-week-group' id='week-2026-W40' data-archive-month='2026-10'>
 <summary class='hn-week-summary'>
 <span class='hn-week-title'>2026 Week 40</span>
 <span class='hn-week-meta'>09-28 — 10-04 <span class="hn-row-sep">·</span> 1000 stories <span class="hn-row-sep">·</span> 7 days <span class="hn-row-sep">·</span> 📊 Weekly Digest</span>
@@ -669,7 +690,7 @@ Sort:
 </div>
 </div>
 </details>
-<details class='hn-week-group'>
+<details class='hn-week-group' id='week-2026-W39' data-archive-month='2026-09' data-month-start='2026-09'>
 <summary class='hn-week-summary'>
 <span class='hn-week-title'>2026 Week 39</span>
 <span class='hn-week-meta'>09-21 — 09-27 <span class="hn-row-sep">·</span> 1047 stories <span class="hn-row-sep">·</span> 7 days <span class="hn-row-sep">·</span> 📊 Weekly Digest</span>
@@ -774,7 +795,7 @@ Sort:
 </div>
 </div>
 </details>
-<details class='hn-week-group'>
+<details class='hn-week-group' id='week-2026-W38' data-archive-month='2026-09'>
 <summary class='hn-week-summary'>
 <span class='hn-week-title'>2026 Week 38</span>
 <span class='hn-week-meta'>09-14 — 09-20 <span class="hn-row-sep">·</span> 1036 stories <span class="hn-row-sep">·</span> 7 days <span class="hn-row-sep">·</span> 📊 Weekly Digest</span>
@@ -879,7 +900,7 @@ Sort:
 </div>
 </div>
 </details>
-<details class='hn-week-group'>
+<details class='hn-week-group' id='week-2026-W37' data-archive-month='2026-09'>
 <summary class='hn-week-summary'>
 <span class='hn-week-title'>2026 Week 37</span>
 <span class='hn-week-meta'>09-07 — 09-13 <span class="hn-row-sep">·</span> 1048 stories <span class="hn-row-sep">·</span> 7 days <span class="hn-row-sep">·</span> 📊 Weekly Digest</span>
@@ -984,14 +1005,14 @@ Sort:
 </div>
 </div>
 </details>
-<div class='hn-month-divider'>
+<div class='hn-month-divider' id='month-2026-08'>
 <div class='hn-month-heading'>Best of the Month <span>August 2026</span></div>
 <a class='hn-story-link hn-monthly-digest-link' href='/hackernews/monthly/2026-08'>
 <span class='hn-row-type hn-type-monthly'>Monthly Top</span>
 <span class='hn-row-detail'>Top <b>200</b> <span class="hn-row-sep">·</span> from <b>2168</b> unique stories <span class="hn-row-sep">·</span> AI <b>69</b> <span class="hn-row-sep">·</span> Privacy <b>38</b></span>
 </a>
 </div>
-<details class='hn-week-group'>
+<details class='hn-week-group' id='week-2026-W36' data-archive-month='2026-09'>
 <summary class='hn-week-summary'>
 <span class='hn-week-title'>2026 Week 36</span>
 <span class='hn-week-meta'>08-31 — 09-06 <span class="hn-row-sep">·</span> 1050 stories <span class="hn-row-sep">·</span> 7 days <span class="hn-row-sep">·</span> 📊 Weekly Digest</span>
@@ -1096,7 +1117,7 @@ Sort:
 </div>
 </div>
 </details>
-<details class='hn-week-group'>
+<details class='hn-week-group' id='week-2026-W35' data-archive-month='2026-08' data-month-start='2026-08'>
 <summary class='hn-week-summary'>
 <span class='hn-week-title'>2026 Week 35</span>
 <span class='hn-week-meta'>08-24 — 08-30 <span class="hn-row-sep">·</span> 1043 stories <span class="hn-row-sep">·</span> 7 days <span class="hn-row-sep">·</span> 📊 Weekly Digest</span>
@@ -1201,7 +1222,7 @@ Sort:
 </div>
 </div>
 </details>
-<details class='hn-week-group'>
+<details class='hn-week-group' id='week-2026-W34' data-archive-month='2026-08'>
 <summary class='hn-week-summary'>
 <span class='hn-week-title'>2026 Week 34</span>
 <span class='hn-week-meta'>08-17 — 08-23 <span class="hn-row-sep">·</span> 1050 stories <span class="hn-row-sep">·</span> 7 days <span class="hn-row-sep">·</span> 📊 Weekly Digest</span>
@@ -1306,7 +1327,7 @@ Sort:
 </div>
 </div>
 </details>
-<details class='hn-week-group'>
+<details class='hn-week-group' id='week-2026-W33' data-archive-month='2026-08'>
 <summary class='hn-week-summary'>
 <span class='hn-week-title'>2026 Week 33</span>
 <span class='hn-week-meta'>08-10 — 08-16 <span class="hn-row-sep">·</span> 1047 stories <span class="hn-row-sep">·</span> 7 days <span class="hn-row-sep">·</span> 📊 Weekly Digest</span>
@@ -1411,7 +1432,7 @@ Sort:
 </div>
 </div>
 </details>
-<details class='hn-week-group'>
+<details class='hn-week-group' id='week-2026-W32' data-archive-month='2026-08'>
 <summary class='hn-week-summary'>
 <span class='hn-week-title'>2026 Week 32</span>
 <span class='hn-week-meta'>08-03 — 08-09 <span class="hn-row-sep">·</span> 1050 stories <span class="hn-row-sep">·</span> 7 days <span class="hn-row-sep">·</span> 📊 Weekly Digest</span>
@@ -1516,14 +1537,14 @@ Sort:
 </div>
 </div>
 </details>
-<div class='hn-month-divider'>
+<div class='hn-month-divider' id='month-2026-07'>
 <div class='hn-month-heading'>Best of the Month <span>July 2026</span></div>
 <a class='hn-story-link hn-monthly-digest-link' href='/hackernews/monthly/2026-07'>
 <span class='hn-row-type hn-type-monthly'>Monthly Top</span>
 <span class='hn-row-detail'>Top <b>200</b> <span class="hn-row-sep">·</span> from <b>2067</b> unique stories <span class="hn-row-sep">·</span> AI <b>70</b> <span class="hn-row-sep">·</span> Privacy <b>32</b></span>
 </a>
 </div>
-<details class='hn-week-group'>
+<details class='hn-week-group' id='week-2026-W31' data-archive-month='2026-08'>
 <summary class='hn-week-summary'>
 <span class='hn-week-title'>2026 Week 31</span>
 <span class='hn-week-meta'>07-27 — 08-02 <span class="hn-row-sep">·</span> 1050 stories <span class="hn-row-sep">·</span> 7 days <span class="hn-row-sep">·</span> 📊 Weekly Digest</span>
@@ -1628,7 +1649,7 @@ Sort:
 </div>
 </div>
 </details>
-<details class='hn-week-group'>
+<details class='hn-week-group' id='week-2026-W30' data-archive-month='2026-07' data-month-start='2026-07'>
 <summary class='hn-week-summary'>
 <span class='hn-week-title'>2026 Week 30</span>
 <span class='hn-week-meta'>07-20 — 07-26 <span class="hn-row-sep">·</span> 1050 stories <span class="hn-row-sep">·</span> 7 days <span class="hn-row-sep">·</span> 📊 Weekly Digest</span>
@@ -1733,7 +1754,7 @@ Sort:
 </div>
 </div>
 </details>
-<details class='hn-week-group'>
+<details class='hn-week-group' id='week-2026-W29' data-archive-month='2026-07'>
 <summary class='hn-week-summary'>
 <span class='hn-week-title'>2026 Week 29</span>
 <span class='hn-week-meta'>07-13 — 07-19 <span class="hn-row-sep">·</span> 1050 stories <span class="hn-row-sep">·</span> 7 days <span class="hn-row-sep">·</span> 📊 Weekly Digest</span>
@@ -1838,7 +1859,7 @@ Sort:
 </div>
 </div>
 </details>
-<details class='hn-week-group'>
+<details class='hn-week-group' id='week-2026-W28' data-archive-month='2026-07'>
 <summary class='hn-week-summary'>
 <span class='hn-week-title'>2026 Week 28</span>
 <span class='hn-week-meta'>07-06 — 07-12 <span class="hn-row-sep">·</span> 1050 stories <span class="hn-row-sep">·</span> 7 days <span class="hn-row-sep">·</span> 📊 Weekly Digest</span>
@@ -1943,14 +1964,14 @@ Sort:
 </div>
 </div>
 </details>
-<div class='hn-month-divider'>
+<div class='hn-month-divider' id='month-2026-06'>
 <div class='hn-month-heading'>Best of the Month <span>June 2026</span></div>
 <a class='hn-story-link hn-monthly-digest-link' href='/hackernews/monthly/2026-06'>
 <span class='hn-row-type hn-type-monthly'>Monthly Top</span>
 <span class='hn-row-detail'>Top <b>200</b> <span class="hn-row-sep">·</span> from <b>1991</b> unique stories <span class="hn-row-sep">·</span> AI <b>74</b> <span class="hn-row-sep">·</span> Privacy <b>41</b></span>
 </a>
 </div>
-<details class='hn-week-group'>
+<details class='hn-week-group' id='week-2026-W27' data-archive-month='2026-07'>
 <summary class='hn-week-summary'>
 <span class='hn-week-title'>2026 Week 27</span>
 <span class='hn-week-meta'>06-29 — 07-05 <span class="hn-row-sep">·</span> 1050 stories <span class="hn-row-sep">·</span> 7 days <span class="hn-row-sep">·</span> 📊 Weekly Digest</span>
@@ -2055,7 +2076,7 @@ Sort:
 </div>
 </div>
 </details>
-<details class='hn-week-group'>
+<details class='hn-week-group' id='week-2026-W26' data-archive-month='2026-06' data-month-start='2026-06'>
 <summary class='hn-week-summary'>
 <span class='hn-week-title'>2026 Week 26</span>
 <span class='hn-week-meta'>06-22 — 06-28 <span class="hn-row-sep">·</span> 1050 stories <span class="hn-row-sep">·</span> 7 days <span class="hn-row-sep">·</span> 📊 Weekly Digest</span>
@@ -2160,7 +2181,7 @@ Sort:
 </div>
 </div>
 </details>
-<details class='hn-week-group'>
+<details class='hn-week-group' id='week-2026-W25' data-archive-month='2026-06'>
 <summary class='hn-week-summary'>
 <span class='hn-week-title'>2026 Week 25</span>
 <span class='hn-week-meta'>06-15 — 06-21 <span class="hn-row-sep">·</span> 1044 stories <span class="hn-row-sep">·</span> 7 days <span class="hn-row-sep">·</span> 📊 Weekly Digest</span>
@@ -2265,7 +2286,7 @@ Sort:
 </div>
 </div>
 </details>
-<details class='hn-week-group'>
+<details class='hn-week-group' id='week-2026-W24' data-archive-month='2026-06'>
 <summary class='hn-week-summary'>
 <span class='hn-week-title'>2026 Week 24</span>
 <span class='hn-week-meta'>06-08 — 06-14 <span class="hn-row-sep">·</span> 1050 stories <span class="hn-row-sep">·</span> 7 days <span class="hn-row-sep">·</span> 📊 Weekly Digest</span>
@@ -2370,7 +2391,7 @@ Sort:
 </div>
 </div>
 </details>
-<details class='hn-week-group'>
+<details class='hn-week-group' id='week-2026-W23' data-archive-month='2026-06'>
 <summary class='hn-week-summary'>
 <span class='hn-week-title'>2026 Week 23</span>
 <span class='hn-week-meta'>06-01 — 06-07 <span class="hn-row-sep">·</span> 1050 stories <span class="hn-row-sep">·</span> 7 days <span class="hn-row-sep">·</span> 📊 Weekly Digest</span>
@@ -2475,14 +2496,14 @@ Sort:
 </div>
 </div>
 </details>
-<div class='hn-month-divider'>
+<div class='hn-month-divider' id='month-2026-05'>
 <div class='hn-month-heading'>Best of the Month <span>May 2026</span></div>
 <a class='hn-story-link hn-monthly-digest-link' href='/hackernews/monthly/2026-05'>
 <span class='hn-row-type hn-type-monthly'>Monthly Top</span>
 <span class='hn-row-detail'>Top <b>200</b> <span class="hn-row-sep">·</span> from <b>1783</b> unique stories <span class="hn-row-sep">·</span> AI <b>62</b> <span class="hn-row-sep">·</span> Programming <b>45</b></span>
 </a>
 </div>
-<details class='hn-week-group'>
+<details class='hn-week-group' id='week-2026-W22' data-archive-month='2026-05' data-month-start='2026-05'>
 <summary class='hn-week-summary'>
 <span class='hn-week-title'>2026 Week 22</span>
 <span class='hn-week-meta'>05-25 — 05-31 <span class="hn-row-sep">·</span> 1050 stories <span class="hn-row-sep">·</span> 7 days <span class="hn-row-sep">·</span> 📊 Weekly Digest</span>
@@ -2587,7 +2608,7 @@ Sort:
 </div>
 </div>
 </details>
-<details class='hn-week-group'>
+<details class='hn-week-group' id='week-2026-W21' data-archive-month='2026-05'>
 <summary class='hn-week-summary'>
 <span class='hn-week-title'>2026 Week 21</span>
 <span class='hn-week-meta'>05-18 — 05-24 <span class="hn-row-sep">·</span> 1050 stories <span class="hn-row-sep">·</span> 7 days <span class="hn-row-sep">·</span> 📊 Weekly Digest</span>
@@ -2692,7 +2713,7 @@ Sort:
 </div>
 </div>
 </details>
-<details class='hn-week-group'>
+<details class='hn-week-group' id='week-2026-W20' data-archive-month='2026-05'>
 <summary class='hn-week-summary'>
 <span class='hn-week-title'>2026 Week 20</span>
 <span class='hn-week-meta'>05-11 — 05-17 <span class="hn-row-sep">·</span> 385 stories <span class="hn-row-sep">·</span> 3 days <span class="hn-row-sep">·</span> 📊 Weekly Digest</span>
@@ -2741,7 +2762,7 @@ Sort:
 </div>
 </div>
 </details>
-<details class='hn-week-group'>
+<details class='hn-week-group' id='week-2026-W19' data-archive-month='2026-05'>
 <summary class='hn-week-summary'>
 <span class='hn-week-title'>2026 Week 19</span>
 <span class='hn-week-meta'>05-04 — 05-10 <span class="hn-row-sep">·</span> 1000 stories <span class="hn-row-sep">·</span> 7 days <span class="hn-row-sep">·</span> 📊 Weekly Digest</span>
@@ -2842,14 +2863,14 @@ Sort:
 </div>
 </div>
 </details>
-<div class='hn-month-divider'>
+<div class='hn-month-divider' id='month-2026-04'>
 <div class='hn-month-heading'>Best of the Month <span>April 2026</span></div>
 <a class='hn-story-link hn-monthly-digest-link' href='/hackernews/monthly/2026-04'>
 <span class='hn-row-type hn-type-monthly'>Monthly Top</span>
 <span class='hn-row-detail'>Top <b>200</b> <span class="hn-row-sep">·</span> from <b>2012</b> unique stories <span class="hn-row-sep">·</span> AI <b>60</b> <span class="hn-row-sep">·</span> Security <b>36</b></span>
 </a>
 </div>
-<details class='hn-week-group'>
+<details class='hn-week-group' id='week-2026-W18' data-archive-month='2026-05'>
 <summary class='hn-week-summary'>
 <span class='hn-week-title'>2026 Week 18</span>
 <span class='hn-week-meta'>04-27 — 05-03 <span class="hn-row-sep">·</span> 1050 stories <span class="hn-row-sep">·</span> 7 days <span class="hn-row-sep">·</span> 📊 Weekly Digest</span>
@@ -2954,7 +2975,7 @@ Sort:
 </div>
 </div>
 </details>
-<details class='hn-week-group'>
+<details class='hn-week-group' id='week-2026-W17' data-archive-month='2026-04' data-month-start='2026-04'>
 <summary class='hn-week-summary'>
 <span class='hn-week-title'>2026 Week 17</span>
 <span class='hn-week-meta'>04-20 — 04-26 <span class="hn-row-sep">·</span> 1050 stories <span class="hn-row-sep">·</span> 7 days <span class="hn-row-sep">·</span> 📊 Weekly Digest</span>
@@ -3059,7 +3080,7 @@ Sort:
 </div>
 </div>
 </details>
-<details class='hn-week-group'>
+<details class='hn-week-group' id='week-2026-W16' data-archive-month='2026-04'>
 <summary class='hn-week-summary'>
 <span class='hn-week-title'>2026 Week 16</span>
 <span class='hn-week-meta'>04-13 — 04-19 <span class="hn-row-sep">·</span> 1050 stories <span class="hn-row-sep">·</span> 7 days <span class="hn-row-sep">·</span> 📊 Weekly Digest</span>
@@ -3164,7 +3185,7 @@ Sort:
 </div>
 </div>
 </details>
-<details class='hn-week-group'>
+<details class='hn-week-group' id='week-2026-W15' data-archive-month='2026-04'>
 <summary class='hn-week-summary'>
 <span class='hn-week-title'>2026 Week 15</span>
 <span class='hn-week-meta'>04-06 — 04-12 <span class="hn-row-sep">·</span> 1050 stories <span class="hn-row-sep">·</span> 7 days <span class="hn-row-sep">·</span> 📊 Weekly Digest</span>
@@ -3269,14 +3290,14 @@ Sort:
 </div>
 </div>
 </details>
-<div class='hn-month-divider'>
+<div class='hn-month-divider' id='month-2026-03'>
 <div class='hn-month-heading'>Best of the Month <span>March 2026</span></div>
 <a class='hn-story-link hn-monthly-digest-link' href='/hackernews/monthly/2026-03'>
 <span class='hn-row-type hn-type-monthly'>Monthly Top</span>
 <span class='hn-row-detail'>Top <b>200</b> <span class="hn-row-sep">·</span> from <b>2145</b> unique stories <span class="hn-row-sep">·</span> AI <b>68</b> <span class="hn-row-sep">·</span> Programming <b>36</b></span>
 </a>
 </div>
-<details class='hn-week-group'>
+<details class='hn-week-group' id='week-2026-W14' data-archive-month='2026-04'>
 <summary class='hn-week-summary'>
 <span class='hn-week-title'>2026 Week 14</span>
 <span class='hn-week-meta'>03-30 — 04-05 <span class="hn-row-sep">·</span> 1050 stories <span class="hn-row-sep">·</span> 7 days <span class="hn-row-sep">·</span> 📊 Weekly Digest</span>
@@ -3381,7 +3402,7 @@ Sort:
 </div>
 </div>
 </details>
-<details class='hn-week-group'>
+<details class='hn-week-group' id='week-2026-W13' data-archive-month='2026-03' data-month-start='2026-03'>
 <summary class='hn-week-summary'>
 <span class='hn-week-title'>2026 Week 13</span>
 <span class='hn-week-meta'>03-23 — 03-29 <span class="hn-row-sep">·</span> 1050 stories <span class="hn-row-sep">·</span> 7 days <span class="hn-row-sep">·</span> 📊 Weekly Digest</span>
@@ -3486,7 +3507,7 @@ Sort:
 </div>
 </div>
 </details>
-<details class='hn-week-group'>
+<details class='hn-week-group' id='week-2026-W12' data-archive-month='2026-03'>
 <summary class='hn-week-summary'>
 <span class='hn-week-title'>2026 Week 12</span>
 <span class='hn-week-meta'>03-16 — 03-22 <span class="hn-row-sep">·</span> 1050 stories <span class="hn-row-sep">·</span> 7 days <span class="hn-row-sep">·</span> 📊 Weekly Digest</span>
@@ -3591,7 +3612,7 @@ Sort:
 </div>
 </div>
 </details>
-<details class='hn-week-group'>
+<details class='hn-week-group' id='week-2026-W11' data-archive-month='2026-03'>
 <summary class='hn-week-summary'>
 <span class='hn-week-title'>2026 Week 11</span>
 <span class='hn-week-meta'>03-09 — 03-15 <span class="hn-row-sep">·</span> 1050 stories <span class="hn-row-sep">·</span> 7 days <span class="hn-row-sep">·</span> 📊 Weekly Digest</span>
@@ -3696,7 +3717,7 @@ Sort:
 </div>
 </div>
 </details>
-<details class='hn-week-group'>
+<details class='hn-week-group' id='week-2026-W10' data-archive-month='2026-03'>
 <summary class='hn-week-summary'>
 <span class='hn-week-title'>2026 Week 10</span>
 <span class='hn-week-meta'>03-02 — 03-08 <span class="hn-row-sep">·</span> 1050 stories <span class="hn-row-sep">·</span> 7 days <span class="hn-row-sep">·</span> 📊 Weekly Digest</span>
@@ -3801,14 +3822,14 @@ Sort:
 </div>
 </div>
 </details>
-<div class='hn-month-divider'>
+<div class='hn-month-divider' id='month-2026-02'>
 <div class='hn-month-heading'>Best of the Month <span>February 2026</span></div>
 <a class='hn-story-link hn-monthly-digest-link' href='/hackernews/monthly/2026-02'>
 <span class='hn-row-type hn-type-monthly'>Monthly Top</span>
 <span class='hn-row-detail'>Top <b>200</b> <span class="hn-row-sep">·</span> from <b>799</b> unique stories <span class="hn-row-sep">·</span> AI <b>64</b> <span class="hn-row-sep">·</span> Politics <b>35</b></span>
 </a>
 </div>
-<details class='hn-week-group'>
+<details class='hn-week-group' id='week-2026-W09' data-archive-month='2026-03'>
 <summary class='hn-week-summary'>
 <span class='hn-week-title'>2026 Week 9</span>
 <span class='hn-week-meta'>02-23 — 03-01 <span class="hn-row-sep">·</span> 1050 stories <span class="hn-row-sep">·</span> 7 days <span class="hn-row-sep">·</span> 📊 Weekly Digest</span>
@@ -3913,7 +3934,7 @@ Sort:
 </div>
 </div>
 </details>
-<details class='hn-week-group'>
+<details class='hn-week-group' id='week-2026-W08' data-archive-month='2026-02' data-month-start='2026-02'>
 <summary class='hn-week-summary'>
 <span class='hn-week-title'>2026 Week 8</span>
 <span class='hn-week-meta'>02-16 — 02-22 <span class="hn-row-sep">·</span> 765 stories <span class="hn-row-sep">·</span> 7 days <span class="hn-row-sep">·</span> 📊 Weekly Digest</span>
@@ -4013,3 +4034,104 @@ Sort:
 </div>
 
 <p class='hn-hint'>Browse by date: <code>/hackernews/YYYY/MM/DD/</code></p>
+</main>
+<aside class='hn-archive-sidebar' id='hn-archive-sidebar' aria-label='Archive navigation'>
+<div class='hn-archive-sidebar-head'>
+<div><span class='hn-sidebar-kicker'>EXPLORE</span><h2>Browse Archive</h2></div>
+<button class='hn-archive-close' id='hn-archive-close' type='button' aria-label='Close archive navigation'>×</button>
+</div>
+<a class='hn-sidebar-current' href='#news-archive'>↑ Current edition</a>
+<nav class='hn-archive-nav'>
+<div class='hn-archive-year'>2026</div>
+<details class='hn-archive-month' data-nav-month='2026-11' open>
+<summary><span>November</span><span>2 wk</span></summary>
+<div class='hn-archive-weeks'>
+<a href='#week-2026-W45' data-archive-target='week-2026-W45'><span>W45</span><small>11-02</small></a>
+<a href='#week-2026-W44' data-archive-target='week-2026-W44'><span>W44</span><small>10-26 – 11-01</small></a>
+</div>
+</details>
+<details class='hn-archive-month' data-nav-month='2026-10'>
+<summary><span>October</span><span>4 wk</span></summary>
+<div class='hn-archive-weeks'>
+<a href='#week-2026-W43' data-archive-target='week-2026-W43'><span>W43</span><small>10-19 – 10-25</small></a>
+<a href='#week-2026-W42' data-archive-target='week-2026-W42'><span>W42</span><small>10-12 – 10-18</small></a>
+<a href='#week-2026-W41' data-archive-target='week-2026-W41'><span>W41</span><small>10-05 – 10-11</small></a>
+<a href='#week-2026-W40' data-archive-target='week-2026-W40'><span>W40</span><small>09-28 – 10-04</small></a>
+</div>
+</details>
+<details class='hn-archive-month' data-nav-month='2026-09'>
+<summary><span>September</span><span>4 wk</span></summary>
+<div class='hn-archive-weeks'>
+<a href='#week-2026-W39' data-archive-target='week-2026-W39'><span>W39</span><small>09-21 – 09-27</small></a>
+<a href='#week-2026-W38' data-archive-target='week-2026-W38'><span>W38</span><small>09-14 – 09-20</small></a>
+<a href='#week-2026-W37' data-archive-target='week-2026-W37'><span>W37</span><small>09-07 – 09-13</small></a>
+<a href='#week-2026-W36' data-archive-target='week-2026-W36'><span>W36</span><small>08-31 – 09-06</small></a>
+</div>
+</details>
+<details class='hn-archive-month' data-nav-month='2026-08'>
+<summary><span>August</span><span>5 wk</span></summary>
+<div class='hn-archive-weeks'>
+<a href='#week-2026-W35' data-archive-target='week-2026-W35'><span>W35</span><small>08-24 – 08-30</small></a>
+<a href='#week-2026-W34' data-archive-target='week-2026-W34'><span>W34</span><small>08-17 – 08-23</small></a>
+<a href='#week-2026-W33' data-archive-target='week-2026-W33'><span>W33</span><small>08-10 – 08-16</small></a>
+<a href='#week-2026-W32' data-archive-target='week-2026-W32'><span>W32</span><small>08-03 – 08-09</small></a>
+<a href='#week-2026-W31' data-archive-target='week-2026-W31'><span>W31</span><small>07-27 – 08-02</small></a>
+</div>
+</details>
+<details class='hn-archive-month' data-nav-month='2026-07'>
+<summary><span>July</span><span>4 wk</span></summary>
+<div class='hn-archive-weeks'>
+<a href='#week-2026-W30' data-archive-target='week-2026-W30'><span>W30</span><small>07-20 – 07-26</small></a>
+<a href='#week-2026-W29' data-archive-target='week-2026-W29'><span>W29</span><small>07-13 – 07-19</small></a>
+<a href='#week-2026-W28' data-archive-target='week-2026-W28'><span>W28</span><small>07-06 – 07-12</small></a>
+<a href='#week-2026-W27' data-archive-target='week-2026-W27'><span>W27</span><small>06-29 – 07-05</small></a>
+</div>
+</details>
+<details class='hn-archive-month' data-nav-month='2026-06'>
+<summary><span>June</span><span>4 wk</span></summary>
+<div class='hn-archive-weeks'>
+<a href='#week-2026-W26' data-archive-target='week-2026-W26'><span>W26</span><small>06-22 – 06-28</small></a>
+<a href='#week-2026-W25' data-archive-target='week-2026-W25'><span>W25</span><small>06-15 – 06-21</small></a>
+<a href='#week-2026-W24' data-archive-target='week-2026-W24'><span>W24</span><small>06-08 – 06-14</small></a>
+<a href='#week-2026-W23' data-archive-target='week-2026-W23'><span>W23</span><small>06-01 – 06-07</small></a>
+</div>
+</details>
+<details class='hn-archive-month' data-nav-month='2026-05'>
+<summary><span>May</span><span>5 wk</span></summary>
+<div class='hn-archive-weeks'>
+<a href='#week-2026-W22' data-archive-target='week-2026-W22'><span>W22</span><small>05-25 – 05-31</small></a>
+<a href='#week-2026-W21' data-archive-target='week-2026-W21'><span>W21</span><small>05-18 – 05-24</small></a>
+<a href='#week-2026-W20' data-archive-target='week-2026-W20'><span>W20</span><small>05-11 – 05-17</small></a>
+<a href='#week-2026-W19' data-archive-target='week-2026-W19'><span>W19</span><small>05-04 – 05-10</small></a>
+<a href='#week-2026-W18' data-archive-target='week-2026-W18'><span>W18</span><small>04-27 – 05-03</small></a>
+</div>
+</details>
+<details class='hn-archive-month' data-nav-month='2026-04'>
+<summary><span>April</span><span>4 wk</span></summary>
+<div class='hn-archive-weeks'>
+<a href='#week-2026-W17' data-archive-target='week-2026-W17'><span>W17</span><small>04-20 – 04-26</small></a>
+<a href='#week-2026-W16' data-archive-target='week-2026-W16'><span>W16</span><small>04-13 – 04-19</small></a>
+<a href='#week-2026-W15' data-archive-target='week-2026-W15'><span>W15</span><small>04-06 – 04-12</small></a>
+<a href='#week-2026-W14' data-archive-target='week-2026-W14'><span>W14</span><small>03-30 – 04-05</small></a>
+</div>
+</details>
+<details class='hn-archive-month' data-nav-month='2026-03'>
+<summary><span>March</span><span>5 wk</span></summary>
+<div class='hn-archive-weeks'>
+<a href='#week-2026-W13' data-archive-target='week-2026-W13'><span>W13</span><small>03-23 – 03-29</small></a>
+<a href='#week-2026-W12' data-archive-target='week-2026-W12'><span>W12</span><small>03-16 – 03-22</small></a>
+<a href='#week-2026-W11' data-archive-target='week-2026-W11'><span>W11</span><small>03-09 – 03-15</small></a>
+<a href='#week-2026-W10' data-archive-target='week-2026-W10'><span>W10</span><small>03-02 – 03-08</small></a>
+<a href='#week-2026-W09' data-archive-target='week-2026-W09'><span>W9</span><small>02-23 – 03-01</small></a>
+</div>
+</details>
+<details class='hn-archive-month' data-nav-month='2026-02'>
+<summary><span>February</span><span>1 wk</span></summary>
+<div class='hn-archive-weeks'>
+<a href='#week-2026-W08' data-archive-target='week-2026-W08'><span>W8</span><small>02-16 – 02-22</small></a>
+</div>
+</details>
+</nav>
+</aside>
+</div>
+</div>
