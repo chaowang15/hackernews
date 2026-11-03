@@ -312,3 +312,8 @@ button.readall{border:0;cursor:pointer;width:100%;font:inherit;font-weight:700;m
 .drow .dtop li{margin:3px 0;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
 .drow .dtop li::marker{color:var(--acc);font-weight:700}
 .drow span{white-space:nowrap}
+
+/* home cards 02-05: source under the title instead of a top strip */
+.card .src{display:flex;align-items:center;gap:6px;margin-top:-2px;font:500 12.5px var(--sans);color:var(--mut)}
+.card .src .fbi{width:16px;height:16px;padding:0;border-radius:4px;background:none;box-shadow:none}
+.card .ctxt{padding-top:18px}
