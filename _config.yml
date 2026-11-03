@@ -14,3 +14,4 @@ exclude:
   - news_config.yml
   - news_scraper/
   - requirements.txt
+  - vendor/
