@@ -395,19 +395,33 @@ def archive(days, weeks, months, first_seen):
             f"<div class='mchips'>{''.join(chips)}</div></div>{''.join(panels)}</section>")
 
 
+def feature_order(pairs, featured=5, pool=15):
+    """Split the top `pool` into the picture slots and the list, as (rank, date, item) triples.
+
+    The picture slots take the highest-ranked stories that have an image (falling back to
+    image-less ones only if fewer than `featured` have images); both parts keep rank order.
+    """
+    ranked = [(i + 1, d, x) for i, (d, x) in enumerate(pairs[:pool])]
+    top = [t for t in ranked if image_of(t[2])][:featured]
+    top += [t for t in ranked if t not in top][:featured - len(top)]
+    top.sort(key=lambda t: t[0])
+    return top, [t for t in ranked if t not in top]
+
+
 def top_block(mode, pairs, label, all_href, on):
     url = lambda x: e(x.get("url") or x["hn"].get("comments_url"))
     when = (lambda d: "") if mode == "today" else (lambda d: f" · {d_short(d)}")
-    (d0, lead), sub4, more = pairs[0], pairs[1:5], pairs[5:15]
+    top, more = feature_order(pairs)
+    (r0, d0, lead), sub4 = top[0], top[1:]
     leadh = f"""<a class="lead panel" href="{url(lead)}" target="_blank" rel="noopener">{picture(lead, 'limg')}<div class="ltxt">
-<div class="eyebrow">#01 · {label}{when(d0)}</div><h2>{bil(lead.get('title_en'), lead.get('title_zh'))}</h2>
+<div class="eyebrow">#{r0:02d} · {label}{when(d0)}</div><h2>{bil(lead.get('title_en'), lead.get('title_zh'))}</h2>
 <div class="alt">{bil(lead.get('title_zh'), lead.get('title_en'))}</div><p>{bil(lead.get('summary_en'), lead.get('summary_zh'))}</p>
 <div class="sfoot"><span class="tags">{''.join(tag(t) for t in lead['tags'])}</span>{meta(lead, link=False)}</div></div></a>"""
-    cards = "".join(f"""<a class="card panel" href="{url(x)}" target="_blank" rel="noopener">{picture(x, 'cimg')}<div class="ctxt"><div class="n">{i + 2:02d}<small>{when(d)}</small></div>
+    cards = "".join(f"""<a class="card panel" href="{url(x)}" target="_blank" rel="noopener">{picture(x, 'cimg')}<div class="ctxt"><div class="n">{rk:02d}<small>{when(d)}</small></div>
 <h3>{bil(x.get('title_en'), x.get('title_zh'))}</h3><p>{bil(first_sentence(x.get('summary_en')), first_sentence(x.get('summary_zh'), True))}</p>
-<div class="sfoot"><span class="tags">{''.join(tag(t) for t in x['tags'][:2])}</span>{meta(x, link=False)}</div></div></a>""" for i, (d, x) in enumerate(sub4))
-    rows = "".join(f"""<a class="row" href="{url(x)}" target="_blank" rel="noopener"><div class="n">{i + 6:02d}</div><div><h4>{bil(x.get('title_en'), x.get('title_zh'))}</h4>
-<p>{bil(first_sentence(x.get('summary_en')), first_sentence(x.get('summary_zh'), True))}</p>{f"<span class='rd'>{d_short(d)}</span>" if mode != 'today' else ''}</div></a>""" for i, (d, x) in enumerate(more))
+<div class="sfoot"><span class="tags">{''.join(tag(t) for t in x['tags'][:2])}</span>{meta(x, link=False)}</div></div></a>""" for rk, d, x in sub4)
+    rows = "".join(f"""<a class="row" href="{url(x)}" target="_blank" rel="noopener"><div class="n">{rk:02d}</div><div><h4>{bil(x.get('title_en'), x.get('title_zh'))}</h4>
+<p>{bil(first_sentence(x.get('summary_en')), first_sentence(x.get('summary_zh'), True))}</p>{f"<span class='rd'>{d_short(d)}</span>" if mode != 'today' else ''}</div></a>""" for rk, d, x in more)
     return f"""<div class="tblock{' on' if on else ''}" data-mode="{mode}">{leadh}<div class="cards">{cards}</div>
 <div class="rows">{rows}</div><a class="readall" href="{all_href}">{B('Read all stories →', '阅读全部 →')}</a></div>"""
 
