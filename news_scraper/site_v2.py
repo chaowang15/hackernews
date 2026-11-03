@@ -308,7 +308,6 @@ def chrome(body, nav_on):
     u = O.url
     links = [(TODAY_PATH, B("Today", "今日"), "today", ""), ("weekly/", B("Weekly", "周榜"), "week", ""),
              ("monthly/", B("Monthly", "月榜"), "month", ""), ("#archive", B("Archive", "往期"), "archive", ""),
-             ("code/", B("Code", "开源"), "code", ""),
              ("trends/", B("Trends", "趋势"), "trends", I["chart"]),
              ("favorites/", B("Favorites", "收藏") + "<b class='favn' hidden></b>", "fav", I["star"])]
     nav = "".join(f"<a class='{'on' if k == nav_on else ''}' href='{u('') + h if h.startswith('#') else u(h)}'>{ic}{t}</a>"
@@ -364,8 +363,12 @@ VIEWS = "".join(f"<button data-set='view:{v}'>{t}</button>" for v, t in
                 (("title", B("Titles", "仅标题")), ("one", B("One line", "一句话")), ("full", B("Full", "完整")), ("cards", B("Cards", "卡片"))))
 
 
-def toolbar(chips):
-    return f"""<div class="toolbar"><div class="wrap tbin"><div class="seg">{VIEWS}</div>
+SCOPES = (f"<div class='seg scope'><button data-scope='all'>{B('All', '全部')}</button>"
+          f"<button data-scope='code'>{B('Code', '开源')}</button></div>")
+
+
+def toolbar(chips, scope=True):
+    return f"""<div class="toolbar"><div class="wrap tbin"><div class="seg">{VIEWS}</div>{SCOPES if scope else ''}
 <span class="fhint">{B('Click a tag to filter', '点标签筛选')}</span><div class="filters">{chips}</div></div></div>"""
 
 
@@ -531,7 +534,7 @@ def home(days, weeks, months, first_seen):
 <div class="repo"><div class='src'><img class='fbi' src='https://www.google.com/s2/favicons?domain={e(domain(x.get('url')))}&amp;sz=32' alt='' loading='lazy'><span>{e(repo_name(x.get('url')))}</span></div></div><h4>{bil(x.get('title_en'), x.get('title_zh'))}</h4>
 <p>{bil(first_sentence(x.get('summary_en')), first_sentence(x.get('summary_zh'), True))}</p><span class='rd'>{d_short(d)} · ▲ {x['hn'].get('score', 0)}</span></div></a>""" for i, (d, x) in enumerate(code))
     code_sec = (f"""<section class="codesec"><div class="sech"><h2>{B('Open source this week', '本周开源项目')} <span class='hsub'>{B('GitHub · GitLab · Hugging Face … from the past 7 days', '过去 7 天 GitHub、GitLab、Hugging Face 等链接')}</span></h2>
-<a class="allink" href="{O.url('code/')}">{B('All code stories · 30 days →', '查看全部 · 30 天 →')}</a></div><div class="rows">{code_rows}</div></section>""" if code else "")
+<a class="allink" href="{O.url('top/7d')}?only=code">{B('All open-source stories · 7 days →', '查看全部 · 过去 7 天 →')}</a></div><div class="rows">{code_rows}</div></section>""" if code else "")
     body = f"""<main class="wrap home">{intro}
 <div class="sech top"><h2>{B('Top stories', '热门新闻')} <span class='hsub'>{B(d_en(last), d_zh(last))}</span></h2>{switch}</div>{blocks}
 {code_sec}
@@ -596,7 +599,7 @@ def favorites_page():
 <h1 class="rtitle">{B('Saved stories', '我的收藏')}</h1>
 <div class="rsub">{B('Stored only in this browser — no account needed', '只保存在本浏览器，不需要账号')} · <b id="count">0</b> {B('stories', '条')}</div>
 <div class="favbar"><div class="seg"><button data-sort="added">{B('Recently saved', '最近收藏')}</button><button data-sort="score">{B('Score', '分数')}</button></div>
-<button class="ghost" id="clear">{B('Clear all', '清空')}</button></div></div></div>{toolbar('')}
+<button class="ghost" id="clear">{B('Clear all', '清空')}</button></div></div></div>{toolbar('', scope=False)}
 <div class="wrap"><p id="empty" class="empty" hidden>{B('No favorites yet. Tap ☆ on any story to save it here.', '还没有收藏。点任意新闻右上角的 ☆ 即可收藏。')}</p></div>
 <main class="wrap stories"></main>"""
     write("favorites/", "Favorites · Hacker News Daily", body, "fav", "<script>window.addEventListener('DOMContentLoaded',()=>HN2.favoritesPage())</script>")
@@ -607,7 +610,7 @@ def search_page():
 <div class="sbox">{I['search']}<input id="q" type="search" autocomplete="off" placeholder="Search titles, 中文标题, tags, domains…"></div>
 <div class="rsub"><b id="count">…</b> {B('results of', '条结果，共')} <span id="total">…</span> {B('stories', '条')}
 <span class="seg sm sortseg"><button data-sort="relevance">{B('Relevance', '相关')}</button><button data-sort="date">{B('Newest', '最新')}</button><button data-sort="score">{B('Score', '分数')}</button></span></div></div></div>
-{toolbar(''.join(tag(t, None, '#') for t in TAG_COLORS))}<main class="wrap stories"></main><div class="wrap"><button id="more" class="readall" hidden>{B('Show more', '显示更多')}</button></div>"""
+{toolbar(''.join(tag(t, None, '#') for t in TAG_COLORS), scope=False)}<main class="wrap stories"></main><div class="wrap"><button id="more" class="readall" hidden>{B('Show more', '显示更多')}</button></div>"""
     write("search/", "Search · Hacker News Daily", body, "search", "<script>window.addEventListener('DOMContentLoaded',()=>HN2.searchPage())</script>")
 
 
@@ -646,7 +649,7 @@ def build(preview_dir=None):
     TODAY_PATH = day_path(max(days))
     if preview_dir:
         lay = open(os.path.join(ROOT_DIR, "_layouts", "hn2.html"), encoding="utf-8").read()
-        LAYOUT_HEAD = (lay.replace("/hackernews/", "/").replace("{{ site.time | date: '%s' }}", "preview")
+        LAYOUT_HEAD = (lay.replace("/hackernews/", "/").replace("{{ site.time | date: '%s' }}", str(int(__import__("time").time())))
                        .replace("ext:''", "ext:'.html'"))
         os.makedirs(os.path.join(preview_dir, "assets/hn/v2"), exist_ok=True)
         for f in glob.glob(os.path.join(ROOT_DIR, "assets/hn/v2/*")):
@@ -699,12 +702,9 @@ def build(preview_dir=None):
     rows = "".join(month_row(k) for k in reversed(ml) if months[k]["items"])
     list_page("monthly/", "Monthly Digests — Hacker News Daily", B("Monthly", "月榜"), B("Monthly digests", "每月月榜"),
               B(f"{len(ml)} months", f"共 {len(ml)} 个月"), rows, "month")
-    code = [(d, x) for d, x in recent(days, first_seen, 30, k=None) if is_code(x)]
-    a, b = window_range(days, 30)
-    reader("code/", "Open source — Hacker News Daily", B("Code", "开源"), B("Open source on Hacker News", "HN 上的开源项目"),
-           B(f"{a:%b} {a.day} – {b:%b} {b.day} · links to GitHub, GitLab, Hugging Face, Codeberg … · ranked by highest HN score",
-             f"{a.month}月{a.day}日 – {b.month}月{b.day}日 · 链接到 GitHub、GitLab、Hugging Face、Codeberg 等 · 按最高 HN 分数排序"),
-           [x for _, x in code], None, None, "code", dates=[d for d, _ in code])
+    target = O.url("top/30d") + "?only=code"
+    write("code/", "Open source — Hacker News Daily",
+          f"<p class='wrap'><a href='{target}'>Past 30 days · Code →</a></p><script>location.replace('{target}')</script>", "code", bare=True)
     for n, en, zh in ((7, "Past 7 days", "过去 7 天"), (30, "Past 30 days", "过去 30 天")):
         pairs = recent(days, first_seen, n)
         a, b = window_range(days, n)

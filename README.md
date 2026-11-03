@@ -50,7 +50,8 @@ to `logs/openai_token_usage_log.md`.
   3+ stories are treated as missing.
 - Stories linking to GitHub (incl. gists), GitLab, Hugging Face, Codeberg, sourcehut, Bitbucket or Gitee get a
   derived `Code` tag (URL rule, no LLM). The home page has an "Open source this week" section (top 12 of the
-  past 7 days) and the `Code` nav item opens `code/` (past 30 days).
+  past 7 days). Every reader page (daily / weekly / monthly / past 7 or 30 days) has an All / Code switch
+  (`?only=code`, remembered for the browser session); `code/` redirects to `top/30d?only=code`.
 - The "Today" nav item opens the latest day page (the logo opens the home page); reader pages
   default to the titles-only view; weekly / monthly index cards list each digest's top five titles.
 - Search data is sharded by month under `hackernews/search/`; Favorites use the existing
