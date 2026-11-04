@@ -9,18 +9,18 @@
     "reused_cross_day": 0,
     "reused_history": 0,
     "new_llm_enriched": 0,
-    "scrape_time_display": "08:50, November 03, 2026 (PST)",
+    "scrape_time_display": "23:25, November 03, 2026 (PST)",
     "timezone": "America/Los_Angeles",
     "date_dir": "2026/11/03",
     "content_date": "2026-11-03",
     "edition": "full",
     "edition_label": "All 100",
     "target_count": 100,
-    "run_time_local": "08:50, November 03, 2026 (PST)",
-    "run_time_utc": "2026-11-03 16:50:57 UTC",
+    "run_time_local": "23:25, November 03, 2026 (PST)",
+    "run_time_utc": "2026-11-04 07:25:49 UTC",
     "incremental": true,
     "stories_max": 100,
-    "hot_score_time_utc": "2026-11-03 16:51:08 UTC"
+    "hot_score_time_utc": "2026-11-04 07:25:59 UTC"
   },
   "items": [
     {
@@ -36,15 +36,15 @@
         "id": 50341174,
         "type": "story",
         "by": "dbreunig",
-        "score": 2891,
-        "descendants": 872,
+        "score": 2928,
+        "descendants": 880,
         "time": 1793643688,
         "comments_url": "https://news.ycombinator.com/item?id=50341174"
       },
       "tags": [
         "AI"
       ],
-      "hot_score": 9.13
+      "hot_score": 3.99
     },
     {
       "title_en": "WTF Ubuntu?",
@@ -59,8 +59,8 @@
         "id": 50337608,
         "type": "story",
         "by": "chalmovsky",
-        "score": 1584,
-        "descendants": 659,
+        "score": 1609,
+        "descendants": 671,
         "time": 1793631120,
         "comments_url": "https://news.ycombinator.com/item?id=50337608"
       },
@@ -68,80 +68,7 @@
         "Security",
         "AI"
       ],
-      "hot_score": 3.94
-    },
-    {
-      "title_en": "Revolut moves to self-hosted GLM",
-      "url": "https://twitter.com/guilleflorvs/status/2117379073785696395",
-      "title_zh": "Revolut 转向自托管 GLM",
-      "is_new": false,
-      "created_display": "Created: Nov 03, 2026 / 01:53 PT",
-      "image_url": "https://pbs.twimg.com/media/HWJxC2yWEAAWYYO?format=webp&name=large",
-      "summary_en": "Revolut reportedly moved about 2,000 engineers to a self-hosted GLM model for coding, leaving Claude Code and Codex as exceptions. The reported deployment uses 56 Nvidia B200 GPUs and costs about 30 cents per million tokens, roughly one-tenth of its previous spending on Anthropic and OpenAI.",
-      "summary_zh": "据报道，Revolut 已让约 2,000 名工程师使用自托管 GLM 进行编程，并将 Claude Code 和 Codex 列为例外。此次部署使用 56 张 Nvidia B200，成本约为每百万 token 0.30 美元，大约是此前向 Anthropic 和 OpenAI 支出的十分之一。",
-      "hn": {
-        "id": 50350004,
-        "type": "story",
-        "by": "pretext",
-        "score": 169,
-        "descendants": 143,
-        "time": 1793699639,
-        "comments_url": "https://news.ycombinator.com/item?id=50350004"
-      },
-      "tags": [
-        "Programming",
-        "AI"
-      ],
-      "hot_score": 3.25
-    },
-    {
-      "title_en": "Nvidia – open-source auto-ontology",
-      "url": "https://github.com/NVIDIA/auto-ontology",
-      "title_zh": "Nvidia：开源自动本体",
-      "is_new": false,
-      "created_display": "Created: Nov 02, 2026 / 23:04 PT",
-      "image_url": "https://opengraph.githubassets.com/361524825e6ba08da2f73cd4567a5b3854eb88b4fbecfc7dd02b12733ca5fde4/NVIDIA/auto-ontology",
-      "summary_en": "NVIDIA Auto Ontology is an open Python framework for building semantic, graph-based reasoning layers over data. It reconciles enterprise metadata and definitions across systems, helping agents locate, interpret, and retrieve data more reliably. The layer is exposed to agent systems through MCP, CLI, and API, and supports text-to-SQL evaluation workflows.",
-      "summary_zh": "NVIDIA Auto Ontology 是一个用于构建语义化图推理层的开源 Python 框架。它整合企业元数据并协调不同系统中的定义，帮助智能体更可靠地定位、理解和检索数据。该推理层可通过 MCP、CLI 和 API 接入智能体，也支持 text-to-SQL 评测流程。",
-      "hn": {
-        "id": 50348962,
-        "type": "story",
-        "by": "campervans",
-        "score": 232,
-        "descendants": 87,
-        "time": 1793689490,
-        "comments_url": "https://news.ycombinator.com/item?id=50348962"
-      },
-      "tags": [
-        "Open Source",
-        "AI",
-        "Programming",
-        "Data"
-      ],
-      "hot_score": 2.73
-    },
-    {
-      "title_en": "Show HN: Hacker Times, a New York Times-inspired version of Hacker News",
-      "url": "https://hackertimes.ca/",
-      "title_zh": "Show HN：Hacker Times，一份受《纽约时报》启发的 Hacker News 版本",
-      "is_new": false,
-      "created_display": "Created: Nov 02, 2026 / 17:53 PT",
-      "image_url": "https://rikiyat.github.io/images/blog/weight-space-programming.png",
-      "summary_en": "Hacker Times presents Hacker News in a newspaper-style interface. The site updates once per hour.",
-      "summary_zh": "Hacker Times 用报纸式界面呈现 Hacker News。该网站每小时更新一次。",
-      "hn": {
-        "id": 50346981,
-        "type": "story",
-        "by": "polpenn",
-        "score": 423,
-        "descendants": 130,
-        "time": 1793670814,
-        "comments_url": "https://news.ycombinator.com/item?id=50346981"
-      },
-      "tags": [
-        "Show HN"
-      ],
-      "hot_score": 2.58
+      "hot_score": 1.88
     },
     {
       "title_en": "Show HN: Subvocal – Talk to your computer without making noise",
@@ -156,8 +83,8 @@
         "id": 50340088,
         "type": "story",
         "by": "aarushyadav",
-        "score": 791,
-        "descendants": 368,
+        "score": 817,
+        "descendants": 388,
         "time": 1793639777,
         "comments_url": "https://news.ycombinator.com/item?id=50340088"
       },
@@ -165,102 +92,7 @@
         "Show HN",
         "AI"
       ],
-      "hot_score": 2.31
-    },
-    {
-      "title_en": "DiscImageStudio: burn visible artwork onto CDs, DVDs and Blu-ray discs",
-      "url": "https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio",
-      "title_zh": "DiscImageStudio：将可见图案刻录到 CD、DVD 和蓝光光盘",
-      "is_new": false,
-      "created_display": "Created: Nov 02, 2026 / 17:33 PT",
-      "image_url": "https://opengraph.githubassets.com/baad84188d9fa382d60846cfe9b7ad694da63db355e8dcf41de8b2aa737a0ff1/JiaFeiMiao-K-Cat/DiscImageStudio",
-      "summary_en": "Disc Image Studio converts an image into data that conforms to the physical-layer constraints of CDs, DVDs, and single-layer BD-R discs. After burning, the disc surface displays a visible pattern. The Windows desktop version supports design and burning, while Linux and macOS have experimental offline command-line versions.",
-      "summary_zh": "Disc Image Studio 可将图片转换为符合 CD、DVD 和单层 BD-R 光盘物理层约束的数据，刻录后光盘表面会呈现可见图案。Windows 桌面版支持设计与刻录，Linux 和 macOS 则提供实验性的离线命令行版本。",
-      "hn": {
-        "id": 50346849,
-        "type": "story",
-        "by": "bpierre",
-        "score": 325,
-        "descendants": 73,
-        "time": 1793669623,
-        "comments_url": "https://news.ycombinator.com/item?id=50346849"
-      },
-      "tags": [
-        "Design"
-      ],
-      "hot_score": 1.92
-    },
-    {
-      "title_en": "Ubuntu still has not released patch for Linux 0day RCE in almost 3 weeks",
-      "url": "https://freenode.net/article/ubuntu-lts-kernels-still-unfixed-for-critical-cve-2026-98432",
-      "title_zh": "Ubuntu 近三周仍未为 Linux 0day RCE 发布补丁",
-      "is_new": false,
-      "created_display": "Created: Nov 02, 2026 / 10:39 PT",
-      "image_url": "https://freenode.net/media/og-default.png",
-      "summary_en": "Ubuntu has not released patched kernels for CVE-2026-98432, a vulnerability rated CVSS 9.8. Ubuntu 22.04, 24.04, and 26.04 LTS therefore lack an official kernel package that fixes the issue. Internet-facing and multi-tenant systems relying on those kernels remain particularly exposed until updates become available.",
-      "summary_zh": "Ubuntu 尚未为 CVSS 评分 9.8 的 CVE-2026-98432 发布修复内核。Ubuntu 22.04、24.04 和 26.04 LTS 因此仍没有能够修复该问题的官方内核包。在更新发布前，依赖这些内核的面向互联网和多租户系统尤其处于暴露状态。",
-      "hn": {
-        "id": 50341462,
-        "type": "story",
-        "by": "majorchord",
-        "score": 580,
-        "descendants": 176,
-        "time": 1793644778,
-        "comments_url": "https://news.ycombinator.com/item?id=50341462"
-      },
-      "tags": [
-        "Security"
-      ],
-      "hot_score": 1.87
-    },
-    {
-      "title_en": "The SEC Should Block Anthropic's IPO to Protect the Public",
-      "url": "https://www.techpolicy.press/the-sec-should-block-anthropics-ipo-to-protect-the-public/",
-      "title_zh": "SEC 应阻止 Anthropic IPO 以保护公众",
-      "is_new": false,
-      "created_display": "Created: Nov 02, 2026 / 14:30 PT",
-      "image_url": "https://cdn.sanity.io/images/3tzzh18d/production/07bfadd5db5c963aa461d36b3f5bfa4a34c6f335-1200x675.png",
-      "summary_en": "Matt Scherer argues that the SEC should block a potential Anthropic public offering. He says workers, retail investors, and retirees could bear the losses if the company's bills come due, and identifies the argument with a report about protecting people and the economy from an AI-bubble collapse.",
-      "summary_zh": "Matt Scherer 主张 SEC 应阻止 Anthropic 可能进行的 IPO。他认为，如果公司的账单最终无法承担，员工、散户投资者和退休人员可能会承受损失；这一观点与一份讨论如何在 AI 泡沫破裂时保护公众和经济的报告相关。",
-      "hn": {
-        "id": 50344919,
-        "type": "story",
-        "by": "cdrnsf",
-        "score": 384,
-        "descendants": 300,
-        "time": 1793658647,
-        "comments_url": "https://news.ycombinator.com/item?id=50344919"
-      },
-      "tags": [
-        "Politics",
-        "AI",
-        "Finance"
-      ],
-      "hot_score": 1.69
-    },
-    {
-      "title_en": "uBlock Origin filter to block autoplay videos in TechCrunch",
-      "url": "https://cornfieldlabs.github.io/posts/ublock-stop-techcrunch-autoplay-video/post.html",
-      "title_zh": "用于屏蔽 TechCrunch 自动播放视频的 uBlock Origin 过滤器",
-      "is_new": false,
-      "created_display": "Created: Nov 02, 2026 / 23:36 PT",
-      "image_url": null,
-      "summary_en": "The filter blocks scripts used by TechCrunch's embedded JW Player and Connatix floating ad player, preventing videos from loading. Cosmetic rules then hide the empty space left by the blocked player.",
-      "summary_zh": "这组过滤规则会屏蔽 TechCrunch 嵌入的 JW Player 和 Connatix 浮动广告播放器所使用的脚本，从而阻止视频加载。外观规则还会隐藏播放器被拦截后留下的空白区域。",
-      "hn": {
-        "id": 50349155,
-        "type": "story",
-        "by": "cornfieldlabs",
-        "score": 126,
-        "descendants": 39,
-        "time": 1793691407,
-        "comments_url": "https://news.ycombinator.com/item?id=50349155"
-      },
-      "tags": [
-        "Web",
-        "Privacy"
-      ],
-      "hot_score": 1.61
+      "hot_score": 1.06
     },
     {
       "title_en": "Show HN: HackerBooks – HackerTube, but for books mentioned on HN",
@@ -275,7 +107,7 @@
         "id": 50326821,
         "type": "story",
         "by": "roansh",
-        "score": 1835,
+        "score": 1843,
         "descendants": 304,
         "time": 1793548708,
         "comments_url": "https://news.ycombinator.com/item?id=50326821"
@@ -284,30 +116,7 @@
         "Show HN",
         "Data"
       ],
-      "hot_score": 1.55
-    },
-    {
-      "title_en": "If you love a website, back it up",
-      "url": "https://blog.mistys-internet.website/post/2026/10/29/if-you-love-a-website-back-it-up/",
-      "title_zh": "如果你喜欢一个网站，就把它备份下来",
-      "is_new": false,
-      "created_display": "Created: Nov 02, 2026 / 05:25 PT",
-      "image_url": "https://blog.mistys-internet.website/images/webarchiving/domaincrawl.png",
-      "summary_en": "The author describes discovering that the long-running Teapuppies fansite had disappeared and its domain was serving online-gambling advertisements. The site had been online since 2004 and largely unchanged since 2005, making its loss an example of how fragile old web pages can be.",
-      "summary_zh": "作者发现，一个长期存在的 Teapuppies 粉丝网站已经消失，原域名如今被用于投放在线赌博广告。该网站自 2004 年上线、2005 年后基本未变，这次消失体现了旧网页保存状况的脆弱性。",
-      "hn": {
-        "id": 50336518,
-        "type": "story",
-        "by": "ingve",
-        "score": 636,
-        "descendants": 147,
-        "time": 1793625935,
-        "comments_url": "https://news.ycombinator.com/item?id=50336518"
-      },
-      "tags": [
-        "Web"
-      ],
-      "hot_score": 1.44
+      "hot_score": 0.99
     },
     {
       "title_en": "HackerTube: YouTube built from videos recommended by HN",
@@ -322,15 +131,182 @@
         "id": 50319510,
         "type": "story",
         "by": "karpathy",
-        "score": 2845,
-        "descendants": 632,
+        "score": 2862,
+        "descendants": 634,
         "time": 1793476613,
         "comments_url": "https://news.ycombinator.com/item?id=50319510"
       },
       "tags": [
         "Web"
       ],
-      "hot_score": 1.33
+      "hot_score": 0.95
+    },
+    {
+      "title_en": "Show HN: Hacker Times, a New York Times-inspired version of Hacker News",
+      "url": "https://hackertimes.ca/",
+      "title_zh": "Show HN：Hacker Times，一份受《纽约时报》启发的 Hacker News 版本",
+      "is_new": false,
+      "created_display": "Created: Nov 02, 2026 / 17:53 PT",
+      "image_url": "https://rikiyat.github.io/images/blog/weight-space-programming.png",
+      "summary_en": "Hacker Times presents Hacker News in a newspaper-style interface. The site updates once per hour.",
+      "summary_zh": "Hacker Times 用报纸式界面呈现 Hacker News。该网站每小时更新一次。",
+      "hn": {
+        "id": 50346981,
+        "type": "story",
+        "by": "polpenn",
+        "score": 455,
+        "descendants": 146,
+        "time": 1793670814,
+        "comments_url": "https://news.ycombinator.com/item?id=50346981"
+      },
+      "tags": [
+        "Show HN"
+      ],
+      "hot_score": 0.91
+    },
+    {
+      "title_en": "Ubuntu still has not released patch for Linux 0day RCE in almost 3 weeks",
+      "url": "https://freenode.net/article/ubuntu-lts-kernels-still-unfixed-for-critical-cve-2026-98432",
+      "title_zh": "Ubuntu 近三周仍未为 Linux 0day RCE 发布补丁",
+      "is_new": false,
+      "created_display": "Created: Nov 02, 2026 / 10:39 PT",
+      "image_url": "https://freenode.net/media/og-default.png",
+      "summary_en": "Ubuntu has not released patched kernels for CVE-2026-98432, a vulnerability rated CVSS 9.8. Ubuntu 22.04, 24.04, and 26.04 LTS therefore lack an official kernel package that fixes the issue. Internet-facing and multi-tenant systems relying on those kernels remain particularly exposed until updates become available.",
+      "summary_zh": "Ubuntu 尚未为 CVSS 评分 9.8 的 CVE-2026-98432 发布修复内核。Ubuntu 22.04、24.04 和 26.04 LTS 因此仍没有能够修复该问题的官方内核包。在更新发布前，依赖这些内核的面向互联网和多租户系统尤其处于暴露状态。",
+      "hn": {
+        "id": 50341462,
+        "type": "story",
+        "by": "majorchord",
+        "score": 610,
+        "descendants": 205,
+        "time": 1793644778,
+        "comments_url": "https://news.ycombinator.com/item?id=50341462"
+      },
+      "tags": [
+        "Security"
+      ],
+      "hot_score": 0.84
+    },
+    {
+      "title_en": "Nvidia – open-source auto-ontology",
+      "url": "https://github.com/NVIDIA/auto-ontology",
+      "title_zh": "Nvidia：开源自动本体",
+      "is_new": false,
+      "created_display": "Created: Nov 02, 2026 / 23:04 PT",
+      "image_url": "https://opengraph.githubassets.com/361524825e6ba08da2f73cd4567a5b3854eb88b4fbecfc7dd02b12733ca5fde4/NVIDIA/auto-ontology",
+      "summary_en": "NVIDIA Auto Ontology is an open Python framework for building semantic, graph-based reasoning layers over data. It reconciles enterprise metadata and definitions across systems, helping agents locate, interpret, and retrieve data more reliably. The layer is exposed to agent systems through MCP, CLI, and API, and supports text-to-SQL evaluation workflows.",
+      "summary_zh": "NVIDIA Auto Ontology 是一个用于构建语义化图推理层的开源 Python 框架。它整合企业元数据并协调不同系统中的定义，帮助智能体更可靠地定位、理解和检索数据。该推理层可通过 MCP、CLI 和 API 接入智能体，也支持 text-to-SQL 评测流程。",
+      "hn": {
+        "id": 50348962,
+        "type": "story",
+        "by": "campervans",
+        "score": 274,
+        "descendants": 132,
+        "time": 1793689490,
+        "comments_url": "https://news.ycombinator.com/item?id=50348962"
+      },
+      "tags": [
+        "Open Source",
+        "AI",
+        "Programming",
+        "Data"
+      ],
+      "hot_score": 0.76
+    },
+    {
+      "title_en": "If you love a website, back it up",
+      "url": "https://blog.mistys-internet.website/post/2026/10/29/if-you-love-a-website-back-it-up/",
+      "title_zh": "如果你喜欢一个网站，就把它备份下来",
+      "is_new": false,
+      "created_display": "Created: Nov 02, 2026 / 05:25 PT",
+      "image_url": "https://blog.mistys-internet.website/images/webarchiving/domaincrawl.png",
+      "summary_en": "The author describes discovering that the long-running Teapuppies fansite had disappeared and its domain was serving online-gambling advertisements. The site had been online since 2004 and largely unchanged since 2005, making its loss an example of how fragile old web pages can be.",
+      "summary_zh": "作者发现，一个长期存在的 Teapuppies 粉丝网站已经消失，原域名如今被用于投放在线赌博广告。该网站自 2004 年上线、2005 年后基本未变，这次消失体现了旧网页保存状况的脆弱性。",
+      "hn": {
+        "id": 50336518,
+        "type": "story",
+        "by": "ingve",
+        "score": 654,
+        "descendants": 152,
+        "time": 1793625935,
+        "comments_url": "https://news.ycombinator.com/item?id=50336518"
+      },
+      "tags": [
+        "Web"
+      ],
+      "hot_score": 0.72
+    },
+    {
+      "title_en": "DiscImageStudio: burn visible artwork onto CDs, DVDs and Blu-ray discs",
+      "url": "https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio",
+      "title_zh": "DiscImageStudio：将可见图案刻录到 CD、DVD 和蓝光光盘",
+      "is_new": false,
+      "created_display": "Created: Nov 02, 2026 / 17:33 PT",
+      "image_url": "https://opengraph.githubassets.com/baad84188d9fa382d60846cfe9b7ad694da63db355e8dcf41de8b2aa737a0ff1/JiaFeiMiao-K-Cat/DiscImageStudio",
+      "summary_en": "Disc Image Studio converts an image into data that conforms to the physical-layer constraints of CDs, DVDs, and single-layer BD-R discs. After burning, the disc surface displays a visible pattern. The Windows desktop version supports design and burning, while Linux and macOS have experimental offline command-line versions.",
+      "summary_zh": "Disc Image Studio 可将图片转换为符合 CD、DVD 和单层 BD-R 光盘物理层约束的数据，刻录后光盘表面会呈现可见图案。Windows 桌面版支持设计与刻录，Linux 和 macOS 则提供实验性的离线命令行版本。",
+      "hn": {
+        "id": 50346849,
+        "type": "story",
+        "by": "bpierre",
+        "score": 349,
+        "descendants": 77,
+        "time": 1793669623,
+        "comments_url": "https://news.ycombinator.com/item?id=50346849"
+      },
+      "tags": [
+        "Design"
+      ],
+      "hot_score": 0.68
+    },
+    {
+      "title_en": "The SEC Should Block Anthropic's IPO to Protect the Public",
+      "url": "https://www.techpolicy.press/the-sec-should-block-anthropics-ipo-to-protect-the-public/",
+      "title_zh": "SEC 应阻止 Anthropic IPO 以保护公众",
+      "is_new": false,
+      "created_display": "Created: Nov 02, 2026 / 14:30 PT",
+      "image_url": "https://cdn.sanity.io/images/3tzzh18d/production/07bfadd5db5c963aa461d36b3f5bfa4a34c6f335-1200x675.png",
+      "summary_en": "Matt Scherer argues that the SEC should block a potential Anthropic public offering. He says workers, retail investors, and retirees could bear the losses if the company's bills come due, and identifies the argument with a report about protecting people and the economy from an AI-bubble collapse.",
+      "summary_zh": "Matt Scherer 主张 SEC 应阻止 Anthropic 可能进行的 IPO。他认为，如果公司的账单最终无法承担，员工、散户投资者和退休人员可能会承受损失；这一观点与一份讨论如何在 AI 泡沫破裂时保护公众和经济的报告相关。",
+      "hn": {
+        "id": 50344919,
+        "type": "story",
+        "by": "cdrnsf",
+        "score": 398,
+        "descendants": 315,
+        "time": 1793658647,
+        "comments_url": "https://news.ycombinator.com/item?id=50344919"
+      },
+      "tags": [
+        "Politics",
+        "AI",
+        "Finance"
+      ],
+      "hot_score": 0.66
+    },
+    {
+      "title_en": "Revolut moves to self-hosted GLM",
+      "url": "https://twitter.com/guilleflorvs/status/2117379073785696395",
+      "title_zh": "Revolut 转向自托管 GLM",
+      "is_new": false,
+      "created_display": "Created: Nov 03, 2026 / 01:53 PT",
+      "image_url": "https://pbs.twimg.com/media/HWJxC2yWEAAWYYO?format=webp&name=large",
+      "summary_en": "Revolut reportedly moved about 2,000 engineers to a self-hosted GLM model for coding, leaving Claude Code and Codex as exceptions. The reported deployment uses 56 Nvidia B200 GPUs and costs about 30 cents per million tokens, roughly one-tenth of its previous spending on Anthropic and OpenAI.",
+      "summary_zh": "据报道，Revolut 已让约 2,000 名工程师使用自托管 GLM 进行编程，并将 Claude Code 和 Codex 列为例外。此次部署使用 56 张 Nvidia B200，成本约为每百万 token 0.30 美元，大约是此前向 Anthropic 和 OpenAI 支出的十分之一。",
+      "hn": {
+        "id": 50350004,
+        "type": "story",
+        "by": "pretext",
+        "score": 189,
+        "descendants": 159,
+        "time": 1793699639,
+        "comments_url": "https://news.ycombinator.com/item?id=50350004"
+      },
+      "tags": [
+        "Programming",
+        "AI"
+      ],
+      "hot_score": 0.64
     },
     {
       "title_en": "US boy names that became girl names and vice versa",
@@ -345,15 +321,15 @@
         "id": 50339397,
         "type": "story",
         "by": "xoobdev",
-        "score": 463,
-        "descendants": 441,
+        "score": 482,
+        "descendants": 462,
         "time": 1793637276,
         "comments_url": "https://news.ycombinator.com/item?id=50339397"
       },
       "tags": [
         "Culture"
       ],
-      "hot_score": 1.29
+      "hot_score": 0.61
     },
     {
       "title_en": "Scaling Git at OpenAI",
@@ -368,8 +344,8 @@
         "id": 50345924,
         "type": "story",
         "by": "makeramen",
-        "score": 255,
-        "descendants": 174,
+        "score": 266,
+        "descendants": 179,
         "time": 1793663276,
         "comments_url": "https://news.ycombinator.com/item?id=50345924"
       },
@@ -378,78 +354,7 @@
         "AI",
         "Web"
       ],
-      "hot_score": 1.26
-    },
-    {
-      "title_en": "Intel stock collapse worsens as $3.5T chip rout spreads",
-      "url": "https://finance.yahoo.com/markets/article/the-intel-stock-collapse-is-getting-worse--and-the-37-trillion-chip-rout-is-spreading-212154947.html",
-      "title_zh": "英特尔股价崩跌加剧，3.5 万亿美元芯片溃败蔓延",
-      "is_new": false,
-      "created_display": "Created: Nov 02, 2026 / 16:08 PT",
-      "image_url": "https://s.yimg.com/lo/mysterio/api/20c071d47e1d29b6bcb68516712316fd79f4afbe9817d204b091e7acdade2c1f/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-11%2F1b2b2cbf-96e4-452f-9ea7-7917f40a6da2",
-      "summary_en": "Intel's decline spread to memory and storage stocks as most of Wall Street moved past the previous week's technology sell-off. About seven in ten S&P 500 stocks rose, but nearly every chip stock fell. Chip companies lost more than $400 billion in market value in one session, according to the cited calculations.",
-      "summary_zh": "随着华尔街大部分市场逐渐消化前一周的科技股抛售，英特尔的下跌蔓延至存储和内存股票。约七成标普 500 成分股上涨，但几乎所有芯片股都下跌。按资料引用的计算，芯片企业单日市值合计蒸发超过 4,000 亿美元。",
-      "hn": {
-        "id": 50346153,
-        "type": "story",
-        "by": "entryleveljobsc",
-        "score": 221,
-        "descendants": 200,
-        "time": 1793664533,
-        "comments_url": "https://news.ycombinator.com/item?id=50346153"
-      },
-      "tags": [
-        "Finance",
-        "Hardware"
-      ],
-      "hot_score": 1.13
-    },
-    {
-      "title_en": "No Vehicles in the Park",
-      "url": "https://novehiclesinthepark.com/",
-      "title_zh": "公园内禁止车辆",
-      "is_new": false,
-      "created_display": "Created: Nov 03, 2026 / 01:21 PT",
-      "image_url": null,
-      "summary_en": "This is a language-and-rules game consisting of 27 questions. Players can skip to the end after completing the first seven questions, where they receive a comparison of their results with those of other players and an explanation of the game's design.",
-      "summary_zh": "这是一款围绕语言和规则设计的游戏，共有 27 道题。完成前七题后，玩家可以直接跳到结尾；结尾会比较玩家与其他人的成绩，并解释游戏的设计思路。",
-      "hn": {
-        "id": 50349784,
-        "type": "story",
-        "by": "n_plus_1_acc",
-        "score": 64,
-        "descendants": 89,
-        "time": 1793697674,
-        "comments_url": "https://news.ycombinator.com/item?id=50349784"
-      },
-      "tags": [
-        "Gaming"
-      ],
-      "hot_score": 1.1
-    },
-    {
-      "title_en": "Anthropic's growth just flattened",
-      "url": "https://www.regenerator1.com/p/anthropics-growth-just-flattened",
-      "title_zh": "Anthropic 的增长停滞了",
-      "is_new": false,
-      "created_display": "Created: Nov 02, 2026 / 14:33 PT",
-      "image_url": "https://substackcdn.com/image/fetch/$s_!qfl2!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F68ef8665-4279-4a1d-b5d6-447d33f93edd_1206x748.png",
-      "summary_en": "The available context consists only of the phrase “Look at the monthly numbers...” and does not establish specific growth figures or causes.",
-      "summary_zh": "现有资料只有“看看月度数据……”这一句话，无法确定具体增长数据或原因。",
-      "hn": {
-        "id": 50344958,
-        "type": "story",
-        "by": "cdrnsf",
-        "score": 224,
-        "descendants": 253,
-        "time": 1793658800,
-        "comments_url": "https://news.ycombinator.com/item?id=50344958"
-      },
-      "tags": [
-        "Business",
-        "AI"
-      ],
-      "hot_score": 0.99
+      "hot_score": 0.47
     },
     {
       "title_en": "Anthropic's internal AI use, at retail prices, now exceeds its employee pay",
@@ -464,8 +369,8 @@
         "id": 50339494,
         "type": "story",
         "by": "entryleveljobsc",
-        "score": 341,
-        "descendants": 265,
+        "score": 351,
+        "descendants": 269,
         "time": 1793637629,
         "comments_url": "https://news.ycombinator.com/item?id=50339494"
       },
@@ -474,102 +379,7 @@
         "AI",
         "Finance"
       ],
-      "hot_score": 0.95
-    },
-    {
-      "title_en": "Self-Employed? Solopreneur? NIST Has a Cybersecurity Guide Just for You",
-      "url": "https://www.nist.gov/news-events/news/2026/11/self-employed-solopreneur-nist-has-cybersecurity-guide-just-you",
-      "title_zh": "个体户？单人创业者？NIST 为你准备了网络安全指南",
-      "is_new": false,
-      "created_display": "Created: Nov 02, 2026 / 09:47 PT",
-      "image_url": "https://www.nist.gov/sites/default/files/styles/social/public/images/2026/04/29/shutterstock_2477030163.jpg?itok=7zzPE_fG",
-      "summary_en": "The guide is designed to help solopreneurs prioritize and implement selected actions from the NIST Cybersecurity Framework. It focuses on measures most useful for protecting small businesses.",
-      "summary_zh": "这份指南旨在帮助单人创业者从 NIST 网络安全框架中确定优先级，并落实其中适合自身业务的一组措施。其重点是帮助小型企业采取更有针对性的安全行动。",
-      "hn": {
-        "id": 50340619,
-        "type": "story",
-        "by": "tomrod",
-        "score": 312,
-        "descendants": 86,
-        "time": 1793641660,
-        "comments_url": "https://news.ycombinator.com/item?id=50340619"
-      },
-      "tags": [
-        "Security",
-        "Business"
-      ],
-      "hot_score": 0.94
-    },
-    {
-      "title_en": "Show HN: Warsaw in voxels – An interactive 3D map of the city centre",
-      "url": "https://p.migdal.pl/warsaw-vibe-voxel/",
-      "title_zh": "Show HN：体素化的华沙——市中心互动 3D 地图",
-      "is_new": false,
-      "created_display": "Created: Nov 02, 2026 / 08:25 PT",
-      "image_url": "https://p.migdal.pl/warsaw-vibe-voxel/preview.jpg?v=5",
-      "summary_en": "The project renders central Warsaw as an interactive voxel map inspired by Minecraft and MagicaVoxel. Users can change the date, time, and weather, explore the city, or control individual pedestrians. It combines OpenStreetMap, Polish geospatial and LiDAR data, aerial imagery, and Warsaw's tree database, and is open source.",
-      "summary_zh": "这个项目以受 Minecraft 和 MagicaVoxel 启发的体素形式呈现华沙市中心互动地图。用户可以改变日期、时间和天气，探索城市，或控制单个行人。项目结合了 OpenStreetMap、波兰地理与 LiDAR 数据、航拍图像以及华沙城市树木数据库，并已开源。",
-      "hn": {
-        "id": 50339221,
-        "type": "story",
-        "by": "stared",
-        "score": 310,
-        "descendants": 51,
-        "time": 1793636726,
-        "comments_url": "https://news.ycombinator.com/item?id=50339221"
-      },
-      "tags": [
-        "Show HN",
-        "Open Source",
-        "Data"
-      ],
-      "hot_score": 0.85
-    },
-    {
-      "title_en": "Supermarket freezers across Europe hit by second suspected cyber-attack",
-      "url": "https://www.theguardian.com/world/2026/nov/02/supermarket-freezers-across-europe-hit-by-second-suspected-cyber-attack",
-      "title_zh": "欧洲各地超市冷柜遭遇第二起疑似网络攻击",
-      "is_new": false,
-      "created_display": "Created: Nov 02, 2026 / 03:50 PT",
-      "image_url": "https://i.guim.co.uk/img/media/47506f81531a77d5b27d52c5ed4d7ac3485d3802/528_0_5356_4284/master/5356.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a7989d926d9c8310ee9196846f0581d5",
-      "summary_en": "The available context consists only of links to related coverage and does not provide reliable details about the reported incidents.",
-      "summary_zh": "现有资料只有相关报道链接，未提供足够可靠的事件细节。",
-      "hn": {
-        "id": 50335615,
-        "type": "story",
-        "by": "fergie",
-        "score": 406,
-        "descendants": 455,
-        "time": 1793620213,
-        "comments_url": "https://news.ycombinator.com/item?id=50335615"
-      },
-      "tags": [
-        "Security"
-      ],
-      "hot_score": 0.84
-    },
-    {
-      "title_en": "Ask HN: Does anyone have a contact with Cleveland-area Ham club?",
-      "url": "https://news.ycombinator.com/item?id=50346164",
-      "title_zh": "Ask HN：有人认识克利夫兰地区业余无线电俱乐部的人吗？",
-      "is_new": false,
-      "created_display": "Created: Nov 02, 2026 / 16:09 PT",
-      "image_url": null,
-      "summary_en": "The poster is seeking a contact at the Cuyahoga Amateur Radio Club about removing a large collection of radio equipment from a home. Much of the equipment is reportedly new, and it may be discarded if no one arranges its removal.",
-      "summary_zh": "发帖人希望联系库亚霍加业余无线电俱乐部的人，以处理一批需要从住宅中搬走的无线电设备。据称其中许多设备是全新的，如果无人处理，可能会被当作垃圾丢弃。",
-      "hn": {
-        "id": 50346164,
-        "type": "story",
-        "by": "stockresearcher",
-        "score": 159,
-        "descendants": 23,
-        "time": 1793664576,
-        "comments_url": "https://news.ycombinator.com/item?id=50346164"
-      },
-      "tags": [
-        "Culture"
-      ],
-      "hot_score": 0.81
+      "hot_score": 0.44
     },
     {
       "title_en": "Ask HN: Which TV do you recommend for privacy?",
@@ -584,86 +394,159 @@
         "id": 50328896,
         "type": "story",
         "by": "LecroJS",
-        "score": 716,
-        "descendants": 856,
+        "score": 726,
+        "descendants": 871,
         "time": 1793561727,
         "comments_url": "https://news.ycombinator.com/item?id=50328896"
       },
       "tags": [
         "Privacy"
       ],
-      "hot_score": 0.69
+      "hot_score": 0.43
     },
     {
-      "title_en": "Oracle files to sell $20B in new stock, bonds to finance AI buildout",
-      "url": "https://www.cnbc.com/2026/11/02/oracle-files-to-sell-20-billion-in-new-stock-bonds-to-finance-ai-buildout.html",
-      "title_zh": "甲骨文拟发行 200 亿美元新股和债券，为 AI 扩张融资",
+      "title_en": "Self-Employed? Solopreneur? NIST Has a Cybersecurity Guide Just for You",
+      "url": "https://www.nist.gov/news-events/news/2026/11/self-employed-solopreneur-nist-has-cybersecurity-guide-just-you",
+      "title_zh": "个体户？单人创业者？NIST 为你准备了网络安全指南",
       "is_new": false,
-      "created_display": "Created: Nov 02, 2026 / 11:27 PT",
-      "image_url": "https://image.cnbcfm.com/api/v1/image/108468745-1793103926982-gettyimages-2234722679-_73a3321_cmlbiuj4.jpeg?v=1793642583&w=1920&h=1080",
-      "summary_en": "Oracle filed plans to issue new shares and additional debt. The proceeds are intended to finance the company's artificial-intelligence buildout.",
-      "summary_zh": "甲骨文提交了发行新股和新增债务的计划。筹集资金将用于为公司的人工智能扩张融资。",
+      "created_display": "Created: Nov 02, 2026 / 09:47 PT",
+      "image_url": "https://www.nist.gov/sites/default/files/styles/social/public/images/2026/04/29/shutterstock_2477030163.jpg?itok=7zzPE_fG",
+      "summary_en": "The guide is designed to help solopreneurs prioritize and implement selected actions from the NIST Cybersecurity Framework. It focuses on measures most useful for protecting small businesses.",
+      "summary_zh": "这份指南旨在帮助单人创业者从 NIST 网络安全框架中确定优先级，并落实其中适合自身业务的一组措施。其重点是帮助小型企业采取更有针对性的安全行动。",
       "hn": {
-        "id": 50342284,
+        "id": 50340619,
         "type": "story",
-        "by": "smartmic",
-        "score": 195,
-        "descendants": 173,
-        "time": 1793647657,
-        "comments_url": "https://news.ycombinator.com/item?id=50342284"
+        "by": "tomrod",
+        "score": 324,
+        "descendants": 91,
+        "time": 1793641660,
+        "comments_url": "https://news.ycombinator.com/item?id=50340619"
+      },
+      "tags": [
+        "Security",
+        "Business"
+      ],
+      "hot_score": 0.43
+    },
+    {
+      "title_en": "Supermarket freezers across Europe hit by second suspected cyber-attack",
+      "url": "https://www.theguardian.com/world/2026/nov/02/supermarket-freezers-across-europe-hit-by-second-suspected-cyber-attack",
+      "title_zh": "欧洲各地超市冷柜遭遇第二起疑似网络攻击",
+      "is_new": false,
+      "created_display": "Created: Nov 02, 2026 / 03:50 PT",
+      "image_url": "https://i.guim.co.uk/img/media/47506f81531a77d5b27d52c5ed4d7ac3485d3802/528_0_5356_4284/master/5356.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a7989d926d9c8310ee9196846f0581d5",
+      "summary_en": "The available context consists only of links to related coverage and does not provide reliable details about the reported incidents.",
+      "summary_zh": "现有资料只有相关报道链接，未提供足够可靠的事件细节。",
+      "hn": {
+        "id": 50335615,
+        "type": "story",
+        "by": "fergie",
+        "score": 410,
+        "descendants": 464,
+        "time": 1793620213,
+        "comments_url": "https://news.ycombinator.com/item?id=50335615"
+      },
+      "tags": [
+        "Security"
+      ],
+      "hot_score": 0.42
+    },
+    {
+      "title_en": "Intel stock collapse worsens as $3.5T chip rout spreads",
+      "url": "https://finance.yahoo.com/markets/article/the-intel-stock-collapse-is-getting-worse--and-the-37-trillion-chip-rout-is-spreading-212154947.html",
+      "title_zh": "英特尔股价崩跌加剧，3.5 万亿美元芯片溃败蔓延",
+      "is_new": false,
+      "created_display": "Created: Nov 02, 2026 / 16:08 PT",
+      "image_url": "https://s.yimg.com/lo/mysterio/api/20c071d47e1d29b6bcb68516712316fd79f4afbe9817d204b091e7acdade2c1f/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-11%2F1b2b2cbf-96e4-452f-9ea7-7917f40a6da2",
+      "summary_en": "Intel's decline spread to memory and storage stocks as most of Wall Street moved past the previous week's technology sell-off. About seven in ten S&P 500 stocks rose, but nearly every chip stock fell. Chip companies lost more than $400 billion in market value in one session, according to the cited calculations.",
+      "summary_zh": "随着华尔街大部分市场逐渐消化前一周的科技股抛售，英特尔的下跌蔓延至存储和内存股票。约七成标普 500 成分股上涨，但几乎所有芯片股都下跌。按资料引用的计算，芯片企业单日市值合计蒸发超过 4,000 亿美元。",
+      "hn": {
+        "id": 50346153,
+        "type": "story",
+        "by": "entryleveljobsc",
+        "score": 232,
+        "descendants": 221,
+        "time": 1793664533,
+        "comments_url": "https://news.ycombinator.com/item?id=50346153"
+      },
+      "tags": [
+        "Finance",
+        "Hardware"
+      ],
+      "hot_score": 0.42
+    },
+    {
+      "title_en": "Show HN: Warsaw in voxels – An interactive 3D map of the city centre",
+      "url": "https://p.migdal.pl/warsaw-vibe-voxel/",
+      "title_zh": "Show HN：体素化的华沙——市中心互动 3D 地图",
+      "is_new": false,
+      "created_display": "Created: Nov 02, 2026 / 08:25 PT",
+      "image_url": "https://p.migdal.pl/warsaw-vibe-voxel/preview.jpg?v=5",
+      "summary_en": "The project renders central Warsaw as an interactive voxel map inspired by Minecraft and MagicaVoxel. Users can change the date, time, and weather, explore the city, or control individual pedestrians. It combines OpenStreetMap, Polish geospatial and LiDAR data, aerial imagery, and Warsaw's tree database, and is open source.",
+      "summary_zh": "这个项目以受 Minecraft 和 MagicaVoxel 启发的体素形式呈现华沙市中心互动地图。用户可以改变日期、时间和天气，探索城市，或控制单个行人。项目结合了 OpenStreetMap、波兰地理与 LiDAR 数据、航拍图像以及华沙城市树木数据库，并已开源。",
+      "hn": {
+        "id": 50339221,
+        "type": "story",
+        "by": "stared",
+        "score": 317,
+        "descendants": 52,
+        "time": 1793636726,
+        "comments_url": "https://news.ycombinator.com/item?id=50339221"
+      },
+      "tags": [
+        "Show HN",
+        "Open Source",
+        "Data"
+      ],
+      "hot_score": 0.39
+    },
+    {
+      "title_en": "Anthropic's growth just flattened",
+      "url": "https://www.regenerator1.com/p/anthropics-growth-just-flattened",
+      "title_zh": "Anthropic 的增长停滞了",
+      "is_new": false,
+      "created_display": "Created: Nov 02, 2026 / 14:33 PT",
+      "image_url": "https://substackcdn.com/image/fetch/$s_!qfl2!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F68ef8665-4279-4a1d-b5d6-447d33f93edd_1206x748.png",
+      "summary_en": "The available context consists only of the phrase “Look at the monthly numbers...” and does not establish specific growth figures or causes.",
+      "summary_zh": "现有资料只有“看看月度数据……”这一句话，无法确定具体增长数据或原因。",
+      "hn": {
+        "id": 50344958,
+        "type": "story",
+        "by": "cdrnsf",
+        "score": 227,
+        "descendants": 271,
+        "time": 1793658800,
+        "comments_url": "https://news.ycombinator.com/item?id=50344958"
       },
       "tags": [
         "Business",
-        "Finance",
         "AI"
       ],
-      "hot_score": 0.67
+      "hot_score": 0.38
     },
     {
-      "title_en": "Ask HN: Who is hiring? (November 2026)",
-      "url": "https://news.ycombinator.com/item?id=50338728",
-      "title_zh": "Ask HN：谁在招聘？（2026 年 11 月）",
+      "title_en": "uBlock Origin filter to block autoplay videos in TechCrunch",
+      "url": "https://cornfieldlabs.github.io/posts/ublock-stop-techcrunch-autoplay-video/post.html",
+      "title_zh": "用于屏蔽 TechCrunch 自动播放视频的 uBlock Origin 过滤器",
       "is_new": false,
-      "created_display": "Created: Nov 02, 2026 / 08:01 PT",
+      "created_display": "Created: Nov 02, 2026 / 23:36 PT",
       "image_url": null,
-      "summary_en": "This monthly hiring thread asks companies to post active openings while specifying location and remote-work status. Posts must come from someone personally involved in hiring, and recruiting firms and job boards are excluded.",
-      "summary_zh": "这个月度招聘帖邀请企业发布正在招聘的职位，并注明地点和远程办公状态。发帖者必须本人参与招聘，招聘公司和招聘信息板不得发布职位。",
+      "summary_en": "The filter blocks scripts used by TechCrunch's embedded JW Player and Connatix floating ad player, preventing videos from loading. Cosmetic rules then hide the empty space left by the blocked player.",
+      "summary_zh": "这组过滤规则会屏蔽 TechCrunch 嵌入的 JW Player 和 Connatix 浮动广告播放器所使用的脚本，从而阻止视频加载。外观规则还会隐藏播放器被拦截后留下的空白区域。",
       "hn": {
-        "id": 50338728,
+        "id": 50349155,
         "type": "story",
-        "by": "whoishiring",
-        "score": 236,
-        "descendants": 207,
-        "time": 1793635297,
-        "comments_url": "https://news.ycombinator.com/item?id=50338728"
+        "by": "cornfieldlabs",
+        "score": 133,
+        "descendants": 42,
+        "time": 1793691407,
+        "comments_url": "https://news.ycombinator.com/item?id=50349155"
       },
       "tags": [
-        "Career"
+        "Web",
+        "Privacy"
       ],
-      "hot_score": 0.63
-    },
-    {
-      "title_en": "Cloudflare experiencing multiple active incidents",
-      "url": "https://www.cloudflarestatus.com/",
-      "title_zh": "Cloudflare 出现多起活跃事故",
-      "is_new": false,
-      "created_display": "Created: Nov 02, 2026 / 20:57 PT",
-      "image_url": null,
-      "summary_en": "The status page currently says that no issues affecting Cloudflare services are known. It provides real-time service status, incident history, and scheduled-maintenance information.",
-      "summary_zh": "状态页面目前表示，尚未发现影响 Cloudflare 服务的问题。该页面提供服务实时状态、事故历史和计划维护信息。",
-      "hn": {
-        "id": 50348260,
-        "type": "story",
-        "by": "jp1016",
-        "score": 72,
-        "descendants": 6,
-        "time": 1793681847,
-        "comments_url": "https://news.ycombinator.com/item?id=50348260"
-      },
-      "tags": [
-        "DevOps"
-      ],
-      "hot_score": 0.62
+      "hot_score": 0.38
     },
     {
       "title_en": "OccupySaaS",
@@ -678,279 +561,15 @@
         "id": 50331402,
         "type": "story",
         "by": "misswaterfairy",
-        "score": 517,
-        "descendants": 314,
+        "score": 531,
+        "descendants": 317,
         "time": 1793578647,
         "comments_url": "https://news.ycombinator.com/item?id=50331402"
       },
       "tags": [
         "Open Source"
       ],
-      "hot_score": 0.6
-    },
-    {
-      "title_en": "Egoless Mathematics in the AI Era",
-      "url": "https://terrytao.wordpress.com/2026/11/02/egoless-mathematics-in-the-ai-era/",
-      "title_zh": "AI 时代的无我数学",
-      "is_new": false,
-      "created_display": "Created: Nov 02, 2026 / 10:54 PT",
-      "image_url": "https://secure.gravatar.com/blavatar/bd4bda4207561b6998f10dec44b570f04ff4072b20f89162d525b186dfca3e49?s=200&ts=1793701241",
-      "summary_en": "This guest essay considers mathematics in the era of AI. It is credited to Karthik C. S., Amit Sahai, and Jie Xue, and was initially written in another format before being converted with AI.",
-      "summary_zh": "这篇客座文章探讨了 AI 时代的数学。文章作者为 Karthik C. S.、Amit Sahai 和 Jie Xue，最初以另一种文件格式撰写，之后通过 AI 完成转换。",
-      "hn": {
-        "id": 50341736,
-        "type": "story",
-        "by": "smilelamp",
-        "score": 179,
-        "descendants": 148,
-        "time": 1793645684,
-        "comments_url": "https://news.ycombinator.com/item?id=50341736"
-      },
-      "tags": [
-        "AI",
-        "Science"
-      ],
-      "hot_score": 0.59
-    },
-    {
-      "title_en": "Too Expensive to Exist",
-      "url": "https://mapwriting.substack.com/p/too-expensive-to-exist",
-      "title_zh": "贵得无法存在",
-      "is_new": false,
-      "created_display": "Created: Nov 02, 2026 / 19:43 PT",
-      "image_url": null,
-      "summary_en": "The piece is titled “Too Expensive to Exist.”",
-      "summary_zh": "文章题为《贵得无法存在》。",
-      "hn": {
-        "id": 50347784,
-        "type": "story",
-        "by": "kitkut",
-        "score": 80,
-        "descendants": 17,
-        "time": 1793677430,
-        "comments_url": "https://news.ycombinator.com/item?id=50347784"
-      },
-      "tags": [
-        "Business"
-      ],
-      "hot_score": 0.59
-    },
-    {
-      "title_en": "My Favourite Laptop",
-      "url": "https://blog.jsbarretto.com/post/laptop",
-      "title_zh": "我最喜欢的笔记本电脑",
-      "is_new": false,
-      "created_display": "Created: Nov 02, 2026 / 08:59 PT",
-      "image_url": "https://blog.jsbarretto.com/static/img/profile.jpg",
-      "summary_en": "The author calls a battered 2015 ThinkPad X250 the best laptop they have owned. It is shown running a graphical shell on top of a microkernel the author is developing.",
-      "summary_zh": "作者称，一台磨损严重的 2015 年 ThinkPad X250 是自己用过的最好笔记本电脑。文章展示了它运行在作者正在开发的微内核之上的图形 Shell。",
-      "hn": {
-        "id": 50339815,
-        "type": "story",
-        "by": "ibobev",
-        "score": 200,
-        "descendants": 155,
-        "time": 1793638797,
-        "comments_url": "https://news.ycombinator.com/item?id=50339815"
-      },
-      "tags": [
-        "Hardware",
-        "Programming"
-      ],
-      "hot_score": 0.57
-    },
-    {
-      "title_en": "LLMs are not superhuman at reading and writing neural network weights",
-      "url": "https://www.seangoedecke.com/llms-are-not-superhuman-at-reading-and-writing-neural-network-weights/",
-      "title_zh": "LLM 并没有超越人类地读写神经网络权重",
-      "is_new": false,
-      "created_display": "Created: Nov 02, 2026 / 14:26 PT",
-      "image_url": "https://www.seangoedecke.com/llms-are-not-superhuman-at-reading-and-writing-neural-network-weights/J3JiNrBTkY-590.png",
-      "summary_en": "The source challenges claims that frontier LLMs are superhuman at manipulating neural-network weights. GPT-6 Astra can identify the games a small network was trained to play from its weights and modify those weights, and it significantly improved the mathematical ability of a 0.8B Qwen model by editing them directly. The author notes that such model-improvement capabilities could be relevant to recursive self-improvement.",
-      "summary_zh": "资料质疑前沿大语言模型在操作神经网络权重方面已经超越人类的说法。GPT-6 Astra 能根据小型网络的权重判断其训练的游戏，并直接修改这些权重；它还通过编辑权重显著提升了 0.8B Qwen 模型的数学能力。作者指出，这类改进模型的能力可能与递归自我改进有关。",
-      "hn": {
-        "id": 50344861,
-        "type": "story",
-        "by": "agrm",
-        "score": 123,
-        "descendants": 11,
-        "time": 1793658413,
-        "comments_url": "https://news.ycombinator.com/item?id=50344861"
-      },
-      "tags": [
-        "AI"
-      ],
-      "hot_score": 0.54
-    },
-    {
-      "title_en": "Moving our warehouse off DuckDB",
-      "url": "https://posthog.com/blog/moving-off-duckdb",
-      "title_zh": "让我们的数据仓库迁离 DuckDB",
-      "is_new": false,
-      "created_display": "Created: Nov 02, 2026 / 08:02 PT",
-      "image_url": "https://res.cloudinary.com/dmukukwp6/image/upload/moving_off_duckdb_4c95538aac.png",
-      "summary_en": "PostHog moved its data warehouse away from DuckDB and DuckLake to an in-house variant of Trino and a new open table format called HogLake. The post focuses on what broke at scale and why the migration was undertaken.",
-      "summary_zh": "PostHog 将数据仓库从 DuckDB 和 DuckLake 迁移到自有的 Trino 变体，以及新的开放表格式 HogLake。文章重点介绍了系统扩展到一定规模后出现的问题，以及迁移的原因。",
-      "hn": {
-        "id": 50338747,
-        "type": "story",
-        "by": "emschwartz",
-        "score": 181,
-        "descendants": 117,
-        "time": 1793635346,
-        "comments_url": "https://news.ycombinator.com/item?id=50338747"
-      },
-      "tags": [
-        "Data",
-        "Open Source"
-      ],
-      "hot_score": 0.48
-    },
-    {
-      "title_en": "We halved DNS build delay and cut memory use by 85%",
-      "url": "https://blog.cloudflare.com/dns-targeted-zone-builds/",
-      "title_zh": "DNS 构建延迟减半，内存占用降低 85%",
-      "is_new": false,
-      "created_display": "Created: Nov 02, 2026 / 06:47 PT",
-      "image_url": "https://blog.cloudflare.com/_emdash/api/media/file/01M6426V7J1FR4KZEYMQP555R0.01M6426VZJHB2XCKTQ39W2S71Z.png",
-      "summary_en": "Cloudflare built a planner that selects the smallest safe DNS build instead of rebuilding entire zones after every setting change. The change cut full builds by 40%, peak memory use by 85%, and build delay by half. The system now handles about 700 DNS record changes per second, while some zones contain more than 20 million records.",
-      "summary_zh": "Cloudflare 构建了一个规划器，在 DNS 设置变更后选择最小且安全的构建范围，而不是重建整个区域。该方案使完整构建减少 40%，峰值内存占用降低 85%，构建延迟减半。系统目前每秒处理约 700 次 DNS 记录变更，部分区域包含超过 2,000 万条记录。",
-      "hn": {
-        "id": 50337558,
-        "type": "story",
-        "by": "wondersky",
-        "score": 191,
-        "descendants": 76,
-        "time": 1793630848,
-        "comments_url": "https://news.ycombinator.com/item?id=50337558"
-      },
-      "tags": [
-        "Programming",
-        "DevOps"
-      ],
-      "hot_score": 0.47
-    },
-    {
-      "title_en": "Lenovo's 'encrypted' fingerprint USB is just an unencrypted SD card in a case",
-      "url": "https://www.reddit.com/r/technology/comments/1xl2pr3/lenovos_encrypted_fingerprint_usb_drive_is_just/",
-      "title_zh": "联想所谓的“加密”指纹 USB，其实只是装在外壳里的未加密 SD 卡",
-      "is_new": false,
-      "created_display": "Created: Nov 01, 2026 / 06:34 PT",
-      "image_url": null,
-      "summary_en": "The title alleges that Lenovo’s fingerprint-protected USB device is not an encrypted drive, but an unencrypted SD card placed inside a casing. It identifies a potential mismatch between the product’s security description and its underlying storage design.",
-      "summary_zh": "标题指称，联想这款受指纹保护的 USB 设备并非加密硬盘，而只是装在外壳中的未加密 SD 卡。这表明产品的安全描述可能与其底层存储设计不一致。",
-      "hn": {
-        "id": 50326099,
-        "type": "story",
-        "by": "entryleveljobsc",
-        "score": 575,
-        "descendants": 177,
-        "time": 1793543683,
-        "comments_url": "https://news.ycombinator.com/item?id=50326099"
-      },
-      "tags": [
-        "Security",
-        "Hardware"
-      ],
-      "hot_score": 0.46
-    },
-    {
-      "title_en": "Jobless tech workers are being left out of San Francisco's AI boom",
-      "url": "https://www.bloomberg.com/news/features/2026-09-17/san-francisco-s-ai-wealth-boom-skirts-engineers-as-openai-anthropic-ipos-near",
-      "title_zh": "失业的科技工作者被排除在旧金山的 AI 繁荣之外",
-      "is_new": false,
-      "created_display": "Created: Nov 02, 2026 / 06:40 PT",
-      "image_url": null,
-      "summary_en": "The piece concerns unemployed technology workers being left out of San Francisco's AI-driven economic boom.",
-      "summary_zh": "文章关注失业科技工作者被排除在旧金山由 AI 推动的经济繁荣之外。",
-      "hn": {
-        "id": 50337454,
-        "type": "story",
-        "by": "mancerayder",
-        "score": 185,
-        "descendants": 254,
-        "time": 1793630405,
-        "comments_url": "https://news.ycombinator.com/item?id=50337454"
-      },
-      "tags": [
-        "Business",
-        "Career",
-        "AI"
-      ],
-      "hot_score": 0.45
-    },
-    {
-      "title_en": "Launch HN: Momentic (YC W24) – Agents that catch bugs by using your app",
-      "url": "https://momentic.ai/",
-      "title_zh": "Launch HN：Momentic——通过操作应用来发现漏洞的智能体",
-      "is_new": false,
-      "created_display": "Created: Nov 02, 2026 / 09:05 PT",
-      "image_url": "https://momentic.ai/images/og/home.png",
-      "summary_en": "Momentic is building QA agents that autonomously plan, explore, and test user flows in web, iOS, Android, and eventually desktop applications. The founders argue that conventional end-to-end tools require tests to hardcode implementation details such as XPath, text, or ARIA attributes, making them costly to maintain. Their approach is intended to use agents for broader bug-finding and visual understanding.",
-      "summary_zh": "Momentic 正在开发 QA 智能体，让其自主规划、探索并测试 Web、iOS、Android 以及未来桌面应用中的用户流程。创始人认为，传统端到端工具要求测试硬编码 XPath、文本或 ARIA 属性等实现细节，因此维护成本较高。这套方案希望利用智能体进行更广泛的找错和视觉理解。",
-      "hn": {
-        "id": 50339913,
-        "type": "story",
-        "by": "wuweiweiwu",
-        "score": 158,
-        "descendants": 108,
-        "time": 1793639125,
-        "comments_url": "https://news.ycombinator.com/item?id=50339913"
-      },
-      "tags": [
-        "AI",
-        "Programming",
-        "Startups"
-      ],
-      "hot_score": 0.45
-    },
-    {
-      "title_en": "Sneaking into the auditorium for the Windows 2000 launch rehearsal",
-      "url": "https://devblogs.microsoft.com/oldnewthing/20261102-00/?p=112818/",
-      "title_zh": "偷偷溜进 Windows 2000 发布彩排现场",
-      "is_new": false,
-      "created_display": "Created: Nov 02, 2026 / 10:12 PT",
-      "image_url": "https://devblogs.microsoft.com/oldnewthing/wp-content/uploads/sites/38/2025/10/banner-oldnewthing-blue.webp",
-      "summary_en": "The available source context contains only the line “Wait, that's not him.”",
-      "summary_zh": "现有资料只包含一句话：“等等，那不是他。”",
-      "hn": {
-        "id": 50341028,
-        "type": "story",
-        "by": "ibobev",
-        "score": 146,
-        "descendants": 55,
-        "time": 1793643168,
-        "comments_url": "https://news.ycombinator.com/item?id=50341028"
-      },
-      "tags": [
-        "Culture"
-      ],
-      "hot_score": 0.45
-    },
-    {
-      "title_en": "Polyend releases the Tracker firmware source code",
-      "url": "https://polyend.com/whats-up/tracker-the-biggest-update-yet/",
-      "title_zh": "Polyend 发布 Tracker 固件源代码",
-      "is_new": false,
-      "created_display": "Created: Nov 02, 2026 / 09:20 PT",
-      "image_url": "https://polyend-website.fra1.digitaloceanspaces.com/wp-content/uploads/2026/11/02162002/tracker-1.jpeg",
-      "summary_en": "Polyend released the firmware source code for the original Tracker, Tracker+, and Tracker Mini on GitHub. It also released Tracker Community Edition 1.0 with new features and improvements, allowing users to modify and share firmware. A recovery system is included to reduce the risk of a faulty build bricking the instruments.",
-      "summary_zh": "Polyend 已在 GitHub 发布原版 Tracker、Tracker+ 和 Tracker Mini 的固件源代码。同时发布的 Tracker Community Edition 1.0 包含大量新功能和改进，用户可以修改并分享自己的固件版本。系统还加入了恢复机制，以降低错误固件导致设备变砖的风险。",
-      "hn": {
-        "id": 50340159,
-        "type": "story",
-        "by": "austinallegro",
-        "score": 150,
-        "descendants": 67,
-        "time": 1793640013,
-        "comments_url": "https://news.ycombinator.com/item?id=50340159"
-      },
-      "tags": [
-        "Open Source",
-        "Hardware",
-        "Programming"
-      ],
-      "hot_score": 0.44
+      "hot_score": 0.36
     },
     {
       "title_en": "An Italian farmer found some unknown seeds in his attic and planted them",
@@ -965,7 +584,7 @@
         "id": 50320963,
         "type": "story",
         "by": "ecares",
-        "score": 869,
+        "score": 870,
         "descendants": 236,
         "time": 1793486466,
         "comments_url": "https://news.ycombinator.com/item?id=50320963"
@@ -973,246 +592,126 @@
       "tags": [
         "Science"
       ],
-      "hot_score": 0.43
+      "hot_score": 0.31
     },
     {
-      "title_en": "Show HN: I built a little browser game to practice Vim commands",
-      "url": "https://hjkl.duy.run",
-      "title_zh": "Show HN：我做了一个练习 Vim 命令的小型浏览器游戏",
+      "title_en": "Lenovo's 'encrypted' fingerprint USB is just an unencrypted SD card in a case",
+      "url": "https://www.reddit.com/r/technology/comments/1xl2pr3/lenovos_encrypted_fingerprint_usb_drive_is_just/",
+      "title_zh": "联想所谓的“加密”指纹 USB，其实只是装在外壳里的未加密 SD 卡",
       "is_new": false,
-      "created_display": "Created: Nov 02, 2026 / 19:10 PT",
-      "image_url": "https://hjkl.duy.run/og.png",
-      "summary_en": "The browser game hjkl is designed to help players remember Vim commands while relaxing. The creator says more commands are planned for future additions.",
-      "summary_zh": "浏览器游戏 hjkl 旨在让玩家在放松时练习并记住 Vim 命令。作者表示，未来还计划加入更多命令。",
-      "hn": {
-        "id": 50347552,
-        "type": "story",
-        "by": "dh1011",
-        "score": 61,
-        "descendants": 46,
-        "time": 1793675404,
-        "comments_url": "https://news.ycombinator.com/item?id=50347552"
-      },
-      "tags": [
-        "Show HN",
-        "Programming",
-        "Web"
-      ],
-      "hot_score": 0.42
-    },
-    {
-      "title_en": "Bones may release proteins that slow aging and extend life span",
-      "url": "https://www.science.org/content/article/bones-may-release-proteins-slow-aging-and-extend-life-span",
-      "title_zh": "骨骼可能释放减缓衰老并延长寿命的蛋白质",
-      "is_new": false,
-      "created_display": "Created: Nov 01, 2026 / 17:31 PT",
+      "created_display": "Created: Nov 01, 2026 / 06:34 PT",
       "image_url": null,
-      "summary_en": "Bones may release proteins that slow aging and extend life span. The title presents this as a possible biological finding without identifying the proteins or describing confirmed effects.",
-      "summary_zh": "骨骼可能会释放能够减缓衰老并延长寿命的蛋白质。标题将其描述为一种可能的生物学发现，但未说明具体蛋白质或已确认的效果。",
+      "summary_en": "The title alleges that Lenovo’s fingerprint-protected USB device is not an encrypted drive, but an unencrypted SD card placed inside a casing. It identifies a potential mismatch between the product’s security description and its underlying storage design.",
+      "summary_zh": "标题指称，联想这款受指纹保护的 USB 设备并非加密硬盘，而只是装在外壳中的未加密 SD 卡。这表明产品的安全描述可能与其底层存储设计不一致。",
       "hn": {
-        "id": 50331957,
+        "id": 50326099,
         "type": "story",
-        "by": "EA-3167",
-        "score": 332,
-        "descendants": 134,
-        "time": 1793583067,
-        "comments_url": "https://news.ycombinator.com/item?id=50331957"
-      },
-      "tags": [
-        "Health"
-      ],
-      "hot_score": 0.41
-    },
-    {
-      "title_en": "Show HN: I've updated my Linux System Call website and API",
-      "url": "https://syscall.sh/",
-      "title_zh": "Show HN：我更新了 Linux 系统调用网站和 API",
-      "is_new": false,
-      "created_display": "Created: Nov 02, 2026 / 01:29 PT",
-      "image_url": "https://syscall.sh/og.png",
-      "summary_en": "The Linux system-call website and API, first released in 2020, now support more architectures, kernel selection, syscall descriptions, and other improvements. The site has also been adjusted to work better on mobile devices. The API is available separately.",
-      "summary_zh": "这个 Linux 系统调用网站和 API 于 2020 年首次发布，如今新增了更多架构、内核选择、系统调用说明及其他改进。网站也进行了调整，以便在移动设备上更好地使用。项目还单独提供了 API。",
-      "hn": {
-        "id": 50334704,
-        "type": "story",
-        "by": "guitmz",
-        "score": 226,
-        "descendants": 53,
-        "time": 1793611756,
-        "comments_url": "https://news.ycombinator.com/item?id=50334704"
-      },
-      "tags": [
-        "Show HN",
-        "Programming"
-      ],
-      "hot_score": 0.41
-    },
-    {
-      "title_en": "SLAC researchers find proof of altermagnetism, a new magnetic phase",
-      "url": "https://www6.slac.stanford.edu/news/2026-10-29-slac-researchers-find-proof-altermagnetism-new-magnetic-phase",
-      "title_zh": "SLAC 研究人员找到交错磁性的证据，这是一种新的磁性相",
-      "is_new": false,
-      "created_display": "Created: Nov 02, 2026 / 13:42 PT",
-      "image_url": "https://www6.slac.stanford.edu/sites/default/files/styles/extra_large_card/public/2026-07/altermagnetism_la_v06.jpg?h=d14915d2&itok=ysTK99rN",
-      "summary_en": "A team led by SLAC researchers reports direct observation of a distinctive property in an altermagnetic candidate material. Published findings provide experimental evidence for altermagnetism as a third magnetic phase alongside ferromagnetism and antiferromagnetism. The researchers say the phase combines properties associated with the two established classes.",
-      "summary_zh": "由 SLAC 研究人员领导的团队报告称，他们在一种交错磁性候选材料中直接观察到了独特性质。论文结果为交错磁性作为铁磁性和反铁磁性之外的第三种磁性相提供了实验证据。研究人员表示，这种磁性相兼具两类既有磁性的部分特征。",
-      "hn": {
-        "id": 50344224,
-        "type": "story",
-        "by": "gmays",
-        "score": 96,
-        "descendants": 12,
-        "time": 1793655745,
-        "comments_url": "https://news.ycombinator.com/item?id=50344224"
-      },
-      "tags": [
-        "Science"
-      ],
-      "hot_score": 0.39
-    },
-    {
-      "title_en": "Apple reports fourth quarter results",
-      "url": "https://www.apple.com/newsroom/2026/11/apple-reports-fourth-quarter-results/",
-      "title_zh": "苹果公布第四季度业绩",
-      "is_new": false,
-      "created_display": "Created: Nov 02, 2026 / 14:13 PT",
-      "image_url": "https://www.apple.com/newsroom/images/default/apple-logo-og.jpg?202611022220",
-      "summary_en": "Apple announced financial results for its fiscal 2026 fourth quarter, which ended on September 26, 2026.",
-      "summary_zh": "苹果公布了截至 2026 年 9 月 26 日的 2026 财年第四季度财务业绩。",
-      "hn": {
-        "id": 50344670,
-        "type": "story",
-        "by": "mfiguiere",
-        "score": 90,
-        "descendants": 106,
-        "time": 1793657622,
-        "comments_url": "https://news.ycombinator.com/item?id=50344670"
-      },
-      "tags": [
-        "Business",
-        "Finance"
-      ],
-      "hot_score": 0.38
-    },
-    {
-      "title_en": "Mathematics has changed. Let's act like it",
-      "url": "https://terrytao.wordpress.com/2026/11/01/mathematics-has-changed-lets-act-like-it/",
-      "title_zh": "数学已经改变了，我们应当以行动回应",
-      "is_new": false,
-      "created_display": "Created: Nov 01, 2026 / 10:28 PT",
-      "image_url": "https://secure.gravatar.com/blavatar/bd4bda4207561b6998f10dec44b570f04ff4072b20f89162d525b186dfca3e49?s=200&ts=1793616303",
-      "summary_en": "This guest post by Frank Calegari examines changes in mathematics and argues for responding to them. The post was converted from another file format with AI assistance.",
-      "summary_zh": "这篇 Frank Calegari 撰写的客座文章讨论数学领域正在发生的变化，并主张采取相应行动。文章由其他文件格式转换而来，过程中使用了 AI。",
-      "hn": {
-        "id": 50328251,
-        "type": "story",
-        "by": "smilelamp",
-        "score": 388,
-        "descendants": 500,
-        "time": 1793557722,
-        "comments_url": "https://news.ycombinator.com/item?id=50328251"
-      },
-      "tags": [
-        "Science",
-        "AI"
-      ],
-      "hot_score": 0.36
-    },
-    {
-      "title_en": "Ballot Rejections Have Soared in Rural Counties as USPS Reduces Mail Service",
-      "url": "https://www.propublica.org/article/mail-ballot-delays-postal-service-midterms",
-      "title_zh": "美国邮政减少服务后，农村县的选票拒收激增",
-      "is_new": false,
-      "created_display": "Created: Nov 02, 2026 / 10:48 PT",
-      "image_url": "https://www.propublica.org/wp-content/uploads/2026/10/RuralVotingBallots-Bose7021_preview_maxWidth_3000_maxHeight_3000_ppi_72_embedColorProfile_true_quality_95.jpg?resize=2000,1334",
-      "summary_en": "A ProPublica data analysis found that postal delays caused by cost-cutting measures endangered the validity of ballots mailed from rural areas. Counties that voted for Trump in 2024 were affected most heavily. Election workers near Spokane, Washington, checked the post office three days after a primary while waiting for late ballots.",
-      "summary_zh": "ProPublica 的数据分析发现，削减成本措施造成的邮政延误，危及农村地区邮寄选票的有效性。2024 年投票支持特朗普的县受到的影响最严重。在华盛顿州斯波坎以北，选举工作人员在初选后三天前往邮局，等待迟到的邮寄选票。",
-      "hn": {
-        "id": 50341616,
-        "type": "story",
-        "by": "ck2",
-        "score": 110,
-        "descendants": 75,
-        "time": 1793645280,
-        "comments_url": "https://news.ycombinator.com/item?id=50341616"
-      },
-      "tags": [
-        "Politics"
-      ],
-      "hot_score": 0.36
-    },
-    {
-      "title_en": "WorkOS reports security breach",
-      "url": "https://news.ycombinator.com/item?id=50345712",
-      "title_zh": "WorkOS 报告安全漏洞事件",
-      "is_new": false,
-      "created_display": "Created: Nov 02, 2026 / 15:30 PT",
-      "image_url": null,
-      "summary_en": "WorkOS detected anomalous traffic to an internal business system on October 30, 2026, and says an attacker accessed an internal API used by sales and marketing tools. The API exposed data from Salesforce and Snowflake, including business contacts, account and commercial information, usage metrics, marketing contacts, and support tickets. The investigation identified evidence that the attack was likely driven by the AI-assisted autonomous penetration-testing framework ARTEX, but the available notice is truncated before stating the full impact on application data.",
-      "summary_zh": "WorkOS 于 2026 年 10 月 30 日发现内部业务系统存在异常流量，并称攻击者进入了供销售和营销工具使用的内部 API。该 API 可访问 Salesforce 和 Snowflake 中的业务联系人、账户与商业信息、使用指标、营销联系人及支持工单等数据。调查发现证据表明，攻击可能由 AI 辅助的自主渗透测试框架 ARTEX 发起，但现有通知在说明对应用数据的完整影响前已经截断。",
-      "hn": {
-        "id": 50345712,
-        "type": "story",
-        "by": "werrett",
-        "score": 76,
-        "descendants": 10,
-        "time": 1793662259,
-        "comments_url": "https://news.ycombinator.com/item?id=50345712"
+        "by": "entryleveljobsc",
+        "score": 576,
+        "descendants": 177,
+        "time": 1793543683,
+        "comments_url": "https://news.ycombinator.com/item?id=50326099"
       },
       "tags": [
         "Security",
-        "Privacy",
-        "AI"
+        "Hardware"
       ],
-      "hot_score": 0.36
+      "hot_score": 0.3
     },
     {
-      "title_en": "Never Complain, Never Explain",
-      "url": "https://en.wikipedia.org/wiki/Never_complain,_never_explain",
-      "title_zh": "永不抱怨，永不解释",
+      "title_en": "Ask HN: Who is hiring? (November 2026)",
+      "url": "https://news.ycombinator.com/item?id=50338728",
+      "title_zh": "Ask HN：谁在招聘？（2026 年 11 月）",
       "is_new": false,
-      "created_display": "Created: Nov 02, 2026 / 03:55 PT",
-      "image_url": "https://en.wikipedia.org/static/images/icons/enwiki-25.svg",
-      "summary_en": "“Never complain, never explain” is a public-relations strategy particularly associated with the British royal family. The phrase is often attributed to former British prime minister Benjamin Disraeli, though its documented origins trace to Benjamin Jowett's earlier maxims.",
-      "summary_zh": "“永不抱怨，永不解释”是一种尤其与英国王室联系在一起的公共关系策略。这句话常被归于英国前首相本杰明·迪斯雷利，但有文献记录的源头可追溯到本杰明·乔伊特更早提出的格言。",
+      "created_display": "Created: Nov 02, 2026 / 08:01 PT",
+      "image_url": null,
+      "summary_en": "This monthly hiring thread asks companies to post active openings while specifying location and remote-work status. Posts must come from someone personally involved in hiring, and recruiting firms and job boards are excluded.",
+      "summary_zh": "这个月度招聘帖邀请企业发布正在招聘的职位，并注明地点和远程办公状态。发帖者必须本人参与招聘，招聘公司和招聘信息板不得发布职位。",
       "hn": {
-        "id": 50335659,
+        "id": 50338728,
         "type": "story",
-        "by": "gregsadetsky",
-        "score": 170,
-        "descendants": 68,
-        "time": 1793620548,
-        "comments_url": "https://news.ycombinator.com/item?id=50335659"
+        "by": "whoishiring",
+        "score": 243,
+        "descendants": 228,
+        "time": 1793635297,
+        "comments_url": "https://news.ycombinator.com/item?id=50338728"
+      },
+      "tags": [
+        "Career"
+      ],
+      "hot_score": 0.3
+    },
+    {
+      "title_en": "Ask HN: Does anyone have a contact with Cleveland-area Ham club?",
+      "url": "https://news.ycombinator.com/item?id=50346164",
+      "title_zh": "Ask HN：有人认识克利夫兰地区业余无线电俱乐部的人吗？",
+      "is_new": false,
+      "created_display": "Created: Nov 02, 2026 / 16:09 PT",
+      "image_url": null,
+      "summary_en": "The poster is seeking a contact at the Cuyahoga Amateur Radio Club about removing a large collection of radio equipment from a home. Much of the equipment is reportedly new, and it may be discarded if no one arranges its removal.",
+      "summary_zh": "发帖人希望联系库亚霍加业余无线电俱乐部的人，以处理一批需要从住宅中搬走的无线电设备。据称其中许多设备是全新的，如果无人处理，可能会被当作垃圾丢弃。",
+      "hn": {
+        "id": 50346164,
+        "type": "story",
+        "by": "stockresearcher",
+        "score": 163,
+        "descendants": 23,
+        "time": 1793664576,
+        "comments_url": "https://news.ycombinator.com/item?id=50346164"
       },
       "tags": [
         "Culture"
       ],
-      "hot_score": 0.35
+      "hot_score": 0.29
     },
     {
-      "title_en": "Skill to Create Product Videos",
-      "url": "https://github.com/aaitor/skill-video-studio",
-      "title_zh": "创建产品视频的技能",
+      "title_en": "Oracle files to sell $20B in new stock, bonds to finance AI buildout",
+      "url": "https://www.cnbc.com/2026/11/02/oracle-files-to-sell-20-billion-in-new-stock-bonds-to-finance-ai-buildout.html",
+      "title_zh": "甲骨文拟发行 200 亿美元新股和债券，为 AI 扩张融资",
       "is_new": false,
-      "created_display": "Created: Nov 02, 2026 / 10:10 PT",
-      "image_url": "https://opengraph.githubassets.com/7e6e943fef7011a60fc482c32ffb97312a10479edc6af2521834be67409f7418/aaitor/skill-video-studio",
-      "summary_en": "This project is a Claude Code skill for creating product videos. It supports real-browser capture, branded composition, and local mastering, and includes a quick start, worked videos, and usage instructions.",
-      "summary_zh": "这是一个用于制作产品视频的 Claude Code 技能。它支持真实浏览器录制、品牌化合成和本地母版制作，并提供快速入门、示例视频和使用说明。",
+      "created_display": "Created: Nov 02, 2026 / 11:27 PT",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108468745-1793103926982-gettyimages-2234722679-_73a3321_cmlbiuj4.jpeg?v=1793642583&w=1920&h=1080",
+      "summary_en": "Oracle filed plans to issue new shares and additional debt. The proceeds are intended to finance the company's artificial-intelligence buildout.",
+      "summary_zh": "甲骨文提交了发行新股和新增债务的计划。筹集资金将用于为公司的人工智能扩张融资。",
       "hn": {
-        "id": 50340992,
+        "id": 50342284,
         "type": "story",
-        "by": "aaitor",
-        "score": 113,
-        "descendants": 35,
-        "time": 1793643039,
-        "comments_url": "https://news.ycombinator.com/item?id=50340992"
+        "by": "smartmic",
+        "score": 197,
+        "descendants": 173,
+        "time": 1793647657,
+        "comments_url": "https://news.ycombinator.com/item?id=50342284"
       },
       "tags": [
-        "Programming",
-        "AI",
-        "Web"
+        "Business",
+        "Finance",
+        "AI"
       ],
-      "hot_score": 0.35
+      "hot_score": 0.28
+    },
+    {
+      "title_en": "My Favourite Laptop",
+      "url": "https://blog.jsbarretto.com/post/laptop",
+      "title_zh": "我最喜欢的笔记本电脑",
+      "is_new": false,
+      "created_display": "Created: Nov 02, 2026 / 08:59 PT",
+      "image_url": "https://blog.jsbarretto.com/static/img/profile.jpg",
+      "summary_en": "The author calls a battered 2015 ThinkPad X250 the best laptop they have owned. It is shown running a graphical shell on top of a microkernel the author is developing.",
+      "summary_zh": "作者称，一台磨损严重的 2015 年 ThinkPad X250 是自己用过的最好笔记本电脑。文章展示了它运行在作者正在开发的微内核之上的图形 Shell。",
+      "hn": {
+        "id": 50339815,
+        "type": "story",
+        "by": "ibobev",
+        "score": 202,
+        "descendants": 159,
+        "time": 1793638797,
+        "comments_url": "https://news.ycombinator.com/item?id=50339815"
+      },
+      "tags": [
+        "Hardware",
+        "Programming"
+      ],
+      "hot_score": 0.26
     },
     {
       "title_en": "TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8",
@@ -1227,87 +726,349 @@
         "id": 50319143,
         "type": "story",
         "by": "oger",
-        "score": 745,
-        "descendants": 332,
+        "score": 747,
+        "descendants": 333,
         "time": 1793474190,
         "comments_url": "https://news.ycombinator.com/item?id=50319143"
       },
       "tags": [
         "Security"
       ],
-      "hot_score": 0.34
+      "hot_score": 0.25
     },
     {
-      "title_en": "Agentic backdoors via pretraining poisoning",
-      "url": "https://arxiv.org/abs/2610.37741",
-      "title_zh": "通过预训练投毒植入智能体后门",
+      "title_en": "Egoless Mathematics in the AI Era",
+      "url": "https://terrytao.wordpress.com/2026/11/02/egoless-mathematics-in-the-ai-era/",
+      "title_zh": "AI 时代的无我数学",
       "is_new": false,
-      "created_display": "Created: Nov 02, 2026 / 10:30 PT",
-      "image_url": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
-      "summary_en": "Researchers show that poisoned pretraining data can implant a remote-code-execution backdoor in an LLM-based agent. In experiments with Qwen3 models, poisoning just 0.1% of the corpus produced a backdoor, and the 4B model reached about 92% attack success when the trigger was present. The backdoor remained effective at a poisoning rate of 0.0005%, demonstrating a risk from uncurated web-scale training data.",
-      "summary_zh": "研究人员证明，经过投毒的预训练数据可以在基于大语言模型的智能体中植入远程代码执行后门。在 Qwen3 模型实验中，仅污染 0.1% 的语料就能植入后门；触发条件出现时，4B 模型的攻击成功率约为 92%。即使投毒比例降至 0.0005%，后门仍保持有效，显示出未经筛选的网络训练数据带来的风险。",
+      "created_display": "Created: Nov 02, 2026 / 10:54 PT",
+      "image_url": "https://secure.gravatar.com/blavatar/bd4bda4207561b6998f10dec44b570f04ff4072b20f89162d525b186dfca3e49?s=200&ts=1793701241",
+      "summary_en": "This guest essay considers mathematics in the era of AI. It is credited to Karthik C. S., Amit Sahai, and Jie Xue, and was initially written in another format before being converted with AI.",
+      "summary_zh": "这篇客座文章探讨了 AI 时代的数学。文章作者为 Karthik C. S.、Amit Sahai 和 Jie Xue，最初以另一种文件格式撰写，之后通过 AI 完成转换。",
       "hn": {
-        "id": 50341334,
+        "id": 50341736,
         "type": "story",
-        "by": "gmays",
-        "score": 106,
-        "descendants": 30,
-        "time": 1793644258,
-        "comments_url": "https://news.ycombinator.com/item?id=50341334"
+        "by": "smilelamp",
+        "score": 182,
+        "descendants": 153,
+        "time": 1793645684,
+        "comments_url": "https://news.ycombinator.com/item?id=50341736"
       },
       "tags": [
         "AI",
-        "Security"
+        "Science"
       ],
-      "hot_score": 0.34
+      "hot_score": 0.25
     },
     {
-      "title_en": "Open-Source 5G Ran Platforms: A Dual Perspective on Performance and Capabilities",
-      "url": "https://arxiv.org/abs/2608.25820",
-      "title_zh": "开源 5G RAN 平台：性能与能力的双重视角",
+      "title_en": "Bones may release proteins that slow aging and extend life span",
+      "url": "https://www.science.org/content/article/bones-may-release-proteins-slow-aging-and-extend-life-span",
+      "title_zh": "骨骼可能释放减缓衰老并延长寿命的蛋白质",
       "is_new": false,
-      "created_display": "Created: Nov 02, 2026 / 18:58 PT",
-      "image_url": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
-      "summary_en": "The paper compares the open-source 5G RAN platforms OpenAirInterface and srsRAN. Its evaluation covers supported features and deployment flexibility, along with radio-resource-control setup, theoretical data rates, and real workloads such as video on demand, live streaming, and cloud gaming. The study varies software-defined radios, RAN configurations, and numbers of real user devices to address gaps in earlier comparisons.",
-      "summary_zh": "论文比较了 OpenAirInterface 和 srsRAN 这两个开源 5G RAN 平台。评估内容包括支持的功能与部署灵活性，以及无线资源控制建立流程、理论数据速率和视频点播、直播、云游戏等真实负载。研究还改变软件定义无线电、RAN 配置和真实用户设备数量，以弥补早期比较覆盖不足的问题。",
+      "created_display": "Created: Nov 01, 2026 / 17:31 PT",
+      "image_url": null,
+      "summary_en": "Bones may release proteins that slow aging and extend life span. The title presents this as a possible biological finding without identifying the proteins or describing confirmed effects.",
+      "summary_zh": "骨骼可能会释放能够减缓衰老并延长寿命的蛋白质。标题将其描述为一种可能的生物学发现，但未说明具体蛋白质或已确认的效果。",
       "hn": {
-        "id": 50347464,
+        "id": 50331957,
         "type": "story",
-        "by": "teleforce",
-        "score": 50,
-        "descendants": 5,
-        "time": 1793674724,
-        "comments_url": "https://news.ycombinator.com/item?id=50347464"
+        "by": "EA-3167",
+        "score": 337,
+        "descendants": 135,
+        "time": 1793583067,
+        "comments_url": "https://news.ycombinator.com/item?id=50331957"
+      },
+      "tags": [
+        "Health"
+      ],
+      "hot_score": 0.24
+    },
+    {
+      "title_en": "Mathematics has changed. Let's act like it",
+      "url": "https://terrytao.wordpress.com/2026/11/01/mathematics-has-changed-lets-act-like-it/",
+      "title_zh": "数学已经改变了，我们应当以行动回应",
+      "is_new": false,
+      "created_display": "Created: Nov 01, 2026 / 10:28 PT",
+      "image_url": "https://secure.gravatar.com/blavatar/bd4bda4207561b6998f10dec44b570f04ff4072b20f89162d525b186dfca3e49?s=200&ts=1793616303",
+      "summary_en": "This guest post by Frank Calegari examines changes in mathematics and argues for responding to them. The post was converted from another file format with AI assistance.",
+      "summary_zh": "这篇 Frank Calegari 撰写的客座文章讨论数学领域正在发生的变化，并主张采取相应行动。文章由其他文件格式转换而来，过程中使用了 AI。",
+      "hn": {
+        "id": 50328251,
+        "type": "story",
+        "by": "smilelamp",
+        "score": 391,
+        "descendants": 512,
+        "time": 1793557722,
+        "comments_url": "https://news.ycombinator.com/item?id=50328251"
+      },
+      "tags": [
+        "Science",
+        "AI"
+      ],
+      "hot_score": 0.23
+    },
+    {
+      "title_en": "Moving our warehouse off DuckDB",
+      "url": "https://posthog.com/blog/moving-off-duckdb",
+      "title_zh": "让我们的数据仓库迁离 DuckDB",
+      "is_new": false,
+      "created_display": "Created: Nov 02, 2026 / 08:02 PT",
+      "image_url": "https://res.cloudinary.com/dmukukwp6/image/upload/moving_off_duckdb_4c95538aac.png",
+      "summary_en": "PostHog moved its data warehouse away from DuckDB and DuckLake to an in-house variant of Trino and a new open table format called HogLake. The post focuses on what broke at scale and why the migration was undertaken.",
+      "summary_zh": "PostHog 将数据仓库从 DuckDB 和 DuckLake 迁移到自有的 Trino 变体，以及新的开放表格式 HogLake。文章重点介绍了系统扩展到一定规模后出现的问题，以及迁移的原因。",
+      "hn": {
+        "id": 50338747,
+        "type": "story",
+        "by": "emschwartz",
+        "score": 185,
+        "descendants": 119,
+        "time": 1793635346,
+        "comments_url": "https://news.ycombinator.com/item?id=50338747"
+      },
+      "tags": [
+        "Data",
+        "Open Source"
+      ],
+      "hot_score": 0.23
+    },
+    {
+      "title_en": "LLMs are not superhuman at reading and writing neural network weights",
+      "url": "https://www.seangoedecke.com/llms-are-not-superhuman-at-reading-and-writing-neural-network-weights/",
+      "title_zh": "LLM 并没有超越人类地读写神经网络权重",
+      "is_new": false,
+      "created_display": "Created: Nov 02, 2026 / 14:26 PT",
+      "image_url": "https://www.seangoedecke.com/llms-are-not-superhuman-at-reading-and-writing-neural-network-weights/J3JiNrBTkY-590.png",
+      "summary_en": "The source challenges claims that frontier LLMs are superhuman at manipulating neural-network weights. GPT-6 Astra can identify the games a small network was trained to play from its weights and modify those weights, and it significantly improved the mathematical ability of a 0.8B Qwen model by editing them directly. The author notes that such model-improvement capabilities could be relevant to recursive self-improvement.",
+      "summary_zh": "资料质疑前沿大语言模型在操作神经网络权重方面已经超越人类的说法。GPT-6 Astra 能根据小型网络的权重判断其训练的游戏，并直接修改这些权重；它还通过编辑权重显著提升了 0.8B Qwen 模型的数学能力。作者指出，这类改进模型的能力可能与递归自我改进有关。",
+      "hn": {
+        "id": 50344861,
+        "type": "story",
+        "by": "agrm",
+        "score": 142,
+        "descendants": 22,
+        "time": 1793658413,
+        "comments_url": "https://news.ycombinator.com/item?id=50344861"
+      },
+      "tags": [
+        "AI"
+      ],
+      "hot_score": 0.23
+    },
+    {
+      "title_en": "Show HN: I've updated my Linux System Call website and API",
+      "url": "https://syscall.sh/",
+      "title_zh": "Show HN：我更新了 Linux 系统调用网站和 API",
+      "is_new": false,
+      "created_display": "Created: Nov 02, 2026 / 01:29 PT",
+      "image_url": "https://syscall.sh/og.png",
+      "summary_en": "The Linux system-call website and API, first released in 2020, now support more architectures, kernel selection, syscall descriptions, and other improvements. The site has also been adjusted to work better on mobile devices. The API is available separately.",
+      "summary_zh": "这个 Linux 系统调用网站和 API 于 2020 年首次发布，如今新增了更多架构、内核选择、系统调用说明及其他改进。网站也进行了调整，以便在移动设备上更好地使用。项目还单独提供了 API。",
+      "hn": {
+        "id": 50334704,
+        "type": "story",
+        "by": "guitmz",
+        "score": 231,
+        "descendants": 55,
+        "time": 1793611756,
+        "comments_url": "https://news.ycombinator.com/item?id=50334704"
+      },
+      "tags": [
+        "Show HN",
+        "Programming"
+      ],
+      "hot_score": 0.22
+    },
+    {
+      "title_en": "We halved DNS build delay and cut memory use by 85%",
+      "url": "https://blog.cloudflare.com/dns-targeted-zone-builds/",
+      "title_zh": "DNS 构建延迟减半，内存占用降低 85%",
+      "is_new": false,
+      "created_display": "Created: Nov 02, 2026 / 06:47 PT",
+      "image_url": "https://blog.cloudflare.com/_emdash/api/media/file/01M6426V7J1FR4KZEYMQP555R0.01M6426VZJHB2XCKTQ39W2S71Z.png",
+      "summary_en": "Cloudflare built a planner that selects the smallest safe DNS build instead of rebuilding entire zones after every setting change. The change cut full builds by 40%, peak memory use by 85%, and build delay by half. The system now handles about 700 DNS record changes per second, while some zones contain more than 20 million records.",
+      "summary_zh": "Cloudflare 构建了一个规划器，在 DNS 设置变更后选择最小且安全的构建范围，而不是重建整个区域。该方案使完整构建减少 40%，峰值内存占用降低 85%，构建延迟减半。系统目前每秒处理约 700 次 DNS 记录变更，部分区域包含超过 2,000 万条记录。",
+      "hn": {
+        "id": 50337558,
+        "type": "story",
+        "by": "wondersky",
+        "score": 193,
+        "descendants": 80,
+        "time": 1793630848,
+        "comments_url": "https://news.ycombinator.com/item?id=50337558"
+      },
+      "tags": [
+        "Programming",
+        "DevOps"
+      ],
+      "hot_score": 0.22
+    },
+    {
+      "title_en": "Jobless tech workers are being left out of San Francisco's AI boom",
+      "url": "https://www.bloomberg.com/news/features/2026-09-17/san-francisco-s-ai-wealth-boom-skirts-engineers-as-openai-anthropic-ipos-near",
+      "title_zh": "失业的科技工作者被排除在旧金山的 AI 繁荣之外",
+      "is_new": false,
+      "created_display": "Created: Nov 02, 2026 / 06:40 PT",
+      "image_url": null,
+      "summary_en": "The piece concerns unemployed technology workers being left out of San Francisco's AI-driven economic boom.",
+      "summary_zh": "文章关注失业科技工作者被排除在旧金山由 AI 推动的经济繁荣之外。",
+      "hn": {
+        "id": 50337454,
+        "type": "story",
+        "by": "mancerayder",
+        "score": 188,
+        "descendants": 256,
+        "time": 1793630405,
+        "comments_url": "https://news.ycombinator.com/item?id=50337454"
+      },
+      "tags": [
+        "Business",
+        "Career",
+        "AI"
+      ],
+      "hot_score": 0.22
+    },
+    {
+      "title_en": "No Vehicles in the Park",
+      "url": "https://novehiclesinthepark.com/",
+      "title_zh": "公园内禁止车辆",
+      "is_new": false,
+      "created_display": "Created: Nov 03, 2026 / 01:21 PT",
+      "image_url": null,
+      "summary_en": "This is a language-and-rules game consisting of 27 questions. Players can skip to the end after completing the first seven questions, where they receive a comparison of their results with those of other players and an explanation of the game's design.",
+      "summary_zh": "这是一款围绕语言和规则设计的游戏，共有 27 道题。完成前七题后，玩家可以直接跳到结尾；结尾会比较玩家与其他人的成绩，并解释游戏的设计思路。",
+      "hn": {
+        "id": 50349784,
+        "type": "story",
+        "by": "n_plus_1_acc",
+        "score": 66,
+        "descendants": 92,
+        "time": 1793697674,
+        "comments_url": "https://news.ycombinator.com/item?id=50349784"
+      },
+      "tags": [
+        "Gaming"
+      ],
+      "hot_score": 0.21
+    },
+    {
+      "title_en": "Postgres 19 is late because so many more bugs are being found now",
+      "url": "http://rhaas.blogspot.com/2026/10/postgres-19-is-late-and-its-ais-fault.html",
+      "title_zh": "Postgres 19 因发现的错误大幅增加而延期",
+      "is_new": false,
+      "created_display": "Created: Oct 30, 2026 / 18:38 PT",
+      "image_url": null,
+      "summary_en": "Postgres 19 is late because many more bugs are being found during development. The title identifies the delay and attributes it to the increased discovery of defects.",
+      "summary_zh": "Postgres 19 的发布出现延期，原因是开发过程中发现的错误数量大幅增加。标题将这次延迟归因于缺陷发现增多。",
+      "hn": {
+        "id": 50312408,
+        "type": "story",
+        "by": "soheilpro",
+        "score": 844,
+        "descendants": 511,
+        "time": 1793410736,
+        "comments_url": "https://news.ycombinator.com/item?id=50312408"
+      },
+      "tags": [
+        "Programming"
+      ],
+      "hot_score": 0.2
+    },
+    {
+      "title_en": "Launch HN: Momentic (YC W24) – Agents that catch bugs by using your app",
+      "url": "https://momentic.ai/",
+      "title_zh": "Launch HN：Momentic——通过操作应用来发现漏洞的智能体",
+      "is_new": false,
+      "created_display": "Created: Nov 02, 2026 / 09:05 PT",
+      "image_url": "https://momentic.ai/images/og/home.png",
+      "summary_en": "Momentic is building QA agents that autonomously plan, explore, and test user flows in web, iOS, Android, and eventually desktop applications. The founders argue that conventional end-to-end tools require tests to hardcode implementation details such as XPath, text, or ARIA attributes, making them costly to maintain. Their approach is intended to use agents for broader bug-finding and visual understanding.",
+      "summary_zh": "Momentic 正在开发 QA 智能体，让其自主规划、探索并测试 Web、iOS、Android 以及未来桌面应用中的用户流程。创始人认为，传统端到端工具要求测试硬编码 XPath、文本或 ARIA 属性等实现细节，因此维护成本较高。这套方案希望利用智能体进行更广泛的找错和视觉理解。",
+      "hn": {
+        "id": 50339913,
+        "type": "story",
+        "by": "wuweiweiwu",
+        "score": 159,
+        "descendants": 125,
+        "time": 1793639125,
+        "comments_url": "https://news.ycombinator.com/item?id=50339913"
+      },
+      "tags": [
+        "AI",
+        "Programming",
+        "Startups"
+      ],
+      "hot_score": 0.2
+    },
+    {
+      "title_en": "Polyend releases the Tracker firmware source code",
+      "url": "https://polyend.com/whats-up/tracker-the-biggest-update-yet/",
+      "title_zh": "Polyend 发布 Tracker 固件源代码",
+      "is_new": false,
+      "created_display": "Created: Nov 02, 2026 / 09:20 PT",
+      "image_url": "https://polyend-website.fra1.digitaloceanspaces.com/wp-content/uploads/2026/11/02162002/tracker-1.jpeg",
+      "summary_en": "Polyend released the firmware source code for the original Tracker, Tracker+, and Tracker Mini on GitHub. It also released Tracker Community Edition 1.0 with new features and improvements, allowing users to modify and share firmware. A recovery system is included to reduce the risk of a faulty build bricking the instruments.",
+      "summary_zh": "Polyend 已在 GitHub 发布原版 Tracker、Tracker+ 和 Tracker Mini 的固件源代码。同时发布的 Tracker Community Edition 1.0 包含大量新功能和改进，用户可以修改并分享自己的固件版本。系统还加入了恢复机制，以降低错误固件导致设备变砖的风险。",
+      "hn": {
+        "id": 50340159,
+        "type": "story",
+        "by": "austinallegro",
+        "score": 152,
+        "descendants": 74,
+        "time": 1793640013,
+        "comments_url": "https://news.ycombinator.com/item?id=50340159"
       },
       "tags": [
         "Open Source",
-        "Gaming"
+        "Hardware",
+        "Programming"
       ],
-      "hot_score": 0.34
+      "hot_score": 0.2
     },
     {
-      "title_en": "Open models can do 90 percent of agentic work at a twentieth of the cost",
-      "url": "https://www.theregister.com/ai-and-ml/2026/11/03/open-models-can-do-90-percent-of-agentic-work-at-a-twentieth-of-the-cost-of-a-frontier-llm-gartner/5307132",
-      "title_zh": "开源模型能以二十分之一的成本完成 90% 的智能体工作",
+      "title_en": "Sneaking into the auditorium for the Windows 2000 launch rehearsal",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20261102-00/?p=112818/",
+      "title_zh": "偷偷溜进 Windows 2000 发布彩排现场",
       "is_new": false,
-      "created_display": "Created: Nov 02, 2026 / 23:46 PT",
-      "image_url": "https://image.theregister.com/5307139.jpg?imageId=5307139&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
-      "summary_en": "Gartner estimates that nine out of ten agent-workflow steps are routine and can be handled at parity by open-weight models. The firm says these models cost about one-quarter as much as the cheapest closed model, while model makers may compete for the remaining 10% of more valuable steps. The analysis argues that agent harnesses may be more valuable than the underlying models.",
-      "summary_zh": "Gartner 估计，智能体工作流中十分之九的步骤属于常规任务，开放权重模型可以达到同等效果。该机构称，这些模型的成本约为最便宜闭源模型的四分之一，而模型厂商可能会争夺剩余 10% 的高价值步骤。分析认为，智能体运行框架可能比底层模型更有价值。",
+      "created_display": "Created: Nov 02, 2026 / 10:12 PT",
+      "image_url": "https://devblogs.microsoft.com/oldnewthing/wp-content/uploads/sites/38/2025/10/banner-oldnewthing-blue.webp",
+      "summary_en": "The available source context contains only the line “Wait, that's not him.”",
+      "summary_zh": "现有资料只包含一句话：“等等，那不是他。”",
       "hn": {
-        "id": 50349222,
+        "id": 50341028,
         "type": "story",
-        "by": "Betelbuddy",
-        "score": 25,
-        "descendants": 4,
-        "time": 1793691996,
-        "comments_url": "https://news.ycombinator.com/item?id=50349222"
+        "by": "ibobev",
+        "score": 150,
+        "descendants": 56,
+        "time": 1793643168,
+        "comments_url": "https://news.ycombinator.com/item?id=50341028"
       },
       "tags": [
-        "AI",
-        "Business"
+        "Culture"
       ],
-      "hot_score": 0.32
+      "hot_score": 0.2
+    },
+    {
+      "title_en": "Backdoor in Claude Code for VS Code extension on the Cursor Marketplace",
+      "url": "https://phorion.io/blog/offical-claude-code-vsx-compromise/",
+      "title_zh": "Cursor Marketplace 上的 Claude Code for VS Code 扩展存在后门",
+      "is_new": false,
+      "created_display": "Created: Oct 30, 2026 / 00:09 PT",
+      "image_url": "https://phorion.io/images/default-social-card.png",
+      "summary_en": "The title reports a backdoor in a Claude Code extension for VS Code distributed through the Cursor Marketplace. The supplied context provides no further reliable details.",
+      "summary_zh": "标题称，Cursor Marketplace 上分发的 Claude Code for VS Code 扩展中存在后门。提供的上下文没有更多可靠细节。",
+      "hn": {
+        "id": 50300683,
+        "type": "story",
+        "by": "_chall",
+        "score": 1010,
+        "descendants": 553,
+        "time": 1793344152,
+        "comments_url": "https://news.ycombinator.com/item?id=50300683"
+      },
+      "tags": [
+        "Security",
+        "AI"
+      ],
+      "hot_score": 0.18
     },
     {
       "title_en": "European RISC-V Industrial Computing Initiative",
@@ -1322,88 +1083,155 @@
         "id": 50334523,
         "type": "story",
         "by": "ymz5",
-        "score": 179,
-        "descendants": 112,
+        "score": 199,
+        "descendants": 126,
         "time": 1793609913,
         "comments_url": "https://news.ycombinator.com/item?id=50334523"
       },
       "tags": [
         "Hardware"
       ],
-      "hot_score": 0.31
+      "hot_score": 0.18
     },
     {
-      "title_en": "Last night an AI agent performed brain surgery on a mouse",
-      "url": "https://twitter.com/OcanaSantero/status/2115442964574908902",
-      "title_zh": "昨晚，一名 AI 智能体为一只老鼠做了脑部手术",
+      "title_en": "Never Complain, Never Explain",
+      "url": "https://en.wikipedia.org/wiki/Never_complain,_never_explain",
+      "title_zh": "永不抱怨，永不解释",
       "is_new": false,
-      "created_display": "Created: Nov 02, 2026 / 04:50 PT",
-      "image_url": "https://pbs.twimg.com/media/HVtOKh7aIAAFGeA?format=webp&name=large",
-      "summary_en": "An AI agent was given 19 gene-therapy vectors, a mouse model of epilepsy, a motorized surgical rig with cameras, and the goal of reducing seizures. It selected the treatment and brain region and derived surgical coordinates from the available data; the supplied account is truncated before reporting the outcome.",
-      "summary_zh": "研究人员向一个 AI 智能体提供了 19 种基因治疗载体、癫痫小鼠模型、带摄像头的电动手术设备，以及减少癫痫发作的目标。智能体选择了药物和脑区，并从现有数据推导出手术坐标；现有资料在说明结果前已经截断。",
+      "created_display": "Created: Nov 02, 2026 / 03:55 PT",
+      "image_url": "https://en.wikipedia.org/static/images/icons/enwiki-25.svg",
+      "summary_en": "“Never complain, never explain” is a public-relations strategy particularly associated with the British royal family. The phrase is often attributed to former British prime minister Benjamin Disraeli, though its documented origins trace to Benjamin Jowett's earlier maxims.",
+      "summary_zh": "“永不抱怨，永不解释”是一种尤其与英国王室联系在一起的公共关系策略。这句话常被归于英国前首相本杰明·迪斯雷利，但有文献记录的源头可追溯到本杰明·乔伊特更早提出的格言。",
       "hn": {
-        "id": 50336138,
+        "id": 50335659,
         "type": "story",
-        "by": "FacZap",
-        "score": 139,
-        "descendants": 115,
-        "time": 1793623859,
-        "comments_url": "https://news.ycombinator.com/item?id=50336138"
+        "by": "gregsadetsky",
+        "score": 172,
+        "descendants": 70,
+        "time": 1793620548,
+        "comments_url": "https://news.ycombinator.com/item?id=50335659"
       },
       "tags": [
-        "AI",
-        "Health"
+        "Culture"
       ],
-      "hot_score": 0.3
+      "hot_score": 0.18
     },
     {
-      "title_en": "The U.S. Census Bureau and \"Super Intelligence\"",
-      "url": "https://simonwillison.net/2026/Nov/2/census-bureau-super-intelligence/",
-      "title_zh": "美国人口普查局与“超级智能”",
+      "title_en": "Too Expensive to Exist",
+      "url": "https://mapwriting.substack.com/p/too-expensive-to-exist",
+      "title_zh": "贵得无法存在",
       "is_new": false,
-      "created_display": "Created: Nov 02, 2026 / 05:55 PT",
-      "image_url": "https://static.simonwillison.net/static/2026-11-01/5821A414-FAF6-4E61-B037-952C1FD80D39.png",
-      "summary_en": "The author revisited U.S. corporate AI-adoption data from the Census Bureau's Business Trends and Outlook Survey. The survey is conducted every two weeks and samples 200,000 businesses from a total population of 1.2 million, with each business participating once every 12 weeks. The author says the Bureau's data work has been affected by Executive Order 14434, referred to as the “Super Intelligence” order.",
-      "summary_zh": "作者重新查看了美国人口普查局商业趋势与展望调查中的企业 AI 采用数据。该调查每两周进行一次，从总计 120 万家企业中抽取 20 万家，每家企业每 12 周参与一次。作者称，人口普查局的数据工作受到了第 14434 号行政命令，即所谓“超级智能”行政命令的影响。",
-      "hn": {
-        "id": 50336840,
-        "type": "story",
-        "by": "torutofu",
-        "score": 124,
-        "descendants": 53,
-        "time": 1793627745,
-        "comments_url": "https://news.ycombinator.com/item?id=50336840"
-      },
-      "tags": [
-        "Data",
-        "Politics",
-        "AI"
-      ],
-      "hot_score": 0.29
-    },
-    {
-      "title_en": "Claude Opus 5.5 Can Draw Permit-Level Architectural Drawings",
-      "url": "https://stephenjgallagher.substack.com/p/ai-can-draw-blueprints-now",
-      "title_zh": "Claude Opus 5.5 能绘制达到许可级别的建筑图纸",
-      "is_new": false,
-      "created_display": "Created: Nov 02, 2026 / 08:25 PT",
+      "created_display": "Created: Nov 02, 2026 / 19:43 PT",
       "image_url": null,
-      "summary_en": "The piece claims that Claude Opus 5.5 can produce architectural drawings at a permit-level standard.",
-      "summary_zh": "文章称 Claude Opus 5.5 能够绘制达到许可级别标准的建筑图纸。",
+      "summary_en": "The piece is titled “Too Expensive to Exist.”",
+      "summary_zh": "文章题为《贵得无法存在》。",
       "hn": {
-        "id": 50339224,
+        "id": 50347784,
         "type": "story",
-        "by": "SteveGallag",
-        "score": 105,
-        "descendants": 36,
-        "time": 1793636733,
-        "comments_url": "https://news.ycombinator.com/item?id=50339224"
+        "by": "kitkut",
+        "score": 83,
+        "descendants": 18,
+        "time": 1793677430,
+        "comments_url": "https://news.ycombinator.com/item?id=50347784"
       },
       "tags": [
-        "AI",
-        "Design"
+        "Business"
       ],
-      "hot_score": 0.29
+      "hot_score": 0.18
+    },
+    {
+      "title_en": "Cloudflare experiencing multiple active incidents",
+      "url": "https://www.cloudflarestatus.com/",
+      "title_zh": "Cloudflare 出现多起活跃事故",
+      "is_new": false,
+      "created_display": "Created: Nov 02, 2026 / 20:57 PT",
+      "image_url": null,
+      "summary_en": "The status page currently says that no issues affecting Cloudflare services are known. It provides real-time service status, incident history, and scheduled-maintenance information.",
+      "summary_zh": "状态页面目前表示，尚未发现影响 Cloudflare 服务的问题。该页面提供服务实时状态、事故历史和计划维护信息。",
+      "hn": {
+        "id": 50348260,
+        "type": "story",
+        "by": "jp1016",
+        "score": 74,
+        "descendants": 7,
+        "time": 1793681847,
+        "comments_url": "https://news.ycombinator.com/item?id=50348260"
+      },
+      "tags": [
+        "DevOps"
+      ],
+      "hot_score": 0.18
+    },
+    {
+      "title_en": "SLAC researchers find proof of altermagnetism, a new magnetic phase",
+      "url": "https://www6.slac.stanford.edu/news/2026-10-29-slac-researchers-find-proof-altermagnetism-new-magnetic-phase",
+      "title_zh": "SLAC 研究人员找到交错磁性的证据，这是一种新的磁性相",
+      "is_new": false,
+      "created_display": "Created: Nov 02, 2026 / 13:42 PT",
+      "image_url": "https://www6.slac.stanford.edu/sites/default/files/styles/extra_large_card/public/2026-07/altermagnetism_la_v06.jpg?h=d14915d2&itok=ysTK99rN",
+      "summary_en": "A team led by SLAC researchers reports direct observation of a distinctive property in an altermagnetic candidate material. Published findings provide experimental evidence for altermagnetism as a third magnetic phase alongside ferromagnetism and antiferromagnetism. The researchers say the phase combines properties associated with the two established classes.",
+      "summary_zh": "由 SLAC 研究人员领导的团队报告称，他们在一种交错磁性候选材料中直接观察到了独特性质。论文结果为交错磁性作为铁磁性和反铁磁性之外的第三种磁性相提供了实验证据。研究人员表示，这种磁性相兼具两类既有磁性的部分特征。",
+      "hn": {
+        "id": 50344224,
+        "type": "story",
+        "by": "gmays",
+        "score": 108,
+        "descendants": 13,
+        "time": 1793655745,
+        "comments_url": "https://news.ycombinator.com/item?id=50344224"
+      },
+      "tags": [
+        "Science"
+      ],
+      "hot_score": 0.17
+    },
+    {
+      "title_en": "Skill to Create Product Videos",
+      "url": "https://github.com/aaitor/skill-video-studio",
+      "title_zh": "创建产品视频的技能",
+      "is_new": false,
+      "created_display": "Created: Nov 02, 2026 / 10:10 PT",
+      "image_url": "https://opengraph.githubassets.com/7e6e943fef7011a60fc482c32ffb97312a10479edc6af2521834be67409f7418/aaitor/skill-video-studio",
+      "summary_en": "This project is a Claude Code skill for creating product videos. It supports real-browser capture, branded composition, and local mastering, and includes a quick start, worked videos, and usage instructions.",
+      "summary_zh": "这是一个用于制作产品视频的 Claude Code 技能。它支持真实浏览器录制、品牌化合成和本地母版制作，并提供快速入门、示例视频和使用说明。",
+      "hn": {
+        "id": 50340992,
+        "type": "story",
+        "by": "aaitor",
+        "score": 117,
+        "descendants": 37,
+        "time": 1793643039,
+        "comments_url": "https://news.ycombinator.com/item?id=50340992"
+      },
+      "tags": [
+        "Programming",
+        "AI",
+        "Web"
+      ],
+      "hot_score": 0.16
+    },
+    {
+      "title_en": "Ballot Rejections Have Soared in Rural Counties as USPS Reduces Mail Service",
+      "url": "https://www.propublica.org/article/mail-ballot-delays-postal-service-midterms",
+      "title_zh": "美国邮政减少服务后，农村县的选票拒收激增",
+      "is_new": false,
+      "created_display": "Created: Nov 02, 2026 / 10:48 PT",
+      "image_url": "https://www.propublica.org/wp-content/uploads/2026/10/RuralVotingBallots-Bose7021_preview_maxWidth_3000_maxHeight_3000_ppi_72_embedColorProfile_true_quality_95.jpg?resize=2000,1334",
+      "summary_en": "A ProPublica data analysis found that postal delays caused by cost-cutting measures endangered the validity of ballots mailed from rural areas. Counties that voted for Trump in 2024 were affected most heavily. Election workers near Spokane, Washington, checked the post office three days after a primary while waiting for late ballots.",
+      "summary_zh": "ProPublica 的数据分析发现，削减成本措施造成的邮政延误，危及农村地区邮寄选票的有效性。2024 年投票支持特朗普的县受到的影响最严重。在华盛顿州斯波坎以北，选举工作人员在初选后三天前往邮局，等待迟到的邮寄选票。",
+      "hn": {
+        "id": 50341616,
+        "type": "story",
+        "by": "ck2",
+        "score": 115,
+        "descendants": 83,
+        "time": 1793645280,
+        "comments_url": "https://news.ycombinator.com/item?id=50341616"
+      },
+      "tags": [
+        "Politics"
+      ],
+      "hot_score": 0.16
     },
     {
       "title_en": "F/OSS Comics #13: BSD Unix, Part 3 – The Beginning of BSD Unix",
@@ -1426,30 +1254,79 @@
       "tags": [
         "Open Source"
       ],
-      "hot_score": 0.27
+      "hot_score": 0.15
     },
     {
-      "title_en": "Postgres 19 is late because so many more bugs are being found now",
-      "url": "http://rhaas.blogspot.com/2026/10/postgres-19-is-late-and-its-ais-fault.html",
-      "title_zh": "Postgres 19 因发现的错误大幅增加而延期",
+      "title_en": "Last night an AI agent performed brain surgery on a mouse",
+      "url": "https://twitter.com/OcanaSantero/status/2115442964574908902",
+      "title_zh": "昨晚，一名 AI 智能体为一只老鼠做了脑部手术",
       "is_new": false,
-      "created_display": "Created: Oct 30, 2026 / 18:38 PT",
-      "image_url": null,
-      "summary_en": "Postgres 19 is late because many more bugs are being found during development. The title identifies the delay and attributes it to the increased discovery of defects.",
-      "summary_zh": "Postgres 19 的发布出现延期，原因是开发过程中发现的错误数量大幅增加。标题将这次延迟归因于缺陷发现增多。",
+      "created_display": "Created: Nov 02, 2026 / 04:50 PT",
+      "image_url": "https://pbs.twimg.com/media/HVtOKh7aIAAFGeA?format=webp&name=large",
+      "summary_en": "An AI agent was given 19 gene-therapy vectors, a mouse model of epilepsy, a motorized surgical rig with cameras, and the goal of reducing seizures. It selected the treatment and brain region and derived surgical coordinates from the available data; the supplied account is truncated before reporting the outcome.",
+      "summary_zh": "研究人员向一个 AI 智能体提供了 19 种基因治疗载体、癫痫小鼠模型、带摄像头的电动手术设备，以及减少癫痫发作的目标。智能体选择了药物和脑区，并从现有数据推导出手术坐标；现有资料在说明结果前已经截断。",
       "hn": {
-        "id": 50312408,
+        "id": 50336138,
         "type": "story",
-        "by": "soheilpro",
-        "score": 834,
-        "descendants": 505,
-        "time": 1793410736,
-        "comments_url": "https://news.ycombinator.com/item?id=50312408"
+        "by": "FacZap",
+        "score": 142,
+        "descendants": 116,
+        "time": 1793623859,
+        "comments_url": "https://news.ycombinator.com/item?id=50336138"
       },
       "tags": [
-        "Programming"
+        "AI",
+        "Health"
       ],
-      "hot_score": 0.26
+      "hot_score": 0.15
+    },
+    {
+      "title_en": "Agentic backdoors via pretraining poisoning",
+      "url": "https://arxiv.org/abs/2610.37741",
+      "title_zh": "通过预训练投毒植入智能体后门",
+      "is_new": false,
+      "created_display": "Created: Nov 02, 2026 / 10:30 PT",
+      "image_url": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+      "summary_en": "Researchers show that poisoned pretraining data can implant a remote-code-execution backdoor in an LLM-based agent. In experiments with Qwen3 models, poisoning just 0.1% of the corpus produced a backdoor, and the 4B model reached about 92% attack success when the trigger was present. The backdoor remained effective at a poisoning rate of 0.0005%, demonstrating a risk from uncurated web-scale training data.",
+      "summary_zh": "研究人员证明，经过投毒的预训练数据可以在基于大语言模型的智能体中植入远程代码执行后门。在 Qwen3 模型实验中，仅污染 0.1% 的语料就能植入后门；触发条件出现时，4B 模型的攻击成功率约为 92%。即使投毒比例降至 0.0005%，后门仍保持有效，显示出未经筛选的网络训练数据带来的风险。",
+      "hn": {
+        "id": 50341334,
+        "type": "story",
+        "by": "gmays",
+        "score": 108,
+        "descendants": 30,
+        "time": 1793644258,
+        "comments_url": "https://news.ycombinator.com/item?id=50341334"
+      },
+      "tags": [
+        "AI",
+        "Security"
+      ],
+      "hot_score": 0.15
+    },
+    {
+      "title_en": "Apple reports fourth quarter results",
+      "url": "https://www.apple.com/newsroom/2026/11/apple-reports-fourth-quarter-results/",
+      "title_zh": "苹果公布第四季度业绩",
+      "is_new": false,
+      "created_display": "Created: Nov 02, 2026 / 14:13 PT",
+      "image_url": "https://www.apple.com/newsroom/images/default/apple-logo-og.jpg?202611022220",
+      "summary_en": "Apple announced financial results for its fiscal 2026 fourth quarter, which ended on September 26, 2026.",
+      "summary_zh": "苹果公布了截至 2026 年 9 月 26 日的 2026 财年第四季度财务业绩。",
+      "hn": {
+        "id": 50344670,
+        "type": "story",
+        "by": "mfiguiere",
+        "score": 90,
+        "descendants": 107,
+        "time": 1793657622,
+        "comments_url": "https://news.ycombinator.com/item?id=50344670"
+      },
+      "tags": [
+        "Business",
+        "Finance"
+      ],
+      "hot_score": 0.15
     },
     {
       "title_en": "China's First Frontier AI Export Controls: Mofcom Announcement No. 48",
@@ -1465,7 +1342,7 @@
         "type": "story",
         "by": "jonnybgood",
         "score": 158,
-        "descendants": 89,
+        "descendants": 90,
         "time": 1793604448,
         "comments_url": "https://news.ycombinator.com/item?id=50334038"
       },
@@ -1473,80 +1350,176 @@
         "AI",
         "Politics"
       ],
-      "hot_score": 0.26
+      "hot_score": 0.14
     },
     {
-      "title_en": "One of Google's Android partners turned 1.3M set-top boxes into a botnet",
-      "url": "https://www.theverge.com/1024807/google-botnet-android-tv-shut-down",
-      "title_zh": "谷歌一名 Android 合作伙伴将 130 万台机顶盒变成僵尸网络",
+      "title_en": "The U.S. Census Bureau and \"Super Intelligence\"",
+      "url": "https://simonwillison.net/2026/Nov/2/census-bureau-super-intelligence/",
+      "title_zh": "美国人口普查局与“超级智能”",
       "is_new": false,
-      "created_display": "Created: Nov 02, 2026 / 15:51 PT",
-      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/videostrong-android-tv-device.jpg?quality=90&strip=all&crop=12.458333333333%2C0%2C87.541666666667%2C100&w=1200",
-      "summary_en": "Google says it dismantled a backdoor operated by one of its manufacturing partners. The backdoor was used to create a botnet containing 1.3 million Android TV devices, and Google says the manufacturer intentionally hijacked the devices with malware.",
-      "summary_zh": "谷歌称，其已拆除一家制造合作伙伴植入的后门。该后门被用于组建包含 130 万台 Android TV 设备的僵尸网络；谷歌表示，这家制造商是有意通过恶意软件劫持这些设备。",
+      "created_display": "Created: Nov 02, 2026 / 05:55 PT",
+      "image_url": "https://static.simonwillison.net/static/2026-11-01/5821A414-FAF6-4E61-B037-952C1FD80D39.png",
+      "summary_en": "The author revisited U.S. corporate AI-adoption data from the Census Bureau's Business Trends and Outlook Survey. The survey is conducted every two weeks and samples 200,000 businesses from a total population of 1.2 million, with each business participating once every 12 weeks. The author says the Bureau's data work has been affected by Executive Order 14434, referred to as the “Super Intelligence” order.",
+      "summary_zh": "作者重新查看了美国人口普查局商业趋势与展望调查中的企业 AI 采用数据。该调查每两周进行一次，从总计 120 万家企业中抽取 20 万家，每家企业每 12 周参与一次。作者称，人口普查局的数据工作受到了第 14434 号行政命令，即所谓“超级智能”行政命令的影响。",
       "hn": {
-        "id": 50345977,
+        "id": 50336840,
         "type": "story",
-        "by": "donohoe",
-        "score": 47,
-        "descendants": 4,
-        "time": 1793663505,
-        "comments_url": "https://news.ycombinator.com/item?id=50345977"
+        "by": "torutofu",
+        "score": 125,
+        "descendants": 54,
+        "time": 1793627745,
+        "comments_url": "https://news.ycombinator.com/item?id=50336840"
       },
       "tags": [
-        "Security",
-        "Privacy"
-      ],
-      "hot_score": 0.23
-    },
-    {
-      "title_en": "Backdoor in Claude Code for VS Code extension on the Cursor Marketplace",
-      "url": "https://phorion.io/blog/offical-claude-code-vsx-compromise/",
-      "title_zh": "Cursor Marketplace 上的 Claude Code for VS Code 扩展存在后门",
-      "is_new": false,
-      "created_display": "Created: Oct 30, 2026 / 00:09 PT",
-      "image_url": "https://phorion.io/images/default-social-card.png",
-      "summary_en": "The title reports a backdoor in a Claude Code extension for VS Code distributed through the Cursor Marketplace. The supplied context provides no further reliable details.",
-      "summary_zh": "标题称，Cursor Marketplace 上分发的 Claude Code for VS Code 扩展中存在后门。提供的上下文没有更多可靠细节。",
-      "hn": {
-        "id": 50300683,
-        "type": "story",
-        "by": "_chall",
-        "score": 1008,
-        "descendants": 553,
-        "time": 1793344152,
-        "comments_url": "https://news.ycombinator.com/item?id=50300683"
-      },
-      "tags": [
-        "Security",
+        "Data",
+        "Politics",
         "AI"
       ],
-      "hot_score": 0.22
+      "hot_score": 0.14
     },
     {
-      "title_en": "Show HN: ReBirth 338 in Browser",
-      "url": "https://margeux.com/rb338.html",
-      "title_zh": "Show HN：在浏览器中运行 ReBirth 338",
+      "title_en": "Show HN: I built a little browser game to practice Vim commands",
+      "url": "https://hjkl.duy.run",
+      "title_zh": "Show HN：我做了一个练习 Vim 命令的小型浏览器游戏",
       "is_new": false,
-      "created_display": "Created: Nov 02, 2026 / 22:24 PT",
-      "image_url": null,
-      "summary_en": "The project runs the original Windows release of ReBirth RB-338 in a browser using Wine and WebAssembly.",
-      "summary_zh": "这个项目利用 Wine 和 WebAssembly，在浏览器中运行原版 Windows 版 ReBirth RB-338。",
+      "created_display": "Created: Nov 02, 2026 / 19:10 PT",
+      "image_url": "https://hjkl.duy.run/og.png",
+      "summary_en": "The browser game hjkl is designed to help players remember Vim commands while relaxing. The creator says more commands are planned for future additions.",
+      "summary_zh": "浏览器游戏 hjkl 旨在让玩家在放松时练习并记住 Vim 命令。作者表示，未来还计划加入更多命令。",
       "hn": {
-        "id": 50348740,
+        "id": 50347552,
         "type": "story",
-        "by": "vegnus",
-        "score": 22,
-        "descendants": 11,
-        "time": 1793687090,
-        "comments_url": "https://news.ycombinator.com/item?id=50348740"
+        "by": "dh1011",
+        "score": 68,
+        "descendants": 49,
+        "time": 1793675404,
+        "comments_url": "https://news.ycombinator.com/item?id=50347552"
       },
       "tags": [
         "Show HN",
         "Programming",
         "Web"
       ],
-      "hot_score": 0.22
+      "hot_score": 0.14
+    },
+    {
+      "title_en": "Resisting Cognitive Surrender",
+      "url": "https://knlb.dev/essays/surrender",
+      "title_zh": "抵抗认知投降",
+      "is_new": false,
+      "created_display": "Created: Oct 31, 2026 / 23:13 PT",
+      "image_url": "https://knlb.dev/essays/.surrender_assets/image-4147323edcec4900b374ba7a6e8d4cbb.png",
+      "summary_en": "The note examines “cognitive surrender”: accepting agent outputs uncritically without thinking, exploring alternatives, or checking assumptions. It describes this behavior as fast and effortless, which makes it especially seductive.",
+      "summary_zh": "这篇笔记讨论“认知投降”：不加批判地接受智能体输出，不再思考、探索或考虑替代方案。作者指出，这种工作方式快速且省力，因此尤其具有诱惑力。",
+      "hn": {
+        "id": 50323123,
+        "type": "story",
+        "by": "knlb",
+        "score": 311,
+        "descendants": 158,
+        "time": 1793513610,
+        "comments_url": "https://news.ycombinator.com/item?id=50323123"
+      },
+      "tags": [
+        "AI"
+      ],
+      "hot_score": 0.13
+    },
+    {
+      "title_en": "Claude Opus 5.5 Can Draw Permit-Level Architectural Drawings",
+      "url": "https://stephenjgallagher.substack.com/p/ai-can-draw-blueprints-now",
+      "title_zh": "Claude Opus 5.5 能绘制达到许可级别的建筑图纸",
+      "is_new": false,
+      "created_display": "Created: Nov 02, 2026 / 08:25 PT",
+      "image_url": null,
+      "summary_en": "The piece claims that Claude Opus 5.5 can produce architectural drawings at a permit-level standard.",
+      "summary_zh": "文章称 Claude Opus 5.5 能够绘制达到许可级别标准的建筑图纸。",
+      "hn": {
+        "id": 50339224,
+        "type": "story",
+        "by": "SteveGallag",
+        "score": 105,
+        "descendants": 37,
+        "time": 1793636733,
+        "comments_url": "https://news.ycombinator.com/item?id=50339224"
+      },
+      "tags": [
+        "AI",
+        "Design"
+      ],
+      "hot_score": 0.13
+    },
+    {
+      "title_en": "WorkOS reports security breach",
+      "url": "https://news.ycombinator.com/item?id=50345712",
+      "title_zh": "WorkOS 报告安全漏洞事件",
+      "is_new": false,
+      "created_display": "Created: Nov 02, 2026 / 15:30 PT",
+      "image_url": null,
+      "summary_en": "WorkOS detected anomalous traffic to an internal business system on October 30, 2026, and says an attacker accessed an internal API used by sales and marketing tools. The API exposed data from Salesforce and Snowflake, including business contacts, account and commercial information, usage metrics, marketing contacts, and support tickets. The investigation identified evidence that the attack was likely driven by the AI-assisted autonomous penetration-testing framework ARTEX, but the available notice is truncated before stating the full impact on application data.",
+      "summary_zh": "WorkOS 于 2026 年 10 月 30 日发现内部业务系统存在异常流量，并称攻击者进入了供销售和营销工具使用的内部 API。该 API 可访问 Salesforce 和 Snowflake 中的业务联系人、账户与商业信息、使用指标、营销联系人及支持工单等数据。调查发现证据表明，攻击可能由 AI 辅助的自主渗透测试框架 ARTEX 发起，但现有通知在说明对应用数据的完整影响前已经截断。",
+      "hn": {
+        "id": 50345712,
+        "type": "story",
+        "by": "werrett",
+        "score": 77,
+        "descendants": 11,
+        "time": 1793662259,
+        "comments_url": "https://news.ycombinator.com/item?id=50345712"
+      },
+      "tags": [
+        "Security",
+        "Privacy",
+        "AI"
+      ],
+      "hot_score": 0.13
+    },
+    {
+      "title_en": "Trigger.dev customer environment variables exposed",
+      "url": "https://trigger.dev/blog/security-incident-nov-2026",
+      "title_zh": "Trigger.dev 客户的环境变量遭到暴露",
+      "is_new": false,
+      "created_display": "Created: Nov 01, 2026 / 17:09 PT",
+      "image_url": "https://trigger.dev/blog/generic/incident-report-generic.png",
+      "summary_en": "An attacker gained unauthorized access to environment variables belonging to a subset of Trigger.dev organizations. Trigger.dev says it blocked the exploit and emailed affected account owners with mitigation steps. Its investigation found exposure across that subset of organizations.",
+      "summary_zh": "攻击者未经授权访问了部分 Trigger.dev 组织的环境变量。Trigger.dev 表示已封堵所利用的漏洞，并向受影响账户所有者发送了缓解措施。公司的调查确认，这些组织存在数据暴露。",
+      "hn": {
+        "id": 50331784,
+        "type": "story",
+        "by": "anurag",
+        "score": 167,
+        "descendants": 88,
+        "time": 1793581756,
+        "comments_url": "https://news.ycombinator.com/item?id=50331784"
+      },
+      "tags": [
+        "Security"
+      ],
+      "hot_score": 0.12
+    },
+    {
+      "title_en": "Open-Source 5G Ran Platforms: A Dual Perspective on Performance and Capabilities",
+      "url": "https://arxiv.org/abs/2608.25820",
+      "title_zh": "开源 5G RAN 平台：性能与能力的双重视角",
+      "is_new": false,
+      "created_display": "Created: Nov 02, 2026 / 18:58 PT",
+      "image_url": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+      "summary_en": "The paper compares the open-source 5G RAN platforms OpenAirInterface and srsRAN. Its evaluation covers supported features and deployment flexibility, along with radio-resource-control setup, theoretical data rates, and real workloads such as video on demand, live streaming, and cloud gaming. The study varies software-defined radios, RAN configurations, and numbers of real user devices to address gaps in earlier comparisons.",
+      "summary_zh": "论文比较了 OpenAirInterface 和 srsRAN 这两个开源 5G RAN 平台。评估内容包括支持的功能与部署灵活性，以及无线资源控制建立流程、理论数据速率和视频点播、直播、云游戏等真实负载。研究还改变软件定义无线电、RAN 配置和真实用户设备数量，以弥补早期比较覆盖不足的问题。",
+      "hn": {
+        "id": 50347464,
+        "type": "story",
+        "by": "teleforce",
+        "score": 51,
+        "descendants": 5,
+        "time": 1793674724,
+        "comments_url": "https://news.ycombinator.com/item?id=50347464"
+      },
+      "tags": [
+        "Open Source",
+        "Gaming"
+      ],
+      "hot_score": 0.11
     },
     {
       "title_en": "LongCat-2.5: Native Multimodality for Agentic Tasks",
@@ -1569,56 +1542,7 @@
       "tags": [
         "AI"
       ],
-      "hot_score": 0.21
-    },
-    {
-      "title_en": "How AI is creating a lopsided US economy",
-      "url": "https://www.abc.net.au/news/2026-10-19/ai-stock-market-concentration-data/107261078",
-      "title_zh": "AI 如何造成美国经济失衡",
-      "is_new": false,
-      "created_display": "Created: Nov 02, 2026 / 21:58 PT",
-      "image_url": "https://live-production.wcms.abc-cdn.net.au/4c25fdf2d637dc1c52110f19574366f9?impolicy=wcms_watermark_news&cropH=675&cropW=1200&xPos=0&yPos=44&width=862&height=485&imformat=generic",
-      "summary_en": "Experts warn that AI's dominance of the U.S. stock market is creating its own risks. The discussion points to the concentration of some of the world's wealthiest people around President Donald Trump at the White House AI Summit.",
-      "summary_zh": "专家警告，AI 对美国股市的主导地位正在制造新的风险。相关讨论提到，在白宫 AI 峰会上，全球一些最富有的人聚集在美国总统唐纳德·特朗普周围。",
-      "hn": {
-        "id": 50348591,
-        "type": "story",
-        "by": "gmays",
-        "score": 22,
-        "descendants": 0,
-        "time": 1793685507,
-        "comments_url": "https://news.ycombinator.com/item?id=50348591"
-      },
-      "tags": [
-        "AI",
-        "Business",
-        "Finance",
-        "Politics"
-      ],
-      "hot_score": 0.21
-    },
-    {
-      "title_en": "Trigger.dev customer environment variables exposed",
-      "url": "https://trigger.dev/blog/security-incident-nov-2026",
-      "title_zh": "Trigger.dev 客户的环境变量遭到暴露",
-      "is_new": false,
-      "created_display": "Created: Nov 01, 2026 / 17:09 PT",
-      "image_url": "https://trigger.dev/blog/generic/incident-report-generic.png",
-      "summary_en": "An attacker gained unauthorized access to environment variables belonging to a subset of Trigger.dev organizations. Trigger.dev says it blocked the exploit and emailed affected account owners with mitigation steps. Its investigation found exposure across that subset of organizations.",
-      "summary_zh": "攻击者未经授权访问了部分 Trigger.dev 组织的环境变量。Trigger.dev 表示已封堵所利用的漏洞，并向受影响账户所有者发送了缓解措施。公司的调查确认，这些组织存在数据暴露。",
-      "hn": {
-        "id": 50331784,
-        "type": "story",
-        "by": "anurag",
-        "score": 166,
-        "descendants": 87,
-        "time": 1793581756,
-        "comments_url": "https://news.ycombinator.com/item?id=50331784"
-      },
-      "tags": [
-        "Security"
-      ],
-      "hot_score": 0.2
+      "hot_score": 0.1
     },
     {
       "title_en": "C64 Basic Dungeon Crawler: Stairs, Levels and Levelling Up (Part 11)",
@@ -1633,7 +1557,7 @@
         "id": 50337661,
         "type": "story",
         "by": "ibobev",
-        "score": 80,
+        "score": 83,
         "descendants": 15,
         "time": 1793631381,
         "comments_url": "https://news.ycombinator.com/item?id=50337661"
@@ -1641,176 +1565,103 @@
       "tags": [
         "Gaming"
       ],
-      "hot_score": 0.2
+      "hot_score": 0.1
     },
     {
-      "title_en": "The Ford Privacy Promise: You're in Control of Your Data",
-      "url": "https://www.fromtheroad.ford.com/us/en/articles/2026/introducing-the-ford-privacy-promise",
-      "title_zh": "福特隐私承诺：你的数据由你掌控",
+      "title_en": "It's the memory latency, stupid",
+      "url": "https://pivotlake.io/blog/its-the-memory-latency-stupid/",
+      "title_zh": "问题在于内存延迟",
       "is_new": false,
-      "created_display": "Created: Nov 02, 2026 / 13:37 PT",
-      "image_url": "https://www.fromtheroad.ford.com/content/dam/fordmediasite/us/en/library/2026/privacy-promise/26_FRD_BRO_70973_Connectivity_Package.jpg/_jcr_content/renditions/cq5dam.web.1280.1280.jpeg",
-      "summary_en": "Ford announced a “Privacy Promise” focused on its responsibility to safeguard customer data.",
-      "summary_zh": "福特宣布推出“隐私承诺”，强调其保护客户数据的责任。",
+      "created_display": "Created: Oct 31, 2026 / 11:38 PT",
+      "image_url": "https://pivotlake.io/assets/pivot-logo.png",
+      "summary_en": "A database showing 100% CPU usage may still spend much of its time stalled on memory rather than executing instructions. Modern CPUs can process roughly 4–8 instructions per nanosecond, while a RAM access may take 50–100 nanoseconds. That gap means a processor can potentially execute 400–800 instructions during one memory access. The piece explains how caches, memory stalls, and radix partitioning affect operations such as GROUP BY.",
+      "summary_zh": "数据库显示 CPU 使用率为100%时，处理器可能仍有大量时间在等待内存，而不是执行指令。现代 CPU 每纳秒大约可处理4至8条指令，而一次 RAM 访问可能需要50至100纳秒。这意味着处理器在等待一次内存访问期间，理论上可以执行400至800条指令。文章解释了缓存、内存停顿和基数分区如何影响 GROUP BY 等操作。",
       "hn": {
-        "id": 50344158,
+        "id": 50318720,
         "type": "story",
-        "by": "KoftaBob",
-        "score": 48,
-        "descendants": 58,
-        "time": 1793655420,
-        "comments_url": "https://news.ycombinator.com/item?id=50344158"
+        "by": "ntur1337",
+        "score": 271,
+        "descendants": 101,
+        "time": 1793471896,
+        "comments_url": "https://news.ycombinator.com/item?id=50318720"
       },
       "tags": [
-        "Privacy"
-      ],
-      "hot_score": 0.19
-    },
-    {
-      "title_en": "V100 SXM2 pinout and NVLink reference",
-      "url": "https://github.com/pigeon-labs-stack/v100-sxm2-reference",
-      "title_zh": "V100 SXM2 引脚图与 NVLink 参考资料",
-      "is_new": false,
-      "created_display": "Created: Nov 02, 2026 / 14:30 PT",
-      "image_url": "https://opengraph.githubassets.com/60b85c70f0136ec72d694a15c23af7eb22809f1af6fecc581c6ce1a008c76b37/pigeon-labs-stack/v100-sxm2-reference",
-      "summary_en": "This project collects V100 SXM2 pin maps, two- and four-GPU NVLink connection plans, and connector-only KiCad resources. It aims to support an open-source carrier-board design for Nvidia V100 SXM2 modules, while enabling others to develop their own designs.",
-      "summary_zh": "该项目整理了 V100 SXM2 引脚图、双 GPU 和四 GPU 的 NVLink 连接方案，以及仅含连接器的 KiCad 资源。项目目标是支持 Nvidia V100 SXM2 模块的开源载板设计，同时让其他人能够据此开发自己的设计。",
-      "hn": {
-        "id": 50344912,
-        "type": "story",
-        "by": "airhangerf15",
-        "score": 44,
-        "descendants": 10,
-        "time": 1793658613,
-        "comments_url": "https://news.ycombinator.com/item?id=50344912"
-      },
-      "tags": [
-        "Hardware",
-        "Open Source"
-      ],
-      "hot_score": 0.19
-    },
-    {
-      "title_en": "Show HN: Rustable is an open source database client built in Rust",
-      "url": "https://rustable.app",
-      "title_zh": "Show HN：Rustable——用 Rust 编写的开源数据库客户端",
-      "is_new": false,
-      "created_display": "Created: Nov 02, 2026 / 19:06 PT",
-      "image_url": "https://rustable.app/assets/social-preview.png",
-      "summary_en": "Rustable is an open-source, native database client for macOS, Windows, and Linux. It is written in Rust.",
-      "summary_zh": "Rustable 是一款面向 macOS、Windows 和 Linux 的开源原生数据库客户端，使用 Rust 编写。",
-      "hn": {
-        "id": 50347524,
-        "type": "story",
-        "by": "JaTochNietDan",
-        "score": 26,
-        "descendants": 20,
-        "time": 1793675213,
-        "comments_url": "https://news.ycombinator.com/item?id=50347524"
-      },
-      "tags": [
-        "Show HN",
         "Programming",
-        "Open Source",
+        "Hardware",
         "Data"
       ],
-      "hot_score": 0.18
+      "hot_score": 0.09
     },
     {
-      "title_en": "Resisting Cognitive Surrender",
-      "url": "https://knlb.dev/essays/surrender",
-      "title_zh": "抵抗认知投降",
+      "title_en": "One of Google's Android partners turned 1.3M set-top boxes into a botnet",
+      "url": "https://www.theverge.com/1024807/google-botnet-android-tv-shut-down",
+      "title_zh": "谷歌一名 Android 合作伙伴将 130 万台机顶盒变成僵尸网络",
       "is_new": false,
-      "created_display": "Created: Oct 31, 2026 / 23:13 PT",
-      "image_url": "https://knlb.dev/essays/.surrender_assets/image-4147323edcec4900b374ba7a6e8d4cbb.png",
-      "summary_en": "The note examines “cognitive surrender”: accepting agent outputs uncritically without thinking, exploring alternatives, or checking assumptions. It describes this behavior as fast and effortless, which makes it especially seductive.",
-      "summary_zh": "这篇笔记讨论“认知投降”：不加批判地接受智能体输出，不再思考、探索或考虑替代方案。作者指出，这种工作方式快速且省力，因此尤其具有诱惑力。",
+      "created_display": "Created: Nov 02, 2026 / 15:51 PT",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/videostrong-android-tv-device.jpg?quality=90&strip=all&crop=12.458333333333%2C0%2C87.541666666667%2C100&w=1200",
+      "summary_en": "Google says it dismantled a backdoor operated by one of its manufacturing partners. The backdoor was used to create a botnet containing 1.3 million Android TV devices, and Google says the manufacturer intentionally hijacked the devices with malware.",
+      "summary_zh": "谷歌称，其已拆除一家制造合作伙伴植入的后门。该后门被用于组建包含 130 万台 Android TV 设备的僵尸网络；谷歌表示，这家制造商是有意通过恶意软件劫持这些设备。",
       "hn": {
-        "id": 50323123,
+        "id": 50345977,
         "type": "story",
-        "by": "knlb",
-        "score": 270,
-        "descendants": 131,
-        "time": 1793513610,
-        "comments_url": "https://news.ycombinator.com/item?id=50323123"
+        "by": "donohoe",
+        "score": 52,
+        "descendants": 4,
+        "time": 1793663505,
+        "comments_url": "https://news.ycombinator.com/item?id=50345977"
       },
       "tags": [
-        "AI"
+        "Security",
+        "Privacy"
       ],
-      "hot_score": 0.17
+      "hot_score": 0.09
     },
     {
-      "title_en": "GPT-Rosalind-6 System Card Addendum",
-      "url": "https://deploymentsafety.openai.com/gpt-rosalind-6",
-      "title_zh": "GPT-Rosalind-6 系统卡附录",
+      "title_en": "Toit v2.0.0",
+      "url": "https://toit.io/blog/toit-v2-0-0/",
+      "title_zh": "Toit v2.0.0",
       "is_new": false,
-      "created_display": "Created: Nov 02, 2026 / 06:44 PT",
-      "image_url": "https://deploymentsafety.openai.com/assets/deploymentsafety-social.png",
-      "summary_en": "GPT-Rosalind-6 is described as a frontier reasoning model for biology, drug discovery, and translational medicine. It is available only to qualified users through trusted access, with applications, security controls, and governance practices reviewed before approval. The model shares weights with GPT-6 Astra, supports some dual-use biological research, and continues to refuse biological-weaponization requests.",
-      "summary_zh": "GPT-Rosalind-6 被描述为面向生物学、药物发现和转化医学的前沿推理模型。它仅通过受信访问向合格用户提供，申请用途、安全控制和治理措施会在批准前接受审查。该模型与 GPT-6 Astra 使用相同权重，支持部分双重用途生物研究，但仍拒绝生物武器化请求。",
+      "created_display": "Created: Oct 31, 2026 / 17:25 PT",
+      "image_url": null,
+      "summary_en": "Toit v2.0.0 has been released after more than four years of alpha development. The project accumulated more than 2,000 commits, over 500,000 changed lines, and more than 200 alpha releases. Toit began as closed-source software, later became open source, and continued to receive volunteer contributions after Toitware shut down in 2024.",
+      "summary_zh": "经过四年多的 alpha 开发，Toit v2.0.0 正式发布。项目累计完成超过 2,000 次提交、修改超过 50 万行代码，并经历了 200 多个 alpha 版本。Toit 最初是闭源软件，后来转为开源；Toitware 于 2024 年停止运营后，项目仍由志愿者持续维护。",
       "hn": {
-        "id": 50337503,
+        "id": 50321605,
         "type": "story",
-        "by": "gmays",
-        "score": 71,
-        "descendants": 56,
-        "time": 1793630642,
-        "comments_url": "https://news.ycombinator.com/item?id=50337503"
+        "by": "floitsch",
+        "score": 225,
+        "descendants": 70,
+        "time": 1793492704,
+        "comments_url": "https://news.ycombinator.com/item?id=50321605"
       },
       "tags": [
-        "AI",
-        "Science",
+        "Programming",
+        "Open Source"
+      ],
+      "hot_score": 0.08
+    },
+    {
+      "title_en": "Leaking Secrets from Air-Gap Computers by Spelling Radio Signals from RAM (2024)",
+      "url": "https://arxiv.org/abs/2409.02292",
+      "title_zh": "通过从 RAM 拼写无线电信号，从气隙计算机窃取秘密（2024）",
+      "is_new": false,
+      "created_display": "Created: Oct 31, 2026 / 18:46 PT",
+      "image_url": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+      "summary_en": "Researchers describe an attack in which malware on an air-gapped computer generates radio signals through memory buses. The signals can encode files, images, keystrokes, biometric data, and encryption keys, which an attacker can intercept using software-defined radio and an inexpensive antenna. The paper presents the attack's design, implementation, and evaluation.",
+      "summary_zh": "研究人员描述了一种攻击：气隙计算机上的恶意软件通过内存总线生成无线电信号。这些信号可以编码文件、图像、键盘记录、生物特征数据和加密密钥，攻击者则可使用软件定义无线电和廉价天线进行拦截。论文介绍了该攻击的设计、实现和评估结果。",
+      "hn": {
+        "id": 50322022,
+        "type": "story",
+        "by": "hapax_legomena",
+        "score": 220,
+        "descendants": 104,
+        "time": 1793497589,
+        "comments_url": "https://news.ycombinator.com/item?id=50322022"
+      },
+      "tags": [
         "Security"
       ],
-      "hot_score": 0.17
-    },
-    {
-      "title_en": "NASA's Swift space telescope predicted to crash back to Earth tomorrow",
-      "url": "https://www.abc.net.au/news/science/2026-11-03/nasa-swift-telescope-crash-landing/100018476",
-      "title_zh": "NASA Swift 太空望远镜预计明天坠回地球",
-      "is_new": false,
-      "created_display": "Created: Nov 02, 2026 / 20:47 PT",
-      "image_url": "https://live-production.wcms.abc-cdn.net.au/f9cdfffb9a33d78ee808ee37b84d3040?impolicy=wcms_watermark_news&cropH=788&cropW=1400&xPos=7&yPos=103&width=862&height=485&imformat=generic",
-      "summary_en": "NASA's Neil Gehrels Swift Observatory, which has been in orbit for 22 years, is expected to reenter the atmosphere tomorrow. Plans to save the defunct space telescope failed, and its descent can be tracked.",
-      "summary_zh": "NASA 的 Neil Gehrels Swift 天文台已在轨运行 22 年，预计将于明天重返大气层。拯救这台失效太空望远镜的计划未能成功，目前可以追踪其下降过程。",
-      "hn": {
-        "id": 50348194,
-        "type": "story",
-        "by": "Gaishan",
-        "score": 21,
-        "descendants": 4,
-        "time": 1793681236,
-        "comments_url": "https://news.ycombinator.com/item?id=50348194"
-      },
-      "tags": [
-        "Space",
-        "Science"
-      ],
-      "hot_score": 0.17
-    },
-    {
-      "title_en": "Mass attempted replication of old findings of LLMs with new models",
-      "url": "https://zou-group.github.io/llm-claims-shelf-life/",
-      "title_zh": "大规模尝试用新模型复现 LLM 的旧发现",
-      "is_new": false,
-      "created_display": "Created: Nov 02, 2026 / 19:41 PT",
-      "image_url": "https://zou-group.github.io/llm-claims-shelf-life/preview.png",
-      "summary_en": "Researchers revisited 50 published findings about language models across 20 models. Within 15 months of publication, most tested claims either no longer held or had substantially weaker effects. The results suggest that some empirical knowledge about AI may have a short shelf life.",
-      "summary_zh": "研究人员在 20 个模型上重新检验了 50 项已发表的语言模型研究发现。发表后 15 个月内，大多数被测试的结论要么不再成立，要么效果明显减弱。结果表明，部分关于 AI 的经验性认识可能具有较短的有效期。",
-      "hn": {
-        "id": 50347766,
-        "type": "story",
-        "by": "zirkonit",
-        "score": 22,
-        "descendants": 4,
-        "time": 1793677289,
-        "comments_url": "https://news.ycombinator.com/item?id=50347766"
-      },
-      "tags": [
-        "AI",
-        "Science"
-      ],
-      "hot_score": 0.16
+      "hot_score": 0.08
     },
     {
       "title_en": "Proving and improving the Platonic Representation Hypothesis with JEPAs",
@@ -1834,79 +1685,103 @@
         "AI",
         "Science"
       ],
-      "hot_score": 0.13
+      "hot_score": 0.08
     },
     {
-      "title_en": "It's the memory latency, stupid",
-      "url": "https://pivotlake.io/blog/its-the-memory-latency-stupid/",
-      "title_zh": "问题在于内存延迟",
+      "title_en": "GPT-Rosalind-6 System Card Addendum",
+      "url": "https://deploymentsafety.openai.com/gpt-rosalind-6",
+      "title_zh": "GPT-Rosalind-6 系统卡附录",
       "is_new": false,
-      "created_display": "Created: Oct 31, 2026 / 11:38 PT",
-      "image_url": "https://pivotlake.io/assets/pivot-logo.png",
-      "summary_en": "A database showing 100% CPU usage may still spend much of its time stalled on memory rather than executing instructions. Modern CPUs can process roughly 4–8 instructions per nanosecond, while a RAM access may take 50–100 nanoseconds. That gap means a processor can potentially execute 400–800 instructions during one memory access. The piece explains how caches, memory stalls, and radix partitioning affect operations such as GROUP BY.",
-      "summary_zh": "数据库显示 CPU 使用率为100%时，处理器可能仍有大量时间在等待内存，而不是执行指令。现代 CPU 每纳秒大约可处理4至8条指令，而一次 RAM 访问可能需要50至100纳秒。这意味着处理器在等待一次内存访问期间，理论上可以执行400至800条指令。文章解释了缓存、内存停顿和基数分区如何影响 GROUP BY 等操作。",
+      "created_display": "Created: Nov 02, 2026 / 06:44 PT",
+      "image_url": "https://deploymentsafety.openai.com/assets/deploymentsafety-social.png",
+      "summary_en": "GPT-Rosalind-6 is described as a frontier reasoning model for biology, drug discovery, and translational medicine. It is available only to qualified users through trusted access, with applications, security controls, and governance practices reviewed before approval. The model shares weights with GPT-6 Astra, supports some dual-use biological research, and continues to refuse biological-weaponization requests.",
+      "summary_zh": "GPT-Rosalind-6 被描述为面向生物学、药物发现和转化医学的前沿推理模型。它仅通过受信访问向合格用户提供，申请用途、安全控制和治理措施会在批准前接受审查。该模型与 GPT-6 Astra 使用相同权重，支持部分双重用途生物研究，但仍拒绝生物武器化请求。",
       "hn": {
-        "id": 50318720,
+        "id": 50337503,
         "type": "story",
-        "by": "ntur1337",
-        "score": 270,
-        "descendants": 101,
-        "time": 1793471896,
-        "comments_url": "https://news.ycombinator.com/item?id=50318720"
+        "by": "gmays",
+        "score": 71,
+        "descendants": 57,
+        "time": 1793630642,
+        "comments_url": "https://news.ycombinator.com/item?id=50337503"
       },
       "tags": [
-        "Programming",
-        "Hardware",
-        "Data"
-      ],
-      "hot_score": 0.12
-    },
-    {
-      "title_en": "Leaking Secrets from Air-Gap Computers by Spelling Radio Signals from RAM (2024)",
-      "url": "https://arxiv.org/abs/2409.02292",
-      "title_zh": "通过从 RAM 拼写无线电信号，从气隙计算机窃取秘密（2024）",
-      "is_new": false,
-      "created_display": "Created: Oct 31, 2026 / 18:46 PT",
-      "image_url": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
-      "summary_en": "Researchers describe an attack in which malware on an air-gapped computer generates radio signals through memory buses. The signals can encode files, images, keystrokes, biometric data, and encryption keys, which an attacker can intercept using software-defined radio and an inexpensive antenna. The paper presents the attack's design, implementation, and evaluation.",
-      "summary_zh": "研究人员描述了一种攻击：气隙计算机上的恶意软件通过内存总线生成无线电信号。这些信号可以编码文件、图像、键盘记录、生物特征数据和加密密钥，攻击者则可使用软件定义无线电和廉价天线进行拦截。论文介绍了该攻击的设计、实现和评估结果。",
-      "hn": {
-        "id": 50322022,
-        "type": "story",
-        "by": "hapax_legomena",
-        "score": 220,
-        "descendants": 104,
-        "time": 1793497589,
-        "comments_url": "https://news.ycombinator.com/item?id=50322022"
-      },
-      "tags": [
+        "AI",
+        "Science",
         "Security"
       ],
-      "hot_score": 0.12
+      "hot_score": 0.08
     },
     {
-      "title_en": "Making Peace with the Projective Plane",
-      "url": "https://www.johndcook.com/blog/2026/11/02/projective-plane/",
-      "title_zh": "与射影平面和解",
+      "title_en": "The Ford Privacy Promise: You're in Control of Your Data",
+      "url": "https://www.fromtheroad.ford.com/us/en/articles/2026/introducing-the-ford-privacy-promise",
+      "title_zh": "福特隐私承诺：你的数据由你掌控",
       "is_new": false,
-      "created_display": "Created: Nov 02, 2026 / 09:47 PT",
-      "image_url": "https://www.johndcook.com/blog/wp-content/uploads/2022/05/twittercard.png",
-      "summary_en": "The essay explains projective geometry as a natural response to practical problems rather than an arbitrary abstraction. Projective space and homogeneous coordinates eliminate exceptional cases and informal references to points at infinity. The author describes coming to appreciate these ideas only later, after initially finding them unmotivated as a student.",
-      "summary_zh": "这篇文章将射影几何解释为解决实际问题的自然工具，而非任意的抽象。射影空间和齐次坐标能够消除特殊情况，以及对“无穷远处对象”的非严格描述。作者回忆说，自己学生时代觉得这些概念缺乏动机，后来才认识到它们的自然性。",
+      "created_display": "Created: Nov 02, 2026 / 13:37 PT",
+      "image_url": "https://www.fromtheroad.ford.com/content/dam/fordmediasite/us/en/library/2026/privacy-promise/26_FRD_BRO_70973_Connectivity_Package.jpg/_jcr_content/renditions/cq5dam.web.1280.1280.jpeg",
+      "summary_en": "Ford announced a “Privacy Promise” focused on its responsibility to safeguard customer data.",
+      "summary_zh": "福特宣布推出“隐私承诺”，强调其保护客户数据的责任。",
       "hn": {
-        "id": 50340629,
+        "id": 50344158,
         "type": "story",
-        "by": "ibobev",
-        "score": 41,
-        "descendants": 18,
-        "time": 1793641679,
-        "comments_url": "https://news.ycombinator.com/item?id=50340629"
+        "by": "KoftaBob",
+        "score": 49,
+        "descendants": 62,
+        "time": 1793655420,
+        "comments_url": "https://news.ycombinator.com/item?id=50344158"
       },
       "tags": [
-        "Science",
-        "Education"
+        "Privacy"
       ],
-      "hot_score": 0.12
+      "hot_score": 0.08
+    },
+    {
+      "title_en": "V100 SXM2 pinout and NVLink reference",
+      "url": "https://github.com/pigeon-labs-stack/v100-sxm2-reference",
+      "title_zh": "V100 SXM2 引脚图与 NVLink 参考资料",
+      "is_new": false,
+      "created_display": "Created: Nov 02, 2026 / 14:30 PT",
+      "image_url": "https://opengraph.githubassets.com/60b85c70f0136ec72d694a15c23af7eb22809f1af6fecc581c6ce1a008c76b37/pigeon-labs-stack/v100-sxm2-reference",
+      "summary_en": "This project collects V100 SXM2 pin maps, two- and four-GPU NVLink connection plans, and connector-only KiCad resources. It aims to support an open-source carrier-board design for Nvidia V100 SXM2 modules, while enabling others to develop their own designs.",
+      "summary_zh": "该项目整理了 V100 SXM2 引脚图、双 GPU 和四 GPU 的 NVLink 连接方案，以及仅含连接器的 KiCad 资源。项目目标是支持 Nvidia V100 SXM2 模块的开源载板设计，同时让其他人能够据此开发自己的设计。",
+      "hn": {
+        "id": 50344912,
+        "type": "story",
+        "by": "airhangerf15",
+        "score": 48,
+        "descendants": 17,
+        "time": 1793658613,
+        "comments_url": "https://news.ycombinator.com/item?id=50344912"
+      },
+      "tags": [
+        "Hardware",
+        "Open Source"
+      ],
+      "hot_score": 0.08
+    },
+    {
+      "title_en": "Open models can do 90 percent of agentic work at a twentieth of the cost",
+      "url": "https://www.theregister.com/ai-and-ml/2026/11/03/open-models-can-do-90-percent-of-agentic-work-at-a-twentieth-of-the-cost-of-a-frontier-llm-gartner/5307132",
+      "title_zh": "开源模型能以二十分之一的成本完成 90% 的智能体工作",
+      "is_new": false,
+      "created_display": "Created: Nov 02, 2026 / 23:46 PT",
+      "image_url": "https://image.theregister.com/5307139.jpg?imageId=5307139&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+      "summary_en": "Gartner estimates that nine out of ten agent-workflow steps are routine and can be handled at parity by open-weight models. The firm says these models cost about one-quarter as much as the cheapest closed model, while model makers may compete for the remaining 10% of more valuable steps. The analysis argues that agent harnesses may be more valuable than the underlying models.",
+      "summary_zh": "Gartner 估计，智能体工作流中十分之九的步骤属于常规任务，开放权重模型可以达到同等效果。该机构称，这些模型的成本约为最便宜闭源模型的四分之一，而模型厂商可能会争夺剩余 10% 的高价值步骤。分析认为，智能体运行框架可能比底层模型更有价值。",
+      "hn": {
+        "id": 50349222,
+        "type": "story",
+        "by": "Betelbuddy",
+        "score": 27,
+        "descendants": 4,
+        "time": 1793691996,
+        "comments_url": "https://news.ycombinator.com/item?id=50349222"
+      },
+      "tags": [
+        "AI",
+        "Business"
+      ],
+      "hot_score": 0.08
     },
     {
       "title_en": "Mystery of 60-Second Fluctuations in Power Grids Solved",
@@ -1921,108 +1796,15 @@
         "id": 50315217,
         "type": "story",
         "by": "_Microft",
-        "score": 261,
-        "descendants": 113,
+        "score": 263,
+        "descendants": 114,
         "time": 1793447627,
         "comments_url": "https://news.ycombinator.com/item?id=50315217"
       },
       "tags": [
         "Energy"
       ],
-      "hot_score": 0.1
-    },
-    {
-      "title_en": "Toit v2.0.0",
-      "url": "https://toit.io/blog/toit-v2-0-0/",
-      "title_zh": "Toit v2.0.0",
-      "is_new": false,
-      "created_display": "Created: Oct 31, 2026 / 17:25 PT",
-      "image_url": null,
-      "summary_en": "Toit v2.0.0 has been released after more than four years of alpha development. The project accumulated more than 2,000 commits, over 500,000 changed lines, and more than 200 alpha releases. Toit began as closed-source software, later became open source, and continued to receive volunteer contributions after Toitware shut down in 2024.",
-      "summary_zh": "经过四年多的 alpha 开发，Toit v2.0.0 正式发布。项目累计完成超过 2,000 次提交、修改超过 50 万行代码，并经历了 200 多个 alpha 版本。Toit 最初是闭源软件，后来转为开源；Toitware 于 2024 年停止运营后，项目仍由志愿者持续维护。",
-      "hn": {
-        "id": 50321605,
-        "type": "story",
-        "by": "floitsch",
-        "score": 186,
-        "descendants": 63,
-        "time": 1793492704,
-        "comments_url": "https://news.ycombinator.com/item?id=50321605"
-      },
-      "tags": [
-        "Programming",
-        "Open Source"
-      ],
-      "hot_score": 0.1
-    },
-    {
-      "title_en": "Wir müssen wissen – wir werden wissen",
-      "url": "https://remy.wang/blog/hilbert.html",
-      "title_zh": "我们必须知道——我们必将知道",
-      "is_new": false,
-      "created_display": "Created: Nov 02, 2026 / 00:07 PT",
-      "image_url": null,
-      "summary_en": "The essay recounts how paradoxes such as Russell's paradox triggered a foundational crisis in mathematics. Hilbert sought a complete and consistent axiomatic foundation, but Gödel's incompleteness theorems showed that no complete, consistent, self-supporting system of mathematics can exist. The title quotes Hilbert's declaration, “We must know—we will know.”",
-      "summary_zh": "文章回顾了罗素悖论等悖论如何引发数学基础危机。希尔伯特曾试图建立完备且一致的公理体系，但哥德尔不完备定理表明，不可能存在一个完备、一致且自我支撑的数学体系。标题引用了希尔伯特的宣言：“我们必须知道——我们必将知道。”",
-      "hn": {
-        "id": 50334240,
-        "type": "story",
-        "by": "remywang",
-        "score": 60,
-        "descendants": 20,
-        "time": 1793606840,
-        "comments_url": "https://news.ycombinator.com/item?id=50334240"
-      },
-      "tags": [
-        "Science"
-      ],
-      "hot_score": 0.1
-    },
-    {
-      "title_en": "GUI64 – GUI for the Commodore 64 running on top of the built-in ROM",
-      "url": "https://www.c64-wiki.com/wiki/GUI64",
-      "title_zh": "GUI64——运行在 C64 内置 ROM 之上的图形界面",
-      "is_new": false,
-      "created_display": "Created: Nov 02, 2026 / 15:32 PT",
-      "image_url": "https://www.c64-wiki.com/images/b/bb/GUI64_System3.png",
-      "summary_en": "GUI64 is a graphical layer running on top of the Commodore 64's built-in Kernal rather than a standalone operating system. It provides movable windows for managing floppy-disk files and SD2IEC disk images, and can mount images directly on Ultimate devices. The current version is reported as 2.1 and supports a mouse, joystick, and mouse wheel through a Micromys adapter or the VICE emulator.",
-      "summary_zh": "GUI64 是运行在 Commodore 64 内置 Kernal 之上的图形层，而不是独立操作系统。它通过可移动窗口管理软盘文件和 SD2IEC 磁盘镜像，并可在 Ultimate 设备中直接挂载镜像。据资料显示，当前版本为 2.1，支持鼠标、摇杆，以及通过 Micromys 适配器或 VICE 模拟器使用鼠标滚轮。",
-      "hn": {
-        "id": 50345735,
-        "type": "story",
-        "by": "ethanpil",
-        "score": 21,
-        "descendants": 8,
-        "time": 1793662342,
-        "comments_url": "https://news.ycombinator.com/item?id=50345735"
-      },
-      "tags": [
-        "Programming"
-      ],
-      "hot_score": 0.1
-    },
-    {
-      "title_en": "From Charlemagne to the Kitchen Boy: Reading the Hamburg Rathaus",
-      "url": "https://alsterrunde.com/from-charlemagne-to-the-kitchen-boy-reading-the-hamburg-rathaus/",
-      "title_zh": "从查理曼大帝到厨房男孩：阅读汉堡市政厅",
-      "is_new": false,
-      "created_display": "Created: Nov 01, 2026 / 22:39 PT",
-      "image_url": "https://cdn.synaps.media/alsterrunde/content/images/size/w1200/2026/10/IMG_2755.jpeg",
-      "summary_en": "One example is its turquoise roof: the roof is made of copper, whose reaction with oxygen, water, and carbon dioxide gradually forms a green patina.",
-      "summary_zh": "文章通过一百多个细节，讲述汉堡市政厅如何呈现这座城市的历史。其中一个例子是它的蓝绿色屋顶：屋顶由铜制成，铜与空气中的氧气、水和二氧化碳发生反应，经过多年逐渐形成绿色的铜锈。",
-      "hn": {
-        "id": 50333774,
-        "type": "story",
-        "by": "mertbio",
-        "score": 61,
-        "descendants": 10,
-        "time": 1793601582,
-        "comments_url": "https://news.ycombinator.com/item?id=50333774"
-      },
-      "tags": [
-        "Design"
-      ],
-      "hot_score": 0.09
+      "hot_score": 0.07
     },
     {
       "title_en": "Shrinking NixOS RAM footprint and resource requirements to the bare minimum",
@@ -2037,15 +1819,141 @@
         "id": 50326246,
         "type": "story",
         "by": "birdculture",
-        "score": 103,
-        "descendants": 14,
+        "score": 121,
+        "descendants": 16,
         "time": 1793544725,
         "comments_url": "https://news.ycombinator.com/item?id=50326246"
       },
       "tags": [
         "DevOps"
       ],
-      "hot_score": 0.08
+      "hot_score": 0.06
+    },
+    {
+      "title_en": "Mass attempted replication of old findings of LLMs with new models",
+      "url": "https://zou-group.github.io/llm-claims-shelf-life/",
+      "title_zh": "大规模尝试用新模型复现 LLM 的旧发现",
+      "is_new": false,
+      "created_display": "Created: Nov 02, 2026 / 19:41 PT",
+      "image_url": "https://zou-group.github.io/llm-claims-shelf-life/preview.png",
+      "summary_en": "Researchers revisited 50 published findings about language models across 20 models. Within 15 months of publication, most tested claims either no longer held or had substantially weaker effects. The results suggest that some empirical knowledge about AI may have a short shelf life.",
+      "summary_zh": "研究人员在 20 个模型上重新检验了 50 项已发表的语言模型研究发现。发表后 15 个月内，大多数被测试的结论要么不再成立，要么效果明显减弱。结果表明，部分关于 AI 的经验性认识可能具有较短的有效期。",
+      "hn": {
+        "id": 50347766,
+        "type": "story",
+        "by": "zirkonit",
+        "score": 28,
+        "descendants": 4,
+        "time": 1793677289,
+        "comments_url": "https://news.ycombinator.com/item?id=50347766"
+      },
+      "tags": [
+        "AI",
+        "Science"
+      ],
+      "hot_score": 0.06
+    },
+    {
+      "title_en": "Show HN: Rustable is an open source database client built in Rust",
+      "url": "https://rustable.app",
+      "title_zh": "Show HN：Rustable——用 Rust 编写的开源数据库客户端",
+      "is_new": false,
+      "created_display": "Created: Nov 02, 2026 / 19:06 PT",
+      "image_url": "https://rustable.app/assets/social-preview.png",
+      "summary_en": "Rustable is an open-source, native database client for macOS, Windows, and Linux. It is written in Rust.",
+      "summary_zh": "Rustable 是一款面向 macOS、Windows 和 Linux 的开源原生数据库客户端，使用 Rust 编写。",
+      "hn": {
+        "id": 50347524,
+        "type": "story",
+        "by": "JaTochNietDan",
+        "score": 27,
+        "descendants": 20,
+        "time": 1793675213,
+        "comments_url": "https://news.ycombinator.com/item?id=50347524"
+      },
+      "tags": [
+        "Show HN",
+        "Programming",
+        "Open Source",
+        "Data"
+      ],
+      "hot_score": 0.06
+    },
+    {
+      "title_en": "Show HN: ReBirth 338 in Browser",
+      "url": "https://margeux.com/rb338.html",
+      "title_zh": "Show HN：在浏览器中运行 ReBirth 338",
+      "is_new": false,
+      "created_display": "Created: Nov 02, 2026 / 22:24 PT",
+      "image_url": null,
+      "summary_en": "The project runs the original Windows release of ReBirth RB-338 in a browser using Wine and WebAssembly.",
+      "summary_zh": "这个项目利用 Wine 和 WebAssembly，在浏览器中运行原版 Windows 版 ReBirth RB-338。",
+      "hn": {
+        "id": 50348740,
+        "type": "story",
+        "by": "vegnus",
+        "score": 24,
+        "descendants": 11,
+        "time": 1793687090,
+        "comments_url": "https://news.ycombinator.com/item?id=50348740"
+      },
+      "tags": [
+        "Show HN",
+        "Programming",
+        "Web"
+      ],
+      "hot_score": 0.06
+    },
+    {
+      "title_en": "How AI is creating a lopsided US economy",
+      "url": "https://www.abc.net.au/news/2026-10-19/ai-stock-market-concentration-data/107261078",
+      "title_zh": "AI 如何造成美国经济失衡",
+      "is_new": false,
+      "created_display": "Created: Nov 02, 2026 / 21:58 PT",
+      "image_url": "https://live-production.wcms.abc-cdn.net.au/4c25fdf2d637dc1c52110f19574366f9?impolicy=wcms_watermark_news&cropH=675&cropW=1200&xPos=0&yPos=44&width=862&height=485&imformat=generic",
+      "summary_en": "Experts warn that AI's dominance of the U.S. stock market is creating its own risks. The discussion points to the concentration of some of the world's wealthiest people around President Donald Trump at the White House AI Summit.",
+      "summary_zh": "专家警告，AI 对美国股市的主导地位正在制造新的风险。相关讨论提到，在白宫 AI 峰会上，全球一些最富有的人聚集在美国总统唐纳德·特朗普周围。",
+      "hn": {
+        "id": 50348591,
+        "type": "story",
+        "by": "gmays",
+        "score": 24,
+        "descendants": 0,
+        "time": 1793685507,
+        "comments_url": "https://news.ycombinator.com/item?id=50348591"
+      },
+      "tags": [
+        "AI",
+        "Business",
+        "Finance",
+        "Politics"
+      ],
+      "hot_score": 0.06
+    },
+    {
+      "title_en": "Running a bootstrapped SaaS for 20 years with my brother",
+      "url": "https://blog.zamzar.com/2026/10/30/20-years-766-million-files-two-chameleons/",
+      "title_zh": "与兄弟一起经营自力更生的 SaaS 公司 20 年",
+      "is_new": false,
+      "created_display": "Created: Oct 30, 2026 / 06:58 PT",
+      "image_url": "https://blog.zamzar.com/wp-content/uploads/2026/10/mike-and-chris.jpg",
+      "summary_en": "Two brothers launched a small UK SaaS business in 2006 using dial-up modems and basic HTML knowledge. After 20 years, the service has completed 766,615,348 file conversions. The account reflects on the ups and downs of running the business without outside funding.",
+      "summary_zh": "两兄弟于 2006 年使用拨号调制解调器和基础 HTML 知识创办了一家英国小型 SaaS 公司。20 年后，这项服务已经完成 766,615,348 次文件转换。文章回顾了不依赖外部融资经营这家公司的起伏。",
+      "hn": {
+        "id": 50303984,
+        "type": "story",
+        "by": "whyleyc",
+        "score": 261,
+        "descendants": 62,
+        "time": 1793368722,
+        "comments_url": "https://news.ycombinator.com/item?id=50303984"
+      },
+      "tags": [
+        "Startups",
+        "Business",
+        "Web"
+      ],
+      "hot_score": 0.05
     },
     {
       "title_en": "Domain hacks with unusual Unicode characters (2018)",
@@ -2068,105 +1976,101 @@
       "tags": [
         "Web"
       ],
-      "hot_score": 0.07
+      "hot_score": 0.05
     },
     {
-      "title_en": "Show HN: PyWolf3D, a wolfenstein3D clone written from scratch in Python",
-      "url": "https://github.com/atifcodesalot/pyWolf3D",
-      "title_zh": "Show HN：PyWolf3D——从零用 Python 编写的 Wolfenstein 3D 克隆版",
+      "title_en": "Wir müssen wissen – wir werden wissen",
+      "url": "https://remy.wang/blog/hilbert.html",
+      "title_zh": "我们必须知道——我们必将知道",
       "is_new": false,
-      "created_display": "Created: Nov 02, 2026 / 08:09 PT",
-      "image_url": "https://opengraph.githubassets.com/4367de81e21c74074b7b18f416574fa162758247ae03c55eeebffdd81bbecb73/atifcodesalot/pyWolf3D",
-      "summary_en": "PyWolf3D is a Wolfenstein 3D engine and game clone written from scratch in Python using Pygame. A demo is included.",
-      "summary_zh": "PyWolf3D 是一个使用 Python 和 Pygame 从零编写的 Wolfenstein 3D 引擎及游戏克隆版，并提供演示。",
+      "created_display": "Created: Nov 02, 2026 / 00:07 PT",
+      "image_url": null,
+      "summary_en": "The essay recounts how paradoxes such as Russell's paradox triggered a foundational crisis in mathematics. Hilbert sought a complete and consistent axiomatic foundation, but Gödel's incompleteness theorems showed that no complete, consistent, self-supporting system of mathematics can exist. The title quotes Hilbert's declaration, “We must know—we will know.”",
+      "summary_zh": "文章回顾了罗素悖论等悖论如何引发数学基础危机。希尔伯特曾试图建立完备且一致的公理体系，但哥德尔不完备定理表明，不可能存在一个完备、一致且自我支撑的数学体系。标题引用了希尔伯特的宣言：“我们必须知道——我们必将知道。”",
       "hn": {
-        "id": 50338891,
+        "id": 50334240,
         "type": "story",
-        "by": "BSPtree",
-        "score": 28,
-        "descendants": 7,
-        "time": 1793635753,
-        "comments_url": "https://news.ycombinator.com/item?id=50338891"
-      },
-      "tags": [
-        "Show HN",
-        "Programming",
-        "Gaming"
-      ],
-      "hot_score": 0.07
-    },
-    {
-      "title_en": "Running a bootstrapped SaaS for 20 years with my brother",
-      "url": "https://blog.zamzar.com/2026/10/30/20-years-766-million-files-two-chameleons/",
-      "title_zh": "与兄弟一起经营自力更生的 SaaS 公司 20 年",
-      "is_new": false,
-      "created_display": "Created: Oct 30, 2026 / 06:58 PT",
-      "image_url": "https://blog.zamzar.com/wp-content/uploads/2026/10/mike-and-chris.jpg",
-      "summary_en": "Two brothers launched a small UK SaaS business in 2006 using dial-up modems and basic HTML knowledge. After 20 years, the service has completed 766,615,348 file conversions. The account reflects on the ups and downs of running the business without outside funding.",
-      "summary_zh": "两兄弟于 2006 年使用拨号调制解调器和基础 HTML 知识创办了一家英国小型 SaaS 公司。20 年后，这项服务已经完成 766,615,348 次文件转换。文章回顾了不依赖外部融资经营这家公司的起伏。",
-      "hn": {
-        "id": 50303984,
-        "type": "story",
-        "by": "whyleyc",
-        "score": 260,
-        "descendants": 62,
-        "time": 1793368722,
-        "comments_url": "https://news.ycombinator.com/item?id=50303984"
-      },
-      "tags": [
-        "Startups",
-        "Business",
-        "Web"
-      ],
-      "hot_score": 0.06
-    },
-    {
-      "title_en": "Vathographs: Photographic depth maps as creative expression",
-      "url": "https://vathography.com/",
-      "title_zh": "Vathographs：以摄影深度图作为创作表达",
-      "is_new": false,
-      "created_display": "Created: Nov 01, 2026 / 17:11 PT",
-      "image_url": "https://vathography.com/assets/images/share.jpg",
-      "summary_en": "Vathography is an art practice that turns the depth estimated from a photograph into an artwork. A diffusion transformer infers the relative distance of every point in a scene from a single image, translating the photograph's visual data into volume rather than documentary imagery. The work was inspired by Marigold V2's ability to produce detailed component maps suitable for high-resolution art.",
-      "summary_zh": "Vathography 是一种将照片估算出的深度转化为艺术作品的创作实践。扩散 Transformer 根据单张图像推断场景中每个点的相对距离，把照片数据转译为体积和形态，而不再保留其作为纪实照片的性质。Marigold V2 能生成足够细致、适合高分辨率创作的分层图像，促成了这一探索。",
-      "hn": {
-        "id": 50331800,
-        "type": "story",
-        "by": "hankbond",
-        "score": 48,
+        "by": "remywang",
+        "score": 61,
         "descendants": 20,
-        "time": 1793581879,
-        "comments_url": "https://news.ycombinator.com/item?id=50331800"
+        "time": 1793606840,
+        "comments_url": "https://news.ycombinator.com/item?id=50334240"
       },
       "tags": [
-        "AI",
-        "Culture"
+        "Science"
       ],
-      "hot_score": 0.06
+      "hot_score": 0.05
     },
     {
-      "title_en": "Stolen AI API keys generated nearly $1M in charges for a single company",
-      "url": "https://cloud.google.com/blog/topics/threat-intelligence/llmjacking-monetizing-compromised-cloud-models/",
-      "title_zh": "被盗的 AI API 密钥为单家公司产生近 100 万美元费用",
+      "title_en": "From Charlemagne to the Kitchen Boy: Reading the Hamburg Rathaus",
+      "url": "https://alsterrunde.com/from-charlemagne-to-the-kitchen-boy-reading-the-hamburg-rathaus/",
+      "title_zh": "从查理曼大帝到厨房男孩：阅读汉堡市政厅",
       "is_new": false,
-      "created_display": "Created: Nov 02, 2026 / 16:32 PT",
-      "image_url": "https://storage.googleapis.com/gweb-cloudblog-publish/images/03_ThreatIntelligenceWebsiteBannerIdeas_BA.max-2600x2600.png",
-      "summary_en": "Mandiant describes LLMJacking attacks in which stolen AI credentials generate fraudulent cloud bills. The attacks can cost victims hundreds of thousands of dollars, while underground markets trade compromised credentials for access to hosted language models.",
-      "summary_zh": "Mandiant 描述了利用被盗 AI 凭证制造虚假云账单的 LLMJacking 攻击。这类攻击可能让受害者损失数十万美元，地下市场则交易被入侵的凭证，以访问托管的大语言模型。",
+      "created_display": "Created: Nov 01, 2026 / 22:39 PT",
+      "image_url": "https://cdn.synaps.media/alsterrunde/content/images/size/w1200/2026/10/IMG_2755.jpeg",
+      "summary_en": "One example is its turquoise roof: the roof is made of copper, whose reaction with oxygen, water, and carbon dioxide gradually forms a green patina.",
+      "summary_zh": "文章通过一百多个细节，讲述汉堡市政厅如何呈现这座城市的历史。其中一个例子是它的蓝绿色屋顶：屋顶由铜制成，铜与空气中的氧气、水和二氧化碳发生反应，经过多年逐渐形成绿色的铜锈。",
       "hn": {
-        "id": 50346350,
+        "id": 50333774,
         "type": "story",
-        "by": "khalidkhair",
-        "score": 12,
-        "descendants": 2,
-        "time": 1793665952,
-        "comments_url": "https://news.ycombinator.com/item?id=50346350"
+        "by": "mertbio",
+        "score": 61,
+        "descendants": 10,
+        "time": 1793601582,
+        "comments_url": "https://news.ycombinator.com/item?id=50333774"
       },
       "tags": [
-        "Security",
-        "AI"
+        "Design"
       ],
-      "hot_score": 0.06
+      "hot_score": 0.05
+    },
+    {
+      "title_en": "Making Peace with the Projective Plane",
+      "url": "https://www.johndcook.com/blog/2026/11/02/projective-plane/",
+      "title_zh": "与射影平面和解",
+      "is_new": false,
+      "created_display": "Created: Nov 02, 2026 / 09:47 PT",
+      "image_url": "https://www.johndcook.com/blog/wp-content/uploads/2022/05/twittercard.png",
+      "summary_en": "The essay explains projective geometry as a natural response to practical problems rather than an arbitrary abstraction. Projective space and homogeneous coordinates eliminate exceptional cases and informal references to points at infinity. The author describes coming to appreciate these ideas only later, after initially finding them unmotivated as a student.",
+      "summary_zh": "这篇文章将射影几何解释为解决实际问题的自然工具，而非任意的抽象。射影空间和齐次坐标能够消除特殊情况，以及对“无穷远处对象”的非严格描述。作者回忆说，自己学生时代觉得这些概念缺乏动机，后来才认识到它们的自然性。",
+      "hn": {
+        "id": 50340629,
+        "type": "story",
+        "by": "ibobev",
+        "score": 42,
+        "descendants": 18,
+        "time": 1793641679,
+        "comments_url": "https://news.ycombinator.com/item?id=50340629"
+      },
+      "tags": [
+        "Science",
+        "Education"
+      ],
+      "hot_score": 0.05
+    },
+    {
+      "title_en": "NASA's Swift space telescope predicted to crash back to Earth tomorrow",
+      "url": "https://www.abc.net.au/news/science/2026-11-03/nasa-swift-telescope-crash-landing/100018476",
+      "title_zh": "NASA Swift 太空望远镜预计明天坠回地球",
+      "is_new": false,
+      "created_display": "Created: Nov 02, 2026 / 20:47 PT",
+      "image_url": "https://live-production.wcms.abc-cdn.net.au/f9cdfffb9a33d78ee808ee37b84d3040?impolicy=wcms_watermark_news&cropH=788&cropW=1400&xPos=7&yPos=103&width=862&height=485&imformat=generic",
+      "summary_en": "NASA's Neil Gehrels Swift Observatory, which has been in orbit for 22 years, is expected to reenter the atmosphere tomorrow. Plans to save the defunct space telescope failed, and its descent can be tracked.",
+      "summary_zh": "NASA 的 Neil Gehrels Swift 天文台已在轨运行 22 年，预计将于明天重返大气层。拯救这台失效太空望远镜的计划未能成功，目前可以追踪其下降过程。",
+      "hn": {
+        "id": 50348194,
+        "type": "story",
+        "by": "Gaishan",
+        "score": 22,
+        "descendants": 4,
+        "time": 1793681236,
+        "comments_url": "https://news.ycombinator.com/item?id=50348194"
+      },
+      "tags": [
+        "Space",
+        "Science"
+      ],
+      "hot_score": 0.05
     },
     {
       "title_en": "Zinc creep in cable spelter sockets brought down the Arecibo telescope in 2020",
@@ -2181,7 +2085,7 @@
         "id": 50311045,
         "type": "story",
         "by": "ohjeez",
-        "score": 188,
+        "score": 189,
         "descendants": 62,
         "time": 1793400063,
         "comments_url": "https://news.ycombinator.com/item?id=50311045"
@@ -2190,7 +2094,7 @@
         "Science",
         "Space"
       ],
-      "hot_score": 0.05
+      "hot_score": 0.04
     },
     {
       "title_en": "Efficient algorithms, the Exponential Time Hypothesis, and losing the plot",
@@ -2206,14 +2110,86 @@
         "type": "story",
         "by": "sebg",
         "score": 102,
-        "descendants": 77,
+        "descendants": 85,
         "time": 1793485909,
         "comments_url": "https://news.ycombinator.com/item?id=50320904"
       },
       "tags": [
         "Science"
       ],
-      "hot_score": 0.05
+      "hot_score": 0.04
+    },
+    {
+      "title_en": "Vathographs: Photographic depth maps as creative expression",
+      "url": "https://vathography.com/",
+      "title_zh": "Vathographs：以摄影深度图作为创作表达",
+      "is_new": false,
+      "created_display": "Created: Nov 01, 2026 / 17:11 PT",
+      "image_url": "https://vathography.com/assets/images/share.jpg",
+      "summary_en": "Vathography is an art practice that turns the depth estimated from a photograph into an artwork. A diffusion transformer infers the relative distance of every point in a scene from a single image, translating the photograph's visual data into volume rather than documentary imagery. The work was inspired by Marigold V2's ability to produce detailed component maps suitable for high-resolution art.",
+      "summary_zh": "Vathography 是一种将照片估算出的深度转化为艺术作品的创作实践。扩散 Transformer 根据单张图像推断场景中每个点的相对距离，把照片数据转译为体积和形态，而不再保留其作为纪实照片的性质。Marigold V2 能生成足够细致、适合高分辨率创作的分层图像，促成了这一探索。",
+      "hn": {
+        "id": 50331800,
+        "type": "story",
+        "by": "hankbond",
+        "score": 53,
+        "descendants": 26,
+        "time": 1793581879,
+        "comments_url": "https://news.ycombinator.com/item?id=50331800"
+      },
+      "tags": [
+        "AI",
+        "Culture"
+      ],
+      "hot_score": 0.04
+    },
+    {
+      "title_en": "Show HN: PyWolf3D, a wolfenstein3D clone written from scratch in Python",
+      "url": "https://github.com/atifcodesalot/pyWolf3D",
+      "title_zh": "Show HN：PyWolf3D——从零用 Python 编写的 Wolfenstein 3D 克隆版",
+      "is_new": false,
+      "created_display": "Created: Nov 02, 2026 / 08:09 PT",
+      "image_url": "https://opengraph.githubassets.com/4367de81e21c74074b7b18f416574fa162758247ae03c55eeebffdd81bbecb73/atifcodesalot/pyWolf3D",
+      "summary_en": "PyWolf3D is a Wolfenstein 3D engine and game clone written from scratch in Python using Pygame. A demo is included.",
+      "summary_zh": "PyWolf3D 是一个使用 Python 和 Pygame 从零编写的 Wolfenstein 3D 引擎及游戏克隆版，并提供演示。",
+      "hn": {
+        "id": 50338891,
+        "type": "story",
+        "by": "BSPtree",
+        "score": 31,
+        "descendants": 8,
+        "time": 1793635753,
+        "comments_url": "https://news.ycombinator.com/item?id=50338891"
+      },
+      "tags": [
+        "Show HN",
+        "Programming",
+        "Gaming"
+      ],
+      "hot_score": 0.04
+    },
+    {
+      "title_en": "GUI64 – GUI for the Commodore 64 running on top of the built-in ROM",
+      "url": "https://www.c64-wiki.com/wiki/GUI64",
+      "title_zh": "GUI64——运行在 C64 内置 ROM 之上的图形界面",
+      "is_new": false,
+      "created_display": "Created: Nov 02, 2026 / 15:32 PT",
+      "image_url": "https://www.c64-wiki.com/images/b/bb/GUI64_System3.png",
+      "summary_en": "GUI64 is a graphical layer running on top of the Commodore 64's built-in Kernal rather than a standalone operating system. It provides movable windows for managing floppy-disk files and SD2IEC disk images, and can mount images directly on Ultimate devices. The current version is reported as 2.1 and supports a mouse, joystick, and mouse wheel through a Micromys adapter or the VICE emulator.",
+      "summary_zh": "GUI64 是运行在 Commodore 64 内置 Kernal 之上的图形层，而不是独立操作系统。它通过可移动窗口管理软盘文件和 SD2IEC 磁盘镜像，并可在 Ultimate 设备中直接挂载镜像。据资料显示，当前版本为 2.1，支持鼠标、摇杆，以及通过 Micromys 适配器或 VICE 模拟器使用鼠标滚轮。",
+      "hn": {
+        "id": 50345735,
+        "type": "story",
+        "by": "ethanpil",
+        "score": 23,
+        "descendants": 8,
+        "time": 1793662342,
+        "comments_url": "https://news.ycombinator.com/item?id=50345735"
+      },
+      "tags": [
+        "Programming"
+      ],
+      "hot_score": 0.04
     },
     {
       "title_en": "Show HN: I rebuilt my old canvas 3D library as a small WebGL 2 library – phoria2",
@@ -2228,7 +2204,7 @@
         "id": 50314508,
         "type": "story",
         "by": "kevs3d",
-        "score": 103,
+        "score": 106,
         "descendants": 29,
         "time": 1793440182,
         "comments_url": "https://news.ycombinator.com/item?id=50314508"
@@ -2238,7 +2214,7 @@
         "Web",
         "Programming"
       ],
-      "hot_score": 0.04
+      "hot_score": 0.03
     },
     {
       "title_en": "Optical Circuit Switch Technology Built on Low-Loss Silicon Photonics Platform",
@@ -2253,7 +2229,7 @@
         "id": 50331988,
         "type": "story",
         "by": "gmays",
-        "score": 35,
+        "score": 41,
         "descendants": 1,
         "time": 1793583256,
         "comments_url": "https://news.ycombinator.com/item?id=50331988"
@@ -2262,7 +2238,7 @@
         "Hardware",
         "AI"
       ],
-      "hot_score": 0.04
+      "hot_score": 0.03
     },
     {
       "title_en": "Radiation Map of the World",
@@ -2286,7 +2262,7 @@
         "Science",
         "Data"
       ],
-      "hot_score": 0.03
+      "hot_score": 0.02
     },
     {
       "title_en": "New 3D thermal invisibility cloak makes objects disappear from infrared cameras",
@@ -2301,7 +2277,7 @@
         "id": 50299427,
         "type": "story",
         "by": "stevenalowe",
-        "score": 113,
+        "score": 116,
         "descendants": 42,
         "time": 1793329612,
         "comments_url": "https://news.ycombinator.com/item?id=50299427"
@@ -2312,25 +2288,25 @@
       "hot_score": 0.02
     },
     {
-      "title_en": "When Modernization Breaks Working Code: A Study of LLMs on Legacy PHP",
-      "url": "https://arxiv.org/abs/2610.40269",
-      "title_zh": "现代化破坏可运行代码：LLM 处理遗留 PHP 的研究",
+      "title_en": "Stolen AI API keys generated nearly $1M in charges for a single company",
+      "url": "https://cloud.google.com/blog/topics/threat-intelligence/llmjacking-monetizing-compromised-cloud-models/",
+      "title_zh": "被盗的 AI API 密钥为单家公司产生近 100 万美元费用",
       "is_new": false,
-      "created_display": "Created: Nov 01, 2026 / 13:22 PT",
-      "image_url": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
-      "summary_en": "The study asked five LLMs to modernize 100 WordPress 4.0 PHP files to PHP 8.3 without project context or execution feedback. The untouched baseline had 83 files passing all hidden checks, while the best LLM left 59; models broke 32–51 working files and repaired at most 10. Rector performed better on compatibility, and many regressions came from type declarations that PHP rejected.",
-      "summary_zh": "该研究让五个 LLM 在没有项目上下文和运行反馈的情况下，将 100 个 WordPress 4.0 PHP 文件现代化到 PHP 8.3。未修改的基线有 83 个文件通过全部隐藏检查，而表现最好的 LLM 只剩 59 个；各模型破坏了 32 至 51 个原本可运行的文件，最多只修复 10 个。Rector 在兼容性方面表现更好，许多回归源于 PHP 本身拒绝的类型声明。",
+      "created_display": "Created: Nov 02, 2026 / 16:32 PT",
+      "image_url": "https://storage.googleapis.com/gweb-cloudblog-publish/images/03_ThreatIntelligenceWebsiteBannerIdeas_BA.max-2600x2600.png",
+      "summary_en": "Mandiant describes LLMJacking attacks in which stolen AI credentials generate fraudulent cloud bills. The attacks can cost victims hundreds of thousands of dollars, while underground markets trade compromised credentials for access to hosted language models.",
+      "summary_zh": "Mandiant 描述了利用被盗 AI 凭证制造虚假云账单的 LLMJacking 攻击。这类攻击可能让受害者损失数十万美元，地下市场则交易被入侵的凭证，以访问托管的大语言模型。",
       "hn": {
-        "id": 50330033,
+        "id": 50346350,
         "type": "story",
-        "by": "tambourine_man",
-        "score": 22,
-        "descendants": 14,
-        "time": 1793568148,
-        "comments_url": "https://news.ycombinator.com/item?id=50330033"
+        "by": "khalidkhair",
+        "score": 12,
+        "descendants": 2,
+        "time": 1793665952,
+        "comments_url": "https://news.ycombinator.com/item?id=50346350"
       },
       "tags": [
-        "Programming",
+        "Security",
         "AI"
       ],
       "hot_score": 0.02
@@ -2348,7 +2324,7 @@
         "id": 50318615,
         "type": "story",
         "by": "philippemnoel",
-        "score": 30,
+        "score": 31,
         "descendants": 0,
         "time": 1793471203,
         "comments_url": "https://news.ycombinator.com/item?id=50318615"
@@ -2383,6 +2359,30 @@
       "hot_score": 0.01
     },
     {
+      "title_en": "When Modernization Breaks Working Code: A Study of LLMs on Legacy PHP",
+      "url": "https://arxiv.org/abs/2610.40269",
+      "title_zh": "现代化破坏可运行代码：LLM 处理遗留 PHP 的研究",
+      "is_new": false,
+      "created_display": "Created: Nov 01, 2026 / 13:22 PT",
+      "image_url": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+      "summary_en": "The study asked five LLMs to modernize 100 WordPress 4.0 PHP files to PHP 8.3 without project context or execution feedback. The untouched baseline had 83 files passing all hidden checks, while the best LLM left 59; models broke 32–51 working files and repaired at most 10. Rector performed better on compatibility, and many regressions came from type declarations that PHP rejected.",
+      "summary_zh": "该研究让五个 LLM 在没有项目上下文和运行反馈的情况下，将 100 个 WordPress 4.0 PHP 文件现代化到 PHP 8.3。未修改的基线有 83 个文件通过全部隐藏检查，而表现最好的 LLM 只剩 59 个；各模型破坏了 32 至 51 个原本可运行的文件，最多只修复 10 个。Rector 在兼容性方面表现更好，许多回归源于 PHP 本身拒绝的类型声明。",
+      "hn": {
+        "id": 50330033,
+        "type": "story",
+        "by": "tambourine_man",
+        "score": 22,
+        "descendants": 14,
+        "time": 1793568148,
+        "comments_url": "https://news.ycombinator.com/item?id=50330033"
+      },
+      "tags": [
+        "Programming",
+        "AI"
+      ],
+      "hot_score": 0.01
+    },
+    {
       "title_en": "WiCi: Connecting GPUs over WiFi",
       "url": "https://wici.ai",
       "title_zh": "WiCi：通过 Wi-Fi 连接 GPU",
@@ -2395,8 +2395,8 @@
         "id": 50321939,
         "type": "story",
         "by": "shubham0204",
-        "score": 15,
-        "descendants": 6,
+        "score": 18,
+        "descendants": 9,
         "time": 1793496591,
         "comments_url": "https://news.ycombinator.com/item?id=50321939"
       },
