@@ -1,0 +1,1221 @@
+{
+  "meta": {
+    "mode": "top",
+    "source": "https://news.ycombinator.com/",
+    "api": "https://github.com/HackerNews/API",
+    "count_requested": 50,
+    "count_written": 50,
+    "reused_same_day": 0,
+    "reused_cross_day": 0,
+    "reused_history": 0,
+    "new_llm_enriched": 50,
+    "scrape_time_display": "13:05, November 04, 2026 (PST)",
+    "timezone": "America/Los_Angeles",
+    "date_dir": "2026/11/04",
+    "content_date": "2026-11-04",
+    "edition": "morning",
+    "edition_label": "Morning 50",
+    "target_count": 50,
+    "run_time_local": "13:05, November 04, 2026 (PST)",
+    "run_time_utc": "2026-11-04 21:05:14 UTC",
+    "incremental": true,
+    "stories_max": 50,
+    "hot_score_time_utc": "2026-11-04 21:08:30 UTC"
+  },
+  "items": [
+    {
+      "title_en": "AI is forcing us to pay off 40 years of technical debt",
+      "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
+      "title_zh": "AI 正迫使我们偿还 40 年积累的技术债",
+      "is_new": true,
+      "created_display": "Created: Nov 04, 2026 / 03:52 PT",
+      "image_url": "https://spectrum.ieee.org/media-library/image.jpg?id=68544156&width=1200&height=600&coordinates=0%2C312%2C0%2C313",
+      "summary_en": "AI is accelerating both attacks and defenses in cybersecurity. That acceleration is exposing painful technical debt in fragile legacy systems built up over roughly four decades. The pressure from AI is therefore forcing organizations to address weaknesses that older systems had left unresolved.",
+      "summary_zh": "AI 正在同时加速网络攻击和防御。这样的加速暴露了脆弱遗留系统中积累约 40 年的严重技术债。AI 带来的压力因此迫使组织处理旧系统长期遗留下来的弱点。",
+      "hn": {
+        "id": 50364336,
+        "type": "story",
+        "by": "pseudolus",
+        "score": 926,
+        "descendants": 566,
+        "time": 1793793137,
+        "comments_url": "https://news.ycombinator.com/item?id=50364336"
+      },
+      "hot_score": 11.82,
+      "tags": [
+        "AI",
+        "Security"
+      ]
+    },
+    {
+      "title_en": "AMD expects to outsell Intel in Q4 for the first time in history",
+      "url": "https://www.tomshardware.com/pc-components/cpus/amd-expects-to-outsell-intel-in-q4-for-the-first-time-in-history-usd17b-guidance-would-exceed-intels-projections",
+      "title_zh": "AMD 预计第四季度历史首次超过英特尔",
+      "is_new": true,
+      "created_display": "Created: Nov 04, 2026 / 07:38 PT",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/9RbcgLQz2F5o3E3DkoVzeG-1920-80.jpg",
+      "summary_en": "AMD expects to outsell Intel in the fourth quarter for the first time in its history. Record quarterly revenue is being driven by the AI boom, while its client and gaming businesses are facing double-digit declines heading into 2027. The forecast indicates a widening contrast between AMD’s AI growth and its weaker traditional segments.",
+      "summary_zh": "AMD 预计将在第四季度历史上首次超过英特尔。AI 热潮推动其季度营收创下纪录，但面向客户的业务和游戏业务在进入 2027 年时正面临两位数下滑。这一预测显示，AMD 的 AI 业务增长与传统业务疲软之间的差距正在扩大。",
+      "hn": {
+        "id": 50367125,
+        "type": "story",
+        "by": "rbanffy",
+        "score": 355,
+        "descendants": 117,
+        "time": 1793806714,
+        "comments_url": "https://news.ycombinator.com/item?id=50367125"
+      },
+      "hot_score": 9.42,
+      "tags": [
+        "Business",
+        "Finance",
+        "AI",
+        "Gaming"
+      ]
+    },
+    {
+      "title_en": "North Korean fake job interview led to $6.3B Binance heist",
+      "url": "https://www.theregister.com/security/2026/11/03/north-korean-fake-job-interview-led-to-63b-binance-heist/5307398",
+      "title_zh": "朝鲜假面试引发 63 亿美元币安劫案",
+      "is_new": true,
+      "created_display": "Created: Nov 04, 2026 / 06:09 PT",
+      "image_url": "https://image.theregister.com/254036.jpg?imageId=254036&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+      "summary_en": "According to Binance, North Korean cryptocurrency thieves tricked a software engineer into downloading malware during a fake job interview. The exchange said the October 29 breach involved social engineering, malware, compromised internal AI tooling, endpoint takeover, and an advanced transaction-authorization method. Binance characterized it as a combination of techniques rather than a single isolated phishing incident.",
+      "summary_zh": "币安称，朝鲜加密货币窃贼在一次虚假求职面试中诱骗一名软件工程师下载恶意软件。该交易所表示，10 月 29 日的入侵涉及社会工程、恶意软件、遭入侵的内部 AI 工具、终端接管以及一种先进的交易授权方法。币安将其描述为多种手段共同造成的事件，而非单一的钓鱼攻击。",
+      "hn": {
+        "id": 50365755,
+        "type": "story",
+        "by": "smalltech",
+        "score": 486,
+        "descendants": 291,
+        "time": 1793801395,
+        "comments_url": "https://news.ycombinator.com/item?id=50365755"
+      },
+      "hot_score": 9.34,
+      "tags": [
+        "Security",
+        "AI",
+        "Finance"
+      ]
+    },
+    {
+      "title_en": "Ripple-65B Preview: U.S. Open-Weight SOTA on Agentic Coding",
+      "url": "https://www.ricursive.com/ripple",
+      "title_zh": "Ripple-65B 预览版：美国开放权重智能编码模型达到最先进水平",
+      "is_new": true,
+      "created_display": "Created: Nov 04, 2026 / 10:53 PT",
+      "image_url": "https://framerusercontent.com/images/u4OXzV0utwAtaPgcVxQtTXmkg.png",
+      "summary_en": "Ricursive Intelligence presents Ripple-65B as achieving U.S. open-weight state of the art on agentic coding. The company describes itself as a full-stack AI lab that co-optimizes hardware, software, and models. Its broader goal is to accelerate chip development and enable more custom silicon.",
+      "summary_zh": "Ricursive Intelligence 将 Ripple-65B 预览版定位为在智能体编程方面达到美国开放权重模型的最先进水平。该公司是一家协同优化硬件、软件和模型的全栈 AI 实验室。其更广泛的目标是加速芯片开发，推动更多定制化硅芯片的出现。",
+      "hn": {
+        "id": 50369925,
+        "type": "story",
+        "by": "Philpax",
+        "score": 108,
+        "descendants": 38,
+        "time": 1793818409,
+        "comments_url": "https://news.ycombinator.com/item?id=50369925"
+      },
+      "hot_score": 7.91,
+      "tags": [
+        "AI",
+        "Hardware"
+      ]
+    },
+    {
+      "title_en": "Residential Proxies Detected on White House Network",
+      "url": "https://layer3intel.com/blog/residential-proxies-white-house-network",
+      "title_zh": "白宫网络被发现使用住宅代理",
+      "is_new": true,
+      "created_display": "Created: Nov 04, 2026 / 12:45 PT",
+      "image_url": "https://layer3intel.com/eop_proxy_activity.png",
+      "summary_en": "Residential proxy traffic exited the White House network 236 times over 30 days, passing through 28 public proxy services. The network, AS2650, is registered to the Executive Office of the President, which hosts the White House network. Residential proxies route customers’ traffic through everyday devices so it appears to originate from those devices’ networks.",
+      "summary_zh": "过去 30 天内，有住宅代理流量 236 次从白宫网络流出，并经过 28 个公共代理服务。该网络的 AS2650 注册于负责托管白宫网络的美国总统行政办公室。住宅代理会让客户的流量经由普通设备转发，使其看起来来自这些设备所在的网络。",
+      "hn": {
+        "id": 50371246,
+        "type": "story",
+        "by": "Rasbora",
+        "score": 37,
+        "descendants": 3,
+        "time": 1793825118,
+        "comments_url": "https://news.ycombinator.com/item?id=50371246"
+      },
+      "hot_score": 7.52,
+      "tags": [
+        "Security",
+        "Privacy",
+        "Politics"
+      ]
+    },
+    {
+      "title_en": "A new Go API for JSON",
+      "url": "https://go.dev/blog/jsonv2",
+      "title_zh": "Go 推出新的 JSON API",
+      "is_new": true,
+      "created_display": "Created: Nov 04, 2026 / 09:52 PT",
+      "image_url": "https://go.dev/doc/gopher/runningsquare.jpg",
+      "summary_en": "Go 1.27 introduces the new encoding/json/v2 and encoding/json/jsontext packages. JSON is the most widely used data format on the internet and has been supported by Go’s standard library since before Go 1.0. The new packages extend Go’s standard-library support for reading and writing JSON.",
+      "summary_zh": "Go 1.27 引入了新的 encoding/json/v2 和 encoding/json/jsontext 包。JSON 是互联网上使用最广泛的数据格式，Go 从 1.0 之前就已在标准库中提供支持。这些新包进一步扩展了 Go 标准库读写 JSON 的能力。",
+      "hn": {
+        "id": 50369106,
+        "type": "story",
+        "by": "olexsmir",
+        "score": 137,
+        "descendants": 43,
+        "time": 1793814731,
+        "comments_url": "https://news.ycombinator.com/item?id=50369106"
+      },
+      "hot_score": 6.82,
+      "tags": [
+        "Programming"
+      ]
+    },
+    {
+      "title_en": "Kimi K3.1 Pro model weights are out",
+      "url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro",
+      "title_zh": "Kimi K3.1 Pro 模型权重已发布",
+      "is_new": true,
+      "created_display": "Created: Nov 04, 2026 / 07:30 PT",
+      "image_url": "https://cdn-thumbnails.huggingface.co/social-thumbnails/models/moonshotai/Kimi-K3.1-Pro.png",
+      "summary_en": "Moonshot AI has released the weights for Kimi K3.1 Pro, an open-weight, natively multimodal agentic model with 2.8 trillion parameters and a one-million-token context window. It was post-trained from Kimi K3 using large-scale joint reinforcement learning across hundreds of domains. The model replaces Gated MLA with Gated DeepSeek Sparse Attention for more efficient long-context modeling.",
+      "summary_zh": "月之暗面发布了 Kimi K3.1 Pro 的模型权重。这是一款开放权重、原生多模态的智能体模型，拥有 2.8 万亿参数和 100 万 token 的上下文窗口。该模型基于 Kimi K3，并通过覆盖数百个领域的大规模联合强化学习进行后训练；同时以 Gated DeepSeek Sparse Attention 替代 Gated MLA，以提高长上下文建模效率。",
+      "hn": {
+        "id": 50366999,
+        "type": "story",
+        "by": "abrarthought",
+        "score": 261,
+        "descendants": 67,
+        "time": 1793806230,
+        "comments_url": "https://news.ycombinator.com/item?id=50366999"
+      },
+      "hot_score": 6.7,
+      "tags": [
+        "AI",
+        "Open Source"
+      ]
+    },
+    {
+      "title_en": "Insects Don't Swarm at LED Lights",
+      "url": "https://www.birdsoutsidemywindow.org/2026/11/03/insects-dont-swarm-at-led-lights/",
+      "title_zh": "昆虫并不会成群飞向 LED 灯",
+      "is_new": true,
+      "created_display": "Created: Nov 04, 2026 / 11:50 PT",
+      "image_url": "https://www.birdsoutsidemywindow.org/wp-content/uploads/2026/11/insects_swarm_at_gas_station_light_Iowa_US20_20060726_wiki-1024x682.jpg",
+      "summary_en": "Insects have long been attracted to outdoor lights, allowing entomologists and moth enthusiasts to survey nocturnal species with a lamp and white sheet. The shift from incandescent bulbs to LEDs has changed the light spectrum, including a difference in insect attraction that humans cannot see. As a result, the choice of light now matters more when trying to attract insects.",
+      "summary_zh": "昆虫长期以来会被户外灯光吸引，昆虫学家和蛾类爱好者也借此用灯光和白布调查夜间昆虫。随着白炽灯逐渐被 LED 取代，光谱发生了变化，其中包括人眼看不见、但会影响昆虫吸引力的差异。因此，如今想要吸引昆虫时，灯光类型变得更加重要。",
+      "hn": {
+        "id": 50370610,
+        "type": "story",
+        "by": "speckx",
+        "score": 53,
+        "descendants": 29,
+        "time": 1793821823,
+        "comments_url": "https://news.ycombinator.com/item?id=50370610"
+      },
+      "hot_score": 6.06,
+      "tags": [
+        "Science"
+      ]
+    },
+    {
+      "title_en": "Progress on provable inference for large language models",
+      "url": "https://www.anthropic.com/research/provable-inference",
+      "title_zh": "可验证大语言模型推理取得进展",
+      "is_new": true,
+      "created_display": "Created: Nov 04, 2026 / 09:17 PT",
+      "image_url": "https://www-cdn.anthropic.com/images/4zrzovbb/website/2eba335a28661a8253187053fa36add230af728b-2000x1125.jpg",
+      "summary_en": "Anthropic and academic collaborators report progress on using zkSNARKs for provable inference. Such cryptographic proofs could let a model provider commit to a specific model and prove that each response came from it. This addresses the difficulty users face in distinguishing a claimed model from a substituted model, tampered output, or other intermediary.",
+      "summary_zh": "Anthropic 及其学术合作伙伴报告了使用 zkSNARK 实现可验证推理的进展。这类密码学证明可以让模型提供商承诺使用特定模型，并证明每个回答确实由该模型生成。它针对的是用户难以分辨实际模型是否被替换、输出是否遭篡改或是否经过其他中间方处理的问题。",
+      "hn": {
+        "id": 50368626,
+        "type": "story",
+        "by": "ltononro",
+        "score": 140,
+        "descendants": 64,
+        "time": 1793812666,
+        "comments_url": "https://news.ycombinator.com/item?id=50368626"
+      },
+      "hot_score": 5.79,
+      "tags": [
+        "AI",
+        "Security"
+      ]
+    },
+    {
+      "title_en": "Tell HN: Gemini trains on chat history, even for subscribers (personal accounts)",
+      "url": "https://news.ycombinator.com/item?id=50363461",
+      "title_zh": "告诉 HN：Gemini 会用聊天记录训练，即使是订阅用户的个人账户也不例外",
+      "is_new": true,
+      "created_display": "Created: Nov 04, 2026 / 02:10 PT",
+      "image_url": null,
+      "summary_en": "For personal Google AI subscriptions, saved Gemini chats can be used to improve Google services and train generative AI models when Keep Activity is enabled. A subset of chats may be reviewed by human reviewers and can be retained for up to three years after review, even if the user deletes activity. Users are warned not to enter confidential information, and opting out requires disabling chat history or using temporary chats.",
+      "summary_zh": "对于个人 Google AI 订阅账户，在启用“保留活动记录”时，保存的 Gemini 聊天记录可用于改进 Google 服务和训练生成式 AI 模型。部分聊天可能由人工审核，审核过的内容即使用户删除活动记录，也可能保留最长三年。用户被提醒不要输入机密信息；若要退出，需要关闭聊天记录或使用临时聊天。",
+      "hn": {
+        "id": 50363461,
+        "type": "story",
+        "by": "jameslk",
+        "score": 560,
+        "descendants": 142,
+        "time": 1793787027,
+        "comments_url": "https://news.ycombinator.com/item?id=50363461"
+      },
+      "hot_score": 5.55,
+      "tags": [
+        "Privacy",
+        "AI"
+      ]
+    },
+    {
+      "title_en": "Guerrilla bike lanes: San Francisco makes illicit infrastructure permanent (2016)",
+      "url": "https://99percentinvisible.org/article/guerrilla-bike-lanes-san-francisco-makes-illicit-infrastructure-permanent/",
+      "title_zh": "游击自行车道：旧金山将非法基础设施永久化（2016）",
+      "is_new": true,
+      "created_display": "Created: Nov 04, 2026 / 07:01 PT",
+      "image_url": "https://99percentinvisible.org/wp-content/uploads/2016/10/guerrilla-bicycle-lane-728x410.jpg",
+      "summary_en": "After two cyclists were killed in hit-and-run collisions, the San Francisco Transformation Agency installed protected bike lanes using traffic cones. The group later placed soft-hit posts beside Golden Gate Park without authorization. Instead of removing them, the city made the change official.",
+      "summary_zh": "两名骑车者在肇事逃逸事故中死亡后，旧金山转型机构用交通锥设置了受保护自行车道。随后，该组织又未经许可在金门公园旁安装了软质防撞柱。市政府没有拆除这些设施，而是将改动正式化。",
+      "hn": {
+        "id": 50366522,
+        "type": "story",
+        "by": "zenincognito",
+        "score": 209,
+        "descendants": 149,
+        "time": 1793804504,
+        "comments_url": "https://news.ycombinator.com/item?id=50366522"
+      },
+      "hot_score": 4.8,
+      "tags": [
+        "Politics",
+        "Culture",
+        "DevOps"
+      ]
+    },
+    {
+      "title_en": "Nvidia RTX Spark encrypted firmware slows inference speed to 35% on Linux",
+      "url": "https://www.mindstudio.ai/blog/linux-nvidia-rtx-spark-laptop",
+      "title_zh": "英伟达 RTX Spark 在 Linux 上因加密固件导致推理速度降至 35%",
+      "is_new": true,
+      "created_display": "Created: Nov 04, 2026 / 00:46 PT",
+      "image_url": "https://i.mscdn.ai/o/iZl0kkZU2R9KXyy7/a/3V2ICO3oSq2QZPii/_published/generated-images/0d8c9668-cbfe-4ecf-bb31-1a7fff7102be.png?fm=auto&w=1200&h=630&fit=crop",
+      "summary_en": "RTX Spark laptops run Linux with GPU acceleration through Nvidia’s open kernel driver, but their GPU clocks drop to roughly 780 MHz when plugged in, instead of exceeding 2 GHz on Windows. On a 120-billion-parameter model, performance falls from about 65 tokens per second to fewer than 14. The problem is tied to power-management firmware that Linux currently cannot read.",
+      "summary_zh": "RTX Spark 笔记本可以在 Linux 上运行，并通过英伟达开源内核驱动实现 GPU 加速，但接通电源后 GPU 频率会被限制在约 780MHz，而 Windows 上可超过 2GHz。在一个 1200 亿参数模型上，速度因此从约每秒 65 个 token 降至不足 14 个。问题与 Linux 目前无法读取的电源管理固件有关。",
+      "hn": {
+        "id": 50362905,
+        "type": "story",
+        "by": "novaRom",
+        "score": 543,
+        "descendants": 246,
+        "time": 1793781989,
+        "comments_url": "https://news.ycombinator.com/item?id=50362905"
+      },
+      "hot_score": 4.47,
+      "tags": [
+        "Hardware"
+      ]
+    },
+    {
+      "title_en": "Have I Befriended a Murderer?",
+      "url": "https://longreads.com/2026/11/03/murder-friendship-doubt/",
+      "title_zh": "我是否和一个杀人犯成了朋友？",
+      "is_new": true,
+      "created_display": "Created: Nov 04, 2026 / 10:40 PT",
+      "image_url": "https://i0.wp.com/longreads.com/wp-content/uploads/2026/10/Red-Tinted-Image-Edit.png?fit=2400%2C1400&ssl=1",
+      "summary_en": "A journalist spent five years investigating a man convicted of bludgeoning his wife to death. During that investigation, the boundary between journalism and friendship became blurred. The piece recounts that personal and professional entanglement.",
+      "summary_zh": "一名记者花了五年调查一名因殴打妻子致死而被定罪的男子。在调查过程中，新闻工作与私人友谊之间的界限逐渐模糊。文章讲述了这段个人关系与职业调查交织在一起的经历。",
+      "hn": {
+        "id": 50369754,
+        "type": "story",
+        "by": "gmays",
+        "score": 63,
+        "descendants": 25,
+        "time": 1793817654,
+        "comments_url": "https://news.ycombinator.com/item?id=50369754"
+      },
+      "hot_score": 4.2,
+      "tags": [
+        "Culture"
+      ]
+    },
+    {
+      "title_en": "This Month in Ladybird – October 2026",
+      "url": "https://ladybird.org/newsletter/2026-10-31/",
+      "title_zh": "Ladybird 月报：2026 年 10 月",
+      "is_new": true,
+      "created_display": "Created: Nov 04, 2026 / 09:59 PT",
+      "image_url": "https://ladybird.org/assets/img/ladybird-purple-on-black.png",
+      "summary_en": "In October, Ladybird moved style and layout work off the main thread, built a JavaScript JIT, and replaced its WebAssembly engine. The browser also received a redesigned user interface and passed Safari Technology Preview on Web Platform Tests. Ladybird is funded entirely by companies and individuals supporting the open web.",
+      "summary_zh": "10 月，Ladybird 将样式和布局工作移出主线程，构建了 JavaScript JIT，并替换了 WebAssembly 引擎。该浏览器还重新设计了用户界面，并在 Web Platform Tests 中超过了 Safari Technology Preview。Ladybird 完全由支持开放网络的企业和个人资助。",
+      "hn": {
+        "id": 50369194,
+        "type": "story",
+        "by": "BitPirate",
+        "score": 79,
+        "descendants": 25,
+        "time": 1793815175,
+        "comments_url": "https://news.ycombinator.com/item?id=50369194"
+      },
+      "hot_score": 4.08,
+      "tags": [
+        "Web",
+        "Open Source",
+        "Programming"
+      ]
+    },
+    {
+      "title_en": "Qualcomm Cloud AI 100 Ultra – 150W AI Accelerator Card with 128GB at 548GB/s",
+      "url": "https://www.qualcomm.com/data-center/products/cloud-ai-100-ultra",
+      "title_zh": "高通 Cloud AI 100 Ultra：配备 128GB、548GB/s 带宽的 150W AI 加速卡",
+      "is_new": true,
+      "created_display": "Created: Nov 04, 2026 / 11:55 PT",
+      "image_url": "https://s7d1.scene7.com/is/image/dmqualcommprod/cloudai100_announcement",
+      "summary_en": "Qualcomm presents the Cloud AI 100 Ultra as a 150W accelerator for generative AI. The card has 128GB of memory and 548GB/s of memory bandwidth. Qualcomm positions it as a cost-optimized option for data-center AI workloads.",
+      "summary_zh": "高通将 Cloud AI 100 Ultra 定位为用于生成式 AI 的 150W 加速卡。该卡配备 128GB 内存，内存带宽为 548GB/s。高通将其定位为面向数据中心 AI 工作负载的成本优化方案。",
+      "hn": {
+        "id": 50370654,
+        "type": "story",
+        "by": "peter_d_sherman",
+        "score": 32,
+        "descendants": 12,
+        "time": 1793822114,
+        "comments_url": "https://news.ycombinator.com/item?id=50370654"
+      },
+      "hot_score": 3.78,
+      "tags": [
+        "AI",
+        "Hardware"
+      ]
+    },
+    {
+      "title_en": "Kitty 0.50",
+      "url": "https://sw.kovidgoyal.net/kitty/changelog/#",
+      "title_zh": "Kitty 0.50",
+      "is_new": true,
+      "created_display": "Created: Nov 04, 2026 / 00:57 PT",
+      "image_url": "https://sw.kovidgoyal.net/kitty/_images/social_previews/summary_changelog_3a0c7623.png",
+      "summary_en": "Kitty 0.50 adds docked windows that can attach to the edge of another window or tab. Docks sit outside the main layout and can serve as status bars, file trees, or shells beside an editor. They follow their host window across tabs, close with it, and are saved in sessions.",
+      "summary_zh": "Kitty 0.50 增加了停靠窗口，可附着在另一个窗口或标签页的边缘。停靠窗口位于主布局之外，适合用作状态栏、文件树或编辑器旁的 Shell。它会随宿主窗口切换标签页，在宿主关闭时一同关闭，并保存到会话中。",
+      "hn": {
+        "id": 50362980,
+        "type": "story",
+        "by": "porridgeraisin",
+        "score": 341,
+        "descendants": 212,
+        "time": 1793782630,
+        "comments_url": "https://news.ycombinator.com/item?id=50362980"
+      },
+      "hot_score": 2.87,
+      "tags": [
+        "Programming"
+      ]
+    },
+    {
+      "title_en": "Debian apt security update (man-in-the-middle)",
+      "url": "https://lists.debian.org/debian-security-announce/2026/msg00526.html?pow_referer=",
+      "title_zh": "Debian apt 安全更新（中间人攻击）",
+      "is_new": true,
+      "created_display": "Created: Nov 04, 2026 / 07:04 PT",
+      "image_url": null,
+      "summary_en": "Debian has issued an apt security update concerning a man-in-the-middle vulnerability. Further technical details are not available here.",
+      "summary_zh": "Debian 发布了针对中间人攻击问题的 apt 安全更新。现有信息未提供更多技术细节。",
+      "hn": {
+        "id": 50366575,
+        "type": "story",
+        "by": "SG-",
+        "score": 123,
+        "descendants": 27,
+        "time": 1793804654,
+        "comments_url": "https://news.ycombinator.com/item?id=50366575"
+      },
+      "hot_score": 2.84,
+      "tags": [
+        "Security"
+      ]
+    },
+    {
+      "title_en": "Tencent Hy4",
+      "url": "https://hy.tencent.ai/research/hy4",
+      "title_zh": "腾讯 Hy4",
+      "is_new": true,
+      "created_display": "Created: Nov 04, 2026 / 06:11 PT",
+      "image_url": null,
+      "summary_en": "Tencent Hy4 is presented as a project or model from Tencent. No further technical details are available here.",
+      "summary_zh": "腾讯 Hy4 是腾讯推出的一个项目或模型。现有信息未提供更多技术细节。",
+      "hn": {
+        "id": 50365780,
+        "type": "story",
+        "by": "Philpax",
+        "score": 138,
+        "descendants": 41,
+        "time": 1793801486,
+        "comments_url": "https://news.ycombinator.com/item?id=50365780"
+      },
+      "hot_score": 2.65,
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "title_en": "OpenAI to acquire Pierre Computer Company",
+      "url": "https://openai.com/index/openai-to-acquire-pierre/",
+      "title_zh": "OpenAI 将收购 Pierre Computer Company",
+      "is_new": true,
+      "created_display": "Created: Nov 04, 2026 / 07:21 PT",
+      "image_url": "https://images.ctfassets.net/kftzwdyauwt9/5lDkYRSw86lFyHulgkyVVr/5b20bd6b90c3d87c33b780884b48123a/openai-to-acquire-pierre-computer-company-inc-social.png?w=1600&h=900&fit=fill",
+      "summary_en": "OpenAI plans to acquire Pierre Computer Company. The announcement provides no further details about the transaction or its terms.",
+      "summary_zh": "OpenAI 计划收购 Pierre Computer Company。现有信息未披露这笔交易的更多细节或条款。",
+      "hn": {
+        "id": 50366863,
+        "type": "story",
+        "by": "itunpredictable",
+        "score": 100,
+        "descendants": 41,
+        "time": 1793805681,
+        "comments_url": "https://news.ycombinator.com/item?id=50366863"
+      },
+      "hot_score": 2.46,
+      "tags": [
+        "Business",
+        "AI"
+      ]
+    },
+    {
+      "title_en": "Incident with Pull Requests, Git Operations and Issues",
+      "url": "https://www.githubstatus.com/incidents/smtdswd1h2w4",
+      "title_zh": "Pull Request、Git 操作和 Issues 发生故障",
+      "is_new": true,
+      "created_display": "Created: Nov 04, 2026 / 02:00 PT",
+      "image_url": "https://dka575ofm4ao0.cloudfront.net/pages-twitter_logos/original/36420/GitHub-Mark-120px-plus.png",
+      "summary_en": "GitHub reported an incident affecting pull requests, Git operations, and issues. No further incident details or resolution are available here.",
+      "summary_zh": "GitHub 报告了一起影响 Pull Request、Git 操作和 Issues 的故障。现有信息未提供更多事件细节或解决结果。",
+      "hn": {
+        "id": 50363378,
+        "type": "story",
+        "by": "kevcampb",
+        "score": 232,
+        "descendants": 117,
+        "time": 1793786406,
+        "comments_url": "https://news.ycombinator.com/item?id=50363378"
+      },
+      "hot_score": 2.24,
+      "tags": [
+        "DevOps",
+        "Programming"
+      ]
+    },
+    {
+      "title_en": "Synaptics Appears to Use Legal Threats to Block Open-Source DisplayLink Driver",
+      "url": "https://www.phoronix.com/news/Synaptics-Blocks-Vino-Driver",
+      "title_zh": "Synaptics 似乎试图用法律威胁阻止开源 DisplayLink 驱动",
+      "is_new": true,
+      "created_display": "Created: Nov 04, 2026 / 03:14 PT",
+      "image_url": "https://www.phoronix.net/image.php?id=2026&image=no_vino",
+      "summary_en": "Synaptics appears to be using legal threats against an experimental open-source Linux driver for modern DisplayLink hardware. The available material provides no further details about the alleged threats or the driver.",
+      "summary_zh": "Synaptics 似乎正对一款面向新型 DisplayLink 硬件的实验性开源 Linux 驱动采取法律威胁。现有信息未提供相关威胁或驱动的更多细节。",
+      "hn": {
+        "id": 50363968,
+        "type": "story",
+        "by": "snvzz",
+        "score": 184,
+        "descendants": 86,
+        "time": 1793790852,
+        "comments_url": "https://news.ycombinator.com/item?id=50363968"
+      },
+      "hot_score": 2.12,
+      "tags": [
+        "Legal",
+        "Open Source",
+        "Hardware"
+      ]
+    },
+    {
+      "title_en": "Jelly Sheet",
+      "url": "https://mrdoob.github.io/codevember-2026/01/",
+      "title_zh": "Jelly Sheet",
+      "is_new": true,
+      "created_display": "Created: Nov 03, 2026 / 19:40 PT",
+      "image_url": null,
+      "summary_en": "Jelly Sheet is a project with no further details available here.",
+      "summary_zh": "Jelly Sheet 是一个项目，现有信息未提供更多细节。",
+      "hn": {
+        "id": 50361268,
+        "type": "story",
+        "by": "memalign",
+        "score": 437,
+        "descendants": 110,
+        "time": 1793763650,
+        "comments_url": "https://news.ycombinator.com/item?id=50361268"
+      },
+      "hot_score": 2.08,
+      "tags": [
+        "Web"
+      ]
+    },
+    {
+      "title_en": "Evergreen: A Provably Safe Systems Language",
+      "url": "https://evergreenlang.net",
+      "title_zh": "Evergreen：一种可证明安全的系统编程语言",
+      "is_new": true,
+      "created_display": "Created: Nov 04, 2026 / 07:25 PT",
+      "image_url": "https://evergreenlang.net/logo.svg",
+      "summary_en": "Evergreen is a systems programming language that treats invariants as part of the code. Preconditions, postconditions, and data invariants are placed beside the code they describe. The compiler checks these conditions as obligations.",
+      "summary_zh": "Evergreen 是一种将不变量纳入代码的系统编程语言。前置条件、后置条件和数据不变量会写在所描述代码旁边。编译器会将这些条件作为义务进行检查。",
+      "hn": {
+        "id": 50366919,
+        "type": "story",
+        "by": "jordan_bonecut",
+        "score": 78,
+        "descendants": 75,
+        "time": 1793805904,
+        "comments_url": "https://news.ycombinator.com/item?id=50366919"
+      },
+      "hot_score": 1.94,
+      "tags": [
+        "Programming"
+      ]
+    },
+    {
+      "title_en": "Conductor Is Joining Meta",
+      "url": "https://www.conductor.build/announcement",
+      "title_zh": "Conductor 加入 Meta",
+      "is_new": true,
+      "created_display": "Created: Nov 04, 2026 / 10:22 PT",
+      "image_url": "https://www.conductor.build/farewell/og.png",
+      "summary_en": "Conductor announced that it is joining Meta. The company launched in July 2025, when writing most code with agents or using teams of coding agents was still described as unusual. The announcement thanks users who supported the project during that period.",
+      "summary_zh": "Conductor 宣布加入 Meta。该公司于 2025 年 7 月创立，当时让智能体编写大部分代码或使用编程智能体团队仍被认为并不寻常。公告感谢了在这段时期支持该项目的用户。",
+      "hn": {
+        "id": 50369503,
+        "type": "story",
+        "by": "kenrose",
+        "score": 31,
+        "descendants": 18,
+        "time": 1793816560,
+        "comments_url": "https://news.ycombinator.com/item?id=50369503"
+      },
+      "hot_score": 1.81,
+      "tags": [
+        "Business"
+      ]
+    },
+    {
+      "title_en": "Show HN: I built a tool that prices a prebuilt PC part by part",
+      "url": "https://pcdealcheck.com/",
+      "title_zh": "Show HN：我做了一个逐项估算预装电脑价格的工具",
+      "is_new": true,
+      "created_display": "Created: Nov 04, 2026 / 07:25 PT",
+      "image_url": null,
+      "summary_en": "The tool lets users paste a prebuilt-PC listing and receive a value grade, dated component estimates, and a shareable report. AI extracts information from the listing, while a custom pricing engine determines the grade and updates daily. The creator is seeking feedback on the scoring system, interface, and usefulness.",
+      "summary_zh": "该工具允许用户粘贴预装电脑的商品信息，并获得价值评级、带日期的组件估价和可分享报告。AI 负责读取商品描述，自定义定价引擎负责计算评级，并每天更新价格。开发者正在寻求对评分方式、界面和实用性的反馈。",
+      "hn": {
+        "id": 50366929,
+        "type": "story",
+        "by": "adlep",
+        "score": 72,
+        "descendants": 49,
+        "time": 1793805933,
+        "comments_url": "https://news.ycombinator.com/item?id=50366929"
+      },
+      "hot_score": 1.79,
+      "tags": [
+        "Show HN",
+        "AI"
+      ]
+    },
+    {
+      "title_en": "Launch HN: Kino AI (YC S23) – AI media manager and video editor",
+      "url": "https://news.ycombinator.com/item?id=50368804",
+      "title_zh": "Launch HN：Kino AI（YC S23）——AI 媒体管理器和视频编辑器",
+      "is_new": true,
+      "created_display": "Created: Nov 04, 2026 / 09:31 PT",
+      "image_url": null,
+      "summary_en": "Kino combines footage and asset storage, a video editor, review links, and teammate collaboration in one workspace. Agents, colleagues, and coding tools such as Codex and Claude Code can work on the same timeline with shared notes and footage. Its code-first editor expresses editing, motion graphics, timeline operations, comments, and 3D scenes as code built on Remotion.",
+      "summary_zh": "Kino 将素材与资产存储、视频编辑器、审阅链接和团队协作整合在一个工作区中。智能体、同事以及 Codex 和 Claude Code 等编程工具可以围绕同一时间线协作，共享评论和素材。其代码优先的编辑器基于 Remotion，把剪辑、动态图形、时间线操作、评论和 3D 场景都表示为代码。",
+      "hn": {
+        "id": 50368804,
+        "type": "story",
+        "by": "lukeigel",
+        "score": 41,
+        "descendants": 23,
+        "time": 1793813513,
+        "comments_url": "https://news.ycombinator.com/item?id=50368804"
+      },
+      "hot_score": 1.79,
+      "tags": [
+        "AI",
+        "Startups"
+      ]
+    },
+    {
+      "title_en": "Apple Will Scan Public iCloud Links for Harmful Content Starting in iOS 27.3",
+      "url": "https://support.apple.com/en-us/149168",
+      "title_zh": "苹果将从 iOS 27.3 开始扫描公开 iCloud 链接中的有害内容",
+      "is_new": true,
+      "created_display": "Created: Nov 04, 2026 / 11:18 PT",
+      "image_url": null,
+      "summary_en": "Apple will scan public iCloud links for harmful content starting with iOS 27.3. No further details about the scanning process or the content categories are available here.",
+      "summary_zh": "从 iOS 27.3 开始，苹果将扫描公开 iCloud 链接中的有害内容。现有信息未提供扫描流程或内容类别的更多细节。",
+      "hn": {
+        "id": 50370245,
+        "type": "story",
+        "by": "7777777phil",
+        "score": 21,
+        "descendants": 9,
+        "time": 1793819883,
+        "comments_url": "https://news.ycombinator.com/item?id=50370245"
+      },
+      "hot_score": 1.77,
+      "tags": [
+        "Privacy"
+      ]
+    },
+    {
+      "title_en": "Verification Is Not Knowledge: Science needs more than answers",
+      "url": "https://blog.cosmos-institute.org/p/verification-is-not-knowledge",
+      "title_zh": "验证不等于知识：科学需要的不只是答案",
+      "is_new": true,
+      "created_display": "Created: Nov 04, 2026 / 01:01 PT",
+      "image_url": "https://substackcdn.com/image/fetch/$s_!qC0Q!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6c5afe03-d75e-4108-b58a-63be2d3ba4b7_2048x1413.png",
+      "summary_en": "The essay argues that reliable AI outputs require more than answerability, system checks, or a successful track record. A result can pass trials and appear certified while still exploiting weaknesses in the trial or its underlying models. Human understanding of the mechanism may therefore be necessary to detect failures before they cause harm.",
+      "summary_zh": "文章认为，可靠的 AI 输出不能只依赖可回答性、系统自检或过往成功记录。一个结果即使通过试验并获得认证，也可能利用了试验或底层模型中的弱点。因而，在造成伤害之前发现问题，可能仍需要人类理解其运作机制。",
+      "hn": {
+        "id": 50363019,
+        "type": "story",
+        "by": "ersinesen",
+        "score": 203,
+        "descendants": 121,
+        "time": 1793782918,
+        "comments_url": "https://news.ycombinator.com/item?id=50363019"
+      },
+      "hot_score": 1.72,
+      "tags": [
+        "Science",
+        "AI"
+      ]
+    },
+    {
+      "title_en": "Stringman, an $800 open-source room scale gripper robot",
+      "url": "https://neufangled.com/",
+      "title_zh": "Stringman：一款 800 美元的开源房间级抓取机器人",
+      "is_new": true,
+      "created_display": "Created: Nov 03, 2026 / 08:47 PT",
+      "image_url": "https://storage.googleapis.com/nf-site-assets-prod-a/assets/gripper_nf_twoline_original.svg",
+      "summary_en": "Stringman is presented as an $800 open-source room-scale gripper robot. The available material provides an installation note about securing cleats to wall studs or columns, but no further technical specifications.",
+      "summary_zh": "Stringman 被介绍为一款售价 800 美元的开源房间级抓取机器人。现有内容只提到应将固定件用木螺钉固定在墙柱上，或用棘轮绑带固定在立柱上，未提供更多技术规格。",
+      "hn": {
+        "id": 50354358,
+        "type": "story",
+        "by": "nharada",
+        "score": 787,
+        "descendants": 233,
+        "time": 1793724449,
+        "comments_url": "https://news.ycombinator.com/item?id=50354358"
+      },
+      "hot_score": 1.69,
+      "tags": [
+        "Open Source",
+        "Hardware"
+      ]
+    },
+    {
+      "title_en": "Qwen 3.8 27B on my laptop can interpret model weights, too",
+      "url": "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/",
+      "title_zh": "我笔记本上的 Qwen 3.8 27B 也能解读模型权重",
+      "is_new": true,
+      "created_display": "Created: Nov 03, 2026 / 09:40 PT",
+      "image_url": null,
+      "summary_en": "The author reports that Qwen 3.8 27B running on a laptop can interpret raw neural-network weights. This follows research describing “weight-space programming,” in which language models analyze and modify model weights represented as floating-point numbers. The earlier experiments highlighted frontier-model capabilities, including those attributed to GPT-6 Astra.",
+      "summary_zh": "作者称，在笔记本上运行的 Qwen 3.8 27B 也能解读神经网络的原始权重。这延续了“权重空间编程”的研究：语言模型可以分析并修改由浮点数表示的模型权重。此前的实验展示了前沿模型的这类能力，包括研究归于 GPT-6 Astra 的能力。",
+      "hn": {
+        "id": 50355251,
+        "type": "story",
+        "by": "theanonymousone",
+        "score": 711,
+        "descendants": 206,
+        "time": 1793727600,
+        "comments_url": "https://news.ycombinator.com/item?id=50355251"
+      },
+      "hot_score": 1.61,
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "title_en": "Show HN: After a decade of reversing, I got co-op working in DOS Wing Commander",
+      "url": "https://fireflyk64.github.io/wcmulti/",
+      "title_zh": "Show HN：经过十年逆向工程，我让 DOS《Wing Commander》支持合作模式",
+      "is_new": true,
+      "created_display": "Created: Nov 04, 2026 / 10:51 PT",
+      "image_url": "https://fireflyk64.github.io/wcmulti/img-target.png",
+      "summary_en": "A developer spent 11 years working toward cooperative play in the DOS version of Wing Commander. The project began with an idea to inspect the game’s memory and identify the players’ three-dimensional coordinates, then use network packets to control the wingman. It grew out of childhood experiments in which two players shared control of one spacecraft.",
+      "summary_zh": "一名开发者花了 11 年时间，为 DOS 版《Wing Commander》实现合作游玩。项目最初的思路是检查游戏内存，找出玩家和僚机的三维坐标，再通过网络数据包控制僚机。这个想法源于儿时两名玩家共同操控一艘飞船的经历。",
+      "hn": {
+        "id": 50369895,
+        "type": "story",
+        "by": "daniel_rh",
+        "score": 21,
+        "descendants": 3,
+        "time": 1793818287,
+        "comments_url": "https://news.ycombinator.com/item?id=50369895"
+      },
+      "hot_score": 1.46,
+      "tags": [
+        "Show HN",
+        "Programming"
+      ]
+    },
+    {
+      "title_en": "Benchfmt.rs: Bringing Go's benchmarking and benchstat workflow to Rust",
+      "url": "https://www.bwplotka.dev/2026/rust-microbenchmarks-benchstat/",
+      "title_zh": "Benchfmt.rs：将 Go 的基准测试与 benchstat 工作流带到 Rust",
+      "is_new": true,
+      "created_display": "Created: Nov 04, 2026 / 10:20 PT",
+      "image_url": "https://bwplotka.dev/og-images/benchfmt-rs.png",
+      "summary_en": "benchfmt.rs is a zero-dependency Rust benchmark runner and Criterion converter designed around Go’s benchstat workflow. It adds key-value projections, heap tracking for bytes and objects allocated per operation, and pprof profiling. The author uses varint and Prometheus Remote Write 2.0 decoding benchmarks to compare Go and Rust.",
+      "summary_zh": "benchfmt.rs 是一个零依赖的 Rust 基准测试运行器和 Criterion 转换器，旨在带来 Go benchstat 的工作流。它增加了键值投影、每次操作的字节和对象分配堆跟踪，以及 pprof 性能分析。作者通过 varint 和 Prometheus Remote Write 2.0 解码基准测试比较 Go 与 Rust。",
+      "hn": {
+        "id": 50369462,
+        "type": "story",
+        "by": "witcher",
+        "score": 21,
+        "descendants": 3,
+        "time": 1793816406,
+        "comments_url": "https://news.ycombinator.com/item?id=50369462"
+      },
+      "hot_score": 1.18,
+      "tags": [
+        "Programming",
+        "Privacy"
+      ]
+    },
+    {
+      "title_en": "The Internals of PostgreSQL",
+      "url": "https://www.interdb.jp/pg/index.html",
+      "title_zh": "PostgreSQL 内部机制",
+      "is_new": true,
+      "created_display": "Created: Nov 03, 2026 / 13:51 PT",
+      "image_url": "https://www.interdb.jp/pg/title3.png",
+      "summary_en": "The item concerns the internals of PostgreSQL. The available material provides no technical discussion of PostgreSQL itself.",
+      "summary_zh": "该项目关注 PostgreSQL 的内部机制。现有内容没有提供 PostgreSQL 本身的技术介绍。",
+      "hn": {
+        "id": 50358702,
+        "type": "story",
+        "by": "ibobev",
+        "score": 364,
+        "descendants": 32,
+        "time": 1793742666,
+        "comments_url": "https://news.ycombinator.com/item?id=50358702"
+      },
+      "hot_score": 1.08,
+      "tags": [
+        "Programming",
+        "Data"
+      ]
+    },
+    {
+      "title_en": "Funimation Shutdown Fuels Push for DMCA Exemption to Legally Rip Anime Content",
+      "url": "https://torrentfreak.com/funimation-shutdown-fuels-push-for-dmca-exemption-to-legally-rip-anime-content/",
+      "title_zh": "Funimation 关闭推动 DMCA 豁免，以合法翻录动漫内容",
+      "is_new": true,
+      "created_display": "Created: Nov 04, 2026 / 10:47 PT",
+      "image_url": "https://torrentfreak.com/images/dvd-blu-discs.jpg",
+      "summary_en": "When Funimation shut down its app and website in April 2024 and became part of Crunchyroll, buyers lost access to digital copies bundled with Funimation DVDs and Blu-rays. Anime fans objected to losing access to content they had purchased. The shutdown has fueled calls for a DMCA exemption that would allow legal ripping of those discs.",
+      "summary_zh": "Funimation 于 2024 年 4 月关闭应用和网站并并入 Crunchyroll 后，购买其 DVD 和蓝光光盘的用户失去了随附的数字副本。动漫粉丝对购买的内容无法继续访问表示不满。这次关闭推动了要求修改 DMCA、允许合法翻录这些光盘内容的呼声。",
+      "hn": {
+        "id": 50369845,
+        "type": "story",
+        "by": "gslin",
+        "score": 16,
+        "descendants": 0,
+        "time": 1793818065,
+        "comments_url": "https://news.ycombinator.com/item?id=50369845"
+      },
+      "hot_score": 1.07,
+      "tags": [
+        "Legal"
+      ]
+    },
+    {
+      "title_en": "The lost malloc()",
+      "url": "https://napcakes.nekoweb.org/posts/malloc/",
+      "title_zh": "消失的 malloc()",
+      "is_new": true,
+      "created_display": "Created: Nov 03, 2026 / 23:37 PT",
+      "image_url": "https://napcakes.nekoweb.org/posts/malloc/unix-v4-tape.jpg",
+      "summary_en": "The author revisited the original source code of malloc as an exercise in Unix archaeology. They describe the historically significant code as unusually approachable compared with modern software. The project was prompted by another idea and became an enjoyable exploration of old systems code.",
+      "summary_zh": "作者通过研究 malloc 的原始源代码，进行了一次 Unix 考古。作者认为，这些具有历史意义的代码相比现代软件异常易读。这个项目源于另一个想法，最终成为一次对早期系统代码的探索。",
+      "hn": {
+        "id": 50362466,
+        "type": "story",
+        "by": "matt_d",
+        "score": 144,
+        "descendants": 59,
+        "time": 1793777850,
+        "comments_url": "https://news.ycombinator.com/item?id=50362466"
+      },
+      "hot_score": 1.03,
+      "tags": [
+        "Programming"
+      ]
+    },
+    {
+      "title_en": "Adding Window Functions to a Spreadsheet",
+      "url": "https://www.getgrist.com/blog/running-totals-you-dont-have-to-chase/",
+      "title_zh": "为电子表格添加窗口函数",
+      "is_new": true,
+      "created_display": "Created: Nov 04, 2026 / 07:21 PT",
+      "image_url": "https://www.getgrist.com/wp-content/uploads/2026/09/image-5-1500x1000.png",
+      "summary_en": "The project addresses the difficulty of maintaining running totals in spreadsheets after more than basic edits. It starts from the familiar pattern where each balance equals the previous balance plus the current transaction. The proposed approach adds window-function capabilities to make such calculations easier to manage.",
+      "summary_zh": "该项目针对电子表格在进行复杂编辑后难以维护累计总额的问题。它从常见的“当前余额等于上一行余额加当前交易额”这一模式出发。其方案为电子表格增加窗口函数能力，让这类计算更易管理。",
+      "hn": {
+        "id": 50366860,
+        "type": "story",
+        "by": "reedciccio",
+        "score": 39,
+        "descendants": 23,
+        "time": 1793805672,
+        "comments_url": "https://news.ycombinator.com/item?id=50366860"
+      },
+      "hot_score": 0.94,
+      "tags": [
+        "Data"
+      ]
+    },
+    {
+      "title_en": "Show HN: Codemap – one-page interactive map of any Go repository",
+      "url": "https://github.com/peterretief/codemap",
+      "title_zh": "Show HN：Codemap——用一页交互式地图展示任意 Go 仓库",
+      "is_new": true,
+      "created_display": "Created: Nov 04, 2026 / 07:18 PT",
+      "image_url": "https://opengraph.githubassets.com/2862d5c2e91c3431b1a28dc508f071cf4c0e0f4c3a1ff7a5dff2581463c72d47/peterretief/codemap",
+      "summary_en": "Codemap generates a single HTML page mapping a Go module’s packages, dependencies, files, and functions. Users can search the map, inspect what each package uses and what uses it, and jump to function definitions in GitHub-hosted modules. Tests are excluded from the map.",
+      "summary_zh": "Codemap 会生成一个 HTML 页面，展示 Go 模块中的包、依赖、文件和函数。用户可以搜索地图，查看每个包依赖什么以及被什么依赖，并跳转到 GitHub 模块中的函数定义。地图不包含测试代码。",
+      "hn": {
+        "id": 50366811,
+        "type": "story",
+        "by": "peter_retief",
+        "score": 38,
+        "descendants": 17,
+        "time": 1793805504,
+        "comments_url": "https://news.ycombinator.com/item?id=50366811"
+      },
+      "hot_score": 0.91,
+      "tags": [
+        "Show HN",
+        "Programming",
+        "Web"
+      ]
+    },
+    {
+      "title_en": "Nintendo's cartridge maker shifts focus to data centers, hurting physical media",
+      "url": "https://kotaku.com/nintendo-switch-cart-rom-physical-media-data-centers-manufacture-2000753293",
+      "title_zh": "任天堂卡带制造商转向数据中心，物理媒体受影响",
+      "is_new": true,
+      "created_display": "Created: Nov 04, 2026 / 12:11 PT",
+      "image_url": "https://kotaku.com/app/uploads/2025/09/New-Project-9.jpg",
+      "summary_en": "Macronix, Nintendo’s main ROM supplier for Switch cartridges, is phasing out ROM production, according to its CEO and chairman. ROM chips accounted for only 5 percent of the Taiwanese manufacturer’s memory sales in the third quarter of 2026. The shift could affect the availability of physical game cartridges.",
+      "summary_zh": "据 Macronix 首席执行官兼董事长称，这家任天堂 Switch 卡带的主要 ROM 供应商正逐步退出 ROM 生产。2026 年第三季度，ROM 芯片仅占这家台湾制造商内存销售额的 5%。这一转向可能影响实体游戏卡带的供应。",
+      "hn": {
+        "id": 50370840,
+        "type": "story",
+        "by": "haunter",
+        "score": 7,
+        "descendants": 0,
+        "time": 1793823074,
+        "comments_url": "https://news.ycombinator.com/item?id=50370840"
+      },
+      "hot_score": 0.85,
+      "tags": [
+        "Business",
+        "Gaming"
+      ]
+    },
+    {
+      "title_en": "Jailbreaking my car's navigation system just so I can change the time",
+      "url": "https://blog.nns.ee/2026/11/02/renault-hack/",
+      "title_zh": "为了改时间，我破解了汽车的导航系统",
+      "is_new": true,
+      "created_display": "Created: Nov 02, 2026 / 08:29 PT",
+      "image_url": "https://blog.nns.ee/img/logo.png",
+      "summary_en": "The author describes modifying the navigation system of a 2014 Renault Latitude to change the dashboard clock. The car apparently required a navigation-map SD card for access to the time-setting function, even though the card had been discarded because its maps were outdated. Without it, the display showed a prominent “No maps found!” message.",
+      "summary_zh": "作者介绍了如何修改一辆 2014 年雷诺 Latitude 的导航系统，以调整仪表盘时钟。该车似乎需要导航地图 SD 卡才能访问时间设置功能，但由于地图过时，这张卡此前已被丢弃。没有 SD 卡时，显示屏会显示醒目的“No maps found!”提示。",
+      "hn": {
+        "id": 50339288,
+        "type": "story",
+        "by": "xx_ns",
+        "score": 921,
+        "descendants": 364,
+        "time": 1793636959,
+        "comments_url": "https://news.ycombinator.com/item?id=50339288"
+      },
+      "hot_score": 0.69,
+      "tags": [
+        "Security",
+        "Hardware"
+      ]
+    },
+    {
+      "title_en": "Letting users trust their own MCP clients, without opening a phishing hole",
+      "url": "https://streamvessel.com/blog/mcp-trusted-redirect-uris",
+      "title_zh": "让用户信任自己的 MCP 客户端，同时避免打开钓鱼漏洞",
+      "is_new": true,
+      "created_display": "Created: Nov 04, 2026 / 07:30 PT",
+      "image_url": "https://streamvessel.com/images/blog/mcp-trusted-redirect-uris/social.png",
+      "summary_en": "The proposal addresses how MCP servers can support custom clients without creating a phishing hole. A user’s trusted redirect URIs are selected at sign-in, allowing a self-hosted agent, Slack bot, VPS service, or personal MCP client to complete standard OAuth authentication. The design is intended to protect access to files while still allowing users to run clients they control.",
+      "summary_zh": "该方案解决 MCP 服务器如何支持自定义客户端、同时避免形成钓鱼漏洞的问题。用户在登录时选择受信任的重定向 URI，使自托管智能体、Slack 机器人、VPS 服务或个人 MCP 客户端能够完成标准 OAuth 认证。这样既可保护文件访问，也允许用户运行自己控制的客户端。",
+      "hn": {
+        "id": 50367004,
+        "type": "story",
+        "by": "isalexlog",
+        "score": 27,
+        "descendants": 3,
+        "time": 1793806257,
+        "comments_url": "https://news.ycombinator.com/item?id=50367004"
+      },
+      "hot_score": 0.67,
+      "tags": [
+        "Security",
+        "Privacy"
+      ]
+    },
+    {
+      "title_en": "From wild to mild: Friendly foxes show changes in brain region",
+      "url": "https://news.cornell.edu/stories/2026/11/wild-mild-friendly-foxes-show-changes-brain-region",
+      "title_zh": "从野生到温顺：友善狐狸的大脑区域发生变化",
+      "is_new": true,
+      "created_display": "Created: Nov 04, 2026 / 10:24 PT",
+      "image_url": "https://news.cornell.edu/sites/default/files/styles/story_thumbnail_lg/public/2026-11/1102_fox_tnd.jpg?itok=MLTCLSTc",
+      "summary_en": "Researchers compared the brains of domesticated, aggressive, and wild foxes and found changes in a brain region associated with aggression. The changes occurred in the ventromedial hypothalamus at the base of the brain. This region is also linked to energy-use decisions, maternal instincts, and social behavior in mice.",
+      "summary_zh": "研究人员比较了驯化、好斗和野生狐狸的大脑，发现一个与攻击行为相关的脑区发生了变化。变化出现在大脑底部的腹内侧下丘脑。该区域还与小鼠的能量使用决策、母性本能和社会行为有关。",
+      "hn": {
+        "id": 50369527,
+        "type": "story",
+        "by": "gmays",
+        "score": 11,
+        "descendants": 1,
+        "time": 1793816656,
+        "comments_url": "https://news.ycombinator.com/item?id=50369527"
+      },
+      "hot_score": 0.61,
+      "tags": [
+        "Science",
+        "Energy"
+      ]
+    },
+    {
+      "title_en": "How I use AI (Oct 2026)",
+      "url": "https://ben.stolovitz.com/posts/how-use-ai-oct-2026/",
+      "title_zh": "我如何使用 AI（2026 年 10 月）",
+      "is_new": true,
+      "created_display": "Created: Nov 03, 2026 / 10:11 PT",
+      "image_url": "https://ben.stolovitz.com/_astro/og.jsHy_xv-_2lnd7v.png",
+      "summary_en": "The author revisits their AI usage one year after an earlier account and says it has changed substantially. They moved from Microsoft’s Windows AI team to a research-engineering role at Salesforce AI Research, spending more time supporting scientists and building prototypes. Their monthly token spending is about $3,000.",
+      "summary_zh": "作者在首次记录一年后重新总结自己的 AI 使用方式，并表示变化非常大。作者已从微软 Windows AI 团队转到 Salesforce AI Research 的研究工程岗位，更多时间用于支持科学家和构建原型。作者每月的 token 支出约为 3000 美元。",
+      "hn": {
+        "id": 50355767,
+        "type": "story",
+        "by": "citelao",
+        "score": 248,
+        "descendants": 286,
+        "time": 1793729471,
+        "comments_url": "https://news.ycombinator.com/item?id=50355767"
+      },
+      "hot_score": 0.58,
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "title_en": "Distinct cellular and genetic differences in colorectal cancer in young patients",
+      "url": "https://www.dana-farber.org/newsroom/news-releases/2026/study-reveals-distinct-cellular-and-genetic-differences-in-colorectal-cancer-in-younger-patients",
+      "title_zh": "年轻结直肠癌患者存在独特的细胞和遗传差异",
+      "is_new": true,
+      "created_display": "Created: Nov 03, 2026 / 19:20 PT",
+      "image_url": "https://dfci.widen.net/content/110ca04f-81c4-49f9-8e22-28a6ce5b3d0d/web/DFCI%20Logo%20Lens%20Color-rgb.svg?v=110ca04f-81c4-49f9-8e22-28a6ce5b3d0d",
+      "summary_en": "Researchers from Dana-Farber, Mass General Brigham, and the Broad Institute identified biological clues that may explain why colorectal cancer can behave more aggressively in younger people. Published in Nature Medicine, the study is described as the largest of its kind and compares age-associated cellular and genetic features. In the United States, colorectal cancer diagnoses among people under 50 rose 2.9 percent per year from 2013 through 2022.",
+      "summary_zh": "Dana-Farber、Mass General Brigham 和 Broad Institute 的研究人员发现了可能解释年轻人结直肠癌为何表现得更具侵袭性的生物学线索。该研究发表于《自然·医学》，被称为同类研究中规模最大的一项，并比较了与年龄相关的细胞和遗传特征。在美国，2013 至 2022 年间，50 岁以下人群的结直肠癌诊断率年均上升 2.9%。",
+      "hn": {
+        "id": 50361154,
+        "type": "story",
+        "by": "gmays",
+        "score": 121,
+        "descendants": 55,
+        "time": 1793762413,
+        "comments_url": "https://news.ycombinator.com/item?id=50361154"
+      },
+      "hot_score": 0.56,
+      "tags": [
+        "Health",
+        "Science"
+      ]
+    },
+    {
+      "title_en": "Giant canyon on Mars is still tectonically active",
+      "url": "https://lamont.columbia.edu/news/giant-canyon-mars-still-tectonically-active-today",
+      "title_zh": "火星上的巨大峡谷至今仍在构造活动",
+      "is_new": true,
+      "created_display": "Created: Nov 03, 2026 / 17:40 PT",
+      "image_url": null,
+      "summary_en": "A giant canyon on Mars is still tectonically active. No further details about the evidence or the canyon are available here.",
+      "summary_zh": "火星上的一条巨大峡谷仍处于构造活动之中。现有信息未提供相关证据或峡谷的更多细节。",
+      "hn": {
+        "id": 50360573,
+        "type": "story",
+        "by": "gmays",
+        "score": 139,
+        "descendants": 36,
+        "time": 1793756442,
+        "comments_url": "https://news.ycombinator.com/item?id=50360573"
+      },
+      "hot_score": 0.55,
+      "tags": [
+        "Space",
+        "Science"
+      ]
+    },
+    {
+      "title_en": "Show HN: HackerTV – HN's most-recommended Youtube videos as 24/7 TV channels",
+      "url": "https://hackertv.org",
+      "title_zh": "Show HN：HackerTV——把 HN 最常被推荐的 YouTube 视频做成全天候频道",
+      "is_new": true,
+      "created_display": "Created: Nov 02, 2026 / 17:18 PT",
+      "image_url": null,
+      "summary_en": "HackerTV turns YouTube videos frequently recommended in Hacker News comments into 24/7 topic channels. It includes channels such as DEVTV, SOLDER, RETRO, and ORBIT, along with an HN Prime channel containing the top 400 videos. The project was built in a few hours with Claude Code and also includes a music channel and a late-night channel.",
+      "summary_zh": "HackerTV 将 Hacker News 评论中经常被推荐的 YouTube 视频整理成全天候主题频道。它包含 DEVTV、SOLDER、RETRO 和 ORBIT 等频道，以及收录前 400 个视频的 HN Prime 频道。项目用 Claude Code 在几小时内完成，还提供音乐频道和深夜频道。",
+      "hn": {
+        "id": 50346755,
+        "type": "story",
+        "by": "dsalzman",
+        "score": 450,
+        "descendants": 79,
+        "time": 1793668689,
+        "comments_url": "https://news.ycombinator.com/item?id=50346755"
+      },
+      "hot_score": 0.46,
+      "tags": [
+        "Show HN",
+        "Entertainment",
+        "AI",
+        "Space"
+      ]
+    },
+    {
+      "title_en": "If you're on Replit Pro, you have until November 8 to opt out of arbitration",
+      "url": "https://readthediff.substack.com/p/replit-pro-arbitration-opt-out-november-8",
+      "title_zh": "如果你使用 Replit Pro，须在 11 月 8 日前选择退出仲裁",
+      "is_new": true,
+      "created_display": "Created: Nov 04, 2026 / 12:52 PT",
+      "image_url": null,
+      "summary_en": "Replit Pro users have until November 8 to opt out of arbitration. The available information provides no further details about the arbitration terms or opt-out process.",
+      "summary_zh": "Replit Pro 用户须在 11 月 8 日前选择退出仲裁。现有信息未提供仲裁条款或退出流程的更多细节。",
+      "hn": {
+        "id": 50371346,
+        "type": "story",
+        "by": "MiguelSosa",
+        "score": 3,
+        "descendants": 0,
+        "time": 1793825573,
+        "comments_url": "https://news.ycombinator.com/item?id=50371346"
+      },
+      "hot_score": 0.46,
+      "tags": [
+        "Legal"
+      ]
+    },
+    {
+      "title_en": "Mocktastic: A Meshtastic Node on Arduino",
+      "url": "https://github.com/Vapmuz/Mocktastic",
+      "title_zh": "Mocktastic：Arduino 上的 Meshtastic 节点",
+      "is_new": true,
+      "created_display": "Created: Nov 04, 2026 / 05:51 PT",
+      "image_url": "https://opengraph.githubassets.com/0b9e779741b6efa086a24d42ac6131f8d85b056e60dc64c8e253179d2ab3fc36/Vapmuz/Mocktastic",
+      "summary_en": "Mocktastic is a small, customizable Meshtastic-compatible LoRa client for ESP32 boards built with ArduinoIDE. It is an educational and experimental C++ implementation rather than a fork of the official firmware. The project demonstrates Meshtastic packet encoding and decoding and includes an environmental-sensor example.",
+      "summary_zh": "Mocktastic 是一个面向 ESP32 开发板、使用 ArduinoIDE 构建的小型可定制 Meshtastic 兼容 LoRa 客户端。它是用于教育和实验的 C++ 实现，并非官方固件的分支。项目演示了 Meshtastic 数据包的编码与解码，并包含环境传感器示例。",
+      "hn": {
+        "id": 50365516,
+        "type": "story",
+        "by": "kimi",
+        "score": 26,
+        "descendants": 1,
+        "time": 1793800312,
+        "comments_url": "https://news.ycombinator.com/item?id=50365516"
+      },
+      "hot_score": 0.45,
+      "tags": [
+        "Hardware",
+        "Open Source"
+      ]
+    },
+    {
+      "title_en": "Show HN: Uncracked City, detective game where you question LLM suspects that lie",
+      "url": "https://uncracked.city",
+      "title_zh": "Show HN：Uncracked City——审问会撒谎的 LLM 嫌疑人的侦探游戏",
+      "is_new": true,
+      "created_display": "Created: Nov 03, 2026 / 13:20 PT",
+      "image_url": "https://uncracked.city/og/en.png",
+      "summary_en": "Uncracked City is a detective game in which players question LLM-controlled suspects who may lie. Each case takes place in a real city with real public locations, while the crimes and characters are fictional. The game is free on Android, available in six languages, and its iOS version is awaiting review.",
+      "summary_zh": "Uncracked City 是一款侦探游戏，玩家需要审问可能撒谎的 LLM 控制的嫌疑人。每个案件都发生在拥有真实公共地点的城市中，但犯罪事件和人物均为虚构。游戏在 Android 上免费提供，支持六种语言，iOS 版本仍在等待审核。",
+      "hn": {
+        "id": 50358352,
+        "type": "story",
+        "by": "passkey1510",
+        "score": 120,
+        "descendants": 62,
+        "time": 1793740803,
+        "comments_url": "https://news.ycombinator.com/item?id=50358352"
+      },
+      "hot_score": 0.34,
+      "tags": [
+        "Show HN",
+        "Gaming",
+        "AI"
+      ]
+    },
+    {
+      "title_en": "Japan's Jimi 'Mundane' Halloween Costumes of 2026",
+      "url": "https://spoon-tamago.com/japan-jimi-mundane-halloween-costumes-2026/",
+      "title_zh": "日本 2026 年“平淡”万圣节服装",
+      "is_new": true,
+      "created_display": "Created: Nov 01, 2026 / 20:31 PT",
+      "image_url": "https://spoon-tamago.com/wp-content/uploads/2026/10/jimi-halloween-2026-top.jpg",
+      "summary_en": "Japan’s Jimi Halloween features costumes so ordinary that they need to be explained. The tradition began in 2014 when adults associated with Daily Portal Z wanted to take part in Halloween without wearing flashy witch or zombie costumes. Participants instead dress as mundane, everyday things.",
+      "summary_zh": "日本的“平淡万圣节”以普通到需要解释的服装为特色。这一传统始于 2014 年，当时 Daily Portal Z 的一群成年人想参加万圣节，却不愿穿华丽的女巫或僵尸服装。参与者因此改穿日常生活中平淡无奇的事物。",
+      "hn": {
+        "id": 50333131,
+        "type": "story",
+        "by": "zdw",
+        "score": 249,
+        "descendants": 36,
+        "time": 1793593880,
+        "comments_url": "https://news.ycombinator.com/item?id=50333131"
+      },
+      "hot_score": 0.13,
+      "tags": [
+        "Culture",
+        "Entertainment"
+      ]
+    },
+    {
+      "title_en": "Basically no one is using AI agents for their DoorDash orders",
+      "url": "https://arstechnica.com/ai/2026/10/doordash-says-outside-ai-agents-have-only-led-to-hundreds-of-orders-so-far/",
+      "title_zh": "基本没人用 AI 智能体点 DoorDash 外卖",
+      "is_new": true,
+      "created_display": "Created: Nov 02, 2026 / 07:48 PT",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2301817894-1024x648.jpg",
+      "summary_en": "DoorDash CEO Tony Xu said AI agents had generated only several hundred orders over the entire period since the feature became available. He described the use case as very low volume, especially compared with the nearly one billion orders DoorDash handled in the third quarter of 2026. The figures suggest that ordering food through external AI agents remains at an early stage.",
+      "summary_zh": "DoorDash 首席执行官 Tony Xu 表示，自该功能上线以来，AI 智能体总共只产生了几百笔订单。他称这一使用场景的规模非常小，而 DoorDash 在 2026 年第三季度单季就处理了接近 10 亿笔订单。这些数字表明，通过外部 AI 智能体点餐仍处于早期阶段。",
+      "hn": {
+        "id": 50338474,
+        "type": "story",
+        "by": "PaulHoule",
+        "score": 30,
+        "descendants": 33,
+        "time": 1793634525,
+        "comments_url": "https://news.ycombinator.com/item?id=50338474"
+      },
+      "hot_score": 0.02,
+      "tags": [
+        "AI",
+        "Business"
+      ]
+    }
+  ]
+}
