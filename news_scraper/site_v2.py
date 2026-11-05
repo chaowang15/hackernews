@@ -498,7 +498,7 @@ def top_block(mode, pairs, label, all_href, on):
     has, attrs = shell(lead, "lead")
     leadh = f"""<a {attrs} href="{url(lead)}" target="_blank" rel="noopener">{picture(lead, 'limg') if has else ''}<div class="ltxt">{'' if has else source_band(lead)}
 <div class="eyebrow">#01 · {label}{when(d0)}</div><h2>{bil(lead.get('title_en'), lead.get('title_zh'))}</h2>
-<div class="alt">{bil(lead.get('title_zh'), lead.get('title_en'))}</div><p>{bil(lead.get('summary_en'), lead.get('summary_zh'))}</p>
+<div class="alt"><span class='zh'>{e(lead.get('title_en'))}</span></div><p>{bil(lead.get('summary_en'), lead.get('summary_zh'))}</p>
 <div class="sfoot"><span class="tags">{''.join(tag(t) for t in lead['tags'])}</span>{meta(lead, link=False)}</div></div></a>"""
     cards = ""
     for i, (d, x) in enumerate(sub4):
@@ -608,7 +608,7 @@ def favorites_page():
 
 def search_page():
     body = f"""<div class="rhead"><div class="wrap"><div class="crumb"><span class="kind">{B('Search', '搜索')}</span></div>
-<div class="sbox">{I['search']}<input id="q" type="search" autocomplete="off" placeholder="Search titles, 中文标题, tags, domains…"></div>
+<div class="sbox">{I['search']}<input id="q" type="search" autocomplete="off" placeholder="Search titles, tags, domains…" data-ph-zh="搜索标题、中文标题、标签、网站…"></div>
 <div class="rsub"><b id="count">…</b> {B('results of', '条结果，共')} <span id="total">…</span> {B('stories', '条')}
 <span class="seg sm sortseg"><button data-sort="relevance">{B('Relevance', '相关')}</button><button data-sort="date">{B('Newest', '最新')}</button><button data-sort="score">{B('Score', '分数')}</button></span></div></div></div>
 {toolbar(''.join(tag(t, None, '#') for t in TAG_COLORS), scope=False)}<main class="wrap stories"></main><div class="wrap"><button id="more" class="readall" hidden>{B('Show more', '显示更多')}</button></div>"""

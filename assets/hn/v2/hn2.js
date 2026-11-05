@@ -281,7 +281,7 @@
       b.onclick = function () { store(SORT_KEY, b.dataset.sort); render(); };
     });
     document.getElementById('clear').onclick = function () {
-      if (confirm('Remove all favorites? / 清空全部收藏？')) { store(FK, '{}'); render(); }
+      if (confirm(R.dataset.lang === 'zh' ? '清空全部收藏？' : 'Remove all favorites?')) { store(FK, '{}'); render(); }
     };
     render();
   }
@@ -291,6 +291,9 @@
     var q = document.getElementById('q'), P = new URLSearchParams(location.search);
     var sort = P.get('sort') || 'relevance', tagF = P.get('tag') || '';
     q.value = P.get('q') || '';
+    function ph() { if (!q.dataset.phEn) q.dataset.phEn = q.placeholder; q.placeholder = R.dataset.lang === 'zh' ? q.dataset.phZh : q.dataset.phEn; }
+    ph();
+    $$('[data-set^="lang:"]').forEach(function (b) { b.addEventListener('click', ph); });
     fetch(CFG.base + 'search/manifest.json').then(function (r) { return r.json(); }).then(function (man) {
       return Promise.all(man.shards.map(function (m) {
         return fetch(CFG.base + 'search/' + m + '.json').then(function (r) { return r.json(); });
