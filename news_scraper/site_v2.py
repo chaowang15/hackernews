@@ -405,6 +405,14 @@ def reader(p, title_txt, kind, title_html, sub_html, items, prev_, next_, nav_on
     write(p, title_txt, body, nav_on)
 
 
+def rolling_row(days, first_seen, n):
+    """First card on the weekly / monthly index: the rolling past-7 / past-30-day page."""
+    a, b = window_range(days, n)
+    rng = B(f"{a:%b} {a.day} – {b:%b} {b.day}", f"{a.month}月{a.day}日 – {b.month}月{b.day}日")
+    return (f"<a class='panel drow rolling' href='{O.url(f'top/{n}d')}'><b>{B(f'Past {n} days', f'过去 {n} 天')}</b>"
+            f"<span>{rng}</span>{top5([x for _, x in recent(days, first_seen, n, k=5)])}</a>")
+
+
 def top5(items):
     """First five titles of a digest, shown on the weekly / monthly index cards."""
     return "<ol class='dtop'>" + "".join(f"<li>{bil(x.get('title_en'), x.get('title_zh'))}</li>" for x in items[:5]) + "</ol>"
@@ -707,6 +715,7 @@ def build(preview_dir=None):
     rows = "".join(f"<a class='panel drow' href='{O.url('weekly/' + k)}'><b>{B(f'Week {int(k[-2:])}', f'第 {int(k[-2:])} 周')}</b>"
                    f"<span>{B(weeks[k]['meta']['date_start'] + ' – ' + weeks[k]['meta']['date_end'], weeks[k]['meta']['date_start'] + ' – ' + weeks[k]['meta']['date_end'])}</span>"
                    f"{top5(weeks[k]['items'])}</a>" for k in reversed(wl) if weeks[k]["items"])
+    rows = rolling_row(days, first_seen, 7) + rows
     list_page("weekly/", "Weekly Digests — Hacker News Daily", B("Weekly", "周榜"), B("Weekly digests", "每周周榜"),
               B(f"{len(wl)} weeks · Top 100 per week", f"共 {len(wl)} 周 · 每周 Top 100"), rows, "week")
     ml = sorted(months)
@@ -722,7 +731,7 @@ def build(preview_dir=None):
         f0, mi = date.fromisoformat(k + "-01"), months[k]["items"]
         return (f"<a class='panel drow' href='{O.url('monthly/' + k)}'><b>{B(f'{f0:%B %Y}', f'{f0.year}年{f0.month}月')}</b>"
                 f"<span>Top {len(mi)}</span>{top5(mi)}</a>")
-    rows = "".join(month_row(k) for k in reversed(ml) if months[k]["items"])
+    rows = rolling_row(days, first_seen, 30) + "".join(month_row(k) for k in reversed(ml) if months[k]["items"])
     list_page("monthly/", "Monthly Digests — Hacker News Daily", B("Monthly", "月榜"), B("Monthly digests", "每月月榜"),
               B(f"{len(ml)} months", f"共 {len(ml)} 个月"), rows, "month")
     target = O.url("top/30d") + "?only=code"

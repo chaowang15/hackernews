@@ -338,3 +338,5 @@ button.readall{border:0;cursor:pointer;width:100%;font:inherit;font-weight:700;m
 .syncbox[hidden]{display:none}
 .syncbox input{flex:1;min-width:220px;padding:9px 12px;border-radius:10px;border:1px solid var(--line);background:var(--card-solid);color:var(--fg);font:500 14px var(--mono)}
 .syncstat{color:var(--mut);font-size:13px}
+.drow.rolling{border-color:color-mix(in srgb,var(--acc) 45%,var(--line))}
+.drow.rolling b{color:var(--acc)}

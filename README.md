@@ -54,6 +54,7 @@ to `logs/openai_token_usage_log.md`.
   (`?only=code`, remembered for the browser session); `code/` redirects to `top/30d?only=code`.
   Weekly, monthly and past-7/30-day pages also embed the code stories ranked below the page cut-off
   (hidden in the All scope), so the Code scope lists every code story of that period.
+- The weekly / monthly index pages start with a "Past 7 days" / "Past 30 days" card.
 - The "Today" nav item opens the latest day page (the logo opens the home page); reader pages
   default to the titles-only view and English (the English view contains no Chinese text); weekly / monthly index cards list each digest's top five titles.
 - Card and full views have a share button next to the favorite star: native share sheet on touch devices,
