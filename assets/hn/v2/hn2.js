@@ -369,11 +369,11 @@
     syncPanel();
   }
 
-  /* Owner-only sync settings: visible when a token is saved, or when the page is opened with ?sync. */
+  /* Owner-only sync settings: shown only when the favorites page is opened with ?sync. */
   function syncPanel() {
     var box = document.getElementById('syncbox');
     var setup = new URLSearchParams(location.search).has('sync');
-    if (!box || (!Sync.token() && !setup)) return;
+    if (!box || !setup) return;  /* sync runs silently; open favorites/?sync to see status or change settings */
     var zh = R.dataset.lang === 'zh';
     box.hidden = false;
     if (!Sync.token()) {
