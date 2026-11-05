@@ -322,3 +322,13 @@ button.readall{border:0;cursor:pointer;width:100%;font:inherit;font-weight:700;m
 .codesec{margin-top:10px}
 .crow .repo .src{display:flex;align-items:center;gap:6px;font:600 12.5px var(--mono);color:var(--acc);margin-bottom:3px}
 .crow .repo .fbi{width:14px;height:14px;padding:0;background:none;box-shadow:none;border-radius:3px}
+
+/* share button: card and full views only, next to the favorite star */
+.shr{display:none;position:absolute;top:9px;right:40px;z-index:2;width:34px;height:34px;border:0;background:transparent;color:var(--mut);cursor:pointer;border-radius:9px;place-items:center}
+.shr:hover{background:var(--hl);color:var(--acc)}
+[data-view=full] .shr,[data-view=cards] .shr{display:grid}
+[data-view=full] .sbody{padding-right:76px}
+[data-view=cards] .shr{top:10px;right:50px;background:rgba(0,0,0,.45);color:#fff;backdrop-filter:blur(6px)}
+.toast{position:fixed;left:50%;bottom:90px;transform:translateX(-50%) translateY(20px);opacity:0;z-index:60;padding:10px 16px;border-radius:12px;
+ background:var(--fg);color:var(--bg);font:600 14px var(--sans);transition:opacity .2s,transform .2s;pointer-events:none}
+.toast.on{opacity:1;transform:translateX(-50%) translateY(0)}

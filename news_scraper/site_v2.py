@@ -189,6 +189,7 @@ I = {
     "home": "<svg class='ico' viewBox='0 0 24 24'><path d='M3 10.5 12 3l9 7.5V21h-6v-6H9v6H3z'/></svg>",
     "chart": "<svg class='ico' viewBox='0 0 24 24'><path d='M3 3v18h18'/><path d='m7 15 4-4 3 3 6-7'/></svg>",
     "rss": "<svg class='ico' viewBox='0 0 24 24'><path d='M4 11a9 9 0 0 1 9 9M4 4a16 16 0 0 1 16 16'/><circle cx='5' cy='19' r='1'/></svg>",
+    "share": "<svg class='ico' viewBox='0 0 24 24'><path d='M12 3v12M7 8l5-5 5 5'/><path d='M5 13v6a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2v-6'/></svg>",
     "left": "<svg class='ico' viewBox='0 0 24 24'><path d='m15 18-6-6 6-6'/></svg>",
     "right": "<svg class='ico' viewBox='0 0 24 24'><path d='m9 18 6-6-6-6'/></svg>",
 }
@@ -351,7 +352,7 @@ def story(it, i, top, day=None):
     tags = "".join(tag(t) for t in it.get("tags", []))
     sday = f"<a class='sday' href='{O.url(day_path(day))}'>{d_short(day)}</a>" if day else ""
     return f"""<article class="story{' top' if i < top else ''}" id="story-{hn.get('id')}" data-id="{hn.get('id')}" data-tags="{e('|'.join(it.get('tags', [])))}" data-score="{hn.get('score', 0)}" data-comments="{hn.get('descendants', 0)}" data-hn="{e(hn.get('comments_url'))}" data-time="{hn.get('time', 0)}">
-<a class="thumb" href="{e(url)}" target="_blank" rel="noopener">{picture(it, 'th')}</a><button class="fav" aria-label="favorite">☆</button>
+<a class="thumb" href="{e(url)}" target="_blank" rel="noopener">{picture(it, 'th')}</a><button class="fav" aria-label="favorite">☆</button><button class="shr" aria-label="share" title="Share">{I['share']}</button>
 <div class="sbody"><div class="rk">{i + 1:02d}</div>
 <h3 class="st"><a href="{e(url)}" target="_blank" rel="noopener">{bil(it.get('title_en'), it.get('title_zh'))}</a><span class="dom">{e(domain(url))}</span></h3>
 <p class="sum one">{bil(first_sentence(it.get('summary_en')), first_sentence(it.get('summary_zh'), True))}</p>

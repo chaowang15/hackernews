@@ -191,6 +191,37 @@
   });
   favSync();
 
+  /* ---- share: native share sheet on phones, clipboard elsewhere (card and full views only) ---- */
+  var SHARE_ICON = '<svg class="ico" viewBox="0 0 24 24"><path d="M12 3v12M7 8l5-5 5 5"/><path d="M5 13v6a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2v-6"/></svg>';
+  function toast(msg) {
+    var t = document.querySelector('.toast') || document.body.appendChild(Object.assign(document.createElement('div'), { className: 'toast' }));
+    t.textContent = msg;
+    t.classList.add('on');
+    clearTimeout(t._h);
+    t._h = setTimeout(function () { t.classList.remove('on'); }, 1800);
+  }
+  document.addEventListener('click', function (ev) {
+    var b = ev.target.closest && ev.target.closest('.shr');
+    if (!b) return;
+    ev.preventDefault();
+    var s = b.closest('.story'), zh = R.dataset.lang === 'zh';
+    var title = txt(s, zh ? '.st .zh' : '.st .en') || txt(s, '.st .en');
+    var line = txt(s, zh ? '.sum.one .zh' : '.sum.one .en');
+    var link = /^\d+$/.test(s.dataset.id) && Number(s.dataset.id) > 1e7
+      ? location.origin + CFG.base + 'share/' + s.dataset.id + '.html'
+      : location.origin + location.pathname + '#story-' + s.dataset.id;
+    var text = title + (line ? '\n' + line : '');
+    if (navigator.share && matchMedia('(pointer: coarse)').matches) {
+      navigator.share({ title: title, text: text, url: link }).catch(function () {});
+      return;
+    }
+    var all = text + '\n' + link;
+    (navigator.clipboard ? navigator.clipboard.writeText(all) : Promise.reject()).then(function () {
+      toast(zh ? '已复制，可以粘贴分享' : 'Copied — paste to share');
+    }, function () { window.prompt(zh ? '复制下面的内容' : 'Copy this', all); });
+    if (window.gtag) gtag('event', 'share_story', { story_id: s.dataset.id });
+  });
+
   /* ---- client-rendered stories (favorites, search) mirror the static markup ---- */
   function first(s, zh) {
     s = (s || '').trim();
@@ -208,7 +239,7 @@
     var day = o.date ? '<a class="sday" href="' + dayUrl(o.date) + '#story-' + o.id + '">' + esc(o.date) + '</a>' : '';
     return '<article class="story" data-id="' + esc(o.id) + '" data-tags="' + esc(tags.join('|')) + '" data-score="' + esc(o.score) +
       '" data-comments="' + esc(o.comments) + '" data-hn="' + esc(o.hn) + '" data-time="' + (o.time || 0) + '">' +
-      '<a class="thumb" href="' + esc(o.url) + '" target="_blank" rel="noopener">' + th + '</a><button class="fav" aria-label="favorite">☆</button>' +
+      '<a class="thumb" href="' + esc(o.url) + '" target="_blank" rel="noopener">' + th + '</a><button class="fav" aria-label="favorite">☆</button><button class="shr" aria-label="share" title="Share">' + SHARE_ICON + '</button>' +
       '<div class="sbody"><div class="rk">' + String(i + 1).padStart(2, '0') + '</div>' +
       '<h3 class="st"><a href="' + esc(o.url) + '" target="_blank" rel="noopener"><span class="en">' + esc(o.t) + '</span><span class="zh">' + esc(o.z || o.t) + '</span></a><span class="dom">' + esc(d) + '</span></h3>' +
       '<p class="sum one"><span class="en">' + esc(first(o.se)) + '</span><span class="zh">' + esc(first(o.sz, 1)) + '</span></p>' +
