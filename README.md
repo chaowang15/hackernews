@@ -57,6 +57,10 @@ to `logs/openai_token_usage_log.md`.
 - Card and full views have a share button next to the favorite star: native share sheet on touch devices,
   clipboard (title + one-line summary + link) elsewhere. Links use the existing `share/<id>.html` pages
   (Open Graph preview, redirect to the day page anchor).
+- Owner-only favorites sync: open `favorites/?sync` once per device and paste a GitHub token with only the
+  `gist` scope (kept in that browser's localStorage). Favorites merge with a private gist
+  (`hn-favorites.json`, created on first sync) on page load and after each change; deletions are kept as
+  tombstones for 120 days. Browsers without a token see no sync UI.
 - Search data is sharded by month under `hackernews/search/`; Favorites use the existing
   `hnFavoritesV1` localStorage key.
 - Local preview without Jekyll: `python news_scraper/site_v2.py --preview /tmp/hnprev`, then

@@ -601,7 +601,7 @@ def favorites_page():
 <div class="rsub">{B('Stored only in this browser — no account needed', '只保存在本浏览器，不需要账号')} · <b id="count">0</b> {B('stories', '条')}</div>
 <div class="favbar"><div class="seg"><button data-sort="added">{B('Recently saved', '最近收藏')}</button><button data-sort="score">{B('Score', '分数')}</button></div>
 <button class="ghost" id="clear">{B('Clear all', '清空')}</button></div></div></div>{toolbar('', scope=False)}
-<div class="wrap"><p id="empty" class="empty" hidden>{B('No favorites yet. Tap ☆ on any story to save it here.', '还没有收藏。点任意新闻右上角的 ☆ 即可收藏。')}</p></div>
+<div class="wrap"><div id="syncbox" class="panel syncbox" hidden></div><p id="empty" class="empty" hidden>{B('No favorites yet. Tap ☆ on any story to save it here.', '还没有收藏。点任意新闻右上角的 ☆ 即可收藏。')}</p></div>
 <main class="wrap stories"></main>"""
     write("favorites/", "Favorites · Hacker News Daily", body, "fav", "<script>window.addEventListener('DOMContentLoaded',()=>HN2.favoritesPage())</script>")
 

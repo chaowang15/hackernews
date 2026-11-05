@@ -184,12 +184,94 @@
     if (!b) return;
     ev.preventDefault();
     var s = b.closest('.story'), f = favs(), k = 'story-' + s.dataset.id;
-    if (f[k]) delete f[k]; else f[k] = favData(s);
+    if (f[k]) { delete f[k]; tombstone([k]); } else f[k] = favData(s);
     store(FK, JSON.stringify(f));
     favSync();
     if (onFavChange) onFavChange();
+    Sync.soon();
   });
   favSync();
+
+  /* ---- favorites sync across the owner's devices via a private GitHub Gist ----
+     Enabled only on browsers where a gist-scoped token was saved (favorites page with ?sync).
+     Merge = union by key, newest savedAt wins; deletions are kept as tombstones for 120 days. */
+  var TK = 'hnSyncToken', GK = 'hnSyncGist', TOMB = 'hnFavTombstones', LAST = 'hnSyncLast';
+  var GIST_FILE = 'hn-favorites.json', GIST_DESC = 'HN Daily favorites (sync)';
+  function tombs() { try { return JSON.parse(localStorage.getItem(TOMB) || '{}'); } catch (e) { return {}; } }
+  function tombstone(keys) {
+    var t = tombs(), now = new Date().toISOString();
+    keys.forEach(function (k) { t[k] = now; });
+    store(TOMB, JSON.stringify(t));
+  }
+  var Sync = {
+    token: function () { return localStorage.getItem(TK) || ''; },
+    status: function (msg) { $$('.syncstat').forEach(function (n) { n.textContent = msg; }); },
+    api: function (path, opt) {
+      opt = opt || {};
+      opt.headers = { 'Authorization': 'Bearer ' + Sync.token(), 'Accept': 'application/vnd.github+json' };
+      if (opt.body) opt.headers['Content-Type'] = 'application/json';
+      return fetch('https://api.github.com' + path, opt).then(function (r) {
+        if (!r.ok) throw new Error('GitHub ' + r.status);
+        return r.json();
+      });
+    },
+    findGist: function () {
+      var id = localStorage.getItem(GK);
+      if (id) return Sync.api('/gists/' + id).catch(function () { localStorage.removeItem(GK); return Sync.findGist(); });
+      return Sync.api('/gists?per_page=100').then(function (list) {
+        var g = list.filter(function (x) { return x.files && x.files[GIST_FILE]; })[0];
+        if (g) return Sync.api('/gists/' + g.id);
+        return Sync.api('/gists', { method: 'POST', body: JSON.stringify({
+          description: GIST_DESC, public: false,
+          files: (function () { var f = {}; f[GIST_FILE] = { content: '{"favorites":{},"tombstones":{}}' }; return f; })()
+        }) });
+      }).then(function (g) { store(GK, g.id); return g; });
+    },
+    readRemote: function (g) {
+      var file = g.files[GIST_FILE];
+      var body = file && file.truncated ? fetch(file.raw_url).then(function (r) { return r.text(); }) : Promise.resolve(file ? file.content : '');
+      return body.then(function (t) { try { return JSON.parse(t || '{}'); } catch (e) { return {}; } });
+    },
+    merge: function (remote) {
+      var lf = favs(), rf = remote.favorites || {}, t = tombs(), rt = remote.tombstones || {}, out = {};
+      Object.keys(rt).forEach(function (k) { if (!t[k] || rt[k] > t[k]) t[k] = rt[k]; });
+      Object.keys(lf).concat(Object.keys(rf)).forEach(function (k) {
+        var a = lf[k], b = rf[k], v = !a ? b : !b ? a : (String(b.savedAt) > String(a.savedAt) ? b : a);
+        if (v && !(t[k] && t[k] >= String(v.savedAt || ''))) out[k] = v;
+      });
+      var cutoff = new Date(Date.now() - 120 * 864e5).toISOString();
+      Object.keys(t).forEach(function (k) { if (t[k] < cutoff || out[k]) delete t[k]; });
+      return { favorites: out, tombstones: t };
+    },
+    run: function () {
+      if (!Sync.token() || Sync.busy) return Promise.resolve();
+      Sync.busy = true;
+      Sync.status(R.dataset.lang === 'zh' ? '同步中…' : 'Syncing…');
+      var gist;
+      return Sync.findGist().then(function (g) { gist = g; return Sync.readRemote(g); }).then(function (remote) {
+        var m = Sync.merge(remote), body = JSON.stringify(m);
+        store(FK, JSON.stringify(m.favorites));
+        store(TOMB, JSON.stringify(m.tombstones));
+        favSync();
+        if (onFavChange) onFavChange();
+        if (body === JSON.stringify({ favorites: remote.favorites || {}, tombstones: remote.tombstones || {} })) return;
+        var files = {}; files[GIST_FILE] = { content: body };
+        return Sync.api('/gists/' + gist.id, { method: 'PATCH', body: JSON.stringify({ files: files }) });
+      }).then(function () {
+        store(LAST, String(Date.now()));
+        var n = Object.keys(favs()).length, t = new Date().toLocaleTimeString([], { hour: '2-digit', minute: '2-digit' });
+        Sync.status(R.dataset.lang === 'zh' ? '已同步 ' + n + ' 条 · ' + t : 'Synced ' + n + ' · ' + t);
+      }).catch(function (err) {
+        Sync.status((R.dataset.lang === 'zh' ? '同步失败：' : 'Sync failed: ') + err.message);
+      }).then(function () { Sync.busy = false; });
+    },
+    soon: function () {
+      if (!Sync.token()) return;
+      clearTimeout(Sync._t);
+      Sync._t = setTimeout(Sync.run, 1500);
+    }
+  };
+  if (Sync.token() && Date.now() - Number(localStorage.getItem(LAST) || 0) > 60000) Sync.run();
 
   /* ---- share: native share sheet on phones, clipboard elsewhere (card and full views only) ---- */
   var SHARE_ICON = '<svg class="ico" viewBox="0 0 24 24"><path d="M12 3v12M7 8l5-5 5 5"/><path d="M5 13v6a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2v-6"/></svg>';
@@ -281,9 +363,42 @@
       b.onclick = function () { store(SORT_KEY, b.dataset.sort); render(); };
     });
     document.getElementById('clear').onclick = function () {
-      if (confirm(R.dataset.lang === 'zh' ? '清空全部收藏？' : 'Remove all favorites?')) { store(FK, '{}'); render(); }
+      if (confirm(R.dataset.lang === 'zh' ? '清空全部收藏？' : 'Remove all favorites?')) { tombstone(Object.keys(favs())); store(FK, '{}'); render(); Sync.soon(); }
     };
     render();
+    syncPanel();
+  }
+
+  /* Owner-only sync settings: visible when a token is saved, or when the page is opened with ?sync. */
+  function syncPanel() {
+    var box = document.getElementById('syncbox');
+    var setup = new URLSearchParams(location.search).has('sync');
+    if (!box || (!Sync.token() && !setup)) return;
+    var zh = R.dataset.lang === 'zh';
+    box.hidden = false;
+    if (!Sync.token()) {
+      box.innerHTML = '<b>' + (zh ? '多设备同步' : 'Sync across devices') + '</b>' +
+        '<input id="synctoken" type="password" autocomplete="off" placeholder="GitHub token (gist scope)">' +
+        '<button class="ghost" id="syncsave">' + (zh ? '保存并同步' : 'Save & sync') + '</button><span class="syncstat"></span>';
+      document.getElementById('syncsave').onclick = function () {
+        var v = document.getElementById('synctoken').value.trim();
+        if (!v) return;
+        store(TK, v);
+        syncPanel();
+        Sync.run();
+      };
+      return;
+    }
+    box.innerHTML = '<b>' + (zh ? '多设备同步已开启' : 'Device sync on') + '</b><span class="syncstat"></span>' +
+      '<button class="ghost" id="syncnow">' + (zh ? '立即同步' : 'Sync now') + '</button>' +
+      '<button class="ghost" id="syncoff">' + (zh ? '在此设备关闭' : 'Turn off here') + '</button>';
+    document.getElementById('syncnow').onclick = Sync.run;
+    document.getElementById('syncoff').onclick = function () {
+      if (!confirm(zh ? '在这台设备上关闭同步？（收藏保留在本机）' : 'Turn off sync on this device? (favorites stay here)')) return;
+      [TK, GK, LAST].forEach(function (k) { localStorage.removeItem(k); });
+      box.hidden = true;
+    };
+    Sync.status(localStorage.getItem(LAST) ? (zh ? '上次同步 ' : 'Last sync ') + new Date(Number(localStorage.getItem(LAST))).toLocaleString() : '');
   }
 
   function searchPage() {
