@@ -53,7 +53,7 @@ to `logs/openai_token_usage_log.md`.
   past 7 days). Every reader page (daily / weekly / monthly / past 7 or 30 days) has an All / Code switch
   (`?only=code`, remembered for the browser session); `code/` redirects to `top/30d?only=code`.
 - The "Today" nav item opens the latest day page (the logo opens the home page); reader pages
-  default to the titles-only view; weekly / monthly index cards list each digest's top five titles.
+  default to the titles-only view and English (the English view contains no Chinese text); weekly / monthly index cards list each digest's top five titles.
 - Card and full views have a share button next to the favorite star: native share sheet on touch devices,
   clipboard (title + one-line summary + link) elsewhere. Links use the existing `share/<id>.html` pages
   (Open Graph preview, redirect to the day page anchor).
