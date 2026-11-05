@@ -9,7 +9,7 @@ All four run automatically; manual runs are optional.
 
 | Workflow | Schedule | What it does |
 |----------|----------|--------------|
-| HN Top Stories (Incremental) | 8:05 and 18:05 America/Los_Angeles (four UTC triggers; a gate step picks the edition or skips) | Fetch top stories; `morning` = Morning 50, `full` = All 100 |
+| HN Top Stories (Incremental) | 8:05 and 18:05 America/Los_Angeles (four UTC triggers plus backups at 9:35 / 19:35 PST; a gate step picks the edition or skips) | Fetch top stories; `morning` = Morning 50, `full` = All 100 |
 | HN Weekly Digest | Monday 09:00 UTC | Top 100 of the previous ISO week |
 | HN Monthly Digest | 1st of the month 10:00 UTC | Top 200 of the previous month |
 | Build and Deploy Pages | after each scraper workflow succeeds, and on pushes that touch the site | Jekyll build and GitHub Pages deploy (manual run builds only unless `publish` is checked) |
