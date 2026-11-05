@@ -54,7 +54,7 @@
     var sel = document.querySelector('.filters .tag.sel'), t = sel ? sel.dataset.t : null, n = 0;
     $$('.stories .story').forEach(function (s) {
       var tags = s.dataset.tags.split('|');
-      var ok = (!t || tags.indexOf(t) >= 0) && (scope !== 'code' || tags.indexOf('Code') >= 0);
+      var ok = (!t || tags.indexOf(t) >= 0) && (scope !== 'code' ? !s.classList.contains('xcode') : tags.indexOf('Code') >= 0);
       s.hidden = !ok;
       n += ok ? 1 : 0;
     });

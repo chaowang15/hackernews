@@ -52,6 +52,8 @@ to `logs/openai_token_usage_log.md`.
   derived `Code` tag (URL rule, no LLM). The home page has an "Open source this week" section (top 12 of the
   past 7 days). Every reader page (daily / weekly / monthly / past 7 or 30 days) has an All / Code switch
   (`?only=code`, remembered for the browser session); `code/` redirects to `top/30d?only=code`.
+  Weekly, monthly and past-7/30-day pages also embed the code stories ranked below the page cut-off
+  (hidden in the All scope), so the Code scope lists every code story of that period.
 - The "Today" nav item opens the latest day page (the logo opens the home page); reader pages
   default to the titles-only view and English (the English view contains no Chinese text); weekly / monthly index cards list each digest's top five titles.
 - Card and full views have a share button next to the favorite star: native share sheet on touch devices,

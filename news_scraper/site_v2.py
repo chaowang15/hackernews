@@ -245,7 +245,8 @@ def load():
     weeks, months = {}, {}
     for f in glob.glob(os.path.join(SITE, "weekly/*.json")):
         w = json.load(open(f, encoding="utf-8"))
-        w["items"] = sorted(w["items"], key=lambda i: -(i.get("hn", {}).get("score") or 0))[:100]
+        w["pool"] = sorted(w["items"], key=lambda i: -(i.get("hn", {}).get("score") or 0))
+        w["items"] = w["pool"][:100]
         weeks[w["meta"]["iso_week"]] = w
     for f in glob.glob(os.path.join(SITE, "monthly/*.json")):
         m = json.load(open(f, encoding="utf-8"))
@@ -298,6 +299,18 @@ def recent(days, first_seen, n, k=100):  # k=None: no limit
     return ranked if k is None else ranked[:k]
 
 
+def pooled(days, first_seen, start, end):
+    """All stories on day pages between start and end (inclusive), each once at its highest score."""
+    best = {}
+    for d in days:
+        if start <= d <= end:
+            for x in days[d]["items"]:
+                i = x["hn"]["id"]
+                if i not in best or x["hn"].get("score", 0) > best[i][1]["hn"].get("score", 0):
+                    best[i] = (first_seen[i], x)
+    return sorted(best.values(), key=lambda v: -v[1]["hn"].get("score", 0))
+
+
 def window_range(days, n):
     last = max(days)
     lo, hi = WINDOWS[n]
@@ -346,12 +359,12 @@ def write(p, title, body, nav_on, extra_js="", bare=False):
 
 
 # ------------------------------------------------------------------ reader pages
-def story(it, i, top, day=None):
+def story(it, i, top, day=None, extra=False):
     hn = it.get("hn", {})
     url = it.get("url") or hn.get("comments_url")
     tags = "".join(tag(t) for t in it.get("tags", []))
     sday = f"<a class='sday' href='{O.url(day_path(day))}'>{d_short(day)}</a>" if day else ""
-    return f"""<article class="story{' top' if i < top else ''}" id="story-{hn.get('id')}" data-id="{hn.get('id')}" data-tags="{e('|'.join(it.get('tags', [])))}" data-score="{hn.get('score', 0)}" data-comments="{hn.get('descendants', 0)}" data-hn="{e(hn.get('comments_url'))}" data-time="{hn.get('time', 0)}">
+    return f"""<article class="story{' top' if i < top else ''}{' xcode' if extra else ''}"{' hidden' if extra else ''} id="story-{hn.get('id')}" data-id="{hn.get('id')}" data-tags="{e('|'.join(it.get('tags', [])))}" data-score="{hn.get('score', 0)}" data-comments="{hn.get('descendants', 0)}" data-hn="{e(hn.get('comments_url'))}" data-time="{hn.get('time', 0)}">
 <a class="thumb" href="{e(url)}" target="_blank" rel="noopener">{picture(it, 'th')}</a><button class="fav" aria-label="favorite">☆</button><button class="shr" aria-label="share" title="Share">{I['share']}</button>
 <div class="sbody"><div class="rk">{i + 1:02d}</div>
 <h3 class="st"><a href="{e(url)}" target="_blank" rel="noopener">{bil(it.get('title_en'), it.get('title_zh'))}</a><span class="dom">{e(domain(url))}</span></h3>
@@ -373,7 +386,13 @@ def toolbar(chips, scope=True):
 <span class="fhint">{B('Click a tag to filter', '点标签筛选')}</span><div class="filters">{chips}</div></div></div>"""
 
 
-def reader(p, title_txt, kind, title_html, sub_html, items, prev_, next_, nav_on, extra="", dates=None):
+def extra_code(items, pool):
+    """Code stories ranked below the page cut-off, as (rank, item); shown only in the Code scope."""
+    shown = {x["hn"]["id"] for x in items}
+    return [(i + 1, x) for i, x in enumerate(pool) if is_code(x) and x["hn"]["id"] not in shown]
+
+
+def reader(p, title_txt, kind, title_html, sub_html, items, prev_, next_, nav_on, extra="", dates=None, more=None, more_dates=None):
     tc = Counter(t for it in items for t in it.get("tags", []))
     chips = "".join(tag(t, n, "#") for t, n in tc.most_common())
     pn = (f"<a class='pn' href='{prev_}' title='Previous'>{I['left']}</a>" if prev_ else f"<span class='pn off'>{I['left']}</span>")
@@ -382,7 +401,7 @@ def reader(p, title_txt, kind, title_html, sub_html, items, prev_, next_, nav_on
 <div class="crumb"><span class="kind">{kind}</span>{pn}</div>
 <h1 class="rtitle">{title_html}</h1><div class="rsub">{sub_html} · <b id="count">{len(items)}</b> {B('stories', '条')}</div>{extra}
 </div></div>{toolbar(chips)}
-<main class="wrap stories">{''.join(story(it, i, 10, dates[i] if dates else None) for i, it in enumerate(items))}</main>"""
+<main class="wrap stories">{''.join(story(it, i, 10, dates[i] if dates else None) for i, it in enumerate(items))}{''.join(story(it, rk - 1, 0, (more_dates or {}).get(it["hn"]["id"]), extra=True) for rk, it in (more or []))}</main>"""
     write(p, title_txt, body, nav_on)
 
 
@@ -683,7 +702,8 @@ def build(preview_dir=None):
         title = B(f"Week {int(k[-2:])} · {a:%b} {a.day} – {b:%b} {b.day}, {b.year}", f"第 {int(k[-2:])} 周 · {a.month}月{a.day}日 – {b.month}月{b.day}日")
         sub = B(f"Top {len(weeks[k]['items'])} of {m['total_pool']} stories", f"{m['total_pool']} 条中的 Top {len(weeks[k]['items'])}")
         reader("weekly/" + k, f"Weekly Digest {k} — Hacker News Daily", B("Weekly", "周榜"), title, sub, weeks[k]["items"],
-               O.url("weekly/" + wl[i - 1]) if i else None, O.url("weekly/" + wl[i + 1]) if i + 1 < len(wl) else None, "week")
+               O.url("weekly/" + wl[i - 1]) if i else None, O.url("weekly/" + wl[i + 1]) if i + 1 < len(wl) else None, "week",
+               more=extra_code(weeks[k]["items"], weeks[k]["pool"]))
     rows = "".join(f"<a class='panel drow' href='{O.url('weekly/' + k)}'><b>{B(f'Week {int(k[-2:])}', f'第 {int(k[-2:])} 周')}</b>"
                    f"<span>{B(weeks[k]['meta']['date_start'] + ' – ' + weeks[k]['meta']['date_end'], weeks[k]['meta']['date_start'] + ' – ' + weeks[k]['meta']['date_end'])}</span>"
                    f"{top5(weeks[k]['items'])}</a>" for k in reversed(wl) if weeks[k]["items"])
@@ -694,8 +714,10 @@ def build(preview_dir=None):
         m = months[k]["meta"]
         f0 = date.fromisoformat(k + "-01")
         sub = B(f"Top {len(months[k]['items'])} of {m['total_pool']} stories", f"{m['total_pool']} 条中的 Top {len(months[k]['items'])}")
+        pool = pooled(days, first_seen, f0, (f0 + timedelta(days=32)).replace(day=1) - timedelta(days=1))
         reader("monthly/" + k, f"Monthly Digest {k} — Hacker News Daily", B("Monthly", "月榜"), B(f"{f0:%B %Y}", f"{f0.year}年{f0.month}月"), sub,
-               months[k]["items"], O.url("monthly/" + ml[i - 1]) if i else None, O.url("monthly/" + ml[i + 1]) if i + 1 < len(ml) else None, "month")
+               months[k]["items"], O.url("monthly/" + ml[i - 1]) if i else None, O.url("monthly/" + ml[i + 1]) if i + 1 < len(ml) else None, "month",
+               more=extra_code(months[k]["items"], [x for _, x in pool]), more_dates={x["hn"]["id"]: d for d, x in pool})
     def month_row(k):
         f0, mi = date.fromisoformat(k + "-01"), months[k]["items"]
         return (f"<a class='panel drow' href='{O.url('monthly/' + k)}'><b>{B(f'{f0:%B %Y}', f'{f0.year}年{f0.month}月')}</b>"
@@ -707,12 +729,14 @@ def build(preview_dir=None):
     write("code/", "Open source — Hacker News Daily",
           f"<p class='wrap'><a href='{target}'>Past 30 days · Code →</a></p><script>location.replace('{target}')</script>", "code", bare=True)
     for n, en, zh in ((7, "Past 7 days", "过去 7 天"), (30, "Past 30 days", "过去 30 天")):
-        pairs = recent(days, first_seen, n)
+        allp = recent(days, first_seen, n, k=None)
+        pairs = allp[:100]
         a, b = window_range(days, n)
         sub = B(f"{a:%b} {a.day} – {b:%b} {b.day} · excluding today · ranked by highest HN score, each story once",
                 f"{a.month}月{a.day}日 – {b.month}月{b.day}日 · 不含今天 · 按最高 HN 分数排序，同一新闻只出现一次")
         reader(f"top/{n}d", f"{en} — Hacker News Daily", B("Trending", "热门"), B(en, zh), sub,
-               [x for _, x in pairs], None, None, "today", dates=[d for d, _ in pairs])
+               [x for _, x in pairs], None, None, "today", dates=[d for d, _ in pairs],
+               more=extra_code([x for _, x in pairs], [x for _, x in allp]), more_dates={x["hn"]["id"]: d for d, x in allp})
 
 
 if __name__ == "__main__":
