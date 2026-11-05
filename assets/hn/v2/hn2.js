@@ -289,9 +289,8 @@
     var s = b.closest('.story'), zh = R.dataset.lang === 'zh';
     var title = txt(s, zh ? '.st .zh' : '.st .en') || txt(s, '.st .en');
     var line = txt(s, zh ? '.sum.one .zh' : '.sum.one .en');
-    var link = /^\d+$/.test(s.dataset.id) && Number(s.dataset.id) > 1e7
-      ? location.origin + CFG.base + 'share/' + s.dataset.id + '.html'
-      : location.origin + location.pathname + '#story-' + s.dataset.id;
+    var a = s.querySelector('.st a');
+    var link = a ? a.href : location.origin + location.pathname + '#story-' + s.dataset.id;
     var text = title + (line ? '\n' + line : '');
     if (navigator.share && matchMedia('(pointer: coarse)').matches) {
       navigator.share({ title: title, text: text, url: link }).catch(function () {});
@@ -303,6 +302,27 @@
     }, function () { window.prompt(zh ? '复制下面的内容' : 'Copy this', all); });
     if (window.gtag) gtag('event', 'share_story', { story_id: s.dataset.id });
   });
+
+  /* ---- links to #story-<id> (older share links): show, scroll to and highlight that story ---- */
+  function focusHash() {
+    var m = location.hash.match(/^#story-(\d+)$/);
+    var s = m && document.getElementById('story-' + m[1]);
+    if (!s) return;
+    if (s.hidden) {
+      scope = 'all';
+      $$('.filters .tag').forEach(function (x) { x.classList.remove('sel'); });
+      applyFilters();
+    }
+    if (s.hidden) s.hidden = false;
+    setTimeout(function () {
+      var y = s.getBoundingClientRect().top + window.scrollY - (window.innerHeight / 3);
+      window.scrollTo({ top: Math.max(0, y) });
+      s.classList.add('flash');
+      setTimeout(function () { s.classList.remove('flash'); }, 2600);
+    }, 50);
+  }
+  window.addEventListener('hashchange', focusHash);
+  if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', focusHash); else focusHash();
 
   /* ---- client-rendered stories (favorites, search) mirror the static markup ---- */
   function first(s, zh) {

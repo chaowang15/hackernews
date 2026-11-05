@@ -340,3 +340,7 @@ button.readall{border:0;cursor:pointer;width:100%;font:inherit;font-weight:700;m
 .syncstat{color:var(--mut);font-size:13px}
 .drow.rolling{border-color:color-mix(in srgb,var(--acc) 45%,var(--line))}
 .drow.rolling b{color:var(--acc)}
+
+/* story opened from a #story-<id> link */
+@keyframes flash{0%,100%{box-shadow:0 0 0 0 transparent}20%,60%{box-shadow:0 0 0 3px var(--acc)}}
+.story.flash{animation:flash 2.4s ease;border-radius:12px;background:color-mix(in srgb,var(--acc) 8%,transparent)}

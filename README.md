@@ -58,8 +58,8 @@ to `logs/openai_token_usage_log.md`.
 - The "Today" nav item opens the latest day page (the logo opens the home page); reader pages
   default to the titles-only view and English (the English view contains no Chinese text); weekly / monthly index cards list each digest's top five titles.
 - Card and full views have a share button next to the favorite star: native share sheet on touch devices,
-  clipboard (title + one-line summary + link) elsewhere. Links use the existing `share/<id>.html` pages
-  (Open Graph preview, redirect to the day page anchor).
+  clipboard (title + one-line summary + link) elsewhere. The link is the story's original URL. Opening a
+  page at `#story-<id>` (older `share/<id>.html` links) scrolls to and highlights that story.
 - Owner-only favorites sync (silent; the settings panel appears only at `favorites/?sync`): open it once per device and paste a GitHub token with only the
   `gist` scope (kept in that browser's localStorage). Favorites merge with a private gist
   (`hn-favorites.json`, created on first sync) on page load and after each change; deletions are kept as
