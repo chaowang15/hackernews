@@ -83,3 +83,6 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
+        with:
+          # ~20k share pages make Pages processing occasionally exceed the default 10 minutes.
+          timeout: 1800000
