@@ -5,7 +5,7 @@
     <link>https://chaowang15.github.io/hackernews/</link>
     <description>Curated daily digest of top Hacker News stories with AI-generated summaries, tags, and bilingual translations.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 05 Nov 2026 19:10:47 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 07:53:30 +0000</lastBuildDate>
     <generator>Hacker News Daily RSS Builder</generator>
     <atom:link href="https://chaowang15.github.io/hackernews/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
@@ -43,6 +43,18 @@
 &lt;p&gt;&lt;em&gt;HackerTube 提供了一个 YouTube 风格的界面，收录了自 2007 年以来从 39,834 条 Hacker News 评论中提取的 6,454 个视频。该视频集合可通过 hackertube.org 浏览。它将多年社区推荐整理成了一个可探索的视频档案。&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;▲ 2881 · 💬 637 · Web&lt;/small&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50319510&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/04/top_stories_11042026#story-50319510&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>sshole</title>
+      <link>https://sshhole.com</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50378228</guid>
+      <dc:creator>josemrb</dc:creator>
+      <pubDate>Thu, 05 Nov 2026 12:19:02 +0000</pubDate>
+      <category>Security</category>
+      <description>&lt;p&gt;OpenSSH on musl Linux has reportedly allowed access to passwordless accounts since 2016. The issue relates to how Unix historically represented accounts that should never permit login, including accounts marked with an asterisk in the password file. The behavior can therefore expose accounts that were intended to be inaccessible.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;据报道，musl Linux 上的 OpenSSH 自 2016 年起可能允许进入无密码账户。问题与 Unix 处理本应禁止登录的账户的历史方式有关，包括在密码文件中用星号标记的账户。因此，原本应不可访问的账户可能被暴露。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 2602 · 💬 630 · Security&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50378228&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/05/top_stories_11052026#story-50378228&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Show HN: HackerBooks – HackerTube, but for books mentioned on HN</title>
@@ -84,18 +96,6 @@
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50289418&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/02/top_stories_11022026#story-50289418&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>sshole</title>
-      <link>https://sshhole.com</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50378228</guid>
-      <dc:creator>josemrb</dc:creator>
-      <pubDate>Thu, 05 Nov 2026 12:19:02 +0000</pubDate>
-      <category>Security</category>
-      <description>&lt;p&gt;OpenSSH on musl Linux has reportedly allowed access to passwordless accounts since 2016. The issue relates to how Unix historically represented accounts that should never permit login, including accounts marked with an asterisk in the password file. The behavior can therefore expose accounts that were intended to be inaccessible.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;据报道，musl Linux 上的 OpenSSH 自 2016 年起可能允许进入无密码账户。问题与 Unix 处理本应禁止登录的账户的历史方式有关，包括在密码文件中用星号标记的账户。因此，原本应不可访问的账户可能被暴露。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 1677 · 💬 452 · Security&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50378228&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/05/top_stories_11052026#story-50378228&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>WTF Ubuntu?</title>
       <link>https://chalmovsky.com/posts/wtf-ubuntu</link>
       <guid isPermaLink="true">https://news.ycombinator.com/item?id=50337608</guid>
@@ -132,8 +132,22 @@
       <category>Security</category>
       <description>&lt;p&gt;AI is accelerating both attacks and defenses in cybersecurity. That acceleration is exposing painful technical debt in fragile legacy systems built up over roughly four decades. The pressure from AI is therefore forcing organizations to address weaknesses that older systems had left unresolved.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;AI 正在同时加速网络攻击和防御。这样的加速暴露了脆弱遗留系统中积累约 40 年的严重技术债。AI 带来的压力因此迫使组织处理旧系统长期遗留下来的弱点。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 1243 · 💬 725 · AI · Security&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 1271 · 💬 743 · AI · Security&lt;/small&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50364336&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/05/top_stories_11052026#story-50364336&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Residential proxies detected on White House network</title>
+      <link>https://layer3intel.com/blog/residential-proxies-white-house-network</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50371246</guid>
+      <dc:creator>Rasbora</dc:creator>
+      <pubDate>Wed, 04 Nov 2026 20:45:18 +0000</pubDate>
+      <category>Security</category>
+      <category>Privacy</category>
+      <category>Politics</category>
+      <description>&lt;p&gt;Residential proxy traffic exited the White House network 236 times over 30 days, passing through 28 public proxy services. The network, AS2650, is registered to the Executive Office of the President, which hosts the White House network. Residential proxies route customers’ traffic through everyday devices so it appears to originate from those devices’ networks.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;过去 30 天内，有住宅代理流量 236 次从白宫网络流出，并经过 28 个公共代理服务。该网络的 AS2650 注册于负责托管白宫网络的美国总统行政办公室。住宅代理会让客户的流量经由普通设备转发，使其看起来来自这些设备所在的网络。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 1249 · 💬 431 · Security · Privacy · Politics&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50371246&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/05/top_stories_11052026#story-50371246&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>The 'Astra can read and write weights to improve Qwen' post is misleading</title>
@@ -161,18 +175,18 @@
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50300683&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/03/top_stories_11032026#story-50300683&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Residential proxies detected on White House network</title>
-      <link>https://layer3intel.com/blog/residential-proxies-white-house-network</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50371246</guid>
-      <dc:creator>Rasbora</dc:creator>
-      <pubDate>Wed, 04 Nov 2026 20:45:18 +0000</pubDate>
-      <category>Security</category>
+      <title>Claude Code sends your email address to websites</title>
+      <link>https://github.com/anthropics/claude-code/issues/107757</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50385272</guid>
+      <dc:creator>motoroco</dc:creator>
+      <pubDate>Thu, 05 Nov 2026 22:17:15 +0000</pubDate>
+      <category>AI</category>
       <category>Privacy</category>
-      <category>Politics</category>
-      <description>&lt;p&gt;Residential proxy traffic exited the White House network 236 times over 30 days, passing through 28 public proxy services. The network, AS2650, is registered to the Executive Office of the President, which hosts the White House network. Residential proxies route customers’ traffic through everyday devices so it appears to originate from those devices’ networks.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;过去 30 天内，有住宅代理流量 236 次从白宫网络流出，并经过 28 个公共代理服务。该网络的 AS2650 注册于负责托管白宫网络的美国总统行政办公室。住宅代理会让客户的流量经由普通设备转发，使其看起来来自这些设备所在的网络。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 951 · 💬 284 · Security · Privacy · Politics&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50371246&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/04/top_stories_11042026#story-50371246&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+      <category>Security</category>
+      <description>&lt;p&gt;A reported Claude Code bug exposed a user's email address to arbitrary third parties in the User-Agent header during web searches. The user says this happened without permission and was followed by a large increase in scam emails. They argue that the behavior should be removed rather than controlled by an opt-in or opt-out setting.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;有用户报告称，Claude Code 在进行网页搜索时，会通过 User-Agent 请求头将其邮箱地址暴露给任意第三方。该用户表示，未经允许发生这一行为后，自己收到的诈骗邮件大幅增加。用户认为，这种行为不应通过加入或退出选项控制，而应从系统中彻底移除。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 965 · 💬 315 · AI · Privacy · Security&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50385272&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/05/top_stories_11052026#story-50385272&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Jailbreaking my car's navigation system just so I can change the time</title>
@@ -286,6 +300,19 @@
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50355251&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/04/top_stories_11042026#story-50355251&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Tell HN: Gemini trains on chat history, even for subscribers (personal accounts)</title>
+      <link>https://news.ycombinator.com/item?id=50363461</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50363461</guid>
+      <dc:creator>jameslk</dc:creator>
+      <pubDate>Wed, 04 Nov 2026 10:10:27 +0000</pubDate>
+      <category>Privacy</category>
+      <category>AI</category>
+      <description>&lt;p&gt;For personal Google AI subscriptions, saved Gemini chats can be used to improve Google services and train generative AI models when Keep Activity is enabled. A subset of chats may be reviewed by human reviewers and can be retained for up to three years after review, even if the user deletes activity. Users are warned not to enter confidential information, and opting out requires disabling chat history or using temporary chats.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;对于个人 Google AI 订阅账户，在启用“保留活动记录”时，保存的 Gemini 聊天记录可用于改进 Google 服务和训练生成式 AI 模型。部分聊天可能由人工审核，审核过的内容即使用户删除活动记录，也可能保留最长三年。用户被提醒不要输入机密信息；若要退出，需要关闭聊天记录或使用临时聊天。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 715 · 💬 189 · Privacy · AI&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50363461&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/05/top_stories_11052026#story-50363461&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Restrooms along the Norwegian Scenic Routes</title>
       <link>https://www.visitnorway.com/plan-your-trip/travel-tips-a-z/norwegian-scenic-routes/worlds-best-toilets/</link>
       <guid isPermaLink="true">https://news.ycombinator.com/item?id=50324388</guid>
@@ -311,19 +338,6 @@
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50305693&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/01/top_stories_11012026#story-50305693&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Tell HN: Gemini trains on chat history, even for subscribers (personal accounts)</title>
-      <link>https://news.ycombinator.com/item?id=50363461</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50363461</guid>
-      <dc:creator>jameslk</dc:creator>
-      <pubDate>Wed, 04 Nov 2026 10:10:27 +0000</pubDate>
-      <category>Privacy</category>
-      <category>AI</category>
-      <description>&lt;p&gt;For personal Google AI subscriptions, saved Gemini chats can be used to improve Google services and train generative AI models when Keep Activity is enabled. A subset of chats may be reviewed by human reviewers and can be retained for up to three years after review, even if the user deletes activity. Users are warned not to enter confidential information, and opting out requires disabling chat history or using temporary chats.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;对于个人 Google AI 订阅账户，在启用“保留活动记录”时，保存的 Gemini 聊天记录可用于改进 Google 服务和训练生成式 AI 模型。部分聊天可能由人工审核，审核过的内容即使用户删除活动记录，也可能保留最长三年。用户被提醒不要输入机密信息；若要退出，需要关闭聊天记录或使用临时聊天。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 661 · 💬 170 · Privacy · AI&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50363461&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/04/top_stories_11042026#story-50363461&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>If you love a website, back it up</title>
       <link>https://blog.mistys-internet.website/post/2026/10/29/if-you-love-a-website-back-it-up/</link>
       <guid isPermaLink="true">https://news.ycombinator.com/item?id=50336518</guid>
@@ -334,6 +348,55 @@
 &lt;p&gt;&lt;em&gt;作者发现，一个长期存在的 Teapuppies 粉丝网站已经消失，原域名如今被用于投放在线赌博广告。该网站自 2004 年上线、2005 年后基本未变，这次消失体现了旧网页保存状况的脆弱性。&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;▲ 654 · 💬 152 · Web&lt;/small&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50336518&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/03/top_stories_11032026#story-50336518&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Search for everyone</title>
+      <link>https://kagi.com/changelog#11820</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50383740</guid>
+      <dc:creator>elashri</dc:creator>
+      <pubDate>Thu, 05 Nov 2026 20:03:34 +0000</pubDate>
+      <category>Web</category>
+      <description>&lt;p&gt;Kagi has opened web search to anyone without requiring an account for the first 50 searches. Registering adds another 100 searches. The paid search engine says it does not run ads and is relying on community recommendations and word of mouth.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Kagi 现在允许任何人使用网页搜索，前 50 次搜索无需创建账户。注册后还可额外获得 100 次搜索。这个付费搜索引擎表示自己不投放广告，而是依靠社区推荐和口碑传播。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 651 · 💬 331 · Web&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50383740&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/05/top_stories_11052026#story-50383740&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Kimi K3.1 Pro model weights are out</title>
+      <link>https://huggingface.co/moonshotai/Kimi-K3.1-Pro</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50366999</guid>
+      <dc:creator>abrarthought</dc:creator>
+      <pubDate>Wed, 04 Nov 2026 15:30:30 +0000</pubDate>
+      <category>AI</category>
+      <category>Open Source</category>
+      <description>&lt;p&gt;Moonshot AI has released the weights for Kimi K3.1 Pro, an open-weight, natively multimodal agentic model with 2.8 trillion parameters and a one-million-token context window. It was post-trained from Kimi K3 using large-scale joint reinforcement learning across hundreds of domains. The model replaces Gated MLA with Gated DeepSeek Sparse Attention for more efficient long-context modeling.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;月之暗面发布了 Kimi K3.1 Pro 的模型权重。这是一款开放权重、原生多模态的智能体模型，拥有 2.8 万亿参数和 100 万 token 的上下文窗口。该模型基于 Kimi K3，并通过覆盖数百个领域的大规模联合强化学习进行后训练；同时以 Gated DeepSeek Sparse Attention 替代 Gated MLA，以提高长上下文建模效率。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 627 · 💬 186 · AI · Open Source&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50366999&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/05/top_stories_11052026#story-50366999&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Alpine Linux Security Advisory: OpenSSH-server password authentication bypass</title>
+      <link>https://alpinelinux.org/posts/2026-11-05-openssh-password-authentication-bypass/</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50379704</guid>
+      <dc:creator>pantalaimon</dc:creator>
+      <pubDate>Thu, 05 Nov 2026 14:44:20 +0000</pubDate>
+      <category>Security</category>
+      <description>&lt;p&gt;Alpine Linux advises users running sshd to update openssh immediately and restart the daemon. Updating the package alone does not replace an already running sshd process. Until updating is possible, disabling password logins with PasswordAuthentication no and restarting sshd closes the hole.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Alpine Linux 建议运行 sshd 的用户立即更新 openssh 并重启守护进程。仅更新软件包并不会替换已经运行的 sshd 进程。在完成更新前，可将配置设为 PasswordAuthentication no 并重启 sshd，以关闭该漏洞。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 621 · 💬 2 · Security&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50379704&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/05/top_stories_11052026#story-50379704&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Nvidia RTX Spark encrypted firmware slows inference speed to 35% on Linux</title>
+      <link>https://www.mindstudio.ai/blog/linux-nvidia-rtx-spark-laptop</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50362905</guid>
+      <dc:creator>novaRom</dc:creator>
+      <pubDate>Wed, 04 Nov 2026 08:46:29 +0000</pubDate>
+      <category>Hardware</category>
+      <description>&lt;p&gt;RTX Spark laptops run Linux with GPU acceleration through Nvidia’s open kernel driver, but their GPU clocks drop to roughly 780 MHz when plugged in, instead of exceeding 2 GHz on Windows. On a 120-billion-parameter model, performance falls from about 65 tokens per second to fewer than 14. The problem is tied to power-management firmware that Linux currently cannot read.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;RTX Spark 笔记本可以在 Linux 上运行，并通过英伟达开源内核驱动实现 GPU 加速，但接通电源后 GPU 频率会被限制在约 780MHz，而 Windows 上可超过 2GHz。在一个 1200 亿参数模型上，速度因此从约每秒 65 个 token 降至不足 14 个。问题与 Linux 目前无法读取的电源管理固件有关。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 612 · 💬 287 · Hardware&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50362905&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/05/top_stories_11052026#story-50362905&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Ubuntu still has not released patch for Linux 0day RCE in almost 3 weeks</title>
@@ -362,18 +425,6 @@
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50365755&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/04/top_stories_11042026#story-50365755&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Nvidia RTX Spark encrypted firmware slows inference speed to 35% on Linux</title>
-      <link>https://www.mindstudio.ai/blog/linux-nvidia-rtx-spark-laptop</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50362905</guid>
-      <dc:creator>novaRom</dc:creator>
-      <pubDate>Wed, 04 Nov 2026 08:46:29 +0000</pubDate>
-      <category>Hardware</category>
-      <description>&lt;p&gt;RTX Spark laptops run Linux with GPU acceleration through Nvidia’s open kernel driver, but their GPU clocks drop to roughly 780 MHz when plugged in, instead of exceeding 2 GHz on Windows. On a 120-billion-parameter model, performance falls from about 65 tokens per second to fewer than 14. The problem is tied to power-management firmware that Linux currently cannot read.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;RTX Spark 笔记本可以在 Linux 上运行，并通过英伟达开源内核驱动实现 GPU 加速，但接通电源后 GPU 频率会被限制在约 780MHz，而 Windows 上可超过 2GHz。在一个 1200 亿参数模型上，速度因此从约每秒 65 个 token 降至不足 14 个。问题与 Linux 目前无法读取的电源管理固件有关。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 599 · 💬 277 · Hardware&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50362905&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/04/top_stories_11042026#story-50362905&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>The $6.3B Binance hack was pulled off in just 20 minutes</title>
       <link>https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/</link>
       <guid isPermaLink="true">https://news.ycombinator.com/item?id=50303172</guid>
@@ -385,6 +436,21 @@
 &lt;p&gt;&lt;em&gt;黑客在约 20 分钟内从币安所属的钱包中跨多个区块链转走了约 63 亿美元的加密货币。币安暂停了存款和提现并展开调查；该交易所及其他加密行业公司称，已冻结约一半被盗资金。剩余的大部分加密货币可能无法通过冻结追回。&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;▲ 594 · 💬 449 · Security · Finance&lt;/small&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50303172&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/02/top_stories_11022026#story-50303172&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>AMD expects to outsell Intel in Q4 for the first time in history</title>
+      <link>https://www.tomshardware.com/pc-components/cpus/amd-expects-to-outsell-intel-in-q4-for-the-first-time-in-history-usd17b-guidance-would-exceed-intels-projections</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50367125</guid>
+      <dc:creator>rbanffy</dc:creator>
+      <pubDate>Wed, 04 Nov 2026 15:38:34 +0000</pubDate>
+      <category>Business</category>
+      <category>Finance</category>
+      <category>AI</category>
+      <category>Gaming</category>
+      <description>&lt;p&gt;AMD expects to outsell Intel in the fourth quarter for the first time in its history. Record quarterly revenue is being driven by the AI boom, while its client and gaming businesses are facing double-digit declines heading into 2027. The forecast indicates a widening contrast between AMD’s AI growth and its weaker traditional segments.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;AMD 预计将在第四季度历史上首次超过英特尔。AI 热潮推动其季度营收创下纪录，但面向客户的业务和游戏业务在进入 2027 年时正面临两位数下滑。这一预测显示，AMD 的 AI 业务增长与传统业务疲软之间的差距正在扩大。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 578 · 💬 221 · Business · Finance · AI · Gaming&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50367125&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/05/top_stories_11052026#story-50367125&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Lenovo's 'encrypted' fingerprint USB is just an unencrypted SD card in a case</title>
@@ -400,6 +466,18 @@
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50326099&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/03/top_stories_11032026#story-50326099&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Goodbye from Salon</title>
+      <link>https://www.salon.com/2026/11/05/goodbye-from-salon/</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50383739</guid>
+      <dc:creator>mkeeter</dc:creator>
+      <pubDate>Thu, 05 Nov 2026 20:03:29 +0000</pubDate>
+      <category>Business</category>
+      <description>&lt;p&gt;Salon has announced that it will cease publication after 31 years. The publication described its history as an attempt to explore what journalism could become while the internet was still new.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Salon 宣布，在出版 31 年后将停止运营。该出版物将自己的历史描述为一次探索新闻业可能形态的尝试，起步于互联网仍处于早期阶段之时。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 557 · 💬 212 · Business&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50383739&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/05/top_stories_11052026#story-50383739&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>OccupySaaS</title>
       <link>https://occupysaas.com/</link>
       <guid isPermaLink="true">https://news.ycombinator.com/item?id=50331402</guid>
@@ -410,21 +488,6 @@
 &lt;p&gt;&lt;em&gt;OccupySaaS 是一个采用 Apache-2.0 许可的开源项目，旨在构建可自托管、无需按席位收费的大型 SaaS 替代品。它的首批项目包括定位为 Auth0 替代品的 ZeroAuthy，以及定位为 Salesforce 替代品的 SalesCompel。&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;▲ 531 · 💬 317 · Open Source&lt;/small&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50331402&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/03/top_stories_11032026#story-50331402&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>AMD expects to outsell Intel in Q4 for the first time in history</title>
-      <link>https://www.tomshardware.com/pc-components/cpus/amd-expects-to-outsell-intel-in-q4-for-the-first-time-in-history-usd17b-guidance-would-exceed-intels-projections</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50367125</guid>
-      <dc:creator>rbanffy</dc:creator>
-      <pubDate>Wed, 04 Nov 2026 15:38:34 +0000</pubDate>
-      <category>Business</category>
-      <category>Finance</category>
-      <category>AI</category>
-      <category>Gaming</category>
-      <description>&lt;p&gt;AMD expects to outsell Intel in the fourth quarter for the first time in its history. Record quarterly revenue is being driven by the AI boom, while its client and gaming businesses are facing double-digit declines heading into 2027. The forecast indicates a widening contrast between AMD’s AI growth and its weaker traditional segments.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;AMD 预计将在第四季度历史上首次超过英特尔。AI 热潮推动其季度营收创下纪录，但面向客户的业务和游戏业务在进入 2027 年时正面临两位数下滑。这一预测显示，AMD 的 AI 业务增长与传统业务疲软之间的差距正在扩大。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 530 · 💬 193 · Business · Finance · AI · Gaming&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50367125&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/04/top_stories_11042026#story-50367125&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Fujifilm to boost tape production 5x as AI fuels archiving demand</title>
@@ -438,6 +501,19 @@
 &lt;p&gt;&lt;em&gt;富士胶片计划投资约 100 亿日元，即约 6300 万美元，将磁带产能提高五倍。公司将归档需求的增长归因于生成式 AI 以及其所称的全球数据指数级增长。五倍增幅将以 2025 财年的产量为基准。&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;▲ 529 · 💬 228 · AI · Hardware&lt;/small&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50336918&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/04/top_stories_11042026#story-50336918&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Ask HN: What's your current AI agentic setup?</title>
+      <link>https://news.ycombinator.com/item?id=50366117</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50366117</guid>
+      <dc:creator>eggbrain</dc:creator>
+      <pubDate>Wed, 04 Nov 2026 14:37:22 +0000</pubDate>
+      <category>AI</category>
+      <category>Programming</category>
+      <description>&lt;p&gt;An Ask HN thread asks how people use AI agents in their daily work. It solicits details about paid subscriptions, external or locally hosted models, coding harnesses, orchestration tools, and broader agent platforms. The discussion aims to gauge how individual workflows have changed over the past year.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;一则 Ask HN 帖子询问人们目前如何在日常工作中使用 AI agent。发帖者希望了解大家购买的订阅、外部或本地部署的模型、编程工具链、编排工具以及更广泛的 agent 平台。讨论旨在了解个人工作流在过去一年中的变化。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 520 · 💬 642 · AI · Programming&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50366117&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/05/top_stories_11052026#story-50366117&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>LLM Voice</title>
@@ -464,19 +540,6 @@
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50358562&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/04/top_stories_11042026#story-50358562&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Kimi K3.1 Pro model weights are out</title>
-      <link>https://huggingface.co/moonshotai/Kimi-K3.1-Pro</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50366999</guid>
-      <dc:creator>abrarthought</dc:creator>
-      <pubDate>Wed, 04 Nov 2026 15:30:30 +0000</pubDate>
-      <category>AI</category>
-      <category>Open Source</category>
-      <description>&lt;p&gt;Moonshot AI has released the weights for Kimi K3.1 Pro, an open-weight, natively multimodal agentic model with 2.8 trillion parameters and a one-million-token context window. It was post-trained from Kimi K3 using large-scale joint reinforcement learning across hundreds of domains. The model replaces Gated MLA with Gated DeepSeek Sparse Attention for more efficient long-context modeling.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;月之暗面发布了 Kimi K3.1 Pro 的模型权重。这是一款开放权重、原生多模态的智能体模型，拥有 2.8 万亿参数和 100 万 token 的上下文窗口。该模型基于 Kimi K3，并通过覆盖数百个领域的大规模联合强化学习进行后训练；同时以 Gated DeepSeek Sparse Attention 替代 Gated MLA，以提高长上下文建模效率。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 495 · 💬 141 · AI · Open Source&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50366999&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/04/top_stories_11042026#story-50366999&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>Anthropic blocks users for anything touching training larger models</title>
       <link>https://twitter.com/jiahaoshao1/status/2116475922190922088</link>
       <guid isPermaLink="true">https://news.ycombinator.com/item?id=50319358</guid>
@@ -491,6 +554,18 @@
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50319358&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/02/top_stories_11022026#story-50319358&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>MS Paint Remote Code Execution Vulnerability</title>
+      <link>https://www.cve.org/CVERecord?id=CVE-2026-83844</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50384233</guid>
+      <dc:creator>kuberwastaken</dc:creator>
+      <pubDate>Thu, 05 Nov 2026 20:43:42 +0000</pubDate>
+      <category>Security</category>
+      <description>&lt;p&gt;A remote code execution vulnerability has been reported in Microsoft Paint. The issue could allow code to run remotely when exploited.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;微软画图工具被报告存在远程代码执行漏洞。攻击者利用该问题后，可能在远程执行代码。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 484 · 💬 177 · Security&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50384233&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/05/top_stories_11052026#story-50384233&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>US boy names that became girl names and vice versa</title>
       <link>https://namedaisy.com/blog/boy-names-that-became-girl-names</link>
       <guid isPermaLink="true">https://news.ycombinator.com/item?id=50339397</guid>
@@ -501,6 +576,19 @@
 &lt;p&gt;&lt;em&gt;文章考察了一些在美国社会中从男孩常用名转为女孩名，或从女孩名转为男孩名的名字。&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;▲ 482 · 💬 462 · Culture&lt;/small&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50339397&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/03/top_stories_11032026#story-50339397&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>A thousand fewer paths to root</title>
+      <link>https://openai.com/index/a-thousand-fewer-paths-to-root/</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50372929</guid>
+      <dc:creator>dangelosaurus</dc:creator>
+      <pubDate>Wed, 04 Nov 2026 23:33:14 +0000</pubDate>
+      <category>AI</category>
+      <category>Security</category>
+      <description>&lt;p&gt;OpenAI built an autonomous pipeline that discovered, validated, and generated patches for 948 local privilege-escalation vulnerabilities in the Linux kernel. In a single run using its cyber model, the system validated the vulnerabilities and produced patches at an API cost of $1.2 million. The work suggests that some security investigations can increasingly be handled as a systematic automated process.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;OpenAI 构建了一个自主流水线，用于发现、验证并为 Linux 内核中的 948 个本地提权漏洞生成补丁。在一次运行中，该系统借助其网络安全模型完成了漏洞验证和补丁生成，API 成本为 120 万美元。这项工作表明，部分安全研究正逐渐可以作为系统化的自动流程来执行。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 478 · 💬 356 · AI · Security&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50372929&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/05/top_stories_11052026#story-50372929&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Northflank Breached</title>
@@ -553,97 +641,6 @@
 &lt;p&gt;&lt;em&gt;Plymouth 市因 Flock 摄像头错误标记一对夫妇、导致警方随后对其采取行动而取消了合同。市政府暂停了用户账户并正式通知 Flock，但一个月后摄像头仍未拆除，公司也没有说明何时移除。警察局长 Eric Fadden 表示，市议会作出决定后，部门已停止使用 Flock 的自动车牌识别系统。&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;▲ 467 · 💬 162 · Privacy · Politics&lt;/small&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50326118&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/02/top_stories_11022026#story-50326118&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Show HN: HackerTV – HN's most-recommended Youtube videos as 24/7 TV channels</title>
-      <link>https://hackertv.org</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50346755</guid>
-      <dc:creator>dsalzman</dc:creator>
-      <pubDate>Tue, 03 Nov 2026 01:18:09 +0000</pubDate>
-      <category>Show HN</category>
-      <category>Entertainment</category>
-      <category>AI</category>
-      <category>Space</category>
-      <description>&lt;p&gt;HackerTV turns YouTube videos frequently recommended in Hacker News comments into 24/7 topic channels. It includes channels such as DEVTV, SOLDER, RETRO, and ORBIT, along with an HN Prime channel containing the top 400 videos. The project was built in a few hours with Claude Code and also includes a music channel and a late-night channel.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;HackerTV 将 Hacker News 评论中经常被推荐的 YouTube 视频整理成全天候主题频道。它包含 DEVTV、SOLDER、RETRO 和 ORBIT 等频道，以及收录前 400 个视频的 HN Prime 频道。项目用 Claude Code 在几小时内完成，还提供音乐频道和深夜频道。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 466 · 💬 80 · Show HN · Entertainment · AI · Space&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50346755&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/04/top_stories_11042026#story-50346755&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Leak Exposes 41,000 Homeland Security Workers–Including Undercover ICE Agents</title>
-      <link>https://www.wired.com/story/massive-leak-exposes-41000-homeland-security-workers-including-undercover-ice-agents/</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50280864</guid>
-      <dc:creator>Aboutplants</dc:creator>
-      <pubDate>Wed, 28 Oct 2026 21:03:24 +0000</pubDate>
-      <category>Privacy</category>
-      <category>Security</category>
-      <description>&lt;p&gt;A leak exposed details of more than 41,000 employees and contractors at the US Department of Homeland Security and seven component agencies. The records include email addresses, phone numbers, office locations, references to internal systems, and sensitive information about undercover and surveillance programs. The data was last updated on August 19, 2026, and was previewed by Distributed Denial of Secrets and researcher-journalist maia arson crimew. The records reportedly came from a group calling itself the Department of Peace.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;一次数据泄露曝光了美国国土安全部及其七个下属机构超过4.1万名员工和承包商的信息。记录包括电子邮件地址、电话号码、办公地点、内部系统信息，以及有关卧底和监控项目的敏感内容。数据最后更新于2026年8月19日，由 Distributed Denial of Secrets 和研究员兼记者 maia arson crimew 预览。两者称数据来自一个自称“和平部”的组织。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 461 · 💬 304 · Privacy · Security&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50280864&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/10/31/top_stories_10312026#story-50280864&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Patrick Stewart taught us what good men do with power</title>
-      <link>https://www.vox.com/politics/508526/patrick-stewart-jean-luc-picard-star-trek-liberalism</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50327650</guid>
-      <dc:creator>rhaynes</dc:creator>
-      <pubDate>Sun, 01 Nov 2026 17:28:16 +0000</pubDate>
-      <category>Politics</category>
-      <category>Culture</category>
-      <description>&lt;p&gt;The piece reflects on Patrick Stewart’s portrayal of Captain Jean-Luc Picard and the leadership ideals associated with the character. It notes that Stewart died on Wednesday and places Picard’s post-Cold War vision in the historical context of the late 1980s and early 1990s.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;文章回顾了帕特里克·斯图尔特饰演让-卢克·皮卡尔舰长时所体现的领导理想。文章提到斯图尔特于周三去世，并将皮卡尔所代表的后冷战世界观置于 20 世纪 80 年代末和 90 年代初的历史背景中。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 458 · 💬 342 · Politics · Culture&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50327650&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/02/top_stories_11022026#story-50327650&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>H.264 Is Magic (2016)</title>
-      <link>https://sidbala.com/h-264-is-magic/</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50291054</guid>
-      <dc:creator>ea016</dc:creator>
-      <pubDate>Thu, 29 Oct 2026 15:53:03 +0000</pubDate>
-      <category>Programming</category>
-      <category>Hardware</category>
-      <description>&lt;p&gt;H.264 Is Magic (2016) analyzes why the H.264 video codec became a de-facto standard, enabling efficient compression, broad hardware support, and widespread adoption. It discusses licensing realities that helped lock in the standard and powered decades of streaming and video apps.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;H.264 的魔力（2016）解析为何 H.264 成为事实标准、实现高效压缩与广泛的硬件支持。文章还讨论了授权环境如何将该标准锁定并推动多年来的流媒体与视频应用发展。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 457 · 💬 152 · Programming · Hardware&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50291054&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/10/30/top_stories_10302026#story-50291054&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Show HN: Hacker Times, a New York Times-inspired version of Hacker News</title>
-      <link>https://hackertimes.ca/</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50346981</guid>
-      <dc:creator>polpenn</dc:creator>
-      <pubDate>Tue, 03 Nov 2026 01:53:34 +0000</pubDate>
-      <category>Show HN</category>
-      <description>&lt;p&gt;Hacker Times presents Hacker News in a newspaper-style interface. The site updates once per hour.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Hacker Times 用报纸式界面呈现 Hacker News。该网站每小时更新一次。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 455 · 💬 146 · Show HN&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50346981&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/03/top_stories_11032026#story-50346981&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Jelly Sheet</title>
-      <link>https://mrdoob.github.io/codevember-2026/01/</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50361268</guid>
-      <dc:creator>memalign</dc:creator>
-      <pubDate>Wed, 04 Nov 2026 03:40:50 +0000</pubDate>
-      <category>Web</category>
-      <description>&lt;p&gt;Jelly Sheet is a project with no further details available here.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Jelly Sheet 是一个项目，现有信息未提供更多细节。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 454 · 💬 116 · Web&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50361268&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/04/top_stories_11042026#story-50361268&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard</title>
-      <link>https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50320995</guid>
-      <dc:creator>guregodevo</dc:creator>
-      <pubDate>Sat, 31 Oct 2026 22:46:12 +0000</pubDate>
-      <category>AI</category>
-      <category>Open Source</category>
-      <description>&lt;p&gt;Memdoor implements a team-solving workflow in which five small models act as a planner, ideators, solver, manager, and repair worker. Each model starts with a fresh context and communicates only through files, while an external script determines whether solutions pass. The authors reproduced the method using Qwen3.8-27B, eight YAML files, their prompts, and a 128K response limit.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Memdoor 实现了一种协作解题流程，由五个小模型分别担任规划者、创意提出者、求解器、管理者和修复者。每个模型都从全新的上下文开始，仅通过磁盘文件通信，并由外部脚本判断解答是否通过。作者使用 Qwen3.8-27B、八个 YAML 文件、自定义提示词和 128K 回复上限复现了这一方法。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 454 · 💬 229 · AI · Open Source&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50320995&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/02/top_stories_11022026#story-50320995&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
