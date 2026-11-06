@@ -5,21 +5,9 @@
     <link>https://chaowang15.github.io/hackernews/</link>
     <description>Curated daily digest of top Hacker News stories with AI-generated summaries, tags, and bilingual translations.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 06 Nov 2026 07:53:30 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 19:47:45 +0000</lastBuildDate>
     <generator>Hacker News Daily RSS Builder</generator>
     <atom:link href="https://chaowang15.github.io/hackernews/feed.xml" rel="self" type="application/rss+xml"/>
-    <item>
-      <title>Patrick Stewart has died</title>
-      <link>https://www.nytimes.com/2026/10/29/arts/television/patrick-stewart-dead.html</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50294702</guid>
-      <dc:creator>j4mie</dc:creator>
-      <pubDate>Thu, 29 Oct 2026 19:41:39 +0000</pubDate>
-      <category>Entertainment</category>
-      <description>&lt;p&gt;Patrick Stewart, beloved for Star Trek's Captain Picard and a long career in theatre and film, has died. His work helped redefine leadership in science fiction and mentored generations of actors. The news prompts reflection on a prolific career that bridged stage, screen, and iconic franchises.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;帕特里克·斯图尔特因病去世，曾因星际迷航中帕克船长等角色而家喻户晓。其横跨舞台、电视和电影的职业生涯对科幻与表演行业产生深远影响。人们由此缅怀这位多产演员及其对文化的贡献。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 3103 · 💬 661 · Entertainment&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50294702&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/10/30/top_stories_10302026#story-50294702&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
     <item>
       <title>Astra can read and write weights to improve Qwen</title>
       <link>https://rikiyat.github.io/blog/weight-space-programming/</link>
@@ -33,6 +21,18 @@
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50341174&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/03/top_stories_11032026#story-50341174&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>sshole</title>
+      <link>https://sshhole.com</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50378228</guid>
+      <dc:creator>josemrb</dc:creator>
+      <pubDate>Thu, 05 Nov 2026 12:19:02 +0000</pubDate>
+      <category>Security</category>
+      <description>&lt;p&gt;OpenSSH on musl Linux has reportedly allowed access to passwordless accounts since 2016. The issue relates to how Unix historically represented accounts that should never permit login, including accounts marked with an asterisk in the password file. The behavior can therefore expose accounts that were intended to be inaccessible.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;据报道，musl Linux 上的 OpenSSH 自 2016 年起可能允许进入无密码账户。问题与 Unix 处理本应禁止登录的账户的历史方式有关，包括在密码文件中用星号标记的账户。因此，原本应不可访问的账户可能被暴露。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 2894 · 💬 709 · Security&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50378228&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/06/top_stories_11062026#story-50378228&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>HackerTube: YouTube built from videos recommended by HN</title>
       <link>https://karpathy.bearblog.dev/hacker-tube/</link>
       <guid isPermaLink="true">https://news.ycombinator.com/item?id=50319510</guid>
@@ -43,18 +43,6 @@
 &lt;p&gt;&lt;em&gt;HackerTube 提供了一个 YouTube 风格的界面，收录了自 2007 年以来从 39,834 条 Hacker News 评论中提取的 6,454 个视频。该视频集合可通过 hackertube.org 浏览。它将多年社区推荐整理成了一个可探索的视频档案。&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;▲ 2881 · 💬 637 · Web&lt;/small&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50319510&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/04/top_stories_11042026#story-50319510&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>sshole</title>
-      <link>https://sshhole.com</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50378228</guid>
-      <dc:creator>josemrb</dc:creator>
-      <pubDate>Thu, 05 Nov 2026 12:19:02 +0000</pubDate>
-      <category>Security</category>
-      <description>&lt;p&gt;OpenSSH on musl Linux has reportedly allowed access to passwordless accounts since 2016. The issue relates to how Unix historically represented accounts that should never permit login, including accounts marked with an asterisk in the password file. The behavior can therefore expose accounts that were intended to be inaccessible.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;据报道，musl Linux 上的 OpenSSH 自 2016 年起可能允许进入无密码账户。问题与 Unix 处理本应禁止登录的账户的历史方式有关，包括在密码文件中用星号标记的账户。因此，原本应不可访问的账户可能被暴露。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 2602 · 💬 630 · Security&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50378228&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/05/top_stories_11052026#story-50378228&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Show HN: HackerBooks – HackerTube, but for books mentioned on HN</title>
@@ -123,6 +111,20 @@
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50276998&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/10/31/top_stories_10312026#story-50276998&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Claude Code sends your email address to websites</title>
+      <link>https://github.com/anthropics/claude-code/issues/107757</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50385272</guid>
+      <dc:creator>motoroco</dc:creator>
+      <pubDate>Thu, 05 Nov 2026 22:17:15 +0000</pubDate>
+      <category>AI</category>
+      <category>Privacy</category>
+      <category>Security</category>
+      <description>&lt;p&gt;A reported Claude Code bug exposed a user's email address to arbitrary third parties in the User-Agent header during web searches. The user says this happened without permission and was followed by a large increase in scam emails. They argue that the behavior should be removed rather than controlled by an opt-in or opt-out setting.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;有用户报告称，Claude Code 在进行网页搜索时，会通过 User-Agent 请求头将其邮箱地址暴露给任意第三方。该用户表示，未经允许发生这一行为后，自己收到的诈骗邮件大幅增加。用户认为，这种行为不应通过加入或退出选项控制，而应从系统中彻底移除。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 1523 · 💬 479 · AI · Privacy · Security&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50385272&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/06/top_stories_11062026#story-50385272&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>AI is forcing us to pay off 40 years of technical debt</title>
       <link>https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability</link>
       <guid isPermaLink="true">https://news.ycombinator.com/item?id=50364336</guid>
@@ -173,20 +175,6 @@
 &lt;p&gt;&lt;em&gt;标题称，Cursor Marketplace 上分发的 Claude Code for VS Code 扩展中存在后门。提供的上下文没有更多可靠细节。&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;▲ 1010 · 💬 553 · Security · AI&lt;/small&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50300683&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/03/top_stories_11032026#story-50300683&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Claude Code sends your email address to websites</title>
-      <link>https://github.com/anthropics/claude-code/issues/107757</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50385272</guid>
-      <dc:creator>motoroco</dc:creator>
-      <pubDate>Thu, 05 Nov 2026 22:17:15 +0000</pubDate>
-      <category>AI</category>
-      <category>Privacy</category>
-      <category>Security</category>
-      <description>&lt;p&gt;A reported Claude Code bug exposed a user's email address to arbitrary third parties in the User-Agent header during web searches. The user says this happened without permission and was followed by a large increase in scam emails. They argue that the behavior should be removed rather than controlled by an opt-in or opt-out setting.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;有用户报告称，Claude Code 在进行网页搜索时，会通过 User-Agent 请求头将其邮箱地址暴露给任意第三方。该用户表示，未经允许发生这一行为后，自己收到的诈骗邮件大幅增加。用户认为，这种行为不应通过加入或退出选项控制，而应从系统中彻底移除。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 965 · 💬 315 · AI · Privacy · Security&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50385272&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/05/top_stories_11052026#story-50385272&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Jailbreaking my car's navigation system just so I can change the time</title>
@@ -425,6 +413,20 @@
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50365755&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/04/top_stories_11042026#story-50365755&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Blender's UI and Runtime: Much Faster Than GPUI</title>
+      <link>https://github.com/ppmpreetham/BUI</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50389333</guid>
+      <dc:creator>ppmpreetham</dc:creator>
+      <pubDate>Fri, 06 Nov 2026 07:40:35 +0000</pubDate>
+      <category>Programming</category>
+      <category>Hardware</category>
+      <category>Web</category>
+      <description>&lt;p&gt;BUI is a GPU-accelerated Blender user interface decoupled from Blender's original codebase. It supports Rust, Python, JavaScript, React, C, and C++. The project describes its performance as twice that of GPUI.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;BUI 是一个与 Blender 原始代码库解耦的 GPU 加速用户界面。它支持 Rust、Python、JavaScript、React、C 和 C++。项目方称其性能是 GPUI 的两倍。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 594 · 💬 242 · Programming · Hardware · Web&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50389333&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/06/top_stories_11062026#story-50389333&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>The $6.3B Binance hack was pulled off in just 20 minutes</title>
       <link>https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/</link>
       <guid isPermaLink="true">https://news.ycombinator.com/item?id=50303172</guid>
@@ -436,6 +438,18 @@
 &lt;p&gt;&lt;em&gt;黑客在约 20 分钟内从币安所属的钱包中跨多个区块链转走了约 63 亿美元的加密货币。币安暂停了存款和提现并展开调查；该交易所及其他加密行业公司称，已冻结约一半被盗资金。剩余的大部分加密货币可能无法通过冻结追回。&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;▲ 594 · 💬 449 · Security · Finance&lt;/small&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50303172&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/02/top_stories_11022026#story-50303172&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Dutch 'idealist' bank ASN blocks non-Google Android, including GrapheneOS</title>
+      <link>https://github.com/PrivSec-dev/banking-apps-compat-report/issues/105</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50390124</guid>
+      <dc:creator>microtonal</dc:creator>
+      <pubDate>Fri, 06 Nov 2026 09:27:12 +0000</pubDate>
+      <category>Privacy</category>
+      <description>&lt;p&gt;A compatibility report examines whether the ASN Bank Android app blocks non-Google Android systems, including GrapheneOS. The report identifies app version 2.40.2 in the Netherlands. One user reported that the app appeared to work on a stock operating system.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;一份兼容性报告调查 ASN Bank 的 Android 应用是否屏蔽包括 GrapheneOS 在内的非 Google Android 系统。报告涉及荷兰地区的 2.40.2 版本。一名用户表示，该应用在原生操作系统上看起来可以正常运行。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 584 · 💬 372 · Privacy&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50390124&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/06/top_stories_11062026#story-50390124&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>AMD expects to outsell Intel in Q4 for the first time in history</title>
@@ -478,6 +492,18 @@
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50383739&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/05/top_stories_11052026#story-50383739&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Tesla to wind down Cybertruck production</title>
+      <link>https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50391456</guid>
+      <dc:creator>PLenz</dc:creator>
+      <pubDate>Fri, 06 Nov 2026 12:13:51 +0000</pubDate>
+      <category>Business</category>
+      <description>&lt;p&gt;Tesla CEO Elon Musk said Cybertruck production at the company's Texas gigafactory will wind down around mid-2027. He said the move will make room for higher production of the newly launched Cybercab, central to Tesla's robotaxi plans. Cybertruck sales have remained weak, and it has sold in only a limited number of markets. It remains unclear whether production will move elsewhere or end entirely.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;特斯拉 CEO 埃隆·马斯克表示，公司位于得州的超级工厂将在 2027 年年中左右逐步停止生产 Cybertruck。他称，此举将为提高新款 Cybercab 的产量腾出空间，而 Cybercab 是特斯拉机器人出租车计划的核心车型。Cybertruck 销量长期疲软，目前仅在少数市场销售。该车型是转移到其他工厂生产还是彻底停产，目前尚不清楚。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 547 · 💬 1241 · Business&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50391456&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/06/top_stories_11062026#story-50391456&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>OccupySaaS</title>
       <link>https://occupysaas.com/</link>
       <guid isPermaLink="true">https://news.ycombinator.com/item?id=50331402</guid>
@@ -514,18 +540,6 @@
 &lt;p&gt;&lt;em&gt;一则 Ask HN 帖子询问人们目前如何在日常工作中使用 AI agent。发帖者希望了解大家购买的订阅、外部或本地部署的模型、编程工具链、编排工具以及更广泛的 agent 平台。讨论旨在了解个人工作流在过去一年中的变化。&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;▲ 520 · 💬 642 · AI · Programming&lt;/small&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50366117&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/05/top_stories_11052026#story-50366117&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>LLM Voice</title>
-      <link>https://martinfowler.com/bliki/LLM-Voice.html</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50290177</guid>
-      <dc:creator>ibobev</dc:creator>
-      <pubDate>Thu, 29 Oct 2026 14:57:55 +0000</pubDate>
-      <category>AI</category>
-      <description>&lt;p&gt;LLM Voice examines how language models function in voice-based interfaces, separate from text prompts, emphasizing the need to address speech recognition, latency, and user expectations. It argues for treating voice as a distinct modality with tailored UX and safety considerations.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;LLM 在语音场景中的交互方式需要和文本输入不同的设计原则。本文强调处理语音识别、延迟和用户预期的重要性，并提出面向语音的 UX 和安全性设计要点。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 506 · 💬 265 · AI&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50290177&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/10/30/top_stories_10302026#story-50290177&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Safari introduces Adaptive Dark Mode in 27.3</title>
@@ -602,19 +616,6 @@
 &lt;p&gt;&lt;em&gt;Northflank 表示，所有客户现在都可以轮换 MySQL 和 Redis 密钥，并建议尚未操作的客户立即轮换。该平台还为包括免费用户在内的所有客户启用了审计日志。&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;▲ 477 · 💬 361 · Security · DevOps&lt;/small&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50305025&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/01/top_stories_11012026#story-50305025&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>DoorDash to acquire Instacart</title>
-      <link>https://about.doordash.com/en-us/news/doordash-to-acquire-instacart</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50287919</guid>
-      <dc:creator>WalterSobchak</dc:creator>
-      <pubDate>Thu, 29 Oct 2026 12:33:05 +0000</pubDate>
-      <category>Business</category>
-      <category>Legal</category>
-      <description>&lt;p&gt;DoorDash announced plans to acquire Instacart, creating a larger player in on-demand grocery delivery. The merger could reshape competition, pricing, and last-mile logistics, while triggering antitrust scrutiny and integration challenges for both platforms.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;DoorDash 宣布收购 Instacart，将打造更强的即时送货生态。合并可能改变市场竞争格局、定价与末端配送效率，同时面临潜在的反垄断审查和整合挑战。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 471 · 💬 632 · Business · Legal&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50287919&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/10/30/top_stories_10302026#story-50287919&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>The AI cost of JavaScript frameworks</title>
