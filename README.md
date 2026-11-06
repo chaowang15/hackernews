@@ -5,7 +5,9 @@ Static Daily, Weekly, and Monthly Hacker News digests published at
 
 ## Workflows
 
-All four run automatically; manual runs are optional.
+All four run automatically; manual runs are optional. Because GitHub's cron is often hours late, a Google Apps
+Script project (`ops/schedule_trigger.gs`) dispatches HN Top Stories at 8:00 and 18:00 America/Los_Angeles; the
+GitHub cron triggers remain as a fallback.
 
 | Workflow | Schedule | What it does |
 |----------|----------|--------------|
