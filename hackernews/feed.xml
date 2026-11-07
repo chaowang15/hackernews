@@ -5,7 +5,7 @@
     <link>https://chaowang15.github.io/hackernews/</link>
     <description>Curated daily digest of top Hacker News stories with AI-generated summaries, tags, and bilingual translations.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 07 Nov 2026 07:01:25 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 19:18:50 +0000</lastBuildDate>
     <generator>Hacker News Daily RSS Builder</generator>
     <atom:link href="https://chaowang15.github.io/hackernews/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
@@ -58,19 +58,6 @@
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50326821&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/03/top_stories_11032026#story-50326821&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Binance-hacker-1029 – $5.6B stolen from Binance</title>
-      <link>https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50296470</guid>
-      <dc:creator>Tiberium</dc:creator>
-      <pubDate>Thu, 29 Oct 2026 21:38:59 +0000</pubDate>
-      <category>Security</category>
-      <category>Finance</category>
-      <description>&lt;p&gt;A $5.6B theft linked to Binance highlights the ongoing scale of crypto-exchange breaches. On-chain tracing attempts to map the stolen funds as they move through wallets and mixers, showing how investigators pursue assets long after a hack. The lesson for builders is to strengthen custody security (multi-sig, cold storage) and incident response readiness.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;涉及币安的巨额盗窃案，金额约56亿美元，凸显集中交易所安全风险。链上追踪尝试绘出赃款去向，显示即便多年后仍有追踪的可能。对系统设计者的启示是加强资产托管安全（多签、冷存储）与快速事件响应能力。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 1750 · 💬 1240 · Security · Finance&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50296470&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/10/31/top_stories_10312026#story-50296470&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>We're releasing the weights of Mistral Large 4</title>
       <link>https://mistral.ai/news/mistral-large-4-oss/</link>
       <guid isPermaLink="true">https://news.ycombinator.com/item?id=50289418</guid>
@@ -95,20 +82,6 @@
 &lt;p&gt;&lt;em&gt;CVE-2026-98432 被描述为 Linux 内核 TCP 代码中的严重漏洞，自 2016 年起便存在且可远程利用。资料称 Anthropic 已开发出可获取服务器 root 权限的漏洞利用程序；Debian 于 10 月 16 日发布了补丁，而受支持的 Ubuntu 版本仍被列为易受攻击。&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;▲ 1609 · 💬 671 · Security · AI&lt;/small&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50337608&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/03/top_stories_11032026#story-50337608&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Why is this fingerprinting script creating bioweapons?</title>
-      <link>https://nullpt.rs/fingerprinting-bioweapons</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50276998</guid>
-      <dc:creator>hazebooth</dc:creator>
-      <pubDate>Wed, 28 Oct 2026 17:13:29 +0000</pubDate>
-      <category>Privacy</category>
-      <category>Security</category>
-      <category>Web</category>
-      <description>&lt;p&gt;The author describes investigating browser fingerprinting scripts, from libraries such as FingerprintJS to anti-bot systems used by Cloudflare Turnstile and Akamai. They then considered crawling the web, intercepting fingerprinting-related browser API calls, and mapping what was found. The title connects this investigation with scripts that appear to be creating bioweapons, though the supplied material does not provide further details.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;作者介绍了对浏览器指纹识别脚本的调查，范围从 FingerprintJS 等常见库到 Cloudflare Turnstile 和 Akamai 使用的反机器人系统。随后，作者考虑抓取网页、拦截与指纹识别相关的浏览器 API 调用，并绘制其分布图。标题将这项调查与似乎正在制造生物武器的脚本联系起来，但现有内容未提供更多细节。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 1581 · 💬 306 · Privacy · Security · Web&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50276998&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/10/31/top_stories_10312026#story-50276998&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Claude Code sends your email address to websites</title>
@@ -152,6 +125,18 @@
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50371246&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/05/top_stories_11052026#story-50371246&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Tesla to wind down Cybertruck production</title>
+      <link>https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50391456</guid>
+      <dc:creator>PLenz</dc:creator>
+      <pubDate>Fri, 06 Nov 2026 12:13:51 +0000</pubDate>
+      <category>Business</category>
+      <description>&lt;p&gt;Tesla CEO Elon Musk said Cybertruck production at the company's Texas gigafactory will wind down around mid-2027. He said the move will make room for higher production of the newly launched Cybercab, central to Tesla's robotaxi plans. Cybertruck sales have remained weak, and it has sold in only a limited number of markets. It remains unclear whether production will move elsewhere or end entirely.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;特斯拉 CEO 埃隆·马斯克表示，公司位于得州的超级工厂将在 2027 年年中左右逐步停止生产 Cybertruck。他称，此举将为提高新款 Cybercab 的产量腾出空间，而 Cybercab 是特斯拉机器人出租车计划的核心车型。Cybertruck 销量长期疲软，目前仅在少数市场销售。该车型是转移到其他工厂生产还是彻底停产，目前尚不清楚。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 1116 · 💬 1989 · Business&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50391456&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/07/top_stories_11072026#story-50391456&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>The 'Astra can read and write weights to improve Qwen' post is misleading</title>
       <link>https://honnibal.dev/blog/astra-read-write-misleading</link>
       <guid isPermaLink="true">https://news.ycombinator.com/item?id=50351111</guid>
@@ -177,16 +162,16 @@
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50300683&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/03/top_stories_11032026#story-50300683&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Tesla to wind down Cybertruck production</title>
-      <link>https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50391456</guid>
-      <dc:creator>PLenz</dc:creator>
-      <pubDate>Fri, 06 Nov 2026 12:13:51 +0000</pubDate>
-      <category>Business</category>
-      <description>&lt;p&gt;Tesla CEO Elon Musk said Cybertruck production at the company's Texas gigafactory will wind down around mid-2027. He said the move will make room for higher production of the newly launched Cybercab, central to Tesla's robotaxi plans. Cybertruck sales have remained weak, and it has sold in only a limited number of markets. It remains unclear whether production will move elsewhere or end entirely.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;特斯拉 CEO 埃隆·马斯克表示，公司位于得州的超级工厂将在 2027 年年中左右逐步停止生产 Cybertruck。他称，此举将为提高新款 Cybercab 的产量腾出空间，而 Cybercab 是特斯拉机器人出租车计划的核心车型。Cybertruck 销量长期疲软，目前仅在少数市场销售。该车型是转移到其他工厂生产还是彻底停产，目前尚不清楚。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 962 · 💬 1816 · Business&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50391456&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/06/top_stories_11062026#story-50391456&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+      <title>Libghostty 1.0</title>
+      <link>https://mitchellh.com/writing/libghostty-1-0</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50399933</guid>
+      <dc:creator>mfiguiere</dc:creator>
+      <pubDate>Fri, 06 Nov 2026 23:30:52 +0000</pubDate>
+      <category>Programming</category>
+      <description>&lt;p&gt;libghostty-vt 1.0 has been released as a portable, high-performance C library for terminal emulation, extracted from Ghostty’s core. Both the library and its C ABI are now stable. The C API has grown from nonexistent to a complete terminal emulator used in production by millions of people across hundreds of free and commercial products.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;libghostty-vt 1.0 已发布，这是一个从 Ghostty 核心提取出的便携、高性能终端模拟 C 库。该库本身及其 C ABI 现已稳定。其 C API 已从无到有发展为完整的终端模拟器，目前已在数百款免费和商业产品中投入生产，服务数百万人。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 952 · 💬 160 · Programming&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50399933&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/07/top_stories_11072026#story-50399933&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Jailbreaking my car's navigation system just so I can change the time</title>
@@ -476,6 +461,19 @@
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50303172&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/02/top_stories_11022026#story-50303172&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Need for Speed Underground 2 online in the browser</title>
+      <link>https://nfsu2.xyz/</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50403052</guid>
+      <dc:creator>fluxusars</dc:creator>
+      <pubDate>Sat, 07 Nov 2026 09:36:36 +0000</pubDate>
+      <category>Gaming</category>
+      <category>Web</category>
+      <description>&lt;p&gt;The project brings Need for Speed Underground 2 online in a web browser. No further implementation details or features are established here.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;该项目让《极品飞车：地下狂飙 2》能够在浏览器中在线运行。现有信息未说明其具体实现方式或功能细节。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 590 · 💬 176 · Gaming · Web&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50403052&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/07/top_stories_11072026#story-50403052&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>AMD expects to outsell Intel in Q4 for the first time in history</title>
       <link>https://www.tomshardware.com/pc-components/cpus/amd-expects-to-outsell-intel-in-q4-for-the-first-time-in-history-usd17b-guidance-would-exceed-intels-projections</link>
       <guid isPermaLink="true">https://news.ycombinator.com/item?id=50367125</guid>
@@ -514,6 +512,19 @@
 &lt;p&gt;&lt;em&gt;标题指称，联想这款受指纹保护的 USB 设备并非加密硬盘，而只是装在外壳中的未加密 SD 卡。这表明产品的安全描述可能与其底层存储设计不一致。&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;▲ 576 · 💬 177 · Security · Hardware&lt;/small&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50326099&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/03/top_stories_11032026#story-50326099&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost</title>
+      <link>https://hightouch.com/blog/llm-judges-identity-resolution</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50397429</guid>
+      <dc:creator>theanomaly</dc:creator>
+      <pubDate>Fri, 06 Nov 2026 19:48:51 +0000</pubDate>
+      <category>AI</category>
+      <category>Data</category>
+      <description>&lt;p&gt;Tests of Jev and GPT-6 Luna as judges for identity resolution found out-of-the-box accuracy ranging from 88.8% to 97.3%. A hybrid that combines Jev with Claude Opus matched frontier-level accuracy at more than four times lower cost. Identity resolution maps data records to unique real-world people.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;对 Jev 和 GPT-6 Luna 作为身份解析评判器的测试显示，它们开箱即用的准确率为 88.8% 至 97.3%。将 Jev 与 Claude Opus 结合的混合方案达到了前沿模型水平的准确率，而成本降低了四倍以上。身份解析的任务是将数据记录映射到现实世界中唯一的个人。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 563 · 💬 137 · AI · Data&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50397429&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/07/top_stories_11072026#story-50397429&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Goodbye from Salon</title>
@@ -604,18 +615,6 @@
 &lt;p&gt;&lt;em&gt;一名用户称，Anthropic 将其涉及强化微调、监督微调或训练更大模型的工作标记为“训练竞争对手”，并屏蔽了其账户。该用户表示，Claude 只帮助提交任务和分析结果，实际生成过程使用的是开源模型。用户还称自己的账户被降级，无法继续使用 Opus 5.5。&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;▲ 488 · 💬 265 · AI · Legal · Open Source&lt;/small&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50319358&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/02/top_stories_11022026#story-50319358&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Libghostty 1.0</title>
-      <link>https://mitchellh.com/writing/libghostty-1-0</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50399933</guid>
-      <dc:creator>mfiguiere</dc:creator>
-      <pubDate>Fri, 06 Nov 2026 23:30:52 +0000</pubDate>
-      <category>Programming</category>
-      <description>&lt;p&gt;libghostty-vt 1.0 has been released as a portable, high-performance C library for terminal emulation, extracted from Ghostty’s core. Both the library and its C ABI are now stable. The C API has grown from nonexistent to a complete terminal emulator used in production by millions of people across hundreds of free and commercial products.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;libghostty-vt 1.0 已发布，这是一个从 Ghostty 核心提取出的便携、高性能终端模拟 C 库。该库本身及其 C ABI 现已稳定。其 C API 已从无到有发展为完整的终端模拟器，目前已在数百款免费和商业产品中投入生产，服务数百万人。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 484 · 💬 78 · Programming&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50399933&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/06/top_stories_11062026#story-50399933&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>US boy names that became girl names and vice versa</title>

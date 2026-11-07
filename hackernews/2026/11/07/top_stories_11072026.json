@@ -1,0 +1,1199 @@
+{
+  "meta": {
+    "mode": "top",
+    "source": "https://news.ycombinator.com/",
+    "api": "https://github.com/HackerNews/API",
+    "count_requested": 50,
+    "count_written": 50,
+    "reused_same_day": 0,
+    "reused_cross_day": 13,
+    "reused_history": 0,
+    "new_llm_enriched": 37,
+    "scrape_time_display": "11:17, November 07, 2026 (PST)",
+    "timezone": "America/Los_Angeles",
+    "date_dir": "2026/11/07",
+    "content_date": "2026-11-07",
+    "edition": "morning",
+    "edition_label": "Morning 50",
+    "target_count": 50,
+    "run_time_local": "11:17, November 07, 2026 (PST)",
+    "run_time_utc": "2026-11-07 19:17:05 UTC",
+    "incremental": true,
+    "stories_max": 50,
+    "hot_score_time_utc": "2026-11-07 19:18:21 UTC"
+  },
+  "items": [
+    {
+      "title_en": "Microsoft Researcher John Langford Exits. AI Frontiers Group Declared Finished",
+      "url": "https://businessexaminer.ca/victoria-articles/item/microsoft-researcher-john-langford-exits-as-ai-frontiers-group-is-declared/",
+      "title_zh": "微软研究员约翰·兰福德离职，AI Frontiers 宣布解散",
+      "is_new": true,
+      "created_display": "Created: Nov 07, 2026 / 10:02 PT",
+      "image_url": "https://businessexaminer.ca/wp-content/uploads/2026/11/microsoft-researcher-john-langford-exits-as-ai-frontiers-gro.webp",
+      "summary_en": "John Langford, a partner researcher manager at Microsoft Research New York, has left Microsoft. He also declared the AI Frontiers group finished after its roughly 50 members moved into Microsoft AI. Langford announced the decision on November 6 in a post summarized from his blog.",
+      "summary_zh": "微软研究院纽约分部的合伙研究经理约翰·兰福德已离开微软。在约 50 人的 AI Frontiers 团队并入 Microsoft AI 后，他宣布该团队结束。兰福德于 11 月 6 日在博客文章中公布了这一决定。",
+      "hn": {
+        "id": 50406563,
+        "type": "story",
+        "by": "srean",
+        "score": 86,
+        "descendants": 20,
+        "time": 1794074537,
+        "comments_url": "https://news.ycombinator.com/item?id=50406563"
+      },
+      "hot_score": 10.09,
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "title_en": "Show HN: Coldframe, a honeypot that poses as a supermarket fridge controller",
+      "url": "https://github.com/hedgerow-dev/coldframe",
+      "title_zh": "Show HN：Coldframe，伪装成超市冰柜控制器的蜜罐",
+      "is_new": true,
+      "created_display": "Created: Nov 07, 2026 / 09:27 PT",
+      "image_url": "https://opengraph.githubassets.com/3995f325fc6badd5a2b29128ed385d38e2d427c4a02aebd54c58197b5d22a7eb/hedgerow-dev/coldframe",
+      "summary_en": "Coldframe is a Python honeypot that impersonates supermarket refrigeration controllers, including the Danfoss AK-SM 800A and Dixell XWEB interfaces. It uses only the Python standard library and matches details such as headers, page sizes, certificate fields, and TLS versions found on real devices. The honeypot recognizes several exploit attempts, including the CVE-2025-41450 login bypass, and records submitted codes.",
+      "summary_zh": "Coldframe 是一个用 Python 编写的蜜罐，伪装成超市制冷控制器，包括 Danfoss AK-SM 800A 和 Dixell XWEB 的界面。它仅使用 Python 标准库，并模拟真实设备的请求头、页面大小、证书字段和 TLS 版本等细节。该蜜罐能够识别多种攻击尝试，包括 CVE-2025-41450 登录绕过，并记录提交的代码。",
+      "hn": {
+        "id": 50406292,
+        "type": "story",
+        "by": "hedgerow-dev",
+        "score": 84,
+        "descendants": 21,
+        "time": 1794072450,
+        "comments_url": "https://news.ycombinator.com/item?id=50406292"
+      },
+      "hot_score": 7.34,
+      "tags": [
+        "Show HN",
+        "Security",
+        "Programming"
+      ]
+    },
+    {
+      "title_en": "Need for Speed Underground 2 online in the browser",
+      "url": "https://nfsu2.xyz/",
+      "title_zh": "在浏览器中在线玩《极品飞车：地下狂飙 2》",
+      "is_new": true,
+      "created_display": "Created: Nov 07, 2026 / 01:36 PT",
+      "image_url": null,
+      "summary_en": "The project brings Need for Speed Underground 2 online in a web browser. No further implementation details or features are established here.",
+      "summary_zh": "该项目让《极品飞车：地下狂飙 2》能够在浏览器中在线运行。现有信息未说明其具体实现方式或功能细节。",
+      "hn": {
+        "id": 50403052,
+        "type": "story",
+        "by": "fluxusars",
+        "score": 590,
+        "descendants": 176,
+        "time": 1794044196,
+        "comments_url": "https://news.ycombinator.com/item?id=50403052"
+      },
+      "hot_score": 7.04,
+      "tags": [
+        "Gaming",
+        "Web"
+      ]
+    },
+    {
+      "title_en": "The End of AI Frontiers",
+      "url": "https://hunch.net/?p=13764006",
+      "title_zh": "AI Frontiers 的终结",
+      "is_new": true,
+      "created_display": "Created: Nov 07, 2026 / 10:04 PT",
+      "image_url": "http://www.feedburner.com/fb/images/pub/feed-icon16x16.png",
+      "summary_en": "After ChatGPT’s release in 2023, John Langford and colleagues formed AI Frontiers within Microsoft Research to organize AI research more coherently. The roughly 50-person group used a middle ground between top-down and bottom-up organization, while dealing with disagreements and frequent compute bottlenecks. Langford said he believed the group was succeeding at pioneering work despite its small size, although the excerpt ends before describing its closure.",
+      "summary_zh": "ChatGPT 于 2023 年发布后，约翰·兰福德与同事在微软研究院内部组建了 AI Frontiers，以更有组织地推进人工智能研究。这个约 50 人的团队采取介于自上而下和自下而上之间的组织方式，同时面临内部分歧和计算资源瓶颈。兰福德认为，尽管规模较小，该团队仍在开展开创性工作，但所给内容尚未说明其后续解散经过。",
+      "hn": {
+        "id": 50406589,
+        "type": "story",
+        "by": "andsoitis",
+        "score": 56,
+        "descendants": 18,
+        "time": 1794074647,
+        "comments_url": "https://news.ycombinator.com/item?id=50406589"
+      },
+      "hot_score": 6.64,
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "title_en": "What I run on my $10 USD OpenStick, Linux, Homelab",
+      "url": "https://blog.bosscher.ch/posts/openstick/",
+      "title_zh": "我在 10 美元 OpenStick Linux 家庭实验室上运行的服务",
+      "is_new": true,
+      "created_display": "Created: Nov 07, 2026 / 10:12 PT",
+      "image_url": "https://blog.bosscher.ch/posts/openstick/index.png",
+      "summary_en": "The author bought an OpenStick homelab device for $10, including shipping, largely as a novelty. Although its hardware is less powerful than many modern watches, the small device can still be used for self-hosting experiments. The project shows how inexpensive hardware can provide an accessible entry point to homelabbing.",
+      "summary_zh": "作者花 10 美元（含运费）买了一台 OpenStick 家庭实验室设备，起初主要是把它当作新奇的小玩意。尽管它的硬件性能甚至不如许多现代手表，但仍可用于自托管实验。这个项目展示了廉价硬件如何成为入门家庭实验室的途径。",
+      "hn": {
+        "id": 50406670,
+        "type": "story",
+        "by": "LaurensBER",
+        "score": 51,
+        "descendants": 9,
+        "time": 1794075132,
+        "comments_url": "https://news.ycombinator.com/item?id=50406670"
+      },
+      "hot_score": 6.51,
+      "tags": [
+        "Hardware"
+      ]
+    },
+    {
+      "title_en": "They don't make 'em like that any more: Borland Turbo Pascal 7",
+      "url": "https://kevinboone.me/tpwin.html",
+      "title_zh": "如今已不复存在的产品：Borland Turbo Pascal 7",
+      "is_new": true,
+      "created_display": "Created: Nov 07, 2026 / 08:06 PT",
+      "image_url": "https://kevinboone.me/img/tpdisk.jpg",
+      "summary_en": "Borland Turbo Pascal was a highly successful programming tool that introduced features such as integrated source-level debugging. Turbo Pascal 7, also known as Turbo Pascal for Windows 1.5, was the final and most advanced version of the line, offering substantial capabilities at an affordable price. Its book license allowed one purchased copy to be used by any number of people, though only one person at a time, and Turbo Pascal eventually gave way to Delphi.",
+      "summary_zh": "Borland Turbo Pascal 是一款极为成功的编程工具，带来了集成式源码级调试等功能。Turbo Pascal 7，也称 Turbo Pascal for Windows 1.5，是这一产品线的最终版本和巅峰之作，以低廉价格提供了足够开发大型应用的能力。它采用“图书授权”模式，一份购买的副本可供任意数量的人使用，但同一时间只能由一人使用；最终 Turbo Pascal 被 Delphi 取代。",
+      "hn": {
+        "id": 50405678,
+        "type": "story",
+        "by": "andsoitis",
+        "score": 118,
+        "descendants": 75,
+        "time": 1794067587,
+        "comments_url": "https://news.ycombinator.com/item?id=50405678"
+      },
+      "hot_score": 6.02,
+      "tags": [
+        "Programming"
+      ]
+    },
+    {
+      "title_en": "Apple Keyboard has a blacklist of phrases you can't swipe",
+      "url": "https://www.theguardian.com/technology/2026/nov/06/struggling-to-spell-male-chauvinist-pig-apple-grey-list-means-your-iphone-wont-help-you",
+      "title_zh": "苹果键盘列有无法滑行输入的短语黑名单",
+      "is_new": true,
+      "created_display": "Created: Nov 07, 2026 / 09:06 PT",
+      "image_url": "https://i.guim.co.uk/img/media/28e97d03d0abcd9f1e2eb53b873f17079a1a7f82/998_270_3911_3129/master/3911.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ae2dd9194072b73ebb69c7269d955ba3",
+      "summary_en": "Research cited in the report found that Apple’s predictive text system restricts more than 100,000 words and phrases from being completed. As a result, an iPhone may refuse to complete certain phrases when users swipe across the keyboard, even though they can still type them by tapping individual letters. The restrictions affect the predictive-text experience rather than necessarily blocking the messages themselves.",
+      "summary_zh": "报道援引的研究发现，苹果的预测文本系统限制自动补全的词语和短语超过 10 万个。因此，用户在键盘上滑行输入某些短语时，iPhone 可能不会完成它们，但逐字点击仍可能输入这些内容。这些限制影响的是预测文本体验，并不一定会阻止用户发送相关消息。",
+      "hn": {
+        "id": 50406111,
+        "type": "story",
+        "by": "user_7832",
+        "score": 77,
+        "descendants": 53,
+        "time": 1794071196,
+        "comments_url": "https://news.ycombinator.com/item?id=50406111"
+      },
+      "hot_score": 5.75,
+      "tags": [
+        "Privacy"
+      ]
+    },
+    {
+      "title_en": "Every Mac comes with an (undocumented) family member classifier",
+      "url": "https://8rank.ai/game/apple-intelligence-personal-knowledge-graph",
+      "title_zh": "每台 Mac 都自带一个未公开的家庭成员分类器",
+      "is_new": true,
+      "created_display": "Created: Nov 07, 2026 / 01:46 PT",
+      "image_url": "https://8rank.ai/og-apple-intelligence-personal-knowledge-graph.png",
+      "summary_en": "The post claims that every Mac since macOS 13, released in 2022, includes two daemons that build a graph of the user’s relationships and activities. The graph is described as covering contacts, relationships, communications, locations, activities, and timing.",
+      "summary_zh": "文章称，自 2022 年发布的 macOS 13 起，每台 Mac 都包含两个用于构建用户关系和活动图谱的后台进程。该图谱据称涵盖联系人、彼此关系、通信、位置、活动及时间信息。文章还分析了这一系统的工作方式，并提供了查看个人设备上该图谱的工具。",
+      "hn": {
+        "id": 50403097,
+        "type": "story",
+        "by": "infwhispers",
+        "score": 466,
+        "descendants": 268,
+        "time": 1794044763,
+        "comments_url": "https://news.ycombinator.com/item?id=50403097"
+      },
+      "hot_score": 5.7,
+      "tags": [
+        "Privacy"
+      ]
+    },
+    {
+      "title_en": "MaxxBench – \"Nice DeepSWE score. But is it true?\"",
+      "url": "https://maxxbench.unlap.ai/research/why-maxxbench/",
+      "title_zh": "MaxxBench：“DeepSWE 得分不错，但它是真的吗？”",
+      "is_new": true,
+      "created_display": "Created: Nov 07, 2026 / 09:19 PT",
+      "image_url": "https://maxxbench.unlap.ai/social-card.png",
+      "summary_en": "MaxxBench changed the requirements of familiar engineering tasks in a coding benchmark to test whether models would follow the new instructions. The researchers found cases where a model understood and correctly implemented the changed requirement, then removed its own correct code after another model supplied the benchmark’s original answer. The results expose a gap between recognizing a requirement and consistently acting on it.",
+      "summary_zh": "MaxxBench 修改了编码基准中熟悉工程任务的要求，用来测试模型是否会遵循新指令。研究人员发现，有时模型明白并正确实现了新要求，却在另一个模型给出基准原始答案后删除了自己的正确代码。这些结果显示，模型理解要求与始终按照要求执行之间存在差距。",
+      "hn": {
+        "id": 50406222,
+        "type": "story",
+        "by": "antiuniverse",
+        "score": 54,
+        "descendants": 8,
+        "time": 1794071940,
+        "comments_url": "https://news.ycombinator.com/item?id=50406222"
+      },
+      "hot_score": 4.39,
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "title_en": "The $8 Linux Computer (2022)",
+      "url": "http://thelittleengineerthatcould.blogspot.com/2022/12/the-8-linux-computer.html",
+      "title_zh": "8 美元的 Linux 电脑（2022）",
+      "is_new": true,
+      "created_display": "Created: Nov 07, 2026 / 06:00 PT",
+      "image_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMR6WHmKku5veDN9XI3ZTSOw9dSsNTbCsuJ6LSSxejLaYPTO-V71zPoc_-fpF0QYx260DGx5RSEsx58z-xxsujTZLugdjAs_7uaG6YZMdHBxrGaxlx9Q-H-NYszKY7-pvv1bfxEtmH1C3HZSoVBlkm5kdangQQyXUyRGFX8ja04tWg6ZzwsNs_9DuJJA/w1200-h630-p-k-no-nu/ox64.jpeg",
+      "summary_en": "The Ox64 is presented as an $8 RISC-V computer capable of running Linux with an MMU. It has three RISC-V cores, each described as different. At the time of writing, however, its Ethernet, Wi-Fi, and SD-card support were not working.",
+      "summary_zh": "Ox64 被介绍为一台售价 8 美元、能够运行带 MMU 的 Linux 的 RISC-V 电脑。它拥有三个 RISC-V 核心，且三者各不相同。不过在文章写作时，它的以太网、Wi‑Fi 和 SD 卡功能尚不可用。",
+      "hn": {
+        "id": 50404599,
+        "type": "story",
+        "by": "zenincognito",
+        "score": 150,
+        "descendants": 62,
+        "time": 1794060020,
+        "comments_url": "https://news.ycombinator.com/item?id=50404599"
+      },
+      "hot_score": 4.16,
+      "tags": [
+        "Hardware"
+      ]
+    },
+    {
+      "title_en": "Libghostty 1.0",
+      "url": "https://mitchellh.com/writing/libghostty-1-0",
+      "title_zh": "Libghostty 1.0",
+      "is_new": true,
+      "created_display": "Created: Nov 06, 2026 / 15:30 PT",
+      "image_url": null,
+      "summary_en": "libghostty-vt 1.0 has been released as a portable, high-performance C library for terminal emulation, extracted from Ghostty’s core. Both the library and its C ABI are now stable. The C API has grown from nonexistent to a complete terminal emulator used in production by millions of people across hundreds of free and commercial products.",
+      "summary_zh": "libghostty-vt 1.0 已发布，这是一个从 Ghostty 核心提取出的便携、高性能终端模拟 C 库。该库本身及其 C ABI 现已稳定。其 C API 已从无到有发展为完整的终端模拟器，目前已在数百款免费和商业产品中投入生产，服务数百万人。",
+      "hn": {
+        "id": 50399933,
+        "type": "story",
+        "by": "mfiguiere",
+        "score": 952,
+        "descendants": 160,
+        "time": 1794007852,
+        "comments_url": "https://news.ycombinator.com/item?id=50399933"
+      },
+      "tags": [
+        "Programming"
+      ],
+      "hot_score": 3.71
+    },
+    {
+      "title_en": "How Long Can Life Wait?",
+      "url": "https://mceglowski.substack.com/p/how-long-can-life-wait",
+      "title_zh": "生命还能等待多久？",
+      "is_new": true,
+      "created_display": "Created: Nov 07, 2026 / 08:22 PT",
+      "image_url": null,
+      "summary_en": "The piece asks how long life can wait. No further details are available here about the subject or argument.",
+      "summary_zh": "这篇文章探讨“生命还能等待多久”这一问题。现有信息未提供更多主题或论点细节。",
+      "hn": {
+        "id": 50405789,
+        "type": "story",
+        "by": "Ariarule",
+        "score": 65,
+        "descendants": 26,
+        "time": 1794068579,
+        "comments_url": "https://news.ycombinator.com/item?id=50405789"
+      },
+      "hot_score": 3.63,
+      "tags": [
+        "Science"
+      ]
+    },
+    {
+      "title_en": "Upload Your RAM",
+      "url": "https://uploadyourram.org",
+      "title_zh": "上传你的 RAM",
+      "is_new": true,
+      "created_display": "Created: Nov 07, 2026 / 02:15 PT",
+      "image_url": "https://uploadyourram.org/sad_altman.png",
+      "summary_en": "Upload Your RAM is a satirical service that invites people to donate unused computer memory. It jokes that consumers can no longer undo purchases of RAM, but can instead upload idle RAM to support a better cause. The project presents this fictional “RAM upload technology” as a response to unused memory.",
+      "summary_zh": "“上传你的 RAM”是一个讽刺性项目，邀请人们捐出电脑中未使用的内存。它调侃消费者无法撤回已经购买的 RAM，但可以把闲置内存上传出去，用于更好的事业。项目以虚构的“RAM 上传技术”回应内存闲置问题。",
+      "hn": {
+        "id": 50403214,
+        "type": "story",
+        "by": "susanthenerd",
+        "score": 257,
+        "descendants": 242,
+        "time": 1794046526,
+        "comments_url": "https://news.ycombinator.com/item?id=50403214"
+      },
+      "hot_score": 3.39,
+      "tags": [
+        "Culture"
+      ]
+    },
+    {
+      "title_en": "Ask HN: How did you convince family and friends to join your XMPP/Matrix server?",
+      "url": "https://news.ycombinator.com/item?id=50405250",
+      "title_zh": "Ask HN：你是如何说服家人和朋友加入 XMPP/Matrix 服务器的？",
+      "is_new": true,
+      "created_display": "Created: Nov 07, 2026 / 07:14 PT",
+      "image_url": null,
+      "summary_en": "The author asks how people persuaded family and friends to move from SMS or WhatsApp to self-hosted XMPP or Matrix messaging. Their contacts mainly value ease of use, reliability, and fun features, while the author finds many existing clients difficult to use and poorly suited as simple SMS replacements. The discussion centers on the practical and user-experience barriers to adopting open messaging protocols.",
+      "summary_zh": "提问者想知道，大家是如何说服家人和朋友从短信或 WhatsApp 转向自托管的 XMPP 或 Matrix 消息服务的。提问者的亲友主要看重易用性、可靠性和有趣的功能，而提问者认为许多现有客户端难用，也不适合作为简单的短信替代品。讨论的核心是开放消息协议在实际采用和用户体验方面面临的障碍。",
+      "hn": {
+        "id": 50405250,
+        "type": "story",
+        "by": "mtlynch",
+        "score": 59,
+        "descendants": 49,
+        "time": 1794064480,
+        "comments_url": "https://news.ycombinator.com/item?id=50405250"
+      },
+      "hot_score": 2.26,
+      "tags": [
+        "Open Source"
+      ]
+    },
+    {
+      "title_en": "Running a law firm on Free software",
+      "url": "https://decoded.legal/blog/2026/11/running-a-law-firm-on-free-software-2026-edition/",
+      "title_zh": "用自由软件运营一家律师事务所",
+      "is_new": true,
+      "created_display": "Created: Nov 07, 2026 / 01:39 PT",
+      "image_url": "https://decoded.legal/blog/content/images/decoded.legal_logo.png",
+      "summary_en": "Neil Brown describes running decoded.legal, a small English law firm focused on internet, telecommunications, and technology law, with Free software on both the client and server sides. He began doing so around five years ago and has used Free software personally for much longer. The account presents the firm’s software approach as an ongoing practice.",
+      "summary_zh": "Neil Brown 介绍了如何在客户端和服务器端都使用自由软件，运营 decoded.legal 这家专注于互联网、电信和科技法律的小型英格兰律师事务所。他大约五年前开始这样做，而个人使用自由软件的时间更久。这篇文章记录了该事务所持续采用这一软件方式的实践。",
+      "hn": {
+        "id": 50403066,
+        "type": "story",
+        "by": "DeepLogin",
+        "score": 172,
+        "descendants": 81,
+        "time": 1794044346,
+        "comments_url": "https://news.ycombinator.com/item?id=50403066"
+      },
+      "hot_score": 2.06,
+      "tags": [
+        "Open Source",
+        "Legal"
+      ]
+    },
+    {
+      "title_en": "Tesla to wind down Cybertruck production",
+      "url": "https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817",
+      "title_zh": "特斯拉将逐步停止生产 Cybertruck",
+      "is_new": true,
+      "created_display": "Created: Nov 06, 2026 / 04:13 PT",
+      "image_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-02/250213-Cybertruck-aa-1045-dd55f3.jpg",
+      "summary_en": "Tesla CEO Elon Musk said Cybertruck production at the company's Texas gigafactory will wind down around mid-2027. He said the move will make room for higher production of the newly launched Cybercab, central to Tesla's robotaxi plans. Cybertruck sales have remained weak, and it has sold in only a limited number of markets. It remains unclear whether production will move elsewhere or end entirely.",
+      "summary_zh": "特斯拉 CEO 埃隆·马斯克表示，公司位于得州的超级工厂将在 2027 年年中左右逐步停止生产 Cybertruck。他称，此举将为提高新款 Cybercab 的产量腾出空间，而 Cybercab 是特斯拉机器人出租车计划的核心车型。Cybertruck 销量长期疲软，目前仅在少数市场销售。该车型是转移到其他工厂生产还是彻底停产，目前尚不清楚。",
+      "hn": {
+        "id": 50391456,
+        "type": "story",
+        "by": "PLenz",
+        "score": 1116,
+        "descendants": 1989,
+        "time": 1793967231,
+        "comments_url": "https://news.ycombinator.com/item?id=50391456"
+      },
+      "tags": [
+        "Business"
+      ],
+      "hot_score": 2.05
+    },
+    {
+      "title_en": "Five Memorable Books About Programming",
+      "url": "https://prog21.dadgum.com/19.html",
+      "title_zh": "五本令人难忘的编程书",
+      "is_new": true,
+      "created_display": "Created: Nov 07, 2026 / 09:30 PT",
+      "image_url": null,
+      "summary_en": "The author frames programming books as tools for turning ideas into working implementations rather than as technology for its own sake. After reading classics such as Structure and Interpretation of Computer Programs and Paradigms of Artificial Intelligence Programming, the author chooses to focus on less conventional books that influenced their thinking. The selection therefore emphasizes intellectual impact over canonical status.",
+      "summary_zh": "作者认为，编程书籍的价值不在于技术本身，而在于帮助读者把想法实现出来。在读过《计算机程序的构造和解释》和《人工智能编程范式》等经典之后，作者选择介绍一些影响了自己思考方式、但不那么主流的书。这个书单因此更看重思想影响，而非经典地位。",
+      "hn": {
+        "id": 50406319,
+        "type": "story",
+        "by": "andsoitis",
+        "score": 20,
+        "descendants": 4,
+        "time": 1794072649,
+        "comments_url": "https://news.ycombinator.com/item?id=50406319"
+      },
+      "hot_score": 1.72,
+      "tags": [
+        "Programming",
+        "AI"
+      ]
+    },
+    {
+      "title_en": "A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost",
+      "url": "https://hightouch.com/blog/llm-judges-identity-resolution",
+      "title_zh": "能向 Opus 求助的 Jev，让 Opus 以低四倍成本达到同等准确率",
+      "is_new": true,
+      "created_display": "Created: Nov 06, 2026 / 11:48 PT",
+      "image_url": "https://cdn.sanity.io/images/pwmfmi47/production/9a5d7191d614c824c822ec90672adaf424699d3d-2400x1256.png?w=1200",
+      "summary_en": "Tests of Jev and GPT-6 Luna as judges for identity resolution found out-of-the-box accuracy ranging from 88.8% to 97.3%. A hybrid that combines Jev with Claude Opus matched frontier-level accuracy at more than four times lower cost. Identity resolution maps data records to unique real-world people.",
+      "summary_zh": "对 Jev 和 GPT-6 Luna 作为身份解析评判器的测试显示，它们开箱即用的准确率为 88.8% 至 97.3%。将 Jev 与 Claude Opus 结合的混合方案达到了前沿模型水平的准确率，而成本降低了四倍以上。身份解析的任务是将数据记录映射到现实世界中唯一的个人。",
+      "hn": {
+        "id": 50397429,
+        "type": "story",
+        "by": "theanomaly",
+        "score": 563,
+        "descendants": 137,
+        "time": 1793994531,
+        "comments_url": "https://news.ycombinator.com/item?id=50397429"
+      },
+      "tags": [
+        "AI",
+        "Data"
+      ],
+      "hot_score": 1.65
+    },
+    {
+      "title_en": "The Components of Agent Memory",
+      "url": "https://www.anthropic.com/research/components-of-agent-memory",
+      "title_zh": "智能体记忆的组成部分",
+      "is_new": true,
+      "created_display": "Created: Nov 06, 2026 / 22:39 PT",
+      "image_url": "https://www-cdn.anthropic.com/images/4zrzovbb/website/6ab2663a2c0bd6a41409d90136a59a5d72995ea5-1200x630.jpg",
+      "summary_en": "It compares this process with human memory consolidation, in which experiences are captured continuously but only some become long-term knowledge. The proposed “dreaming” process helps organize memories and correct mistakes.",
+      "summary_zh": "文章探讨 Claude 这类 AI 智能体如何在尚不知道未来会发生什么时，判断哪些经历值得记住。它将这一过程与人类记忆巩固进行比较：人类持续记录经历，但只有一部分会成为长期知识。文中提出的“做梦”过程用于整理记忆并纠正错误。",
+      "hn": {
+        "id": 50402212,
+        "type": "story",
+        "by": "geoffbp",
+        "score": 130,
+        "descendants": 66,
+        "time": 1794033544,
+        "comments_url": "https://news.ycombinator.com/item?id=50402212"
+      },
+      "hot_score": 1.03,
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "title_en": "Every processor die anyone has photographed and given away",
+      "url": "https://sheets.works/data-viz/cpu-dies",
+      "title_zh": "所有被拍摄并公开的处理器裸片",
+      "is_new": true,
+      "created_display": "Created: Nov 07, 2026 / 08:21 PT",
+      "image_url": "https://sheets.works/og-cpu-dies.png",
+      "summary_en": "The collection contains microscope photographs of 356 processor dies made between 1972 and 2024 and released for public use. A processor die is the flat silicon piece inside a chip package, which must be exposed by sanding or dissolving the package before imaging. A true-scale view is available for the 114 dies whose dimensions are known, showing the size difference between older and modern chips.",
+      "summary_zh": "这个收藏包含 356 张处理器裸片的显微镜照片，时间跨度从 1972 年到 2024 年，并向公众开放使用。处理器裸片是芯片封装内部的扁平硅片，需要打磨或溶解封装后才能进行拍摄。对于已知尺寸的 114 个裸片，页面还提供真实比例视图，展示老芯片与现代芯片的尺寸差异。",
+      "hn": {
+        "id": 50405782,
+        "type": "story",
+        "by": "user_7832",
+        "score": 18,
+        "descendants": 3,
+        "time": 1794068496,
+        "comments_url": "https://news.ycombinator.com/item?id=50405782"
+      },
+      "hot_score": 0.96,
+      "tags": [
+        "Hardware"
+      ]
+    },
+    {
+      "title_en": "You are protesting the wrong technology, people",
+      "url": "https://hollisrobbinsanecdotal.substack.com/p/you-are-protesting-the-wrong-technology",
+      "title_zh": "人们抗议错了技术",
+      "is_new": true,
+      "created_display": "Created: Nov 07, 2026 / 09:50 PT",
+      "image_url": null,
+      "summary_en": "The piece argues that people are directing their protests at the wrong technology. No further details about the technology or the argument are established here.",
+      "summary_zh": "这篇文章认为，人们把抗议矛头指向了错误的技术。现有信息未说明具体涉及哪种技术或论据。",
+      "hn": {
+        "id": 50406469,
+        "type": "story",
+        "by": "HR01",
+        "score": 9,
+        "descendants": 0,
+        "time": 1794073819,
+        "comments_url": "https://news.ycombinator.com/item?id=50406469"
+      },
+      "hot_score": 0.85,
+      "tags": [
+        "Culture"
+      ]
+    },
+    {
+      "title_en": "Fox Bought Roku",
+      "url": "https://www.theverge.com/streaming/1028629/fox-roku-acquisition-close",
+      "title_zh": "福克斯收购 Roku",
+      "is_new": true,
+      "created_display": "Created: Nov 07, 2026 / 09:02 PT",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STK284_AParkin_2.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "summary_en": "Fox has completed its $22 billion acquisition of Roku. The deal gives Fox control of Roku’s streaming platform, which reaches more than 100 million US households. The acquisition could lead to more Fox content appearing on Roku.",
+      "summary_zh": "福克斯已完成对 Roku 的 220 亿美元收购。交易使福克斯获得 Roku 流媒体平台的控制权，该平台覆盖美国超过 1 亿户家庭。这一收购可能会让 Roku 上出现更多福克斯内容。",
+      "hn": {
+        "id": 50406079,
+        "type": "story",
+        "by": "DASD",
+        "score": 12,
+        "descendants": 2,
+        "time": 1794070973,
+        "comments_url": "https://news.ycombinator.com/item?id=50406079"
+      },
+      "hot_score": 0.81,
+      "tags": [
+        "Business",
+        "Finance"
+      ]
+    },
+    {
+      "title_en": "Firecracker VM Escape: PwnEscape Part 2",
+      "url": "https://pwn.ai/blog/firecracker-escape",
+      "title_zh": "Firecracker 虚拟机逃逸：PwnEscape 第二部分",
+      "is_new": true,
+      "created_display": "Created: Nov 06, 2026 / 11:33 PT",
+      "image_url": null,
+      "summary_en": "The item covers a Firecracker virtual-machine escape under the title PwnEscape Part 2.",
+      "summary_zh": "该项目介绍了题为“PwnEscape 第二部分”的 Firecracker 虚拟机逃逸内容。",
+      "hn": {
+        "id": 50397219,
+        "type": "story",
+        "by": "SerCe",
+        "score": 275,
+        "descendants": 122,
+        "time": 1793993618,
+        "comments_url": "https://news.ycombinator.com/item?id=50397219"
+      },
+      "tags": [
+        "Security"
+      ],
+      "hot_score": 0.79
+    },
+    {
+      "title_en": "The Gordon Gekko Effect: The Role of Culture in the Financial Industry [pdf] (2016)",
+      "url": "https://www.newyorkfed.org/medialibrary/media/research/epr/2016/epr_2016_gordon-gekko-effect_lo.pdf",
+      "title_zh": "戈登·盖柯效应：文化在金融业中的作用（2016）",
+      "is_new": true,
+      "created_display": "Created: Nov 07, 2026 / 06:18 PT",
+      "image_url": null,
+      "summary_en": "The paper examines the role of culture in the financial industry under the title “The Gordon Gekko Effect.” No further findings or methods are established by the available information.",
+      "summary_zh": "这篇论文以“戈登·盖柯效应”为题，研究文化在金融业中的作用。现有信息未提供更多研究方法或结论。",
+      "hn": {
+        "id": 50404747,
+        "type": "story",
+        "by": "tylerdane",
+        "score": 27,
+        "descendants": 19,
+        "time": 1794061125,
+        "comments_url": "https://news.ycombinator.com/item?id=50404747"
+      },
+      "hot_score": 0.78,
+      "tags": [
+        "Culture",
+        "Finance"
+      ]
+    },
+    {
+      "title_en": "America's economy is becoming zero-sum",
+      "url": "https://www.usatoday.com/story/opinion/2026/11/07/crypto-sports-betting-tariffs-zero-sum-economy/92396495007/",
+      "title_zh": "美国经济正变成零和经济",
+      "is_new": true,
+      "created_display": "Created: Nov 07, 2026 / 08:50 PT",
+      "image_url": null,
+      "summary_en": "The piece argues that America’s economy is becoming zero-sum. No further details about the causes or examples are established here.",
+      "summary_zh": "这篇文章认为，美国经济正在变成零和经济。现有信息未提供具体原因或例证。",
+      "hn": {
+        "id": 50405973,
+        "type": "story",
+        "by": "madihaa",
+        "score": 12,
+        "descendants": 14,
+        "time": 1794070224,
+        "comments_url": "https://news.ycombinator.com/item?id=50405973"
+      },
+      "hot_score": 0.74,
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "title_en": "Gemini Omni 1.2 Flash",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
+      "title_zh": "Gemini Omni 1.2 Flash",
+      "is_new": true,
+      "created_display": "Created: Nov 06, 2026 / 05:35 PT",
+      "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-omni-1.2_FZLql41.width-1300.png",
+      "summary_en": "Gemini Omni 1.2 Flash adds native generation and editing of 15-second videos. The release also promises stronger consistency and faster, more cost-effective generation. Its pricing is 30% lower.",
+      "summary_zh": "Gemini Omni 1.2 Flash 新增原生的 15 秒视频生成与编辑能力。此次更新还提升了一致性，并带来更快、更具成本效益的生成体验。其价格降低了 30%。",
+      "hn": {
+        "id": 50392118,
+        "type": "story",
+        "by": "thisisauserid",
+        "score": 355,
+        "descendants": 247,
+        "time": 1793972127,
+        "comments_url": "https://news.ycombinator.com/item?id=50392118"
+      },
+      "tags": [
+        "AI"
+      ],
+      "hot_score": 0.7
+    },
+    {
+      "title_en": "RealPage rent-pricing case wraps with nearly $360M to renters",
+      "url": "https://www.multifamilydive.com/news/realpage-rent-pricing-case-360m-renters/873553/",
+      "title_zh": "RealPage 租金定价案和解，租户获近 3.6 亿美元",
+      "is_new": true,
+      "created_display": "Created: Nov 06, 2026 / 15:37 PT",
+      "image_url": "https://imgproxy.divecdn.com/-Uqkdu8mq6LIwH10BvB5qTP-cL2wSTidvoKpcnIFcZw/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDExNjMwNzYzX0ZRNnZ3UGMuanBn.webp",
+      "summary_en": "A federal court approved settlements in the antitrust case over algorithmic rent setting through RealPage software. The court found the settlements, including the payment amounts, releases, and dismissal of the case against settling defendants, fair and adequate for the settling class. A legal expert cautioned that the approval may not be the final word in litigation over algorithmic pricing.",
+      "summary_zh": "联邦法院批准了围绕 RealPage 软件算法定租的反垄断诉讼和解。法院认定，和解金额、责任解除以及对和解被告的诉讼终结安排，对参与和解的集体成员而言公平且充分。一名法律专家提醒，这可能并不是算法定价诉讼的最终结论。",
+      "hn": {
+        "id": 50399991,
+        "type": "story",
+        "by": "raybb",
+        "score": 174,
+        "descendants": 147,
+        "time": 1794008239,
+        "comments_url": "https://news.ycombinator.com/item?id=50399991"
+      },
+      "tags": [
+        "Legal",
+        "Business"
+      ],
+      "hot_score": 0.68
+    },
+    {
+      "title_en": "Show HN: We compressed a 31B video+audio diffusion model to 14B, 6 steps, INT8",
+      "url": "https://github.com/Video-Rebirth/hyperflow-h3-flash",
+      "title_zh": "Show HN：将 31B 视频音频扩散模型压缩至 14B、6 步、INT8",
+      "is_new": true,
+      "created_display": "Created: Nov 07, 2026 / 07:16 PT",
+      "image_url": "https://opengraph.githubassets.com/5b519f442abb8a31d99a4228df5dc8ec9c1b760eff455e50fd245e785f77d9b5/Video-Rebirth/hyperflow-h3-flash",
+      "summary_en": "HyperFlow H3 Flash is a compressed, few-step version of MiniMax-H3 with 13.7 billion parameters. It generates video and synchronized stereo audio together and supports INT8 and GGUF formats. The project also provides weights, ComfyUI nodes, a GGUF setup guide, and an eight-step LoRA for the full-size model.",
+      "summary_zh": "HyperFlow H3 Flash 是 MiniMax-H3 的压缩少步数版本，包含 137 亿个参数。它能够同时生成视频和同步立体声，并支持 INT8 与 GGUF 格式。项目还提供模型权重、ComfyUI 节点、GGUF 配置指南，以及适用于完整模型的 8 步 LoRA。",
+      "hn": {
+        "id": 50405263,
+        "type": "story",
+        "by": "jiant",
+        "score": 18,
+        "descendants": 7,
+        "time": 1794064561,
+        "comments_url": "https://news.ycombinator.com/item?id=50405263"
+      },
+      "hot_score": 0.67,
+      "tags": [
+        "Show HN",
+        "AI"
+      ]
+    },
+    {
+      "title_en": "First steps in bare-metal programming using UEFI",
+      "url": "https://kevinboone.me/efitest_index.html",
+      "title_zh": "使用 UEFI 开始裸机编程",
+      "is_new": true,
+      "created_display": "Created: Nov 06, 2026 / 08:50 PT",
+      "image_url": "https://kevinboone.me/img/chip.png",
+      "summary_en": "This series teaches bare-metal programming for x86 PCs using UEFI firmware and Linux as the development environment. It covers the required tools, compilation and linking, bootable disk creation, and basic file management. The series is aimed at experienced Linux developers but assumes no prior UEFI knowledge. The articles should be read in order because later installments depend on earlier material.",
+      "summary_zh": "这一系列文章介绍如何以 Linux 为开发环境、使用 UEFI 固件为 x86 PC 编写裸机程序。内容涵盖所需工具、编译与链接、创建可启动磁盘以及基本文件管理。文章面向有经验的 Linux 开发者，但不要求读者事先了解 UEFI。由于后文依赖前文内容，作者建议按顺序阅读。",
+      "hn": {
+        "id": 50394855,
+        "type": "story",
+        "by": "LaSombra",
+        "score": 246,
+        "descendants": 50,
+        "time": 1793983829,
+        "comments_url": "https://news.ycombinator.com/item?id=50394855"
+      },
+      "tags": [
+        "Programming"
+      ],
+      "hot_score": 0.59
+    },
+    {
+      "title_en": "GitHub's new Git storage architecture",
+      "url": "https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/",
+      "title_zh": "GitHub 的新 Git 存储架构",
+      "is_new": true,
+      "created_display": "Created: Nov 06, 2026 / 11:24 PT",
+      "image_url": "https://github.blog/wp-content/uploads/2026/01/4ba0cd42388a255e04c78e5143548f22e577d68e0f15f68e6a3c76c18b927981-1920x1080-1.png",
+      "summary_en": "GitHub has built a new Git storage architecture designed to let thousands of agents push to a single repository at the same time. The architecture describes how GitHub supports this concurrent access pattern.",
+      "summary_zh": "GitHub 构建了一套新的 Git 存储架构，目标是让数千个代理同时向同一个仓库推送代码。该架构介绍了 GitHub 如何支持这种并发访问模式。",
+      "hn": {
+        "id": 50397099,
+        "type": "story",
+        "by": "DAlperin",
+        "score": 208,
+        "descendants": 57,
+        "time": 1793993061,
+        "comments_url": "https://news.ycombinator.com/item?id=50397099"
+      },
+      "tags": [
+        "Open Source",
+        "Programming"
+      ],
+      "hot_score": 0.59
+    },
+    {
+      "title_en": "US FAA says it will phase out floppy disks from air traffic control by 2028",
+      "url": "https://www.reuters.com/world/us/us-faa-says-it-will-phase-out-floppy-disks-air-traffic-control-by-2028-2026-11-05/",
+      "title_zh": "美国 FAA 将在 2028 年前逐步淘汰空管系统中的软盘",
+      "is_new": true,
+      "created_display": "Created: Nov 05, 2026 / 20:00 PT",
+      "image_url": null,
+      "summary_en": "The US Federal Aviation Administration plans to phase out floppy disks from its air-traffic-control systems by 2028. The move will replace a legacy storage technology still used in parts of air-traffic operations.",
+      "summary_zh": "美国联邦航空管理局计划在 2028 年前逐步淘汰空中交通管制系统中的软盘。这一举措将替换部分航空交通运营中仍在使用的老旧存储技术。",
+      "hn": {
+        "id": 50388001,
+        "type": "story",
+        "by": "ChrisArchitect",
+        "score": 394,
+        "descendants": 320,
+        "time": 1793937628,
+        "comments_url": "https://news.ycombinator.com/item?id=50388001"
+      },
+      "tags": [
+        "Science"
+      ],
+      "hot_score": 0.48
+    },
+    {
+      "title_en": "Terry Pratchett's Study",
+      "url": "https://www.sussi.dk/terry-pratchetts-study",
+      "title_zh": "特里·普拉切特的书房",
+      "is_new": true,
+      "created_display": "Created: Nov 07, 2026 / 08:05 PT",
+      "image_url": "https://www.sussi.dk/wp-content/uploads/2026/11/IMG_6115-scaled.jpeg",
+      "summary_en": "This project is not an exact replica of Terry Pratchett’s study because the creator lacked photographs from every angle and precise measurements. Instead, it depicts a small section of a study where Pratchett might have felt at home, built at 1:12 scale. The miniature is connected to the childhood imagination associated with The Borrowers.",
+      "summary_zh": "这个项目并不是特里·普拉切特书房的精确复制品，因为作者没有各个角度的照片和准确尺寸。它展现的是一个可能令普拉切特感到亲切的书房局部，比例为 1:12。这个微缩场景还联系到了《借东西的小人》带来的童年想象。",
+      "hn": {
+        "id": 50405674,
+        "type": "story",
+        "by": "ColinWright",
+        "score": 10,
+        "descendants": 1,
+        "time": 1794067545,
+        "comments_url": "https://news.ycombinator.com/item?id=50405674"
+      },
+      "hot_score": 0.46,
+      "tags": [
+        "Culture"
+      ]
+    },
+    {
+      "title_en": "Notes on San Marino",
+      "url": "https://mattlakeman.org/2026/11/05/notes-on-san-marino/",
+      "title_zh": "圣马力诺札记",
+      "is_new": true,
+      "created_display": "Created: Nov 06, 2026 / 09:12 PT",
+      "image_url": "https://mattlakeman.org/wp-content/uploads/2026/11/dscf6163.jpg",
+      "summary_en": "The writer spent three days in San Marino, a landlocked microstate completely surrounded by Italy. Its people are known as the Sammarinese. The notes contrast the travel experience in European microstates with the more unsolicited encounters the writer describes in Afghanistan.",
+      "summary_zh": "作者在圣马力诺度过了三天；这是一个完全被意大利包围的内陆微型国家，其居民称为 Sammarinese（圣马力诺人）。文章将欧洲微型国家的旅行体验，与作者在阿富汗所描述的更多非预期人际接触进行了对比。",
+      "hn": {
+        "id": 50395183,
+        "type": "story",
+        "by": "yorwba",
+        "score": 129,
+        "descendants": 48,
+        "time": 1793985125,
+        "comments_url": "https://news.ycombinator.com/item?id=50395183"
+      },
+      "tags": [
+        "Culture"
+      ],
+      "hot_score": 0.32
+    },
+    {
+      "title_en": "Datastructures-JS – The JavaScript data structures project",
+      "url": "https://github.com/datastructures-js",
+      "title_zh": "Datastructures-JS：JavaScript 数据结构项目",
+      "is_new": true,
+      "created_display": "Created: Nov 07, 2026 / 08:07 PT",
+      "image_url": "https://avatars.githubusercontent.com/u/40009956?s=280&v=4",
+      "summary_en": "Datastructures-JS is a JavaScript data-structures project with TypeScript support. The project also provides an associated planning board.",
+      "summary_zh": "Datastructures-JS 是一个支持 TypeScript 的 JavaScript 数据结构项目。项目还提供了配套的规划看板。",
+      "hn": {
+        "id": 50405688,
+        "type": "story",
+        "by": "Brysonbw",
+        "score": 6,
+        "descendants": 0,
+        "time": 1794067672,
+        "comments_url": "https://news.ycombinator.com/item?id=50405688"
+      },
+      "hot_score": 0.26,
+      "tags": [
+        "Programming"
+      ]
+    },
+    {
+      "title_en": "Air holes turn silicon wafers into flat UV focusing mirrors for compact optics",
+      "url": "https://phys.org/news/2026-11-air-holes-silicon-wafers-flat.html",
+      "title_zh": "气孔将硅晶圆变成用于紧凑光学系统的平面紫外聚焦镜",
+      "is_new": true,
+      "created_display": "Created: Nov 07, 2026 / 06:51 PT",
+      "image_url": "https://scx2.b-cdn.net/gfx/news/2026/air-holes-turn-silicon.jpg",
+      "summary_en": "The research describes using air holes in silicon wafers to create flat ultraviolet-focusing mirrors. Metasurfaces can control the phase of light with nanoscale structures, but extending them into the ultraviolet is difficult because many metasurface materials strongly absorb UV light. The approach could support compact systems for high-resolution imaging, spectroscopy, and sensing.",
+      "summary_zh": "这项研究介绍了利用硅晶圆中的气孔制造平面紫外聚焦镜。超表面可以通过纳米结构控制光的相位，但许多超表面材料会强烈吸收紫外光，使其向紫外波段扩展十分困难。这种方法有望用于高分辨率成像、光谱分析和传感等紧凑型系统。",
+      "hn": {
+        "id": 50405043,
+        "type": "story",
+        "by": "bookofjoe",
+        "score": 5,
+        "descendants": 2,
+        "time": 1794063100,
+        "comments_url": "https://news.ycombinator.com/item?id=50405043"
+      },
+      "hot_score": 0.14,
+      "tags": [
+        "Science"
+      ]
+    },
+    {
+      "title_en": "The planet Vulcan: a cautionary tale",
+      "url": "https://kevinboone.me/vulcan.html",
+      "title_zh": "行星 Vulcan：一个警示故事",
+      "is_new": true,
+      "created_display": "Created: Nov 07, 2026 / 06:42 PT",
+      "image_url": "https://kevinboone.me/img/telescope.jpg",
+      "summary_en": "Vulcan was a proposed planet inside Mercury’s orbit that astronomers first reportedly observed in 1859 and continued to report for roughly four decades. Its properties were described in detail, although scientists are now convinced that the planet does not exist and the observations remain unexplained. The episode illustrates how confident scientific conclusions can later be overturned through falsification.",
+      "summary_zh": "Vulcan 是一颗被认为位于水星轨道以内的假想行星，据称于 1859 年首次被观测到，此后约四十年间不断出现相关报告。天文学家甚至详细描述了它的性质，但如今科学界确信这颗行星并不存在，而当时究竟观测到了什么仍是未解之谜。这个案例说明，充满信心的科学结论也可能通过证伪最终被推翻。",
+      "hn": {
+        "id": 50404969,
+        "type": "story",
+        "by": "andsoitis",
+        "score": 4,
+        "descendants": 0,
+        "time": 1794062569,
+        "comments_url": "https://news.ycombinator.com/item?id=50404969"
+      },
+      "hot_score": 0.1,
+      "tags": [
+        "Science",
+        "Space"
+      ]
+    },
+    {
+      "title_en": "Greece has its own Pompeii: Thera buried Akrotiri in ash 17th-16th century BCE",
+      "url": "https://www.smithsonianmag.com/history/greece-has-its-own-pompeii-and-the-ruins-tell-a-captivating-story-of-a-sophisticated-seafaring-bronze-age-society-180989747/",
+      "title_zh": "希腊版庞贝：Thera 在公元前 17 至 16 世纪以火山灰掩埋 Akrotiri",
+      "is_new": true,
+      "created_display": "Created: Nov 03, 2026 / 18:19 PT",
+      "image_url": "https://th-thumbnailer.cdn-si-edu.com/71ZU-AF0_4cQBfvE0ZFILkteMYM=/fit-in/1600x0/filters:focal(750x500:751x501)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/a0/f0/a0f097c9-8b61-4750-b992-4af6a4fada8e/akrotiri-ruins.png",
+      "summary_en": "The Thera volcano on modern-day Santorini buried the Bronze Age settlement of Akrotiri in ash during the 17th or 16th century BCE. After earthquakes and eruptions, residents first fled by boat, returned to gather materials and repair damage, and then evacuated again as conditions worsened. The eruption was one of the largest in recorded history.",
+      "summary_zh": "位于今圣托里尼的 Thera 火山在公元前 17 或 16 世纪喷发，以火山灰掩埋了青铜时代聚落 Akrotiri。地震和喷发后，居民先乘船逃离，随后返回收集材料、修复受损建筑；情况恶化后，他们再次撤离。这次喷发是有记录以来规模最大的喷发之一。",
+      "hn": {
+        "id": 50360810,
+        "type": "story",
+        "by": "derbOac",
+        "score": 185,
+        "descendants": 26,
+        "time": 1793758756,
+        "comments_url": "https://news.ycombinator.com/item?id=50360810"
+      },
+      "tags": [
+        "Science"
+      ],
+      "hot_score": 0.05
+    },
+    {
+      "title_en": "The great butter and cheese fire of 1991",
+      "url": "https://www.wisfarmer.com/story/opinion/columnists/2022/05/11/over-20-m-lbs-commodities-lost-great-butter-fire-1991/9650051002/",
+      "title_zh": "1991 年那场巨大的黄油与奶酪火灾",
+      "is_new": true,
+      "created_display": "Created: Nov 04, 2026 / 16:44 PT",
+      "image_url": null,
+      "summary_en": "The subject is the great butter and cheese fire of 1991, in which more than 20 million pounds of commodities were lost.",
+      "summary_zh": "主题是 1991 年那场巨大的黄油与奶酪火灾，当时有超过 2000 万磅商品损失。",
+      "hn": {
+        "id": 50373513,
+        "type": "story",
+        "by": "subroutine",
+        "score": 78,
+        "descendants": 21,
+        "time": 1793839456,
+        "comments_url": "https://news.ycombinator.com/item?id=50373513"
+      },
+      "tags": [
+        "Business"
+      ],
+      "hot_score": 0.04
+    },
+    {
+      "title_en": "PostgreSQL Internals [pdf] (2023)",
+      "url": "https://edu.postgrespro.com/postgresql_internals-14_en.pdf",
+      "title_zh": "PostgreSQL 内部机制（2023）",
+      "is_new": true,
+      "created_display": "Created: Nov 03, 2026 / 21:22 PT",
+      "image_url": null,
+      "summary_en": "This is a 2023 PDF about PostgreSQL internals. No further coverage or specific topics are established by the available information.",
+      "summary_zh": "这是一本 2023 年出版的 PostgreSQL 内部机制 PDF。现有信息未提供更多内容或具体主题。",
+      "hn": {
+        "id": 50361765,
+        "type": "story",
+        "by": "Foe",
+        "score": 81,
+        "descendants": 7,
+        "time": 1793769763,
+        "comments_url": "https://news.ycombinator.com/item?id=50361765"
+      },
+      "hot_score": 0.03,
+      "tags": [
+        "Programming",
+        "Data"
+      ]
+    },
+    {
+      "title_en": "8088 Domination Post-Mortem",
+      "url": "https://trixter.oldskool.org/2014/06/19/8088-domination-post-mortem-part-1/",
+      "title_zh": "《8088 Domination》事后复盘",
+      "is_new": true,
+      "created_display": "Created: Nov 04, 2026 / 10:06 PT",
+      "image_url": "https://trixter.oldskool.org/wp-content/uploads/2014/06/delta_anim.gif",
+      "summary_en": "The write-up explains how the author created 8088 Domination, a program capable of displaying full-motion video on a 1981 IBM PC. The production runs on an IBM PC 5150 connected to a television through its composite output. It can also be downloaded and run on vintage hardware to verify the demonstration.",
+      "summary_zh": "这篇复盘介绍了作者如何制作《8088 Domination》，一款能够在 1981 年的 IBM PC 上播放全动态视频的程序。该作品可在通过复合视频输出连接电视的 IBM PC 5150 上运行。读者还可以下载它，在老式硬件上运行以验证演示效果。",
+      "hn": {
+        "id": 50369283,
+        "type": "story",
+        "by": "cosmojg",
+        "score": 65,
+        "descendants": 9,
+        "time": 1793815574,
+        "comments_url": "https://news.ycombinator.com/item?id=50369283"
+      },
+      "hot_score": 0.03,
+      "tags": [
+        "Hardware"
+      ]
+    },
+    {
+      "title_en": "Show HN: Spindle – a full-featured, type-safe web framework for OCaml 5",
+      "url": "https://github.com/hyphatech/spindle",
+      "title_zh": "Show HN：Spindle，面向 OCaml 5 的全功能类型安全 Web 框架",
+      "is_new": true,
+      "created_display": "Created: Nov 05, 2026 / 02:45 PT",
+      "image_url": "https://opengraph.githubassets.com/b7b56ef6d4b2e2dd8996bc139739cb0af76d023f93218ccda47776742e135b4e/hyphatech/spindle",
+      "summary_en": "Spindle is a multicore-by-design, Eio-native web framework for OCaml that uses a type-driven API to derive codecs, request validation, OpenAPI specifications, and frontend schemas. It includes an RFC-strict HTTP server, WebSockets, SSE, MCP server primitives, tracing, metrics, and logging. Its benchmarks report performance two times faster than NestJS and five times faster than FastAPI on a single core, although speed was not the project’s primary goal.",
+      "summary_zh": "Spindle 是一个面向多核设计、原生支持 Eio 的 OCaml Web 框架，通过类型驱动的 API 自动生成编解码器、请求验证、OpenAPI 规范和前端模式。它包含严格遵循 RFC 的 HTTP 服务器、WebSocket、SSE、MCP 服务器基础组件，以及分布式追踪、指标和日志功能。基准测试显示，它在单核上运行速度约为 NestJS 的两倍、FastAPI 的五倍，不过速度并非项目的首要目标。",
+      "hn": {
+        "id": 50377613,
+        "type": "story",
+        "by": "zaiev",
+        "score": 49,
+        "descendants": 8,
+        "time": 1793875528,
+        "comments_url": "https://news.ycombinator.com/item?id=50377613"
+      },
+      "hot_score": 0.03,
+      "tags": [
+        "Show HN",
+        "Programming",
+        "Web"
+      ]
+    },
+    {
+      "title_en": "The Flash C Compiler",
+      "url": "https://blog.adafruit.com/2026/10/31/flash-c-compiler/",
+      "title_zh": "Flash C 编译器",
+      "is_new": true,
+      "created_display": "Created: Nov 03, 2026 / 06:49 PT",
+      "image_url": null,
+      "summary_en": "Flash C is a C compiler.",
+      "summary_zh": "Flash C 是一个 C 编译器。",
+      "hn": {
+        "id": 50352701,
+        "type": "story",
+        "by": "AlexeyBrin",
+        "score": 97,
+        "descendants": 51,
+        "time": 1793717382,
+        "comments_url": "https://news.ycombinator.com/item?id=50352701"
+      },
+      "tags": [
+        "Programming"
+      ],
+      "hot_score": 0.02
+    },
+    {
+      "title_en": "ToothPaste",
+      "url": "https://brisk4t.github.io/blog/toothpaste/",
+      "title_zh": "ToothPaste",
+      "is_new": true,
+      "created_display": "Created: Nov 03, 2026 / 10:27 PT",
+      "image_url": "https://github.githubassets.com/favicons/favicon.svg",
+      "summary_en": "ToothPaste wirelessly transmits AES-256-encrypted keyboard and mouse commands to USB-compatible devices. It uses Web Bluetooth, a cryptographic IC, and an ESP32-S3, without requiring specialized drivers or extensive setup. The project is designed for cross-platform device control.",
+      "summary_zh": "ToothPaste 可将经过 AES-256 加密的键盘和鼠标指令无线传输到兼容 USB 的设备。它使用 Web Bluetooth、加密芯片和 ESP32-S3，无需专用驱动或复杂配置。该项目面向跨平台设备控制。",
+      "hn": {
+        "id": 50356037,
+        "type": "story",
+        "by": "speckx",
+        "score": 79,
+        "descendants": 17,
+        "time": 1793730447,
+        "comments_url": "https://news.ycombinator.com/item?id=50356037"
+      },
+      "hot_score": 0.02,
+      "tags": [
+        "Security",
+        "Hardware"
+      ]
+    },
+    {
+      "title_en": "Text.js: Build full-stack React apps that render inside console.log",
+      "url": "https://textjs.org/",
+      "title_zh": "Text.js：让全栈 React 应用渲染在 console.log 中",
+      "is_new": true,
+      "created_display": "Created: Nov 03, 2026 / 20:59 PT",
+      "image_url": "https://textjs.org/og/home.png?v=bf3d2223",
+      "summary_en": "Text.js is a React framework for building full-stack applications that render inside the browser’s DevTools console. Its page itself runs in the console and provides keyboard shortcuts for opening developer tools. The framework presents console rendering as an alternative interface for React applications.",
+      "summary_zh": "Text.js 是一个 React 框架，用于构建渲染在浏览器开发者工具控制台中的全栈应用。它的页面本身也会在控制台中运行，并提供打开开发者工具的快捷键。该框架将控制台渲染作为 React 应用的一种替代界面。",
+      "hn": {
+        "id": 50361657,
+        "type": "story",
+        "by": "nateb2022",
+        "score": 54,
+        "descendants": 22,
+        "time": 1793768376,
+        "comments_url": "https://news.ycombinator.com/item?id=50361657"
+      },
+      "hot_score": 0.02,
+      "tags": [
+        "Programming",
+        "Web"
+      ]
+    },
+    {
+      "title_en": "Building the NBC News Big Board",
+      "url": "https://ejfox.com/projects/nbc-big-board",
+      "title_zh": "构建 NBC News 的选举“大看板”",
+      "is_new": true,
+      "created_display": "Created: Nov 03, 2026 / 20:09 PT",
+      "image_url": "https://res.cloudinary.com/ejf/image/upload/c_fill,g_auto,w_1200,h_630,f_jpg,q_auto/v1666630396/project-images/nbc_bigboard.png",
+      "summary_en": "The NBC News Big Board began as a touchscreen prototype for exploring county-level election results and later became the on-air display used by Steve Kornacki. Michael Small and the author built it with NBC News Digital’s product and technology teams for live broadcasts watched by about 10 million people. The system had to support last-minute scorecard filters while leaving no room for errors during live election coverage.",
+      "summary_zh": "NBC News 的选举“大看板”最初是一个用于浏览县级选举结果的触摸屏原型，后来成为 Steve Kornacki 在节目中使用的直播显示系统。作者与 Michael Small 及 NBC News Digital 的产品和技术团队共同完成了它，直播时约有 1000 万人观看。系统还必须支持临时添加计分卡筛选条件，同时在选举直播中几乎不能出错。",
+      "hn": {
+        "id": 50361417,
+        "type": "story",
+        "by": "whalesalad",
+        "score": 54,
+        "descendants": 20,
+        "time": 1793765388,
+        "comments_url": "https://news.ycombinator.com/item?id=50361417"
+      },
+      "hot_score": 0.02,
+      "tags": [
+        "Web",
+        "Business",
+        "Politics"
+      ]
+    },
+    {
+      "title_en": "British Library Legal deposit and web archiving",
+      "url": "https://www.bl.uk/services/legal-deposit/web-archiving",
+      "title_zh": "英国图书馆的法定缴存与网络存档",
+      "is_new": true,
+      "created_display": "Created: Nov 03, 2026 / 06:56 PT",
+      "image_url": null,
+      "summary_en": "The British Library and other legal deposit libraries are legally entitled to copy UK-published material from the internet for archival purposes. The page explains how they identify UK websites and describes the restrictions that apply to legal-deposit web archiving. The framework extends legal deposit practices to online material.",
+      "summary_zh": "大英图书馆及其他法定缴存图书馆依法有权复制互联网上在英国出版的材料，用于存档。该页面说明了它们如何识别英国网站，以及网络法定缴存存档所受的限制。这套制度将法定缴存实践延伸到了在线材料。",
+      "hn": {
+        "id": 50352791,
+        "type": "story",
+        "by": "robtherobber",
+        "score": 48,
+        "descendants": 24,
+        "time": 1793717790,
+        "comments_url": "https://news.ycombinator.com/item?id=50352791"
+      },
+      "hot_score": 0.01,
+      "tags": [
+        "Legal"
+      ]
+    },
+    {
+      "title_en": "Tasfer: a text editor drawn on a 2D canvas",
+      "url": "https://www.hamza.se/blog/tasfer",
+      "title_zh": "Tasfer：绘制在二维画布上的文本编辑器",
+      "is_new": true,
+      "created_display": "Created: Nov 03, 2026 / 12:58 PT",
+      "image_url": "https://www.hamza.se/images/og-illustration.jpg",
+      "summary_en": "Tasfer is an open-source web text editor built on a 2D canvas instead of contentEditable. It includes peer-to-peer collaboration and requires no accounts. The author chose this approach to avoid contentEditable’s browser-dependent HTML changes, selection problems, and messy paste behavior.",
+      "summary_zh": "Tasfer 是一个开源网页文本编辑器，使用二维画布构建，而不是依赖 contentEditable。它支持点对点协作，且无需账户。作者采用这种方式，是为了避开 contentEditable 带来的浏览器间 HTML 行为差异、光标选择问题和粘贴内容混乱等问题。",
+      "hn": {
+        "id": 50358094,
+        "type": "story",
+        "by": "hamza512b",
+        "score": 46,
+        "descendants": 20,
+        "time": 1793739520,
+        "comments_url": "https://news.ycombinator.com/item?id=50358094"
+      },
+      "hot_score": 0.01,
+      "tags": [
+        "Open Source",
+        "Programming",
+        "Web"
+      ]
+    },
+    {
+      "title_en": "Optimising the Rail Cube",
+      "url": "https://owenlacey.dev/railcube-optimisation/post",
+      "title_zh": "优化 Rail Cube",
+      "is_new": true,
+      "created_display": "Created: Nov 03, 2026 / 12:31 PT",
+      "image_url": "https://owenlacey.dev/img/uploads/optimising-the-rail-cube/hero.png",
+      "summary_en": "The project is an interactive Rail Cube track that currently displays a prompt for a shape string. It is described as resembling a combination of model trains and LEGO. No optimization results are provided in the available context.",
+      "summary_zh": "这是一个交互式 Rail Cube 轨道项目，目前会提示用户输入形状字符串。作者将它形容为模型火车与乐高的结合体。现有信息未提供具体的优化结果。",
+      "hn": {
+        "id": 50357763,
+        "type": "story",
+        "by": "owenlacey",
+        "score": 16,
+        "descendants": 1,
+        "time": 1793737886,
+        "comments_url": "https://news.ycombinator.com/item?id=50357763"
+      },
+      "hot_score": 0.0,
+      "tags": [
+        "Programming"
+      ]
+    },
+    {
+      "title_en": "ZeBridge – PostgreSQL replicas on devices, synchronized over NATS",
+      "url": "https://github.com/ndrean/ZeBridge",
+      "title_zh": "ZeBridge：通过 NATS 同步设备上的 PostgreSQL 副本",
+      "is_new": true,
+      "created_display": "Created: Nov 03, 2026 / 09:11 PT",
+      "image_url": "https://opengraph.githubassets.com/c38d4fab0e91473c3a6cb447d4f8b05901386d035b74c21f41a6431f9e02677e/ndrean/ZeBridge",
+      "summary_en": "ZeBridge is a bidirectional, local-first synchronization engine connecting PostgreSQL with edge SQLite, PGLITE, PostgreSQL, and DuckDB clients over NATS. It keeps a local database on each device and queues writes while the device is offline. When connectivity returns, PostgreSQL remains authoritative by applying rules, resolving conflicts, and returning a result to the application.",
+      "summary_zh": "ZeBridge 是一个双向、以本地优先为理念的同步引擎，通过 NATS 连接 PostgreSQL 与边缘端的 SQLite、PGLITE、PostgreSQL 和 DuckDB 客户端。它在每台设备上保留本地数据库，并在离线时排队保存写入操作。重新连接后，PostgreSQL 仍是权威数据源，负责应用规则、解决冲突并向应用返回结果。",
+      "hn": {
+        "id": 50354763,
+        "type": "story",
+        "by": "ndrean",
+        "score": 14,
+        "descendants": 1,
+        "time": 1793725892,
+        "comments_url": "https://news.ycombinator.com/item?id=50354763"
+      },
+      "hot_score": 0.0,
+      "tags": [
+        "Data",
+        "Programming"
+      ]
+    },
+    {
+      "title_en": "The Typo Generation Is Damaging Literature",
+      "url": "https://www.metropolitanreview.org/p/the-typo-generation-is-damaging-literature",
+      "title_zh": "错别字一代正在损害文学",
+      "is_new": true,
+      "created_display": "Created: Nov 04, 2026 / 12:05 PT",
+      "image_url": "https://substackcdn.com/image/fetch/$s_!Sm1P!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc384475d-06d2-43bf-b819-885901798bbf_3072x2048.jpeg",
+      "summary_en": "The discussion concerns Percival Everett’s The Trees and the problem of errors in contemporary books. One response agrees that frustrating typos are common in modern publishing but disputes claims about how certain literary passages should be interpreted. The response specifically questions treating invented lynching victims with real names and a broadcast transcript as straightforward mistakes.",
+      "summary_zh": "这场讨论围绕珀西瓦尔·埃弗里特的《树》和当代书籍中的错误展开。一位回应者同意现代出版物中令人困扰的错别字很常见，但不同意对某些文学段落的解读。回应特别质疑把使用真实姓名的虚构私刑受害者，以及一段广播文字稿，直接视为错误的说法。",
+      "hn": {
+        "id": 50370787,
+        "type": "story",
+        "by": "bryanrasmussen",
+        "score": 12,
+        "descendants": 2,
+        "time": 1793822756,
+        "comments_url": "https://news.ycombinator.com/item?id=50370787"
+      },
+      "hot_score": 0.0,
+      "tags": [
+        "Culture"
+      ]
+    }
+  ]
+}
