@@ -5,7 +5,7 @@
     <link>https://chaowang15.github.io/hackernews/</link>
     <description>Curated daily digest of top Hacker News stories with AI-generated summaries, tags, and bilingual translations.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 06 Nov 2026 19:47:45 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 07:01:25 +0000</lastBuildDate>
     <generator>Hacker News Daily RSS Builder</generator>
     <atom:link href="https://chaowang15.github.io/hackernews/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
@@ -29,7 +29,7 @@
       <category>Security</category>
       <description>&lt;p&gt;OpenSSH on musl Linux has reportedly allowed access to passwordless accounts since 2016. The issue relates to how Unix historically represented accounts that should never permit login, including accounts marked with an asterisk in the password file. The behavior can therefore expose accounts that were intended to be inaccessible.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;据报道，musl Linux 上的 OpenSSH 自 2016 年起可能允许进入无密码账户。问题与 Unix 处理本应禁止登录的账户的历史方式有关，包括在密码文件中用星号标记的账户。因此，原本应不可访问的账户可能被暴露。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 2894 · 💬 709 · Security&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 2921 · 💬 734 · Security&lt;/small&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50378228&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/06/top_stories_11062026#story-50378228&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
@@ -121,7 +121,7 @@
       <category>Security</category>
       <description>&lt;p&gt;A reported Claude Code bug exposed a user's email address to arbitrary third parties in the User-Agent header during web searches. The user says this happened without permission and was followed by a large increase in scam emails. They argue that the behavior should be removed rather than controlled by an opt-in or opt-out setting.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;有用户报告称，Claude Code 在进行网页搜索时，会通过 User-Agent 请求头将其邮箱地址暴露给任意第三方。该用户表示，未经允许发生这一行为后，自己收到的诈骗邮件大幅增加。用户认为，这种行为不应通过加入或退出选项控制，而应从系统中彻底移除。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 1523 · 💬 479 · AI · Privacy · Security&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 1566 · 💬 502 · AI · Privacy · Security&lt;/small&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50385272&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/06/top_stories_11062026#story-50385272&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
@@ -175,6 +175,18 @@
 &lt;p&gt;&lt;em&gt;标题称，Cursor Marketplace 上分发的 Claude Code for VS Code 扩展中存在后门。提供的上下文没有更多可靠细节。&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;▲ 1010 · 💬 553 · Security · AI&lt;/small&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50300683&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/03/top_stories_11032026#story-50300683&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Tesla to wind down Cybertruck production</title>
+      <link>https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50391456</guid>
+      <dc:creator>PLenz</dc:creator>
+      <pubDate>Fri, 06 Nov 2026 12:13:51 +0000</pubDate>
+      <category>Business</category>
+      <description>&lt;p&gt;Tesla CEO Elon Musk said Cybertruck production at the company's Texas gigafactory will wind down around mid-2027. He said the move will make room for higher production of the newly launched Cybercab, central to Tesla's robotaxi plans. Cybertruck sales have remained weak, and it has sold in only a limited number of markets. It remains unclear whether production will move elsewhere or end entirely.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;特斯拉 CEO 埃隆·马斯克表示，公司位于得州的超级工厂将在 2027 年年中左右逐步停止生产 Cybertruck。他称，此举将为提高新款 Cybercab 的产量腾出空间，而 Cybercab 是特斯拉机器人出租车计划的核心车型。Cybertruck 销量长期疲软，目前仅在少数市场销售。该车型是转移到其他工厂生产还是彻底停产，目前尚不清楚。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 962 · 💬 1816 · Business&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50391456&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/06/top_stories_11062026#story-50391456&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Jailbreaking my car's navigation system just so I can change the time</title>
@@ -313,6 +325,32 @@
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50324388&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/02/top_stories_11022026#story-50324388&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>MS Paint Remote Code Execution Vulnerability</title>
+      <link>https://www.cve.org/CVERecord?id=CVE-2026-83844</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50384233</guid>
+      <dc:creator>kuberwastaken</dc:creator>
+      <pubDate>Thu, 05 Nov 2026 20:43:42 +0000</pubDate>
+      <category>Security</category>
+      <description>&lt;p&gt;A remote code execution vulnerability has been reported in Microsoft Paint. The issue could allow code to run remotely when exploited.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;微软画图工具被报告存在远程代码执行漏洞。攻击者利用该问题后，可能在远程执行代码。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 704 · 💬 276 · Security&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50384233&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/06/top_stories_11062026#story-50384233&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Blender's UI and Runtime: Much Faster Than GPUI</title>
+      <link>https://github.com/ppmpreetham/BUI</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50389333</guid>
+      <dc:creator>ppmpreetham</dc:creator>
+      <pubDate>Fri, 06 Nov 2026 07:40:35 +0000</pubDate>
+      <category>Programming</category>
+      <category>Hardware</category>
+      <category>Web</category>
+      <description>&lt;p&gt;BUI is a GPU-accelerated Blender user interface decoupled from Blender's original codebase. It supports Rust, Python, JavaScript, React, C, and C++. The project describes its performance as twice that of GPUI.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;BUI 是一个与 Blender 原始代码库解耦的 GPU 加速用户界面。它支持 Rust、Python、JavaScript、React、C 和 C++。项目方称其性能是 GPUI 的两倍。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 691 · 💬 281 · Programming · Hardware · Web&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50389333&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/06/top_stories_11062026#story-50389333&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>AI isn't replacing SREs, it's deskilling them</title>
       <link>https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling</link>
       <guid isPermaLink="true">https://news.ycombinator.com/item?id=50305693</guid>
@@ -348,6 +386,18 @@
 &lt;p&gt;&lt;em&gt;Kagi 现在允许任何人使用网页搜索，前 50 次搜索无需创建账户。注册后还可额外获得 100 次搜索。这个付费搜索引擎表示自己不投放广告，而是依靠社区推荐和口碑传播。&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;▲ 651 · 💬 331 · Web&lt;/small&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50383740&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/05/top_stories_11052026#story-50383740&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Dutch 'idealist' bank ASN blocks non-Google Android, including GrapheneOS</title>
+      <link>https://github.com/PrivSec-dev/banking-apps-compat-report/issues/105</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50390124</guid>
+      <dc:creator>microtonal</dc:creator>
+      <pubDate>Fri, 06 Nov 2026 09:27:12 +0000</pubDate>
+      <category>Privacy</category>
+      <description>&lt;p&gt;A compatibility report examines whether the ASN Bank Android app blocks non-Google Android systems, including GrapheneOS. The report identifies app version 2.40.2 in the Netherlands. One user reported that the app appeared to work on a stock operating system.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;一份兼容性报告调查 ASN Bank 的 Android 应用是否屏蔽包括 GrapheneOS 在内的非 Google Android 系统。报告涉及荷兰地区的 2.40.2 版本。一名用户表示，该应用在原生操作系统上看起来可以正常运行。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 632 · 💬 412 · Privacy&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50390124&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/06/top_stories_11062026#story-50390124&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Kimi K3.1 Pro model weights are out</title>
@@ -413,20 +463,6 @@
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50365755&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/04/top_stories_11042026#story-50365755&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Blender's UI and Runtime: Much Faster Than GPUI</title>
-      <link>https://github.com/ppmpreetham/BUI</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50389333</guid>
-      <dc:creator>ppmpreetham</dc:creator>
-      <pubDate>Fri, 06 Nov 2026 07:40:35 +0000</pubDate>
-      <category>Programming</category>
-      <category>Hardware</category>
-      <category>Web</category>
-      <description>&lt;p&gt;BUI is a GPU-accelerated Blender user interface decoupled from Blender's original codebase. It supports Rust, Python, JavaScript, React, C, and C++. The project describes its performance as twice that of GPUI.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;BUI 是一个与 Blender 原始代码库解耦的 GPU 加速用户界面。它支持 Rust、Python、JavaScript、React、C 和 C++。项目方称其性能是 GPUI 的两倍。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 594 · 💬 242 · Programming · Hardware · Web&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50389333&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/06/top_stories_11062026#story-50389333&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>The $6.3B Binance hack was pulled off in just 20 minutes</title>
       <link>https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/</link>
       <guid isPermaLink="true">https://news.ycombinator.com/item?id=50303172</guid>
@@ -438,18 +474,6 @@
 &lt;p&gt;&lt;em&gt;黑客在约 20 分钟内从币安所属的钱包中跨多个区块链转走了约 63 亿美元的加密货币。币安暂停了存款和提现并展开调查；该交易所及其他加密行业公司称，已冻结约一半被盗资金。剩余的大部分加密货币可能无法通过冻结追回。&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;▲ 594 · 💬 449 · Security · Finance&lt;/small&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50303172&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/02/top_stories_11022026#story-50303172&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Dutch 'idealist' bank ASN blocks non-Google Android, including GrapheneOS</title>
-      <link>https://github.com/PrivSec-dev/banking-apps-compat-report/issues/105</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50390124</guid>
-      <dc:creator>microtonal</dc:creator>
-      <pubDate>Fri, 06 Nov 2026 09:27:12 +0000</pubDate>
-      <category>Privacy</category>
-      <description>&lt;p&gt;A compatibility report examines whether the ASN Bank Android app blocks non-Google Android systems, including GrapheneOS. The report identifies app version 2.40.2 in the Netherlands. One user reported that the app appeared to work on a stock operating system.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;一份兼容性报告调查 ASN Bank 的 Android 应用是否屏蔽包括 GrapheneOS 在内的非 Google Android 系统。报告涉及荷兰地区的 2.40.2 版本。一名用户表示，该应用在原生操作系统上看起来可以正常运行。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 584 · 💬 372 · Privacy&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50390124&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/06/top_stories_11062026#story-50390124&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>AMD expects to outsell Intel in Q4 for the first time in history</title>
@@ -465,6 +489,18 @@
 &lt;p&gt;&lt;em&gt;AMD 预计将在第四季度历史上首次超过英特尔。AI 热潮推动其季度营收创下纪录，但面向客户的业务和游戏业务在进入 2027 年时正面临两位数下滑。这一预测显示，AMD 的 AI 业务增长与传统业务疲软之间的差距正在扩大。&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;▲ 578 · 💬 221 · Business · Finance · AI · Gaming&lt;/small&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50367125&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/05/top_stories_11052026#story-50367125&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Britain to make salary disclosure in job ads mandatory</title>
+      <link>https://www.reuters.com/business/world-at-work/britain-make-salary-disclosure-job-ads-mandatory-2026-11-05/</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50389222</guid>
+      <dc:creator>1659447091</dc:creator>
+      <pubDate>Fri, 06 Nov 2026 07:22:04 +0000</pubDate>
+      <category>Politics</category>
+      <description>&lt;p&gt;Britain plans to make salary disclosure mandatory in job advertisements. Employers would have to include pay information when advertising open positions.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;英国计划强制招聘广告披露薪资信息。雇主发布职位空缺时将必须列出薪酬信息。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 577 · 💬 437 · Politics&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50389222&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/06/top_stories_11062026#story-50389222&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Lenovo's 'encrypted' fingerprint USB is just an unencrypted SD card in a case</title>
@@ -490,18 +526,6 @@
 &lt;p&gt;&lt;em&gt;Salon 宣布，在出版 31 年后将停止运营。该出版物将自己的历史描述为一次探索新闻业可能形态的尝试，起步于互联网仍处于早期阶段之时。&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;▲ 557 · 💬 212 · Business&lt;/small&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50383739&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/05/top_stories_11052026#story-50383739&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Tesla to wind down Cybertruck production</title>
-      <link>https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50391456</guid>
-      <dc:creator>PLenz</dc:creator>
-      <pubDate>Fri, 06 Nov 2026 12:13:51 +0000</pubDate>
-      <category>Business</category>
-      <description>&lt;p&gt;Tesla CEO Elon Musk said Cybertruck production at the company's Texas gigafactory will wind down around mid-2027. He said the move will make room for higher production of the newly launched Cybercab, central to Tesla's robotaxi plans. Cybertruck sales have remained weak, and it has sold in only a limited number of markets. It remains unclear whether production will move elsewhere or end entirely.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;特斯拉 CEO 埃隆·马斯克表示，公司位于得州的超级工厂将在 2027 年年中左右逐步停止生产 Cybertruck。他称，此举将为提高新款 Cybercab 的产量腾出空间，而 Cybercab 是特斯拉机器人出租车计划的核心车型。Cybertruck 销量长期疲软，目前仅在少数市场销售。该车型是转移到其他工厂生产还是彻底停产，目前尚不清楚。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 547 · 💬 1241 · Business&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50391456&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/06/top_stories_11062026#story-50391456&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>OccupySaaS</title>
@@ -542,6 +566,20 @@
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50366117&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/05/top_stories_11052026#story-50366117&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Cuban: Facebook knowingly runs AI deepfake scam ads; docs say $16B fraud revenue</title>
+      <link>https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50385870</guid>
+      <dc:creator>randycupertino</dc:creator>
+      <pubDate>Thu, 05 Nov 2026 23:09:57 +0000</pubDate>
+      <category>AI</category>
+      <category>Security</category>
+      <category>Business</category>
+      <description>&lt;p&gt;Mark Cuban says AI-generated scam ads have used his face to promote a diabetes cure he never sold. He says people contact him every week believing they bought the supposed cure for $294. The claims come amid allegations that Facebook knowingly runs such deepfake scam advertising.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;马克·库班表示，利用其肖像的 AI 生成诈骗广告正在推广他从未销售过的糖尿病疗法。他说，每周都有人联系他，以为自己花 294 美元买到了这种所谓疗法。这些说法出现之际，Facebook 被指控明知相关深度伪造诈骗广告存在却仍在投放。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 505 · 💬 224 · AI · Security · Business&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50385870&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/06/top_stories_11062026#story-50385870&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Safari introduces Adaptive Dark Mode in 27.3</title>
       <link>https://webkit.org/blog/18541/introducing-adaptive-dark-mode/</link>
       <guid isPermaLink="true">https://news.ycombinator.com/item?id=50358562</guid>
@@ -568,16 +606,16 @@
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50319358&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/02/top_stories_11022026#story-50319358&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>MS Paint Remote Code Execution Vulnerability</title>
-      <link>https://www.cve.org/CVERecord?id=CVE-2026-83844</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50384233</guid>
-      <dc:creator>kuberwastaken</dc:creator>
-      <pubDate>Thu, 05 Nov 2026 20:43:42 +0000</pubDate>
-      <category>Security</category>
-      <description>&lt;p&gt;A remote code execution vulnerability has been reported in Microsoft Paint. The issue could allow code to run remotely when exploited.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;微软画图工具被报告存在远程代码执行漏洞。攻击者利用该问题后，可能在远程执行代码。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 484 · 💬 177 · Security&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50384233&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/05/top_stories_11052026#story-50384233&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+      <title>Libghostty 1.0</title>
+      <link>https://mitchellh.com/writing/libghostty-1-0</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50399933</guid>
+      <dc:creator>mfiguiere</dc:creator>
+      <pubDate>Fri, 06 Nov 2026 23:30:52 +0000</pubDate>
+      <category>Programming</category>
+      <description>&lt;p&gt;libghostty-vt 1.0 has been released as a portable, high-performance C library for terminal emulation, extracted from Ghostty’s core. Both the library and its C ABI are now stable. The C API has grown from nonexistent to a complete terminal emulator used in production by millions of people across hundreds of free and commercial products.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;libghostty-vt 1.0 已发布，这是一个从 Ghostty 核心提取出的便携、高性能终端模拟 C 库。该库本身及其 C ABI 现已稳定。其 C API 已从无到有发展为完整的终端模拟器，目前已在数百款免费和商业产品中投入生产，服务数百万人。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 484 · 💬 78 · Programming&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50399933&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/06/top_stories_11062026#story-50399933&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>US boy names that became girl names and vice versa</title>
@@ -603,45 +641,6 @@
 &lt;p&gt;&lt;em&gt;OpenAI 构建了一个自主流水线，用于发现、验证并为 Linux 内核中的 948 个本地提权漏洞生成补丁。在一次运行中，该系统借助其网络安全模型完成了漏洞验证和补丁生成，API 成本为 120 万美元。这项工作表明，部分安全研究正逐渐可以作为系统化的自动流程来执行。&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;▲ 478 · 💬 356 · AI · Security&lt;/small&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50372929&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/05/top_stories_11052026#story-50372929&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Northflank Breached</title>
-      <link>https://status.northflank.com</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50305025</guid>
-      <dc:creator>js4ever</dc:creator>
-      <pubDate>Fri, 30 Oct 2026 15:10:31 +0000</pubDate>
-      <category>Security</category>
-      <category>DevOps</category>
-      <description>&lt;p&gt;Northflank says secret rotation for MySQL and Redis is now available to all customers and advises customers to rotate secrets if they have not already. It has also enabled audit logs for all customers, including free users.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Northflank 表示，所有客户现在都可以轮换 MySQL 和 Redis 密钥，并建议尚未操作的客户立即轮换。该平台还为包括免费用户在内的所有客户启用了审计日志。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 477 · 💬 361 · Security · DevOps&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50305025&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/01/top_stories_11012026#story-50305025&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>The AI cost of JavaScript frameworks</title>
-      <link>https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50323088</guid>
-      <dc:creator>luu</dc:creator>
-      <pubDate>Sun, 01 Nov 2026 06:06:19 +0000</pubDate>
-      <category>AI</category>
-      <category>Programming</category>
-      <description>&lt;p&gt;The discussion challenges the web development community's tendency to describe frameworks and tools with unsupported claims such as “blazing fast” or “supercharge your development.” It argues that many choices have historically been justified by developer experience and intuition rather than evidence. The focus is on examining the measurable costs of JavaScript frameworks in an era of AI-assisted development.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;文章质疑 Web 开发社区习惯用“快如闪电”或“显著提升开发效率”等缺乏证据的说法描述框架和工具。它指出，许多技术选择长期以来更多是依据开发者体验和直觉，而非实证来论证的。文章将关注点放在 AI 辅助开发时代 JavaScript 框架可衡量的成本上。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 468 · 💬 384 · AI · Programming&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50323088&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/02/top_stories_11022026#story-50323088&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Police chief unplugs cameras after Flock ignores contract cancellation</title>
-      <link>https://www.thedrive.com/news/my-city-canceled-flocks-contract-flock-ignored-it-so-the-police-chief-unplugged-the-cameras</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50326118</guid>
-      <dc:creator>entryleveljobsc</dc:creator>
-      <pubDate>Sun, 01 Nov 2026 14:36:13 +0000</pubDate>
-      <category>Privacy</category>
-      <category>Politics</category>
-      <description>&lt;p&gt;Plymouth canceled its contract with Flock after cameras wrongly flagged a couple who were later confronted by police. The city suspended user accounts and formally notified Flock, but the cameras remained installed a month later and the company had not said when it would remove them. Police Chief Eric Fadden said the department had stopped using the Flock ALPR system after the city council’s decision.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Plymouth 市因 Flock 摄像头错误标记一对夫妇、导致警方随后对其采取行动而取消了合同。市政府暂停了用户账户并正式通知 Flock，但一个月后摄像头仍未拆除，公司也没有说明何时移除。警察局长 Eric Fadden 表示，市议会作出决定后，部门已停止使用 Flock 的自动车牌识别系统。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 467 · 💬 162 · Privacy · Politics&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50326118&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/02/top_stories_11022026#story-50326118&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

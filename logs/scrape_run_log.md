@@ -30,3 +30,4 @@ New standalone-repository runs are appended below.
 | Time (PST) | Trigger | Mode | Duration | Total Items | New (LLM) | Reused (same-day) | Reused (cross-day) | Tokens | Cost (USD) | Note |
 |------------|---------|------|----------|------------:|----------:|------------------:|-------------------:|------:|-----------:|------|
 | 11:47:40 | manual | top | 176s | 50 | 45 | 0 | 5 | 28,842 | $0.0144 | Morning 50 |
+| 23:01:21 | schedule | top | 133s | 100 | 39 | 50 | 11 | 26,150 | $0.0128 | All 100 |
