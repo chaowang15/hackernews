@@ -5,7 +5,7 @@
     <link>https://chaowang15.github.io/hackernews/</link>
     <description>Curated daily digest of top Hacker News stories with AI-generated summaries, tags, and bilingual translations.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 08 Nov 2026 07:09:49 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 19:23:15 +0000</lastBuildDate>
     <generator>Hacker News Daily RSS Builder</generator>
     <atom:link href="https://chaowang15.github.io/hackernews/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
@@ -236,6 +236,18 @@
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50312408&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/03/top_stories_11032026#story-50312408&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Every Mac comes with an (undocumented) family member classifier</title>
+      <link>https://8rank.ai/game/apple-intelligence-personal-knowledge-graph</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50403097</guid>
+      <dc:creator>infwhispers</dc:creator>
+      <pubDate>Sat, 07 Nov 2026 09:46:03 +0000</pubDate>
+      <category>Privacy</category>
+      <description>&lt;p&gt;The post claims that every Mac since macOS 13, released in 2022, includes two daemons that build a graph of the user’s relationships and activities. The graph is described as covering contacts, relationships, communications, locations, activities, and timing.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;文章称，自 2022 年发布的 macOS 13 起，每台 Mac 都包含两个用于构建用户关系和活动图谱的后台进程。该图谱据称涵盖联系人、彼此关系、通信、位置、活动及时间信息。文章还分析了这一系统的工作方式，并提供了查看个人设备上该图谱的工具。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 823 · 💬 437 · Privacy&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50403097&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/08/top_stories_11082026#story-50403097&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Stringman, an $800 open-source room scale gripper robot</title>
       <link>https://neufangled.com/</link>
       <guid isPermaLink="true">https://news.ycombinator.com/item?id=50354358</guid>
@@ -312,6 +324,18 @@
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50355251&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/04/top_stories_11042026#story-50355251&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>What I run on my $10 USD OpenStick homelab</title>
+      <link>https://blog.bosscher.ch/posts/openstick/</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50406670</guid>
+      <dc:creator>LaurensBER</dc:creator>
+      <pubDate>Sat, 07 Nov 2026 18:12:12 +0000</pubDate>
+      <category>Hardware</category>
+      <description>&lt;p&gt;The author bought an OpenStick for $10 including shipping, mainly because it was an unusual and appealing piece of hardware. Although the device is less powerful than many modern watches, it can still support enjoyable self-hosting experiments. The project demonstrates how a very inexpensive, tiny computer can serve as an entry point to homelabbing.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;作者花 10 美元（含运费）买了一台 OpenStick，主要是因为这款硬件新奇而有趣。它的性能可能还不如许多现代智能手表，但仍然适合进行有趣的自托管实验。这个项目展示了廉价小设备如何成为入门家庭实验室的起点。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 723 · 💬 128 · Hardware&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50406670&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/08/top_stories_11082026#story-50406670&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Tell HN: Gemini trains on chat history, even for subscribers (personal accounts)</title>
       <link>https://news.ycombinator.com/item?id=50363461</link>
       <guid isPermaLink="true">https://news.ycombinator.com/item?id=50363461</guid>
@@ -347,31 +371,6 @@
 &lt;p&gt;&lt;em&gt;微软画图工具被报告存在远程代码执行漏洞。攻击者利用该问题后，可能在远程执行代码。&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;▲ 704 · 💬 276 · Security&lt;/small&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50384233&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/06/top_stories_11062026#story-50384233&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Every Mac comes with an (undocumented) family member classifier</title>
-      <link>https://8rank.ai/game/apple-intelligence-personal-knowledge-graph</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50403097</guid>
-      <dc:creator>infwhispers</dc:creator>
-      <pubDate>Sat, 07 Nov 2026 09:46:03 +0000</pubDate>
-      <category>Privacy</category>
-      <description>&lt;p&gt;The post claims that every Mac since macOS 13, released in 2022, includes two daemons that build a graph of the user’s relationships and activities. The graph is described as covering contacts, relationships, communications, locations, activities, and timing.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;文章称，自 2022 年发布的 macOS 13 起，每台 Mac 都包含两个用于构建用户关系和活动图谱的后台进程。该图谱据称涵盖联系人、彼此关系、通信、位置、活动及时间信息。文章还分析了这一系统的工作方式，并提供了查看个人设备上该图谱的工具。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 686 · 💬 372 · Privacy&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50403097&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/07/top_stories_11072026#story-50403097&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>AI isn't replacing SREs, it's deskilling them</title>
-      <link>https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50305693</guid>
-      <dc:creator>dorianniemiec</dc:creator>
-      <pubDate>Fri, 30 Oct 2026 15:52:18 +0000</pubDate>
-      <category>AI</category>
-      <category>DevOps</category>
-      <description>&lt;p&gt;The piece asks whether engineers become less capable when AI handles 95% of incident response, leaving humans with only the most difficult 5%. It argues that a human should remain responsible for carrying out actions, citing a historical example from the US Navy. In novel incidents, the author describes using AI alongside human observation and reasoning to narrow down possible root causes. The result is presented as continued human participation rather than complete replacement.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;文章提出疑问：如果 AI 处理了95%的事故响应，人类只面对最关键的5%，工程师是否会因此变得不那么熟练。文章援引美国海军的历史案例，主张始终应由人类负责执行操作。面对新型事故时，作者会结合自身观察和推理使用 AI，以逐步排除可能的根因。文中描述的是人机协作，而不是完全取代人类。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 662 · 💬 482 · AI · DevOps&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50305693&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/01/top_stories_11012026#story-50305693&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>If you love a website, back it up</title>
@@ -486,6 +485,18 @@
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50303172&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/02/top_stories_11022026#story-50303172&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Goodbye Claude, hello Pi</title>
+      <link>https://caleb.software/posts/claude-to-pi.html</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50410107</guid>
+      <dc:creator>karagenit</dc:creator>
+      <pubDate>Sun, 08 Nov 2026 03:11:48 +0000</pubDate>
+      <category>AI</category>
+      <description>&lt;p&gt;The author had used Claude Code for more than a year, beginning when it became available through the Claude Pro subscription. Despite considering its release an important moment for software development, the author accumulated enough small frustrations to stop using it as the main coding harness. Their development setup is now being migrated to Pi.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;作者从 Claude Code 随 Claude Pro 订阅推出后就开始使用，至今已有一年多。尽管作者认为它的发布可能会成为软件开发史上的重要节点，但长期积累的许多小问题最终让作者不再把它作为主要编程工具。作者目前正将开发环境迁移到 Pi。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 592 · 💬 384 · AI&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50410107&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/08/top_stories_11082026#story-50410107&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>AMD expects to outsell Intel in Q4 for the first time in history</title>
       <link>https://www.tomshardware.com/pc-components/cpus/amd-expects-to-outsell-intel-in-q4-for-the-first-time-in-history-usd17b-guidance-would-exceed-intels-projections</link>
       <guid isPermaLink="true">https://news.ycombinator.com/item?id=50367125</guid>
@@ -589,16 +600,30 @@
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50366117&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/05/top_stories_11052026#story-50366117&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>What I run on my $10 USD OpenStick homelab</title>
-      <link>https://blog.bosscher.ch/posts/openstick/</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50406670</guid>
-      <dc:creator>LaurensBER</dc:creator>
-      <pubDate>Sat, 07 Nov 2026 18:12:12 +0000</pubDate>
-      <category>Hardware</category>
-      <description>&lt;p&gt;The author bought an OpenStick for $10 including shipping, mainly because it was an unusual and appealing piece of hardware. Although the device is less powerful than many modern watches, it can still support enjoyable self-hosting experiments. The project demonstrates how a very inexpensive, tiny computer can serve as an entry point to homelabbing.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;作者花 10 美元（含运费）买了一台 OpenStick，主要是因为这款硬件新奇而有趣。它的性能可能还不如许多现代智能手表，但仍然适合进行有趣的自托管实验。这个项目展示了廉价小设备如何成为入门家庭实验室的起点。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 509 · 💬 99 · Hardware&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50406670&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/07/top_stories_11072026#story-50406670&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+      <title>Claude Code's &quot;Don't Ask Again&quot; exposes passwords in 1,122 public GitHub files</title>
+      <link>https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50407882</guid>
+      <dc:creator>shmulc</dc:creator>
+      <pubDate>Sat, 07 Nov 2026 20:45:32 +0000</pubDate>
+      <category>Security</category>
+      <category>AI</category>
+      <category>Programming</category>
+      <description>&lt;p&gt;Claude Code's &quot;Don't Ask Again&quot; feature exposed passwords in 1,122 public GitHub files.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Claude Code 的“不要再询问”功能导致密码出现在 1,122 个公开 GitHub 文件中。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 519 · 💬 379 · Security · AI · Programming&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50407882&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/08/top_stories_11082026#story-50407882&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Apple’s grey list: Words and phrases your iPhone won’t help you spell</title>
+      <link>https://www.theguardian.com/technology/2026/nov/06/struggling-to-spell-male-chauvinist-pig-apple-grey-list-means-your-iphone-wont-help-you</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50406111</guid>
+      <dc:creator>user_7832</dc:creator>
+      <pubDate>Sat, 07 Nov 2026 17:06:36 +0000</pubDate>
+      <category>Privacy</category>
+      <description>&lt;p&gt;Research found that Apple restricts predictive-text completion for more than 100,000 words and phrases. The restrictions affect swipe typing, in which users glide a finger across the keyboard instead of tapping each character. As a result, an iPhone may refuse to complete some unusual or sensitive phrases even when users try to enter them by gesture.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;研究发现，苹果限制了超过 10 万个词语和短语的预测文本补全功能。这些限制会影响滑行输入，即用户用手指划过键盘，而不是逐字点击。结果是，即使用户尝试通过滑行输入，iPhone 也可能不会补全某些不寻常或敏感的短语。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 511 · 💬 330 · Privacy&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50406111&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/08/top_stories_11082026#story-50406111&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Cuban: Facebook knowingly runs AI deepfake scam ads; docs say $16B fraud revenue</title>
@@ -613,32 +638,6 @@
 &lt;p&gt;&lt;em&gt;马克·库班表示，利用其肖像的 AI 生成诈骗广告正在推广他从未销售过的糖尿病疗法。他说，每周都有人联系他，以为自己花 294 美元买到了这种所谓疗法。这些说法出现之际，Facebook 被指控明知相关深度伪造诈骗广告存在却仍在投放。&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;▲ 505 · 💬 224 · AI · Security · Business&lt;/small&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50385870&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/06/top_stories_11062026#story-50385870&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Safari introduces Adaptive Dark Mode in 27.3</title>
-      <link>https://webkit.org/blog/18541/introducing-adaptive-dark-mode/</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50358562</guid>
-      <dc:creator>paddingtone</dc:creator>
-      <pubDate>Tue, 03 Nov 2026 21:39:05 +0000</pubDate>
-      <category>Web</category>
-      <description>&lt;p&gt;Safari 27.3 beta introduces Adaptive Dark Mode. When enabled by a user, Safari adapts light-themed websites and presents them in a dark appearance.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Safari 27.3 beta 引入了自适应深色模式。用户启用该功能后，Safari 会调整浅色网站，将其以深色外观呈现。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 504 · 💬 259 · Web&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50358562&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/04/top_stories_11042026#story-50358562&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Anthropic blocks users for anything touching training larger models</title>
-      <link>https://twitter.com/jiahaoshao1/status/2116475922190922088</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50319358</guid>
-      <dc:creator>pretext</dc:creator>
-      <pubDate>Sat, 31 Oct 2026 19:39:19 +0000</pubDate>
-      <category>AI</category>
-      <category>Legal</category>
-      <category>Open Source</category>
-      <description>&lt;p&gt;A user says Anthropic blocked their account after flagging work involving reinforcement fine-tuning, supervised fine-tuning, or training larger models as “training a competitor.” The user says Claude only helped submit jobs and analyze results, while the rollouts came from an open-source model. They also report being downgraded from Opus 5.5.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;一名用户称，Anthropic 将其涉及强化微调、监督微调或训练更大模型的工作标记为“训练竞争对手”，并屏蔽了其账户。该用户表示，Claude 只帮助提交任务和分析结果，实际生成过程使用的是开源模型。用户还称自己的账户被降级，无法继续使用 Opus 5.5。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 488 · 💬 265 · AI · Legal · Open Source&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50319358&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/02/top_stories_11022026#story-50319358&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
