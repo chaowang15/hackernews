@@ -5,9 +5,21 @@
     <link>https://chaowang15.github.io/hackernews/</link>
     <description>Curated daily digest of top Hacker News stories with AI-generated summaries, tags, and bilingual translations.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 07 Nov 2026 19:18:50 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 07:09:49 +0000</lastBuildDate>
     <generator>Hacker News Daily RSS Builder</generator>
     <atom:link href="https://chaowang15.github.io/hackernews/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>sshole</title>
+      <link>https://sshhole.com</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50378228</guid>
+      <dc:creator>josemrb</dc:creator>
+      <pubDate>Thu, 05 Nov 2026 12:19:02 +0000</pubDate>
+      <category>Security</category>
+      <description>&lt;p&gt;OpenSSH on musl Linux has reportedly allowed access to passwordless accounts since 2016. The issue relates to how Unix historically represented accounts that should never permit login, including accounts marked with an asterisk in the password file. The behavior can therefore expose accounts that were intended to be inaccessible.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;据报道，musl Linux 上的 OpenSSH 自 2016 年起可能允许进入无密码账户。问题与 Unix 处理本应禁止登录的账户的历史方式有关，包括在密码文件中用星号标记的账户。因此，原本应不可访问的账户可能被暴露。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 2961 · 💬 744 · Security&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50378228&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/07/top_stories_11072026#story-50378228&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Astra can read and write weights to improve Qwen</title>
       <link>https://rikiyat.github.io/blog/weight-space-programming/</link>
@@ -19,18 +31,6 @@
 &lt;p&gt;&lt;em&gt;资料称，前沿大语言模型已经能够直接读取和写入神经网络权重。GPT-6 Astra 可以仅凭原始权重判断网络的训练目标，还能从零编写击败经过 1 亿步 PPO 训练的小型游戏网络。这种能力可能对模型优化和可解释性具有重要意义。&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;▲ 2928 · 💬 880 · AI&lt;/small&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50341174&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/03/top_stories_11032026#story-50341174&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>sshole</title>
-      <link>https://sshhole.com</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50378228</guid>
-      <dc:creator>josemrb</dc:creator>
-      <pubDate>Thu, 05 Nov 2026 12:19:02 +0000</pubDate>
-      <category>Security</category>
-      <description>&lt;p&gt;OpenSSH on musl Linux has reportedly allowed access to passwordless accounts since 2016. The issue relates to how Unix historically represented accounts that should never permit login, including accounts marked with an asterisk in the password file. The behavior can therefore expose accounts that were intended to be inaccessible.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;据报道，musl Linux 上的 OpenSSH 自 2016 年起可能允许进入无密码账户。问题与 Unix 处理本应禁止登录的账户的历史方式有关，包括在密码文件中用星号标记的账户。因此，原本应不可访问的账户可能被暴露。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 2921 · 💬 734 · Security&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50378228&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/06/top_stories_11062026#story-50378228&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>HackerTube: YouTube built from videos recommended by HN</title>
@@ -94,8 +94,8 @@
       <category>Security</category>
       <description>&lt;p&gt;A reported Claude Code bug exposed a user's email address to arbitrary third parties in the User-Agent header during web searches. The user says this happened without permission and was followed by a large increase in scam emails. They argue that the behavior should be removed rather than controlled by an opt-in or opt-out setting.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;有用户报告称，Claude Code 在进行网页搜索时，会通过 User-Agent 请求头将其邮箱地址暴露给任意第三方。该用户表示，未经允许发生这一行为后，自己收到的诈骗邮件大幅增加。用户认为，这种行为不应通过加入或退出选项控制，而应从系统中彻底移除。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 1566 · 💬 502 · AI · Privacy · Security&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50385272&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/06/top_stories_11062026#story-50385272&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+&lt;p&gt;&lt;small&gt;▲ 1594 · 💬 520 · AI · Privacy · Security&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50385272&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/07/top_stories_11072026#story-50385272&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>AI is forcing us to pay off 40 years of technical debt</title>
@@ -133,8 +133,20 @@
       <category>Business</category>
       <description>&lt;p&gt;Tesla CEO Elon Musk said Cybertruck production at the company's Texas gigafactory will wind down around mid-2027. He said the move will make room for higher production of the newly launched Cybercab, central to Tesla's robotaxi plans. Cybertruck sales have remained weak, and it has sold in only a limited number of markets. It remains unclear whether production will move elsewhere or end entirely.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;特斯拉 CEO 埃隆·马斯克表示，公司位于得州的超级工厂将在 2027 年年中左右逐步停止生产 Cybertruck。他称，此举将为提高新款 Cybercab 的产量腾出空间，而 Cybercab 是特斯拉机器人出租车计划的核心车型。Cybertruck 销量长期疲软，目前仅在少数市场销售。该车型是转移到其他工厂生产还是彻底停产，目前尚不清楚。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 1116 · 💬 1989 · Business&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 1135 · 💬 2046 · Business&lt;/small&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50391456&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/07/top_stories_11072026#story-50391456&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Libghostty 1.0</title>
+      <link>https://mitchellh.com/writing/libghostty-1-0</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50399933</guid>
+      <dc:creator>mfiguiere</dc:creator>
+      <pubDate>Fri, 06 Nov 2026 23:30:52 +0000</pubDate>
+      <category>Programming</category>
+      <description>&lt;p&gt;libghostty-vt 1.0 has been released as a portable, high-performance C library for terminal emulation, extracted from Ghostty’s core. Both the library and its C ABI are now stable. The C API has grown from nonexistent to a complete terminal emulator used in production by millions of people across hundreds of free and commercial products.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;libghostty-vt 1.0 已发布，这是一个从 Ghostty 核心提取出的便携、高性能终端模拟 C 库。该库本身及其 C ABI 现已稳定。其 C API 已从无到有发展为完整的终端模拟器，目前已在数百款免费和商业产品中投入生产，服务数百万人。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 1038 · 💬 181 · Programming&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50399933&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/07/top_stories_11072026#story-50399933&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>The 'Astra can read and write weights to improve Qwen' post is misleading</title>
@@ -162,18 +174,6 @@
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50300683&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/03/top_stories_11032026#story-50300683&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Libghostty 1.0</title>
-      <link>https://mitchellh.com/writing/libghostty-1-0</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50399933</guid>
-      <dc:creator>mfiguiere</dc:creator>
-      <pubDate>Fri, 06 Nov 2026 23:30:52 +0000</pubDate>
-      <category>Programming</category>
-      <description>&lt;p&gt;libghostty-vt 1.0 has been released as a portable, high-performance C library for terminal emulation, extracted from Ghostty’s core. Both the library and its C ABI are now stable. The C API has grown from nonexistent to a complete terminal emulator used in production by millions of people across hundreds of free and commercial products.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;libghostty-vt 1.0 已发布，这是一个从 Ghostty 核心提取出的便携、高性能终端模拟 C 库。该库本身及其 C ABI 现已稳定。其 C API 已从无到有发展为完整的终端模拟器，目前已在数百款免费和商业产品中投入生产，服务数百万人。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 952 · 💬 160 · Programming&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50399933&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/07/top_stories_11072026#story-50399933&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>Jailbreaking my car's navigation system just so I can change the time</title>
       <link>https://blog.nns.ee/2026/11/02/renault-hack/</link>
       <guid isPermaLink="true">https://news.ycombinator.com/item?id=50339288</guid>
@@ -185,6 +185,19 @@
 &lt;p&gt;&lt;em&gt;作者介绍了如何修改一辆 2014 年雷诺 Latitude 的导航系统，以调整仪表盘时钟。该车似乎需要导航地图 SD 卡才能访问时间设置功能，但由于地图过时，这张卡此前已被丢弃。没有 SD 卡时，显示屏会显示醒目的“No maps found!”提示。&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;▲ 938 · 💬 374 · Security · Hardware&lt;/small&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50339288&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/04/top_stories_11042026#story-50339288&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Need for Speed Underground 2 online in the browser</title>
+      <link>https://nfsu2.xyz/</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50403052</guid>
+      <dc:creator>fluxusars</dc:creator>
+      <pubDate>Sat, 07 Nov 2026 09:36:36 +0000</pubDate>
+      <category>Gaming</category>
+      <category>Web</category>
+      <description>&lt;p&gt;The project brings Need for Speed Underground 2 online in a web browser. No further implementation details or features are established here.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;该项目让《极品飞车：地下狂飙 2》能够在浏览器中在线运行。现有信息未说明其具体实现方式或功能细节。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 920 · 💬 242 · Gaming · Web&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50403052&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/07/top_stories_11072026#story-50403052&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Serbia just elected the world's brainiest parliament</title>
@@ -261,6 +274,20 @@
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50319143&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/03/top_stories_11032026#story-50319143&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Blender's UI and Runtime: Much Faster Than GPUI</title>
+      <link>https://github.com/ppmpreetham/BUI</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50389333</guid>
+      <dc:creator>ppmpreetham</dc:creator>
+      <pubDate>Fri, 06 Nov 2026 07:40:35 +0000</pubDate>
+      <category>Programming</category>
+      <category>Hardware</category>
+      <category>Web</category>
+      <description>&lt;p&gt;BUI is a GPU-accelerated Blender user interface decoupled from Blender's original codebase. It supports Rust, Python, JavaScript, React, C, and C++. The project describes its performance as twice that of GPUI.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;BUI 是一个与 Blender 原始代码库解耦的 GPU 加速用户界面。它支持 Rust、Python、JavaScript、React、C 和 C++。项目方称其性能是 GPUI 的两倍。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 726 · 💬 289 · Programming · Hardware · Web&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50389333&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/07/top_stories_11072026#story-50389333&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Ask HN: Which TV do you recommend for privacy?</title>
       <link>https://news.ycombinator.com/item?id=50328896</link>
       <guid isPermaLink="true">https://news.ycombinator.com/item?id=50328896</guid>
@@ -322,18 +349,16 @@
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50384233&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/06/top_stories_11062026#story-50384233&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Blender's UI and Runtime: Much Faster Than GPUI</title>
-      <link>https://github.com/ppmpreetham/BUI</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50389333</guid>
-      <dc:creator>ppmpreetham</dc:creator>
-      <pubDate>Fri, 06 Nov 2026 07:40:35 +0000</pubDate>
-      <category>Programming</category>
-      <category>Hardware</category>
-      <category>Web</category>
-      <description>&lt;p&gt;BUI is a GPU-accelerated Blender user interface decoupled from Blender's original codebase. It supports Rust, Python, JavaScript, React, C, and C++. The project describes its performance as twice that of GPUI.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;BUI 是一个与 Blender 原始代码库解耦的 GPU 加速用户界面。它支持 Rust、Python、JavaScript、React、C 和 C++。项目方称其性能是 GPUI 的两倍。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 691 · 💬 281 · Programming · Hardware · Web&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50389333&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/06/top_stories_11062026#story-50389333&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+      <title>Every Mac comes with an (undocumented) family member classifier</title>
+      <link>https://8rank.ai/game/apple-intelligence-personal-knowledge-graph</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50403097</guid>
+      <dc:creator>infwhispers</dc:creator>
+      <pubDate>Sat, 07 Nov 2026 09:46:03 +0000</pubDate>
+      <category>Privacy</category>
+      <description>&lt;p&gt;The post claims that every Mac since macOS 13, released in 2022, includes two daemons that build a graph of the user’s relationships and activities. The graph is described as covering contacts, relationships, communications, locations, activities, and timing.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;文章称，自 2022 年发布的 macOS 13 起，每台 Mac 都包含两个用于构建用户关系和活动图谱的后台进程。该图谱据称涵盖联系人、彼此关系、通信、位置、活动及时间信息。文章还分析了这一系统的工作方式，并提供了查看个人设备上该图谱的工具。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 686 · 💬 372 · Privacy&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50403097&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/07/top_stories_11072026#story-50403097&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>AI isn't replacing SREs, it's deskilling them</title>
@@ -381,8 +406,8 @@
       <category>Privacy</category>
       <description>&lt;p&gt;A compatibility report examines whether the ASN Bank Android app blocks non-Google Android systems, including GrapheneOS. The report identifies app version 2.40.2 in the Netherlands. One user reported that the app appeared to work on a stock operating system.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;一份兼容性报告调查 ASN Bank 的 Android 应用是否屏蔽包括 GrapheneOS 在内的非 Google Android 系统。报告涉及荷兰地区的 2.40.2 版本。一名用户表示，该应用在原生操作系统上看起来可以正常运行。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 632 · 💬 412 · Privacy&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50390124&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/06/top_stories_11062026#story-50390124&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+&lt;p&gt;&lt;small&gt;▲ 648 · 💬 424 · Privacy&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50390124&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/07/top_stories_11072026#story-50390124&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Kimi K3.1 Pro model weights are out</title>
@@ -461,19 +486,6 @@
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50303172&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/02/top_stories_11022026#story-50303172&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Need for Speed Underground 2 online in the browser</title>
-      <link>https://nfsu2.xyz/</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50403052</guid>
-      <dc:creator>fluxusars</dc:creator>
-      <pubDate>Sat, 07 Nov 2026 09:36:36 +0000</pubDate>
-      <category>Gaming</category>
-      <category>Web</category>
-      <description>&lt;p&gt;The project brings Need for Speed Underground 2 online in a web browser. No further implementation details or features are established here.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;该项目让《极品飞车：地下狂飙 2》能够在浏览器中在线运行。现有信息未说明其具体实现方式或功能细节。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 590 · 💬 176 · Gaming · Web&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50403052&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/07/top_stories_11072026#story-50403052&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>AMD expects to outsell Intel in Q4 for the first time in history</title>
       <link>https://www.tomshardware.com/pc-components/cpus/amd-expects-to-outsell-intel-in-q4-for-the-first-time-in-history-usd17b-guidance-would-exceed-intels-projections</link>
       <guid isPermaLink="true">https://news.ycombinator.com/item?id=50367125</guid>
@@ -523,7 +535,7 @@
       <category>Data</category>
       <description>&lt;p&gt;Tests of Jev and GPT-6 Luna as judges for identity resolution found out-of-the-box accuracy ranging from 88.8% to 97.3%. A hybrid that combines Jev with Claude Opus matched frontier-level accuracy at more than four times lower cost. Identity resolution maps data records to unique real-world people.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;对 Jev 和 GPT-6 Luna 作为身份解析评判器的测试显示，它们开箱即用的准确率为 88.8% 至 97.3%。将 Jev 与 Claude Opus 结合的混合方案达到了前沿模型水平的准确率，而成本降低了四倍以上。身份解析的任务是将数据记录映射到现实世界中唯一的个人。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 563 · 💬 137 · AI · Data&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 574 · 💬 146 · AI · Data&lt;/small&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50397429&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/07/top_stories_11072026#story-50397429&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
@@ -577,6 +589,18 @@
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50366117&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/05/top_stories_11052026#story-50366117&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>What I run on my $10 USD OpenStick homelab</title>
+      <link>https://blog.bosscher.ch/posts/openstick/</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50406670</guid>
+      <dc:creator>LaurensBER</dc:creator>
+      <pubDate>Sat, 07 Nov 2026 18:12:12 +0000</pubDate>
+      <category>Hardware</category>
+      <description>&lt;p&gt;The author bought an OpenStick for $10 including shipping, mainly because it was an unusual and appealing piece of hardware. Although the device is less powerful than many modern watches, it can still support enjoyable self-hosting experiments. The project demonstrates how a very inexpensive, tiny computer can serve as an entry point to homelabbing.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;作者花 10 美元（含运费）买了一台 OpenStick，主要是因为这款硬件新奇而有趣。它的性能可能还不如许多现代智能手表，但仍然适合进行有趣的自托管实验。这个项目展示了廉价小设备如何成为入门家庭实验室的起点。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 509 · 💬 99 · Hardware&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50406670&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/07/top_stories_11072026#story-50406670&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Cuban: Facebook knowingly runs AI deepfake scam ads; docs say $16B fraud revenue</title>
       <link>https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html</link>
       <guid isPermaLink="true">https://news.ycombinator.com/item?id=50385870</guid>
@@ -615,31 +639,6 @@
 &lt;p&gt;&lt;em&gt;一名用户称，Anthropic 将其涉及强化微调、监督微调或训练更大模型的工作标记为“训练竞争对手”，并屏蔽了其账户。该用户表示，Claude 只帮助提交任务和分析结果，实际生成过程使用的是开源模型。用户还称自己的账户被降级，无法继续使用 Opus 5.5。&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;▲ 488 · 💬 265 · AI · Legal · Open Source&lt;/small&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50319358&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/02/top_stories_11022026#story-50319358&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>US boy names that became girl names and vice versa</title>
-      <link>https://namedaisy.com/blog/boy-names-that-became-girl-names</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50339397</guid>
-      <dc:creator>xoobdev</dc:creator>
-      <pubDate>Mon, 02 Nov 2026 16:34:36 +0000</pubDate>
-      <category>Culture</category>
-      <description>&lt;p&gt;names that shifted from being commonly associated with boys to girls, or from girls to boys.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;文章考察了一些在美国社会中从男孩常用名转为女孩名，或从女孩名转为男孩名的名字。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 482 · 💬 462 · Culture&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50339397&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/03/top_stories_11032026#story-50339397&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>A thousand fewer paths to root</title>
-      <link>https://openai.com/index/a-thousand-fewer-paths-to-root/</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50372929</guid>
-      <dc:creator>dangelosaurus</dc:creator>
-      <pubDate>Wed, 04 Nov 2026 23:33:14 +0000</pubDate>
-      <category>AI</category>
-      <category>Security</category>
-      <description>&lt;p&gt;OpenAI built an autonomous pipeline that discovered, validated, and generated patches for 948 local privilege-escalation vulnerabilities in the Linux kernel. In a single run using its cyber model, the system validated the vulnerabilities and produced patches at an API cost of $1.2 million. The work suggests that some security investigations can increasingly be handled as a systematic automated process.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;OpenAI 构建了一个自主流水线，用于发现、验证并为 Linux 内核中的 948 个本地提权漏洞生成补丁。在一次运行中，该系统借助其网络安全模型完成了漏洞验证和补丁生成，API 成本为 120 万美元。这项工作表明，部分安全研究正逐渐可以作为系统化的自动流程来执行。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 478 · 💬 356 · AI · Security&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50372929&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/05/top_stories_11052026#story-50372929&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
