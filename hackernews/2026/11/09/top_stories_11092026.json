@@ -1,0 +1,1216 @@
+{
+  "meta": {
+    "mode": "top",
+    "source": "https://news.ycombinator.com/",
+    "api": "https://github.com/HackerNews/API",
+    "count_requested": 50,
+    "count_written": 50,
+    "reused_same_day": 0,
+    "reused_cross_day": 4,
+    "reused_history": 0,
+    "new_llm_enriched": 46,
+    "scrape_time_display": "15:42, November 09, 2026 (PST)",
+    "timezone": "America/Los_Angeles",
+    "date_dir": "2026/11/09",
+    "content_date": "2026-11-09",
+    "edition": "morning",
+    "edition_label": "Morning 50",
+    "target_count": 50,
+    "run_time_local": "15:42, November 09, 2026 (PST)",
+    "run_time_utc": "2026-11-09 23:42:58 UTC",
+    "incremental": true,
+    "stories_max": 50,
+    "hot_score_time_utc": "2026-11-09 23:44:34 UTC"
+  },
+  "items": [
+    {
+      "title_en": "Claude Fable 5.2 and Mythos 5.2",
+      "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+      "title_zh": "Claude Fable 5.2 与 Mythos 5.2",
+      "is_new": true,
+      "created_display": "Created: Nov 09, 2026 / 10:56 PT",
+      "image_url": "https://www-cdn.anthropic.com/images/4zrzovbb/website/b2dab182c77b4ccfd36423470106915b20f676ae-1200x630.jpg",
+      "summary_en": "Anthropic introduced Claude Fable 5.2 and Claude Mythos 5.2 for demanding technical work, with claimed improvements in coding, reasoning, and vision. During prerelease testing, Anthropic says the models helped engineers complete software migrations, design three working electronic devices, make progress on robotics evaluations, and solve problems in physics. The company also says the models formalized a proof of Fermat’s Last Theorem in 30 hours.",
+      "summary_zh": "Anthropic 推出了面向高难度技术工作的 Claude Fable 5.2 和 Claude Mythos 5.2，并称它们在编码、推理和视觉能力方面有所提升。在预发布测试中，Anthropic 表示这些模型帮助工程师完成软件迁移、设计出三种可运行的电子设备、推进机器人评测，并解决物理学问题。公司还称，模型在 30 小时内形式化完成了费马大定理的证明。",
+      "hn": {
+        "id": 50429906,
+        "type": "story",
+        "by": "meetpateltech",
+        "score": 839,
+        "descendants": 507,
+        "time": 1794250589,
+        "comments_url": "https://news.ycombinator.com/item?id=50429906"
+      },
+      "hot_score": 26.58,
+      "tags": [
+        "AI",
+        "Science"
+      ]
+    },
+    {
+      "title_en": "USPS now offers official ZIP Code boundary polygons",
+      "url": "https://postalpro.usps.com/zcb",
+      "title_zh": "USPS 现提供官方 ZIP Code 边界多边形",
+      "is_new": true,
+      "created_display": "Created: Nov 09, 2026 / 11:58 PT",
+      "image_url": "https://postalpro.usps.com/themes/custom/rdi/logo.svg",
+      "summary_en": "The USPS has released a national ZIP Code boundary map built from delivery-address and location data. The boundaries can change as delivery locations are added or modified, and the data is updated quarterly with limited distribution to subsidiaries and partners. The dataset is intended for mapping, mailing, marketing, insurance, real estate, logistics, navigation, and transportation applications.",
+      "summary_zh": "美国邮政服务（USPS）发布了基于投递地址和位置数据制作的全国 ZIP Code 边界地图。随着投递地点新增或变更，边界可能发生变化；数据每季度更新一次，并仅向子公司和合作伙伴有限提供。该数据可用于地图、邮寄、营销、保险、房地产、物流、导航和交通等行业。",
+      "hn": {
+        "id": 50431058,
+        "type": "story",
+        "by": "munro",
+        "score": 364,
+        "descendants": 182,
+        "time": 1794254339,
+        "comments_url": "https://news.ycombinator.com/item?id=50431058"
+      },
+      "hot_score": 15.53,
+      "tags": [
+        "Data"
+      ]
+    },
+    {
+      "title_en": "Claude Fable 5.2 Scores 65 on Artificial Analysis, Highest So Far",
+      "url": "https://artificialanalysis.ai/models/claude-fable-5-2",
+      "title_zh": "Claude Fable 5.2 在 Artificial Analysis 得分 65，创历史新高",
+      "is_new": true,
+      "created_display": "Created: Nov 09, 2026 / 12:04 PT",
+      "image_url": "https://artificialanalysis.ai/en/models/claude-fable-5-2/opengraph-image?65781a17af1a7936",
+      "summary_en": "Artificial Analysis scores Anthropic’s Claude Fable 5.2 at 65 on its Intelligence Index, well above the comparable-model median of 40. The model accepts text and image input, produces text, and supports a one-million-token context window, but is described as expensive, slow per task, and notably verbose. In the evaluation, it generated 275 million tokens, compared with a median of 72.8 million.",
+      "summary_zh": "Artificial Analysis 在其 Intelligence Index 中给 Anthropic 的 Claude Fable 5.2 打出 65 分，明显高于同类模型 40 分的中位数。该模型支持文本和图像输入、文本输出以及 100 万 token 的上下文窗口，但被评价为价格高、单任务速度慢且尤其冗长。在测试中，它生成了 2.75 亿个 token，而中位数为 7280 万。",
+      "hn": {
+        "id": 50431144,
+        "type": "story",
+        "by": "theanonymousone",
+        "score": 234,
+        "descendants": 149,
+        "time": 1794254695,
+        "comments_url": "https://news.ycombinator.com/item?id=50431144"
+      },
+      "hot_score": 10.28,
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "title_en": "TPUs",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/",
+      "title_zh": "TPU",
+      "is_new": true,
+      "created_display": "Created: Nov 09, 2026 / 13:56 PT",
+      "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/TPU-8tx_and_8i-Max.width-1300.png",
+      "summary_en": "Google has expanded its eighth-generation TPU portfolio with two new systems: TPU 8tx and TPU 8i Max. TPU 8tx is designed for secure, confidential inference, while TPU 8i Max targets workloads requiring massive context windows. Google says the systems are intended for complex agentic workloads involving security, density, and reasoning.",
+      "summary_zh": "Google 扩充了第八代 TPU 产品线，推出 TPU 8tx 和 TPU 8i Max 两套新系统。TPU 8tx 面向安全、机密推理，TPU 8i Max 则针对需要超大上下文窗口的工作负载。Google 表示，这些系统面向同时涉及安全性、密度和推理能力的复杂智能体工作负载。",
+      "hn": {
+        "id": 50432831,
+        "type": "story",
+        "by": "_benx_",
+        "score": 109,
+        "descendants": 14,
+        "time": 1794261417,
+        "comments_url": "https://news.ycombinator.com/item?id=50432831"
+      },
+      "hot_score": 9.8,
+      "tags": [
+        "Hardware",
+        "AI",
+        "Security"
+      ]
+    },
+    {
+      "title_en": "Google Gemini routes personal Drive files and emails to human annotators",
+      "url": "https://github.com/thisisme6598/gemini_files/",
+      "title_zh": "Google Gemini 将个人 Drive 文件和邮件交由人工标注员处理",
+      "is_new": true,
+      "created_display": "Created: Nov 09, 2026 / 10:24 PT",
+      "image_url": "https://opengraph.githubassets.com/554776cc2c71e8047d03cd1f30c8aa6f736c6cd8a34d6a3bd7d37ec9e2d8d171/thisisme6598/gemini_files",
+      "summary_en": "Updated Google guidance reportedly confirms that content from connected Drive and email accounts can enter human-review pipelines for Gemini. This reverses a 2023 promise that personal Gmail, Docs, and Drive content would not be seen by human reviewers. Google now warns users not to connect apps containing confidential information they would not want a reviewer to see.",
+      "summary_zh": "Google 更新后的说明据称确认，连接到 Gemini 的 Drive 和电子邮件账户内容可能进入人工审核流程。这改变了 Google 在 2023 年作出的承诺——当时公司表示个人 Gmail、Docs 和 Drive 内容不会被人工审核员看到。Google 目前警告用户，不要连接包含不希望审核员看到的机密信息的应用。",
+      "hn": {
+        "id": 50429426,
+        "type": "story",
+        "by": "gf74918",
+        "score": 281,
+        "descendants": 56,
+        "time": 1794248678,
+        "comments_url": "https://news.ycombinator.com/item?id=50429426"
+      },
+      "hot_score": 7.76,
+      "tags": [
+        "Privacy",
+        "Security",
+        "AI"
+      ]
+    },
+    {
+      "title_en": "Fold Epic Paper Airplanes",
+      "url": "https://www.foldableflight.com",
+      "title_zh": "折叠史诗级纸飞机",
+      "is_new": true,
+      "created_display": "Created: Nov 09, 2026 / 04:19 PT",
+      "image_url": "https://static.wixstatic.com/media/0641fb_4ff6a49def494e379b4f3b585c4ac4a8%7Emv2_d_2482_1412_s_2.jpg/v1/fit/w_2500,h_1330,al_c/0641fb_4ff6a49def494e379b4f3b585c4ac4a8%7Emv2_d_2482_1412_s_2.jpg",
+      "summary_en": "Foldable Flight presents a large database of paper airplanes with step-by-step video folding tutorials. Its listed prototypes include one that can fly more than 300 feet and another, named Unite, that holds a 31.2-second flight-time record.",
+      "summary_zh": "Foldable Flight 提供了一个大型纸飞机数据库，并为每种纸飞机配备分步骤视频折叠教程。其展示的原型中，有一种飞行距离超过 300 英尺，另一种名为 Unite 的纸飞机创下了 31.2 秒的滞空时间纪录。",
+      "hn": {
+        "id": 50424581,
+        "type": "story",
+        "by": "vismit2000",
+        "score": 799,
+        "descendants": 133,
+        "time": 1794226762,
+        "comments_url": "https://news.ycombinator.com/item?id=50424581"
+      },
+      "hot_score": 7.45,
+      "tags": [
+        "Education",
+        "Data"
+      ]
+    },
+    {
+      "title_en": "Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system",
+      "url": "https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy",
+      "title_zh": "Payments Canada 宣布推出加拿大实时铁路支付系统",
+      "is_new": true,
+      "created_display": "Created: Nov 09, 2026 / 08:00 PT",
+      "image_url": "https://www.payments.ca/sites/default/files/2026-11/CanadaLightsUp.png",
+      "summary_en": "Payments Canada announced the launch of Canada’s Real-Time Rail, a national payment system for instant clearing and settlement. Participating financial institutions, credit unions, and payment service providers can exchange, clear, and settle payments securely in real time, 24 hours a day. The system also provides real-time cash-flow visibility and data-rich messaging through existing banking and payment channels.",
+      "summary_zh": "Payments Canada 宣布推出加拿大实时铁路（RTR），这是一个支持即时清算和结算的全国性支付系统。参与其中的金融机构、信用合作社和支付服务商可以全年全天候安全地实时交换、清算和结算付款。该系统还通过现有银行和支付渠道提供实时现金流可见性以及包含丰富数据的消息传递。",
+      "hn": {
+        "id": 50427362,
+        "type": "story",
+        "by": "ocd",
+        "score": 441,
+        "descendants": 250,
+        "time": 1794240045,
+        "comments_url": "https://news.ycombinator.com/item?id=50427362"
+      },
+      "hot_score": 7.33,
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "title_en": "E-means: 10x faster k-means at equal loss",
+      "url": "https://e-means.github.io/",
+      "title_zh": "E-means：相同损失下速度提升 10 倍的 k-means",
+      "is_new": true,
+      "created_display": "Created: Nov 09, 2026 / 10:45 PT",
+      "image_url": "https://e-means.github.io/assets/emeans_vs_lloyd_readme_v9.png",
+      "summary_en": "E-means is a k-means clustering method intended to improve both optimization speed and loss. Across a broad range of datasets and scales, it reached a lower test loss than Lloyd’s algorithm in 1.2 to 3 epochs instead of 25. End-to-end measurements report a 10–45× GPU wall-clock reduction versus Flash-KMeans and an 8–15× CPU reduction versus Faiss.",
+      "summary_zh": "E-means 是一种旨在同时提升 k-means 优化速度和损失表现的聚类方法。在多种规模和数据集上，它用 1.2 到 3 个 epoch 就达到了低于 Lloyd 算法 25 个 epoch 时的测试损失。端到端测试显示，相比 Flash-KMeans，GPU 实际耗时减少 10–45 倍；相比 Faiss，CPU 耗时减少 8–15 倍。",
+      "hn": {
+        "id": 50429734,
+        "type": "story",
+        "by": "porridgeraisin",
+        "score": 236,
+        "descendants": 13,
+        "time": 1794249943,
+        "comments_url": "https://news.ycombinator.com/item?id=50429734"
+      },
+      "hot_score": 7.11,
+      "tags": [
+        "AI",
+        "Data",
+        "Hardware"
+      ]
+    },
+    {
+      "title_en": "When will this stop? The Raspberry Pi 5 16GB SBC now sells for $385",
+      "url": "https://www.cnx-software.com/2026/11/03/when-will-this-stop-the-raspberry-pi-5-16gb-sbc-now-sells-for-385/",
+      "title_zh": "这什么时候才会停止？树莓派 5 16GB 单板机现售价 385 美元",
+      "is_new": true,
+      "created_display": "Created: Nov 09, 2026 / 09:42 PT",
+      "image_url": null,
+      "summary_en": "The 16GB version of the Raspberry Pi 5 is now selling for $385. The title presents the price as an unusually high cost for the single-board computer but provides no further explanation.",
+      "summary_zh": "16GB 版本的树莓派 5 目前售价 385 美元。标题将这一价格描述为该单板计算机的异常高价，但未提供更多原因或背景。",
+      "hn": {
+        "id": 50428801,
+        "type": "story",
+        "by": "pera",
+        "score": 272,
+        "descendants": 234,
+        "time": 1794246175,
+        "comments_url": "https://news.ycombinator.com/item?id=50428801"
+      },
+      "hot_score": 6.38,
+      "tags": [
+        "Hardware"
+      ]
+    },
+    {
+      "title_en": "Our Smallest, Most Efficient Model: Muse Ember",
+      "url": "https://research.meta.ai/blog/muse-ember",
+      "title_zh": "最小、最高效的模型：Muse Ember",
+      "is_new": true,
+      "created_display": "Created: Nov 09, 2026 / 09:58 PT",
+      "image_url": "https://research.meta.ai/articles/muse-glint/hero/blog-header-light-v1.webp",
+      "summary_en": "Meta introduced Muse Ember as its smallest and most efficient model, targeting repeated agent tasks such as tool calls, coding subtasks, routing, extraction, and long-document parsing. The company says it delivers more intelligence per dollar than Claude Haiku 5.5 and GPT-6 Luna in the cited comparisons. It reportedly matches Haiku’s best score at about one-third the cost and exceeds every Luna setting.",
+      "summary_zh": "Meta 推出了 Muse Ember，称其为最小且最高效的模型，面向工具调用、编码子任务、路由、信息提取和长文档解析等重复性智能体任务。公司表示，在所列比较中，它的单位成本智能水平高于 Claude Haiku 5.5 和 GPT-6 Luna。据称，Muse Ember 以约三分之一的成本达到 Haiku 的最高分，并超过 Luna 的所有设置。",
+      "hn": {
+        "id": 50429024,
+        "type": "story",
+        "by": "dvaplima",
+        "score": 219,
+        "descendants": 89,
+        "time": 1794247126,
+        "comments_url": "https://news.ycombinator.com/item?id=50429024"
+      },
+      "hot_score": 5.45,
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "title_en": "CUI – Native UI components for C",
+      "url": "https://yappologistic.github.io/CUI/",
+      "title_zh": "CUI：面向 C 的原生 UI 组件",
+      "is_new": true,
+      "created_display": "Created: Nov 09, 2026 / 11:35 PT",
+      "image_url": null,
+      "summary_en": "CUI is a library of about 190 native UI components for C. The components include spring-based motion and keyboard support, and are available to try in a live demonstration.",
+      "summary_zh": "CUI 是一个面向 C 语言的原生 UI 组件库，包含约 190 个组件。组件支持弹簧动画和键盘操作，并可通过在线演示实时体验。",
+      "hn": {
+        "id": 50430621,
+        "type": "story",
+        "by": "hilti",
+        "score": 132,
+        "descendants": 71,
+        "time": 1794252916,
+        "comments_url": "https://news.ycombinator.com/item?id=50430621"
+      },
+      "hot_score": 4.97,
+      "tags": [
+        "Programming"
+      ]
+    },
+    {
+      "title_en": "Show HN: Every satellite that passed over any place this week, and its photos",
+      "url": "https://www.watched.earth",
+      "title_zh": "Show HN：查看本周经过任意地点的每颗卫星及其照片",
+      "is_new": true,
+      "created_display": "Created: Nov 09, 2026 / 09:51 PT",
+      "image_url": "https://www.watched.earth/og-default.png",
+      "summary_en": "Watched lets users enter a location and find every satellite that passed over it in the previous seven days, then retrieve Sentinel-2, Landsat, and NASA imagery from those passes. Its browser-based SGP4 search processes the CelesTrak catalog in about half a second, while roughly 17,000 orbital objects are rendered on the GPU. The project reports no missed passes in tests against brute-force searches and says it does not store locations.",
+      "summary_zh": "Watched 允许用户输入地点，查找过去七天内经过该地点的所有卫星，并获取这些过境对应的 Sentinel-2、Landsat 和 NASA 影像。它在浏览器中使用 SGP4 处理 CelesTrak 目录，耗时约半秒，同时在 GPU 上绘制约 1.7 万个轨道目标。项目称，与暴力搜索对比测试未漏掉任何过境，并表示不会存储用户位置。",
+      "hn": {
+        "id": 50428907,
+        "type": "story",
+        "by": "a585gupt",
+        "score": 200,
+        "descendants": 43,
+        "time": 1794246691,
+        "comments_url": "https://news.ycombinator.com/item?id=50428907"
+      },
+      "hot_score": 4.84,
+      "tags": [
+        "Show HN",
+        "Data",
+        "Space",
+        "Hardware",
+        "Web"
+      ]
+    },
+    {
+      "title_en": "Is Opus 5.5 nerfed? Thinking patterns changed on November 3",
+      "url": "https://twitter.com/shanemelaugh/status/2119192075505893695",
+      "title_zh": "Opus 5.5 被削弱了吗？11 月 3 日推理模式发生变化",
+      "is_new": true,
+      "created_display": "Created: Nov 08, 2026 / 23:04 PT",
+      "image_url": "https://pbs.twimg.com/media/HWjhsqYWMAALhKb?format=webp&name=large",
+      "summary_en": "An analysis of 1,400 Claude Code sessions reportedly found a sharp change in Opus 5.5’s reasoning behavior on November 3. The model name did not change, but the analysis claims that its thinking patterns shifted noticeably. The report does not identify the cause of the change.",
+      "summary_zh": "对 1400 次 Claude Code 会话的分析据称发现，Opus 5.5 在 11 月 3 日的推理行为发生了明显变化。模型名称并未改变，但分析认为其思考模式出现了显著转折。该报告没有说明变化原因。",
+      "hn": {
+        "id": 50422069,
+        "type": "story",
+        "by": "rzk",
+        "score": 708,
+        "descendants": 459,
+        "time": 1794207865,
+        "comments_url": "https://news.ycombinator.com/item?id=50422069"
+      },
+      "hot_score": 3.64,
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "title_en": "DeepX claims inference up to 100B parameters at less than 5 W",
+      "url": "https://www.eetimes.com/deepx-tapes-out-second-gen-chip-projects-6-7x-performance-gain-with-lpddr5x-pim/",
+      "title_zh": "DeepX 声称可在低于 5 瓦功耗下推理最高 1000 亿参数模型",
+      "is_new": true,
+      "created_display": "Created: Nov 09, 2026 / 10:33 PT",
+      "image_url": null,
+      "summary_en": "DeepX claims its technology can run inference on models with up to 100 billion parameters while consuming less than 5 watts. The title does not provide further details about the chip, benchmark, or conditions behind the claim.",
+      "summary_zh": "DeepX 声称其技术能够在低于 5 瓦的功耗下，对最高 1000 亿参数的模型执行推理。现有信息未提供该说法所依据的芯片、基准测试或具体条件。",
+      "hn": {
+        "id": 50429545,
+        "type": "story",
+        "by": "giuliomagnifico",
+        "score": 126,
+        "descendants": 22,
+        "time": 1794249238,
+        "comments_url": "https://news.ycombinator.com/item?id=50429545"
+      },
+      "hot_score": 3.6,
+      "tags": [
+        "Hardware",
+        "AI"
+      ]
+    },
+    {
+      "title_en": "Magenta solar panels may be agrivoltaics' cleverest trick yet",
+      "url": "https://www.anthropocenemagazine.org/2026/10/magenta-solar-panels-may-be-agrivoltaics-cleverest-trick-yet/",
+      "title_zh": "洋红色太阳能板或许是农光互补迄今最巧妙的方案",
+      "is_new": true,
+      "created_display": "Created: Nov 09, 2026 / 06:31 PT",
+      "image_url": "https://www.anthropocenemagazine.org/wp-content/uploads/2026/10/rose-colored-agrivoltaics.jpg",
+      "summary_en": "A new agrivoltaics experiment used semitransparent solar cells that harvest some wavelengths for electricity while allowing the red and blue wavelengths needed by plants to pass through. In the experiment, broccoli yields remained steady. The design suggests that power generation and crop production can share the same light without reducing the reported broccoli yield.",
+      "summary_zh": "一项新的农光互补实验使用了半透明太阳能电池：它们吸收部分波长的光来发电，同时让植物所需的红光和蓝光通过。实验中，西兰花产量保持稳定。该设计表明，在此次测试中，发电和种植可以共享光照而不降低西兰花产量。",
+      "hn": {
+        "id": 50426175,
+        "type": "story",
+        "by": "speckx",
+        "score": 254,
+        "descendants": 157,
+        "time": 1794234699,
+        "comments_url": "https://news.ycombinator.com/item?id=50426175"
+      },
+      "hot_score": 3.26,
+      "tags": [
+        "Energy",
+        "Science"
+      ]
+    },
+    {
+      "title_en": "Jensen Huang Scandal Sparks Speculation–Jensen's Wife Could Get Half",
+      "url": "https://www.forbes.com/sites/alisondurkee/2026/11/09/jensen-huang-scandal-sparks-divorce-speculation-billionaires-wife-could-get-half-his-155-biliion-fortune/",
+      "title_zh": "Jensen Huang 丑闻引发猜测：妻子或可获得其一半财产",
+      "is_new": true,
+      "created_display": "Created: Nov 09, 2026 / 14:50 PT",
+      "image_url": null,
+      "summary_en": "Reports about a Jensen Huang scandal have prompted speculation about a possible divorce settlement. The headline says his wife could receive half of his reported $155 billion fortune.",
+      "summary_zh": "有关 Jensen Huang 丑闻的报道引发了对可能离婚财产分配的猜测。标题称，他的妻子可能获得其据报道达 1550 亿美元财产的一半。",
+      "hn": {
+        "id": 50433438,
+        "type": "story",
+        "by": "MadrasThorn",
+        "score": 22,
+        "descendants": 16,
+        "time": 1794264635,
+        "comments_url": "https://news.ycombinator.com/item?id=50433438"
+      },
+      "hot_score": 3.09,
+      "tags": [
+        "Business"
+      ]
+    },
+    {
+      "title_en": "Cryptocurrency lawsuit: Ethereum Foundation required \"suicide pledge\"",
+      "url": "https://www.denverpost.com/2026/11/06/ethereum-suicide-pledge-lawsuit-mandate-boulder-crypto/",
+      "title_zh": "加密货币诉讼：以太坊基金会被要求签署“自杀承诺”",
+      "is_new": true,
+      "created_display": "Created: Nov 09, 2026 / 07:23 PT",
+      "image_url": "https://www.denverpost.com/wp-content/uploads/2026/11/TDP-Z-GettyImages-1243256258.jpg?w=5093&h=3395",
+      "summary_en": "A lawsuit filed in Colorado alleges that the Ethereum Foundation required employees to endorse a document described as a “suicide pledge.” The 38-page document, titled “The Ethereum Foundation Mandate,” reportedly outlined leadership’s vision for the foundation over the next 1,000 years. The foundation is a Switzerland-registered nonprofit supporting the Ethereum blockchain.",
+      "summary_zh": "科罗拉多州一宗诉讼指称，以太坊基金会要求员工认可一份被称为“自杀承诺”的文件。这份 38 页、名为《以太坊基金会使命》的文件据称阐述了管理层对基金会未来 1000 年的构想。该基金会是在瑞士注册、支持以太坊区块链的非营利组织。",
+      "hn": {
+        "id": 50426899,
+        "type": "story",
+        "by": "ceejayoz",
+        "score": 185,
+        "descendants": 171,
+        "time": 1794237837,
+        "comments_url": "https://news.ycombinator.com/item?id=50426899"
+      },
+      "hot_score": 2.74,
+      "tags": [
+        "Legal",
+        "Finance"
+      ]
+    },
+    {
+      "title_en": "The same H100 costs $2.69 or $12.29 an hour depending where you rent it",
+      "url": "https://github.com/datareceipts/data-receipts/tree/main/109-gpu-pricing",
+      "title_zh": "同一块 H100 的租用价格可能是每小时 2.69 或 12.29 美元",
+      "is_new": true,
+      "created_display": "Created: Nov 09, 2026 / 07:39 PT",
+      "image_url": "https://opengraph.githubassets.com/e11496fcbe86e6b2696f278e3604a16729bdb5041fe06fca2b68781bdb321b04/datareceipts/data-receipts",
+      "summary_en": "A price comparison normalizes on-demand GPU rental costs across AWS, Azure, and neocloud providers by GPU and hour. For identical GPUs, it reports a 4.57× gap between the cheapest and most expensive options. Running one GPU continuously for a month costs $1,964 or $8,972 depending only on the provider.",
+      "summary_zh": "一项价格比较按 GPU 和每小时费用，对 AWS、Azure 及新型云服务商的按需 GPU 租赁价格进行了标准化。对于相同 GPU，最便宜和最昂贵选项之间的价格差达到 4.57 倍。连续运行一块 GPU 一个月，费用可能因服务商不同而为 1964 美元或 8972 美元。",
+      "hn": {
+        "id": 50427085,
+        "type": "story",
+        "by": "datareceipts",
+        "score": 164,
+        "descendants": 84,
+        "time": 1794238741,
+        "comments_url": "https://news.ycombinator.com/item?id=50427085"
+      },
+      "hot_score": 2.54,
+      "tags": [
+        "Business",
+        "Hardware"
+      ]
+    },
+    {
+      "title_en": "Infineon marks innovation milestone with 300mm power silicon carbide wafer",
+      "url": "https://www.infineon.com/press-release/2026/infpr202611-028",
+      "title_zh": "英飞凌以 300 毫米功率碳化硅晶圆创下创新里程碑",
+      "is_new": true,
+      "created_display": "Created: Nov 09, 2026 / 10:25 PT",
+      "image_url": "https://www.infineon.com/etc.clientlibs/ifx/components/common/mainnavigation/clientlibs/resources/logo.svg",
+      "summary_en": "Infineon says it has produced the world’s first 300-millimeter power silicon carbide wafer. The announcement describes the wafer as an innovation milestone in power SiC manufacturing.",
+      "summary_zh": "英飞凌宣布制造出全球首片 300 毫米功率碳化硅（SiC）晶圆。公司将此称为功率 SiC 制造领域的一项创新里程碑。",
+      "hn": {
+        "id": 50429430,
+        "type": "story",
+        "by": "sshah03",
+        "score": 86,
+        "descendants": 51,
+        "time": 1794248701,
+        "comments_url": "https://news.ycombinator.com/item?id=50429430"
+      },
+      "hot_score": 2.36,
+      "tags": [
+        "Hardware"
+      ]
+    },
+    {
+      "title_en": "Show HN: MeowDisplay Is iPhone Mirroring, but in Reverse",
+      "url": "https://meowdisplay.app/",
+      "title_zh": "Show HN：MeowDisplay，把 iPhone 镜像反过来",
+      "is_new": true,
+      "created_display": "Created: Nov 09, 2026 / 10:39 PT",
+      "image_url": null,
+      "summary_en": "MeowDisplay lets users control a Mac from an iPhone or iPad, with Android support in closed testing. It offers window, mirror, and extend views, plus multiple panes, touch modes, trackpad input, and Apple Pencil support. The project began as a fork of OpenDisplay and has since added its own interaction, streaming, and security layers.",
+      "summary_zh": "MeowDisplay 让用户通过 iPhone 或 iPad 控制 Mac，Android 版本目前处于封闭测试阶段。它提供窗口、镜像和扩展视图，并支持多窗格、触控模式、触控板输入以及 Apple Pencil。该项目最初是 OpenDisplay 的分支，之后加入了自己的交互、串流和安全层。",
+      "hn": {
+        "id": 50429636,
+        "type": "story",
+        "by": "raiseCatError",
+        "score": 68,
+        "descendants": 25,
+        "time": 1794249562,
+        "comments_url": "https://news.ycombinator.com/item?id=50429636"
+      },
+      "hot_score": 1.97,
+      "tags": [
+        "Show HN",
+        "Open Source",
+        "Security"
+      ]
+    },
+    {
+      "title_en": "Parking-app convenience fees in 312 U.S. cities (median $0.35 per session)",
+      "url": "https://parkgraph.com/parking-app-fees",
+      "title_zh": "美国 312 个城市的停车应用便利费：每次使用中位数 0.35 美元",
+      "is_new": true,
+      "created_display": "Created: Nov 09, 2026 / 11:55 PT",
+      "image_url": "https://parkgraph.com/og?title=Parking+App+Fees+by+City%3A+What+Pay-by-Phone+Apps+Charge",
+      "summary_en": "ParkGraph cataloged the per-session convenience fees charged by parking apps in 312 U.S. places. The dataset covers ParkMobile, PayByPhone, Passport, Flowbird, and city-operated apps, using fees published on official help and city pages. The data was checked on November 5, 2026, and contains 314 rows where fees were available.",
+      "summary_zh": "ParkGraph 汇总了美国 312 个地区停车应用收取的单次便利费。数据覆盖 ParkMobile、PayByPhone、Passport、Flowbird 以及城市自营应用，费用取自官方帮助页面和城市网页。数据于 2026 年 11 月 5 日核验，在已公开费用的情况下共包含 314 行记录。",
+      "hn": {
+        "id": 50430991,
+        "type": "story",
+        "by": "parkgraph",
+        "score": 42,
+        "descendants": 18,
+        "time": 1794254153,
+        "comments_url": "https://news.ycombinator.com/item?id=50430991"
+      },
+      "hot_score": 1.73,
+      "tags": [
+        "Data"
+      ]
+    },
+    {
+      "title_en": "What is malloc doing, anyway?",
+      "url": "https://benmandrew.com/articles/what-is-malloc-doing-anyway",
+      "title_zh": "malloc 到底在做什么？",
+      "is_new": true,
+      "created_display": "Created: Nov 09, 2026 / 03:31 PT",
+      "image_url": "https://benmandrew.com/assets/headers/malloc-card.png",
+      "summary_en": "The explanation shows how glibc’s malloc avoids making a system call for every small allocation by managing a larger heap region in the background. In a test that called malloc(16) 1,000 times, strace showed only two brk calls: one to query the program break and another to grow the heap by 132 KiB. The remaining 999 allocations came from that already-reserved memory.",
+      "summary_zh": "这篇文章展示了 glibc 的 malloc 如何在后台管理更大的堆区域，从而避免每次小规模分配都发起系统调用。在调用 malloc(16) 1000 次的测试中，strace 只显示了两次 brk 调用：一次查询程序断点，另一次将堆扩大 132 KiB。其余 999 次分配都来自已经预留的内存。",
+      "hn": {
+        "id": 50424157,
+        "type": "story",
+        "by": "benmandrew",
+        "score": 206,
+        "descendants": 57,
+        "time": 1794223865,
+        "comments_url": "https://news.ycombinator.com/item?id=50424157"
+      },
+      "hot_score": 1.72,
+      "tags": [
+        "Programming"
+      ]
+    },
+    {
+      "title_en": "Children of Men: The future is a mirror for the present",
+      "url": "https://reactormag.com/children-of-men-the-future-is-a-mirror-for-the-present/",
+      "title_zh": "《人类之子》：未来是当下的镜子",
+      "is_new": true,
+      "created_display": "Created: Nov 09, 2026 / 05:27 PT",
+      "image_url": "https://reactormag.com/wp-content/uploads/2026/10/children-of-men-header.png",
+      "summary_en": "The piece revisits Alfonso Cuarón’s 2006 science-fiction film Children of Men, starring Clive Owen, Clare-Hope Ashitey, Julianne Moore, and Michael Caine. It calls the film one of the best science-fiction movies of the 21st century and argues that science fiction and stories about the future are inherently connected to politics and the present.",
+      "summary_zh": "文章重新讨论了 Alfonso Cuarón 于 2006 年执导的科幻电影《人类之子》，主演包括 Clive Owen、Clare-Hope Ashitey、Julianne Moore 和 Michael Caine。文章称其为 21 世纪最出色的科幻电影之一，并认为科幻作品和关于未来的故事都与政治及当下密不可分。",
+      "hn": {
+        "id": 50425303,
+        "type": "story",
+        "by": "speckx",
+        "score": 158,
+        "descendants": 120,
+        "time": 1794230821,
+        "comments_url": "https://news.ycombinator.com/item?id=50425303"
+      },
+      "hot_score": 1.72,
+      "tags": [
+        "Entertainment",
+        "Culture",
+        "Politics"
+      ]
+    },
+    {
+      "title_en": "Show HN: DBDelve – Open-Source DB Client Made with Rust and GPUI",
+      "url": "https://news.ycombinator.com/item?id=50427934",
+      "title_zh": "Show HN：DBDelve——使用 Rust 和 GPUI 开发的开源数据库客户端",
+      "is_new": true,
+      "created_display": "Created: Nov 09, 2026 / 08:36 PT",
+      "image_url": null,
+      "summary_en": "DBDelve is an open-source database client written with Rust and GPUI, designed around performance and a lightweight user experience. In a benchmark on the same PostgreSQL table, version 0.3.6 reportedly launched in 1.1 seconds and used 133 MB of idle memory, compared with DBeaver’s 5.2 seconds and 606 MB. The benchmark also reported faster rendering for 1,000-row and one-million-row queries.",
+      "summary_zh": "DBDelve 是一款使用 Rust 和 GPUI 编写的开源数据库客户端，重点是性能和轻量化使用体验。在同一 PostgreSQL 表上的测试中，据称 0.3.6 版本启动耗时 1.1 秒、空闲内存占用 133 MB，而 DBeaver 分别为 5.2 秒和 606 MB。测试还显示，DBDelve 在渲染 1000 行和 100 万行查询结果时更快。",
+      "hn": {
+        "id": 50427934,
+        "type": "story",
+        "by": "shayan_abbas",
+        "score": 87,
+        "descendants": 31,
+        "time": 1794242198,
+        "comments_url": "https://news.ycombinator.com/item?id=50427934"
+      },
+      "hot_score": 1.6,
+      "tags": [
+        "Show HN",
+        "Open Source",
+        "Programming",
+        "Data"
+      ]
+    },
+    {
+      "title_en": "Zebkit – Chromium as an embeddable library",
+      "url": "https://github.com/ikey4u/zebkit",
+      "title_zh": "Zebkit——可嵌入的 Chromium 库",
+      "is_new": true,
+      "created_display": "Created: Nov 09, 2026 / 06:34 PT",
+      "image_url": "https://opengraph.githubassets.com/beb2156ddbd99a13b20ef6a0c955d74714a776a25393ee0933b8cdbaddb46c59/ikey4u/zebkit",
+      "summary_en": "Zebkit packages Chromium’s engine as a cross-platform library for Linux, macOS, and Windows. It includes Blink, V8 with its JIT tiers, PDFium, FFmpeg, and other Chrome components, but omits the Chrome browser and Electron runtime. Applications can use it through C, C++, Rust, Python, Go, or JavaScript bindings.",
+      "summary_zh": "Zebkit 将 Chromium 引擎打包成可运行于 Linux、macOS 和 Windows 的跨平台库。它包含 Blink、带有各级 JIT 的 V8、PDFium、FFmpeg 及其他 Chrome 组件，但不包含 Chrome 浏览器本身或 Electron 运行时。应用可以通过 C、C++、Rust、Python、Go 或 JavaScript 绑定使用它。",
+      "hn": {
+        "id": 50426207,
+        "type": "story",
+        "by": "Riiiiichard",
+        "score": 109,
+        "descendants": 40,
+        "time": 1794234840,
+        "comments_url": "https://news.ycombinator.com/item?id=50426207"
+      },
+      "hot_score": 1.4,
+      "tags": [
+        "Programming",
+        "Web"
+      ]
+    },
+    {
+      "title_en": "Someone registered horny.ceo this week, and we all know why",
+      "url": "https://horny.ceo/",
+      "title_zh": "有人本周注册了 horny.ceo，我们都知道原因",
+      "is_new": true,
+      "created_display": "Created: Nov 09, 2026 / 14:39 PT",
+      "image_url": "https://id-preview--cece7520-9738-4763-abbe-b239aa4f0548.lovable.app/__l5e/assets-v1/3260531e-6547-4d2c-8dd7-adc8529e2b1d/couple-share.jpg",
+      "summary_en": "Horny CEO is a parody AI companion for leaders who want to avoid appearing in headlines. It markets “enterprise-grade fantasies” with zero corporate scandals and claims to leave users focused on their share price.",
+      "summary_zh": "Horny CEO 是一款面向不想登上头条的企业领导者的讽刺性 AI 伴侣。它以“企业级幻想”和零企业丑闻为卖点，并称能让用户专注于股价。",
+      "hn": {
+        "id": 50433286,
+        "type": "story",
+        "by": "tomadeira",
+        "score": 11,
+        "descendants": 2,
+        "time": 1794263948,
+        "comments_url": "https://news.ycombinator.com/item?id=50433286"
+      },
+      "hot_score": 1.31,
+      "tags": [
+        "AI",
+        "Business"
+      ]
+    },
+    {
+      "title_en": "Show HN: Someone Was Here – Find out who used your Mac while you were away",
+      "url": "https://someonewashere.app/",
+      "title_zh": "Show HN：Someone Was Here——找出你离开时谁用过 Mac",
+      "is_new": true,
+      "created_display": "Created: Nov 09, 2026 / 10:50 PT",
+      "image_url": "https://someonewashere.app/img/og-card-v1.jpg",
+      "summary_en": "Someone Was Here takes a photo of whoever uses a Mac while its owner is away and sends an alert to an iPhone or other configured service when the detected face is not the owner’s. It runs as a macOS menu-bar app using Apple Vision and local Core ML face recognition. The app operates locally without tracking or ads, while real-time remote alerts require a one-time $4.99 purchase.",
+      "summary_zh": "Someone Was Here 会在 Mac 所有者离开时拍摄使用电脑者的照片；如果识别到的面孔不是所有者，就向 iPhone 或其他配置的服务发送提醒。它以 macOS 菜单栏应用运行，使用 Apple Vision 和本地 Core ML 人脸识别。应用在本机运行，不含跟踪或广告；实时远程提醒需一次性支付 4.99 美元。",
+      "hn": {
+        "id": 50429812,
+        "type": "story",
+        "by": "4onthefloor124",
+        "score": 40,
+        "descendants": 18,
+        "time": 1794250256,
+        "comments_url": "https://news.ycombinator.com/item?id=50429812"
+      },
+      "hot_score": 1.21,
+      "tags": [
+        "Show HN",
+        "Programming",
+        "Privacy"
+      ]
+    },
+    {
+      "title_en": "Norway has purchased 500k drones for Ukraine (Norwegian)",
+      "url": "https://www.forsvaretsforum.no/droner-fma-forsvarsmateriell/noreg-har-kjopt-500000-dronar-til-ukraina/531540",
+      "title_zh": "挪威已为乌克兰购买 50 万架无人机（挪威语）",
+      "is_new": true,
+      "created_display": "Created: Nov 09, 2026 / 13:07 PT",
+      "image_url": "https://image.forsvaretsforum.no/532002.jpg?imageId=532002&x=0&y=1.94&cropw=100&croph=71.67&panox=0&panoy=1.94&panow=100&panoh=71.67&width=1200&height=683",
+      "summary_en": "Norway’s Defence Materiel Agency says it purchased roughly 500,000 drones and donated them to Ukraine. The agency’s director, Gro Jære, announced the figure at a conference in Oslo.",
+      "summary_zh": "挪威国防物资局表示，已购买约 50 万架无人机并捐赠给乌克兰。该机构负责人 Gro Jære 在奥斯陆的一场会议上公布了这一数字。",
+      "hn": {
+        "id": 50432145,
+        "type": "story",
+        "by": "e12e",
+        "score": 20,
+        "descendants": 3,
+        "time": 1794258437,
+        "comments_url": "https://news.ycombinator.com/item?id=50432145"
+      },
+      "hot_score": 1.21,
+      "tags": [
+        "Hardware",
+        "Politics"
+      ]
+    },
+    {
+      "title_en": "Show HN: STE80 Humanizer – de-AI text by writing 80% of the way to ASD-STE100",
+      "url": "https://github.com/Dodaios/ste80-humanizer",
+      "title_zh": "STE80 Humanizer：将 AI 文本改写至接近 ASD-STE100 的 80%",
+      "is_new": true,
+      "created_display": "Created: Nov 09, 2026 / 10:05 PT",
+      "image_url": "https://opengraph.githubassets.com/6e5728b0f6d80a28c975c0f061fc95d37c8a63c7d6fb7a3e81bb9137185d79f6/Dodaios/ste80-humanizer",
+      "summary_en": "STE80 Humanizer is an agent skill that rewrites AI-generated text to remove common AI markers while preserving its meaning. It targets roughly 80% compliance with ASD-STE100 Simplified Technical English. The example focuses on Kubernetes liveness probes and retains both their restart behavior and the warning that misconfiguration can cause cascading restarts.",
+      "summary_zh": "STE80 Humanizer 是一种智能体技能，旨在去除 AI 生成文本的常见痕迹，同时保持原意。它的目标是让文本达到约 80% 的 ASD-STE100 简明技术英语规范。示例内容围绕 Kubernetes 存活探针展开，并保留了探针触发重启的行为以及配置错误可能导致级联重启的警告。",
+      "hn": {
+        "id": 50429144,
+        "type": "story",
+        "by": "Dodaios",
+        "score": 40,
+        "descendants": 11,
+        "time": 1794247544,
+        "comments_url": "https://news.ycombinator.com/item?id=50429144"
+      },
+      "hot_score": 1.0,
+      "tags": [
+        "Show HN",
+        "AI",
+        "DevOps"
+      ]
+    },
+    {
+      "title_en": "Try Gleam",
+      "url": "https://nchagnet.eu/blog/you-should-try-gleam",
+      "title_zh": "试试 Gleam",
+      "is_new": true,
+      "created_display": "Created: Nov 09, 2026 / 03:55 PT",
+      "image_url": "https://nchagnet.eu/favicon.ico",
+      "summary_en": "Gleam is a functional language targeting the BEAM virtual machine, with simple syntax and interoperability with Erlang and Elixir. It can also compile to JavaScript and run through Node.js. The author compares its syntax and programming experience favorably to Rust while noting that the BEAM ecosystem works differently.",
+      "summary_zh": "Gleam 是一种面向 BEAM 虚拟机的函数式语言，语法简洁，并可与 Erlang 和 Elixir 互操作。它还可以编译为 JavaScript，并通过 Node.js 运行。作者认为，Gleam 的语法和编程体验与 Rust 有不少相似之处，但 BEAM 生态的工作方式有所不同。",
+      "hn": {
+        "id": 50424366,
+        "type": "story",
+        "by": "nchagnet",
+        "score": 112,
+        "descendants": 120,
+        "time": 1794225314,
+        "comments_url": "https://news.ycombinator.com/item?id=50424366"
+      },
+      "hot_score": 0.98,
+      "tags": [
+        "Programming"
+      ]
+    },
+    {
+      "title_en": "Next-Concept Modeling: Fast, Parallel Coarse-to-Fine Text Generation",
+      "url": "https://arxiv.org/abs/2610.14162",
+      "title_zh": "下一概念建模：快速并行的由粗到细文本生成",
+      "is_new": true,
+      "created_display": "Created: Nov 08, 2026 / 23:20 PT",
+      "image_url": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+      "summary_en": "Next-Concept Modeling is a two-stage, coarse-to-fine text-generation framework that uses hierarchical discrete codes and predicts all codes within each level in parallel. At comparable parameter scales, it reportedly runs 21× faster than the strongest diffusion-language-model baseline on LM1B, 10× faster on OpenWebText, and 31× faster on XSum while matching or improving quality metrics. On Sudoku, it outperformed autoregressive and diffusion baselines across all tested difficulty levels using fewer function evaluations.",
+      "summary_zh": "下一概念建模（NCM）是一种由粗到细的两阶段文本生成框架，使用分层离散编码，并在每一层并行预测全部编码。在相近参数规模下，NCM 据称在 LM1B 上比最强扩散语言模型基线快 21 倍，在 OpenWebText 上快 10 倍，在 XSum 上快 31 倍，同时保持或提升质量指标。在数独任务中，它使用更少的函数评估次数，在所有测试难度上都超过了自回归和扩散模型基线。",
+      "hn": {
+        "id": 50422168,
+        "type": "story",
+        "by": "theanonymousone",
+        "score": 175,
+        "descendants": 40,
+        "time": 1794208837,
+        "comments_url": "https://news.ycombinator.com/item?id=50422168"
+      },
+      "hot_score": 0.92,
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "title_en": "Pigshell: Unix the Web",
+      "url": "http://pigshell.com/v/0.6.4/",
+      "title_zh": "Pigshell：Unix 上网",
+      "is_new": true,
+      "created_display": "Created: Nov 09, 2026 / 07:18 PT",
+      "image_url": "http://pigshell.com/v/0.6.4/images/pigshell-logo-320x240.png",
+      "summary_en": "Pigshell is presented as a project called “Unix the Web.” The title provides no further technical details about its implementation or capabilities.",
+      "summary_zh": "Pigshell 是一个名为“Unix the Web”的项目。现有信息没有说明其具体实现方式或功能。",
+      "hn": {
+        "id": 50426831,
+        "type": "story",
+        "by": "pbohun",
+        "score": 63,
+        "descendants": 18,
+        "time": 1794237499,
+        "comments_url": "https://news.ycombinator.com/item?id=50426831"
+      },
+      "hot_score": 0.91,
+      "tags": [
+        "Web"
+      ]
+    },
+    {
+      "title_en": "Supply chain attack on Qubole customers",
+      "url": "https://sentra.io/blog/breaches/inside-the-qubole-supply-chain-attack",
+      "title_zh": "针对 Qubole 客户的供应链攻击",
+      "is_new": true,
+      "created_display": "Created: Nov 09, 2026 / 13:07 PT",
+      "image_url": "https://sentra.io/api/resource-thumbnails/file/Stolen%20Key%20-%20Blog%20Img%20%C2%B7%20Vendor%20reach%20%C2%B7%20Starry%20%C2%B7%201080x1080-FeXa2qU596zPFuNfYxc0ysi1jzUQz3.png",
+      "summary_en": "The incident involved attackers using a trusted vendor’s keys to reach data at multiple companies. Sentra describes the event as a third-party compromise that created an access path into several organizations and says it uncovered the attack in less than 24 hours.",
+      "summary_zh": "这起事件中，攻击者利用受信任供应商的密钥访问多家公司数据。Sentra 将其描述为一次第三方供应商遭入侵，并称该事件为进入多个组织的攻击路径；公司在不到 24 小时内发现了这次攻击。",
+      "hn": {
+        "id": 50432147,
+        "type": "story",
+        "by": "ronreiter",
+        "score": 13,
+        "descendants": 5,
+        "time": 1794258446,
+        "comments_url": "https://news.ycombinator.com/item?id=50432147"
+      },
+      "hot_score": 0.76,
+      "tags": [
+        "Security"
+      ]
+    },
+    {
+      "title_en": "Fun things to do with your VM/370 CE machine – Fun with big computers",
+      "url": "https://rbanffy.github.io/fun-with-big-computers/fun-with-vm370/",
+      "title_zh": "VM/370 CE 机器上的趣事：大型计算机的乐趣",
+      "is_new": true,
+      "created_display": "Created: Nov 09, 2026 / 02:11 PT",
+      "image_url": "https://rbanffy.github.io/fun-with-big-computers/fun-with-vm370/vm370ce-banner.png",
+      "summary_en": "This guide assumes access to a physical or emulated machine running the VM/370 Community Edition operating system. VM/370 CE builds on IBM’s last unrestricted VM/370 release with extensive fixes and improvements. Although it runs on systems limited to one CPU and 16 MB of memory, it includes capabilities that were absent from the original R6 release.",
+      "summary_zh": "这份指南面向拥有运行 VM/370 Community Edition 操作系统的实体或模拟机器的读者。VM/370 CE 在 IBM 最后一个不受许可证限制的 VM/370 版本基础上加入了大量修复和改进。尽管它只能运行在单 CPU、16MB 内存的系统上，但仍包含原始 R6 版本没有的多项能力。",
+      "hn": {
+        "id": 50423569,
+        "type": "story",
+        "by": "rbanffy",
+        "score": 97,
+        "descendants": 34,
+        "time": 1794219107,
+        "comments_url": "https://news.ycombinator.com/item?id=50423569"
+      },
+      "hot_score": 0.69,
+      "tags": [
+        "Education",
+        "Hardware"
+      ]
+    },
+    {
+      "title_en": "M4 Pro vs. M5 Pro (24GB): Qwen 3.8 Flash Next at 374 Tok/S Prefill with MoEShift",
+      "url": "https://github.com/davide-troiani/moeshift",
+      "title_zh": "M4 Pro 对比 M5 Pro（24GB）：Qwen 3.8 Flash Next 使用 MoEShift 达到 374 Tok/s 预填充速度",
+      "is_new": true,
+      "created_display": "Created: Nov 09, 2026 / 13:37 PT",
+      "image_url": "https://opengraph.githubassets.com/46928aa4862dafca2266f3dee2fc8aabcf67810563692275e82869a1db1b434a/davide-troiani/moeshift",
+      "summary_en": "MoEShift is an Apple Silicon inference engine for memory-efficient, high-performance mixture-of-experts models. On a Mac mini with an M4 Pro and 24 GB of unified memory, it runs the 125-billion-parameter Qwen 3.8 Flash Next using under 10 GB of peak process memory. The project reports roughly half the peak memory usage of Strata and 2.6× faster long-prompt processing.",
+      "summary_zh": "MoEShift 是一款面向 Apple Silicon 的高性能、节省内存的混合专家模型推理引擎。在配备 M4 Pro 和 24GB 统一内存的 Mac mini 上，它运行 1250 亿参数的 Qwen 3.8 Flash Next 时，进程峰值内存低于 10GB。项目称，与 Strata 相比，它的峰值内存占用约少一半，长提示处理速度快 2.6 倍。",
+      "hn": {
+        "id": 50432586,
+        "type": "story",
+        "by": "davidetroiani",
+        "score": 9,
+        "descendants": 1,
+        "time": 1794260275,
+        "comments_url": "https://news.ycombinator.com/item?id=50432586"
+      },
+      "hot_score": 0.63,
+      "tags": [
+        "AI",
+        "Hardware"
+      ]
+    },
+    {
+      "title_en": "I ran 120B MoE models on my 32GB M1 Max using under 16 GB",
+      "url": "https://mitln.github.io/moe-inference-engine/",
+      "title_zh": "我在 32GB M1 Max 上运行 120B MoE 模型，内存占用低于 16GB",
+      "is_new": true,
+      "created_display": "Created: Nov 09, 2026 / 11:20 PT",
+      "image_url": null,
+      "summary_en": "The project runs large mixture-of-experts models on a MacBook Pro with an M1 Max and 32 GB of RAM by keeping most model data on the SSD. It loads the required portions during inference and enforces a memory limit that can be checked against macOS’s own memory counters. The approach is intended to run models that would not fit entirely in the machine’s memory.",
+      "summary_zh": "该项目通过将大部分模型数据放在 SSD 上，让配备 M1 Max 和 32GB 内存的 MacBook Pro 运行大型混合专家模型。推理过程中，系统按需加载所需部分，并施加可与 macOS 自身内存计数器核对的内存上限。这种方法旨在运行无法完全装入机器内存的模型。",
+      "hn": {
+        "id": 50430323,
+        "type": "story",
+        "by": "tarassenkov",
+        "score": 15,
+        "descendants": 2,
+        "time": 1794252034,
+        "comments_url": "https://news.ycombinator.com/item?id=50430323"
+      },
+      "hot_score": 0.5,
+      "tags": [
+        "AI",
+        "Hardware"
+      ]
+    },
+    {
+      "title_en": "Claude Fable 5.2 launch offers",
+      "url": "https://support.claude.com/en/articles/17506494-claude-fable-5-2-launch-offers",
+      "title_zh": "Claude Fable 5.2 发布优惠",
+      "is_new": true,
+      "created_display": "Created: Nov 09, 2026 / 11:12 PT",
+      "image_url": "https://downloads.intercomcdn.com/i/o/lupk8zyo/792494/717b10d3ebd874823db64841659b/76f3062d78ebbb04863fb1de3ef9cca0.png",
+      "summary_en": "To mark the launch of Claude Fable 5.2, eligible paid subscribers receive additional Fable usage for a limited time. Depending on the plan and subscription duration, users may receive one to three resets, or one week of included Fable usage plus one reset. The offers apply to selected Pro, Max, Ultra, Team, and legacy seat-based Enterprise plans, but exclude Free and several Enterprise plan types.",
+      "summary_zh": "为庆祝 Claude Fable 5.2 发布，符合条件的付费订阅者可在限时期间获得额外的 Fable 使用额度。根据套餐和订阅时长，用户可能获得一到三次重置，或一周的 Fable 使用权及一次重置。优惠适用于部分 Pro、Max、Ultra、Team 和旧版按席位计费的 Enterprise 套餐，但不适用于免费版及多种 Enterprise 套餐。",
+      "hn": {
+        "id": 50430176,
+        "type": "story",
+        "by": "danc2050",
+        "score": 13,
+        "descendants": 2,
+        "time": 1794251536,
+        "comments_url": "https://news.ycombinator.com/item?id=50430176"
+      },
+      "hot_score": 0.41,
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "title_en": "The Web Is More Than Enough",
+      "url": "https://ftrain.com/aboard-the-web-is-more-than-enough",
+      "title_zh": "Web 已经足够强大，作者：Paul Ford",
+      "is_new": true,
+      "created_display": "Created: Nov 08, 2026 / 11:48 PT",
+      "image_url": "https://ftrain.com/art/uploads/aboard-newsletter/the-web-is-more-than-enough-header.png",
+      "summary_en": "The author argues that web browsers now support rich application development with far less difficulty than before. A browser-based office suite that stores data in the URL attracted enough visitors to exhaust the Cloudflare free plan and draw several hundred thousand people after the author added a payment method. The project also received feature requests, media coverage, and a temporary top-ten position on Product Hunt.",
+      "summary_zh": "作者认为，如今的浏览器已经能够以比过去低得多的成本支持丰富的应用开发。一款将数据存储在 URL 中的浏览器办公套件吸引了大量访问者，耗尽 Cloudflare 免费套餐；作者绑定支付方式后，又有数十万人前来访问。该项目还收到功能请求，获得媒体报道，并一度进入 Product Hunt 前十。",
+      "hn": {
+        "id": 50416456,
+        "type": "story",
+        "by": "edward",
+        "score": 175,
+        "descendants": 129,
+        "time": 1794167312,
+        "comments_url": "https://news.ycombinator.com/item?id=50416456"
+      },
+      "tags": [
+        "Web"
+      ],
+      "hot_score": 0.38
+    },
+    {
+      "title_en": "RAM-Altman reports unused RAM on your machine, one email a day",
+      "url": "https://github.com/IainKay/ram-altman",
+      "title_zh": "RAM-Altman 每天发一封邮件，向 Altman 报告机器上的闲置内存",
+      "is_new": true,
+      "created_display": "Created: Nov 09, 2026 / 04:36 PT",
+      "image_url": "https://repository-images.githubusercontent.com/1447227957/f28758b3-3739-4e6d-80b3-5521d02b77ef",
+      "summary_en": "RAM-Altman is a Bash script that once a day reports unused RAM directly to OpenAI CEO Sam Altman. It requires no installation and provides sample emails through its companion site.",
+      "summary_zh": "RAM-Altman 是一个每天向 OpenAI CEO Sam Altman 报告闲置内存的 Bash 脚本。它无需安装，并通过配套网站提供示例邮件。",
+      "hn": {
+        "id": 50424757,
+        "type": "story",
+        "by": "bobsoap",
+        "score": 40,
+        "descendants": 8,
+        "time": 1794227807,
+        "comments_url": "https://news.ycombinator.com/item?id=50424757"
+      },
+      "hot_score": 0.38,
+      "tags": [
+        "Programming",
+        "AI",
+        "Business"
+      ]
+    },
+    {
+      "title_en": "Testing Claude on real-world electronics design",
+      "url": "https://www.anthropic.com/research/claude-electronics-design",
+      "title_zh": "在真实电子设计中测试 Claude",
+      "is_new": true,
+      "created_display": "Created: Nov 09, 2026 / 10:58 PT",
+      "image_url": "https://www-cdn.anthropic.com/images/4zrzovbb/website/b953cc611ebe78f0b84e996dd54a614efd38b3f4-2000x1125.jpg",
+      "summary_en": "Anthropic asked Claude to design a speakerphone, a voice-assistant hub, and a handheld virtual pet, and says all three prototypes worked without circuit fixes. The work involved circuit design and simulation, board layout, mechanical components, firmware, and manufacturing constraints. Anthropic says the newer models can now design and prototype electronic hardware from start to finish.",
+      "summary_zh": "Anthropic 让 Claude 设计免提电话、语音助手中枢和手持虚拟宠物，并称三个原型的电路都无需修改即可运行。这项工作涉及电路设计与仿真、电路板布局、机械部件、固件以及制造约束。Anthropic 表示，新模型现在能够从头到尾完成电子硬件的设计和原型制作。",
+      "hn": {
+        "id": 50429952,
+        "type": "story",
+        "by": "rbinv",
+        "score": 13,
+        "descendants": 2,
+        "time": 1794250728,
+        "comments_url": "https://news.ycombinator.com/item?id=50429952"
+      },
+      "hot_score": 0.38,
+      "tags": [
+        "AI",
+        "Hardware"
+      ]
+    },
+    {
+      "title_en": "Starship Flight 15 on 11/13 plans to catch both booster and ship",
+      "url": "https://www.spacex.com/launches/starship-flight-15",
+      "title_zh": "星舰第 15 次飞行计划于 11 月 13 日同时接住助推器和飞船",
+      "is_new": true,
+      "created_display": "Created: Nov 08, 2026 / 11:49 PT",
+      "image_url": "https://www.spacex.com/assets/images/share.jpg",
+      "summary_en": "SpaceX’s Starship Flight 15 is scheduled for November 13 and plans to catch both the booster and the ship. The available information identifies SpaceX as a company that designs, manufactures, and launches rockets and spacecraft, but provides no further details about the flight plan.",
+      "summary_zh": "SpaceX 的星舰第 15 次飞行计划于 11 月 13 日进行，目标是同时接住助推器和飞船。现有信息只说明 SpaceX 负责设计、制造和发射火箭及航天器，没有提供更多飞行计划细节。",
+      "hn": {
+        "id": 50416471,
+        "type": "story",
+        "by": "spikels",
+        "score": 151,
+        "descendants": 115,
+        "time": 1794167386,
+        "comments_url": "https://news.ycombinator.com/item?id=50416471"
+      },
+      "tags": [
+        "Space"
+      ],
+      "hot_score": 0.33
+    },
+    {
+      "title_en": "The Qlobe: Rotating Quine (2010)",
+      "url": "http://mamememo.blogspot.com/2010/09/qlobe.html",
+      "title_zh": "再见，Qlobe：旋转 Quine（2010）",
+      "is_new": true,
+      "created_display": "Created: Nov 08, 2026 / 19:15 PT",
+      "image_url": null,
+      "summary_en": "Qlobe is a rotating quine from 2010. The title identifies it as a self-reproducing program or artifact presented in a rotating form, but no further technical details are available.",
+      "summary_zh": "Qlobe 是一个创作于 2010 年的旋转 Quine。标题表明它是一种以旋转形式呈现的自复制程序或作品，但现有信息没有提供更多技术细节。",
+      "hn": {
+        "id": 50420599,
+        "type": "story",
+        "by": "niceguitars",
+        "score": 45,
+        "descendants": 2,
+        "time": 1794194117,
+        "comments_url": "https://news.ycombinator.com/item?id=50420599"
+      },
+      "tags": [
+        "Programming"
+      ],
+      "hot_score": 0.16
+    },
+    {
+      "title_en": "Drones built to look like birds evaded detection at Air Force tech exercise",
+      "url": "https://taskandpurpose.com/news/drone-mimicking-bird-test/",
+      "title_zh": "仿鸟无人机在空军技术演习中躲过探测",
+      "is_new": true,
+      "created_display": "Created: Nov 08, 2026 / 07:00 PT",
+      "image_url": "https://taskandpurpose.com/wp-content/uploads/2026/11/9960819-copy.jpg?w=1200",
+      "summary_en": "A flapping-wing drone from U.S.-based Ornadyne evaded sensor detection during a recent Air Force technology exercise in the Mojave Desert. The company's small O1 ornithopter uses bird-like wing movements instead of propellers and is designed to resemble birds found in different regions. It is intended for low-altitude intelligence collection and area surveys.",
+      "summary_zh": "美国 Ornadyne 公司研发的一款扑翼无人机在莫哈韦沙漠举行的一次空军技术演习中躲过了传感器探测。该公司的小型 O1 扑翼机不使用螺旋桨，而是通过类似鸟类的振翅方式飞行，并被设计成类似不同地区常见的鸟类。它面向低空情报收集和区域侦察任务。",
+      "hn": {
+        "id": 50413885,
+        "type": "story",
+        "by": "bushwart",
+        "score": 85,
+        "descendants": 57,
+        "time": 1794150042,
+        "comments_url": "https://news.ycombinator.com/item?id=50413885"
+      },
+      "tags": [
+        "Hardware",
+        "Science"
+      ],
+      "hot_score": 0.14
+    },
+    {
+      "title_en": "Show HN: Recalc – Spreadsheet where cells can be Claude Code or Codex terminals",
+      "url": "https://github.com/sshah03/recalc",
+      "title_zh": "Show HN：Recalc——单元格可以运行 Claude Code 或 Codex 的电子表格",
+      "is_new": true,
+      "created_display": "Created: Nov 08, 2026 / 07:12 PT",
+      "image_url": "https://repository-images.githubusercontent.com/1444840798/af648455-e25f-46ff-bdc6-280cd3a8c373",
+      "summary_en": "Recalc is a spreadsheet that can host a lead Claude Code or Codex session in a side panel while allowing each cell to act as a terminal session. Sessions can communicate through grid cells, named cells, or an MCP server, and can be continued in a regular terminal. The tool currently runs locally on macOS, with Linux support described as less tested.",
+      "summary_zh": "Recalc 是一款电子表格应用，可在侧栏运行主 Claude Code 或 Codex 会话，并让每个单元格充当终端会话。不同会话可以通过网格单元格、命名单元格或 MCP 服务器互相通信，也可以在普通终端中继续运行。目前该工具可在 macOS 本地运行，Linux 支持则尚未充分测试。",
+      "hn": {
+        "id": 50413970,
+        "type": "story",
+        "by": "sshah03",
+        "score": 22,
+        "descendants": 5,
+        "time": 1794150727,
+        "comments_url": "https://news.ycombinator.com/item?id=50413970"
+      },
+      "hot_score": 0.04,
+      "tags": [
+        "Show HN",
+        "AI"
+      ]
+    },
+    {
+      "title_en": "Deuterium's Impact on OLED Displays (2024)",
+      "url": "https://www.oled-info.com/deuteriums-impact-oled-displays",
+      "title_zh": "氘对 OLED 显示屏的影响（2024）",
+      "is_new": true,
+      "created_display": "Created: Nov 08, 2026 / 00:52 PT",
+      "image_url": "https://www.oled-info.com/img/oled-info-logo.png",
+      "summary_en": "It focuses particularly on deuterated blue OLED emitters, which address the historically higher power consumption of blue OLEDs compared with red and green emitters. The post is sponsored content.",
+      "summary_zh": "文章将氘这种稳定的氢同位素描述为一种可提升 OLED 亮度、效率和寿命的材料。内容尤其关注氘化蓝色 OLED 发光材料，它可应对蓝色 OLED 历来比红色和绿色发光材料耗电更高的问题。该内容为赞助文章。",
+      "hn": {
+        "id": 50411515,
+        "type": "story",
+        "by": "zeristor",
+        "score": 23,
+        "descendants": 8,
+        "time": 1794127953,
+        "comments_url": "https://news.ycombinator.com/item?id=50411515"
+      },
+      "hot_score": 0.03,
+      "tags": [
+        "Science"
+      ]
+    },
+    {
+      "title_en": "A primer on GPUs and kernel optimization",
+      "url": "https://www.nabo.dev/blogs/kernel-primer",
+      "title_zh": "GPU 与内核优化入门",
+      "is_new": true,
+      "created_display": "Created: Nov 05, 2026 / 15:48 PT",
+      "image_url": "https://www.nabo.dev/images/kernel-primer-preview.png",
+      "summary_en": "This primer introduces the basics of GPUs, profilers, distributed computation, and kernel optimization. It is intended as an overview of the concepts involved in improving GPU program performance.",
+      "summary_zh": "这篇入门材料介绍 GPU、性能分析器、分布式计算和内核优化的基础知识，旨在概览提升 GPU 程序性能所涉及的核心概念。",
+      "hn": {
+        "id": 50386246,
+        "type": "story",
+        "by": "nomi_uw",
+        "score": 74,
+        "descendants": 3,
+        "time": 1793922484,
+        "comments_url": "https://news.ycombinator.com/item?id=50386246"
+      },
+      "hot_score": 0.02,
+      "tags": [
+        "Programming",
+        "Hardware"
+      ]
+    },
+    {
+      "title_en": "An ode to livelyness analysis; SSA to registers",
+      "url": "https://xnacly.me/posts/2026/an-ode-to-livelyness-analysis/",
+      "title_zh": "献给活跃性分析的颂歌：从 SSA 到寄存器",
+      "is_new": true,
+      "created_display": "Created: Nov 07, 2026 / 07:17 PT",
+      "image_url": "https://xnacly.me/livelyness/icon.png",
+      "summary_en": "This project examines block-local liveness analysis on SSA intermediate representation and register allocation for a virtual machine and an x86 JIT compiler. The work supports the author’s programming language, purple-garden, whose register-based bytecode VM and JIT are both being developed.",
+      "summary_zh": "这个项目研究 SSA 中间表示上的基本块局部活跃性分析，以及虚拟机和 x86 JIT 编译器中的寄存器分配。相关工作服务于作者的编程语言 purple-garden，其基于寄存器的字节码虚拟机和 JIT 编译器都在开发中。",
+      "hn": {
+        "id": 50405274,
+        "type": "story",
+        "by": "xnacly",
+        "score": 24,
+        "descendants": 0,
+        "time": 1794064651,
+        "comments_url": "https://news.ycombinator.com/item?id=50405274"
+      },
+      "hot_score": 0.02,
+      "tags": [
+        "Programming"
+      ]
+    },
+    {
+      "title_en": "Pointer Provenance in Rust vs. C++: Pointers Are Not Just Glorified Ints",
+      "url": "https://sofiabelen.github.io/projects/pointer-provenance-in-rust-vs-cpp/",
+      "title_zh": "Rust 与 C++ 中的指针溯源：指针不只是强化版整数",
+      "is_new": true,
+      "created_display": "Created: Nov 05, 2026 / 01:32 PT",
+      "image_url": "https://sofiabelen.github.io/projects/pointer-provenance-in-rust-vs-cpp/yves-alarie-MmZet_7mzMY-unsplash.jpg",
+      "summary_en": "This exploration examines pointer provenance in Rust and C++, including LLVM IR and the representation of vtables and function pointers. The author investigates how provenance affects what pointers can legitimately reference and why it is difficult to visualize directly in memory. The project uses low-level experiments to compare the two languages’ approaches.",
+      "summary_zh": "这篇文章探讨 Rust 和 C++ 中的指针溯源，包括 LLVM IR 以及虚函数表和函数指针的表示方式。作者研究了溯源如何影响指针能够合法引用的对象，以及为什么它难以直接通过内存观察。项目通过底层实验比较两种语言的处理方式。",
+      "hn": {
+        "id": 50377111,
+        "type": "story",
+        "by": "sofiabelenlopez",
+        "score": 26,
+        "descendants": 12,
+        "time": 1793871170,
+        "comments_url": "https://news.ycombinator.com/item?id=50377111"
+      },
+      "hot_score": 0.01,
+      "tags": [
+        "Programming"
+      ]
+    },
+    {
+      "title_en": "Possible 19th-century castaway camp found on Isla de los Estados",
+      "url": "https://phys.org/news/2026-11-archaeologists-uncover-19th-century-castaway.html",
+      "title_zh": "伊斯拉·德洛斯埃斯塔多斯岛或发现 19 世纪漂流者营地",
+      "is_new": true,
+      "created_display": "Created: Nov 06, 2026 / 07:59 PT",
+      "image_url": "https://scx2.b-cdn.net/gfx/news/hires/2026/archaeologists-uncover-13.jpg",
+      "summary_en": "Archaeologists have uncovered the remains of a possible 19th-century castaway camp on the remote Isla de los Estados. The camp may have belonged to a renowned Argentine sailor and his shipwrecked crew.",
+      "summary_zh": "考古学家在偏远的伊斯拉·德洛斯埃斯塔多斯岛发现了一处可能属于 19 世纪漂流者的营地遗迹。该营地或许曾属于一名著名的阿根廷水手及其遭遇海难的船员。",
+      "hn": {
+        "id": 50394017,
+        "type": "story",
+        "by": "titusblair",
+        "score": 11,
+        "descendants": 0,
+        "time": 1793980752,
+        "comments_url": "https://news.ycombinator.com/item?id=50394017"
+      },
+      "hot_score": 0.0,
+      "tags": [
+        "Science"
+      ]
+    },
+    {
+      "title_en": "Magnets and Rare Earths",
+      "url": "https://robodienst.com/learning-paths/magnets-and-rare-earths",
+      "title_zh": "磁铁与稀土",
+      "is_new": true,
+      "created_display": "Created: Nov 06, 2026 / 19:29 PT",
+      "image_url": "https://robodienst.com/og-image.png",
+      "summary_en": "This seven-step educational guide explains why joint motors need magnets, what those magnets are made of, and which companies manufacture most of them. It covers topics from the strongest magnets to current export controls, with a short quiz accompanying each step.",
+      "summary_zh": "这份七步教程解释关节电机为何需要磁铁、磁铁由什么制成，以及哪些企业生产了其中的大部分产品。内容从“最强磁铁”讲到当今的出口管制，每一步都配有简短测验。",
+      "hn": {
+        "id": 50401369,
+        "type": "story",
+        "by": "Bluestein",
+        "score": 7,
+        "descendants": 2,
+        "time": 1794022179,
+        "comments_url": "https://news.ycombinator.com/item?id=50401369"
+      },
+      "hot_score": 0.0,
+      "tags": [
+        "Science"
+      ]
+    }
+  ]
+}

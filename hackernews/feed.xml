@@ -5,7 +5,7 @@
     <link>https://chaowang15.github.io/hackernews/</link>
     <description>Curated daily digest of top Hacker News stories with AI-generated summaries, tags, and bilingual translations.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 09 Nov 2026 06:59:39 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 23:46:26 +0000</lastBuildDate>
     <generator>Hacker News Daily RSS Builder</generator>
     <atom:link href="https://chaowang15.github.io/hackernews/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
@@ -56,19 +56,6 @@
 &lt;p&gt;&lt;em&gt;HackerBooks 收录了 2007 年至今至少被两名不同 Hacker News 评论者提到过的约 1.65 万本书。每本书都链接回提及它的评论，数据集也可从关于页面下载。创建者说明，系统只统计提及次数，不区分赞扬和批评，因此部分书籍可能遗漏或匹配错误。&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;▲ 1843 · 💬 304 · Show HN · Data&lt;/small&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50326821&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/03/top_stories_11032026#story-50326821&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>We're releasing the weights of Mistral Large 4</title>
-      <link>https://mistral.ai/news/mistral-large-4-oss/</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50289418</guid>
-      <dc:creator>kuberwastaken</dc:creator>
-      <pubDate>Thu, 29 Oct 2026 14:13:21 +0000</pubDate>
-      <category>AI</category>
-      <category>Open Source</category>
-      <description>&lt;p&gt;Mistral AI has released the weights for Mistral Large 4, enabling researchers to run and fine-tune the model locally. This move reduces reliance on hosted APIs and accelerates experimentation, but also brings licensing, safety, and governance considerations to the fore in open-weight AI projects.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Mistral Large 4 的权重已对外公开，研究者和开发者可以在本地部署与微调。此举降低对 API 的依赖，促进实验，但也引发许可、安全与治理方面的讨论。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 1724 · 💬 440 · AI · Open Source&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50289418&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/02/top_stories_11022026#story-50289418&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>WTF Ubuntu?</title>
@@ -200,18 +187,6 @@
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50339288&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/04/top_stories_11042026#story-50339288&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Serbia just elected the world's brainiest parliament</title>
-      <link>https://www.science.org/content/article/serbia-just-elected-world-s-brainiest-parliament</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50314654</guid>
-      <dc:creator>input_sh</dc:creator>
-      <pubDate>Sat, 31 Oct 2026 10:21:30 +0000</pubDate>
-      <category>Politics</category>
-      <description>&lt;p&gt;The title reports that Serbia has elected what it calls the world’s brainiest parliament.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;标题称，塞尔维亚刚刚选出了“世界上最聪明的议会”。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 918 · 💬 509 · Politics&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50314654&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/02/top_stories_11022026#story-50314654&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>An Italian farmer found some unknown seeds in his attic and planted them</title>
       <link>https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/</link>
       <guid isPermaLink="true">https://news.ycombinator.com/item?id=50320963</guid>
@@ -248,6 +223,19 @@
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50312408&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/03/top_stories_11032026#story-50312408&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Claude Fable 5.2 and Mythos 5.2</title>
+      <link>https://www.anthropic.com/claude-fable-and-mythos-5-2</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50429906</guid>
+      <dc:creator>meetpateltech</dc:creator>
+      <pubDate>Mon, 09 Nov 2026 18:56:29 +0000</pubDate>
+      <category>AI</category>
+      <category>Science</category>
+      <description>&lt;p&gt;Anthropic introduced Claude Fable 5.2 and Claude Mythos 5.2 for demanding technical work, with claimed improvements in coding, reasoning, and vision. During prerelease testing, Anthropic says the models helped engineers complete software migrations, design three working electronic devices, make progress on robotics evaluations, and solve problems in physics. The company also says the models formalized a proof of Fermat’s Last Theorem in 30 hours.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Anthropic 推出了面向高难度技术工作的 Claude Fable 5.2 和 Claude Mythos 5.2，并称它们在编码、推理和视觉能力方面有所提升。在预发布测试中，Anthropic 表示这些模型帮助工程师完成软件迁移、设计出三种可运行的电子设备、推进机器人评测，并解决物理学问题。公司还称，模型在 30 小时内形式化完成了费马大定理的证明。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 839 · 💬 507 · AI · Science&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50429906&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/09/top_stories_11092026#story-50429906&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Stringman, an $800 open-source room scale gripper robot</title>
       <link>https://neufangled.com/</link>
       <guid isPermaLink="true">https://news.ycombinator.com/item?id=50354358</guid>
@@ -272,6 +260,19 @@
 &lt;p&gt;&lt;em&gt;Subvocal 正在开发能将无声口型以接近语速转换为文字的智能眼镜。系统甚至可以在不张嘴的情况下工作，通过射频感知口腔内部动作；开发者强调，这不同于单纯在脑中默念。创始人因发现语音工具不适合图书馆、办公室和公共场所，开始了这个项目。&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;▲ 817 · 💬 388 · Show HN · AI&lt;/small&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50340088&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/03/top_stories_11032026#story-50340088&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Fold Epic Paper Airplanes</title>
+      <link>https://www.foldableflight.com</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50424581</guid>
+      <dc:creator>vismit2000</dc:creator>
+      <pubDate>Mon, 09 Nov 2026 12:19:22 +0000</pubDate>
+      <category>Education</category>
+      <category>Data</category>
+      <description>&lt;p&gt;Foldable Flight presents a large database of paper airplanes with step-by-step video folding tutorials. Its listed prototypes include one that can fly more than 300 feet and another, named Unite, that holds a 31.2-second flight-time record.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Foldable Flight 提供了一个大型纸飞机数据库，并为每种纸飞机配备分步骤视频折叠教程。其展示的原型中，有一种飞行距离超过 300 英尺，另一种名为 Unite 的纸飞机创下了 31.2 秒的滞空时间纪录。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 799 · 💬 133 · Education · Data&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50424581&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/09/top_stories_11092026#story-50424581&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>What I run on my $10 USD OpenStick homelab</title>
@@ -361,16 +362,16 @@
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50363461&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/05/top_stories_11052026#story-50363461&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Restrooms along the Norwegian Scenic Routes</title>
-      <link>https://www.visitnorway.com/plan-your-trip/travel-tips-a-z/norwegian-scenic-routes/worlds-best-toilets/</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50324388</guid>
-      <dc:creator>giuliomagnifico</dc:creator>
-      <pubDate>Sun, 01 Nov 2026 10:47:58 +0000</pubDate>
-      <category>Design</category>
-      <description>&lt;p&gt;The restrooms along Norway’s Scenic Routes are presented as architectural landmarks designed to work with the surrounding landscape. Most were designed by established or emerging Norwegian architecture firms. Examples include Snøhetta’s small Eggum stop in Lofoten and Reiulf Ramstad’s facility at Selvika.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;挪威风景公路沿线的卫生间被视为与周围自然环境协调的建筑地标。大多数设施由知名或新兴的挪威建筑事务所设计。例如，罗弗敦群岛 Eggum 休息点由 Snøhetta 设计，Selvika 的设施则由 Reiulf Ramstad 设计。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 711 · 💬 432 · Design&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50324388&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/02/top_stories_11022026#story-50324388&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+      <title>Is Opus 5.5 nerfed? Thinking patterns changed on November 3</title>
+      <link>https://twitter.com/shanemelaugh/status/2119192075505893695</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50422069</guid>
+      <dc:creator>rzk</dc:creator>
+      <pubDate>Mon, 09 Nov 2026 07:04:25 +0000</pubDate>
+      <category>AI</category>
+      <description>&lt;p&gt;An analysis of 1,400 Claude Code sessions reportedly found a sharp change in Opus 5.5’s reasoning behavior on November 3. The model name did not change, but the analysis claims that its thinking patterns shifted noticeably. The report does not identify the cause of the change.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;对 1400 次 Claude Code 会话的分析据称发现，Opus 5.5 在 11 月 3 日的推理行为发生了明显变化。模型名称并未改变，但分析认为其思考模式出现了显著转折。该报告没有说明变化原因。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 708 · 💬 459 · AI&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50422069&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/09/top_stories_11092026#story-50422069&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Goldman Sachs is pulling Claude Code from its bankers and traders</title>
@@ -512,19 +513,6 @@
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50407882&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/08/top_stories_11082026#story-50407882&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>The $6.3B Binance hack was pulled off in just 20 minutes</title>
-      <link>https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50303172</guid>
-      <dc:creator>domhudson</dc:creator>
-      <pubDate>Fri, 30 Oct 2026 12:50:01 +0000</pubDate>
-      <category>Security</category>
-      <category>Finance</category>
-      <description>&lt;p&gt;Hackers siphoned roughly $6.3 billion in cryptocurrency from wallets belonging to Binance across multiple blockchains in about 20 minutes. Binance suspended deposits and withdrawals and began investigating, while the exchange and other crypto firms said they had frozen around half of the stolen funds. Much of the remaining cryptocurrency may not be recoverable through freezing.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;黑客在约 20 分钟内从币安所属的钱包中跨多个区块链转走了约 63 亿美元的加密货币。币安暂停了存款和提现并展开调查；该交易所及其他加密行业公司称，已冻结约一半被盗资金。剩余的大部分加密货币可能无法通过冻结追回。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 594 · 💬 449 · Security · Finance&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50303172&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/02/top_stories_11022026#story-50303172&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>AMD expects to outsell Intel in Q4 for the first time in history</title>
       <link>https://www.tomshardware.com/pc-components/cpus/amd-expects-to-outsell-intel-in-q4-for-the-first-time-in-history-usd17b-guidance-would-exceed-intels-projections</link>
       <guid isPermaLink="true">https://news.ycombinator.com/item?id=50367125</guid>
@@ -637,6 +625,19 @@
 &lt;p&gt;&lt;em&gt;富士胶片计划投资约 100 亿日元，即约 6300 万美元，将磁带产能提高五倍。公司将归档需求的增长归因于生成式 AI 以及其所称的全球数据指数级增长。五倍增幅将以 2025 财年的产量为基准。&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;▲ 529 · 💬 228 · AI · Hardware&lt;/small&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50336918&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/04/top_stories_11042026#story-50336918&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Ask HN: What's your current AI agentic setup?</title>
+      <link>https://news.ycombinator.com/item?id=50366117</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50366117</guid>
+      <dc:creator>eggbrain</dc:creator>
+      <pubDate>Wed, 04 Nov 2026 14:37:22 +0000</pubDate>
+      <category>AI</category>
+      <category>Programming</category>
+      <description>&lt;p&gt;An Ask HN thread asks how people use AI agents in their daily work. It solicits details about paid subscriptions, external or locally hosted models, coding harnesses, orchestration tools, and broader agent platforms. The discussion aims to gauge how individual workflows have changed over the past year.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;一则 Ask HN 帖子询问人们目前如何在日常工作中使用 AI agent。发帖者希望了解大家购买的订阅、外部或本地部署的模型、编程工具链、编排工具以及更广泛的 agent 平台。讨论旨在了解个人工作流在过去一年中的变化。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 520 · 💬 642 · AI · Programming&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50366117&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/05/top_stories_11052026#story-50366117&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
