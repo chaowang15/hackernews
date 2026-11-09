@@ -5,7 +5,7 @@
     <link>https://chaowang15.github.io/hackernews/</link>
     <description>Curated daily digest of top Hacker News stories with AI-generated summaries, tags, and bilingual translations.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 08 Nov 2026 19:23:15 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 06:59:39 +0000</lastBuildDate>
     <generator>Hacker News Daily RSS Builder</generator>
     <atom:link href="https://chaowang15.github.io/hackernews/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
@@ -17,8 +17,8 @@
       <category>Security</category>
       <description>&lt;p&gt;OpenSSH on musl Linux has reportedly allowed access to passwordless accounts since 2016. The issue relates to how Unix historically represented accounts that should never permit login, including accounts marked with an asterisk in the password file. The behavior can therefore expose accounts that were intended to be inaccessible.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;据报道，musl Linux 上的 OpenSSH 自 2016 年起可能允许进入无密码账户。问题与 Unix 处理本应禁止登录的账户的历史方式有关，包括在密码文件中用星号标记的账户。因此，原本应不可访问的账户可能被暴露。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 2961 · 💬 744 · Security&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50378228&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/07/top_stories_11072026#story-50378228&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+&lt;p&gt;&lt;small&gt;▲ 2978 · 💬 747 · Security&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50378228&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/08/top_stories_11082026#story-50378228&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Astra can read and write weights to improve Qwen</title>
@@ -94,8 +94,8 @@
       <category>Security</category>
       <description>&lt;p&gt;A reported Claude Code bug exposed a user's email address to arbitrary third parties in the User-Agent header during web searches. The user says this happened without permission and was followed by a large increase in scam emails. They argue that the behavior should be removed rather than controlled by an opt-in or opt-out setting.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;有用户报告称，Claude Code 在进行网页搜索时，会通过 User-Agent 请求头将其邮箱地址暴露给任意第三方。该用户表示，未经允许发生这一行为后，自己收到的诈骗邮件大幅增加。用户认为，这种行为不应通过加入或退出选项控制，而应从系统中彻底移除。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 1594 · 💬 520 · AI · Privacy · Security&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50385272&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/07/top_stories_11072026#story-50385272&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+&lt;p&gt;&lt;small&gt;▲ 1605 · 💬 533 · AI · Privacy · Security&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50385272&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/08/top_stories_11082026#story-50385272&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>AI is forcing us to pay off 40 years of technical debt</title>
@@ -137,6 +137,19 @@
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50391456&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/07/top_stories_11072026#story-50391456&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Need for Speed Underground 2 online in the browser</title>
+      <link>https://nfsu2.xyz/</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50403052</guid>
+      <dc:creator>fluxusars</dc:creator>
+      <pubDate>Sat, 07 Nov 2026 09:36:36 +0000</pubDate>
+      <category>Gaming</category>
+      <category>Web</category>
+      <description>&lt;p&gt;The project brings Need for Speed Underground 2 online in a web browser. No further implementation details or features are established here.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;该项目让《极品飞车：地下狂飙 2》能够在浏览器中在线运行。现有信息未说明其具体实现方式或功能细节。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 1132 · 💬 280 · Gaming · Web&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50403052&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/08/top_stories_11082026#story-50403052&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Libghostty 1.0</title>
       <link>https://mitchellh.com/writing/libghostty-1-0</link>
       <guid isPermaLink="true">https://news.ycombinator.com/item?id=50399933</guid>
@@ -145,8 +158,8 @@
       <category>Programming</category>
       <description>&lt;p&gt;libghostty-vt 1.0 has been released as a portable, high-performance C library for terminal emulation, extracted from Ghostty’s core. Both the library and its C ABI are now stable. The C API has grown from nonexistent to a complete terminal emulator used in production by millions of people across hundreds of free and commercial products.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;libghostty-vt 1.0 已发布，这是一个从 Ghostty 核心提取出的便携、高性能终端模拟 C 库。该库本身及其 C ABI 现已稳定。其 C API 已从无到有发展为完整的终端模拟器，目前已在数百款免费和商业产品中投入生产，服务数百万人。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 1038 · 💬 181 · Programming&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50399933&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/07/top_stories_11072026#story-50399933&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+&lt;p&gt;&lt;small&gt;▲ 1077 · 💬 194 · Programming&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50399933&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/08/top_stories_11082026#story-50399933&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>The 'Astra can read and write weights to improve Qwen' post is misleading</title>
@@ -187,19 +200,6 @@
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50339288&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/04/top_stories_11042026#story-50339288&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Need for Speed Underground 2 online in the browser</title>
-      <link>https://nfsu2.xyz/</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50403052</guid>
-      <dc:creator>fluxusars</dc:creator>
-      <pubDate>Sat, 07 Nov 2026 09:36:36 +0000</pubDate>
-      <category>Gaming</category>
-      <category>Web</category>
-      <description>&lt;p&gt;The project brings Need for Speed Underground 2 online in a web browser. No further implementation details or features are established here.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;该项目让《极品飞车：地下狂飙 2》能够在浏览器中在线运行。现有信息未说明其具体实现方式或功能细节。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 920 · 💬 242 · Gaming · Web&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50403052&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/07/top_stories_11072026#story-50403052&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>Serbia just elected the world's brainiest parliament</title>
       <link>https://www.science.org/content/article/serbia-just-elected-world-s-brainiest-parliament</link>
       <guid isPermaLink="true">https://news.ycombinator.com/item?id=50314654</guid>
@@ -224,6 +224,18 @@
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50320963&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/03/top_stories_11032026#story-50320963&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Every Mac comes with an (undocumented) family member classifier</title>
+      <link>https://8rank.ai/game/apple-intelligence-personal-knowledge-graph</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50403097</guid>
+      <dc:creator>infwhispers</dc:creator>
+      <pubDate>Sat, 07 Nov 2026 09:46:03 +0000</pubDate>
+      <category>Privacy</category>
+      <description>&lt;p&gt;The post claims that every Mac since macOS 13, released in 2022, includes two daemons that build a graph of the user’s relationships and activities. The graph is described as covering contacts, relationships, communications, locations, activities, and timing.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;文章称，自 2022 年发布的 macOS 13 起，每台 Mac 都包含两个用于构建用户关系和活动图谱的后台进程。该图谱据称涵盖联系人、彼此关系、通信、位置、活动及时间信息。文章还分析了这一系统的工作方式，并提供了查看个人设备上该图谱的工具。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 850 · 💬 450 · Privacy&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50403097&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/08/top_stories_11082026#story-50403097&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Postgres 19 is late because so many more bugs are being found now</title>
       <link>http://rhaas.blogspot.com/2026/10/postgres-19-is-late-and-its-ais-fault.html</link>
       <guid isPermaLink="true">https://news.ycombinator.com/item?id=50312408</guid>
@@ -234,18 +246,6 @@
 &lt;p&gt;&lt;em&gt;Postgres 19 的发布出现延期，原因是开发过程中发现的错误数量大幅增加。标题将这次延迟归因于缺陷发现增多。&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;▲ 844 · 💬 511 · Programming&lt;/small&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50312408&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/03/top_stories_11032026#story-50312408&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Every Mac comes with an (undocumented) family member classifier</title>
-      <link>https://8rank.ai/game/apple-intelligence-personal-knowledge-graph</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50403097</guid>
-      <dc:creator>infwhispers</dc:creator>
-      <pubDate>Sat, 07 Nov 2026 09:46:03 +0000</pubDate>
-      <category>Privacy</category>
-      <description>&lt;p&gt;The post claims that every Mac since macOS 13, released in 2022, includes two daemons that build a graph of the user’s relationships and activities. The graph is described as covering contacts, relationships, communications, locations, activities, and timing.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;文章称，自 2022 年发布的 macOS 13 起，每台 Mac 都包含两个用于构建用户关系和活动图谱的后台进程。该图谱据称涵盖联系人、彼此关系、通信、位置、活动及时间信息。文章还分析了这一系统的工作方式，并提供了查看个人设备上该图谱的工具。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 823 · 💬 437 · Privacy&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50403097&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/08/top_stories_11082026#story-50403097&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Stringman, an $800 open-source room scale gripper robot</title>
@@ -274,6 +274,18 @@
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50340088&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/03/top_stories_11032026#story-50340088&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>What I run on my $10 USD OpenStick homelab</title>
+      <link>https://blog.bosscher.ch/posts/openstick/</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50406670</guid>
+      <dc:creator>LaurensBER</dc:creator>
+      <pubDate>Sat, 07 Nov 2026 18:12:12 +0000</pubDate>
+      <category>Hardware</category>
+      <description>&lt;p&gt;The author bought an OpenStick for $10 including shipping, mainly because it was an unusual and appealing piece of hardware. Although the device is less powerful than many modern watches, it can still support enjoyable self-hosting experiments. The project demonstrates how a very inexpensive, tiny computer can serve as an entry point to homelabbing.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;作者花 10 美元（含运费）买了一台 OpenStick，主要是因为这款硬件新奇而有趣。它的性能可能还不如许多现代智能手表，但仍然适合进行有趣的自托管实验。这个项目展示了廉价小设备如何成为入门家庭实验室的起点。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 781 · 💬 134 · Hardware&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50406670&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/08/top_stories_11082026#story-50406670&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8</title>
       <link>https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf</link>
       <guid isPermaLink="true">https://news.ycombinator.com/item?id=50319143</guid>
@@ -284,6 +296,18 @@
 &lt;p&gt;&lt;em&gt;CVE-2026-98432 是 Linux IPv4 TCP 握手中的严重远程释放后使用漏洞，未经身份验证的网络对端即可触发。稳定版内核已于 2026 年 10 月修复，补丁覆盖 5.10.272 至 7.3 等版本，但该缺陷可追溯至 Linux 4.4。报道所述时间点，Ubuntu 仍将所有版本标为易受攻击，Red Hat 也列出受影响的 RHEL 8、9 和 10，尚未提供修复。&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;▲ 747 · 💬 333 · Security&lt;/small&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50319143&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/03/top_stories_11032026#story-50319143&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Goodbye Claude, hello Pi</title>
+      <link>https://caleb.software/posts/claude-to-pi.html</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50410107</guid>
+      <dc:creator>karagenit</dc:creator>
+      <pubDate>Sun, 08 Nov 2026 03:11:48 +0000</pubDate>
+      <category>AI</category>
+      <description>&lt;p&gt;The author had used Claude Code for more than a year, beginning when it became available through the Claude Pro subscription. Despite considering its release an important moment for software development, the author accumulated enough small frustrations to stop using it as the main coding harness. Their development setup is now being migrated to Pi.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;作者从 Claude Code 随 Claude Pro 订阅推出后就开始使用，至今已有一年多。尽管作者认为它的发布可能会成为软件开发史上的重要节点，但长期积累的许多小问题最终让作者不再把它作为主要编程工具。作者目前正将开发环境迁移到 Pi。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 732 · 💬 451 · AI&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50410107&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/08/top_stories_11082026#story-50410107&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Blender's UI and Runtime: Much Faster Than GPUI</title>
@@ -324,18 +348,6 @@
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50355251&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/04/top_stories_11042026#story-50355251&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>What I run on my $10 USD OpenStick homelab</title>
-      <link>https://blog.bosscher.ch/posts/openstick/</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50406670</guid>
-      <dc:creator>LaurensBER</dc:creator>
-      <pubDate>Sat, 07 Nov 2026 18:12:12 +0000</pubDate>
-      <category>Hardware</category>
-      <description>&lt;p&gt;The author bought an OpenStick for $10 including shipping, mainly because it was an unusual and appealing piece of hardware. Although the device is less powerful than many modern watches, it can still support enjoyable self-hosting experiments. The project demonstrates how a very inexpensive, tiny computer can serve as an entry point to homelabbing.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;作者花 10 美元（含运费）买了一台 OpenStick，主要是因为这款硬件新奇而有趣。它的性能可能还不如许多现代智能手表，但仍然适合进行有趣的自托管实验。这个项目展示了廉价小设备如何成为入门家庭实验室的起点。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 723 · 💬 128 · Hardware&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50406670&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/08/top_stories_11082026#story-50406670&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>Tell HN: Gemini trains on chat history, even for subscribers (personal accounts)</title>
       <link>https://news.ycombinator.com/item?id=50363461</link>
       <guid isPermaLink="true">https://news.ycombinator.com/item?id=50363461</guid>
@@ -359,6 +371,20 @@
 &lt;p&gt;&lt;em&gt;挪威风景公路沿线的卫生间被视为与周围自然环境协调的建筑地标。大多数设施由知名或新兴的挪威建筑事务所设计。例如，罗弗敦群岛 Eggum 休息点由 Snøhetta 设计，Selvika 的设施则由 Reiulf Ramstad 设计。&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;▲ 711 · 💬 432 · Design&lt;/small&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50324388&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/02/top_stories_11022026#story-50324388&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Goldman Sachs is pulling Claude Code from its bankers and traders</title>
+      <link>https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50415628</guid>
+      <dc:creator>TheWiggles</dc:creator>
+      <pubDate>Sun, 08 Nov 2026 18:16:07 +0000</pubDate>
+      <category>AI</category>
+      <category>Programming</category>
+      <category>Finance</category>
+      <description>&lt;p&gt;Goldman Sachs has restricted Anthropic's Claude Code and Microsoft's GitHub to its engineers, removing access for most traders and bankers. Those employees had used the tools to track client flows and build market models, while the bank had already barred Hong Kong bankers from Claude in April. The guidance followed a review of productivity and risk concerns and came weeks before Goldman was due to act as a lead underwriter for Anthropic's IPO.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;高盛已将 Anthropic 的 Claude Code 和微软 GitHub 的使用权限限制在工程师范围内，大多数交易员和银行家因此失去访问权限。此前，这些员工曾用相关工具追踪客户资金流向并构建市场模型；高盛也已于 4 月禁止香港银行家使用 Claude。这项指导是在审查生产力和风险问题后出台的，时间上距离高盛担任 Anthropic IPO 主承销商仅数周。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 707 · 💬 391 · AI · Programming · Finance&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50415628&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/08/top_stories_11082026#story-50415628&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>MS Paint Remote Code Execution Vulnerability</title>
@@ -472,6 +498,20 @@
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50365755&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/04/top_stories_11042026#story-50365755&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Claude Code's &quot;Don't Ask Again&quot; exposes passwords in 1,122 public GitHub files</title>
+      <link>https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50407882</guid>
+      <dc:creator>shmulc</dc:creator>
+      <pubDate>Sat, 07 Nov 2026 20:45:32 +0000</pubDate>
+      <category>Security</category>
+      <category>AI</category>
+      <category>Programming</category>
+      <description>&lt;p&gt;Claude Code's &quot;Don't Ask Again&quot; feature exposed passwords in 1,122 public GitHub files.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Claude Code 的“不要再询问”功能导致密码出现在 1,122 个公开 GitHub 文件中。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 599 · 💬 408 · Security · AI · Programming&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50407882&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/08/top_stories_11082026#story-50407882&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>The $6.3B Binance hack was pulled off in just 20 minutes</title>
       <link>https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/</link>
       <guid isPermaLink="true">https://news.ycombinator.com/item?id=50303172</guid>
@@ -483,18 +523,6 @@
 &lt;p&gt;&lt;em&gt;黑客在约 20 分钟内从币安所属的钱包中跨多个区块链转走了约 63 亿美元的加密货币。币安暂停了存款和提现并展开调查；该交易所及其他加密行业公司称，已冻结约一半被盗资金。剩余的大部分加密货币可能无法通过冻结追回。&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;▲ 594 · 💬 449 · Security · Finance&lt;/small&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50303172&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/02/top_stories_11022026#story-50303172&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Goodbye Claude, hello Pi</title>
-      <link>https://caleb.software/posts/claude-to-pi.html</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50410107</guid>
-      <dc:creator>karagenit</dc:creator>
-      <pubDate>Sun, 08 Nov 2026 03:11:48 +0000</pubDate>
-      <category>AI</category>
-      <description>&lt;p&gt;The author had used Claude Code for more than a year, beginning when it became available through the Claude Pro subscription. Despite considering its release an important moment for software development, the author accumulated enough small frustrations to stop using it as the main coding harness. Their development setup is now being migrated to Pi.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;作者从 Claude Code 随 Claude Pro 订阅推出后就开始使用，至今已有一年多。尽管作者认为它的发布可能会成为软件开发史上的重要节点，但长期积累的许多小问题最终让作者不再把它作为主要编程工具。作者目前正将开发环境迁移到 Pi。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 592 · 💬 384 · AI&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50410107&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/08/top_stories_11082026#story-50410107&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>AMD expects to outsell Intel in Q4 for the first time in history</title>
@@ -562,6 +590,18 @@
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50383739&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/05/top_stories_11052026#story-50383739&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Apple’s grey list: Words and phrases your iPhone won’t help you spell</title>
+      <link>https://www.theguardian.com/technology/2026/nov/06/struggling-to-spell-male-chauvinist-pig-apple-grey-list-means-your-iphone-wont-help-you</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50406111</guid>
+      <dc:creator>user_7832</dc:creator>
+      <pubDate>Sat, 07 Nov 2026 17:06:36 +0000</pubDate>
+      <category>Privacy</category>
+      <description>&lt;p&gt;Research found that Apple restricts predictive-text completion for more than 100,000 words and phrases. The restrictions affect swipe typing, in which users glide a finger across the keyboard instead of tapping each character. As a result, an iPhone may refuse to complete some unusual or sensitive phrases even when users try to enter them by gesture.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;研究发现，苹果限制了超过 10 万个词语和短语的预测文本补全功能。这些限制会影响滑行输入，即用户用手指划过键盘，而不是逐字点击。结果是，即使用户尝试通过滑行输入，iPhone 也可能不会补全某些不寻常或敏感的短语。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 534 · 💬 359 · Privacy&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50406111&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/08/top_stories_11082026#story-50406111&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>OccupySaaS</title>
       <link>https://occupysaas.com/</link>
       <guid isPermaLink="true">https://news.ycombinator.com/item?id=50331402</guid>
@@ -572,6 +612,18 @@
 &lt;p&gt;&lt;em&gt;OccupySaaS 是一个采用 Apache-2.0 许可的开源项目，旨在构建可自托管、无需按席位收费的大型 SaaS 替代品。它的首批项目包括定位为 Auth0 替代品的 ZeroAuthy，以及定位为 Salesforce 替代品的 SalesCompel。&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;▲ 531 · 💬 317 · Open Source&lt;/small&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50331402&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/03/top_stories_11032026#story-50331402&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Nvidia CEO Jensen Huang's letter to staff about affair</title>
+      <link>https://nvidianews.nvidia.com/news/a-message-to-our-company</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50418016</guid>
+      <dc:creator>karimf</dc:creator>
+      <pubDate>Sun, 08 Nov 2026 22:20:09 +0000</pubDate>
+      <category>Business</category>
+      <description>&lt;p&gt;The item is a message to Nvidia employees from CEO Jensen Huang concerning an affair. The available material provides links to related reporting but does not include the contents of Huang’s letter or describe any resulting action.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;这是一封英伟达 CEO 黄仁勋就婚外情相关事件写给员工的信。现有材料仅提供了相关报道的链接，没有包含信件内容，也没有说明后续采取了什么行动。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 529 · 💬 560 · Business&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50418016&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/08/top_stories_11082026#story-50418016&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Fujifilm to boost tape production 5x as AI fuels archiving demand</title>
@@ -585,59 +637,6 @@
 &lt;p&gt;&lt;em&gt;富士胶片计划投资约 100 亿日元，即约 6300 万美元，将磁带产能提高五倍。公司将归档需求的增长归因于生成式 AI 以及其所称的全球数据指数级增长。五倍增幅将以 2025 财年的产量为基准。&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;▲ 529 · 💬 228 · AI · Hardware&lt;/small&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50336918&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/04/top_stories_11042026#story-50336918&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Ask HN: What's your current AI agentic setup?</title>
-      <link>https://news.ycombinator.com/item?id=50366117</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50366117</guid>
-      <dc:creator>eggbrain</dc:creator>
-      <pubDate>Wed, 04 Nov 2026 14:37:22 +0000</pubDate>
-      <category>AI</category>
-      <category>Programming</category>
-      <description>&lt;p&gt;An Ask HN thread asks how people use AI agents in their daily work. It solicits details about paid subscriptions, external or locally hosted models, coding harnesses, orchestration tools, and broader agent platforms. The discussion aims to gauge how individual workflows have changed over the past year.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;一则 Ask HN 帖子询问人们目前如何在日常工作中使用 AI agent。发帖者希望了解大家购买的订阅、外部或本地部署的模型、编程工具链、编排工具以及更广泛的 agent 平台。讨论旨在了解个人工作流在过去一年中的变化。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 520 · 💬 642 · AI · Programming&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50366117&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/05/top_stories_11052026#story-50366117&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Claude Code's &quot;Don't Ask Again&quot; exposes passwords in 1,122 public GitHub files</title>
-      <link>https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50407882</guid>
-      <dc:creator>shmulc</dc:creator>
-      <pubDate>Sat, 07 Nov 2026 20:45:32 +0000</pubDate>
-      <category>Security</category>
-      <category>AI</category>
-      <category>Programming</category>
-      <description>&lt;p&gt;Claude Code's &quot;Don't Ask Again&quot; feature exposed passwords in 1,122 public GitHub files.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Claude Code 的“不要再询问”功能导致密码出现在 1,122 个公开 GitHub 文件中。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 519 · 💬 379 · Security · AI · Programming&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50407882&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/08/top_stories_11082026#story-50407882&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Apple’s grey list: Words and phrases your iPhone won’t help you spell</title>
-      <link>https://www.theguardian.com/technology/2026/nov/06/struggling-to-spell-male-chauvinist-pig-apple-grey-list-means-your-iphone-wont-help-you</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50406111</guid>
-      <dc:creator>user_7832</dc:creator>
-      <pubDate>Sat, 07 Nov 2026 17:06:36 +0000</pubDate>
-      <category>Privacy</category>
-      <description>&lt;p&gt;Research found that Apple restricts predictive-text completion for more than 100,000 words and phrases. The restrictions affect swipe typing, in which users glide a finger across the keyboard instead of tapping each character. As a result, an iPhone may refuse to complete some unusual or sensitive phrases even when users try to enter them by gesture.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;研究发现，苹果限制了超过 10 万个词语和短语的预测文本补全功能。这些限制会影响滑行输入，即用户用手指划过键盘，而不是逐字点击。结果是，即使用户尝试通过滑行输入，iPhone 也可能不会补全某些不寻常或敏感的短语。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 511 · 💬 330 · Privacy&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50406111&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/08/top_stories_11082026#story-50406111&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Cuban: Facebook knowingly runs AI deepfake scam ads; docs say $16B fraud revenue</title>
-      <link>https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50385870</guid>
-      <dc:creator>randycupertino</dc:creator>
-      <pubDate>Thu, 05 Nov 2026 23:09:57 +0000</pubDate>
-      <category>AI</category>
-      <category>Security</category>
-      <category>Business</category>
-      <description>&lt;p&gt;Mark Cuban says AI-generated scam ads have used his face to promote a diabetes cure he never sold. He says people contact him every week believing they bought the supposed cure for $294. The claims come amid allegations that Facebook knowingly runs such deepfake scam advertising.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;马克·库班表示，利用其肖像的 AI 生成诈骗广告正在推广他从未销售过的糖尿病疗法。他说，每周都有人联系他，以为自己花 294 美元买到了这种所谓疗法。这些说法出现之际，Facebook 被指控明知相关深度伪造诈骗广告存在却仍在投放。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 505 · 💬 224 · AI · Security · Business&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50385870&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/06/top_stories_11062026#story-50385870&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
