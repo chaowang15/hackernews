@@ -1,0 +1,1228 @@
+{
+  "meta": {
+    "mode": "top",
+    "source": "https://news.ycombinator.com/",
+    "api": "https://github.com/HackerNews/API",
+    "count_requested": 50,
+    "count_written": 50,
+    "reused_same_day": 0,
+    "reused_cross_day": 0,
+    "reused_history": 0,
+    "new_llm_enriched": 50,
+    "scrape_time_display": "13:14, November 10, 2026 (PST)",
+    "timezone": "America/Los_Angeles",
+    "date_dir": "2026/11/10",
+    "content_date": "2026-11-10",
+    "edition": "morning",
+    "edition_label": "Morning 50",
+    "target_count": 50,
+    "run_time_local": "13:14, November 10, 2026 (PST)",
+    "run_time_utc": "2026-11-10 21:14:13 UTC",
+    "incremental": true,
+    "stories_max": 50,
+    "hot_score_time_utc": "2026-11-10 21:15:56 UTC"
+  },
+  "items": [
+    {
+      "title_en": ".name Grandfathered",
+      "url": "https://neil.fraser.name/news/2026/11/10/",
+      "title_zh": ".name 域名获得保留",
+      "is_new": true,
+      "created_display": "Created: Nov 10, 2026 / 08:37 PT",
+      "image_url": "https://neil.fraser.name/news/tree-opened.gif",
+      "summary_en": "Verisign has withdrawn its plan to terminate 22,000 .name domain names and email redirects after a prolonged campaign. New registrations for third-level .name domains will close, but all existing domains and redirects will remain indefinitely. The reversal followed efforts by domain owners, lawyers, and supporters to challenge the plan through ICANN.",
+      "summary_zh": "经过一场旷日持久的抗争，Verisign 撤回了终止 22,000 个 .name 域名及其邮件转发的计划。虽然 .name 三级域名将停止新注册，但现有域名和邮件转发服务将无限期保留。这一转变源于域名所有者、律师和支持者通过 ICANN 发起的共同争取。",
+      "hn": {
+        "id": 50442736,
+        "type": "story",
+        "by": "p4bl0",
+        "score": 510,
+        "descendants": 99,
+        "time": 1794328664,
+        "comments_url": "https://news.ycombinator.com/item?id=50442736"
+      },
+      "hot_score": 16.87,
+      "tags": [
+        "Web",
+        "Legal"
+      ]
+    },
+    {
+      "title_en": "Smart home devices should work without the internet",
+      "url": "https://docodethatmatters.com/home-automation-overnight-success/",
+      "title_zh": "智能家居应当无需互联网也能运行",
+      "is_new": true,
+      "created_display": "Created: Nov 10, 2026 / 07:25 PT",
+      "image_url": "https://docodethatmatters.com/images/home-automation/t1-07.webp",
+      "summary_en": "The author describes a decade-long home-automation rule: no core function in the house should depend on a vendor’s server. As a result, the home continues operating when the internet goes down. The post presents the other automation rules and two related talks that grew out of this principle.",
+      "summary_zh": "作者介绍了坚持十年的家庭自动化原则：家中的核心功能不应依赖厂商服务器。因此，即使互联网中断，房屋仍能继续运行。文章还整理了由这一原则延伸出的其他自动化规则和两场相关演讲。",
+      "hn": {
+        "id": 50441707,
+        "type": "story",
+        "by": "skittleson",
+        "score": 483,
+        "descendants": 176,
+        "time": 1794324320,
+        "comments_url": "https://news.ycombinator.com/item?id=50441707"
+      },
+      "hot_score": 11.83,
+      "tags": [
+        "Privacy",
+        "Hardware"
+      ]
+    },
+    {
+      "title_en": "Blender 5.3 released with Gaussian Splat support",
+      "url": "https://www.blender.org/download/releases/5-3/",
+      "title_zh": "Blender 5.3 发布，支持 Gaussian Splat",
+      "is_new": true,
+      "created_display": "Created: Nov 10, 2026 / 08:15 PT",
+      "image_url": "https://www.blender.org/wp-content/uploads/2026/07/splash.webp",
+      "summary_en": "Blender 5.3 adds native support for 3D Gaussian Splats. Users can import splats as point clouds, experiment with Geometry Nodes, preview them in Workbench, and render them with EEVEE or Cycles. The release also includes DLSS denoising, light dispersion, an EEVEE fisheye effect, Outliner sorting, and ripple video editing.",
+      "summary_zh": "Blender 5.3 新增了对 3D Gaussian Splat 的原生支持。用户可以将其作为点云导入，使用 Geometry Nodes 进行实验，在 Workbench 中预览，并通过 EEVEE 或 Cycles 渲染。该版本还加入 DLSS 降噪、光色散、EEVEE 鱼眼效果、大纲视图排序和波纹视频编辑等功能。",
+      "hn": {
+        "id": 50442426,
+        "type": "story",
+        "by": "amlib",
+        "score": 354,
+        "descendants": 46,
+        "time": 1794327343,
+        "comments_url": "https://news.ycombinator.com/item?id=50442426"
+      },
+      "hot_score": 10.62,
+      "tags": [
+        "Open Source",
+        "Programming"
+      ]
+    },
+    {
+      "title_en": "Starlink Mini 2",
+      "url": "https://starlink.com/mini-2",
+      "title_zh": "Starlink Mini 2",
+      "is_new": true,
+      "created_display": "Created: Nov 10, 2026 / 10:22 PT",
+      "image_url": "https://starlink.com/assets-new/images/landing/field/v4_night_sky.webp",
+      "summary_en": "Starlink Mini 2 is presented as providing fast, reliable internet both at home and on the go. The service is intended to support streaming, video calls, gaming, and other high-speed connectivity needs, including in rural and remote locations.",
+      "summary_zh": "Starlink Mini 2 被定位为可在家中和移动途中提供快速、可靠的互联网连接。该服务支持流媒体、视频通话、游戏等高速联网需求，也面向乡村和偏远地区。",
+      "hn": {
+        "id": 50444129,
+        "type": "story",
+        "by": "robertjfclarke",
+        "score": 168,
+        "descendants": 181,
+        "time": 1794334952,
+        "comments_url": "https://news.ycombinator.com/item?id=50444129"
+      },
+      "hot_score": 9.59,
+      "tags": [
+        "Web",
+        "Business",
+        "Programming",
+        "Gaming"
+      ]
+    },
+    {
+      "title_en": "Synaptics patent claims stop work on DisplayLink drivers",
+      "url": "https://lwn.net/SubscriberLink/1102549/acbc92e00cee3a3f/",
+      "title_zh": "Synaptics 的专利主张叫停 DisplayLink 驱动开发",
+      "is_new": true,
+      "created_display": "Created: Nov 10, 2026 / 10:02 PT",
+      "image_url": "https://static.lwn.net/images/logo/barepenguin-70.webp",
+      "summary_en": "Mike Lothian tried to improve a Linux driver for a DisplayLink docking station after finding its performance inadequate. Synaptics, which acquired DisplayLink in 2022, responded with patent-infringement claims, a demand to stop the unauthorized implementation, and warnings of costly legal penalties. Linux users of the company’s docks therefore appear likely to remain without feature parity for now.",
+      "summary_zh": "Mike Lothian 认为 DisplayLink 扩展坞在 Linux 下性能不佳，因此尝试改进其驱动。DisplayLink 于 2022 年被 Synaptics 收购，而 Synaptics 随后以专利侵权为由要求停止未经授权的实现，并警告可能面临高昂法律处罚。因此，相关扩展坞的 Linux 用户目前似乎仍将无法获得与其他平台相当的功能。",
+      "hn": {
+        "id": 50443824,
+        "type": "story",
+        "by": "speckx",
+        "score": 178,
+        "descendants": 81,
+        "time": 1794333722,
+        "comments_url": "https://news.ycombinator.com/item?id=50443824"
+      },
+      "hot_score": 9.0,
+      "tags": [
+        "Legal"
+      ]
+    },
+    {
+      "title_en": "Val Town is winding down",
+      "url": "https://blog.val.town/winding-down",
+      "title_zh": "Val Town 即将停止运营",
+      "is_new": true,
+      "created_display": "Created: Nov 10, 2026 / 09:31 PT",
+      "image_url": "https://valdottown--01a1c636170f75bd955ad39917dccd9e.web.val.run/images/winding-down-bird-24619313141.jpg",
+      "summary_en": "Val Town has decided to wind down its service. The team thanked users for trusting the platform and apologized that it could no longer continue serving them. The announcement does not provide further details about the shutdown timeline or transition.",
+      "summary_zh": "Val Town 决定逐步停止运营。团队感谢用户对平台的信任，并为无法继续提供服务表示歉意。公告没有进一步说明停运时间表或迁移安排。",
+      "hn": {
+        "id": 50443427,
+        "type": "story",
+        "by": "tosh",
+        "score": 206,
+        "descendants": 52,
+        "time": 1794331874,
+        "comments_url": "https://news.ycombinator.com/item?id=50443427"
+      },
+      "hot_score": 8.81,
+      "tags": [
+        "Startups"
+      ]
+    },
+    {
+      "title_en": "Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives",
+      "url": "https://github.com/GoogleChrome/modern-web-guidance",
+      "title_zh": "Show HN：让编码代理摆脱约 2019 年的 JavaScript，转向现代 Web 原语",
+      "is_new": true,
+      "created_display": "Created: Nov 10, 2026 / 10:01 PT",
+      "image_url": "https://opengraph.githubassets.com/221a3fa5fa54808ce0596c7b6776c035a5191e828010f6c0ac45727e6ada0175/GoogleChrome/modern-web-guidance",
+      "summary_en": "A Chrome-led project provides coding agents with curated guidance on modern, native web APIs. Examples include CSS highlights, dialog and showModal(), and field-sizing, which can replace common JavaScript-heavy patterns. The open-source release contains more than 200 expert-written guides, developed with Firefox, MDN, and Edge, and is designed for agent skills and retrieval-augmented tooling.",
+      "summary_zh": "一个由 Chrome 发起的项目为编码代理提供现代原生 Web API 的精选指南。例如，CSS Highlights、dialog 与 showModal()、field-sizing 都可以替代常见的重 JavaScript 实现。该开源项目目前包含 200 多份由专家编写的指南，并与 Firefox、MDN 和 Edge 合作开发，面向代理技能和检索增强工具。",
+      "hn": {
+        "id": 50443812,
+        "type": "story",
+        "by": "paulirish",
+        "score": 152,
+        "descendants": 43,
+        "time": 1794333675,
+        "comments_url": "https://news.ycombinator.com/item?id=50443812"
+      },
+      "hot_score": 7.65,
+      "tags": [
+        "Show HN",
+        "Web",
+        "Programming",
+        "Open Source"
+      ]
+    },
+    {
+      "title_en": "AlphaProof Code",
+      "url": "https://deepmind.google/blog/introducing-alphaproof-code/",
+      "title_zh": "AlphaProof Code",
+      "is_new": true,
+      "created_display": "Created: Nov 10, 2026 / 04:11 PT",
+      "image_url": "https://lh3.googleusercontent.com/hn6AiI6lYFo6chi1mL6uJ9nOW9UXfsAKnSyOApiie2urHNU2tmSPUmGn0hNfWyYLRcsWCGjCIrBZSCt1ihZmvW-LDJPfyolsr5w-yvzlknZVzmaH=w1200-h630-n-nu-rw",
+      "summary_en": "AlphaProof Code agents generated more than three million lines of machine-checked Lean proof. The proofs verify Signal’s core cryptographic protections down to machine instructions. The result demonstrates the agents’ use in formal verification of security-critical software.",
+      "summary_zh": "AlphaProof Code 代理生成了超过 300 万行经过机器检查的 Lean 证明。这些证明将 Signal 的核心加密防护验证到了机器指令级别。该成果展示了这类代理在安全关键软件形式化验证中的用途。",
+      "hn": {
+        "id": 50439193,
+        "type": "story",
+        "by": "ilreb",
+        "score": 531,
+        "descendants": 168,
+        "time": 1794312672,
+        "comments_url": "https://news.ycombinator.com/item?id=50439193"
+      },
+      "hot_score": 6.99,
+      "tags": [
+        "Security",
+        "Programming"
+      ]
+    },
+    {
+      "title_en": "Claude Whiteboards, Claude Sheets, and Claude Data",
+      "url": "https://claude.com/resources/articles/sheets-whiteboards-data",
+      "title_zh": "Claude Whiteboards、Claude Sheets 和 Claude Data",
+      "is_new": true,
+      "created_display": "Created: Nov 10, 2026 / 09:55 PT",
+      "image_url": "https://claude.com/resources/articles/sheets-whiteboards-data/opengraph-image/og",
+      "summary_en": "Claude is launching Whiteboards and Sheets in beta, while Claude Dashboards becomes generally available as Claude Data. Whiteboards supports shared brainstorming, Sheets lets Claude build and edit spreadsheets, and Claude Data provides data stories, certified queries, and live sharing. All three are available on paid plans and keep documents, boards, sheets, and dashboards inside Claude for team collaboration.",
+      "summary_zh": "Claude 推出了 Whiteboards 和 Sheets 测试版，同时将 Claude Dashboards 正式更名并开放为 Claude Data。Whiteboards 支持协作头脑风暴，Sheets 可由 Claude 创建和编辑电子表格，Claude Data 提供数据故事、认证查询和实时共享。三项功能均面向付费计划，并允许团队在 Claude 内继续协作处理文档、白板、表格和仪表板。",
+      "hn": {
+        "id": 50443716,
+        "type": "story",
+        "by": "Yorothegoat",
+        "score": 103,
+        "descendants": 79,
+        "time": 1794333307,
+        "comments_url": "https://news.ycombinator.com/item?id=50443716"
+      },
+      "hot_score": 4.99,
+      "tags": [
+        "AI",
+        "Business"
+      ]
+    },
+    {
+      "title_en": "AMD's Zen 6 Family: Feeding the Beast",
+      "url": "https://chipsandcheese.com/p/amds-zen-6-family-feeding-the-beast",
+      "title_zh": "AMD Zen 6 家族：喂饱这头巨兽",
+      "is_new": true,
+      "created_display": "Created: Nov 10, 2026 / 09:02 PT",
+      "image_url": "https://substackcdn.com/image/fetch/$s_!R25V!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fff0ea2d4-ea2d-440b-ad51-1bc99a695511_2022x1382.png",
+      "summary_en": "The source excerpt provides only an opening greeting and does not establish technical details about AMD’s Zen 6 family. The piece is presented as an examination of how AMD’s next processor family is supplied with data and compute resources.",
+      "summary_zh": "现有内容只有开场问候，未提供 AMD Zen 6 家族的具体技术细节。标题表明文章将讨论 AMD 下一代处理器家族如何获得数据和计算资源。",
+      "hn": {
+        "id": 50443090,
+        "type": "story",
+        "by": "pixelpoet",
+        "score": 125,
+        "descendants": 44,
+        "time": 1794330152,
+        "comments_url": "https://news.ycombinator.com/item?id=50443090"
+      },
+      "hot_score": 4.62,
+      "tags": [
+        "Hardware"
+      ]
+    },
+    {
+      "title_en": "What objective is reasoning solving?",
+      "url": "https://alexwang.ai/posts/reasoning-as-pathfinding/",
+      "title_zh": "推理究竟在优化什么目标？",
+      "is_new": true,
+      "created_display": "Created: Nov 10, 2026 / 11:25 PT",
+      "image_url": "https://alexwang.ai/images/share-card_hu_829bd88f1595308b.jpg",
+      "summary_en": "The post questions whether longer chains of thought are themselves what make language models more accurate. During reinforcement learning, models tend to produce longer reasoning chains and improve, but forcing a trained model to continue any one chain eventually stops helping and can even hurt accuracy. This suggests that inference-time reasoning may involve something more subtle than simply increasing chain length.",
+      "summary_zh": "文章质疑，让思维链变长是否本身就是提高语言模型准确率的原因。在强化学习过程中，模型往往会生成更长的推理链并变得更准确；但对训练完成的模型强行延长某一条思维链，效果最终会停滞，甚至可能降低准确率。这表明，推理时的收益可能并不只是简单增加思维链长度。",
+      "hn": {
+        "id": 50445013,
+        "type": "story",
+        "by": "gmays",
+        "score": 47,
+        "descendants": 17,
+        "time": 1794338714,
+        "comments_url": "https://news.ycombinator.com/item?id=50445013"
+      },
+      "hot_score": 4.07,
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "title_en": "Amazon saves millions by replacing Sonnet 4.6 with Strands Decider",
+      "url": "https://strandsagents.com/blog/amazon-saves-millions-replacing-sonnet-with-strands-decider/",
+      "title_zh": "亚马逊用 Strands Decider 替代 Sonnet 4.6，节省数百万美元",
+      "is_new": true,
+      "created_display": "Created: Nov 09, 2026 / 22:01 PT",
+      "image_url": "https://strandsagents.com/blog/og/amazon-saves-millions-replacing-sonnet-with-strands-decider.png",
+      "summary_en": "Two Amazon engineers replaced Claude Sonnet 4.6 with Strands Decider in a major internal ticketing system. Sonnet had provided a balance of intelligence and cost, but Strands Decider reportedly performed equally well at 98% lower cost. The change is expected to save millions of dollars in annual token expenses.",
+      "summary_zh": "亚马逊的两名工程师在一个大型内部工单系统中，用 Strands Decider 替代了 Claude Sonnet 4.6。Sonnet 原本在智能程度和成本之间取得了平衡，但据称 Strands Decider 在表现相当的情况下将成本降低了 98%。这一调整预计每年可节省数百万美元的 token 费用。",
+      "hn": {
+        "id": 50436640,
+        "type": "story",
+        "by": "aloukissas",
+        "score": 668,
+        "descendants": 233,
+        "time": 1794290468,
+        "comments_url": "https://news.ycombinator.com/item?id=50436640"
+      },
+      "hot_score": 3.96,
+      "tags": [
+        "Finance",
+        "Business",
+        "AI"
+      ]
+    },
+    {
+      "title_en": "Tailscale's DNS IPv6 spells out \"Tailscale\"",
+      "url": "https://www.reddit.com/r/Tailscale/comments/1xsr24r/tailscales_dns_ipv6_spells_out_tailscale_easter/",
+      "title_zh": "Tailscale 的 DNS IPv6 地址拼出了“Tailscale”",
+      "is_new": true,
+      "created_display": "Created: Nov 10, 2026 / 08:34 PT",
+      "image_url": null,
+      "summary_en": "Tailscale’s DNS IPv6 address is designed so that its hexadecimal representation spells “Tailscale.” This is presented as an Easter egg in the service’s DNS configuration.",
+      "summary_zh": "Tailscale 的 DNS IPv6 地址经过设计，其十六进制表示形式会拼出“Tailscale”。这是该服务 DNS 配置中的一个彩蛋。",
+      "hn": {
+        "id": 50442691,
+        "type": "story",
+        "by": "theanonymousone",
+        "score": 118,
+        "descendants": 59,
+        "time": 1794328485,
+        "comments_url": "https://news.ycombinator.com/item?id=50442691"
+      },
+      "hot_score": 3.83,
+      "tags": [
+        "DevOps"
+      ]
+    },
+    {
+      "title_en": "Ableton Live 13",
+      "url": "https://www.ableton.com/en/live/",
+      "title_zh": "Ableton Live 13",
+      "is_new": true,
+      "created_display": "Created: Nov 10, 2026 / 04:58 PT",
+      "image_url": "https://beta-ableton.imgix.net/media/fe1omm2e/live-13-1200x630-4.jpg",
+      "summary_en": "Ableton presents Live 13 with experimental sound-design tools, precision mixing effects, and workflow improvements. The new step-sequencer clips support beats, melodies, and polyrhythms. Live 13 also adds support for ARA 2 plug-ins for faster and more advanced audio editing.",
+      "summary_zh": "Ableton 介绍了 Live 13，其中包括实验性声音设计工具、精确混音效果和工作流改进。新的步进音序器片段支持节拍、旋律和复节奏。Live 13 还支持 ARA 2 插件，以实现更快速、更高级的音频编辑。",
+      "hn": {
+        "id": 50439695,
+        "type": "story",
+        "by": "phaser",
+        "score": 225,
+        "descendants": 249,
+        "time": 1794315484,
+        "comments_url": "https://news.ycombinator.com/item?id=50439695"
+      },
+      "hot_score": 3.37,
+      "tags": [
+        "Entertainment"
+      ]
+    },
+    {
+      "title_en": "Show HN: Valencia, Spain in Sim City/Isometric View",
+      "url": "https://tinyvalencia.com/",
+      "title_zh": "Show HN：等距视角下的西班牙瓦伦西亚",
+      "is_new": true,
+      "created_display": "Created: Nov 10, 2026 / 07:12 PT",
+      "image_url": "https://tinyvalencia.com/share.jpg",
+      "summary_en": "This project is an isometric pixel-art map of Valencia, painted block by block. Every building is represented from above at the same angle, covering the municipality from the huerta to the Albufera, with a few small exclusions lacking 3D imagery. The map can be zoomed from the Micalet to the beach.",
+      "summary_zh": "这是一个逐块绘制的瓦伦西亚等距像素艺术地图。地图以统一的俯视角度呈现每一栋建筑，覆盖从 huerta 到 Albufera 的整个市域，仅少数缺乏 3D 影像的小块 huerta 飞地除外。用户可以从 Micalet 一路缩放查看到海滩。",
+      "hn": {
+        "id": 50441518,
+        "type": "story",
+        "by": "leugim",
+        "score": 141,
+        "descendants": 35,
+        "time": 1794323536,
+        "comments_url": "https://news.ycombinator.com/item?id=50441518"
+      },
+      "hot_score": 3.27,
+      "tags": [
+        "Show HN",
+        "Web"
+      ]
+    },
+    {
+      "title_en": "The Hardest Tarball?",
+      "url": "https://stoppels.ch/2026/11/07/the-hardest-tarball.html",
+      "title_zh": "最难的 Tar 包？",
+      "is_new": true,
+      "created_display": "Created: Nov 10, 2026 / 07:00 PT",
+      "image_url": "https://stoppels.ch/2026/11/07/fig-hardest.svg",
+      "summary_en": "The author presents an archive that can be created with a single GNU tar invocation but extracted in eight distinct ways depending on the tool used. The archive contains repeated files, a hard link, an empty file, and a PAX header whose UTF-8 filename and size record alter how the entries are interpreted. Its behavior depends on how extraction tools handle hard-link sizes and the resulting tar-header-sized value.",
+      "summary_zh": "作者展示了一个只需一次 GNU tar 调用即可构造、却会因解压工具不同而产生八种解压结果的归档文件。该归档包含重复文件、硬链接、空文件，以及一个会改变条目解释方式的 PAX 头，其中记录了 UTF-8 文件名和大小。其行为取决于解压工具如何处理硬链接大小，以及由此产生的恰好等于 tar 头大小的数值。",
+      "hn": {
+        "id": 50441338,
+        "type": "story",
+        "by": "thatslast",
+        "score": 134,
+        "descendants": 29,
+        "time": 1794322839,
+        "comments_url": "https://news.ycombinator.com/item?id=50441338"
+      },
+      "hot_score": 2.98,
+      "tags": [
+        "Programming",
+        "DevOps"
+      ]
+    },
+    {
+      "title_en": "AI usage generates a fragile codebase",
+      "url": "https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/",
+      "title_zh": "AI 使用会产生脆弱的代码库",
+      "is_new": true,
+      "created_display": "Created: Nov 10, 2026 / 02:25 PT",
+      "image_url": "https://www.evanxmerz.com/images/ai-codebases-are-a-house-of-cards.jpg",
+      "summary_en": "The author says that at Meta, they generated at least 90% of their code with AI during their final months, yet did not see output multiply. They observed AI-assisted code that was brittle, created subtle technical debt, and sometimes contained obvious issues missed during review. One example used JavaScript mouseover events instead of the scalable CSS :hover selector.",
+      "summary_zh": "作者表示，在 Meta 任职的最后几个月里，自己至少有 90% 的代码由 AI 生成，但产出并没有因此成倍增加。作者观察到一些高度依赖 AI 的代码较为脆弱，会造成隐性的技术债务，有时连明显问题也未被优秀程序员发现。其中一个例子用 JavaScript 鼠标悬停事件实现 CSS 效果，而不是使用更具扩展性的 :hover 选择器。",
+      "hn": {
+        "id": 50438318,
+        "type": "story",
+        "by": "plun9",
+        "score": 272,
+        "descendants": 332,
+        "time": 1794306358,
+        "comments_url": "https://news.ycombinator.com/item?id=50438318"
+      },
+      "hot_score": 2.74,
+      "tags": [
+        "AI",
+        "Programming",
+        "Web"
+      ]
+    },
+    {
+      "title_en": "What's new in the .NET 11 runtime",
+      "url": "https://learn.microsoft.com/en-us/dotnet/core/whats-new/dotnet-11/runtime",
+      "title_zh": ".NET 11 运行时有哪些新功能",
+      "is_new": true,
+      "created_display": "Created: Nov 10, 2026 / 04:20 PT",
+      "image_url": "https://learn.microsoft.com/dotnet/media/dotnet-logo.png",
+      "summary_en": "The source excerpt provides no reliable details about the changes in the .NET 11 runtime. The item concerns new features and updates in the .NET 11 runtime.",
+      "summary_zh": "现有内容没有可靠说明 .NET 11 运行时的具体变化。该条目介绍的是 .NET 11 运行时的新功能和更新。",
+      "hn": {
+        "id": 50439284,
+        "type": "story",
+        "by": "stevefan1999",
+        "score": 193,
+        "descendants": 137,
+        "time": 1794313207,
+        "comments_url": "https://news.ycombinator.com/item?id=50439284"
+      },
+      "hot_score": 2.59,
+      "tags": [
+        "Programming"
+      ]
+    },
+    {
+      "title_en": "A comprehensive study of how fingerprintable users are",
+      "url": "https://fingerprinting.study/",
+      "title_zh": "关于用户指纹可识别程度的全面研究",
+      "is_new": true,
+      "created_display": "Created: Nov 10, 2026 / 11:03 PT",
+      "image_url": "https://fingerprinting.study/assets/figures/protection_chain.light.png",
+      "summary_en": "A large-scale browser-fingerprinting study analyzed telemetry from nearly 25 million Firefox release users. The work examines how identifiable users are through browser characteristics and reports mitigations developed from the findings. The research was conducted by authors from Mozilla, the University of Toronto, and UC San Diego.",
+      "summary_zh": "一项大规模浏览器指纹研究分析了近 2,500 万名 Firefox 正式版用户的遥测数据。研究考察了通过浏览器特征识别用户的程度，并报告了据此制定的缓解措施。研究人员来自 Mozilla、多伦多大学和加州大学圣迭戈分校。",
+      "hn": {
+        "id": 50444684,
+        "type": "story",
+        "by": "tomrittervg",
+        "score": 34,
+        "descendants": 3,
+        "time": 1794337434,
+        "comments_url": "https://news.ycombinator.com/item?id=50444684"
+      },
+      "hot_score": 2.49,
+      "tags": [
+        "Privacy",
+        "Security",
+        "Web",
+        "Education"
+      ]
+    },
+    {
+      "title_en": "Sherman Anti-Trust Act (1890",
+      "url": "https://www.archives.gov/milestone-documents/sherman-anti-trust-act",
+      "title_zh": "《谢尔曼反托拉斯法》（1890 年）",
+      "is_new": true,
+      "created_display": "Created: Nov 10, 2026 / 12:56 PT",
+      "image_url": "https://www.archives.gov/sites/all/themes/nara/images/naralogo-og.png",
+      "summary_en": "The Sherman Anti-Trust Act was approved by the U.S. Congress on July 2, 1890. It was the first federal law to outlaw monopolistic business practices and prohibit trusts. The National Archives preserves the enrolled act and related congressional records.",
+      "summary_zh": "美国国会于 1890 年 7 月 2 日通过《谢尔曼反托拉斯法》。这是美国第一部禁止垄断性商业行为和托拉斯的联邦法律。美国国家档案馆保存了该法案正本及相关国会记录。",
+      "hn": {
+        "id": 50446219,
+        "type": "story",
+        "by": "hashmap",
+        "score": 12,
+        "descendants": 1,
+        "time": 1794344176,
+        "comments_url": "https://news.ycombinator.com/item?id=50446219"
+      },
+      "hot_score": 2.4,
+      "tags": [
+        "Legal",
+        "Politics"
+      ]
+    },
+    {
+      "title_en": "Foldable Flight: The Best Paper Airplanes",
+      "url": "https://www.foldableflight.com",
+      "title_zh": "折叠飞行：最佳纸飞机",
+      "is_new": true,
+      "created_display": "Created: Nov 09, 2026 / 04:19 PT",
+      "image_url": "https://static.wixstatic.com/media/0641fb_4ff6a49def494e379b4f3b585c4ac4a8%7Emv2_d_2482_1412_s_2.jpg/v1/fit/w_2500,h_1330,al_c/0641fb_4ff6a49def494e379b4f3b585c4ac4a8%7Emv2_d_2482_1412_s_2.jpg",
+      "summary_en": "The site presents a large database of paper airplanes with step-by-step video folding tutorials. One World Record prototype is reported to fly more than 300 feet. The Unite model holds a world record for time aloft at 31.2 seconds.",
+      "summary_zh": "该网站提供大型纸飞机数据库，并为每种机型配备分步折叠视频教程。据称，一款世界纪录原型机可以飞行超过 300 英尺。Unite 机型则以 31.2 秒的滞空时间保持世界纪录。",
+      "hn": {
+        "id": 50424581,
+        "type": "story",
+        "by": "vismit2000",
+        "score": 1175,
+        "descendants": 167,
+        "time": 1794226762,
+        "comments_url": "https://news.ycombinator.com/item?id=50424581"
+      },
+      "hot_score": 1.96,
+      "tags": [
+        "Education",
+        "Entertainment",
+        "Data"
+      ]
+    },
+    {
+      "title_en": "An Open Field Guide to Inference Engineering",
+      "url": "https://docs.modelplane.ai/guides/inference-guide",
+      "title_zh": "开放式推理工程指南",
+      "is_new": true,
+      "created_display": "Created: Nov 10, 2026 / 09:55 PT",
+      "image_url": "https://modelplane.ai/api/og?title=An+Open+Field+Guide+to+Inference+Engineering",
+      "summary_en": "This field guide introduces inference concepts, production operations, tooling, and career development for platform engineers. It explains how models and GPUs work together and how to run inference in production. The guide also covers tools and paths for developing an inference-engineering career.",
+      "summary_zh": "这份实践指南面向平台工程师，介绍推理概念、生产运维、工具和职业发展。内容解释模型与 GPU 如何协同工作，以及如何在生产环境运行推理服务。指南还涵盖相关工具和成长为推理工程师的路径。",
+      "hn": {
+        "id": 50443714,
+        "type": "story",
+        "by": "d-ramdass",
+        "score": 39,
+        "descendants": 3,
+        "time": 1794333307,
+        "comments_url": "https://news.ycombinator.com/item?id=50443714"
+      },
+      "hot_score": 1.86,
+      "tags": [
+        "Programming",
+        "Education"
+      ]
+    },
+    {
+      "title_en": "Life on Claude Nine",
+      "url": "https://babuschk.in/posts/2026-01-25-life-on-claude-nine.html",
+      "title_zh": "Claude 九号上的生活",
+      "is_new": true,
+      "created_display": "Created: Nov 10, 2026 / 09:44 PT",
+      "image_url": "https://babuschk.in/images/social-card.png",
+      "summary_en": "The story begins with a man automating his email. At 3 a.m., Ivan is exhausted and has not eaten since lunch while working at a laptop surrounded by a terminal, a Claude chat, and growing Python scripts. He is building the system because he realized he could, not because anyone asked him to.",
+      "summary_zh": "故事始于一个人自动化处理电子邮件。凌晨 3 点，Ivan 已经筋疲力尽，从午餐后便没有进食，仍守在笔记本前敲代码，屏幕上是终端、Claude 聊天窗口和不断增加的 Python 脚本。他构建这个系统并不是因为有人要求，而是因为意识到自己可以做到。",
+      "hn": {
+        "id": 50443587,
+        "type": "story",
+        "by": "reasonableklout",
+        "score": 41,
+        "descendants": 6,
+        "time": 1794332684,
+        "comments_url": "https://news.ycombinator.com/item?id=50443587"
+      },
+      "hot_score": 1.85,
+      "tags": [
+        "AI",
+        "Programming"
+      ]
+    },
+    {
+      "title_en": "Six Math Essentials by Terence Tao",
+      "url": "https://teorth.github.io/tao-web/six-math-essentials.html",
+      "title_zh": "Terence Tao 的六个数学要点",
+      "is_new": true,
+      "created_display": "Created: Nov 10, 2026 / 12:58 PT",
+      "image_url": null,
+      "summary_en": "In Six Math Essentials, Fields Medalist Terence Tao introduces six concepts that span mathematical thinking from antiquity to the modern frontier. The book covers numbers, algebra, geometry, probability, analysis, and dynamics as gateways to quantitative thought, abstraction, calculation, uncertainty, scale, and change. No errata have been recorded for the book.",
+      "summary_zh": "菲尔兹奖得主 Terence Tao 在《六个数学要点》中介绍了贯穿古代至现代数学前沿的六个核心概念。全书分别以数字、代数、几何、概率、分析和动力学为入口，讨论定量思维、抽象、计算、不确定性、尺度与变化。目前该书尚无勘误记录。",
+      "hn": {
+        "id": 50446246,
+        "type": "story",
+        "by": "digital55",
+        "score": 9,
+        "descendants": 1,
+        "time": 1794344324,
+        "comments_url": "https://news.ycombinator.com/item?id=50446246"
+      },
+      "hot_score": 1.81,
+      "tags": [
+        "Education",
+        "Science"
+      ]
+    },
+    {
+      "title_en": "What constant surveillance is doing to children and parents",
+      "url": "https://www.theatlantic.com/magazine/2026/12/location-tracking-apps-parental-surveillance/689031/",
+      "title_zh": "持续监控正在如何影响儿童和父母",
+      "is_new": true,
+      "created_display": "Created: Nov 10, 2026 / 02:47 PT",
+      "image_url": null,
+      "summary_en": "The source excerpt contains only archived links and does not provide reliable details about the effects of constant surveillance on children or parents. The item concerns location-tracking apps and parental surveillance.",
+      "summary_zh": "现有内容只有存档链接，未可靠说明持续监控对儿童或父母的具体影响。该条目涉及位置追踪应用和家长监控。",
+      "hn": {
+        "id": 50438480,
+        "type": "story",
+        "by": "FinnLobsien",
+        "score": 165,
+        "descendants": 156,
+        "time": 1794307638,
+        "comments_url": "https://news.ycombinator.com/item?id=50438480"
+      },
+      "hot_score": 1.75,
+      "tags": [
+        "Privacy"
+      ]
+    },
+    {
+      "title_en": "Queens Public Library under ransomware attack",
+      "url": "https://connect.queenslibrary.org/",
+      "title_zh": "皇后区公共图书馆遭遇勒索软件攻击",
+      "is_new": true,
+      "created_display": "Created: Nov 10, 2026 / 01:04 PT",
+      "image_url": "https://queens.libnet.info/images/editor/queens/QPL_Logo_RGB_PURPLE_Horizontal.jpg",
+      "summary_en": "Queens Public Library reported a significant network outage affecting all of its locations. The libraries were closed on November 11 for Veterans Day and were otherwise announced as open as scheduled despite the outage. The available notice does not confirm the cause of the network disruption.",
+      "summary_zh": "皇后区公共图书馆报告称，所有馆点均受到严重网络中断影响。图书馆 11 月 11 日因退伍军人节闭馆，除该节日外仍宣布按计划开放，尽管网络故障持续存在。现有公告没有确认网络中断的原因。",
+      "hn": {
+        "id": 50437790,
+        "type": "story",
+        "by": "rustyhancock",
+        "score": 184,
+        "descendants": 104,
+        "time": 1794301479,
+        "comments_url": "https://news.ycombinator.com/item?id=50437790"
+      },
+      "hot_score": 1.55,
+      "tags": [
+        "Security"
+      ]
+    },
+    {
+      "title_en": "The death knell of digital search",
+      "url": "https://www.newyorker.com/culture/infinite-scroll/the-death-knell-of-digital-search",
+      "title_zh": "数字搜索的丧钟",
+      "is_new": true,
+      "created_display": "Created: Nov 10, 2026 / 06:41 PT",
+      "image_url": "https://media.newyorker.com/photos/6aee3f799387b4aa46717acd/16:9/w_1280,c_limit/NewYorker_SearchDead_final%20(1).jpg",
+      "summary_en": "The piece argues that search is increasingly being replaced or reshaped by AI answers from systems such as Gemini, Claude, and ChatGPT. Examples include Gmail summarizing conversations instead of finding exact addresses, Google Maps guessing destinations, and Google Search placing AI overviews or a full AI mode ahead of traditional links. This shift creates problems for Google’s advertising model, which depends on relevant search results.",
+      "summary_zh": "文章认为，搜索正越来越多地被 Gemini、Claude 和 ChatGPT 等系统生成的 AI 答案取代或重塑。例子包括 Gmail 总结对话而不是查找确切地址、Google 地图猜测目的地，以及 Google 搜索用 AI 概览或完整 AI 模式取代传统链接。这种转变也给依赖相关搜索结果投放广告的 Google 商业模式带来问题。",
+      "hn": {
+        "id": 50441074,
+        "type": "story",
+        "by": "bookofjoe",
+        "score": 70,
+        "descendants": 73,
+        "time": 1794321696,
+        "comments_url": "https://news.ycombinator.com/item?id=50441074"
+      },
+      "hot_score": 1.44,
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "title_en": "Your TV can see through walls (2025)",
+      "url": "https://maurycyz.com/projects/fading/",
+      "title_zh": "你的电视可以看穿墙壁（2025）",
+      "is_new": true,
+      "created_display": "Created: Nov 09, 2026 / 21:24 PT",
+      "image_url": "https://maurycyz.com/projects/fading/spectro1.jpg",
+      "summary_en": "The project examines whether television signals can be used to observe activity through walls. The available excerpt shows a spectrogram of a local ATSC digital television signal recorded with an Ettus USRP B200. It does not provide further details about the sensing method or results.",
+      "summary_zh": "该项目研究电视信号是否可以用于观察墙后的活动。现有内容展示了使用 Ettus USRP B200 录制的本地 ATSC 数字电视信号频谱图。内容没有进一步说明感知方法或实验结果。",
+      "hn": {
+        "id": 50436410,
+        "type": "story",
+        "by": "Curiositry",
+        "score": 256,
+        "descendants": 121,
+        "time": 1794288285,
+        "comments_url": "https://news.ycombinator.com/item?id=50436410"
+      },
+      "hot_score": 1.42,
+      "tags": [
+        "Hardware"
+      ]
+    },
+    {
+      "title_en": "Fossil CO2 emissions decrease in 2026",
+      "url": "https://news.exeter.ac.uk/faculty-of-environment-science-and-economy/fossil-co2-emissions-decrease-in-2026/",
+      "title_zh": "2026 年化石燃料二氧化碳排放下降",
+      "is_new": true,
+      "created_display": "Created: Nov 10, 2026 / 00:59 PT",
+      "image_url": "https://news.exeter.ac.uk/wp-content/uploads/2026/11/solar-pic.jpg",
+      "summary_en": "The 2026 Global Carbon Budget projects that fossil-fuel carbon dioxide emissions will fall by 0.4% this year. The projected decline is attributed to the expansion of solar and wind power and the Iran conflict. Total fossil CO2 emissions are projected at 38.2 billion tonnes.",
+      "summary_zh": "《2026 年全球碳预算》预计，今年化石燃料二氧化碳排放量将下降 0.4%。预计降幅源于太阳能和风能扩张以及伊朗冲突。化石燃料二氧化碳排放总量预计为 382 亿吨。",
+      "hn": {
+        "id": 50437752,
+        "type": "story",
+        "by": "giuliomagnifico",
+        "score": 159,
+        "descendants": 184,
+        "time": 1794301181,
+        "comments_url": "https://news.ycombinator.com/item?id=50437752"
+      },
+      "hot_score": 1.32,
+      "tags": [
+        "Science",
+        "Energy"
+      ]
+    },
+    {
+      "title_en": "Toyota brand Scion is back and it's going to sell a kei truck in America",
+      "url": "https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/",
+      "title_zh": "丰田复活 Scion，将在美国销售 kei 卡车",
+      "is_new": true,
+      "created_display": "Created: Nov 10, 2026 / 11:50 PT",
+      "image_url": "https://images-stag.jazelc.com/uploads/theautopian-m2en/20261110110448/ScionByToyota_Family_TS3.jpg",
+      "summary_en": "Toyota has announced the revival of the Scion brand, which it retired in 2016 after years of declining sales. The new “Scion by Toyota” is being positioned as a “freedom lab” rather than a conventional budget car line. Its planned products include a kei truck for the U.S. market, a bike, and a hybrid side-by-side.",
+      "summary_zh": "丰田宣布复活 Scion 品牌；该品牌曾因长期销量下滑于 2016 年停用。新的“Scion by Toyota”不再定位为传统的经济型车系，而是被称为一个“自由实验室”。计划中的产品包括面向美国市场的 kei 卡车、自行车和混合动力并排车。",
+      "hn": {
+        "id": 50445401,
+        "type": "story",
+        "by": "NaOH",
+        "score": 12,
+        "descendants": 0,
+        "time": 1794340246,
+        "comments_url": "https://news.ycombinator.com/item?id=50445401"
+      },
+      "hot_score": 1.2,
+      "tags": [
+        "Business"
+      ]
+    },
+    {
+      "title_en": "Work at the Frontier: AI's effect on freelance work",
+      "url": "https://openai.com/index/ai-effect-on-freelance-work",
+      "title_zh": "前沿工作：AI 对自由职业的影响",
+      "is_new": true,
+      "created_display": "Created: Nov 10, 2026 / 10:02 PT",
+      "image_url": "https://images.ctfassets.net/kftzwdyauwt9/6uOuGMP8uXe0QmAClG9qAN/692ade63f2f37280ed6b8ffb00f9f53b/ai-effect-on-freelance-work-social.png?w=1600&h=900&fit=fill",
+      "summary_en": "Research from OpenAI and Upwork finds changing demand for freelance services, new combinations of skills, and larger budgets and more hours for AI-related projects. Some familiar services are losing market share as clients request different capabilities. AI projects are instead combining multiple skills and tending to involve larger scopes.",
+      "summary_zh": "OpenAI 与 Upwork 的研究发现，自由职业服务的需求正在变化，新的技能组合出现，AI 相关项目的预算和工时也更高。一些熟悉的服务正在失去市场份额，因为客户开始要求不同的能力。相比之下，AI 项目往往需要多种技能协作，规模也更大。",
+      "hn": {
+        "id": 50443838,
+        "type": "story",
+        "by": "swolpers",
+        "score": 23,
+        "descendants": 17,
+        "time": 1794333774,
+        "comments_url": "https://news.ycombinator.com/item?id=50443838"
+      },
+      "hot_score": 1.12,
+      "tags": [
+        "AI",
+        "Career"
+      ]
+    },
+    {
+      "title_en": "Fireworks AI security breach impacts Notion and their customers",
+      "url": "https://www.notion.com/help/security-incident-involving-a-third-party-ai-vendor",
+      "title_zh": "Fireworks AI 安全漏洞影响 Notion 及其客户",
+      "is_new": true,
+      "created_display": "Created: Nov 09, 2026 / 23:19 PT",
+      "image_url": "https://www.notion.com/front-static/meta/help-center.png",
+      "summary_en": "Notion says a security incident at its vendor Fireworks AI may have affected fewer than 1% of Notion workspaces. Some unattributable chat sessions with Notion AI may have been exposed, but the transcripts contained no tool-call results and could not be tied to a user, workspace, or company. Notion says no other workspace data was affected.",
+      "summary_zh": "Notion 表示，其供应商 Fireworks AI 的一次安全事件可能影响了不到 1% 的 Notion 工作区。部分与 Notion AI 的聊天会话可能被暴露，但这些记录没有标注用户或工作区，也不包含工具调用结果，无法追溯到具体用户、工作区或公司。Notion 表示，工作区中的其他数据未受影响。",
+      "hn": {
+        "id": 50437106,
+        "type": "story",
+        "by": "werrett",
+        "score": 155,
+        "descendants": 57,
+        "time": 1794295178,
+        "comments_url": "https://news.ycombinator.com/item?id=50437106"
+      },
+      "hot_score": 1.05,
+      "tags": [
+        "Security",
+        "Privacy",
+        "AI"
+      ]
+    },
+    {
+      "title_en": "Let over Lambda–50 Years of Lisp (2008)",
+      "url": "https://letoverlambda.com/",
+      "title_zh": "《Let over Lambda》：Lisp 五十年（2008）",
+      "is_new": true,
+      "created_display": "Created: Nov 10, 2026 / 04:35 PT",
+      "image_url": "https://letoverlambda.com/lulu-buy-now.png",
+      "summary_en": "Let Over Lambda is a 376-page programming book focused on Common Lisp and advanced macro techniques. It begins with fundamentals before covering macros and other advanced language features. The book presents macros as programs that write programs, enabling abstraction, productivity, code efficiency, and security.",
+      "summary_zh": "《Let Over Lambda》是一本 376 页、专注于 Common Lisp 和高级宏技术的编程书。全书从基础开始，逐步介绍宏及其他高级语言特性。书中将宏描述为“编写程序的程序”，强调其在抽象、生产力、代码效率和安全性方面的作用。",
+      "hn": {
+        "id": 50439448,
+        "type": "story",
+        "by": "theanonymousone",
+        "score": 71,
+        "descendants": 16,
+        "time": 1794314127,
+        "comments_url": "https://news.ycombinator.com/item?id=50439448"
+      },
+      "hot_score": 0.99,
+      "tags": [
+        "Programming",
+        "Security"
+      ]
+    },
+    {
+      "title_en": "M John Harrison becomes first science fiction author to win the Booker",
+      "url": "https://www.theguardian.com/books/2026/nov/09/m-john-harrison-the-end-of-everything-wins-2026-booker-prize",
+      "title_zh": "M·约翰·哈里森成为首位获得布克奖的科幻作家",
+      "is_new": true,
+      "created_display": "Created: Nov 09, 2026 / 23:40 PT",
+      "image_url": "https://i.guim.co.uk/img/media/f88eb30da8765416e5de2380d70ed0056788cab0/691_0_6776_5421/master/6776.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b6b46f05da72b59cef6ac1bfe8fd0f1d",
+      "summary_en": "Eighty-one-year-old M. John Harrison has won the Booker Prize for The End of Everything, a post-apocalyptic novel set on a near-future Kent coast. He becomes the oldest winner in the prize’s history. The award is worth £50,000.",
+      "summary_zh": "81 岁的 M·约翰·哈里森凭借《一切的终结》获得布克奖。这部后末日小说以近未来的肯特海岸为背景，使他成为该奖历史上最年长的获奖者。奖金额为 50,000 英镑。",
+      "hn": {
+        "id": 50437242,
+        "type": "story",
+        "by": "sorokod",
+        "score": 106,
+        "descendants": 85,
+        "time": 1794296452,
+        "comments_url": "https://news.ycombinator.com/item?id=50437242"
+      },
+      "hot_score": 0.75,
+      "tags": [
+        "Culture"
+      ]
+    },
+    {
+      "title_en": "Businesses in ChatGPT – OpenAI",
+      "url": "https://openai.com/index/introducing-businesses-chatgpt/",
+      "title_zh": "ChatGPT 中的企业功能",
+      "is_new": true,
+      "created_display": "Created: Nov 10, 2026 / 10:10 PT",
+      "image_url": "https://images.ctfassets.net/kftzwdyauwt9/7Eicp7g84HA3PCzyVJTfbT/d423890d5a1a863bf69a57bcbbbf6e99/business-agents-blog-social.png?w=1600&h=900&fit=fill",
+      "summary_en": "OpenAI is introducing Businesses in ChatGPT in beta. Through Business Hub, companies can claim their business listings, keep information current, and see how people engage with them in ChatGPT. Business Agents are also being introduced for eligible U.S. ecommerce and online-service businesses, while the announcement says ChatGPT has 1.2 billion weekly users.",
+      "summary_zh": "OpenAI 推出了 ChatGPT 中的企业功能测试版。企业可以通过 Business Hub 认领商家信息、更新资料，并了解用户在 ChatGPT 中如何与其互动。针对符合条件的美国电商和在线服务企业，平台还开始提供 Business Agents；公告称 ChatGPT 每周拥有 12 亿用户。",
+      "hn": {
+        "id": 50443944,
+        "type": "story",
+        "by": "smokeeaasd",
+        "score": 13,
+        "descendants": 4,
+        "time": 1794334240,
+        "comments_url": "https://news.ycombinator.com/item?id=50443944"
+      },
+      "hot_score": 0.64,
+      "tags": [
+        "AI",
+        "Business"
+      ]
+    },
+    {
+      "title_en": "Show HN: I have trained 15 blood glucose forecasting models on my own data",
+      "url": "https://github.com/0xdeadf1sh/T1DMAI",
+      "title_zh": "Show HN：我用自己的数据训练了 15 个血糖预测模型",
+      "is_new": true,
+      "created_display": "Created: Nov 10, 2026 / 11:07 PT",
+      "image_url": "https://opengraph.githubassets.com/b42f9fe2c659c4f265ebdc57e2570ff17dfbf74a16329c8a60754cf0aef8c2dd/0xdeadf1sh/T1DMAI",
+      "summary_en": "This project is a model zoo of blood-glucose forecasters trained and tested on the author’s own data and on the public Metabonet dataset. It includes 15 forecasting models, including models developed by the author. Most of the repository’s code was generated with AI.",
+      "summary_zh": "这是一个血糖预测模型集合，使用作者自己的数据和公开的 Metabonet 数据集进行训练与测试。项目包含 15 个预测模型，其中包括作者自行开发的模型。代码仓库中的大部分代码由 AI 生成。",
+      "hn": {
+        "id": 50444761,
+        "type": "story",
+        "by": "0xdeadf1sh",
+        "score": 8,
+        "descendants": 1,
+        "time": 1794337673,
+        "comments_url": "https://news.ycombinator.com/item?id=50444761"
+      },
+      "hot_score": 0.54,
+      "tags": [
+        "Show HN",
+        "AI",
+        "Data"
+      ]
+    },
+    {
+      "title_en": "Show HN: TheoremSmith: Mass-Producing Hard Proof Problems to Train LLMs",
+      "url": "https://charleshuang.me/2026/09/27/theoremsmith/",
+      "title_zh": "Show HN：TheoremSmith——批量生成训练 LLM 的高难证明题",
+      "is_new": true,
+      "created_display": "Created: Nov 10, 2026 / 10:33 PT",
+      "image_url": "https://charleshuang.me/assets/images/theoremsmith/seed-dependencies.png",
+      "summary_en": "TheoremSmith is a pipeline for generating synthetic formal-verification environments for training models. It is designed to create multi-hour, frontier-difficulty tasks at scalable throughput, with proofs verified by formal checkers. The project seeks feedback on possible verifier exploits and whether synthetic tasks can improve performance on real proofs.",
+      "summary_zh": "TheoremSmith 是一个用于生成合成形式化验证环境的流水线，旨在训练模型。它可以大规模生成需要数小时解决、难度接近前沿的任务，并由形式化检查器验证证明。项目希望获得关于模型可能如何欺骗验证器，以及合成任务能否提升真实证明能力的反馈。",
+      "hn": {
+        "id": 50444276,
+        "type": "story",
+        "by": "charles6huang",
+        "score": 7,
+        "descendants": 0,
+        "time": 1794335597,
+        "comments_url": "https://news.ycombinator.com/item?id=50444276"
+      },
+      "hot_score": 0.37,
+      "tags": [
+        "Show HN",
+        "AI",
+        "Data"
+      ]
+    },
+    {
+      "title_en": "Show HN: WolveKafka – Consume Kafka with a plain HTTP endpoint",
+      "url": "https://github.com/wolveflake/wolvekafka",
+      "title_zh": "Show HN：WolveKafka——通过纯 HTTP 接口消费 Kafka",
+      "is_new": true,
+      "created_display": "Created: Nov 10, 2026 / 09:45 PT",
+      "image_url": "https://opengraph.githubassets.com/5148997c43463913b12f0164ddf7ee365adc07ccb9dea01ac9ea7fbbcb50bd03/wolveflake/wolvekafka",
+      "summary_en": "WolveKafka lets applications consume Kafka through an HTTP handler in any programming language. It manages consumer groups, batching, retries, offsets, and dead-letter queues. The project includes a quickstart, examples, deployment guidance, and comparison material.",
+      "summary_zh": "WolveKafka 允许应用使用任意编程语言，通过 HTTP 处理器消费 Kafka。它负责管理消费者组、批处理、重试、偏移量和死信队列。项目还提供快速入门、示例、部署指南和对比资料。",
+      "hn": {
+        "id": 50443596,
+        "type": "story",
+        "by": "piscesdk",
+        "score": 8,
+        "descendants": 0,
+        "time": 1794332720,
+        "comments_url": "https://news.ycombinator.com/item?id=50443596"
+      },
+      "hot_score": 0.32,
+      "tags": [
+        "Show HN",
+        "Programming"
+      ]
+    },
+    {
+      "title_en": "Process Explorer for macOS",
+      "url": "https://github.com/microsoft/Procexp-Mac",
+      "title_zh": "适用于 macOS 的 Process Explorer",
+      "is_new": true,
+      "created_display": "Created: Nov 09, 2026 / 14:30 PT",
+      "image_url": "https://opengraph.githubassets.com/52bf598eea0be59f2df1ce145ecf8961dffca17f4a74b035f49487f87932a051/microsoft/Procexp-Mac",
+      "summary_en": "Microsoft’s Process Explorer for Mac is a native macOS implementation of the core Process Explorer experience. It provides a live process tree, module, handle, and thread inspection, per-process properties, system-wide performance graphs, and code-signing checks. The Swift, SwiftUI, and AppKit application uses public macOS APIs, with optional support for a privileged helper.",
+      "summary_zh": "微软的 macOS 版 Process Explorer 是对核心 Process Explorer 体验的原生实现。它提供实时进程树、模块、句柄和线程检查、逐进程属性、系统级性能图表以及代码签名检查。该应用使用 Swift、SwiftUI 和 AppKit 构建，并通过 macOS 公共 API 工作，还可选择使用特权辅助程序。",
+      "hn": {
+        "id": 50433216,
+        "type": "story",
+        "by": "ingve",
+        "score": 78,
+        "descendants": 33,
+        "time": 1794263441,
+        "comments_url": "https://news.ycombinator.com/item?id=50433216"
+      },
+      "hot_score": 0.24,
+      "tags": [
+        "Programming"
+      ]
+    },
+    {
+      "title_en": "Taking another shot at the cheap IP camera, part 2",
+      "url": "https://ericswpark.com/blog/2026/2026-11-09-ip-camera-pt2/",
+      "title_zh": "再次尝试廉价 IP 摄像头，第 2 部分",
+      "is_new": true,
+      "created_display": "Created: Nov 09, 2026 / 06:40 PT",
+      "image_url": "https://ericswpark.com/blog/2026/2026-11-09-ip-camera-pt2/opengraph.png",
+      "summary_en": "The author revisits a cheap IP camera based on the proprietary Tuya IoT platform after previously failing to obtain a local video stream without using the vendor’s servers. During a move, the author decided to try again, first attempting reverse engineering personally and then considering an LLM if needed. The goal was both to recover local streaming and learn from the model’s analysis.",
+      "summary_zh": "作者重新尝试研究一款基于 Tuya 专有物联网平台的廉价 IP 摄像头；此前作者未能在不经过厂商服务器的情况下获得本地视频流。搬家期间，作者决定再次挑战，先亲自进行逆向工程，失败后再考虑使用 LLM。目标既是恢复本地视频流，也是从模型的分析中学习。",
+      "hn": {
+        "id": 50426294,
+        "type": "story",
+        "by": "ericswpark",
+        "score": 108,
+        "descendants": 35,
+        "time": 1794235242,
+        "comments_url": "https://news.ycombinator.com/item?id=50426294"
+      },
+      "hot_score": 0.2,
+      "tags": [
+        "Security",
+        "Hardware",
+        "AI"
+      ]
+    },
+    {
+      "title_en": "NetBSD 11 desktop on a Raspberry Pi 4",
+      "url": "https://neongd.com/articles/netbsd11-rpi4.gmi",
+      "title_zh": "树莓派 4 上的 NetBSD 11 桌面",
+      "is_new": true,
+      "created_display": "Created: Nov 08, 2026 / 04:07 PT",
+      "image_url": null,
+      "summary_en": "The author’s guide describes running a NetBSD 11 desktop on a Raspberry Pi 4. After the post received unexpected attention on Hacker News, the author updated parts of the guide, including instructions for writing the image to an SD card. The author also noted interest in NetBSD as an AI-free alternative.",
+      "summary_zh": "作者的指南介绍了如何在 Raspberry Pi 4 上运行 NetBSD 11 桌面。文章意外受到 Hacker News 关注后，作者更新了部分内容，包括将系统镜像写入 SD 卡的说明。作者还提到，人们对 NetBSD 作为无 AI 替代方案的兴趣有所增加。",
+      "hn": {
+        "id": 50412554,
+        "type": "story",
+        "by": "jaypatelani",
+        "score": 115,
+        "descendants": 68,
+        "time": 1794139637,
+        "comments_url": "https://news.ycombinator.com/item?id=50412554"
+      },
+      "hot_score": 0.07,
+      "tags": [
+        "Open Source",
+        "Hardware",
+        "AI"
+      ]
+    },
+    {
+      "title_en": "Show HN: Ghanaian street games you can play in the browser",
+      "url": "https://www.ghanastreetgames.com/",
+      "title_zh": "Show HN：可以在浏览器中玩的加纳街头游戏",
+      "is_new": true,
+      "created_display": "Created: Nov 08, 2026 / 07:31 PT",
+      "image_url": null,
+      "summary_en": "The project offers 35 playable Ghanaian street games in a browser. The collection includes Four Corners, Laski, One Pole, penalty games, neighbourhood Pilolo, and Pampanaa. It is designed to make these games directly playable online.",
+      "summary_zh": "这个项目在浏览器中提供 35 款可玩的加纳街头游戏。游戏包括 Four Corners、Laski、One Pole、点球游戏、社区版 Pilolo 和 Pampanaa 等。用户可以直接在线体验这些游戏。",
+      "hn": {
+        "id": 50414117,
+        "type": "story",
+        "by": "samuelaidoo45",
+        "score": 98,
+        "descendants": 19,
+        "time": 1794151912,
+        "comments_url": "https://news.ycombinator.com/item?id=50414117"
+      },
+      "hot_score": 0.07,
+      "tags": [
+        "Show HN",
+        "Gaming",
+        "Web"
+      ]
+    },
+    {
+      "title_en": "Billion Watts in the Speaker [video]",
+      "url": "https://www.youtube.com/watch?v=PHOcTXYaMfg",
+      "title_zh": "扬声器中的十亿瓦特 [视频]",
+      "is_new": true,
+      "created_display": "Created: Nov 07, 2026 / 13:45 PT",
+      "image_url": null,
+      "summary_en": "The item is a video titled “Billion Watts in the Speaker.” No further details about its content or the speaker setup are established.",
+      "summary_zh": "这是一个名为《扬声器中的十亿瓦特》的视频。现有信息未说明视频内容或扬声器设备的更多细节。",
+      "hn": {
+        "id": 50408336,
+        "type": "story",
+        "by": "Element_",
+        "score": 92,
+        "descendants": 51,
+        "time": 1794087950,
+        "comments_url": "https://news.ycombinator.com/item?id=50408336"
+      },
+      "hot_score": 0.04,
+      "tags": [
+        "Entertainment"
+      ]
+    },
+    {
+      "title_en": "Variable-width Bézier curves (2025)",
+      "url": "https://luthert.web.illinois.edu/blog/posts/775.html",
+      "title_zh": "可变宽度贝塞尔曲线（2025）",
+      "is_new": true,
+      "created_display": "Created: Nov 09, 2026 / 02:23 PT",
+      "image_url": "https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png",
+      "summary_en": "The author developed several custom boardwork applications after finding existing graphics tools inadequate for live handwritten teaching. Over the years, the applications were rewritten in JavaScript and D, using Canvas, GTK, Cairo, GSK, and custom software renderers. The post focuses on the missing 2D graphics primitive of Bézier curves with a pen-width coordinate.",
+      "summary_zh": "作者因现有图形工具不适合课堂现场手写教学，开发了多款自定义板书应用。多年来，这些应用以 JavaScript 和 D 重写，使用了 Canvas、GTK、Cairo、GSK 以及自制软件渲染器。文章聚焦于二维图形库中长期缺失的一项基础能力：带有笔宽坐标的贝塞尔曲线。",
+      "hn": {
+        "id": 50423664,
+        "type": "story",
+        "by": "leduyquang753",
+        "score": 25,
+        "descendants": 7,
+        "time": 1794219810,
+        "comments_url": "https://news.ycombinator.com/item?id=50423664"
+      },
+      "hot_score": 0.04,
+      "tags": [
+        "Programming",
+        "Design"
+      ]
+    },
+    {
+      "title_en": "I deleted all my SSH keys",
+      "url": "https://blog.infected.systems/posts/2026-11-03-i-deleted-all-my-ssh-keys/",
+      "title_zh": "我删除了所有 SSH 密钥",
+      "is_new": true,
+      "created_display": "Created: Nov 05, 2026 / 10:17 PT",
+      "image_url": "https://blog.infected.systems/favicon.svg",
+      "summary_en": "The source excerpt contains only an archived URL and provides no reliable details about why the author deleted all SSH keys or what followed. The subject is the removal of the author’s SSH keys.",
+      "summary_zh": "现有内容只有一个存档链接，未可靠说明作者为何删除所有 SSH 密钥或之后发生了什么。文章主题是作者移除了自己的 SSH 密钥。",
+      "hn": {
+        "id": 50382401,
+        "type": "story",
+        "by": "speckx",
+        "score": 179,
+        "descendants": 72,
+        "time": 1793902671,
+        "comments_url": "https://news.ycombinator.com/item?id=50382401"
+      },
+      "hot_score": 0.03,
+      "tags": [
+        "Security",
+        "Privacy"
+      ]
+    },
+    {
+      "title_en": "Simon Winchester, Author of 'The Professor and the Madman,' Has Died",
+      "url": "https://www.nytimes.com/2026/11/04/obituaries/simon-winchester-dead.html",
+      "title_zh": "《教授与疯子》作者 Simon Winchester 去世",
+      "is_new": true,
+      "created_display": "Created: Nov 07, 2026 / 20:07 PT",
+      "image_url": null,
+      "summary_en": "Simon Winchester, author of The Professor and the Madman, has died. The title identifies him as the author of the book but provides no further details about his age, cause of death, or career.",
+      "summary_zh": "《教授与疯子》的作者 Simon Winchester 已去世。现有信息仅确认他的作者身份，没有提供年龄、死因或职业生涯的更多细节。",
+      "hn": {
+        "id": 50410329,
+        "type": "story",
+        "by": "benbreen",
+        "score": 63,
+        "descendants": 22,
+        "time": 1794110841,
+        "comments_url": "https://news.ycombinator.com/item?id=50410329"
+      },
+      "hot_score": 0.03,
+      "tags": [
+        "Culture"
+      ]
+    },
+    {
+      "title_en": "A failed experiment in laptop cooling (2025)",
+      "url": "https://kevinboone.me/failed_cooling.html",
+      "title_zh": "一次失败的笔记本电脑散热实验（2025）",
+      "is_new": true,
+      "created_display": "Created: Nov 07, 2026 / 07:57 PT",
+      "image_url": "https://kevinboone.me/img/fan_icon.png",
+      "summary_en": "The author tested whether placing extra fans beneath a laptop’s air intakes would improve cooling, but the experiment failed. The laptop is a Lenovo P53 with a six-core Intel H-series CPU, 32 GB of RAM, an Nvidia GPU with 8 GB of memory, and 5 TB of storage. Its built-in CPU and GPU fans can reach 4,000 RPM and are already extremely loud.",
+      "summary_zh": "作者测试了在笔记本进风口下方加装额外风扇是否能改善散热，但实验失败了。这台 Lenovo P53 配备六核 Intel H 系列处理器、32 GB 内存、带 8 GB 显存的 Nvidia GPU 和 5 TB 存储。其 CPU 和 GPU 风扇最高可达 4,000 RPM，运行时已经非常嘈杂。",
+      "hn": {
+        "id": 50405611,
+        "type": "story",
+        "by": "andsoitis",
+        "score": 54,
+        "descendants": 60,
+        "time": 1794067049,
+        "comments_url": "https://news.ycombinator.com/item?id=50405611"
+      },
+      "hot_score": 0.02,
+      "tags": [
+        "Hardware",
+        "Science"
+      ]
+    },
+    {
+      "title_en": "The planet Vulcan: a cautionary tale",
+      "url": "https://kevinboone.me/vulcan.html",
+      "title_zh": "火神星：一个警示故事",
+      "is_new": true,
+      "created_display": "Created: Nov 07, 2026 / 06:42 PT",
+      "image_url": "https://kevinboone.me/img/telescope.jpg",
+      "summary_en": "The hypothetical planet Vulcan was allegedly sighted in 1859 and proposed to orbit the Sun inside Mercury’s orbit. More sightings followed for roughly four decades, and astronomers described the planet in detail even though it is now firmly considered nonexistent. What observers actually saw remains unresolved, making Vulcan a case study in scientific error and falsification.",
+      "summary_zh": "假想中的火神星据称于 1859 年首次被观测到，被认为运行在水星轨道以内。此后约四十年间又出现多次“观测”，天文学家甚至详细描述了它，尽管如今已确信它并不存在。观测者究竟看到了什么仍无定论，因此火神星成为科学错误与可证伪性的一个案例。",
+      "hn": {
+        "id": 50404969,
+        "type": "story",
+        "by": "andsoitis",
+        "score": 25,
+        "descendants": 1,
+        "time": 1794062569,
+        "comments_url": "https://news.ycombinator.com/item?id=50404969"
+      },
+      "hot_score": 0.01,
+      "tags": [
+        "Science",
+        "Culture",
+        "Space"
+      ]
+    },
+    {
+      "title_en": "Twelve things you could build on a live index of internet radio",
+      "url": "https://tuneping.com/notes/twelve-things-to-build-on-a-live-radio-index/",
+      "title_zh": "基于实时互联网广播索引可以构建的十二件事",
+      "is_new": true,
+      "created_display": "Created: Nov 07, 2026 / 04:44 PT",
+      "image_url": "https://tuneping.com/media/social/og.png",
+      "summary_en": "Tuneping tracks what about 23,000 radio stations are playing now and what 58,000 stations played over recent weeks. The post proposes twelve projects that could use this live index, including email notifications triggered by releases. It also describes the endpoints and implementation plans, with most ideas intended to fit into a weekend.",
+      "summary_zh": "Tuneping 记录约 23,000 个电台当前播放的内容，以及约 58,000 个电台过去几周播放过的内容。文章提出了 12 个可以利用这一实时索引的项目，包括在新作品发布当天发送邮件通知。文中还说明了所需接口和实现计划，其中大多数想法预计一个周末即可完成。",
+      "hn": {
+        "id": 50404079,
+        "type": "story",
+        "by": "victorbuilds",
+        "score": 18,
+        "descendants": 5,
+        "time": 1794055469,
+        "comments_url": "https://news.ycombinator.com/item?id=50404079"
+      },
+      "hot_score": 0.01,
+      "tags": [
+        "Web",
+        "Programming"
+      ]
+    },
+    {
+      "title_en": "What It Costs to Run 4 Apps on My Own Servers",
+      "url": "https://akashrajpurohit.com/blog/what-it-costs-to-run-4-apps-on-my-own-servers/",
+      "title_zh": "在自己的服务器上运行 4 个应用的成本",
+      "is_new": true,
+      "created_display": "Created: Nov 07, 2026 / 21:20 PT",
+      "image_url": "https://akashrajpurohit.com/blog/what-it-costs-to-run-4-apps-on-my-own-servers/index.png",
+      "summary_en": "The author runs four production applications, each with its own PostgreSQL database, workers, scheduled jobs, and backups, for about $45 per month. Hydrafetch, DataHyena, CatchIntent, and Eternal Vault all run on a single self-managed server. The post breaks down the bill, the gaps in that budget, and the problems encountered along the way.",
+      "summary_zh": "作者在一台自行搭建的服务器上运行四个生产应用，每个应用都有自己的 PostgreSQL 数据库、后台工作进程、定时任务和备份，总成本约为每月 45 美元。这四个产品是 Hydrafetch、DataHyena、CatchIntent 和 Eternal Vault。文章详细拆解了费用、这笔预算无法覆盖的部分，以及过程中遇到的问题。",
+      "hn": {
+        "id": 50410621,
+        "type": "story",
+        "by": "ghostfoxgod",
+        "score": 6,
+        "descendants": 0,
+        "time": 1794115256,
+        "comments_url": "https://news.ycombinator.com/item?id=50410621"
+      },
+      "hot_score": 0.0,
+      "tags": [
+        "DevOps",
+        "Finance",
+        "Data"
+      ]
+    }
+  ]
+}

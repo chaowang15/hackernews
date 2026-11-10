@@ -5,7 +5,7 @@
     <link>https://chaowang15.github.io/hackernews/</link>
     <description>Curated daily digest of top Hacker News stories with AI-generated summaries, tags, and bilingual translations.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 09 Nov 2026 23:46:26 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 21:16:46 +0000</lastBuildDate>
     <generator>Hacker News Daily RSS Builder</generator>
     <atom:link href="https://chaowang15.github.io/hackernews/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
@@ -21,18 +21,6 @@
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50378228&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/08/top_stories_11082026#story-50378228&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Astra can read and write weights to improve Qwen</title>
-      <link>https://rikiyat.github.io/blog/weight-space-programming/</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50341174</guid>
-      <dc:creator>dbreunig</dc:creator>
-      <pubDate>Mon, 02 Nov 2026 18:21:28 +0000</pubDate>
-      <category>AI</category>
-      <description>&lt;p&gt;The source reports that frontier LLMs can read and write neural-network weights directly. GPT-6 Astra can infer what a network was trained to do from its raw weights and create small game-playing networks that outperform ones trained with PPO for 100 million steps. The capability could matter for model optimization and interpretability.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;资料称，前沿大语言模型已经能够直接读取和写入神经网络权重。GPT-6 Astra 可以仅凭原始权重判断网络的训练目标，还能从零编写击败经过 1 亿步 PPO 训练的小型游戏网络。这种能力可能对模型优化和可解释性具有重要意义。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 2928 · 💬 880 · AI&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50341174&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/03/top_stories_11032026#story-50341174&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>HackerTube: YouTube built from videos recommended by HN</title>
       <link>https://karpathy.bearblog.dev/hacker-tube/</link>
       <guid isPermaLink="true">https://news.ycombinator.com/item?id=50319510</guid>
@@ -43,32 +31,6 @@
 &lt;p&gt;&lt;em&gt;HackerTube 提供了一个 YouTube 风格的界面，收录了自 2007 年以来从 39,834 条 Hacker News 评论中提取的 6,454 个视频。该视频集合可通过 hackertube.org 浏览。它将多年社区推荐整理成了一个可探索的视频档案。&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;▲ 2881 · 💬 637 · Web&lt;/small&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50319510&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/04/top_stories_11042026#story-50319510&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Show HN: HackerBooks – HackerTube, but for books mentioned on HN</title>
-      <link>https://hackerbooks.org</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50326821</guid>
-      <dc:creator>roansh</dc:creator>
-      <pubDate>Sun, 01 Nov 2026 15:58:28 +0000</pubDate>
-      <category>Show HN</category>
-      <category>Data</category>
-      <description>&lt;p&gt;HackerBooks catalogs about 16,500 books mentioned by at least two different Hacker News commenters between 2007 and today. Each book links back to the comments that mentioned it, and the dataset can be downloaded from the about page. The creator notes that the system counts mentions without distinguishing praise from criticism, so some entries may be missing or mismatched.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;HackerBooks 收录了 2007 年至今至少被两名不同 Hacker News 评论者提到过的约 1.65 万本书。每本书都链接回提及它的评论，数据集也可从关于页面下载。创建者说明，系统只统计提及次数，不区分赞扬和批评，因此部分书籍可能遗漏或匹配错误。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 1843 · 💬 304 · Show HN · Data&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50326821&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/03/top_stories_11032026#story-50326821&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>WTF Ubuntu?</title>
-      <link>https://chalmovsky.com/posts/wtf-ubuntu</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50337608</guid>
-      <dc:creator>chalmovsky</dc:creator>
-      <pubDate>Mon, 02 Nov 2026 14:52:00 +0000</pubDate>
-      <category>Security</category>
-      <category>AI</category>
-      <description>&lt;p&gt;CVE-2026-98432 is described as a critical, remotely exploitable bug in the Linux kernel's TCP code that has existed since 2016. The source says Anthropic developed an exploit capable of gaining root access, while Debian issued a patch on October 16 and supported Ubuntu releases remained listed as vulnerable.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;CVE-2026-98432 被描述为 Linux 内核 TCP 代码中的严重漏洞，自 2016 年起便存在且可远程利用。资料称 Anthropic 已开发出可获取服务器 root 权限的漏洞利用程序；Debian 于 10 月 16 日发布了补丁，而受支持的 Ubuntu 版本仍被列为易受攻击。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 1609 · 💬 671 · Security · AI&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50337608&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/03/top_stories_11032026#story-50337608&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Claude Code sends your email address to websites</title>
@@ -110,6 +72,20 @@
 &lt;p&gt;&lt;em&gt;过去 30 天内，有住宅代理流量 236 次从白宫网络流出，并经过 28 个公共代理服务。该网络的 AS2650 注册于负责托管白宫网络的美国总统行政办公室。住宅代理会让客户的流量经由普通设备转发，使其看起来来自这些设备所在的网络。&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;▲ 1249 · 💬 431 · Security · Privacy · Politics&lt;/small&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50371246&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/05/top_stories_11052026#story-50371246&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Foldable Flight: The Best Paper Airplanes</title>
+      <link>https://www.foldableflight.com</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50424581</guid>
+      <dc:creator>vismit2000</dc:creator>
+      <pubDate>Mon, 09 Nov 2026 12:19:22 +0000</pubDate>
+      <category>Education</category>
+      <category>Entertainment</category>
+      <category>Data</category>
+      <description>&lt;p&gt;The site presents a large database of paper airplanes with step-by-step video folding tutorials. One World Record prototype is reported to fly more than 300 feet. The Unite model holds a world record for time aloft at 31.2 seconds.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;该网站提供大型纸飞机数据库，并为每种机型配备分步折叠视频教程。据称，一款世界纪录原型机可以飞行超过 300 英尺。Unite 机型则以 31.2 秒的滞空时间保持世界纪录。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 1175 · 💬 167 · Education · Entertainment · Data&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50424581&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/10/top_stories_11102026#story-50424581&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Tesla to wind down Cybertruck production</title>
@@ -161,19 +137,6 @@
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50351111&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/04/top_stories_11042026#story-50351111&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Backdoor in Claude Code for VS Code extension on the Cursor Marketplace</title>
-      <link>https://phorion.io/blog/offical-claude-code-vsx-compromise/</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50300683</guid>
-      <dc:creator>_chall</dc:creator>
-      <pubDate>Fri, 30 Oct 2026 07:09:12 +0000</pubDate>
-      <category>Security</category>
-      <category>AI</category>
-      <description>&lt;p&gt;The title reports a backdoor in a Claude Code extension for VS Code distributed through the Cursor Marketplace. The supplied context provides no further reliable details.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;标题称，Cursor Marketplace 上分发的 Claude Code for VS Code 扩展中存在后门。提供的上下文没有更多可靠细节。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 1010 · 💬 553 · Security · AI&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50300683&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/03/top_stories_11032026#story-50300683&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>Jailbreaking my car's navigation system just so I can change the time</title>
       <link>https://blog.nns.ee/2026/11/02/renault-hack/</link>
       <guid isPermaLink="true">https://news.ycombinator.com/item?id=50339288</guid>
@@ -187,18 +150,6 @@
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50339288&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/04/top_stories_11042026#story-50339288&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>An Italian farmer found some unknown seeds in his attic and planted them</title>
-      <link>https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50320963</guid>
-      <dc:creator>ecares</dc:creator>
-      <pubDate>Sat, 31 Oct 2026 22:41:06 +0000</pubDate>
-      <category>Science</category>
-      <description>&lt;p&gt;In the early 1990s, Parma farmer Claudio Grossi found an unidentified sack of seeds that likely belonged to his great-grandfather, who founded the farm around 1915. After he discarded the seeds in manure, several types of wheat unexpectedly sprouted. One variety grew about six feet tall and produced seven ears, unlike the single-ear commercial wheat Grossi knew.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;20 世纪 90 年代初，帕尔马农民克劳迪奥·格罗西发现了一袋无法辨认的种子，可能是其约于 1915 年创建农场的曾祖父留下的。他把种子倒进肥料堆后，几种小麦竟意外发芽。其中一个品种长到约六英尺高，并结出七个麦穗，不同于格罗西熟悉的单穗商业小麦。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 870 · 💬 236 · Science&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50320963&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/03/top_stories_11032026#story-50320963&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>Every Mac comes with an (undocumented) family member classifier</title>
       <link>https://8rank.ai/game/apple-intelligence-personal-knowledge-graph</link>
       <guid isPermaLink="true">https://news.ycombinator.com/item?id=50403097</guid>
@@ -209,18 +160,6 @@
 &lt;p&gt;&lt;em&gt;文章称，自 2022 年发布的 macOS 13 起，每台 Mac 都包含两个用于构建用户关系和活动图谱的后台进程。该图谱据称涵盖联系人、彼此关系、通信、位置、活动及时间信息。文章还分析了这一系统的工作方式，并提供了查看个人设备上该图谱的工具。&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;▲ 850 · 💬 450 · Privacy&lt;/small&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50403097&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/08/top_stories_11082026#story-50403097&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Postgres 19 is late because so many more bugs are being found now</title>
-      <link>http://rhaas.blogspot.com/2026/10/postgres-19-is-late-and-its-ais-fault.html</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50312408</guid>
-      <dc:creator>soheilpro</dc:creator>
-      <pubDate>Sat, 31 Oct 2026 01:38:56 +0000</pubDate>
-      <category>Programming</category>
-      <description>&lt;p&gt;Postgres 19 is late because many more bugs are being found during development. The title identifies the delay and attributes it to the increased discovery of defects.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Postgres 19 的发布出现延期，原因是开发过程中发现的错误数量大幅增加。标题将这次延迟归因于缺陷发现增多。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 844 · 💬 511 · Programming&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50312408&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/03/top_stories_11032026#story-50312408&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Claude Fable 5.2 and Mythos 5.2</title>
@@ -249,32 +188,6 @@
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50354358&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/04/top_stories_11042026#story-50354358&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Show HN: Subvocal – Talk to your computer without making noise</title>
-      <link>https://news.ycombinator.com/item?id=50340088</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50340088</guid>
-      <dc:creator>aarushyadav</dc:creator>
-      <pubDate>Mon, 02 Nov 2026 17:16:17 +0000</pubDate>
-      <category>Show HN</category>
-      <category>AI</category>
-      <description>&lt;p&gt;Subvocal is building smart glasses that decode silently mouthed words into text at speech speed. The system can also work without opening the mouth, using radio-frequency sensing to detect movements inside the mouth, though the developers distinguish this from silently thinking words. The founders began the project after finding that voice tools were impractical in libraries, offices, and public spaces.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Subvocal 正在开发能将无声口型以接近语速转换为文字的智能眼镜。系统甚至可以在不张嘴的情况下工作，通过射频感知口腔内部动作；开发者强调，这不同于单纯在脑中默念。创始人因发现语音工具不适合图书馆、办公室和公共场所，开始了这个项目。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 817 · 💬 388 · Show HN · AI&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50340088&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/03/top_stories_11032026#story-50340088&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Fold Epic Paper Airplanes</title>
-      <link>https://www.foldableflight.com</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50424581</guid>
-      <dc:creator>vismit2000</dc:creator>
-      <pubDate>Mon, 09 Nov 2026 12:19:22 +0000</pubDate>
-      <category>Education</category>
-      <category>Data</category>
-      <description>&lt;p&gt;Foldable Flight presents a large database of paper airplanes with step-by-step video folding tutorials. Its listed prototypes include one that can fly more than 300 feet and another, named Unite, that holds a 31.2-second flight-time record.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Foldable Flight 提供了一个大型纸飞机数据库，并为每种纸飞机配备分步骤视频折叠教程。其展示的原型中，有一种飞行距离超过 300 英尺，另一种名为 Unite 的纸飞机创下了 31.2 秒的滞空时间纪录。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 799 · 💬 133 · Education · Data&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50424581&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/09/top_stories_11092026#story-50424581&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>What I run on my $10 USD OpenStick homelab</title>
       <link>https://blog.bosscher.ch/posts/openstick/</link>
       <guid isPermaLink="true">https://news.ycombinator.com/item?id=50406670</guid>
@@ -285,18 +198,6 @@
 &lt;p&gt;&lt;em&gt;作者花 10 美元（含运费）买了一台 OpenStick，主要是因为这款硬件新奇而有趣。它的性能可能还不如许多现代智能手表，但仍然适合进行有趣的自托管实验。这个项目展示了廉价小设备如何成为入门家庭实验室的起点。&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;▲ 781 · 💬 134 · Hardware&lt;/small&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50406670&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/08/top_stories_11082026#story-50406670&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8</title>
-      <link>https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50319143</guid>
-      <dc:creator>oger</dc:creator>
-      <pubDate>Sat, 31 Oct 2026 19:16:30 +0000</pubDate>
-      <category>Security</category>
-      <description>&lt;p&gt;CVE-2026-98432 is a critical remote use-after-free vulnerability in Linux's IPv4 TCP handshake, reachable by an unauthenticated network peer. Stable kernels fixed it in October 2026, with patches for versions including 5.10.272 through 7.3, but the flaw dates back to Linux 4.4. At the reported time, Ubuntu still marked every release as vulnerable, while Red Hat listed RHEL 8, 9, and 10 as affected without a fix.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;CVE-2026-98432 是 Linux IPv4 TCP 握手中的严重远程释放后使用漏洞，未经身份验证的网络对端即可触发。稳定版内核已于 2026 年 10 月修复，补丁覆盖 5.10.272 至 7.3 等版本，但该缺陷可追溯至 Linux 4.4。报道所述时间点，Ubuntu 仍将所有版本标为易受攻击，Red Hat 也列出受影响的 RHEL 8、9 和 10，尚未提供修复。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 747 · 💬 333 · Security&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50319143&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/03/top_stories_11032026#story-50319143&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Goodbye Claude, hello Pi</title>
@@ -323,18 +224,6 @@
 &lt;p&gt;&lt;em&gt;BUI 是一个与 Blender 原始代码库解耦的 GPU 加速用户界面。它支持 Rust、Python、JavaScript、React、C 和 C++。项目方称其性能是 GPUI 的两倍。&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;▲ 726 · 💬 289 · Programming · Hardware · Web&lt;/small&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50389333&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/07/top_stories_11072026#story-50389333&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Ask HN: Which TV do you recommend for privacy?</title>
-      <link>https://news.ycombinator.com/item?id=50328896</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50328896</guid>
-      <dc:creator>LecroJS</dc:creator>
-      <pubDate>Sun, 01 Nov 2026 19:35:27 +0000</pubDate>
-      <category>Privacy</category>
-      <description>&lt;p&gt;A user is looking for a privacy-respecting television with a 60–80-inch 4K display running at least 60 Hz. They want the device to act only as a display for an Apple TV rather than use smart-TV apps, and are asking which models pair well with that setup.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;一名用户想寻找重视隐私的电视，要求尺寸在 60 至 80 英寸之间、支持 4K 且刷新率至少为 60Hz。他希望电视只作为 Apple TV 的显示器，而不运行智能电视原生应用，并询问哪些型号适合这种配置。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 726 · 💬 871 · Privacy&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50328896&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/03/top_stories_11032026#story-50328896&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Qwen 3.8 27B on my laptop can interpret model weights, too</title>
@@ -400,16 +289,18 @@
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50384233&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/06/top_stories_11062026#story-50384233&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>If you love a website, back it up</title>
-      <link>https://blog.mistys-internet.website/post/2026/10/29/if-you-love-a-website-back-it-up/</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50336518</guid>
-      <dc:creator>ingve</dc:creator>
-      <pubDate>Mon, 02 Nov 2026 13:25:35 +0000</pubDate>
-      <category>Web</category>
-      <description>&lt;p&gt;The author describes discovering that the long-running Teapuppies fansite had disappeared and its domain was serving online-gambling advertisements. The site had been online since 2004 and largely unchanged since 2005, making its loss an example of how fragile old web pages can be.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;作者发现，一个长期存在的 Teapuppies 粉丝网站已经消失，原域名如今被用于投放在线赌博广告。该网站自 2004 年上线、2005 年后基本未变，这次消失体现了旧网页保存状况的脆弱性。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 654 · 💬 152 · Web&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50336518&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/03/top_stories_11032026#story-50336518&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+      <title>Amazon saves millions by replacing Sonnet 4.6 with Strands Decider</title>
+      <link>https://strandsagents.com/blog/amazon-saves-millions-replacing-sonnet-with-strands-decider/</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50436640</guid>
+      <dc:creator>aloukissas</dc:creator>
+      <pubDate>Tue, 10 Nov 2026 06:01:08 +0000</pubDate>
+      <category>Finance</category>
+      <category>Business</category>
+      <category>AI</category>
+      <description>&lt;p&gt;Two Amazon engineers replaced Claude Sonnet 4.6 with Strands Decider in a major internal ticketing system. Sonnet had provided a balance of intelligence and cost, but Strands Decider reportedly performed equally well at 98% lower cost. The change is expected to save millions of dollars in annual token expenses.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;亚马逊的两名工程师在一个大型内部工单系统中，用 Strands Decider 替代了 Claude Sonnet 4.6。Sonnet 原本在智能程度和成本之间取得了平衡，但据称 Strands Decider 在表现相当的情况下将成本降低了 98%。这一调整预计每年可节省数百万美元的 token 费用。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 668 · 💬 233 · Finance · Business · AI&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50436640&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/10/top_stories_11102026#story-50436640&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Search for everyone</title>
@@ -473,18 +364,6 @@
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50362905&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/05/top_stories_11052026#story-50362905&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Ubuntu still has not released patch for Linux 0day RCE in almost 3 weeks</title>
-      <link>https://freenode.net/article/ubuntu-lts-kernels-still-unfixed-for-critical-cve-2026-98432</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50341462</guid>
-      <dc:creator>majorchord</dc:creator>
-      <pubDate>Mon, 02 Nov 2026 18:39:38 +0000</pubDate>
-      <category>Security</category>
-      <description>&lt;p&gt;Ubuntu has not released patched kernels for CVE-2026-98432, a vulnerability rated CVSS 9.8. Ubuntu 22.04, 24.04, and 26.04 LTS therefore lack an official kernel package that fixes the issue. Internet-facing and multi-tenant systems relying on those kernels remain particularly exposed until updates become available.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Ubuntu 尚未为 CVSS 评分 9.8 的 CVE-2026-98432 发布修复内核。Ubuntu 22.04、24.04 和 26.04 LTS 因此仍没有能够修复该问题的官方内核包。在更新发布前，依赖这些内核的面向互联网和多租户系统尤其处于暴露状态。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 610 · 💬 205 · Security&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50341462&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/03/top_stories_11032026#story-50341462&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>North Korean fake job interview led to $6.3B Binance heist</title>
       <link>https://www.theregister.com/security/2026/11/03/north-korean-fake-job-interview-led-to-63b-binance-heist/5307398</link>
       <guid isPermaLink="true">https://news.ycombinator.com/item?id=50365755</guid>
@@ -540,19 +419,6 @@
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50389222&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/06/top_stories_11062026#story-50389222&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Lenovo's 'encrypted' fingerprint USB is just an unencrypted SD card in a case</title>
-      <link>https://www.reddit.com/r/technology/comments/1xl2pr3/lenovos_encrypted_fingerprint_usb_drive_is_just/</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50326099</guid>
-      <dc:creator>entryleveljobsc</dc:creator>
-      <pubDate>Sun, 01 Nov 2026 14:34:43 +0000</pubDate>
-      <category>Security</category>
-      <category>Hardware</category>
-      <description>&lt;p&gt;The title alleges that Lenovo’s fingerprint-protected USB device is not an encrypted drive, but an unencrypted SD card placed inside a casing. It identifies a potential mismatch between the product’s security description and its underlying storage design.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;标题指称，联想这款受指纹保护的 USB 设备并非加密硬盘，而只是装在外壳中的未加密 SD 卡。这表明产品的安全描述可能与其底层存储设计不一致。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 576 · 💬 177 · Security · Hardware&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50326099&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/03/top_stories_11032026#story-50326099&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost</title>
       <link>https://hightouch.com/blog/llm-judges-identity-resolution</link>
       <guid isPermaLink="true">https://news.ycombinator.com/item?id=50397429</guid>
@@ -590,16 +456,17 @@
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50406111&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/08/top_stories_11082026#story-50406111&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>OccupySaaS</title>
-      <link>https://occupysaas.com/</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50331402</guid>
-      <dc:creator>misswaterfairy</dc:creator>
-      <pubDate>Mon, 02 Nov 2026 00:17:27 +0000</pubDate>
-      <category>Open Source</category>
-      <description>&lt;p&gt;OccupySaaS is an Apache-2.0 open-source effort to build self-hosted, drop-in replacements for major SaaS products without per-seat fees. Its first projects are ZeroAuthy, positioned as an Auth0 replacement, and SalesCompel, positioned as a Salesforce replacement.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;OccupySaaS 是一个采用 Apache-2.0 许可的开源项目，旨在构建可自托管、无需按席位收费的大型 SaaS 替代品。它的首批项目包括定位为 Auth0 替代品的 ZeroAuthy，以及定位为 Salesforce 替代品的 SalesCompel。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 531 · 💬 317 · Open Source&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50331402&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/03/top_stories_11032026#story-50331402&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+      <title>AlphaProof Code</title>
+      <link>https://deepmind.google/blog/introducing-alphaproof-code/</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50439193</guid>
+      <dc:creator>ilreb</dc:creator>
+      <pubDate>Tue, 10 Nov 2026 12:11:12 +0000</pubDate>
+      <category>Security</category>
+      <category>Programming</category>
+      <description>&lt;p&gt;AlphaProof Code agents generated more than three million lines of machine-checked Lean proof. The proofs verify Signal’s core cryptographic protections down to machine instructions. The result demonstrates the agents’ use in formal verification of security-critical software.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;AlphaProof Code 代理生成了超过 300 万行经过机器检查的 Lean 证明。这些证明将 Signal 的核心加密防护验证到了机器指令级别。该成果展示了这类代理在安全关键软件形式化验证中的用途。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 531 · 💬 168 · Security · Programming&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50439193&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/10/top_stories_11102026#story-50439193&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Nvidia CEO Jensen Huang's letter to staff about affair</title>
@@ -638,6 +505,148 @@
 &lt;p&gt;&lt;em&gt;一则 Ask HN 帖子询问人们目前如何在日常工作中使用 AI agent。发帖者希望了解大家购买的订阅、外部或本地部署的模型、编程工具链、编排工具以及更广泛的 agent 平台。讨论旨在了解个人工作流在过去一年中的变化。&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;▲ 520 · 💬 642 · AI · Programming&lt;/small&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50366117&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/05/top_stories_11052026#story-50366117&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>.name Grandfathered</title>
+      <link>https://neil.fraser.name/news/2026/11/10/</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50442736</guid>
+      <dc:creator>p4bl0</dc:creator>
+      <pubDate>Tue, 10 Nov 2026 16:37:44 +0000</pubDate>
+      <category>Web</category>
+      <category>Legal</category>
+      <description>&lt;p&gt;Verisign has withdrawn its plan to terminate 22,000 .name domain names and email redirects after a prolonged campaign. New registrations for third-level .name domains will close, but all existing domains and redirects will remain indefinitely. The reversal followed efforts by domain owners, lawyers, and supporters to challenge the plan through ICANN.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;经过一场旷日持久的抗争，Verisign 撤回了终止 22,000 个 .name 域名及其邮件转发的计划。虽然 .name 三级域名将停止新注册，但现有域名和邮件转发服务将无限期保留。这一转变源于域名所有者、律师和支持者通过 ICANN 发起的共同争取。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 510 · 💬 99 · Web · Legal&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50442736&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/10/top_stories_11102026#story-50442736&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Cuban: Facebook knowingly runs AI deepfake scam ads; docs say $16B fraud revenue</title>
+      <link>https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50385870</guid>
+      <dc:creator>randycupertino</dc:creator>
+      <pubDate>Thu, 05 Nov 2026 23:09:57 +0000</pubDate>
+      <category>AI</category>
+      <category>Security</category>
+      <category>Business</category>
+      <description>&lt;p&gt;Mark Cuban says AI-generated scam ads have used his face to promote a diabetes cure he never sold. He says people contact him every week believing they bought the supposed cure for $294. The claims come amid allegations that Facebook knowingly runs such deepfake scam advertising.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;马克·库班表示，利用其肖像的 AI 生成诈骗广告正在推广他从未销售过的糖尿病疗法。他说，每周都有人联系他，以为自己花 294 美元买到了这种所谓疗法。这些说法出现之际，Facebook 被指控明知相关深度伪造诈骗广告存在却仍在投放。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 505 · 💬 224 · AI · Security · Business&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50385870&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/06/top_stories_11062026#story-50385870&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Safari introduces Adaptive Dark Mode in 27.3</title>
+      <link>https://webkit.org/blog/18541/introducing-adaptive-dark-mode/</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50358562</guid>
+      <dc:creator>paddingtone</dc:creator>
+      <pubDate>Tue, 03 Nov 2026 21:39:05 +0000</pubDate>
+      <category>Web</category>
+      <description>&lt;p&gt;Safari 27.3 beta introduces Adaptive Dark Mode. When enabled by a user, Safari adapts light-themed websites and presents them in a dark appearance.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Safari 27.3 beta 引入了自适应深色模式。用户启用该功能后，Safari 会调整浅色网站，将其以深色外观呈现。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 504 · 💬 259 · Web&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50358562&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/04/top_stories_11042026#story-50358562&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The end of Microsoft Research's AI Frontiers group</title>
+      <link>https://hunch.net/?p=13764006</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50406563</guid>
+      <dc:creator>srean</dc:creator>
+      <pubDate>Sat, 07 Nov 2026 18:02:17 +0000</pubDate>
+      <category>AI</category>
+      <description>&lt;p&gt;Microsoft Research's AI Frontiers group is coming to an end.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;微软研究院的 AI Frontiers 团队即将解散。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 500 · 💬 309 · AI&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50406563&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/08/top_stories_11082026#story-50406563&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Smart home devices should work without the internet</title>
+      <link>https://docodethatmatters.com/home-automation-overnight-success/</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50441707</guid>
+      <dc:creator>skittleson</dc:creator>
+      <pubDate>Tue, 10 Nov 2026 15:25:20 +0000</pubDate>
+      <category>Privacy</category>
+      <category>Hardware</category>
+      <description>&lt;p&gt;The author describes a decade-long home-automation rule: no core function in the house should depend on a vendor’s server. As a result, the home continues operating when the internet goes down. The post presents the other automation rules and two related talks that grew out of this principle.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;作者介绍了坚持十年的家庭自动化原则：家中的核心功能不应依赖厂商服务器。因此，即使互联网中断，房屋仍能继续运行。文章还整理了由这一原则延伸出的其他自动化规则和两场相关演讲。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 483 · 💬 176 · Privacy · Hardware&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50441707&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/10/top_stories_11102026#story-50441707&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>A thousand fewer paths to root</title>
+      <link>https://openai.com/index/a-thousand-fewer-paths-to-root/</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50372929</guid>
+      <dc:creator>dangelosaurus</dc:creator>
+      <pubDate>Wed, 04 Nov 2026 23:33:14 +0000</pubDate>
+      <category>AI</category>
+      <category>Security</category>
+      <description>&lt;p&gt;OpenAI built an autonomous pipeline that discovered, validated, and generated patches for 948 local privilege-escalation vulnerabilities in the Linux kernel. In a single run using its cyber model, the system validated the vulnerabilities and produced patches at an API cost of $1.2 million. The work suggests that some security investigations can increasingly be handled as a systematic automated process.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;OpenAI 构建了一个自主流水线，用于发现、验证并为 Linux 内核中的 948 个本地提权漏洞生成补丁。在一次运行中，该系统借助其网络安全模型完成了漏洞验证和补丁生成，API 成本为 120 万美元。这项工作表明，部分安全研究正逐渐可以作为系统化的自动流程来执行。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 478 · 💬 356 · AI · Security&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50372929&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/05/top_stories_11052026#story-50372929&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Show HN: HackerTV – HN's most-recommended Youtube videos as 24/7 TV channels</title>
+      <link>https://hackertv.org</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50346755</guid>
+      <dc:creator>dsalzman</dc:creator>
+      <pubDate>Tue, 03 Nov 2026 01:18:09 +0000</pubDate>
+      <category>Show HN</category>
+      <category>Entertainment</category>
+      <category>AI</category>
+      <category>Space</category>
+      <description>&lt;p&gt;HackerTV turns YouTube videos frequently recommended in Hacker News comments into 24/7 topic channels. It includes channels such as DEVTV, SOLDER, RETRO, and ORBIT, along with an HN Prime channel containing the top 400 videos. The project was built in a few hours with Claude Code and also includes a music channel and a late-night channel.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;HackerTV 将 Hacker News 评论中经常被推荐的 YouTube 视频整理成全天候主题频道。它包含 DEVTV、SOLDER、RETRO 和 ORBIT 等频道，以及收录前 400 个视频的 HN Prime 频道。项目用 Claude Code 在几小时内完成，还提供音乐频道和深夜频道。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 466 · 💬 80 · Show HN · Entertainment · AI · Space&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50346755&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/04/top_stories_11042026#story-50346755&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Declarative Dragging</title>
+      <link>https://declarative-dragging.github.io/</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50368481</guid>
+      <dc:creator>smusamashah</dc:creator>
+      <pubDate>Wed, 04 Nov 2026 17:05:07 +0000</pubDate>
+      <category>Programming</category>
+      <description>&lt;p&gt;Declarative dragging proposes that interface authors define which future model states an element may reach by dragging. This makes a diagram element draggable by describing its allowed outcomes rather than implementing dragging behavior directly. The work was named the Best Paper at UIST 2026.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;“声明式拖拽”提出，界面作者可以通过指定元素拖动后允许到达的模型状态来定义拖拽行为。这样，创建可拖动的图表元素不必直接实现拖拽逻辑，而是描述其允许的结果。该研究获得了 UIST 2026 最佳论文奖。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 465 · 💬 62 · Programming&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50368481&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/08/top_stories_11082026#story-50368481&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Nvidia Board of Directors Is Investigating Jensen Huang</title>
+      <link>https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50416801</guid>
+      <dc:creator>vincentchau</dc:creator>
+      <pubDate>Sun, 08 Nov 2026 20:26:43 +0000</pubDate>
+      <category>Business</category>
+      <category>Legal</category>
+      <description>&lt;p&gt;Nvidia’s board has initiated an independent investigation after reports that founder and CEO Jensen Huang was targeted by a foreign intelligence effort. A committee of independent directors will oversee the investigation with assistance from outside independent counsel. The available statement does not provide further findings.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;英伟达董事会在相关报道指出创始人兼 CEO 黄仁勋成为外国情报行动目标后，启动了独立调查。调查将由独立董事组成的委员会负责，并由外部独立法律顾问协助。现有声明没有提供进一步调查结论。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 458 · 💬 345 · Business · Legal&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50416801&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/08/top_stories_11082026#story-50416801&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Motorola Signature 27 with GrapheneOS support</title>
+      <link>https://motorolanews.com/motorola-signature-27-2/</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50380810</guid>
+      <dc:creator>monneyboi</dc:creator>
+      <pubDate>Thu, 05 Nov 2026 16:01:34 +0000</pubDate>
+      <category>AI</category>
+      <category>Hardware</category>
+      <description>&lt;p&gt;Motorola has introduced the motorola signature 27 as its most advanced flagship smartphone to date. The phone features a DXOMARK Gold Label camera system, an Extreme AMOLED Duo Tandem display, a Snapdragon 8 Elite Extreme Gen 6 platform, and Bang &amp; Olufsen audio. Motorola says it includes the company's most advanced camera system and next-generation AI capabilities.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;摩托罗拉推出了迄今最先进的旗舰手机 motorola signature 27。该机配备获徕卡？&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 458 · 💬 333 · AI · Hardware&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50380810&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/05/top_stories_11052026#story-50380810&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Every Windows 11 app should kill Electron, and Discord just showed why</title>
+      <link>https://www.windowslatest.com/2026/11/06/every-windows-11-app-should-kill-electron-and-discord-just-showed-why-no-starting-screen-and-70-less-ram-even-with-two-accounts-signed-in/</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50403507</guid>
+      <dc:creator>thunderbong</dc:creator>
+      <pubDate>Sat, 07 Nov 2026 11:11:15 +0000</pubDate>
+      <category>Programming</category>
+      <description>&lt;p&gt;Discord's new Rust client loads the friends list before the existing Electron app gets past its loading screen and skips the Starting screen. In a cold-start test, the Rust-based client used 290.2 MB of RAM with two accounts signed in. Discord employees confirmed that both applications were launched from a cold start, while a video showing the comparison received 2.3 million views at the time reported.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Discord 的新 Rust 客户端在现有 Electron 客户端还没通过加载界面时就已载入好友列表，并跳过了 Starting 界面。在冷启动测试中，Rust 客户端同时登录两个账号时占用 290.2 MB 内存。Discord 员工确认两款应用都是冷启动，该对比视频当时已获得 230 万次观看。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 457 · 💬 490 · Programming&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50403507&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/08/top_stories_11082026#story-50403507&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
