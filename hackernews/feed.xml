@@ -5,7 +5,7 @@
     <link>https://chaowang15.github.io/hackernews/</link>
     <description>Curated daily digest of top Hacker News stories with AI-generated summaries, tags, and bilingual translations.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 11 Nov 2026 04:03:10 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 16:05:55 +0000</lastBuildDate>
     <generator>Hacker News Daily RSS Builder</generator>
     <atom:link href="https://chaowang15.github.io/hackernews/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
@@ -19,18 +19,6 @@
 &lt;p&gt;&lt;em&gt;据报道，musl Linux 上的 OpenSSH 自 2016 年起可能允许进入无密码账户。问题与 Unix 处理本应禁止登录的账户的历史方式有关，包括在密码文件中用星号标记的账户。因此，原本应不可访问的账户可能被暴露。&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;▲ 2978 · 💬 747 · Security&lt;/small&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50378228&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/08/top_stories_11082026#story-50378228&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>HackerTube: YouTube built from videos recommended by HN</title>
-      <link>https://karpathy.bearblog.dev/hacker-tube/</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50319510</guid>
-      <dc:creator>karpathy</dc:creator>
-      <pubDate>Sat, 31 Oct 2026 19:56:53 +0000</pubDate>
-      <category>Web</category>
-      <description>&lt;p&gt;HackerTube presents a YouTube-style interface for 6,454 videos sourced from 39,834 Hacker News comments dating back to 2007. The collection is available through hackertube.org. It turns years of community recommendations into a browsable video archive.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;HackerTube 提供了一个 YouTube 风格的界面，收录了自 2007 年以来从 39,834 条 Hacker News 评论中提取的 6,454 个视频。该视频集合可通过 hackertube.org 浏览。它将多年社区推荐整理成了一个可探索的视频档案。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 2881 · 💬 637 · Web&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50319510&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/04/top_stories_11042026#story-50319510&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Claude Code sends your email address to websites</title>
@@ -84,8 +72,8 @@
       <category>Data</category>
       <description>&lt;p&gt;The site presents a large database of paper airplanes with step-by-step video folding tutorials. One World Record prototype is reported to fly more than 300 feet. The Unite model holds a world record for time aloft at 31.2 seconds.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;该网站提供大型纸飞机数据库，并为每种机型配备分步折叠视频教程。据称，一款世界纪录原型机可以飞行超过 300 英尺。Unite 机型则以 31.2 秒的滞空时间保持世界纪录。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 1205 · 💬 167 · Education · Entertainment · Data&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50424581&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/10/top_stories_11102026#story-50424581&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+&lt;p&gt;&lt;small&gt;▲ 1234 · 💬 167 · Education · Entertainment · Data&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50424581&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/11/top_stories_11112026#story-50424581&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Tesla to wind down Cybertruck production</title>
@@ -113,6 +101,19 @@
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50403052&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/08/top_stories_11082026#story-50403052&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Smart home devices should work without the internet</title>
+      <link>https://docodethatmatters.com/home-automation-overnight-success/</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50441707</guid>
+      <dc:creator>skittleson</dc:creator>
+      <pubDate>Tue, 10 Nov 2026 15:25:20 +0000</pubDate>
+      <category>Privacy</category>
+      <category>Hardware</category>
+      <description>&lt;p&gt;The author describes a decade-long home-automation rule: no core function in the house should depend on a vendor’s server. As a result, the home continues operating when the internet goes down. The post presents the other automation rules and two related talks that grew out of this principle.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;作者介绍了坚持十年的家庭自动化原则：家中的核心功能不应依赖厂商服务器。因此，即使互联网中断，房屋仍能继续运行。文章还整理了由这一原则延伸出的其他自动化规则和两场相关演讲。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 1109 · 💬 402 · Privacy · Hardware&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50441707&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/11/top_stories_11112026#story-50441707&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Libghostty 1.0</title>
       <link>https://mitchellh.com/writing/libghostty-1-0</link>
       <guid isPermaLink="true">https://news.ycombinator.com/item?id=50399933</guid>
@@ -125,29 +126,17 @@
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50399933&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/08/top_stories_11082026#story-50399933&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>The 'Astra can read and write weights to improve Qwen' post is misleading</title>
-      <link>https://honnibal.dev/blog/astra-read-write-misleading</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50351111</guid>
-      <dc:creator>syllogism</dc:creator>
-      <pubDate>Tue, 03 Nov 2026 12:21:17 +0000</pubDate>
-      <category>AI</category>
-      <description>&lt;p&gt;The author argues that the experiments reading raw model weights and the experiments modifying Qwen use entirely different techniques. They compare the presentation to a series of stage-magic tricks that appear to test competing explanations while relying on different mechanisms.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;作者认为，读取模型原始权重的实验与修改 Qwen 的实验使用了完全不同的技术。作者将这种呈现方式比作一连串舞台魔术：表面上是在检验相互竞争的解释，实际却依赖不同机制。文章分析了原始说法为何可能让人误解这些实验究竟证明了什么。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 1030 · 💬 207 · AI&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50351111&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/04/top_stories_11042026#story-50351111&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Jailbreaking my car's navigation system just so I can change the time</title>
-      <link>https://blog.nns.ee/2026/11/02/renault-hack/</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50339288</guid>
-      <dc:creator>xx_ns</dc:creator>
-      <pubDate>Mon, 02 Nov 2026 16:29:19 +0000</pubDate>
-      <category>Security</category>
-      <category>Hardware</category>
-      <description>&lt;p&gt;The author describes modifying the navigation system of a 2014 Renault Latitude to change the dashboard clock. The car apparently required a navigation-map SD card for access to the time-setting function, even though the card had been discarded because its maps were outdated. Without it, the display showed a prominent “No maps found!” message.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;作者介绍了如何修改一辆 2014 年雷诺 Latitude 的导航系统，以调整仪表盘时钟。该车似乎需要导航地图 SD 卡才能访问时间设置功能，但由于地图过时，这张卡此前已被丢弃。没有 SD 卡时，显示屏会显示醒目的“No maps found!”提示。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 938 · 💬 374 · Security · Hardware&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50339288&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/04/top_stories_11042026#story-50339288&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+      <title>.name Grandfathered</title>
+      <link>https://neil.fraser.name/news/2026/11/10/</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50442736</guid>
+      <dc:creator>p4bl0</dc:creator>
+      <pubDate>Tue, 10 Nov 2026 16:37:44 +0000</pubDate>
+      <category>Web</category>
+      <category>Legal</category>
+      <description>&lt;p&gt;Verisign has withdrawn its plan to terminate 22,000 .name domain names and email redirects after a prolonged campaign. New registrations for third-level .name domains will close, but all existing domains and redirects will remain indefinitely. The reversal followed efforts by domain owners, lawyers, and supporters to challenge the plan through ICANN.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;经过一场旷日持久的抗争，Verisign 撤回了终止 22,000 个 .name 域名及其邮件转发的计划。虽然 .name 三级域名将停止新注册，但现有域名和邮件转发服务将无限期保留。这一转变源于域名所有者、律师和支持者通过 ICANN 发起的共同争取。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 907 · 💬 197 · Web · Legal&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50442736&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/11/top_stories_11112026#story-50442736&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Claude Fable 5.2 and Mythos 5.2</title>
@@ -188,19 +177,6 @@
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50429906&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/09/top_stories_11092026#story-50429906&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Stringman, an $800 open-source room scale gripper robot</title>
-      <link>https://neufangled.com/</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50354358</guid>
-      <dc:creator>nharada</dc:creator>
-      <pubDate>Tue, 03 Nov 2026 16:47:29 +0000</pubDate>
-      <category>Open Source</category>
-      <category>Hardware</category>
-      <description>&lt;p&gt;Stringman is presented as an $800 open-source room-scale gripper robot. The available material provides an installation note about securing cleats to wall studs or columns, but no further technical specifications.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Stringman 被介绍为一款售价 800 美元的开源房间级抓取机器人。现有内容只提到应将固定件用木螺钉固定在墙柱上，或用棘轮绑带固定在立柱上，未提供更多技术规格。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 820 · 💬 243 · Open Source · Hardware&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50354358&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/04/top_stories_11042026#story-50354358&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>What I run on my $10 USD OpenStick homelab</title>
       <link>https://blog.bosscher.ch/posts/openstick/</link>
       <guid isPermaLink="true">https://news.ycombinator.com/item?id=50406670</guid>
@@ -211,19 +187,6 @@
 &lt;p&gt;&lt;em&gt;作者花 10 美元（含运费）买了一台 OpenStick，主要是因为这款硬件新奇而有趣。它的性能可能还不如许多现代智能手表，但仍然适合进行有趣的自托管实验。这个项目展示了廉价小设备如何成为入门家庭实验室的起点。&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;▲ 781 · 💬 134 · Hardware&lt;/small&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50406670&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/08/top_stories_11082026#story-50406670&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Smart home devices should work without the internet</title>
-      <link>https://docodethatmatters.com/home-automation-overnight-success/</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50441707</guid>
-      <dc:creator>skittleson</dc:creator>
-      <pubDate>Tue, 10 Nov 2026 15:25:20 +0000</pubDate>
-      <category>Privacy</category>
-      <category>Hardware</category>
-      <description>&lt;p&gt;The author describes a decade-long home-automation rule: no core function in the house should depend on a vendor’s server. As a result, the home continues operating when the internet goes down. The post presents the other automation rules and two related talks that grew out of this principle.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;作者介绍了坚持十年的家庭自动化原则：家中的核心功能不应依赖厂商服务器。因此，即使互联网中断，房屋仍能继续运行。文章还整理了由这一原则延伸出的其他自动化规则和两场相关演讲。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 770 · 💬 279 · Privacy · Hardware&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50441707&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/10/top_stories_11102026#story-50441707&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Goodbye Claude, hello Pi</title>
@@ -252,18 +215,6 @@
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50389333&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/07/top_stories_11072026#story-50389333&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Qwen 3.8 27B on my laptop can interpret model weights, too</title>
-      <link>https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50355251</guid>
-      <dc:creator>theanonymousone</dc:creator>
-      <pubDate>Tue, 03 Nov 2026 17:40:00 +0000</pubDate>
-      <category>AI</category>
-      <description>&lt;p&gt;The author reports that Qwen 3.8 27B running on a laptop can interpret raw neural-network weights. This follows research describing “weight-space programming,” in which language models analyze and modify model weights represented as floating-point numbers. The earlier experiments highlighted frontier-model capabilities, including those attributed to GPT-6 Astra.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;作者称，在笔记本上运行的 Qwen 3.8 27B 也能解读神经网络的原始权重。这延续了“权重空间编程”的研究：语言模型可以分析并修改由浮点数表示的模型权重。此前的实验展示了前沿模型的这类能力，包括研究归于 GPT-6 Astra 的能力。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 725 · 💬 212 · AI&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50355251&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/04/top_stories_11042026#story-50355251&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>USPS now offers official ZIP Code boundary polygons</title>
       <link>https://postalpro.usps.com/zcb</link>
       <guid isPermaLink="true">https://news.ycombinator.com/item?id=50431058</guid>
@@ -274,19 +225,6 @@
 &lt;p&gt;&lt;em&gt;美国邮政服务（USPS）发布了基于投递地址和位置数据制作的全国 ZIP Code 边界地图。随着投递地点新增或变更，边界可能发生变化；数据每季度更新一次，并仅向子公司和合作伙伴有限提供。该数据可用于地图、邮寄、营销、保险、房地产、物流、导航和交通等行业。&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;▲ 720 · 💬 388 · Data&lt;/small&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50431058&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/10/top_stories_11102026#story-50431058&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>.name Grandfathered</title>
-      <link>https://neil.fraser.name/news/2026/11/10/</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50442736</guid>
-      <dc:creator>p4bl0</dc:creator>
-      <pubDate>Tue, 10 Nov 2026 16:37:44 +0000</pubDate>
-      <category>Web</category>
-      <category>Legal</category>
-      <description>&lt;p&gt;Verisign has withdrawn its plan to terminate 22,000 .name domain names and email redirects after a prolonged campaign. New registrations for third-level .name domains will close, but all existing domains and redirects will remain indefinitely. The reversal followed efforts by domain owners, lawyers, and supporters to challenge the plan through ICANN.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;经过一场旷日持久的抗争，Verisign 撤回了终止 22,000 个 .name 域名及其邮件转发的计划。虽然 .name 三级域名将停止新注册，但现有域名和邮件转发服务将无限期保留。这一转变源于域名所有者、律师和支持者通过 ICANN 发起的共同争取。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 719 · 💬 168 · Web · Legal&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50442736&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/10/top_stories_11102026#story-50442736&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Google Gemini routes personal Drive files and emails to human annotators</title>
@@ -429,20 +367,6 @@
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50362905&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/05/top_stories_11052026#story-50362905&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>North Korean fake job interview led to $6.3B Binance heist</title>
-      <link>https://www.theregister.com/security/2026/11/03/north-korean-fake-job-interview-led-to-63b-binance-heist/5307398</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50365755</guid>
-      <dc:creator>smalltech</dc:creator>
-      <pubDate>Wed, 04 Nov 2026 14:09:55 +0000</pubDate>
-      <category>Security</category>
-      <category>AI</category>
-      <category>Finance</category>
-      <description>&lt;p&gt;According to Binance, North Korean cryptocurrency thieves tricked a software engineer into downloading malware during a fake job interview. The exchange said the October 29 breach involved social engineering, malware, compromised internal AI tooling, endpoint takeover, and an advanced transaction-authorization method. Binance characterized it as a combination of techniques rather than a single isolated phishing incident.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;币安称，朝鲜加密货币窃贼在一次虚假求职面试中诱骗一名软件工程师下载恶意软件。该交易所表示，10 月 29 日的入侵涉及社会工程、恶意软件、遭入侵的内部 AI 工具、终端接管以及一种先进的交易授权方法。币安将其描述为多种手段共同造成的事件，而非单一的钓鱼攻击。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 601 · 💬 369 · Security · AI · Finance&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50365755&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/04/top_stories_11042026#story-50365755&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>Claude Code's &quot;Don't Ask Again&quot; exposes passwords in 1,122 public GitHub files</title>
       <link>https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again</link>
       <guid isPermaLink="true">https://news.ycombinator.com/item?id=50407882</guid>
@@ -522,6 +446,19 @@
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50397429&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/07/top_stories_11072026#story-50397429&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid in 72h</title>
+      <link>https://pietromiotti.com/latest/maya-site/?maya</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50452455</guid>
+      <dc:creator>eyvindn</dc:creator>
+      <pubDate>Wed, 11 Nov 2026 12:05:22 +0000</pubDate>
+      <category>AI</category>
+      <category>Space</category>
+      <description>&lt;p&gt;A set of AI agents analyzed NASA lidar data and identified a previously unreported Maya site beneath the jungle in Mexico. The discovery went from an initial idea to an official response from Mexico's INAH in less than 72 hours. The project was documented as a diary, emphasizing the speed of the process.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;一组 AI 代理分析 NASA 的激光雷达数据，在墨西哥丛林下发现了一处此前似乎无人报告过的玛雅遗址。从最初产生想法到收到墨西哥国家人类学与历史研究所（INAH）的正式回复，整个过程不到 72 小时。项目作者以日记形式记录了这段过程，突出了其推进速度。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 570 · 💬 220 · AI · Space&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50452455&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/11/top_stories_11112026#story-50452455&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Goodbye from Salon</title>
       <link>https://www.salon.com/2026/11/05/goodbye-from-salon/</link>
       <guid isPermaLink="true">https://news.ycombinator.com/item?id=50383739</guid>
@@ -558,17 +495,16 @@
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50418016&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/08/top_stories_11082026#story-50418016&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Fujifilm to boost tape production 5x as AI fuels archiving demand</title>
-      <link>https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50336918</guid>
-      <dc:creator>bookofjoe</dc:creator>
-      <pubDate>Mon, 02 Nov 2026 14:02:42 +0000</pubDate>
-      <category>AI</category>
-      <category>Hardware</category>
-      <description>&lt;p&gt;Fujifilm plans to invest about 10 billion yen, or roughly $63 million, to increase magnetic-tape production capacity fivefold. The company attributes the rising demand for archiving to generative AI and what it calls exponential global data growth. The fivefold increase will be measured against fiscal 2025 production levels.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;富士胶片计划投资约 100 亿日元，即约 6300 万美元，将磁带产能提高五倍。公司将归档需求的增长归因于生成式 AI 以及其所称的全球数据指数级增长。五倍增幅将以 2025 财年的产量为基准。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 529 · 💬 228 · AI · Hardware&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50336918&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/04/top_stories_11042026#story-50336918&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+      <title>Scion is back and is going to sell a kei truck in America</title>
+      <link>https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50445401</guid>
+      <dc:creator>NaOH</dc:creator>
+      <pubDate>Tue, 10 Nov 2026 19:50:46 +0000</pubDate>
+      <category>Business</category>
+      <description>&lt;p&gt;Toyota has officially revived the Scion marque, which was retired in 2016 after years of financial struggles. The new “Scion by Toyota” is being positioned as a “freedom lab” focused on challenging conventional automotive thinking, and its initial offerings include a kei truck, a bike, and a hybrid side-by-side. The brand’s new direction is a sharp departure from its former role as a quirky, budget-oriented line aimed largely at younger buyers.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;丰田正式复活了 Scion 品牌；该品牌曾因长期经营困难于 2016 年停运。全新的“Scion by Toyota”被定位为一个挑战传统汽车思维的“自由实验室”，首批产品包括一款 Kei 微型卡车、一辆自行车和一款混合动力并排式越野车。品牌的新方向与过去面向年轻消费者、主打古怪且价格亲民车型的定位大相径庭。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 528 · 💬 363 · Business&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50445401&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/11/top_stories_11112026#story-50445401&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Ask HN: What's your current AI agentic setup?</title>
@@ -598,18 +534,6 @@
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50385870&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/06/top_stories_11062026#story-50385870&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Safari introduces Adaptive Dark Mode in 27.3</title>
-      <link>https://webkit.org/blog/18541/introducing-adaptive-dark-mode/</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50358562</guid>
-      <dc:creator>paddingtone</dc:creator>
-      <pubDate>Tue, 03 Nov 2026 21:39:05 +0000</pubDate>
-      <category>Web</category>
-      <description>&lt;p&gt;Safari 27.3 beta introduces Adaptive Dark Mode. When enabled by a user, Safari adapts light-themed websites and presents them in a dark appearance.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Safari 27.3 beta 引入了自适应深色模式。用户启用该功能后，Safari 会调整浅色网站，将其以深色外观呈现。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 504 · 💬 259 · Web&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50358562&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/04/top_stories_11042026#story-50358562&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>The end of Microsoft Research's AI Frontiers group</title>
       <link>https://hunch.net/?p=13764006</link>
       <guid isPermaLink="true">https://news.ycombinator.com/item?id=50406563</guid>
@@ -634,6 +558,21 @@
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50429734&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/10/top_stories_11102026#story-50429734&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Starlink Mini 2</title>
+      <link>https://starlink.com/mini-2</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50444129</guid>
+      <dc:creator>robertjfclarke</dc:creator>
+      <pubDate>Tue, 10 Nov 2026 18:22:32 +0000</pubDate>
+      <category>Web</category>
+      <category>Business</category>
+      <category>Programming</category>
+      <category>Gaming</category>
+      <description>&lt;p&gt;Starlink Mini 2 is presented as providing fast, reliable internet both at home and on the go. The service is intended to support streaming, video calls, gaming, and other high-speed connectivity needs, including in rural and remote locations.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Starlink Mini 2 被定位为可在家中和移动途中提供快速、可靠的互联网连接。该服务支持流媒体、视频通话、游戏等高速联网需求，也面向乡村和偏远地区。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 482 · 💬 534 · Web · Business · Programming · Gaming&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50444129&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/11/top_stories_11112026#story-50444129&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>A thousand fewer paths to root</title>
       <link>https://openai.com/index/a-thousand-fewer-paths-to-root/</link>
       <guid isPermaLink="true">https://news.ycombinator.com/item?id=50372929</guid>
@@ -645,6 +584,72 @@
 &lt;p&gt;&lt;em&gt;OpenAI 构建了一个自主流水线，用于发现、验证并为 Linux 内核中的 948 个本地提权漏洞生成补丁。在一次运行中，该系统借助其网络安全模型完成了漏洞验证和补丁生成，API 成本为 120 万美元。这项工作表明，部分安全研究正逐渐可以作为系统化的自动流程来执行。&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;▲ 478 · 💬 356 · AI · Security&lt;/small&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50372929&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/05/top_stories_11052026#story-50372929&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Declarative Dragging</title>
+      <link>https://declarative-dragging.github.io/</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50368481</guid>
+      <dc:creator>smusamashah</dc:creator>
+      <pubDate>Wed, 04 Nov 2026 17:05:07 +0000</pubDate>
+      <category>Programming</category>
+      <description>&lt;p&gt;Declarative dragging proposes that interface authors define which future model states an element may reach by dragging. This makes a diagram element draggable by describing its allowed outcomes rather than implementing dragging behavior directly. The work was named the Best Paper at UIST 2026.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;“声明式拖拽”提出，界面作者可以通过指定元素拖动后允许到达的模型状态来定义拖拽行为。这样，创建可拖动的图表元素不必直接实现拖拽逻辑，而是描述其允许的结果。该研究获得了 UIST 2026 最佳论文奖。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 465 · 💬 62 · Programming&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50368481&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/08/top_stories_11082026#story-50368481&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Show HN: Every satellite that passed over any place this week, and its photos</title>
+      <link>https://www.watched.earth</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50428907</guid>
+      <dc:creator>a585gupt</dc:creator>
+      <pubDate>Mon, 09 Nov 2026 17:51:31 +0000</pubDate>
+      <category>Show HN</category>
+      <category>Data</category>
+      <category>Space</category>
+      <category>Hardware</category>
+      <category>Web</category>
+      <description>&lt;p&gt;Watched lets users enter a location and find every satellite that passed over it in the previous seven days, then retrieve Sentinel-2, Landsat, and NASA imagery from those passes. Its browser-based SGP4 search processes the CelesTrak catalog in about half a second, while roughly 17,000 orbital objects are rendered on the GPU. The project reports no missed passes in tests against brute-force searches and says it does not store locations.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Watched 允许用户输入地点，查找过去七天内经过该地点的所有卫星，并获取这些过境对应的 Sentinel-2、Landsat 和 NASA 影像。它在浏览器中使用 SGP4 处理 CelesTrak 目录，耗时约半秒，同时在 GPU 上绘制约 1.7 万个轨道目标。项目称，与暴力搜索对比测试未漏掉任何过境，并表示不会存储用户位置。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 458 · 💬 81 · Show HN · Data · Space · Hardware · Web&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50428907&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/10/top_stories_11102026#story-50428907&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Nvidia Board of Directors Is Investigating Jensen Huang</title>
+      <link>https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50416801</guid>
+      <dc:creator>vincentchau</dc:creator>
+      <pubDate>Sun, 08 Nov 2026 20:26:43 +0000</pubDate>
+      <category>Business</category>
+      <category>Legal</category>
+      <description>&lt;p&gt;Nvidia’s board has initiated an independent investigation after reports that founder and CEO Jensen Huang was targeted by a foreign intelligence effort. A committee of independent directors will oversee the investigation with assistance from outside independent counsel. The available statement does not provide further findings.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;英伟达董事会在相关报道指出创始人兼 CEO 黄仁勋成为外国情报行动目标后，启动了独立调查。调查将由独立董事组成的委员会负责，并由外部独立法律顾问协助。现有声明没有提供进一步调查结论。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 458 · 💬 345 · Business · Legal&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50416801&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/08/top_stories_11082026#story-50416801&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Motorola Signature 27 with GrapheneOS support</title>
+      <link>https://motorolanews.com/motorola-signature-27-2/</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50380810</guid>
+      <dc:creator>monneyboi</dc:creator>
+      <pubDate>Thu, 05 Nov 2026 16:01:34 +0000</pubDate>
+      <category>AI</category>
+      <category>Hardware</category>
+      <description>&lt;p&gt;Motorola has introduced the motorola signature 27 as its most advanced flagship smartphone to date. The phone features a DXOMARK Gold Label camera system, an Extreme AMOLED Duo Tandem display, a Snapdragon 8 Elite Extreme Gen 6 platform, and Bang &amp; Olufsen audio. Motorola says it includes the company's most advanced camera system and next-generation AI capabilities.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;摩托罗拉推出了迄今最先进的旗舰手机 motorola signature 27。该机配备获徕卡？&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 458 · 💬 333 · AI · Hardware&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50380810&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/05/top_stories_11052026#story-50380810&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Every Windows 11 app should kill Electron, and Discord just showed why</title>
+      <link>https://www.windowslatest.com/2026/11/06/every-windows-11-app-should-kill-electron-and-discord-just-showed-why-no-starting-screen-and-70-less-ram-even-with-two-accounts-signed-in/</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50403507</guid>
+      <dc:creator>thunderbong</dc:creator>
+      <pubDate>Sat, 07 Nov 2026 11:11:15 +0000</pubDate>
+      <category>Programming</category>
+      <description>&lt;p&gt;Discord's new Rust client loads the friends list before the existing Electron app gets past its loading screen and skips the Starting screen. In a cold-start test, the Rust-based client used 290.2 MB of RAM with two accounts signed in. Discord employees confirmed that both applications were launched from a cold start, while a video showing the comparison received 2.3 million views at the time reported.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Discord 的新 Rust 客户端在现有 Electron 客户端还没通过加载界面时就已载入好友列表，并跳过了 Starting 界面。在冷启动测试中，Rust 客户端同时登录两个账号时占用 290.2 MB 内存。Discord 员工确认两款应用都是冷启动，该对比视频当时已获得 230 万次观看。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 457 · 💬 490 · Programming&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50403507&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/08/top_stories_11082026#story-50403507&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

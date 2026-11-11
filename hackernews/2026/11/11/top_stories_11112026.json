@@ -1,0 +1,1222 @@
+{
+  "meta": {
+    "mode": "top",
+    "source": "https://news.ycombinator.com/",
+    "api": "https://github.com/HackerNews/API",
+    "count_requested": 50,
+    "count_written": 50,
+    "reused_same_day": 0,
+    "reused_cross_day": 19,
+    "reused_history": 0,
+    "new_llm_enriched": 31,
+    "scrape_time_display": "08:04, November 11, 2026 (PST)",
+    "timezone": "America/Los_Angeles",
+    "date_dir": "2026/11/11",
+    "content_date": "2026-11-11",
+    "edition": "morning",
+    "edition_label": "Morning 50",
+    "target_count": 50,
+    "run_time_local": "08:04, November 11, 2026 (PST)",
+    "run_time_utc": "2026-11-11 16:04:06 UTC",
+    "incremental": true,
+    "stories_max": 50,
+    "hot_score_time_utc": "2026-11-11 16:05:14 UTC"
+  },
+  "items": [
+    {
+      "title_en": "Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid in 72h",
+      "url": "https://pietromiotti.com/latest/maya-site/?maya",
+      "title_zh": "Google SWE 让 48 个 AI 代理分析 NASA 激光雷达，72 小时内发现未标注的玛雅金字塔",
+      "is_new": true,
+      "created_display": "Created: Nov 11, 2026 / 04:05 PT",
+      "image_url": "https://pietromiotti.com/latest/maya-site/forest-vs-lidar.jpg",
+      "summary_en": "A set of AI agents analyzed NASA lidar data and identified a previously unreported Maya site beneath the jungle in Mexico. The discovery went from an initial idea to an official response from Mexico's INAH in less than 72 hours. The project was documented as a diary, emphasizing the speed of the process.",
+      "summary_zh": "一组 AI 代理分析 NASA 的激光雷达数据，在墨西哥丛林下发现了一处此前似乎无人报告过的玛雅遗址。从最初产生想法到收到墨西哥国家人类学与历史研究所（INAH）的正式回复，整个过程不到 72 小时。项目作者以日记形式记录了这段过程，突出了其推进速度。",
+      "hn": {
+        "id": 50452455,
+        "type": "story",
+        "by": "eyvindn",
+        "score": 570,
+        "descendants": 220,
+        "time": 1794398722,
+        "comments_url": "https://news.ycombinator.com/item?id=50452455"
+      },
+      "hot_score": 22.63,
+      "tags": [
+        "AI",
+        "Space"
+      ]
+    },
+    {
+      "title_en": "I asked every TV manufacturer 17 questions about how they spy on you",
+      "url": "https://www.theverge.com/tech/1012372/tv-privacy-acr-questions",
+      "title_zh": "我向每家电视制造商提出了 17 个关于其如何监视用户的问题",
+      "is_new": true,
+      "created_display": "Created: Nov 11, 2026 / 05:56 PT",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268797_What_data_are_your_TVs_collecting_and_is_it_protected__CVirginia.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "summary_en": "The investigation sent 17 yes-or-no privacy questions to 11 TV and streaming-device companies, but only a few answered every question. The questions covered issues such as recording or transcribing audio, taking screenshots, storing sensitive information, and sharing data with the cloud. The effort followed accusations involving LG and was intended to obtain clearer answers than lengthy privacy policies provide.",
+      "summary_zh": "这项调查向 11 家电视和流媒体设备公司提出了 17 个是非题式的隐私问题，但只有少数公司回答了全部问题。问题涉及录音或保存音频转录、截取屏幕、在电视上存储敏感信息，以及与云端共享数据等事项。调查起因之一是针对 LG 的监视指控，目的是获得比冗长隐私政策更清晰的回答。",
+      "hn": {
+        "id": 50453474,
+        "type": "story",
+        "by": "Brajeshwar",
+        "score": 133,
+        "descendants": 73,
+        "time": 1794405365,
+        "comments_url": "https://news.ycombinator.com/item?id=50453474"
+      },
+      "hot_score": 10.18,
+      "tags": [
+        "Privacy"
+      ]
+    },
+    {
+      "title_en": "Apple is killing its Support Community forum next week",
+      "url": "https://www.theverge.com/tech/1031507/apple-community-support-forum-shutting-down",
+      "title_zh": "苹果下周将关闭 Support Community 论坛",
+      "is_new": true,
+      "created_display": "Created: Nov 11, 2026 / 06:02 PT",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Apple-Support-Community-forum.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "summary_en": "Apple's Support Community has been placed in read-only mode and will permanently close on November 20. The forum allowed users to exchange advice, troubleshoot problems, and discuss Apple products. Existing content remains available in read-only form until the shutdown.",
+      "summary_zh": "苹果 Support Community 已进入只读模式，并将于 11 月 20 日永久关闭。这个论坛曾供用户交流建议、排查问题和讨论苹果产品。在关闭前，现有内容仍可只读访问。",
+      "hn": {
+        "id": 50453555,
+        "type": "story",
+        "by": "saikatsg",
+        "score": 92,
+        "descendants": 49,
+        "time": 1794405731,
+        "comments_url": "https://news.ycombinator.com/item?id=50453555"
+      },
+      "hot_score": 7.34,
+      "tags": [
+        "Web"
+      ]
+    },
+    {
+      "title_en": "Can a Linear Program Do Weight-Space Programming?",
+      "url": "https://nathan.rs/posts/weight-space-lp/",
+      "title_zh": "线性规划能否实现权重空间编程？",
+      "is_new": true,
+      "created_display": "Created: Nov 11, 2026 / 04:30 PT",
+      "image_url": "https://nathan.rs/icons/calendar.svg",
+      "summary_en": "The source examines whether linear programming can reproduce the kind of weight-space programming described in recent MIT CSAIL work. That work reported that GPT-6 Astra could infer a small network's game from its raw weights, generate weights from game rules, and improve Qwen3.5-0.8B by changing only 0.016% of its weights. In that experiment, MATH-500 accuracy rose from 7.9% to 48.1%.",
+      "summary_zh": "文章探讨线性规划能否实现近期 MIT CSAIL 工作中所描述的“权重空间编程”。该工作称，GPT-6 Astra 能从小型网络的原始权重判断其训练的游戏、根据游戏规则直接生成网络权重，并通过修改 Qwen3.5-0.8B 仅 0.016% 的权重来改进模型。在相关实验中，MATH-500 准确率从 7.9% 提升到 48.1%。",
+      "hn": {
+        "id": 50452655,
+        "type": "story",
+        "by": "emschwartz",
+        "score": 126,
+        "descendants": 19,
+        "time": 1794400217,
+        "comments_url": "https://news.ycombinator.com/item?id=50452655"
+      },
+      "hot_score": 5.66,
+      "tags": [
+        "Programming",
+        "AI"
+      ]
+    },
+    {
+      "title_en": "Pharo in the Browser with WebAssembly",
+      "url": "https://massimo-nocentini.github.io/pharo-vm/world.html",
+      "title_zh": "通过 WebAssembly 在浏览器中运行 Pharo",
+      "is_new": true,
+      "created_display": "Created: Nov 11, 2026 / 06:21 PT",
+      "image_url": "https://massimo-nocentini.github.io/pharo-vm/pharo-logo.png?v=457ece6d3-ac4940f7f271",
+      "summary_en": "The Pharo Smalltalk environment is running in a web browser through WebAssembly. This brings the Pharo world and its development environment to the browser without requiring a separate native runtime.",
+      "summary_zh": "Pharo 这一 Smalltalk 环境通过 WebAssembly 在浏览器中运行。这样，Pharo 世界及其开发环境无需单独安装本机运行时即可在浏览器中使用。",
+      "hn": {
+        "id": 50453763,
+        "type": "story",
+        "by": "xkriva11",
+        "score": 52,
+        "descendants": 11,
+        "time": 1794406887,
+        "comments_url": "https://news.ycombinator.com/item?id=50453763"
+      },
+      "hot_score": 4.77,
+      "tags": [
+        "Programming",
+        "Web"
+      ]
+    },
+    {
+      "title_en": "Open research, stronger privacy: Making Firefox users harder to fingerprint",
+      "url": "https://blog.mozilla.org/security/2026/11/10/open-research-stronger-privacy-making-firefox-users-harder-to-fingerprint/",
+      "title_zh": "开放研究，强化隐私：让 Firefox 用户更难被指纹识别",
+      "is_new": true,
+      "created_display": "Created: Nov 11, 2026 / 04:44 PT",
+      "image_url": null,
+      "summary_en": "Firefox's latest fingerprinting protections reduce the amount of distinguishing information that tracking scripts can extract from browsers and devices. By making more Firefox users appear alike, the changes are intended to hinder cross-site recognition even when trackers do not use cookies. Mozilla says the protections are based on research into which browser and device details make users uniquely identifiable.",
+      "summary_zh": "Firefox 最新的指纹识别防护减少了跟踪脚本能够从浏览器和设备中提取的区分性信息。通过让更多 Firefox 用户呈现相似特征，这些改动旨在阻碍即使不使用 Cookie 的跨网站识别。Mozilla 表示，这些防护措施建立在其对哪些浏览器和设备细节会使用户具有唯一可识别性的研究之上。",
+      "hn": {
+        "id": 50452742,
+        "type": "story",
+        "by": "Vinnl",
+        "score": 90,
+        "descendants": 19,
+        "time": 1794401046,
+        "comments_url": "https://news.ycombinator.com/item?id=50452742"
+      },
+      "hot_score": 4.35,
+      "tags": [
+        "Privacy",
+        "Security",
+        "Web"
+      ]
+    },
+    {
+      "title_en": "Atuin Threads: All your agent sessions on every machine",
+      "url": "https://blog.atuin.sh/threads-agent-sessions/",
+      "title_zh": "Atuin Threads：在每台机器上搜索所有代理会话",
+      "is_new": true,
+      "created_display": "Created: Nov 11, 2026 / 06:10 PT",
+      "image_url": "https://storage.ghost.io/c/66/46/6646b777-02d8-44b3-9d01-dd721730b905/content/images/2024/01/Atuin_Logo_01_blue.png",
+      "summary_en": "Atuin Threads provides one searchable, synchronized history for coding-agent sessions across machines. It is designed to let users start a task in Claude Code and resume it in Codex or on another system. The need arises because agent sessions are currently scattered across tools, laptops, servers, and ephemeral instances, unlike the user's portable shell history.",
+      "summary_zh": "Atuin Threads 为跨设备的编码代理会话提供统一、可搜索且同步的历史记录。它的目标是让用户可以在 Claude Code 中开始任务，再在 Codex 或另一台机器上继续。作者指出，代理会话目前分散在不同工具、笔记本、服务器和临时实例中，不像 shell 历史那样能够随用户迁移。",
+      "hn": {
+        "id": 50453637,
+        "type": "story",
+        "by": "linsomniac",
+        "score": 48,
+        "descendants": 17,
+        "time": 1794406246,
+        "comments_url": "https://news.ycombinator.com/item?id=50453637"
+      },
+      "hot_score": 4.04,
+      "tags": [
+        "Programming",
+        "DevOps",
+        "AI"
+      ]
+    },
+    {
+      "title_en": "Using voltage glitching to unleash the A100 in my mining card",
+      "url": "https://blog.kate.land/posts/using-voltage-glitching-to-unlock-the-a100/",
+      "title_zh": "通过电压故障注入解锁挖矿卡中的 A100",
+      "is_new": true,
+      "created_display": "Created: Nov 11, 2026 / 02:48 PT",
+      "image_url": "https://blog.kate.land/images/ga100-block-diagram.png",
+      "summary_en": "A voltage fault-injection vulnerability in the GA100 die can reportedly blow arbitrary fuses on an NVIDIA CMP 170HX. The author used it to turn an 8GB CMP 170HX into a card functionally similar to an A100-80G, enabling roughly 120–126 functional SMs instead of the 108 used in production A100s. The method can also unlock features including NVLink, PCIe Gen4, NVJPG, NVDEC, and MIG, although several of those features were not specifically tested.",
+      "summary_zh": "据称，GA100 芯片中的电压故障注入漏洞可以烧断任意熔丝。作者利用这一点，将一张 8GB 的 NVIDIA CMP 170HX 改造成在功能上类似 A100-80G 的显卡，并启用了约 120 至 126 个可用 SM，而量产 A100 使用的是 108 个。该方法还可以解锁 NVLink、PCIe Gen4、NVJPG、NVDEC 和 MIG 等功能，但其中几项尚未经过专门测试。",
+      "hn": {
+        "id": 50451903,
+        "type": "story",
+        "by": "lae",
+        "score": 136,
+        "descendants": 55,
+        "time": 1794394120,
+        "comments_url": "https://news.ycombinator.com/item?id=50451903"
+      },
+      "hot_score": 3.79,
+      "tags": [
+        "Hardware",
+        "Security"
+      ]
+    },
+    {
+      "title_en": "Smart home devices should work without the internet",
+      "url": "https://docodethatmatters.com/home-automation-overnight-success/",
+      "title_zh": "智能家居应当无需互联网也能运行",
+      "is_new": true,
+      "created_display": "Created: Nov 10, 2026 / 07:25 PT",
+      "image_url": "https://docodethatmatters.com/images/home-automation/t1-07.webp",
+      "summary_en": "The author describes a decade-long home-automation rule: no core function in the house should depend on a vendor’s server. As a result, the home continues operating when the internet goes down. The post presents the other automation rules and two related talks that grew out of this principle.",
+      "summary_zh": "作者介绍了坚持十年的家庭自动化原则：家中的核心功能不应依赖厂商服务器。因此，即使互联网中断，房屋仍能继续运行。文章还整理了由这一原则延伸出的其他自动化规则和两场相关演讲。",
+      "hn": {
+        "id": 50441707,
+        "type": "story",
+        "by": "skittleson",
+        "score": 1109,
+        "descendants": 402,
+        "time": 1794324320,
+        "comments_url": "https://news.ycombinator.com/item?id=50441707"
+      },
+      "tags": [
+        "Privacy",
+        "Hardware"
+      ],
+      "hot_score": 3.01
+    },
+    {
+      "title_en": "Protecting SSH Keys with macOS Secure Enclave",
+      "url": "https://gatezh.com/posts/macos-secure-enclave-ssh-keys/",
+      "title_zh": "使用 macOS 安全隔区保护 SSH 密钥",
+      "is_new": true,
+      "created_display": "Created: Nov 10, 2026 / 20:28 PT",
+      "image_url": "https://gatezh.com/brand/share.381cc582d58a3410686473b92c1d944fbc83dc59a7e926952aeb6c5c0d8a6ef0.png",
+      "summary_en": "The proposed setup stores SSH keys in the macOS Secure Enclave and requires Touch ID for each use, without third-party applications. It is intended to prevent malicious software that can read the filesystem from simply copying private keys from ~/.ssh/. The approach is motivated in part by the risk of running untrusted code from fake interview assignments.",
+      "summary_zh": "这种方案将 SSH 密钥存储在 macOS 安全隔区中，并在每次使用时要求通过 Touch ID 验证，无需第三方应用。它旨在防止能够读取文件系统的恶意软件直接复制 ~/.ssh/ 中的私钥。作者提到，虚假面试作业要求用户克隆并运行代码的案例，也是采用这一方案的原因之一。",
+      "hn": {
+        "id": 50449748,
+        "type": "story",
+        "by": "js2",
+        "score": 328,
+        "descendants": 120,
+        "time": 1794371337,
+        "comments_url": "https://news.ycombinator.com/item?id=50449748"
+      },
+      "hot_score": 2.98,
+      "tags": [
+        "Security",
+        "Privacy"
+      ]
+    },
+    {
+      "title_en": "We need more goat sacrifices",
+      "url": "https://www.experimental-history.com/p/we-need-more-goat-sacrifices",
+      "title_zh": "我们需要更多山羊祭祀",
+      "is_new": true,
+      "created_display": "Created: Nov 11, 2026 / 04:29 PT",
+      "image_url": "https://substackcdn.com/image/fetch/$s_!U0Ia!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9268745d-f194-4df1-8598-5f351867b5b4_1245x813.jpeg",
+      "summary_en": "The discussion connects beliefs about luck with the idea that lucky people notice opportunities more readily. It suggests that visualization may help some people by training them to notice things differently, while noting that this is not presented as a scientific conclusion. The text also says that medieval magic practitioners viewed magic as working through this kind of perception rather than through an empirical or physics-based process.",
+      "summary_zh": "这段讨论将对运气的看法与“幸运的人更容易注意到机会”这一观点联系起来。文中认为，视觉化练习或许能通过训练人们改变观察方式而帮助部分人，但也明确表示这并非科学结论。文中还指出，中世纪的魔法实践者认为魔法正是通过这种感知方式发挥作用，而不是依靠经验科学或物理过程。",
+      "hn": {
+        "id": 50452652,
+        "type": "story",
+        "by": "iamnothere",
+        "score": 63,
+        "descendants": 31,
+        "time": 1794400188,
+        "comments_url": "https://news.ycombinator.com/item?id=50452652"
+      },
+      "hot_score": 2.8,
+      "tags": [
+        "Culture",
+        "Science"
+      ]
+    },
+    {
+      "title_en": ".name Grandfathered",
+      "url": "https://neil.fraser.name/news/2026/11/10/",
+      "title_zh": ".name 域名获得保留",
+      "is_new": true,
+      "created_display": "Created: Nov 10, 2026 / 08:37 PT",
+      "image_url": "https://neil.fraser.name/news/tree-opened.gif",
+      "summary_en": "Verisign has withdrawn its plan to terminate 22,000 .name domain names and email redirects after a prolonged campaign. New registrations for third-level .name domains will close, but all existing domains and redirects will remain indefinitely. The reversal followed efforts by domain owners, lawyers, and supporters to challenge the plan through ICANN.",
+      "summary_zh": "经过一场旷日持久的抗争，Verisign 撤回了终止 22,000 个 .name 域名及其邮件转发的计划。虽然 .name 三级域名将停止新注册，但现有域名和邮件转发服务将无限期保留。这一转变源于域名所有者、律师和支持者通过 ICANN 发起的共同争取。",
+      "hn": {
+        "id": 50442736,
+        "type": "story",
+        "by": "p4bl0",
+        "score": 907,
+        "descendants": 197,
+        "time": 1794328664,
+        "comments_url": "https://news.ycombinator.com/item?id=50442736"
+      },
+      "tags": [
+        "Web",
+        "Legal"
+      ],
+      "hot_score": 2.67
+    },
+    {
+      "title_en": "Hyper-Realistic Sand with WebGL2",
+      "url": "https://av.github.io/safe-sand/",
+      "title_zh": "使用 WebGL2 实现超逼真的沙子模拟",
+      "is_new": true,
+      "created_display": "Created: Nov 11, 2026 / 05:39 PT",
+      "image_url": "https://av.github.io/safe-sand/icons/icon-512.png",
+      "summary_en": "This browser-based sand simulator uses WebGL2 and JavaScript to model moving grains. Users can draw and push the sand, tilt a phone to slide the grains, or shake the device to scatter them. It supports touch and motion controls on phones and tablets, as well as desktop browsers.",
+      "summary_zh": "这款浏览器沙子模拟器使用 WebGL2 和 JavaScript 模拟沙粒运动。用户可以绘制并推动沙子，在手机上倾斜设备让沙粒滑动，或摇晃设备将其散开。它支持手机和平板上的触控与动作控制，也可在桌面浏览器中运行。",
+      "hn": {
+        "id": 50453288,
+        "type": "story",
+        "by": "everlier",
+        "score": 39,
+        "descendants": 5,
+        "time": 1794404369,
+        "comments_url": "https://news.ycombinator.com/item?id=50453288"
+      },
+      "hot_score": 2.61,
+      "tags": [
+        "Programming",
+        "Web"
+      ]
+    },
+    {
+      "title_en": "Tracking Anthropic-discovered vulnerabilities",
+      "url": "https://www.vulncheck.com/blog/anthropic-glasswing-november-update",
+      "title_zh": "追踪 Anthropic 发现的漏洞",
+      "is_new": true,
+      "created_display": "Created: Nov 10, 2026 / 14:17 PT",
+      "image_url": "https://www.vulncheck.com/_og/s/o_6eba28d38c5a4083.png",
+      "summary_en": "Seven months into Project Glasswing, VulnCheck says it has tracked 442 CVEs attributed to Anthropic, representing about 0.5% of all CVEs published that year. Only two were identified as exploited in the wild, while 7,349 of Anthropic's 37,966 reported findings had been made public and 217 were marked fixed. The project began with Anthropic's claim that it had found thousands of additional high- and critical-severity vulnerabilities in open-source software.",
+      "summary_zh": "在 Project Glasswing 启动七个月后，VulnCheck 表示已追踪到 442 个归因于 Anthropic 的 CVE，约占当年发布的全部 CVE 的 0.5%。其中只有两个被确认已在现实环境中遭到利用；Anthropic 报告的 37,966 项发现中，有 7,349 项已公开，217 项被标记为已修复。该项目源于 Anthropic 的说法：其发现了数千个开源软件中的新增高危和严重漏洞。",
+      "hn": {
+        "id": 50447074,
+        "type": "story",
+        "by": "panic",
+        "score": 437,
+        "descendants": 209,
+        "time": 1794349076,
+        "comments_url": "https://news.ycombinator.com/item?id=50447074"
+      },
+      "hot_score": 2.02,
+      "tags": [
+        "Security",
+        "AI",
+        "Privacy",
+        "Open Source"
+      ]
+    },
+    {
+      "title_en": "Scion is back and is going to sell a kei truck in America",
+      "url": "https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/",
+      "title_zh": "Scion 回归，将在美国销售一款 Kei 微型卡车",
+      "is_new": true,
+      "created_display": "Created: Nov 10, 2026 / 11:50 PT",
+      "image_url": "https://images-stag.jazelc.com/uploads/theautopian-m2en/20261110110448/ScionByToyota_Family_TS3.jpg",
+      "summary_en": "Toyota has officially revived the Scion marque, which was retired in 2016 after years of financial struggles. The new “Scion by Toyota” is being positioned as a “freedom lab” focused on challenging conventional automotive thinking, and its initial offerings include a kei truck, a bike, and a hybrid side-by-side. The brand’s new direction is a sharp departure from its former role as a quirky, budget-oriented line aimed largely at younger buyers.",
+      "summary_zh": "丰田正式复活了 Scion 品牌；该品牌曾因长期经营困难于 2016 年停运。全新的“Scion by Toyota”被定位为一个挑战传统汽车思维的“自由实验室”，首批产品包括一款 Kei 微型卡车、一辆自行车和一款混合动力并排式越野车。品牌的新方向与过去面向年轻消费者、主打古怪且价格亲民车型的定位大相径庭。",
+      "hn": {
+        "id": 50445401,
+        "type": "story",
+        "by": "NaOH",
+        "score": 528,
+        "descendants": 363,
+        "time": 1794340246,
+        "comments_url": "https://news.ycombinator.com/item?id=50445401"
+      },
+      "tags": [
+        "Business"
+      ],
+      "hot_score": 1.98
+    },
+    {
+      "title_en": "Show HN: Godbolt-in-a-floating-window for Neovim (C, C++, Rust)",
+      "url": "https://github.com/0xdeadf1sh/AssemblyForNeovim",
+      "title_zh": "Show HN：Neovim 浮动窗口中的 Godbolt（支持 C、C++、Rust）",
+      "is_new": true,
+      "created_display": "Created: Nov 11, 2026 / 05:34 PT",
+      "image_url": "https://opengraph.githubassets.com/2b6af3e12c1027e19a82417a480bc2450e93d322cdc5d7c07e95de22e425ecc7/0xdeadf1sh/AssemblyForNeovim",
+      "summary_en": "AssemblyForNeovim brings a Godbolt-style assembly view into a floating Neovim window for C, C++, and Rust. It generates assembly with a compiler installed locally, so it does not require an internet connection.",
+      "summary_zh": "AssemblyForNeovim 将类似 Godbolt 的汇编查看功能带入 Neovim 浮动窗口，支持 C、C++ 和 Rust。它使用本地安装的编译器生成汇编代码，因此无需互联网连接。",
+      "hn": {
+        "id": 50453229,
+        "type": "story",
+        "by": "0xdeadf1sh",
+        "score": 29,
+        "descendants": 3,
+        "time": 1794404064,
+        "comments_url": "https://news.ycombinator.com/item?id=50453229"
+      },
+      "hot_score": 1.86,
+      "tags": [
+        "Show HN",
+        "Programming"
+      ]
+    },
+    {
+      "title_en": "Apple has new Mac app coming to make running local AI models easy",
+      "url": "https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/",
+      "title_zh": "Apple 将推出让本地运行 AI 模型更简单的 Mac 应用",
+      "is_new": true,
+      "created_display": "Created: Nov 10, 2026 / 13:25 PT",
+      "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Mac-mini.jpg?quality=82&strip=all&resize=1200,628",
+      "summary_en": "Apple is reportedly developing a Mac app called Harbor to simplify running local AI models across one or more Macs. Evidence of the app was found by leaker Aaron Perris. The project comes as Macs are increasingly being used to run models locally, including on the Mac Studio and Mac mini.",
+      "summary_zh": "据报道，Apple 正在开发一款名为 Harbor 的 Mac 应用，用于简化在一台或多台 Mac 上运行本地 AI 模型的过程。泄密者 Aaron Perris 发现了这款应用的相关证据。随着 Mac Studio、Mac mini 等设备被越来越多地用于本地运行模型，该项目正处于这一趋势之中。",
+      "hn": {
+        "id": 50446520,
+        "type": "story",
+        "by": "linolevan",
+        "score": 424,
+        "descendants": 437,
+        "time": 1794345903,
+        "comments_url": "https://news.ycombinator.com/item?id=50446520"
+      },
+      "tags": [
+        "AI"
+      ],
+      "hot_score": 1.81
+    },
+    {
+      "title_en": "In Defense of Giving a Shit",
+      "url": "https://www.possibilityspace.org/blog/posts/in-defence-of-giving-a-shit/",
+      "title_zh": "为“在乎”辩护",
+      "is_new": true,
+      "created_display": "Created: Nov 11, 2026 / 04:00 PT",
+      "image_url": "https://www.possibilityspace.org/blog/social.png",
+      "summary_en": "The author describes judging the Independent Games Festival, where a discussion about the game Big Walk drew far more comments than other entries. This year's rules required developers to disclose any use of AI, and many games consequently reported AI involvement. Big Walk's developers said LLMs were used for less than 0.1% of the code to fix errors late in production.",
+      "summary_zh": "作者讲述了担任独立游戏节评委的经历，其中围绕游戏《Big Walk》的讨论获得了远多于其他作品的评论。今年的规则要求开发者披露任何 AI 使用情况，因此许多游戏都声明使用过 AI。《Big Walk》的开发者表示，他们在制作后期使用大语言模型修复错误，涉及的代码不到 0.1%。",
+      "hn": {
+        "id": 50452407,
+        "type": "story",
+        "by": "mrkn1",
+        "score": 43,
+        "descendants": 24,
+        "time": 1794398445,
+        "comments_url": "https://news.ycombinator.com/item?id=50452407"
+      },
+      "hot_score": 1.63,
+      "tags": [
+        "Culture",
+        "Entertainment",
+        "AI"
+      ]
+    },
+    {
+      "title_en": "Next-Level Benchmarking Overfitting – Thomas Neumann",
+      "url": "http://databasearchitects.blogspot.com/2026/11/next-level-benchmarking-overfitting.html",
+      "title_zh": "更进一步的基准测试过拟合——Thomas Neumann",
+      "is_new": true,
+      "created_display": "Created: Nov 11, 2026 / 04:09 PT",
+      "image_url": null,
+      "summary_en": "The piece is titled “Next-Level Benchmarking Overfitting” and is by Thomas Neumann. It concerns the problem of overfitting benchmark results.",
+      "summary_zh": "Thomas Neumann 的文章讨论了“更进一步的基准测试过拟合”问题，主题是基准测试结果被过度拟合。",
+      "hn": {
+        "id": 50452496,
+        "type": "story",
+        "by": "artrax",
+        "score": 41,
+        "descendants": 6,
+        "time": 1794398989,
+        "comments_url": "https://news.ycombinator.com/item?id=50452496"
+      },
+      "hot_score": 1.63,
+      "tags": [
+        "Data"
+      ]
+    },
+    {
+      "title_en": "Starlink Mini 2",
+      "url": "https://starlink.com/mini-2",
+      "title_zh": "Starlink Mini 2",
+      "is_new": true,
+      "created_display": "Created: Nov 10, 2026 / 10:22 PT",
+      "image_url": "https://starlink.com/assets-new/images/landing/field/v4_night_sky.webp",
+      "summary_en": "Starlink Mini 2 is presented as providing fast, reliable internet both at home and on the go. The service is intended to support streaming, video calls, gaming, and other high-speed connectivity needs, including in rural and remote locations.",
+      "summary_zh": "Starlink Mini 2 被定位为可在家中和移动途中提供快速、可靠的互联网连接。该服务支持流媒体、视频通话、游戏等高速联网需求，也面向乡村和偏远地区。",
+      "hn": {
+        "id": 50444129,
+        "type": "story",
+        "by": "robertjfclarke",
+        "score": 482,
+        "descendants": 534,
+        "time": 1794334952,
+        "comments_url": "https://news.ycombinator.com/item?id=50444129"
+      },
+      "tags": [
+        "Web",
+        "Business",
+        "Programming",
+        "Gaming"
+      ],
+      "hot_score": 1.61
+    },
+    {
+      "title_en": "A great old-timey game-programming hack (2013)",
+      "url": "https://blog.moertel.com/posts/2013-12-14-great-old-timey-game-programming-hack.html",
+      "title_zh": "一个绝妙的老派游戏编程技巧（2013）",
+      "is_new": true,
+      "created_display": "Created: Nov 10, 2026 / 17:56 PT",
+      "image_url": null,
+      "summary_en": "The author recalls programming computer games as a college undergraduate during the 8-bit PC era. Because the hardware was extremely slow by modern standards, game programmers used unconventional techniques to make games run at playable speeds. The piece looks back at one such old-school programming hack.",
+      "summary_zh": "作者回忆了自己在大学本科时期、8 位 PC 时代编写电脑游戏的经历。由于当时的硬件按现代标准看极其缓慢，游戏程序员会使用各种非常规技巧，让游戏达到可玩的速度。文章回顾了这样一种老派编程诀窍。",
+      "hn": {
+        "id": 50448921,
+        "type": "story",
+        "by": "palsecam",
+        "score": 230,
+        "descendants": 48,
+        "time": 1794362191,
+        "comments_url": "https://news.ycombinator.com/item?id=50448921"
+      },
+      "tags": [
+        "Programming",
+        "Hardware"
+      ],
+      "hot_score": 1.53
+    },
+    {
+      "title_en": "Synaptics patent claims stop work on DisplayLink drivers",
+      "url": "https://lwn.net/SubscriberLink/1102549/acbc92e00cee3a3f/",
+      "title_zh": "Synaptics 的专利主张叫停 DisplayLink 驱动开发",
+      "is_new": true,
+      "created_display": "Created: Nov 10, 2026 / 10:02 PT",
+      "image_url": "https://static.lwn.net/images/logo/barepenguin-70.webp",
+      "summary_en": "Mike Lothian tried to improve a Linux driver for a DisplayLink docking station after finding its performance inadequate. Synaptics, which acquired DisplayLink in 2022, responded with patent-infringement claims, a demand to stop the unauthorized implementation, and warnings of costly legal penalties. Linux users of the company’s docks therefore appear likely to remain without feature parity for now.",
+      "summary_zh": "Mike Lothian 认为 DisplayLink 扩展坞在 Linux 下性能不佳，因此尝试改进其驱动。DisplayLink 于 2022 年被 Synaptics 收购，而 Synaptics 随后以专利侵权为由要求停止未经授权的实现，并警告可能面临高昂法律处罚。因此，相关扩展坞的 Linux 用户目前似乎仍将无法获得与其他平台相当的功能。",
+      "hn": {
+        "id": 50443824,
+        "type": "story",
+        "by": "speckx",
+        "score": 453,
+        "descendants": 256,
+        "time": 1794333722,
+        "comments_url": "https://news.ycombinator.com/item?id=50443824"
+      },
+      "tags": [
+        "Legal"
+      ],
+      "hot_score": 1.48
+    },
+    {
+      "title_en": "Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives",
+      "url": "https://github.com/GoogleChrome/modern-web-guidance",
+      "title_zh": "Show HN：让编码代理摆脱约 2019 年的 JavaScript，转向现代 Web 原语",
+      "is_new": true,
+      "created_display": "Created: Nov 10, 2026 / 10:01 PT",
+      "image_url": "https://opengraph.githubassets.com/221a3fa5fa54808ce0596c7b6776c035a5191e828010f6c0ac45727e6ada0175/GoogleChrome/modern-web-guidance",
+      "summary_en": "A Chrome-led project provides coding agents with curated guidance on modern, native web APIs. Examples include CSS highlights, dialog and showModal(), and field-sizing, which can replace common JavaScript-heavy patterns. The open-source release contains more than 200 expert-written guides, developed with Firefox, MDN, and Edge, and is designed for agent skills and retrieval-augmented tooling.",
+      "summary_zh": "一个由 Chrome 发起的项目为编码代理提供现代原生 Web API 的精选指南。例如，CSS Highlights、dialog 与 showModal()、field-sizing 都可以替代常见的重 JavaScript 实现。该开源项目目前包含 200 多份由专家编写的指南，并与 Firefox、MDN 和 Edge 合作开发，面向代理技能和检索增强工具。",
+      "hn": {
+        "id": 50443812,
+        "type": "story",
+        "by": "paulirish",
+        "score": 414,
+        "descendants": 138,
+        "time": 1794333675,
+        "comments_url": "https://news.ycombinator.com/item?id=50443812"
+      },
+      "tags": [
+        "Show HN",
+        "Web",
+        "Programming",
+        "Open Source"
+      ],
+      "hot_score": 1.35
+    },
+    {
+      "title_en": "Physically Controllable Relighting of Photographs",
+      "url": "https://yaksoy.github.io/PhysicalRelighting/",
+      "title_zh": "可进行物理控制的照片重光照",
+      "is_new": true,
+      "created_display": "Created: Nov 11, 2026 / 03:38 PT",
+      "image_url": "https://yaksoy.github.io/images/physicalRelightingTeaser.jpg",
+      "summary_en": "The presented method lets users relight photographs by inserting spot lights, point lights, or environmental illumination, much like a computer graphics pipeline. It combines mid-level computer vision, physically based rendering, and neural rendering, using self-supervised training with differentiable rendering. The system infers a colored 3D mesh from a single photograph, allowing the desired lighting configuration to be rendered with a path-tracing engine.",
+      "summary_zh": "该方法允许用户像使用计算机图形学管线一样，为照片加入聚光灯、点光源或环境光照。它结合中层计算机视觉、基于物理的渲染和神经渲染，并通过可微渲染进行自监督训练。系统从单张照片推断带颜色的三维网格，用户即可定义新的光照配置，再用路径追踪引擎渲染场景。",
+      "hn": {
+        "id": 50452224,
+        "type": "story",
+        "by": "summarity",
+        "score": 39,
+        "descendants": 6,
+        "time": 1794397123,
+        "comments_url": "https://news.ycombinator.com/item?id=50452224"
+      },
+      "hot_score": 1.33,
+      "tags": [
+        "Programming"
+      ]
+    },
+    {
+      "title_en": "Val Town is winding down",
+      "url": "https://blog.val.town/winding-down",
+      "title_zh": "Val Town 即将停止运营",
+      "is_new": true,
+      "created_display": "Created: Nov 10, 2026 / 09:31 PT",
+      "image_url": "https://valdottown--01a1c636170f75bd955ad39917dccd9e.web.val.run/images/winding-down-bird-24619313141.jpg",
+      "summary_en": "Val Town has decided to wind down its service. The team thanked users for trusting the platform and apologized that it could no longer continue serving them. The announcement does not provide further details about the shutdown timeline or transition.",
+      "summary_zh": "Val Town 决定逐步停止运营。团队感谢用户对平台的信任，并为无法继续提供服务表示歉意。公告没有进一步说明停运时间表或迁移安排。",
+      "hn": {
+        "id": 50443427,
+        "type": "story",
+        "by": "tosh",
+        "score": 413,
+        "descendants": 100,
+        "time": 1794331874,
+        "comments_url": "https://news.ycombinator.com/item?id=50443427"
+      },
+      "tags": [
+        "Startups"
+      ],
+      "hot_score": 1.3
+    },
+    {
+      "title_en": "Six Math Essentials",
+      "url": "https://teorth.github.io/tao-web/six-math-essentials.html",
+      "title_zh": "Terence Tao 的六个数学要点",
+      "is_new": true,
+      "created_display": "Created: Nov 10, 2026 / 12:58 PT",
+      "image_url": null,
+      "summary_en": "In Six Math Essentials, Fields Medalist Terence Tao introduces six concepts that span mathematical thinking from antiquity to the modern frontier. The book covers numbers, algebra, geometry, probability, analysis, and dynamics as gateways to quantitative thought, abstraction, calculation, uncertainty, scale, and change. No errata have been recorded for the book.",
+      "summary_zh": "菲尔兹奖得主 Terence Tao 在《六个数学要点》中介绍了贯穿古代至现代数学前沿的六个核心概念。全书分别以数字、代数、几何、概率、分析和动力学为入口，讨论定量思维、抽象、计算、不确定性、尺度与变化。目前该书尚无勘误记录。",
+      "hn": {
+        "id": 50446246,
+        "type": "story",
+        "by": "digital55",
+        "score": 309,
+        "descendants": 57,
+        "time": 1794344324,
+        "comments_url": "https://news.ycombinator.com/item?id=50446246"
+      },
+      "tags": [
+        "Education",
+        "Science"
+      ],
+      "hot_score": 1.27
+    },
+    {
+      "title_en": "Greg Kurtzer's Ginux is now a userspace kernel",
+      "url": "https://github.com/gmkurtzer/ginux",
+      "title_zh": "Greg Kurtzer 的 Ginux 现已成为用户态内核",
+      "is_new": true,
+      "created_display": "Created: Nov 10, 2026 / 21:25 PT",
+      "image_url": "https://opengraph.githubassets.com/7242fac3e1794f3dc109b353a9244c3b89c0f239163dcb35ca8c64060249684b/gmkurtzer/ginux",
+      "summary_en": "Ginux is now a configurable userspace kernel for isolated Linux compatibility instances. It runs as an ordinary Linux process and defines an explicit, versioned contract between managed workloads and the host kernel. Its earlier phase as an independent Rust kernel booting through UEFI is complete, with that source preserved separately while active development continues on the userspace version.",
+      "summary_zh": "Ginux 现已成为用于隔离 Linux 兼容实例的可配置用户态内核。它作为普通 Linux 进程运行，并在受管理工作负载与主机内核之间建立明确且有版本控制的契约。此前通过 UEFI 启动、以 Rust 编写的独立内核阶段已经结束，相关源代码被单独保留，当前开发转向用户态版本。",
+      "hn": {
+        "id": 50450007,
+        "type": "story",
+        "by": "d3Xt3r",
+        "score": 106,
+        "descendants": 64,
+        "time": 1794374754,
+        "comments_url": "https://news.ycombinator.com/item?id=50450007"
+      },
+      "hot_score": 1.09,
+      "tags": [
+        "Programming",
+        "Open Source"
+      ]
+    },
+    {
+      "title_en": "To deter bioterrorism, U.S. imposes new rules on ordering synthetic DNA",
+      "url": "https://www.science.org/content/article/deter-bioterrorism-u-s-imposes-new-rules-ordering-synthetic-dna",
+      "title_zh": "为遏制生物恐怖主义，美国对合成 DNA 的订购实施新规",
+      "is_new": true,
+      "created_display": "Created: Nov 10, 2026 / 18:57 PT",
+      "image_url": null,
+      "summary_en": "The United States is imposing new rules on ordering synthetic DNA. The stated purpose is to deter bioterrorism. The available information does not specify the rules' exact requirements or scope.",
+      "summary_zh": "美国正在对合成 DNA 的订购实施新规则。其目的被表述为遏制生物恐怖主义。现有信息未说明这些规则的具体要求或适用范围。",
+      "hn": {
+        "id": 50449275,
+        "type": "story",
+        "by": "Metacelsus",
+        "score": 142,
+        "descendants": 127,
+        "time": 1794365828,
+        "comments_url": "https://news.ycombinator.com/item?id=50449275"
+      },
+      "tags": [
+        "Science",
+        "Legal",
+        "Politics"
+      ],
+      "hot_score": 1.06
+    },
+    {
+      "title_en": "Foldable Flight: The Best Paper Airplanes",
+      "url": "https://www.foldableflight.com",
+      "title_zh": "折叠飞行：最佳纸飞机",
+      "is_new": true,
+      "created_display": "Created: Nov 09, 2026 / 04:19 PT",
+      "image_url": "https://static.wixstatic.com/media/0641fb_4ff6a49def494e379b4f3b585c4ac4a8%7Emv2_d_2482_1412_s_2.jpg/v1/fit/w_2500,h_1330,al_c/0641fb_4ff6a49def494e379b4f3b585c4ac4a8%7Emv2_d_2482_1412_s_2.jpg",
+      "summary_en": "The site presents a large database of paper airplanes with step-by-step video folding tutorials. One World Record prototype is reported to fly more than 300 feet. The Unite model holds a world record for time aloft at 31.2 seconds.",
+      "summary_zh": "该网站提供大型纸飞机数据库，并为每种机型配备分步折叠视频教程。据称，一款世界纪录原型机可以飞行超过 300 英尺。Unite 机型则以 31.2 秒的滞空时间保持世界纪录。",
+      "hn": {
+        "id": 50424581,
+        "type": "story",
+        "by": "vismit2000",
+        "score": 1234,
+        "descendants": 167,
+        "time": 1794226762,
+        "comments_url": "https://news.ycombinator.com/item?id=50424581"
+      },
+      "tags": [
+        "Education",
+        "Entertainment",
+        "Data"
+      ],
+      "hot_score": 0.95
+    },
+    {
+      "title_en": "Show HN: Black Ops II statically recompiled to native ARM64 macOS",
+      "url": "https://github.com/adrbn/bo2-mac",
+      "title_zh": "Show HN：将《使命召唤：黑色行动 II》静态重编译为原生 ARM64 macOS 应用",
+      "is_new": true,
+      "created_display": "Created: Nov 10, 2026 / 20:56 PT",
+      "image_url": "https://opengraph.githubassets.com/9a521b5e0ac0a8acff69222ea870d932d154316f24827a932e0a323edc47609c/adrbn/bo2-mac",
+      "summary_en": "This project statically recompiles a Steam copy of Black Ops II into a native ARM64 macOS application using Claude Opus 5.5, without Wine, Crossover, Rosetta, or another emulator. The game reportedly runs at nearly 60 frames per second across the campaign, local multiplayer with bots, and local Zombies mode, including owned DLC maps. Split-screen is being worked on, while LAN mode is planned for later.",
+      "summary_zh": "这个项目使用 Claude Opus 5.5，将 Steam 版《使命召唤：黑色行动 II》静态重编译为原生 ARM64 macOS 应用，不依赖 Wine、Crossover、Rosetta 或其他模拟器。据称，战役、本地机器人多人模式和本地僵尸模式都能以接近 60 帧运行，已拥有的 DLC 地图也可使用。开发者正在处理分屏功能，局域网模式则计划稍后加入。",
+      "hn": {
+        "id": 50449891,
+        "type": "story",
+        "by": "adrbn",
+        "score": 98,
+        "descendants": 43,
+        "time": 1794373007,
+        "comments_url": "https://news.ycombinator.com/item?id=50449891"
+      },
+      "hot_score": 0.94,
+      "tags": [
+        "Show HN",
+        "Programming",
+        "AI"
+      ]
+    },
+    {
+      "title_en": "Claude Whiteboards, Claude Sheets, and Claude Data",
+      "url": "https://claude.com/resources/articles/sheets-whiteboards-data",
+      "title_zh": "Claude Whiteboards、Claude Sheets 和 Claude Data",
+      "is_new": true,
+      "created_display": "Created: Nov 10, 2026 / 09:55 PT",
+      "image_url": "https://claude.com/resources/articles/sheets-whiteboards-data/opengraph-image/og",
+      "summary_en": "Claude is launching Whiteboards and Sheets in beta, while Claude Dashboards becomes generally available as Claude Data. Whiteboards supports shared brainstorming, Sheets lets Claude build and edit spreadsheets, and Claude Data provides data stories, certified queries, and live sharing. All three are available on paid plans and keep documents, boards, sheets, and dashboards inside Claude for team collaboration.",
+      "summary_zh": "Claude 推出了 Whiteboards 和 Sheets 测试版，同时将 Claude Dashboards 正式更名并开放为 Claude Data。Whiteboards 支持协作头脑风暴，Sheets 可由 Claude 创建和编辑电子表格，Claude Data 提供数据故事、认证查询和实时共享。三项功能均面向付费计划，并允许团队在 Claude 内继续协作处理文档、白板、表格和仪表板。",
+      "hn": {
+        "id": 50443716,
+        "type": "story",
+        "by": "Yorothegoat",
+        "score": 267,
+        "descendants": 202,
+        "time": 1794333307,
+        "comments_url": "https://news.ycombinator.com/item?id=50443716"
+      },
+      "tags": [
+        "AI",
+        "Business"
+      ],
+      "hot_score": 0.86
+    },
+    {
+      "title_en": "AMD's Zen 6 Family: Feeding the Beast",
+      "url": "https://chipsandcheese.com/p/amds-zen-6-family-feeding-the-beast",
+      "title_zh": "AMD Zen 6 家族：喂饱这头巨兽",
+      "is_new": true,
+      "created_display": "Created: Nov 10, 2026 / 09:02 PT",
+      "image_url": "https://substackcdn.com/image/fetch/$s_!R25V!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fff0ea2d4-ea2d-440b-ad51-1bc99a695511_2022x1382.png",
+      "summary_en": "The source excerpt provides only an opening greeting and does not establish technical details about AMD’s Zen 6 family. The piece is presented as an examination of how AMD’s next processor family is supplied with data and compute resources.",
+      "summary_zh": "现有内容只有开场问候，未提供 AMD Zen 6 家族的具体技术细节。标题表明文章将讨论 AMD 下一代处理器家族如何获得数据和计算资源。",
+      "hn": {
+        "id": 50443090,
+        "type": "story",
+        "by": "pixelpoet",
+        "score": 251,
+        "descendants": 106,
+        "time": 1794330152,
+        "comments_url": "https://news.ycombinator.com/item?id=50443090"
+      },
+      "tags": [
+        "Hardware"
+      ],
+      "hot_score": 0.76
+    },
+    {
+      "title_en": "EventSourcingDB 1.3.0 Is Available",
+      "url": "https://www.eventfoundation.io/resources/blog/eventsourcingdb-1-3-0-is-available",
+      "title_zh": "EventSourcingDB 1.3.0 发布",
+      "is_new": true,
+      "created_display": "Created: Nov 11, 2026 / 05:19 PT",
+      "image_url": "https://www.eventfoundation.io/previews/resources/blog/eventsourcingdb-1-3-0-is-available.png",
+      "summary_en": "EventSourcingDB 1.3.0 improves writing, EventQL queries, and reads, bounds every request in time, and includes more than 60 fixes. It adds a v2 API whose response body reports the outcome of every accepted request and assigns each error its own code. The v1 API remains supported until January 31, 2027, while the new v2 API runs alongside it on the same data.",
+      "summary_zh": "EventSourcingDB 1.3.0 提升了写入、EventQL 查询和读取性能，为每个请求设置时间上限，并包含 60 多项修复。新版本加入 v2 API，在响应正文中报告每个已接受请求的结果，并为每种错误分配独立代码。v1 API 将支持到 2027 年 1 月 31 日，v2 API 则可与其并行访问同一份数据。",
+      "hn": {
+        "id": 50453080,
+        "type": "story",
+        "by": "goloroden",
+        "score": 13,
+        "descendants": 0,
+        "time": 1794403185,
+        "comments_url": "https://news.ycombinator.com/item?id=50453080"
+      },
+      "hot_score": 0.72,
+      "tags": [
+        "Programming"
+      ]
+    },
+    {
+      "title_en": "$30M Raised to Redo the CPU",
+      "url": "https://tendrils.co/blog/2026-11-10/30m-raised",
+      "title_zh": "融资 3000 万美元，重做 CPU",
+      "is_new": true,
+      "created_display": "Created: Nov 10, 2026 / 14:14 PT",
+      "image_url": "https://tendrils.co/banner.svg",
+      "summary_en": "Tendrils has completed a $30 million funding round led by Benchmark to rebuild general-purpose computing. The company argues that backward compatibility with sequential, single-core processors has left modern CPUs burdened by cache-coherency protocols and reorder buffers. Tendrils says it wants to move general-purpose computing beyond architectures designed for legacy software.",
+      "summary_zh": "Tendrils 已完成由 Benchmark 领投的 3,000 万美元融资，目标是重构通用计算。该公司认为，为兼容顺序式单核处理器，现代 CPU 承担了复杂的缓存一致性协议和重排序缓冲区等历史负担。Tendrils 表示，希望让通用计算超越为旧软件设计的架构。",
+      "hn": {
+        "id": 50447036,
+        "type": "story",
+        "by": "shioyama",
+        "score": 129,
+        "descendants": 132,
+        "time": 1794348843,
+        "comments_url": "https://news.ycombinator.com/item?id=50447036"
+      },
+      "tags": [
+        "Hardware",
+        "Startups"
+      ],
+      "hot_score": 0.59
+    },
+    {
+      "title_en": "Gen X will outnumber Baby Boomers in US Congress",
+      "url": "https://www.ctinsider.com/columnist/article/gen-x-boomers-congress-2027-22522678.php",
+      "title_zh": "X 世代将在美国国会中超过婴儿潮一代",
+      "is_new": true,
+      "created_display": "Created: Nov 11, 2026 / 05:01 PT",
+      "image_url": "https://www.ctinsider.com/_fs-ch-1T1wmsGaOgGaSxcX/assets/errorIcon.svg",
+      "summary_en": "Gen X is projected to outnumber Baby Boomers in the United States Congress. The comparison concerns the representation of the two generations among members of Congress.",
+      "summary_zh": "预计 X 世代将在美国国会中的人数超过婴儿潮一代。这个比较关注的是两代人在国会议员中的代表人数。",
+      "hn": {
+        "id": 50452895,
+        "type": "story",
+        "by": "heresie-dabord",
+        "score": 12,
+        "descendants": 5,
+        "time": 1794402089,
+        "comments_url": "https://news.ycombinator.com/item?id=50452895"
+      },
+      "hot_score": 0.59,
+      "tags": [
+        "Politics"
+      ]
+    },
+    {
+      "title_en": "LLMs Play Zachtronics' TIS-100",
+      "url": "https://tis-100.wincon.dev/",
+      "title_zh": "大语言模型挑战 Zachtronics 的《TIS-100》",
+      "is_new": true,
+      "created_display": "Created: Nov 10, 2026 / 16:37 PT",
+      "image_url": "https://tis-100.wincon.dev/assets/og-tis100.png?v=aec5b0d1",
+      "summary_en": "Sixteen LLMs competed on TIS-100's community leaderboard after receiving the game and its manual but not the existing leaderboard. They found 133 new frontier points across 18 of the game's 55 puzzles, including three outright cycle records. Human players subsequently improved most of the models' programs within days.",
+      "summary_zh": "16 个大语言模型在获得游戏和说明书、但看不到现有排行榜的情况下，挑战了《TIS-100》社区排行榜。它们在 55 道谜题中的 18 道上创造了 133 个新的前沿成绩，其中包括 3 项绝对周期记录。几天之内，人类玩家又改进了这些模型的大多数程序。",
+      "hn": {
+        "id": 50448340,
+        "type": "story",
+        "by": "fairestvalue",
+        "score": 85,
+        "descendants": 19,
+        "time": 1794357425,
+        "comments_url": "https://news.ycombinator.com/item?id=50448340"
+      },
+      "tags": [
+        "AI",
+        "Gaming"
+      ],
+      "hot_score": 0.49
+    },
+    {
+      "title_en": "Show HN: ThingStudio, Node-RED style programming for microcontrollers",
+      "url": "https://thingstudio.net/",
+      "title_zh": "Show HN：ThingStudio，面向微控制器的 Node-RED 式编程",
+      "is_new": true,
+      "created_display": "Created: Nov 11, 2026 / 03:39 PT",
+      "image_url": "https://thingstudio.net/og.png",
+      "summary_en": "ThingStudio is a local, Apache-2.0-licensed flow-programming environment for microcontrollers. Its drag-and-drop editor generates MicroPython and uploads it to the board, which can then run without the editor. Uploading currently requires an installation because WebSerial is not universally supported.",
+      "summary_zh": "ThingStudio 是一个本地运行、采用 Apache 2.0 许可证的微控制器流程编程环境。它提供拖放式编辑器，生成 MicroPython 并上传到开发板，之后开发板无需编辑器即可运行。由于 WebSerial 尚未得到普遍支持，上传功能目前需要安装软件。",
+      "hn": {
+        "id": 50452230,
+        "type": "story",
+        "by": "mkarliner",
+        "score": 10,
+        "descendants": 1,
+        "time": 1794397155,
+        "comments_url": "https://news.ycombinator.com/item?id=50452230"
+      },
+      "hot_score": 0.32,
+      "tags": [
+        "Show HN",
+        "Programming"
+      ]
+    },
+    {
+      "title_en": "Attention to Mamba: A Recipe for Cross-Architecture Distillation",
+      "url": "https://machinelearning.apple.com/research/attention-mamba-distillation",
+      "title_zh": "从 Attention 到 Mamba：跨架构蒸馏方法",
+      "is_new": true,
+      "created_display": "Created: Nov 11, 2026 / 05:29 PT",
+      "image_url": "https://mlr.cdn-apple.com/media/Home_1200x630_48225d82e9.png",
+      "summary_en": "The work presents a recipe for distilling models across Transformer-style attention architectures and Mamba state-space models. Mamba is described as an alternative to Transformers with lower memory consumption. The listed authors are from Apple's machine learning research group.",
+      "summary_zh": "这项工作提出了一套在 Transformer 式注意力架构与 Mamba 状态空间模型之间进行跨架构蒸馏的方法。文中将 Mamba 描述为一种内存消耗低于 Transformer 的替代方案。作者来自苹果机器学习研究团队。",
+      "hn": {
+        "id": 50453171,
+        "type": "story",
+        "by": "zerop",
+        "score": 6,
+        "descendants": 1,
+        "time": 1794403786,
+        "comments_url": "https://news.ycombinator.com/item?id=50453171"
+      },
+      "hot_score": 0.32,
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "title_en": "Zellij 0.46: built-in terminal, attention inbox, session previews",
+      "url": "https://zellij.dev/news/terminal-inbox-session-previews/",
+      "title_zh": "Zellij 0.46：内置终端、关注收件箱和会话预览",
+      "is_new": true,
+      "created_display": "Created: Nov 11, 2026 / 03:50 PT",
+      "image_url": "https://zellij.dev/img/046-preview.png",
+      "summary_en": "Zellij 0.46.0 adds a built-in terminal, an attention inbox integrated with the desktop, live session previews, and a settings screen. The project remains primarily a terminal multiplexer, while the built-in terminal provides a more complete experience for users who want one.",
+      "summary_zh": "Zellij 0.46.0 新增内置终端、与桌面集成的关注收件箱、实时会话预览和设置界面。该项目仍以终端复用器为核心，同时为希望获得更完整体验的用户提供了内置终端。",
+      "hn": {
+        "id": 50452313,
+        "type": "story",
+        "by": "worble",
+        "score": 9,
+        "descendants": 2,
+        "time": 1794397852,
+        "comments_url": "https://news.ycombinator.com/item?id=50452313"
+      },
+      "hot_score": 0.3,
+      "tags": [
+        "Open Source",
+        "Programming"
+      ]
+    },
+    {
+      "title_en": "Process Explorer for macOS",
+      "url": "https://github.com/microsoft/Procexp-Mac",
+      "title_zh": "适用于 macOS 的 Process Explorer",
+      "is_new": true,
+      "created_display": "Created: Nov 09, 2026 / 14:30 PT",
+      "image_url": "https://opengraph.githubassets.com/52bf598eea0be59f2df1ce145ecf8961dffca17f4a74b035f49487f87932a051/microsoft/Procexp-Mac",
+      "summary_en": "Microsoft’s Process Explorer for Mac is a native macOS implementation of the core Process Explorer experience. It provides a live process tree, module, handle, and thread inspection, per-process properties, system-wide performance graphs, and code-signing checks. The Swift, SwiftUI, and AppKit application uses public macOS APIs, with optional support for a privileged helper.",
+      "summary_zh": "微软的 macOS 版 Process Explorer 是对核心 Process Explorer 体验的原生实现。它提供实时进程树、模块、句柄和线程检查、逐进程属性、系统级性能图表以及代码签名检查。该应用使用 Swift、SwiftUI 和 AppKit 构建，并通过 macOS 公共 API 工作，还可选择使用特权辅助程序。",
+      "hn": {
+        "id": 50433216,
+        "type": "story",
+        "by": "ingve",
+        "score": 228,
+        "descendants": 73,
+        "time": 1794263441,
+        "comments_url": "https://news.ycombinator.com/item?id=50433216"
+      },
+      "tags": [
+        "Programming"
+      ],
+      "hot_score": 0.25
+    },
+    {
+      "title_en": "MacroHands: 3D hands and camera pose from egocentric video",
+      "url": "https://macrodata.co/blog/macrohands-3d-hands-and-camera-pose-from-egocentric-video",
+      "title_zh": "MacroHands：从第一视角视频估计三维手部与相机姿态",
+      "is_new": true,
+      "created_display": "Created: Nov 11, 2026 / 02:56 PT",
+      "image_url": "https://macrodata.co/blog-assets/macrohands-3d-hands-and-camera-pose-from-egocentric-video/assets/thumbnail.jpg?v=ed4f7f4513d9",
+      "summary_en": "MacroHands is a set of 3D hand-tracking and camera-pose models for egocentric video, available in mono and stereo variants. The authors evaluate them against the open-source baselines they tested. The project is motivated by the growing use of head-mounted cameras as a cheaper and more scalable source of robotics training data than robot teleoperation.",
+      "summary_zh": "MacroHands 是一组用于第一视角视频的三维手部追踪和相机姿态模型，提供单目与双目版本。作者将其与测试过的开源基线进行了比较。该项目基于这样一种需求：与机器人远程操作相比，头戴式摄像头可以更低成本、更大规模地提供机器人训练数据。",
+      "hn": {
+        "id": 50451950,
+        "type": "story",
+        "by": "tomaspduarte",
+        "score": 9,
+        "descendants": 0,
+        "time": 1794394614,
+        "comments_url": "https://news.ycombinator.com/item?id=50451950"
+      },
+      "hot_score": 0.23,
+      "tags": [
+        "AI",
+        "Science",
+        "Privacy",
+        "Open Source"
+      ]
+    },
+    {
+      "title_en": "JSON vs. jsonb in Postgres: size and speed, measured",
+      "url": "https://now-next.nl/en/insights/postgresql-json-vs-jsonb-measured/",
+      "title_zh": "Postgres 中的 JSON 与 jsonb：实测大小和速度",
+      "is_new": true,
+      "created_display": "Created: Nov 11, 2026 / 03:59 PT",
+      "image_url": "https://now-next.nl/og/en-insights.jpg",
+      "summary_en": "Measurements on PostgreSQL 17.11 and 18.6 found that jsonb's storage cost depends on document shape and formatting, ranging from 22.6% smaller to 40.9% larger across the tested cases. Reading one key with ->> was 2.7 to 10.6 times faster from jsonb in every timed case. Only jsonb supports containment comparisons, grouping, and containment indexes.",
+      "summary_zh": "对 PostgreSQL 17.11 和 18.6 的测试发现，jsonb 的存储开销取决于文档形状和格式，在所有测试案例中从小 22.6% 到大 40.9% 不等。使用 ->> 读取单个键时，jsonb 在每个计时案例中都快 2.7 至 10.6 倍。只有 jsonb 支持包含关系比较、分组以及包含关系索引。",
+      "hn": {
+        "id": 50452394,
+        "type": "story",
+        "by": "plaur782",
+        "score": 7,
+        "descendants": 0,
+        "time": 1794398360,
+        "comments_url": "https://news.ycombinator.com/item?id=50452394"
+      },
+      "hot_score": 0.23,
+      "tags": [
+        "Data",
+        "Programming"
+      ]
+    },
+    {
+      "title_en": "Why I wrote the BEAM book (2025)",
+      "url": "https://happihacking.com/blog/posts/2025/why_I_wrote_theBEAMBook/",
+      "title_zh": "我为什么写《BEAM 之书》（2025）",
+      "is_new": true,
+      "created_display": "Created: Nov 09, 2026 / 07:41 PT",
+      "image_url": "https://happihacking.com/images/og/thebeambooks.jpg",
+      "summary_en": "The author describes writing The BEAM Book after a decade of maintaining Klarna's core system. They began the project on October 12, 2012, with a four-line DocBook file, and spent the first two weeks mostly creating structure and metadata. The book was intended to help engineers diagnose BEAM pauses that could stall millions of peak-shopping payments.",
+      "summary_zh": "作者回顾了自己在维护 Klarna 核心系统十年后撰写《BEAM 之书》的经历。他于 2012 年 10 月 12 日以一个仅有四行内容的 DocBook 文件启动项目，前两周主要是在搭建结构和更新元数据。这本书旨在帮助工程师诊断可能让高峰购物期数百万笔支付停顿的 BEAM 暂停问题。",
+      "hn": {
+        "id": 50427107,
+        "type": "story",
+        "by": "zenincognito",
+        "score": 160,
+        "descendants": 30,
+        "time": 1794238895,
+        "comments_url": "https://news.ycombinator.com/item?id=50427107"
+      },
+      "tags": [
+        "Programming"
+      ],
+      "hot_score": 0.14
+    },
+    {
+      "title_en": "Hacking the Meta Ray-Ban smartglasses",
+      "url": "https://p0pcycle.com/2026/11/06/hacking-the-meta-ray-ban-smartglasses/",
+      "title_zh": "破解 Meta Ray-Ban 智能眼镜",
+      "is_new": true,
+      "created_display": "Created: Nov 07, 2026 / 09:19 PT",
+      "image_url": "https://p0pcycle.com/wp-content/uploads/2026/11/image-3.png",
+      "summary_en": "In July, the author examined the previous year's Pwn2Own targets while waiting for the 2026 rules. They unexpectedly achieved arbitrary code execution on the Meta Ray-Ban glasses. The glasses were no longer in the wearables category at that time.",
+      "summary_zh": "今年 7 月，在等待 2026 年 Pwn2Own 规则期间，作者研究了前一年的目标设备。他意外地在 Meta Ray-Ban 眼镜上实现了任意代码执行。当时，这款眼镜已经不再属于可穿戴设备类别。",
+      "hn": {
+        "id": 50406224,
+        "type": "story",
+        "by": "moooooky",
+        "score": 137,
+        "descendants": 46,
+        "time": 1794071942,
+        "comments_url": "https://news.ycombinator.com/item?id=50406224"
+      },
+      "tags": [
+        "Security"
+      ],
+      "hot_score": 0.04
+    },
+    {
+      "title_en": "A Compendium of Abandoned Greenhouses",
+      "url": "https://www.messynessychic.com/2015/01/15/a-compendium-of-abandoned-greenhouses/",
+      "title_zh": "废弃温室图鉴",
+      "is_new": true,
+      "created_display": "Created: Nov 08, 2026 / 08:30 PT",
+      "image_url": "https://www.messynessychic.com/wp-content/uploads/2015/01/abandonedgreenhouse1.jpg",
+      "summary_en": "This collection documents abandoned greenhouses photographed around the world. It considers why private and commercial glasshouses have been left behind despite continued demand for food and plants. The collection includes sites that only appear abandoned, such as a castle greenhouse where a gardener still works.",
+      "summary_zh": "这份图集记录了世界各地被拍摄下来的废弃温室。它探讨了私人和商业温室为何会被遗弃，尽管人们仍然需要食物和植物。图集中也包括一些看似废弃但仍有人维护的地点，例如一座仍有园丁工作的城堡温室。",
+      "hn": {
+        "id": 50414657,
+        "type": "story",
+        "by": "ohjeez",
+        "score": 67,
+        "descendants": 7,
+        "time": 1794155404,
+        "comments_url": "https://news.ycombinator.com/item?id=50414657"
+      },
+      "hot_score": 0.03,
+      "tags": [
+        "Culture"
+      ]
+    },
+    {
+      "title_en": "A ZIP-style Prolog VM for trilog",
+      "url": "https://github.com/no382001/zipc",
+      "title_zh": "用于 trilog 的 ZIP 风格 Prolog 虚拟机",
+      "is_new": true,
+      "created_display": "Created: Nov 09, 2026 / 10:10 PT",
+      "image_url": "https://opengraph.githubassets.com/b712e6609bc37ac2b28998d293ffc49b291121444998da11e8334a8da82e54b0/no382001/zipc",
+      "summary_en": "This work-in-progress project implements a ZIP-style Prolog virtual machine and a Prolog-to-ZIP compiler in C. Its goal is to provide enough of a VM to compare it with the current trilog runtime. ZIP is the abstract machine described in the 1984 book Design and Simulation of a Sequential Prolog Machine.",
+      "summary_zh": "这个进行中的项目用 C 实现了 ZIP 风格的 Prolog 虚拟机，以及从 Prolog 到 ZIP 的编译器。其目标是先搭建足够完整的虚拟机，以便与当前的 trilog 运行时进行比较。ZIP 是 1984 年《Design and Simulation of a Sequential Prolog Machine》中描述的抽象机器。",
+      "hn": {
+        "id": 50429210,
+        "type": "story",
+        "by": "triska",
+        "score": 31,
+        "descendants": 10,
+        "time": 1794247830,
+        "comments_url": "https://news.ycombinator.com/item?id=50429210"
+      },
+      "hot_score": 0.03,
+      "tags": [
+        "Programming"
+      ]
+    },
+    {
+      "title_en": "Make this forward pass as fast as possible",
+      "url": "https://ianbarber.blog/2026/11/09/make-this-forward-pass-as-fast-as-possible/",
+      "title_zh": "让这次前向传播尽可能快",
+      "is_new": true,
+      "created_display": "Created: Nov 09, 2026 / 20:10 PT",
+      "image_url": "https://s0.wp.com/_si/?t=eyJpbWciOiJodHRwczpcL1wvaTAud3AuY29tXC9pYW5iYXJiZXIuYmxvZ1wvd3AtY29udGVudFwvdXBsb2Fkc1wvMjAyNFwvMTFcL2Nyb3BwZWQtbG9nby1yZW1vdmViZy1wcmV2aWV3LnBuZz9maXQ9NDI1JTJDNDI1JnNzbD0xIiwidHh0IjoiSWFuXHUyMDE5cyBCbG9nIiwidGVtcGxhdGUiOiJlZGdlIiwiZm9udCI6IiIsImJsb2dfaWQiOjIzODYzMzU2NX0.fq3U-V5MT1pTFs8OrXpT6sb83b9JfIPBwAcqO8AHRQQMQ",
+      "summary_en": "The post considers whether machine-learning agents can optimize models directly instead of relying on traditional ML compilers. It cites Flapping Airplanes' megakernel framework for efficient forward and backward passes and Hyperstition's Hyperkernel for generating high-performance kernels for different models. The comparison places these systems alongside the compiler work traditionally associated with projects such as TVM.",
+      "summary_zh": "文章探讨机器学习代理是否可以直接优化模型，从而取代传统的机器学习编译器。文中提到 Flapping Airplanes 用于高效执行前向和反向传播的 megakernel 框架，以及 Hyperstition 用于为不同模型生成高性能内核的 Hyperkernel。文章还将这些系统与 TVM 等项目长期开展的编译器工作进行了比较。",
+      "hn": {
+        "id": 50435962,
+        "type": "story",
+        "by": "matt_d",
+        "score": 21,
+        "descendants": 2,
+        "time": 1794283836,
+        "comments_url": "https://news.ycombinator.com/item?id=50435962"
+      },
+      "hot_score": 0.03,
+      "tags": [
+        "AI",
+        "Programming"
+      ]
+    },
+    {
+      "title_en": "Small-Grid Wraparound Cellular Automata",
+      "url": "https://justismills.substack.com/p/small-grid-wraparound-cellular-automata",
+      "title_zh": "小网格环绕元胞自动机",
+      "is_new": true,
+      "created_display": "Created: Nov 10, 2026 / 04:00 PT",
+      "image_url": null,
+      "summary_en": "The piece concerns cellular automata running on small grids with wraparound boundaries. In such a grid, activity leaving one edge re-enters from the opposite edge.",
+      "summary_zh": "这篇内容讨论运行在小型网格上的环绕元胞自动机。在这种网格中，从一条边离开的状态会从相对的另一条边重新进入。",
+      "hn": {
+        "id": 50439088,
+        "type": "story",
+        "by": "surprisetalk",
+        "score": 14,
+        "descendants": 0,
+        "time": 1794312008,
+        "comments_url": "https://news.ycombinator.com/item?id=50439088"
+      },
+      "hot_score": 0.03,
+      "tags": [
+        "Science"
+      ]
+    },
+    {
+      "title_en": "Why Amstrad chose the 3\" drives",
+      "url": "https://www.cpcwiki.eu/forum/amstrad-cpc-hardware/why-amstrad-chose-the-3-drives/",
+      "title_zh": "Amstrad 为何选择 3 英寸磁盘驱动器",
+      "is_new": true,
+      "created_display": "Created: Nov 06, 2026 / 06:56 PT",
+      "image_url": null,
+      "summary_en": "It focuses on the hardware decision behind that storage format.",
+      "summary_zh": "文章探讨 Amstrad 为其计算机选择 3 英寸磁盘驱动器的原因，重点是这一存储格式背后的硬件决策。",
+      "hn": {
+        "id": 50393070,
+        "type": "story",
+        "by": "Skyfall106",
+        "score": 74,
+        "descendants": 29,
+        "time": 1793976967,
+        "comments_url": "https://news.ycombinator.com/item?id=50393070"
+      },
+      "hot_score": 0.01,
+      "tags": [
+        "Hardware"
+      ]
+    },
+    {
+      "title_en": "Peer-to-peer WebRTC connections with built-in signaling and discovery",
+      "url": "https://github.com/lukks/like-webrtc",
+      "title_zh": "支持内置信令与发现机制的点对点 WebRTC 连接",
+      "is_new": true,
+      "created_display": "Created: Nov 08, 2026 / 12:10 PT",
+      "image_url": "https://opengraph.githubassets.com/7e0ab3d18784f7527d002555211f9a5d54e2450ff877cc940cfac9640ed6c4ae/LuKks/like-webrtc",
+      "summary_en": "This project provides peer-to-peer WebRTC connections with built-in signaling and peer discovery. It works across browsers, Node.js, and React Native.",
+      "summary_zh": "这个项目提供带有内置信令和节点发现功能的点对点 WebRTC 连接。它支持浏览器、Node.js 和 React Native。",
+      "hn": {
+        "id": 50416640,
+        "type": "story",
+        "by": "LuKks",
+        "score": 25,
+        "descendants": 7,
+        "time": 1794168606,
+        "comments_url": "https://news.ycombinator.com/item?id=50416640"
+      },
+      "hot_score": 0.01,
+      "tags": [
+        "Programming",
+        "Web"
+      ]
+    }
+  ]
+}
