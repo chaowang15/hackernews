@@ -5,7 +5,7 @@
     <link>https://chaowang15.github.io/hackernews/</link>
     <description>Curated daily digest of top Hacker News stories with AI-generated summaries, tags, and bilingual translations.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 11 Nov 2026 03:57:02 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 04:03:10 +0000</lastBuildDate>
     <generator>Hacker News Daily RSS Builder</generator>
     <atom:link href="https://chaowang15.github.io/hackernews/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
@@ -84,7 +84,7 @@
       <category>Data</category>
       <description>&lt;p&gt;The site presents a large database of paper airplanes with step-by-step video folding tutorials. One World Record prototype is reported to fly more than 300 feet. The Unite model holds a world record for time aloft at 31.2 seconds.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;该网站提供大型纸飞机数据库，并为每种机型配备分步折叠视频教程。据称，一款世界纪录原型机可以飞行超过 300 英尺。Unite 机型则以 31.2 秒的滞空时间保持世界纪录。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 1204 · 💬 167 · Education · Entertainment · Data&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 1205 · 💬 167 · Education · Entertainment · Data&lt;/small&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50424581&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/10/top_stories_11102026#story-50424581&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
@@ -150,6 +150,19 @@
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50339288&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/04/top_stories_11042026#story-50339288&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Claude Fable 5.2 and Mythos 5.2</title>
+      <link>https://www.anthropic.com/claude-fable-and-mythos-5-2</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50429068</guid>
+      <dc:creator>lairv</dc:creator>
+      <pubDate>Mon, 09 Nov 2026 18:01:10 +0000</pubDate>
+      <category>AI</category>
+      <category>Finance</category>
+      <description>&lt;p&gt;Anthropic has introduced Claude Fable 5.2 and Claude Mythos 5.2 for demanding technical tasks. The company says the models improve coding, reasoning, and vision, and that prerelease testing helped engineers complete software migrations, design three working electronic devices, advance robotics evaluations, and formalize a proof of Fermat's Last Theorem. Fable 5.2 is positioned as a new high point for coding, finance, and science.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Anthropic 推出了面向高难度技术任务的 Claude Fable 5.2 和 Claude Mythos 5.2。该公司称，这些模型在编程、推理和视觉方面有所提升，并在预发布测试中帮助工程师完成软件迁移、从零设计三种可工作的电子设备、推进机器人评测，以及形式化费马大定理的证明。Fable 5.2 被定位为编程、金融和科学领域的新标杆。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 882 · 💬 1008 · AI · Finance&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50429068&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/10/top_stories_11102026#story-50429068&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Every Mac comes with an (undocumented) family member classifier</title>
       <link>https://8rank.ai/game/apple-intelligence-personal-knowledge-graph</link>
       <guid isPermaLink="true">https://news.ycombinator.com/item?id=50403097</guid>
@@ -209,7 +222,7 @@
       <category>Hardware</category>
       <description>&lt;p&gt;The author describes a decade-long home-automation rule: no core function in the house should depend on a vendor’s server. As a result, the home continues operating when the internet goes down. The post presents the other automation rules and two related talks that grew out of this principle.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;作者介绍了坚持十年的家庭自动化原则：家中的核心功能不应依赖厂商服务器。因此，即使互联网中断，房屋仍能继续运行。文章还整理了由这一原则延伸出的其他自动化规则和两场相关演讲。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 769 · 💬 279 · Privacy · Hardware&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 770 · 💬 279 · Privacy · Hardware&lt;/small&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50441707&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/10/top_stories_11102026#story-50441707&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
@@ -251,6 +264,18 @@
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50355251&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/04/top_stories_11042026#story-50355251&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>USPS now offers official ZIP Code boundary polygons</title>
+      <link>https://postalpro.usps.com/zcb</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50431058</guid>
+      <dc:creator>munro</dc:creator>
+      <pubDate>Mon, 09 Nov 2026 19:58:59 +0000</pubDate>
+      <category>Data</category>
+      <description>&lt;p&gt;The USPS has released a national ZIP Code boundary map built from delivery-address and location data. The boundaries can change as delivery locations are added or modified, and the data is updated quarterly with limited distribution to subsidiaries and partners. The dataset is intended for mapping, mailing, marketing, insurance, real estate, logistics, navigation, and transportation applications.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;美国邮政服务（USPS）发布了基于投递地址和位置数据制作的全国 ZIP Code 边界地图。随着投递地点新增或变更，边界可能发生变化；数据每季度更新一次，并仅向子公司和合作伙伴有限提供。该数据可用于地图、邮寄、营销、保险、房地产、物流、导航和交通等行业。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 720 · 💬 388 · Data&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50431058&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/10/top_stories_11102026#story-50431058&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>.name Grandfathered</title>
       <link>https://neil.fraser.name/news/2026/11/10/</link>
       <guid isPermaLink="true">https://news.ycombinator.com/item?id=50442736</guid>
@@ -260,8 +285,22 @@
       <category>Legal</category>
       <description>&lt;p&gt;Verisign has withdrawn its plan to terminate 22,000 .name domain names and email redirects after a prolonged campaign. New registrations for third-level .name domains will close, but all existing domains and redirects will remain indefinitely. The reversal followed efforts by domain owners, lawyers, and supporters to challenge the plan through ICANN.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;经过一场旷日持久的抗争，Verisign 撤回了终止 22,000 个 .name 域名及其邮件转发的计划。虽然 .name 三级域名将停止新注册，但现有域名和邮件转发服务将无限期保留。这一转变源于域名所有者、律师和支持者通过 ICANN 发起的共同争取。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 718 · 💬 168 · Web · Legal&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 719 · 💬 168 · Web · Legal&lt;/small&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50442736&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/10/top_stories_11102026#story-50442736&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Google Gemini routes personal Drive files and emails to human annotators</title>
+      <link>https://github.com/thisisme6598/gemini_files/</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50429426</guid>
+      <dc:creator>gf74918</dc:creator>
+      <pubDate>Mon, 09 Nov 2026 18:24:38 +0000</pubDate>
+      <category>Privacy</category>
+      <category>Security</category>
+      <category>AI</category>
+      <description>&lt;p&gt;Updated Google guidance reportedly confirms that content from connected Drive and email accounts can enter human-review pipelines for Gemini. This reverses a 2023 promise that personal Gmail, Docs, and Drive content would not be seen by human reviewers. Google now warns users not to connect apps containing confidential information they would not want a reviewer to see.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Google 更新后的说明据称确认，连接到 Gemini 的 Drive 和电子邮件账户内容可能进入人工审核流程。这改变了 Google 在 2023 年作出的承诺——当时公司表示个人 Gmail、Docs 和 Drive 内容不会被人工审核员看到。Google 目前警告用户，不要连接包含不希望审核员看到的机密信息的应用。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 716 · 💬 147 · Privacy · Security · AI&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50429426&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/10/top_stories_11102026#story-50429426&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Tell HN: Gemini trains on chat history, even for subscribers (personal accounts)</title>
@@ -431,6 +470,18 @@
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50439193&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/10/top_stories_11102026#story-50439193&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system</title>
+      <link>https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50427362</guid>
+      <dc:creator>ocd</dc:creator>
+      <pubDate>Mon, 09 Nov 2026 16:00:45 +0000</pubDate>
+      <category>Finance</category>
+      <description>&lt;p&gt;Payments Canada announced the launch of Canada’s Real-Time Rail, a national payment system for instant clearing and settlement. Participating financial institutions, credit unions, and payment service providers can exchange, clear, and settle payments securely in real time, 24 hours a day. The system also provides real-time cash-flow visibility and data-rich messaging through existing banking and payment channels.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Payments Canada 宣布推出加拿大实时铁路（RTR），这是一个支持即时清算和结算的全国性支付系统。参与其中的金融机构、信用合作社和支付服务商可以全年全天候安全地实时交换、清算和结算付款。该系统还通过现有银行和支付渠道提供实时现金流可见性以及包含丰富数据的消息传递。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 579 · 💬 342 · Finance&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50427362&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/10/top_stories_11102026#story-50427362&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>AMD expects to outsell Intel in Q4 for the first time in history</title>
       <link>https://www.tomshardware.com/pc-components/cpus/amd-expects-to-outsell-intel-in-q4-for-the-first-time-in-history-usd17b-guidance-would-exceed-intels-projections</link>
       <guid isPermaLink="true">https://news.ycombinator.com/item?id=50367125</guid>
@@ -571,6 +622,18 @@
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50406563&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/08/top_stories_11082026#story-50406563&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>E-means: Outperforming k-means in one-tenth the epochs</title>
+      <link>https://e-means.github.io/</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50429734</guid>
+      <dc:creator>porridgeraisin</dc:creator>
+      <pubDate>Mon, 09 Nov 2026 18:45:43 +0000</pubDate>
+      <category>Data</category>
+      <description>&lt;p&gt;E-means is presented as an alternative to Lloyd's k-means algorithm. Across a broad range of scales and datasets, it reached lower test loss than Lloyd's method in 1.2 to 3 epochs, compared with 25 epochs. The reported end-to-end speedup is 10–45× over Flash-KMeans on GPUs and 8–15× over Faiss on CPUs.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;E-means 被介绍为 Lloyd k-means 算法的一种替代方案。在多种规模和数据集上，E-means 用 1.2 至 3 个训练轮次就达到了低于 Lloyd 方法的测试损失，而后者需要 25 个轮次。报告称，端到端速度相比 GPU 上的 Flash-KMeans 提升 10–45 倍，相比 CPU 上的 Faiss 提升 8–15 倍。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 494 · 💬 78 · Data&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50429734&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/10/top_stories_11102026#story-50429734&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>A thousand fewer paths to root</title>
       <link>https://openai.com/index/a-thousand-fewer-paths-to-root/</link>
       <guid isPermaLink="true">https://news.ycombinator.com/item?id=50372929</guid>
@@ -582,71 +645,6 @@
 &lt;p&gt;&lt;em&gt;OpenAI 构建了一个自主流水线，用于发现、验证并为 Linux 内核中的 948 个本地提权漏洞生成补丁。在一次运行中，该系统借助其网络安全模型完成了漏洞验证和补丁生成，API 成本为 120 万美元。这项工作表明，部分安全研究正逐渐可以作为系统化的自动流程来执行。&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;▲ 478 · 💬 356 · AI · Security&lt;/small&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50372929&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/05/top_stories_11052026#story-50372929&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Show HN: HackerTV – HN's most-recommended Youtube videos as 24/7 TV channels</title>
-      <link>https://hackertv.org</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50346755</guid>
-      <dc:creator>dsalzman</dc:creator>
-      <pubDate>Tue, 03 Nov 2026 01:18:09 +0000</pubDate>
-      <category>Show HN</category>
-      <category>Entertainment</category>
-      <category>AI</category>
-      <category>Space</category>
-      <description>&lt;p&gt;HackerTV turns YouTube videos frequently recommended in Hacker News comments into 24/7 topic channels. It includes channels such as DEVTV, SOLDER, RETRO, and ORBIT, along with an HN Prime channel containing the top 400 videos. The project was built in a few hours with Claude Code and also includes a music channel and a late-night channel.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;HackerTV 将 Hacker News 评论中经常被推荐的 YouTube 视频整理成全天候主题频道。它包含 DEVTV、SOLDER、RETRO 和 ORBIT 等频道，以及收录前 400 个视频的 HN Prime 频道。项目用 Claude Code 在几小时内完成，还提供音乐频道和深夜频道。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 466 · 💬 80 · Show HN · Entertainment · AI · Space&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50346755&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/04/top_stories_11042026#story-50346755&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Declarative Dragging</title>
-      <link>https://declarative-dragging.github.io/</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50368481</guid>
-      <dc:creator>smusamashah</dc:creator>
-      <pubDate>Wed, 04 Nov 2026 17:05:07 +0000</pubDate>
-      <category>Programming</category>
-      <description>&lt;p&gt;Declarative dragging proposes that interface authors define which future model states an element may reach by dragging. This makes a diagram element draggable by describing its allowed outcomes rather than implementing dragging behavior directly. The work was named the Best Paper at UIST 2026.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;“声明式拖拽”提出，界面作者可以通过指定元素拖动后允许到达的模型状态来定义拖拽行为。这样，创建可拖动的图表元素不必直接实现拖拽逻辑，而是描述其允许的结果。该研究获得了 UIST 2026 最佳论文奖。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 465 · 💬 62 · Programming&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50368481&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/08/top_stories_11082026#story-50368481&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Nvidia Board of Directors Is Investigating Jensen Huang</title>
-      <link>https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50416801</guid>
-      <dc:creator>vincentchau</dc:creator>
-      <pubDate>Sun, 08 Nov 2026 20:26:43 +0000</pubDate>
-      <category>Business</category>
-      <category>Legal</category>
-      <description>&lt;p&gt;Nvidia’s board has initiated an independent investigation after reports that founder and CEO Jensen Huang was targeted by a foreign intelligence effort. A committee of independent directors will oversee the investigation with assistance from outside independent counsel. The available statement does not provide further findings.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;英伟达董事会在相关报道指出创始人兼 CEO 黄仁勋成为外国情报行动目标后，启动了独立调查。调查将由独立董事组成的委员会负责，并由外部独立法律顾问协助。现有声明没有提供进一步调查结论。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 458 · 💬 345 · Business · Legal&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50416801&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/08/top_stories_11082026#story-50416801&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Motorola Signature 27 with GrapheneOS support</title>
-      <link>https://motorolanews.com/motorola-signature-27-2/</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50380810</guid>
-      <dc:creator>monneyboi</dc:creator>
-      <pubDate>Thu, 05 Nov 2026 16:01:34 +0000</pubDate>
-      <category>AI</category>
-      <category>Hardware</category>
-      <description>&lt;p&gt;Motorola has introduced the motorola signature 27 as its most advanced flagship smartphone to date. The phone features a DXOMARK Gold Label camera system, an Extreme AMOLED Duo Tandem display, a Snapdragon 8 Elite Extreme Gen 6 platform, and Bang &amp; Olufsen audio. Motorola says it includes the company's most advanced camera system and next-generation AI capabilities.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;摩托罗拉推出了迄今最先进的旗舰手机 motorola signature 27。该机配备获徕卡？&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 458 · 💬 333 · AI · Hardware&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50380810&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/05/top_stories_11052026#story-50380810&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Every Windows 11 app should kill Electron, and Discord just showed why</title>
-      <link>https://www.windowslatest.com/2026/11/06/every-windows-11-app-should-kill-electron-and-discord-just-showed-why-no-starting-screen-and-70-less-ram-even-with-two-accounts-signed-in/</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50403507</guid>
-      <dc:creator>thunderbong</dc:creator>
-      <pubDate>Sat, 07 Nov 2026 11:11:15 +0000</pubDate>
-      <category>Programming</category>
-      <description>&lt;p&gt;Discord's new Rust client loads the friends list before the existing Electron app gets past its loading screen and skips the Starting screen. In a cold-start test, the Rust-based client used 290.2 MB of RAM with two accounts signed in. Discord employees confirmed that both applications were launched from a cold start, while a video showing the comparison received 2.3 million views at the time reported.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Discord 的新 Rust 客户端在现有 Electron 客户端还没通过加载界面时就已载入好友列表，并跳过了 Starting 界面。在冷启动测试中，Rust 客户端同时登录两个账号时占用 290.2 MB 内存。Discord 员工确认两款应用都是冷启动，该对比视频当时已获得 230 万次观看。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 457 · 💬 490 · Programming&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50403507&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/08/top_stories_11082026#story-50403507&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
