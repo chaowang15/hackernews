@@ -5,7 +5,7 @@
     <link>https://chaowang15.github.io/hackernews/</link>
     <description>Curated daily digest of top Hacker News stories with AI-generated summaries, tags, and bilingual translations.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 10 Nov 2026 21:16:46 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 03:57:02 +0000</lastBuildDate>
     <generator>Hacker News Daily RSS Builder</generator>
     <atom:link href="https://chaowang15.github.io/hackernews/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
@@ -84,7 +84,7 @@
       <category>Data</category>
       <description>&lt;p&gt;The site presents a large database of paper airplanes with step-by-step video folding tutorials. One World Record prototype is reported to fly more than 300 feet. The Unite model holds a world record for time aloft at 31.2 seconds.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;该网站提供大型纸飞机数据库，并为每种机型配备分步折叠视频教程。据称，一款世界纪录原型机可以飞行超过 300 英尺。Unite 机型则以 31.2 秒的滞空时间保持世界纪录。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 1175 · 💬 167 · Education · Entertainment · Data&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 1204 · 💬 167 · Education · Entertainment · Data&lt;/small&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50424581&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/10/top_stories_11102026#story-50424581&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
@@ -200,6 +200,19 @@
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50406670&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/08/top_stories_11082026#story-50406670&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Smart home devices should work without the internet</title>
+      <link>https://docodethatmatters.com/home-automation-overnight-success/</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50441707</guid>
+      <dc:creator>skittleson</dc:creator>
+      <pubDate>Tue, 10 Nov 2026 15:25:20 +0000</pubDate>
+      <category>Privacy</category>
+      <category>Hardware</category>
+      <description>&lt;p&gt;The author describes a decade-long home-automation rule: no core function in the house should depend on a vendor’s server. As a result, the home continues operating when the internet goes down. The post presents the other automation rules and two related talks that grew out of this principle.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;作者介绍了坚持十年的家庭自动化原则：家中的核心功能不应依赖厂商服务器。因此，即使互联网中断，房屋仍能继续运行。文章还整理了由这一原则延伸出的其他自动化规则和两场相关演讲。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 769 · 💬 279 · Privacy · Hardware&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50441707&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/10/top_stories_11102026#story-50441707&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Goodbye Claude, hello Pi</title>
       <link>https://caleb.software/posts/claude-to-pi.html</link>
       <guid isPermaLink="true">https://news.ycombinator.com/item?id=50410107</guid>
@@ -236,6 +249,19 @@
 &lt;p&gt;&lt;em&gt;作者称，在笔记本上运行的 Qwen 3.8 27B 也能解读神经网络的原始权重。这延续了“权重空间编程”的研究：语言模型可以分析并修改由浮点数表示的模型权重。此前的实验展示了前沿模型的这类能力，包括研究归于 GPT-6 Astra 的能力。&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;▲ 725 · 💬 212 · AI&lt;/small&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50355251&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/04/top_stories_11042026#story-50355251&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>.name Grandfathered</title>
+      <link>https://neil.fraser.name/news/2026/11/10/</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50442736</guid>
+      <dc:creator>p4bl0</dc:creator>
+      <pubDate>Tue, 10 Nov 2026 16:37:44 +0000</pubDate>
+      <category>Web</category>
+      <category>Legal</category>
+      <description>&lt;p&gt;Verisign has withdrawn its plan to terminate 22,000 .name domain names and email redirects after a prolonged campaign. New registrations for third-level .name domains will close, but all existing domains and redirects will remain indefinitely. The reversal followed efforts by domain owners, lawyers, and supporters to challenge the plan through ICANN.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;经过一场旷日持久的抗争，Verisign 撤回了终止 22,000 个 .name 域名及其邮件转发的计划。虽然 .name 三级域名将停止新注册，但现有域名和邮件转发服务将无限期保留。这一转变源于域名所有者、律师和支持者通过 ICANN 发起的共同争取。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 718 · 💬 168 · Web · Legal&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50442736&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/10/top_stories_11102026#story-50442736&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Tell HN: Gemini trains on chat history, even for subscribers (personal accounts)</title>
@@ -299,7 +325,7 @@
       <category>AI</category>
       <description>&lt;p&gt;Two Amazon engineers replaced Claude Sonnet 4.6 with Strands Decider in a major internal ticketing system. Sonnet had provided a balance of intelligence and cost, but Strands Decider reportedly performed equally well at 98% lower cost. The change is expected to save millions of dollars in annual token expenses.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;亚马逊的两名工程师在一个大型内部工单系统中，用 Strands Decider 替代了 Claude Sonnet 4.6。Sonnet 原本在智能程度和成本之间取得了平衡，但据称 Strands Decider 在表现相当的情况下将成本降低了 98%。这一调整预计每年可节省数百万美元的 token 费用。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 668 · 💬 233 · Finance · Business · AI&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 693 · 💬 242 · Finance · Business · AI&lt;/small&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50436640&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/10/top_stories_11102026#story-50436640&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
@@ -392,6 +418,19 @@
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50407882&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/08/top_stories_11082026#story-50407882&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>AlphaProof Code</title>
+      <link>https://deepmind.google/blog/introducing-alphaproof-code/</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50439193</guid>
+      <dc:creator>ilreb</dc:creator>
+      <pubDate>Tue, 10 Nov 2026 12:11:12 +0000</pubDate>
+      <category>Security</category>
+      <category>Programming</category>
+      <description>&lt;p&gt;AlphaProof Code agents generated more than three million lines of machine-checked Lean proof. The proofs verify Signal’s core cryptographic protections down to machine instructions. The result demonstrates the agents’ use in formal verification of security-critical software.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;AlphaProof Code 代理生成了超过 300 万行经过机器检查的 Lean 证明。这些证明将 Signal 的核心加密防护验证到了机器指令级别。该成果展示了这类代理在安全关键软件形式化验证中的用途。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 590 · 💬 179 · Security · Programming&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50439193&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/10/top_stories_11102026#story-50439193&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>AMD expects to outsell Intel in Q4 for the first time in history</title>
       <link>https://www.tomshardware.com/pc-components/cpus/amd-expects-to-outsell-intel-in-q4-for-the-first-time-in-history-usd17b-guidance-would-exceed-intels-projections</link>
       <guid isPermaLink="true">https://news.ycombinator.com/item?id=50367125</guid>
@@ -456,19 +495,6 @@
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50406111&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/08/top_stories_11082026#story-50406111&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>AlphaProof Code</title>
-      <link>https://deepmind.google/blog/introducing-alphaproof-code/</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50439193</guid>
-      <dc:creator>ilreb</dc:creator>
-      <pubDate>Tue, 10 Nov 2026 12:11:12 +0000</pubDate>
-      <category>Security</category>
-      <category>Programming</category>
-      <description>&lt;p&gt;AlphaProof Code agents generated more than three million lines of machine-checked Lean proof. The proofs verify Signal’s core cryptographic protections down to machine instructions. The result demonstrates the agents’ use in formal verification of security-critical software.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;AlphaProof Code 代理生成了超过 300 万行经过机器检查的 Lean 证明。这些证明将 Signal 的核心加密防护验证到了机器指令级别。该成果展示了这类代理在安全关键软件形式化验证中的用途。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 531 · 💬 168 · Security · Programming&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50439193&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/10/top_stories_11102026#story-50439193&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>Nvidia CEO Jensen Huang's letter to staff about affair</title>
       <link>https://nvidianews.nvidia.com/news/a-message-to-our-company</link>
       <guid isPermaLink="true">https://news.ycombinator.com/item?id=50418016</guid>
@@ -507,19 +533,6 @@
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50366117&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/05/top_stories_11052026#story-50366117&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>.name Grandfathered</title>
-      <link>https://neil.fraser.name/news/2026/11/10/</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50442736</guid>
-      <dc:creator>p4bl0</dc:creator>
-      <pubDate>Tue, 10 Nov 2026 16:37:44 +0000</pubDate>
-      <category>Web</category>
-      <category>Legal</category>
-      <description>&lt;p&gt;Verisign has withdrawn its plan to terminate 22,000 .name domain names and email redirects after a prolonged campaign. New registrations for third-level .name domains will close, but all existing domains and redirects will remain indefinitely. The reversal followed efforts by domain owners, lawyers, and supporters to challenge the plan through ICANN.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;经过一场旷日持久的抗争，Verisign 撤回了终止 22,000 个 .name 域名及其邮件转发的计划。虽然 .name 三级域名将停止新注册，但现有域名和邮件转发服务将无限期保留。这一转变源于域名所有者、律师和支持者通过 ICANN 发起的共同争取。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 510 · 💬 99 · Web · Legal&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50442736&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/10/top_stories_11102026#story-50442736&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>Cuban: Facebook knowingly runs AI deepfake scam ads; docs say $16B fraud revenue</title>
       <link>https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html</link>
       <guid isPermaLink="true">https://news.ycombinator.com/item?id=50385870</guid>
@@ -556,19 +569,6 @@
 &lt;p&gt;&lt;em&gt;微软研究院的 AI Frontiers 团队即将解散。&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;▲ 500 · 💬 309 · AI&lt;/small&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50406563&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/08/top_stories_11082026#story-50406563&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Smart home devices should work without the internet</title>
-      <link>https://docodethatmatters.com/home-automation-overnight-success/</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50441707</guid>
-      <dc:creator>skittleson</dc:creator>
-      <pubDate>Tue, 10 Nov 2026 15:25:20 +0000</pubDate>
-      <category>Privacy</category>
-      <category>Hardware</category>
-      <description>&lt;p&gt;The author describes a decade-long home-automation rule: no core function in the house should depend on a vendor’s server. As a result, the home continues operating when the internet goes down. The post presents the other automation rules and two related talks that grew out of this principle.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;作者介绍了坚持十年的家庭自动化原则：家中的核心功能不应依赖厂商服务器。因此，即使互联网中断，房屋仍能继续运行。文章还整理了由这一原则延伸出的其他自动化规则和两场相关演讲。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 483 · 💬 176 · Privacy · Hardware&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50441707&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/10/top_stories_11102026#story-50441707&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>A thousand fewer paths to root</title>
