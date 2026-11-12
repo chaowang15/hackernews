@@ -5,7 +5,7 @@
     <link>https://chaowang15.github.io/hackernews/</link>
     <description>Curated daily digest of top Hacker News stories with AI-generated summaries, tags, and bilingual translations.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 12 Nov 2026 02:07:19 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 16:06:47 +0000</lastBuildDate>
     <generator>Hacker News Daily RSS Builder</generator>
     <atom:link href="https://chaowang15.github.io/hackernews/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
@@ -35,31 +35,16 @@
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50385272&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/08/top_stories_11082026#story-50385272&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>AI is forcing us to pay off 40 years of technical debt</title>
-      <link>https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50364336</guid>
-      <dc:creator>pseudolus</dc:creator>
-      <pubDate>Wed, 04 Nov 2026 11:52:17 +0000</pubDate>
-      <category>AI</category>
-      <category>Security</category>
-      <description>&lt;p&gt;AI is accelerating both attacks and defenses in cybersecurity. That acceleration is exposing painful technical debt in fragile legacy systems built up over roughly four decades. The pressure from AI is therefore forcing organizations to address weaknesses that older systems had left unresolved.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;AI 正在同时加速网络攻击和防御。这样的加速暴露了脆弱遗留系统中积累约 40 年的严重技术债。AI 带来的压力因此迫使组织处理旧系统长期遗留下来的弱点。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 1271 · 💬 743 · AI · Security&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50364336&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/05/top_stories_11052026#story-50364336&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Residential proxies detected on White House network</title>
-      <link>https://layer3intel.com/blog/residential-proxies-white-house-network</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50371246</guid>
-      <dc:creator>Rasbora</dc:creator>
-      <pubDate>Wed, 04 Nov 2026 20:45:18 +0000</pubDate>
-      <category>Security</category>
-      <category>Privacy</category>
-      <category>Politics</category>
-      <description>&lt;p&gt;Residential proxy traffic exited the White House network 236 times over 30 days, passing through 28 public proxy services. The network, AS2650, is registered to the Executive Office of the President, which hosts the White House network. Residential proxies route customers’ traffic through everyday devices so it appears to originate from those devices’ networks.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;过去 30 天内，有住宅代理流量 236 次从白宫网络流出，并经过 28 个公共代理服务。该网络的 AS2650 注册于负责托管白宫网络的美国总统行政办公室。住宅代理会让客户的流量经由普通设备转发，使其看起来来自这些设备所在的网络。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 1249 · 💬 431 · Security · Privacy · Politics&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50371246&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/05/top_stories_11052026#story-50371246&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+      <title>Tim Peters has died</title>
+      <link>https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50450488</guid>
+      <dc:creator>ayhanfuat</dc:creator>
+      <pubDate>Wed, 11 Nov 2026 07:03:17 +0000</pubDate>
+      <category>Programming</category>
+      <description>&lt;p&gt;Tim Peters has died. He was a figure associated with Python, but no further details are available here.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Tim Peters 已去世。他是与 Python 相关的重要人物，但现有信息未提供更多细节。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 1343 · 💬 162 · Programming&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50450488&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/12/top_stories_11122026#story-50450488&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Foldable Flight: The Best Paper Airplanes</title>
@@ -126,6 +111,18 @@
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50399933&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/08/top_stories_11082026#story-50399933&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>NVIDIA Announces CEO Transition</title>
+      <link>https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50467087</guid>
+      <dc:creator>lldb</dc:creator>
+      <pubDate>Thu, 12 Nov 2026 13:52:29 +0000</pubDate>
+      <category>Business</category>
+      <description>&lt;p&gt;NVIDIA announced a transition involving its chief executive officer. The announcement concerns a change in the company’s top leadership.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;英伟达宣布首席执行官将进行交接。此次公告涉及公司最高管理层的变动。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 1070 · 💬 913 · Business&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50467087&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/12/top_stories_11122026#story-50467087&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>My AI agents found an unmapped Maya site?</title>
       <link>https://pietromiotti.com/latest/maya-site</link>
       <guid isPermaLink="true">https://news.ycombinator.com/item?id=50452455</guid>
@@ -137,8 +134,21 @@
       <category>Politics</category>
       <description>&lt;p&gt;AI agents analyzed NASA lidar data and identified a Maya site beneath the jungle in Mexico. The site had already been mapped by archaeologists and described in Estrada-Belli et al. 2025, but it was not yet listed in Mexico’s official INAH register. The agents therefore rediscovered the site rather than discovering it, and the process took less than 72 hours to reach an official response from the Mexican government.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;AI 代理分析 NASA 的激光雷达数据，在墨西哥丛林下识别出一处玛雅遗址。考古学家其实已经绘制过该遗址的地图，并在 Estrada-Belli 等人 2025 年的论文中记录了它，只是它尚未列入墨西哥国家人类学与历史研究所（INAH）的官方名录。因此，代理完成的是“重新发现”而非发现；从提出想法到收到墨西哥政府的正式回复耗时不到 72 小时。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 929 · 💬 338 · AI · Science · Space · Politics&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50452455&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/11/top_stories_11112026#story-50452455&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+&lt;p&gt;&lt;small&gt;▲ 1022 · 💬 379 · AI · Science · Space · Politics&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50452455&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/12/top_stories_11122026#story-50452455&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>AWS emulator</title>
+      <link>https://github.com/aws/aws-emulator</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50456631</guid>
+      <dc:creator>super_linear</dc:creator>
+      <pubDate>Wed, 11 Nov 2026 18:21:38 +0000</pubDate>
+      <category>Programming</category>
+      <category>Open Source</category>
+      <description>&lt;p&gt;AWS Emulator is presented as a project related to emulating AWS services. The available context does not provide further technical details about its implementation or supported services.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;AWS Emulator 是一个用于模拟 AWS 服务的项目。现有信息没有提供其实现方式或所支持服务的更多技术细节。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 922 · 💬 254 · Programming · Open Source&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50456631&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/12/top_stories_11122026#story-50456631&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>.name Grandfathered</title>
@@ -165,18 +175,6 @@
 &lt;p&gt;&lt;em&gt;Anthropic 推出了面向高难度技术任务的 Claude Fable 5.2 和 Claude Mythos 5.2。该公司称，这些模型在编程、推理和视觉方面有所提升，并在预发布测试中帮助工程师完成软件迁移、从零设计三种可工作的电子设备、推进机器人评测，以及形式化费马大定理的证明。Fable 5.2 被定位为编程、金融和科学领域的新标杆。&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;▲ 882 · 💬 1008 · AI · Finance&lt;/small&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50429068&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/10/top_stories_11102026#story-50429068&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Tim Peters has died</title>
-      <link>https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50450488</guid>
-      <dc:creator>ayhanfuat</dc:creator>
-      <pubDate>Wed, 11 Nov 2026 07:03:17 +0000</pubDate>
-      <category>Programming</category>
-      <description>&lt;p&gt;Tim Peters has died. He was a figure associated with Python, but no further details are available here.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Tim Peters 已去世。他是与 Python 相关的重要人物，但现有信息未提供更多细节。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 874 · 💬 93 · Programming&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50450488&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/11/top_stories_11112026#story-50450488&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Every Mac comes with an (undocumented) family member classifier</title>
@@ -268,19 +266,6 @@
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50429426&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/10/top_stories_11102026#story-50429426&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Tell HN: Gemini trains on chat history, even for subscribers (personal accounts)</title>
-      <link>https://news.ycombinator.com/item?id=50363461</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50363461</guid>
-      <dc:creator>jameslk</dc:creator>
-      <pubDate>Wed, 04 Nov 2026 10:10:27 +0000</pubDate>
-      <category>Privacy</category>
-      <category>AI</category>
-      <description>&lt;p&gt;For personal Google AI subscriptions, saved Gemini chats can be used to improve Google services and train generative AI models when Keep Activity is enabled. A subset of chats may be reviewed by human reviewers and can be retained for up to three years after review, even if the user deletes activity. Users are warned not to enter confidential information, and opting out requires disabling chat history or using temporary chats.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;对于个人 Google AI 订阅账户，在启用“保留活动记录”时，保存的 Gemini 聊天记录可用于改进 Google 服务和训练生成式 AI 模型。部分聊天可能由人工审核，审核过的内容即使用户删除活动记录，也可能保留最长三年。用户被提醒不要输入机密信息；若要退出，需要关闭聊天记录或使用临时聊天。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 715 · 💬 189 · Privacy · AI&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50363461&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/05/top_stories_11052026#story-50363461&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>Is Opus 5.5 nerfed? Thinking patterns changed on November 3</title>
       <link>https://twitter.com/shanemelaugh/status/2119192075505893695</link>
       <guid isPermaLink="true">https://news.ycombinator.com/item?id=50422069</guid>
@@ -333,31 +318,6 @@
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50436640&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/10/top_stories_11102026#story-50436640&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>AWS emulator</title>
-      <link>https://github.com/aws/aws-emulator</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50456631</guid>
-      <dc:creator>super_linear</dc:creator>
-      <pubDate>Wed, 11 Nov 2026 18:21:38 +0000</pubDate>
-      <category>Programming</category>
-      <category>Open Source</category>
-      <description>&lt;p&gt;AWS Emulator is presented as a project related to emulating AWS services. The available context does not provide further technical details about its implementation or supported services.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;AWS Emulator 是一个用于模拟 AWS 服务的项目。现有信息没有提供其实现方式或所支持服务的更多技术细节。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 676 · 💬 216 · Programming · Open Source&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50456631&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/11/top_stories_11112026#story-50456631&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Search for everyone</title>
-      <link>https://kagi.com/changelog#11820</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50383740</guid>
-      <dc:creator>elashri</dc:creator>
-      <pubDate>Thu, 05 Nov 2026 20:03:34 +0000</pubDate>
-      <category>Web</category>
-      <description>&lt;p&gt;Kagi has opened web search to anyone without requiring an account for the first 50 searches. Registering adds another 100 searches. The paid search engine says it does not run ads and is relying on community recommendations and word of mouth.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Kagi 现在允许任何人使用网页搜索，前 50 次搜索无需创建账户。注册后还可额外获得 100 次搜索。这个付费搜索引擎表示自己不投放广告，而是依靠社区推荐和口碑传播。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 651 · 💬 331 · Web&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50383740&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/05/top_stories_11052026#story-50383740&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>Dutch 'idealist' bank ASN blocks non-Google Android, including GrapheneOS</title>
       <link>https://github.com/PrivSec-dev/banking-apps-compat-report/issues/105</link>
       <guid isPermaLink="true">https://news.ycombinator.com/item?id=50390124</guid>
@@ -370,41 +330,17 @@
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50390124&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/07/top_stories_11072026#story-50390124&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Kimi K3.1 Pro model weights are out</title>
-      <link>https://huggingface.co/moonshotai/Kimi-K3.1-Pro</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50366999</guid>
-      <dc:creator>abrarthought</dc:creator>
-      <pubDate>Wed, 04 Nov 2026 15:30:30 +0000</pubDate>
+      <title>United Airlines bans AI agents from booking flights on behalf of travelers</title>
+      <link>https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50458900</guid>
+      <dc:creator>herpderperator</dc:creator>
+      <pubDate>Wed, 11 Nov 2026 21:24:35 +0000</pubDate>
       <category>AI</category>
-      <category>Open Source</category>
-      <description>&lt;p&gt;Moonshot AI has released the weights for Kimi K3.1 Pro, an open-weight, natively multimodal agentic model with 2.8 trillion parameters and a one-million-token context window. It was post-trained from Kimi K3 using large-scale joint reinforcement learning across hundreds of domains. The model replaces Gated MLA with Gated DeepSeek Sparse Attention for more efficient long-context modeling.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;月之暗面发布了 Kimi K3.1 Pro 的模型权重。这是一款开放权重、原生多模态的智能体模型，拥有 2.8 万亿参数和 100 万 token 的上下文窗口。该模型基于 Kimi K3，并通过覆盖数百个领域的大规模联合强化学习进行后训练；同时以 Gated DeepSeek Sparse Attention 替代 Gated MLA，以提高长上下文建模效率。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 627 · 💬 186 · AI · Open Source&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50366999&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/05/top_stories_11052026#story-50366999&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Alpine Linux Security Advisory: OpenSSH-server password authentication bypass</title>
-      <link>https://alpinelinux.org/posts/2026-11-05-openssh-password-authentication-bypass/</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50379704</guid>
-      <dc:creator>pantalaimon</dc:creator>
-      <pubDate>Thu, 05 Nov 2026 14:44:20 +0000</pubDate>
       <category>Security</category>
-      <description>&lt;p&gt;Alpine Linux advises users running sshd to update openssh immediately and restart the daemon. Updating the package alone does not replace an already running sshd process. Until updating is possible, disabling password logins with PasswordAuthentication no and restarting sshd closes the hole.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Alpine Linux 建议运行 sshd 的用户立即更新 openssh 并重启守护进程。仅更新软件包并不会替换已经运行的 sshd 进程。在完成更新前，可将配置设为 PasswordAuthentication no 并重启 sshd，以关闭该漏洞。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 621 · 💬 2 · Security&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50379704&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/05/top_stories_11052026#story-50379704&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Nvidia RTX Spark encrypted firmware slows inference speed to 35% on Linux</title>
-      <link>https://www.mindstudio.ai/blog/linux-nvidia-rtx-spark-laptop</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50362905</guid>
-      <dc:creator>novaRom</dc:creator>
-      <pubDate>Wed, 04 Nov 2026 08:46:29 +0000</pubDate>
-      <category>Hardware</category>
-      <description>&lt;p&gt;RTX Spark laptops run Linux with GPU acceleration through Nvidia’s open kernel driver, but their GPU clocks drop to roughly 780 MHz when plugged in, instead of exceeding 2 GHz on Windows. On a 120-billion-parameter model, performance falls from about 65 tokens per second to fewer than 14. The problem is tied to power-management firmware that Linux currently cannot read.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;RTX Spark 笔记本可以在 Linux 上运行，并通过英伟达开源内核驱动实现 GPU 加速，但接通电源后 GPU 频率会被限制在约 780MHz，而 Windows 上可超过 2GHz。在一个 1200 亿参数模型上，速度因此从约每秒 65 个 token 降至不足 14 个。问题与 Linux 目前无法读取的电源管理固件有关。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 612 · 💬 287 · Hardware&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50362905&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/05/top_stories_11052026#story-50362905&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;United Airlines said it is banning AI agents from making flight reservations on behalf of travelers. The airline cited security risks and the possibility that such actions could violate federal rules. Consumers are increasingly using agents such as Meta’s Muse and OpenAI’s dots for tasks including shopping and purchases.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;联合航空表示，将禁止 AI 代理代旅客预订航班。该航空公司称，这类操作存在安全风险，并可能违反联邦法规。消费者正越来越多地使用 Meta 的 Muse 和 OpenAI 的 dots 等代理来完成商品研究、比价和购买等任务。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 633 · 💬 654 · AI · Security&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50458900&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/12/top_stories_11122026#story-50458900&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Claude Code's &quot;Don't Ask Again&quot; exposes passwords in 1,122 public GitHub files</title>
@@ -446,21 +382,6 @@
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50427362&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/10/top_stories_11102026#story-50427362&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>AMD expects to outsell Intel in Q4 for the first time in history</title>
-      <link>https://www.tomshardware.com/pc-components/cpus/amd-expects-to-outsell-intel-in-q4-for-the-first-time-in-history-usd17b-guidance-would-exceed-intels-projections</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50367125</guid>
-      <dc:creator>rbanffy</dc:creator>
-      <pubDate>Wed, 04 Nov 2026 15:38:34 +0000</pubDate>
-      <category>Business</category>
-      <category>Finance</category>
-      <category>AI</category>
-      <category>Gaming</category>
-      <description>&lt;p&gt;AMD expects to outsell Intel in the fourth quarter for the first time in its history. Record quarterly revenue is being driven by the AI boom, while its client and gaming businesses are facing double-digit declines heading into 2027. The forecast indicates a widening contrast between AMD’s AI growth and its weaker traditional segments.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;AMD 预计将在第四季度历史上首次超过英特尔。AI 热潮推动其季度营收创下纪录，但面向客户的业务和游戏业务在进入 2027 年时正面临两位数下滑。这一预测显示，AMD 的 AI 业务增长与传统业务疲软之间的差距正在扩大。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 578 · 💬 221 · Business · Finance · AI · Gaming&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50367125&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/05/top_stories_11052026#story-50367125&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>Britain to make salary disclosure in job ads mandatory</title>
       <link>https://www.reuters.com/business/world-at-work/britain-make-salary-disclosure-job-ads-mandatory-2026-11-05/</link>
       <guid isPermaLink="true">https://news.ycombinator.com/item?id=50389222</guid>
@@ -486,18 +407,6 @@
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50397429&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/07/top_stories_11072026#story-50397429&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Goodbye from Salon</title>
-      <link>https://www.salon.com/2026/11/05/goodbye-from-salon/</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50383739</guid>
-      <dc:creator>mkeeter</dc:creator>
-      <pubDate>Thu, 05 Nov 2026 20:03:29 +0000</pubDate>
-      <category>Business</category>
-      <description>&lt;p&gt;Salon has announced that it will cease publication after 31 years. The publication described its history as an attempt to explore what journalism could become while the internet was still new.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Salon 宣布，在出版 31 年后将停止运营。该出版物将自己的历史描述为一次探索新闻业可能形态的尝试，起步于互联网仍处于早期阶段之时。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 557 · 💬 212 · Business&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50383739&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/05/top_stories_11052026#story-50383739&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>Scion is back and is going to sell a kei truck in America</title>
       <link>https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/</link>
       <guid isPermaLink="true">https://news.ycombinator.com/item?id=50445401</guid>
@@ -510,6 +419,18 @@
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50445401&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/11/top_stories_11112026#story-50445401&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>A false smoke alarm almost drowned Jane Street's only NYC datacenter</title>
+      <link>https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50455394</guid>
+      <dc:creator>mbac32768</dc:creator>
+      <pubDate>Wed, 11 Nov 2026 16:38:44 +0000</pubDate>
+      <category>DevOps</category>
+      <description>&lt;p&gt;A Jane Street systems-team account describes a false smoke alarm at the firm’s only New York datacenter. The facility lost cooling, and staff rushed to unplug every power cord before the sprinkler system activated. The incident is presented as an example of the hands-on work required when a serious infrastructure failure nearly occurred.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Jane Street 系统团队的一篇回忆讲述了该公司纽约唯一数据中心发生误报烟雾警报的经过。机房一度失去冷却，员工赶在喷淋系统启动前冲进去拔掉所有电源线。这个事件展示了基础设施险些发生严重故障时，系统团队必须亲自处理现场问题。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 541 · 💬 258 · DevOps&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50455394&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/12/top_stories_11122026#story-50455394&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Apple’s grey list: Words and phrases your iPhone won’t help you spell</title>
       <link>https://www.theguardian.com/technology/2026/nov/06/struggling-to-spell-male-chauvinist-pig-apple-grey-list-means-your-iphone-wont-help-you</link>
       <guid isPermaLink="true">https://news.ycombinator.com/item?id=50406111</guid>
@@ -520,6 +441,18 @@
 &lt;p&gt;&lt;em&gt;研究发现，苹果限制了超过 10 万个词语和短语的预测文本补全功能。这些限制会影响滑行输入，即用户用手指划过键盘，而不是逐字点击。结果是，即使用户尝试通过滑行输入，iPhone 也可能不会补全某些不寻常或敏感的短语。&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;▲ 534 · 💬 359 · Privacy&lt;/small&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50406111&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/08/top_stories_11082026#story-50406111&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>93% of paint splatters are valid Perl programs (2019)</title>
+      <link>https://www.mcmillen.dev/sigbovik/</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50459745</guid>
+      <dc:creator>zenincognito</dc:creator>
+      <pubDate>Wed, 11 Nov 2026 22:34:23 +0000</pubDate>
+      <category>Programming</category>
+      <description>&lt;p&gt;A paper investigates whether it is possible to smear paint on a wall without producing a valid Perl program. Its stated result is that 93% of paint splatters are valid Perl programs, accompanied by a gallery of the resulting programs. The work presents the question as a long-standing open problem in programming languages.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;一篇论文研究了这样的问题：把颜料涂抹到墙上时，是否可能不生成有效的 Perl 程序。论文给出的结果是，93% 的颜料飞溅都属于有效 Perl 程序，并配有这些程序的展示画廊。作者把这个问题称为编程语言领域长期存在的开放问题。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 532 · 💬 69 · Programming&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50459745&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/12/top_stories_11122026#story-50459745&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Nvidia CEO Jensen Huang's letter to staff about affair</title>
@@ -546,19 +479,6 @@
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50459703&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/11/top_stories_11112026#story-50459703&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Ask HN: What's your current AI agentic setup?</title>
-      <link>https://news.ycombinator.com/item?id=50366117</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50366117</guid>
-      <dc:creator>eggbrain</dc:creator>
-      <pubDate>Wed, 04 Nov 2026 14:37:22 +0000</pubDate>
-      <category>AI</category>
-      <category>Programming</category>
-      <description>&lt;p&gt;An Ask HN thread asks how people use AI agents in their daily work. It solicits details about paid subscriptions, external or locally hosted models, coding harnesses, orchestration tools, and broader agent platforms. The discussion aims to gauge how individual workflows have changed over the past year.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;一则 Ask HN 帖子询问人们目前如何在日常工作中使用 AI agent。发帖者希望了解大家购买的订阅、外部或本地部署的模型、编程工具链、编排工具以及更广泛的 agent 平台。讨论旨在了解个人工作流在过去一年中的变化。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 520 · 💬 642 · AI · Programming&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50366117&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/05/top_stories_11052026#story-50366117&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>Apple has new Mac app coming to make running local AI models easy</title>
       <link>https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/</link>
       <guid isPermaLink="true">https://news.ycombinator.com/item?id=50446520</guid>
@@ -569,6 +489,31 @@
 &lt;p&gt;&lt;em&gt;据报道，Apple 正在开发一款名为 Harbor 的 Mac 应用，用于简化在一台或多台 Mac 上运行本地 AI 模型的过程。泄密者 Aaron Perris 发现了这款应用的相关证据。随着 Mac Studio、Mac mini 等设备被越来越多地用于本地运行模型，该项目正处于这一趋势之中。&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;▲ 517 · 💬 526 · AI&lt;/small&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50446520&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/11/top_stories_11112026#story-50446520&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Gemini Decisions API</title>
+      <link>https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50456791</guid>
+      <dc:creator>iamdelirium</dc:creator>
+      <pubDate>Wed, 11 Nov 2026 18:32:42 +0000</pubDate>
+      <category>AI</category>
+      <description>&lt;p&gt;Google introduced the Gemini Decisions API, powered by its Gemini Decision 1 model. It can evaluate up to 1,000 yes/no, multiple-choice, or rubric-scored questions in a single pass across text, images, audio, video, and PDFs. Google describes the decisions as fast and calibrated for its applications.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Google 发布了由 Gemini Decision 1 模型驱动的 Gemini Decisions API。它可以在一次处理中，针对文本、图像、音频、视频和 PDF，评估最多 1,000 个是非题、选择题或按评分标准判定的问题。Google 将其描述为速度快且经过校准的决策 API。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 516 · 💬 149 · AI&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50456791&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/12/top_stories_11122026#story-50456791&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Socratic Tutor</title>
+      <link>https://github.com/janestreet/agent_skills/blob/master/socratic-tutor/SKILL.md</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50438261</guid>
+      <dc:creator>tosh</dc:creator>
+      <pubDate>Tue, 10 Nov 2026 10:18:22 +0000</pubDate>
+      <category>Education</category>
+      <category>AI</category>
+      <description>&lt;p&gt;The Socratic Tutor is an agent skill designed to guide users toward genuine mastery through questions that make them reason, predict, and explain rather than simply listen to a lecture. It is intended for ongoing teaching sessions, not one-off factual questions. When the user’s intent is ambiguous, it first asks whether they want a quick answer or a full tutoring session.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;“苏格拉底式导师”是一项代理技能，通过要求用户推理、预测和解释来帮助其真正掌握知识，而不是单纯进行讲授。它适用于持续的教学过程，不适用于一次性的事实问答。当用户意图不明确时，它会先询问用户想要快速答案还是完整的辅导过程。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 509 · 💬 115 · Education · AI&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50438261&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/12/top_stories_11122026#story-50438261&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Cuban: Facebook knowingly runs AI deepfake scam ads; docs say $16B fraud revenue</title>
@@ -636,17 +581,70 @@
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50443824&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/11/top_stories_11112026#story-50443824&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>A thousand fewer paths to root</title>
-      <link>https://openai.com/index/a-thousand-fewer-paths-to-root/</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50372929</guid>
-      <dc:creator>dangelosaurus</dc:creator>
-      <pubDate>Wed, 04 Nov 2026 23:33:14 +0000</pubDate>
-      <category>AI</category>
-      <category>Security</category>
-      <description>&lt;p&gt;OpenAI built an autonomous pipeline that discovered, validated, and generated patches for 948 local privilege-escalation vulnerabilities in the Linux kernel. In a single run using its cyber model, the system validated the vulnerabilities and produced patches at an API cost of $1.2 million. The work suggests that some security investigations can increasingly be handled as a systematic automated process.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;OpenAI 构建了一个自主流水线，用于发现、验证并为 Linux 内核中的 948 个本地提权漏洞生成补丁。在一次运行中，该系统借助其网络安全模型完成了漏洞验证和补丁生成，API 成本为 120 万美元。这项工作表明，部分安全研究正逐渐可以作为系统化的自动流程来执行。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 478 · 💬 356 · AI · Security&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50372929&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/05/top_stories_11052026#story-50372929&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+      <title>Declarative Dragging</title>
+      <link>https://declarative-dragging.github.io/</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50368481</guid>
+      <dc:creator>smusamashah</dc:creator>
+      <pubDate>Wed, 04 Nov 2026 17:05:07 +0000</pubDate>
+      <category>Programming</category>
+      <description>&lt;p&gt;Declarative dragging proposes that interface authors define which future model states an element may reach by dragging. This makes a diagram element draggable by describing its allowed outcomes rather than implementing dragging behavior directly. The work was named the Best Paper at UIST 2026.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;“声明式拖拽”提出，界面作者可以通过指定元素拖动后允许到达的模型状态来定义拖拽行为。这样，创建可拖动的图表元素不必直接实现拖拽逻辑，而是描述其允许的结果。该研究获得了 UIST 2026 最佳论文奖。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 465 · 💬 62 · Programming&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50368481&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/08/top_stories_11082026#story-50368481&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Show HN: Every satellite that passed over any place this week, and its photos</title>
+      <link>https://www.watched.earth</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50428907</guid>
+      <dc:creator>a585gupt</dc:creator>
+      <pubDate>Mon, 09 Nov 2026 17:51:31 +0000</pubDate>
+      <category>Show HN</category>
+      <category>Data</category>
+      <category>Space</category>
+      <category>Hardware</category>
+      <category>Web</category>
+      <description>&lt;p&gt;Watched lets users enter a location and find every satellite that passed over it in the previous seven days, then retrieve Sentinel-2, Landsat, and NASA imagery from those passes. Its browser-based SGP4 search processes the CelesTrak catalog in about half a second, while roughly 17,000 orbital objects are rendered on the GPU. The project reports no missed passes in tests against brute-force searches and says it does not store locations.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Watched 允许用户输入地点，查找过去七天内经过该地点的所有卫星，并获取这些过境对应的 Sentinel-2、Landsat 和 NASA 影像。它在浏览器中使用 SGP4 处理 CelesTrak 目录，耗时约半秒，同时在 GPU 上绘制约 1.7 万个轨道目标。项目称，与暴力搜索对比测试未漏掉任何过境，并表示不会存储用户位置。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 458 · 💬 81 · Show HN · Data · Space · Hardware · Web&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50428907&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/10/top_stories_11102026#story-50428907&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Nvidia Board of Directors Is Investigating Jensen Huang</title>
+      <link>https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50416801</guid>
+      <dc:creator>vincentchau</dc:creator>
+      <pubDate>Sun, 08 Nov 2026 20:26:43 +0000</pubDate>
+      <category>Business</category>
+      <category>Legal</category>
+      <description>&lt;p&gt;Nvidia’s board has initiated an independent investigation after reports that founder and CEO Jensen Huang was targeted by a foreign intelligence effort. A committee of independent directors will oversee the investigation with assistance from outside independent counsel. The available statement does not provide further findings.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;英伟达董事会在相关报道指出创始人兼 CEO 黄仁勋成为外国情报行动目标后，启动了独立调查。调查将由独立董事组成的委员会负责，并由外部独立法律顾问协助。现有声明没有提供进一步调查结论。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 458 · 💬 345 · Business · Legal&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50416801&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/08/top_stories_11082026#story-50416801&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Every Windows 11 app should kill Electron, and Discord just showed why</title>
+      <link>https://www.windowslatest.com/2026/11/06/every-windows-11-app-should-kill-electron-and-discord-just-showed-why-no-starting-screen-and-70-less-ram-even-with-two-accounts-signed-in/</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50403507</guid>
+      <dc:creator>thunderbong</dc:creator>
+      <pubDate>Sat, 07 Nov 2026 11:11:15 +0000</pubDate>
+      <category>Programming</category>
+      <description>&lt;p&gt;Discord's new Rust client loads the friends list before the existing Electron app gets past its loading screen and skips the Starting screen. In a cold-start test, the Rust-based client used 290.2 MB of RAM with two accounts signed in. Discord employees confirmed that both applications were launched from a cold start, while a video showing the comparison received 2.3 million views at the time reported.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Discord 的新 Rust 客户端在现有 Electron 客户端还没通过加载界面时就已载入好友列表，并跳过了 Starting 界面。在冷启动测试中，Rust 客户端同时登录两个账号时占用 290.2 MB 内存。Discord 员工确认两款应用都是冷启动，该对比视频当时已获得 230 万次观看。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 457 · 💬 490 · Programming&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50403507&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/08/top_stories_11082026#story-50403507&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Blender 5.3 released with Gaussian Splat support</title>
+      <link>https://www.blender.org/download/releases/5-3/</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50442426</guid>
+      <dc:creator>amlib</dc:creator>
+      <pubDate>Tue, 10 Nov 2026 16:15:43 +0000</pubDate>
+      <category>Open Source</category>
+      <category>Programming</category>
+      <description>&lt;p&gt;Blender 5.3 adds native support for 3D Gaussian Splats. Users can import splats as point clouds, experiment with Geometry Nodes, preview them in Workbench, and render them with EEVEE or Cycles. The release also includes DLSS denoising, light dispersion, an EEVEE fisheye effect, Outliner sorting, and ripple video editing.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Blender 5.3 新增了对 3D Gaussian Splat 的原生支持。用户可以将其作为点云导入，使用 Geometry Nodes 进行实验，在 Workbench 中预览，并通过 EEVEE 或 Cycles 渲染。该版本还加入 DLSS 降噪、光色散、EEVEE 鱼眼效果、大纲视图排序和波纹视频编辑等功能。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 448 · 💬 68 · Open Source · Programming&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50442426&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/10/top_stories_11102026#story-50442426&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
