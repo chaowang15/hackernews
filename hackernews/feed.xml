@@ -5,9 +5,21 @@
     <link>https://chaowang15.github.io/hackernews/</link>
     <description>Curated daily digest of top Hacker News stories with AI-generated summaries, tags, and bilingual translations.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 12 Nov 2026 16:06:47 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 02:07:03 +0000</lastBuildDate>
     <generator>Hacker News Daily RSS Builder</generator>
     <atom:link href="https://chaowang15.github.io/hackernews/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Jensen Huang resigns</title>
+      <link>https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50467087</guid>
+      <dc:creator>lldb</dc:creator>
+      <pubDate>Thu, 12 Nov 2026 13:52:29 +0000</pubDate>
+      <category>Business</category>
+      <description>&lt;p&gt;Jensen Huang has resigned. The available material does not provide reliable details about the timing, reasons, or succession. The departure marks a leadership change at Nvidia.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;黄仁勋已辞职。现有材料没有提供有关时间、原因或继任安排的可靠细节。这意味着英伟达将发生领导层变动。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 2979 · 💬 2806 · Business&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50467087&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/12/top_stories_11122026#story-50467087&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>sshole</title>
       <link>https://sshhole.com</link>
@@ -43,7 +55,7 @@
       <category>Programming</category>
       <description>&lt;p&gt;Tim Peters has died. He was a figure associated with Python, but no further details are available here.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Tim Peters 已去世。他是与 Python 相关的重要人物，但现有信息未提供更多细节。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 1343 · 💬 162 · Programming&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 1396 · 💬 187 · Programming&lt;/small&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50450488&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/12/top_stories_11122026#story-50450488&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
@@ -111,18 +123,6 @@
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50399933&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/08/top_stories_11082026#story-50399933&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>NVIDIA Announces CEO Transition</title>
-      <link>https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50467087</guid>
-      <dc:creator>lldb</dc:creator>
-      <pubDate>Thu, 12 Nov 2026 13:52:29 +0000</pubDate>
-      <category>Business</category>
-      <description>&lt;p&gt;NVIDIA announced a transition involving its chief executive officer. The announcement concerns a change in the company’s top leadership.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;英伟达宣布首席执行官将进行交接。此次公告涉及公司最高管理层的变动。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 1070 · 💬 913 · Business&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50467087&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/12/top_stories_11122026#story-50467087&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>My AI agents found an unmapped Maya site?</title>
       <link>https://pietromiotti.com/latest/maya-site</link>
       <guid isPermaLink="true">https://news.ycombinator.com/item?id=50452455</guid>
@@ -134,7 +134,7 @@
       <category>Politics</category>
       <description>&lt;p&gt;AI agents analyzed NASA lidar data and identified a Maya site beneath the jungle in Mexico. The site had already been mapped by archaeologists and described in Estrada-Belli et al. 2025, but it was not yet listed in Mexico’s official INAH register. The agents therefore rediscovered the site rather than discovering it, and the process took less than 72 hours to reach an official response from the Mexican government.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;AI 代理分析 NASA 的激光雷达数据，在墨西哥丛林下识别出一处玛雅遗址。考古学家其实已经绘制过该遗址的地图，并在 Estrada-Belli 等人 2025 年的论文中记录了它，只是它尚未列入墨西哥国家人类学与历史研究所（INAH）的官方名录。因此，代理完成的是“重新发现”而非发现；从提出想法到收到墨西哥政府的正式回复耗时不到 72 小时。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 1022 · 💬 379 · AI · Science · Space · Politics&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 1027 · 💬 390 · AI · Science · Space · Politics&lt;/small&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50452455&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/12/top_stories_11122026#story-50452455&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
@@ -147,7 +147,7 @@
       <category>Open Source</category>
       <description>&lt;p&gt;AWS Emulator is presented as a project related to emulating AWS services. The available context does not provide further technical details about its implementation or supported services.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;AWS Emulator 是一个用于模拟 AWS 服务的项目。现有信息没有提供其实现方式或所支持服务的更多技术细节。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 922 · 💬 254 · Programming · Open Source&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 967 · 💬 263 · Programming · Open Source&lt;/small&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50456631&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/12/top_stories_11122026#story-50456631&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
@@ -200,6 +200,21 @@
 &lt;p&gt;&lt;em&gt;Anthropic 推出了面向高难度技术工作的 Claude Fable 5.2 和 Claude Mythos 5.2，并称它们在编码、推理和视觉能力方面有所提升。在预发布测试中，Anthropic 表示这些模型帮助工程师完成软件迁移、设计出三种可运行的电子设备、推进机器人评测，并解决物理学问题。公司还称，模型在 30 小时内形式化完成了费马大定理的证明。&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;▲ 839 · 💬 507 · AI · Science&lt;/small&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50429906&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/09/top_stories_11092026#story-50429906&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Anthropic IPO</title>
+      <link>https://ipo.anthropic.com/us/</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50465829</guid>
+      <dc:creator>josephljohnston</dc:creator>
+      <pubDate>Thu, 12 Nov 2026 11:46:41 +0000</pubDate>
+      <category>Business</category>
+      <category>Finance</category>
+      <category>AI</category>
+      <category>Science</category>
+      <description>&lt;p&gt;Anthropic has filed to become a public company and published a founders’ letter along with related information. The company is organized as a public benefit corporation focused on securing AI’s benefits and mitigating its risks. It says AI could accelerate scientific innovation, increase economic growth, help cure major diseases, and address long-standing problems if managed well.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Anthropic 已提交申请，准备成为一家上市公司，并公布了创始人公开信及相关信息。该公司采用公益公司架构，致力于发挥人工智能的益处并降低其风险。Anthropic 表示，如果得到妥善管理，人工智能可能加速科学创新、提高经济增长率、推动重大疾病治疗，并解决长期未能解决的问题。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 825 · 💬 806 · Business · Finance · AI · Science&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50465829&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/12/top_stories_11122026#story-50465829&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>What I run on my $10 USD OpenStick homelab</title>
@@ -318,6 +333,32 @@
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50436640&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/10/top_stories_11102026#story-50436640&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>United Airlines bans AI agents from booking flights on behalf of travelers</title>
+      <link>https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50458900</guid>
+      <dc:creator>herpderperator</dc:creator>
+      <pubDate>Wed, 11 Nov 2026 21:24:35 +0000</pubDate>
+      <category>AI</category>
+      <category>Security</category>
+      <description>&lt;p&gt;United Airlines said it is banning AI agents from making flight reservations on behalf of travelers. The airline cited security risks and the possibility that such actions could violate federal rules. Consumers are increasingly using agents such as Meta’s Muse and OpenAI’s dots for tasks including shopping and purchases.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;联合航空表示，将禁止 AI 代理代旅客预订航班。该航空公司称，这类操作存在安全风险，并可能违反联邦法规。消费者正越来越多地使用 Meta 的 Muse 和 OpenAI 的 dots 等代理来完成商品研究、比价和购买等任务。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 661 · 💬 688 · AI · Security&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50458900&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/12/top_stories_11122026#story-50458900&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Socratic Tutor</title>
+      <link>https://github.com/janestreet/agent_skills/blob/master/socratic-tutor/SKILL.md</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50438261</guid>
+      <dc:creator>tosh</dc:creator>
+      <pubDate>Tue, 10 Nov 2026 10:18:22 +0000</pubDate>
+      <category>Education</category>
+      <category>AI</category>
+      <description>&lt;p&gt;The Socratic Tutor is an agent skill designed to guide users toward genuine mastery through questions that make them reason, predict, and explain rather than simply listen to a lecture. It is intended for ongoing teaching sessions, not one-off factual questions. When the user’s intent is ambiguous, it first asks whether they want a quick answer or a full tutoring session.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;“苏格拉底式导师”是一项代理技能，通过要求用户推理、预测和解释来帮助其真正掌握知识，而不是单纯进行讲授。它适用于持续的教学过程，不适用于一次性的事实问答。当用户意图不明确时，它会先询问用户想要快速答案还是完整的辅导过程。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 655 · 💬 155 · Education · AI&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50438261&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/12/top_stories_11122026#story-50438261&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Dutch 'idealist' bank ASN blocks non-Google Android, including GrapheneOS</title>
       <link>https://github.com/PrivSec-dev/banking-apps-compat-report/issues/105</link>
       <guid isPermaLink="true">https://news.ycombinator.com/item?id=50390124</guid>
@@ -328,19 +369,6 @@
 &lt;p&gt;&lt;em&gt;一份兼容性报告调查 ASN Bank 的 Android 应用是否屏蔽包括 GrapheneOS 在内的非 Google Android 系统。报告涉及荷兰地区的 2.40.2 版本。一名用户表示，该应用在原生操作系统上看起来可以正常运行。&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;▲ 648 · 💬 424 · Privacy&lt;/small&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50390124&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/07/top_stories_11072026#story-50390124&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>United Airlines bans AI agents from booking flights on behalf of travelers</title>
-      <link>https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50458900</guid>
-      <dc:creator>herpderperator</dc:creator>
-      <pubDate>Wed, 11 Nov 2026 21:24:35 +0000</pubDate>
-      <category>AI</category>
-      <category>Security</category>
-      <description>&lt;p&gt;United Airlines said it is banning AI agents from making flight reservations on behalf of travelers. The airline cited security risks and the possibility that such actions could violate federal rules. Consumers are increasingly using agents such as Meta’s Muse and OpenAI’s dots for tasks including shopping and purchases.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;联合航空表示，将禁止 AI 代理代旅客预订航班。该航空公司称，这类操作存在安全风险，并可能违反联邦法规。消费者正越来越多地使用 Meta 的 Muse 和 OpenAI 的 dots 等代理来完成商品研究、比价和购买等任务。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 633 · 💬 654 · AI · Security&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50458900&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/12/top_stories_11122026#story-50458900&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Claude Code's &quot;Don't Ask Again&quot; exposes passwords in 1,122 public GitHub files</title>
@@ -394,6 +422,18 @@
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50389222&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/06/top_stories_11062026#story-50389222&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>A false smoke alarm almost drowned Jane Street's only NYC datacenter</title>
+      <link>https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50455394</guid>
+      <dc:creator>mbac32768</dc:creator>
+      <pubDate>Wed, 11 Nov 2026 16:38:44 +0000</pubDate>
+      <category>DevOps</category>
+      <description>&lt;p&gt;A Jane Street systems-team account describes a false smoke alarm at the firm’s only New York datacenter. The facility lost cooling, and staff rushed to unplug every power cord before the sprinkler system activated. The incident is presented as an example of the hands-on work required when a serious infrastructure failure nearly occurred.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Jane Street 系统团队的一篇回忆讲述了该公司纽约唯一数据中心发生误报烟雾警报的经过。机房一度失去冷却，员工赶在喷淋系统启动前冲进去拔掉所有电源线。这个事件展示了基础设施险些发生严重故障时，系统团队必须亲自处理现场问题。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 575 · 💬 272 · DevOps&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50455394&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/12/top_stories_11122026#story-50455394&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost</title>
       <link>https://hightouch.com/blog/llm-judges-identity-resolution</link>
       <guid isPermaLink="true">https://news.ycombinator.com/item?id=50397429</guid>
@@ -405,6 +445,30 @@
 &lt;p&gt;&lt;em&gt;对 Jev 和 GPT-6 Luna 作为身份解析评判器的测试显示，它们开箱即用的准确率为 88.8% 至 97.3%。将 Jev 与 Claude Opus 结合的混合方案达到了前沿模型水平的准确率，而成本降低了四倍以上。身份解析的任务是将数据记录映射到现实世界中唯一的个人。&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;▲ 574 · 💬 146 · AI · Data&lt;/small&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50397429&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/07/top_stories_11072026#story-50397429&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>93% of paint splatters are valid Perl programs (2019)</title>
+      <link>https://www.mcmillen.dev/sigbovik/</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50459745</guid>
+      <dc:creator>zenincognito</dc:creator>
+      <pubDate>Wed, 11 Nov 2026 22:34:23 +0000</pubDate>
+      <category>Programming</category>
+      <description>&lt;p&gt;A paper investigates whether it is possible to smear paint on a wall without producing a valid Perl program. Its stated result is that 93% of paint splatters are valid Perl programs, accompanied by a gallery of the resulting programs. The work presents the question as a long-standing open problem in programming languages.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;一篇论文研究了这样的问题：把颜料涂抹到墙上时，是否可能不生成有效的 Perl 程序。论文给出的结果是，93% 的颜料飞溅都属于有效 Perl 程序，并配有这些程序的展示画廊。作者把这个问题称为编程语言领域长期存在的开放问题。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 566 · 💬 79 · Programming&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50459745&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/12/top_stories_11122026#story-50459745&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Gemini Decisions API</title>
+      <link>https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50456791</guid>
+      <dc:creator>iamdelirium</dc:creator>
+      <pubDate>Wed, 11 Nov 2026 18:32:42 +0000</pubDate>
+      <category>AI</category>
+      <description>&lt;p&gt;Google introduced the Gemini Decisions API, powered by its Gemini Decision 1 model. It can evaluate up to 1,000 yes/no, multiple-choice, or rubric-scored questions in a single pass across text, images, audio, video, and PDFs. Google describes the decisions as fast and calibrated for its applications.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Google 发布了由 Gemini Decision 1 模型驱动的 Gemini Decisions API。它可以在一次处理中，针对文本、图像、音频、视频和 PDF，评估最多 1,000 个是非题、选择题或按评分标准判定的问题。Google 将其描述为速度快且经过校准的决策 API。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 554 · 💬 157 · AI&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50456791&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/12/top_stories_11122026#story-50456791&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Scion is back and is going to sell a kei truck in America</title>
@@ -419,16 +483,16 @@
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50445401&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/11/top_stories_11112026#story-50445401&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>A false smoke alarm almost drowned Jane Street's only NYC datacenter</title>
-      <link>https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50455394</guid>
-      <dc:creator>mbac32768</dc:creator>
-      <pubDate>Wed, 11 Nov 2026 16:38:44 +0000</pubDate>
-      <category>DevOps</category>
-      <description>&lt;p&gt;A Jane Street systems-team account describes a false smoke alarm at the firm’s only New York datacenter. The facility lost cooling, and staff rushed to unplug every power cord before the sprinkler system activated. The incident is presented as an example of the hands-on work required when a serious infrastructure failure nearly occurred.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Jane Street 系统团队的一篇回忆讲述了该公司纽约唯一数据中心发生误报烟雾警报的经过。机房一度失去冷却，员工赶在喷淋系统启动前冲进去拔掉所有电源线。这个事件展示了基础设施险些发生严重故障时，系统团队必须亲自处理现场问题。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 541 · 💬 258 · DevOps&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50455394&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/12/top_stories_11122026#story-50455394&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+      <title>Apple has new Mac app coming to make running local AI models easy</title>
+      <link>https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50446520</guid>
+      <dc:creator>linolevan</dc:creator>
+      <pubDate>Tue, 10 Nov 2026 21:25:03 +0000</pubDate>
+      <category>AI</category>
+      <description>&lt;p&gt;Apple is reportedly developing a Mac app called Harbor to simplify running local AI models across one or more Macs. Evidence of the app was found by leaker Aaron Perris. The project comes as Macs are increasingly being used to run models locally, including on the Mac Studio and Mac mini.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;据报道，Apple 正在开发一款名为 Harbor 的 Mac 应用，用于简化在一台或多台 Mac 上运行本地 AI 模型的过程。泄密者 Aaron Perris 发现了这款应用的相关证据。随着 Mac Studio、Mac mini 等设备被越来越多地用于本地运行模型，该项目正处于这一趋势之中。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 550 · 💬 551 · AI&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50446520&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/12/top_stories_11122026#story-50446520&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Apple’s grey list: Words and phrases your iPhone won’t help you spell</title>
@@ -441,18 +505,6 @@
 &lt;p&gt;&lt;em&gt;研究发现，苹果限制了超过 10 万个词语和短语的预测文本补全功能。这些限制会影响滑行输入，即用户用手指划过键盘，而不是逐字点击。结果是，即使用户尝试通过滑行输入，iPhone 也可能不会补全某些不寻常或敏感的短语。&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;▲ 534 · 💬 359 · Privacy&lt;/small&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50406111&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/08/top_stories_11082026#story-50406111&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>93% of paint splatters are valid Perl programs (2019)</title>
-      <link>https://www.mcmillen.dev/sigbovik/</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50459745</guid>
-      <dc:creator>zenincognito</dc:creator>
-      <pubDate>Wed, 11 Nov 2026 22:34:23 +0000</pubDate>
-      <category>Programming</category>
-      <description>&lt;p&gt;A paper investigates whether it is possible to smear paint on a wall without producing a valid Perl program. Its stated result is that 93% of paint splatters are valid Perl programs, accompanied by a gallery of the resulting programs. The work presents the question as a long-standing open problem in programming languages.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;一篇论文研究了这样的问题：把颜料涂抹到墙上时，是否可能不生成有效的 Perl 程序。论文给出的结果是，93% 的颜料飞溅都属于有效 Perl 程序，并配有这些程序的展示画廊。作者把这个问题称为编程语言领域长期存在的开放问题。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 532 · 💬 69 · Programming&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50459745&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/12/top_stories_11122026#story-50459745&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Nvidia CEO Jensen Huang's letter to staff about affair</title>
@@ -479,41 +531,16 @@
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50459703&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/11/top_stories_11112026#story-50459703&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Apple has new Mac app coming to make running local AI models easy</title>
-      <link>https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50446520</guid>
-      <dc:creator>linolevan</dc:creator>
-      <pubDate>Tue, 10 Nov 2026 21:25:03 +0000</pubDate>
-      <category>AI</category>
-      <description>&lt;p&gt;Apple is reportedly developing a Mac app called Harbor to simplify running local AI models across one or more Macs. Evidence of the app was found by leaker Aaron Perris. The project comes as Macs are increasingly being used to run models locally, including on the Mac Studio and Mac mini.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;据报道，Apple 正在开发一款名为 Harbor 的 Mac 应用，用于简化在一台或多台 Mac 上运行本地 AI 模型的过程。泄密者 Aaron Perris 发现了这款应用的相关证据。随着 Mac Studio、Mac mini 等设备被越来越多地用于本地运行模型，该项目正处于这一趋势之中。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 517 · 💬 526 · AI&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50446520&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/11/top_stories_11112026#story-50446520&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Gemini Decisions API</title>
-      <link>https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50456791</guid>
-      <dc:creator>iamdelirium</dc:creator>
-      <pubDate>Wed, 11 Nov 2026 18:32:42 +0000</pubDate>
-      <category>AI</category>
-      <description>&lt;p&gt;Google introduced the Gemini Decisions API, powered by its Gemini Decision 1 model. It can evaluate up to 1,000 yes/no, multiple-choice, or rubric-scored questions in a single pass across text, images, audio, video, and PDFs. Google describes the decisions as fast and calibrated for its applications.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Google 发布了由 Gemini Decision 1 模型驱动的 Gemini Decisions API。它可以在一次处理中，针对文本、图像、音频、视频和 PDF，评估最多 1,000 个是非题、选择题或按评分标准判定的问题。Google 将其描述为速度快且经过校准的决策 API。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 516 · 💬 149 · AI&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50456791&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/12/top_stories_11122026#story-50456791&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Socratic Tutor</title>
-      <link>https://github.com/janestreet/agent_skills/blob/master/socratic-tutor/SKILL.md</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50438261</guid>
-      <dc:creator>tosh</dc:creator>
-      <pubDate>Tue, 10 Nov 2026 10:18:22 +0000</pubDate>
-      <category>Education</category>
-      <category>AI</category>
-      <description>&lt;p&gt;The Socratic Tutor is an agent skill designed to guide users toward genuine mastery through questions that make them reason, predict, and explain rather than simply listen to a lecture. It is intended for ongoing teaching sessions, not one-off factual questions. When the user’s intent is ambiguous, it first asks whether they want a quick answer or a full tutoring session.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;“苏格拉底式导师”是一项代理技能，通过要求用户推理、预测和解释来帮助其真正掌握知识，而不是单纯进行讲授。它适用于持续的教学过程，不适用于一次性的事实问答。当用户意图不明确时，它会先询问用户想要快速答案还是完整的辅导过程。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 509 · 💬 115 · Education · AI&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50438261&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/12/top_stories_11122026#story-50438261&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+      <title>Service degradation on Microsoft 365</title>
+      <link>https://status.cloud.microsoft/</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50471731</guid>
+      <dc:creator>dkpk</dc:creator>
+      <pubDate>Thu, 12 Nov 2026 18:20:48 +0000</pubDate>
+      <category>DevOps</category>
+      <description>&lt;p&gt;Microsoft 365 is experiencing service degradation. The available material does not specify which services are affected, the cause, or the expected resolution time. Users may therefore encounter disruptions while the incident is being addressed.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Microsoft 365 正在经历服务降级。现有材料没有说明受影响的具体服务、原因或预计恢复时间。因此，用户在问题处理期间可能会遇到服务中断。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 519 · 💬 473 · DevOps&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50471731&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/12/top_stories_11122026#story-50471731&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Cuban: Facebook knowingly runs AI deepfake scam ads; docs say $16B fraud revenue</title>
@@ -581,6 +608,18 @@
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50443824&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/11/top_stories_11112026#story-50443824&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Gemini 4 Hydrogen</title>
+      <link>https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50471431</guid>
+      <dc:creator>dvaplima</dc:creator>
+      <pubDate>Thu, 12 Nov 2026 18:01:48 +0000</pubDate>
+      <category>AI</category>
+      <description>&lt;p&gt;Google has introduced Gemini 4 Hydrogen as a fast, cost-efficient model for agentic workflows and everyday tasks. The company positions it as a daily-use model for reliable agentic work. Google also says Hydrogen brings advanced intelligence to users broadly.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Google 推出了 Gemini 4 Hydrogen，将其定位为面向智能体工作流和日常任务的快速、高性价比模型。公司将其定位为可日常使用、适合可靠智能体工作的模型。Google 还表示，Hydrogen 将先进的智能能力带给更广泛的用户。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 468 · 💬 299 · AI&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50471431&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/12/top_stories_11122026#story-50471431&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Declarative Dragging</title>
       <link>https://declarative-dragging.github.io/</link>
       <guid isPermaLink="true">https://news.ycombinator.com/item?id=50368481</guid>
@@ -607,44 +646,6 @@
 &lt;p&gt;&lt;em&gt;Watched 允许用户输入地点，查找过去七天内经过该地点的所有卫星，并获取这些过境对应的 Sentinel-2、Landsat 和 NASA 影像。它在浏览器中使用 SGP4 处理 CelesTrak 目录，耗时约半秒，同时在 GPU 上绘制约 1.7 万个轨道目标。项目称，与暴力搜索对比测试未漏掉任何过境，并表示不会存储用户位置。&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;▲ 458 · 💬 81 · Show HN · Data · Space · Hardware · Web&lt;/small&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50428907&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/10/top_stories_11102026#story-50428907&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Nvidia Board of Directors Is Investigating Jensen Huang</title>
-      <link>https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50416801</guid>
-      <dc:creator>vincentchau</dc:creator>
-      <pubDate>Sun, 08 Nov 2026 20:26:43 +0000</pubDate>
-      <category>Business</category>
-      <category>Legal</category>
-      <description>&lt;p&gt;Nvidia’s board has initiated an independent investigation after reports that founder and CEO Jensen Huang was targeted by a foreign intelligence effort. A committee of independent directors will oversee the investigation with assistance from outside independent counsel. The available statement does not provide further findings.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;英伟达董事会在相关报道指出创始人兼 CEO 黄仁勋成为外国情报行动目标后，启动了独立调查。调查将由独立董事组成的委员会负责，并由外部独立法律顾问协助。现有声明没有提供进一步调查结论。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 458 · 💬 345 · Business · Legal&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50416801&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/08/top_stories_11082026#story-50416801&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Every Windows 11 app should kill Electron, and Discord just showed why</title>
-      <link>https://www.windowslatest.com/2026/11/06/every-windows-11-app-should-kill-electron-and-discord-just-showed-why-no-starting-screen-and-70-less-ram-even-with-two-accounts-signed-in/</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50403507</guid>
-      <dc:creator>thunderbong</dc:creator>
-      <pubDate>Sat, 07 Nov 2026 11:11:15 +0000</pubDate>
-      <category>Programming</category>
-      <description>&lt;p&gt;Discord's new Rust client loads the friends list before the existing Electron app gets past its loading screen and skips the Starting screen. In a cold-start test, the Rust-based client used 290.2 MB of RAM with two accounts signed in. Discord employees confirmed that both applications were launched from a cold start, while a video showing the comparison received 2.3 million views at the time reported.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Discord 的新 Rust 客户端在现有 Electron 客户端还没通过加载界面时就已载入好友列表，并跳过了 Starting 界面。在冷启动测试中，Rust 客户端同时登录两个账号时占用 290.2 MB 内存。Discord 员工确认两款应用都是冷启动，该对比视频当时已获得 230 万次观看。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 457 · 💬 490 · Programming&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50403507&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/08/top_stories_11082026#story-50403507&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Blender 5.3 released with Gaussian Splat support</title>
-      <link>https://www.blender.org/download/releases/5-3/</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50442426</guid>
-      <dc:creator>amlib</dc:creator>
-      <pubDate>Tue, 10 Nov 2026 16:15:43 +0000</pubDate>
-      <category>Open Source</category>
-      <category>Programming</category>
-      <description>&lt;p&gt;Blender 5.3 adds native support for 3D Gaussian Splats. Users can import splats as point clouds, experiment with Geometry Nodes, preview them in Workbench, and render them with EEVEE or Cycles. The release also includes DLSS denoising, light dispersion, an EEVEE fisheye effect, Outliner sorting, and ripple video editing.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Blender 5.3 新增了对 3D Gaussian Splat 的原生支持。用户可以将其作为点云导入，使用 Geometry Nodes 进行实验，在 Workbench 中预览，并通过 EEVEE 或 Cycles 渲染。该版本还加入 DLSS 降噪、光色散、EEVEE 鱼眼效果、大纲视图排序和波纹视频编辑等功能。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 448 · 💬 68 · Open Source · Programming&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50442426&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/10/top_stories_11102026#story-50442426&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
