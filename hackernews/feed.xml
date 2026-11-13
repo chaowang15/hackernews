@@ -5,7 +5,7 @@
     <link>https://chaowang15.github.io/hackernews/</link>
     <description>Curated daily digest of top Hacker News stories with AI-generated summaries, tags, and bilingual translations.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 13 Nov 2026 02:07:03 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 16:05:47 +0000</lastBuildDate>
     <generator>Hacker News Daily RSS Builder</generator>
     <atom:link href="https://chaowang15.github.io/hackernews/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
@@ -17,8 +17,8 @@
       <category>Business</category>
       <description>&lt;p&gt;Jensen Huang has resigned. The available material does not provide reliable details about the timing, reasons, or succession. The departure marks a leadership change at Nvidia.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;黄仁勋已辞职。现有材料没有提供有关时间、原因或继任安排的可靠细节。这意味着英伟达将发生领导层变动。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 2979 · 💬 2806 · Business&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50467087&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/12/top_stories_11122026#story-50467087&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+&lt;p&gt;&lt;small&gt;▲ 3834 · 💬 3304 · Business&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50467087&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/13/top_stories_11132026#story-50467087&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>sshole</title>
@@ -111,6 +111,18 @@
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50403052&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/08/top_stories_11082026#story-50403052&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Service degradation on Microsoft 365</title>
+      <link>https://status.cloud.microsoft/</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50471731</guid>
+      <dc:creator>dkpk</dc:creator>
+      <pubDate>Thu, 12 Nov 2026 18:20:48 +0000</pubDate>
+      <category>DevOps</category>
+      <description>&lt;p&gt;Microsoft 365 is experiencing service degradation. The available material does not specify which services are affected, the cause, or the expected resolution time. Users may therefore encounter disruptions while the incident is being addressed.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Microsoft 365 正在经历服务降级。现有材料没有说明受影响的具体服务、原因或预计恢复时间。因此，用户在问题处理期间可能会遇到服务中断。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 1083 · 💬 911 · DevOps&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50471731&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/13/top_stories_11132026#story-50471731&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Libghostty 1.0</title>
       <link>https://mitchellh.com/writing/libghostty-1-0</link>
       <guid isPermaLink="true">https://news.ycombinator.com/item?id=50399933</guid>
@@ -136,6 +148,21 @@
 &lt;p&gt;&lt;em&gt;AI 代理分析 NASA 的激光雷达数据，在墨西哥丛林下识别出一处玛雅遗址。考古学家其实已经绘制过该遗址的地图，并在 Estrada-Belli 等人 2025 年的论文中记录了它，只是它尚未列入墨西哥国家人类学与历史研究所（INAH）的官方名录。因此，代理完成的是“重新发现”而非发现；从提出想法到收到墨西哥政府的正式回复耗时不到 72 小时。&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;▲ 1027 · 💬 390 · AI · Science · Space · Politics&lt;/small&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50452455&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/12/top_stories_11122026#story-50452455&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Anthropic IPO</title>
+      <link>https://ipo.anthropic.com/us/</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50465829</guid>
+      <dc:creator>josephljohnston</dc:creator>
+      <pubDate>Thu, 12 Nov 2026 11:46:41 +0000</pubDate>
+      <category>Business</category>
+      <category>Finance</category>
+      <category>AI</category>
+      <category>Science</category>
+      <description>&lt;p&gt;Anthropic has filed to become a public company and published a founders’ letter along with related information. The company is organized as a public benefit corporation focused on securing AI’s benefits and mitigating its risks. It says AI could accelerate scientific innovation, increase economic growth, help cure major diseases, and address long-standing problems if managed well.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Anthropic 已提交申请，准备成为一家上市公司，并公布了创始人公开信及相关信息。该公司采用公益公司架构，致力于发挥人工智能的益处并降低其风险。Anthropic 表示，如果得到妥善管理，人工智能可能加速科学创新、提高经济增长率、推动重大疾病治疗，并解决长期未能解决的问题。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 983 · 💬 888 · Business · Finance · AI · Science&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50465829&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/13/top_stories_11132026#story-50465829&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>AWS emulator</title>
@@ -202,19 +229,16 @@
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50429906&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/09/top_stories_11092026#story-50429906&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Anthropic IPO</title>
-      <link>https://ipo.anthropic.com/us/</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50465829</guid>
-      <dc:creator>josephljohnston</dc:creator>
-      <pubDate>Thu, 12 Nov 2026 11:46:41 +0000</pubDate>
-      <category>Business</category>
-      <category>Finance</category>
-      <category>AI</category>
-      <category>Science</category>
-      <description>&lt;p&gt;Anthropic has filed to become a public company and published a founders’ letter along with related information. The company is organized as a public benefit corporation focused on securing AI’s benefits and mitigating its risks. It says AI could accelerate scientific innovation, increase economic growth, help cure major diseases, and address long-standing problems if managed well.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Anthropic 已提交申请，准备成为一家上市公司，并公布了创始人公开信及相关信息。该公司采用公益公司架构，致力于发挥人工智能的益处并降低其风险。Anthropic 表示，如果得到妥善管理，人工智能可能加速科学创新、提高经济增长率、推动重大疾病治疗，并解决长期未能解决的问题。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 825 · 💬 806 · Business · Finance · AI · Science&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50465829&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/12/top_stories_11122026#story-50465829&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+      <title>Rust 1.100</title>
+      <link>https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50472038</guid>
+      <dc:creator>mbStavola</dc:creator>
+      <pubDate>Thu, 12 Nov 2026 18:39:05 +0000</pubDate>
+      <category>Programming</category>
+      <description>&lt;p&gt;The Rust team has released Rust 1.100.0. Rust is described as a language for building reliable and efficient software. Users with an existing rustup installation can install the new version through rustup.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Rust 团队发布了 Rust 1.100.0。Rust 被定位为用于构建可靠、高效软件的编程语言。已经通过 rustup 安装 Rust 的用户可以使用 rustup 获取新版本。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 802 · 💬 293 · Programming&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50472038&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/13/top_stories_11132026#story-50472038&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>What I run on my $10 USD OpenStick homelab</title>
@@ -227,6 +251,18 @@
 &lt;p&gt;&lt;em&gt;作者花 10 美元（含运费）买了一台 OpenStick，主要是因为这款硬件新奇而有趣。它的性能可能还不如许多现代智能手表，但仍然适合进行有趣的自托管实验。这个项目展示了廉价小设备如何成为入门家庭实验室的起点。&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;▲ 781 · 💬 134 · Hardware&lt;/small&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50406670&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/08/top_stories_11082026#story-50406670&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Nvidia employees petition to bring back Jensen Huang</title>
+      <link>https://www.wired.com/story/nvidia-employees-petition-for-jensen-huangs-return/</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50477231</guid>
+      <dc:creator>lavendermon</dc:creator>
+      <pubDate>Fri, 13 Nov 2026 02:16:24 +0000</pubDate>
+      <category>Business</category>
+      <description>&lt;p&gt;More than 1,600 comments, mostly supportive, have appeared on an internal Nvidia post urging the board to consider employee sentiment about former CEO Jensen Huang. The post was submitted before Huang’s resignation by a longtime engineer and asked the board to consider employee views before taking action. Some employees are now asking the board to find a way to bring Huang back despite reports of multiple extramarital affairs and his abrupt resignation.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;英伟达内部一则呼吁董事会考虑员工对前 CEO 黄仁勋看法的帖子已收到超过 1,600 条评论，其中大多数表示支持。该帖子由一名长期任职的工程师在黄仁勋辞职前提交，要求董事会在采取行动前考虑员工意见。尽管有报道称黄仁勋存在多段婚外情并突然辞职，仍有部分员工要求董事会设法让他回归。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 737 · 💬 594 · Business&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50477231&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/13/top_stories_11132026#story-50477231&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Goodbye Claude, hello Pi</title>
@@ -307,18 +343,6 @@
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50415628&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/08/top_stories_11082026#story-50415628&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>MS Paint Remote Code Execution Vulnerability</title>
-      <link>https://www.cve.org/CVERecord?id=CVE-2026-83844</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50384233</guid>
-      <dc:creator>kuberwastaken</dc:creator>
-      <pubDate>Thu, 05 Nov 2026 20:43:42 +0000</pubDate>
-      <category>Security</category>
-      <description>&lt;p&gt;A remote code execution vulnerability has been reported in Microsoft Paint. The issue could allow code to run remotely when exploited.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;微软画图工具被报告存在远程代码执行漏洞。攻击者利用该问题后，可能在远程执行代码。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 704 · 💬 276 · Security&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50384233&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/06/top_stories_11062026#story-50384233&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>Amazon saves millions by replacing Sonnet 4.6 with Strands Decider</title>
       <link>https://strandsagents.com/blog/amazon-saves-millions-replacing-sonnet-with-strands-decider/</link>
       <guid isPermaLink="true">https://news.ycombinator.com/item?id=50436640</guid>
@@ -331,6 +355,19 @@
 &lt;p&gt;&lt;em&gt;亚马逊的两名工程师在一个大型内部工单系统中，用 Strands Decider 替代了 Claude Sonnet 4.6。Sonnet 原本在智能程度和成本之间取得了平衡，但据称 Strands Decider 在表现相当的情况下将成本降低了 98%。这一调整预计每年可节省数百万美元的 token 费用。&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;▲ 693 · 💬 242 · Finance · Business · AI&lt;/small&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50436640&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/10/top_stories_11102026#story-50436640&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Show HN: My $300 embroidery machine needed a subscription, so I built my own app</title>
+      <link>https://github.com/simpsoka/zigzag</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50470488</guid>
+      <dc:creator>simpsoka</dc:creator>
+      <pubDate>Thu, 12 Nov 2026 17:02:42 +0000</pubDate>
+      <category>Show HN</category>
+      <category>Programming</category>
+      <description>&lt;p&gt;A developer built a replacement app for a $300 embroidery machine that required a subscription. The project is published as Zigzag. The available description does not provide further technical details about the machine or the application.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;一名开发者为一台需要订阅的 300 美元刺绣机编写了替代应用。该项目以 Zigzag 的形式发布。现有描述没有提供有关机器或应用的更多技术细节。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 661 · 💬 218 · Show HN · Programming&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50470488&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/13/top_stories_11132026#story-50470488&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>United Airlines bans AI agents from booking flights on behalf of travelers</title>
@@ -410,18 +447,6 @@
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50427362&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/10/top_stories_11102026#story-50427362&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Britain to make salary disclosure in job ads mandatory</title>
-      <link>https://www.reuters.com/business/world-at-work/britain-make-salary-disclosure-job-ads-mandatory-2026-11-05/</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50389222</guid>
-      <dc:creator>1659447091</dc:creator>
-      <pubDate>Fri, 06 Nov 2026 07:22:04 +0000</pubDate>
-      <category>Politics</category>
-      <description>&lt;p&gt;Britain plans to make salary disclosure mandatory in job advertisements. Employers would have to include pay information when advertising open positions.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;英国计划强制招聘广告披露薪资信息。雇主发布职位空缺时将必须列出薪酬信息。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 577 · 💬 437 · Politics&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50389222&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/06/top_stories_11062026#story-50389222&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>A false smoke alarm almost drowned Jane Street's only NYC datacenter</title>
       <link>https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/</link>
       <guid isPermaLink="true">https://news.ycombinator.com/item?id=50455394</guid>
@@ -469,6 +494,18 @@
 &lt;p&gt;&lt;em&gt;Google 发布了由 Gemini Decision 1 模型驱动的 Gemini Decisions API。它可以在一次处理中，针对文本、图像、音频、视频和 PDF，评估最多 1,000 个是非题、选择题或按评分标准判定的问题。Google 将其描述为速度快且经过校准的决策 API。&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;▲ 554 · 💬 157 · AI&lt;/small&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50456791&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/12/top_stories_11122026#story-50456791&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Gemini 4 Hydrogen</title>
+      <link>https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50471431</guid>
+      <dc:creator>dvaplima</dc:creator>
+      <pubDate>Thu, 12 Nov 2026 18:01:48 +0000</pubDate>
+      <category>AI</category>
+      <description>&lt;p&gt;Google has introduced Gemini 4 Hydrogen as a fast, cost-efficient model for agentic workflows and everyday tasks. The company positions it as a daily-use model for reliable agentic work. Google also says Hydrogen brings advanced intelligence to users broadly.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Google 推出了 Gemini 4 Hydrogen，将其定位为面向智能体工作流和日常任务的快速、高性价比模型。公司将其定位为可日常使用、适合可靠智能体工作的模型。Google 还表示，Hydrogen 将先进的智能能力带给更广泛的用户。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 553 · 💬 343 · AI&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50471431&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/13/top_stories_11132026#story-50471431&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Scion is back and is going to sell a kei truck in America</title>
@@ -531,32 +568,6 @@
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50459703&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/11/top_stories_11112026#story-50459703&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Service degradation on Microsoft 365</title>
-      <link>https://status.cloud.microsoft/</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50471731</guid>
-      <dc:creator>dkpk</dc:creator>
-      <pubDate>Thu, 12 Nov 2026 18:20:48 +0000</pubDate>
-      <category>DevOps</category>
-      <description>&lt;p&gt;Microsoft 365 is experiencing service degradation. The available material does not specify which services are affected, the cause, or the expected resolution time. Users may therefore encounter disruptions while the incident is being addressed.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Microsoft 365 正在经历服务降级。现有材料没有说明受影响的具体服务、原因或预计恢复时间。因此，用户在问题处理期间可能会遇到服务中断。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 519 · 💬 473 · DevOps&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50471731&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/12/top_stories_11122026#story-50471731&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Cuban: Facebook knowingly runs AI deepfake scam ads; docs say $16B fraud revenue</title>
-      <link>https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50385870</guid>
-      <dc:creator>randycupertino</dc:creator>
-      <pubDate>Thu, 05 Nov 2026 23:09:57 +0000</pubDate>
-      <category>AI</category>
-      <category>Security</category>
-      <category>Business</category>
-      <description>&lt;p&gt;Mark Cuban says AI-generated scam ads have used his face to promote a diabetes cure he never sold. He says people contact him every week believing they bought the supposed cure for $294. The claims come amid allegations that Facebook knowingly runs such deepfake scam advertising.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;马克·库班表示，利用其肖像的 AI 生成诈骗广告正在推广他从未销售过的糖尿病疗法。他说，每周都有人联系他，以为自己花 294 美元买到了这种所谓疗法。这些说法出现之际，Facebook 被指控明知相关深度伪造诈骗广告存在却仍在投放。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 505 · 💬 224 · AI · Security · Business&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50385870&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/06/top_stories_11062026#story-50385870&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>Starlink Mini 2</title>
       <link>https://starlink.com/mini-2</link>
       <guid isPermaLink="true">https://news.ycombinator.com/item?id=50444129</guid>
@@ -608,16 +619,16 @@
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50443824&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/11/top_stories_11112026#story-50443824&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Gemini 4 Hydrogen</title>
-      <link>https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50471431</guid>
-      <dc:creator>dvaplima</dc:creator>
-      <pubDate>Thu, 12 Nov 2026 18:01:48 +0000</pubDate>
+      <title>Gemini 4 Hydrogen and Orchestrator</title>
+      <link>https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50472260</guid>
+      <dc:creator>jonbaer</dc:creator>
+      <pubDate>Thu, 12 Nov 2026 18:52:01 +0000</pubDate>
       <category>AI</category>
-      <description>&lt;p&gt;Google has introduced Gemini 4 Hydrogen as a fast, cost-efficient model for agentic workflows and everyday tasks. The company positions it as a daily-use model for reliable agentic work. Google also says Hydrogen brings advanced intelligence to users broadly.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Google 推出了 Gemini 4 Hydrogen，将其定位为面向智能体工作流和日常任务的快速、高性价比模型。公司将其定位为可日常使用、适合可靠智能体工作的模型。Google 还表示，Hydrogen 将先进的智能能力带给更广泛的用户。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 468 · 💬 299 · AI&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50471431&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/12/top_stories_11122026#story-50471431&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;Google Antigravity is rolling out Gemini 4 Hydrogen together with a new model-selector option called Orchestrator. Orchestrator pairs Hydrogen with Google’s strongest models for long-horizon tasks, including Gemini 4 Carbon. The combination is intended to balance quality, efficiency, and latency.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Google Antigravity 正在推出 Gemini 4 Hydrogen，以及模型选择器中的新选项 Orchestrator。Orchestrator 会将 Hydrogen 与包括 Gemini 4 Carbon 在内的 Google 最强模型搭配，用于长时程任务。该组合旨在平衡质量、效率和延迟。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 467 · 💬 144 · AI&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50472260&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/13/top_stories_11132026#story-50472260&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Declarative Dragging</title>
@@ -630,22 +641,6 @@
 &lt;p&gt;&lt;em&gt;“声明式拖拽”提出，界面作者可以通过指定元素拖动后允许到达的模型状态来定义拖拽行为。这样，创建可拖动的图表元素不必直接实现拖拽逻辑，而是描述其允许的结果。该研究获得了 UIST 2026 最佳论文奖。&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;▲ 465 · 💬 62 · Programming&lt;/small&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50368481&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/08/top_stories_11082026#story-50368481&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Show HN: Every satellite that passed over any place this week, and its photos</title>
-      <link>https://www.watched.earth</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50428907</guid>
-      <dc:creator>a585gupt</dc:creator>
-      <pubDate>Mon, 09 Nov 2026 17:51:31 +0000</pubDate>
-      <category>Show HN</category>
-      <category>Data</category>
-      <category>Space</category>
-      <category>Hardware</category>
-      <category>Web</category>
-      <description>&lt;p&gt;Watched lets users enter a location and find every satellite that passed over it in the previous seven days, then retrieve Sentinel-2, Landsat, and NASA imagery from those passes. Its browser-based SGP4 search processes the CelesTrak catalog in about half a second, while roughly 17,000 orbital objects are rendered on the GPU. The project reports no missed passes in tests against brute-force searches and says it does not store locations.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Watched 允许用户输入地点，查找过去七天内经过该地点的所有卫星，并获取这些过境对应的 Sentinel-2、Landsat 和 NASA 影像。它在浏览器中使用 SGP4 处理 CelesTrak 目录，耗时约半秒，同时在 GPU 上绘制约 1.7 万个轨道目标。项目称，与暴力搜索对比测试未漏掉任何过境，并表示不会存储用户位置。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 458 · 💬 81 · Show HN · Data · Space · Hardware · Web&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50428907&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/10/top_stories_11102026#story-50428907&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
