@@ -1,0 +1,1220 @@
+{
+  "meta": {
+    "mode": "top",
+    "source": "https://news.ycombinator.com/",
+    "api": "https://github.com/HackerNews/API",
+    "count_requested": 50,
+    "count_written": 50,
+    "reused_same_day": 0,
+    "reused_cross_day": 23,
+    "reused_history": 0,
+    "new_llm_enriched": 27,
+    "scrape_time_display": "08:04, November 14, 2026 (PST)",
+    "timezone": "America/Los_Angeles",
+    "date_dir": "2026/11/14",
+    "content_date": "2026-11-14",
+    "edition": "morning",
+    "edition_label": "Morning 50",
+    "target_count": 50,
+    "run_time_local": "08:04, November 14, 2026 (PST)",
+    "run_time_utc": "2026-11-14 16:04:11 UTC",
+    "incremental": true,
+    "stories_max": 50,
+    "hot_score_time_utc": "2026-11-14 16:05:22 UTC"
+  },
+  "items": [
+    {
+      "title_en": "Tech Companies Are Trying to Shift the Concept of Privacy (Again)",
+      "url": "https://www.eff.org/deeplinks/2026/11/tech-companies-are-trying-shift-entire-concept-privacy-again",
+      "title_zh": "科技公司又在试图改变隐私的定义",
+      "is_new": true,
+      "created_display": "Created: Nov 14, 2026 / 04:45 PT",
+      "image_url": "https://www.eff.org/files/banner_library/mobile-privacy.png",
+      "summary_en": "Privacy is increasingly affecting people beyond the individual who owns or uses a device. Meta and Google’s smart glasses can record what the wearer is looking at or use AI to describe it, extending the consequences of data collection to bystanders. The shift challenges the older framing of privacy as primarily a matter of personal choice.",
+      "summary_zh": "隐私问题正越来越多地影响设备所有者或使用者之外的人。Meta 和 Google 的智能眼镜可以记录佩戴者所看到的内容，或使用 AI 对其进行描述，使数据收集的后果波及旁观者。这种变化挑战了过去主要将隐私视为个人选择的传统定义。",
+      "hn": {
+        "id": 50496602,
+        "type": "story",
+        "by": "gslin",
+        "score": 165,
+        "descendants": 53,
+        "time": 1794660345,
+        "comments_url": "https://news.ycombinator.com/item?id=50496602"
+      },
+      "hot_score": 8.08,
+      "tags": [
+        "Privacy",
+        "AI"
+      ]
+    },
+    {
+      "title_en": "FAA issues national ground stop – lifted 4.5 hours later",
+      "url": "https://www.nbcnews.com/news/us-news/faa-orders-nationwide-ground-stop-departing-flights-reasons-safety-rcna609247",
+      "title_zh": "FAA 发布全国地面停飞令",
+      "is_new": true,
+      "created_display": "Created: Nov 13, 2026 / 13:05 PT",
+      "image_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-11/261113-Nationwide-Ground-Stop-vsb-1730-0993ea.jpg",
+      "summary_en": "The FAA issued a national ground stop affecting departing flights. The available records identify the action but do not provide reliable details about its duration, cause, or operational impact.",
+      "summary_zh": "美国联邦航空管理局发布了影响出发航班的全国地面停飞令。现有记录确认了这一措施，但未提供其持续时间、原因或运行影响的可靠细节。",
+      "hn": {
+        "id": 50489641,
+        "type": "story",
+        "by": "zulln",
+        "score": 1605,
+        "descendants": 1230,
+        "time": 1794603953,
+        "comments_url": "https://news.ycombinator.com/item?id=50489641"
+      },
+      "tags": [
+        "Politics"
+      ],
+      "hot_score": 6.69
+    },
+    {
+      "title_en": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
+      "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
+      "title_zh": "英伟达被指通过资助 AI 初创公司购买 GPU，人为制造供应紧张",
+      "is_new": true,
+      "created_display": "Created: Nov 13, 2026 / 18:52 PT",
+      "image_url": "https://www.techpowerup.com/img/ooCln2q3jkKNGHen.jpg",
+      "summary_en": "A new report, citing The Wall Street Journal, alleges that NVIDIA increased the GPU and memory shortage by investing in AI startups that then bought NVIDIA GPUs and built data centers. The allegation emerged after Jensen Huang’s departure as NVIDIA’s CEO, according to the supplied report. The claim concerns whether the company’s financing activity helped inflate demand for its own hardware.",
+      "summary_zh": "一份援引《华尔街日报》的新报告称，英伟达通过投资 AI 初创公司，促使这些公司购买英伟达 GPU 并建设数据中心，从而加剧了 GPU 和内存短缺。报告称，这一指控是在 Jensen Huang 离任英伟达 CEO 后出现的。争议焦点在于，英伟达的融资活动是否帮助推高了对其自有硬件的需求。",
+      "hn": {
+        "id": 50493251,
+        "type": "story",
+        "by": "speckx",
+        "score": 878,
+        "descendants": 526,
+        "time": 1794624779,
+        "comments_url": "https://news.ycombinator.com/item?id=50493251"
+      },
+      "hot_score": 6.54,
+      "tags": [
+        "AI",
+        "Business",
+        "Hardware"
+      ]
+    },
+    {
+      "title_en": "Italy fines Meta $887M over Android users' data access",
+      "url": "https://www.reuters.com/world/italy-fines-meta-887-million-over-android-users-data-access-2026-11-14/",
+      "title_zh": "意大利因 Android 用户数据访问问题对 Meta 罚款 8.87 亿美元",
+      "is_new": true,
+      "created_display": "Created: Nov 14, 2026 / 05:48 PT",
+      "image_url": null,
+      "summary_en": "Italy fined Meta $887 million over Android users’ data access. The case concerns Meta’s handling of data access involving users of Android devices.",
+      "summary_zh": "意大利因 Android 用户数据访问问题对 Meta 处以 8.87 亿美元罚款。案件涉及 Meta 如何处理 Android 设备用户的数据访问。",
+      "hn": {
+        "id": 50497009,
+        "type": "story",
+        "by": "giuliomagnifico",
+        "score": 82,
+        "descendants": 27,
+        "time": 1794664086,
+        "comments_url": "https://news.ycombinator.com/item?id=50497009"
+      },
+      "hot_score": 5.89,
+      "tags": [
+        "Privacy",
+        "Legal"
+      ]
+    },
+    {
+      "title_en": "Serving GLM-5.3 at 607.8 tok/s across two Nvidia DGX stations with vLLM",
+      "url": "https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm/",
+      "title_zh": "使用 vLLM 在两台英伟达 DGX 工作站上以 607.8 token/s 部署 GLM-5.3",
+      "is_new": true,
+      "created_display": "Created: Nov 14, 2026 / 06:09 PT",
+      "image_url": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/11/image3-3.webp",
+      "summary_en": "The deployment uses two NVIDIA DGX Stations connected by ConnectX-8 RDMA to serve GLM-5.3 through one endpoint. Tensor parallelism splits the model’s weights and computation across the systems. The NVFP4 model has 753 billion parameters, activates 40 billion per token, and occupies about 464 GB, exceeding the 252 GB of HBM3e on a single GB300 GPU, so the setup keeps all weights in GPU memory without CPU offload.",
+      "summary_zh": "该部署使用两台通过 ConnectX-8 RDMA 连接的 NVIDIA DGX 工作站，通过单一端点提供 GLM-5.3 服务。张量并行将模型权重和计算任务拆分到两台机器上。这个 NVFP4 模型拥有 7530 亿个参数，每个 token 激活 400 亿个参数，占用约 464 GB，超过单块 GB300 GPU 的 252 GB HBM3e，因此该方案不启用 CPU 权重卸载，而是将全部权重保存在 GPU 内存中。",
+      "hn": {
+        "id": 50497155,
+        "type": "story",
+        "by": "wondersky",
+        "score": 52,
+        "descendants": 32,
+        "time": 1794665365,
+        "comments_url": "https://news.ycombinator.com/item?id=50497155"
+      },
+      "hot_score": 4.34,
+      "tags": [
+        "AI",
+        "Hardware"
+      ]
+    },
+    {
+      "title_en": "KDE: The Documentary on Free Software [video]",
+      "url": "https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c",
+      "title_zh": "KDE：自由软件纪录片［视频］",
+      "is_new": true,
+      "created_display": "Created: Nov 14, 2026 / 05:43 PT",
+      "image_url": "https://tube.kockatoo.org/lazy-static/thumbnails/02935b80-28d9-4fd7-bc33-9d0cb76f2e80.webp",
+      "summary_en": "The documentary tells the story of KDE, an early open-source community that offered computer users a free and open alternative to proprietary desktops such as Windows. Its story begins in 1996. The video page also warns that the embedded player is incompatible with the current browser and recommends using the latest Firefox.",
+      "summary_zh": "这部纪录片讲述了 KDE 这一早期开源社区的故事，以及它如何为计算机用户提供 Windows 等专有桌面的免费、开放替代方案。故事从 1996 年开始。视频页面还提示，嵌入式播放器与当前浏览器不兼容，并建议使用最新版 Firefox。",
+      "hn": {
+        "id": 50496976,
+        "type": "story",
+        "by": "mrkn1",
+        "score": 54,
+        "descendants": 1,
+        "time": 1794663808,
+        "comments_url": "https://news.ycombinator.com/item?id=50496976"
+      },
+      "hot_score": 3.73,
+      "tags": [
+        "Open Source",
+        "Web"
+      ]
+    },
+    {
+      "title_en": "Show HN: A terminal-native idle factory game, written in Rust with ratatui",
+      "url": "https://gitlab.com/snipedbywifi/terminactory",
+      "title_zh": "Show HN：用 Rust 和 ratatui 编写的终端原生放置工厂游戏",
+      "is_new": true,
+      "created_display": "Created: Nov 14, 2026 / 06:05 PT",
+      "image_url": "https://gitlab.com/assets/twitter_card-570ddb06edf56a2312253c5872489847a0f385112ddbcd71ccfa1570febab5d2.jpg",
+      "summary_en": "Term inactory is a cozy factory game that runs directly in a terminal and was built for playing while waiting on long-running agent tasks. It includes basic factory mechanics such as building, deleting, selecting, measuring earnings, and researching unlocks. Additional features include a fictional browser with a wiki and forums, extensive lore, and hooks that display coding-agent responses as in-game “telegrams.”",
+      "summary_zh": "Term inactory 是一款直接运行在终端中的休闲工厂游戏，适合在等待耗时较长的代理任务时游玩。游戏包含建造、删除、选择、收益测算和研究解锁等基本工厂机制。它还加入了带有 Wiki 和论坛的虚构浏览器、大量背景故事，以及将编码代理回复显示为游戏内“电报”的钩子功能。",
+      "hn": {
+        "id": 50497132,
+        "type": "story",
+        "by": "snipedbywifi",
+        "score": 46,
+        "descendants": 3,
+        "time": 1794665154,
+        "comments_url": "https://news.ycombinator.com/item?id=50497132"
+      },
+      "hot_score": 3.73,
+      "tags": [
+        "Show HN",
+        "Programming",
+        "Gaming",
+        "Web"
+      ]
+    },
+    {
+      "title_en": "Monkey Island: all 13 versions side by side",
+      "url": "https://monkeyisland.pages.dev/",
+      "title_zh": "《猴岛的秘密》全部 13 个版本并排对比",
+      "is_new": true,
+      "created_display": "Created: Nov 13, 2026 / 20:23 PT",
+      "image_url": "https://monkeyisland.pages.dev/og-image.jpg",
+      "summary_en": "The project presents every version of The Secret of Monkey Island from 1990 side by side, covering eight editions and 13 display modes across systems including Hercules, CGA, EGA, VGA, Amiga, Atari ST, Macintosh, FM Towns, and Sega CD. It shows the same 12 scenes in each version, with captures scaled to 1600×1200 using nearest-neighbor scaling and corrected for a 4:3 display. The presentation keeps the framing constant so differences come from the original machines and display modes.",
+      "summary_zh": "这个项目并排展示了 1990 年《猴岛的秘密》的所有版本，涵盖 Hercules、CGA、EGA、VGA、Amiga、Atari ST、Macintosh、FM Towns 和 Sega CD 等平台上的 8 个版本、13 种显示模式。每个版本都展示相同的 12 个场景，截图使用最近邻算法放大到 1600×1200，并进行 4:3 显示比例校正。展示保持相同构图，因此差异主要来自原始机器和显示模式。",
+      "hn": {
+        "id": 50493904,
+        "type": "story",
+        "by": "maximilianburke",
+        "score": 319,
+        "descendants": 96,
+        "time": 1794630210,
+        "comments_url": "https://news.ycombinator.com/item?id=50493904"
+      },
+      "hot_score": 2.86,
+      "tags": [
+        "Gaming"
+      ]
+    },
+    {
+      "title_en": "Ggml v1.0.0",
+      "url": "https://github.com/ggml-org/ggml/releases/tag/v1.0.0",
+      "title_zh": "ggml v1.0.0",
+      "is_new": true,
+      "created_display": "Created: Nov 13, 2026 / 18:28 PT",
+      "image_url": "https://opengraph.githubassets.com/398ed72e9316d12d32e3371787d19fb096c1afc67fd25fc61f9c70d69c03087c/ggml-org/ggml/releases/tag/v1.0.0",
+      "summary_en": "ggml 1.0.0 removes deprecated public APIs and the legacy DIAG_MASK operations, while adding configurable YaRN truncation and FP8 support. It also delivers performance work across CUDA, Metal, Vulkan, SYCL, OpenCL, WebGPU, and Hexagon backends, including quantized matrix multiplication, MoE fusion, FlashAttention paths, and scheduler improvements. The release broadens hardware and backend support while reducing unnecessary input uploads.",
+      "summary_zh": "ggml 1.0.0 移除了已弃用的公共 API 和旧版 DIAG_MASK 操作，并加入可配置的 YaRN 截断和 FP8 支持。该版本还改进了 CUDA、Metal、Vulkan、SYCL、OpenCL、WebGPU 和 Hexagon 后端的性能，包括量化矩阵乘法、MoE 融合、FlashAttention 路径和调度器优化。此次发布扩大了硬件与后端支持，并减少了不必要的输入上传。",
+      "hn": {
+        "id": 50493062,
+        "type": "story",
+        "by": "cobychapple",
+        "score": 355,
+        "descendants": 54,
+        "time": 1794623309,
+        "comments_url": "https://news.ycombinator.com/item?id=50493062"
+      },
+      "hot_score": 2.52,
+      "tags": [
+        "Programming",
+        "Hardware",
+        "Web"
+      ]
+    },
+    {
+      "title_en": "Advancing science and engineering with Antigravity's /teamwork",
+      "url": "https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/",
+      "title_zh": "用 Antigravity 的 /teamwork 推进科学与工程",
+      "is_new": true,
+      "created_display": "Created: Nov 14, 2026 / 05:20 PT",
+      "image_url": "https://storage.googleapis.com/gweb-research2023-media/images/HO_previewImage1.width-800.format-jpeg.jpg",
+      "summary_en": "Google Research reports recent results from Antigravity’s /teamwork multi-agent systems, which are designed to support human-AI collaboration on open problems. The systems have been applied to mathematics, chemistry, systems software, and machine-learning engineering. The work was conducted with human experts, and Google says the tools are being made available externally.",
+      "summary_zh": "Google Research 公布了 Antigravity 的 /teamwork 多代理系统的最新成果，该系统旨在支持人类与 AI 协作解决开放性问题。相关系统已应用于数学、化学、系统软件和机器学习工程领域。这些工作由人类专家参与完成，Google 表示将向外部用户提供这些工具。",
+      "hn": {
+        "id": 50496811,
+        "type": "story",
+        "by": "acossta",
+        "score": 37,
+        "descendants": 11,
+        "time": 1794662443,
+        "comments_url": "https://news.ycombinator.com/item?id=50496811"
+      },
+      "hot_score": 2.18,
+      "tags": [
+        "AI",
+        "Science"
+      ]
+    },
+    {
+      "title_en": "Show HN: Agweb – a browser for agents that stays out of your way",
+      "url": "https://github.com/paul-nameless/agweb",
+      "title_zh": "Show HN：Agweb——不妨碍用户操作的代理浏览器",
+      "is_new": true,
+      "created_display": "Created: Nov 14, 2026 / 06:08 PT",
+      "image_url": "https://opengraph.githubassets.com/31463c5df060fcbbeca86417c726e0e635a8765806a7740c1f6b0f1cdd1fd931/paul-nameless/agweb",
+      "summary_en": "Agweb is a macOS browser for coding agents, built on WebKit and designed not to steal keyboard focus. Agents control the single window from the shell through an agweb command modeled on Playwright CLI, while users can watch all tabs live in one view. Idle tabs are suspended; the author reports that five open pages used 0% CPU on a Mac, compared with five to seven busy cores from Chrome’s GPU process.",
+      "summary_zh": "Agweb 是一款面向编码代理的 macOS 浏览器，基于 WebKit 构建，设计目标是不抢占键盘焦点。代理通过类似 Playwright CLI 的 agweb 命令从 shell 控制这个窗口，用户则可以在一个视图中实时查看所有标签页。闲置标签页会被挂起；作者称，在 Mac 上打开五个页面时其 CPU 占用为 0%，而 Chrome 的 GPU 进程会占用五到七个繁忙核心。",
+      "hn": {
+        "id": 50497147,
+        "type": "story",
+        "by": "paul_nameless",
+        "score": 23,
+        "descendants": 6,
+        "time": 1794665292,
+        "comments_url": "https://news.ycombinator.com/item?id=50497147"
+      },
+      "hot_score": 1.85,
+      "tags": [
+        "Show HN",
+        "Web",
+        "Hardware"
+      ]
+    },
+    {
+      "title_en": "Terminal borders that don't cost a cell",
+      "url": "https://www.joshka.net/cell-borders/",
+      "title_zh": "不占用终端单元格的边框",
+      "is_new": true,
+      "created_display": "Created: Nov 13, 2026 / 15:06 PT",
+      "image_url": "https://www.joshka.net/cell-borders/og.png",
+      "summary_en": "A proposed terminal protocol draws thin borders, rounded corners, and gridlines along cell edges without consuming rows or columns. The implementation works in Ghostty, with demos built using Ratatui. It aims to give terminal user interfaces more visual design options than conventional box-based layouts.",
+      "summary_zh": "一种新的终端协议可以沿单元格边缘绘制细线、圆角和网格线，而不占用额外的行或列。该实现可在 Ghostty 中运行，并提供了使用 Ratatui 构建的演示。它旨在为终端用户界面提供比传统方框布局更多的视觉设计选择。",
+      "hn": {
+        "id": 50491423,
+        "type": "story",
+        "by": "vinhnx",
+        "score": 363,
+        "descendants": 154,
+        "time": 1794611200,
+        "comments_url": "https://news.ycombinator.com/item?id=50491423"
+      },
+      "tags": [
+        "Programming"
+      ],
+      "hot_score": 1.81
+    },
+    {
+      "title_en": "The Myth of Neutral Code",
+      "url": "https://foss.life/notes/2026/the-myth-of-neutral-code/",
+      "title_zh": "中立代码的神话",
+      "is_new": true,
+      "created_display": "Created: Nov 14, 2026 / 05:52 PT",
+      "image_url": "https://foss.life/og.png",
+      "summary_en": "The essay challenges the corporate idea that open-source software is apolitical, neutral, and governed purely by technical merit. It describes a recurring argument that codes of conduct and attention to problematic individuals have made software political and damaged an earlier meritocracy. The discussion frames open-source tools as products of social and institutional choices rather than neutral utilities.",
+      "summary_zh": "这篇文章质疑一种企业化观念：开源软件是非政治的、中立的，并且完全由技术 merit 统治。文章描述了一种反复出现的说法，即行为准则以及对项目中有争议人物的关注让软件变得政治化，并破坏了过去的技术 meritocracy。文章将开源工具视为社会和制度选择的产物，而非中立的工具。",
+      "hn": {
+        "id": 50497041,
+        "type": "story",
+        "by": "birdculture",
+        "score": 20,
+        "descendants": 9,
+        "time": 1794664331,
+        "comments_url": "https://news.ycombinator.com/item?id=50497041"
+      },
+      "hot_score": 1.42,
+      "tags": [
+        "Open Source",
+        "Politics"
+      ]
+    },
+    {
+      "title_en": "Live airband on all frequencies from KORS. Victoria, CA also ground stopped",
+      "url": "https://orcasairband.com/",
+      "title_zh": "KORS 全频段直播航空无线电；加拿大维多利亚也实施地面停飞",
+      "is_new": true,
+      "created_display": "Created: Nov 13, 2026 / 14:04 PT",
+      "image_url": null,
+      "summary_en": "The service provides live, transcribed, and archived aviation radio transmissions from Orcas Island, Washington. It lets listeners monitor all channels at once, choose individual channels, or rewind to earlier transmissions. The title also reports that Victoria, Canada, was placed under a ground stop.",
+      "summary_zh": "这项服务提供来自华盛顿州奥卡斯岛的航空无线电实时转录和存档内容。用户可以同时收听所有频道、选择单个频道，或回放此前的通信。标题还显示，加拿大维多利亚也实施了地面停飞。",
+      "hn": {
+        "id": 50490593,
+        "type": "story",
+        "by": "mmaunder",
+        "score": 286,
+        "descendants": 66,
+        "time": 1794607464,
+        "comments_url": "https://news.ycombinator.com/item?id=50490593"
+      },
+      "tags": [
+        "Web"
+      ],
+      "hot_score": 1.3
+    },
+    {
+      "title_en": "AI unlocks Gödel's notebooks, said to contain hundreds of proved theorems",
+      "url": "https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths",
+      "title_zh": "AI 解读哥德尔笔记本，据称其中包含数百个已证明定理",
+      "is_new": true,
+      "created_display": "Created: Nov 13, 2026 / 09:30 PT",
+      "image_url": "https://i.guim.co.uk/img/media/6eeccf216579fe2181ae737d30f31abd7590125c/210_58_1759_1407/master/1759.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=334efc63d7472a97d72be0ffd23af8bb",
+      "summary_en": "Kurt Gödel left 1,009 pages of densely written material, much of it in an obsolete shorthand, and the notebooks are said to contain hundreds of proved theorems. Gödel’s published incompleteness theorems transformed mathematics and helped pave the way for the digital age. His unpublished work spans tens of thousands of pages and remains of interest to historians of science.",
+      "summary_zh": "库尔特·哥德尔留下了 1,009 页密集书写的材料，其中许多使用已过时的速记，据称笔记本里包含数百个已证明定理。哥德尔发表的不完备性定理改变了数学，并为数字时代铺平了道路。他未发表的作品多达数万页，至今仍受到科学史学者关注。",
+      "hn": {
+        "id": 50486748,
+        "type": "story",
+        "by": "bookofjoe",
+        "score": 408,
+        "descendants": 103,
+        "time": 1794591010,
+        "comments_url": "https://news.ycombinator.com/item?id=50486748"
+      },
+      "tags": [
+        "AI"
+      ],
+      "hot_score": 1.28
+    },
+    {
+      "title_en": "$11.4M in Nvidia hardware vanishes during shipment from CA to TX",
+      "url": "https://www.freightwaves.com/news/11-4-million-in-nvidia-hardware-vanishes-during-shipment-from-california-to-texas",
+      "title_zh": "价值 1,140 万美元的英伟达硬件在从加州运往德州途中失踪",
+      "is_new": true,
+      "created_display": "Created: Nov 13, 2026 / 10:40 PT",
+      "image_url": "https://www.freightwaves.com/wp-content/uploads/2026/11/09/NVIDIA-Endeavor-1200x628-1.jpg",
+      "summary_en": "Six pallets of NVIDIA computer hardware, reportedly worth $11.4 million, disappeared during shipment from Oakland, California, to Fort Worth, Texas. The truck was collected on August 29, made several extended stops, and was last tracked in San Bernardino County. Oakland police confirmed an ongoing grand-theft investigation, while the carrier’s identity and the circumstances remain unclear.",
+      "summary_zh": "据报道，六托盘英伟达计算机硬件在从加州奥克兰运往德州沃思堡途中失踪，价值 1,140 万美元。卡车于 8 月 29 日提货，途中多次长时间停留，最后在圣贝纳迪诺县失去踪迹。奥克兰警方已确认正在调查这起重大盗窃案，但承运方身份和货物失踪经过仍不清楚。",
+      "hn": {
+        "id": 50487864,
+        "type": "story",
+        "by": "crescit_eundo",
+        "score": 369,
+        "descendants": 199,
+        "time": 1794595244,
+        "comments_url": "https://news.ycombinator.com/item?id=50487864"
+      },
+      "tags": [
+        "Hardware",
+        "Business"
+      ],
+      "hot_score": 1.26
+    },
+    {
+      "title_en": "Unsloth Qwen3.8-27B Quantizations – Dynamic v3.1 Update",
+      "url": "https://unsloth.ai/docs/models/qwen3.8",
+      "title_zh": "Unsloth Qwen3.8-27B 量化模型——Dynamic v3.1 更新",
+      "is_new": true,
+      "created_display": "Created: Nov 13, 2026 / 16:06 PT",
+      "image_url": "https://unsloth.ai/docs/~gitbook/image?url=https%3A%2F%2F2815821428-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Forganizations%252FHpyELzcNe0topgVLGCZY%252Fsites%252Fsite_mXXTe%252Fsocialpreview%252FOeFDVbzp4cgwaId7PbvL%252Funsloth%2520docs%2520pic.png%3Falt%3Dmedia%26token%3Df34a6bcc-db15-449a-bc2d-e0e8f52fe953&width=1200&height=630&sign=9a9d6aae5e35625d4a32adaf8cf74290&sv=3",
+      "summary_en": "Unsloth’s Qwen3.8-27B is a 27-billion-parameter dense model with vision and reasoning capabilities, a 256K context window, and local operation on systems with 17 GB of RAM or VRAM. It is available through Unsloth GGUFs, NVFP4, and Unsloth Desktop. The Dynamic V3.1 quantizations reportedly improve average accuracy by 5–10% at comparable sizes on benchmarks including Terminal Bench and DeepSWE.",
+      "summary_zh": "Unsloth 的 Qwen3.8-27B 是一款拥有 270 亿参数的稠密模型，支持视觉和推理能力，具备 256K 上下文窗口，可在 17 GB 内存或显存的设备上本地运行。它可通过 Unsloth GGUF、NVFP4 和 Unsloth Desktop 使用。Dynamic V3.1 量化版本据称在相近模型大小下，将 Terminal Bench、DeepSWE 等基准的平均准确率提高了 5% 至 10%。",
+      "hn": {
+        "id": 50491980,
+        "type": "story",
+        "by": "Retro_Dev",
+        "score": 211,
+        "descendants": 65,
+        "time": 1794614764,
+        "comments_url": "https://news.ycombinator.com/item?id=50491980"
+      },
+      "tags": [
+        "AI"
+      ],
+      "hot_score": 1.16
+    },
+    {
+      "title_en": "Show HN: Fursoy – Out-of-order RV64IMAFDV core in SystemVerilog (Linux 6.6)",
+      "url": "https://github.com/FURSOY/fursoy-cpu",
+      "title_zh": "Show HN：用 SystemVerilog 编写、支持乱序执行的 RV64IMAFDV 核心（Linux 6.6）",
+      "is_new": true,
+      "created_display": "Created: Nov 14, 2026 / 06:06 PT",
+      "image_url": "https://opengraph.githubassets.com/257dd5357444ef0d8bfc1ddfaaba7ad9066f0286a10bfb18960f212e0b16d313/FURSOY/fursoy-cpu",
+      "summary_en": "Fursoy is a 64-bit out-of-order superscalar RISC-V processor implemented in SystemVerilog. It supports RV64IMAFDV with Zba and Zbb extensions, boots mainline Linux 6.6.50 and BusyBox under Sv39 virtual memory, and includes separate machine, supervisor, and user privilege levels. Synthesis in Nangate 45nm reached 500 MHz timing closure across eight core functional blocks.",
+      "summary_zh": "Fursoy 是一款用 SystemVerilog 实现的 64 位乱序超标量 RISC-V 处理器。它支持带 Zba 和 Zbb 扩展的 RV64IMAFDV，可在 Sv39 虚拟内存下启动主线 Linux 6.6.50 和 BusyBox，并具备机器、监管者和用户三级权限。该设计在 Nangate 45nm 工艺中完成了八个核心功能模块的 500 MHz 时序收敛。",
+      "hn": {
+        "id": 50497137,
+        "type": "story",
+        "by": "fursoy",
+        "score": 15,
+        "descendants": 1,
+        "time": 1794665194,
+        "comments_url": "https://news.ycombinator.com/item?id=50497137"
+      },
+      "hot_score": 1.16,
+      "tags": [
+        "Show HN",
+        "Hardware",
+        "Programming"
+      ]
+    },
+    {
+      "title_en": "Elephants found to be increasingly isolated leading to fractured social networks",
+      "url": "https://today.ucsd.edu/story/elephants-found-to-be-increasingly-isolated-leading-to-fractured-social-networks",
+      "title_zh": "大象日益孤立，社会网络逐渐碎片化",
+      "is_new": true,
+      "created_display": "Created: Nov 13, 2026 / 18:02 PT",
+      "image_url": "https://today.ucsd.edu/teaser_uploads/_social/Elephants-group-1200-628-10-22-26.jpg",
+      "summary_en": "Researchers studying Asian elephants found that declining populations are producing more isolated and fractured communities. They warn that the animals may be approaching a social tipping point that could harm their future. Asian elephants rely on group networks to cooperate in obtaining food and caring for young.",
+      "summary_zh": "研究亚洲象社会动态的学者发现，数量下降正在造成更加孤立、更加碎片化的群体。研究人员警告，大象可能正在接近一个会危及其未来的社会性临界点。亚洲象依靠群体网络合作获取食物并照料幼崽。",
+      "hn": {
+        "id": 50492860,
+        "type": "story",
+        "by": "gmays",
+        "score": 169,
+        "descendants": 37,
+        "time": 1794621762,
+        "comments_url": "https://news.ycombinator.com/item?id=50492860"
+      },
+      "hot_score": 1.14,
+      "tags": [
+        "Science"
+      ]
+    },
+    {
+      "title_en": "Amtrak booking system experiencing major issues amid nationwide FAA ground stop",
+      "url": "https://www.fox5dc.com/news/amtrak-outage-ticket-booking-faa-ground-stop-november-13-2026",
+      "title_zh": "全国 FAA 地面停飞期间，Amtrak 订票系统出现严重故障",
+      "is_new": true,
+      "created_display": "Created: Nov 13, 2026 / 16:52 PT",
+      "image_url": "https://images.foxtv.com/static.fox5dc.com/www.fox5dc.com/content/uploads/2026/11/1200/630/gettyimages-2296656867.jpg?ve=1&tl=1",
+      "summary_en": "Amtrak’s ticket-booking system was reportedly down on Friday evening. The disruption occurred as thousands of travelers across the United States dealt with a nationwide FAA ground stop. An error message appeared on Amtrak’s website when users tried to book tickets.",
+      "summary_zh": "据报道，Amtrak 的订票系统于周五晚间宕机。与此同时，美国各地数千名旅客正应对 FAA 实施的全国地面停飞。用户尝试购票时，Amtrak 网站显示错误消息。",
+      "hn": {
+        "id": 50492315,
+        "type": "story",
+        "by": "snow_mac",
+        "score": 188,
+        "descendants": 71,
+        "time": 1794617549,
+        "comments_url": "https://news.ycombinator.com/item?id=50492315"
+      },
+      "tags": [
+        "Web"
+      ],
+      "hot_score": 1.11
+    },
+    {
+      "title_en": "Jonathan Blow – If AI solved coding, why is my software still the same? [video]",
+      "url": "https://www.youtube.com/watch?v=IRK8h67ol7Q",
+      "title_zh": "Jonathan Blow：如果 AI 已解决编程，为什么我的软件还是老样子？［视频］",
+      "is_new": true,
+      "created_display": "Created: Nov 13, 2026 / 07:08 PT",
+      "image_url": null,
+      "summary_en": "The video is titled “If AI Solved Coding, Why Is My Software Still the Same?” by Jonathan Blow. No further details about the video’s contents are available.",
+      "summary_zh": "该视频由 Jonathan Blow 发布，标题为《如果 AI 已解决编程，为什么我的软件还是老样子？》。现有信息未提供视频内容的更多细节。",
+      "hn": {
+        "id": 50484658,
+        "type": "story",
+        "by": "helloplanets",
+        "score": 407,
+        "descendants": 569,
+        "time": 1794582524,
+        "comments_url": "https://news.ycombinator.com/item?id=50484658"
+      },
+      "tags": [
+        "AI",
+        "Programming"
+      ],
+      "hot_score": 1.08
+    },
+    {
+      "title_en": "Doomsday: Friday, 13 November, A.D. 2026 (1960)",
+      "url": "https://www.science.org/doi/10.1126/science.132.3436.1291",
+      "title_zh": "末日：2026 年 11 月 13 日，星期五（公元 1960 年）",
+      "is_new": true,
+      "created_display": "Created: Nov 13, 2026 / 04:10 PT",
+      "image_url": null,
+      "summary_en": "The item is titled “Doomsday: Friday, 13 November, A.D. 2026” and is dated 1960. No further details about its subject or contents are available.",
+      "summary_zh": "该条目标题为《末日：2026 年 11 月 13 日，星期五》，并标注为公元 1960 年。没有更多关于其主题或内容的可靠信息。",
+      "hn": {
+        "id": 50482379,
+        "type": "story",
+        "by": "voxleone",
+        "score": 485,
+        "descendants": 334,
+        "time": 1794571824,
+        "comments_url": "https://news.ycombinator.com/item?id=50482379"
+      },
+      "tags": [
+        "Science"
+      ],
+      "hot_score": 1.07
+    },
+    {
+      "title_en": "A visual explanation of reinforcement learning",
+      "url": "https://aatishb.com/myriad/how-brains-learn/",
+      "title_zh": "强化学习的可视化解释",
+      "is_new": true,
+      "created_display": "Created: Nov 14, 2026 / 05:31 PT",
+      "image_url": "https://aatishb.com/myriad/promo_learning.jpeg",
+      "summary_en": "The interactive explanation builds a digital being with a simple brain and observes it learning a new behavior. It follows an earlier creature called a spark, which could steer toward light, and shows how small changes to its neural circuitry produced very different behaviors. The presentation uses the creature’s learning process to illustrate reinforcement learning.",
+      "summary_zh": "这个交互式教程构建了一个拥有简单大脑的数字生物，并观察它学习新行为的过程。它延续了此前名为 spark 的生物：该生物能够朝光源转向，而神经回路的微小变化会产生截然不同的行为。教程通过这种学习过程解释强化学习。",
+      "hn": {
+        "id": 50496885,
+        "type": "story",
+        "by": "aatish",
+        "score": 17,
+        "descendants": 0,
+        "time": 1794663066,
+        "comments_url": "https://news.ycombinator.com/item?id=50496885"
+      },
+      "hot_score": 1.04,
+      "tags": [
+        "AI",
+        "Education"
+      ]
+    },
+    {
+      "title_en": "What happened to 3Com?",
+      "url": "https://dfarq.homeip.net/what-happened-to-3com/",
+      "title_zh": "3Com 后来怎么样了？",
+      "is_new": true,
+      "created_display": "Created: Nov 13, 2026 / 15:48 PT",
+      "image_url": "https://i0.wp.com/dfarq.homeip.net/wp-content/uploads/2022/03/what-happened-to-3com-social.jpg?fit=887%2C499&ssl=1",
+      "summary_en": "3Com was a major maker of network cards and other networking equipment, founded in 1979 by Ethernet co-inventor Bob Metcalfe. During the dot-com boom, it was valued at about $5.8 billion and its cards were widely used, despite problems with the 3C501. The company later disappeared in 2009 after a series of missteps left it vulnerable to Cisco and Intel.",
+      "summary_zh": "3Com 曾是网络卡和其他网络设备的重要制造商，由以太网共同发明者鲍勃·梅特卡夫于 1979 年创立。互联网泡沫时期，公司市值约 58 亿美元，其网卡广泛使用，尽管 3C501 型号问题重重。此后，一系列失误使 3Com 易受思科和英特尔竞争影响，并于 2009 年逐渐退出市场。",
+      "hn": {
+        "id": 50491830,
+        "type": "story",
+        "by": "gvieri",
+        "score": 184,
+        "descendants": 101,
+        "time": 1794613739,
+        "comments_url": "https://news.ycombinator.com/item?id=50491830"
+      },
+      "tags": [
+        "Business"
+      ],
+      "hot_score": 0.98
+    },
+    {
+      "title_en": "Show HN: Live map of U.S. flights during tonight's FAA nationwide ground stop",
+      "url": "https://grounds.top/",
+      "title_zh": "Show HN：全国 FAA 地面停飞期间的美国航班实时地图",
+      "is_new": true,
+      "created_display": "Created: Nov 13, 2026 / 15:17 PT",
+      "image_url": "https://grounds.top/og.png",
+      "summary_en": "The project provides a live and replayable map of U.S. air traffic during the November 13, 2026 FAA nationwide ground stop. It compares airborne flights with a normal Friday, and displays departures and backlogs at major airports. Aircraft positions come from the community ADS-B network, while airport delay data comes from FAA NAS Status; the map is unofficial and independent of the FAA.",
+      "summary_zh": "该项目提供 2026 年 11 月 13 日 FAA 全国地面停飞期间美国空中交通的实时及回放地图。地图将当时的空中航班与普通周五进行对比，并显示航班起飞情况及主要机场的积压。飞机位置来自社区 ADS-B 网络，机场延误数据来自 FAA NAS Status；该地图为独立的非官方项目。",
+      "hn": {
+        "id": 50491545,
+        "type": "story",
+        "by": "gvsi",
+        "score": 189,
+        "descendants": 23,
+        "time": 1794611859,
+        "comments_url": "https://news.ycombinator.com/item?id=50491545"
+      },
+      "tags": [
+        "Show HN"
+      ],
+      "hot_score": 0.96
+    },
+    {
+      "title_en": "FM-1 Workbench",
+      "url": "https://open.m-vave.com/fm1-workbench",
+      "title_zh": "FM-1 工作台",
+      "is_new": true,
+      "created_display": "Created: Nov 13, 2026 / 11:14 PT",
+      "image_url": null,
+      "summary_en": "FM1 Workbench has eight tracks, six sound sources, and 16 built-in projects. Each track supports 16, 32, 48, or 64 steps. Common operations use single-button controls, while detailed adjustments are available through long-press menus and the web interface.",
+      "summary_zh": "FM1 Workbench 拥有 8 条音轨、6 种音源和 16 个内置工程。每条音轨支持 16、32、48 或 64 步。常用操作通过单键完成，详细调整则可在长按菜单和网页界面中进行。",
+      "hn": {
+        "id": 50488325,
+        "type": "story",
+        "by": "simonebrunozzi",
+        "score": 258,
+        "descendants": 169,
+        "time": 1794597242,
+        "comments_url": "https://news.ycombinator.com/item?id=50488325"
+      },
+      "tags": [
+        "Hardware"
+      ],
+      "hot_score": 0.92
+    },
+    {
+      "title_en": "After 600 experiments, here's what I discovered about JEPA world models",
+      "url": "https://haddyalchaer.com/jepa",
+      "title_zh": "经过 600 次实验，我对 JEPA 世界模型有了这些发现",
+      "is_new": true,
+      "created_display": "Created: Nov 13, 2026 / 09:55 PT",
+      "image_url": "https://haddyalchaer.com/images/stories/jepa-thumbs/planning.png",
+      "summary_en": "The author reports conducting 600 experiments on JEPA world models. The work is framed against a debate over whether world models should generate future pixels or instead learn representations focused on information useful for decision-making. Supporters of the latter view, including Yann LeCun, argue that many pixels are irrelevant or inherently unpredictable for planning long-horizon tasks.",
+      "summary_zh": "作者报告称围绕 JEPA 世界模型进行了 600 次实验。相关工作置于一场争论之中：世界模型究竟应生成未来像素，还是应学习聚焦于决策有用信息的表示。包括 Yann LeCun 在内的支持者认为，许多像素与规划无关，或本身就无法被准确预测。",
+      "hn": {
+        "id": 50487185,
+        "type": "story",
+        "by": "halcdev",
+        "score": 278,
+        "descendants": 46,
+        "time": 1794592528,
+        "comments_url": "https://news.ycombinator.com/item?id=50487185"
+      },
+      "tags": [
+        "AI"
+      ],
+      "hot_score": 0.9
+    },
+    {
+      "title_en": "Reverse engineering my Coway air purifier to ditch the cloud",
+      "url": "https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/",
+      "title_zh": "逆向工程我的 Coway 空气净化器，摆脱云端控制",
+      "is_new": true,
+      "created_display": "Created: Nov 12, 2026 / 14:03 PT",
+      "image_url": "https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/coway-airmega-icons-cover.jpg",
+      "summary_en": "During the 2017 wave of annual wildfires on the West Coast, many Bay Area residents bought air purifiers because their homes were poorly insulated and sealed. The author describes buying a Coway Airmega to avoid breathing wildfire soot and reverse-engineering it to remove its dependence on cloud services. The project reflects a broader effort to keep household devices locally controlled.",
+      "summary_zh": "2017 年西海岸接连发生野火时，许多湾区居民因为房屋隔热和密封性能较差而购买空气净化器，以避免吸入野火烟尘。作者介绍了自己购买 Coway Airmega，并对其进行逆向工程，以摆脱对云端服务的依赖。这一项目体现了将家用设备控制权保留在本地的尝试。",
+      "hn": {
+        "id": 50474959,
+        "type": "story",
+        "by": "scottjg",
+        "score": 773,
+        "descendants": 215,
+        "time": 1794520989,
+        "comments_url": "https://news.ycombinator.com/item?id=50474959"
+      },
+      "tags": [
+        "Hardware",
+        "Privacy"
+      ],
+      "hot_score": 0.85
+    },
+    {
+      "title_en": "Found: A protein that drives ageing without unleashing inflammation",
+      "url": "https://www.nature.com/articles/d41586-026-03638-3",
+      "title_zh": "发现：一种推动衰老却不会引发炎症的蛋白质",
+      "is_new": true,
+      "created_display": "Created: Nov 13, 2026 / 11:25 PT",
+      "image_url": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03638-3/d41586-026-03638-3_53962202.jpg",
+      "summary_en": "Researchers identified granzyme K as an enzyme that drives ageing-related changes in body tissues. Mice engineered to lack the enzyme showed improved heart and liver function and less kidney damage, while liver stiffening and scarring declined. Drugs that reduce the protein could potentially target ageing effects without impairing immune defenses, although that application remains prospective.",
+      "summary_zh": "研究人员发现，颗粒酶 K 是一种会推动身体组织衰老变化的酶。经过基因改造、缺乏该酶的小鼠心脏和肝脏功能有所改善，肾脏损伤也更少，肝脏硬化和瘢痕减少。降低这种蛋白质水平的药物未来或许能针对衰老影响，同时不损害免疫防御，但这一应用仍属于前景设想。",
+      "hn": {
+        "id": 50488470,
+        "type": "story",
+        "by": "gumby",
+        "score": 236,
+        "descendants": 64,
+        "time": 1794597921,
+        "comments_url": "https://news.ycombinator.com/item?id=50488470"
+      },
+      "tags": [
+        "Science"
+      ],
+      "hot_score": 0.85
+    },
+    {
+      "title_en": "PyPI's redesigned project pages with clearer security signals are now live",
+      "url": "https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/",
+      "title_zh": "PyPI 重设计的项目页面现已上线，安全信号更加清晰",
+      "is_new": true,
+      "created_display": "Created: Nov 14, 2026 / 07:40 PT",
+      "image_url": "https://blog.pypi.org/assets/images/social/posts/2026-11-06-ui-updates-complete.png",
+      "summary_en": "PyPI has completed and launched its redesigned project pages. The new interface adds a dedicated security tab, a rebuilt release-files tab, and refreshed documentation to make package details and release-file provenance easier to inspect. The changes were shaped by user research with members of the Python community.",
+      "summary_zh": "PyPI 已完成并上线重新设计的项目页面。新界面增加了专门的安全标签页、重做的发布文件标签页和更新后的文档，让用户更容易查看软件包详情及发布文件的来源。这些改动参考了对 Python 社区成员开展的用户研究。",
+      "hn": {
+        "id": 50497892,
+        "type": "story",
+        "by": "rbanffy",
+        "score": 5,
+        "descendants": 0,
+        "time": 1794670852,
+        "comments_url": "https://news.ycombinator.com/item?id=50497892"
+      },
+      "hot_score": 0.82,
+      "tags": [
+        "Security",
+        "Programming"
+      ]
+    },
+    {
+      "title_en": "Show HN: Isometric SF – A pixel-art map of the SF Bay Area",
+      "url": "https://isometricsf.com/",
+      "title_zh": "Show HN：等距旧金山——旧金山湾区像素艺术地图",
+      "is_new": true,
+      "created_display": "Created: Nov 13, 2026 / 09:58 PT",
+      "image_url": "https://isometricsf.com/og-image.jpg",
+      "summary_en": "The project transforms 1,300 square miles of Google Photorealistic 3D Tiles covering the San Francisco Bay Area into a cohesive pixel-art map. It includes landmarks such as Apple Park, the Palace of Fine Arts, and UC Berkeley. The creator used LoRA fine-tuning with Qwen and Klein models, estimating that using the larger Nano Banana 2 model for the final map would have cost about $7,000.",
+      "summary_zh": "该项目将覆盖旧金山湾区、面积达 1,300 平方英里的 Google Photorealistic 3D Tiles 转换为统一的像素艺术地图。地图包含 Apple Park、艺术宫和加州大学伯克利分校等地标。作者使用 Qwen 和 Klein 模型进行 LoRA 微调，并估计若用更大的 Nano Banana 2 制作最终地图，成本约为 7,000 美元。",
+      "hn": {
+        "id": 50487228,
+        "type": "story",
+        "by": "juscha1",
+        "score": 241,
+        "descendants": 75,
+        "time": 1794592717,
+        "comments_url": "https://news.ycombinator.com/item?id=50487228"
+      },
+      "tags": [
+        "Show HN",
+        "Programming"
+      ],
+      "hot_score": 0.78
+    },
+    {
+      "title_en": "How Not to Build a Music Player",
+      "url": "https://alichraghi.github.io/blog/how-not-to-build-a-music-player/",
+      "title_zh": "如何不要制作音乐播放器",
+      "is_new": true,
+      "created_display": "Created: Nov 13, 2026 / 15:04 PT",
+      "image_url": "https://alichraghi.github.io/blog/how-not-to-build-a-music-player/public-release.avif",
+      "summary_en": "The author began archiving music and seeking offline alternatives after an internet shutdown made online music players impractical under an oppressive regime. Strawberry provided a feature-rich offline option, but its internet-fetched lyrics were sometimes not synchronized and displayed distracting timestamps. The experience led the author to consider alternatives such as foobar2000.",
+      "summary_zh": "互联网关闭后，在线音乐播放器在压制性政权环境下变得不切实际，作者因此开始归档音乐并寻找离线替代方案。功能丰富的 Strawberry 一度满足需求，但其联网获取的歌词有时不同步，还会显示令人分心的时间戳。这段经历让作者开始考虑 foobar2000 等其他播放器。",
+      "hn": {
+        "id": 50491400,
+        "type": "story",
+        "by": "vinhnx",
+        "score": 155,
+        "descendants": 70,
+        "time": 1794611070,
+        "comments_url": "https://news.ycombinator.com/item?id=50491400"
+      },
+      "tags": [
+        "Programming"
+      ],
+      "hot_score": 0.77
+    },
+    {
+      "title_en": "Formalizing US Tax Code (Using Lean)",
+      "url": "https://lexifina.com/blog/formalizing-the-us-tax-code",
+      "title_zh": "用 Lean 形式化美国税法",
+      "is_new": true,
+      "created_display": "Created: Nov 14, 2026 / 07:41 PT",
+      "image_url": "https://lexifina.com/social-preview-v3.png?v=20261018",
+      "summary_en": "The project aims to formalize the entire U.S. Internal Revenue Code in Lean and use formal search to find previously unknown loopholes. Lean’s type checker verifies mathematical proofs step by step from explicit definitions. Earlier experiments reportedly rediscovered known loopholes, including the backdoor Roth, by searching retirement-account rules.",
+      "summary_zh": "这个项目计划用 Lean 形式化整个美国《国内税收法典》，并通过形式化搜索寻找此前未知的漏洞。Lean 的类型检查器会根据明确的定义逐步验证数学证明。此前的实验据称已经通过搜索退休账户规则重新发现了包括 backdoor Roth 在内的已知漏洞。",
+      "hn": {
+        "id": 50497900,
+        "type": "story",
+        "by": "dnw",
+        "score": 4,
+        "descendants": 0,
+        "time": 1794670880,
+        "comments_url": "https://news.ycombinator.com/item?id=50497900"
+      },
+      "hot_score": 0.62,
+      "tags": [
+        "Science",
+        "Education",
+        "Business"
+      ]
+    },
+    {
+      "title_en": "A technical vision for the Haskell ecosystem",
+      "url": "https://discourse.haskell.org/t/a-technical-vision-for-the-haskell-ecosystem/15078",
+      "title_zh": "Haskell 生态系统的技术愿景",
+      "is_new": true,
+      "created_display": "Created: Nov 13, 2026 / 06:43 PT",
+      "image_url": "https://us1.discourse-cdn.com/flex002/uploads/haskell/original/1X/89166504e40f4869ea825dd70048017861ec8578.png",
+      "summary_en": "The Haskell Foundation’s technical leadership committee has been successfully established and is now fully operational. It has spent the past few weeks discussing its vision and strategy. The committee plans to develop initiatives and proposals requiring funding and execution, with participation from companies, contractors, volunteers, and the wider community.",
+      "summary_zh": "Haskell Foundation 的技术领导委员会已经完成组建，目前正式运作。委员会过去几周一直在讨论愿景和战略。接下来，它计划推动需要资金和执行的项目与提案，并邀请企业、承包商、志愿者及更广泛的社区参与。",
+      "hn": {
+        "id": 50484235,
+        "type": "story",
+        "by": "cosmic_quanta",
+        "score": 223,
+        "descendants": 145,
+        "time": 1794580992,
+        "comments_url": "https://news.ycombinator.com/item?id=50484235"
+      },
+      "tags": [
+        "Programming"
+      ],
+      "hot_score": 0.57
+    },
+    {
+      "title_en": "Vercel should fork and maintain Deno",
+      "url": "https://news.ycombinator.com/item?id=50497196",
+      "title_zh": "Vercel 应该 fork 并维护 Deno",
+      "is_new": true,
+      "created_display": "Created: Nov 14, 2026 / 06:15 PT",
+      "image_url": null,
+      "summary_en": "The proposal argues that Vercel should take over Deno after its acquisition by Cloudflare and the stated plan to eventually sunset it. The author says Vercel has the resources to maintain the project and expresses interest in working on that effort. The post asks how Deno should continue after the Cloudflare acquisition.",
+      "summary_zh": "这项提议认为，在 Deno 被 Cloudflare 收购且后者已表示最终会停止其项目之后，Vercel 应该接手并维护 Deno。作者认为 Vercel 具备维护该项目所需的资源，并表示有兴趣参与这项工作。帖子还征询 Deno 在 Cloudflare 收购后的发展方向。",
+      "hn": {
+        "id": 50497196,
+        "type": "story",
+        "by": "gfalcao",
+        "score": 7,
+        "descendants": 2,
+        "time": 1794665706,
+        "comments_url": "https://news.ycombinator.com/item?id=50497196"
+      },
+      "hot_score": 0.53,
+      "tags": [
+        "Programming",
+        "Business"
+      ]
+    },
+    {
+      "title_en": "Perplexity Decider v1.3: Training, eval, and use cases",
+      "url": "https://www.perplexity.ai/hub/blog/perplexity-decider",
+      "title_zh": "Perplexity Decider v1.3：训练、评测与使用场景",
+      "is_new": true,
+      "created_display": "Created: Nov 13, 2026 / 11:24 PT",
+      "image_url": "https://cdn.sanity.io/images/aqo64vfr/production/76ef8b5b28ef57516b89d0f531f7b3d18e61fc43-1600x838.png?rect=2,0,1596,838&w=1200&h=630&fm=jpg&q=80&fit=crop",
+      "summary_en": "Perplexity released Decider v1.3 and the smaller distilled Decider Flash v1.3. The models are described alongside training and evaluation details, including locate extraction, real-world results, and costs. Both are available on Hugging Face under the Apache license, through OpenRouter, and via the Perplexity Decisions API.",
+      "summary_zh": "Perplexity 发布了 Decider v1.3，以及由其蒸馏而来的较小模型 Decider Flash v1.3。配套介绍涵盖训练与评测细节，包括定位提取、真实场景结果和成本。两款模型均以 Apache 许可证发布于 Hugging Face，并可通过 OpenRouter 和 Perplexity Decisions API 使用。",
+      "hn": {
+        "id": 50488464,
+        "type": "story",
+        "by": "gmays",
+        "score": 141,
+        "descendants": 26,
+        "time": 1794597887,
+        "comments_url": "https://news.ycombinator.com/item?id=50488464"
+      },
+      "tags": [
+        "AI",
+        "Open Source"
+      ],
+      "hot_score": 0.51
+    },
+    {
+      "title_en": "Minnesota guitarist's \"palmfrets\" invention strikes a new chord",
+      "url": "https://www.echopress.com/business/minnesota-guitarists-invention-strikes-a-new-chord",
+      "title_zh": "明尼苏达吉他手发明“掌上品格”，奏响新乐章",
+      "is_new": true,
+      "created_display": "Created: Nov 13, 2026 / 07:08 PT",
+      "image_url": "https://cdn.forumcomm.com/dims4/default/95aa056/2147483647/strip/true/crop/4000x6000+0+0/resize/711x1066!/quality/90/?url=https%3A%2F%2Fforum-communications-production-web.s3.us-west-2.amazonaws.com%2Fbrightspot%2F3b%2F90%2Fa54fe0b6401a829c97f4af9f0a95%2Fdsc-2026.JPG",
+      "summary_en": "A Minnesota guitarist has developed an invention called “palmfrets.” The device is presented as a new approach to guitar fretting. Its intended role is to change how players access or operate the instrument’s frets.",
+      "summary_zh": "一名明尼苏达州吉他手开发了一项名为“palmfrets”的发明。该装置被介绍为一种新的吉他按弦方式，旨在改变演奏者接触和操作品格的方式。",
+      "hn": {
+        "id": 50484650,
+        "type": "story",
+        "by": "bookofjoe",
+        "score": 189,
+        "descendants": 108,
+        "time": 1794582487,
+        "comments_url": "https://news.ycombinator.com/item?id=50484650"
+      },
+      "tags": [
+        "Hardware"
+      ],
+      "hot_score": 0.5
+    },
+    {
+      "title_en": "Live-migration support in FreeBSD and bhyve coming",
+      "url": "https://gyptazy.com/blog/freebsd-bhyve-live-migration-support-rfc/",
+      "title_zh": "FreeBSD 和 bhyve 即将支持实时迁移",
+      "is_new": true,
+      "created_display": "Created: Nov 13, 2026 / 11:58 PT",
+      "image_url": "https://cdn.gyptazy.com/img/freebsd-bhyve-live-migration.jpg",
+      "summary_en": "A first working implementation can live-migrate a running amd64 bhyve guest between two FreeBSD 15.1 hosts over TCP. The guest continues running during pre-copy memory transfer and dirty-page tracking, pausing only for the final stop-and-copy phase. The work adds migration support to the vmm kernel module, bhyve, and bhyvectl, while building on experimental snapshot support.",
+      "summary_zh": "一项初步可用的实现可以通过 TCP，在两台 FreeBSD 15.1 主机之间实时迁移运行中的 amd64 bhyve 虚拟机。虚拟机在预复制内存传输和脏页跟踪期间继续运行，仅在最后的停止并复制阶段暂停。该工作为 vmm 内核模块、bhyve 和 bhyvectl 增加了迁移支持，并建立在实验性快照功能之上。",
+      "hn": {
+        "id": 50488835,
+        "type": "story",
+        "by": "JohnDohnBohn",
+        "score": 130,
+        "descendants": 36,
+        "time": 1794599922,
+        "comments_url": "https://news.ycombinator.com/item?id=50488835"
+      },
+      "tags": [
+        "Open Source",
+        "Programming",
+        "Privacy"
+      ],
+      "hot_score": 0.49
+    },
+    {
+      "title_en": "Lonewolf 0.3 – A standalone XMPP server written in Rust",
+      "url": "https://github.com/lonewolf-im/lonewolf/releases/tag/v0.3.0",
+      "title_zh": "Lonewolf 0.3：用 Rust 编写的独立 XMPP 服务器",
+      "is_new": true,
+      "created_display": "Created: Nov 13, 2026 / 06:28 PT",
+      "image_url": "https://opengraph.githubassets.com/12a3e8f58f8362796794ee2e868b2221562ec295b4cc464c71f68a2edf761dcf/lonewolf-im/lonewolf/releases/tag/v0.3.0",
+      "summary_en": "Lonewolf 0.3.0 adds certificate-authenticated federation, direct TLS, and additional desktop-client features. It remains a pre-1.0, single-node server, while full XMPP compliance and clustering are still on the roadmap. The release expands secure federation without yet providing those larger deployment features.",
+      "summary_zh": "Lonewolf 0.3.0 新增基于证书认证的联邦通信、直接 TLS，以及更多桌面客户端功能。它仍是一个处于 1.0 之前阶段的单节点服务器，完整 XMPP 兼容性和集群支持仍在路线图中。此次更新增强了安全联邦能力，但尚未提供这些更大规模部署功能。",
+      "hn": {
+        "id": 50484007,
+        "type": "story",
+        "by": "ortuman",
+        "score": 149,
+        "descendants": 52,
+        "time": 1794580120,
+        "comments_url": "https://news.ycombinator.com/item?id=50484007"
+      },
+      "tags": [
+        "Programming",
+        "Open Source"
+      ],
+      "hot_score": 0.38
+    },
+    {
+      "title_en": "Ctrl+C, Ctrl+v, Ctrl+cve: Bypassing Android's Clipboard Read Security Measures",
+      "url": "https://toninoble.com/post/ctrlc-ctrlv-ctrlcve",
+      "title_zh": "Ctrl+C、Ctrl+V、Ctrl+CVE：绕过 Android 剪贴板读取安全措施",
+      "is_new": true,
+      "created_display": "Created: Nov 13, 2026 / 10:23 PT",
+      "image_url": null,
+      "summary_en": "The post concerns bypassing Android’s security measures that restrict clipboard reads. It focuses on techniques represented by the “Ctrl+C, Ctrl+V, Ctrl+CVE” framing.",
+      "summary_zh": "这篇文章关注绕过 Android 限制剪贴板读取的安全措施。内容聚焦于标题所概括的“Ctrl+C、Ctrl+V、Ctrl+CVE”相关技术。",
+      "hn": {
+        "id": 50487605,
+        "type": "story",
+        "by": "dethmasque",
+        "score": 96,
+        "descendants": 47,
+        "time": 1794594229,
+        "comments_url": "https://news.ycombinator.com/item?id=50487605"
+      },
+      "tags": [
+        "Security"
+      ],
+      "hot_score": 0.32
+    },
+    {
+      "title_en": "Light Pollution Map",
+      "url": "https://lightpollutionmap.app/",
+      "title_zh": "光污染地图",
+      "is_new": true,
+      "created_display": "Created: Nov 14, 2026 / 03:30 PT",
+      "image_url": "https://lightpollutionmap.app/screenshot.jpg",
+      "summary_en": "The map lets users explore 2026 light-pollution estimates alongside the latest 2025 annual satellite layer. It provides Bortle class, sky-quality meter readings, and dark-sky conditions for any location.",
+      "summary_zh": "这张地图允许用户查看 2026 年光污染估算数据，以及最新的 2025 年年度卫星图层。它还能显示任意地点的 Bortle 等级、天空质量计数值和暗空状况。",
+      "hn": {
+        "id": 50496159,
+        "type": "story",
+        "by": "joebig",
+        "score": 8,
+        "descendants": 0,
+        "time": 1794655843,
+        "comments_url": "https://news.ycombinator.com/item?id=50496159"
+      },
+      "hot_score": 0.24,
+      "tags": [
+        "Science",
+        "Web"
+      ]
+    },
+    {
+      "title_en": "Why get an expensive Pi when I have an old phone?",
+      "url": "https://so.long.thanks.fish/why-pi-when-i-have-an-old-phone/",
+      "title_zh": "既然有旧手机，为什么还要买昂贵的树莓派？",
+      "is_new": true,
+      "created_display": "Created: Nov 10, 2026 / 06:16 PT",
+      "image_url": "https://so.long.thanks.fish/why-pi-when-i-have-an-old-phone/redmi-leds-1200.webp",
+      "summary_en": "The project uses a rooted second-hand Redmi smartphone as a camera and light controller instead of building the system around a Raspberry Pi. The phone already provides a high-resolution camera, GPS, storage, battery, and mobile data, while the original Raspberry Pi design required adding an Arducam 64MP camera and a GPS module. The approach could reduce the number of components and the project’s growing bill.",
+      "summary_zh": "这个项目改用一部已取得 root 权限的二手 Redmi 手机来充当摄像头和灯光控制器，而不是围绕树莓派搭建系统。手机已经具备高分辨率摄像头、GPS、存储、电池和移动数据功能；原先的树莓派方案则需要额外加入 Arducam 6400 万像素摄像头和 GPS 模块。这种做法有望减少组件数量，并控制不断上涨的项目成本。",
+      "hn": {
+        "id": 50440709,
+        "type": "story",
+        "by": "casi",
+        "score": 319,
+        "descendants": 187,
+        "time": 1794320165,
+        "comments_url": "https://news.ycombinator.com/item?id=50440709"
+      },
+      "hot_score": 0.08,
+      "tags": [
+        "Hardware",
+        "Energy"
+      ]
+    },
+    {
+      "title_en": "Let's Write a PostScript Interpreter",
+      "url": "https://beyondloom.com/blog/postscript.html",
+      "title_zh": "编写一个 PostScript 解释器",
+      "is_new": true,
+      "created_display": "Created: Nov 12, 2026 / 21:12 PT",
+      "image_url": null,
+      "summary_en": "The tutorial builds an interpreter for an interesting subset of the PostScript programming language. It deliberately ignores or simplifies many features and most error handling, while ensuring that the examples behave the same in the toy implementation and in a standard interpreter such as Ghostscript. The project presents implementing a language as a practical, human-scale programming exercise.",
+      "summary_zh": "这篇教程将实现 PostScript 编程语言的一个有代表性的子集。教程会忽略或简化许多功能以及大部分错误处理，但确保示例在这个简化实现和 Ghostscript 等标准解释器中的行为一致。项目将编写语言呈现为一项切实可行、适合个人完成的编程练习。",
+      "hn": {
+        "id": 50478632,
+        "type": "story",
+        "by": "RebelPotato",
+        "score": 52,
+        "descendants": 9,
+        "time": 1794546776,
+        "comments_url": "https://news.ycombinator.com/item?id=50478632"
+      },
+      "hot_score": 0.08,
+      "tags": [
+        "Programming",
+        "Education"
+      ]
+    },
+    {
+      "title_en": "Generative AI uses more energy on non-English text",
+      "url": "https://news.umich.edu/generative-ai-uses-more-energy-on-non-english-text/",
+      "title_zh": "生成式 AI 处理非英语文本时耗能更多",
+      "is_new": true,
+      "created_display": "Created: Nov 10, 2026 / 07:07 PT",
+      "image_url": null,
+      "summary_en": "Generative AI uses more energy when processing non-English text. The finding concerns the energy demands of generative-AI systems across different languages.",
+      "summary_zh": "生成式 AI 处理非英语文本时会消耗更多能源。这一发现涉及生成式 AI 系统在不同语言之间的能耗差异。",
+      "hn": {
+        "id": 50441444,
+        "type": "story",
+        "by": "DeepLogin",
+        "score": 72,
+        "descendants": 49,
+        "time": 1794323248,
+        "comments_url": "https://news.ycombinator.com/item?id=50441444"
+      },
+      "hot_score": 0.02,
+      "tags": [
+        "AI",
+        "Science",
+        "Energy"
+      ]
+    },
+    {
+      "title_en": "Show HN: I have trained 15 blood glucose forecasting models on my own data",
+      "url": "https://github.com/0xdeadf1sh/T1DMAI",
+      "title_zh": "Show HN：我用自己的数据训练了 15 个血糖预测模型",
+      "is_new": true,
+      "created_display": "Created: Nov 10, 2026 / 11:07 PT",
+      "image_url": "https://opengraph.githubassets.com/a96c60926cc9fdeb46770d054ac52268a2af06b36e9382dc78a1cffc6c9e5dda/0xdeadf1sh/T1DMAI",
+      "summary_en": "The project is a model zoo for forecasting blood glucose levels, trained and tested on the author’s personal data as well as the public Metabonet dataset. It includes 15 forecasting models, including models developed by the author. Most of the repository’s code was written with AI assistance.",
+      "summary_zh": "这个项目是一个血糖预测模型集合，使用作者自己的数据和公开的 Metabonet 数据集进行训练与测试。集合中包含 15 个预测模型，其中也有作者自行开发的模型。仓库中的大部分代码由 AI 辅助编写。",
+      "hn": {
+        "id": 50444761,
+        "type": "story",
+        "by": "0xdeadf1sh",
+        "score": 70,
+        "descendants": 37,
+        "time": 1794337673,
+        "comments_url": "https://news.ycombinator.com/item?id=50444761"
+      },
+      "hot_score": 0.02,
+      "tags": [
+        "Show HN",
+        "AI",
+        "Data"
+      ]
+    },
+    {
+      "title_en": "The curious case of the north-east arrow",
+      "url": "https://arsh.zip/posts/north-east-arrow/",
+      "title_zh": "东北箭头的奇特案例",
+      "is_new": true,
+      "created_display": "Created: Nov 12, 2026 / 04:14 PT",
+      "image_url": "https://arsh.zip/north-east-arrow/og.png",
+      "summary_en": "The essay examines why AI-built websites increasingly use the northeast arrow symbol, ↗, throughout their interfaces. The author noticed the pattern on a KetchUp landing page and later saw the same behavior while building Timewarp, where the Astra system repeatedly inserted the character. The discussion suggests that AI-generated design conventions may be spreading a symbol beyond its usual use for external links.",
+      "summary_zh": "这篇文章探讨了为什么 AI 构建的网站越来越喜欢在界面中大量使用东北箭头符号“↗”。作者先在 KetchUp 的落地页上注意到这一模式，随后在构建 Timewarp 时也发现 Astra 系统反复插入这个字符。文章指出，AI 生成的设计习惯可能正在让这个原本通常用于外部链接的符号被广泛用于其他场景。",
+      "hn": {
+        "id": 50466069,
+        "type": "story",
+        "by": "arshxyz",
+        "score": 28,
+        "descendants": 10,
+        "time": 1794485660,
+        "comments_url": "https://news.ycombinator.com/item?id=50466069"
+      },
+      "hot_score": 0.02,
+      "tags": [
+        "Design",
+        "AI"
+      ]
+    },
+    {
+      "title_en": "Testing a Trash Can Faraday Cage",
+      "url": "https://www.jefftk.com/p/testing-a-trash-can-faraday-cage",
+      "title_zh": "测试垃圾桶法拉第笼",
+      "is_new": true,
+      "created_display": "Created: Nov 12, 2026 / 06:04 PT",
+      "image_url": "https://www.jefftk.com/receiver-source-no-trash-can-big.jpg",
+      "summary_en": "The experiment examines whether a trash can can serve as a Faraday cage against electromagnetic pulses. A strong EMP could destroy many electronics, and the author identifies a high-altitude nuclear detonation as the most likely near-term source of such a pulse. The discussion is framed around disaster preparedness for risks including pandemics, infrastructure failures, and EMPs.",
+      "summary_zh": "这项实验测试垃圾桶能否充当抵御电磁脉冲的法拉第笼。强电磁脉冲可能摧毁大量电子设备，作者认为近期最可能的来源是高空核爆。相关讨论属于灾害准备的一部分，也涉及疫情、基础设施故障和电磁脉冲等风险。",
+      "hn": {
+        "id": 50467278,
+        "type": "story",
+        "by": "torutofu",
+        "score": 22,
+        "descendants": 5,
+        "time": 1794492267,
+        "comments_url": "https://news.ycombinator.com/item?id=50467278"
+      },
+      "hot_score": 0.02,
+      "tags": [
+        "Science",
+        "DevOps",
+        "Energy"
+      ]
+    },
+    {
+      "title_en": "Extending LLDB to Debug Applications That Span CPUs and GPUs",
+      "url": "https://engineering.fb.com/2026/11/09/developer-tools/extending-lldb-to-debug-applications-that-span-cpus-and-gpus/",
+      "title_zh": "扩展 LLDB，调试跨越 CPU 与 GPU 的应用程序",
+      "is_new": true,
+      "created_display": "Created: Nov 10, 2026 / 16:48 PT",
+      "image_url": "https://engineering.fb.com/wp-content/uploads/2026/11/Extending-LLDB-Hero.png",
+      "summary_en": "A vendor-neutral accelerator plugin architecture was added to lldb-server for debugging applications that span CPUs and GPUs. The architecture separates shared debugger infrastructure from hardware-specific device code. It addresses workloads that move between CPU code and GPU kernels, where different instruction sets, registers, memory spaces, execution models, runtimes, and drivers make coordinated debugging difficult.",
+      "summary_zh": "开发者为 lldb-server 加入了厂商中立的加速器插件架构，用于调试跨越 CPU 和 GPU 的应用程序。该架构将通用调试器基础设施与硬件相关的设备代码分离开来。它针对在 CPU 代码和 GPU 内核之间切换的工作负载，而不同的指令集、寄存器、内存空间、执行模型、运行时和驱动使协同调试变得困难。",
+      "hn": {
+        "id": 50448432,
+        "type": "story",
+        "by": "JDevlieghere",
+        "score": 27,
+        "descendants": 3,
+        "time": 1794358094,
+        "comments_url": "https://news.ycombinator.com/item?id=50448432"
+      },
+      "hot_score": 0.01,
+      "tags": [
+        "Programming",
+        "Hardware",
+        "DevOps"
+      ]
+    },
+    {
+      "title_en": "Service Crew Discovers Rare Yellow Burbot in Oswego Harbor",
+      "url": "https://www.fws.gov/story/2026-11/service-crew-discovers-rare-yellow-burbot-oswego-harbor",
+      "title_zh": "工作人员在奥斯威戈港发现罕见黄色江鳕",
+      "is_new": true,
+      "created_display": "Created: Nov 11, 2026 / 07:47 PT",
+      "image_url": "https://www.fws.gov/sites/default/files/styles/facebook_1200x630/public/images/2026-11/xanthic-burbot_jake-cochran-holding_oswego-harbor_b-weidel-usgs-lobs.jpg?h=926d89e9&itok=fTYd1MSe",
+      "summary_en": "U.S. Fish and Wildlife Service biologists found a rare yellow-orange burbot in Oswego Harbor, New York, during a routine aquatic invasive-species survey. The native fish has xanthochromism, a condition that produces its unusually saturated coloration. The find demonstrates how the agency’s multi-gear monitoring program can detect unusual or watchlist species in Great Lakes waterways, supporting earlier management action.",
+      "summary_zh": "美国鱼类及野生动物管理局的生物学家在纽约州奥斯威戈港进行例行水生入侵物种调查时，发现了一条罕见的黄橙色江鳕。这条本土鱼患有黄化现象，因此呈现异常鲜艳的体色。这一发现展示了该机构如何通过多种装备开展监测，在五大湖水域发现异常物种或观察名单上的物种，从而为及早采取管理措施提供支持。",
+      "hn": {
+        "id": 50454791,
+        "type": "story",
+        "by": "tart-lemonade",
+        "score": 23,
+        "descendants": 12,
+        "time": 1794412063,
+        "comments_url": "https://news.ycombinator.com/item?id=50454791"
+      },
+      "hot_score": 0.01,
+      "tags": [
+        "Science"
+      ]
+    },
+    {
+      "title_en": "Bilingualism and Denaskuleco",
+      "url": "https://pgadey.ca/notes/bilingualism-and-denaskuleco/",
+      "title_zh": "双语能力与 Denaskuleco",
+      "is_new": true,
+      "created_display": "Created: Nov 12, 2026 / 04:00 PT",
+      "image_url": null,
+      "summary_en": "The author’s children are native Esperanto speakers, but their comprehension differs according to their exposure to the language. Mira has heard more Esperanto from the author, attended a European Esperanto family gathering, and understands adults who speak it despite speaking little herself. Mabel, born three years later and exposed to fewer Esperanto books and gatherings, understands less of the language.",
+      "summary_zh": "作者的孩子都是以世界语为母语的使用者，但她们对这门语言的理解程度因接触量不同而有所差异。Mira 更多地听作者说世界语，还参加过欧洲世界语家庭聚会；虽然自己说得不多，她仍能听懂说世界语的成年人。Mabel 比她晚三年出生，接触的世界语童书和聚会较少，因此理解得也更少。",
+      "hn": {
+        "id": 50465926,
+        "type": "story",
+        "by": "surprisetalk",
+        "score": 6,
+        "descendants": 1,
+        "time": 1794484806,
+        "comments_url": "https://news.ycombinator.com/item?id=50465926"
+      },
+      "hot_score": 0.0,
+      "tags": [
+        "Education",
+        "Culture"
+      ]
+    }
+  ]
+}

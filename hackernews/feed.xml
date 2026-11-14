@@ -5,7 +5,7 @@
     <link>https://chaowang15.github.io/hackernews/</link>
     <description>Curated daily digest of top Hacker News stories with AI-generated summaries, tags, and bilingual translations.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 14 Nov 2026 02:07:41 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 16:05:50 +0000</lastBuildDate>
     <generator>Hacker News Daily RSS Builder</generator>
     <atom:link href="https://chaowang15.github.io/hackernews/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
@@ -33,6 +33,18 @@
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50378228&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/08/top_stories_11082026#story-50378228&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>FAA issues national ground stop – lifted 4.5 hours later</title>
+      <link>https://www.nbcnews.com/news/us-news/faa-orders-nationwide-ground-stop-departing-flights-reasons-safety-rcna609247</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50489641</guid>
+      <dc:creator>zulln</dc:creator>
+      <pubDate>Fri, 13 Nov 2026 21:05:53 +0000</pubDate>
+      <category>Politics</category>
+      <description>&lt;p&gt;The FAA issued a national ground stop affecting departing flights. The available records identify the action but do not provide reliable details about its duration, cause, or operational impact.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;美国联邦航空管理局发布了影响出发航班的全国地面停飞令。现有记录确认了这一措施，但未提供其持续时间、原因或运行影响的可靠细节。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 1605 · 💬 1230 · Politics&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50489641&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/14/top_stories_11142026#story-50489641&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Claude Code sends your email address to websites</title>
       <link>https://github.com/anthropics/claude-code/issues/107757</link>
       <guid isPermaLink="true">https://news.ycombinator.com/item?id=50385272</guid>
@@ -57,18 +69,6 @@
 &lt;p&gt;&lt;em&gt;Tim Peters 已去世。他是与 Python 相关的重要人物，但现有信息未提供更多细节。&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;▲ 1396 · 💬 187 · Programming&lt;/small&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50450488&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/12/top_stories_11122026#story-50450488&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>FAA issues national ground stop</title>
-      <link>https://www.nbcnews.com/news/us-news/faa-orders-nationwide-ground-stop-departing-flights-reasons-safety-rcna609247</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50489641</guid>
-      <dc:creator>zulln</dc:creator>
-      <pubDate>Fri, 13 Nov 2026 21:05:53 +0000</pubDate>
-      <category>Politics</category>
-      <description>&lt;p&gt;The FAA issued a national ground stop affecting departing flights. The available records identify the action but do not provide reliable details about its duration, cause, or operational impact.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;美国联邦航空管理局发布了影响出发航班的全国地面停飞令。现有记录确认了这一措施，但未提供其持续时间、原因或运行影响的可靠细节。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 1331 · 💬 821 · Politics&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50489641&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/13/top_stories_11132026#story-50489641&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Foldable Flight: The Best Paper Airplanes</title>
@@ -108,18 +108,6 @@
 &lt;p&gt;&lt;em&gt;作者介绍了坚持十年的家庭自动化原则：家中的核心功能不应依赖厂商服务器。因此，即使互联网中断，房屋仍能继续运行。文章还整理了由这一原则延伸出的其他自动化规则和两场相关演讲。&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;▲ 1142 · 💬 432 · Privacy · Hardware&lt;/small&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50441707&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/11/top_stories_11112026#story-50441707&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Tesla to wind down Cybertruck production</title>
-      <link>https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50391456</guid>
-      <dc:creator>PLenz</dc:creator>
-      <pubDate>Fri, 06 Nov 2026 12:13:51 +0000</pubDate>
-      <category>Business</category>
-      <description>&lt;p&gt;Tesla CEO Elon Musk said Cybertruck production at the company's Texas gigafactory will wind down around mid-2027. He said the move will make room for higher production of the newly launched Cybercab, central to Tesla's robotaxi plans. Cybertruck sales have remained weak, and it has sold in only a limited number of markets. It remains unclear whether production will move elsewhere or end entirely.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;特斯拉 CEO 埃隆·马斯克表示，公司位于得州的超级工厂将在 2027 年年中左右逐步停止生产 Cybertruck。他称，此举将为提高新款 Cybercab 的产量腾出空间，而 Cybercab 是特斯拉机器人出租车计划的核心车型。Cybertruck 销量长期疲软，目前仅在少数市场销售。该车型是转移到其他工厂生产还是彻底停产，目前尚不清楚。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 1135 · 💬 2046 · Business&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50391456&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/07/top_stories_11072026#story-50391456&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Need for Speed Underground 2 online in the browser</title>
@@ -216,6 +204,20 @@
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50429068&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/10/top_stories_11102026#story-50429068&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs</title>
+      <link>https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50493251</guid>
+      <dc:creator>speckx</dc:creator>
+      <pubDate>Sat, 14 Nov 2026 02:52:59 +0000</pubDate>
+      <category>AI</category>
+      <category>Business</category>
+      <category>Hardware</category>
+      <description>&lt;p&gt;A new report, citing The Wall Street Journal, alleges that NVIDIA increased the GPU and memory shortage by investing in AI startups that then bought NVIDIA GPUs and built data centers. The allegation emerged after Jensen Huang’s departure as NVIDIA’s CEO, according to the supplied report. The claim concerns whether the company’s financing activity helped inflate demand for its own hardware.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;一份援引《华尔街日报》的新报告称，英伟达通过投资 AI 初创公司，促使这些公司购买英伟达 GPU 并建设数据中心，从而加剧了 GPU 和内存短缺。报告称，这一指控是在 Jensen Huang 离任英伟达 CEO 后出现的。争议焦点在于，英伟达的融资活动是否帮助推高了对其自有硬件的需求。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 878 · 💬 526 · AI · Business · Hardware&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50493251&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/14/top_stories_11142026#story-50493251&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Rust 1.100</title>
       <link>https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/</link>
       <guid isPermaLink="true">https://news.ycombinator.com/item?id=50472038</guid>
@@ -289,6 +291,19 @@
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50406670&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/08/top_stories_11082026#story-50406670&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Reverse engineering my Coway air purifier to ditch the cloud</title>
+      <link>https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50474959</guid>
+      <dc:creator>scottjg</dc:creator>
+      <pubDate>Thu, 12 Nov 2026 22:03:09 +0000</pubDate>
+      <category>Hardware</category>
+      <category>Privacy</category>
+      <description>&lt;p&gt;During the 2017 wave of annual wildfires on the West Coast, many Bay Area residents bought air purifiers because their homes were poorly insulated and sealed. The author describes buying a Coway Airmega to avoid breathing wildfire soot and reverse-engineering it to remove its dependence on cloud services. The project reflects a broader effort to keep household devices locally controlled.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;2017 年西海岸接连发生野火时，许多湾区居民因为房屋隔热和密封性能较差而购买空气净化器，以避免吸入野火烟尘。作者介绍了自己购买 Coway Airmega，并对其进行逆向工程，以摆脱对云端服务的依赖。这一项目体现了将家用设备控制权保留在本地的尝试。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 773 · 💬 215 · Hardware · Privacy&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50474959&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/14/top_stories_11142026#story-50474959&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Goodbye Claude, hello Pi</title>
       <link>https://caleb.software/posts/claude-to-pi.html</link>
       <guid isPermaLink="true">https://news.ycombinator.com/item?id=50410107</guid>
@@ -299,20 +314,6 @@
 &lt;p&gt;&lt;em&gt;作者从 Claude Code 随 Claude Pro 订阅推出后就开始使用，至今已有一年多。尽管作者认为它的发布可能会成为软件开发史上的重要节点，但长期积累的许多小问题最终让作者不再把它作为主要编程工具。作者目前正将开发环境迁移到 Pi。&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;▲ 732 · 💬 451 · AI&lt;/small&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50410107&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/08/top_stories_11082026#story-50410107&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Blender's UI and Runtime: Much Faster Than GPUI</title>
-      <link>https://github.com/ppmpreetham/BUI</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50389333</guid>
-      <dc:creator>ppmpreetham</dc:creator>
-      <pubDate>Fri, 06 Nov 2026 07:40:35 +0000</pubDate>
-      <category>Programming</category>
-      <category>Hardware</category>
-      <category>Web</category>
-      <description>&lt;p&gt;BUI is a GPU-accelerated Blender user interface decoupled from Blender's original codebase. It supports Rust, Python, JavaScript, React, C, and C++. The project describes its performance as twice that of GPUI.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;BUI 是一个与 Blender 原始代码库解耦的 GPU 加速用户界面。它支持 Rust、Python、JavaScript、React、C 和 C++。项目方称其性能是 GPUI 的两倍。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 726 · 💬 289 · Programming · Hardware · Web&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50389333&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/07/top_stories_11072026#story-50389333&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>USPS now offers official ZIP Code boundary polygons</title>
@@ -394,19 +395,6 @@
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50436640&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/10/top_stories_11102026#story-50436640&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Reverse engineering my Coway air purifier to ditch the cloud</title>
-      <link>https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50474959</guid>
-      <dc:creator>scottjg</dc:creator>
-      <pubDate>Thu, 12 Nov 2026 22:03:09 +0000</pubDate>
-      <category>Hardware</category>
-      <category>Privacy</category>
-      <description>&lt;p&gt;During the 2017 wave of annual wildfires on the West Coast, many Bay Area residents bought air purifiers because their homes were poorly insulated and sealed. The author describes buying a Coway Airmega to avoid breathing wildfire soot and reverse-engineering it to remove its dependence on cloud services. The project reflects a broader effort to keep household devices locally controlled.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;2017 年西海岸接连发生野火时，许多湾区居民因为房屋隔热和密封性能较差而购买空气净化器，以避免吸入野火烟尘。作者介绍了自己购买 Coway Airmega，并对其进行逆向工程，以摆脱对云端服务的依赖。这一项目体现了将家用设备控制权保留在本地的尝试。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 681 · 💬 200 · Hardware · Privacy&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50474959&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/13/top_stories_11132026#story-50474959&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>United Airlines bans AI agents from booking flights on behalf of travelers</title>
       <link>https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/</link>
       <guid isPermaLink="true">https://news.ycombinator.com/item?id=50458900</guid>
@@ -431,18 +419,6 @@
 &lt;p&gt;&lt;em&gt;“苏格拉底式导师”是一项代理技能，通过要求用户推理、预测和解释来帮助其真正掌握知识，而不是单纯进行讲授。它适用于持续的教学过程，不适用于一次性的事实问答。当用户意图不明确时，它会先询问用户想要快速答案还是完整的辅导过程。&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;▲ 655 · 💬 155 · Education · AI&lt;/small&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50438261&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/12/top_stories_11122026#story-50438261&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Dutch 'idealist' bank ASN blocks non-Google Android, including GrapheneOS</title>
-      <link>https://github.com/PrivSec-dev/banking-apps-compat-report/issues/105</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50390124</guid>
-      <dc:creator>microtonal</dc:creator>
-      <pubDate>Fri, 06 Nov 2026 09:27:12 +0000</pubDate>
-      <category>Privacy</category>
-      <description>&lt;p&gt;A compatibility report examines whether the ASN Bank Android app blocks non-Google Android systems, including GrapheneOS. The report identifies app version 2.40.2 in the Netherlands. One user reported that the app appeared to work on a stock operating system.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;一份兼容性报告调查 ASN Bank 的 Android 应用是否屏蔽包括 GrapheneOS 在内的非 Google Android 系统。报告涉及荷兰地区的 2.40.2 版本。一名用户表示，该应用在原生操作系统上看起来可以正常运行。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 648 · 💬 424 · Privacy&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50390124&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/07/top_stories_11072026#story-50390124&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Claude Code's &quot;Don't Ask Again&quot; exposes passwords in 1,122 public GitHub files</title>
@@ -494,19 +470,6 @@
 &lt;p&gt;&lt;em&gt;Jane Street 系统团队的一篇回忆讲述了该公司纽约唯一数据中心发生误报烟雾警报的经过。机房一度失去冷却，员工赶在喷淋系统启动前冲进去拔掉所有电源线。这个事件展示了基础设施险些发生严重故障时，系统团队必须亲自处理现场问题。&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;▲ 575 · 💬 272 · DevOps&lt;/small&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50455394&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/12/top_stories_11122026#story-50455394&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost</title>
-      <link>https://hightouch.com/blog/llm-judges-identity-resolution</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50397429</guid>
-      <dc:creator>theanomaly</dc:creator>
-      <pubDate>Fri, 06 Nov 2026 19:48:51 +0000</pubDate>
-      <category>AI</category>
-      <category>Data</category>
-      <description>&lt;p&gt;Tests of Jev and GPT-6 Luna as judges for identity resolution found out-of-the-box accuracy ranging from 88.8% to 97.3%. A hybrid that combines Jev with Claude Opus matched frontier-level accuracy at more than four times lower cost. Identity resolution maps data records to unique real-world people.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;对 Jev 和 GPT-6 Luna 作为身份解析评判器的测试显示，它们开箱即用的准确率为 88.8% 至 97.3%。将 Jev 与 Claude Opus 结合的混合方案达到了前沿模型水平的准确率，而成本降低了四倍以上。身份解析的任务是将数据记录映射到现实世界中唯一的个人。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 574 · 💬 146 · AI · Data&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50397429&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/07/top_stories_11072026#story-50397429&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>93% of paint splatters are valid Perl programs (2019)</title>
@@ -642,6 +605,42 @@
 &lt;p&gt;&lt;em&gt;Google Antigravity 正在推出 Gemini 4 Hydrogen，以及模型选择器中的新选项 Orchestrator。Orchestrator 会将 Hydrogen 与包括 Gemini 4 Carbon 在内的 Google 最强模型搭配，用于长时程任务。该组合旨在平衡质量、效率和延迟。&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;▲ 495 · 💬 161 · AI&lt;/small&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50472260&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/13/top_stories_11132026#story-50472260&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>E-means: Outperforming k-means in one-tenth the epochs</title>
+      <link>https://e-means.github.io/</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50429734</guid>
+      <dc:creator>porridgeraisin</dc:creator>
+      <pubDate>Mon, 09 Nov 2026 18:45:43 +0000</pubDate>
+      <category>Data</category>
+      <description>&lt;p&gt;E-means is presented as an alternative to Lloyd's k-means algorithm. Across a broad range of scales and datasets, it reached lower test loss than Lloyd's method in 1.2 to 3 epochs, compared with 25 epochs. The reported end-to-end speedup is 10–45× over Flash-KMeans on GPUs and 8–15× over Faiss on CPUs.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;E-means 被介绍为 Lloyd k-means 算法的一种替代方案。在多种规模和数据集上，E-means 用 1.2 至 3 个训练轮次就达到了低于 Lloyd 方法的测试损失，而后者需要 25 个轮次。报告称，端到端速度相比 GPU 上的 Flash-KMeans 提升 10–45 倍，相比 CPU 上的 Faiss 提升 8–15 倍。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 494 · 💬 78 · Data&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50429734&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/10/top_stories_11102026#story-50429734&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Doomsday: Friday, 13 November, A.D. 2026 (1960)</title>
+      <link>https://www.science.org/doi/10.1126/science.132.3436.1291</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50482379</guid>
+      <dc:creator>voxleone</dc:creator>
+      <pubDate>Fri, 13 Nov 2026 12:10:24 +0000</pubDate>
+      <category>Science</category>
+      <description>&lt;p&gt;The item is titled “Doomsday: Friday, 13 November, A.D. 2026” and is dated 1960. No further details about its subject or contents are available.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;该条目标题为《末日：2026 年 11 月 13 日，星期五》，并标注为公元 1960 年。没有更多关于其主题或内容的可靠信息。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 485 · 💬 334 · Science&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50482379&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/14/top_stories_11142026#story-50482379&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Elevated errors on claude.ai, Claude Code, and platform.claude.com</title>
+      <link>https://status.claude.com/incidents/nn11wk485zfn</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50481187</guid>
+      <dc:creator>__vivek</dc:creator>
+      <pubDate>Fri, 13 Nov 2026 10:18:13 +0000</pubDate>
+      <category>AI</category>
+      <description>&lt;p&gt;Claude’s status page reported elevated errors affecting claude.ai, Claude Code, and platform.claude.com. The notice identifies the affected services but provides no further incident details in the available information.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Claude 状态页报告称，claude.ai、Claude Code 和 platform.claude.com 的错误率升高。现有信息仅列出了受影响的服务，未提供更多事故细节。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 484 · 💬 383 · AI&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50481187&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/13/top_stories_11132026#story-50481187&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
