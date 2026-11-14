@@ -3,101 +3,169 @@
     "mode": "top",
     "source": "https://news.ycombinator.com/",
     "api": "https://github.com/HackerNews/API",
-    "count_requested": 50,
-    "count_written": 50,
-    "reused_same_day": 0,
-    "reused_cross_day": 21,
+    "count_requested": 100,
+    "count_written": 100,
+    "reused_same_day": 49,
+    "reused_cross_day": 0,
     "reused_history": 0,
-    "new_llm_enriched": 29,
-    "scrape_time_display": "08:04, November 13, 2026 (PST)",
+    "new_llm_enriched": 51,
+    "scrape_time_display": "18:04, November 13, 2026 (PST)",
     "timezone": "America/Los_Angeles",
     "date_dir": "2026/11/13",
     "content_date": "2026-11-13",
-    "edition": "morning",
-    "edition_label": "Morning 50",
-    "target_count": 50,
-    "run_time_local": "08:04, November 13, 2026 (PST)",
-    "run_time_utc": "2026-11-13 16:04:05 UTC",
+    "edition": "full",
+    "edition_label": "All 100",
+    "target_count": 100,
+    "run_time_local": "18:04, November 13, 2026 (PST)",
+    "run_time_utc": "2026-11-14 02:04:39 UTC",
     "incremental": true,
-    "stories_max": 50,
-    "hot_score_time_utc": "2026-11-13 16:05:06 UTC"
+    "stories_max": 100,
+    "hot_score_time_utc": "2026-11-14 02:06:43 UTC"
   },
   "items": [
     {
-      "title_en": "Eli Lilly CEO pushes back on Dario Amodei's medical claims",
-      "url": "https://garymarcus.substack.com/p/breaking-eli-lilly-ceo-becomes-latest",
-      "title_zh": "礼来 CEO 反驳 Dario Amodei 的医疗主张",
+      "title_en": "FAA issues national ground stop",
+      "url": "https://www.nbcnews.com/news/us-news/faa-orders-nationwide-ground-stop-departing-flights-reasons-safety-rcna609247",
+      "title_zh": "FAA 发布全国地面停飞令",
       "is_new": true,
-      "created_display": "Created: Nov 13, 2026 / 05:51 PT",
-      "image_url": null,
-      "summary_en": "The CEO of Eli Lilly pushed back against medical claims made by Dario Amodei. No further details about the claims or the response are available.",
-      "summary_zh": "礼来公司 CEO 反驳了 Dario Amodei 提出的医疗相关主张。现有信息未提供这些主张或回应的更多细节。",
+      "created_display": "Created: Nov 13, 2026 / 13:05 PT",
+      "image_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-11/261113-Nationwide-Ground-Stop-vsb-1730-0993ea.jpg",
+      "summary_en": "The FAA issued a national ground stop affecting departing flights. The available records identify the action but do not provide reliable details about its duration, cause, or operational impact.",
+      "summary_zh": "美国联邦航空管理局发布了影响出发航班的全国地面停飞令。现有记录确认了这一措施，但未提供其持续时间、原因或运行影响的可靠细节。",
       "hn": {
-        "id": 50483480,
+        "id": 50489641,
         "type": "story",
-        "by": "Noaidi",
-        "score": 232,
-        "descendants": 288,
-        "time": 1794577887,
-        "comments_url": "https://news.ycombinator.com/item?id=50483480"
+        "by": "zulln",
+        "score": 1331,
+        "descendants": 821,
+        "time": 1794603953,
+        "comments_url": "https://news.ycombinator.com/item?id=50489641"
       },
-      "hot_score": 17.24,
+      "hot_score": 39.91,
       "tags": [
-        "Health",
-        "Business"
+        "Politics"
       ]
     },
     {
-      "title_en": "Doomsday: Friday, 13 November, A.D. 2026 (1960)",
-      "url": "https://www.science.org/doi/10.1126/science.132.3436.1291",
-      "title_zh": "末日：2026 年 11 月 13 日，星期五（公元 1960 年）",
+      "title_en": "FAA lifted National Ground Stop at 0119Z",
+      "url": "https://www.fly.faa.gov/adv/adv_otherdis?adv_date=11142026&advn=5",
+      "title_zh": "FAA 于 01:19Z 解除全国地面停飞令",
       "is_new": true,
-      "created_display": "Created: Nov 13, 2026 / 04:10 PT",
-      "image_url": null,
-      "summary_en": "The item is titled “Doomsday: Friday, 13 November, A.D. 2026” and is dated 1960. No further details about its subject or contents are available.",
-      "summary_zh": "该条目标题为《末日：2026 年 11 月 13 日，星期五》，并标注为公元 1960 年。没有更多关于其主题或内容的可靠信息。",
+      "created_display": "Created: Nov 13, 2026 / 17:30 PT",
+      "image_url": "https://www.fly.faa.gov/adv/images/head_logo_left.gif",
+      "summary_en": "The FAA lifted a National Ground Stop at 0119Z. The available advisory record confirms the end of the ground stop but provides no further operational details.",
+      "summary_zh": "美国联邦航空管理局于 01:19Z 解除全国地面停飞令。现有通告记录确认停飞令结束，但未提供更多运行细节。",
       "hn": {
-        "id": 50482379,
+        "id": 50492601,
         "type": "story",
-        "by": "voxleone",
-        "score": 304,
-        "descendants": 201,
-        "time": 1794571824,
-        "comments_url": "https://news.ycombinator.com/item?id=50482379"
+        "by": "d3nit",
+        "score": 73,
+        "descendants": 28,
+        "time": 1794619801,
+        "comments_url": "https://news.ycombinator.com/item?id=50492601"
       },
-      "hot_score": 12.37,
+      "hot_score": 12.79,
       "tags": [
-        "Science"
+        "Politics"
       ]
     },
     {
-      "title_en": "Elevated errors on claude.ai, Claude Code, and platform.claude.com",
-      "url": "https://status.claude.com/incidents/nn11wk485zfn",
-      "title_zh": "claude.ai、Claude Code 和 platform.claude.com 错误率升高",
+      "title_en": "Amtrak booking system experiencing major issues amid nationwide FAA ground stop",
+      "url": "https://www.fox5dc.com/news/amtrak-outage-ticket-booking-faa-ground-stop-november-13-2026",
+      "title_zh": "全国 FAA 地面停飞期间，Amtrak 订票系统出现严重故障",
       "is_new": true,
-      "created_display": "Created: Nov 13, 2026 / 02:18 PT",
-      "image_url": "https://dka575ofm4ao0.cloudfront.net/assets/logos/favicon-2b86ed00cfa6258307d4a3d0c482fd733c7973f82de213143b24fc062c540367.png",
-      "summary_en": "Claude’s status page reported elevated errors affecting claude.ai, Claude Code, and platform.claude.com. The notice identifies the affected services but provides no further incident details in the available information.",
-      "summary_zh": "Claude 状态页报告称，claude.ai、Claude Code 和 platform.claude.com 的错误率升高。现有信息仅列出了受影响的服务，未提供更多事故细节。",
+      "created_display": "Created: Nov 13, 2026 / 16:52 PT",
+      "image_url": "https://images.foxtv.com/static.fox5dc.com/www.fox5dc.com/content/uploads/2026/11/1200/630/gettyimages-2296656867.jpg?ve=1&tl=1",
+      "summary_en": "Amtrak’s ticket-booking system was reportedly down on Friday evening. The disruption occurred as thousands of travelers across the United States dealt with a nationwide FAA ground stop. An error message appeared on Amtrak’s website when users tried to book tickets.",
+      "summary_zh": "据报道，Amtrak 的订票系统于周五晚间宕机。与此同时，美国各地数千名旅客正应对 FAA 实施的全国地面停飞。用户尝试购票时，Amtrak 网站显示错误消息。",
       "hn": {
-        "id": 50481187,
+        "id": 50492315,
         "type": "story",
-        "by": "__vivek",
-        "score": 402,
-        "descendants": 336,
-        "time": 1794565093,
-        "comments_url": "https://news.ycombinator.com/item?id=50481187"
+        "by": "snow_mac",
+        "score": 102,
+        "descendants": 30,
+        "time": 1794617549,
+        "comments_url": "https://news.ycombinator.com/item?id=50492315"
       },
-      "hot_score": 9.98,
+      "hot_score": 12.19,
       "tags": [
-        "AI"
+        "Web"
+      ]
+    },
+    {
+      "title_en": "Ukraine knocks out 36% of Russia's oil refining capacity in under two weeks",
+      "url": "https://english.nv.ua/nation/thirteen-day-drone-blitz-paralyzes-36-of-moscow-s-oil-50658616.html",
+      "title_zh": "乌克兰在不到两周内击瘫俄罗斯 36% 的炼油产能",
+      "is_new": true,
+      "created_display": "Created: Nov 13, 2026 / 17:10 PT",
+      "image_url": "https://static.nv.ua/shared/system/Article/posters/003/400/667/original/641dcb95ac384dd3b9c9b9adde85bff0.png?q=85&stamp=20261112140909&f=webp",
+      "summary_en": "Ukrainian drone strikes hit at least nine major Russian refineries between October 30 and November 11, according to defense manufacturer Fire Point. The affected plants have combined annual processing capacity exceeding 120 million metric tons of crude oil, equivalent to 36% of Russia’s domestic refining capacity. The strikes therefore targeted more than a third of the country’s total refining capacity within 13 days.",
+      "summary_zh": "据国防制造商 Fire Point，乌克兰无人机在 10 月 30 日至 11 月 11 日期间袭击了至少 9 座俄罗斯大型炼油厂。受影响炼厂的原油年加工能力合计超过 1.2 亿吨，相当于俄罗斯国内炼油产能的 36%。换言之，13 天内遭到打击的产能超过了俄罗斯炼油总能力的三分之一。",
+      "hn": {
+        "id": 50492456,
+        "type": "story",
+        "by": "kaycebasques",
+        "score": 82,
+        "descendants": 17,
+        "time": 1794618622,
+        "comments_url": "https://news.ycombinator.com/item?id=50492456"
+      },
+      "hot_score": 11.63,
+      "tags": [
+        "Energy"
+      ]
+    },
+    {
+      "title_en": "LibreOffice actually works 365 days a year",
+      "url": "https://twitter.com/LibreOffice/status/2121205272479998268",
+      "title_zh": "LibreOffice 一年 365 天都能正常工作",
+      "is_new": true,
+      "created_display": "Created: Nov 13, 2026 / 09:09 PT",
+      "image_url": "https://pbs.twimg.com/profile_images/1643630535338598402/3ya2QWR3_400x400.jpg",
+      "summary_en": "The post says that LibreOffice works all 365 days of the year. It presents the statement as a brief comparison or endorsement of the office suite’s reliability.",
+      "summary_zh": "这则内容称 LibreOffice 一年 365 天都能正常工作。它以简短的对比或宣传方式强调了这套办公软件的可靠性。",
+      "hn": {
+        "id": 50486482,
+        "type": "story",
+        "by": "mksaunders2",
+        "score": 831,
+        "descendants": 254,
+        "time": 1794589798,
+        "comments_url": "https://news.ycombinator.com/item?id=50486482"
+      },
+      "hot_score": 11.18,
+      "tags": [
+        "Open Source"
+      ]
+    },
+    {
+      "title_en": "Live airband on all frequencies from KORS. Victoria, CA also ground stopped",
+      "url": "https://orcasairband.com/",
+      "title_zh": "KORS 全频段直播航空无线电；加拿大维多利亚也实施地面停飞",
+      "is_new": true,
+      "created_display": "Created: Nov 13, 2026 / 14:04 PT",
+      "image_url": null,
+      "summary_en": "The service provides live, transcribed, and archived aviation radio transmissions from Orcas Island, Washington. It lets listeners monitor all channels at once, choose individual channels, or rewind to earlier transmissions. The title also reports that Victoria, Canada, was placed under a ground stop.",
+      "summary_zh": "这项服务提供来自华盛顿州奥卡斯岛的航空无线电实时转录和存档内容。用户可以同时收听所有频道、选择单个频道，或回放此前的通信。标题还显示，加拿大维多利亚也实施了地面停飞。",
+      "hn": {
+        "id": 50490593,
+        "type": "story",
+        "by": "mmaunder",
+        "score": 202,
+        "descendants": 46,
+        "time": 1794607464,
+        "comments_url": "https://news.ycombinator.com/item?id=50490593"
+      },
+      "hot_score": 7.9,
+      "tags": [
+        "Web"
       ]
     },
     {
       "title_en": "Jensen Huang resigns",
       "url": "https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f",
       "title_zh": "黄仁勋辞职",
-      "is_new": true,
+      "is_new": false,
       "created_display": "Created: Nov 12, 2026 / 05:52 PT",
       "image_url": null,
       "summary_en": "Jensen Huang has resigned. The available material does not provide reliable details about the timing, reasons, or succession. The departure marks a leadership change at Nvidia.",
@@ -106,67 +174,345 @@
         "id": 50467087,
         "type": "story",
         "by": "lldb",
-        "score": 3834,
-        "descendants": 3304,
+        "score": 4010,
+        "descendants": 3416,
         "time": 1794491549,
         "comments_url": "https://news.ycombinator.com/item?id=50467087"
       },
       "tags": [
         "Business"
       ],
-      "hot_score": 9.39
+      "hot_score": 5.68
     },
     {
-      "title_en": "Why Zig over C for Systems Programming",
-      "url": "https://www.mtsoukalos.eu/2026/11/why-zig-over-c-for-systems-programming/",
-      "title_zh": "为什么系统编程应选择 Zig 而不是 C",
+      "title_en": "$11.4M in Nvidia hardware vanishes during shipment from CA to TX",
+      "url": "https://www.freightwaves.com/news/11-4-million-in-nvidia-hardware-vanishes-during-shipment-from-california-to-texas",
+      "title_zh": "价值 1,140 万美元的英伟达硬件在从加州运往德州途中失踪",
       "is_new": true,
-      "created_display": "Created: Nov 13, 2026 / 06:01 PT",
-      "image_url": null,
-      "summary_en": "The author compares Zig with C for systems programming, noting that both are small, garbage-collector-free languages designed to stay close to the machine. Rather than treating Zig as a wholly different alternative, the post examines parts of C that cost the author time and how Zig addresses them. The examples were compiled on a Mac using Zig 0.17 and Clang.",
-      "summary_zh": "作者比较了 Zig 和 C 在系统编程中的特点，指出两者都是小型、无垃圾回收器且贴近机器运行方式的语言。这篇文章并未把 Zig 视为完全不同的替代品，而是考察 C 中哪些部分会耗费时间，以及 Zig 如何应对这些问题。示例代码使用 Zig 0.17 和 Clang 在 Mac 上编译。",
+      "created_display": "Created: Nov 13, 2026 / 10:40 PT",
+      "image_url": "https://www.freightwaves.com/wp-content/uploads/2026/11/09/NVIDIA-Endeavor-1200x628-1.jpg",
+      "summary_en": "Six pallets of NVIDIA computer hardware, reportedly worth $11.4 million, disappeared during shipment from Oakland, California, to Fort Worth, Texas. The truck was collected on August 29, made several extended stops, and was last tracked in San Bernardino County. Oakland police confirmed an ongoing grand-theft investigation, while the carrier’s identity and the circumstances remain unclear.",
+      "summary_zh": "据报道，六托盘英伟达计算机硬件在从加州奥克兰运往德州沃思堡途中失踪，价值 1,140 万美元。卡车于 8 月 29 日提货，途中多次长时间停留，最后在圣贝纳迪诺县失去踪迹。奥克兰警方已确认正在调查这起重大盗窃案，但承运方身份和货物失踪经过仍不清楚。",
       "hn": {
-        "id": 50483611,
+        "id": 50487864,
         "type": "story",
-        "by": "torutofu",
-        "score": 89,
-        "descendants": 30,
-        "time": 1794578473,
-        "comments_url": "https://news.ycombinator.com/item?id=50483611"
+        "by": "crescit_eundo",
+        "score": 293,
+        "descendants": 162,
+        "time": 1794595244,
+        "comments_url": "https://news.ycombinator.com/item?id=50487864"
       },
-      "hot_score": 7.05,
+      "hot_score": 5.14,
+      "tags": [
+        "Hardware",
+        "Business"
+      ]
+    },
+    {
+      "title_en": "All US airports are currently ground stopped",
+      "url": "https://twitter.com/flightradar24/status/2121347654714077605",
+      "title_zh": "美国所有机场目前均实施地面停飞",
+      "is_new": true,
+      "created_display": "Created: Nov 13, 2026 / 13:06 PT",
+      "image_url": "https://pbs.twimg.com/media/HXCKbbLWsAA7R_n?format=webp&name=large",
+      "summary_en": "The FAA placed all U.S. airports under a ground stop, meaning flights could not depart for U.S. airports. Aircraft already in the air were allowed to land. The action was linked to an FAA equipment outage.",
+      "summary_zh": "FAA 对美国所有机场实施了地面停飞，这意味着航班不得起飞前往美国机场。已经在空中的飞机获准降落。此次措施与 FAA 设备故障有关。",
+      "hn": {
+        "id": 50489652,
+        "type": "story",
+        "by": "defly",
+        "score": 169,
+        "descendants": 33,
+        "time": 1794604012,
+        "comments_url": "https://news.ycombinator.com/item?id=50489652"
+      },
+      "hot_score": 5.06,
+      "tags": [
+        "Politics"
+      ]
+    },
+    {
+      "title_en": "It Takes 16 Clicks for a Student to Open a PowerPoint on an iPad",
+      "url": "https://www.reddit.com/r/Teachers/comments/1xuup7a/technology_sucks_it_literally_takes_16_clicks_for/",
+      "title_zh": "学生在 iPad 上打开一个 PowerPoint 要点 16 次点击",
+      "is_new": true,
+      "created_display": "Created: Nov 13, 2026 / 10:18 PT",
+      "image_url": null,
+      "summary_en": "Opening a PowerPoint presentation on an iPad reportedly takes a student 16 clicks. The item presents this as an example of cumbersome technology use in education.",
+      "summary_zh": "据称，学生在 iPad 上打开一个 PowerPoint 演示文稿需要点击 16 次。该内容将其作为教育场景中技术操作繁琐的例子。",
+      "hn": {
+        "id": 50487522,
+        "type": "story",
+        "by": "BobaFloutist",
+        "score": 294,
+        "descendants": 151,
+        "time": 1794593917,
+        "comments_url": "https://news.ycombinator.com/item?id=50487522"
+      },
+      "hot_score": 4.81,
+      "tags": [
+        "Education"
+      ]
+    },
+    {
+      "title_en": "AI unlocks Gödel's notebooks, said to contain hundreds of proved theorems",
+      "url": "https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths",
+      "title_zh": "AI 解读哥德尔笔记本，据称其中包含数百个已证明定理",
+      "is_new": true,
+      "created_display": "Created: Nov 13, 2026 / 09:30 PT",
+      "image_url": "https://i.guim.co.uk/img/media/6eeccf216579fe2181ae737d30f31abd7590125c/210_58_1759_1407/master/1759.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=334efc63d7472a97d72be0ffd23af8bb",
+      "summary_en": "Kurt Gödel left 1,009 pages of densely written material, much of it in an obsolete shorthand, and the notebooks are said to contain hundreds of proved theorems. Gödel’s published incompleteness theorems transformed mathematics and helped pave the way for the digital age. His unpublished work spans tens of thousands of pages and remains of interest to historians of science.",
+      "summary_zh": "库尔特·哥德尔留下了 1,009 页密集书写的材料，其中许多使用已过时的速记，据称笔记本里包含数百个已证明定理。哥德尔发表的不完备性定理改变了数学，并为数字时代铺平了道路。他未发表的作品多达数万页，至今仍受到科学史学者关注。",
+      "hn": {
+        "id": 50486748,
+        "type": "story",
+        "by": "bookofjoe",
+        "score": 334,
+        "descendants": 92,
+        "time": 1794591010,
+        "comments_url": "https://news.ycombinator.com/item?id=50486748"
+      },
+      "hot_score": 4.74,
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "title_en": "Terminal borders that don't cost a cell",
+      "url": "https://www.joshka.net/cell-borders/",
+      "title_zh": "不占用终端单元格的边框",
+      "is_new": true,
+      "created_display": "Created: Nov 13, 2026 / 15:06 PT",
+      "image_url": "https://www.joshka.net/cell-borders/og.png",
+      "summary_en": "A proposed terminal protocol draws thin borders, rounded corners, and gridlines along cell edges without consuming rows or columns. The implementation works in Ghostty, with demos built using Ratatui. It aims to give terminal user interfaces more visual design options than conventional box-based layouts.",
+      "summary_zh": "一种新的终端协议可以沿单元格边缘绘制细线、圆角和网格线，而不占用额外的行或列。该实现可在 Ghostty 中运行，并提供了使用 Ratatui 构建的演示。它旨在为终端用户界面提供比传统方框布局更多的视觉设计选择。",
+      "hn": {
+        "id": 50491423,
+        "type": "story",
+        "by": "vinhnx",
+        "score": 69,
+        "descendants": 40,
+        "time": 1794611200,
+        "comments_url": "https://news.ycombinator.com/item?id=50491423"
+      },
+      "hot_score": 3.75,
       "tags": [
         "Programming"
       ]
     },
     {
-      "title_en": "U.S. October PPI Rises 6.5% YoY, Highest in Nearly Four Years",
-      "url": "https://news.ycombinator.com/item?id=50484421",
-      "title_zh": "美国 10 月生产者价格同比上涨 6.5%，近四年来最高",
+      "title_en": "FM-1 Workbench",
+      "url": "https://open.m-vave.com/fm1-workbench",
+      "title_zh": "FM-1 工作台",
       "is_new": true,
-      "created_display": "Created: Nov 13, 2026 / 06:53 PT",
+      "created_display": "Created: Nov 13, 2026 / 11:14 PT",
       "image_url": null,
-      "summary_en": "U.S. producer prices rose 6.5% year over year in October, the highest increase since November 2022. The result was slightly below the 6.6% expectation but above September’s 6.3%, while prices rose 0.3% month over month versus the 0.4% forecast. September’s monthly increase was revised from 1.3% to 1.4%.",
-      "summary_zh": "美国生产者价格指数 10 月同比上涨 6.5%，创 2022 年 11 月以来最高涨幅。该结果略低于 6.6% 的预期，但高于 9 月的 6.3%；环比上涨 0.3%，也低于 0.4% 的预期。9 月环比涨幅则由 1.3% 修正为 1.4%。",
+      "summary_en": "FM1 Workbench has eight tracks, six sound sources, and 16 built-in projects. Each track supports 16, 32, 48, or 64 steps. Common operations use single-button controls, while detailed adjustments are available through long-press menus and the web interface.",
+      "summary_zh": "FM1 Workbench 拥有 8 条音轨、6 种音源和 16 个内置工程。每条音轨支持 16、32、48 或 64 步。常用操作通过单键完成，详细调整则可在长按菜单和网页界面中进行。",
       "hn": {
-        "id": 50484421,
+        "id": 50488325,
         "type": "story",
-        "by": "moonypto",
-        "score": 57,
-        "descendants": 23,
-        "time": 1794581612,
-        "comments_url": "https://news.ycombinator.com/item?id=50484421"
+        "by": "simonebrunozzi",
+        "score": 181,
+        "descendants": 109,
+        "time": 1794597242,
+        "comments_url": "https://news.ycombinator.com/item?id=50488325"
       },
-      "hot_score": 6.93,
+      "hot_score": 3.53,
+      "tags": [
+        "Hardware"
+      ]
+    },
+    {
+      "title_en": "FAA issues nationwide ground stop due to \"extraordinary circumstances\"",
+      "url": "https://www.axios.com/2026/11/13/faa-nationwide-ground-stop",
+      "title_zh": "FAA 因“特殊情况”发布全国地面停飞令",
+      "is_new": true,
+      "created_display": "Created: Nov 13, 2026 / 13:08 PT",
+      "image_url": null,
+      "summary_en": "The FAA issued a nationwide ground stop because of what it described as “extraordinary circumstances.” No further details about the circumstances or the stop’s operational effects are available here.",
+      "summary_zh": "FAA 因其所称的“特殊情况”发布了全国地面停飞令。现有信息未提供相关情况或停飞措施运行影响的更多细节。",
+      "hn": {
+        "id": 50489678,
+        "type": "story",
+        "by": "owenshen24",
+        "score": 114,
+        "descendants": 35,
+        "time": 1794604129,
+        "comments_url": "https://news.ycombinator.com/item?id=50489678"
+      },
+      "hot_score": 3.43,
+      "tags": [
+        "Politics"
+      ]
+    },
+    {
+      "title_en": "Claude Meetings",
+      "url": "https://claude.com/resources/articles/claude-meetings",
+      "title_zh": "Claude Meetings",
+      "is_new": true,
+      "created_display": "Created: Nov 13, 2026 / 14:39 PT",
+      "image_url": "https://claude.com/resources/articles/claude-meetings/opengraph-image/og",
+      "summary_en": "Claude Meetings is a beta feature that joins video calls as a visible participant. It can follow the conversation, take notes, answer questions, and begin creating documents or whiteboards during the meeting. By default it responds in writing and can use connected tools with the team’s permission.",
+      "summary_zh": "Claude Meetings 是一项测试版功能，可以以可见参与者身份加入视频通话。它能够跟进对话、做会议记录、回答问题，并在会议期间开始创建文档或白板。默认情况下，它以文字回复，并可在团队许可下使用已连接的工具。",
+      "hn": {
+        "id": 50491097,
+        "type": "story",
+        "by": "hmokiguess",
+        "score": 73,
+        "descendants": 59,
+        "time": 1794609555,
+        "comments_url": "https://news.ycombinator.com/item?id=50491097"
+      },
+      "hot_score": 3.39,
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "title_en": "After 600 experiments, here's what I discovered about JEPA world models",
+      "url": "https://haddyalchaer.com/jepa",
+      "title_zh": "经过 600 次实验，我对 JEPA 世界模型有了这些发现",
+      "is_new": true,
+      "created_display": "Created: Nov 13, 2026 / 09:55 PT",
+      "image_url": "https://haddyalchaer.com/images/stories/jepa-thumbs/planning.png",
+      "summary_en": "The author reports conducting 600 experiments on JEPA world models. The work is framed against a debate over whether world models should generate future pixels or instead learn representations focused on information useful for decision-making. Supporters of the latter view, including Yann LeCun, argue that many pixels are irrelevant or inherently unpredictable for planning long-horizon tasks.",
+      "summary_zh": "作者报告称围绕 JEPA 世界模型进行了 600 次实验。相关工作置于一场争论之中：世界模型究竟应生成未来像素，还是应学习聚焦于决策有用信息的表示。包括 Yann LeCun 在内的支持者认为，许多像素与规划无关，或本身就无法被准确预测。",
+      "hn": {
+        "id": 50487185,
+        "type": "story",
+        "by": "halcdev",
+        "score": 216,
+        "descendants": 36,
+        "time": 1794592528,
+        "comments_url": "https://news.ycombinator.com/item?id=50487185"
+      },
+      "hot_score": 3.3,
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "title_en": "Doomsday: Friday, 13 November, A.D. 2026 (1960)",
+      "url": "https://www.science.org/doi/10.1126/science.132.3436.1291",
+      "title_zh": "末日：2026 年 11 月 13 日，星期五（公元 1960 年）",
+      "is_new": false,
+      "created_display": "Created: Nov 13, 2026 / 04:10 PT",
+      "image_url": null,
+      "summary_en": "The item is titled “Doomsday: Friday, 13 November, A.D. 2026” and is dated 1960. No further details about its subject or contents are available.",
+      "summary_zh": "该条目标题为《末日：2026 年 11 月 13 日，星期五》，并标注为公元 1960 年。没有更多关于其主题或内容的可靠信息。",
+      "hn": {
+        "id": 50482379,
+        "type": "story",
+        "by": "voxleone",
+        "score": 454,
+        "descendants": 313,
+        "time": 1794571824,
+        "comments_url": "https://news.ycombinator.com/item?id=50482379"
+      },
+      "tags": [
+        "Science"
+      ],
+      "hot_score": 3.1
+    },
+    {
+      "title_en": "What Happened to 3Com?",
+      "url": "https://dfarq.homeip.net/what-happened-to-3com/",
+      "title_zh": "3Com 后来怎么样了？",
+      "is_new": true,
+      "created_display": "Created: Nov 13, 2026 / 15:48 PT",
+      "image_url": "https://i0.wp.com/dfarq.homeip.net/wp-content/uploads/2022/03/what-happened-to-3com-social.jpg?fit=887%2C499&ssl=1",
+      "summary_en": "3Com was a major maker of network cards and other networking equipment, founded in 1979 by Ethernet co-inventor Bob Metcalfe. During the dot-com boom, it was valued at about $5.8 billion and its cards were widely used, despite problems with the 3C501. The company later disappeared in 2009 after a series of missteps left it vulnerable to Cisco and Intel.",
+      "summary_zh": "3Com 曾是网络卡和其他网络设备的重要制造商，由以太网共同发明者鲍勃·梅特卡夫于 1979 年创立。互联网泡沫时期，公司市值约 58 亿美元，其网卡广泛使用，尽管 3C501 型号问题重重。此后，一系列失误使 3Com 易受思科和英特尔竞争影响，并于 2009 年逐渐退出市场。",
+      "hn": {
+        "id": 50491830,
+        "type": "story",
+        "by": "gvieri",
+        "score": 42,
+        "descendants": 16,
+        "time": 1794613739,
+        "comments_url": "https://news.ycombinator.com/item?id=50491830"
+      },
+      "hot_score": 2.97,
       "tags": [
         "Business"
+      ]
+    },
+    {
+      "title_en": "Elevated errors on claude.ai, Claude Code, and platform.claude.com",
+      "url": "https://status.claude.com/incidents/nn11wk485zfn",
+      "title_zh": "claude.ai、Claude Code 和 platform.claude.com 错误率升高",
+      "is_new": false,
+      "created_display": "Created: Nov 13, 2026 / 02:18 PT",
+      "image_url": "https://dka575ofm4ao0.cloudfront.net/assets/logos/favicon-2b86ed00cfa6258307d4a3d0c482fd733c7973f82de213143b24fc062c540367.png",
+      "summary_en": "Claude’s status page reported elevated errors affecting claude.ai, Claude Code, and platform.claude.com. The notice identifies the affected services but provides no further incident details in the available information.",
+      "summary_zh": "Claude 状态页报告称，claude.ai、Claude Code 和 platform.claude.com 的错误率升高。现有信息仅列出了受影响的服务，未提供更多事故细节。",
+      "hn": {
+        "id": 50481187,
+        "type": "story",
+        "by": "__vivek",
+        "score": 484,
+        "descendants": 383,
+        "time": 1794565093,
+        "comments_url": "https://news.ycombinator.com/item?id=50481187"
+      },
+      "tags": [
+        "AI"
+      ],
+      "hot_score": 2.71
+    },
+    {
+      "title_en": "Found: A protein that drives ageing without unleashing inflammation",
+      "url": "https://www.nature.com/articles/d41586-026-03638-3",
+      "title_zh": "发现：一种推动衰老却不会引发炎症的蛋白质",
+      "is_new": true,
+      "created_display": "Created: Nov 13, 2026 / 11:25 PT",
+      "image_url": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03638-3/d41586-026-03638-3_53962202.jpg",
+      "summary_en": "Researchers identified granzyme K as an enzyme that drives ageing-related changes in body tissues. Mice engineered to lack the enzyme showed improved heart and liver function and less kidney damage, while liver stiffening and scarring declined. Drugs that reduce the protein could potentially target ageing effects without impairing immune defenses, although that application remains prospective.",
+      "summary_zh": "研究人员发现，颗粒酶 K 是一种会推动身体组织衰老变化的酶。经过基因改造、缺乏该酶的小鼠心脏和肝脏功能有所改善，肾脏损伤也更少，肝脏硬化和瘢痕减少。降低这种蛋白质水平的药物未来或许能针对衰老影响，同时不损害免疫防御，但这一应用仍属于前景设想。",
+      "hn": {
+        "id": 50488470,
+        "type": "story",
+        "by": "gumby",
+        "score": 127,
+        "descendants": 21,
+        "time": 1794597921,
+        "comments_url": "https://news.ycombinator.com/item?id=50488470"
+      },
+      "hot_score": 2.57,
+      "tags": [
+        "Science"
+      ]
+    },
+    {
+      "title_en": "Show HN: Isometric SF – A pixel-art map of the SF Bay Area",
+      "url": "https://isometricsf.com/",
+      "title_zh": "Show HN：等距旧金山——旧金山湾区像素艺术地图",
+      "is_new": true,
+      "created_display": "Created: Nov 13, 2026 / 09:58 PT",
+      "image_url": "https://isometricsf.com/og-image.jpg",
+      "summary_en": "The project transforms 1,300 square miles of Google Photorealistic 3D Tiles covering the San Francisco Bay Area into a cohesive pixel-art map. It includes landmarks such as Apple Park, the Palace of Fine Arts, and UC Berkeley. The creator used LoRA fine-tuning with Qwen and Klein models, estimating that using the larger Nano Banana 2 model for the final map would have cost about $7,000.",
+      "summary_zh": "该项目将覆盖旧金山湾区、面积达 1,300 平方英里的 Google Photorealistic 3D Tiles 转换为统一的像素艺术地图。地图包含 Apple Park、艺术宫和加州大学伯克利分校等地标。作者使用 Qwen 和 Klein 模型进行 LoRA 微调，并估计若用更大的 Nano Banana 2 制作最终地图，成本约为 7,000 美元。",
+      "hn": {
+        "id": 50487228,
+        "type": "story",
+        "by": "juscha1",
+        "score": 154,
+        "descendants": 58,
+        "time": 1794592717,
+        "comments_url": "https://news.ycombinator.com/item?id=50487228"
+      },
+      "hot_score": 2.37,
+      "tags": [
+        "Show HN",
+        "Programming"
       ]
     },
     {
       "title_en": "Nvidia employees petition to bring back Jensen Huang",
       "url": "https://www.wired.com/story/nvidia-employees-petition-for-jensen-huangs-return/",
       "title_zh": "英伟达员工请愿要求让黄仁勋回归",
-      "is_new": true,
+      "is_new": false,
       "created_display": "Created: Nov 12, 2026 / 18:16 PT",
       "image_url": "https://media.wired.com/photos/6af6533dc5d481da1362b330/191:100/w_1280,c_limit/Petition-Bring-Back-Jensen-Business-2299493060.jpg",
       "summary_en": "More than 1,600 comments, mostly supportive, have appeared on an internal Nvidia post urging the board to consider employee sentiment about former CEO Jensen Huang. The post was submitted before Huang’s resignation by a longtime engineer and asked the board to consider employee views before taking action. Some employees are now asking the board to find a way to bring Huang back despite reports of multiple extramarital affairs and his abrupt resignation.",
@@ -175,113 +521,118 @@
         "id": 50477231,
         "type": "story",
         "by": "lavendermon",
-        "score": 737,
-        "descendants": 594,
+        "score": 791,
+        "descendants": 651,
         "time": 1794536184,
         "comments_url": "https://news.ycombinator.com/item?id=50477231"
       },
-      "hot_score": 5.11,
       "tags": [
         "Business"
-      ]
+      ],
+      "hot_score": 2.27
     },
     {
-      "title_en": "The 42-Year Journey to Bring 'Neuromancer' to the Screen",
-      "url": "https://www.wired.com/story/exclusive-apple-tv-neuromancer-creator-interviews/",
-      "title_zh": "《神经漫游者》登上荧幕的 42 年历程",
+      "title_en": "Weight Space Misfolding",
+      "url": "https://www.alphaxiv.org/abs/2611.weight-space-misfolding",
+      "title_zh": "权重空间错折",
       "is_new": true,
-      "created_display": "Created: Nov 13, 2026 / 06:28 PT",
-      "image_url": "https://media.wired.com/photos/6aee55c49c22209c9f013e23/191:100/w_1280,c_limit/Neuromancer-BTS-Culture_102_18753F.jpg",
-      "summary_en": "William Gibson published the seminal novel Neuromancer in 1984, and it has now made its way to Apple TV after a 42-year journey. The adaptation’s development is being examined through interviews, including one with actor Briana Middleton. The long path from novel to screen reflects the difficulty of bringing the work to a filmed production.",
-      "summary_zh": "William Gibson 于 1984 年出版了经典小说《神经漫游者》，这部作品经过 42 年终于登上 Apple TV。相关制作过程通过包括演员 Briana Middleton 在内的采访得到介绍。从小说到影视作品的漫长历程，体现了将该作品搬上荧幕的复杂过程。",
+      "created_display": "Created: Nov 13, 2026 / 10:33 PT",
+      "image_url": "https://api.alphaxiv.org/open-graph/v1/paper/2611.weight-space-misfolding.png?v=2",
+      "summary_en": "Weight-space editing directly changes a neural network’s knowledge, behavior, or alignment. The work calls the possibility that one model induces unauthorized behavior in another “weight space misfolding,” including direct interference and possible onward propagation. It presents a threat model centered on the asymmetry between generating one harmful payload and detecting it among a model’s weights.",
+      "summary_zh": "权重空间编辑会直接改变神经网络的知识、行为或对齐状态。该研究将一个模型诱导另一个模型产生未授权行为的可能性称为“权重空间错折”，并讨论直接干预及潜在的继续传播。研究提出了一个威胁模型，重点关注攻击者只需生成一次恶意载荷，而防御者却必须在模型权重中搜寻它这一不对称性。",
       "hn": {
-        "id": 50484006,
+        "id": 50487762,
         "type": "story",
-        "by": "Brajeshwar",
-        "score": 50,
-        "descendants": 31,
-        "time": 1794580112,
-        "comments_url": "https://news.ycombinator.com/item?id=50484006"
+        "by": "mkglees",
+        "score": 133,
+        "descendants": 47,
+        "time": 1794594815,
+        "comments_url": "https://news.ycombinator.com/item?id=50487762"
       },
-      "hot_score": 4.86,
+      "hot_score": 2.27,
       "tags": [
-        "Entertainment"
+        "AI",
+        "Security"
       ]
     },
     {
-      "title_en": "Claude Is Down",
-      "url": "https://status.claude.com/history",
-      "title_zh": "Claude 宕机",
+      "title_en": "Microsoft outage gives customers a crash course in dependence on Redmond",
+      "url": "https://www.theregister.com/saas/2026/11/13/microsoft-outage-gives-customers-a-crash-course-in-dependence-on-redmond/5309805",
+      "title_zh": "微软宕机让客户切身体会对雷德蒙德的依赖",
       "is_new": true,
-      "created_display": "Created: Nov 13, 2026 / 02:20 PT",
-      "image_url": "https://dka575ofm4ao0.cloudfront.net/pages-transactional_logos/retina/362807/NEW_claude_status_banner-183284a4-558d-4835-b3a4-a601e0a4daa8.png",
-      "summary_en": "Claude’s incident and scheduled-maintenance history page is titled “Claude Is Down.” The available information provides no further details about the outage.",
-      "summary_zh": "Claude 的事故与计划维护历史页面显示“Claude 宕机”。现有信息未提供此次中断的更多细节。",
+      "created_display": "Created: Nov 13, 2026 / 10:29 PT",
+      "image_url": "https://image.theregister.com/259120.jpg?imageId=259120&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+      "summary_en": "Microsoft 365 services were slowly recovering from a prolonged outage. Affected customers lost access to email, experienced unreliable Teams messaging, and could not use collaboration features normally. The disruption became a case study for critics of relying heavily on a single vendor.",
+      "summary_zh": "Microsoft 365 服务正从一次持续较久的宕机中逐步恢复。受影响客户无法使用电子邮件，Teams 消息传递不稳定，协作功能也无法正常使用。这次中断成为批评过度依赖单一供应商者所指的一个现实案例。",
       "hn": {
-        "id": 50481220,
+        "id": 50487688,
         "type": "story",
-        "by": "cornfieldlabs",
-        "score": 178,
-        "descendants": 151,
-        "time": 1794565209,
-        "comments_url": "https://news.ycombinator.com/item?id=50481220"
+        "by": "nephihaha",
+        "score": 133,
+        "descendants": 44,
+        "time": 1794594556,
+        "comments_url": "https://news.ycombinator.com/item?id=50487688"
       },
-      "hot_score": 4.44,
+      "hot_score": 2.24,
       "tags": [
-        "AI"
+        "Business",
+        "Education"
       ]
     },
     {
-      "title_en": "Microsoft Outlook/365 still down after 12 hours",
-      "url": "https://twitter.com/MSFT365Status/status/2121079061774491735",
-      "title_zh": "Microsoft Outlook/365 持续中断 12 小时后仍未恢复",
-      "is_new": true,
-      "created_display": "Created: Nov 12, 2026 / 21:08 PT",
-      "image_url": "https://pbs.twimg.com/profile_images/1040007539088211968/f9H6EzjO_400x400.jpg",
-      "summary_en": "Microsoft said changes intended to improve serviceability were not producing the expected results during the Outlook/365 outage. The company was identifying alternative workstreams to increase capacity amid sustained traffic-management imbalances. The service had remained disrupted for more than 12 hours.",
-      "summary_zh": "微软表示，在 Outlook/365 宕机期间，为改善服务能力而实施的变更没有达到预期效果。面对持续的流量管理失衡，公司正在寻找其他工作方案以提升容量。服务中断当时已持续超过 12 个小时。",
-      "hn": {
-        "id": 50478609,
-        "type": "story",
-        "by": "player85",
-        "score": 423,
-        "descendants": 288,
-        "time": 1794546503,
-        "comments_url": "https://news.ycombinator.com/item?id=50478609"
-      },
-      "hot_score": 4.2,
-      "tags": [
-        "DevOps"
-      ]
-    },
-    {
-      "title_en": "AI Is Destroying the Trust Between Writers and Readers",
-      "url": "https://www.theatlantic.com/books/2026/11/ai-literary-scams-amazon/689391/",
-      "title_zh": "人工智能正在摧毁作家与读者之间的信任",
-      "is_new": true,
-      "created_display": "Created: Nov 13, 2026 / 03:13 PT",
+      "title_en": "Eli Lilly CEO pushes back on Dario Amodei's medical claims",
+      "url": "https://garymarcus.substack.com/p/breaking-eli-lilly-ceo-becomes-latest",
+      "title_zh": "礼来 CEO 反驳 Dario Amodei 的医疗主张",
+      "is_new": false,
+      "created_display": "Created: Nov 13, 2026 / 05:51 PT",
       "image_url": null,
-      "summary_en": "The item argues that AI is damaging trust between writers and readers. It focuses on the relationship between artificial intelligence and literary scams on Amazon.",
-      "summary_zh": "该条目认为，人工智能正在损害作家与读者之间的信任。内容聚焦于人工智能与亚马逊文学欺诈之间的关系。",
+      "summary_en": "The CEO of Eli Lilly pushed back against medical claims made by Dario Amodei. No further details about the claims or the response are available.",
+      "summary_zh": "礼来公司 CEO 反驳了 Dario Amodei 提出的医疗相关主张。现有信息未提供这些主张或回应的更多细节。",
       "hn": {
-        "id": 50481870,
+        "id": 50483480,
         "type": "story",
-        "by": "FinnLobsien",
-        "score": 128,
-        "descendants": 32,
-        "time": 1794568426,
-        "comments_url": "https://news.ycombinator.com/item?id=50481870"
+        "by": "Noaidi",
+        "score": 264,
+        "descendants": 364,
+        "time": 1794577887,
+        "comments_url": "https://news.ycombinator.com/item?id=50483480"
       },
-      "hot_score": 3.97,
       "tags": [
-        "AI"
+        "Health",
+        "Business"
+      ],
+      "hot_score": 2.2
+    },
+    {
+      "title_en": "OpenAI disbands its robotics team as its general models start running robots",
+      "url": "https://fortune.com/2026/11/13/openai-disbands-robotics-team-as-its-general-models-start-running-robots/",
+      "title_zh": "OpenAI 解散机器人团队，通用模型开始驱动机器人",
+      "is_new": true,
+      "created_display": "Created: Nov 13, 2026 / 09:55 PT",
+      "image_url": "https://fortune.com/img-assets/wp-content/uploads/2026/11/GettyImages-2304572308-e1794587995495.jpg?resize=1200,600",
+      "summary_en": "OpenAI disbanded its standalone robotics team and reassigned its researchers to the main research organization under Chief Research Officer Mark Chen. Applied robotics and hardware teams moved to the larger Applied organization led by President Greg Brockman. OpenAI said robotics remains a core long-term goal, framing the reorganization as a commitment to the field rather than a retreat.",
+      "summary_zh": "OpenAI 解散了独立的机器人团队，并将研究人员调入由首席研究官 Mark Chen 领导的主要研究部门。应用机器人和硬件团队则转入由总裁 Greg Brockman 负责的更大规模 Applied 部门。OpenAI 表示，机器人仍是其长期核心目标，并将此次重组描述为对该领域的持续投入，而非退缩。",
+      "hn": {
+        "id": 50487184,
+        "type": "story",
+        "by": "sshah03",
+        "score": 143,
+        "descendants": 64,
+        "time": 1794592523,
+        "comments_url": "https://news.ycombinator.com/item?id=50487184"
+      },
+      "hot_score": 2.18,
+      "tags": [
+        "AI",
+        "Business",
+        "Hardware"
       ]
     },
     {
       "title_en": "Service degradation on Microsoft 365",
       "url": "https://status.cloud.microsoft/",
       "title_zh": "Microsoft 365 服务降级",
-      "is_new": true,
+      "is_new": false,
       "created_display": "Created: Nov 12, 2026 / 10:20 PT",
       "image_url": null,
       "summary_en": "Microsoft 365 is experiencing service degradation. The available material does not specify which services are affected, the cause, or the expected resolution time. Users may therefore encounter disruptions while the incident is being addressed.",
@@ -290,21 +641,187 @@
         "id": 50471731,
         "type": "story",
         "by": "dkpk",
-        "score": 1083,
-        "descendants": 911,
+        "score": 1161,
+        "descendants": 978,
         "time": 1794507648,
         "comments_url": "https://news.ycombinator.com/item?id=50471731"
       },
       "tags": [
         "DevOps"
       ],
-      "hot_score": 3.62
+      "hot_score": 2.06
+    },
+    {
+      "title_en": "Perplexity Decider v1.3: Training, eval, and use cases",
+      "url": "https://www.perplexity.ai/hub/blog/perplexity-decider",
+      "title_zh": "Perplexity Decider v1.3：训练、评测与使用场景",
+      "is_new": true,
+      "created_display": "Created: Nov 13, 2026 / 11:24 PT",
+      "image_url": "https://cdn.sanity.io/images/aqo64vfr/production/76ef8b5b28ef57516b89d0f531f7b3d18e61fc43-1600x838.png?rect=2,0,1596,838&w=1200&h=630&fm=jpg&q=80&fit=crop",
+      "summary_en": "Perplexity released Decider v1.3 and the smaller distilled Decider Flash v1.3. The models are described alongside training and evaluation details, including locate extraction, real-world results, and costs. Both are available on Hugging Face under the Apache license, through OpenRouter, and via the Perplexity Decisions API.",
+      "summary_zh": "Perplexity 发布了 Decider v1.3，以及由其蒸馏而来的较小模型 Decider Flash v1.3。配套介绍涵盖训练与评测细节，包括定位提取、真实场景结果和成本。两款模型均以 Apache 许可证发布于 Hugging Face，并可通过 OpenRouter 和 Perplexity Decisions API 使用。",
+      "hn": {
+        "id": 50488464,
+        "type": "story",
+        "by": "gmays",
+        "score": 99,
+        "descendants": 21,
+        "time": 1794597887,
+        "comments_url": "https://news.ycombinator.com/item?id=50488464"
+      },
+      "hot_score": 2.0,
+      "tags": [
+        "AI",
+        "Open Source"
+      ]
+    },
+    {
+      "title_en": "Anthropic Upgrades Claude Code Projects to Run Parallel AI Workers Hands-Free",
+      "url": "https://alphasignal.ai/news/anthropic-upgrades-claude-code-projects-to-run-parallel-ai-workers-hands-free",
+      "title_zh": "Anthropic 升级 Claude Code Projects，可免手动管理并行 AI 工作者",
+      "is_new": true,
+      "created_display": "Created: Nov 13, 2026 / 16:28 PT",
+      "image_url": "https://api.alphasignal.ai/api/news/preview/anthropic-upgrades-claude-code-projects-to-run-parallel-ai-workers-hands-free/v2/card.jpg",
+      "summary_en": "Anthropic updated Claude Code Projects with proactive coordinator messages, read-only thread sharing, reminders, branching commands, and improved artifact navigation. Each project has a coordinator that assigns work to independent Claude Code cloud sessions, each with its own repository copy and Git branch. The changes reduce the monitoring required while several sessions work in parallel, although overlapping edits still surface as ordinary Git merge conflicts.",
+      "summary_zh": "Anthropic 更新了 Claude Code Projects，加入主动协调员消息、只读线程共享、提醒、分支命令和更好的工件导航功能。每个项目由协调员向彼此独立的 Claude Code 云会话分配任务，每个会话都有自己的代码仓库副本和 Git 分支。这些改进减少了并行会话工作时所需的监控，不过重叠修改仍会以普通 Git 合并冲突的形式出现。",
+      "hn": {
+        "id": 50492141,
+        "type": "story",
+        "by": "toppa33",
+        "score": 21,
+        "descendants": 3,
+        "time": 1794616091,
+        "comments_url": "https://news.ycombinator.com/item?id=50492141"
+      },
+      "hot_score": 1.95,
+      "tags": [
+        "AI",
+        "Programming"
+      ]
+    },
+    {
+      "title_en": "AI is destroying the trust between writers and readers",
+      "url": "https://www.theatlantic.com/books/2026/11/ai-literary-scams-amazon/689391/",
+      "title_zh": "人工智能正在摧毁作家与读者之间的信任",
+      "is_new": false,
+      "created_display": "Created: Nov 13, 2026 / 03:13 PT",
+      "image_url": null,
+      "summary_en": "The item argues that AI is damaging trust between writers and readers. It focuses on the relationship between artificial intelligence and literary scams on Amazon.",
+      "summary_zh": "该条目认为，人工智能正在损害作家与读者之间的信任。内容聚焦于人工智能与亚马逊文学欺诈之间的关系。",
+      "hn": {
+        "id": 50481870,
+        "type": "story",
+        "by": "FinnLobsien",
+        "score": 312,
+        "descendants": 195,
+        "time": 1794568426,
+        "comments_url": "https://news.ycombinator.com/item?id=50481870"
+      },
+      "tags": [
+        "AI"
+      ],
+      "hot_score": 1.92
+    },
+    {
+      "title_en": "Why Zig over C for Systems Programming",
+      "url": "https://www.mtsoukalos.eu/2026/11/why-zig-over-c-for-systems-programming/",
+      "title_zh": "为什么系统编程应选择 Zig 而不是 C",
+      "is_new": false,
+      "created_display": "Created: Nov 13, 2026 / 06:01 PT",
+      "image_url": null,
+      "summary_en": "The author compares Zig with C for systems programming, noting that both are small, garbage-collector-free languages designed to stay close to the machine. Rather than treating Zig as a wholly different alternative, the post examines parts of C that cost the author time and how Zig addresses them. The examples were compiled on a Mac using Zig 0.17 and Clang.",
+      "summary_zh": "作者比较了 Zig 和 C 在系统编程中的特点，指出两者都是小型、无垃圾回收器且贴近机器运行方式的语言。这篇文章并未把 Zig 视为完全不同的替代品，而是考察 C 中哪些部分会耗费时间，以及 Zig 如何应对这些问题。示例代码使用 Zig 0.17 和 Clang 在 Mac 上编译。",
+      "hn": {
+        "id": 50483611,
+        "type": "story",
+        "by": "torutofu",
+        "score": 214,
+        "descendants": 192,
+        "time": 1794578473,
+        "comments_url": "https://news.ycombinator.com/item?id=50483611"
+      },
+      "tags": [
+        "Programming"
+      ],
+      "hot_score": 1.82
+    },
+    {
+      "title_en": "Brazil's Caixa insurer breach exposes names and tax IDs of all 7.6M customers",
+      "url": "https://filemanager-cdn.mziq.com/published/3972906b-e50b-4f74-ab74-4d0d32125d11/9567a559-d20a-486e-a7ae-5c6bbc030c5e",
+      "title_zh": "巴西 Caixa 保险公司遭入侵，760 万客户的姓名和税号曝光",
+      "is_new": false,
+      "created_display": "Created: Nov 13, 2026 / 07:52 PT",
+      "image_url": null,
+      "summary_en": "A breach at Brazil’s Caixa insurer exposed the names and tax identification numbers of all 7.6 million customers. No further information about the incident is available.",
+      "summary_zh": "巴西 Caixa 保险公司遭遇数据泄露，全部 760 万名客户的姓名和税号被曝光。现有信息未提供更多关于此次事件的细节。",
+      "hn": {
+        "id": 50485295,
+        "type": "story",
+        "by": "dvaplima",
+        "score": 163,
+        "descendants": 72,
+        "time": 1794585124,
+        "comments_url": "https://news.ycombinator.com/item?id=50485295"
+      },
+      "tags": [
+        "Privacy",
+        "Security"
+      ],
+      "hot_score": 1.78
+    },
+    {
+      "title_en": "An open letter to the Nvidia Board of Directors",
+      "url": "https://standwithjensen.com/",
+      "title_zh": "致英伟达董事会的公开信",
+      "is_new": true,
+      "created_display": "Created: Nov 13, 2026 / 15:34 PT",
+      "image_url": "https://standwithjensen.com/images/stand-with-jensen-card-v2.jpg",
+      "summary_en": "The campaign is organized by current and former NVIDIA employees and shareholders. It expresses gratitude to Jensen Huang and asks the board for a transparent account of the CEO transition. The campaign states that it is independent and not affiliated with NVIDIA.",
+      "summary_zh": "这项倡议由英伟达现任和前任员工及股东发起。倡议表达了对黄仁勋的感谢，并要求董事会透明说明 CEO 交接情况。发起方表示该倡议独立于英伟达，与公司没有隶属关系。",
+      "hn": {
+        "id": 50491690,
+        "type": "story",
+        "by": "iLuddite",
+        "score": 28,
+        "descendants": 17,
+        "time": 1794612846,
+        "comments_url": "https://news.ycombinator.com/item?id=50491690"
+      },
+      "hot_score": 1.77,
+      "tags": [
+        "Business"
+      ]
+    },
+    {
+      "title_en": "Why is Google cutting off Search from AI-free schools? Here are some theories",
+      "url": "https://text.npr.org/nx-s1-6029408",
+      "title_zh": "Google 为什么要切断与“无 AI”学校的搜索服务？这里有几种猜测",
+      "is_new": false,
+      "created_display": "Created: Nov 13, 2026 / 07:29 PT",
+      "image_url": null,
+      "summary_en": "The item examines why Google may be cutting off Search from schools that avoid AI. It notes that Google is deeply embedded in the school day for millions of students, serving not only as a search engine but also as a hub for sharing documents and submitting homework. No specific explanation for the policy is provided in the available context.",
+      "summary_zh": "该条目探讨 Google 可能为何要切断对不使用 AI 的学校提供搜索服务。它指出，Google 已深度融入数百万学生的日常学习，不仅是搜索引擎，也是分享文档和提交作业的平台。现有信息未提供这一政策的具体原因。",
+      "hn": {
+        "id": 50484960,
+        "type": "story",
+        "by": "kamaraju",
+        "score": 165,
+        "descendants": 165,
+        "time": 1794583750,
+        "comments_url": "https://news.ycombinator.com/item?id=50484960"
+      },
+      "tags": [
+        "Education",
+        "Politics",
+        "AI"
+      ],
+      "hot_score": 1.71
     },
     {
       "title_en": "A technical vision for the Haskell ecosystem",
       "url": "https://discourse.haskell.org/t/a-technical-vision-for-the-haskell-ecosystem/15078",
       "title_zh": "Haskell 生态系统的技术愿景",
-      "is_new": true,
+      "is_new": false,
       "created_display": "Created: Nov 13, 2026 / 06:43 PT",
       "image_url": "https://us1.discourse-cdn.com/flex002/uploads/haskell/original/1X/89166504e40f4869ea825dd70048017861ec8578.png",
       "summary_en": "The Haskell Foundation’s technical leadership committee has been successfully established and is now fully operational. It has spent the past few weeks discussing its vision and strategy. The committee plans to develop initiatives and proposals requiring funding and execution, with participation from companies, contractors, volunteers, and the wider community.",
@@ -313,115 +830,69 @@
         "id": 50484235,
         "type": "story",
         "by": "cosmic_quanta",
-        "score": 33,
-        "descendants": 7,
+        "score": 181,
+        "descendants": 85,
         "time": 1794580992,
         "comments_url": "https://news.ycombinator.com/item?id=50484235"
       },
-      "hot_score": 3.6,
       "tags": [
         "Programming"
-      ]
+      ],
+      "hot_score": 1.69
     },
     {
-      "title_en": "US university students tell surveillance cameras to Flock off",
-      "url": "https://www.theguardian.com/technology/ng-interactive/2026/nov/13/universities-drop-flock-camera-contracts",
-      "title_zh": "美国大学生让监控摄像头“滚蛋”",
+      "title_en": "Live-migration support in FreeBSD and bhyve coming",
+      "url": "https://gyptazy.com/blog/freebsd-bhyve-live-migration-support-rfc/",
+      "title_zh": "FreeBSD 和 bhyve 即将支持实时迁移",
       "is_new": true,
-      "created_display": "Created: Nov 13, 2026 / 06:11 PT",
-      "image_url": "https://i.guim.co.uk/img/media/07a6c4559866de14de7f2016c808aef3574e0c2c/23_622_4031_3223/master/4031.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5239e4f6026466fed8c975b3146ed484",
-      "summary_en": "Privacy concerns about Flock Safety’s automated license plate readers have sparked protests at schools across the United States. Stanford senior Angela Nguyen helped collect hundreds of signatures demanding that the university end its Flock contract and establish safeguards for similar tools. She argues that cameras recording where vehicles were at specific times could be exploited to target vulnerable people.",
-      "summary_zh": "对 Flock Safety 自动车牌识别摄像头的隐私担忧，已经在美国各地校园引发抗议。斯坦福大学大四学生 Angela Nguyen 帮助收集了数百个签名，要求学校终止与 Flock 的合同，并为未来使用类似技术制定保障措施。她认为，记录车辆在特定时间所在位置的摄像头可能被利用来针对弱势群体。",
+      "created_display": "Created: Nov 13, 2026 / 11:58 PT",
+      "image_url": "https://cdn.gyptazy.com/img/freebsd-bhyve-live-migration.jpg",
+      "summary_en": "A first working implementation can live-migrate a running amd64 bhyve guest between two FreeBSD 15.1 hosts over TCP. The guest continues running during pre-copy memory transfer and dirty-page tracking, pausing only for the final stop-and-copy phase. The work adds migration support to the vmm kernel module, bhyve, and bhyvectl, while building on experimental snapshot support.",
+      "summary_zh": "一项初步可用的实现可以通过 TCP，在两台 FreeBSD 15.1 主机之间实时迁移运行中的 amd64 bhyve 虚拟机。虚拟机在预复制内存传输和脏页跟踪期间继续运行，仅在最后的停止并复制阶段暂停。该工作为 vmm 内核模块、bhyve 和 bhyvectl 增加了迁移支持，并建立在实验性快照功能之上。",
       "hn": {
-        "id": 50483759,
+        "id": 50488835,
         "type": "story",
-        "by": "beardyw",
-        "score": 38,
-        "descendants": 3,
-        "time": 1794579116,
-        "comments_url": "https://news.ycombinator.com/item?id=50483759"
+        "by": "JohnDohnBohn",
+        "score": 73,
+        "descendants": 16,
+        "time": 1794599922,
+        "comments_url": "https://news.ycombinator.com/item?id=50488835"
       },
-      "hot_score": 3.21,
+      "hot_score": 1.66,
       "tags": [
-        "Privacy",
-        "Education"
-      ]
-    },
-    {
-      "title_en": "Global Microsoft Outage",
-      "url": "https://www.cnn.com/2026/11/12/business/live-news/microsoft-global-outage-intl-hnk",
-      "title_zh": "微软全球宕机",
-      "is_new": true,
-      "created_display": "Created: Nov 12, 2026 / 22:18 PT",
-      "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/ap26313845581210.jpg?c=16x9&q=w_800,c_fill",
-      "summary_en": "A major Microsoft outage left millions of people worldwide unable to access Outlook email, Teams meeting tools, and other common workplace services. The disruption affected multiple staples of modern office work.",
-      "summary_zh": "一次大规模微软服务宕机导致全球数百万人无法访问 Outlook 邮件、Teams 会议工具及其他常用办公服务。此次中断影响了现代办公中的多项基础服务。",
-      "hn": {
-        "id": 50479098,
-        "type": "story",
-        "by": "TechTechTech",
-        "score": 260,
-        "descendants": 160,
-        "time": 1794550703,
-        "comments_url": "https://news.ycombinator.com/item?id=50479098"
-      },
-      "hot_score": 3.06,
-      "tags": [
-        "DevOps"
-      ]
-    },
-    {
-      "title_en": "EU Digital Identity Wallet rollout: every EU state on one board",
-      "url": "https://myid.ie/business/eu-digital-wallet-tracker/",
-      "title_zh": "欧盟数字身份钱包部署情况：27 个成员国一览",
-      "is_new": true,
-      "created_display": "Created: Nov 13, 2026 / 06:58 PT",
-      "image_url": "https://myid.ie/business/eu-digital-wallet-tracker/og.png",
-      "summary_en": "A tracker lists the status, launch dates, and builders of EU Digital Identity Wallets across all 27 EU states. It was sourced and updated on October 15, 2026. The tracker cautions that national availability does not by itself establish EUDI certification.",
-      "summary_zh": "一份追踪表列出了欧盟 27 个成员国数字身份钱包的状态、上线日期和开发方，并于 2026 年 10 月 15 日完成资料更新。追踪表特别提醒，某国已提供钱包并不等同于获得 EUDI 认证。",
-      "hn": {
-        "id": 50484496,
-        "type": "story",
-        "by": "mooreds",
-        "score": 24,
-        "descendants": 1,
-        "time": 1794581887,
-        "comments_url": "https://news.ycombinator.com/item?id=50484496"
-      },
-      "hot_score": 2.97,
-      "tags": [
+        "Open Source",
+        "Programming",
         "Privacy"
       ]
     },
     {
-      "title_en": "IceWM",
-      "url": "https://ice-wm.org/",
-      "title_zh": "IceWM",
-      "is_new": true,
-      "created_display": "Created: Nov 12, 2026 / 20:54 PT",
-      "image_url": "https://ice-wm.org/images/logom.jpg",
-      "summary_en": "IceWM is a fast, simple, and highly configurable window manager for the X Window System. It provides a taskbar, keyboard and mouse controls, dynamic menus, multiple-monitor support through RandR and Xinerama, themes, and optional session and wallpaper managers. Created by Marko Maček in 1997 using C++, it is now maintained on GitHub and is available on many Linux distributions and BSD systems.",
-      "summary_zh": "IceWM 是面向 X Window System 的快速、简洁且高度可配置的窗口管理器。它提供任务栏、键盘和鼠标控制、动态菜单，以及通过 RandR 和 Xinerama 实现的多显示器支持，还支持主题和可选的会话、壁纸管理器。IceWM 由 Marko Maček 于 1997 年使用 C++ 创建，目前在 GitHub 上维护，并可用于多种 Linux 发行版和 BSD 系统。",
+      "title_en": "Microsoft Outlook/365 still down after 12 hours",
+      "url": "https://twitter.com/MSFT365Status/status/2121079061774491735",
+      "title_zh": "Microsoft Outlook/365 持续中断 12 小时后仍未恢复",
+      "is_new": false,
+      "created_display": "Created: Nov 12, 2026 / 21:08 PT",
+      "image_url": "https://pbs.twimg.com/profile_images/1040007539088211968/f9H6EzjO_400x400.jpg",
+      "summary_en": "Microsoft said changes intended to improve serviceability were not producing the expected results during the Outlook/365 outage. The company was identifying alternative workstreams to increase capacity amid sustained traffic-management imbalances. The service had remained disrupted for more than 12 hours.",
+      "summary_zh": "微软表示，在 Outlook/365 宕机期间，为改善服务能力而实施的变更没有达到预期效果。面对持续的流量管理失衡，公司正在寻找其他工作方案以提升容量。服务中断当时已持续超过 12 个小时。",
       "hn": {
-        "id": 50478515,
+        "id": 50478609,
         "type": "story",
-        "by": "inatreecrown2",
-        "score": 302,
-        "descendants": 155,
-        "time": 1794545693,
-        "comments_url": "https://news.ycombinator.com/item?id=50478515"
+        "by": "player85",
+        "score": 462,
+        "descendants": 306,
+        "time": 1794546503,
+        "comments_url": "https://news.ycombinator.com/item?id=50478609"
       },
-      "hot_score": 2.91,
       "tags": [
-        "Open Source",
-        "Programming"
-      ]
+        "DevOps"
+      ],
+      "hot_score": 1.64
     },
     {
       "title_en": "Rust 1.100",
       "url": "https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/",
       "title_zh": "Rust 1.100",
-      "is_new": true,
+      "is_new": false,
       "created_display": "Created: Nov 12, 2026 / 10:39 PT",
       "image_url": "https://www.rust-lang.org/static/images/rust-social-wide.jpg",
       "summary_en": "The Rust team has released Rust 1.100.0. Rust is described as a language for building reliable and efficient software. Users with an existing rustup installation can install the new version through rustup.",
@@ -430,21 +901,230 @@
         "id": 50472038,
         "type": "story",
         "by": "mbStavola",
-        "score": 802,
-        "descendants": 293,
+        "score": 876,
+        "descendants": 312,
         "time": 1794508745,
         "comments_url": "https://news.ycombinator.com/item?id=50472038"
       },
       "tags": [
         "Programming"
       ],
-      "hot_score": 2.74
+      "hot_score": 1.58
+    },
+    {
+      "title_en": "U.S. October PPI Rises 6.5% YoY, Highest in Nearly Four Years",
+      "url": "https://news.ycombinator.com/item?id=50484421",
+      "title_zh": "美国 10 月生产者价格同比上涨 6.5%，近四年来最高",
+      "is_new": false,
+      "created_display": "Created: Nov 13, 2026 / 06:53 PT",
+      "image_url": null,
+      "summary_en": "U.S. producer prices rose 6.5% year over year in October, the highest increase since November 2022. The result was slightly below the 6.6% expectation but above September’s 6.3%, while prices rose 0.3% month over month versus the 0.4% forecast. September’s monthly increase was revised from 1.3% to 1.4%.",
+      "summary_zh": "美国生产者价格指数 10 月同比上涨 6.5%，创 2022 年 11 月以来最高涨幅。该结果略低于 6.6% 的预期，但高于 9 月的 6.3%；环比上涨 0.3%，也低于 0.4% 的预期。9 月环比涨幅则由 1.3% 修正为 1.4%。",
+      "hn": {
+        "id": 50484421,
+        "type": "story",
+        "by": "moonypto",
+        "score": 163,
+        "descendants": 207,
+        "time": 1794581612,
+        "comments_url": "https://news.ycombinator.com/item?id=50484421"
+      },
+      "tags": [
+        "Business"
+      ],
+      "hot_score": 1.55
+    },
+    {
+      "title_en": "Show HN: Live map of U.S. flights during tonight's FAA nationwide ground stop",
+      "url": "https://grounds.top/",
+      "title_zh": "Show HN：全国 FAA 地面停飞期间的美国航班实时地图",
+      "is_new": true,
+      "created_display": "Created: Nov 13, 2026 / 15:17 PT",
+      "image_url": "https://grounds.top/og.png",
+      "summary_en": "The project provides a live and replayable map of U.S. air traffic during the November 13, 2026 FAA nationwide ground stop. It compares airborne flights with a normal Friday, and displays departures and backlogs at major airports. Aircraft positions come from the community ADS-B network, while airport delay data comes from FAA NAS Status; the map is unofficial and independent of the FAA.",
+      "summary_zh": "该项目提供 2026 年 11 月 13 日 FAA 全国地面停飞期间美国空中交通的实时及回放地图。地图将当时的空中航班与普通周五进行对比，并显示航班起飞情况及主要机场的积压。飞机位置来自社区 ADS-B 网络，机场延误数据来自 FAA NAS Status；该地图为独立的非官方项目。",
+      "hn": {
+        "id": 50491545,
+        "type": "story",
+        "by": "gvsi",
+        "score": 27,
+        "descendants": 6,
+        "time": 1794611859,
+        "comments_url": "https://news.ycombinator.com/item?id=50491545"
+      },
+      "hot_score": 1.53,
+      "tags": [
+        "Show HN"
+      ]
+    },
+    {
+      "title_en": "How Not to Build a Music Player",
+      "url": "https://alichraghi.github.io/blog/how-not-to-build-a-music-player/",
+      "title_zh": "如何不要制作音乐播放器",
+      "is_new": true,
+      "created_display": "Created: Nov 13, 2026 / 15:04 PT",
+      "image_url": "https://alichraghi.github.io/blog/how-not-to-build-a-music-player/public-release.avif",
+      "summary_en": "The author began archiving music and seeking offline alternatives after an internet shutdown made online music players impractical under an oppressive regime. Strawberry provided a feature-rich offline option, but its internet-fetched lyrics were sometimes not synchronized and displayed distracting timestamps. The experience led the author to consider alternatives such as foobar2000.",
+      "summary_zh": "互联网关闭后，在线音乐播放器在压制性政权环境下变得不切实际，作者因此开始归档音乐并寻找离线替代方案。功能丰富的 Strawberry 一度满足需求，但其联网获取的歌词有时不同步，还会显示令人分心的时间戳。这段经历让作者开始考虑 foobar2000 等其他播放器。",
+      "hn": {
+        "id": 50491400,
+        "type": "story",
+        "by": "vinhnx",
+        "score": 29,
+        "descendants": 13,
+        "time": 1794611070,
+        "comments_url": "https://news.ycombinator.com/item?id=50491400"
+      },
+      "hot_score": 1.52,
+      "tags": [
+        "Programming"
+      ]
+    },
+    {
+      "title_en": "Reverse engineering my Coway air purifier to ditch the cloud",
+      "url": "https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/",
+      "title_zh": "逆向工程我的 Coway 空气净化器，摆脱云端控制",
+      "is_new": false,
+      "created_display": "Created: Nov 12, 2026 / 14:03 PT",
+      "image_url": "https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/coway-airmega-icons-cover.jpg",
+      "summary_en": "During the 2017 wave of annual wildfires on the West Coast, many Bay Area residents bought air purifiers because their homes were poorly insulated and sealed. The author describes buying a Coway Airmega to avoid breathing wildfire soot and reverse-engineering it to remove its dependence on cloud services. The project reflects a broader effort to keep household devices locally controlled.",
+      "summary_zh": "2017 年西海岸接连发生野火时，许多湾区居民因为房屋隔热和密封性能较差而购买空气净化器，以避免吸入野火烟尘。作者介绍了自己购买 Coway Airmega，并对其进行逆向工程，以摆脱对云端服务的依赖。这一项目体现了将家用设备控制权保留在本地的尝试。",
+      "hn": {
+        "id": 50474959,
+        "type": "story",
+        "by": "scottjg",
+        "score": 681,
+        "descendants": 200,
+        "time": 1794520989,
+        "comments_url": "https://news.ycombinator.com/item?id=50474959"
+      },
+      "tags": [
+        "Hardware",
+        "Privacy"
+      ],
+      "hot_score": 1.49
+    },
+    {
+      "title_en": "Jonathan Blow – If AI Solved Coding, Why Is My Software Still the Same? [video]",
+      "url": "https://www.youtube.com/watch?v=IRK8h67ol7Q",
+      "title_zh": "Jonathan Blow：如果 AI 已解决编程，为什么我的软件还是老样子？［视频］",
+      "is_new": false,
+      "created_display": "Created: Nov 13, 2026 / 07:08 PT",
+      "image_url": null,
+      "summary_en": "The video is titled “If AI Solved Coding, Why Is My Software Still the Same?” by Jonathan Blow. No further details about the video’s contents are available.",
+      "summary_zh": "该视频由 Jonathan Blow 发布，标题为《如果 AI 已解决编程，为什么我的软件还是老样子？》。现有信息未提供视频内容的更多细节。",
+      "hn": {
+        "id": 50484658,
+        "type": "story",
+        "by": "helloplanets",
+        "score": 147,
+        "descendants": 134,
+        "time": 1794582524,
+        "comments_url": "https://news.ycombinator.com/item?id=50484658"
+      },
+      "tags": [
+        "AI",
+        "Programming"
+      ],
+      "hot_score": 1.45
+    },
+    {
+      "title_en": "Tesla Opens Cybercab Orders to 'Select Customers' at $29,990 Plus $299 per Month",
+      "url": "https://insideevs.com/news/815473/tesla-cybercab-pricing-sales-announced/",
+      "title_zh": "特斯拉向“精选客户”开放 Cybercab 订单：售价 29,990 美元，另加每月 299 美元",
+      "is_new": true,
+      "created_display": "Created: Nov 13, 2026 / 16:33 PT",
+      "image_url": "https://cdn.motor1.com/images/mgl/nAbWEG/s1/tesla-cybercab-la-auto-show-2024.jpg",
+      "summary_en": "Tesla says the Cybercab will be available for personal use at a price of $29,990. Autonomous driving requires an additional $299-per-month subscription. Orders are being opened to selected customers.",
+      "summary_zh": "特斯拉表示，Cybercab 将以 29,990 美元的价格供个人使用。自动驾驶功能还需每月支付 299 美元的订阅费。目前订单面向精选客户开放。",
+      "hn": {
+        "id": 50492178,
+        "type": "story",
+        "by": "iBelieve",
+        "score": 15,
+        "descendants": 10,
+        "time": 1794616430,
+        "comments_url": "https://news.ycombinator.com/item?id=50492178"
+      },
+      "hot_score": 1.43,
+      "tags": [
+        "Business"
+      ]
+    },
+    {
+      "title_en": "Someone's Impersonating This Blog",
+      "url": "https://mattbee.mataroa.blog/p/someones-impersonating-this-blog/",
+      "title_zh": "有人冒充这个博客",
+      "is_new": true,
+      "created_display": "Created: Nov 13, 2026 / 11:41 PT",
+      "image_url": null,
+      "summary_en": "The author discovered that the domain mataroa.site displayed a copy of the author’s blog hosted on mataroa.blog. It was the only content hosted on the alternate domain, which was not simply an authorized custom-domain setup. The author had not purchased the domain or configured it through a premium account.",
+      "summary_zh": "作者发现，mataroa.site 这个域名显示了其托管在 mataroa.blog 上的博客副本。该备用域名上唯一托管的内容就是这份博客，而且并非经过授权的自定义域名配置。作者没有购买该域名，也没有通过高级账户进行设置。",
+      "hn": {
+        "id": 50488664,
+        "type": "story",
+        "by": "speckx",
+        "score": 66,
+        "descendants": 8,
+        "time": 1794598869,
+        "comments_url": "https://news.ycombinator.com/item?id=50488664"
+      },
+      "hot_score": 1.4,
+      "tags": [
+        "Security"
+      ]
+    },
+    {
+      "title_en": "FIRE says US to end efforts to curb App,s FB groups reporting on ICE activity",
+      "url": "https://www.reuters.com/legal/litigation/free-speech-nonprofit-says-us-end-efforts-curb-facebook-group-app-reporting-ice-2026-11-14/",
+      "title_zh": "FIRE 称美国将停止限制应用和 Facebook 群组报告 ICE 活动的努力",
+      "is_new": true,
+      "created_display": "Created: Nov 13, 2026 / 17:15 PT",
+      "image_url": null,
+      "summary_en": "FIRE says the United States will end efforts to curb apps and Facebook groups that report Immigration and Customs Enforcement activity. The available information does not provide further details about the decision or its timing.",
+      "summary_zh": "FIRE 称，美国将停止限制应用和 Facebook 群组报告移民与海关执法局活动的努力。现有信息未提供这一决定的更多细节或时间安排。",
+      "hn": {
+        "id": 50492488,
+        "type": "story",
+        "by": "anigbrowl",
+        "score": 10,
+        "descendants": 2,
+        "time": 1794618910,
+        "comments_url": "https://news.ycombinator.com/item?id=50492488"
+      },
+      "hot_score": 1.36,
+      "tags": [
+        "Politics"
+      ]
+    },
+    {
+      "title_en": "Minnesota guitarist's \"palmfrets\" invention strikes a new chord",
+      "url": "https://www.echopress.com/business/minnesota-guitarists-invention-strikes-a-new-chord",
+      "title_zh": "明尼苏达吉他手发明“掌上品格”，奏响新乐章",
+      "is_new": false,
+      "created_display": "Created: Nov 13, 2026 / 07:08 PT",
+      "image_url": "https://cdn.forumcomm.com/dims4/default/95aa056/2147483647/strip/true/crop/4000x6000+0+0/resize/711x1066!/quality/90/?url=https%3A%2F%2Fforum-communications-production-web.s3.us-west-2.amazonaws.com%2Fbrightspot%2F3b%2F90%2Fa54fe0b6401a829c97f4af9f0a95%2Fdsc-2026.JPG",
+      "summary_en": "A Minnesota guitarist has developed an invention called “palmfrets.” The device is presented as a new approach to guitar fretting. Its intended role is to change how players access or operate the instrument’s frets.",
+      "summary_zh": "一名明尼苏达州吉他手开发了一项名为“palmfrets”的发明。该装置被介绍为一种新的吉他按弦方式，旨在改变演奏者接触和操作品格的方式。",
+      "hn": {
+        "id": 50484650,
+        "type": "story",
+        "by": "bookofjoe",
+        "score": 136,
+        "descendants": 86,
+        "time": 1794582487,
+        "comments_url": "https://news.ycombinator.com/item?id=50484650"
+      },
+      "hot_score": 1.34,
+      "tags": [
+        "Hardware"
+      ]
     },
     {
       "title_en": "Anthropic IPO",
       "url": "https://ipo.anthropic.com/us/",
       "title_zh": "Anthropic 筹备首次公开募股",
-      "is_new": true,
+      "is_new": false,
       "created_display": "Created: Nov 12, 2026 / 03:46 PT",
       "image_url": "https://ipo.anthropic.com/assets/share-image-eAr8nJRP.jpg",
       "summary_en": "Anthropic has filed to become a public company and published a founders’ letter along with related information. The company is organized as a public benefit corporation focused on securing AI’s benefits and mitigating its risks. It says AI could accelerate scientific innovation, increase economic growth, help cure major diseases, and address long-standing problems if managed well.",
@@ -453,8 +1133,8 @@
         "id": 50465829,
         "type": "story",
         "by": "josephljohnston",
-        "score": 983,
-        "descendants": 888,
+        "score": 996,
+        "descendants": 904,
         "time": 1794484001,
         "comments_url": "https://news.ycombinator.com/item?id=50465829"
       },
@@ -464,13 +1144,60 @@
         "AI",
         "Science"
       ],
-      "hot_score": 2.12
+      "hot_score": 1.28
+    },
+    {
+      "title_en": "Starship Flight 15 live",
+      "url": "https://twitter.com/SpaceX/status/2121316300702056595",
+      "title_zh": "Starship 第 15 次飞行直播",
+      "is_new": true,
+      "created_display": "Created: Nov 13, 2026 / 14:09 PT",
+      "image_url": "https://pbs.twimg.com/profile_images/1697749409851985920/HbrI04tM_400x400.jpg",
+      "summary_en": "The item points viewers to a live broadcast of Starship Flight 15. No further details about the flight or its outcome are provided.",
+      "summary_zh": "该内容提供了 Starship 第 15 次飞行的直播入口。现有信息未提供此次飞行的更多细节或结果。",
+      "hn": {
+        "id": 50490662,
+        "type": "story",
+        "by": "mudil",
+        "score": 32,
+        "descendants": 5,
+        "time": 1794607795,
+        "comments_url": "https://news.ycombinator.com/item?id=50490662"
+      },
+      "hot_score": 1.25,
+      "tags": [
+        "Space"
+      ]
+    },
+    {
+      "title_en": "IceWM",
+      "url": "https://ice-wm.org/",
+      "title_zh": "IceWM",
+      "is_new": false,
+      "created_display": "Created: Nov 12, 2026 / 20:54 PT",
+      "image_url": "https://ice-wm.org/images/logom.jpg",
+      "summary_en": "IceWM is a fast, simple, and highly configurable window manager for the X Window System. It provides a taskbar, keyboard and mouse controls, dynamic menus, multiple-monitor support through RandR and Xinerama, themes, and optional session and wallpaper managers. Created by Marko Maček in 1997 using C++, it is now maintained on GitHub and is available on many Linux distributions and BSD systems.",
+      "summary_zh": "IceWM 是面向 X Window System 的快速、简洁且高度可配置的窗口管理器。它提供任务栏、键盘和鼠标控制、动态菜单，以及通过 RandR 和 Xinerama 实现的多显示器支持，还支持主题和可选的会话、壁纸管理器。IceWM 由 Marko Maček 于 1997 年使用 C++ 创建，目前在 GitHub 上维护，并可用于多种 Linux 发行版和 BSD 系统。",
+      "hn": {
+        "id": 50478515,
+        "type": "story",
+        "by": "inatreecrown2",
+        "score": 356,
+        "descendants": 217,
+        "time": 1794545693,
+        "comments_url": "https://news.ycombinator.com/item?id=50478515"
+      },
+      "tags": [
+        "Open Source",
+        "Programming"
+      ],
+      "hot_score": 1.24
     },
     {
       "title_en": "Show HN: My $300 embroidery machine needed a subscription, so I built my own app",
       "url": "https://github.com/simpsoka/zigzag",
       "title_zh": "Show HN：我的 300 美元刺绣机需要订阅，于是我自己写了应用",
-      "is_new": true,
+      "is_new": false,
       "created_display": "Created: Nov 12, 2026 / 09:02 PT",
       "image_url": "https://opengraph.githubassets.com/81c4f21c40da743b7b9f74b528674a236c434c603ac6267b09d06e0cfa68c492/simpsoka/zigzag",
       "summary_en": "A developer built a replacement app for a $300 embroidery machine that required a subscription. The project is published as Zigzag. The available description does not provide further technical details about the machine or the application.",
@@ -479,8 +1206,8 @@
         "id": 50470488,
         "type": "story",
         "by": "simpsoka",
-        "score": 661,
-        "descendants": 218,
+        "score": 719,
+        "descendants": 245,
         "time": 1794502962,
         "comments_url": "https://news.ycombinator.com/item?id=50470488"
       },
@@ -488,106 +1215,13 @@
         "Show HN",
         "Programming"
       ],
-      "hot_score": 2.0
-    },
-    {
-      "title_en": "The Dawn of the Data Intelligence Engineer",
-      "url": "https://motherduck.com/blog/the-data-intelligence-engineer/",
-      "title_zh": "数据智能工程师的黎明",
-      "is_new": true,
-      "created_display": "Created: Nov 13, 2026 / 01:08 PT",
-      "image_url": "https://motherduck-com-web-prod.s3.us-east-1.amazonaws.com/assets/img/dawn_ticker_b_3a1d920b4d.png",
-      "summary_en": "AI has changed data-team work by allowing agents to handle much of the traditional workload. MotherDuck co-founder and data engineer Nick Ursa says he has no backlog for the first time in his career, yet remains busier because people must verify answers produced by LLMs and agents. The role is shifting from calculating correct numbers to ensuring that machine-generated numbers are correct.",
-      "summary_zh": "AI 让代理能够承担许多传统数据团队工作，正在改变数据团队的工作方式。MotherDuck 联合创始人兼数据工程师 Nick Ursa 表示，这是他职业生涯中第一次没有待办积压，但他仍比过去更忙，因为人工仍需核验大语言模型和代理生成的答案。这个岗位正从计算正确数字，转向确保机器生成的数字正确。",
-      "hn": {
-        "id": 50480480,
-        "type": "story",
-        "by": "jonbaer",
-        "score": 101,
-        "descendants": 68,
-        "time": 1794560898,
-        "comments_url": "https://news.ycombinator.com/item?id=50480480"
-      },
-      "hot_score": 1.94,
-      "tags": [
-        "AI",
-        "Data"
-      ]
-    },
-    {
-      "title_en": "US test reactor cleared for operations",
-      "url": "https://www.world-nuclear-news.org/articles/us-test-reactor-cleared-for-operations",
-      "title_zh": "美国测试反应堆获准运行",
-      "is_new": true,
-      "created_display": "Created: Nov 13, 2026 / 05:54 PT",
-      "image_url": "https://world-nuclear-news.org/images/articles/GrovesIsotopeReactorbuilding(Oklo)_89955.jpg",
-      "summary_en": "The U.S. Department of Energy has cleared Oklo’s Groves Isotope Test Reactor in Texas for unrestricted operations. The reactor reached first criticality in August, less than a year after construction began, and is one of 11 projects selected for the DOE’s Nuclear Reactor Pilot Program. The approval allows Groves-1 to enter its research, testing, and training phase, with operating experience intended to inform Oklo’s planned Groves-2 Forge isotope facility.",
-      "summary_zh": "美国能源部已批准 Oklo 位于得克萨斯州的 Groves 同位素测试反应堆开展不受限制的运行。该反应堆在开工不到一年后的 8 月实现首次临界，是能源部核反应堆试点计划选中的 11 个项目之一。此次批准允许 Groves-1 进入研究、测试和培训阶段，其运行经验将用于指导 Oklo 计划中的 Groves-2 Forge 同位素设施。",
-      "hn": {
-        "id": 50483533,
-        "type": "story",
-        "by": "PaulHoule",
-        "score": 26,
-        "descendants": 8,
-        "time": 1794578089,
-        "comments_url": "https://news.ycombinator.com/item?id=50483533"
-      },
-      "hot_score": 1.91,
-      "tags": [
-        "Energy"
-      ]
-    },
-    {
-      "title_en": "Gemini 4 Hydrogen",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/",
-      "title_zh": "Gemini 4 Hydrogen",
-      "is_new": true,
-      "created_display": "Created: Nov 12, 2026 / 10:01 PT",
-      "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-4-hydrogen__key-art__lockup__16-9.width-1300.jpg",
-      "summary_en": "Google has introduced Gemini 4 Hydrogen as a fast, cost-efficient model for agentic workflows and everyday tasks. The company positions it as a daily-use model for reliable agentic work. Google also says Hydrogen brings advanced intelligence to users broadly.",
-      "summary_zh": "Google 推出了 Gemini 4 Hydrogen，将其定位为面向智能体工作流和日常任务的快速、高性价比模型。公司将其定位为可日常使用、适合可靠智能体工作的模型。Google 还表示，Hydrogen 将先进的智能能力带给更广泛的用户。",
-      "hn": {
-        "id": 50471431,
-        "type": "story",
-        "by": "dvaplima",
-        "score": 553,
-        "descendants": 343,
-        "time": 1794506508,
-        "comments_url": "https://news.ycombinator.com/item?id=50471431"
-      },
-      "tags": [
-        "AI"
-      ],
-      "hot_score": 1.8
-    },
-    {
-      "title_en": "Gemini 4 Hydrogen and Orchestrator",
-      "url": "https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/",
-      "title_zh": "Gemini 4 Hydrogen 与 Orchestrator",
-      "is_new": true,
-      "created_display": "Created: Nov 12, 2026 / 10:52 PT",
-      "image_url": "https://antigravity.google/assets/image/blog/4-Hydrogen---Wide.png",
-      "summary_en": "Google Antigravity is rolling out Gemini 4 Hydrogen together with a new model-selector option called Orchestrator. Orchestrator pairs Hydrogen with Google’s strongest models for long-horizon tasks, including Gemini 4 Carbon. The combination is intended to balance quality, efficiency, and latency.",
-      "summary_zh": "Google Antigravity 正在推出 Gemini 4 Hydrogen，以及模型选择器中的新选项 Orchestrator。Orchestrator 会将 Hydrogen 与包括 Gemini 4 Carbon 在内的 Google 最强模型搭配，用于长时程任务。该组合旨在平衡质量、效率和延迟。",
-      "hn": {
-        "id": 50472260,
-        "type": "story",
-        "by": "jonbaer",
-        "score": 467,
-        "descendants": 144,
-        "time": 1794509521,
-        "comments_url": "https://news.ycombinator.com/item?id=50472260"
-      },
-      "tags": [
-        "AI"
-      ],
-      "hot_score": 1.62
+      "hot_score": 1.19
     },
     {
       "title_en": "Lonewolf 0.3 – A standalone XMPP server written in Rust",
       "url": "https://github.com/lonewolf-im/lonewolf/releases/tag/v0.3.0",
       "title_zh": "Lonewolf 0.3：用 Rust 编写的独立 XMPP 服务器",
-      "is_new": true,
+      "is_new": false,
       "created_display": "Created: Nov 13, 2026 / 06:28 PT",
       "image_url": "https://opengraph.githubassets.com/12a3e8f58f8362796794ee2e868b2221562ec295b4cc464c71f68a2edf761dcf/lonewolf-im/lonewolf/releases/tag/v0.3.0",
       "summary_en": "Lonewolf 0.3.0 adds certificate-authenticated federation, direct TLS, and additional desktop-client features. It remains a pre-1.0, single-node server, while full XMPP compliance and clustering are still on the roadmap. The release expands secure federation without yet providing those larger deployment features.",
@@ -596,117 +1230,277 @@
         "id": 50484007,
         "type": "story",
         "by": "ortuman",
-        "score": 17,
-        "descendants": 5,
+        "score": 131,
+        "descendants": 39,
         "time": 1794580120,
         "comments_url": "https://news.ycombinator.com/item?id=50484007"
       },
-      "hot_score": 1.59,
       "tags": [
         "Programming",
         "Open Source"
-      ]
+      ],
+      "hot_score": 1.18
     },
     {
-      "title_en": "The Downfall of Jensen Huang: Nvidia's Greed and Corruption [video]",
-      "url": "https://www.youtube.com/watch?v=YYU_geUwQoA",
-      "title_zh": "黄仁勋的陨落：英伟达的贪婪与腐败［视频］",
+      "title_en": "Apify Security Incident",
+      "url": "https://status.apify.com/incidents/sxd1dj5j6749",
+      "title_zh": "Apify 安全事件",
       "is_new": true,
-      "created_display": "Created: Nov 13, 2026 / 05:45 PT",
-      "image_url": null,
-      "summary_en": "The video is titled “The Downfall of Jensen Huang: Nvidia’s Greed and Corruption.” No further details about its contents are available.",
-      "summary_zh": "该视频标题为《黄仁勋的陨落：英伟达的贪婪与腐败》。现有信息未提供视频内容的更多细节。",
+      "created_display": "Created: Nov 13, 2026 / 08:55 PT",
+      "image_url": "https://dka575ofm4ao0.cloudfront.net/assets/logos/favicon-2b86ed00cfa6258307d4a3d0c482fd733c7973f82de213143b24fc062c540367.png",
+      "summary_en": "Apify reported a security incident on its status page. The available notice does not provide further details about the incident, affected systems, or resolution.",
+      "summary_zh": "Apify 在状态页面报告了一起安全事件。现有通知未提供事件详情、受影响系统或解决情况。",
       "hn": {
-        "id": 50483391,
+        "id": 50486258,
         "type": "story",
-        "by": "belst",
-        "score": 23,
-        "descendants": 3,
-        "time": 1794577506,
-        "comments_url": "https://news.ycombinator.com/item?id=50483391"
+        "by": "cynicalpeace",
+        "score": 91,
+        "descendants": 10,
+        "time": 1794588959,
+        "comments_url": "https://news.ycombinator.com/item?id=50486258"
       },
-      "hot_score": 1.57,
+      "hot_score": 1.17,
       "tags": [
-        "Business"
+        "Security"
       ]
     },
     {
-      "title_en": "Palmfrets, Minnesota guitarist's invention, strikes a new chord",
-      "url": "https://www.echopress.com/business/minnesota-guitarists-invention-strikes-a-new-chord",
-      "title_zh": "明尼苏达吉他手发明 Palmfrets，奏出新和弦",
+      "title_en": "North Korean hackers used fake video calls in $400M crypto hack, says FBI",
+      "url": "https://www.bbc.com/news/articles/cqdj1ellpd70o",
+      "title_zh": "FBI 称朝鲜黑客利用虚假视频通话实施 4 亿美元加密货币攻击",
       "is_new": true,
-      "created_display": "Created: Nov 13, 2026 / 07:08 PT",
-      "image_url": "https://cdn.forumcomm.com/dims4/default/95aa056/2147483647/strip/true/crop/4000x6000+0+0/resize/711x1066!/quality/90/?url=https%3A%2F%2Fforum-communications-production-web.s3.us-west-2.amazonaws.com%2Fbrightspot%2F3b%2F90%2Fa54fe0b6401a829c97f4af9f0a95%2Fdsc-2026.JPG",
-      "summary_en": "Minnesota musician Ben Ranson has developed an invention called “palmfrets” that adds notes and possibilities to the guitar. He revealed the device during a performance at Stella’s restaurant in Fergus Falls on October 28. Ranson has reportedly worked on the invention for years.",
-      "summary_zh": "明尼苏达州音乐人 Ben Ranson 发明了名为“palmfrets”的装置，为吉他增加了更多音符和演奏可能性。他于 10 月 28 日在弗格斯福尔斯的 Stella’s 餐厅演出时展示了这项发明。据报道，Ranson 已经为此研究多年。",
+      "created_display": "Created: Nov 13, 2026 / 08:50 PT",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/c16a/live/65ee22f0-df02-11f1-b6e1-5b169363fed4.jpg",
+      "summary_en": "U.S. authorities say North Korean state-sponsored hackers stole more than $400 million in cryptocurrency through fake video calls used to steal victims’ identities. The FBI calls the scheme FaceStealer. More than 900 victims are thought to have been targeted during the last 18 months.",
+      "summary_zh": "美国当局称，朝鲜国家支持的黑客利用虚假视频通话窃取受害者身份，盗走了超过 4 亿美元的加密货币。FBI 将这一骗局称为 FaceStealer。过去 18 个月中，据信已有 900 多名受害者遭到攻击。",
       "hn": {
-        "id": 50484650,
+        "id": 50486178,
         "type": "story",
-        "by": "bookofjoe",
-        "score": 12,
-        "descendants": 4,
-        "time": 1794582487,
-        "comments_url": "https://news.ycombinator.com/item?id=50484650"
+        "by": "saikiran91",
+        "score": 92,
+        "descendants": 34,
+        "time": 1794588622,
+        "comments_url": "https://news.ycombinator.com/item?id=50486178"
       },
-      "hot_score": 1.57,
+      "hot_score": 1.16,
+      "tags": [
+        "Security",
+        "Finance"
+      ]
+    },
+    {
+      "title_en": "EU Digital Identity Wallet rollout: every EU state on one board",
+      "url": "https://myid.ie/business/eu-digital-wallet-tracker/",
+      "title_zh": "欧盟数字身份钱包部署情况：27 个成员国一览",
+      "is_new": false,
+      "created_display": "Created: Nov 13, 2026 / 06:58 PT",
+      "image_url": "https://myid.ie/business/eu-digital-wallet-tracker/og.png",
+      "summary_en": "A tracker lists the status, launch dates, and builders of EU Digital Identity Wallets across all 27 EU states. It was sourced and updated on October 15, 2026. The tracker cautions that national availability does not by itself establish EUDI certification.",
+      "summary_zh": "一份追踪表列出了欧盟 27 个成员国数字身份钱包的状态、上线日期和开发方，并于 2026 年 10 月 15 日完成资料更新。追踪表特别提醒，某国已提供钱包并不等同于获得 EUDI 认证。",
+      "hn": {
+        "id": 50484496,
+        "type": "story",
+        "by": "mooreds",
+        "score": 119,
+        "descendants": 86,
+        "time": 1794581887,
+        "comments_url": "https://news.ycombinator.com/item?id=50484496"
+      },
+      "tags": [
+        "Privacy"
+      ],
+      "hot_score": 1.14
+    },
+    {
+      "title_en": "Ctrl+C, Ctrl+v, Ctrl+cve: Bypassing Android's Clipboard Read Security Measures",
+      "url": "https://toninoble.com/post/ctrlc-ctrlv-ctrlcve",
+      "title_zh": "Ctrl+C、Ctrl+V、Ctrl+CVE：绕过 Android 剪贴板读取安全措施",
+      "is_new": true,
+      "created_display": "Created: Nov 13, 2026 / 10:23 PT",
+      "image_url": null,
+      "summary_en": "The post concerns bypassing Android’s security measures that restrict clipboard reads. It focuses on techniques represented by the “Ctrl+C, Ctrl+V, Ctrl+CVE” framing.",
+      "summary_zh": "这篇文章关注绕过 Android 限制剪贴板读取的安全措施。内容聚焦于标题所概括的“Ctrl+C、Ctrl+V、Ctrl+CVE”相关技术。",
+      "hn": {
+        "id": 50487605,
+        "type": "story",
+        "by": "dethmasque",
+        "score": 68,
+        "descendants": 31,
+        "time": 1794594229,
+        "comments_url": "https://news.ycombinator.com/item?id=50487605"
+      },
+      "hot_score": 1.12,
+      "tags": [
+        "Security"
+      ]
+    },
+    {
+      "title_en": "Global Microsoft Outage",
+      "url": "https://www.cnn.com/2026/11/12/business/live-news/microsoft-global-outage-intl-hnk",
+      "title_zh": "微软全球宕机",
+      "is_new": false,
+      "created_display": "Created: Nov 12, 2026 / 22:18 PT",
+      "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/ap26313845581210.jpg?c=16x9&q=w_800,c_fill",
+      "summary_en": "A major Microsoft outage left millions of people worldwide unable to access Outlook email, Teams meeting tools, and other common workplace services. The disruption affected multiple staples of modern office work.",
+      "summary_zh": "一次大规模微软服务宕机导致全球数百万人无法访问 Outlook 邮件、Teams 会议工具及其他常用办公服务。此次中断影响了现代办公中的多项基础服务。",
+      "hn": {
+        "id": 50479098,
+        "type": "story",
+        "by": "TechTechTech",
+        "score": 285,
+        "descendants": 181,
+        "time": 1794550703,
+        "comments_url": "https://news.ycombinator.com/item?id=50479098"
+      },
+      "tags": [
+        "DevOps"
+      ],
+      "hot_score": 1.11
+    },
+    {
+      "title_en": "Claude Is Down",
+      "url": "https://status.claude.com/history",
+      "title_zh": "Claude 宕机",
+      "is_new": false,
+      "created_display": "Created: Nov 13, 2026 / 02:20 PT",
+      "image_url": "https://dka575ofm4ao0.cloudfront.net/pages-transactional_logos/retina/362807/NEW_claude_status_banner-183284a4-558d-4835-b3a4-a601e0a4daa8.png",
+      "summary_en": "Claude’s incident and scheduled-maintenance history page is titled “Claude Is Down.” The available information provides no further details about the outage.",
+      "summary_zh": "Claude 的事故与计划维护历史页面显示“Claude 宕机”。现有信息未提供此次中断的更多细节。",
+      "hn": {
+        "id": 50481220,
+        "type": "story",
+        "by": "cornfieldlabs",
+        "score": 197,
+        "descendants": 172,
+        "time": 1794565209,
+        "comments_url": "https://news.ycombinator.com/item?id=50481220"
+      },
+      "tags": [
+        "AI"
+      ],
+      "hot_score": 1.1
+    },
+    {
+      "title_en": "Tell HN: Google Search to start locking down search behind a login wall",
+      "url": "https://news.ycombinator.com/item?id=50491617",
+      "title_zh": "告诉 HN：Google Search 开始把搜索结果锁在登录墙后",
+      "is_new": true,
+      "created_display": "Created: Nov 13, 2026 / 15:26 PT",
+      "image_url": null,
+      "summary_en": "A user reports that Google Search has begun placing some search-result pages behind a login prompt for certain ISP CGNAT addresses. Those addresses had already triggered repeated CAPTCHA challenges, while some VPN addresses did not. The change could make signed-out search less accessible, especially on shared or public computers.",
+      "summary_zh": "一名用户报告称，对于某些 ISP CGNAT 地址，Google Search 开始要求登录后才能查看部分搜索结果页面。这些地址此前已经频繁触发 CAPTCHA，而部分 VPN 地址却没有遇到同样问题。这一变化可能降低未登录搜索的可访问性，尤其会影响共享或公共电脑。",
+      "hn": {
+        "id": 50491617,
+        "type": "story",
+        "by": "exploraz",
+        "score": 17,
+        "descendants": 3,
+        "time": 1794612384,
+        "comments_url": "https://news.ycombinator.com/item?id=50491617"
+      },
+      "hot_score": 1.0,
+      "tags": [
+        "Privacy"
+      ]
+    },
+    {
+      "title_en": "Gemini 4 Hydrogen",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/",
+      "title_zh": "Gemini 4 Hydrogen",
+      "is_new": false,
+      "created_display": "Created: Nov 12, 2026 / 10:01 PT",
+      "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-4-hydrogen__key-art__lockup__16-9.width-1300.jpg",
+      "summary_en": "Google has introduced Gemini 4 Hydrogen as a fast, cost-efficient model for agentic workflows and everyday tasks. The company positions it as a daily-use model for reliable agentic work. Google also says Hydrogen brings advanced intelligence to users broadly.",
+      "summary_zh": "Google 推出了 Gemini 4 Hydrogen，将其定位为面向智能体工作流和日常任务的快速、高性价比模型。公司将其定位为可日常使用、适合可靠智能体工作的模型。Google 还表示，Hydrogen 将先进的智能能力带给更广泛的用户。",
+      "hn": {
+        "id": 50471431,
+        "type": "story",
+        "by": "dvaplima",
+        "score": 559,
+        "descendants": 349,
+        "time": 1794506508,
+        "comments_url": "https://news.ycombinator.com/item?id=50471431"
+      },
+      "tags": [
+        "AI"
+      ],
+      "hot_score": 0.97
+    },
+    {
+      "title_en": "The Denny's where Nvidia was born has removed the sign honoring the company",
+      "url": "https://www.nbcnews.com/tech/tech-news/dennys-nvidia-jensen-huang-california-rcna609154",
+      "title_zh": "英伟达诞生地的 Denny's 移除了纪念该公司的标牌",
+      "is_new": true,
+      "created_display": "Created: Nov 13, 2026 / 17:04 PT",
+      "image_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-11/261113-dennys-huang-ch-1313-7edb2d.jpg",
+      "summary_en": "A Denny’s diner in Santa Clara where Nvidia’s early history began has removed a sign honoring the company. The missing sign was noticed inside the roadside restaurant on Thursday. The change comes as references to Jensen Huang’s downfall are reportedly appearing at both the diner and Nvidia’s headquarters.",
+      "summary_zh": "位于圣克拉拉、见证英伟达早期历史的一家 Denny's 餐厅移除了纪念该公司的标牌。周四，人们注意到这家路边餐厅内部原本的标牌已经不见。报道称，随着有关黄仁勋失势的迹象出现，公司总部和这家餐厅都开始发生相关变化。",
+      "hn": {
+        "id": 50492407,
+        "type": "story",
+        "by": "madihaa",
+        "score": 8,
+        "descendants": 3,
+        "time": 1794618286,
+        "comments_url": "https://news.ycombinator.com/item?id=50492407"
+      },
+      "hot_score": 0.95,
       "tags": [
         "Culture"
       ]
     },
     {
-      "title_en": "Brave Search API now accepts agentic payments via the x402 protocol",
-      "url": "https://brave.com/blog/search-api-agentic-payments/",
-      "title_zh": "Brave Search API 现可通过 x402 协议接受代理支付",
-      "is_new": true,
-      "created_display": "Created: Nov 12, 2026 / 19:08 PT",
-      "image_url": "https://brave.com/blog/search-api-agentic-payments/images/featured.jpg",
-      "summary_en": "Brave Search API now lets developers and AI agents pay per query in USDC through the open x402 protocol, without an account or API key. Payments settle in real time, and Brave’s facilitator currently accepts USDC on the Base blockchain. The model supports on-demand web search and AI grounding through an agent wallet, while support for other networks and stablecoins is planned.",
-      "summary_zh": "Brave Search API 现在允许开发者和 AI 代理通过开放的 x402 协议使用 USDC 按查询付费，无需账户或 API 密钥。支付会实时结算，目前 Brave 的支付协调器接受 Base 区块链上的 USDC。该模式支持代理通过钱包按需进行网页搜索和 AI grounding，其他网络和稳定币的支持则计划在后续推出。",
+      "title_en": "US university students tell surveillance cameras to Flock off",
+      "url": "https://www.theguardian.com/technology/ng-interactive/2026/nov/13/universities-drop-flock-camera-contracts",
+      "title_zh": "美国大学生让监控摄像头“滚蛋”",
+      "is_new": false,
+      "created_display": "Created: Nov 13, 2026 / 06:11 PT",
+      "image_url": "https://i.guim.co.uk/img/media/07a6c4559866de14de7f2016c808aef3574e0c2c/23_622_4031_3223/master/4031.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5239e4f6026466fed8c975b3146ed484",
+      "summary_en": "Privacy concerns about Flock Safety’s automated license plate readers have sparked protests at schools across the United States. Stanford senior Angela Nguyen helped collect hundreds of signatures demanding that the university end its Flock contract and establish safeguards for similar tools. She argues that cameras recording where vehicles were at specific times could be exploited to target vulnerable people.",
+      "summary_zh": "对 Flock Safety 自动车牌识别摄像头的隐私担忧，已经在美国各地校园引发抗议。斯坦福大学大四学生 Angela Nguyen 帮助收集了数百个签名，要求学校终止与 Flock 的合同，并为未来使用类似技术制定保障措施。她认为，记录车辆在特定时间所在位置的摄像头可能被利用来针对弱势群体。",
       "hn": {
-        "id": 50477649,
+        "id": 50483759,
         "type": "story",
-        "by": "sjdh76",
-        "score": 204,
-        "descendants": 114,
-        "time": 1794539288,
-        "comments_url": "https://news.ycombinator.com/item?id=50477649"
+        "by": "beardyw",
+        "score": 106,
+        "descendants": 66,
+        "time": 1794579116,
+        "comments_url": "https://news.ycombinator.com/item?id=50483759"
       },
-      "hot_score": 1.56,
       "tags": [
-        "Web",
-        "AI",
-        "Finance"
-      ]
+        "Privacy",
+        "Education"
+      ],
+      "hot_score": 0.92
     },
     {
-      "title_en": "Edge0-145B: Frontier AI Capabilities on Your Own Computer",
-      "url": "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer",
-      "title_zh": "Edge0-145B：在自己的电脑上运行前沿 AI 能力",
-      "is_new": true,
-      "created_display": "Created: Nov 12, 2026 / 15:06 PT",
-      "image_url": "https://cdn.hashnode.com/uploads/covers/6aea03219fa4aa99923b5acf/de5ebdea-3436-4b9a-b3f2-e9910f3a0abc.png",
-      "summary_en": "Edge0 has open-sourced Edge0-145B and Edge0-120B, along with an inference framework and deployment tools. Edge0-145B is described as an open-source, on-device model with 145 billion parameters for coding, reasoning, and agent tasks. Local inference avoids cloud-model token fees, but large models still require substantial memory, bandwidth, and power.",
-      "summary_zh": "Edge0 开源了 Edge0-145B 和 Edge0-120B，同时发布推理框架和部署工具。Edge0-145B 被称为首个开源的 1450 亿参数设备端模型，可用于编程、推理和智能体任务。本地推理无需支付云模型的 token 费用，但大型模型仍需要大量内存、带宽和电力。",
+      "title_en": "Gemini 4 Hydrogen and Orchestrator",
+      "url": "https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/",
+      "title_zh": "Gemini 4 Hydrogen 与 Orchestrator",
+      "is_new": false,
+      "created_display": "Created: Nov 12, 2026 / 10:52 PT",
+      "image_url": "https://antigravity.google/assets/image/blog/4-Hydrogen---Wide.png",
+      "summary_en": "Google Antigravity is rolling out Gemini 4 Hydrogen together with a new model-selector option called Orchestrator. Orchestrator pairs Hydrogen with Google’s strongest models for long-horizon tasks, including Gemini 4 Carbon. The combination is intended to balance quality, efficiency, and latency.",
+      "summary_zh": "Google Antigravity 正在推出 Gemini 4 Hydrogen，以及模型选择器中的新选项 Orchestrator。Orchestrator 会将 Hydrogen 与包括 Gemini 4 Carbon 在内的 Google 最强模型搭配，用于长时程任务。该组合旨在平衡质量、效率和延迟。",
       "hn": {
-        "id": 50475713,
+        "id": 50472260,
         "type": "story",
-        "by": "sroussey",
-        "score": 308,
-        "descendants": 91,
-        "time": 1794524777,
-        "comments_url": "https://news.ycombinator.com/item?id=50475713"
+        "by": "jonbaer",
+        "score": 495,
+        "descendants": 161,
+        "time": 1794509521,
+        "comments_url": "https://news.ycombinator.com/item?id=50472260"
       },
       "tags": [
-        "AI",
-        "Open Source"
+        "AI"
       ],
-      "hot_score": 1.54
+      "hot_score": 0.9
     },
     {
       "title_en": "Former Nvidia CEO Huang had a relationship with a second employee, sources say",
       "url": "https://www.reuters.com/technology/former-nvidia-ceo-huang-had-relationship-with-second-employee-sources-say-2026-11-12/",
       "title_zh": "消息人士称，英伟达前 CEO 黄仁勋曾与第二名员工有关系",
-      "is_new": true,
+      "is_new": false,
       "created_display": "Created: Nov 12, 2026 / 11:51 PT",
       "image_url": null,
       "summary_en": "Sources say former Nvidia CEO Jensen Huang had a relationship with a second employee. No further details about the reported relationship are available.",
@@ -715,69 +1509,117 @@
         "id": 50473190,
         "type": "story",
         "by": "jbredeche",
-        "score": 382,
-        "descendants": 414,
+        "score": 448,
+        "descendants": 477,
         "time": 1794513093,
         "comments_url": "https://news.ycombinator.com/item?id=50473190"
       },
-      "hot_score": 1.43,
       "tags": [
         "Business"
+      ],
+      "hot_score": 0.86
+    },
+    {
+      "title_en": "The 42-Year Journey to Bring 'Neuromancer' to the Screen",
+      "url": "https://www.wired.com/story/exclusive-apple-tv-neuromancer-creator-interviews/",
+      "title_zh": "《神经漫游者》登上荧幕的 42 年历程",
+      "is_new": false,
+      "created_display": "Created: Nov 13, 2026 / 06:28 PT",
+      "image_url": "https://media.wired.com/photos/6aee55c49c22209c9f013e23/191:100/w_1280,c_limit/Neuromancer-BTS-Culture_102_18753F.jpg",
+      "summary_en": "William Gibson published the seminal novel Neuromancer in 1984, and it has now made its way to Apple TV after a 42-year journey. The adaptation’s development is being examined through interviews, including one with actor Briana Middleton. The long path from novel to screen reflects the difficulty of bringing the work to a filmed production.",
+      "summary_zh": "William Gibson 于 1984 年出版了经典小说《神经漫游者》，这部作品经过 42 年终于登上 Apple TV。相关制作过程通过包括演员 Briana Middleton 在内的采访得到介绍。从小说到影视作品的漫长历程，体现了将该作品搬上荧幕的复杂过程。",
+      "hn": {
+        "id": 50484006,
+        "type": "story",
+        "by": "Brajeshwar",
+        "score": 95,
+        "descendants": 74,
+        "time": 1794580112,
+        "comments_url": "https://news.ycombinator.com/item?id=50484006"
+      },
+      "tags": [
+        "Entertainment"
+      ],
+      "hot_score": 0.85
+    },
+    {
+      "title_en": "Lying to Zed to get its remote server running on FreeBSD",
+      "url": "https://hayzam.com/blog/03-lying-to-zeds-remote-editor/",
+      "title_zh": "欺骗 Zed，让它在 FreeBSD 上运行远程服务器",
+      "is_new": true,
+      "created_display": "Created: Nov 13, 2026 / 14:54 PT",
+      "image_url": "https://hayzam.com/og/blog/03-lying-to-zeds-remote-editor.png",
+      "summary_en": "The author got Zed’s remote development feature working with a FreeBSD machine. The effort involved a 768-byte buffer and adapting the setup despite Zed not natively targeting that environment. The author favors Zed’s speed and its option to disable AI features.",
+      "summary_zh": "作者让 Zed 的远程开发功能在 FreeBSD 机器上运行起来。过程中涉及一个 768 字节的缓冲区，并需要在 Zed 未原生针对该环境的情况下调整配置。作者偏爱 Zed 的速度，以及其关闭 AI 功能的选项。",
+      "hn": {
+        "id": 50491295,
+        "type": "story",
+        "by": "arch1e",
+        "score": 17,
+        "descendants": 3,
+        "time": 1794610487,
+        "comments_url": "https://news.ycombinator.com/item?id=50491295"
+      },
+      "hot_score": 0.82,
+      "tags": [
+        "Programming",
+        "AI"
       ]
     },
     {
-      "title_en": "Jonathan Blow – If AI Solved Coding, Why Is My Software Still the Same? [video]",
-      "url": "https://www.youtube.com/watch?v=IRK8h67ol7Q",
-      "title_zh": "Jonathan Blow：如果 AI 已解决编程，为什么我的软件还是老样子？［视频］",
-      "is_new": true,
-      "created_display": "Created: Nov 13, 2026 / 07:08 PT",
-      "image_url": null,
-      "summary_en": "The video is titled “If AI Solved Coding, Why Is My Software Still the Same?” by Jonathan Blow. No further details about the video’s contents are available.",
-      "summary_zh": "该视频由 Jonathan Blow 发布，标题为《如果 AI 已解决编程，为什么我的软件还是老样子？》。现有信息未提供视频内容的更多细节。",
+      "title_en": "Edge0-145B: Frontier AI Capabilities on Your Own Computer",
+      "url": "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer",
+      "title_zh": "Edge0-145B：在自己的电脑上运行前沿 AI 能力",
+      "is_new": false,
+      "created_display": "Created: Nov 12, 2026 / 15:06 PT",
+      "image_url": "https://cdn.hashnode.com/uploads/covers/6aea03219fa4aa99923b5acf/de5ebdea-3436-4b9a-b3f2-e9910f3a0abc.png",
+      "summary_en": "Edge0 has open-sourced Edge0-145B and Edge0-120B, along with an inference framework and deployment tools. Edge0-145B is described as an open-source, on-device model with 145 billion parameters for coding, reasoning, and agent tasks. Local inference avoids cloud-model token fees, but large models still require substantial memory, bandwidth, and power.",
+      "summary_zh": "Edge0 开源了 Edge0-145B 和 Edge0-120B，同时发布推理框架和部署工具。Edge0-145B 被称为首个开源的 1450 亿参数设备端模型，可用于编程、推理和智能体任务。本地推理无需支付云模型的 token 费用，但大型模型仍需要大量内存、带宽和电力。",
       "hn": {
-        "id": 50484658,
+        "id": 50475713,
         "type": "story",
-        "by": "helloplanets",
-        "score": 10,
-        "descendants": 2,
-        "time": 1794582524,
-        "comments_url": "https://news.ycombinator.com/item?id=50484658"
+        "by": "sroussey",
+        "score": 338,
+        "descendants": 104,
+        "time": 1794524777,
+        "comments_url": "https://news.ycombinator.com/item?id=50475713"
       },
-      "hot_score": 1.29,
       "tags": [
         "AI",
-        "Programming"
-      ]
+        "Open Source"
+      ],
+      "hot_score": 0.79
     },
     {
-      "title_en": "Dwarf planet candidate appears which takes roughly 280 years to orbit our sun",
-      "url": "https://www.smithsonianmag.com/smart-news/astronomers-found-a-mysterious-object-orbiting-far-beyond-pluto-it-could-be-a-new-dwarf-planet-hidden-in-our-solar-system-180989857/",
-      "title_zh": "一颗矮行星候选体出现了，绕太阳一周约需 280 年",
-      "is_new": true,
-      "created_display": "Created: Nov 12, 2026 / 11:05 PT",
-      "image_url": "https://th-thumbnailer.cdn-si-edu.com/4eu4Cs6lY_bS29DXaQHZWCxQBrs=/fit-in/1600x0/filters:focal(1024x770:1025x771)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/ab/21/ab21fe86-4d88-46f9-bcc2-d385adaa2ceb/noirlab2626c.jpg",
-      "summary_en": "Astronomers identified a distant object called ED138 in telescope images from the Vera C. Rubin Observatory. It appears unusually large and would take roughly 280 years to orbit the Sun. Its size still needs to be determined before astronomers can classify it as a dwarf planet.",
-      "summary_zh": "天文学家在维拉·鲁宾天文台的望远镜图像中发现了一个名为 ED138 的遥远天体。它看起来异常大，绕太阳一周大约需要 280 年。在将其归类为矮行星之前，天文学家仍需确定它的大小。",
+      "title_en": "Brave Search API now accepts agentic payments via the x402 protocol",
+      "url": "https://brave.com/blog/search-api-agentic-payments/",
+      "title_zh": "Brave Search API 现可通过 x402 协议接受代理支付",
+      "is_new": false,
+      "created_display": "Created: Nov 12, 2026 / 19:08 PT",
+      "image_url": "https://brave.com/blog/search-api-agentic-payments/images/featured.jpg",
+      "summary_en": "Brave Search API now lets developers and AI agents pay per query in USDC through the open x402 protocol, without an account or API key. Payments settle in real time, and Brave’s facilitator currently accepts USDC on the Base blockchain. The model supports on-demand web search and AI grounding through an agent wallet, while support for other networks and stablecoins is planned.",
+      "summary_zh": "Brave Search API 现在允许开发者和 AI 代理通过开放的 x402 协议使用 USDC 按查询付费，无需账户或 API 密钥。支付会实时结算，目前 Brave 的支付协调器接受 Base 区块链上的 USDC。该模式支持代理通过钱包按需进行网页搜索和 AI grounding，其他网络和稳定币的支持则计划在后续推出。",
       "hn": {
-        "id": 50472490,
+        "id": 50477649,
         "type": "story",
-        "by": "cybermango",
-        "score": 361,
-        "descendants": 157,
-        "time": 1794510333,
-        "comments_url": "https://news.ycombinator.com/item?id=50472490"
+        "by": "sjdh76",
+        "score": 256,
+        "descendants": 148,
+        "time": 1794539288,
+        "comments_url": "https://news.ycombinator.com/item?id=50477649"
       },
       "tags": [
-        "Space",
-        "Science"
+        "Web",
+        "AI",
+        "Finance"
       ],
-      "hot_score": 1.27
+      "hot_score": 0.78
     },
     {
       "title_en": "I'm making LLMs work on small and old devices",
       "url": "https://github.com/hyperionaidev/smolmaxxing/",
       "title_zh": "让大语言模型运行在小型和老旧设备上",
-      "is_new": true,
+      "is_new": false,
       "created_display": "Created: Nov 12, 2026 / 07:23 PT",
       "image_url": "https://opengraph.githubassets.com/b226e540c9537ad47e797a808eb8b09ea1a2592c1124a5e495b39c0fc1c4a01e/hyperionaidev/smolmaxxing",
       "summary_en": "smolmaxxing explores how to run the largest practical language models on small or old devices such as TV boxes, phones, single-board computers, and routers. It uses custom kernels, memory optimization, and weight streaming, with claims measured on the actual hardware. On a Xiaomi TV Box S 3rd Gen with about 1 GB of usable RAM, the project reports running models ranging from 260K to 16B parameters.",
@@ -786,8 +1628,8 @@
         "id": 50468888,
         "type": "story",
         "by": "mrashad74",
-        "score": 433,
-        "descendants": 167,
+        "score": 466,
+        "descendants": 180,
         "time": 1794496990,
         "comments_url": "https://news.ycombinator.com/item?id=50468888"
       },
@@ -795,13 +1637,201 @@
         "AI",
         "Hardware"
       ],
-      "hot_score": 1.17
+      "hot_score": 0.71
+    },
+    {
+      "title_en": "Dwarf planet candidate appears which takes roughly 280 years to orbit our sun",
+      "url": "https://www.smithsonianmag.com/smart-news/astronomers-found-a-mysterious-object-orbiting-far-beyond-pluto-it-could-be-a-new-dwarf-planet-hidden-in-our-solar-system-180989857/",
+      "title_zh": "一颗矮行星候选体出现了，绕太阳一周约需 280 年",
+      "is_new": false,
+      "created_display": "Created: Nov 12, 2026 / 11:05 PT",
+      "image_url": "https://th-thumbnailer.cdn-si-edu.com/4eu4Cs6lY_bS29DXaQHZWCxQBrs=/fit-in/1600x0/filters:focal(1024x770:1025x771)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/ab/21/ab21fe86-4d88-46f9-bcc2-d385adaa2ceb/noirlab2626c.jpg",
+      "summary_en": "Astronomers identified a distant object called ED138 in telescope images from the Vera C. Rubin Observatory. It appears unusually large and would take roughly 280 years to orbit the Sun. Its size still needs to be determined before astronomers can classify it as a dwarf planet.",
+      "summary_zh": "天文学家在维拉·鲁宾天文台的望远镜图像中发现了一个名为 ED138 的遥远天体。它看起来异常大，绕太阳一周大约需要 280 年。在将其归类为矮行星之前，天文学家仍需确定它的大小。",
+      "hn": {
+        "id": 50472490,
+        "type": "story",
+        "by": "cybermango",
+        "score": 387,
+        "descendants": 185,
+        "time": 1794510333,
+        "comments_url": "https://news.ycombinator.com/item?id=50472490"
+      },
+      "tags": [
+        "Space",
+        "Science"
+      ],
+      "hot_score": 0.71
+    },
+    {
+      "title_en": "The Dawn of the Data Intelligence Engineer",
+      "url": "https://motherduck.com/blog/the-data-intelligence-engineer/",
+      "title_zh": "数据智能工程师的黎明",
+      "is_new": false,
+      "created_display": "Created: Nov 13, 2026 / 01:08 PT",
+      "image_url": "https://motherduck-com-web-prod.s3.us-east-1.amazonaws.com/assets/img/dawn_ticker_b_3a1d920b4d.png",
+      "summary_en": "AI has changed data-team work by allowing agents to handle much of the traditional workload. MotherDuck co-founder and data engineer Nick Ursa says he has no backlog for the first time in his career, yet remains busier because people must verify answers produced by LLMs and agents. The role is shifting from calculating correct numbers to ensuring that machine-generated numbers are correct.",
+      "summary_zh": "AI 让代理能够承担许多传统数据团队工作，正在改变数据团队的工作方式。MotherDuck 联合创始人兼数据工程师 Nick Ursa 表示，这是他职业生涯中第一次没有待办积压，但他仍比过去更忙，因为人工仍需核验大语言模型和代理生成的答案。这个岗位正从计算正确数字，转向确保机器生成的数字正确。",
+      "hn": {
+        "id": 50480480,
+        "type": "story",
+        "by": "jonbaer",
+        "score": 138,
+        "descendants": 76,
+        "time": 1794560898,
+        "comments_url": "https://news.ycombinator.com/item?id=50480480"
+      },
+      "tags": [
+        "AI",
+        "Data"
+      ],
+      "hot_score": 0.69
+    },
+    {
+      "title_en": "CERN Built the Large Hadron Collider's Next-Gen Magnets",
+      "url": "https://spectrum.ieee.org/large-hadron-collider-superconducting-magnets",
+      "title_zh": "CERN 制造大型强子对撞机的下一代磁体",
+      "is_new": true,
+      "created_display": "Created: Nov 13, 2026 / 06:25 PT",
+      "image_url": "https://spectrum.ieee.org/media-library/new-magents-made-of-superconducting-nb3sn-coils-have-been-manufactured-and-tested-by-scientists-at-cern-paving-the-way-for-use.jpg?id=68618939&width=1200&height=600&coordinates=0%2C582%2C0%2C669",
+      "summary_en": "CERN researchers are developing and testing new niobium-tin (Nb₃Sn) superconducting magnet coils for upgrades to the Large Hadron Collider. The magnets reach 11.3 tesla and use new materials and manufacturing processes. The stronger magnets are intended to let the collider bring more particles into collision.",
+      "summary_zh": "CERN 研究人员正在为大型强子对撞机升级开发并测试新的铌锡（Nb₃Sn）超导磁体线圈。这些磁体达到 11.3 特斯拉，并采用了新材料和制造工艺。更强的磁体旨在让对撞机实现更多粒子的碰撞。",
+      "hn": {
+        "id": 50483959,
+        "type": "story",
+        "by": "marc__1",
+        "score": 76,
+        "descendants": 8,
+        "time": 1794579946,
+        "comments_url": "https://news.ycombinator.com/item?id=50483959"
+      },
+      "hot_score": 0.68,
+      "tags": [
+        "Science"
+      ]
+    },
+    {
+      "title_en": "Show HN: Light control for MacBook charger status light (open-source)",
+      "url": "https://github.com/Getterbetter/ember/releases/tag/v1.0.1",
+      "title_zh": "Show HN：开源控制 MacBook 充电器状态灯",
+      "is_new": true,
+      "created_display": "Created: Nov 13, 2026 / 16:44 PT",
+      "image_url": "https://opengraph.githubassets.com/a048504e7bf0226a72ba1aa768d53a600ef5fbf93523a055c8bc9f166c918602/Getterbetter/ember/releases/tag/v1.0.1",
+      "summary_en": "This open-source project lets users control the status light on a MacBook charger. It supports turning the light on or off automatically based on time or Focus status, as well as keeping it persistently on or off. The project invites feature suggestions through GitHub.",
+      "summary_zh": "这个开源项目可以控制 MacBook 充电器的状态灯。它支持根据时间或专注模式状态自动开关灯，也可以让灯持续亮起或关闭。项目通过 GitHub 征集功能建议。",
+      "hn": {
+        "id": 50492269,
+        "type": "story",
+        "by": "toppa33",
+        "score": 7,
+        "descendants": 6,
+        "time": 1794617098,
+        "comments_url": "https://news.ycombinator.com/item?id=50492269"
+      },
+      "hot_score": 0.68,
+      "tags": [
+        "Show HN",
+        "Open Source",
+        "Programming"
+      ]
+    },
+    {
+      "title_en": "FAA lifts ground stop at U.S. airports",
+      "url": "https://www.washingtonpost.com/transportation/2026/11/13/faa-grounds-flights-all-us-airports-citing-communications-issue/",
+      "title_zh": "FAA 解除美国机场地面停飞令",
+      "is_new": true,
+      "created_display": "Created: Nov 13, 2026 / 17:47 PT",
+      "image_url": null,
+      "summary_en": "The FAA lifted the ground stop affecting U.S. airports. No further details about the timing, cause, or operational recovery are provided.",
+      "summary_zh": "FAA 解除了影响美国机场的地面停飞令。现有信息未提供解除时间、原因或运行恢复情况的更多细节。",
+      "hn": {
+        "id": 50492723,
+        "type": "story",
+        "by": "lisper",
+        "score": 4,
+        "descendants": 0,
+        "time": 1794620832,
+        "comments_url": "https://news.ycombinator.com/item?id=50492723"
+      },
+      "hot_score": 0.66,
+      "tags": [
+        "Politics"
+      ]
+    },
+    {
+      "title_en": "US test reactor cleared for operations",
+      "url": "https://www.world-nuclear-news.org/articles/us-test-reactor-cleared-for-operations",
+      "title_zh": "美国测试反应堆获准运行",
+      "is_new": false,
+      "created_display": "Created: Nov 13, 2026 / 05:54 PT",
+      "image_url": "https://world-nuclear-news.org/images/articles/GrovesIsotopeReactorbuilding(Oklo)_89955.jpg",
+      "summary_en": "The U.S. Department of Energy has cleared Oklo’s Groves Isotope Test Reactor in Texas for unrestricted operations. The reactor reached first criticality in August, less than a year after construction began, and is one of 11 projects selected for the DOE’s Nuclear Reactor Pilot Program. The approval allows Groves-1 to enter its research, testing, and training phase, with operating experience intended to inform Oklo’s planned Groves-2 Forge isotope facility.",
+      "summary_zh": "美国能源部已批准 Oklo 位于得克萨斯州的 Groves 同位素测试反应堆开展不受限制的运行。该反应堆在开工不到一年后的 8 月实现首次临界，是能源部核反应堆试点计划选中的 11 个项目之一。此次批准允许 Groves-1 进入研究、测试和培训阶段，其运行经验将用于指导 Oklo 计划中的 Groves-2 Forge 同位素设施。",
+      "hn": {
+        "id": 50483533,
+        "type": "story",
+        "by": "PaulHoule",
+        "score": 77,
+        "descendants": 30,
+        "time": 1794578089,
+        "comments_url": "https://news.ycombinator.com/item?id=50483533"
+      },
+      "tags": [
+        "Energy"
+      ],
+      "hot_score": 0.64
+    },
+    {
+      "title_en": "DeepSeek V4 Pro 0813",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro-0813",
+      "title_zh": "DeepSeek V4 Pro 0813",
+      "is_new": true,
+      "created_display": "Created: Nov 13, 2026 / 16:50 PT",
+      "image_url": "https://cdn-thumbnails.huggingface.co/social-thumbnails/models/deepseek-ai/DeepSeek-V4-Pro-0813.png",
+      "summary_en": "DeepSeek V4 Pro 0813 is a text-generation model with 1.7 trillion parameters. The model files are available to download and explore through Hugging Face.",
+      "summary_zh": "DeepSeek V4 Pro 0813 是一款拥有 1.7 万亿参数的文本生成模型。其模型文件可通过 Hugging Face 下载和探索。",
+      "hn": {
+        "id": 50492302,
+        "type": "story",
+        "by": "nthypes",
+        "score": 6,
+        "descendants": 0,
+        "time": 1794617433,
+        "comments_url": "https://news.ycombinator.com/item?id=50492302"
+      },
+      "hot_score": 0.59,
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "title_en": "The Downfall of Jensen Huang: Nvidia's Greed and Corruption [video]",
+      "url": "https://www.youtube.com/watch?v=YYU_geUwQoA",
+      "title_zh": "黄仁勋的陨落：英伟达的贪婪与腐败［视频］",
+      "is_new": false,
+      "created_display": "Created: Nov 13, 2026 / 05:45 PT",
+      "image_url": null,
+      "summary_en": "The video is titled “The Downfall of Jensen Huang: Nvidia’s Greed and Corruption.” No further details about its contents are available.",
+      "summary_zh": "该视频标题为《黄仁勋的陨落：英伟达的贪婪与腐败》。现有信息未提供视频内容的更多细节。",
+      "hn": {
+        "id": 50483391,
+        "type": "story",
+        "by": "belst",
+        "score": 71,
+        "descendants": 12,
+        "time": 1794577506,
+        "comments_url": "https://news.ycombinator.com/item?id=50483391"
+      },
+      "tags": [
+        "Business"
+      ],
+      "hot_score": 0.58
     },
     {
       "title_en": "Foundation Models framework",
       "url": "https://developer.apple.com/foundation-models-framework/",
       "title_zh": "Foundation Models 框架",
-      "is_new": true,
+      "is_new": false,
       "created_display": "Created: Nov 12, 2026 / 13:13 PT",
       "image_url": "https://developer.apple.com/news/images/og/foundation-models-framework-og.png",
       "summary_en": "Apple’s Foundation Models framework is a native Swift API for integrating large language models into apps. It provides access to Apple’s on-device foundation models and Private Cloud Compute. Built-in capabilities include guided generation, tool calling, image understanding, and Dynamic Profiles.",
@@ -810,21 +1840,68 @@
         "id": 50474361,
         "type": "story",
         "by": "kermatt",
-        "score": 247,
-        "descendants": 33,
+        "score": 265,
+        "descendants": 35,
         "time": 1794518006,
         "comments_url": "https://news.ycombinator.com/item?id=50474361"
       },
       "tags": [
         "Programming"
       ],
-      "hot_score": 1.04
+      "hot_score": 0.55
+    },
+    {
+      "title_en": "Concurrent Shell Command Queues",
+      "url": "https://emmer.dev/blog/concurrent-shell-command-queues/",
+      "title_zh": "并发 Shell 命令队列",
+      "is_new": true,
+      "created_display": "Created: Nov 13, 2026 / 09:13 PT",
+      "image_url": "https://emmer.dev/static/img/blog/concurrent-shell-command-queues.jpg",
+      "summary_en": "The technique runs shell commands in parallel while limiting the number of concurrent jobs. The author describes implementing a relatively resilient and portable thread-pool-like system in Bash for speeding up processing. Python or another language may be more suitable when stronger concurrency controls are needed.",
+      "summary_zh": "这项技术可以在限制并发任务数量的同时并行运行 Shell 命令。作者介绍了如何在 Bash 中实现一个相对可靠且可移植、类似线程池的系统，以加快处理速度。如果需要更强的并发控制，Python 或其他语言可能更合适。",
+      "hn": {
+        "id": 50486521,
+        "type": "story",
+        "by": "speckx",
+        "score": 36,
+        "descendants": 16,
+        "time": 1794589981,
+        "comments_url": "https://news.ycombinator.com/item?id=50486521"
+      },
+      "hot_score": 0.48,
+      "tags": [
+        "Programming"
+      ]
+    },
+    {
+      "title_en": "Abandoned Quake 4 expansion finished by modders and now playable",
+      "url": "https://www.moddb.com/mods/openq4/downloads/openq4-0141-windows-x64",
+      "title_zh": "被放弃的《Quake 4》扩展包由模组作者完成并已可游玩",
+      "is_new": false,
+      "created_display": "Created: Nov 12, 2026 / 06:18 PT",
+      "image_url": "https://media.moddb.com/images/downloads/1/322/321570/moddb-release-0.14.1-awakening-p.jpg",
+      "summary_en": "The never-released Quake 4 expansion is now playable through openQ4 0.14.1, the Awakening Edition. The free, open-source replacement engine includes a second campaign, stable shadow mapping, a rebuilt interface, Vulkan support on Windows, smarter bots, and an experimental Android app. It also supports the original campaign and multiplayer on current Windows, Linux, and Steam Deck systems.",
+      "summary_zh": "从未正式发行的《Quake 4》扩展包如今可通过 openQ4 0.14.1“觉醒版”游玩。这款免费开源的替代引擎加入了第二战役、稳定的阴影映射、重制界面、Windows Vulkan 支持、更智能的机器人以及实验性的 Android 应用。它还支持在当前的 Windows、Linux 和 Steam Deck 系统上运行原版战役和多人模式。",
+      "hn": {
+        "id": 50467618,
+        "type": "story",
+        "by": "klaussilveira",
+        "score": 306,
+        "descendants": 128,
+        "time": 1794493129,
+        "comments_url": "https://news.ycombinator.com/item?id=50467618"
+      },
+      "tags": [
+        "Gaming",
+        "Open Source"
+      ],
+      "hot_score": 0.44
     },
     {
       "title_en": "Switcher (2004)",
       "url": "https://folklore.org/Switcher.html",
       "title_zh": "Switcher（2004）",
-      "is_new": true,
+      "is_new": false,
       "created_display": "Created: Nov 12, 2026 / 19:14 PT",
       "image_url": "https://folklore.org/images/logo.gif",
       "summary_en": "The author recalls Thunderscan, a low-cost, high-resolution scanner for the Macintosh developed with Thunderware after taking a leave of absence from Apple in March 1984. Work began in June 1984, and the product was nearly complete by early October. The account places the development in the author’s early post-Apple work.",
@@ -833,69 +1910,45 @@
         "id": 50477714,
         "type": "story",
         "by": "sammatilda",
-        "score": 124,
-        "descendants": 39,
+        "score": 145,
+        "descendants": 44,
         "time": 1794539699,
         "comments_url": "https://news.ycombinator.com/item?id=50477714"
       },
-      "hot_score": 0.96,
       "tags": [
         "Programming"
-      ]
+      ],
+      "hot_score": 0.44
     },
     {
-      "title_en": "Reverse Engineering My Coway Air Purifier to Ditch the Cloud",
-      "url": "https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/",
-      "title_zh": "逆向工程我的 Coway 空气净化器，摆脱云端控制",
+      "title_en": "Technology as a Search Problem",
+      "url": "https://www.construction-physics.com/p/technology-as-a-search-problem",
+      "title_zh": "把技术视为搜索问题",
       "is_new": true,
-      "created_display": "Created: Nov 12, 2026 / 14:03 PT",
-      "image_url": "https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/coway-airmega-icons-cover.jpg",
-      "summary_en": "During the 2017 wave of annual wildfires on the West Coast, many Bay Area residents bought air purifiers because their homes were poorly insulated and sealed. The author describes buying a Coway Airmega to avoid breathing wildfire soot and reverse-engineering it to remove its dependence on cloud services. The project reflects a broader effort to keep household devices locally controlled.",
-      "summary_zh": "2017 年西海岸接连发生野火时，许多湾区居民因为房屋隔热和密封性能较差而购买空气净化器，以避免吸入野火烟尘。作者介绍了自己购买 Coway Airmega，并对其进行逆向工程，以摆脱对云端服务的依赖。这一项目体现了将家用设备控制权保留在本地的尝试。",
+      "created_display": "Created: Nov 13, 2026 / 11:27 PT",
+      "image_url": "https://substackcdn.com/image/fetch/$s_!Z_HI!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F64d670de-009d-434f-babb-96a23526bef8_1241x646.png",
+      "summary_en": "The essay examines how technology emerges and improves over time. It frames technological progress as an ongoing research question about how new technologies come into the world. A response connects the discussion with Terraform Industries’ public work and first-principles reasoning.",
+      "summary_zh": "这篇文章探讨技术如何产生并随时间改进。它将技术进步视为一个持续的研究问题，关注新技术如何进入现实世界。文中的回应把这一讨论与 Terraform Industries 的公开工作及第一性原理推理联系起来。",
       "hn": {
-        "id": 50474959,
+        "id": 50488490,
         "type": "story",
-        "by": "scottjg",
-        "score": 207,
-        "descendants": 44,
-        "time": 1794520989,
-        "comments_url": "https://news.ycombinator.com/item?id=50474959"
+        "by": "dverlaeckt80",
+        "score": 21,
+        "descendants": 4,
+        "time": 1794598035,
+        "comments_url": "https://news.ycombinator.com/item?id=50488490"
       },
-      "hot_score": 0.93,
+      "hot_score": 0.41,
       "tags": [
-        "Hardware",
-        "Privacy"
-      ]
-    },
-    {
-      "title_en": "Study Hard, Get a Career, Get Ahead? It's Not What It Used to Be",
-      "url": "https://www.nytimes.com/2026/11/13/world/europe/education-meritocracy.html",
-      "title_zh": "努力学习、找到职业、取得成功？这一切已不再像过去那样",
-      "is_new": true,
-      "created_display": "Created: Nov 13, 2026 / 03:50 PT",
-      "image_url": null,
-      "summary_en": "The item questions whether studying hard, building a career, and getting ahead still work as they once did. No further details about the arguments or evidence are available.",
-      "summary_zh": "该条目质疑努力学习、建立职业并取得成功是否仍像过去一样有效。现有信息未提供其论点或证据的更多细节。",
-      "hn": {
-        "id": 50482175,
-        "type": "story",
-        "by": "pseudolus",
-        "score": 25,
-        "descendants": 28,
-        "time": 1794570600,
-        "comments_url": "https://news.ycombinator.com/item?id=50482175"
-      },
-      "hot_score": 0.89,
-      "tags": [
-        "Education",
-        "Career"
+        "Science",
+        "DevOps"
       ]
     },
     {
       "title_en": "Turning a 22-year-old Postgres type-confusion primitive into RCE",
       "url": "https://mehmetince.net/part-3-6-how-i-ended-up-turning-a-22-year-old-postgresql-type-confusion-primitive-into-rce-cve-2026-6460/",
       "title_zh": "将 22 年前的 PostgreSQL 类型混淆原语转化为 RCE",
-      "is_new": true,
+      "is_new": false,
       "created_display": "Created: Nov 12, 2026 / 10:22 PT",
       "image_url": "https://mehmetince.net/wp-content/uploads/2026/11/postgresql-composite-type-confusion-primitive-rce-cve-2026-6460.png",
       "summary_en": "A researcher says they turned a 22-year-old type-confusion primitive in PostgreSQL core into remote code execution. The discovery emerged while investigating whether managed PostgreSQL was suitable for a project. The report characterizes the issue as a zero-day in PostgreSQL core.",
@@ -904,7 +1957,7 @@
         "id": 50471761,
         "type": "story",
         "by": "ozirus",
-        "score": 224,
+        "score": 229,
         "descendants": 40,
         "time": 1794507742,
         "comments_url": "https://news.ycombinator.com/item?id=50471761"
@@ -914,84 +1967,63 @@
         "Programming",
         "Data"
       ],
-      "hot_score": 0.75
+      "hot_score": 0.4
     },
     {
-      "title_en": "Abandoned Quake 4 expansion finished by modders and now playable",
-      "url": "https://www.moddb.com/mods/openq4/downloads/openq4-0141-windows-x64",
-      "title_zh": "被放弃的《Quake 4》扩展包由模组作者完成并已可游玩",
+      "title_en": "Moonshine is dead, long live Moonshine",
+      "url": "https://petewarden.com/2026/11/12/moonshine-is-dead-long-live-moonshine/",
+      "title_zh": "Moonshine 已死，Moonshine 万岁",
       "is_new": true,
-      "created_display": "Created: Nov 12, 2026 / 06:18 PT",
-      "image_url": "https://media.moddb.com/images/downloads/1/322/321570/moddb-release-0.14.1-awakening-p.jpg",
-      "summary_en": "The never-released Quake 4 expansion is now playable through openQ4 0.14.1, the Awakening Edition. The free, open-source replacement engine includes a second campaign, stable shadow mapping, a rebuilt interface, Vulkan support on Windows, smarter bots, and an experimental Android app. It also supports the original campaign and multiplayer on current Windows, Linux, and Steam Deck systems.",
-      "summary_zh": "从未正式发行的《Quake 4》扩展包如今可通过 openQ4 0.14.1“觉醒版”游玩。这款免费开源的替代引擎加入了第二战役、稳定的阴影映射、重制界面、Windows Vulkan 支持、更智能的机器人以及实验性的 Android 应用。它还支持在当前的 Windows、Linux 和 Steam Deck 系统上运行原版战役和多人模式。",
+      "created_display": "Created: Nov 13, 2026 / 16:31 PT",
+      "image_url": "http://img.youtube.com/vi/ytNBseHc7dk/0.jpg",
+      "summary_en": "The author shut down the startup Moonshine after four years and $12 million in investment failed to produce enough revenue or growth, and no compelling acquisition emerged. The company entered liquidation with little recovery for investors, while the cofounder joined OpenAI. The author personally acquired Moonshine’s intellectual property, data, and code to continue the open-source work.",
+      "summary_zh": "作者在 Moonshine 创业四年、获得 1,200 万美元投资后关闭了公司，因为收入和增长仍不足以维持运营，也没能找到合适的收购方案。公司随后进入清算程序，投资者几乎没有收回资金，而联合创始人加入了 OpenAI。作者个人购得 Moonshine 的知识产权、数据和代码，以继续其开源工作。",
       "hn": {
-        "id": 50467618,
+        "id": 50492158,
         "type": "story",
-        "by": "klaussilveira",
-        "score": 296,
-        "descendants": 115,
-        "time": 1794493129,
-        "comments_url": "https://news.ycombinator.com/item?id=50467618"
+        "by": "Curiositry",
+        "score": 5,
+        "descendants": 1,
+        "time": 1794616278,
+        "comments_url": "https://news.ycombinator.com/item?id=50492158"
       },
+      "hot_score": 0.4,
       "tags": [
-        "Gaming",
-        "Open Source"
-      ],
-      "hot_score": 0.74
-    },
-    {
-      "title_en": "Show HN: Reflota – Open-source data recovery for NTFS/FAT disks with phased copy",
-      "url": "https://github.com/Christ10-8/reflota",
-      "title_zh": "Show HN：Reflota——支持分阶段复制的 NTFS/FAT 开源数据恢复工具",
-      "is_new": true,
-      "created_display": "Created: Nov 13, 2026 / 04:17 PT",
-      "image_url": "https://opengraph.githubassets.com/546a5bbfbeea4905ad1d0cdd4557d9bf25f556eb579d1dfcc20b95c692bb5bdb/Christ10-8/reflota",
-      "summary_en": "Reflota is a free, open-source, read-only tool for recovering files from NTFS, FAT32, FAT16, FAT12, and exFAT disks, including deleted files. It reads disks directly: for NTFS, it reconstructs the folder tree from the master file table and directory metadata, while for FAT and exFAT it reads directories and follows cluster chains. It is intended for cases where Windows reports that a disk is unformatted, a folder will not open, or Explorer hangs.",
-      "summary_zh": "Reflota 是一款免费、开源且只读的数据恢复工具，支持从 NTFS、FAT32、FAT16、FAT12 和 exFAT 磁盘中恢复文件，包括已删除的文件。它会直接读取磁盘：处理 NTFS 时读取主文件表并根据目录元数据重建文件夹树，处理 FAT 和 exFAT 时读取目录并跟踪簇链。当 Windows 报告磁盘未格式化、文件夹无法打开或资源管理器卡死时，该工具可用于尝试恢复数据。",
-      "hn": {
-        "id": 50482455,
-        "type": "story",
-        "by": "christ_dev",
-        "score": 18,
-        "descendants": 2,
-        "time": 1794572272,
-        "comments_url": "https://news.ycombinator.com/item?id=50482455"
-      },
-      "hot_score": 0.72,
-      "tags": [
-        "Show HN",
-        "Open Source"
+        "Startups",
+        "AI",
+        "Open Source",
+        "Business"
       ]
     },
     {
-      "title_en": "Talking Zen 6 with Mike Clark at AMD In-Depth",
-      "url": "https://chipsandcheese.com/p/talking-zen-6-with-mike-clark-at",
-      "title_zh": "在 AMD 深度访谈中与 Mike Clark 谈 Zen 6",
+      "title_en": "DeepSeek Ultrafast",
+      "url": "https://github.com/basetenlabs/deepseek-ultrafast",
+      "title_zh": "DeepSeek Ultrafast",
       "is_new": true,
-      "created_display": "Created: Nov 12, 2026 / 06:12 PT",
-      "image_url": "https://substackcdn.com/image/youtube/w_728,c_limit/AdyPoLBp4No",
-      "summary_en": "The item is an interview with AMD’s Mike Clark about the Zen 6 architecture. The available text provides no further technical details.",
-      "summary_zh": "该内容是围绕 Zen 6 架构对 AMD Mike Clark 的访谈。现有文字未提供更多技术细节。",
+      "created_display": "Created: Nov 13, 2026 / 09:39 PT",
+      "image_url": "https://opengraph.githubassets.com/225e72016660fbfa4b1b894824b4ac689be099b27b9d0ce6bf6b11e419375d24/basetenlabs/deepseek-ultrafast",
+      "summary_en": "DeepSeek Ultrafast is an inference engine for DeepSeek-V4.1-Flash targeting NVIDIA sm_100a and sm_103a hardware. It supports a 1-million-token context length and multi-server KV-cache sharing. The project measures decode speed, step time, and acceptance length using a Tetris-generation prompt.",
+      "summary_zh": "DeepSeek Ultrafast 是面向 NVIDIA sm_100a 和 sm_103a 硬件的 DeepSeek-V4.1-Flash 推理引擎。它支持 100 万 token 的上下文长度和多服务器 KV 缓存共享。项目使用生成俄罗斯方块的提示词测量解码速度、步骤耗时和接受长度。",
       "hn": {
-        "id": 50467460,
+        "id": 50486914,
         "type": "story",
-        "by": "dverlaeckt80",
-        "score": 236,
-        "descendants": 8,
-        "time": 1794492757,
-        "comments_url": "https://news.ycombinator.com/item?id=50467460"
+        "by": "neo2006",
+        "score": 28,
+        "descendants": 7,
+        "time": 1794591543,
+        "comments_url": "https://news.ycombinator.com/item?id=50486914"
       },
+      "hot_score": 0.39,
       "tags": [
+        "AI",
         "Hardware"
-      ],
-      "hot_score": 0.59
+      ]
     },
     {
       "title_en": "Our software engineering interviews are changing a little",
       "url": "https://blog.janestreet.com/software-engineering-interviews-are-changing-a-little/",
       "title_zh": "我们的软件工程面试正在进行一些调整",
-      "is_new": true,
+      "is_new": false,
       "created_display": "Created: Nov 12, 2026 / 06:05 PT",
       "image_url": "https://blog.janestreet.com/static/img/header.png",
       "summary_en": "Jane Street says the widespread use of LLMs has changed how its engineers build software. Engineers now use these tools daily for writing, reading, debugging, and reviewing code, as well as for non-coding tasks. The company is therefore updating its software engineering interviews to reflect current development practices.",
@@ -1000,70 +2032,91 @@
         "id": 50467297,
         "type": "story",
         "by": "maitland",
-        "score": 236,
-        "descendants": 217,
+        "score": 254,
+        "descendants": 233,
         "time": 1794492328,
         "comments_url": "https://news.ycombinator.com/item?id=50467297"
       },
       "tags": [
         "Programming"
       ],
-      "hot_score": 0.58
+      "hot_score": 0.36
     },
     {
-      "title_en": "Why is Google cutting off Search from AI-free schools? Here are some theories",
-      "url": "https://text.npr.org/nx-s1-6029408",
-      "title_zh": "Google 为什么要切断与“无 AI”学校的搜索服务？这里有几种猜测",
-      "is_new": true,
-      "created_display": "Created: Nov 13, 2026 / 07:29 PT",
-      "image_url": null,
-      "summary_en": "The item examines why Google may be cutting off Search from schools that avoid AI. It notes that Google is deeply embedded in the school day for millions of students, serving not only as a search engine but also as a hub for sharing documents and submitting homework. No specific explanation for the policy is provided in the available context.",
-      "summary_zh": "该条目探讨 Google 可能为何要切断对不使用 AI 的学校提供搜索服务。它指出，Google 已深度融入数百万学生的日常学习，不仅是搜索引擎，也是分享文档和提交作业的平台。现有信息未提供这一政策的具体原因。",
+      "title_en": "Talking Zen 6 with Mike Clark at AMD In-Depth",
+      "url": "https://chipsandcheese.com/p/talking-zen-6-with-mike-clark-at",
+      "title_zh": "在 AMD 深度访谈中与 Mike Clark 谈 Zen 6",
+      "is_new": false,
+      "created_display": "Created: Nov 12, 2026 / 06:12 PT",
+      "image_url": "https://substackcdn.com/image/youtube/w_728,c_limit/AdyPoLBp4No",
+      "summary_en": "The item is an interview with AMD’s Mike Clark about the Zen 6 architecture. The available text provides no further technical details.",
+      "summary_zh": "该内容是围绕 Zen 6 架构对 AMD Mike Clark 的访谈。现有文字未提供更多技术细节。",
       "hn": {
-        "id": 50484960,
+        "id": 50467460,
         "type": "story",
-        "by": "kamaraju",
-        "score": 4,
-        "descendants": 0,
-        "time": 1794583750,
-        "comments_url": "https://news.ycombinator.com/item?id=50484960"
+        "by": "dverlaeckt80",
+        "score": 239,
+        "descendants": 8,
+        "time": 1794492757,
+        "comments_url": "https://news.ycombinator.com/item?id=50467460"
       },
-      "hot_score": 0.54,
+      "tags": [
+        "Hardware"
+      ],
+      "hot_score": 0.34
+    },
+    {
+      "title_en": "Study Hard, Get a Career, Get Ahead? It's Not What It Used to Be",
+      "url": "https://www.nytimes.com/2026/11/13/world/europe/education-meritocracy.html",
+      "title_zh": "努力学习、找到职业、取得成功？这一切已不再像过去那样",
+      "is_new": false,
+      "created_display": "Created: Nov 13, 2026 / 03:50 PT",
+      "image_url": null,
+      "summary_en": "The item questions whether studying hard, building a career, and getting ahead still work as they once did. No further details about the arguments or evidence are available.",
+      "summary_zh": "该条目质疑努力学习、建立职业并取得成功是否仍像过去一样有效。现有信息未提供其论点或证据的更多细节。",
+      "hn": {
+        "id": 50482175,
+        "type": "story",
+        "by": "pseudolus",
+        "score": 44,
+        "descendants": 39,
+        "time": 1794570600,
+        "comments_url": "https://news.ycombinator.com/item?id=50482175"
+      },
       "tags": [
         "Education",
-        "Politics",
-        "AI"
-      ]
+        "Career"
+      ],
+      "hot_score": 0.28
     },
     {
-      "title_en": "Brazil's Caixa insurer breach exposes names and tax IDs of all 7.6M customers",
-      "url": "https://filemanager-cdn.mziq.com/published/3972906b-e50b-4f74-ab74-4d0d32125d11/9567a559-d20a-486e-a7ae-5c6bbc030c5e",
-      "title_zh": "巴西 Caixa 保险公司遭入侵，760 万客户的姓名和税号曝光",
+      "title_en": "Your room can be as bright as the outdoors (2019)",
+      "url": "https://www.benkuhn.net/lux/",
+      "title_zh": "你的房间可以像户外一样明亮（2019）",
       "is_new": true,
-      "created_display": "Created: Nov 13, 2026 / 07:52 PT",
-      "image_url": null,
-      "summary_en": "A breach at Brazil’s Caixa insurer exposed the names and tax identification numbers of all 7.6 million customers. No further information about the incident is available.",
-      "summary_zh": "巴西 Caixa 保险公司遭遇数据泄露，全部 760 万名客户的姓名和税号被曝光。现有信息未提供更多关于此次事件的细节。",
+      "created_display": "Created: Nov 13, 2026 / 12:05 PT",
+      "image_url": "https://www.benkuhn.net/lux/preview.jpg",
+      "summary_en": "The author, facing short winter days in Boston, built an indoor lighting setup to approximate natural daylight after dark. The project covers bulb choices, before-and-after photos, and reported savings of one-half to two hours per day in productivity or usable time. It was motivated by difficulty focusing after sunset.",
+      "summary_zh": "作者在波士顿经历冬季短日照后，搭建了一套室内照明系统，试图在天黑后模拟自然日光。项目介绍了灯泡选择、改造前后照片，并称每天可多获得约半小时至两小时的有效时间。起因是作者发现日落后难以集中注意力。",
       "hn": {
-        "id": 50485295,
+        "id": 50488916,
         "type": "story",
-        "by": "dvaplima",
-        "score": 3,
-        "descendants": 0,
-        "time": 1794585124,
-        "comments_url": "https://news.ycombinator.com/item?id=50485295"
+        "by": "mday404",
+        "score": 12,
+        "descendants": 4,
+        "time": 1794600320,
+        "comments_url": "https://news.ycombinator.com/item?id=50488916"
       },
-      "hot_score": 0.48,
+      "hot_score": 0.26,
       "tags": [
-        "Privacy",
-        "Security"
+        "Hardware"
       ]
     },
     {
       "title_en": "Show HN: AgentRun – open-source, Self-improving Managed Agents",
       "url": "https://github.com/Parcha-ai/agentrun/blob/main/README.md",
       "title_zh": "Show HN：AgentRun——开源、自我改进的托管智能体",
-      "is_new": true,
+      "is_new": false,
       "created_display": "Created: Nov 12, 2026 / 10:15 PT",
       "image_url": "https://opengraph.githubassets.com/2149006b52596bf657d27dc01990d994812003da586f85273e3800bed0ae0d2d/Parcha-ai/agentrun",
       "summary_en": "GREP.AI has open-sourced AgentRun as a managed platform for agents. It includes self-improving agents, web-grounded workflows, sandboxes, computer environments, tools and integrations, and behavioral analytics. AgentRun supports harnesses including Pi, Claude Agents, Codex, and OpenCode, and can be self-hosted or used as a hosted service.",
@@ -1072,8 +2125,8 @@
         "id": 50471650,
         "type": "story",
         "by": "miguelrios",
-        "score": 127,
-        "descendants": 32,
+        "score": 134,
+        "descendants": 37,
         "time": 1794507348,
         "comments_url": "https://news.ycombinator.com/item?id=50471650"
       },
@@ -1083,13 +2136,13 @@
         "AI",
         "Data"
       ],
-      "hot_score": 0.42
+      "hot_score": 0.23
     },
     {
       "title_en": "Libreagi – Save OSS Models",
       "url": "https://libreagi.com/",
       "title_zh": "LibreAGI：保存开源模型",
-      "is_new": true,
+      "is_new": false,
       "created_display": "Created: Nov 12, 2026 / 06:11 PT",
       "image_url": "https://libreagi.com/og.png",
       "summary_en": "LibreAGI is a private BitTorrent tracker where members preserve copies of open models that may disappear from their original hosting locations. The project argues that open models should outlive the services that host them. It provides torrent-based tooling for sharing model copies.",
@@ -1098,7 +2151,7 @@
         "id": 50467439,
         "type": "story",
         "by": "satuke",
-        "score": 151,
+        "score": 154,
         "descendants": 31,
         "time": 1794492718,
         "comments_url": "https://news.ycombinator.com/item?id=50467439"
@@ -1106,13 +2159,84 @@
       "tags": [
         "Open Source"
       ],
-      "hot_score": 0.38
+      "hot_score": 0.22
+    },
+    {
+      "title_en": "Agda v2.9.0",
+      "url": "https://github.com/agda/agda/releases/tag/v2.9.0",
+      "title_zh": "Agda v2.9.0",
+      "is_new": true,
+      "created_display": "Created: Nov 13, 2026 / 12:03 PT",
+      "image_url": "https://opengraph.githubassets.com/121b283b1ae636a2589850bae5d8cbed0d6a74e4113e69c00f96937baf3cd7c3/agda/agda/releases/tag/v2.9.0",
+      "summary_en": "Agda 2.9.0 adds an experimental `-j` option for type-checking modules in parallel in batch mode. The release also includes substantial performance improvements and drops support for GHC 8.8, 8.10, and 9.0. Agda is a dependently typed programming language and interactive theorem prover.",
+      "summary_zh": "Agda 2.9.0 在批处理模式下新增实验性的 `-j` 选项，可并行进行模块类型检查。该版本还带来了显著的性能改进，并停止支持 GHC 8.8、8.10 和 9.0。Agda 是一种依赖类型编程语言和交互式定理证明器。",
+      "hn": {
+        "id": 50488901,
+        "type": "story",
+        "by": "qbane",
+        "score": 10,
+        "descendants": 0,
+        "time": 1794600228,
+        "comments_url": "https://news.ycombinator.com/item?id=50488901"
+      },
+      "hot_score": 0.21,
+      "tags": [
+        "Programming"
+      ]
+    },
+    {
+      "title_en": "Show HN: Reflota – Open-source data recovery for NTFS/FAT disks with phased copy",
+      "url": "https://github.com/Christ10-8/reflota",
+      "title_zh": "Show HN：Reflota——支持分阶段复制的 NTFS/FAT 开源数据恢复工具",
+      "is_new": false,
+      "created_display": "Created: Nov 13, 2026 / 04:17 PT",
+      "image_url": "https://opengraph.githubassets.com/546a5bbfbeea4905ad1d0cdd4557d9bf25f556eb579d1dfcc20b95c692bb5bdb/Christ10-8/reflota",
+      "summary_en": "Reflota is a free, open-source, read-only tool for recovering files from NTFS, FAT32, FAT16, FAT12, and exFAT disks, including deleted files. It reads disks directly: for NTFS, it reconstructs the folder tree from the master file table and directory metadata, while for FAT and exFAT it reads directories and follows cluster chains. It is intended for cases where Windows reports that a disk is unformatted, a folder will not open, or Explorer hangs.",
+      "summary_zh": "Reflota 是一款免费、开源且只读的数据恢复工具，支持从 NTFS、FAT32、FAT16、FAT12 和 exFAT 磁盘中恢复文件，包括已删除的文件。它会直接读取磁盘：处理 NTFS 时读取主文件表并根据目录元数据重建文件夹树，处理 FAT 和 exFAT 时读取目录并跟踪簇链。当 Windows 报告磁盘未格式化、文件夹无法打开或资源管理器卡死时，该工具可用于尝试恢复数据。",
+      "hn": {
+        "id": 50482455,
+        "type": "story",
+        "by": "christ_dev",
+        "score": 30,
+        "descendants": 3,
+        "time": 1794572272,
+        "comments_url": "https://news.ycombinator.com/item?id=50482455"
+      },
+      "tags": [
+        "Show HN",
+        "Open Source"
+      ],
+      "hot_score": 0.2
+    },
+    {
+      "title_en": "Show HN: NETWAR – hacker MMO with 15-second card duels on a shared hex map",
+      "url": "https://play-netwar.com/?from=hn",
+      "title_zh": "Show HN：NETWAR——共享六边形地图上的黑客 MMO 与 15 秒卡牌对决",
+      "is_new": true,
+      "created_display": "Created: Nov 13, 2026 / 14:33 PT",
+      "image_url": null,
+      "summary_en": "NETWAR is a hacker-themed MMO built around 15-second card duels on a shared hexagonal map. The game interface lets players zoom to a sector grid, select empty land, and name a core. New frontier deployments start near active operators, with shields covering the first 48 hours.",
+      "summary_zh": "NETWAR 是一款以共享六边形地图和 15 秒卡牌对决为核心的黑客主题 MMO。游戏界面允许玩家缩放至区域网格、选择空地并为核心命名。新的前线部署会出现在活跃运营者附近，并在最初 48 小时受到护盾保护。",
+      "hn": {
+        "id": 50491021,
+        "type": "story",
+        "by": "Fivekoto",
+        "score": 5,
+        "descendants": 0,
+        "time": 1794609206,
+        "comments_url": "https://news.ycombinator.com/item?id=50491021"
+      },
+      "hot_score": 0.18,
+      "tags": [
+        "Show HN",
+        "Gaming"
+      ]
     },
     {
       "title_en": "Researchers discover rare star system that emits radio signals every 8 minutes",
       "url": "https://www.curtin.edu.au/news/media-release/researchers-discover-rare-star-system-that-emits-radio-signals-every-eight-minutes/",
       "title_zh": "研究人员发现每 8 分钟发出一次无线电信号的罕见星系系统",
-      "is_new": true,
+      "is_new": false,
       "created_display": "Created: Nov 12, 2026 / 02:46 PT",
       "image_url": "https://www.curtin.edu.au/news/wp-content/uploads/2026/11/for-web-LPT_HD_Still_3.png",
       "summary_en": "Scientists at the Curtin University node of ICRAR linked mysterious radio pulses to a pair of stars known as GPM J071507−114153. The system contains a white dwarf and a G-type star similar to the Sun, orbiting each other. The white dwarf spins once every eight minutes, providing the unusual timing associated with the signals.",
@@ -1121,8 +2245,8 @@
         "id": 50465453,
         "type": "story",
         "by": "giuliomagnifico",
-        "score": 134,
-        "descendants": 65,
+        "score": 140,
+        "descendants": 67,
         "time": 1794480380,
         "comments_url": "https://news.ycombinator.com/item?id=50465453"
       },
@@ -1131,13 +2255,60 @@
         "Space",
         "Education"
       ],
-      "hot_score": 0.27
+      "hot_score": 0.17
+    },
+    {
+      "title_en": "End‑to‑End 4‑Bit Training",
+      "url": "https://thinkingmachines.ai/blog/end-to-end-4-bit-training/",
+      "title_zh": "端到端 4 位训练",
+      "is_new": true,
+      "created_display": "Created: Nov 13, 2026 / 14:06 PT",
+      "image_url": "https://thinkingmachines.ai/blog/end-to-end-4-bit-training/images/cover-social.png",
+      "summary_en": "The work examines training large language models with 4-bit numerical representations. Lower precision reduces memory use and can speed up GPU calculations, but it also increases rounding errors that accumulate during training and can hurt accuracy. The proposed focus is end-to-end 4-bit training rather than applying low precision only after training.",
+      "summary_zh": "这项工作研究使用 4 位数值表示训练大型语言模型。较低精度可以减少内存占用并加快 GPU 计算，但也会增加舍入误差；这些误差在训练中累积后可能损害准确率。其重点是端到端采用 4 位训练，而不是只在训练结束后应用低精度。",
+      "hn": {
+        "id": 50490618,
+        "type": "story",
+        "by": "stokedmartin",
+        "score": 5,
+        "descendants": 0,
+        "time": 1794607595,
+        "comments_url": "https://news.ycombinator.com/item?id=50490618"
+      },
+      "hot_score": 0.16,
+      "tags": [
+        "AI",
+        "Hardware"
+      ]
+    },
+    {
+      "title_en": "Unsloth Qwen3.8-27B Quantizations – Dynamic v3.1 Update",
+      "url": "https://unsloth.ai/docs/models/qwen3.8",
+      "title_zh": "Unsloth Qwen3.8-27B 量化模型——Dynamic v3.1 更新",
+      "is_new": true,
+      "created_display": "Created: Nov 13, 2026 / 16:06 PT",
+      "image_url": "https://unsloth.ai/docs/~gitbook/image?url=https%3A%2F%2F2815821428-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Forganizations%252FHpyELzcNe0topgVLGCZY%252Fsites%252Fsite_mXXTe%252Fsocialpreview%252FOeFDVbzp4cgwaId7PbvL%252Funsloth%2520docs%2520pic.png%3Falt%3Dmedia%26token%3Df34a6bcc-db15-449a-bc2d-e0e8f52fe953&width=1200&height=630&sign=9a9d6aae5e35625d4a32adaf8cf74290&sv=3",
+      "summary_en": "Unsloth’s Qwen3.8-27B is a 27-billion-parameter dense model with vision and reasoning capabilities, a 256K context window, and local operation on systems with 17 GB of RAM or VRAM. It is available through Unsloth GGUFs, NVFP4, and Unsloth Desktop. The Dynamic V3.1 quantizations reportedly improve average accuracy by 5–10% at comparable sizes on benchmarks including Terminal Bench and DeepSWE.",
+      "summary_zh": "Unsloth 的 Qwen3.8-27B 是一款拥有 270 亿参数的稠密模型，支持视觉和推理能力，具备 256K 上下文窗口，可在 17 GB 内存或显存的设备上本地运行。它可通过 Unsloth GGUF、NVFP4 和 Unsloth Desktop 使用。Dynamic V3.1 量化版本据称在相近模型大小下，将 Terminal Bench、DeepSWE 等基准的平均准确率提高了 5% 至 10%。",
+      "hn": {
+        "id": 50491980,
+        "type": "story",
+        "by": "Retro_Dev",
+        "score": 3,
+        "descendants": 0,
+        "time": 1794614764,
+        "comments_url": "https://news.ycombinator.com/item?id=50491980"
+      },
+      "hot_score": 0.16,
+      "tags": [
+        "AI"
+      ]
     },
     {
       "title_en": "Relax: JIT compiler for Rust to reduce build times",
       "url": "https://makepad.github.io/relax/",
       "title_zh": "Relax：通过减少构建时间实现 Rust 的 JIT 编译器",
-      "is_new": true,
+      "is_new": false,
       "created_display": "Created: Nov 11, 2026 / 13:20 PT",
       "image_url": null,
       "summary_en": "Relax is a live compiler and JIT runtime for Rust, itself written in Rust. It runs a Cargo package directly from source without rustc, LLVM, or a linker in the execution loop. Instead of building first and running afterward, Relax runs the program while it is being built.",
@@ -1146,8 +2317,8 @@
         "id": 50458849,
         "type": "story",
         "by": "adamnemecek",
-        "score": 172,
-        "descendants": 98,
+        "score": 176,
+        "descendants": 104,
         "time": 1794432001,
         "comments_url": "https://news.ycombinator.com/item?id=50458849"
       },
@@ -1155,13 +2326,13 @@
         "Programming",
         "Open Source"
       ],
-      "hot_score": 0.18
+      "hot_score": 0.13
     },
     {
       "title_en": "Show HN: Kapso – Iterative learning from enterprise data",
       "url": "https://news.ycombinator.com/item?id=50471281",
       "title_zh": "Show HN：Kapso——从企业数据中迭代学习",
-      "is_new": true,
+      "is_new": false,
       "created_display": "Created: Nov 12, 2026 / 09:51 PT",
       "image_url": null,
       "summary_en": "Leeroo has open-sourced Kapso, an engine that runs experiments, deploys the best solution, and learns from each run. The project is designed for iterative work on large, messy enterprise data, where investigation and experimentation continually refine the result. One example involved migrating a company from a legacy data estate with more than 30 source-system families, thousands of tables and transformations, and hundreds of BI reports.",
@@ -1170,8 +2341,8 @@
         "id": 50471281,
         "type": "story",
         "by": "alirezamshi",
-        "score": 54,
-        "descendants": 11,
+        "score": 58,
+        "descendants": 13,
         "time": 1794505883,
         "comments_url": "https://news.ycombinator.com/item?id=50471281"
       },
@@ -1179,13 +2350,13 @@
         "Show HN",
         "Open Source"
       ],
-      "hot_score": 0.17
+      "hot_score": 0.1
     },
     {
       "title_en": "Sift: LSP, Lint, Format Lisp, Scheme and Emacs Lisp",
       "url": "https://github.com/jjba23/sift",
       "title_zh": "Sift：用于 Lisp、Scheme 和 Emacs Lisp 的 LSP、Lint 与格式化工具",
-      "is_new": true,
+      "is_new": false,
       "created_display": "Created: Nov 11, 2026 / 15:09 PT",
       "image_url": "https://opengraph.githubassets.com/11f2d7d18395091b0495ed30e755763755349caaa8b2ec9fa371ed3ada3a700f/jjba23/sift",
       "summary_en": "Sift is an idempotent formatter, rule-based linter, and language server for Scheme, Emacs Lisp, and Common Lisp. It reports malformed Lisp source and rewrites whitespace while preserving comments and read-time forms in their original positions. Formatting an already formatted file produces no further changes, a property asserted across the test suite.",
@@ -1194,15 +2365,15 @@
         "id": 50460263,
         "type": "story",
         "by": "jjba23",
-        "score": 78,
-        "descendants": 10,
+        "score": 82,
+        "descendants": 14,
         "time": 1794438567,
         "comments_url": "https://news.ycombinator.com/item?id=50460263"
       },
       "tags": [
         "Programming"
       ],
-      "hot_score": 0.09
+      "hot_score": 0.06
     }
   ]
 }
