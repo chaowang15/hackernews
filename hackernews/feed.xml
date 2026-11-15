@@ -5,7 +5,7 @@
     <link>https://chaowang15.github.io/hackernews/</link>
     <description>Curated daily digest of top Hacker News stories with AI-generated summaries, tags, and bilingual translations.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 14 Nov 2026 16:05:50 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 02:06:49 +0000</lastBuildDate>
     <generator>Hacker News Daily RSS Builder</generator>
     <atom:link href="https://chaowang15.github.io/hackernews/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
@@ -17,8 +17,8 @@
       <category>Business</category>
       <description>&lt;p&gt;Jensen Huang has resigned. The available material does not provide reliable details about the timing, reasons, or succession. The departure marks a leadership change at Nvidia.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;黄仁勋已辞职。现有材料没有提供有关时间、原因或继任安排的可靠细节。这意味着英伟达将发生领导层变动。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 4010 · 💬 3416 · Business&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50467087&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/13/top_stories_11132026#story-50467087&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+&lt;p&gt;&lt;small&gt;▲ 4043 · 💬 3443 · Business&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50467087&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/14/top_stories_11142026#story-50467087&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>sshole</title>
@@ -41,7 +41,7 @@
       <category>Politics</category>
       <description>&lt;p&gt;The FAA issued a national ground stop affecting departing flights. The available records identify the action but do not provide reliable details about its duration, cause, or operational impact.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;美国联邦航空管理局发布了影响出发航班的全国地面停飞令。现有记录确认了这一措施，但未提供其持续时间、原因或运行影响的可靠细节。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 1605 · 💬 1230 · Politics&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 1638 · 💬 1270 · Politics&lt;/small&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50489641&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/14/top_stories_11142026#story-50489641&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
@@ -135,6 +135,20 @@
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50399933&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/08/top_stories_11082026#story-50399933&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs</title>
+      <link>https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50493251</guid>
+      <dc:creator>speckx</dc:creator>
+      <pubDate>Sat, 14 Nov 2026 02:52:59 +0000</pubDate>
+      <category>AI</category>
+      <category>Business</category>
+      <category>Hardware</category>
+      <description>&lt;p&gt;A new report, citing The Wall Street Journal, alleges that NVIDIA increased the GPU and memory shortage by investing in AI startups that then bought NVIDIA GPUs and built data centers. The allegation emerged after Jensen Huang’s departure as NVIDIA’s CEO, according to the supplied report. The claim concerns whether the company’s financing activity helped inflate demand for its own hardware.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;一份援引《华尔街日报》的新报告称，英伟达通过投资 AI 初创公司，促使这些公司购买英伟达 GPU 并建设数据中心，从而加剧了 GPU 和内存短缺。报告称，这一指控是在 Jensen Huang 离任英伟达 CEO 后出现的。争议焦点在于，英伟达的融资活动是否帮助推高了对其自有硬件的需求。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 1036 · 💬 621 · AI · Business · Hardware&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50493251&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/14/top_stories_11142026#story-50493251&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>My AI agents found an unmapped Maya site?</title>
       <link>https://pietromiotti.com/latest/maya-site</link>
       <guid isPermaLink="true">https://news.ycombinator.com/item?id=50452455</guid>
@@ -191,6 +205,18 @@
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50442736&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/11/top_stories_11112026#story-50442736&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Rust 1.100</title>
+      <link>https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50472038</guid>
+      <dc:creator>mbStavola</dc:creator>
+      <pubDate>Thu, 12 Nov 2026 18:39:05 +0000</pubDate>
+      <category>Programming</category>
+      <description>&lt;p&gt;The Rust team has released Rust 1.100.0. Rust is described as a language for building reliable and efficient software. Users with an existing rustup installation can install the new version through rustup.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Rust 团队发布了 Rust 1.100.0。Rust 被定位为用于构建可靠、高效软件的编程语言。已经通过 rustup 安装 Rust 的用户可以使用 rustup 获取新版本。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 893 · 💬 320 · Programming&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50472038&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/14/top_stories_11142026#story-50472038&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Claude Fable 5.2 and Mythos 5.2</title>
       <link>https://www.anthropic.com/claude-fable-and-mythos-5-2</link>
       <guid isPermaLink="true">https://news.ycombinator.com/item?id=50429068</guid>
@@ -202,32 +228,6 @@
 &lt;p&gt;&lt;em&gt;Anthropic 推出了面向高难度技术任务的 Claude Fable 5.2 和 Claude Mythos 5.2。该公司称，这些模型在编程、推理和视觉方面有所提升，并在预发布测试中帮助工程师完成软件迁移、从零设计三种可工作的电子设备、推进机器人评测，以及形式化费马大定理的证明。Fable 5.2 被定位为编程、金融和科学领域的新标杆。&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;▲ 882 · 💬 1008 · AI · Finance&lt;/small&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50429068&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/10/top_stories_11102026#story-50429068&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs</title>
-      <link>https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50493251</guid>
-      <dc:creator>speckx</dc:creator>
-      <pubDate>Sat, 14 Nov 2026 02:52:59 +0000</pubDate>
-      <category>AI</category>
-      <category>Business</category>
-      <category>Hardware</category>
-      <description>&lt;p&gt;A new report, citing The Wall Street Journal, alleges that NVIDIA increased the GPU and memory shortage by investing in AI startups that then bought NVIDIA GPUs and built data centers. The allegation emerged after Jensen Huang’s departure as NVIDIA’s CEO, according to the supplied report. The claim concerns whether the company’s financing activity helped inflate demand for its own hardware.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;一份援引《华尔街日报》的新报告称，英伟达通过投资 AI 初创公司，促使这些公司购买英伟达 GPU 并建设数据中心，从而加剧了 GPU 和内存短缺。报告称，这一指控是在 Jensen Huang 离任英伟达 CEO 后出现的。争议焦点在于，英伟达的融资活动是否帮助推高了对其自有硬件的需求。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 878 · 💬 526 · AI · Business · Hardware&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50493251&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/14/top_stories_11142026#story-50493251&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Rust 1.100</title>
-      <link>https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50472038</guid>
-      <dc:creator>mbStavola</dc:creator>
-      <pubDate>Thu, 12 Nov 2026 18:39:05 +0000</pubDate>
-      <category>Programming</category>
-      <description>&lt;p&gt;The Rust team has released Rust 1.100.0. Rust is described as a language for building reliable and efficient software. Users with an existing rustup installation can install the new version through rustup.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Rust 团队发布了 Rust 1.100.0。Rust 被定位为用于构建可靠、高效软件的编程语言。已经通过 rustup 安装 Rust 的用户可以使用 rustup 获取新版本。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 876 · 💬 312 · Programming&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50472038&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/13/top_stories_11132026#story-50472038&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Every Mac comes with an (undocumented) family member classifier</title>
@@ -279,6 +279,19 @@
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50477231&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/13/top_stories_11132026#story-50477231&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Reverse engineering my Coway air purifier to ditch the cloud</title>
+      <link>https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50474959</guid>
+      <dc:creator>scottjg</dc:creator>
+      <pubDate>Thu, 12 Nov 2026 22:03:09 +0000</pubDate>
+      <category>Hardware</category>
+      <category>Privacy</category>
+      <description>&lt;p&gt;During the 2017 wave of annual wildfires on the West Coast, many Bay Area residents bought air purifiers because their homes were poorly insulated and sealed. The author describes buying a Coway Airmega to avoid breathing wildfire soot and reverse-engineering it to remove its dependence on cloud services. The project reflects a broader effort to keep household devices locally controlled.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;2017 年西海岸接连发生野火时，许多湾区居民因为房屋隔热和密封性能较差而购买空气净化器，以避免吸入野火烟尘。作者介绍了自己购买 Coway Airmega，并对其进行逆向工程，以摆脱对云端服务的依赖。这一项目体现了将家用设备控制权保留在本地的尝试。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 785 · 💬 222 · Hardware · Privacy&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50474959&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/14/top_stories_11142026#story-50474959&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>What I run on my $10 USD OpenStick homelab</title>
       <link>https://blog.bosscher.ch/posts/openstick/</link>
       <guid isPermaLink="true">https://news.ycombinator.com/item?id=50406670</guid>
@@ -291,17 +304,17 @@
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50406670&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/08/top_stories_11082026#story-50406670&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Reverse engineering my Coway air purifier to ditch the cloud</title>
-      <link>https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50474959</guid>
-      <dc:creator>scottjg</dc:creator>
-      <pubDate>Thu, 12 Nov 2026 22:03:09 +0000</pubDate>
-      <category>Hardware</category>
-      <category>Privacy</category>
-      <description>&lt;p&gt;During the 2017 wave of annual wildfires on the West Coast, many Bay Area residents bought air purifiers because their homes were poorly insulated and sealed. The author describes buying a Coway Airmega to avoid breathing wildfire soot and reverse-engineering it to remove its dependence on cloud services. The project reflects a broader effort to keep household devices locally controlled.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;2017 年西海岸接连发生野火时，许多湾区居民因为房屋隔热和密封性能较差而购买空气净化器，以避免吸入野火烟尘。作者介绍了自己购买 Coway Airmega，并对其进行逆向工程，以摆脱对云端服务的依赖。这一项目体现了将家用设备控制权保留在本地的尝试。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 773 · 💬 215 · Hardware · Privacy&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50474959&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/14/top_stories_11142026#story-50474959&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+      <title>Show HN: My $300 embroidery machine needed a subscription, so I built my own app</title>
+      <link>https://github.com/simpsoka/zigzag</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50470488</guid>
+      <dc:creator>simpsoka</dc:creator>
+      <pubDate>Thu, 12 Nov 2026 17:02:42 +0000</pubDate>
+      <category>Show HN</category>
+      <category>Programming</category>
+      <description>&lt;p&gt;A developer built a replacement app for a $300 embroidery machine that required a subscription. The project is published as Zigzag. The available description does not provide further technical details about the machine or the application.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;一名开发者为一台需要订阅的 300 美元刺绣机编写了替代应用。该项目以 Zigzag 的形式发布。现有描述没有提供有关机器或应用的更多技术细节。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 739 · 💬 253 · Show HN · Programming&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50470488&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/14/top_stories_11142026#story-50470488&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Goodbye Claude, hello Pi</title>
@@ -316,6 +329,18 @@
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50410107&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/08/top_stories_11082026#story-50410107&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>SpaceX catches the Starship to end Flight 15</title>
+      <link>https://www.spacex.com/launches/starship-flight-15</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50500963</guid>
+      <dc:creator>ls612</dc:creator>
+      <pubDate>Sat, 14 Nov 2026 21:22:24 +0000</pubDate>
+      <category>Space</category>
+      <description>&lt;p&gt;SpaceX's Starship Flight 15 ended with the vehicle being caught by the launch system. The available material provides no further details about the flight or the catch.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;SpaceX 的星舰第 15 次飞行以发射系统接住飞行器告终。现有信息未提供这次飞行或捕获过程的更多细节。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 723 · 💬 481 · Space&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50500963&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/14/top_stories_11142026#story-50500963&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>USPS now offers official ZIP Code boundary polygons</title>
       <link>https://postalpro.usps.com/zcb</link>
       <guid isPermaLink="true">https://news.ycombinator.com/item?id=50431058</guid>
@@ -326,19 +351,6 @@
 &lt;p&gt;&lt;em&gt;美国邮政服务（USPS）发布了基于投递地址和位置数据制作的全国 ZIP Code 边界地图。随着投递地点新增或变更，边界可能发生变化；数据每季度更新一次，并仅向子公司和合作伙伴有限提供。该数据可用于地图、邮寄、营销、保险、房地产、物流、导航和交通等行业。&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;▲ 720 · 💬 388 · Data&lt;/small&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50431058&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/10/top_stories_11102026#story-50431058&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Show HN: My $300 embroidery machine needed a subscription, so I built my own app</title>
-      <link>https://github.com/simpsoka/zigzag</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50470488</guid>
-      <dc:creator>simpsoka</dc:creator>
-      <pubDate>Thu, 12 Nov 2026 17:02:42 +0000</pubDate>
-      <category>Show HN</category>
-      <category>Programming</category>
-      <description>&lt;p&gt;A developer built a replacement app for a $300 embroidery machine that required a subscription. The project is published as Zigzag. The available description does not provide further technical details about the machine or the application.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;一名开发者为一台需要订阅的 300 美元刺绣机编写了替代应用。该项目以 Zigzag 的形式发布。现有描述没有提供有关机器或应用的更多技术细节。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 719 · 💬 245 · Show HN · Programming&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50470488&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/13/top_stories_11132026#story-50470488&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Google Gemini routes personal Drive files and emails to human annotators</title>
@@ -419,6 +431,20 @@
 &lt;p&gt;&lt;em&gt;“苏格拉底式导师”是一项代理技能，通过要求用户推理、预测和解释来帮助其真正掌握知识，而不是单纯进行讲授。它适用于持续的教学过程，不适用于一次性的事实问答。当用户意图不明确时，它会先询问用户想要快速答案还是完整的辅导过程。&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;▲ 655 · 💬 155 · Education · AI&lt;/small&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50438261&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/12/top_stories_11122026#story-50438261&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Lovable apps expose passport details and more than 200K private messages</title>
+      <link>https://www.crissyfield.de/research/lovable-en/</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50499017</guid>
+      <dc:creator>armcat</dc:creator>
+      <pubDate>Sat, 14 Nov 2026 17:43:10 +0000</pubDate>
+      <category>Privacy</category>
+      <category>Startups</category>
+      <category>AI</category>
+      <description>&lt;p&gt;An analysis of 159,041 Lovable projects found many cases in which personal and confidential information was accessible without logging in, including passport details and more than 200,000 private messages. Lovable is a Stockholm-based Swedish AI startup founded in 2023 by Anton Osika and Fabian Hedin, whose platform generates web applications from plain-language descriptions. The findings show that building applications with AI does not remove the need for careful handling of sensitive data.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;对 159,041 个 Lovable 项目的分析发现，许多项目无需登录即可访问个人和机密信息，其中包括护照详情以及超过 20 万条私人消息。Lovable 是一家总部位于斯德哥尔摩、由 Anton Osika 和 Fabian Hedin 于 2023 年创立的瑞典 AI 初创公司，其平台可根据自然语言描述生成 Web 应用。这些发现表明，使用 AI 构建应用并不能免除对敏感数据进行谨慎处理的要求。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 652 · 💬 279 · Privacy · Startups · AI&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50499017&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/14/top_stories_11142026#story-50499017&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Claude Code's &quot;Don't Ask Again&quot; exposes passwords in 1,122 public GitHub files</title>
@@ -568,6 +594,19 @@
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50459703&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/11/top_stories_11112026#story-50459703&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Why get an expensive Pi when I have an old phone?</title>
+      <link>https://so.long.thanks.fish/why-pi-when-i-have-an-old-phone/</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50440709</guid>
+      <dc:creator>casi</dc:creator>
+      <pubDate>Tue, 10 Nov 2026 14:16:05 +0000</pubDate>
+      <category>Hardware</category>
+      <category>Energy</category>
+      <description>&lt;p&gt;The project uses a rooted second-hand Redmi smartphone as a camera and light controller instead of building the system around a Raspberry Pi. The phone already provides a high-resolution camera, GPS, storage, battery, and mobile data, while the original Raspberry Pi design required adding an Arducam 64MP camera and a GPS module. The approach could reduce the number of components and the project’s growing bill.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;这个项目改用一部已取得 root 权限的二手 Redmi 手机来充当摄像头和灯光控制器，而不是围绕树莓派搭建系统。手机已经具备高分辨率摄像头、GPS、存储、电池和移动数据功能；原先的树莓派方案则需要额外加入 Arducam 6400 万像素摄像头和 GPS 模块。这种做法有望减少组件数量，并控制不断上涨的项目成本。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 514 · 💬 284 · Hardware · Energy&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50440709&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/14/top_stories_11142026#story-50440709&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Starlink Mini 2</title>
       <link>https://starlink.com/mini-2</link>
       <guid isPermaLink="true">https://news.ycombinator.com/item?id=50444129</guid>
@@ -605,42 +644,6 @@
 &lt;p&gt;&lt;em&gt;Google Antigravity 正在推出 Gemini 4 Hydrogen，以及模型选择器中的新选项 Orchestrator。Orchestrator 会将 Hydrogen 与包括 Gemini 4 Carbon 在内的 Google 最强模型搭配，用于长时程任务。该组合旨在平衡质量、效率和延迟。&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;▲ 495 · 💬 161 · AI&lt;/small&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50472260&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/13/top_stories_11132026#story-50472260&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>E-means: Outperforming k-means in one-tenth the epochs</title>
-      <link>https://e-means.github.io/</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50429734</guid>
-      <dc:creator>porridgeraisin</dc:creator>
-      <pubDate>Mon, 09 Nov 2026 18:45:43 +0000</pubDate>
-      <category>Data</category>
-      <description>&lt;p&gt;E-means is presented as an alternative to Lloyd's k-means algorithm. Across a broad range of scales and datasets, it reached lower test loss than Lloyd's method in 1.2 to 3 epochs, compared with 25 epochs. The reported end-to-end speedup is 10–45× over Flash-KMeans on GPUs and 8–15× over Faiss on CPUs.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;E-means 被介绍为 Lloyd k-means 算法的一种替代方案。在多种规模和数据集上，E-means 用 1.2 至 3 个训练轮次就达到了低于 Lloyd 方法的测试损失，而后者需要 25 个轮次。报告称，端到端速度相比 GPU 上的 Flash-KMeans 提升 10–45 倍，相比 CPU 上的 Faiss 提升 8–15 倍。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 494 · 💬 78 · Data&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50429734&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/10/top_stories_11102026#story-50429734&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Doomsday: Friday, 13 November, A.D. 2026 (1960)</title>
-      <link>https://www.science.org/doi/10.1126/science.132.3436.1291</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50482379</guid>
-      <dc:creator>voxleone</dc:creator>
-      <pubDate>Fri, 13 Nov 2026 12:10:24 +0000</pubDate>
-      <category>Science</category>
-      <description>&lt;p&gt;The item is titled “Doomsday: Friday, 13 November, A.D. 2026” and is dated 1960. No further details about its subject or contents are available.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;该条目标题为《末日：2026 年 11 月 13 日，星期五》，并标注为公元 1960 年。没有更多关于其主题或内容的可靠信息。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 485 · 💬 334 · Science&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50482379&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/14/top_stories_11142026#story-50482379&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Elevated errors on claude.ai, Claude Code, and platform.claude.com</title>
-      <link>https://status.claude.com/incidents/nn11wk485zfn</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50481187</guid>
-      <dc:creator>__vivek</dc:creator>
-      <pubDate>Fri, 13 Nov 2026 10:18:13 +0000</pubDate>
-      <category>AI</category>
-      <description>&lt;p&gt;Claude’s status page reported elevated errors affecting claude.ai, Claude Code, and platform.claude.com. The notice identifies the affected services but provides no further incident details in the available information.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Claude 状态页报告称，claude.ai、Claude Code 和 platform.claude.com 的错误率升高。现有信息仅列出了受影响的服务，未提供更多事故细节。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 484 · 💬 383 · AI&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50481187&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/13/top_stories_11132026#story-50481187&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
