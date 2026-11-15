@@ -5,7 +5,7 @@
     <link>https://chaowang15.github.io/hackernews/</link>
     <description>Curated daily digest of top Hacker News stories with AI-generated summaries, tags, and bilingual translations.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 15 Nov 2026 02:06:49 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 16:05:58 +0000</lastBuildDate>
     <generator>Hacker News Daily RSS Builder</generator>
     <atom:link href="https://chaowang15.github.io/hackernews/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
@@ -21,18 +21,6 @@
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50467087&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/14/top_stories_11142026#story-50467087&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>sshole</title>
-      <link>https://sshhole.com</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50378228</guid>
-      <dc:creator>josemrb</dc:creator>
-      <pubDate>Thu, 05 Nov 2026 12:19:02 +0000</pubDate>
-      <category>Security</category>
-      <description>&lt;p&gt;OpenSSH on musl Linux has reportedly allowed access to passwordless accounts since 2016. The issue relates to how Unix historically represented accounts that should never permit login, including accounts marked with an asterisk in the password file. The behavior can therefore expose accounts that were intended to be inaccessible.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;据报道，musl Linux 上的 OpenSSH 自 2016 年起可能允许进入无密码账户。问题与 Unix 处理本应禁止登录的账户的历史方式有关，包括在密码文件中用星号标记的账户。因此，原本应不可访问的账户可能被暴露。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 2978 · 💬 747 · Security&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50378228&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/08/top_stories_11082026#story-50378228&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>FAA issues national ground stop – lifted 4.5 hours later</title>
       <link>https://www.nbcnews.com/news/us-news/faa-orders-nationwide-ground-stop-departing-flights-reasons-safety-rcna609247</link>
       <guid isPermaLink="true">https://news.ycombinator.com/item?id=50489641</guid>
@@ -45,18 +33,16 @@
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50489641&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/14/top_stories_11142026#story-50489641&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Claude Code sends your email address to websites</title>
-      <link>https://github.com/anthropics/claude-code/issues/107757</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50385272</guid>
-      <dc:creator>motoroco</dc:creator>
-      <pubDate>Thu, 05 Nov 2026 22:17:15 +0000</pubDate>
-      <category>AI</category>
-      <category>Privacy</category>
-      <category>Security</category>
-      <description>&lt;p&gt;A reported Claude Code bug exposed a user's email address to arbitrary third parties in the User-Agent header during web searches. The user says this happened without permission and was followed by a large increase in scam emails. They argue that the behavior should be removed rather than controlled by an opt-in or opt-out setting.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;有用户报告称，Claude Code 在进行网页搜索时，会通过 User-Agent 请求头将其邮箱地址暴露给任意第三方。该用户表示，未经允许发生这一行为后，自己收到的诈骗邮件大幅增加。用户认为，这种行为不应通过加入或退出选项控制，而应从系统中彻底移除。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 1605 · 💬 533 · AI · Privacy · Security&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50385272&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/08/top_stories_11082026#story-50385272&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+      <title>SpaceX catches the Starship to end Flight 15</title>
+      <link>https://www.spacex.com/launches/starship-flight-15</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50500963</guid>
+      <dc:creator>ls612</dc:creator>
+      <pubDate>Sat, 14 Nov 2026 21:22:24 +0000</pubDate>
+      <category>Space</category>
+      <description>&lt;p&gt;SpaceX's Starship Flight 15 ended with the vehicle being caught by the launch system. The available material provides no further details about the flight or the catch.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;SpaceX 的星舰第 15 次飞行以发射系统接住飞行器告终。现有信息未提供这次飞行或捕获过程的更多细节。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 1449 · 💬 978 · Space&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50500963&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/15/top_stories_11152026#story-50500963&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Tim Peters has died</title>
@@ -108,31 +94,6 @@
 &lt;p&gt;&lt;em&gt;作者介绍了坚持十年的家庭自动化原则：家中的核心功能不应依赖厂商服务器。因此，即使互联网中断，房屋仍能继续运行。文章还整理了由这一原则延伸出的其他自动化规则和两场相关演讲。&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;▲ 1142 · 💬 432 · Privacy · Hardware&lt;/small&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50441707&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/11/top_stories_11112026#story-50441707&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Need for Speed Underground 2 online in the browser</title>
-      <link>https://nfsu2.xyz/</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50403052</guid>
-      <dc:creator>fluxusars</dc:creator>
-      <pubDate>Sat, 07 Nov 2026 09:36:36 +0000</pubDate>
-      <category>Gaming</category>
-      <category>Web</category>
-      <description>&lt;p&gt;The project brings Need for Speed Underground 2 online in a web browser. No further implementation details or features are established here.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;该项目让《极品飞车：地下狂飙 2》能够在浏览器中在线运行。现有信息未说明其具体实现方式或功能细节。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 1132 · 💬 280 · Gaming · Web&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50403052&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/08/top_stories_11082026#story-50403052&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Libghostty 1.0</title>
-      <link>https://mitchellh.com/writing/libghostty-1-0</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50399933</guid>
-      <dc:creator>mfiguiere</dc:creator>
-      <pubDate>Fri, 06 Nov 2026 23:30:52 +0000</pubDate>
-      <category>Programming</category>
-      <description>&lt;p&gt;libghostty-vt 1.0 has been released as a portable, high-performance C library for terminal emulation, extracted from Ghostty’s core. Both the library and its C ABI are now stable. The C API has grown from nonexistent to a complete terminal emulator used in production by millions of people across hundreds of free and commercial products.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;libghostty-vt 1.0 已发布，这是一个从 Ghostty 核心提取出的便携、高性能终端模拟 C 库。该库本身及其 C ABI 现已稳定。其 C API 已从无到有发展为完整的终端模拟器，目前已在数百款免费和商业产品中投入生产，服务数百万人。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 1077 · 💬 194 · Programming&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50399933&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/08/top_stories_11082026#story-50399933&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs</title>
@@ -192,6 +153,20 @@
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50456631&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/12/top_stories_11122026#story-50456631&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Lovable apps expose passport details and more than 200K private messages</title>
+      <link>https://www.crissyfield.de/research/lovable-en/</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50499017</guid>
+      <dc:creator>armcat</dc:creator>
+      <pubDate>Sat, 14 Nov 2026 17:43:10 +0000</pubDate>
+      <category>Privacy</category>
+      <category>Startups</category>
+      <category>AI</category>
+      <description>&lt;p&gt;An analysis of 159,041 Lovable projects found many cases in which personal and confidential information was accessible without logging in, including passport details and more than 200,000 private messages. Lovable is a Stockholm-based Swedish AI startup founded in 2023 by Anton Osika and Fabian Hedin, whose platform generates web applications from plain-language descriptions. The findings show that building applications with AI does not remove the need for careful handling of sensitive data.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;对 159,041 个 Lovable 项目的分析发现，许多项目无需登录即可访问个人和机密信息，其中包括护照详情以及超过 20 万条私人消息。Lovable 是一家总部位于斯德哥尔摩、由 Anton Osika 和 Fabian Hedin 于 2023 年创立的瑞典 AI 初创公司，其平台可根据自然语言描述生成 Web 应用。这些发现表明，使用 AI 构建应用并不能免除对敏感数据进行谨慎处理的要求。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 933 · 💬 355 · Privacy · Startups · AI&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50499017&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/15/top_stories_11152026#story-50499017&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>.name Grandfathered</title>
       <link>https://neil.fraser.name/news/2026/11/10/</link>
       <guid isPermaLink="true">https://news.ycombinator.com/item?id=50442736</guid>
@@ -228,18 +203,6 @@
 &lt;p&gt;&lt;em&gt;Anthropic 推出了面向高难度技术任务的 Claude Fable 5.2 和 Claude Mythos 5.2。该公司称，这些模型在编程、推理和视觉方面有所提升，并在预发布测试中帮助工程师完成软件迁移、从零设计三种可工作的电子设备、推进机器人评测，以及形式化费马大定理的证明。Fable 5.2 被定位为编程、金融和科学领域的新标杆。&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;▲ 882 · 💬 1008 · AI · Finance&lt;/small&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50429068&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/10/top_stories_11102026#story-50429068&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Every Mac comes with an (undocumented) family member classifier</title>
-      <link>https://8rank.ai/game/apple-intelligence-personal-knowledge-graph</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50403097</guid>
-      <dc:creator>infwhispers</dc:creator>
-      <pubDate>Sat, 07 Nov 2026 09:46:03 +0000</pubDate>
-      <category>Privacy</category>
-      <description>&lt;p&gt;The post claims that every Mac since macOS 13, released in 2022, includes two daemons that build a graph of the user’s relationships and activities. The graph is described as covering contacts, relationships, communications, locations, activities, and timing.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;文章称，自 2022 年发布的 macOS 13 起，每台 Mac 都包含两个用于构建用户关系和活动图谱的后台进程。该图谱据称涵盖联系人、彼此关系、通信、位置、活动及时间信息。文章还分析了这一系统的工作方式，并提供了查看个人设备上该图谱的工具。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 850 · 💬 450 · Privacy&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50403097&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/08/top_stories_11082026#story-50403097&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Claude Fable 5.2 and Mythos 5.2</title>
@@ -292,18 +255,6 @@
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50474959&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/14/top_stories_11142026#story-50474959&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>What I run on my $10 USD OpenStick homelab</title>
-      <link>https://blog.bosscher.ch/posts/openstick/</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50406670</guid>
-      <dc:creator>LaurensBER</dc:creator>
-      <pubDate>Sat, 07 Nov 2026 18:12:12 +0000</pubDate>
-      <category>Hardware</category>
-      <description>&lt;p&gt;The author bought an OpenStick for $10 including shipping, mainly because it was an unusual and appealing piece of hardware. Although the device is less powerful than many modern watches, it can still support enjoyable self-hosting experiments. The project demonstrates how a very inexpensive, tiny computer can serve as an entry point to homelabbing.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;作者花 10 美元（含运费）买了一台 OpenStick，主要是因为这款硬件新奇而有趣。它的性能可能还不如许多现代智能手表，但仍然适合进行有趣的自托管实验。这个项目展示了廉价小设备如何成为入门家庭实验室的起点。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 781 · 💬 134 · Hardware&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50406670&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/08/top_stories_11082026#story-50406670&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>Show HN: My $300 embroidery machine needed a subscription, so I built my own app</title>
       <link>https://github.com/simpsoka/zigzag</link>
       <guid isPermaLink="true">https://news.ycombinator.com/item?id=50470488</guid>
@@ -315,30 +266,6 @@
 &lt;p&gt;&lt;em&gt;一名开发者为一台需要订阅的 300 美元刺绣机编写了替代应用。该项目以 Zigzag 的形式发布。现有描述没有提供有关机器或应用的更多技术细节。&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;▲ 739 · 💬 253 · Show HN · Programming&lt;/small&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50470488&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/14/top_stories_11142026#story-50470488&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Goodbye Claude, hello Pi</title>
-      <link>https://caleb.software/posts/claude-to-pi.html</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50410107</guid>
-      <dc:creator>karagenit</dc:creator>
-      <pubDate>Sun, 08 Nov 2026 03:11:48 +0000</pubDate>
-      <category>AI</category>
-      <description>&lt;p&gt;The author had used Claude Code for more than a year, beginning when it became available through the Claude Pro subscription. Despite considering its release an important moment for software development, the author accumulated enough small frustrations to stop using it as the main coding harness. Their development setup is now being migrated to Pi.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;作者从 Claude Code 随 Claude Pro 订阅推出后就开始使用，至今已有一年多。尽管作者认为它的发布可能会成为软件开发史上的重要节点，但长期积累的许多小问题最终让作者不再把它作为主要编程工具。作者目前正将开发环境迁移到 Pi。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 732 · 💬 451 · AI&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50410107&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/08/top_stories_11082026#story-50410107&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>SpaceX catches the Starship to end Flight 15</title>
-      <link>https://www.spacex.com/launches/starship-flight-15</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50500963</guid>
-      <dc:creator>ls612</dc:creator>
-      <pubDate>Sat, 14 Nov 2026 21:22:24 +0000</pubDate>
-      <category>Space</category>
-      <description>&lt;p&gt;SpaceX's Starship Flight 15 ended with the vehicle being caught by the launch system. The available material provides no further details about the flight or the catch.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;SpaceX 的星舰第 15 次飞行以发射系统接住飞行器告终。现有信息未提供这次飞行或捕获过程的更多细节。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 723 · 💬 481 · Space&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50500963&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/14/top_stories_11142026#story-50500963&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>USPS now offers official ZIP Code boundary polygons</title>
@@ -377,20 +304,6 @@
 &lt;p&gt;&lt;em&gt;对 1400 次 Claude Code 会话的分析据称发现，Opus 5.5 在 11 月 3 日的推理行为发生了明显变化。模型名称并未改变，但分析认为其思考模式出现了显著转折。该报告没有说明变化原因。&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;▲ 708 · 💬 459 · AI&lt;/small&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50422069&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/09/top_stories_11092026#story-50422069&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Goldman Sachs is pulling Claude Code from its bankers and traders</title>
-      <link>https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50415628</guid>
-      <dc:creator>TheWiggles</dc:creator>
-      <pubDate>Sun, 08 Nov 2026 18:16:07 +0000</pubDate>
-      <category>AI</category>
-      <category>Programming</category>
-      <category>Finance</category>
-      <description>&lt;p&gt;Goldman Sachs has restricted Anthropic's Claude Code and Microsoft's GitHub to its engineers, removing access for most traders and bankers. Those employees had used the tools to track client flows and build market models, while the bank had already barred Hong Kong bankers from Claude in April. The guidance followed a review of productivity and risk concerns and came weeks before Goldman was due to act as a lead underwriter for Anthropic's IPO.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;高盛已将 Anthropic 的 Claude Code 和微软 GitHub 的使用权限限制在工程师范围内，大多数交易员和银行家因此失去访问权限。此前，这些员工曾用相关工具追踪客户资金流向并构建市场模型；高盛也已于 4 月禁止香港银行家使用 Claude。这项指导是在审查生产力和风险问题后出台的，时间上距离高盛担任 Anthropic IPO 主承销商仅数周。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 707 · 💬 391 · AI · Programming · Finance&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50415628&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/08/top_stories_11082026#story-50415628&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Amazon saves millions by replacing Sonnet 4.6 with Strands Decider</title>
@@ -433,32 +346,17 @@
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50438261&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/12/top_stories_11122026#story-50438261&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Lovable apps expose passport details and more than 200K private messages</title>
-      <link>https://www.crissyfield.de/research/lovable-en/</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50499017</guid>
-      <dc:creator>armcat</dc:creator>
-      <pubDate>Sat, 14 Nov 2026 17:43:10 +0000</pubDate>
-      <category>Privacy</category>
-      <category>Startups</category>
-      <category>AI</category>
-      <description>&lt;p&gt;An analysis of 159,041 Lovable projects found many cases in which personal and confidential information was accessible without logging in, including passport details and more than 200,000 private messages. Lovable is a Stockholm-based Swedish AI startup founded in 2023 by Anton Osika and Fabian Hedin, whose platform generates web applications from plain-language descriptions. The findings show that building applications with AI does not remove the need for careful handling of sensitive data.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;对 159,041 个 Lovable 项目的分析发现，许多项目无需登录即可访问个人和机密信息，其中包括护照详情以及超过 20 万条私人消息。Lovable 是一家总部位于斯德哥尔摩、由 Anton Osika 和 Fabian Hedin 于 2023 年创立的瑞典 AI 初创公司，其平台可根据自然语言描述生成 Web 应用。这些发现表明，使用 AI 构建应用并不能免除对敏感数据进行谨慎处理的要求。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 652 · 💬 279 · Privacy · Startups · AI&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50499017&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/14/top_stories_11142026#story-50499017&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Claude Code's &quot;Don't Ask Again&quot; exposes passwords in 1,122 public GitHub files</title>
-      <link>https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50407882</guid>
-      <dc:creator>shmulc</dc:creator>
-      <pubDate>Sat, 07 Nov 2026 20:45:32 +0000</pubDate>
-      <category>Security</category>
-      <category>AI</category>
-      <category>Programming</category>
-      <description>&lt;p&gt;Claude Code's &quot;Don't Ask Again&quot; feature exposed passwords in 1,122 public GitHub files.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Claude Code 的“不要再询问”功能导致密码出现在 1,122 个公开 GitHub 文件中。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 599 · 💬 408 · Security · AI · Programming&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50407882&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/08/top_stories_11082026#story-50407882&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+      <title>Why get an expensive Pi when I have an old phone?</title>
+      <link>https://so.long.thanks.fish/why-pi-when-i-have-an-old-phone/</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50440709</guid>
+      <dc:creator>casi</dc:creator>
+      <pubDate>Tue, 10 Nov 2026 14:16:05 +0000</pubDate>
+      <category>Hardware</category>
+      <category>Energy</category>
+      <description>&lt;p&gt;The project uses a rooted second-hand Redmi smartphone as a camera and light controller instead of building the system around a Raspberry Pi. The phone already provides a high-resolution camera, GPS, storage, battery, and mobile data, while the original Raspberry Pi design required adding an Arducam 64MP camera and a GPS module. The approach could reduce the number of components and the project’s growing bill.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;这个项目改用一部已取得 root 权限的二手 Redmi 手机来充当摄像头和灯光控制器，而不是围绕树莓派搭建系统。手机已经具备高分辨率摄像头、GPS、存储、电池和移动数据功能；原先的树莓派方案则需要额外加入 Arducam 6400 万像素摄像头和 GPS 模块。这种做法有望减少组件数量，并控制不断上涨的项目成本。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 597 · 💬 317 · Hardware · Energy&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50440709&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/15/top_stories_11152026#story-50440709&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>AlphaProof Code</title>
@@ -558,28 +456,17 @@
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50446520&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/12/top_stories_11122026#story-50446520&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Apple’s grey list: Words and phrases your iPhone won’t help you spell</title>
-      <link>https://www.theguardian.com/technology/2026/nov/06/struggling-to-spell-male-chauvinist-pig-apple-grey-list-means-your-iphone-wont-help-you</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50406111</guid>
-      <dc:creator>user_7832</dc:creator>
-      <pubDate>Sat, 07 Nov 2026 17:06:36 +0000</pubDate>
-      <category>Privacy</category>
-      <description>&lt;p&gt;Research found that Apple restricts predictive-text completion for more than 100,000 words and phrases. The restrictions affect swipe typing, in which users glide a finger across the keyboard instead of tapping each character. As a result, an iPhone may refuse to complete some unusual or sensitive phrases even when users try to enter them by gesture.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;研究发现，苹果限制了超过 10 万个词语和短语的预测文本补全功能。这些限制会影响滑行输入，即用户用手指划过键盘，而不是逐字点击。结果是，即使用户尝试通过滑行输入，iPhone 也可能不会补全某些不寻常或敏感的短语。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 534 · 💬 359 · Privacy&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50406111&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/08/top_stories_11082026#story-50406111&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Nvidia CEO Jensen Huang's letter to staff about affair</title>
-      <link>https://nvidianews.nvidia.com/news/a-message-to-our-company</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50418016</guid>
-      <dc:creator>karimf</dc:creator>
-      <pubDate>Sun, 08 Nov 2026 22:20:09 +0000</pubDate>
-      <category>Business</category>
-      <description>&lt;p&gt;The item is a message to Nvidia employees from CEO Jensen Huang concerning an affair. The available material provides links to related reporting but does not include the contents of Huang’s letter or describe any resulting action.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;这是一封英伟达 CEO 黄仁勋就婚外情相关事件写给员工的信。现有材料仅提供了相关报道的链接，没有包含信件内容，也没有说明后续采取了什么行动。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 529 · 💬 560 · Business&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50418016&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/08/top_stories_11082026#story-50418016&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+      <title>KDE: The documentary [video]</title>
+      <link>https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50496976</guid>
+      <dc:creator>mrkn1</dc:creator>
+      <pubDate>Sat, 14 Nov 2026 13:43:28 +0000</pubDate>
+      <category>Open Source</category>
+      <category>Culture</category>
+      <description>&lt;p&gt;KDE: The Documentary tells the story of the open-source community that emerged in 1996 to offer computer users a free alternative to proprietary desktops such as Windows. It traces the origins and development of KDE as a pioneering desktop project.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;《KDE：纪录片》讲述了这一开源社区的故事：它于 1996 年兴起，为计算机用户提供了 Windows 等专有桌面之外的免费替代方案。影片追溯了 KDE 这一先驱桌面项目的起源与发展。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 539 · 💬 122 · Open Source · Culture&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50496976&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/15/top_stories_11152026#story-50496976&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Nvidia is preparing to oust Jensen Huang</title>
@@ -592,19 +479,6 @@
 &lt;p&gt;&lt;em&gt;据报道，英伟达正准备让 Jensen Huang 离任。现有信息没有提供更多可靠细节。&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;▲ 527 · 💬 778 · Business&lt;/small&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50459703&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/11/top_stories_11112026#story-50459703&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Why get an expensive Pi when I have an old phone?</title>
-      <link>https://so.long.thanks.fish/why-pi-when-i-have-an-old-phone/</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50440709</guid>
-      <dc:creator>casi</dc:creator>
-      <pubDate>Tue, 10 Nov 2026 14:16:05 +0000</pubDate>
-      <category>Hardware</category>
-      <category>Energy</category>
-      <description>&lt;p&gt;The project uses a rooted second-hand Redmi smartphone as a camera and light controller instead of building the system around a Raspberry Pi. The phone already provides a high-resolution camera, GPS, storage, battery, and mobile data, while the original Raspberry Pi design required adding an Arducam 64MP camera and a GPS module. The approach could reduce the number of components and the project’s growing bill.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;这个项目改用一部已取得 root 权限的二手 Redmi 手机来充当摄像头和灯光控制器，而不是围绕树莓派搭建系统。手机已经具备高分辨率摄像头、GPS、存储、电池和移动数据功能；原先的树莓派方案则需要额外加入 Arducam 6400 万像素摄像头和 GPS 模块。这种做法有望减少组件数量，并控制不断上涨的项目成本。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 514 · 💬 284 · Hardware · Energy&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50440709&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/14/top_stories_11142026#story-50440709&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Starlink Mini 2</title>
@@ -622,18 +496,6 @@
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50444129&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/11/top_stories_11112026#story-50444129&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>The end of Microsoft Research's AI Frontiers group</title>
-      <link>https://hunch.net/?p=13764006</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50406563</guid>
-      <dc:creator>srean</dc:creator>
-      <pubDate>Sat, 07 Nov 2026 18:02:17 +0000</pubDate>
-      <category>AI</category>
-      <description>&lt;p&gt;Microsoft Research's AI Frontiers group is coming to an end.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;微软研究院的 AI Frontiers 团队即将解散。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 500 · 💬 309 · AI&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50406563&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/08/top_stories_11082026#story-50406563&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>Gemini 4 Hydrogen and Orchestrator</title>
       <link>https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/</link>
       <guid isPermaLink="true">https://news.ycombinator.com/item?id=50472260</guid>
@@ -644,6 +506,145 @@
 &lt;p&gt;&lt;em&gt;Google Antigravity 正在推出 Gemini 4 Hydrogen，以及模型选择器中的新选项 Orchestrator。Orchestrator 会将 Hydrogen 与包括 Gemini 4 Carbon 在内的 Google 最强模型搭配，用于长时程任务。该组合旨在平衡质量、效率和延迟。&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;▲ 495 · 💬 161 · AI&lt;/small&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50472260&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/13/top_stories_11132026#story-50472260&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Doomsday: Friday, 13 November, A.D. 2026 (1960)</title>
+      <link>https://www.science.org/doi/10.1126/science.132.3436.1291</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50482379</guid>
+      <dc:creator>voxleone</dc:creator>
+      <pubDate>Fri, 13 Nov 2026 12:10:24 +0000</pubDate>
+      <category>Science</category>
+      <description>&lt;p&gt;The item is titled “Doomsday: Friday, 13 November, A.D. 2026” and is dated 1960. No further details about its subject or contents are available.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;该条目标题为《末日：2026 年 11 月 13 日，星期五》，并标注为公元 1960 年。没有更多关于其主题或内容的可靠信息。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 494 · 💬 337 · Science&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50482379&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/14/top_stories_11142026#story-50482379&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>E-means: Outperforming k-means in one-tenth the epochs</title>
+      <link>https://e-means.github.io/</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50429734</guid>
+      <dc:creator>porridgeraisin</dc:creator>
+      <pubDate>Mon, 09 Nov 2026 18:45:43 +0000</pubDate>
+      <category>Data</category>
+      <description>&lt;p&gt;E-means is presented as an alternative to Lloyd's k-means algorithm. Across a broad range of scales and datasets, it reached lower test loss than Lloyd's method in 1.2 to 3 epochs, compared with 25 epochs. The reported end-to-end speedup is 10–45× over Flash-KMeans on GPUs and 8–15× over Faiss on CPUs.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;E-means 被介绍为 Lloyd k-means 算法的一种替代方案。在多种规模和数据集上，E-means 用 1.2 至 3 个训练轮次就达到了低于 Lloyd 方法的测试损失，而后者需要 25 个轮次。报告称，端到端速度相比 GPU 上的 Flash-KMeans 提升 10–45 倍，相比 CPU 上的 Faiss 提升 8–15 倍。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 494 · 💬 78 · Data&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50429734&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/10/top_stories_11102026#story-50429734&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Elevated errors on claude.ai, Claude Code, and platform.claude.com</title>
+      <link>https://status.claude.com/incidents/nn11wk485zfn</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50481187</guid>
+      <dc:creator>__vivek</dc:creator>
+      <pubDate>Fri, 13 Nov 2026 10:18:13 +0000</pubDate>
+      <category>AI</category>
+      <description>&lt;p&gt;Claude’s status page reported elevated errors affecting claude.ai, Claude Code, and platform.claude.com. The notice identifies the affected services but provides no further incident details in the available information.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Claude 状态页报告称，claude.ai、Claude Code 和 platform.claude.com 的错误率升高。现有信息仅列出了受影响的服务，未提供更多事故细节。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 493 · 💬 390 · AI&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50481187&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/14/top_stories_11142026#story-50481187&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Synaptics patent claims stop work on DisplayLink drivers</title>
+      <link>https://lwn.net/SubscriberLink/1102549/acbc92e00cee3a3f/</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50443824</guid>
+      <dc:creator>speckx</dc:creator>
+      <pubDate>Tue, 10 Nov 2026 18:02:02 +0000</pubDate>
+      <category>Legal</category>
+      <description>&lt;p&gt;Mike Lothian tried to improve a Linux driver for a DisplayLink docking station after finding its performance inadequate. Synaptics, which acquired DisplayLink in 2022, responded with patent-infringement claims, a demand to stop the unauthorized implementation, and warnings of costly legal penalties. Linux users of the company’s docks therefore appear likely to remain without feature parity for now.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Mike Lothian 认为 DisplayLink 扩展坞在 Linux 下性能不佳，因此尝试改进其驱动。DisplayLink 于 2022 年被 Synaptics 收购，而 Synaptics 随后以专利侵权为由要求停止未经授权的实现，并警告可能面临高昂法律处罚。因此，相关扩展坞的 Linux 用户目前似乎仍将无法获得与其他平台相当的功能。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 481 · 💬 267 · Legal&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50443824&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/11/top_stories_11112026#story-50443824&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Tech companies are trying to shift the concept of privacy again</title>
+      <link>https://www.eff.org/deeplinks/2026/11/tech-companies-are-trying-shift-entire-concept-privacy-again</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50496602</guid>
+      <dc:creator>gslin</dc:creator>
+      <pubDate>Sat, 14 Nov 2026 12:45:45 +0000</pubDate>
+      <category>Privacy</category>
+      <category>AI</category>
+      <description>&lt;p&gt;Privacy is increasingly affecting people beyond the individual who owns or uses a device. Meta and Google’s smart glasses can record what the wearer is looking at or use AI to describe it, extending the consequences of data collection to bystanders. The shift challenges the older framing of privacy as primarily a matter of personal choice.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;隐私问题正越来越多地影响设备所有者或使用者之外的人。Meta 和 Google 的智能眼镜可以记录佩戴者所看到的内容，或使用 AI 对其进行描述，使数据收集的后果波及旁观者。这种变化挑战了过去主要将隐私视为个人选择的传统定义。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 468 · 💬 175 · Privacy · AI&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50496602&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/14/top_stories_11142026#story-50496602&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Monkey Island: all 13 versions side by side</title>
+      <link>https://monkeyisland.pages.dev/</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50493904</guid>
+      <dc:creator>maximilianburke</dc:creator>
+      <pubDate>Sat, 14 Nov 2026 04:23:30 +0000</pubDate>
+      <category>Gaming</category>
+      <description>&lt;p&gt;The project presents every version of The Secret of Monkey Island from 1990 side by side, covering eight editions and 13 display modes across systems including Hercules, CGA, EGA, VGA, Amiga, Atari ST, Macintosh, FM Towns, and Sega CD. It shows the same 12 scenes in each version, with captures scaled to 1600×1200 using nearest-neighbor scaling and corrected for a 4:3 display. The presentation keeps the framing constant so differences come from the original machines and display modes.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;这个项目并排展示了 1990 年《猴岛的秘密》的所有版本，涵盖 Hercules、CGA、EGA、VGA、Amiga、Atari ST、Macintosh、FM Towns 和 Sega CD 等平台上的 8 个版本、13 种显示模式。每个版本都展示相同的 12 个场景，截图使用最近邻算法放大到 1600×1200，并进行 4:3 显示比例校正。展示保持相同构图，因此差异主要来自原始机器和显示模式。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 466 · 💬 147 · Gaming&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50493904&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/14/top_stories_11142026#story-50493904&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>I'm making LLMs work on small and old devices</title>
+      <link>https://github.com/hyperionaidev/smolmaxxing/</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50468888</guid>
+      <dc:creator>mrashad74</dc:creator>
+      <pubDate>Thu, 12 Nov 2026 15:23:10 +0000</pubDate>
+      <category>AI</category>
+      <category>Hardware</category>
+      <description>&lt;p&gt;smolmaxxing explores how to run the largest practical language models on small or old devices such as TV boxes, phones, single-board computers, and routers. It uses custom kernels, memory optimization, and weight streaming, with claims measured on the actual hardware. On a Xiaomi TV Box S 3rd Gen with about 1 GB of usable RAM, the project reports running models ranging from 260K to 16B parameters.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;smolmaxxing 探索如何在电视盒子、旧手机、单板计算机和路由器等小型或老旧设备上运行实际可用的最大语言模型。项目使用定制内核、内存优化和权重流式传输，并在真实硬件上测量各项结果。在可用内存约 1 GB 的 Xiaomi TV Box S 第三代上，项目报告称可运行参数量从 26 万到 160 亿不等的模型。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 466 · 💬 180 · AI · Hardware&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50468888&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/13/top_stories_11132026#story-50468888&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Microsoft Outlook/365 still down after 12 hours</title>
+      <link>https://twitter.com/MSFT365Status/status/2121079061774491735</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50478609</guid>
+      <dc:creator>player85</dc:creator>
+      <pubDate>Fri, 13 Nov 2026 05:08:23 +0000</pubDate>
+      <category>DevOps</category>
+      <description>&lt;p&gt;Microsoft said changes intended to improve serviceability were not producing the expected results during the Outlook/365 outage. The company was identifying alternative workstreams to increase capacity amid sustained traffic-management imbalances. The service had remained disrupted for more than 12 hours.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;微软表示，在 Outlook/365 宕机期间，为改善服务能力而实施的变更没有达到预期效果。面对持续的流量管理失衡，公司正在寻找其他工作方案以提升容量。服务中断当时已持续超过 12 个小时。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 462 · 💬 306 · DevOps&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50478609&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/13/top_stories_11132026#story-50478609&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Jonathan Blow – If AI solved coding, why is my software still the same? [video]</title>
+      <link>https://www.youtube.com/watch?v=IRK8h67ol7Q</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50484658</guid>
+      <dc:creator>helloplanets</dc:creator>
+      <pubDate>Fri, 13 Nov 2026 15:08:44 +0000</pubDate>
+      <category>AI</category>
+      <category>Programming</category>
+      <description>&lt;p&gt;The video is titled “If AI Solved Coding, Why Is My Software Still the Same?” by Jonathan Blow. No further details about the video’s contents are available.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;该视频由 Jonathan Blow 发布，标题为《如果 AI 已解决编程，为什么我的软件还是老样子？》。现有信息未提供视频内容的更多细节。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 460 · 💬 671 · AI · Programming&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50484658&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/14/top_stories_11142026#story-50484658&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Show HN: Every satellite that passed over any place this week, and its photos</title>
+      <link>https://www.watched.earth</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50428907</guid>
+      <dc:creator>a585gupt</dc:creator>
+      <pubDate>Mon, 09 Nov 2026 17:51:31 +0000</pubDate>
+      <category>Show HN</category>
+      <category>Data</category>
+      <category>Space</category>
+      <category>Hardware</category>
+      <category>Web</category>
+      <description>&lt;p&gt;Watched lets users enter a location and find every satellite that passed over it in the previous seven days, then retrieve Sentinel-2, Landsat, and NASA imagery from those passes. Its browser-based SGP4 search processes the CelesTrak catalog in about half a second, while roughly 17,000 orbital objects are rendered on the GPU. The project reports no missed passes in tests against brute-force searches and says it does not store locations.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Watched 允许用户输入地点，查找过去七天内经过该地点的所有卫星，并获取这些过境对应的 Sentinel-2、Landsat 和 NASA 影像。它在浏览器中使用 SGP4 处理 CelesTrak 目录，耗时约半秒，同时在 GPU 上绘制约 1.7 万个轨道目标。项目称，与暴力搜索对比测试未漏掉任何过境，并表示不会存储用户位置。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 458 · 💬 81 · Show HN · Data · Space · Hardware · Web&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50428907&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/10/top_stories_11102026#story-50428907&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Former Nvidia CEO Huang had a relationship with a second employee, sources say</title>
+      <link>https://www.reuters.com/technology/former-nvidia-ceo-huang-had-relationship-with-second-employee-sources-say-2026-11-12/</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50473190</guid>
+      <dc:creator>jbredeche</dc:creator>
+      <pubDate>Thu, 12 Nov 2026 19:51:33 +0000</pubDate>
+      <category>Business</category>
+      <description>&lt;p&gt;Sources say former Nvidia CEO Jensen Huang had a relationship with a second employee. No further details about the reported relationship are available.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;消息人士称，英伟达前 CEO 黄仁勋曾与第二名员工有关系。现有信息未提供这段关系的更多细节。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 448 · 💬 477 · Business&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50473190&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/13/top_stories_11132026#story-50473190&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
