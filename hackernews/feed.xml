@@ -5,7 +5,7 @@
     <link>https://chaowang15.github.io/hackernews/</link>
     <description>Curated daily digest of top Hacker News stories with AI-generated summaries, tags, and bilingual translations.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 16 Nov 2026 02:07:02 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 16:05:53 +0000</lastBuildDate>
     <generator>Hacker News Daily RSS Builder</generator>
     <atom:link href="https://chaowang15.github.io/hackernews/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
@@ -29,8 +29,8 @@
       <category>Space</category>
       <description>&lt;p&gt;SpaceX's Starship Flight 15 ended with the vehicle being caught by the launch system. The available material provides no further details about the flight or the catch.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;SpaceX 的星舰第 15 次飞行以发射系统接住飞行器告终。现有信息未提供这次飞行或捕获过程的更多细节。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 1646 · 💬 1226 · Space&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50500963&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/15/top_stories_11152026#story-50500963&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+&lt;p&gt;&lt;small&gt;▲ 1725 · 💬 1309 · Space&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50500963&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/16/top_stories_11162026#story-50500963&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>FAA issues national ground stop – lifted 4.5 hours later</title>
@@ -218,19 +218,6 @@
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50429068&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/10/top_stories_11102026#story-50429068&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Claude Fable 5.2 and Mythos 5.2</title>
-      <link>https://www.anthropic.com/claude-fable-and-mythos-5-2</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50429906</guid>
-      <dc:creator>meetpateltech</dc:creator>
-      <pubDate>Mon, 09 Nov 2026 18:56:29 +0000</pubDate>
-      <category>AI</category>
-      <category>Science</category>
-      <description>&lt;p&gt;Anthropic introduced Claude Fable 5.2 and Claude Mythos 5.2 for demanding technical work, with claimed improvements in coding, reasoning, and vision. During prerelease testing, Anthropic says the models helped engineers complete software migrations, design three working electronic devices, make progress on robotics evaluations, and solve problems in physics. The company also says the models formalized a proof of Fermat’s Last Theorem in 30 hours.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Anthropic 推出了面向高难度技术工作的 Claude Fable 5.2 和 Claude Mythos 5.2，并称它们在编码、推理和视觉能力方面有所提升。在预发布测试中，Anthropic 表示这些模型帮助工程师完成软件迁移、设计出三种可运行的电子设备、推进机器人评测，并解决物理学问题。公司还称，模型在 30 小时内形式化完成了费马大定理的证明。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 839 · 💬 507 · AI · Science&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50429906&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/09/top_stories_11092026#story-50429906&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>LibreOffice actually works 365 days a year</title>
       <link>https://twitter.com/LibreOffice/status/2121205272479998268</link>
       <guid isPermaLink="true">https://news.ycombinator.com/item?id=50486482</guid>
@@ -266,6 +253,18 @@
 &lt;p&gt;&lt;em&gt;2017 年西海岸接连发生野火时，许多湾区居民因为房屋隔热和密封性能较差而购买空气净化器，以避免吸入野火烟尘。作者介绍了自己购买 Coway Airmega，并对其进行逆向工程，以摆脱对云端服务的依赖。这一项目体现了将家用设备控制权保留在本地的尝试。&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;▲ 785 · 💬 222 · Hardware · Privacy&lt;/small&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50474959&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/14/top_stories_11142026#story-50474959&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Qwen4-Max</title>
+      <link>https://qwen.ai/blog?id=qwen4-max</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50513215</guid>
+      <dc:creator>ilreb</dc:creator>
+      <pubDate>Mon, 16 Nov 2026 02:14:44 +0000</pubDate>
+      <category>AI</category>
+      <description>&lt;p&gt;Qwen4-Max is described as supporting chat, image and video understanding, image generation, document processing, web search integration, tool use, and artifacts. It is positioned as a model or service with functionality spanning multiple input and output types.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Qwen4-Max 被描述为支持聊天、图像和视频理解、图像生成、文档处理、联网搜索、工具调用及 artifacts。它定位为覆盖多种输入和输出形式的模型或服务。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 740 · 💬 371 · AI&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50513215&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/16/top_stories_11162026#story-50513215&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Show HN: My $300 embroidery machine needed a subscription, so I built my own app</title>
@@ -305,18 +304,6 @@
 &lt;p&gt;&lt;em&gt;Google 更新后的说明据称确认，连接到 Gemini 的 Drive 和电子邮件账户内容可能进入人工审核流程。这改变了 Google 在 2023 年作出的承诺——当时公司表示个人 Gmail、Docs 和 Drive 内容不会被人工审核员看到。Google 目前警告用户，不要连接包含不希望审核员看到的机密信息的应用。&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;▲ 716 · 💬 147 · Privacy · Security · AI&lt;/small&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50429426&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/10/top_stories_11102026#story-50429426&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Is Opus 5.5 nerfed? Thinking patterns changed on November 3</title>
-      <link>https://twitter.com/shanemelaugh/status/2119192075505893695</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50422069</guid>
-      <dc:creator>rzk</dc:creator>
-      <pubDate>Mon, 09 Nov 2026 07:04:25 +0000</pubDate>
-      <category>AI</category>
-      <description>&lt;p&gt;An analysis of 1,400 Claude Code sessions reportedly found a sharp change in Opus 5.5’s reasoning behavior on November 3. The model name did not change, but the analysis claims that its thinking patterns shifted noticeably. The report does not identify the cause of the change.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;对 1400 次 Claude Code 会话的分析据称发现，Opus 5.5 在 11 月 3 日的推理行为发生了明显变化。模型名称并未改变，但分析认为其思考模式出现了显著转折。该报告没有说明变化原因。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 708 · 💬 459 · AI&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50422069&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/09/top_stories_11092026#story-50422069&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Amazon saves millions by replacing Sonnet 4.6 with Strands Decider</title>
@@ -370,6 +357,30 @@
 &lt;p&gt;&lt;em&gt;这个项目改用一部已取得 root 权限的二手 Redmi 手机来充当摄像头和灯光控制器，而不是围绕树莓派搭建系统。手机已经具备高分辨率摄像头、GPS、存储、电池和移动数据功能；原先的树莓派方案则需要额外加入 Arducam 6400 万像素摄像头和 GPS 模块。这种做法有望减少组件数量，并控制不断上涨的项目成本。&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;▲ 617 · 💬 322 · Hardware · Energy&lt;/small&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50440709&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/15/top_stories_11152026#story-50440709&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Microsoft 365 outage leads to chlorine gas poisoning of 15 hotel guests</title>
+      <link>https://www1.wdr.de/nrw/rheinland/rhein-erft-kreis/technischer-defekt-chlor-phantasialand-100.html</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50509411</guid>
+      <dc:creator>DeepLogin</dc:creator>
+      <pubDate>Sun, 15 Nov 2026 18:36:10 +0000</pubDate>
+      <category>Health</category>
+      <description>&lt;p&gt;A Microsoft Outlook outage meant Phantasialand did not receive notice that excessive chlorine was present in a pool. Fifteen guests were injured as a result.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;微软 Outlook 服务中断，导致 Phantasialand 未能收到泳池氯含量过高的通知。结果造成 15 名客人受伤。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 602 · 💬 258 · Health&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50509411&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/16/top_stories_11162026#story-50509411&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>How to make almost anything</title>
+      <link>https://pub.cba.mit.edu/863.26/site/</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50514470</guid>
+      <dc:creator>o4c</dc:creator>
+      <pubDate>Mon, 16 Nov 2026 05:50:37 +0000</pubDate>
+      <category>Education</category>
+      <description>&lt;p&gt;A project or course titled “How to make almost anything” focuses on creating a wide range of physical or electronic things. Further details about its methods or scope are not available here.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;“如何制造几乎任何东西”是一项围绕制作各种实体或电子作品展开的项目或课程。现有信息未提供其具体方法或内容范围。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 601 · 💬 101 · Education&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50514470&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/16/top_stories_11162026#story-50514470&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>AlphaProof Code</title>
@@ -494,6 +505,19 @@
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50459703&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/11/top_stories_11112026#story-50459703&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Universal XSS in uBlock Origin from website-driven element picker</title>
+      <link>https://iter.ca/post/ubo-uxss/</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50513160</guid>
+      <dc:creator>zaik</dc:creator>
+      <pubDate>Mon, 16 Nov 2026 02:04:48 +0000</pubDate>
+      <category>Security</category>
+      <category>Programming</category>
+      <description>&lt;p&gt;A one-click universal XSS vulnerability affected the Firefox version of uBlock Origin through its element picker. A malicious website could trick the extension into adding arbitrary trusted filters, which can inject JavaScript into other websites and execute it in their contexts. The issue has been fixed; a related but less severe problem also affected the MV3-based uBO Lite.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;uBlock Origin 的 Firefox 版本元素选择器存在一个可通过一次点击触发的通用 XSS 漏洞。恶意网站可以诱使扩展添加任意受信过滤规则，而受信规则能够向其他网站注入 JavaScript，并在这些网站的上下文中执行。该问题现已修复；基于 MV3 的 uBO Lite 也受到一个相关但危害较小的问题影响。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 507 · 💬 146 · Security · Programming&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50513160&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/16/top_stories_11162026#story-50513160&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Starlink Mini 2</title>
       <link>https://starlink.com/mini-2</link>
       <guid isPermaLink="true">https://news.ycombinator.com/item?id=50444129</guid>
@@ -519,6 +543,18 @@
 &lt;p&gt;&lt;em&gt;Google Antigravity 正在推出 Gemini 4 Hydrogen，以及模型选择器中的新选项 Orchestrator。Orchestrator 会将 Hydrogen 与包括 Gemini 4 Carbon 在内的 Google 最强模型搭配，用于长时程任务。该组合旨在平衡质量、效率和延迟。&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;▲ 495 · 💬 161 · AI&lt;/small&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50472260&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/13/top_stories_11132026#story-50472260&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The MacBook Pro's OLED PWM problem</title>
+      <link>https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use/</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50506719</guid>
+      <dc:creator>MacAnorak</dc:creator>
+      <pubDate>Sun, 15 Nov 2026 13:15:22 +0000</pubDate>
+      <category>Hardware</category>
+      <description>&lt;p&gt;Apple has introduced tandem OLED technology to the MacBook Pro, alongside the Mini-LED option that remains available. The display offers individually illuminated pixels, effectively infinite contrast, deeper blacks, higher peak HDR brightness, and touch input, prompting an overwhelmingly positive initial reaction. The source argues that impressive image quality does not necessarily make the screen comfortable for every user, particularly because of its PWM behavior.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;苹果为 MacBook Pro 引入了串联 OLED 技术，同时继续提供 Mini-LED 版本。该显示屏具备独立发光像素、近乎无限的对比度、更深的黑色、更高的 HDR 峰值亮度，并首次支持触控，发布初期反响普遍积极。文章指出，出色的画质并不一定意味着所有用户都能舒适使用，尤其是其 PWM 特性可能带来问题。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 494 · 💬 277 · Hardware&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50506719&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/16/top_stories_11162026#story-50506719&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Doomsday: Friday, 13 November, A.D. 2026 (1960)</title>
@@ -605,45 +641,6 @@
 &lt;p&gt;&lt;em&gt;这个项目并排展示了 1990 年《猴岛的秘密》的所有版本，涵盖 Hercules、CGA、EGA、VGA、Amiga、Atari ST、Macintosh、FM Towns 和 Sega CD 等平台上的 8 个版本、13 种显示模式。每个版本都展示相同的 12 个场景，截图使用最近邻算法放大到 1600×1200，并进行 4:3 显示比例校正。展示保持相同构图，因此差异主要来自原始机器和显示模式。&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;▲ 466 · 💬 147 · Gaming&lt;/small&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50493904&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/14/top_stories_11142026#story-50493904&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>I'm making LLMs work on small and old devices</title>
-      <link>https://github.com/hyperionaidev/smolmaxxing/</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50468888</guid>
-      <dc:creator>mrashad74</dc:creator>
-      <pubDate>Thu, 12 Nov 2026 15:23:10 +0000</pubDate>
-      <category>AI</category>
-      <category>Hardware</category>
-      <description>&lt;p&gt;smolmaxxing explores how to run the largest practical language models on small or old devices such as TV boxes, phones, single-board computers, and routers. It uses custom kernels, memory optimization, and weight streaming, with claims measured on the actual hardware. On a Xiaomi TV Box S 3rd Gen with about 1 GB of usable RAM, the project reports running models ranging from 260K to 16B parameters.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;smolmaxxing 探索如何在电视盒子、旧手机、单板计算机和路由器等小型或老旧设备上运行实际可用的最大语言模型。项目使用定制内核、内存优化和权重流式传输，并在真实硬件上测量各项结果。在可用内存约 1 GB 的 Xiaomi TV Box S 第三代上，项目报告称可运行参数量从 26 万到 160 亿不等的模型。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 466 · 💬 180 · AI · Hardware&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50468888&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/13/top_stories_11132026#story-50468888&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Lutnick Pushed to Weaken Chip Rules That Overlap with His Family Business</title>
-      <link>https://www.nytimes.com/2026/11/15/us/politics/lutnick-pushed-to-weaken-chip-rules-that-overlap-with-his-family-business.html</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50506180</guid>
-      <dc:creator>JumpCrisscross</dc:creator>
-      <pubDate>Sun, 15 Nov 2026 11:40:51 +0000</pubDate>
-      <category>Politics</category>
-      <category>Business</category>
-      <category>Hardware</category>
-      <description>&lt;p&gt;The item concerns Lutnick being pushed to weaken chip rules that overlap with his family's business. It describes a potential conflict between semiconductor regulations and the interests of that family business.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;该条目涉及有人推动 Lutnick 削弱与其家族企业业务重叠的芯片规则。内容指向半导体监管与该家族企业利益之间可能存在的冲突。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 463 · 💬 207 · Politics · Business · Hardware&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50506180&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/15/top_stories_11152026#story-50506180&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Microsoft Outlook/365 still down after 12 hours</title>
-      <link>https://twitter.com/MSFT365Status/status/2121079061774491735</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50478609</guid>
-      <dc:creator>player85</dc:creator>
-      <pubDate>Fri, 13 Nov 2026 05:08:23 +0000</pubDate>
-      <category>DevOps</category>
-      <description>&lt;p&gt;Microsoft said changes intended to improve serviceability were not producing the expected results during the Outlook/365 outage. The company was identifying alternative workstreams to increase capacity amid sustained traffic-management imbalances. The service had remained disrupted for more than 12 hours.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;微软表示，在 Outlook/365 宕机期间，为改善服务能力而实施的变更没有达到预期效果。面对持续的流量管理失衡，公司正在寻找其他工作方案以提升容量。服务中断当时已持续超过 12 个小时。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 462 · 💬 306 · DevOps&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50478609&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/13/top_stories_11132026#story-50478609&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
