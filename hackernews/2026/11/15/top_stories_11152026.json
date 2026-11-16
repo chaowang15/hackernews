@@ -3,31 +3,31 @@
     "mode": "top",
     "source": "https://news.ycombinator.com/",
     "api": "https://github.com/HackerNews/API",
-    "count_requested": 50,
-    "count_written": 50,
-    "reused_same_day": 0,
-    "reused_cross_day": 18,
+    "count_requested": 100,
+    "count_written": 100,
+    "reused_same_day": 50,
+    "reused_cross_day": 0,
     "reused_history": 0,
-    "new_llm_enriched": 32,
-    "scrape_time_display": "08:04, November 15, 2026 (PST)",
+    "new_llm_enriched": 50,
+    "scrape_time_display": "18:04, November 15, 2026 (PST)",
     "timezone": "America/Los_Angeles",
     "date_dir": "2026/11/15",
     "content_date": "2026-11-15",
-    "edition": "morning",
-    "edition_label": "Morning 50",
-    "target_count": 50,
-    "run_time_local": "08:04, November 15, 2026 (PST)",
-    "run_time_utc": "2026-11-15 16:04:03 UTC",
+    "edition": "full",
+    "edition_label": "All 100",
+    "target_count": 100,
+    "run_time_local": "18:04, November 15, 2026 (PST)",
+    "run_time_utc": "2026-11-16 02:04:39 UTC",
     "incremental": true,
-    "stories_max": 50,
-    "hot_score_time_utc": "2026-11-15 16:05:15 UTC"
+    "stories_max": 100,
+    "hot_score_time_utc": "2026-11-16 02:06:24 UTC"
   },
   "items": [
     {
       "title_en": "All AI-generated code should be Open Source",
       "url": "https://jakub.jankiewicz.org/blog/ai-code-open-source/",
       "title_zh": "所有 AI 生成的代码都应开源",
-      "is_new": true,
+      "is_new": false,
       "created_display": "Created: Nov 15, 2026 / 06:46 PT",
       "image_url": "https://jakub.jankiewicz.org/img/en/ai-code-open-source.png",
       "summary_en": "The author argues that all code generated with AI assistance should be released as open source or under a CC0 license. The argument is based on AI models being trained on large amounts of publicly available open-source code, as well as Stack Overflow and related sites whose Creative Commons licenses generally require attribution. The author says turning that shared knowledge into proprietary code resembles license laundering.",
@@ -36,45 +36,165 @@
         "id": 50507303,
         "type": "story",
         "by": "jcubic",
-        "score": 149,
-        "descendants": 99,
+        "score": 1094,
+        "descendants": 595,
         "time": 1794754018,
         "comments_url": "https://news.ycombinator.com/item?id=50507303"
       },
-      "hot_score": 17.21,
       "tags": [
         "AI",
         "Open Source"
+      ],
+      "hot_score": 10.33
+    },
+    {
+      "title_en": "Jensen Huang might return to Nvidia as CEO",
+      "url": "https://www.reuters.com/world/china/jensen-huang-discusses-comeback-nvidia-ceo-with-allies-ft-reports-2026-11-15/",
+      "title_zh": "黄仁勋可能回归英伟达担任 CEO",
+      "is_new": true,
+      "created_display": "Created: Nov 15, 2026 / 15:24 PT",
+      "image_url": null,
+      "summary_en": "Jensen Huang might return to Nvidia as chief executive.",
+      "summary_zh": "黄仁勋可能回归英伟达担任首席执行官。",
+      "hn": {
+        "id": 50511982,
+        "type": "story",
+        "by": "YakubYilmaz",
+        "score": 136,
+        "descendants": 125,
+        "time": 1794785093,
+        "comments_url": "https://news.ycombinator.com/item?id=50511982"
+      },
+      "hot_score": 8.35,
+      "tags": [
+        "Business",
+        "Career"
       ]
     },
     {
-      "title_en": "The MacBook Pro's OLED PWM Problem: When a 'Better' Display Becomes Worse to Use",
-      "url": "https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use/",
-      "title_zh": "MacBook Pro 的 OLED PWM 问题：更好的显示屏为何更难用",
+      "title_en": "Old Bitly Links Are Being Hijacked",
+      "url": "https://ransomnews.com/burger-king-tweet-bitly-link-hijack-2026/",
+      "title_zh": "旧 Bitly 链接正遭劫持",
       "is_new": true,
-      "created_display": "Created: Nov 15, 2026 / 05:15 PT",
-      "image_url": "https://macanorak.com/content/images/2026/11/PROLED-Display-XDR-1.png",
-      "summary_en": "Apple has introduced tandem OLED technology to the MacBook Pro, alongside the Mini-LED option that remains available. The display offers individually illuminated pixels, effectively infinite contrast, deeper blacks, higher peak HDR brightness, and touch input, prompting an overwhelmingly positive initial reaction. The source argues that impressive image quality does not necessarily make the screen comfortable for every user, particularly because of its PWM behavior.",
-      "summary_zh": "苹果为 MacBook Pro 引入了串联 OLED 技术，同时继续提供 Mini-LED 版本。该显示屏具备独立发光像素、近乎无限的对比度、更深的黑色、更高的 HDR 峰值亮度，并首次支持触控，发布初期反响普遍积极。文章指出，出色的画质并不一定意味着所有用户都能舒适使用，尤其是其 PWM 特性可能带来问题。",
+      "created_display": "Created: Nov 15, 2026 / 14:11 PT",
+      "image_url": "https://ransomnews.com/wp-content/uploads/2026/11/burger-king-tweet-bitly-link-hijack-2026-cover-1024x576.png",
+      "summary_en": "Burger King and McDonald’s were not hacked. Instead, someone re-registered Bitly links posted in their 2011 tweets. The same person or group has replaced 57 of 97 links in old tweets by Donald Trump.",
+      "summary_zh": "汉堡王和麦当劳并未遭到黑客入侵。有人重新注册了它们在 2011 年推文中使用的 Bitly 链接。同样的问题还影响了唐纳德·特朗普旧推文中的 97 个链接，其中 57 个已被替换。",
       "hn": {
-        "id": 50506719,
+        "id": 50511395,
         "type": "story",
-        "by": "MacAnorak",
-        "score": 154,
-        "descendants": 84,
-        "time": 1794748522,
-        "comments_url": "https://news.ycombinator.com/item?id=50506719"
+        "by": "hspeiser",
+        "score": 172,
+        "descendants": 88,
+        "time": 1794780703,
+        "comments_url": "https://news.ycombinator.com/item?id=50511395"
       },
-      "hot_score": 8.98,
+      "hot_score": 6.98,
       "tags": [
-        "Hardware"
+        "Security",
+        "Privacy"
+      ]
+    },
+    {
+      "title_en": "Microsoft 365 outage leads to chlorine gas poisoning of 15 hotel guests",
+      "url": "https://www1.wdr.de/nrw/rheinland/rhein-erft-kreis/technischer-defekt-chlor-phantasialand-100.html",
+      "title_zh": "Microsoft 365 故障导致 15 名酒店客人氯气中毒",
+      "is_new": true,
+      "created_display": "Created: Nov 15, 2026 / 10:36 PT",
+      "image_url": "https://www1.wdr.de/nrw/koeln/phantasialand-134~_v-gseagaleriexl.jpg",
+      "summary_en": "A Microsoft Outlook outage meant Phantasialand did not receive notice that excessive chlorine was present in a pool. Fifteen guests were injured as a result.",
+      "summary_zh": "微软 Outlook 服务中断，导致 Phantasialand 未能收到泳池氯含量过高的通知。结果造成 15 名客人受伤。",
+      "hn": {
+        "id": 50509411,
+        "type": "story",
+        "by": "DeepLogin",
+        "score": 399,
+        "descendants": 184,
+        "time": 1794767770,
+        "comments_url": "https://news.ycombinator.com/item?id=50509411"
+      },
+      "hot_score": 6.91,
+      "tags": [
+        "Health"
+      ]
+    },
+    {
+      "title_en": "\"Who is Hiring?\" postings stuck near 12-year lows as AI reaches half of all jobs",
+      "url": "https://www.hntrends.com/2026/november.html",
+      "title_zh": "“谁在招聘？”职位数接近 12 年低点，AI 已出现在半数职位中",
+      "is_new": true,
+      "created_display": "Created: Nov 15, 2026 / 17:31 PT",
+      "image_url": "https://www.hntrends.com/images/202611-ask-hn-who-is-hiring-tot.png?v=2",
+      "summary_en": "Hacker News’ November “Who is Hiring?” thread had 244 postings by November 14, down 37% from 387 at the same point last year. The 2026 monthly average is 287 postings, the lowest yearly average since 2013. AI was mentioned in 51.6% of postings, up from 30% two years earlier.",
+      "summary_zh": "截至 11 月 14 日，Hacker News 11 月“谁在招聘？”主题帖有 244 个职位，比去年同期的 387 个减少 37%。2026 年月均职位数为 287 个，是 2013 年以来最低的年度平均值。AI 出现在 51.6% 的职位描述中，高于两年前的 30%。",
+      "hn": {
+        "id": 50512950,
+        "type": "story",
+        "by": "myth_drannon",
+        "score": 29,
+        "descendants": 3,
+        "time": 1794792690,
+        "comments_url": "https://news.ycombinator.com/item?id=50512950"
+      },
+      "hot_score": 5.08,
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "title_en": "What's Next for Nvidia?",
+      "url": "https://steveblank.com/2026/11/15/whats-next-for-nvidia/",
+      "title_zh": "英伟达的下一步是什么？",
+      "is_new": true,
+      "created_display": "Created: Nov 15, 2026 / 15:55 PT",
+      "image_url": "https://steveblank.com/wp-content/uploads/2026/11/nvidia-reinventions-1024x677.jpg",
+      "summary_en": "Nvidia’s board announced that co-founder Jensen Huang had resigned after 33 years at the company. The change raises questions about what happens when a company loses a visionary chief executive. The supplied discussion argues that Nvidia could risk losing innovation and relying on momentum and its brand.",
+      "summary_zh": "英伟达董事会宣布，联合创始人黄仁勋在公司任职 33 年后辞职。这一变动引发了人们对公司失去具有远见的首席执行官后将如何发展的疑问。相关讨论认为，英伟达可能面临创新减弱、转而依赖既有势头和品牌的风险。",
+      "hn": {
+        "id": 50512235,
+        "type": "story",
+        "by": "zdw",
+        "score": 62,
+        "descendants": 57,
+        "time": 1794786955,
+        "comments_url": "https://news.ycombinator.com/item?id=50512235"
+      },
+      "hot_score": 4.66,
+      "tags": [
+        "Business",
+        "Career"
+      ]
+    },
+    {
+      "title_en": "Preserving 30 Years of Salon Journalism",
+      "url": "https://blog.archive.org/2026/11/12/preserving-30-years-of-salon-journalism/",
+      "title_zh": "保存 Salon 30 年的新闻报道",
+      "is_new": true,
+      "created_display": "Created: Nov 15, 2026 / 15:00 PT",
+      "image_url": "https://blog.archive.org/wp-content/uploads/2026/11/Salon-Logos-Background-2-2048x1071-1.png",
+      "summary_en": "Salon launched in 1995 as one of the first major publications born on the internet, covering politics, culture, criticism, and ideas. After 31 years, Salon has announced that it is ceasing publication. Web archiving will preserve its stories so they do not disappear.",
+      "summary_zh": "Salon 于 1995 年创办，是最早诞生于互联网的主要出版物之一，内容涵盖政治、文化、评论和思想。经过 31 年运营后，Salon 宣布将停止出版。网络存档将保存这些报道，使其不至于消失。",
+      "hn": {
+        "id": 50511806,
+        "type": "story",
+        "by": "CharlesW",
+        "score": 73,
+        "descendants": 17,
+        "time": 1794783611,
+        "comments_url": "https://news.ycombinator.com/item?id=50511806"
+      },
+      "hot_score": 3.83,
+      "tags": [
+        "Web",
+        "Culture",
+        "Politics"
       ]
     },
     {
       "title_en": "SpaceX catches the Starship to end Flight 15",
       "url": "https://www.spacex.com/launches/starship-flight-15",
       "title_zh": "SpaceX 在第 15 次飞行结束时接住星舰",
-      "is_new": true,
+      "is_new": false,
       "created_display": "Created: Nov 14, 2026 / 13:22 PT",
       "image_url": "https://www.spacex.com/assets/images/share.jpg",
       "summary_en": "SpaceX's Starship Flight 15 ended with the vehicle being caught by the launch system. The available material provides no further details about the flight or the catch.",
@@ -83,21 +203,91 @@
         "id": 50500963,
         "type": "story",
         "by": "ls612",
-        "score": 1449,
-        "descendants": 978,
+        "score": 1646,
+        "descendants": 1226,
         "time": 1794691344,
         "comments_url": "https://news.ycombinator.com/item?id=50500963"
       },
       "tags": [
         "Space"
       ],
-      "hot_score": 6.19
+      "hot_score": 3.46
+    },
+    {
+      "title_en": "Protomaps: Self-hosting map tiles has gotten cheap and easy",
+      "url": "https://bruceroettgers.eu/blog/protomaps/",
+      "title_zh": "Protomaps：自托管地图瓦片如今既便宜又简单",
+      "is_new": true,
+      "created_display": "Created: Nov 15, 2026 / 11:26 PT",
+      "image_url": null,
+      "summary_en": "Protomaps uses PMTiles, a tile format that stores a map in a single file and serves it through HTTP Range requests. The file can be uploaded to a storage bucket and cached by compatible CDNs, while an edge function can translate conventional x/y/z tile URLs for services such as Cloudflare. This makes map data portable and inexpensive to deploy compared with usage-priced commercial APIs.",
+      "summary_zh": "Protomaps 使用 PMTiles，这种瓦片格式将地图存储在单个文件中，并通过 HTTP Range 请求提供服务。该文件可以上传到存储桶并由支持相关缓存的 CDN 缓存；对于 Cloudflare 等服务，也可以用边缘函数将传统的 x/y/z 瓦片 URL 转换为 Range 请求。与按使用量收费的商业 API 相比，这让地图数据更易移植，也更便宜易部署。",
+      "hn": {
+        "id": 50509837,
+        "type": "story",
+        "by": "bcye",
+        "score": 167,
+        "descendants": 42,
+        "time": 1794770782,
+        "comments_url": "https://news.ycombinator.com/item?id=50509837"
+      },
+      "hot_score": 3.4,
+      "tags": [
+        "Open Source",
+        "DevOps"
+      ]
+    },
+    {
+      "title_en": "The MacBook Pro's OLED PWM problem",
+      "url": "https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use/",
+      "title_zh": "MacBook Pro 的 OLED PWM 问题：更好的显示屏为何更难用",
+      "is_new": false,
+      "created_display": "Created: Nov 15, 2026 / 05:15 PT",
+      "image_url": "https://macanorak.com/content/images/2026/11/PROLED-Display-XDR-1.png",
+      "summary_en": "Apple has introduced tandem OLED technology to the MacBook Pro, alongside the Mini-LED option that remains available. The display offers individually illuminated pixels, effectively infinite contrast, deeper blacks, higher peak HDR brightness, and touch input, prompting an overwhelmingly positive initial reaction. The source argues that impressive image quality does not necessarily make the screen comfortable for every user, particularly because of its PWM behavior.",
+      "summary_zh": "苹果为 MacBook Pro 引入了串联 OLED 技术，同时继续提供 Mini-LED 版本。该显示屏具备独立发光像素、近乎无限的对比度、更深的黑色、更高的 HDR 峰值亮度，并首次支持触控，发布初期反响普遍积极。文章指出，出色的画质并不一定意味着所有用户都能舒适使用，尤其是其 PWM 特性可能带来问题。",
+      "hn": {
+        "id": 50506719,
+        "type": "story",
+        "by": "MacAnorak",
+        "score": 424,
+        "descendants": 235,
+        "time": 1794748522,
+        "comments_url": "https://news.ycombinator.com/item?id=50506719"
+      },
+      "tags": [
+        "Hardware"
+      ],
+      "hot_score": 3.29
+    },
+    {
+      "title_en": "Vulcan rocket fails during return-to-flight launch, 40 Amazon satellites lost",
+      "url": "https://www.space.com/space-exploration/launches-spacecraft/ula-vulcan-centaur-return-to-flight-amazon-leo-internet-satellite-launch",
+      "title_zh": "Vulcan 火箭在复飞任务中发射失败，40 颗亚马逊卫星损失",
+      "is_new": true,
+      "created_display": "Created: Nov 15, 2026 / 12:37 PT",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/XL5t5tMQrJym2bu9ujg5Um-2560-80.jpg",
+      "summary_en": "United Launch Alliance’s Vulcan Centaur rocket suffered an anomaly about 10 minutes into its launch on November 15. The failure resulted in the loss of 40 Amazon internet satellites. The cause of the anomaly remains unclear.",
+      "summary_zh": "联合发射联盟公司的 Vulcan Centaur 火箭于 11 月 15 日发射约 10 分钟后发生异常。此次故障导致亚马逊的 40 颗互联网卫星损失。目前尚不清楚异常原因。",
+      "hn": {
+        "id": 50510442,
+        "type": "story",
+        "by": "jonbaer",
+        "score": 119,
+        "descendants": 64,
+        "time": 1794775048,
+        "comments_url": "https://news.ycombinator.com/item?id=50510442"
+      },
+      "hot_score": 3.15,
+      "tags": [
+        "Space"
+      ]
     },
     {
       "title_en": "Lutnick Pushed to Weaken Chip Rules That Overlap with His Family Business",
       "url": "https://www.nytimes.com/2026/11/15/us/politics/lutnick-pushed-to-weaken-chip-rules-that-overlap-with-his-family-business.html",
       "title_zh": "Lutnick 被推动削弱与其家族企业业务重叠的芯片规则",
-      "is_new": true,
+      "is_new": false,
       "created_display": "Created: Nov 15, 2026 / 03:40 PT",
       "image_url": null,
       "summary_en": "The item concerns Lutnick being pushed to weaken chip rules that overlap with his family's business. It describes a potential conflict between semiconductor regulations and the interests of that family business.",
@@ -106,23 +296,308 @@
         "id": 50506180,
         "type": "story",
         "by": "JumpCrisscross",
-        "score": 160,
-        "descendants": 58,
+        "score": 463,
+        "descendants": 207,
         "time": 1794742851,
         "comments_url": "https://news.ycombinator.com/item?id=50506180"
       },
-      "hot_score": 5.62,
       "tags": [
         "Politics",
         "Business",
         "Hardware"
+      ],
+      "hot_score": 3.0
+    },
+    {
+      "title_en": "A short explainer on how El Niño works [video]",
+      "url": "https://www.youtube.com/watch?v=7_JF3etiAv8",
+      "title_zh": "简明视频解释厄尔尼诺如何运作",
+      "is_new": true,
+      "created_display": "Created: Nov 15, 2026 / 10:23 PT",
+      "image_url": null,
+      "summary_en": "A short video explains how El Niño works.",
+      "summary_zh": "一段简短视频解释了厄尔尼诺现象如何运作。",
+      "hn": {
+        "id": 50509308,
+        "type": "story",
+        "by": "nharada",
+        "score": 176,
+        "descendants": 78,
+        "time": 1794767001,
+        "comments_url": "https://news.ycombinator.com/item?id=50509308"
+      },
+      "hot_score": 2.92,
+      "tags": [
+        "Science"
+      ]
+    },
+    {
+      "title_en": "Handwriting, as a Font",
+      "url": "https://ductus.sorenblank.com",
+      "title_zh": "把手写字迹变成字体",
+      "is_new": true,
+      "created_display": "Created: Nov 15, 2026 / 11:42 PT",
+      "image_url": "https://ductus.sorenblank.com/opengraph-image.png?opengraph-image.3-4qkqxu0b7tg.png",
+      "summary_en": "This browser tool turns a user’s handwriting into a font. Users write each letter in the browser and download the result as OTF or WOFF2. No account or upload is required, and the letters remain on the device.",
+      "summary_zh": "这个浏览器工具可以将用户的手写字迹转换为字体。用户在浏览器中书写每个字母，然后下载 OTF 或 WOFF2 格式的字体。它无需账户或上传，字母会保留在设备上。",
+      "hn": {
+        "id": 50509972,
+        "type": "story",
+        "by": "coinfused",
+        "score": 128,
+        "descendants": 33,
+        "time": 1794771733,
+        "comments_url": "https://news.ycombinator.com/item?id=50509972"
+      },
+      "hot_score": 2.75,
+      "tags": [
+        "Design",
+        "Web"
+      ]
+    },
+    {
+      "title_en": "Coles hit by a cybersecurity incident",
+      "url": "https://www.colesgroup.com.au/updates/",
+      "title_zh": "Coles 遭遇网络安全事件",
+      "is_new": true,
+      "created_display": "Created: Nov 15, 2026 / 17:14 PT",
+      "image_url": "https://www.colesgroup.com.au/FormBuilder/_Resource/_module/ir5sKeTxxEOndzdh00hWJw/images/coles-logo.svg",
+      "summary_en": "Coles has been hit by a cybersecurity incident.",
+      "summary_zh": "Coles 遭遇了一起网络安全事件。",
+      "hn": {
+        "id": 50512824,
+        "type": "story",
+        "by": "sagunsh",
+        "score": 19,
+        "descendants": 6,
+        "time": 1794791675,
+        "comments_url": "https://news.ycombinator.com/item?id=50512824"
+      },
+      "hot_score": 2.71,
+      "tags": [
+        "Security"
+      ]
+    },
+    {
+      "title_en": "'Birdbrain' Is a Misnomer. Crows Make Decisions Faster Than We Can",
+      "url": "https://www.nytimes.com/2026/11/15/science/birdbrain-crows-birds-research-decision.html",
+      "title_zh": "“鸟脑”是个误称：乌鸦做决定比人类更快",
+      "is_new": true,
+      "created_display": "Created: Nov 15, 2026 / 09:53 PT",
+      "image_url": "https://static01.nyt.com/images/2026/11/05/multimedia/00SCI-TB-CROWS-01-tlwk/00SCI-TB-CROWS-01-tlwk-facebookJumbo.jpg",
+      "summary_en": "In a recent experiment, crows processed and responded to visual cues at twice the speed of humans and monkeys. The study, published in Science, provides a first quantitative measure of the neural speed of avian decision-making. The results show that the crows outperformed both human and nonhuman primate participants.",
+      "summary_zh": "在一项近期实验中，乌鸦处理并回应视觉线索的速度是人类和猴子的两倍。这项发表于《科学》的研究首次量化了鸟类决策的神经速度。结果显示，乌鸦的表现超过了人类和非人类灵长类参与者。",
+      "hn": {
+        "id": 50509023,
+        "type": "story",
+        "by": "gumby",
+        "score": 171,
+        "descendants": 124,
+        "time": 1794765211,
+        "comments_url": "https://news.ycombinator.com/item?id=50509023"
+      },
+      "hot_score": 2.59,
+      "tags": [
+        "Science"
+      ]
+    },
+    {
+      "title_en": "Boeing-Lockheed rocket fails mid-flight, destroys payload of Amazon satellites",
+      "url": "https://www.reuters.com/business/aerospace-defense/us-rocket-fails-after-launch-payload-amazon-internet-satellites-destroyed-2026-11-15/",
+      "title_zh": "波音—洛克希德火箭飞行中段失效，亚马逊卫星载荷被摧毁",
+      "is_new": true,
+      "created_display": "Created: Nov 15, 2026 / 13:38 PT",
+      "image_url": null,
+      "summary_en": "A Boeing-Lockheed rocket failed during flight after launch, destroying its payload of Amazon internet satellites.",
+      "summary_zh": "一枚波音—洛克希德火箭发射后在飞行途中失效，搭载的亚马逊互联网卫星载荷被摧毁。",
+      "hn": {
+        "id": 50511072,
+        "type": "story",
+        "by": "rexbee",
+        "score": 68,
+        "descendants": 47,
+        "time": 1794778691,
+        "comments_url": "https://news.ycombinator.com/item?id=50511072"
+      },
+      "hot_score": 2.32,
+      "tags": [
+        "Space"
+      ]
+    },
+    {
+      "title_en": "Mini.nvim Is Now on Tangled",
+      "url": "https://tangled.org/nvim-mini.org/mini.nvim",
+      "title_zh": "Mini.nvim 现已登陆 Tangled",
+      "is_new": true,
+      "created_display": "Created: Nov 15, 2026 / 15:55 PT",
+      "image_url": "https://ogre.tangled.network/card?payload=eyJ0eXBlIjoicmVwb3NpdG9yeSIsInJlcG9OYW1lIjoibWluaS5udmltIiwib3duZXJIYW5kbGUiOiJudmltLW1pbmkub3JnIiwic3RhcnMiOjMzLCJwdWxscyI6MCwiaXNzdWVzIjoxLCJjcmVhdGVkQXQiOiIyMDI2LTExLTE0VDEzOjQyOjExWiIsImF2YXRhclVybCI6Imh0dHBzOi8vdGFuZ2xlZC5vcmcvYXZhdGFyL2RpZCUzQXBsYyUzQXdtanJ4Y3IyenF2NDVsamN1b2locTVhYz9zaXplPTI1NiZmb3JtYXQ9anBlZyIsImxhbmd1YWdlcyI6W3siY29sb3IiOiIjMDAwMDgwIiwicGVyY2VudGFnZSI6MTAwfSx7ImNvbG9yIjoiIzg5ZTA1MSIsInBlcmNlbnRhZ2UiOjB9LHsiY29sb3IiOiIjNDI3ODE5IiwicGVyY2VudGFnZSI6MH0seyJjb2xvciI6IiMxZTRhZWMiLCJwZXJjZW50YWdlIjowfSx7ImNvbG9yIjoiIzE5OWY0YiIsInBlcmNlbnRhZ2UiOjB9XX0",
+      "summary_en": "Mini.nvim is a library of more than 45 independent Lua modules for improving the Neovim experience with minimal effort. The modules target Neovim 0.10 and later and share common configuration approaches and design principles.",
+      "summary_zh": "Mini.nvim 是一个包含 45 个以上独立 Lua 模块的库，旨在以尽可能少的配置改善 Neovim 使用体验。这些模块面向 Neovim 0.10 及更高版本，并采用统一的配置方式和设计原则。",
+      "hn": {
+        "id": 50512231,
+        "type": "story",
+        "by": "nerdypepper",
+        "score": 31,
+        "descendants": 8,
+        "time": 1794786941,
+        "comments_url": "https://news.ycombinator.com/item?id=50512231"
+      },
+      "hot_score": 2.29,
+      "tags": [
+        "Programming",
+        "Open Source"
+      ]
+    },
+    {
+      "title_en": "WebGL Flight Simulator with seed generated terrain",
+      "url": "https://baron.by.dai.studio/",
+      "title_zh": "使用种子生成地形的 WebGL 飞行模拟器",
+      "is_new": true,
+      "created_display": "Created: Nov 15, 2026 / 12:20 PT",
+      "image_url": "https://baron.by.dai.studio/og-image.png",
+      "summary_en": "This free browser game lets players take off, explore a procedurally generated world, and land safely. Players can choose a biplane, turboprop, or jet in the hangar. It is built with DAI Studio.",
+      "summary_zh": "这款免费的浏览器游戏允许玩家起飞、探索程序生成的世界，并安全降落。玩家可以在机库中选择双翼机、涡桨飞机或喷气式飞机。游戏使用 DAI Studio 构建。",
+      "hn": {
+        "id": 50510296,
+        "type": "story",
+        "by": "ranger_danger",
+        "score": 92,
+        "descendants": 11,
+        "time": 1794774005,
+        "comments_url": "https://news.ycombinator.com/item?id=50510296"
+      },
+      "hot_score": 2.27,
+      "tags": [
+        "Gaming",
+        "Web"
+      ]
+    },
+    {
+      "title_en": "Do House members' stock trades beat the market? A test of 8,900 trades",
+      "url": "https://arkanumdata.com/research/house-trades",
+      "title_zh": "众议员的股票交易能跑赢市场吗？对 8,900 笔交易的测试",
+      "is_new": true,
+      "created_display": "Created: Nov 15, 2026 / 11:46 PT",
+      "image_url": null,
+      "summary_en": "A study tests whether stock trades by members of the U.S. House of Representatives outperform the market, using a dataset of 8,900 trades.",
+      "summary_zh": "一项研究使用 8,900 笔交易的数据，检验美国众议院议员的股票交易是否能跑赢市场。",
+      "hn": {
+        "id": 50510005,
+        "type": "story",
+        "by": "Bluestein",
+        "score": 104,
+        "descendants": 114,
+        "time": 1794771962,
+        "comments_url": "https://news.ycombinator.com/item?id=50510005"
+      },
+      "hot_score": 2.26,
+      "tags": [
+        "Finance",
+        "Politics",
+        "Data"
+      ]
+    },
+    {
+      "title_en": "Show HN: The Last Complication, a Zachtronics-style watchmaking puzzle game",
+      "url": "https://lastcomplication.com/",
+      "title_zh": "Show HN：The Last Complication，一款 Zachtronics 风格的制表谜题游戏",
+      "is_new": true,
+      "created_display": "Created: Nov 15, 2026 / 14:48 PT",
+      "image_url": "https://lastcomplication.com/icon-512.png",
+      "summary_en": "The Last Complication is a puzzle game about building clock movements gear by gear. Its mechanics involve moving counters across a board according to numbered throws, with restrictions on how counters may pass one another.",
+      "summary_zh": "The Last Complication 是一款逐齿轮组装钟表机芯的谜题游戏。游戏机制要求玩家根据编号投掷结果在棋盘上移动计数器，并遵守计数器相互通过的限制。",
+      "hn": {
+        "id": 50511718,
+        "type": "story",
+        "by": "tdeangelis",
+        "score": 46,
+        "descendants": 6,
+        "time": 1794782932,
+        "comments_url": "https://news.ycombinator.com/item?id=50511718"
+      },
+      "hot_score": 2.24,
+      "tags": [
+        "Show HN",
+        "Gaming"
+      ]
+    },
+    {
+      "title_en": "Tor Project Issues Rapid-Response DoS-Defense Fix Amid Sustained DDoS Attack",
+      "url": "https://forum.torproject.org/t/security-release-0-4-9-17/22454",
+      "title_zh": "Tor 项目在持续 DDoS 攻击下紧急发布防 DoS 修复",
+      "is_new": true,
+      "created_display": "Created: Nov 15, 2026 / 16:21 PT",
+      "image_url": "https://forum.torproject.org/uploads/default/original/2X/d/d3424bed34f4ec18b2e99178c2801ba6dfb655d6.png",
+      "summary_en": "The Tor Project released version 0.4.9.17 with a series of security fixes. One particularly important change improves relay defenses against denial-of-service attacks related to IPv6 handling. The rapid-response release follows an ongoing DDoS attack that has affected most relay operators.",
+      "summary_zh": "Tor 项目发布了 0.4.9.17 版本，其中包含一系列安全修复。其中一项重要改动改进了中继节点针对 IPv6 处理相关拒绝服务攻击的防护。此次快速响应发布源于一场仍在持续的 DDoS 攻击，该攻击已影响大多数中继运营者。",
+      "hn": {
+        "id": 50512441,
+        "type": "story",
+        "by": "aillia",
+        "score": 23,
+        "descendants": 3,
+        "time": 1794788514,
+        "comments_url": "https://news.ycombinator.com/item?id=50512441"
+      },
+      "hot_score": 2.05,
+      "tags": [
+        "Security",
+        "Privacy"
+      ]
+    },
+    {
+      "title_en": "Emacs Is My Browser",
+      "url": "https://joshblais.com/blog/emacs-as-my-browser/",
+      "title_zh": "Emacs 是我的浏览器",
+      "is_new": false,
+      "created_display": "Created: Nov 15, 2026 / 07:21 PT",
+      "image_url": "https://joshblais.com/og-images/emacs-as-my-browser.png",
+      "summary_en": "The author has been using Emacs's EWW text-based browser more seriously as part of an effort to make Emacs the sole computing environment. After several days, EWW appeared sufficient for roughly 85–90% of browsing tasks, including many JavaScript-heavy sites. The author also says that EWW and other terminal browsers reduce the distractions and endless browsing loops common in modern graphical browsers.",
+      "summary_zh": "为了让 Emacs 成为唯一的计算环境，作者开始更认真地使用其文本浏览器 EWW。经过几天使用，作者认为 EWW 足以应对大约 85% 至 90% 的浏览需求，包括许多 JavaScript 密集型网站。作者还表示，EWW 及其他终端浏览器能减少现代图形浏览器中常见的干扰和无休止的浏览循环。",
+      "hn": {
+        "id": 50507553,
+        "type": "story",
+        "by": "nyc111",
+        "score": 182,
+        "descendants": 97,
+        "time": 1794756081,
+        "comments_url": "https://news.ycombinator.com/item?id=50507553"
+      },
+      "tags": [
+        "Programming",
+        "Culture",
+        "Web"
+      ],
+      "hot_score": 1.85
+    },
+    {
+      "title_en": "Chemical spills into drainage ditch at SpaceXAI in Southaven",
+      "url": "https://wreg.com/news/chemical-spills-into-drainage-ditch-at-spacexai-in-southaven/",
+      "title_zh": "SpaceXAI 南海文一处化学品泄漏至排水沟",
+      "is_new": true,
+      "created_display": "Created: Nov 15, 2026 / 15:12 PT",
+      "image_url": null,
+      "summary_en": "A chemical spill at SpaceXAI in Southaven entered a drainage ditch.",
+      "summary_zh": "SpaceXAI 位于南海文的设施发生化学品泄漏，流入一条排水沟。",
+      "hn": {
+        "id": 50511899,
+        "type": "story",
+        "by": "mikhael",
+        "score": 31,
+        "descendants": 10,
+        "time": 1794784358,
+        "comments_url": "https://news.ycombinator.com/item?id=50511899"
+      },
+      "hot_score": 1.72,
+      "tags": [
+        "Science"
       ]
     },
     {
       "title_en": "Things That Turbo Pascal Is Smaller Than (2011)",
       "url": "https://prog21.dadgum.com/116.html",
       "title_zh": "Turbo Pascal 比哪些东西还小（2011）",
-      "is_new": true,
+      "is_new": false,
       "created_display": "Created: Nov 15, 2026 / 05:44 PT",
       "image_url": null,
       "summary_en": "The piece uses Turbo Pascal 3 for MS-DOS as an example of compact, capable software. Released in September 1986, it combined a full Pascal compiler, commercially useful extensions, and a tightly integrated editor. It was also described as dramatically faster at building projects than Microsoft's compilers, illustrating the value of tools that let people implement ideas directly.",
@@ -131,67 +606,21 @@
         "id": 50506894,
         "type": "story",
         "by": "ksec",
-        "score": 61,
-        "descendants": 16,
+        "score": 205,
+        "descendants": 108,
         "time": 1794750256,
         "comments_url": "https://news.ycombinator.com/item?id=50506894"
       },
-      "hot_score": 4.25,
       "tags": [
         "Programming"
-      ]
-    },
-    {
-      "title_en": "Understanding Positional Embeddings in Modern LLMs",
-      "url": "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings",
-      "title_zh": "理解现代大语言模型中的位置嵌入",
-      "is_new": true,
-      "created_display": "Created: Nov 15, 2026 / 04:14 PT",
-      "image_url": "https://substackcdn.com/image/fetch/$s_!8RKL!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb461a2cb-11ab-474a-affe-0ee99e5a8782_2850x2777.png",
-      "summary_en": "This piece introduces the methods modern large language models use to represent token positions. It focuses on how positional information is encoded so that models can distinguish the order and location of tokens in a sequence.",
-      "summary_zh": "本文介绍现代大语言模型表示 token 位置的方法。文章重点说明模型如何编码位置信息，从而区分序列中各个 token 的顺序和位置。",
-      "hn": {
-        "id": 50506376,
-        "type": "story",
-        "by": "vismit2000",
-        "score": 84,
-        "descendants": 0,
-        "time": 1794744846,
-        "comments_url": "https://news.ycombinator.com/item?id=50506376"
-      },
-      "hot_score": 3.45,
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "title_en": "The Hypertext Transfer Protocol Status Code 483 (I'm Not a Freezer)",
-      "url": "https://datatracker.ietf.org/doc/draft-banffy-httpbis-not-a-freezer/",
-      "title_zh": "超文本传输协议状态码 483（我不是冷冻柜）",
-      "is_new": true,
-      "created_display": "Created: Nov 15, 2026 / 06:31 PT",
-      "image_url": "https://static.ietf.org/dt/12.83.2/ietf/images/ietf-logo-nor-white.svg",
-      "summary_en": "The document defines HTTP status code 483, “I'm Not a Freezer.” A server returns it when it understands a request requiring freezing or refrigeration capabilities but cannot provide them. It also distinguishes an actual freezer or refrigerator from a cold server, a frozen software process, and a service advertising “cold storage.”",
-      "summary_zh": "该文档定义了 HTTP 状态码 483：“我不是冷冻柜”。当服务器理解一个需要冷冻或制冷能力的请求、却无法提供这些能力时，就应返回此状态码。文档还区分了真正的冷冻柜或冰箱、低温运行的服务器、被冻结的软件进程，以及宣传“冷存储”的在线服务。",
-      "hn": {
-        "id": 50507206,
-        "type": "story",
-        "by": "rbanffy",
-        "score": 33,
-        "descendants": 14,
-        "time": 1794753112,
-        "comments_url": "https://news.ycombinator.com/item?id=50507206"
-      },
-      "hot_score": 3.26,
-      "tags": [
-        "Web"
-      ]
+      ],
+      "hot_score": 1.68
     },
     {
       "title_en": "Lovable apps expose passport details and more than 200K private messages",
       "url": "https://www.crissyfield.de/research/lovable-en/",
       "title_zh": "Lovable 应用暴露护照信息和超过 20 万条私人消息",
-      "is_new": true,
+      "is_new": false,
       "created_display": "Created: Nov 14, 2026 / 09:43 PT",
       "image_url": "https://www.crissyfield.de/images/research-lovable-opengraph.jpg",
       "summary_en": "An analysis of 159,041 Lovable projects found many cases in which personal and confidential information was accessible without logging in, including passport details and more than 200,000 private messages. Lovable is a Stockholm-based Swedish AI startup founded in 2023 by Anton Osika and Fabian Hedin, whose platform generates web applications from plain-language descriptions. The findings show that building applications with AI does not remove the need for careful handling of sensitive data.",
@@ -200,8 +629,8 @@
         "id": 50499017,
         "type": "story",
         "by": "armcat",
-        "score": 933,
-        "descendants": 355,
+        "score": 974,
+        "descendants": 372,
         "time": 1794678190,
         "comments_url": "https://news.ycombinator.com/item?id=50499017"
       },
@@ -210,36 +639,60 @@
         "Startups",
         "AI"
       ],
-      "hot_score": 2.97
+      "hot_score": 1.67
     },
     {
-      "title_en": "Why did some Apollo missions carry a grenade launcher?",
-      "url": "https://space.stackexchange.com/questions/37775",
-      "title_zh": "为什么有些阿波罗任务携带了榴弹发射器？",
+      "title_en": "Clice v1.0 Released: Welcome to Modern C++",
+      "url": "https://ykiko.me/en/articles/2105384023094834022/",
+      "title_zh": "Clice 1.0 发布：欢迎来到现代 C++",
       "is_new": true,
-      "created_display": "Created: Nov 15, 2026 / 01:06 PT",
-      "image_url": null,
-      "summary_en": "The item asks why some Apollo missions carried a grenade launcher. It concerns the equipment taken on selected Apollo missions and the purpose that launcher served.",
-      "summary_zh": "该条目询问，为什么有些阿波罗任务会携带榴弹发射器。问题涉及部分阿波罗任务携带的设备，以及这种发射器的用途。",
+      "created_display": "Created: Nov 15, 2026 / 09:22 PT",
+      "image_url": "https://www.ykiko.me/en/articles/2105384023094834022/featured.png",
+      "summary_en": "Clice has reached its first stable release after surpassing 1,000 commits and undergoing about four months of alpha testing since July 19, 2026. The project’s author reports extensive testing across open-source projects and says its core features are now stable for everyday use. The release follows two and a half years of development.",
+      "summary_zh": "Clice 在提交数超过 1,000 次、并自 2026 年 7 月 19 日起经历约四个月 alpha 测试后，发布了首个稳定版本。项目作者表示，它已在多个开源项目上进行了广泛测试，核心功能现已适合日常使用。此次发布源于两年半的开发工作。",
       "hn": {
-        "id": 50505271,
+        "id": 50508715,
         "type": "story",
-        "by": "Skyfall106",
-        "score": 133,
-        "descendants": 85,
-        "time": 1794733603,
-        "comments_url": "https://news.ycombinator.com/item?id=50505271"
+        "by": "molenzwiebel",
+        "score": 105,
+        "descendants": 69,
+        "time": 1794763352,
+        "comments_url": "https://news.ycombinator.com/item?id=50508715"
       },
-      "hot_score": 2.54,
+      "hot_score": 1.45,
       "tags": [
-        "Space"
+        "Programming",
+        "Open Source"
       ]
+    },
+    {
+      "title_en": "Understanding Positional Embeddings in Modern LLMs",
+      "url": "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings",
+      "title_zh": "理解现代大语言模型中的位置嵌入",
+      "is_new": false,
+      "created_display": "Created: Nov 15, 2026 / 04:14 PT",
+      "image_url": "https://substackcdn.com/image/fetch/$s_!8RKL!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb461a2cb-11ab-474a-affe-0ee99e5a8782_2850x2777.png",
+      "summary_en": "This piece introduces the methods modern large language models use to represent token positions. It focuses on how positional information is encoded so that models can distinguish the order and location of tokens in a sequence.",
+      "summary_zh": "本文介绍现代大语言模型表示 token 位置的方法。文章重点说明模型如何编码位置信息，从而区分序列中各个 token 的顺序和位置。",
+      "hn": {
+        "id": 50506376,
+        "type": "story",
+        "by": "vismit2000",
+        "score": 205,
+        "descendants": 27,
+        "time": 1794744846,
+        "comments_url": "https://news.ycombinator.com/item?id=50506376"
+      },
+      "tags": [
+        "AI"
+      ],
+      "hot_score": 1.41
     },
     {
       "title_en": "Court denies motion to dismiss DRAM price fixing case",
       "url": "https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal",
       "title_zh": "法院驳回 DRAM 价格操纵案的撤诉申请",
-      "is_new": true,
+      "is_new": false,
       "created_display": "Created: Nov 14, 2026 / 17:18 PT",
       "image_url": "https://litnews.ai/og/default.png",
       "summary_en": "A federal judge refused to dismiss a proposed class action accusing Samsung, SK Hynix, and Micron of conspiring to restrict conventional DRAM supply and shift capacity toward HBM. Judge Noël Wise found that buyers had plausibly alleged an agreement violating Section 1 of the Sherman Act. The allegations have been accepted only for this procedural stage and have not been proven.",
@@ -248,46 +701,93 @@
         "id": 50502988,
         "type": "story",
         "by": "ybathaee",
-        "score": 352,
-        "descendants": 147,
+        "score": 492,
+        "descendants": 219,
         "time": 1794705516,
         "comments_url": "https://news.ycombinator.com/item?id=50502988"
       },
-      "hot_score": 2.19,
       "tags": [
         "Legal",
         "Business"
+      ],
+      "hot_score": 1.32
+    },
+    {
+      "title_en": "Why did some Apollo missions carry a grenade launcher? (2019)",
+      "url": "https://space.stackexchange.com/questions/37775",
+      "title_zh": "为什么有些阿波罗任务携带了榴弹发射器？",
+      "is_new": false,
+      "created_display": "Created: Nov 15, 2026 / 01:06 PT",
+      "image_url": null,
+      "summary_en": "The item asks why some Apollo missions carried a grenade launcher. It concerns the equipment taken on selected Apollo missions and the purpose that launcher served.",
+      "summary_zh": "该条目询问，为什么有些阿波罗任务会携带榴弹发射器。问题涉及部分阿波罗任务携带的设备，以及这种发射器的用途。",
+      "hn": {
+        "id": 50505271,
+        "type": "story",
+        "by": "Skyfall106",
+        "score": 233,
+        "descendants": 147,
+        "time": 1794733603,
+        "comments_url": "https://news.ycombinator.com/item?id=50505271"
+      },
+      "tags": [
+        "Space"
+      ],
+      "hot_score": 1.16
+    },
+    {
+      "title_en": "Eclipse Mosquitto – An open source MQTT broker",
+      "url": "https://github.com/eclipse-mosquitto/mosquitto",
+      "title_zh": "Eclipse Mosquitto：开源 MQTT 代理",
+      "is_new": true,
+      "created_display": "Created: Nov 15, 2026 / 10:36 PT",
+      "image_url": "https://repository-images.githubusercontent.com/53614190/b11dd480-90b3-11eb-903d-8c48f62e3172",
+      "summary_en": "Eclipse Mosquitto is an open-source implementation of an MQTT broker supporting MQTT versions 5.0, 3.1.1, and 3.1. It also provides C and C++ client libraries and command-line tools for publishing, subscribing, and administering the broker.",
+      "summary_zh": "Eclipse Mosquitto 是一个开源 MQTT 代理实现，支持 MQTT 5.0、3.1.1 和 3.1 版本。它还提供 C 和 C++ 客户端库，以及用于发布、订阅和管理代理的命令行工具。",
+      "hn": {
+        "id": 50509416,
+        "type": "story",
+        "by": "gregsadetsky",
+        "score": 66,
+        "descendants": 28,
+        "time": 1794767800,
+        "comments_url": "https://news.ycombinator.com/item?id=50509416"
+      },
+      "hot_score": 1.13,
+      "tags": [
+        "Open Source",
+        "Programming"
       ]
     },
     {
-      "title_en": "A NES emulator written in Odin",
-      "url": "https://lucypero.com/lucynes.html",
-      "title_zh": "用 Odin 编写的 NES 模拟器",
+      "title_en": "Huang Discusses Comeback as Nvidia Chief with Allies, FT Says",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-15/huang-discusses-comeback-as-nvidia-chief-with-allies-ft-says",
+      "title_zh": "《金融时报》称黄仁勋与盟友讨论回归英伟达担任 CEO",
       "is_new": true,
-      "created_display": "Created: Nov 15, 2026 / 04:51 PT",
-      "image_url": "https://lucypero.com/assets/images/lucynes/src_Dn6Bdt7DGO.png",
-      "summary_en": "The author built a Nintendo Entertainment System emulator in Odin, starting the project in late June 2024 as a part-time effort. Work was paused in January 2025 so the author could focus on other things. The project was enjoyable but became more difficult toward the end while pursuing full emulation accuracy.",
-      "summary_zh": "作者用 Odin 编写了一个任天堂 NES 模拟器，并于 2024 年 6 月下旬开始利用业余时间开发。项目在 2025 年 1 月暂停，以便作者投入其他事务。整个过程充满乐趣，但在追求完全准确的模拟时，后期变得更加困难。",
+      "created_display": "Created: Nov 15, 2026 / 14:53 PT",
+      "image_url": null,
+      "summary_en": "Jensen Huang has reportedly discussed returning as Nvidia’s chief executive with allies.",
+      "summary_zh": "据报道，黄仁勋已与盟友讨论回归英伟达担任首席执行官。",
       "hn": {
-        "id": 50506588,
+        "id": 50511763,
         "type": "story",
-        "by": "frostbyte7",
-        "score": 43,
-        "descendants": 3,
-        "time": 1794747107,
-        "comments_url": "https://news.ycombinator.com/item?id=50506588"
+        "by": "nstj",
+        "score": 20,
+        "descendants": 1,
+        "time": 1794783231,
+        "comments_url": "https://news.ycombinator.com/item?id=50511763"
       },
-      "hot_score": 2.14,
+      "hot_score": 0.97,
       "tags": [
-        "Programming",
-        "Gaming"
+        "Business",
+        "Career"
       ]
     },
     {
       "title_en": "We're Asking an Appeals Court to Require a Warrant for ALPR Searches",
       "url": "https://www.eff.org/deeplinks/2026/11/were-asking-appeals-court-require-warrant-alpr-searches",
       "title_zh": "我们请求上诉法院要求 ALPR 搜索取得搜查令",
-      "is_new": true,
+      "is_new": false,
       "created_display": "Created: Nov 14, 2026 / 18:00 PT",
       "image_url": "https://www.eff.org/files/banner_library/siren_v._san_jose.png",
       "summary_en": "The request asks an appeals court to require a warrant for searches using automated license plate readers. The argument is that ALPR systems can let law enforcement review a person's past movements, rather than merely observe one license plate on a passing car. Their ability to search historical location records is therefore presented as materially different from ordinary roadside observation.",
@@ -296,47 +796,46 @@
         "id": 50503255,
         "type": "story",
         "by": "nobody9999",
-        "score": 294,
-        "descendants": 89,
+        "score": 338,
+        "descendants": 122,
         "time": 1794708054,
         "comments_url": "https://news.ycombinator.com/item?id=50503255"
       },
-      "hot_score": 1.98,
       "tags": [
         "Privacy",
         "Legal"
-      ]
+      ],
+      "hot_score": 0.95
     },
     {
-      "title_en": "A Human Reads the Anthropic IPO Filing",
-      "url": "https://www.nytimes.com/2026/11/15/business/anthropic-ipo-filing-prospectus.html",
-      "title_zh": "一个人阅读 Anthropic 的 IPO 文件",
-      "is_new": true,
-      "created_display": "Created: Nov 15, 2026 / 07:18 PT",
-      "image_url": null,
-      "summary_en": "The item presents a human reading of Anthropic's filing for an initial public offering. It focuses on the company's IPO prospectus and the information contained in that filing.",
-      "summary_zh": "该条目由一名读者解读 Anthropic 提交的首次公开募股文件。内容聚焦于公司的 IPO 招股说明书及其中披露的信息。",
+      "title_en": "A NES emulator written in Odin",
+      "url": "https://lucypero.com/lucynes.html",
+      "title_zh": "用 Odin 编写的 NES 模拟器",
+      "is_new": false,
+      "created_display": "Created: Nov 15, 2026 / 04:51 PT",
+      "image_url": "https://lucypero.com/assets/images/lucynes/src_Dn6Bdt7DGO.png",
+      "summary_en": "The author built a Nintendo Entertainment System emulator in Odin, starting the project in late June 2024 as a part-time effort. Work was paused in January 2025 so the author could focus on other things. The project was enjoyable but became more difficult toward the end while pursuing full emulation accuracy.",
+      "summary_zh": "作者用 Odin 编写了一个任天堂 NES 模拟器，并于 2024 年 6 月下旬开始利用业余时间开发。项目在 2025 年 1 月暂停，以便作者投入其他事务。整个过程充满乐趣，但在追求完全准确的模拟时，后期变得更加困难。",
       "hn": {
-        "id": 50507517,
+        "id": 50506588,
         "type": "story",
-        "by": "saikatsg",
-        "score": 10,
-        "descendants": 6,
-        "time": 1794755886,
-        "comments_url": "https://news.ycombinator.com/item?id=50507517"
+        "by": "frostbyte7",
+        "score": 109,
+        "descendants": 42,
+        "time": 1794747107,
+        "comments_url": "https://news.ycombinator.com/item?id=50506588"
       },
-      "hot_score": 1.42,
       "tags": [
-        "Business",
-        "Finance",
-        "AI"
-      ]
+        "Programming",
+        "Gaming"
+      ],
+      "hot_score": 0.8
     },
     {
       "title_en": "KDE: The documentary [video]",
       "url": "https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c",
       "title_zh": "KDE：纪录片 [视频]",
-      "is_new": true,
+      "is_new": false,
       "created_display": "Created: Nov 14, 2026 / 05:43 PT",
       "image_url": "https://tube.kockatoo.org/lazy-static/thumbnails/02935b80-28d9-4fd7-bc33-9d0cb76f2e80.webp",
       "summary_en": "KDE: The Documentary tells the story of the open-source community that emerged in 1996 to offer computer users a free alternative to proprietary desktops such as Windows. It traces the origins and development of KDE as a pioneering desktop project.",
@@ -345,8 +844,8 @@
         "id": 50496976,
         "type": "story",
         "by": "mrkn1",
-        "score": 539,
-        "descendants": 122,
+        "score": 562,
+        "descendants": 133,
         "time": 1794663808,
         "comments_url": "https://news.ycombinator.com/item?id=50496976"
       },
@@ -354,61 +853,13 @@
         "Open Source",
         "Culture"
       ],
-      "hot_score": 1.31
-    },
-    {
-      "title_en": "How did Woz write the Apple 1 BASIC before building the computer?",
-      "url": "https://retrocomputing.stackexchange.com/questions/17957",
-      "title_zh": "Woz 在造出 Apple 1 之前是如何编写 BASIC 的？",
-      "is_new": true,
-      "created_display": "Created: Nov 14, 2026 / 14:22 PT",
-      "image_url": null,
-      "summary_en": "The piece asks how Steve Wozniak wrote the Apple 1 BASIC interpreter before building the Apple 1 computer. It focuses on the relationship between the software and the hardware that followed.",
-      "summary_zh": "这篇内容提出了一个问题：Steve Wozniak 在制造 Apple 1 电脑之前，是如何编写 Apple 1 BASIC 解释器的？主题聚焦于这套软件与后来硬件之间的关系。",
-      "hn": {
-        "id": 50501594,
-        "type": "story",
-        "by": "Skyfall106",
-        "score": 268,
-        "descendants": 141,
-        "time": 1794694969,
-        "comments_url": "https://news.ycombinator.com/item?id=50501594"
-      },
-      "tags": [
-        "Programming",
-        "Hardware"
-      ],
-      "hot_score": 1.25
-    },
-    {
-      "title_en": "Book list for streetfighting computer scientists",
-      "url": "https://nick-black.com/dankwiki/index.php?title=Book_list_for_streetfighting_computer_scientists",
-      "title_zh": "街头格斗计算机科学家的书单",
-      "is_new": true,
-      "created_display": "Created: Nov 14, 2026 / 23:08 PT",
-      "image_url": "https://nick-black.com/dankwiki/resources/assets/orca.jpg",
-      "summary_en": "This 2025 book list intentionally differs from conventional “best books for programmers” recommendations. It emphasizes books the author believes computer scientists should read to understand the systems and ideas behind their work, rather than focusing on standard programming advice. The author also presents C and C++ as broadly implemented lingua francas and describes Rust as useful for writing and reading code.",
-      "summary_zh": "这份 2025 年书单有意区别于常见的“程序员最佳读物”推荐。它更重视作者认为计算机科学家应阅读的、帮助理解系统及其背后思想的书，而不是常规编程建议。作者还将 C 和 C++ 视为广泛实现的通用语言，并认为 Rust 适合编写和阅读代码。",
-      "hn": {
-        "id": 50504718,
-        "type": "story",
-        "by": "num42",
-        "score": 93,
-        "descendants": 36,
-        "time": 1794726530,
-        "comments_url": "https://news.ycombinator.com/item?id=50504718"
-      },
-      "hot_score": 1.24,
-      "tags": [
-        "Education",
-        "Programming"
-      ]
+      "hot_score": 0.79
     },
     {
       "title_en": "A family tree of software job titles",
       "url": "https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/",
       "title_zh": "软件岗位名称家谱",
-      "is_new": true,
+      "is_new": false,
       "created_display": "Created: Nov 14, 2026 / 09:45 PT",
       "image_url": "https://raw.githubusercontent.com/ianmiell/sw-job-title-family-tree/main/job_title_family_tree.png",
       "summary_en": "A software job-title family tree traces how similar work has been labeled over time, from DevOps to SRE and platform engineering. Its creator assembled the map with help from Claude, covering titles from the 1940s to the present.",
@@ -417,8 +868,8 @@
         "id": 50499038,
         "type": "story",
         "by": "umerf",
-        "score": 381,
-        "descendants": 189,
+        "score": 438,
+        "descendants": 215,
         "time": 1794678319,
         "comments_url": "https://news.ycombinator.com/item?id=50499038"
       },
@@ -428,13 +879,60 @@
         "AI",
         "DevOps"
       ],
-      "hot_score": 1.22
+      "hot_score": 0.75
+    },
+    {
+      "title_en": "How did Woz write the Apple 1 BASIC before building the computer? (2021)",
+      "url": "https://retrocomputing.stackexchange.com/questions/17957",
+      "title_zh": "Woz 在造出 Apple 1 之前是如何编写 BASIC 的？",
+      "is_new": false,
+      "created_display": "Created: Nov 14, 2026 / 14:22 PT",
+      "image_url": null,
+      "summary_en": "The piece asks how Steve Wozniak wrote the Apple 1 BASIC interpreter before building the Apple 1 computer. It focuses on the relationship between the software and the hardware that followed.",
+      "summary_zh": "这篇内容提出了一个问题：Steve Wozniak 在制造 Apple 1 电脑之前，是如何编写 Apple 1 BASIC 解释器的？主题聚焦于这套软件与后来硬件之间的关系。",
+      "hn": {
+        "id": 50501594,
+        "type": "story",
+        "by": "Skyfall106",
+        "score": 311,
+        "descendants": 168,
+        "time": 1794694969,
+        "comments_url": "https://news.ycombinator.com/item?id=50501594"
+      },
+      "tags": [
+        "Programming",
+        "Hardware"
+      ],
+      "hot_score": 0.69
+    },
+    {
+      "title_en": "The Hypertext Transfer Protocol Status Code 483 (I'm Not a Freezer)",
+      "url": "https://datatracker.ietf.org/doc/draft-banffy-httpbis-not-a-freezer/",
+      "title_zh": "超文本传输协议状态码 483（我不是冷冻柜）",
+      "is_new": false,
+      "created_display": "Created: Nov 15, 2026 / 06:31 PT",
+      "image_url": "https://static.ietf.org/dt/12.83.2/ietf/images/ietf-logo-nor-white.svg",
+      "summary_en": "The document defines HTTP status code 483, “I'm Not a Freezer.” A server returns it when it understands a request requiring freezing or refrigeration capabilities but cannot provide them. It also distinguishes an actual freezer or refrigerator from a cold server, a frozen software process, and a service advertising “cold storage.”",
+      "summary_zh": "该文档定义了 HTTP 状态码 483：“我不是冷冻柜”。当服务器理解一个需要冷冻或制冷能力的请求、却无法提供这些能力时，就应返回此状态码。文档还区分了真正的冷冻柜或冰箱、低温运行的服务器、被冻结的软件进程，以及宣传“冷存储”的在线服务。",
+      "hn": {
+        "id": 50507206,
+        "type": "story",
+        "by": "rbanffy",
+        "score": 74,
+        "descendants": 46,
+        "time": 1794753112,
+        "comments_url": "https://news.ycombinator.com/item?id=50507206"
+      },
+      "tags": [
+        "Web"
+      ],
+      "hot_score": 0.67
     },
     {
       "title_en": "My favourite modern NES games",
       "url": "https://jordi.inversethought.com/blog/25-of-my-favourite-modern-nes-games/",
       "title_zh": "我最喜欢的现代 NES 游戏",
-      "is_new": true,
+      "is_new": false,
       "created_display": "Created: Nov 14, 2026 / 18:41 PT",
       "image_url": "https://jordi.inversethought.com/wp-content/uploads/2026/11/image-14.png",
       "summary_en": "The author says the NES is experiencing a second renaissance, powered by decades of accumulated knowledge about the console's hardware. The Nintendo Entertainment System continues to receive many new third-party games. The piece presents a personal selection of favorite modern NES titles.",
@@ -443,45 +941,94 @@
         "id": 50503465,
         "type": "story",
         "by": "jordigh",
-        "score": 163,
-        "descendants": 22,
+        "score": 200,
+        "descendants": 40,
         "time": 1794710485,
         "comments_url": "https://news.ycombinator.com/item?id=50503465"
       },
-      "hot_score": 1.18,
       "tags": [
         "Gaming",
         "Hardware"
+      ],
+      "hot_score": 0.59
+    },
+    {
+      "title_en": "Book list for streetfighting computer scientists",
+      "url": "https://nick-black.com/dankwiki/index.php?title=Book_list_for_streetfighting_computer_scientists",
+      "title_zh": "街头格斗计算机科学家的书单",
+      "is_new": false,
+      "created_display": "Created: Nov 14, 2026 / 23:08 PT",
+      "image_url": "https://nick-black.com/dankwiki/resources/assets/orca.jpg",
+      "summary_en": "This 2025 book list intentionally differs from conventional “best books for programmers” recommendations. It emphasizes books the author believes computer scientists should read to understand the systems and ideas behind their work, rather than focusing on standard programming advice. The author also presents C and C++ as broadly implemented lingua francas and describes Rust as useful for writing and reading code.",
+      "summary_zh": "这份 2025 年书单有意区别于常见的“程序员最佳读物”推荐。它更重视作者认为计算机科学家应阅读的、帮助理解系统及其背后思想的书，而不是常规编程建议。作者还将 C 和 C++ 视为广泛实现的通用语言，并认为 Rust 适合编写和阅读代码。",
+      "hn": {
+        "id": 50504718,
+        "type": "story",
+        "by": "num42",
+        "score": 127,
+        "descendants": 41,
+        "time": 1794726530,
+        "comments_url": "https://news.ycombinator.com/item?id=50504718"
+      },
+      "tags": [
+        "Education",
+        "Programming"
+      ],
+      "hot_score": 0.53
+    },
+    {
+      "title_en": "Magic: The Gathering is getting a Netflix series",
+      "url": "https://www.theverge.com/entertainment/1033909/magic-the-gathering-netflix-series",
+      "title_zh": "《万智牌》将推出 Netflix 剧集",
+      "is_new": true,
+      "created_display": "Created: Nov 15, 2026 / 14:42 PT",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/IefaLy5uPLc-HD.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+      "summary_en": "The animated series Magic: The Gathering: Planeswalker is scheduled to debut on Netflix in 2027. The project was first teased in 2019 with Joe and Anthony Russo attached, but that version fell apart. Netflix later announced in 2024 that it would rework the series from the ground up.",
+      "summary_zh": "动画剧集《万智牌：Planeswalker》计划于 2027 年在 Netflix 首播。该项目最早于 2019 年公布，当时由乔·罗素和安东尼·罗素参与，但那一版本后来搁置。Netflix 于 2024 年宣布将从头重新制作这部剧集。",
+      "hn": {
+        "id": 50511648,
+        "type": "story",
+        "by": "Gaishan",
+        "score": 11,
+        "descendants": 0,
+        "time": 1794782529,
+        "comments_url": "https://news.ycombinator.com/item?id=50511648"
+      },
+      "hot_score": 0.48,
+      "tags": [
+        "Entertainment",
+        "Culture"
       ]
     },
     {
-      "title_en": "Disk encryption on NetBSD – achieving secrecy",
-      "url": "https://netbsd.org/~nia/disk-encrypt/",
-      "title_zh": "NetBSD 磁盘加密：实现机密性",
+      "title_en": "'It's like the Wild West': how AI has rocked the literary world",
+      "url": "https://www.theguardian.com/books/ng-interactive/2026/nov/14/its-like-the-wild-west-how-ai-has-rocked-the-literary-world",
+      "title_zh": "“像狂野西部”：AI 如何撼动文学界",
       "is_new": true,
-      "created_display": "Created: Nov 14, 2026 / 21:29 PT",
-      "image_url": "https://netbsd.org/~nia/disk-encrypt/installer1.png",
-      "summary_en": "The document describes threat models for which disk encryption is an appropriate defense. One explicitly identified case is a device being stolen or lost while its contents must remain secret. The focus is on protecting stored data from disclosure when physical control of the device is lost.",
-      "summary_zh": "该文档介绍了适合使用磁盘加密进行防护的威胁模型。其中一个明确场景是设备丢失或被盗，但其中的数据仍必须保密。重点是当设备不再由用户实际控制时，防止存储内容泄露。",
+      "created_display": "Created: Nov 15, 2026 / 16:52 PT",
+      "image_url": "https://i.guim.co.uk/img/media/b8a39bdb32dea0bb0e41f2a5aa45ffef61974668/725_1297_5935_4748/master/5935.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=117c27a2f9da3e1c4f06abfc82b06ffb",
+      "summary_en": "Accusations of AI use are disrupting publishing, with authors losing lucrative deals and writers being removed from prize shortlists. Romance novelist Coral Hart says she has written 370 novels under 21 pen names using AI since 2025, earning a high six-figure income. Kindle Unlimited’s algorithm rewards prolific output, encouraging writers to publish at least one book a month.",
+      "summary_zh": "有关使用 AI 的指控正在扰乱出版业，一些作者失去高收入合同，作家也被从文学奖入围名单中撤下。言情小说家 Coral Hart 表示，自 2025 年以来，她使用 AI 以 21 个笔名创作了 370 部小说，收入达到六位数高位。Kindle Unlimited 的算法奖励高产作者，促使作家至少每月出版一本书。",
       "hn": {
-        "id": 50504277,
+        "id": 50512682,
         "type": "story",
-        "by": "jaypatelani",
-        "score": 74,
-        "descendants": 15,
-        "time": 1794720594,
-        "comments_url": "https://news.ycombinator.com/item?id=50504277"
+        "by": "Archelaos",
+        "score": 5,
+        "descendants": 1,
+        "time": 1794790320,
+        "comments_url": "https://news.ycombinator.com/item?id=50512682"
       },
-      "hot_score": 0.76,
+      "hot_score": 0.48,
       "tags": [
-        "Security"
+        "AI",
+        "Culture"
       ]
     },
     {
       "title_en": "PyPI's redesigned project pages with clearer security signals are now live",
       "url": "https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/",
       "title_zh": "PyPI 重设计的项目页面现已上线，安全信号更加清晰",
-      "is_new": true,
+      "is_new": false,
       "created_display": "Created: Nov 14, 2026 / 07:40 PT",
       "image_url": "https://blog.pypi.org/assets/images/social/posts/2026-11-06-ui-updates-complete.png",
       "summary_en": "PyPI has completed and launched its redesigned project pages. The new interface adds a dedicated security tab, a rebuilt release-files tab, and refreshed documentation to make package details and release-file provenance easier to inspect. The changes were shaped by user research with members of the Python community.",
@@ -490,8 +1037,8 @@
         "id": 50497892,
         "type": "story",
         "by": "rbanffy",
-        "score": 262,
-        "descendants": 117,
+        "score": 272,
+        "descendants": 129,
         "time": 1794670852,
         "comments_url": "https://news.ycombinator.com/item?id=50497892"
       },
@@ -499,38 +1046,13 @@
         "Security",
         "Programming"
       ],
-      "hot_score": 0.72
-    },
-    {
-      "title_en": "Kiri – The Modern Container Runtime",
-      "url": "https://runkiri.com/",
-      "title_zh": "Kiri：现代容器运行时",
-      "is_new": true,
-      "created_display": "Created: Nov 14, 2026 / 20:40 PT",
-      "image_url": "https://runkiri.com/assets/og-image.png?v=2",
-      "summary_en": "Kiri is a container runtime and Docker Desktop alternative for macOS, Windows, and Linux, built around a single Rust daemon. It works with the Docker CLI, Compose, and Docker API, and reports a 22 ms `docker run` time on a Mac. The cited comparison gives Docker Desktop 178 ms, Colima 152 ms, and OrbStack 279 ms under the same two-CPU, 8 GB setup.",
-      "summary_zh": "Kiri 是面向 macOS、Windows 和 Linux 的容器运行时及 Docker Desktop 替代品，采用单一 Rust 守护进程。它兼容 Docker CLI、Compose 和 Docker API，并称在 Mac 上执行 `docker run` 只需 22 毫秒。在相同的双 CPU、8 GB 配置下，给出的对比数据为 Docker Desktop 178 毫秒、Colima 152 毫秒、OrbStack 279 毫秒。",
-      "hn": {
-        "id": 50504077,
-        "type": "story",
-        "by": "nikolay",
-        "score": 77,
-        "descendants": 32,
-        "time": 1794717641,
-        "comments_url": "https://news.ycombinator.com/item?id=50504077"
-      },
-      "hot_score": 0.71,
-      "tags": [
-        "Programming",
-        "DevOps",
-        "Hardware"
-      ]
+      "hot_score": 0.42
     },
     {
       "title_en": "Show HN: DeepSeek V3 in ~200 lines of pure Jax",
       "url": "https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax",
       "title_zh": "Show HN：用约 200 行纯 JAX 实现 DeepSeek V3",
-      "is_new": true,
+      "is_new": false,
       "created_display": "Created: Nov 14, 2026 / 07:04 PT",
       "image_url": "https://opengraph.githubassets.com/a2c3dca3eaeb658f86d21e01f92174195da0715f523df3a23b792230da4ae76a/Vaibhaav-Tiwari/deepseek-v3-jax",
       "summary_en": "A project implements the DeepSeek-V3 architecture in 190 lines of pure JAX, including MLA, DeepSeekMoE, auxiliary-loss-free balancing, and multi-token prediction. The model was pretrained from scratch on a MacBook Air using public-domain detective fiction, without PyTorch, Flax, or Equinox. Its parameters are plain dictionaries of arrays, and the implementation is organized as readable functions.",
@@ -539,8 +1061,8 @@
         "id": 50497589,
         "type": "story",
         "by": "VaibhaavTiwari",
-        "score": 257,
-        "descendants": 23,
+        "score": 272,
+        "descendants": 27,
         "time": 1794668655,
         "comments_url": "https://news.ycombinator.com/item?id=50497589"
       },
@@ -548,38 +1070,13 @@
         "Show HN",
         "Programming"
       ],
-      "hot_score": 0.68
-    },
-    {
-      "title_en": "Emacs Is My Browser",
-      "url": "https://joshblais.com/blog/emacs-as-my-browser/",
-      "title_zh": "Emacs 是我的浏览器",
-      "is_new": true,
-      "created_display": "Created: Nov 15, 2026 / 07:21 PT",
-      "image_url": "https://joshblais.com/og-images/emacs-as-my-browser.png",
-      "summary_en": "The author has been using Emacs's EWW text-based browser more seriously as part of an effort to make Emacs the sole computing environment. After several days, EWW appeared sufficient for roughly 85–90% of browsing tasks, including many JavaScript-heavy sites. The author also says that EWW and other terminal browsers reduce the distractions and endless browsing loops common in modern graphical browsers.",
-      "summary_zh": "为了让 Emacs 成为唯一的计算环境，作者开始更认真地使用其文本浏览器 EWW。经过几天使用，作者认为 EWW 足以应对大约 85% 至 90% 的浏览需求，包括许多 JavaScript 密集型网站。作者还表示，EWW 及其他终端浏览器能减少现代图形浏览器中常见的干扰和无休止的浏览循环。",
-      "hn": {
-        "id": 50507553,
-        "type": "story",
-        "by": "nyc111",
-        "score": 5,
-        "descendants": 0,
-        "time": 1794756081,
-        "comments_url": "https://news.ycombinator.com/item?id=50507553"
-      },
-      "hot_score": 0.66,
-      "tags": [
-        "Programming",
-        "Culture",
-        "Web"
-      ]
+      "hot_score": 0.41
     },
     {
       "title_en": "Project Zero will disclose vulnerabilities 90 days after reporting",
       "url": "https://projectzero.google/2026/11/disclosure-policy.html",
       "title_zh": "Project Zero 将在报告漏洞 90 天后公开信息",
-      "is_new": true,
+      "is_new": false,
       "created_display": "Created: Nov 14, 2026 / 03:13 PT",
       "image_url": "https://projectzero.google/images/preview_image.png",
       "summary_en": "Since 2021, Project Zero has followed a 90-plus-30-day disclosure policy, giving vendors 90 days to remediate a vulnerability and an additional 30 days for patch rollout. It says AI-assisted vulnerability discovery and exploitation have increased the immediate risk posed by newly reported bugs. Project Zero is therefore changing its policy to encourage faster remediation and disclosure after 90 days.",
@@ -588,8 +1085,8 @@
         "id": 50496051,
         "type": "story",
         "by": "hacb",
-        "score": 296,
-        "descendants": 168,
+        "score": 307,
+        "descendants": 187,
         "time": 1794654797,
         "comments_url": "https://news.ycombinator.com/item?id=50496051"
       },
@@ -597,13 +1094,108 @@
         "Security",
         "AI"
       ],
-      "hot_score": 0.61
+      "hot_score": 0.38
+    },
+    {
+      "title_en": "Samsung, SK Hynix, and Micron Fail to Get DRAM Antitrust Suit Dismissed",
+      "url": "https://www.techpowerup.com/354863/samsung-sk-hynix-and-micron-fail-to-get-dram-antitrust-suit-dismissed",
+      "title_zh": "三星、SK 海力士和美光未能驳回 DRAM 反垄断诉讼",
+      "is_new": true,
+      "created_display": "Created: Nov 15, 2026 / 14:49 PT",
+      "image_url": "https://www.techpowerup.com/img/RzS0hiQmE57LVcjJ.jpg",
+      "summary_en": "A class-action lawsuit accusing Samsung, SK hynix, and Micron of restricting DRAM supply will proceed. On November 14, a U.S. District Court judge denied the three companies’ joint motion to dismiss. The court found that the complaint plausibly alleged the companies had restricted supply.",
+      "summary_zh": "一项指控三星、SK 海力士和美光限制 DRAM 供应的集体诉讼将继续进行。11 月 14 日，美国地区法院法官驳回了三家公司联合提出的撤诉申请。法院认为，原告关于三家公司限制供应的指控具有合理依据。",
+      "hn": {
+        "id": 50511722,
+        "type": "story",
+        "by": "Axodouble",
+        "score": 8,
+        "descendants": 1,
+        "time": 1794782957,
+        "comments_url": "https://news.ycombinator.com/item?id=50511722"
+      },
+      "hot_score": 0.35,
+      "tags": [
+        "Legal",
+        "Business"
+      ]
+    },
+    {
+      "title_en": "Disk encryption on NetBSD – achieving secrecy",
+      "url": "https://netbsd.org/~nia/disk-encrypt/",
+      "title_zh": "NetBSD 磁盘加密：实现机密性",
+      "is_new": false,
+      "created_display": "Created: Nov 14, 2026 / 21:29 PT",
+      "image_url": "https://netbsd.org/~nia/disk-encrypt/installer1.png",
+      "summary_en": "The document describes threat models for which disk encryption is an appropriate defense. One explicitly identified case is a device being stolen or lost while its contents must remain secret. The focus is on protecting stored data from disclosure when physical control of the device is lost.",
+      "summary_zh": "该文档介绍了适合使用磁盘加密进行防护的威胁模型。其中一个明确场景是设备丢失或被盗，但其中的数据仍必须保密。重点是当设备不再由用户实际控制时，防止存储内容泄露。",
+      "hn": {
+        "id": 50504277,
+        "type": "story",
+        "by": "jaypatelani",
+        "score": 93,
+        "descendants": 18,
+        "time": 1794720594,
+        "comments_url": "https://news.ycombinator.com/item?id=50504277"
+      },
+      "tags": [
+        "Security"
+      ],
+      "hot_score": 0.34
+    },
+    {
+      "title_en": "Israel kidnapped Iranian generals, killed one, in effort to locate Ron Arad",
+      "url": "https://www.nytimes.com/2026/11/15/world/europe/ron-arad-missing-israel-iran-asgari-hunt.html",
+      "title_zh": "以色列绑架伊朗将军、杀死一人，试图寻找 Ron Arad",
+      "is_new": true,
+      "created_display": "Created: Nov 15, 2026 / 13:51 PT",
+      "image_url": "https://static01.nyt.com/images/2026/10/06/multimedia/00int-israel-airman-jpml/00int-israel-airman-jpml-facebookJumbo.jpg",
+      "summary_en": "Israeli officials believed Tehran was responsible for the disappearance of airman Ron Arad, who has been missing since 1986. A report says Israel kidnapped Iranian generals and killed one person as part of an effort to locate him. Alternative theories about his disappearance had previously received little attention.",
+      "summary_zh": "以色列官员认定德黑兰应对飞行员 Ron Arad 的失踪负责；他自 1986 年起下落不明。据报道，以色列曾绑架伊朗将军并杀死一人，作为寻找他的行动的一部分。此前，有关其失踪原因的其他理论很少受到关注。",
+      "hn": {
+        "id": 50511208,
+        "type": "story",
+        "by": "senderista",
+        "score": 10,
+        "descendants": 0,
+        "time": 1794779485,
+        "comments_url": "https://news.ycombinator.com/item?id=50511208"
+      },
+      "hot_score": 0.33,
+      "tags": [
+        "Politics"
+      ]
+    },
+    {
+      "title_en": "Kiri – The Modern Container Runtime",
+      "url": "https://runkiri.com/",
+      "title_zh": "Kiri：现代容器运行时",
+      "is_new": false,
+      "created_display": "Created: Nov 14, 2026 / 20:40 PT",
+      "image_url": "https://runkiri.com/assets/og-image.png?v=2",
+      "summary_en": "Kiri is a container runtime and Docker Desktop alternative for macOS, Windows, and Linux, built around a single Rust daemon. It works with the Docker CLI, Compose, and Docker API, and reports a 22 ms `docker run` time on a Mac. The cited comparison gives Docker Desktop 178 ms, Colima 152 ms, and OrbStack 279 ms under the same two-CPU, 8 GB setup.",
+      "summary_zh": "Kiri 是面向 macOS、Windows 和 Linux 的容器运行时及 Docker Desktop 替代品，采用单一 Rust 守护进程。它兼容 Docker CLI、Compose 和 Docker API，并称在 Mac 上执行 `docker run` 只需 22 毫秒。在相同的双 CPU、8 GB 配置下，给出的对比数据为 Docker Desktop 178 毫秒、Colima 152 毫秒、OrbStack 279 毫秒。",
+      "hn": {
+        "id": 50504077,
+        "type": "story",
+        "by": "nikolay",
+        "score": 91,
+        "descendants": 34,
+        "time": 1794717641,
+        "comments_url": "https://news.ycombinator.com/item?id=50504077"
+      },
+      "tags": [
+        "Programming",
+        "DevOps",
+        "Hardware"
+      ],
+      "hot_score": 0.31
     },
     {
       "title_en": "Advancing science and engineering with Antigravity's /teamwork",
       "url": "https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/",
       "title_zh": "用 Antigravity 的 /teamwork 推进科学与工程",
-      "is_new": true,
+      "is_new": false,
       "created_display": "Created: Nov 14, 2026 / 05:20 PT",
       "image_url": "https://storage.googleapis.com/gweb-research2023-media/images/HO_previewImage1.width-800.format-jpeg.jpg",
       "summary_en": "Google Research reports recent results from Antigravity’s /teamwork multi-agent systems, which are designed to support human-AI collaboration on open problems. The systems have been applied to mathematics, chemistry, systems software, and machine-learning engineering. The work was conducted with human experts, and Google says the tools are being made available externally.",
@@ -612,7 +1204,7 @@
         "id": 50496811,
         "type": "story",
         "by": "acossta",
-        "score": 209,
+        "score": 212,
         "descendants": 49,
         "time": 1794662443,
         "comments_url": "https://news.ycombinator.com/item?id=50496811"
@@ -621,38 +1213,86 @@
         "AI",
         "Science"
       ],
-      "hot_score": 0.49
+      "hot_score": 0.29
     },
     {
-      "title_en": "Show HN: Turbo-Browser-MCP – Batch forms, DOM deltas and submit guards for MCP",
-      "url": "https://github.com/Tthanh2k6/turbo-browser-mcp",
-      "title_zh": "Show HN：Turbo-Browser-MCP——为 MCP 提供批量表单、DOM 增量和提交保护",
+      "title_en": "Show HN: db-branch – database branches in seconds for AI agents and CI, via ZFS",
+      "url": "https://github.com/db-branch/db-branch",
+      "title_zh": "Show HN：db-branch——通过 ZFS 为 AI 代理和 CI 秒速创建数据库分支",
       "is_new": true,
-      "created_display": "Created: Nov 14, 2026 / 20:09 PT",
-      "image_url": "https://opengraph.githubassets.com/9722d3b93691a518384ea8575f4e8ba4f6cbc9b2b3a6f7e53daaf71012294829/Tthanh2k6/turbo-browser-mcp",
-      "summary_en": "Turbo-Browser-MCP is a Playwright-based MCP server designed to reduce token usage and multi-turn latency in browser automation. It combines 25–33 fine-grained browser primitives into 10 batched tools, with delta DOM snapshots, React/Shadow DOM/iframe form filling, direct disk uploads, parallel tabs, and network-blocking presets. It also includes a default human-in-the-loop guard before form submission.",
-      "summary_zh": "Turbo-Browser-MCP 是一个基于 Playwright 的 MCP 服务器，旨在降低浏览器自动化中的 token 消耗和多轮交互延迟。它将 25 至 33 个细粒度浏览器原语整合为 10 个批量工具，并支持 DOM 增量快照、React/Shadow DOM/iframe 表单填写、直接从磁盘上传文件、并行标签页和网络阻断预设。提交表单前，它还默认提供人工介入保护。",
+      "created_display": "Created: Nov 15, 2026 / 05:50 PT",
+      "image_url": "https://opengraph.githubassets.com/b49652fc04663ce05b4e885116fbb928e386f2a6cb2da62eb173429aa8004f31/db-branch/db-branch",
+      "summary_en": "db-branch creates copy-on-write branches of large MySQL and PostgreSQL databases in seconds using ZFS clones. The self-hosted tool can provide isolated databases for migrations, AI agents, or pull requests without copying the underlying data. Branches can be reset or discarded, and the project is licensed under Apache-2.0.",
+      "summary_zh": "db-branch 使用 ZFS 克隆，在几秒内为大型 MySQL 和 PostgreSQL 数据库创建写时复制分支。这款自托管工具无需复制底层数据，就能为迁移、AI 代理或每个拉取请求提供独立数据库。分支可以重置或丢弃，项目采用 Apache-2.0 许可证。",
       "hn": {
-        "id": 50503930,
+        "id": 50506940,
         "type": "story",
-        "by": "tthanh2k6",
-        "score": 43,
-        "descendants": 8,
-        "time": 1794715751,
-        "comments_url": "https://news.ycombinator.com/item?id=50503930"
+        "by": "nu_nu11",
+        "score": 33,
+        "descendants": 10,
+        "time": 1794750651,
+        "comments_url": "https://news.ycombinator.com/item?id=50506940"
       },
-      "hot_score": 0.37,
+      "hot_score": 0.27,
       "tags": [
         "Show HN",
         "Programming",
-        "Web"
+        "AI",
+        "Data"
+      ]
+    },
+    {
+      "title_en": "DefCon: Breaking into Amazon Lockers by Any Means Necessary",
+      "url": "https://www.youtube.com/watch?v=ZVmRe8OVZtE",
+      "title_zh": "DefCon：用各种手段攻入亚马逊储物柜",
+      "is_new": true,
+      "created_display": "Created: Nov 15, 2026 / 14:07 PT",
+      "image_url": null,
+      "summary_en": "A DefCon presentation covers breaking into Amazon lockers by various means.",
+      "summary_zh": "一场 DefCon 演讲介绍了如何用各种手段攻入亚马逊储物柜。",
+      "hn": {
+        "id": 50511362,
+        "type": "story",
+        "by": "brudgers",
+        "score": 7,
+        "descendants": 1,
+        "time": 1794780428,
+        "comments_url": "https://news.ycombinator.com/item?id=50511362"
+      },
+      "hot_score": 0.24,
+      "tags": [
+        "Security"
+      ]
+    },
+    {
+      "title_en": "How I Remember the Byrds",
+      "url": "https://auxiliarymemory.com/2026/11/15/how-i-remember-the-byrds/",
+      "title_zh": "我如何记得 Byrds 乐队",
+      "is_new": true,
+      "created_display": "Created: Nov 15, 2026 / 15:08 PT",
+      "image_url": "https://i0.wp.com/auxiliarymemory.com/wp-content/uploads/2026/11/the_byrds_1965.png?fit=1200%2C945&ssl=1",
+      "summary_en": "This personal essay examines how memories can become false. The author realized this while trying to remember how he bought the first four Byrds albums, after watching videos about the band and recalling a 1968 conversation about preferring the Byrds to the Beatles.",
+      "summary_zh": "这篇个人随笔探讨记忆如何变成虚假的记忆。作者在试图回忆自己如何买到 Byrds 乐队前四张专辑时意识到这一点；此前，他看了一些关于该乐队的视频，并想起自己曾在 1968 年说过更喜欢 Byrds 而不是披头士。",
+      "hn": {
+        "id": 50511871,
+        "type": "story",
+        "by": "wmchen",
+        "score": 5,
+        "descendants": 0,
+        "time": 1794784093,
+        "comments_url": "https://news.ycombinator.com/item?id=50511871"
+      },
+      "hot_score": 0.22,
+      "tags": [
+        "Culture",
+        "Entertainment"
       ]
     },
     {
       "title_en": "Demystifying phone unlocking tools: A technical overview",
       "url": "https://osservatorionessuno.org/blog/2026/05/demystifying-phone-unlocking-tools-a-technical-overview/",
       "title_zh": "手机解锁工具揭秘：技术概览",
-      "is_new": true,
+      "is_new": false,
       "created_display": "Created: Nov 14, 2026 / 06:44 PT",
       "image_url": "https://osservatorionessuno.org/blog/2026-05-01-demistifying-phone-unlocking-tools-usb-attack.svg",
       "summary_en": "This is a technical overview of tools used to unlock mobile phones. The available material provides no further details about the tools or techniques covered.",
@@ -661,68 +1301,69 @@
         "id": 50497416,
         "type": "story",
         "by": "iloveyoutwo",
-        "score": 129,
-        "descendants": 13,
+        "score": 143,
+        "descendants": 18,
         "time": 1794667468,
         "comments_url": "https://news.ycombinator.com/item?id=50497416"
       },
       "tags": [
         "Security"
       ],
-      "hot_score": 0.33
+      "hot_score": 0.21
     },
     {
-      "title_en": "DKIM2 – Every system that handles an email signs for what it did",
-      "url": "https://dkim2.com/",
-      "title_zh": "DKIM2：每个处理电子邮件的系统都为自己的操作签名",
-      "is_new": true,
-      "created_display": "Created: Nov 15, 2026 / 01:13 PT",
+      "title_en": "A Human Reads the Anthropic IPO Filing",
+      "url": "https://www.nytimes.com/2026/11/15/business/anthropic-ipo-filing-prospectus.html",
+      "title_zh": "一个人阅读 Anthropic 的 IPO 文件",
+      "is_new": false,
+      "created_display": "Created: Nov 15, 2026 / 07:18 PT",
       "image_url": null,
-      "summary_en": "DKIM2 proposes a verifiable way for legitimate email to demonstrate its origin and attribute every modification to the system that made it. The project addresses forwarding, mailing lists, Bcc, replayed signatures, and forged bounces. It is described as work in progress within the IETF DKIM working group, where the goal is to make legitimate mail easier to distinguish from abuse.",
-      "summary_zh": "DKIM2 提出了一种可验证的机制，让合法邮件证明其来源，并将每次修改归因于执行该操作的系统。该项目针对转发、邮件列表、密送、重放签名和伪造退信等问题。目前它仍是 IETF DKIM 工作组中的进行中项目，目标是让合法邮件更容易与滥用邮件区分开来。",
+      "summary_en": "The item presents a human reading of Anthropic's filing for an initial public offering. It focuses on the company's IPO prospectus and the information contained in that filing.",
+      "summary_zh": "该条目由一名读者解读 Anthropic 提交的首次公开募股文件。内容聚焦于公司的 IPO 招股说明书及其中披露的信息。",
       "hn": {
-        "id": 50505312,
+        "id": 50507517,
         "type": "story",
-        "by": "u1hcw9nx",
-        "score": 17,
-        "descendants": 2,
-        "time": 1794733995,
-        "comments_url": "https://news.ycombinator.com/item?id=50505312"
+        "by": "saikatsg",
+        "score": 21,
+        "descendants": 10,
+        "time": 1794755886,
+        "comments_url": "https://news.ycombinator.com/item?id=50507517"
       },
-      "hot_score": 0.31,
       "tags": [
-        "Security"
-      ]
+        "Business",
+        "Finance",
+        "AI"
+      ],
+      "hot_score": 0.2
     },
     {
-      "title_en": "Show HN: A custom font based on the Jamaican flag alphabet",
-      "url": "https://bobbiec.github.io/jamaican-font.html",
-      "title_zh": "Show HN：基于牙买加国旗字母表的定制字体",
+      "title_en": "Jiff – A datetime library for Rust – reaches 1.0",
+      "url": "https://burntsushi.net/jiff/",
+      "title_zh": "Rust 日期时间库 Jiff 达到 1.0",
       "is_new": true,
-      "created_display": "Created: Nov 14, 2026 / 16:56 PT",
-      "image_url": "https://bobbiec.github.io/jamaica-flag.svg",
-      "summary_en": "The creator made a font whose letters are based on the design of the Jamaican flag. Its colors and shapes are built directly into the font, while the text remains selectable, copyable, and searchable. The project was inspired by the idea of designing an entire alphabet from a flag-shaped letter.",
-      "summary_zh": "创作者制作了一款以牙买加国旗设计为基础的字体。字体直接内置了相应的颜色和形状，但其中的文字仍可选择、复制和搜索。这个项目的灵感来自用旗帜形状的字母进一步设计完整字母表的想法。",
+      "created_display": "Created: Nov 15, 2026 / 14:00 PT",
+      "image_url": null,
+      "summary_en": "Jiff is a Rust datetime library that puts time-zone handling at the center of its API. It automatically addresses many common daylight-saving-time problems and has already seen broad adoption in the Rust ecosystem. Its 1.0 release marks its stable milestone.",
+      "summary_zh": "Jiff 是一个将时区处理置于 API 核心位置的 Rust 日期时间库。它会自动处理许多与夏令时相关的常见问题，并已在 Rust 生态中得到广泛采用。此次 1.0 发布标志着它达到了稳定版本里程碑。",
       "hn": {
-        "id": 50502839,
+        "id": 50511297,
         "type": "story",
-        "by": "bobbiechen",
-        "score": 47,
-        "descendants": 7,
-        "time": 1794704205,
-        "comments_url": "https://news.ycombinator.com/item?id=50502839"
+        "by": "afdbcreid",
+        "score": 6,
+        "descendants": 0,
+        "time": 1794780030,
+        "comments_url": "https://news.ycombinator.com/item?id=50511297"
       },
-      "hot_score": 0.28,
+      "hot_score": 0.19,
       "tags": [
-        "Show HN",
-        "Design"
+        "Programming"
       ]
     },
     {
       "title_en": "Chinese frontier AI models carry the fingerprint of export-controlled GPUs",
       "url": "https://unemploymentlabs.com/checkpoint-forensics",
       "title_zh": "中国前沿 AI 模型带有受出口管制 GPU 的指纹",
-      "is_new": true,
+      "is_new": false,
       "created_display": "Created: Nov 12, 2026 / 13:56 PT",
       "image_url": "https://unemploymentlabs.com/checkpoint-forensics-og.png?v=4",
       "summary_en": "The material points to an analysis claiming that Chinese frontier AI models carry identifiable characteristics of export-controlled GPUs. No further methodological details or conclusions are available here.",
@@ -731,8 +1372,8 @@
         "id": 50474883,
         "type": "story",
         "by": "firloop",
-        "score": 408,
-        "descendants": 178,
+        "score": 438,
+        "descendants": 185,
         "time": 1794520571,
         "comments_url": "https://news.ycombinator.com/item?id=50474883"
       },
@@ -740,37 +1381,203 @@
         "Security",
         "AI"
       ],
-      "hot_score": 0.2
+      "hot_score": 0.17
     },
     {
-      "title_en": "Why get an expensive Pi when I have an old phone?",
-      "url": "https://so.long.thanks.fish/why-pi-when-i-have-an-old-phone/",
-      "title_zh": "既然有旧手机，为什么还要买昂贵的树莓派？",
+      "title_en": "Skydio's asymmetrical F10 Lightrunner solves a problem with fixed-wing drones",
+      "url": "https://spectrum.ieee.org/skydio-f10-lightrunner-asymmetrical-drone",
+      "title_zh": "Skydio 不对称 F10 Lightrunner 解决固定翼无人机难题",
       "is_new": true,
-      "created_display": "Created: Nov 10, 2026 / 06:16 PT",
-      "image_url": "https://so.long.thanks.fish/why-pi-when-i-have-an-old-phone/redmi-leds-1200.webp",
-      "summary_en": "The project uses a rooted second-hand Redmi smartphone as a camera and light controller instead of building the system around a Raspberry Pi. The phone already provides a high-resolution camera, GPS, storage, battery, and mobile data, while the original Raspberry Pi design required adding an Arducam 64MP camera and a GPS module. The approach could reduce the number of components and the project’s growing bill.",
-      "summary_zh": "这个项目改用一部已取得 root 权限的二手 Redmi 手机来充当摄像头和灯光控制器，而不是围绕树莓派搭建系统。手机已经具备高分辨率摄像头、GPS、存储、电池和移动数据功能；原先的树莓派方案则需要额外加入 Arducam 6400 万像素摄像头和 GPS 模块。这种做法有望减少组件数量，并控制不断上涨的项目成本。",
+      "created_display": "Created: Nov 15, 2026 / 16:03 PT",
+      "image_url": "https://spectrum.ieee.org/media-library/image.jpg?id=68671751&width=1200&height=600&coordinates=0%2C357%2C0%2C358",
+      "summary_en": "Skydio’s F10 Lightrunner uses an asymmetrical design and a wingtip-mounted camera to improve aerial vision and reduce blind spots. The autonomously operated, high-speed fixed-wing drone is designed to provide higher-quality video than other fixed-wing drones.",
+      "summary_zh": "Skydio 的 F10 Lightrunner 采用不对称设计和翼尖摄像头，以改善空中视野并减少盲区。这款自主运行的高速固定翼无人机旨在提供高于其他固定翼无人机的视频质量。",
       "hn": {
-        "id": 50440709,
+        "id": 50512296,
         "type": "story",
-        "by": "casi",
-        "score": 597,
-        "descendants": 317,
-        "time": 1794320165,
-        "comments_url": "https://news.ycombinator.com/item?id=50440709"
+        "by": "Gaishan",
+        "score": 3,
+        "descendants": 0,
+        "time": 1794787392,
+        "comments_url": "https://news.ycombinator.com/item?id=50512296"
+      },
+      "hot_score": 0.16,
+      "tags": [
+        "Hardware"
+      ]
+    },
+    {
+      "title_en": "Show HN: Turbo-Browser-MCP – Batch forms, DOM deltas and submit guards for MCP",
+      "url": "https://github.com/Tthanh2k6/turbo-browser-mcp",
+      "title_zh": "Show HN：Turbo-Browser-MCP——为 MCP 提供批量表单、DOM 增量和提交保护",
+      "is_new": false,
+      "created_display": "Created: Nov 14, 2026 / 20:09 PT",
+      "image_url": "https://opengraph.githubassets.com/9722d3b93691a518384ea8575f4e8ba4f6cbc9b2b3a6f7e53daaf71012294829/Tthanh2k6/turbo-browser-mcp",
+      "summary_en": "Turbo-Browser-MCP is a Playwright-based MCP server designed to reduce token usage and multi-turn latency in browser automation. It combines 25–33 fine-grained browser primitives into 10 batched tools, with delta DOM snapshots, React/Shadow DOM/iframe form filling, direct disk uploads, parallel tabs, and network-blocking presets. It also includes a default human-in-the-loop guard before form submission.",
+      "summary_zh": "Turbo-Browser-MCP 是一个基于 Playwright 的 MCP 服务器，旨在降低浏览器自动化中的 token 消耗和多轮交互延迟。它将 25 至 33 个细粒度浏览器原语整合为 10 个批量工具，并支持 DOM 增量快照、React/Shadow DOM/iframe 表单填写、直接从磁盘上传文件、并行标签页和网络阻断预设。提交表单前，它还默认提供人工介入保护。",
+      "hn": {
+        "id": 50503930,
+        "type": "story",
+        "by": "tthanh2k6",
+        "score": 47,
+        "descendants": 9,
+        "time": 1794715751,
+        "comments_url": "https://news.ycombinator.com/item?id=50503930"
       },
       "tags": [
-        "Hardware",
-        "Energy"
+        "Show HN",
+        "Programming",
+        "Web"
       ],
-      "hot_score": 0.1
+      "hot_score": 0.15
     },
     {
-      "title_en": "The Telephone Changed the World",
+      "title_en": "Show HN: Skillset: Easily curate and install agent skills collection",
+      "url": "https://github.com/itsmeyaw/skillset",
+      "title_zh": "Show HN：Skillset，轻松整理并安装代理技能集合",
+      "is_new": true,
+      "created_display": "Created: Nov 15, 2026 / 14:53 PT",
+      "image_url": "https://opengraph.githubassets.com/dce84e52624d271a68b53e49caa6aea57d16c3a26ab2ee02f4e98d4647b341d3/itsmeyaw/skillset",
+      "summary_en": "Skillset groups programming, backend, and other agent skills into collections that can be installed with one command from a JSON file. It wraps the Vercel Skill CLI and uses it as the underlying library, aiming to preserve compatibility with the standard CLI across teams. The project is designed to avoid installing unnecessary skills globally and consuming excess context.",
+      "summary_zh": "Skillset 将编程、后端等代理技能整理成集合，用户可以通过一个 JSON 文件和一条命令安装所需集合。它封装并直接使用 Vercel Skill CLI，旨在保持与标准 CLI 的团队间兼容性。该项目希望避免全局安装不必要的技能并消耗过多上下文。",
+      "hn": {
+        "id": 50511761,
+        "type": "story",
+        "by": "itsmeyaw",
+        "score": 4,
+        "descendants": 0,
+        "time": 1794783217,
+        "comments_url": "https://news.ycombinator.com/item?id=50511761"
+      },
+      "hot_score": 0.15,
+      "tags": [
+        "Show HN",
+        "Programming",
+        "Web"
+      ]
+    },
+    {
+      "title_en": "The efficient frontier of LLM inference",
+      "url": "https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/#quantization",
+      "title_zh": "LLM 推理的效率前沿",
+      "is_new": true,
+      "created_display": "Created: Nov 15, 2026 / 15:55 PT",
+      "image_url": "https://www.datocms-assets.com/104802/1793044899-efficientfrontierblogheader.png?auto=format&w=1600",
+      "summary_en": "The article maps inference techniques including batch sizing, parallelism, quantization, optimized kernels, speculative decoding, and disaggregation. Some techniques move a deployment along the latency-throughput frontier, while others expand the frontier and create more efficiency to allocate. The discussion uses “efficient frontier” to describe tradeoffs among model cost, capability, latency, and throughput.",
+      "summary_zh": "文章梳理了批大小、并行化、量化、优化内核、推测解码和解耦部署等推理技术。有些技术是在延迟—吞吐量前沿上移动部署方案，另一些则会扩大整个前沿，为分配带来更多效率。文章用“效率前沿”描述模型成本、能力、延迟和吞吐量之间的权衡。",
+      "hn": {
+        "id": 50512233,
+        "type": "story",
+        "by": "gmays",
+        "score": 3,
+        "descendants": 0,
+        "time": 1794786950,
+        "comments_url": "https://news.ycombinator.com/item?id=50512233"
+      },
+      "hot_score": 0.15,
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "title_en": "Parcel: A desktop mail client for Linux, built with Zig",
+      "url": "https://tangled.org/rockorager.dev/parcel",
+      "title_zh": "Parcel：使用 Zig 构建的 Linux 桌面邮件客户端",
+      "is_new": true,
+      "created_display": "Created: Nov 15, 2026 / 15:54 PT",
+      "image_url": "https://ogre.tangled.network/card?payload=eyJ0eXBlIjoicmVwb3NpdG9yeSIsInJlcG9OYW1lIjoicGFyY2VsIiwib3duZXJIYW5kbGUiOiJyb2Nrb3JhZ2VyLmRldiIsInN0YXJzIjoyLCJwdWxscyI6MCwiaXNzdWVzIjowLCJjcmVhdGVkQXQiOiIyMDI2LTExLTA1VDE1OjM3OjM4WiIsImF2YXRhclVybCI6Imh0dHBzOi8vdGFuZ2xlZC5vcmcvYXZhdGFyL2RpZCUzQXBsYyUzQXZrMmJlbXNyM3V4YXc0ZmR6bm8zY2hzaD9zaXplPTI1NiZmb3JtYXQ9anBlZyIsImxhbmd1YWdlcyI6W3siY29sb3IiOiIjZWM5MTVjIiwicGVyY2VudGFnZSI6OTl9LHsiY29sb3IiOiIjZTM0YzI2IiwicGVyY2VudGFnZSI6MX0seyJjb2xvciI6IiM2NjMzOTkiLCJwZXJjZW50YWdlIjowfSx7ImNvbG9yIjoiIzM1NzJBNSIsInBlcmNlbnRhZ2UiOjB9LHsiY29sb3IiOiIjODllMDUxIiwicGVyY2VudGFnZSI6MH1dfQ",
+      "summary_en": "Parcel is a Linux desktop mail client for Gmail and Fastmail. It is built with Zig and siv.",
+      "summary_zh": "Parcel 是一款面向 Linux 桌面的 Gmail 和 Fastmail 邮件客户端。它使用 Zig 和 siv 构建。",
+      "hn": {
+        "id": 50512218,
+        "type": "story",
+        "by": "nerdypepper",
+        "score": 3,
+        "descendants": 0,
+        "time": 1794786879,
+        "comments_url": "https://news.ycombinator.com/item?id=50512218"
+      },
+      "hot_score": 0.15,
+      "tags": [
+        "Programming"
+      ]
+    },
+    {
+      "title_en": "Show HN: A custom font based on the Jamaican flag alphabet",
+      "url": "https://bobbiec.github.io/jamaican-font.html",
+      "title_zh": "Show HN：基于牙买加国旗字母表的定制字体",
+      "is_new": false,
+      "created_display": "Created: Nov 14, 2026 / 16:56 PT",
+      "image_url": "https://bobbiec.github.io/jamaica-flag.svg",
+      "summary_en": "The creator made a font whose letters are based on the design of the Jamaican flag. Its colors and shapes are built directly into the font, while the text remains selectable, copyable, and searchable. The project was inspired by the idea of designing an entire alphabet from a flag-shaped letter.",
+      "summary_zh": "创作者制作了一款以牙买加国旗设计为基础的字体。字体直接内置了相应的颜色和形状，但其中的文字仍可选择、复制和搜索。这个项目的灵感来自用旗帜形状的字母进一步设计完整字母表的想法。",
+      "hn": {
+        "id": 50502839,
+        "type": "story",
+        "by": "bobbiechen",
+        "score": 54,
+        "descendants": 7,
+        "time": 1794704205,
+        "comments_url": "https://news.ycombinator.com/item?id=50502839"
+      },
+      "tags": [
+        "Show HN",
+        "Design"
+      ],
+      "hot_score": 0.14
+    },
+    {
+      "title_en": "Please Just Text Me – reply to voice message with a typing video",
+      "url": "https://pleasejusttext.me/",
+      "title_zh": "请直接发短信——用打字视频回复语音消息",
+      "is_new": true,
+      "created_display": "Created: Nov 15, 2026 / 12:06 PT",
+      "image_url": "https://pleasejusttext.me/og.jpg",
+      "summary_en": "This service turns a typed reply into a video showing hands slowly typing it on a phone. It is designed as an intentionally inconvenient response to voice messages, which recipients cannot easily skim or read silently. The service is free and requires no installation.",
+      "summary_zh": "这项服务会把用户输入的回复转换成一段视频，显示双手在手机上慢慢打出文字。它旨在以一种刻意不便的方式回应语音消息，因为接收者通常无法快速浏览或在安静环境中阅读语音内容。该服务免费且无需安装。",
+      "hn": {
+        "id": 50510186,
+        "type": "story",
+        "by": "sithon",
+        "score": 7,
+        "descendants": 2,
+        "time": 1794773216,
+        "comments_url": "https://news.ycombinator.com/item?id=50510186"
+      },
+      "hot_score": 0.14,
+      "tags": [
+        "Startups"
+      ]
+    },
+    {
+      "title_en": "Show HN: Minea – a Mac assistant that never steals your cursor (36-min raw run)",
+      "url": "https://minea.minea.workers.dev/en",
+      "title_zh": "Show HN：Minea——不会抢鼠标的 Mac 助手（36 分钟原始运行视频）",
+      "is_new": true,
+      "created_display": "Created: Nov 15, 2026 / 14:39 PT",
+      "image_url": "https://minea.minea.workers.dev/og-en.jpg",
+      "summary_en": "MINEA monitors a user’s screen and mail, then proactively drafts messages, compares prices, and handles reversible tasks before stopping at actions such as sending or paying. It supports macOS 11 and later and offers 30 free runs without requiring a card. The assistant can also monitor an iPhone and Apple Watch and call the user when spoken input is needed.",
+      "summary_zh": "MINEA 会监控用户的屏幕和邮件，主动起草内容、比较价格并处理可撤销的任务，然后在发送或付款前停下。它支持 macOS 11 及更高版本，提供 30 次免费运行且无需绑定银行卡。该助手还可以监控 iPhone 和 Apple Watch，并在需要用户口头处理时打电话通知。",
+      "hn": {
+        "id": 50511627,
+        "type": "story",
+        "by": "sujisss",
+        "score": 4,
+        "descendants": 1,
+        "time": 1794782395,
+        "comments_url": "https://news.ycombinator.com/item?id=50511627"
+      },
+      "hot_score": 0.14,
+      "tags": [
+        "Show HN",
+        "Programming"
+      ]
+    },
+    {
+      "title_en": "How the Telephone Changed the World",
       "url": "https://lithub.com/how-the-telephone-changed-the-world/",
       "title_zh": "电话改变了世界",
-      "is_new": true,
+      "is_new": false,
       "created_display": "Created: Nov 14, 2026 / 14:56 PT",
       "image_url": "https://s26162.pcdn.co/wp-content/uploads/2026/11/telephone-retro.png",
       "summary_en": "The piece evokes the telephone as an ordinary household object that once carried a sense of anticipation and connection. A beige, rotary-dial telephone sits on a table before ringing, while a child runs over and answers it with a toy duck. The scene presents the telephone's everyday presence alongside its ability to summon distant voices into the home.",
@@ -779,21 +1586,166 @@
         "id": 50501887,
         "type": "story",
         "by": "NaOH",
-        "score": 19,
-        "descendants": 6,
+        "score": 49,
+        "descendants": 35,
         "time": 1794696969,
         "comments_url": "https://news.ycombinator.com/item?id=50501887"
       },
-      "hot_score": 0.09,
       "tags": [
         "Culture"
+      ],
+      "hot_score": 0.11
+    },
+    {
+      "title_en": "Does until it doesn't and doesn't until it does",
+      "url": "https://rodneybrooks.com/does-until-it-doesnt-and-doesnt-until-it-does/",
+      "title_zh": "直到不再如此，以及不再如此直到再次如此",
+      "is_new": true,
+      "created_display": "Created: Nov 15, 2026 / 11:56 PT",
+      "image_url": "https://rodneybrooks.com/wp-content/themes/rab/images/robots.jpg",
+      "summary_en": "The essay examines how intense hype around new technologies can shape people’s beliefs. It argues that such beliefs may resemble ideas associated with new religions or cults.",
+      "summary_zh": "这篇文章探讨了对新技术的强烈炒作如何塑造人们的信念。文章认为，这类信念可能类似于新宗教或邪教所形成的观念。",
+      "hn": {
+        "id": 50510096,
+        "type": "story",
+        "by": "jeffreyrogers",
+        "score": 6,
+        "descendants": 0,
+        "time": 1794772565,
+        "comments_url": "https://news.ycombinator.com/item?id=50510096"
+      },
+      "hot_score": 0.11,
+      "tags": [
+        "Culture"
+      ]
+    },
+    {
+      "title_en": "Why get an expensive Pi when I have an old phone?",
+      "url": "https://so.long.thanks.fish/why-pi-when-i-have-an-old-phone/",
+      "title_zh": "既然有旧手机，为什么还要买昂贵的树莓派？",
+      "is_new": false,
+      "created_display": "Created: Nov 10, 2026 / 06:16 PT",
+      "image_url": "https://so.long.thanks.fish/why-pi-when-i-have-an-old-phone/redmi-leds-1200.webp",
+      "summary_en": "The project uses a rooted second-hand Redmi smartphone as a camera and light controller instead of building the system around a Raspberry Pi. The phone already provides a high-resolution camera, GPS, storage, battery, and mobile data, while the original Raspberry Pi design required adding an Arducam 64MP camera and a GPS module. The approach could reduce the number of components and the project’s growing bill.",
+      "summary_zh": "这个项目改用一部已取得 root 权限的二手 Redmi 手机来充当摄像头和灯光控制器，而不是围绕树莓派搭建系统。手机已经具备高分辨率摄像头、GPS、存储、电池和移动数据功能；原先的树莓派方案则需要额外加入 Arducam 6400 万像素摄像头和 GPS 模块。这种做法有望减少组件数量，并控制不断上涨的项目成本。",
+      "hn": {
+        "id": 50440709,
+        "type": "story",
+        "by": "casi",
+        "score": 617,
+        "descendants": 322,
+        "time": 1794320165,
+        "comments_url": "https://news.ycombinator.com/item?id=50440709"
+      },
+      "tags": [
+        "Hardware",
+        "Energy"
+      ],
+      "hot_score": 0.09
+    },
+    {
+      "title_en": "Claude Code and Codex reverse engineered my 1994 Jeep's ECU over a $3 Arduino [video]",
+      "url": "https://www.youtube.com/watch?v=WPj3aQ-xxpI",
+      "title_zh": "Claude Code 和 Codex 用一块 3 美元 Arduino 逆向工程了我 1994 年 Jeep 的 ECU",
+      "is_new": false,
+      "created_display": "Created: Nov 11, 2026 / 21:29 PT",
+      "image_url": null,
+      "summary_en": "Claude Code and Codex were used to reverse engineer the ECU of a 1994 Jeep. The project used a $3 Arduino as part of the setup. It is presented as a video demonstration of AI-assisted automotive reverse engineering.",
+      "summary_zh": "Claude Code 和 Codex 被用于逆向工程一辆 1994 年 Jeep 的 ECU。该项目使用了一块 3 美元的 Arduino 作为设备的一部分。相关成果以视频形式展示了 AI 辅助的汽车系统逆向工程过程。",
+      "hn": {
+        "id": 50463399,
+        "type": "story",
+        "by": "envoked",
+        "score": 341,
+        "descendants": 172,
+        "time": 1794461364,
+        "comments_url": "https://news.ycombinator.com/item?id=50463399"
+      },
+      "tags": [
+        "AI",
+        "Programming",
+        "Hardware"
+      ],
+      "hot_score": 0.09
+    },
+    {
+      "title_en": "DKIM2 – Every system that handles an email signs for what it did",
+      "url": "https://dkim2.com/",
+      "title_zh": "DKIM2：每个处理电子邮件的系统都为自己的操作签名",
+      "is_new": false,
+      "created_display": "Created: Nov 15, 2026 / 01:13 PT",
+      "image_url": null,
+      "summary_en": "DKIM2 proposes a verifiable way for legitimate email to demonstrate its origin and attribute every modification to the system that made it. The project addresses forwarding, mailing lists, Bcc, replayed signatures, and forged bounces. It is described as work in progress within the IETF DKIM working group, where the goal is to make legitimate mail easier to distinguish from abuse.",
+      "summary_zh": "DKIM2 提出了一种可验证的机制，让合法邮件证明其来源，并将每次修改归因于执行该操作的系统。该项目针对转发、邮件列表、密送、重放签名和伪造退信等问题。目前它仍是 IETF DKIM 工作组中的进行中项目，目标是让合法邮件更容易与滥用邮件区分开来。",
+      "hn": {
+        "id": 50505312,
+        "type": "story",
+        "by": "u1hcw9nx",
+        "score": 19,
+        "descendants": 8,
+        "time": 1794733995,
+        "comments_url": "https://news.ycombinator.com/item?id=50505312"
+      },
+      "tags": [
+        "Security"
+      ],
+      "hot_score": 0.09
+    },
+    {
+      "title_en": "SuperMimic",
+      "url": "https://supermimic.github.io/",
+      "title_zh": "SuperMimic",
+      "is_new": true,
+      "created_display": "Created: Nov 15, 2026 / 13:14 PT",
+      "image_url": "https://supermimic.github.io/media/share/og.jpg",
+      "summary_en": "SuperMimic trains a humanoid whole-body motion tracker using a single differentiable world model. The project reports surpassing SONIC’s return after three hours of training on one GPU, compared with seven days on 128 GPUs for SONIC.",
+      "summary_zh": "SuperMimic 使用一个可微分世界模型训练人形全身动作跟踪器。项目称，它在单块 GPU 上训练三小时后，就超过了 SONIC 的回报表现，而 SONIC 使用了 128 块 GPU、训练七天。",
+      "hn": {
+        "id": 50510827,
+        "type": "story",
+        "by": "simonpure",
+        "score": 4,
+        "descendants": 0,
+        "time": 1794777279,
+        "comments_url": "https://news.ycombinator.com/item?id=50510827"
+      },
+      "hot_score": 0.09,
+      "tags": [
+        "AI",
+        "Hardware"
+      ]
+    },
+    {
+      "title_en": "Show HN: Rbit – Self Hosted Git Forge in Rust",
+      "url": "https://rbit.sh/",
+      "title_zh": "Show HN：Rbit——使用 Rust 构建的自托管 Git 托管平台",
+      "is_new": true,
+      "created_display": "Created: Nov 15, 2026 / 13:54 PT",
+      "image_url": "https://rbit.sh/assets/icon-96.png?v=b175347e4ead",
+      "summary_en": "Rbit is a self-hosted Git forge built around speed, security, and efficiency. Its stack includes Rust, Axum, Askama, Gitoxide, SQLite, redb, HTMX, and Tailwind, and the project uses its own CI/CD pipeline for dogfooding. It has been localized into nine languages, including Simplified Chinese.",
+      "summary_zh": "Rbit 是一个以速度、安全和效率为核心的自托管 Git 托管平台。其技术栈包括 Rust、Axum、Askama、Gitoxide、SQLite、redb、HTMX 和 Tailwind，项目还使用自身的 CI/CD 流程进行实测。它已本地化为九种语言，包括简体中文。",
+      "hn": {
+        "id": 50511238,
+        "type": "story",
+        "by": "GitRbit",
+        "score": 3,
+        "descendants": 0,
+        "time": 1794779660,
+        "comments_url": "https://news.ycombinator.com/item?id=50511238"
+      },
+      "hot_score": 0.07,
+      "tags": [
+        "Show HN",
+        "Programming",
+        "Security",
+        "DevOps"
       ]
     },
     {
       "title_en": "'Grey Rocking': The Life-Improving Power of Being Really, Really Boring (2021)",
       "url": "https://www.esquire.com/uk/life/a38473153/grey-rock-technique-being-boring/",
       "title_zh": "“灰色岩石法”：极度无聊也能改善生活的力量（2021）",
-      "is_new": true,
+      "is_new": false,
       "created_display": "Created: Nov 12, 2026 / 10:28 PT",
       "image_url": "https://hips.hearstapps.com/hmg-prod/images/gettyimages-164924203a-1639658133.png?crop=1.00xw:0.503xh;0,0.399xh&resize=1200:*",
       "summary_en": "The grey rock technique recommends responding to difficult people with deliberately uninteresting, emotionally neutral behavior. The term was coined in 2012 by an American mental-health blogger using the pseudonym Skylar, after she left a 25-year relationship she considered abusive and dangerous. The technique has since been described as useful in both serious and everyday situations.",
@@ -802,8 +1754,8 @@
         "id": 50471874,
         "type": "story",
         "by": "NaOH",
-        "score": 156,
-        "descendants": 92,
+        "score": 165,
+        "descendants": 101,
         "time": 1794508086,
         "comments_url": "https://news.ycombinator.com/item?id=50471874"
       },
@@ -811,108 +1763,13 @@
         "Culture",
         "Health"
       ],
-      "hot_score": 0.07
-    },
-    {
-      "title_en": "500 Lines or Less A 3D Modeller",
-      "url": "https://aosabook.org/en/500L/a-3d-modeller.html",
-      "title_zh": "500 行以内：一个 3D 建模器",
-      "is_new": true,
-      "created_display": "Created: Nov 13, 2026 / 05:47 PT",
-      "image_url": "https://aosabook.org/en/500L/modeller-images/newtranspipe.png",
-      "summary_en": "This project presents a 3D modeller built in fewer than 500 lines of code. Its author, Erick, is a software developer and a 2D and 3D graphics enthusiast who has worked on games, visual-effects software, and computer-aided design tools.",
-      "summary_zh": "这个项目展示了一个代码量少于 500 行的 3D 建模器。作者 Erick 是软件开发者和 2D、3D 图形爱好者，曾参与电子游戏、视觉特效软件和计算机辅助设计工具的开发。",
-      "hn": {
-        "id": 50483431,
-        "type": "story",
-        "by": "myth_drannon",
-        "score": 89,
-        "descendants": 11,
-        "time": 1794577662,
-        "comments_url": "https://news.ycombinator.com/item?id=50483431"
-      },
-      "tags": [
-        "Programming"
-      ],
-      "hot_score": 0.07
-    },
-    {
-      "title_en": "The Evolving Story of How Chemistry Became Biology",
-      "url": "https://www.quantamagazine.org/the-evolving-story-of-how-chemistry-became-biology-20261112/",
-      "title_zh": "化学如何演变为生物：一个不断发展的故事",
-      "is_new": true,
-      "created_display": "Created: Nov 13, 2026 / 03:55 PT",
-      "image_url": "https://www.quantamagazine.org/wp-content/uploads/2026/11/Origin-of-Life-cr.Mark-Belan-Social.jpg",
-      "summary_en": "Scientists are revisiting how life may have emerged after decades of disagreement over which molecules came first. Current work focuses on the roughly 200 million years between the appearance of Earth's life-supporting conditions and the earliest known single-celled ancestor. The research is reshaping ideas about what life was, is, and could be.",
-      "summary_zh": "在围绕究竟是哪类分子最先出现的争论持续数十年后，科学家正在重新思考生命可能如何诞生。当前研究聚焦于地球出现适宜生命的条件之后、最古老单细胞祖先出现之前的大约 2 亿年。相关研究正在改变人们对生命过去、现在及可能形态的理解。",
-      "hn": {
-        "id": 50482222,
-        "type": "story",
-        "by": "pseudolus",
-        "score": 79,
-        "descendants": 18,
-        "time": 1794570919,
-        "comments_url": "https://news.ycombinator.com/item?id=50482222"
-      },
-      "hot_score": 0.06,
-      "tags": [
-        "Science"
-      ]
-    },
-    {
-      "title_en": "Semicircle Packing",
-      "url": "https://rorz.io/writing/semicircle-packing",
-      "title_zh": "半圆打包",
-      "is_new": true,
-      "created_display": "Created: Nov 13, 2026 / 06:42 PT",
-      "image_url": "https://rorz.io/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FScreenshot%25202026-11-13%2520at%25206.35.24%2520pm.CYFqmmjd.png&w=640&q=75",
-      "summary_en": "The author entered a short-story competition called GPU World and planned to publish the entry after the winners were announced. The contest offered a $40,000 first prize and seven $4,000 runner-up prizes, an unusually large pool compared with other competitions the author had entered. The piece is associated with the author's entry, titled “Semicircle Packing.”",
-      "summary_zh": "作者参加了名为 GPU World 的短篇小说比赛，并计划在公布获奖者后发布参赛作品。比赛一等奖为 4 万美元，另有 7 个 4000 美元的入围奖，奖金池相比作者当年参加的其他比赛高得多。该作品与作者题为《半圆打包》的参赛稿有关。",
-      "hn": {
-        "id": 50484234,
-        "type": "story",
-        "by": "sarreph",
-        "score": 69,
-        "descendants": 7,
-        "time": 1794580977,
-        "comments_url": "https://news.ycombinator.com/item?id=50484234"
-      },
-      "hot_score": 0.06,
-      "tags": [
-        "Culture",
-        "Hardware"
-      ]
-    },
-    {
-      "title_en": "Generative AI uses more energy on non-English text",
-      "url": "https://news.umich.edu/generative-ai-uses-more-energy-on-non-english-text/",
-      "title_zh": "生成式 AI 处理非英语文本时耗能更多",
-      "is_new": true,
-      "created_display": "Created: Nov 10, 2026 / 07:07 PT",
-      "image_url": null,
-      "summary_en": "Generative AI uses more energy when processing non-English text. The finding concerns the energy demands of generative-AI systems across different languages.",
-      "summary_zh": "生成式 AI 处理非英语文本时会消耗更多能源。这一发现涉及生成式 AI 系统在不同语言之间的能耗差异。",
-      "hn": {
-        "id": 50441444,
-        "type": "story",
-        "by": "DeepLogin",
-        "score": 226,
-        "descendants": 124,
-        "time": 1794323248,
-        "comments_url": "https://news.ycombinator.com/item?id=50441444"
-      },
-      "tags": [
-        "AI",
-        "Science",
-        "Energy"
-      ],
-      "hot_score": 0.04
+      "hot_score": 0.06
     },
     {
       "title_en": "What thousands of conversations look like inside a language model",
       "url": "https://operator0x.com/field-notes/qwen-conversation-state-space/",
       "title_zh": "语言模型内部数千段对话的形态",
-      "is_new": true,
+      "is_new": false,
       "created_display": "Created: Nov 13, 2026 / 02:26 PT",
       "image_url": "https://operator0x.com/assets/field-note-qwen-conversation-state-space.webp",
       "summary_en": "The author mapped thousands of conversations inside Qwen to examine how language takes shape. Each possible question, misunderstanding, explanation, or unfinished argument produces a sequence of internal states. The project asks whether conversations about similar subjects occupy neighboring regions and whether the same idea in different languages reaches recognizably similar regions.",
@@ -921,21 +1778,165 @@
         "id": 50481321,
         "type": "story",
         "by": "josip208",
-        "score": 54,
-        "descendants": 18,
+        "score": 116,
+        "descendants": 29,
         "time": 1794565561,
         "comments_url": "https://news.ycombinator.com/item?id=50481321"
       },
-      "hot_score": 0.04,
       "tags": [
         "AI"
+      ],
+      "hot_score": 0.06
+    },
+    {
+      "title_en": "The Evolving Story of How Chemistry Became Biology",
+      "url": "https://www.quantamagazine.org/the-evolving-story-of-how-chemistry-became-biology-20261112/",
+      "title_zh": "化学如何演变为生物：一个不断发展的故事",
+      "is_new": false,
+      "created_display": "Created: Nov 13, 2026 / 03:55 PT",
+      "image_url": "https://www.quantamagazine.org/wp-content/uploads/2026/11/Origin-of-Life-cr.Mark-Belan-Social.jpg",
+      "summary_en": "Scientists are revisiting how life may have emerged after decades of disagreement over which molecules came first. Current work focuses on the roughly 200 million years between the appearance of Earth's life-supporting conditions and the earliest known single-celled ancestor. The research is reshaping ideas about what life was, is, and could be.",
+      "summary_zh": "在围绕究竟是哪类分子最先出现的争论持续数十年后，科学家正在重新思考生命可能如何诞生。当前研究聚焦于地球出现适宜生命的条件之后、最古老单细胞祖先出现之前的大约 2 亿年。相关研究正在改变人们对生命过去、现在及可能形态的理解。",
+      "hn": {
+        "id": 50482222,
+        "type": "story",
+        "by": "pseudolus",
+        "score": 101,
+        "descendants": 26,
+        "time": 1794570919,
+        "comments_url": "https://news.ycombinator.com/item?id=50482222"
+      },
+      "tags": [
+        "Science"
+      ],
+      "hot_score": 0.06
+    },
+    {
+      "title_en": "Semicircle Packing",
+      "url": "https://rorz.io/writing/semicircle-packing",
+      "title_zh": "半圆打包",
+      "is_new": false,
+      "created_display": "Created: Nov 13, 2026 / 06:42 PT",
+      "image_url": "https://rorz.io/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FScreenshot%25202026-11-13%2520at%25206.35.24%2520pm.CYFqmmjd.png&w=640&q=75",
+      "summary_en": "The author entered a short-story competition called GPU World and planned to publish the entry after the winners were announced. The contest offered a $40,000 first prize and seven $4,000 runner-up prizes, an unusually large pool compared with other competitions the author had entered. The piece is associated with the author's entry, titled “Semicircle Packing.”",
+      "summary_zh": "作者参加了名为 GPU World 的短篇小说比赛，并计划在公布获奖者后发布参赛作品。比赛一等奖为 4 万美元，另有 7 个 4000 美元的入围奖，奖金池相比作者当年参加的其他比赛高得多。该作品与作者题为《半圆打包》的参赛稿有关。",
+      "hn": {
+        "id": 50484234,
+        "type": "story",
+        "by": "sarreph",
+        "score": 100,
+        "descendants": 10,
+        "time": 1794580977,
+        "comments_url": "https://news.ycombinator.com/item?id=50484234"
+      },
+      "tags": [
+        "Culture",
+        "Hardware"
+      ],
+      "hot_score": 0.06
+    },
+    {
+      "title_en": "500 Lines or Less A 3D Modeller",
+      "url": "https://aosabook.org/en/500L/a-3d-modeller.html",
+      "title_zh": "500 行以内：一个 3D 建模器",
+      "is_new": false,
+      "created_display": "Created: Nov 13, 2026 / 05:47 PT",
+      "image_url": "https://aosabook.org/en/500L/modeller-images/newtranspipe.png",
+      "summary_en": "This project presents a 3D modeller built in fewer than 500 lines of code. Its author, Erick, is a software developer and a 2D and 3D graphics enthusiast who has worked on games, visual-effects software, and computer-aided design tools.",
+      "summary_zh": "这个项目展示了一个代码量少于 500 行的 3D 建模器。作者 Erick 是软件开发者和 2D、3D 图形爱好者，曾参与电子游戏、视觉特效软件和计算机辅助设计工具的开发。",
+      "hn": {
+        "id": 50483431,
+        "type": "story",
+        "by": "myth_drannon",
+        "score": 97,
+        "descendants": 19,
+        "time": 1794577662,
+        "comments_url": "https://news.ycombinator.com/item?id=50483431"
+      },
+      "tags": [
+        "Programming"
+      ],
+      "hot_score": 0.06
+    },
+    {
+      "title_en": "Your room can be as bright as the outdoors (2019)",
+      "url": "https://www.benkuhn.net/lux/",
+      "title_zh": "让房间像户外一样明亮（2019）",
+      "is_new": true,
+      "created_display": "Created: Nov 13, 2026 / 12:05 PT",
+      "image_url": "https://www.benkuhn.net/lux/preview.jpg",
+      "summary_en": "The author describes setting up extremely bright indoor lighting to improve focus after dark. The project began after moving to Boston, where winter sunsets made evening productivity difficult. The setup was inspired by other blog posts and was intended to substitute for natural sunlight.",
+      "summary_zh": "作者介绍了如何设置极其明亮的室内照明，以改善天黑后的专注力。搬到波士顿后，冬季较早的日落让晚间工作变得困难，于是作者开始了这项尝试。这个方案受到其他博客文章启发，旨在替代自然阳光。",
+      "hn": {
+        "id": 50488916,
+        "type": "story",
+        "by": "mday404",
+        "score": 71,
+        "descendants": 55,
+        "time": 1794600320,
+        "comments_url": "https://news.ycombinator.com/item?id=50488916"
+      },
+      "hot_score": 0.05,
+      "tags": [
+        "Design"
       ]
+    },
+    {
+      "title_en": "Show HN: Carton Clock – A working pendulum clock made from empty drink cartons",
+      "url": "https://www.niklasroy.com/carton-clock/",
+      "title_zh": "Show HN：纸盒时钟——用空饮料盒制作的可运行摆钟",
+      "is_new": false,
+      "created_display": "Created: Nov 13, 2026 / 04:00 PT",
+      "image_url": "https://www.niklasroy.com/carton-clock/pics/og.jpg",
+      "summary_en": "The creator built a working pendulum clock mainly from empty drink cartons, with skewers, paper straws, string, nuts as weights, and hot glue. It includes a pendulum, escapement, and hour, minute, and second hands, and runs for about an hour. Claude assisted with interactive browser tools for generating gear templates and 3D-printable jigs and tools.",
+      "summary_zh": "创作者主要用空饮料盒制作了一台可运行的摆钟，另外使用了竹签、纸吸管、细绳、作为配重的螺母和热熔胶。时钟包含摆锤、擒纵机构以及时针、分针和秒针，可运行约一小时。Claude 协助制作了用于生成齿轮模板和可 3D 打印夹具、工具的交互式浏览器工具。",
+      "hn": {
+        "id": 50482279,
+        "type": "story",
+        "by": "r0r0",
+        "score": 74,
+        "descendants": 2,
+        "time": 1794571218,
+        "comments_url": "https://news.ycombinator.com/item?id=50482279"
+      },
+      "tags": [
+        "Show HN",
+        "Design",
+        "AI",
+        "Web"
+      ],
+      "hot_score": 0.04
+    },
+    {
+      "title_en": "Generative AI uses more energy on non-English text",
+      "url": "https://news.umich.edu/generative-ai-uses-more-energy-on-non-english-text/",
+      "title_zh": "生成式 AI 处理非英语文本时耗能更多",
+      "is_new": false,
+      "created_display": "Created: Nov 10, 2026 / 07:07 PT",
+      "image_url": null,
+      "summary_en": "Generative AI uses more energy when processing non-English text. The finding concerns the energy demands of generative-AI systems across different languages.",
+      "summary_zh": "生成式 AI 处理非英语文本时会消耗更多能源。这一发现涉及生成式 AI 系统在不同语言之间的能耗差异。",
+      "hn": {
+        "id": 50441444,
+        "type": "story",
+        "by": "DeepLogin",
+        "score": 231,
+        "descendants": 125,
+        "time": 1794323248,
+        "comments_url": "https://news.ycombinator.com/item?id=50441444"
+      },
+      "tags": [
+        "AI",
+        "Science",
+        "Energy"
+      ],
+      "hot_score": 0.03
     },
     {
       "title_en": "Testing a trash can Faraday cage",
       "url": "https://www.jefftk.com/p/testing-a-trash-can-faraday-cage",
       "title_zh": "测试垃圾桶法拉第笼",
-      "is_new": true,
+      "is_new": false,
       "created_display": "Created: Nov 12, 2026 / 06:04 PT",
       "image_url": "https://www.jefftk.com/receiver-source-no-trash-can-big.jpg",
       "summary_en": "The experiment examines whether a trash can can serve as a Faraday cage against electromagnetic pulses. A strong EMP could destroy many electronics, and the author identifies a high-altitude nuclear detonation as the most likely near-term source of such a pulse. The discussion is framed around disaster preparedness for risks including pandemics, infrastructure failures, and EMPs.",
@@ -944,8 +1945,8 @@
         "id": 50467278,
         "type": "story",
         "by": "torutofu",
-        "score": 84,
-        "descendants": 60,
+        "score": 91,
+        "descendants": 66,
         "time": 1794492267,
         "comments_url": "https://news.ycombinator.com/item?id=50467278"
       },
@@ -957,10 +1958,56 @@
       "hot_score": 0.03
     },
     {
+      "title_en": "Handwritten 200-year-old dismissal notice found on roof tile",
+      "url": "https://www.bbc.co.uk/news/articles/c6jdmdzv25r9o",
+      "title_zh": "屋顶瓦片上发现手写的 200 年前解雇通知",
+      "is_new": false,
+      "created_display": "Created: Nov 12, 2026 / 13:27 PT",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1236/live/64ff8440-ddf1-11f1-bb8c-51310f5678ed.jpg",
+      "summary_en": "A message written on a roof slate and found at a salvage yard appears to be a 200-year-old dismissal letter. It tells a worker that he is no longer needed and is signed by Thomas Austin. The message reads: “I do hereby discharge you, John Lewis, from my employment, Thomas Austin.”",
+      "summary_zh": "一块在旧料场发现的屋顶石板上写着一则手写信息，看起来是一封约 200 年前的解雇通知。通知告知一名工人他不再受雇，并由 Thomas Austin 签署。内容为：“我特此解除你 John Lewis 的雇佣关系。Thomas Austin。”",
+      "hn": {
+        "id": 50474529,
+        "type": "story",
+        "by": "nephihaha",
+        "score": 78,
+        "descendants": 50,
+        "time": 1794518821,
+        "comments_url": "https://news.ycombinator.com/item?id=50474529"
+      },
+      "tags": [
+        "Culture"
+      ],
+      "hot_score": 0.03
+    },
+    {
+      "title_en": "A quest to create the perfect whiskey glass",
+      "url": "https://www.nytimes.com/2026/11/13/dining/drinks/kurt-josef-zalto-whiskey-glass.html",
+      "title_zh": "打造完美威士忌酒杯的探索",
+      "is_new": true,
+      "created_display": "Created: Nov 13, 2026 / 09:37 PT",
+      "image_url": "https://static01.nyt.com/images/2026/11/12/multimedia/12FD-whiskey-glass-cover1-gckz/12FD-whiskey-glass-cover1-gckz-facebookJumbo.jpg",
+      "summary_en": "Austrian designer Kurt Josef Zalto has created the No. 11 whiskey glass for Josephinenhütte after three years of research. The design aims to prevent alcohol from overpowering the whiskey’s aroma. Zalto grew up accompanying his fifth-generation glassmaker father in the workshop.",
+      "summary_zh": "奥地利设计师 Kurt Josef Zalto 为 Josephinenhütte 设计了 No. 11 威士忌酒杯，历时三年研究。该设计旨在避免酒精气味压过威士忌的香气。Zalto 从小便跟随家族第五代玻璃工匠父亲进入工坊。",
+      "hn": {
+        "id": 50486880,
+        "type": "story",
+        "by": "Kaibeezy",
+        "score": 49,
+        "descendants": 49,
+        "time": 1794591452,
+        "comments_url": "https://news.ycombinator.com/item?id=50486880"
+      },
+      "hot_score": 0.03,
+      "tags": [
+        "Design"
+      ]
+    },
+    {
       "title_en": "The Sicilian Citrus Family Tree",
       "url": "https://www.notesfromtheroad.com/europa/citrus-family-tree.html",
       "title_zh": "西西里柑橘家谱",
-      "is_new": true,
+      "is_new": false,
       "created_display": "Created: Nov 10, 2026 / 17:52 PT",
       "image_url": null,
       "summary_en": "The piece presents a family tree of citrus fruits from Sicily. No further details about the varieties or their relationships are available here.",
@@ -969,8 +2016,8 @@
         "id": 50448895,
         "type": "story",
         "by": "wmchen",
-        "score": 98,
-        "descendants": 33,
+        "score": 117,
+        "descendants": 40,
         "time": 1794361920,
         "comments_url": "https://news.ycombinator.com/item?id=50448895"
       },
@@ -983,7 +2030,7 @@
       "title_en": "A rare glimpse inside the high-risk, high-reward Hormuz trade",
       "url": "https://www.lloydslist.com/LL1158922/A-rare-glimpse-inside-the-highrisk-highreward-Hormuz-trade",
       "title_zh": "深入了解高风险、高回报的霍尔木兹贸易",
-      "is_new": true,
+      "is_new": false,
       "created_display": "Created: Nov 10, 2026 / 09:21 PT",
       "image_url": "https://www.lloydslist.com/-/media/lloyds-list/images/strait-of-hormuz-crisis/maps/satellite-strait-of-hormuz.png?rev=4a2e265b731a4807b4cbf170a02ba346",
       "summary_en": "A witness statement by Mercuria freight trader Renaud Hauspy in the London trial Mercuria v Baltic Exchange sheds light on transporting crude through the Strait of Hormuz. The trade is described as highly secretive, with private transaction terms, unusually media-shy participants, extreme security risks, and potentially enormous financial rewards. The case provides a rare view into how this oil trade operates.",
@@ -992,23 +2039,69 @@
         "id": 50443331,
         "type": "story",
         "by": "everybodyknows",
-        "score": 95,
-        "descendants": 85,
+        "score": 104,
+        "descendants": 99,
         "time": 1794331308,
         "comments_url": "https://news.ycombinator.com/item?id=50443331"
       },
-      "hot_score": 0.02,
       "tags": [
         "Business",
         "Finance",
         "Security"
+      ],
+      "hot_score": 0.02
+    },
+    {
+      "title_en": "Open-Source HF Communications for Remote Communities and Experimenters",
+      "url": "https://www.ardc.net/rhizomaticas-hermes-and-mercury-expand-open-source-hf-communications-for-remote-communities-while-appealing-to-experimenters/",
+      "title_zh": "面向偏远社区和实验者的开源 HF 通信",
+      "is_new": false,
+      "created_display": "Created: Nov 11, 2026 / 03:11 PT",
+      "image_url": "https://www.ardc.net/wp-content/uploads/Website-Top-Banner2.svg",
+      "summary_en": "In remote communities without reliable cellular or internet service, high-frequency radio can provide long-distance communication. Rhizomatica, a nonprofit focused on expanding access in underserved areas, recognized this potential and developed technology to make HF communications more accessible. The project includes HERMES, a High-frequency Emergency and Rural Multimedia Exchange System used in places such as the Ecuadorian Amazon.",
+      "summary_zh": "在蜂窝网络和互联网服务不可用或不可靠的偏远社区，高频无线电可以提供远距离通信。致力于扩大弱势地区通信接入的非营利组织 Rhizomatica 认识到这一潜力，并开发技术降低 HF 通信的使用门槛。该项目包括高频紧急与农村多媒体交换系统 HERMES，并已用于厄瓜多尔亚马逊地区等地。",
+      "hn": {
+        "id": 50452037,
+        "type": "story",
+        "by": "tejtm",
+        "score": 80,
+        "descendants": 14,
+        "time": 1794395482,
+        "comments_url": "https://news.ycombinator.com/item?id=50452037"
+      },
+      "tags": [
+        "Open Source"
+      ],
+      "hot_score": 0.02
+    },
+    {
+      "title_en": "Notes on Mathematics for Engineers (1959) [pdf]",
+      "url": "https://websites.umich.edu/~ners311/CourseLibrary/MathNotes.pdf",
+      "title_zh": "工程师数学笔记（1959 年）",
+      "is_new": true,
+      "created_display": "Created: Nov 11, 2026 / 04:25 PT",
+      "image_url": null,
+      "summary_en": "A 1959 PDF contains mathematics notes for engineers.",
+      "summary_zh": "这份 1959 年的 PDF 包含面向工程师的数学笔记。",
+      "hn": {
+        "id": 50452621,
+        "type": "story",
+        "by": "the-mitr",
+        "score": 74,
+        "descendants": 19,
+        "time": 1794399942,
+        "comments_url": "https://news.ycombinator.com/item?id=50452621"
+      },
+      "hot_score": 0.02,
+      "tags": [
+        "Education"
       ]
     },
     {
       "title_en": "Oxford Molecular Motors",
       "url": "https://www.physics.ox.ac.uk/research/group/oxford-molecular-motors/research/bacterial-flagellar-motor",
       "title_zh": "牛津分子马达",
-      "is_new": true,
+      "is_new": false,
       "created_display": "Created: Nov 11, 2026 / 09:06 PT",
       "image_url": "https://www.physics.ox.ac.uk/themes/custom/physics/logo.svg",
       "summary_en": "The bacterial flagellar motor is a rotary molecular engine powered by ions flowing across a bacterium's inner membrane. It drives a helical filament whose rotation propels the cell through water. Cryo-electron microscopy structures and optical measurements of live motors are being used to clarify how the machine works.",
@@ -1017,8 +2110,8 @@
         "id": 50455732,
         "type": "story",
         "by": "handfuloflight",
-        "score": 67,
-        "descendants": 17,
+        "score": 73,
+        "descendants": 18,
         "time": 1794416768,
         "comments_url": "https://news.ycombinator.com/item?id=50455732"
       },
@@ -1028,94 +2121,22 @@
       "hot_score": 0.02
     },
     {
-      "title_en": "Handwritten 200-year-old dismissal notice found on roof tile",
-      "url": "https://www.bbc.co.uk/news/articles/c6jdmdzv25r9o",
-      "title_zh": "屋顶瓦片上发现手写的 200 年前解雇通知",
+      "title_en": "20 Years of Pyrolog",
+      "url": "https://pypy.org/posts/2026/11/20-years-of-pyrolog.html",
+      "title_zh": "Pyrolog 20 年",
       "is_new": true,
-      "created_display": "Created: Nov 12, 2026 / 13:27 PT",
-      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1236/live/64ff8440-ddf1-11f1-bb8c-51310f5678ed.jpg",
-      "summary_en": "A message written on a roof slate and found at a salvage yard appears to be a 200-year-old dismissal letter. It tells a worker that he is no longer needed and is signed by Thomas Austin. The message reads: “I do hereby discharge you, John Lewis, from my employment, Thomas Austin.”",
-      "summary_zh": "一块在旧料场发现的屋顶石板上写着一则手写信息，看起来是一封约 200 年前的解雇通知。通知告知一名工人他不再受雇，并由 Thomas Austin 签署。内容为：“我特此解除你 John Lewis 的雇佣关系。Thomas Austin。”",
+      "created_display": "Created: Nov 12, 2026 / 06:15 PT",
+      "image_url": "https://pypy.org/images/2026-pyrolog-memory-orig.svg",
+      "summary_en": "Pyrolog’s first surviving RPython-based Prolog commit was made on November 12, 2006. Although the project never gained real users, it led to research and influenced several other RPython projects. Its development began while the author was completing work connected to a PyPy EU research project and studying Prolog.",
+      "summary_zh": "Pyrolog 首个现存的基于 RPython 的 Prolog 提交诞生于 2006 年 11 月 12 日。尽管该项目从未拥有真正的用户，但它推动了一些研究，并影响了其他多个 RPython 项目。它的开发始于作者参与 PyPy 欧盟研究项目并学习 Prolog 期间。",
       "hn": {
-        "id": 50474529,
+        "id": 50467539,
         "type": "story",
-        "by": "nephihaha",
-        "score": 49,
-        "descendants": 30,
-        "time": 1794518821,
-        "comments_url": "https://news.ycombinator.com/item?id=50474529"
-      },
-      "hot_score": 0.02,
-      "tags": [
-        "Culture"
-      ]
-    },
-    {
-      "title_en": "Astro Spiral: Greatest Car Stunt Was Also First Computer-Modeled Stunt",
-      "url": "https://boldentrance.com/astro-spiral-the-greatest-car-stunt/",
-      "title_zh": "Astro Spiral：最伟大的汽车特技也是首个计算机建模的特技",
-      "is_new": true,
-      "created_display": "Created: Nov 12, 2026 / 15:04 PT",
-      "image_url": "https://boldentrance.com/wp-content/uploads/2018/11/Bold-Entrance-logo.jpg",
-      "summary_en": "The 1974 corkscrew car jump in The Man with the Golden Gun used an AMC Hornet X to cross a twisted bridge while performing an airborne barrel roll. The stunt was carried out for real, but a computer was used extensively to model it beforehand. The modeling helped determine the bridge angles, vehicle speed, and timing needed for a safe landing on the wheels.",
-      "summary_zh": "《金枪人》中 1974 年的螺旋跳车特技使用 AMC Hornet X 飞越扭曲的桥梁，并在空中完成滚转。特技是真实拍摄的，但事先大量使用计算机进行建模。建模帮助确定桥梁角度、车辆速度和动作时机，以确保车辆最终安全地以车轮着地。",
-      "hn": {
-        "id": 50475692,
-        "type": "story",
-        "by": "CharlesW",
-        "score": 47,
-        "descendants": 9,
-        "time": 1794524663,
-        "comments_url": "https://news.ycombinator.com/item?id=50475692"
-      },
-      "hot_score": 0.02,
-      "tags": [
-        "Science"
-      ]
-    },
-    {
-      "title_en": "Show HN: Carton Clock – A working pendulum clock made from empty drink cartons",
-      "url": "https://www.niklasroy.com/carton-clock/",
-      "title_zh": "Show HN：纸盒时钟——用空饮料盒制作的可运行摆钟",
-      "is_new": true,
-      "created_display": "Created: Nov 13, 2026 / 04:00 PT",
-      "image_url": "https://www.niklasroy.com/carton-clock/pics/og.jpg",
-      "summary_en": "The creator built a working pendulum clock mainly from empty drink cartons, with skewers, paper straws, string, nuts as weights, and hot glue. It includes a pendulum, escapement, and hour, minute, and second hands, and runs for about an hour. Claude assisted with interactive browser tools for generating gear templates and 3D-printable jigs and tools.",
-      "summary_zh": "创作者主要用空饮料盒制作了一台可运行的摆钟，另外使用了竹签、纸吸管、细绳、作为配重的螺母和热熔胶。时钟包含摆锤、擒纵机构以及时针、分针和秒针，可运行约一小时。Claude 协助制作了用于生成齿轮模板和可 3D 打印夹具、工具的交互式浏览器工具。",
-      "hn": {
-        "id": 50482279,
-        "type": "story",
-        "by": "r0r0",
-        "score": 32,
-        "descendants": 1,
-        "time": 1794571218,
-        "comments_url": "https://news.ycombinator.com/item?id=50482279"
-      },
-      "hot_score": 0.02,
-      "tags": [
-        "Show HN",
-        "Design",
-        "AI",
-        "Web"
-      ]
-    },
-    {
-      "title_en": "Strictly monotonic timestamps and gapless sequences in Rust",
-      "url": "https://tsoracle.rs/",
-      "title_zh": "Rust 中的严格单调时间戳与无间隔序列",
-      "is_new": true,
-      "created_display": "Created: Nov 13, 2026 / 02:04 PT",
-      "image_url": "https://tsoracle.rs/og-default.png",
-      "summary_en": "tsoracle is a distributed Rust oracle that provides strictly monotonic timestamps and dense, gapless ID sequences. It is Raft-replicated, crash-safe, highly available, fault tolerant, and embeddable. The system is intended for uses including MVCC, snapshot isolation, cross-shard ordering, and gapless surrogate keys.",
-      "summary_zh": "tsoracle 是一个用 Rust 编写的分布式服务，提供严格单调的时间戳以及连续无间隔的 ID 序列。它采用 Raft 复制，具备崩溃安全、高可用、容错和可嵌入特性。其目标应用包括 MVCC、快照隔离、跨分片排序和无间隔代理键。",
-      "hn": {
-        "id": 50481056,
-        "type": "story",
-        "by": "znano",
-        "score": 27,
-        "descendants": 13,
-        "time": 1794564277,
-        "comments_url": "https://news.ycombinator.com/item?id=50481056"
+        "by": "lumpa",
+        "score": 71,
+        "descendants": 4,
+        "time": 1794492928,
+        "comments_url": "https://news.ycombinator.com/item?id=50467539"
       },
       "hot_score": 0.02,
       "tags": [
@@ -1123,33 +2144,10 @@
       ]
     },
     {
-      "title_en": "Open-Source HF Communications for Remote Communities and Experimenters",
-      "url": "https://www.ardc.net/rhizomaticas-hermes-and-mercury-expand-open-source-hf-communications-for-remote-communities-while-appealing-to-experimenters/",
-      "title_zh": "面向偏远社区和实验者的开源 HF 通信",
-      "is_new": true,
-      "created_display": "Created: Nov 11, 2026 / 03:11 PT",
-      "image_url": "https://www.ardc.net/wp-content/uploads/Website-Top-Banner2.svg",
-      "summary_en": "In remote communities without reliable cellular or internet service, high-frequency radio can provide long-distance communication. Rhizomatica, a nonprofit focused on expanding access in underserved areas, recognized this potential and developed technology to make HF communications more accessible. The project includes HERMES, a High-frequency Emergency and Rural Multimedia Exchange System used in places such as the Ecuadorian Amazon.",
-      "summary_zh": "在蜂窝网络和互联网服务不可用或不可靠的偏远社区，高频无线电可以提供远距离通信。致力于扩大弱势地区通信接入的非营利组织 Rhizomatica 认识到这一潜力，并开发技术降低 HF 通信的使用门槛。该项目包括高频紧急与农村多媒体交换系统 HERMES，并已用于厄瓜多尔亚马逊地区等地。",
-      "hn": {
-        "id": 50452037,
-        "type": "story",
-        "by": "tejtm",
-        "score": 54,
-        "descendants": 5,
-        "time": 1794395482,
-        "comments_url": "https://news.ycombinator.com/item?id=50452037"
-      },
-      "hot_score": 0.01,
-      "tags": [
-        "Open Source"
-      ]
-    },
-    {
       "title_en": "Chasing an audio artifact on power loss",
       "url": "https://subalpinecircuits.com/chasing-an-audio-artifact-on-power-loss/",
       "title_zh": "追查断电时的音频杂音",
-      "is_new": true,
+      "is_new": false,
       "created_display": "Created: Nov 12, 2026 / 15:11 PT",
       "image_url": "https://subalpinecircuits.com/content/images/2026/11/IMG_9073-2.jpg",
       "summary_en": "The author spent about a year investigating a click or thunk from the SA-01 synthesizer's audio stage when power was switched off or its USB cable was pulled. The sound came from the PCM5102A DAC's line output and was amplified through the headphone amplifier. Measurements suggested it was unlikely to damage headphones, but the author still wanted to eliminate it and now has a fully assembled production-candidate prototype.",
@@ -1158,46 +2156,90 @@
         "id": 50475759,
         "type": "story",
         "by": "ireflect",
-        "score": 27,
-        "descendants": 1,
+        "score": 54,
+        "descendants": 7,
         "time": 1794525085,
         "comments_url": "https://news.ycombinator.com/item?id=50475759"
       },
-      "hot_score": 0.01,
       "tags": [
         "Hardware"
-      ]
+      ],
+      "hot_score": 0.02
     },
     {
-      "title_en": "Claude Code and Codex reverse engineered my 1994 Jeep's ECU over a $3 Arduino [video]",
-      "url": "https://www.youtube.com/watch?v=WPj3aQ-xxpI",
-      "title_zh": "Claude Code 和 Codex 用一块 3 美元 Arduino 逆向工程了我 1994 年 Jeep 的 ECU",
-      "is_new": true,
-      "created_display": "Created: Nov 11, 2026 / 21:29 PT",
-      "image_url": null,
-      "summary_en": "Claude Code and Codex were used to reverse engineer the ECU of a 1994 Jeep. The project used a $3 Arduino as part of the setup. It is presented as a video demonstration of AI-assisted automotive reverse engineering.",
-      "summary_zh": "Claude Code 和 Codex 被用于逆向工程一辆 1994 年 Jeep 的 ECU。该项目使用了一块 3 美元的 Arduino 作为设备的一部分。相关成果以视频形式展示了 AI 辅助的汽车系统逆向工程过程。",
+      "title_en": "Astro Spiral: Greatest Car Stunt Was Also First Computer-Modeled Stunt",
+      "url": "https://boldentrance.com/astro-spiral-the-greatest-car-stunt/",
+      "title_zh": "Astro Spiral：最伟大的汽车特技也是首个计算机建模的特技",
+      "is_new": false,
+      "created_display": "Created: Nov 12, 2026 / 15:04 PT",
+      "image_url": "https://boldentrance.com/wp-content/uploads/2018/11/Bold-Entrance-logo.jpg",
+      "summary_en": "The 1974 corkscrew car jump in The Man with the Golden Gun used an AMC Hornet X to cross a twisted bridge while performing an airborne barrel roll. The stunt was carried out for real, but a computer was used extensively to model it beforehand. The modeling helped determine the bridge angles, vehicle speed, and timing needed for a safe landing on the wheels.",
+      "summary_zh": "《金枪人》中 1974 年的螺旋跳车特技使用 AMC Hornet X 飞越扭曲的桥梁，并在空中完成滚转。特技是真实拍摄的，但事先大量使用计算机进行建模。建模帮助确定桥梁角度、车辆速度和动作时机，以确保车辆最终安全地以车轮着地。",
       "hn": {
-        "id": 50463399,
+        "id": 50475692,
         "type": "story",
-        "by": "envoked",
-        "score": 17,
-        "descendants": 1,
-        "time": 1794461364,
-        "comments_url": "https://news.ycombinator.com/item?id=50463399"
+        "by": "CharlesW",
+        "score": 53,
+        "descendants": 13,
+        "time": 1794524663,
+        "comments_url": "https://news.ycombinator.com/item?id=50475692"
       },
-      "hot_score": 0.01,
       "tags": [
-        "AI",
-        "Programming",
-        "Hardware"
+        "Science"
+      ],
+      "hot_score": 0.02
+    },
+    {
+      "title_en": "Strictly monotonic timestamps and gapless sequences in Rust",
+      "url": "https://tsoracle.rs/",
+      "title_zh": "Rust 中的严格单调时间戳与无间隔序列",
+      "is_new": false,
+      "created_display": "Created: Nov 13, 2026 / 02:04 PT",
+      "image_url": "https://tsoracle.rs/og-default.png",
+      "summary_en": "tsoracle is a distributed Rust oracle that provides strictly monotonic timestamps and dense, gapless ID sequences. It is Raft-replicated, crash-safe, highly available, fault tolerant, and embeddable. The system is intended for uses including MVCC, snapshot isolation, cross-shard ordering, and gapless surrogate keys.",
+      "summary_zh": "tsoracle 是一个用 Rust 编写的分布式服务，提供严格单调的时间戳以及连续无间隔的 ID 序列。它采用 Raft 复制，具备崩溃安全、高可用、容错和可嵌入特性。其目标应用包括 MVCC、快照隔离、跨分片排序和无间隔代理键。",
+      "hn": {
+        "id": 50481056,
+        "type": "story",
+        "by": "znano",
+        "score": 39,
+        "descendants": 17,
+        "time": 1794564277,
+        "comments_url": "https://news.ycombinator.com/item?id=50481056"
+      },
+      "tags": [
+        "Programming"
+      ],
+      "hot_score": 0.02
+    },
+    {
+      "title_en": "Keylogger Detection and Containment [pdf]",
+      "url": "https://www.cs.vu.nl/~ast/Theses/ortolani-thesis.pdf",
+      "title_zh": "键盘记录器检测与遏制",
+      "is_new": true,
+      "created_display": "Created: Nov 13, 2026 / 16:10 PT",
+      "image_url": null,
+      "summary_en": "A PDF presents work on detecting and containing keyloggers.",
+      "summary_zh": "这份 PDF 介绍了键盘记录器的检测与遏制方法。",
+      "hn": {
+        "id": 50492012,
+        "type": "story",
+        "by": "movsx",
+        "score": 20,
+        "descendants": 2,
+        "time": 1794615015,
+        "comments_url": "https://news.ycombinator.com/item?id=50492012"
+      },
+      "hot_score": 0.02,
+      "tags": [
+        "Security"
       ]
     },
     {
       "title_en": "How to read codes from (many) IR remote controls with as little code as possible",
       "url": "https://bitbanksoftware.blogspot.com/2026/11/how-to-read-codes-from-many-ir-remote.html",
       "title_zh": "如何用尽可能少的代码读取大量红外遥控器的编码",
-      "is_new": true,
+      "is_new": false,
       "created_display": "Created: Nov 11, 2026 / 12:09 PT",
       "image_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh105qMltP9lmqwHDZI4LcD3iEzndTfbb3a7Yia7y0NrGd5hgVaoxki0BcerD-qBZZfMRYnbBDWnCi-Joz8QbvKle9yLCBez-XTkaBSK0gotrN9wfhGxPIOYnKsmZSiSfubm3w2HqtA6jOB67IdAgw0SMEbX125bJXl4GFx0a4HZ-tUBBvLI1C2qxUdz5GH/w1200-h630-p-k-no-nu/IMG_3201%20Medium.jpeg",
       "summary_en": "The project explains how to read codes from many inexpensive infrared remote controls. These remotes typically modulate digital data onto a 36–40 kHz carrier using 940 nm infrared light, which provides robust detection in noisy indoor environments and reflects well from ordinary surfaces. The author created software to use such remotes to restore infrared-control functionality to a MacBook.",
@@ -1206,13 +2248,152 @@
         "id": 50457979,
         "type": "story",
         "by": "speckx",
-        "score": 16,
-        "descendants": 3,
+        "score": 59,
+        "descendants": 10,
         "time": 1794427774,
         "comments_url": "https://news.ycombinator.com/item?id=50457979"
       },
+      "tags": [
+        "Programming"
+      ],
+      "hot_score": 0.01
+    },
+    {
+      "title_en": "Eval Awareness vs. Eval Paranoia",
+      "url": "https://www.lesswrong.com/posts/mepsi7JNKYejq9wry/eval-awareness-vs-eval-paranoia",
+      "title_zh": "评测意识与评测偏执",
+      "is_new": true,
+      "created_display": "Created: Nov 12, 2026 / 03:23 PT",
+      "image_url": "https://res.cloudinary.com/lesswrong-2-0/image/upload/v1654295382/new_mississippi_river_fjdmww.jpg",
+      "summary_en": "The author argues that frontier models are not very evaluation-aware, an issue they consider important when interpreting model behavior. After working full time on alignment evaluations for six months, the author plans to use examples from three disclosed evaluations to explain why apparent evaluation awareness may be mistaken for consistent behavior.",
+      "summary_zh": "作者认为，前沿模型并不具备很强的评测意识，这一点对于解读模型行为十分重要。作者已全职开展对齐评测六个月，计划通过三个已公开提示词的评测案例，解释为什么看似具有评测意识的行为可能被误认为是一致的行为模式。",
+      "hn": {
+        "id": 50465676,
+        "type": "story",
+        "by": "ezrasu",
+        "score": 49,
+        "descendants": 21,
+        "time": 1794482582,
+        "comments_url": "https://news.ycombinator.com/item?id=50465676"
+      },
+      "hot_score": 0.01,
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "title_en": "Bullet Dodged",
+      "url": "https://idiotking.org/archives/2026/10/bullet-dodged-3/",
+      "title_zh": "有惊无险",
+      "is_new": true,
+      "created_display": "Created: Nov 12, 2026 / 07:00 PT",
+      "image_url": "http://www.idiotking.org/card_image.jpg",
+      "summary_en": "The author found that a refrigerator was running above 50 degrees and causing milk to spoil quickly. After testing the inverter module, ordering a replacement part, and cleaning about 30 pounds of dust and hair from the coils and fan, the repair appeared to address the problem.",
+      "summary_zh": "作者发现冰箱内部温度超过 50 度，导致牛奶迅速变质。在检测逆变器模块、订购替换部件，并清理线圈和风扇下约 30 磅灰尘与毛发后，维修似乎解决了问题。",
+      "hn": {
+        "id": 50468445,
+        "type": "story",
+        "by": "surprisetalk",
+        "score": 43,
+        "descendants": 33,
+        "time": 1794495611,
+        "comments_url": "https://news.ycombinator.com/item?id=50468445"
+      },
+      "hot_score": 0.01,
+      "tags": [
+        "Hardware"
+      ]
+    },
+    {
+      "title_en": "Aspidistra: A British wartime radio transmitter used for MitM attacks",
+      "url": "https://en.wikipedia.org/wiki/Aspidistra_(transmitter)",
+      "title_zh": "Aspidistra：用于中间人攻击的英国战时无线电发射机",
+      "is_new": true,
+      "created_display": "Created: Nov 12, 2026 / 02:58 PT",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/View_of_ASPI_and_DWS_logos_at_Aspidistra_site.jpg/1280px-View_of_ASPI_and_DWS_logos_at_Aspidistra_site.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
+      "summary_en": "Aspidistra was a powerful British medium-wave transmitter used for black propaganda and military deception against Nazi Germany during World War II. It was installed in 1942 near Crowborough in southeast England. The original medium-wave transmitter was known as ASPI 1, while related medium- and short-wave transmitters used variants of the name.",
+      "summary_zh": "Aspidistra 是英国在二战期间使用的一台强力中波无线电发射机，用于针对纳粹德国的秘密宣传和军事欺骗。它于 1942 年安装在英格兰东南部克劳伯勒附近。原始中波发射机称为 ASPI 1，其他相关中短波发射机则使用这一名称的变体。",
+      "hn": {
+        "id": 50465522,
+        "type": "story",
+        "by": "BoxOfRain",
+        "score": 29,
+        "descendants": 4,
+        "time": 1794481080,
+        "comments_url": "https://news.ycombinator.com/item?id=50465522"
+      },
+      "hot_score": 0.01,
+      "tags": [
+        "Security"
+      ]
+    },
+    {
+      "title_en": "1900s How do you Wash a Kimono?",
+      "url": "https://www.oldphotosjapan.com/photos/877/laundry-washing-clothes-meiji-19th-century-vintage-albumen-prints",
+      "title_zh": "1900 年代：和服该如何清洗？",
+      "is_new": true,
+      "created_display": "Created: Nov 13, 2026 / 14:03 PT",
+      "image_url": "https://www.oldphotosjapan.com/images/sq-800/835.jpg",
+      "summary_en": "Three Japanese women are shown doing laundry in kimono. One washes clothes in a wooden tub while the other two spread separated kimono on wooden boards.",
+      "summary_zh": "照片中，三名身穿和服的日本女性正在洗衣服。一人用木盆清洗衣物，另外两人将拆开的和服铺在木板上。",
+      "hn": {
+        "id": 50490583,
+        "type": "story",
+        "by": "Matrixik",
+        "score": 20,
+        "descendants": 2,
+        "time": 1794607421,
+        "comments_url": "https://news.ycombinator.com/item?id=50490583"
+      },
+      "hot_score": 0.01,
+      "tags": [
+        "Culture"
+      ]
+    },
+    {
+      "title_en": "A DrRacket style editor for Clojure with some Lisp Machine inspired features",
+      "url": "https://jonquil.b12n.app/",
+      "title_zh": "一款具有 Lisp Machine 风格功能的 DrRacket 式 Clojure 编辑器",
+      "is_new": true,
+      "created_display": "Created: Nov 13, 2026 / 04:42 PT",
+      "image_url": "https://jonquil.b12n.app/images/window.png",
+      "summary_en": "Jonquil is a DrRacket-style editor for Jolt, Clojure, ClojureScript, jank, Basilisp, and babashka. It provides six dialect profiles, runs code in a REPL, and can stop runaway programs. Jolt can run in or out of process, while jank and ClojureScript are launched automatically and the other dialects attach over nREPL.",
+      "summary_zh": "Jonquil 是一款面向 Jolt、Clojure、ClojureScript、jank、Basilisp 和 babashka 的 DrRacket 风格编辑器。它提供六种方言配置，可在 REPL 中运行代码并停止失控程序。Jolt 支持进程内或进程外运行，jank 和 ClojureScript 会自动启动，其他方言则通过 nREPL 连接。",
+      "hn": {
+        "id": 50482702,
+        "type": "story",
+        "by": "yogthos",
+        "score": 14,
+        "descendants": 1,
+        "time": 1794573762,
+        "comments_url": "https://news.ycombinator.com/item?id=50482702"
+      },
+      "hot_score": 0.01,
+      "tags": [
+        "Programming"
+      ]
+    },
+    {
+      "title_en": "Do We Still Have to Denormalize? Have Your Schema and Search It Too",
+      "url": "https://www.paradedb.com/blog/joins",
+      "title_zh": "我们还需要反规范化吗？让数据库模式与搜索兼得",
+      "is_new": true,
+      "created_display": "Created: Nov 13, 2026 / 07:31 PT",
+      "image_url": "https://www.paradedb.com/blog/joins/images/opengraph-image.png",
+      "summary_en": "ParadeDB describes ways to accelerate search and aggregate joins across normalized PostgreSQL schemas. The approach combines DataFusion, Rank Joins, co-partitioning, and tuple tagging. The challenge is that search across related tables such as users, posts, and comments is harder to optimize than search over one denormalized table.",
+      "summary_zh": "ParadeDB 介绍了如何加速规范化 PostgreSQL 模式上的搜索和聚合连接。其方法结合了 DataFusion、Rank Joins、共同分区和元组标记。难点在于，跨 users、posts 和 comments 等关联表搜索，比在单个反规范化表中搜索更难优化。",
+      "hn": {
+        "id": 50484998,
+        "type": "story",
+        "by": "philippemnoel",
+        "score": 3,
+        "descendants": 0,
+        "time": 1794583910,
+        "comments_url": "https://news.ycombinator.com/item?id=50484998"
+      },
       "hot_score": 0.0,
       "tags": [
+        "Data",
         "Programming"
       ]
     }

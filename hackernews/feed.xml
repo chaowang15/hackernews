@@ -5,7 +5,7 @@
     <link>https://chaowang15.github.io/hackernews/</link>
     <description>Curated daily digest of top Hacker News stories with AI-generated summaries, tags, and bilingual translations.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 15 Nov 2026 16:05:58 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 02:07:02 +0000</lastBuildDate>
     <generator>Hacker News Daily RSS Builder</generator>
     <atom:link href="https://chaowang15.github.io/hackernews/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
@@ -21,6 +21,18 @@
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50467087&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/14/top_stories_11142026#story-50467087&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>SpaceX catches the Starship to end Flight 15</title>
+      <link>https://www.spacex.com/launches/starship-flight-15</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50500963</guid>
+      <dc:creator>ls612</dc:creator>
+      <pubDate>Sat, 14 Nov 2026 21:22:24 +0000</pubDate>
+      <category>Space</category>
+      <description>&lt;p&gt;SpaceX's Starship Flight 15 ended with the vehicle being caught by the launch system. The available material provides no further details about the flight or the catch.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;SpaceX 的星舰第 15 次飞行以发射系统接住飞行器告终。现有信息未提供这次飞行或捕获过程的更多细节。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 1646 · 💬 1226 · Space&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50500963&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/15/top_stories_11152026#story-50500963&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>FAA issues national ground stop – lifted 4.5 hours later</title>
       <link>https://www.nbcnews.com/news/us-news/faa-orders-nationwide-ground-stop-departing-flights-reasons-safety-rcna609247</link>
       <guid isPermaLink="true">https://news.ycombinator.com/item?id=50489641</guid>
@@ -31,18 +43,6 @@
 &lt;p&gt;&lt;em&gt;美国联邦航空管理局发布了影响出发航班的全国地面停飞令。现有记录确认了这一措施，但未提供其持续时间、原因或运行影响的可靠细节。&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;▲ 1638 · 💬 1270 · Politics&lt;/small&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50489641&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/14/top_stories_11142026#story-50489641&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>SpaceX catches the Starship to end Flight 15</title>
-      <link>https://www.spacex.com/launches/starship-flight-15</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50500963</guid>
-      <dc:creator>ls612</dc:creator>
-      <pubDate>Sat, 14 Nov 2026 21:22:24 +0000</pubDate>
-      <category>Space</category>
-      <description>&lt;p&gt;SpaceX's Starship Flight 15 ended with the vehicle being caught by the launch system. The available material provides no further details about the flight or the catch.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;SpaceX 的星舰第 15 次飞行以发射系统接住飞行器告终。现有信息未提供这次飞行或捕获过程的更多细节。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 1449 · 💬 978 · Space&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50500963&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/15/top_stories_11152026#story-50500963&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Tim Peters has died</title>
@@ -96,6 +96,19 @@
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50441707&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/11/top_stories_11112026#story-50441707&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>All AI-generated code should be Open Source</title>
+      <link>https://jakub.jankiewicz.org/blog/ai-code-open-source/</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50507303</guid>
+      <dc:creator>jcubic</dc:creator>
+      <pubDate>Sun, 15 Nov 2026 14:46:58 +0000</pubDate>
+      <category>AI</category>
+      <category>Open Source</category>
+      <description>&lt;p&gt;The author argues that all code generated with AI assistance should be released as open source or under a CC0 license. The argument is based on AI models being trained on large amounts of publicly available open-source code, as well as Stack Overflow and related sites whose Creative Commons licenses generally require attribution. The author says turning that shared knowledge into proprietary code resembles license laundering.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;作者主张，所有借助 AI 生成的代码都应以开源许可证或 CC0 许可发布。其理由是，AI 模型训练使用了大量公开的开源代码，以及通常要求署名的 Stack Overflow 和相关网站内容。作者认为，将这些共享知识转化为专有闭源代码近似于“许可证洗白”。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 1094 · 💬 595 · AI · Open Source&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50507303&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/15/top_stories_11152026#story-50507303&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs</title>
       <link>https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus</link>
       <guid isPermaLink="true">https://news.ycombinator.com/item?id=50493251</guid>
@@ -140,6 +153,20 @@
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50465829&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/13/top_stories_11132026#story-50465829&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Lovable apps expose passport details and more than 200K private messages</title>
+      <link>https://www.crissyfield.de/research/lovable-en/</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50499017</guid>
+      <dc:creator>armcat</dc:creator>
+      <pubDate>Sat, 14 Nov 2026 17:43:10 +0000</pubDate>
+      <category>Privacy</category>
+      <category>Startups</category>
+      <category>AI</category>
+      <description>&lt;p&gt;An analysis of 159,041 Lovable projects found many cases in which personal and confidential information was accessible without logging in, including passport details and more than 200,000 private messages. Lovable is a Stockholm-based Swedish AI startup founded in 2023 by Anton Osika and Fabian Hedin, whose platform generates web applications from plain-language descriptions. The findings show that building applications with AI does not remove the need for careful handling of sensitive data.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;对 159,041 个 Lovable 项目的分析发现，许多项目无需登录即可访问个人和机密信息，其中包括护照详情以及超过 20 万条私人消息。Lovable 是一家总部位于斯德哥尔摩、由 Anton Osika 和 Fabian Hedin 于 2023 年创立的瑞典 AI 初创公司，其平台可根据自然语言描述生成 Web 应用。这些发现表明，使用 AI 构建应用并不能免除对敏感数据进行谨慎处理的要求。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 974 · 💬 372 · Privacy · Startups · AI&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50499017&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/15/top_stories_11152026#story-50499017&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>AWS emulator</title>
       <link>https://github.com/aws/aws-emulator</link>
       <guid isPermaLink="true">https://news.ycombinator.com/item?id=50456631</guid>
@@ -151,20 +178,6 @@
 &lt;p&gt;&lt;em&gt;AWS Emulator 是一个用于模拟 AWS 服务的项目。现有信息没有提供其实现方式或所支持服务的更多技术细节。&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;▲ 967 · 💬 263 · Programming · Open Source&lt;/small&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50456631&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/12/top_stories_11122026#story-50456631&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Lovable apps expose passport details and more than 200K private messages</title>
-      <link>https://www.crissyfield.de/research/lovable-en/</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50499017</guid>
-      <dc:creator>armcat</dc:creator>
-      <pubDate>Sat, 14 Nov 2026 17:43:10 +0000</pubDate>
-      <category>Privacy</category>
-      <category>Startups</category>
-      <category>AI</category>
-      <description>&lt;p&gt;An analysis of 159,041 Lovable projects found many cases in which personal and confidential information was accessible without logging in, including passport details and more than 200,000 private messages. Lovable is a Stockholm-based Swedish AI startup founded in 2023 by Anton Osika and Fabian Hedin, whose platform generates web applications from plain-language descriptions. The findings show that building applications with AI does not remove the need for careful handling of sensitive data.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;对 159,041 个 Lovable 项目的分析发现，许多项目无需登录即可访问个人和机密信息，其中包括护照详情以及超过 20 万条私人消息。Lovable 是一家总部位于斯德哥尔摩、由 Anton Osika 和 Fabian Hedin 于 2023 年创立的瑞典 AI 初创公司，其平台可根据自然语言描述生成 Web 应用。这些发现表明，使用 AI 构建应用并不能免除对敏感数据进行谨慎处理的要求。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 933 · 💬 355 · Privacy · Startups · AI&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50499017&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/15/top_stories_11152026#story-50499017&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>.name Grandfathered</title>
@@ -355,7 +368,7 @@
       <category>Energy</category>
       <description>&lt;p&gt;The project uses a rooted second-hand Redmi smartphone as a camera and light controller instead of building the system around a Raspberry Pi. The phone already provides a high-resolution camera, GPS, storage, battery, and mobile data, while the original Raspberry Pi design required adding an Arducam 64MP camera and a GPS module. The approach could reduce the number of components and the project’s growing bill.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;这个项目改用一部已取得 root 权限的二手 Redmi 手机来充当摄像头和灯光控制器，而不是围绕树莓派搭建系统。手机已经具备高分辨率摄像头、GPS、存储、电池和移动数据功能；原先的树莓派方案则需要额外加入 Arducam 6400 万像素摄像头和 GPS 模块。这种做法有望减少组件数量，并控制不断上涨的项目成本。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 597 · 💬 317 · Hardware · Energy&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 617 · 💬 322 · Hardware · Energy&lt;/small&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50440709&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/15/top_stories_11152026#story-50440709&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
@@ -408,6 +421,19 @@
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50459745&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/12/top_stories_11122026#story-50459745&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>KDE: The documentary [video]</title>
+      <link>https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50496976</guid>
+      <dc:creator>mrkn1</dc:creator>
+      <pubDate>Sat, 14 Nov 2026 13:43:28 +0000</pubDate>
+      <category>Open Source</category>
+      <category>Culture</category>
+      <description>&lt;p&gt;KDE: The Documentary tells the story of the open-source community that emerged in 1996 to offer computer users a free alternative to proprietary desktops such as Windows. It traces the origins and development of KDE as a pioneering desktop project.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;《KDE：纪录片》讲述了这一开源社区的故事：它于 1996 年兴起，为计算机用户提供了 Windows 等专有桌面之外的免费替代方案。影片追溯了 KDE 这一先驱桌面项目的起源与发展。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 562 · 💬 133 · Open Source · Culture&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50496976&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/15/top_stories_11152026#story-50496976&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Gemini 4 Hydrogen</title>
       <link>https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/</link>
       <guid isPermaLink="true">https://news.ycombinator.com/item?id=50471431</guid>
@@ -454,19 +480,6 @@
 &lt;p&gt;&lt;em&gt;据报道，Apple 正在开发一款名为 Harbor 的 Mac 应用，用于简化在一台或多台 Mac 上运行本地 AI 模型的过程。泄密者 Aaron Perris 发现了这款应用的相关证据。随着 Mac Studio、Mac mini 等设备被越来越多地用于本地运行模型，该项目正处于这一趋势之中。&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;▲ 550 · 💬 551 · AI&lt;/small&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50446520&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/12/top_stories_11122026#story-50446520&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>KDE: The documentary [video]</title>
-      <link>https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50496976</guid>
-      <dc:creator>mrkn1</dc:creator>
-      <pubDate>Sat, 14 Nov 2026 13:43:28 +0000</pubDate>
-      <category>Open Source</category>
-      <category>Culture</category>
-      <description>&lt;p&gt;KDE: The Documentary tells the story of the open-source community that emerged in 1996 to offer computer users a free alternative to proprietary desktops such as Windows. It traces the origins and development of KDE as a pioneering desktop project.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;《KDE：纪录片》讲述了这一开源社区的故事：它于 1996 年兴起，为计算机用户提供了 Windows 等专有桌面之外的免费替代方案。影片追溯了 KDE 这一先驱桌面项目的起源与发展。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 539 · 💬 122 · Open Source · Culture&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50496976&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/15/top_stories_11152026#story-50496976&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Nvidia is preparing to oust Jensen Huang</title>
@@ -544,6 +557,19 @@
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50481187&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/14/top_stories_11142026#story-50481187&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Court denies motion to dismiss DRAM price fixing case</title>
+      <link>https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50502988</guid>
+      <dc:creator>ybathaee</dc:creator>
+      <pubDate>Sun, 15 Nov 2026 01:18:36 +0000</pubDate>
+      <category>Legal</category>
+      <category>Business</category>
+      <description>&lt;p&gt;A federal judge refused to dismiss a proposed class action accusing Samsung, SK Hynix, and Micron of conspiring to restrict conventional DRAM supply and shift capacity toward HBM. Judge Noël Wise found that buyers had plausibly alleged an agreement violating Section 1 of the Sherman Act. The allegations have been accepted only for this procedural stage and have not been proven.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;一名联邦法官拒绝驳回一项拟议集体诉讼，该诉讼指控三星、SK 海力士和美光合谋限制传统 DRAM 供应，并将产能转向 HBM。Noël Wise 法官认定，买方对违反《谢尔曼法》第 1 条的合谋提出了具有可信性的指控。目前这些指控仅在这一程序阶段被视为成立，并未得到证实。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 492 · 💬 219 · Legal · Business&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50502988&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/15/top_stories_11152026#story-50502988&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Synaptics patent claims stop work on DisplayLink drivers</title>
       <link>https://lwn.net/SubscriberLink/1102549/acbc92e00cee3a3f/</link>
       <guid isPermaLink="true">https://news.ycombinator.com/item?id=50443824</guid>
@@ -594,6 +620,20 @@
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50468888&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/13/top_stories_11132026#story-50468888&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Lutnick Pushed to Weaken Chip Rules That Overlap with His Family Business</title>
+      <link>https://www.nytimes.com/2026/11/15/us/politics/lutnick-pushed-to-weaken-chip-rules-that-overlap-with-his-family-business.html</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50506180</guid>
+      <dc:creator>JumpCrisscross</dc:creator>
+      <pubDate>Sun, 15 Nov 2026 11:40:51 +0000</pubDate>
+      <category>Politics</category>
+      <category>Business</category>
+      <category>Hardware</category>
+      <description>&lt;p&gt;The item concerns Lutnick being pushed to weaken chip rules that overlap with his family's business. It describes a potential conflict between semiconductor regulations and the interests of that family business.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;该条目涉及有人推动 Lutnick 削弱与其家族企业业务重叠的芯片规则。内容指向半导体监管与该家族企业利益之间可能存在的冲突。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 463 · 💬 207 · Politics · Business · Hardware&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50506180&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/15/top_stories_11152026#story-50506180&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Microsoft Outlook/365 still down after 12 hours</title>
       <link>https://twitter.com/MSFT365Status/status/2121079061774491735</link>
       <guid isPermaLink="true">https://news.ycombinator.com/item?id=50478609</guid>
@@ -604,47 +644,6 @@
 &lt;p&gt;&lt;em&gt;微软表示，在 Outlook/365 宕机期间，为改善服务能力而实施的变更没有达到预期效果。面对持续的流量管理失衡，公司正在寻找其他工作方案以提升容量。服务中断当时已持续超过 12 个小时。&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;▲ 462 · 💬 306 · DevOps&lt;/small&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50478609&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/13/top_stories_11132026#story-50478609&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Jonathan Blow – If AI solved coding, why is my software still the same? [video]</title>
-      <link>https://www.youtube.com/watch?v=IRK8h67ol7Q</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50484658</guid>
-      <dc:creator>helloplanets</dc:creator>
-      <pubDate>Fri, 13 Nov 2026 15:08:44 +0000</pubDate>
-      <category>AI</category>
-      <category>Programming</category>
-      <description>&lt;p&gt;The video is titled “If AI Solved Coding, Why Is My Software Still the Same?” by Jonathan Blow. No further details about the video’s contents are available.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;该视频由 Jonathan Blow 发布，标题为《如果 AI 已解决编程，为什么我的软件还是老样子？》。现有信息未提供视频内容的更多细节。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 460 · 💬 671 · AI · Programming&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50484658&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/14/top_stories_11142026#story-50484658&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Show HN: Every satellite that passed over any place this week, and its photos</title>
-      <link>https://www.watched.earth</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50428907</guid>
-      <dc:creator>a585gupt</dc:creator>
-      <pubDate>Mon, 09 Nov 2026 17:51:31 +0000</pubDate>
-      <category>Show HN</category>
-      <category>Data</category>
-      <category>Space</category>
-      <category>Hardware</category>
-      <category>Web</category>
-      <description>&lt;p&gt;Watched lets users enter a location and find every satellite that passed over it in the previous seven days, then retrieve Sentinel-2, Landsat, and NASA imagery from those passes. Its browser-based SGP4 search processes the CelesTrak catalog in about half a second, while roughly 17,000 orbital objects are rendered on the GPU. The project reports no missed passes in tests against brute-force searches and says it does not store locations.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Watched 允许用户输入地点，查找过去七天内经过该地点的所有卫星，并获取这些过境对应的 Sentinel-2、Landsat 和 NASA 影像。它在浏览器中使用 SGP4 处理 CelesTrak 目录，耗时约半秒，同时在 GPU 上绘制约 1.7 万个轨道目标。项目称，与暴力搜索对比测试未漏掉任何过境，并表示不会存储用户位置。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 458 · 💬 81 · Show HN · Data · Space · Hardware · Web&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50428907&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/10/top_stories_11102026#story-50428907&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Former Nvidia CEO Huang had a relationship with a second employee, sources say</title>
-      <link>https://www.reuters.com/technology/former-nvidia-ceo-huang-had-relationship-with-second-employee-sources-say-2026-11-12/</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50473190</guid>
-      <dc:creator>jbredeche</dc:creator>
-      <pubDate>Thu, 12 Nov 2026 19:51:33 +0000</pubDate>
-      <category>Business</category>
-      <description>&lt;p&gt;Sources say former Nvidia CEO Jensen Huang had a relationship with a second employee. No further details about the reported relationship are available.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;消息人士称，英伟达前 CEO 黄仁勋曾与第二名员工有关系。现有信息未提供这段关系的更多细节。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 448 · 💬 477 · Business&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50473190&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/13/top_stories_11132026#story-50473190&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
