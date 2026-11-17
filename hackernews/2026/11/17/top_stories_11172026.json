@@ -1,0 +1,1206 @@
+{
+  "meta": {
+    "mode": "top",
+    "source": "https://news.ycombinator.com/",
+    "api": "https://github.com/HackerNews/API",
+    "count_requested": 50,
+    "count_written": 50,
+    "reused_same_day": 0,
+    "reused_cross_day": 22,
+    "reused_history": 0,
+    "new_llm_enriched": 28,
+    "scrape_time_display": "08:04, November 17, 2026 (PST)",
+    "timezone": "America/Los_Angeles",
+    "date_dir": "2026/11/17",
+    "content_date": "2026-11-17",
+    "edition": "morning",
+    "edition_label": "Morning 50",
+    "target_count": 50,
+    "run_time_local": "08:04, November 17, 2026 (PST)",
+    "run_time_utc": "2026-11-17 16:04:22 UTC",
+    "incremental": true,
+    "stories_max": 50,
+    "hot_score_time_utc": "2026-11-17 16:05:23 UTC"
+  },
+  "items": [
+    {
+      "title_en": "New Evidence Shows School Phone Bans Are Gradually Improving Test Scores",
+      "url": "https://www.nytimes.com/2026/11/17/upshot/school-phone-bans-study-scores.html",
+      "title_zh": "新证据显示，学校禁用手机正逐步提高考试成绩",
+      "is_new": true,
+      "created_display": "Created: Nov 17, 2026 / 03:45 PT",
+      "image_url": "https://static01.nyt.com/images/2026/11/17/multimedia/17up-phone-pouch1-jlkf/17up-phone-pouch1-jlkf-facebookJumbo.jpg",
+      "summary_en": "A large national analysis comparing students’ scores before and after cellphone bans found modest academic improvements. Schools with strict policies requiring students to lock phones in pouches for the entire school day saw math and reading gains equivalent to roughly one or two additional weeks of schooling per year. The study was published by Harvard’s Center for Education Policy Research and is the first national study to track individual students’ growth in this way.",
+      "summary_zh": "一项比较学生禁用手机前后成绩的大型全国性分析发现，学业表现出现小幅改善。要求学生在整个上课日将手机锁入袋中的学校，数学和阅读成绩提升幅度相当于每年额外增加约一至两周的学习。该研究由哈佛教育政策研究中心发布，是首项以这种方式追踪个体学生成长的全国性研究。",
+      "hn": {
+        "id": 50530163,
+        "type": "story",
+        "by": "donohoe",
+        "score": 619,
+        "descendants": 316,
+        "time": 1794915951,
+        "comments_url": "https://news.ycombinator.com/item?id=50530163"
+      },
+      "hot_score": 22.33,
+      "tags": [
+        "Education"
+      ]
+    },
+    {
+      "title_en": "We don't need more apps. We need better open source",
+      "url": "https://jordankrueger.com/blog/better-open-source-not-more-apps/",
+      "title_zh": "我们不需要更多应用，而需要更好的开源软件",
+      "is_new": true,
+      "created_display": "Created: Nov 17, 2026 / 06:45 PT",
+      "image_url": "https://jordankrueger.com/images/gallery/blog-better-open-source-not-more-apps.jpg",
+      "summary_en": "AI has made it easy to build small applications over a weekend, such as habit trackers, to-do lists, and note-taking tools. The author argues that more of this energy should go toward improving the open-source software people already rely on, making it faster, lighter, and easier to run. The point is not to discourage people from building, but to redirect some of that effort toward shared infrastructure.",
+      "summary_zh": "人工智能让人们可以在一个周末轻松构建习惯追踪器、待办事项和笔记应用等小型软件。作者认为，更多这类精力应投入到改进人们已经依赖的开源软件上，让它们更快、更轻量、更易运行。重点不是阻止人们开发新东西，而是将部分努力转向共享基础设施。",
+      "hn": {
+        "id": 50532086,
+        "type": "story",
+        "by": "pandemicsoul",
+        "score": 175,
+        "descendants": 85,
+        "time": 1794926736,
+        "comments_url": "https://news.ycombinator.com/item?id=50532086"
+      },
+      "hot_score": 19.96,
+      "tags": [
+        "Open Source",
+        "AI",
+        "Programming",
+        "DevOps",
+        "Energy"
+      ]
+    },
+    {
+      "title_en": "Baidu, Xiaomi CEOs warn of growing gap between AI hype and returns",
+      "url": "https://www.scmp.com/tech/big-tech/article/3374774/baidu-xiaomi-ceos-warn-growing-gap-between-ai-hype-and-returns",
+      "title_zh": "百度和小米 CEO 警告：AI 热潮与回报之间的差距正在扩大",
+      "is_new": true,
+      "created_display": "Created: Nov 17, 2026 / 06:19 PT",
+      "image_url": null,
+      "summary_en": "The CEOs of Baidu and Xiaomi warned that the gap between enthusiasm for artificial intelligence and the returns it produces is growing.",
+      "summary_zh": "百度和小米的首席执行官警告称，人工智能热潮与其带来的回报之间的差距正在扩大。",
+      "hn": {
+        "id": 50531751,
+        "type": "story",
+        "by": "larrysalibra",
+        "score": 117,
+        "descendants": 121,
+        "time": 1794925199,
+        "comments_url": "https://news.ycombinator.com/item?id=50531751"
+      },
+      "hot_score": 10.71,
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "title_en": "Loopholes Are for Assholes",
+      "url": "https://actsofvolition.com/2026/11/loopholes-are-for-assholes/",
+      "title_zh": "钻漏洞的人都是混蛋",
+      "is_new": true,
+      "created_display": "Created: Nov 17, 2026 / 06:20 PT",
+      "image_url": null,
+      "summary_en": "The piece recalls an adult who taught the author that people could park wherever they wanted, including on the sidewalk directly in front of a store, because no one would intervene. This example presents exploiting weak enforcement as a form of supposed wisdom. The title frames such behavior as unacceptable rather than clever.",
+      "summary_zh": "文章回忆了一位成年人曾教作者，任何地方都可以停车，包括直接停在商店门前的人行道上，因为没人会干预。这个例子把利用执法薄弱当作一种所谓的处世智慧。标题则将这种行为定义为不可接受，而不是聪明。",
+      "hn": {
+        "id": 50531761,
+        "type": "story",
+        "by": "speckx",
+        "score": 93,
+        "descendants": 50,
+        "time": 1794925232,
+        "comments_url": "https://news.ycombinator.com/item?id=50531761"
+      },
+      "hot_score": 8.53,
+      "tags": [
+        "Culture"
+      ]
+    },
+    {
+      "title_en": "Carnegie Mellon is putting computer science courses on YouTube for free",
+      "url": "https://www.cs.cmu.edu/learn/",
+      "title_zh": "卡内基梅隆大学将计算机科学课程免费放到 YouTube",
+      "is_new": true,
+      "created_display": "Created: Nov 16, 2026 / 12:43 PT",
+      "image_url": "https://www.cs.cmu.edu/site-images/gates_web.jpg",
+      "summary_en": "Carnegie Mellon’s Kenneth C. Griffin School of Computer Science is publishing free lectures on YouTube. Self-paced courseware is planned as the next step. The release gives learners access to the school’s computer science material without charge.",
+      "summary_zh": "卡内基梅隆大学肯尼斯·C·格里芬计算机科学学院正在 YouTube 上发布免费课程讲座。下一步计划推出可自主学习的课程材料。这将让学习者免费接触该学院的计算机科学内容。",
+      "hn": {
+        "id": 50522980,
+        "type": "story",
+        "by": "pcompeau",
+        "score": 2000,
+        "descendants": 272,
+        "time": 1794861816,
+        "comments_url": "https://news.ycombinator.com/item?id=50522980"
+      },
+      "tags": [
+        "Education"
+      ],
+      "hot_score": 8.08
+    },
+    {
+      "title_en": "Pentagon fails 9th financial audit in a row",
+      "url": "https://thehill.com/policy/defense/6224597-pentagon-fails-ninth-audit/",
+      "title_zh": "五角大楼连续第九次未通过财务审计",
+      "is_new": true,
+      "created_display": "Created: Nov 17, 2026 / 07:02 PT",
+      "image_url": null,
+      "summary_en": "The Pentagon has failed its ninth consecutive financial audit.",
+      "summary_zh": "五角大楼连续第九次未通过财务审计。",
+      "hn": {
+        "id": 50532315,
+        "type": "story",
+        "by": "zootedjordan",
+        "score": 55,
+        "descendants": 31,
+        "time": 1794927773,
+        "comments_url": "https://news.ycombinator.com/item?id=50532315"
+      },
+      "hot_score": 7.29,
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "title_en": "A US Federal Women's Prison Became a \"Rape Club\"",
+      "url": "https://www.propublica.org/article/federal-womens-prison-sexual-abuse-reform-dublin-bop",
+      "title_zh": "一所美国联邦女子监狱变成了“强奸俱乐部”",
+      "is_new": true,
+      "created_display": "Created: Nov 17, 2026 / 07:03 PT",
+      "image_url": "https://www.propublica.org/wp-content/uploads/2026/11/MRSH-03-feature-v6-mid-SOCIAL.jpg?w=1200",
+      "summary_en": "Insiders say a culture of impunity remains at the women’s prison, allowing officers to prey on inmates even after some abusers were prosecuted or removed. One woman described the prison as having become a “hunting ground.” The account also describes Officer Felix Wilder moving through the prison as if he owned it.",
+      "summary_zh": "知情人士称，尽管部分施害者已被起诉或清除，这所女子监狱中纵容狱警侵害囚犯的有罪不罚文化仍然存在。一名女性称，这所监狱已经变成了“猎场”。报道还描述了狱警 Felix Wilder 在监狱中趾高气扬、仿佛一切都属于他的情形。",
+      "hn": {
+        "id": 50532322,
+        "type": "story",
+        "by": "paimapi",
+        "score": 53,
+        "descendants": 14,
+        "time": 1794927805,
+        "comments_url": "https://news.ycombinator.com/item?id=50532322"
+      },
+      "hot_score": 7.06,
+      "tags": [
+        "Legal",
+        "Politics"
+      ]
+    },
+    {
+      "title_en": "Highly classified US national security communications network goes down",
+      "url": "https://www.cnn.com/2026/11/17/politics/highly-classified-national-security-communications-network-goes-down",
+      "title_zh": "高度机密的美国国家安全通信网络发生故障",
+      "is_new": true,
+      "created_display": "Created: Nov 17, 2026 / 07:38 PT",
+      "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1227141714-20261117152535850.jpg?c=16x9&q=w_800,c_fill",
+      "summary_en": "The highly classified network used by the National Security Agency for internal communications is down, according to six people familiar with the matter. The reported outage affects a communications system supporting the agency’s internal operations.",
+      "summary_zh": "据六名知情人士透露，美国国家安全局用于内部通信的高度机密网络目前发生故障。此次中断影响了支持该机构内部运作的通信系统。",
+      "hn": {
+        "id": 50532849,
+        "type": "story",
+        "by": "monkeydust",
+        "score": 27,
+        "descendants": 5,
+        "time": 1794929908,
+        "comments_url": "https://news.ycombinator.com/item?id=50532849"
+      },
+      "hot_score": 5.19,
+      "tags": [
+        "Security"
+      ]
+    },
+    {
+      "title_en": "Show HN: Alloy CSS, dialogs, menus and tabs that work with JavaScript off",
+      "url": "https://alloyhtml.com/example.html",
+      "title_zh": "Show HN：Alloy CSS——关闭 JavaScript 也能工作的对话框、菜单和标签页",
+      "is_new": true,
+      "created_display": "Created: Nov 17, 2026 / 07:07 PT",
+      "image_url": null,
+      "summary_en": "Alloy CSS is demonstrated through a single page for a fictional invoicing application built without JavaScript. The page includes invoices for Okafor Legal and Tidewater Coffee totaling $2,200.00. It also represents recurring billing timing, with charges set for three days before the due date, on the due date, and every seven days afterward.",
+      "summary_zh": "Alloy CSS 通过一个不使用 JavaScript 构建的虚构发票应用单页进行展示。页面包含 Okafor Legal 和 Tidewater Coffee 的发票，合计金额为 2200 美元。它还展示了周期性账单时间设置：到期日前三天、到期日当天，以及之后每隔七天。",
+      "hn": {
+        "id": 50532385,
+        "type": "story",
+        "by": "prafandy",
+        "score": 31,
+        "descendants": 5,
+        "time": 1794928029,
+        "comments_url": "https://news.ycombinator.com/item?id=50532385"
+      },
+      "hot_score": 4.23,
+      "tags": [
+        "Show HN",
+        "Web",
+        "Programming",
+        "Legal"
+      ]
+    },
+    {
+      "title_en": "S. Korea to send nationwide emergency alerts over college entrance exam cheating",
+      "url": "https://apnews.com/article/south-korea-exam-cheating-ai-college-e25b5612dbf4bd09fdf9197254c4547e",
+      "title_zh": "韩国将针对高考作弊发送全国紧急警报",
+      "is_new": true,
+      "created_display": "Created: Nov 17, 2026 / 06:00 PT",
+      "image_url": null,
+      "summary_en": "South Korea will send nationwide emergency alerts over cheating during the college entrance examination.",
+      "summary_zh": "韩国将因大学入学考试作弊问题发送全国性紧急警报。",
+      "hn": {
+        "id": 50531484,
+        "type": "story",
+        "by": "parksb",
+        "score": 50,
+        "descendants": 52,
+        "time": 1794924047,
+        "comments_url": "https://news.ycombinator.com/item?id=50531484"
+      },
+      "hot_score": 3.9,
+      "tags": [
+        "Education",
+        "Politics"
+      ]
+    },
+    {
+      "title_en": "Windows 11 is collecting data on which coding agents and developer tools you use",
+      "url": "https://xusheng.dev/posts/windows-coding-agent-telemetry/",
+      "title_zh": "Windows 11 正收集你使用哪些编程代理和开发工具的数据",
+      "is_new": true,
+      "created_display": "Created: Nov 16, 2026 / 14:58 PT",
+      "image_url": "https://xusheng.dev/posts/windows-coding-agent-telemetry/agent-names.jpeg",
+      "summary_en": "Reverse engineering of Windows 11’s MissionControlAggregator found coding-agent and developer-tool usage bits in a diagnostic ETW report. The observed list includes Codex, Claude, Copilot, Cursor, Python, .NET, GCC, and Visual Studio Code executables. The finding raises questions about why a Windows system DLL records the use of these tools.",
+      "summary_zh": "对 Windows 11 的 MissionControlAggregator 进行逆向分析后，研究者在诊断 ETW 报告中发现了编程代理和开发工具的使用标记。相关列表包括 Codex、Claude、Copilot、Cursor，以及 Python、.NET、GCC 和 Visual Studio Code 等可执行文件。这一发现引出了一个问题：Windows 系统 DLL 为何要记录这些工具的使用情况。",
+      "hn": {
+        "id": 50524736,
+        "type": "story",
+        "by": "cwaffles",
+        "score": 680,
+        "descendants": 539,
+        "time": 1794869900,
+        "comments_url": "https://news.ycombinator.com/item?id=50524736"
+      },
+      "tags": [
+        "Privacy",
+        "AI",
+        "Programming"
+      ],
+      "hot_score": 3.35
+    },
+    {
+      "title_en": "How the Claude Code team thinks about verification",
+      "url": "https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/",
+      "title_zh": "Claude Code 团队如何思考验证",
+      "is_new": true,
+      "created_display": "Created: Nov 17, 2026 / 02:20 PT",
+      "image_url": "https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/og.png",
+      "summary_en": "The Claude Code team uses end-to-end, property-based, and differential tests to let coding agents verify their work with evidence. About 90% of the team’s code is written and reviewed by Claude, making verification especially important. Verification loops allow the team to delegate more work and run dozens or hundreds of agents in parallel instead of manually checking only one or two at a time.",
+      "summary_zh": "Claude Code 团队使用端到端测试、性质测试和差分测试，让编码代理用证据验证自己的工作。团队约 90% 的代码由 Claude 编写和审查，因此验证尤为重要。验证循环让团队能够委派更多工作，并行运行几十甚至数百个代理，而不必每次只能手动检查一两个代理。",
+      "hn": {
+        "id": 50529612,
+        "type": "story",
+        "by": "craigmart",
+        "score": 126,
+        "descendants": 128,
+        "time": 1794910840,
+        "comments_url": "https://news.ycombinator.com/item?id=50529612"
+      },
+      "hot_score": 3.14,
+      "tags": [
+        "Programming",
+        "AI"
+      ]
+    },
+    {
+      "title_en": "A.I. Just Blew Up a Key Tenet of Computer Science",
+      "url": "https://www.nytimes.com/2026/11/06/science/ai-exponential-time-hypothesis.html",
+      "title_zh": "人工智能刚刚颠覆了计算机科学的一项关键定理",
+      "is_new": true,
+      "created_display": "Created: Nov 17, 2026 / 07:33 PT",
+      "image_url": "https://static01.nyt.com/images/2026/11/05/science/05SCI-AI-ETH-ILLO2/05SCI-AI-ETH-ILLO2-facebookJumbo.png",
+      "summary_en": "A longstanding hypothesis held that some problems would always remain difficult for computers to solve quickly. The report says OpenAI disproved that hypothesis through a development in AI-generated mathematics, using the example of solving very large Sudoku puzzles to explain the result. If the result holds up, it could point to radically more efficient ways of solving certain computational problems.",
+      "summary_zh": "一项长期存在的假设认为，有些问题无论如何都不可能让计算机快速解决。报道称，OpenAI 通过 AI 生成数学领域的一项进展推翻了这一假设，并以解决超大型数独谜题为例解释其意义。如果这一结果经得起验证，它可能指向解决某些计算问题的全新高效方法。",
+      "hn": {
+        "id": 50532786,
+        "type": "story",
+        "by": "doener",
+        "score": 17,
+        "descendants": 7,
+        "time": 1794929628,
+        "comments_url": "https://news.ycombinator.com/item?id=50532786"
+      },
+      "hot_score": 3.02,
+      "tags": [
+        "AI",
+        "Science"
+      ]
+    },
+    {
+      "title_en": "BugMeNot has closed",
+      "url": "https://www.bugmenot.com/",
+      "title_zh": "BugMeNot 已关闭",
+      "is_new": true,
+      "created_display": "Created: Nov 16, 2026 / 13:32 PT",
+      "image_url": null,
+      "summary_en": "BugMeNot has closed. Its farewell thanks everyone who envisioned a better internet.",
+      "summary_zh": "BugMeNot 已经关闭。告别信息向所有曾设想建设更好互联网的人表示感谢。",
+      "hn": {
+        "id": 50523601,
+        "type": "story",
+        "by": "lode",
+        "score": 662,
+        "descendants": 298,
+        "time": 1794864737,
+        "comments_url": "https://news.ycombinator.com/item?id=50523601"
+      },
+      "tags": [
+        "Culture"
+      ],
+      "hot_score": 2.86
+    },
+    {
+      "title_en": "NSA Internal Network Down",
+      "url": "https://www.reuters.com/technology/highly-classified-us-national-security-communications-network-is-down-cnn-2026-11-17/",
+      "title_zh": "NSA 内部网络中断",
+      "is_new": true,
+      "created_display": "Created: Nov 17, 2026 / 07:50 PT",
+      "image_url": null,
+      "summary_en": "An internal network used by the National Security Agency is down.",
+      "summary_zh": "美国国家安全局使用的一套内部网络发生中断。",
+      "hn": {
+        "id": 50533089,
+        "type": "story",
+        "by": "nodoodles",
+        "score": 13,
+        "descendants": 2,
+        "time": 1794930648,
+        "comments_url": "https://news.ycombinator.com/item?id=50533089"
+      },
+      "hot_score": 2.8,
+      "tags": [
+        "Security"
+      ]
+    },
+    {
+      "title_en": "Technical issue at JPMorgan Chase triggers online banking delays for US banks",
+      "url": "https://apnews.com/article/bank-outage-chase-wells-fargo-truist-50fee2693c22f597fa6ca51a97ef2cda",
+      "title_zh": "摩根大通技术故障导致美国银行在线银行服务延迟",
+      "is_new": true,
+      "created_display": "Created: Nov 16, 2026 / 10:31 PT",
+      "image_url": null,
+      "summary_en": "A technical issue at JPMorgan Chase triggered online-banking delays for banks in the United States. The incident affected online banking service availability or responsiveness.",
+      "summary_zh": "摩根大通的一项技术故障引发了美国银行的在线银行服务延迟。该事件影响了在线银行服务的可用性或响应速度。",
+      "hn": {
+        "id": 50521045,
+        "type": "story",
+        "by": "samk3nny",
+        "score": 808,
+        "descendants": 677,
+        "time": 1794853890,
+        "comments_url": "https://news.ycombinator.com/item?id=50521045"
+      },
+      "tags": [
+        "Business"
+      ],
+      "hot_score": 2.73
+    },
+    {
+      "title_en": "Optimizely compromised, served malware on Zoom, GitLab",
+      "url": "https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/",
+      "title_zh": "Optimizely 遭入侵，Zoom、GitLab 等网站被投放恶意软件",
+      "is_new": true,
+      "created_display": "Created: Nov 16, 2026 / 15:00 PT",
+      "image_url": "https://storage.ghost.io/c/2d/aa/2daa4f7f-a71b-47d2-a54c-06b8c60222ef/content/images/size/w1200/2026/11/Cybersecurity-Alert_-Malicious-Code-Injection.png",
+      "summary_en": "On November 16, 2026, malicious JavaScript was served through Optimizely’s Web experimentation platform to visitors of 178 organizations, including Zoom, the BBC, CNN, Salesforce, GitLab, IKEA, HSBC, and others. The malware could replace cryptocurrency wallet addresses, skim payment-card data, steal cookies and screenshots, and deliver the Coruna and DarkSword iOS exploit kits on iPhones and iPads. Cryptocurrency had already been stolen in transactions verified as belonging to the attackers.",
+      "summary_zh": "2026 年 11 月 16 日，Optimizely 的 Web 实验平台向 178 家机构的网站访客投放了恶意 JavaScript，受影响机构包括 Zoom、BBC、CNN、Salesforce、GitLab、IKEA 和 HSBC 等。该恶意软件能够替换加密货币钱包地址、窃取支付卡数据、Cookie 和屏幕截图，并在 iPhone 和 iPad 上投递 Coruna 与 DarkSword iOS 漏洞利用套件。已有加密货币在被确认属于攻击者的交易中遭窃取。",
+      "hn": {
+        "id": 50524767,
+        "type": "story",
+        "by": "kristjansson",
+        "score": 527,
+        "descendants": 209,
+        "time": 1794870034,
+        "comments_url": "https://news.ycombinator.com/item?id=50524767"
+      },
+      "tags": [
+        "Security",
+        "Programming",
+        "Finance"
+      ],
+      "hot_score": 2.61
+    },
+    {
+      "title_en": "Many of Amazon’s Black Friday and Cyber Monday “deals” offered no savings",
+      "url": "http://groundworkcollaborative.org/news/amazons-decoy-deals-groundwork-investigation-reveals-nearly-1-in-3-black-friday-and-cyber-monday-deals-advertised-by-amazon-offered-no-savings-to-shoppers-nearly-1-in-10-w/",
+      "title_zh": "亚马逊许多黑色星期五和网络星期一“优惠”并没有省钱",
+      "is_new": true,
+      "created_display": "Created: Nov 16, 2026 / 05:39 PT",
+      "image_url": "http://groundworkcollaborative.org/wp-content/uploads/2026/11/GWC_CL_Cover_110526-1-791x1024.png",
+      "summary_en": "An investigation found that many Black Friday and Cyber Monday deals advertised by Amazon did not provide actual savings. The deals were presented as discounts even though shoppers often paid no less than usual.",
+      "summary_zh": "一项调查发现，亚马逊宣传的许多黑色星期五和网络星期一优惠实际上并没有带来节省。这些商品虽然以折扣形式展示，消费者实际支付的价格却往往并未降低。",
+      "hn": {
+        "id": 50517488,
+        "type": "story",
+        "by": "DeepLogin",
+        "score": 926,
+        "descendants": 541,
+        "time": 1794836347,
+        "comments_url": "https://news.ycombinator.com/item?id=50517488"
+      },
+      "tags": [
+        "Business"
+      ],
+      "hot_score": 2.23
+    },
+    {
+      "title_en": "In 27,280 coding agent runs, 64% of inference spend went to runs that failed",
+      "url": "https://runta.com/blog/introducing-frontierharness-eval-v1-1/",
+      "title_zh": "27,280 次编码代理运行中，64% 的推理开销花在了失败运行上",
+      "is_new": true,
+      "created_display": "Created: Nov 17, 2026 / 06:53 PT",
+      "image_url": "https://runta.com/social/blog-introducing-frontierharness-eval-v1-1.png",
+      "summary_en": "FrontierHarness Eval v1.1 tested 22 coding-agent harnesses with five models on the same 62 tasks, running each combination four times for a total of 27,280 runs. The best-value harness varied by model, and with the model held constant, the most expensive harness cost 1.8 to 5 times as much per task as the cheapest. The evaluation used 83 billion tokens and extends an earlier leaderboard that tested harnesses on only one model.",
+      "summary_zh": "FrontierHarness Eval v1.1 使用五个模型测试了 22 个编码代理框架，在相同的 62 项任务上每种组合运行四次，共计 27,280 次运行。性价比最高的框架因模型而异；在模型固定时，最昂贵框架每项任务的成本是最便宜框架的 1.8 至 5 倍。此次评测使用了 830 亿个 token，扩展了此前仅基于单一模型的排行榜。",
+      "hn": {
+        "id": 50532191,
+        "type": "story",
+        "by": "Edward40",
+        "score": 19,
+        "descendants": 2,
+        "time": 1794927223,
+        "comments_url": "https://news.ycombinator.com/item?id=50532191"
+      },
+      "hot_score": 2.22,
+      "tags": [
+        "Programming",
+        "AI"
+      ]
+    },
+    {
+      "title_en": "Frame – 31.5\" color ePaper display",
+      "url": "https://trmnl.com/blog/introducing-frame",
+      "title_zh": "Frame：31.5 英寸彩色电子纸显示器",
+      "is_new": true,
+      "created_display": "Created: Nov 16, 2026 / 08:23 PT",
+      "image_url": "https://trmnl-public.s3.us-east-2.amazonaws.com/zzswly4kqlbg9cqf982toa8anyeg",
+      "summary_en": "Frame is a handmade wooden frame containing a 31.5-inch full-color ePaper display. It is the product’s third release and is now available for pre-order. The first batch is limited to about 470 units, with a few intended to ship by the end of 2026 and most deliveries expected in early 2027.",
+      "summary_zh": "Frame 是一款采用手工木制外壳的 31.5 英寸全彩电子纸显示器。这是该产品的第三次发布，目前已开放预订。首批约 470 台，计划在 2026 年底前发出少量产品，大多数订单预计于 2027 年初交付。",
+      "hn": {
+        "id": 50519354,
+        "type": "story",
+        "by": "geerlingguy",
+        "score": 492,
+        "descendants": 353,
+        "time": 1794846202,
+        "comments_url": "https://news.ycombinator.com/item?id=50519354"
+      },
+      "tags": [
+        "Hardware"
+      ],
+      "hot_score": 1.42
+    },
+    {
+      "title_en": "If an App Asks for Full Disk Access or System and App Protection Override",
+      "url": "https://support.apple.com/en-us/149699",
+      "title_zh": "如果应用要求完全磁盘访问权限或覆盖系统与应用保护",
+      "is_new": true,
+      "created_display": "Created: Nov 16, 2026 / 18:17 PT",
+      "image_url": null,
+      "summary_en": "The item addresses situations in which an app asks for Full Disk Access or an override of system and app protection.",
+      "summary_zh": "该条目介绍应用要求获得“完全磁盘访问权限”或绕过系统与应用保护的情况。",
+      "hn": {
+        "id": 50526560,
+        "type": "story",
+        "by": "jshier",
+        "score": 192,
+        "descendants": 103,
+        "time": 1794881824,
+        "comments_url": "https://news.ycombinator.com/item?id=50526560"
+      },
+      "hot_score": 1.33,
+      "tags": [
+        "Privacy",
+        "Security"
+      ]
+    },
+    {
+      "title_en": "OpenCode Browse",
+      "url": "https://opencode.ai/product/browse",
+      "title_zh": "OpenCode Browse",
+      "is_new": true,
+      "created_display": "Created: Nov 16, 2026 / 13:20 PT",
+      "image_url": "https://opencode.ai/og/product-browse-1528ffd6f6.png",
+      "summary_en": "OpenCode Browse lets OpenCode and other MCP clients operate a user’s real browser through an MCP server and Chromium extension. Agents can open tabs, read pages, click, type, take screenshots, record tabs, and use existing logins and extensions. For logins, 2FA prompts, or payments, the tab is handed back to the user and resumes after approval.",
+      "summary_zh": "OpenCode Browse 通过 MCP 服务器和 Chromium 扩展，让 OpenCode 及其他 MCP 客户端操作用户的真实浏览器。代理可以打开标签页、读取页面、点击、输入、截图、录制标签页，并使用现有的登录状态和扩展。在登录、双重验证或付款环节，标签页会交还给用户，获得批准后再继续操作。",
+      "hn": {
+        "id": 50523459,
+        "type": "story",
+        "by": "mfiguiere",
+        "score": 311,
+        "descendants": 201,
+        "time": 1794864037,
+        "comments_url": "https://news.ycombinator.com/item?id=50523459"
+      },
+      "tags": [
+        "Programming",
+        "Web"
+      ],
+      "hot_score": 1.32
+    },
+    {
+      "title_en": "Why 3dfx 1 cards had such a washed out color output?",
+      "url": "https://twitter.com/id_aa_carmack/status/2122478083319992513",
+      "title_zh": "为什么 3dfx 1 卡的颜色输出会如此泛白？",
+      "is_new": true,
+      "created_display": "Created: Nov 16, 2026 / 16:16 PT",
+      "image_url": "https://pbs.twimg.com/profile_images/1560764938083352577/B1X3m4NN_400x400.jpg",
+      "summary_en": "The discussion attributes the washed-out appearance of NeXT and 3dfx output to attempts to handle color spaces correctly. Those choices generally made the systems look worse than competing products. The author notes that the underlying behavior was not fully understood until years later, including the mistaken intuition that a pixel value of 1.0 emits twice as many photons as a lower value.",
+      "summary_zh": "这段讨论将 NeXT 和 3dfx 画面泛白归因于它们试图正确处理色彩空间。这样的选择通常反而让它们看起来比竞争产品更差。作者表示，直到多年后才真正理解其中的原理，其中包括“像素值 1.0 会发出两倍光子”这一并不可靠的直觉。",
+      "hn": {
+        "id": 50525575,
+        "type": "story",
+        "by": "mfiguiere",
+        "score": 235,
+        "descendants": 82,
+        "time": 1794874584,
+        "comments_url": "https://news.ycombinator.com/item?id=50525575"
+      },
+      "hot_score": 1.31,
+      "tags": [
+        "Hardware"
+      ]
+    },
+    {
+      "title_en": "Jiff 1.0: A datetime library for Rust",
+      "url": "https://burntsushi.net/jiff/",
+      "title_zh": "Jiff 1.0：Rust 的日期时间库",
+      "is_new": true,
+      "created_display": "Created: Nov 16, 2026 / 08:53 PT",
+      "image_url": null,
+      "summary_en": "Jiff 1.0 is a datetime library for Rust that puts time-zone handling at the center of its API. It automatically addresses many common daylight-saving-time problems and is already widely adopted in the Rust ecosystem. The name is pronounced like “gif,” with a soft “g,” as in “gem.”",
+      "summary_zh": "Jiff 1.0 是一个 Rust 日期时间库，其 API 将时区处理置于核心位置。它会自动处理许多与夏令时有关的常见问题，并已在 Rust 生态中得到广泛采用。Jiff 的发音类似带软 g 音的“gif”，就像“gem”中的 g。",
+      "hn": {
+        "id": 50519744,
+        "type": "story",
+        "by": "burntsushi",
+        "score": 419,
+        "descendants": 91,
+        "time": 1794848019,
+        "comments_url": "https://news.ycombinator.com/item?id=50519744"
+      },
+      "tags": [
+        "Programming"
+      ],
+      "hot_score": 1.26
+    },
+    {
+      "title_en": "Chemistry is Actually Geometry",
+      "url": "https://chillphysicsenjoyer.substack.com/p/chemistry-is-actually-geometry",
+      "title_zh": "化学其实是几何学",
+      "is_new": true,
+      "created_display": "Created: Nov 16, 2026 / 12:22 PT",
+      "image_url": null,
+      "summary_en": "The piece is titled “Chemistry is Actually Geometry.” It presents chemistry through the lens of geometry.",
+      "summary_zh": "文章题为《化学其实是几何学》。它从几何学的角度看待化学。",
+      "hn": {
+        "id": 50522643,
+        "type": "story",
+        "by": "sebg",
+        "score": 293,
+        "descendants": 125,
+        "time": 1794860538,
+        "comments_url": "https://news.ycombinator.com/item?id=50522643"
+      },
+      "tags": [
+        "Science"
+      ],
+      "hot_score": 1.15
+    },
+    {
+      "title_en": "Grazing sheep in fields with solar arrays",
+      "url": "https://news.cornell.edu/stories/2026/10/sheep-grazing-solar-fields-offers-farmers-economic-ecological-gains",
+      "title_zh": "在太阳能阵列田地放牧绵羊",
+      "is_new": true,
+      "created_display": "Created: Nov 16, 2026 / 09:27 PT",
+      "image_url": "https://news.cornell.edu/sites/default/files/styles/story_thumbnail_lg/public/2026-10/2026_1407_aer_009-n.jpg?itok=01dhmnjw",
+      "summary_en": "Two studies examine the growing practice of grazing sheep beneath solar arrays. One found that grazing at two sheep per hectare increased wild bees, honey bees, and lady beetles by 38% compared with mowing, driven mainly by an 83% rise in honey bees. The other study describes a decision-support tool to help farmers expand solar-grazing herds profitably.",
+      "summary_zh": "两项研究考察了在太阳能阵列下放牧绵羊这一日益普及的做法。其中一项发现，每公顷放牧两只绵羊时，野生蜜蜂、蜜蜂和瓢虫的数量比割草对照地增加 38%，主要原因是蜜蜂数量增加了 83%。另一项研究介绍了一种决策支持工具，帮助农民以盈利方式扩大太阳能牧羊规模。",
+      "hn": {
+        "id": 50520182,
+        "type": "story",
+        "by": "PaulHoule",
+        "score": 311,
+        "descendants": 313,
+        "time": 1794850066,
+        "comments_url": "https://news.ycombinator.com/item?id=50520182"
+      },
+      "tags": [
+        "Science",
+        "Energy"
+      ],
+      "hot_score": 0.97
+    },
+    {
+      "title_en": "Microsoft blames monster email outage on software defect introduced in July fix",
+      "url": "https://www.theregister.com/saas/2026/11/16/microsoft-blames-monster-email-outage-on-software-defect-introduced-in-july-fix/5310026",
+      "title_zh": "微软称大规模电子邮件故障源于 7 月修复引入的软件缺陷",
+      "is_new": true,
+      "created_display": "Created: Nov 16, 2026 / 05:18 PT",
+      "image_url": "https://image.theregister.com/254046.jpg?imageId=254046&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+      "summary_en": "Microsoft blamed last week’s major Microsoft 365 email outage on a defect introduced by a July 2026 change. The defect remained dormant in network gateway servers until increased load and reduced capacity triggered it, causing a day-long disruption. Microsoft’s preliminary post-incident report said the change had passed load testing and initially caused no impact after deployment.",
+      "summary_zh": "微软将上周 Microsoft 365 大规模电子邮件故障归因于 2026 年 7 月一次变更引入的软件缺陷。该缺陷一直潜伏在网络网关服务器中，直到负载上升、容量下降时被触发，造成持续一天的中断。微软的初步事后报告称，该变更通过了负载测试，部署后最初也没有造成影响。",
+      "hn": {
+        "id": 50517321,
+        "type": "story",
+        "by": "Bender",
+        "score": 407,
+        "descendants": 302,
+        "time": 1794835102,
+        "comments_url": "https://news.ycombinator.com/item?id=50517321"
+      },
+      "tags": [
+        "Business"
+      ],
+      "hot_score": 0.96
+    },
+    {
+      "title_en": "What is w2rt6byl5nf1opmc-a.com?",
+      "url": "https://jack.cab/blog/siterate",
+      "title_zh": "w2rt6byl5nf1opmc-a.com 是什么？",
+      "is_new": true,
+      "created_display": "Created: Nov 16, 2026 / 05:51 PT",
+      "image_url": "https://jack.cab/_astro/banner.BWU3oHHm_1KyTK9.png",
+      "summary_en": "A website owner noticed a new backlink from w2rt6byl5nf1opmc-a.com while demonstrating a backlink monitor to a friend. After clicking it, the owner remembered that the site could log an IP address or contain a multi-day exploit chain, and was greeted by an unexpected page.",
+      "summary_zh": "一位网站所有者在向朋友演示反向链接监控器时，发现 w2rt6byl5nf1opmc-a.com 突然产生了一个新链接。点击后，他意识到该网站可能记录 IP 地址，甚至包含持续数日的攻击链，随后看到了一个出乎意料的页面。",
+      "hn": {
+        "id": 50517602,
+        "type": "story",
+        "by": "dverlaeckt80",
+        "score": 390,
+        "descendants": 155,
+        "time": 1794837098,
+        "comments_url": "https://news.ycombinator.com/item?id=50517602"
+      },
+      "tags": [
+        "Security"
+      ],
+      "hot_score": 0.95
+    },
+    {
+      "title_en": "Comcast's \"fiber-powered Wi-Fi\" is cable, AT&T says in false advertising case",
+      "url": "https://arstechnica.com/tech-policy/2026/11/comcast-falsely-advertises-cable-internet-as-fiber-powered-att-lawsuit-says/",
+      "title_zh": "AT&T 在虚假广告诉讼中称，Comcast 的“光纤 Wi‑Fi”其实使用的是有线网络",
+      "is_new": true,
+      "created_display": "Created: Nov 16, 2026 / 12:48 PT",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2022/11/getty-comcast-van-1152x648.jpg",
+      "summary_en": "AT&T alleges that Comcast marketed cable internet as “fiber-powered Wi-Fi.” AT&T is seeking the profits Comcast made from that advertising.",
+      "summary_zh": "AT&T 指控 Comcast 将有线互联网宣传为“光纤驱动的 Wi‑Fi”。AT&T 要求 Comcast 交出其通过相关广告获得的利润。",
+      "hn": {
+        "id": 50523025,
+        "type": "story",
+        "by": "jaredwiener",
+        "score": 210,
+        "descendants": 180,
+        "time": 1794862088,
+        "comments_url": "https://news.ycombinator.com/item?id=50523025"
+      },
+      "tags": [
+        "Legal"
+      ],
+      "hot_score": 0.85
+    },
+    {
+      "title_en": "My Quest to push native Three.js quality match AAA Game Engines",
+      "url": "https://ben3d.ca/blog/building-the-aaa-lighting-pipeline-in-threejs",
+      "title_zh": "我让 Three.js 原生画质追赶 AAA 游戏引擎的探索",
+      "is_new": true,
+      "created_display": "Created: Nov 16, 2026 / 13:07 PT",
+      "image_url": "https://ben3d.ca/api/images?slug=building-the-aaa-lighting-pipeline-in-threejs&imageName=frame-pipeline.svg&hash=700e6835587f35f543069acee0d3a86b93f8ca69f2670e4c61efb8a5cd6628a6",
+      "summary_en": "The project measures Three.js against an indoor-scene lighting pipeline used by games. The pipeline includes lightmaps, light probes, reflection probes, screen-space reflections, screen-space global illumination, and ambient occlusion. The analysis compares what games require, what Three.js currently provides, and which parts remain to be implemented.",
+      "summary_zh": "该项目将 Three.js 与游戏使用的室内场景光照管线进行对比。管线包括光照贴图、光照探针、反射探针、屏幕空间反射、屏幕空间全局光照和环境光遮蔽。分析比较了游戏所需能力、Three.js 当前已有的功能，以及仍待实现的部分。",
+      "hn": {
+        "id": 50523291,
+        "type": "story",
+        "by": "bhouston",
+        "score": 153,
+        "descendants": 71,
+        "time": 1794863263,
+        "comments_url": "https://news.ycombinator.com/item?id=50523291"
+      },
+      "tags": [
+        "Gaming"
+      ],
+      "hot_score": 0.64
+    },
+    {
+      "title_en": "Spamhaus new email sender requirements in November",
+      "url": "https://www.spamhaus.org/sender-guidelines/",
+      "title_zh": "Spamhaus 11 月新的电子邮件发件人要求",
+      "is_new": true,
+      "created_display": "Created: Nov 16, 2026 / 13:47 PT",
+      "image_url": "https://www.spamhaus.org/_nuxt/logo.tPE1gnpS.svg",
+      "summary_en": "Spamhaus is gradually introducing a requirement that every sending IP have a valid HELO, a reverse-DNS PTR record, and a matching A record starting in November 2026. The guidance also covers infrastructure, authentication, list hygiene, reputation, and email service-provider requirements. Senders are expected to meet these minimum requirements to avoid being listed.",
+      "summary_zh": "Spamhaus 将从 2026 年 11 月起逐步要求每个发件 IP 都具备有效的 HELO、反向 DNS PTR 记录以及匹配的 A 记录。其指南还涵盖基础设施、身份验证、邮件列表卫生、信誉和邮件服务商要求。发件方需要满足这些最低要求，以避免被列入黑名单。",
+      "hn": {
+        "id": 50523784,
+        "type": "story",
+        "by": "computer23",
+        "score": 134,
+        "descendants": 134,
+        "time": 1794865639,
+        "comments_url": "https://news.ycombinator.com/item?id=50523784"
+      },
+      "tags": [
+        "Security",
+        "DevOps"
+      ],
+      "hot_score": 0.59
+    },
+    {
+      "title_en": "Interpreting claims that a theorem is correct because it was checked in Lean",
+      "url": "https://xenaproject.wordpress.com/2026/11/12/and-the-proof-is-checked-in-lean/",
+      "title_zh": "如何理解“定理已在 Lean 中检查，因此正确”的说法",
+      "is_new": true,
+      "created_display": "Created: Nov 15, 2026 / 23:38 PT",
+      "image_url": "https://xenaproject.wordpress.com/wp-content/uploads/2020/05/cropped-twitchpfc.png?w=200",
+      "summary_en": "The post explains how to interpret claims that a theorem is correct because it was checked in Lean. It argues that Lean code provides an important signal, but AI-generated code should undergo additional tests before being trusted. The discussion notes that such tests have not yet been systematically applied to many items in OpenAI’s 722-paper theorem dump, about 45% of which included Lean code, while three non-Leanified papers were later retracted for a sign error.",
+      "summary_zh": "这篇文章解释了应如何理解“定理已在 Lean 中检查，因此正确”这一说法。文章认为，Lean 代码确实提供了重要信号，但由 AI 生成的代码在获得信任前仍应接受额外测试。文中指出，在 OpenAI 收录 722 篇数学论文、约 45% 附带 Lean 代码的定理汇编中，这类测试尚未得到系统执行；其中三篇未 Lean 化的论文后来因符号错误被撤稿。",
+      "hn": {
+        "id": 50515058,
+        "type": "story",
+        "by": "matt_d",
+        "score": 310,
+        "descendants": 140,
+        "time": 1794814699,
+        "comments_url": "https://news.ycombinator.com/item?id=50515058"
+      },
+      "tags": [
+        "Programming",
+        "AI"
+      ],
+      "hot_score": 0.53
+    },
+    {
+      "title_en": "How to Break into Security, Ptacek Edition (2012)",
+      "url": "https://krebsonsecurity.com/2012/06/how-to-break-into-security-ptacek-edition/",
+      "title_zh": "如何进入信息安全行业：Ptacek 版（2012）",
+      "is_new": true,
+      "created_display": "Created: Nov 16, 2026 / 14:19 PT",
+      "image_url": "https://krebsonsecurity.com/b-flashpoint/1.png",
+      "summary_en": "People regularly ask how to enter computer security, including career changers and IT professionals seeking to move into the field. The author asked leading security practitioners for their advice after finding his own standard answers incomplete. This is the first installment of a planned series collecting their differing perspectives.",
+      "summary_zh": "人们经常询问如何进入计算机安全领域，其中包括想转行的人和希望从 IT 转入安全行业的从业者。作者认为自己的固定回答不够全面，因此向多位安全领域专家征求建议。这是一个系列的第一篇，后续将汇集他们各不相同的观点。",
+      "hn": {
+        "id": 50524225,
+        "type": "story",
+        "by": "ronfriedhaber",
+        "score": 115,
+        "descendants": 28,
+        "time": 1794867563,
+        "comments_url": "https://news.ycombinator.com/item?id=50524225"
+      },
+      "tags": [
+        "Security"
+      ],
+      "hot_score": 0.53
+    },
+    {
+      "title_en": "Mem Is Shutting Down",
+      "url": "https://get.mem.ai/blog/mem-is-shutting-down",
+      "title_zh": "Mem 即将关闭",
+      "is_new": true,
+      "created_display": "Created: Nov 16, 2026 / 18:13 PT",
+      "image_url": "https://get.mem.ai/assets/seo/mem-sunset.jpg",
+      "summary_en": "Mem has decided to shut down on January 15, 2027. The announcement covers key dates, subscription handling, and how users can move their notes. The company thanked users for entrusting it with ideas, meeting notes, drafts, and other personal information.",
+      "summary_zh": "Mem 决定于 2027 年 1 月 15 日关闭。公告说明了重要日期、订阅处理方式，以及用户如何迁移笔记。公司感谢用户将想法、会议记录、草稿和其他个人信息托付给它。",
+      "hn": {
+        "id": 50526537,
+        "type": "story",
+        "by": "qainsights",
+        "score": 74,
+        "descendants": 116,
+        "time": 1794881621,
+        "comments_url": "https://news.ycombinator.com/item?id=50526537"
+      },
+      "hot_score": 0.5,
+      "tags": [
+        "Startups"
+      ]
+    },
+    {
+      "title_en": "Squircles",
+      "url": "https://linebender.org/wiki/curves/squircle/",
+      "title_zh": "圆方形",
+      "is_new": true,
+      "created_display": "Created: Nov 15, 2026 / 23:55 PT",
+      "image_url": "https://linebender.org/wiki/curves/squircle/apple_vs_superellipse.svg",
+      "summary_en": "A squircle is a shape between a square and a circle, with no single mathematical definition. Different curves can represent squircles, and they can vary continuously between circular and square forms. The superellipse is the best-known example, popularized by Piet Hein.",
+      "summary_zh": "“圆方形”是介于正方形和圆形之间的一类形状，并没有唯一的数学定义。不同曲线都可以构成圆方形，其形态能够在圆形与方形之间变化。最著名的例子是由 Piet Hein 推广的超椭圆。",
+      "hn": {
+        "id": 50515151,
+        "type": "story",
+        "by": "raphlinus",
+        "score": 214,
+        "descendants": 56,
+        "time": 1794815710,
+        "comments_url": "https://news.ycombinator.com/item?id=50515151"
+      },
+      "tags": [
+        "Science"
+      ],
+      "hot_score": 0.37
+    },
+    {
+      "title_en": "Do Repeat Yourself",
+      "url": "https://arcentry.com/blog/do-repeat-yourself/",
+      "title_zh": "重复自己也有道理",
+      "is_new": true,
+      "created_display": "Created: Nov 16, 2026 / 04:06 PT",
+      "image_url": "https://arcentry.com/blog/do-repeat-yourself/do-repeat-yourself.png",
+      "summary_en": "The piece argues that repetition can be beneficial in software design. It uses two teams building similar banking features with different languages and front ends to illustrate how service-oriented architectures let teams work in their preferred ways. The examples include filtering and queries, charts, and CSV/PDF exports.",
+      "summary_zh": "文章认为，在软件设计中重复有时是有益的。它以两个团队开发相似银行功能、但采用不同语言和前端技术为例，说明面向服务的架构如何让团队按照各自擅长的方式工作。示例功能包括筛选与查询、图表以及 CSV/PDF 导出。",
+      "hn": {
+        "id": 50516689,
+        "type": "story",
+        "by": "max_sendfeld",
+        "score": 138,
+        "descendants": 50,
+        "time": 1794830806,
+        "comments_url": "https://news.ycombinator.com/item?id=50516689"
+      },
+      "tags": [
+        "Design"
+      ],
+      "hot_score": 0.3
+    },
+    {
+      "title_en": "Launch HN: Axonnic (YC F26) – Sleeves that track fingers and estimate force",
+      "url": "https://news.ycombinator.com/item?id=50522776",
+      "title_zh": "Show HN：Axonnic——追踪手指并估算力度的袖套",
+      "is_new": true,
+      "created_display": "Created: Nov 16, 2026 / 12:29 PT",
+      "image_url": null,
+      "summary_en": "Axonnic has developed a forearm sleeve that uses muscle activity to decode finger movements and estimate fingertip force while leaving the hands uncovered. The sleeve has 64 surface-EMG channels and synchronizes muscle signals with hand tracking to generate training data for dexterous robots. The founders argue that EMG captures effort and subtle muscle activity that video alone cannot observe.",
+      "summary_zh": "Axonnic 开发了一款前臂袖套，通过读取肌肉活动来解码手指动作并估算指尖力度，同时保持双手裸露。袖套配备 64 个表面肌电通道，并将肌肉信号与手部追踪同步，用于生成灵巧机器人训练数据。创始人认为，肌电信号能够捕捉视频无法单独观察到的用力程度和细微肌肉活动。",
+      "hn": {
+        "id": 50522776,
+        "type": "story",
+        "by": "arshpatankar",
+        "score": 51,
+        "descendants": 26,
+        "time": 1794860988,
+        "comments_url": "https://news.ycombinator.com/item?id=50522776"
+      },
+      "tags": [
+        "Hardware",
+        "Privacy",
+        "Startups"
+      ],
+      "hot_score": 0.2
+    },
+    {
+      "title_en": "VisualBasic.World: A gallery of Planet Source Code programs from 1997 to 2012",
+      "url": "https://visualbasic.world/",
+      "title_zh": "VisualBasic.World：1997 至 2012 年 Planet Source Code 程序集锦",
+      "is_new": true,
+      "created_display": "Created: Nov 15, 2026 / 15:08 PT",
+      "image_url": null,
+      "summary_en": "VisualBasic.World is a visual archive of projects created in Visual Basic. It lets visitors explore archived programs through their original screenshots.",
+      "summary_zh": "VisualBasic.World 是一个收录 Visual Basic 项目的视觉档案馆。访客可以通过原始截图浏览这些归档程序。",
+      "hn": {
+        "id": 50511874,
+        "type": "story",
+        "by": "broast",
+        "score": 155,
+        "descendants": 57,
+        "time": 1794784110,
+        "comments_url": "https://news.ycombinator.com/item?id=50511874"
+      },
+      "hot_score": 0.18,
+      "tags": [
+        "Open Source"
+      ]
+    },
+    {
+      "title_en": "Nimony: A New Compiler for Nim",
+      "url": "https://nimony.org/",
+      "title_zh": "Nimony：一个新的 Nim 编译器",
+      "is_new": true,
+      "created_display": "Created: Nov 15, 2026 / 17:05 PT",
+      "image_url": null,
+      "summary_en": "Nimony is a new compiler for Nim that is built daily from its master branch. Users can unpack it and put its bin directory on their PATH. Its n command can operate without requiring a separate C compiler.",
+      "summary_zh": "Nimony 是一个新的 Nim 编译器，每天从 master 分支构建。用户解压后将其 bin 目录加入 PATH 即可使用。它的 n 命令无需额外安装 C 编译器即可运行。",
+      "hn": {
+        "id": 50512779,
+        "type": "story",
+        "by": "Fervicus",
+        "score": 136,
+        "descendants": 66,
+        "time": 1794791122,
+        "comments_url": "https://news.ycombinator.com/item?id=50512779"
+      },
+      "hot_score": 0.17,
+      "tags": [
+        "Programming"
+      ]
+    },
+    {
+      "title_en": "Test/verification technique effectiveness with Astra",
+      "url": "https://danluu.com/astra-testing/",
+      "title_zh": "使用 Astra 测试/验证技术的有效性",
+      "is_new": true,
+      "created_display": "Created: Nov 15, 2026 / 23:33 PT",
+      "image_url": null,
+      "summary_en": "An earlier evaluation found that GPT-5.6 Sol often produced caricatures of requested techniques such as TDD, QuickCheck, and Lean 4. In that test, asking for no specific method produced many poor unit tests but still performed better than explicitly requiring most named techniques. The rerun with GPT-6 Astra showed two major differences, though the supplied excerpt does not specify what they were.",
+      "summary_zh": "此前的评测发现，GPT-5.6 Sol 经常把 TDD、QuickCheck 和 Lean 4 等指定技术执行成形式化的“模仿品”。在那次测试中，不指定具体方法虽然会产生许多糟糕的单元测试，但表现仍优于明确要求使用多数特定技术。使用 GPT-6 Astra 重跑评测后出现了两项重大差异，但所给内容未说明具体差异。",
+      "hn": {
+        "id": 50515035,
+        "type": "story",
+        "by": "luu",
+        "score": 83,
+        "descendants": 12,
+        "time": 1794814431,
+        "comments_url": "https://news.ycombinator.com/item?id=50515035"
+      },
+      "hot_score": 0.14,
+      "tags": [
+        "AI",
+        "Programming"
+      ]
+    },
+    {
+      "title_en": "Stop Filming in Log?",
+      "url": "https://digitalfilms.wordpress.com/2026/11/15/stop-filming-in-log/",
+      "title_zh": "停止拍摄 Log 格式？",
+      "is_new": true,
+      "created_display": "Created: Nov 15, 2026 / 20:37 PT",
+      "image_url": "https://digitalfilms.wordpress.com/wp-content/uploads/2026/10/df202656_nolog_06.jpg",
+      "summary_en": "The author argues that log-encoded video can create unnecessary challenges for colorists and is often used because of the mistaken belief that log automatically looks like film. Videographers frequently underexpose log footage while expecting to fix it in post-production, a problem that also affects camera RAW and HDR workflows. The piece traces log video’s rise to ARRI’s Alexa in 2010 and notes that camera RAW had been introduced by RED in 2007.",
+      "summary_zh": "作者认为，Log 编码视频可能给调色师带来不必要的困难，人们使用它往往是因为误以为 Log 天然具有胶片质感。摄像师经常将 Log 素材曝光不足，却指望后期修复；相机 RAW 和 HDR 工作流也存在类似问题。文章指出，Log 视频在 ARRI 于 2010 年推出 Alexa 后开始普及，而 RED 则在 2007 年引入了相机 RAW。",
+      "hn": {
+        "id": 50514093,
+        "type": "story",
+        "by": "dabinat",
+        "score": 90,
+        "descendants": 101,
+        "time": 1794803823,
+        "comments_url": "https://news.ycombinator.com/item?id=50514093"
+      },
+      "hot_score": 0.13,
+      "tags": [
+        "Entertainment"
+      ]
+    },
+    {
+      "title_en": "First Photos of the Poles of a Rod-Shaped Bacterium",
+      "url": "https://nautil.us/check-out-the-first-photos-of-the-poles-of-a-rod-shaped-bacterium-1286664",
+      "title_zh": "杆状细菌两端的首批照片",
+      "is_new": true,
+      "created_display": "Created: Nov 16, 2026 / 07:02 PT",
+      "image_url": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/11/02-double.jpg",
+      "summary_en": "Scientists have captured detailed images of the poles at the ends of rod-shaped bacteria for the first time. The advance came not from a new camera or scanner, but from keeping the tiny microbes still and alive long enough to image them. The images reveal a part of bacterial structure that had not previously been seen directly.",
+      "summary_zh": "科学家首次拍摄到了杆状细菌两端极点的清晰图像。这项进展并非来自新型相机或扫描仪，而是因为研究人员成功让这些微小微生物保持静止并存活足够长时间，以便进行成像。这些图像直接展示了此前从未被观察到的细菌结构部分。",
+      "hn": {
+        "id": 50518328,
+        "type": "story",
+        "by": "dustfinger",
+        "score": 44,
+        "descendants": 9,
+        "time": 1794841340,
+        "comments_url": "https://news.ycombinator.com/item?id=50518328"
+      },
+      "hot_score": 0.11,
+      "tags": [
+        "Science"
+      ]
+    },
+    {
+      "title_en": "Japan's Hometown Tax (2018)",
+      "url": "https://www.kalzumeus.com/2018/10/19/japanese-hometown-tax/",
+      "title_zh": "日本故乡税（2018）",
+      "is_new": true,
+      "created_display": "Created: Nov 15, 2026 / 09:34 PT",
+      "image_url": "https://www.kalzumeus.com/images/patrick-mckenzie-headshot-smaller.jpg",
+      "summary_en": "The piece explains an innovative Japanese tax policy for readers who may not usually follow public policy. The author says they came to understand the policy better than expected after meeting people interested in the subject and aims to clarify how it works.",
+      "summary_zh": "文章向平时不太关注公共政策的读者介绍日本一项创新税收政策。作者表示，在结识对这一领域感兴趣的人后，自己意外地对该政策有了较深入的理解，并希望借此解释其运作方式。",
+      "hn": {
+        "id": 50508845,
+        "type": "story",
+        "by": "waximabbax",
+        "score": 104,
+        "descendants": 61,
+        "time": 1794764062,
+        "comments_url": "https://news.ycombinator.com/item?id=50508845"
+      },
+      "hot_score": 0.1,
+      "tags": [
+        "Politics"
+      ]
+    },
+    {
+      "title_en": "Why did modems have speakers? (2019)",
+      "url": "https://retrocomputing.stackexchange.com/questions/11765",
+      "title_zh": "调制解调器为什么会配备扬声器？（2019）",
+      "is_new": true,
+      "created_display": "Created: Nov 15, 2026 / 13:27 PT",
+      "image_url": null,
+      "summary_en": "The piece asks why modems had speakers.",
+      "summary_zh": "文章探讨调制解调器过去为何配备扬声器。",
+      "hn": {
+        "id": 50510969,
+        "type": "story",
+        "by": "Skyfall106",
+        "score": 80,
+        "descendants": 49,
+        "time": 1794778049,
+        "comments_url": "https://news.ycombinator.com/item?id=50510969"
+      },
+      "hot_score": 0.08,
+      "tags": [
+        "Science"
+      ]
+    },
+    {
+      "title_en": "The Fossils That Haunted Lovecraft",
+      "url": "https://paleonerdish.wordpress.com/2026/10/30/halloween-special-xiv-the-fossils-that-haunted-lovecraft/",
+      "title_zh": "困扰洛夫克拉夫特的化石",
+      "is_new": true,
+      "created_display": "Created: Nov 15, 2026 / 16:38 PT",
+      "image_url": "https://paleonerdish.wordpress.com/wp-content/uploads/2026/10/oviraptor-specimen-2460-1384_wideexact_1230.jpg",
+      "summary_en": "In 1923, expeditions led by Roy Chapman Andrews returned from Mongolia’s Gobi Desert with large quantities of fossils, including fossilized eggs from the Flaming Cliffs. Newspapers described the eggs as the first dinosaur eggs ever discovered, and the American Museum of Natural History took them for the eggs of a dinosaur. The discovery became part of the fossil history associated with H. P. Lovecraft’s era.",
+      "summary_zh": "1923 年，Roy Chapman Andrews 率领的考察队从蒙古戈壁沙漠带回了大量化石，其中包括来自火焰崖的蛋化石。报纸将这些蛋描述为人类发现的首批恐龙蛋，美国自然历史博物馆也将其认定为恐龙蛋。这一发现成为洛夫克拉夫特所处时代化石史的一部分。",
+      "hn": {
+        "id": 50512576,
+        "type": "story",
+        "by": "BigTTYGothGF",
+        "score": 63,
+        "descendants": 32,
+        "time": 1794789492,
+        "comments_url": "https://news.ycombinator.com/item?id=50512576"
+      },
+      "hot_score": 0.08,
+      "tags": [
+        "Science"
+      ]
+    },
+    {
+      "title_en": "Formal Verification Is Not Verifiable",
+      "url": "https://alperenkeles.com/posts/formal-verification-is-not-verifiable/",
+      "title_zh": "形式化验证并不可验证",
+      "is_new": true,
+      "created_display": "Created: Nov 14, 2026 / 07:07 PT",
+      "image_url": "https://alperenkeles.com/social_icons/twitter.svg",
+      "summary_en": "The author argues that AI has helped bring formal verification into the mainstream. Writing in December 2025, the author said that developments over the preceding year made that conclusion difficult to dispute.",
+      "summary_zh": "作者认为，人工智能已经推动形式化验证走向主流。作者在 2025 年 12 月写道，过去一年发生的发展让这一判断很难再被否认。文章进一步探讨了标题所指向的局限。",
+      "hn": {
+        "id": 50497621,
+        "type": "story",
+        "by": "zdw",
+        "score": 149,
+        "descendants": 54,
+        "time": 1794668868,
+        "comments_url": "https://news.ycombinator.com/item?id=50497621"
+      },
+      "tags": [
+        "Science",
+        "AI"
+      ],
+      "hot_score": 0.06
+    },
+    {
+      "title_en": "Turbo Pascal Compiler Written in Turbo Pascal",
+      "url": "https://turbo51.com/compiler-design/tpc16-turbo-pascal-compiler-written-in-turbo-pascal",
+      "title_zh": "用 Turbo Pascal 编写的 Turbo Pascal 编译器",
+      "is_new": true,
+      "created_display": "Created: Nov 15, 2026 / 10:40 PT",
+      "image_url": null,
+      "summary_en": "A Turbo Pascal compiler has been written in Turbo Pascal.",
+      "summary_zh": "有人使用 Turbo Pascal 编写了一个 Turbo Pascal 编译器。",
+      "hn": {
+        "id": 50509456,
+        "type": "story",
+        "by": "andsoitis",
+        "score": 61,
+        "descendants": 25,
+        "time": 1794768057,
+        "comments_url": "https://news.ycombinator.com/item?id=50509456"
+      },
+      "hot_score": 0.06,
+      "tags": [
+        "Programming"
+      ]
+    },
+    {
+      "title_en": "Show HN: VennDB: append-only in-memory Rust DB for rows queried using bit flags",
+      "url": "https://github.com/plabayo/venndb",
+      "title_zh": "Show HN：VennDB——用位标志查询行数据的追加式内存 Rust 数据库",
+      "is_new": true,
+      "created_display": "Created: Nov 16, 2026 / 01:17 PT",
+      "image_url": "https://repository-images.githubusercontent.com/618452402/843c8829-6a4a-467d-8aea-2271df08ceec",
+      "summary_en": "VennDB is an append-only, in-memory database written in Rust that queries rows through bit-flag columns. It targets mostly static datasets loaded at startup and queried frequently with simple filters, with an emphasis on speed and compactness. For its limited use cases, the project has few dependencies and is described as faster than a naive implementation or a heavier option such as SQLite.",
+      "summary_zh": "VennDB 是一个用 Rust 编写的追加式内存数据库，通过位标志列查询行数据。它面向主要在启动时加载、之后频繁使用简单过滤条件查询的静态数据集，重点是速度和紧凑性。在适用范围有限的场景中，该项目依赖很少，并被描述为比朴素实现或 SQLite 等更重量级方案更快。",
+      "hn": {
+        "id": 50515603,
+        "type": "story",
+        "by": "gdcbe",
+        "score": 21,
+        "descendants": 1,
+        "time": 1794820657,
+        "comments_url": "https://news.ycombinator.com/item?id=50515603"
+      },
+      "hot_score": 0.04,
+      "tags": [
+        "Show HN",
+        "Programming",
+        "Data",
+        "Startups"
+      ]
+    },
+    {
+      "title_en": "Rows vs. Columns: How different are they, really?",
+      "url": "https://spiraldb.com/blog/rows-vs-columns",
+      "title_zh": "行与列：它们到底有多不一样？",
+      "is_new": true,
+      "created_display": "Created: Nov 12, 2026 / 09:04 PT",
+      "image_url": "https://spiraldb.com/blog/rows-vs-columns/opengraph-image-d09wn6?02662a7c34412feb",
+      "summary_en": "The piece explains how storing data in columns instead of rows can fundamentally change how a database system operates. It begins with a bike-sharing CSV in which each row represents one ride and all known details about that record. Row-oriented organization is familiar because it mirrors how people commonly think about objects such as spreadsheets, JSON records, and SQL table entries.",
+      "summary_zh": "文章解释了将数据按列而不是按行存储，如何从根本上改变数据库系统的工作方式。文章从一份共享单车 CSV 文件开始，其中每一行代表一次骑行及其全部已知信息。按行组织数据之所以常见，是因为它符合人们理解电子表格、JSON 记录和 SQL 表条目的方式。",
+      "hn": {
+        "id": 50470523,
+        "type": "story",
+        "by": "eatonphil",
+        "score": 88,
+        "descendants": 34,
+        "time": 1794503081,
+        "comments_url": "https://news.ycombinator.com/item?id=50470523"
+      },
+      "hot_score": 0.02,
+      "tags": [
+        "Programming",
+        "Data"
+      ]
+    },
+    {
+      "title_en": "Too Many Stadiums with Roofs",
+      "url": "https://sharptext.net/2026/too-many-stadiums-with-roofs/",
+      "title_zh": "带屋顶的体育场太多了",
+      "is_new": true,
+      "created_display": "Created: Nov 14, 2026 / 07:12 PT",
+      "image_url": "https://jetpack.com/redirect/?source=sigenerate&query=t%3DeyJpbWciOiJodHRwczpcL1wvc2hhcnB0ZXh0Lm5ldFwvd3AtY29udGVudFwvdXBsb2Fkc1wvMjAyNlwvMDlcL1NjcmVlbnNob3QtMjAyNi0wOS0yMS1hdC0xMi41OC4wMC1QTS0xMDI0eDYwMC5wbmciLCJ0eHQiOiJUb28gTWFueSBTdGFkaXVtcyB3aXRoIFJvb2ZzIiwidGVtcGxhdGUiOiJmdWxsc2NyZWVuIiwiZm9udCI6IiIsImJsb2dfaWQiOjIyMzAxMDAwOX0.8_orn0oxsoDqsC9DJDGoVFdFu0z96t8Qpwm0My-JC1YMQ",
+      "summary_en": "The piece argues that modern society is building too many football stadiums with roofs. It uses the new Washington Commanders stadium as an example: the venue is expected to open in 2030 and has a reported cost of $2.7 billion. The author says the stadium looks impressive in a video rendering while questioning the broader trend toward roofed stadiums.",
+      "summary_zh": "文章认为，现代社会正在建造过多带屋顶的橄榄球体育场。作者以新的华盛顿指挥官队体育场为例：该场馆预计于 2030 年开放，造价据报为 27 亿美元。作者称视频渲染中的体育场看起来很出色，但同时质疑建造带屋顶体育场的整体趋势。",
+      "hn": {
+        "id": 50497656,
+        "type": "story",
+        "by": "colinprince",
+        "score": 29,
+        "descendants": 25,
+        "time": 1794669159,
+        "comments_url": "https://news.ycombinator.com/item?id=50497656"
+      },
+      "hot_score": 0.01,
+      "tags": [
+        "Design"
+      ]
+    }
+  ]
+}

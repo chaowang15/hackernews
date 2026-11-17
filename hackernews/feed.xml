@@ -5,7 +5,7 @@
     <link>https://chaowang15.github.io/hackernews/</link>
     <description>Curated daily digest of top Hacker News stories with AI-generated summaries, tags, and bilingual translations.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 17 Nov 2026 02:07:50 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 16:06:09 +0000</lastBuildDate>
     <generator>Hacker News Daily RSS Builder</generator>
     <atom:link href="https://chaowang15.github.io/hackernews/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
@@ -19,6 +19,18 @@
 &lt;p&gt;&lt;em&gt;黄仁勋已辞职。现有材料没有提供有关时间、原因或继任安排的可靠细节。这意味着英伟达将发生领导层变动。&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;▲ 4043 · 💬 3443 · Business&lt;/small&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50467087&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/14/top_stories_11142026#story-50467087&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Carnegie Mellon is putting computer science courses on YouTube for free</title>
+      <link>https://www.cs.cmu.edu/learn/</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50522980</guid>
+      <dc:creator>pcompeau</dc:creator>
+      <pubDate>Mon, 16 Nov 2026 20:43:36 +0000</pubDate>
+      <category>Education</category>
+      <description>&lt;p&gt;Carnegie Mellon’s Kenneth C. Griffin School of Computer Science is publishing free lectures on YouTube. Self-paced courseware is planned as the next step. The release gives learners access to the school’s computer science material without charge.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;卡内基梅隆大学肯尼斯·C·格里芬计算机科学学院正在 YouTube 上发布免费课程讲座。下一步计划推出可自主学习的课程材料。这将让学习者免费接触该学院的计算机科学内容。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 2000 · 💬 272 · Education&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50522980&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/17/top_stories_11172026#story-50522980&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>SpaceX catches the Starship to end Flight 15</title>
@@ -180,6 +192,18 @@
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50456631&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/12/top_stories_11122026#story-50456631&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Many of Amazon’s Black Friday and Cyber Monday “deals” offered no savings</title>
+      <link>http://groundworkcollaborative.org/news/amazons-decoy-deals-groundwork-investigation-reveals-nearly-1-in-3-black-friday-and-cyber-monday-deals-advertised-by-amazon-offered-no-savings-to-shoppers-nearly-1-in-10-w/</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50517488</guid>
+      <dc:creator>DeepLogin</dc:creator>
+      <pubDate>Mon, 16 Nov 2026 13:39:07 +0000</pubDate>
+      <category>Business</category>
+      <description>&lt;p&gt;An investigation found that many Black Friday and Cyber Monday deals advertised by Amazon did not provide actual savings. The deals were presented as discounts even though shoppers often paid no less than usual.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;一项调查发现，亚马逊宣传的许多黑色星期五和网络星期一优惠实际上并没有带来节省。这些商品虽然以折扣形式展示，消费者实际支付的价格却往往并未降低。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 926 · 💬 541 · Business&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50517488&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/17/top_stories_11172026#story-50517488&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>.name Grandfathered</title>
       <link>https://neil.fraser.name/news/2026/11/10/</link>
       <guid isPermaLink="true">https://news.ycombinator.com/item?id=50442736</guid>
@@ -205,19 +229,6 @@
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50472038&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/14/top_stories_11142026#story-50472038&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Claude Fable 5.2 and Mythos 5.2</title>
-      <link>https://www.anthropic.com/claude-fable-and-mythos-5-2</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50429068</guid>
-      <dc:creator>lairv</dc:creator>
-      <pubDate>Mon, 09 Nov 2026 18:01:10 +0000</pubDate>
-      <category>AI</category>
-      <category>Finance</category>
-      <description>&lt;p&gt;Anthropic has introduced Claude Fable 5.2 and Claude Mythos 5.2 for demanding technical tasks. The company says the models improve coding, reasoning, and vision, and that prerelease testing helped engineers complete software migrations, design three working electronic devices, advance robotics evaluations, and formalize a proof of Fermat's Last Theorem. Fable 5.2 is positioned as a new high point for coding, finance, and science.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Anthropic 推出了面向高难度技术任务的 Claude Fable 5.2 和 Claude Mythos 5.2。该公司称，这些模型在编程、推理和视觉方面有所提升，并在预发布测试中帮助工程师完成软件迁移、从零设计三种可工作的电子设备、推进机器人评测，以及形式化费马大定理的证明。Fable 5.2 被定位为编程、金融和科学领域的新标杆。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 882 · 💬 1008 · AI · Finance&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50429068&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/10/top_stories_11102026#story-50429068&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>Qwen4-Max</title>
       <link>https://qwen.ai/blog?id=qwen4-max</link>
       <guid isPermaLink="true">https://news.ycombinator.com/item?id=50513215</guid>
@@ -228,18 +239,6 @@
 &lt;p&gt;&lt;em&gt;Qwen4-Max 被描述为支持聊天、图像和视频理解、图像生成、文档处理、联网搜索、工具调用及 artifacts。它定位为覆盖多种输入和输出形式的模型或服务。&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;▲ 854 · 💬 471 · AI&lt;/small&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50513215&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/16/top_stories_11162026#story-50513215&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Many of Amazon’s Black Friday and Cyber Monday “deals” offered no savings</title>
-      <link>http://groundworkcollaborative.org/news/amazons-decoy-deals-groundwork-investigation-reveals-nearly-1-in-3-black-friday-and-cyber-monday-deals-advertised-by-amazon-offered-no-savings-to-shoppers-nearly-1-in-10-w/</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50517488</guid>
-      <dc:creator>DeepLogin</dc:creator>
-      <pubDate>Mon, 16 Nov 2026 13:39:07 +0000</pubDate>
-      <category>Business</category>
-      <description>&lt;p&gt;An investigation found that many Black Friday and Cyber Monday deals advertised by Amazon did not provide actual savings. The deals were presented as discounts even though shoppers often paid no less than usual.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;一项调查发现，亚马逊宣传的许多黑色星期五和网络星期一优惠实际上并没有带来节省。这些商品虽然以折扣形式展示，消费者实际支付的价格却往往并未降低。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 841 · 💬 510 · Business&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50517488&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/16/top_stories_11162026#story-50517488&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>How to make almost anything</title>
@@ -264,6 +263,18 @@
 &lt;p&gt;&lt;em&gt;这则内容称 LibreOffice 一年 365 天都能正常工作。它以简短的对比或宣传方式强调了这套办公软件的可靠性。&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;▲ 831 · 💬 254 · Open Source&lt;/small&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50486482&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/13/top_stories_11132026#story-50486482&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Technical issue at JPMorgan Chase triggers online banking delays for US banks</title>
+      <link>https://apnews.com/article/bank-outage-chase-wells-fargo-truist-50fee2693c22f597fa6ca51a97ef2cda</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50521045</guid>
+      <dc:creator>samk3nny</dc:creator>
+      <pubDate>Mon, 16 Nov 2026 18:31:30 +0000</pubDate>
+      <category>Business</category>
+      <description>&lt;p&gt;A technical issue at JPMorgan Chase triggered online-banking delays for banks in the United States. The incident affected online banking service availability or responsiveness.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;摩根大通的一项技术故障引发了美国银行的在线银行服务延迟。该事件影响了在线银行服务的可用性或响应速度。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 808 · 💬 677 · Business&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50521045&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/17/top_stories_11172026#story-50521045&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Nvidia employees petition to bring back Jensen Huang</title>
@@ -291,18 +302,6 @@
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50474959&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/14/top_stories_11142026#story-50474959&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Carnegie Mellon is putting computer science courses on YouTube for free</title>
-      <link>https://www.cs.cmu.edu/learn/</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50522980</guid>
-      <dc:creator>pcompeau</dc:creator>
-      <pubDate>Mon, 16 Nov 2026 20:43:36 +0000</pubDate>
-      <category>Education</category>
-      <description>&lt;p&gt;Carnegie Mellon’s Kenneth C. Griffin School of Computer Science is publishing free lectures on YouTube. Self-paced courseware is planned as the next step. The release gives learners access to the school’s computer science material without charge.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;卡内基梅隆大学肯尼斯·C·格里芬计算机科学学院正在 YouTube 上发布免费课程讲座。下一步计划推出可自主学习的课程材料。这将让学习者免费接触该学院的计算机科学内容。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 742 · 💬 126 · Education&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50522980&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/16/top_stories_11162026#story-50522980&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>Show HN: My $300 embroidery machine needed a subscription, so I built my own app</title>
       <link>https://github.com/simpsoka/zigzag</link>
       <guid isPermaLink="true">https://news.ycombinator.com/item?id=50470488</guid>
@@ -316,56 +315,30 @@
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50470488&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/14/top_stories_11142026#story-50470488&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>USPS now offers official ZIP Code boundary polygons</title>
-      <link>https://postalpro.usps.com/zcb</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50431058</guid>
-      <dc:creator>munro</dc:creator>
-      <pubDate>Mon, 09 Nov 2026 19:58:59 +0000</pubDate>
-      <category>Data</category>
-      <description>&lt;p&gt;The USPS has released a national ZIP Code boundary map built from delivery-address and location data. The boundaries can change as delivery locations are added or modified, and the data is updated quarterly with limited distribution to subsidiaries and partners. The dataset is intended for mapping, mailing, marketing, insurance, real estate, logistics, navigation, and transportation applications.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;美国邮政服务（USPS）发布了基于投递地址和位置数据制作的全国 ZIP Code 边界地图。随着投递地点新增或变更，边界可能发生变化；数据每季度更新一次，并仅向子公司和合作伙伴有限提供。该数据可用于地图、邮寄、营销、保险、房地产、物流、导航和交通等行业。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 720 · 💬 388 · Data&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50431058&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/10/top_stories_11102026#story-50431058&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Technical issue at JPMorgan Chase triggers online banking delays for US banks</title>
-      <link>https://apnews.com/article/bank-outage-chase-wells-fargo-truist-50fee2693c22f597fa6ca51a97ef2cda</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50521045</guid>
-      <dc:creator>samk3nny</dc:creator>
-      <pubDate>Mon, 16 Nov 2026 18:31:30 +0000</pubDate>
-      <category>Business</category>
-      <description>&lt;p&gt;A technical issue at JPMorgan Chase triggered online-banking delays for banks in the United States. The incident affected online banking service availability or responsiveness.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;摩根大通的一项技术故障引发了美国银行的在线银行服务延迟。该事件影响了在线银行服务的可用性或响应速度。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 717 · 💬 593 · Business&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50521045&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/16/top_stories_11162026#story-50521045&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Google Gemini routes personal Drive files and emails to human annotators</title>
-      <link>https://github.com/thisisme6598/gemini_files/</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50429426</guid>
-      <dc:creator>gf74918</dc:creator>
-      <pubDate>Mon, 09 Nov 2026 18:24:38 +0000</pubDate>
+      <title>Windows 11 is collecting data on which coding agents and developer tools you use</title>
+      <link>https://xusheng.dev/posts/windows-coding-agent-telemetry/</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50524736</guid>
+      <dc:creator>cwaffles</dc:creator>
+      <pubDate>Mon, 16 Nov 2026 22:58:20 +0000</pubDate>
       <category>Privacy</category>
-      <category>Security</category>
       <category>AI</category>
-      <description>&lt;p&gt;Updated Google guidance reportedly confirms that content from connected Drive and email accounts can enter human-review pipelines for Gemini. This reverses a 2023 promise that personal Gmail, Docs, and Drive content would not be seen by human reviewers. Google now warns users not to connect apps containing confidential information they would not want a reviewer to see.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Google 更新后的说明据称确认，连接到 Gemini 的 Drive 和电子邮件账户内容可能进入人工审核流程。这改变了 Google 在 2023 年作出的承诺——当时公司表示个人 Gmail、Docs 和 Drive 内容不会被人工审核员看到。Google 目前警告用户，不要连接包含不希望审核员看到的机密信息的应用。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 716 · 💬 147 · Privacy · Security · AI&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50429426&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/10/top_stories_11102026#story-50429426&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+      <category>Programming</category>
+      <description>&lt;p&gt;Reverse engineering of Windows 11’s MissionControlAggregator found coding-agent and developer-tool usage bits in a diagnostic ETW report. The observed list includes Codex, Claude, Copilot, Cursor, Python, .NET, GCC, and Visual Studio Code executables. The finding raises questions about why a Windows system DLL records the use of these tools.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;对 Windows 11 的 MissionControlAggregator 进行逆向分析后，研究者在诊断 ETW 报告中发现了编程代理和开发工具的使用标记。相关列表包括 Codex、Claude、Copilot、Cursor，以及 Python、.NET、GCC 和 Visual Studio Code 等可执行文件。这一发现引出了一个问题：Windows 系统 DLL 为何要记录这些工具的使用情况。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 680 · 💬 539 · Privacy · AI · Programming&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50524736&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/17/top_stories_11172026#story-50524736&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Amazon saves millions by replacing Sonnet 4.6 with Strands Decider</title>
-      <link>https://strandsagents.com/blog/amazon-saves-millions-replacing-sonnet-with-strands-decider/</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50436640</guid>
-      <dc:creator>aloukissas</dc:creator>
-      <pubDate>Tue, 10 Nov 2026 06:01:08 +0000</pubDate>
-      <category>Finance</category>
-      <category>Business</category>
-      <category>AI</category>
-      <description>&lt;p&gt;Two Amazon engineers replaced Claude Sonnet 4.6 with Strands Decider in a major internal ticketing system. Sonnet had provided a balance of intelligence and cost, but Strands Decider reportedly performed equally well at 98% lower cost. The change is expected to save millions of dollars in annual token expenses.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;亚马逊的两名工程师在一个大型内部工单系统中，用 Strands Decider 替代了 Claude Sonnet 4.6。Sonnet 原本在智能程度和成本之间取得了平衡，但据称 Strands Decider 在表现相当的情况下将成本降低了 98%。这一调整预计每年可节省数百万美元的 token 费用。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 693 · 💬 242 · Finance · Business · AI&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50436640&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/10/top_stories_11102026#story-50436640&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+      <title>BugMeNot has closed</title>
+      <link>https://www.bugmenot.com/</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50523601</guid>
+      <dc:creator>lode</dc:creator>
+      <pubDate>Mon, 16 Nov 2026 21:32:17 +0000</pubDate>
+      <category>Culture</category>
+      <description>&lt;p&gt;BugMeNot has closed. Its farewell thanks everyone who envisioned a better internet.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;BugMeNot 已经关闭。告别信息向所有曾设想建设更好互联网的人表示感谢。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 662 · 💬 298 · Culture&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50523601&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/17/top_stories_11172026#story-50523601&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>United Airlines bans AI agents from booking flights on behalf of travelers</title>
@@ -406,6 +379,18 @@
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50509411&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/16/top_stories_11162026#story-50509411&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>New Evidence Shows School Phone Bans Are Gradually Improving Test Scores</title>
+      <link>https://www.nytimes.com/2026/11/17/upshot/school-phone-bans-study-scores.html</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50530163</guid>
+      <dc:creator>donohoe</dc:creator>
+      <pubDate>Tue, 17 Nov 2026 11:45:51 +0000</pubDate>
+      <category>Education</category>
+      <description>&lt;p&gt;A large national analysis comparing students’ scores before and after cellphone bans found modest academic improvements. Schools with strict policies requiring students to lock phones in pouches for the entire school day saw math and reading gains equivalent to roughly one or two additional weeks of schooling per year. The study was published by Harvard’s Center for Education Policy Research and is the first national study to track individual students’ growth in this way.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;一项比较学生禁用手机前后成绩的大型全国性分析发现，学业表现出现小幅改善。要求学生在整个上课日将手机锁入袋中的学校，数学和阅读成绩提升幅度相当于每年额外增加约一至两周的学习。该研究由哈佛教育政策研究中心发布，是首项以这种方式追踪个体学生成长的全国性研究。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 619 · 💬 316 · Education&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50530163&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/17/top_stories_11172026#story-50530163&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Why get an expensive Pi when I have an old phone?</title>
       <link>https://so.long.thanks.fish/why-pi-when-i-have-an-old-phone/</link>
       <guid isPermaLink="true">https://news.ycombinator.com/item?id=50440709</guid>
@@ -430,31 +415,6 @@
 &lt;p&gt;&lt;em&gt;uBlock Origin 的 Firefox 版本元素选择器存在一个可通过一次点击触发的通用 XSS 漏洞。恶意网站可以诱使扩展添加任意受信过滤规则，而受信规则能够向其他网站注入 JavaScript，并在这些网站的上下文中执行。该问题现已修复；基于 MV3 的 uBO Lite 也受到一个相关但危害较小的问题影响。&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;▲ 598 · 💬 174 · Security · Programming&lt;/small&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50513160&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/16/top_stories_11162026#story-50513160&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>AlphaProof Code</title>
-      <link>https://deepmind.google/blog/introducing-alphaproof-code/</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50439193</guid>
-      <dc:creator>ilreb</dc:creator>
-      <pubDate>Tue, 10 Nov 2026 12:11:12 +0000</pubDate>
-      <category>Security</category>
-      <category>Programming</category>
-      <description>&lt;p&gt;AlphaProof Code agents generated more than three million lines of machine-checked Lean proof. The proofs verify Signal’s core cryptographic protections down to machine instructions. The result demonstrates the agents’ use in formal verification of security-critical software.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;AlphaProof Code 代理生成了超过 300 万行经过机器检查的 Lean 证明。这些证明将 Signal 的核心加密防护验证到了机器指令级别。该成果展示了这类代理在安全关键软件形式化验证中的用途。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 590 · 💬 179 · Security · Programming&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50439193&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/10/top_stories_11102026#story-50439193&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system</title>
-      <link>https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50427362</guid>
-      <dc:creator>ocd</dc:creator>
-      <pubDate>Mon, 09 Nov 2026 16:00:45 +0000</pubDate>
-      <category>Finance</category>
-      <description>&lt;p&gt;Payments Canada announced the launch of Canada’s Real-Time Rail, a national payment system for instant clearing and settlement. Participating financial institutions, credit unions, and payment service providers can exchange, clear, and settle payments securely in real time, 24 hours a day. The system also provides real-time cash-flow visibility and data-rich messaging through existing banking and payment channels.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Payments Canada 宣布推出加拿大实时铁路（RTR），这是一个支持即时清算和结算的全国性支付系统。参与其中的金融机构、信用合作社和支付服务商可以全年全天候安全地实时交换、清算和结算付款。该系统还通过现有银行和支付渠道提供实时现金流可见性以及包含丰富数据的消息传递。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 579 · 💬 342 · Finance&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50427362&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/10/top_stories_11102026#story-50427362&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>A false smoke alarm almost drowned Jane Street's only NYC datacenter</title>
@@ -542,6 +502,20 @@
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50446520&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/12/top_stories_11122026#story-50446520&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Optimizely compromised, served malware on Zoom, GitLab</title>
+      <link>https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50524767</guid>
+      <dc:creator>kristjansson</dc:creator>
+      <pubDate>Mon, 16 Nov 2026 23:00:34 +0000</pubDate>
+      <category>Security</category>
+      <category>Programming</category>
+      <category>Finance</category>
+      <description>&lt;p&gt;On November 16, 2026, malicious JavaScript was served through Optimizely’s Web experimentation platform to visitors of 178 organizations, including Zoom, the BBC, CNN, Salesforce, GitLab, IKEA, HSBC, and others. The malware could replace cryptocurrency wallet addresses, skim payment-card data, steal cookies and screenshots, and deliver the Coruna and DarkSword iOS exploit kits on iPhones and iPads. Cryptocurrency had already been stolen in transactions verified as belonging to the attackers.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;2026 年 11 月 16 日，Optimizely 的 Web 实验平台向 178 家机构的网站访客投放了恶意 JavaScript，受影响机构包括 Zoom、BBC、CNN、Salesforce、GitLab、IKEA 和 HSBC 等。该恶意软件能够替换加密货币钱包地址、窃取支付卡数据、Cookie 和屏幕截图，并在 iPhone 和 iPad 上投递 Coruna 与 DarkSword iOS 漏洞利用套件。已有加密货币在被确认属于攻击者的交易中遭窃取。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 527 · 💬 209 · Security · Programming · Finance&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50524767&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/17/top_stories_11172026#story-50524767&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Nvidia is preparing to oust Jensen Huang</title>
       <link>https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad</link>
       <guid isPermaLink="true">https://news.ycombinator.com/item?id=50459703</guid>
@@ -605,18 +579,6 @@
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50482379&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/14/top_stories_11142026#story-50482379&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>E-means: Outperforming k-means in one-tenth the epochs</title>
-      <link>https://e-means.github.io/</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50429734</guid>
-      <dc:creator>porridgeraisin</dc:creator>
-      <pubDate>Mon, 09 Nov 2026 18:45:43 +0000</pubDate>
-      <category>Data</category>
-      <description>&lt;p&gt;E-means is presented as an alternative to Lloyd's k-means algorithm. Across a broad range of scales and datasets, it reached lower test loss than Lloyd's method in 1.2 to 3 epochs, compared with 25 epochs. The reported end-to-end speedup is 10–45× over Flash-KMeans on GPUs and 8–15× over Faiss on CPUs.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;E-means 被介绍为 Lloyd k-means 算法的一种替代方案。在多种规模和数据集上，E-means 用 1.2 至 3 个训练轮次就达到了低于 Lloyd 方法的测试损失，而后者需要 25 个轮次。报告称，端到端速度相比 GPU 上的 Flash-KMeans 提升 10–45 倍，相比 CPU 上的 Faiss 提升 8–15 倍。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 494 · 💬 78 · Data&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50429734&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/10/top_stories_11102026#story-50429734&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>Elevated errors on claude.ai, Claude Code, and platform.claude.com</title>
       <link>https://status.claude.com/incidents/nn11wk485zfn</link>
       <guid isPermaLink="true">https://news.ycombinator.com/item?id=50481187</guid>
@@ -627,6 +589,18 @@
 &lt;p&gt;&lt;em&gt;Claude 状态页报告称，claude.ai、Claude Code 和 platform.claude.com 的错误率升高。现有信息仅列出了受影响的服务，未提供更多事故细节。&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;▲ 493 · 💬 390 · AI&lt;/small&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50481187&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/14/top_stories_11142026#story-50481187&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Frame – 31.5&quot; color ePaper display</title>
+      <link>https://trmnl.com/blog/introducing-frame</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50519354</guid>
+      <dc:creator>geerlingguy</dc:creator>
+      <pubDate>Mon, 16 Nov 2026 16:23:22 +0000</pubDate>
+      <category>Hardware</category>
+      <description>&lt;p&gt;Frame is a handmade wooden frame containing a 31.5-inch full-color ePaper display. It is the product’s third release and is now available for pre-order. The first batch is limited to about 470 units, with a few intended to ship by the end of 2026 and most deliveries expected in early 2027.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Frame 是一款采用手工木制外壳的 31.5 英寸全彩电子纸显示器。这是该产品的第三次发布，目前已开放预订。首批约 470 台，计划在 2026 年底前发出少量产品，大多数订单预计于 2027 年初交付。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 492 · 💬 353 · Hardware&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50519354&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/17/top_stories_11172026#story-50519354&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Court denies motion to dismiss DRAM price fixing case</title>
@@ -640,6 +614,31 @@
 &lt;p&gt;&lt;em&gt;一名联邦法官拒绝驳回一项拟议集体诉讼，该诉讼指控三星、SK 海力士和美光合谋限制传统 DRAM 供应，并将产能转向 HBM。Noël Wise 法官认定，买方对违反《谢尔曼法》第 1 条的合谋提出了具有可信性的指控。目前这些指控仅在这一程序阶段被视为成立，并未得到证实。&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;▲ 492 · 💬 219 · Legal · Business&lt;/small&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50502988&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/15/top_stories_11152026#story-50502988&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Synaptics patent claims stop work on DisplayLink drivers</title>
+      <link>https://lwn.net/SubscriberLink/1102549/acbc92e00cee3a3f/</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50443824</guid>
+      <dc:creator>speckx</dc:creator>
+      <pubDate>Tue, 10 Nov 2026 18:02:02 +0000</pubDate>
+      <category>Legal</category>
+      <description>&lt;p&gt;Mike Lothian tried to improve a Linux driver for a DisplayLink docking station after finding its performance inadequate. Synaptics, which acquired DisplayLink in 2022, responded with patent-infringement claims, a demand to stop the unauthorized implementation, and warnings of costly legal penalties. Linux users of the company’s docks therefore appear likely to remain without feature parity for now.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Mike Lothian 认为 DisplayLink 扩展坞在 Linux 下性能不佳，因此尝试改进其驱动。DisplayLink 于 2022 年被 Synaptics 收购，而 Synaptics 随后以专利侵权为由要求停止未经授权的实现，并警告可能面临高昂法律处罚。因此，相关扩展坞的 Linux 用户目前似乎仍将无法获得与其他平台相当的功能。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 481 · 💬 267 · Legal&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50443824&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/11/top_stories_11112026#story-50443824&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Tech companies are trying to shift the concept of privacy again</title>
+      <link>https://www.eff.org/deeplinks/2026/11/tech-companies-are-trying-shift-entire-concept-privacy-again</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50496602</guid>
+      <dc:creator>gslin</dc:creator>
+      <pubDate>Sat, 14 Nov 2026 12:45:45 +0000</pubDate>
+      <category>Privacy</category>
+      <category>AI</category>
+      <description>&lt;p&gt;Privacy is increasingly affecting people beyond the individual who owns or uses a device. Meta and Google’s smart glasses can record what the wearer is looking at or use AI to describe it, extending the consequences of data collection to bystanders. The shift challenges the older framing of privacy as primarily a matter of personal choice.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;隐私问题正越来越多地影响设备所有者或使用者之外的人。Meta 和 Google 的智能眼镜可以记录佩戴者所看到的内容，或使用 AI 对其进行描述，使数据收集的后果波及旁观者。这种变化挑战了过去主要将隐私视为个人选择的传统定义。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 468 · 💬 175 · Privacy · AI&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50496602&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/14/top_stories_11142026#story-50496602&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
