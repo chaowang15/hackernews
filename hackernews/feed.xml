@@ -5,7 +5,7 @@
     <link>https://chaowang15.github.io/hackernews/</link>
     <description>Curated daily digest of top Hacker News stories with AI-generated summaries, tags, and bilingual translations.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 16 Nov 2026 16:05:53 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 02:07:50 +0000</lastBuildDate>
     <generator>Hacker News Daily RSS Builder</generator>
     <atom:link href="https://chaowang15.github.io/hackernews/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
@@ -29,7 +29,7 @@
       <category>Space</category>
       <description>&lt;p&gt;SpaceX's Starship Flight 15 ended with the vehicle being caught by the launch system. The available material provides no further details about the flight or the catch.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;SpaceX 的星舰第 15 次飞行以发射系统接住飞行器告终。现有信息未提供这次飞行或捕获过程的更多细节。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 1725 · 💬 1309 · Space&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 1742 · 💬 1349 · Space&lt;/small&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50500963&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/16/top_stories_11162026#story-50500963&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
@@ -218,6 +218,42 @@
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50429068&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/10/top_stories_11102026#story-50429068&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Qwen4-Max</title>
+      <link>https://qwen.ai/blog?id=qwen4-max</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50513215</guid>
+      <dc:creator>ilreb</dc:creator>
+      <pubDate>Mon, 16 Nov 2026 02:14:44 +0000</pubDate>
+      <category>AI</category>
+      <description>&lt;p&gt;Qwen4-Max is described as supporting chat, image and video understanding, image generation, document processing, web search integration, tool use, and artifacts. It is positioned as a model or service with functionality spanning multiple input and output types.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Qwen4-Max 被描述为支持聊天、图像和视频理解、图像生成、文档处理、联网搜索、工具调用及 artifacts。它定位为覆盖多种输入和输出形式的模型或服务。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 854 · 💬 471 · AI&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50513215&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/16/top_stories_11162026#story-50513215&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Many of Amazon’s Black Friday and Cyber Monday “deals” offered no savings</title>
+      <link>http://groundworkcollaborative.org/news/amazons-decoy-deals-groundwork-investigation-reveals-nearly-1-in-3-black-friday-and-cyber-monday-deals-advertised-by-amazon-offered-no-savings-to-shoppers-nearly-1-in-10-w/</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50517488</guid>
+      <dc:creator>DeepLogin</dc:creator>
+      <pubDate>Mon, 16 Nov 2026 13:39:07 +0000</pubDate>
+      <category>Business</category>
+      <description>&lt;p&gt;An investigation found that many Black Friday and Cyber Monday deals advertised by Amazon did not provide actual savings. The deals were presented as discounts even though shoppers often paid no less than usual.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;一项调查发现，亚马逊宣传的许多黑色星期五和网络星期一优惠实际上并没有带来节省。这些商品虽然以折扣形式展示，消费者实际支付的价格却往往并未降低。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 841 · 💬 510 · Business&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50517488&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/16/top_stories_11162026#story-50517488&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>How to make almost anything</title>
+      <link>https://pub.cba.mit.edu/863.26/site/</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50514470</guid>
+      <dc:creator>o4c</dc:creator>
+      <pubDate>Mon, 16 Nov 2026 05:50:37 +0000</pubDate>
+      <category>Education</category>
+      <description>&lt;p&gt;A project or course titled “How to make almost anything” focuses on creating a wide range of physical or electronic things. Further details about its methods or scope are not available here.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;“如何制造几乎任何东西”是一项围绕制作各种实体或电子作品展开的项目或课程。现有信息未提供其具体方法或内容范围。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 839 · 💬 142 · Education&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50514470&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/16/top_stories_11162026#story-50514470&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>LibreOffice actually works 365 days a year</title>
       <link>https://twitter.com/LibreOffice/status/2121205272479998268</link>
       <guid isPermaLink="true">https://news.ycombinator.com/item?id=50486482</guid>
@@ -255,16 +291,16 @@
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50474959&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/14/top_stories_11142026#story-50474959&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Qwen4-Max</title>
-      <link>https://qwen.ai/blog?id=qwen4-max</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50513215</guid>
-      <dc:creator>ilreb</dc:creator>
-      <pubDate>Mon, 16 Nov 2026 02:14:44 +0000</pubDate>
-      <category>AI</category>
-      <description>&lt;p&gt;Qwen4-Max is described as supporting chat, image and video understanding, image generation, document processing, web search integration, tool use, and artifacts. It is positioned as a model or service with functionality spanning multiple input and output types.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Qwen4-Max 被描述为支持聊天、图像和视频理解、图像生成、文档处理、联网搜索、工具调用及 artifacts。它定位为覆盖多种输入和输出形式的模型或服务。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 740 · 💬 371 · AI&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50513215&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/16/top_stories_11162026#story-50513215&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+      <title>Carnegie Mellon is putting computer science courses on YouTube for free</title>
+      <link>https://www.cs.cmu.edu/learn/</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50522980</guid>
+      <dc:creator>pcompeau</dc:creator>
+      <pubDate>Mon, 16 Nov 2026 20:43:36 +0000</pubDate>
+      <category>Education</category>
+      <description>&lt;p&gt;Carnegie Mellon’s Kenneth C. Griffin School of Computer Science is publishing free lectures on YouTube. Self-paced courseware is planned as the next step. The release gives learners access to the school’s computer science material without charge.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;卡内基梅隆大学肯尼斯·C·格里芬计算机科学学院正在 YouTube 上发布免费课程讲座。下一步计划推出可自主学习的课程材料。这将让学习者免费接触该学院的计算机科学内容。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 742 · 💬 126 · Education&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50522980&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/16/top_stories_11162026#story-50522980&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Show HN: My $300 embroidery machine needed a subscription, so I built my own app</title>
@@ -290,6 +326,18 @@
 &lt;p&gt;&lt;em&gt;美国邮政服务（USPS）发布了基于投递地址和位置数据制作的全国 ZIP Code 边界地图。随着投递地点新增或变更，边界可能发生变化；数据每季度更新一次，并仅向子公司和合作伙伴有限提供。该数据可用于地图、邮寄、营销、保险、房地产、物流、导航和交通等行业。&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;▲ 720 · 💬 388 · Data&lt;/small&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50431058&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/10/top_stories_11102026#story-50431058&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Technical issue at JPMorgan Chase triggers online banking delays for US banks</title>
+      <link>https://apnews.com/article/bank-outage-chase-wells-fargo-truist-50fee2693c22f597fa6ca51a97ef2cda</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50521045</guid>
+      <dc:creator>samk3nny</dc:creator>
+      <pubDate>Mon, 16 Nov 2026 18:31:30 +0000</pubDate>
+      <category>Business</category>
+      <description>&lt;p&gt;A technical issue at JPMorgan Chase triggered online-banking delays for banks in the United States. The incident affected online banking service availability or responsiveness.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;摩根大通的一项技术故障引发了美国银行的在线银行服务延迟。该事件影响了在线银行服务的可用性或响应速度。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 717 · 💬 593 · Business&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50521045&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/16/top_stories_11162026#story-50521045&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Google Gemini routes personal Drive files and emails to human annotators</title>
@@ -346,6 +394,18 @@
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50438261&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/12/top_stories_11122026#story-50438261&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Microsoft 365 outage leads to chlorine gas poisoning of 15 hotel guests</title>
+      <link>https://www1.wdr.de/nrw/rheinland/rhein-erft-kreis/technischer-defekt-chlor-phantasialand-100.html</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50509411</guid>
+      <dc:creator>DeepLogin</dc:creator>
+      <pubDate>Sun, 15 Nov 2026 18:36:10 +0000</pubDate>
+      <category>Health</category>
+      <description>&lt;p&gt;A Microsoft Outlook outage meant Phantasialand did not receive notice that excessive chlorine was present in a pool. Fifteen guests were injured as a result.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;微软 Outlook 服务中断，导致 Phantasialand 未能收到泳池氯含量过高的通知。结果造成 15 名客人受伤。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 621 · 💬 273 · Health&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50509411&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/16/top_stories_11162026#story-50509411&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Why get an expensive Pi when I have an old phone?</title>
       <link>https://so.long.thanks.fish/why-pi-when-i-have-an-old-phone/</link>
       <guid isPermaLink="true">https://news.ycombinator.com/item?id=50440709</guid>
@@ -359,28 +419,17 @@
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50440709&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/15/top_stories_11152026#story-50440709&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Microsoft 365 outage leads to chlorine gas poisoning of 15 hotel guests</title>
-      <link>https://www1.wdr.de/nrw/rheinland/rhein-erft-kreis/technischer-defekt-chlor-phantasialand-100.html</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50509411</guid>
-      <dc:creator>DeepLogin</dc:creator>
-      <pubDate>Sun, 15 Nov 2026 18:36:10 +0000</pubDate>
-      <category>Health</category>
-      <description>&lt;p&gt;A Microsoft Outlook outage meant Phantasialand did not receive notice that excessive chlorine was present in a pool. Fifteen guests were injured as a result.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;微软 Outlook 服务中断，导致 Phantasialand 未能收到泳池氯含量过高的通知。结果造成 15 名客人受伤。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 602 · 💬 258 · Health&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50509411&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/16/top_stories_11162026#story-50509411&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>How to make almost anything</title>
-      <link>https://pub.cba.mit.edu/863.26/site/</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50514470</guid>
-      <dc:creator>o4c</dc:creator>
-      <pubDate>Mon, 16 Nov 2026 05:50:37 +0000</pubDate>
-      <category>Education</category>
-      <description>&lt;p&gt;A project or course titled “How to make almost anything” focuses on creating a wide range of physical or electronic things. Further details about its methods or scope are not available here.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;“如何制造几乎任何东西”是一项围绕制作各种实体或电子作品展开的项目或课程。现有信息未提供其具体方法或内容范围。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 601 · 💬 101 · Education&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50514470&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/16/top_stories_11162026#story-50514470&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+      <title>Universal XSS in uBlock Origin from website-driven element picker</title>
+      <link>https://iter.ca/post/ubo-uxss/</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50513160</guid>
+      <dc:creator>zaik</dc:creator>
+      <pubDate>Mon, 16 Nov 2026 02:04:48 +0000</pubDate>
+      <category>Security</category>
+      <category>Programming</category>
+      <description>&lt;p&gt;A one-click universal XSS vulnerability affected the Firefox version of uBlock Origin through its element picker. A malicious website could trick the extension into adding arbitrary trusted filters, which can inject JavaScript into other websites and execute it in their contexts. The issue has been fixed; a related but less severe problem also affected the MV3-based uBO Lite.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;uBlock Origin 的 Firefox 版本元素选择器存在一个可通过一次点击触发的通用 XSS 漏洞。恶意网站可以诱使扩展添加任意受信过滤规则，而受信规则能够向其他网站注入 JavaScript，并在这些网站的上下文中执行。该问题现已修复；基于 MV3 的 uBO Lite 也受到一个相关但危害较小的问题影响。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 598 · 💬 174 · Security · Programming&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50513160&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/16/top_stories_11162026#story-50513160&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>AlphaProof Code</title>
@@ -505,17 +554,16 @@
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50459703&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/11/top_stories_11112026#story-50459703&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Universal XSS in uBlock Origin from website-driven element picker</title>
-      <link>https://iter.ca/post/ubo-uxss/</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50513160</guid>
-      <dc:creator>zaik</dc:creator>
-      <pubDate>Mon, 16 Nov 2026 02:04:48 +0000</pubDate>
-      <category>Security</category>
-      <category>Programming</category>
-      <description>&lt;p&gt;A one-click universal XSS vulnerability affected the Firefox version of uBlock Origin through its element picker. A malicious website could trick the extension into adding arbitrary trusted filters, which can inject JavaScript into other websites and execute it in their contexts. The issue has been fixed; a related but less severe problem also affected the MV3-based uBO Lite.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;uBlock Origin 的 Firefox 版本元素选择器存在一个可通过一次点击触发的通用 XSS 漏洞。恶意网站可以诱使扩展添加任意受信过滤规则，而受信规则能够向其他网站注入 JavaScript，并在这些网站的上下文中执行。该问题现已修复；基于 MV3 的 uBO Lite 也受到一个相关但危害较小的问题影响。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 507 · 💬 146 · Security · Programming&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50513160&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/16/top_stories_11162026#story-50513160&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+      <title>The MacBook Pro's OLED PWM problem</title>
+      <link>https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use/</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50506719</guid>
+      <dc:creator>MacAnorak</dc:creator>
+      <pubDate>Sun, 15 Nov 2026 13:15:22 +0000</pubDate>
+      <category>Hardware</category>
+      <description>&lt;p&gt;Apple has introduced tandem OLED technology to the MacBook Pro, alongside the Mini-LED option that remains available. The display offers individually illuminated pixels, effectively infinite contrast, deeper blacks, higher peak HDR brightness, and touch input, prompting an overwhelmingly positive initial reaction. The source argues that impressive image quality does not necessarily make the screen comfortable for every user, particularly because of its PWM behavior.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;苹果为 MacBook Pro 引入了串联 OLED 技术，同时继续提供 Mini-LED 版本。该显示屏具备独立发光像素、近乎无限的对比度、更深的黑色、更高的 HDR 峰值亮度，并首次支持触控，发布初期反响普遍积极。文章指出，出色的画质并不一定意味着所有用户都能舒适使用，尤其是其 PWM 特性可能带来问题。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 504 · 💬 283 · Hardware&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50506719&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/16/top_stories_11162026#story-50506719&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Starlink Mini 2</title>
@@ -543,18 +591,6 @@
 &lt;p&gt;&lt;em&gt;Google Antigravity 正在推出 Gemini 4 Hydrogen，以及模型选择器中的新选项 Orchestrator。Orchestrator 会将 Hydrogen 与包括 Gemini 4 Carbon 在内的 Google 最强模型搭配，用于长时程任务。该组合旨在平衡质量、效率和延迟。&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;▲ 495 · 💬 161 · AI&lt;/small&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50472260&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/13/top_stories_11132026#story-50472260&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>The MacBook Pro's OLED PWM problem</title>
-      <link>https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use/</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50506719</guid>
-      <dc:creator>MacAnorak</dc:creator>
-      <pubDate>Sun, 15 Nov 2026 13:15:22 +0000</pubDate>
-      <category>Hardware</category>
-      <description>&lt;p&gt;Apple has introduced tandem OLED technology to the MacBook Pro, alongside the Mini-LED option that remains available. The display offers individually illuminated pixels, effectively infinite contrast, deeper blacks, higher peak HDR brightness, and touch input, prompting an overwhelmingly positive initial reaction. The source argues that impressive image quality does not necessarily make the screen comfortable for every user, particularly because of its PWM behavior.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;苹果为 MacBook Pro 引入了串联 OLED 技术，同时继续提供 Mini-LED 版本。该显示屏具备独立发光像素、近乎无限的对比度、更深的黑色、更高的 HDR 峰值亮度，并首次支持触控，发布初期反响普遍积极。文章指出，出色的画质并不一定意味着所有用户都能舒适使用，尤其是其 PWM 特性可能带来问题。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 494 · 💬 277 · Hardware&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50506719&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/16/top_stories_11162026#story-50506719&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Doomsday: Friday, 13 November, A.D. 2026 (1960)</title>
@@ -604,43 +640,6 @@
 &lt;p&gt;&lt;em&gt;一名联邦法官拒绝驳回一项拟议集体诉讼，该诉讼指控三星、SK 海力士和美光合谋限制传统 DRAM 供应，并将产能转向 HBM。Noël Wise 法官认定，买方对违反《谢尔曼法》第 1 条的合谋提出了具有可信性的指控。目前这些指控仅在这一程序阶段被视为成立，并未得到证实。&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;▲ 492 · 💬 219 · Legal · Business&lt;/small&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50502988&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/15/top_stories_11152026#story-50502988&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Synaptics patent claims stop work on DisplayLink drivers</title>
-      <link>https://lwn.net/SubscriberLink/1102549/acbc92e00cee3a3f/</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50443824</guid>
-      <dc:creator>speckx</dc:creator>
-      <pubDate>Tue, 10 Nov 2026 18:02:02 +0000</pubDate>
-      <category>Legal</category>
-      <description>&lt;p&gt;Mike Lothian tried to improve a Linux driver for a DisplayLink docking station after finding its performance inadequate. Synaptics, which acquired DisplayLink in 2022, responded with patent-infringement claims, a demand to stop the unauthorized implementation, and warnings of costly legal penalties. Linux users of the company’s docks therefore appear likely to remain without feature parity for now.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Mike Lothian 认为 DisplayLink 扩展坞在 Linux 下性能不佳，因此尝试改进其驱动。DisplayLink 于 2022 年被 Synaptics 收购，而 Synaptics 随后以专利侵权为由要求停止未经授权的实现，并警告可能面临高昂法律处罚。因此，相关扩展坞的 Linux 用户目前似乎仍将无法获得与其他平台相当的功能。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 481 · 💬 267 · Legal&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50443824&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/11/top_stories_11112026#story-50443824&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Tech companies are trying to shift the concept of privacy again</title>
-      <link>https://www.eff.org/deeplinks/2026/11/tech-companies-are-trying-shift-entire-concept-privacy-again</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50496602</guid>
-      <dc:creator>gslin</dc:creator>
-      <pubDate>Sat, 14 Nov 2026 12:45:45 +0000</pubDate>
-      <category>Privacy</category>
-      <category>AI</category>
-      <description>&lt;p&gt;Privacy is increasingly affecting people beyond the individual who owns or uses a device. Meta and Google’s smart glasses can record what the wearer is looking at or use AI to describe it, extending the consequences of data collection to bystanders. The shift challenges the older framing of privacy as primarily a matter of personal choice.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;隐私问题正越来越多地影响设备所有者或使用者之外的人。Meta 和 Google 的智能眼镜可以记录佩戴者所看到的内容，或使用 AI 对其进行描述，使数据收集的后果波及旁观者。这种变化挑战了过去主要将隐私视为个人选择的传统定义。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 468 · 💬 175 · Privacy · AI&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50496602&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/14/top_stories_11142026#story-50496602&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Monkey Island: all 13 versions side by side</title>
-      <link>https://monkeyisland.pages.dev/</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50493904</guid>
-      <dc:creator>maximilianburke</dc:creator>
-      <pubDate>Sat, 14 Nov 2026 04:23:30 +0000</pubDate>
-      <category>Gaming</category>
-      <description>&lt;p&gt;The project presents every version of The Secret of Monkey Island from 1990 side by side, covering eight editions and 13 display modes across systems including Hercules, CGA, EGA, VGA, Amiga, Atari ST, Macintosh, FM Towns, and Sega CD. It shows the same 12 scenes in each version, with captures scaled to 1600×1200 using nearest-neighbor scaling and corrected for a 4:3 display. The presentation keeps the framing constant so differences come from the original machines and display modes.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;这个项目并排展示了 1990 年《猴岛的秘密》的所有版本，涵盖 Hercules、CGA、EGA、VGA、Amiga、Atari ST、Macintosh、FM Towns 和 Sega CD 等平台上的 8 个版本、13 种显示模式。每个版本都展示相同的 12 个场景，截图使用最近邻算法放大到 1600×1200，并进行 4:3 显示比例校正。展示保持相同构图，因此差异主要来自原始机器和显示模式。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 466 · 💬 147 · Gaming&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50493904&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/14/top_stories_11142026#story-50493904&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
