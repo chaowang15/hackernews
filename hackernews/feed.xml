@@ -5,7 +5,7 @@
     <link>https://chaowang15.github.io/hackernews/</link>
     <description>Curated daily digest of top Hacker News stories with AI-generated summaries, tags, and bilingual translations.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 18 Nov 2026 02:07:05 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 16:05:53 +0000</lastBuildDate>
     <generator>Hacker News Daily RSS Builder</generator>
     <atom:link href="https://chaowang15.github.io/hackernews/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
@@ -69,18 +69,16 @@
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50450488&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/12/top_stories_11122026#story-50450488&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Foldable Flight: The Best Paper Airplanes</title>
-      <link>https://www.foldableflight.com</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50424581</guid>
-      <dc:creator>vismit2000</dc:creator>
-      <pubDate>Mon, 09 Nov 2026 12:19:22 +0000</pubDate>
-      <category>Education</category>
-      <category>Entertainment</category>
-      <category>Data</category>
-      <description>&lt;p&gt;The site presents a large database of paper airplanes with step-by-step video folding tutorials. One World Record prototype is reported to fly more than 300 feet. The Unite model holds a world record for time aloft at 31.2 seconds.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;该网站提供大型纸飞机数据库，并为每种机型配备分步折叠视频教程。据称，一款世界纪录原型机可以飞行超过 300 英尺。Unite 机型则以 31.2 秒的滞空时间保持世界纪录。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 1246 · 💬 167 · Education · Entertainment · Data&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50424581&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/11/top_stories_11112026#story-50424581&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+      <title>GPT‑6.2 Astra and Sol</title>
+      <link>https://openai.com/index/introducing-gpt-6-2-astra-sol/</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50535230</guid>
+      <dc:creator>jasondavies</dc:creator>
+      <pubDate>Tue, 17 Nov 2026 17:46:43 +0000</pubDate>
+      <category>AI</category>
+      <description>&lt;p&gt;GPT-6.2 Astra and Sol are presented as two named models or systems. No further technical details or capabilities are established here.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;GPT‑6.2 Astra 和 Sol 是两个名为 Astra 与 Sol 的模型或系统。现有信息未提供更多技术细节或功能说明。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 1325 · 💬 831 · AI&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50535230&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/18/top_stories_11182026#story-50535230&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>New Evidence Shows School Phone Bans Are Gradually Improving Test Scores</title>
@@ -91,8 +89,8 @@
       <category>Education</category>
       <description>&lt;p&gt;A large national analysis comparing students’ scores before and after cellphone bans found modest academic improvements. Schools with strict policies requiring students to lock phones in pouches for the entire school day saw math and reading gains equivalent to roughly one or two additional weeks of schooling per year. The study was published by Harvard’s Center for Education Policy Research and is the first national study to track individual students’ growth in this way.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;一项比较学生禁用手机前后成绩的大型全国性分析发现，学业表现出现小幅改善。要求学生在整个上课日将手机锁入袋中的学校，数学和阅读成绩提升幅度相当于每年额外增加约一至两周的学习。该研究由哈佛教育政策研究中心发布，是首项以这种方式追踪个体学生成长的全国性研究。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 1169 · 💬 582 · Education&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50530163&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/17/top_stories_11172026#story-50530163&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+&lt;p&gt;&lt;small&gt;▲ 1265 · 💬 632 · Education&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50530163&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/18/top_stories_11182026#story-50530163&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Service degradation on Microsoft 365</title>
@@ -107,17 +105,16 @@
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50471731&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/13/top_stories_11132026#story-50471731&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Smart home devices should work without the internet</title>
-      <link>https://docodethatmatters.com/home-automation-overnight-success/</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50441707</guid>
-      <dc:creator>skittleson</dc:creator>
-      <pubDate>Tue, 10 Nov 2026 15:25:20 +0000</pubDate>
-      <category>Privacy</category>
-      <category>Hardware</category>
-      <description>&lt;p&gt;The author describes a decade-long home-automation rule: no core function in the house should depend on a vendor’s server. As a result, the home continues operating when the internet goes down. The post presents the other automation rules and two related talks that grew out of this principle.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;作者介绍了坚持十年的家庭自动化原则：家中的核心功能不应依赖厂商服务器。因此，即使互联网中断，房屋仍能继续运行。文章还整理了由这一原则延伸出的其他自动化规则和两场相关演讲。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 1142 · 💬 432 · Privacy · Hardware&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50441707&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/11/top_stories_11112026#story-50441707&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+      <title>Java4Shell: RCE in OpenJDK when processing Base64</title>
+      <link>https://calif.io/java4shell/</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50538240</guid>
+      <dc:creator>werrett</dc:creator>
+      <pubDate>Tue, 17 Nov 2026 21:11:28 +0000</pubDate>
+      <category>Security</category>
+      <description>&lt;p&gt;Calif disclosed Java4Shell, tracked as CVE-2026-114938, a memory-corruption vulnerability in OpenJDK's Base64 decoder. OpenJDK is described as the most popular Java runtime. The vulnerability has a CVSS 4.0 score of 9.2 out of 10, rated Critical. Its severity could make affected OpenJDK deployments a high-priority patching target.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Calif 披露了 Java4Shell（编号 CVE-2026-114938），这是 OpenJDK Base64 解码器中的内存破坏漏洞。OpenJDK 被称为最流行的 Java 运行时。该漏洞在 CVSS 4.0 中获得 9.2 分（满分 10 分），评级为“严重”。这一评级意味着受影响的 OpenJDK 部署可能需要优先修补。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 1110 · 💬 296 · Security&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50538240&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/18/top_stories_11182026#story-50538240&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>All AI-generated code should be Open Source</title>
@@ -131,18 +128,6 @@
 &lt;p&gt;&lt;em&gt;作者主张，所有借助 AI 生成的代码都应以开源许可证或 CC0 许可发布。其理由是，AI 模型训练使用了大量公开的开源代码，以及通常要求署名的 Stack Overflow 和相关网站内容。作者认为，将这些共享知识转化为专有闭源代码近似于“许可证洗白”。&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;▲ 1094 · 💬 595 · AI · Open Source&lt;/small&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50507303&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/15/top_stories_11152026#story-50507303&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>GPT‑6.2 Astra and Sol</title>
-      <link>https://openai.com/index/introducing-gpt-6-2-astra-sol/</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50535230</guid>
-      <dc:creator>jasondavies</dc:creator>
-      <pubDate>Tue, 17 Nov 2026 17:46:43 +0000</pubDate>
-      <category>AI</category>
-      <description>&lt;p&gt;GPT-6.2 Astra and Sol are presented as two named models or systems. No further technical details or capabilities are established here.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;GPT‑6.2 Astra 和 Sol 是两个名为 Astra 与 Sol 的模型或系统。现有信息未提供更多技术细节或功能说明。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 1086 · 💬 698 · AI&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50535230&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/17/top_stories_11172026#story-50535230&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs</title>
@@ -228,19 +213,6 @@
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50517488&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/17/top_stories_11172026#story-50517488&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>.name Grandfathered</title>
-      <link>https://neil.fraser.name/news/2026/11/10/</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50442736</guid>
-      <dc:creator>p4bl0</dc:creator>
-      <pubDate>Tue, 10 Nov 2026 16:37:44 +0000</pubDate>
-      <category>Web</category>
-      <category>Legal</category>
-      <description>&lt;p&gt;Verisign has withdrawn its plan to terminate 22,000 .name domain names and email redirects after a prolonged campaign. New registrations for third-level .name domains will close, but all existing domains and redirects will remain indefinitely. The reversal followed efforts by domain owners, lawyers, and supporters to challenge the plan through ICANN.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;经过一场旷日持久的抗争，Verisign 撤回了终止 22,000 个 .name 域名及其邮件转发的计划。虽然 .name 三级域名将停止新注册，但现有域名和邮件转发服务将无限期保留。这一转变源于域名所有者、律师和支持者通过 ICANN 发起的共同争取。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 919 · 💬 204 · Web · Legal&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50442736&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/11/top_stories_11112026#story-50442736&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>Rust 1.100</title>
       <link>https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/</link>
       <guid isPermaLink="true">https://news.ycombinator.com/item?id=50472038</guid>
@@ -275,6 +247,20 @@
 &lt;p&gt;&lt;em&gt;“如何制造几乎任何东西”是一项围绕制作各种实体或电子作品展开的项目或课程。现有信息未提供其具体方法或内容范围。&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;▲ 839 · 💬 142 · Education&lt;/small&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50514470&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/16/top_stories_11162026#story-50514470&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Quad9's withdrawal from France: A canary in the coal mine</title>
+      <link>https://blog.cloudflare.com/quad9-withdrawal-from-france/</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50538994</guid>
+      <dc:creator>subset</dc:creator>
+      <pubDate>Tue, 17 Nov 2026 22:13:34 +0000</pubDate>
+      <category>Privacy</category>
+      <category>Security</category>
+      <category>Legal</category>
+      <description>&lt;p&gt;Swiss nonprofit Quad9 said it will withdraw its free public DNS resolver from France after months of litigation. A French court imposed daily financial penalties because Quad9 did not block domains linked to alleged copyright infringement. Quad9 said the choice was between crippling penalties and changing its service in ways that would undermine user privacy and security. The case is presented as a warning about the consequences of mandating DNS-level blocking.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;瑞士非营利组织 Quad9 表示，将在经历数月诉讼后退出法国免费公共 DNS 解析服务。法国法院因其未屏蔽涉嫌侵犯版权的域名，对 Quad9 处以每日罚款。Quad9 表示，它只能在承受可能令组织陷入困境的处罚，或改变服务并损害用户隐私与安全之间作出选择。该事件被视为强制实施 DNS 层拦截可能带来后果的警示。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 836 · 💬 385 · Privacy · Security · Legal&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50538994&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/18/top_stories_11182026#story-50538994&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>LibreOffice actually works 365 days a year</title>
@@ -365,6 +351,18 @@
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50524736&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/17/top_stories_11172026#story-50524736&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Apple Services Down</title>
+      <link>https://developer.apple.com/system-status/</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50535238</guid>
+      <dc:creator>willy_k</dc:creator>
+      <pubDate>Tue, 17 Nov 2026 17:47:14 +0000</pubDate>
+      <category>Web</category>
+      <description>&lt;p&gt;Apple services are reported to be down. The available information does not identify which services are affected, how long the outage has lasted, or its cause.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;据报道，Apple 服务发生中断。现有信息未说明受影响的具体服务、持续时间或原因。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 705 · 💬 394 · Web&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50535238&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/18/top_stories_11182026#story-50535238&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Optimizely compromised, served malware on Zoom, GitLab</title>
       <link>https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/</link>
       <guid isPermaLink="true">https://news.ycombinator.com/item?id=50524767</guid>
@@ -377,6 +375,18 @@
 &lt;p&gt;&lt;em&gt;2026 年 11 月 16 日，Optimizely 的 Web 实验平台向 178 家机构的网站访客投放了恶意 JavaScript，受影响机构包括 Zoom、BBC、CNN、Salesforce、GitLab、IKEA 和 HSBC 等。该恶意软件能够替换加密货币钱包地址、窃取支付卡数据、Cookie 和屏幕截图，并在 iPhone 和 iPad 上投递 Coruna 与 DarkSword iOS 漏洞利用套件。已有加密货币在被确认属于攻击者的交易中遭窃取。&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;▲ 669 · 💬 264 · Security · Programming · Finance&lt;/small&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50524767&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/17/top_stories_11172026#story-50524767&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>AI is killing All About Berlin</title>
+      <link>https://nicolasbouliane.com/blog/death-by-ai</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50542705</guid>
+      <dc:creator>grey-area</dc:creator>
+      <pubDate>Wed, 18 Nov 2026 06:47:26 +0000</pubDate>
+      <category>AI</category>
+      <description>&lt;p&gt;The operator of All About Berlin says the site's traffic fell by 70% to 75% after years of growth, attributing the decline to Google's AI Overviews. Search pages now place an AI-generated answer trained on the site's content before the link to the site itself. The change has had a devastating effect on the site's traffic.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;All About Berlin 的运营者表示，该网站在多年增长后，流量因 Google AI Overviews 下跌了 70% 至 75%。如今搜索页面会先展示基于该网站内容训练的 AI 生成答案，最后才显示指向网站的链接。这一变化对网站流量造成了严重打击。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 662 · 💬 602 · AI&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50542705&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/18/top_stories_11182026#story-50542705&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>United Airlines bans AI agents from booking flights on behalf of travelers</title>
@@ -405,16 +415,41 @@
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50438261&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/12/top_stories_11122026#story-50438261&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Apple Services Down</title>
-      <link>https://developer.apple.com/system-status/</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50535238</guid>
-      <dc:creator>willy_k</dc:creator>
-      <pubDate>Tue, 17 Nov 2026 17:47:14 +0000</pubDate>
-      <category>Web</category>
-      <description>&lt;p&gt;Apple services are reported to be down. The available information does not identify which services are affected, how long the outage has lasted, or its cause.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;据报道，Apple 服务发生中断。现有信息未说明受影响的具体服务、持续时间或原因。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 631 · 💬 352 · Web&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50535238&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/17/top_stories_11172026#story-50535238&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+      <title>Highly classified US national security communications network goes down</title>
+      <link>https://www.cnn.com/2026/11/17/politics/highly-classified-national-security-communications-network-goes-down</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50532849</guid>
+      <dc:creator>monkeydust</dc:creator>
+      <pubDate>Tue, 17 Nov 2026 15:38:28 +0000</pubDate>
+      <category>Security</category>
+      <description>&lt;p&gt;The highly classified network used by the National Security Agency for internal communications is down, according to six people familiar with the matter. The reported outage affects a communications system supporting the agency’s internal operations.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;据六名知情人士透露，美国国家安全局用于内部通信的高度机密网络目前发生故障。此次中断影响了支持该机构内部运作的通信系统。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 652 · 💬 727 · Security&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50532849&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/18/top_stories_11182026#story-50532849&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Nvidia stopped disclosing Singapore sales as revenues hit $104B</title>
+      <link>https://www.ft.com/content/dbde7a30-548c-4f9d-a4be-7898a0c24dcf</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50534631</guid>
+      <dc:creator>louiereederson</dc:creator>
+      <pubDate>Tue, 17 Nov 2026 17:12:06 +0000</pubDate>
+      <category>Business</category>
+      <category>Finance</category>
+      <description>&lt;p&gt;Nvidia stopped disclosing its Singapore sales as its revenue reached $104 billion. No further details about the reporting change or its reasons are established here.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;英伟达营收达到 1040 亿美元后，停止披露其在新加坡的销售额。现有信息未说明这一报告变化的具体原因或其他细节。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 641 · 💬 286 · Business · Finance&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50534631&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/18/top_stories_11182026#story-50534631&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Google's AI answers reducing search traffic by 40%</title>
+      <link>https://revscope.co/blog/search-seo-geo-2026/</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50540178</guid>
+      <dc:creator>slashdev</dc:creator>
+      <pubDate>Wed, 18 Nov 2026 00:17:58 +0000</pubDate>
+      <category>AI</category>
+      <description>&lt;p&gt;A randomized experiment found that Google AI Overviews reduce clicks to external websites by about 40% among US desktop users. The summaries now appear on more than half of the US keywords tracked by DataForSEO, up from 6% two years earlier. Generative engine optimization has not yet demonstrated a way to offset the lost traffic, while AI assistants sent websites only 0.3% of their traffic in March. The findings indicate that traditional search rankings bring substantially fewer visits when an AI answer appears above them.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;一项随机实验发现，在美国桌面用户中，谷歌 AI Overviews 会让外部网站获得的点击量减少约 40%。根据 DataForSEO 的跟踪数据，这些摘要如今出现在超过一半的美国关键词结果中，而两年前这一比例仅为 6%。生成式引擎优化尚未证明能弥补这部分流量损失；3 月份，AI 助手为网站带来的流量仅占 0.3%。这表明，当 AI 答案出现在搜索结果上方时，传统排名带来的访问量会显著下降。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 623 · 💬 471 · AI&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50540178&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/18/top_stories_11182026#story-50540178&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Microsoft 365 outage leads to chlorine gas poisoning of 15 hotel guests</title>
@@ -516,18 +551,6 @@
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50456791&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/12/top_stories_11122026#story-50456791&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Scion is back and is going to sell a kei truck in America</title>
-      <link>https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50445401</guid>
-      <dc:creator>NaOH</dc:creator>
-      <pubDate>Tue, 10 Nov 2026 19:50:46 +0000</pubDate>
-      <category>Business</category>
-      <description>&lt;p&gt;Toyota has officially revived the Scion marque, which was retired in 2016 after years of financial struggles. The new “Scion by Toyota” is being positioned as a “freedom lab” focused on challenging conventional automotive thinking, and its initial offerings include a kei truck, a bike, and a hybrid side-by-side. The brand’s new direction is a sharp departure from its former role as a quirky, budget-oriented line aimed largely at younger buyers.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;丰田正式复活了 Scion 品牌；该品牌曾因长期经营困难于 2016 年停运。全新的“Scion by Toyota”被定位为一个挑战传统汽车思维的“自由实验室”，首批产品包括一款 Kei 微型卡车、一辆自行车和一款混合动力并排式越野车。品牌的新方向与过去面向年轻消费者、主打古怪且价格亲民车型的定位大相径庭。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 553 · 💬 397 · Business&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50445401&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/11/top_stories_11112026#story-50445401&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>Apple has new Mac app coming to make running local AI models easy</title>
       <link>https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/</link>
       <guid isPermaLink="true">https://news.ycombinator.com/item?id=50446520</guid>
@@ -538,30 +561,6 @@
 &lt;p&gt;&lt;em&gt;据报道，Apple 正在开发一款名为 Harbor 的 Mac 应用，用于简化在一台或多台 Mac 上运行本地 AI 模型的过程。泄密者 Aaron Perris 发现了这款应用的相关证据。随着 Mac Studio、Mac mini 等设备被越来越多地用于本地运行模型，该项目正处于这一趋势之中。&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;▲ 550 · 💬 551 · AI&lt;/small&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50446520&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/12/top_stories_11122026#story-50446520&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Java4Shell: RCE in OpenJDK when processing Base64</title>
-      <link>https://calif.io/java4shell/</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50538240</guid>
-      <dc:creator>werrett</dc:creator>
-      <pubDate>Tue, 17 Nov 2026 21:11:28 +0000</pubDate>
-      <category>Security</category>
-      <description>&lt;p&gt;Calif disclosed Java4Shell, tracked as CVE-2026-114938, a memory-corruption vulnerability in OpenJDK's Base64 decoder. OpenJDK is described as the most popular Java runtime. The vulnerability has a CVSS 4.0 score of 9.2 out of 10, rated Critical. Its severity could make affected OpenJDK deployments a high-priority patching target.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Calif 披露了 Java4Shell（编号 CVE-2026-114938），这是 OpenJDK Base64 解码器中的内存破坏漏洞。OpenJDK 被称为最流行的 Java 运行时。该漏洞在 CVSS 4.0 中获得 9.2 分（满分 10 分），评级为“严重”。这一评级意味着受影响的 OpenJDK 部署可能需要优先修补。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 537 · 💬 144 · Security&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50538240&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/17/top_stories_11172026#story-50538240&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Nvidia is preparing to oust Jensen Huang</title>
-      <link>https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50459703</guid>
-      <dc:creator>jbredeche</dc:creator>
-      <pubDate>Wed, 11 Nov 2026 22:31:06 +0000</pubDate>
-      <category>Business</category>
-      <description>&lt;p&gt;Nvidia is reportedly preparing to remove Jensen Huang from his position. No further reliable details are available.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;据报道，英伟达正准备让 Jensen Huang 离任。现有信息没有提供更多可靠细节。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 527 · 💬 778 · Business&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50459703&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/11/top_stories_11112026#story-50459703&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Frame – 31.5&quot; color ePaper display</title>
@@ -586,21 +585,6 @@
 &lt;p&gt;&lt;em&gt;苹果为 MacBook Pro 引入了串联 OLED 技术，同时继续提供 Mini-LED 版本。该显示屏具备独立发光像素、近乎无限的对比度、更深的黑色、更高的 HDR 峰值亮度，并首次支持触控，发布初期反响普遍积极。文章指出，出色的画质并不一定意味着所有用户都能舒适使用，尤其是其 PWM 特性可能带来问题。&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;▲ 504 · 💬 283 · Hardware&lt;/small&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50506719&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/16/top_stories_11162026#story-50506719&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Starlink Mini 2</title>
-      <link>https://starlink.com/mini-2</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50444129</guid>
-      <dc:creator>robertjfclarke</dc:creator>
-      <pubDate>Tue, 10 Nov 2026 18:22:32 +0000</pubDate>
-      <category>Web</category>
-      <category>Business</category>
-      <category>Programming</category>
-      <category>Gaming</category>
-      <description>&lt;p&gt;Starlink Mini 2 is presented as providing fast, reliable internet both at home and on the go. The service is intended to support streaming, video calls, gaming, and other high-speed connectivity needs, including in rural and remote locations.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Starlink Mini 2 被定位为可在家中和移动途中提供快速、可靠的互联网连接。该服务支持流媒体、视频通话、游戏等高速联网需求，也面向乡村和偏远地区。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 502 · 💬 585 · Web · Business · Programming · Gaming&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50444129&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/11/top_stories_11112026#story-50444129&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Gemini 4 Hydrogen and Orchestrator</title>
@@ -637,6 +621,19 @@
 &lt;p&gt;&lt;em&gt;Claude 状态页报告称，claude.ai、Claude Code 和 platform.claude.com 的错误率升高。现有信息仅列出了受影响的服务，未提供更多事故细节。&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;▲ 493 · 💬 390 · AI&lt;/small&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50481187&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/14/top_stories_11142026#story-50481187&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Court denies motion to dismiss DRAM price fixing case</title>
+      <link>https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50502988</guid>
+      <dc:creator>ybathaee</dc:creator>
+      <pubDate>Sun, 15 Nov 2026 01:18:36 +0000</pubDate>
+      <category>Legal</category>
+      <category>Business</category>
+      <description>&lt;p&gt;A federal judge refused to dismiss a proposed class action accusing Samsung, SK Hynix, and Micron of conspiring to restrict conventional DRAM supply and shift capacity toward HBM. Judge Noël Wise found that buyers had plausibly alleged an agreement violating Section 1 of the Sherman Act. The allegations have been accepted only for this procedural stage and have not been proven.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;一名联邦法官拒绝驳回一项拟议集体诉讼，该诉讼指控三星、SK 海力士和美光合谋限制传统 DRAM 供应，并将产能转向 HBM。Noël Wise 法官认定，买方对违反《谢尔曼法》第 1 条的合谋提出了具有可信性的指控。目前这些指控仅在这一程序阶段被视为成立，并未得到证实。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 492 · 💬 219 · Legal · Business&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50502988&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/15/top_stories_11152026#story-50502988&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
