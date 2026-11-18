@@ -5,7 +5,7 @@
     <link>https://chaowang15.github.io/hackernews/</link>
     <description>Curated daily digest of top Hacker News stories with AI-generated summaries, tags, and bilingual translations.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 17 Nov 2026 16:06:09 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 02:07:05 +0000</lastBuildDate>
     <generator>Hacker News Daily RSS Builder</generator>
     <atom:link href="https://chaowang15.github.io/hackernews/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
@@ -29,7 +29,7 @@
       <category>Education</category>
       <description>&lt;p&gt;Carnegie Mellon’s Kenneth C. Griffin School of Computer Science is publishing free lectures on YouTube. Self-paced courseware is planned as the next step. The release gives learners access to the school’s computer science material without charge.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;卡内基梅隆大学肯尼斯·C·格里芬计算机科学学院正在 YouTube 上发布免费课程讲座。下一步计划推出可自主学习的课程材料。这将让学习者免费接触该学院的计算机科学内容。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 2000 · 💬 272 · Education&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 2283 · 💬 308 · Education&lt;/small&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50522980&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/17/top_stories_11172026#story-50522980&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
@@ -83,6 +83,18 @@
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50424581&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/11/top_stories_11112026#story-50424581&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>New Evidence Shows School Phone Bans Are Gradually Improving Test Scores</title>
+      <link>https://www.nytimes.com/2026/11/17/upshot/school-phone-bans-study-scores.html</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50530163</guid>
+      <dc:creator>donohoe</dc:creator>
+      <pubDate>Tue, 17 Nov 2026 11:45:51 +0000</pubDate>
+      <category>Education</category>
+      <description>&lt;p&gt;A large national analysis comparing students’ scores before and after cellphone bans found modest academic improvements. Schools with strict policies requiring students to lock phones in pouches for the entire school day saw math and reading gains equivalent to roughly one or two additional weeks of schooling per year. The study was published by Harvard’s Center for Education Policy Research and is the first national study to track individual students’ growth in this way.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;一项比较学生禁用手机前后成绩的大型全国性分析发现，学业表现出现小幅改善。要求学生在整个上课日将手机锁入袋中的学校，数学和阅读成绩提升幅度相当于每年额外增加约一至两周的学习。该研究由哈佛教育政策研究中心发布，是首项以这种方式追踪个体学生成长的全国性研究。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 1169 · 💬 582 · Education&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50530163&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/17/top_stories_11172026#story-50530163&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Service degradation on Microsoft 365</title>
       <link>https://status.cloud.microsoft/</link>
       <guid isPermaLink="true">https://news.ycombinator.com/item?id=50471731</guid>
@@ -119,6 +131,18 @@
 &lt;p&gt;&lt;em&gt;作者主张，所有借助 AI 生成的代码都应以开源许可证或 CC0 许可发布。其理由是，AI 模型训练使用了大量公开的开源代码，以及通常要求署名的 Stack Overflow 和相关网站内容。作者认为，将这些共享知识转化为专有闭源代码近似于“许可证洗白”。&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;▲ 1094 · 💬 595 · AI · Open Source&lt;/small&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50507303&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/15/top_stories_11152026#story-50507303&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>GPT‑6.2 Astra and Sol</title>
+      <link>https://openai.com/index/introducing-gpt-6-2-astra-sol/</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50535230</guid>
+      <dc:creator>jasondavies</dc:creator>
+      <pubDate>Tue, 17 Nov 2026 17:46:43 +0000</pubDate>
+      <category>AI</category>
+      <description>&lt;p&gt;GPT-6.2 Astra and Sol are presented as two named models or systems. No further technical details or capabilities are established here.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;GPT‑6.2 Astra 和 Sol 是两个名为 Astra 与 Sol 的模型或系统。现有信息未提供更多技术细节或功能说明。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 1086 · 💬 698 · AI&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50535230&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/17/top_stories_11172026#story-50535230&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs</title>
@@ -200,7 +224,7 @@
       <category>Business</category>
       <description>&lt;p&gt;An investigation found that many Black Friday and Cyber Monday deals advertised by Amazon did not provide actual savings. The deals were presented as discounts even though shoppers often paid no less than usual.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;一项调查发现，亚马逊宣传的许多黑色星期五和网络星期一优惠实际上并没有带来节省。这些商品虽然以折扣形式展示，消费者实际支付的价格却往往并未降低。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 926 · 💬 541 · Business&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 954 · 💬 551 · Business&lt;/small&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50517488&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/17/top_stories_11172026#story-50517488&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
@@ -273,7 +297,7 @@
       <category>Business</category>
       <description>&lt;p&gt;A technical issue at JPMorgan Chase triggered online-banking delays for banks in the United States. The incident affected online banking service availability or responsiveness.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;摩根大通的一项技术故障引发了美国银行的在线银行服务延迟。该事件影响了在线银行服务的可用性或响应速度。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 808 · 💬 677 · Business&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 823 · 💬 703 · Business&lt;/small&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50521045&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/17/top_stories_11172026#story-50521045&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
@@ -315,6 +339,18 @@
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50470488&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/14/top_stories_11142026#story-50470488&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>BugMeNot has closed</title>
+      <link>https://www.bugmenot.com/</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50523601</guid>
+      <dc:creator>lode</dc:creator>
+      <pubDate>Mon, 16 Nov 2026 21:32:17 +0000</pubDate>
+      <category>Culture</category>
+      <description>&lt;p&gt;BugMeNot has closed. Its farewell thanks everyone who envisioned a better internet.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;BugMeNot 已经关闭。告别信息向所有曾设想建设更好互联网的人表示感谢。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 713 · 💬 337 · Culture&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50523601&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/17/top_stories_11172026#story-50523601&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Windows 11 is collecting data on which coding agents and developer tools you use</title>
       <link>https://xusheng.dev/posts/windows-coding-agent-telemetry/</link>
       <guid isPermaLink="true">https://news.ycombinator.com/item?id=50524736</guid>
@@ -325,20 +361,22 @@
       <category>Programming</category>
       <description>&lt;p&gt;Reverse engineering of Windows 11’s MissionControlAggregator found coding-agent and developer-tool usage bits in a diagnostic ETW report. The observed list includes Codex, Claude, Copilot, Cursor, Python, .NET, GCC, and Visual Studio Code executables. The finding raises questions about why a Windows system DLL records the use of these tools.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;对 Windows 11 的 MissionControlAggregator 进行逆向分析后，研究者在诊断 ETW 报告中发现了编程代理和开发工具的使用标记。相关列表包括 Codex、Claude、Copilot、Cursor，以及 Python、.NET、GCC 和 Visual Studio Code 等可执行文件。这一发现引出了一个问题：Windows 系统 DLL 为何要记录这些工具的使用情况。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 680 · 💬 539 · Privacy · AI · Programming&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 711 · 💬 592 · Privacy · AI · Programming&lt;/small&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50524736&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/17/top_stories_11172026#story-50524736&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>BugMeNot has closed</title>
-      <link>https://www.bugmenot.com/</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50523601</guid>
-      <dc:creator>lode</dc:creator>
-      <pubDate>Mon, 16 Nov 2026 21:32:17 +0000</pubDate>
-      <category>Culture</category>
-      <description>&lt;p&gt;BugMeNot has closed. Its farewell thanks everyone who envisioned a better internet.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;BugMeNot 已经关闭。告别信息向所有曾设想建设更好互联网的人表示感谢。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 662 · 💬 298 · Culture&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50523601&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/17/top_stories_11172026#story-50523601&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+      <title>Optimizely compromised, served malware on Zoom, GitLab</title>
+      <link>https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50524767</guid>
+      <dc:creator>kristjansson</dc:creator>
+      <pubDate>Mon, 16 Nov 2026 23:00:34 +0000</pubDate>
+      <category>Security</category>
+      <category>Programming</category>
+      <category>Finance</category>
+      <description>&lt;p&gt;On November 16, 2026, malicious JavaScript was served through Optimizely’s Web experimentation platform to visitors of 178 organizations, including Zoom, the BBC, CNN, Salesforce, GitLab, IKEA, HSBC, and others. The malware could replace cryptocurrency wallet addresses, skim payment-card data, steal cookies and screenshots, and deliver the Coruna and DarkSword iOS exploit kits on iPhones and iPads. Cryptocurrency had already been stolen in transactions verified as belonging to the attackers.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;2026 年 11 月 16 日，Optimizely 的 Web 实验平台向 178 家机构的网站访客投放了恶意 JavaScript，受影响机构包括 Zoom、BBC、CNN、Salesforce、GitLab、IKEA 和 HSBC 等。该恶意软件能够替换加密货币钱包地址、窃取支付卡数据、Cookie 和屏幕截图，并在 iPhone 和 iPad 上投递 Coruna 与 DarkSword iOS 漏洞利用套件。已有加密货币在被确认属于攻击者的交易中遭窃取。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 669 · 💬 264 · Security · Programming · Finance&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50524767&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/17/top_stories_11172026#story-50524767&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>United Airlines bans AI agents from booking flights on behalf of travelers</title>
@@ -367,6 +405,18 @@
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50438261&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/12/top_stories_11122026#story-50438261&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Apple Services Down</title>
+      <link>https://developer.apple.com/system-status/</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50535238</guid>
+      <dc:creator>willy_k</dc:creator>
+      <pubDate>Tue, 17 Nov 2026 17:47:14 +0000</pubDate>
+      <category>Web</category>
+      <description>&lt;p&gt;Apple services are reported to be down. The available information does not identify which services are affected, how long the outage has lasted, or its cause.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;据报道，Apple 服务发生中断。现有信息未说明受影响的具体服务、持续时间或原因。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 631 · 💬 352 · Web&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50535238&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/17/top_stories_11172026#story-50535238&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Microsoft 365 outage leads to chlorine gas poisoning of 15 hotel guests</title>
       <link>https://www1.wdr.de/nrw/rheinland/rhein-erft-kreis/technischer-defekt-chlor-phantasialand-100.html</link>
       <guid isPermaLink="true">https://news.ycombinator.com/item?id=50509411</guid>
@@ -377,18 +427,6 @@
 &lt;p&gt;&lt;em&gt;微软 Outlook 服务中断，导致 Phantasialand 未能收到泳池氯含量过高的通知。结果造成 15 名客人受伤。&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;▲ 621 · 💬 273 · Health&lt;/small&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50509411&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/16/top_stories_11162026#story-50509411&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>New Evidence Shows School Phone Bans Are Gradually Improving Test Scores</title>
-      <link>https://www.nytimes.com/2026/11/17/upshot/school-phone-bans-study-scores.html</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50530163</guid>
-      <dc:creator>donohoe</dc:creator>
-      <pubDate>Tue, 17 Nov 2026 11:45:51 +0000</pubDate>
-      <category>Education</category>
-      <description>&lt;p&gt;A large national analysis comparing students’ scores before and after cellphone bans found modest academic improvements. Schools with strict policies requiring students to lock phones in pouches for the entire school day saw math and reading gains equivalent to roughly one or two additional weeks of schooling per year. The study was published by Harvard’s Center for Education Policy Research and is the first national study to track individual students’ growth in this way.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;一项比较学生禁用手机前后成绩的大型全国性分析发现，学业表现出现小幅改善。要求学生在整个上课日将手机锁入袋中的学校，数学和阅读成绩提升幅度相当于每年额外增加约一至两周的学习。该研究由哈佛教育政策研究中心发布，是首项以这种方式追踪个体学生成长的全国性研究。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 619 · 💬 316 · Education&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50530163&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/17/top_stories_11172026#story-50530163&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Why get an expensive Pi when I have an old phone?</title>
@@ -502,18 +540,16 @@
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50446520&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/12/top_stories_11122026#story-50446520&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Optimizely compromised, served malware on Zoom, GitLab</title>
-      <link>https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50524767</guid>
-      <dc:creator>kristjansson</dc:creator>
-      <pubDate>Mon, 16 Nov 2026 23:00:34 +0000</pubDate>
+      <title>Java4Shell: RCE in OpenJDK when processing Base64</title>
+      <link>https://calif.io/java4shell/</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50538240</guid>
+      <dc:creator>werrett</dc:creator>
+      <pubDate>Tue, 17 Nov 2026 21:11:28 +0000</pubDate>
       <category>Security</category>
-      <category>Programming</category>
-      <category>Finance</category>
-      <description>&lt;p&gt;On November 16, 2026, malicious JavaScript was served through Optimizely’s Web experimentation platform to visitors of 178 organizations, including Zoom, the BBC, CNN, Salesforce, GitLab, IKEA, HSBC, and others. The malware could replace cryptocurrency wallet addresses, skim payment-card data, steal cookies and screenshots, and deliver the Coruna and DarkSword iOS exploit kits on iPhones and iPads. Cryptocurrency had already been stolen in transactions verified as belonging to the attackers.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;2026 年 11 月 16 日，Optimizely 的 Web 实验平台向 178 家机构的网站访客投放了恶意 JavaScript，受影响机构包括 Zoom、BBC、CNN、Salesforce、GitLab、IKEA 和 HSBC 等。该恶意软件能够替换加密货币钱包地址、窃取支付卡数据、Cookie 和屏幕截图，并在 iPhone 和 iPad 上投递 Coruna 与 DarkSword iOS 漏洞利用套件。已有加密货币在被确认属于攻击者的交易中遭窃取。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 527 · 💬 209 · Security · Programming · Finance&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50524767&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/17/top_stories_11172026#story-50524767&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;Calif disclosed Java4Shell, tracked as CVE-2026-114938, a memory-corruption vulnerability in OpenJDK's Base64 decoder. OpenJDK is described as the most popular Java runtime. The vulnerability has a CVSS 4.0 score of 9.2 out of 10, rated Critical. Its severity could make affected OpenJDK deployments a high-priority patching target.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Calif 披露了 Java4Shell（编号 CVE-2026-114938），这是 OpenJDK Base64 解码器中的内存破坏漏洞。OpenJDK 被称为最流行的 Java 运行时。该漏洞在 CVSS 4.0 中获得 9.2 分（满分 10 分），评级为“严重”。这一评级意味着受影响的 OpenJDK 部署可能需要优先修补。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 537 · 💬 144 · Security&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50538240&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/17/top_stories_11172026#story-50538240&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Nvidia is preparing to oust Jensen Huang</title>
@@ -526,6 +562,18 @@
 &lt;p&gt;&lt;em&gt;据报道，英伟达正准备让 Jensen Huang 离任。现有信息没有提供更多可靠细节。&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;▲ 527 · 💬 778 · Business&lt;/small&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50459703&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/11/top_stories_11112026#story-50459703&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Frame – 31.5&quot; color ePaper display</title>
+      <link>https://trmnl.com/blog/introducing-frame</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50519354</guid>
+      <dc:creator>geerlingguy</dc:creator>
+      <pubDate>Mon, 16 Nov 2026 16:23:22 +0000</pubDate>
+      <category>Hardware</category>
+      <description>&lt;p&gt;Frame is a handmade wooden frame containing a 31.5-inch full-color ePaper display. It is the product’s third release and is now available for pre-order. The first batch is limited to about 470 units, with a few intended to ship by the end of 2026 and most deliveries expected in early 2027.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Frame 是一款采用手工木制外壳的 31.5 英寸全彩电子纸显示器。这是该产品的第三次发布，目前已开放预订。首批约 470 台，计划在 2026 年底前发出少量产品，大多数订单预计于 2027 年初交付。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 524 · 💬 407 · Hardware&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50519354&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/17/top_stories_11172026#story-50519354&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>The MacBook Pro's OLED PWM problem</title>
@@ -589,56 +637,6 @@
 &lt;p&gt;&lt;em&gt;Claude 状态页报告称，claude.ai、Claude Code 和 platform.claude.com 的错误率升高。现有信息仅列出了受影响的服务，未提供更多事故细节。&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;▲ 493 · 💬 390 · AI&lt;/small&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50481187&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/14/top_stories_11142026#story-50481187&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Frame – 31.5&quot; color ePaper display</title>
-      <link>https://trmnl.com/blog/introducing-frame</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50519354</guid>
-      <dc:creator>geerlingguy</dc:creator>
-      <pubDate>Mon, 16 Nov 2026 16:23:22 +0000</pubDate>
-      <category>Hardware</category>
-      <description>&lt;p&gt;Frame is a handmade wooden frame containing a 31.5-inch full-color ePaper display. It is the product’s third release and is now available for pre-order. The first batch is limited to about 470 units, with a few intended to ship by the end of 2026 and most deliveries expected in early 2027.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Frame 是一款采用手工木制外壳的 31.5 英寸全彩电子纸显示器。这是该产品的第三次发布，目前已开放预订。首批约 470 台，计划在 2026 年底前发出少量产品，大多数订单预计于 2027 年初交付。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 492 · 💬 353 · Hardware&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50519354&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/17/top_stories_11172026#story-50519354&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Court denies motion to dismiss DRAM price fixing case</title>
-      <link>https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50502988</guid>
-      <dc:creator>ybathaee</dc:creator>
-      <pubDate>Sun, 15 Nov 2026 01:18:36 +0000</pubDate>
-      <category>Legal</category>
-      <category>Business</category>
-      <description>&lt;p&gt;A federal judge refused to dismiss a proposed class action accusing Samsung, SK Hynix, and Micron of conspiring to restrict conventional DRAM supply and shift capacity toward HBM. Judge Noël Wise found that buyers had plausibly alleged an agreement violating Section 1 of the Sherman Act. The allegations have been accepted only for this procedural stage and have not been proven.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;一名联邦法官拒绝驳回一项拟议集体诉讼，该诉讼指控三星、SK 海力士和美光合谋限制传统 DRAM 供应，并将产能转向 HBM。Noël Wise 法官认定，买方对违反《谢尔曼法》第 1 条的合谋提出了具有可信性的指控。目前这些指控仅在这一程序阶段被视为成立，并未得到证实。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 492 · 💬 219 · Legal · Business&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50502988&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/15/top_stories_11152026#story-50502988&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Synaptics patent claims stop work on DisplayLink drivers</title>
-      <link>https://lwn.net/SubscriberLink/1102549/acbc92e00cee3a3f/</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50443824</guid>
-      <dc:creator>speckx</dc:creator>
-      <pubDate>Tue, 10 Nov 2026 18:02:02 +0000</pubDate>
-      <category>Legal</category>
-      <description>&lt;p&gt;Mike Lothian tried to improve a Linux driver for a DisplayLink docking station after finding its performance inadequate. Synaptics, which acquired DisplayLink in 2022, responded with patent-infringement claims, a demand to stop the unauthorized implementation, and warnings of costly legal penalties. Linux users of the company’s docks therefore appear likely to remain without feature parity for now.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Mike Lothian 认为 DisplayLink 扩展坞在 Linux 下性能不佳，因此尝试改进其驱动。DisplayLink 于 2022 年被 Synaptics 收购，而 Synaptics 随后以专利侵权为由要求停止未经授权的实现，并警告可能面临高昂法律处罚。因此，相关扩展坞的 Linux 用户目前似乎仍将无法获得与其他平台相当的功能。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 481 · 💬 267 · Legal&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50443824&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/11/top_stories_11112026#story-50443824&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Tech companies are trying to shift the concept of privacy again</title>
-      <link>https://www.eff.org/deeplinks/2026/11/tech-companies-are-trying-shift-entire-concept-privacy-again</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50496602</guid>
-      <dc:creator>gslin</dc:creator>
-      <pubDate>Sat, 14 Nov 2026 12:45:45 +0000</pubDate>
-      <category>Privacy</category>
-      <category>AI</category>
-      <description>&lt;p&gt;Privacy is increasingly affecting people beyond the individual who owns or uses a device. Meta and Google’s smart glasses can record what the wearer is looking at or use AI to describe it, extending the consequences of data collection to bystanders. The shift challenges the older framing of privacy as primarily a matter of personal choice.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;隐私问题正越来越多地影响设备所有者或使用者之外的人。Meta 和 Google 的智能眼镜可以记录佩戴者所看到的内容，或使用 AI 对其进行描述，使数据收集的后果波及旁观者。这种变化挑战了过去主要将隐私视为个人选择的传统定义。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 468 · 💬 175 · Privacy · AI&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50496602&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/14/top_stories_11142026#story-50496602&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
