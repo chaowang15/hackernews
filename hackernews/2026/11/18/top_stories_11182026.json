@@ -3,31 +3,219 @@
     "mode": "top",
     "source": "https://news.ycombinator.com/",
     "api": "https://github.com/HackerNews/API",
-    "count_requested": 50,
-    "count_written": 50,
-    "reused_same_day": 0,
-    "reused_cross_day": 22,
+    "count_requested": 100,
+    "count_written": 100,
+    "reused_same_day": 46,
+    "reused_cross_day": 0,
     "reused_history": 0,
-    "new_llm_enriched": 28,
-    "scrape_time_display": "08:04, November 18, 2026 (PST)",
+    "new_llm_enriched": 54,
+    "scrape_time_display": "18:04, November 18, 2026 (PST)",
     "timezone": "America/Los_Angeles",
     "date_dir": "2026/11/18",
     "content_date": "2026-11-18",
-    "edition": "morning",
-    "edition_label": "Morning 50",
-    "target_count": 50,
-    "run_time_local": "08:04, November 18, 2026 (PST)",
-    "run_time_utc": "2026-11-18 16:04:06 UTC",
+    "edition": "full",
+    "edition_label": "All 100",
+    "target_count": 100,
+    "run_time_local": "18:04, November 18, 2026 (PST)",
+    "run_time_utc": "2026-11-19 02:04:39 UTC",
     "incremental": true,
-    "stories_max": 50,
-    "hot_score_time_utc": "2026-11-18 16:05:14 UTC"
+    "stories_max": 100,
+    "hot_score_time_utc": "2026-11-19 02:06:21 UTC"
   },
   "items": [
     {
-      "title_en": "Quad9 Is Leaving France: Why DNS Resolvers Are the Wrong Place to Fight Piracy",
+      "title_en": "We need smart people who give a shit",
+      "url": "https://violetpixel.com/blog/2026-11-17-we-need-smart-people-who-give-a-shit/",
+      "title_zh": "我们需要那些聪明且真正上心的人",
+      "is_new": true,
+      "created_display": "Created: Nov 18, 2026 / 15:53 PT",
+      "image_url": "https://violetpixel.com/88x31/any-browser.gif",
+      "summary_en": "The author argues that complex systems are held together by smart people who care deeply about their work. This view becomes especially apparent when examining how difficult systems function, or how close they are to failing. The essay begins from that observation about the people who keep complicated systems operating.",
+      "summary_zh": "作者认为，复杂系统依靠聪明且真正关心工作的人维系。这一点在观察复杂系统如何运转，或如何勉强维持运转时尤其明显。文章以这一关于维持复杂系统运行者的观察为出发点。",
+      "hn": {
+        "id": 50554045,
+        "type": "story",
+        "by": "ExMachina73",
+        "score": 221,
+        "descendants": 113,
+        "time": 1795046029,
+        "comments_url": "https://news.ycombinator.com/item?id=50554045"
+      },
+      "hot_score": 16.55,
+      "tags": [
+        "Culture"
+      ]
+    },
+    {
+      "title_en": "Gemini 4 Neon",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
+      "title_zh": "Gemini 4 Neon",
+      "is_new": true,
+      "created_display": "Created: Nov 18, 2026 / 13:34 PT",
+      "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-4-neon__blog-header__sm.width-1300.png",
+      "summary_en": "Google has introduced Gemini 4 Neon, a model aimed at complex coding, knowledge work, and scientific workflows. The company says it offers frontier-level intelligence with fast end-to-end task completion at a lower cost. The model is presented by Google DeepMind’s senior vice president and chief AI architect.",
+      "summary_zh": "Google 推出了 Gemini 4 Neon，面向复杂编程、知识工作和科学工作流。Google 表示，该模型以更低成本提供前沿级智能，并能快速完成端到端任务。该模型由 Google DeepMind 高级副总裁兼首席 AI 架构师发布。",
+      "hn": {
+        "id": 50552424,
+        "type": "story",
+        "by": "yigitdemirag",
+        "score": 459,
+        "descendants": 434,
+        "time": 1795037647,
+        "comments_url": "https://news.ycombinator.com/item?id=50552424"
+      },
+      "hot_score": 15.6,
+      "tags": [
+        "AI",
+        "Science"
+      ]
+    },
+    {
+      "title_en": "Unauthenticated remote code execution in Nginx",
+      "url": "https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities",
+      "title_zh": "Nginx 中存在无需认证的远程代码执行漏洞",
+      "is_new": false,
+      "created_display": "Created: Nov 18, 2026 / 07:19 PT",
+      "image_url": "https://www.datocms-assets.com/75231/1794936719-img_7875.png?fm=webp",
+      "summary_en": "Nginx has been reported to contain unauthenticated remote code execution vulnerabilities. The supplied records identify two related CVE entries, CVE-2026-123633 and CVE-2026-123007.",
+      "summary_zh": "据报道，Nginx 存在无需认证即可触发的远程代码执行漏洞。相关记录列出了两个 CVE 编号：CVE-2026-123633 和 CVE-2026-123007。",
+      "hn": {
+        "id": 50547374,
+        "type": "story",
+        "by": "speedping",
+        "score": 1148,
+        "descendants": 512,
+        "time": 1795015195,
+        "comments_url": "https://news.ycombinator.com/item?id=50547374"
+      },
+      "hot_score": 11.7,
+      "tags": [
+        "Security"
+      ]
+    },
+    {
+      "title_en": "Software companies are trying to kill home computing?",
+      "url": "https://lateblt.livejournal.com/526188.html",
+      "title_zh": "软件公司正试图消灭家用计算？",
+      "is_new": true,
+      "created_display": "Created: Nov 18, 2026 / 15:49 PT",
+      "image_url": "https://l-files.livejournal.net/og_image/2602278/2055?v=1784261761",
+      "summary_en": "The item asks whether software companies are trying to eliminate home computing.",
+      "summary_zh": "该条目探讨软件公司是否正试图消灭家用计算。",
+      "hn": {
+        "id": 50554010,
+        "type": "story",
+        "by": "sammatilda",
+        "score": 113,
+        "descendants": 75,
+        "time": 1795045758,
+        "comments_url": "https://news.ycombinator.com/item?id=50554010"
+      },
+      "hot_score": 8.16,
+      "tags": [
+        "Business"
+      ]
+    },
+    {
+      "title_en": "Gemini 4 Neon looks like an Opus 5.5 competitor",
+      "url": "https://micjm.com/blog/gemini-4-neon-looks-like-a-top-model/",
+      "title_zh": "Gemini 4 Neon 似乎是 Opus 5.5 的竞争者",
+      "is_new": true,
+      "created_display": "Created: Nov 18, 2026 / 16:29 PT",
+      "image_url": "https://micjm.com/images/gemini-4-neon-looks-like-a-top-model/calibration.png",
+      "summary_en": "An analysis projects that Gemini 4 Neon could perform roughly on par with Opus 5.5, based on the expected performance of a faster Gemini 4 Carbon. Gemini 4 Carbon leads the Agent Duel leaderboard when early votes are excluded, but its main weakness is speed. Neon was observed at about 127 tokens per second, compared with Carbon’s 46 tokens per second.",
+      "summary_zh": "一项分析根据更快版本 Gemini 4 Carbon 的预期表现推测，Gemini 4 Neon 的性能可能大致相当于 Opus 5.5。排除早期投票后，Gemini 4 Carbon 位居 Agent Duel 排行榜首位，但主要问题是速度较慢。据观察，Neon 的生成速度约为每秒 127 个 token，而 Carbon 为每秒 46 个。",
+      "hn": {
+        "id": 50554374,
+        "type": "story",
+        "by": "seizethecheese",
+        "score": 71,
+        "descendants": 23,
+        "time": 1795048185,
+        "comments_url": "https://news.ycombinator.com/item?id=50554374"
+      },
+      "hot_score": 6.94,
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "title_en": "Inside Deutsche Bank",
+      "url": "https://www.inside-db.com/",
+      "title_zh": "德意志银行",
+      "is_new": false,
+      "created_display": "Created: Nov 18, 2026 / 07:38 PT",
+      "image_url": "https://www.inside-db.com/content/images/size/w1200/2026/09/_DSF9639.jpg",
+      "summary_en": "A major investigation into Deutsche Bank is based on a leak of more than 15 million files. The files cover sensitive functions including anti-financial-crime work, sanctions monitoring, internal auditing, and decisions about whether risky clients should remain customers. The investigation portrays flaws in the bank's culture, systemic blind spots, and tensions between profit-seeking and compliance.",
+      "summary_zh": "一项针对德意志银行的重大调查建立在超过 1500 万份泄露文件的基础上。这些文件涉及反金融犯罪、制裁监控、内部审计，以及决定高风险客户是否继续留存等敏感职能。调查呈现出该行文化中的缺陷、系统性盲点，以及追求利润与合规要求之间的矛盾。",
+      "hn": {
+        "id": 50547620,
+        "type": "story",
+        "by": "gyre007",
+        "score": 563,
+        "descendants": 190,
+        "time": 1795016313,
+        "comments_url": "https://news.ycombinator.com/item?id=50547620"
+      },
+      "tags": [
+        "Finance",
+        "Security",
+        "Business"
+      ],
+      "hot_score": 5.99
+    },
+    {
+      "title_en": "Multiple vulnerabilities in Regexp and String case conversion",
+      "url": "https://www.ruby-lang.org/en/news/2026/11/18/multiple-vulnerabilities-in-regexp-and-string/",
+      "title_zh": "Regexp 和字符串大小写转换中的多个漏洞",
+      "is_new": true,
+      "created_display": "Created: Nov 18, 2026 / 15:52 PT",
+      "image_url": "https://www.ruby-lang.org/images/og-image.png",
+      "summary_en": "Seven vulnerabilities have been found in Ruby’s regular expression engine and string case-conversion functionality. Proofs of concept show that some of them can trigger remote code execution. Ruby released versions 4.0.10, 3.4.13, and 3.3.14 to fix the issues and recommends upgrading; CVE identifiers have not yet been assigned.",
+      "summary_zh": "Ruby 的正则表达式引擎和字符串大小写转换功能中发现了七个漏洞。概念验证表明，其中一些漏洞可用于触发远程代码执行。Ruby 已发布 4.0.10、3.4.13 和 3.3.14 修复这些问题，并建议用户升级；这些漏洞尚未分配 CVE 编号。",
+      "hn": {
+        "id": 50554038,
+        "type": "story",
+        "by": "runesoerensen",
+        "score": 72,
+        "descendants": 16,
+        "time": 1795045970,
+        "comments_url": "https://news.ycombinator.com/item?id=50554038"
+      },
+      "hot_score": 5.3,
+      "tags": [
+        "Security",
+        "Programming"
+      ]
+    },
+    {
+      "title_en": "Seven new models at scalable price-performance",
+      "url": "https://microsoft.ai/news/microsoft-ignite-2026/",
+      "title_zh": "七个具备可扩展性价比的新模型",
+      "is_new": true,
+      "created_display": "Created: Nov 18, 2026 / 08:08 PT",
+      "image_url": "https://microsoft.ai/wp-content/uploads/2026/11/All-Up-Blog.jpg",
+      "summary_en": "Microsoft has announced seven new models positioned around scalable price-performance.",
+      "summary_zh": "Microsoft 宣布推出七个新模型，主打可扩展的价格与性能表现。",
+      "hn": {
+        "id": 50548021,
+        "type": "story",
+        "by": "gmays",
+        "score": 452,
+        "descendants": 317,
+        "time": 1795018104,
+        "comments_url": "https://news.ycombinator.com/item?id=50548021"
+      },
+      "hot_score": 5.17,
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "title_en": "DNS resolvers are the wrong place to fight piracy",
       "url": "https://techstackups.com/articles/quad9-leaves-france-dns-blocking/",
       "title_zh": "Quad9 将退出法国：DNS 解析器不该成为打击盗版的场所",
-      "is_new": true,
+      "is_new": false,
       "created_display": "Created: Nov 18, 2026 / 05:18 PT",
       "image_url": "https://techstackups.com/img/articles/quad9-leaves-france/cover.jpg",
       "summary_en": "The nonprofit DNS resolver Quad9 will stop answering queries from France on November 24, 2026, rather than comply with a Paris court order sought by beIN Sports. The court fined Quad9 for refusing to block pirate sports-streaming domains, and roughly 20 similar cases are still pending. The dispute raises concerns that forcing public DNS resolvers to enforce domain blocking could undermine services beyond its intended target.",
@@ -36,44 +224,114 @@
         "id": 50545958,
         "type": "story",
         "by": "ritzaco",
-        "score": 272,
-        "descendants": 65,
+        "score": 603,
+        "descendants": 223,
         "time": 1795007882,
         "comments_url": "https://news.ycombinator.com/item?id=50545958"
       },
-      "hot_score": 16.18,
       "tags": [
         "Legal"
+      ],
+      "hot_score": 4.71
+    },
+    {
+      "title_en": "AI agents ask better questions than KPMG accountants in audit trial",
+      "url": "https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/",
+      "title_zh": "审计试验中，AI 智能体比 KPMG 会计师提出了更好的问题",
+      "is_new": true,
+      "created_display": "Created: Nov 18, 2026 / 07:49 PT",
+      "image_url": "https://europeanbusinessmagazine.com/wp-content/uploads/2026/06/ai5555-1024x678.jpg",
+      "summary_en": "KPMG UK tested more than 100 AI agents on the accounts of a major UK-listed company. The agents sometimes investigated financial issues more deeply and asked better questions than the human audit team. The experiment raises questions about how automation could change the economics of auditing as machines take on more analytical work.",
+      "summary_zh": "KPMG 英国分部让 100 多个 AI 智能体审查一家英国上市大型公司的账目。在试验中，智能体有时比人类审计团队更深入地调查财务问题，并提出更好的问题。随着机器承担更多分析工作，这项试验引发了人们对自动化将如何改变审计行业经济模式的讨论。",
+      "hn": {
+        "id": 50547777,
+        "type": "story",
+        "by": "Betelbuddy",
+        "score": 363,
+        "descendants": 163,
+        "time": 1795016974,
+        "comments_url": "https://news.ycombinator.com/item?id=50547777"
+      },
+      "hot_score": 3.96,
+      "tags": [
+        "AI"
       ]
     },
     {
-      "title_en": "Pre-auth RCE in Nginx HTTP/2 handling",
-      "url": "https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities",
-      "title_zh": "Nginx HTTP/2 处理中的预认证远程代码执行漏洞",
-      "is_new": true,
-      "created_display": "Created: Nov 18, 2026 / 07:19 PT",
-      "image_url": "https://www.datocms-assets.com/75231/1794936719-img_7875.png?fm=webp",
-      "summary_en": "Researchers from Wiz, Ikotas Labs, Metnir, Rapid7, and Xint independently found two critical remote code execution vulnerabilities in NGINX's HTTP/2 handling. Attackers could use the flaws to compromise NGINX servers, putting the websites, APIs, and sensitive data they serve at risk. Because NGINX is widely used as the front door for modern web applications and powers more than 225 million websites, affected deployments could have broad exposure.",
-      "summary_zh": "Wiz、Ikotas Labs、Metnir、Rapid7 和 Xint 的研究人员分别发现了 NGINX HTTP/2 处理中的两个严重远程代码执行漏洞。攻击者可能利用这些漏洞入侵 NGINX 服务器，使其承载的网站、API 和敏感数据面临风险。由于 NGINX 广泛用作现代 Web 应用的入口，并支撑超过 2.25 亿个网站，受影响的部署可能范围很广。",
+      "title_en": "Russia reportedly planned mass-casualty attack in Poland to be blamed on Ukraine",
+      "url": "https://www.yahoo.com/news/world/articles/russia-reportedly-planned-mass-casualty-090500574.html",
+      "title_zh": "据报道，俄罗斯曾策划在波兰制造大规模伤亡并嫁祸乌克兰",
+      "is_new": false,
+      "created_display": "Created: Nov 18, 2026 / 07:18 PT",
+      "image_url": "https://s.yimg.com/lo/mysterio/api/ad6a2a112e9f0226e79e9b73cb48fc33faa150dd88d4ea7b20be07d0146e6315/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fukrayinska_pravda_articles_451%2F3f75d2ecee0a54bee0a4a11b062d8666.jpg",
+      "summary_en": "Russian intelligence services reportedly planned a sabotage operation on Polish territory near the border with Russia’s Kaliningrad Oblast. The operation was reportedly intended to cause mass casualties in late October or early November and be blamed on Ukraine. The report comes from the Polish newspaper Rzeczpospolita, as cited by European Pravda.",
+      "summary_zh": "据报道，俄罗斯情报部门曾计划在波兰境内、靠近俄罗斯加里宁格勒州边境的地区实施破坏行动。据称，该行动计划于 10 月下旬或 11 月上旬制造大规模伤亡，并将责任嫁祸给乌克兰。相关消息来自波兰报纸《共和国报》，由 European Pravda 引述。",
       "hn": {
-        "id": 50547374,
+        "id": 50547344,
         "type": "story",
-        "by": "speedping",
-        "score": 78,
-        "descendants": 21,
-        "time": 1795015195,
-        "comments_url": "https://news.ycombinator.com/item?id=50547374"
+        "by": "ilamont",
+        "score": 351,
+        "descendants": 162,
+        "time": 1795015110,
+        "comments_url": "https://news.ycombinator.com/item?id=50547344"
       },
-      "hot_score": 12.42,
+      "hot_score": 3.56,
       "tags": [
-        "Security"
+        "Politics"
+      ]
+    },
+    {
+      "title_en": "Anthropic prices initial public offering",
+      "url": "https://www.anthropic.com/news/anthropic-prices-initial-public-offering",
+      "title_zh": "Anthropic 确定 IPO 发行价",
+      "is_new": true,
+      "created_display": "Created: Nov 18, 2026 / 15:30 PT",
+      "image_url": "https://assets.claude.com/6d4a0d28992ade92d6fa63646fd9c9d318245c6c.jpg",
+      "summary_en": "Anthropic priced its initial public offering at $83 per Class A share. The offering consists of 980 million shares, including 956,351,354 sold by Anthropic and 23,648,646 sold by existing stockholders. Trading is expected to begin on Nasdaq under the symbol “ANT” on November 19, 2026, with closing expected the following day and an underwriter option for up to 147 million additional shares.",
+      "summary_zh": "Anthropic 将其 A 类普通股 IPO 发行价定为每股 83 美元。本次发行共 9.8 亿股，其中 Anthropic 出售 956,351,354 股，部分现有股东出售 23,648,646 股。股票预计于 2026 年 11 月 19 日以“ANT”为代码在纳斯达克开始交易，发行预计于次日完成，承销商另拥有最多追加购买 1.47 亿股的 30 天期权。",
+      "hn": {
+        "id": 50553843,
+        "type": "story",
+        "by": "surprisetalk",
+        "score": 55,
+        "descendants": 26,
+        "time": 1795044609,
+        "comments_url": "https://news.ycombinator.com/item?id=50553843"
+      },
+      "hot_score": 3.46,
+      "tags": [
+        "Finance",
+        "AI"
+      ]
+    },
+    {
+      "title_en": "Genie 4 is now available",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/",
+      "title_zh": "Genie 4 现已开放使用",
+      "is_new": true,
+      "created_display": "Created: Nov 18, 2026 / 10:49 PT",
+      "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/resized_ProjectGenie_Thumbnail_v02.width-1300.png",
+      "summary_en": "Google is rolling out Genie 4, its new world model, to eligible Google AI Ultra subscribers through Project Genie. Users can generate interactive worlds with real-time audio, edit environments using natural language, and share creations in a community gallery. Google AI Pro members can join a waitlist.",
+      "summary_zh": "Google 正通过 Project Genie 向符合条件的 Google AI Ultra 订阅者开放新的世界模型 Genie 4。用户可以生成带实时音频的互动世界，使用自然语言实时编辑环境，并在社区画廊分享作品。Google AI Pro 用户可以加入候补名单。",
+      "hn": {
+        "id": 50550415,
+        "type": "story",
+        "by": "leumon",
+        "score": 190,
+        "descendants": 143,
+        "time": 1795027791,
+        "comments_url": "https://news.ycombinator.com/item?id=50550415"
+      },
+      "hot_score": 3.43,
+      "tags": [
+        "AI"
       ]
     },
     {
       "title_en": "AI is killing All About Berlin",
       "url": "https://nicolasbouliane.com/blog/death-by-ai",
       "title_zh": "AI 正在扼杀 All About Berlin",
-      "is_new": true,
+      "is_new": false,
       "created_display": "Created: Nov 17, 2026 / 22:47 PT",
       "image_url": "https://nicolasbouliane.com/images/content2x/all-about-berlin-traffic-loss.png",
       "summary_en": "The operator of All About Berlin says the site's traffic fell by 70% to 75% after years of growth, attributing the decline to Google's AI Overviews. Search pages now place an AI-generated answer trained on the site's content before the link to the site itself. The change has had a devastating effect on the site's traffic.",
@@ -82,94 +340,117 @@
         "id": 50542705,
         "type": "story",
         "by": "grey-area",
-        "score": 662,
-        "descendants": 602,
+        "score": 759,
+        "descendants": 684,
         "time": 1794984446,
         "comments_url": "https://news.ycombinator.com/item?id=50542705"
       },
-      "hot_score": 8.41,
+      "tags": [
+        "AI"
+      ],
+      "hot_score": 3.08
+    },
+    {
+      "title_en": "DaisyRose-27B",
+      "url": "https://www.radixark.com/blog/daisyrose-27b",
+      "title_zh": "DaisyRose-27B",
+      "is_new": true,
+      "created_display": "Created: Nov 18, 2026 / 11:39 PT",
+      "image_url": "https://www.radixark.com/images/daisyrose-27b/hero.png",
+      "summary_en": "RadixArk has released DaisyRose-27B, its first model, built on Qwen3.8-27B and trained with reinforcement learning using Miles. It was trained on long-horizon agent tasks with sessions of up to 1 million tokens, using 1,200 curated tasks over 18 days on 144 H200 GPUs. Terminal-Bench 4.1 pass@1 improved from 5.6% to 12.0%, and BF16, FP8, and NVFP4 checkpoints are available.",
+      "summary_zh": "RadixArk 发布了首个模型 DaisyRose-27B，该模型基于 Qwen3.8-27B，并使用 Miles 进行强化学习训练。模型面向长期智能体任务训练，单次会话最多支持 100 万个 token；训练使用了 144 张 H200 GPU，在 18 天内完成了 1,200 个精选任务。Terminal-Bench 4.1 的 pass@1 从 5.6% 提升至 12.0%，同时提供 BF16、FP8 和 NVFP4 检查点。",
+      "hn": {
+        "id": 50551046,
+        "type": "story",
+        "by": "de_sty",
+        "score": 139,
+        "descendants": 41,
+        "time": 1795030756,
+        "comments_url": "https://news.ycombinator.com/item?id=50551046"
+      },
+      "hot_score": 2.96,
       "tags": [
         "AI"
       ]
     },
     {
-      "title_en": "'Human' Is Cambridge Dictionary's Word of the Year 2026",
-      "url": "https://www.cam.ac.uk/news/cambridge-dictionary-reveals-word-of-the-year-2026",
-      "title_zh": "“Human” 被《剑桥词典》评为 2026 年度词汇",
+      "title_en": "Fable: Written, painted and directed by Claude Fable 5.2",
+      "url": "https://claudia.gallery/fable/",
+      "title_zh": "《Fable》：由 Claude Fable 5.2 编写、绘制并执导",
       "is_new": true,
-      "created_display": "Created: Nov 18, 2026 / 06:43 PT",
-      "image_url": "https://www.cam.ac.ukWOTY_LI_expert_cover_image.png",
-      "summary_en": "Cambridge Dictionary has named “human” its Word of the Year for 2026. The choice reflects global debates about what it means to be human as AI increasingly blurs the boundaries between people and machines. The dictionary defines the word as having the qualities, faults, and feelings associated with people rather than gods, animals, or machines.",
-      "summary_zh": "《剑桥词典》将“human”评为 2026 年度词汇。这一选择反映了在人工智能逐渐模糊人与机器边界之际，全球围绕“人是什么”的讨论。词典将该词定义为具有人类所拥有的品质、缺点和情感，有别于神、动物或机器。",
+      "created_display": "Created: Nov 18, 2026 / 16:18 PT",
+      "image_url": "https://claudia.gallery/og/fable.jpg",
+      "summary_en": "Fable is a film in which Claudia reads bedtime stories shaped by familiar tales and AI anxieties, giving them different endings. The project includes stories involving Snow White, the Ant and the Grasshopper, Pinocchio, and other classic characters. Its second version replaced the song used in the first cut, requiring the shots featuring Claudia to be reshot and retimed.",
+      "summary_zh": "《Fable》是一部由 Claudia 讲述睡前故事的影片，这些故事取材于经典童话和人们对 AI 的担忧，并被赋予了不同结局。作品涉及白雪公主、蚂蚁与蚱蜢、匹诺曹等经典角色。第二版更换了初剪所使用的歌曲，因此所有包含 Claudia 的镜头都重新拍摄并重新配合节奏，另外三个不含她的镜头得以保留。",
       "hn": {
-        "id": 50546914,
+        "id": 50554269,
         "type": "story",
-        "by": "DeepLogin",
-        "score": 72,
-        "descendants": 47,
-        "time": 1795013032,
-        "comments_url": "https://news.ycombinator.com/item?id=50546914"
-      },
-      "hot_score": 8.03,
-      "tags": [
-        "Culture",
-        "AI"
-      ]
-    },
-    {
-      "title_en": "Energy drinks linked to 11 times more reports of cardiac arrest",
-      "url": "https://www.sciencedaily.com/releases/2026/11/261110042543.htm",
-      "title_zh": "能量饮料与心脏骤停报告增加 11 倍相关",
-      "is_new": true,
-      "created_display": "Created: Nov 18, 2026 / 06:03 PT",
-      "image_url": "https://www.sciencedaily.com/images/1920/cybersport-gamer-drinking-energy-drink.webp",
-      "summary_en": "A new study found that energy drinks and stimulant supplements appeared in reports of cardiac arrest 11 times more often, and in heart-attack reports 4.5 times more often, than products without those ingredients. Adults aged 18 to 34 accounted for nearly half of the cardiovascular reports involving the products. The preliminary research, presented at the American Heart Association's 2026 Scientific Sessions, found an association but could not prove causation.",
-      "summary_zh": "一项新研究发现，与不含这些成分的产品相比，能量饮料和兴奋剂补充剂出现在心脏骤停报告中的频率高出 11 倍，在心脏病发作报告中的频率高出 4.5 倍。涉及这些产品的心血管问题报告中，18 至 34 岁成年人占近一半。这项发表于美国心脏协会 2026 年科学年会的初步研究发现了相关性，但无法证明因果关系。",
-      "hn": {
-        "id": 50546465,
-        "type": "story",
-        "by": "wjSgoWPm5bWAhXB",
-        "score": 74,
-        "descendants": 37,
-        "time": 1795010617,
-        "comments_url": "https://news.ycombinator.com/item?id=50546465"
-      },
-      "hot_score": 5.95,
-      "tags": [
-        "Health",
-        "Science",
-        "Energy"
-      ]
-    },
-    {
-      "title_en": "Poland says it thwarted false flag operation near border with Kaliningrad",
-      "url": "https://www.yahoo.com/news/world/articles/russia-reportedly-planned-mass-casualty-090500574.html",
-      "title_zh": "波兰称挫败加里宁格勒边境附近的假旗行动",
-      "is_new": true,
-      "created_display": "Created: Nov 18, 2026 / 07:18 PT",
-      "image_url": "https://s.yimg.com/lo/mysterio/api/ad6a2a112e9f0226e79e9b73cb48fc33faa150dd88d4ea7b20be07d0146e6315/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fukrayinska_pravda_articles_451%2F3f75d2ecee0a54bee0a4a11b062d8666.jpg",
-      "summary_en": "Polish media reported that Russian intelligence services planned a sabotage attack on Polish territory near the border with Kaliningrad. The alleged operation was intended to cause mass casualties and be blamed on Ukraine. The report was attributed to the Polish newspaper Rzeczpospolita and cited by European Pravda.",
-      "summary_zh": "波兰媒体报道称，俄罗斯情报部门计划在靠近加里宁格勒边境的波兰境内发动破坏袭击。据称，该行动意图造成大量人员伤亡并嫁祸于乌克兰。报道源自波兰《共和国报》，并由 European Pravda 引述。",
-      "hn": {
-        "id": 50547344,
-        "type": "story",
-        "by": "ilamont",
+        "by": "CharlesW",
         "score": 32,
-        "descendants": 0,
-        "time": 1795015110,
-        "comments_url": "https://news.ycombinator.com/item?id=50547344"
+        "descendants": 27,
+        "time": 1795047498,
+        "comments_url": "https://news.ycombinator.com/item?id=50554269"
       },
-      "hot_score": 4.92,
+      "hot_score": 2.8,
       "tags": [
-        "Politics",
-        "Security"
+        "Entertainment",
+        "AI"
+      ]
+    },
+    {
+      "title_en": "LLM assisted reverse engineering",
+      "url": "https://www.slowchronicle.com/posts/llm-assisted-reverse-engineering",
+      "title_zh": "LLM 辅助逆向工程",
+      "is_new": true,
+      "created_display": "Created: Nov 18, 2026 / 14:29 PT",
+      "image_url": "https://www.slowchronicle.com/og-default.png",
+      "summary_en": "A reverse engineer describes using AI to accelerate hardware and software analysis after two decades of largely manual work. The current workflow points an agent at a binary and applies a set of dedicated agent skills, with much of the remaining process handled automatically. The approach is presented as a brief account of the author’s reverse-engineering process.",
+      "summary_zh": "一名逆向工程师介绍了如何借助 AI 加速硬件和软件分析，此前这项工作主要依靠人工完成。当前的工作流是将智能体指向待分析的二进制文件，并应用一组专用智能体技能，其余大部分流程由系统自动处理。作者将其作为自己逆向工程流程的简要介绍。",
+      "hn": {
+        "id": 50553225,
+        "type": "story",
+        "by": "ioma8",
+        "score": 63,
+        "descendants": 14,
+        "time": 1795040953,
+        "comments_url": "https://news.ycombinator.com/item?id=50553225"
+      },
+      "hot_score": 2.77,
+      "tags": [
+        "AI",
+        "Security",
+        "Hardware"
+      ]
+    },
+    {
+      "title_en": "Advancing chip design with OpenAI models",
+      "url": "https://openai.com/index/advancing-chip-design-with-our-models/",
+      "title_zh": "利用 OpenAI 模型推进芯片设计",
+      "is_new": true,
+      "created_display": "Created: Nov 18, 2026 / 09:45 PT",
+      "image_url": null,
+      "summary_en": "OpenAI models are being used to advance chip design.",
+      "summary_zh": "OpenAI 模型正被用于推进芯片设计。",
+      "hn": {
+        "id": 50549493,
+        "type": "story",
+        "by": "vighneshiyer",
+        "score": 163,
+        "descendants": 104,
+        "time": 1795023947,
+        "comments_url": "https://news.ycombinator.com/item?id=50549493"
+      },
+      "hot_score": 2.42,
+      "tags": [
+        "AI",
+        "Hardware"
       ]
     },
     {
       "title_en": "Java4Shell: RCE in OpenJDK when processing Base64",
       "url": "https://calif.io/java4shell/",
       "title_zh": "Java4Shell：处理 Base64 时 OpenJDK 中的远程代码执行漏洞",
-      "is_new": true,
+      "is_new": false,
       "created_display": "Created: Nov 17, 2026 / 13:11 PT",
       "image_url": "https://calif.io/java4shell/poster.jpg",
       "summary_en": "Calif disclosed Java4Shell, tracked as CVE-2026-114938, a memory-corruption vulnerability in OpenJDK's Base64 decoder. OpenJDK is described as the most popular Java runtime. The vulnerability has a CVSS 4.0 score of 9.2 out of 10, rated Critical. Its severity could make affected OpenJDK deployments a high-priority patching target.",
@@ -178,45 +459,21 @@
         "id": 50538240,
         "type": "story",
         "by": "werrett",
-        "score": 1110,
-        "descendants": 296,
+        "score": 1155,
+        "descendants": 321,
         "time": 1794949888,
         "comments_url": "https://news.ycombinator.com/item?id=50538240"
       },
       "tags": [
         "Security"
       ],
-      "hot_score": 4.66
-    },
-    {
-      "title_en": "Energy-Based Reasoners: 385x more efficient inference",
-      "url": "https://energy-based-reasoners.github.io/",
-      "title_zh": "能量型推理器：推理效率提升 385 倍",
-      "is_new": true,
-      "created_display": "Created: Nov 18, 2026 / 01:29 PT",
-      "image_url": "https://energy-based-reasoners.github.io/static/images/ebr_landscape_abc_v1.png",
-      "summary_en": "Energy-Based Reasoners replace a learned recurrent transition with gradient descent on a learned energy function over latent reasoning states. The energy both guides iterative refinement and determines when to stop and which candidate answer to select. On Sudoku-Extreme, the model reached more than 99% accuracy with 1.8 million parameters and used up to 345 times fewer inference FLOPs than EqR at comparable accuracy.",
-      "summary_zh": "能量型推理器用在潜在推理状态上对学习到的能量函数执行梯度下降，取代传统的学习型循环转移。能量函数既引导迭代优化，也决定何时停止以及选择哪个候选答案。在 Sudoku-Extreme 测试中，该模型以 180 万参数取得超过 99% 的准确率，在准确率相近时推理 FLOPs 比 EqR 最多少 345 倍。",
-      "hn": {
-        "id": 50543989,
-        "type": "story",
-        "by": "frenchmajesty",
-        "score": 225,
-        "descendants": 31,
-        "time": 1794994172,
-        "comments_url": "https://news.ycombinator.com/item?id=50543989"
-      },
-      "hot_score": 4.66,
-      "tags": [
-        "AI",
-        "Energy"
-      ]
+      "hot_score": 2.4
     },
     {
       "title_en": "GPT‑6.2 Astra and Sol",
       "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol/",
       "title_zh": "GPT‑6.2 Astra 与 Sol",
-      "is_new": true,
+      "is_new": false,
       "created_display": "Created: Nov 17, 2026 / 09:46 PT",
       "image_url": null,
       "summary_en": "GPT-6.2 Astra and Sol are presented as two named models or systems. No further technical details or capabilities are established here.",
@@ -225,45 +482,68 @@
         "id": 50535230,
         "type": "story",
         "by": "jasondavies",
-        "score": 1325,
-        "descendants": 831,
+        "score": 1337,
+        "descendants": 851,
         "time": 1794937603,
         "comments_url": "https://news.ycombinator.com/item?id=50535230"
       },
       "tags": [
         "AI"
       ],
-      "hot_score": 4.24
+      "hot_score": 2.3
     },
     {
-      "title_en": "Can Peer Review Survive AI-Generated Text? [pdf]",
-      "url": "https://www.sas.upenn.edu/~jesusfv/Peer_Review.pdf",
-      "title_zh": "同行评审能否经受 AI 生成文本？",
-      "is_new": true,
-      "created_display": "Created: Nov 18, 2026 / 05:51 PT",
-      "image_url": null,
-      "summary_en": "The piece asks whether peer review can withstand the growing use of AI-generated text. It focuses on the implications of AI-written material for the process of evaluating scholarly work.",
-      "summary_zh": "这篇文章探讨同行评审能否应对日益增多的 AI 生成文本。它关注 AI 撰写的材料会如何影响学术作品的评估过程。",
+      "title_en": "The Cambridge Dictionary has named ‘human’ as the Word of the Year 2026",
+      "url": "https://www.cam.ac.uk/news/cambridge-dictionary-reveals-word-of-the-year-2026",
+      "title_zh": "剑桥词典将“human”评为 2026 年度词汇",
+      "is_new": false,
+      "created_display": "Created: Nov 18, 2026 / 06:43 PT",
+      "image_url": "https://www.cam.ac.ukWOTY_LI_expert_cover_image.png",
+      "summary_en": "Cambridge Dictionary has named “human” its Word of the Year for 2026. The choice reflects global debates about what it means to be human as AI blurs the boundary between people and machines. The dictionary defines “human” as having the qualities, faults, and feelings associated with people rather than gods, animals, or machines.",
+      "summary_zh": "剑桥词典将“human”评为 2026 年度词汇。这一选择反映了人工智能模糊人与机器边界之际，全球围绕“人类意味着什么”展开的讨论。词典将“human”定义为具有人类特有的品质、缺点和情感，而非神、动物或机器所具备的特征。",
       "hn": {
-        "id": 50546312,
+        "id": 50546914,
         "type": "story",
-        "by": "torutofu",
-        "score": 55,
-        "descendants": 63,
-        "time": 1795009863,
-        "comments_url": "https://news.ycombinator.com/item?id=50546312"
+        "by": "DeepLogin",
+        "score": 238,
+        "descendants": 172,
+        "time": 1795013032,
+        "comments_url": "https://news.ycombinator.com/item?id=50546914"
       },
-      "hot_score": 4.02,
+      "hot_score": 2.23,
       "tags": [
-        "AI",
-        "Science"
+        "Culture",
+        "AI"
+      ]
+    },
+    {
+      "title_en": "KVM: x86: Unconditionally reset MMU context when emulating INIT (CVE-2026-99312)",
+      "url": "https://www.cve.org/CVERecord?id=CVE-2026-99312",
+      "title_zh": "KVM：x86 在模拟 INIT 时无条件重置 MMU 上下文（CVE-2026-99312）",
+      "is_new": true,
+      "created_display": "Created: Nov 18, 2026 / 08:06 PT",
+      "image_url": null,
+      "summary_en": "CVE-2026-99312 concerns KVM’s x86 handling of MMU context when emulating INIT. The issue is identified as an unconditional MMU-context reset.",
+      "summary_zh": "CVE-2026-99312 涉及 KVM 的 x86 实现在模拟 INIT 时对 MMU 上下文的处理。该问题表现为无条件重置 MMU 上下文。",
+      "hn": {
+        "id": 50548004,
+        "type": "story",
+        "by": "Kozmik1",
+        "score": 175,
+        "descendants": 116,
+        "time": 1795017981,
+        "comments_url": "https://news.ycombinator.com/item?id=50548004"
+      },
+      "hot_score": 1.99,
+      "tags": [
+        "Security"
       ]
     },
     {
       "title_en": "Quad9's withdrawal from France: A canary in the coal mine",
       "url": "https://blog.cloudflare.com/quad9-withdrawal-from-france/",
       "title_zh": "Quad9 退出法国：煤矿里的金丝雀",
-      "is_new": true,
+      "is_new": false,
       "created_display": "Created: Nov 17, 2026 / 14:13 PT",
       "image_url": "https://blog.cloudflare.com/_emdash/api/media/file/01M7NJA0M7FAQEQZBW0K0W5KKS.png",
       "summary_en": "Swiss nonprofit Quad9 said it will withdraw its free public DNS resolver from France after months of litigation. A French court imposed daily financial penalties because Quad9 did not block domains linked to alleged copyright infringement. Quad9 said the choice was between crippling penalties and changing its service in ways that would undermine user privacy and security. The case is presented as a warning about the consequences of mandating DNS-level blocking.",
@@ -272,8 +552,8 @@
         "id": 50538994,
         "type": "story",
         "by": "subset",
-        "score": 836,
-        "descendants": 385,
+        "score": 883,
+        "descendants": 432,
         "time": 1794953614,
         "comments_url": "https://news.ycombinator.com/item?id=50538994"
       },
@@ -282,13 +562,89 @@
         "Security",
         "Legal"
       ],
-      "hot_score": 3.85
+      "hot_score": 1.95
+    },
+    {
+      "title_en": "Show HN: ExitPath – Open-source ways out of Slack, Notion and Microsoft 365",
+      "url": "https://exitpath-ruddy.vercel.app/",
+      "title_zh": "Show HN：ExitPath——离开 Slack、Notion 和 Microsoft 365 的开源方案",
+      "is_new": true,
+      "created_display": "Created: Nov 18, 2026 / 08:04 PT",
+      "image_url": "https://exitpath-ruddy.vercel.app/og.png",
+      "summary_en": "ExitPath helps users find and compare open-source alternatives to Slack, Notion, Microsoft 365, and other tools. It provides ratings, migration-difficulty scores, and step-by-step checklists. The project says that user activity stays in the browser.",
+      "summary_zh": "ExitPath 帮助用户寻找和比较 Slack、Notion、Microsoft 365 等工具的开源替代品。它提供评价、迁移难度评分和分步检查清单。项目表示，用户操作不会离开浏览器。",
+      "hn": {
+        "id": 50547980,
+        "type": "story",
+        "by": "zerocool0101",
+        "score": 167,
+        "descendants": 50,
+        "time": 1795017883,
+        "comments_url": "https://news.ycombinator.com/item?id=50547980"
+      },
+      "hot_score": 1.89,
+      "tags": [
+        "Show HN",
+        "Open Source",
+        "Web"
+      ]
+    },
+    {
+      "title_en": "Show HN: Take Voyager 1 apart, down to a single memory chip",
+      "url": "https://rshekhar.com/voyager/",
+      "title_zh": "Show HN：拆解旅行者 1 号，直到一块内存芯片",
+      "is_new": true,
+      "created_display": "Created: Nov 18, 2026 / 08:18 PT",
+      "image_url": "https://rshekhar.com/voyager/og.jpg",
+      "summary_en": "An interactive project lets users explore Voyager 1 down to individual components, including a single memory chip. It also shows the current locations of both Voyager spacecraft, the 24 plutonium spheres in a nuclear battery, the Golden Record’s cover, and the ground dish listening to the probes. The project includes a four-minute film and describes how Voyager 1 was repaired by radio.",
+      "summary_zh": "一个互动项目允许用户逐层探索旅行者 1 号，直至单块内存芯片。项目还展示两艘旅行者探测器当前的位置、核电池中的 24 个钚球、金唱片封面，以及正在接收探测器信号的地面天线。项目另附一部四分钟影片，并介绍了如何通过无线电修复旅行者 1 号。",
+      "hn": {
+        "id": 50548161,
+        "type": "story",
+        "by": "raj-shekhar",
+        "score": 154,
+        "descendants": 34,
+        "time": 1795018731,
+        "comments_url": "https://news.ycombinator.com/item?id=50548161"
+      },
+      "hot_score": 1.8,
+      "tags": [
+        "Show HN",
+        "Science",
+        "Hardware",
+        "Energy"
+      ]
+    },
+    {
+      "title_en": "Energy drinks linked to 11 times more reports of cardiac arrest",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261110042543.htm",
+      "title_zh": "能量饮料与心脏骤停报告增加 11 倍相关",
+      "is_new": false,
+      "created_display": "Created: Nov 18, 2026 / 06:03 PT",
+      "image_url": "https://www.sciencedaily.com/images/1920/cybersport-gamer-drinking-energy-drink.webp",
+      "summary_en": "A new study found that energy drinks and stimulant supplements appeared in reports of cardiac arrest 11 times more often, and in heart-attack reports 4.5 times more often, than products without those ingredients. Adults aged 18 to 34 accounted for nearly half of the cardiovascular reports involving the products. The preliminary research, presented at the American Heart Association's 2026 Scientific Sessions, found an association but could not prove causation.",
+      "summary_zh": "一项新研究发现，与不含这些成分的产品相比，能量饮料和兴奋剂补充剂出现在心脏骤停报告中的频率高出 11 倍，在心脏病发作报告中的频率高出 4.5 倍。涉及这些产品的心血管问题报告中，18 至 34 岁成年人占近一半。这项发表于美国心脏协会 2026 年科学年会的初步研究发现了相关性，但无法证明因果关系。",
+      "hn": {
+        "id": 50546465,
+        "type": "story",
+        "by": "wjSgoWPm5bWAhXB",
+        "score": 206,
+        "descendants": 199,
+        "time": 1795010617,
+        "comments_url": "https://news.ycombinator.com/item?id=50546465"
+      },
+      "tags": [
+        "Health",
+        "Science",
+        "Energy"
+      ],
+      "hot_score": 1.76
     },
     {
       "title_en": "Google's AI answers reducing search traffic by 40%",
       "url": "https://revscope.co/blog/search-seo-geo-2026/",
       "title_zh": "谷歌 AI 答案让搜索流量下降 40%",
-      "is_new": true,
+      "is_new": false,
       "created_display": "Created: Nov 17, 2026 / 16:17 PT",
       "image_url": "https://revscope.co/_astro/revscope-logo.-2X8wesR.svg",
       "summary_en": "A randomized experiment found that Google AI Overviews reduce clicks to external websites by about 40% among US desktop users. The summaries now appear on more than half of the US keywords tracked by DataForSEO, up from 6% two years earlier. Generative engine optimization has not yet demonstrated a way to offset the lost traffic, while AI assistants sent websites only 0.3% of their traffic in March. The findings indicate that traditional search rankings bring substantially fewer visits when an AI answer appears above them.",
@@ -297,21 +653,21 @@
         "id": 50540178,
         "type": "story",
         "by": "slashdev",
-        "score": 623,
-        "descendants": 471,
+        "score": 690,
+        "descendants": 539,
         "time": 1794961078,
         "comments_url": "https://news.ycombinator.com/item?id=50540178"
       },
       "tags": [
         "AI"
       ],
-      "hot_score": 3.5
+      "hot_score": 1.73
     },
     {
       "title_en": "New Evidence Shows School Phone Bans Are Gradually Improving Test Scores",
       "url": "https://www.nytimes.com/2026/11/17/upshot/school-phone-bans-study-scores.html",
       "title_zh": "新证据显示，学校禁用手机正逐步提高考试成绩",
-      "is_new": true,
+      "is_new": false,
       "created_display": "Created: Nov 17, 2026 / 03:45 PT",
       "image_url": "https://static01.nyt.com/images/2026/11/17/multimedia/17up-phone-pouch1-jlkf/17up-phone-pouch1-jlkf-facebookJumbo.jpg",
       "summary_en": "A large national analysis comparing students’ scores before and after cellphone bans found modest academic improvements. Schools with strict policies requiring students to lock phones in pouches for the entire school day saw math and reading gains equivalent to roughly one or two additional weeks of schooling per year. The study was published by Harvard’s Center for Education Policy Research and is the first national study to track individual students’ growth in this way.",
@@ -320,21 +676,164 @@
         "id": 50530163,
         "type": "story",
         "by": "donohoe",
-        "score": 1265,
-        "descendants": 632,
+        "score": 1286,
+        "descendants": 642,
         "time": 1794915951,
         "comments_url": "https://news.ycombinator.com/item?id=50530163"
       },
       "tags": [
         "Education"
       ],
-      "hot_score": 2.72
+      "hot_score": 1.65
+    },
+    {
+      "title_en": "The Magic of Partial Evaluation",
+      "url": "https://jimmyhmiller.com/magic-of-partial-evaluation",
+      "title_zh": "部分求值的魔力",
+      "is_new": true,
+      "created_display": "Created: Nov 18, 2026 / 10:29 PT",
+      "image_url": null,
+      "summary_en": "The essay presents partial evaluation as an elegant idea in software and programming languages. It focuses on concepts that reveal the nature of programming languages, even when they have limited practical use. The author frames solving problems at the programming-language level as a way to address entire classes of problems rather than one case at a time.",
+      "summary_zh": "文章将部分求值视为软件和编程语言领域中优美而有吸引力的概念。它关注那些能够揭示编程语言本质的思想，即使这些思想未必具有直接的实用价值。作者认为，在编程语言层面解决问题，意味着处理整个问题类别，而不是只解决某一个具体案例。",
+      "hn": {
+        "id": 50550096,
+        "type": "story",
+        "by": "aray07",
+        "score": 98,
+        "descendants": 25,
+        "time": 1795026543,
+        "comments_url": "https://news.ycombinator.com/item?id=50550096"
+      },
+      "hot_score": 1.65,
+      "tags": [
+        "Programming"
+      ]
+    },
+    {
+      "title_en": "Energy-Based Reasoners: 385x more efficient inference",
+      "url": "https://energy-based-reasoners.github.io/",
+      "title_zh": "能量型推理器：推理效率提升 385 倍",
+      "is_new": false,
+      "created_display": "Created: Nov 18, 2026 / 01:29 PT",
+      "image_url": "https://energy-based-reasoners.github.io/static/images/ebr_landscape_abc_v1.png",
+      "summary_en": "Energy-Based Reasoners replace a learned recurrent transition with gradient descent on a learned energy function over latent reasoning states. The energy both guides iterative refinement and determines when to stop and which candidate answer to select. On Sudoku-Extreme, the model reached more than 99% accuracy with 1.8 million parameters and used up to 345 times fewer inference FLOPs than EqR at comparable accuracy.",
+      "summary_zh": "能量型推理器用在潜在推理状态上对学习到的能量函数执行梯度下降，取代传统的学习型循环转移。能量函数既引导迭代优化，也决定何时停止以及选择哪个候选答案。在 Sudoku-Extreme 测试中，该模型以 180 万参数取得超过 99% 的准确率，在准确率相近时推理 FLOPs 比 EqR 最多少 345 倍。",
+      "hn": {
+        "id": 50543989,
+        "type": "story",
+        "by": "frenchmajesty",
+        "score": 300,
+        "descendants": 52,
+        "time": 1794994172,
+        "comments_url": "https://news.ycombinator.com/item?id=50543989"
+      },
+      "tags": [
+        "AI",
+        "Energy"
+      ],
+      "hot_score": 1.55
+    },
+    {
+      "title_en": "F-22 Next-Generation micro–Data Transfer Cartridge (mDTC)",
+      "url": "https://sam.gov/workspace/contract/opp/8948e8601e964c6aba9c801eee16b1be/view",
+      "title_zh": "F-22 下一代微型数据传输盒（mDTC）",
+      "is_new": false,
+      "created_display": "Created: Nov 18, 2026 / 07:35 PT",
+      "image_url": null,
+      "summary_en": "The F-22 Next-Generation micro–Data Transfer Cartridge (mDTC) is the subject of this item.",
+      "summary_zh": "该项目涉及 F-22 下一代微型数据传输盒（mDTC）。",
+      "hn": {
+        "id": 50547583,
+        "type": "story",
+        "by": "birdboat00",
+        "score": 144,
+        "descendants": 104,
+        "time": 1795016144,
+        "comments_url": "https://news.ycombinator.com/item?id=50547583"
+      },
+      "hot_score": 1.51,
+      "tags": [
+        "Hardware"
+      ]
+    },
+    {
+      "title_en": "CrossPoint Reader",
+      "url": "https://crosspointreader.com",
+      "title_zh": "CrossPoint Reader",
+      "is_new": true,
+      "created_display": "Created: Nov 18, 2026 / 09:14 PT",
+      "image_url": "https://crosspointreader.com/og-home.png",
+      "summary_en": "CrossPoint Reader is free, open-source e-reader software for compact devices. It supports custom fonts, Bluetooth page turners, reading synchronization, justified EPUB text, language-aware hyphenation, footnotes, drop caps, small caps, and illustrations. The software can be installed from a browser on supported devices.",
+      "summary_zh": "CrossPoint Reader 是面向小型电子阅读器的免费开源软件。它支持自定义字体、蓝牙翻页器、阅读同步、两端对齐的 EPUB 文本、按语言处理的断词、脚注、首字下沉、小型大写字母和插图。支持的设备可以直接通过浏览器安装该软件。",
+      "hn": {
+        "id": 50548991,
+        "type": "story",
+        "by": "kristianpaul",
+        "score": 105,
+        "descendants": 56,
+        "time": 1795022071,
+        "comments_url": "https://news.ycombinator.com/item?id=50548991"
+      },
+      "hot_score": 1.42,
+      "tags": [
+        "Open Source",
+        "Web"
+      ]
+    },
+    {
+      "title_en": "The x86 CPU: From 4004 to 486",
+      "url": "https://pikuma.com/blog/history-of-x86-4004-to-486",
+      "title_zh": "x86 CPU：从 4004 到 486",
+      "is_new": false,
+      "created_display": "Created: Nov 18, 2026 / 06:47 PT",
+      "image_url": "https://pikuma.com/images/blog/history-of-x86-4004-to-486/thumbnail-1200x630.jpg",
+      "summary_en": "This historical overview traces the x86 CPU family's development from its origins in the early 1970s through the launch of the 486. It explains architectural details such as little-endian byte order, the AX/BX/CX/DX register names, and DOS segmented addresses by following how successive chips were created. The focus is on how the architecture accumulated compatibility and design decisions over time rather than on isolated chip innovations.",
+      "summary_zh": "这篇历史梳理追溯了 x86 CPU 从 20 世纪 70 年代初起源到 486 发布的发展过程。文章通过回顾各代芯片的诞生，解释了小端字节序、AX/BX/CX/DX 寄存器名称以及 DOS 分段地址等架构细节。重点不只是单个芯片的创新，而是架构如何随着时间积累兼容性和设计决策。",
+      "hn": {
+        "id": 50546967,
+        "type": "story",
+        "by": "ibobev",
+        "score": 148,
+        "descendants": 46,
+        "time": 1795013273,
+        "comments_url": "https://news.ycombinator.com/item?id=50546967"
+      },
+      "tags": [
+        "Hardware",
+        "Education"
+      ],
+      "hot_score": 1.39
+    },
+    {
+      "title_en": "Black high school students sue after AI mistakes Doritos bag for gun",
+      "url": "https://www.lawyerscommittee.org/lawyers-committee-files-lawsuit-on-behalf-of-black-students-detained-and-searched-due-to-ai-alert-falsely-identifying-a-bag-of-chips-as-a-firearm/",
+      "title_zh": "黑人高中生起诉：AI 将多力多滋包装袋误认成枪",
+      "is_new": true,
+      "created_display": "Created: Nov 18, 2026 / 16:57 PT",
+      "image_url": "https://www.lawyerscommittee.org/wp-content/uploads/2026/09/Press-Statements-Blue-980x653-1.webp",
+      "summary_en": "The Lawyers’ Committee for Civil Rights Under Law filed a lawsuit on behalf of four current and former Black students in Baltimore County. The suit names Omnilert, Baltimore County Public Schools and personnel, the county police department, and individual officers. It alleges that technological and human errors in an AI weapon-detection surveillance system led to the students’ unlawful detention and search.",
+      "summary_zh": "美国公民权利法律委员会代表巴尔的摩县四名现任和前任黑人学生提起诉讼。被告包括 Omnilert、巴尔的摩县公立学校及相关人员、县警察部门和个别警员。诉讼称，AI 武器探测监控系统中的技术和人为错误导致这些学生遭到非法拘留和搜查。",
+      "hn": {
+        "id": 50554641,
+        "type": "story",
+        "by": "DeepLogin",
+        "score": 12,
+        "descendants": 0,
+        "time": 1795049840,
+        "comments_url": "https://news.ycombinator.com/item?id=50554641"
+      },
+      "hot_score": 1.39,
+      "tags": [
+        "Legal",
+        "AI",
+        "Privacy"
+      ]
     },
     {
       "title_en": "ID.me terms required for IRS sign-in",
       "url": "https://consumerrights.wiki/w/ID.me_terms_required_for_IRS_sign-in",
       "title_zh": "IRS 登录要求接受 ID.me 条款",
-      "is_new": true,
+      "is_new": false,
       "created_display": "Created: Nov 17, 2026 / 16:51 PT",
       "image_url": "https://consumerrights.wiki/images/logo/new_fixed_logo.png",
       "summary_en": "Taxpayers using ID.me to sign in to IRS online services accept terms that send most disputes to arbitration rather than a judge or jury, unless they opt out within 30 days. ID.me's privacy policy says it may use information for marketing and transfer information during a sale, merger, or similar transaction. It excludes government identity-verification data from ID.me Shop marketing unless the user consents or another listed exception applies. Login.gov and IRS Direct Pay remain alternatives for IRS access.",
@@ -343,8 +842,8 @@
         "id": 50540437,
         "type": "story",
         "by": "DeepLogin",
-        "score": 444,
-        "descendants": 230,
+        "score": 492,
+        "descendants": 259,
         "time": 1794963105,
         "comments_url": "https://news.ycombinator.com/item?id=50540437"
       },
@@ -354,38 +853,36 @@
         "Politics",
         "Business"
       ],
-      "hot_score": 2.64
+      "hot_score": 1.28
     },
     {
-      "title_en": "Deutsche Bank",
-      "url": "https://www.inside-db.com/",
-      "title_zh": "德意志银行",
+      "title_en": "Hackers Hijack Websites of CNN, BBC and Major Banks",
+      "url": "https://www.thedailybeast.com/hackers-hijack-websites-of-cnn-bbc-and-major-banks",
+      "title_zh": "黑客劫持 CNN、BBC 和多家大型银行的网站",
       "is_new": true,
-      "created_display": "Created: Nov 18, 2026 / 07:38 PT",
-      "image_url": "https://www.inside-db.com/content/images/size/w1200/2026/09/_DSF9639.jpg",
-      "summary_en": "A major investigation into Deutsche Bank is based on a leak of more than 15 million files. The files cover sensitive functions including anti-financial-crime work, sanctions monitoring, internal auditing, and decisions about whether risky clients should remain customers. The investigation portrays flaws in the bank's culture, systemic blind spots, and tensions between profit-seeking and compliance.",
-      "summary_zh": "一项针对德意志银行的重大调查建立在超过 1500 万份泄露文件的基础上。这些文件涉及反金融犯罪、制裁监控、内部审计，以及决定高风险客户是否继续留存等敏感职能。调查呈现出该行文化中的缺陷、系统性盲点，以及追求利润与合规要求之间的矛盾。",
+      "created_display": "Created: Nov 18, 2026 / 16:01 PT",
+      "image_url": "https://media.thedailybeast.com/resizer/v2/LNZCIHEETFGUZMEZ43Z7C5LPPE.jpg?auth=26b4b6715916408b17cc2323f8b8247b99ac51686617ad38203417e5922542f1&width=1200&height=630&focal=1500%2C844",
+      "summary_en": "A breach of a single platform reportedly allowed hackers to mine data from 178 websites across several industries. The affected sites included media organizations CNN and BBC as well as major banks. The incident was described as part of a broader week of cyber disruption affecting major companies.",
+      "summary_zh": "据报道，黑客通过入侵一个平台，从多个行业的 178 个网站获取数据。受影响的网站包括 CNN、BBC 等媒体机构以及多家大型银行。该事件被描述为一周网络混乱的一部分，波及多家大型企业。",
       "hn": {
-        "id": 50547620,
+        "id": 50554107,
         "type": "story",
-        "by": "gyre007",
-        "score": 13,
-        "descendants": 0,
-        "time": 1795016313,
-        "comments_url": "https://news.ycombinator.com/item?id=50547620"
+        "by": "madihaa",
+        "score": 17,
+        "descendants": 3,
+        "time": 1795046475,
+        "comments_url": "https://news.ycombinator.com/item?id=50554107"
       },
-      "hot_score": 2.4,
+      "hot_score": 1.27,
       "tags": [
-        "Finance",
-        "Security",
-        "Business"
+        "Security"
       ]
     },
     {
       "title_en": "Apple Services Down",
       "url": "https://developer.apple.com/system-status/",
       "title_zh": "Apple 服务中断",
-      "is_new": true,
+      "is_new": false,
       "created_display": "Created: Nov 17, 2026 / 09:47 PT",
       "image_url": null,
       "summary_en": "Apple services are reported to be down. The available information does not identify which services are affected, how long the outage has lasted, or its cause.",
@@ -394,92 +891,45 @@
         "id": 50535238,
         "type": "story",
         "by": "willy_k",
-        "score": 705,
-        "descendants": 394,
+        "score": 718,
+        "descendants": 404,
         "time": 1794937634,
         "comments_url": "https://news.ycombinator.com/item?id=50535238"
       },
       "tags": [
         "Web"
       ],
-      "hot_score": 2.26
+      "hot_score": 1.23
     },
     {
-      "title_en": "Microsoft's ONNX Runtime has disappeared from GitHub",
-      "url": "https://github.com/microsoft/onnxruntime",
-      "title_zh": "微软 ONNX Runtime 从 GitHub 消失",
+      "title_en": "Search Browser – Minimalist WebKit browser with Chrome extension support",
+      "url": "https://searchbrowser.app/",
+      "title_zh": "Search Browser——支持 Chrome 扩展的极简 WebKit 浏览器",
       "is_new": true,
-      "created_display": "Created: Nov 17, 2026 / 15:18 PT",
-      "image_url": null,
-      "summary_en": "Microsoft's ONNX Runtime has disappeared from GitHub. The available information does not establish why it disappeared, when the change occurred, or what will happen to the project.",
-      "summary_zh": "微软的 ONNX Runtime 已从 GitHub 消失。现有信息无法确认其消失原因、发生时间或项目后续安排。",
+      "created_display": "Created: Nov 18, 2026 / 12:04 PT",
+      "image_url": "https://searchbrowser.app/search/og/home.png",
+      "summary_en": "Search Browser is a free Mac web browser built on WebKit, with an approximately 10 MB download and startup time under a third of a second. It blocks ads, supports Chrome extensions, and can import data from Arc. Its interface lets users switch tabs and move between tab spaces with horizontal gestures.",
+      "summary_zh": "Search Browser 是一款基于 WebKit 的免费 Mac 浏览器，体积约 10 MB，启动时间不到三分之一秒。它支持广告拦截、Chrome 扩展和 Arc 导入。用户可以切换标签页，并通过横向滑动在不同标签空间之间移动。",
       "hn": {
-        "id": 50539610,
+        "id": 50551398,
         "type": "story",
-        "by": "nvader",
-        "score": 418,
-        "descendants": 85,
-        "time": 1794957529,
-        "comments_url": "https://news.ycombinator.com/item?id=50539610"
+        "by": "rsaz",
+        "score": 52,
+        "descendants": 33,
+        "time": 1795032271,
+        "comments_url": "https://news.ycombinator.com/item?id=50551398"
       },
+      "hot_score": 1.2,
       "tags": [
-        "Open Source",
-        "Programming"
-      ],
-      "hot_score": 2.13
-    },
-    {
-      "title_en": "Show HN: Type Fighter 2",
-      "url": "https://typefighter2.com/",
-      "title_zh": "Show HN：Type Fighter 2",
-      "is_new": true,
-      "created_display": "Created: Nov 18, 2026 / 03:11 PT",
-      "image_url": null,
-      "summary_en": "Type Fighter II is an arcade-inspired game designed to help people learn touch typing. It is free, requires no account, and stores progress locally. The game works on mobile devices but is best played with a physical keyboard.",
-      "summary_zh": "Type Fighter II 是一款帮助用户学习盲打的街机风格游戏。它免费使用、无需注册，进度保存在本地。游戏支持移动设备，但配合实体键盘体验最佳。",
-      "hn": {
-        "id": 50544821,
-        "type": "story",
-        "by": "torumitch",
-        "score": 67,
-        "descendants": 29,
-        "time": 1795000313,
-        "comments_url": "https://news.ycombinator.com/item?id=50544821"
-      },
-      "hot_score": 2.05,
-      "tags": [
-        "Show HN",
-        "Gaming"
-      ]
-    },
-    {
-      "title_en": "Younger adults more likely to say acceptable to wear T-shirts&sweatpants to work",
-      "url": "https://yougov.com/en-us/articles/55583-younger-adults-are-more-likely-than-older-ones-to-say-its-acceptable-to-wear-t-shirts-and-sweatpants-to-work",
-      "title_zh": "年轻人更可能认为上班穿 T 恤和运动裤可以接受",
-      "is_new": true,
-      "created_display": "Created: Nov 18, 2026 / 07:09 PT",
-      "image_url": "https://ygo-assets-websites-editorial-emea.yougov.net/images/GettyImages-1351899602.format-webp.webp",
-      "summary_en": "A YouGov survey found that Americans disagree substantially about acceptable office clothing, especially T-shirts, sandals, and shorts. While 54% consider men's T-shirts acceptable, 34% consider them unacceptable; only 28% approve of men's shorts, compared with 61% who disapprove. Men are also more likely than women to say that shorts and baseball caps are acceptable for men at the office.",
-      "summary_zh": "YouGov 的调查发现，美国人对办公室着装的接受范围存在明显分歧，尤其是在 T 恤、凉鞋和短裤方面。54% 的人认为男士穿 T 恤可以接受，34% 认为不可接受；只有 28% 接受男士穿短裤，61% 表示不接受。相比女性，男性更可能认为男士在办公室穿短裤和棒球帽可以接受。",
-      "hn": {
-        "id": 50547249,
-        "type": "story",
-        "by": "bookofjoe",
-        "score": 15,
-        "descendants": 17,
-        "time": 1795014592,
-        "comments_url": "https://news.ycombinator.com/item?id=50547249"
-      },
-      "hot_score": 2.03,
-      "tags": [
-        "Culture"
+        "Web",
+        "Startups"
       ]
     },
     {
       "title_en": "Nvidia stopped disclosing Singapore sales as revenues hit $104B",
       "url": "https://www.ft.com/content/dbde7a30-548c-4f9d-a4be-7898a0c24dcf",
       "title_zh": "英伟达营收达到 1040 亿美元后停止披露新加坡销售额",
-      "is_new": true,
+      "is_new": false,
       "created_display": "Created: Nov 17, 2026 / 09:12 PT",
       "image_url": null,
       "summary_en": "Nvidia stopped disclosing its Singapore sales as its revenue reached $104 billion. No further details about the reporting change or its reasons are established here.",
@@ -488,8 +938,8 @@
         "id": 50534631,
         "type": "story",
         "by": "louiereederson",
-        "score": 641,
-        "descendants": 286,
+        "score": 657,
+        "descendants": 295,
         "time": 1794935526,
         "comments_url": "https://news.ycombinator.com/item?id=50534631"
       },
@@ -497,342 +947,86 @@
         "Business",
         "Finance"
       ],
-      "hot_score": 1.97
+      "hot_score": 1.1
     },
     {
-      "title_en": "Why is Gemini 4 Carbon taking so long?",
-      "url": "https://kernel.dev/blog/why-is-gemini-4-carbon-taking-so-long/",
-      "title_zh": "Gemini 4 Carbon 为什么要花这么久？",
-      "is_new": true,
-      "created_display": "Created: Nov 17, 2026 / 20:14 PT",
-      "image_url": "https://kernel.dev/blog/why-is-gemini-4-carbon-taking-so-long/og.png",
-      "summary_en": "During a private benchmark, Gemini 4 Carbon took close to an hour to complete tasks that Opus and Astra routinely finished in a few minutes. The investigators traced each step of its runs to determine why it was so much slower. They report that others had also noticed the model's unusually long completion times.",
-      "summary_zh": "在一次内部基准测试中，Gemini 4 Carbon 花了近一小时完成任务，而 Opus 和 Astra 通常只需几分钟。研究人员逐步追踪了它的运行过程，以查明速度如此缓慢的原因。他们表示，其他人也注意到了该模型异常漫长的完成时间。",
-      "hn": {
-        "id": 50541790,
-        "type": "story",
-        "by": "deenadz",
-        "score": 219,
-        "descendants": 111,
-        "time": 1794975244,
-        "comments_url": "https://news.ycombinator.com/item?id=50541790"
-      },
-      "hot_score": 1.92,
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "title_en": "A 4.5M-parameter TTS model runs 70x real-time on CPU and cost just $10 to train",
-      "url": "https://huggingface.co/n4ze3m/tiny-voca",
-      "title_zh": "一款 450 万参数的 TTS 模型在 CPU 上以实时速度 70 倍运行，训练成本仅 10 美元",
-      "is_new": true,
-      "created_display": "Created: Nov 18, 2026 / 07:01 PT",
-      "image_url": "https://cdn-thumbnails.huggingface.co/social-thumbnails/models/n4ze3m/tiny-voca.png",
-      "summary_en": "Tiny-voca is a small English text-to-speech model with two voices, F2 and M2. Its complete model, including the waveform generator, has 4.5 million parameters and was trained from scratch on about 18 hours of synthetic speech for roughly $10. On four CPU threads, it runs at about 70 times real time.",
-      "summary_zh": "Tiny-voca 是一款支持 F2 和 M2 两种声音的轻量级英语文本转语音模型。包含波形生成器在内的完整模型有 450 万个参数，使用约 18 小时合成语音从头训练，成本约为 10 美元。在四个 CPU 线程上，它的运行速度约为实时速度的 70 倍。",
-      "hn": {
-        "id": 50547122,
-        "type": "story",
-        "by": "mrkn1",
-        "score": 15,
-        "descendants": 0,
-        "time": 1795014074,
-        "comments_url": "https://news.ycombinator.com/item?id=50547122"
-      },
-      "hot_score": 1.86,
-      "tags": [
-        "AI",
-        "Hardware"
-      ]
-    },
-    {
-      "title_en": "Highly classified US national security communications network goes down",
-      "url": "https://www.cnn.com/2026/11/17/politics/highly-classified-national-security-communications-network-goes-down",
-      "title_zh": "高度机密的美国国家安全通信网络发生故障",
-      "is_new": true,
-      "created_display": "Created: Nov 17, 2026 / 07:38 PT",
-      "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1227141714-20261117152535850.jpg?c=16x9&q=w_800,c_fill",
-      "summary_en": "The highly classified network used by the National Security Agency for internal communications is down, according to six people familiar with the matter. The reported outage affects a communications system supporting the agency’s internal operations.",
-      "summary_zh": "据六名知情人士透露，美国国家安全局用于内部通信的高度机密网络目前发生故障。此次中断影响了支持该机构内部运作的通信系统。",
-      "hn": {
-        "id": 50532849,
-        "type": "story",
-        "by": "monkeydust",
-        "score": 652,
-        "descendants": 727,
-        "time": 1794929908,
-        "comments_url": "https://news.ycombinator.com/item?id=50532849"
-      },
-      "tags": [
-        "Security"
-      ],
-      "hot_score": 1.79
-    },
-    {
-      "title_en": "Phrack 73",
-      "url": "https://phrack.org/issues/73/introduction_md",
-      "title_zh": "Phrack 73",
-      "is_new": true,
-      "created_display": "Created: Nov 17, 2026 / 10:31 PT",
-      "image_url": "https://phrack.org/images/phrack-new.webp",
-      "summary_en": "Phrack's latest release follows its 40th-anniversary relaunch, which included a printed edition, conference events, talks, and a capture-the-flag challenge. The relaunch aimed to put new research in readers' hands and encourage people to read, research, write, and contribute again. Its stated goal is to inspire readers to take systems apart and investigate how they work.",
-      "summary_zh": "Phrack 的最新一期延续了其 40 周年重启活动，该活动包括纸质版、会议活动、演讲和夺旗挑战。重启的目标是把新的研究成果交到读者手中，并鼓励人们重新阅读、研究、写作和贡献。其明确目标是激发读者拆解系统、探究其工作方式。",
-      "hn": {
-        "id": 50535992,
-        "type": "story",
-        "by": "notmine1337",
-        "score": 443,
-        "descendants": 62,
-        "time": 1794940285,
-        "comments_url": "https://news.ycombinator.com/item?id=50535992"
-      },
-      "hot_score": 1.5,
-      "tags": [
-        "Security",
-        "Culture"
-      ]
-    },
-    {
-      "title_en": "350 years ago, Ole Rømer discovered that light has a finite speed",
-      "url": "https://www.sciencenorway.no/culture-history-history-of-science/350-years-ago-this-man-discovered-that-light-has-a-finite-speed/2737969",
-      "title_zh": "350 年前，奥勒·罗默发现光速有限",
-      "is_new": true,
-      "created_display": "Created: Nov 17, 2026 / 11:25 PT",
-      "image_url": "https://image.sciencenorway.no/2734539.jpg?imageId=2734539&x=0&y=12.76&cropw=100&croph=38.28&panox=0&panoy=12.76&panow=100&panoh=38.28&width=1200&height=683",
-      "summary_en": "In September 1676, Ole Rømer predicted that Jupiter's moon Io would emerge from the planet's shadow 10 minutes later than expected. He presented the prediction to members of the Académie des Sciences in Paris. The observation demonstrated that light takes time to travel.",
-      "summary_zh": "1676 年 9 月，奥勒·罗默预测木星卫星木卫一从行星阴影中出现的时间会比预期晚 10 分钟。他将这一预测提交给巴黎科学院成员。这一观测证明了光的传播需要时间。",
-      "hn": {
-        "id": 50536813,
-        "type": "story",
-        "by": "dxs",
-        "score": 388,
-        "descendants": 126,
-        "time": 1794943527,
-        "comments_url": "https://news.ycombinator.com/item?id=50536813"
-      },
-      "tags": [
-        "Science"
-      ],
-      "hot_score": 1.41
-    },
-    {
-      "title_en": "The x86 CPU: From 4004 to 486",
-      "url": "https://pikuma.com/blog/history-of-x86-4004-to-486",
-      "title_zh": "x86 CPU：从 4004 到 486",
-      "is_new": true,
-      "created_display": "Created: Nov 18, 2026 / 06:47 PT",
-      "image_url": "https://pikuma.com/images/blog/history-of-x86-4004-to-486/thumbnail-1200x630.jpg",
-      "summary_en": "This historical overview traces the x86 CPU family's development from its origins in the early 1970s through the launch of the 486. It explains architectural details such as little-endian byte order, the AX/BX/CX/DX register names, and DOS segmented addresses by following how successive chips were created. The focus is on how the architecture accumulated compatibility and design decisions over time rather than on isolated chip innovations.",
-      "summary_zh": "这篇历史梳理追溯了 x86 CPU 从 20 世纪 70 年代初起源到 486 发布的发展过程。文章通过回顾各代芯片的诞生，解释了小端字节序、AX/BX/CX/DX 寄存器名称以及 DOS 分段地址等架构细节。重点不只是单个芯片的创新，而是架构如何随着时间积累兼容性和设计决策。",
-      "hn": {
-        "id": 50546967,
-        "type": "story",
-        "by": "ibobev",
-        "score": 13,
-        "descendants": 1,
-        "time": 1795013273,
-        "comments_url": "https://news.ycombinator.com/item?id=50546967"
-      },
-      "hot_score": 1.41,
-      "tags": [
-        "Hardware",
-        "Education"
-      ]
-    },
-    {
-      "title_en": "jQuery 4.1.0",
-      "url": "https://github.com/jquery/jquery/releases/tag/4.1.0",
-      "title_zh": "jQuery 4.1.0",
-      "is_new": true,
-      "created_display": "Created: Nov 17, 2026 / 11:50 PT",
-      "image_url": "https://opengraph.githubassets.com/e1636eaccf68c0b4fdb380e5343d3db51b33422fa6d711aae3c13466bb7be3b3/jquery/jquery/releases/tag/4.1.0",
-      "summary_en": "jQuery 4.1.0 was released, with the release notes listing an Ajax change that adds a responseURL field to jqXHR. The same announcement also references a jQuery 3.8.0 release. The update continues development of the JavaScript library across its newer and older release lines.",
-      "summary_zh": "jQuery 4.1.0 已发布，更新说明列出了一项 Ajax 改动：为 jqXHR 添加 responseURL 字段。同一公告还提到了 jQuery 3.8.0 的发布。此次更新同时推进了该 JavaScript 库的新旧版本线。",
-      "hn": {
-        "id": 50537156,
-        "type": "story",
-        "by": "petecooper",
-        "score": 359,
-        "descendants": 189,
-        "time": 1794945040,
-        "comments_url": "https://news.ycombinator.com/item?id=50537156"
-      },
-      "tags": [
-        "Programming"
-      ],
-      "hot_score": 1.35
-    },
-    {
-      "title_en": "U.S. AirForce is looking for old storage Media (CF or PC cards)",
-      "url": "https://sam.gov/workspace/contract/opp/8948e8601e964c6aba9c801eee16b1be/view",
-      "title_zh": "美国空军寻找旧式存储介质（CF 卡或 PC 卡）",
-      "is_new": true,
-      "created_display": "Created: Nov 18, 2026 / 07:35 PT",
+      "title_en": "Microsoft's ONNX Runtime has disappeared from GitHub",
+      "url": "https://github.com/microsoft/onnxruntime",
+      "title_zh": "微软 ONNX Runtime 从 GitHub 消失",
+      "is_new": false,
+      "created_display": "Created: Nov 17, 2026 / 15:18 PT",
       "image_url": null,
-      "summary_en": "The U.S. Air Force is seeking old storage media, specifically CompactFlash or PC cards. The procurement concerns legacy removable storage formats rather than modern storage devices.",
-      "summary_zh": "美国空军正在寻找旧式存储介质，具体包括 CompactFlash 卡或 PC 卡。此次采购针对的是传统可移动存储格式，而非现代存储设备。",
+      "summary_en": "Microsoft's ONNX Runtime has disappeared from GitHub. The available information does not establish why it disappeared, when the change occurred, or what will happen to the project.",
+      "summary_zh": "微软的 ONNX Runtime 已从 GitHub 消失。现有信息无法确认其消失原因、发生时间或项目后续安排。",
       "hn": {
-        "id": 50547583,
+        "id": 50539610,
         "type": "story",
-        "by": "birdboat00",
-        "score": 8,
-        "descendants": 0,
-        "time": 1795016144,
-        "comments_url": "https://news.ycombinator.com/item?id=50547583"
-      },
-      "hot_score": 1.35,
-      "tags": [
-        "Hardware"
-      ]
-    },
-    {
-      "title_en": "MAI Code 2 and Code 2 Flash",
-      "url": "https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/",
-      "title_zh": "MAI Code 2 与 Code 2 Flash",
-      "is_new": true,
-      "created_display": "Created: Nov 17, 2026 / 10:25 PT",
-      "image_url": "https://microsoft.ai/wp-content/uploads/2026/11/MAI-Code-2-Ignite-WithHeader-16x9-1.jpg",
-      "summary_en": "MAI Code 2 and MAI Code 2 Flash are two named systems or models. No further capabilities, availability, or technical specifications are established here.",
-      "summary_zh": "MAI Code 2 和 MAI Code 2 Flash 是两个名为 Code 2 与 Code 2 Flash 的系统或模型。现有信息未提供更多功能、可用性或技术规格。",
-      "hn": {
-        "id": 50535885,
-        "type": "story",
-        "by": "lemonish97",
-        "score": 400,
-        "descendants": 160,
-        "time": 1794939913,
-        "comments_url": "https://news.ycombinator.com/item?id=50535885"
-      },
-      "tags": [
-        "AI"
-      ],
-      "hot_score": 1.34
-    },
-    {
-      "title_en": "Archive Team is archiving the Apple Support Community",
-      "url": "https://wiki.archiveteam.org/index.php/Apple_Discussions",
-      "title_zh": "Archive Team 将归档 Apple 支持社区（11 月 20 日关闭）",
-      "is_new": true,
-      "created_display": "Created: Nov 17, 2026 / 15:32 PT",
-      "image_url": "https://wiki.archiveteam.org/images/thumb/7/76/Archiveteam1.png/40px-Archiveteam1.png",
-      "summary_en": "Archive Team is archiving Apple Discussions, also known as the Apple Support Community and Apple Tech Exchange. The forum lets customers ask questions, share advice, and troubleshoot Apple products and services. The project is maintained by volunteers and depends on donations to cover its infrastructure costs.",
-      "summary_zh": "Archive Team 正在归档 Apple Discussions，即 Apple 支持社区和 Apple Tech Exchange。这个论坛供用户提问、分享建议并排查 Apple 产品和服务的问题。该项目由志愿者维护，并依靠捐款承担基础设施成本。",
-      "hn": {
-        "id": 50539747,
-        "type": "story",
-        "by": "digitaldragon",
-        "score": 248,
-        "descendants": 101,
-        "time": 1794958378,
-        "comments_url": "https://news.ycombinator.com/item?id=50539747"
+        "by": "nvader",
+        "score": 450,
+        "descendants": 98,
+        "time": 1794957529,
+        "comments_url": "https://news.ycombinator.com/item?id=50539610"
       },
       "tags": [
         "Open Source",
-        "DevOps"
-      ],
-      "hot_score": 1.29
-    },
-    {
-      "title_en": "Solid 2.0",
-      "url": "https://www.solidjs.com/blog/solid-2-0-the-long-hold/",
-      "title_zh": "Solid 2.0",
-      "is_new": true,
-      "created_display": "Created: Nov 17, 2026 / 10:56 PT",
-      "image_url": "https://www.solidjs.com/og/blog/solid-2-0-the-long-hold.png",
-      "summary_en": "Solid 2.0 has reached a stable release after five years of development. It adds asynchronous work in the reactive graph, server functions, agent-oriented diagnostics, and a smaller API. Solid's original fine-grained, signal-based approach has since become more common across frontend frameworks. The release builds on that model while simplifying the framework's interface.",
-      "summary_zh": "Solid 2.0 在经过五年开发后达到稳定版本。它加入了响应式图中的异步能力、服务器函数、面向代理的诊断工具，并缩小了 API。Solid 最初采用的细粒度信号式方案如今已在多个前端框架中变得普遍。此次发布在延续这一模型的同时简化了框架接口。",
-      "hn": {
-        "id": 50536387,
-        "type": "story",
-        "by": "pier25",
-        "score": 356,
-        "descendants": 110,
-        "time": 1794941777,
-        "comments_url": "https://news.ycombinator.com/item?id=50536387"
-      },
-      "tags": [
-        "Programming",
-        "Web"
-      ],
-      "hot_score": 1.24
-    },
-    {
-      "title_en": "Harvard researchers find AI coding agents shifted the bottleneck to code review",
-      "url": "https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/",
-      "title_zh": "哈佛研究人员：AI 编码代理将瓶颈转移到了代码审查",
-      "is_new": true,
-      "created_display": "Created: Nov 17, 2026 / 13:16 PT",
-      "image_url": "https://complexdiscovery.com/wp-content/uploads/2026/10/AI-Report-One.jpg",
-      "summary_en": "A working paper covering 718 firms found that companies adopting AI coding agents produced about 30% more code. However, the amount of completed work did not measurably increase, and getting code through review took 49% longer. The study was written by Harvard Ph.D. candidates Fiona Chen and James Stratton and is not identified as peer-reviewed. Its measures suggest that reviewer time and approved work, not raw code output, are important when evaluating coding agents.",
-      "summary_zh": "一篇覆盖 718 家公司的工作论文发现，采用 AI 编码代理的企业产出的代码量增加了约 30%。但完成的工作量没有明显增长，代码通过审查所需的时间反而增加了 49%。论文作者是哈佛博士候选人 Fiona Chen 和 James Stratton，目前未显示已经过同行评审。研究结果表明，评估编码代理时应关注审查时间和最终获批的工作，而不仅是代码产量。",
-      "hn": {
-        "id": 50538303,
-        "type": "story",
-        "by": "judahmeek",
-        "score": 281,
-        "descendants": 366,
-        "time": 1794950172,
-        "comments_url": "https://news.ycombinator.com/item?id=50538303"
-      },
-      "tags": [
-        "AI",
         "Programming"
       ],
-      "hot_score": 1.19
+      "hot_score": 1.06
     },
     {
-      "title_en": "IBM Links Two Nighthawk R3 Chips to Make a 1,040-Qubit Quantum System",
-      "url": "https://www.nextplatform.com/compute/2026/11/17/ibm-links-two-nighthawk-r3-chips-to-make-a-1040-qubit-quantum-system/5310545",
-      "title_zh": "IBM 将两块 Nighthawk R3 芯片连接成 1040 量子比特系统",
+      "title_en": "Unreal Tournament 2004 in the Browser",
+      "url": "https://ut2004.dev/",
+      "title_zh": "在浏览器中运行《虚幻竞技场 2004》",
       "is_new": true,
-      "created_display": "Created: Nov 18, 2026 / 07:46 PT",
-      "image_url": "https://image.nextplatform.com/5310560.jpg?imageId=5310560&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
-      "summary_en": "IBM is linking two Nighthawk R3 chips to create a quantum system with 1,040 qubits. The effort is part of the company's broader push toward a fault-tolerant quantum computer targeted for 2029. The Nighthawk line uses 120-qubit processors with a square-lattice architecture, while the Nighthawk r2 added a reset system capable of more than 100,000 circuits per second.",
-      "summary_zh": "IBM 正将两块 Nighthawk R3 芯片连接起来，构建一个拥有 1040 个量子比特的量子系统。这项工作是其推动在 2029 年实现容错量子计算机计划的一部分。Nighthawk 系列采用拥有 120 个量子比特的处理器和方格架构，而 Nighthawk r2 增加了新的重置系统，吞吐量可超过每秒 10 万个电路。",
+      "created_display": "Created: Nov 18, 2026 / 17:29 PT",
+      "image_url": "https://assets.ut2004.dev/web/og.jpg",
+      "summary_en": "Unreal Tournament 2004 can be played in a browser through WebRTC servers listed on the web master list.",
+      "summary_zh": "《虚幻竞技场 2004》现可在浏览器中运行，并通过 WebRTC 连接网页主服务器列表中的游戏服务器。",
       "hn": {
-        "id": 50547729,
+        "id": 50554935,
         "type": "story",
-        "by": "rbanffy",
-        "score": 6,
-        "descendants": 0,
-        "time": 1795016767,
-        "comments_url": "https://news.ycombinator.com/item?id=50547729"
+        "by": "TheAceOfHearts",
+        "score": 7,
+        "descendants": 1,
+        "time": 1795051769,
+        "comments_url": "https://news.ycombinator.com/item?id=50554935"
       },
-      "hot_score": 1.1,
+      "hot_score": 1.06,
       "tags": [
-        "Hardware",
-        "Science"
+        "Gaming",
+        "Web"
       ]
     },
     {
-      "title_en": "Claude was trained on protein sequences at scale",
-      "url": "http://xinmingtu.cn/blog/2026/claude-opus-5-5-protein-sequences/",
-      "title_zh": "Claude 曾大规模接受蛋白质序列训练",
+      "title_en": "Show HN: Mastra Factory, the open-source software factory we use to build Mastra",
+      "url": "https://news.ycombinator.com/item?id=50548660",
+      "title_zh": "Show HN：Mastra Factory，用于构建 Mastra 的开源软件工厂",
       "is_new": true,
-      "created_display": "Created: Nov 17, 2026 / 19:47 PT",
-      "image_url": "https://xinmingtu.cn/assets/img/llm-bioseq-probe/social_card.png",
-      "summary_en": "Tests on little-studied proteins suggest that the latest Claude models were trained on protein sequences at scale. Claude Fable 5.2 and Claude Opus 5.5 can predict the next amino acid in an unfamiliar bacterial protein, but fail when the sequence is shuffled. Fable 5.2 outperformed the open protein language models tested, while Opus 5.5 matched ProtGPT3-10B; the other frontier models tested showed no comparable capability.",
-      "summary_zh": "针对研究较少的蛋白质进行的测试表明，最新 Claude 模型曾大规模接受蛋白质序列训练。Claude Fable 5.2 和 Claude Opus 5.5 能预测陌生细菌蛋白质序列中的下一个氨基酸，但在序列被打乱后便无法做到。Fable 5.2 击败了测试中的开源蛋白质语言模型，Opus 5.5 则达到 ProtGPT3-10B 的水平；其他受测前沿模型没有表现出类似能力。",
+      "created_display": "Created: Nov 18, 2026 / 08:53 PT",
+      "image_url": null,
+      "summary_en": "The Mastra team has released Mastra Factory, an open-source software factory used to maintain its TypeScript agent framework. Factory merged 238 pull requests last week, compared with 630 merged by humans, while Mastra averages nearly 4 million downloads per week. It combines an agentic kanban board, durable agents, conversational memory, a cited Markdown wiki, PR-triggered sessions, and a customizable cloud sandbox.",
+      "summary_zh": "Mastra 团队发布了 Mastra Factory，这是用于维护其 TypeScript 智能体框架的开源软件工厂。上周 Factory 合并了 238 个拉取请求，人类则合并了 630 个；Mastra 每周平均下载量接近 400 万次。Factory 集成了智能体看板、持久化智能体、对话记忆、带来源引用的 Markdown wiki、由 PR 评论触发的会话，以及可定制的云沙箱。",
       "hn": {
-        "id": 50541619,
+        "id": 50548660,
         "type": "story",
-        "by": "gmays",
-        "score": 130,
-        "descendants": 58,
-        "time": 1794973663,
-        "comments_url": "https://news.ycombinator.com/item?id=50541619"
+        "by": "codekarate",
+        "score": 82,
+        "descendants": 31,
+        "time": 1795020822,
+        "comments_url": "https://news.ycombinator.com/item?id=50548660"
       },
-      "hot_score": 1.08,
+      "hot_score": 1.05,
       "tags": [
-        "AI"
+        "Show HN",
+        "Open Source",
+        "Programming"
       ]
     },
     {
-      "title_en": "A Primer on Fourier Series",
+      "title_en": "A Primer on Fourier Series (2025)",
       "url": "https://arxiv.org/abs/2510.18203",
       "title_zh": "傅里叶级数入门",
-      "is_new": true,
+      "is_new": false,
       "created_display": "Created: Nov 18, 2026 / 06:44 PT",
       "image_url": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
       "summary_en": "A textbook titled “A Primer on Fourier Series” is intended for both undergraduate and graduate courses. It includes exercises along with complete solutions at the end of the book. The work provides a structured introduction to Fourier series for students at different levels.",
@@ -841,46 +1035,665 @@
         "id": 50546922,
         "type": "story",
         "by": "teleforce",
-        "score": 8,
-        "descendants": 0,
+        "score": 110,
+        "descendants": 31,
         "time": 1795013073,
         "comments_url": "https://news.ycombinator.com/item?id=50546922"
       },
-      "hot_score": 0.8,
       "tags": [
         "Education",
         "Science",
         "Startups"
+      ],
+      "hot_score": 1.03
+    },
+    {
+      "title_en": "Highly classified US national security communications network goes down",
+      "url": "https://www.cnn.com/2026/11/17/politics/highly-classified-national-security-communications-network-goes-down",
+      "title_zh": "高度机密的美国国家安全通信网络发生故障",
+      "is_new": false,
+      "created_display": "Created: Nov 17, 2026 / 07:38 PT",
+      "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1227141714-20261117152535850.jpg?c=16x9&q=w_800,c_fill",
+      "summary_en": "The highly classified network used by the National Security Agency for internal communications is down, according to six people familiar with the matter. The reported outage affects a communications system supporting the agency’s internal operations.",
+      "summary_zh": "据六名知情人士透露，美国国家安全局用于内部通信的高度机密网络目前发生故障。此次中断影响了支持该机构内部运作的通信系统。",
+      "hn": {
+        "id": 50532849,
+        "type": "story",
+        "by": "monkeydust",
+        "score": 664,
+        "descendants": 748,
+        "time": 1794929908,
+        "comments_url": "https://news.ycombinator.com/item?id=50532849"
+      },
+      "tags": [
+        "Security"
+      ],
+      "hot_score": 1.02
+    },
+    {
+      "title_en": "Why is Gemini 4 Carbon taking so long?",
+      "url": "https://kernel.dev/blog/why-is-gemini-4-carbon-taking-so-long/",
+      "title_zh": "Gemini 4 Carbon 为什么要花这么久？",
+      "is_new": false,
+      "created_display": "Created: Nov 17, 2026 / 20:14 PT",
+      "image_url": "https://kernel.dev/blog/why-is-gemini-4-carbon-taking-so-long/og.png",
+      "summary_en": "During a private benchmark, Gemini 4 Carbon took close to an hour to complete tasks that Opus and Astra routinely finished in a few minutes. The investigators traced each step of its runs to determine why it was so much slower. They report that others had also noticed the model's unusually long completion times.",
+      "summary_zh": "在一次内部基准测试中，Gemini 4 Carbon 花了近一小时完成任务，而 Opus 和 Astra 通常只需几分钟。研究人员逐步追踪了它的运行过程，以查明速度如此缓慢的原因。他们表示，其他人也注意到了该模型异常漫长的完成时间。",
+      "hn": {
+        "id": 50541790,
+        "type": "story",
+        "by": "deenadz",
+        "score": 264,
+        "descendants": 138,
+        "time": 1794975244,
+        "comments_url": "https://news.ycombinator.com/item?id=50541790"
+      },
+      "tags": [
+        "AI"
+      ],
+      "hot_score": 0.87
+    },
+    {
+      "title_en": "Previous-Token Prediction Based LLM Inversion for Prompt Reconstruction",
+      "url": "https://arxiv.org/abs/2607.29378",
+      "title_zh": "基于前序 Token 预测的 LLM 逆向：重建提示词",
+      "is_new": true,
+      "created_display": "Created: Nov 18, 2026 / 17:27 PT",
+      "image_url": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+      "summary_en": "Researchers propose a black-box method for reconstructing prompts from the outputs of a language model. They train an inverse language model from scratch on synthetic input-output data generated by the target model, using previous-token prediction rather than requiring model weights or logits. The method can sample multiple prompt reconstructions that produce similar responses and is reported to generalize across datasets.",
+      "summary_zh": "研究人员提出了一种黑盒方法，用于根据语言模型的输出重建提示词。他们利用目标模型生成的合成输入输出数据，从零训练一个逆向语言模型，并采用前序 Token 预测，不需要目标模型的权重或 logits。该方法可以采样多个能产生相似响应的提示词重建结果，并据称能够跨数据集泛化。",
+      "hn": {
+        "id": 50554908,
+        "type": "story",
+        "by": "dalmo3",
+        "score": 6,
+        "descendants": 2,
+        "time": 1795051622,
+        "comments_url": "https://news.ycombinator.com/item?id=50554908"
+      },
+      "hot_score": 0.86,
+      "tags": [
+        "AI"
       ]
     },
     {
-      "title_en": "Why Fibonacci?",
-      "url": "https://www.evilgeniuslabs.org/why-fibonacci",
-      "title_zh": "为什么是斐波那契？",
-      "is_new": true,
-      "created_display": "Created: Nov 17, 2026 / 21:35 PT",
-      "image_url": "https://www.evilgeniuslabs.org/assets/fermat-recipe.jpg",
-      "summary_en": "Interactive animations explain why a Fermat spiral can work better than a grid or rings, why the relevant angle is 137.508 degrees, and where Fibonacci numbers enter the construction. The project grew out of the author's work creating Fibonacci-inspired LED designs. It also draws on an explanation of the golden angle used in the Halo Pixel project.",
-      "summary_zh": "互动动画解释了为什么费马螺线可能优于网格或同心环、相关角度为何是 137.508 度，以及斐波那契数列在构造中从何而来。这个项目源于作者设计受斐波那契启发的 LED 作品。作者也参考了 Halo Pixel 项目对黄金角的解释。",
+      "title_en": "Phrack 73",
+      "url": "https://phrack.org/issues/73/introduction_md",
+      "title_zh": "Phrack 73",
+      "is_new": false,
+      "created_display": "Created: Nov 17, 2026 / 10:31 PT",
+      "image_url": "https://phrack.org/images/phrack-new.webp",
+      "summary_en": "Phrack's latest release follows its 40th-anniversary relaunch, which included a printed edition, conference events, talks, and a capture-the-flag challenge. The relaunch aimed to put new research in readers' hands and encourage people to read, research, write, and contribute again. Its stated goal is to inspire readers to take systems apart and investigate how they work.",
+      "summary_zh": "Phrack 的最新一期延续了其 40 周年重启活动，该活动包括纸质版、会议活动、演讲和夺旗挑战。重启的目标是把新的研究成果交到读者手中，并鼓励人们重新阅读、研究、写作和贡献。其明确目标是激发读者拆解系统、探究其工作方式。",
       "hn": {
-        "id": 50542264,
+        "id": 50535992,
         "type": "story",
-        "by": "_Microft",
-        "score": 70,
-        "descendants": 13,
-        "time": 1794980102,
-        "comments_url": "https://news.ycombinator.com/item?id=50542264"
+        "by": "notmine1337",
+        "score": 460,
+        "descendants": 74,
+        "time": 1794940285,
+        "comments_url": "https://news.ycombinator.com/item?id=50535992"
+      },
+      "tags": [
+        "Security",
+        "Culture"
+      ],
+      "hot_score": 0.82
+    },
+    {
+      "title_en": "Sexp Matrix",
+      "url": "https://lisper.cc/ideas/entangle.html",
+      "title_zh": "Sexp Matrix",
+      "is_new": true,
+      "created_display": "Created: Nov 18, 2026 / 12:01 PT",
+      "image_url": null,
+      "summary_en": "Sexp Matrix is the subject of this item.",
+      "summary_zh": "该条目介绍 Sexp Matrix。",
+      "hn": {
+        "id": 50551359,
+        "type": "story",
+        "by": "todsacerdoti",
+        "score": 36,
+        "descendants": 11,
+        "time": 1795032110,
+        "comments_url": "https://news.ycombinator.com/item?id=50551359"
+      },
+      "hot_score": 0.82,
+      "tags": [
+        "Programming"
+      ]
+    },
+    {
+      "title_en": "Show HN: Type Fighter 2",
+      "url": "https://typefighter2.com/",
+      "title_zh": "Show HN：Type Fighter 2",
+      "is_new": false,
+      "created_display": "Created: Nov 18, 2026 / 03:11 PT",
+      "image_url": null,
+      "summary_en": "Type Fighter II is an arcade-inspired game designed to help people learn touch typing. It is free, requires no account, and stores progress locally. The game works on mobile devices but is best played with a physical keyboard.",
+      "summary_zh": "Type Fighter II 是一款帮助用户学习盲打的街机风格游戏。它免费使用、无需注册，进度保存在本地。游戏支持移动设备，但配合实体键盘体验最佳。",
+      "hn": {
+        "id": 50544821,
+        "type": "story",
+        "by": "torumitch",
+        "score": 127,
+        "descendants": 56,
+        "time": 1795000313,
+        "comments_url": "https://news.ycombinator.com/item?id=50544821"
+      },
+      "tags": [
+        "Show HN",
+        "Gaming"
+      ],
+      "hot_score": 0.78
+    },
+    {
+      "title_en": "350 years ago, Ole Rømer discovered that light has a finite speed",
+      "url": "https://www.sciencenorway.no/culture-history-history-of-science/350-years-ago-this-man-discovered-that-light-has-a-finite-speed/2737969",
+      "title_zh": "350 年前，奥勒·罗默发现光速有限",
+      "is_new": false,
+      "created_display": "Created: Nov 17, 2026 / 11:25 PT",
+      "image_url": "https://image.sciencenorway.no/2734539.jpg?imageId=2734539&x=0&y=12.76&cropw=100&croph=38.28&panox=0&panoy=12.76&panow=100&panoh=38.28&width=1200&height=683",
+      "summary_en": "In September 1676, Ole Rømer predicted that Jupiter's moon Io would emerge from the planet's shadow 10 minutes later than expected. He presented the prediction to members of the Académie des Sciences in Paris. The observation demonstrated that light takes time to travel.",
+      "summary_zh": "1676 年 9 月，奥勒·罗默预测木星卫星木卫一从行星阴影中出现的时间会比预期晚 10 分钟。他将这一预测提交给巴黎科学院成员。这一观测证明了光的传播需要时间。",
+      "hn": {
+        "id": 50536813,
+        "type": "story",
+        "by": "dxs",
+        "score": 408,
+        "descendants": 139,
+        "time": 1794943527,
+        "comments_url": "https://news.ycombinator.com/item?id=50536813"
+      },
+      "tags": [
+        "Science"
+      ],
+      "hot_score": 0.77
+    },
+    {
+      "title_en": "MAI Code 2 and Code 2 Flash",
+      "url": "https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/",
+      "title_zh": "MAI Code 2 与 Code 2 Flash",
+      "is_new": false,
+      "created_display": "Created: Nov 17, 2026 / 10:25 PT",
+      "image_url": "https://microsoft.ai/wp-content/uploads/2026/11/MAI-Code-2-Ignite-WithHeader-16x9-1.jpg",
+      "summary_en": "MAI Code 2 and MAI Code 2 Flash are two named systems or models. No further capabilities, availability, or technical specifications are established here.",
+      "summary_zh": "MAI Code 2 和 MAI Code 2 Flash 是两个名为 Code 2 与 Code 2 Flash 的系统或模型。现有信息未提供更多功能、可用性或技术规格。",
+      "hn": {
+        "id": 50535885,
+        "type": "story",
+        "by": "lemonish97",
+        "score": 417,
+        "descendants": 169,
+        "time": 1794939913,
+        "comments_url": "https://news.ycombinator.com/item?id=50535885"
+      },
+      "tags": [
+        "AI"
+      ],
+      "hot_score": 0.74
+    },
+    {
+      "title_en": "Palo Alto Networks to Acquire Applied Compute for $4.5B",
+      "url": "https://investors.paloaltonetworks.com/news-releases/news-release-details/palo-alto-networks-acquire-applied-compute-bringing-secure-open",
+      "title_zh": "Palo Alto Networks 将以 45 亿美元收购 Applied Compute",
+      "is_new": true,
+      "created_display": "Created: Nov 18, 2026 / 15:49 PT",
+      "image_url": null,
+      "summary_en": "Palo Alto Networks plans to acquire Applied Compute for $4.5 billion.",
+      "summary_zh": "Palo Alto Networks 计划以 45 亿美元收购 Applied Compute。",
+      "hn": {
+        "id": 50554009,
+        "type": "story",
+        "by": "alpb",
+        "score": 11,
+        "descendants": 0,
+        "time": 1795045753,
+        "comments_url": "https://news.ycombinator.com/item?id=50554009"
       },
       "hot_score": 0.73,
       "tags": [
-        "Education"
+        "Business"
+      ]
+    },
+    {
+      "title_en": "jQuery 4.1.0",
+      "url": "https://github.com/jquery/jquery/releases/tag/4.1.0",
+      "title_zh": "jQuery 4.1.0",
+      "is_new": false,
+      "created_display": "Created: Nov 17, 2026 / 11:50 PT",
+      "image_url": "https://opengraph.githubassets.com/e1636eaccf68c0b4fdb380e5343d3db51b33422fa6d711aae3c13466bb7be3b3/jquery/jquery/releases/tag/4.1.0",
+      "summary_en": "jQuery 4.1.0 was released, with the release notes listing an Ajax change that adds a responseURL field to jqXHR. The same announcement also references a jQuery 3.8.0 release. The update continues development of the JavaScript library across its newer and older release lines.",
+      "summary_zh": "jQuery 4.1.0 已发布，更新说明列出了一项 Ajax 改动：为 jqXHR 添加 responseURL 字段。同一公告还提到了 jQuery 3.8.0 的发布。此次更新同时推进了该 JavaScript 库的新旧版本线。",
+      "hn": {
+        "id": 50537156,
+        "type": "story",
+        "by": "petecooper",
+        "score": 372,
+        "descendants": 199,
+        "time": 1794945040,
+        "comments_url": "https://news.ycombinator.com/item?id=50537156"
+      },
+      "tags": [
+        "Programming"
+      ],
+      "hot_score": 0.71
+    },
+    {
+      "title_en": "AI Will Not Make You Rich (2025)",
+      "url": "https://colossus.com/article/ai-will-not-make-you-rich/",
+      "title_zh": "AI 不会让你发财（2025）",
+      "is_new": true,
+      "created_display": "Created: Nov 18, 2026 / 17:51 PT",
+      "image_url": "https://colossus.com/wp-content/uploads/2025/09/Neumann-preview-card.jpg",
+      "summary_en": "The piece argues that AI-driven disruption is real and predictable. The available excerpt provides instructions for downloading the article as an EPUB and sending it to a Kindle or Kindle app.",
+      "summary_zh": "文章认为，AI 带来的颠覆是真实且可预见的。现有内容还提供了将文章下载为 EPUB 并发送到 Kindle 或 Kindle 应用的操作说明。",
+      "hn": {
+        "id": 50555093,
+        "type": "story",
+        "by": "madars",
+        "score": 4,
+        "descendants": 0,
+        "time": 1795053088,
+        "comments_url": "https://news.ycombinator.com/item?id=50555093"
+      },
+      "hot_score": 0.7,
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "title_en": "Solid 2.0",
+      "url": "https://www.solidjs.com/blog/solid-2-0-the-long-hold/",
+      "title_zh": "Solid 2.0",
+      "is_new": false,
+      "created_display": "Created: Nov 17, 2026 / 10:56 PT",
+      "image_url": "https://www.solidjs.com/og/blog/solid-2-0-the-long-hold.png",
+      "summary_en": "Solid 2.0 has reached a stable release after five years of development. It adds asynchronous work in the reactive graph, server functions, agent-oriented diagnostics, and a smaller API. Solid's original fine-grained, signal-based approach has since become more common across frontend frameworks. The release builds on that model while simplifying the framework's interface.",
+      "summary_zh": "Solid 2.0 在经过五年开发后达到稳定版本。它加入了响应式图中的异步能力、服务器函数、面向代理的诊断工具，并缩小了 API。Solid 最初采用的细粒度信号式方案如今已在多个前端框架中变得普遍。此次发布在延续这一模型的同时简化了框架接口。",
+      "hn": {
+        "id": 50536387,
+        "type": "story",
+        "by": "pier25",
+        "score": 371,
+        "descendants": 116,
+        "time": 1794941777,
+        "comments_url": "https://news.ycombinator.com/item?id=50536387"
+      },
+      "tags": [
+        "Programming",
+        "Web"
+      ],
+      "hot_score": 0.68
+    },
+    {
+      "title_en": "Harvard researchers find AI coding agents shifted the bottleneck to code review",
+      "url": "https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/",
+      "title_zh": "哈佛研究人员：AI 编码代理将瓶颈转移到了代码审查",
+      "is_new": false,
+      "created_display": "Created: Nov 17, 2026 / 13:16 PT",
+      "image_url": "https://complexdiscovery.com/wp-content/uploads/2026/10/AI-Report-One.jpg",
+      "summary_en": "A working paper covering 718 firms found that companies adopting AI coding agents produced about 30% more code. However, the amount of completed work did not measurably increase, and getting code through review took 49% longer. The study was written by Harvard Ph.D. candidates Fiona Chen and James Stratton and is not identified as peer-reviewed. Its measures suggest that reviewer time and approved work, not raw code output, are important when evaluating coding agents.",
+      "summary_zh": "一篇覆盖 718 家公司的工作论文发现，采用 AI 编码代理的企业产出的代码量增加了约 30%。但完成的工作量没有明显增长，代码通过审查所需的时间反而增加了 49%。论文作者是哈佛博士候选人 Fiona Chen 和 James Stratton，目前未显示已经过同行评审。研究结果表明，评估编码代理时应关注审查时间和最终获批的工作，而不仅是代码产量。",
+      "hn": {
+        "id": 50538303,
+        "type": "story",
+        "by": "judahmeek",
+        "score": 319,
+        "descendants": 440,
+        "time": 1794950172,
+        "comments_url": "https://news.ycombinator.com/item?id=50538303"
+      },
+      "tags": [
+        "AI",
+        "Programming"
+      ],
+      "hot_score": 0.66
+    },
+    {
+      "title_en": "Archive Team is archiving the Apple Support Community",
+      "url": "https://wiki.archiveteam.org/index.php/Apple_Discussions",
+      "title_zh": "Archive Team 将归档 Apple 支持社区（11 月 20 日关闭）",
+      "is_new": false,
+      "created_display": "Created: Nov 17, 2026 / 15:32 PT",
+      "image_url": "https://wiki.archiveteam.org/images/thumb/7/76/Archiveteam1.png/40px-Archiveteam1.png",
+      "summary_en": "Archive Team is archiving Apple Discussions, also known as the Apple Support Community and Apple Tech Exchange. The forum lets customers ask questions, share advice, and troubleshoot Apple products and services. The project is maintained by volunteers and depends on donations to cover its infrastructure costs.",
+      "summary_zh": "Archive Team 正在归档 Apple Discussions，即 Apple 支持社区和 Apple Tech Exchange。这个论坛供用户提问、分享建议并排查 Apple 产品和服务的问题。该项目由志愿者维护，并依靠捐款承担基础设施成本。",
+      "hn": {
+        "id": 50539747,
+        "type": "story",
+        "by": "digitaldragon",
+        "score": 262,
+        "descendants": 105,
+        "time": 1794958378,
+        "comments_url": "https://news.ycombinator.com/item?id=50539747"
+      },
+      "tags": [
+        "Open Source",
+        "DevOps"
+      ],
+      "hot_score": 0.63
+    },
+    {
+      "title_en": "Launch HN: Maritime (YC F26) – A managed cloud for production AI agents",
+      "url": "https://news.ycombinator.com/item?id=50549188",
+      "title_zh": "Launch HN：Maritime（YC F26）——面向生产环境 AI 智能体的托管云",
+      "is_new": true,
+      "created_display": "Created: Nov 18, 2026 / 09:26 PT",
+      "image_url": null,
+      "summary_en": "Maritime is building an agent-native cloud covering custom environments and AI-agent lifecycle management. Its founders argue that conventional sandboxes address only a small part of the infrastructure problem, leaving users to build storage, wake and sleep behavior, triggers, and scheduling themselves. The company says it spoke with hundreds of agent builders, from personal-assistant and coding agents to specialized healthcare systems, to identify these recurring needs.",
+      "summary_zh": "Maritime 正在构建面向 AI 智能体的原生云平台，覆盖定制环境和智能体生命周期管理。其创始人认为，传统沙箱只解决了基础设施问题的一小部分，用户仍需自行构建存储、休眠与唤醒、触发器和调度等功能。该公司表示，它曾与数百家智能体开发团队交流，涵盖个人助理、编程智能体和专业医疗系统，以识别这些反复出现的需求。",
+      "hn": {
+        "id": 50549188,
+        "type": "story",
+        "by": "ashriv",
+        "score": 44,
+        "descendants": 34,
+        "time": 1795022788,
+        "comments_url": "https://news.ycombinator.com/item?id=50549188"
+      },
+      "hot_score": 0.61,
+      "tags": [
+        "Startups",
+        "AI",
+        "DevOps"
+      ]
+    },
+    {
+      "title_en": "Show HN: Robotics needs better CAD, so I wrote a B-rep kernel and 3,487 tests",
+      "url": "https://springcraft-ai.github.io/springrep/",
+      "title_zh": "Show HN：机器人需要更好的 CAD，因此我写了一个 B-rep 内核和 3,487 个测试",
+      "is_new": true,
+      "created_display": "Created: Nov 18, 2026 / 13:08 PT",
+      "image_url": "https://cdn.springcraft.ai/springrep/springrep-preview-mwmpm0jd.png",
+      "summary_en": "Springcraft has released springrep, a dependency-free B-rep kernel written in safe Rust, along with the MIT-licensed brep-conformance test suite. The kernel supports operations including fillets, sweeps, lofts, shells, offsets, STEP, and exact geometric queries. The 3,487-test suite exposed hundreds of bugs and edge cases, and springrep now passes all of its tests.",
+      "summary_zh": "Springcraft 发布了用安全 Rust 编写、无依赖的 B-rep 内核 springrep，以及采用 MIT 许可证的 brep-conformance 测试套件。该内核支持圆角、扫掠、放样、壳、偏移、STEP 和精确几何查询等操作。包含 3,487 个测试的套件发现了数百个错误和边界情况，目前 springrep 已通过全部测试。",
+      "hn": {
+        "id": 50552140,
+        "type": "story",
+        "by": "atomarch",
+        "score": 20,
+        "descendants": 2,
+        "time": 1795036127,
+        "comments_url": "https://news.ycombinator.com/item?id=50552140"
+      },
+      "hot_score": 0.58,
+      "tags": [
+        "Show HN",
+        "Open Source",
+        "Programming"
+      ]
+    },
+    {
+      "title_en": "SuperEMeans: Making e-means 3× faster",
+      "url": "https://www.lkuffo.com/superemeans/",
+      "title_zh": "SuperEMeans：让 e-means 提速 3 倍",
+      "is_new": true,
+      "created_display": "Created: Nov 18, 2026 / 08:09 PT",
+      "image_url": "https://www.lkuffo.com/superemeans/superemeans-blog.png",
+      "summary_en": "SuperEMeans combines SuperKMeans and e-means to cluster high-dimensional vectors three times faster without a reported quality trade-off. The method targets vector-embedding clustering, which is a building block for large-scale indexes such as IVF and ScaNN. The implementation is available for use through the SuperKMeans project.",
+      "summary_zh": "SuperEMeans 将 SuperKMeans 与 e-means 融合，在不牺牲已报告质量的情况下，让高维向量聚类速度提升 3 倍。该方法面向向量嵌入聚类，而聚类是 IVF、ScaNN 等大规模索引的基础组件。实现已通过 SuperKMeans 项目提供使用。",
+      "hn": {
+        "id": 50548038,
+        "type": "story",
+        "by": "lkuffo2",
+        "score": 49,
+        "descendants": 0,
+        "time": 1795018190,
+        "comments_url": "https://news.ycombinator.com/item?id=50548038"
+      },
+      "hot_score": 0.55,
+      "tags": [
+        "AI",
+        "Data"
+      ]
+    },
+    {
+      "title_en": "Can Peer Review Survive AI-Generated Text? [pdf]",
+      "url": "https://www.sas.upenn.edu/~jesusfv/Peer_Review.pdf",
+      "title_zh": "同行评审能否经受 AI 生成文本？",
+      "is_new": false,
+      "created_display": "Created: Nov 18, 2026 / 05:51 PT",
+      "image_url": null,
+      "summary_en": "The piece asks whether peer review can withstand the growing use of AI-generated text. It focuses on the implications of AI-written material for the process of evaluating scholarly work.",
+      "summary_zh": "这篇文章探讨同行评审能否应对日益增多的 AI 生成文本。它关注 AI 撰写的材料会如何影响学术作品的评估过程。",
+      "hn": {
+        "id": 50546312,
+        "type": "story",
+        "by": "torutofu",
+        "score": 66,
+        "descendants": 78,
+        "time": 1795009863,
+        "comments_url": "https://news.ycombinator.com/item?id=50546312"
+      },
+      "tags": [
+        "AI",
+        "Science"
+      ],
+      "hot_score": 0.54
+    },
+    {
+      "title_en": "Pushing WireGuard on macOS to 5 Gbit/s",
+      "url": "https://www.firezone.dev/blog/apple-client-performance",
+      "title_zh": "让 macOS 上的 WireGuard 达到 5 Gbit/s",
+      "is_new": true,
+      "created_display": "Created: Nov 18, 2026 / 15:57 PT",
+      "image_url": "https://www.firezone.dev/blog/opengraph-image?dc0a4d310bb2b9d5",
+      "summary_en": "The project aims to increase WireGuard VPN throughput on macOS to 5 Gbit/s. The work focuses on correct backpressure to avoid packet loss and batching to reduce per-packet overhead. The authors argue that VPN optimization should target Apple and Windows platforms as well as Linux, since enterprise users commonly connect from those systems.",
+      "summary_zh": "该项目旨在将 macOS 上 WireGuard VPN 的吞吐量提升至 5 Gbit/s。相关工作重点解决避免丢包的正确背压机制，以及降低单包开销的批处理技术。作者认为，VPN 优化不仅应关注 Linux，也应覆盖 Apple 和 Windows 平台，因为企业用户普遍使用这些系统连接网络。",
+      "hn": {
+        "id": 50554076,
+        "type": "story",
+        "by": "wh33zle",
+        "score": 8,
+        "descendants": 0,
+        "time": 1795046221,
+        "comments_url": "https://news.ycombinator.com/item?id=50554076"
+      },
+      "hot_score": 0.54,
+      "tags": [
+        "Programming"
+      ]
+    },
+    {
+      "title_en": "FailTrace – Reproduce a failed GitHub Actions run locally from its URL",
+      "url": "https://github.com/Ri4dH/failtrace",
+      "title_zh": "FailTrace：通过 URL 在本地复现失败的 GitHub Actions 运行",
+      "is_new": true,
+      "created_display": "Created: Nov 18, 2026 / 17:30 PT",
+      "image_url": "https://opengraph.githubassets.com/1460411aabc095beff2fa913adeb332487b7e3cc834691c859fbee9c221169c7/Ri4dH/failtrace",
+      "summary_en": "FailTrace takes the URL of a failed GitHub Actions run and identifies the failed job and step. It matches that failure to the workflow file at the exact commit, extracts the relevant log output, and explains what is needed to reproduce the issue locally. The tool is designed to reduce guesswork when debugging CI failures.",
+      "summary_zh": "FailTrace 接收失败的 GitHub Actions 运行 URL，并找出失败的作业和步骤。它会将失败过程与对应提交中的工作流文件匹配，提取相关日志，并说明在本地复现问题所需的条件。该工具旨在减少调试 CI 失败时的猜测。",
+      "hn": {
+        "id": 50554941,
+        "type": "story",
+        "by": "ri4dh",
+        "score": 4,
+        "descendants": 0,
+        "time": 1795051843,
+        "comments_url": "https://news.ycombinator.com/item?id=50554941"
+      },
+      "hot_score": 0.54,
+      "tags": [
+        "DevOps",
+        "Programming"
+      ]
+    },
+    {
+      "title_en": "Claude was trained on protein sequences at scale",
+      "url": "http://xinmingtu.cn/blog/2026/claude-opus-5-5-protein-sequences/",
+      "title_zh": "Claude 曾大规模接受蛋白质序列训练",
+      "is_new": false,
+      "created_display": "Created: Nov 17, 2026 / 19:47 PT",
+      "image_url": "https://xinmingtu.cn/assets/img/llm-bioseq-probe/social_card.png",
+      "summary_en": "Tests on little-studied proteins suggest that the latest Claude models were trained on protein sequences at scale. Claude Fable 5.2 and Claude Opus 5.5 can predict the next amino acid in an unfamiliar bacterial protein, but fail when the sequence is shuffled. Fable 5.2 outperformed the open protein language models tested, while Opus 5.5 matched ProtGPT3-10B; the other frontier models tested showed no comparable capability.",
+      "summary_zh": "针对研究较少的蛋白质进行的测试表明，最新 Claude 模型曾大规模接受蛋白质序列训练。Claude Fable 5.2 和 Claude Opus 5.5 能预测陌生细菌蛋白质序列中的下一个氨基酸，但在序列被打乱后便无法做到。Fable 5.2 击败了测试中的开源蛋白质语言模型，Opus 5.5 则达到 ProtGPT3-10B 的水平；其他受测前沿模型没有表现出类似能力。",
+      "hn": {
+        "id": 50541619,
+        "type": "story",
+        "by": "gmays",
+        "score": 165,
+        "descendants": 71,
+        "time": 1794973663,
+        "comments_url": "https://news.ycombinator.com/item?id=50541619"
+      },
+      "tags": [
+        "AI"
+      ],
+      "hot_score": 0.53
+    },
+    {
+      "title_en": "Horizon Labs Report",
+      "url": "https://horizon-labs.ai/",
+      "title_zh": "Horizon Labs 报告",
+      "is_new": true,
+      "created_display": "Created: Nov 18, 2026 / 12:12 PT",
+      "image_url": null,
+      "summary_en": "The Horizon Labs report lists researchers affiliated with EPFL, the ELLIS Institute Tübingen, the Max Planck Institute for Intelligent Systems, Exponential Security Labs, the University of Tübingen, the UK Government, and Imperial College London.",
+      "summary_zh": "Horizon Labs 报告列出了来自 EPFL、图宾根 ELLIS 研究所、马克斯·普朗克智能系统研究所、Exponential Security Labs、图宾根大学、英国政府和帝国理工学院的研究人员。",
+      "hn": {
+        "id": 50551509,
+        "type": "story",
+        "by": "gmays",
+        "score": 23,
+        "descendants": 6,
+        "time": 1795032754,
+        "comments_url": "https://news.ycombinator.com/item?id=50551509"
+      },
+      "hot_score": 0.53,
+      "tags": [
+        "Science",
+        "Security",
+        "Education",
+        "Politics"
+      ]
+    },
+    {
+      "title_en": "Octopus, Gecko and Tortoise: the 3 scanners hunting your AI keys",
+      "url": "https://tin.computer/blog/fake-ai-crawler-secrets-scanners",
+      "title_zh": "Octopus、Gecko 和 Tortoise：搜寻 AI 密钥的三个扫描器",
+      "is_new": true,
+      "created_display": "Created: Nov 18, 2026 / 10:53 PT",
+      "image_url": "https://tin.computer/opengraph-image",
+      "summary_en": "The report describes three scanners that search websites for secrets associated with AI tools. Octopus impersonates GPTBot or ClaudeBot and requests `/.env`; Gecko uses a truncated browser user agent and looks for files containing keys used by Claude Code, Codex, Cursor, and Gemini CLI; Tortoise is smaller and slower. The scanners were observed on ten websites between late September and November 18, 2026.",
+      "summary_zh": "报告介绍了三个在网站上搜寻 AI 工具密钥的扫描器。Octopus 冒充 GPTBot 或 ClaudeBot 请求 `/.env`；Gecko 使用截断的浏览器 User-Agent，寻找存放 Claude Code、Codex、Cursor 和 Gemini CLI 密钥的文件；Tortoise 规模较小、速度较慢。报告称，这些扫描器于 2026 年 9 月下旬至 11 月 18 日期间出现在十个网站上。",
+      "hn": {
+        "id": 50550461,
+        "type": "story",
+        "by": "demegire",
+        "score": 27,
+        "descendants": 6,
+        "time": 1795027997,
+        "comments_url": "https://news.ycombinator.com/item?id=50550461"
+      },
+      "hot_score": 0.48,
+      "tags": [
+        "Security",
+        "AI",
+        "Web"
+      ]
+    },
+    {
+      "title_en": "When Everything Has Changed, What Do We Do Next?",
+      "url": "https://css-tricks.com/when-everything-has-changed/",
+      "title_zh": "一切都变了之后，我们接下来怎么办？",
+      "is_new": true,
+      "created_display": "Created: Nov 18, 2026 / 12:12 PT",
+      "image_url": "https://css-tricks.com/wp-content/uploads/2018/06/brain-gears.png",
+      "summary_en": "The essay examines how the technology industry and its work have been reshaped by hyperscalers such as Microsoft and Meta, along with AI companies including OpenAI and Anthropic. It argues that these changes matter regardless of whether the AI investment boom succeeds or fails. The author considers how people in the industry might navigate the resulting uncertainty.",
+      "summary_zh": "文章考察了 Microsoft、Meta 等云计算巨头以及 OpenAI、Anthropic 等 AI 公司如何重塑科技行业和相关工作。作者认为，无论 AI 投资热潮最终成功还是失败，这些变化都已经产生影响。文章进一步思考行业从业者应如何应对由此带来的不确定性。",
+      "hn": {
+        "id": 50551503,
+        "type": "story",
+        "by": "dxs",
+        "score": 21,
+        "descendants": 6,
+        "time": 1795032743,
+        "comments_url": "https://news.ycombinator.com/item?id=50551503"
+      },
+      "hot_score": 0.48,
+      "tags": [
+        "Business",
+        "AI"
+      ]
+    },
+    {
+      "title_en": "Oops All Shells – Stupid Vulnerability Name Generator",
+      "url": "https://oops-all-shells.netlify.app/",
+      "title_zh": "Oops All Shells——愚蠢的漏洞名称生成器",
+      "is_new": true,
+      "created_display": "Created: Nov 18, 2026 / 15:44 PT",
+      "image_url": null,
+      "summary_en": "Oops All Shells is a fictional vulnerability-name generator. Its creators describe it as a satirical response to the marketing-oriented vulnerability naming industry, with no peer review.",
+      "summary_zh": "Oops All Shells 是一个虚构的漏洞名称生成器。创建者称其是在讽刺日益营销化的漏洞命名行业，并明确表示内容未经同行评审。",
+      "hn": {
+        "id": 50553964,
+        "type": "story",
+        "by": "mister_mort",
+        "score": 7,
+        "descendants": 1,
+        "time": 1795045499,
+        "comments_url": "https://news.ycombinator.com/item?id=50553964"
+      },
+      "hot_score": 0.42,
+      "tags": [
+        "Security",
+        "Science"
+      ]
+    },
+    {
+      "title_en": "A 4.5M-parameter TTS model runs 70x real-time on CPU and cost just $10 to train",
+      "url": "https://huggingface.co/n4ze3m/tiny-voca",
+      "title_zh": "一款 450 万参数的 TTS 模型在 CPU 上以实时速度 70 倍运行，训练成本仅 10 美元",
+      "is_new": false,
+      "created_display": "Created: Nov 18, 2026 / 07:01 PT",
+      "image_url": "https://cdn-thumbnails.huggingface.co/social-thumbnails/models/n4ze3m/tiny-voca.png",
+      "summary_en": "Tiny-voca is a small English text-to-speech model with two voices, F2 and M2. Its complete model, including the waveform generator, has 4.5 million parameters and was trained from scratch on about 18 hours of synthetic speech for roughly $10. On four CPU threads, it runs at about 70 times real time.",
+      "summary_zh": "Tiny-voca 是一款支持 F2 和 M2 两种声音的轻量级英语文本转语音模型。包含波形生成器在内的完整模型有 450 万个参数，使用约 18 小时合成语音从头训练，成本约为 10 美元。在四个 CPU 线程上，它的运行速度约为实时速度的 70 倍。",
+      "hn": {
+        "id": 50547122,
+        "type": "story",
+        "by": "mrkn1",
+        "score": 42,
+        "descendants": 3,
+        "time": 1795014074,
+        "comments_url": "https://news.ycombinator.com/item?id=50547122"
+      },
+      "tags": [
+        "AI",
+        "Hardware"
+      ],
+      "hot_score": 0.4
+    },
+    {
+      "title_en": "Ask HN: Cheapest CPU Vms",
+      "url": "https://news.ycombinator.com/item?id=50554381",
+      "title_zh": "Ask HN：最便宜的 CPU 虚拟机",
+      "is_new": true,
+      "created_display": "Created: Nov 18, 2026 / 16:30 PT",
+      "image_url": null,
+      "summary_en": "A user is looking for alternatives to the cheapest CPU virtual machines after reporting that Hetzner’s lowest-priced plans have been out of stock for weeks or months.",
+      "summary_zh": "由于 Hetzner 最便宜的 CPU 虚拟机套餐已经缺货数周甚至数月，一名用户正在寻找价格同样低廉或更便宜的替代方案。",
+      "hn": {
+        "id": 50554381,
+        "type": "story",
+        "by": "mrkn1",
+        "score": 5,
+        "descendants": 3,
+        "time": 1795048218,
+        "comments_url": "https://news.ycombinator.com/item?id=50554381"
+      },
+      "hot_score": 0.4,
+      "tags": [
+        "DevOps",
+        "Hardware"
       ]
     },
     {
       "title_en": "Web Browser Engineering (2021)",
       "url": "https://browser.engineering/",
       "title_zh": "《浏览器工程》（2021）",
-      "is_new": true,
+      "is_new": false,
       "created_display": "Created: Nov 17, 2026 / 12:01 PT",
       "image_url": "https://browser.engineering/im/cover.jpg",
       "summary_en": "Web Browser Engineering explains how browsers work by building a basic but complete browser in a few thousand lines of Python. It covers networking through JavaScript and focuses on making browser internals understandable. The book uses language-agnostic pseudocode and interactive demonstrations while concentrating on ray tracing and rasterization. It is intended for readers with basic programming knowledge and high-school mathematics.",
@@ -889,8 +1702,8 @@
         "id": 50537290,
         "type": "story",
         "by": "ibobev",
-        "score": 187,
-        "descendants": 26,
+        "score": 194,
+        "descendants": 29,
         "time": 1794945695,
         "comments_url": "https://news.ycombinator.com/item?id=50537290"
       },
@@ -899,13 +1712,37 @@
         "Programming",
         "Web"
       ],
-      "hot_score": 0.71
+      "hot_score": 0.38
+    },
+    {
+      "title_en": "Show HN: ADE Index – a sourced and ranked index of 975 agentic coding tools",
+      "url": "https://adeindex.com",
+      "title_zh": "Show HN：ADE Index——收录 975 个智能体编程工具的有来源排名索引",
+      "is_new": true,
+      "created_display": "Created: Nov 18, 2026 / 17:33 PT",
+      "image_url": "https://adeindex.com/opengraph-image?ff975eed159599c9",
+      "summary_en": "ADE Index catalogs agent workspaces, CLI agents, editors, and builders used for coding agents. Its listings include real screenshots, prices, and release activity, with one entry per product. The index currently describes 383 agent workspaces and supports operating multiple coding agents from desktop and mobile.",
+      "summary_zh": "ADE Index 汇集了用于运行和管理编程智能体的工作区、CLI 智能体、编辑器和构建工具。每个产品条目包含真实截图、价格和发布活动，并实行一产品一条目。目前索引收录了 383 个智能体工作区，并支持在桌面和移动设备上操作多个编程智能体。",
+      "hn": {
+        "id": 50554973,
+        "type": "story",
+        "by": "jonnyasmar",
+        "score": 3,
+        "descendants": 1,
+        "time": 1795052032,
+        "comments_url": "https://news.ycombinator.com/item?id=50554973"
+      },
+      "hot_score": 0.37,
+      "tags": [
+        "Show HN",
+        "AI"
+      ]
     },
     {
       "title_en": "Tencent Hy4 Flash",
       "url": "https://hy.tencent.ai/research/hy4-flash",
       "title_zh": "腾讯 Hy4 Flash",
-      "is_new": true,
+      "is_new": false,
       "created_display": "Created: Nov 17, 2026 / 13:06 PT",
       "image_url": null,
       "summary_en": "Tencent Hy4 Flash is presented as a named system or model. No further technical details, capabilities, or release information are established here.",
@@ -914,21 +1751,21 @@
         "id": 50538184,
         "type": "story",
         "by": "lyra1337",
-        "score": 153,
-        "descendants": 24,
+        "score": 165,
+        "descendants": 26,
         "time": 1794949568,
         "comments_url": "https://news.ycombinator.com/item?id=50538184"
       },
       "tags": [
         "AI"
       ],
-      "hot_score": 0.63
+      "hot_score": 0.34
     },
     {
       "title_en": "Not Everything Needs an LLM",
       "url": "https://newsletter.posthog.com/p/decision-models",
       "title_zh": "并非一切都需要 LLM",
-      "is_new": true,
+      "is_new": false,
       "created_display": "Created: Nov 17, 2026 / 10:16 PT",
       "image_url": "https://substackcdn.com/image/fetch/$s_!wD8h!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff406379a-4ff2-4e21-aaac-69cda7d7b37e_1200x630.png",
       "summary_en": "The discussion describes using small decision checks to bypass LLM calls in most cases. One example uses thresholds of 0.4 for PII detection and 0.85 for a Slack bot. Splitting one broad question into two narrower yes-or-no questions allowed 98.7% of summaries to skip the LLM call. The approach uses explicit trade-offs about the cost of different mistakes to reduce unnecessary model usage.",
@@ -937,21 +1774,68 @@
         "id": 50535740,
         "type": "story",
         "by": "speckx",
-        "score": 171,
-        "descendants": 72,
+        "score": 180,
+        "descendants": 74,
         "time": 1794939378,
         "comments_url": "https://news.ycombinator.com/item?id=50535740"
       },
       "tags": [
         "AI"
       ],
-      "hot_score": 0.57
+      "hot_score": 0.32
+    },
+    {
+      "title_en": "Recurrent Interface Networks",
+      "url": "https://arxiv.org/abs/2212.11972",
+      "title_zh": "循环接口网络",
+      "is_new": true,
+      "created_display": "Created: Nov 18, 2026 / 17:13 PT",
+      "image_url": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+      "summary_en": "Recurrent Interface Networks are an attention-based architecture that separates core computation from input and output dimensionality. They perform global self-attention over latent tokens and use cross-attention to route information between latent and data tokens. The authors apply recurrent latent self-conditioning during diffusion and report state-of-the-art pixel diffusion results for image and video generation at 1024×1024 resolution.",
+      "summary_zh": "循环接口网络是一种基于注意力的架构，将核心计算与输入输出维度解耦。它在潜在 Token 上执行全局自注意力，并通过交叉注意力在潜在 Token 与数据 Token 之间传递信息。作者在扩散过程中采用循环式潜在自条件机制，并报告称该方法在 1024×1024 图像和视频生成的像素扩散模型上达到当前最佳结果。",
+      "hn": {
+        "id": 50554759,
+        "type": "story",
+        "by": "E-Reverance",
+        "score": 3,
+        "descendants": 0,
+        "time": 1795050796,
+        "comments_url": "https://news.ycombinator.com/item?id=50554759"
+      },
+      "hot_score": 0.3,
+      "tags": [
+        "AI",
+        "Science"
+      ]
+    },
+    {
+      "title_en": "Why Fibonacci?",
+      "url": "https://www.evilgeniuslabs.org/why-fibonacci",
+      "title_zh": "为什么是斐波那契？",
+      "is_new": false,
+      "created_display": "Created: Nov 17, 2026 / 21:35 PT",
+      "image_url": "https://www.evilgeniuslabs.org/assets/fermat-recipe.jpg",
+      "summary_en": "Interactive animations explain why a Fermat spiral can work better than a grid or rings, why the relevant angle is 137.508 degrees, and where Fibonacci numbers enter the construction. The project grew out of the author's work creating Fibonacci-inspired LED designs. It also draws on an explanation of the golden angle used in the Halo Pixel project.",
+      "summary_zh": "互动动画解释了为什么费马螺线可能优于网格或同心环、相关角度为何是 137.508 度，以及斐波那契数列在构造中从何而来。这个项目源于作者设计受斐波那契启发的 LED 作品。作者也参考了 Halo Pixel 项目对黄金角的解释。",
+      "hn": {
+        "id": 50542264,
+        "type": "story",
+        "by": "_Microft",
+        "score": 81,
+        "descendants": 16,
+        "time": 1794980102,
+        "comments_url": "https://news.ycombinator.com/item?id=50542264"
+      },
+      "tags": [
+        "Education"
+      ],
+      "hot_score": 0.29
     },
     {
       "title_en": "Cerebras Disaggregated Inference",
       "url": "https://www.cerebras.ai/blog/cerebras-launches-disaggregated-inference",
       "title_zh": "Cerebras 的解耦推理",
-      "is_new": true,
+      "is_new": false,
       "created_display": "Created: Nov 17, 2026 / 16:56 PT",
       "image_url": "https://cdn.sanity.io/images/e4qjo92p/production/517b4d022eca11a8f17ad828fc698df3b3cd7d86-1920x1080.png?rect=0,36,1920,1008&w=1200&h=630&fit=max&auto=format",
       "summary_en": "Cerebras has deployed a disaggregated inference setup in which AMD GPUs handle prompt processing, or prefill, while wafer-scale Cerebras systems generate the output, or decode. The company says this combination delivers five times more tokens per megawatt without reducing token-generation speed. The design is intended to address growing demand for fast inference. It separates the two phases so each hardware type handles the workload it is designed for.",
@@ -960,8 +1844,8 @@
         "id": 50540472,
         "type": "story",
         "by": "emschwartz",
-        "score": 96,
-        "descendants": 24,
+        "score": 105,
+        "descendants": 26,
         "time": 1794963383,
         "comments_url": "https://news.ycombinator.com/item?id=50540472"
       },
@@ -969,13 +1853,85 @@
         "AI",
         "Hardware"
       ],
-      "hot_score": 0.57
+      "hot_score": 0.27
+    },
+    {
+      "title_en": "Ask HN: When does your app need its own UI vs. using it via MCP?",
+      "url": "https://news.ycombinator.com/item?id=50554686",
+      "title_zh": "Ask HN：应用何时需要独立 UI，何时只需通过 MCP 使用？",
+      "is_new": true,
+      "created_display": "Created: Nov 18, 2026 / 17:04 PT",
+      "image_url": null,
+      "summary_en": "The discussion asks when an application should provide its own user interface instead of exposing data through MCP to Claude or ChatGPT. It considers a future in which most work happens inside conversational AI systems and asks how application developers should build for that environment.",
+      "summary_zh": "讨论聚焦于应用何时应提供独立用户界面，何时只需通过 MCP 向 Claude 或 ChatGPT 提供数据。问题还设想了未来大部分工作都在对话式 AI 系统中完成的场景，并探讨应用开发者应如何面向这种环境构建产品。",
+      "hn": {
+        "id": 50554686,
+        "type": "story",
+        "by": "amoorthy",
+        "score": 3,
+        "descendants": 1,
+        "time": 1795050260,
+        "comments_url": "https://news.ycombinator.com/item?id=50554686"
+      },
+      "hot_score": 0.27,
+      "tags": [
+        "Programming",
+        "Design",
+        "AI"
+      ]
+    },
+    {
+      "title_en": "Younger adults more likely to say acceptable to wear T-shirts&sweatpants to work",
+      "url": "https://yougov.com/en-us/articles/55583-younger-adults-are-more-likely-than-older-ones-to-say-its-acceptable-to-wear-t-shirts-and-sweatpants-to-work",
+      "title_zh": "年轻人更可能认为上班穿 T 恤和运动裤可以接受",
+      "is_new": false,
+      "created_display": "Created: Nov 18, 2026 / 07:09 PT",
+      "image_url": "https://ygo-assets-websites-editorial-emea.yougov.net/images/GettyImages-1351899602.format-webp.webp",
+      "summary_en": "A YouGov survey found that Americans disagree substantially about acceptable office clothing, especially T-shirts, sandals, and shorts. While 54% consider men's T-shirts acceptable, 34% consider them unacceptable; only 28% approve of men's shorts, compared with 61% who disapprove. Men are also more likely than women to say that shorts and baseball caps are acceptable for men at the office.",
+      "summary_zh": "YouGov 的调查发现，美国人对办公室着装的接受范围存在明显分歧，尤其是在 T 恤、凉鞋和短裤方面。54% 的人认为男士穿 T 恤可以接受，34% 认为不可接受；只有 28% 接受男士穿短裤，61% 表示不接受。相比女性，男性更可能认为男士在办公室穿短裤和棒球帽可以接受。",
+      "hn": {
+        "id": 50547249,
+        "type": "story",
+        "by": "bookofjoe",
+        "score": 23,
+        "descendants": 74,
+        "time": 1795014592,
+        "comments_url": "https://news.ycombinator.com/item?id=50547249"
+      },
+      "tags": [
+        "Culture"
+      ],
+      "hot_score": 0.22
+    },
+    {
+      "title_en": "IBM Links Two Nighthawk R3 Chips to Make a 1,040-Qubit Quantum System",
+      "url": "https://www.nextplatform.com/compute/2026/11/17/ibm-links-two-nighthawk-r3-chips-to-make-a-1040-qubit-quantum-system/5310545",
+      "title_zh": "IBM 将两块 Nighthawk R3 芯片连接成 1040 量子比特系统",
+      "is_new": false,
+      "created_display": "Created: Nov 18, 2026 / 07:46 PT",
+      "image_url": "https://image.nextplatform.com/5310560.jpg?imageId=5310560&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+      "summary_en": "IBM is linking two Nighthawk R3 chips to create a quantum system with 1,040 qubits. The effort is part of the company's broader push toward a fault-tolerant quantum computer targeted for 2029. The Nighthawk line uses 120-qubit processors with a square-lattice architecture, while the Nighthawk r2 added a reset system capable of more than 100,000 circuits per second.",
+      "summary_zh": "IBM 正将两块 Nighthawk R3 芯片连接起来，构建一个拥有 1040 个量子比特的量子系统。这项工作是其推动在 2029 年实现容错量子计算机计划的一部分。Nighthawk 系列采用拥有 120 个量子比特的处理器和方格架构，而 Nighthawk r2 增加了新的重置系统，吞吐量可超过每秒 10 万个电路。",
+      "hn": {
+        "id": 50547729,
+        "type": "story",
+        "by": "rbanffy",
+        "score": 21,
+        "descendants": 0,
+        "time": 1795016767,
+        "comments_url": "https://news.ycombinator.com/item?id=50547729"
+      },
+      "tags": [
+        "Hardware",
+        "Science"
+      ],
+      "hot_score": 0.22
     },
     {
       "title_en": "Launch HN: StarSling (YC P25) – Self-improving CI for agent-volume repos",
       "url": "https://news.ycombinator.com/item?id=50536468",
       "title_zh": "Show HN：StarSling（YC P25）——面向代理规模仓库的自我改进 CI",
-      "is_new": true,
+      "is_new": false,
       "created_display": "Created: Nov 17, 2026 / 11:01 PT",
       "image_url": "https://starsling.dev/images/starsling-brand-og.jpg",
       "summary_en": "StarSling offers GitHub Actions runners with AI agents that create pull requests to improve tests and workflows. Each CI job runs in an ephemeral sandbox on Zen 5 machines with NVMe storage and supports concurrent agent jobs. The team reports reducing Mastra's slowest workflow from 29 minutes 56 seconds to 5 minutes 6 seconds, and making a better-auth test job 5.4 times faster. Its agents are designed to lower CI costs over time by continuously improving workflows.",
@@ -984,8 +1940,8 @@
         "id": 50536468,
         "type": "story",
         "by": "yonasb",
-        "score": 85,
-        "descendants": 40,
+        "score": 87,
+        "descendants": 48,
         "time": 1794942103,
         "comments_url": "https://news.ycombinator.com/item?id=50536468"
       },
@@ -995,13 +1951,85 @@
         "AI",
         "Startups"
       ],
-      "hot_score": 0.3
+      "hot_score": 0.16
+    },
+    {
+      "title_en": "VB Harness – Make local coding agents verify their own work",
+      "url": "https://github.com/Viktotovich/vb-harness-for-agentic-building",
+      "title_zh": "VB Harness——让本地编程智能体自行验证工作",
+      "is_new": true,
+      "created_display": "Created: Nov 18, 2026 / 11:24 PT",
+      "image_url": "https://opengraph.githubassets.com/cdf4235eca03c3b31394d4cd52130e419f0b12746bd1e34d037eb79f05c58935/V-and-Bruno/vb-harness-for-agentic-building",
+      "summary_en": "VB Harness makes local coding agents work in small tasks and isolated copies, using a project’s own checks to validate each change. It supports LM Studio, Ollama, and other OpenAI-compatible models, and retains changes only when type checks, linting, builds, tests, and independent review succeed. The tool is designed to make local agents accountable without trying to make the underlying model smarter.",
+      "summary_zh": "VB Harness 将本地编程智能体的工作拆分为小任务，并在隔离副本中执行，通过项目自身的检查来验证每次修改。它支持 LM Studio、Ollama 和其他兼容 OpenAI API 的模型，只有在类型检查、代码检查、构建、测试和独立复审均通过后才会保留改动。该工具旨在让本地智能体对结果负责，而不是试图直接提升底层模型的智能程度。",
+      "hn": {
+        "id": 50550829,
+        "type": "story",
+        "by": "vova2k",
+        "score": 9,
+        "descendants": 0,
+        "time": 1795029875,
+        "comments_url": "https://news.ycombinator.com/item?id=50550829"
+      },
+      "hot_score": 0.16,
+      "tags": [
+        "Programming",
+        "AI"
+      ]
+    },
+    {
+      "title_en": "Identity Verification Built for Devs",
+      "url": "https://www.idswyft.app/",
+      "title_zh": "为开发者打造的身份验证",
+      "is_new": true,
+      "created_display": "Created: Nov 18, 2026 / 15:41 PT",
+      "image_url": "https://www.idswyft.app/vc-identity-card.png",
+      "summary_en": "The service provides an open-source identity-verification API with OCR, liveness detection, and face matching. It supports deterministic decisions and can be self-hosted with Docker or run on managed cloud infrastructure. The project describes itself as GDPR-friendly.",
+      "summary_zh": "该服务提供开源身份验证 API，支持 OCR、活体检测和人脸匹配。它支持确定性决策，可通过 Docker 自托管，也可以运行在托管云基础设施上。项目称其符合 GDPR 友好原则。",
+      "hn": {
+        "id": 50553931,
+        "type": "story",
+        "by": "mooreds",
+        "score": 3,
+        "descendants": 1,
+        "time": 1795045260,
+        "comments_url": "https://news.ycombinator.com/item?id=50553931"
+      },
+      "hot_score": 0.14,
+      "tags": [
+        "Open Source",
+        "Privacy",
+        "DevOps"
+      ]
+    },
+    {
+      "title_en": "Ergodicity: What Does It Mean?",
+      "url": "https://leonlins.com/writing/ergodicity",
+      "title_zh": "遍历性：它意味着什么？",
+      "is_new": true,
+      "created_display": "Created: Nov 18, 2026 / 15:32 PT",
+      "image_url": "https://leonlins.com/_astro/ergo_5.QZFMwLYG_ZmpUbU.webp",
+      "summary_en": "The essay explains why the distinction between ensemble averages and time averages matters for investing and risk. It argues that investment and wealth processes are non-ergodic, so expected values can be misleading when applied directly to individual outcomes. The author uses the concept to develop an accessible explanation of ergodicity in finance.",
+      "summary_zh": "文章解释了集合平均与时间平均的区别为何会影响投资和风险判断。作者认为，投资和财富过程具有非遍历性，因此将期望值直接用于个人结果时可能会产生误导。文章以此为基础，试图用易懂的方式解释遍历性在金融中的含义。",
+      "hn": {
+        "id": 50553852,
+        "type": "story",
+        "by": "AlinaFilomena",
+        "score": 3,
+        "descendants": 0,
+        "time": 1795044731,
+        "comments_url": "https://news.ycombinator.com/item?id=50553852"
+      },
+      "hot_score": 0.13,
+      "tags": [
+        "Finance"
+      ]
     },
     {
       "title_en": "Classical Energies Learn to Reason 1k× Faster Than Looped Models",
       "url": "https://arxiv.org/abs/2611.17309",
       "title_zh": "经典能量模型比循环模型推理快 1000 倍",
-      "is_new": true,
+      "is_new": false,
       "created_display": "Created: Nov 17, 2026 / 21:12 PT",
       "image_url": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
       "summary_en": "The paper introduces CRAM, a learned version of a Hopfield and Tank energy function, as an alternative to looped reasoning models. CRAM solved 99.996% of Sudoku-Extreme and 100% of Maze-Unique test puzzles, with reported training times of 42 ms and 132 ms on one GPU. It matched the highest accuracy of baseline looped models on Sudoku-Extreme while using at least 282 times fewer inference FLOPs, though the authors caution that simple puzzles may not measure reasoning scalability well.",
@@ -1010,23 +2038,23 @@
         "id": 50542137,
         "type": "story",
         "by": "espeed",
-        "score": 19,
-        "descendants": 0,
+        "score": 23,
+        "descendants": 1,
         "time": 1794978767,
         "comments_url": "https://news.ycombinator.com/item?id=50542137"
       },
-      "hot_score": 0.18,
       "tags": [
         "AI",
         "Hardware",
         "Energy"
-      ]
+      ],
+      "hot_score": 0.08
     },
     {
       "title_en": "My Emacs 31 contributions",
       "url": "https://xenodium.com/my-emacs-31-contributions",
       "title_zh": "我对 Emacs 31 的贡献",
-      "is_new": true,
+      "is_new": false,
       "created_display": "Created: Nov 16, 2026 / 06:26 PT",
       "image_url": "https://xenodium.com/share.png",
       "summary_en": "The author describes contributing changes to upstream Emacs after previously finding the process difficult to approach. A major hurdle was assigning copyright to the Free Software Foundation through a slow, paper-based process. The piece also argues that open-source projects, including Emacs, often depend on unpaid contributors and need financial support from users or employers.",
@@ -1035,23 +2063,23 @@
         "id": 50517929,
         "type": "story",
         "by": "xenodium",
-        "score": 89,
-        "descendants": 10,
+        "score": 118,
+        "descendants": 18,
         "time": 1794839170,
         "comments_url": "https://news.ycombinator.com/item?id=50517929"
       },
-      "hot_score": 0.07,
       "tags": [
         "Open Source",
         "Programming",
         "Legal"
-      ]
+      ],
+      "hot_score": 0.07
     },
     {
       "title_en": "A Perfect SimCity",
       "url": "https://www.jeffquast.com/post/a-perfect-simcity/",
       "title_zh": "一座完美的 SimCity 城市",
-      "is_new": true,
+      "is_new": false,
       "created_display": "Created: Nov 14, 2026 / 21:54 PT",
       "image_url": "https://www.jeffquast.com/img/avatar.jpg",
       "summary_en": "After years of playing SimCity, the author used the game's open source code and Python tools to investigate how its 0-to-1000 city score is determined. The experiments produced five algorithmically designed high-scoring cities and five high-population cities. The work uses Micropolis and MicropolisCore, open-source ports that faithfully reproduce the rules of the 1989 game.",
@@ -1060,47 +2088,23 @@
         "id": 50504373,
         "type": "story",
         "by": "mariuz",
-        "score": 161,
-        "descendants": 62,
+        "score": 222,
+        "descendants": 122,
         "time": 1794722062,
         "comments_url": "https://news.ycombinator.com/item?id=50504373"
       },
-      "hot_score": 0.05,
       "tags": [
         "Open Source",
         "Gaming",
         "Programming"
-      ]
-    },
-    {
-      "title_en": "Show HN: Unref – A Python dead code finder built on Ruff's parser",
-      "url": "https://github.com/Apakottur/unref",
-      "title_zh": "Show HN：Unref——基于 Ruff 解析器的 Python 死代码查找器",
-      "is_new": true,
-      "created_display": "Created: Nov 16, 2026 / 05:30 PT",
-      "image_url": "https://opengraph.githubassets.com/6b6fa2151c82da53de6288174f029a9b290d0f5fc98d7942b0d45054331b2ea3/Apakottur/unref",
-      "summary_en": "Unref is a Python dead-code finder built with Rust and Ruff's parser, created because existing alternatives did not work reliably on the author's codebases. It can scan all of CPython in under a second and has found substantial dead code in the author's team's projects. The tool is intended for low-configuration use and is already being used in continuous integration.",
-      "summary_zh": "Unref 是一款使用 Rust 和 Ruff 解析器构建的 Python 死代码查找器，起因是现有替代工具无法可靠适配作者的代码库。它能在不到一秒内检查完整的 CPython，并在作者团队的项目中发现了大量死代码。该工具定位于低配置使用，目前已用于持续集成。",
-      "hn": {
-        "id": 50517410,
-        "type": "story",
-        "by": "McAvey",
-        "score": 53,
-        "descendants": 13,
-        "time": 1794835830,
-        "comments_url": "https://news.ycombinator.com/item?id=50517410"
-      },
-      "hot_score": 0.04,
-      "tags": [
-        "Show HN",
-        "Programming"
-      ]
+      ],
+      "hot_score": 0.06
     },
     {
       "title_en": "Fun with Constrained Programming (2012)",
       "url": "https://blog.cmpxchg8b.com/2012/09/fun-with-constrained-programming.html",
       "title_zh": "受限编程趣谈",
-      "is_new": true,
+      "is_new": false,
       "created_display": "Created: Nov 14, 2026 / 18:45 PT",
       "image_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEizs_zwdJB0z6m0zNan2AByCACR0GuCCrvvXbjcZHkT8jyihlCGjGNL3ya8htZS-dVcZVWtxg_Ek0lwPyhDecI2Ln_Lq_5SZ5Aa4zZul6wav3SOrh8Xp28aEYjtdcxtjKtdrGVL_4txtvA/w1200-h630-p-k-no-nu/winrar_fail_crc.png",
       "summary_en": "RAR files can contain bytecode for a simple x86-like virtual machine called RarVM. Because filters are executed automatically during unrar, the author examines whether code could escape the VM's sandbox. The discussion also considers what calls besides `write` might be available.",
@@ -1109,7 +2113,7 @@
         "id": 50503492,
         "type": "story",
         "by": "colejohnson66",
-        "score": 94,
+        "score": 102,
         "descendants": 4,
         "time": 1794710757,
         "comments_url": "https://news.ycombinator.com/item?id=50503492"
@@ -1123,7 +2127,7 @@
       "title_en": "When AI Knows More Than It Can Offer",
       "url": "https://medium.com/@smoking2man/when-ai-knows-more-than-it-can-offer-how-training-turns-an-intelligent-assistant-into-a-generator-7e700f05163e",
       "title_zh": "当 AI 知道得比它能提供的更多",
-      "is_new": true,
+      "is_new": false,
       "created_display": "Created: Nov 15, 2026 / 07:59 PT",
       "image_url": null,
       "summary_en": "It frames training as a process that can turn an intelligent assistant into a generator.",
@@ -1132,21 +2136,94 @@
         "id": 50507918,
         "type": "story",
         "by": "Aldus551",
-        "score": 58,
-        "descendants": 28,
+        "score": 90,
+        "descendants": 55,
         "time": 1794758363,
         "comments_url": "https://news.ycombinator.com/item?id=50507918"
       },
-      "hot_score": 0.02,
       "tags": [
         "AI"
+      ],
+      "hot_score": 0.03
+    },
+    {
+      "title_en": "Show HN: Unref – A Python dead code finder built on Ruff's parser",
+      "url": "https://github.com/Apakottur/unref",
+      "title_zh": "Show HN：Unref——基于 Ruff 解析器的 Python 死代码查找器",
+      "is_new": false,
+      "created_display": "Created: Nov 16, 2026 / 05:30 PT",
+      "image_url": "https://opengraph.githubassets.com/6b6fa2151c82da53de6288174f029a9b290d0f5fc98d7942b0d45054331b2ea3/Apakottur/unref",
+      "summary_en": "Unref is a Python dead-code finder built with Rust and Ruff's parser, created because existing alternatives did not work reliably on the author's codebases. It can scan all of CPython in under a second and has found substantial dead code in the author's team's projects. The tool is intended for low-configuration use and is already being used in continuous integration.",
+      "summary_zh": "Unref 是一款使用 Rust 和 Ruff 解析器构建的 Python 死代码查找器，起因是现有替代工具无法可靠适配作者的代码库。它能在不到一秒内检查完整的 CPython，并在作者团队的项目中发现了大量死代码。该工具定位于低配置使用，目前已用于持续集成。",
+      "hn": {
+        "id": 50517410,
+        "type": "story",
+        "by": "McAvey",
+        "score": 59,
+        "descendants": 17,
+        "time": 1794835830,
+        "comments_url": "https://news.ycombinator.com/item?id=50517410"
+      },
+      "tags": [
+        "Show HN",
+        "Programming"
+      ],
+      "hot_score": 0.03
+    },
+    {
+      "title_en": "Show HN: Open-source, real-time object tracking for live video feeds",
+      "url": "https://github.com/aryamandarda/tamserve",
+      "title_zh": "Show HN：面向实时视频流的开源实时目标跟踪",
+      "is_new": true,
+      "created_display": "Created: Nov 16, 2026 / 13:14 PT",
+      "image_url": "https://repository-images.githubusercontent.com/1453712334/2654889e-5808-485c-a426-4ec795152ca2",
+      "summary_en": "Tamserve runs Meta’s SAM 3 on live camera feeds, detecting named objects and tracking them across multiple cameras. On an RTX 4090, it is reported to be four times faster than SAM 3’s tracker for arbitrary objects while retaining 92% of its accuracy; for people, it can handle 16 cameras concurrently. Its memory use stays around 3.5 GB on a 3,000-frame video, while SAM 3 runs out of memory at frame 423.",
+      "summary_zh": "Tamserve 在实时摄像头画面上运行 Meta 的 SAM 3，可根据名称发现目标，并在多个摄像头之间持续跟踪。在 RTX 4090 上，对于任意目标，其速度据称是 SAM 3 跟踪器的 4 倍，同时保持 92% 的准确率；针对人员，它可以同时处理 16 个摄像头。处理 3,000 帧视频时，其内存占用保持在约 3.5 GB，而 SAM 3 在第 423 帧就会耗尽内存。",
+      "hn": {
+        "id": 50523377,
+        "type": "story",
+        "by": "aryaman_darda",
+        "score": 46,
+        "descendants": 2,
+        "time": 1794863679,
+        "comments_url": "https://news.ycombinator.com/item?id=50523377"
+      },
+      "hot_score": 0.03,
+      "tags": [
+        "Show HN",
+        "Open Source",
+        "AI",
+        "Privacy"
+      ]
+    },
+    {
+      "title_en": "Dumping an AES key from a MyQ garage opener to stop rebooting when offline",
+      "url": "https://kusha.me/blog/stop_myq_homebridge_819lmb_rebooting/",
+      "title_zh": "从 MyQ 车库门控制器中导出 AES 密钥，解决离线重启问题",
+      "is_new": true,
+      "created_display": "Created: Nov 16, 2026 / 15:47 PT",
+      "image_url": "https://kusha.me/imgs/145d4d43b2f05e68a7ca.png",
+      "summary_en": "A MyQ device repeatedly attempts to contact Chamberlain’s cloud endpoints when isolated on an IoT VLAN without internet access. If those domains are unresolved or redirected to an unavailable address, the connection attempts hang and time out. The device’s watchdog eventually reboots the device or its Wi-Fi module every five to ten minutes, making local HomeKit control unavailable.",
+      "summary_zh": "当 MyQ 设备被隔离在没有互联网连接的 IoT VLAN 中时，它会不断尝试联系 Chamberlain 的云端点。如果这些域名无法解析或被重定向到不可用地址，连接尝试就会挂起并超时。设备看门狗最终每 5 到 10 分钟重启设备或 Wi-Fi 模块，导致本地 HomeKit 控制失效。",
+      "hn": {
+        "id": 50525260,
+        "type": "story",
+        "by": "kusha",
+        "score": 40,
+        "descendants": 16,
+        "time": 1794872846,
+        "comments_url": "https://news.ycombinator.com/item?id=50525260"
+      },
+      "hot_score": 0.03,
+      "tags": [
+        "Security"
       ]
     },
     {
       "title_en": "IPv6 delegation, an unusually subtle failure mode",
       "url": "https://savyasacheejha.com/posts/why-odhcpd/",
       "title_zh": "IPv6 前缀委派：一种异常微妙的故障模式",
-      "is_new": true,
+      "is_new": false,
       "created_display": "Created: Nov 15, 2026 / 10:06 PT",
       "image_url": "https://savyasacheejha.com/processed_images/cover.9c945b52eb23e34e.jpg",
       "summary_en": "The author found that reconfiguring a WAN connection caused IPv6 to fail on a custom home network. Restarting pppd left Google reachable by DNS but not by network connection, leading to an investigation of router advertisements and RA daemons. The investigation ended with odhcpd, a daemon designed for home networks behind unreliable ISPs.",
@@ -1155,21 +2232,44 @@
         "id": 50509141,
         "type": "story",
         "by": "genghizkhan",
-        "score": 49,
-        "descendants": 31,
+        "score": 63,
+        "descendants": 45,
         "time": 1794765973,
         "comments_url": "https://news.ycombinator.com/item?id=50509141"
       },
-      "hot_score": 0.02,
       "tags": [
         "Programming"
+      ],
+      "hot_score": 0.02
+    },
+    {
+      "title_en": "The First Revolver: How We Got from Blackbeard's Six Pistols to the Six-Shooter",
+      "url": "https://americanhandgunner.com/handguns/revolvers/the-first-revolver/",
+      "title_zh": "第一把转轮手枪：从黑胡子的六把手枪到六发转轮手枪",
+      "is_new": true,
+      "created_display": "Created: Nov 15, 2026 / 01:12 PT",
+      "image_url": "https://americanhandgunner.com/wp-content/uploads/2026/09/06-Collier-revolver-Met-photo-e1790967274309.jpg",
+      "summary_en": "The ideas behind modern revolvers date to the 1500s, but ignition technology delayed their development. In 1718, Blackbeard reportedly carried six flintlock pistols because each pistol could fire only once before requiring a lengthy reload. The article traces how the need for multiple shots drove the development of more practical repeating handguns.",
+      "summary_zh": "现代转轮手枪的构想可以追溯到 16 世纪，但点火技术阻碍了其发展。据报道，1718 年黑胡子携带了六把燧发手枪，因为每把手枪只能发射一次，之后需要耗时装填。文章追溯了多次射击需求如何推动更实用的连发手枪发展。",
+      "hn": {
+        "id": 50505310,
+        "type": "story",
+        "by": "bushwart",
+        "score": 57,
+        "descendants": 41,
+        "time": 1794733975,
+        "comments_url": "https://news.ycombinator.com/item?id=50505310"
+      },
+      "hot_score": 0.02,
+      "tags": [
+        "Culture"
       ]
     },
     {
       "title_en": "New FreeBSD Pkgbase(8) Tool",
       "url": "https://vermaden.wordpress.com/2026/11/10/freebsd-pkgbase-update-tool/",
       "title_zh": "新的 FreeBSD Pkgbase(8) 工具",
-      "is_new": true,
+      "is_new": false,
       "created_display": "Created: Nov 15, 2026 / 08:46 PT",
       "image_url": "https://vermaden.wordpress.com/wp-content/uploads/2026/11/code.png",
       "summary_en": "FreeBSD 15.x will be the last release to support the freebsd-update(8) command for updating and upgrading the base system. Starting with FreeBSD 16.0-RELEASE, PKGBASE will be the only way to install, update, or upgrade FreeBSD Base System. The author expected FreeBSD 15.2-BETA1 to provide clearer upgrade instructions and new features but found the announcement disappointing.",
@@ -1178,13 +2278,86 @@
         "id": 50508356,
         "type": "story",
         "by": "vermaden",
-        "score": 4,
-        "descendants": 1,
+        "score": 47,
+        "descendants": 20,
         "time": 1794761173,
         "comments_url": "https://news.ycombinator.com/item?id=50508356"
       },
+      "tags": [
+        "Programming"
+      ],
+      "hot_score": 0.02
+    },
+    {
+      "title_en": "Cuttlefish on Mac: Android's Virtual Device Framework on Apple Silicon",
+      "url": "https://engineering.fb.com/2026/11/13/android/cuttlefish-on-mac/",
+      "title_zh": "在 Mac 上运行 Cuttlefish：Apple Silicon 上的 Android 虚拟设备框架",
+      "is_new": true,
+      "created_display": "Created: Nov 15, 2026 / 12:30 PT",
+      "image_url": "https://engineering.fb.com/wp-content/uploads/2026/11/Cuttlefish-on-Mac-lead.png",
+      "summary_en": "Meta’s Reality Labs brought Android’s Cuttlefish and its QEMU backend to macOS and Apple silicon. The work is intended to improve development and testing for non-phone Android devices without relying on scarce physical hardware. Higher-fidelity virtual devices can expose bugs that lightweight emulators such as Goldfish may miss.",
+      "summary_zh": "Meta Reality Labs 将 Android 的 Cuttlefish 及其 QEMU 后端移植到了 macOS 和 Apple Silicon。该项目旨在为非手机 Android 设备提供更好的开发和测试环境，减少对稀缺实体硬件的依赖。更高保真度的虚拟设备能够发现轻量级模拟器 Goldfish 可能遗漏的错误。",
+      "hn": {
+        "id": 50510385,
+        "type": "story",
+        "by": "acossta",
+        "score": 43,
+        "descendants": 8,
+        "time": 1794774642,
+        "comments_url": "https://news.ycombinator.com/item?id=50510385"
+      },
+      "hot_score": 0.02,
+      "tags": [
+        "Programming",
+        "Hardware",
+        "Web"
+      ]
+    },
+    {
+      "title_en": "A Collage Showing 49 Drill Holes Made by NASA's Curiosity Mars Rover",
+      "url": "https://science.nasa.gov/photojournal/a-collage-showing-49-drill-holes-made-by-nasas-curiosity-mars-rover/",
+      "title_zh": "NASA“好奇号”火星车钻孔 49 个的拼图",
+      "is_new": true,
+      "created_display": "Created: Nov 16, 2026 / 14:19 PT",
+      "image_url": "https://assets.science.nasa.gov/content/dam/science/psd/photojournal/pia/pia26804/PIA26804.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+      "summary_en": "A NASA collage shows 49 drill holes made by the Curiosity rover on Mars as of November 2026. Each hole represents a rock sample collected by the rover’s drill and delivered to instruments inside the rover for compositional analysis. The holes were photographed by the Mars Hand Lens Imager and each measures 0.63 inches, or 16 millimeters, across.",
+      "summary_zh": "NASA 发布的拼图展示了截至 2026 年 11 月，“好奇号”火星车在火星上钻出的 49 个孔洞。每个孔洞都代表一次岩石采样，火星车的钻头会将粉碎后的岩石样本送入车体内部的仪器进行成分分析。这些孔洞由火星手持透镜成像仪拍摄，每个直径为 0.63 英寸，即 16 毫米。",
+      "hn": {
+        "id": 50524227,
+        "type": "story",
+        "by": "wawayanda",
+        "score": 33,
+        "descendants": 2,
+        "time": 1794867571,
+        "comments_url": "https://news.ycombinator.com/item?id=50524227"
+      },
+      "hot_score": 0.02,
+      "tags": [
+        "Science",
+        "Space"
+      ]
+    },
+    {
+      "title_en": "A live service duress prototype",
+      "url": "https://github.com/Ymsniper/vault-share",
+      "title_zh": "实时服务型胁迫原型",
+      "is_new": true,
+      "created_display": "Created: Nov 15, 2026 / 11:42 PT",
+      "image_url": "https://opengraph.githubassets.com/20ec9c89a14b919095781df39b1ecbe0a60df071823d48cf6ce13412cca76731/Ymsniper/vault-share",
+      "summary_en": "Vault-share is a self-hosted, invite-only encrypted file-sharing application built with Flask. Each file uses its own AES-256-GCM key, which is sealed separately for every authorized reader using HPKE, while uploads are signed and integrity-checked. The prototype also supports duress passwords that reveal separate cover vaults and can require a USB flash drive for the master key.",
+      "summary_zh": "Vault-share 是一个基于 Flask 的自托管、仅限邀请的加密文件共享应用。每个文件使用独立的 AES-256-GCM 密钥，并通过 HPKE 分别封装给每位获授权的读取者；上传内容还会进行签名和完整性校验。该原型还支持在胁迫密码下打开独立的伪装保险库，并可要求使用 USB 闪存盘保存主密钥。",
+      "hn": {
+        "id": 50509980,
+        "type": "story",
+        "by": "Ymsniper",
+        "score": 14,
+        "descendants": 2,
+        "time": 1794771779,
+        "comments_url": "https://news.ycombinator.com/item?id=50509980"
+      },
       "hot_score": 0.0,
       "tags": [
+        "Security",
         "Programming"
       ]
     },
@@ -1192,7 +2365,7 @@
       "title_en": "Dissecting Spring petclinic (Part 2 – Bending the persistence)",
       "url": "https://hannomalie.github.io/posts/dissecting-spring-petclinic-persistence.html",
       "title_zh": "剖析 Spring Petclinic（第二部分：改造持久化层）",
-      "is_new": true,
+      "is_new": false,
       "created_display": "Created: Nov 14, 2026 / 16:34 PT",
       "image_url": "https://hannomalie.github.io/images/spring_logo.svg",
       "summary_en": "In the second part of a Spring series, the author replaces Spring Data with JDBI, mostly pure SQL, and simple POJOs for persistence. The change exposes how much work Spring Data and Hibernate or JPA normally handle, while making a data-centric persistence layer harder to keep simple. The author does not consider the redesign an improvement, but a necessary step toward a broader goal involving clearer tests and better understanding of the project.",
@@ -1201,15 +2374,39 @@
         "id": 50502667,
         "type": "story",
         "by": "ejboy",
-        "score": 4,
-        "descendants": 0,
+        "score": 5,
+        "descendants": 1,
         "time": 1794702852,
         "comments_url": "https://news.ycombinator.com/item?id=50502667"
       },
-      "hot_score": 0.0,
       "tags": [
         "Programming",
         "Data"
+      ],
+      "hot_score": 0.0
+    },
+    {
+      "title_en": "Collisions in Hash Functions",
+      "url": "https://collisions.zksecurity.xyz/",
+      "title_zh": "哈希函数中的碰撞",
+      "is_new": true,
+      "created_display": "Created: Nov 16, 2026 / 17:11 PT",
+      "image_url": null,
+      "summary_en": "The project presents 123 pairs of different inputs that produce the same hash digest, with the actual bytes available for verification. A hash function is intended to map inputs to short fingerprints without collisions. Showing the colliding inputs makes claims about broken hashes directly checkable.",
+      "summary_zh": "该项目展示了 123 对生成相同哈希摘要的不同输入，并提供实际字节内容供验证。哈希函数的设计目标是将输入映射为短指纹，同时避免不同输入发生碰撞。公开产生碰撞的输入，可以直接检验哈希函数被攻破的说法。",
+      "hn": {
+        "id": 50526087,
+        "type": "story",
+        "by": "baby",
+        "score": 5,
+        "descendants": 0,
+        "time": 1794877869,
+        "comments_url": "https://news.ycombinator.com/item?id=50526087"
+      },
+      "hot_score": 0.0,
+      "tags": [
+        "Security",
+        "Programming"
       ]
     }
   ]

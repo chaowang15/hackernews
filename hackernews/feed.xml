@@ -5,7 +5,7 @@
     <link>https://chaowang15.github.io/hackernews/</link>
     <description>Curated daily digest of top Hacker News stories with AI-generated summaries, tags, and bilingual translations.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 18 Nov 2026 16:05:53 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 02:07:20 +0000</lastBuildDate>
     <generator>Hacker News Daily RSS Builder</generator>
     <atom:link href="https://chaowang15.github.io/hackernews/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
@@ -77,7 +77,7 @@
       <category>AI</category>
       <description>&lt;p&gt;GPT-6.2 Astra and Sol are presented as two named models or systems. No further technical details or capabilities are established here.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;GPT‑6.2 Astra 和 Sol 是两个名为 Astra 与 Sol 的模型或系统。现有信息未提供更多技术细节或功能说明。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 1325 · 💬 831 · AI&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 1337 · 💬 851 · AI&lt;/small&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50535230&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/18/top_stories_11182026#story-50535230&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
@@ -89,7 +89,7 @@
       <category>Education</category>
       <description>&lt;p&gt;A large national analysis comparing students’ scores before and after cellphone bans found modest academic improvements. Schools with strict policies requiring students to lock phones in pouches for the entire school day saw math and reading gains equivalent to roughly one or two additional weeks of schooling per year. The study was published by Harvard’s Center for Education Policy Research and is the first national study to track individual students’ growth in this way.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;一项比较学生禁用手机前后成绩的大型全国性分析发现，学业表现出现小幅改善。要求学生在整个上课日将手机锁入袋中的学校，数学和阅读成绩提升幅度相当于每年额外增加约一至两周的学习。该研究由哈佛教育政策研究中心发布，是首项以这种方式追踪个体学生成长的全国性研究。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 1265 · 💬 632 · Education&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 1286 · 💬 642 · Education&lt;/small&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50530163&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/18/top_stories_11182026#story-50530163&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
@@ -113,8 +113,20 @@
       <category>Security</category>
       <description>&lt;p&gt;Calif disclosed Java4Shell, tracked as CVE-2026-114938, a memory-corruption vulnerability in OpenJDK's Base64 decoder. OpenJDK is described as the most popular Java runtime. The vulnerability has a CVSS 4.0 score of 9.2 out of 10, rated Critical. Its severity could make affected OpenJDK deployments a high-priority patching target.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Calif 披露了 Java4Shell（编号 CVE-2026-114938），这是 OpenJDK Base64 解码器中的内存破坏漏洞。OpenJDK 被称为最流行的 Java 运行时。该漏洞在 CVSS 4.0 中获得 9.2 分（满分 10 分），评级为“严重”。这一评级意味着受影响的 OpenJDK 部署可能需要优先修补。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 1110 · 💬 296 · Security&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 1155 · 💬 321 · Security&lt;/small&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50538240&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/18/top_stories_11182026#story-50538240&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Unauthenticated remote code execution in Nginx</title>
+      <link>https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50547374</guid>
+      <dc:creator>speedping</dc:creator>
+      <pubDate>Wed, 18 Nov 2026 15:19:55 +0000</pubDate>
+      <category>Security</category>
+      <description>&lt;p&gt;Nginx has been reported to contain unauthenticated remote code execution vulnerabilities. The supplied records identify two related CVE entries, CVE-2026-123633 and CVE-2026-123007.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;据报道，Nginx 存在无需认证即可触发的远程代码执行漏洞。相关记录列出了两个 CVE 编号：CVE-2026-123633 和 CVE-2026-123007。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 1148 · 💬 512 · Security&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50547374&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/18/top_stories_11182026#story-50547374&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>All AI-generated code should be Open Source</title>
@@ -225,6 +237,20 @@
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50472038&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/14/top_stories_11142026#story-50472038&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Quad9's withdrawal from France: A canary in the coal mine</title>
+      <link>https://blog.cloudflare.com/quad9-withdrawal-from-france/</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50538994</guid>
+      <dc:creator>subset</dc:creator>
+      <pubDate>Tue, 17 Nov 2026 22:13:34 +0000</pubDate>
+      <category>Privacy</category>
+      <category>Security</category>
+      <category>Legal</category>
+      <description>&lt;p&gt;Swiss nonprofit Quad9 said it will withdraw its free public DNS resolver from France after months of litigation. A French court imposed daily financial penalties because Quad9 did not block domains linked to alleged copyright infringement. Quad9 said the choice was between crippling penalties and changing its service in ways that would undermine user privacy and security. The case is presented as a warning about the consequences of mandating DNS-level blocking.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;瑞士非营利组织 Quad9 表示，将在经历数月诉讼后退出法国免费公共 DNS 解析服务。法国法院因其未屏蔽涉嫌侵犯版权的域名，对 Quad9 处以每日罚款。Quad9 表示，它只能在承受可能令组织陷入困境的处罚，或改变服务并损害用户隐私与安全之间作出选择。该事件被视为强制实施 DNS 层拦截可能带来后果的警示。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 883 · 💬 432 · Privacy · Security · Legal&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50538994&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/18/top_stories_11182026#story-50538994&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Qwen4-Max</title>
       <link>https://qwen.ai/blog?id=qwen4-max</link>
       <guid isPermaLink="true">https://news.ycombinator.com/item?id=50513215</guid>
@@ -247,20 +273,6 @@
 &lt;p&gt;&lt;em&gt;“如何制造几乎任何东西”是一项围绕制作各种实体或电子作品展开的项目或课程。现有信息未提供其具体方法或内容范围。&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;▲ 839 · 💬 142 · Education&lt;/small&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50514470&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/16/top_stories_11162026#story-50514470&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Quad9's withdrawal from France: A canary in the coal mine</title>
-      <link>https://blog.cloudflare.com/quad9-withdrawal-from-france/</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50538994</guid>
-      <dc:creator>subset</dc:creator>
-      <pubDate>Tue, 17 Nov 2026 22:13:34 +0000</pubDate>
-      <category>Privacy</category>
-      <category>Security</category>
-      <category>Legal</category>
-      <description>&lt;p&gt;Swiss nonprofit Quad9 said it will withdraw its free public DNS resolver from France after months of litigation. A French court imposed daily financial penalties because Quad9 did not block domains linked to alleged copyright infringement. Quad9 said the choice was between crippling penalties and changing its service in ways that would undermine user privacy and security. The case is presented as a warning about the consequences of mandating DNS-level blocking.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;瑞士非营利组织 Quad9 表示，将在经历数月诉讼后退出法国免费公共 DNS 解析服务。法国法院因其未屏蔽涉嫌侵犯版权的域名，对 Quad9 处以每日罚款。Quad9 表示，它只能在承受可能令组织陷入困境的处罚，或改变服务并损害用户隐私与安全之间作出选择。该事件被视为强制实施 DNS 层拦截可能带来后果的警示。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 836 · 💬 385 · Privacy · Security · Legal&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50538994&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/18/top_stories_11182026#story-50538994&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>LibreOffice actually works 365 days a year</title>
@@ -312,6 +324,18 @@
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50474959&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/14/top_stories_11142026#story-50474959&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>AI is killing All About Berlin</title>
+      <link>https://nicolasbouliane.com/blog/death-by-ai</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50542705</guid>
+      <dc:creator>grey-area</dc:creator>
+      <pubDate>Wed, 18 Nov 2026 06:47:26 +0000</pubDate>
+      <category>AI</category>
+      <description>&lt;p&gt;The operator of All About Berlin says the site's traffic fell by 70% to 75% after years of growth, attributing the decline to Google's AI Overviews. Search pages now place an AI-generated answer trained on the site's content before the link to the site itself. The change has had a devastating effect on the site's traffic.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;All About Berlin 的运营者表示，该网站在多年增长后，流量因 Google AI Overviews 下跌了 70% 至 75%。如今搜索页面会先展示基于该网站内容训练的 AI 生成答案，最后才显示指向网站的链接。这一变化对网站流量造成了严重打击。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 759 · 💬 684 · AI&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50542705&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/18/top_stories_11182026#story-50542705&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Show HN: My $300 embroidery machine needed a subscription, so I built my own app</title>
       <link>https://github.com/simpsoka/zigzag</link>
       <guid isPermaLink="true">https://news.ycombinator.com/item?id=50470488</guid>
@@ -323,6 +347,18 @@
 &lt;p&gt;&lt;em&gt;一名开发者为一台需要订阅的 300 美元刺绣机编写了替代应用。该项目以 Zigzag 的形式发布。现有描述没有提供有关机器或应用的更多技术细节。&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;▲ 739 · 💬 253 · Show HN · Programming&lt;/small&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50470488&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/14/top_stories_11142026#story-50470488&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Apple Services Down</title>
+      <link>https://developer.apple.com/system-status/</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50535238</guid>
+      <dc:creator>willy_k</dc:creator>
+      <pubDate>Tue, 17 Nov 2026 17:47:14 +0000</pubDate>
+      <category>Web</category>
+      <description>&lt;p&gt;Apple services are reported to be down. The available information does not identify which services are affected, how long the outage has lasted, or its cause.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;据报道，Apple 服务发生中断。现有信息未说明受影响的具体服务、持续时间或原因。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 718 · 💬 404 · Web&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50535238&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/18/top_stories_11182026#story-50535238&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>BugMeNot has closed</title>
@@ -351,16 +387,16 @@
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50524736&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/17/top_stories_11172026#story-50524736&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Apple Services Down</title>
-      <link>https://developer.apple.com/system-status/</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50535238</guid>
-      <dc:creator>willy_k</dc:creator>
-      <pubDate>Tue, 17 Nov 2026 17:47:14 +0000</pubDate>
-      <category>Web</category>
-      <description>&lt;p&gt;Apple services are reported to be down. The available information does not identify which services are affected, how long the outage has lasted, or its cause.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;据报道，Apple 服务发生中断。现有信息未说明受影响的具体服务、持续时间或原因。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 705 · 💬 394 · Web&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50535238&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/18/top_stories_11182026#story-50535238&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+      <title>Google's AI answers reducing search traffic by 40%</title>
+      <link>https://revscope.co/blog/search-seo-geo-2026/</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50540178</guid>
+      <dc:creator>slashdev</dc:creator>
+      <pubDate>Wed, 18 Nov 2026 00:17:58 +0000</pubDate>
+      <category>AI</category>
+      <description>&lt;p&gt;A randomized experiment found that Google AI Overviews reduce clicks to external websites by about 40% among US desktop users. The summaries now appear on more than half of the US keywords tracked by DataForSEO, up from 6% two years earlier. Generative engine optimization has not yet demonstrated a way to offset the lost traffic, while AI assistants sent websites only 0.3% of their traffic in March. The findings indicate that traditional search rankings bring substantially fewer visits when an AI answer appears above them.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;一项随机实验发现，在美国桌面用户中，谷歌 AI Overviews 会让外部网站获得的点击量减少约 40%。根据 DataForSEO 的跟踪数据，这些摘要如今出现在超过一半的美国关键词结果中，而两年前这一比例仅为 6%。生成式引擎优化尚未证明能弥补这部分流量损失；3 月份，AI 助手为网站带来的流量仅占 0.3%。这表明，当 AI 答案出现在搜索结果上方时，传统排名带来的访问量会显著下降。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 690 · 💬 539 · AI&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50540178&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/18/top_stories_11182026#story-50540178&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Optimizely compromised, served malware on Zoom, GitLab</title>
@@ -377,16 +413,16 @@
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50524767&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/17/top_stories_11172026#story-50524767&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>AI is killing All About Berlin</title>
-      <link>https://nicolasbouliane.com/blog/death-by-ai</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50542705</guid>
-      <dc:creator>grey-area</dc:creator>
-      <pubDate>Wed, 18 Nov 2026 06:47:26 +0000</pubDate>
-      <category>AI</category>
-      <description>&lt;p&gt;The operator of All About Berlin says the site's traffic fell by 70% to 75% after years of growth, attributing the decline to Google's AI Overviews. Search pages now place an AI-generated answer trained on the site's content before the link to the site itself. The change has had a devastating effect on the site's traffic.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;All About Berlin 的运营者表示，该网站在多年增长后，流量因 Google AI Overviews 下跌了 70% 至 75%。如今搜索页面会先展示基于该网站内容训练的 AI 生成答案，最后才显示指向网站的链接。这一变化对网站流量造成了严重打击。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 662 · 💬 602 · AI&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50542705&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/18/top_stories_11182026#story-50542705&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+      <title>Highly classified US national security communications network goes down</title>
+      <link>https://www.cnn.com/2026/11/17/politics/highly-classified-national-security-communications-network-goes-down</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50532849</guid>
+      <dc:creator>monkeydust</dc:creator>
+      <pubDate>Tue, 17 Nov 2026 15:38:28 +0000</pubDate>
+      <category>Security</category>
+      <description>&lt;p&gt;The highly classified network used by the National Security Agency for internal communications is down, according to six people familiar with the matter. The reported outage affects a communications system supporting the agency’s internal operations.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;据六名知情人士透露，美国国家安全局用于内部通信的高度机密网络目前发生故障。此次中断影响了支持该机构内部运作的通信系统。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 664 · 💬 748 · Security&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50532849&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/18/top_stories_11182026#story-50532849&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>United Airlines bans AI agents from booking flights on behalf of travelers</title>
@@ -402,6 +438,19 @@
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50458900&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/12/top_stories_11122026#story-50458900&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Nvidia stopped disclosing Singapore sales as revenues hit $104B</title>
+      <link>https://www.ft.com/content/dbde7a30-548c-4f9d-a4be-7898a0c24dcf</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50534631</guid>
+      <dc:creator>louiereederson</dc:creator>
+      <pubDate>Tue, 17 Nov 2026 17:12:06 +0000</pubDate>
+      <category>Business</category>
+      <category>Finance</category>
+      <description>&lt;p&gt;Nvidia stopped disclosing its Singapore sales as its revenue reached $104 billion. No further details about the reporting change or its reasons are established here.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;英伟达营收达到 1040 亿美元后，停止披露其在新加坡的销售额。现有信息未说明这一报告变化的具体原因或其他细节。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 657 · 💬 295 · Business · Finance&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50534631&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/18/top_stories_11182026#story-50534631&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Socratic Tutor</title>
       <link>https://github.com/janestreet/agent_skills/blob/master/socratic-tutor/SKILL.md</link>
       <guid isPermaLink="true">https://news.ycombinator.com/item?id=50438261</guid>
@@ -413,43 +462,6 @@
 &lt;p&gt;&lt;em&gt;“苏格拉底式导师”是一项代理技能，通过要求用户推理、预测和解释来帮助其真正掌握知识，而不是单纯进行讲授。它适用于持续的教学过程，不适用于一次性的事实问答。当用户意图不明确时，它会先询问用户想要快速答案还是完整的辅导过程。&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;▲ 655 · 💬 155 · Education · AI&lt;/small&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50438261&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/12/top_stories_11122026#story-50438261&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Highly classified US national security communications network goes down</title>
-      <link>https://www.cnn.com/2026/11/17/politics/highly-classified-national-security-communications-network-goes-down</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50532849</guid>
-      <dc:creator>monkeydust</dc:creator>
-      <pubDate>Tue, 17 Nov 2026 15:38:28 +0000</pubDate>
-      <category>Security</category>
-      <description>&lt;p&gt;The highly classified network used by the National Security Agency for internal communications is down, according to six people familiar with the matter. The reported outage affects a communications system supporting the agency’s internal operations.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;据六名知情人士透露，美国国家安全局用于内部通信的高度机密网络目前发生故障。此次中断影响了支持该机构内部运作的通信系统。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 652 · 💬 727 · Security&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50532849&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/18/top_stories_11182026#story-50532849&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Nvidia stopped disclosing Singapore sales as revenues hit $104B</title>
-      <link>https://www.ft.com/content/dbde7a30-548c-4f9d-a4be-7898a0c24dcf</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50534631</guid>
-      <dc:creator>louiereederson</dc:creator>
-      <pubDate>Tue, 17 Nov 2026 17:12:06 +0000</pubDate>
-      <category>Business</category>
-      <category>Finance</category>
-      <description>&lt;p&gt;Nvidia stopped disclosing its Singapore sales as its revenue reached $104 billion. No further details about the reporting change or its reasons are established here.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;英伟达营收达到 1040 亿美元后，停止披露其在新加坡的销售额。现有信息未说明这一报告变化的具体原因或其他细节。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 641 · 💬 286 · Business · Finance&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50534631&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/18/top_stories_11182026#story-50534631&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Google's AI answers reducing search traffic by 40%</title>
-      <link>https://revscope.co/blog/search-seo-geo-2026/</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50540178</guid>
-      <dc:creator>slashdev</dc:creator>
-      <pubDate>Wed, 18 Nov 2026 00:17:58 +0000</pubDate>
-      <category>AI</category>
-      <description>&lt;p&gt;A randomized experiment found that Google AI Overviews reduce clicks to external websites by about 40% among US desktop users. The summaries now appear on more than half of the US keywords tracked by DataForSEO, up from 6% two years earlier. Generative engine optimization has not yet demonstrated a way to offset the lost traffic, while AI assistants sent websites only 0.3% of their traffic in March. The findings indicate that traditional search rankings bring substantially fewer visits when an AI answer appears above them.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;一项随机实验发现，在美国桌面用户中，谷歌 AI Overviews 会让外部网站获得的点击量减少约 40%。根据 DataForSEO 的跟踪数据，这些摘要如今出现在超过一半的美国关键词结果中，而两年前这一比例仅为 6%。生成式引擎优化尚未证明能弥补这部分流量损失；3 月份，AI 助手为网站带来的流量仅占 0.3%。这表明，当 AI 答案出现在搜索结果上方时，传统排名带来的访问量会显著下降。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 623 · 💬 471 · AI&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50540178&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/18/top_stories_11182026#story-50540178&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Microsoft 365 outage leads to chlorine gas poisoning of 15 hotel guests</title>
@@ -475,6 +487,18 @@
 &lt;p&gt;&lt;em&gt;这个项目改用一部已取得 root 权限的二手 Redmi 手机来充当摄像头和灯光控制器，而不是围绕树莓派搭建系统。手机已经具备高分辨率摄像头、GPS、存储、电池和移动数据功能；原先的树莓派方案则需要额外加入 Arducam 6400 万像素摄像头和 GPS 模块。这种做法有望减少组件数量，并控制不断上涨的项目成本。&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;▲ 617 · 💬 322 · Hardware · Energy&lt;/small&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50440709&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/15/top_stories_11152026#story-50440709&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>DNS resolvers are the wrong place to fight piracy</title>
+      <link>https://techstackups.com/articles/quad9-leaves-france-dns-blocking/</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50545958</guid>
+      <dc:creator>ritzaco</dc:creator>
+      <pubDate>Wed, 18 Nov 2026 13:18:02 +0000</pubDate>
+      <category>Legal</category>
+      <description>&lt;p&gt;The nonprofit DNS resolver Quad9 will stop answering queries from France on November 24, 2026, rather than comply with a Paris court order sought by beIN Sports. The court fined Quad9 for refusing to block pirate sports-streaming domains, and roughly 20 similar cases are still pending. The dispute raises concerns that forcing public DNS resolvers to enforce domain blocking could undermine services beyond its intended target.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;非营利 DNS 解析器 Quad9 将于 2026 年 11 月 24 日停止响应来自法国的查询，以拒绝执行 beIN Sports 申请的巴黎法院命令。Quad9 因拒绝屏蔽盗版体育流媒体域名而被罚款，法国目前还有约 20 起类似案件待审。这场争议引发了对强制公共 DNS 解析器执行域名屏蔽可能造成更广泛影响的担忧。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 603 · 💬 223 · Legal&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50545958&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/18/top_stories_11182026#story-50545958&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Universal XSS in uBlock Origin from website-driven element picker</title>
@@ -512,6 +536,20 @@
 &lt;p&gt;&lt;em&gt;一篇论文研究了这样的问题：把颜料涂抹到墙上时，是否可能不生成有效的 Perl 程序。论文给出的结果是，93% 的颜料飞溅都属于有效 Perl 程序，并配有这些程序的展示画廊。作者把这个问题称为编程语言领域长期存在的开放问题。&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;▲ 566 · 💬 79 · Programming&lt;/small&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50459745&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/12/top_stories_11122026#story-50459745&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Inside Deutsche Bank</title>
+      <link>https://www.inside-db.com/</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50547620</guid>
+      <dc:creator>gyre007</dc:creator>
+      <pubDate>Wed, 18 Nov 2026 15:38:33 +0000</pubDate>
+      <category>Finance</category>
+      <category>Security</category>
+      <category>Business</category>
+      <description>&lt;p&gt;A major investigation into Deutsche Bank is based on a leak of more than 15 million files. The files cover sensitive functions including anti-financial-crime work, sanctions monitoring, internal auditing, and decisions about whether risky clients should remain customers. The investigation portrays flaws in the bank's culture, systemic blind spots, and tensions between profit-seeking and compliance.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;一项针对德意志银行的重大调查建立在超过 1500 万份泄露文件的基础上。这些文件涉及反金融犯罪、制裁监控、内部审计，以及决定高风险客户是否继续留存等敏感职能。调查呈现出该行文化中的缺陷、系统性盲点，以及追求利润与合规要求之间的矛盾。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 563 · 💬 190 · Finance · Security · Business&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50547620&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/18/top_stories_11182026#story-50547620&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>KDE: The documentary [video]</title>
@@ -597,43 +635,6 @@
 &lt;p&gt;&lt;em&gt;Google Antigravity 正在推出 Gemini 4 Hydrogen，以及模型选择器中的新选项 Orchestrator。Orchestrator 会将 Hydrogen 与包括 Gemini 4 Carbon 在内的 Google 最强模型搭配，用于长时程任务。该组合旨在平衡质量、效率和延迟。&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;▲ 495 · 💬 161 · AI&lt;/small&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50472260&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/13/top_stories_11132026#story-50472260&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Doomsday: Friday, 13 November, A.D. 2026 (1960)</title>
-      <link>https://www.science.org/doi/10.1126/science.132.3436.1291</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50482379</guid>
-      <dc:creator>voxleone</dc:creator>
-      <pubDate>Fri, 13 Nov 2026 12:10:24 +0000</pubDate>
-      <category>Science</category>
-      <description>&lt;p&gt;The item is titled “Doomsday: Friday, 13 November, A.D. 2026” and is dated 1960. No further details about its subject or contents are available.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;该条目标题为《末日：2026 年 11 月 13 日，星期五》，并标注为公元 1960 年。没有更多关于其主题或内容的可靠信息。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 494 · 💬 337 · Science&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50482379&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/14/top_stories_11142026#story-50482379&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Elevated errors on claude.ai, Claude Code, and platform.claude.com</title>
-      <link>https://status.claude.com/incidents/nn11wk485zfn</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50481187</guid>
-      <dc:creator>__vivek</dc:creator>
-      <pubDate>Fri, 13 Nov 2026 10:18:13 +0000</pubDate>
-      <category>AI</category>
-      <description>&lt;p&gt;Claude’s status page reported elevated errors affecting claude.ai, Claude Code, and platform.claude.com. The notice identifies the affected services but provides no further incident details in the available information.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Claude 状态页报告称，claude.ai、Claude Code 和 platform.claude.com 的错误率升高。现有信息仅列出了受影响的服务，未提供更多事故细节。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 493 · 💬 390 · AI&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50481187&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/14/top_stories_11142026#story-50481187&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Court denies motion to dismiss DRAM price fixing case</title>
-      <link>https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50502988</guid>
-      <dc:creator>ybathaee</dc:creator>
-      <pubDate>Sun, 15 Nov 2026 01:18:36 +0000</pubDate>
-      <category>Legal</category>
-      <category>Business</category>
-      <description>&lt;p&gt;A federal judge refused to dismiss a proposed class action accusing Samsung, SK Hynix, and Micron of conspiring to restrict conventional DRAM supply and shift capacity toward HBM. Judge Noël Wise found that buyers had plausibly alleged an agreement violating Section 1 of the Sherman Act. The allegations have been accepted only for this procedural stage and have not been proven.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;一名联邦法官拒绝驳回一项拟议集体诉讼，该诉讼指控三星、SK 海力士和美光合谋限制传统 DRAM 供应，并将产能转向 HBM。Noël Wise 法官认定，买方对违反《谢尔曼法》第 1 条的合谋提出了具有可信性的指控。目前这些指控仅在这一程序阶段被视为成立，并未得到证实。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 492 · 💬 219 · Legal · Business&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50502988&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/15/top_stories_11152026#story-50502988&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
