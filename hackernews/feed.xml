@@ -5,7 +5,7 @@
     <link>https://chaowang15.github.io/hackernews/</link>
     <description>Curated daily digest of top Hacker News stories with AI-generated summaries, tags, and bilingual translations.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 19 Nov 2026 02:07:20 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 16:06:33 +0000</lastBuildDate>
     <generator>Hacker News Daily RSS Builder</generator>
     <atom:link href="https://chaowang15.github.io/hackernews/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
@@ -57,16 +57,16 @@
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50489641&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/14/top_stories_11142026#story-50489641&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Tim Peters has died</title>
-      <link>https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50450488</guid>
-      <dc:creator>ayhanfuat</dc:creator>
-      <pubDate>Wed, 11 Nov 2026 07:03:17 +0000</pubDate>
-      <category>Programming</category>
-      <description>&lt;p&gt;Tim Peters has died. He was a figure associated with Python, but no further details are available here.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Tim Peters 已去世。他是与 Python 相关的重要人物，但现有信息未提供更多细节。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 1396 · 💬 187 · Programming&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50450488&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/12/top_stories_11122026#story-50450488&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+      <title>Unauthenticated remote code execution in Nginx</title>
+      <link>https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50547374</guid>
+      <dc:creator>speedping</dc:creator>
+      <pubDate>Wed, 18 Nov 2026 15:19:55 +0000</pubDate>
+      <category>Security</category>
+      <description>&lt;p&gt;Nginx has been reported to contain unauthenticated remote code execution vulnerabilities. The supplied records identify two related CVE entries, CVE-2026-123633 and CVE-2026-123007.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;据报道，Nginx 存在无需认证即可触发的远程代码执行漏洞。相关记录列出了两个 CVE 编号：CVE-2026-123633 和 CVE-2026-123007。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 1464 · 💬 618 · Security&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50547374&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/19/top_stories_11192026#story-50547374&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>GPT‑6.2 Astra and Sol</title>
@@ -117,18 +117,6 @@
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50538240&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/18/top_stories_11182026#story-50538240&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Unauthenticated remote code execution in Nginx</title>
-      <link>https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50547374</guid>
-      <dc:creator>speedping</dc:creator>
-      <pubDate>Wed, 18 Nov 2026 15:19:55 +0000</pubDate>
-      <category>Security</category>
-      <description>&lt;p&gt;Nginx has been reported to contain unauthenticated remote code execution vulnerabilities. The supplied records identify two related CVE entries, CVE-2026-123633 and CVE-2026-123007.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;据报道，Nginx 存在无需认证即可触发的远程代码执行漏洞。相关记录列出了两个 CVE 编号：CVE-2026-123633 和 CVE-2026-123007。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 1148 · 💬 512 · Security&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50547374&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/18/top_stories_11182026#story-50547374&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>All AI-generated code should be Open Source</title>
       <link>https://jakub.jankiewicz.org/blog/ai-code-open-source/</link>
       <guid isPermaLink="true">https://news.ycombinator.com/item?id=50507303</guid>
@@ -154,21 +142,6 @@
 &lt;p&gt;&lt;em&gt;一份援引《华尔街日报》的新报告称，英伟达通过投资 AI 初创公司，促使这些公司购买英伟达 GPU 并建设数据中心，从而加剧了 GPU 和内存短缺。报告称，这一指控是在 Jensen Huang 离任英伟达 CEO 后出现的。争议焦点在于，英伟达的融资活动是否帮助推高了对其自有硬件的需求。&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;▲ 1036 · 💬 621 · AI · Business · Hardware&lt;/small&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50493251&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/14/top_stories_11142026#story-50493251&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>My AI agents found an unmapped Maya site?</title>
-      <link>https://pietromiotti.com/latest/maya-site</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50452455</guid>
-      <dc:creator>eyvindn</dc:creator>
-      <pubDate>Wed, 11 Nov 2026 12:05:22 +0000</pubDate>
-      <category>AI</category>
-      <category>Science</category>
-      <category>Space</category>
-      <category>Politics</category>
-      <description>&lt;p&gt;AI agents analyzed NASA lidar data and identified a Maya site beneath the jungle in Mexico. The site had already been mapped by archaeologists and described in Estrada-Belli et al. 2025, but it was not yet listed in Mexico’s official INAH register. The agents therefore rediscovered the site rather than discovering it, and the process took less than 72 hours to reach an official response from the Mexican government.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;AI 代理分析 NASA 的激光雷达数据，在墨西哥丛林下识别出一处玛雅遗址。考古学家其实已经绘制过该遗址的地图，并在 Estrada-Belli 等人 2025 年的论文中记录了它，只是它尚未列入墨西哥国家人类学与历史研究所（INAH）的官方名录。因此，代理完成的是“重新发现”而非发现；从提出想法到收到墨西哥政府的正式回复耗时不到 72 小时。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 1027 · 💬 390 · AI · Science · Space · Politics&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50452455&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/12/top_stories_11122026#story-50452455&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Anthropic IPO</title>
@@ -200,19 +173,6 @@
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50499017&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/15/top_stories_11152026#story-50499017&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>AWS emulator</title>
-      <link>https://github.com/aws/aws-emulator</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50456631</guid>
-      <dc:creator>super_linear</dc:creator>
-      <pubDate>Wed, 11 Nov 2026 18:21:38 +0000</pubDate>
-      <category>Programming</category>
-      <category>Open Source</category>
-      <description>&lt;p&gt;AWS Emulator is presented as a project related to emulating AWS services. The available context does not provide further technical details about its implementation or supported services.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;AWS Emulator 是一个用于模拟 AWS 服务的项目。现有信息没有提供其实现方式或所支持服务的更多技术细节。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 967 · 💬 263 · Programming · Open Source&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50456631&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/12/top_stories_11122026#story-50456631&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>Many of Amazon’s Black Friday and Cyber Monday “deals” offered no savings</title>
       <link>http://groundworkcollaborative.org/news/amazons-decoy-deals-groundwork-investigation-reveals-nearly-1-in-3-black-friday-and-cyber-monday-deals-advertised-by-amazon-offered-no-savings-to-shoppers-nearly-1-in-10-w/</link>
       <guid isPermaLink="true">https://news.ycombinator.com/item?id=50517488</guid>
@@ -223,6 +183,19 @@
 &lt;p&gt;&lt;em&gt;一项调查发现，亚马逊宣传的许多黑色星期五和网络星期一优惠实际上并没有带来节省。这些商品虽然以折扣形式展示，消费者实际支付的价格却往往并未降低。&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;▲ 954 · 💬 551 · Business&lt;/small&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50517488&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/17/top_stories_11172026#story-50517488&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Gemini 4 Neon</title>
+      <link>https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50552424</guid>
+      <dc:creator>yigitdemirag</dc:creator>
+      <pubDate>Wed, 18 Nov 2026 21:34:07 +0000</pubDate>
+      <category>AI</category>
+      <category>Science</category>
+      <description>&lt;p&gt;Google has introduced Gemini 4 Neon, a model aimed at complex coding, knowledge work, and scientific workflows. The company says it offers frontier-level intelligence with fast end-to-end task completion at a lower cost. The model is presented by Google DeepMind’s senior vice president and chief AI architect.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Google 推出了 Gemini 4 Neon，面向复杂编程、知识工作和科学工作流。Google 表示，该模型以更低成本提供前沿级智能，并能快速完成端到端任务。该模型由 Google DeepMind 高级副总裁兼首席 AI 架构师发布。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 953 · 💬 732 · AI · Science&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50552424&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/19/top_stories_11192026#story-50552424&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Rust 1.100</title>
@@ -336,6 +309,20 @@
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50542705&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/18/top_stories_11182026#story-50542705&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Inside Deutsche Bank</title>
+      <link>https://www.inside-db.com/</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50547620</guid>
+      <dc:creator>gyre007</dc:creator>
+      <pubDate>Wed, 18 Nov 2026 15:38:33 +0000</pubDate>
+      <category>Finance</category>
+      <category>Security</category>
+      <category>Business</category>
+      <description>&lt;p&gt;A major investigation into Deutsche Bank is based on a leak of more than 15 million files. The files cover sensitive functions including anti-financial-crime work, sanctions monitoring, internal auditing, and decisions about whether risky clients should remain customers. The investigation portrays flaws in the bank's culture, systemic blind spots, and tensions between profit-seeking and compliance.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;一项针对德意志银行的重大调查建立在超过 1500 万份泄露文件的基础上。这些文件涉及反金融犯罪、制裁监控、内部审计，以及决定高风险客户是否继续留存等敏感职能。调查呈现出该行文化中的缺陷、系统性盲点，以及追求利润与合规要求之间的矛盾。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 753 · 💬 251 · Finance · Security · Business&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50547620&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/19/top_stories_11192026#story-50547620&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Show HN: My $300 embroidery machine needed a subscription, so I built my own app</title>
       <link>https://github.com/simpsoka/zigzag</link>
       <guid isPermaLink="true">https://news.ycombinator.com/item?id=50470488</guid>
@@ -425,19 +412,6 @@
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50532849&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/18/top_stories_11182026#story-50532849&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>United Airlines bans AI agents from booking flights on behalf of travelers</title>
-      <link>https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50458900</guid>
-      <dc:creator>herpderperator</dc:creator>
-      <pubDate>Wed, 11 Nov 2026 21:24:35 +0000</pubDate>
-      <category>AI</category>
-      <category>Security</category>
-      <description>&lt;p&gt;United Airlines said it is banning AI agents from making flight reservations on behalf of travelers. The airline cited security risks and the possibility that such actions could violate federal rules. Consumers are increasingly using agents such as Meta’s Muse and OpenAI’s dots for tasks including shopping and purchases.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;联合航空表示，将禁止 AI 代理代旅客预订航班。该航空公司称，这类操作存在安全风险，并可能违反联邦法规。消费者正越来越多地使用 Meta 的 Muse 和 OpenAI 的 dots 等代理来完成商品研究、比价和购买等任务。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 661 · 💬 688 · AI · Security&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50458900&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/12/top_stories_11122026#story-50458900&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>Nvidia stopped disclosing Singapore sales as revenues hit $104B</title>
       <link>https://www.ft.com/content/dbde7a30-548c-4f9d-a4be-7898a0c24dcf</link>
       <guid isPermaLink="true">https://news.ycombinator.com/item?id=50534631</guid>
@@ -449,19 +423,6 @@
 &lt;p&gt;&lt;em&gt;英伟达营收达到 1040 亿美元后，停止披露其在新加坡的销售额。现有信息未说明这一报告变化的具体原因或其他细节。&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;▲ 657 · 💬 295 · Business · Finance&lt;/small&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50534631&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/18/top_stories_11182026#story-50534631&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Socratic Tutor</title>
-      <link>https://github.com/janestreet/agent_skills/blob/master/socratic-tutor/SKILL.md</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50438261</guid>
-      <dc:creator>tosh</dc:creator>
-      <pubDate>Tue, 10 Nov 2026 10:18:22 +0000</pubDate>
-      <category>Education</category>
-      <category>AI</category>
-      <description>&lt;p&gt;The Socratic Tutor is an agent skill designed to guide users toward genuine mastery through questions that make them reason, predict, and explain rather than simply listen to a lecture. It is intended for ongoing teaching sessions, not one-off factual questions. When the user’s intent is ambiguous, it first asks whether they want a quick answer or a full tutoring session.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;“苏格拉底式导师”是一项代理技能，通过要求用户推理、预测和解释来帮助其真正掌握知识，而不是单纯进行讲授。它适用于持续的教学过程，不适用于一次性的事实问答。当用户意图不明确时，它会先询问用户想要快速答案还是完整的辅导过程。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 655 · 💬 155 · Education · AI&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50438261&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/12/top_stories_11122026#story-50438261&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Microsoft 365 outage leads to chlorine gas poisoning of 15 hotel guests</title>
@@ -514,42 +475,16 @@
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50513160&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/16/top_stories_11162026#story-50513160&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>A false smoke alarm almost drowned Jane Street's only NYC datacenter</title>
-      <link>https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50455394</guid>
-      <dc:creator>mbac32768</dc:creator>
-      <pubDate>Wed, 11 Nov 2026 16:38:44 +0000</pubDate>
-      <category>DevOps</category>
-      <description>&lt;p&gt;A Jane Street systems-team account describes a false smoke alarm at the firm’s only New York datacenter. The facility lost cooling, and staff rushed to unplug every power cord before the sprinkler system activated. The incident is presented as an example of the hands-on work required when a serious infrastructure failure nearly occurred.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Jane Street 系统团队的一篇回忆讲述了该公司纽约唯一数据中心发生误报烟雾警报的经过。机房一度失去冷却，员工赶在喷淋系统启动前冲进去拔掉所有电源线。这个事件展示了基础设施险些发生严重故障时，系统团队必须亲自处理现场问题。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 575 · 💬 272 · DevOps&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50455394&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/12/top_stories_11122026#story-50455394&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>93% of paint splatters are valid Perl programs (2019)</title>
-      <link>https://www.mcmillen.dev/sigbovik/</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50459745</guid>
-      <dc:creator>zenincognito</dc:creator>
-      <pubDate>Wed, 11 Nov 2026 22:34:23 +0000</pubDate>
-      <category>Programming</category>
-      <description>&lt;p&gt;A paper investigates whether it is possible to smear paint on a wall without producing a valid Perl program. Its stated result is that 93% of paint splatters are valid Perl programs, accompanied by a gallery of the resulting programs. The work presents the question as a long-standing open problem in programming languages.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;一篇论文研究了这样的问题：把颜料涂抹到墙上时，是否可能不生成有效的 Perl 程序。论文给出的结果是，93% 的颜料飞溅都属于有效 Perl 程序，并配有这些程序的展示画廊。作者把这个问题称为编程语言领域长期存在的开放问题。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 566 · 💬 79 · Programming&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50459745&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/12/top_stories_11122026#story-50459745&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Inside Deutsche Bank</title>
-      <link>https://www.inside-db.com/</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50547620</guid>
-      <dc:creator>gyre007</dc:creator>
-      <pubDate>Wed, 18 Nov 2026 15:38:33 +0000</pubDate>
-      <category>Finance</category>
-      <category>Security</category>
-      <category>Business</category>
-      <description>&lt;p&gt;A major investigation into Deutsche Bank is based on a leak of more than 15 million files. The files cover sensitive functions including anti-financial-crime work, sanctions monitoring, internal auditing, and decisions about whether risky clients should remain customers. The investigation portrays flaws in the bank's culture, systemic blind spots, and tensions between profit-seeking and compliance.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;一项针对德意志银行的重大调查建立在超过 1500 万份泄露文件的基础上。这些文件涉及反金融犯罪、制裁监控、内部审计，以及决定高风险客户是否继续留存等敏感职能。调查呈现出该行文化中的缺陷、系统性盲点，以及追求利润与合规要求之间的矛盾。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 563 · 💬 190 · Finance · Security · Business&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50547620&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/18/top_stories_11182026#story-50547620&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+      <title>Seven new models at scalable price-performance</title>
+      <link>https://microsoft.ai/news/microsoft-ignite-2026/</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50548021</guid>
+      <dc:creator>gmays</dc:creator>
+      <pubDate>Wed, 18 Nov 2026 16:08:24 +0000</pubDate>
+      <category>AI</category>
+      <description>&lt;p&gt;Microsoft has announced seven new models positioned around scalable price-performance.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Microsoft 宣布推出七个新模型，主打可扩展的价格与性能表现。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 584 · 💬 365 · AI&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50548021&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/19/top_stories_11192026#story-50548021&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>KDE: The documentary [video]</title>
@@ -575,30 +510,6 @@
 &lt;p&gt;&lt;em&gt;Google 推出了 Gemini 4 Hydrogen，将其定位为面向智能体工作流和日常任务的快速、高性价比模型。公司将其定位为可日常使用、适合可靠智能体工作的模型。Google 还表示，Hydrogen 将先进的智能能力带给更广泛的用户。&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;▲ 559 · 💬 349 · AI&lt;/small&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50471431&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/13/top_stories_11132026#story-50471431&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Gemini Decisions API</title>
-      <link>https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50456791</guid>
-      <dc:creator>iamdelirium</dc:creator>
-      <pubDate>Wed, 11 Nov 2026 18:32:42 +0000</pubDate>
-      <category>AI</category>
-      <description>&lt;p&gt;Google introduced the Gemini Decisions API, powered by its Gemini Decision 1 model. It can evaluate up to 1,000 yes/no, multiple-choice, or rubric-scored questions in a single pass across text, images, audio, video, and PDFs. Google describes the decisions as fast and calibrated for its applications.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Google 发布了由 Gemini Decision 1 模型驱动的 Gemini Decisions API。它可以在一次处理中，针对文本、图像、音频、视频和 PDF，评估最多 1,000 个是非题、选择题或按评分标准判定的问题。Google 将其描述为速度快且经过校准的决策 API。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 554 · 💬 157 · AI&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50456791&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/12/top_stories_11122026#story-50456791&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Apple has new Mac app coming to make running local AI models easy</title>
-      <link>https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50446520</guid>
-      <dc:creator>linolevan</dc:creator>
-      <pubDate>Tue, 10 Nov 2026 21:25:03 +0000</pubDate>
-      <category>AI</category>
-      <description>&lt;p&gt;Apple is reportedly developing a Mac app called Harbor to simplify running local AI models across one or more Macs. Evidence of the app was found by leaker Aaron Perris. The project comes as Macs are increasingly being used to run models locally, including on the Mac Studio and Mac mini.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;据报道，Apple 正在开发一款名为 Harbor 的 Mac 应用，用于简化在一台或多台 Mac 上运行本地 AI 模型的过程。泄密者 Aaron Perris 发现了这款应用的相关证据。随着 Mac Studio、Mac mini 等设备被越来越多地用于本地运行模型，该项目正处于这一趋势之中。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 550 · 💬 551 · AI&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50446520&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/12/top_stories_11122026#story-50446520&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Frame – 31.5&quot; color ePaper display</title>
@@ -635,6 +546,96 @@
 &lt;p&gt;&lt;em&gt;Google Antigravity 正在推出 Gemini 4 Hydrogen，以及模型选择器中的新选项 Orchestrator。Orchestrator 会将 Hydrogen 与包括 Gemini 4 Carbon 在内的 Google 最强模型搭配，用于长时程任务。该组合旨在平衡质量、效率和延迟。&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;▲ 495 · 💬 161 · AI&lt;/small&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50472260&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/13/top_stories_11132026#story-50472260&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Doomsday: Friday, 13 November, A.D. 2026 (1960)</title>
+      <link>https://www.science.org/doi/10.1126/science.132.3436.1291</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50482379</guid>
+      <dc:creator>voxleone</dc:creator>
+      <pubDate>Fri, 13 Nov 2026 12:10:24 +0000</pubDate>
+      <category>Science</category>
+      <description>&lt;p&gt;The item is titled “Doomsday: Friday, 13 November, A.D. 2026” and is dated 1960. No further details about its subject or contents are available.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;该条目标题为《末日：2026 年 11 月 13 日，星期五》，并标注为公元 1960 年。没有更多关于其主题或内容的可靠信息。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 494 · 💬 337 · Science&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50482379&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/14/top_stories_11142026#story-50482379&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Elevated errors on claude.ai, Claude Code, and platform.claude.com</title>
+      <link>https://status.claude.com/incidents/nn11wk485zfn</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50481187</guid>
+      <dc:creator>__vivek</dc:creator>
+      <pubDate>Fri, 13 Nov 2026 10:18:13 +0000</pubDate>
+      <category>AI</category>
+      <description>&lt;p&gt;Claude’s status page reported elevated errors affecting claude.ai, Claude Code, and platform.claude.com. The notice identifies the affected services but provides no further incident details in the available information.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Claude 状态页报告称，claude.ai、Claude Code 和 platform.claude.com 的错误率升高。现有信息仅列出了受影响的服务，未提供更多事故细节。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 493 · 💬 390 · AI&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50481187&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/14/top_stories_11142026#story-50481187&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>ID.me terms required for IRS sign-in</title>
+      <link>https://consumerrights.wiki/w/ID.me_terms_required_for_IRS_sign-in</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50540437</guid>
+      <dc:creator>DeepLogin</dc:creator>
+      <pubDate>Wed, 18 Nov 2026 00:51:45 +0000</pubDate>
+      <category>Privacy</category>
+      <category>Legal</category>
+      <category>Politics</category>
+      <category>Business</category>
+      <description>&lt;p&gt;Taxpayers using ID.me to sign in to IRS online services accept terms that send most disputes to arbitration rather than a judge or jury, unless they opt out within 30 days. ID.me's privacy policy says it may use information for marketing and transfer information during a sale, merger, or similar transaction. It excludes government identity-verification data from ID.me Shop marketing unless the user consents or another listed exception applies. Login.gov and IRS Direct Pay remain alternatives for IRS access.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;纳税人使用 ID.me 登录美国国税局在线服务时，将接受把大多数争议提交仲裁、而非交由法官或陪审团审理的条款，除非在 30 天内选择退出。ID.me 的隐私政策称，其可能将信息用于营销，并在出售、合并或类似交易中转移信息。政府身份验证数据通常不会用于 ID.me Shop 的营销，但用户同意或符合其他列明例外的情况除外。IRS 仍提供 Login.gov 和无需登录的 Direct Pay 作为替代方式。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 492 · 💬 259 · Privacy · Legal · Politics · Business&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50540437&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/18/top_stories_11182026#story-50540437&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Court denies motion to dismiss DRAM price fixing case</title>
+      <link>https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50502988</guid>
+      <dc:creator>ybathaee</dc:creator>
+      <pubDate>Sun, 15 Nov 2026 01:18:36 +0000</pubDate>
+      <category>Legal</category>
+      <category>Business</category>
+      <description>&lt;p&gt;A federal judge refused to dismiss a proposed class action accusing Samsung, SK Hynix, and Micron of conspiring to restrict conventional DRAM supply and shift capacity toward HBM. Judge Noël Wise found that buyers had plausibly alleged an agreement violating Section 1 of the Sherman Act. The allegations have been accepted only for this procedural stage and have not been proven.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;一名联邦法官拒绝驳回一项拟议集体诉讼，该诉讼指控三星、SK 海力士和美光合谋限制传统 DRAM 供应，并将产能转向 HBM。Noël Wise 法官认定，买方对违反《谢尔曼法》第 1 条的合谋提出了具有可信性的指控。目前这些指控仅在这一程序阶段被视为成立，并未得到证实。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 492 · 💬 219 · Legal · Business&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50502988&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/15/top_stories_11152026#story-50502988&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Tech companies are trying to shift the concept of privacy again</title>
+      <link>https://www.eff.org/deeplinks/2026/11/tech-companies-are-trying-shift-entire-concept-privacy-again</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50496602</guid>
+      <dc:creator>gslin</dc:creator>
+      <pubDate>Sat, 14 Nov 2026 12:45:45 +0000</pubDate>
+      <category>Privacy</category>
+      <category>AI</category>
+      <description>&lt;p&gt;Privacy is increasingly affecting people beyond the individual who owns or uses a device. Meta and Google’s smart glasses can record what the wearer is looking at or use AI to describe it, extending the consequences of data collection to bystanders. The shift challenges the older framing of privacy as primarily a matter of personal choice.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;隐私问题正越来越多地影响设备所有者或使用者之外的人。Meta 和 Google 的智能眼镜可以记录佩戴者所看到的内容，或使用 AI 对其进行描述，使数据收集的后果波及旁观者。这种变化挑战了过去主要将隐私视为个人选择的传统定义。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 468 · 💬 175 · Privacy · AI&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50496602&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/14/top_stories_11142026#story-50496602&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Monkey Island: all 13 versions side by side</title>
+      <link>https://monkeyisland.pages.dev/</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50493904</guid>
+      <dc:creator>maximilianburke</dc:creator>
+      <pubDate>Sat, 14 Nov 2026 04:23:30 +0000</pubDate>
+      <category>Gaming</category>
+      <description>&lt;p&gt;The project presents every version of The Secret of Monkey Island from 1990 side by side, covering eight editions and 13 display modes across systems including Hercules, CGA, EGA, VGA, Amiga, Atari ST, Macintosh, FM Towns, and Sega CD. It shows the same 12 scenes in each version, with captures scaled to 1600×1200 using nearest-neighbor scaling and corrected for a 4:3 display. The presentation keeps the framing constant so differences come from the original machines and display modes.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;这个项目并排展示了 1990 年《猴岛的秘密》的所有版本，涵盖 Hercules、CGA、EGA、VGA、Amiga、Atari ST、Macintosh、FM Towns 和 Sega CD 等平台上的 8 个版本、13 种显示模式。每个版本都展示相同的 12 个场景，截图使用最近邻算法放大到 1600×1200，并进行 4:3 显示比例校正。展示保持相同构图，因此差异主要来自原始机器和显示模式。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 466 · 💬 147 · Gaming&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50493904&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/14/top_stories_11142026#story-50493904&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>I'm making LLMs work on small and old devices</title>
+      <link>https://github.com/hyperionaidev/smolmaxxing/</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50468888</guid>
+      <dc:creator>mrashad74</dc:creator>
+      <pubDate>Thu, 12 Nov 2026 15:23:10 +0000</pubDate>
+      <category>AI</category>
+      <category>Hardware</category>
+      <description>&lt;p&gt;smolmaxxing explores how to run the largest practical language models on small or old devices such as TV boxes, phones, single-board computers, and routers. It uses custom kernels, memory optimization, and weight streaming, with claims measured on the actual hardware. On a Xiaomi TV Box S 3rd Gen with about 1 GB of usable RAM, the project reports running models ranging from 260K to 16B parameters.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;smolmaxxing 探索如何在电视盒子、旧手机、单板计算机和路由器等小型或老旧设备上运行实际可用的最大语言模型。项目使用定制内核、内存优化和权重流式传输，并在真实硬件上测量各项结果。在可用内存约 1 GB 的 Xiaomi TV Box S 第三代上，项目报告称可运行参数量从 26 万到 160 亿不等的模型。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 466 · 💬 180 · AI · Hardware&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50468888&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/13/top_stories_11132026#story-50468888&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
