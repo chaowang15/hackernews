@@ -3,31 +3,224 @@
     "mode": "top",
     "source": "https://news.ycombinator.com/",
     "api": "https://github.com/HackerNews/API",
-    "count_requested": 50,
-    "count_written": 50,
-    "reused_same_day": 0,
-    "reused_cross_day": 15,
+    "count_requested": 100,
+    "count_written": 100,
+    "reused_same_day": 45,
+    "reused_cross_day": 8,
     "reused_history": 0,
-    "new_llm_enriched": 35,
-    "scrape_time_display": "08:04, November 19, 2026 (PST)",
+    "new_llm_enriched": 47,
+    "scrape_time_display": "18:04, November 19, 2026 (PST)",
     "timezone": "America/Los_Angeles",
     "date_dir": "2026/11/19",
     "content_date": "2026-11-19",
-    "edition": "morning",
-    "edition_label": "Morning 50",
-    "target_count": 50,
-    "run_time_local": "08:04, November 19, 2026 (PST)",
-    "run_time_utc": "2026-11-19 16:04:10 UTC",
+    "edition": "full",
+    "edition_label": "All 100",
+    "target_count": 100,
+    "run_time_local": "18:04, November 19, 2026 (PST)",
+    "run_time_utc": "2026-11-20 02:04:46 UTC",
     "incremental": true,
-    "stories_max": 50,
-    "hot_score_time_utc": "2026-11-19 16:05:26 UTC"
+    "stories_max": 100,
+    "hot_score_time_utc": "2026-11-20 02:06:08 UTC"
   },
   "items": [
+    {
+      "title_en": "Anthropic’s Nasdaq debut",
+      "url": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/",
+      "title_zh": "Anthropic 登陆纳斯达克",
+      "is_new": true,
+      "created_display": "Created: Nov 19, 2026 / 09:02 PT",
+      "image_url": null,
+      "summary_en": "Anthropic made its debut on the Nasdaq stock exchange.",
+      "summary_zh": "Anthropic 在纳斯达克证券交易所挂牌上市。",
+      "hn": {
+        "id": 50562754,
+        "type": "story",
+        "by": "wslh",
+        "score": 920,
+        "descendants": 1813,
+        "time": 1795107760,
+        "comments_url": "https://news.ycombinator.com/item?id=50562754"
+      },
+      "hot_score": 12.15,
+      "tags": [
+        "Finance",
+        "Business",
+        "AI"
+      ]
+    },
+    {
+      "title_en": "Pancreatic cancer halted by virus injection in three patients",
+      "url": "https://www.newscientist.com/article/2528235-pancreatic-cancer-halted-by-virus-injection-in-three-patients/",
+      "title_zh": "三名胰腺癌患者在接受病毒注射后病情得到遏制",
+      "is_new": true,
+      "created_display": "Created: Nov 19, 2026 / 09:25 PT",
+      "image_url": "https://www.newscientist.com/wp-content/uploads/2026/05/28111438/SEI_299218241.jpg",
+      "summary_en": "A virus injection halted pancreatic cancer in three patients.",
+      "summary_zh": "三名胰腺癌患者在接受病毒注射后，癌症病情得到遏制。",
+      "hn": {
+        "id": 50563066,
+        "type": "story",
+        "by": "cybermango",
+        "score": 599,
+        "descendants": 89,
+        "time": 1795109133,
+        "comments_url": "https://news.ycombinator.com/item?id=50563066"
+      },
+      "hot_score": 8.42,
+      "tags": [
+        "Health",
+        "Science"
+      ]
+    },
+    {
+      "title_en": "Gemini 4 Neon is the new #1 on the Models Engineering Index",
+      "url": "https://git-aarvin.github.io/mei/",
+      "title_zh": "Gemini 4 Neon 登上模型工程指数第一名",
+      "is_new": true,
+      "created_display": "Created: Nov 19, 2026 / 15:35 PT",
+      "image_url": "https://git-aarvin.github.io/mei/scatter/cost.png",
+      "summary_en": "The Models Engineering Index ranks language models by practical performance on engineering tasks, taking cost and token usage into account. Gemini 4 Neon is listed as the current number-one model on the index.",
+      "summary_zh": "模型工程指数根据语言模型在工程任务上的实际表现进行排名，同时考虑成本和 token 使用量。Gemini 4 Neon 目前位列该指数第一。",
+      "hn": {
+        "id": 50568130,
+        "type": "story",
+        "by": "hn-aarvin",
+        "score": 111,
+        "descendants": 59,
+        "time": 1795131335,
+        "comments_url": "https://news.ycombinator.com/item?id=50568130"
+      },
+      "hot_score": 7.31,
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "title_en": "UK government forced to admit it issued Apple a secret encryption order",
+      "url": "https://macanorak.com/uk-government-forced-to-admit-it-issued-apple-a-secret-encryption-order/",
+      "title_zh": "英国政府被迫承认曾向苹果发出秘密加密命令",
+      "is_new": true,
+      "created_display": "Created: Nov 19, 2026 / 08:21 PT",
+      "image_url": "https://macanorak.com/content/images/2026/11/Apple.jpg",
+      "summary_en": "The Investigatory Powers Tribunal rejected the UK government’s attempt to keep its order to Apple secret. The tribunal ruled that the government must acknowledge issuing Apple a Technical Capability Notice under Section 253 of the Investigatory Powers Act 2016. Such notices can require technology companies to alter services to facilitate investigatory powers, in this case amid a dispute over encrypted iCloud data.",
+      "summary_zh": "调查权力法庭驳回了英国政府试图对苹果命令保持保密的做法。法庭裁定，政府必须承认其依据《2016 年调查权力法》第 253 条向苹果发出过技术能力通知。这类通知可以要求科技公司修改服务，以协助行使调查权；本案涉及加密 iCloud 数据争议。",
+      "hn": {
+        "id": 50562113,
+        "type": "story",
+        "by": "Terretta",
+        "score": 513,
+        "descendants": 218,
+        "time": 1795105263,
+        "comments_url": "https://news.ycombinator.com/item?id=50562113"
+      },
+      "hot_score": 6.07,
+      "tags": [
+        "Privacy",
+        "Legal",
+        "Security",
+        "Politics"
+      ]
+    },
+    {
+      "title_en": "Visa, Mastercard and JPMorgan Customer Data Leaked by Hackers",
+      "url": "https://www.wsj.com/finance/banking/visa-mastercard-and-jpmorgan-customer-data-leaked-by-hackers-3b5a0f87",
+      "title_zh": "黑客泄露 Visa、万事达卡和摩根大通客户数据",
+      "is_new": true,
+      "created_display": "Created: Nov 19, 2026 / 15:32 PT",
+      "image_url": null,
+      "summary_en": "Hackers leaked customer data from Visa, Mastercard, and JPMorgan.",
+      "summary_zh": "黑客泄露了 Visa、万事达卡和摩根大通的客户数据。",
+      "hn": {
+        "id": 50568082,
+        "type": "story",
+        "by": "mikhael",
+        "score": 92,
+        "descendants": 26,
+        "time": 1795131131,
+        "comments_url": "https://news.ycombinator.com/item?id=50568082"
+      },
+      "hot_score": 5.91,
+      "tags": [
+        "Security",
+        "Privacy"
+      ]
+    },
+    {
+      "title_en": "Fuck Your AI Safeguards",
+      "url": "https://ounapuu.ee/posts/2026/11/19/unsafeguards/",
+      "title_zh": "去你的 AI 安全护栏",
+      "is_new": true,
+      "created_display": "Created: Nov 19, 2026 / 08:30 PT",
+      "image_url": "https://ounapuu.ee/posts/2026/11/19/unsafeguards/media/cover_hu_5a6285e4518135fc.jpg",
+      "summary_en": "A developer describes asking Claude Code to identify easy security improvements in a project and finding a one-line fix. The attempt was then blocked by AI safeguards, despite the developer saying they controlled the product and were trying to address security and compliance issues.",
+      "summary_zh": "一名开发者让 Claude Code 找出项目中容易修复的安全问题，并发现了一个只需一行代码即可解决的问题。随后，这一操作被 AI 安全护栏阻止，尽管开发者表示自己控制着该产品，目的是修复安全问题并满足合规要求。",
+      "hn": {
+        "id": 50562262,
+        "type": "story",
+        "by": "speckx",
+        "score": 482,
+        "descendants": 194,
+        "time": 1795105818,
+        "comments_url": "https://news.ycombinator.com/item?id=50562262"
+      },
+      "hot_score": 5.84,
+      "tags": [
+        "AI",
+        "Security"
+      ]
+    },
+    {
+      "title_en": "Claude solves two open problems in the physics of black holes",
+      "url": "https://www.anthropic.com/research/claude-black-hole-physics",
+      "title_zh": "Claude 破解黑洞物理学中的两个开放问题",
+      "is_new": true,
+      "created_display": "Created: Nov 19, 2026 / 09:30 PT",
+      "image_url": "https://assets.claude.com/57a443b51d13727573b7c1290130d09c5f434b2c.jpg",
+      "summary_en": "Claude Fable 5.2 is reported to have solved two open problems in theoretical physics involving black holes and the search for quantum gravity. The problems sit at the intersection of general relativity and quantum mechanics, whose mathematical incompatibility remains a central challenge in physics. Researchers often use holographic duality and simplified model universes to study these questions.",
+      "summary_zh": "据称，Claude Fable 5.2 解决了理论物理学中的两个开放问题，涉及黑洞和量子引力理论的探索。这些问题位于广义相对论与量子力学的交叉地带，而两者在数学上的不相容仍是物理学的核心挑战之一。研究人员经常借助全息对偶和简化的模型宇宙来研究这些问题。",
+      "hn": {
+        "id": 50563148,
+        "type": "story",
+        "by": "cybermango",
+        "score": 391,
+        "descendants": 180,
+        "time": 1795109444,
+        "comments_url": "https://news.ycombinator.com/item?id=50563148"
+      },
+      "hot_score": 5.57,
+      "tags": [
+        "AI",
+        "Science"
+      ]
+    },
+    {
+      "title_en": "Synology Security Advisory",
+      "url": "https://www.synology.com/en-uk/security/advisory/Synology_SA_26_21",
+      "title_zh": "群晖安全公告",
+      "is_new": true,
+      "created_display": "Created: Nov 19, 2026 / 14:13 PT",
+      "image_url": "https://fileres.synology.com/images/common/meta-tag-preview-image/img_synology.jpg",
+      "summary_en": "Synology has rated several BeeStation OS and DSM releases as critical and provided upgrade guidance. DSM 7.4 users are directed to version 7.4.1-90080-2 or later, while DSM 7.3 users should upgrade to 7.3.2-86009-6 or later; both releases were scheduled for November 20, 2026. APM and SRM versions listed in the advisory are not affected.",
+      "summary_zh": "群晖将多个 BeeStation OS 和 DSM 版本评为严重级别，并给出了升级建议。DSM 7.4 用户应升级到 7.4.1-90080-2 或更高版本，DSM 7.3 用户应升级到 7.3.2-86009-6 或更高版本；这两个修复版本计划于 2026 年 11 月 20 日发布。公告中列出的 APM 和 SRM 版本不受影响。",
+      "hn": {
+        "id": 50567209,
+        "type": "story",
+        "by": "choult",
+        "score": 103,
+        "descendants": 67,
+        "time": 1795126420,
+        "comments_url": "https://news.ycombinator.com/item?id=50567209"
+      },
+      "hot_score": 4.21,
+      "tags": [
+        "Security"
+      ]
+    },
     {
       "title_en": "How the European Commission rolled out Matrix to more than 40k staff",
       "url": "https://element.io/blog/how-the-european-commission-rolled-out-matrix-to-more-than-40-000-staff/",
       "title_zh": "欧洲委员会如何将 Matrix 推广给超过 4 万名员工",
-      "is_new": true,
+      "is_new": false,
       "created_display": "Created: Nov 19, 2026 / 02:58 PT",
       "image_url": "https://element.io/blog/content/images/size/w1200/2026/11/euc-conf__blog.png",
       "summary_en": "The European Commission moved from a Matrix proof of concept in December 2025 to a sovereign communication tool deployed on every Commission laptop by September 2026. Built on Matrix by Element and operated by the Commission itself, the service now supports more than 40,000 users. Commission officials described the operational challenges of scaling the system and how they addressed them.",
@@ -36,45 +229,44 @@
         "id": 50558533,
         "type": "story",
         "by": "liotier",
-        "score": 444,
-        "descendants": 223,
+        "score": 663,
+        "descendants": 323,
         "time": 1795085909,
         "comments_url": "https://news.ycombinator.com/item?id=50558533"
       },
-      "hot_score": 12.95,
       "tags": [
         "Open Source"
-      ]
+      ],
+      "hot_score": 3.98
     },
     {
-      "title_en": "Germany and Austria Call for European Control of TikTok",
-      "url": "https://www.techcentral.ie/germany-and-austria-call-for-european-control-of-tiktok/",
-      "title_zh": "德国和奥地利呼吁由欧洲控制 TikTok",
+      "title_en": "The 98% Slot Machine: How Paid Advertising Became an Extraction Tax",
+      "url": "https://globalcommercegraph.com/writing/the-ninety-eight-percent-slot-machine",
+      "title_zh": "98% 的老虎机：付费广告如何变成一种抽取税",
       "is_new": true,
-      "created_display": "Created: Nov 19, 2026 / 06:44 PT",
-      "image_url": "https://www.techcentral.ie/wp-content/uploads/2025/07/TikTok_25.2.jpg",
-      "summary_en": "Germany and Austria are proposing that TikTok's European business be placed under European management. Their joint statement calls for a corporate structure providing regional oversight of the platform's algorithms and user data, separate from Beijing-based parent company ByteDance. The proposal, described as an attempt to Europeanise TikTok, is seeking support from other EU member states.",
-      "summary_zh": "德国和奥地利提议将 TikTok 的欧洲业务置于欧洲管理之下。两国联合声明呼吁建立一种企业结构，对平台算法和用户数据实施区域监管，并与总部位于北京的母公司字节跳动分离。该提议被称为让 TikTok“欧洲化”的尝试，目前正寻求其他欧盟成员国支持。",
+      "created_display": "Created: Nov 19, 2026 / 10:35 PT",
+      "image_url": "https://globalcommercegraph.com/og-image.png",
+      "summary_en": "The essay argues that advertising auctions are calibrated to pay out just enough to keep advertisers participating. It says auction winners do not necessarily earn profits, but instead gain the opportunity to act as unpaid fulfillment contractors for Google and Meta.",
+      "summary_zh": "文章认为，广告竞价机制被调校到只支付足以让广告主继续参与的回报。它指出，竞价获胜者未必能获得利润，反而可能只是获得了为 Google 和 Meta 充当无偿履约承包商的机会。",
       "hn": {
-        "id": 50560795,
+        "id": 50564159,
         "type": "story",
-        "by": "thm",
-        "score": 58,
-        "descendants": 30,
-        "time": 1795099490,
-        "comments_url": "https://news.ycombinator.com/item?id=50560795"
+        "by": "dev1one1",
+        "score": 204,
+        "descendants": 111,
+        "time": 1795113317,
+        "comments_url": "https://news.ycombinator.com/item?id=50564159"
       },
-      "hot_score": 6.49,
+      "hot_score": 3.52,
       "tags": [
-        "Politics",
-        "Privacy"
+        "Business"
       ]
     },
     {
       "title_en": "Everything you need to survive and rebuild society",
       "url": "https://lastbook.org/",
       "title_zh": "一套帮助你生存并重建社会的完整资料库",
-      "is_new": true,
+      "is_new": false,
       "created_display": "Created: Nov 19, 2026 / 06:47 PT",
       "image_url": "https://lastbook.org/og-survive-rebuild-v2.png",
       "summary_en": "This is a free, open-source survival library containing local AI tools, maps, and instructional videos. After setup, it works offline on Mac, Windows, and Linux.",
@@ -83,186 +275,47 @@
         "id": 50560822,
         "type": "story",
         "by": "tejohnso",
-        "score": 49,
-        "descendants": 24,
+        "score": 362,
+        "descendants": 192,
         "time": 1795099638,
         "comments_url": "https://news.ycombinator.com/item?id=50560822"
       },
-      "hot_score": 5.59,
       "tags": [
         "AI",
         "Open Source"
-      ]
+      ],
+      "hot_score": 3.42
     },
     {
-      "title_en": "Making 8-page foldable zines from a single A4 sheet in the browser",
-      "url": "https://krthr.co/paper-folds-and-whats-new-in-fanzines-app/",
-      "title_zh": "在浏览器中用一张 A4 纸制作 8 页折叠小志",
+      "title_en": "Court: 4th Amendment Disallows Use Of AI-Generated 'Probable Cause'",
+      "url": "https://www.techdirt.com/2026/11/19/court-tells-cops-that-the-4th-amendment-doesnt-cover-ai-generated-probable-cause/",
+      "title_zh": "法院：第四修正案不允许使用 AI 生成的“可能原因”",
       "is_new": true,
-      "created_display": "Created: Nov 19, 2026 / 05:18 PT",
-      "image_url": "https://fanzines.app/images/editor-shot.webp",
-      "summary_en": "An update to fanzines.app adds real-spread design, batch photo importing, printer-safe margins, and English and Spanish support. The app is designed around a simple fold-and-cut method that turns one A4 sheet into an eight-page booklet without staples or glue.",
-      "summary_zh": "fanzines.app 的更新加入了按实际跨页设计、批量导入照片、打印安全边距，以及英语和西班牙语支持。该应用围绕一种简单的折叠和裁切方法设计，可将一张 A4 纸变成无需订书钉或胶水的 8 页小册子。",
+      "created_display": "Created: Nov 19, 2026 / 14:56 PT",
+      "image_url": "https://www.techdirt.com/wp-content/themes/techdirt/assets/images/td-rect-logo-white.png",
+      "summary_en": "A court ruled that AI-generated determinations of probable cause are not permitted under the Fourth Amendment. The decision could affect law-enforcement systems that rely on algorithmic judgments, including facial recognition, predictive policing, and AI features in policing products.",
+      "summary_zh": "一所法院裁定，根据美国宪法第四修正案，不能使用 AI 生成的“可能原因”认定。该判决可能影响依赖算法判断的执法系统，包括人脸识别、预测性警务以及警务产品中的 AI 功能。",
       "hn": {
-        "id": 50559719,
+        "id": 50567735,
         "type": "story",
-        "by": "krthr",
-        "score": 86,
-        "descendants": 25,
-        "time": 1795094291,
-        "comments_url": "https://news.ycombinator.com/item?id=50559719"
+        "by": "defrost",
+        "score": 49,
+        "descendants": 14,
+        "time": 1795129019,
+        "comments_url": "https://news.ycombinator.com/item?id=50567735"
       },
-      "hot_score": 5.07,
+      "hot_score": 2.51,
       "tags": [
-        "Web",
-        "Design"
-      ]
-    },
-    {
-      "title_en": "PHP 8.5.13",
-      "url": "https://www.php.net/ChangeLog-8.php",
-      "title_zh": "PHP 8.5.13",
-      "is_new": true,
-      "created_display": "Created: Nov 19, 2026 / 06:09 PT",
-      "image_url": "https://www.php.net/images/meta-image.png",
-      "summary_en": "PHP 8.5.13 is a release of PHP, the general-purpose programming language used by websites and other software.",
-      "summary_zh": "PHP 8.5.13 是 PHP 的一个发行版本。PHP 是一种通用编程语言，被网站和其他软件广泛使用。",
-      "hn": {
-        "id": 50560334,
-        "type": "story",
-        "by": "petecooper",
-        "score": 55,
-        "descendants": 21,
-        "time": 1795097390,
-        "comments_url": "https://news.ycombinator.com/item?id=50560334"
-      },
-      "hot_score": 4.6,
-      "tags": [
-        "Programming"
-      ]
-    },
-    {
-      "title_en": "Show HN: Foolscap – a writing app that reads your book and never writes for you",
-      "url": "https://foolscap.works/",
-      "title_zh": "Show HN：Foolscap，一款阅读你的书却永远不替你写作的应用",
-      "is_new": true,
-      "created_display": "Created: Nov 19, 2026 / 05:21 PT",
-      "image_url": "https://foolscap.works/share.png?v=3",
-      "summary_en": "Foolscap reads a manuscript as it is written and identifies its characters, ideas, narrative threads, and unresolved elements. Writers can respond to those observations in a dialogue, while a connected agent can answer questions about the book and perform actions. The system does not write directly into the user's work and is intended to support rather than bypass the creative process.",
-      "summary_zh": "Foolscap 会在用户写作时读取稿件，识别其中的人物、想法、叙事线索和未解决的内容。作者可以针对这些观察与系统对话，另一个连接的代理则能回答有关书稿的问题并执行操作。系统不会直接写入用户的作品，目标是辅助而非绕过创作过程。",
-      "hn": {
-        "id": 50559749,
-        "type": "story",
-        "by": "atugard",
-        "score": 75,
-        "descendants": 39,
-        "time": 1795094480,
-        "comments_url": "https://news.ycombinator.com/item?id=50559749"
-      },
-      "hot_score": 4.5,
-      "tags": [
-        "Show HN"
-      ]
-    },
-    {
-      "title_en": "OpenAI still has a WebRTC Problem",
-      "url": "https://moq.dev/blog/webrtc-is-still-the-problem/",
-      "title_zh": "OpenAI 仍面临 WebRTC 问题",
-      "is_new": true,
-      "created_display": "Created: Nov 19, 2026 / 06:20 PT",
-      "image_url": "https://moq.dev/og/blog/webrtc-is-still-the-problem/context.png",
-      "summary_en": "The piece argues that WebRTC can cause voice AI systems to lose parts of what users say, leading to requests to repeat themselves. It contrasts this behavior with Media over QUIC, or MoQ, and follows earlier criticism of OpenAI's use of WebRTC. WebRTC specialists at OpenAI subsequently contacted the author.",
-      "summary_zh": "文章认为，WebRTC 可能导致语音 AI 丢失用户说话的部分内容，从而频繁要求用户重复。文章将这一行为与 Media over QUIC（MoQ）进行对比，并延续了作者此前对 OpenAI 使用 WebRTC 的批评。OpenAI 的 WebRTC 专家随后联系了作者。",
-      "hn": {
-        "id": 50560461,
-        "type": "story",
-        "by": "surprisetalk",
-        "score": 47,
-        "descendants": 15,
-        "time": 1795098008,
-        "comments_url": "https://news.ycombinator.com/item?id=50560461"
-      },
-      "hot_score": 4.25,
-      "tags": [
+        "Legal",
+        "Privacy",
         "AI"
       ]
-    },
-    {
-      "title_en": "Gemini 4 Neon",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
-      "title_zh": "Gemini 4 Neon",
-      "is_new": true,
-      "created_display": "Created: Nov 18, 2026 / 13:34 PT",
-      "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-4-neon__blog-header__sm.width-1300.png",
-      "summary_en": "Google has introduced Gemini 4 Neon, a model aimed at complex coding, knowledge work, and scientific workflows. The company says it offers frontier-level intelligence with fast end-to-end task completion at a lower cost. The model is presented by Google DeepMind’s senior vice president and chief AI architect.",
-      "summary_zh": "Google 推出了 Gemini 4 Neon，面向复杂编程、知识工作和科学工作流。Google 表示，该模型以更低成本提供前沿级智能，并能快速完成端到端任务。该模型由 Google DeepMind 高级副总裁兼首席 AI 架构师发布。",
-      "hn": {
-        "id": 50552424,
-        "type": "story",
-        "by": "yigitdemirag",
-        "score": 953,
-        "descendants": 732,
-        "time": 1795037647,
-        "comments_url": "https://news.ycombinator.com/item?id=50552424"
-      },
-      "tags": [
-        "AI",
-        "Science"
-      ],
-      "hot_score": 4.14
-    },
-    {
-      "title_en": "SSD prices will start going down the second half of next year",
-      "url": "https://www.drivevault.io/blog/when-will-hard-drive-prices-come-down.html",
-      "title_zh": "明年下半年 SSD 价格将开始下降",
-      "is_new": true,
-      "created_display": "Created: Nov 19, 2026 / 01:05 PT",
-      "image_url": "https://images.unsplash.com/photo-1779896412126-ed004b6eb80c?auto=format&fit=crop&w=1600&q=80",
-      "summary_en": "The analysis projects that SSD prices will begin easing in the second half of 2027, while hard-drive prices may remain constrained into 2028. It bases the timeline on TrendForce forecasts, Seagate and Western Digital statements to investors, and retail price tracking. The different outlooks reflect separate production and supply conditions for flash storage and spinning disks.",
-      "summary_zh": "分析预计，SSD 价格将在 2027 年下半年开始回落，而硬盘价格可能持续紧张至 2028 年。该时间表参考了 TrendForce 的预测、希捷和西部数据向投资者披露的信息，以及零售价格跟踪。两者前景不同，源于闪存存储和机械硬盘各自不同的生产与供应状况。",
-      "hn": {
-        "id": 50557716,
-        "type": "story",
-        "by": "illidan1000",
-        "score": 212,
-        "descendants": 180,
-        "time": 1795079134,
-        "comments_url": "https://news.ycombinator.com/item?id=50557716"
-      },
-      "hot_score": 4.04,
-      "tags": [
-        "Hardware",
-        "Privacy"
-      ]
-    },
-    {
-      "title_en": "Unauthenticated remote code execution in Nginx",
-      "url": "https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities",
-      "title_zh": "Nginx 中存在无需认证的远程代码执行漏洞",
-      "is_new": true,
-      "created_display": "Created: Nov 18, 2026 / 07:19 PT",
-      "image_url": "https://www.datocms-assets.com/75231/1794936719-img_7875.png?fm=webp",
-      "summary_en": "Nginx has been reported to contain unauthenticated remote code execution vulnerabilities. The supplied records identify two related CVE entries, CVE-2026-123633 and CVE-2026-123007.",
-      "summary_zh": "据报道，Nginx 存在无需认证即可触发的远程代码执行漏洞。相关记录列出了两个 CVE 编号：CVE-2026-123633 和 CVE-2026-123007。",
-      "hn": {
-        "id": 50547374,
-        "type": "story",
-        "by": "speedping",
-        "score": 1464,
-        "descendants": 618,
-        "time": 1795015195,
-        "comments_url": "https://news.ycombinator.com/item?id=50547374"
-      },
-      "tags": [
-        "Security"
-      ],
-      "hot_score": 3.94
     },
     {
       "title_en": "Someone reported java4shell bug in September 2026",
       "url": "https://github.com/openjdk/jdk/pull/32781",
       "title_zh": "有人在 2026 年 9 月报告了 java4shell 漏洞",
-      "is_new": true,
+      "is_new": false,
       "created_display": "Created: Nov 19, 2026 / 03:47 PT",
       "image_url": "https://opengraph.githubassets.com/2b2acee30ccff47491216df39c72c373c9c6b37a7ec1569fddfe15f6c1f97ea7/openjdk/jdk/pull/32781",
       "summary_en": "An OpenJDK pull request reports a heap-corruption bug in the x86-64 AVX-512 VBMI Base64 decoder. The flaw appears when invalid input leaves a short padded tail, causing the decoder to calculate a negative output size and write beyond the logical output buffer before returning to Java. Valid inputs with lengths that are multiples of four do not trigger the issue.",
@@ -271,140 +324,263 @@
         "id": 50558906,
         "type": "story",
         "by": "notmine1337",
-        "score": 109,
-        "descendants": 27,
+        "score": 372,
+        "descendants": 95,
         "time": 1795088823,
         "comments_url": "https://news.ycombinator.com/item?id=50558906"
       },
-      "hot_score": 3.92,
       "tags": [
         "Security"
-      ]
+      ],
+      "hot_score": 2.44
     },
     {
-      "title_en": "What's New in PHP 8.6",
-      "url": "https://www.php.net/releases/8.6/en.php",
-      "title_zh": "PHP 8.6 新特性",
-      "is_new": true,
-      "created_display": "Created: Nov 19, 2026 / 01:27 PT",
-      "image_url": "https://www.php.net/images/php8/php_8_6_released.png",
-      "summary_en": "PHP 8.6 is a major language update that adds partial function application, a Duration class, a Polling API, and a new clamp() function. The release also emphasizes more expressive code, stronger types, and scalable I/O.",
-      "summary_zh": "PHP 8.6 是一次重要的语言更新，新增部分函数应用、Duration 类、Polling API 和 clamp() 函数。该版本还强调更具表现力的代码、更强的类型支持和可扩展 I/O。",
-      "hn": {
-        "id": 50557870,
-        "type": "story",
-        "by": "netol",
-        "score": 186,
-        "descendants": 95,
-        "time": 1795080435,
-        "comments_url": "https://news.ycombinator.com/item?id=50557870"
-      },
-      "hot_score": 3.82,
-      "tags": [
-        "Programming"
-      ]
-    },
-    {
-      "title_en": "15M web servers on one VM – smoltcp, DPDK, AF_XDP",
-      "url": "https://kapteko.com/15-million-webservers/",
-      "title_zh": "一台虚拟机运行 1500 万个 Web 服务器——smoltcp、DPDK 与 AF_XDP",
-      "is_new": true,
-      "created_display": "Created: Nov 18, 2026 / 21:56 PT",
-      "image_url": "https://kapteko.com/15-million-webservers/webservers-benchmark-social.png",
-      "summary_en": "The project aims to run 15 million web servers on one virtual machine with 10 GB of RAM and a single CPU core. It explores kernel bypass and moving the TCP/IP stack into user space, using technologies such as smoltcp, DPDK, and AF_XDP. The stated goal is to understand how far server density can be pushed, rather than to deploy a conventional web service.",
-      "summary_zh": "该项目的目标是在一台配备 10 GB 内存和单个 CPU 核心的虚拟机上运行 1500 万个 Web 服务器。项目探索内核旁路以及将 TCP/IP 协议栈移到用户态，并使用 smoltcp、DPDK 和 AF_XDP 等技术。其目标是研究服务器密度的极限，而不是部署传统的 Web 服务。",
-      "hn": {
-        "id": 50556533,
-        "type": "story",
-        "by": "fessguid",
-        "score": 278,
-        "descendants": 32,
-        "time": 1795067796,
-        "comments_url": "https://news.ycombinator.com/item?id=50556533"
-      },
-      "hot_score": 3.09,
-      "tags": [
-        "DevOps",
-        "Hardware"
-      ]
-    },
-    {
-      "title_en": "Why AI Wants to Be Local – With Pete Warden (Creator of Moonshine Voice)",
+      "title_en": "Pete warden on local AI, open models, voice interfaces, the future of hardware",
       "url": "https://thedataexchange.media/pete-warden-moonshine/",
-      "title_zh": "AI 为何想要本地运行——与 Moonshine Voice 创作者 Pete Warden 对谈",
-      "is_new": true,
+      "title_zh": "Pete Warden 谈本地 AI、开放模型、语音界面与硬件未来",
+      "is_new": false,
       "created_display": "Created: Nov 19, 2026 / 07:38 PT",
       "image_url": "https://thedataexchange.media/wp-content/uploads/2026/11/pete-warden-local-ai.001.jpeg",
-      "summary_en": "Pete Warden, co-creator of Moonshine Voice and a longtime deep learning engineer, discusses why more AI may run locally instead of in the cloud. The conversation covers open-weight models, running AI on laptops and browsers, low-latency speech interfaces, specialized versus end-to-end models, and new hardware approaches. It also examines the economics of local AI and infrastructure that could challenge GPU-centric systems.",
-      "summary_zh": "Moonshine Voice 联合创作者、长期从事深度学习的 Pete Warden 探讨了越来越多 AI 转向本地运行而非云端的原因。对谈涉及开放权重模型、在笔记本电脑和浏览器上运行 AI、低延迟语音界面、专用模型与端到端模型，以及新的硬件方案。双方还讨论了本地 AI 的经济性，以及可能挑战 GPU 中心化基础设施的技术路径。",
+      "summary_en": "Pete Warden, co-creator of Moonshine Voice and a longtime deep-learning engineer, discusses why more AI workloads may move from the cloud to local devices. The conversation covers open-weight models, running AI on laptops and browsers, low-latency speech models, and specialized versus end-to-end systems. It also examines the economics of local AI and hardware approaches that could challenge GPU-centric infrastructure.",
+      "summary_zh": "Moonshine Voice 联合创始人、资深深度学习工程师 Pete Warden 讨论了为什么越来越多的 AI 工作负载可能从云端转向本地设备。对话涉及开放权重模型、在笔记本电脑和浏览器上运行 AI、低延迟语音模型，以及专用模型与端到端模型之间的取舍。节目还讨论了本地 AI 的经济性，以及可能挑战 GPU 中心化基础设施的新型硬件方案。",
       "hn": {
         "id": 50561508,
         "type": "story",
         "by": "datascientist",
-        "score": 16,
-        "descendants": 2,
+        "score": 216,
+        "descendants": 195,
         "time": 1795102692,
         "comments_url": "https://news.ycombinator.com/item?id=50561508"
       },
-      "hot_score": 2.98,
+      "hot_score": 2.29,
       "tags": [
         "AI",
         "Hardware",
+        "Open Source",
         "DevOps"
       ]
     },
     {
-      "title_en": "Distributed, high-performance blob storage on SQLite",
-      "url": "https://zerodha.tech/blog/high-performance-distributed-blob-storage/",
-      "title_zh": "基于 SQLite 的分布式高性能 Blob 存储",
-      "is_new": true,
-      "created_display": "Created: Nov 19, 2026 / 00:39 PT",
-      "image_url": "https://zerodha.tech//static/images/blobasaur-og.png",
-      "summary_en": "The team behind Kite built Blobasaur, a sharded, distributed blob-storage server on top of SQLite for high-throughput reads and writes. It stores JSON blobs ranging from a few kilobytes to several megabytes and serves thousands of reads and writes per second on commodity hardware with single-digit millisecond latency. The system stores customizable trading-screen layouts, templates, drawings, and other user metadata for a platform with about 20 million customers.",
-      "summary_zh": "Kite 团队构建了 Blobasaur，这是一个基于 SQLite 的分片式分布式 Blob 存储服务器，用于处理高吞吐读写。它能够在普通硬件上以个位数毫秒延迟，每秒读写数千个从几 KB 到数 MB 不等的 JSON Blob。该系统用于存储约 2000 万用户的交易界面布局、模板、绘图和其他用户元数据。",
+      "title_en": "Unauthenticated remote code execution in Nginx",
+      "url": "https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities",
+      "title_zh": "Nginx 中存在无需认证的远程代码执行漏洞",
+      "is_new": false,
+      "created_display": "Created: Nov 18, 2026 / 07:19 PT",
+      "image_url": "https://www.datocms-assets.com/75231/1794936719-img_7875.png?fm=webp",
+      "summary_en": "Nginx has been reported to contain unauthenticated remote code execution vulnerabilities. The supplied records identify two related CVE entries, CVE-2026-123633 and CVE-2026-123007.",
+      "summary_zh": "据报道，Nginx 存在无需认证即可触发的远程代码执行漏洞。相关记录列出了两个 CVE 编号：CVE-2026-123633 和 CVE-2026-123007。",
       "hn": {
-        "id": 50557537,
+        "id": 50547374,
         "type": "story",
-        "by": "ghostfoxgod",
-        "score": 168,
-        "descendants": 38,
-        "time": 1795077585,
-        "comments_url": "https://news.ycombinator.com/item?id=50557537"
+        "by": "speedping",
+        "score": 1483,
+        "descendants": 637,
+        "time": 1795015195,
+        "comments_url": "https://news.ycombinator.com/item?id=50547374"
       },
-      "hot_score": 2.94,
       "tags": [
-        "Data",
-        "Hardware"
+        "Security"
+      ],
+      "hot_score": 2.25
+    },
+    {
+      "title_en": "Gemini 4 Neon",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
+      "title_zh": "Gemini 4 Neon",
+      "is_new": false,
+      "created_display": "Created: Nov 18, 2026 / 13:34 PT",
+      "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-4-neon__blog-header__sm.width-1300.png",
+      "summary_en": "Google has introduced Gemini 4 Neon, a model aimed at complex coding, knowledge work, and scientific workflows. The company says it offers frontier-level intelligence with fast end-to-end task completion at a lower cost. The model is presented by Google DeepMind’s senior vice president and chief AI architect.",
+      "summary_zh": "Google 推出了 Gemini 4 Neon，面向复杂编程、知识工作和科学工作流。Google 表示，该模型以更低成本提供前沿级智能，并能快速完成端到端任务。该模型由 Google DeepMind 高级副总裁兼首席 AI 架构师发布。",
+      "hn": {
+        "id": 50552424,
+        "type": "story",
+        "by": "yigitdemirag",
+        "score": 1016,
+        "descendants": 761,
+        "time": 1795037647,
+        "comments_url": "https://news.ycombinator.com/item?id=50552424"
+      },
+      "tags": [
+        "AI",
+        "Science"
+      ],
+      "hot_score": 2.16
+    },
+    {
+      "title_en": "RegExr: Temporarily Offline",
+      "url": "https://regexr.com/",
+      "title_zh": "RegExr：暂时离线",
+      "is_new": true,
+      "created_display": "Created: Nov 19, 2026 / 14:27 PT",
+      "image_url": null,
+      "summary_en": "RegExr has been taken offline temporarily while its maintainers modernize and secure the site. They said the codebase is aging and that the shutdown is intended to protect user data while security work is carried out.",
+      "summary_zh": "RegExr 暂时下线，以便维护者对网站进行现代化改造和安全加固。维护者表示，代码库已经老旧，此次停运旨在安全工作期间保护用户数据。",
+      "hn": {
+        "id": 50567374,
+        "type": "story",
+        "by": "somebudyelse",
+        "score": 49,
+        "descendants": 26,
+        "time": 1795127227,
+        "comments_url": "https://news.ycombinator.com/item?id=50567374"
+      },
+      "hot_score": 2.13,
+      "tags": [
+        "Programming",
+        "Web",
+        "Security"
       ]
     },
     {
-      "title_en": "Ruby2ßhell: Pre-authentication RCE on stock Rails",
-      "url": "https://verialabs.com/ruby2shell/",
-      "title_zh": "Ruby2ßhell：原生 Rails 上的预认证远程代码执行",
-      "is_new": true,
-      "created_display": "Created: Nov 18, 2026 / 21:09 PT",
-      "image_url": "https://verialabs.com/og/ruby2shell.png",
-      "summary_en": "Ruby2Shell is a one-byte heap overflow in Ruby's string case-conversion code. In common Ruby web frameworks and self-hosted software, the flaw can be reached without authentication when affected configurations or application code process strings in a legacy encoding. The advisory lists popular software whose latest versions bundle an affected Ruby.",
-      "summary_zh": "Ruby2Shell 是 Ruby 字符串大小写转换代码中的单字节堆溢出漏洞。在常见 Ruby Web 框架和自托管软件中，受影响的默认配置或处理旧式编码字符串的应用代码可能让攻击者无需认证触发该漏洞。公告列出了最新版本仍捆绑受影响 Ruby 的热门软件。",
+      "title_en": "Show HN: Cornhole News – A Hacker News inspired site for news across the Midwest",
+      "url": "https://cornholenews.news",
+      "title_zh": "Show HN：Cornhole News——一个受 Hacker News 启发的中西部新闻网站",
+      "is_new": false,
+      "created_display": "Created: Nov 19, 2026 / 07:38 PT",
+      "image_url": "https://cornholenews.news/opengraph-image",
+      "summary_en": "Cornhole News is a community news site for the Midwest, modeled after Hacker News. Its top stories and links are ranked by community votes.",
+      "summary_zh": "Cornhole News 是一个面向美国中西部、设计上受 Hacker News 启发的社区新闻网站。网站上的热门故事和链接由社区投票排名。",
       "hn": {
-        "id": 50556287,
+        "id": 50561515,
         "type": "story",
-        "by": "jdns",
-        "score": 285,
-        "descendants": 115,
-        "time": 1795064951,
-        "comments_url": "https://news.ycombinator.com/item?id=50556287"
+        "by": "cornholemedia",
+        "score": 189,
+        "descendants": 89,
+        "time": 1795102712,
+        "comments_url": "https://news.ycombinator.com/item?id=50561515"
       },
-      "hot_score": 2.83,
+      "hot_score": 2.01,
       "tags": [
-        "Security"
+        "Show HN",
+        "Web"
+      ]
+    },
+    {
+      "title_en": "Making 8-page foldable zines from a single A4 sheet in the browser",
+      "url": "https://krthr.co/paper-folds-and-whats-new-in-fanzines-app/",
+      "title_zh": "在浏览器中用一张 A4 纸制作 8 页折叠小志",
+      "is_new": false,
+      "created_display": "Created: Nov 19, 2026 / 05:18 PT",
+      "image_url": "https://fanzines.app/images/editor-shot.webp",
+      "summary_en": "An update to fanzines.app adds real-spread design, batch photo importing, printer-safe margins, and English and Spanish support. The app is designed around a simple fold-and-cut method that turns one A4 sheet into an eight-page booklet without staples or glue.",
+      "summary_zh": "fanzines.app 的更新加入了按实际跨页设计、批量导入照片、打印安全边距，以及英语和西班牙语支持。该应用围绕一种简单的折叠和裁切方法设计，可将一张 A4 纸变成无需订书钉或胶水的 8 页小册子。",
+      "hn": {
+        "id": 50559719,
+        "type": "story",
+        "by": "krthr",
+        "score": 253,
+        "descendants": 55,
+        "time": 1795094291,
+        "comments_url": "https://news.ycombinator.com/item?id=50559719"
+      },
+      "tags": [
+        "Web",
+        "Design"
+      ],
+      "hot_score": 1.97
+    },
+    {
+      "title_en": "We need smart people who give a shit",
+      "url": "https://violetpixel.com/blog/2026-11-17-we-need-smart-people-who-give-a-shit/",
+      "title_zh": "我们需要那些聪明且真正上心的人",
+      "is_new": true,
+      "created_display": "Created: Nov 18, 2026 / 15:53 PT",
+      "image_url": "https://violetpixel.com/88x31/any-browser.gif",
+      "summary_en": "The author argues that complex systems are held together by smart people who care deeply about their work. This view becomes especially apparent when examining how difficult systems function, or how close they are to failing. The essay begins from that observation about the people who keep complicated systems operating.",
+      "summary_zh": "作者认为，复杂系统依靠聪明且真正关心工作的人维系。这一点在观察复杂系统如何运转，或如何勉强维持运转时尤其明显。文章以这一关于维持复杂系统运行者的观察为出发点。",
+      "hn": {
+        "id": 50554045,
+        "type": "story",
+        "by": "ExMachina73",
+        "score": 782,
+        "descendants": 391,
+        "time": 1795046029,
+        "comments_url": "https://news.ycombinator.com/item?id=50554045"
+      },
+      "tags": [
+        "Culture"
+      ],
+      "hot_score": 1.91
+    },
+    {
+      "title_en": "Rebuilding my local voice assistant pipeline",
+      "url": "https://blog.platypush.tech/article/Rewriting-my-voice-assistant-pipeline",
+      "title_zh": "重构我的本地语音助手管线",
+      "is_new": true,
+      "created_display": "Created: Nov 19, 2026 / 12:57 PT",
+      "image_url": "https://s3.platypush.tech/static/images/voice-assistant-pipeline.png",
+      "summary_en": "The project revisits a self-hosted voice-assistant pipeline built with Platypush. Its latest change replaces openwakeword with microwakeword and aims to make voice detection smarter.",
+      "summary_zh": "该项目重新审视了一个使用 Platypush 构建的自托管语音助手管线。最新改动以 microwakeword 替换 openwakeword，并试图让语音检测更加智能。",
+      "hn": {
+        "id": 50566261,
+        "type": "story",
+        "by": "todsacerdoti",
+        "score": 59,
+        "descendants": 11,
+        "time": 1795121834,
+        "comments_url": "https://news.ycombinator.com/item?id=50566261"
+      },
+      "hot_score": 1.68,
+      "tags": [
+        "Programming",
+        "Open Source"
+      ]
+    },
+    {
+      "title_en": "Chrome AI features wasting much bandwidth",
+      "url": "https://perishablepress.com/chrome-ai-wasting-much-bandwidth/",
+      "title_zh": "Chrome 的 AI 功能正在浪费大量带宽",
+      "is_new": true,
+      "created_display": "Created: Nov 19, 2026 / 08:54 PT",
+      "image_url": "https://perishablepress.com/share/ga-pro-544x240.jpg",
+      "summary_en": "A user traced a sharp increase in bandwidth usage to Chrome’s recent AI and on-device features. Disabling all related options immediately stopped the unexplained data usage.",
+      "summary_zh": "一名用户发现，带宽用量激增与 Chrome 最近的 AI 和“设备端”功能有关。关闭相关设置后，无法解释的数据消耗立即停止。",
+      "hn": {
+        "id": 50562636,
+        "type": "story",
+        "by": "speckx",
+        "score": 126,
+        "descendants": 46,
+        "time": 1795107265,
+        "comments_url": "https://news.ycombinator.com/item?id=50562636"
+      },
+      "hot_score": 1.62,
+      "tags": [
+        "Web",
+        "AI"
+      ]
+    },
+    {
+      "title_en": "SSD prices may begin to decline in the latter half of 2027",
+      "url": "https://www.drivevault.io/blog/when-will-hard-drive-prices-come-down.html",
+      "title_zh": "SSD 价格可能从 2027 年下半年开始下降",
+      "is_new": false,
+      "created_display": "Created: Nov 19, 2026 / 01:05 PT",
+      "image_url": "https://images.unsplash.com/photo-1779896412126-ed004b6eb80c?auto=format&fit=crop&w=1600&q=80",
+      "summary_en": "SSD prices are expected to begin easing in the second half of 2027, while hard-drive prices may remain elevated into 2028. The forecast draws on TrendForce projections, Seagate and Western Digital earnings statements, and live retail-price tracking. Hard-drive supply is expected to take longer to improve because manufacturers have already sold much of their future output.",
+      "summary_zh": "预计 SSD 价格将从 2027 年下半年开始回落，而硬盘价格可能要到 2028 年仍维持高位。这一预测依据包括 TrendForce 的预期、希捷和西部数据的财报表述，以及实时零售价格追踪。硬盘供应改善所需时间更长，因为制造商已经提前售出了相当一部分未来产能。",
+      "hn": {
+        "id": 50557716,
+        "type": "story",
+        "by": "illidan1000",
+        "score": 299,
+        "descendants": 227,
+        "time": 1795079134,
+        "comments_url": "https://news.ycombinator.com/item?id=50557716"
+      },
+      "hot_score": 1.49,
+      "tags": [
+        "Business",
+        "Finance",
+        "Privacy"
       ]
     },
     {
       "title_en": "Cooling buildings is overtaking heating them as an energy need, IEA says",
       "url": "https://maccus.fr/en/cooling-overtaking-heating/",
       "title_zh": "IEA：建筑制冷的能源需求已超过供暖",
-      "is_new": true,
+      "is_new": false,
       "created_display": "Created: Nov 19, 2026 / 06:57 PT",
       "image_url": "https://maccus.fr/wp-content/uploads/2026/11/cooling-electricity-demand-2035-en.jpg",
       "summary_en": "The International Energy Agency says energy demand for cooling buildings has overtaken demand for heating for the first time. Its World Energy Outlook 2026 attributes the shift to rising incomes and temperatures. Outside China, 85% of households in emerging and developing economies face high temperatures during part of the year, while fewer than one in five own an air conditioner.",
@@ -413,187 +589,140 @@
         "id": 50560955,
         "type": "story",
         "by": "robtherobber",
-        "score": 23,
-        "descendants": 7,
+        "score": 154,
+        "descendants": 105,
         "time": 1795100234,
         "comments_url": "https://news.ycombinator.com/item?id=50560955"
       },
-      "hot_score": 2.81,
       "tags": [
         "Energy"
-      ]
-    },
-    {
-      "title_en": "Two stealth models just appeared on the leaderboard, both ahead of Fable 5.2",
-      "url": "https://contralabs.com/frontierdesign",
-      "title_zh": "两个隐身模型突然登上排行榜，均领先于 Fable 5.2",
-      "is_new": true,
-      "created_display": "Created: Nov 19, 2026 / 03:03 PT",
-      "image_url": "https://contralabs.com/frontierdesign/og/made-1779fd7dfd.jpg",
-      "summary_en": "A design benchmark compares frontier AI models using real, complex client briefs from Contra's marketplace. Professional designers in the Contra Labs network judge blind head-to-head comparisons, producing rankings for the participating models. The item reports that two unnamed stealth models appeared ahead of Fable 5.2 on the leaderboard.",
-      "summary_zh": "一个设计基准测试使用 Contra 市场中的真实复杂客户需求，对前沿 AI 模型进行比较。Contra Labs 网络中的专业设计师通过盲测一对一评选，为参与模型生成排名。该条目称，两款未公开名称的隐身模型出现在排行榜上，并领先于 Fable 5.2。",
-      "hn": {
-        "id": 50558559,
-        "type": "story",
-        "by": "cheptsov",
-        "score": 89,
-        "descendants": 32,
-        "time": 1795086200,
-        "comments_url": "https://news.ycombinator.com/item?id=50558559"
-      },
-      "hot_score": 2.63,
-      "tags": [
-        "AI"
-      ]
-    },
-    {
-      "title_en": "PostgreSQL 19 Released",
-      "url": "https://www.postgresql.org/about/news/postgresql-19-released-3449/",
-      "title_zh": "PostgreSQL 19 发布",
-      "is_new": true,
-      "created_display": "Created: Nov 19, 2026 / 06:11 PT",
-      "image_url": "https://www.postgresql.org/media/img/about/press/elephant.png",
-      "summary_en": "The PostgreSQL Global Development Group has released PostgreSQL 19, the latest major version of the open-source database. It adds REPACK (CONCURRENTLY) for optimizing tables without disrupting ongoing operations and the pg_plan_advice extension for controlling plan stability and query performance. Other features include read-your-writes consistency on standbys and get-or-create behavior that avoids a network round trip.",
-      "summary_zh": "PostgreSQL 全球开发组发布了 PostgreSQL 19，这是该开源数据库的最新主要版本。新版本加入 REPACK (CONCURRENTLY)，可在不中断运行中操作的情况下优化表，并提供用于控制计划稳定性和查询性能的 pg_plan_advice 扩展。其他功能包括备用节点上的读后写一致性，以及可省去一次网络往返的“获取或创建”行为。",
-      "hn": {
-        "id": 50560357,
-        "type": "story",
-        "by": "jkatz05",
-        "score": 26,
-        "descendants": 1,
-        "time": 1795097497,
-        "comments_url": "https://news.ycombinator.com/item?id=50560357"
-      },
-      "hot_score": 2.16,
-      "tags": [
-        "Open Source",
-        "Data"
-      ]
-    },
-    {
-      "title_en": "Inside Deutsche Bank",
-      "url": "https://www.inside-db.com/",
-      "title_zh": "德意志银行",
-      "is_new": true,
-      "created_display": "Created: Nov 18, 2026 / 07:38 PT",
-      "image_url": "https://www.inside-db.com/content/images/size/w1200/2026/09/_DSF9639.jpg",
-      "summary_en": "A major investigation into Deutsche Bank is based on a leak of more than 15 million files. The files cover sensitive functions including anti-financial-crime work, sanctions monitoring, internal auditing, and decisions about whether risky clients should remain customers. The investigation portrays flaws in the bank's culture, systemic blind spots, and tensions between profit-seeking and compliance.",
-      "summary_zh": "一项针对德意志银行的重大调查建立在超过 1500 万份泄露文件的基础上。这些文件涉及反金融犯罪、制裁监控、内部审计，以及决定高风险客户是否继续留存等敏感职能。调查呈现出该行文化中的缺陷、系统性盲点，以及追求利润与合规要求之间的矛盾。",
-      "hn": {
-        "id": 50547620,
-        "type": "story",
-        "by": "gyre007",
-        "score": 753,
-        "descendants": 251,
-        "time": 1795016313,
-        "comments_url": "https://news.ycombinator.com/item?id=50547620"
-      },
-      "tags": [
-        "Finance",
-        "Security",
-        "Business"
       ],
-      "hot_score": 2.07
+      "hot_score": 1.48
     },
     {
-      "title_en": "Anthropic prices initial public offering",
-      "url": "https://www.anthropic.com/news/anthropic-prices-initial-public-offering",
-      "title_zh": "Anthropic 确定 IPO 发行价",
-      "is_new": true,
-      "created_display": "Created: Nov 18, 2026 / 15:30 PT",
-      "image_url": "https://assets.claude.com/6d4a0d28992ade92d6fa63646fd9c9d318245c6c.jpg",
-      "summary_en": "Anthropic priced its initial public offering at $83 per Class A share. The offering consists of 980 million shares, including 956,351,354 sold by Anthropic and 23,648,646 sold by existing stockholders. Trading is expected to begin on Nasdaq under the symbol “ANT” on November 19, 2026, with closing expected the following day and an underwriter option for up to 147 million additional shares.",
-      "summary_zh": "Anthropic 将其 A 类普通股 IPO 发行价定为每股 83 美元。本次发行共 9.8 亿股，其中 Anthropic 出售 956,351,354 股，部分现有股东出售 23,648,646 股。股票预计于 2026 年 11 月 19 日以“ANT”为代码在纳斯达克开始交易，发行预计于次日完成，承销商另拥有最多追加购买 1.47 亿股的 30 天期权。",
+      "title_en": "15M web servers on one VM – smoltcp, DPDK, AF_XDP",
+      "url": "https://kapteko.com/15-million-webservers/",
+      "title_zh": "一台虚拟机运行 1500 万个 Web 服务器——smoltcp、DPDK 与 AF_XDP",
+      "is_new": false,
+      "created_display": "Created: Nov 18, 2026 / 21:56 PT",
+      "image_url": "https://kapteko.com/15-million-webservers/webservers-benchmark-social.png",
+      "summary_en": "The project aims to run 15 million web servers on one virtual machine with 10 GB of RAM and a single CPU core. It explores kernel bypass and moving the TCP/IP stack into user space, using technologies such as smoltcp, DPDK, and AF_XDP. The stated goal is to understand how far server density can be pushed, rather than to deploy a conventional web service.",
+      "summary_zh": "该项目的目标是在一台配备 10 GB 内存和单个 CPU 核心的虚拟机上运行 1500 万个 Web 服务器。项目探索内核旁路以及将 TCP/IP 协议栈移到用户态，并使用 smoltcp、DPDK 和 AF_XDP 等技术。其目标是研究服务器密度的极限，而不是部署传统的 Web 服务。",
       "hn": {
-        "id": 50553843,
+        "id": 50556533,
         "type": "story",
-        "by": "surprisetalk",
-        "score": 362,
-        "descendants": 673,
-        "time": 1795044609,
-        "comments_url": "https://news.ycombinator.com/item?id=50553843"
+        "by": "fessguid",
+        "score": 382,
+        "descendants": 41,
+        "time": 1795067796,
+        "comments_url": "https://news.ycombinator.com/item?id=50556533"
       },
       "tags": [
-        "Finance",
-        "AI"
+        "DevOps",
+        "Hardware"
       ],
-      "hot_score": 1.87
+      "hot_score": 1.44
     },
     {
-      "title_en": "Unblockable communication with gravity – Science Advances",
-      "url": "https://www.science.org/doi/10.1126/sciadv.aee0802",
-      "title_zh": "用重力实现不可阻断的通信——《Science Advances》",
-      "is_new": true,
-      "created_display": "Created: Nov 19, 2026 / 04:22 PT",
-      "image_url": null,
-      "summary_en": "The item concerns research titled “Unblockable communication with gravity,” published in Science Advances.",
-      "summary_zh": "该条目介绍了发表于《Science Advances》的研究《用重力实现不可阻断的通信》。",
+      "title_en": "What's New in PHP 8.6",
+      "url": "https://www.php.net/releases/8.6/en.php",
+      "title_zh": "PHP 8.6 新特性",
+      "is_new": false,
+      "created_display": "Created: Nov 19, 2026 / 01:27 PT",
+      "image_url": "https://www.php.net/images/php8/php_8_6_released.png",
+      "summary_en": "PHP 8.6 is a major language update that adds partial function application, a Duration class, a Polling API, and a new clamp() function. The release also emphasizes more expressive code, stronger types, and scalable I/O.",
+      "summary_zh": "PHP 8.6 是一次重要的语言更新，新增部分函数应用、Duration 类、Polling API 和 clamp() 函数。该版本还强调更具表现力的代码、更强的类型支持和可扩展 I/O。",
       "hn": {
-        "id": 50559179,
+        "id": 50557870,
         "type": "story",
-        "by": "rbanffy",
-        "score": 44,
-        "descendants": 14,
-        "time": 1795090920,
-        "comments_url": "https://news.ycombinator.com/item?id=50559179"
-      },
-      "hot_score": 1.86,
-      "tags": [
-        "Science"
-      ]
-    },
-    {
-      "title_en": "Multiple vulnerabilities in Regexp and String case conversion",
-      "url": "https://www.ruby-lang.org/en/news/2026/11/18/multiple-vulnerabilities-in-regexp-and-string/",
-      "title_zh": "Regexp 和字符串大小写转换中的多个漏洞",
-      "is_new": true,
-      "created_display": "Created: Nov 18, 2026 / 15:52 PT",
-      "image_url": "https://www.ruby-lang.org/images/og-image.png",
-      "summary_en": "Seven vulnerabilities have been found in Ruby’s regular expression engine and string case-conversion functionality. Proofs of concept show that some of them can trigger remote code execution. Ruby released versions 4.0.10, 3.4.13, and 3.3.14 to fix the issues and recommends upgrading; CVE identifiers have not yet been assigned.",
-      "summary_zh": "Ruby 的正则表达式引擎和字符串大小写转换功能中发现了七个漏洞。概念验证表明，其中一些漏洞可用于触发远程代码执行。Ruby 已发布 4.0.10、3.4.13 和 3.3.14 修复这些问题，并建议用户升级；这些漏洞尚未分配 CVE 编号。",
-      "hn": {
-        "id": 50554038,
-        "type": "story",
-        "by": "runesoerensen",
-        "score": 313,
-        "descendants": 119,
-        "time": 1795045970,
-        "comments_url": "https://news.ycombinator.com/item?id=50554038"
+        "by": "netol",
+        "score": 276,
+        "descendants": 126,
+        "time": 1795080435,
+        "comments_url": "https://news.ycombinator.com/item?id=50557870"
       },
       "tags": [
-        "Security",
         "Programming"
       ],
-      "hot_score": 1.68
+      "hot_score": 1.42
     },
     {
-      "title_en": "Seven new models at scalable price-performance",
-      "url": "https://microsoft.ai/news/microsoft-ignite-2026/",
-      "title_zh": "七个具备可扩展性价比的新模型",
+      "title_en": "AI isn't replacing your job. It's turning it into low-paid gig work",
+      "url": "https://restofworld.org/2026/ai-jobs-skills-gig-work/",
+      "title_zh": "AI 没有取代你的工作，而是把它变成低薪零工",
       "is_new": true,
-      "created_display": "Created: Nov 18, 2026 / 08:08 PT",
-      "image_url": "https://microsoft.ai/wp-content/uploads/2026/11/All-Up-Blog.jpg",
-      "summary_en": "Microsoft has announced seven new models positioned around scalable price-performance.",
-      "summary_zh": "Microsoft 宣布推出七个新模型，主打可扩展的价格与性能表现。",
+      "created_display": "Created: Nov 19, 2026 / 08:45 PT",
+      "image_url": "https://restofworld.org/wp-content/uploads/2026/11/GettyImages-2279457745.jpg",
+      "summary_en": "Platforms are recruiting doctors, lawyers, and Ph.D.s to generate and assess AI training data, often advertising high rates before imposing pay cuts or abruptly ending work. Outlier, operated by Scale AI, advertises up to $180 per hour for U.S. physicians working on cardiac scenarios, while comparable work is listed at $7.50 per hour in the Philippines and $12.50 in Tanzania. Although advanced credentials can raise advertised rates, the platforms retain control over payment and working conditions.",
+      "summary_zh": "一些平台招募医生、律师和博士生成并评估 AI 训练数据，往往先宣传高薪，随后降薪或突然停止派单。Scale AI 运营的 Outlier 为美国医生设计心脏病例场景开出最高每小时 180 美元的报价，而菲律宾和坦桑尼亚同类工作的报价分别为每小时 7.50 美元和 12.50 美元。更高学历可能带来更高的标价，但支付和工作条件仍由平台控制。",
       "hn": {
-        "id": 50548021,
+        "id": 50562500,
         "type": "story",
-        "by": "gmays",
-        "score": 584,
-        "descendants": 365,
-        "time": 1795018104,
-        "comments_url": "https://news.ycombinator.com/item?id=50548021"
+        "by": "cdrnsf",
+        "score": 113,
+        "descendants": 58,
+        "time": 1795106750,
+        "comments_url": "https://news.ycombinator.com/item?id=50562500"
+      },
+      "hot_score": 1.42,
+      "tags": [
+        "Career",
+        "Business",
+        "AI"
+      ]
+    },
+    {
+      "title_en": "Should governments slow frontier AI? Jacob Coxon and Robin Hanson debate [video]",
+      "url": "https://www.youtube.com/watch?v=lwfewYL7X0o",
+      "title_zh": "政府是否应放慢前沿 AI？Jacob Coxon 与 Robin Hanson 辩论（视频）",
+      "is_new": true,
+      "created_display": "Created: Nov 19, 2026 / 10:47 PT",
+      "image_url": null,
+      "summary_en": "Jacob Coxon and Robin Hanson debate whether governments should slow the development of frontier AI.",
+      "summary_zh": "Jacob Coxon 与 Robin Hanson 就政府是否应放慢前沿 AI 的发展展开辩论。",
+      "hn": {
+        "id": 50564366,
+        "type": "story",
+        "by": "sandslash",
+        "score": 77,
+        "descendants": 146,
+        "time": 1795114036,
+        "comments_url": "https://news.ycombinator.com/item?id=50564366"
+      },
+      "hot_score": 1.37,
+      "tags": [
+        "Politics",
+        "AI"
+      ]
+    },
+    {
+      "title_en": "Ruby2ßhell: Pre-authentication RCE on stock Rails",
+      "url": "https://verialabs.com/ruby2shell/",
+      "title_zh": "Ruby2ßhell：原生 Rails 上的预认证远程代码执行",
+      "is_new": false,
+      "created_display": "Created: Nov 18, 2026 / 21:09 PT",
+      "image_url": "https://verialabs.com/og/ruby2shell.png",
+      "summary_en": "Ruby2Shell is a one-byte heap overflow in Ruby's string case-conversion code. In common Ruby web frameworks and self-hosted software, the flaw can be reached without authentication when affected configurations or application code process strings in a legacy encoding. The advisory lists popular software whose latest versions bundle an affected Ruby.",
+      "summary_zh": "Ruby2Shell 是 Ruby 字符串大小写转换代码中的单字节堆溢出漏洞。在常见 Ruby Web 框架和自托管软件中，受影响的默认配置或处理旧式编码字符串的应用代码可能让攻击者无需认证触发该漏洞。公告列出了最新版本仍捆绑受影响 Ruby 的热门软件。",
+      "hn": {
+        "id": 50556287,
+        "type": "story",
+        "by": "jdns",
+        "score": 385,
+        "descendants": 165,
+        "time": 1795064951,
+        "comments_url": "https://news.ycombinator.com/item?id=50556287"
       },
       "tags": [
-        "AI"
+        "Security"
       ],
-      "hot_score": 1.66
+      "hot_score": 1.36
     },
     {
       "title_en": "Do not buy RAM, compress",
       "url": "https://curiousbits.nl/blog/do-not-buy-ram-compress/",
       "title_zh": "别买内存，压缩它",
-      "is_new": true,
+      "is_new": false,
       "created_display": "Created: Nov 19, 2026 / 00:56 PT",
       "image_url": "https://curiousbits.nl/static/blog/do-not-buy-ram-compress/apps.png",
       "summary_en": "The author turned to zram after running out of memory while running increasingly parallel AI workloads. Zram compresses memory and is already used by Windows, macOS, and many Android devices, but it is not enabled by default in many Linux distributions. Fedora and Pop!_OS enable it, while Ubuntu generally does not and Amazon Linux limits it to smaller virtual machines.",
@@ -602,22 +731,472 @@
         "id": 50557661,
         "type": "story",
         "by": "Ecno92",
-        "score": 83,
-        "descendants": 82,
+        "score": 260,
+        "descendants": 210,
         "time": 1795078607,
         "comments_url": "https://news.ycombinator.com/item?id=50557661"
       },
-      "hot_score": 1.53,
       "tags": [
         "Hardware",
         "AI"
+      ],
+      "hot_score": 1.27
+    },
+    {
+      "title_en": "Distributed, high-performance blob storage on SQLite",
+      "url": "https://zerodha.tech/blog/high-performance-distributed-blob-storage/",
+      "title_zh": "基于 SQLite 的分布式高性能 Blob 存储",
+      "is_new": false,
+      "created_display": "Created: Nov 19, 2026 / 00:39 PT",
+      "image_url": "https://zerodha.tech//static/images/blobasaur-og.png",
+      "summary_en": "The team behind Kite built Blobasaur, a sharded, distributed blob-storage server on top of SQLite for high-throughput reads and writes. It stores JSON blobs ranging from a few kilobytes to several megabytes and serves thousands of reads and writes per second on commodity hardware with single-digit millisecond latency. The system stores customizable trading-screen layouts, templates, drawings, and other user metadata for a platform with about 20 million customers.",
+      "summary_zh": "Kite 团队构建了 Blobasaur，这是一个基于 SQLite 的分片式分布式 Blob 存储服务器，用于处理高吞吐读写。它能够在普通硬件上以个位数毫秒延迟，每秒读写数千个从几 KB 到数 MB 不等的 JSON Blob。该系统用于存储约 2000 万用户的交易界面布局、模板、绘图和其他用户元数据。",
+      "hn": {
+        "id": 50557537,
+        "type": "story",
+        "by": "ghostfoxgod",
+        "score": 265,
+        "descendants": 69,
+        "time": 1795077585,
+        "comments_url": "https://news.ycombinator.com/item?id=50557537"
+      },
+      "tags": [
+        "Data",
+        "Hardware"
+      ],
+      "hot_score": 1.26
+    },
+    {
+      "title_en": "Inside Deutsche Bank",
+      "url": "https://www.inside-db.com/",
+      "title_zh": "德意志银行",
+      "is_new": false,
+      "created_display": "Created: Nov 18, 2026 / 07:38 PT",
+      "image_url": "https://www.inside-db.com/content/images/size/w1200/2026/09/_DSF9639.jpg",
+      "summary_en": "A major investigation into Deutsche Bank is based on a leak of more than 15 million files. The files cover sensitive functions including anti-financial-crime work, sanctions monitoring, internal auditing, and decisions about whether risky clients should remain customers. The investigation portrays flaws in the bank's culture, systemic blind spots, and tensions between profit-seeking and compliance.",
+      "summary_zh": "一项针对德意志银行的重大调查建立在超过 1500 万份泄露文件的基础上。这些文件涉及反金融犯罪、制裁监控、内部审计，以及决定高风险客户是否继续留存等敏感职能。调查呈现出该行文化中的缺陷、系统性盲点，以及追求利润与合规要求之间的矛盾。",
+      "hn": {
+        "id": 50547620,
+        "type": "story",
+        "by": "gyre007",
+        "score": 775,
+        "descendants": 258,
+        "time": 1795016313,
+        "comments_url": "https://news.ycombinator.com/item?id=50547620"
+      },
+      "tags": [
+        "Finance",
+        "Security",
+        "Business"
+      ],
+      "hot_score": 1.2
+    },
+    {
+      "title_en": "Bending Spoons has entered into a definitive agreement to acquire Mailchimp",
+      "url": "https://www.sec.gov/Archives/edgar/data/2004711/000200471126000026/bsp_ex99-1.htm",
+      "title_zh": "Bending Spoons 已达成收购 Mailchimp 的最终协议",
+      "is_new": true,
+      "created_display": "Created: Nov 19, 2026 / 14:06 PT",
+      "image_url": null,
+      "summary_en": "Bending Spoons has entered into a definitive agreement to acquire Mailchimp.",
+      "summary_zh": "Bending Spoons 已与 Mailchimp 达成最终收购协议。",
+      "hn": {
+        "id": 50567117,
+        "type": "story",
+        "by": "taubek",
+        "score": 30,
+        "descendants": 1,
+        "time": 1795125978,
+        "comments_url": "https://news.ycombinator.com/item?id=50567117"
+      },
+      "hot_score": 1.15,
+      "tags": [
+        "Business"
+      ]
+    },
+    {
+      "title_en": "An FBI agent called a Claude user about his chats",
+      "url": "https://austinpatrick.substack.com/p/when-should-ai-labs-alert-police",
+      "title_zh": "一名 FBI 探员因用户的 Claude 聊天记录致电联系对方",
+      "is_new": true,
+      "created_display": "Created: Nov 19, 2026 / 14:36 PT",
+      "image_url": null,
+      "summary_en": "An FBI agent called a Claude user about the user’s chats.",
+      "summary_zh": "一名 FBI 探员因一名 Claude 用户的聊天记录致电联系了该用户。",
+      "hn": {
+        "id": 50567485,
+        "type": "story",
+        "by": "AustinLikesAI",
+        "score": 25,
+        "descendants": 17,
+        "time": 1795127811,
+        "comments_url": "https://news.ycombinator.com/item?id=50567485"
+      },
+      "hot_score": 1.12,
+      "tags": [
+        "Privacy",
+        "Legal",
+        "AI"
+      ]
+    },
+    {
+      "title_en": "Google Chrome dev team declares bug report bankruptcy (2012)",
+      "url": "https://blog.plover.com/tech/bug-reports.html",
+      "title_zh": "Google Chrome 开发团队宣布 Bug 报告破产（2012）",
+      "is_new": true,
+      "created_display": "Created: Nov 19, 2026 / 08:20 PT",
+      "image_url": "https://pic.blog.plover.com/FIRST_IMAGE_DEFAULT.jpg",
+      "summary_en": "A 2012 item describes the Google Chrome development team declaring “bug report bankruptcy.” It appears in a broader archive of technology and programming notes.",
+      "summary_zh": "一篇 2012 年的内容描述了 Google Chrome 开发团队宣布“Bug 报告破产”。该内容收录于一个更广泛的技术与编程笔记档案中。",
+      "hn": {
+        "id": 50562101,
+        "type": "story",
+        "by": "speckx",
+        "score": 92,
+        "descendants": 41,
+        "time": 1795105212,
+        "comments_url": "https://news.ycombinator.com/item?id=50562101"
+      },
+      "hot_score": 1.08,
+      "tags": [
+        "Programming",
+        "Web"
+      ]
+    },
+    {
+      "title_en": "Unblockable communication with gravity",
+      "url": "https://www.science.org/doi/10.1126/sciadv.aee0802",
+      "title_zh": "用重力实现不可阻断的通信——《Science Advances》",
+      "is_new": false,
+      "created_display": "Created: Nov 19, 2026 / 04:22 PT",
+      "image_url": null,
+      "summary_en": "The item concerns research titled “Unblockable communication with gravity,” published in Science Advances.",
+      "summary_zh": "该条目介绍了发表于《Science Advances》的研究《用重力实现不可阻断的通信》。",
+      "hn": {
+        "id": 50559179,
+        "type": "story",
+        "by": "rbanffy",
+        "score": 152,
+        "descendants": 56,
+        "time": 1795090920,
+        "comments_url": "https://news.ycombinator.com/item?id=50559179"
+      },
+      "tags": [
+        "Science"
+      ],
+      "hot_score": 1.06
+    },
+    {
+      "title_en": "Germany and Austria Call for European Control of TikTok",
+      "url": "https://www.techcentral.ie/germany-and-austria-call-for-european-control-of-tiktok/",
+      "title_zh": "德国和奥地利呼吁由欧洲控制 TikTok",
+      "is_new": false,
+      "created_display": "Created: Nov 19, 2026 / 06:44 PT",
+      "image_url": "https://www.techcentral.ie/wp-content/uploads/2025/07/TikTok_25.2.jpg",
+      "summary_en": "Germany and Austria are proposing that TikTok's European business be placed under European management. Their joint statement calls for a corporate structure providing regional oversight of the platform's algorithms and user data, separate from Beijing-based parent company ByteDance. The proposal, described as an attempt to Europeanise TikTok, is seeking support from other EU member states.",
+      "summary_zh": "德国和奥地利提议将 TikTok 的欧洲业务置于欧洲管理之下。两国联合声明呼吁建立一种企业结构，对平台算法和用户数据实施区域监管，并与总部位于北京的母公司字节跳动分离。该提议被称为让 TikTok“欧洲化”的尝试，目前正寻求其他欧盟成员国支持。",
+      "hn": {
+        "id": 50560795,
+        "type": "story",
+        "by": "thm",
+        "score": 112,
+        "descendants": 125,
+        "time": 1795099490,
+        "comments_url": "https://news.ycombinator.com/item?id=50560795"
+      },
+      "tags": [
+        "Politics",
+        "Privacy"
+      ],
+      "hot_score": 1.05
+    },
+    {
+      "title_en": "Launch HN: Onlook (YC W25) – An open-source developer tool for designers",
+      "url": "https://github.com/onlook-dev/onlook/",
+      "title_zh": "Launch HN：Onlook（YC W25）——面向设计师的开源开发工具",
+      "is_new": true,
+      "created_display": "Created: Nov 19, 2026 / 08:34 PT",
+      "image_url": "https://opengraph.githubassets.com/9f20494bab716a6b955885a0f35d7771ebb60d16034bf864612953fb62ea679c/onlook-dev/onlook",
+      "summary_en": "Onlook is an open-source desktop app that places a design canvas over a real codebase, allowing designers to work directly in code with an existing agent. Users can work in multiple simultaneous worktrees running the actual app locally, with changes submitted as reviewable or discardable pull requests. The project says more than 25,000 designers and developers have supported it and over 100 people have contributed.",
+      "summary_zh": "Onlook 是一款开源桌面应用，在真实代码库之上提供设计画布，让设计师可以借助现有代理直接进行代码设计。用户可以在多个同时运行真实应用的工作树中操作，并将每次修改提交为可审查或可丢弃的拉取请求。项目方称已有超过 25,000 名设计师和开发者支持该项目，贡献者超过 100 人。",
+      "hn": {
+        "id": 50562320,
+        "type": "story",
+        "by": "D_R_Farrell",
+        "score": 85,
+        "descendants": 68,
+        "time": 1795106044,
+        "comments_url": "https://news.ycombinator.com/item?id=50562320"
+      },
+      "hot_score": 1.03,
+      "tags": [
+        "Open Source",
+        "Design",
+        "Startups"
+      ]
+    },
+    {
+      "title_en": "Anthropic prices initial public offering",
+      "url": "https://www.anthropic.com/news/anthropic-prices-initial-public-offering",
+      "title_zh": "Anthropic 确定 IPO 发行价",
+      "is_new": false,
+      "created_display": "Created: Nov 18, 2026 / 15:30 PT",
+      "image_url": "https://assets.claude.com/6d4a0d28992ade92d6fa63646fd9c9d318245c6c.jpg",
+      "summary_en": "Anthropic priced its initial public offering at $83 per Class A share. The offering consists of 980 million shares, including 956,351,354 sold by Anthropic and 23,648,646 sold by existing stockholders. Trading is expected to begin on Nasdaq under the symbol “ANT” on November 19, 2026, with closing expected the following day and an underwriter option for up to 147 million additional shares.",
+      "summary_zh": "Anthropic 将其 A 类普通股 IPO 发行价定为每股 83 美元。本次发行共 9.8 亿股，其中 Anthropic 出售 956,351,354 股，部分现有股东出售 23,648,646 股。股票预计于 2026 年 11 月 19 日以“ANT”为代码在纳斯达克开始交易，发行预计于次日完成，承销商另拥有最多追加购买 1.47 亿股的 30 天期权。",
+      "hn": {
+        "id": 50553843,
+        "type": "story",
+        "by": "surprisetalk",
+        "score": 411,
+        "descendants": 775,
+        "time": 1795044609,
+        "comments_url": "https://news.ycombinator.com/item?id=50553843"
+      },
+      "tags": [
+        "Finance",
+        "AI"
+      ],
+      "hot_score": 0.98
+    },
+    {
+      "title_en": "Seven new models at scalable price-performance",
+      "url": "https://microsoft.ai/news/microsoft-ignite-2026/",
+      "title_zh": "七个具备可扩展性价比的新模型",
+      "is_new": false,
+      "created_display": "Created: Nov 18, 2026 / 08:08 PT",
+      "image_url": "https://microsoft.ai/wp-content/uploads/2026/11/All-Up-Blog.jpg",
+      "summary_en": "Microsoft has announced seven new models positioned around scalable price-performance.",
+      "summary_zh": "Microsoft 宣布推出七个新模型，主打可扩展的价格与性能表现。",
+      "hn": {
+        "id": 50548021,
+        "type": "story",
+        "by": "gmays",
+        "score": 593,
+        "descendants": 376,
+        "time": 1795018104,
+        "comments_url": "https://news.ycombinator.com/item?id=50548021"
+      },
+      "tags": [
+        "AI"
+      ],
+      "hot_score": 0.94
+    },
+    {
+      "title_en": "Java4Shell: RCE in OpenJDK when processing Base64",
+      "url": "https://calif.io/java4shell/",
+      "title_zh": "Java4Shell：处理 Base64 时 OpenJDK 中的远程代码执行漏洞",
+      "is_new": true,
+      "created_display": "Created: Nov 17, 2026 / 13:11 PT",
+      "image_url": "https://calif.io/java4shell/poster.jpg",
+      "summary_en": "Calif disclosed Java4Shell, tracked as CVE-2026-114938, a memory-corruption vulnerability in OpenJDK's Base64 decoder. OpenJDK is described as the most popular Java runtime. The vulnerability has a CVSS 4.0 score of 9.2 out of 10, rated Critical. Its severity could make affected OpenJDK deployments a high-priority patching target.",
+      "summary_zh": "Calif 披露了 Java4Shell（编号 CVE-2026-114938），这是 OpenJDK Base64 解码器中的内存破坏漏洞。OpenJDK 被称为最流行的 Java 运行时。该漏洞在 CVSS 4.0 中获得 9.2 分（满分 10 分），评级为“严重”。这一评级意味着受影响的 OpenJDK 部署可能需要优先修补。",
+      "hn": {
+        "id": 50538240,
+        "type": "story",
+        "by": "werrett",
+        "score": 1176,
+        "descendants": 329,
+        "time": 1794949888,
+        "comments_url": "https://news.ycombinator.com/item?id=50538240"
+      },
+      "tags": [
+        "Security"
+      ],
+      "hot_score": 0.87
+    },
+    {
+      "title_en": "Multiple vulnerabilities in Regexp and String case conversion",
+      "url": "https://www.ruby-lang.org/en/news/2026/11/18/multiple-vulnerabilities-in-regexp-and-string/",
+      "title_zh": "Regexp 和字符串大小写转换中的多个漏洞",
+      "is_new": false,
+      "created_display": "Created: Nov 18, 2026 / 15:52 PT",
+      "image_url": "https://www.ruby-lang.org/images/og-image.png",
+      "summary_en": "Seven vulnerabilities have been found in Ruby’s regular expression engine and string case-conversion functionality. Proofs of concept show that some of them can trigger remote code execution. Ruby released versions 4.0.10, 3.4.13, and 3.3.14 to fix the issues and recommends upgrading; CVE identifiers have not yet been assigned.",
+      "summary_zh": "Ruby 的正则表达式引擎和字符串大小写转换功能中发现了七个漏洞。概念验证表明，其中一些漏洞可用于触发远程代码执行。Ruby 已发布 4.0.10、3.4.13 和 3.3.14 修复这些问题，并建议用户升级；这些漏洞尚未分配 CVE 编号。",
+      "hn": {
+        "id": 50554038,
+        "type": "story",
+        "by": "runesoerensen",
+        "score": 337,
+        "descendants": 129,
+        "time": 1795045970,
+        "comments_url": "https://news.ycombinator.com/item?id=50554038"
+      },
+      "tags": [
+        "Security",
+        "Programming"
+      ],
+      "hot_score": 0.82
+    },
+    {
+      "title_en": "OpenAI still has a WebRTC Problem",
+      "url": "https://moq.dev/blog/webrtc-is-still-the-problem/",
+      "title_zh": "OpenAI 仍面临 WebRTC 问题",
+      "is_new": false,
+      "created_display": "Created: Nov 19, 2026 / 06:20 PT",
+      "image_url": "https://moq.dev/og/blog/webrtc-is-still-the-problem/context.png",
+      "summary_en": "The piece argues that WebRTC can cause voice AI systems to lose parts of what users say, leading to requests to repeat themselves. It contrasts this behavior with Media over QUIC, or MoQ, and follows earlier criticism of OpenAI's use of WebRTC. WebRTC specialists at OpenAI subsequently contacted the author.",
+      "summary_zh": "文章认为，WebRTC 可能导致语音 AI 丢失用户说话的部分内容，从而频繁要求用户重复。文章将这一行为与 Media over QUIC（MoQ）进行对比，并延续了作者此前对 OpenAI 使用 WebRTC 的批评。OpenAI 的 WebRTC 专家随后联系了作者。",
+      "hn": {
+        "id": 50560461,
+        "type": "story",
+        "by": "surprisetalk",
+        "score": 92,
+        "descendants": 27,
+        "time": 1795098008,
+        "comments_url": "https://news.ycombinator.com/item?id=50560461"
+      },
+      "tags": [
+        "AI"
+      ],
+      "hot_score": 0.81
+    },
+    {
+      "title_en": "Show HN: Foolscap – a writing app that reads your book and never writes for you",
+      "url": "https://foolscap.works/",
+      "title_zh": "Show HN：Foolscap，一款阅读你的书却永远不替你写作的应用",
+      "is_new": false,
+      "created_display": "Created: Nov 19, 2026 / 05:21 PT",
+      "image_url": "https://foolscap.works/share.png?v=3",
+      "summary_en": "Foolscap reads a manuscript as it is written and identifies its characters, ideas, narrative threads, and unresolved elements. Writers can respond to those observations in a dialogue, while a connected agent can answer questions about the book and perform actions. The system does not write directly into the user's work and is intended to support rather than bypass the creative process.",
+      "summary_zh": "Foolscap 会在用户写作时读取稿件，识别其中的人物、想法、叙事线索和未解决的内容。作者可以针对这些观察与系统对话，另一个连接的代理则能回答有关书稿的问题并执行操作。系统不会直接写入用户的作品，目标是辅助而非绕过创作过程。",
+      "hn": {
+        "id": 50559749,
+        "type": "story",
+        "by": "atugard",
+        "score": 103,
+        "descendants": 84,
+        "time": 1795094480,
+        "comments_url": "https://news.ycombinator.com/item?id=50559749"
+      },
+      "tags": [
+        "Show HN"
+      ],
+      "hot_score": 0.8
+    },
+    {
+      "title_en": "PostgreSQL 19 Released",
+      "url": "https://www.postgresql.org/about/news/postgresql-19-released-3449/",
+      "title_zh": "PostgreSQL 19 发布",
+      "is_new": false,
+      "created_display": "Created: Nov 19, 2026 / 06:11 PT",
+      "image_url": "https://www.postgresql.org/media/img/about/press/elephant.png",
+      "summary_en": "The PostgreSQL Global Development Group has released PostgreSQL 19, the latest major version of the open-source database. It adds REPACK (CONCURRENTLY) for optimizing tables without disrupting ongoing operations and the pg_plan_advice extension for controlling plan stability and query performance. Other features include read-your-writes consistency on standbys and get-or-create behavior that avoids a network round trip.",
+      "summary_zh": "PostgreSQL 全球开发组发布了 PostgreSQL 19，这是该开源数据库的最新主要版本。新版本加入 REPACK (CONCURRENTLY)，可在不中断运行中操作的情况下优化表，并提供用于控制计划稳定性和查询性能的 pg_plan_advice 扩展。其他功能包括备用节点上的读后写一致性，以及可省去一次网络往返的“获取或创建”行为。",
+      "hn": {
+        "id": 50560357,
+        "type": "story",
+        "by": "jkatz05",
+        "score": 92,
+        "descendants": 7,
+        "time": 1795097497,
+        "comments_url": "https://news.ycombinator.com/item?id=50560357"
+      },
+      "tags": [
+        "Open Source",
+        "Data"
+      ],
+      "hot_score": 0.8
+    },
+    {
+      "title_en": "How to Make the Ink Used to Write Hamlet and the Declaration of Independence",
+      "url": "https://lithub.com/how-to-make-the-ink-used-to-write-hamlet-the-declaration-of-independence-and-beethovens-fifth/",
+      "title_zh": "如何制作《哈姆雷特》和《独立宣言》所用的墨水",
+      "is_new": false,
+      "created_display": "Created: Nov 19, 2026 / 07:13 PT",
+      "image_url": "https://s26162.pcdn.co/wp-content/uploads/2026/11/pen-and-ink.png",
+      "summary_en": "A recipe from the UK National Archives, written around 1483, explains how to make the ink used for works including the Magna Carta, Hamlet, and the Declaration of Independence. It calls for gall, copperas or vitriol, gum, and water, with the ingredients prepared and stirred over a period of two weeks.",
+      "summary_zh": "英国国家档案馆保存的一份约写于 1483 年的配方，介绍了用于《大宪章》《哈姆雷特》和《独立宣言》等作品的墨水制作方法。配方需要没食子、绿矾或硫酸盐、树胶和水，并要求将原料处理后搅拌约两周。",
+      "hn": {
+        "id": 50561170,
+        "type": "story",
+        "by": "ohjeez",
+        "score": 80,
+        "descendants": 33,
+        "time": 1795101203,
+        "comments_url": "https://news.ycombinator.com/item?id=50561170"
+      },
+      "tags": [
+        "Science"
+      ],
+      "hot_score": 0.79
+    },
+    {
+      "title_en": "AI agents ask better questions than KPMG accountants in audit trial",
+      "url": "https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/",
+      "title_zh": "审计试验中，AI 智能体比 KPMG 会计师提出了更好的问题",
+      "is_new": true,
+      "created_display": "Created: Nov 18, 2026 / 07:49 PT",
+      "image_url": "https://europeanbusinessmagazine.com/wp-content/uploads/2026/06/ai5555-1024x678.jpg",
+      "summary_en": "KPMG UK tested more than 100 AI agents on the accounts of a major UK-listed company. The agents sometimes investigated financial issues more deeply and asked better questions than the human audit team. The experiment raises questions about how automation could change the economics of auditing as machines take on more analytical work.",
+      "summary_zh": "KPMG 英国分部让 100 多个 AI 智能体审查一家英国上市大型公司的账目。在试验中，智能体有时比人类审计团队更深入地调查财务问题，并提出更好的问题。随着机器承担更多分析工作，这项试验引发了人们对自动化将如何改变审计行业经济模式的讨论。",
+      "hn": {
+        "id": 50547777,
+        "type": "story",
+        "by": "Betelbuddy",
+        "score": 484,
+        "descendants": 251,
+        "time": 1795016974,
+        "comments_url": "https://news.ycombinator.com/item?id=50547777"
+      },
+      "tags": [
+        "AI"
+      ],
+      "hot_score": 0.75
+    },
+    {
+      "title_en": "Two stealth models just appeared on the leaderboard, both ahead of Fable 5.2",
+      "url": "https://contralabs.com/frontierdesign",
+      "title_zh": "两个隐身模型突然登上排行榜，均领先于 Fable 5.2",
+      "is_new": false,
+      "created_display": "Created: Nov 19, 2026 / 03:03 PT",
+      "image_url": "https://contralabs.com/frontierdesign/og/made-1779fd7dfd.jpg",
+      "summary_en": "A design benchmark compares frontier AI models using real, complex client briefs from Contra's marketplace. Professional designers in the Contra Labs network judge blind head-to-head comparisons, producing rankings for the participating models. The item reports that two unnamed stealth models appeared ahead of Fable 5.2 on the leaderboard.",
+      "summary_zh": "一个设计基准测试使用 Contra 市场中的真实复杂客户需求，对前沿 AI 模型进行比较。Contra Labs 网络中的专业设计师通过盲测一对一评选，为参与模型生成排名。该条目称，两款未公开名称的隐身模型出现在排行榜上，并领先于 Fable 5.2。",
+      "hn": {
+        "id": 50558559,
+        "type": "story",
+        "by": "cheptsov",
+        "score": 125,
+        "descendants": 43,
+        "time": 1795086200,
+        "comments_url": "https://news.ycombinator.com/item?id=50558559"
+      },
+      "tags": [
+        "AI"
+      ],
+      "hot_score": 0.75
+    },
+    {
+      "title_en": "White House national cyber director leaving his post",
+      "url": "https://www.cbsnews.com/news/white-house-national-cyber-director-sean-cairncross-leaving/",
+      "title_zh": "白宫国家网络主任将离任",
+      "is_new": true,
+      "created_display": "Created: Nov 19, 2026 / 17:54 PT",
+      "image_url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/19/787a3b3e-f5a0-4042-a85c-6be1659ed842/thumbnail/1200x630g2/2b076860b3f77dd9d1af8a957147cc7e/ap26320828805068.jpg",
+      "summary_en": "White House official Sean Cairncross will leave his position as national cyber director. His departure comes as outages have affected Microsoft services, air-traffic-control systems, banks, and the National Security Agency’s internal network over the previous week.",
+      "summary_zh": "白宫官员 Sean Cairncross 将离任国家网络主任一职。他的离职发生在过去一周多起故障影响微软服务、空中交通管制系统、银行以及美国国家安全局内部网络之际。",
+      "hn": {
+        "id": 50569180,
+        "type": "story",
+        "by": "dlx",
+        "score": 4,
+        "descendants": 0,
+        "time": 1795139648,
+        "comments_url": "https://news.ycombinator.com/item?id=50569180"
+      },
+      "hot_score": 0.73,
+      "tags": [
+        "Politics",
+        "Security"
       ]
     },
     {
       "title_en": "LLM assisted reverse engineering",
       "url": "https://www.slowchronicle.com/posts/llm-assisted-reverse-engineering",
       "title_zh": "LLM 辅助逆向工程",
-      "is_new": true,
+      "is_new": false,
       "created_display": "Created: Nov 18, 2026 / 14:29 PT",
       "image_url": "https://www.slowchronicle.com/og-default.png",
       "summary_en": "A reverse engineer describes using AI to accelerate hardware and software analysis after two decades of largely manual work. The current workflow points an agent at a binary and applies a set of dedicated agent skills, with much of the remaining process handled automatically. The approach is presented as a brief account of the author’s reverse-engineering process.",
@@ -626,8 +1205,8 @@
         "id": 50553225,
         "type": "story",
         "by": "ioma8",
-        "score": 284,
-        "descendants": 72,
+        "score": 299,
+        "descendants": 76,
         "time": 1795040953,
         "comments_url": "https://news.ycombinator.com/item?id=50553225"
       },
@@ -636,37 +1215,156 @@
         "Security",
         "Hardware"
       ],
-      "hot_score": 1.34
+      "hot_score": 0.67
     },
     {
-      "title_en": "I built Cornhole News. A Hacker News inspired site for news across the Midwest",
-      "url": "https://cornholenews.news",
-      "title_zh": "我做了 Cornhole News：一个受 Hacker News 启发的中西部新闻网站",
+      "title_en": "No Bailout for the AI Bubble, Anthropic IPO Protesters Say",
+      "url": "https://www.techpolicy.press/no-bailout-for-the-ai-bubble-anthropic-ipo-protesters-say/",
+      "title_zh": "Anthropic IPO 抗议者称：不要救助 AI 泡沫",
       "is_new": true,
-      "created_display": "Created: Nov 19, 2026 / 07:38 PT",
-      "image_url": "https://cornholenews.news/opengraph-image",
-      "summary_en": "Cornhole News is a Hacker News-inspired site for news from the American Midwest. Its top stories and links are ranked by community votes.",
-      "summary_zh": "Cornhole News 是一个受 Hacker News 启发、聚焦美国中西部新闻的网站。网站根据社区投票为新闻和链接排序。",
+      "created_display": "Created: Nov 19, 2026 / 10:42 PT",
+      "image_url": "https://cdn.sanity.io/images/3tzzh18d/production/4ce401d4cfc4533fae7db892ef9dd1164b0048e3-2048x1366.jpg",
+      "summary_en": "Demonstrators gathered outside the Nasdaq in New York as Anthropic executives, including CEO Dario Amodei, rang the opening bell. Anthropic priced its initial public offering at $83 per share, with strong initial demand reported before midday trading began. Protesters used the debut to raise concerns about AI.",
+      "summary_zh": "Anthropic 高管、包括 CEO Dario Amodei 在内的管理层在纽约纳斯达克敲响开市钟时，场外聚集了抗议者。Anthropic 将首次公开募股定价为每股 83 美元，据报道在午间开始交易前需求强劲。抗议者借上市之机表达了对 AI 的担忧。",
       "hn": {
-        "id": 50561515,
+        "id": 50564282,
         "type": "story",
-        "by": "cornholemedia",
-        "score": 6,
-        "descendants": 2,
-        "time": 1795102712,
-        "comments_url": "https://news.ycombinator.com/item?id=50561515"
+        "by": "cdrnsf",
+        "score": 39,
+        "descendants": 19,
+        "time": 1795113733,
+        "comments_url": "https://news.ycombinator.com/item?id=50564282"
       },
-      "hot_score": 1.0,
+      "hot_score": 0.67,
       "tags": [
-        "Startups",
-        "Web"
+        "Politics",
+        "Business",
+        "AI",
+        "Finance"
       ]
+    },
+    {
+      "title_en": "JPMorgan, Visa, Mastercard say third-party vendors targeted in cyberattack",
+      "url": "https://www.reuters.com/legal/government/jpmorgan-says-third-party-vendors-targeted-cyberattack-2026-11-19/",
+      "title_zh": "摩根大通、Visa 和万事达卡称第三方供应商遭网络攻击",
+      "is_new": true,
+      "created_display": "Created: Nov 19, 2026 / 12:10 PT",
+      "image_url": null,
+      "summary_en": "JPMorgan, Visa, and Mastercard said that third-party vendors were targeted in a cyberattack.",
+      "summary_zh": "摩根大通、Visa 和万事达卡表示，第三方供应商成为网络攻击的目标。",
+      "hn": {
+        "id": 50565631,
+        "type": "story",
+        "by": "6thbit",
+        "score": 27,
+        "descendants": 3,
+        "time": 1795119015,
+        "comments_url": "https://news.ycombinator.com/item?id=50565631"
+      },
+      "hot_score": 0.63,
+      "tags": [
+        "Security",
+        "Finance"
+      ]
+    },
+    {
+      "title_en": "US Intelligence Hawks Plot to Sneak Through Warrantless Spying",
+      "url": "https://prospect.org/2026/11/18/intelligence-hawks-plot-to-sneak-through-warrantless-spying/",
+      "title_zh": "美国情报鹰派谋划悄悄推进无证监控",
+      "is_new": true,
+      "created_display": "Created: Nov 19, 2026 / 08:29 PT",
+      "image_url": "https://i0.wp.com/prospect.org/wp-content/uploads/2026/11/Baratta-FISA-111826.jpg?fit=2000%2C1333&ssl=1",
+      "summary_en": "Democratic intelligence hawks are seeking to renew the warrantless surveillance program known as Section 702 of FISA. The proposal would attach its reauthorization to the must-pass National Defense Authorization Act before the lame-duck session ends, despite the program having expired in June and prospects for privacy reforms improving after midterm victories.",
+      "summary_zh": "民主党内的情报鹰派正寻求重新授权《外国情报监视法》第 702 条所涉及的无证监控项目。方案拟在跛脚鸭会期结束前，将重新授权条款附加到必须通过的《国防授权法案》中；该项目已于 6 月到期，而中期选举胜利后隐私改革的前景有所改善。",
+      "hn": {
+        "id": 50562242,
+        "type": "story",
+        "by": "paimapi",
+        "score": 52,
+        "descendants": 4,
+        "time": 1795105756,
+        "comments_url": "https://news.ycombinator.com/item?id=50562242"
+      },
+      "hot_score": 0.62,
+      "tags": [
+        "Privacy",
+        "Security"
+      ]
+    },
+    {
+      "title_en": "Cincinnati Zoo's Fiona the hippo has died, days after ingesting a visitor's hat",
+      "url": "https://apnews.com/article/fiona-hippo-cincinnati-zoo-hat-3d90d10c57698af06e5a7a67bed05608",
+      "title_zh": "辛辛那提动物园的河马 Fiona 去世，数日前曾吞下游客的帽子",
+      "is_new": true,
+      "created_display": "Created: Nov 19, 2026 / 13:28 PT",
+      "image_url": null,
+      "summary_en": "Fiona, a hippopotamus at the Cincinnati Zoo, died days after ingesting a visitor’s hat.",
+      "summary_zh": "辛辛那提动物园的河马 Fiona 去世，数日前曾吞下一名游客的帽子。",
+      "hn": {
+        "id": 50566645,
+        "type": "story",
+        "by": "FigurativeVoid",
+        "score": 18,
+        "descendants": 2,
+        "time": 1795123702,
+        "comments_url": "https://news.ycombinator.com/item?id=50566645"
+      },
+      "hot_score": 0.56,
+      "tags": [
+        "Entertainment"
+      ]
+    },
+    {
+      "title_en": "Silicon Valley Is Suffering from Model Collapse",
+      "url": "https://www.theatlantic.com/technology/2026/11/silicon-valley-model-collapse/689505/",
+      "title_zh": "硅谷正遭遇模型崩溃",
+      "is_new": true,
+      "created_display": "Created: Nov 19, 2026 / 15:21 PT",
+      "image_url": null,
+      "summary_en": "The item concerns model collapse in Silicon Valley.",
+      "summary_zh": "该内容关注硅谷正在遭遇的模型崩溃现象。",
+      "hn": {
+        "id": 50568006,
+        "type": "story",
+        "by": "spking",
+        "score": 10,
+        "descendants": 4,
+        "time": 1795130510,
+        "comments_url": "https://news.ycombinator.com/item?id=50568006"
+      },
+      "hot_score": 0.55,
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "title_en": "PHP 8.5.13",
+      "url": "https://www.php.net/ChangeLog-8.php",
+      "title_zh": "PHP 8.5.13",
+      "is_new": false,
+      "created_display": "Created: Nov 19, 2026 / 06:09 PT",
+      "image_url": "https://www.php.net/images/meta-image.png",
+      "summary_en": "PHP 8.5.13 is a release of PHP, the general-purpose programming language used by websites and other software.",
+      "summary_zh": "PHP 8.5.13 是 PHP 的一个发行版本。PHP 是一种通用编程语言，被网站和其他软件广泛使用。",
+      "hn": {
+        "id": 50560334,
+        "type": "story",
+        "by": "petecooper",
+        "score": 62,
+        "descendants": 24,
+        "time": 1795097390,
+        "comments_url": "https://news.ycombinator.com/item?id=50560334"
+      },
+      "tags": [
+        "Programming"
+      ],
+      "hot_score": 0.53
     },
     {
       "title_en": "Genie 4 is now available",
       "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/",
       "title_zh": "Genie 4 现已开放使用",
-      "is_new": true,
+      "is_new": false,
       "created_display": "Created: Nov 18, 2026 / 10:49 PT",
       "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/resized_ProjectGenie_Thumbnail_v02.width-1300.png",
       "summary_en": "Google is rolling out Genie 4, its new world model, to eligible Google AI Ultra subscribers through Project Genie. Users can generate interactive worlds with real-time audio, edit environments using natural language, and share creations in a community gallery. Google AI Pro members can join a waitlist.",
@@ -675,21 +1373,68 @@
         "id": 50550415,
         "type": "story",
         "by": "leumon",
-        "score": 280,
-        "descendants": 181,
+        "score": 287,
+        "descendants": 182,
         "time": 1795027791,
         "comments_url": "https://news.ycombinator.com/item?id=50550415"
       },
       "tags": [
         "AI"
       ],
-      "hot_score": 0.97
+      "hot_score": 0.52
+    },
+    {
+      "title_en": "Top White House Cybersecurity Official Steps Down",
+      "url": "https://www.nytimes.com/2026/11/19/us/politics/white-house-cyber-director-departs.html",
+      "title_zh": "白宫最高网络安全官员离职",
+      "is_new": true,
+      "created_display": "Created: Nov 19, 2026 / 17:27 PT",
+      "image_url": null,
+      "summary_en": "A top White House cybersecurity official is stepping down.",
+      "summary_zh": "白宫一名最高级别的网络安全官员将离职。",
+      "hn": {
+        "id": 50569007,
+        "type": "story",
+        "by": "shevis",
+        "score": 4,
+        "descendants": 2,
+        "time": 1795138078,
+        "comments_url": "https://news.ycombinator.com/item?id=50569007"
+      },
+      "hot_score": 0.52,
+      "tags": [
+        "Security",
+        "Politics"
+      ]
+    },
+    {
+      "title_en": "Waymo stalls in high San Francisco floodwaters during storm",
+      "url": "https://ktla.com/news/california/waymo-stalls-san-francisco-floodwaters/",
+      "title_zh": "暴雨期间，Waymo 自动驾驶汽车在旧金山高位积水中抛锚",
+      "is_new": true,
+      "created_display": "Created: Nov 19, 2026 / 14:46 PT",
+      "image_url": null,
+      "summary_en": "A Waymo vehicle stalled in high floodwaters in San Francisco during a storm.",
+      "summary_zh": "暴雨期间，一辆 Waymo 自动驾驶汽车在旧金山的高位积水中抛锚。",
+      "hn": {
+        "id": 50567604,
+        "type": "story",
+        "by": "mikhael",
+        "score": 11,
+        "descendants": 0,
+        "time": 1795128360,
+        "comments_url": "https://news.ycombinator.com/item?id=50567604"
+      },
+      "hot_score": 0.49,
+      "tags": [
+        "Business"
+      ]
     },
     {
       "title_en": "DaisyRose-27B",
       "url": "https://www.radixark.com/blog/daisyrose-27b",
       "title_zh": "DaisyRose-27B",
-      "is_new": true,
+      "is_new": false,
       "created_display": "Created: Nov 18, 2026 / 11:39 PT",
       "image_url": "https://www.radixark.com/images/daisyrose-27b/hero.png",
       "summary_en": "RadixArk has released DaisyRose-27B, its first model, built on Qwen3.8-27B and trained with reinforcement learning using Miles. It was trained on long-horizon agent tasks with sessions of up to 1 million tokens, using 1,200 curated tasks over 18 days on 144 H200 GPUs. Terminal-Bench 4.1 pass@1 improved from 5.6% to 12.0%, and BF16, FP8, and NVFP4 checkpoints are available.",
@@ -698,21 +1443,21 @@
         "id": 50551046,
         "type": "story",
         "by": "de_sty",
-        "score": 244,
-        "descendants": 99,
+        "score": 249,
+        "descendants": 105,
         "time": 1795030756,
         "comments_url": "https://news.ycombinator.com/item?id=50551046"
       },
       "tags": [
         "AI"
       ],
-      "hot_score": 0.9
+      "hot_score": 0.47
     },
     {
       "title_en": "Show HN: ExitPath – Open-source ways out of Slack, Notion and Microsoft 365",
       "url": "https://exitpath-ruddy.vercel.app/",
       "title_zh": "Show HN：ExitPath——离开 Slack、Notion 和 Microsoft 365 的开源方案",
-      "is_new": true,
+      "is_new": false,
       "created_display": "Created: Nov 18, 2026 / 08:04 PT",
       "image_url": "https://exitpath-ruddy.vercel.app/og.png",
       "summary_en": "ExitPath helps users find and compare open-source alternatives to Slack, Notion, Microsoft 365, and other tools. It provides ratings, migration-difficulty scores, and step-by-step checklists. The project says that user activity stays in the browser.",
@@ -721,8 +1466,8 @@
         "id": 50547980,
         "type": "story",
         "by": "zerocool0101",
-        "score": 240,
-        "descendants": 88,
+        "score": 248,
+        "descendants": 93,
         "time": 1795017883,
         "comments_url": "https://news.ycombinator.com/item?id=50547980"
       },
@@ -731,13 +1476,86 @@
         "Open Source",
         "Web"
       ],
-      "hot_score": 0.68
+      "hot_score": 0.39
+    },
+    {
+      "title_en": "On The Use of AI-Based Tools to Find Bugs in Open Source Software",
+      "url": "https://www.haproxy.com/blog/on-the-use-of-ai-based-tools-to-find-bugs-in-open-source-software",
+      "title_zh": "关于使用 AI 工具寻找开源软件漏洞",
+      "is_new": true,
+      "created_display": "Created: Nov 19, 2026 / 15:34 PT",
+      "image_url": "https://www.haproxy.com/img/containers/posts/on-the-use-of-ai-based-tools-to-find-bugs-in-open-source-software.png/20d9dd7788fcfd8feb07f1fbd0114e12/on-the-use-of-ai-based-tools-to-find-bugs-in-open-source-software.png",
+      "summary_en": "It includes observations from HAProxy lead developer Willy Tarreau about AI-discovered bugs and access to models, while noting that the account reflects the author’s personal experience.",
+      "summary_zh": "该内容考察了 AI 辅助开源软件安全报告所面临的挑战。文中引用了 HAProxy 首席开发者 Willy Tarreau 对 AI 发现漏洞和模型访问问题的看法，同时说明这些内容代表作者个人经历。",
+      "hn": {
+        "id": 50568114,
+        "type": "story",
+        "by": "karalel",
+        "score": 7,
+        "descendants": 0,
+        "time": 1795131243,
+        "comments_url": "https://news.ycombinator.com/item?id=50568114"
+      },
+      "hot_score": 0.39,
+      "tags": [
+        "AI",
+        "Open Source",
+        "Programming"
+      ]
+    },
+    {
+      "title_en": "Codeberg.org Not Reachable",
+      "url": "https://social.anoxinon.de/@codebergstatus/117636437840688845",
+      "title_zh": "Codeberg.org 无法访问",
+      "is_new": true,
+      "created_display": "Created: Nov 18, 2026 / 02:02 PT",
+      "image_url": "https://social.anoxinon.de/packs/assets/logo-DXQkHAe5.svg",
+      "summary_en": "The codeberg.org domain became entirely unreachable after disappearing from its registrar account. Codeberg said the domain had not expired, no suspicious logins appeared in its account history, and it was seeking support while preparing a workaround on codeberg.eu.",
+      "summary_zh": "codeberg.org 域名在从注册商账户中消失后完全无法访问。Codeberg 表示域名并未过期，账户登录记录中也没有可疑登录；团队正在寻求客服协助，并准备在 codeberg.eu 上提供临时替代方案。",
+      "hn": {
+        "id": 50544261,
+        "type": "story",
+        "by": "hans_castorp",
+        "score": 321,
+        "descendants": 315,
+        "time": 1794996137,
+        "comments_url": "https://news.ycombinator.com/item?id=50544261"
+      },
+      "hot_score": 0.38,
+      "tags": [
+        "Open Source"
+      ]
+    },
+    {
+      "title_en": "Nintendo takes Picofly firmware down from GitHub [video]",
+      "url": "https://www.youtube.com/watch?v=-TLCGUpoD6c",
+      "title_zh": "任天堂从 GitHub 下架 Picofly 固件",
+      "is_new": false,
+      "created_display": "Created: Nov 18, 2026 / 06:56 PT",
+      "image_url": null,
+      "summary_en": "Nintendo has taken the Picofly firmware down from GitHub. The item also includes a video about the takedown.",
+      "summary_zh": "任天堂已将 Picofly 固件从 GitHub 下架。该条目还包含一段介绍此次下架的视频。",
+      "hn": {
+        "id": 50547048,
+        "type": "story",
+        "by": "cowlevel",
+        "score": 257,
+        "descendants": 100,
+        "time": 1795013764,
+        "comments_url": "https://news.ycombinator.com/item?id=50547048"
+      },
+      "tags": [
+        "Security",
+        "Programming",
+        "Gaming"
+      ],
+      "hot_score": 0.38
     },
     {
       "title_en": "Show HN: Take Voyager 1 apart, down to a single memory chip",
       "url": "https://rshekhar.com/voyager/",
       "title_zh": "Show HN：拆解旅行者 1 号，直到一块内存芯片",
-      "is_new": true,
+      "is_new": false,
       "created_display": "Created: Nov 18, 2026 / 08:18 PT",
       "image_url": "https://rshekhar.com/voyager/og.jpg",
       "summary_en": "An interactive project lets users explore Voyager 1 down to individual components, including a single memory chip. It also shows the current locations of both Voyager spacecraft, the 24 plutonium spheres in a nuclear battery, the Golden Record’s cover, and the ground dish listening to the probes. The project includes a four-minute film and describes how Voyager 1 was repaired by radio.",
@@ -746,8 +1564,8 @@
         "id": 50548161,
         "type": "story",
         "by": "raj-shekhar",
-        "score": 227,
-        "descendants": 56,
+        "score": 234,
+        "descendants": 57,
         "time": 1795018731,
         "comments_url": "https://news.ycombinator.com/item?id=50548161"
       },
@@ -757,107 +1575,37 @@
         "Hardware",
         "Energy"
       ],
-      "hot_score": 0.65
+      "hot_score": 0.37
     },
     {
-      "title_en": "How to Make the Ink Used to Write Hamlet and the Declaration of Independence",
-      "url": "https://lithub.com/how-to-make-the-ink-used-to-write-hamlet-the-declaration-of-independence-and-beethovens-fifth/",
-      "title_zh": "如何制作《哈姆雷特》和《独立宣言》所用的墨水",
+      "title_en": "US National Cyber Director to step down",
+      "url": "https://www.axios.com/2026/11/19/trump-national-cyber-director-sean-cairncross-leaving",
+      "title_zh": "美国国家网络主任将离任",
       "is_new": true,
-      "created_display": "Created: Nov 19, 2026 / 07:13 PT",
-      "image_url": "https://s26162.pcdn.co/wp-content/uploads/2026/11/pen-and-ink.png",
-      "summary_en": "A recipe from the UK National Archives, written around 1483, explains how to make the ink used for works including the Magna Carta, Hamlet, and the Declaration of Independence. It calls for gall, copperas or vitriol, gum, and water, with the ingredients prepared and stirred over a period of two weeks.",
-      "summary_zh": "英国国家档案馆保存的一份约写于 1483 年的配方，介绍了用于《大宪章》《哈姆雷特》和《独立宣言》等作品的墨水制作方法。配方需要没食子、绿矾或硫酸盐、树胶和水，并要求将原料处理后搅拌约两周。",
+      "created_display": "Created: Nov 19, 2026 / 16:21 PT",
+      "image_url": null,
+      "summary_en": "The U.S. national cyber director is stepping down.",
+      "summary_zh": "美国国家网络主任将离任。",
       "hn": {
-        "id": 50561170,
+        "id": 50568510,
         "type": "story",
-        "by": "ohjeez",
+        "by": "qphe95",
         "score": 5,
-        "descendants": 0,
-        "time": 1795101203,
-        "comments_url": "https://news.ycombinator.com/item?id=50561170"
-      },
-      "hot_score": 0.6,
-      "tags": [
-        "Science"
-      ]
-    },
-    {
-      "title_en": "F-22 Next-Generation micro–Data Transfer Cartridge (mDTC)",
-      "url": "https://sam.gov/workspace/contract/opp/8948e8601e964c6aba9c801eee16b1be/view",
-      "title_zh": "F-22 下一代微型数据传输盒（mDTC）",
-      "is_new": true,
-      "created_display": "Created: Nov 18, 2026 / 07:35 PT",
-      "image_url": null,
-      "summary_en": "The F-22 Next-Generation micro–Data Transfer Cartridge (mDTC) is the subject of this item.",
-      "summary_zh": "该项目涉及 F-22 下一代微型数据传输盒（mDTC）。",
-      "hn": {
-        "id": 50547583,
-        "type": "story",
-        "by": "birdboat00",
-        "score": 192,
-        "descendants": 123,
-        "time": 1795016144,
-        "comments_url": "https://news.ycombinator.com/item?id=50547583"
-      },
-      "tags": [
-        "Hardware"
-      ],
-      "hot_score": 0.52
-    },
-    {
-      "title_en": "Nintendo takes Picofly firmware down from GitHub [video]",
-      "url": "https://www.youtube.com/watch?v=-TLCGUpoD6c",
-      "title_zh": "任天堂从 GitHub 下架 Picofly 固件",
-      "is_new": true,
-      "created_display": "Created: Nov 18, 2026 / 06:56 PT",
-      "image_url": null,
-      "summary_en": "Nintendo has taken the Picofly firmware down from GitHub. The item also includes a video about the takedown.",
-      "summary_zh": "任天堂已将 Picofly 固件从 GitHub 下架。该条目还包含一段介绍此次下架的视频。",
-      "hn": {
-        "id": 50547048,
-        "type": "story",
-        "by": "cowlevel",
-        "score": 141,
-        "descendants": 41,
-        "time": 1795013764,
-        "comments_url": "https://news.ycombinator.com/item?id=50547048"
+        "descendants": 1,
+        "time": 1795134112,
+        "comments_url": "https://news.ycombinator.com/item?id=50568510"
       },
       "hot_score": 0.37,
       "tags": [
-        "Security",
-        "Programming",
-        "Gaming"
+        "Politics",
+        "Security"
       ]
-    },
-    {
-      "title_en": "Palo Alto Networks to Acquire Applied Compute for $4.5B",
-      "url": "https://investors.paloaltonetworks.com/news-releases/news-release-details/palo-alto-networks-acquire-applied-compute-bringing-secure-open",
-      "title_zh": "Palo Alto Networks 将以 45 亿美元收购 Applied Compute",
-      "is_new": true,
-      "created_display": "Created: Nov 18, 2026 / 15:49 PT",
-      "image_url": null,
-      "summary_en": "Palo Alto Networks plans to acquire Applied Compute for $4.5 billion.",
-      "summary_zh": "Palo Alto Networks 计划以 45 亿美元收购 Applied Compute。",
-      "hn": {
-        "id": 50554009,
-        "type": "story",
-        "by": "alpb",
-        "score": 70,
-        "descendants": 24,
-        "time": 1795045753,
-        "comments_url": "https://news.ycombinator.com/item?id=50554009"
-      },
-      "tags": [
-        "Business"
-      ],
-      "hot_score": 0.37
     },
     {
       "title_en": "Show HN: Watch weight-space programming in action with WebGPU",
       "url": "https://tabbyml.github.io/weight-space-playground/",
       "title_zh": "Show HN：用 WebGPU 展示权重空间编程",
-      "is_new": true,
+      "is_new": false,
       "created_display": "Created: Nov 19, 2026 / 07:32 PT",
       "image_url": "https://tabbyml.github.io/weight-space-playground/og-cover.png",
       "summary_en": "This browser-based interactive walkthrough demonstrates a weight-space programming loop using WebGPU and the Qwen3.5-0.8B model. It edits 0.016% of the model's weights to reduce reasoning loops, then evaluates the result without gradient descent. The complete loop required too much VRAM, so the project presents a concrete example instead.",
@@ -866,94 +1614,117 @@
         "id": 50561436,
         "type": "story",
         "by": "wsxiaoys",
-        "score": 3,
-        "descendants": 0,
+        "score": 33,
+        "descendants": 3,
         "time": 1795102367,
         "comments_url": "https://news.ycombinator.com/item?id=50561436"
       },
-      "hot_score": 0.37,
       "tags": [
         "Show HN",
         "Programming",
         "Web"
+      ],
+      "hot_score": 0.34
+    },
+    {
+      "title_en": "UK government forced to disclose secret Apple backdoor order",
+      "url": "https://techcrunch.com/2026/11/19/u-k-government-forced-to-disclose-secret-apple-backdoor-order/",
+      "title_zh": "英国政府被迫披露要求苹果提供加密数据的秘密命令",
+      "is_new": true,
+      "created_display": "Created: Nov 19, 2026 / 16:42 PT",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2021/08/icloud-pattern-with-key-red.jpg?resize=1200,675",
+      "summary_en": "The U.K. government was ordered to confirm that it issued Apple a secret order demanding access to encrypted customer information. The Investigatory Powers Tribunal rejected the claim that disclosure would harm national security. The ruling is a rare rebuke to the government’s effort to keep the encryption order secret.",
+      "summary_zh": "英国政府被裁定必须确认其曾向苹果发出秘密命令，要求提供客户的加密信息。英国调查权力法庭驳回了披露该命令会损害国家安全的说法。这一裁决罕见地驳斥了政府试图对加密命令保密的做法。",
+      "hn": {
+        "id": 50568674,
+        "type": "story",
+        "by": "Coeur",
+        "score": 4,
+        "descendants": 1,
+        "time": 1795135334,
+        "comments_url": "https://news.ycombinator.com/item?id=50568674"
+      },
+      "hot_score": 0.33,
+      "tags": [
+        "Privacy",
+        "Security",
+        "Politics"
       ]
     },
     {
-      "title_en": "Show HN: Mastra Factory, the open-source software factory we use to build Mastra",
-      "url": "https://news.ycombinator.com/item?id=50548660",
-      "title_zh": "Show HN：Mastra Factory，用于构建 Mastra 的开源软件工厂",
-      "is_new": true,
-      "created_display": "Created: Nov 18, 2026 / 08:53 PT",
+      "title_en": "F-22 Next-Generation micro–Data Transfer Cartridge (mDTC)",
+      "url": "https://sam.gov/workspace/contract/opp/8948e8601e964c6aba9c801eee16b1be/view",
+      "title_zh": "F-22 下一代微型数据传输盒（mDTC）",
+      "is_new": false,
+      "created_display": "Created: Nov 18, 2026 / 07:35 PT",
       "image_url": null,
-      "summary_en": "The Mastra team has released Mastra Factory, an open-source software factory used to maintain its TypeScript agent framework. Factory merged 238 pull requests last week, compared with 630 merged by humans, while Mastra averages nearly 4 million downloads per week. It combines an agentic kanban board, durable agents, conversational memory, a cited Markdown wiki, PR-triggered sessions, and a customizable cloud sandbox.",
-      "summary_zh": "Mastra 团队发布了 Mastra Factory，这是用于维护其 TypeScript 智能体框架的开源软件工厂。上周 Factory 合并了 238 个拉取请求，人类则合并了 630 个；Mastra 每周平均下载量接近 400 万次。Factory 集成了智能体看板、持久化智能体、对话记忆、带来源引用的 Markdown wiki、由 PR 评论触发的会话，以及可定制的云沙箱。",
+      "summary_en": "The F-22 Next-Generation micro–Data Transfer Cartridge (mDTC) is the subject of this item.",
+      "summary_zh": "该项目涉及 F-22 下一代微型数据传输盒（mDTC）。",
       "hn": {
-        "id": 50548660,
+        "id": 50547583,
         "type": "story",
-        "by": "codekarate",
-        "score": 122,
-        "descendants": 38,
-        "time": 1795020822,
-        "comments_url": "https://news.ycombinator.com/item?id=50548660"
+        "by": "birdboat00",
+        "score": 196,
+        "descendants": 132,
+        "time": 1795016144,
+        "comments_url": "https://news.ycombinator.com/item?id=50547583"
       },
-      "tags": [
-        "Show HN",
-        "Open Source",
-        "Programming"
-      ],
-      "hot_score": 0.36
-    },
-    {
-      "title_en": "We taught robots to carve marble sculptures",
-      "url": "https://eleanorwiesler.com/blog/robotic-stone-carving/",
-      "title_zh": "我们教会机器人雕刻大理石雕塑",
-      "is_new": true,
-      "created_display": "Created: Nov 18, 2026 / 09:03 PT",
-      "image_url": "https://eleanorwiesler.com/public/img/blog/autonomous-toolpathing/slide-pass-01.jpg",
-      "summary_en": "Monumental Labs developed an autonomous toolpathing system that converts a 3D model and a block of marble into a finished sculpture without a human in the loop. The system was used to teach KUKA KR240 robots to carve marble sculptures.",
-      "summary_zh": "Monumental Labs 开发了一套自主刀具路径系统，能够在无人参与的情况下，将 3D 模型和一块大理石加工成完成的雕塑。该系统被用于训练 KUKA KR240 机器人雕刻大理石雕塑。",
-      "hn": {
-        "id": 50548808,
-        "type": "story",
-        "by": "ewiesler",
-        "score": 85,
-        "descendants": 64,
-        "time": 1795021433,
-        "comments_url": "https://news.ycombinator.com/item?id=50548808"
-      },
-      "hot_score": 0.26,
       "tags": [
         "Hardware"
-      ]
+      ],
+      "hot_score": 0.3
     },
     {
-      "title_en": "Mass launched to orbit each year by rocket builder",
-      "url": "https://www.kadoa.com/companies/insights/spacex-europe-payload",
-      "title_zh": "火箭制造商每年发射入轨的质量",
+      "title_en": "KVM: x86: Unconditionally reset MMU context when emulating INIT (CVE-2026-99312)",
+      "url": "https://www.cve.org/CVERecord?id=CVE-2026-99312",
+      "title_zh": "KVM：x86 在模拟 INIT 时无条件重置 MMU 上下文（CVE-2026-99312）",
       "is_new": true,
-      "created_display": "Created: Nov 18, 2026 / 05:43 PT",
-      "image_url": "https://www.kadoa.com/companies/og/insights/spacex-europe-payload.png",
-      "summary_en": "SpaceX's Falcon rockets carried 2,330 tonnes to orbit in 2025, representing 81% of the world's total, while all other rockets combined carried 537 tonnes. From January through November 14, 2026, SpaceX carried another 1,683 tonnes, more than all European-built rockets have carried since 1965. The figures compare annual orbital payloads across major regions and launch providers.",
-      "summary_zh": "SpaceX 的猎鹰火箭在 2025 年将 2330 吨载荷送入轨道，占全球总量的 81%；其他所有火箭合计运送了 537 吨。2026 年 1 月至 11 月 14 日，SpaceX 又运送了 1683 吨，超过欧洲制造火箭自 1965 年以来的累计运载量。相关数据比较了主要地区和发射商每年的入轨载荷。",
+      "created_display": "Created: Nov 18, 2026 / 08:06 PT",
+      "image_url": null,
+      "summary_en": "CVE-2026-99312 concerns KVM’s x86 handling of MMU context when emulating INIT. The issue is identified as an unconditional MMU-context reset.",
+      "summary_zh": "CVE-2026-99312 涉及 KVM 的 x86 实现在模拟 INIT 时对 MMU 上下文的处理。该问题表现为无条件重置 MMU 上下文。",
       "hn": {
-        "id": 50546221,
+        "id": 50548004,
         "type": "story",
-        "by": "hubraumhugo",
-        "score": 72,
-        "descendants": 62,
-        "time": 1795009388,
-        "comments_url": "https://news.ycombinator.com/item?id=50546221"
+        "by": "Kozmik1",
+        "score": 192,
+        "descendants": 124,
+        "time": 1795017981,
+        "comments_url": "https://news.ycombinator.com/item?id=50548004"
       },
-      "hot_score": 0.17,
       "tags": [
-        "Space"
+        "Security"
+      ],
+      "hot_score": 0.3
+    },
+    {
+      "title_en": "Ex MS researcher publishes claimed Windows lock-screen bypass through Narrator",
+      "url": "https://runtimewire.com/article/former-microsoft-researcher-publishes-claimed-windows-lock-screen-bypass-through",
+      "title_zh": "前微软研究员公布据称可通过讲述人绕过 Windows 锁屏的方法",
+      "is_new": true,
+      "created_display": "Created: Nov 19, 2026 / 17:09 PT",
+      "image_url": "https://runtimewire.com/og/former-microsoft-researcher-publishes-claimed-windows-lock-screen-bypass-through.16x9.jpg?v=og2-kb9ao5",
+      "summary_en": "Abdelhamid Naceri published FastUnlock, a claimed Windows 11 lock-screen bypass using Narrator. It requires physical access, has not been independently reproduced in the reviewed reporting, and the public demonstration stops before showing code execution.",
+      "summary_zh": "Abdelhamid Naceri 发布了 FastUnlock，声称该工具可利用“讲述人”绕过 Windows 11 锁屏。该方法需要物理接触设备，相关报道中尚未得到独立复现，公开演示也没有展示代码执行。",
+      "hn": {
+        "id": 50568888,
+        "type": "story",
+        "by": "thunderbong",
+        "score": 3,
+        "descendants": 0,
+        "time": 1795136960,
+        "comments_url": "https://news.ycombinator.com/item?id=50568888"
+      },
+      "hot_score": 0.29,
+      "tags": [
+        "Security"
       ]
     },
     {
       "title_en": "Garage Door Spam",
       "url": "https://blog.harrison.page/garage-door-spam/",
       "title_zh": "车库门垃圾通知",
-      "is_new": true,
+      "is_new": false,
       "created_display": "Created: Nov 16, 2026 / 08:13 PT",
       "image_url": "https://harrison.page/harrison.jpg",
       "summary_en": "A garage door opener initially sent notifications whenever the door opened or closed, which made unexpected openings seem meaningful when the owner was away. The owner continued using the myQ app despite its advertisements because the notifications appeared trustworthy.",
@@ -962,21 +1733,212 @@
         "id": 50519231,
         "type": "story",
         "by": "harrisonpage",
-        "score": 372,
-        "descendants": 157,
+        "score": 756,
+        "descendants": 316,
         "time": 1794845616,
         "comments_url": "https://news.ycombinator.com/item?id=50519231"
       },
-      "hot_score": 0.16,
       "tags": [
         "Security"
+      ],
+      "hot_score": 0.26
+    },
+    {
+      "title_en": "The x86 CPU: From 4004 to 486",
+      "url": "https://pikuma.com/blog/history-of-x86-4004-to-486",
+      "title_zh": "x86 CPU：从 4004 到 486",
+      "is_new": true,
+      "created_display": "Created: Nov 18, 2026 / 06:47 PT",
+      "image_url": "https://pikuma.com/images/blog/history-of-x86-4004-to-486/thumbnail-1200x630.jpg",
+      "summary_en": "This historical overview traces the x86 CPU family's development from its origins in the early 1970s through the launch of the 486. It explains architectural details such as little-endian byte order, the AX/BX/CX/DX register names, and DOS segmented addresses by following how successive chips were created. The focus is on how the architecture accumulated compatibility and design decisions over time rather than on isolated chip innovations.",
+      "summary_zh": "这篇历史梳理追溯了 x86 CPU 从 20 世纪 70 年代初起源到 486 发布的发展过程。文章通过回顾各代芯片的诞生，解释了小端字节序、AX/BX/CX/DX 寄存器名称以及 DOS 分段地址等架构细节。重点不只是单个芯片的创新，而是架构如何随着时间积累兼容性和设计决策。",
+      "hn": {
+        "id": 50546967,
+        "type": "story",
+        "by": "ibobev",
+        "score": 178,
+        "descendants": 66,
+        "time": 1795013273,
+        "comments_url": "https://news.ycombinator.com/item?id=50546967"
+      },
+      "tags": [
+        "Hardware",
+        "Education"
+      ],
+      "hot_score": 0.26
+    },
+    {
+      "title_en": "Show HN: Mastra Factory, the open-source software factory we use to build Mastra",
+      "url": "https://news.ycombinator.com/item?id=50548660",
+      "title_zh": "Show HN：Mastra Factory，用于构建 Mastra 的开源软件工厂",
+      "is_new": false,
+      "created_display": "Created: Nov 18, 2026 / 08:53 PT",
+      "image_url": null,
+      "summary_en": "The Mastra team has released Mastra Factory, an open-source software factory used to maintain its TypeScript agent framework. Factory merged 238 pull requests last week, compared with 630 merged by humans, while Mastra averages nearly 4 million downloads per week. It combines an agentic kanban board, durable agents, conversational memory, a cited Markdown wiki, PR-triggered sessions, and a customizable cloud sandbox.",
+      "summary_zh": "Mastra 团队发布了 Mastra Factory，这是用于维护其 TypeScript 智能体框架的开源软件工厂。上周 Factory 合并了 238 个拉取请求，人类则合并了 630 个；Mastra 每周平均下载量接近 400 万次。Factory 集成了智能体看板、持久化智能体、对话记忆、带来源引用的 Markdown wiki、由 PR 评论触发的会话，以及可定制的云沙箱。",
+      "hn": {
+        "id": 50548660,
+        "type": "story",
+        "by": "codekarate",
+        "score": 140,
+        "descendants": 42,
+        "time": 1795020822,
+        "comments_url": "https://news.ycombinator.com/item?id=50548660"
+      },
+      "tags": [
+        "Show HN",
+        "Open Source",
+        "Programming"
+      ],
+      "hot_score": 0.23
+    },
+    {
+      "title_en": "From 8-bit Amiga to Synthwave: Original tracks composed on an Amiga in the 90s",
+      "url": "https://vosmeer.com/",
+      "title_zh": "从 8 位 Amiga 到 Synthwave：90 年代在 Amiga 上创作的原创曲目",
+      "is_new": true,
+      "created_display": "Created: Nov 19, 2026 / 14:27 PT",
+      "image_url": "https://vosmeer.com/sites/default/files/styles/social_media_facebook/public/2026-10/d2w6kaiybwlf1.jpg.webp?itok=p0vzsWi_",
+      "summary_en": "Jean-Paul Vosmeer is an electronic music artist and composer. His work includes Amiga game soundtracks from the early 1990s and newer synthwave releases, available on major streaming platforms.",
+      "summary_zh": "Jean-Paul Vosmeer 是一名电子音乐艺术家和作曲家。他的作品包括 20 世纪 90 年代初创作的 Amiga 游戏配乐，以及后来的 Synthwave 发行作品，现已在主要流媒体平台上线。",
+      "hn": {
+        "id": 50567385,
+        "type": "story",
+        "by": "doener",
+        "score": 6,
+        "descendants": 0,
+        "time": 1795127258,
+        "comments_url": "https://news.ycombinator.com/item?id=50567385"
+      },
+      "hot_score": 0.22,
+      "tags": [
+        "Entertainment",
+        "Culture"
       ]
+    },
+    {
+      "title_en": "Teaching robots to carve marble sculptures",
+      "url": "https://eleanorwiesler.com/blog/robotic-stone-carving/",
+      "title_zh": "教机器人雕刻大理石雕塑",
+      "is_new": false,
+      "created_display": "Created: Nov 18, 2026 / 09:03 PT",
+      "image_url": "https://eleanorwiesler.com/public/img/blog/autonomous-toolpathing/slide-pass-01.jpg",
+      "summary_en": "Monumental Labs has taught KUKA KR240 robots to carve marble sculptures. Its autonomous toolpathing system converts a 3D model and a block of marble into a finished sculpture without a human in the loop.",
+      "summary_zh": "Monumental Labs 已训练 KUKA KR240 机器人雕刻大理石雕塑。其自主刀具路径系统可以将 3D 模型和一块大理石转化为成品雕塑，全程无需人工介入。",
+      "hn": {
+        "id": 50548808,
+        "type": "story",
+        "by": "ewiesler",
+        "score": 119,
+        "descendants": 88,
+        "time": 1795021433,
+        "comments_url": "https://news.ycombinator.com/item?id=50548808"
+      },
+      "hot_score": 0.2,
+      "tags": [
+        "Science",
+        "Hardware"
+      ]
+    },
+    {
+      "title_en": "Palo Alto Networks to Acquire Applied Compute for $4.5B",
+      "url": "https://investors.paloaltonetworks.com/news-releases/news-release-details/palo-alto-networks-acquire-applied-compute-bringing-secure-open",
+      "title_zh": "Palo Alto Networks 将以 45 亿美元收购 Applied Compute",
+      "is_new": false,
+      "created_display": "Created: Nov 18, 2026 / 15:49 PT",
+      "image_url": null,
+      "summary_en": "Palo Alto Networks plans to acquire Applied Compute for $4.5 billion.",
+      "summary_zh": "Palo Alto Networks 计划以 45 亿美元收购 Applied Compute。",
+      "hn": {
+        "id": 50554009,
+        "type": "story",
+        "by": "alpb",
+        "score": 80,
+        "descendants": 26,
+        "time": 1795045753,
+        "comments_url": "https://news.ycombinator.com/item?id=50554009"
+      },
+      "tags": [
+        "Business"
+      ],
+      "hot_score": 0.19
+    },
+    {
+      "title_en": "The MisAnthropic Statement",
+      "url": "https://misanthropicstatement.com/",
+      "title_zh": "《反 Anthropic 声明》",
+      "is_new": true,
+      "created_display": "Created: Nov 19, 2026 / 04:48 PT",
+      "image_url": "https://framerusercontent.com/images/mrMadFd7XIguWGsseO8hZF9dOcM.png",
+      "summary_en": "A coalition of signatories accuses Anthropic of presenting itself as an AI-safety company while racing to build recursively self-improving AI. The statement claims that the company has weakened its safety commitments and promoted regulations serving its own interests.",
+      "summary_zh": "一批联署者指责 Anthropic 一边将自己定位为 AI 安全公司，一边竞相开发能够递归自我改进的 AI。声明称，该公司已经削弱安全承诺，并推动有利于自身利益的监管。",
+      "hn": {
+        "id": 50559418,
+        "type": "story",
+        "by": "anon373839",
+        "score": 22,
+        "descendants": 1,
+        "time": 1795092520,
+        "comments_url": "https://news.ycombinator.com/item?id=50559418"
+      },
+      "hot_score": 0.15,
+      "tags": [
+        "AI",
+        "Politics"
+      ]
+    },
+    {
+      "title_en": "An Oregon library ditched Dewey Decimal and got people excited about books again",
+      "url": "https://www.fastcompany.com/91597520/oregon-library-ditched-dewey-decimal-wayfinding-system",
+      "title_zh": "俄勒冈一家图书馆弃用杜威十进分类法，重新点燃人们对书籍的兴趣",
+      "is_new": false,
+      "created_display": "Created: Nov 17, 2026 / 11:35 PT",
+      "image_url": null,
+      "summary_en": "An Oregon library abandoned the Dewey Decimal System and adopted a different wayfinding system. The change reportedly got people excited about books again.",
+      "summary_zh": "俄勒冈州一家图书馆放弃了杜威十进分类法，改用了另一套书籍导览系统。据称，这一变化重新激发了人们对书籍的兴趣。",
+      "hn": {
+        "id": 50536950,
+        "type": "story",
+        "by": "bookofjoe",
+        "score": 200,
+        "descendants": 142,
+        "time": 1794944112,
+        "comments_url": "https://news.ycombinator.com/item?id=50536950"
+      },
+      "hot_score": 0.14,
+      "tags": [
+        "Education",
+        "Culture"
+      ]
+    },
+    {
+      "title_en": "Mass launched to orbit each year by rocket builder",
+      "url": "https://www.kadoa.com/companies/insights/spacex-europe-payload",
+      "title_zh": "火箭制造商每年发射入轨的质量",
+      "is_new": false,
+      "created_display": "Created: Nov 18, 2026 / 05:43 PT",
+      "image_url": "https://www.kadoa.com/companies/og/insights/spacex-europe-payload.png",
+      "summary_en": "SpaceX's Falcon rockets carried 2,330 tonnes to orbit in 2025, representing 81% of the world's total, while all other rockets combined carried 537 tonnes. From January through November 14, 2026, SpaceX carried another 1,683 tonnes, more than all European-built rockets have carried since 1965. The figures compare annual orbital payloads across major regions and launch providers.",
+      "summary_zh": "SpaceX 的猎鹰火箭在 2025 年将 2330 吨载荷送入轨道，占全球总量的 81%；其他所有火箭合计运送了 537 吨。2026 年 1 月至 11 月 14 日，SpaceX 又运送了 1683 吨，超过欧洲制造火箭自 1965 年以来的累计运载量。相关数据比较了主要地区和发射商每年的入轨载荷。",
+      "hn": {
+        "id": 50546221,
+        "type": "story",
+        "by": "hubraumhugo",
+        "score": 80,
+        "descendants": 88,
+        "time": 1795009388,
+        "comments_url": "https://news.ycombinator.com/item?id=50546221"
+      },
+      "tags": [
+        "Space"
+      ],
+      "hot_score": 0.11
     },
     {
       "title_en": "Exponential Behavior in Magic: The Gathering",
       "url": "https://levineuwirth.org/essays/exponential-magic/",
       "title_zh": "《万智牌》中的指数行为",
-      "is_new": true,
+      "is_new": false,
       "created_display": "Created: Nov 18, 2026 / 06:07 PT",
       "image_url": "https://levineuwirth.org/og-image.png",
       "summary_en": "The project develops Arcana, a rules engine for reinforcement learning on Magic: The Gathering. It treats the game as a complex computational environment with a large card catalog, intricate mechanics, and potentially enormous game states. The work examines the engineering challenges of implementing the rules and enabling machine play.",
@@ -985,67 +1947,46 @@
         "id": 50546495,
         "type": "story",
         "by": "neuwirth",
-        "score": 47,
-        "descendants": 23,
+        "score": 68,
+        "descendants": 55,
         "time": 1795010829,
         "comments_url": "https://news.ycombinator.com/item?id=50546495"
       },
-      "hot_score": 0.11,
       "tags": [
         "AI"
-      ]
-    },
-    {
-      "title_en": "Dumping an AES key from a MyQ garage opener to stop rebooting when offline",
-      "url": "https://kusha.me/blog/stop_myq_homebridge_819lmb_rebooting/",
-      "title_zh": "从 MyQ 车库门控制器中导出 AES 密钥，解决离线重启问题",
-      "is_new": true,
-      "created_display": "Created: Nov 16, 2026 / 15:47 PT",
-      "image_url": "https://kusha.me/imgs/145d4d43b2f05e68a7ca.png",
-      "summary_en": "A MyQ device repeatedly attempts to contact Chamberlain’s cloud endpoints when isolated on an IoT VLAN without internet access. If those domains are unresolved or redirected to an unavailable address, the connection attempts hang and time out. The device’s watchdog eventually reboots the device or its Wi-Fi module every five to ten minutes, making local HomeKit control unavailable.",
-      "summary_zh": "当 MyQ 设备被隔离在没有互联网连接的 IoT VLAN 中时，它会不断尝试联系 Chamberlain 的云端点。如果这些域名无法解析或被重定向到不可用地址，连接尝试就会挂起并超时。设备看门狗最终每 5 到 10 分钟重启设备或 Wi-Fi 模块，导致本地 HomeKit 控制失效。",
-      "hn": {
-        "id": 50525260,
-        "type": "story",
-        "by": "kusha",
-        "score": 150,
-        "descendants": 56,
-        "time": 1794872846,
-        "comments_url": "https://news.ycombinator.com/item?id=50525260"
-      },
-      "tags": [
-        "Security"
       ],
-      "hot_score": 0.08
+      "hot_score": 0.1
     },
     {
-      "title_en": "Oregon library dropped Dewey Decimal system, adopted bookstore-like arrangement",
-      "url": "https://www.fastcompany.com/91597520/oregon-library-ditched-dewey-decimal-wayfinding-system",
-      "title_zh": "俄勒冈州一家图书馆弃用杜威十进分类法，改用书店式陈列",
+      "title_en": "Launch HN: Maritime (YC F26) – A managed cloud for production AI agents",
+      "url": "https://news.ycombinator.com/item?id=50549188",
+      "title_zh": "Launch HN：Maritime（YC F26）——面向生产环境 AI 智能体的托管云",
       "is_new": true,
-      "created_display": "Created: Nov 17, 2026 / 11:35 PT",
+      "created_display": "Created: Nov 18, 2026 / 09:26 PT",
       "image_url": null,
-      "summary_en": "An Oregon library has dropped the Dewey Decimal system and adopted a bookstore-like arrangement for its collection.",
-      "summary_zh": "俄勒冈州一家图书馆放弃了杜威十进分类法，改用类似书店的藏书陈列方式。",
+      "summary_en": "Maritime is building an agent-native cloud covering custom environments and AI-agent lifecycle management. Its founders argue that conventional sandboxes address only a small part of the infrastructure problem, leaving users to build storage, wake and sleep behavior, triggers, and scheduling themselves. The company says it spoke with hundreds of agent builders, from personal-assistant and coding agents to specialized healthcare systems, to identify these recurring needs.",
+      "summary_zh": "Maritime 正在构建面向 AI 智能体的原生云平台，覆盖定制环境和智能体生命周期管理。其创始人认为，传统沙箱只解决了基础设施问题的一小部分，用户仍需自行构建存储、休眠与唤醒、触发器和调度等功能。该公司表示，它曾与数百家智能体开发团队交流，涵盖个人助理、编程智能体和专业医疗系统，以识别这些反复出现的需求。",
       "hn": {
-        "id": 50536950,
+        "id": 50549188,
         "type": "story",
-        "by": "bookofjoe",
-        "score": 78,
-        "descendants": 61,
-        "time": 1794944112,
-        "comments_url": "https://news.ycombinator.com/item?id=50536950"
+        "by": "ashriv",
+        "score": 58,
+        "descendants": 54,
+        "time": 1795022788,
+        "comments_url": "https://news.ycombinator.com/item?id=50549188"
       },
-      "hot_score": 0.08,
       "tags": [
-        "Design"
-      ]
+        "Startups",
+        "AI",
+        "DevOps"
+      ],
+      "hot_score": 0.1
     },
     {
       "title_en": "C's designated initializers give us named arguments",
       "url": "https://quuxplusone.github.io/blog/2026/11/16/named-arguments-in-c/",
       "title_zh": "C 语言的指定初始化器为我们带来了命名参数",
-      "is_new": true,
+      "is_new": false,
       "created_display": "Created: Nov 18, 2026 / 01:49 PT",
       "image_url": "https://raw.githubusercontent.com/Quuxplusone/blog/master/images/pumpkin-toss.jpg",
       "summary_en": "The piece demonstrates how C's full-power designated initializers can be used to create a pattern resembling named arguments. It contrasts this capability with C++'s more limited form of designated initializers and builds on a pattern discussed in a 2014 book on C.",
@@ -1054,36 +1995,135 @@
         "id": 50544168,
         "type": "story",
         "by": "joshcsimmons",
-        "score": 36,
-        "descendants": 29,
+        "score": 66,
+        "descendants": 45,
         "time": 1794995389,
         "comments_url": "https://news.ycombinator.com/item?id=50544168"
       },
-      "hot_score": 0.07,
       "tags": [
         "Programming"
+      ],
+      "hot_score": 0.08
+    },
+    {
+      "title_en": "Mosquitoes are Ladakh's latest tourists",
+      "url": "https://ruralindiaonline.org/article/mosquitoes-are-ladakh-s-latest-tourists",
+      "title_zh": "蚊子成了拉达克最新的游客",
+      "is_new": true,
+      "created_display": "Created: Nov 17, 2026 / 22:08 PT",
+      "image_url": "https://production.ruralindiaonline.org/uploads/HP_COVER_IMAGE_VK_Mosquitoes_are_Ladakh_s_latest_tourists_8bcf132593.jpg",
+      "summary_en": "In Ladakh’s Leh district, climate change, failing public systems, shrinking livelihoods, and unplanned tourism are combining to increase vulnerability to malaria and dengue. The diseases were previously unknown in the region.",
+      "summary_zh": "在拉达克列城地区，气候变化、公共系统失灵、生计萎缩和无规划旅游共同增加了当地对疟疾和登革热的脆弱性。这些疾病过去在该地区并不为人所知。",
+      "hn": {
+        "id": 50542441,
+        "type": "story",
+        "by": "akbarnama",
+        "score": 65,
+        "descendants": 30,
+        "time": 1794982105,
+        "comments_url": "https://news.ycombinator.com/item?id=50542441"
+      },
+      "hot_score": 0.07,
+      "tags": [
+        "Science",
+        "Health",
+        "Security"
       ]
     },
     {
-      "title_en": "Building Lego Machines to Destroy Tall Lego Towers (2024)",
-      "url": "https://kottke.org/24/07/building-lego-machines-to-destroy-tall-lego-towers",
-      "title_zh": "制造摧毁高大乐高塔的乐高机器（2024）",
-      "is_new": true,
-      "created_display": "Created: Nov 17, 2026 / 20:10 PT",
-      "image_url": "https://i.ytimg.com/vi/HY6q9hwYcoc/maxresdefault.jpg",
-      "summary_en": "A Brick Technology video features increasingly powerful Lego machines designed to topple progressively stronger towers. The project presents the machines through an iterative engineering process.",
-      "summary_zh": "Brick Technology 的一段视频展示了越来越强大的乐高机器，它们被设计用来推倒强度逐步提高的高塔。项目以迭代式工程过程呈现这些机器的设计和测试。",
+      "title_en": "Dumping an AES key from a MyQ garage opener to stop rebooting when offline",
+      "url": "https://kusha.me/blog/stop_myq_homebridge_819lmb_rebooting/",
+      "title_zh": "从 MyQ 车库门控制器中导出 AES 密钥，解决离线重启问题",
+      "is_new": false,
+      "created_display": "Created: Nov 16, 2026 / 15:47 PT",
+      "image_url": "https://kusha.me/imgs/145d4d43b2f05e68a7ca.png",
+      "summary_en": "A MyQ device repeatedly attempts to contact Chamberlain’s cloud endpoints when isolated on an IoT VLAN without internet access. If those domains are unresolved or redirected to an unavailable address, the connection attempts hang and time out. The device’s watchdog eventually reboots the device or its Wi-Fi module every five to ten minutes, making local HomeKit control unavailable.",
+      "summary_zh": "当 MyQ 设备被隔离在没有互联网连接的 IoT VLAN 中时，它会不断尝试联系 Chamberlain 的云端点。如果这些域名无法解析或被重定向到不可用地址，连接尝试就会挂起并超时。设备看门狗最终每 5 到 10 分钟重启设备或 Wi-Fi 模块，导致本地 HomeKit 控制失效。",
       "hn": {
-        "id": 50541774,
+        "id": 50525260,
         "type": "story",
-        "by": "sammatilda",
-        "score": 31,
-        "descendants": 4,
-        "time": 1794975050,
-        "comments_url": "https://news.ycombinator.com/item?id=50541774"
+        "by": "kusha",
+        "score": 160,
+        "descendants": 67,
+        "time": 1794872846,
+        "comments_url": "https://news.ycombinator.com/item?id=50525260"
+      },
+      "tags": [
+        "Security"
+      ],
+      "hot_score": 0.06
+    },
+    {
+      "title_en": "How to CAD Almost Anything",
+      "url": "https://ocw.mit.edu/courses/res-16-002-how-to-cad-almost-anything-january-iap-2024/",
+      "title_zh": "如何为几乎任何东西创建 CAD 模型",
+      "is_new": true,
+      "created_display": "Created: Nov 16, 2026 / 22:29 PT",
+      "image_url": "https://ocw.mit.edu/courses/res-16-002-how-to-cad-almost-anything-january-iap-2024/mit_res_16_002_s24.png",
+      "summary_en": "This workshop introduces computer-aided design through reverse-engineering projects involving objects such as mugs, bottles, rockets, jet-engine blades, test dummies, and animated scenes. It emphasizes planning, independent thinking, and choosing appropriate tools rather than simply following engineering drawings. The material also includes interactive examples and links to SolidWorks and Creo resources.",
+      "summary_zh": "这门工作坊通过对杯子、瓶子、火箭、喷气发动机叶片、测试假人和动画场景等物体进行逆向工程，介绍计算机辅助设计。课程强调规划、独立思考和选择合适工具，而不是机械地遵循工程图纸。材料还包含互动示例，以及 SolidWorks 和 Creo 资源链接。",
+      "hn": {
+        "id": 50528119,
+        "type": "story",
+        "by": "o4c",
+        "score": 129,
+        "descendants": 27,
+        "time": 1794896997,
+        "comments_url": "https://news.ycombinator.com/item?id=50528119"
+      },
+      "hot_score": 0.06,
+      "tags": [
+        "Education",
+        "Design"
+      ]
+    },
+    {
+      "title_en": "Show HN: Open-source, real-time object tracking for live video feeds",
+      "url": "https://github.com/aryamandarda/tamserve",
+      "title_zh": "Show HN：面向实时视频流的开源实时目标跟踪",
+      "is_new": true,
+      "created_display": "Created: Nov 16, 2026 / 13:14 PT",
+      "image_url": "https://repository-images.githubusercontent.com/1453712334/2654889e-5808-485c-a426-4ec795152ca2",
+      "summary_en": "Tamserve runs Meta’s SAM 3 on live camera feeds, detecting named objects and tracking them across multiple cameras. On an RTX 4090, it is reported to be four times faster than SAM 3’s tracker for arbitrary objects while retaining 92% of its accuracy; for people, it can handle 16 cameras concurrently. Its memory use stays around 3.5 GB on a 3,000-frame video, while SAM 3 runs out of memory at frame 423.",
+      "summary_zh": "Tamserve 在实时摄像头画面上运行 Meta 的 SAM 3，可根据名称发现目标，并在多个摄像头之间持续跟踪。在 RTX 4090 上，对于任意目标，其速度据称是 SAM 3 跟踪器的 4 倍，同时保持 92% 的准确率；针对人员，它可以同时处理 16 个摄像头。处理 3,000 帧视频时，其内存占用保持在约 3.5 GB，而 SAM 3 在第 423 帧就会耗尽内存。",
+      "hn": {
+        "id": 50523377,
+        "type": "story",
+        "by": "aryaman_darda",
+        "score": 119,
+        "descendants": 13,
+        "time": 1794863679,
+        "comments_url": "https://news.ycombinator.com/item?id=50523377"
+      },
+      "tags": [
+        "Show HN",
+        "Open Source",
+        "AI",
+        "Privacy"
+      ],
+      "hot_score": 0.05
+    },
+    {
+      "title_en": "Computer Graphics from Scratch (2021)",
+      "url": "https://www.gabrielgambetta.com/computer-graphics-from-scratch/index.html",
+      "title_zh": "从零开始学计算机图形学（2021）",
+      "is_new": true,
+      "created_display": "Created: Nov 17, 2026 / 12:37 PT",
+      "image_url": "https://www.gabrielgambetta.com/computer-graphics-from-scratch/images/cover.jpg",
+      "summary_en": "This introductory book explains computer graphics through ray tracing and rasterization. It builds algorithms without external libraries or APIs, uses language-agnostic pseudocode, and includes interactive demonstrations. The material is intended for readers with basic programming knowledge and high-school mathematics.",
+      "summary_zh": "这本入门书通过光线追踪和光栅化讲解计算机图形学。书中不依赖外部库或 API 构建算法，使用与语言无关的伪代码，并配有互动演示。材料面向具备基础编程知识和高中数学水平的读者。",
+      "hn": {
+        "id": 50537832,
+        "type": "story",
+        "by": "ibobev",
+        "score": 54,
+        "descendants": 11,
+        "time": 1794947873,
+        "comments_url": "https://news.ycombinator.com/item?id=50537832"
       },
       "hot_score": 0.04,
       "tags": [
+        "Education",
         "Science"
       ]
     },
@@ -1091,7 +2131,7 @@
       "title_en": "Logitech Harmony IR code online database archive",
       "url": "https://github.com/pickysysadmin/logitech-harmony-ir-archive",
       "title_zh": "Logitech Harmony 红外码在线数据库存档",
-      "is_new": true,
+      "is_new": false,
       "created_display": "Created: Nov 16, 2026 / 08:56 PT",
       "image_url": "https://opengraph.githubassets.com/de5965d710929f09d8307ade9e9422d70757eeebd7825dd9a9361ca238f70ff0/pickysysadmin/logitech-harmony-ir-archive",
       "summary_en": "This archive collects the infrared codes and protocol formats used by Logitech Harmony remotes and hubs. The maintainer says AI was used extensively to create the archive.",
@@ -1100,23 +2140,71 @@
         "id": 50519778,
         "type": "story",
         "by": "cf100clunk",
-        "score": 68,
-        "descendants": 20,
+        "score": 80,
+        "descendants": 22,
         "time": 1794848203,
         "comments_url": "https://news.ycombinator.com/item?id=50519778"
       },
-      "hot_score": 0.03,
       "tags": [
         "AI",
         "Open Source",
         "Data"
-      ]
+      ],
+      "hot_score": 0.03
+    },
+    {
+      "title_en": "Building Lego Machines to Destroy Tall Lego Towers (2024)",
+      "url": "https://kottke.org/24/07/building-lego-machines-to-destroy-tall-lego-towers",
+      "title_zh": "制造摧毁高大乐高塔的乐高机器（2024）",
+      "is_new": false,
+      "created_display": "Created: Nov 17, 2026 / 20:10 PT",
+      "image_url": "https://i.ytimg.com/vi/HY6q9hwYcoc/maxresdefault.jpg",
+      "summary_en": "A Brick Technology video features increasingly powerful Lego machines designed to topple progressively stronger towers. The project presents the machines through an iterative engineering process.",
+      "summary_zh": "Brick Technology 的一段视频展示了越来越强大的乐高机器，它们被设计用来推倒强度逐步提高的高塔。项目以迭代式工程过程呈现这些机器的设计和测试。",
+      "hn": {
+        "id": 50541774,
+        "type": "story",
+        "by": "sammatilda",
+        "score": 35,
+        "descendants": 4,
+        "time": 1794975050,
+        "comments_url": "https://news.ycombinator.com/item?id=50541774"
+      },
+      "tags": [
+        "Science"
+      ],
+      "hot_score": 0.03
+    },
+    {
+      "title_en": "Cuttlefish on Mac: Android's Virtual Device Framework on Apple Silicon",
+      "url": "https://engineering.fb.com/2026/11/13/android/cuttlefish-on-mac/",
+      "title_zh": "在 Mac 上运行 Cuttlefish：Apple Silicon 上的 Android 虚拟设备框架",
+      "is_new": true,
+      "created_display": "Created: Nov 15, 2026 / 12:30 PT",
+      "image_url": "https://engineering.fb.com/wp-content/uploads/2026/11/Cuttlefish-on-Mac-lead.png",
+      "summary_en": "Meta’s Reality Labs brought Android’s Cuttlefish and its QEMU backend to macOS and Apple silicon. The work is intended to improve development and testing for non-phone Android devices without relying on scarce physical hardware. Higher-fidelity virtual devices can expose bugs that lightweight emulators such as Goldfish may miss.",
+      "summary_zh": "Meta Reality Labs 将 Android 的 Cuttlefish 及其 QEMU 后端移植到了 macOS 和 Apple Silicon。该项目旨在为非手机 Android 设备提供更好的开发和测试环境，减少对稀缺实体硬件的依赖。更高保真度的虚拟设备能够发现轻量级模拟器 Goldfish 可能遗漏的错误。",
+      "hn": {
+        "id": 50510385,
+        "type": "story",
+        "by": "acossta",
+        "score": 80,
+        "descendants": 17,
+        "time": 1794774642,
+        "comments_url": "https://news.ycombinator.com/item?id=50510385"
+      },
+      "tags": [
+        "Programming",
+        "Hardware",
+        "Web"
+      ],
+      "hot_score": 0.02
     },
     {
       "title_en": "The first ping from Tonga (1997)",
       "url": "https://colo.to/firstping.html",
       "title_zh": "来自汤加的第一次 Ping（1997）",
-      "is_new": true,
+      "is_new": false,
       "created_display": "Created: Nov 15, 2026 / 16:01 PT",
       "image_url": "https://colo.to/pix/firstping.jpg",
       "summary_en": "In January 1997, Tonga established a permanent internet connection and successfully sent and received a ping over a 64 kbps satellite link. The connection relied on secondhand hardware, improvised networks, a microwave link to the Crown Prince's villa, and unauthorized rooftop climbing. Before then, international calls were costly because Cable & Wireless held a monopoly on telecommunications.",
@@ -1125,22 +2213,22 @@
         "id": 50512280,
         "type": "story",
         "by": "Eric_Gullichsen",
-        "score": 65,
-        "descendants": 9,
+        "score": 71,
+        "descendants": 12,
         "time": 1794787274,
         "comments_url": "https://news.ycombinator.com/item?id=50512280"
       },
-      "hot_score": 0.02,
       "tags": [
         "Science",
         "Hardware"
-      ]
+      ],
+      "hot_score": 0.02
     },
     {
       "title_en": "Axelera Titania Brings Native FP8 and FP4 to In-Memory Compute",
       "url": "https://futurumgroup.com/insights/axelera-titania-brings-native-fp8-and-fp4-to-in-memory-compute/",
       "title_zh": "Axelera Titania 将原生 FP8 和 FP4 引入内存计算",
-      "is_new": true,
+      "is_new": false,
       "created_display": "Created: Nov 16, 2026 / 06:59 PT",
       "image_url": "https://futurumgroup.com/wp-content/uploads/2026/11/stock_0164.png",
       "summary_en": "Axelera AI has unveiled Titania, a chiplet that performs FP8 and FP4 arithmetic inside digital in-memory compute arrays and places RISC-V cores around its matrix engines. The company says an eight-package, 4U air-cooled server can deliver 20 PFLOPS of FP8 performance and 1 TB of LPDDR6 at about 6 kW. Production is targeted for the third quarter of 2027, with $300 million in commitments announced ahead of it.",
@@ -1149,22 +2237,22 @@
         "id": 50518303,
         "type": "story",
         "by": "muxamilian",
-        "score": 44,
+        "score": 46,
         "descendants": 2,
         "time": 1794841194,
         "comments_url": "https://news.ycombinator.com/item?id=50518303"
       },
-      "hot_score": 0.02,
       "tags": [
         "Hardware",
         "AI"
-      ]
+      ],
+      "hot_score": 0.02
     },
     {
-      "title_en": "It's All about the Allocator",
+      "title_en": "It's all about the allocator",
       "url": "https://aarol.dev/posts/zig-allocator/",
       "title_zh": "一切都取决于分配器",
-      "is_new": true,
+      "is_new": false,
       "created_display": "Created: Nov 14, 2026 / 19:34 PT",
       "image_url": "https://aarol.dev/posts/zig-allocator/og.png",
       "summary_en": "It points to applications such as Discord, Teams, and Spotify as examples of software criticized for consuming large amounts of memory because they are built on Chromium. The discussion comes against a backdrop of tighter memory supplies and devices shipping with as little as 8 GB of RAM.",
@@ -1173,22 +2261,119 @@
         "id": 50503743,
         "type": "story",
         "by": "ibobev",
-        "score": 12,
-        "descendants": 1,
+        "score": 54,
+        "descendants": 14,
         "time": 1794713698,
         "comments_url": "https://news.ycombinator.com/item?id=50503743"
       },
-      "hot_score": 0.0,
       "tags": [
         "Programming",
         "Web"
+      ],
+      "hot_score": 0.01
+    },
+    {
+      "title_en": "Adding Fortran Support to LLDB (GSoC 2026)",
+      "url": "https://blog.llvm.org/posts/2026-09-07-gsoc-add-fortran-support-to-lldb/",
+      "title_zh": "为 LLDB 添加 Fortran 支持（GSoC 2026）",
+      "is_new": true,
+      "created_display": "Created: Nov 16, 2026 / 10:34 PT",
+      "image_url": null,
+      "summary_en": "This GSoC 2026 project adds native Fortran support to LLDB. Before the work, LLDB could resolve only basic breakpoints through raw line tables, while the maturing Flang compiler lacked a dedicated debugger. The project lays the foundation for a fully featured debugger backed by Flang.",
+      "summary_zh": "这个 GSoC 2026 项目为 LLDB 增加了原生 Fortran 支持。在此之前，LLDB 只能通过原始行号表解析基本断点，而日趋成熟的 Flang 编译器仍缺少专用调试器。该项目为构建由 Flang 支持的完整调试器奠定了基础。",
+      "hn": {
+        "id": 50521083,
+        "type": "story",
+        "by": "JDevlieghere",
+        "score": 36,
+        "descendants": 11,
+        "time": 1794854077,
+        "comments_url": "https://news.ycombinator.com/item?id=50521083"
+      },
+      "hot_score": 0.01,
+      "tags": [
+        "Programming",
+        "Open Source"
+      ]
+    },
+    {
+      "title_en": "Reverse-Engineering Kevin J. Lang's Lost OCaml Code in Apache DataSketches",
+      "url": "https://www.tisonkun.io/posts/ai-repair-program/",
+      "title_zh": "逆向工程：从 Apache DataSketches 中找回 Kevin J. Lang 遗失的 OCaml 代码",
+      "is_new": true,
+      "created_display": "Created: Nov 16, 2026 / 05:58 PT",
+      "image_url": "https://www.tisonkun.io/images/og.png",
+      "summary_en": "The project used Gemini 4 Carbon Orchestrator and a swarm of agents to reconstruct lookup-table generators behind the CpcSketch implementation in Apache DataSketches. It began with work on approximate distinct counting in ScopeDB, where the author moved beyond HyperLogLog and examined an unsafe, manually bit-packed cardinality-estimator implementation. The reconstructed generators were part of an effort to make that code auditable and maintainable.",
+      "summary_zh": "该项目使用 Gemini 4 Carbon Orchestrator 和代理群，重建了 Apache DataSketches 中 CpcSketch 实现背后的查找表生成器。项目起源于在 ScopeDB 中实现近似去重计数，作者在研究 HyperLogLog 之外的方案时，接触到一个大量使用不安全代码和手工位打包的 cardinality-estimator 实现。重建这些生成器，是为了让相关代码更易审计和维护。",
+      "hn": {
+        "id": 50517657,
+        "type": "story",
+        "by": "tison",
+        "score": 33,
+        "descendants": 2,
+        "time": 1794837536,
+        "comments_url": "https://news.ycombinator.com/item?id=50517657"
+      },
+      "hot_score": 0.01,
+      "tags": [
+        "Programming",
+        "Open Source",
+        "AI"
+      ]
+    },
+    {
+      "title_en": "I've Got Your Packages: Harvesting Customers' Delivery Order Information (2020)",
+      "url": "https://dl.acm.org/doi/fullHtml/10.1145/3366423.3380062",
+      "title_zh": "我拿到了你的包裹：窃取客户配送订单信息（2020）",
+      "is_new": true,
+      "created_display": "Created: Nov 16, 2026 / 07:26 PT",
+      "image_url": null,
+      "summary_en": "The study examines how customers’ delivery-order information can be harvested.",
+      "summary_zh": "这项研究考察了客户配送订单信息可能被收集和窃取的方式。",
+      "hn": {
+        "id": 50518596,
+        "type": "story",
+        "by": "gregsadetsky",
+        "score": 31,
+        "descendants": 4,
+        "time": 1794842769,
+        "comments_url": "https://news.ycombinator.com/item?id=50518596"
+      },
+      "hot_score": 0.01,
+      "tags": [
+        "Privacy",
+        "Data"
+      ]
+    },
+    {
+      "title_en": "Weight-Space Programming builds neural networks like a 1990s researcher",
+      "url": "https://notesbylex.com/weight-space-programming-1990s",
+      "title_zh": "权重空间编程：像 1990 年代的研究人员一样构建神经网络",
+      "is_new": true,
+      "created_display": "Created: Nov 17, 2026 / 14:11 PT",
+      "image_url": "https://notesbylex.com/_media/llm-descent/weight-space-programming-1990s-cover.jpg",
+      "summary_en": "Weight-Space Programming proposes that frontier LLMs can read, write, and edit neural-network weights. In the cited experiment, GPT-6 Astra built a Go-playing network from scratch, then improved it through practice games and weight edits based on loss analysis. The approach resembles a training loop in which a model writes, tests, and revises another network.",
+      "summary_zh": "权重空间编程提出，前沿大语言模型可以读取、写入和编辑神经网络的权重。在所引用的实验中，GPT-6 Astra 从零构建了一个下围棋的网络，并通过练习对局和基于损失分析的权重修改来改进它。这种方法类似于一个由模型编写、测试并修改另一个网络的训练循环。",
+      "hn": {
+        "id": 50538977,
+        "type": "story",
+        "by": "lexandstuff",
+        "score": 9,
+        "descendants": 0,
+        "time": 1794953506,
+        "comments_url": "https://news.ycombinator.com/item?id=50538977"
+      },
+      "hot_score": 0.01,
+      "tags": [
+        "AI",
+        "Programming"
       ]
     },
     {
       "title_en": "Funkycache: A Python library to cache functions in SQLite",
       "url": "https://alexwlchan.net/2026/funkycache/",
       "title_zh": "Funkycache：一个用 SQLite 缓存函数的 Python 库",
-      "is_new": true,
+      "is_new": false,
       "created_display": "Created: Nov 16, 2026 / 12:44 PT",
       "image_url": "https://alexwlchan.net/images/cards/2026/funkycache.png",
       "summary_en": "Funkycache grew out of an SQLite-backed cache created to speed up a static site's build system. Static site generation is well suited to caching because many steps are deterministic and have no side effects, so even millisecond-level savings accumulate across hundreds of pages. The original cache supported getting and setting strings with separate namespaces for different functions.",
@@ -1197,15 +2382,38 @@
         "id": 50522991,
         "type": "story",
         "by": "wmchen",
-        "score": 8,
-        "descendants": 2,
+        "score": 12,
+        "descendants": 4,
         "time": 1794861877,
         "comments_url": "https://news.ycombinator.com/item?id=50522991"
       },
-      "hot_score": 0.0,
       "tags": [
         "Programming",
         "Open Source"
+      ],
+      "hot_score": 0.0
+    },
+    {
+      "title_en": "Talking Venice with Mahesh Subramony at AMD In-Depth",
+      "url": "https://chipsandcheese.com/p/talking-venice-with-mahesh-subramony",
+      "title_zh": "在 AMD In-Depth 节目中与 Mahesh Subramony 谈 Venice",
+      "is_new": true,
+      "created_display": "Created: Nov 17, 2026 / 03:41 PT",
+      "image_url": "https://substackcdn.com/image/youtube/w_728,c_limit/-d1XliQ0BQg",
+      "summary_en": "The item is a conversation with Mahesh Subramony about Venice at AMD In-Depth.",
+      "summary_zh": "该内容是 AMD In-Depth 与 Mahesh Subramony 围绕 Venice 展开的对话。",
+      "hn": {
+        "id": 50530132,
+        "type": "story",
+        "by": "rbanffy",
+        "score": 10,
+        "descendants": 0,
+        "time": 1794915668,
+        "comments_url": "https://news.ycombinator.com/item?id=50530132"
+      },
+      "hot_score": 0.0,
+      "tags": [
+        "Hardware"
       ]
     }
   ]

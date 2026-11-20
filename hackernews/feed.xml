@@ -5,7 +5,7 @@
     <link>https://chaowang15.github.io/hackernews/</link>
     <description>Curated daily digest of top Hacker News stories with AI-generated summaries, tags, and bilingual translations.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 19 Nov 2026 16:06:33 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 02:06:56 +0000</lastBuildDate>
     <generator>Hacker News Daily RSS Builder</generator>
     <atom:link href="https://chaowang15.github.io/hackernews/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
@@ -65,7 +65,7 @@
       <category>Security</category>
       <description>&lt;p&gt;Nginx has been reported to contain unauthenticated remote code execution vulnerabilities. The supplied records identify two related CVE entries, CVE-2026-123633 and CVE-2026-123007.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;据报道，Nginx 存在无需认证即可触发的远程代码执行漏洞。相关记录列出了两个 CVE 编号：CVE-2026-123633 和 CVE-2026-123007。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 1464 · 💬 618 · Security&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 1483 · 💬 637 · Security&lt;/small&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50547374&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/19/top_stories_11192026#story-50547374&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
@@ -93,6 +93,18 @@
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50530163&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/18/top_stories_11182026#story-50530163&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Java4Shell: RCE in OpenJDK when processing Base64</title>
+      <link>https://calif.io/java4shell/</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50538240</guid>
+      <dc:creator>werrett</dc:creator>
+      <pubDate>Tue, 17 Nov 2026 21:11:28 +0000</pubDate>
+      <category>Security</category>
+      <description>&lt;p&gt;Calif disclosed Java4Shell, tracked as CVE-2026-114938, a memory-corruption vulnerability in OpenJDK's Base64 decoder. OpenJDK is described as the most popular Java runtime. The vulnerability has a CVSS 4.0 score of 9.2 out of 10, rated Critical. Its severity could make affected OpenJDK deployments a high-priority patching target.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Calif 披露了 Java4Shell（编号 CVE-2026-114938），这是 OpenJDK Base64 解码器中的内存破坏漏洞。OpenJDK 被称为最流行的 Java 运行时。该漏洞在 CVSS 4.0 中获得 9.2 分（满分 10 分），评级为“严重”。这一评级意味着受影响的 OpenJDK 部署可能需要优先修补。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 1176 · 💬 329 · Security&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50538240&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/19/top_stories_11192026#story-50538240&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Service degradation on Microsoft 365</title>
       <link>https://status.cloud.microsoft/</link>
       <guid isPermaLink="true">https://news.ycombinator.com/item?id=50471731</guid>
@@ -103,18 +115,6 @@
 &lt;p&gt;&lt;em&gt;Microsoft 365 正在经历服务降级。现有材料没有说明受影响的具体服务、原因或预计恢复时间。因此，用户在问题处理期间可能会遇到服务中断。&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;▲ 1161 · 💬 978 · DevOps&lt;/small&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50471731&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/13/top_stories_11132026#story-50471731&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Java4Shell: RCE in OpenJDK when processing Base64</title>
-      <link>https://calif.io/java4shell/</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50538240</guid>
-      <dc:creator>werrett</dc:creator>
-      <pubDate>Tue, 17 Nov 2026 21:11:28 +0000</pubDate>
-      <category>Security</category>
-      <description>&lt;p&gt;Calif disclosed Java4Shell, tracked as CVE-2026-114938, a memory-corruption vulnerability in OpenJDK's Base64 decoder. OpenJDK is described as the most popular Java runtime. The vulnerability has a CVSS 4.0 score of 9.2 out of 10, rated Critical. Its severity could make affected OpenJDK deployments a high-priority patching target.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Calif 披露了 Java4Shell（编号 CVE-2026-114938），这是 OpenJDK Base64 解码器中的内存破坏漏洞。OpenJDK 被称为最流行的 Java 运行时。该漏洞在 CVSS 4.0 中获得 9.2 分（满分 10 分），评级为“严重”。这一评级意味着受影响的 OpenJDK 部署可能需要优先修补。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 1155 · 💬 321 · Security&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50538240&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/18/top_stories_11182026#story-50538240&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>All AI-generated code should be Open Source</title>
@@ -142,6 +142,19 @@
 &lt;p&gt;&lt;em&gt;一份援引《华尔街日报》的新报告称，英伟达通过投资 AI 初创公司，促使这些公司购买英伟达 GPU 并建设数据中心，从而加剧了 GPU 和内存短缺。报告称，这一指控是在 Jensen Huang 离任英伟达 CEO 后出现的。争议焦点在于，英伟达的融资活动是否帮助推高了对其自有硬件的需求。&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;▲ 1036 · 💬 621 · AI · Business · Hardware&lt;/small&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50493251&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/14/top_stories_11142026#story-50493251&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Gemini 4 Neon</title>
+      <link>https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50552424</guid>
+      <dc:creator>yigitdemirag</dc:creator>
+      <pubDate>Wed, 18 Nov 2026 21:34:07 +0000</pubDate>
+      <category>AI</category>
+      <category>Science</category>
+      <description>&lt;p&gt;Google has introduced Gemini 4 Neon, a model aimed at complex coding, knowledge work, and scientific workflows. The company says it offers frontier-level intelligence with fast end-to-end task completion at a lower cost. The model is presented by Google DeepMind’s senior vice president and chief AI architect.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Google 推出了 Gemini 4 Neon，面向复杂编程、知识工作和科学工作流。Google 表示，该模型以更低成本提供前沿级智能，并能快速完成端到端任务。该模型由 Google DeepMind 高级副总裁兼首席 AI 架构师发布。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 1016 · 💬 761 · AI · Science&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50552424&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/19/top_stories_11192026#story-50552424&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Anthropic IPO</title>
@@ -185,17 +198,18 @@
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50517488&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/17/top_stories_11172026#story-50517488&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Gemini 4 Neon</title>
-      <link>https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50552424</guid>
-      <dc:creator>yigitdemirag</dc:creator>
-      <pubDate>Wed, 18 Nov 2026 21:34:07 +0000</pubDate>
+      <title>Anthropic’s Nasdaq debut</title>
+      <link>https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50562754</guid>
+      <dc:creator>wslh</dc:creator>
+      <pubDate>Thu, 19 Nov 2026 17:02:40 +0000</pubDate>
+      <category>Finance</category>
+      <category>Business</category>
       <category>AI</category>
-      <category>Science</category>
-      <description>&lt;p&gt;Google has introduced Gemini 4 Neon, a model aimed at complex coding, knowledge work, and scientific workflows. The company says it offers frontier-level intelligence with fast end-to-end task completion at a lower cost. The model is presented by Google DeepMind’s senior vice president and chief AI architect.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Google 推出了 Gemini 4 Neon，面向复杂编程、知识工作和科学工作流。Google 表示，该模型以更低成本提供前沿级智能，并能快速完成端到端任务。该模型由 Google DeepMind 高级副总裁兼首席 AI 架构师发布。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 953 · 💬 732 · AI · Science&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50552424&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/19/top_stories_11192026#story-50552424&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;Anthropic made its debut on the Nasdaq stock exchange.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Anthropic 在纳斯达克证券交易所挂牌上市。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 920 · 💬 1813 · Finance · Business · AI&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50562754&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/19/top_stories_11192026#story-50562754&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Rust 1.100</title>
@@ -297,16 +311,16 @@
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50474959&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/14/top_stories_11142026#story-50474959&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>AI is killing All About Berlin</title>
-      <link>https://nicolasbouliane.com/blog/death-by-ai</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50542705</guid>
-      <dc:creator>grey-area</dc:creator>
-      <pubDate>Wed, 18 Nov 2026 06:47:26 +0000</pubDate>
-      <category>AI</category>
-      <description>&lt;p&gt;The operator of All About Berlin says the site's traffic fell by 70% to 75% after years of growth, attributing the decline to Google's AI Overviews. Search pages now place an AI-generated answer trained on the site's content before the link to the site itself. The change has had a devastating effect on the site's traffic.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;All About Berlin 的运营者表示，该网站在多年增长后，流量因 Google AI Overviews 下跌了 70% 至 75%。如今搜索页面会先展示基于该网站内容训练的 AI 生成答案，最后才显示指向网站的链接。这一变化对网站流量造成了严重打击。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 759 · 💬 684 · AI&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50542705&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/18/top_stories_11182026#story-50542705&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+      <title>We need smart people who give a shit</title>
+      <link>https://violetpixel.com/blog/2026-11-17-we-need-smart-people-who-give-a-shit/</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50554045</guid>
+      <dc:creator>ExMachina73</dc:creator>
+      <pubDate>Wed, 18 Nov 2026 23:53:49 +0000</pubDate>
+      <category>Culture</category>
+      <description>&lt;p&gt;The author argues that complex systems are held together by smart people who care deeply about their work. This view becomes especially apparent when examining how difficult systems function, or how close they are to failing. The essay begins from that observation about the people who keep complicated systems operating.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;作者认为，复杂系统依靠聪明且真正关心工作的人维系。这一点在观察复杂系统如何运转，或如何勉强维持运转时尤其明显。文章以这一关于维持复杂系统运行者的观察为出发点。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 782 · 💬 391 · Culture&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50554045&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/19/top_stories_11192026#story-50554045&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Inside Deutsche Bank</title>
@@ -319,8 +333,32 @@
       <category>Business</category>
       <description>&lt;p&gt;A major investigation into Deutsche Bank is based on a leak of more than 15 million files. The files cover sensitive functions including anti-financial-crime work, sanctions monitoring, internal auditing, and decisions about whether risky clients should remain customers. The investigation portrays flaws in the bank's culture, systemic blind spots, and tensions between profit-seeking and compliance.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;一项针对德意志银行的重大调查建立在超过 1500 万份泄露文件的基础上。这些文件涉及反金融犯罪、制裁监控、内部审计，以及决定高风险客户是否继续留存等敏感职能。调查呈现出该行文化中的缺陷、系统性盲点，以及追求利润与合规要求之间的矛盾。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 753 · 💬 251 · Finance · Security · Business&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 775 · 💬 258 · Finance · Security · Business&lt;/small&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50547620&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/19/top_stories_11192026#story-50547620&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>AI is killing All About Berlin</title>
+      <link>https://nicolasbouliane.com/blog/death-by-ai</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50542705</guid>
+      <dc:creator>grey-area</dc:creator>
+      <pubDate>Wed, 18 Nov 2026 06:47:26 +0000</pubDate>
+      <category>AI</category>
+      <description>&lt;p&gt;The operator of All About Berlin says the site's traffic fell by 70% to 75% after years of growth, attributing the decline to Google's AI Overviews. Search pages now place an AI-generated answer trained on the site's content before the link to the site itself. The change has had a devastating effect on the site's traffic.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;All About Berlin 的运营者表示，该网站在多年增长后，流量因 Google AI Overviews 下跌了 70% 至 75%。如今搜索页面会先展示基于该网站内容训练的 AI 生成答案，最后才显示指向网站的链接。这一变化对网站流量造成了严重打击。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 759 · 💬 684 · AI&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50542705&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/18/top_stories_11182026#story-50542705&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Garage Door Spam</title>
+      <link>https://blog.harrison.page/garage-door-spam/</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50519231</guid>
+      <dc:creator>harrisonpage</dc:creator>
+      <pubDate>Mon, 16 Nov 2026 16:13:36 +0000</pubDate>
+      <category>Security</category>
+      <description>&lt;p&gt;A garage door opener initially sent notifications whenever the door opened or closed, which made unexpected openings seem meaningful when the owner was away. The owner continued using the myQ app despite its advertisements because the notifications appeared trustworthy.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;一款车库门开启器最初会在车门开关时发送通知，因此人在外出时，异常开门会显得格外重要。尽管 myQ 应用广告很多，用户仍因信任这些通知而继续使用它。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 756 · 💬 316 · Security&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50519231&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/19/top_stories_11192026#story-50519231&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Show HN: My $300 embroidery machine needed a subscription, so I built my own app</title>
@@ -412,6 +450,18 @@
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50532849&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/18/top_stories_11182026#story-50532849&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>How the European Commission rolled out Matrix to more than 40k staff</title>
+      <link>https://element.io/blog/how-the-european-commission-rolled-out-matrix-to-more-than-40-000-staff/</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50558533</guid>
+      <dc:creator>liotier</dc:creator>
+      <pubDate>Thu, 19 Nov 2026 10:58:29 +0000</pubDate>
+      <category>Open Source</category>
+      <description>&lt;p&gt;The European Commission moved from a Matrix proof of concept in December 2025 to a sovereign communication tool deployed on every Commission laptop by September 2026. Built on Matrix by Element and operated by the Commission itself, the service now supports more than 40,000 users. Commission officials described the operational challenges of scaling the system and how they addressed them.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;欧洲委员会从 2025 年 12 月的 Matrix 概念验证起步，到 2026 年 9 月将一套主权通信工具部署到每台委员会笔记本电脑上。该工具由 Element 基于 Matrix 构建，并由委员会自行运营，目前已服务超过 4 万名用户。委员会官员还介绍了系统扩展过程中遇到的运营难题及应对方式。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 663 · 💬 323 · Open Source&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50558533&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/19/top_stories_11192026#story-50558533&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Nvidia stopped disclosing Singapore sales as revenues hit $104B</title>
       <link>https://www.ft.com/content/dbde7a30-548c-4f9d-a4be-7898a0c24dcf</link>
       <guid isPermaLink="true">https://news.ycombinator.com/item?id=50534631</guid>
@@ -462,6 +512,19 @@
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50545958&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/18/top_stories_11182026#story-50545958&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Pancreatic cancer halted by virus injection in three patients</title>
+      <link>https://www.newscientist.com/article/2528235-pancreatic-cancer-halted-by-virus-injection-in-three-patients/</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50563066</guid>
+      <dc:creator>cybermango</dc:creator>
+      <pubDate>Thu, 19 Nov 2026 17:25:33 +0000</pubDate>
+      <category>Health</category>
+      <category>Science</category>
+      <description>&lt;p&gt;A virus injection halted pancreatic cancer in three patients.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;三名胰腺癌患者在接受病毒注射后，癌症病情得到遏制。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 599 · 💬 89 · Health · Science&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50563066&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/19/top_stories_11192026#story-50563066&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Universal XSS in uBlock Origin from website-driven element picker</title>
       <link>https://iter.ca/post/ubo-uxss/</link>
       <guid isPermaLink="true">https://news.ycombinator.com/item?id=50513160</guid>
@@ -483,7 +546,7 @@
       <category>AI</category>
       <description>&lt;p&gt;Microsoft has announced seven new models positioned around scalable price-performance.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Microsoft 宣布推出七个新模型，主打可扩展的价格与性能表现。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 584 · 💬 365 · AI&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 593 · 💬 376 · AI&lt;/small&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50548021&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/19/top_stories_11192026#story-50548021&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
@@ -524,6 +587,21 @@
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50519354&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/17/top_stories_11172026#story-50519354&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>UK government forced to admit it issued Apple a secret encryption order</title>
+      <link>https://macanorak.com/uk-government-forced-to-admit-it-issued-apple-a-secret-encryption-order/</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50562113</guid>
+      <dc:creator>Terretta</dc:creator>
+      <pubDate>Thu, 19 Nov 2026 16:21:03 +0000</pubDate>
+      <category>Privacy</category>
+      <category>Legal</category>
+      <category>Security</category>
+      <category>Politics</category>
+      <description>&lt;p&gt;The Investigatory Powers Tribunal rejected the UK government’s attempt to keep its order to Apple secret. The tribunal ruled that the government must acknowledge issuing Apple a Technical Capability Notice under Section 253 of the Investigatory Powers Act 2016. Such notices can require technology companies to alter services to facilitate investigatory powers, in this case amid a dispute over encrypted iCloud data.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;调查权力法庭驳回了英国政府试图对苹果命令保持保密的做法。法庭裁定，政府必须承认其依据《2016 年调查权力法》第 253 条向苹果发出过技术能力通知。这类通知可以要求科技公司修改服务，以协助行使调查权；本案涉及加密 iCloud 数据争议。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 513 · 💬 218 · Privacy · Legal · Security · Politics&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50562113&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/19/top_stories_11192026#story-50562113&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>The MacBook Pro's OLED PWM problem</title>
       <link>https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use/</link>
       <guid isPermaLink="true">https://news.ycombinator.com/item?id=50506719</guid>
@@ -558,84 +636,6 @@
 &lt;p&gt;&lt;em&gt;该条目标题为《末日：2026 年 11 月 13 日，星期五》，并标注为公元 1960 年。没有更多关于其主题或内容的可靠信息。&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;▲ 494 · 💬 337 · Science&lt;/small&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50482379&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/14/top_stories_11142026#story-50482379&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Elevated errors on claude.ai, Claude Code, and platform.claude.com</title>
-      <link>https://status.claude.com/incidents/nn11wk485zfn</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50481187</guid>
-      <dc:creator>__vivek</dc:creator>
-      <pubDate>Fri, 13 Nov 2026 10:18:13 +0000</pubDate>
-      <category>AI</category>
-      <description>&lt;p&gt;Claude’s status page reported elevated errors affecting claude.ai, Claude Code, and platform.claude.com. The notice identifies the affected services but provides no further incident details in the available information.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Claude 状态页报告称，claude.ai、Claude Code 和 platform.claude.com 的错误率升高。现有信息仅列出了受影响的服务，未提供更多事故细节。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 493 · 💬 390 · AI&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50481187&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/14/top_stories_11142026#story-50481187&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>ID.me terms required for IRS sign-in</title>
-      <link>https://consumerrights.wiki/w/ID.me_terms_required_for_IRS_sign-in</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50540437</guid>
-      <dc:creator>DeepLogin</dc:creator>
-      <pubDate>Wed, 18 Nov 2026 00:51:45 +0000</pubDate>
-      <category>Privacy</category>
-      <category>Legal</category>
-      <category>Politics</category>
-      <category>Business</category>
-      <description>&lt;p&gt;Taxpayers using ID.me to sign in to IRS online services accept terms that send most disputes to arbitration rather than a judge or jury, unless they opt out within 30 days. ID.me's privacy policy says it may use information for marketing and transfer information during a sale, merger, or similar transaction. It excludes government identity-verification data from ID.me Shop marketing unless the user consents or another listed exception applies. Login.gov and IRS Direct Pay remain alternatives for IRS access.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;纳税人使用 ID.me 登录美国国税局在线服务时，将接受把大多数争议提交仲裁、而非交由法官或陪审团审理的条款，除非在 30 天内选择退出。ID.me 的隐私政策称，其可能将信息用于营销，并在出售、合并或类似交易中转移信息。政府身份验证数据通常不会用于 ID.me Shop 的营销，但用户同意或符合其他列明例外的情况除外。IRS 仍提供 Login.gov 和无需登录的 Direct Pay 作为替代方式。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 492 · 💬 259 · Privacy · Legal · Politics · Business&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50540437&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/18/top_stories_11182026#story-50540437&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Court denies motion to dismiss DRAM price fixing case</title>
-      <link>https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50502988</guid>
-      <dc:creator>ybathaee</dc:creator>
-      <pubDate>Sun, 15 Nov 2026 01:18:36 +0000</pubDate>
-      <category>Legal</category>
-      <category>Business</category>
-      <description>&lt;p&gt;A federal judge refused to dismiss a proposed class action accusing Samsung, SK Hynix, and Micron of conspiring to restrict conventional DRAM supply and shift capacity toward HBM. Judge Noël Wise found that buyers had plausibly alleged an agreement violating Section 1 of the Sherman Act. The allegations have been accepted only for this procedural stage and have not been proven.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;一名联邦法官拒绝驳回一项拟议集体诉讼，该诉讼指控三星、SK 海力士和美光合谋限制传统 DRAM 供应，并将产能转向 HBM。Noël Wise 法官认定，买方对违反《谢尔曼法》第 1 条的合谋提出了具有可信性的指控。目前这些指控仅在这一程序阶段被视为成立，并未得到证实。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 492 · 💬 219 · Legal · Business&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50502988&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/15/top_stories_11152026#story-50502988&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Tech companies are trying to shift the concept of privacy again</title>
-      <link>https://www.eff.org/deeplinks/2026/11/tech-companies-are-trying-shift-entire-concept-privacy-again</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50496602</guid>
-      <dc:creator>gslin</dc:creator>
-      <pubDate>Sat, 14 Nov 2026 12:45:45 +0000</pubDate>
-      <category>Privacy</category>
-      <category>AI</category>
-      <description>&lt;p&gt;Privacy is increasingly affecting people beyond the individual who owns or uses a device. Meta and Google’s smart glasses can record what the wearer is looking at or use AI to describe it, extending the consequences of data collection to bystanders. The shift challenges the older framing of privacy as primarily a matter of personal choice.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;隐私问题正越来越多地影响设备所有者或使用者之外的人。Meta 和 Google 的智能眼镜可以记录佩戴者所看到的内容，或使用 AI 对其进行描述，使数据收集的后果波及旁观者。这种变化挑战了过去主要将隐私视为个人选择的传统定义。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 468 · 💬 175 · Privacy · AI&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50496602&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/14/top_stories_11142026#story-50496602&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Monkey Island: all 13 versions side by side</title>
-      <link>https://monkeyisland.pages.dev/</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50493904</guid>
-      <dc:creator>maximilianburke</dc:creator>
-      <pubDate>Sat, 14 Nov 2026 04:23:30 +0000</pubDate>
-      <category>Gaming</category>
-      <description>&lt;p&gt;The project presents every version of The Secret of Monkey Island from 1990 side by side, covering eight editions and 13 display modes across systems including Hercules, CGA, EGA, VGA, Amiga, Atari ST, Macintosh, FM Towns, and Sega CD. It shows the same 12 scenes in each version, with captures scaled to 1600×1200 using nearest-neighbor scaling and corrected for a 4:3 display. The presentation keeps the framing constant so differences come from the original machines and display modes.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;这个项目并排展示了 1990 年《猴岛的秘密》的所有版本，涵盖 Hercules、CGA、EGA、VGA、Amiga、Atari ST、Macintosh、FM Towns 和 Sega CD 等平台上的 8 个版本、13 种显示模式。每个版本都展示相同的 12 个场景，截图使用最近邻算法放大到 1600×1200，并进行 4:3 显示比例校正。展示保持相同构图，因此差异主要来自原始机器和显示模式。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 466 · 💬 147 · Gaming&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50493904&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/14/top_stories_11142026#story-50493904&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>I'm making LLMs work on small and old devices</title>
-      <link>https://github.com/hyperionaidev/smolmaxxing/</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50468888</guid>
-      <dc:creator>mrashad74</dc:creator>
-      <pubDate>Thu, 12 Nov 2026 15:23:10 +0000</pubDate>
-      <category>AI</category>
-      <category>Hardware</category>
-      <description>&lt;p&gt;smolmaxxing explores how to run the largest practical language models on small or old devices such as TV boxes, phones, single-board computers, and routers. It uses custom kernels, memory optimization, and weight streaming, with claims measured on the actual hardware. On a Xiaomi TV Box S 3rd Gen with about 1 GB of usable RAM, the project reports running models ranging from 260K to 16B parameters.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;smolmaxxing 探索如何在电视盒子、旧手机、单板计算机和路由器等小型或老旧设备上运行实际可用的最大语言模型。项目使用定制内核、内存优化和权重流式传输，并在真实硬件上测量各项结果。在可用内存约 1 GB 的 Xiaomi TV Box S 第三代上，项目报告称可运行参数量从 26 万到 160 亿不等的模型。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 466 · 💬 180 · AI · Hardware&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50468888&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/13/top_stories_11132026#story-50468888&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
