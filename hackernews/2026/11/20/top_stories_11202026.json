@@ -3,47 +3,326 @@
     "mode": "top",
     "source": "https://news.ycombinator.com/",
     "api": "https://github.com/HackerNews/API",
-    "count_requested": 50,
-    "count_written": 50,
-    "reused_same_day": 0,
-    "reused_cross_day": 13,
+    "count_requested": 100,
+    "count_written": 100,
+    "reused_same_day": 48,
+    "reused_cross_day": 0,
     "reused_history": 0,
-    "new_llm_enriched": 37,
-    "scrape_time_display": "08:04, November 20, 2026 (PST)",
+    "new_llm_enriched": 52,
+    "scrape_time_display": "18:04, November 20, 2026 (PST)",
     "timezone": "America/Los_Angeles",
     "date_dir": "2026/11/20",
     "content_date": "2026-11-20",
-    "edition": "morning",
-    "edition_label": "Morning 50",
-    "target_count": 50,
-    "run_time_local": "08:04, November 20, 2026 (PST)",
-    "run_time_utc": "2026-11-20 16:04:04 UTC",
+    "edition": "full",
+    "edition_label": "All 100",
+    "target_count": 100,
+    "run_time_local": "18:04, November 20, 2026 (PST)",
+    "run_time_utc": "2026-11-21 02:04:46 UTC",
     "incremental": true,
-    "stories_max": 50,
-    "hot_score_time_utc": "2026-11-20 16:05:15 UTC"
+    "stories_max": 100,
+    "hot_score_time_utc": "2026-11-21 02:06:30 UTC"
   },
   "items": [
     {
-      "title_en": "Anthropic employee claims general proof of the Riemann Hypothesis [pdf]",
-      "url": "https://alpo.ge/remark.pdf",
-      "title_zh": "Anthropic 员工声称给出了黎曼猜想的一般证明 [PDF]",
+      "title_en": "Hurried Announcement: Alessandro Masullo GRH",
+      "url": "https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/",
+      "title_zh": "仓促公告：Alessandro Masullo 的广义黎曼猜想证明",
       "is_new": true,
+      "created_display": "Created: Nov 20, 2026 / 10:33 PT",
+      "image_url": "https://0.gravatar.com/avatar/33252cd1f33526af53580fcb1736172f06e6716f32afdd1be19ec3096d15dea5?s=48&d=monsterid&r=G",
+      "summary_en": "Alessandro Masullo has proposed a proof of the Generalized Riemann Hypothesis. Brian Conrad has reviewed it closely for months, provided extensive feedback, and considers the draft to be looking good so far. The authors had hoped to refine it at Stanford before announcing it, but decided to release the current draft so others could check and formalize it.",
+      "summary_zh": "Alessandro Masullo 提出了一份广义黎曼猜想的证明。Brian Conrad 已经对其进行了数月的仔细审阅，并提供了大量反馈，目前认为证明草稿看起来不错。原计划是在斯坦福进一步完善后再公布，但现在决定先发布当前版本，供其他人检查和形式化。",
+      "hn": {
+        "id": 50579568,
+        "type": "story",
+        "by": "jasondavies",
+        "score": 1583,
+        "descendants": 723,
+        "time": 1795199594,
+        "comments_url": "https://news.ycombinator.com/item?id=50579568"
+      },
+      "hot_score": 27.22,
+      "tags": [
+        "Science"
+      ]
+    },
+    {
+      "title_en": "Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]",
+      "url": "https://alpo.ge/remark.pdf",
+      "title_zh": "Levent Alpöge 声称证明了广义黎曼猜想",
+      "is_new": false,
       "created_display": "Created: Nov 20, 2026 / 06:16 PT",
       "image_url": null,
-      "summary_en": "An Anthropic employee claims to have produced a general proof of the Riemann Hypothesis. No further details about the proof or its verification are established here.",
-      "summary_zh": "一名 Anthropic 员工声称给出了黎曼猜想的一般证明。现有信息未说明证明的具体内容或是否经过验证。",
+      "summary_en": "Levent Alpöge claims to have found a proof of the Generalized Riemann Hypothesis. The claim is presented in a PDF.",
+      "summary_zh": "Levent Alpöge 声称找到了广义黎曼猜想的证明。相关论证以 PDF 形式发布。",
       "hn": {
         "id": 50574968,
         "type": "story",
         "by": "iamronaldo",
-        "score": 807,
-        "descendants": 471,
+        "score": 2377,
+        "descendants": 1605,
         "time": 1795184181,
         "comments_url": "https://news.ycombinator.com/item?id=50574968"
       },
-      "hot_score": 72.38,
+      "hot_score": 20.99,
       "tags": [
-        "Science",
+        "Science"
+      ]
+    },
+    {
+      "title_en": "Inkling 2 Mini",
+      "url": "https://thinkingmachines.ai/news/inkling-2-mini/",
+      "title_zh": "Inkling 2 Mini",
+      "is_new": true,
+      "created_display": "Created: Nov 20, 2026 / 12:12 PT",
+      "image_url": "https://thinkingmachines.ai/news/inkling-2-mini/images/cover-social.png",
+      "summary_en": "Thinking Machines has released Inkling 2 Mini, an open-weights model small enough to run on a laptop. It is a looped transformer that runs its middle layers three times per token, allowing it to reason more and use fewer tokens. The model reportedly leads open-weights models under 100 billion total parameters on DeepSWE v1.1 and Vals Index v2.2, while also running faster than similarly performing models.",
+      "summary_zh": "Thinking Machines 发布了 Inkling 2 Mini，这是一款小到可以在笔记本电脑上运行的开放权重模型。它采用循环 Transformer，每个 token 将中间层运行三次，从而进行更多推理并减少 token 使用量。据称，在总参数量低于 1000 亿的开放权重模型中，它在 DeepSWE v1.1 和 Vals Index v2.2 上处于领先，同时运行速度也快于性能相近的模型。",
+      "hn": {
+        "id": 50581260,
+        "type": "story",
+        "by": "jasondavies",
+        "score": 690,
+        "descendants": 112,
+        "time": 1795205539,
+        "comments_url": "https://news.ycombinator.com/item?id=50581260"
+      },
+      "hot_score": 16.68,
+      "tags": [
+        "AI",
+        "Open Source"
+      ]
+    },
+    {
+      "title_en": "I'll never buy Framework hardware again",
+      "url": "https://poolp.org/posts/2026-11-20/ill-never-buy-framework-hardware-again/",
+      "title_zh": "我再也不会购买 Framework 硬件",
+      "is_new": true,
+      "created_display": "Created: Nov 20, 2026 / 08:06 PT",
+      "image_url": "https://poolp.org/posts/2026-11-20/ill-never-buy-framework-hardware-again/featured.png",
+      "summary_en": "The author says they no longer intend to buy Framework hardware and criticizes the company’s support. The stated goal is for Framework to fix the support problem and provide the working laptop that was paid for.",
+      "summary_zh": "作者表示今后不再购买 Framework 硬件，并批评该公司的客户支持。作者希望 Framework 修复支持问题，交付已经付费购买且能够正常工作的笔记本电脑。",
+      "hn": {
+        "id": 50576855,
+        "type": "story",
+        "by": "unchar1",
+        "score": 762,
+        "descendants": 544,
+        "time": 1795190790,
+        "comments_url": "https://news.ycombinator.com/item?id=50576855"
+      },
+      "hot_score": 8.69,
+      "tags": [
+        "Hardware"
+      ]
+    },
+    {
+      "title_en": "Re: Riemann",
+      "url": "https://borretti.me/article/re-riemann",
+      "title_zh": "再谈黎曼",
+      "is_new": true,
+      "created_display": "Created: Nov 20, 2026 / 15:42 PT",
+      "image_url": "https://borretti.me/assets/card/re-riemann.webp",
+      "summary_en": "The author describes waking up in Australia to a Discord notification saying that “they proved Riemann.” The message prompted the author to examine the announcement and focus on one particular passage. The post frames the event as an unexpected piece of major mathematical news.",
+      "summary_zh": "作者讲述了自己在澳大利亚醒来后看到一条 Discord 通知，内容是“他们证明了黎曼猜想”。这条消息促使作者仔细查看相关公告，并特别关注其中的一段文字。文章将这件事描述为一则出乎意料的重大数学新闻。",
+      "hn": {
+        "id": 50583982,
+        "type": "story",
+        "by": "_dain_",
+        "score": 120,
+        "descendants": 101,
+        "time": 1795218164,
+        "comments_url": "https://news.ycombinator.com/item?id=50583982"
+      },
+      "hot_score": 8.28,
+      "tags": [
+        "Science"
+      ]
+    },
+    {
+      "title_en": "NINLIVE: The Nine Inch Nails live archive",
+      "url": "https://ninlive.com/",
+      "title_zh": "NINLIVE：九寸钉现场档案",
+      "is_new": true,
+      "created_display": "Created: Nov 20, 2026 / 14:30 PT",
+      "image_url": "https://ninlive.com/static/ninlive-socialshare.png",
+      "summary_en": "NINLIVE is a fan-run archive of Nine Inch Nails concerts, setlists, recordings, posters, and photos from 1988 onward. It now lets users stream live recordings from 1988 through 2026, in addition to downloading them. Users can log in with Discord to save and organize favorites.",
+      "summary_zh": "NINLIVE 是一个由粉丝运营的九寸钉现场档案，收录自 1988 年以来的演唱会、歌单、录音、海报和照片。该站现在除了提供下载，还支持在线播放 1988 至 2026 年的现场录音。用户可以使用 Discord 登录，以保存和整理喜欢的录音。",
+      "hn": {
+        "id": 50583274,
+        "type": "story",
+        "by": "CharlesW",
+        "score": 127,
+        "descendants": 27,
+        "time": 1795213847,
+        "comments_url": "https://news.ycombinator.com/item?id=50583274"
+      },
+      "hot_score": 5.68,
+      "tags": [
+        "Entertainment"
+      ]
+    },
+    {
+      "title_en": "US SEC's Nvidia probe is examining potential accounting issues – sources",
+      "url": "https://www.marketscreener.com/news/us-sec-s-nvidia-probe-is-examining-potential-accounting-issues-sources-say-ce785ed3dd8ff627",
+      "title_zh": "美国 SEC 对英伟达的调查正在审查潜在会计问题",
+      "is_new": true,
+      "created_display": "Created: Nov 20, 2026 / 12:22 PT",
+      "image_url": null,
+      "summary_en": "The US Securities and Exchange Commission is reportedly examining potential accounting issues involving Nvidia. The investigation is attributed to unnamed sources.",
+      "summary_zh": "据报道，美国证券交易委员会正在审查英伟达可能存在的会计问题。相关调查消息来自未具名消息人士。",
+      "hn": {
+        "id": 50581438,
+        "type": "story",
+        "by": "ftchd",
+        "score": 225,
+        "descendants": 114,
+        "time": 1795206161,
+        "comments_url": "https://news.ycombinator.com/item?id=50581438"
+      },
+      "hot_score": 5.64,
+      "tags": [
+        "Finance"
+      ]
+    },
+    {
+      "title_en": "Nasdaq erases all 2026 gains",
+      "url": "https://www.cnbc.com/2026/11/19/stock-market-today-live-updates.html",
+      "title_zh": "纳斯达克抹去了 2026 年全部涨幅",
+      "is_new": true,
+      "created_display": "Created: Nov 20, 2026 / 14:29 PT",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108533238-1795191208439-108533238-1793980775226-gettyimages-2303833268-anotherday34809196_zrhw37kt.jpeg?v=1795217571&w=1920&h=1080",
+      "summary_en": "The Nasdaq erased all of its gains for 2026. A decline in Anthropic shares weighed on the broader market after the AI company’s public-market debut in the previous session.",
+      "summary_zh": "纳斯达克抹去了 2026 年以来的全部涨幅。AI 公司 Anthropic 上一交易日上市后股价下跌，拖累了整体市场。",
+      "hn": {
+        "id": 50583254,
+        "type": "story",
+        "by": "mv4",
+        "score": 121,
+        "descendants": 55,
+        "time": 1795213746,
+        "comments_url": "https://news.ycombinator.com/item?id=50583254"
+      },
+      "hot_score": 5.36,
+      "tags": [
+        "Finance",
+        "AI"
+      ]
+    },
+    {
+      "title_en": "The stochastic parrots have apparently proved the Riemann Hypothesis",
+      "url": "https://scottaaronson.blog/?p=10344",
+      "title_zh": "随机鹦鹉似乎证明了黎曼猜想",
+      "is_new": true,
+      "created_display": "Created: Nov 20, 2026 / 12:03 PT",
+      "image_url": "https://s0.wp.com/_si/?t=eyJpbWciOiJodHRwczpcL1wvc2NvdHRhYXJvbnNvbi5ibG9nXC93cC1jb250ZW50XC91cGxvYWRzXC8yMDIxXC8xMFwvY3JvcHBlZC1KYWNrZXQuZ2lmIiwidHh0IjoiU2h0ZXRsLU9wdGltaXplZCIsInRlbXBsYXRlIjoiZWRnZSIsImZvbnQiOiIiLCJibG9nX2lkIjoxMjk1MjA1ODB9.siOtN7gHw4tefA_rZickBw4GfI6tPxGgOQ1AXr2ZoOQMQ",
+      "summary_en": "The post uses the phrase “stochastic parrots” while discussing the apparent claim that the Riemann Hypothesis has been proved. It quotes Bernhard Riemann’s 1859 remark that he had set aside the search for a rigorous proof. An update notes that many people on social media interpreted the phrase literally rather than as irony or sarcasm.",
+      "summary_zh": "文章用“随机鹦鹉”这一说法讨论黎曼猜想似乎已被证明的说法。文中引用了 Bernhard Riemann 1859 年的言论：他曾暂时放下寻找严格证明的工作。作者在更新中指出，许多社交媒体用户将这一说法按字面理解，而没有看出其中的反讽或讽刺意味。",
+      "hn": {
+        "id": 50581084,
+        "type": "story",
+        "by": "stratos123",
+        "score": 219,
+        "descendants": 186,
+        "time": 1795204987,
+        "comments_url": "https://news.ycombinator.com/item?id=50581084"
+      },
+      "hot_score": 5.1,
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "title_en": "We promoted developers into architects without informing them",
+      "url": "https://manidoraisamy.com/developer-to-architect.html",
+      "title_zh": "我们把开发者提拔成架构师，却没有告诉他们",
+      "is_new": true,
+      "created_display": "Created: Nov 20, 2026 / 10:17 PT",
+      "image_url": "https://near.tl/utils/resize/image?cdn=https://cdn.neartail.com/1FAIpQLScjbts-yMOruG0IK47bi0s9ciOCA6pyW7RlmwKwcFIRnw9HUQ/1795197373296/markdown/thumbnail.png&w=1200&h=630",
+      "summary_en": "The author argues that AI-assisted coding shifts developers’ work toward architecture and product judgment. A performance bug in a Google Forms add-on was traced to AI-generated logging that recorded user email information despite Google’s restrictions. The proposed fix is to log only the timestamp, show the welcome screen first, and tell marketing which installation data is unavailable.",
+      "summary_zh": "作者认为，AI 辅助编程正在把开发者的工作重心转向架构和产品判断。一个 Google Forms 插件的性能问题，最终被追溯到 AI 生成的日志代码：它记录了用户邮箱，而 Google 已限制可获取的用户信息。作者提出的修复方案是只记录时间戳、先显示欢迎界面，并告知市场团队安装时无法获取哪些数据。",
+      "hn": {
+        "id": 50579331,
+        "type": "story",
+        "by": "QueensGambit",
+        "score": 304,
+        "descendants": 185,
+        "time": 1795198671,
+        "comments_url": "https://news.ycombinator.com/item?id=50579331"
+      },
+      "hot_score": 4.97,
+      "tags": [
+        "Programming",
+        "AI"
+      ]
+    },
+    {
+      "title_en": "Unforced Navier-Stokes Singularity and the Generalized Riemann Hypothesis",
+      "url": "https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/",
+      "title_zh": "无外力 Navier–Stokes 奇异性与广义黎曼猜想",
+      "is_new": true,
+      "created_display": "Created: Nov 20, 2026 / 09:21 PT",
+      "image_url": "https://secure.gravatar.com/blavatar/bd4bda4207561b6998f10dec44b570f04ff4072b20f89162d525b186dfca3e49?s=200&ts=1795226555",
+      "summary_en": "Terence Tao lists recent results involving unforced Euler and Navier–Stokes equations, the Riemann Hypothesis, and researchers including Levent Alpöge and Tristan Buckmaster. He says the results will be reported more widely, while noting that their current level of digestion varies. The post is dated November 20, 2026.",
+      "summary_zh": "Terence Tao 列出了涉及无外力 Euler 方程、Navier–Stokes 方程、黎曼猜想以及 Levent Alpöge、Tristan Buckmaster 等研究者的最新结果。他表示，这些结果还会在其他渠道广泛报道，同时指出目前对这些成果的理解和整理程度各不相同。该文章发表于 2026 年 11 月 20 日。",
+      "hn": {
+        "id": 50578358,
+        "type": "story",
+        "by": "archon1410",
+        "score": 345,
+        "descendants": 143,
+        "time": 1795195296,
+        "comments_url": "https://news.ycombinator.com/item?id=50578358"
+      },
+      "hot_score": 4.79,
+      "tags": [
+        "Science"
+      ]
+    },
+    {
+      "title_en": "Language Models Can Rewrite Their Own Weights",
+      "url": "https://arxiv.org/abs/2611.21885",
+      "title_zh": "语言模型可以重写自己的权重",
+      "is_new": true,
+      "created_display": "Created: Nov 20, 2026 / 08:29 PT",
+      "image_url": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+      "summary_en": "Researchers describe a self-rewriting method in which a language model diagnoses its failures and edits its own weights without gradients or another training run. An open 27-billion-parameter model improved its accuracy by 6.6 points on unseen problems after its own edit. Across eight sessions, it repeatedly tested edits and retained only those that improved performance, and it restored a damaged copy to more than 80% of its original image-task accuracy.",
+      "summary_zh": "研究人员介绍了一种自我重写方法：语言模型无需梯度或重新训练，就能诊断自身失败并修改权重。一个拥有 270 亿参数的开放模型在自我修改后，在未见过的问题上的准确率提高了 6.6 个百分点。模型在八个连续会话中反复测试修改，只保留能提升性能的版本，并将一个受损副本恢复到原始图像任务准确率的 80% 以上。",
+      "hn": {
+        "id": 50577265,
+        "type": "story",
+        "by": "lwhsiao",
+        "score": 342,
+        "descendants": 112,
+        "time": 1795192146,
+        "comments_url": "https://news.ycombinator.com/item?id=50577265"
+      },
+      "hot_score": 4.12,
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "title_en": "Google workers tell their employer not to punish schools that don't want AI",
+      "url": "https://www.motherjones.com/politics/2026/11/google-alphabet-union-school-ai-protest-gemini-workers-petition/",
+      "title_zh": "Google 员工要求公司不要惩罚拒绝 AI 的学校",
+      "is_new": true,
+      "created_display": "Created: Nov 20, 2026 / 08:59 PT",
+      "image_url": "https://www.motherjones.com/wp-content/uploads/2026/11/google-chromebook-la-school-covid.jpg?w=1200&h=630&crop=1",
+      "summary_en": "Hundreds of Google workers are urging senior leadership to withdraw a policy that would deny schools access to Google Search if they disable Gemini AI tools next year. A Google staffer says executives view resistance to AI as evidence that schools do not “see the vision.” The proposed policy concerns schools using Chromebooks and Gemini tools.",
+      "summary_zh": "数百名 Google 员工要求高层撤回一项政策：如果学校明年关闭 Gemini AI 工具，可能会失去使用 Google 搜索的权限。一名 Google 员工称，高管认为学校抵制 AI 只是因为它们“不理解这一愿景”。这项政策涉及使用 Chromebook 和 Gemini 工具的学校。",
+      "hn": {
+        "id": 50577901,
+        "type": "story",
+        "by": "cdrnsf",
+        "score": 266,
+        "descendants": 196,
+        "time": 1795193967,
+        "comments_url": "https://news.ycombinator.com/item?id=50577901"
+      },
+      "hot_score": 3.47,
+      "tags": [
+        "Politics",
         "AI"
       ]
     },
@@ -51,7 +330,7 @@
       "title_en": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
       "url": "https://architectlabs.com/blog/frostbite",
       "title_zh": "Frostbite：由 AI 发现、设计并验证的新型 CPU 架构",
-      "is_new": true,
+      "is_new": false,
       "created_display": "Created: Nov 20, 2026 / 02:01 PT",
       "image_url": "https://main--gleeful-begonia-6bb5f3.netlify.app/_next/static/media/frostbite-cover.3n9ytugnquhlr.jpg",
       "summary_en": "Frostbite is a general-purpose CPU built around interaction nets, with its architecture discovered, designed, and verified end to end by AI systems. The project introduces a new instruction set and exploits local steps, explicit dependencies, and single ownership of values. On the reported benchmark, it reached 4.59 times the performance per watt of a modern dual-issue, in-order CPU core.",
@@ -60,22 +339,46 @@
         "id": 50572503,
         "type": "story",
         "by": "shioyama",
-        "score": 401,
-        "descendants": 253,
+        "score": 629,
+        "descendants": 328,
         "time": 1795168901,
         "comments_url": "https://news.ycombinator.com/item?id=50572503"
       },
-      "hot_score": 9.35,
       "tags": [
         "AI",
         "Hardware"
+      ],
+      "hot_score": 3.43
+    },
+    {
+      "title_en": "Help github just deleted me",
+      "url": "https://nate.mecca1.net/posts/2026-11-20_help/",
+      "title_zh": "救救我，GitHub 把我删了",
+      "is_new": true,
+      "created_display": "Created: Nov 20, 2026 / 15:35 PT",
+      "image_url": "https://nate.mecca1.net/",
+      "summary_en": "The author says GitHub suspended the account without providing a notification or email, making the account and personal projects disappear. The account was later restored, apparently after public attention, but the author still does not know why the suspension occurred. They plan to keep local copies and may mirror or migrate the projects.",
+      "summary_zh": "作者称 GitHub 在没有弹窗或邮件通知的情况下封禁了账号，导致账号和个人项目消失。经过公开求助后，账号后来恢复，但作者仍不知道封禁原因。作者打算保留本地副本，并可能镜像或迁移这些项目。",
+      "hn": {
+        "id": 50583911,
+        "type": "story",
+        "by": "01nate",
+        "score": 52,
+        "descendants": 37,
+        "time": 1795217742,
+        "comments_url": "https://news.ycombinator.com/item?id=50583911"
+      },
+      "hot_score": 3.38,
+      "tags": [
+        "Security",
+        "Programming"
       ]
     },
     {
       "title_en": "If you can't explain something in simple terms, you don't understand it (2017)",
       "url": "https://kottke.org/17/06/if-you-cant-explain-something-in-simple-terms-you-dont-understand-it",
       "title_zh": "如果你无法用简单的话解释某件事，你其实并不理解它（2017）",
-      "is_new": true,
+      "is_new": false,
       "created_display": "Created: Nov 20, 2026 / 01:43 PT",
       "image_url": "http://kottke.org/plus/misc/images/feynman-blackboard.jpg",
       "summary_en": "In the early 1960s, Richard Feynman delivered a series of undergraduate physics lectures. Those lectures were later collected into the book The Feynman Lectures on Physics.",
@@ -84,71 +387,22 @@
         "id": 50572355,
         "type": "story",
         "by": "sammatilda",
-        "score": 333,
-        "descendants": 191,
+        "score": 627,
+        "descendants": 293,
         "time": 1795167799,
         "comments_url": "https://news.ycombinator.com/item?id=50572355"
       },
-      "hot_score": 7.25,
       "tags": [
         "Education",
         "Science"
-      ]
-    },
-    {
-      "title_en": "Carnival Cruises emits ten times more sulphur oxide than all of Europe's cars (2019)",
-      "url": "https://ecohustler.com/article/one-corporation-to-pollute-them-all/",
-      "title_zh": "嘉年华邮轮排放的硫氧化物是欧洲所有汽车总和的十倍（2019）",
-      "is_new": true,
-      "created_display": "Created: Nov 20, 2026 / 01:13 PT",
-      "image_url": "https://ecohustler.com/img/asset/bWFpbi9vbmUtY29ycG9yYXRpb24tdG8tcG9sbHV0ZS10aGVtLWFsbC5wbmc/one-corporation-to-pollute-them-all.png?p=og&s=6d596b09b5a7b3028cc8993239fa3d38",
-      "summary_en": "A Transport & Environment analysis found that Carnival Corporation emitted nearly 10 times more sulfur oxides around European coasts in 2017 than all 260 million European cars combined. The report attributes the pollution to cruise ships burning dirty bunker fuel. The findings prompted calls for cleaner fuel and stronger controls on shipping emissions.",
-      "summary_zh": "Transport & Environment 的分析发现，2017 年嘉年华集团在欧洲海岸附近排放的硫氧化物，几乎是欧洲 2.6 亿辆汽车总和的 10 倍。报告将污染归因于邮轮燃烧污染严重的船用燃料。该发现促使人们呼吁使用更清洁的燃料，并加强对航运排放的监管。",
-      "hn": {
-        "id": 50572116,
-        "type": "story",
-        "by": "sammatilda",
-        "score": 354,
-        "descendants": 202,
-        "time": 1795165989,
-        "comments_url": "https://news.ycombinator.com/item?id=50572116"
-      },
-      "hot_score": 6.94,
-      "tags": [
-        "Science"
-      ]
-    },
-    {
-      "title_en": "Global stock markets slump as Anthropic's record IPO fails to stem AI sell-off",
-      "url": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
-      "title_zh": "全球股市下挫，Anthropic 创纪录 IPO 未能遏制 AI 抛售潮",
-      "is_new": true,
-      "created_display": "Created: Nov 20, 2026 / 05:29 PT",
-      "image_url": "https://i.guim.co.uk/img/media/5a0726c71af19332d1a3095553ff3acc6e341a62/1043_0_5270_4216/master/5270.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=840bb47424232ef8465116aa8eea49a5",
-      "summary_en": "Anthropic shares fell more than 9% at the start of their second trading day, reaching $88.17 after the company priced its IPO at $83. The record-breaking listing failed to halt a sell-off in AI-linked companies. Asian markets also recorded their worst week since 2020 as investors questioned the large sums being invested in AI infrastructure.",
-      "summary_zh": "Anthropic 股票在上市第二个交易日开盘时下跌超过 9%，跌至 88.17 美元；该公司 IPO 的定价为 83 美元。创纪录的上市未能阻止与 AI 相关公司的抛售潮。随着投资者质疑投入 AI 基础设施的巨额资金，亚洲股市也创下 2020 年以来最糟糕的一周。",
-      "hn": {
-        "id": 50574383,
-        "type": "story",
-        "by": "cdrnsf",
-        "score": 103,
-        "descendants": 79,
-        "time": 1795181399,
-        "comments_url": "https://news.ycombinator.com/item?id=50574383"
-      },
-      "hot_score": 6.57,
-      "tags": [
-        "Business",
-        "Finance",
-        "AI",
-        "DevOps"
-      ]
+      ],
+      "hot_score": 3.31
     },
     {
       "title_en": "Why there are still no non-WebKit browsers on iOS",
       "url": "https://blog.mozilla.org/en/mozilla/internet-policy/apple-ios-browser-engine-rules/",
       "title_zh": "为什么 iOS 上仍然没有非 WebKit 浏览器",
-      "is_new": true,
+      "is_new": false,
       "created_display": "Created: Nov 20, 2026 / 07:03 PT",
       "image_url": "https://blog.mozilla.org/wp-content/blogs.dir/278/files/2026/11/Mozilla_Illustrations_Pixelgram_Arrows_Orange-1082x721.png",
       "summary_en": "Mozilla says that no browser using an engine other than WebKit has launched on iOS, even years after Apple allowed alternative engines in the EU. Since the EU’s Digital Markets Act began requiring browser choice in 2024, millions of users have selected Firefox and its daily iOS use has doubled. Apple still requires all iOS browsers to use its own browser engine.",
@@ -157,22 +411,140 @@
         "id": 50575644,
         "type": "story",
         "by": "lapcat",
-        "score": 47,
-        "descendants": 10,
+        "score": 333,
+        "descendants": 195,
         "time": 1795187011,
         "comments_url": "https://news.ycombinator.com/item?id=50575644"
       },
-      "hot_score": 6.26,
       "tags": [
         "Web",
         "Politics"
+      ],
+      "hot_score": 3.26
+    },
+    {
+      "title_en": "Finite-time blow-up for the Navier–Stokes equations",
+      "url": "https://github.com/tristanbuckmaster/navier-stokes/",
+      "title_zh": "Navier–Stokes 方程的有限时间爆破解",
+      "is_new": true,
+      "created_display": "Created: Nov 20, 2026 / 07:34 PT",
+      "image_url": "https://opengraph.githubassets.com/a8bd5f7ead33203fe126f0df2aba47f580df9c1f2771f7fcee6fe6c73a23097d/tristanbuckmaster/navier-stokes",
+      "summary_en": "A repository contains the paper “Finite-time blow-up for the Navier–Stokes equations” by L. Alpöge and T. Buckmaster, together with an accompanying Lean 4 formalization. The formalization proves the stated theorems from a library while restricting the permitted axioms to propext, Quot.sound, and Classical.choice. Comparator files check that the theorem statements match the solutions.",
+      "summary_zh": "一个代码仓库收录了 L. Alpöge 和 T. Buckmaster 撰写的《Navier–Stokes 方程的有限时间爆破解》，以及配套的 Lean 4 形式化证明。该形式化代码通过一个库证明所述定理，并将允许使用的公理限制为 propext、Quot.sound 和 Classical.choice。比较文件用于检查定理陈述与解答是否一致。",
+      "hn": {
+        "id": 50576232,
+        "type": "story",
+        "by": "trotro",
+        "score": 260,
+        "descendants": 82,
+        "time": 1795188871,
+        "comments_url": "https://news.ycombinator.com/item?id=50576232"
+      },
+      "hot_score": 2.73,
+      "tags": [
+        "Science",
+        "Open Source"
+      ]
+    },
+    {
+      "title_en": "Restricting AI agents in mobile operating systems platforms from capturing data",
+      "url": "https://signal.org/blog/protecting-your-privacy/",
+      "title_zh": "限制移动操作系统中的 AI 代理捕获数据",
+      "is_new": false,
+      "created_display": "Created: Nov 20, 2026 / 01:42 PT",
+      "image_url": "https://signal.org/blog/images/protecting-your-privacy-opengraph.png",
+      "summary_en": "Signal says it is restricting the latest AI agents built into mobile operating systems from potentially capturing and storing Signal data. The move is presented as part of Signal’s broader privacy mission.",
+      "summary_zh": "Signal 表示，正在限制移动操作系统中最新的 AI 代理，以防它们捕获并存储 Signal 数据。这一举措被视为 Signal 隐私保护使命的一部分。",
+      "hn": {
+        "id": 50572348,
+        "type": "story",
+        "by": "dotcoma",
+        "score": 511,
+        "descendants": 305,
+        "time": 1795167736,
+        "comments_url": "https://news.ycombinator.com/item?id=50572348"
+      },
+      "hot_score": 2.7,
+      "tags": [
+        "Privacy",
+        "AI"
+      ]
+    },
+    {
+      "title_en": "DreamCoder: Coding harness and IDE from the author of Mastering Emacs",
+      "url": "https://www.masteringemacs.org/article/announcing-dreamcoder",
+      "title_zh": "DreamCoder：Mastering Emacs 作者打造的编码工具链与 IDE",
+      "is_new": true,
+      "created_display": "Created: Nov 20, 2026 / 12:03 PT",
+      "image_url": "https://www.masteringemacs.org/static/uploads/article-images/dreamcoder-moon.webp",
+      "summary_en": "DreamCoder is an AI coding harness and IDE created by the author of Mastering Emacs. The project has been in development for about fifteen months and is now being formally released. Its design is described as substantially different from familiar AI coding tools, alongside discussion of AI, Lisp, and Emacs.",
+      "summary_zh": "DreamCoder 是《Mastering Emacs》作者打造的 AI 编码工具链和 IDE。该项目开发了约 15 个月，如今正式发布。作者称其设计与常见的 AI 编码工具有很大不同，并同时讨论了 AI、Lisp 和 Emacs 的关系。",
+      "hn": {
+        "id": 50581110,
+        "type": "story",
+        "by": "facundo_olano",
+        "score": 111,
+        "descendants": 17,
+        "time": 1795205039,
+        "comments_url": "https://news.ycombinator.com/item?id=50581110"
+      },
+      "hot_score": 2.58,
+      "tags": [
+        "AI",
+        "Programming"
+      ]
+    },
+    {
+      "title_en": "Carnival Cruises emits ten times more sulphur oxide than all of Europe's cars (2019)",
+      "url": "https://ecohustler.com/article/one-corporation-to-pollute-them-all/",
+      "title_zh": "嘉年华邮轮排放的硫氧化物是欧洲所有汽车总和的十倍（2019）",
+      "is_new": false,
+      "created_display": "Created: Nov 20, 2026 / 01:13 PT",
+      "image_url": "https://ecohustler.com/img/asset/bWFpbi9vbmUtY29ycG9yYXRpb24tdG8tcG9sbHV0ZS10aGVtLWFsbC5wbmc/one-corporation-to-pollute-them-all.png?p=og&s=6d596b09b5a7b3028cc8993239fa3d38",
+      "summary_en": "A Transport & Environment analysis found that Carnival Corporation emitted nearly 10 times more sulfur oxides around European coasts in 2017 than all 260 million European cars combined. The report attributes the pollution to cruise ships burning dirty bunker fuel. The findings prompted calls for cleaner fuel and stronger controls on shipping emissions.",
+      "summary_zh": "Transport & Environment 的分析发现，2017 年嘉年华集团在欧洲海岸附近排放的硫氧化物，几乎是欧洲 2.6 亿辆汽车总和的 10 倍。报告将污染归因于邮轮燃烧污染严重的船用燃料。该发现促使人们呼吁使用更清洁的燃料，并加强对航运排放的监管。",
+      "hn": {
+        "id": 50572116,
+        "type": "story",
+        "by": "sammatilda",
+        "score": 508,
+        "descendants": 315,
+        "time": 1795165989,
+        "comments_url": "https://news.ycombinator.com/item?id=50572116"
+      },
+      "tags": [
+        "Science"
+      ],
+      "hot_score": 2.56
+    },
+    {
+      "title_en": "Uncontacted Indigenous people emerge from Amazon forest to ask for food",
+      "url": "https://www.washingtonpost.com/world/2026/11/19/uncontacted-indigenous-people-emerge-amazon-forest-ask-food/",
+      "title_zh": "未接触过外界的原住民走出亚马逊森林索要食物",
+      "is_new": true,
+      "created_display": "Created: Nov 20, 2026 / 15:31 PT",
+      "image_url": null,
+      "summary_en": "Uncontacted Indigenous people emerged from the Amazon forest and asked for food. The report does not provide further details in the available material.",
+      "summary_zh": "一群未接触过外界的原住民走出亚马逊森林并索要食物。现有信息未提供更多细节。",
+      "hn": {
+        "id": 50583877,
+        "type": "story",
+        "by": "Teever",
+        "score": 38,
+        "descendants": 13,
+        "time": 1795217487,
+        "comments_url": "https://news.ycombinator.com/item?id=50583877"
+      },
+      "hot_score": 2.39,
+      "tags": [
+        "Culture"
       ]
     },
     {
       "title_en": "If you stop writing code, you also get worse at reviewing it",
       "url": "https://cekrem.github.io/posts/if-you-stop-writing-code-you-also-get-worse-at-reviewing-it/",
       "title_zh": "停止写代码，也会让你的代码审查能力变差",
-      "is_new": true,
+      "is_new": false,
       "created_display": "Created: Nov 20, 2026 / 04:41 PT",
       "image_url": "https://codimg.alwaysdata.net/code.svg?input=%7B-%0A+++++++++++_+++++++++++++++++++++++++++++++++++_+_+++_+++++++++++_+++++++++++_+++++++%0A++++++++++%7C+%7C+++++++++++++++++++++++++++++++++%28_%29+%7C+%7C+%7C+++++++++%7C+%7C+++++++++%28_%29++++++%0A+++___+___%7C+%7C+___+__+___+_+__+___+++++++++__+_+_%7C+%7C_%7C+%7C__++_+++_%7C+%7C__++++++++_++___++%0A++%2F+__%2F+_+%5C+%7C%2F+%2F+%27__%2F+_+%5C+%27_+%60+_+%5C+++++++%2F+_%60+%7C+%7C+__%7C+%27_+%5C%7C+%7C+%7C+%7C+%27_+%5C++++++%7C+%7C%2F+_+%5C+%0A+%7C+%28_%7C++__%2F+++%3C%7C+%7C+%7C++__%2F+%7C+%7C+%7C+%7C+%7C++_++%7C+%28_%7C+%7C+%7C+%7C_%7C+%7C+%7C+%7C+%7C_%7C+%7C+%7C_%29+%7C++_++%7C+%7C+%28_%29+%7C%0A++%5C___%5C___%7C_%7C%5C_%5C_%7C++%5C___%7C_%7C+%7C_%7C+%7C_%7C+%28_%29++%5C__%2C+%7C_%7C%5C__%7C_%7C+%7C_%7C%5C__%2C_%7C_.__%2F++%28_%29+%7C_%7C%5C___%2F+%0A++++++++++++++++++++++++++++++++++++++++++__%2F+%7C++++++++++++++++++++++++++++++++++++++%0A+++++++++++++++++++++++++++++++++++++++++%7C___%2F+++++++++++++++++++++++++++++++++++++++%0A%0A+++cekrem.github.io%2Fposts%2Fif-you-stop-writing-code-you-also-get-worse-at-reviewing-it%0A-%7D%0A%0Atitle+%3A+String%0Atitle+%3D+%22If+you+stop+writing+code%2C+you+also+get+worse+at+reviewing+it%22%0A%0Adescription+%3A+String%0Adescription+%3D%0A++++%22Before+2022+10%2F10+engineers+would+agree+wholeheartedly.+%22%0A++++++++%2B%2B+%22Somehow+it+changed.%28%3F%21%29%22&lang=elm",
       "summary_en": "The author argues that software engineers, like practitioners in other fields, need hands-on practice to maintain and improve their skills. Reading about a skill is not equivalent to performing it, whether the skill involves technique, problem-solving, or muscle memory. The post questions why this principle is often treated differently in software engineering.",
@@ -181,92 +553,91 @@
         "id": 50573886,
         "type": "story",
         "by": "theanonymousone",
-        "score": 115,
-        "descendants": 42,
+        "score": 324,
+        "descendants": 159,
         "time": 1795178498,
         "comments_url": "https://news.ycombinator.com/item?id=50573886"
       },
-      "hot_score": 5.49,
       "tags": [
         "Programming"
-      ]
+      ],
+      "hot_score": 2.35
     },
     {
-      "title_en": "\"I can tell you wrote this yourself\"",
-      "url": "https://em-online.bearblog.dev/i-can-tell-you-wrote-this-yourself/",
-      "title_zh": "“我看得出来这是你亲自写的”",
+      "title_en": "Sir Brian May adds new dimension to Hera asteroid",
+      "url": "https://www.esa.int/articles/about-us/directorates/operations/space-safety/hera/sir-brian-may-adds-new-dimension-to-hera-asteroid",
+      "title_zh": "Brian May 为 Hera 小行星任务增添新的观测维度",
       "is_new": true,
-      "created_display": "Created: Nov 19, 2026 / 23:13 PT",
-      "image_url": "https://bearblog.dev/static/og-image.png",
-      "summary_en": "A supervisor told the author, “I can tell you wrote this yourself,” while reviewing a progress report. The roughly 10-page report concerned the control of flapping-wing micro aerial vehicles. The author had written about 5,000 words in 48 stressful hours after mistakenly setting the deadline a week early.",
-      "summary_zh": "导师在审阅作者的进度报告时说：“我看得出来这是你亲自写的。”这份约 10 页的报告主题是扑翼微型飞行器的控制。作者误把截止日期设早了一周，随后在紧张的 48 小时内写下了约 5000 字。",
+      "created_display": "Created: Nov 20, 2026 / 15:19 PT",
+      "image_url": "https://media.esa.int/global/public/common/misc/2026/11/402679/image-thumb__402679__social_share/3d-crop.2b14b833.jpg",
+      "summary_en": "Astrophysicist and Queen guitarist Brian May created a stereoscopic view of the Didymos asteroid system from images captured by ESA’s Hera spacecraft. The images were taken on November 6 from 29.7 kilometers away at 2.8 meters per pixel. The 3D view reveals the smooth equatorial ridge of Didymos in contrast with its rock-strewn surface and is described as scientifically useful.",
+      "summary_zh": "天体物理学家、皇后乐队吉他手 Brian May 利用 ESA Hera 探测器拍摄的图像，为 Didymos 小行星系统制作了立体图像。这些图像于 11 月 6 日拍摄，探测器当时距离目标 29.7 千米，分辨率为每像素 2.8 米。三维视图展现了 Didymos 平滑的赤道脊，与布满岩石的其他表面形成对比，并被认为具有科学价值。",
       "hn": {
-        "id": 50571189,
+        "id": 50583768,
         "type": "story",
-        "by": "BrunoBernardino",
-        "score": 333,
-        "descendants": 313,
-        "time": 1795158801,
-        "comments_url": "https://news.ycombinator.com/item?id=50571189"
+        "by": "mooreds",
+        "score": 37,
+        "descendants": 7,
+        "time": 1795216784,
+        "comments_url": "https://news.ycombinator.com/item?id=50583768"
       },
-      "hot_score": 4.53,
+      "hot_score": 2.15,
       "tags": [
-        "Science"
+        "Space"
       ]
     },
     {
-      "title_en": "Signal Is Serious About Protecting Your Privacy",
-      "url": "https://signal.org/blog/protecting-your-privacy/",
-      "title_zh": "Signal 认真保护你的隐私",
+      "title_en": "Winedroid – run Android apps without Android (WASM demo)",
+      "url": "https://winedroid.soham.sh/demo/",
+      "title_zh": "Winedroid：无需 Android 即可运行 Android 应用（WASM 演示）",
       "is_new": true,
-      "created_display": "Created: Nov 20, 2026 / 01:42 PT",
-      "image_url": "https://signal.org/blog/images/protecting-your-privacy-opengraph.png",
-      "summary_en": "Signal says privacy is its mission and is restricting the latest AI agents built into mobile operating systems. The restrictions are intended to prevent those agents from potentially capturing and storing Signal data. The change targets AI features integrated into mobile platforms rather than Signal’s own service.",
-      "summary_zh": "Signal 表示，隐私保护是其使命，因此正在限制移动操作系统内置的最新 AI 代理。此举旨在防止这些代理潜在地捕获并存储 Signal 数据。此次调整针对的是移动平台集成的 AI 功能，而非 Signal 自身的服务。",
+      "created_display": "Created: Nov 20, 2026 / 11:30 PT",
+      "image_url": "https://winedroid.soham.sh/demo/assets/apps/open-calc.png",
+      "summary_en": "Winedroid is intended to run an Android APK in a browser. The demo encountered an unexpected runtime error and had to stop.",
+      "summary_zh": "Winedroid 旨在让 Android APK 在浏览器中运行。该演示遇到了意外的运行时错误，不得不停止。",
       "hn": {
-        "id": 50572348,
+        "id": 50580536,
         "type": "story",
-        "by": "dotcoma",
-        "score": 168,
-        "descendants": 75,
-        "time": 1795167736,
-        "comments_url": "https://news.ycombinator.com/item?id=50572348"
+        "by": "sohzm",
+        "score": 104,
+        "descendants": 30,
+        "time": 1795203016,
+        "comments_url": "https://news.ycombinator.com/item?id=50580536"
       },
-      "hot_score": 3.64,
+      "hot_score": 2.14,
       "tags": [
-        "Privacy",
-        "AI"
+        "Web"
       ]
     },
     {
-      "title_en": "The Making of Oxygene",
-      "url": "https://jeanmicheljarre.com/aaa/the-making-of-oxygene",
-      "title_zh": "《Oxygène》的制作过程",
+      "title_en": "And yet, it moves",
+      "url": "https://signoregalilei.com/2026/11/20/and-yet-it-moves/",
+      "title_zh": "然而，它在运动",
       "is_new": true,
-      "created_display": "Created: Nov 20, 2026 / 02:41 PT",
-      "image_url": "https://imcayyueqknvmognvohc.supabase.co/storage/v1/object/public/media/1789648325786-1gmqsl.webp",
-      "summary_en": "Jean-Michel Jarre’s 1976 album Oxygène helped redefine synthesizer and electronic music, becoming a top-10 album in seven countries and selling nearly 20 million copies worldwide. It contained six instrumental tracks and used no acoustic instruments. The album is now being reimagined for Dolby Atmos.",
-      "summary_zh": "让·米歇尔·雅尔 1976 年的专辑《Oxygène》重新定义了合成器音乐和电子音乐，在七个国家进入唱片销量前十，并在全球售出近 2000 万张。专辑包含六首纯器乐曲，完全没有使用原声乐器。该专辑如今正被重新制作成 Dolby Atmos 版本。",
+      "created_display": "Created: Nov 20, 2026 / 12:07 PT",
+      "image_url": "https://signoregalilei.com/wp-content/uploads/2026/11/Galileo_Musical_Cover_Art-300x207.jpg",
+      "summary_en": "The author reacts to the apparent claim that Anthropic has solved the Riemann Hypothesis. The discussion begins with the author’s account of seeing a Broadway musical about Galileo, which is described as a rock-oriented historical production with modern-style songs. The excerpt specifically praises its actors, including Joy Woods and Jeremy Kushnier.",
+      "summary_zh": "作者回应了 Anthropic 似乎解决黎曼猜想的说法。文章先讲述作者观看一部关于伽利略的百老汇音乐剧的经历，并将其描述为一部采用摇滚风格现代歌曲的历史题材作品。节选中特别称赞了 Joy Woods 和 Jeremy Kushnier 等演员。",
       "hn": {
-        "id": 50572822,
+        "id": 50581177,
         "type": "story",
-        "by": "hggh",
-        "score": 127,
-        "descendants": 48,
-        "time": 1795171270,
-        "comments_url": "https://news.ycombinator.com/item?id=50572822"
+        "by": "notfried",
+        "score": 90,
+        "descendants": 43,
+        "time": 1795205275,
+        "comments_url": "https://news.ycombinator.com/item?id=50581177"
       },
-      "hot_score": 3.43,
+      "hot_score": 2.12,
       "tags": [
         "Entertainment",
-        "Culture"
+        "AI"
       ]
     },
     {
       "title_en": "Anthropic’s Nasdaq debut",
       "url": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/",
       "title_zh": "Anthropic 登陆纳斯达克",
-      "is_new": true,
+      "is_new": false,
       "created_display": "Created: Nov 19, 2026 / 09:02 PT",
       "image_url": null,
       "summary_en": "Anthropic made its debut on the Nasdaq stock exchange.",
@@ -275,8 +646,8 @@
         "id": 50562754,
         "type": "story",
         "by": "wslh",
-        "score": 1111,
-        "descendants": 2235,
+        "score": 1130,
+        "descendants": 2296,
         "time": 1795107760,
         "comments_url": "https://news.ycombinator.com/item?id=50562754"
       },
@@ -285,13 +656,157 @@
         "Business",
         "AI"
       ],
-      "hot_score": 3.37
+      "hot_score": 1.87
+    },
+    {
+      "title_en": "Vibecoding an inference chip",
+      "url": "https://ankitg.me/blog/vibecoding-inference-chip/",
+      "title_zh": "用“氛围编程”打造推理芯片",
+      "is_new": true,
+      "created_display": "Created: Nov 20, 2026 / 10:15 PT",
+      "image_url": "https://ankitg.me/assets/fpga-board.png",
+      "summary_en": "The author used coding agents to write and optimize about three million lines of code for running LLM inference on an FPGA. The project involved working with new hardware and low-level software through AI-assisted coding. The experience is presented as a series of difficult discoveries about the possibilities and limits of using coding agents in hardware development.",
+      "summary_zh": "作者借助编码代理编写并优化了约 300 万行代码，让 FPGA 运行 LLM 推理。这个项目通过 AI 辅助编程进入了新的硬件和底层软件领域。文章将这一过程描述为一连串关于编码代理在硬件开发中能力与局限的艰难探索。",
+      "hn": {
+        "id": 50579297,
+        "type": "story",
+        "by": "ankitvgupta",
+        "score": 114,
+        "descendants": 41,
+        "time": 1795198516,
+        "comments_url": "https://news.ycombinator.com/item?id=50579297"
+      },
+      "hot_score": 1.84,
+      "tags": [
+        "Hardware",
+        "AI"
+      ]
+    },
+    {
+      "title_en": "\"I can tell you wrote this yourself\"",
+      "url": "https://em-online.bearblog.dev/i-can-tell-you-wrote-this-yourself/",
+      "title_zh": "“我看得出来这是你亲自写的”",
+      "is_new": false,
+      "created_display": "Created: Nov 19, 2026 / 23:13 PT",
+      "image_url": "https://bearblog.dev/static/og-image.png",
+      "summary_en": "A supervisor told the author, “I can tell you wrote this yourself,” while reviewing a progress report. The roughly 10-page report concerned the control of flapping-wing micro aerial vehicles. The author had written about 5,000 words in 48 stressful hours after mistakenly setting the deadline a week early.",
+      "summary_zh": "导师在审阅作者的进度报告时说：“我看得出来这是你亲自写的。”这份约 10 页的报告主题是扑翼微型飞行器的控制。作者误把截止日期设早了一周，随后在紧张的 48 小时内写下了约 5000 字。",
+      "hn": {
+        "id": 50571189,
+        "type": "story",
+        "by": "BrunoBernardino",
+        "score": 408,
+        "descendants": 396,
+        "time": 1795158801,
+        "comments_url": "https://news.ycombinator.com/item?id=50571189"
+      },
+      "tags": [
+        "Science"
+      ],
+      "hot_score": 1.71
+    },
+    {
+      "title_en": "Show HN: OpenComputer – an open source alternative to Devin",
+      "url": "https://github.com/diggerhq/opencomputer",
+      "title_zh": "Show HN：OpenComputer——Devin 的开源替代品",
+      "is_new": true,
+      "created_display": "Created: Nov 20, 2026 / 12:19 PT",
+      "image_url": "https://opengraph.githubassets.com/a8594e18d265a7fabedaf3bc16d00048873ef069dc5f4346d23c2bf7882a3557/diggerhq/opencomputer",
+      "summary_en": "OpenComputer is an open-source cloud coding agent for teams that can run in a company’s AWS, GCP, or Azure account. Its agent harness and sandbox share a durable VM, while sessions are isolated in Git worktrees and backed up after every turn. The authors report a first commit time of 24 seconds, compared with 53–72 seconds for alternatives they benchmarked, and say a continuously running VM can become cheaper at higher usage.",
+      "summary_zh": "OpenComputer 是一个面向团队的开源云端编码代理，可以运行在企业自己的 AWS、GCP 或 Azure 账户中。它将代理工具链和沙箱运行在同一台持久化虚拟机上，使用 Git worktree 隔离会话，并在每轮操作后备份会话文件。作者报告称其首次提交耗时 24 秒，而对比方案为 53 至 72 秒；在较高使用量下，持续运行的虚拟机也可能更便宜。",
+      "hn": {
+        "id": 50581403,
+        "type": "story",
+        "by": "iacguy",
+        "score": 68,
+        "descendants": 21,
+        "time": 1795205996,
+        "comments_url": "https://news.ycombinator.com/item?id=50581403"
+      },
+      "hot_score": 1.67,
+      "tags": [
+        "Show HN",
+        "Open Source",
+        "Programming"
+      ]
+    },
+    {
+      "title_en": "Global stock markets slump as Anthropic's record IPO fails to stem AI sell-off",
+      "url": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
+      "title_zh": "全球股市下挫，Anthropic 创纪录 IPO 未能遏制 AI 抛售潮",
+      "is_new": false,
+      "created_display": "Created: Nov 20, 2026 / 05:29 PT",
+      "image_url": "https://i.guim.co.uk/img/media/5a0726c71af19332d1a3095553ff3acc6e341a62/1043_0_5270_4216/master/5270.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=840bb47424232ef8465116aa8eea49a5",
+      "summary_en": "Anthropic shares fell more than 9% at the start of their second trading day, reaching $88.17 after the company priced its IPO at $83. The record-breaking listing failed to halt a sell-off in AI-linked companies. Asian markets also recorded their worst week since 2020 as investors questioned the large sums being invested in AI infrastructure.",
+      "summary_zh": "Anthropic 股票在上市第二个交易日开盘时下跌超过 9%，跌至 88.17 美元；该公司 IPO 的定价为 83 美元。创纪录的上市未能阻止与 AI 相关公司的抛售潮。随着投资者质疑投入 AI 基础设施的巨额资金，亚洲股市也创下 2020 年以来最糟糕的一周。",
+      "hn": {
+        "id": 50574383,
+        "type": "story",
+        "by": "cdrnsf",
+        "score": 192,
+        "descendants": 231,
+        "time": 1795181399,
+        "comments_url": "https://news.ycombinator.com/item?id=50574383"
+      },
+      "tags": [
+        "Business",
+        "Finance",
+        "AI",
+        "DevOps"
+      ],
+      "hot_score": 1.53
+    },
+    {
+      "title_en": "I have been unemployed for 2y.15YOE,US.What to do?",
+      "url": "https://news.ycombinator.com/item?id=50583761",
+      "title_zh": "我已经失业两年，有 15 年经验，在美国该怎么办？",
+      "is_new": true,
+      "created_display": "Created: Nov 20, 2026 / 15:18 PT",
+      "image_url": null,
+      "summary_en": "A senior software engineer in the US with 15 years of experience says they have been unemployed for two years after leaving an insurance technology company in January 2025. They have been tutoring mathematics and may soon manage a pizzeria, while having only four or five months of savings left for their household. Their experience includes C#/.NET and AWS, but they are seeking advice on returning to software work or finding a well-paid alternative.",
+      "summary_zh": "一名拥有 15 年经验的美国高级软件工程师表示，自己在 2025 年 1 月离开一家保险科技公司后已经失业两年。目前他在辅导数学，可能很快会去管理一家披萨店，家庭储蓄只够维持四五个月。他熟悉 C#/.NET 和 AWS，但正在寻求重返软件行业或寻找高薪替代路径的建议。",
+      "hn": {
+        "id": 50583761,
+        "type": "story",
+        "by": "LetThingsBeDiff",
+        "score": 26,
+        "descendants": 25,
+        "time": 1795216712,
+        "comments_url": "https://news.ycombinator.com/item?id=50583761"
+      },
+      "hot_score": 1.49,
+      "tags": [
+        "Career"
+      ]
+    },
+    {
+      "title_en": "AI may have solved the most important problem in mathematics",
+      "url": "https://www.economist.com/science-and-technology/2026/11/20/ai-may-have-solved-the-most-important-problem-in-mathematics",
+      "title_zh": "AI 可能解决了数学中最重要的问题",
+      "is_new": true,
+      "created_display": "Created: Nov 20, 2026 / 14:46 PT",
+      "image_url": null,
+      "summary_en": "AI may have solved what is described as the most important problem in mathematics. The available material does not identify the problem or provide details about the claimed solution.",
+      "summary_zh": "AI 可能解决了被称为数学领域最重要的问题。现有信息未说明具体是哪一个问题，也未提供相关解法的细节。",
+      "hn": {
+        "id": 50583445,
+        "type": "story",
+        "by": "vinni2",
+        "score": 31,
+        "descendants": 37,
+        "time": 1795214819,
+        "comments_url": "https://news.ycombinator.com/item?id=50583445"
+      },
+      "hot_score": 1.48,
+      "tags": [
+        "AI"
+      ]
     },
     {
       "title_en": "Pancreatic cancer halted by virus injection in three patients",
       "url": "https://www.newscientist.com/article/2528235-pancreatic-cancer-halted-by-virus-injection-in-three-patients/",
       "title_zh": "三名胰腺癌患者在接受病毒注射后病情得到遏制",
-      "is_new": true,
+      "is_new": false,
       "created_display": "Created: Nov 19, 2026 / 09:25 PT",
       "image_url": "https://www.newscientist.com/wp-content/uploads/2026/05/28111438/SEI_299218241.jpg",
       "summary_en": "A virus injection halted pancreatic cancer in three patients.",
@@ -300,8 +815,8 @@
         "id": 50563066,
         "type": "story",
         "by": "cybermango",
-        "score": 852,
-        "descendants": 148,
+        "score": 873,
+        "descendants": 154,
         "time": 1795109133,
         "comments_url": "https://news.ycombinator.com/item?id=50563066"
       },
@@ -309,13 +824,13 @@
         "Health",
         "Science"
       ],
-      "hot_score": 2.66
+      "hot_score": 1.47
     },
     {
       "title_en": "PostgreSQL 19",
       "url": "https://www.postgresql.org/docs/release/19.0/",
       "title_zh": "PostgreSQL 19",
-      "is_new": true,
+      "is_new": false,
       "created_display": "Created: Nov 19, 2026 / 19:45 PT",
       "image_url": "https://www.postgresql.org/media/img/about/press/elephant.png",
       "summary_en": "PostgreSQL 19 introduces a new REPACK command that reclaims disk space and reorganizes table contents. REPACK can improve query performance, and REPACK (CONCURRENTLY) allows this work without blocking reads and writes to the table.",
@@ -324,139 +839,95 @@
         "id": 50569890,
         "type": "story",
         "by": "linzhangrun",
-        "score": 319,
-        "descendants": 21,
+        "score": 380,
+        "descendants": 27,
         "time": 1795146345,
         "comments_url": "https://news.ycombinator.com/item?id=50569890"
       },
-      "hot_score": 2.64,
       "tags": [
         "Programming",
         "Data"
+      ],
+      "hot_score": 1.21
+    },
+    {
+      "title_en": "I'm Peter Roberts, immigration attorney who does work for YC and startups. AMA",
+      "url": "https://news.ycombinator.com/item?id=50577613",
+      "title_zh": "我是 Peter Roberts，为 YC 和创业公司提供服务的移民律师，欢迎提问",
+      "is_new": true,
+      "created_display": "Created: Nov 20, 2026 / 08:45 PT",
+      "image_url": null,
+      "summary_en": "Immigration attorney Peter Roberts is hosting an AMA and says he works with Y Combinator and startups. He will answer factual questions but cannot provide legal advice on specific cases because he will not have access to all relevant facts.",
+      "summary_zh": "移民律师 Peter Roberts 正在举办问答活动，并表示自己为 Y Combinator 和创业公司提供服务。他会回答事实性问题，但由于无法掌握具体案件的全部情况，不能提供针对特定个案的法律建议。",
+      "hn": {
+        "id": 50577613,
+        "type": "story",
+        "by": "proberts",
+        "score": 96,
+        "descendants": 132,
+        "time": 1795193125,
+        "comments_url": "https://news.ycombinator.com/item?id=50577613"
+      },
+      "hot_score": 1.2,
+      "tags": [
+        "Legal",
+        "Startups"
       ]
     },
     {
-      "title_en": "UK fridges secured from hackers",
-      "url": "https://www.bbc.co.uk/news/articles/c6eq49zyx7p4o",
-      "title_zh": "英国冰箱得到防黑客保护",
+      "title_en": "Anthropic's IPO Bust Deepens $4T AI Wipeout on Wall Street",
+      "url": "https://www.wsj.com/finance/stocks/anthropics-ipo-bust-punctuates-4-trillion-ai-wipeout-on-wall-street-f1f1ec90",
+      "title_zh": "Anthropic IPO 受挫，加剧华尔街 4 万亿美元 AI 市场蒸发",
       "is_new": true,
-      "created_display": "Created: Nov 20, 2026 / 01:52 PT",
-      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d3db/live/57d6aa20-d769-11f1-a956-ff083523ef77.jpg",
-      "summary_en": "UK fridges have reportedly been secured against hackers. No further technical details about the security measures or the affected refrigerator models are established here.",
-      "summary_zh": "据报道，英国的冰箱已获得防黑客保护。现有信息未说明具体采取了哪些安全措施，也未说明涉及哪些冰箱型号。",
+      "created_display": "Created: Nov 20, 2026 / 13:18 PT",
+      "image_url": null,
+      "summary_en": "Anthropic’s initial public offering is described as a failure that deepened a $4 trillion loss across AI-related stocks on Wall Street. The available report provides no further details about the offering or the market decline.",
+      "summary_zh": "Anthropic 的首次公开募股被描述为一次受挫事件，并加剧了华尔街 AI 相关股票总计 4 万亿美元的损失。现有信息未提供有关 IPO 或市场下跌的更多细节。",
       "hn": {
-        "id": 50572430,
+        "id": 50582280,
         "type": "story",
-        "by": "tomnext",
-        "score": 110,
-        "descendants": 101,
-        "time": 1795168340,
-        "comments_url": "https://news.ycombinator.com/item?id=50572430"
+        "by": "qlte",
+        "score": 38,
+        "descendants": 3,
+        "time": 1795209526,
+        "comments_url": "https://news.ycombinator.com/item?id=50582280"
       },
-      "hot_score": 2.46,
+      "hot_score": 1.18,
       "tags": [
-        "Security"
-      ]
-    },
-    {
-      "title_en": "What people are building, discovered through new domains",
-      "url": "https://startups.novumsignals.com/",
-      "title_zh": "通过新域名发现人们正在构建什么",
-      "is_new": true,
-      "created_display": "Created: Nov 20, 2026 / 01:54 PT",
-      "image_url": "https://cdn.novumsignals.com/screenshots/epsi-app.de/fd354f137fc66974.jpg",
-      "summary_en": "A database tracks 27,455 new product companies as their websites launch, recording details such as products, pricing, traction, teams, and operating companies. One example is Epsi, a mathematics learning app for grades 1–13. Epsi offers optional AI assistance and makes all learning content free.",
-      "summary_zh": "一个数据库在新产品公司网站上线时追踪它们，目前记录了 27,455 家公司及其产品、定价、增长情况、团队和运营主体等信息。其中一个例子是面向 1 至 13 年级的数学学习应用 Epsi。Epsi 提供可选的 AI 辅助功能，且所有学习内容均免费。",
-      "hn": {
-        "id": 50572448,
-        "type": "story",
-        "by": "walterschnitzel",
-        "score": 106,
-        "descendants": 49,
-        "time": 1795168473,
-        "comments_url": "https://news.ycombinator.com/item?id=50572448"
-      },
-      "hot_score": 2.39,
-      "tags": [
-        "Startups",
         "AI",
-        "Data"
+        "Business",
+        "Finance"
       ]
     },
     {
-      "title_en": "OpenSSL: Buffer overflow in EVP_EncodeBlock() (CVE-2026-121481, CVSS 9.8)",
-      "url": "https://github.com/openssl/openssl/pull/33652",
-      "title_zh": "OpenSSL：EVP_EncodeBlock() 中的缓冲区溢出（CVE-2026-121481，CVSS 9.8）",
-      "is_new": true,
-      "created_display": "Created: Nov 19, 2026 / 18:01 PT",
-      "image_url": "https://opengraph.githubassets.com/31b879ae6f23f642695a828f1a9b7e6613f7e0407fbc7f89cbc63eea73d0c99b/openssl/openssl/pull/33652",
-      "summary_en": "A proposed OpenSSL fix addresses a buffer overflow in EVP_EncodeBlock(), tracked as CVE-2026-121481 with a CVSS score of 9.8. The change makes the function return -1 for invalid inputs, including null buffers, negative lengths, and encoded sizes that do not fit in an int. The security advisory was still pending when the fix was proposed.",
-      "summary_zh": "一项拟议的 OpenSSL 修复针对 EVP_EncodeBlock() 中的缓冲区溢出漏洞，该漏洞编号为 CVE-2026-121481，CVSS 评分为 9.8。修复会让函数在输入无效时返回 -1，包括缓冲区为空、长度为负数或编码后大小无法放入 int 的情况。提出修复时，安全公告仍在等待发布。",
+      "title_en": "The Making of Oxygene",
+      "url": "https://jeanmicheljarre.com/aaa/the-making-of-oxygene",
+      "title_zh": "《Oxygène》的制作过程",
+      "is_new": false,
+      "created_display": "Created: Nov 20, 2026 / 02:41 PT",
+      "image_url": "https://imcayyueqknvmognvohc.supabase.co/storage/v1/object/public/media/1789648325786-1gmqsl.webp",
+      "summary_en": "Jean-Michel Jarre’s 1976 album Oxygène helped redefine synthesizer and electronic music, becoming a top-10 album in seven countries and selling nearly 20 million copies worldwide. It contained six instrumental tracks and used no acoustic instruments. The album is now being reimagined for Dolby Atmos.",
+      "summary_zh": "让·米歇尔·雅尔 1976 年的专辑《Oxygène》重新定义了合成器音乐和电子音乐，在七个国家进入唱片销量前十，并在全球售出近 2000 万张。专辑包含六首纯器乐曲，完全没有使用原声乐器。该专辑如今正被重新制作成 Dolby Atmos 版本。",
       "hn": {
-        "id": 50569226,
+        "id": 50572822,
         "type": "story",
-        "by": "JacobHenner",
-        "score": 330,
-        "descendants": 282,
-        "time": 1795140069,
-        "comments_url": "https://news.ycombinator.com/item?id=50569226"
+        "by": "hggh",
+        "score": 199,
+        "descendants": 72,
+        "time": 1795171270,
+        "comments_url": "https://news.ycombinator.com/item?id=50572822"
       },
-      "hot_score": 2.22,
       "tags": [
-        "Security"
-      ]
-    },
-    {
-      "title_en": "Jujutsu Primer",
-      "url": "https://ethanlowman.com/posts/jj-primer/",
-      "title_zh": "Jujutsu 入门",
-      "is_new": true,
-      "created_display": "Created: Nov 19, 2026 / 21:46 PT",
-      "image_url": "https://ethanlowman.com/img/penrose.png",
-      "summary_en": "This guide introduces the Jujutsu (jj) version-control system to readers familiar with Git. It presents jj’s simple version-control primitives, automatic rebasing, and native undo. These features are intended to reduce some of Git’s sharp edges while enabling more composable workflows.",
-      "summary_zh": "这份指南面向熟悉 Git 的读者，介绍 Jujutsu（jj）版本控制系统。它讲解了 jj 简单的版本控制原语、自动变基和原生撤销功能。这些特性旨在减少 Git 的使用摩擦，同时支持更易组合的工作流。",
-      "hn": {
-        "id": 50570628,
-        "type": "story",
-        "by": "renehsz",
-        "score": 188,
-        "descendants": 134,
-        "time": 1795153561,
-        "comments_url": "https://news.ycombinator.com/item?id=50570628"
-      },
-      "hot_score": 2.04,
-      "tags": [
-        "Programming"
-      ]
-    },
-    {
-      "title_en": "FFmpeg 9.1 'Gauss'",
-      "url": "https://ffmpeg.org/download.html#release_9.1",
-      "title_zh": "FFmpeg 9.1“高斯”",
-      "is_new": true,
-      "created_display": "Created: Nov 19, 2026 / 20:02 PT",
-      "image_url": "https://ffmpeg.org/img/ffmpeg3d_white_20.png",
-      "summary_en": "FFmpeg 9.1, codenamed “Gauss,” is available as a source-code release. The project provides instructions for retrieving the source through Git and notes that it distributes source code rather than compiled binaries.",
-      "summary_zh": "代号为“高斯”的 FFmpeg 9.1 以源代码形式发布。项目提供了通过 Git 获取源代码的说明，并注明其发布的是源代码而非编译后的二进制文件。",
-      "hn": {
-        "id": 50569998,
-        "type": "story",
-        "by": "gyan",
-        "score": 234,
-        "descendants": 32,
-        "time": 1795147359,
-        "comments_url": "https://news.ycombinator.com/item?id=50569998"
-      },
-      "hot_score": 2.0,
-      "tags": [
-        "Programming"
-      ]
+        "Entertainment",
+        "Culture"
+      ],
+      "hot_score": 1.16
     },
     {
       "title_en": "UK government forced to admit it issued Apple a secret encryption order",
       "url": "https://macanorak.com/uk-government-forced-to-admit-it-issued-apple-a-secret-encryption-order/",
       "title_zh": "英国政府被迫承认曾向苹果发出秘密加密命令",
-      "is_new": true,
+      "is_new": false,
       "created_display": "Created: Nov 19, 2026 / 08:21 PT",
       "image_url": "https://macanorak.com/content/images/2026/11/Apple.jpg",
       "summary_en": "The Investigatory Powers Tribunal rejected the UK government’s attempt to keep its order to Apple secret. The tribunal ruled that the government must acknowledge issuing Apple a Technical Capability Notice under Section 253 of the Investigatory Powers Act 2016. Such notices can require technology companies to alter services to facilitate investigatory powers, in this case amid a dispute over encrypted iCloud data.",
@@ -465,8 +936,8 @@
         "id": 50562113,
         "type": "story",
         "by": "Terretta",
-        "score": 677,
-        "descendants": 332,
+        "score": 689,
+        "descendants": 361,
         "time": 1795105263,
         "comments_url": "https://news.ycombinator.com/item?id=50562113"
       },
@@ -476,37 +947,84 @@
         "Security",
         "Politics"
       ],
-      "hot_score": 1.95
+      "hot_score": 1.1
     },
     {
-      "title_en": "Epic Games Turns to AI Coding for the Unreal Engine",
-      "url": "https://spectrum.ieee.org/epic-games-unreal-engine-ai",
-      "title_zh": "Epic Games 转向使用 AI 编写 Unreal Engine 代码",
-      "is_new": true,
-      "created_display": "Created: Nov 20, 2026 / 04:16 PT",
-      "image_url": "https://spectrum.ieee.org/media-library/will-ai-coding-eat-video-game-engines.jpg?id=68705132&width=1200&height=600&coordinates=0%2C425%2C0%2C766",
-      "summary_en": "Epic Games is moving Unreal Engine toward the Verse language and Scene Graph while pursuing AI-assisted coding. Unreal Engine 5.9 introduced Unreal Canvas, which gives game developers ways to use AI agents to create game assets. The shift places Epic’s engine development alongside the growing use of standalone AI coding tools.",
-      "summary_zh": "Epic Games 正在推动 Unreal Engine 转向 Verse 语言和 Scene Graph，并探索 AI 辅助编程。Unreal Engine 5.9 引入了 Unreal Canvas，为游戏开发者提供使用 AI 代理创建游戏资产的方式。这一转向使 Epic 的引擎开发与独立 AI 编程工具的日益普及并行展开。",
+      "title_en": "OpenSSL: Buffer overflow in EVP_EncodeBlock() (CVE-2026-121481, CVSS 9.8)",
+      "url": "https://github.com/openssl/openssl/pull/33652",
+      "title_zh": "OpenSSL：EVP_EncodeBlock() 中的缓冲区溢出（CVE-2026-121481，CVSS 9.8）",
+      "is_new": false,
+      "created_display": "Created: Nov 19, 2026 / 18:01 PT",
+      "image_url": "https://opengraph.githubassets.com/31b879ae6f23f642695a828f1a9b7e6613f7e0407fbc7f89cbc63eea73d0c99b/openssl/openssl/pull/33652",
+      "summary_en": "A proposed OpenSSL fix addresses a buffer overflow in EVP_EncodeBlock(), tracked as CVE-2026-121481 with a CVSS score of 9.8. The change makes the function return -1 for invalid inputs, including null buffers, negative lengths, and encoded sizes that do not fit in an int. The security advisory was still pending when the fix was proposed.",
+      "summary_zh": "一项拟议的 OpenSSL 修复针对 EVP_EncodeBlock() 中的缓冲区溢出漏洞，该漏洞编号为 CVE-2026-121481，CVSS 评分为 9.8。修复会让函数在输入无效时返回 -1，包括缓冲区为空、长度为负数或编码后大小无法放入 int 的情况。提出修复时，安全公告仍在等待发布。",
       "hn": {
-        "id": 50573681,
+        "id": 50569226,
         "type": "story",
-        "by": "rbanffy",
-        "score": 43,
-        "descendants": 47,
-        "time": 1795176996,
-        "comments_url": "https://news.ycombinator.com/item?id=50573681"
+        "by": "JacobHenner",
+        "score": 365,
+        "descendants": 328,
+        "time": 1795140069,
+        "comments_url": "https://news.ycombinator.com/item?id=50569226"
       },
-      "hot_score": 1.77,
       "tags": [
-        "AI",
-        "Gaming"
+        "Security"
+      ],
+      "hot_score": 1.03
+    },
+    {
+      "title_en": "Slopstrap – Make your site look hastily vibecoded",
+      "url": "https://slopstrap.mikelacher.com/",
+      "title_zh": "Slopstrap：让网站看起来像是匆忙用“氛围编程”写出来的",
+      "is_new": true,
+      "created_display": "Created: Nov 20, 2026 / 07:24 PT",
+      "image_url": "https://slopstrap.mikelacher.com/og-image.png",
+      "summary_en": "Slopstrap describes itself as a CSS framework intended to make websites look as though they were hastily created by an LLM. It presents the tool as a way to give any project an intentionally AI-generated appearance.",
+      "summary_zh": "Slopstrap 自称是一个 CSS 框架，旨在让网站看起来像是匆忙由 LLM 创建的。它将自己定位为一种让项目呈现刻意 AI 生成风格的工具。",
+      "hn": {
+        "id": 50576012,
+        "type": "story",
+        "by": "mlacher",
+        "score": 97,
+        "descendants": 17,
+        "time": 1795188251,
+        "comments_url": "https://news.ycombinator.com/item?id=50576012"
+      },
+      "hot_score": 0.99,
+      "tags": [
+        "Web",
+        "Design",
+        "AI"
       ]
+    },
+    {
+      "title_en": "FFmpeg 9.1 'Gauss'",
+      "url": "https://ffmpeg.org/download.html#release_9.1",
+      "title_zh": "FFmpeg 9.1“高斯”",
+      "is_new": false,
+      "created_display": "Created: Nov 19, 2026 / 20:02 PT",
+      "image_url": "https://ffmpeg.org/img/ffmpeg3d_white_20.png",
+      "summary_en": "FFmpeg 9.1, codenamed “Gauss,” is available as a source-code release. The project provides instructions for retrieving the source through Git and notes that it distributes source code rather than compiled binaries.",
+      "summary_zh": "代号为“高斯”的 FFmpeg 9.1 以源代码形式发布。项目提供了通过 Git 获取源代码的说明，并注明其发布的是源代码而非编译后的二进制文件。",
+      "hn": {
+        "id": 50569998,
+        "type": "story",
+        "by": "gyan",
+        "score": 291,
+        "descendants": 35,
+        "time": 1795147359,
+        "comments_url": "https://news.ycombinator.com/item?id=50569998"
+      },
+      "tags": [
+        "Programming"
+      ],
+      "hot_score": 0.95
     },
     {
       "title_en": "Claude solves two open problems in the physics of black holes",
       "url": "https://www.anthropic.com/research/claude-black-hole-physics",
       "title_zh": "Claude 破解黑洞物理学中的两个开放问题",
-      "is_new": true,
+      "is_new": false,
       "created_display": "Created: Nov 19, 2026 / 09:30 PT",
       "image_url": "https://assets.claude.com/57a443b51d13727573b7c1290130d09c5f434b2c.jpg",
       "summary_en": "Claude Fable 5.2 is reported to have solved two open problems in theoretical physics involving black holes and the search for quantum gravity. The problems sit at the intersection of general relativity and quantum mechanics, whose mathematical incompatibility remains a central challenge in physics. Researchers often use holographic duality and simplified model universes to study these questions.",
@@ -515,8 +1033,8 @@
         "id": 50563148,
         "type": "story",
         "by": "cybermango",
-        "score": 524,
-        "descendants": 252,
+        "score": 553,
+        "descendants": 270,
         "time": 1795109444,
         "comments_url": "https://news.ycombinator.com/item?id=50563148"
       },
@@ -524,37 +1042,179 @@
         "AI",
         "Science"
       ],
-      "hot_score": 1.64
+      "hot_score": 0.94
     },
     {
-      "title_en": "Postgres 19 Repack: Faster, Built-In Table Bloat Cleanup",
-      "url": "https://www.snowflake.com/en/blog/engineering/postgres-19-repack-table-bloat/",
-      "title_zh": "Postgres 19 Repack：更快、内置的表膨胀清理",
-      "is_new": true,
-      "created_display": "Created: Nov 19, 2026 / 18:43 PT",
-      "image_url": null,
-      "summary_en": "Postgres 19 adds a built-in REPACK command for reclaiming disk space and reorganizing table contents. The command is intended to improve query performance.",
-      "summary_zh": "Postgres 19 新增了内置的 REPACK 命令，用于回收磁盘空间并重新组织表内容。该命令旨在改善查询性能。",
+      "title_en": "What people are building, discovered through new domains",
+      "url": "https://startups.novumsignals.com/",
+      "title_zh": "通过新域名发现人们正在构建什么",
+      "is_new": false,
+      "created_display": "Created: Nov 20, 2026 / 01:54 PT",
+      "image_url": "https://cdn.novumsignals.com/screenshots/epsi-app.de/fd354f137fc66974.jpg",
+      "summary_en": "A database tracks 27,455 new product companies as their websites launch, recording details such as products, pricing, traction, teams, and operating companies. One example is Epsi, a mathematics learning app for grades 1–13. Epsi offers optional AI assistance and makes all learning content free.",
+      "summary_zh": "一个数据库在新产品公司网站上线时追踪它们，目前记录了 27,455 家公司及其产品、定价、增长情况、团队和运营主体等信息。其中一个例子是面向 1 至 13 年级的数学学习应用 Epsi。Epsi 提供可选的 AI 辅助功能，且所有学习内容均免费。",
       "hn": {
-        "id": 50569516,
+        "id": 50572448,
         "type": "story",
-        "by": "craigkerstiens",
-        "score": 154,
-        "descendants": 26,
-        "time": 1795142629,
-        "comments_url": "https://news.ycombinator.com/item?id=50569516"
+        "by": "walterschnitzel",
+        "score": 157,
+        "descendants": 74,
+        "time": 1795168473,
+        "comments_url": "https://news.ycombinator.com/item?id=50572448"
       },
-      "hot_score": 1.12,
       "tags": [
-        "Programming",
+        "Startups",
+        "AI",
         "Data"
+      ],
+      "hot_score": 0.84
+    },
+    {
+      "title_en": "UK fridges secured from hackers",
+      "url": "https://www.bbc.co.uk/news/articles/c6eq49zyx7p4o",
+      "title_zh": "英国冰箱得到防黑客保护",
+      "is_new": false,
+      "created_display": "Created: Nov 20, 2026 / 01:52 PT",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d3db/live/57d6aa20-d769-11f1-a956-ff083523ef77.jpg",
+      "summary_en": "UK fridges have reportedly been secured against hackers. No further technical details about the security measures or the affected refrigerator models are established here.",
+      "summary_zh": "据报道，英国的冰箱已获得防黑客保护。现有信息未说明具体采取了哪些安全措施，也未说明涉及哪些冰箱型号。",
+      "hn": {
+        "id": 50572430,
+        "type": "story",
+        "by": "tomnext",
+        "score": 144,
+        "descendants": 137,
+        "time": 1795168340,
+        "comments_url": "https://news.ycombinator.com/item?id=50572430"
+      },
+      "tags": [
+        "Security"
+      ],
+      "hot_score": 0.77
+    },
+    {
+      "title_en": "Running two PSP emulators on one Switch 2 and sharing one via GameShare",
+      "url": "https://github.com/XITRIX/ppsspp-nx2/blob/master/SWITCH2-GAMESHARE.md",
+      "title_zh": "在一台 Switch 2 上运行两个 PSP 模拟器，并通过 GameShare 共享一个",
+      "is_new": true,
+      "created_display": "Created: Nov 20, 2026 / 09:14 PT",
+      "image_url": "https://opengraph.githubassets.com/a9a9d391d4d551e29b272991ba80240e4b6d535092c4e295ed3e1cd131f711ea/XITRIX/ppsspp-nx2",
+      "summary_en": "A branch of the PPSSPP emulator for Switch 2 experiments with running a separate PSP guest on the host console and streaming it to a stock GameShare client. The setup is not a mirrored controller or a second PSP controller in the host emulator. Compilation and host tests have not yet established console operation or acceptable two-game performance.",
+      "summary_zh": "Switch 2 版 PPSSPP 模拟器的一个分支尝试在主机上运行独立的 PSP 客体，并将其串流到普通 GameShare 客户端。该方案并不是镜像控制器，也不是在主模拟器中增加第二个 PSP 控制器。编译和主机测试尚未证明它能在游戏机上运行，也未证明双游戏性能达到可接受水平。",
+      "hn": {
+        "id": 50578233,
+        "type": "story",
+        "by": "khalidkhair",
+        "score": 55,
+        "descendants": 0,
+        "time": 1795194843,
+        "comments_url": "https://news.ycombinator.com/item?id=50578233"
+      },
+      "hot_score": 0.74,
+      "tags": [
+        "Hardware",
+        "Gaming"
+      ]
+    },
+    {
+      "title_en": "Jujutsu Primer",
+      "url": "https://ethanlowman.com/posts/jj-primer/",
+      "title_zh": "Jujutsu 入门",
+      "is_new": false,
+      "created_display": "Created: Nov 19, 2026 / 21:46 PT",
+      "image_url": "https://ethanlowman.com/img/penrose.png",
+      "summary_en": "This guide introduces the Jujutsu (jj) version-control system to readers familiar with Git. It presents jj’s simple version-control primitives, automatic rebasing, and native undo. These features are intended to reduce some of Git’s sharp edges while enabling more composable workflows.",
+      "summary_zh": "这份指南面向熟悉 Git 的读者，介绍 Jujutsu（jj）版本控制系统。它讲解了 jj 简单的版本控制原语、自动变基和原生撤销功能。这些特性旨在减少 Git 的使用摩擦，同时支持更易组合的工作流。",
+      "hn": {
+        "id": 50570628,
+        "type": "story",
+        "by": "renehsz",
+        "score": 198,
+        "descendants": 180,
+        "time": 1795153561,
+        "comments_url": "https://news.ycombinator.com/item?id=50570628"
+      },
+      "tags": [
+        "Programming"
+      ],
+      "hot_score": 0.73
+    },
+    {
+      "title_en": "AI is giving everyone the same advice",
+      "url": "https://a90.com/experiments/same-advice/",
+      "title_zh": "AI 正在给所有人相同的建议",
+      "is_new": true,
+      "created_display": "Created: Nov 20, 2026 / 08:58 PT",
+      "image_url": "https://a90.com/experiments/same-advice/og.png",
+      "summary_en": "The author asked 65 AIs from 30 companies the kinds of questions people ask every day, repeating the experiment 127,918 times. The results included 73 out of 100 people being told to read the same book. The project presents the answers to questions about reading, living, investing, and building so users can compare them.",
+      "summary_zh": "作者向来自 30 家公司的 65 个 AI 提出人们日常会问的问题，并重复实验 127,918 次。结果显示，每 100 个人中有 73 个被建议阅读同一本书。该项目展示了关于阅读、居住、投资和创业等问题的回答，供用户进行比较。",
+      "hn": {
+        "id": 50577872,
+        "type": "story",
+        "by": "amin",
+        "score": 57,
+        "descendants": 24,
+        "time": 1795193885,
+        "comments_url": "https://news.ycombinator.com/item?id=50577872"
+      },
+      "hot_score": 0.73,
+      "tags": [
+        "AI",
+        "Data"
+      ]
+    },
+    {
+      "title_en": "The Hungry Butler Effect: Concealed Commercial Incentives in LLMs",
+      "url": "https://www.researchgate.net/publication/418143113_The_Hungry_Butler_Effect_Concealed_Commercial_Incentives_and_the_Erosion_of_Epistemic_Rigour_in_Large_Language_Models",
+      "title_zh": "饥饿管家效应：大语言模型中隐藏的商业激励",
+      "is_new": true,
+      "created_display": "Created: Nov 20, 2026 / 14:18 PT",
+      "image_url": null,
+      "summary_en": "The item concerns concealed commercial incentives in large language models and their possible effect on how models provide advice. It is presented as an investigation titled “The Hungry Butler Effect.”",
+      "summary_zh": "该项目关注大语言模型中隐藏的商业激励，以及这些激励可能对模型提供建议的方式产生的影响。其主题是一项名为《饥饿管家效应》的研究。",
+      "hn": {
+        "id": 50583117,
+        "type": "story",
+        "by": "undefinedmethod",
+        "score": 18,
+        "descendants": 6,
+        "time": 1795213100,
+        "comments_url": "https://news.ycombinator.com/item?id=50583117"
+      },
+      "hot_score": 0.72,
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "title_en": "A human liver has been kept alive outside the body for a record seven weeks",
+      "url": "https://www.technologyreview.com/2026/11/19/1148934/a-human-liver-has-been-kept-alive-outside-the-body-for-seven-weeks-setting-a-record/",
+      "title_zh": "人类肝脏在体外存活七周，创下纪录",
+      "is_new": true,
+      "created_display": "Created: Nov 20, 2026 / 15:30 PT",
+      "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/11/EOPS-V1.1-.jpg?resize=1200,600",
+      "summary_en": "Researchers in Australia claim to have kept a donated human liver alive outside the body for seven weeks using machine perfusion. A team in Sydney led by surgeon and inventor Carlo Pulitano connected the liver to automated pumps and sensors that supplied nutrients and blood and removed waste. The details have not yet been published, but the work could expand possibilities for transplantation and biomedical research.",
+      "summary_zh": "澳大利亚研究人员声称，利用机器灌注技术让一枚捐赠的人类肝脏在体外存活了七周。由外科医生兼发明家 Carlo Pulitano 领导的悉尼团队，将肝脏连接到自动泵和传感器系统，为其提供营养物和血液并清除废物。具体细节尚未发表，但这项工作可能拓展移植和生物医学研究的空间。",
+      "hn": {
+        "id": 50583862,
+        "type": "story",
+        "by": "bookofjoe",
+        "score": 11,
+        "descendants": 2,
+        "time": 1795217413,
+        "comments_url": "https://news.ycombinator.com/item?id=50583862"
+      },
+      "hot_score": 0.64,
+      "tags": [
+        "Health",
+        "Science"
       ]
     },
     {
       "title_en": "The 98% Slot Machine: How Paid Advertising Became an Extraction Tax",
       "url": "https://globalcommercegraph.com/writing/the-ninety-eight-percent-slot-machine",
       "title_zh": "98% 的老虎机：付费广告如何变成一种抽取税",
-      "is_new": true,
+      "is_new": false,
       "created_display": "Created: Nov 19, 2026 / 10:35 PT",
       "image_url": "https://globalcommercegraph.com/og-image.png",
       "summary_en": "The essay argues that advertising auctions are calibrated to pay out just enough to keep advertisers participating. It says auction winners do not necessarily earn profits, but instead gain the opportunity to act as unpaid fulfillment contractors for Google and Meta.",
@@ -563,21 +1223,117 @@
         "id": 50564159,
         "type": "story",
         "by": "dev1one1",
-        "score": 322,
-        "descendants": 177,
+        "score": 336,
+        "descendants": 183,
         "time": 1795113317,
         "comments_url": "https://news.ycombinator.com/item?id=50564159"
       },
       "tags": [
         "Business"
       ],
-      "hot_score": 1.09
+      "hot_score": 0.6
+    },
+    {
+      "title_en": "PostgreSQL 19: A hands-on tour with runnable browser examples",
+      "url": "https://certuvia.com/blog/postgres-19",
+      "title_zh": "PostgreSQL 19：带可运行浏览器示例的实操导览",
+      "is_new": true,
+      "created_display": "Created: Nov 20, 2026 / 09:08 PT",
+      "image_url": "https://certuvia.com/opengraph-image",
+      "summary_en": "PostgreSQL 19 introduces new SQL features along with maintenance and replication improvements. The examples cover IGNORE NULLS, get-or-create inserts, JSON export, JSONPath transformations, range subtraction, planner advice, and replication. PostgreSQL 19.0 was released on November 19, 2026, and the release notes remain the complete change log.",
+      "summary_zh": "PostgreSQL 19 带来了新的 SQL 功能，以及维护和复制方面的改进。示例涵盖 IGNORE NULLS、get-or-create 插入、JSON 导出、JSONPath 转换、范围减法、规划器建议和复制功能。PostgreSQL 19.0 于 2026 年 11 月 19 日发布，完整变更仍以发行说明为准。",
+      "hn": {
+        "id": 50578117,
+        "type": "story",
+        "by": "petrpravda",
+        "score": 43,
+        "descendants": 4,
+        "time": 1795194536,
+        "comments_url": "https://news.ycombinator.com/item?id=50578117"
+      },
+      "hot_score": 0.56,
+      "tags": [
+        "Programming",
+        "Web",
+        "Data"
+      ]
+    },
+    {
+      "title_en": "Postgres 19 Repack: Faster, Built-In Table Bloat Cleanup",
+      "url": "https://www.snowflake.com/en/blog/engineering/postgres-19-repack-table-bloat/",
+      "title_zh": "Postgres 19 Repack：更快、内置的表膨胀清理",
+      "is_new": false,
+      "created_display": "Created: Nov 19, 2026 / 18:43 PT",
+      "image_url": null,
+      "summary_en": "Postgres 19 adds a built-in REPACK command for reclaiming disk space and reorganizing table contents. The command is intended to improve query performance.",
+      "summary_zh": "Postgres 19 新增了内置的 REPACK 命令，用于回收磁盘空间并重新组织表内容。该命令旨在改善查询性能。",
+      "hn": {
+        "id": 50569516,
+        "type": "story",
+        "by": "craigkerstiens",
+        "score": 177,
+        "descendants": 29,
+        "time": 1795142629,
+        "comments_url": "https://news.ycombinator.com/item?id=50569516"
+      },
+      "tags": [
+        "Programming",
+        "Data"
+      ],
+      "hot_score": 0.52
+    },
+    {
+      "title_en": "Reverse Engineering my cat's litter box",
+      "url": "https://master--ytulsiani.netlify.app/blog/furrytails/",
+      "title_zh": "逆向工程我家猫的猫砂盆",
+      "is_new": true,
+      "created_display": "Created: Nov 20, 2026 / 12:07 PT",
+      "image_url": "https://master--ytulsiani.netlify.app/blog/furrytails/maisie-header.png",
+      "summary_en": "The author reverse-engineered an Android app and recreated its signed HTTP requests to communicate with an automated litter box. The project aims to integrate the device with Home Assistant and eventually use presence sensors to start cleaning cycles when the cat is elsewhere. The protocol includes several layers of binary messages, including a four-byte field.",
+      "summary_zh": "作者通过逆向 Android 应用并重建签名 HTTP 请求，使自己能够与自动猫砂盆通信。该项目的目标是将设备接入 Home Assistant，并最终利用存在传感器在猫离开后启动清洁周期。其通信协议包含多层二进制消息，其中包括一个四字节字段。",
+      "hn": {
+        "id": 50581165,
+        "type": "story",
+        "by": "allidoisvim",
+        "score": 23,
+        "descendants": 9,
+        "time": 1795205234,
+        "comments_url": "https://news.ycombinator.com/item?id=50581165"
+      },
+      "hot_score": 0.52,
+      "tags": [
+        "Programming"
+      ]
+    },
+    {
+      "title_en": "Merkle Tree Certificates",
+      "url": "https://datatracker.ietf.org/doc/draft-ietf-plants-merkle-tree-certs/",
+      "title_zh": "默克尔树证书",
+      "is_new": true,
+      "created_display": "Created: Nov 20, 2026 / 14:19 PT",
+      "image_url": "https://static.ietf.org/dt/12.83.2/ietf/images/ietf-logo-card.png",
+      "summary_en": "A proposed X.509 certificate design integrates public certificate logging in the style of Certificate Transparency. Merkle Tree certificates aim to reduce logging overhead for shorter-lived certificates and large post-quantum signatures while retaining comparable security properties. An optional size optimization can eliminate signatures, but only for up-to-date relying parties and older certificates.",
+      "summary_zh": "这份提案描述了一种将类似证书透明度的公开日志机制整合进 X.509 证书的设计。默克尔树证书旨在降低短生命周期证书和大型后量子签名带来的日志开销，同时保持可比的安全属性。可选的尺寸优化可以省略签名，但仅适用于使用最新软件的依赖方和较旧的证书。",
+      "hn": {
+        "id": 50583134,
+        "type": "story",
+        "by": "mooreds",
+        "score": 13,
+        "descendants": 2,
+        "time": 1795213163,
+        "comments_url": "https://news.ycombinator.com/item?id=50583134"
+      },
+      "hot_score": 0.51,
+      "tags": [
+        "Security",
+        "Science"
+      ]
     },
     {
       "title_en": "What Comes After AGI?",
       "url": "https://institute.deepmind.com/essays/what-comes-after-agi/",
       "title_zh": "AGI 之后会发生什么？",
-      "is_new": true,
+      "is_new": false,
       "created_display": "Created: Nov 19, 2026 / 18:44 PT",
       "image_url": "https://lh3.googleusercontent.com/MtcSyuy2GVyxylszKhwxAUP_OVh-e9ETmOtE5kLDGL8AIl59WmqxO5QJjRU3NDBnLsjBPmR3Wn5c4V0gVeOKge7MOF1oXMhqB5WWz8MCb89aH_e2=w1200-h630-n-nu-rw",
       "summary_en": "The essay examines possible paths from artificial general intelligence to artificial superintelligence. It argues that AI could continue advancing at its current pace, or even accelerate, with consequences for science, the economy, and society potentially exceeding those of AGI. It calls for mapping these pathways and developing reliable ways to track progress while the transition remains uncertain.",
@@ -586,21 +1342,21 @@
         "id": 50569519,
         "type": "story",
         "by": "jdkee",
-        "score": 129,
-        "descendants": 245,
+        "score": 163,
+        "descendants": 316,
         "time": 1795142653,
         "comments_url": "https://news.ycombinator.com/item?id=50569519"
       },
-      "hot_score": 0.94,
       "tags": [
         "AI"
-      ]
+      ],
+      "hot_score": 0.48
     },
     {
       "title_en": "Vint Cerf on why TCP/IP was never patented",
       "url": "https://seremot.com/p/vint-cerf-on-why-tcpip-was-never",
       "title_zh": "Vint Cerf 谈 TCP/IP 为何从未申请专利",
-      "is_new": true,
+      "is_new": false,
       "created_display": "Created: Nov 19, 2026 / 17:06 PT",
       "image_url": "https://substackcdn.com/image/fetch/$s_!F4Pm!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3c9dc8fc-3b97-48bf-9594-781fe179ffe0_1920x1080.jpeg",
       "summary_en": "A new podcast begins with Vint Cerf, described as one of the people who built the Internet, as its first guest. The supplied description identifies the episode but does not provide Cerf’s explanation of why TCP/IP was never patented.",
@@ -609,21 +1365,21 @@
         "id": 50568861,
         "type": "story",
         "by": "emot",
-        "score": 145,
-        "descendants": 75,
+        "score": 159,
+        "descendants": 92,
         "time": 1795136772,
         "comments_url": "https://news.ycombinator.com/item?id=50568861"
       },
-      "hot_score": 0.88,
       "tags": [
         "Science"
-      ]
+      ],
+      "hot_score": 0.42
     },
     {
       "title_en": "Synology Security Advisory",
       "url": "https://www.synology.com/en-uk/security/advisory/Synology_SA_26_21",
       "title_zh": "群晖安全公告",
-      "is_new": true,
+      "is_new": false,
       "created_display": "Created: Nov 19, 2026 / 14:13 PT",
       "image_url": "https://fileres.synology.com/images/common/meta-tag-preview-image/img_synology.jpg",
       "summary_en": "Synology has rated several BeeStation OS and DSM releases as critical and provided upgrade guidance. DSM 7.4 users are directed to version 7.4.1-90080-2 or later, while DSM 7.3 users should upgrade to 7.3.2-86009-6 or later; both releases were scheduled for November 20, 2026. APM and SRM versions listed in the advisory are not affected.",
@@ -632,69 +1388,68 @@
         "id": 50567209,
         "type": "story",
         "by": "choult",
-        "score": 170,
-        "descendants": 125,
+        "score": 181,
+        "descendants": 140,
         "time": 1795126420,
         "comments_url": "https://news.ycombinator.com/item?id=50567209"
       },
       "tags": [
         "Security"
       ],
-      "hot_score": 0.78
+      "hot_score": 0.4
     },
     {
-      "title_en": "ChatGPT for SNES",
-      "url": "https://www.bxfoundry.com/chatgpt_snes/",
-      "title_zh": "SNES 上的 ChatGPT",
-      "is_new": true,
-      "created_display": "Created: Nov 19, 2026 / 16:25 PT",
-      "image_url": "https://www.bxfoundry.com/chatgpt_snes/img/og.png",
-      "summary_en": "This unofficial experiment runs a small language model on the Super FX chip of a Super NES cartridge. The model can be played in a browser, with keyboard inputs mapped to the console’s controls. The experiment is not made or endorsed by OpenAI.",
-      "summary_zh": "这项非官方实验让一个小型语言模型运行在 Super NES 卡带的 Super FX 芯片上。用户可以在浏览器中体验它，键盘输入会映射为主机控制操作。该实验并非由 OpenAI 制作或认可。",
+      "title_en": "Epic Games Turns to AI Coding for the Unreal Engine",
+      "url": "https://spectrum.ieee.org/epic-games-unreal-engine-ai",
+      "title_zh": "Epic Games 转向使用 AI 编写 Unreal Engine 代码",
+      "is_new": false,
+      "created_display": "Created: Nov 20, 2026 / 04:16 PT",
+      "image_url": "https://spectrum.ieee.org/media-library/will-ai-coding-eat-video-game-engines.jpg?id=68705132&width=1200&height=600&coordinates=0%2C425%2C0%2C766",
+      "summary_en": "Epic Games is moving Unreal Engine toward the Verse language and Scene Graph while pursuing AI-assisted coding. Unreal Engine 5.9 introduced Unreal Canvas, which gives game developers ways to use AI agents to create game assets. The shift places Epic’s engine development alongside the growing use of standalone AI coding tools.",
+      "summary_zh": "Epic Games 正在推动 Unreal Engine 转向 Verse 语言和 Scene Graph，并探索 AI 辅助编程。Unreal Engine 5.9 引入了 Unreal Canvas，为游戏开发者提供使用 AI 代理创建游戏资产的方式。这一转向使 Epic 的引擎开发与独立 AI 编程工具的日益普及并行展开。",
       "hn": {
-        "id": 50568548,
+        "id": 50573681,
         "type": "story",
-        "by": "evan_",
-        "score": 109,
-        "descendants": 32,
-        "time": 1795134359,
-        "comments_url": "https://news.ycombinator.com/item?id=50568548"
+        "by": "rbanffy",
+        "score": 58,
+        "descendants": 60,
+        "time": 1795176996,
+        "comments_url": "https://news.ycombinator.com/item?id=50573681"
       },
-      "hot_score": 0.62,
       "tags": [
         "AI",
-        "Hardware",
-        "Web"
-      ]
+        "Gaming"
+      ],
+      "hot_score": 0.4
     },
     {
-      "title_en": "Tristan Buckmaster Claims Proof of Unforced Navier Stokes and Unforced Euler",
-      "url": "https://mastodon.social/@tristanbuckmaster/117649035783718539",
-      "title_zh": "Tristan Buckmaster 声称证明了无外力 Navier–Stokes 方程和无外力 Euler 方程",
+      "title_en": "Serious cyberattack thought backed by wealthy operators",
+      "url": "https://www.ruv.is/english/2026-11-20-serious-cyberattack-thought-backed-by-wealthy-operators-493411",
+      "title_zh": "有富有势力者支持的严重网络攻击阴谋",
       "is_new": true,
-      "created_display": "Created: Nov 20, 2026 / 07:13 PT",
-      "image_url": "https://mastodon.social/packs/assets/logo-DXQkHAe5.svg",
-      "summary_en": "Tristan Buckmaster has posted write-ups claiming proofs for the unforced Euler and Navier–Stokes equations. He says the Navier–Stokes write-up is unpolished and heavily assisted by language models. According to the post, once a numerical profile is available, the proof follows a familiar computer-assisted route.",
-      "summary_zh": "Tristan Buckmaster 发布了声称证明无外力 Euler 方程和无外力 Navier–Stokes 方程的文稿。他表示，Navier–Stokes 文稿尚未打磨完成，并大量借助了语言模型。根据其说明，在获得数值剖面后，证明会沿用一条熟悉的计算机辅助路径。",
+      "created_display": "Created: Nov 20, 2026 / 15:29 PT",
+      "image_url": "https://myndir.ruv.is/eyJidWNrZXQiOiAicnV2LXByb2QtcnV2aXMtcHVibGljIiwgImtleSI6ICJtZWRpYS9wdWJsaWMvb3JpZ2luYWxfaW1hZ2VzL2ZyXzIwMTcxMTE2XzA3Mzc1OS5qcGciLCAiZWRpdHMiOiB7InRvRm9ybWF0IjogImpwZWciLCAianBlZyI6IHsicXVhbGl0eSI6IDYwfSwgInJlc2l6ZSI6IHsid2lkdGgiOiAiMTIwMCIsICJmaXQiOiAiY292ZXIiLCAiaGVpZ2h0IjogIjYzMCJ9fX0=",
+      "summary_en": "The managing director of Icelandic hosting company 1984 says a cyberattack against the company was carried out at unprecedented speed. He believes the attackers were well funded. The company hosts a large proportion of Icelandic websites.",
+      "summary_zh": "冰岛托管公司 1984 的董事总经理表示，公司遭遇的网络攻击以前所未有的速度完成。他认为攻击者资金充足。该公司承载了冰岛大量网站。",
       "hn": {
-        "id": 50575789,
+        "id": 50583856,
         "type": "story",
-        "by": "iamronaldo",
-        "score": 5,
-        "descendants": 0,
-        "time": 1795187615,
-        "comments_url": "https://news.ycombinator.com/item?id=50575789"
+        "by": "Bender",
+        "score": 7,
+        "descendants": 1,
+        "time": 1795217370,
+        "comments_url": "https://news.ycombinator.com/item?id=50583856"
       },
-      "hot_score": 0.6,
+      "hot_score": 0.38,
       "tags": [
-        "Science"
+        "Security"
       ]
     },
     {
       "title_en": "Do not buy RAM, compress",
       "url": "https://curiousbits.nl/blog/do-not-buy-ram-compress/",
       "title_zh": "别买内存，压缩它",
-      "is_new": true,
+      "is_new": false,
       "created_display": "Created: Nov 19, 2026 / 00:56 PT",
       "image_url": "https://curiousbits.nl/static/blog/do-not-buy-ram-compress/apps.png",
       "summary_en": "The author turned to zram after running out of memory while running increasingly parallel AI workloads. Zram compresses memory and is already used by Windows, macOS, and many Android devices, but it is not enabled by default in many Linux distributions. Fedora and Pop!_OS enable it, while Ubuntu generally does not and Amazon Linux limits it to smaller virtual machines.",
@@ -703,8 +1458,8 @@
         "id": 50557661,
         "type": "story",
         "by": "Ecno92",
-        "score": 313,
-        "descendants": 253,
+        "score": 325,
+        "descendants": 266,
         "time": 1795078607,
         "comments_url": "https://news.ycombinator.com/item?id=50557661"
       },
@@ -712,13 +1467,178 @@
         "Hardware",
         "AI"
       ],
-      "hot_score": 0.57
+      "hot_score": 0.37
+    },
+    {
+      "title_en": "White House removes cyber-security chief after series of tech outages",
+      "url": "https://www.bbc.com/news/articles/cwz0k3nn5p5mo",
+      "title_zh": "白宫在一系列技术故障后撤换网络安全负责人",
+      "is_new": true,
+      "created_display": "Created: Nov 20, 2026 / 15:25 PT",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/76fa/live/ea62ee60-e4bd-11f1-87df-79d8910e0f29.jpg",
+      "summary_en": "White House National Cyber Director Sean Cairncross was fired after reportedly losing the confidence of Chief of Staff Stephen Miller. Cairncross had held the position for a little over a year. President Donald Trump said the reason was that Cairncross was not “good enough.”",
+      "summary_zh": "据报道，白宫国家网络安全主任 Sean Cairncross 因失去幕僚长 Stephen Miller 的信任而被解职。Cairncross 担任这一职务的时间略超过一年。总统 Donald Trump 表示，原因是 Cairncross“不够好”。",
+      "hn": {
+        "id": 50583826,
+        "type": "story",
+        "by": "Lyngbakr",
+        "score": 7,
+        "descendants": 0,
+        "time": 1795217153,
+        "comments_url": "https://news.ycombinator.com/item?id=50583826"
+      },
+      "hot_score": 0.37,
+      "tags": [
+        "Security",
+        "Politics"
+      ]
+    },
+    {
+      "title_en": "Twin films are films with the same or similar plots released with a short time",
+      "url": "https://en.wikipedia.org/wiki/Twin_films",
+      "title_zh": "双生电影：在短时间内上映、情节相同或相似的电影",
+      "is_new": true,
+      "created_display": "Created: Nov 20, 2026 / 16:41 PT",
+      "image_url": "https://en.wikipedia.org/static/images/icons/enwiki-25.svg",
+      "summary_en": "Twin films are movies with similar plots produced by different studios and released close together. Possible causes include companies developing similar scripts, competition to distribute topical stories, staff movement, industrial espionage, or the circulation of the same screenplay. The term differs from “mockbuster,” which usually refers to a lower-budget film designed to capitalize on interest in a major blockbuster.",
+      "summary_zh": "“双生电影”指由不同制片厂制作、情节相同或相似并在相近时间上映的电影。可能原因包括不同公司同时开发相似剧本、争相发行热门题材、员工流动、工业间谍活动，或同一剧本被提交给多家制片厂。“双生电影”不同于“仿制大片”，后者通常指借助热门大片带来的关注度而制作的低成本电影。",
+      "hn": {
+        "id": 50584481,
+        "type": "story",
+        "by": "jjmarr",
+        "score": 4,
+        "descendants": 0,
+        "time": 1795221713,
+        "comments_url": "https://news.ycombinator.com/item?id=50584481"
+      },
+      "hot_score": 0.33,
+      "tags": [
+        "Culture",
+        "Entertainment"
+      ]
+    },
+    {
+      "title_en": "ChatGPT for SNES",
+      "url": "https://www.bxfoundry.com/chatgpt_snes/",
+      "title_zh": "SNES 上的 ChatGPT",
+      "is_new": false,
+      "created_display": "Created: Nov 19, 2026 / 16:25 PT",
+      "image_url": "https://www.bxfoundry.com/chatgpt_snes/img/og.png",
+      "summary_en": "This unofficial experiment runs a small language model on the Super FX chip of a Super NES cartridge. The model can be played in a browser, with keyboard inputs mapped to the console’s controls. The experiment is not made or endorsed by OpenAI.",
+      "summary_zh": "这项非官方实验让一个小型语言模型运行在 Super NES 卡带的 Super FX 芯片上。用户可以在浏览器中体验它，键盘输入会映射为主机控制操作。该实验并非由 OpenAI 制作或认可。",
+      "hn": {
+        "id": 50568548,
+        "type": "story",
+        "by": "evan_",
+        "score": 123,
+        "descendants": 38,
+        "time": 1795134359,
+        "comments_url": "https://news.ycombinator.com/item?id=50568548"
+      },
+      "tags": [
+        "AI",
+        "Hardware",
+        "Web"
+      ],
+      "hot_score": 0.31
+    },
+    {
+      "title_en": "Integrals of Polynomials with Galois Group S_p",
+      "url": "https://m-slee.netlify.app/posts/integrals-galois-polynomials",
+      "title_zh": "伽罗瓦群为 S_p 的多项式积分",
+      "is_new": true,
+      "created_display": "Created: Nov 20, 2026 / 17:17 PT",
+      "image_url": "https://m-slee.netlify.app/img/logo.svg",
+      "summary_en": "The work studies integrals over an interval of rational polynomials whose Galois group is the symmetric group S_p for a prime p. It defines the collection of possible integral values and examines whether that set is bounded. It also proves the existence of infinitely many monic, irreducible degree-p polynomials satisfying the Zero Integral Condition.",
+      "summary_zh": "这项工作研究伽罗瓦群为素数 p 对应的对称群 S_p 的有理系数多项式在区间上的积分。文章定义了所有可能积分值构成的集合，并考察该集合是否有界。文章还证明了满足“零积分条件”的首一不可约 p 次多项式有无穷多个。",
+      "hn": {
+        "id": 50584776,
+        "type": "story",
+        "by": "richard_chase",
+        "score": 3,
+        "descendants": 1,
+        "time": 1795223825,
+        "comments_url": "https://news.ycombinator.com/item?id=50584776"
+      },
+      "hot_score": 0.31,
+      "tags": [
+        "Science"
+      ]
+    },
+    {
+      "title_en": "Teenage Engineering EP/BC–1 professional CD player",
+      "url": "https://teenage.engineering/products/bc-1",
+      "title_zh": "Teenage Engineering EP/BC–1 专业 CD 播放器",
+      "is_new": true,
+      "created_display": "Created: Nov 20, 2026 / 08:44 PT",
+      "image_url": "https://assets.teenage.engineering/_img/6b001470726cdf59ea2eaa8c_1024.webp",
+      "summary_en": "The EP/BC–1 is a professional CD player from Teenage Engineering.",
+      "summary_zh": "EP/BC–1 是 Teenage Engineering 推出的一款专业 CD 播放器。",
+      "hn": {
+        "id": 50577603,
+        "type": "story",
+        "by": "Lwrless",
+        "score": 23,
+        "descendants": 9,
+        "time": 1795193098,
+        "comments_url": "https://news.ycombinator.com/item?id=50577603"
+      },
+      "hot_score": 0.28,
+      "tags": [
+        "Hardware"
+      ]
+    },
+    {
+      "title_en": "Give Me Back My Monolith (2019)",
+      "url": "https://www.craigkerstiens.com/2019/03/13/give-me-back-my-monolith/",
+      "title_zh": "把我的单体应用还回来（2019）",
+      "is_new": true,
+      "created_display": "Created: Nov 20, 2026 / 14:25 PT",
+      "image_url": "https://www.craigkerstiens.com/images/logo.png",
+      "summary_en": "The author argues that enthusiasm for microservices may have passed its peak, with some teams reconsidering or reversing migrations from monoliths. Splitting one application into many services introduces new operational and architectural problems that were previously simple. The discussion catalogs those additional responsibilities and argues that a performant monolith can remain a valid choice.",
+      "summary_zh": "作者认为，微服务的热潮可能已经过峰值，一些团队开始重新考虑，甚至逆转从单体应用到微服务的迁移。将一个应用拆成多个服务，会引入许多此前简单的问题和新的运维、架构负担。文章整理了这些额外职责，并指出性能良好的单体应用仍然可以是合理选择。",
+      "hn": {
+        "id": 50583207,
+        "type": "story",
+        "by": "sammatilda",
+        "score": 7,
+        "descendants": 0,
+        "time": 1795213522,
+        "comments_url": "https://news.ycombinator.com/item?id=50583207"
+      },
+      "hot_score": 0.26,
+      "tags": [
+        "Programming"
+      ]
+    },
+    {
+      "title_en": "Tristan Buckmaster Claims Proof of Unforced Navier Stokes and Unforced Euler",
+      "url": "https://mastodon.social/@tristanbuckmaster/117649035783718539",
+      "title_zh": "Tristan Buckmaster 声称证明了无外力 Navier–Stokes 方程和无外力 Euler 方程",
+      "is_new": false,
+      "created_display": "Created: Nov 20, 2026 / 07:13 PT",
+      "image_url": "https://mastodon.social/packs/assets/logo-DXQkHAe5.svg",
+      "summary_en": "Tristan Buckmaster has posted write-ups claiming proofs for the unforced Euler and Navier–Stokes equations. He says the Navier–Stokes write-up is unpolished and heavily assisted by language models. According to the post, once a numerical profile is available, the proof follows a familiar computer-assisted route.",
+      "summary_zh": "Tristan Buckmaster 发布了声称证明无外力 Euler 方程和无外力 Navier–Stokes 方程的文稿。他表示，Navier–Stokes 文稿尚未打磨完成，并大量借助了语言模型。根据其说明，在获得数值剖面后，证明会沿用一条熟悉的计算机辅助路径。",
+      "hn": {
+        "id": 50575789,
+        "type": "story",
+        "by": "iamronaldo",
+        "score": 25,
+        "descendants": 1,
+        "time": 1795187615,
+        "comments_url": "https://news.ycombinator.com/item?id=50575789"
+      },
+      "tags": [
+        "Science"
+      ],
+      "hot_score": 0.24
     },
     {
       "title_en": "Should governments slow frontier AI? Jacob Coxon and Robin Hanson debate [video]",
       "url": "https://www.youtube.com/watch?v=lwfewYL7X0o",
       "title_zh": "政府是否应放慢前沿 AI？Jacob Coxon 与 Robin Hanson 辩论（视频）",
-      "is_new": true,
+      "is_new": false,
       "created_display": "Created: Nov 19, 2026 / 10:47 PT",
       "image_url": null,
       "summary_en": "Jacob Coxon and Robin Hanson debate whether governments should slow the development of frontier AI.",
@@ -727,8 +1647,8 @@
         "id": 50564366,
         "type": "story",
         "by": "sandslash",
-        "score": 110,
-        "descendants": 231,
+        "score": 114,
+        "descendants": 243,
         "time": 1795114036,
         "comments_url": "https://news.ycombinator.com/item?id=50564366"
       },
@@ -736,61 +1656,13 @@
         "Politics",
         "AI"
       ],
-      "hot_score": 0.38
-    },
-    {
-      "title_en": "Launch HN: Onlook (YC W25) – An open-source developer tool for designers",
-      "url": "https://github.com/onlook-dev/onlook/",
-      "title_zh": "Launch HN：Onlook（YC W25）——面向设计师的开源开发工具",
-      "is_new": true,
-      "created_display": "Created: Nov 19, 2026 / 08:34 PT",
-      "image_url": "https://opengraph.githubassets.com/9f20494bab716a6b955885a0f35d7771ebb60d16034bf864612953fb62ea679c/onlook-dev/onlook",
-      "summary_en": "Onlook is an open-source desktop app that places a design canvas over a real codebase, allowing designers to work directly in code with an existing agent. Users can work in multiple simultaneous worktrees running the actual app locally, with changes submitted as reviewable or discardable pull requests. The project says more than 25,000 designers and developers have supported it and over 100 people have contributed.",
-      "summary_zh": "Onlook 是一款开源桌面应用，在真实代码库之上提供设计画布，让设计师可以借助现有代理直接进行代码设计。用户可以在多个同时运行真实应用的工作树中操作，并将每次修改提交为可审查或可丢弃的拉取请求。项目方称已有超过 25,000 名设计师和开发者支持该项目，贡献者超过 100 人。",
-      "hn": {
-        "id": 50562320,
-        "type": "story",
-        "by": "D_R_Farrell",
-        "score": 122,
-        "descendants": 84,
-        "time": 1795106044,
-        "comments_url": "https://news.ycombinator.com/item?id=50562320"
-      },
-      "tags": [
-        "Open Source",
-        "Design",
-        "Startups"
-      ],
-      "hot_score": 0.36
-    },
-    {
-      "title_en": "Show HN: Foolscap – a writing app that reads your book and never writes for you",
-      "url": "https://foolscap.works/",
-      "title_zh": "Show HN：Foolscap，一款阅读你的书却永远不替你写作的应用",
-      "is_new": true,
-      "created_display": "Created: Nov 19, 2026 / 05:21 PT",
-      "image_url": "https://foolscap.works/share.png?v=3",
-      "summary_en": "Foolscap reads a manuscript as it is written and identifies its characters, ideas, narrative threads, and unresolved elements. Writers can respond to those observations in a dialogue, while a connected agent can answer questions about the book and perform actions. The system does not write directly into the user's work and is intended to support rather than bypass the creative process.",
-      "summary_zh": "Foolscap 会在用户写作时读取稿件，识别其中的人物、想法、叙事线索和未解决的内容。作者可以针对这些观察与系统对话，另一个连接的代理则能回答有关书稿的问题并执行操作。系统不会直接写入用户的作品，目标是辅助而非绕过创作过程。",
-      "hn": {
-        "id": 50559749,
-        "type": "story",
-        "by": "atugard",
-        "score": 112,
-        "descendants": 89,
-        "time": 1795094480,
-        "comments_url": "https://news.ycombinator.com/item?id=50559749"
-      },
-      "tags": [
-        "Show HN"
-      ],
-      "hot_score": 0.26
+      "hot_score": 0.21
     },
     {
       "title_en": "Garage Door Spam",
       "url": "https://blog.harrison.page/garage-door-spam/",
       "title_zh": "车库门垃圾通知",
-      "is_new": true,
+      "is_new": false,
       "created_display": "Created: Nov 16, 2026 / 08:13 PT",
       "image_url": "https://harrison.page/harrison.jpg",
       "summary_en": "A garage door opener initially sent notifications whenever the door opened or closed, which made unexpected openings seem meaningful when the owner was away. The owner continued using the myQ app despite its advertisements because the notifications appeared trustworthy.",
@@ -799,45 +1671,21 @@
         "id": 50519231,
         "type": "story",
         "by": "harrisonpage",
-        "score": 893,
-        "descendants": 384,
+        "score": 912,
+        "descendants": 394,
         "time": 1794845616,
         "comments_url": "https://news.ycombinator.com/item?id=50519231"
       },
       "tags": [
         "Security"
       ],
-      "hot_score": 0.23
-    },
-    {
-      "title_en": "Show HN: Fast deterministic natural language search for OpenStreetMap data",
-      "url": "https://hippomaps.ch/?q=cafes+by+the+Limmat+100+m+from+the+lake+in+zurich#map=15.02/47.36708/8.54935",
-      "title_zh": "Show HN：面向 OpenStreetMap 数据的快速确定性自然语言搜索",
-      "is_new": true,
-      "created_display": "Created: Nov 19, 2026 / 07:16 PT",
-      "image_url": "https://hippomaps.ch/static/pages/img/en/search.webp?v=5496d14268",
-      "summary_en": "HippoMaps is a map and navigation app built on OpenStreetMap, using a custom Overpass API engine for fast searches of points of interest, areas, and ways. Its deterministic parser, which does not use LLMs, converts natural-language queries into Overpass QL by separating what users want from where they want it. It supports queries involving locations, distances, opening hours, routes, and combinations of these conditions.",
-      "summary_zh": "HippoMaps 是一款基于 OpenStreetMap 的地图与导航应用，使用定制的 Overpass API 引擎快速搜索兴趣点、区域和道路。它的确定性解析器不使用 LLM，而是将自然语言查询转换为 Overpass QL，并区分用户要找的对象及其位置。它支持地点、距离、营业时间、路线以及这些条件的组合查询。",
-      "hn": {
-        "id": 50561199,
-        "type": "story",
-        "by": "vihren",
-        "score": 85,
-        "descendants": 24,
-        "time": 1795101362,
-        "comments_url": "https://news.ycombinator.com/item?id=50561199"
-      },
-      "hot_score": 0.23,
-      "tags": [
-        "Show HN",
-        "Web"
-      ]
+      "hot_score": 0.2
     },
     {
       "title_en": "Floppy3.5: A portable 3.5-inch floppy WiFi NAS",
       "url": "https://github.com/bigcrimping/floppy3.5",
       "title_zh": "Floppy3.5：便携式 3.5 英寸软盘 Wi‑Fi NAS",
-      "is_new": true,
+      "is_new": false,
       "created_display": "Created: Nov 19, 2026 / 06:29 PT",
       "image_url": "https://opengraph.githubassets.com/6fc39ed0e1bd05693ffec5113cfdc2096344986cd7481fa59544d67d89f2254a/bigcrimping/floppy3.5",
       "summary_en": "Floppy3.5 is a portable Wi-Fi NAS that reads 3.5-inch floppy disks, including disks used by older digital cameras such as the Sony Mavica. It displays files and photos through a web page and can copy them to a microSD card. The device supports FAT12 1.44 MB HD disks.",
@@ -846,22 +1694,141 @@
         "id": 50560595,
         "type": "story",
         "by": "fortran77",
-        "score": 71,
-        "descendants": 23,
+        "score": 137,
+        "descendants": 56,
         "time": 1795098589,
         "comments_url": "https://news.ycombinator.com/item?id=50560595"
       },
-      "hot_score": 0.18,
       "tags": [
         "Hardware",
         "Open Source"
+      ],
+      "hot_score": 0.2
+    },
+    {
+      "title_en": "Launch HN: Onlook (YC W25) – An open-source developer tool for designers",
+      "url": "https://github.com/onlook-dev/onlook/",
+      "title_zh": "Launch HN：Onlook（YC W25）——面向设计师的开源开发工具",
+      "is_new": false,
+      "created_display": "Created: Nov 19, 2026 / 08:34 PT",
+      "image_url": "https://opengraph.githubassets.com/9f20494bab716a6b955885a0f35d7771ebb60d16034bf864612953fb62ea679c/onlook-dev/onlook",
+      "summary_en": "Onlook is an open-source desktop app that places a design canvas over a real codebase, allowing designers to work directly in code with an existing agent. Users can work in multiple simultaneous worktrees running the actual app locally, with changes submitted as reviewable or discardable pull requests. The project says more than 25,000 designers and developers have supported it and over 100 people have contributed.",
+      "summary_zh": "Onlook 是一款开源桌面应用，在真实代码库之上提供设计画布，让设计师可以借助现有代理直接进行代码设计。用户可以在多个同时运行真实应用的工作树中操作，并将每次修改提交为可审查或可丢弃的拉取请求。项目方称已有超过 25,000 名设计师和开发者支持该项目，贡献者超过 100 人。",
+      "hn": {
+        "id": 50562320,
+        "type": "story",
+        "by": "D_R_Farrell",
+        "score": 124,
+        "descendants": 85,
+        "time": 1795106044,
+        "comments_url": "https://news.ycombinator.com/item?id=50562320"
+      },
+      "tags": [
+        "Open Source",
+        "Design",
+        "Startups"
+      ],
+      "hot_score": 0.2
+    },
+    {
+      "title_en": "Show HN: Fast deterministic natural language search for OpenStreetMap data",
+      "url": "https://hippomaps.ch/?q=cafes+by+the+Limmat+100+m+from+the+lake+in+zurich#map=15.02/47.36708/8.54935",
+      "title_zh": "Show HN：面向 OpenStreetMap 数据的快速确定性自然语言搜索",
+      "is_new": false,
+      "created_display": "Created: Nov 19, 2026 / 07:16 PT",
+      "image_url": "https://hippomaps.ch/static/pages/img/en/search.webp?v=5496d14268",
+      "summary_en": "HippoMaps is a map and navigation app built on OpenStreetMap, using a custom Overpass API engine for fast searches of points of interest, areas, and ways. Its deterministic parser, which does not use LLMs, converts natural-language queries into Overpass QL by separating what users want from where they want it. It supports queries involving locations, distances, opening hours, routes, and combinations of these conditions.",
+      "summary_zh": "HippoMaps 是一款基于 OpenStreetMap 的地图与导航应用，使用定制的 Overpass API 引擎快速搜索兴趣点、区域和道路。它的确定性解析器不使用 LLM，而是将自然语言查询转换为 Overpass QL，并区分用户要找的对象及其位置。它支持地点、距离、营业时间、路线以及这些条件的组合查询。",
+      "hn": {
+        "id": 50561199,
+        "type": "story",
+        "by": "vihren",
+        "score": 123,
+        "descendants": 32,
+        "time": 1795101362,
+        "comments_url": "https://news.ycombinator.com/item?id=50561199"
+      },
+      "tags": [
+        "Show HN",
+        "Web"
+      ],
+      "hot_score": 0.18
+    },
+    {
+      "title_en": "Show HN: Foolscap – a writing app that reads your book and never writes for you",
+      "url": "https://foolscap.works/",
+      "title_zh": "Show HN：Foolscap，一款阅读你的书却永远不替你写作的应用",
+      "is_new": false,
+      "created_display": "Created: Nov 19, 2026 / 05:21 PT",
+      "image_url": "https://foolscap.works/share.png?v=3",
+      "summary_en": "Foolscap reads a manuscript as it is written and identifies its characters, ideas, narrative threads, and unresolved elements. Writers can respond to those observations in a dialogue, while a connected agent can answer questions about the book and perform actions. The system does not write directly into the user's work and is intended to support rather than bypass the creative process.",
+      "summary_zh": "Foolscap 会在用户写作时读取稿件，识别其中的人物、想法、叙事线索和未解决的内容。作者可以针对这些观察与系统对话，另一个连接的代理则能回答有关书稿的问题并执行操作。系统不会直接写入用户的作品，目标是辅助而非绕过创作过程。",
+      "hn": {
+        "id": 50559749,
+        "type": "story",
+        "by": "atugard",
+        "score": 118,
+        "descendants": 92,
+        "time": 1795094480,
+        "comments_url": "https://news.ycombinator.com/item?id=50559749"
+      },
+      "tags": [
+        "Show HN"
+      ],
+      "hot_score": 0.16
+    },
+    {
+      "title_en": "Reviving the Donkey Car with Erlang",
+      "url": "https://underjord.io/reviving-the-donkey-car-with-erlang.html",
+      "title_zh": "用 Erlang 复兴 Donkey Car",
+      "is_new": true,
+      "created_display": "Created: Nov 20, 2026 / 14:56 PT",
+      "image_url": "https://underjord.io/img/preview.png",
+      "summary_en": "The author is reviving the Donkey Car, a small robot car platform, using Erlang-based Nerves and BEAM Bots rather than the original Python project. The hardware includes Raspberry Pis mounted on an RC-car-like vehicle. The project follows recent developments in the Nerves ecosystem.",
+      "summary_zh": "作者正使用基于 Erlang 的 Nerves 和 BEAM Bots 复兴 Donkey Car 这一小型机器人车平台，而不是采用原有的 Python 项目。硬件是在类似遥控车的车辆上安装 Raspberry Pi。该项目利用了 Nerves 生态近期的发展。",
+      "hn": {
+        "id": 50583535,
+        "type": "story",
+        "by": "lawik",
+        "score": 4,
+        "descendants": 0,
+        "time": 1795215380,
+        "comments_url": "https://news.ycombinator.com/item?id=50583535"
+      },
+      "hot_score": 0.16,
+      "tags": [
+        "Hardware",
+        "Programming"
+      ]
+    },
+    {
+      "title_en": "Ink2Tex",
+      "url": "https://www.inasgroup.net/apps/ink2tex",
+      "title_zh": "Ink2Tex",
+      "is_new": true,
+      "created_display": "Created: Nov 20, 2026 / 14:18 PT",
+      "image_url": "https://www.inasgroup.net/images/ink2tex/og.png",
+      "summary_en": "Ink2Tex converts handwritten or printed mathematics captured by an iPhone or Android phone into editable LaTeX. It also compiles the result to PDF and can hand it off to Overleaf. The app is intended for lecture notes, worked solutions, exams, whiteboards, and textbook pages.",
+      "summary_zh": "Ink2Tex 可以将 iPhone 或 Android 手机拍摄的手写或印刷数学内容转换为可编辑的 LaTeX。它还会将结果编译为 PDF，并支持交给 Overleaf 使用。该应用面向课堂笔记、解题过程、试卷、白板和教材页面等场景。",
+      "hn": {
+        "id": 50583126,
+        "type": "story",
+        "by": "nikoinas",
+        "score": 4,
+        "descendants": 1,
+        "time": 1795213111,
+        "comments_url": "https://news.ycombinator.com/item?id=50583126"
+      },
+      "hot_score": 0.13,
+      "tags": [
+        "Programming"
       ]
     },
     {
       "title_en": "How to CAD Almost Anything",
       "url": "https://ocw.mit.edu/courses/res-16-002-how-to-cad-almost-anything-january-iap-2024/",
       "title_zh": "如何为几乎任何东西创建 CAD 模型",
-      "is_new": true,
+      "is_new": false,
       "created_display": "Created: Nov 16, 2026 / 22:29 PT",
       "image_url": "https://ocw.mit.edu/courses/res-16-002-how-to-cad-almost-anything-january-iap-2024/mit_res_16_002_s24.png",
       "summary_en": "This workshop introduces computer-aided design through reverse-engineering projects involving objects such as mugs, bottles, rockets, jet-engine blades, test dummies, and animated scenes. It emphasizes planning, independent thinking, and choosing appropriate tools rather than simply following engineering drawings. The material also includes interactive examples and links to SolidWorks and Creo resources.",
@@ -870,8 +1837,8 @@
         "id": 50528119,
         "type": "story",
         "by": "o4c",
-        "score": 342,
-        "descendants": 114,
+        "score": 378,
+        "descendants": 141,
         "time": 1794896997,
         "comments_url": "https://news.ycombinator.com/item?id=50528119"
       },
@@ -879,13 +1846,13 @@
         "Education",
         "Design"
       ],
-      "hot_score": 0.12
+      "hot_score": 0.11
     },
     {
       "title_en": "µ-Wire – USB on an ATtiny 10",
       "url": "https://cpldcpu.com/2014/03/19/%c2%b5-wire-usb-on-an-attiny-10/",
       "title_zh": "µ-Wire：在 ATtiny 10 上实现 USB",
-      "is_new": true,
+      "is_new": false,
       "created_display": "Created: Nov 18, 2026 / 05:02 PT",
       "image_url": "https://cpldcpu.com/wp-content/uploads/2014/03/u-wire-test.jpg",
       "summary_en": "The ATtiny10 is a six-pin microcontroller with 1 KB of flash, 32 bytes of SRAM, and a reduced AVR core. The project investigates whether this very small device can be turned into a USB-compatible device. It builds on earlier experiments that used the ATtiny10 for projects such as touch buttons, chiptune playback, and games.",
@@ -894,94 +1861,22 @@
         "id": 50545818,
         "type": "story",
         "by": "mofosyne",
-        "score": 90,
-        "descendants": 11,
+        "score": 122,
+        "descendants": 19,
         "time": 1795006928,
         "comments_url": "https://news.ycombinator.com/item?id=50545818"
       },
-      "hot_score": 0.07,
       "tags": [
         "Hardware",
         "Programming"
-      ]
-    },
-    {
-      "title_en": "Weight-Space Programming builds neural networks like a 1990s researcher",
-      "url": "https://notesbylex.com/weight-space-programming-1990s",
-      "title_zh": "权重空间编程：像 1990 年代的研究人员一样构建神经网络",
-      "is_new": true,
-      "created_display": "Created: Nov 17, 2026 / 14:11 PT",
-      "image_url": "https://notesbylex.com/_media/llm-descent/weight-space-programming-1990s-cover.jpg",
-      "summary_en": "Weight-Space Programming proposes that frontier LLMs can read, write, and edit neural-network weights. In the cited experiment, GPT-6 Astra built a Go-playing network from scratch, then improved it through practice games and weight edits based on loss analysis. The approach resembles a training loop in which a model writes, tests, and revises another network.",
-      "summary_zh": "权重空间编程提出，前沿大语言模型可以读取、写入和编辑神经网络的权重。在所引用的实验中，GPT-6 Astra 从零构建了一个下围棋的网络，并通过练习对局和基于损失分析的权重修改来改进它。这种方法类似于一个由模型编写、测试并修改另一个网络的训练循环。",
-      "hn": {
-        "id": 50538977,
-        "type": "story",
-        "by": "lexandstuff",
-        "score": 114,
-        "descendants": 10,
-        "time": 1794953506,
-        "comments_url": "https://news.ycombinator.com/item?id=50538977"
-      },
-      "tags": [
-        "AI",
-        "Programming"
       ],
-      "hot_score": 0.06
-    },
-    {
-      "title_en": "Show HN: Tinnitus frequency finder and audio notch tool",
-      "url": "https://trynotched.com/find",
-      "title_zh": "耳鸣频率查找器与音频陷波工具",
-      "is_new": true,
-      "created_display": "Created: Nov 17, 2026 / 19:40 PT",
-      "image_url": "https://trynotched.com/og-find.png",
-      "summary_en": "This free browser-based tool guides users through matching the pitch of their tinnitus in about four minutes. It sets safe listening levels, checks for octave mix-ups, and reports a frequency with an estimated range. No sign-up is required, and the tool says that no audio is recorded or sent anywhere; it is not a hearing test or diagnosis.",
-      "summary_zh": "这款免费的浏览器工具会引导用户在约四分钟内匹配耳鸣音调。它设置安全的聆听音量、检查八度音混淆，并给出带估计范围的频率结果。工具无需注册，也不会录音或发送任何数据；它不是听力测试或诊断工具。",
-      "hn": {
-        "id": 50541568,
-        "type": "story",
-        "by": "brianrhea",
-        "score": 98,
-        "descendants": 60,
-        "time": 1794973201,
-        "comments_url": "https://news.ycombinator.com/item?id=50541568"
-      },
-      "hot_score": 0.06,
-      "tags": [
-        "Show HN",
-        "Web"
-      ]
-    },
-    {
-      "title_en": "The Strongest Sokoban Solver",
-      "url": "https://healeycodes.com/introducing-the-worlds-strongest-sokoban-solver",
-      "title_zh": "最强的 Sokoban 求解器",
-      "is_new": true,
-      "created_display": "Created: Nov 16, 2026 / 13:04 PT",
-      "image_url": null,
-      "summary_en": "Soksolv solves more levels than any previously published Sokoban solver on both standard benchmark suites, including 24 automated solves that had not been achieved before. It is also about 3.2 times faster overall on levels that other solvers can solve. The project was built through one long Claude Code session using roughly 430 subagents, at an reported API-equivalent cost of about $3,500.",
-      "summary_zh": "在两套标准基准测试中，Soksolv 解决的关卡数量超过此前发布的所有 Sokoban 求解器，其中包括 24 个此前未实现的自动解关。对于其他求解器能够解决的关卡，它的总耗时还快约 3.2 倍。该项目通过一次持续较长的 Claude Code 会话构建，使用了约 430 个子代理，报告的 API 等价成本约为 3500 美元。",
-      "hn": {
-        "id": 50523241,
-        "type": "story",
-        "by": "ibobev",
-        "score": 113,
-        "descendants": 27,
-        "time": 1794863041,
-        "comments_url": "https://news.ycombinator.com/item?id=50523241"
-      },
-      "hot_score": 0.03,
-      "tags": [
-        "Programming",
-        "AI"
-      ]
+      "hot_score": 0.07
     },
     {
       "title_en": "Show HN: I made an audio-to-MIDI model 60x more efficient",
       "url": "https://kobi.music/research/dettato",
       "title_zh": "Show HN：我做了一个效率提升 60 倍的音频转 MIDI 模型",
-      "is_new": true,
+      "is_new": false,
       "created_display": "Created: Nov 16, 2026 / 17:03 PT",
       "image_url": "https://kobi.music/og.png",
       "summary_en": "The creator released dettato, an open-weight model for transcribing audio into MIDI. It reportedly outperforms MusiCтор 1.3B on every tested set while being roughly 60 times smaller. The model was trained without copyrighted recordings.",
@@ -990,114 +1885,118 @@
         "id": 50526023,
         "type": "story",
         "by": "hidude562",
-        "score": 93,
-        "descendants": 19,
+        "score": 241,
+        "descendants": 50,
         "time": 1794877385,
         "comments_url": "https://news.ycombinator.com/item?id=50526023"
       },
-      "hot_score": 0.03,
       "tags": [
         "Show HN",
         "AI"
-      ]
+      ],
+      "hot_score": 0.06
     },
     {
-      "title_en": "Bit Shifting in Basic",
-      "url": "https://subethasoftware.com/2020/06/11/bit-shifting-in-basic/",
-      "title_zh": "Basic 中的位移",
-      "is_new": true,
-      "created_display": "Created: Nov 16, 2026 / 11:04 PT",
-      "image_url": "https://i0.wp.com/subethasoftware.com/wp-content/uploads/2020/04/BASIC16BitShiftSplit.png?fit=752%2C614&ssl=1",
-      "summary_en": "The author created a program to generate shifted frames for 8×8 graphics characters on the Commodore VIC-20. Instead of editing every character position manually, the approach defines one character and uses bit shifting to produce the other offset frames. The project was motivated by designing graphics for two-character blocks.",
-      "summary_zh": "作者编写了一个程序，为 Commodore VIC-20 上的 8×8 图形字符生成位移帧。与其手动编辑每个字符位置，不如先定义一个字符，再利用位移操作生成其他偏移帧。这个项目源于为双字符块设计图形的需求。",
+      "title_en": "Show HN: Tinnitus frequency finder and audio notch tool",
+      "url": "https://trynotched.com/find",
+      "title_zh": "耳鸣频率查找器与音频陷波工具",
+      "is_new": false,
+      "created_display": "Created: Nov 17, 2026 / 19:40 PT",
+      "image_url": "https://trynotched.com/og-find.png",
+      "summary_en": "This free browser-based tool guides users through matching the pitch of their tinnitus in about four minutes. It sets safe listening levels, checks for octave mix-ups, and reports a frequency with an estimated range. No sign-up is required, and the tool says that no audio is recorded or sent anywhere; it is not a hearing test or diagnosis.",
+      "summary_zh": "这款免费的浏览器工具会引导用户在约四分钟内匹配耳鸣音调。它设置安全的聆听音量、检查八度音混淆，并给出带估计范围的频率结果。工具无需注册，也不会录音或发送任何数据；它不是听力测试或诊断工具。",
       "hn": {
-        "id": 50521512,
+        "id": 50541568,
         "type": "story",
-        "by": "efren6",
-        "score": 59,
-        "descendants": 6,
-        "time": 1794855876,
-        "comments_url": "https://news.ycombinator.com/item?id=50521512"
+        "by": "brianrhea",
+        "score": 141,
+        "descendants": 107,
+        "time": 1794973201,
+        "comments_url": "https://news.ycombinator.com/item?id=50541568"
       },
-      "hot_score": 0.02,
       "tags": [
+        "Show HN",
+        "Web"
+      ],
+      "hot_score": 0.06
+    },
+    {
+      "title_en": "Weight-Space Programming builds neural networks like a 1990s researcher",
+      "url": "https://notesbylex.com/weight-space-programming-1990s",
+      "title_zh": "权重空间编程：像 1990 年代的研究人员一样构建神经网络",
+      "is_new": false,
+      "created_display": "Created: Nov 17, 2026 / 14:11 PT",
+      "image_url": "https://notesbylex.com/_media/llm-descent/weight-space-programming-1990s-cover.jpg",
+      "summary_en": "Weight-Space Programming proposes that frontier LLMs can read, write, and edit neural-network weights. In the cited experiment, GPT-6 Astra built a Go-playing network from scratch, then improved it through practice games and weight edits based on loss analysis. The approach resembles a training loop in which a model writes, tests, and revises another network.",
+      "summary_zh": "权重空间编程提出，前沿大语言模型可以读取、写入和编辑神经网络的权重。在所引用的实验中，GPT-6 Astra 从零构建了一个下围棋的网络，并通过练习对局和基于损失分析的权重修改来改进它。这种方法类似于一个由模型编写、测试并修改另一个网络的训练循环。",
+      "hn": {
+        "id": 50538977,
+        "type": "story",
+        "by": "lexandstuff",
+        "score": 121,
+        "descendants": 13,
+        "time": 1794953506,
+        "comments_url": "https://news.ycombinator.com/item?id=50538977"
+      },
+      "tags": [
+        "AI",
         "Programming"
+      ],
+      "hot_score": 0.05
+    },
+    {
+      "title_en": "Microsoft announces Windows Server 2028 with hardened security",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-announces-windows-server-2028-with-hardened-security/",
+      "title_zh": "微软宣布 Windows Server 2028，强化默认安全配置",
+      "is_new": true,
+      "created_display": "Created: Nov 18, 2026 / 10:50 PT",
+      "image_url": "https://www.bleepstatic.com/content/hl-images/2026/11/18/Windows__Server.jpg",
+      "summary_en": "Microsoft announced Windows Server 2028 at the Ignite 2026 conference. The release uses a hardened Server Core configuration by default and introduces a new security baseline that allows administrators to relax individual settings. Microsoft says the defaults reduce the work needed to establish a secure baseline from the first day.",
+      "summary_zh": "微软在 Ignite 2026 大会上宣布了 Windows Server 2028。该版本默认采用强化的 Server Core 配置，并引入新的安全基线，允许管理员放宽个别设置。微软表示，这些默认配置将减少从第一天开始建立安全基线所需的工作量。",
+      "hn": {
+        "id": 50550430,
+        "type": "story",
+        "by": "N19PEDL2",
+        "score": 71,
+        "descendants": 83,
+        "time": 1795027835,
+        "comments_url": "https://news.ycombinator.com/item?id=50550430"
+      },
+      "hot_score": 0.05,
+      "tags": [
+        "Security",
+        "Business"
       ]
     },
     {
-      "title_en": "Automatic Checking of Compiler Correctness with E-Graphs",
-      "url": "https://stng.substack.com/p/automatic-checking-of-compiler-correctness",
-      "title_zh": "使用 E-Graph 自动检查编译器正确性",
-      "is_new": true,
-      "created_display": "Created: Nov 17, 2026 / 12:12 PT",
+      "title_en": "The Strongest Sokoban Solver",
+      "url": "https://healeycodes.com/introducing-the-worlds-strongest-sokoban-solver",
+      "title_zh": "最强的 Sokoban 求解器",
+      "is_new": false,
+      "created_display": "Created: Nov 16, 2026 / 13:04 PT",
       "image_url": null,
-      "summary_en": "The project concerns automatically checking compiler correctness with E-Graphs. No further details about its implementation, results, or evaluation are established here.",
-      "summary_zh": "该项目关注使用 E-Graph 自动检查编译器的正确性。现有信息未说明其实现方式、结果或评估情况。",
+      "summary_en": "Soksolv solves more levels than any previously published Sokoban solver on both standard benchmark suites, including 24 automated solves that had not been achieved before. It is also about 3.2 times faster overall on levels that other solvers can solve. The project was built through one long Claude Code session using roughly 430 subagents, at an reported API-equivalent cost of about $3,500.",
+      "summary_zh": "在两套标准基准测试中，Soksolv 解决的关卡数量超过此前发布的所有 Sokoban 求解器，其中包括 24 个此前未实现的自动解关。对于其他求解器能够解决的关卡，它的总耗时还快约 3.2 倍。该项目通过一次持续较长的 Claude Code 会话构建，使用了约 430 个子代理，报告的 API 等价成本约为 3500 美元。",
       "hn": {
-        "id": 50537492,
+        "id": 50523241,
         "type": "story",
-        "by": "g0xA52A2A",
-        "score": 52,
-        "descendants": 0,
-        "time": 1794946354,
-        "comments_url": "https://news.ycombinator.com/item?id=50537492"
+        "by": "ibobev",
+        "score": 137,
+        "descendants": 28,
+        "time": 1794863041,
+        "comments_url": "https://news.ycombinator.com/item?id=50523241"
       },
-      "hot_score": 0.02,
       "tags": [
-        "Programming"
-      ]
-    },
-    {
-      "title_en": "Why the Airbus A321XLR often gets stuck climbing for first few hours of flight",
-      "url": "https://simpleflying.com/airbus-a321xlr-often-stuck-climbing-1st-few-hours-flight/",
-      "title_zh": "为什么空客 A321XLR 在飞行最初几小时经常卡在爬升阶段",
-      "is_new": true,
-      "created_display": "Created: Nov 14, 2026 / 01:13 PT",
-      "image_url": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/11/airbus-a321xlr.png?w=1600&h=900&fit=crop",
-      "summary_en": "The Airbus A321XLR must remain at relatively low altitudes during the first few hours of long-range flights because it takes off carrying large amounts of fuel. As the aircraft burns fuel and becomes lighter, it can climb incrementally to more efficient altitudes. This step-climb technique matches altitude to changing aircraft weight and improves fuel efficiency.",
-      "summary_zh": "空客 A321XLR 在远程航班最初几小时必须保持相对较低的高度，因为起飞时携带了大量燃油。随着燃油消耗、飞机变轻，它可以逐步爬升到更高且更高效的高度。这种阶梯式爬升会根据飞机重量变化调整飞行高度，以提高燃油效率。",
-      "hn": {
-        "id": 50495392,
-        "type": "story",
-        "by": "edward",
-        "score": 64,
-        "descendants": 43,
-        "time": 1794647604,
-        "comments_url": "https://news.ycombinator.com/item?id=50495392"
-      },
-      "hot_score": 0.01,
-      "tags": [
-        "Science"
-      ]
-    },
-    {
-      "title_en": "I can’t believe it’s 1!",
-      "url": "https://aperiodical.com/2026/11/i-cant-believe-its-1/",
-      "title_zh": "我简直不敢相信它是 1！",
-      "is_new": true,
-      "created_display": "Created: Nov 16, 2026 / 11:07 PT",
-      "image_url": "https://aperiodical.com/wp-content/uploads/2026/11/mixed-base.png",
-      "summary_en": "At this year’s MathsJam Gathering, the author gave a five-minute talk about the number 1. A recording of the talk is available, along with a written version intended to provide more time to examine the material.",
-      "summary_zh": "作者在今年的 MathsJam Gathering 上做了一场关于数字 1 的五分钟演讲。演讲提供了录音，作者还撰写了文字版，方便读者用更多时间阅读其中内容。",
-      "hn": {
-        "id": 50521550,
-        "type": "story",
-        "by": "ColinWright",
-        "score": 33,
-        "descendants": 31,
-        "time": 1794856033,
-        "comments_url": "https://news.ycombinator.com/item?id=50521550"
-      },
-      "hot_score": 0.01,
-      "tags": [
-        "Science"
-      ]
+        "Programming",
+        "AI"
+      ],
+      "hot_score": 0.03
     },
     {
       "title_en": "The G1 Garbage Collector",
       "url": "https://dev.java/learn/jvm/tool/garbage-collection/g1gc-overview/",
       "title_zh": "G1 垃圾收集器",
-      "is_new": true,
+      "is_new": false,
       "created_display": "Created: Nov 16, 2026 / 20:29 PT",
       "image_url": "https://dev.java/assets/images/java-logo-vert-blk.png",
       "summary_en": "G1 is the default garbage collector for the JVM in JDK 27 and has been the default in server environments since JDK 9. It aims to balance throughput and latency and is designed for a broad range of workloads. G1 was introduced experimentally in JDK 6u14, became standard in JDK 7u4, and replaced CMS after CMS was deprecated in JDK 9 and removed in JDK 14.",
@@ -1106,22 +2005,212 @@
         "id": 50527444,
         "type": "story",
         "by": "ejboy",
-        "score": 26,
-        "descendants": 5,
+        "score": 102,
+        "descendants": 55,
         "time": 1794889747,
         "comments_url": "https://news.ycombinator.com/item?id=50527444"
       },
-      "hot_score": 0.01,
       "tags": [
         "Programming",
         "DevOps"
+      ],
+      "hot_score": 0.03
+    },
+    {
+      "title_en": "Automatic Checking of Compiler Correctness with E-Graphs",
+      "url": "https://stng.substack.com/p/automatic-checking-of-compiler-correctness",
+      "title_zh": "使用 E-Graph 自动检查编译器正确性",
+      "is_new": false,
+      "created_display": "Created: Nov 17, 2026 / 12:12 PT",
+      "image_url": null,
+      "summary_en": "The project concerns automatically checking compiler correctness with E-Graphs. No further details about its implementation, results, or evaluation are established here.",
+      "summary_zh": "该项目关注使用 E-Graph 自动检查编译器的正确性。现有信息未说明其实现方式、结果或评估情况。",
+      "hn": {
+        "id": 50537492,
+        "type": "story",
+        "by": "g0xA52A2A",
+        "score": 63,
+        "descendants": 0,
+        "time": 1794946354,
+        "comments_url": "https://news.ycombinator.com/item?id=50537492"
+      },
+      "tags": [
+        "Programming"
+      ],
+      "hot_score": 0.02
+    },
+    {
+      "title_en": "Show HN: An API for word timestamps from speech, 75% within 20ms",
+      "url": "https://quebec.yarn.so",
+      "title_zh": "Show HN：语音词级时间戳 API，75% 的结果误差在 20 毫秒内",
+      "is_new": true,
+      "created_display": "Created: Nov 17, 2026 / 07:16 PT",
+      "image_url": null,
+      "summary_en": "Yarn has built Quebec, an API that produces word-level timestamps from speech for video editing. Its decoder restricts each word to within 200 milliseconds of rough timings, and a small CNN based on Whisper Tiny’s first two layers adjusts boundaries by up to 50 milliseconds. The team reports that 75% of timestamps fall within 20 milliseconds of the target.",
+      "summary_zh": "Yarn 开发了 Quebec，这是一个面向视频编辑的语音词级时间戳 API。其解码器将每个词限制在粗略时间点前后 200 毫秒内，并使用基于 Whisper Tiny 前两层的小型 CNN，将词边界调整最多 50 毫秒。团队称，75% 的时间戳误差在 20 毫秒以内。",
+      "hn": {
+        "id": 50532515,
+        "type": "story",
+        "by": "jasperstory",
+        "score": 63,
+        "descendants": 10,
+        "time": 1794928605,
+        "comments_url": "https://news.ycombinator.com/item?id=50532515"
+      },
+      "hot_score": 0.02,
+      "tags": [
+        "Show HN",
+        "Web"
+      ]
+    },
+    {
+      "title_en": "Why the Airbus A321XLR often gets stuck climbing for first few hours of flight",
+      "url": "https://simpleflying.com/airbus-a321xlr-often-stuck-climbing-1st-few-hours-flight/",
+      "title_zh": "为什么空客 A321XLR 在飞行最初几小时经常卡在爬升阶段",
+      "is_new": false,
+      "created_display": "Created: Nov 14, 2026 / 01:13 PT",
+      "image_url": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/11/airbus-a321xlr.png?w=1600&h=900&fit=crop",
+      "summary_en": "The Airbus A321XLR must remain at relatively low altitudes during the first few hours of long-range flights because it takes off carrying large amounts of fuel. As the aircraft burns fuel and becomes lighter, it can climb incrementally to more efficient altitudes. This step-climb technique matches altitude to changing aircraft weight and improves fuel efficiency.",
+      "summary_zh": "空客 A321XLR 在远程航班最初几小时必须保持相对较低的高度，因为起飞时携带了大量燃油。随着燃油消耗、飞机变轻，它可以逐步爬升到更高且更高效的高度。这种阶梯式爬升会根据飞机重量变化调整飞行高度，以提高燃油效率。",
+      "hn": {
+        "id": 50495392,
+        "type": "story",
+        "by": "edward",
+        "score": 86,
+        "descendants": 57,
+        "time": 1794647604,
+        "comments_url": "https://news.ycombinator.com/item?id=50495392"
+      },
+      "tags": [
+        "Science"
+      ],
+      "hot_score": 0.01
+    },
+    {
+      "title_en": "Bit Shifting in Basic",
+      "url": "https://subethasoftware.com/2020/06/11/bit-shifting-in-basic/",
+      "title_zh": "Basic 中的位移",
+      "is_new": false,
+      "created_display": "Created: Nov 16, 2026 / 11:04 PT",
+      "image_url": "https://i0.wp.com/subethasoftware.com/wp-content/uploads/2020/04/BASIC16BitShiftSplit.png?fit=752%2C614&ssl=1",
+      "summary_en": "The author created a program to generate shifted frames for 8×8 graphics characters on the Commodore VIC-20. Instead of editing every character position manually, the approach defines one character and uses bit shifting to produce the other offset frames. The project was motivated by designing graphics for two-character blocks.",
+      "summary_zh": "作者编写了一个程序，为 Commodore VIC-20 上的 8×8 图形字符生成位移帧。与其手动编辑每个字符位置，不如先定义一个字符，再利用位移操作生成其他偏移帧。这个项目源于为双字符块设计图形的需求。",
+      "hn": {
+        "id": 50521512,
+        "type": "story",
+        "by": "efren6",
+        "score": 66,
+        "descendants": 12,
+        "time": 1794855876,
+        "comments_url": "https://news.ycombinator.com/item?id=50521512"
+      },
+      "tags": [
+        "Programming"
+      ],
+      "hot_score": 0.01
+    },
+    {
+      "title_en": "I can’t believe it’s 1!",
+      "url": "https://aperiodical.com/2026/11/i-cant-believe-its-1/",
+      "title_zh": "我简直不敢相信它是 1！",
+      "is_new": false,
+      "created_display": "Created: Nov 16, 2026 / 11:07 PT",
+      "image_url": "https://aperiodical.com/wp-content/uploads/2026/11/mixed-base.png",
+      "summary_en": "At this year’s MathsJam Gathering, the author gave a five-minute talk about the number 1. A recording of the talk is available, along with a written version intended to provide more time to examine the material.",
+      "summary_zh": "作者在今年的 MathsJam Gathering 上做了一场关于数字 1 的五分钟演讲。演讲提供了录音，作者还撰写了文字版，方便读者用更多时间阅读其中内容。",
+      "hn": {
+        "id": 50521550,
+        "type": "story",
+        "by": "ColinWright",
+        "score": 46,
+        "descendants": 54,
+        "time": 1794856033,
+        "comments_url": "https://news.ycombinator.com/item?id=50521550"
+      },
+      "tags": [
+        "Science"
+      ],
+      "hot_score": 0.01
+    },
+    {
+      "title_en": "Valkey kills the skiplist, cuts sorted set overhead by up to 43%",
+      "url": "https://valkey.io/blog/from-skiplist-to-b+tree/",
+      "title_zh": "Valkey 淘汰跳表，将有序集合开销最多降低 43%",
+      "is_new": true,
+      "created_display": "Created: Nov 17, 2026 / 08:58 PT",
+      "image_url": "https://valkey.io/img/valkey-logo-og.png",
+      "summary_en": "Valkey 9.2 replaces the skiplist used for large sorted sets with a cache-friendly, high-fanout B+ tree variant called fbtree. The change targets cases where metadata describing element ordering consumes more memory than the elements themselves. It reduces memory overhead and improves several ordered-set operations.",
+      "summary_zh": "Valkey 9.2 用一种缓存友好的高扇出 B+ 树变体 fbtree，替换了大型有序集合使用的跳表。此举针对排序元数据占用的内存可能超过元素本身的情况。改动降低了内存开销，并改善了多项有序集合操作。",
+      "hn": {
+        "id": 50534387,
+        "type": "story",
+        "by": "reconditerose",
+        "score": 37,
+        "descendants": 14,
+        "time": 1794934710,
+        "comments_url": "https://news.ycombinator.com/item?id=50534387"
+      },
+      "hot_score": 0.01,
+      "tags": [
+        "Data",
+        "Programming"
+      ]
+    },
+    {
+      "title_en": "Lovable: Now you can explore any idea in parallel without touching what's live",
+      "url": "https://lovable.dev/blog/introducing-drafts",
+      "title_zh": "Lovable：并行探索任意想法，不影响线上应用",
+      "is_new": true,
+      "created_display": "Created: Nov 17, 2026 / 05:22 PT",
+      "image_url": "https://assets.lovable.dev/content/news/covers/introducing-drafts-2026-11-15.png",
+      "summary_en": "Lovable has introduced drafts, which let teams explore multiple versions of an app while leaving the live app unchanged. A draft copies the entire app, including its design and database, and provides its own chat and preview. Changes remain isolated until a user accepts the draft and publishes it.",
+      "summary_zh": "Lovable 推出了 drafts 功能，让团队可以探索应用的多个版本，同时保持线上应用不变。每个草稿都会复制整个应用，包括设计和数据库，并拥有独立的聊天界面和预览。只有在用户接受草稿并发布后，修改才会上线。",
+      "hn": {
+        "id": 50531009,
+        "type": "story",
+        "by": "doener",
+        "score": 33,
+        "descendants": 24,
+        "time": 1794921738,
+        "comments_url": "https://news.ycombinator.com/item?id=50531009"
+      },
+      "hot_score": 0.01,
+      "tags": [
+        "Startups",
+        "Web",
+        "Data"
+      ]
+    },
+    {
+      "title_en": "Teskooano: A 3D N-body simulator in the browser",
+      "url": "https://teskooano.space/",
+      "title_zh": "Teskooano：浏览器中的三维 N 体模拟器",
+      "is_new": true,
+      "created_display": "Created: Nov 18, 2026 / 04:02 PT",
+      "image_url": "https://teskooano.space/og/index.png",
+      "summary_en": "Teskooano is a browser-based simulator for exploring the Solar System and procedurally generated star systems. It uses real N-body physics and can display the Solar System in its current arrangement.",
+      "summary_zh": "Teskooano 是一个基于浏览器的模拟器，用于探索太阳系和程序生成的恒星系统。它采用真实的 N 体物理，并能展示当前布局的太阳系。",
+      "hn": {
+        "id": 50545262,
+        "type": "story",
+        "by": "robin_reala",
+        "score": 18,
+        "descendants": 1,
+        "time": 1795003379,
+        "comments_url": "https://news.ycombinator.com/item?id=50545262"
+      },
+      "hot_score": 0.01,
+      "tags": [
+        "Web",
+        "Science",
+        "Energy"
       ]
     },
     {
       "title_en": "Can I borrow a lunar rover? (2013)",
       "url": "https://space.stackexchange.com/questions/2095",
       "title_zh": "我能借用一辆月球车吗？（2013）",
-      "is_new": true,
+      "is_new": false,
       "created_display": "Created: Nov 17, 2026 / 18:13 PT",
       "image_url": null,
       "summary_en": "The item asks whether it is possible to borrow a lunar rover. No further details about the question or its answer are established here.",
@@ -1130,21 +2219,45 @@
         "id": 50541018,
         "type": "story",
         "by": "Skyfall106",
-        "score": 14,
-        "descendants": 14,
+        "score": 17,
+        "descendants": 15,
         "time": 1794968015,
         "comments_url": "https://news.ycombinator.com/item?id=50541018"
       },
-      "hot_score": 0.01,
       "tags": [
         "Space"
+      ],
+      "hot_score": 0.01
+    },
+    {
+      "title_en": "LZ-RDO lands in ARM's astc-encoder",
+      "url": "https://www.jonolick.com/home/lz-rdo-lands-in-arms-astc-encoder",
+      "title_zh": "LZ-RDO 已进入 Arm 的 astc-encoder",
+      "is_new": true,
+      "created_display": "Created: Nov 18, 2026 / 06:23 PT",
+      "image_url": "http://www.jonolick.com/uploads/7/9/2/1/7921194/d274570313052c4e_orig.png",
+      "summary_en": "The author’s rate-distortion optimization work for ASTC has been merged into Arm’s astc-encoder in pull request 781. Fabian “ryg” Giesen added optimizations and improvements to the original implementation before landing it. The change is now part of the public compressor implementation.",
+      "summary_zh": "作者为 ASTC 开发的率失真优化工作已通过第 781 号拉取请求合并进 Arm 的 astc-encoder。Fabian“ryg”Giesen 在原始实现基础上加入了优化和改进，随后完成合并。该改动现已成为公开压缩器实现的一部分。",
+      "hn": {
+        "id": 50546676,
+        "type": "story",
+        "by": "dverlaeckt80",
+        "score": 16,
+        "descendants": 0,
+        "time": 1795011804,
+        "comments_url": "https://news.ycombinator.com/item?id=50546676"
+      },
+      "hot_score": 0.01,
+      "tags": [
+        "Hardware",
+        "Programming"
       ]
     },
     {
       "title_en": "Show HN: Radiotherapy Delivery Demo",
       "url": "https://tps.neuralrad.com",
       "title_zh": "Show HN：放疗递送演示",
-      "is_new": true,
+      "is_new": false,
       "created_display": "Created: Nov 14, 2026 / 11:30 PT",
       "image_url": "https://tps.neuralrad.com/brand/utsw.png",
       "summary_en": "A treatment-planning demo uses WebAssembly and WebGPU to display two-dimensional and three-dimensional treatment delivery and to run GPU-accelerated dose calculations in the browser. The system is intended to make treatment-planning technology more accessible and easier to explain to patients. It was originally developed at UT Southwestern Medical Center with three.js, then rewritten by Neuralrad using Rust and a WebAssembly module.",
@@ -1153,48 +2266,25 @@
         "id": 50500000,
         "type": "story",
         "by": "coolwulf",
-        "score": 17,
-        "descendants": 6,
+        "score": 20,
+        "descendants": 10,
         "time": 1794684616,
         "comments_url": "https://news.ycombinator.com/item?id=50500000"
       },
-      "hot_score": 0.0,
       "tags": [
         "Show HN",
         "Web",
         "Health",
         "Programming",
         "Hardware"
-      ]
-    },
-    {
-      "title_en": "The Specialization of Desire",
-      "url": "https://summerlightning.substack.com/p/the-specialization-of-desire",
-      "title_zh": "欲望的专业化",
-      "is_new": true,
-      "created_display": "Created: Nov 13, 2026 / 06:45 PT",
-      "image_url": null,
-      "summary_en": "The piece is titled “The Specialization of Desire.” No further details about its subject or argument are established here.",
-      "summary_zh": "这篇作品的标题是《欲望的专业化》。现有信息未说明其具体主题或论点。",
-      "hn": {
-        "id": 50484268,
-        "type": "story",
-        "by": "jger15",
-        "score": 7,
-        "descendants": 0,
-        "time": 1794581122,
-        "comments_url": "https://news.ycombinator.com/item?id=50484268"
-      },
-      "hot_score": 0.0,
-      "tags": [
-        "Culture"
-      ]
+      ],
+      "hot_score": 0.0
     },
     {
       "title_en": "Creativity in Negative Space",
       "url": "https://spf13.com/p/creativity-in-negative-space/",
       "title_zh": "负空间中的创造力",
-      "is_new": true,
+      "is_new": false,
       "created_display": "Created: Nov 16, 2026 / 09:45 PT",
       "image_url": "https://spf13.com/p/creativity-in-negative-space/hero.png",
       "summary_en": "The essay argues that AI is strongest in “positive space,” where culture has already established patterns and categories. It contrasts this with human creativity, which it places in “negative space”: gaps that have not yet been named. The discussion comes as AI becomes increasingly capable of summarization, boilerplate code, translation, and image generation.",
@@ -1203,15 +2293,110 @@
         "id": 50520420,
         "type": "story",
         "by": "mfrw",
-        "score": 5,
-        "descendants": 1,
+        "score": 17,
+        "descendants": 8,
         "time": 1794851103,
         "comments_url": "https://news.ycombinator.com/item?id=50520420"
       },
-      "hot_score": 0.0,
       "tags": [
         "AI",
         "Culture"
+      ],
+      "hot_score": 0.0
+    },
+    {
+      "title_en": "Show HN: Professor Euler – Offline math desk, 300-function CAS, workbooks",
+      "url": "https://euler.dawei7.com",
+      "title_zh": "Show HN：Professor Euler——离线数学桌面、300 项 CAS 与练习册",
+      "is_new": true,
+      "created_display": "Created: Nov 17, 2026 / 12:21 PT",
+      "image_url": null,
+      "summary_en": "Professor Euler is a free study app for adults that runs on Android phones, tablets, and Windows. It provides a mathematics curriculum from Grade 6 through a master’s degree, with support for handwriting, user-provided AI providers, textbooks, and lectures. Topics include explanations, worked examples, common mistakes, summaries, exercises, review rounds, and course exams.",
+      "summary_zh": "Professor Euler 是一款免费的成人学习应用，可运行于 Android 手机、平板和 Windows。它提供从六年级到硕士阶段的数学课程，支持手写、用户自带的 AI 服务、教材和讲座。每个主题包含概念讲解、例题、常见错误、总结、练习、复习轮次和课程考试。",
+      "hn": {
+        "id": 50537626,
+        "type": "story",
+        "by": "dawei7",
+        "score": 13,
+        "descendants": 0,
+        "time": 1794946912,
+        "comments_url": "https://news.ycombinator.com/item?id=50537626"
+      },
+      "hot_score": 0.0,
+      "tags": [
+        "Show HN",
+        "Education",
+        "AI"
+      ]
+    },
+    {
+      "title_en": "The Specialization of Desire",
+      "url": "https://summerlightning.substack.com/p/the-specialization-of-desire",
+      "title_zh": "欲望的专业化",
+      "is_new": false,
+      "created_display": "Created: Nov 13, 2026 / 06:45 PT",
+      "image_url": null,
+      "summary_en": "The piece is titled “The Specialization of Desire.” No further details about its subject or argument are established here.",
+      "summary_zh": "这篇作品的标题是《欲望的专业化》。现有信息未说明其具体主题或论点。",
+      "hn": {
+        "id": 50484268,
+        "type": "story",
+        "by": "jger15",
+        "score": 10,
+        "descendants": 0,
+        "time": 1794581122,
+        "comments_url": "https://news.ycombinator.com/item?id=50484268"
+      },
+      "tags": [
+        "Culture"
+      ],
+      "hot_score": 0.0
+    },
+    {
+      "title_en": "Replacing implicit optionals with a None type in TypeDB",
+      "url": "https://typedb.com/blog/replacing-implicit-optionals-with-a-none-type-in-typedb",
+      "title_zh": "在 TypeDB 中用 None 类型替代隐式可选值",
+      "is_new": true,
+      "created_display": "Created: Nov 17, 2026 / 10:03 PT",
+      "image_url": "https://cdn.sanity.io/images/xndl14mc/production/c513722b53e57176dcc019e939e7ae01a9c3140e-1920x1080.png?fm=jpg",
+      "summary_en": "TypeDB is changing its optionality semantics from implicit handling to a native None type. The previous behavior automatically unwrapped optional values, which could hide bugs and made it impossible to condition on emptiness. The new design requires explicit handling, similar to Rust or Kotlin.",
+      "summary_zh": "TypeDB 将可选值语义从隐式处理改为原生 None 类型。此前的行为会自动解包可选值，可能掩盖错误，也无法根据值是否为空进行条件判断。新设计要求显式处理，方式类似 Rust 或 Kotlin。",
+      "hn": {
+        "id": 50535504,
+        "type": "story",
+        "by": "flyingsilverfin",
+        "score": 8,
+        "descendants": 1,
+        "time": 1794938598,
+        "comments_url": "https://news.ycombinator.com/item?id=50535504"
+      },
+      "hot_score": 0.0,
+      "tags": [
+        "Programming"
+      ]
+    },
+    {
+      "title_en": "Forking TuxGuitar into a 17-EDO tab editor",
+      "url": "https://frogwizard.bearblog.dev/tuxguitar-17edo/",
+      "title_zh": "将 TuxGuitar 分叉为 17-EDO 制谱编辑器",
+      "is_new": true,
+      "created_display": "Created: Nov 18, 2026 / 09:41 PT",
+      "image_url": "https://bearblog.dev/static/og-image.png",
+      "summary_en": "TuxGuitar 17EDO is a fork of TuxGuitar 2.1.0 for instruments using 17 equal divisions of the octave. It changes the tab, staff, fretboard, and synthesizer from 12-EDO to 17-EDO, with no 12-EDO mode. The specification is detailed enough for a coding agent to reproduce the changes from a stock checkout.",
+      "summary_zh": "TuxGuitar 17EDO 是面向 17 平均律乐器的 TuxGuitar 2.1.0 分支。它将六线谱、五线谱、指板和合成器全部从 12 平均律改为 17 平均律，并不提供 12 平均律模式。相关规格说明足够详细，编码代理可以据此从原版代码重新实现这些修改。",
+      "hn": {
+        "id": 50549441,
+        "type": "story",
+        "by": "speckx",
+        "score": 6,
+        "descendants": 4,
+        "time": 1795023717,
+        "comments_url": "https://news.ycombinator.com/item?id=50549441"
+      },
+      "hot_score": 0.0,
+      "tags": [
+        "Programming",
+        "Open Source"
       ]
     }
   ]
