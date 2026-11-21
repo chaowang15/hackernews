@@ -5,21 +5,9 @@
     <link>https://chaowang15.github.io/hackernews/</link>
     <description>Curated daily digest of top Hacker News stories with AI-generated summaries, tags, and bilingual translations.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 21 Nov 2026 02:07:14 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 16:05:39 +0000</lastBuildDate>
     <generator>Hacker News Daily RSS Builder</generator>
     <atom:link href="https://chaowang15.github.io/hackernews/feed.xml" rel="self" type="application/rss+xml"/>
-    <item>
-      <title>Jensen Huang resigns</title>
-      <link>https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50467087</guid>
-      <dc:creator>lldb</dc:creator>
-      <pubDate>Thu, 12 Nov 2026 13:52:29 +0000</pubDate>
-      <category>Business</category>
-      <description>&lt;p&gt;Jensen Huang has resigned. The available material does not provide reliable details about the timing, reasons, or succession. The departure marks a leadership change at Nvidia.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;黄仁勋已辞职。现有材料没有提供有关时间、原因或继任安排的可靠细节。这意味着英伟达将发生领导层变动。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 4043 · 💬 3443 · Business&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50467087&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/14/top_stories_11142026#story-50467087&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
     <item>
       <title>Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]</title>
       <link>https://alpo.ge/remark.pdf</link>
@@ -29,8 +17,8 @@
       <category>Science</category>
       <description>&lt;p&gt;Levent Alpöge claims to have found a proof of the Generalized Riemann Hypothesis. The claim is presented in a PDF.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Levent Alpöge 声称找到了广义黎曼猜想的证明。相关论证以 PDF 形式发布。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 2377 · 💬 1605 · Science&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50574968&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/20/top_stories_11202026#story-50574968&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+&lt;p&gt;&lt;small&gt;▲ 2783 · 💬 1951 · Science&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50574968&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/21/top_stories_11212026#story-50574968&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Carnegie Mellon is putting computer science courses on YouTube for free</title>
@@ -45,6 +33,18 @@
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50522980&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/17/top_stories_11172026#story-50522980&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Hurried Announcement: Alessandro Masullo GRH</title>
+      <link>https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50579568</guid>
+      <dc:creator>jasondavies</dc:creator>
+      <pubDate>Fri, 20 Nov 2026 18:33:14 +0000</pubDate>
+      <category>Science</category>
+      <description>&lt;p&gt;Alessandro Masullo has proposed a proof of the Generalized Riemann Hypothesis. Brian Conrad has reviewed it closely for months, provided extensive feedback, and considers the draft to be looking good so far. The authors had hoped to refine it at Stanford before announcing it, but decided to release the current draft so others could check and formalize it.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Alessandro Masullo 提出了一份广义黎曼猜想的证明。Brian Conrad 已经对其进行了数月的仔细审阅，并提供了大量反馈，目前认为证明草稿看起来不错。原计划是在斯坦福进一步完善后再公布，但现在决定先发布当前版本，供其他人检查和形式化。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 2276 · 💬 1078 · Science&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50579568&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/21/top_stories_11212026#story-50579568&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>SpaceX catches the Starship to end Flight 15</title>
       <link>https://www.spacex.com/launches/starship-flight-15</link>
       <guid isPermaLink="true">https://news.ycombinator.com/item?id=50500963</guid>
@@ -55,30 +55,6 @@
 &lt;p&gt;&lt;em&gt;SpaceX 的星舰第 15 次飞行以发射系统接住飞行器告终。现有信息未提供这次飞行或捕获过程的更多细节。&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;▲ 1742 · 💬 1349 · Space&lt;/small&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50500963&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/16/top_stories_11162026#story-50500963&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>FAA issues national ground stop – lifted 4.5 hours later</title>
-      <link>https://www.nbcnews.com/news/us-news/faa-orders-nationwide-ground-stop-departing-flights-reasons-safety-rcna609247</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50489641</guid>
-      <dc:creator>zulln</dc:creator>
-      <pubDate>Fri, 13 Nov 2026 21:05:53 +0000</pubDate>
-      <category>Politics</category>
-      <description>&lt;p&gt;The FAA issued a national ground stop affecting departing flights. The available records identify the action but do not provide reliable details about its duration, cause, or operational impact.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;美国联邦航空管理局发布了影响出发航班的全国地面停飞令。现有记录确认了这一措施，但未提供其持续时间、原因或运行影响的可靠细节。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 1638 · 💬 1270 · Politics&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50489641&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/14/top_stories_11142026#story-50489641&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Hurried Announcement: Alessandro Masullo GRH</title>
-      <link>https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50579568</guid>
-      <dc:creator>jasondavies</dc:creator>
-      <pubDate>Fri, 20 Nov 2026 18:33:14 +0000</pubDate>
-      <category>Science</category>
-      <description>&lt;p&gt;Alessandro Masullo has proposed a proof of the Generalized Riemann Hypothesis. Brian Conrad has reviewed it closely for months, provided extensive feedback, and considers the draft to be looking good so far. The authors had hoped to refine it at Stanford before announcing it, but decided to release the current draft so others could check and formalize it.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Alessandro Masullo 提出了一份广义黎曼猜想的证明。Brian Conrad 已经对其进行了数月的仔细审阅，并提供了大量反馈，目前认为证明草稿看起来不错。原计划是在斯坦福进一步完善后再公布，但现在决定先发布当前版本，供其他人检查和形式化。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 1583 · 💬 723 · Science&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50579568&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/20/top_stories_11202026#story-50579568&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Unauthenticated remote code execution in Nginx</title>
@@ -129,6 +105,19 @@
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50538240&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/19/top_stories_11192026#story-50538240&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Inkling 2 Mini</title>
+      <link>https://thinkingmachines.ai/news/inkling-2-mini/</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50581260</guid>
+      <dc:creator>jasondavies</dc:creator>
+      <pubDate>Fri, 20 Nov 2026 20:12:19 +0000</pubDate>
+      <category>AI</category>
+      <category>Open Source</category>
+      <description>&lt;p&gt;Thinking Machines has released Inkling 2 Mini, an open-weights model small enough to run on a laptop. It is a looped transformer that runs its middle layers three times per token, allowing it to reason more and use fewer tokens. The model reportedly leads open-weights models under 100 billion total parameters on DeepSWE v1.1 and Vals Index v2.2, while also running faster than similarly performing models.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Thinking Machines 发布了 Inkling 2 Mini，这是一款小到可以在笔记本电脑上运行的开放权重模型。它采用循环 Transformer，每个 token 将中间层运行三次，从而进行更多推理并减少 token 使用量。据称，在总参数量低于 1000 亿的开放权重模型中，它在 DeepSWE v1.1 和 Vals Index v2.2 上处于领先，同时运行速度也快于性能相近的模型。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 1175 · 💬 226 · AI · Open Source&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50581260&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/21/top_stories_11212026#story-50581260&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Anthropic’s Nasdaq debut</title>
       <link>https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/</link>
       <guid isPermaLink="true">https://news.ycombinator.com/item?id=50562754</guid>
@@ -154,20 +143,6 @@
 &lt;p&gt;&lt;em&gt;作者主张，所有借助 AI 生成的代码都应以开源许可证或 CC0 许可发布。其理由是，AI 模型训练使用了大量公开的开源代码，以及通常要求署名的 Stack Overflow 和相关网站内容。作者认为，将这些共享知识转化为专有闭源代码近似于“许可证洗白”。&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;▲ 1094 · 💬 595 · AI · Open Source&lt;/small&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50507303&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/15/top_stories_11152026#story-50507303&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs</title>
-      <link>https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50493251</guid>
-      <dc:creator>speckx</dc:creator>
-      <pubDate>Sat, 14 Nov 2026 02:52:59 +0000</pubDate>
-      <category>AI</category>
-      <category>Business</category>
-      <category>Hardware</category>
-      <description>&lt;p&gt;A new report, citing The Wall Street Journal, alleges that NVIDIA increased the GPU and memory shortage by investing in AI startups that then bought NVIDIA GPUs and built data centers. The allegation emerged after Jensen Huang’s departure as NVIDIA’s CEO, according to the supplied report. The claim concerns whether the company’s financing activity helped inflate demand for its own hardware.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;一份援引《华尔街日报》的新报告称，英伟达通过投资 AI 初创公司，促使这些公司购买英伟达 GPU 并建设数据中心，从而加剧了 GPU 和内存短缺。报告称，这一指控是在 Jensen Huang 离任英伟达 CEO 后出现的。争议焦点在于，英伟达的融资活动是否帮助推高了对其自有硬件的需求。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 1036 · 💬 621 · AI · Business · Hardware&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50493251&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/14/top_stories_11142026#story-50493251&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Gemini 4 Neon</title>
@@ -219,18 +194,6 @@
 &lt;p&gt;&lt;em&gt;一款车库门开启器最初会在车门开关时发送通知，因此人在外出时，异常开门会显得格外重要。尽管 myQ 应用广告很多，用户仍因信任这些通知而继续使用它。&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;▲ 912 · 💬 394 · Security&lt;/small&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50519231&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/20/top_stories_11202026#story-50519231&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Rust 1.100</title>
-      <link>https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50472038</guid>
-      <dc:creator>mbStavola</dc:creator>
-      <pubDate>Thu, 12 Nov 2026 18:39:05 +0000</pubDate>
-      <category>Programming</category>
-      <description>&lt;p&gt;The Rust team has released Rust 1.100.0. Rust is described as a language for building reliable and efficient software. Users with an existing rustup installation can install the new version through rustup.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Rust 团队发布了 Rust 1.100.0。Rust 被定位为用于构建可靠、高效软件的编程语言。已经通过 rustup 安装 Rust 的用户可以使用 rustup 获取新版本。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 893 · 💬 320 · Programming&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50472038&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/14/top_stories_11142026#story-50472038&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Quad9's withdrawal from France: A canary in the coal mine</title>
@@ -296,19 +259,6 @@
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50521045&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/17/top_stories_11172026#story-50521045&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Reverse engineering my Coway air purifier to ditch the cloud</title>
-      <link>https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50474959</guid>
-      <dc:creator>scottjg</dc:creator>
-      <pubDate>Thu, 12 Nov 2026 22:03:09 +0000</pubDate>
-      <category>Hardware</category>
-      <category>Privacy</category>
-      <description>&lt;p&gt;During the 2017 wave of annual wildfires on the West Coast, many Bay Area residents bought air purifiers because their homes were poorly insulated and sealed. The author describes buying a Coway Airmega to avoid breathing wildfire soot and reverse-engineering it to remove its dependence on cloud services. The project reflects a broader effort to keep household devices locally controlled.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;2017 年西海岸接连发生野火时，许多湾区居民因为房屋隔热和密封性能较差而购买空气净化器，以避免吸入野火烟尘。作者介绍了自己购买 Coway Airmega，并对其进行逆向工程，以摆脱对云端服务的依赖。这一项目体现了将家用设备控制权保留在本地的尝试。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 785 · 💬 222 · Hardware · Privacy&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50474959&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/14/top_stories_11142026#story-50474959&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>We need smart people who give a shit</title>
       <link>https://violetpixel.com/blog/2026-11-17-we-need-smart-people-who-give-a-shit/</link>
       <guid isPermaLink="true">https://news.ycombinator.com/item?id=50554045</guid>
@@ -359,19 +309,6 @@
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50542705&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/18/top_stories_11182026#story-50542705&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Show HN: My $300 embroidery machine needed a subscription, so I built my own app</title>
-      <link>https://github.com/simpsoka/zigzag</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50470488</guid>
-      <dc:creator>simpsoka</dc:creator>
-      <pubDate>Thu, 12 Nov 2026 17:02:42 +0000</pubDate>
-      <category>Show HN</category>
-      <category>Programming</category>
-      <description>&lt;p&gt;A developer built a replacement app for a $300 embroidery machine that required a subscription. The project is published as Zigzag. The available description does not provide further technical details about the machine or the application.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;一名开发者为一台需要订阅的 300 美元刺绣机编写了替代应用。该项目以 Zigzag 的形式发布。现有描述没有提供有关机器或应用的更多技术细节。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 739 · 💬 253 · Show HN · Programming&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50470488&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/14/top_stories_11142026#story-50470488&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>Apple Services Down</title>
       <link>https://developer.apple.com/system-status/</link>
       <guid isPermaLink="true">https://news.ycombinator.com/item?id=50535238</guid>
@@ -410,19 +347,6 @@
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50524736&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/17/top_stories_11172026#story-50524736&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Inkling 2 Mini</title>
-      <link>https://thinkingmachines.ai/news/inkling-2-mini/</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50581260</guid>
-      <dc:creator>jasondavies</dc:creator>
-      <pubDate>Fri, 20 Nov 2026 20:12:19 +0000</pubDate>
-      <category>AI</category>
-      <category>Open Source</category>
-      <description>&lt;p&gt;Thinking Machines has released Inkling 2 Mini, an open-weights model small enough to run on a laptop. It is a looped transformer that runs its middle layers three times per token, allowing it to reason more and use fewer tokens. The model reportedly leads open-weights models under 100 billion total parameters on DeepSWE v1.1 and Vals Index v2.2, while also running faster than similarly performing models.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Thinking Machines 发布了 Inkling 2 Mini，这是一款小到可以在笔记本电脑上运行的开放权重模型。它采用循环 Transformer，每个 token 将中间层运行三次，从而进行更多推理并减少 token 使用量。据称，在总参数量低于 1000 亿的开放权重模型中，它在 DeepSWE v1.1 和 Vals Index v2.2 上处于领先，同时运行速度也快于性能相近的模型。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 690 · 💬 112 · AI · Open Source&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50581260&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/20/top_stories_11202026#story-50581260&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>Google's AI answers reducing search traffic by 40%</title>
       <link>https://revscope.co/blog/search-seo-geo-2026/</link>
       <guid isPermaLink="true">https://news.ycombinator.com/item?id=50540178</guid>
@@ -448,6 +372,19 @@
 &lt;p&gt;&lt;em&gt;调查权力法庭驳回了英国政府试图对苹果命令保持保密的做法。法庭裁定，政府必须承认其依据《2016 年调查权力法》第 253 条向苹果发出过技术能力通知。这类通知可以要求科技公司修改服务，以协助行使调查权；本案涉及加密 iCloud 数据争议。&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;▲ 689 · 💬 361 · Privacy · Legal · Security · Politics&lt;/small&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50562113&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/20/top_stories_11202026#story-50562113&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>If you can't explain something in simple terms, you don't understand it (2017)</title>
+      <link>https://kottke.org/17/06/if-you-cant-explain-something-in-simple-terms-you-dont-understand-it</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50572355</guid>
+      <dc:creator>sammatilda</dc:creator>
+      <pubDate>Fri, 20 Nov 2026 09:43:19 +0000</pubDate>
+      <category>Education</category>
+      <category>Science</category>
+      <description>&lt;p&gt;In the early 1960s, Richard Feynman delivered a series of undergraduate physics lectures. Those lectures were later collected into the book The Feynman Lectures on Physics.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;20 世纪 60 年代初，理查德·费曼为本科生讲授了一系列物理课程。这些讲座后来被汇编成《费曼物理学讲义》。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 679 · 💬 313 · Education · Science&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50572355&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/21/top_stories_11212026#story-50572355&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Optimizely compromised, served malware on Zoom, GitLab</title>
@@ -488,6 +425,19 @@
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50558533&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/19/top_stories_11192026#story-50558533&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Frostbite: A new CPU architecture discovered, designed and verified by AI</title>
+      <link>https://architectlabs.com/blog/frostbite</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50572503</guid>
+      <dc:creator>shioyama</dc:creator>
+      <pubDate>Fri, 20 Nov 2026 10:01:41 +0000</pubDate>
+      <category>AI</category>
+      <category>Hardware</category>
+      <description>&lt;p&gt;Frostbite is a general-purpose CPU built around interaction nets, with its architecture discovered, designed, and verified end to end by AI systems. The project introduces a new instruction set and exploits local steps, explicit dependencies, and single ownership of values. On the reported benchmark, it reached 4.59 times the performance per watt of a modern dual-issue, in-order CPU core.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Frostbite 是一款基于交互网络的通用 CPU，其架构由 AI 系统端到端完成发现、设计和验证。该项目引入了全新的指令集，并利用局部步骤、显式依赖和数值单一所有权等特性。在所报告的基准测试中，它达到了现代双发射顺序执行 CPU 核心 4.59 倍的每瓦性能。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 657 · 💬 342 · AI · Hardware&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50572503&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/21/top_stories_11212026#story-50572503&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Nvidia stopped disclosing Singapore sales as revenues hit $104B</title>
       <link>https://www.ft.com/content/dbde7a30-548c-4f9d-a4be-7898a0c24dcf</link>
       <guid isPermaLink="true">https://news.ycombinator.com/item?id=50534631</guid>
@@ -499,32 +449,6 @@
 &lt;p&gt;&lt;em&gt;英伟达营收达到 1040 亿美元后，停止披露其在新加坡的销售额。现有信息未说明这一报告变化的具体原因或其他细节。&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;▲ 657 · 💬 295 · Business · Finance&lt;/small&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50534631&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/18/top_stories_11182026#story-50534631&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Frostbite: A new CPU architecture discovered, designed and verified by AI</title>
-      <link>https://architectlabs.com/blog/frostbite</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50572503</guid>
-      <dc:creator>shioyama</dc:creator>
-      <pubDate>Fri, 20 Nov 2026 10:01:41 +0000</pubDate>
-      <category>AI</category>
-      <category>Hardware</category>
-      <description>&lt;p&gt;Frostbite is a general-purpose CPU built around interaction nets, with its architecture discovered, designed, and verified end to end by AI systems. The project introduces a new instruction set and exploits local steps, explicit dependencies, and single ownership of values. On the reported benchmark, it reached 4.59 times the performance per watt of a modern dual-issue, in-order CPU core.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Frostbite 是一款基于交互网络的通用 CPU，其架构由 AI 系统端到端完成发现、设计和验证。该项目引入了全新的指令集，并利用局部步骤、显式依赖和数值单一所有权等特性。在所报告的基准测试中，它达到了现代双发射顺序执行 CPU 核心 4.59 倍的每瓦性能。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 629 · 💬 328 · AI · Hardware&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50572503&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/20/top_stories_11202026#story-50572503&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>If you can't explain something in simple terms, you don't understand it (2017)</title>
-      <link>https://kottke.org/17/06/if-you-cant-explain-something-in-simple-terms-you-dont-understand-it</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50572355</guid>
-      <dc:creator>sammatilda</dc:creator>
-      <pubDate>Fri, 20 Nov 2026 09:43:19 +0000</pubDate>
-      <category>Education</category>
-      <category>Science</category>
-      <description>&lt;p&gt;In the early 1960s, Richard Feynman delivered a series of undergraduate physics lectures. Those lectures were later collected into the book The Feynman Lectures on Physics.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;20 世纪 60 年代初，理查德·费曼为本科生讲授了一系列物理课程。这些讲座后来被汇编成《费曼物理学讲义》。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 627 · 💬 293 · Education · Science&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50572355&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/20/top_stories_11202026#story-50572355&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Microsoft 365 outage leads to chlorine gas poisoning of 15 hotel guests</title>
@@ -589,6 +513,19 @@
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50548021&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/19/top_stories_11192026#story-50548021&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Claude solves two open problems in the physics of black holes</title>
+      <link>https://www.anthropic.com/research/claude-black-hole-physics</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50563148</guid>
+      <dc:creator>cybermango</dc:creator>
+      <pubDate>Thu, 19 Nov 2026 17:30:44 +0000</pubDate>
+      <category>AI</category>
+      <category>Science</category>
+      <description>&lt;p&gt;Claude Fable 5.2 is reported to have solved two open problems in theoretical physics involving black holes and the search for quantum gravity. The problems sit at the intersection of general relativity and quantum mechanics, whose mathematical incompatibility remains a central challenge in physics. Researchers often use holographic duality and simplified model universes to study these questions.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;据称，Claude Fable 5.2 解决了理论物理学中的两个开放问题，涉及黑洞和量子引力理论的探索。这些问题位于广义相对论与量子力学的交叉地带，而两者在数学上的不相容仍是物理学的核心挑战之一。研究人员经常借助全息对偶和简化的模型宇宙来研究这些问题。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 562 · 💬 270 · AI · Science&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50563148&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/21/top_stories_11212026#story-50563148&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>KDE: The documentary [video]</title>
       <link>https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c</link>
       <guid isPermaLink="true">https://news.ycombinator.com/item?id=50496976</guid>
@@ -600,19 +537,6 @@
 &lt;p&gt;&lt;em&gt;《KDE：纪录片》讲述了这一开源社区的故事：它于 1996 年兴起，为计算机用户提供了 Windows 等专有桌面之外的免费替代方案。影片追溯了 KDE 这一先驱桌面项目的起源与发展。&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;▲ 562 · 💬 133 · Open Source · Culture&lt;/small&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50496976&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/15/top_stories_11152026#story-50496976&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Claude solves two open problems in the physics of black holes</title>
-      <link>https://www.anthropic.com/research/claude-black-hole-physics</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50563148</guid>
-      <dc:creator>cybermango</dc:creator>
-      <pubDate>Thu, 19 Nov 2026 17:30:44 +0000</pubDate>
-      <category>AI</category>
-      <category>Science</category>
-      <description>&lt;p&gt;Claude Fable 5.2 is reported to have solved two open problems in theoretical physics involving black holes and the search for quantum gravity. The problems sit at the intersection of general relativity and quantum mechanics, whose mathematical incompatibility remains a central challenge in physics. Researchers often use holographic duality and simplified model universes to study these questions.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;据称，Claude Fable 5.2 解决了理论物理学中的两个开放问题，涉及黑洞和量子引力理论的探索。这些问题位于广义相对论与量子力学的交叉地带，而两者在数学上的不相容仍是物理学的核心挑战之一。研究人员经常借助全息对偶和简化的模型宇宙来研究这些问题。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 553 · 💬 270 · AI · Science&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50563148&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/20/top_stories_11202026#story-50563148&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Frame – 31.5&quot; color ePaper display</title>
@@ -627,6 +551,19 @@
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50519354&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/17/top_stories_11172026#story-50519354&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>We promoted developers into architects without informing them</title>
+      <link>https://manidoraisamy.com/developer-to-architect.html</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50579331</guid>
+      <dc:creator>QueensGambit</dc:creator>
+      <pubDate>Fri, 20 Nov 2026 18:17:51 +0000</pubDate>
+      <category>Programming</category>
+      <category>AI</category>
+      <description>&lt;p&gt;The author argues that AI-assisted coding shifts developers’ work toward architecture and product judgment. A performance bug in a Google Forms add-on was traced to AI-generated logging that recorded user email information despite Google’s restrictions. The proposed fix is to log only the timestamp, show the welcome screen first, and tell marketing which installation data is unavailable.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;作者认为，AI 辅助编程正在把开发者的工作重心转向架构和产品判断。一个 Google Forms 插件的性能问题，最终被追溯到 AI 生成的日志代码：它记录了用户邮箱，而 Google 已限制可获取的用户信息。作者提出的修复方案是只记录时间戳、先显示欢迎界面，并告知市场团队安装时无法获取哪些数据。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 517 · 💬 288 · Programming · AI&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50579331&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/21/top_stories_11212026#story-50579331&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Restricting AI agents in mobile operating systems platforms from capturing data</title>
       <link>https://signal.org/blog/protecting-your-privacy/</link>
       <guid isPermaLink="true">https://news.ycombinator.com/item?id=50572348</guid>
@@ -638,6 +575,70 @@
 &lt;p&gt;&lt;em&gt;Signal 表示，正在限制移动操作系统中最新的 AI 代理，以防它们捕获并存储 Signal 数据。这一举措被视为 Signal 隐私保护使命的一部分。&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;▲ 511 · 💬 305 · Privacy · AI&lt;/small&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50572348&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/20/top_stories_11202026#story-50572348&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Carnival Cruises emits ten times more sulphur oxide than all of Europe's cars (2019)</title>
+      <link>https://ecohustler.com/article/one-corporation-to-pollute-them-all/</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50572116</guid>
+      <dc:creator>sammatilda</dc:creator>
+      <pubDate>Fri, 20 Nov 2026 09:13:09 +0000</pubDate>
+      <category>Science</category>
+      <description>&lt;p&gt;A Transport &amp; Environment analysis found that Carnival Corporation emitted nearly 10 times more sulfur oxides around European coasts in 2017 than all 260 million European cars combined. The report attributes the pollution to cruise ships burning dirty bunker fuel. The findings prompted calls for cleaner fuel and stronger controls on shipping emissions.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Transport &amp; Environment 的分析发现，2017 年嘉年华集团在欧洲海岸附近排放的硫氧化物，几乎是欧洲 2.6 亿辆汽车总和的 10 倍。报告将污染归因于邮轮燃烧污染严重的船用燃料。该发现促使人们呼吁使用更清洁的燃料，并加强对航运排放的监管。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 508 · 💬 315 · Science&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50572116&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/20/top_stories_11202026#story-50572116&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The MacBook Pro's OLED PWM problem</title>
+      <link>https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use/</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50506719</guid>
+      <dc:creator>MacAnorak</dc:creator>
+      <pubDate>Sun, 15 Nov 2026 13:15:22 +0000</pubDate>
+      <category>Hardware</category>
+      <description>&lt;p&gt;Apple has introduced tandem OLED technology to the MacBook Pro, alongside the Mini-LED option that remains available. The display offers individually illuminated pixels, effectively infinite contrast, deeper blacks, higher peak HDR brightness, and touch input, prompting an overwhelmingly positive initial reaction. The source argues that impressive image quality does not necessarily make the screen comfortable for every user, particularly because of its PWM behavior.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;苹果为 MacBook Pro 引入了串联 OLED 技术，同时继续提供 Mini-LED 版本。该显示屏具备独立发光像素、近乎无限的对比度、更深的黑色、更高的 HDR 峰值亮度，并首次支持触控，发布初期反响普遍积极。文章指出，出色的画质并不一定意味着所有用户都能舒适使用，尤其是其 PWM 特性可能带来问题。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 504 · 💬 283 · Hardware&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50506719&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/16/top_stories_11162026#story-50506719&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Unforced Navier-Stokes Singularity and the Generalized Riemann Hypothesis</title>
+      <link>https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50578358</guid>
+      <dc:creator>archon1410</dc:creator>
+      <pubDate>Fri, 20 Nov 2026 17:21:36 +0000</pubDate>
+      <category>Science</category>
+      <description>&lt;p&gt;Terence Tao lists recent results involving unforced Euler and Navier–Stokes equations, the Riemann Hypothesis, and researchers including Levent Alpöge and Tristan Buckmaster. He says the results will be reported more widely, while noting that their current level of digestion varies. The post is dated November 20, 2026.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Terence Tao 列出了涉及无外力 Euler 方程、Navier–Stokes 方程、黎曼猜想以及 Levent Alpöge、Tristan Buckmaster 等研究者的最新结果。他表示，这些结果还会在其他渠道广泛报道，同时指出目前对这些成果的理解和整理程度各不相同。该文章发表于 2026 年 11 月 20 日。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 499 · 💬 212 · Science&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50578358&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/21/top_stories_11212026#story-50578358&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>ID.me terms required for IRS sign-in</title>
+      <link>https://consumerrights.wiki/w/ID.me_terms_required_for_IRS_sign-in</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50540437</guid>
+      <dc:creator>DeepLogin</dc:creator>
+      <pubDate>Wed, 18 Nov 2026 00:51:45 +0000</pubDate>
+      <category>Privacy</category>
+      <category>Legal</category>
+      <category>Politics</category>
+      <category>Business</category>
+      <description>&lt;p&gt;Taxpayers using ID.me to sign in to IRS online services accept terms that send most disputes to arbitration rather than a judge or jury, unless they opt out within 30 days. ID.me's privacy policy says it may use information for marketing and transfer information during a sale, merger, or similar transaction. It excludes government identity-verification data from ID.me Shop marketing unless the user consents or another listed exception applies. Login.gov and IRS Direct Pay remain alternatives for IRS access.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;纳税人使用 ID.me 登录美国国税局在线服务时，将接受把大多数争议提交仲裁、而非交由法官或陪审团审理的条款，除非在 30 天内选择退出。ID.me 的隐私政策称，其可能将信息用于营销，并在出售、合并或类似交易中转移信息。政府身份验证数据通常不会用于 ID.me Shop 的营销，但用户同意或符合其他列明例外的情况除外。IRS 仍提供 Login.gov 和无需登录的 Direct Pay 作为替代方式。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 492 · 💬 259 · Privacy · Legal · Politics · Business&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50540437&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/18/top_stories_11182026#story-50540437&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Court denies motion to dismiss DRAM price fixing case</title>
+      <link>https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50502988</guid>
+      <dc:creator>ybathaee</dc:creator>
+      <pubDate>Sun, 15 Nov 2026 01:18:36 +0000</pubDate>
+      <category>Legal</category>
+      <category>Business</category>
+      <description>&lt;p&gt;A federal judge refused to dismiss a proposed class action accusing Samsung, SK Hynix, and Micron of conspiring to restrict conventional DRAM supply and shift capacity toward HBM. Judge Noël Wise found that buyers had plausibly alleged an agreement violating Section 1 of the Sherman Act. The allegations have been accepted only for this procedural stage and have not been proven.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;一名联邦法官拒绝驳回一项拟议集体诉讼，该诉讼指控三星、SK 海力士和美光合谋限制传统 DRAM 供应，并将产能转向 HBM。Noël Wise 法官认定，买方对违反《谢尔曼法》第 1 条的合谋提出了具有可信性的指控。目前这些指控仅在这一程序阶段被视为成立，并未得到证实。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 492 · 💬 219 · Legal · Business&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50502988&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/15/top_stories_11152026#story-50502988&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
