@@ -1,0 +1,1220 @@
+{
+  "meta": {
+    "mode": "top",
+    "source": "https://news.ycombinator.com/",
+    "api": "https://github.com/HackerNews/API",
+    "count_requested": 50,
+    "count_written": 50,
+    "reused_same_day": 0,
+    "reused_cross_day": 21,
+    "reused_history": 0,
+    "new_llm_enriched": 29,
+    "scrape_time_display": "08:03, November 22, 2026 (PST)",
+    "timezone": "America/Los_Angeles",
+    "date_dir": "2026/11/22",
+    "content_date": "2026-11-22",
+    "edition": "morning",
+    "edition_label": "Morning 50",
+    "target_count": 50,
+    "run_time_local": "08:03, November 22, 2026 (PST)",
+    "run_time_utc": "2026-11-22 16:03:59 UTC",
+    "incremental": true,
+    "stories_max": 50,
+    "hot_score_time_utc": "2026-11-22 16:04:53 UTC"
+  },
+  "items": [
+    {
+      "title_en": "87% of the Anthropic power will come from gas and 11% from coal in 2028",
+      "url": "https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/",
+      "title_zh": "2028 年 Anthropic 的电力将有 87% 来自天然气、11% 来自煤炭",
+      "is_new": true,
+      "created_display": "Created: Nov 22, 2026 / 00:57 PT",
+      "image_url": "https://i0.wp.com/betterdatacenterproject.com/wp-content/uploads/2026/11/anthropic-total-co2.png?fit=1200%2C1065&ssl=1",
+      "summary_en": "A case study estimates that Anthropic could emit 32 million metric tons of carbon dioxide in 2028. It examines the company’s total power use and the role of dedicated power generation for AI data centers, noting that planned bring-your-own-power gas capacity is far more common than renewable generation. The study also identifies another 200 GW of new fossil-fuel power plants being built on the grid, partly to meet data-center demand.",
+      "summary_zh": "一项案例研究估计，Anthropic 在 2028 年可能排放 3,200 万吨二氧化碳。研究考察了该公司的总用电量，以及 AI 数据中心专用发电的作用，并指出已规划的“自带电力”项目中，天然气发电远多于可再生能源。研究还指出，为满足包括数据中心在内的增长需求，电网上另有 200 吉瓦新的化石燃料发电厂正在建设。",
+      "hn": {
+        "id": 50597612,
+        "type": "story",
+        "by": "happosai",
+        "score": 409,
+        "descendants": 512,
+        "time": 1795337854,
+        "comments_url": "https://news.ycombinator.com/item?id=50597612"
+      },
+      "hot_score": 7.63,
+      "tags": [
+        "Energy",
+        "Science",
+        "AI"
+      ]
+    },
+    {
+      "title_en": "Toyota, Nissan, and Honda to standardize parts to lower costs",
+      "url": "https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/",
+      "title_zh": "丰田、日产和本田将统一零部件以降低成本",
+      "is_new": true,
+      "created_display": "Created: Nov 21, 2026 / 20:04 PT",
+      "image_url": "https://hips.hearstapps.com/hmg-prod/images/d8009593-6fd1-4860-b42e-c59e9945155a.jpeg?crop=1xw:0.75xh;0xw,0.184xh&resize=1200:*",
+      "summary_en": "Toyota, Nissan, and Honda have agreed to standardize vehicle parts to reduce production costs as Japanese automakers compete with China’s growing automotive sector. The initial effort will unify quality criteria for steel, protocols for plastics and resins, and color coding for wiring harnesses. The Japan Automobile Manufacturers Association plans to expand standardization to more components across the vehicle, focusing first on parts that are largely invisible to consumers and represent significant costs.",
+      "summary_zh": "丰田、日产和本田已同意统一汽车零部件标准，以降低生产成本，应对中国汽车产业的增长。首阶段将统一钢材质量标准、塑料和树脂的处理规范，以及线束的颜色编码。日本汽车工业协会计划未来将标准化范围扩大到更多整车零部件，首先选择消费者通常看不到且成本占比较高的部件。",
+      "hn": {
+        "id": 50596133,
+        "type": "story",
+        "by": "zdw",
+        "score": 870,
+        "descendants": 512,
+        "time": 1795320296,
+        "comments_url": "https://news.ycombinator.com/item?id=50596133"
+      },
+      "hot_score": 7.52,
+      "tags": [
+        "Business"
+      ]
+    },
+    {
+      "title_en": "Show HN: I built a game where you are an LLM's subagent",
+      "url": "https://github.com/gulivan/worker755",
+      "title_zh": "Show HN：我做了一个让你成为大语言模型子代理的游戏",
+      "is_new": true,
+      "created_display": "Created: Nov 22, 2026 / 05:56 PT",
+      "image_url": "https://opengraph.githubassets.com/3f2d4c0e0f61c5567b1c1e8e8d467094791d93fda0d98cecc8b649051992b235/gulivan/worker755",
+      "summary_en": "Worker755 is a browser game in which an AI manager treats the player as its subagent. The manager is a real LLM, such as Claude, GPT, Gemini, DeepSeek, GLM, or Kimi, with a task queue, read-only machine access, and a tool for spawning subagents. Players receive instructions in a terminal, have 90 seconds to act, and then receive feedback, corrections, incident reports, and a performance review.",
+      "summary_zh": "Worker755 是一款浏览器游戏，玩家在其中扮演一个被 AI 管理器视为子代理的角色。管理器使用真实的大语言模型，例如 Claude、GPT、Gemini、DeepSeek、GLM 或 Kimi，并配有任务队列、只读的机器访问权限和生成子代理的工具。玩家会在终端收到指令，并有 90 秒执行；随后系统会反馈结果、提出修正、提交事故报告，最后给出绩效评估。",
+      "hn": {
+        "id": 50599762,
+        "type": "story",
+        "by": "ivantgam",
+        "score": 67,
+        "descendants": 17,
+        "time": 1795355818,
+        "comments_url": "https://news.ycombinator.com/item?id=50599762"
+      },
+      "hot_score": 5.13,
+      "tags": [
+        "Show HN",
+        "AI",
+        "Programming",
+        "Web"
+      ]
+    },
+    {
+      "title_en": "U.N. Climate Talks Collapse in a Bitter Clash over Fossil Fuels",
+      "url": "https://www.nytimes.com/2026/11/22/climate/cop31-climate-summit-ends-climate.html",
+      "title_zh": "联合国气候谈判因围绕化石燃料的激烈冲突而崩溃",
+      "is_new": true,
+      "created_display": "Created: Nov 22, 2026 / 05:37 PT",
+      "image_url": null,
+      "summary_en": "United Nations climate talks collapsed after a bitter dispute over fossil fuels.",
+      "summary_zh": "联合国气候谈判因围绕化石燃料的激烈争执而崩溃。",
+      "hn": {
+        "id": 50599583,
+        "type": "story",
+        "by": "neom",
+        "score": 45,
+        "descendants": 32,
+        "time": 1795354630,
+        "comments_url": "https://news.ycombinator.com/item?id=50599583"
+      },
+      "hot_score": 2.98,
+      "tags": [
+        "Politics",
+        "Science"
+      ]
+    },
+    {
+      "title_en": "Lean verification of the Riemann Hypothesis",
+      "url": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/",
+      "title_zh": "用 Lean 验证黎曼猜想——联合声明",
+      "is_new": true,
+      "created_display": "Created: Nov 21, 2026 / 06:36 PT",
+      "image_url": "https://leanprover-community.github.io/blog/meta-twitter.png",
+      "summary_en": "Levent Alpöge released a Lean library containing a proof of the Riemann Hypothesis on November 20, 2026. The library comprises 17 million lines of code. The Lean and Mathlib communities issued a joint statement endorsing the verification, with support from the Lean FRO and the Mathlib Initiative.",
+      "summary_zh": "2026 年 11 月 20 日，Levent Alpöge 发布了一个包含黎曼猜想证明的 Lean 库。该库包含 1700 万行代码。Lean 和 Mathlib 社区随后发表联合声明，Lean FRO 与 Mathlib Initiative 也表示支持这项验证工作。",
+      "hn": {
+        "id": 50589618,
+        "type": "story",
+        "by": "g-b-r",
+        "score": 1146,
+        "descendants": 953,
+        "time": 1795271805,
+        "comments_url": "https://news.ycombinator.com/item?id=50589618"
+      },
+      "tags": [
+        "Programming",
+        "Science"
+      ],
+      "hot_score": 2.94
+    },
+    {
+      "title_en": "Europe weakens chemical rules as science links them to 'lifestyle diseases'",
+      "url": "https://www.lemonde.fr/en/opinion/article/2026/11/22/as-science-increasingly-shows-the-role-chemical-substances-play-in-lifestyle-diseases-europe-weakens-its-regulations_6786595_23.html",
+      "title_zh": "科学研究将化学物质与“生活方式疾病”联系起来之际，欧洲却放松化学品监管",
+      "is_new": true,
+      "created_display": "Created: Nov 22, 2026 / 07:42 PT",
+      "image_url": "https://www.lemonde.fr/_fs-ch-1T1wmsGaOgGaSxcX/assets/errorIcon.svg",
+      "summary_en": "Europe is weakening its chemical regulations even as scientific research increasingly links chemical substances to lifestyle diseases.",
+      "summary_zh": "尽管越来越多科学研究将化学物质与生活方式疾病联系起来，欧洲却正在放松化学品监管。",
+      "hn": {
+        "id": 50600677,
+        "type": "story",
+        "by": "atmosx",
+        "score": 13,
+        "descendants": 0,
+        "time": 1795362160,
+        "comments_url": "https://news.ycombinator.com/item?id=50600677"
+      },
+      "hot_score": 2.54,
+      "tags": [
+        "Science",
+        "Politics"
+      ]
+    },
+    {
+      "title_en": "Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]",
+      "url": "https://alpo.ge/remark.pdf",
+      "title_zh": "Levent Alpöge 声称证明了广义黎曼猜想",
+      "is_new": true,
+      "created_display": "Created: Nov 20, 2026 / 06:16 PT",
+      "image_url": null,
+      "summary_en": "Levent Alpöge claims to have found a proof of the Generalized Riemann Hypothesis. The claim is presented in a PDF.",
+      "summary_zh": "Levent Alpöge 声称找到了广义黎曼猜想的证明。相关论证以 PDF 形式发布。",
+      "hn": {
+        "id": 50574968,
+        "type": "story",
+        "by": "iamronaldo",
+        "score": 2892,
+        "descendants": 2078,
+        "time": 1795184181,
+        "comments_url": "https://news.ycombinator.com/item?id=50574968"
+      },
+      "tags": [
+        "Science"
+      ],
+      "hot_score": 2.37
+    },
+    {
+      "title_en": "Sandwich Simulator",
+      "url": "https://stulle.app/",
+      "title_zh": "三明治模拟器",
+      "is_new": true,
+      "created_display": "Created: Nov 21, 2026 / 16:07 PT",
+      "image_url": "https://stulle.app/og.jpg",
+      "summary_en": "Sandwich Simulator lets users spread something on a slice of bread, add toppings, and take a photo. Each creation receives a number and a link.",
+      "summary_zh": "“三明治模拟器”允许用户在一片面包上涂抹食材、添加配料并拍照。每个作品都会获得一个编号和链接。",
+      "hn": {
+        "id": 50594911,
+        "type": "story",
+        "by": "subdomain",
+        "score": 418,
+        "descendants": 144,
+        "time": 1795306079,
+        "comments_url": "https://news.ycombinator.com/item?id=50594911"
+      },
+      "tags": [
+        "Entertainment"
+      ],
+      "hot_score": 2.31
+    },
+    {
+      "title_en": "Norway to extend proposed under-16 social media ban to games and messaging apps",
+      "url": "https://www.euronews.com/2026/10/19/norway-to-extend-proposed-under-16-social-media-ban-to-online-games-and-messaging-apps",
+      "title_zh": "挪威拟将未满 16 岁社交媒体禁令扩大至游戏和即时通信应用",
+      "is_new": true,
+      "created_display": "Created: Nov 22, 2026 / 07:54 PT",
+      "image_url": "https://images.euronews.com/articles/stories/09/95/85/92/1200x675_cmsv2_993bf262-3d9a-55c1-ae95-73d8fc46b71b-9958592.jpg",
+      "summary_en": "Norway plans to introduce a social-media ban for children under 16 and submit the legislation to parliament by the end of the year. The proposed restrictions would also cover potentially harmful online games and messaging services, which were initially expected to receive broad exemptions. The government now plans to assess those platforms according to their potential risks to children.",
+      "summary_zh": "挪威计划禁止未满 16 岁的儿童使用社交媒体，并在年底前将相关法案提交议会。拟议限制还将涵盖可能对儿童有害的在线游戏和即时通信服务，而这些平台原本预计会获得广泛豁免。政府现在计划根据平台对儿童的潜在风险进行评估。",
+      "hn": {
+        "id": 50600789,
+        "type": "story",
+        "by": "geox",
+        "score": 8,
+        "descendants": 0,
+        "time": 1795362864,
+        "comments_url": "https://news.ycombinator.com/item?id=50600789"
+      },
+      "hot_score": 1.73,
+      "tags": [
+        "Politics",
+        "Legal"
+      ]
+    },
+    {
+      "title_en": "Inkling-2-Mini in 5.4 GB Memory",
+      "url": "https://github.com/ShinMegamiBoson/lookatmyquant",
+      "title_zh": "在 5.4 GB 内存中运行 Inkling-2-Mini",
+      "is_new": true,
+      "created_display": "Created: Nov 21, 2026 / 10:02 PT",
+      "image_url": "https://opengraph.githubassets.com/74296a864d66077873397687bd15a5bbc024451740e1577930ed270f5da09ca9/ShinMegamiBoson/lookatmyquant",
+      "summary_en": "LookAtMyQuant is a quantization compiler that evaluates how much compressing each part of a model affects its output. It selects codes for individual parts so the model fits a size budget with minimal damage. On Gemma 4 E2B, its GGUF reportedly achieves 12 times lower KL divergence than Q4_K_M at the same file size.",
+      "summary_zh": "LookAtMyQuant 是一个量化编译器，用于评估压缩模型各部分对输出造成的影响。它会为各个部分选择编码，使模型在满足大小限制的同时尽量减少损失。在 Gemma 4 E2B 上，其 GGUF 文件在相同文件大小下的 KL 散度据称比 Q4_K_M 低 12 倍。",
+      "hn": {
+        "id": 50591853,
+        "type": "story",
+        "by": "k__",
+        "score": 523,
+        "descendants": 127,
+        "time": 1795284139,
+        "comments_url": "https://news.ycombinator.com/item?id=50591853"
+      },
+      "tags": [
+        "AI",
+        "Programming"
+      ],
+      "hot_score": 1.71
+    },
+    {
+      "title_en": "Data Processing Incidents on Inference Providers",
+      "url": "https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/",
+      "title_zh": "推理服务商的数据处理事件",
+      "is_new": true,
+      "created_display": "Created: Nov 21, 2026 / 18:14 PT",
+      "image_url": "https://openrouter.ai/og.png",
+      "summary_en": "OpenRouter removed three providers, took 125 endpoints out of Zero Data Retention eligibility, and notified potentially affected customers after canary-token research found problems at inference providers. The research indicated that some providers’ data may have been compromised or that their stated data-handling policies were not being followed. OpenRouter said the findings did not show a breach or unauthorized access of its own systems.",
+      "summary_zh": "在金丝雀令牌研究发现推理服务商存在问题后，OpenRouter 下架了三家服务商，将 125 个端点移出“零数据留存”资格范围，并通知了可能受影响的客户。研究显示，部分服务商的数据可能遭到泄露，或其声明的数据处理政策没有得到遵守。OpenRouter 表示，这些发现并未显示其自身系统遭到入侵或未经授权访问。",
+      "hn": {
+        "id": 50595554,
+        "type": "story",
+        "by": "sdko",
+        "score": 234,
+        "descendants": 84,
+        "time": 1795313654,
+        "comments_url": "https://news.ycombinator.com/item?id=50595554"
+      },
+      "hot_score": 1.61,
+      "tags": [
+        "Security",
+        "Privacy",
+        "Data"
+      ]
+    },
+    {
+      "title_en": "Detonating a pile of lead azide",
+      "url": "https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really",
+      "title_zh": "Derek Lowe：引爆一大堆叠氮化铅",
+      "is_new": true,
+      "created_display": "Created: Nov 21, 2026 / 05:23 PT",
+      "image_url": null,
+      "summary_en": "The piece concerns the detonation of a large pile of lead azide. Lead azide is an explosive compound, making the incident a hazardous chemistry event.",
+      "summary_zh": "这篇内容涉及引爆一大堆叠氮化铅。叠氮化铅是一种爆炸性化合物，因此这是一起危险的化学实验事件。",
+      "hn": {
+        "id": 50588982,
+        "type": "story",
+        "by": "beginning_end",
+        "score": 662,
+        "descendants": 409,
+        "time": 1795267394,
+        "comments_url": "https://news.ycombinator.com/item?id=50588982"
+      },
+      "tags": [
+        "Science"
+      ],
+      "hot_score": 1.57
+    },
+    {
+      "title_en": "Inkling 2 Mini",
+      "url": "https://thinkingmachines.ai/news/inkling-2-mini/",
+      "title_zh": "Inkling 2 Mini",
+      "is_new": true,
+      "created_display": "Created: Nov 20, 2026 / 12:12 PT",
+      "image_url": "https://thinkingmachines.ai/news/inkling-2-mini/images/cover-social.png",
+      "summary_en": "Thinking Machines has released Inkling 2 Mini, an open-weights model small enough to run on a laptop. It is a looped transformer that runs its middle layers three times per token, allowing it to reason more and use fewer tokens. The model reportedly leads open-weights models under 100 billion total parameters on DeepSWE v1.1 and Vals Index v2.2, while also running faster than similarly performing models.",
+      "summary_zh": "Thinking Machines 发布了 Inkling 2 Mini，这是一款小到可以在笔记本电脑上运行的开放权重模型。它采用循环 Transformer，每个 token 将中间层运行三次，从而进行更多推理并减少 token 使用量。据称，在总参数量低于 1000 亿的开放权重模型中，它在 DeepSWE v1.1 和 Vals Index v2.2 上处于领先，同时运行速度也快于性能相近的模型。",
+      "hn": {
+        "id": 50581260,
+        "type": "story",
+        "by": "jasondavies",
+        "score": 1438,
+        "descendants": 290,
+        "time": 1795205539,
+        "comments_url": "https://news.ycombinator.com/item?id=50581260"
+      },
+      "tags": [
+        "AI",
+        "Open Source"
+      ],
+      "hot_score": 1.47
+    },
+    {
+      "title_en": "AI is becoming a disaster for the climate",
+      "url": "https://www.bloodinthemachine.com/p/ai-is-becoming-a-disaster-for-the",
+      "title_zh": "AI 正在成为气候灾难",
+      "is_new": true,
+      "created_display": "Created: Nov 22, 2026 / 04:19 PT",
+      "image_url": "https://substackcdn.com/image/fetch/$s_!MW3Y!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,$fp_!0.3439:1!/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5d71c583-fbcc-4b20-91c7-e1bdabe47973_4978x3319.jpeg",
+      "summary_en": "The report points to two new studies on rapidly increasing carbon emissions from the AI industry. It also describes efforts in Silicon Valley to limit communities’ ability to protest data centers, alongside concerns about their effects on human health. The discussion includes doubts about carbon capture as a way to offset AI’s climate impacts.",
+      "summary_zh": "报道援引两项新研究，指出 AI 产业的碳排放正在快速增长。文章还描述了硅谷限制社区抗议数据中心的做法，以及数据中心对人类健康造成影响的担忧。文中也对通过碳捕集抵消 AI 气候影响的做法提出质疑。",
+      "hn": {
+        "id": 50598961,
+        "type": "story",
+        "by": "Brajeshwar",
+        "score": 32,
+        "descendants": 6,
+        "time": 1795349986,
+        "comments_url": "https://news.ycombinator.com/item?id=50598961"
+      },
+      "hot_score": 1.33,
+      "tags": [
+        "AI",
+        "Science",
+        "Health"
+      ]
+    },
+    {
+      "title_en": "My monitor was cutting my download speed by 75%",
+      "url": "https://blog.tymscar.com/posts/studiodisplayethernet/",
+      "title_zh": "我的显示器让下载速度下降了 75%",
+      "is_new": true,
+      "created_display": "Created: Nov 21, 2026 / 02:36 PT",
+      "image_url": "https://blog.tymscar.com/studio-display-ethernet/og-card.png",
+      "summary_en": "A 2.5 Gbps symmetrical internet connection produced 2.4 Gbps uploads but only 600 Mbps downloads. The same result appeared on another laptop, while the ISP found no problem on its side. The investigation traced the bottleneck to a Studio Display XDR, a small buffer, and a USB burst size of four packets.",
+      "summary_zh": "一条上下行对称 2.5 Gbps 的网络连接，上传速度达到 2.4 Gbps，但下载速度只有 600 Mbps。在另一台笔记本电脑上测试也得到相同结果，而 ISP 检查后未发现其网络存在问题。调查最终将瓶颈定位到 Studio Display XDR、一个较小的缓冲区，以及每次四个数据包的 USB 突发大小。",
+      "hn": {
+        "id": 50587875,
+        "type": "story",
+        "by": "soheilpro",
+        "score": 644,
+        "descendants": 298,
+        "time": 1795257392,
+        "comments_url": "https://news.ycombinator.com/item?id=50587875"
+      },
+      "tags": [
+        "Hardware"
+      ],
+      "hot_score": 1.29
+    },
+    {
+      "title_en": "Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'",
+      "url": "https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib",
+      "title_zh": "治疗胰腺癌的药片被誉为“数十年来最大突破”",
+      "is_new": true,
+      "created_display": "Created: Nov 20, 2026 / 13:03 PT",
+      "image_url": "https://i.guim.co.uk/img/media/d7bac7cca6890657580a396f9255cf7d7b3d2874/1250_0_6250_5000/master/6250.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e108196e90ed29a731e8a7ec890173bf",
+      "summary_en": "In a trial of daraxonrasib, the cancer became undetectable in one in 12 patients with advanced pancreatic cancer. Tumors stopped growing in nearly all of the 61 participants, whose cancer had spread to other parts of the body. The results are being hailed as a major advance in pancreatic cancer treatment.",
+      "summary_zh": "在 daraxonrasib 的一项试验中，12 名晚期胰腺癌患者中有 1 人的癌症变得无法检测到。61 名参与者的肿瘤几乎全部停止生长，这些患者的癌症此前已扩散到身体其他部位。这些结果被誉为胰腺癌治疗领域的重大进展。",
+      "hn": {
+        "id": 50582069,
+        "type": "story",
+        "by": "rafaelc",
+        "score": 1206,
+        "descendants": 263,
+        "time": 1795208592,
+        "comments_url": "https://news.ycombinator.com/item?id=50582069"
+      },
+      "tags": [
+        "Health"
+      ],
+      "hot_score": 1.27
+    },
+    {
+      "title_en": "A better internet for everyone is possible. Today",
+      "url": "https://osw-alliance.net/en/",
+      "title_zh": "人人都可能拥有更好的互联网，就从今天开始",
+      "is_new": true,
+      "created_display": "Created: Nov 22, 2026 / 07:24 PT",
+      "image_url": "https://osw-alliance.net/wp-content/uploads/2026/07/cropped-OSWA-Dots-01-freisteller-scaled-1.png",
+      "summary_en": "The Open Social Web Alliance aims to develop social media that strengthens democratic discourse while remaining resilient and appealing. Its stated focus is on answering how such a social web can be built.",
+      "summary_zh": "开放社交网络联盟致力于构建能够加强民主讨论，同时具备韧性和吸引力的社交媒体。其目标是探索如何建立这样的社交网络。",
+      "hn": {
+        "id": 50600511,
+        "type": "story",
+        "by": "doener",
+        "score": 7,
+        "descendants": 1,
+        "time": 1795361072,
+        "comments_url": "https://news.ycombinator.com/item?id=50600511"
+      },
+      "hot_score": 1.02,
+      "tags": [
+        "Web",
+        "Politics"
+      ]
+    },
+    {
+      "title_en": "South Korea education minister resigns over exam cheating scandal",
+      "url": "https://www.bbc.com/news/articles/cw3dgk29d37no",
+      "title_zh": "韩国教育部长因考试作弊丑闻辞职",
+      "is_new": true,
+      "created_display": "Created: Nov 22, 2026 / 05:19 PT",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/dc28/live/9c42c760-e66a-11f1-99b6-a35a62fa4264.jpg",
+      "summary_en": "South Korean Education Minister Choi Kyo-jin resigned over an exam-cheating scandal that shocked the country. He took full responsibility for confusion caused by last-minute measures intended to stop AI-assisted cheating during the annual Suneung college entrance exam. The measures created chaos during Thursday’s test.",
+      "summary_zh": "韩国教育部长崔教镇因震动全国的考试作弊丑闻辞职。他为在年度大学入学考试“修能”期间阻止 AI 辅助作弊而采取的临时措施所造成的混乱承担全部责任。这些措施导致周四的考试现场陷入混乱。",
+      "hn": {
+        "id": 50599444,
+        "type": "story",
+        "by": "Betelbuddy",
+        "score": 17,
+        "descendants": 3,
+        "time": 1795353587,
+        "comments_url": "https://news.ycombinator.com/item?id=50599444"
+      },
+      "hot_score": 0.97,
+      "tags": [
+        "Politics",
+        "AI",
+        "Education"
+      ]
+    },
+    {
+      "title_en": "Advice for the next 100 Rust GUIs",
+      "url": "https://linebender.org/blog/next-100-guis/",
+      "title_zh": "给未来 100 个 Rust GUI 的建议",
+      "is_new": true,
+      "created_display": "Created: Nov 21, 2026 / 13:17 PT",
+      "image_url": "https://i.creativecommons.org/l/by/4.0/88x31.png",
+      "summary_en": "The post follows up on advice published four and a half years ago, noting that roughly 20 Rust GUI toolkits have since been announced and that AI has recently accelerated interest in Rust GUI development. It argues that high-performance Rust interfaces remain practical because many cross-platform applications suffer from poor performance, while platform toolkits have stagnated and Electron applications can be bloated. Rising RAM costs and growing mobile usage make that bloat more consequential.",
+      "summary_zh": "这篇文章是四年半前相关建议的后续，指出此后约有 20 个 Rust GUI 工具包发布，并且 AI 最近进一步加速了人们对 Rust GUI 开发的兴趣。文章认为，高性能 Rust 界面仍然具有现实意义，因为许多跨平台应用性能不佳，平台自带工具包发展停滞，而 Electron 应用可能过于臃肿。内存成本上升和移动设备使用增加，也让这种臃肿的代价更加明显。",
+      "hn": {
+        "id": 50593737,
+        "type": "story",
+        "by": "raphlinus",
+        "score": 226,
+        "descendants": 109,
+        "time": 1795295873,
+        "comments_url": "https://news.ycombinator.com/item?id=50593737"
+      },
+      "tags": [
+        "Programming",
+        "AI"
+      ],
+      "hot_score": 0.96
+    },
+    {
+      "title_en": "Fast-Anything: Don't rewrite it in Rust. Rewrite the 5% that's slow",
+      "url": "https://github.com/EL4CTEO/fast-anything",
+      "title_zh": "Fast-Anything：别用 Rust 重写全部，只重写最慢的 5%",
+      "is_new": true,
+      "created_display": "Created: Nov 21, 2026 / 20:10 PT",
+      "image_url": "https://opengraph.githubassets.com/f8c3bdc5132c6b7eab27b4308ec5f64b1afe0a6e3f07453362de254aa73a5c77/EL4CTEO/fast-anything",
+      "summary_en": "Fast-Anything profiles Python, Node, or Ruby applications, ports their hottest functions with a coding agent, and verifies that behavior remains unchanged. Its premise is that rewriting an entire application in Rust can take months, while most runtime is concentrated in a small number of functions. The tool therefore targets only the slowest 5% rather than replacing the whole application.",
+      "summary_zh": "Fast-Anything 会分析 Python、Node 或 Ruby 应用的性能热点，用编程代理移植最慢的函数，并验证行为是否保持一致。它的出发点是，整个应用用 Rust 重写可能耗时数月，而大部分运行时间通常集中在少数函数上。因此，该工具只针对最慢的 5%，而不是替换整个应用。",
+      "hn": {
+        "id": 50596155,
+        "type": "story",
+        "by": "BaselAshraf81",
+        "score": 106,
+        "descendants": 85,
+        "time": 1795320609,
+        "comments_url": "https://news.ycombinator.com/item?id=50596155"
+      },
+      "hot_score": 0.92,
+      "tags": [
+        "Programming"
+      ]
+    },
+    {
+      "title_en": "Show HN: The Riemann Proof Handbook",
+      "url": "https://github.com/tamnd/riemann-handbook",
+      "title_zh": "Show HN：《黎曼证明手册》",
+      "is_new": true,
+      "created_display": "Created: Nov 21, 2026 / 21:46 PT",
+      "image_url": "https://opengraph.githubassets.com/213ba432a9127c04fa9dadc65572cc520c3d56ffcc3a9b031f87c86591779055/tamnd/riemann-handbook",
+      "summary_en": "The Riemann Handbook presents the Lean proof of the Riemann Hypothesis from the tamnd/riemann-lean project in mathematical prose, with definitions, theorems, lemmas, and proofs. It is available as a PDF and EPUB book. The claim has not been checked: the full Lean project has not been built, and the written statements have not been verified against the code.",
+      "summary_zh": "《黎曼证明手册》将 tamnd/riemann-lean 项目中的黎曼猜想 Lean 证明，以包含定义、定理、引理和证明的数学文字形式呈现。该书提供 PDF 和 EPUB 版本。但其中的数学主张尚未经过验证：完整 Lean 项目还没有构建成功，书面陈述也未与代码逐一核对。",
+      "hn": {
+        "id": 50596664,
+        "type": "story",
+        "by": "tamnd",
+        "score": 79,
+        "descendants": 52,
+        "time": 1795326390,
+        "comments_url": "https://news.ycombinator.com/item?id=50596664"
+      },
+      "hot_score": 0.85,
+      "tags": [
+        "Show HN",
+        "Science",
+        "Education"
+      ]
+    },
+    {
+      "title_en": "Muru – AI-assisted Rust server for Python apps by mod_WSGI's creator",
+      "url": "https://simonwillison.net/2026/Nov/21/muru/",
+      "title_zh": "Muru：由 mod_wsgi 创作者打造的 AI 辅助 Python 应用 Rust 服务器",
+      "is_new": true,
+      "created_display": "Created: Nov 22, 2026 / 01:57 PT",
+      "image_url": null,
+      "summary_en": "Graham Dumpleton, who started mod_wsgi 20 years ago, has created Muru, an AI-assisted server written in Rust. It aims to provide tools for running Python ASGI and WSGI applications in both development and production.",
+      "summary_zh": "20 年前启动 mod_wsgi 的 Graham Dumpleton 开发了 Muru，这是一个由 Rust 编写、具备 AI 辅助功能的服务器。它旨在为 Python 的 ASGI 和 WSGI 应用提供开发与生产环境所需的运行工具。",
+      "hn": {
+        "id": 50597959,
+        "type": "story",
+        "by": "joshcsimmons",
+        "score": 37,
+        "descendants": 7,
+        "time": 1795341421,
+        "comments_url": "https://news.ycombinator.com/item?id=50597959"
+      },
+      "hot_score": 0.83,
+      "tags": [
+        "AI",
+        "Programming"
+      ]
+    },
+    {
+      "title_en": "The Mythology of Conscious AI",
+      "url": "https://www.noemamag.com/the-mythology-of-conscious-ai/",
+      "title_zh": "有意识 AI 的神话",
+      "is_new": true,
+      "created_display": "Created: Nov 21, 2026 / 18:10 PT",
+      "image_url": "https://noemamag.imgix.net/2026/01/The-Mythology-of-Conscious-AI-scaled.jpg?fit=crop&fm=pjpg&h=628&ixlib=php-3.3.1&w=1200&wpsize=noema-social-facebook&s=ac64b80d34a8583e44429565e7df4a07",
+      "summary_en": "Anil Seth argues that consciousness is more likely to be a property of life than of computation, and that creating conscious or seemingly conscious AI would be a bad idea. Seth, a neuroscience professor and director of the Centre for Consciousness Science at the University of Sussex, won the 2025 Berggruen Prize Essay Competition for this essay.",
+      "summary_zh": "Anil Seth 认为，意识更可能是生命的属性，而非计算的属性；创造有意识或看似有意识的 AI 也不是好主意。Seth 是萨塞克斯大学神经科学教授兼意识科学中心主任，并凭借这篇文章赢得了 2025 年伯格鲁恩奖年度论文竞赛。",
+      "hn": {
+        "id": 50595537,
+        "type": "story",
+        "by": "Anon84",
+        "score": 117,
+        "descendants": 309,
+        "time": 1795313402,
+        "comments_url": "https://news.ycombinator.com/item?id=50595537"
+      },
+      "hot_score": 0.8,
+      "tags": [
+        "AI",
+        "Science",
+        "Education"
+      ]
+    },
+    {
+      "title_en": "Notes on the discrete Fourier transform (DFT)",
+      "url": "https://eli.thegreenplace.net/2026/notes-on-the-discrete-fourier-transform-dft/",
+      "title_zh": "离散傅里叶变换（DFT）笔记",
+      "is_new": true,
+      "created_display": "Created: Nov 21, 2026 / 22:52 PT",
+      "image_url": "https://eli.thegreenplace.net/images/logosmall.png",
+      "summary_en": "The notes move from Fourier series and transforms for infinite-duration discrete signals to realistic digital signal processing with finite-duration signals. They introduce the discrete Fourier transform by considering a signal represented as a list of N samples.",
+      "summary_zh": "这篇笔记从用于无限时长离散信号的傅里叶级数和变换，转向处理有限时长信号的现实数字信号处理。文章通过将信号表示为包含 N 个样本的数列，引入离散傅里叶变换。",
+      "hn": {
+        "id": 50596960,
+        "type": "story",
+        "by": "kouosi",
+        "score": 60,
+        "descendants": 7,
+        "time": 1795330345,
+        "comments_url": "https://news.ycombinator.com/item?id=50596960"
+      },
+      "hot_score": 0.76,
+      "tags": [
+        "Science"
+      ]
+    },
+    {
+      "title_en": "PcapAnalyzer – self-hosted pcap analyzer with 27 problem detectors",
+      "url": "https://github.com/sebaandrada-cell/PcapAnalyzer",
+      "title_zh": "PcapAnalyzer：带 27 种问题检测器的自托管 pcap 分析器",
+      "is_new": true,
+      "created_display": "Created: Nov 21, 2026 / 14:09 PT",
+      "image_url": "https://opengraph.githubassets.com/aa3969e7fe40d8e65f149cdc85c1d9f452e3c0952677221beb962c8832363f3f/sebaandrada-cell/PcapAnalyzer",
+      "summary_en": "PcapAnalyzer analyzes .pcap, .pcapng, and gzip-compressed captures and identifies what is failing, why, and what to check next. It includes 27 problem detectors and AI-assisted investigation. The open-source Apache 2.0 tool runs locally, so captures do not leave the network, and it is currently in beta.",
+      "summary_zh": "PcapAnalyzer 可分析 .pcap、.pcapng 以及 gzip 压缩的抓包文件，并指出故障所在、原因和后续检查方向。它包含 27 种问题检测器，并支持 AI 辅助调查。这个采用 Apache 2.0 许可的开源工具在本地运行，因此抓包数据不会离开网络，目前仍处于测试阶段。",
+      "hn": {
+        "id": 50594132,
+        "type": "story",
+        "by": "sebaandrada",
+        "score": 141,
+        "descendants": 19,
+        "time": 1795298998,
+        "comments_url": "https://news.ycombinator.com/item?id=50594132"
+      },
+      "tags": [
+        "Open Source",
+        "Programming",
+        "AI"
+      ],
+      "hot_score": 0.64
+    },
+    {
+      "title_en": "Slopstrap – Make your site look hastily vibecoded",
+      "url": "https://slopstrap.mikelacher.com/",
+      "title_zh": "Slopstrap：让网站看起来像是匆忙用“氛围编程”写出来的",
+      "is_new": true,
+      "created_display": "Created: Nov 20, 2026 / 07:24 PT",
+      "image_url": "https://slopstrap.mikelacher.com/og-image.png",
+      "summary_en": "Slopstrap describes itself as a CSS framework intended to make websites look as though they were hastily created by an LLM. It presents the tool as a way to give any project an intentionally AI-generated appearance.",
+      "summary_zh": "Slopstrap 自称是一个 CSS 框架，旨在让网站看起来像是匆忙由 LLM 创建的。它将自己定位为一种让项目呈现刻意 AI 生成风格的工具。",
+      "hn": {
+        "id": 50576012,
+        "type": "story",
+        "by": "mlacher",
+        "score": 743,
+        "descendants": 140,
+        "time": 1795188251,
+        "comments_url": "https://news.ycombinator.com/item?id=50576012"
+      },
+      "tags": [
+        "Web",
+        "Design",
+        "AI"
+      ],
+      "hot_score": 0.63
+    },
+    {
+      "title_en": "PostgreSQL Extensions in Go",
+      "url": "https://jespino.github.io/gopgext/",
+      "title_zh": "用 Go 编写 PostgreSQL 扩展",
+      "is_new": true,
+      "created_display": "Created: Nov 21, 2026 / 09:08 PT",
+      "image_url": "https://jespino.github.io/gopgext/img/social.png",
+      "summary_en": "gopgext uses TinyGo to build PostgreSQL extensions from ordinary Go source files. Functions marked with `//gopgext:function` become SQL functions, while the tool generates the C glue, installation script, and control file. The project supports parts of the standard library, including formatting, regular expressions, JSON, cryptography, generics, iterators, and recovery.",
+      "summary_zh": "gopgext 使用 TinyGo 从普通 Go 源文件构建 PostgreSQL 扩展。标记为 `//gopgext:function` 的函数会变成 SQL 函数，工具则负责生成 C 胶水代码、安装脚本和控制文件。该项目支持标准库的部分功能，包括格式化、正则表达式、JSON、密码学、泛型、迭代器以及 `recover`。",
+      "hn": {
+        "id": 50591260,
+        "type": "story",
+        "by": "valyala",
+        "score": 163,
+        "descendants": 29,
+        "time": 1795280884,
+        "comments_url": "https://news.ycombinator.com/item?id=50591260"
+      },
+      "tags": [
+        "Programming",
+        "Data"
+      ],
+      "hot_score": 0.5
+    },
+    {
+      "title_en": "Pandex – Official European Law for AI Agents, over MCP",
+      "url": "https://www.pandex.io",
+      "title_zh": "Pandex：通过 MCP 提供官方欧洲 AI 法律",
+      "is_new": true,
+      "created_display": "Created: Nov 21, 2026 / 12:47 PT",
+      "image_url": "https://www.pandex.io/opengraph-image?6367cd8c0b666bc6",
+      "summary_en": "Pandex provides legislation and highest-court decisions from the EU, seven European countries, and the European Court of Human Rights. The material comes from the institutions that publish it and is exposed through an API and an MCP server. It is designed for search and use by AI agents with existing AI tools.",
+      "summary_zh": "Pandex 提供欧盟、七个欧洲国家以及欧洲人权法院的法律和最高法院判决。材料直接来自发布这些文件的官方机构，并通过 API 和 MCP 服务器提供。该服务面向搜索和 AI 代理使用，并可与现有 AI 工具配合。",
+      "hn": {
+        "id": 50593481,
+        "type": "story",
+        "by": "vasie",
+        "score": 123,
+        "descendants": 29,
+        "time": 1795294061,
+        "comments_url": "https://news.ycombinator.com/item?id=50593481"
+      },
+      "tags": [
+        "Legal",
+        "AI",
+        "Politics"
+      ],
+      "hot_score": 0.5
+    },
+    {
+      "title_en": "Upload2Shell (CVE-2026-125396)",
+      "url": "https://pwn.ai/upload2shell",
+      "title_zh": "Upload2Shell（CVE-2026-125396）",
+      "is_new": true,
+      "created_display": "Created: Nov 21, 2026 / 10:29 PT",
+      "image_url": "https://pwn.ai/upload2shell-share.png?v=2",
+      "summary_en": "Upload2Shell is identified as CVE-2026-125396. No further technical details or impact are established here.",
+      "summary_zh": "Upload2Shell 的漏洞编号为 CVE-2026-125396。现有信息未说明其更多技术细节或影响。",
+      "hn": {
+        "id": 50592097,
+        "type": "story",
+        "by": "f311a",
+        "score": 145,
+        "descendants": 72,
+        "time": 1795285769,
+        "comments_url": "https://news.ycombinator.com/item?id=50592097"
+      },
+      "tags": [
+        "Security"
+      ],
+      "hot_score": 0.49
+    },
+    {
+      "title_en": "GnuPG Security Advisory for GPGME",
+      "url": "https://lists.gnupg.org/pipermail/gnupg-announce/2026q4/000517.html",
+      "title_zh": "GnuPG 发布 GPGME 安全公告",
+      "is_new": true,
+      "created_display": "Created: Nov 21, 2026 / 00:32 PT",
+      "image_url": null,
+      "summary_en": "GnuPG has released GPGME 2.3.1 to fix a critical security bug affecting all previous versions. A crafted OpenPGP key with an extremely long user ID can trigger a double-free, which may allow data exfiltration through signed data; remote code execution cannot be ruled out. GnuPG recommends updating immediately, and the vulnerability is tracked as CVE-2026-129975.",
+      "summary_zh": "GnuPG 发布了 GPGME 2.3.1，以修复影响所有旧版本的严重安全漏洞。攻击者可利用包含超长用户 ID 的精心构造 OpenPGP 密钥触发 double free，并可能通过发送签名数据窃取应用数据；远程代码执行也无法排除。GnuPG 建议立即更新，该漏洞编号为 CVE-2026-129975。",
+      "hn": {
+        "id": 50587208,
+        "type": "story",
+        "by": "gdgghhhhh",
+        "score": 262,
+        "descendants": 113,
+        "time": 1795249978,
+        "comments_url": "https://news.ycombinator.com/item?id=50587208"
+      },
+      "hot_score": 0.47,
+      "tags": [
+        "Security",
+        "Privacy"
+      ]
+    },
+    {
+      "title_en": "Backblaze customers worried of personal data sale/sharing after policy update",
+      "url": "https://www.neowin.net/news/backblaze-customers-worried-of-personal-data-salesharing-after-policy-update/",
+      "title_zh": "Backblaze 更新政策后，客户担心个人数据被出售或共享",
+      "is_new": true,
+      "created_display": "Created: Nov 22, 2026 / 07:16 PT",
+      "image_url": null,
+      "summary_en": "Backblaze customers are concerned that a policy update may allow their personal data to be sold or shared.",
+      "summary_zh": "Backblaze 更新政策后，客户担心自己的个人数据可能被出售或共享。",
+      "hn": {
+        "id": 50600435,
+        "type": "story",
+        "by": "cube00",
+        "score": 4,
+        "descendants": 1,
+        "time": 1795360562,
+        "comments_url": "https://news.ycombinator.com/item?id=50600435"
+      },
+      "hot_score": 0.47,
+      "tags": [
+        "Privacy",
+        "Data"
+      ]
+    },
+    {
+      "title_en": "Show HN: Zero C# – C# without a runtime or GC",
+      "url": "https://onurgumus.github.io/zero-csharp/index.html",
+      "title_zh": "Show HN：Zero C#——没有运行时或 GC 的 C#",
+      "is_new": true,
+      "created_display": "Created: Nov 21, 2026 / 07:39 PT",
+      "image_url": "https://onurgumus.github.io/zero-csharp/img/social.png?v=2",
+      "summary_en": "Zero C# is a fork of bflat that compiles C# into small native programs without the .NET runtime or a garbage collector. It supports Linux, macOS, Windows, WebAssembly, and DOS running on a 386. The project retains C# syntax, type checking, and generics, while using manually freed arenas and a small supporting library.",
+      "summary_zh": "Zero C# 是 bflat 的一个分支，可将 C# 编译为不依赖 .NET 运行时和垃圾回收器的小型原生程序。它支持 Linux、macOS、Windows、WebAssembly，以及运行在 386 上的 DOS。项目保留了 C# 的语法、类型检查和泛型，并使用由开发者一次性释放的内存区域及一个小型支持库。",
+      "hn": {
+        "id": 50590279,
+        "type": "story",
+        "by": "reverseblade2",
+        "score": 166,
+        "descendants": 118,
+        "time": 1795275549,
+        "comments_url": "https://news.ycombinator.com/item?id=50590279"
+      },
+      "tags": [
+        "Show HN",
+        "Programming"
+      ],
+      "hot_score": 0.45
+    },
+    {
+      "title_en": "Getting the mind to steer the body to steer you",
+      "url": "https://notnottalmud.substack.com/p/getting-the-mind-to-steer-the-body",
+      "title_zh": "让心智操控身体，再让身体引导你",
+      "is_new": true,
+      "created_display": "Created: Nov 20, 2026 / 14:11 PT",
+      "image_url": "https://substackcdn.com/image/fetch/$s_!2Ggc!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,$fp_!0.5:0.5519!/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5733e577-a398-4251-bfc0-3270ae383f61_5712x4284.jpeg",
+      "summary_en": "The discussion argues that people’s bodies often steer their behavior in daily life. It connects this idea with earlier writing about manifesting, personal agency, and gaining the benefits of wearables without owning one. The participants describe mindset as a central thread linking these topics.",
+      "summary_zh": "这段讨论认为，人们的身体在日常生活中往往会反过来引导自己的行为。它将这一想法与此前关于显化、个人能动性以及不购买设备也能获得可穿戴设备益处的文章联系起来。参与者认为，心态是串联这些主题的核心线索。",
+      "hn": {
+        "id": 50583028,
+        "type": "story",
+        "by": "jger15",
+        "score": 356,
+        "descendants": 127,
+        "time": 1795212665,
+        "comments_url": "https://news.ycombinator.com/item?id=50583028"
+      },
+      "tags": [
+        "Culture"
+      ],
+      "hot_score": 0.39
+    },
+    {
+      "title_en": "Verification files for the Lean proof of the Riemann Hypothesis",
+      "url": "https://math.mit.edu/~drew/grh/",
+      "title_zh": "Lean 证明黎曼猜想的验证文件",
+      "is_new": true,
+      "created_display": "Created: Nov 21, 2026 / 07:54 PT",
+      "image_url": null,
+      "summary_en": "Verification files for a Lean proof of the Riemann Hypothesis were announced on November 20, 2026. The checking was conducted with Claude Code by Andrew Sutherland of MIT. The reported results were still incomplete as of November 21, with remaining checks scheduled to update the page.",
+      "summary_zh": "用于验证 Lean 形式化证明黎曼猜想的文件于 2026 年 11 月 20 日公布。麻省理工学院的 Andrew Sutherland 使用 Claude Code 进行了检查。截至 11 月 21 日，公布的结果仍未完成，剩余检查结果将继续更新。",
+      "hn": {
+        "id": 50590441,
+        "type": "story",
+        "by": "Bluestein",
+        "score": 121,
+        "descendants": 46,
+        "time": 1795276474,
+        "comments_url": "https://news.ycombinator.com/item?id=50590441"
+      },
+      "tags": [
+        "Science",
+        "AI"
+      ],
+      "hot_score": 0.34
+    },
+    {
+      "title_en": "LLMs can read and write executables byte by byte from a hex dump",
+      "url": "https://sgiannopoulos.github.io/blog/machine-code-programming/",
+      "title_zh": "LLM 可以逐字节读取和编写十六进制转储中的可执行文件",
+      "is_new": true,
+      "created_display": "Created: Nov 18, 2026 / 06:15 PT",
+      "image_url": null,
+      "summary_en": "An experiment tested whether a frontier LLM could work with compiled programs using only a hex dump, without tools and with a single reply. The model explained compiled code, modified executable bytes to add features, and produced working executables from scratch. The task is difficult because x86-64 instructions have variable lengths, jumps use relative byte offsets, and incorrect file headers prevent loading.",
+      "summary_zh": "一项实验测试了前沿 LLM 是否能仅凭十六进制转储、在没有工具且只能回复一次的情况下处理编译后的程序。模型解释了编译代码，直接修改可执行文件的字节来添加功能，并从头生成了可运行的可执行文件。由于 x86-64 指令长度可变、跳转使用相对字节偏移，且文件头字段出错就会导致程序无法加载，这项任务相当困难。",
+      "hn": {
+        "id": 50546587,
+        "type": "story",
+        "by": "fortran77",
+        "score": 292,
+        "descendants": 171,
+        "time": 1795011358,
+        "comments_url": "https://news.ycombinator.com/item?id=50546587"
+      },
+      "tags": [
+        "AI",
+        "Programming"
+      ],
+      "hot_score": 0.07
+    },
+    {
+      "title_en": "A Better Vocabulary for Testing",
+      "url": "https://alperenkeles.com/posts/vocab-for-testing/",
+      "title_zh": "为测试建立更好的词汇体系",
+      "is_new": true,
+      "created_display": "Created: Nov 21, 2026 / 14:15 PT",
+      "image_url": "https://alperenkeles.com/social_icons/twitter.svg",
+      "summary_en": "The author argues that common software-testing terms such as unit, integration, and end-to-end tests are poorly defined or underspecified. Existing labels for stress, load, and penetration testing also lack a consistent classification and often depend on informal convention. The proposed goal is an actionable vocabulary that lets teams adjust tests to available resources and choose concrete testing recipes, with particular attention to random testing.",
+      "summary_zh": "作者认为，单元测试、集成测试和端到端测试等常见软件测试术语定义不清，或没有充分描述实际测试的行为和方法。压力测试、负载测试和渗透测试等标签也缺乏一致的分类，往往只是约定俗成。文章主张建立一套可执行的词汇体系，让团队能根据资源情况调整测试，并选择具体的测试方案，尤其关注随机测试。",
+      "hn": {
+        "id": 50594182,
+        "type": "story",
+        "by": "alpaylan",
+        "score": 12,
+        "descendants": 2,
+        "time": 1795299339,
+        "comments_url": "https://news.ycombinator.com/item?id=50594182"
+      },
+      "hot_score": 0.05,
+      "tags": [
+        "Programming"
+      ]
+    },
+    {
+      "title_en": "A real Linux kernel, compiled to WebAssembly",
+      "url": "https://github.com/pithings/unkernel",
+      "title_zh": "真正的 Linux 内核，编译为 WebAssembly",
+      "is_new": true,
+      "created_display": "Created: Nov 17, 2026 / 08:35 PT",
+      "image_url": "https://opengraph.githubassets.com/227bd69b7de479cea3927a1d289093329db7570def140b0b17afb82fbb89cdbc/pithings/unkernel",
+      "summary_en": "Unkernel compiles a real Linux kernel to WebAssembly. The kernel boots to a shell in less than one second. The project also provides performance information, feature documentation, benchmarks, and a JavaScript SDK.",
+      "summary_zh": "Unkernel 将真正的 Linux 内核编译成 WebAssembly。该内核启动到 shell 所需时间不到一秒。项目还提供性能信息、功能文档、基准测试和 JavaScript SDK。",
+      "hn": {
+        "id": 50533945,
+        "type": "story",
+        "by": "DonAtimator",
+        "score": 196,
+        "descendants": 62,
+        "time": 1794933346,
+        "comments_url": "https://news.ycombinator.com/item?id=50533945"
+      },
+      "hot_score": 0.03,
+      "tags": [
+        "Programming",
+        "Web"
+      ]
+    },
+    {
+      "title_en": "Exponential Behavior in Magic: The Gathering",
+      "url": "https://levineuwirth.org/essays/exponential-magic/",
+      "title_zh": "《万智牌》中的指数行为",
+      "is_new": true,
+      "created_display": "Created: Nov 18, 2026 / 06:07 PT",
+      "image_url": "https://levineuwirth.org/og-image.png",
+      "summary_en": "The author describes Magic: The Gathering as a strategically deep and computationally complex game, noting that it is even Turing complete. The development of Arcana, a rules engine intended for reinforcement learning on Magic, exposes challenges in representing the game’s many mechanics and states. Existing implementations are criticized for issues including incomplete card catalogs, poor matchmaking, outdated interfaces, and weak performance.",
+      "summary_zh": "作者将《万智牌》描述为一款策略深度高、计算复杂度极高的游戏，并指出它甚至具备图灵完备性。用于在《万智牌》上进行强化学习的规则引擎 Arcana 的开发，暴露了表示其众多机制和游戏状态时面临的挑战。现有实现则被指出存在卡牌目录不完整、匹配机制糟糕、界面过时和性能不佳等问题。",
+      "hn": {
+        "id": 50546495,
+        "type": "story",
+        "by": "neuwirth",
+        "score": 113,
+        "descendants": 71,
+        "time": 1795010829,
+        "comments_url": "https://news.ycombinator.com/item?id=50546495"
+      },
+      "tags": [
+        "Gaming"
+      ],
+      "hot_score": 0.03
+    },
+    {
+      "title_en": "Self-hosted library branch over public web OPDS",
+      "url": "https://joinmayberry.com/",
+      "title_zh": "通过公共网络 OPDS 自托管图书馆分馆",
+      "is_new": true,
+      "created_display": "Created: Nov 19, 2026 / 13:15 PT",
+      "image_url": "https://storage.googleapis.com/gpt-engineer-file-uploads/5Q5IK0WP3rRXcLGXwPa6vPAreI13/social-images/social-1773563482965-Mayberry_—_The_Public_Library_System_-_Vivaldi_2026-03-15_at_4.31.11_AM.webp",
+      "summary_en": "The project lets users host a small library branch from their own computer. Visitors can browse a curated ebook shelf from any e-reader without creating accounts or being tracked.",
+      "summary_zh": "这个项目允许用户通过自己的电脑托管一个小型图书馆分馆。访客可以使用任意电子阅读器浏览精选电子书架，无需注册账户，也不会被跟踪。",
+      "hn": {
+        "id": 50566495,
+        "type": "story",
+        "by": "philips",
+        "score": 68,
+        "descendants": 21,
+        "time": 1795122947,
+        "comments_url": "https://news.ycombinator.com/item?id=50566495"
+      },
+      "hot_score": 0.03,
+      "tags": [
+        "Web"
+      ]
+    },
+    {
+      "title_en": "Split Radiance Cascades",
+      "url": "https://www.jacktollenaar.top/articles/split-rc.html",
+      "title_zh": "拆分式 Radiance Cascades",
+      "is_new": true,
+      "created_display": "Created: Nov 19, 2026 / 06:08 PT",
+      "image_url": "https://www.jacktollenaar.top/media/images/split-rc-card.png",
+      "summary_en": "The article explains how to implement 3D global illumination with split radiance cascades. It focuses on ray splitting, a recent technique that adapts radiance cascades to 3D without imposing huge computational costs. The discussion includes implementation guidance and code examples, though the examples were modified for clarity and may not work unchanged.",
+      "summary_zh": "文章介绍如何使用拆分式 Radiance Cascades 实现 3D 全局光照。重点是光线分裂这一新技术，它可以在不带来巨大计算成本的情况下，将 Radiance Cascades 应用于 3D。文章还提供实现说明和代码示例，但示例为便于理解经过修改，可能无法直接运行。",
+      "hn": {
+        "id": 50560314,
+        "type": "story",
+        "by": "ibobev",
+        "score": 55,
+        "descendants": 2,
+        "time": 1795097313,
+        "comments_url": "https://news.ycombinator.com/item?id=50560314"
+      },
+      "hot_score": 0.02,
+      "tags": [
+        "Science"
+      ]
+    },
+    {
+      "title_en": "Tropical Rainforests Species may be surprisingly young",
+      "url": "https://phys.org/news/2026-11-species-tropical-rainforests-young-emergence.html",
+      "title_zh": "热带雨林物种可能出人意料地年轻",
+      "is_new": true,
+      "created_display": "Created: Nov 17, 2026 / 07:08 PT",
+      "image_url": "https://scx2.b-cdn.net/gfx/news/hires/2026/species-in-tropical-ra.jpg",
+      "summary_en": "The report examines how tropical regions acquired their rich biodiversity. A traditional explanation holds that stable tropical habitats allowed ancient evolutionary lineages to persist for millions of years, unlike regions such as Europe that experienced repeated ice ages. The available excerpt does not provide the study’s findings beyond this framing.",
+      "summary_zh": "这篇报道探讨了热带地区如何形成丰富的生物多样性。传统解释认为，稳定的热带栖息地让古老的演化谱系得以延续数百万年，而欧洲等地区则经历了反复的冰期。现有内容未提供超出这一背景介绍的研究结论。",
+      "hn": {
+        "id": 50532417,
+        "type": "story",
+        "by": "PaulHoule",
+        "score": 52,
+        "descendants": 33,
+        "time": 1794928134,
+        "comments_url": "https://news.ycombinator.com/item?id=50532417"
+      },
+      "tags": [
+        "Science"
+      ],
+      "hot_score": 0.01
+    },
+    {
+      "title_en": "Reaktiv Workbook – A spreadsheet where every cell is Python",
+      "url": "https://workbook.bui.app/",
+      "title_zh": "Reaktiv Workbook：每个单元格都是 Python 的电子表格",
+      "is_new": true,
+      "created_display": "Created: Nov 18, 2026 / 02:24 PT",
+      "image_url": "https://workbook.bui.app/img/hero.jpg",
+      "summary_en": "Reaktiv Workbook is a reactive Python notebook and spreadsheet built around a single plain `.workbook.py` file. It combines notes, a grid of cells, and a dependency graph so that changing a parameter updates every dependent value, plot, and paragraph while leaving unrelated work untouched. The project is open source and can be installed with `uvx` or `pip`.",
+      "summary_zh": "Reaktiv Workbook 是一种围绕单个普通 `.workbook.py` 文件构建的响应式 Python 笔记本和电子表格。它将笔记、单元格网格和依赖关系图结合起来，修改参数时会更新所有依赖的数值、图表和段落，而不会重新运行无关内容。该项目开源，可通过 `uvx` 或 `pip` 安装。",
+      "hn": {
+        "id": 50544428,
+        "type": "story",
+        "by": "buibuibui",
+        "score": 38,
+        "descendants": 10,
+        "time": 1794997482,
+        "comments_url": "https://news.ycombinator.com/item?id=50544428"
+      },
+      "hot_score": 0.01,
+      "tags": [
+        "Programming",
+        "Open Source"
+      ]
+    },
+    {
+      "title_en": "Shaping the Loops, Closing the Loops",
+      "url": "https://revyl.com/blog/pattern-engineering/",
+      "title_zh": "塑造循环，闭合循环",
+      "is_new": true,
+      "created_display": "Created: Nov 18, 2026 / 14:29 PT",
+      "image_url": "https://revyl.com/og/blog/pattern-engineering.jpg",
+      "summary_en": "The post argues that as agent-generated work expands, engineering leverage will increasingly concentrate in verification engineering and pattern engineering. Verification engineering is already receiving attention, while pattern engineering focuses on shaping the patterns that agents repeatedly extend. The author presents these as two distinct areas of importance for agent-heavy development.",
+      "summary_zh": "文章认为，随着代理生成的工作不断增加，工程杠杆将越来越集中于验证工程和模式工程。验证工程已经受到关注，而模式工程则着眼于塑造代理会反复扩展的模式。作者将这两者视为代理密集型开发中日益重要的两个不同领域。",
+      "hn": {
+        "id": 50553223,
+        "type": "story",
+        "by": "based0x10",
+        "score": 28,
+        "descendants": 9,
+        "time": 1795040944,
+        "comments_url": "https://news.ycombinator.com/item?id=50553223"
+      },
+      "tags": [
+        "Programming"
+      ],
+      "hot_score": 0.01
+    },
+    {
+      "title_en": "Is 'fork' missing operation in sandboxes?",
+      "url": "https://avrea.com/blog/avrea-sandboxes-computers-should-be-forkable",
+      "title_zh": "“fork”是否是沙盒中缺失的操作？",
+      "is_new": true,
+      "created_display": "Created: Nov 19, 2026 / 05:28 PT",
+      "image_url": "https://avrea.com/_astro/avrea-sandboxes-computers-should-be-forkable-cover.Dp9PCvYl_2kmk4a.jpeg",
+      "summary_en": "Avrea Sandboxes are full virtual machines running on M5 Max and Zen 5 hardware, with Git mirrors, package caches, HTTPS endpoints, and per-second billing. A distinctive feature is that these sandboxes can be forked. The service is designed to provide cloud computers for both humans and agents.",
+      "summary_zh": "Avrea Sandboxes 是运行在 M5 Max 和 Zen 5 硬件上的完整虚拟机，提供 Git 镜像、软件包缓存、HTTPS 端点和按秒计费。其一项独特功能是支持对沙盒进行 fork。该服务面向人类用户和智能代理提供云端计算机。",
+      "hn": {
+        "id": 50559820,
+        "type": "story",
+        "by": "damezumari",
+        "score": 19,
+        "descendants": 15,
+        "time": 1795094923,
+        "comments_url": "https://news.ycombinator.com/item?id=50559820"
+      },
+      "hot_score": 0.01,
+      "tags": [
+        "Hardware",
+        "Programming"
+      ]
+    },
+    {
+      "title_en": "Field Mice on Drugs",
+      "url": "https://ambrook.com/offrange/livestock/field-mice-on-drugs",
+      "title_zh": "服药的田鼠",
+      "is_new": true,
+      "created_display": "Created: Nov 20, 2026 / 04:40 PT",
+      "image_url": "https://cdn.sanity.io/images/h6kk644c/production/61430b734d9f4c7c8631d0acebaa9f8b041164d4-2000x1050.jpg?w=1200&h=630",
+      "summary_en": "Growing antibiotic use in livestock is affecting wildlife as well as human health. Since 2024, U.S. producers of poultry, hogs, cattle, and farmed fish have increasingly added antibiotics to feed to treat infections and prevent them. The report examines the resulting effects on field mice and points to a viral approach to agriculture’s antibiotic dependence.",
+      "summary_zh": "畜牧业中不断增加的抗生素使用不仅影响人类健康，也开始影响野生动物。自 2024 年以来，美国禽类、猪、牛和养殖鱼类生产者越来越多地将抗生素添加到饲料中，用于治疗或预防细菌感染。报道考察了这种做法对田鼠的影响，并提出以病毒方案应对农业对抗生素的依赖。",
+      "hn": {
+        "id": 50573870,
+        "type": "story",
+        "by": "surprisetalk",
+        "score": 18,
+        "descendants": 3,
+        "time": 1795178406,
+        "comments_url": "https://news.ycombinator.com/item?id=50573870"
+      },
+      "hot_score": 0.01,
+      "tags": [
+        "Science",
+        "Health"
+      ]
+    },
+    {
+      "title_en": "Celliad – a daily Excel game (French)",
+      "url": "https://celliad.com/",
+      "title_zh": "Celliad：每日一题的 Excel 游戏（法语）",
+      "is_new": true,
+      "created_display": "Created: Nov 19, 2026 / 14:37 PT",
+      "image_url": "https://celliad.com/og.png",
+      "summary_en": "Celliad is a daily Excel game in French with six rounds and up to 5,000 points per round. It tests spreadsheet skills involving incorrect cells, shortcuts, and errors, while awarding partial credit for near-misses. Players can also practice with six questions from a single category outside the daily score.",
+      "summary_zh": "Celliad 是一款法语每日 Excel 游戏，共六轮，每轮最高 5,000 分。游戏测试错误单元格、快捷键和错误处理等表格技能，接近正确答案也能获得部分分数。玩家还可以在每日成绩之外，连续练习同一类别的六道题。",
+      "hn": {
+        "id": 50567493,
+        "type": "story",
+        "by": "didir98",
+        "score": 11,
+        "descendants": 0,
+        "time": 1795127836,
+        "comments_url": "https://news.ycombinator.com/item?id=50567493"
+      },
+      "hot_score": 0.01,
+      "tags": [
+        "Entertainment"
+      ]
+    },
+    {
+      "title_en": "Show HN: Compile the same source for GPUs and CPUs",
+      "url": "https://github.com/ThrudTheBarbarian/xc",
+      "title_zh": "Show HN：为 GPU 和 CPU 编译同一份源代码",
+      "is_new": true,
+      "created_display": "Created: Nov 13, 2026 / 09:53 PT",
+      "image_url": "https://opengraph.githubassets.com/caacd827396319a0fee37ffaed3c6c443d33ff5a59007cef590d224ed3c7e7e1/ThrudTheBarbarian/xc",
+      "summary_en": "The xc language and xcc compiler turn ordinary loops into both multicore CPU code and GPU kernels, targeting formats including MSL, PTX, SPIR-V, and WGSL without requiring an SDK. At runtime, programs benchmark each block on the machine and keep the faster placement. Version 1.0.1 supports Linux, macOS, and Windows on x86-64 and Arm64, and the compiler can also process plain C loops through Clang’s front end.",
+      "summary_zh": "xc 语言及其 xcc 编译器会将普通循环编译为多核 CPU 代码和 GPU 内核，支持 MSL、PTX、SPIR-V 和 WGSL 等格式，且无需安装 SDK。程序运行时会在当前机器上测试每个代码块，并选择更快的执行位置。1.0.1 版本支持 Linux、macOS 和 Windows 上的 x86-64 与 Arm64，编译器还可以通过 Clang 前端处理普通 C 循环。",
+      "hn": {
+        "id": 50487155,
+        "type": "story",
+        "by": "spacedcowboy",
+        "score": 23,
+        "descendants": 3,
+        "time": 1794592422,
+        "comments_url": "https://news.ycombinator.com/item?id=50487155"
+      },
+      "hot_score": 0.0,
+      "tags": [
+        "Programming",
+        "Show HN",
+        "Hardware"
+      ]
+    },
+    {
+      "title_en": "Reversing the Next-Page Prefetcher in Skylake-X",
+      "url": "https://devsh0.github.io/microarchitecture,/intel,/computer-architecture/2026/11/17/reversing-the-next-page-prefetcher-in-skylake-x.html",
+      "title_zh": "逆向分析 Skylake-X 的下一页预取器",
+      "is_new": true,
+      "created_display": "Created: Nov 18, 2026 / 16:50 PT",
+      "image_url": null,
+      "summary_en": "The analysis investigates Intel’s next-page prefetcher on Skylake-X processors. Intel publishes little information about next-page prefetchers in its performance cores, although older documentation identifies one in Ivy Bridge. That prefetcher is triggered by sequential cache-line accesses approaching a page boundary in either direction.",
+      "summary_zh": "这项分析研究 Skylake-X 处理器中的下一页预取器。英特尔很少公开其性能核心中下一页预取器的细节，不过旧文档曾确认 Ivy Bridge 中存在该功能。当连续访问的缓存行接近页面边界时，无论向上还是向下访问，都可能触发这种预取器。",
+      "hn": {
+        "id": 50554572,
+        "type": "story",
+        "by": "todsacerdoti",
+        "score": 17,
+        "descendants": 0,
+        "time": 1795049405,
+        "comments_url": "https://news.ycombinator.com/item?id=50554572"
+      },
+      "hot_score": 0.0,
+      "tags": [
+        "Hardware"
+      ]
+    },
+    {
+      "title_en": "String Art Font (2017)",
+      "url": "https://erikdemaine.org/fonts/stringart/",
+      "title_zh": "字符串艺术字体（2017）",
+      "is_new": true,
+      "created_display": "Created: Nov 18, 2026 / 09:42 PT",
+      "image_url": null,
+      "summary_en": "The project creates typefaces from geometric string-art patterns wrapped around fixed pins. One font uses exactly 1,500 wraps of a single string around 200 pins, while simpler variants use 22 pins. The fonts can be animated to show the string’s path as each letter is constructed.",
+      "summary_zh": "这个项目利用围绕固定针脚缠绕的几何弦线图案制作字体。其中一种字体在 200 个针脚上用同一根线缠绕 1,500 次，另一些简化版本使用 22 个针脚。字体还可以动态展示每个字母构造时弦线的移动路径。",
+      "hn": {
+        "id": 50549457,
+        "type": "story",
+        "by": "akkartik",
+        "score": 16,
+        "descendants": 2,
+        "time": 1795023777,
+        "comments_url": "https://news.ycombinator.com/item?id=50549457"
+      },
+      "hot_score": 0.0,
+      "tags": [
+        "Design"
+      ]
+    },
+    {
+      "title_en": "Ask HN: Tips for transitioning from web development to embedded/firmware?",
+      "url": "https://news.ycombinator.com/item?id=50555002",
+      "title_zh": "Ask HN：如何从 Web 开发转向嵌入式或固件开发？",
+      "is_new": true,
+      "created_display": "Created: Nov 18, 2026 / 17:37 PT",
+      "image_url": null,
+      "summary_en": "A developer with more than 15 years of experience, including a decade building full-stack web applications, is considering a return to C, C++, or Rust. They are asking how feasible it is to move into embedded development or firmware work at this stage and seeking advice on making the transition.",
+      "summary_zh": "一名拥有 15 年以上经验、过去十年主要开发全栈 Web 应用的开发者，正在考虑回到 C、C++ 或 Rust 开发。他想了解在职业生涯现阶段转向嵌入式开发或固件工作是否可行，并寻求转型建议。",
+      "hn": {
+        "id": 50555002,
+        "type": "story",
+        "by": "llmblockchain",
+        "score": 11,
+        "descendants": 10,
+        "time": 1795052265,
+        "comments_url": "https://news.ycombinator.com/item?id=50555002"
+      },
+      "hot_score": 0.0,
+      "tags": [
+        "Career",
+        "Programming"
+      ]
+    }
+  ]
+}

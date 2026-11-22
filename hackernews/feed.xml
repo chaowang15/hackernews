@@ -5,7 +5,7 @@
     <link>https://chaowang15.github.io/hackernews/</link>
     <description>Curated daily digest of top Hacker News stories with AI-generated summaries, tags, and bilingual translations.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 22 Nov 2026 02:06:34 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 16:05:19 +0000</lastBuildDate>
     <generator>Hacker News Daily RSS Builder</generator>
     <atom:link href="https://chaowang15.github.io/hackernews/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
@@ -17,8 +17,8 @@
       <category>Science</category>
       <description>&lt;p&gt;Levent Alpöge claims to have found a proof of the Generalized Riemann Hypothesis. The claim is presented in a PDF.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Levent Alpöge 声称找到了广义黎曼猜想的证明。相关论证以 PDF 形式发布。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 2861 · 💬 2039 · Science&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50574968&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/21/top_stories_11212026#story-50574968&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+&lt;p&gt;&lt;small&gt;▲ 2892 · 💬 2078 · Science&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50574968&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/22/top_stories_11222026#story-50574968&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Hurried Announcement: Alessandro Masullo GRH</title>
@@ -78,8 +78,8 @@
       <category>Open Source</category>
       <description>&lt;p&gt;Thinking Machines has released Inkling 2 Mini, an open-weights model small enough to run on a laptop. It is a looped transformer that runs its middle layers three times per token, allowing it to reason more and use fewer tokens. The model reportedly leads open-weights models under 100 billion total parameters on DeepSWE v1.1 and Vals Index v2.2, while also running faster than similarly performing models.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Thinking Machines 发布了 Inkling 2 Mini，这是一款小到可以在笔记本电脑上运行的开放权重模型。它采用循环 Transformer，每个 token 将中间层运行三次，从而进行更多推理并减少 token 使用量。据称，在总参数量低于 1000 亿的开放权重模型中，它在 DeepSWE v1.1 和 Vals Index v2.2 上处于领先，同时运行速度也快于性能相近的模型。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 1388 · 💬 281 · AI · Open Source&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50581260&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/21/top_stories_11212026#story-50581260&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+&lt;p&gt;&lt;small&gt;▲ 1438 · 💬 290 · AI · Open Source&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50581260&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/22/top_stories_11222026#story-50581260&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>GPT‑6.2 Astra and Sol</title>
@@ -106,6 +106,18 @@
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50530163&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/18/top_stories_11182026#story-50530163&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'</title>
+      <link>https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50582069</guid>
+      <dc:creator>rafaelc</dc:creator>
+      <pubDate>Fri, 20 Nov 2026 21:03:12 +0000</pubDate>
+      <category>Health</category>
+      <description>&lt;p&gt;In a trial of daraxonrasib, the cancer became undetectable in one in 12 patients with advanced pancreatic cancer. Tumors stopped growing in nearly all of the 61 participants, whose cancer had spread to other parts of the body. The results are being hailed as a major advance in pancreatic cancer treatment.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;在 daraxonrasib 的一项试验中，12 名晚期胰腺癌患者中有 1 人的癌症变得无法检测到。61 名参与者的肿瘤几乎全部停止生长，这些患者的癌症此前已扩散到身体其他部位。这些结果被誉为胰腺癌治疗领域的重大进展。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 1206 · 💬 263 · Health&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50582069&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/22/top_stories_11222026#story-50582069&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Java4Shell: RCE in OpenJDK when processing Base64</title>
       <link>https://calif.io/java4shell/</link>
       <guid isPermaLink="true">https://news.ycombinator.com/item?id=50538240</guid>
@@ -116,6 +128,19 @@
 &lt;p&gt;&lt;em&gt;Calif 披露了 Java4Shell（编号 CVE-2026-114938），这是 OpenJDK Base64 解码器中的内存破坏漏洞。OpenJDK 被称为最流行的 Java 运行时。该漏洞在 CVSS 4.0 中获得 9.2 分（满分 10 分），评级为“严重”。这一评级意味着受影响的 OpenJDK 部署可能需要优先修补。&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;▲ 1176 · 💬 329 · Security&lt;/small&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50538240&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/19/top_stories_11192026#story-50538240&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Lean verification of the Riemann Hypothesis</title>
+      <link>https://leanprover-community.github.io/blog/posts/riemann-hypothesis/</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50589618</guid>
+      <dc:creator>g-b-r</dc:creator>
+      <pubDate>Sat, 21 Nov 2026 14:36:45 +0000</pubDate>
+      <category>Programming</category>
+      <category>Science</category>
+      <description>&lt;p&gt;Levent Alpöge released a Lean library containing a proof of the Riemann Hypothesis on November 20, 2026. The library comprises 17 million lines of code. The Lean and Mathlib communities issued a joint statement endorsing the verification, with support from the Lean FRO and the Mathlib Initiative.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;2026 年 11 月 20 日，Levent Alpöge 发布了一个包含黎曼猜想证明的 Lean 库。该库包含 1700 万行代码。Lean 和 Mathlib 社区随后发表联合声明，Lean FRO 与 Mathlib Initiative 也表示支持这项验证工作。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 1146 · 💬 953 · Programming · Science&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50589618&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/22/top_stories_11222026#story-50589618&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Anthropic’s Nasdaq debut</title>
@@ -132,19 +157,6 @@
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50562754&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/20/top_stories_11202026#story-50562754&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>All AI-generated code should be Open Source</title>
-      <link>https://jakub.jankiewicz.org/blog/ai-code-open-source/</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50507303</guid>
-      <dc:creator>jcubic</dc:creator>
-      <pubDate>Sun, 15 Nov 2026 14:46:58 +0000</pubDate>
-      <category>AI</category>
-      <category>Open Source</category>
-      <description>&lt;p&gt;The author argues that all code generated with AI assistance should be released as open source or under a CC0 license. The argument is based on AI models being trained on large amounts of publicly available open-source code, as well as Stack Overflow and related sites whose Creative Commons licenses generally require attribution. The author says turning that shared knowledge into proprietary code resembles license laundering.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;作者主张，所有借助 AI 生成的代码都应以开源许可证或 CC0 许可发布。其理由是，AI 模型训练使用了大量公开的开源代码，以及通常要求署名的 Stack Overflow 和相关网站内容。作者认为，将这些共享知识转化为专有闭源代码近似于“许可证洗白”。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 1094 · 💬 595 · AI · Open Source&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50507303&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/15/top_stories_11152026#story-50507303&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>Gemini 4 Neon</title>
       <link>https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/</link>
       <guid isPermaLink="true">https://news.ycombinator.com/item?id=50552424</guid>
@@ -156,20 +168,6 @@
 &lt;p&gt;&lt;em&gt;Google 推出了 Gemini 4 Neon，面向复杂编程、知识工作和科学工作流。Google 表示，该模型以更低成本提供前沿级智能，并能快速完成端到端任务。该模型由 Google DeepMind 高级副总裁兼首席 AI 架构师发布。&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;▲ 1016 · 💬 761 · AI · Science&lt;/small&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50552424&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/19/top_stories_11192026#story-50552424&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Lovable apps expose passport details and more than 200K private messages</title>
-      <link>https://www.crissyfield.de/research/lovable-en/</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50499017</guid>
-      <dc:creator>armcat</dc:creator>
-      <pubDate>Sat, 14 Nov 2026 17:43:10 +0000</pubDate>
-      <category>Privacy</category>
-      <category>Startups</category>
-      <category>AI</category>
-      <description>&lt;p&gt;An analysis of 159,041 Lovable projects found many cases in which personal and confidential information was accessible without logging in, including passport details and more than 200,000 private messages. Lovable is a Stockholm-based Swedish AI startup founded in 2023 by Anton Osika and Fabian Hedin, whose platform generates web applications from plain-language descriptions. The findings show that building applications with AI does not remove the need for careful handling of sensitive data.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;对 159,041 个 Lovable 项目的分析发现，许多项目无需登录即可访问个人和机密信息，其中包括护照详情以及超过 20 万条私人消息。Lovable 是一家总部位于斯德哥尔摩、由 Anton Osika 和 Fabian Hedin 于 2023 年创立的瑞典 AI 初创公司，其平台可根据自然语言描述生成 Web 应用。这些发现表明，使用 AI 构建应用并不能免除对敏感数据进行谨慎处理的要求。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 974 · 💬 372 · Privacy · Startups · AI&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50499017&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/15/top_stories_11152026#story-50499017&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Many of Amazon’s Black Friday and Cyber Monday “deals” offered no savings</title>
@@ -223,6 +221,18 @@
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50563066&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/20/top_stories_11202026#story-50563066&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Toyota, Nissan, and Honda to standardize parts to lower costs</title>
+      <link>https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50596133</guid>
+      <dc:creator>zdw</dc:creator>
+      <pubDate>Sun, 22 Nov 2026 04:04:56 +0000</pubDate>
+      <category>Business</category>
+      <description>&lt;p&gt;Toyota, Nissan, and Honda have agreed to standardize vehicle parts to reduce production costs as Japanese automakers compete with China’s growing automotive sector. The initial effort will unify quality criteria for steel, protocols for plastics and resins, and color coding for wiring harnesses. The Japan Automobile Manufacturers Association plans to expand standardization to more components across the vehicle, focusing first on parts that are largely invisible to consumers and represent significant costs.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;丰田、日产和本田已同意统一汽车零部件标准，以降低生产成本，应对中国汽车产业的增长。首阶段将统一钢材质量标准、塑料和树脂的处理规范，以及线束的颜色编码。日本汽车工业协会计划未来将标准化范围扩大到更多整车零部件，首先选择消费者通常看不到且成本占比较高的部件。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 870 · 💬 512 · Business&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50596133&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/22/top_stories_11222026#story-50596133&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Qwen4-Max</title>
       <link>https://qwen.ai/blog?id=qwen4-max</link>
       <guid isPermaLink="true">https://news.ycombinator.com/item?id=50513215</guid>
@@ -233,19 +243,6 @@
 &lt;p&gt;&lt;em&gt;Qwen4-Max 被描述为支持聊天、图像和视频理解、图像生成、文档处理、联网搜索、工具调用及 artifacts。它定位为覆盖多种输入和输出形式的模型或服务。&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;▲ 854 · 💬 471 · AI&lt;/small&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50513215&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/16/top_stories_11162026#story-50513215&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Lean verification of the Riemann Hypothesis</title>
-      <link>https://leanprover-community.github.io/blog/posts/riemann-hypothesis/</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50589618</guid>
-      <dc:creator>g-b-r</dc:creator>
-      <pubDate>Sat, 21 Nov 2026 14:36:45 +0000</pubDate>
-      <category>Programming</category>
-      <category>Science</category>
-      <description>&lt;p&gt;Levent Alpöge released a Lean library containing a proof of the Riemann Hypothesis on November 20, 2026. The library comprises 17 million lines of code. The Lean and Mathlib communities issued a joint statement endorsing the verification, with support from the Lean FRO and the Mathlib Initiative.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;2026 年 11 月 20 日，Levent Alpöge 发布了一个包含黎曼猜想证明的 Lean 库。该库包含 1700 万行代码。Lean 和 Mathlib 社区随后发表联合声明，Lean FRO 与 Mathlib Initiative 也表示支持这项验证工作。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 843 · 💬 700 · Programming · Science&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50589618&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/21/top_stories_11212026#story-50589618&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>How to make almost anything</title>
@@ -333,6 +330,20 @@
 &lt;p&gt;&lt;em&gt;巴西税务机关已将其税务计算器以 MIT 许可证发布到 GitHub 上。此次发布让公众可以使用并检查该计算器的源代码。&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;▲ 756 · 💬 242 · Open Source · Programming&lt;/small&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50532613&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/21/top_stories_11212026#story-50532613&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Slopstrap – Make your site look hastily vibecoded</title>
+      <link>https://slopstrap.mikelacher.com/</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50576012</guid>
+      <dc:creator>mlacher</dc:creator>
+      <pubDate>Fri, 20 Nov 2026 15:24:11 +0000</pubDate>
+      <category>Web</category>
+      <category>Design</category>
+      <category>AI</category>
+      <description>&lt;p&gt;Slopstrap describes itself as a CSS framework intended to make websites look as though they were hastily created by an LLM. It presents the tool as a way to give any project an intentionally AI-generated appearance.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Slopstrap 自称是一个 CSS 框架，旨在让网站看起来像是匆忙由 LLM 创建的。它将自己定位为一种让项目呈现刻意 AI 生成风格的工具。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 743 · 💬 140 · Web · Design · AI&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50576012&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/22/top_stories_11222026#story-50576012&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Apple Services Down</title>
@@ -440,20 +451,6 @@
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50572503&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/21/top_stories_11212026#story-50572503&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Slopstrap – Make your site look hastily vibecoded</title>
-      <link>https://slopstrap.mikelacher.com/</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50576012</guid>
-      <dc:creator>mlacher</dc:creator>
-      <pubDate>Fri, 20 Nov 2026 15:24:11 +0000</pubDate>
-      <category>Web</category>
-      <category>Design</category>
-      <category>AI</category>
-      <description>&lt;p&gt;Slopstrap describes itself as a CSS framework intended to make websites look as though they were hastily created by an LLM. It presents the tool as a way to give any project an intentionally AI-generated appearance.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Slopstrap 自称是一个 CSS 框架，旨在让网站看起来像是匆忙由 LLM 创建的。它将自己定位为一种让项目呈现刻意 AI 生成风格的工具。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 667 · 💬 125 · Web · Design · AI&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50576012&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/21/top_stories_11212026#story-50576012&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>Highly classified US national security communications network goes down</title>
       <link>https://www.cnn.com/2026/11/17/politics/highly-classified-national-security-communications-network-goes-down</link>
       <guid isPermaLink="true">https://news.ycombinator.com/item?id=50532849</guid>
@@ -478,6 +475,18 @@
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50558533&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/19/top_stories_11192026#story-50558533&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Detonating a pile of lead azide</title>
+      <link>https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50588982</guid>
+      <dc:creator>beginning_end</dc:creator>
+      <pubDate>Sat, 21 Nov 2026 13:23:14 +0000</pubDate>
+      <category>Science</category>
+      <description>&lt;p&gt;The piece concerns the detonation of a large pile of lead azide. Lead azide is an explosive compound, making the incident a hazardous chemistry event.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;这篇内容涉及引爆一大堆叠氮化铅。叠氮化铅是一种爆炸性化合物，因此这是一起危险的化学实验事件。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 662 · 💬 409 · Science&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50588982&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/22/top_stories_11222026#story-50588982&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Nvidia stopped disclosing Singapore sales as revenues hit $104B</title>
       <link>https://www.ft.com/content/dbde7a30-548c-4f9d-a4be-7898a0c24dcf</link>
       <guid isPermaLink="true">https://news.ycombinator.com/item?id=50534631</guid>
@@ -491,16 +500,16 @@
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50534631&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/18/top_stories_11182026#story-50534631&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'</title>
-      <link>https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50582069</guid>
-      <dc:creator>rafaelc</dc:creator>
-      <pubDate>Fri, 20 Nov 2026 21:03:12 +0000</pubDate>
-      <category>Health</category>
-      <description>&lt;p&gt;In a trial of daraxonrasib, the cancer became undetectable in one in 12 patients with advanced pancreatic cancer. Tumors stopped growing in nearly all of the 61 participants, whose cancer had spread to other parts of the body. The results are being hailed as a major advance in pancreatic cancer treatment.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;在 daraxonrasib 的一项试验中，12 名晚期胰腺癌患者中有 1 人的癌症变得无法检测到。61 名参与者的肿瘤几乎全部停止生长，这些患者的癌症此前已扩散到身体其他部位。这些结果被誉为胰腺癌治疗领域的重大进展。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 632 · 💬 152 · Health&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50582069&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/21/top_stories_11212026#story-50582069&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+      <title>My monitor was cutting my download speed by 75%</title>
+      <link>https://blog.tymscar.com/posts/studiodisplayethernet/</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50587875</guid>
+      <dc:creator>soheilpro</dc:creator>
+      <pubDate>Sat, 21 Nov 2026 10:36:32 +0000</pubDate>
+      <category>Hardware</category>
+      <description>&lt;p&gt;A 2.5 Gbps symmetrical internet connection produced 2.4 Gbps uploads but only 600 Mbps downloads. The same result appeared on another laptop, while the ISP found no problem on its side. The investigation traced the bottleneck to a Studio Display XDR, a small buffer, and a USB burst size of four packets.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;一条上下行对称 2.5 Gbps 的网络连接，上传速度达到 2.4 Gbps，但下载速度只有 600 Mbps。在另一台笔记本电脑上测试也得到相同结果，而 ISP 检查后未发现其网络存在问题。调查最终将瓶颈定位到 Studio Display XDR、一个较小的缓冲区，以及每次四个数据包的 USB 突发大小。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 644 · 💬 298 · Hardware&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50587875&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/22/top_stories_11222026#story-50587875&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Microsoft 365 outage leads to chlorine gas poisoning of 15 hotel guests</title>
@@ -526,19 +535,6 @@
 &lt;p&gt;&lt;em&gt;一名居住在美国 DMV 地区的资深软件工程师表示，自己在 2025 年 1 月离开一家保险科技公司后已失业两年。此人拥有 15 年经验，目前继续辅导数学，并可能很快开始担任披萨店经理，但尽管具备 C#/.NET、AWS 和 AI 技能，仍未找到软件工程工作。由于积蓄只够支撑四到五个月，对方正在寻求软件工程或相关领域之外的高薪替代路径。&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;▲ 618 · 💬 694 · Career · AI&lt;/small&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50583761&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/21/top_stories_11212026#story-50583761&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Why get an expensive Pi when I have an old phone?</title>
-      <link>https://so.long.thanks.fish/why-pi-when-i-have-an-old-phone/</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50440709</guid>
-      <dc:creator>casi</dc:creator>
-      <pubDate>Tue, 10 Nov 2026 14:16:05 +0000</pubDate>
-      <category>Hardware</category>
-      <category>Energy</category>
-      <description>&lt;p&gt;The project uses a rooted second-hand Redmi smartphone as a camera and light controller instead of building the system around a Raspberry Pi. The phone already provides a high-resolution camera, GPS, storage, battery, and mobile data, while the original Raspberry Pi design required adding an Arducam 64MP camera and a GPS module. The approach could reduce the number of components and the project’s growing bill.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;这个项目改用一部已取得 root 权限的二手 Redmi 手机来充当摄像头和灯光控制器，而不是围绕树莓派搭建系统。手机已经具备高分辨率摄像头、GPS、存储、电池和移动数据功能；原先的树莓派方案则需要额外加入 Arducam 6400 万像素摄像头和 GPS 模块。这种做法有望减少组件数量，并控制不断上涨的项目成本。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 617 · 💬 322 · Hardware · Energy&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50440709&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/15/top_stories_11152026#story-50440709&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>DNS resolvers are the wrong place to fight piracy</title>
@@ -617,19 +613,6 @@
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50563148&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/21/top_stories_11212026#story-50563148&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>KDE: The documentary [video]</title>
-      <link>https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50496976</guid>
-      <dc:creator>mrkn1</dc:creator>
-      <pubDate>Sat, 14 Nov 2026 13:43:28 +0000</pubDate>
-      <category>Open Source</category>
-      <category>Culture</category>
-      <description>&lt;p&gt;KDE: The Documentary tells the story of the open-source community that emerged in 1996 to offer computer users a free alternative to proprietary desktops such as Windows. It traces the origins and development of KDE as a pioneering desktop project.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;《KDE：纪录片》讲述了这一开源社区的故事：它于 1996 年兴起，为计算机用户提供了 Windows 等专有桌面之外的免费替代方案。影片追溯了 KDE 这一先驱桌面项目的起源与发展。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 562 · 💬 133 · Open Source · Culture&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50496976&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/15/top_stories_11152026#story-50496976&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>Carnival Cruises emits ten times more sulphur oxide than all of Europe's cars (2019)</title>
       <link>https://ecohustler.com/article/one-corporation-to-pollute-them-all/</link>
       <guid isPermaLink="true">https://news.ycombinator.com/item?id=50572116</guid>
@@ -640,6 +623,18 @@
 &lt;p&gt;&lt;em&gt;Transport &amp; Environment 的分析发现，2017 年嘉年华集团在欧洲海岸附近排放的硫氧化物，几乎是欧洲 2.6 亿辆汽车总和的 10 倍。报告将污染归因于邮轮燃烧污染严重的船用燃料。该发现促使人们呼吁使用更清洁的燃料，并加强对航运排放的监管。&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;▲ 549 · 💬 341 · Science&lt;/small&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50572116&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/21/top_stories_11212026#story-50572116&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Unforced Navier-Stokes Singularity and the Generalized Riemann Hypothesis</title>
+      <link>https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50578358</guid>
+      <dc:creator>archon1410</dc:creator>
+      <pubDate>Fri, 20 Nov 2026 17:21:36 +0000</pubDate>
+      <category>Science</category>
+      <description>&lt;p&gt;Terence Tao lists recent results involving unforced Euler and Navier–Stokes equations, the Riemann Hypothesis, and researchers including Levent Alpöge and Tristan Buckmaster. He says the results will be reported more widely, while noting that their current level of digestion varies. The post is dated November 20, 2026.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Terence Tao 列出了涉及无外力 Euler 方程、Navier–Stokes 方程、黎曼猜想以及 Levent Alpöge、Tristan Buckmaster 等研究者的最新结果。他表示，这些结果还会在其他渠道广泛报道，同时指出目前对这些成果的理解和整理程度各不相同。该文章发表于 2026 年 11 月 20 日。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 538 · 💬 240 · Science&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50578358&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/21/top_stories_11212026#story-50578358&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
