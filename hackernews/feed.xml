@@ -5,7 +5,7 @@
     <link>https://chaowang15.github.io/hackernews/</link>
     <description>Curated daily digest of top Hacker News stories with AI-generated summaries, tags, and bilingual translations.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 22 Nov 2026 16:05:19 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 02:06:41 +0000</lastBuildDate>
     <generator>Hacker News Daily RSS Builder</generator>
     <atom:link href="https://chaowang15.github.io/hackernews/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
@@ -17,7 +17,7 @@
       <category>Science</category>
       <description>&lt;p&gt;Levent Alpöge claims to have found a proof of the Generalized Riemann Hypothesis. The claim is presented in a PDF.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Levent Alpöge 声称找到了广义黎曼猜想的证明。相关论证以 PDF 形式发布。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 2892 · 💬 2078 · Science&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 2907 · 💬 2089 · Science&lt;/small&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50574968&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/22/top_stories_11222026#story-50574968&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
@@ -78,8 +78,20 @@
       <category>Open Source</category>
       <description>&lt;p&gt;Thinking Machines has released Inkling 2 Mini, an open-weights model small enough to run on a laptop. It is a looped transformer that runs its middle layers three times per token, allowing it to reason more and use fewer tokens. The model reportedly leads open-weights models under 100 billion total parameters on DeepSWE v1.1 and Vals Index v2.2, while also running faster than similarly performing models.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Thinking Machines 发布了 Inkling 2 Mini，这是一款小到可以在笔记本电脑上运行的开放权重模型。它采用循环 Transformer，每个 token 将中间层运行三次，从而进行更多推理并减少 token 使用量。据称，在总参数量低于 1000 亿的开放权重模型中，它在 DeepSWE v1.1 和 Vals Index v2.2 上处于领先，同时运行速度也快于性能相近的模型。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 1438 · 💬 290 · AI · Open Source&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 1456 · 💬 293 · AI · Open Source&lt;/small&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50581260&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/22/top_stories_11222026#story-50581260&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'</title>
+      <link>https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50582069</guid>
+      <dc:creator>rafaelc</dc:creator>
+      <pubDate>Fri, 20 Nov 2026 21:03:12 +0000</pubDate>
+      <category>Health</category>
+      <description>&lt;p&gt;In a trial of daraxonrasib, the cancer became undetectable in one in 12 patients with advanced pancreatic cancer. Tumors stopped growing in nearly all of the 61 participants, whose cancer had spread to other parts of the body. The results are being hailed as a major advance in pancreatic cancer treatment.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;在 daraxonrasib 的一项试验中，12 名晚期胰腺癌患者中有 1 人的癌症变得无法检测到。61 名参与者的肿瘤几乎全部停止生长，这些患者的癌症此前已扩散到身体其他部位。这些结果被誉为胰腺癌治疗领域的重大进展。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 1342 · 💬 300 · Health&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50582069&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/22/top_stories_11222026#story-50582069&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>GPT‑6.2 Astra and Sol</title>
@@ -106,16 +118,29 @@
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50530163&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/18/top_stories_11182026#story-50530163&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'</title>
-      <link>https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50582069</guid>
-      <dc:creator>rafaelc</dc:creator>
-      <pubDate>Fri, 20 Nov 2026 21:03:12 +0000</pubDate>
-      <category>Health</category>
-      <description>&lt;p&gt;In a trial of daraxonrasib, the cancer became undetectable in one in 12 patients with advanced pancreatic cancer. Tumors stopped growing in nearly all of the 61 participants, whose cancer had spread to other parts of the body. The results are being hailed as a major advance in pancreatic cancer treatment.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;在 daraxonrasib 的一项试验中，12 名晚期胰腺癌患者中有 1 人的癌症变得无法检测到。61 名参与者的肿瘤几乎全部停止生长，这些患者的癌症此前已扩散到身体其他部位。这些结果被誉为胰腺癌治疗领域的重大进展。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 1206 · 💬 263 · Health&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50582069&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/22/top_stories_11222026#story-50582069&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+      <title>Lean verification of the Riemann Hypothesis</title>
+      <link>https://leanprover-community.github.io/blog/posts/riemann-hypothesis/</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50589618</guid>
+      <dc:creator>g-b-r</dc:creator>
+      <pubDate>Sat, 21 Nov 2026 14:36:45 +0000</pubDate>
+      <category>Programming</category>
+      <category>Science</category>
+      <description>&lt;p&gt;Levent Alpöge released a Lean library containing a proof of the Riemann Hypothesis on November 20, 2026. The library comprises 17 million lines of code. The Lean and Mathlib communities issued a joint statement endorsing the verification, with support from the Lean FRO and the Mathlib Initiative.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;2026 年 11 月 20 日，Levent Alpöge 发布了一个包含黎曼猜想证明的 Lean 库。该库包含 1700 万行代码。Lean 和 Mathlib 社区随后发表联合声明，Lean FRO 与 Mathlib Initiative 也表示支持这项验证工作。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 1213 · 💬 1016 · Programming · Science&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50589618&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/22/top_stories_11222026#story-50589618&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Toyota, Nissan, and Honda to standardize parts to lower costs</title>
+      <link>https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50596133</guid>
+      <dc:creator>zdw</dc:creator>
+      <pubDate>Sun, 22 Nov 2026 04:04:56 +0000</pubDate>
+      <category>Business</category>
+      <description>&lt;p&gt;Toyota, Nissan, and Honda have agreed to standardize vehicle parts to reduce production costs as Japanese automakers compete with China’s growing automotive sector. The initial effort will unify quality criteria for steel, protocols for plastics and resins, and color coding for wiring harnesses. The Japan Automobile Manufacturers Association plans to expand standardization to more components across the vehicle, focusing first on parts that are largely invisible to consumers and represent significant costs.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;丰田、日产和本田已同意统一汽车零部件标准，以降低生产成本，应对中国汽车产业的增长。首阶段将统一钢材质量标准、塑料和树脂的处理规范，以及线束的颜色编码。日本汽车工业协会计划未来将标准化范围扩大到更多整车零部件，首先选择消费者通常看不到且成本占比较高的部件。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 1194 · 💬 681 · Business&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50596133&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/22/top_stories_11222026#story-50596133&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Java4Shell: RCE in OpenJDK when processing Base64</title>
@@ -128,19 +153,6 @@
 &lt;p&gt;&lt;em&gt;Calif 披露了 Java4Shell（编号 CVE-2026-114938），这是 OpenJDK Base64 解码器中的内存破坏漏洞。OpenJDK 被称为最流行的 Java 运行时。该漏洞在 CVSS 4.0 中获得 9.2 分（满分 10 分），评级为“严重”。这一评级意味着受影响的 OpenJDK 部署可能需要优先修补。&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;▲ 1176 · 💬 329 · Security&lt;/small&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50538240&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/19/top_stories_11192026#story-50538240&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Lean verification of the Riemann Hypothesis</title>
-      <link>https://leanprover-community.github.io/blog/posts/riemann-hypothesis/</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50589618</guid>
-      <dc:creator>g-b-r</dc:creator>
-      <pubDate>Sat, 21 Nov 2026 14:36:45 +0000</pubDate>
-      <category>Programming</category>
-      <category>Science</category>
-      <description>&lt;p&gt;Levent Alpöge released a Lean library containing a proof of the Riemann Hypothesis on November 20, 2026. The library comprises 17 million lines of code. The Lean and Mathlib communities issued a joint statement endorsing the verification, with support from the Lean FRO and the Mathlib Initiative.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;2026 年 11 月 20 日，Levent Alpöge 发布了一个包含黎曼猜想证明的 Lean 库。该库包含 1700 万行代码。Lean 和 Mathlib 社区随后发表联合声明，Lean FRO 与 Mathlib Initiative 也表示支持这项验证工作。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 1146 · 💬 953 · Programming · Science&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50589618&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/22/top_stories_11222026#story-50589618&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Anthropic’s Nasdaq debut</title>
@@ -194,6 +206,20 @@
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50519231&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/20/top_stories_11202026#story-50519231&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>87% of the Anthropic power will come from gas and 11% from coal in 2028</title>
+      <link>https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50597612</guid>
+      <dc:creator>happosai</dc:creator>
+      <pubDate>Sun, 22 Nov 2026 08:57:34 +0000</pubDate>
+      <category>Energy</category>
+      <category>Science</category>
+      <category>AI</category>
+      <description>&lt;p&gt;A case study estimates that Anthropic could emit 32 million metric tons of carbon dioxide in 2028. It examines the company’s total power use and the role of dedicated power generation for AI data centers, noting that planned bring-your-own-power gas capacity is far more common than renewable generation. The study also identifies another 200 GW of new fossil-fuel power plants being built on the grid, partly to meet data-center demand.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;一项案例研究估计，Anthropic 在 2028 年可能排放 3,200 万吨二氧化碳。研究考察了该公司的总用电量，以及 AI 数据中心专用发电的作用，并指出已规划的“自带电力”项目中，天然气发电远多于可再生能源。研究还指出，为满足包括数据中心在内的增长需求，电网上另有 200 吉瓦新的化石燃料发电厂正在建设。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 895 · 💬 898 · Energy · Science · AI&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50597612&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/22/top_stories_11222026#story-50597612&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Quad9's withdrawal from France: A canary in the coal mine</title>
       <link>https://blog.cloudflare.com/quad9-withdrawal-from-france/</link>
       <guid isPermaLink="true">https://news.ycombinator.com/item?id=50538994</guid>
@@ -219,18 +245,6 @@
 &lt;p&gt;&lt;em&gt;三名胰腺癌患者在接受病毒注射后，癌症病情得到遏制。&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;▲ 873 · 💬 154 · Health · Science&lt;/small&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50563066&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/20/top_stories_11202026#story-50563066&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Toyota, Nissan, and Honda to standardize parts to lower costs</title>
-      <link>https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50596133</guid>
-      <dc:creator>zdw</dc:creator>
-      <pubDate>Sun, 22 Nov 2026 04:04:56 +0000</pubDate>
-      <category>Business</category>
-      <description>&lt;p&gt;Toyota, Nissan, and Honda have agreed to standardize vehicle parts to reduce production costs as Japanese automakers compete with China’s growing automotive sector. The initial effort will unify quality criteria for steel, protocols for plastics and resins, and color coding for wiring harnesses. The Japan Automobile Manufacturers Association plans to expand standardization to more components across the vehicle, focusing first on parts that are largely invisible to consumers and represent significant costs.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;丰田、日产和本田已同意统一汽车零部件标准，以降低生产成本，应对中国汽车产业的增长。首阶段将统一钢材质量标准、塑料和树脂的处理规范，以及线束的颜色编码。日本汽车工业协会计划未来将标准化范围扩大到更多整车零部件，首先选择消费者通常看不到且成本占比较高的部件。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 870 · 💬 512 · Business&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50596133&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/22/top_stories_11222026#story-50596133&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Qwen4-Max</title>
@@ -307,6 +321,20 @@
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50547620&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/19/top_stories_11192026#story-50547620&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Slopstrap – Make your site look hastily vibecoded</title>
+      <link>https://slopstrap.mikelacher.com/</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50576012</guid>
+      <dc:creator>mlacher</dc:creator>
+      <pubDate>Fri, 20 Nov 2026 15:24:11 +0000</pubDate>
+      <category>Web</category>
+      <category>Design</category>
+      <category>AI</category>
+      <description>&lt;p&gt;Slopstrap describes itself as a CSS framework intended to make websites look as though they were hastily created by an LLM. It presents the tool as a way to give any project an intentionally AI-generated appearance.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Slopstrap 自称是一个 CSS 框架，旨在让网站看起来像是匆忙由 LLM 创建的。它将自己定位为一种让项目呈现刻意 AI 生成风格的工具。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 770 · 💬 140 · Web · Design · AI&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50576012&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/22/top_stories_11222026#story-50576012&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>AI is killing All About Berlin</title>
       <link>https://nicolasbouliane.com/blog/death-by-ai</link>
       <guid isPermaLink="true">https://news.ycombinator.com/item?id=50542705</guid>
@@ -330,20 +358,6 @@
 &lt;p&gt;&lt;em&gt;巴西税务机关已将其税务计算器以 MIT 许可证发布到 GitHub 上。此次发布让公众可以使用并检查该计算器的源代码。&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;▲ 756 · 💬 242 · Open Source · Programming&lt;/small&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50532613&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/21/top_stories_11212026#story-50532613&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Slopstrap – Make your site look hastily vibecoded</title>
-      <link>https://slopstrap.mikelacher.com/</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50576012</guid>
-      <dc:creator>mlacher</dc:creator>
-      <pubDate>Fri, 20 Nov 2026 15:24:11 +0000</pubDate>
-      <category>Web</category>
-      <category>Design</category>
-      <category>AI</category>
-      <description>&lt;p&gt;Slopstrap describes itself as a CSS framework intended to make websites look as though they were hastily created by an LLM. It presents the tool as a way to give any project an intentionally AI-generated appearance.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Slopstrap 自称是一个 CSS 框架，旨在让网站看起来像是匆忙由 LLM 创建的。它将自己定位为一种让项目呈现刻意 AI 生成风格的工具。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 743 · 💬 140 · Web · Design · AI&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50576012&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/22/top_stories_11222026#story-50576012&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Apple Services Down</title>
@@ -397,6 +411,18 @@
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50572355&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/21/top_stories_11212026#story-50572355&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Detonating a pile of lead azide</title>
+      <link>https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50588982</guid>
+      <dc:creator>beginning_end</dc:creator>
+      <pubDate>Sat, 21 Nov 2026 13:23:14 +0000</pubDate>
+      <category>Science</category>
+      <description>&lt;p&gt;The piece concerns the detonation of a large pile of lead azide. Lead azide is an explosive compound, making the incident a hazardous chemistry event.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;这篇内容涉及引爆一大堆叠氮化铅。叠氮化铅是一种爆炸性化合物，因此这是一起危险的化学实验事件。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 698 · 💬 425 · Science&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50588982&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/22/top_stories_11222026#story-50588982&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Google's AI answers reducing search traffic by 40%</title>
       <link>https://revscope.co/blog/search-seo-geo-2026/</link>
       <guid isPermaLink="true">https://news.ycombinator.com/item?id=50540178</guid>
@@ -422,6 +448,18 @@
 &lt;p&gt;&lt;em&gt;调查权力法庭驳回了英国政府试图对苹果命令保持保密的做法。法庭裁定，政府必须承认其依据《2016 年调查权力法》第 253 条向苹果发出过技术能力通知。这类通知可以要求科技公司修改服务，以协助行使调查权；本案涉及加密 iCloud 数据争议。&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;▲ 689 · 💬 361 · Privacy · Legal · Security · Politics&lt;/small&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50562113&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/20/top_stories_11202026#story-50562113&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>My monitor was cutting my download speed by 75%</title>
+      <link>https://blog.tymscar.com/posts/studiodisplayethernet/</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50587875</guid>
+      <dc:creator>soheilpro</dc:creator>
+      <pubDate>Sat, 21 Nov 2026 10:36:32 +0000</pubDate>
+      <category>Hardware</category>
+      <description>&lt;p&gt;A 2.5 Gbps symmetrical internet connection produced 2.4 Gbps uploads but only 600 Mbps downloads. The same result appeared on another laptop, while the ISP found no problem on its side. The investigation traced the bottleneck to a Studio Display XDR, a small buffer, and a USB burst size of four packets.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;一条上下行对称 2.5 Gbps 的网络连接，上传速度达到 2.4 Gbps，但下载速度只有 600 Mbps。在另一台笔记本电脑上测试也得到相同结果，而 ISP 检查后未发现其网络存在问题。调查最终将瓶颈定位到 Studio Display XDR、一个较小的缓冲区，以及每次四个数据包的 USB 突发大小。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 684 · 💬 316 · Hardware&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50587875&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/22/top_stories_11222026#story-50587875&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Optimizely compromised, served malware on Zoom, GitLab</title>
@@ -475,18 +513,6 @@
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50558533&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/19/top_stories_11192026#story-50558533&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Detonating a pile of lead azide</title>
-      <link>https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50588982</guid>
-      <dc:creator>beginning_end</dc:creator>
-      <pubDate>Sat, 21 Nov 2026 13:23:14 +0000</pubDate>
-      <category>Science</category>
-      <description>&lt;p&gt;The piece concerns the detonation of a large pile of lead azide. Lead azide is an explosive compound, making the incident a hazardous chemistry event.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;这篇内容涉及引爆一大堆叠氮化铅。叠氮化铅是一种爆炸性化合物，因此这是一起危险的化学实验事件。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 662 · 💬 409 · Science&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50588982&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/22/top_stories_11222026#story-50588982&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>Nvidia stopped disclosing Singapore sales as revenues hit $104B</title>
       <link>https://www.ft.com/content/dbde7a30-548c-4f9d-a4be-7898a0c24dcf</link>
       <guid isPermaLink="true">https://news.ycombinator.com/item?id=50534631</guid>
@@ -498,18 +524,6 @@
 &lt;p&gt;&lt;em&gt;英伟达营收达到 1040 亿美元后，停止披露其在新加坡的销售额。现有信息未说明这一报告变化的具体原因或其他细节。&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;▲ 657 · 💬 295 · Business · Finance&lt;/small&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50534631&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/18/top_stories_11182026#story-50534631&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>My monitor was cutting my download speed by 75%</title>
-      <link>https://blog.tymscar.com/posts/studiodisplayethernet/</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50587875</guid>
-      <dc:creator>soheilpro</dc:creator>
-      <pubDate>Sat, 21 Nov 2026 10:36:32 +0000</pubDate>
-      <category>Hardware</category>
-      <description>&lt;p&gt;A 2.5 Gbps symmetrical internet connection produced 2.4 Gbps uploads but only 600 Mbps downloads. The same result appeared on another laptop, while the ISP found no problem on its side. The investigation traced the bottleneck to a Studio Display XDR, a small buffer, and a USB burst size of four packets.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;一条上下行对称 2.5 Gbps 的网络连接，上传速度达到 2.4 Gbps，但下载速度只有 600 Mbps。在另一台笔记本电脑上测试也得到相同结果，而 ISP 检查后未发现其网络存在问题。调查最终将瓶颈定位到 Studio Display XDR、一个较小的缓冲区，以及每次四个数据包的 USB 突发大小。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 644 · 💬 298 · Hardware&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50587875&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/22/top_stories_11222026#story-50587875&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Microsoft 365 outage leads to chlorine gas poisoning of 15 hotel guests</title>
@@ -587,6 +601,31 @@
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50579331&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/21/top_stories_11212026#story-50579331&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Inkling-2-Mini in 5.4 GB Memory</title>
+      <link>https://github.com/ShinMegamiBoson/lookatmyquant</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50591853</guid>
+      <dc:creator>k__</dc:creator>
+      <pubDate>Sat, 21 Nov 2026 18:02:19 +0000</pubDate>
+      <category>AI</category>
+      <category>Programming</category>
+      <description>&lt;p&gt;LookAtMyQuant is a quantization compiler that evaluates how much compressing each part of a model affects its output. It selects codes for individual parts so the model fits a size budget with minimal damage. On Gemma 4 E2B, its GGUF reportedly achieves 12 times lower KL divergence than Q4_K_M at the same file size.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;LookAtMyQuant 是一个量化编译器，用于评估压缩模型各部分对输出造成的影响。它会为各个部分选择编码，使模型在满足大小限制的同时尽量减少损失。在 Gemma 4 E2B 上，其 GGUF 文件在相同文件大小下的 KL 散度据称比 Q4_K_M 低 12 倍。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 582 · 💬 138 · AI · Programming&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50591853&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/22/top_stories_11222026#story-50591853&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Sandwich Simulator</title>
+      <link>https://stulle.app/</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50594911</guid>
+      <dc:creator>subdomain</dc:creator>
+      <pubDate>Sun, 22 Nov 2026 00:07:59 +0000</pubDate>
+      <category>Entertainment</category>
+      <description>&lt;p&gt;Sandwich Simulator lets users spread something on a slice of bread, add toppings, and take a photo. Each creation receives a number and a link.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;“三明治模拟器”允许用户在一片面包上涂抹食材、添加配料并拍照。每个作品都会获得一个编号和链接。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 572 · 💬 198 · Entertainment&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50594911&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/22/top_stories_11222026#story-50594911&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Restricting AI agents in mobile operating systems platforms from capturing data</title>
       <link>https://signal.org/blog/protecting-your-privacy/</link>
       <guid isPermaLink="true">https://news.ycombinator.com/item?id=50572348</guid>
@@ -598,43 +637,6 @@
 &lt;p&gt;&lt;em&gt;Signal 表示，正在限制移动操作系统中最新的 AI 代理，以防它们捕获并存储 Signal 数据。这一举措被视为 Signal 隐私保护使命的一部分。&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;▲ 571 · 💬 336 · Privacy · AI&lt;/small&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50572348&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/21/top_stories_11212026#story-50572348&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Claude solves two open problems in the physics of black holes</title>
-      <link>https://www.anthropic.com/research/claude-black-hole-physics</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50563148</guid>
-      <dc:creator>cybermango</dc:creator>
-      <pubDate>Thu, 19 Nov 2026 17:30:44 +0000</pubDate>
-      <category>AI</category>
-      <category>Science</category>
-      <description>&lt;p&gt;Claude Fable 5.2 is reported to have solved two open problems in theoretical physics involving black holes and the search for quantum gravity. The problems sit at the intersection of general relativity and quantum mechanics, whose mathematical incompatibility remains a central challenge in physics. Researchers often use holographic duality and simplified model universes to study these questions.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;据称，Claude Fable 5.2 解决了理论物理学中的两个开放问题，涉及黑洞和量子引力理论的探索。这些问题位于广义相对论与量子力学的交叉地带，而两者在数学上的不相容仍是物理学的核心挑战之一。研究人员经常借助全息对偶和简化的模型宇宙来研究这些问题。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 568 · 💬 274 · AI · Science&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50563148&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/21/top_stories_11212026#story-50563148&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Carnival Cruises emits ten times more sulphur oxide than all of Europe's cars (2019)</title>
-      <link>https://ecohustler.com/article/one-corporation-to-pollute-them-all/</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50572116</guid>
-      <dc:creator>sammatilda</dc:creator>
-      <pubDate>Fri, 20 Nov 2026 09:13:09 +0000</pubDate>
-      <category>Science</category>
-      <description>&lt;p&gt;A Transport &amp; Environment analysis found that Carnival Corporation emitted nearly 10 times more sulfur oxides around European coasts in 2017 than all 260 million European cars combined. The report attributes the pollution to cruise ships burning dirty bunker fuel. The findings prompted calls for cleaner fuel and stronger controls on shipping emissions.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Transport &amp; Environment 的分析发现，2017 年嘉年华集团在欧洲海岸附近排放的硫氧化物，几乎是欧洲 2.6 亿辆汽车总和的 10 倍。报告将污染归因于邮轮燃烧污染严重的船用燃料。该发现促使人们呼吁使用更清洁的燃料，并加强对航运排放的监管。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 549 · 💬 341 · Science&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50572116&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/21/top_stories_11212026#story-50572116&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Unforced Navier-Stokes Singularity and the Generalized Riemann Hypothesis</title>
-      <link>https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50578358</guid>
-      <dc:creator>archon1410</dc:creator>
-      <pubDate>Fri, 20 Nov 2026 17:21:36 +0000</pubDate>
-      <category>Science</category>
-      <description>&lt;p&gt;Terence Tao lists recent results involving unforced Euler and Navier–Stokes equations, the Riemann Hypothesis, and researchers including Levent Alpöge and Tristan Buckmaster. He says the results will be reported more widely, while noting that their current level of digestion varies. The post is dated November 20, 2026.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Terence Tao 列出了涉及无外力 Euler 方程、Navier–Stokes 方程、黎曼猜想以及 Levent Alpöge、Tristan Buckmaster 等研究者的最新结果。他表示，这些结果还会在其他渠道广泛报道，同时指出目前对这些成果的理解和整理程度各不相同。该文章发表于 2026 年 11 月 20 日。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 538 · 💬 240 · Science&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50578358&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/21/top_stories_11212026#story-50578358&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
