@@ -5,7 +5,7 @@
     <link>https://chaowang15.github.io/hackernews/</link>
     <description>Curated daily digest of top Hacker News stories with AI-generated summaries, tags, and bilingual translations.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 23 Nov 2026 02:06:41 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 16:05:57 +0000</lastBuildDate>
     <generator>Hacker News Daily RSS Builder</generator>
     <atom:link href="https://chaowang15.github.io/hackernews/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
@@ -45,16 +45,18 @@
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50522980&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/17/top_stories_11172026#story-50522980&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>SpaceX catches the Starship to end Flight 15</title>
-      <link>https://www.spacex.com/launches/starship-flight-15</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50500963</guid>
-      <dc:creator>ls612</dc:creator>
-      <pubDate>Sat, 14 Nov 2026 21:22:24 +0000</pubDate>
-      <category>Space</category>
-      <description>&lt;p&gt;SpaceX's Starship Flight 15 ended with the vehicle being caught by the launch system. The available material provides no further details about the flight or the catch.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;SpaceX 的星舰第 15 次飞行以发射系统接住飞行器告终。现有信息未提供这次飞行或捕获过程的更多细节。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 1742 · 💬 1349 · Space&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50500963&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/16/top_stories_11162026#story-50500963&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+      <title>Jensen Huang Reinstated as Nvidia CEO</title>
+      <link>https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50611588</guid>
+      <dc:creator>alanwong</dc:creator>
+      <pubDate>Mon, 23 Nov 2026 14:01:23 +0000</pubDate>
+      <category>Business</category>
+      <category>Security</category>
+      <category>Politics</category>
+      <description>&lt;p&gt;NVIDIA announced that Jensen Huang has been immediately reinstated as president, chief executive officer, and a member of the board. The board voted unanimously after discussions with Huang and said it was satisfied with his candor and ability to lead the company. The board also received input from senior U.S. government officials and concluded that his reinstatement poses no national security risk.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;英伟达宣布，黄仁勋即日起复任总裁、首席执行官和董事会成员。董事会在与黄仁勋进行多次讨论后，一致投票支持复任，并表示认可他的坦诚以及领导公司的能力。董事会还听取了美国政府高层的意见，认定黄仁勋复任不会带来国家安全风险。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 1528 · 💬 1309 · Business · Security · Politics&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50611588&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/23/top_stories_11232026#story-50611588&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Unauthenticated remote code execution in Nginx</title>
@@ -90,8 +92,20 @@
       <category>Health</category>
       <description>&lt;p&gt;In a trial of daraxonrasib, the cancer became undetectable in one in 12 patients with advanced pancreatic cancer. Tumors stopped growing in nearly all of the 61 participants, whose cancer had spread to other parts of the body. The results are being hailed as a major advance in pancreatic cancer treatment.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;在 daraxonrasib 的一项试验中，12 名晚期胰腺癌患者中有 1 人的癌症变得无法检测到。61 名参与者的肿瘤几乎全部停止生长，这些患者的癌症此前已扩散到身体其他部位。这些结果被誉为胰腺癌治疗领域的重大进展。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 1342 · 💬 300 · Health&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50582069&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/22/top_stories_11222026#story-50582069&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+&lt;p&gt;&lt;small&gt;▲ 1377 · 💬 309 · Health&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50582069&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/23/top_stories_11232026#story-50582069&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Toyota, Nissan, and Honda to standardize parts to lower costs</title>
+      <link>https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50596133</guid>
+      <dc:creator>zdw</dc:creator>
+      <pubDate>Sun, 22 Nov 2026 04:04:56 +0000</pubDate>
+      <category>Business</category>
+      <description>&lt;p&gt;Toyota, Nissan, and Honda have agreed to standardize vehicle parts to reduce production costs as Japanese automakers compete with China’s growing automotive sector. The initial effort will unify quality criteria for steel, protocols for plastics and resins, and color coding for wiring harnesses. The Japan Automobile Manufacturers Association plans to expand standardization to more components across the vehicle, focusing first on parts that are largely invisible to consumers and represent significant costs.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;丰田、日产和本田已同意统一汽车零部件标准，以降低生产成本，应对中国汽车产业的增长。首阶段将统一钢材质量标准、塑料和树脂的处理规范，以及线束的颜色编码。日本汽车工业协会计划未来将标准化范围扩大到更多整车零部件，首先选择消费者通常看不到且成本占比较高的部件。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 1350 · 💬 722 · Business&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50596133&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/23/top_stories_11232026#story-50596133&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>GPT‑6.2 Astra and Sol</title>
@@ -129,18 +143,6 @@
 &lt;p&gt;&lt;em&gt;2026 年 11 月 20 日，Levent Alpöge 发布了一个包含黎曼猜想证明的 Lean 库。该库包含 1700 万行代码。Lean 和 Mathlib 社区随后发表联合声明，Lean FRO 与 Mathlib Initiative 也表示支持这项验证工作。&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;▲ 1213 · 💬 1016 · Programming · Science&lt;/small&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50589618&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/22/top_stories_11222026#story-50589618&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Toyota, Nissan, and Honda to standardize parts to lower costs</title>
-      <link>https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50596133</guid>
-      <dc:creator>zdw</dc:creator>
-      <pubDate>Sun, 22 Nov 2026 04:04:56 +0000</pubDate>
-      <category>Business</category>
-      <description>&lt;p&gt;Toyota, Nissan, and Honda have agreed to standardize vehicle parts to reduce production costs as Japanese automakers compete with China’s growing automotive sector. The initial effort will unify quality criteria for steel, protocols for plastics and resins, and color coding for wiring harnesses. The Japan Automobile Manufacturers Association plans to expand standardization to more components across the vehicle, focusing first on parts that are largely invisible to consumers and represent significant costs.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;丰田、日产和本田已同意统一汽车零部件标准，以降低生产成本，应对中国汽车产业的增长。首阶段将统一钢材质量标准、塑料和树脂的处理规范，以及线束的颜色编码。日本汽车工业协会计划未来将标准化范围扩大到更多整车零部件，首先选择消费者通常看不到且成本占比较高的部件。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 1194 · 💬 681 · Business&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50596133&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/22/top_stories_11222026#story-50596133&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Java4Shell: RCE in OpenJDK when processing Base64</title>
@@ -182,6 +184,20 @@
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50552424&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/19/top_stories_11192026#story-50552424&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>87% of the Anthropic power will come from gas and 11% from coal in 2028</title>
+      <link>https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50597612</guid>
+      <dc:creator>happosai</dc:creator>
+      <pubDate>Sun, 22 Nov 2026 08:57:34 +0000</pubDate>
+      <category>Energy</category>
+      <category>Science</category>
+      <category>AI</category>
+      <description>&lt;p&gt;A case study estimates that Anthropic could emit 32 million metric tons of carbon dioxide in 2028. It examines the company’s total power use and the role of dedicated power generation for AI data centers, noting that planned bring-your-own-power gas capacity is far more common than renewable generation. The study also identifies another 200 GW of new fossil-fuel power plants being built on the grid, partly to meet data-center demand.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;一项案例研究估计，Anthropic 在 2028 年可能排放 3,200 万吨二氧化碳。研究考察了该公司的总用电量，以及 AI 数据中心专用发电的作用，并指出已规划的“自带电力”项目中，天然气发电远多于可再生能源。研究还指出，为满足包括数据中心在内的增长需求，电网上另有 200 吉瓦新的化石燃料发电厂正在建设。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 1001 · 💬 980 · Energy · Science · AI&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50597612&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/23/top_stories_11232026#story-50597612&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Many of Amazon’s Black Friday and Cyber Monday “deals” offered no savings</title>
       <link>http://groundworkcollaborative.org/news/amazons-decoy-deals-groundwork-investigation-reveals-nearly-1-in-3-black-friday-and-cyber-monday-deals-advertised-by-amazon-offered-no-savings-to-shoppers-nearly-1-in-10-w/</link>
       <guid isPermaLink="true">https://news.ycombinator.com/item?id=50517488</guid>
@@ -204,20 +220,6 @@
 &lt;p&gt;&lt;em&gt;一款车库门开启器最初会在车门开关时发送通知，因此人在外出时，异常开门会显得格外重要。尽管 myQ 应用广告很多，用户仍因信任这些通知而继续使用它。&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;▲ 912 · 💬 394 · Security&lt;/small&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50519231&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/20/top_stories_11202026#story-50519231&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>87% of the Anthropic power will come from gas and 11% from coal in 2028</title>
-      <link>https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50597612</guid>
-      <dc:creator>happosai</dc:creator>
-      <pubDate>Sun, 22 Nov 2026 08:57:34 +0000</pubDate>
-      <category>Energy</category>
-      <category>Science</category>
-      <category>AI</category>
-      <description>&lt;p&gt;A case study estimates that Anthropic could emit 32 million metric tons of carbon dioxide in 2028. It examines the company’s total power use and the role of dedicated power generation for AI data centers, noting that planned bring-your-own-power gas capacity is far more common than renewable generation. The study also identifies another 200 GW of new fossil-fuel power plants being built on the grid, partly to meet data-center demand.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;一项案例研究估计，Anthropic 在 2028 年可能排放 3,200 万吨二氧化碳。研究考察了该公司的总用电量，以及 AI 数据中心专用发电的作用，并指出已规划的“自带电力”项目中，天然气发电远多于可再生能源。研究还指出，为满足包括数据中心在内的增长需求，电网上另有 200 吉瓦新的化石燃料发电厂正在建设。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 895 · 💬 898 · Energy · Science · AI&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50597612&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/22/top_stories_11222026#story-50597612&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Quad9's withdrawal from France: A canary in the coal mine</title>
@@ -245,30 +247,6 @@
 &lt;p&gt;&lt;em&gt;三名胰腺癌患者在接受病毒注射后，癌症病情得到遏制。&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;▲ 873 · 💬 154 · Health · Science&lt;/small&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50563066&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/20/top_stories_11202026#story-50563066&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Qwen4-Max</title>
-      <link>https://qwen.ai/blog?id=qwen4-max</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50513215</guid>
-      <dc:creator>ilreb</dc:creator>
-      <pubDate>Mon, 16 Nov 2026 02:14:44 +0000</pubDate>
-      <category>AI</category>
-      <description>&lt;p&gt;Qwen4-Max is described as supporting chat, image and video understanding, image generation, document processing, web search integration, tool use, and artifacts. It is positioned as a model or service with functionality spanning multiple input and output types.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Qwen4-Max 被描述为支持聊天、图像和视频理解、图像生成、文档处理、联网搜索、工具调用及 artifacts。它定位为覆盖多种输入和输出形式的模型或服务。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 854 · 💬 471 · AI&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50513215&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/16/top_stories_11162026#story-50513215&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>How to make almost anything</title>
-      <link>https://pub.cba.mit.edu/863.26/site/</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50514470</guid>
-      <dc:creator>o4c</dc:creator>
-      <pubDate>Mon, 16 Nov 2026 05:50:37 +0000</pubDate>
-      <category>Education</category>
-      <description>&lt;p&gt;A project or course titled “How to make almost anything” focuses on creating a wide range of physical or electronic things. Further details about its methods or scope are not available here.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;“如何制造几乎任何东西”是一项围绕制作各种实体或电子作品展开的项目或课程。现有信息未提供其具体方法或内容范围。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 839 · 💬 142 · Education&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50514470&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/16/top_stories_11162026#story-50514470&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>I'll never buy Framework hardware again</title>
@@ -335,6 +313,19 @@
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50576012&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/22/top_stories_11222026#story-50576012&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>What Happened to Silicon Valley?</title>
+      <link>https://www.oreilly.com/radar/what-happened-to-silicon-valley/</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50602947</guid>
+      <dc:creator>greenyouse</dc:creator>
+      <pubDate>Sun, 22 Nov 2026 19:20:15 +0000</pubDate>
+      <category>Business</category>
+      <category>AI</category>
+      <description>&lt;p&gt;The lecture traces Silicon Valley's shift from customer-centered innovation toward extraction driven by shareholder capitalism, monopoly ambitions, and hype. It connects that evolution to the current AI boom and argues that technology's value depends on surrounding rules, incentives, and interfaces. Its proposed direction emphasizes openness, portability, interoperability, and a circulatory economy of value.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;这场演讲追溯了硅谷如何从以客户为中心的创新，转向由股东资本主义、垄断野心和炒作驱动的价值攫取。演讲将这一变化与当前 AI 热潮联系起来，并认为技术价值取决于周围的规则、激励机制和界面。其主张的方向强调开放性、可移植性、互操作性，以及价值循环流动的经济模式。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 764 · 💬 412 · Business · AI&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50602947&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/23/top_stories_11232026#story-50602947&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>AI is killing All About Berlin</title>
       <link>https://nicolasbouliane.com/blog/death-by-ai</link>
       <guid isPermaLink="true">https://news.ycombinator.com/item?id=50542705</guid>
@@ -358,6 +349,18 @@
 &lt;p&gt;&lt;em&gt;巴西税务机关已将其税务计算器以 MIT 许可证发布到 GitHub 上。此次发布让公众可以使用并检查该计算器的源代码。&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;▲ 756 · 💬 242 · Open Source · Programming&lt;/small&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50532613&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/21/top_stories_11212026#story-50532613&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Free alternative TV network built from the Internet Archive's forgotten videos</title>
+      <link>https://spelunkr.tv</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50606192</guid>
+      <dc:creator>SockThief</dc:creator>
+      <pubDate>Mon, 23 Nov 2026 01:13:51 +0000</pubDate>
+      <category>Web</category>
+      <description>&lt;p&gt;The project provides synchronized 24/7 channels built from forgotten videos in the Internet Archive. It is designed to resemble cable television, but with a deliberately stranger selection of programming.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;该项目利用互联网档案馆中被遗忘的视频，提供全天候同步播放的频道。它模仿有线电视的形式，但节目选择更加古怪。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 738 · 💬 136 · Web&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50606192&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/23/top_stories_11232026#story-50606192&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Apple Services Down</title>
@@ -526,16 +529,41 @@
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50534631&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/18/top_stories_11182026#story-50534631&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Microsoft 365 outage leads to chlorine gas poisoning of 15 hotel guests</title>
-      <link>https://www1.wdr.de/nrw/rheinland/rhein-erft-kreis/technischer-defekt-chlor-phantasialand-100.html</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50509411</guid>
-      <dc:creator>DeepLogin</dc:creator>
-      <pubDate>Sun, 15 Nov 2026 18:36:10 +0000</pubDate>
-      <category>Health</category>
-      <description>&lt;p&gt;A Microsoft Outlook outage meant Phantasialand did not receive notice that excessive chlorine was present in a pool. Fifteen guests were injured as a result.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;微软 Outlook 服务中断，导致 Phantasialand 未能收到泳池氯含量过高的通知。结果造成 15 名客人受伤。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 621 · 💬 273 · Health&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50509411&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/16/top_stories_11162026#story-50509411&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+      <title>A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth</title>
+      <link>https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50603845</guid>
+      <dc:creator>Retell15</dc:creator>
+      <pubDate>Sun, 22 Nov 2026 21:01:16 +0000</pubDate>
+      <category>AI</category>
+      <category>Privacy</category>
+      <description>&lt;p&gt;The guide explains how to set up a free, personal ChatGPT-like system on a home PC using Unsloth with Inkling or Qwen. It emphasizes that the system can remain private and be shared across a household. The approach is presented as an alternative to cloud providers amid concerns about model control, quality changes, rising costs, and privacy.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;这篇指南介绍了如何在家用电脑上使用 Unsloth 搭配 Inkling 或 Qwen，搭建免费的个人 ChatGPT 类系统。该系统可以保持私密，并供全家使用。文章将这种方案视为云服务的替代选择，原因包括模型控制、质量变化、成本上涨和隐私问题。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 654 · 💬 264 · AI · Privacy&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50603845&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/23/top_stories_11232026#story-50603845&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Perplexity and Intelligence</title>
+      <link>https://openai.com/index/perplexity-and-intelligence/</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50601525</guid>
+      <dc:creator>acossta</dc:creator>
+      <pubDate>Sun, 22 Nov 2026 17:06:27 +0000</pubDate>
+      <category>AI</category>
+      <description>&lt;p&gt;OpenAI chief scientist Jakub Pachocki describes modern AI as largely based on training a compressor or predictor over a very large corpus of data.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;文章探讨困惑度如何衡量 AI 模型的进步，以及它如何帮助开发者建立评估新兴能力的共同方法。OpenAI 首席科学家 Jakub Pachocki 将现代 AI 描述为主要通过在超大规模数据语料上训练压缩器或预测器来构建。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 652 · 💬 423 · AI&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50601525&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/23/top_stories_11232026#story-50601525&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>GLM-5.4: Toward Generalized Coding with Our First Loop Transformer</title>
+      <link>https://z.ai/blog/glm-5.4</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50609685</guid>
+      <dc:creator>foohis</dc:creator>
+      <pubDate>Mon, 23 Nov 2026 10:06:43 +0000</pubDate>
+      <category>AI</category>
+      <description>&lt;p&gt;GLM-5.4 is presented as a step toward generalized coding and introduces the project's first Loop Transformer. The available description does not provide further details about the model's architecture, benchmarks, or capabilities.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;GLM-5.4 被定位为迈向通用化编程的一步，并引入了该项目首个循环 Transformer。现有信息未提供其架构、基准测试或具体能力的更多细节。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 642 · 💬 242 · AI&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50609685&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/23/top_stories_11232026#story-50609685&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Ask HN: I have been unemployed for 2y. 15 years of experience, US. What to do?</title>
@@ -563,19 +591,6 @@
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50545958&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/18/top_stories_11182026#story-50545958&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Universal XSS in uBlock Origin from website-driven element picker</title>
-      <link>https://iter.ca/post/ubo-uxss/</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50513160</guid>
-      <dc:creator>zaik</dc:creator>
-      <pubDate>Mon, 16 Nov 2026 02:04:48 +0000</pubDate>
-      <category>Security</category>
-      <category>Programming</category>
-      <description>&lt;p&gt;A one-click universal XSS vulnerability affected the Firefox version of uBlock Origin through its element picker. A malicious website could trick the extension into adding arbitrary trusted filters, which can inject JavaScript into other websites and execute it in their contexts. The issue has been fixed; a related but less severe problem also affected the MV3-based uBO Lite.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;uBlock Origin 的 Firefox 版本元素选择器存在一个可通过一次点击触发的通用 XSS 漏洞。恶意网站可以诱使扩展添加任意受信过滤规则，而受信规则能够向其他网站注入 JavaScript，并在这些网站的上下文中执行。该问题现已修复；基于 MV3 的 uBO Lite 也受到一个相关但危害较小的问题影响。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 598 · 💬 174 · Security · Programming&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50513160&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/16/top_stories_11162026#story-50513160&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>Seven new models at scalable price-performance</title>
       <link>https://microsoft.ai/news/microsoft-ignite-2026/</link>
       <guid isPermaLink="true">https://news.ycombinator.com/item?id=50548021</guid>
@@ -586,6 +601,18 @@
 &lt;p&gt;&lt;em&gt;Microsoft 宣布推出七个新模型，主打可扩展的价格与性能表现。&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;▲ 593 · 💬 376 · AI&lt;/small&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50548021&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/19/top_stories_11192026#story-50548021&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife</title>
+      <link>https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50602843</guid>
+      <dc:creator>gaws</dc:creator>
+      <pubDate>Sun, 22 Nov 2026 19:10:34 +0000</pubDate>
+      <category>Science</category>
+      <description>&lt;p&gt;The field guide catalogs birds found in GTA 6's Leonida, from roseate spoonbills in the Grassrivers to gulls over Vice Beach. It covers how to find the species, how the bird-spotting mechanics work, and the accuracy of Rockstar's wildlife artwork.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;这份野外指南整理了《GTA 6》Leonida 中的鸟类，从 Grassrivers 的玫瑰琵鹭到 Vice Beach 上空的海鸥。内容涵盖鸟类寻找方法、观鸟机制，以及 Rockstar 对野生动物的还原程度。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 590 · 💬 322 · Science&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50602843&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/23/top_stories_11232026#story-50602843&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>We promoted developers into architects without informing them</title>
@@ -612,31 +639,6 @@
 &lt;p&gt;&lt;em&gt;LookAtMyQuant 是一个量化编译器，用于评估压缩模型各部分对输出造成的影响。它会为各个部分选择编码，使模型在满足大小限制的同时尽量减少损失。在 Gemma 4 E2B 上，其 GGUF 文件在相同文件大小下的 KL 散度据称比 Q4_K_M 低 12 倍。&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;▲ 582 · 💬 138 · AI · Programming&lt;/small&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50591853&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/22/top_stories_11222026#story-50591853&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Sandwich Simulator</title>
-      <link>https://stulle.app/</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50594911</guid>
-      <dc:creator>subdomain</dc:creator>
-      <pubDate>Sun, 22 Nov 2026 00:07:59 +0000</pubDate>
-      <category>Entertainment</category>
-      <description>&lt;p&gt;Sandwich Simulator lets users spread something on a slice of bread, add toppings, and take a photo. Each creation receives a number and a link.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;“三明治模拟器”允许用户在一片面包上涂抹食材、添加配料并拍照。每个作品都会获得一个编号和链接。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 572 · 💬 198 · Entertainment&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50594911&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/22/top_stories_11222026#story-50594911&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Restricting AI agents in mobile operating systems platforms from capturing data</title>
-      <link>https://signal.org/blog/protecting-your-privacy/</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50572348</guid>
-      <dc:creator>dotcoma</dc:creator>
-      <pubDate>Fri, 20 Nov 2026 09:42:16 +0000</pubDate>
-      <category>Privacy</category>
-      <category>AI</category>
-      <description>&lt;p&gt;Signal says it is restricting the latest AI agents built into mobile operating systems from potentially capturing and storing Signal data. The move is presented as part of Signal’s broader privacy mission.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Signal 表示，正在限制移动操作系统中最新的 AI 代理，以防它们捕获并存储 Signal 数据。这一举措被视为 Signal 隐私保护使命的一部分。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 571 · 💬 336 · Privacy · AI&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50572348&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/21/top_stories_11212026#story-50572348&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
