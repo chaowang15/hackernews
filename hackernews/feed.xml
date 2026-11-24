@@ -5,7 +5,7 @@
     <link>https://chaowang15.github.io/hackernews/</link>
     <description>Curated daily digest of top Hacker News stories with AI-generated summaries, tags, and bilingual translations.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 24 Nov 2026 02:04:51 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 16:06:09 +0000</lastBuildDate>
     <generator>Hacker News Daily RSS Builder</generator>
     <atom:link href="https://chaowang15.github.io/hackernews/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
@@ -21,6 +21,18 @@
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50574968&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/22/top_stories_11222026#story-50574968&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Nvidia Reinstates Jensen Huang as CEO</title>
+      <link>https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50611576</guid>
+      <dc:creator>jaz</dc:creator>
+      <pubDate>Mon, 23 Nov 2026 14:00:18 +0000</pubDate>
+      <category>Business</category>
+      <description>&lt;p&gt;Nvidia has reinstated Jensen Huang as its CEO. The supplied source excerpt contains links but no further reliable details about the decision, its timing, or the circumstances surrounding it.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;英伟达重新任命黄仁勋为首席执行官。现有摘录仅包含相关链接，未提供有关这一决定、时间或背景的更多可靠细节。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 2719 · 💬 3578 · Business&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50611576&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/24/top_stories_11242026#story-50611576&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Hurried Announcement: Alessandro Masullo GRH</title>
       <link>https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/</link>
       <guid isPermaLink="true">https://news.ycombinator.com/item?id=50579568</guid>
@@ -33,28 +45,29 @@
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50579568&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/21/top_stories_11212026#story-50579568&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Carnegie Mellon is putting computer science courses on YouTube for free</title>
-      <link>https://www.cs.cmu.edu/learn/</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50522980</guid>
-      <dc:creator>pcompeau</dc:creator>
-      <pubDate>Mon, 16 Nov 2026 20:43:36 +0000</pubDate>
-      <category>Education</category>
-      <description>&lt;p&gt;Carnegie Mellon’s Kenneth C. Griffin School of Computer Science is publishing free lectures on YouTube. Self-paced courseware is planned as the next step. The release gives learners access to the school’s computer science material without charge.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;卡内基梅隆大学肯尼斯·C·格里芬计算机科学学院正在 YouTube 上发布免费课程讲座。下一步计划推出可自主学习的课程材料。这将让学习者免费接触该学院的计算机科学内容。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 2283 · 💬 308 · Education&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50522980&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/17/top_stories_11172026#story-50522980&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+      <title>Ladybird is now in alpha</title>
+      <link>https://ladybird.org/posts/alpha/</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50614249</guid>
+      <dc:creator>janvdberg</dc:creator>
+      <pubDate>Mon, 23 Nov 2026 16:13:12 +0000</pubDate>
+      <category>Programming</category>
+      <description>&lt;p&gt;Ladybird has reached its alpha stage, with builds available for macOS and Linux. The project is seeking early adopters who are willing to tolerate bugs and report them.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Ladybird 已进入 Alpha 阶段，并为 macOS 和 Linux 提供构建版本。项目面向能够接受 bug 并愿意提交报告的早期用户。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 2264 · 💬 549 · Programming&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50614249&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/24/top_stories_11242026#story-50614249&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Nvidia Reinstates Jensen Huang as CEO</title>
-      <link>https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50611576</guid>
-      <dc:creator>jaz</dc:creator>
-      <pubDate>Mon, 23 Nov 2026 14:00:18 +0000</pubDate>
-      <category>Business</category>
-      <description>&lt;p&gt;Nvidia has reinstated Jensen Huang as its CEO. The supplied source excerpt contains links but no further reliable details about the decision, its timing, or the circumstances surrounding it.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;英伟达重新任命黄仁勋为首席执行官。现有摘录仅包含相关链接，未提供有关这一决定、时间或背景的更多可靠细节。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 2124 · 💬 3161 · Business&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50611576&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/23/top_stories_11232026#story-50611576&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+      <title>&quot;Dario is hyping the dangers so OSS models are illegal and he stays in control&quot;</title>
+      <link>https://twitter.com/ylecun/status/2124550037912920090</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50615308</guid>
+      <dc:creator>MrBuddyCasino</dc:creator>
+      <pubDate>Mon, 23 Nov 2026 17:07:26 +0000</pubDate>
+      <category>AI</category>
+      <category>Open Source</category>
+      <description>&lt;p&gt;The post accuses Dario of consistently exaggerating AI dangers since GPT-2 in order to make open-source models illegal and retain control. It also claims that he left OpenAI because he would not have control there. These are allegations made in the post, not independently established findings.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;该帖指责 Dario 自 GPT-2 以来一直夸大 AI 风险，目的是推动开源模型被宣布为非法并继续掌控局面。帖文还称，他离开 OpenAI 是因为无法在那里掌握控制权。这些内容是发帖者的指控，并非独立证实的事实。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 1898 · 💬 1095 · AI · Open Source&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50615308&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/24/top_stories_11242026#story-50615308&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Jensen Huang Reinstated as Nvidia CEO</title>
@@ -81,18 +94,6 @@
 &lt;p&gt;&lt;em&gt;据报道，Nginx 存在无需认证即可触发的远程代码执行漏洞。相关记录列出了两个 CVE 编号：CVE-2026-123633 和 CVE-2026-123007。&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;▲ 1483 · 💬 637 · Security&lt;/small&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50547374&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/19/top_stories_11192026#story-50547374&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Ladybird is now in alpha</title>
-      <link>https://ladybird.org/posts/alpha/</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50614249</guid>
-      <dc:creator>janvdberg</dc:creator>
-      <pubDate>Mon, 23 Nov 2026 16:13:12 +0000</pubDate>
-      <category>Programming</category>
-      <description>&lt;p&gt;Ladybird has reached its alpha stage, with builds available for macOS and Linux. The project is seeking early adopters who are willing to tolerate bugs and report them.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Ladybird 已进入 Alpha 阶段，并为 macOS 和 Linux 提供构建版本。项目面向能够接受 bug 并愿意提交报告的早期用户。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 1456 · 💬 333 · Programming&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50614249&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/23/top_stories_11232026#story-50614249&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Inkling 2 Mini</title>
@@ -169,19 +170,6 @@
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50589618&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/22/top_stories_11222026#story-50589618&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Dario is hyping the dangers so OSS models are illegal and he stays in control</title>
-      <link>https://twitter.com/ylecun/status/2124550037912920090</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50615308</guid>
-      <dc:creator>MrBuddyCasino</dc:creator>
-      <pubDate>Mon, 23 Nov 2026 17:07:26 +0000</pubDate>
-      <category>AI</category>
-      <category>Open Source</category>
-      <description>&lt;p&gt;The post accuses Dario of consistently exaggerating AI dangers since GPT-2 in order to make open-source models illegal and retain control. It also claims that he left OpenAI because he would not have control there. These are allegations made in the post, not independently established findings.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;该帖指责 Dario 自 GPT-2 以来一直夸大 AI 风险，目的是推动开源模型被宣布为非法并继续掌控局面。帖文还称，他离开 OpenAI 是因为无法在那里掌握控制权。这些内容是发帖者的指控，并非独立证实的事实。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 1176 · 💬 657 · AI · Open Source&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50615308&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/23/top_stories_11232026#story-50615308&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>Java4Shell: RCE in OpenJDK when processing Base64</title>
       <link>https://calif.io/java4shell/</link>
       <guid isPermaLink="true">https://news.ycombinator.com/item?id=50538240</guid>
@@ -192,6 +180,18 @@
 &lt;p&gt;&lt;em&gt;Calif 披露了 Java4Shell（编号 CVE-2026-114938），这是 OpenJDK Base64 解码器中的内存破坏漏洞。OpenJDK 被称为最流行的 Java 运行时。该漏洞在 CVSS 4.0 中获得 9.2 分（满分 10 分），评级为“严重”。这一评级意味着受影响的 OpenJDK 部署可能需要优先修补。&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;▲ 1176 · 💬 329 · Security&lt;/small&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50538240&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/19/top_stories_11192026#story-50538240&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>GLM-5.4: Toward generalized coding with our first loop transformer</title>
+      <link>https://z.ai/blog/glm-5.4</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50609685</guid>
+      <dc:creator>foohis</dc:creator>
+      <pubDate>Mon, 23 Nov 2026 10:06:43 +0000</pubDate>
+      <category>AI</category>
+      <description>&lt;p&gt;GLM-5.4 is presented as a step toward generalized coding and introduces the project's first Loop Transformer. The available description does not provide further details about the model's architecture, benchmarks, or capabilities.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;GLM-5.4 被定位为迈向通用化编程的一步，并引入了该项目首个循环 Transformer。现有信息未提供其架构、基准测试或具体能力的更多细节。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 1147 · 💬 378 · AI&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50609685&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/24/top_stories_11242026#story-50609685&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Anthropic’s Nasdaq debut</title>
@@ -208,16 +208,28 @@
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50562754&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/20/top_stories_11202026#story-50562754&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>GLM-5.4: Toward generalized coding with our first loop transformer</title>
-      <link>https://z.ai/blog/glm-5.4</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50609685</guid>
-      <dc:creator>foohis</dc:creator>
-      <pubDate>Mon, 23 Nov 2026 10:06:43 +0000</pubDate>
-      <category>AI</category>
-      <description>&lt;p&gt;GLM-5.4 is presented as a step toward generalized coding and introduces the project's first Loop Transformer. The available description does not provide further details about the model's architecture, benchmarks, or capabilities.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;GLM-5.4 被定位为迈向通用化编程的一步，并引入了该项目首个循环 Transformer。现有信息未提供其架构、基准测试或具体能力的更多细节。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 1061 · 💬 346 · AI&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50609685&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/23/top_stories_11232026#story-50609685&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+      <title>Per Arm's request, this site will be discontinued on 4 December 2026 :(</title>
+      <link>https://arm.jonpalmisc.com/</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50617499</guid>
+      <dc:creator>tech234a</dc:creator>
+      <pubDate>Mon, 23 Nov 2026 19:17:55 +0000</pubDate>
+      <category>Legal</category>
+      <description>&lt;p&gt;The site provides reference documentation for the AArch64 instruction set and system registers in the Armv8-A and Armv9-A architectures. Its operator says Arm's lawyers demanded that it be taken down or face legal action, so it will be discontinued on December 4, 2026. The operator is investigating ways to keep existing bookmarks and links working.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;该网站提供 Armv8-A 和 Armv9-A 架构的 AArch64 指令集及系统寄存器参考文档。运营者表示，Arm 的律师要求其关闭，否则将面临法律行动，因此网站将于 2026 年 12 月 4 日停止运营。运营者正在寻找保留现有书签和链接可用的方法。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 1128 · 💬 272 · Legal&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50617499&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/24/top_stories_11242026#story-50617499&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Free alternative TV network built from the Internet Archive's forgotten videos</title>
+      <link>https://spelunkr.tv</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50606192</guid>
+      <dc:creator>SockThief</dc:creator>
+      <pubDate>Mon, 23 Nov 2026 01:13:51 +0000</pubDate>
+      <category>Web</category>
+      <description>&lt;p&gt;The project provides synchronized 24/7 channels built from forgotten videos in the Internet Archive. It is designed to resemble cable television, but with a deliberately stranger selection of programming.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;该项目利用互联网档案馆中被遗忘的视频，提供全天候同步播放的频道。它模仿有线电视的形式，但节目选择更加古怪。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 1053 · 💬 178 · Web&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50606192&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/24/top_stories_11242026#story-50606192&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>87% of the Anthropic power will come from gas and 11% from coal in 2028</title>
@@ -245,30 +257,6 @@
 &lt;p&gt;&lt;em&gt;Google 推出了 Gemini 4 Neon，面向复杂编程、知识工作和科学工作流。Google 表示，该模型以更低成本提供前沿级智能，并能快速完成端到端任务。该模型由 Google DeepMind 高级副总裁兼首席 AI 架构师发布。&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;▲ 1016 · 💬 761 · AI · Science&lt;/small&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50552424&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/19/top_stories_11192026#story-50552424&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Many of Amazon’s Black Friday and Cyber Monday “deals” offered no savings</title>
-      <link>http://groundworkcollaborative.org/news/amazons-decoy-deals-groundwork-investigation-reveals-nearly-1-in-3-black-friday-and-cyber-monday-deals-advertised-by-amazon-offered-no-savings-to-shoppers-nearly-1-in-10-w/</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50517488</guid>
-      <dc:creator>DeepLogin</dc:creator>
-      <pubDate>Mon, 16 Nov 2026 13:39:07 +0000</pubDate>
-      <category>Business</category>
-      <description>&lt;p&gt;An investigation found that many Black Friday and Cyber Monday deals advertised by Amazon did not provide actual savings. The deals were presented as discounts even though shoppers often paid no less than usual.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;一项调查发现，亚马逊宣传的许多黑色星期五和网络星期一优惠实际上并没有带来节省。这些商品虽然以折扣形式展示，消费者实际支付的价格却往往并未降低。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 954 · 💬 551 · Business&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50517488&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/17/top_stories_11172026#story-50517488&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Free alternative TV network built from the Internet Archive's forgotten videos</title>
-      <link>https://spelunkr.tv</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50606192</guid>
-      <dc:creator>SockThief</dc:creator>
-      <pubDate>Mon, 23 Nov 2026 01:13:51 +0000</pubDate>
-      <category>Web</category>
-      <description>&lt;p&gt;The project provides synchronized 24/7 channels built from forgotten videos in the Internet Archive. It is designed to resemble cable television, but with a deliberately stranger selection of programming.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;该项目利用互联网档案馆中被遗忘的视频，提供全天候同步播放的频道。它模仿有线电视的形式，但节目选择更加古怪。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 944 · 💬 162 · Web&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50606192&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/23/top_stories_11232026#story-50606192&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Garage Door Spam</title>
@@ -310,18 +298,6 @@
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50563066&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/20/top_stories_11202026#story-50563066&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Per Arm's request, this site will be discontinued on 4 December 2026 :(</title>
-      <link>https://arm.jonpalmisc.com/</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50617499</guid>
-      <dc:creator>tech234a</dc:creator>
-      <pubDate>Mon, 23 Nov 2026 19:17:55 +0000</pubDate>
-      <category>Legal</category>
-      <description>&lt;p&gt;The site provides reference documentation for the AArch64 instruction set and system registers in the Armv8-A and Armv9-A architectures. Its operator says Arm's lawyers demanded that it be taken down or face legal action, so it will be discontinued on December 4, 2026. The operator is investigating ways to keep existing bookmarks and links working.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;该网站提供 Armv8-A 和 Armv9-A 架构的 AArch64 指令集及系统寄存器参考文档。运营者表示，Arm 的律师要求其关闭，否则将面临法律行动，因此网站将于 2026 年 12 月 4 日停止运营。运营者正在寻找保留现有书签和链接可用的方法。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 851 · 💬 198 · Legal&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50617499&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/23/top_stories_11232026#story-50617499&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>I'll never buy Framework hardware again</title>
       <link>https://poolp.org/posts/2026-11-20/ill-never-buy-framework-hardware-again/</link>
       <guid isPermaLink="true">https://news.ycombinator.com/item?id=50576855</guid>
@@ -332,18 +308,6 @@
 &lt;p&gt;&lt;em&gt;作者表示今后不再购买 Framework 硬件，并批评该公司的客户支持。作者希望 Framework 修复支持问题，交付已经付费购买且能够正常工作的笔记本电脑。&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;▲ 824 · 💬 618 · Hardware&lt;/small&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50576855&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/21/top_stories_11212026#story-50576855&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Technical issue at JPMorgan Chase triggers online banking delays for US banks</title>
-      <link>https://apnews.com/article/bank-outage-chase-wells-fargo-truist-50fee2693c22f597fa6ca51a97ef2cda</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50521045</guid>
-      <dc:creator>samk3nny</dc:creator>
-      <pubDate>Mon, 16 Nov 2026 18:31:30 +0000</pubDate>
-      <category>Business</category>
-      <description>&lt;p&gt;A technical issue at JPMorgan Chase triggered online-banking delays for banks in the United States. The incident affected online banking service availability or responsiveness.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;摩根大通的一项技术故障引发了美国银行的在线银行服务延迟。该事件影响了在线银行服务的可用性或响应速度。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 823 · 💬 703 · Business&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50521045&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/17/top_stories_11172026#story-50521045&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>What Happened to Silicon Valley?</title>
@@ -449,32 +413,6 @@
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50535238&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/18/top_stories_11182026#story-50535238&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>BugMeNot has closed</title>
-      <link>https://www.bugmenot.com/</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50523601</guid>
-      <dc:creator>lode</dc:creator>
-      <pubDate>Mon, 16 Nov 2026 21:32:17 +0000</pubDate>
-      <category>Culture</category>
-      <description>&lt;p&gt;BugMeNot has closed. Its farewell thanks everyone who envisioned a better internet.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;BugMeNot 已经关闭。告别信息向所有曾设想建设更好互联网的人表示感谢。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 713 · 💬 337 · Culture&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50523601&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/17/top_stories_11172026#story-50523601&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Windows 11 is collecting data on which coding agents and developer tools you use</title>
-      <link>https://xusheng.dev/posts/windows-coding-agent-telemetry/</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50524736</guid>
-      <dc:creator>cwaffles</dc:creator>
-      <pubDate>Mon, 16 Nov 2026 22:58:20 +0000</pubDate>
-      <category>Privacy</category>
-      <category>AI</category>
-      <category>Programming</category>
-      <description>&lt;p&gt;Reverse engineering of Windows 11’s MissionControlAggregator found coding-agent and developer-tool usage bits in a diagnostic ETW report. The observed list includes Codex, Claude, Copilot, Cursor, Python, .NET, GCC, and Visual Studio Code executables. The finding raises questions about why a Windows system DLL records the use of these tools.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;对 Windows 11 的 MissionControlAggregator 进行逆向分析后，研究者在诊断 ETW 报告中发现了编程代理和开发工具的使用标记。相关列表包括 Codex、Claude、Copilot、Cursor，以及 Python、.NET、GCC 和 Visual Studio Code 等可执行文件。这一发现引出了一个问题：Windows 系统 DLL 为何要记录这些工具的使用情况。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 711 · 💬 592 · Privacy · AI · Programming&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50524736&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/17/top_stories_11172026#story-50524736&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>If you can't explain something in simple terms, you don't understand it (2017)</title>
       <link>https://kottke.org/17/06/if-you-cant-explain-something-in-simple-terms-you-dont-understand-it</link>
       <guid isPermaLink="true">https://news.ycombinator.com/item?id=50572355</guid>
@@ -551,20 +489,6 @@
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50587875&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/22/top_stories_11222026#story-50587875&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Optimizely compromised, served malware on Zoom, GitLab</title>
-      <link>https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50524767</guid>
-      <dc:creator>kristjansson</dc:creator>
-      <pubDate>Mon, 16 Nov 2026 23:00:34 +0000</pubDate>
-      <category>Security</category>
-      <category>Programming</category>
-      <category>Finance</category>
-      <description>&lt;p&gt;On November 16, 2026, malicious JavaScript was served through Optimizely’s Web experimentation platform to visitors of 178 organizations, including Zoom, the BBC, CNN, Salesforce, GitLab, IKEA, HSBC, and others. The malware could replace cryptocurrency wallet addresses, skim payment-card data, steal cookies and screenshots, and deliver the Coruna and DarkSword iOS exploit kits on iPhones and iPads. Cryptocurrency had already been stolen in transactions verified as belonging to the attackers.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;2026 年 11 月 16 日，Optimizely 的 Web 实验平台向 178 家机构的网站访客投放了恶意 JavaScript，受影响机构包括 Zoom、BBC、CNN、Salesforce、GitLab、IKEA 和 HSBC 等。该恶意软件能够替换加密货币钱包地址、窃取支付卡数据、Cookie 和屏幕截图，并在 iPhone 和 iPad 上投递 Coruna 与 DarkSword iOS 漏洞利用套件。已有加密货币在被确认属于攻击者的交易中遭窃取。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 669 · 💬 264 · Security · Programming · Finance&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50524767&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/17/top_stories_11172026#story-50524767&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>Frostbite: A new CPU architecture discovered, designed and verified by AI</title>
       <link>https://architectlabs.com/blog/frostbite</link>
       <guid isPermaLink="true">https://news.ycombinator.com/item?id=50572503</guid>
@@ -615,6 +539,18 @@
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50534631&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/18/top_stories_11182026#story-50534631&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>2035 came early</title>
+      <link>https://fzakaria.com/2026/11/23/2035-came-early</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50624497</guid>
+      <dc:creator>setheron</dc:creator>
+      <pubDate>Tue, 24 Nov 2026 06:30:33 +0000</pubDate>
+      <category>Programming</category>
+      <description>&lt;p&gt;trynix.dev can now boot GUI programs, including Solitaire, GL gears, xeyes, a voice application, weather data fetched through curl, and Firefox. The project is presented in the context of the long-running idea that applications written in JavaScript will eventually be written in JavaScript. Its expanding ability to run graphical software illustrates how far JavaScript-based environments have progressed.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;trynix.dev 现在已经能够启动图形界面程序，包括纸牌、GL gears、xeyes、语音应用、通过 curl 获取的天气信息以及 Firefox。该项目被置于“凡是能用 JavaScript 编写的应用，最终都会用 JavaScript 编写”这一长期观点的背景下。它对图形软件支持范围的扩大，展示了基于 JavaScript 的环境已经发展到何种程度。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 637 · 💬 240 · Programming&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50624497&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/24/top_stories_11242026#story-50624497&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife</title>
       <link>https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife</link>
       <guid isPermaLink="true">https://news.ycombinator.com/item?id=50602843</guid>
@@ -638,6 +574,67 @@
 &lt;p&gt;&lt;em&gt;一名居住在美国 DMV 地区的资深软件工程师表示，自己在 2025 年 1 月离开一家保险科技公司后已失业两年。此人拥有 15 年经验，目前继续辅导数学，并可能很快开始担任披萨店经理，但尽管具备 C#/.NET、AWS 和 AI 技能，仍未找到软件工程工作。由于积蓄只够支撑四到五个月，对方正在寻求软件工程或相关领域之外的高薪替代路径。&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;▲ 618 · 💬 694 · Career · AI&lt;/small&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50583761&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/21/top_stories_11212026#story-50583761&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>New York Bans Subscription and Post-Purchase Fees on Cars</title>
+      <link>https://www.governor.ny.gov/news/money-your-pockets-governor-hochul-signs-bill-restricting-exploitative-vehicle-subscription</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50622774</guid>
+      <dc:creator>DeepLogin</dc:creator>
+      <pubDate>Tue, 24 Nov 2026 02:27:02 +0000</pubDate>
+      <category>Legal</category>
+      <description>&lt;p&gt;Governor Kathy Hochul signed a bill restricting motor-vehicle manufacturers and dealers from charging subscription fees after consumers purchase a vehicle. The law prohibits companies from charging for built-in features and is intended to increase price transparency. It will prevent New York buyers from paying recurring fees for features included in the vehicle.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;州长 Kathy Hochul 签署法案，限制汽车制造商和经销商在消费者购车后收取订阅费。该法禁止汽车公司为车辆内置功能收费，旨在提高价格透明度。纽约购车者将不必为已包含在车辆中的功能持续支付费用。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 610 · 💬 285 · Legal&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50622774&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/24/top_stories_11242026#story-50622774&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Stalwart is now a drop-in replacement for Microsoft Exchange</title>
+      <link>https://stalw.art/blog/microsoft-exchange-replacement/</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50620349</guid>
+      <dc:creator>shaunpud</dc:creator>
+      <pubDate>Mon, 23 Nov 2026 22:32:29 +0000</pubDate>
+      <category>Business</category>
+      <description>&lt;p&gt;Stalwart 1.2.0 adds the Exchange client protocols MAPI over HTTP, Exchange Web Services, ActiveSync, and Autodiscover. As a result, Outlook, Apple Mail, and mobile mail clients can connect to it with mail, calendars, contacts, tasks, and notes in one account. The release also adds mail rules, read receipts, working hours, room and equipment booking, and Stalwart CLI 2.0 with an interactive console. The protocol coverage is intended to let organizations replace Exchange without changing the clients users already know.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Stalwart 1.2.0 增加了 Exchange 客户端所使用的 MAPI over HTTP、Exchange Web Services、ActiveSync 和 Autodiscover 协议。因此，Outlook、Apple Mail 以及移动邮件客户端可以像连接 Exchange 一样使用它，并在一个账户中管理邮件、日历、联系人、任务和笔记。该版本还加入邮件规则、已读回执、工作时间、会议室和设备预订，以及带交互式控制台的 Stalwart CLI 2.0。这些协议支持旨在让组织无需更换用户熟悉的客户端即可替代 Exchange。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 607 · 💬 312 · Business&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50620349&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/24/top_stories_11242026#story-50620349&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>DNS resolvers are the wrong place to fight piracy</title>
+      <link>https://techstackups.com/articles/quad9-leaves-france-dns-blocking/</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50545958</guid>
+      <dc:creator>ritzaco</dc:creator>
+      <pubDate>Wed, 18 Nov 2026 13:18:02 +0000</pubDate>
+      <category>Legal</category>
+      <description>&lt;p&gt;The nonprofit DNS resolver Quad9 will stop answering queries from France on November 24, 2026, rather than comply with a Paris court order sought by beIN Sports. The court fined Quad9 for refusing to block pirate sports-streaming domains, and roughly 20 similar cases are still pending. The dispute raises concerns that forcing public DNS resolvers to enforce domain blocking could undermine services beyond its intended target.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;非营利 DNS 解析器 Quad9 将于 2026 年 11 月 24 日停止响应来自法国的查询，以拒绝执行 beIN Sports 申请的巴黎法院命令。Quad9 因拒绝屏蔽盗版体育流媒体域名而被罚款，法国目前还有约 20 起类似案件待审。这场争议引发了对强制公共 DNS 解析器执行域名屏蔽可能造成更广泛影响的担忧。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 603 · 💬 223 · Legal&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50545958&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/18/top_stories_11182026#story-50545958&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>XNU Linux: Full OS X GUI Userspace on Linux</title>
+      <link>https://github.com/AFK-surf/xnulinux</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50607261</guid>
+      <dc:creator>mmastrac</dc:creator>
+      <pubDate>Mon, 23 Nov 2026 03:49:24 +0000</pubDate>
+      <category>Open Source</category>
+      <category>Hardware</category>
+      <description>&lt;p&gt;xnulinux builds Apple's open-source XNU kernel as a loadable module inside an otherwise unmodified arm64 Linux kernel. The hosted XNU directly drives the CPU and MMU, allowing macOS processes to run natively alongside Linux processes without a hypervisor. Linux provides memory, timers, files, networking, and GPU services through a small interface module.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;xnulinux 将苹果开源的 XNU 内核构建为可加载模块，运行在未经修改的 arm64 Linux 内核中。运行于 Linux 内的 XNU 可直接驱动 CPU 和 MMU，使 macOS 进程无需虚拟机监控程序，就能与 Linux 进程在同一组 CPU 上原生运行。Linux 则通过一个小型接口模块为其提供内存、定时器、文件、网络和 GPU 服务。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 602 · 💬 244 · Open Source · Hardware&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50607261&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/23/top_stories_11232026#story-50607261&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Seven new models at scalable price-performance</title>
+      <link>https://microsoft.ai/news/microsoft-ignite-2026/</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50548021</guid>
+      <dc:creator>gmays</dc:creator>
+      <pubDate>Wed, 18 Nov 2026 16:08:24 +0000</pubDate>
+      <category>AI</category>
+      <description>&lt;p&gt;Microsoft has announced seven new models positioned around scalable price-performance.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Microsoft 宣布推出七个新模型，主打可扩展的价格与性能表现。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 593 · 💬 376 · AI&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50548021&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/19/top_stories_11192026#story-50548021&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

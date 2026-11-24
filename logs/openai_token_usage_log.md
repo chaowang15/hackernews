@@ -334,3 +334,12 @@ New standalone-repository usage is appended below.
 | 18:03:42 | gpt-5-nano | tag_generator | 3,231 | 0 | 5,085 | 8,316 | $0.002196 | tag 25 items, attempt 1 |
 | **Subtotal** | **3 calls** | — | **16,413** | **0** | **18,917** | **35,330** | **$0.017775** | Scrape batch |
 
+## 2026-11-24
+
+| Time | Model | Caller | Input | Cached | Output | Total | Cost (USD) | Note |
+|------|-------|--------|------:|-------:|-------:|------:|-----------:|------|
+| 08:05:24 | gpt-5.6-luna | llm_batch | 7,301 | 0 | 6,493 | 13,794 | $0.009252 | enrich 34 items, attempt 1 |
+| 08:05:53 | gpt-5-nano | tag_generator | 3,158 | 0 | 3,388 | 6,546 | $0.001513 | tag 25 items, attempt 1 |
+| 08:06:06 | gpt-5-nano | tag_generator | 1,250 | 0 | 1,635 | 2,885 | $0.000716 | tag 9 items, attempt 1 |
+| **Subtotal** | **3 calls** | — | **11,709** | **0** | **11,516** | **23,225** | **$0.011481** | Scrape batch |
+
