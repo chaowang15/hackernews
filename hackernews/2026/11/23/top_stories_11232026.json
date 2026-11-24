@@ -5,29 +5,29 @@
     "api": "https://github.com/HackerNews/API",
     "count_requested": 100,
     "count_written": 100,
-    "reused_same_day": 48,
-    "reused_cross_day": 2,
+    "reused_same_day": 100,
+    "reused_cross_day": 0,
     "reused_history": 0,
-    "new_llm_enriched": 50,
-    "scrape_time_display": "18:00, November 23, 2026 (PST)",
+    "new_llm_enriched": 0,
+    "scrape_time_display": "18:04, November 23, 2026 (PST)",
     "timezone": "America/Los_Angeles",
     "date_dir": "2026/11/23",
     "content_date": "2026-11-23",
     "edition": "full",
     "edition_label": "All 100",
     "target_count": 100,
-    "run_time_local": "18:00, November 23, 2026 (PST)",
-    "run_time_utc": "2026-11-24 02:00:47 UTC",
+    "run_time_local": "18:04, November 23, 2026 (PST)",
+    "run_time_utc": "2026-11-24 02:04:38 UTC",
     "incremental": true,
     "stories_max": 100,
-    "hot_score_time_utc": "2026-11-24 02:02:43 UTC"
+    "hot_score_time_utc": "2026-11-24 02:04:46 UTC"
   },
   "items": [
     {
       "title_en": "Nvidia Reinstates Jensen Huang as CEO",
       "url": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html",
       "title_zh": "英伟达重新任命黄仁勋为 CEO",
-      "is_new": true,
+      "is_new": false,
       "created_display": "Created: Nov 23, 2026 / 06:00 PT",
       "image_url": "https://image.cnbcfm.com/api/v1/image/108353993-1787677585886-108353993-1787675816989-gettyimages-2266718431-NVIDIA_GTC.jpg?v=1795450778&w=1920&h=1080",
       "summary_en": "Nvidia has reinstated Jensen Huang as its CEO. The supplied source excerpt contains links but no further reliable details about the decision, its timing, or the circumstances surrounding it.",
@@ -36,21 +36,21 @@
         "id": 50611576,
         "type": "story",
         "by": "jaz",
-        "score": 2118,
-        "descendants": 3153,
+        "score": 2124,
+        "descendants": 3161,
         "time": 1795442418,
         "comments_url": "https://news.ycombinator.com/item?id=50611576"
       },
-      "hot_score": 18.22,
       "tags": [
         "Business"
-      ]
+      ],
+      "hot_score": 18.19
     },
     {
       "title_en": "Per Arm's request, this site will be discontinued on 4 December 2026 :(",
       "url": "https://arm.jonpalmisc.com/",
       "title_zh": "应 Arm 要求，该网站将于 2026 年 12 月 4 日停止运营",
-      "is_new": true,
+      "is_new": false,
       "created_display": "Created: Nov 23, 2026 / 11:17 PT",
       "image_url": null,
       "summary_en": "The site provides reference documentation for the AArch64 instruction set and system registers in the Armv8-A and Armv9-A architectures. Its operator says Arm's lawyers demanded that it be taken down or face legal action, so it will be discontinued on December 4, 2026. The operator is investigating ways to keep existing bookmarks and links working.",
@@ -59,21 +59,21 @@
         "id": 50617499,
         "type": "story",
         "by": "tech234a",
-        "score": 846,
+        "score": 851,
         "descendants": 198,
         "time": 1795461475,
         "comments_url": "https://news.ycombinator.com/item?id=50617499"
       },
-      "hot_score": 17.04,
       "tags": [
         "Legal"
-      ]
+      ],
+      "hot_score": 17.02
     },
     {
       "title_en": "Ladybird is now in alpha",
       "url": "https://ladybird.org/posts/alpha/",
       "title_zh": "Ladybird 现已进入 Alpha 阶段",
-      "is_new": true,
+      "is_new": false,
       "created_display": "Created: Nov 23, 2026 / 08:13 PT",
       "image_url": "https://ladybird.org/assets/img/logo-new.webp",
       "summary_en": "Ladybird has reached its alpha stage, with builds available for macOS and Linux. The project is seeking early adopters who are willing to tolerate bugs and report them.",
@@ -82,21 +82,21 @@
         "id": 50614249,
         "type": "story",
         "by": "janvdberg",
-        "score": 1454,
-        "descendants": 331,
+        "score": 1456,
+        "descendants": 333,
         "time": 1795450392,
         "comments_url": "https://news.ycombinator.com/item?id=50614249"
       },
-      "hot_score": 17.03,
       "tags": [
         "Programming"
-      ]
+      ],
+      "hot_score": 16.96
     },
     {
       "title_en": "Dario is hyping the dangers so OSS models are illegal and he stays in control",
       "url": "https://twitter.com/ylecun/status/2124550037912920090",
       "title_zh": "Dario 被指夸大风险，以推动 OSS 模型非法化并继续掌控局面",
-      "is_new": true,
+      "is_new": false,
       "created_display": "Created: Nov 23, 2026 / 09:07 PT",
       "image_url": "https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_400x400.jpg",
       "summary_en": "The post accuses Dario of consistently exaggerating AI dangers since GPT-2 in order to make open-source models illegal and retain control. It also claims that he left OpenAI because he would not have control there. These are allegations made in the post, not independently established findings.",
@@ -105,16 +105,16 @@
         "id": 50615308,
         "type": "story",
         "by": "MrBuddyCasino",
-        "score": 1170,
-        "descendants": 654,
+        "score": 1176,
+        "descendants": 657,
         "time": 1795453646,
         "comments_url": "https://news.ycombinator.com/item?id=50615308"
       },
-      "hot_score": 15.81,
       "tags": [
         "AI",
         "Open Source"
-      ]
+      ],
+      "hot_score": 15.8
     },
     {
       "title_en": "Jensen Huang Reinstated as Nvidia CEO",
@@ -139,13 +139,13 @@
         "Security",
         "Politics"
       ],
-      "hot_score": 14.69
+      "hot_score": 14.62
     },
     {
       "title_en": "Huang's Return Is the Biggest National Security Scandal in U.S. History",
       "url": "https://foreignpolicy.com/2026/11/23/jensen-huang-nvidia-return-ceo-national-security-scandal/",
       "title_zh": "黄仁勋回归是美国历史上最大的国家安全丑闻",
-      "is_new": true,
+      "is_new": false,
       "created_display": "Created: Nov 23, 2026 / 15:11 PT",
       "image_url": "https://foreignpolicy.com/wp-content/uploads/2026/11/jensen-huang-GettyImages-2205754284.jpg",
       "summary_en": "The supplied excerpt alleges that Nvidia CEO Jensen Huang resigned on November 12 after an affair involving Alice Huang, described there as a suspected Chinese intelligence asset, was exposed. It further alleges that Nvidia was complicit in China's evasion of U.S. export controls. The excerpt does not provide corroboration or details about Huang's reported return.",
@@ -154,23 +154,23 @@
         "id": 50620822,
         "type": "story",
         "by": "ortusdux",
-        "score": 172,
-        "descendants": 126,
+        "score": 173,
+        "descendants": 132,
         "time": 1795475498,
         "comments_url": "https://news.ycombinator.com/item?id=50620822"
       },
-      "hot_score": 9.96,
       "tags": [
         "Security",
         "Politics",
         "Business"
-      ]
+      ],
+      "hot_score": 9.9
     },
     {
       "title_en": "VP ≠ VNP over Every Field",
       "url": "https://github.com/anthropics/formal-math/tree/main/vp-vnp",
       "title_zh": "并非在每个域上都有 VP ≠ VNP",
-      "is_new": true,
+      "is_new": false,
       "created_display": "Created: Nov 23, 2026 / 14:09 PT",
       "image_url": "https://opengraph.githubassets.com/1e0a162c2adad65a0146df2bb1bb4f357405ecd602d2cb7a6a20f94bd8499660/anthropics/formal-math",
       "summary_en": "The project presents a formal-mathematics result concerning the distinction between VP and VNP over every field. The supplied context provides only a link to the paper and does not include the theorem's proof or technical details.",
@@ -179,21 +179,21 @@
         "id": 50620102,
         "type": "story",
         "by": "mikeryan52",
-        "score": 239,
-        "descendants": 201,
+        "score": 240,
+        "descendants": 205,
         "time": 1795471750,
         "comments_url": "https://news.ycombinator.com/item?id=50620102"
       },
-      "hot_score": 9.77,
       "tags": [
         "Science"
-      ]
+      ],
+      "hot_score": 9.71
     },
     {
       "title_en": "Apple removed my open-source app from EU App Stores after 9 years",
       "url": "https://github.com/glushchenko/fsnotes/discussions/2056",
       "title_zh": "苹果在欧盟 App Store 下架了我的开源应用，距发布已有 9 年",
-      "is_new": true,
+      "is_new": false,
       "created_display": "Created: Nov 23, 2026 / 10:48 PT",
       "image_url": "https://opengraph.githubassets.com/6ffea309f85ed97869c3b78c189a48d8d64ff8c2f775724d1730980d0bf84ad9/glushchenko/fsnotes/discussions/2056",
       "summary_en": "The independent developer of FSNotes says Apple removed the open-source note-taking app from European App Stores after nine years. FSNotes is available for macOS and iOS, and the developer says support requests have been ignored. The supplied excerpt does not state Apple's reason for the removal.",
@@ -202,21 +202,21 @@
         "id": 50616933,
         "type": "story",
         "by": "fluder",
-        "score": 523,
+        "score": 525,
         "descendants": 115,
         "time": 1795459690,
         "comments_url": "https://news.ycombinator.com/item?id=50616933"
       },
-      "hot_score": 9.53,
       "tags": [
         "Open Source"
-      ]
+      ],
+      "hot_score": 9.51
     },
     {
       "title_en": "Stalwart is now a drop-in replacement for Microsoft Exchange",
       "url": "https://stalw.art/blog/microsoft-exchange-replacement/",
       "title_zh": "Stalwart 成为 Microsoft Exchange 的即插即用替代品",
-      "is_new": true,
+      "is_new": false,
       "created_display": "Created: Nov 23, 2026 / 14:32 PT",
       "image_url": "https://stalw.art/og/blog/microsoft-exchange-replacement.png",
       "summary_en": "Stalwart 1.2.0 adds the Exchange client protocols MAPI over HTTP, Exchange Web Services, ActiveSync, and Autodiscover. As a result, Outlook, Apple Mail, and mobile mail clients can connect to it with mail, calendars, contacts, tasks, and notes in one account. The release also adds mail rules, read receipts, working hours, room and equipment booking, and Stalwart CLI 2.0 with an interactive console. The protocol coverage is intended to let organizations replace Exchange without changing the clients users already know.",
@@ -225,15 +225,15 @@
         "id": 50620349,
         "type": "story",
         "by": "shaunpud",
-        "score": 200,
+        "score": 203,
         "descendants": 113,
         "time": 1795473149,
         "comments_url": "https://news.ycombinator.com/item?id=50620349"
       },
-      "hot_score": 9.24,
       "tags": [
         "Business"
-      ]
+      ],
+      "hot_score": 9.27
     },
     {
       "title_en": "GLM-5.4: Toward generalized coding with our first loop transformer",
@@ -248,7 +248,7 @@
         "id": 50609685,
         "type": "story",
         "by": "foohis",
-        "score": 1060,
+        "score": 1061,
         "descendants": 346,
         "time": 1795428403,
         "comments_url": "https://news.ycombinator.com/item?id=50609685"
@@ -256,13 +256,13 @@
       "tags": [
         "AI"
       ],
-      "hot_score": 5.87
+      "hot_score": 5.85
     },
     {
       "title_en": "Kagi Mail (public beta)",
       "url": "https://blog.kagi.com/kagi-mail-public-beta",
       "title_zh": "Kagi Mail 开启公开 Beta",
-      "is_new": true,
+      "is_new": false,
       "created_display": "Created: Nov 23, 2026 / 09:17 PT",
       "image_url": "https://blog.kagi.com/og-image.png",
       "summary_en": "Kagi has launched the public beta of Kagi Mail, a private email and calendar service. Users can receive an @kagimail.com address or use their own domains. The service is positioned as a way for people who already use Kagi Search and Orion to move another major part of their digital life away from Google.",
@@ -272,20 +272,20 @@
         "type": "story",
         "by": "rdmuser",
         "score": 359,
-        "descendants": 267,
+        "descendants": 270,
         "time": 1795454221,
         "comments_url": "https://news.ycombinator.com/item?id=50615481"
       },
-      "hot_score": 4.97,
       "tags": [
         "Startups"
-      ]
+      ],
+      "hot_score": 4.94
     },
     {
       "title_en": "Levent Alpöge comments on his Riemann Hypothesis proof",
       "url": "https://twitter.com/__alpoge__/status/2124987173439209561",
       "title_zh": "Levent Alpöge 评论自己的黎曼猜想证明",
-      "is_new": true,
+      "is_new": false,
       "created_display": "Created: Nov 23, 2026 / 14:22 PT",
       "image_url": "https://pbs.twimg.com/profile_images/1824948681877155840/VqVHY3gF_400x400.jpg",
       "summary_en": "Levent Alpöge says that the claim that his proof was more than 250,000 pages was a joke. He says he intended the pedantic wording of the main theorem to make that clear, but people interpreted the number literally. The excerpt does not provide further details about the proof itself.",
@@ -295,20 +295,20 @@
         "type": "story",
         "by": "Dylan1312",
         "score": 86,
-        "descendants": 80,
+        "descendants": 81,
         "time": 1795472576,
         "comments_url": "https://news.ycombinator.com/item?id=50620250"
       },
-      "hot_score": 3.75,
       "tags": [
         "Science"
-      ]
+      ],
+      "hot_score": 3.71
     },
     {
       "title_en": "GPUI is getting its own repository",
       "url": "https://github.com/zed-industries/gpui",
       "title_zh": "GPUI 将拥有独立代码仓库",
-      "is_new": true,
+      "is_new": false,
       "created_display": "Created: Nov 23, 2026 / 12:52 PT",
       "image_url": "https://opengraph.githubassets.com/6f6bbaa4bd1b80184d4f75320e207f0121d7cd8aa65847e5ad05e1c9504ff12c/zed-industries/gpui",
       "summary_en": "GPUI is being moved into its own repository. It is an open-source, GPU-accelerated UI framework for Rust that combines immediate-mode and retained-mode approaches.",
@@ -318,22 +318,22 @@
         "type": "story",
         "by": "EvilGoose",
         "score": 129,
-        "descendants": 35,
+        "descendants": 36,
         "time": 1795467174,
         "comments_url": "https://news.ycombinator.com/item?id=50619103"
       },
-      "hot_score": 3.7,
       "tags": [
         "Open Source",
         "Programming",
         "Hardware"
-      ]
+      ],
+      "hot_score": 3.67
     },
     {
       "title_en": "Bored.com: Fun, interesting and cool websites to explore when bored",
       "url": "https://www.bored.com/",
       "title_zh": "Bored.com：无聊时探索有趣、奇特的网站",
-      "is_new": true,
+      "is_new": false,
       "created_display": "Created: Nov 23, 2026 / 13:01 PT",
       "image_url": "https://www.bored.com/logo.png?v=2",
       "summary_en": "Bored.com curates hundreds of websites, free games, educational resources, and other activities for people looking for something to do online. The selection is presented as a collection of fun, funny, interesting, and cool destinations.",
@@ -342,21 +342,21 @@
         "id": 50619207,
         "type": "story",
         "by": "susam",
-        "score": 108,
+        "score": 112,
         "descendants": 27,
         "time": 1795467676,
         "comments_url": "https://news.ycombinator.com/item?id=50619207"
       },
-      "hot_score": 3.2,
       "tags": [
         "Web"
-      ]
+      ],
+      "hot_score": 3.29
     },
     {
       "title_en": "Alcohol use reduces efficacy of immunotherapy by disrupting antitumor immunity",
       "url": "https://www.science.org/doi/10.1126/scisignal.aef1375",
       "title_zh": "饮酒会扰乱抗肿瘤免疫，降低免疫疗法疗效",
-      "is_new": true,
+      "is_new": false,
       "created_display": "Created: Nov 23, 2026 / 16:53 PT",
       "image_url": null,
       "summary_en": "The report concerns research finding that alcohol use reduces the efficacy of immunotherapy by disrupting antitumor immunity. No further study details or measured outcomes are established by the available information.",
@@ -365,15 +365,15 @@
         "id": 50621977,
         "type": "story",
         "by": "gumby",
-        "score": 23,
+        "score": 27,
         "descendants": 10,
         "time": 1795481626,
         "comments_url": "https://news.ycombinator.com/item?id=50621977"
       },
-      "hot_score": 2.79,
       "tags": [
         "Health"
-      ]
+      ],
+      "hot_score": 3.23
     },
     {
       "title_en": "Free alternative TV network built from the Internet Archive's forgotten videos",
@@ -412,20 +412,20 @@
         "type": "story",
         "by": "monskov",
         "score": 263,
-        "descendants": 286,
+        "descendants": 287,
         "time": 1795445384,
         "comments_url": "https://news.ycombinator.com/item?id=50612686"
       },
-      "hot_score": 2.51,
       "tags": [
         "Gaming"
-      ]
+      ],
+      "hot_score": 2.5
     },
     {
       "title_en": "Freeing the iPod Nano 5G",
       "url": "https://viktorkrapivin.com/blog/nano5g-priv-prvd",
       "title_zh": "让 iPod nano 5G 重获自由",
-      "is_new": true,
+      "is_new": false,
       "created_display": "Created: Nov 23, 2026 / 15:03 PT",
       "image_url": "https://viktorkrapivin.com/images/ipod-nano5g-boot-preview.png",
       "summary_en": "The author found a signature-check bypass and combined it with a font exploit to boot unsigned code on the iPod nano 5G. The resulting fully untethered boot chain loads Rockbox from the device's NAND without a computer or button sequence after installation. The author also found a way to make the existing exploit fully untethered on the nano 7G, and likely on the 6G.",
@@ -434,15 +434,15 @@
         "id": 50620721,
         "type": "story",
         "by": "rpm_conservatio",
-        "score": 41,
+        "score": 42,
         "descendants": 6,
         "time": 1795474993,
         "comments_url": "https://news.ycombinator.com/item?id=50620721"
       },
-      "hot_score": 2.21,
       "tags": [
         "Security"
-      ]
+      ],
+      "hot_score": 2.24
     },
     {
       "title_en": "XNU Linux: Full OS X GUI Userspace on Linux",
@@ -466,7 +466,7 @@
         "Open Source",
         "Hardware"
       ],
-      "hot_score": 1.94
+      "hot_score": 1.93
     },
     {
       "title_en": "Nospeaker ─ Make your MacBook's trackpad talk using its haptic motor",
@@ -495,7 +495,7 @@
       "title_en": "The horse made the state",
       "url": "https://aeon.co/essays/the-origins-of-the-state-are-not-agrarian-but-pastoralist",
       "title_zh": "马匹塑造了国家",
-      "is_new": true,
+      "is_new": false,
       "created_display": "Created: Nov 23, 2026 / 12:59 PT",
       "image_url": "https://images.aeonmedia.co/images/60bea515-b55f-48e9-9e81-4fe8bf8afde7/essay-uncavaliersurunepetiteeminencesurlagrandeplacedumarche_cadrageplusserre_a70091x.jpg?width=1200&quality=75&format=jpeg",
       "summary_en": "The essay argues that transportation, rather than grain agriculture, made civilization and state formation possible. It emphasizes the conquest enabled by horses and other transport systems, linking control of mobility to political power. The excerpt compares this historical role with the modern leverage created by control of oil-dependent transportation routes.",
@@ -509,10 +509,10 @@
         "time": 1795467552,
         "comments_url": "https://news.ycombinator.com/item?id=50619186"
       },
-      "hot_score": 1.66,
       "tags": [
         "Culture"
-      ]
+      ],
+      "hot_score": 1.65
     },
     {
       "title_en": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
@@ -539,29 +539,6 @@
       "hot_score": 1.53
     },
     {
-      "title_en": "Win4wine – Run Windows Shell as the Linux Desktop on Wine",
-      "url": "https://github.com/mikuta0407/win4wine",
-      "title_zh": "Win4wine：在 Wine 上把 Windows Shell 作为 Linux 桌面运行",
-      "is_new": false,
-      "created_display": "Created: Nov 23, 2026 / 04:28 PT",
-      "image_url": "https://opengraph.githubassets.com/d45a85e2dd7af51926d00e1b47c6d04189d32cebc9bf74eb90b403db6a3f89b9/mikuta0407/win4wine",
-      "summary_en": "Win4wine runs Windows XP's explorer.exe as a Linux desktop shell on a patched version of Wine. It provides the original XP taskbar, Start menu, desktop, and folder windows, while Linux applications can appear inside XP-style frames and use its taskbar. The project is experimental, has only been tested on a fresh Debian 13 installation, and is not yet complete enough for everyday use.",
-      "summary_zh": "Win4wine 让 Windows XP 的 explorer.exe 在打过补丁的 Wine 上充当 Linux 桌面 Shell。它提供 XP 原版的任务栏、开始菜单、桌面和文件夹窗口，Linux 应用也能显示在 XP 风格的窗口和任务栏中。该项目仍属实验性质，目前只在全新安装的 Debian 13 上测试过，尚未达到日常使用的成熟度。",
-      "hn": {
-        "id": 50610743,
-        "type": "story",
-        "by": "hard_times",
-        "score": 215,
-        "descendants": 115,
-        "time": 1795436891,
-        "comments_url": "https://news.ycombinator.com/item?id=50610743"
-      },
-      "tags": [
-        "Open Source"
-      ],
-      "hot_score": 1.53
-    },
-    {
       "title_en": "The next circle of security hell",
       "url": "https://blogs.gentoo.org/mgorny/2026/10/27/the-next-circle-of-security-hell/",
       "title_zh": "下一层安全地狱",
@@ -581,6 +558,29 @@
       },
       "tags": [
         "Security"
+      ],
+      "hot_score": 1.52
+    },
+    {
+      "title_en": "Win4wine – Run Windows Shell as the Linux Desktop on Wine",
+      "url": "https://github.com/mikuta0407/win4wine",
+      "title_zh": "Win4wine：在 Wine 上把 Windows Shell 作为 Linux 桌面运行",
+      "is_new": false,
+      "created_display": "Created: Nov 23, 2026 / 04:28 PT",
+      "image_url": "https://opengraph.githubassets.com/d45a85e2dd7af51926d00e1b47c6d04189d32cebc9bf74eb90b403db6a3f89b9/mikuta0407/win4wine",
+      "summary_en": "Win4wine runs Windows XP's explorer.exe as a Linux desktop shell on a patched version of Wine. It provides the original XP taskbar, Start menu, desktop, and folder windows, while Linux applications can appear inside XP-style frames and use its taskbar. The project is experimental, has only been tested on a fresh Debian 13 installation, and is not yet complete enough for everyday use.",
+      "summary_zh": "Win4wine 让 Windows XP 的 explorer.exe 在打过补丁的 Wine 上充当 Linux 桌面 Shell。它提供 XP 原版的任务栏、开始菜单、桌面和文件夹窗口，Linux 应用也能显示在 XP 风格的窗口和任务栏中。该项目仍属实验性质，目前只在全新安装的 Debian 13 上测试过，尚未达到日常使用的成熟度。",
+      "hn": {
+        "id": 50610743,
+        "type": "story",
+        "by": "hard_times",
+        "score": 215,
+        "descendants": 115,
+        "time": 1795436891,
+        "comments_url": "https://news.ycombinator.com/item?id=50610743"
+      },
+      "tags": [
+        "Open Source"
       ],
       "hot_score": 1.52
     },
@@ -612,7 +612,7 @@
       "title_en": "Short Nvidia Fund Halted After 91% Wipeout",
       "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-23-2026/card/short-nvidia-fund-halted-after-91-wipeout-myoKEHNFkGcseucDUC48",
       "title_zh": "做空英伟达的基金在亏损 91% 后暂停",
-      "is_new": true,
+      "is_new": false,
       "created_display": "Created: Nov 23, 2026 / 15:36 PT",
       "image_url": null,
       "summary_en": "A short Nvidia fund was halted after losing 91% of its value. The available information does not establish the fund's name, the reason for the loss, or the terms of the halt.",
@@ -626,10 +626,10 @@
         "time": 1795476986,
         "comments_url": "https://news.ycombinator.com/item?id=50621127"
       },
-      "hot_score": 1.5,
       "tags": [
         "Finance"
-      ]
+      ],
+      "hot_score": 1.48
     },
     {
       "title_en": "Toyota, Nissan, and Honda to standardize parts to lower costs",
@@ -653,6 +653,30 @@
         "Business"
       ],
       "hot_score": 1.3
+    },
+    {
+      "title_en": "You Can Seize Everything (The U.S. is reviving pirate law)",
+      "url": "https://www.npr.org/2026/11/20/nx-s1-6049085/iran-oil-tanker-prize-law-court",
+      "title_zh": "你可以没收一切：美国正在复兴海盗法",
+      "is_new": false,
+      "created_display": "Created: Nov 23, 2026 / 16:19 PT",
+      "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3377x1900+0+0/resize/1400/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fe5%2Fbf%2Fd8e39d3744a9b4eeca33bb5ccf35%2Fc79b7602-7b5f-439b-9e23-ea7d069b4025.jpg",
+      "summary_en": "The U.S. is working to revive prize law, an old maritime practice that allowed privateers and later navies to seize enemy-linked ships and sell them. The effort follows seizures of oil tankers linked to Iran and Venezuela, which the Pentagon describes as targeting illicit networks. Because ships and their cargo are expensive to maintain, the government wants to sell the tankers and oil quickly. A federal judge has been tasked with establishing a modern prize court.",
+      "summary_zh": "美国正尝试恢复一种古老的海事战利品法，该制度允许私掠船、后来也包括海军扣押与敌方有关联的船只并将其出售。此举发生在美国扣押与伊朗和委内瑞拉有关的油轮之后，五角大楼称这些行动旨在打击“非法网络”。由于船只及其货物维护成本高昂，政府希望尽快出售油轮和石油。一名联邦法官已被指派负责建立现代战利品法庭。",
+      "hn": {
+        "id": 50621637,
+        "type": "story",
+        "by": "CharlesW",
+        "score": 14,
+        "descendants": 2,
+        "time": 1795479577,
+        "comments_url": "https://news.ycombinator.com/item?id=50621637"
+      },
+      "tags": [
+        "Legal",
+        "Politics"
+      ],
+      "hot_score": 1.2
     },
     {
       "title_en": "87% of the Anthropic power will come from gas and 11% from coal in 2028",
@@ -716,7 +740,7 @@
         "type": "story",
         "by": "acossta",
         "score": 698,
-        "descendants": 441,
+        "descendants": 442,
         "time": 1795367187,
         "comments_url": "https://news.ycombinator.com/item?id=50601525"
       },
@@ -726,34 +750,10 @@
       "hot_score": 1.16
     },
     {
-      "title_en": "You Can Seize Everything (The U.S. is reviving pirate law)",
-      "url": "https://www.npr.org/2026/11/20/nx-s1-6049085/iran-oil-tanker-prize-law-court",
-      "title_zh": "你可以没收一切：美国正在复兴海盗法",
-      "is_new": true,
-      "created_display": "Created: Nov 23, 2026 / 16:19 PT",
-      "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3377x1900+0+0/resize/1400/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fe5%2Fbf%2Fd8e39d3744a9b4eeca33bb5ccf35%2Fc79b7602-7b5f-439b-9e23-ea7d069b4025.jpg",
-      "summary_en": "The U.S. is working to revive prize law, an old maritime practice that allowed privateers and later navies to seize enemy-linked ships and sell them. The effort follows seizures of oil tankers linked to Iran and Venezuela, which the Pentagon describes as targeting illicit networks. Because ships and their cargo are expensive to maintain, the government wants to sell the tankers and oil quickly. A federal judge has been tasked with establishing a modern prize court.",
-      "summary_zh": "美国正尝试恢复一种古老的海事战利品法，该制度允许私掠船、后来也包括海军扣押与敌方有关联的船只并将其出售。此举发生在美国扣押与伊朗和委内瑞拉有关的油轮之后，五角大楼称这些行动旨在打击“非法网络”。由于船只及其货物维护成本高昂，政府希望尽快出售油轮和石油。一名联邦法官已被指派负责建立现代战利品法庭。",
-      "hn": {
-        "id": 50621637,
-        "type": "story",
-        "by": "CharlesW",
-        "score": 13,
-        "descendants": 2,
-        "time": 1795479577,
-        "comments_url": "https://news.ycombinator.com/item?id=50621637"
-      },
-      "hot_score": 1.13,
-      "tags": [
-        "Legal",
-        "Politics"
-      ]
-    },
-    {
       "title_en": "NariQ: BF16-level Qwen3.8-27B in a 10 GB file",
       "url": "https://huggingface.co/nari-labs/Qwen3.8-27B-NariQ-GGUF",
       "title_zh": "NariQ：10 GB 文件中的 BF16 级 Qwen3.8-27B",
-      "is_new": true,
+      "is_new": false,
       "created_display": "Created: Nov 23, 2026 / 05:42 PT",
       "image_url": "https://cdn-thumbnails.huggingface.co/social-thumbnails/models/nari-labs/Qwen3.8-27B-NariQ-GGUF.png",
       "summary_en": "NariQ provides 3-bit-or-lower quantizations of Qwen3.8-27B that its creators say retain near-BF16 quality across agentic tasks, mathematics, multilingual reasoning, and image understanding. Their benchmarks report similar or sometimes higher scores than BF16 at 3-bit on DeepSWE, Terminal-Bench, AIME, MSGM, and RealWorldQA, while 2-bit performance drops more noticeably on some tasks. The quantized models require a fork of llama.cpp, and decoding speed is reported as comparable to other quantizations on an RTX PRO 6000. Context-length tests cover 4K, 16K, and 64K tokens, with lower-bit models generally decoding faster.",
@@ -767,17 +767,17 @@
         "time": 1795441358,
         "comments_url": "https://news.ycombinator.com/item?id=50611402"
       },
-      "hot_score": 1.02,
       "tags": [
         "AI",
         "Open Source"
-      ]
+      ],
+      "hot_score": 1.02
     },
     {
       "title_en": "Latent Introspection: LLMs Can Detect Prior Concept Injections",
       "url": "https://arxiv.org/abs/2602.20031",
       "title_zh": "潜在内省：LLM 能检测此前注入的概念",
-      "is_new": true,
+      "is_new": false,
       "created_display": "Created: Nov 23, 2026 / 14:29 PT",
       "image_url": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
       "summary_en": "Researchers report that a Qwen 32B model can detect when concepts were injected into its earlier context and identify which concepts were injected. Although sampled outputs denied the injection, logit-lens analysis found detection signals in the residual stream that weakened in later layers. Giving the model accurate information about AI introspection increased sensitivity from 0.3% to 39.9%, with a 0.6% increase in false positives, while mutual information between injected and recovered concepts rose from 0.61 to 1.05 bits. The results suggest that introspective and steering-related capabilities may be present in internal representations without appearing in ordinary outputs.",
@@ -791,11 +791,11 @@
         "time": 1795472988,
         "comments_url": "https://news.ycombinator.com/item?id=50620328"
       },
-      "hot_score": 0.96,
       "tags": [
         "AI",
         "Science"
-      ]
+      ],
+      "hot_score": 0.95
     },
     {
       "title_en": "Yes, 17M lines of Lean is a lot",
@@ -824,7 +824,7 @@
       "title_en": "Two \"suspicious clusters\" on Polymarket Made Over $340k on Huang Comeback",
       "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-23-2026/card/two-groups-of-polymarket-accounts-made-over-340-000-on-huang-comeback-Lan2T0TwbJPNsyhmQHGq",
       "title_zh": "Polymarket 上两个“可疑集群”押注黄仁勋回归，获利超过 34 万美元",
-      "is_new": true,
+      "is_new": false,
       "created_display": "Created: Nov 23, 2026 / 11:25 PT",
       "image_url": null,
       "summary_en": "Two groups of Polymarket accounts made more than $340,000 on a bet concerning Huang's comeback. The available information does not establish who controlled the accounts, why they were considered suspicious, or whether the reported gains were realized.",
@@ -833,15 +833,40 @@
         "id": 50617640,
         "type": "story",
         "by": "qlte",
-        "score": 43,
+        "score": 44,
         "descendants": 6,
         "time": 1795461921,
         "comments_url": "https://news.ycombinator.com/item?id=50617640"
       },
-      "hot_score": 0.87,
       "tags": [
         "Finance"
-      ]
+      ],
+      "hot_score": 0.88
+    },
+    {
+      "title_en": "Shirudo: OpenAI and Cisco's open-source runtime for shielding unpatched Linux",
+      "url": "https://openai.com/index/introducing-shirudo/",
+      "title_zh": "Shirudo：OpenAI 与 Cisco 为未打补丁的 Linux 提供开源运行时防护",
+      "is_new": false,
+      "created_display": "Created: Nov 23, 2026 / 13:30 PT",
+      "image_url": "https://images.ctfassets.net/kftzwdyauwt9/5K7gFDr3r8vgjdIcsW6RVY/aba5325ce7902e5d1499b907f8e78f0b/shirudo-partner-logos-landscape-2x.png?w=1600&h=900&fit=fill",
+      "summary_en": "OpenAI and Cisco have introduced Shirudo, an open-source runtime for protecting running Linux systems while patches are being deployed. It is designed to avoid waiting for a patch or restart. In a controlled test, a Codex-generated shield blocked a Java4Shell exploit attempt against a running Elasticsearch service without requiring a restart.",
+      "summary_zh": "OpenAI 和 Cisco 推出了 Shirudo，这是一个开源运行时，可在部署补丁期间保护正在运行的 Linux 系统。它旨在让运维人员无需等待补丁或重启即可获得防护。在一次受控测试中，由 Codex 生成的防护规则阻止了针对运行中 Elasticsearch 服务的 Java4Shell 漏洞利用尝试，且无需重启。",
+      "hn": {
+        "id": 50619630,
+        "type": "story",
+        "by": "acossta",
+        "score": 26,
+        "descendants": 5,
+        "time": 1795469441,
+        "comments_url": "https://news.ycombinator.com/item?id=50619630"
+      },
+      "tags": [
+        "Open Source",
+        "Security",
+        "AI"
+      ],
+      "hot_score": 0.84
     },
     {
       "title_en": "Don't keep your SSH keys on disk",
@@ -861,41 +886,16 @@
         "time": 1795427738,
         "comments_url": "https://news.ycombinator.com/item?id=50609579"
       },
-      "hot_score": 0.83,
       "tags": [
         "Security"
-      ]
-    },
-    {
-      "title_en": "Shirudo: OpenAI and Cisco's open-source runtime for shielding unpatched Linux",
-      "url": "https://openai.com/index/introducing-shirudo/",
-      "title_zh": "Shirudo：OpenAI 与 Cisco 为未打补丁的 Linux 提供开源运行时防护",
-      "is_new": true,
-      "created_display": "Created: Nov 23, 2026 / 13:30 PT",
-      "image_url": "https://images.ctfassets.net/kftzwdyauwt9/5K7gFDr3r8vgjdIcsW6RVY/aba5325ce7902e5d1499b907f8e78f0b/shirudo-partner-logos-landscape-2x.png?w=1600&h=900&fit=fill",
-      "summary_en": "OpenAI and Cisco have introduced Shirudo, an open-source runtime for protecting running Linux systems while patches are being deployed. It is designed to avoid waiting for a patch or restart. In a controlled test, a Codex-generated shield blocked a Java4Shell exploit attempt against a running Elasticsearch service without requiring a restart.",
-      "summary_zh": "OpenAI 和 Cisco 推出了 Shirudo，这是一个开源运行时，可在部署补丁期间保护正在运行的 Linux 系统。它旨在让运维人员无需等待补丁或重启即可获得防护。在一次受控测试中，由 Codex 生成的防护规则阻止了针对运行中 Elasticsearch 服务的 Java4Shell 漏洞利用尝试，且无需重启。",
-      "hn": {
-        "id": 50619630,
-        "type": "story",
-        "by": "acossta",
-        "score": 25,
-        "descendants": 5,
-        "time": 1795469441,
-        "comments_url": "https://news.ycombinator.com/item?id=50619630"
-      },
-      "hot_score": 0.82,
-      "tags": [
-        "Open Source",
-        "Security",
-        "AI"
-      ]
+      ],
+      "hot_score": 0.82
     },
     {
       "title_en": "Jon's Arm Reference will be discontinued on 4 Dec, per request of Arm's legal",
       "url": "https://twitter.com/jonpalmisc/status/2124924098057011629",
       "title_zh": "Jon 的 Arm 参考网站将于 12 月 4 日应 Arm 法务要求停止运营",
-      "is_new": true,
+      "is_new": false,
       "created_display": "Created: Nov 23, 2026 / 15:36 PT",
       "image_url": "https://pbs.twimg.com/media/HX0_L8ebEAArZE7?format=webp&name=large",
       "summary_en": "The operator of Jon's Arm reference site says it will be discontinued on December 4 at the request of Arm's legal team. He thanked supporters and said he would look for a solution that preserves existing bookmarks and links.",
@@ -909,10 +909,10 @@
         "time": 1795476985,
         "comments_url": "https://news.ycombinator.com/item?id=50621126"
       },
-      "hot_score": 0.82,
       "tags": [
         "Legal"
-      ]
+      ],
+      "hot_score": 0.81
     },
     {
       "title_en": "A miniature San Francisco with live buses, planes and boats",
@@ -935,7 +935,7 @@
       "tags": [
         "Web"
       ],
-      "hot_score": 0.75
+      "hot_score": 0.74
     },
     {
       "title_en": "Building a wireless network adapter for the Super Nintendo",
@@ -960,7 +960,7 @@
         "AI",
         "Gaming"
       ],
-      "hot_score": 0.68
+      "hot_score": 0.67
     },
     {
       "title_en": "One man's quest to end daylight savings",
@@ -989,7 +989,7 @@
       "title_en": "Nespresso's project to reduce grams of coffee per capsule",
       "url": "https://alvinbunk.wordpress.com/2026/11/01/nespresso-project-olympus/",
       "title_zh": "Nespresso 减少每粒胶囊咖啡克数的项目",
-      "is_new": true,
+      "is_new": false,
       "created_display": "Created: Nov 22, 2026 / 15:57 PT",
       "image_url": "https://alvinbunk.wordpress.com/wp-content/uploads/2026/11/ol_gram_changes-2.png",
       "summary_en": "Documents appear to suggest possible formula improvements, although the author questions how that could work while using less coffee.",
@@ -999,7 +999,7 @@
         "type": "story",
         "by": "bobbiechen",
         "score": 268,
-        "descendants": 284,
+        "descendants": 285,
         "time": 1795391865,
         "comments_url": "https://news.ycombinator.com/item?id=50605479"
       },
@@ -1007,29 +1007,6 @@
         "Business"
       ],
       "hot_score": 0.66
-    },
-    {
-      "title_en": "Jensen Huang's Apology May Be the Only Correct Use of AI",
-      "url": "https://www.theatlantic.com/newsletters/2026/11/jensen-huang-ai-apology-nvidia/689366/",
-      "title_zh": "黄仁勋的道歉或许是 AI 唯一正确的用途",
-      "is_new": true,
-      "created_display": "Created: Nov 23, 2026 / 12:33 PT",
-      "image_url": null,
-      "summary_en": "The item concerns Jensen Huang's apology and presents it as a possible example of an appropriate use of AI. No further details about the apology, the AI system involved, or the argument are available.",
-      "summary_zh": "该条目围绕黄仁勋的道歉展开，并将其视为 AI 可能适合的一种用途。现有信息没有提供道歉内容、所涉及的 AI 系统或具体论点。",
-      "hn": {
-        "id": 50618834,
-        "type": "story",
-        "by": "Bluestein",
-        "score": 25,
-        "descendants": 3,
-        "time": 1795465987,
-        "comments_url": "https://news.ycombinator.com/item?id=50618834"
-      },
-      "hot_score": 0.64,
-      "tags": [
-        "AI"
-      ]
     },
     {
       "title_en": "GL.iNet Security Notice 2026-11-20",
@@ -1055,10 +1032,33 @@
       "hot_score": 0.63
     },
     {
+      "title_en": "Jensen Huang's Apology May Be the Only Correct Use of AI",
+      "url": "https://www.theatlantic.com/newsletters/2026/11/jensen-huang-ai-apology-nvidia/689366/",
+      "title_zh": "黄仁勋的道歉或许是 AI 唯一正确的用途",
+      "is_new": false,
+      "created_display": "Created: Nov 23, 2026 / 12:33 PT",
+      "image_url": null,
+      "summary_en": "The item concerns Jensen Huang's apology and presents it as a possible example of an appropriate use of AI. No further details about the apology, the AI system involved, or the argument are available.",
+      "summary_zh": "该条目围绕黄仁勋的道歉展开，并将其视为 AI 可能适合的一种用途。现有信息没有提供道歉内容、所涉及的 AI 系统或具体论点。",
+      "hn": {
+        "id": 50618834,
+        "type": "story",
+        "by": "Bluestein",
+        "score": 25,
+        "descendants": 3,
+        "time": 1795465987,
+        "comments_url": "https://news.ycombinator.com/item?id=50618834"
+      },
+      "tags": [
+        "AI"
+      ],
+      "hot_score": 0.63
+    },
+    {
       "title_en": "How should an LLM see a computer?",
       "url": "https://www.greptile.com/blog/trex-computer-use",
       "title_zh": "LLM 应如何看待计算机？",
-      "is_new": true,
+      "is_new": false,
       "created_display": "Created: Nov 23, 2026 / 09:19 PT",
       "image_url": "https://greptile.com/opengraph/greptile-blog.png",
       "summary_en": "A benchmark evaluated screenshots, accessibility trees, and click-by-ID interfaces on seven OpenAI models across 172 OSWorld tasks. Accessibility trees and ID-based clicks more than doubled the scores of weaker models but had little effect on the strongest models. The article places these methods in the history of accessibility APIs, which describe interface elements in text so software can interact with graphical interfaces. The results suggest that structured representations of a computer screen can be more useful than pixels alone for some computer-use agents.",
@@ -1072,10 +1072,10 @@
         "time": 1795454365,
         "comments_url": "https://news.ycombinator.com/item?id=50615520"
       },
-      "hot_score": 0.62,
       "tags": [
         "AI"
-      ]
+      ],
+      "hot_score": 0.61
     },
     {
       "title_en": "Assume People Are Not Interested in Your Blog Post",
@@ -1129,7 +1129,7 @@
       "title_en": "Claude Ship",
       "url": "https://claude.com/resources/articles/introducing-claude-ship",
       "title_zh": "Claude Ship",
-      "is_new": true,
+      "is_new": false,
       "created_display": "Created: Nov 23, 2026 / 12:14 PT",
       "image_url": "https://claude.com/resources/articles/introducing-claude-ship/opengraph-image/og",
       "summary_en": "Claude Ship can review pull requests, fix issues, and approve changes when a team's policy permits it. The feature is designed to extend agent-assisted development beyond writing code to the review and approval steps that follow a pull request. The Claude Code team says Claude writes most of its code and wanted the rest of the pull-request workflow to move at a similar speed. Human approval remains part of the process for teams whose policies require it.",
@@ -1143,11 +1143,35 @@
         "time": 1795464858,
         "comments_url": "https://news.ycombinator.com/item?id=50618513"
       },
-      "hot_score": 0.59,
       "tags": [
         "AI",
         "Programming"
-      ]
+      ],
+      "hot_score": 0.59
+    },
+    {
+      "title_en": "Show HN: Lightweight Agentic CMS on Cloudflare – API, MCP, CLI, Web",
+      "url": "https://docs.microfeed.org/",
+      "title_zh": "Show HN：运行在 Cloudflare 上的轻量级智能体 CMS——支持 API、MCP、CLI 和 Web",
+      "is_new": false,
+      "created_display": "Created: Nov 23, 2026 / 17:03 PT",
+      "image_url": "https://docs.microfeed.org/_astro/microfeed-logo-dark.D-z3nz6t.png",
+      "summary_en": "Microfeed is an open-source CMS that publishes a website, RSS feed, and JSON Feed from the user's own Cloudflare account. It is designed to let users retain control of their code and data while deploying the system on Cloudflare. The project exposes API, MCP, CLI, and web interfaces.",
+      "summary_zh": "Microfeed 是一个开源 CMS，可从用户自己的 Cloudflare 账户发布网站、RSS Feed 和 JSON Feed。它旨在让用户在 Cloudflare 上部署系统的同时保留对代码和数据的控制。项目提供 API、MCP、CLI 和 Web 接口。",
+      "hn": {
+        "id": 50622072,
+        "type": "story",
+        "by": "wenbin",
+        "score": 5,
+        "descendants": 1,
+        "time": 1795482222,
+        "comments_url": "https://news.ycombinator.com/item?id=50622072"
+      },
+      "tags": [
+        "Show HN",
+        "Open Source"
+      ],
+      "hot_score": 0.55
     },
     {
       "title_en": "Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'",
@@ -1196,6 +1220,29 @@
       "hot_score": 0.52
     },
     {
+      "title_en": "Amazon drone crashes into house after delivering shampoo",
+      "url": "https://www.freep.com/story/news/local/michigan/2026/11/22/ntsb-weighs-probe-of-amazon-drone-crash-in-huntington-woods/92915982007/",
+      "title_zh": "亚马逊无人机送完洗发水后撞进民宅",
+      "is_new": false,
+      "created_display": "Created: Nov 23, 2026 / 16:58 PT",
+      "image_url": null,
+      "summary_en": "An Amazon delivery drone crashed into a house after delivering shampoo. The available information does not establish the extent of damage, whether anyone was injured, or what caused the crash.",
+      "summary_zh": "亚马逊的一架配送无人机在送达洗发水后撞进了一栋民宅。现有信息未说明损坏程度、是否有人受伤或坠机原因。",
+      "hn": {
+        "id": 50622030,
+        "type": "story",
+        "by": "rooftopzen",
+        "score": 5,
+        "descendants": 2,
+        "time": 1795481935,
+        "comments_url": "https://news.ycombinator.com/item?id=50622030"
+      },
+      "tags": [
+        "Science"
+      ],
+      "hot_score": 0.52
+    },
+    {
       "title_en": "Show HN: I built a game where you are an LLM's subagent",
       "url": "https://github.com/gulivan/worker755",
       "title_zh": "Show HN：我做了一个让你成为大语言模型子代理的游戏",
@@ -1225,7 +1272,7 @@
       "title_en": "The Power of GraphQL, Without GraphQL",
       "url": "https://cobalt27.dev/",
       "title_zh": "不用 GraphQL，也能获得 GraphQL 的力量",
-      "is_new": true,
+      "is_new": false,
       "created_display": "Created: Nov 23, 2026 / 16:03 PT",
       "image_url": "https://cobalt27.dev/og-image.png",
       "summary_en": "Cobalt infers a GraphQL schema from TypeScript resolvers and generates a typed SDK, eliminating separate schema files and glue code. It is open source and powered by Samarium. The project targets the maintenance burden of large numbers of endpoints and avoids fetching oversized JSON responses when only a small field, such as a username, is needed.",
@@ -1239,41 +1286,17 @@
         "time": 1795478639,
         "comments_url": "https://news.ycombinator.com/item?id=50621466"
       },
-      "hot_score": 0.5,
       "tags": [
         "Open Source",
         "Programming"
-      ]
-    },
-    {
-      "title_en": "Show HN: Lightweight Agentic CMS on Cloudflare – API, MCP, CLI, Web",
-      "url": "https://docs.microfeed.org/",
-      "title_zh": "Show HN：运行在 Cloudflare 上的轻量级智能体 CMS——支持 API、MCP、CLI 和 Web",
-      "is_new": true,
-      "created_display": "Created: Nov 23, 2026 / 17:03 PT",
-      "image_url": "https://docs.microfeed.org/_astro/microfeed-logo-dark.D-z3nz6t.png",
-      "summary_en": "Microfeed is an open-source CMS that publishes a website, RSS feed, and JSON Feed from the user's own Cloudflare account. It is designed to let users retain control of their code and data while deploying the system on Cloudflare. The project exposes API, MCP, CLI, and web interfaces.",
-      "summary_zh": "Microfeed 是一个开源 CMS，可从用户自己的 Cloudflare 账户发布网站、RSS Feed 和 JSON Feed。它旨在让用户在 Cloudflare 上部署系统的同时保留对代码和数据的控制。项目提供 API、MCP、CLI 和 Web 接口。",
-      "hn": {
-        "id": 50622072,
-        "type": "story",
-        "by": "wenbin",
-        "score": 4,
-        "descendants": 1,
-        "time": 1795482222,
-        "comments_url": "https://news.ycombinator.com/item?id=50622072"
-      },
-      "hot_score": 0.42,
-      "tags": [
-        "Show HN",
-        "Open Source"
-      ]
+      ],
+      "hot_score": 0.49
     },
     {
       "title_en": "The Beauty of Artists' Studios",
       "url": "https://spectator.com/article/the-beauty-of-artists-studios/",
       "title_zh": "艺术家工作室之美",
-      "is_new": true,
+      "is_new": false,
       "created_display": "Created: Nov 23, 2026 / 14:48 PT",
       "image_url": "https://spectator.com/wp-content/uploads/2022/12/og-image.jpeg",
       "summary_en": "The item is titled “The Beauty of Artists' Studios.” The supplied context contains only an archive link and does not establish the article's subject matter or argument.",
@@ -1287,33 +1310,10 @@
         "time": 1795474113,
         "comments_url": "https://news.ycombinator.com/item?id=50620530"
       },
-      "hot_score": 0.41,
       "tags": [
         "Culture"
-      ]
-    },
-    {
-      "title_en": "Amazon drone crashes into house after delivering shampoo",
-      "url": "https://www.freep.com/story/news/local/michigan/2026/11/22/ntsb-weighs-probe-of-amazon-drone-crash-in-huntington-woods/92915982007/",
-      "title_zh": "亚马逊无人机送完洗发水后撞进民宅",
-      "is_new": true,
-      "created_display": "Created: Nov 23, 2026 / 16:58 PT",
-      "image_url": null,
-      "summary_en": "An Amazon delivery drone crashed into a house after delivering shampoo. The available information does not establish the extent of damage, whether anyone was injured, or what caused the crash.",
-      "summary_zh": "亚马逊的一架配送无人机在送达洗发水后撞进了一栋民宅。现有信息未说明损坏程度、是否有人受伤或坠机原因。",
-      "hn": {
-        "id": 50622030,
-        "type": "story",
-        "by": "rooftopzen",
-        "score": 4,
-        "descendants": 2,
-        "time": 1795481935,
-        "comments_url": "https://news.ycombinator.com/item?id=50622030"
-      },
-      "hot_score": 0.4,
-      "tags": [
-        "Science"
-      ]
+      ],
+      "hot_score": 0.4
     },
     {
       "title_en": "Masullo on the Riemann Hypothesis",
@@ -1401,7 +1401,7 @@
         "type": "story",
         "by": "joonehur",
         "score": 167,
-        "descendants": 73,
+        "descendants": 74,
         "time": 1795383192,
         "comments_url": "https://news.ycombinator.com/item?id=50604123"
       },
@@ -1462,7 +1462,7 @@
       "title_en": "Ladybird's First Alpha Release",
       "url": "https://simonwillison.net/2026/Nov/23/ladybird/",
       "title_zh": "Ladybird 首个 Alpha 版本发布",
-      "is_new": true,
+      "is_new": false,
       "created_display": "Created: Nov 23, 2026 / 17:19 PT",
       "image_url": "https://static.simonwillison.net/static/2026/ladybird-ffmpeg.webp",
       "summary_en": "Ladybird has released its first alpha, allowing users to install the browser on macOS or Linux without compiling it themselves. The project implements most major browser components, including HTML parsing, CSS, layout, JavaScript, and WebAssembly, while using external components such as HarfBuzz, Skia, FFmpeg, and SQLite for specific functions. The release makes the ambitious independent browser project available to early users for direct testing.",
@@ -1476,11 +1476,11 @@
         "time": 1795483149,
         "comments_url": "https://news.ycombinator.com/item?id=50622196"
       },
-      "hot_score": 0.33,
       "tags": [
         "Programming",
         "Web"
-      ]
+      ],
+      "hot_score": 0.32
     },
     {
       "title_en": "Nyx, the Oldest Internet Service Provider",
@@ -1555,7 +1555,7 @@
       "title_en": "Show HN: Hermit CRM – Free open-source CRM for solopreneurs",
       "url": "https://hermitcrm.io/",
       "title_zh": "Show HN：Hermit CRM——面向个体创业者的免费开源 CRM",
-      "is_new": true,
+      "is_new": false,
       "created_display": "Created: Nov 23, 2026 / 02:09 PT",
       "image_url": "https://hermitcrm.io/img/og.png",
       "summary_en": "Hermit CRM is a free, open-source customer relationship manager for one-person businesses. It stores data locally in Markdown files managed with git and makes it available through a web app, CLI, or MCP, without telemetry. The macOS-first product supports one-click imports of LinkedIn contacts and conversations without requiring LinkedIn or CRM subscriptions; Linux is less tested and Windows is unsupported. Its local, text-based storage is intended to make the data accessible to AI tools as well.",
@@ -1564,25 +1564,25 @@
         "id": 50609708,
         "type": "story",
         "by": "gijsbos",
-        "score": 41,
+        "score": 42,
         "descendants": 3,
         "time": 1795428542,
         "comments_url": "https://news.ycombinator.com/item?id=50609708"
       },
-      "hot_score": 0.22,
       "tags": [
         "Show HN",
         "Open Source",
         "AI",
         "Programming",
         "Web"
-      ]
+      ],
+      "hot_score": 0.23
     },
     {
       "title_en": "Show HN: Amni-CAD – parametric CAD with stress and flow simulation in a browser",
       "url": "https://amni-scient.com/amni-cad",
       "title_zh": "Show HN：Amni-CAD——在浏览器中进行参数化 CAD、应力和流体仿真",
-      "is_new": true,
+      "is_new": false,
       "created_display": "Created: Nov 23, 2026 / 14:47 PT",
       "image_url": "https://amni-scient.com/assets/cad/og-cad.png",
       "summary_en": "Amni-CAD is a browser-based parametric CAD tool with STEP export, 2D drawings, tolerancing, stress simulation, and flow simulation. It includes an AI assistant and supports importing designs from existing PDM systems or paper drawings. The product is free to start and offers a pay-once lifetime option. Its workflow is framed as AI-assisted design followed by review and sign-off from engineers and drafters.",
@@ -1596,13 +1596,13 @@
         "time": 1795474051,
         "comments_url": "https://news.ycombinator.com/item?id=50620519"
       },
-      "hot_score": 0.2,
       "tags": [
         "Show HN",
         "Design",
         "AI",
         "Web"
-      ]
+      ],
+      "hot_score": 0.2
     },
     {
       "title_en": "0rwx – A simple model of AI usage, inspired by Unix permissions",
@@ -1628,10 +1628,33 @@
       "hot_score": 0.17
     },
     {
+      "title_en": "Spacecraft reaches Mercury on second-ever mission to enter its orbit",
+      "url": "https://www.theguardian.com/science/2026/nov/20/spacecraft-mercury-second-ever-mission-orbit-bepicolombo",
+      "title_zh": "航天器抵达水星：史上第二次进入其轨道的任务",
+      "is_new": false,
+      "created_display": "Created: Nov 21, 2026 / 01:14 PT",
+      "image_url": "https://i.guim.co.uk/img/media/910dcaf9ff433ebd4d751fd1b66d69ac4d3214ec/310_0_2501_2001/master/2501.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6ca4e9af30b089231419a5303deff9f6",
+      "summary_en": "After more than eight years and six billion miles of travel, the joint European-Japanese BepiColombo mission has reached Mercury. Flight controllers are preparing to fire its thrusters and place the spacecraft into orbit around the planet. The mission will map Mercury's surface and study its interior, including its unusually large core.",
+      "summary_zh": "经过八年多、约 60 亿英里的飞行，欧日联合 BepiColombo 任务已抵达水星。飞行控制人员正准备点燃推进器，让航天器进入这颗行星的轨道。该任务将绘制水星表面并研究其内部结构，包括异常巨大的核心。",
+      "hn": {
+        "id": 50587439,
+        "type": "story",
+        "by": "geden",
+        "score": 300,
+        "descendants": 99,
+        "time": 1795252442,
+        "comments_url": "https://news.ycombinator.com/item?id=50587439"
+      },
+      "tags": [
+        "Space"
+      ],
+      "hot_score": 0.16
+    },
+    {
       "title_en": "C++26 is done (again): ISO C++ meeting trip report",
       "url": "https://herbsutter.com/2026/11/21/c26-is-done-again-trip-report-november-2026-iso-c-standards-meeting-buzios-brazil/",
       "title_zh": "C++26 再次完成：2026 年 11 月 ISO C++ 会议报告",
-      "is_new": true,
+      "is_new": false,
       "created_display": "Created: Nov 22, 2026 / 07:59 PT",
       "image_url": "https://secure.gravatar.com/blavatar/fe7f5b0b83dba894afe26c42bcab33fe2d1246d9730ef182c72c0bff0dc26acb?s=200&ts=1795399465",
       "summary_en": "The ISO C++ committee completed the technical work on C++26 for a second time after the standard's approval ballot was sent back with international comments. Most of the six-day meeting addressed those comments, especially changes to the contracts feature. The updated document is expected to enter a second approval ballot.",
@@ -1654,7 +1677,7 @@
       "title_en": "Was software just always too complex for humans?",
       "url": "https://anil.recoil.org/notes/software-too-complex-for-humans",
       "title_zh": "软件是否一直复杂到超出人类理解能力？",
-      "is_new": true,
+      "is_new": false,
       "created_display": "Created: Nov 22, 2026 / 09:32 PT",
       "image_url": "https://anil.recoil.org/images/maths-vs-cs-loc.640.webp",
       "summary_en": "The author reflects on whether society adopted software faster than people could understand and engineer it safely. They cite a recent Riemann hypothesis effort involving 17 million lines of AI-assisted code that was certified correct even though no human yet understands how it works. The post argues that decades of human-written software contain many bugs, while software now controls critical parts of society. This raises questions about how human understanding and AI assistance should coexist in mathematics, science, and software engineering.",
@@ -1668,40 +1691,17 @@
         "time": 1795368761,
         "comments_url": "https://news.ycombinator.com/item?id=50601823"
       },
-      "hot_score": 0.16,
       "tags": [
         "Science",
         "AI"
-      ]
-    },
-    {
-      "title_en": "Spacecraft reaches Mercury on second-ever mission to enter its orbit",
-      "url": "https://www.theguardian.com/science/2026/nov/20/spacecraft-mercury-second-ever-mission-orbit-bepicolombo",
-      "title_zh": "航天器抵达水星：史上第二次进入其轨道的任务",
-      "is_new": false,
-      "created_display": "Created: Nov 21, 2026 / 01:14 PT",
-      "image_url": "https://i.guim.co.uk/img/media/910dcaf9ff433ebd4d751fd1b66d69ac4d3214ec/310_0_2501_2001/master/2501.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6ca4e9af30b089231419a5303deff9f6",
-      "summary_en": "After more than eight years and six billion miles of travel, the joint European-Japanese BepiColombo mission has reached Mercury. Flight controllers are preparing to fire its thrusters and place the spacecraft into orbit around the planet. The mission will map Mercury's surface and study its interior, including its unusually large core.",
-      "summary_zh": "经过八年多、约 60 亿英里的飞行，欧日联合 BepiColombo 任务已抵达水星。飞行控制人员正准备点燃推进器，让航天器进入这颗行星的轨道。该任务将绘制水星表面并研究其内部结构，包括异常巨大的核心。",
-      "hn": {
-        "id": 50587439,
-        "type": "story",
-        "by": "geden",
-        "score": 299,
-        "descendants": 98,
-        "time": 1795252442,
-        "comments_url": "https://news.ycombinator.com/item?id=50587439"
-      },
-      "tags": [
-        "Space"
       ],
-      "hot_score": 0.15
+      "hot_score": 0.16
     },
     {
       "title_en": "VisualDrive Server – drop-in replacement for Sharepoint/OneDrive",
       "url": "https://www.axiorema.com/visualdrive-server/",
       "title_zh": "VisualDrive Server：SharePoint/OneDrive 的即插即用替代品",
-      "is_new": true,
+      "is_new": false,
       "created_display": "Created: Nov 23, 2026 / 15:49 PT",
       "image_url": "https://www.axiorema.com/visualdrive-server/opengraph-image.png?opengraph-image.9fd7a029.png",
       "summary_en": "VisualDrive Server is a self-hosted file-storage server designed to work with preinstalled Windows OneDrive clients. It supports features including Known Folder Move, Open in App, and Drive Automount, while providing centralized backup and cross-device access from an organization's own premises. The product is positioned as a private alternative to cloud-hosted OneDrive storage.",
@@ -1715,11 +1715,11 @@
         "time": 1795477778,
         "comments_url": "https://news.ycombinator.com/item?id=50621282"
       },
-      "hot_score": 0.15,
       "tags": [
         "Privacy",
         "Web"
-      ]
+      ],
+      "hot_score": 0.15
     },
     {
       "title_en": "What we learned operating auth for 1k APIs",
@@ -1743,7 +1743,7 @@
         "Programming",
         "DevOps"
       ],
-      "hot_score": 0.14
+      "hot_score": 0.13
     },
     {
       "title_en": "A Better Vocabulary for Testing",
@@ -1769,29 +1769,6 @@
       "hot_score": 0.11
     },
     {
-      "title_en": "Vibed – describe an app, then keep changing it",
-      "url": "https://github.com/frazik-main/.vibed",
-      "title_zh": "Vibed：描述一个应用，然后持续修改它",
-      "is_new": true,
-      "created_display": "Created: Nov 23, 2026 / 13:37 PT",
-      "image_url": "https://opengraph.githubassets.com/2184ed6f364d63f45abe08f14cd31052c8c0d99455f9629f34ba38dd97797721/frazik-main/.vibed",
-      "summary_en": "Vibed is a blank desktop shell that becomes an application based on what the user describes. Users can describe later changes, and the application changes accordingly; it can then be changed again by the owner or by someone who receives it. The project treats an application as an evolving artifact rather than a finished object.",
-      "summary_zh": "Vibed 是一个空白桌面外壳，会根据用户的描述变成相应的应用。用户可以继续描述后续修改，应用便会随之改变；接收应用的人也可以再次修改它。该项目将应用视为持续演化的对象，而不是完成后不再变化的成品。",
-      "hn": {
-        "id": 50619725,
-        "type": "story",
-        "by": "frazik",
-        "score": 4,
-        "descendants": 0,
-        "time": 1795469839,
-        "comments_url": "https://news.ycombinator.com/item?id=50619725"
-      },
-      "hot_score": 0.11,
-      "tags": [
-        "Programming"
-      ]
-    },
-    {
       "title_en": "Nvidia Reinstates Jensen Huang",
       "url": "https://www.nytimes.com/live/2026/11/23/technology/nvidia-jensen-huang-reinstated",
       "title_zh": "英伟达复任黄仁勋",
@@ -1815,10 +1792,33 @@
       "hot_score": 0.1
     },
     {
+      "title_en": "Vibed – describe an app, then keep changing it",
+      "url": "https://github.com/frazik-main/.vibed",
+      "title_zh": "Vibed：描述一个应用，然后持续修改它",
+      "is_new": false,
+      "created_display": "Created: Nov 23, 2026 / 13:37 PT",
+      "image_url": "https://opengraph.githubassets.com/2184ed6f364d63f45abe08f14cd31052c8c0d99455f9629f34ba38dd97797721/frazik-main/.vibed",
+      "summary_en": "Vibed is a blank desktop shell that becomes an application based on what the user describes. Users can describe later changes, and the application changes accordingly; it can then be changed again by the owner or by someone who receives it. The project treats an application as an evolving artifact rather than a finished object.",
+      "summary_zh": "Vibed 是一个空白桌面外壳，会根据用户的描述变成相应的应用。用户可以继续描述后续修改，应用便会随之改变；接收应用的人也可以再次修改它。该项目将应用视为持续演化的对象，而不是完成后不再变化的成品。",
+      "hn": {
+        "id": 50619725,
+        "type": "story",
+        "by": "frazik",
+        "score": 4,
+        "descendants": 0,
+        "time": 1795469839,
+        "comments_url": "https://news.ycombinator.com/item?id=50619725"
+      },
+      "tags": [
+        "Programming"
+      ],
+      "hot_score": 0.1
+    },
+    {
       "title_en": "Ask HN: Are the trades a safe career transition?",
       "url": "https://news.ycombinator.com/item?id=50600771",
       "title_zh": "Ask HN：技工行业是安全的职业转型选择吗？",
-      "is_new": true,
+      "is_new": false,
       "created_display": "Created: Nov 22, 2026 / 07:52 PT",
       "image_url": null,
       "summary_en": "A software engineer with an engineering degree but no professional engineering license is considering moving into the trades because AI has made the future of software work feel uncertain. They are seeking several decades of modest career security before retirement. The discussion asks whether homeowners and companies might eventually use robots for trade work, and what alternatives would offer a safer career bet.",
@@ -1828,16 +1828,16 @@
         "type": "story",
         "by": "Rd6n6",
         "score": 56,
-        "descendants": 91,
+        "descendants": 92,
         "time": 1795362753,
         "comments_url": "https://news.ycombinator.com/item?id=50600771"
       },
-      "hot_score": 0.09,
       "tags": [
         "Career",
         "AI",
         "Security"
-      ]
+      ],
+      "hot_score": 0.09
     },
     {
       "title_en": "Elixir HLS makes FPGA circuits from functions written in Elixir",
@@ -1867,7 +1867,7 @@
       "title_en": "Derivative Flipping",
       "url": "http://blog.sigfpe.com/2026/11/derivative-flipping.html",
       "title_zh": "导数翻转",
-      "is_new": true,
+      "is_new": false,
       "created_display": "Created: Nov 21, 2026 / 16:13 PT",
       "image_url": null,
       "summary_en": "The item is titled “Derivative Flipping” and concerns a mathematical topic involving derivatives. No further facts or explanation are available.",
@@ -1876,15 +1876,15 @@
         "id": 50594935,
         "type": "story",
         "by": "dmit",
-        "score": 79,
+        "score": 80,
         "descendants": 11,
         "time": 1795306397,
         "comments_url": "https://news.ycombinator.com/item?id=50594935"
       },
-      "hot_score": 0.06,
       "tags": [
         "Science"
-      ]
+      ],
+      "hot_score": 0.06
     },
     {
       "title_en": "Cathedral floor emerges in Sudan, revealing one of the biggest medieval churches",
@@ -1959,7 +1959,7 @@
       "title_en": "Show HN: Type-C – variants, options, generics and pattern matching for C",
       "url": "https://github.com/stass/type-c",
       "title_zh": "Show HN：Type-C——为 C 添加变体、选项、泛型和模式匹配",
-      "is_new": true,
+      "is_new": false,
       "created_display": "Created: Nov 22, 2026 / 10:40 PT",
       "image_url": "https://opengraph.githubassets.com/747e4673a93c5ceeabdcacd92ed01894be59310f15723363cbd71069f4bc1859/stass/type-c",
       "summary_en": "Type-C is presented as a preprocessor and a full C11 superset that adds features such as variants, options, generics, and pattern matching while keeping the resulting code largely in C. It is intended for parsing, tree walking, and complex error handling without requiring a complete rewrite, runtime library, or extra dependency. Files can use a .tc extension while the rest of a codebase remains unchanged, including kernel and bare-metal projects. The project includes examples and tests involving conversion of existing C code.",
@@ -1973,11 +1973,11 @@
         "time": 1795372857,
         "comments_url": "https://news.ycombinator.com/item?id=50602561"
       },
-      "hot_score": 0.05,
       "tags": [
         "Show HN",
         "Programming"
-      ]
+      ],
+      "hot_score": 0.05
     },
     {
       "title_en": "Brake Check: Hijacking Trailer Brakes over Bluetooth",
@@ -2006,7 +2006,7 @@
       "title_en": "What does it mean to understand what we built?",
       "url": "https://brooker.co.za/blog/2026/11/16/understanding.html",
       "title_zh": "理解我们构建的东西，究竟意味着什么？",
-      "is_new": true,
+      "is_new": false,
       "created_display": "Created: Nov 21, 2026 / 17:34 PT",
       "image_url": "https://brooker.co.za/blog/images/feed-icon-14x14.png",
       "summary_en": "The author reflects on the importance of understanding in response to the No AI Slop Manifesto. The work is described as valuing understanding over speed, framing that preference as an important principle for current AI-related work.",
@@ -2020,11 +2020,11 @@
         "time": 1795311297,
         "comments_url": "https://news.ycombinator.com/item?id=50595365"
       },
-      "hot_score": 0.04,
       "tags": [
         "Culture",
         "AI"
-      ]
+      ],
+      "hot_score": 0.04
     },
     {
       "title_en": "Ask HN: Tips for transitioning from web development to embedded/firmware?",
@@ -2054,7 +2054,7 @@
       "title_en": "Show HN: Drive around my village in 3D",
       "url": "https://cherwellvalleymotorclub.app",
       "title_zh": "Show HN：在 3D 中驾车穿越我的村庄",
-      "is_new": true,
+      "is_new": false,
       "created_display": "Created: Nov 20, 2026 / 05:32 PT",
       "image_url": "https://cherwellvalleymotorclub.app/share/card.jpg?v=b5b97619",
       "summary_en": "The project turns a village into a browser-based 3D driving environment with a map, races, events, different cars, and multiplayer. It uses UK government LIDAR data and OpenStreetMap data to build the world, and includes a web driver with force-feedback support for a sim-racing rig. The creator says the project began as a one-week experiment and expanded with help from Claude and a sim-racing specialist. Extending the same approach across England and Wales would require very large amounts of storage.",
@@ -2068,19 +2068,19 @@
         "time": 1795181562,
         "comments_url": "https://news.ycombinator.com/item?id=50574412"
       },
-      "hot_score": 0.03,
       "tags": [
         "Show HN",
         "Web",
         "AI",
         "Politics"
-      ]
+      ],
+      "hot_score": 0.03
     },
     {
       "title_en": "Let's Meet in the Middle",
       "url": "https://george.mand.is/2026/11/lets-meet-in-the-middle/",
       "title_zh": "让我们在中点见",
-      "is_new": true,
+      "is_new": false,
       "created_display": "Created: Nov 20, 2026 / 08:41 PT",
       "image_url": "https://georgemandis.s3-us-west-1.amazonaws.com/preview.png",
       "summary_en": "The project provides a small command-line workflow for geocoding two addresses, averaging their coordinates with jq, and finding bars near the midpoint. It uses three small CLI tools and requires no API keys. The author presents it as an example of combining focused tools for a practical task.",
@@ -2094,16 +2094,16 @@
         "time": 1795192914,
         "comments_url": "https://news.ycombinator.com/item?id=50577534"
       },
-      "hot_score": 0.03,
       "tags": [
         "Programming"
-      ]
+      ],
+      "hot_score": 0.03
     },
     {
       "title_en": "Dirac's Theorem at a Dinner Party",
       "url": "https://prideout.net/blog/dirac-dinner-party/",
       "title_zh": "晚宴上的 Dirac 定理",
-      "is_new": true,
+      "is_new": false,
       "created_display": "Created: Nov 22, 2026 / 10:50 PT",
       "image_url": "https://prideout.net/blog/dirac-dinner-party/dirac-card.png",
       "summary_en": "The post gives a visual proof of Dirac's theorem on Hamiltonian cycles. It introduces Gabriel Dirac, the graph theorist who formulated the theorem, and uses a hypothetical dinner party to present a refresher on Hamiltonian cycles and the proof.",
@@ -2117,10 +2117,10 @@
         "time": 1795373427,
         "comments_url": "https://news.ycombinator.com/item?id=50602660"
       },
-      "hot_score": 0.03,
       "tags": [
         "Science"
-      ]
+      ],
+      "hot_score": 0.03
     },
     {
       "title_en": "LittleBit: Ultra Low-Bit Quantization via Latent Factorization (2025)",
@@ -2221,7 +2221,7 @@
       "title_en": "Anatomia Di Tor – The Tor Protocol, Byte by Byte",
       "url": "https://github.com/aleff-github/onion-routing-anatomy",
       "title_zh": "Anatomia Di Tor：逐字节解析 Tor 协议",
-      "is_new": true,
+      "is_new": false,
       "created_display": "Created: Nov 20, 2026 / 16:20 PT",
       "image_url": "https://repository-images.githubusercontent.com/1452419503/9760540a-afd2-417a-a82e-53306712d601",
       "summary_en": "Anatomia Di Tor is a free, open-source technical book that explores the Tor protocol byte by byte. It includes 20 reproducible laboratories running on a private Tor network, documentation, and multilingual editions. The project is released under the GPL-3.0-or-later license.",
@@ -2235,11 +2235,11 @@
         "time": 1795220437,
         "comments_url": "https://news.ycombinator.com/item?id=50584327"
       },
-      "hot_score": 0.01,
       "tags": [
         "Open Source",
         "Privacy"
-      ]
+      ],
+      "hot_score": 0.01
     },
     {
       "title_en": "The Quartz Page",
@@ -2268,7 +2268,7 @@
       "title_en": "Crafting Targeted MP4 Fuzzers",
       "url": "https://atredis.com/blog/2026/11/16/crafting-targeted-mp4-fuzzers/",
       "title_zh": "制作针对性的 MP4 模糊测试器",
-      "is_new": true,
+      "is_new": false,
       "created_display": "Created: Nov 20, 2026 / 04:51 PT",
       "image_url": "https://atredis.com/blog/2026/11/16/crafting-targeted-mp4-fuzzers/images/ico.webp",
       "summary_en": "The research describes targeted fuzzers for GStreamer's MP4 demuxer, qtdemux, and the vulnerabilities they uncovered. It examines why conventional mutation-based fuzzing struggles with the MP4 container format and how targeted techniques can improve coverage. The work builds on earlier research that found 29 GStreamer vulnerabilities using a generator for small, structurally valid MP4 seeds. It is aimed at security researchers working on MP4, GStreamer, and related fuzzing techniques.",
@@ -2282,17 +2282,17 @@
         "time": 1795179107,
         "comments_url": "https://news.ycombinator.com/item?id=50573996"
       },
-      "hot_score": 0.01,
       "tags": [
         "Security",
         "Programming"
-      ]
+      ],
+      "hot_score": 0.01
     },
     {
       "title_en": "What was so great about move 37?",
       "url": "https://www.lesswrong.com/posts/zAcYRJP9CZcYXTs7o/what-was-so-great-about-move-37",
       "title_zh": "“第 37 手”究竟好在哪里？",
-      "is_new": true,
+      "is_new": false,
       "created_display": "Created: Nov 21, 2026 / 18:09 PT",
       "image_url": "https://res.cloudinary.com/lesswrong-2-0/image/upload/v1654295382/new_mississippi_river_fjdmww.jpg",
       "summary_en": "The author uses “Move 37” as shorthand for an AI finding a creative and highly effective idea that no human would consider. They revisit the famous Go move because it has influenced their views about AI, even though they know it mainly through secondhand accounts and have little knowledge of Go. The post aims to understand what made the move so remarkable and whether it supports claims about reinforcement learning's unique advantages.",
@@ -2306,17 +2306,17 @@
         "time": 1795313352,
         "comments_url": "https://news.ycombinator.com/item?id=50595534"
       },
-      "hot_score": 0.01,
       "tags": [
         "AI",
         "Programming"
-      ]
+      ],
+      "hot_score": 0.01
     },
     {
       "title_en": "Mutex poisoning is not for everyone",
       "url": "https://bertptrs.nl/2026/11/16/mutex-poisoning-is-not-for-everyone.html",
       "title_zh": "互斥锁中毒并不适合所有人",
-      "is_new": true,
+      "is_new": false,
       "created_display": "Created: Nov 21, 2026 / 06:45 PT",
       "image_url": "https://bertptrs.nl/assets/2026/poisoning/cover.webp",
       "summary_en": "The author argues that mutex poisoning by default is the wrong choice for most applications and calls it one of the language's biggest mistakes. The discussion focuses on what happens when code holding a mutex encounters an error and releases the lock while the protected state may still be only partially updated. The author is responding to an earlier post whose analysis they found thoughtful but fundamentally disagreed with.",
@@ -2325,21 +2325,21 @@
         "id": 50589701,
         "type": "story",
         "by": "birdculture",
-        "score": 11,
+        "score": 12,
         "descendants": 1,
         "time": 1795272303,
         "comments_url": "https://news.ycombinator.com/item?id=50589701"
       },
-      "hot_score": 0.01,
       "tags": [
         "Programming"
-      ]
+      ],
+      "hot_score": 0.01
     },
     {
       "title_en": "Show HN: PlaceBench – Testing AI on opening and closing hours (and last trains)",
       "url": "https://github.com/voygr-tech/placebench",
       "title_zh": "Show HN：PlaceBench——测试 AI 对营业时间和末班车的判断",
-      "is_new": true,
+      "is_new": false,
       "created_display": "Created: Nov 18, 2026 / 09:00 PT",
       "image_url": "https://opengraph.githubassets.com/23da7f467d2a9a79d6bcb2dbb66078ddb15dbe5e0a0389abef6ef50e3acd1abe/voygr-tech/placebench",
       "summary_en": "PlaceBench benchmarks AI systems on place-based questions such as restaurant recommendations, opening hours, and last trains. The creators previously found that, even with web grounding, the best model fabricated or recommended closed places in one out of ten cases; personal assistants performed better but took longer. In the newer comparison, OpenAI's Dots performed best and was also among the fastest, while xAI's Grok Bot performed worst. Google Ask Maps was measured separately because it is not technically a personal assistant.",
@@ -2353,17 +2353,17 @@
         "time": 1795021213,
         "comments_url": "https://news.ycombinator.com/item?id=50548763"
       },
-      "hot_score": 0.0,
       "tags": [
         "Show HN",
         "AI"
-      ]
+      ],
+      "hot_score": 0.0
     },
     {
       "title_en": "Developing the perception to separate the form of a place from what it contains",
       "url": "https://www.thedeletedscenes.com/p/blight-and-entrepreneurship-in-manassas",
       "title_zh": "培养将地点形态与其所容纳内容区分开的感知力",
-      "is_new": true,
+      "is_new": false,
       "created_display": "Created: Nov 21, 2026 / 12:54 PT",
       "image_url": "https://substackcdn.com/image/fetch/$s_!MrdI!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F06ff316d-5d25-45d6-a885-0e162683f69b_3931x2109.jpeg",
       "summary_en": "The essay considers how suburban commercial strips change as different people reuse and adapt existing places. A reader describes these transformations as keeping areas alive, citing a tortilleria operating in an old Pizza Hut as an example of how small businesses survive. The supplied excerpt emphasizes reuse, adaptation, and changing local businesses rather than a fixed identity for a place.",
@@ -2372,16 +2372,16 @@
         "id": 50593540,
         "type": "story",
         "by": "NaOH",
-        "score": 4,
+        "score": 6,
         "descendants": 0,
         "time": 1795294458,
         "comments_url": "https://news.ycombinator.com/item?id=50593540"
       },
-      "hot_score": 0.0,
       "tags": [
         "Culture",
         "Business"
-      ]
+      ],
+      "hot_score": 0.0
     }
   ]
 }
