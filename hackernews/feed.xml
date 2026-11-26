@@ -5,7 +5,7 @@
     <link>https://chaowang15.github.io/hackernews/</link>
     <description>Curated daily digest of top Hacker News stories with AI-generated summaries, tags, and bilingual translations.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 25 Nov 2026 16:05:44 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 02:06:53 +0000</lastBuildDate>
     <generator>Hacker News Daily RSS Builder</generator>
     <atom:link href="https://chaowang15.github.io/hackernews/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
@@ -29,8 +29,20 @@
       <category>Business</category>
       <description>&lt;p&gt;Nvidia has reinstated Jensen Huang as its CEO. The supplied source excerpt contains links but no further reliable details about the decision, its timing, or the circumstances surrounding it.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;英伟达重新任命黄仁勋为首席执行官。现有摘录仅包含相关链接，未提供有关这一决定、时间或背景的更多可靠细节。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 2824 · 💬 3771 · Business&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 2840 · 💬 3800 · Business&lt;/small&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50611576&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/25/top_stories_11252026#story-50611576&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Ladybird is now in alpha</title>
+      <link>https://ladybird.org/posts/alpha/</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50614249</guid>
+      <dc:creator>janvdberg</dc:creator>
+      <pubDate>Mon, 23 Nov 2026 16:13:12 +0000</pubDate>
+      <category>Programming</category>
+      <description>&lt;p&gt;Ladybird has reached its alpha stage, with builds available for macOS and Linux. The project is seeking early adopters who are willing to tolerate bugs and report them.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Ladybird 已进入 Alpha 阶段，并为 macOS 和 Linux 提供构建版本。项目面向能够接受 bug 并愿意提交报告的早期用户。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 2432 · 💬 623 · Programming&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50614249&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/25/top_stories_11252026#story-50614249&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Hurried Announcement: Alessandro Masullo GRH</title>
@@ -43,18 +55,6 @@
 &lt;p&gt;&lt;em&gt;Alessandro Masullo 提出了一份广义黎曼猜想的证明。Brian Conrad 已经对其进行了数月的仔细审阅，并提供了大量反馈，目前认为证明草稿看起来不错。原计划是在斯坦福进一步完善后再公布，但现在决定先发布当前版本，供其他人检查和形式化。&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;▲ 2393 · 💬 1160 · Science&lt;/small&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50579568&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/21/top_stories_11212026#story-50579568&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Ladybird is now in alpha</title>
-      <link>https://ladybird.org/posts/alpha/</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50614249</guid>
-      <dc:creator>janvdberg</dc:creator>
-      <pubDate>Mon, 23 Nov 2026 16:13:12 +0000</pubDate>
-      <category>Programming</category>
-      <description>&lt;p&gt;Ladybird has reached its alpha stage, with builds available for macOS and Linux. The project is seeking early adopters who are willing to tolerate bugs and report them.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Ladybird 已进入 Alpha 阶段，并为 macOS 和 Linux 提供构建版本。项目面向能够接受 bug 并愿意提交报告的早期用户。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 2385 · 💬 597 · Programming&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50614249&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/24/top_stories_11242026#story-50614249&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>&quot;Dario is hyping the dangers so OSS models are illegal and he stays in control&quot;</title>
@@ -182,6 +182,21 @@
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50617499&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/24/top_stories_11242026#story-50617499&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>1Password Security Incident</title>
+      <link>https://1password.com/blog/update-on-nov-2026-security-incident</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50644817</guid>
+      <dc:creator>lxhrstn</dc:creator>
+      <pubDate>Wed, 25 Nov 2026 17:18:26 +0000</pubDate>
+      <category>Security</category>
+      <category>Privacy</category>
+      <category>Programming</category>
+      <category>Web</category>
+      <description>&lt;p&gt;1Password identified an incident in which an attacker accessed an employee’s corporate GitHub account on November 19, 2026. The attacker used it to access source code, push malicious code to backend services, and download customer-related administrative data, including names, email addresses, and non-secret metadata; records for a subset of users were also downloaded. Customer vault contents were not accessed and remain secure.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;1Password 发现了一起安全事件：攻击者于 2026 年 11 月 19 日访问了一名员工的企业 GitHub 账户。攻击者利用该账户访问源代码、向后端服务推送恶意代码，并下载包含客户姓名、电子邮件地址及非机密账户元数据的管理数据；部分用户的账户记录也被下载。客户保险库内容未被访问，仍然安全。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 1159 · 💬 496 · Security · Privacy · Programming · Web&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50644817&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/25/top_stories_11252026#story-50644817&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Anthropic’s Nasdaq debut</title>
       <link>https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/</link>
       <guid isPermaLink="true">https://news.ycombinator.com/item?id=50562754</guid>
@@ -204,8 +219,8 @@
       <category>Web</category>
       <description>&lt;p&gt;The project provides synchronized 24/7 channels built from forgotten videos in the Internet Archive. It is designed to resemble cable television, but with a deliberately stranger selection of programming.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;该项目利用互联网档案馆中被遗忘的视频，提供全天候同步播放的频道。它模仿有线电视的形式，但节目选择更加古怪。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 1069 · 💬 181 · Web&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50606192&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/24/top_stories_11242026#story-50606192&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+&lt;p&gt;&lt;small&gt;▲ 1088 · 💬 186 · Web&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50606192&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/25/top_stories_11252026#story-50606192&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>87% of the Anthropic power will come from gas and 11% from coal in 2028</title>
@@ -222,6 +237,30 @@
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50597612&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/23/top_stories_11232026#story-50597612&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>The matrix multiplication exponent is nine fourths [pdf]</title>
+      <link>https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50637220</guid>
+      <dc:creator>E-Reverance</dc:creator>
+      <pubDate>Wed, 25 Nov 2026 01:19:26 +0000</pubDate>
+      <category>Science</category>
+      <description>&lt;p&gt;A preprint claims that the matrix multiplication exponent is nine fourths.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;一篇预印本宣称，矩阵乘法指数为九分之四。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 1025 · 💬 580 · Science&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50637220&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/25/top_stories_11252026#story-50637220&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>2035 came early</title>
+      <link>https://fzakaria.com/2026/11/23/2035-came-early</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50624497</guid>
+      <dc:creator>setheron</dc:creator>
+      <pubDate>Tue, 24 Nov 2026 06:30:33 +0000</pubDate>
+      <category>Programming</category>
+      <description>&lt;p&gt;trynix.dev can now boot GUI programs, including Solitaire, GL gears, xeyes, a voice application, weather data fetched through curl, and Firefox. The project is presented in the context of the long-running idea that applications written in JavaScript will eventually be written in JavaScript. Its expanding ability to run graphical software illustrates how far JavaScript-based environments have progressed.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;trynix.dev 现在已经能够启动图形界面程序，包括纸牌、GL gears、xeyes、语音应用、通过 curl 获取的天气信息以及 Firefox。该项目被置于“凡是能用 JavaScript 编写的应用，最终都会用 JavaScript 编写”这一长期观点的背景下。它对图形软件支持范围的扩大，展示了基于 JavaScript 的环境已经发展到何种程度。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 1021 · 💬 374 · Programming&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50624497&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/25/top_stories_11252026#story-50624497&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Gemini 4 Neon</title>
       <link>https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/</link>
       <guid isPermaLink="true">https://news.ycombinator.com/item?id=50552424</guid>
@@ -233,18 +272,6 @@
 &lt;p&gt;&lt;em&gt;Google 推出了 Gemini 4 Neon，面向复杂编程、知识工作和科学工作流。Google 表示，该模型以更低成本提供前沿级智能，并能快速完成端到端任务。该模型由 Google DeepMind 高级副总裁兼首席 AI 架构师发布。&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;▲ 1016 · 💬 761 · AI · Science&lt;/small&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50552424&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/19/top_stories_11192026#story-50552424&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>2035 came early</title>
-      <link>https://fzakaria.com/2026/11/23/2035-came-early</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50624497</guid>
-      <dc:creator>setheron</dc:creator>
-      <pubDate>Tue, 24 Nov 2026 06:30:33 +0000</pubDate>
-      <category>Programming</category>
-      <description>&lt;p&gt;trynix.dev can now boot GUI programs, including Solitaire, GL gears, xeyes, a voice application, weather data fetched through curl, and Firefox. The project is presented in the context of the long-running idea that applications written in JavaScript will eventually be written in JavaScript. Its expanding ability to run graphical software illustrates how far JavaScript-based environments have progressed.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;trynix.dev 现在已经能够启动图形界面程序，包括纸牌、GL gears、xeyes、语音应用、通过 curl 获取的天气信息以及 Firefox。该项目被置于“凡是能用 JavaScript 编写的应用，最终都会用 JavaScript 编写”这一长期观点的背景下。它对图形软件支持范围的扩大，展示了基于 JavaScript 的环境已经发展到何种程度。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 970 · 💬 366 · Programming&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50624497&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/24/top_stories_11242026#story-50624497&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>LLM agents work for their parent companies, not for you</title>
@@ -271,6 +298,18 @@
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50519231&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/20/top_stories_11202026#story-50519231&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening</title>
+      <link>https://scottaaronson.blog/?p=10379</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50646108</guid>
+      <dc:creator>Kotlopou</dc:creator>
+      <pubDate>Wed, 25 Nov 2026 19:11:27 +0000</pubDate>
+      <category>Science</category>
+      <description>&lt;p&gt;The post reacts to the extraordinary magnitude of developments now underway.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;这篇文章感叹当前正在发生的重大进展，其规模非同寻常。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 909 · 💬 756 · Science&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50646108&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/25/top_stories_11252026#story-50646108&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Pancreatic cancer halted by virus injection in three patients</title>
       <link>https://www.newscientist.com/article/2528235-pancreatic-cancer-halted-by-virus-injection-in-three-patients/</link>
       <guid isPermaLink="true">https://news.ycombinator.com/item?id=50563066</guid>
@@ -284,16 +323,16 @@
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50563066&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/20/top_stories_11202026#story-50563066&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Matrix Multiplication is Θ(n^2.25) [pdf]</title>
-      <link>https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50637220</guid>
-      <dc:creator>E-Reverance</dc:creator>
-      <pubDate>Wed, 25 Nov 2026 01:19:26 +0000</pubDate>
-      <category>Science</category>
-      <description>&lt;p&gt;A preprint titled “Matrix Multiplication is Θ(n^2.25)” presents a claim about the asymptotic complexity of matrix multiplication.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;一篇题为《矩阵乘法的复杂度为 Θ(n^2.25)》的预印本提出了关于矩阵乘法渐近复杂度的论断。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 849 · 💬 467 · Science&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50637220&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/25/top_stories_11252026#story-50637220&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+      <title>Button Sounds – collection of professionally-recorded button clicks and presses</title>
+      <link>https://buttons.joshwcomeau.com/</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50638032</guid>
+      <dc:creator>gaurang_tandon</dc:creator>
+      <pubDate>Wed, 25 Nov 2026 03:23:07 +0000</pubDate>
+      <category>Programming</category>
+      <description>&lt;p&gt;This collection offers more than 50 professionally recorded, multisampled clicks and toggles. The sounds are distributed through NPM.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;该合集提供 50 多种专业录制的多采样点击和拨动音效，并通过 NPM 发布。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 847 · 💬 132 · Programming&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50638032&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/25/top_stories_11252026#story-50638032&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>I'll never buy Framework hardware again</title>
@@ -500,18 +539,6 @@
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50558533&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/19/top_stories_11192026#story-50558533&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Button Sounds – collection of professionally-recorded button clicks and presses</title>
-      <link>https://buttons.joshwcomeau.com/</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50638032</guid>
-      <dc:creator>gaurang_tandon</dc:creator>
-      <pubDate>Wed, 25 Nov 2026 03:23:07 +0000</pubDate>
-      <category>Programming</category>
-      <description>&lt;p&gt;This collection offers more than 50 professionally recorded, multisampled clicks and toggles. The sounds are distributed through NPM.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;该合集提供 50 多种专业录制的多采样点击和拨动音效，并通过 NPM 发布。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 652 · 💬 105 · Programming&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50638032&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/25/top_stories_11252026#story-50638032&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife</title>
       <link>https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife</link>
       <guid isPermaLink="true">https://news.ycombinator.com/item?id=50602843</guid>
@@ -535,6 +562,18 @@
 &lt;p&gt;&lt;em&gt;一名居住在美国 DMV 地区的资深软件工程师表示，自己在 2025 年 1 月离开一家保险科技公司后已失业两年。此人拥有 15 年经验，目前继续辅导数学，并可能很快开始担任披萨店经理，但尽管具备 C#/.NET、AWS 和 AI 技能，仍未找到软件工程工作。由于积蓄只够支撑四到五个月，对方正在寻求软件工程或相关领域之外的高薪替代路径。&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;▲ 618 · 💬 694 · Career · AI&lt;/small&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50583761&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/21/top_stories_11212026#story-50583761&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The Spray Bottle</title>
+      <link>https://mechanical-pencil.com/products/spray-bottle</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50598555</guid>
+      <dc:creator>vinhnx</dc:creator>
+      <pubDate>Sun, 22 Nov 2026 11:16:30 +0000</pubDate>
+      <category>Design</category>
+      <description>&lt;p&gt;The project is an illustrated celebration of everyday engineering. Its creator focuses on common mechanical objects that are easy to overlook, including the mechanical pencil and the spray bottle.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;这是一个以插画呈现日常工程设计的项目。创作者关注那些常被忽视的普通机械物件，其中包括自动铅笔和喷雾瓶。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 606 · 💬 147 · Design&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50598555&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/25/top_stories_11252026#story-50598555&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>XNU Linux: Full OS X GUI Userspace on Linux</title>
@@ -598,44 +637,6 @@
 &lt;p&gt;&lt;em&gt;“三明治模拟器”允许用户在一片面包上涂抹食材、添加配料并拍照。每个作品都会获得一个编号和链接。&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;▲ 572 · 💬 198 · Entertainment&lt;/small&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50594911&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/22/top_stories_11222026#story-50594911&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Restricting AI agents in mobile operating systems platforms from capturing data</title>
-      <link>https://signal.org/blog/protecting-your-privacy/</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50572348</guid>
-      <dc:creator>dotcoma</dc:creator>
-      <pubDate>Fri, 20 Nov 2026 09:42:16 +0000</pubDate>
-      <category>Privacy</category>
-      <category>AI</category>
-      <description>&lt;p&gt;Signal says it is restricting the latest AI agents built into mobile operating systems from potentially capturing and storing Signal data. The move is presented as part of Signal’s broader privacy mission.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Signal 表示，正在限制移动操作系统中最新的 AI 代理，以防它们捕获并存储 Signal 数据。这一举措被视为 Signal 隐私保护使命的一部分。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 571 · 💬 336 · Privacy · AI&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50572348&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/21/top_stories_11212026#story-50572348&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Claude solves two open problems in the physics of black holes</title>
-      <link>https://www.anthropic.com/research/claude-black-hole-physics</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50563148</guid>
-      <dc:creator>cybermango</dc:creator>
-      <pubDate>Thu, 19 Nov 2026 17:30:44 +0000</pubDate>
-      <category>AI</category>
-      <category>Science</category>
-      <description>&lt;p&gt;Claude Fable 5.2 is reported to have solved two open problems in theoretical physics involving black holes and the search for quantum gravity. The problems sit at the intersection of general relativity and quantum mechanics, whose mathematical incompatibility remains a central challenge in physics. Researchers often use holographic duality and simplified model universes to study these questions.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;据称，Claude Fable 5.2 解决了理论物理学中的两个开放问题，涉及黑洞和量子引力理论的探索。这些问题位于广义相对论与量子力学的交叉地带，而两者在数学上的不相容仍是物理学的核心挑战之一。研究人员经常借助全息对偶和简化的模型宇宙来研究这些问题。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 568 · 💬 274 · AI · Science&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50563148&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/21/top_stories_11212026#story-50563148&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>The Spray Bottle</title>
-      <link>https://mechanical-pencil.com/products/spray-bottle</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50598555</guid>
-      <dc:creator>vinhnx</dc:creator>
-      <pubDate>Sun, 22 Nov 2026 11:16:30 +0000</pubDate>
-      <category>Design</category>
-      <description>&lt;p&gt;The project is an illustrated celebration of everyday engineering. Its creator focuses on common mechanical objects that are easy to overlook, including the mechanical pencil and the spray bottle.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;这是一个以插画呈现日常工程设计的项目。创作者关注那些常被忽视的普通机械物件，其中包括自动铅笔和喷雾瓶。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 566 · 💬 136 · Design&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50598555&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/25/top_stories_11252026#story-50598555&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
