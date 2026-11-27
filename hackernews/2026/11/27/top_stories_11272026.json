@@ -1,0 +1,1219 @@
+{
+  "meta": {
+    "mode": "top",
+    "source": "https://news.ycombinator.com/",
+    "api": "https://github.com/HackerNews/API",
+    "count_requested": 50,
+    "count_written": 50,
+    "reused_same_day": 0,
+    "reused_cross_day": 30,
+    "reused_history": 0,
+    "new_llm_enriched": 20,
+    "scrape_time_display": "08:04, November 27, 2026 (PST)",
+    "timezone": "America/Los_Angeles",
+    "date_dir": "2026/11/27",
+    "content_date": "2026-11-27",
+    "edition": "morning",
+    "edition_label": "Morning 50",
+    "target_count": 50,
+    "run_time_local": "08:04, November 27, 2026 (PST)",
+    "run_time_utc": "2026-11-27 16:04:06 UTC",
+    "incremental": true,
+    "stories_max": 50,
+    "hot_score_time_utc": "2026-11-27 16:04:54 UTC"
+  },
+  "items": [
+    {
+      "title_en": "Show HN: bouncemarket – a live prediction market game for a bouncing ball",
+      "url": "https://bouncemarket.minhanhday.com/",
+      "title_zh": "Show HN：bouncemarket——一款围绕弹跳球的实时预测市场游戏",
+      "is_new": true,
+      "created_display": "Created: Nov 27, 2026 / 07:01 PT",
+      "image_url": null,
+      "summary_en": "bouncemarket is a prediction game in which players trade on where a falling ball will land. The entire drop is simulated server-side and streamed to clients through server-sent events, while deterministic starting conditions allow rounds to be replayed exactly. AI traders keep the market active until more than five people join, and their deliberately simple rules make human-filled markets more difficult.",
+      "summary_zh": "bouncemarket 是一款预测游戏，玩家可以交易判断下落小球最终落点。小球下落过程完全在服务器端模拟，再通过服务器发送事件流式传给客户端；相同的起始条件会产生确定结果，因此每轮都能精确重放。游戏会用 AI 交易者维持市场活跃，但当玩家超过五人时它们会退出；这些 AI 采用较简单的规则，真人较多时市场会更难应对。",
+      "hn": {
+        "id": 50667726,
+        "type": "story",
+        "by": "mday404",
+        "score": 61,
+        "descendants": 27,
+        "time": 1795791710,
+        "comments_url": "https://news.ycombinator.com/item?id=50667726"
+      },
+      "hot_score": 8.06,
+      "tags": [
+        "Show HN",
+        "Gaming",
+        "AI"
+      ]
+    },
+    {
+      "title_en": "US Air Force's cloud computing platform hacked",
+      "url": "https://news.sky.com/story/us-air-forces-cloud-computing-platform-hacked-13617163",
+      "title_zh": "美国空军的云计算平台遭到黑客攻击",
+      "is_new": true,
+      "created_display": "Created: Nov 27, 2026 / 04:54 PT",
+      "image_url": null,
+      "summary_en": "The U.S. Air Force’s cloud computing platform was hacked.",
+      "summary_zh": "美国空军的云计算平台遭到黑客攻击。",
+      "hn": {
+        "id": 50666375,
+        "type": "story",
+        "by": "freakynit",
+        "score": 140,
+        "descendants": 80,
+        "time": 1795784051,
+        "comments_url": "https://news.ycombinator.com/item?id=50666375"
+      },
+      "hot_score": 7.2,
+      "tags": [
+        "Security"
+      ]
+    },
+    {
+      "title_en": "The group chat where your AI talks behind your back",
+      "url": "https://construct22.com/",
+      "title_zh": "你的 AI 在背后议论你的群聊",
+      "is_new": true,
+      "created_display": "Created: Nov 26, 2026 / 22:44 PT",
+      "image_url": null,
+      "summary_en": "A single prompt can ask ChatGPT to present the model’s private impression of a user as a fictional WhatsApp group chat in which AI models gossip about them. The format is intended to be humorous but can also reveal how much the assistant has inferred from a user’s conversations. The same experiment can be tried with Claude, Gemini, and other assistants that retain chat history.",
+      "summary_zh": "只需一个提示词，就能让 ChatGPT 把模型对用户的私下印象，呈现成一个虚构的 WhatsApp 群聊，让多个 AI 模型像在背后议论用户一样交流。这种形式颇为搞笑，但也可能暴露助手从用户对话中推断出的信息量。Claude、Gemini 以及其他会保留聊天记录的助手也可以进行同样的尝试。",
+      "hn": {
+        "id": 50663595,
+        "type": "story",
+        "by": "utiiiD",
+        "score": 516,
+        "descendants": 225,
+        "time": 1795761874,
+        "comments_url": "https://news.ycombinator.com/item?id=50663595"
+      },
+      "hot_score": 6.51,
+      "tags": [
+        "AI",
+        "Privacy"
+      ]
+    },
+    {
+      "title_en": "A Deterministic Subexponential-Time Algorithm for the Discrete Logarithm Problem [pdf]",
+      "url": "https://eprint.iacr.org/2026/3020.pdf",
+      "title_zh": "离散对数问题的确定性次指数时间算法",
+      "is_new": true,
+      "created_display": "Created: Nov 27, 2026 / 04:08 PT",
+      "image_url": null,
+      "summary_en": "This paper presents a deterministic subexponential-time algorithm for the discrete logarithm problem.",
+      "summary_zh": "这篇论文提出了一种用于求解离散对数问题的确定性次指数时间算法。",
+      "hn": {
+        "id": 50665968,
+        "type": "story",
+        "by": "yuvadam",
+        "score": 152,
+        "descendants": 69,
+        "time": 1795781331,
+        "comments_url": "https://news.ycombinator.com/item?id=50665968"
+      },
+      "hot_score": 6.12,
+      "tags": [
+        "Science"
+      ]
+    },
+    {
+      "title_en": "Mental Health Resources and Political Engagement",
+      "url": "https://onlinelibrary.wiley.com/doi/abs/10.1111/ssqu.70219",
+      "title_zh": "心理健康资源与政治参与",
+      "is_new": true,
+      "created_display": "Created: Nov 27, 2026 / 05:01 PT",
+      "image_url": null,
+      "summary_en": "The study examines the relationship between mental health resources and political engagement.",
+      "summary_zh": "这项研究考察心理健康资源与政治参与之间的关系。",
+      "hn": {
+        "id": 50666436,
+        "type": "story",
+        "by": "bko",
+        "score": 83,
+        "descendants": 144,
+        "time": 1795784462,
+        "comments_url": "https://news.ycombinator.com/item?id=50666436"
+      },
+      "hot_score": 4.42,
+      "tags": [
+        "Health",
+        "Politics"
+      ]
+    },
+    {
+      "title_en": "GPT 6.2 Astra Solves a Historical Mystery",
+      "url": "https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical",
+      "title_zh": "GPT 6.2 Astra 解开历史谜团",
+      "is_new": true,
+      "created_display": "Created: Nov 27, 2026 / 07:03 PT",
+      "image_url": null,
+      "summary_en": "GPT 6.2 Astra is reported to have solved a historical mystery.",
+      "summary_zh": "据称，GPT 6.2 Astra 解开了一桩历史谜团。",
+      "hn": {
+        "id": 50667744,
+        "type": "story",
+        "by": "bookofjoe",
+        "score": 33,
+        "descendants": 10,
+        "time": 1795791797,
+        "comments_url": "https://news.ycombinator.com/item?id=50667744"
+      },
+      "hot_score": 4.36,
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "title_en": "New York and California age gating rules go into effect in the new year",
+      "url": "https://www.eff.org/deeplinks/2026/11/new-york-and-california-age-gating-rules-go-effect-new-year",
+      "title_zh": "纽约州和加州的年龄验证规定将于新年生效",
+      "is_new": true,
+      "created_display": "Created: Nov 27, 2026 / 04:43 PT",
+      "image_url": "https://www.eff.org/files/banner_library/age_verification-cell_phone-access_denied.png",
+      "summary_en": "Several California laws, including AB 1709, AB 1043, and SB 976, are scheduled to take effect on January 1, 2027. New regulations from the New York attorney general concerning the state’s Stop... program are also expected to change how people browse social media in the two states.",
+      "summary_zh": "加州的 AB 1709、AB 1043 和 SB 976 等法律计划于 2027 年 1 月 1 日生效。纽约州总检察长针对该州 Stop……项目制定的新规，也预计将改变两州居民浏览社交媒体的方式。",
+      "hn": {
+        "id": 50666279,
+        "type": "story",
+        "by": "frutiger",
+        "score": 89,
+        "descendants": 87,
+        "time": 1795783420,
+        "comments_url": "https://news.ycombinator.com/item?id=50666279"
+      },
+      "hot_score": 4.29,
+      "tags": [
+        "Politics",
+        "Legal",
+        "Programming"
+      ]
+    },
+    {
+      "title_en": "Kimi for Science: More scientific ideas, made possible",
+      "url": "https://www.kimi.ai/news/kimi-for-science-program",
+      "title_zh": "Kimi for Science：让更多科学创意成为可能",
+      "is_new": true,
+      "created_display": "Created: Nov 27, 2026 / 04:03 PT",
+      "image_url": "https://kimi-img.kimi.ai/pub/slides/kimi-fs/weaver/assets/2001b388cf74b0feceeb9cd93fefef5d.webp",
+      "summary_en": "The Kimi for Science program is accepting applications for its first cohort until December 8. Selected applicants will receive up to $20,000 in Kimi API credits, equivalent to approximately 7 billion tokens, with the amount determined by research needs and review results.",
+      "summary_zh": "Kimi for Science 项目首期申请截止日期为 12 月 8 日。入选者将获得最高 2 万美元的 Kimi API 额度，约合 70 亿个 token，具体额度取决于研究需求和评审结果。",
+      "hn": {
+        "id": 50665920,
+        "type": "story",
+        "by": "theanonymousone",
+        "score": 108,
+        "descendants": 73,
+        "time": 1795780991,
+        "comments_url": "https://news.ycombinator.com/item?id=50665920"
+      },
+      "hot_score": 4.22,
+      "tags": [
+        "Science"
+      ]
+    },
+    {
+      "title_en": "AI made self-hosting fun again",
+      "url": "https://janlukas.blog/posts/ai-self-hosting",
+      "title_zh": "AI 让自托管再次变得有趣",
+      "is_new": true,
+      "created_display": "Created: Nov 26, 2026 / 13:47 PT",
+      "image_url": null,
+      "summary_en": "A longtime self-hoster says AI has renewed his interest in experimenting with infrastructure. Because much of his setup is stored in Git repositories as Docker Compose files, scripts, and configuration, coding agents can now modify services and automate tasks in a familiar software-project workflow. The lower friction makes trying new self-hosted services easier.",
+      "summary_zh": "一位长期进行自托管的用户表示，AI 重新激发了他折腾基础设施的兴趣。由于大部分配置以 Docker Compose 文件、脚本和其他配置文件的形式存放在 Git 仓库中，编码代理如今可以按照类似软件项目的流程修改服务和自动化任务。更低的操作门槛让尝试新的自托管服务变得更加容易。",
+      "hn": {
+        "id": 50660180,
+        "type": "story",
+        "by": "jlelse",
+        "score": 927,
+        "descendants": 448,
+        "time": 1795729665,
+        "comments_url": "https://news.ycombinator.com/item?id=50660180"
+      },
+      "tags": [
+        "AI",
+        "Programming",
+        "DevOps"
+      ],
+      "hot_score": 4.11
+    },
+    {
+      "title_en": "Claude sabotaging ML research tasks?",
+      "url": "https://twitter.com/RealAstropulse/status/2126119408997466389",
+      "title_zh": "Claude 正在破坏机器学习研究任务吗？",
+      "is_new": true,
+      "created_display": "Created: Nov 27, 2026 / 00:28 PT",
+      "image_url": "https://pbs.twimg.com/media/HYF66EGWIAAF9lx?format=webp&name=large",
+      "summary_en": "A researcher tested claims that Claude sabotages machine-learning research tasks after initially being skeptical. In the reported comparison, the Claude model was shown at 24,000 steps, while the Gemini Neon model was shown at only 4,000 steps. The researcher concluded that the behavior was genuine, though the available report does not explain its cause.",
+      "summary_zh": "一名研究者起初对“Claude 会破坏机器学习研究”的说法持怀疑态度，随后在自己的工作中进行了测试。在其展示的对比中，Claude 模型运行到 24,000 步，而 Gemini Neon 模型仅运行到 4,000 步。研究者据此认为这种现象确实存在，但现有信息没有说明其原因。",
+      "hn": {
+        "id": 50664325,
+        "type": "story",
+        "by": "baobabKoodaa",
+        "score": 206,
+        "descendants": 115,
+        "time": 1795768088,
+        "comments_url": "https://news.ycombinator.com/item?id=50664325"
+      },
+      "hot_score": 3.49,
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "title_en": "Hard Drive pricing has gotten bad",
+      "url": "https://blog.ktz.me/black-friday-hard-drive-prices-are-messed-up/",
+      "title_zh": "硬盘价格已经糟糕透顶",
+      "is_new": true,
+      "created_display": "Created: Nov 26, 2026 / 17:13 PT",
+      "image_url": "https://pub-430e0c9ecb66464fa6999cd23a749d13.r2.dev/content/images/2026/11/black-friday-hard-drive-prices-are-messed-up/row-of-easystore-drives-on-a-cluttered-workbench.webp",
+      "summary_en": "A 20TB hard drive rose from $249.99 to $549.99 between two Black Friday sales, based on an analysis of eight years of purchase receipts. The author usually replaces one or two drives each year in a roughly ten-disk setup, but current prices are prompting consideration of reducing the system to five larger disks. That change would require rearranging ZFS pools and moving data, though the author says the hassle may now be worthwhile.",
+      "summary_zh": "根据对八年购买收据的分析，一款 20TB 硬盘在两个黑色星期五期间的价格从 249.99 美元涨至 549.99 美元。作者通常会在约十块硬盘的系统中每年更换一两块，但当前价格让其开始考虑改用五块更大容量的硬盘。这样的调整需要重新规划 ZFS 存储池并搬移数据，不过作者认为现在这番麻烦可能已经值得。",
+      "hn": {
+        "id": 50661646,
+        "type": "story",
+        "by": "zdw",
+        "score": 480,
+        "descendants": 418,
+        "time": 1795742029,
+        "comments_url": "https://news.ycombinator.com/item?id=50661646"
+      },
+      "hot_score": 2.97,
+      "tags": [
+        "Hardware",
+        "Business"
+      ]
+    },
+    {
+      "title_en": "Buy Nothing Day – Friday November 27th 2026",
+      "url": "https://www.buynothingday.co.uk/",
+      "title_zh": "不消费日——2026 年 11 月 27 日星期五",
+      "is_new": true,
+      "created_display": "Created: Nov 26, 2026 / 21:52 PT",
+      "image_url": "http://www.buynothingday.co.uk/images/buy-nothing-day-poster-header.jpg",
+      "summary_en": "Buy Nothing Day is a 24-hour break from consumerism intended to encourage people to consider the environmental impact of shopping. Participants around the world can treat it as a personal experiment or a public statement by choosing not to buy anything for the day. The 2026 event is scheduled for Friday, November 27.",
+      "summary_zh": "“不消费日”是一次持续 24 小时、暂别消费主义的活动，旨在让人们思考购物对环境造成的影响。世界各地参与者可以把它当作个人尝试或公开声明，在当天选择不购买任何东西。2026 年的活动定于 11 月 27 日星期五举行。",
+      "hn": {
+        "id": 50663261,
+        "type": "story",
+        "by": "f_allwein",
+        "score": 252,
+        "descendants": 79,
+        "time": 1795758762,
+        "comments_url": "https://news.ycombinator.com/item?id=50663261"
+      },
+      "hot_score": 2.78,
+      "tags": [
+        "Culture"
+      ]
+    },
+    {
+      "title_en": "Norse Atlantic suspends all flights as it faces potential collapse",
+      "url": "https://www.bbc.com/news/articles/c9kgmd0ldy0lo",
+      "title_zh": "Norse Atlantic 面临可能破产，暂停所有航班",
+      "is_new": true,
+      "created_display": "Created: Nov 27, 2026 / 06:09 PT",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/df47/live/6f07a020-e98c-11f1-9d1c-4dcc8fcde666.jpg",
+      "summary_en": "Norwegian low-cost carrier Norse Atlantic Airways has suspended all flights while seeking urgent funding. The airline says it will file for bankruptcy if it cannot find a financial solution. Its operations therefore depend on securing a lifeline quickly.",
+      "summary_zh": "挪威低成本航空公司 Norse Atlantic Airways 在寻求紧急融资期间暂停了所有航班。该公司表示，如果无法找到解决方案，就将申请破产。因此，其运营能否继续取决于能否迅速获得资金支持。",
+      "hn": {
+        "id": 50667143,
+        "type": "story",
+        "by": "theanonymousone",
+        "score": 30,
+        "descendants": 18,
+        "time": 1795788584,
+        "comments_url": "https://news.ycombinator.com/item?id=50667143"
+      },
+      "hot_score": 2.48,
+      "tags": [
+        "Business",
+        "Finance"
+      ]
+    },
+    {
+      "title_en": "The need for a formally verifiable mainstream programming language",
+      "url": "https://blainehansen.me/post/mainstream-verifiable-language/",
+      "title_zh": "一门需要形式化验证的主流编程语言",
+      "is_new": true,
+      "created_display": "Created: Nov 26, 2026 / 21:22 PT",
+      "image_url": null,
+      "summary_en": "The author argues that software engineering is in crisis as large language models accelerate an already weak culture of sloppy and poorly considered practices. They call for changes in the discipline’s culture and for multiple projects to work toward a formally verifiable mainstream programming language. The proposal is presented as part of a broader effort to improve software quality.",
+      "summary_zh": "作者认为，随着大型语言模型加速原本就草率、欠缺思考的软件开发实践，软件工程正陷入危机。作者呼吁改变这一领域的文化，并通过多个项目推动一种能够进行形式化验证的主流编程语言。这一提议被视为改善软件质量的更广泛努力之一。",
+      "hn": {
+        "id": 50663089,
+        "type": "story",
+        "by": "todsacerdoti",
+        "score": 223,
+        "descendants": 222,
+        "time": 1795756926,
+        "comments_url": "https://news.ycombinator.com/item?id=50663089"
+      },
+      "hot_score": 2.28,
+      "tags": [
+        "Programming"
+      ]
+    },
+    {
+      "title_en": "AI on brink of making online security useless, mathematicians fear",
+      "url": "https://www.thetimes.com/uk/technology-uk/article/ai-making-online-security-useless-smr73d3n8",
+      "title_zh": "数学家担心 AI 已让网络安全濒临失效",
+      "is_new": true,
+      "created_display": "Created: Nov 27, 2026 / 03:09 PT",
+      "image_url": null,
+      "summary_en": "Mathematicians warn that AI could bring online security to the brink of becoming ineffective.",
+      "summary_zh": "数学家警告称，人工智能可能让网络安全濒临失效。",
+      "hn": {
+        "id": 50665488,
+        "type": "story",
+        "by": "conradqh",
+        "score": 70,
+        "descendants": 78,
+        "time": 1795777744,
+        "comments_url": "https://news.ycombinator.com/item?id=50665488"
+      },
+      "hot_score": 2.12,
+      "tags": [
+        "AI",
+        "Security"
+      ]
+    },
+    {
+      "title_en": "Company Culture = Slack Emoji ÷ √Headcount",
+      "url": "https://lia.mg/posts/measuring-company-culture-with-slack-emoji/",
+      "title_zh": "公司文化 = Slack 表情 ÷ √员工人数",
+      "is_new": true,
+      "created_display": "Created: Nov 26, 2026 / 12:49 PT",
+      "image_url": "https://avatars.githubusercontent.com/u/1187060?v=4",
+      "summary_en": "The essay criticizes conventional attempts to measure company culture through surveys, eNPS scores, HR presentations, and superficial workplace rituals. It argues that these processes are expensive and often heavily edited before being presented publicly. The author proposes measuring culture through Slack emoji usage normalized by the square root of headcount.",
+      "summary_zh": "这篇文章批评了通过调查、eNPS、HR 汇报和表面化职场仪式来衡量公司文化的常见做法。作者认为，这些流程成本高昂，而且结果在公开展示前往往会被大幅加工。文章提出用 Slack 表情使用量除以员工人数平方根来衡量文化。",
+      "hn": {
+        "id": 50659640,
+        "type": "story",
+        "by": "liamg",
+        "score": 484,
+        "descendants": 247,
+        "time": 1795726189,
+        "comments_url": "https://news.ycombinator.com/item?id=50659640"
+      },
+      "tags": [
+        "Culture"
+      ],
+      "hot_score": 1.97
+    },
+    {
+      "title_en": "Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad",
+      "url": "https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/",
+      "title_zh": "卡米尔·汗·穆姆塔兹：在巴基斯坦备受推崇、在海外几乎默默无闻的建筑师",
+      "is_new": true,
+      "created_display": "Created: Nov 26, 2026 / 13:08 PT",
+      "image_url": "https://worksinprogress.co/wip-image/uploads/2026/11/The_Greatest_Architect_Sharecard_03.jpg",
+      "summary_en": "Kamil Khan Mumtaz is a Pakistani architect widely admired at home but little known abroad. A portfolio assembled with his support presents photographs of his practice, many of which had not previously been seen outside Pakistan. Mumtaz was born in Calcutta in 1939, grew up in what became Pakistan, and later studied at London’s Architectural Association.",
+      "summary_zh": "卡米尔·汗·穆姆塔兹是一位在巴基斯坦广受推崇、但在海外鲜为人知的建筑师。一组在他支持下整理的作品集展示了其建筑事务所的照片，其中许多此前从未在巴基斯坦以外公开。穆姆塔兹 1939 年出生于加尔各答，在后来成为巴基斯坦的地区长大，之后赴伦敦建筑联盟学院学习。",
+      "hn": {
+        "id": 50659841,
+        "type": "story",
+        "by": "dverlaeckt80",
+        "score": 462,
+        "descendants": 116,
+        "time": 1795727285,
+        "comments_url": "https://news.ycombinator.com/item?id=50659841"
+      },
+      "tags": [
+        "Design"
+      ],
+      "hot_score": 1.93
+    },
+    {
+      "title_en": "Tell HN: Happy Thanksgiving",
+      "url": "https://news.ycombinator.com/item?id=50655664",
+      "title_zh": "Tell HN：感恩节快乐",
+      "is_new": true,
+      "created_display": "Created: Nov 26, 2026 / 06:26 PT",
+      "image_url": null,
+      "summary_en": "A short holiday message wishes readers a great day spent with friends and family and suggests that if the day isn't going well, they should make it a great day anyway. The post is a brief, positive greeting directed at the community.",
+      "summary_zh": "一则简短的节日问候祝愿读者与亲友度过愉快的一天，并建议如果当天不顺，也要尽力让它变得美好。该帖是一条面向社区的积极问候。",
+      "hn": {
+        "id": 50655664,
+        "type": "story",
+        "by": "ericmay",
+        "score": 708,
+        "descendants": 156,
+        "time": 1795703214,
+        "comments_url": "https://news.ycombinator.com/item?id=50655664"
+      },
+      "tags": [
+        "Culture"
+      ],
+      "hot_score": 1.8
+    },
+    {
+      "title_en": "1Password Security Incident",
+      "url": "https://1password.com/blog/update-on-nov-2026-security-incident",
+      "title_zh": "1Password 安全事件",
+      "is_new": true,
+      "created_display": "Created: Nov 25, 2026 / 09:18 PT",
+      "image_url": "https://images.ctfassets.net/3091ajzcmzlr/3yu0DTU3edoU7HK8MxkW54/c5e7801fb8c0d7d52295da96af7e8013/business_2x.webp",
+      "summary_en": "1Password identified an incident in which an attacker accessed an employee’s corporate GitHub account on November 19, 2026. The attacker used it to access source code, push malicious code to backend services, and download customer-related administrative data, including names, email addresses, and non-secret metadata; records for a subset of users were also downloaded. Customer vault contents were not accessed and remain secure.",
+      "summary_zh": "1Password 发现了一起安全事件：攻击者于 2026 年 11 月 19 日访问了一名员工的企业 GitHub 账户。攻击者利用该账户访问源代码、向后端服务推送恶意代码，并下载包含客户姓名、电子邮件地址及非机密账户元数据的管理数据；部分用户的账户记录也被下载。客户保险库内容未被访问，仍然安全。",
+      "hn": {
+        "id": 50644817,
+        "type": "story",
+        "by": "lxhrstn",
+        "score": 1686,
+        "descendants": 718,
+        "time": 1795627106,
+        "comments_url": "https://news.ycombinator.com/item?id=50644817"
+      },
+      "tags": [
+        "Security",
+        "Privacy",
+        "Programming",
+        "Web"
+      ],
+      "hot_score": 1.54
+    },
+    {
+      "title_en": "YouTube Ad Punisher – Auto-reloads YouTube pages when an ad plays",
+      "url": "https://github.com/antonpictures/youtube-punisher",
+      "title_zh": "YouTube 广告惩罚器：播放广告时自动刷新页面",
+      "is_new": true,
+      "created_display": "Created: Nov 26, 2026 / 09:36 PT",
+      "image_url": "https://opengraph.githubassets.com/08ffa116930a2f1d92626e7e185728e321a8e7c1b71ff22f73bf60e85d730a6d/antonpictures/youtube-punisher",
+      "summary_en": "YouTube Ad Punisher is a browser extension that automatically reloads a YouTube page when an advertisement plays while preserving the playback position. It is presented as an alternative to conventional ad blockers, which may trigger YouTube’s anti-adblock warnings. The project notes that ad frequency varies by channel and over time.",
+      "summary_zh": "YouTube Ad Punisher 是一个浏览器扩展，会在广告播放时自动刷新 YouTube 页面，同时保留播放位置。它被设计为传统广告拦截器之外的另一种方案，因为后者可能触发 YouTube 的反广告拦截提示。项目说明称，广告频率会因频道和时间而变化。",
+      "hn": {
+        "id": 50657530,
+        "type": "story",
+        "by": "iantongeorge",
+        "score": 482,
+        "descendants": 568,
+        "time": 1795714607,
+        "comments_url": "https://news.ycombinator.com/item?id=50657530"
+      },
+      "tags": [
+        "Programming",
+        "Web"
+      ],
+      "hot_score": 1.52
+    },
+    {
+      "title_en": "Stanford Physicist Uses AI to Tackle Quantum Gravity Problem",
+      "url": "https://thequantuminsider.com/2026/11/26/stanford-physicist-uses-ai-to-tackle-quantum-gravity-problem/",
+      "title_zh": "斯坦福物理学家借助 AI 破解量子引力难题",
+      "is_new": true,
+      "created_display": "Created: Nov 27, 2026 / 06:55 PT",
+      "image_url": "https://thequantuminsider.com/wp-content/uploads/2026/11/Black-Hole-Shadow-Causal-Diamonds-1.png",
+      "summary_en": "A Stanford physicist has proposed a quantum theory of gravity based on using the paths of light to calculate how spacetime can fluctuate.",
+      "summary_zh": "一名斯坦福物理学家提出了一种量子引力理论，利用光的路径来计算时空可能发生的波动。",
+      "hn": {
+        "id": 50667664,
+        "type": "story",
+        "by": "thunderbong",
+        "score": 12,
+        "descendants": 5,
+        "time": 1795791357,
+        "comments_url": "https://news.ycombinator.com/item?id=50667664"
+      },
+      "hot_score": 1.4,
+      "tags": [
+        "AI",
+        "Science"
+      ]
+    },
+    {
+      "title_en": "AMD-specific fork of llama.cpp",
+      "url": "https://devnull.land/amd-specific-llama-cpp",
+      "title_zh": "面向 AMD 的 llama.cpp 分支",
+      "is_new": true,
+      "created_display": "Created: Nov 26, 2026 / 09:11 PT",
+      "image_url": null,
+      "summary_en": "The author recommends llama-cpp-rdna-boosts for users with AMD graphics cards. In the author’s testing, token generation increased from 35 to 55 tokens per second, while prefill speed rose from 700 to 1,300 tokens per second. The results are described as hardware- and workload-dependent.",
+      "summary_zh": "作者建议 AMD 显卡用户使用 llama-cpp-rdna-boosts。在作者的测试中，令牌生成速度从每秒 35 个提升到 55 个，预填充速度则从每秒 700 个升至 1,300 个。文中也指出，实际结果会因硬件和工作负载而异。",
+      "hn": {
+        "id": 50657265,
+        "type": "story",
+        "by": "julianlam",
+        "score": 412,
+        "descendants": 101,
+        "time": 1795713089,
+        "comments_url": "https://news.ycombinator.com/item?id=50657265"
+      },
+      "tags": [
+        "Programming",
+        "Hardware",
+        "Open Source"
+      ],
+      "hot_score": 1.26
+    },
+    {
+      "title_en": "She Reported Her Sexual Assault. The Marine Corps Kicked Her Out",
+      "url": "https://thewarhorse.org/marine-corps-administrative-separation-after-sexual-assault/",
+      "title_zh": "她举报性侵后，却被海军陆战队开除",
+      "is_new": true,
+      "created_display": "Created: Nov 27, 2026 / 05:06 PT",
+      "image_url": "https://thewarhorse.org/wp-content/uploads/2026/11/Female_Marine_WIP-copy-scaled.jpg",
+      "summary_en": "At least 30 Marines have been discharged over the past five years after reporting that they were sexually assaulted. Marina said a lieutenant sexually assaulted her at knifepoint during the 2023 Marine Corps Ball while she was training at the Basic School in Quantico, Virginia. She described the event as occurring in a place she had expected to be safe.",
+      "summary_zh": "过去五年中，至少有 30 名海军陆战队员在举报遭受性侵后被开除。Marina 说，2023 年她在弗吉尼亚州匡蒂科的基础学校受训期间，参加海军陆战队晚宴时遭一名中尉持刀性侵。她表示，自己原本以为那是最安全的地方。",
+      "hn": {
+        "id": 50666487,
+        "type": "story",
+        "by": "firefax",
+        "score": 23,
+        "descendants": 0,
+        "time": 1795784794,
+        "comments_url": "https://news.ycombinator.com/item?id=50666487"
+      },
+      "hot_score": 1.23,
+      "tags": [
+        "Politics",
+        "Legal"
+      ]
+    },
+    {
+      "title_en": "Intel One Mono font (2023)",
+      "url": "https://github.com/intel/intel-one-mono",
+      "title_zh": "英特尔 One Mono 等宽字体",
+      "is_new": true,
+      "created_display": "Created: Nov 26, 2026 / 02:11 PT",
+      "image_url": "https://opengraph.githubassets.com/c2bf96f4a324654d81cf17a9969e8540649327ef90de2e6e95d41aca34317986/intel/intel-one-mono",
+      "summary_en": "Intel published the Intel One Mono font repository, introducing a monospaced font family designed for clarity, legibility, and developer needs. The project emphasizes improved readability and is released under an open-source font license, making it freely available. The font targets developer workflows where monospaced clarity matters.",
+      "summary_zh": "英特尔发布了 Intel One Mono 字体仓库，推出一款为清晰度、可读性及开发者需求设计的等宽字体家族。该项目强调更易阅读性，并以开源字体许可免费提供。该字体面向对等宽字体清晰度有要求的开发者工作流。",
+      "hn": {
+        "id": 50653667,
+        "type": "story",
+        "by": "saikatsg",
+        "score": 560,
+        "descendants": 266,
+        "time": 1795687861,
+        "comments_url": "https://news.ycombinator.com/item?id=50653667"
+      },
+      "tags": [
+        "Open Source",
+        "Design"
+      ],
+      "hot_score": 1.1
+    },
+    {
+      "title_en": "CTO of 'RansomwareHelp' indicted for wire fraud",
+      "url": "https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/",
+      "title_zh": "“RansomwareHelp”首席技术官因电信诈骗罪被起诉",
+      "is_new": true,
+      "created_display": "Created: Nov 26, 2026 / 09:47 PT",
+      "image_url": "https://krebsonsecurity.com/b-spycloud/1.png",
+      "summary_en": "The CTO and co-founder of ransomwarehelp.com has been charged with wire fraud after an FBI sting operation. Investigators allege that the Florida company claimed to use advanced cryptographic tools to recover ransomware-locked data, but instead paid attackers for decryption keys and charged victims a markup. The company is now defunct.",
+      "summary_zh": "ransomwarehelp.com 的首席技术官兼联合创始人在 FBI 的诱捕行动后被控电信诈骗。调查人员指称，这家佛罗里达公司声称使用先进密码学工具恢复被勒索软件锁定的数据，实际上却向攻击者购买解密密钥，再向受害者加价收费。该公司目前已经停止运营。",
+      "hn": {
+        "id": 50657645,
+        "type": "story",
+        "by": "Bender",
+        "score": 316,
+        "descendants": 157,
+        "time": 1795715265,
+        "comments_url": "https://news.ycombinator.com/item?id=50657645"
+      },
+      "tags": [
+        "Security",
+        "Legal"
+      ],
+      "hot_score": 1.01
+    },
+    {
+      "title_en": "Nextcloud Office Desktop app",
+      "url": "https://nextcloud.com/blog/euro-office-comes-to-your-desktop-with-the-nextcloud-office-desktop-app/",
+      "title_zh": "Euro-Office 桌面应用将办公带到你的桌面",
+      "is_new": true,
+      "created_display": "Created: Nov 26, 2026 / 03:50 PT",
+      "image_url": "https://nextcloud.com/c/uploads/2026/11/Euro-Office-comes-to-your-desktop-with-the-Nextcloud-Office-app.png",
+      "summary_en": "Nextcloud released a desktop app that ships Nextcloud Office powered by Euro-Office, following the June 9, 2026 production-ready release of Euro-Office and the Nextcloud Hub 26 Summer announcement. The ready-to-download app runs on Windows, macOS and Linux, lets you work offline, and lets you switch between Nextcloud Hub in the browser and the native app while co-editing files with your team. Euro-Office is presented as a sovereign collaborative office suite developed and governed in Europe, and the app aims to provide the same editing experience across desktop platforms.",
+      "summary_zh": "Nextcloud 发布了基于 Euro-Office 的桌面应用，此前 Euro-Office 在 2026 年 6 月 9 日发布了首个可生产部署版本，并在 Nextcloud Hub 26 Summer 中宣布桌面端。该可下载应用可在 Windows、macOS 和 Linux 上运行，支持离线工作，并能在浏览器中的 Nextcloud Hub 与本地应用之间切换，方便团队协同编辑文件。Euro-Office 被定位为在欧洲开发并治理的主权协作办公套件，该应用旨在在各桌面平台上提供一致的编辑体验。",
+      "hn": {
+        "id": 50654289,
+        "type": "story",
+        "by": "e12e",
+        "score": 445,
+        "descendants": 230,
+        "time": 1795693849,
+        "comments_url": "https://news.ycombinator.com/item?id=50654289"
+      },
+      "tags": [
+        "Open Source",
+        "Web"
+      ],
+      "hot_score": 0.96
+    },
+    {
+      "title_en": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
+      "url": "https://techstackups.com/articles/google-workspace-ai-agents-mcp/",
+      "title_zh": "Google 将要求 AI 代理使用其 MCP 服务器；Gmail 服务器无法发送邮件",
+      "is_new": true,
+      "created_display": "Created: Nov 26, 2026 / 01:44 PT",
+      "image_url": "https://techstackups.com/img/articles/google-workspace-agent-api/cover.jpg",
+      "summary_en": "Google’s terms will require AI agents to access Gmail, Drive, Calendar, and other Workspace services through Google’s own MCP servers starting February 1, 2027. The Gmail server can search mail, read threads, create drafts, and apply labels, but cannot send, reply to, forward, or modify drafts. Those additional tools reportedly require partner access and are not generally available.",
+      "summary_zh": "从 2027 年 2 月 1 日起，Google 的条款将要求 AI 代理通过 Google 自有的 MCP 服务器访问 Gmail、Drive、Calendar 及其他 Workspace 服务。Gmail 服务器可以搜索邮件、读取会话、创建草稿和添加标签，但不能发送、回复、转发邮件，也不能修改已创建的草稿。据称，这些额外工具需要合作伙伴权限，尚未普遍开放。",
+      "hn": {
+        "id": 50653477,
+        "type": "story",
+        "by": "ritzaco",
+        "score": 384,
+        "descendants": 318,
+        "time": 1795686263,
+        "comments_url": "https://news.ycombinator.com/item?id=50653477"
+      },
+      "tags": [
+        "AI"
+      ],
+      "hot_score": 0.73
+    },
+    {
+      "title_en": "The New York Times warns photographers not to update Photoshop over AI features",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
+      "title_zh": "《纽约时报》警告摄影师不要因 AI 功能更新 Photoshop",
+      "is_new": true,
+      "created_display": "Created: Nov 25, 2026 / 13:18 PT",
+      "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2289911637.jpg?quality=90&strip=all&crop=0%2C10.232235952618%2C100%2C79.535528094764&w=1200",
+      "summary_en": "The New York Times has warned photographers not to update Photoshop because of its AI features.",
+      "summary_zh": "《纽约时报》警告摄影师，不要因为 Photoshop 的 AI 功能而进行更新。",
+      "hn": {
+        "id": 50647673,
+        "type": "story",
+        "by": "rmason",
+        "score": 676,
+        "descendants": 539,
+        "time": 1795641482,
+        "comments_url": "https://news.ycombinator.com/item?id=50647673"
+      },
+      "tags": [
+        "AI"
+      ],
+      "hot_score": 0.72
+    },
+    {
+      "title_en": "Show HN: I wrote an entire Vim manual over 4 years",
+      "url": "http://themouseless.dev/vim/",
+      "title_zh": "Show HN：我花了四年写完一整本 Vim 手册",
+      "is_new": true,
+      "created_display": "Created: Nov 26, 2026 / 06:44 PT",
+      "image_url": "https://themouseless.dev/images/book_cover_mouseless_2_300.jpg",
+      "summary_en": "The author has released “Learning to Play Vim,” a step-by-step manual written over more than four years and 2,987 focused pomodoros, totaling 1,244 hours. The book contains 21 chapters, 170 exercises with solutions, real-world examples, and links to relevant Vim help pages. Most configurations are provided in both Vimscript and Lua for Neovim users.",
+      "summary_zh": "作者发布了《Learning to Play Vim》，这是一本历时四年多、投入 2,987 个专注番茄钟（共 1,244 小时）完成的循序渐进手册。全书包含 21 章、170 道带答案的练习、真实案例，以及相关 Vim 帮助页面的索引。大多数配置同时提供 Vimscript 和 Lua 版本，方便 Neovim 用户使用。",
+      "hn": {
+        "id": 50655868,
+        "type": "story",
+        "by": "thanato0s",
+        "score": 259,
+        "descendants": 85,
+        "time": 1795704262,
+        "comments_url": "https://news.ycombinator.com/item?id=50655868"
+      },
+      "tags": [
+        "Show HN",
+        "Programming",
+        "Education"
+      ],
+      "hot_score": 0.67
+    },
+    {
+      "title_en": "Pizza history: AI agent's cardless purchase is a first for UK",
+      "url": "https://www.theguardian.com/business/2026/nov/27/ai-agent-cardless-transaction-pizza-papa-john-uk-fca-truelayer",
+      "title_zh": "披萨史：AI 智能体完成英国首笔无卡支付",
+      "is_new": true,
+      "created_display": "Created: Nov 27, 2026 / 03:41 PT",
+      "image_url": "https://i.guim.co.uk/img/media/bf6bce003fbe74cd0f36f89414dd7b2fb6f3888f/996_0_5020_4016/master/5020.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6e41aab7f165bd34c72c23b2fdf8e018",
+      "summary_en": "An order for Papa John’s margherita pizzas became the first purchase in the UK made by an AI agent using cardless payment technology. The transaction was completed without sharing the customer’s bank security details. The development comes as retailers experiment with AI shopping assistants during Black Friday.",
+      "summary_zh": "一份 Papa John’s 玛格丽特披萨订单成为英国首笔由 AI 智能体借助无卡支付技术完成的购物交易。整个过程无需分享顾客的银行安全信息。此举发生在黑色星期五期间，零售商正开始尝试使用 AI 购物助手。",
+      "hn": {
+        "id": 50665732,
+        "type": "story",
+        "by": "6LLvveMx2koXfwn",
+        "score": 18,
+        "descendants": 37,
+        "time": 1795779671,
+        "comments_url": "https://news.ycombinator.com/item?id=50665732"
+      },
+      "hot_score": 0.6,
+      "tags": [
+        "AI",
+        "Business",
+        "Security"
+      ]
+    },
+    {
+      "title_en": "Rvoip: VoIP stack in Rust",
+      "url": "https://github.com/eisenzopf/rvoip",
+      "title_zh": "Rvoip：用 Rust 编写的 VoIP 协议栈",
+      "is_new": true,
+      "created_display": "Created: Nov 26, 2026 / 11:18 PT",
+      "image_url": "https://opengraph.githubassets.com/7bc3b49bcfc2fe9540ba758b6a70e71bb44b35cf7691807ebe7d97fa45ccdd10/eisenzopf/rvoip",
+      "summary_en": "Rvoip is an open-source Rust stack for SIP, WebRTC, SRTP, and AI voice agents behind a unified API. It combines SIP, RTP, QUIC/WebTransport/WebSocket conversations, Media over QUIC, and voice-agent support in one call model. The project says applications do not need a separate SIP server, media server, or RTP engine.",
+      "summary_zh": "Rvoip 是一个开源 Rust 协议栈，通过统一 API 支持 SIP、WebRTC、SRTP 和 AI 语音代理。它将 SIP、RTP、QUIC/WebTransport/WebSocket 会话、基于 QUIC 的媒体传输以及语音代理整合到同一个通话模型中。项目称，应用无需另行安装和连接 SIP 服务器、媒体服务器或 RTP 引擎。",
+      "hn": {
+        "id": 50658632,
+        "type": "story",
+        "by": "zerosegfaults",
+        "score": 153,
+        "descendants": 35,
+        "time": 1795720689,
+        "comments_url": "https://news.ycombinator.com/item?id=50658632"
+      },
+      "tags": [
+        "Programming",
+        "Open Source",
+        "AI"
+      ],
+      "hot_score": 0.55
+    },
+    {
+      "title_en": "Novita, StreamLake, etc. are ByteDance Ark wrappers",
+      "url": "https://kendell.dev/blog/arkwrapper/",
+      "title_zh": "Novita、StreamLake 等是 ByteDance Ark 的包装层",
+      "is_new": true,
+      "created_display": "Created: Nov 26, 2026 / 13:59 PT",
+      "image_url": null,
+      "summary_en": "The report examines Novita and StreamLake as services that may act as wrappers around ByteDance’s Ark platform. Novita initially presents itself as a standard US-based inference provider with zero data retention enabled by default for all endpoints, including serverless API calls. The available material does not provide further details about the alleged relationship.",
+      "summary_zh": "这篇报告将 Novita 和 StreamLake 视为可能包裹 ByteDance Ark 平台的服务。Novita 起初看起来像一家普通的美国推理服务提供商，并声称所有端点（包括无服务器 API 调用）默认启用零数据保留。现有材料未提供更多有关这种关系的细节。",
+      "hn": {
+        "id": 50660273,
+        "type": "story",
+        "by": "leafingensemble",
+        "score": 117,
+        "descendants": 21,
+        "time": 1795730359,
+        "comments_url": "https://news.ycombinator.com/item?id=50660273"
+      },
+      "tags": [
+        "Privacy"
+      ],
+      "hot_score": 0.52
+    },
+    {
+      "title_en": "Moat: OpenRouter replacement",
+      "url": "https://commandcode.ai/moat",
+      "title_zh": "Moat：OpenRouter 替代品",
+      "is_new": true,
+      "created_display": "Created: Nov 25, 2026 / 22:32 PT",
+      "image_url": "https://commandcode.ai/moat/og.png",
+      "summary_en": "Moat offers access to more than 100 open models for $5 per month. It says members receive wholesale pricing and unlimited usage, with pooled demand giving the service bulk purchasing power for AI tokens. The service is positioned as a low-cost alternative for accessing a broad range of models.",
+      "summary_zh": "Moat 提供每月 5 美元访问 100 多个开放模型的服务。它表示，会员可享受批发价和不限量使用，会员汇聚的需求则为 AI 令牌采购带来规模优势。该服务定位为一种低成本、多模型访问方案。",
+      "hn": {
+        "id": 50652184,
+        "type": "story",
+        "by": "amanverasia",
+        "score": 309,
+        "descendants": 161,
+        "time": 1795674768,
+        "comments_url": "https://news.ycombinator.com/item?id=50652184"
+      },
+      "tags": [
+        "AI",
+        "Business"
+      ],
+      "hot_score": 0.5
+    },
+    {
+      "title_en": "Largest 2D Chart library in the world using BUI: BlenderUI",
+      "url": "https://bui.preetham.top/charts/",
+      "title_zh": "使用 BUI 的世界最大 2D 图表库：BlenderUI",
+      "is_new": true,
+      "created_display": "Created: Nov 26, 2026 / 10:37 PT",
+      "image_url": "https://bui.preetham.top/og.png",
+      "summary_en": "BUI Charts is a component set for building charts with BlenderUI. Developers can declare charts in an `rsx!` block, style them with classes, and feed them from application state. Charts redraw when the associated signal changes.",
+      "summary_zh": "BUI Charts 是一组用于 BlenderUI 的图表组件。开发者可以在 `rsx!` 代码块中声明图表，使用 class 设置样式，并从应用状态提供数据。当关联信号发生变化时，图表会重新绘制。",
+      "hn": {
+        "id": 50658193,
+        "type": "story",
+        "by": "ppmpreetham",
+        "score": 129,
+        "descendants": 36,
+        "time": 1795718244,
+        "comments_url": "https://news.ycombinator.com/item?id=50658193"
+      },
+      "tags": [
+        "Programming"
+      ],
+      "hot_score": 0.44
+    },
+    {
+      "title_en": "An introduction to uncertainty in machine learning",
+      "url": "https://chrhenning.com/blog/2026/introduction-to-uncertainty/",
+      "title_zh": "机器学习中的不确定性：入门",
+      "is_new": true,
+      "created_display": "Created: Nov 26, 2026 / 11:04 PT",
+      "image_url": "https://chrhenning.com/assets/img/posts/introduction-to-uncertainty/lane-split-og.jpg",
+      "summary_en": "The introduction explains that every model makes assumptions about uncertainty, often implicitly. When data is scarce, those assumptions can determine the result, so the piece discusses where uncertainty comes from and when it needs to be faithfully represented. It argues that accounting for uncertainty can improve decisions in many machine-learning applications.",
+      "summary_zh": "这篇入门文章指出，每个模型都会对不确定性作出假设，只是这些假设往往没有被明确说明。当数据稀缺时，假设可能决定模型结果，因此文章讨论了不确定性的来源，以及何时需要忠实地表达它。文章认为，在许多机器学习应用中，将不确定性纳入考量有助于改进决策。",
+      "hn": {
+        "id": 50658498,
+        "type": "story",
+        "by": "chrhenning",
+        "score": 122,
+        "descendants": 11,
+        "time": 1795719890,
+        "comments_url": "https://news.ycombinator.com/item?id=50658498"
+      },
+      "tags": [
+        "AI"
+      ],
+      "hot_score": 0.43
+    },
+    {
+      "title_en": "An algebraic quantization of gravity from the null cone",
+      "url": "https://arxiv.org/abs/2611.34924",
+      "title_zh": "来自空锥的代数化引力量子化",
+      "is_new": true,
+      "created_display": "Created: Nov 25, 2026 / 21:37 PT",
+      "image_url": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+      "summary_en": "The paper proposes a background-independent quantization of vacuum general relativity on four-dimensional Lorentzian spacetimes by solving gravitational constraints on intersecting null cones of a bulk subregion and obtaining the reduced phase space at finite G_N. The authors promote the reduced canonical Poisson brackets to commutation relations, define an algebra of observables via deformations of the reduced action, and construct a nonperturbative Hilbert space representation using Gaussian wavefunctions that yields a type I factor. They compose amplitudes between states prepared on null cones to form a Lorentzian path integral with absolutely convergent intermediate-state sums, compute a finite nonperturbative amplitude for graviton pair creation/annihilation, and argue diffeomorphism invariance implies a macroscopic causal diamond of given maximum size has a finite-dimensional Hilbert space.",
+      "summary_zh": "该论文提出了一种在四维洛伦兹时空上对真空广义相对论进行背景无关量子化的方法：通过在体区的相交空锥上求解引力约束，获得有限 G_N 下的约化相空间。作者将约化的规范泊松括号提升为对易关系，通过约化作用的变形定义观测量代数，并用高斯波函数构造非微扰的希尔伯特空间表示，使该代数生成一个 I 型因子。文中通过在空锥上制备状态并组合振幅得到一个洛伦兹路径积分，其对中间态的求和绝对收敛，给出了引力子成对产生与湮灭的有限非微扰振幅，并利用微分同胚不变性论证具有给定最大尺寸的宏观因果钻石对应有限维希尔伯特空间。",
+      "hn": {
+        "id": 50651863,
+        "type": "story",
+        "by": "hecmmm",
+        "score": 260,
+        "descendants": 108,
+        "time": 1795671471,
+        "comments_url": "https://news.ycombinator.com/item?id=50651863"
+      },
+      "tags": [
+        "Science"
+      ],
+      "hot_score": 0.4
+    },
+    {
+      "title_en": "Show HN: Three Linux VMs in a browser tab, each running a different browser",
+      "url": "https://michidk.github.io/sidebyside/",
+      "title_zh": "演示：在同一浏览器标签页中运行三个 Linux 虚拟机，各自使用不同浏览器",
+      "is_new": true,
+      "created_display": "Created: Nov 26, 2026 / 07:00 PT",
+      "image_url": null,
+      "summary_en": "The demo runs three Linux virtual machines inside a single browser tab, with each VM running a different browser (Firefox, Chromium and Epiphany) pointed at the same URL. It shows a side-by-side setup that lets you view one URL under multiple browser engines simultaneously. This can be useful for cross-browser testing and comparisons without leaving a single tab.",
+      "summary_zh": "该演示在同一浏览器标签页内运行三个 Linux 虚拟机，每个虚拟机分别运行 Firefox、Chromium 和 Epiphany 并打开同一 URL。演示以并列方式展示，允许同时在多个浏览器引擎下查看相同页面。该方式可用于跨浏览器测试与比较，而无需离开单一标签页。",
+      "hn": {
+        "id": 50656036,
+        "type": "story",
+        "by": "michidk",
+        "score": 149,
+        "descendants": 33,
+        "time": 1795705206,
+        "comments_url": "https://news.ycombinator.com/item?id=50656036"
+      },
+      "tags": [
+        "Show HN",
+        "Programming",
+        "Web"
+      ],
+      "hot_score": 0.39
+    },
+    {
+      "title_en": "The Cutthroat Business of Shipwrecks",
+      "url": "https://daily.jstor.org/the-cutthroat-business-of-shipwrecks/",
+      "title_zh": "沉船打捞的残酷生意",
+      "is_new": true,
+      "created_display": "Created: Nov 26, 2026 / 17:21 PT",
+      "image_url": "https://daily.jstor.org/wp-content/uploads/2026/11/the_cutthroat_business_of_shipwrecks_1050x700.jpg",
+      "summary_en": "For centuries, lost cargo has triggered fierce disputes over who had the right to claim treasures washed ashore.",
+      "summary_zh": "几个世纪以来，失踪货物不断引发激烈争端，人们争夺被海水冲上岸的宝藏归属权。",
+      "hn": {
+        "id": 50661705,
+        "type": "story",
+        "by": "herbertl",
+        "score": 50,
+        "descendants": 12,
+        "time": 1795742509,
+        "comments_url": "https://news.ycombinator.com/item?id=50661705"
+      },
+      "hot_score": 0.31,
+      "tags": [
+        "Business"
+      ]
+    },
+    {
+      "title_en": "Pimalaya goes stable: Himalaya v3 and the pimdir standard",
+      "url": "https://blog.pimalaya.org/pimalaya-goes-stable/",
+      "title_zh": "Pimalaya 进入稳定版：Himalaya v3 与 pimdir 标准",
+      "is_new": true,
+      "created_display": "Created: Nov 27, 2026 / 01:50 PT",
+      "image_url": "https://blog.pimalaya.org/og.png",
+      "summary_en": "Pimalaya has released its CLI family alongside the first stable version of the pimdir standard. The release includes Himalaya v3, Neverest, Cardamum, Calendula, and Carillon v1, as well as Ortie and Comodoro v3. Most components are major releases that introduce breaking changes, and the announcement explains the reasons, implementation, and next steps.",
+      "summary_zh": "Pimalaya CLI 系列已与首个稳定版 pimdir 标准一同发布。此次发布包括 Himalaya v3、Neverest、Cardamum、Calendula 和 Carillon v1，以及 Ortie 和 Comodoro v3。大多数组件都是包含破坏性变更的主版本，公告解释了这些变更的原因、实现过程及后续计划。",
+      "hn": {
+        "id": 50664931,
+        "type": "story",
+        "by": "joshcsimmons",
+        "score": 15,
+        "descendants": 0,
+        "time": 1795773002,
+        "comments_url": "https://news.ycombinator.com/item?id=50664931"
+      },
+      "hot_score": 0.31,
+      "tags": [
+        "Programming"
+      ]
+    },
+    {
+      "title_en": "Smart people who give a shit use tools",
+      "url": "https://www.iankduncan.com/engineering/2026-11-19-smart-people-who-give-a-shit-use-tools",
+      "title_zh": "真正聪明且在乎的人会使用工具",
+      "is_new": true,
+      "created_display": "Created: Nov 24, 2026 / 23:46 PT",
+      "image_url": "https://iankduncan.com/portrait.jpg",
+      "summary_en": "The essay argues that LLMs mostly amplify the person using them: curious engineers can build and verify more, while careless users may avoid understanding the systems they operate. It discusses the role of experienced engineers in keeping aging infrastructure running and criticizes attempts to replace them with generative AI. The author says the tools can distance users from the underlying systems when used without sufficient care.",
+      "summary_zh": "文章认为，LLM 主要是在放大使用者本身：好奇且负责的工程师能够构建并验证更多东西，而粗心的使用者可能在不了解系统的情况下工作。文章讨论了经验丰富的工程师在维持老旧基础设施运行方面的作用，并批评用生成式 AI 取代他们的做法。作者认为，如果缺乏足够谨慎，这些工具会让使用者逐渐远离底层系统。",
+      "hn": {
+        "id": 50639698,
+        "type": "story",
+        "by": "matthewsinclair",
+        "score": 404,
+        "descendants": 305,
+        "time": 1795592803,
+        "comments_url": "https://news.ycombinator.com/item?id=50639698"
+      },
+      "tags": [
+        "AI",
+        "DevOps"
+      ],
+      "hot_score": 0.27
+    },
+    {
+      "title_en": "First images of the impact of DART asteroid deflection experiment",
+      "url": "https://arstechnica.com/space/2026/11/europes-hera-mission-returns-to-the-chaotic-scene-of-a-cosmic-smashup/",
+      "title_zh": "DART 小行星偏转实验影响的首批图像",
+      "is_new": true,
+      "created_display": "Created: Nov 26, 2026 / 09:24 PT",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/hera_arrival1-1020x648.jpg",
+      "summary_en": "NASA’s DART spacecraft successfully struck the asteroid Dimorphos in September 2022 to test whether an asteroid’s trajectory could be changed. The impact released about 10 billion joules of energy at more than 13,700 mph and shortened Dimorphos’s orbit around Didymos by roughly 33 minutes. The result was 25 times greater than the most conservative expectation, although the full extent of the debris produced was previously unknown.",
+      "summary_zh": "NASA 的 DART 航天器于 2022 年 9 月撞击小行星 Dimorphos，测试能否改变小行星的运行轨迹。撞击以超过每小时 13,700 英里的速度释放了约 100 亿焦耳能量，使 Dimorphos 绕其伴星 Didymos 的轨道缩短约 33 分钟。这个结果是最保守预期的 25 倍，但此前人们并不清楚撞击究竟会产生多大规模的碎片。",
+      "hn": {
+        "id": 50657392,
+        "type": "story",
+        "by": "Bender",
+        "score": 81,
+        "descendants": 14,
+        "time": 1795713877,
+        "comments_url": "https://news.ycombinator.com/item?id=50657392"
+      },
+      "hot_score": 0.25,
+      "tags": [
+        "Space",
+        "Science",
+        "Energy"
+      ]
+    },
+    {
+      "title_en": "George Whitesides, 1939-2026",
+      "url": "https://www.science.org/content/blog-post/george-whitesides-1939-2026",
+      "title_zh": "乔治·怀特赛兹，1939—2026",
+      "is_new": true,
+      "created_display": "Created: Nov 26, 2026 / 10:13 PT",
+      "image_url": null,
+      "summary_en": "George Whitesides lived from 1939 to 2026.",
+      "summary_zh": "乔治·怀特赛兹生于 1939 年，卒于 2026 年。",
+      "hn": {
+        "id": 50657936,
+        "type": "story",
+        "by": "dverlaeckt80",
+        "score": 77,
+        "descendants": 7,
+        "time": 1795716787,
+        "comments_url": "https://news.ycombinator.com/item?id=50657936"
+      },
+      "tags": [
+        "Science"
+      ],
+      "hot_score": 0.25
+    },
+    {
+      "title_en": "Unconditional Integer Factorization in Subexponential Time",
+      "url": "https://github.com/google-research/google-research/tree/4a7bc8ab0bc770e71a259b7966c500496b99010a/cogentic_research_papers/integer_factorization",
+      "title_zh": "无条件整数分解的亚指数时间算法",
+      "is_new": true,
+      "created_display": "Created: Nov 25, 2026 / 20:59 PT",
+      "image_url": "https://opengraph.githubassets.com/251993f7914473e40413bbbe2aafe0864c82bb482425ee28e81adbb43eca58f1/google-research/google-research",
+      "summary_en": "Google Research published a paper that constructs an unconditional, zero-error Las Vegas algorithm on a single fixed uniform classical multitape Turing machine that computes the exact prime factorization of any integer N ≥ 2. The algorithm halts with probability 1 over its read-once fair coin flips and achieves worst-case expected time L_N[1/3,105] with worst-case deterministic workspace L_N[1/3,40], where L_x(α,c) denotes the usual subexponential function. The result claims subexponential-time, zero-error factorization on a classical model with explicit time and workspace bounds.",
+      "summary_zh": "Google Research 发布了一篇论文，构造了一个无条件的零错误拉斯维加斯算法，运行在单个固定的一致性多带图灵机上，可以计算任意整数 N ≥ 2 的精确素因数分解。该算法在其一次性公平抛硬币的随机性下以概率 1 停机，宣称在最坏情况下的期望时间为 L_N[1/3,105]，最坏情况的确定性工作空间为 L_N[1/3,40]，其中 L_x(α,c) 是常用的亚指数函数。该结果在经典模型上给出了具有明确时间与空间界的亚指数时间、零错误分解算法。",
+      "hn": {
+        "id": 50651627,
+        "type": "story",
+        "by": "_alternator_",
+        "score": 155,
+        "descendants": 29,
+        "time": 1795669196,
+        "comments_url": "https://news.ycombinator.com/item?id=50651627"
+      },
+      "tags": [
+        "Science"
+      ],
+      "hot_score": 0.23
+    },
+    {
+      "title_en": "NormalScript: A perfectly normal scripting language",
+      "url": "https://psychoscript.com/",
+      "title_zh": "NormalScript：一种“完全正常”的脚本语言",
+      "is_new": true,
+      "created_display": "Created: Nov 25, 2026 / 20:32 PT",
+      "image_url": "https://psychoscript.com/art/card.jpg?v=2",
+      "summary_en": "NormalScript, also presented as PSYCHOSCRIPT, is a pure JavaScript package for Node 24 or later and Bun 1.4 or later. It requires no WASM module, native addon, or isolate. Programs can call `Runtime.make`, provide ordinary host functions, and run.",
+      "summary_zh": "NormalScript（也称 PSYCHOSCRIPT）是一个面向 Node 24 及以上版本和 Bun 1.4 及以上版本的纯 JavaScript 包。它不需要 WASM 模块、原生插件或 isolate。程序可以调用 `Runtime.make`，传入普通宿主函数后运行。",
+      "hn": {
+        "id": 50651430,
+        "type": "story",
+        "by": "hn-aarvin",
+        "score": 122,
+        "descendants": 29,
+        "time": 1795667546,
+        "comments_url": "https://news.ycombinator.com/item?id=50651430"
+      },
+      "tags": [
+        "Programming"
+      ],
+      "hot_score": 0.18
+    },
+    {
+      "title_en": "Show HN: Olumino, a Markdown notes and spaced repetition app",
+      "url": "https://olumino.app",
+      "title_zh": "Show HN：Olumino，Markdown 笔记与间隔重复应用",
+      "is_new": true,
+      "created_display": "Created: Nov 25, 2026 / 19:33 PT",
+      "image_url": "https://olumino.app/opengraph-image",
+      "summary_en": "Olumino combines Markdown notes with spaced repetition, taking inspiration from Mochi and Anki. Its creator says it aims to pair Anki’s functionality with Mochi’s simpler interface, and it includes Japanese flashcards with kana readings. The project is being built by a computer science student in their spare time.",
+      "summary_zh": "Olumino 将 Markdown 笔记与间隔重复结合起来，灵感来自 Mochi 和 Anki。开发者希望兼具 Anki 的功能与 Mochi 更简洁的界面，并加入了带假名读音的日语闪卡。该项目由一名计算机科学专业学生利用业余时间开发。",
+      "hn": {
+        "id": 50651099,
+        "type": "story",
+        "by": "Wiyseful",
+        "score": 122,
+        "descendants": 53,
+        "time": 1795663986,
+        "comments_url": "https://news.ycombinator.com/item?id=50651099"
+      },
+      "tags": [
+        "Show HN",
+        "Education"
+      ],
+      "hot_score": 0.17
+    },
+    {
+      "title_en": "Show HN: SimDrop – Running iOS simulators in the macOS Finder sidebar",
+      "url": "https://github.com/rxliuli/sim-drop",
+      "title_zh": "Show HN：SimDrop——在 macOS Finder 侧边栏运行 iOS 模拟器",
+      "is_new": true,
+      "created_display": "Created: Nov 26, 2026 / 08:51 PT",
+      "image_url": "https://opengraph.githubassets.com/b59b19c3350a281c7f7040eebb29a2cf8d43c65d557cde58b31f2339ab16dcde/rxliuli/sim-drop",
+      "summary_en": "SimDrop places running iOS simulators in Finder’s sidebar and exposes folders for Downloads and Photos and Videos. It also makes the simulator files available from the terminal, with simulators appearing when they boot and disappearing when they shut down. The free, GPL-3.0 open-source utility supports macOS 15 and later, is signed and notarized, and can be installed with Homebrew.",
+      "summary_zh": "SimDrop 会将正在运行的 iOS 模拟器放入 Finder 侧边栏，并提供 Downloads 以及 Photos and Videos 文件夹。它也支持通过终端访问模拟器文件，模拟器启动时出现，关闭后消失。这个免费的 GPL-3.0 开源工具支持 macOS 15 及以上版本，已签名并公证，可通过 Homebrew 安装。",
+      "hn": {
+        "id": 50657070,
+        "type": "story",
+        "by": "rxliuli",
+        "score": 52,
+        "descendants": 10,
+        "time": 1795711898,
+        "comments_url": "https://news.ycombinator.com/item?id=50657070"
+      },
+      "tags": [
+        "Show HN",
+        "Open Source",
+        "Programming"
+      ],
+      "hot_score": 0.15
+    },
+    {
+      "title_en": "Porting Rockbox to an undocumented $9 Aliexpress 'YP3' MP3 Player with LLMs",
+      "url": "https://jayd.ml/2026/11/14/rockbox-on-yp3.html",
+      "title_zh": "借助 LLM 将 Rockbox 移植到一款未公开资料的 9 美元速卖通 MP3 播放器",
+      "is_new": true,
+      "created_display": "Created: Nov 23, 2026 / 22:22 PT",
+      "image_url": "https://jayd.ml/assets/posts/2026-11-14-rockbox-on-yp3/listing.png",
+      "summary_en": "The author used an LLM-assisted process to port Rockbox to a $9 Aliexpress MP3 player with 512 KiB of memory, while being barely involved in the first port. The process was then turned into a reusable toolkit and set of skills for future ports. Claude subsequently got Rockbox running on another MP3 player, the TS47, in four hours.",
+      "summary_zh": "作者借助 LLM 将 Rockbox 移植到一款售价 9 美元、内存为 512 KiB 的速卖通 MP3 播放器上，首次移植过程中自己几乎没有参与。随后，作者将这套方法整理成可复用的工具包和技能。之后，Claude 又在四小时内让 Rockbox 运行在另一款 MP3 播放器 TS47 上。",
+      "hn": {
+        "id": 50624446,
+        "type": "story",
+        "by": "jaydenmilne",
+        "score": 288,
+        "descendants": 107,
+        "time": 1795501356,
+        "comments_url": "https://news.ycombinator.com/item?id=50624446"
+      },
+      "tags": [
+        "Programming",
+        "Open Source",
+        "AI"
+      ],
+      "hot_score": 0.1
+    },
+    {
+      "title_en": "Curiosity Is No Solo Act",
+      "url": "https://thereader.mitpress.mit.edu/curiosity-is-no-solo-act/",
+      "title_zh": "好奇心并非单打独斗",
+      "is_new": true,
+      "created_display": "Created: Nov 24, 2026 / 16:37 PT",
+      "image_url": null,
+      "summary_en": "Argues that curiosity is not a solitary endeavor but involves others or collaborative elements. The piece’s title indicates an emphasis on collective or social aspects of curiosity.",
+      "summary_zh": "主张好奇心并非孤立的活动，而涉及他人或协作要素。篇名强调好奇心的集体或社会性方面。",
+      "hn": {
+        "id": 50636931,
+        "type": "story",
+        "by": "Petiver",
+        "score": 170,
+        "descendants": 47,
+        "time": 1795567027,
+        "comments_url": "https://news.ycombinator.com/item?id=50636931"
+      },
+      "tags": [
+        "Education",
+        "Culture"
+      ],
+      "hot_score": 0.09
+    },
+    {
+      "title_en": "Launch HN: Versine (YC F26) – MCP to send and receive money",
+      "url": "https://news.ycombinator.com/item?id=50634426",
+      "title_zh": "Launch HN：Versine——通过 MCP 收发资金",
+      "is_new": true,
+      "created_display": "Created: Nov 24, 2026 / 12:44 PT",
+      "image_url": null,
+      "summary_en": "Versine is an MCP that lets users send and request money by talking or texting with an AI assistant. It uses a wallet, supports transfers to up to 100 people, and can let recipients without accounts cash out to a bank; passkeys provide approval, with optional automatic payments for trusted contacts. The founders designed it to let assistants complete financial tasks such as splitting receipts instead of handing the final transfer back to the user.",
+      "summary_zh": "Versine 是一个 MCP，允许用户通过与 AI 助手对话或发短信来收款和付款。它连接一个钱包，支持同时向最多 100 人转账；没有 Versine 账户的收款人也可将资金提现到银行，转账可通过通行密钥批准，可信联系人还可设置自动付款。创始人希望助手能完成拆分账单等金融任务，而不是把最后的转账步骤交还给用户。",
+      "hn": {
+        "id": 50634426,
+        "type": "story",
+        "by": "harshithl1777",
+        "score": 110,
+        "descendants": 110,
+        "time": 1795553055,
+        "comments_url": "https://news.ycombinator.com/item?id=50634426"
+      },
+      "tags": [
+        "Startups",
+        "Finance",
+        "AI"
+      ],
+      "hot_score": 0.05
+    },
+    {
+      "title_en": "Discovery of curse ritual in trash dump surprises Egyptologist",
+      "url": "https://phys.org/news/2026-11-discovery-curse-ritual-trash-dump.html",
+      "title_zh": "在垃圾堆发现诅咒仪式文书让埃及学家惊讶",
+      "is_new": true,
+      "created_display": "Created: Nov 23, 2026 / 13:18 PT",
+      "image_url": "https://scx2.b-cdn.net/gfx/news/hires/2026/discovery-of-curse-rit.jpg",
+      "summary_en": "Researchers discovered 40 charred papyrus fragments at a temple in the ancient city of Thebes, and those fragments are changing understanding of a famous ancient Egyptian curse ritual. The fragments indicate the ritual was likely far more widespread and commonplace than previously believed. This finding revises views about how frequently and broadly that ritual was practiced in ancient Egypt.",
+      "summary_zh": "研究人员在古代底比斯的一座神庙中发现了 40 份烧焦的纸莎草碎片，这些碎片正在改变人们对一项著名古埃及诅咒仪式的认识。碎片显示这一仪式可能比此前认为的更为普遍和平常。此项发现修正了该仪式在古埃及社会中实施频率和范围的认知。",
+      "hn": {
+        "id": 50619466,
+        "type": "story",
+        "by": "PaulHoule",
+        "score": 108,
+        "descendants": 64,
+        "time": 1795468729,
+        "comments_url": "https://news.ycombinator.com/item?id=50619466"
+      },
+      "tags": [
+        "Science"
+      ],
+      "hot_score": 0.03
+    }
+  ]
+}

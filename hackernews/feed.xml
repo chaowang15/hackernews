@@ -5,7 +5,7 @@
     <link>https://chaowang15.github.io/hackernews/</link>
     <description>Curated daily digest of top Hacker News stories with AI-generated summaries, tags, and bilingual translations.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 27 Nov 2026 02:06:59 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 16:05:10 +0000</lastBuildDate>
     <generator>Hacker News Daily RSS Builder</generator>
     <atom:link href="https://chaowang15.github.io/hackernews/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
@@ -107,8 +107,8 @@
       <category>Web</category>
       <description>&lt;p&gt;1Password identified an incident in which an attacker accessed an employee’s corporate GitHub account on November 19, 2026. The attacker used it to access source code, push malicious code to backend services, and download customer-related administrative data, including names, email addresses, and non-secret metadata; records for a subset of users were also downloaded. Customer vault contents were not accessed and remain secure.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;1Password 发现了一起安全事件：攻击者于 2026 年 11 月 19 日访问了一名员工的企业 GitHub 账户。攻击者利用该账户访问源代码、向后端服务推送恶意代码，并下载包含客户姓名、电子邮件地址及非机密账户元数据的管理数据；部分用户的账户记录也被下载。客户保险库内容未被访问，仍然安全。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 1634 · 💬 706 · Security · Privacy · Programming · Web&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50644817&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/26/top_stories_11262026#story-50644817&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+&lt;p&gt;&lt;small&gt;▲ 1686 · 💬 718 · Security · Privacy · Programming · Web&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50644817&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/27/top_stories_11272026#story-50644817&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Inkling 2 Mini</title>
@@ -185,20 +185,6 @@
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50617499&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/24/top_stories_11242026#story-50617499&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Anthropic’s Nasdaq debut</title>
-      <link>https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50562754</guid>
-      <dc:creator>wslh</dc:creator>
-      <pubDate>Thu, 19 Nov 2026 17:02:40 +0000</pubDate>
-      <category>Finance</category>
-      <category>Business</category>
-      <category>AI</category>
-      <description>&lt;p&gt;Anthropic made its debut on the Nasdaq stock exchange.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Anthropic 在纳斯达克证券交易所挂牌上市。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 1130 · 💬 2296 · Finance · Business · AI&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50562754&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/20/top_stories_11202026#story-50562754&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>Free alternative TV network built from the Internet Archive's forgotten videos</title>
       <link>https://spelunkr.tv</link>
       <guid isPermaLink="true">https://news.ycombinator.com/item?id=50606192</guid>
@@ -249,6 +235,20 @@
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50624497&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/25/top_stories_11252026#story-50624497&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>AI made self-hosting fun again</title>
+      <link>https://janlukas.blog/posts/ai-self-hosting</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50660180</guid>
+      <dc:creator>jlelse</dc:creator>
+      <pubDate>Thu, 26 Nov 2026 21:47:45 +0000</pubDate>
+      <category>AI</category>
+      <category>Programming</category>
+      <category>DevOps</category>
+      <description>&lt;p&gt;A longtime self-hoster says AI has renewed his interest in experimenting with infrastructure. Because much of his setup is stored in Git repositories as Docker Compose files, scripts, and configuration, coding agents can now modify services and automate tasks in a familiar software-project workflow. The lower friction makes trying new self-hosted services easier.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;一位长期进行自托管的用户表示，AI 重新激发了他折腾基础设施的兴趣。由于大部分配置以 Docker Compose 文件、脚本和其他配置文件的形式存放在 Git 仓库中，编码代理如今可以按照类似软件项目的流程修改服务和自动化任务。更低的操作门槛让尝试新的自托管服务变得更加容易。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 927 · 💬 448 · AI · Programming · DevOps&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50660180&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/27/top_stories_11272026#story-50660180&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>LLM agents work for their parent companies, not for you</title>
       <link>https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/</link>
       <guid isPermaLink="true">https://news.ycombinator.com/item?id=50627340</guid>
@@ -261,18 +261,6 @@
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50627340&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/24/top_stories_11242026#story-50627340&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Garage Door Spam</title>
-      <link>https://blog.harrison.page/garage-door-spam/</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50519231</guid>
-      <dc:creator>harrisonpage</dc:creator>
-      <pubDate>Mon, 16 Nov 2026 16:13:36 +0000</pubDate>
-      <category>Security</category>
-      <description>&lt;p&gt;A garage door opener initially sent notifications whenever the door opened or closed, which made unexpected openings seem meaningful when the owner was away. The owner continued using the myQ app despite its advertisements because the notifications appeared trustworthy.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;一款车库门开启器最初会在车门开关时发送通知，因此人在外出时，异常开门会显得格外重要。尽管 myQ 应用广告很多，用户仍因信任这些通知而继续使用它。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 912 · 💬 394 · Security&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50519231&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/20/top_stories_11202026#story-50519231&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>Button Sounds – collection of professionally-recorded button clicks and presses</title>
       <link>https://buttons.joshwcomeau.com/</link>
       <guid isPermaLink="true">https://news.ycombinator.com/item?id=50638032</guid>
@@ -283,19 +271,6 @@
 &lt;p&gt;&lt;em&gt;该合集提供 50 多种专业录制的多采样点击和拨动音效，并通过 NPM 发布。&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;▲ 886 · 💬 134 · Programming&lt;/small&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50638032&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/26/top_stories_11262026#story-50638032&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Pancreatic cancer halted by virus injection in three patients</title>
-      <link>https://www.newscientist.com/article/2528235-pancreatic-cancer-halted-by-virus-injection-in-three-patients/</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50563066</guid>
-      <dc:creator>cybermango</dc:creator>
-      <pubDate>Thu, 19 Nov 2026 17:25:33 +0000</pubDate>
-      <category>Health</category>
-      <category>Science</category>
-      <description>&lt;p&gt;A virus injection halted pancreatic cancer in three patients.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;三名胰腺癌患者在接受病毒注射后，癌症病情得到遏制。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 873 · 💬 154 · Health · Science&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50563066&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/20/top_stories_11202026#story-50563066&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>I'll never buy Framework hardware again</title>
@@ -375,6 +350,18 @@
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50603845&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/23/top_stories_11232026#story-50603845&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Tell HN: Happy Thanksgiving</title>
+      <link>https://news.ycombinator.com/item?id=50655664</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50655664</guid>
+      <dc:creator>ericmay</dc:creator>
+      <pubDate>Thu, 26 Nov 2026 14:26:54 +0000</pubDate>
+      <category>Culture</category>
+      <description>&lt;p&gt;A short holiday message wishes readers a great day spent with friends and family and suggests that if the day isn't going well, they should make it a great day anyway. The post is a brief, positive greeting directed at the community.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;一则简短的节日问候祝愿读者与亲友度过愉快的一天，并建议如果当天不顺，也要尽力让它变得美好。该帖是一条面向社区的积极问候。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 708 · 💬 156 · Culture&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50655664&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/27/top_stories_11272026#story-50655664&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>If you can't explain something in simple terms, you don't understand it (2017)</title>
       <link>https://kottke.org/17/06/if-you-cant-explain-something-in-simple-terms-you-dont-understand-it</link>
       <guid isPermaLink="true">https://news.ycombinator.com/item?id=50572355</guid>
@@ -412,21 +399,6 @@
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50588982&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/22/top_stories_11222026#story-50588982&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>UK government forced to admit it issued Apple a secret encryption order</title>
-      <link>https://macanorak.com/uk-government-forced-to-admit-it-issued-apple-a-secret-encryption-order/</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50562113</guid>
-      <dc:creator>Terretta</dc:creator>
-      <pubDate>Thu, 19 Nov 2026 16:21:03 +0000</pubDate>
-      <category>Privacy</category>
-      <category>Legal</category>
-      <category>Security</category>
-      <category>Politics</category>
-      <description>&lt;p&gt;The Investigatory Powers Tribunal rejected the UK government’s attempt to keep its order to Apple secret. The tribunal ruled that the government must acknowledge issuing Apple a Technical Capability Notice under Section 253 of the Investigatory Powers Act 2016. Such notices can require technology companies to alter services to facilitate investigatory powers, in this case amid a dispute over encrypted iCloud data.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;调查权力法庭驳回了英国政府试图对苹果命令保持保密的做法。法庭裁定，政府必须承认其依据《2016 年调查权力法》第 253 条向苹果发出过技术能力通知。这类通知可以要求科技公司修改服务，以协助行使调查权；本案涉及加密 iCloud 数据争议。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 689 · 💬 361 · Privacy · Legal · Security · Politics&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50562113&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/20/top_stories_11202026#story-50562113&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>Stalwart is now a drop-in replacement for Microsoft Exchange</title>
       <link>https://stalw.art/blog/microsoft-exchange-replacement/</link>
       <guid isPermaLink="true">https://news.ycombinator.com/item?id=50620349</guid>
@@ -451,6 +423,18 @@
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50587875&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/22/top_stories_11222026#story-50587875&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>The New York Times warns photographers not to update Photoshop over AI features</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50647673</guid>
+      <dc:creator>rmason</dc:creator>
+      <pubDate>Wed, 25 Nov 2026 21:18:02 +0000</pubDate>
+      <category>AI</category>
+      <description>&lt;p&gt;The New York Times has warned photographers not to update Photoshop because of its AI features.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;《纽约时报》警告摄影师，不要因为 Photoshop 的 AI 功能而进行更新。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 676 · 💬 539 · AI&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50647673&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/27/top_stories_11272026#story-50647673&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Frostbite: A new CPU architecture discovered, designed and verified by AI</title>
       <link>https://architectlabs.com/blog/frostbite</link>
       <guid isPermaLink="true">https://news.ycombinator.com/item?id=50572503</guid>
@@ -462,18 +446,6 @@
 &lt;p&gt;&lt;em&gt;Frostbite 是一款基于交互网络的通用 CPU，其架构由 AI 系统端到端完成发现、设计和验证。该项目引入了全新的指令集，并利用局部步骤、显式依赖和数值单一所有权等特性。在所报告的基准测试中，它达到了现代双发射顺序执行 CPU 核心 4.59 倍的每瓦性能。&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;▲ 668 · 💬 353 · AI · Hardware&lt;/small&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50572503&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/21/top_stories_11212026#story-50572503&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>The New York Times warns photographers not to update Photoshop over AI features</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50647673</guid>
-      <dc:creator>rmason</dc:creator>
-      <pubDate>Wed, 25 Nov 2026 21:18:02 +0000</pubDate>
-      <category>AI</category>
-      <description>&lt;p&gt;The New York Times has warned photographers not to update Photoshop because of its AI features.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;《纽约时报》警告摄影师，不要因为 Photoshop 的 AI 功能而进行更新。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 654 · 💬 520 · AI&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50647673&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/26/top_stories_11262026#story-50647673&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife</title>
@@ -511,18 +483,6 @@
 &lt;p&gt;&lt;em&gt;这是一个以插画呈现日常工程设计的项目。创作者关注那些常被忽视的普通机械物件，其中包括自动铅笔和喷雾瓶。&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;▲ 606 · 💬 147 · Design&lt;/small&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50598555&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/25/top_stories_11252026#story-50598555&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Tell HN: Happy Thanksgiving</title>
-      <link>https://news.ycombinator.com/item?id=50655664</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50655664</guid>
-      <dc:creator>ericmay</dc:creator>
-      <pubDate>Thu, 26 Nov 2026 14:26:54 +0000</pubDate>
-      <category>Culture</category>
-      <description>&lt;p&gt;A short holiday message wishes readers a great day spent with friends and family and suggests that if the day isn't going well, they should make it a great day anyway. The post is a brief, positive greeting directed at the community.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;一则简短的节日问候祝愿读者与亲友度过愉快的一天，并建议如果当天不顺，也要尽力让它变得美好。该帖是一条面向社区的积极问候。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;▲ 603 · 💬 136 · Culture&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50655664&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/26/top_stories_11262026#story-50655664&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>XNU Linux: Full OS X GUI Userspace on Linux</title>
@@ -602,6 +562,19 @@
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50563148&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/21/top_stories_11212026#story-50563148&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Intel One Mono font (2023)</title>
+      <link>https://github.com/intel/intel-one-mono</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50653667</guid>
+      <dc:creator>saikatsg</dc:creator>
+      <pubDate>Thu, 26 Nov 2026 10:11:01 +0000</pubDate>
+      <category>Open Source</category>
+      <category>Design</category>
+      <description>&lt;p&gt;Intel published the Intel One Mono font repository, introducing a monospaced font family designed for clarity, legibility, and developer needs. The project emphasizes improved readability and is released under an open-source font license, making it freely available. The font targets developer workflows where monospaced clarity matters.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;英特尔发布了 Intel One Mono 字体仓库，推出一款为清晰度、可读性及开发者需求设计的等宽字体家族。该项目强调更易阅读性，并以开源字体许可免费提供。该字体面向对等宽字体清晰度有要求的开发者工作流。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 560 · 💬 266 · Open Source · Design&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50653667&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/27/top_stories_11272026#story-50653667&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Carnival Cruises emits ten times more sulphur oxide than all of Europe's cars (2019)</title>
       <link>https://ecohustler.com/article/one-corporation-to-pollute-them-all/</link>
       <guid isPermaLink="true">https://news.ycombinator.com/item?id=50572116</guid>
@@ -637,6 +610,30 @@
 &lt;p&gt;&lt;em&gt;Terence Tao 列出了涉及无外力 Euler 方程、Navier–Stokes 方程、黎曼猜想以及 Levent Alpöge、Tristan Buckmaster 等研究者的最新结果。他表示，这些结果还会在其他渠道广泛报道，同时指出目前对这些成果的理解和整理程度各不相同。该文章发表于 2026 年 11 月 20 日。&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;▲ 538 · 💬 240 · Science&lt;/small&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50578358&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/21/top_stories_11212026#story-50578358&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Ternary Bonsai 2.5 27B</title>
+      <link>https://prismml.com/news/bonsai-2-5-27b</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50633922</guid>
+      <dc:creator>b0m</dc:creator>
+      <pubDate>Tue, 24 Nov 2026 20:08:03 +0000</pubDate>
+      <category>AI</category>
+      <description>&lt;p&gt;Ternary has introduced Bonsai 2.5 27B, an upgrade based on Qwen3.8 27B. It retains the previous model’s 5.9 GB footprint while improving agentic coding, multi-turn tool use, and multi-step task execution. The release also aims to reduce excessive reasoning and repetitive loops during long tool-call sequences.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Ternary 发布了基于 Qwen3.8 27B 的 Bonsai 2.5 27B。该模型保留上一代 5.9 GB 的占用，同时提升了代理式编程、多轮工具调用和多步骤任务执行能力。新版本还试图减少长串工具调用中的过度思考和重复循环。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 531 · 💬 176 · AI&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50633922&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/25/top_stories_11252026#story-50633922&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Apple removed my open-source app from EU App Stores after 9 years</title>
+      <link>https://github.com/glushchenko/fsnotes/discussions/2056</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50616933</guid>
+      <dc:creator>fluder</dc:creator>
+      <pubDate>Mon, 23 Nov 2026 18:48:10 +0000</pubDate>
+      <category>Open Source</category>
+      <description>&lt;p&gt;The independent developer of FSNotes says Apple removed the open-source note-taking app from European App Stores after nine years. FSNotes is available for macOS and iOS, and the developer says support requests have been ignored. The supplied excerpt does not state Apple's reason for the removal.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;FSNotes 的独立开发者表示，苹果在该应用发布九年后将这款开源笔记应用从欧洲 App Store 下架。FSNotes 面向 macOS 和 iOS，开发者称自己的支持请求一直未获回应。现有摘录没有说明苹果下架该应用的原因。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;▲ 525 · 💬 115 · Open Source&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50616933&quot;&gt;HN Discussion&lt;/a&gt; · &lt;a href=&quot;https://chaowang15.github.io/hackernews/2026/11/23/top_stories_11232026#story-50616933&quot;&gt;View on Hacker News Daily&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
